@@ -9,6 +9,8 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
+//@ts-ignore
+import script from "./scripts/youtube-player.inline"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -48,6 +50,53 @@ export function pageResources(
         spaPreserve: true,
         script: contentIndexScript,
       },
+      // {
+      //   loadTime: "afterDOMReady",
+      //   contentType: "inline",
+      //   script: `
+      //     function initYouTubePlayer() {
+      //       console.log("Initializing YouTube player...")
+
+      //       // Load YouTube IFrame API
+      //       const tag = document.createElement("script")
+      //       tag.src = "https://www.youtube.com/iframe_api"
+      //       const firstScriptTag = document.getElementsByTagName("script")[0]
+      //       firstScriptTag.parentNode?.insertBefore(tag, firstScriptTag)
+
+      //       // Initialize player when API is ready
+      //       window.onYouTubeIframeAPIReady = () => {
+      //         console.log("YouTube API ready")
+      //         const iframe = document.querySelector('iframe.youtube-player')
+      //         if (iframe) {
+      //           const player = new YT.Player(iframe, {
+      //             events: {
+      //               onReady: () => {
+      //                 console.log("Player ready")
+      //                 // Add click handlers for timestamp links
+      //                 const timestampLinks = document.querySelectorAll('a[href^="#t="]')
+      //                 timestampLinks.forEach((link) => {
+      //                   link.addEventListener("click", (e) => {
+      //                     e.preventDefault()
+      //                     console.log("Timestamp clicked")
+      //                     const timestamp = link.getAttribute("href")?.replace("#t=", "")
+      //                     if (timestamp && player) {
+      //                       const [hours, minutes, seconds] = timestamp.split(":").map(Number)
+      //                       const totalSeconds = hours * 3600 + minutes * 60 + seconds
+      //                       player.seekTo(totalSeconds)
+      //                     }
+      //                   })
+      //                 })
+      //               },
+      //             },
+      //           })
+      //         }
+      //       }
+      //     }
+
+      //     // Run initialization when DOM is ready
+      //     document.addEventListener("DOMContentLoaded", initYouTubePlayer)
+      //   `,
+      // },
       ...staticResources.js,
     ],
     additionalHead: staticResources.additionalHead,
@@ -224,6 +273,7 @@ export function renderPage(
 
   const RightComponent = (
     <div class="right sidebar">
+      {/* <YouTubePlayer {...componentData} /> */}
       {right.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
@@ -260,7 +310,7 @@ export function renderPage(
               </div>
             </div>
             {RightComponent}
-            <Footer {...componentData} />
+            {/* <Footer {...componentData} /> */}
           </Body>
         </div>
       </body>

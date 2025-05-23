@@ -616,3 +616,8 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+a.yt-timestamp {
+  cursor: pointer;
+  text-decoration: underline;
+}
