@@ -12,3 +12,4 @@ replit.nix
 .env
 venv/
 __pycache__
+.venv/
