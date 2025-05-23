@@ -1,8 +1,7 @@
 ---
-title: Welcome to WikiTube.
-date: "2025-05-21"
+title: Tubegraph
 ---
 
-Turn any YouTube channel into a rich searchable content format.
+### Any Youtube channel **_mapped._**
 
-- [[dwarkesh | Dwarkesh Podcast]]
+- [[dwarkeshpatel | The Dwarkesh Podcast]]

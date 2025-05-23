@@ -112,9 +112,6 @@ def get_all_vids(channel_id):
     videos = get_all_videos(youtube, uploads_pid)
 
     print(f"{len(videos)} videos found on channel {channel_id}\n")
-    for v in videos:
-        url = f"https://www.youtube.com/watch?v={v['videoId']}"
-        # print(f"{v['publishedAt']}  {v['title']}  {url}")
     return videos
 
 
@@ -131,4 +128,4 @@ def get_channel_vids_filtered(channel_id):
         if isodate.parse_duration(vid["duration"]).total_seconds() > 3000
     ]
     # print(vids_filtered[:50])
-    return vids_filtered[:50]
+    return vids_filtered[:100]
