@@ -6,6 +6,8 @@ Usage:
 """
 
 import os
+from datetime import datetime
+from typing import List, Literal
 
 import isodate
 import requests
@@ -44,7 +46,7 @@ def get_uploads_playlist_id(youtube, channel_id: str) -> str:
     return items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
 
 
-def get_video_details(youtube, video_ids: list[str]) -> dict:
+def get_video_details(youtube, video_ids: List[str]) -> dict:
     """Fetch duration and view count for a list of video IDs."""
     details = {}
     for i in range(0, len(video_ids), 50):  # API allows max 50 IDs per call
@@ -69,7 +71,7 @@ def get_video_details(youtube, video_ids: list[str]) -> dict:
     return details
 
 
-def get_all_videos(youtube, playlist_id: str) -> list[dict]:
+def get_all_videos(youtube, playlist_id: str) -> List[dict]:
     """Return a list of dicts with videoId, title, publishedAt, duration, and viewCount."""
     vids, page_token = [], None
     while True:
@@ -115,9 +117,18 @@ def get_all_vids(channel_id):
     return videos
 
 
-def get_channel_vids_filtered(channel_id):
+def get_channel_vids_filtered(
+    channel_id: str, sort_by: Literal["views", "upload_date"], min_vid_duration: int
+):
     all_vids = get_all_vids(channel_id)
-    view_sorted = sorted(all_vids, key=lambda d: int(d["viewCount"]), reverse=True)
+    if sort_by == "views":
+        view_sorted = sorted(all_vids, key=lambda d: int(d["viewCount"]), reverse=True)
+    else:
+        view_sorted = sorted(
+            all_vids,
+            key=lambda d: datetime.strptime(d["publishedAt"], "%Y-%m-%dT%H:%M:%SZ"),
+            reverse=True,
+        )
     # video_print = "\n".join(
     #     f"{i + 1}. {v['title']} : {v['viewCount']}" for i, v in enumerate(view_sorted)
     # )
@@ -125,7 +136,7 @@ def get_channel_vids_filtered(channel_id):
     vids_filtered = [
         vid
         for vid in view_sorted
-        if isodate.parse_duration(vid["duration"]).total_seconds() > 3000
+        if isodate.parse_duration(vid["duration"]).total_seconds() > min_vid_duration
     ]
     # print(vids_filtered[:50])
     return vids_filtered[:100]

@@ -12,7 +12,7 @@ export default (() => {
         id="main-yt"
         className="youtube-player"
         // use the page’s real origin so the JS API works in prod too
-        src={`https://www.youtube.com/embed/${videoId}?enablejsapi=1&origin=http://localhost:8080`}
+        src={`https://www.youtube.com/embed/${videoId}?enablejsapi=1`}
         style={{ width: "100%", aspectRatio: "16/9" }}
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen

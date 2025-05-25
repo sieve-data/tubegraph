@@ -12,13 +12,10 @@ Key improvements
    tuple structure.
 """
 
-from __future__ import annotations
-
 import json
 import os
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from dataclasses import dataclass
 from typing import List
 
 import openai
@@ -39,7 +36,6 @@ gemini_client = openai.OpenAI(
 )
 
 
-@dataclass(slots=True)
 class Subtitle:
     text: str
     start: float
@@ -49,7 +45,6 @@ class Subtitle:
         return f"{self.start:.3f} – {self.end:.3f} : {self.text}"
 
 
-@dataclass(slots=True)
 class Post:
     """Represents one finished (or in-progress) wiki-style article."""
 
@@ -121,24 +116,24 @@ Keep the number of topics to around 5 or LESS.  Return exactly this JSON shape:
 
 SYSTEM_PROMPT_POST = """
 You are a writer that is writing on a wiki style article based on a video/podcast and a given topic.
-The topic is one of the things that is discussed in the video. Please write an article, 
+The topic is one of the things that is discussed in the video. Please write an article,
 ideally only using information from that video on the given topic. Please write your article
-in Obsidian flavored markdown format, (with headings, subheadings, etc.). You can also use callouts like so: 
+in Obsidian flavored markdown format, (with headings, subheadings, etc.). You can also use callouts like so:
 > [!info] Title
-> 
+>
 > This is a callout!
 Additionally include reference timecodes within the article to the relevant timestamps for the relevant info in the transcript.
-PLEASE ensure you use the following EXACT format for the timecodes: 
+PLEASE ensure you use the following EXACT format for the timecodes:
 <a class="yt-timestamp" data-t="HH:MM:SS">[HH:MM:SS]</a>
 """
 
 SYSTEM_PROMPT_REFERENCE = """
 You are an article editor that is going through an article and adding backlinks to other articles based on
 a given set of topics. You will be given an article along with the topics and the topic links. Put the link
-to the reference files in markdown format like [[article_link | text to display]]. So try to keep the links relevant 
-and in context, 
+to the reference files in markdown format like [[article_link | text to display]]. So try to keep the links relevant
+and in context,
 
-for example. 
+for example.
 Kevin durant was recently [[kevin_durant_brooklyn_nets | drafted to the Nets]].
 
 PLEASE return the article back with the backlinks embedded in the text. Keep everything in the post the same, and DON'T INCLUDE ANYTHING extra.
@@ -289,14 +284,16 @@ def add_references(posts: List[Post]) -> List[Post]:
 
 
 def write_posts(posts: List[Post], username) -> None:
+    all_markdowns = []
     os.makedirs(username, exist_ok=True)
     for post in posts:
-        vid_url = f"https://www.youtube.com/watch?v={post.video_id}"
         frontmatter = f"---\ntitle: {post.topic}\nvideoId: {post.video_id}\n---\n\nFrom: [[{username}]] <br/> \n"
         with open(
             os.path.join(username, f"{post.filename}.md"), "w", encoding="utf-8"
         ) as fh:
+            all_markdowns.append(frontmatter + post.content)
             fh.write(frontmatter + post.content)
+    return all_markdowns
 
 
 def process_video(vid) -> List[Post]:
@@ -335,14 +332,33 @@ def write_directory_post(all_posts: List[Post], username):
         sections.append(f"{header}\n{topics}")
 
     content = frontmatter + "\n\n".join(sections)
-    with open(os.path.join(username, f"{username}.md"), "w", encoding="utf-8") as fh:
-        fh.write(content)
+    # with open(os.path.join(username, f"{username}.md"), "w", encoding="utf-8") as fh:
+    #     fh.write(content)
+    return content
 
 
-def main() -> None:
+@sieve.function(
+    name="create-tubegraph-pages",
+    python_version="3.9",
+    python_packages=[
+        "openai",
+        "python-dotenv",
+        "sievedata",
+        "webvtt-py",
+        "isodate",
+        "google-api-python-client",
+    ],
+)
+def get_items(
+    username: str,
+    min_vid_duration: int,
+    sort_by: str,
+):
     username = "DwarkeshPatel"
+    print(username)
     channel_id = get_channel_id(username)
-    vids_array = get_channel_vids_filtered(channel_id)
+    print("getting, ", channel_id)
+    vids_array = get_channel_vids_filtered(channel_id, sort_by, min_vid_duration)
 
     all_posts: List[Post] = []
 
@@ -357,9 +373,7 @@ def main() -> None:
     all_posts = add_references(all_posts)
 
     print("Writing posts…")
-    write_posts(all_posts, username)
-    write_directory_post(all_posts, username)
-
-
-if __name__ == "__main__":
-    main()
+    all_markdowns = write_posts(all_posts, username)
+    directory_post = write_directory_post(all_posts, username)
+    all_markdowns.append(directory_post)
+    return all_markdowns
