@@ -460,4 +460,4 @@ def get_items(
     pr_url = create_pr_with_files(file_paths, username)
     print(f"✅ Opened PR: {pr_url}")
 
-    return {"posts": all_markdowns, "pr_url": pr_url}
+    return {"pr_url": pr_url}
