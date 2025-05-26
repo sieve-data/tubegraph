@@ -63,6 +63,7 @@ function getChannelDisplayName(channelPath: string): string {
     "DwarkeshPatel/DwarkeshPatel": "Dwarkesh Podcast",
     "lexfridman/lexfridman": "Lex Fridman",
     "hubermanlab/hubermanlab": "Huberman Lab",
+    "awdii/awdii": "Awdii",
   }
   return channelMap[channelPath] || channelPath
 }
