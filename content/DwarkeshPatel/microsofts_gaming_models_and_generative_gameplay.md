@@ -3,7 +3,7 @@ title: Microsoft's gaming models and generative gameplay
 videoId: 4GLSzuYXh6w
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[DwarkeshPatel]] <br/>
 Recently, Microsoft has made a significant announcement concerning their advancements in gaming models and generative gameplay. This breakthrough involves using gameplay data to generate games that are consistent, diverse, and persistent to user modifications.
 
 ## Introduction to Muse: The Human Action Model
@@ -19,7 +19,7 @@ Microsoft has collaborated with one of their game studios to implement these mod
 Phil Spencer demonstrated how an Xbox controller's input could be processed by Muse to generate consistent game outputs in real-time [00:44:46]. This capability draws parallels to other significant moments in AI, such as when ChatGPT started to complete sentences or when Dall-E began creating images from text prompts. These breakthroughs illustrate the importance of [[ai_safety_and_alignment | AI safety and alignment]] in ensuring that advanced systems act in accordance with user expectations and ethical guidelines [00:45:08].
 
 > [!info] Real-Time Gameplay Generation
-> 
+>
 > Microsoft’s new models can take input from a controller to generate consistent game outputs on-the-fly.
 
 ## Future Implications for Game Development
@@ -40,4 +40,4 @@ The advancements in gaming models and generative gameplay represent just one of 
 
 Through Muse and related technologies, Microsoft is poised to advance not just in gaming, but across multiple disciplines where dynamic, autonomous interactions are key. This strategic positioning could set the stage for a new era in gaming and digital experiences, reflecting the [[potential_future_advancements_in_gene_editing_and_artificial_intelligence | potential future advancements in AI and technology]].
 
-For further insights, listen to the detailed discussion around these breakthroughs in the [transcript provided](...), particularly sections starting at <a class="yt-timestamp" data-t="00:44:39">[00:44:39]</a>.
+For further insights, listen to the detailed discussion around these breakthroughs listen to sections starting at <a class="yt-timestamp" data-t="00:44:39">[00:44:39]</a>.

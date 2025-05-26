@@ -1,10 +1,10 @@
-# Dracula for Obsidian
+# Gitsidian
 
-[Dracula for Obsidian](#)
+[Gitsidian](#)
 
 ## Preview
 
-[Open live preview](https://quartz-themes.github.io/dracula-for-obsidian/)
+[Open live preview](https://quartz-themes.github.io/gitsidian/)
 
 ## Usage
 
@@ -12,7 +12,7 @@
 
 ```yaml
 env:
-  THEME_NAME: dracula-for-obsidian
+  THEME_NAME: gitsidian
 ```
 
 ```yaml
@@ -25,7 +25,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh dracula-for-obsidian
+./action.sh gitsidian
 ```
 
 ### Install script (Advanced)
@@ -33,5 +33,5 @@ curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-them
 After installing:
 
 ```bash
-npm run theme dracula-for-obsidian
+npm run theme gitsidian
 ```

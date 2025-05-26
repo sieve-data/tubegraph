@@ -14,6 +14,14 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+export const indexPageLayout: PageLayout = {
+  beforeBody: [
+    Component.Landing(), // hypothetical component
+  ],
+  left: [],
+  right: [],
+}
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [

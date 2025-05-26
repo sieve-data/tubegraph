@@ -19,6 +19,9 @@ import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
+import { scaleOrdinal } from "d3-scale"
+import { schemeTableau10 } from "d3-scale-chromatic"
+import { kmeans } from "ml-kmeans" // tiny library
 
 type GraphicsInfo = {
   color: string
@@ -112,6 +115,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     focusOnHover,
     enableRadial,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
+
+  const tagColorScale = scaleOrdinal<string, string>(schemeTableau10)
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
     Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
@@ -217,23 +222,78 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
+  let assignedColors = false
+
+  simulation.on("tick", () => {
+    if (!assignedColors)
+      if (simulation.alpha() < 0.004) {
+        assignClustersAndRecolour()
+        assignedColors = true
+      }
+  })
+
+  const clusterSize = 10
+  function assignClustersAndRecolour() {
+    // 3-a. Collect the final coordinates.
+    const positions = graphData.nodes.map((n) => [n.x!, n.y!]) as [number, number][]
+    const k = Math.ceil(graphData.nodes.length / clusterSize)
+
+    // 3-b. Run k-means – returns an array[ nodeIndex ] = clusterIndex.
+    const assignments = kmeans(positions, k, {}).clusters
+
+    // 3-c. Copy the cluster ID onto each NodeData object
+    graphData.nodes.forEach((n, i) => ((n as any).cluster = assignments[i]))
+
+    // 3-d. Build a colour scale just for clusters
+    const clusterColour = scaleOrdinal<string, string>(schemeTableau10).domain([
+      ...new Set(assignments.map(String)),
+    ])
+
+    // 3-e. Update the colour on–screen
+    nodeRenderData.forEach((n) => {
+      const cID = (n.simulationData as any).cluster
+      n.color = clusterColour(String(cID))
+      n.gfx.clear().circle(0, 0, nodeRadius(n.simulationData)).fill({ color: n.color })
+    })
+
+    app.renderer.render(stage) // force one redraw
+  }
+
   // calculate color
-  const color = (d: NodeData) => {
-    const isCurrent = d.id === slug
-    if (isCurrent) {
-      return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
-    } else {
-      return computedStyleMap["--gray"]
+  // const color = (d: NodeData) => {
+  //   const isCurrent = d.id === slug
+  //   if (isCurrent) {
+  //     return computedStyleMap["--secondary"]
+  //   } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+  //     return computedStyleMap["--tertiary"]
+  //   } else {
+  //     return computedStyleMap["--gray"]
+  //   }
+  // }
+
+  const color = (d: NodeData): string => {
+    if (d.id === slug) return computedStyleMap["--secondary"]
+
+    // Tag nodes colour themselves
+    if (d.id.startsWith("tags/")) {
+      return tagColorScale(d.id)
     }
+
+    // Pick whichever tag is still visible after `removeTags`
+    const tagForColour = d.tags.find((t) => !removeTags.includes(t))
+    if (tagForColour) {
+      return tagColorScale(`tags/${tagForColour}` as SimpleSlug)
+    }
+
+    // Fallback neutral (e.g. un-tagged notes)
+    return computedStyleMap["--gray"]
   }
 
   function nodeRadius(d: NodeData) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
     ).length
-    return 2 * Math.sqrt(numLinks)
+    return 1 + 1.6 * Math.sqrt(numLinks)
     // return 2 + Math.pow(numLinks, 1.5)
     // return Math.log(numLinks + 1) * 2
   }
