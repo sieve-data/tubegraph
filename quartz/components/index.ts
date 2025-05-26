@@ -25,7 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import YouTubePlayer from "./YoutubePlayer"
 import ChannelLoader from "./ChannelLoader"
-import Landing from "./pages/Landing"
+import Landing from "./Landing"
 
 export {
   ArticleTitle,

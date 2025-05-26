@@ -114,6 +114,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     showTags,
     focusOnHover,
     enableRadial,
+    rootNode,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
   const tagColorScale = scaleOrdinal<string, string>(schemeTableau10)
@@ -152,7 +153,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   const neighbourhood = new Set<SimpleSlug>()
-  const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
+  const graphRootSlug = rootNode ? simplifySlug(rootNode as FullSlug) : slug
+  const wl: (SimpleSlug | "__SENTINEL")[] = [graphRootSlug, "__SENTINEL"]
   if (depth >= 0) {
     while (depth >= 0 && wl.length > 0) {
       // compute neighbours
@@ -260,33 +262,15 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   // calculate color
-  // const color = (d: NodeData) => {
-  //   const isCurrent = d.id === slug
-  //   if (isCurrent) {
-  //     return computedStyleMap["--secondary"]
-  //   } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-  //     return computedStyleMap["--tertiary"]
-  //   } else {
-  //     return computedStyleMap["--gray"]
-  //   }
-  // }
-
-  const color = (d: NodeData): string => {
-    if (d.id === slug) return computedStyleMap["--secondary"]
-
-    // Tag nodes colour themselves
-    if (d.id.startsWith("tags/")) {
-      return tagColorScale(d.id)
+  const color = (d: NodeData) => {
+    const isCurrent = d.id === slug
+    if (isCurrent) {
+      return computedStyleMap["--secondary"]
+    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+      return computedStyleMap["--tertiary"]
+    } else {
+      return computedStyleMap["--gray"]
     }
-
-    // Pick whichever tag is still visible after `removeTags`
-    const tagForColour = d.tags.find((t) => !removeTags.includes(t))
-    if (tagForColour) {
-      return tagColorScale(`tags/${tagForColour}` as SimpleSlug)
-    }
-
-    // Fallback neutral (e.g. un-tagged notes)
-    return computedStyleMap["--gray"]
   }
 
   function nodeRadius(d: NodeData) {

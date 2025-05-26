@@ -2,3 +2,10 @@
 @use "./themes";
 
 // put your custom CSS here!
+
+@font-face {
+    font-family: "Tiempos";
+    src: url("/static/tiempos-light.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}

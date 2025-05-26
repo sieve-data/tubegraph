@@ -15,14 +15,17 @@ Key improvements
 import json
 import os
 import re
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from typing import List
+from dataclasses import dataclass
+from typing import List, Literal, Union
 
 import openai
 import sieve
 import webvtt
 from dotenv import load_dotenv
 from get_channel_vids import get_channel_id, get_channel_vids_filtered
+from github import Github, GithubException
 
 load_dotenv()
 openai_client = openai.OpenAI(
@@ -36,6 +39,74 @@ gemini_client = openai.OpenAI(
 )
 
 
+# Constants for the target repository
+GITHUB_REPO = "sieve-data/tubegraph"
+
+
+def _get_repo():
+    """Authenticate and return the PyGitHub Repository object."""
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise RuntimeError("GITHUB_TOKEN env-var missing; cannot push to GitHub.")
+    gh = Github(token)
+    try:
+        return gh.get_repo(GITHUB_REPO)
+    except GithubException as exc:
+        raise RuntimeError(f"Cannot access repo {GITHUB_REPO}: {exc}") from exc
+
+
+def create_pr_with_files(file_paths: List[str], username: str) -> str:
+    """Upload `file_paths` to content/<username>/ in the repo & open a PR.
+
+    Returns the html_url of the created pull‑request.
+    """
+    repo = _get_repo()
+    default_branch = repo.default_branch
+
+    # 1️⃣ create a dedicated branch off the default branch
+    base_sha = repo.get_branch(default_branch).commit.sha
+    branch_name = f"add-{username}-content-{int(time.time())}"
+    repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=base_sha)
+
+    # 2️⃣ add / update every markdown file in that branch
+    commit_prefix = f"Add TubeGraph posts for {username}:"
+    for abs_path in file_paths:
+        with open(abs_path, "rb") as fh:
+            content_str = fh.read().decode()
+        # Preserve the per‑username sub‑folder inside content/
+        rel_name = os.path.basename(abs_path)
+        dest_path = f"content/{username}/{rel_name}"
+        try:
+            repo.create_file(
+                dest_path,
+                f"{commit_prefix} {rel_name}",
+                content_str,
+                branch=branch_name,
+            )
+        except GithubException as exc:
+            # If the file already exists in that branch (re‑runs) => update
+            if exc.status == 422 and "file already exists" in str(exc.data):
+                repo.update_file(
+                    dest_path,
+                    f"Update {rel_name}",
+                    content_str,
+                    repo.get_contents(dest_path, ref=branch_name).sha,
+                    branch=branch_name,
+                )
+            else:
+                raise
+
+    # 3️⃣ open the pull‑request
+    pr = repo.create_pull(
+        title=f"Add TubeGraph posts for {username}",
+        body="Automatically generated TubeGraph markdown files.",
+        head=branch_name,
+        base=default_branch,
+    )
+    return pr.html_url
+
+
+@dataclass
 class Subtitle:
     text: str
     start: float
@@ -45,6 +116,7 @@ class Subtitle:
         return f"{self.start:.3f} – {self.end:.3f} : {self.text}"
 
 
+@dataclass
 class Post:
     """Represents one finished (or in-progress) wiki-style article."""
 
@@ -93,6 +165,8 @@ def download_video(url: str) -> str:
         "vtt",  # subtitle_format
     )
     for output_object in output:
+        if output_object["en"] is None:
+            return "error"
         subs_path = output_object["en"].path  # type: ignore[index]
     return subs_path
 
@@ -131,7 +205,7 @@ SYSTEM_PROMPT_REFERENCE = """
 You are an article editor that is going through an article and adding backlinks to other articles based on
 a given set of topics. You will be given an article along with the topics and the topic links. Put the link
 to the reference files in markdown format like [[article_link | text to display]]. So try to keep the links relevant
-and in context,
+and in context, THIS IS SEPERATE from the timestamps, so do not change any of the timestamps. Only add in page links like below:
 
 for example.
 Kevin durant was recently [[kevin_durant_brooklyn_nets | drafted to the Nets]].
@@ -163,7 +237,7 @@ def generate_topics(subtitles: List[Subtitle], title: str) -> List[str]:
     return json.loads(completion.choices[0].message.content)["topics"]
 
 
-def seconds_to_hms(seconds: float | int) -> str:
+def seconds_to_hms(seconds: Union[float, int]) -> str:
     h = int(seconds // 3600)
     m = int((seconds % 3600) // 60)
     s = int(seconds % 60)
@@ -250,7 +324,7 @@ def create_post(
 def generate_posts(
     topics: List[str], subtitles: List[Subtitle], video_id: str, video_title: str
 ) -> List[Post]:
-    posts: list[Post | None] = [None] * len(topics)
+    posts: List[Post | None] = [None] * len(topics)
     with ThreadPoolExecutor() as ex:
         futures = {
             ex.submit(create_post, t, subtitles, video_id, video_title): i
@@ -306,6 +380,8 @@ def process_video(vid) -> List[Post]:
         return []
 
     subs_path = download_video(vid_url)
+    if subs_path == "error":
+        return []
     subtitles = load_subtitles(subs_path)
 
     topics = generate_topics(subtitles, vid["title"])
@@ -332,14 +408,14 @@ def write_directory_post(all_posts: List[Post], username):
         sections.append(f"{header}\n{topics}")
 
     content = frontmatter + "\n\n".join(sections)
-    # with open(os.path.join(username, f"{username}.md"), "w", encoding="utf-8") as fh:
-    #     fh.write(content)
+    with open(os.path.join(username, f"{username}.md"), "w", encoding="utf-8") as fh:
+        fh.write(content)
     return content
 
 
 @sieve.function(
     name="create-tubegraph-pages",
-    python_version="3.9",
+    python_version="3.10",
     python_packages=[
         "openai",
         "python-dotenv",
@@ -347,15 +423,14 @@ def write_directory_post(all_posts: List[Post], username):
         "webvtt-py",
         "isodate",
         "google-api-python-client",
+        "PyGithub",
     ],
 )
 def get_items(
     username: str,
     min_vid_duration: int,
-    sort_by: str,
+    sort_by: Literal["views", "upload_date"],
 ):
-    username = "DwarkeshPatel"
-    print(username)
     channel_id = get_channel_id(username)
     print("getting, ", channel_id)
     vids_array = get_channel_vids_filtered(channel_id, sort_by, min_vid_duration)
@@ -376,4 +451,13 @@ def get_items(
     all_markdowns = write_posts(all_posts, username)
     directory_post = write_directory_post(all_posts, username)
     all_markdowns.append(directory_post)
-    return all_markdowns
+
+    # Collect actual file paths
+    file_paths = [os.path.join(username, f"{post.filename}.md") for post in all_posts]
+    file_paths.append(os.path.join(username, f"{username}.md"))
+
+    print("Creating pull‑request…")
+    pr_url = create_pr_with_files(file_paths, username)
+    print(f"✅ Opened PR: {pr_url}")
+
+    return {"posts": all_markdowns, "pr_url": pr_url}
