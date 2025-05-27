@@ -24,7 +24,7 @@ import sieve
 import webvtt
 from dotenv import load_dotenv
 from get_channel_vids import get_channel_vids_filtered
-from github import Github, GithubException
+from github import Github, GithubException, InputGitTreeElement
 
 load_dotenv()
 openai_client = openai.OpenAI(
@@ -55,47 +55,60 @@ def _get_repo():
 
 
 def commit_files_to_main(file_paths: List[str], username: str) -> str:
-    """Upload `file_paths` to content/<username>/ in the main branch of the repo.
+    """
+    Upload *all* `file_paths` to content/<username>/ in a **single** commit
+    on the repository's default branch.
 
-    Returns a summary message of the operation.
+    Returns a human-readable summary.
     """
     repo = _get_repo()
-    main_branch = repo.default_branch  # Typically 'main' or 'master'
+    branch_name = repo.default_branch  # e.g. "main"
 
-    commit_prefix = f"Add TubeGraph posts for {username}:"
-    summary_messages = []
+    # --- 1. Gather parent commit / tree for the branch head ------------------
+    head_commit = repo.get_branch(branch_name).commit  # github.Commit
+    base_tree = repo.get_git_tree(head_commit.sha)  # github.GitTree
 
+    # --- 2. Create a blob + tree element for every file ----------------------
+    tree_elements = []
     for abs_path in file_paths:
         with open(abs_path, "rb") as fh:
-            content_str = fh.read().decode()
+            content_str = fh.read().decode()  # GitHub expects str
+
+        # New blob that holds the file contents
+        blob = repo.create_git_blob(content_str, encoding="utf-8")
 
         rel_name = os.path.basename(abs_path)
-        dest_path = f"content/{username}/{rel_name}"
+        dest_path = f"content/{username}/{rel_name}"  # repo-relative path
 
-        try:
-            repo.create_file(
-                dest_path,
-                f"{commit_prefix} {rel_name}",
-                content_str,
-                branch=main_branch,
+        tree_elements.append(
+            InputGitTreeElement(
+                path=dest_path,
+                mode="100644",  # normal file
+                type="blob",
+                sha=blob.sha,
             )
-            summary_messages.append(f"Created {dest_path}")
-        except GithubException as exc:
-            if exc.status == 422 and "file already exists" in str(exc.data):
-                # File exists, so update it
-                contents = repo.get_contents(dest_path, ref=main_branch)
-                repo.update_file(
-                    dest_path,
-                    f"Update {rel_name}",
-                    content_str,
-                    contents.sha,
-                    branch=main_branch,
-                )
-                summary_messages.append(f"Updated {dest_path}")
-            else:
-                raise
+        )
 
-    return "\n".join(summary_messages)
+    # --- 3. Create a new tree that overlays these blobs on the branch tree ---
+    new_tree = repo.create_git_tree(tree=tree_elements, base_tree=base_tree)
+
+    # --- 4. Commit the tree ---------------------------------------------------
+    commit_msg = (
+        f"Add/Update {len(file_paths)} TubeGraph post"
+        f"{'' if len(file_paths) == 1 else 's'} for {username}"
+    )
+    new_commit = repo.create_git_commit(
+        message=commit_msg,
+        tree=new_tree,
+        parents=[head_commit],
+    )
+
+    # --- 5. Move the branch ref to the new commit ----------------------------
+    repo.get_git_ref(f"heads/{branch_name}").edit(new_commit.sha)
+
+    # --- 6. Return a summary --------------------------------------------------
+    changed_files = "\n".join(f" • {el.path}" for el in tree_elements)
+    return f"Committed {len(tree_elements)} file(s) in one commit:\n{changed_files}"
 
 
 @dataclass
@@ -134,6 +147,8 @@ def load_subtitles(subtitles_path: str) -> List[Subtitle]:
     return [
         Subtitle(text=cap.text, start=cap.start_in_seconds, end=cap.end_in_seconds)
         for cap in webvtt.read(subtitles_path)
+        if cap.start_in_seconds
+        <= 4 * 60 * 60  # Cap at 3 hours (3 * 60 * 60 = 10800 seconds)
     ]
 
 
@@ -246,7 +261,7 @@ PLEASE return the article back with the backlinks embedded in the text. Keep eve
 
 
 def clean_topic_text(text: str) -> str:
-    return re.sub(r"[^A-Za-z0-9]+", "", text)
+    return re.sub(r"[^A-Za-z0-9 ]+", "", text)
 
 
 def generate_topics(subtitles: List[Subtitle], title: str) -> List[str]:
@@ -265,7 +280,8 @@ def generate_topics(subtitles: List[Subtitle], title: str) -> List[str]:
         ],
         response_format={"type": "json_object"},
     )
-    return clean_topic_text(json.loads(completion.choices[0].message.content)["topics"])
+    topics = json.loads(completion.choices[0].message.content)["topics"]
+    return [clean_topic_text(topic) for topic in topics]
 
 
 def seconds_to_hms(seconds: Union[float, int]) -> str:
