@@ -236,8 +236,10 @@ def write_post(
         f"{title} – [[{fname}]]" for fname, title in reference_files if title != topic
     )
 
-    completion = openai_client.chat.completions.create(
-        model="gpt-4o",
+    completion = gemini_client.chat.completions.create(
+        # model="gpt-4o",
+        model="gemini-2.5-flash-preview-05-20",
+        reasoning_effort="low",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT_POST},
             {

@@ -207,7 +207,7 @@ async function createTubegraphPages(
 
 function getChannelDisplayName(channelPath: string): string {
   const channelMap: Record<string, string> = {
-    "DwarkeshPatel/DwarkeshPatel": "Dwarkesh Podcast",
+    "dwarkeshpatel/dwarkeshpatel": "Dwarkesh Podcast",
     "lexfridman/lexfridman": "Lex Fridman",
     "hubermanlab/hubermanlab": "Huberman Lab",
     "awdii/awdii": "Awdii",

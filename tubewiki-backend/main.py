@@ -41,6 +41,7 @@ def get_items(
     min_vid_duration: int,
     sort_by: Literal["views", "upload_date"],
 ):
+    username = username.replace("@", "").lower()
     if url_exists_on_tubegraph(username):
         return {"result": "Already Indexed!"}
     channel_id = get_channel_id(username)

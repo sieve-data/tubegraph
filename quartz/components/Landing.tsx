@@ -18,7 +18,7 @@ const GitHubIcon = ({ className = "w-5 h-5" }: { className?: string }) => (
 
 export const CHANNEL_CARDS = {
   dwarkesh: (
-    <a href={"/DwarkeshPatel/DwarkeshPatel"}>
+    <a href={"/dwarkeshpatel/dwarkeshpatel"}>
       <div class="card card-1">
         <p class="card-title">Dwarkesh Podcast</p>
         <p class="card-subhead">@DwarkeshPatel</p>
@@ -51,7 +51,7 @@ export default (() => {
     // Create a Graph component instance with default options
     const GraphComponent = Graph({
       localGraph: {
-        rootNode: "DwarkeshPatel/DwarkeshPatel",
+        rootNode: "dwarkeshpatel/dwarkeshpatel",
         enableRadial: true,
       },
     })
@@ -72,7 +72,7 @@ export default (() => {
             Contribute
           </a>
           <a href="/directory" class="explore-channels">
-            Explore Channels
+            {"Explore Channels ->"}
           </a>
         </div>
 
@@ -147,7 +147,7 @@ export default (() => {
                 View Graph For:
               </label>
               <select id="channel-select" class="channel-select">
-                <option value="DwarkeshPatel/DwarkeshPatel">Dwarkesh Podcast</option>
+                <option value="dwarkeshpatel/dwarkeshpatel">Dwarkesh Podcast</option>
                 <option value="lexfridman/lexfridman">Lex Fridman</option>
                 <option value="hubermanlab/hubermanlab">Huberman Lab</option>
                 <option value="awdii/awdii">Awdii</option>
