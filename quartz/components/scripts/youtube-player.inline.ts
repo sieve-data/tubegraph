@@ -24,26 +24,51 @@ function loadYT() {
   }
 }
 
+function initializePlayer() {
+  const iframe = document.querySelector<HTMLIFrameElement>("iframe.youtube-player")
+  if (!iframe) return false
+
+  const player = new (window as any).YT.Player(iframe, {
+    events: {
+      onReady() {
+        console.log("YT player ready")
+        activateTimestampLinks(player)
+        // tidy-up when Quartz swaps pages
+        window.addCleanup?.(() =>
+          document.querySelectorAll<HTMLAnchorElement>(".yt-timestamp").forEach((l) => {
+            l.onclick = null
+          }),
+        )
+      },
+    },
+  })
+  return true
+}
+
+function waitForIframe(maxAttempts = 10, delay = 100) {
+  let attempts = 0
+
+  function tryInitialize() {
+    attempts++
+    if (initializePlayer()) {
+      console.log("YouTube player initialized successfully")
+      return
+    }
+
+    if (attempts < maxAttempts) {
+      setTimeout(tryInitialize, delay)
+    } else {
+      console.log("YouTube iframe not found after", maxAttempts, "attempts")
+    }
+  }
+
+  tryInitialize()
+}
+
 document.addEventListener("nav", () => {
   console.log("loaded nav")
   loadYT()
   ;(window as any).onYouTubeIframeAPIReady = () => {
-    const iframe = document.querySelector<HTMLIFrameElement>("iframe.youtube-player")
-    if (!iframe) return
-
-    const player = new (window as any).YT.Player(iframe, {
-      events: {
-        onReady() {
-          console.log("YT player ready")
-          activateTimestampLinks(player) // ← the helper above
-          // tidy-up when Quartz swaps pages
-          window.addCleanup?.(() =>
-            document.querySelectorAll<HTMLAnchorElement>(".yt-timestamp").forEach((l) => {
-              l.onclick = null
-            }),
-          )
-        },
-      },
-    })
+    waitForIframe()
   }
 })
