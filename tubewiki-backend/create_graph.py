@@ -386,6 +386,7 @@ def analyse_video(vid):  # renamed
     subtitles = load_subtitles(subs_path)
 
     topics = generate_topics(subtitles, vid["title"])
+    print("topics -> ", topics)
     return {  # return *analysis* only
         "video_id": video_id,
         "video_title": vid["title"],

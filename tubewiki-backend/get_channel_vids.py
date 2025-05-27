@@ -140,4 +140,4 @@ def get_channel_vids_filtered(
     ]
     print("duration filtered, ", len(vids_filtered))
     # print(vids_filtered[:50])
-    return vids_filtered[:100]
+    return vids_filtered

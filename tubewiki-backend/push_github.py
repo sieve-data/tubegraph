@@ -97,6 +97,10 @@ def commit_files_to_main(file_paths: List[str], username: str) -> str:
         tmpdir = Path(tmp)
         repo_path = _clone_repo(tmpdir, token)
 
+        # Configure Git user identity for this repository
+        _run(["git", "config", "user.email", "pandaaditya48@gmail.com"], cwd=repo_path)
+        _run(["git", "config", "user.name", "adi-panda"], cwd=repo_path)
+
         added_rel_paths = _copy_files(file_paths, username, repo_path)
 
         # Stage & commit -----------------------------------------------------

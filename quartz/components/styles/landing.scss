@@ -458,7 +458,7 @@ $shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
 
 .powered-by-badge {
   position: absolute;
-  width: 12rem;
+  width: 6rem;
   font-family: "Tiempos", sans-serif;
   top: 0.5rem;         /* top-2 */
   left: 0.5rem;       /* right-2 */
@@ -480,10 +480,19 @@ $shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
   background-color: #f3f4f6; /* similar to Tailwind's `bg-muted` */
 }
 
-.explore-channels {
+.top-right-container { 
   position: absolute;
   top: 0.5rem;         /* top-2 */
   right: 0.5rem;       /* right-2 */
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.explore-channels {
+  
   text-transform: uppercase;
   font-family: monospace;
   font-size: 14px;
@@ -494,4 +503,33 @@ $shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
   border: 2px solid #8e5705;
   border-radius: 0.5rem;
   color: white;
+}
+
+.contribute-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 14px;
+  padding: 0.6rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background-color: #333;
+  border: 2px solid #222;
+  border-radius: 0.5rem;
+  color: white;
+  text-decoration: none;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+  cursor: pointer;
+}
+
+.contribute-link:hover {
+  background-color: #444;
+  transform: translateY(-1px);
+}
+
+.contribute-link svg {
+  width: 16px;
+  height: 16px;
 }
