@@ -65,10 +65,45 @@ function waitForIframe(maxAttempts = 10, delay = 100) {
   tryInitialize()
 }
 
+function waitForYTAPI(callback: () => void, maxAttempts = 50, delay = 100) {
+  let attempts = 0
+
+  function checkAPI() {
+    attempts++
+    if ((window as any).YT && (window as any).YT.Player) {
+      console.log("YouTube API is ready")
+      callback()
+      return
+    }
+
+    if (attempts < maxAttempts) {
+      setTimeout(checkAPI, delay)
+    } else {
+      console.log("YouTube API failed to load after", maxAttempts, "attempts")
+    }
+  }
+
+  checkAPI()
+}
+
 document.addEventListener("nav", () => {
   console.log("loaded nav")
   loadYT()
-  ;(window as any).onYouTubeIframeAPIReady = () => {
+
+  // Check if YouTube API is already loaded
+  if ((window as any).YT && (window as any).YT.Player) {
+    console.log("YouTube API already loaded")
     waitForIframe()
+  } else {
+    // Set up the callback for when API loads
+    ;(window as any).onYouTubeIframeAPIReady = () => {
+      console.log("YouTube API loaded via callback")
+      waitForIframe()
+    }
+
+    // Also poll for the API in case the callback doesn't fire
+    waitForYTAPI(() => {
+      waitForIframe()
+    })
   }
 })
