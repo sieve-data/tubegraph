@@ -96,7 +96,11 @@ export default (() => {
               <label for="channel-input" class="channel-select-label">
                 Add a Channel:
               </label>
-              <input id="channel-input" class="channel-select" placeholder={"Channel Username"} />
+              <input
+                id="channel-input"
+                class="channel-select"
+                placeholder={"Channel Username (@)"}
+              />
               <label for="filter-by" class="channel-select-label">
                 Sort By:
               </label>
