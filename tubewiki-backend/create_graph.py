@@ -245,6 +245,10 @@ PLEASE return the article back with the backlinks embedded in the text. Keep eve
 # ---------------------------------------------------------------------------
 
 
+def clean_topic_text(text: str) -> str:
+    return re.sub(r"[^A-Za-z0-9]+", "", text)
+
+
 def generate_topics(subtitles: List[Subtitle], title: str) -> List[str]:
     joined_subs = "\n".join(f"{i + 1}. {s.text}" for i, s in enumerate(subtitles))
 
@@ -261,7 +265,7 @@ def generate_topics(subtitles: List[Subtitle], title: str) -> List[str]:
         ],
         response_format={"type": "json_object"},
     )
-    return json.loads(completion.choices[0].message.content)["topics"]
+    return clean_topic_text(json.loads(completion.choices[0].message.content)["topics"])
 
 
 def seconds_to_hms(seconds: Union[float, int]) -> str:
