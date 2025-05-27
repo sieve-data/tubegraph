@@ -19,16 +19,15 @@ load_dotenv()
 API_KEY = os.getenv("YOUTUBE_API_KEY")  # set in your shell
 
 
-def get_channel_id(handle):
-    query = handle.lstrip("@")
-    url = "https://www.googleapis.com/youtube/v3/search"
-    params = {"part": "snippet", "q": query, "type": "channel", "key": API_KEY}
-    response = requests.get(url, params=params)
-    data = response.json()
-    for item in data.get("items", []):
-        if item["snippet"]["channelTitle"].lower().replace(" ", "") == query.lower():
-            return item["snippet"]["channelId"]
-    return None
+def get_channel_id(handle: str) -> str | None:
+    url = "https://www.googleapis.com/youtube/v3/channels"
+    params = {
+        "part": "id",
+        "forHandle": handle,  # or f"@{handle}" – both forms work
+        "key": API_KEY,
+    }
+    resp = requests.get(url, params=params).json()
+    return resp["items"][0]["id"] if resp.get("items") else None
 
 
 def get_uploads_playlist_id(youtube, channel_id: str) -> str:

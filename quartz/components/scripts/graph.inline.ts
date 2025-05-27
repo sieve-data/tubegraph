@@ -277,7 +277,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
     ).length
-    return 1 + 1.6 * Math.sqrt(numLinks)
+    return 2 + Math.sqrt(numLinks)
     // return 2 + Math.pow(numLinks, 1.5)
     // return Math.log(numLinks + 1) * 2
   }
