@@ -136,7 +136,9 @@ def get_channel_vids_filtered(
     vids_filtered = [
         vid
         for vid in view_sorted
-        if isodate.parse_duration(vid["duration"]).total_seconds() > min_vid_duration
+        if int(isodate.parse_duration(vid["duration"]).total_seconds())
+        > min_vid_duration
     ]
+    print("duration filtered, ", len(vids_filtered))
     # print(vids_filtered[:50])
     return vids_filtered[:100]

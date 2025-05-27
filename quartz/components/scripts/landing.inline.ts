@@ -141,17 +141,20 @@ async function createTubegraphPages(
   minVidDuration: number,
   sortBy: "views" | "upload_date",
 ) {
+  const api_key = "MCmpv1nyARO6vKq5xJqfCgTDCVrGevkxO7qT9jlhatY"
+
+  // Submit the job
   const response = await fetch("https://mango.sievedata.com/v2/push", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "X-API-Key": "MCmpv1nyARO6vKq5xJqfCgTDCVrGevkxO7qT9jlhatY",
+      "X-API-Key": api_key,
     },
     body: JSON.stringify({
-      function: "sieve-demos/create-tubegraph-pages",
+      function: "sieve-demos/tubegraph-entry",
       inputs: {
         username: username,
-        min_vid_duration: minVidDuration,
+        min_vid_duration: minVidDuration * 60,
         sort_by: sortBy,
       },
     }),
@@ -162,8 +165,39 @@ async function createTubegraphPages(
   }
 
   const result = await response.json()
-  console.log("Tubegraph creation result:", result)
-  return result
+  const jobId = result.id
+  console.log("Job submitted with ID:", jobId)
+
+  // Poll for job completion
+  const getJobStatus = async (jobId: string) => {
+    const endpoint = `https://mango.sievedata.com/v2/jobs/${jobId}`
+
+    const headers = {
+      "X-API-Key": api_key,
+    }
+
+    const response = await fetch(endpoint, { headers })
+    const data = await response.json()
+    console.log("Job status:", data.status)
+    return data
+  }
+
+  // Poll until job is finished
+  let jobData
+  do {
+    await new Promise((resolve) => setTimeout(resolve, 2000)) // Wait 2 seconds between polls
+    jobData = await getJobStatus(jobId)
+  } while (jobData.status !== "finished")
+
+  console.log("Job completed:", jobData)
+
+  // Replace the contents of add-channel with the result
+  const addChannelDiv = document.querySelector(".add-channel") as HTMLElement
+  if (addChannelDiv) {
+    addChannelDiv.innerHTML = jobData.outputs[0].data.result
+  }
+
+  return jobData.outputs[0].result
 }
 
 function getChannelDisplayName(channelPath: string): string {
