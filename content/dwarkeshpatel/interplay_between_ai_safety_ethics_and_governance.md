@@ -3,7 +3,8 @@ title: Interplay between AI safety, ethics, and governance
 videoId: qTogNUV3CAI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Interplay between AI Safety, Ethics, and Governance
 
 The conversation on AI safety, ethics, and governance is rapidly evolving as the capabilities of AI systems improve. Demis Hassabis, CEO of DeepMind, shared his insights on these issues in a recent podcast, illuminating the complex relationships between the safety protocols [[ai_safety_and_security_measures | AI safety and security measures]], ethical considerations [[ethical_considerations_in_ai_development | and ethical considerations in AI development]], and governance structures required to guide AI development responsibly [[strategic_international_coordination_on_ai_governance | with strategic international coordination on AI governance]].

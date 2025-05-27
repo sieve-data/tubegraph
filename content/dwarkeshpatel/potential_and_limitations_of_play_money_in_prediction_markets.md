@@ -3,7 +3,7 @@ title: Potential and limitations of play money in prediction markets
 videoId: XoRXrnHg084
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Prediction markets have been a growing area of interest for aggregating information and anticipating future events. One notable platform in this space is [[userdriven_markets_and_manifold_markets_platform | Manifold Markets]], which introduces a unique angle by using play money for its transactions. Here we will delve into the potential benefits and limitations of using play money in prediction markets as discussed by Stephen Gruget, a co-founder of Manifold Markets, during a podcast interview.
 
 ## What is Play Money in Prediction Markets?

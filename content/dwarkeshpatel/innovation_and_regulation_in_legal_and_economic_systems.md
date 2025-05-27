@@ -3,7 +3,7 @@ title: Innovation and regulation in legal and economic systems
 videoId: 3svashDgB50
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a discussion featuring Dr. David Friedman, economist and author, several themes emerge surrounding innovation, regulation, and the impacts on economic and legal systems. Friedman explores how historical and contemporary systems cope with regulation and how innovation plays a role in this dynamic.
 
 ## The Role of Regulation in Innovation
@@ -16,7 +16,7 @@ Dr. Friedman uses the COVID-19 pandemic as a case study to illustrate how regula
 
 ### Factors Limiting Technological Adoption
 
-The conversation touches on various factors that limit the adoption of innovations, citing nuclear power as an example where global regulations have curtailed development. Whether these constraints are due to a lack of technological advancement or stringent safety and environmental regulations is debated. 
+The conversation touches on various factors that limit the adoption of innovations, citing nuclear power as an example where global regulations have curtailed development. Whether these constraints are due to a lack of technological advancement or stringent safety and environmental regulations is debated.
 
 Dr. Friedman suggests that the similarity of regulatory behavior across countries could be attributed to the interconnectedness of global elites who often imitate and influence each other, leading to a uniform approach in regulation [[government_regulation_and_technological_advancements | government regulation]] <a class="yt-timestamp" data-t="00:45:52">[00:45:52]</a>.
 

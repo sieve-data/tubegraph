@@ -3,7 +3,7 @@ title: AI development and Meta's role
 videoId: rYXeQbTuVl0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial Intelligence (AI) has rapidly evolved and expanded over recent years, fueled by advances in infrastructure, algorithms, and model designs. Meta, previously Facebook, has positioned itself at the heart of this evolution, aiming to push boundaries around open-source AI models and making significant strides towards developing advanced AI systems.
 
 ## Meta's Vision for AI
@@ -11,7 +11,7 @@ Artificial Intelligence (AI) has rapidly evolved and expanded over recent years,
 Meta's AI development is not just about creating more intelligent systems but also about integrating these systems seamlessly into daily lives. With nearly a billion people using Meta AI monthly, the company is setting its sights on personalization as the next major evolution in the AI landscape. The goal is to tailor AI interactions based on user-specific context gathered from their profiles, social graphs, and interactions with AI <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
 
 > [!info] Personalized AI
-> 
+>
 > Meta aims to harness user-specific data, such as profile information and interactions with AI, to improve personalization. This approach is expected to enhance user engagement and AI's utility in personal and professional settings [[aidriven_personalization_and_applications]].
 
 ## Llama Models: A Dynamic Open-Source Initiative

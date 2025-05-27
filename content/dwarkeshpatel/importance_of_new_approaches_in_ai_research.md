@@ -3,7 +3,7 @@ title: Importance of new approaches in AI research
 videoId: UakqL6Pj9xo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The discussion between François Chollet, an AI researcher and creator of Keras, along with Mike Knoop, co-founder of Zapier, highlights the critical need for innovation and the exploration of new methodologies in AI research. In the context of large language models (LLMs) and their limitations, Chollet emphasizes the necessity to develop novel techniques beyond current models to push the boundaries of artificial intelligence.
 
 ## The Limitations of Current AI Models

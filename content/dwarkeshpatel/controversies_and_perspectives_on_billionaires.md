@@ -3,9 +3,9 @@ title: Controversies and perspectives on billionaires
 videoId: jmWmrx6ki9Q
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 Billionaires often sit at the center of heated debates and discussions concerning their role in society, the nature of their wealth, and the impact of their actions both economically and culturally. In a recent discussion with Bryan Caplan, several key points and perspectives were explored regarding the subject of billionaires.
 
 ## Tournament Theory and Economic Incentives

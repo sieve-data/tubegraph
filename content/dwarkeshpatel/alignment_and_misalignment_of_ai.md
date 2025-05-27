@@ -3,7 +3,7 @@ title: Alignment and Misalignment of AI
 videoId: htOvH12T7mU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent podcast discussion between Scott Alexander and Daniel Kokotajlo, the complex issue of AI alignment and potential misalignment was a central topic. Their discourse sheds light on the multifaceted challenges of ensuring AI systems remain aligned with human intentions as they become more advanced.
 
 ## Understanding AI Alignment

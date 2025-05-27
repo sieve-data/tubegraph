@@ -3,7 +3,7 @@ title: Effects of remote work on innovation agglomeration
 videoId: Ayewh_O0LPQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 With the advent of remote work, a significant discourse has emerged regarding its impact on the traditional benefits of [[impacts_of_remote_work_and_future_of_work_dynamics | innovation clusters]]. Caleb Watney, Director of Innovation Policy at the Progressive Policy Institute, provides insights into how remote work might affect these innovation agglomerations, drawing on economic history and present-day observations.
 
 ## Significance of Physical Agglomeration

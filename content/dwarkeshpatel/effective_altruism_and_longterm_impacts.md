@@ -3,15 +3,15 @@ title: Effective altruism and long-term impacts
 videoId: AHkmEnl55jo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Effective altruism (EA) has gained significant traction amongst intellectuals, philanthropists, and policy influencers. In the podcast featuring Tyler Cowen, the discussion delves into EA's profound focus on optimizing long-term impacts, a hallmark of its philosophy. This article explores these themes as discussed in the conversation and what they imply for existential threats and future planning.
 
 ## What is Effective Altruism?
 
-Effective altruism is a movement and philosophy that applies evidence and reasoning to determine the most effective ways to benefit others. The aim is to maximize the impact of charitable actions and decisions, focusing on objectively measurable outcomes. 
+Effective altruism is a movement and philosophy that applies evidence and reasoning to determine the most effective ways to benefit others. The aim is to maximize the impact of charitable actions and decisions, focusing on objectively measurable outcomes.
 
 > [!info] The Shift in Altruistic Thinking
-> 
+>
 > As noted in the conversation, part of the appeal of EA is due to political polarization and the need to find impactful outlets for energies outside of traditional political channels. [[Libertarianism and anarcho-capitalism | Libertarianism]], which historically attracted similar demographics, no longer addresses contemporary issues like [[climate_change_and_historical_societies | climate change]] or pandemics effectively.
 
 ## Long-Term Focus of EA

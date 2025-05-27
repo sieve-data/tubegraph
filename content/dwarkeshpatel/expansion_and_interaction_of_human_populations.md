@@ -3,7 +3,7 @@ title: Expansion and interaction of human populations
 videoId: TcfhrThp1OU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The expansion and interaction of human populations have been crucial to the development and diversification of societies. In a recent conversation with Joseph Henrich, a professor of human evolutionary biology, several aspects of early human expansion and its implications for cultural and technological development were discussed.
 
 ## Early Human Expansion

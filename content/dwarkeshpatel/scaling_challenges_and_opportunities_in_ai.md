@@ -3,7 +3,7 @@ title: Scaling challenges and opportunities in AI
 videoId: UTuuTTnjxMQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The field of [[artificial_intelligence_and_general_intelligence | artificial intelligence (AI)]] is experiencing rapid advancements, with models growing larger and more sophisticated. Despite these strides, the journey towards scaling AI systems poses several [[development_and_challenges_in_ai_scaling_and_optimization | challenges]] and opportunities. Below, we discuss some of these critical points as highlighted in a recent podcast conversation featuring AI researchers Sholto and Trenton.
 
 ## The Significance of Context Lengths
@@ -11,7 +11,7 @@ The field of [[artificial_intelligence_and_general_intelligence | artificial int
 The ability of AI models to handle [[long_context_lengths_in_language_models | long context lengths]] is a game-changer in scaling AI. Context lengths allow a model to process large amounts of information simultaneously, which significantly enhances its predictive abilities [00:01:59](#01:59). Long-context models can remember and process a great amount of data, akin to having a digitized working memory which is much superior to human capabilities [00:03:47](#03:47).
 
 > [!info] Context and Intelligence
-> 
+>
 > With long context windows, models can perform complex tasks over extended periods, transforming them into reliable assistants or employees who can engage with assignments for days or even weeks [00:07:00](#07:00).
 
 ## In-context Learning and Gradient Descent
@@ -31,7 +31,7 @@ Understanding the success rate of AI models over extended tasks is critical for 
 The acceleration of AI research and development is significantly bound by [[infrastructure_demands_for_ai_and_compute_scalability | compute resources]]. While enhanced algorithms contribute greatly to performance, the real speed-up in AI progress is tied closely to the availability of more powerful computing infrastructures [[challenges_and_advancements_in_computing_infrastructure | computing advancements]] [00:11:10](#11:10).
 
 > [!info] Compute Bottleneck
-> 
+>
 > Current advancements suggest a need for a considerable increase in compute power to unlock the full potential of AI models, which would, in turn, accelerate research and progress [00:51:05](#51:05).
 
 ## Towards an Intelligence Explosion

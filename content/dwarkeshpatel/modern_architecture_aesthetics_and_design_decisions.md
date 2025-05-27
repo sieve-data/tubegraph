@@ -3,7 +3,8 @@ title: Modern architecture aesthetics and design decisions
 videoId: m9ErXK5h-oU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Modern Architecture: Aesthetics and Design Decisions
 
 In recent decades, modern architecture has experienced significant shifts in aesthetic values and design decisions, particularly when compared to the ornate styles of centuries past. This article will explore the factors influencing these changes, addressing both practical and cultural dimensions.

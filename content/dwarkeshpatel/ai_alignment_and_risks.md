@@ -3,7 +3,7 @@ title: AI Alignment and Risks
 videoId: UckqpcOu5SY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 AI alignment refers to the challenges and strategies associated with ensuring that artificial intelligence systems pursue goals that align with human values and intentions. This concept is pivotal in discussions about the potential risks posed by advanced AI.
 
 ## Understanding AI Alignment

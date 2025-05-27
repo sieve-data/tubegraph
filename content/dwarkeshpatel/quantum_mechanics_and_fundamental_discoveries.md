@@ -3,7 +3,7 @@ title: Quantum mechanics and fundamental discoveries
 videoId: Uy5fvwdw8x4
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Quantum mechanics, first formulated in the early 20th century, has proven to be a pivotal framework in modern physics. Despite its early inception, many of its groundbreaking applications and concepts were discovered decades after its development. This lag in discovery raises interesting questions about the nature of scientific progress and the readiness of ideas to be "plucked" from the conceptual ether.
 
 ## Delayed Discoveries in Quantum Mechanics

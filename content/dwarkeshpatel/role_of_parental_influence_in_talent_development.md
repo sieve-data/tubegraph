@@ -3,7 +3,8 @@ title: Role of parental influence in talent development
 videoId: 9P2rk0Gtd0I
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Introduction
 
 The development of talent and identifying young prodigies has often been a topic of interest in educational and professional circles. In a recent discussion, Byrne Hobart highlighted an essential factor in this equation: the role of parental influence. This article explores Hobart's insights into how parental involvement can shape a child's path towards becoming extraordinarily talented or even the opposite.

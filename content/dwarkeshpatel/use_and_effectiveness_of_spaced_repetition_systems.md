@@ -3,7 +3,7 @@ title: Use and effectiveness of spaced repetition systems
 videoId: dmeRQN9z504
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Spaced repetition systems (SRS) have been a subject of interest within education and self-learning communities, particularly for their potential in enhancing memory retention. This article explores the use and effectiveness of these systems based on insights from the video conversation between Andy Matuschak, a researcher in the field, and the host.
 
 ## Understanding Spaced Repetition Systems

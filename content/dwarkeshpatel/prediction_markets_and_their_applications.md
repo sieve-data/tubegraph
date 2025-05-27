@@ -3,7 +3,7 @@ title: Prediction markets and their applications
 videoId: XoRXrnHg084
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Prediction markets, platforms where individuals can bet on the outcome of future events, have gained attention over the years as effective tools for aggregating distributed information and for their potential applications in various fields. Manifold Markets is a notable example of a developing platform in this space. In this article, we will explore the concept, applications, and challenges of prediction markets, with insights from a discussion between the host and Stephen Gruget, a co-founder of Manifold Markets.
 
 ## What Are Prediction Markets?
@@ -31,12 +31,15 @@ An interesting theoretical application is within journalism, where reporters cou
 Despite the promising applications, prediction markets face several hurdles:
 
 ### Management Reluctance
+
 Many executives are hesitant to utilize prediction markets as they fear the implications of outcomes that might challenge their current strategies and decisions [[challenges_in_achieving_artificial_general_intelligence | and decisions]] <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.
 
 ### Long-Term Predictions
+
 Markets tackle difficulties in predicting events with long timeframes or those without established base rates, such as existential risks like a catastrophic AI event. The lack of immediate payout or relevant data can hinder participation in such markets [[ai_scaling_and_longterm_predictions | long-term predictions]] <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>.
 
 ### Structural Issues
+
 Predictive platforms face usability concerns and economic implications of free-market mechanics, such as manipulation through bots or challenges in liquidity due to structural fees <a class="yt-timestamp" data-t="00:34:27">[00:34:27]</a>.
 
 ## Conclusion

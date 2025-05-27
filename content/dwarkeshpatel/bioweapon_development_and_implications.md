@@ -3,7 +3,7 @@ title: Bioweapon development and implications
 videoId: KUieFuV1fuo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The development of bioweapons is a topic of immense concern in discussions surrounding artificial intelligence (AI) and its potential impacts. In a recent podcast episode, notable AI researcher Carl Shulman delves deeply into the probability and implications of AI-driven bioweapons, discussing how they might be [[potential_societal_impacts_of_advanced_ai | developed]] and the threats they pose to humanity. This article will unpack these discussions and highlight the key points made by Shulman.
 
 ## AI and Bioweapon Development
@@ -30,7 +30,7 @@ The potential deployment of bioweapons designed by AI would have far-reaching im
 Shulman suggests that [[ai_alignment_and_safety | alignment and safety checks]] on AI need to be strengthened to prevent misuse. This includes advancements in AI governance, ensuring AI capabilities are not misapplied in developing bioweapons, and boosting transparency in AI operations across borders to maintain a robust defense against potential threats <a class="yt-timestamp" data-t="03:01:14">[03:01:14]</a>.
 
 > [!info] Foreseeing Apocalyptic Potential
-> 
+>
 > Shulman's insights position the bioweapon narrative as a part of broader AI-related existential risks, suggesting the importance of foresight in AI safety research to [[existential_risk_and_societal_collapse | preclude negative outcomes]] <a class="yt-timestamp" data-t="02:52:31">[02:52:31]</a>.
 
 In conclusion, the future of AI in the context of bioweapons relies heavily on the ethical direction, regulatory frameworks, and international cooperation employed today. While the power of AI holds promise for humanity, it concurrently requires vigilant oversight to [[ai_alignment_challenges_and_strategies | prevent misuse]] in fields such as bioweapon development.

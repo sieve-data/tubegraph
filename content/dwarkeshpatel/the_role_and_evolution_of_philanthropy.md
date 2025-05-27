@@ -3,7 +3,7 @@ title: The role and evolution of philanthropy
 videoId: nvL3vqMzznY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Philanthropy has significantly evolved over time, demonstrating a shift in how wealth is distributed and utilized for societal benefit. This article explores the evolving nature of philanthropy, contrasting the conventional models with emerging trends observed in the modern tech-driven landscape. The discussion draws upon insights shared in a recent conversation featuring Nadia Asparouhova.
 
 ## Traditional Philanthropy: From Foundations to Family Dynasties

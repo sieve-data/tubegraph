@@ -3,7 +3,7 @@ title: Semiconductor industry and global supply chain
 videoId: pE3KKUKXcTM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The semiconductor industry plays a critical role in modern technology, underpinning everything from smartphones to supercomputers. This article explores the complexities of the semiconductor supply chain, discussing its global span, intrinsic challenges, and potential future directions.
 
 ## Overview of Semiconductor Supply Chain

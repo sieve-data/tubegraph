@@ -3,7 +3,7 @@ title: Managing crises and governmental inertia
 videoId: zSLWR3AbF3c
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a discussion with Tony Blair, a key focus was on the [[challenges_of_political_leadership | challenges]] faced by governments in managing crises and overcoming systemic inertia. Reflecting on his experience as UK Prime Minister from 1997 to 2007, Blair provided insights into the inherent complexities that political leaders face when leading governments during turbulent times.
 
 ## Political Transition and Leadership Challenges
@@ -15,7 +15,7 @@ During his tenure, Tony Blair identified that the transition from campaigning po
 Blair described a prevalent challenge of political inertia—systems that are traditionally resistant to change and perceived as permanent, regardless of the ruling government's intentions. This "conspiracy for inertia," as Blair terms it, results from entrenched bureaucratic practices that often prioritize maintaining the status quo over innovation [[challenges_in_british_government_bureaucracy | challenges in British government bureaucracy]]. These systems typically operate under the presumption that elected officials are temporary, while the bureaucracy persists.
 
 > [!info] The Nature of Political Inertia
-> 
+>
 > The systemic inertia is less about conspiratorial control and more about deeply rooted bureaucratic processes that prioritize stability over adaptability.
 
 ## Crises Mismanagement: A Case Study of COVID-19

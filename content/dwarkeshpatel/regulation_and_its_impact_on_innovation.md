@@ -3,7 +3,7 @@ title: Regulation and its impact on innovation
 videoId: kNsi5XVDTTM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a comprehensive discussion with Marc Andreessen on "The Lunar Society" podcast, the complex relationship between regulation and innovation emerged as a pivotal theme. Andreessen, a luminary in venture capital, espoused nuanced views on how regulations can either serve as bottlenecks or catalysts for innovation, depending on the context.
 
 ## The Case of Nuclear Energy
@@ -15,7 +15,7 @@ One of the striking examples discussed is the regulation surrounding [[nuclear_e
 The potential of cryptocurrencies also faces significant regulatory scrutiny, which could hinder its development. Andreessen touched upon the hypothetical scenario where heavy regulation could impede crypto, reflecting on how such policies could impact firms like Andreessen Horowitz that are heavily invested in technological innovation [[challenges_in_crypto_regulation_and_innovation | challenges in crypto regulation and innovation]] [01:01:01](<a class="yt-timestamp" data-t="01:01:01">01:01:01</a>).
 
 > [!info] Regulatory Bottlenecks
-> 
+>
 > Andreessen expressed concern that if sectors like AI were to become heavily regulated, it could stifle advancement across multiple industries. The venture capital ecosystem relies on the ability to innovate without excessive regulatory constraints [[role_of_regulation_in_innovation | role of regulation in innovation]] [01:01:07](<a class="yt-timestamp" data-t="01:01:07">01:01:07</a>).
 
 ## Education and Healthcare: Sectors in Flux

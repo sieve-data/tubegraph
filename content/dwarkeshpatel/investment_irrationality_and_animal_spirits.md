@@ -3,7 +3,7 @@ title: Investment irrationality and animal spirits
 videoId: EY2nbAVZB-k
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In this fascinating discussion, we delve into the concept of investment irrationality, as famously theorized by [[influence_of_keynes_on_economic_thought | John Maynard Keynes]], and the enigmatic role of "animal spirits" in economic behavior. Investment decisions are often driven less by rational calculation and more by psychological factors and emotional instincts, a notion which continues to provoke discussion and analysis in modern economics.
 
 ## Keynes on Investment and Human Nature
@@ -25,7 +25,7 @@ The conversation also highlights the intriguing insight that humanity is perhaps
 The discussion points out a skewed return on investments, where a minority of ventures achieve significant success while others struggle. This distribution indicates that while irrationality appears to motivate needless risk-taking, it also serves as a bedrock for potential sizeable innovations and societal returns <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>.
 
 > [!info] Keynes' Animal Spirits
-> 
+>
 > The term "animal spirits" coined by Keynes refers to the emotions and instincts which guide human economic behavior, highlighting that rationality is not always the primary driver of economic decisions.
 
 ## Market Behavior and Speculation

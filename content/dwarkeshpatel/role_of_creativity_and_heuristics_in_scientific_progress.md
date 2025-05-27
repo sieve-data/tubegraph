@@ -3,7 +3,7 @@ title: Role of creativity and heuristics in scientific progress
 videoId: Uy5fvwdw8x4
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Scientific progress often appears to be a blend of systematic algorithmic discoveries and extraordinary bursts of creativity. The understanding of creativity and its algorithmic counterparts is an ever-evolving topic, particularly in fields that require constant innovation like [[the_development_and_challenges_of_quantum_computing | quantum computing]] and [[development_and_impact_of_ai_technologies_including_llms | artificial intelligence]]. In a recent discussion, the role of creativity as an algorithm and the significance of heuristics were emphasized, highlighting their impact on [[human_cognitive_abilities_and_limitations | human cognitive abilities]] and scientific advancements.
 
 ## The Essence of Creativity in Science

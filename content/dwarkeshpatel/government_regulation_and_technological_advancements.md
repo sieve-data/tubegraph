@@ -3,7 +3,7 @@ title: Government regulation and technological advancements
 videoId: --xKsIgv7tE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Governments around the world play a crucial role in regulating technological advancements, a topic extensively discussed by Professor Michael Huemer in a recent podcast appearance. The interaction between regulation and technology involves a delicate balance of fostering innovation while ensuring public safety and ethical standards [[ethical_considerations_in_technology | ethical standards]].
 
 ## The Role of Government Regulation

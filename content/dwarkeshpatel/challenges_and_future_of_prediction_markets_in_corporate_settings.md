@@ -3,7 +3,7 @@ title: Challenges and future of prediction markets in corporate settings
 videoId: XoRXrnHg084
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Prediction markets have appeared as a compelling tool for aggregating diverse information to forecast future events with potentially high accuracy. Their application within corporate environments could theoretically provide enterprises with unparalleled insights into future trends, market dynamics, and strategic decision-making. Despite these promising attributes, the reality of prediction markets in companies presents significant challenges that must be addressed for them to become widespread.
 
 ## Current Challenges in Corporate Prediction Markets

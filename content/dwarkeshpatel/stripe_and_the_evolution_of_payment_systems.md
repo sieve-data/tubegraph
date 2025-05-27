@@ -3,7 +3,7 @@ title: Stripe and the evolution of payment systems
 videoId: WU-lBOAS1VQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Stripe is a technology company that builds economic infrastructure for the internet. It is often cited as a key player in the evolution of payment systems, but what distinguishes it in a world filled with financial technology companies? CEO Patrick Collison shares insights into the company’s growth and its future trajectory.
 
 ## Origins and Market Inefficiency

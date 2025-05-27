@@ -3,7 +3,7 @@ title: Robert Oppenheimer's role in the Manhattan Project
 videoId: tMdMiYsfHKo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Robert Oppenheimer, often dubbed the "father of the atomic bomb," played a pivotal role in the [[the_development_of_the_atomic_bomb | Manhattan Project]], which was the secret U.S. initiative during World War II aimed at developing nuclear weapons.
 
 ## Early Involvement and Leadership

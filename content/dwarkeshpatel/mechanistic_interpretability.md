@@ -3,7 +3,7 @@ title: Mechanistic Interpretability
 videoId: 64lXQP6cs5M
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Mechanistic interpretability has become a key area in understanding and improving AI models. It involves reverse engineering neural networks to decipher the core units of computation taking place inside them. This field has evolved rapidly over the past few years, driven by advances in methodology and a deeper understanding of the complexities of AI systems.
 
 ## Overview of Mechanistic Interpretability
@@ -15,6 +15,7 @@ Mechanistic interpretability, often labeled as "mech interp," aims to dissect ar
 The interpretability agenda began gaining traction approximately three and a half years ago, inspired by Chris Olah's contributions and subsequent co-founding of Anthropic. Since then, significant breakthroughs have been achieved every few months.
 
 ### Key Breakthroughs:
+
 - **Toy Models and Superposition:** Early research demonstrated that models are often forced to compress extensive information into limited weights using [[superposition_and_feature_representation_in_ai | superposition techniques]] <a class="yt-timestamp" data-t="01:48:11">[01:48:11]</a>.
 - **Towards Monosemanticity:** This phase leveraged sparse autoencoders to offer models additional space, allowing them to represent concepts more cleanly by avoiding superposition <a class="yt-timestamp" data-t="01:48:59">[01:48:59]</a>.
 - **Scaling Monosemanticity to Large Models:** Progressing from small models to frontier-scale models with tens of millions of features, enabling the discovery of abstract concepts like code vulnerabilities and sentiment features <a class="yt-timestamp" data-t="01:49:42">[01:49:42]</a>.

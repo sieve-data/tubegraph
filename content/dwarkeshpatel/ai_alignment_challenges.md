@@ -3,7 +3,7 @@ title: AI alignment challenges
 videoId: _kRg-ZP1vQc
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 AI alignment poses significant challenges as we develop increasingly sophisticated AI systems. Despite substantial technical progress, aligning advanced AI systems with human values and intentions remains fraught with difficulties.
 
 ## The Core Issue: Misalignment Motives

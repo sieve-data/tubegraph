@@ -3,7 +3,7 @@ title: Anonymity and its benefits
 videoId: a42key59cZQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a compelling discussion with Gwern Branwen, an anonymous researcher and writer, the underrated benefits of [[anonymity | anonymity]] were explored. Gwern provided a unique perspective on how anonymity influences public perception and personal safety.
 
 ## Anonymity Reduces Prejudgment

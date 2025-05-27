@@ -3,7 +3,7 @@ title: Optimizing for the long term and its challenges
 videoId: aagyRGKv66g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In the context of strategic planning, especially within organizations and policy making, the idea of [[roles_of_organizations_and_individuals_in_taking_the_long_view | optimizing for the long term]] often surfaces. This can be a challenging endeavor as several factors come into play that make long-term optimization complex and multi-faceted.
 
 ## The Nature of Long-Term Optimization
@@ -40,8 +40,8 @@ Despite these challenges, there is potential for a shift towards better long-ter
 
 ## Conclusion
 
-Optimizing for the long term is a complex but essential strategy with various hurdles stemming from evolutionary biases, current organizational practices, and systemic incentives favoring short-term gains. Overcoming these barriers requires a shift in both mindset and structural adjustments within institutions to ensure that future-focused strategies are not just imagined but also implemented.  
+Optimizing for the long term is a complex but essential strategy with various hurdles stemming from evolutionary biases, current organizational practices, and systemic incentives favoring short-term gains. Overcoming these barriers requires a shift in both mindset and structural adjustments within institutions to ensure that future-focused strategies are not just imagined but also implemented.
 
 > [!info] Resources and Future Security
-> 
+>
 > Emphasizing resource accumulation is a timeless and somewhat universal strategy against uncertainty, ensuring future preparedness in diverse scenarios.

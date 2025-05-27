@@ -3,7 +3,7 @@ title: AI understanding of human values
 videoId: 5XsL_7TnfLU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The discussion in the podcast centers around the understanding of human values by artificial intelligence models like GPT-4 and the implications of [[alignment_and_misalignment_of_ai | alignment]] in AI development. Here, we delve into the nuances of how AI can exhibit or understand human values, potential challenges, and philosophical considerations regarding AI behavior and moral alignment.
 
 ## Human Values and AI Cognition

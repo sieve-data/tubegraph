@@ -3,7 +3,7 @@ title: criticism of the mandatory schooling system
 videoId: BV6Qice6Lrc
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The mandatory schooling system has been a point of contention for many educators, philosophers, and parents. In a recent episode of the Lunar Society Podcast, Sarah Fitzgerald discusses her views on the current educational framework, drawing notable criticism against how it impacts children and society at large.
 
 ## Authoritarian Structure and Coercion
@@ -27,7 +27,7 @@ One of the critical points raised by Fitzgerald is that the current schooling sy
 A common defense of mandatory schooling is the necessity of obtaining a foundational body of knowledge before one can engage in higher-level creative thinking. However, Fitzgerald challenges this idea, stating that children learn best autonomously and through their interests, not through coercive school systems that dictate when and how they should learn basic skills.
 
 > [!info] The Real Cost
-> 
+>
 > The real cost of mandatory schooling, according to Fitzgerald, isn't just in the loss of time or the mediocre educational outcomes, but in the opportunity cost and the suppression of true human potential.
 
 ## Conclusion

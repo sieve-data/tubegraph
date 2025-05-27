@@ -3,8 +3,8 @@ title: Ethics and infinite worlds
 videoId: M3TUe4zUCKk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-In a recent podcast, Joe Carl Smith, a senior research analyst at Open Philanthropy and a doctoral student in philosophy at the University of Oxford, explored the intricate subject of ethics as it relates to infinite worlds. Infinite ethics aims to address how we should act concerning potentially infinite realities and what implications such realities have for ethical reasoning. Here's a detailed look into this fascinating topic. 
+From: [[dwarkeshpatel]] <br/>
+In a recent podcast, Joe Carl Smith, a senior research analyst at Open Philanthropy and a doctoral student in philosophy at the University of Oxford, explored the intricate subject of ethics as it relates to infinite worlds. Infinite ethics aims to address how we should act concerning potentially infinite realities and what implications such realities have for ethical reasoning. Here's a detailed look into this fascinating topic.
 
 ## Understanding Infinite Ethics
 
@@ -15,7 +15,7 @@ Infinite ethics involves examining ethical principles in the context of infinite
 2. **Practical Relevance**: Carl Smith argues that there is a non-zero probability that we exist within an infinite universe. If true, our ethical considerations must account for this potential infinity [<a class="yt-timestamp" data-t="00:00:23">00:00:23</a>].
 
 > [!info] Ethical Breakpoint in Infinite Worlds
-> 
+>
 > Infinite ethics exposes significant gaps in [[challenges_and_opportunities_in_ai_and_agi_development | common ethical theories]] when faced with infinite universes, making this topic crucial in philosophical debates [<a class="yt-timestamp" data-t="00:18:43">00:18:43</a>].
 
 ## Challenges in Infinite Ethics

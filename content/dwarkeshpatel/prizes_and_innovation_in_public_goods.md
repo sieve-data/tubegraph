@@ -3,7 +3,7 @@ title: Prizes and innovation in public goods
 videoId: i75KvXVrtLw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In recent discussions on accelerating [[technological_and_social_innovation | innovation]], especially during critical times like a pandemic, the concept of implementing prize mechanisms for public goods innovation has gained traction. In a conversation with Professor Alex Tabarrok, co-author of the blog **Marginal Revolution**, several insights were shared on utilizing prizes as a catalyst for innovation. This article explores these concepts and their potential to revolutionize how public goods, such as vaccines, are developed and deployed.
 
 ## Innovation Prize Mechanisms
@@ -41,5 +41,5 @@ The idea of prizes for innovation isn't new. Historically, the Longitude Prize s
 In contemporary times, prizes can play a crucial role in sectors where traditional approaches have not yielded satisfactory progress, such as public health, climate change [[effects_of_remote_work_on_innovation_agglomeration | mitigation]], and new energy solutions. The goal is to implement mechanisms that not only advance technological capabilities but also address critical global challenges efficiently.
 
 > [!info] Conclusion
-> 
+>
 > **Prizes as a Catalyst for Public Goods Innovation:** The use of prize mechanisms represents a significant opportunity to enhance innovation in public goods by aligning incentives with societal needs. As global challenges become increasingly complex, these frameworks can encourage the development of solutions from a wide array of innovators, ultimately benefiting society at large.

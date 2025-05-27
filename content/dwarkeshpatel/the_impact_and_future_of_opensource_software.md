@@ -3,7 +3,7 @@ title: The impact and future of open-source software
 videoId: qcvMjoJdck4
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Open-source software has become a cornerstone of the technology landscape, influencing everything from operating systems to artificial intelligence. This article explores the impact and potential future of open-source software, drawing insights from Nat Friedman's discussion with Dwarkesh in a recent podcast.
 
 ## The Current Impact of Open Source
@@ -12,9 +12,9 @@ Open-source software is widely used and continues to be developed across a wide 
 
 ### Strengths and Challenges
 
-Open-source platforms excel in the development of horizontal components that can be used across multiple industries. However, they often face challenges in areas demanding high levels of user experience and aesthetic finesse, where a more dictatorial aesthetic or editorial control might yield better results [<a class="yt-timestamp" data-t="01:06:02">01:06:02</a>]. 
+Open-source platforms excel in the development of horizontal components that can be used across multiple industries. However, they often face challenges in areas demanding high levels of user experience and aesthetic finesse, where a more dictatorial aesthetic or editorial control might yield better results [<a class="yt-timestamp" data-t="01:06:02">01:06:02</a>].
 
-> [!info] Open-Source Successes 
+> [!info] Open-Source Successes
 >
 > Open-source software succeeds in areas where coordination burdens are low, as pointed out by Nat Friedman. Its success lies in its ability to cater to sectors where infrastructure and component reuse are critical [<a class="yt-timestamp" data-t="01:06:02">01:06:02</a>].
 
@@ -26,7 +26,7 @@ One major constraint on open-source software is the community aspect, as highlig
 
 There's continued optimism about the future of open source, even as it faces its own set of challenges and opportunities.
 
-### Proliferation and Intermixing 
+### Proliferation and Intermixing
 
 The interconnected world of technology ensures open-source initiatives are rapidly proliferated, but this comes with the challenge of governance. Open-source platforms often struggle with alignment and consensus due to the diverse opinions and inputs from contributors [<a class="yt-timestamp" data-t="01:06:59">01:06:59</a>].
 

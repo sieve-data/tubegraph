@@ -3,7 +3,7 @@ title: Role of memory in learning
 videoId: dmeRQN9z504
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Memory plays a crucial, though often underappreciated, role in learning and understanding complex material. The depth of comprehension one achieves is inherently tied to one's memory of the constituent material. This article delves into insights from a conversation with Andy Matuschak, a researcher, engineer, and designer dedicated to enhancing tools for thought, regarding the significance and mechanics of memory in learning.
 
 ## Memory's Impact on Comprehension
@@ -11,7 +11,7 @@ Memory plays a crucial, though often underappreciated, role in learning and unde
 Matuschak emphasizes that understanding difficult material is inherently bound by memory. As one navigates through complex arguments or concepts, the ability to recall constituent elements is essential ([00:00:00](#00:00:00)). Essentially, memory acts as a scaffold, allowing learners to build new knowledge on a stable foundation. The connection between memory and cognitive abilities is akin to the [[evolution_of_human_cognitive_abilities | evolution of cognitive structures]] in human development.
 
 > [!info] Importance of Memory
-> 
+>
 > Without a strong memory to support learning, the process of understanding complex systems becomes akin to trying to solve a puzzle without all the pieces.
 
 ## Active Reading and the Memory Connection

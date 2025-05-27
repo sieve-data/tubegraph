@@ -3,7 +3,8 @@ title: Nuclear energy and technological advancements
 videoId: YSgfu7XprIM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ```markdown
 Nuclear energy, despite its complex regulatory landscape and safety concerns, remains a vital component of the global energy mix. Recent technological advancements suggest potential paths for making nuclear a more viable and safer energy source for the future. This article explores the current state of nuclear energy, innovations in reactor design, and the broader implications of these developments.
 
@@ -32,7 +33,7 @@ While large nuclear reactors face economic challenges due to their high capital 
 Despite these technological advancements, streamlining the regulatory process remains a significant hurdle. The licensing process for new designs involves considerable time and resources due to the need to ensure ultra-high safety standards. However, the focus on smaller, inherently safe, and less impactful reactor designs could lead to a renewed emphasis on efficiency within regulatory frameworks ([02:08:46](#02:08:46)).
 
 > [!info] Key Insight
-> 
+>
 > The integration of nuclear energy with modern technological advancements like SMRs and micronuclear reactors could potentially transform the energy landscape, offering a more reliable, secure, and green energy source that complements renewables like [[transition_to_renewable_energy | solar and wind]].
 
 Nuclear energy continues to hold promise as part of a diverse and resilient energy portfolio, particularly as technologies improve and evolve. As our understanding and engineering capabilities grow, nuclear energy may increasingly become a cornerstone of energy policy worldwide.

@@ -3,7 +3,7 @@ title: Perspectives on education and talent
 videoId: AHkmEnl55jo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Education and talent are two subjects intricately linked in discussions about personal and societal progress. In a recent conversation with Tyler Cowen, various aspects of how education impacts talent identification and development were explored. This article delves into these perspectives, highlighting key insights from the discussion.
 
 ## The Function of Education

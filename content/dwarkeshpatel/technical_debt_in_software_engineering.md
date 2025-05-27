@@ -3,7 +3,7 @@ title: Technical debt in software engineering
 videoId: 3BBNG0TlVwM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Technical debt is a critical concept in software engineering that draws an analogy to financial debt. The idea is used to describe the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer. In the podcast featuring Augustine Lebron, insights into technical debt are discussed in the context of both financial and software engineering sectors.
 
 ## Understanding Technical Debt
@@ -21,6 +21,7 @@ Lebron advocates for taking the concept of technical debt seriously in a financi
 ## When to Accumulate Technical Debt
 
 There are scenarios where taking on technical debt is justified:
+
 - **Startups**: In rapidly growing startups, accruing technical debt can be crucial for survival and gaining a competitive edge. The rate at which a startup needs to iterate on its product can justify a higher "interest rate" on technical debt [<a class="yt-timestamp" data-t="00:40:09">00:40:09</a>].
 - **Rapid Prototyping**: During the development of minimum viable products (MVPs), the focus might be on getting feedback from users quickly rather than building perfect software.
 - **Time-sensitive Business Opportunities**: In cases where the market opportunity is fleeting, delivering a solution rapidly might outweigh the consequences of incurring additional technical debt.

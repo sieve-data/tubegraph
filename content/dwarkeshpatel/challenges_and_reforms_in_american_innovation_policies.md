@@ -3,8 +3,8 @@ title: Challenges and reforms in American innovation policies
 videoId: Ayewh_O0LPQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-The landscape of American innovation is facing a series of challenges that require strategic reforms. Caleb Watney, Director of Innovation Policy at the Progressive Policy Institute, discusses the slowing of America's innovation engine in a recent conversation. This article delves into the key challenges and potential reforms in fostering innovation, as discussed by Watney. 
+From: [[dwarkeshpatel]] <br/>
+The landscape of American innovation is facing a series of challenges that require strategic reforms. Caleb Watney, Director of Innovation Policy at the Progressive Policy Institute, discusses the slowing of America's innovation engine in a recent conversation. This article delves into the key challenges and potential reforms in fostering innovation, as discussed by Watney.
 
 ## Innovation Challenges
 

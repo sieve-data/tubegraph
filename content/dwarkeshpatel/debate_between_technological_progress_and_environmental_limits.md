@@ -3,8 +3,8 @@ title: Debate between technological progress and environmental limits
 videoId: 1Z35PqPQU2M
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-The discussion between technological progress and environmental limits is a central theme in understanding how societies can navigate the dual challenges of development and sustainability. This debate is notably explored in Charles Mann's book *The Wizard and the Prophet*, where two contrasting visions about the future of humanity are articulated.
+From: [[dwarkeshpatel]] <br/>
+The discussion between technological progress and environmental limits is a central theme in understanding how societies can navigate the dual challenges of development and sustainability. This debate is notably explored in Charles Mann's book _The Wizard and the Prophet_, where two contrasting visions about the future of humanity are articulated.
 
 ## Wizards vs. Prophets
 

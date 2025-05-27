@@ -3,7 +3,7 @@ title: Challenges in AI interpretability and alignment
 videoId: Nlkk3glap_U
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial Intelligence (AI) alignment and interpretability are crucial challenges faced by researchers and developers striving to build [[ai_safety_and_alignment | safe and effective AI systems]]. This concerns not only the creation of systems that behave as intended but also understanding how AI models arrive at their decisions. The conversation with Dario Amodei, CEO of Anthropic, sheds light on these complex issues and the path forward.
 
 ## The Quest for AI Interpretability

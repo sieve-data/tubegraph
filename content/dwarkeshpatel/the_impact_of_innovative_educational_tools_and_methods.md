@@ -3,7 +3,7 @@ title: The impact of innovative educational tools and methods
 videoId: oDyviiN4NVo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Innovative educational tools and methods have continuously evolved, effectuating profound shifts in the landscape of learning and teaching. This evolution, particularly highlighted through [[technological_and_social_innovation | modern pedagogical advancements]] in technology, is underscored by the growing accessibility and diversity of educational resources online. These innovations significantly enhance both teachers' capacity to deliver content effectively and students' ability to engage with and comprehend complex topics.
 
 ## The Role of Technology in Education
@@ -11,7 +11,7 @@ Innovative educational tools and methods have continuously evolved, effectuating
 Technological advancements have played a crucial role in modernizing educational methodologies, making learning more interactive and accessible. Grant Sanderson emphasizes the potential of technologies like animated videos and digital platforms that have reshaped how educators approach teaching and how students perceive learning materials. For example, platforms such as [Mathagon](https://mathigon.org/) are hailed as the "textbook of the future," offering interactive and dynamic ways for students to engage with mathematical concepts [43:43].
 
 > [!info] Mathagon: The Textbook of the Future
-> 
+>
 > Mathagon is an interactive textbook platform offering in-depth explanations and visual aids, revolutionizing the traditional textbook model.
 
 ## Innovative Platforms and Their Educational Impact

@@ -3,7 +3,7 @@ title: The role of experts and peer review in social sciences
 videoId: QyWs-XomCk0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In the contemporary debate about the reliability and effectiveness of experts, particularly in the social sciences, there are growing concerns about the limitations of peer review processes and specialized knowledge. These concerns are echoed by current critiques in academia and policymaking, where the real-world applicability and accuracy of social science research are increasingly questioned.
 
 ## Peer Review and Expertise in Social Sciences
@@ -23,7 +23,7 @@ Moreover, there is a cultural resistance within academic social sciences, where 
 Hanania touches on the potential harms associated with placing too much trust in the notion of expertise as it often lends undue influence to specific individuals, which can then skew public policy towards ideologically charged ends rather than pragmatic ones. He suggests that reliance on intuition and basic statistical reasoning might sometimes provide more robust outcomes than following the sometimes ideologically entangled guidance of social science experts <a class="yt-timestamp" data-t="40:00">[40:00]</a>.
 
 > [!info] Public Trust and Skepticism
-> 
+>
 > The lack of public trust in experts within social sciences is compounded by the perception that these fields often do not offer tangible, positive changes in societal issues, contrasting sharply with fields like economics, where empirical methods have demonstrated significant global impacts [[china_india_relations | China India relations]].
 
 ## Conclusion

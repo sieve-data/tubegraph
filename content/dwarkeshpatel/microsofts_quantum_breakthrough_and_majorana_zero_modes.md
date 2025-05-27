@@ -3,7 +3,7 @@ title: Microsoft's quantum breakthrough and Majorana zero modes
 videoId: 4GLSzuYXh6w
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a groundbreaking development, Microsoft has announced a significant advancement in the field of [[the_development_and_challenges_of_quantum_computing | quantum computing]]. This is marked by the realization of Majorana zero modes, a phenomenon theorized as far back as the 1930s. This marks a pivotal moment in quantum computing, akin to the transistor moment in classical computing, and has set the stage for a new era in computational technology.
 
 ## The Power of Majorana Zero Modes

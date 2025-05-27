@@ -3,7 +3,7 @@ title: Effects of war on societal transformation
 videoId: E65CHSV6Ads
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 War has long been a catalyst for profound societal transformations. The extraordinary circumstances it creates can foster changes that might be deemed impossible during times of peace. This article explores the multifaceted effects of war on societal transformation, drawing insights from historical contexts with a particular focus on the Napoleonic Wars.
 
 ## War as a Catalyst for Change
@@ -11,7 +11,7 @@ War has long been a catalyst for profound societal transformations. The extraord
 The nature of war inherently reshapes societies by introducing conditions that demand swift adaptations and radical changes. These changes can lead to advancements in social structures, political reforms, and technological progress.
 
 > [!info] Societal Effects of War
-> 
+>
 > War forces societies to adapt in ways that peacetime conditions may not, often accelerating reforms and advancements in various sectors.
 
 ### Radicalization and Reform
@@ -23,7 +23,7 @@ During conflicts, the intensity and immediacy of threats can lead to rapid radic
 One of the significant effects of war is the democratization of opportunities. Conflict often necessitates the mobilization of previously untapped human resources, creating scenarios where individuals can rise based on merit rather than birth or connection.
 
 > [!info] Opening Careers to Talent
-> 
+>
 > The Napoleonic era exemplified how war can democratize opportunities, allowing individuals of merit to ascend within military and governmental ranks, contributing to systemic changes [[napoleons_entrepreneurial_aspects|Napoleon's entrepreneurial aspects]].
 
 ### Institutional Efficiency

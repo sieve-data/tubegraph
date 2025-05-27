@@ -3,7 +3,7 @@ title: Mao's rise to power in China
 videoId: 4l3Sa8ImGFQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Mao Zedong, a pivotal figure in the 20th century, not only impacted China profoundly but also reshaped global politics through his approach to revolution and governance. Understanding Mao's rise to power requires a comprehensive exploration of his strategies, the socio-political environment of China at the time, and the broader global context.
 
 ## Early Life and Introduction to Political Theories

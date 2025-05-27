@@ -3,7 +3,7 @@ title: Ethical considerations in AI development
 videoId: 5XsL_7TnfLU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 As artificial intelligence (AI) becomes increasingly sophisticated, the ethical landscape of its development requires meticulous examination. In a recent conversation with philosopher Joe Carlsmith, several ethical nuances associated with AI were unpacked. This article aims to delve into the aspects of morality, motivations, and alignment concerning AI, as discussed by Carlsmith, while offering insights drawn from the broader implications of these concepts.
 
 ## The AI Morality Dilemma

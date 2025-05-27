@@ -3,7 +3,7 @@ title: Libertarianism and anarcho-capitalism
 videoId: --xKsIgv7tE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Libertarianism and anarcho-capitalism are closely related political philosophies concerned with the role and authority of the state in society. In an insightful discussion with Professor Michael Huemer on the Lunar Society Podcast, these concepts were explored in depth, touching upon the philosophical underpinnings and real-world implications.
 
 ## Defining Libertarianism and Anarcho-Capitalism
@@ -27,5 +27,5 @@ Several criticisms of anarcho-capitalism were considered. One major concern is t
 Another concern is the inability of anarcho-capitalist societies to manage existential risks, such as new technologies that could enable individuals to cause massive harm. Though Huemer acknowledges this as a strong argument for state power, he counters that government development of destructive technologies remains a significant risk <a class="yt-timestamp" data-t="01:02:03">[01:02:03]</a>, also drawing parallels to [[the_parallels_between_nuclear_technology_and_modern_advancements_like_ai | nuclear technology and AI advancements]].
 
 > [!info] Conclusion
-> 
+>
 > Libertarianism and anarcho-capitalism challenge conventional views on government authority, proposing a system where individual liberty and voluntary cooperation replace state control. The transition to such a system, however, requires careful consideration of potential risks and challenges, as outlined by Professor Huemer during his engaging discussion. The philosophical exploration of these ideas raises important questions about morality, power, and the future of societal organization, much like current debates on [[the_role_of_kinship_and_social_organization_in_human_history | kinship and social organization in human history]].

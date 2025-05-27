@@ -3,7 +3,7 @@ title: Education and public intellectuals
 videoId: --xKsIgv7tE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Education has always played a significant role in shaping individuals' worldviews and society's progress. In recent discussions, particularly with reference to insights from notable philosophers and educators like Professor Michael Huemer, the role of education and public intellectuals has been put under scrutiny. Here, we explore the intersection of education and public intellectuals based on insights from a conversation with Professor Michael Huemer.
 
 ## The Role of Education
@@ -15,7 +15,7 @@ Education is not just about acquiring knowledge but also about developing the ca
 Public intellectuals serve as a bridge between academia and the general public. They take complex ideas and research and present them in a way that is accessible to a wider audience. According to Professor Huemer, public intellectuals are often underrated by academia for not always adhering to rigorous scholarly methods or citing extensive literature. However, their role in making sophisticated ideas accessible and engaging to broader audiences is invaluable [[public_intellectualism_and_content_creation_strategies]].
 
 > [!info] Public Intellectuals
-> 
+>
 > Public intellectuals are vital in translating academic discourse into language the public can understand and interact with, as noted by Professor Huemer in his reflection on the disconnect between academic and public intellectual spheres.
 
 ## Challenges Faced by Public Intellectuals

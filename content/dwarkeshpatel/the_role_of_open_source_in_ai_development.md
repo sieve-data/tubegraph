@@ -3,7 +3,7 @@ title: The role of open source in AI development
 videoId: bc6uFV9CJGg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion featuring prominent leaders in technology, the subject of open source in AI development was explored comprehensively. Open source has played a critical role in shaping the AI landscape, providing a robust framework for collaboration and innovation. The conversation revealed insights into how balance is sought between openness and security, as well as the strategic benefits anticipated by tech giants from adopting open source practices [[ai_safety_and_security_measures]].
 
 ## Historical and Current Approaches
@@ -19,7 +19,7 @@ The open source model has allowed for massive collaborative efforts, which typic
 For large companies, open sourcing AI models is not just about community goodwill but also about strengthening their strategic position. By open sourcing their models, organizations like Meta can influence industry standards and potentially streamline costs. Open source contributions can help improve efficiency, leading to significant savings when scaled across their operations [[ai_scaling_and_its_effectiveness]]. Zuckerberg mentioned that improvements in AI model efficiency by even a small percentage could save Meta billions, highlighting a salient financial advantage of open sourcing models [[economic_and_societal_impact_of_ai_integration]] (<a class="yt-timestamp" data-t="01:06:08">[01:06:08]</a>).
 
 > [!info] Key Advantage
-> 
+>
 > Open source contributions can optimize AI models, leading to significant operational cost savings for organizations [[ai_development_and_its_impact_on_technology_infrastructure]].
 
 ## Challenges and Considerations

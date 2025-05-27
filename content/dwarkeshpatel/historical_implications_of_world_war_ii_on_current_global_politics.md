@@ -3,7 +3,7 @@ title: Historical implications of World War II on current global politics
 videoId: Znk5QINe01A
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The consequences of World War II continue to profoundly influence global politics, shaping international relationships and policy-making to this day. This article delves into these lasting implications with insights drawn from a comprehensive historical analysis.
 
 ## Emergence of Superpowers
@@ -19,7 +19,7 @@ World War II played a pivotal role in the expansion of communism, particularly w
 The formation of the United Nations (UN) was perhaps one of the most significant legacies of World War II, established in an effort to prevent further global conflicts. The UN plays an ongoing role in maintaining international peace and security, fostering diplomacy, and aiding in humanitarian and development causes across the globe. Its formation signified a commitment to a world order based on dialogue and mutual understanding, principles that continue to underpin international relations today.
 
 > [!info] The UN's Influence
-> 
+>
 > The UN’s influence remains evident in ongoing global peacekeeping efforts and its role as a mediator in international disputes.
 
 ## Economic Transformations

@@ -3,7 +3,7 @@ title: The future of AI in robotics and multimodal capabilities
 videoId: qTogNUV3CAI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The exploration of artificial intelligence (AI) in robotics and its expansion into multimodal capabilities represents a pivotal frontier in technological innovation. Demis Hassabis, CEO of DeepMind, shares his insights on how these domains are evolving and what the future may hold.
 
 ## AI and Robotics: Overcoming Challenges

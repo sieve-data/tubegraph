@@ -3,9 +3,9 @@ title: Physical Culture and Genetics
 videoId: 80BhjRh-Q-s
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 The intersection of physical culture and genetics offers a fascinating glimpse into how human physical development and the understanding of genetic factors have evolved over time. The podcast episode featuring Steve Hsu explores this intersection, shedding light on how cultural practices shape physical traits and vice versa.
 
 ## Evolution of Physical Culture
@@ -20,7 +20,7 @@ With the molecular understanding of DNA, the relationship between genotype and p
 
 ### Impact of Environment versus Genetics
 
-The discussion highlights the importance of the environment in realizing genetic potential. Steve points out how historical and environmental factors, such as nutrition, play a significant role in how genetic potential is expressed. For instance, in populations with improved access to nutrition, the genetic potential for height is more fully realized [<a class="yt-timestamp" data-t="00:59:00">00:59:00</a>]. 
+The discussion highlights the importance of the environment in realizing genetic potential. Steve points out how historical and environmental factors, such as nutrition, play a significant role in how genetic potential is expressed. For instance, in populations with improved access to nutrition, the genetic potential for height is more fully realized [<a class="yt-timestamp" data-t="00:59:00">00:59:00</a>].
 
 ## Interaction Between Physical Culture and Genetics
 
@@ -36,6 +36,5 @@ With advancements in genetics, particularly in fields such as genomic prediction
 >
 > Physical culture and genetics are deeply interconnected. As our understanding of genetics deepens, so too will our appreciation for how our environments and cultures shape, and are shaped by, our physical characteristics.
 
-Understanding this intricate relationship between physical culture and genetics not only enriches our perspective on human development but also emphasizes the importance of bridging these fields in scientific and cultural discourses, similar to how technological and social innovation have bridged gaps between different scientific domains [[technological_and_social_innovation]]. 
-
+Understanding this intricate relationship between physical culture and genetics not only enriches our perspective on human development but also emphasizes the importance of bridging these fields in scientific and cultural discourses, similar to how technological and social innovation have bridged gaps between different scientific domains [[technological_and_social_innovation]].
 ```

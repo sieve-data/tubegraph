@@ -3,7 +3,7 @@ title: Hidden motives in human behavior and decision-making
 videoId: aagyRGKv66g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In the podcast featuring Robin Hanson, the concept of hidden motives in human behavior is explored in depth. These hidden motives are often underlying drivers of our choices and actions, distinct from what we openly declare or even consciously recognize. Hanson's insights delve into the dynamics between conscious and subconscious motives, and how they shape human behavior and decision-making.
 
 ## Understanding Hidden Motives
@@ -12,7 +12,7 @@ Hidden motives refer to the subconscious drivers that influence human behavior. 
 
 ### Proximate vs. Distal Motives
 
-- **Proximate Motives**: These are the immediate reasons we might give for our actions, often articulated and more conscious reasons that could be context-dependent. 
+- **Proximate Motives**: These are the immediate reasons we might give for our actions, often articulated and more conscious reasons that could be context-dependent.
 - **Distal Motives**: These represent the deeper, long-term drivers and forces that propel our behavior. Hanson stresses the importance of focusing on these distal motives to better understand human actions.
 
 Hanson suggests that focusing on distal motives provides a robust understanding of behavior because these fundamental forces are more reliable than variable proximate ones [<a class="yt-timestamp" data-t="00:16:00">00:16:00</a>].
@@ -22,7 +22,7 @@ Hanson suggests that focusing on distal motives provides a robust understanding 
 The conscious mind plays a particular role in managing these hidden motives. According to Hanson, rather than being rulers or kings of our mental domains, our conscious minds act more like press secretaries. They create justifications that make our actions appear reasonable and socially acceptable, often masking the real, hidden motives. This can be related to the [[comparison_between_human_intelligence_and_ai_learning_techniques | comparison between human intelligence and AI learning techniques]], where layers of processing occur [<a class="yt-timestamp" data-t="00:19:21">00:19:21</a>].
 
 > [!info] Key Insight
-> 
+>
 > The conscious mind's role is primarily about crafting narratives that align with social norms and protect against accusations of norm violations [<a class="yt-timestamp" data-t="00:19:21">00:19:21</a>].
 
 ## Hidden Motives in Social Contexts

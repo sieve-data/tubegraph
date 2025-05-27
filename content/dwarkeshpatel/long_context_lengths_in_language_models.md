@@ -3,7 +3,7 @@ title: Long context lengths in language models
 videoId: UTuuTTnjxMQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Long context lengths in language models have been gaining attention as a pivotal factor in enhancing model intelligence. Despite its potential, this aspect seems surprisingly underhyped in the broader narrative of AI advancements. In this article, we unravel the implications of long context lengths, touching upon their significance, potential applications, and the challenges they present.
 
 ## Importance of Long Context Lengths
@@ -11,8 +11,8 @@ Long context lengths in language models have been gaining attention as a pivotal
 The concept of context length refers to the amount of prior text a model can consider when making predictions. Recently, advancements have allowed models to handle up to a million tokens worth of context, an achievement that promises considerable intelligence enhancements [[ai_scaling_and_its_effectiveness | scaling and its effectiveness]].
 
 > [!info] Significance of Long Context Lengths
-> 
-> The ability to process vast amounts of context enables models to ingest rich datasets such as entire codebases or complex documents, dramatically improving their ability to predict subsequent tokens without solely scaling up the model [[importance_of_new_approaches_in_ai_research | importance of new approaches]]. 
+>
+> The ability to process vast amounts of context enables models to ingest rich datasets such as entire codebases or complex documents, dramatically improving their ability to predict subsequent tokens without solely scaling up the model [[importance_of_new_approaches_in_ai_research | importance of new approaches]].
 
 ## Applications and Implications
 
@@ -33,10 +33,10 @@ In-context learning plays a crucial role in maximizing the effectiveness of long
 
 ### Computational Considerations
 
-A critical barrier resides in the computational demands of processing long contexts. While the theoretical capacity for extensive contexts exists, leveraging it effectively remains costly [[development_and_challenges_in_ai_scaling_and_optimization | challenges in AI scaling and optimization]]. 
+A critical barrier resides in the computational demands of processing long contexts. While the theoretical capacity for extensive contexts exists, leveraging it effectively remains costly [[development_and_challenges_in_ai_scaling_and_optimization | challenges in AI scaling and optimization]].
 
 > [!info] Potential and Cost Considerations
-> 
+>
 > Efforts to optimize attention mechanisms within models are crucial to making the processing of long contexts feasible without incurring prohibitive computational costs [[ai_safety_and_security_measures | AI safety and security measures]].
 
 ## Conclusion

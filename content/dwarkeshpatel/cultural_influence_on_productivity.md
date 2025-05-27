@@ -3,7 +3,8 @@ title: Cultural Influence on Productivity
 videoId: i70j-ZCPhXg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Cultural Influence on Productivity
 
 One of the intriguing topics discussed in the conversation with Bryan Caplan is the critical role culture plays in influencing productivity ([00:50:54](#52:06)). Caplan offers insights into how cultural norms can dramatically affect the effectiveness of organizations and their employees. This can relate to the broader discussion of [[cultural_evolution_and_collective_brains | cultural evolution]] in societal contexts.
@@ -13,7 +14,7 @@ One of the intriguing topics discussed in the conversation with Bryan Caplan is 
 Caplan mentions how multinational companies often bring significant changes to local work cultures, leading to enhanced productivity. For example, he reports on evidence showing that multinationals outperform local companies in the same developing countries. This phenomenon is largely because multinationals implement organizational practices that might clash with local cultural norms but are universally recognized as being more effective ([00:51:08](#51:08)).
 
 > [!info] Multinational Practices
-> 
+>
 > Multinational companies often import cultural workplace norms such as meritocracy and punctuality, which can conflict with and subsequently alter local norms, leading to improved productivity.
 
 ### Cultural Challenges

@@ -3,8 +3,8 @@ title: Influence of national IQ on economic productivity
 videoId: ZruyslAe26g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-In a recent podcast episode, economist Garrett Jones, from George Mason University, delves into how national IQ influences a country's economic productivity. As the author of several books concerning economic and cultural influences, Jones offers nuanced perspectives on the intricate relationship between intelligence and a nation's economic success. 
+From: [[dwarkeshpatel]] <br/>
+In a recent podcast episode, economist Garrett Jones, from George Mason University, delves into how national IQ influences a country's economic productivity. As the author of several books concerning economic and cultural influences, Jones offers nuanced perspectives on the intricate relationship between intelligence and a nation's economic success.
 
 ## The Role of National IQ
 
@@ -19,7 +19,7 @@ Jones posits that the upper tail of IQ distribution—the elites within a nation
 Jones further discusses how the mean IQ is generally a good predictor of national productivity, although there are exceptions, particularly in non-democratic societies and certain regions like the Gulf states, which boast high productivity due to well-educated migrant communities [[expansion_and_interaction_of_human_populations]].
 
 > [!info] Gulf States Example
-> 
+>
 > Migrant communities in the Gulf states such as Qatar and the UAE demonstrate high productivity levels, despite these nations being exceptions where mean IQ is a strong productivity predictor.
 
 ## IQ Deviation and Economic Strategy
@@ -31,6 +31,7 @@ The conversation also touches upon whether increasing deviation in IQ, while mai
 Jones examines how migration might alter national IQ distribution and, consequently, economic productivity. While open borders may bring varying skills that affect cultural and institutional norms, the overarching concern remains whether these changes lower the overall median and mean IQ, potentially dampening economic productivity [[debate_on_open_borders_and_immigration_policies]].
 
 [!info] Migration and Cultural Influence
+
 > Migration can shift cultural norms and institutions, often causing a convergence ('spaghetti theory') between existing and incoming values, influencing overall productivity [[effects_of_migration_on_cultural_and_political_systems]].
 
 ## Cultural and Economic Implications

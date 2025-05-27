@@ -3,7 +3,7 @@ title: Integration of prediction markets in decision-making and governance
 videoId: XoRXrnHg084
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Prediction markets have shown promise as a tool for aggregating information and potentially improving decision-making and governance across various domains. With the rise of platforms like Manifold Markets, created to facilitate [[userdriven_markets_and_manifold_markets_platform | user-driven prediction markets]], the application and impact of these markets are gaining increased interest and discussion. In a conversation with the founder of Manifold Markets, Steven Gruget, several insights were shared about how prediction markets can be integrated into decision-making processes and governance structures.
 
 ## What are Prediction Markets?
@@ -35,7 +35,7 @@ Prediction markets also hold potential beyond the corporate sphere. For instance
 The idea of integrating prediction markets into decision-making and governance systems garners significant interest for its potential benefits. However, the practicalities of implementation require overcoming substantial usability and cultural barriers. [[userdriven_markets_and_manifold_markets_platform | Manifold Markets']] goal is to address these by lowering the bar for user participation, creating an enjoyable experience for broader audiences and making these tools accessible to a wider range of organizations <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>.
 
 > [!info] Current Uses and Future Developments
-> 
+>
 > Manifold Markets serves as a testing ground for how these prediction markets can influence corporate and personal decision-making. The platform has even utilized prediction markets internally to inform business decisions and gauge organizational milestones <a class="yt-timestamp" data-t="00:42:16">[00:42:16]</a>.
 
 In conclusion, while the integration of [[prediction_markets_and_their_applications | prediction markets]] into governance and decision-making offers promising advancements in objectivity and data-driven insights, realizing their full potential depends on overcoming existing cultural and functional hurdles. As platforms like Manifold Markets continue to innovate, these challenges are beginning to see viable solutions, paving the way for more widespread adoption.

@@ -3,7 +3,7 @@ title: Role of AI in future economic growth
 videoId: EY2nbAVZB-k
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial Intelligence (AI) is expected to play a significant role in shaping the future trajectory of economic growth. The conversation in the transcript above delves into various facets of how AI might influence economic paradigms, productivity, and the broader market sphere. This article explores these prospects based on the insights shared within the podcast conversation.
 
 ## AI and Economic Growth Prospects
@@ -28,8 +28,8 @@ An interesting point raised was the comparison between AI and human overconfiden
 
 AI is predicted to reshape market dynamics. Not only will AI systems be involved directly in economic exchanges, but they may develop their own systems of currency and property rights, akin to how current cryptocurrencies and NFTs function. This could create an entirely new layer of economic interaction exclusive to AI agents, resulting in an economy that operates parallel to but distinct from human economic systems [[potential_risks_and_benefits_of_ai_in_society | resulting in an economy that operates parallel]] <a class="yt-timestamp" data-t="00:34:29">[00:34:29]</a>.
 
-> [!info] Key Insight 
-> 
+> [!info] Key Insight
+>
 > AI is anticipated to both challenge and enhance current economic systems, augmenting productivity but requiring significant adjustments in regulatory and infrastructural frameworks [[regulation_and_its_impact_on_innovation | requiring significant adjustments]].
 
 ## Closing Thoughts

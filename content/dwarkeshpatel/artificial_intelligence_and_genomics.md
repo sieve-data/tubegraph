@@ -3,7 +3,7 @@ title: Artificial Intelligence and Genomics
 videoId: 80BhjRh-Q-s
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The intertwining of artificial intelligence (AI) and genomics marks one of the pioneering strides in scientific exploration in the 21st century. This convergence is primarily fueled by the increasing availability of genomic data and the advancements in AI technologies designed to interpret such data. Insights from a recent podcast discussion with Steve Shu illuminate the profound implications of this relationship.
 
 ## Genomic Data and AI
@@ -24,6 +24,6 @@ Looking forward, Shu anticipates a future where AI and genomic technologies will
 
 ## Conclusion
 
-The symbiosis of AI and genomics stands as a testament to modern scientific progress, offering promising avenues for innovation in disease prevention and personalized medicine. As researchers and innovators continue to explore this intersection, it is vital to ensure ethical considerations and equitable access to these technologies, thereby maximizing their societal benefit [[potential_societal_impacts_of_advanced_ai | alongside considering the broad societal impacts of AI]]. 
+The symbiosis of AI and genomics stands as a testament to modern scientific progress, offering promising avenues for innovation in disease prevention and personalized medicine. As researchers and innovators continue to explore this intersection, it is vital to ensure ethical considerations and equitable access to these technologies, thereby maximizing their societal benefit [[potential_societal_impacts_of_advanced_ai | alongside considering the broad societal impacts of AI]].
 
 This integration not only pushes the boundaries of healthcare but also exemplifies the potential of interdisciplinary approaches in solving complex global challenges [[potential_future_advancements_in_gene_editing_and_artificial_intelligence | through future advancements in gene editing and AI]].

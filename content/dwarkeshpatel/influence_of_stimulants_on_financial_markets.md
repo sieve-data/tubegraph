@@ -3,7 +3,7 @@ title: Influence of stimulants on financial markets
 videoId: 9P2rk0Gtd0I
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion, Byrne Hobart and his host explored the intriguing notion of how the consumption of stimulants has historically influenced financial markets. The conversation delved into the impact of various stimulants over time, drawing connections between certain drugs and notable financial behaviors in different eras.
 
 ## Historical Context
@@ -23,7 +23,7 @@ In the 2000s, Adderall, a long-acting stimulant, became widely used, especially 
 In the case of FTX, the stimulant Emsam, a treatment for Parkinson's disease with reported side effects including compulsive gambling, was highlighted. Hobart discussed how financial risk-taking might be influenced by such medication, perhaps exacerbating risky trading behaviors. The [[ftx_financial_collapse_and_fraud_investigation | FTX scenario]] exemplifies the potential repercussions of stimulant misuse in a high-stakes industry, illustrating that the impact of drugs on decision-making in the financial sector remains relevant today [<a class="yt-timestamp" data-t="00:16:58">00:16:58</a>].
 
 > [!info] The Role of Stimulants
-> 
+>
 > While stimulants can increase productivity and risk-taking, their influence on financial decision-making can sometimes lead to exaggerated optimism and a tolerance for unnecessary risk.
 
 ## Conclusion

@@ -3,7 +3,8 @@ title: Impacts of polygamy and polyandry on marriage markets
 videoId: 3svashDgB50
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Impacts of Polygamy and Polyandry on Marriage Markets
 
 In a fascinating discussion on the dynamics of marriage markets, Dr. David Friedman offers an intriguing perspective on how the legalization of polygamy (polygyny) and polyandry could affect men's and women's positions within these markets. His analysis delves into economic models of marriage, highlighting how these practices could shift societal norms and expectations in unexpected ways.
@@ -31,5 +32,5 @@ The discussion also touches on the complexity of real-world marriage markets ver
 Dr. Friedman's exploration of polygamy and polyandry highlights the intricate ways cultural practices can impact the economic landscape of marriage markets. By challenging traditional perceptions, he invites further discussion on how legal and social shifts could redefine the incentives and dynamics at play for both men and women in marriage.
 
 > [!info] Fascinating Insights
-> 
+>
 > The discussion raises questions about how societal norms and market dynamics intersect, offering a unique lens through which to consider changes in marriage practices worldwide.

@@ -3,7 +3,7 @@ title: Comparison between human intelligence and AI learning techniques
 videoId: UakqL6Pj9xo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The discussion about comparing human intelligence and AI learning techniques is a crucial topic as it brings into sharper focus the fundamental differences and similarities between these two systems. Examining this comparison allows us to assess current AI capabilities and ponder the future trajectory towards achieving [[artificial_general_intelligence_agi_and_its_implications_for_mathematics | Artificial General Intelligence (AGI)]].
 
 ## Intelligence vs. Memorization

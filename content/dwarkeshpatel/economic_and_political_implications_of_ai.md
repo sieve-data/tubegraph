@@ -3,7 +3,7 @@ title: Economic and political implications of AI
 videoId: 9AAhTLa0dT0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The advent and proliferation of artificial intelligence (AI) technologies are expected to bring about significant shifts in both economic and political landscapes. Paul Christiano, a prominent figure in [[ai_safety_and_alignment | AI safety research]], offered insights into these implications during a recent podcast discussion [<a class="yt-timestamp" data-t="00:00:30">00:00:30</a>].
 
 ## Economic Shifts
@@ -31,7 +31,7 @@ The international community could see significant shifts, as AI development migh
 Furthermore, Christiano highlights the potential of AI to concentrate power, especially within authoritarian regimes, by enabling highly efficient and centralized societal control with AI systems managing infrastructures and information dissemination [<a class="yt-timestamp" data-t="01:21:58">01:21:58</a>]. This could pose significant challenges to democratic structures and require [[ethical_considerations_in_ai_development | governance frameworks that can effectively integrate AI]] without sacrificing fundamental civil liberties.
 
 > [!info] Warning
-> 
+>
 > The rapid development and deployment of AI bring about not only opportunities but also significant risks that require careful policy consideration and international collaboration to ensure that technological integration into societal structures enhances rather than diminishes quality of life and democratic governance.
 
 ## Conclusion

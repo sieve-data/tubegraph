@@ -3,7 +3,7 @@ title: The role of applied mathematics in various industries
 videoId: oDyviiN4NVo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent interview with Grant Sanderson, creator of [[3blue1browns_influence_on_math_education | 3Blue1Brown]], the discussion delved into the diverse applications of applied mathematics across different sectors and the potential impact mathematicians can have on society. This article explores those insights and examines some of the main areas where applied mathematics plays a critical role.
 
 ## Mathematics in Computer Science and Information Technology
@@ -19,7 +19,7 @@ Applied mathematics is also prominently utilized in finance and economics. Here,
 Another area where applied mathematics significantly impacts society is in transportation and logistics. Mathematicians optimize routes, manage supply chain complexity, and improve systems efficiency through modeling and simulation. These efforts are crucial for companies aiming to enhance their operational efficiency and reduce costs ([[ai_and_economic_growth | Role of AI in economic growth]]) ([00:08:39](<a class="yt-timestamp" data-t="00:08:39">00:08:39</a>)).
 
 > [!info] Mathematics in Manufacturing
-> 
+>
 > Applied mathematicians play a key role in the manufacturing industry, where they develop models to optimize production processes and quality control systems. This application of mathematics results in improved productivity, cost efficiency, and reduced waste ([00:08:39](<a class="yt-timestamp" data-t="00:08:39">00:08:39</a>)).
 
 ## Mathematical Applications in Health and Medicine

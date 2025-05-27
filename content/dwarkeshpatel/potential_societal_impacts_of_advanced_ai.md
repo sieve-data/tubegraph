@@ -3,7 +3,7 @@ title: Potential societal impacts of advanced AI
 videoId: Nlkk3glap_U
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Advanced artificial intelligence (AI) systems have the potential to transform society in numerous ways, from economic shifts to ethical challenges. As AI technologies continue to develop, it is crucial to understand their potential impacts and prepare for both the opportunities and risks they present.
 
 ## Economic Transformations
@@ -27,7 +27,7 @@ The deployment of advanced AI technologies also impacts international relations,
 AI's transformative potential necessitates robust governance frameworks to manage its development and deployment [[interplay_between_ai_safety_ethics_and_governance | Interplay between AI safety, ethics, and governance]]. Amodei advocates for a balance between innovation and regulation, suggesting that substantial governmental involvement will be necessary to manage AI's widespread impacts [[government_and_ai_industry_dynamics | Government and AI Industry Dynamics]]. Developing these governance structures requires global cooperation and an understanding of AI's societal implications [[societal_and_governmental_response_to_ai_risks | Societal and governmental response to AI risks]].
 
 > [!info] Summary
-> 
+>
 > Advanced AI poses significant opportunities and challenges for society. By understanding its potential impacts, we can better prepare for its integration into various sectors and guard against risks associated with misuse and misalignment [[ai_alignment_and_risks | AI Alignment and Risks]]. Ongoing research into AI interpretability and governance will play vital roles in shaping future developments [[ethical_considerations_in_technology | Ethical Considerations in Technology]].
 
 As AI technology continues to evolve, it is imperative to maintain an informed and proactive stance, engaging in conversations about responsible AI development and its implications for society at large [[potential_risks_and_benefits_of_ai_in_society | Potential risks and benefits of AI in society]].

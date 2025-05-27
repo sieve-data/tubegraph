@@ -3,7 +3,7 @@ title: Political Censorship and Big Tech
 videoId: 18zpjpPNWRw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Political censorship and its tangled relationship with big tech companies have come under intense scrutiny in recent years. Incidents such as governmental overreach and the manipulation of tech platforms highlight the complex interplay between state power and technology firms. The essence of this issue is reflected in various points detailed by Patrick McKenzie in his extensive discussion about [[vaccinateca_and_its_impact | VaccinateCA]] and further elaborations on the broader systemic issues highlighted during the COVID-19 pandemic response.
 
 ## Government Pressure and Tech Compliance
@@ -11,7 +11,7 @@ Political censorship and its tangled relationship with big tech companies have c
 The most striking aspect discussed involves government entities exerting pressure on big tech companies to modify or censor content. The conversation around this becomes vivid when examining how the U.S. government allegedly used tech as a "cat's paw" to conduct actions that bordered on constitutional violations, particularly concerning free speech. There was a clear assertion that entities within the government coerced tech companies to regulate content in a manner advantageous to political narratives.
 
 > [!info] Key Insight
-> 
+>
 > The government's influence over tech companies has resulted in tech being unwitting participants in enforcement mechanisms that could infringe upon individual freedoms. This involvement raises critical questions about the balance between national interests and constitutional rights.
 
 ## The Role of Big Tech in Political Narratives

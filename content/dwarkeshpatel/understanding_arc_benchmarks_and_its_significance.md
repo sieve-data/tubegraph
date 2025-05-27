@@ -3,13 +3,14 @@ title: Understanding ARC benchmarks and its significance
 videoId: UakqL6Pj9xo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Introduction
 
-The Abstraction and Reasoning Corpus (ARC) benchmark was conceived by François Chollet, an AI researcher at Google and the creator of Keras. It aims to provide a measure of machine intelligence through its resistance to memorization and interpolation, setting it apart from most large language model (LLM) benchmarks. The ARC benchmark has gained notoriety for its stringent test of artificial general intelligence (AGI) capabilities, challenging AI systems to adapt and solve novel problems using core knowledge rather than pre-learned data. 
+The Abstraction and Reasoning Corpus (ARC) benchmark was conceived by François Chollet, an AI researcher at Google and the creator of Keras. It aims to provide a measure of machine intelligence through its resistance to memorization and interpolation, setting it apart from most large language model (LLM) benchmarks. The ARC benchmark has gained notoriety for its stringent test of artificial general intelligence (AGI) capabilities, challenging AI systems to adapt and solve novel problems using core knowledge rather than pre-learned data.
 
 > [!info] ARC Benchmark
-> 
+>
 > François Chollet describes ARC as akin to an IQ test for machines, emphasizing its resistance to memorization and its focus on core knowledge ([00:01:12](#)).
 
 ## What is ARC?
@@ -20,12 +21,12 @@ ARC is a suite of tasks designed to evaluate an AI's ability to generalize knowl
 
 The puzzles require basic intuition about physical objects, numbers, and symmetries—skills innately possessed by young humans. While this foundational knowledge may seem trivial for a person, it remains a significant challenge for current AI models ([00:01:43](#), [00:03:55](#)).
 
-## The Challenge for LLMs 
+## The Challenge for LLMs
 
 ARC challenges current AI techniques, particularly LLMs, due to its design against memorization. LLMs typically function by memorizing vast quantities of data and retrieving it when prompted. Independent thinking or on-the-fly program synthesis is where these models struggle, as they generally perform well by reapplying memorized solutions rather than synthesizing new ones. This draws attention to the [[limitations_of_large_language_models_in_solving_novel_tasks | limitations]] of these models in handling unique tasks.
 
 > [!info] LLM Limitation
-> 
+>
 > LLMs have shown difficulties on the ARC benchmark due to the tasks' novelty and variety, which are resistant to memorization. Chollet cites that an ideal LLM would need to adapt and pick up new skills efficiently to demonstrate intelligence akin to human reasoning ([00:03:09](#)).
 
 ## Implications for AGI

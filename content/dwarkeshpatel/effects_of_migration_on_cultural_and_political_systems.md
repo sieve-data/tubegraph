@@ -3,7 +3,7 @@ title: Effects of migration on cultural and political systems
 videoId: ZruyslAe26g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Migration is a multifaceted phenomenon that not only impacts the demographic makeup of a nation but also influences its cultural and political systems. Garrett Jones, an economist at George Mason University, dives into the intricate dynamics of how migration affects the culture and politics of host countries in his discussion on a recent podcast.
 
 ## Cultural Impact

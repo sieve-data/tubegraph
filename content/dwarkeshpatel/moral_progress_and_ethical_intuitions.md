@@ -3,7 +3,7 @@ title: Moral progress and ethical intuitions
 videoId: --xKsIgv7tE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with Professor Michael Huemer, the topic of moral progress and ethical intuitions was explored extensively. Huemer addressed the evidence for moral progress throughout history, the role of ethical intuitions, and the forces driving this progress.
 
 ## Evidence of Moral Progress
@@ -25,7 +25,7 @@ Despite historical evidence of progress, Huemer acknowledges potential barriers.
 Additionally, Huemer explores the possibility that significant moral truths may be challenging for humanity to fully understand, potentially limiting progress in reaching certain ethical ideals such as [[libertarianism_and_anarchocapitalism | anarcho-capitalism]] [00:25:31](<a class="yt-timestamp" data-t="00:25:31">25:31</a>).
 
 > [!info] Shifts in Cultural and Ethical Norms
-> 
+>
 > Huemer emphasizes that larger cultural shifts usually follow the influence of thought leaders or philosophical works, suggesting that if current trends continue, moral views such as vegetarianism and veganism will gain further acceptance, potentially leading to less animal suffering in the future [00:22:38](<a class="yt-timestamp" data-t="00:22:38">22:38</a>). This aligns with discussions on the [[ethical_considerations_in_technology | ethical considerations]] in promoting cultural shifts.
 
 ## Conclusion

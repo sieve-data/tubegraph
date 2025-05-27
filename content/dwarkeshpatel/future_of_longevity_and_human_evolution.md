@@ -3,7 +3,7 @@ title: Future of Longevity and Human Evolution
 videoId: 80BhjRh-Q-s
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 As genomic research and technology continue to advance, the potential for extending human longevity and influencing human evolution becomes ever more tangible. In a recent discussion, Steve Shu—a notable figure in the field of genomics—explores these themes, providing insights into how genetic technologies could transform human life expectancy and the genetic makeup of future generations.
 
 ## Longevity and Genomic Prediction

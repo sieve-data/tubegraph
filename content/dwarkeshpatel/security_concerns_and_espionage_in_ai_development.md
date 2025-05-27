@@ -3,7 +3,7 @@ title: Security concerns and espionage in AI development
 videoId: zdbVtZIn9IM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 With the rapid advancements in artificial intelligence (AI), there are growing concerns about security and espionage in the AI development landscape. In the emerging AI arms race, national security and international espionage are becoming critical issues. This article explores these concerns and the potential impact on global politics and technological development.
 
 ## The Danger of Espionage

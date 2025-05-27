@@ -3,7 +3,7 @@ title: AI developments and technology in archeology
 videoId: qcvMjoJdck4
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Archeology has always been a field deeply rooted in manual efforts, patience, and sometimes serendipity. However, the recent advancements in artificial intelligence (AI) and modern technology are revolutionizing how archeologists approach the mysteries of history. This article delves into how AI and technology are being employed to decipher ancient texts without direct physical interaction and what this means for archeology at large.
 
 ## The Vesuvius Challenge: Preserving Ancient Texts
@@ -11,7 +11,7 @@ Archeology has always been a field deeply rooted in manual efforts, patience, an
 In a recent conversation, Nat Friedman, founder of the [[reading_ancient_scrolls_and_the_vesuvius_challenge | Scroll Prize]] and former CEO of GitHub, discussed an exciting endeavor focused on utilizing advanced technologies to unlock the secrets buried within the ancient papyrus scrolls from Herculaneum, a town destroyed by the eruption of Mount Vesuvius in AD 79.
 
 > [!info] Scroll Prize
-> 
+>
 > The Scroll Prize, also referred to as the [[reading_ancient_scrolls_and_the_vesuvius_challenge | Vesuvius Challenge]], is an open competition offering a substantial reward to the first team to successfully read significant amounts of text from charred scrolls using non-invasive methods.
 
 ### Background: Ancient Herculaneum Scrolls

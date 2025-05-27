@@ -3,7 +3,7 @@ title: The role of kinship and social organization in human history
 videoId: TcfhrThp1OU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Understanding the role of kinship and social organization in human history provides invaluable insight into the development of civilizations, societal structures, and technological progress. In a recent conversation, Professor Joseph Henrich from Harvard University delved into the complex interplay between kinship, social institutions, and the broader evolution of human societies [[cultural_evolution_and_collective_brains | cultural evolution and collective brains]].
 
 ## Defining Kinship and Social Organization

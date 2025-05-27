@@ -3,7 +3,7 @@ title: History's Most Important Century Thesis
 videoId: UckqpcOu5SY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The idea of the "Most Important Century" is a hypothesis that suggests the current century could be the most pivotal in human history due to advancements in artificial intelligence (AI) and its potential transformative impact. This notion was discussed by Holden Karnofsky, co-CEO of Open Philanthropy, during his conversation about global development and the future of humanity. Here, we summarize the key points of this intriguing thesis as elaborated by Karnofsky.
 
 ## Genesis of the Thesis
@@ -31,7 +31,7 @@ The profound transformations envisaged by the thesis suggest that if AI advances
 One of the core tenets of the Most Important Century thesis involves the responsibilities that come with such transformative potential. Karnofsky underscores the critical nature of shaping this transition responsibly. He stresses the need for caution in AI development to avoid catastrophic outcomes, such as AI systems developing unintended goals with disastrous consequences [[ai_safety_and_security_measures]]. This responsibility is crucial, given the potential for AI to drastically alter power dynamics and societal norms [[alignment_and_misalignment_of_ai]].
 
 > [!info] **Ethical Considerations in AI Development**
-> 
+>
 > The thesis emphasizes ethical considerations in AI development, advocating for responsible governance and prioritizing human values to align AI progress with desirable outcomes [[ethical_considerations_in_ai_development]].
 
 ## Conclusion

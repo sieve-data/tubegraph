@@ -3,7 +3,7 @@ title: Terrorism and city resilience
 videoId: MpttoDJ3pH8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with Professor Edward Glaser, chair of the Harvard Department of Economics, the topic of cities' resilience to terrorism was explored. Since 9/11, there have been various attempts by terrorist groups to cause harm to urban areas, but these attempts have not achieved the same level of fatality as the 9/11 attacks. This poses an interesting question about the resilience and adaptability of cities in the face of terrorism.
 
 ## Historical Context of Terrorist Objectives
@@ -21,9 +21,9 @@ Professor Glaser emphasized that the strategic concentration of economic activit
 Cities historically served as defensive strongholds where walls provided collective protection. Modern cities have evolved from this protective function, but they continue to uphold inherent security benefits due to their density and organized structure, allowing for a far more organized and communal defense strategy [[urbanization_and_city_planning | urban planning and communal defense]] (<a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>).
 
 > [!info] Urban Resilience
-> 
+>
 > Cities can be both targets and defensive spaces—advantages inherent in their historical development from walled settlements to modern urban fortresses.
-> 
+>
 > — Professor Edward Glaser
 
 ## The Role of Technological Integration

@@ -3,18 +3,19 @@ title: DNA evidence regarding human migrations and mixtures
 videoId: Uj6skZIxPuI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## DNA Evidence and Human Migrations
 
-The study of [[ancient_dna_and_its_impact_on_understanding_human_history | ancient DNA]] has propelled our understanding of human migrations and mixtures far beyond traditional archaeological techniques. David Reich, a geneticist at Harvard University, has been at the forefront of this research, revealing the complex web of human ancestry through genetic analysis. 
+The study of [[ancient_dna_and_its_impact_on_understanding_human_history | ancient DNA]] has propelled our understanding of human migrations and mixtures far beyond traditional archaeological techniques. David Reich, a geneticist at Harvard University, has been at the forefront of this research, revealing the complex web of human ancestry through genetic analysis.
 
 > [!info] The Impact of Ancient DNA
-> 
+>
 > Ancient DNA has transformed our understanding of human history and evolution, offering unprecedented insights into the movements and interactions of our ancestors (<a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>).
 
 ### 1. The Discovery of Archaic DNA
 
-The first major breakthrough in understanding human migrations involved identifying the genetics of our archaic relatives, such as [[human_and_neanderthal_genetic_relationships | Neanderthals and Denisovans]]. Neanderthals lived in western Eurasia for hundreds of thousands of years, while Denisovans were discovered from DNA in a Siberian cave (<a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>). 
+The first major breakthrough in understanding human migrations involved identifying the genetics of our archaic relatives, such as [[human_and_neanderthal_genetic_relationships | Neanderthals and Denisovans]]. Neanderthals lived in western Eurasia for hundreds of thousands of years, while Denisovans were discovered from DNA in a Siberian cave (<a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>).
 
 ### 2. Mixture Events and Human Evolution
 

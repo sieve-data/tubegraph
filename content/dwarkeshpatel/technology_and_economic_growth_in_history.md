@@ -3,7 +3,7 @@ title: Technology and economic growth in history
 videoId: SMEfl5maB8k
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Technology and economic growth have long been intertwined, playing pivotal roles in shaping human societies. In a recent discussion with William MacAskill, the nuances of this relationship across history were dissected, revealing insights into how technology-driven economic revolutions have occurred and their overarching impacts.
 
 ## Historical Contingency of Economic Growth
@@ -19,7 +19,7 @@ The Industrial Revolution, which primarily took place in Britain in the 18th cen
 Throughout history, there have been instances where a concentration of talent and resources led to significant technological leaps. MacAskill references Bell Labs, which, despite not boasting the sheer size compared to national-scale efforts, produced multiple Nobel Prize winners by creating an environment where researchers thrived. This underlines the advantages of [[cultural_evolution_and_collective_brains | concentrated talent in fostering innovation]] <a class="yt-timestamp" data-t="00:17:57">[00:17:57]</a>.
 
 > [!info] Venice, Athens, and Bell Labs
-> 
+>
 > Historical examples like Venice, Athens, and Bell Labs highlight how small groups or institutions with concentrated talent can have outsized impacts on technological progress. Such environments underscore the importance of [[the_role_of_elite_technocracy_in_governance | elite technocracy and governance]] in promoting innovation <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>.
 
 ## Economic Growth Models

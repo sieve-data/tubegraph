@@ -3,7 +3,7 @@ title: Cultural transplant and its impact on democracy
 videoId: ZruyslAe26g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Garrett Jones, an economist at George Mason University and author of "The Culture Transplant: How Migrants Make the Economies They Move To a Lot Like the Ones They Left," delves deeply into the complex interplay between migration and democracy in his work. In a recent podcast, he explored these themes, provoking thought on how cultural migration affects democratic structures.
 
 ## Culture vs. Politics

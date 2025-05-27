@@ -3,12 +3,13 @@ title: Poverty and the Success Sequence
 videoId: i70j-ZCPhXg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The idea of the "success sequence" is a debated strategy for avoiding poverty, with its proponents arguing that by following a set of life milestones in a specific order, individuals can significantly reduce their chances of becoming impoverished. This concept was discussed in detail during a conversation with economist Bryan Caplan, who offers insights on its implications and critiques.
 
 ## Understanding the Success Sequence
 
 The success sequence comprises three main steps:
+
 1. **Completing a High School Diploma** - Graduating from high school is seen as an achievable step given the generally low standards in many American high schools. As Caplan highlights, simply showing up and trying is often enough to graduate <a class="yt-timestamp" data-t="05:15">[05:15]</a>.
 2. **Working Full-Time** - The ability to secure a full-time job is emphasized as critical in avoiding poverty, and according to Caplan, many individuals in poverty have noted that finding employment isn’t as difficult as it might seem outside of severe recessions <a class="yt-timestamp" data-t="05:21">[05:21]</a>.
 3. **Getting Married Before Having Children** - This step emphasizes the importance of family planning, advocating for marriage before starting a family <a class="yt-timestamp" data-t="03:56">[03:56]</a>.

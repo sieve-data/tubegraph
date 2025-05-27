@@ -3,7 +3,7 @@ title: Complexity theory and its implications in various fields
 videoId: Uy5fvwdw8x4
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Complexity theory, a cornerstone of theoretical computer science, examines the computational difficulty of solving problems. Understanding complexity involves identifying the minimal resources required―such as time and memory―and sorting problems according to their computational needs. This field not only provides insights into what can be computed effectively but also impacts numerous disciplines across science, economics, and more.
 
 ## Complexity Theory in Computer Science

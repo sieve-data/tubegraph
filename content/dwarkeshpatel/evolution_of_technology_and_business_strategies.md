@@ -3,7 +3,7 @@ title: Evolution of technology and business strategies
 videoId: OEcOUgXvz7g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The evolution of technology and business strategies is a central theme in the discussion between Jimmy Soni and the interviewer about Soni's book, "The Founders: The Story of PayPal and the Entrepreneurs Who Shaped Silicon Valley". Through the lens of PayPal's history, we observe the interplay between technological innovation and strategic business decision-making, especially during periods of economic pressure and intense competition. This article delves into these themes as captured in the interview.
 
 ## Technological Innovation in PayPal's Journey

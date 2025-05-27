@@ -3,7 +3,7 @@ title: Limitations of large language models in solving novel tasks
 videoId: UakqL6Pj9xo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The conversation between François Chollet, an AI researcher at Google and creator of Keras, alongside Mike Knoop, co-founder of Zapier, highlights significant limitations of large language models (LLMs) when it comes to solving novel tasks. LLMs, while highly capable in some areas, struggle with novel, unfamiliar problems that require true reasoning rather than memorization.
 
 ## The Problem with Current LLM Benchmarks
@@ -27,7 +27,7 @@ LLMs often falter when deployed in environments they weren't explicitly trained 
 Chollet suggests that the development of System 2 architectures, which would allow LLMs to perform logical and reasoning tasks, is pivotal <a class="yt-timestamp" data-t="00:56:02">[00:56:02]</a>. This would constitute a shift from memory and interpolation toward true intelligence. A hybrid approach combining deep learning's pattern recognition (System 1) with discrete program search (System 2) could pave the way towards models that can innovate and reason more like humans <a class="yt-timestamp" data-t="00:52:28">[00:52:28]</a>. This hybrid approach is viewed as a crucial next step in [[importance_of_new_approaches_in_ai_research | advancing AI research]].
 
 > [!info] Limitations Overview
-> 
+>
 > - **Memorization Over True Reasoning**: LLMs largely rely on pre-trained data to solve tasks, which limits their ability to adapt to new, unfamiliar scenarios.
 > - **Skill vs. Intelligence**: While scaling improves skill, it doesn't inherently enhance adaptability or intelligence.
 > - **ARC Benchmark as a True Test**: Designed to resist memorization, ARC presents a unique challenge by focusing on abstract reasoning and core knowledge.

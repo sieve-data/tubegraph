@@ -3,7 +3,7 @@ title: Influence of Keynes on economic thought
 videoId: EY2nbAVZB-k
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 John Maynard Keynes remains one of the most influential economists in the history of economic thought, whose ideas continue to permeate economic policies and theories. Throughout the discussion in the podcast, several aspects of Keynes's impact and the interpretation of his work are highlighted, showcasing why he is a pivotal figure in economics.
 
 ## Keynes as a Multifaceted Thinker
@@ -18,7 +18,7 @@ Keynes’s perspective on investment behavior critically observes the role of ir
 
 Keynes challenged what would later be formalized as the Efficient Market Hypothesis by suggesting that short-term speculation could lead to market-beating strategies, a claim that seems more contextual to his era [<a class="yt-timestamp" data-t="00:06:11">00:06:11</a>]. This assertion underscores Keynes's recognition of market imperfections and informed later economic theories about market dynamics.
 
-> [!info] Keynes's Insight on Risk 
+> [!info] Keynes's Insight on Risk
 > Keynes perceived that investors tend to be more risk-seeking than it might be selfishly prudent, a concept that challenges conventional economic theories of risk aversion [<a class="yt-timestamp" data-t="00:13:00">00:13:00</a>].
 
 ## Legacy and the General Theory

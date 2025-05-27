@@ -3,7 +3,7 @@ title: Investing strategies and market efficiency
 videoId: YSgfu7XprIM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Investing strategies significantly depend on their understanding of market efficiency. The concept of market efficiency is central to many investing strategies, influencing whether investors actively manage their portfolios or passively invest based on the belief markets are efficient. Here, we explore these ideas, drawing insights from Austin Vernon’s discussion about investing strategies and market efficiency.
 
 ## Understanding Market Efficiency

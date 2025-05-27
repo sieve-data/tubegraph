@@ -3,7 +3,7 @@ title: Napoleon's legacy and impact on modern governance
 videoId: E65CHSV6Ads
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Napoleon Bonaparte, often considered one of history's most influential figures, left a legacy that resonates through modern governance and political structures. While Napoleon is often characterized as a product of revolutionary France, his contributions to governance reflect the values of the Enlightenment more than those of the [[role_of_revolutionary_reform_in_socioeconomic_development | French Revolution]].
 
 ## Enlightened Despotism

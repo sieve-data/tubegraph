@@ -3,9 +3,9 @@ title: Georgism and land value tax
 videoId: sL-qkv7Pzxo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 Georgism, named after the 19th-century economist Henry George, is an economic theory proposing a particular approach to taxation and property rights. This theory focuses on the taxation of land value, arguing for a fundamental shift in how societies view and manage land resources. The concept has gained renewed interest as a mechanism to resolve some of the persistent issues in modern economies, such as inequality and housing crises [[economic_disparities_and_labor_markets | and economic disparities]].
 
 ## Introduction to Georgism

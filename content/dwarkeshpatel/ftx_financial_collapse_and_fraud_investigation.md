@@ -3,7 +3,7 @@ title: FTX financial collapse and fraud investigation
 videoId: 9P2rk0Gtd0I
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The collapse of FTX, once one of the most promising cryptocurrency exchanges, has become a complex tale of alleged mismanagement, financial incompetence, and possible fraud. Byrne Hobart, a renowned finance analyst and blogger, provides insights into this saga, shedding light on the factors that may have contributed to the downfall of FTX and its related entities.
 
 ## What Happened to FTX?

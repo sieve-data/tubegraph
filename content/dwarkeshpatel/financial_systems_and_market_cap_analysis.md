@@ -3,7 +3,7 @@ title: Financial Systems and Market Cap Analysis
 videoId: 18zpjpPNWRw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent podcast, Patrick McKenzie (known online as patio11) discussed various aspects of financial systems, market capitalization (market cap), and the impact of crypto assets on society. Patrick's insights offer a critical evaluation of how market cap should be perceived, particularly in the context of the cryptocurrency boom.
 
 ## Understanding Market Cap

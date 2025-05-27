@@ -3,7 +3,7 @@ title: Cultural influences on scientific and artistic achievements
 videoId: yYtyKmPZBto
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The intricate relationship between cultural influences and the evolution of scientific and artistic achievements is a subject of profound interest. In a recent podcast discussion, several aspects of this theme were explored, ranging from the historical implications of religious and cultural milieus to the contemporary dynamics affecting artistic and scientific communities.
 
 ## The Role of Religion and Autonomy

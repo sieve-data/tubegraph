@@ -3,7 +3,7 @@ title: Embryo Selection Technologies
 videoId: 80BhjRh-Q-s
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Embryo selection technologies have been at the forefront of discussions around reproductive medicine, focusing on the possibilities this technology offers for future generations. This technology has the potential to significantly alter the landscape of genetic selection and reproductive health. In this article, we delve into the intricacies of embryo selection technologies as discussed during a conversation with Steve Hsu, exploring its current applications, scientific bases, and future potentials.
 
 ## The Science Behind Embryo Selection

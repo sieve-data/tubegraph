@@ -3,7 +3,7 @@ title: Impact of geopolitics on modern warfare
 videoId: YcVSgYz5SJ8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Geopolitics has been a transformative force in shaping the strategies, alignments, and conflicts of modern warfare. Understanding the interplay between geopolitical dynamics and military strategies provides crucial insights into past, current, and future conflicts. This analysis draws from a conversation with Sarah Paine, a professor of strategy and policy at the Naval War College, who has deeply studied the history of military strategies and their relationships with geopolitical factors.
 
 ## Grand Strategy and National Power

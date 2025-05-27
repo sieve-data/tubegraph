@@ -3,7 +3,7 @@ title: Coordination problems in institutions
 videoId: ZI_tDsOhd5I
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Coordination is a complex puzzle, often appearing across different domains such as finance, technology, politics, and more. Burn Hobart, a prolific writer and thinker, delves into this topic in a recent discussion. His insights help illuminate the nature of coordination problems within institutions, using illustrative examples from various sectors, including companies like SpaceX.
 
 ## Coordination Challenges
@@ -19,7 +19,7 @@ Institutions frequently have dual goals which can conflict with one another. For
 Within organizations, there's often an external story versus an internal narrative. Externally communicated goals might serve strategic purposes such as recruitment or fundraising, whereas the internal focus might differ significantly. Such dual narratives can lead to "doublespeak," where institutions need to maintain two different narratives for various stakeholders [[impact_of_technology_on_government_and_policy | impact of technology]].
 
 > [!info] Example: SpaceX
-> 
+>
 > Within SpaceX, different factions might view the Mars mission as a strategic tool rather than the primary goal, contrary to the external narrative. Some see it as a way to attract talent and capital, whereas the real objective is to enhance earnings over the long term [[expansion_and_interaction_of_human_populations | the real objective]].
 
 ## The Role of Internal Goals
@@ -33,9 +33,7 @@ Despite the pervasive nature of these coordination challenges, Hobart suggests t
 ### Strategies for Improvement
 
 1. **Transparency and Communication**: Maintaining open communication about goals and mandates can help reduce misunderstandings and align efforts.
-   
 2. **Realigning Incentives**: Ensuring that everyone is working towards the same objectives by aligning incentives can mitigate conflicting priorities.
-   
 3. **Understanding Trade-offs**: Institutions often need to manage trade-offs between different goals. Acknowledging and understanding these trade-offs can lead to better decision-making.
 
 4. **Learning from Mistakes**: Institutions should embrace a culture of learning and adaptation to continually improve coordination strategies.

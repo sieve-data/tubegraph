@@ -3,7 +3,7 @@ title: Open-source versus closed-source AI models
 videoId: rYXeQbTuVl0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The debate between open-source and closed-source AI models is a pivotal discussion in the artificial intelligence landscape. As more organizations develop AI systems, the choice between open-source and closed-source methodologies has considerable implications for accessibility, innovation, and application diversity.
 
 ## The Rise of Open-Source AI

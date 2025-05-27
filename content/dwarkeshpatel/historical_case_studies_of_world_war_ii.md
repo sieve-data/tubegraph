@@ -3,7 +3,7 @@ title: Historical case studies of World War II
 videoId: YcVSgYz5SJ8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 World War II was one of the most pivotal events in modern history, and its complexity makes it a rich field for study. Scholars often analyze different aspects of the war to understand how and why the events unfolded as they did.
 
 ## The Concept of Grand Strategy

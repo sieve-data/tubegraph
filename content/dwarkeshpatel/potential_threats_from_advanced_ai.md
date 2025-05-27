@@ -3,7 +3,7 @@ title: Potential threats from advanced AI
 videoId: 6yQEA18C-XI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In recent debates, prominent thinkers such as George Hotz and Eliezer Yudkowsky have vigorously discussed the potential threats posed by advanced artificial intelligence (AI). Their dialogue provides insight into the varying perspectives on how AI could fundamentally transform our world, with particular emphasis on its existential risks. Here, we'll outline the key arguments presented in their discussion.
 
 ## AI Alignment and the Risk of Superintelligence
@@ -41,7 +41,7 @@ Yudkowsky pointed out that if advanced AIs fail to care about humanity, they mig
 The debate between Hotz and Yudkowsky illuminates the immense complexity and uncertainty surrounding advanced AI's future. Yudkowsky's cautionary stance on potential misalignments and Hotz's skepticism on runaway AI scenarios reflect broader discourses in [[ai_safety_and_existential_risk | AI safety and ethics]]. As AI capabilities continue to advance, fostering a nuanced understanding of these potential threats and developing appropriate safety mechanisms remain essential for global preparedness.
 
 > [!info] Continuing Discussions
-> 
+>
 > The exploration of AI’s future impacts is ongoing, with many researchers advocating for continued dialogue and policy development to manage AI evolution proactively.
 
 These discussions underscore the necessity for ongoing dialogue and interdisciplinary efforts to anticipate and mitigate the [[potential_scenarios_of_ai_takeover | risks associated with advanced artificial intelligence systems]].

@@ -3,7 +3,7 @@ title: Automation in companies
 videoId: a42key59cZQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Automation within companies is a rapidly evolving trend that is impacting businesses at all levels. In a recent discussion, Gwern Branwen, a well-respected researcher and writer, shared his insights on whether companies are more likely to automate processes from the top-down, starting with CEOs, or from the bottom-up, starting with workers.
 
 ## Bottom-Up Automation: The Predominant Path
@@ -23,7 +23,7 @@ Implementing automation in a bottom-up manner has critical implications. Organiz
 Branwen also suggests that this approach could lead to a paradigm where human-led firms outcompete entirely AI-driven firms, as the latter may make more short-sighted decisions that do not align with long-term business objectives [[ai_progress_forecasting | long-term business objectives]] <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
 
 > [!info] Important Insight
-> 
+>
 > Branwen emphasizes the importance of human involvement in long-term strategic planning, suggesting humans bring the needed foresight and creativity that AI currently lacks [[the_future_of_work_and_ai_automation | foresight and creativity that AI currently lacks]].
 
 In conclusion, while the idea of top-down automation can seem attractive in notion—streamlining decision-making from the CEO downward—Branwen's insights stress the practicality and strategic benefit of adopting a bottom-up automation approach, leveraging human creativity and foresight to guide and complement automated systems.

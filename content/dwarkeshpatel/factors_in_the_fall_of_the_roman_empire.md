@@ -3,7 +3,7 @@ title: Factors in the fall of the Roman Empire
 videoId: QFzgSmN8Ng8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The Roman Empire was one of the most powerful entities in the ancient world, yet its decline and eventual collapse remain subjects of substantial debate among historians. In his discussion with Kyle Harper, various pivotal factors were highlighted, particularly focusing on the role that pandemics, climate change, and socio-economic structures played in this decline.
 
 ## The Role of Pandemics

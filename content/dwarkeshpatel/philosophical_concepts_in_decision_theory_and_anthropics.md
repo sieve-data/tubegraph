@@ -3,7 +3,7 @@ title: Philosophical concepts in decision theory and anthropics
 videoId: M3TUe4zUCKk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the article:
 
 Decision theory and anthropics delve into the fascinating intersection of ethics, logic, probability, and metaphysics. These disciplines are concerned with understanding how we make decisions and infer knowledge when confronted with uncertainty, especially when that uncertainty involves our own existence and consciousness. This article explains some of the key philosophical concepts in decision theory and anthropics, as discussed in the podcast episode featuring Joe Carl Smith, a research analyst at Open Philanthropy and philosophy doctoral student at the University of Oxford.

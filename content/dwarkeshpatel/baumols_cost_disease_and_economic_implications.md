@@ -3,7 +3,7 @@ title: Baumol's cost disease and economic implications
 videoId: i75KvXVrtLw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Baumol's Cost Disease, a term named after economist William Baumol, addresses the persistent rise in costs for certain goods and services over time without a corresponding increase in productivity. This phenomenon is prominently observed in sectors like education and healthcare. Baumol posited that these industries experience rising costs largely due to a slower rate of productivity growth compared to other sectors. This article explores the concept of Baumol's Cost Disease and its far-reaching economic implications.
 
 ## Understanding Baumol's Cost Disease
@@ -11,7 +11,7 @@ Baumol's Cost Disease, a term named after economist William Baumol, addresses th
 Baumol's Cost Disease explains why some services experience continuous price increases despite minimal productivity changes. Baumol suggests that while sectors such as technology and manufacturing exhibit rapid productivity advancements—a significant annual growth in output per input—the service sectors, like healthcare, education, and repairs, show much slower growth in productivity. For example, a string quartet requires the same number of musicians and duration to perform today as it did a century ago, making productivity gains difficult.
 
 > [!info] Example: String Quartet
-> 
+>
 > In 1826, a string quartet required four musicians playing for forty minutes; this remains unchanged in 2020. This stagnation in productivity compares starkly with sectors like manufacturing, where significant advances in efficiency and output have been achieved over the years [[productivity_stagnation_and_technological_advancement | productivity stagnation and technological advancement]].
 
 ## Why Prices Increase
@@ -19,7 +19,7 @@ Baumol's Cost Disease explains why some services experience continuous price inc
 Economic theory posits that when productivity in a robust sector increases, more goods are produced, which typically reduces prices due to lower relative resource costs. However, in stagnant sectors, resource costs remain high, increasing their relative price compared to sectors experiencing productivity growth.
 
 > [!info] Productivity and Pricing
-> 
+>
 > Industries like technology experience rapid productivity, allowing more goods with fewer inputs, ultimately reducing costs. Meanwhile, stagnant sectors cannot lower prices similarly, leading to higher relative costs [[economic_and_societal_impact_of_ai_integration | economic and societal impact of AI integration]].
 
 ## Broader Economic Implications

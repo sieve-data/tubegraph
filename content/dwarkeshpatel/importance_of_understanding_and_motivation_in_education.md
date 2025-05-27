@@ -3,7 +3,7 @@ title: Importance of understanding and motivation in education
 videoId: dmeRQN9z504
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The core of effective education rests not only on the methods of teaching and learning but on fostering genuine understanding and motivation among students. This theme was prominently discussed in a conversation with Andy Matuschak, a researcher, engineer, and designer known for his work on [[tools_and_techniques_for_effective_learning | "tools for thought"]].
 
 ## The Role of Understanding in Education

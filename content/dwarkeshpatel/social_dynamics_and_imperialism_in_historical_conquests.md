@@ -3,8 +3,8 @@ title: Social dynamics and imperialism in historical conquests
 videoId: 1Z35PqPQU2M
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-The podcast discussion with Charles Mann, author of notable books such as *1491: New Revelations of America Before Columbus* and *The Wizard and the Prophet*, explores the intricate web of social dynamics and imperialism during historical conquests. This article delves into these dynamics, drawing from Mann's insights shared during the conversation.
+From: [[dwarkeshpatel]] <br/>
+The podcast discussion with Charles Mann, author of notable books such as _1491: New Revelations of America Before Columbus_ and _The Wizard and the Prophet_, explores the intricate web of social dynamics and imperialism during historical conquests. This article delves into these dynamics, drawing from Mann's insights shared during the conversation.
 
 ## Elite Recognition and Collaboration
 
@@ -18,7 +18,7 @@ Mann notes that such alliances are not merely a byproduct of conquest but a deli
 
 Empires, as Mann explains, are more fragile and jumbled entities than often perceived. They are constantly dealing with fratricidal conflicts at the top. They tend to be in a state of flux where power dynamics are continuously negotiated. Mann mentions how Cortés cleverly exploited these internal divisions within the Aztec empire to further Spanish interests <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
 
-In the case of the Inca empire, Pizarro arrived immediately after a civil war and an epidemic, capitalizing on the existing instability. He sided with the losing faction to overturn the prevailing order, showcasing again how internal conflicts within empires provide fertile ground for conquest <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>. 
+In the case of the Inca empire, Pizarro arrived immediately after a civil war and an epidemic, capitalizing on the existing instability. He sided with the losing faction to overturn the prevailing order, showcasing again how internal conflicts within empires provide fertile ground for conquest <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>.
 
 ## Historical Parallels: The East India Company
 

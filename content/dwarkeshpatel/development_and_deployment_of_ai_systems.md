@@ -3,9 +3,9 @@ title: Development and deployment of AI systems
 videoId: 9AAhTLa0dT0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 The development and deployment of AI systems involve a series of crucial steps and considerations, from initial model creation to ethical and safe deployment in real-world scenarios. This article dives into the nuances of AI development and deployment as discussed by AI safety expert Paul Christiano.
 
 ## AI Development and Advancement
@@ -33,7 +33,7 @@ Collaboration among AI development labs is crucial for setting global standards 
 The global impact of AI systems extends beyond technological advancements. It involves economic, political, and military aspects, impacting international relations and power dynamics [[implications_of_ai_on_global_politics_and_power_dynamics]]. Christiano highlights the potential for AI to mediate economic competition and geopolitical conflicts, potentially leading to significant shifts in global power structures <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
 
 > [!info] Future of AI Deployment
-> 
+>
 > At the crux of future AI deployment lies the balance between accelerating technological capabilities and safeguarding humanity against its possible risks [[potential_risks_and_benefits_of_ai_in_society]]. Labs worldwide are advised to adopt responsible deployment practices to ensure beneficial long-term outcomes.
 
 ## Conclusion

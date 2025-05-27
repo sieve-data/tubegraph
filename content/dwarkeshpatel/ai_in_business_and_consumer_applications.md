@@ -3,7 +3,7 @@ title: AI in business and consumer applications
 videoId: bc6uFV9CJGg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial Intelligence (AI) continues to transform both the business landscape and consumer experiences across various applications. In a recent podcast featuring a conversation with a prominent technology leader, several key aspects of AI's impact and potential future were discussed.
 
 ## The Role of AI in Business
@@ -17,7 +17,7 @@ Businesses today are investing heavily in AI infrastructure to support next-gen 
 Meta has been actively developing and releasing new AI models, such as Llama-3, which boasts various parameter sizes, including an 8 billion and a 70 billion parameter model, with a 405 billion parameter model in training. These models are aimed at enhancing the AI's ability to reason and process complex requests, thereby improving its utility in business contexts [[development_and_impact_of_ai_technologies_including_llms | and other AI technologies]].
 
 > [!info] Llama-3 Model
-> 
+>
 > Llama-3 is being integrated into Meta's platforms, offering enhanced features like real-time image generation, allowing businesses to provide more dynamic and interactive consumer experiences [[opensource_versus_closedsource_ai_models | through open-source versus closed-source models]].
 
 ### AI's Impact on Business Processes

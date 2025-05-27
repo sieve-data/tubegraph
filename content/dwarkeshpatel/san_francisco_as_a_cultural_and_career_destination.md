@@ -3,7 +3,7 @@ title: San Francisco as a cultural and career destination
 videoId: WU-lBOAS1VQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 San Francisco, often viewed as a metaphor for [[technological_and_social_innovation | innovation]] and pioneering spirit, holds a distinct place in the landscape of young professional destinations. This city's reputation as a mecca for [[founder_archetypes_in_the_tech_industry | entrepreneurs]] and career seekers is closely examined by Patrick Collison, CEO of Stripe, during a reflective conversation. The city is famed for its startup culture and as a place where tech dreams incubate, but Collison offers nuanced insights about what it means to choose San Francisco as a career and cultural destination.
 
 ## The Generalization for Young Professionals

@@ -3,7 +3,7 @@ title: Evolution of intelligence and learning
 videoId: a42key59cZQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The conversation with Gwern Branwen dives deep into the concepts surrounding intelligence, the evolution of learning processes, and how these progressions are mirrored both in humans and artificial intelligence systems. This article explores these themes through Gwern's insights.
 
 ## The Nature of Intelligence
@@ -27,7 +27,7 @@ Gwern draws parallels between his observations of learning methods in artificial
 While discussing a potential unified theory of intelligence, Gwern predicts that future discoveries might not be about new master algorithms. Instead, they might clarify how search strategies over extensive sets of specialized knowledge result in emergent intelligent behavior, influencing not only AI but also broadening understanding of human cognitive capabilities, as noted in the context of [[evolution_of_human_cognitive_abilities | human cognitive evolution and capabilities]] <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>.
 
 > [!info] Multifaceted Intelligence
-> 
+>
 > This exploration is inherently polymathic—spanning across fields from computer science to evolutionary biology. Such a cross-disciplinary approach may yield the most comprehensive insights into intelligence and learning.
 
 As we continue progressing through these dynamic fields, insights and strategies pulling from both AI development and natural evolutionary processes may drive a deeper understanding and advancement in learning processes, [[potential_societal_impacts_of_advanced_ai | reshaping how we perceive intelligence]] both in natural organisms and machines.

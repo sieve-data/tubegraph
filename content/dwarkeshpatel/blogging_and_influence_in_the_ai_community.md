@@ -3,7 +3,7 @@ title: Blogging and Influence in the AI Community
 videoId: htOvH12T7mU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Blogging has emerged as a significant medium for influence and dissemination of ideas within the AI community. This article delves into the dynamics of blogging in the AI sphere, the challenges faced by bloggers, and its impact on the community.
 
 ## The Role of Blogging in AI

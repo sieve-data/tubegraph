@@ -3,7 +3,7 @@ title: AI and economic growth
 videoId: GT_sXIUJPUo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 As artificial intelligence (AI) continues to evolve, its potential impact on economic growth is a frequent topic of discussion among economists and technologists. Tyler Cowen, an esteemed economist, offers a nuanced perspective on the complexities of integrating AI into our existing economic infrastructure and the challenges it poses for achieving rapid growth.
 
 ## The Promise and Limitations of AI-Induced Growth

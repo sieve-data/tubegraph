@@ -3,7 +3,7 @@ title: Comparison of Mao to other world leaders
 videoId: 4l3Sa8ImGFQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the article with the backlinks embedded:
 
 Mao Zedong remains one of the most pivotal figures in 20th-century history. His impact and legacy have frequently been compared to other authoritarian leaders of the time. To better understand his role, it's essential to analyze [[maos_rise_to_power_in_china | Mao's leadership]] alongside that of other notable world leaders.
@@ -33,7 +33,7 @@ Considerably, Mao's revolutionary strategies became influential for insurgencies
 Understanding Mao's role requires an intricate analysis of his policies that resulted in [[maos_rise_to_power_in_china | unifying China post-civil war]], while simultaneously causing suffering through his authoritarian governance <a class="yt-timestamp" data-t="01:33:05">[01:33:05]</a>. Even today, Mao is revered as a revolutionary leader in China, with his image still prominent in public spaces, indicating [[impact_of_totalitarian_regimes_on_families | his lasting legacy]], although not without criticism concerning his methods.
 
 > [!info] Understanding Mao's Legacy
-> 
+>
 > While Mao's strategies in power and his governance helped shape modern China, they also serve as a cautionary tale about the human cost of rigid dogma-driven leadership.
 
 By contrasting Mao with other leaders like Stalin and Hitler, we discern not only differences in intent and execution but also the broad swath of impact Mao had, which continues to reverberate in global history and politics.

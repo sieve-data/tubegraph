@@ -3,7 +3,7 @@ title: Role of regulation in innovation
 videoId: ZI_tDsOhd5I
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Regulation is a critical factor in driving or hindering innovation across various sectors. Burn Hobart, a writer and investor, discusses the intricate dance between [[government_regulation_and_technological_advancements | regulation and innovation]] during a podcast interview. Below, we delve into the role of regulation in fostering or stalling innovations, based on Hobart’s insights from the conversation.
 
 ## Regulatory Barriers to Innovation

@@ -3,7 +3,7 @@ title: Impact of diseases on human populations and history
 videoId: Uj6skZIxPuI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Throughout history, diseases have played a pivotal role in shaping human societies and impacting demographic changes. This article explores how diseases have influenced human populations, with a particular focus on key historical events as discussed by David Reich in a recent conversation.
 
 ## Historical Disease Events and Population Shifts
@@ -37,6 +37,7 @@ The migration and eventual replacement of populations have frequently been facil
 The historical interplay between diseases, migration, and societal transformations highlights the pervasive influence of pathogens on human evolution and history. Ancient DNA studies continue to uncover the intricate connections between ancient diseases and population shifts, offering profound insights into how diseases have shaped and reshaped the world across millennia.
 
 > [!info] Key Insights
+>
 > - Diseases like Yersinia pestis played a crucial role in population dynamics and societal disruptions.
 > - Disease outbreaks historically coincided with significant migrations and have influenced genetic distributions.
 > - Ancient DNA provides invaluable insights into understanding these complex interactions in human history.

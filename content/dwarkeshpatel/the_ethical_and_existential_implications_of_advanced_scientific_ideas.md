@@ -3,7 +3,7 @@ title: The ethical and existential implications of advanced scientific ideas
 videoId: faZI6OBOopE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a thought-provoking discussion, several key issues emerge related to the ethical and existential implications of advanced scientific ideas, particularly as shaped by the work and insights of [[john_von_neumanns_contributions_to_mathematics_and_science | John von Neumann]]. His legacy plays a significant role in fields ranging from quantum mechanics to game theory, and modern computing.
 
 ## Von Neumann's Prediction and Ethical Dilemmas

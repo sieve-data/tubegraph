@@ -3,7 +3,7 @@ title: Impact of Japanese Bushido code on World War II warfare tactics
 videoId: Znk5QINe01A
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The Bushido code, an ethical code of conduct historically associated with the Samurai, played a significant role in shaping the mindset and tactics of Japanese forces during World War II. The deep cultural roots of Bushido influenced the way Japan conducted military operations, often highlighting stark differences when compared to [[japans_military_strategy_and_cultural_influences_during_world_war_ii | Western warfare principles]].
 
 ## Understanding Bushido

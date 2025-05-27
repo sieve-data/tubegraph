@@ -3,7 +3,7 @@ title: Cultural evolution and collective brains
 videoId: TcfhrThp1OU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concept of "cultural evolution" coupled with the idea of "collective brains" is a fascinating area within [[human_evolutionary_biology_and_anthropology | human evolutionary biology]] that seeks to explain how human societies accumulate knowledge and technology over time. Joseph Henrich, a professor of human evolutionary biology at Harvard University, discusses these ideas in depth, particularly in relation to the [[expansion_and_interaction_of_human_populations | success and expansion]] of human populations.
 
 ## Understanding Cultural Evolution
@@ -16,7 +16,7 @@ The term "collective brain" describes a society's combined cognitive ability to 
 
 ## Historical Examples of Cultural Evolution
 
-Throughout history, significant expansions in human culture and technology can be seen as outcomes of effective collective brains. Notably, Henrich highlights the expansions across Eurasia, driven by institutional changes and innovations in tools like bows and arrows, which supported larger groups to maintain sophisticated technologies. 
+Throughout history, significant expansions in human culture and technology can be seen as outcomes of effective collective brains. Notably, Henrich highlights the expansions across Eurasia, driven by institutional changes and innovations in tools like bows and arrows, which supported larger groups to maintain sophisticated technologies.
 
 Such expansions are compared to other events like the Bantu expansion in Africa or the [[ancient_dna_and_its_impact_on_understanding_human_history | Austronesian spread across the Pacific]], illustrating that human history is marked by waves of cultural innovations that enhance a group's competitive abilities.
 
@@ -33,7 +33,7 @@ The discussion extends into how modernity affects cultural evolution. Henrich po
 Moreover, Henrich considers how large-scale societal changes, such as the potential impacts of AI, might further influence the collective brain, potentially [[ai_scaling_and_its_effectiveness | increasing the rate and breadth of innovation]] by allowing for wider and faster dissemination of knowledge.
 
 > [!info] The Collective Brain in Action
-> 
+>
 > The "collective brain" enables technological and social advancements by harnessing the knowledge stored within large, interconnected human populations, allowing societies to innovate and adapt more effectively than isolated groups.
 
 ## Conclusion

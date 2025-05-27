@@ -3,7 +3,7 @@ title: Von Neumann's influence on computer science and game theory
 videoId: faZI6OBOopE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 John von Neumann was a polymath whose contributions to mathematical theory and practical applications have left an indelible mark on computer science and [[john_von_neumanns_contributions_to_mathematics_and_science | game theory]]. His work continues to influence modern computational methodologies and strategic decision-making processes.
 
 ## Early Life and Academic Milestones

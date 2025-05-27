@@ -3,10 +3,10 @@ title: Comparison of geopolitical strategies between Japan and Russia
 videoId: rsJxlybPByM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In this article, we examine the different geopolitical strategies of Japan during the early 20th century and Russia in the contemporary context, drawing insights from discussions around the analogy between Japan's actions leading up to World War II and Russia's current global stance.
 
-## Japan's Geopolitical Strategy 
+## Japan's Geopolitical Strategy
 
 Japan, in the early 20th century, embarked on an aggressive expansion across East Asia. This period was marked by Japan's attempts to establish itself as a leading [[imperial_japans_history_and_militarization | imperial power]], which involved militaristic expansion and aggressive territorial acquisitions. Japan's strategy was primarily driven by several factors:
 
@@ -27,7 +27,7 @@ Russia today also finds itself in a complex geopolitical landscape, with its act
 3. **Diplomatic Isolation and Global Standing**: Russia's actions, akin to Japan's, challenge existing international norms and have led to diplomatic isolation, albeit Russia's historical and cultural context differs significantly. Unlike Japan's complete military defeat and subsequent occupation, Russia faces contemporary diplomatic and economic containment strategies [[historical_implications_of_world_war_ii_on_current_global_politics | historical implications of World War II]].
 
 > [!info] Geopolitical Lessons
-> 
+>
 > Both Japan's historic strategies and Russia's current actions highlight the limitations of aggressive expansionism without sustainable resource management and international support.
 
 ## Conclusion

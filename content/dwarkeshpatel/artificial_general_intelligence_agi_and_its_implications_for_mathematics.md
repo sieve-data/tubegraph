@@ -3,7 +3,8 @@ title: Artificial General Intelligence (AGI) and its implications for mathematic
 videoId: oDyviiN4NVo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Understanding AGI
 
 Artificial General Intelligence (AGI) often refers to a form of artificial intelligence that can perform any intellectual task that a human can. However, defining AGI precisely within the mathematical context comes with its challenges. According to Grant Sanderson, we may not have a universal or concrete definition of what constitutes AGI since different experts offer varied interpretations [00:01:06](#t=00:01:06).
@@ -26,13 +27,15 @@ Sanderson points out the essential role creativity plays in mathematics, noting 
 AGI that can excel at mathematics would impact various areas of problem-solving:
 
 1. **Proof Generation**:
-    - Grant speculates that AGI might mimic AlphaGo's training by playing against itself using synthetic data. Mathematical proofs generated in this manner would need to be intelligible to human readers to be valuable [[development_and_impact_of_ai_technologies_including_llms | similar to advances in language models]] [00:03:31](#t=00:03:31).
+
+   - Grant speculates that AGI might mimic AlphaGo's training by playing against itself using synthetic data. Mathematical proofs generated in this manner would need to be intelligible to human readers to be valuable [[development_and_impact_of_ai_technologies_including_llms | similar to advances in language models]] [00:03:31](#t=00:03:31).
 
 2. **Creativity in Math**:
-    - The process by which AI reaches solutions to complex problems could fall into two categories: humanly understandable creative processes or those that appear arbitrary to human observers [[challenges_in_ai_interpretability_and_alignment | aligning AI's outputs with human understanding]] [00:03:59](#t=00:03:59).
+
+   - The process by which AI reaches solutions to complex problems could fall into two categories: humanly understandable creative processes or those that appear arbitrary to human observers [[challenges_in_ai_interpretability_and_alignment | aligning AI's outputs with human understanding]] [00:03:59](#t=00:03:59).
 
 3. **Impact on Human Jobs**:
-    - While achieving AGI in mathematics is a significant accomplishment, its utility in replacing human jobs is a different matter. The current gap in capabilities includes understanding context or forming relationships, aspects crucial for tasks outside pure mathematics [[economic_and_political_implications_of_ai | impacting economic and political spheres]] [00:04:29](#t=00:04:29).
+   - While achieving AGI in mathematics is a significant accomplishment, its utility in replacing human jobs is a different matter. The current gap in capabilities includes understanding context or forming relationships, aspects crucial for tasks outside pure mathematics [[economic_and_political_implications_of_ai | impacting economic and political spheres]] [00:04:29](#t=00:04:29).
 
 ## Conclusion
 

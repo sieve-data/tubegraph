@@ -3,7 +3,7 @@ title: Reinforcement Learning in Language Models
 videoId: 64lXQP6cs5M
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The conversation ventured into the fascinating domain of reinforcement learning (RL) and its transformative role in enhancing the capabilities of language models, particularly in the fields of competitive programming and math. This article explores the current state, challenges, and future implications of applying reinforcement learning to language models, as discussed in the recent podcast.
 
 ## Breakthroughs in RL for Language Models
@@ -13,7 +13,7 @@ The conversation ventured into the fascinating domain of reinforcement learning 
 One of the significant advancements mentioned is the proof that reinforcement learning in language models has reached a level of expert human reliability and performance, given the right feedback loops. This has been particularly evident in tasks like competitive programming and mathematical problem-solving. The breakthrough suggests that we can reach the peaks of intellectual complexity along multiple dimensions, although long-running agentic performance still presents challenges [[challenges_and_opportunities_in_ai_and_agi_development | challenges in AI development]].
 
 > [!info] Key Insight
-> 
+>
 > It's been demonstrated that RL can achieve expert human-level performance in language models, primarily in competitive programming and mathematics [[artificial_general_intelligence_agi_and_its_implications_for_mathematics | implications for mathematics]].
 
 ### Intellectual Complexity and Time Horizons

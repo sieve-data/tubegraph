@@ -3,7 +3,7 @@ title: The value of deep technical knowledge and expertise
 videoId: WU-lBOAS1VQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a wide-ranging discussion with Patrick Collison, CEO of Stripe, the topic of deep technical knowledge and its relevance in today's ever-evolving career landscape came to the forefront. Collison emphasizes the importance of cultivating expertise and its enduring value across various disciplines.
 
 ## Accumulating Expertise Over Time
@@ -23,7 +23,7 @@ Collison argues that pursuing a path focused on deep technical knowledge can lea
 In reflecting on advice for individuals in their twenties, Collison proposes considering paths that allow for the accumulation of expertise over time. He believes that many significant global innovations require decades if not lifetimes of dedicated study and mastery. Collison's advice is not prescriptive but rather an invitation to recognize and appreciate the value of deep knowledge, advising people to "get some ideas for domains, you're interested in, but then figure out where you can learn the highest standards" [[advice_for_people_in_their_20s]] ([00:12:46]).
 
 > [!info] Quoting Collison
-> 
+>
 > "Increasing the catalytic surface area of certain kinds of information is a valuable thing in the world" ([00:05:27]).
 
 In conclusion, Patrick Collison's insights serve as a reminder of the profound impact that comes from mastering a discipline deeply. His perspective encourages a balanced view that values enduring expertise alongside the innovative spirit that drives immediate success.

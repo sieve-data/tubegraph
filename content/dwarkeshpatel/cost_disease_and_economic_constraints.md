@@ -3,7 +3,7 @@ title: Cost disease and economic constraints
 videoId: GT_sXIUJPUo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concept of [[baumols_cost_disease_and_economic_implications | cost disease]] has been a significant focus in discussions about economic constraints, especially in the context of technological advancements such as Artificial Intelligence (AI). In an interview with Dwarkesh Patel, economist Tyler Cowen delved into how cost disease acts as an economic constraint that hinders explosive economic growth, even in the age of rapid technological advancements.
 
 ## Understanding Cost Disease
@@ -15,7 +15,7 @@ Cost disease refers to a situation where wages in jobs that have experienced no 
 Cowen points out that while certain parts of the economy may grow rapidly thanks to innovations in AI, regulated or less adaptable sectors, such as government, healthcare, and education, will lag behind <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. These sectors constitute a significant portion of the economic output, making it unrealistic to expect an annual growth rate of 20% or more just because of technological revolutions.
 
 > [!info] Example of Cost Disease
-> 
+>
 > An often-cited example of cost disease is the education sector, where salaries for teachers rise in line with general wage growth, despite the sector not seeing parallel productivity improvements.
 
 ## Economic Bottlenecks

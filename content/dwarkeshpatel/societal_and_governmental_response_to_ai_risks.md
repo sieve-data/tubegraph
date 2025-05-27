@@ -3,7 +3,7 @@ title: Societal and governmental response to AI risks
 videoId: 41SUp-TRVlg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The advent of advanced artificial intelligence (AI) poses unique challenges and risks, prompting discussions about the necessary societal and governmental responses to prevent potential catastrophes. Eliezer Yudkowsky, in conversation, addresses the parallels between AI risk and historical challenges such as nuclear weapons, while highlighting the complexities unique to AI that demand a nuanced approach for mitigation.
 
 ## Historical Parallels: The Nuclear Weapons Analogy

@@ -3,7 +3,7 @@ title: Government Software and Infrastructure Incompetence
 videoId: 18zpjpPNWRw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The COVID-19 pandemic unearthed critical deficiencies in government software infrastructure and emphasized a persistent inability to effectively manage logistics in public health emergencies. Challenges in vaccine distribution showcased systemic issues, and the response—or lack thereof—brought to light the inadequacies of the government's digital capabilities.
 
 ## The Case of VaccinateCA

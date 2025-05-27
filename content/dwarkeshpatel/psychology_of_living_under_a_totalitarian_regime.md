@@ -3,7 +3,7 @@ title: Psychology of living under a totalitarian regime
 videoId: -VeZp2d7mDs
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Living under a totalitarian regime is an experience that profoundly impacts the psychology of those subjected to its pressures. In a recent interview with Jung Chang, acclaimed author of "Wild Swans" and "Mao: The Unknown Story", insights were shared about the psychological landscape experienced by individuals in China under [[maos_rise_to_power_in_china | Mao's rule]].
 
 ## Indoctrination and Brainwashing

@@ -3,7 +3,7 @@ title: Challenges of building modern public works in New York City
 videoId: Gumo8zmgLqM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Building modern public works in New York City has become increasingly challenging due to various factors, including [[historical_and_future_perspective_on_urban_development_and_planning | historical preservation]], complex logistics, and heightened public scrutiny. These challenges can be contrasted with the feats achieved by past figures such as [[robert_moses_impact_on_new_york_city_infrastructure | Robert Moses]], who, despite controversy, was able to drive massive infrastructure projects across the city.
 
 ## Historical Preservation and Cultural Shifts

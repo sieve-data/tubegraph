@@ -3,7 +3,7 @@ title: Longtermism and its implications
 videoId: SMEfl5maB8k
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Longtermism is a philosophical perspective that emphasizes the importance of positively influencing the long-term future. During a conversation with William MacAskill, a philosopher and one of the founders of the [[effective_altruism_movement | effective altruism movement]], various dimensions of longtermism were discussed, exploring its relevance and implications for contemporary and future society.
 
 ## Understanding Longtermism

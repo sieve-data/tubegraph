@@ -3,7 +3,7 @@ title: Role of elite technocracy in governance
 videoId: ZruyslAe26g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The discussion of the role of elite technocracy in governance was one of the focal points in Garrett Jones's conversation on the podcast. Jones, an economist from George Mason University, delves into the implications and practicalities of technocratic versus democratic control, particularly in the context of affluent democracies.
 
 ## Technocracy versus Democracy

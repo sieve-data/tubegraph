@@ -3,7 +3,7 @@ title: AI safety and existential risk
 videoId: 6yQEA18C-XI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 AI safety and existential risk have become central themes in discussions about artificial intelligence, particularly as the technology rapidly advances. The conversation around these topics was prominently highlighted in a debate between George Hotz and Eliezer Yudkowsky, moderated by Dwarkesh Patel. This discussion delved into the [[potential_threats_from_advanced_ai | potential existential risks]] posed by advanced AI and the [[ai_safety_and_prevention_strategies | concerns about AI safety]].
 
 ## Defining AI Safety

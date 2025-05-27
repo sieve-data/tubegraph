@@ -3,7 +3,7 @@ title: Philosophical and ethics discussions in decision making
 videoId: snMWoyvmkhg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The conversation on decision-making in the realm of philosophy and ethics frequently taps into broad yet crucial themes. This article delves into these discussions, reflecting insights from a recent dialog featuring research scholar Finn Morehouse and the interviewer, where they explored philosophical questions, ethical theories, and their implications on decision-making processes.
 
 ## Conceptual Frameworks
@@ -34,7 +34,7 @@ The interview touched upon the philosophical implications of the [[ethics_and_in
 
 The future governed by AI poses unique ethical dilemmas, where philosophical inquiries into agency, identity, and alignment must play a pivotal role.
 
-### AI Alignment 
+### AI Alignment
 
 Considering AI development underscores the necessity of ethical guardrails informed by deep philosophical understanding, ensuring that the paths pursued are consistent with broader humanitarian values (<a class="yt-timestamp" data-t="01:39:09">[01:39:09]</a>). Discussions on [[challenges_and_opportunities_in_ai_and_agi_development | AI alignment challenges]] and strategies are crucial in informing these paths.
 
@@ -43,7 +43,7 @@ Considering AI development underscores the necessity of ethical guardrails infor
 The concept of "The Long Reflection" involves taking a deliberate pause to reconsider ethical and philosophical positions before embarking on irreversible projects that shape humanity's future (<a class="yt-timestamp" data-t="01:01:40">[01:01:40]</a>). This highlights a collective commitment to ensuring decisions are made with a comprehensive understanding of their [[optimizing_for_the_long_term_and_its_challenges | long-term implications]].
 
 > [!info] The Role of Philosophy in EA
-> 
+>
 > Philosophy in effective altruism serves as both a guide and a discipline, ensuring decisions are not only sound but also ethically justified.
 
 ## Conclusion

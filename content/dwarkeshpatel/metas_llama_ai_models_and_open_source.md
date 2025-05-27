@@ -3,7 +3,7 @@ title: Meta's Llama AI models and open source
 videoId: bc6uFV9CJGg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Meta has been making significant strides in artificial intelligence, particularly through the development of its [[llama_models_and_their_updates | Llama series of AI models]]. These models have been a focal point in Meta's AI strategy, especially concerning their [[opensource_versus_closedsource_ai_models | approach to open source]].
 
 ## The Evolution of Llama Models
@@ -19,7 +19,7 @@ Meta's commitment to open source is central to their AI strategy. Mark Zuckerber
 The open source approach allows developers worldwide to improve upon the models, which Meta can then integrate back into their ecosystem. This community-driven innovation is anticipated to drive efficiency and quality improvements across Meta's AI applications [[technological_and_social_innovation | [source]]].
 
 > [!info] Open Source Impact
-> 
+>
 > Meta's open source initiatives, including projects like PyTorch and React, have had a profound impact on the technology landscape. Although consumer products like Facebook reach billions, the foundational technologies they open-source are predicted to have an even broader and longer-lasting impact on the world [[ai_scaling_and_longterm_predictions | [source]]].
 
 ## Addressing Risks and Regulatory Considerations

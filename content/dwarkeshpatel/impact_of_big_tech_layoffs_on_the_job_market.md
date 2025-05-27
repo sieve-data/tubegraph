@@ -3,7 +3,7 @@ title: Impact of big tech layoffs on the job market
 videoId: yXgDlIlB93A
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The landscape of the job market is notably affected by fluctuations within the technology sector, and the recent wave of layoffs in big tech has had profound implications. During a conversation with Brett Harrison on the Lunar Society podcast, several insights emerged highlighting how these layoffs are impacting employment dynamics, especially within tech and finance sectors.
 
 ## Layoffs in the Tech Industry
@@ -11,7 +11,7 @@ The landscape of the job market is notably affected by fluctuations within the t
 The tech industry, which has been a robust engine for job creation and innovation, recently experienced significant layoffs. This shift has resulted in an overabundance of skilled professionals entering the job market, which was traditionally known for its tight demand for talent. The icing on the cake comes as tech giants like [[evolution_of_google_and_significant_projects | Google]], Meta, and Amazon recalibrate their workforce post-pandemic, leaving many tech professionals seeking new opportunities.
 
 > [!info] Hiring Opportunities
-> 
+>
 > Brett Harrison highlighted that the current job market presents a unique hiring opportunity, citing how his company architect was able to hire former employees from [[ftx_financial_collapse_and_fraud_investigation | FTX]] with ease due to the market's overcorrection and the resulting surplus of talented individuals ([02:29:00](#)).
 
 ## A Buyer’s Market for Companies

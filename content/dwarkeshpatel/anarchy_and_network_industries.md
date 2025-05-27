@@ -3,7 +3,7 @@ title: Anarchy and network industries
 videoId: EY2nbAVZB-k
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent conversation, the intricate interplay between [[anarchy_and_network_industries | anarchy and network industries]] was discussed, focusing on how decentralized systems function and the potential emergence of cartel-like dynamics within these systems. This topic is crucial as it sheds light on the challenges and opportunities that decentralized structures might face in the modern economy.
 
 ## Understanding Anarchy in a Modern Context

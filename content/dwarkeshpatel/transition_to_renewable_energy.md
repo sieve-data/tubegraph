@@ -3,7 +3,7 @@ title: Transition to Renewable Energy
 videoId: sveBcfz0fHk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The global transition to renewable energy is a transformative journey that fundamentally alters the way energy is sourced and consumed worldwide. This transition is crucial in addressing climate change and ensuring long-term energy security. Daniel Yergin, an authority on energy, provides key insights into the ongoing shift from traditional fossil fuels to renewable sources in a recent podcast discussion.
 
 ## The Historical Context of Energy Transitions

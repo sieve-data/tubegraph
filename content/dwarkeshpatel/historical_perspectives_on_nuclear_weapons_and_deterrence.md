@@ -3,7 +3,7 @@ title: Historical perspectives on nuclear weapons and deterrence
 videoId: tMdMiYsfHKo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a riveting discussion with Richard Rhodes, the Pulitzer Prize-winning author of "The Making of the Atomic Bomb," the complex history and evolving perceptions of nuclear weapons and deterrence were explored [00:00:00].
 
 ## The Dawn of the Nuclear Age

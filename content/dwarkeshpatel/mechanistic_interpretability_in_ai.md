@@ -3,7 +3,7 @@ title: Mechanistic interpretability in AI
 videoId: UTuuTTnjxMQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Mechanistic interpretability in AI is a field focused on understanding and explaining the internal workings of machine learning models. At the heart of this practice is the attempt to decode how AI models make decisions, moving beyond treating them as "black boxes." A deeper understanding of this process enables improvements in AI safety, reliability, and performance.
 
 ## Introduction to Mechanistic Interpretability
@@ -33,7 +33,7 @@ Mechanistic interpretability plays a pivotal role in the safety and reliability 
 The implications for policy and ethics are significant. Effective interpretability mechanisms can lead to more transparent AI systems, increasing public trust and paving the way for broader adoption and integration [[economic_and_political_implications_of_ai|potential societal impacts of advanced AI]].
 
 > [!info] Key Insight
-> 
+>
 > Mechanistic interpretability is part of a larger conversation in AI safety and alignment, focusing on making AI models more transparent and accountable. This pursuit is crucial not only for advancing AI technology but also ensuring it's aligned with human interests and ethical standards [[ethical_considerations_in_ai_development|AI ethics and deployment strategies]].
 
 Overall, mechanistic interpretability is an evolving field with significant potential to shape the future of AI technology, providing the tools needed to not only understand but also safely innovate within AI systems [[development_and_deployment_of_ai_systems|development and deployment of AI systems]].

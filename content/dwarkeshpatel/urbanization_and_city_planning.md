@@ -3,7 +3,7 @@ title: Urbanization and city planning
 videoId: MpttoDJ3pH8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion, Professor Edward Glaser, chair of the Harvard Department of Economics, shared his insights into the dynamics of urbanization and city planning. With urban areas continuously evolving, Glaser provided a nuanced perspective on how cities should be planned and developed, especially in contexts like the burgeoning tech hub of [[impact_of_remote_work_on_cities | Silicon Valley]] and future prospects such as potential cities on Mars.
 
 ## The Evolution of Urban Centers
@@ -15,7 +15,7 @@ A significant point highlighted by Glaser is the transformation of Silicon Valle
 Addressing the futuristic concept of building cities on Mars, Glaser emphasized the importance of a flexible urban plan that can adapt to variable demands. He suggested using a model akin to New York's 1811 grid plan, allowing flexibility and evolution over time, encouraging individual initiative rather than rigid central planning.
 
 > [!info] Mars City Planning
-> 
+>
 > Glaser suggests that future Martian cities should focus on flexibility and adaptability, much like the 1811 grid plan of New York.
 
 ## Urban Resilience and Change

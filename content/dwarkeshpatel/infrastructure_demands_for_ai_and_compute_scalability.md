@@ -3,7 +3,7 @@ title: Infrastructure demands for AI and compute scalability
 videoId: 4GLSzuYXh6w
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent podcast interview, Microsoft CEO Satya Nadella discussed the infrastructure demands posed by artificial intelligence (AI) and the scalability of computing resources. As AI workloads continue to grow, the conversation around [[ai_scaling_and_its_effectiveness | infrastructure scalability]] becomes increasingly crucial. Nadella highlights several key points regarding infrastructure needs, market dynamics, and the role of hyperscalers in supporting AI growth.
 
 ## Compute Demand for AI

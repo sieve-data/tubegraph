@@ -3,13 +3,13 @@ title: Grand strategy in political and military decision-making
 videoId: YcVSgYz5SJ8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Grand strategy is a fundamental concept in military and political decision-making, aimed at harmonizing various instruments of national power to achieve national objectives. According to Sarah Paine, a professor of strategy and policy at the Naval War College, understanding and implementing grand strategy is crucial for countries to navigate complex international landscapes effectively.
 
 ## Definition and Importance of Grand Strategy
 
 > [!info] Definition of Grand Strategy
-> 
+>
 > Grand strategy is defined as the integration of all relevant instruments of national power in the pursuit of national objectives <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
 
 Grand strategy involves coordinating diverse elements such as the military, economic resources, diplomacy, and national moral and ethical standards. These elements must be aligned to fulfill overarching national goals like improving national security or expanding trade <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.

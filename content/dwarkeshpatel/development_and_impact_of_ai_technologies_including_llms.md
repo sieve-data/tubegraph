@@ -3,7 +3,7 @@ title: Development and impact of AI technologies, including LLMs
 videoId: v0gjI__RyCY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial Intelligence (AI) has seen transformative advancements over the past decades, primarily driven by enhancements in large language models (LLMs). The development and impact of AI technologies, including LLMs, mark a pivotal shift in digital infrastructure, modeling, and applications across various domains.
 
 ## Historical Context and Evolution

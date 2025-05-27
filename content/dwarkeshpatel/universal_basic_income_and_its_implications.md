@@ -3,7 +3,8 @@ title: Universal basic income and its implications
 videoId: r4AkTmqvWzM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Universal Basic Income: Concept and Implications
 
 Universal Basic Income (UBI) is a prevalent topic of discussion, and in recent times, has garnered significant traction. UBI is a proposed system where every citizen receives a fixed income regularly, irrespective of any other income. The idea aims to tackle poverty and replace the need for numerous social welfare programs. Despite its alluring simplicity, UBI's practicality and implications remain contentious.

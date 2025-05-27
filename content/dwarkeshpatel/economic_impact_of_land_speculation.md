@@ -3,7 +3,7 @@ title: Economic impact of land speculation
 videoId: sL-qkv7Pzxo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the article:
 
 Land speculation is a significant and often controversial concept in economics. It plays a role in influencing property values, investment decisions, and the broader economy. This article delves into the economic impacts of land speculation, drawing insights from a comprehensive discussion with Dolores Doucet on a recent podcast.
@@ -37,7 +37,7 @@ Dolores Doucet suggests that addressing the issues arising from land speculation
 By diminishing the speculative premium on land, an LVT could correct market distortions and encourage more sustainable urban development patterns, contributing to a fairer distribution of wealth and mitigating some of the socio-economic inequalities exacerbated by land speculation.
 
 > [!info] The Georgist Perspective on Land Use
-> 
+>
 > Georgism posits that the value derived from land is largely due to the socio-economic environment and public investments around it. Hence, taxing land rather than buildings encourages the productive use of real estate and reduces the inefficiencies and inequities associated with land speculation.
 
 ## Conclusion

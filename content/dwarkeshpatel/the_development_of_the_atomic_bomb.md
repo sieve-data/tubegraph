@@ -3,7 +3,7 @@ title: The development of the atomic bomb
 videoId: tMdMiYsfHKo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The development of the atomic bomb was one of the most consequential scientific feats of the 20th century, marking a pivotal moment in human history. Its creation not only ended World War II but also initiated a new era characterized by nuclear power and atomic diplomacy. The process leading to the atomic bomb spanned several years, involved numerous scientific breakthroughs, and was primarily driven by the geopolitical climate of World War II.
 
 ## Historical Context
@@ -35,7 +35,7 @@ The use of atomic bombs on Hiroshima and Nagasaki in August 1945 caused unpreced
 The advent of nuclear weapons raised urgent questions of international security and control. Efforts like the Acheson-Lilienthal Report, with contributions from Oppenheimer and others, sought to create frameworks for international atomic energy policy and control, which could prevent nuclear proliferation and promote disarmament [[historical_perspectives_on_nuclear_weapons_and_deterrence]].
 
 > [!info] Transformation of Warfare
-> 
+>
 > The atomic bomb changed the very nature of warfare, replacing conventional strategies with the concept of deterrence under the shadow of mutually assured destruction (MAD).
 
 The legacy of the atomic bomb remains significant, as it continues to shape military strategy, international diplomacy, and collective global consciousness about the potential for both human achievement and annihilation [[the_parallels_between_nuclear_technology_and_modern_advancements_like_ai]].

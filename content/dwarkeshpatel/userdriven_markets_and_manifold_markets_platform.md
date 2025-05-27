@@ -3,7 +3,7 @@ title: User-driven markets and manifold markets platform
 videoId: XoRXrnHg084
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concept of user-driven markets is revolutionizing the way prediction markets operate. Manifold Markets, co-founded by Stephen Gruget, is at the forefront of this innovative approach, offering a platform where user engagement is central to market creation and resolution. This article delves into the mechanics of Manifold Markets and how they leverage user-driven markets to provide valuable forecasting tools.
 
 ## Overview of Manifold Markets

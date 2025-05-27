@@ -3,7 +3,7 @@ title: Comparative history and its relevance
 videoId: E65CHSV6Ads
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a discussion on the Napoleonic Wars, Professor Alexander Mikaberidze from Louisiana State University highlighted the [[global_influence_of_the_napoleonic_wars | importance and benefits of comparative history]]. By examining historical events through a global lens, scholars can uncover the interconnectedness of political, social, and economic developments across different regions. This approach not only enriches our understanding of history but also offers valuable lessons for navigating today's complex world.
 
 ## What is Comparative History?
@@ -15,7 +15,7 @@ Comparative history involves analyzing and comparing historical developments acr
 During the interview, Mikaberidze emphasized the global scale of the Napoleonic Wars and pointed out that the extensive literature on this era is often narrowly focused on Europe, particularly from French and British perspectives. By expanding the narrative to include countries like India and regions like the Americas, he argues that we gain a fuller picture of the transformative impacts of this period on a global scale. For instance, the Napoleonic Wars significantly influenced British expansion in India and the political realities in the Americas due to shifts like the [[historical_encounter_between_europe_and_the_americas | Louisiana Purchase]].
 
 > [!info] Global Perspective
-> 
+>
 > Mikaberidze stresses that examining how countries developed in relation to each other and how events in one part of the world reverberated globally can build a comprehensive understanding of historical processes <a class="yt-timestamp" data-t="01:22:16">[01:22:16]</a>.
 
 ## Relevance to Contemporary Issues

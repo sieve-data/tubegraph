@@ -3,7 +3,7 @@ title: Mimetic theory and decision-making at Paypal
 videoId: OEcOUgXvz7g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Mimetic theory, a concept introduced by French thinker René Girard, explores the idea that human behavior and desires are largely imitative. The notion that competition stems from imitating others' desires is a foundational element of this theory. In the podcast interview with Jimmy Soni, author of "The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley," this concept is given context in the environment of Paypal, proving crucial to understanding key decision-making moments of the company.
 
 ## The Role of Mimetic Competition
@@ -16,7 +16,7 @@ Peter Thiel, influenced by his knowledge of Girard's theories, recognized the po
 
 ## Thematic Elements of Mimetic Desire
 
-The themes of mimicry do not end with competition. Thiel's hiring practices at Paypal are reflective of an understanding that breaks from traditional competition for the "best" talent based on surface-level qualifications like age or experience. For instance, despite board objections, Thiel saw potential in young Roloff Botha, promoting him to a key financial position based on capability rather than convention [[potential_risks_and_benefits_of_ai_in_society | societal norms]]. 
+The themes of mimicry do not end with competition. Thiel's hiring practices at Paypal are reflective of an understanding that breaks from traditional competition for the "best" talent based on surface-level qualifications like age or experience. For instance, despite board objections, Thiel saw potential in young Roloff Botha, promoting him to a key financial position based on capability rather than convention [[potential_risks_and_benefits_of_ai_in_society | societal norms]].
 
 He similarly appointed Reid Hoffman as COO against common wisdom because he valued the skills Hoffman brought to the table that countered traditional expectations. These decisions underscore the subtleties of mimesis influencing roles and responsibilities within the company beyond mere competition [[ai_in_business_and_consumer_applications | within businesses]].
 

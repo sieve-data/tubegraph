@@ -3,7 +3,7 @@ title: Critiques of education system and homeschooling
 videoId: r4AkTmqvWzM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Education is a frequent topic of debate, often centered around its effectiveness and the outcomes it produces. This article explores critiques of the current education system and homeschooling, drawing insights from a recent discussion with a noted critic.
 
 ## Criticisms of the Education System
@@ -12,7 +12,7 @@ The predominant critique of traditional education focuses on its role as an inef
 
 ### Education as a Signaling Device
 
-The primary argument is that education pays off in the labor market not because it teaches useful job skills, but because it acts as a signal of worker quality to employers. This concept, known as signaling, suggests that degrees act more as a way to differentiate individuals rather than enhance their productivity ([[labor_economics | signaling in labor economics]]). 
+The primary argument is that education pays off in the labor market not because it teaches useful job skills, but because it acts as a signal of worker quality to employers. This concept, known as signaling, suggests that degrees act more as a way to differentiate individuals rather than enhance their productivity ([[labor_economics | signaling in labor economics]]).
 
 ### Social Desirability and Policy Implications
 

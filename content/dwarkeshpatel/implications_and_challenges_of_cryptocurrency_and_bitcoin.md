@@ -3,7 +3,7 @@ title: Implications and challenges of cryptocurrency and Bitcoin
 videoId: 3svashDgB50
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Cryptocurrency, particularly Bitcoin, has transformed the landscape of digital finance, offering a decentralized currency solution that has garnered significant attention. David Friedman, in a detailed discussion, explores the implications, challenges, and potential future of cryptocurrencies such as Bitcoin, as well as their position within the broader financial ecosystem.
 
 ## The Emergence of Bitcoin

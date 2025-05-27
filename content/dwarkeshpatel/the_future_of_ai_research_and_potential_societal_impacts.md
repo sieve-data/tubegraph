@@ -3,7 +3,7 @@ title: The future of AI research and potential societal impacts
 videoId: v0gjI__RyCY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent conversation with Jeff Dean and Noam Shazeer, two pioneers in artificial intelligence (AI) and influential figures at Google DeepMind, an engaging discussion emerged about the future trajectory of AI research and its broader societal impacts. Both discussed the advancements in AI, infrastructure, and hardware that are paving the way for more sophisticated AI systems, and the profound implications that these technologies could have on society.
 
 ## Accelerating AI Advancements
@@ -23,7 +23,7 @@ The potential for AI systems to revolutionize workforce productivity was a key p
 As AI systems grow ever-more powerful, the discussion turned to their ethical and societal implications. Dean highlights the need for responsible development and deployment of AI technologies, emphasizing the importance of safeguarding against potential misuses [[ai_ethics_and_deployment_strategies | AI ethics and deployment strategies]]. "It's super important to understand what's going on... and get the maximal benefits from what these models can do to improve things," Dean stated <a class="yt-timestamp" data-t="01:14:37">[01:14:37]</a>. The creation of safe and efficient systems is paramount, given the dual-use nature of AI technologies [[ai_safety_and_security_measures | AI safety and security measures]].
 
 > [!info] Diversity of Thought and Ethical Guidelines
-> 
+>
 > It is crucial to continue refining ethical guidelines and develop inclusive policies that guide AI deployment to be beneficial across different demographics and regions globally, as articulated in Google's Responsible AI principles <a class="yt-timestamp" data-t="01:15:25">[01:15:25]</a>.
 
 ## Vision for the Future

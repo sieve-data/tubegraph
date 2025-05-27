@@ -3,7 +3,7 @@ title: Impact of government policies on poverty and wealth distribution
 videoId: r4AkTmqvWzM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Government policies play a crucial role in influencing poverty levels and wealth distribution in a society. This article delves into various ways in which government actions can either alleviate or exacerbate poverty, drawing insights primarily from a podcast discussion.
 
 ## The Role of Government in Creating Poverty
@@ -33,7 +33,7 @@ Caplan introduces an often-discussed yet less popular distinction between the de
 He further suggests that the government's failure to properly address personal responsibility contributes to ongoing poverty for many who might otherwise uplift themselves were it not for certain restrictive policies or an overload of indiscriminate aid [00:45:40].
 
 > [!info] Key Insight
-> 
+>
 > According to Bryan Caplan, it's not just the provisions of aid but active policy reformation that can enable individuals, both locally and globally, to rise out of poverty by allowing them access to work opportunities and reducing unnecessary government-imposed barriers [[global_economic_policies_and_immigration | (00:50:17)]].
 
 ## Conclusion

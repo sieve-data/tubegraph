@@ -3,7 +3,7 @@ title: Effective altruism movement
 videoId: SMEfl5maB8k
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The development of the effective altruism movement, a philosophical and social movement that seeks to apply evidence and reason to determine the most effective ways to benefit others, has been a significant topic in contemporary ethical discussions. In a recent podcast, William MacAskill, one of the founders of the effective altruism movement, delved into the intricacies of this movement, its development, and its impacts on society.
 
 ## Origins and Contingency of Effective Altruism

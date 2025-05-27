@@ -3,7 +3,7 @@ title: Nuclear deterrence and conflicts
 videoId: tM9ZMYUYhTk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Nuclear deterrence has been a pivotal subject in discussions about global conflict since the advent of nuclear weapons. This concept has shaped the strategies of countries in avoiding catastrophic warfare. In a recent discussion with historian Andrew Roberts, numerous insights were shared regarding the influence and changing role of nuclear deterrence in past and potential future conflicts.
 
 ## The Role of Nuclear Deterrence Post-1945
@@ -19,7 +19,7 @@ Roberts illustrates the role of nuclear deterrence by discussing the Cuban Missi
 The conversation also ventured into hypothetical scenarios, such as the potential use of nuclear weapons in the [[historical_case_studies_of_world_war_ii | Korean War]]. If General MacArthur had used nuclear weapons against the Chinese crossing the Yalu River, it might have shaped a very different global stance on nuclear use. It could have normalized the use of such weapons, significantly lowering the "moral barrier" and potentially leading to their use in subsequent conflicts [00:17:18]. This restraint shown by leaders like Truman is credited with maintaining the nuclear taboo [00:18:21].
 
 > [!info] Key Insight
-> 
+>
 > If nuclear weapons had been used more casually in conflicts like Korea, the subsequent history of nuclear warfare might have been very different, with potentially catastrophic consequences [00:18:08].
 
 ## Current and Future Relevance of Deterrence

@@ -3,9 +3,9 @@ title: Challenges in crypto regulation and innovation
 videoId: yXgDlIlB93A
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 Cryptocurrencies have emerged as a major financial asset class, but their integration with existing regulatory frameworks presents a unique set of challenges and opportunities. In a recent discussion with Brett Harrison, former president of FTX US and now founder of Architect, several key insights into the regulatory landscape and innovation in the crypto space were explored.
 
 ## The Regulatory Landscape for Crypto
@@ -33,6 +33,6 @@ Despite setbacks, including the collapse of major players like FTX, Harrison rem
 The future of crypto regulation and innovation presents a challenging, yet promising landscape. As regulators and innovators work towards creating frameworks that support the evolution of the market while ensuring safety and compliance, there is potential for transformative growth in how financial systems operate globally. The experiences learned from companies like FTX will likely inform how future systems are structured and regulated.
 
 > [!info] Learn More:
-> 
+>
 > Discover more about Brett Harrison's insights and his new venture, Architect, which aims to enhance connectivity across the digital asset ecosystem by visiting their website at [architect.xyz](https://architect.xyz) and following updates on their Twitter handle [@architect_xyz](https://twitter.com/architect_xyz).
 ```

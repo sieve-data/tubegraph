@@ -3,7 +3,7 @@ title: Impact of limited and unlimited objectives in war
 videoId: LbkO84MsmyM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concepts of limited and unlimited objectives in warfare determine the scope, duration, and potential consequences of conflicts. Understanding these objectives can shed light on the intentions behind military actions and the possible outcomes they may lead to. In this article, we'll delve into how these objectives have played pivotal roles in historical and contemporary conflicts.
 
 ## Definition of Limited and Unlimited Objectives
@@ -30,7 +30,7 @@ In the ongoing conflict with Ukraine, Vladimir Putin pursues unlimited objective
 
 - **Escalation of War**: Unlimited objectives tend to escalate conflicts as they provoke more severe responses from adversaries, often leading to prolonged engagements.
 - **International Interventions**: Wars with unlimited objectives draw wider international involvement as third parties may intervene to preserve international stability or prevent humanitarian crises.
-- **Cultural and Political Ramifications**: Pursuing unlimited objectives can irreversibly damage cultural and political landscapes, fostering lasting resentment and instability [[historical_international_relations | historical international relations]]. 
+- **Cultural and Political Ramifications**: Pursuing unlimited objectives can irreversibly damage cultural and political landscapes, fostering lasting resentment and instability [[historical_international_relations | historical international relations]].
 
 ## Applicability to Modern Conflicts
 

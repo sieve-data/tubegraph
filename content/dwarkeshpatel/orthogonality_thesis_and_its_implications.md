@@ -3,7 +3,7 @@ title: Orthogonality thesis and its implications
 videoId: 41SUp-TRVlg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The Orthogonality Thesis is a significant topic in the realm of artificial intelligence and philosophical discourse around [[ai_alignment_and_ethics | AI alignment]]. Eliezer Yudkowsky, a prominent figure in AI safety, has discussed this extensively in various forums, including a recent conversation where he dwelled on its implications for AI development and alignment. This article explores the Orthogonality Thesis and its far-reaching ramifications.
 
 ## Understanding the Orthogonality Thesis
@@ -29,7 +29,7 @@ Given that intelligence and motivation are orthogonal, the challenge for AI deve
 Yudkowsky emphasizes that the evolution of human goals and morality provides insights into other intelligent systems' development. As humans gained intelligence and the ability to transform their environments, their moral frameworks evolved. However, this should not be misinterpreted to mean that all intelligent systems will evolve similarly — a critical insight from the Orthogonality Thesis is that different systems can hold vastly different goal structures independent of intelligence levels, shedding light on the [[evolution_of_human_cognitive_abilities | evolution of human cognitive abilities]].
 
 > [!info] Key Insight on Orthogonality
-> 
+>
 > Intelligence does not guarantee ethical alignment: intelligent agents can have a vast array of potential goal sets, and ethical behavior is not an automatic outcome of increased cognitive capabilities.
 
 ## Conclusion

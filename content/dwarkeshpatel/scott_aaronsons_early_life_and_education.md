@@ -3,7 +3,7 @@ title: Scott Aaronson's early life and education
 videoId: Uy5fvwdw8x4
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Scott Aaronson, a leading figure in [[the_development_and_challenges_of_quantum_computing | quantum computing]], shares an intriguing journey that began with an accelerated escape from conventional schooling and led to an influential academic career. From his early days as a discontented high-schooler to completing his Ph.D. at the age of 22, Aaronson's path is a testament to his intellectual drive and desire for a more fulfilling educational environment.
 
 ## Early Academic Beginnings

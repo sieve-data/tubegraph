@@ -3,7 +3,7 @@ title: Impact of totalitarian regimes on families
 videoId: -VeZp2d7mDs
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The experience of living under a totalitarian regime can profoundly impact families, disrupting their unity and inflicting psychological trauma. These effects are vividly illustrated by author Jung Chang's recounting of her family's ordeal under [[mao_zedong_and_the_cultural_revolution | Mao Zedong's governance]] in China.
 
 ## Family Separation and Persecution

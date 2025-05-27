@@ -3,7 +3,7 @@ title: Influence of technological stagnation in ancient civilizations
 videoId: QFzgSmN8Ng8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The phenomenon of technological stagnation in ancient civilizations is a fascinating subject, and it draws considerable interest from historians and scholars. Kyle Harper, a professor and author, discusses this issue in the context of the Roman Empire during an insightful podcast conversation. This article explores the reasons behind the technological stagnation of ancient civilizations, particularly the Roman Empire, and the implications this had on their socioeconomic development.
 
 ## The Roman Economy and Technological Stagnation
@@ -31,5 +31,5 @@ In comparing the Romans with the Greeks, Harper highlights that while ancient Gr
 Harper’s insights reflect how ancient civilizations like Rome achieved various successes through institutional strengths but failed to catalyze a sustained technological takeoff due to their intellectual constraints and reliance on traditional labor systems [00:16:47](<a class="yt-timestamp" data-t="00:16:47">00:16:47</a>). These historical observations offer valuable lessons on the complexities of technological growth being contingent on a confluence of factors including scientific inquiry, population, and economic structures, similar to the challenges faced in [[role_of_ai_in_future_economic_growth | future economic growth through AI]].
 
 > [!info] Conclusion
-> 
+>
 > The study of technological stagnation in ancient civilizations such as Rome reveals insights into the intricate balance between scientific progress, economic conditions, and labor systems. Though possessing strong economic institutions, the Roman Empire's scientific backwardness hindered what could have been an early industrial revolution, offering a reflective contrast to the post-renaissance advancements that reshaped global development patterns, much like the [[historical_patterns_of_innovation_and_stagnation | historical patterns of innovation and stagnation]] in different eras.

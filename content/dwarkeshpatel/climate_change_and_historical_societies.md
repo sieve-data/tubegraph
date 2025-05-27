@@ -3,14 +3,14 @@ title: Climate change and historical societies
 videoId: QFzgSmN8Ng8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The profound impact of climate change on historical societies is a topic of growing interest among historians and scientists. Kyle Harper, a historian known for his multidisciplinary approach, provides valuable insights into how climate variability and changes affected ancient civilizations, particularly the Roman Empire. Harper's discussion reveals that natural climate phenomena, such as volcanic eruptions, played a critical role in shaping human history, a perspective that challenges the traditional focus on purely anthropogenic factors in recent climate discussions.
 
 ## Climate Change in the Roman Period
 
 > [!info] The Impact of Volcanic Eruptions
-> 
-> The Roman world experienced significant climate change driven by a series of volcanic eruptions in the sixth century. These eruptions ejected sulfur into the atmosphere, creating an aerosol layer that reflected sunlight, leading to a noticeable cooling period lasting several decades. This episode exemplifies how natural climate events could cause abrupt and significant changes in the environment, affecting societies dependent on stable climatic conditions for agriculture. 
+>
+> The Roman world experienced significant climate change driven by a series of volcanic eruptions in the sixth century. These eruptions ejected sulfur into the atmosphere, creating an aerosol layer that reflected sunlight, leading to a noticeable cooling period lasting several decades. This episode exemplifies how natural climate events could cause abrupt and significant changes in the environment, affecting societies dependent on stable climatic conditions for agriculture.
 
 During this period, the Earth's temperature dropped by one to two degrees Celsius, a change sufficient to disrupt agricultural productivity across the Roman Empire. Such climate-induced stress compounded other challenges, like pandemics [[impact_of_diseases_on_human_populations_and_history | Impact of diseases on human populations and history]], to weaken the societal structures of the time <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
 

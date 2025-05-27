@@ -3,7 +3,7 @@ title: Architect's business model and goals
 videoId: yXgDlIlB93A
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the article:
 
 Architect, founded by Brett Harrison, has emerged in the landscape of digital trading with a clear mission: to provide unified infrastructure that simplifies access to the digital asset ecosystem for both individuals and institutions. The company positions itself as a bridge between diverse financial terrains, aiming to deliver a seamless trading experience across multiple platforms and asset classes.
@@ -13,7 +13,7 @@ Architect, founded by Brett Harrison, has emerged in the landscape of digital tr
 Architect's business model focuses on creating a versatile and scalable platform that connects traders with the myriad elements of the digital asset world, including centralized and decentralized markets, as well as custodial services. The platform is designed to integrate market data, trading functionality, and custody services into a cohesive API-driven solution.
 
 > [!info] Business Model Overview
-> 
+>
 > Architect’s mission is to provide a unified infrastructure to easily access various corners of the digital asset ecosystem, including crypto exchanges, DeFi protocols, and custodial arrangements. The founders aim to eliminate the repetitive development overhead traders face when connecting to multiple venues, enabling them to focus on strategies and execution instead of technical connectivity hurdles. — <a class="yt-timestamp" data-t="02:18:00">[02:18:00]</a>
 
 ### Key Features

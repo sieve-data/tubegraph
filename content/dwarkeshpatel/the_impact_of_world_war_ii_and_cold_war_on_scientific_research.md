@@ -3,7 +3,7 @@ title: The impact of World War II and Cold War on scientific research
 videoId: faZI6OBOopE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The mid-20th century was a period marked by rapid advancements in scientific research, driven significantly by the global events of World War II and the Cold War. These periods not only catalyzed innovations but also redirected scientific efforts towards addressing the pressing demands of warfare and geopolitical competition. This article delves into how these two significant periods influenced the trajectory of scientific research.
 
 ## World War II as a Scientific Catalyst
@@ -36,8 +36,8 @@ Institutions like the RAND Corporation emerged as integral components of this pe
 
 ## Conclusion
 
-The World War II and Cold War eras were defining moments for scientific research, characterized by a fusion of global political pressures and the quest for technological superiority. The impacts of these periods are enduring, resulting in foundational advancements in various scientific domains. The legacy of these times underscores the profound influence of global events on the direction and scope of scientific inquiry. 
+The World War II and Cold War eras were defining moments for scientific research, characterized by a fusion of global political pressures and the quest for technological superiority. The impacts of these periods are enduring, resulting in foundational advancements in various scientific domains. The legacy of these times underscores the profound influence of global events on the direction and scope of scientific inquiry.
 
 > [!info] Legacy Insight
-> 
+>
 > The use of science as a critical instrument in warfare and geopolitical strategy during these periods has shaped modern-day perceptions of scientific research as a key element of national policy and international influence.

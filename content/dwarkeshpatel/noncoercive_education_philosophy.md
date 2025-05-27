@@ -3,7 +3,7 @@ title: non-coercive education philosophy
 videoId: BV6Qice6Lrc
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The philosophy of [[non-coercive_education | non-coercive education]] challenges traditional paradigms of how children should be educated, proposing an alternative approach that emphasizes consent and the natural curiosity of the learner. Sarah Fitzgerald, a prominent advocate of this philosophy, discussed the concept extensively in a recent podcast interview.
 
 ## The Core Idea of Non-Coercive Education

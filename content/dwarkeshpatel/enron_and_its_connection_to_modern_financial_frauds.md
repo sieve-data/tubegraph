@@ -3,7 +3,7 @@ title: Enron and its connection to modern financial frauds
 videoId: m3oM69YHLeo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Enron's spectacular collapse in the early 2000s has often been referenced in discussions about modern fraudulent financial activities. This article explores the parallels between Enron and modern financial crises, with insights from a podcast featuring Bethany McLean, author of "The Smartest Guys in the Room" and a renowned finance writer.
 
 ## Enron's Collapse
@@ -25,7 +25,7 @@ Discussing the legal implications, McLean highlights how some of what Enron did 
 The inability to learn from past financial collapses is repeatedly stressed. History, while not repeating, often rhymes, indicating a need for a more profound understanding of failures like Enron's to prevent future frauds [00:03:02](<a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>). Regulatory reforms such as Sarbanes-Oxley post-Enron and Dodd-Frank post-global financial crisis have attempted to curb fraud. However, the evolving nature of financial markets means that these measures often fall short, as seen in recent financial upheavals like that of FTX [00:06:09](<a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>). This mirrors the challenges faced in developing effective AI governance strategies [[ai_alignment_and_ethics]].
 
 > [!info] On Learning from Financial Scandals
-> 
+>
 > As Bethany McLean discusses, learning from financial scandals is more about narrative and understanding rather than just preventing recurrences. Historical analyses provide insights into preventing the slide into unethical behavior, but full prevention requires a cultural shift in how companies view success and ethical behavior [00:04:40](<a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>). This required shift is akin to understanding the potential societal impacts of advanced AI developments [[potential_societal_impacts_of_advanced_ai]].
 
 ## Conclusion

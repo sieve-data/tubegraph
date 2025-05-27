@@ -3,9 +3,9 @@ title: Challenges in modeling and predicting AI timelines
 videoId: M3TUe4zUCKk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 Artificial Intelligence (AI) development has been a topic of significant interest and debate over the past few decades. As AI systems advance, predicting their future trajectory becomes increasingly crucial for both strategists and policymakers. Joe Carl Smith, a senior research analyst at Open Philanthropy and a doctoral student in philosophy, sheds light on the intricacies involved in projecting [[ai_progress_forecasting | AI timelines]] during his discussion on the podcast. This article delves into the challenges faced in modeling and predicting these timelines.
 
 ## Understanding AI Timelines
@@ -33,7 +33,8 @@ Carl Smith positions himself as a [[longtermism_and_its_implications | long-term
 Predictive modeling of AI timelines is fraught with challenges, primarily due to the dynamic nature of AI advancement and the inherent uncertainty of the future. As emphasized by Joe Carl Smith, while there are methodologies in place to project timelines and assess risks, these come with notable limitations. The key is to approach AI development with a balance of optimism and caution, preparing for a range of possibilities while continually recalibrating our models to account for emerging data and trends, aligning with [[ai_alignment_and_ethics | AI ethics and deployment strategies]].
 
 ---
+
 > [!info] Author's Note
-> 
+>
 > The insights contained in this article are based on Joe Carl Smith's discussion and represent personal interpretations of the challenges involved in AI timeline predictions. The discussion highlights the complexity and philosophical considerations integral to understanding future AI developments.
 ```

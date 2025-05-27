@@ -3,7 +3,8 @@ title: Fracking and Energy Independence
 videoId: sveBcfz0fHk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Fracking and Energy Independence
 
 Fracking, also known as hydraulic fracturing, has played a revolutionary role in shifting the landscape of energy independence, especially for the United States. The discussions in a recent podcast episode with Daniel Yergin, a leading expert in energy policy, highlighted several facets of this transformation. Below, we delve into the influence of fracking on energy independence, its [[geopolitical_impact_of_oil | geopolitical implications]], and the challenges it's addressed and encountered.
@@ -29,5 +30,5 @@ Fracking has addressed not only U.S. energy needs but has also influenced global
 In summary, the fracking revolution has fundamentally altered the U.S.'s energy landscape by enabling energy independence and providing geopolitical leverage. The maturation of the industry also reflects a shift towards sustainable economic models. As the industry continues to navigate financial challenges and contribute to global energy security, its significance in the realm of energy policy and independence is undeniable.
 
 > [!info] Key Takeaway
-> 
+>
 > The U.S. shale revolution exemplifies how innovative energy extraction methods like fracking can dramatically alter a country’s energy profile, contributing to energy independence and reshaping global geopolitical dynamics.

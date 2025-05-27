@@ -3,7 +3,7 @@ title: Comparative governance and leadership examples
 videoId: zSLWR3AbF3c
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a conversation with Tony Blair, former Prime Minister of the UK, the intricacies of governance and leadership were explored, particularly focusing on how various countries have navigated the complexities of leadership and governance with differing degrees of success. Blair, who now leads the Tony Blair Institute, shared insights drawn from his experiences advising governments worldwide.
 
 ## The Role of Leadership in Governance
@@ -27,6 +27,7 @@ One of the consistent themes was the impact of technology on governance. Blair a
 Blair pointed out that despite good strategies, the implementation of change can be challenging due to systemic inertia and vested interests. Even when equipped with sensible advice, leaders may struggle against entrenched systems and political distractions that resist reform. The struggle between ambition and actionable policy is a frequent hurdle in governance today [[managing_crises_and_governmental_inertia | managing crises and governmental inertia]] [<a class="yt-timestamp" data-t="39:03">39:03</a>].
 
 > [!info] Key Insights
+>
 > - Effective leadership and governance are pivotal in determining a nation's success.
 > - Strategic decisions, even when initially unpopular, can have long-lasting positive impacts.
 > - Embracing technological advancements is crucial for modern governance.

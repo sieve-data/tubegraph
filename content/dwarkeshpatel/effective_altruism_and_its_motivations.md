@@ -3,7 +3,7 @@ title: Effective altruism and its motivations
 videoId: nvL3vqMzznY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Effective altruism has become a significant topic of discussion in recent years, especially amidst various global challenges. Nadia Asparouhova, during a podcast conversation, offered insights into the motivations behind [[effective_altruism_movement | effective altruism]] and how it fits into the broader landscape of elite mindsets, particularly comparing it with [[finance_systems_and_market_cap_analysis | traditional finance elites]] and [[founder_archetypes_in_the_tech_industry | tech startup founders]].
 
 ## Understanding Effective Altruism
@@ -31,5 +31,5 @@ The conversation touches on differences in philanthropic behavior between Americ
 Asparouhova observes a shift in modern philanthropy, with many contemporary elites favoring flexible financial structures like LLCs over traditional foundational models. This transition enables them to fund a broader array of initiatives beyond standard charitable endeavors, reflecting the versatile pursuit of impact rather than adherence to rigid philanthropic structures [[the_role_and_evolution_of_philanthropy | the role and evolution of philanthropy]] <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>.
 
 > [!info] Effective Altruism's Future
-> 
+>
 > Effective altruism's potential evolution into an aristocratic ideology poses existential questions about its long-term role in shaping societal norms and how it aligns with various elite mindsets, especially as financial paradigms and tech influence proliferate in tandem [[effective_altruism_and_longterm_impacts | effective altruism and long-term impacts]].

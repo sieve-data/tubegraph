@@ -3,7 +3,7 @@ title: Hirohito's role in World War II and post-war Japan
 videoId: rsJxlybPByM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The role and influence of Emperor Hirohito during World War II have been subjects of significant historical debate. As the Japanese emperor during this tumultuous period, Hirohito was perceived through various lenses, ranging from being a passive constitutional monarch to an active participant in Japan's wartime actions and post-war transformation.
 
 ## Hirohito's Authority in Wartime Japan
@@ -27,6 +27,7 @@ Hirohito's surrender speech marked a turning point as Japan transitioned into a 
 Hirohito remains a complex historical figure whose actions during and after World War II continue to be interpreted in varying lights. His perceived passivity during the war and his post-war transformation from a deity-like figure to a constitutional monarch reflect broader shifts in Japan's societal structure and governance [[the_meiji_restoration_and_japans_evolution | The Meiji Restoration and Japan's evolution]]. The post-war era witnessed Japan’s transformation into a significant economic power, an evolution that included redefining Hirohito's role from a wartime leader to a peacetime symbol of national unity.
 
 > [!info] Recommended Reading
+>
 > - "Hirohito and the Making of Modern Japan" by Herbert P. Bix
 > - "Embracing Defeat: Japan in the Wake of World War II" by John Dower
 

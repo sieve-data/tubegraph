@@ -3,7 +3,7 @@ title: CO2 electrolysis and chemical engineering
 videoId: YSgfu7XprIM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 CO2 electrolysis is an emerging technology in the field of chemical engineering that aims to convert carbon dioxide (CO2) into valuable chemicals and fuels using electricity. This technology holds the promise of addressing both carbon utilization and renewable energy storage challenges by transforming CO2, a major greenhouse gas, into useful substances. In a recent discussion with Austin Vernon, several key elements of CO2 electrolysis and its implications in chemical engineering were explored.
 
 ## Understanding CO2 Electrolysis

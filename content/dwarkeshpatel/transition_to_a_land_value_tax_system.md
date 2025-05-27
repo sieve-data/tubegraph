@@ -3,7 +3,7 @@ title: Transition to a land value tax system
 videoId: sL-qkv7Pzxo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The adoption of a [[georgism_and_land_value_tax | land value tax (LVT) system]] represents a significant shift in tax policy that focuses on taxing the unimproved value of land, as opposed to taxing income, sales, or capital gains. This article explores the potential transition to an LVT system, its possible implications, and how such a transition could be implemented.
 
 ## Understanding Land Value Taxation
@@ -45,5 +45,5 @@ Transitioning to a land value tax regime offers a path to a more equitable and e
 ---
 
 > [!info] Key Takeaway
-> 
+>
 > Transitioning to a land value tax system can mitigate the unequal economic burden often placed on earners and producers by existing tax systems. It requires a thoughtful approach to implementation, balancing immediate fiscal realities and long-term economic health.

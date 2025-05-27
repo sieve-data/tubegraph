@@ -3,11 +3,11 @@ title: Space Elevators and Material Science Challenges
 videoId: XhB3qH_TFds
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concept of building a space elevator has fascinated scientists and futurists for decades. A proposed mechanism to dramatically reduce the cost of sending materials and people into orbit, the space elevator concept promises to revolutionize our approach to space travel. However, as discussed by physicist Adam Brown in a recent conversation, the successful implementation of a space elevator faces considerable material science challenges.
 
 > [!info] Adam Brown's Background
-> 
+>
 > Adam Brown is a theoretical physicist affiliated with Stanford University and Google DeepMind, working primarily on math and reasoning in AI. His insights into speculative technologies such as space elevators are grounded in an understanding of both physics and technological constraints.
 
 ## The Concept of Space Elevators

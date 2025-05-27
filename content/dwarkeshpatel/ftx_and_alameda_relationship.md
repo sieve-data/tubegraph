@@ -3,13 +3,13 @@ title: FTX and Alameda relationship
 videoId: yXgDlIlB93A
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The nature of the relationship between FTX, a prominent cryptocurrency exchange, and Alameda Research, a quant trading firm, has been a topic of significant curiosity and speculation in the crypto community. As described by Brett Harrison, former President of FTX US, the official narrative maintained that both entities operated as separate, distinct companies. Here, we delve into how these relationships were perceived internally and externally, and the insights shared by Brett Harrison in a recent conversation with The Lunar Society.
 
 ## Initial Setup and Separation
 
 > [!info] Separate Entities
-> 
+>
 > According to Brett Harrison, FTX and Alameda were formally structured as separate entities, indicating a legal and operational separation. The technology utilized by FTX US, for instance, was licensed from FTX, but Alameda was treated as a distinct trading firm with no special access to FTX's exchange functionalities beyond what was publicly available to other market makers ([[role_of_market_makers_in_finance_and_crypto]]) (<a class="yt-timestamp" data-t="01:28:29">[01:28:29]</a>).
 
 ### Shared Leadership and Control
@@ -17,7 +17,7 @@ The nature of the relationship between FTX, a prominent cryptocurrency exchange,
 Despite the official separation, the connection between FTX and Alameda was notably characterized by shared leadership and overlapping ownership. Sam Bankman-Fried, often referred to as SBF, held a significant stake and maintained an influential position in both organizations. Alongside him, Gary Wang and Nishad Singh, key figures in FTX, were also deeply integrated into Alameda’s operations.
 
 > [!info] Governance Overlap
-> 
+>
 > The governance structure implied a lack of total segregation as Sam Bankman-Fried was the CEO of both entities, while other top executives like Gary Wang and Nishad Singh held dual roles, blurring the operational boundaries ([[the_role_of_leadership_in_governance_and_management]]) (<a class="yt-timestamp" data-t="01:52:39">[01:52:39]</a>).
 
 ## Operational Proximity and Communication

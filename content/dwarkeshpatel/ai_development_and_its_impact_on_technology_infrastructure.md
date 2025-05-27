@@ -3,7 +3,7 @@ title: AI development and its impact on technology infrastructure
 videoId: pE3KKUKXcTM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The rapid advancements in artificial intelligence (AI) are reshaping not just the digital landscape but also significantly influencing the physical infrastructure that supports technology. This transformation is particularly evident in the scaling dynamics of data centers, the increasing demand for energy resources, and the evolving semiconductor industry. Let's explore how AI development is impacting technology infrastructure based on insights from a recent discussion between experts in the field.
 
 ## Centralization vs. Decentralization in AI Development
@@ -27,7 +27,7 @@ The AI boom affects the global supply chain for critical components [[business_m
 Investment in AI infrastructure is ramping up significantly. Patel mentions the plans for massive data centers powered by gigawatts of electricity, anticipating the demands of AI systems expected by 2025-2028 [[ai_and_economic_growth | AI and economic growth]] [01:26:32]. These developments suggest a trajectory towards even more extensive use of computational resources, which could necessitate innovations in energy efficiency and resource management.
 
 > [!info] Key Insight:
-> 
+>
 > The interplay between AI development and technology infrastructure is intricate, where advancements in one domain drive demand and innovation in the other. With the continued push towards more powerful AI systems, the technology landscape will see paradigm shifts in how resources are allocated and managed across global infrastructures.
 
 ## Conclusion

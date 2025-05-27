@@ -3,7 +3,7 @@ title: Political feasibility of implementing georgism
 videoId: sL-qkv7Pzxo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concept of [[georgism_and_land_value_tax | Georgism]], derived from the 19th-century economist Henry George, suggests that public revenue should be raised primarily through a land value tax, levied on the unimproved value of land. This approach, emphasizing the economic efficiency and equity of taxing natural monopolies rather than labor and capital, brings to light interesting questions about the political feasibility of implementing such a system.
 
 ## The Current Political Climate

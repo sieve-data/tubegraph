@@ -3,7 +3,7 @@ title: The parallels between nuclear technology and modern advancements like AI
 videoId: tMdMiYsfHKo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent podcast, Pulitzer Prize-winning author Richard Rhodes explored various historical and contemporary topics, including a fascinating comparison between the development of nuclear technology and the contemporary advancements in artificial intelligence (AI). Rhodes’ insights provide a compelling parallel between these transformative technologies as both hold significant implications for the future. Below, we examine these parallels, using specific insights drawn from Rhodes’ discussion.
 
 ## Early Scientific Discoveries and Theoretical Insights
@@ -37,7 +37,7 @@ Both technologies illustrate the theme of unintended consequences. Rhodes notes 
 In AI, unintended consequences can be both beneficial, such as advancements in healthcare and instant language translation, and harmful, possibly reinforcing biases or leading to unforeseen disruptions in labor markets [[potential_societal_impacts_of_advanced_ai | potential societal impacts of advanced AI]].
 
 > [!info] Future Implications
-> 
+>
 > Examining the parallels between nuclear technology and AI provides insights into the ways transformative technologies impact societies. It underscores the need for global cooperation, ethical vigilance, and careful strategic planning to harness these technologies for beneficial outcomes [[potential_risks_and_benefits_of_ai_in_society | potential risks and benefits of AI]].
 
 These insights from Richard Rhodes contribute to a nuanced understanding of the not only historical significance of nuclear technology but also its implications for current and future developments in AI. Each monumental in their right, their histories offer lessons in advancement, competition, regulation, and collaboration.

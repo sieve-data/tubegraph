@@ -3,18 +3,18 @@ title: Role of political advisers and technocrats
 videoId: zSLWR3AbF3c
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with former UK Prime Minister Tony Blair, several intriguing aspects of political leadership and governance were explored, including the critical role of political advisers and technocrats. Blair's insights reveal the complexity and importance of bridging the gap between political ambitions and the technical prowess required to implement effective policies.
 
 ## The Importance of Technocratic Expertise
 
-Tony Blair, who now leads the Tony Blair Institute assisting numerous governments globally, emphasizes the need to involve technocrats and advisers in governance. These individuals bring a depth of specialized knowledge crucial for [[role_of_elite_technocracy_in_governance | navigating the complexities]] of modern governmental challenges [00:00:06]. Blair expressed the necessity to differentiate between ambitions and policies, highlighting that true policies arise from intellectual rigor and expertise rather than mere aspirations [00:08:42]. 
+Tony Blair, who now leads the Tony Blair Institute assisting numerous governments globally, emphasizes the need to involve technocrats and advisers in governance. These individuals bring a depth of specialized knowledge crucial for [[role_of_elite_technocracy_in_governance | navigating the complexities]] of modern governmental challenges [00:00:06]. Blair expressed the necessity to differentiate between ambitions and policies, highlighting that true policies arise from intellectual rigor and expertise rather than mere aspirations [00:08:42].
 
 Blair's experience underscored that while political leaders are tasked with envisioning change, transforming these visions into actionable policies requires a solid understanding of intricate policy-making processes. This is where technocrats play an indispensable role [00:09:30].
 
 ## Bridging the Gap: Change Makers and Policy Makers
 
-The discussion also touched upon the divide between change makers—often in the private sector—and policy makers in government positions. Blair noted the widespread fear and misunderstanding between these groups. Policy makers may see change makers as threats to established order, while the latter often view governmental processes as unnecessary hurdles [00:11:23]. 
+The discussion also touched upon the divide between change makers—often in the private sector—and policy makers in government positions. Blair noted the widespread fear and misunderstanding between these groups. Policy makers may see change makers as threats to established order, while the latter often view governmental processes as unnecessary hurdles [00:11:23].
 
 To address this, Blair's institute focuses on fostering dialogue and cooperation between these sectors to ensure that [[technological_and_social_innovation | technological advancements]] are effectively integrated into public policies [00:11:19].
 

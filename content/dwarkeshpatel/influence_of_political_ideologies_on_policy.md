@@ -3,7 +3,7 @@ title: Influence of political ideologies on policy
 videoId: QyWs-XomCk0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Political ideologies play a fundamental role in shaping policy decisions at both the domestic and international levels. In this article, we delve into how these ideologies influence policy, as discussed by Richard Hanania, the president of the Center for the Study of Partisanship and Ideology, in a recent podcast interview.
 
 ## Overview of Political Ideologies
@@ -39,7 +39,7 @@ The absence of direct voter influence in international affairs allows leaders mo
 Hanania acknowledges the role foreign and domestic lobbies play in shaping US policy. For example, foreign governments like Israel and Saudi Arabia influence American foreign policy insofar as these issues are critical to them, more so than to the American public. These pressures can distort policies away from what might be considered a coherent national strategy [[geopolitical_impact_of_oil | (geopolitical impact of oil)]] (<a class="yt-timestamp" data-t="16:06">[16:06]</a>).
 
 > [!info] The Complexity of Ideological Influence
-> 
+>
 > Ideologies serve both as foundational principles guiding policy and as justifications for actions driven by special interests, highlighting a complex interplay between belief systems and pragmatic governance.
 
 ## Conclusion

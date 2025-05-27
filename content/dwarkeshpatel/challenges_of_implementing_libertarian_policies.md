@@ -3,7 +3,7 @@ title: Challenges of implementing libertarian policies
 videoId: QyWs-XomCk0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The podcast featuring Richard Hanania sheds light on the difficulties and misconceptions surrounding the implementation of libertarian policies in contemporary political discourse. The discussion navigates the political landscape and examines the challenges that arise when libertarian ideas are misrepresented or misapplied in policy-making.
 
 ## Libertarianism as a Scapegoat
@@ -11,7 +11,7 @@ The podcast featuring Richard Hanania sheds light on the difficulties and miscon
 Libertarianism is often blamed for socio-political trends and issues that do not stem from any genuinely implemented libertarian policies. Richard Hanania points out that there is a narrative among the populist right that suggests libertarian principles were tried and failed, leading to the rise of "wokeness." He counters this by questioning when Republicans last enacted libertarian policies, such as repealing the Civil Rights Act or defunding public education (<a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>).
 
 > [!info] Misconceptions about Libertarianism
-> 
+>
 > Hanania argues that instead of being tried and tested, libertarianism is unfairly used as a scapegoat for perceived negatives in politics and society (<a class="yt-timestamp" data-t="01:00:48">[01:00:48]</a>).
 
 ## The Complexity of Policy Implementation
@@ -31,7 +31,7 @@ Hanania expresses concern that efforts to adopt libertarian policies are often c
 The podcast also delves into the interpretation of civil rights laws and how they intersect with libertarian ideals. Hanania remarks that conservatives have not sufficiently pursued or understood the implications of broad civil rights interpretations on business and culture (<a class="yt-timestamp" data-t="01:00:10">[01:00:10]</a>).
 
 > [!info] Institutional and Cultural Barriers
-> 
+>
 > According to Hanania, significant institutional barriers, including the broad interpretation of civil rights laws, prevent the successful implementation of libertarian policies (<a class="yt-timestamp" data-t="01:01:13">[01:01:13]</a>).
 
 ## Conclusion

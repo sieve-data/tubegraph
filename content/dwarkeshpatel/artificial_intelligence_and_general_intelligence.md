@@ -3,7 +3,7 @@ title: Artificial Intelligence and General Intelligence
 videoId: EVwjofV5TgU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a stimulating conversation with David Deutsch, the topic of Artificial Intelligence (AI) and its potential to achieve General Intelligence (AGI) was explored in depth. Below is a summary of the key points discussed on this subject.
 
 ## Defining General Intelligence
@@ -31,7 +31,7 @@ In discussing intelligence assessments, such as IQ tests, Deutsch points out the
 Ultimately, the conversation suggests that the path to AGI is as much about understanding and replicating the nuances of human cognition and motivations as it is about developing computational power and speed [[future_capabilities_and_progress_of_ai_models | .]] Deutsch's views offer an optimistic yet cautious perspective on the future of AI, emphasizing the potential for human parity in cognitive expansion through technological augmentation.
 
 > [!info] Key Takeaway
-> 
+>
 > David Deutsch argues that both AI and humans share the theoretical capacity for general intelligence, suggesting any perceived differences lie primarily in current technological limitations of speed and memory, which can be augmented [[challenges_in_achieving_artificial_general_intelligence | .]]
 
 In summary, while absolute general intelligence remains a partly theoretical exercise, exploring its boundaries illuminates both the possibilities and philosophical questions that accompany the development of artificial intelligence technology [[challenges_and_considerations_for_achieving_agi | .]]

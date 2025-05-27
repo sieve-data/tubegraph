@@ -3,7 +3,7 @@ title: Housing markets and regulation
 videoId: MpttoDJ3pH8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Housing markets and regulation have been a point of contention and discussion among economists, city planners, and policymakers for decades. This article explores the interplay between free-market dynamics and regulatory frameworks in the context of housing, especially focusing on the findings and opinions shared by Professor Edward Glaser during a recent discussion.
 
 ## The Impact of Regulation on Housing Markets
@@ -11,7 +11,7 @@ Housing markets and regulation have been a point of contention and discussion am
 Housing markets are significantly affected by local regulations, which can determine the availability, affordability, and quality of housing. Professor Glaser emphasizes that the regulatory environment has a substantial impact on housing markets, particularly in terms of zoning laws and permitting processes.
 
 > [!info] Understanding Zoning
-> 
+>
 > Zoning laws regulate how land can be used in a given area. They dictate whether a land piece is designated for residential, commercial, or industrial use, and can be a significant barrier to development (<a class="yt-timestamp" data-t="00:19:02">[00:19:02]</a>).
 
 ### Zoning and Its Consequences

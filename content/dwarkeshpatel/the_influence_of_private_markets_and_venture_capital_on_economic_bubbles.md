@@ -3,7 +3,7 @@ title: The influence of private markets and venture capital on economic bubbles
 videoId: m3oM69YHLeo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In recent years, private markets and venture capital have played increasingly significant roles in shaping economic landscapes. This topic was a key point of discussion in a recent podcast featuring finance journalist Bethany McLean, known for her deep dives into financial crises.
 
 ## The Role of Private Markets in Economic Bubbles

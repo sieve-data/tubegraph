@@ -3,7 +3,7 @@ title: Dominant assurance contracts and public goods
 videoId: i75KvXVrtLw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a discussion with Professor Alex Tabarrok, an economics professor at George Mason University, the topic of dominant assurance contracts emerged as a novel solution to the classic public goods problem. This article explores what dominant assurance contracts are, their potential applications, and their implications for public goods provisioning.
 
 ## Understanding Public Goods

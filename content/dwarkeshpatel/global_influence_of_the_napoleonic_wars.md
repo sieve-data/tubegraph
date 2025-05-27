@@ -3,7 +3,7 @@ title: Global influence of the Napoleonic Wars
 videoId: E65CHSV6Ads
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The Napoleonic Wars were a series of conflicts involving Napoleon Bonaparte's French Empire against various coalitions of European nations. Though much of the historical focus lies on their immediate impact on Europe, the reach and influence of these wars were considerably global. Professor Alexander Mikaberidze, author of "The Napoleonic Wars: A Global History," explores these influences in an in-depth discussion, shedding light on how they shaped the world far beyond Europe.
 
 ## Economic and Colonial Impact
@@ -39,5 +39,5 @@ In the Southern Hemisphere, the Napoleonic Wars coincided with the decline of Sp
 The Napoleonic Wars were a catalyst for widespread change, extending their effects beyond immediate military engagements to influence global trade, governance, and the political future of numerous regions. Napoleon's legacy includes a complex blend of revolutionary reforms and strategic military actions, leaving an indelible mark on world history that extended far beyond the battlefields of Europe [[effects_of_war_on_societal_transformation | [01:21:30]]].
 
 > [!info] Expanding Horizons
-> 
+>
 > Embracing a transnational perspective on historical events like the Napoleonic Wars offers a richer understanding of their global implications, encouraging readers to consider how local events can resonate across the world.

@@ -3,7 +3,7 @@ title: Implications of Superintelligence
 videoId: htOvH12T7mU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Superintelligence, a concept often linked to the future of artificial intelligence (AI), raises numerous implications that could transform various aspects of human existence and societal structures. This article examines these implications as discussed in the conversation with Scott Alexander and Daniel Kokotajlo, particularly focusing on their project "AI 2027" and the transformative impacts of superintelligence.
 
 ## Forecasting the Path to Superintelligence

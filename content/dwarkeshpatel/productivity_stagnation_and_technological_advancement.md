@@ -3,7 +3,7 @@ title: Productivity stagnation and technological advancement
 videoId: ZI_tDsOhd5I
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Productivity stagnation and technological advancement are closely linked yet distinctly impactful phenomena that shape modern economies. The conversation with Burn Hobart, a writer, consultant, and investor, offers valuable insights into the complexities and challenges surrounding these issues. Hobart provides a nuanced perspective on how these factors influence economic growth and institutional efficiencies.
 
 ## Understanding Productivity Stagnation

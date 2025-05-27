@@ -3,7 +3,7 @@ title: Philosophical foundations of government authority
 videoId: --xKsIgv7tE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent episode of the **Lunar Society Podcast**, Professor Michael Huemer, a distinguished philosopher at the University of Colorado, delves into the intricate philosophical issue of government authority. In the podcast, Huemer discusses the conceptual underpinnings and ethical considerations surrounding governmental power. Here, we explore these ideas as presented, including why the state's authority is unique and what moral obligations this imposes on citizens.
 
 ## Distinguishing Government Authority

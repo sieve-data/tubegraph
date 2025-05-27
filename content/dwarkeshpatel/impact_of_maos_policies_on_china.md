@@ -3,7 +3,7 @@ title: Impact of Mao's policies on China
 videoId: 4l3Sa8ImGFQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Mao Zedong's [[maos_rise_to_power_in_china | legacy]] is a tapestry of strategies, policies, and movements that have left a lasting impact on China. His approach to governance and ideology fundamentally reshaped the political, economic, and social structures of the country. This article delves into the critical aspects of Mao's policies and their implications on China.
 
 ## Social Revolution and Class Transformation

@@ -3,7 +3,7 @@ title: Experiences during China's Great Leap Forward
 videoId: -VeZp2d7mDs
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The Great Leap Forward was a significant and devastating period in Chinese history, marked by economic policies and social experiments that led to widespread famine and suffering. This article explores the experiences and consequences of the Great Leap Forward, drawing on insights shared in an interview with Jung Chang, the author of "Wild Swans" and "Mao: The Unknown Story."
 
 ## Background and Objectives
@@ -35,5 +35,5 @@ The Great Leap Forward left deep psychological scars on those who lived through 
 The Great Leap Forward is an example of how ideological pursuits, when disconnected from practical realities, can lead to tragic outcomes. It serves as a cautionary tale of the impacts of radical policies, illustrating the need for leaders to remain attuned to the human cost of their decisions. Although the era was marked by immense suffering, it also highlights the resilience of those who lived through it and the enduring quest for truth about these painful chapters in history.
 
 > [!info] Enduring the Leap
-> 
+>
 > Despite the devastating impact of the Great Leap Forward, stories of survival and resistance offer crucial insights into human resilience and the importance of documenting historical truths [[censorship_and_historical_revisionism_in_china | Censorship and historical revisionism in China]].

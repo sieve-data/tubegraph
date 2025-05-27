@@ -3,7 +3,7 @@ title: Social and Ethical Implications of Genomic Selection
 videoId: 80BhjRh-Q-s
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Genomic selection, particularly in the context of reproductive technologies like [[embryo_selection_technologies | IVF]], has the potential to significantly alter the landscape of human health and evolution. However, these advances are laden with complex social and ethical implications.
 
 ## The Promise of Genomic Selection
@@ -19,7 +19,7 @@ One of the major ethical concerns surrounding genomic selection is the potential
 Hsu also touches on the current landscape of social attitudes toward genomic technologies, pointing out that just a few decades ago, ideas surrounding genetic improvement were associated with progressive ideals (<a class="yt-timestamp" data-t="01:09:05">[01:09:05]</a>). Today, however, there's a resistance, often stemming from ethical concerns about [[ai_alignment_and_ethics | eugenics]] and genetic determinism.
 
 > [!info] Societal Divergence
-> 
+>
 > While there's a potential for significant health improvements, genomic selection could lead to greater social inequalities if access remains limited to affluent segments of society.
 
 ## Varying Perspectives

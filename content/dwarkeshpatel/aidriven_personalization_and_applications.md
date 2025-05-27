@@ -3,7 +3,7 @@ title: AI-driven personalization and applications
 videoId: rYXeQbTuVl0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial intelligence (AI) has brought forth significant advancements in technology, particularly in personalization across various applications. With nearly a billion people using Meta AI monthly, a [[personalization_loop_in_ai_development | personalization loop]] is in the works, aiming to transform how AI interacts with individual user preferences and data.
 
 ## The Importance of Personalization Loop
@@ -11,7 +11,7 @@ Artificial intelligence (AI) has brought forth significant advancements in techn
 Personalization is becoming increasingly critical in AI development. By integrating user context such as interests, profile information, and interactions, AI algorithms can tailor their outputs more effectively. This approach considers data from user feeds, social graphs, and direct AI interactions, setting a foundation for highly customized experiences (<a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>).
 
 > [!info] User-Centric Design
-> 
+>
 > Personalization aims to enhance user satisfaction by offering tailored content and experiences based on their preferences and interactions with AI systems.
 
 ## Meta AI's Personalization Strategy
@@ -38,7 +38,7 @@ AI personalization can enhance social interactions by acting as an intermediary,
 Looking ahead, Meta AI envisions a future where media consumption is interactive. Users might engage with AI-generated content, influencing what they see and how they interact within their digital environments. The transition from static videos to interactive, AI-driven content is expected to redefine engagement models [[the_future_of_ai_research_and_potential_societal_impacts | reshaping digital experiences]] (<a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>).
 
 > [!info] Interactive Future
-> 
+>
 > Meta AI anticipates a shift toward interactive digital environments, where AI personalizes user experiences, making everyday interactions with technology more engaging.
 
 ## Conclusion

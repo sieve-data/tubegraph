@@ -3,7 +3,7 @@ title: Human Cognitive Abilities and Limitations
 videoId: EVwjofV5TgU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with David Deutsch, several profound insights into the nature of human cognition and its constraints were elucidated. Deutsch, an advocate for the concept of humans as "universal explainers," provided a nuanced perspective on the cognitive abilities of humans, contrasting them with artificial intelligences and examining inherent limitations [[comparison_between_human_intelligence_and_ai_learning_techniques | compared to AI learning techniques]]. This article explores these themes in detail.
 
 ## Cognitive Universality
@@ -13,9 +13,11 @@ Deutsch posits that humans are "universal explainers," meaning each person has t
 ## Hardware and Software Duality
 
 ### Hardware Limitations
+
 Deutsch argues that the human brain, while finite in speed and memory capacity, does not possess inherent hardware limitations that prevent universal comprehension. Any alleged cognitive boundary, such as the capacity to feel emotions like love or to perform complex tasks, can be theoretically supplemented or augmented by advancements in computational power or technology [[hardware_and_software_advancement_in_ai | as seen in AI advancements]] (<a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>).
 
 ### Software Readiness
+
 The capabilities of human cognition are also seen as a matter of "software readiness." Deutsch suggests that our inability to perform certain tasks, like the failure of some individuals to solve complex problems or learn advanced topics, may be due to software— or cognitive mindset— rather than hardware limits [[tools_and_techniques_for_effective_learning | with effective learning techniques]]. One example given is that some individuals may not engage deeply with certain concepts not because they lack the intrinsic capacity, but because of a lack of "readiness" or the decision to allocate cognitive resources elsewhere (<a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>).
 
 ## The Role of Interest and Motivation

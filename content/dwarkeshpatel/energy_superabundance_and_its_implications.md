@@ -3,7 +3,7 @@ title: Energy superabundance and its implications
 videoId: YSgfu7XprIM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the article:
 
 Energy superabundance is a transformative concept that imagines a future where energy becomes so plentiful and inexpensive that it effectively removes energy scarcity as a limiting factor for human progress. The potential implications of achieving energy superabundance were explored in depth during a discussion with Austin Vernon, an expert on engineering and economic trends.

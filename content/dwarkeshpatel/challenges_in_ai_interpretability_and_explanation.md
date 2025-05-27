@@ -3,7 +3,7 @@ title: Challenges in AI interpretability and explanation
 videoId: 9AAhTLa0dT0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 AI interpretability and explanation have emerged as critical areas of focus within AI safety, particularly given the sophistication of contemporary AI models like [[artificial_general_intelligence_agi_and_its_implications_for_mathematics | GPT-4]]. In this article, we explore the challenges associated with interpreting and explaining AI behavior, primarily drawn from the insights of Paul Christiano, a prominent researcher in this field.
 
 ## Understanding AI Behavior
@@ -31,7 +31,7 @@ Another layer of complexity arises from the need to distinguish between normal v
 Achieving reliable interpretability and explanation mechanisms for AI is essential for broader [[ai_safety_and_security_measures | AI safety]] and alignment efforts. Improved explanations can contribute to the development of AI systems that align more closely with human values and are robust against misuse. However, the field is still maturing, with ongoing research needed to refine techniques and establish effective methodologies.
 
 > [!info] Conclusion
-> 
+>
 > The challenges in AI interpretability and explanation are profound, posing both technical and conceptual hurdles. Current efforts like those led by Paul Christiano are attempting to establish a foundation for understanding AI behavior in a way that is safe, reliable, and scalable to complex models. However, the path forward requires significant advancements, [[importance_of_new_approaches_in_ai_research | rigorous research]], and potentially new paradigms in how we conceptualize explanations in AI systems.
 
 Overall, tackling these challenges is imperative to mitigating risks associated with advanced AI systems and ensuring that they operate safely within the bounds of human oversight and control.

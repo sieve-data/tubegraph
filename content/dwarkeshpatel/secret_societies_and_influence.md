@@ -3,7 +3,7 @@ title: Secret societies and influence
 videoId: ZI_tDsOhd5I
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Secret societies have long held a place in cultural imagination, often shrouded in mystery and speculation. These clandestine groups have been attributed with wielding unparalleled power and control, operating behind the scenes in various sectors including politics, economics, and education. In his discussion, [Burn Hobart](https://diff.substack.com) delves into the intricacies of secret societies, examining their potential influence and organization.
 
 ## The Nature of Secret Societies
@@ -15,7 +15,7 @@ Secret societies, by nature, operate under a veil of secrecy, making it challeng
 To amass significant influence or assets, secret societies would require a structured legal framework to manage and sustain their holdings over time. However, Hobart points out the inherent difficulty in maintaining secrecy while managing substantial assets, as typical legal structures are often transparent <a class="yt-timestamp" data-t="01:24:47">[01:24:47]</a>.
 
 > [!info] Institutional Evolution
-> 
+>
 > Hobart proposes that some modern institutions, such as universities, might have originated with ideologies akin to secret societies' long-term, clandestine goals. The evolution from exclusive groups to public institutions could suggest [[cultural_evolution_and_collective_brains | adaptive strategies for maintaining influence]] over time <a class="yt-timestamp" data-t="01:25:52">[01:25:52]</a>.
 
 ## Influence and Evolution

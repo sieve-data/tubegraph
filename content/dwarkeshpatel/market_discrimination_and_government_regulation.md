@@ -3,7 +3,7 @@ title: Market Discrimination and Government Regulation
 videoId: i70j-ZCPhXg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Market discrimination, often understood as unequal treatment in economic transactions based on non-performance related attributes, is a complex issue impacted by various factors, including government regulation. In a conversation between Bryan Caplan and Richard Hanania on market discrimination and its interplay with [[government_regulation_and_technological_advancements | government regulation]], several key insights are discussed.
 
 ## Discrimination in College Admissions

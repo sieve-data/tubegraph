@@ -3,7 +3,7 @@ title: Einstein and Newton's miracle years
 videoId: R5sBycV80c8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concept of a "miracle year" holds a fascinating place in the history of science, particularly when discussing the monumental contributions made by Albert Einstein and Isaac Newton. These years were periods of profound creativity and innovation during which these geniuses made leaps in knowledge that forever changed our understanding of the world.
 
 ## The Miracle Year Phenomenon
@@ -38,6 +38,6 @@ The elements that make miracle years possible seem to be multifaceted, involving
 
 While it's crucial to remember that these miracle years are exceptional, they offer invaluable insight into how groundbreaking scientific breakthroughs occur. The alignment of personal skill and interest with big, unsolved problems seems to be a common theme in the miracle years of both Newton and Einstein [[impacts_of_remote_work_and_future_of_work_dynamics | Impacts of remote work and future of work dynamics]].
 
-> [!info] Einstein, Newton, and the Rare Miracle Years 
-> 
+> [!info] Einstein, Newton, and the Rare Miracle Years
+>
 > Miracle years exemplify the pinnacle of concentrated scientific brilliance, proving that with the right conditions, unprecedented breakthroughs can occur that propel human understanding into new realms of possibility.

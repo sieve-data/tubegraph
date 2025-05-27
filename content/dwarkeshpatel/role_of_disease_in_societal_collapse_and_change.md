@@ -3,7 +3,7 @@ title: Role of disease in societal collapse and change
 videoId: 1Z35PqPQU2M
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In the intricate dance of history, disease has often played a significant role in shaping societal structures and precipitating collapses or significant transformations. The impact of infectious diseases on societies, particularly how these diseases facilitated the decline of civilizations, was a major topic discussed in the podcast featuring Charles Mann, the celebrated author known for exploring the depths of history in works like "1491" and "1493".
 
 ## Epidemiological Disparities

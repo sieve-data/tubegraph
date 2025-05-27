@@ -3,7 +3,7 @@ title: Human enhancement and transhumanism
 videoId: 41SUp-TRVlg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In the recent discussion with Eliezer Yudkowsky, a renowned thinker on AI and existential risk, one of the intriguing topics covered was human enhancement and its intersection with the larger philosophical perspective of transhumanism. Below is an exploration of the conversation's main insights and ideas around this topic.
 
 ## Introduction to Transhumanism
@@ -15,12 +15,12 @@ Transhumanism is a movement that advocates for the transformation of the human c
 Yudkowsky argues that one potential solution to grappling with the challenges posed by rapidly advancing AI could be to enhance human intelligence to a level where humans can solve alignment issues that today's AI technologies present. This is articulated through the notion of a "sane planet" strategy:
 
 > [!info] Sane Planet Strategy
-> 
+>
 > On a sane planet, the strategy would be to focus efforts on human intelligence enhancement to ensure we have the capacity to manage [[ai_alignment_challenges_and_strategies | AI alignment]] effectively. Yudkowsky suggests that enhancing genetic and cognitive capabilities could possibly offer a user-friendly solution to understanding and managing complex AI systems [00:07:03].
 
 ## The Technical and Ethical Dimensions
 
-The conversation delved into the technical feasibility of human enhancement, considering the latest advancements in biology and technology. Yudkowsky mentions a possible carve-out in AI development that focuses strictly on biological advancements not relying on internet-based training data [00:06:31]. 
+The conversation delved into the technical feasibility of human enhancement, considering the latest advancements in biology and technology. Yudkowsky mentions a possible carve-out in AI development that focuses strictly on biological advancements not relying on internet-based training data [00:06:31].
 
 Furthermore, human enhancement poses ethical questions. Transhumanism often grapples with the idea of maintaining human dignity while enhancing human capability. Any move towards human enhancement would need to address these ethical dilemmas alongside achieving technical feasibility.
 

@@ -3,7 +3,7 @@ title: High-skill immigration policies and their impact
 videoId: Ayewh_O0LPQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 High-skill immigration policies play a crucial role in a country's ability to innovate and maintain its competitive edge on the global stage. Caleb Watney, Director of Innovation Policy at the Progressive Policy Institute, provides insights into how these policies affect the United States' innovation engine during a recent interview.
 
 ## The Importance of High-Skill Immigration
@@ -11,7 +11,7 @@ High-skill immigration policies play a crucial role in a country's ability to in
 Watney argues that high-skill immigration is pivotal for boosting innovation for several reasons. Firstly, it brings in international talent that consistently enhances the creativity and productivity of domestic industries. Moreover, these immigrants often contribute disproportionately to fields like patenting and entrepreneurship, which are key drivers of [[technological_and_social_innovation | economic growth]].
 
 > [!info] Immigrant Contributions
-> 
+>
 > High-skill immigrants are known for their higher rates of patenting and entrepreneurship, effectively augmenting the productivity and innovation in domestic firms.
 
 ## Challenges and Counterarguments

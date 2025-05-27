@@ -3,9 +3,9 @@ title: Role of market makers in finance and crypto
 videoId: 3BBNG0TlVwM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 Market makers play a crucial role in financial markets, both traditional and crypto, by providing liquidity and facilitating trading. Their presence ensures that traders can buy and sell assets more easily, which stabilizes markets and contributes to their efficiency.
 
 ## The Role of Market Makers in Traditional Finance

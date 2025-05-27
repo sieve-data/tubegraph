@@ -3,7 +3,7 @@ title: AI alignment and takeover scenarios
 videoId: KUieFuV1fuo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The topic of [[ai_alignment_and_takeovers | AI alignment]] and the potential takeover by unaligned AI systems has become a critical and widely discussed issue among experts working on [[ai_safety_and_security_measures | artificial intelligence safety]]. In this article, we will delve into various scenarios where AI could potentially disempower or take over humanity, as discussed in a conversation with experts on the subject.
 
 ## What is AI Alignment?

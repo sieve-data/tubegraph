@@ -3,7 +3,7 @@ title: Hardware and software advancement in AI
 videoId: _kRg-ZP1vQc
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with Carl Shulman, a research associate at the Future of Humanity Institute and an advisor to the Open Philanthropy project, key insights into the ongoing advancements in AI hardware and software were shared. Shulman outlines the rapidly evolving landscape of artificial intelligence, highlighting hardware and software's integral roles in pushing the boundaries of what's possible.
 
 ## The Role of Hardware in AI
@@ -25,5 +25,5 @@ One of the critical insights from Shulman's discussion is the potential for feed
 Shulman posits that the effective synergy between improved hardware and enhanced software methodologies is pivotal in reducing the time between doublings of AI capabilities <a class="yt-timestamp" data-t="01:35:34">[01:35:34]</a>. This trajectory suggests a future where AI systems continue to grow in power and efficiency, potentially leading to an [[intelligence_explosion_and_ai_progress | intelligence explosion]] where AI systems rapidly develop new capabilities and solve complex problems at unprecedented scales.
 
 > [!info] Summary
-> 
+>
 > Carl Shulman's insights emphasize the symbiotic relationship between hardware enhancements and software innovations in AI. As these two pillars of AI development continue to advance, they fuel a virtuous cycle of accelerated technological progress, pointing to an exciting and transformative future for artificial intelligence.

@@ -3,7 +3,7 @@ title: Role and impact of Reinforcement Learning with Human Feedback (RLHF)
 videoId: Wo95ob_s_NI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Reinforcement Learning with Human Feedback (RLHF) is an essential component in modern AI models, particularly in how they interact with and adapt to human preferences. In this discussion led by John Schulman, co-founder of OpenAI, various insights into the functionality and ramifications of RLHF are unfolded.
 
 ## What is RLHF?

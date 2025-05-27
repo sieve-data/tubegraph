@@ -3,7 +3,7 @@ title: Censorship and historical revisionism in China
 videoId: -VeZp2d7mDs
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Censorship is a powerful tool utilized by the Chinese government to control information and maintain a particular narrative of history. During the podcast interview with Yung Chang, several aspects of censorship and historical revisionism in China were discussed, particularly focusing on its impact on the understanding of history among Chinese citizens.
 
 ## The Role of Censorship

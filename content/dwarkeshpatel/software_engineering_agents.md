@@ -3,7 +3,7 @@ title: Software Engineering Agents
 videoId: 64lXQP6cs5M
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Software engineering agents are becoming increasingly capable and are expected to revolutionize the workflow and productivity in software development by 2025. As these agents continue to advance, they promise to take on a more substantial role in the tech industry.
 
 ## Agents and Their Capabilities

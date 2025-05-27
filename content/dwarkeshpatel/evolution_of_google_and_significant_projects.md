@@ -3,14 +3,14 @@ title: Evolution of Google and significant projects
 videoId: v0gjI__RyCY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 Google, now a household name, has not only transformed the way we access information but also how we interact with technology. Through the years, several key projects and innovations have marked its journey. This article delves into some of the significant projects undertaken by Google that have been discussed by Jeff Dean and Noam Shazeer.
 
 ## Early Days and Key Innovations
 
-Google started as a small company but quickly grew into a tech giant. When Jeff Dean joined at the end of 2000, Google had only about 25 employees. As he mentioned, everyone knew nearly everyone's name and projects. Over time, this changed dramatically as the company expanded, and it became impossible to keep track of all ongoing projects and new hires <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. 
+Google started as a small company but quickly grew into a tech giant. When Jeff Dean joined at the end of 2000, Google had only about 25 employees. As he mentioned, everyone knew nearly everyone's name and projects. Over time, this changed dramatically as the company expanded, and it became impossible to keep track of all ongoing projects and new hires <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
 
 ### Mentor System and the Early Workforce
 
@@ -40,7 +40,7 @@ Jeff Dean highlighted how Moore's Law influenced decision-making at Google. Init
 
 ### Organizational Complexity
 
-As Google grew, maintaining pace with project scale and complexity became challenging. Dean illustrated this through an anecdote about Project Platypus, a surprise internal project that underscored how expansive Google's operations had become <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. 
+As Google grew, maintaining pace with project scale and complexity became challenging. Dean illustrated this through an anecdote about Project Platypus, a surprise internal project that underscored how expansive Google's operations had become <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>.
 
 ## Conclusion
 

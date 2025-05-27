@@ -3,7 +3,7 @@ title: Imperial Japan's history and militarization
 videoId: rsJxlybPByM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Imperial Japan's period of rapid militarization and expansion in the early 20th century is a significant chapter in global history, marked by its transformation from a feudal society to a formidable world power. This article will explore the historical context, motivations, and consequences of Japan's militarization, with insights drawn from a comprehensive discussion in a recent podcast.
 
 ## Historical Context of Militarization

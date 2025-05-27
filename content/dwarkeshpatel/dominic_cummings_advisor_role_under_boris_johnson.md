@@ -3,7 +3,7 @@ title: Dominic Cummings' advisor role under Boris Johnson
 videoId: 3i7ym_Qh7BA
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Dominic Cummings, a significant figure in British politics, served as the chief advisor to Prime Minister Boris Johnson. His tenure was marked by a distinct approach to management and policy-making, which often clashed with traditional governmental norms. This article delves into the nuances of Cummings' role and the impact he had during his time in Number 10 Downing Street.
 
 ## The Environment of Number 10

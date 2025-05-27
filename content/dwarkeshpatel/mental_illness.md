@@ -3,7 +3,7 @@ title: Mental Illness
 videoId: i70j-ZCPhXg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion featuring economist Bryan Caplan, various aspects of mental illness were explored. Caplan's perspective on mental illness challenges traditional viewpoints, arguing for a more nuanced understanding of the discrepancies in human behavior often labeled under this term. Below, we delve into key elements of his discussion, offering insights and critiques.
 
 ## Unitary vs. Non-Unitary Models of Human Behavior
@@ -23,8 +23,8 @@ The discussion touches on hyperbolic discounting—a concept used to explain sel
 Caplan appears to advocate for a reconsideration of what constitutes mental illness, suggesting that many diagnosed cases may not necessarily align with the notion of a classical disease. He posits that a significant portion of what we currently classify as mental illness could be better understood as expressions of atypical behavior within society's framework rather than being inherently pathological [<a class="yt-timestamp" data-t="00:47:29">[47:29]</a>].
 
 > [!info] Conceptualizing Mental Illness
-> 
-> Caplan mentions the influence of Thomas Szasz, who argued against the idea of mental illness as a literal disease, instead describing it as a conceptual idea [<a class="yt-timestamp" data-t="00:48:32">[48:32]</a>]. 
+>
+> Caplan mentions the influence of Thomas Szasz, who argued against the idea of mental illness as a literal disease, instead describing it as a conceptual idea [<a class="yt-timestamp" data-t="00:48:32">[48:32]</a>].
 
 ## Implications for Treatment and Diagnosis
 

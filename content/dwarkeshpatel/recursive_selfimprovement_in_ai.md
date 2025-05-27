@@ -3,7 +3,7 @@ title: Recursive self-improvement in AI
 videoId: 6yQEA18C-XI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Recursive self-improvement is one of the prominent topics in discussions about artificial intelligence. It refers to the ability of an AI system to iteratively improve its own algorithms and capabilities without human intervention. This concept has been highlighted and debated in various forums, and in a recent debate between George Hotz and Eliezer Yudkowsky, this topic was central to the discussion.
 
 ## The Concept of Recursive Self-Improvement

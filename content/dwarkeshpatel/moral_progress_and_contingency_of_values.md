@@ -3,7 +3,7 @@ title: Moral progress and contingency of values
 videoId: SMEfl5maB8k
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Moral progress and the contingency of values are topics that draw significant interest in philosophical and ethical discussions. In a recent discussion with William McCaskill, a prominent figure in the [[effective_altruism_movement | effective altruism movement]], these themes were explored extensively, revealing deep insights into how moral values can shift over time and how those shifts aren't as straightforward as one might think.
 
 ## Understanding Moral Contingency
@@ -27,5 +27,5 @@ The concept of "long reflection" is central to McCaskill's strategy for achievin
 McCaskill's view is not that we can or should avoid moral progress but rather that we should be cautious and deliberate in shaping the values that future generations will inherit. This approach underscores a belief in the moral responsibility of current generations to ensure ethical improvements continue to evolve rather than stagnate or regress.
 
 > [!info] Conclusion
-> 
+>
 > McCaskill's exploration of moral progress and the contingency of values emphasizes the fluidity of ethics over time and the responsibility to carefully navigate this moral landscape. By engaging deeply with these concepts, he encourages us to strive not for immediate lock-in of today's values but for an enduring conversation about what is ethically best for future generations.

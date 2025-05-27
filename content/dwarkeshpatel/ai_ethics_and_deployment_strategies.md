@@ -3,7 +3,7 @@ title: AI Ethics and deployment strategies
 videoId: Wo95ob_s_NI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 AI ethics and the strategies around the deployment of artificial intelligence systems are critical considerations for ensuring safety and alignment with human values. In a conversation with John Schulman, co-founder of OpenAI, several insights were shared on how AI can be responsibly developed and integrated into society. This article will explore these key considerations as discussed in the conversation.
 
 ## Understanding AI Deployment Risks
@@ -11,7 +11,7 @@ AI ethics and the strategies around the deployment of artificial intelligence sy
 As AI systems become increasingly capable, the risk associated with their deployment grows. Schulman expresses concern that AGI (Artificial General Intelligence) could arrive sooner than expected, which would require organizations to re-evaluate their strategies for [[challenges_and_considerations_for_achieving_agi | training and deploying AI systems]] (<a class="yt-timestamp" data-t="00:20:30">[00:20:30]</a>).
 
 > [!info] The Importance of Caution
-> 
+>
 > Schulman emphasizes the need for caution in training and deploying advanced AI systems. If AGI were to come sooner, he suggests [[ai_safety_and_prevention_strategies | slowing down the development process]] to ensure safe deployment (<a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>).
 
 ## Ethical Considerations in AI Deployment

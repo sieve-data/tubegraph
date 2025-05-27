@@ -3,7 +3,7 @@ title: Challenges and considerations for achieving AGI
 videoId: Wo95ob_s_NI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The quest for Artificial General Intelligence (AGI) is one of the most ambitious undertakings in the field of artificial intelligence. John Schulman, a co-founder of OpenAI, discusses some critical insights into this journey in a recent podcast. This article explores the challenges and considerations highlighted by Schulman in achieving AGI, referencing specific timecodes from the podcast for additional context.
 
 ## Understanding AGI
@@ -45,7 +45,7 @@ Designing AGI systems aligns with diverse stakeholder interests, including devel
 Schulman remains optimistic about the continued integration of new modalities and improvement of AI capabilities through pre- and post-training. These advancements will enable AI to fulfill more roles within the economy, eventually contributing to a new era of technological and scientific progress, as discussed in [[future_capabilities_and_progress_of_ai_models | AI progress forecasting]] <a class="yt-timestamp" data-t="01:02:01">[01:02:01]</a>.
 
 > [!info] Conclusion
-> 
+>
 > The journey towards AGI is fraught with technical, ethical, and safety challenges. Addressing these requires concerted effort across technological innovation, international cooperation, and ethical foresight. As researchers like Schulman continue to pioneer advancements, the possibility of safe and aligned AGI becomes increasingly tangible.
 
 For further insights, the full podcast can provide additional context and elaborate on these complex topics further.

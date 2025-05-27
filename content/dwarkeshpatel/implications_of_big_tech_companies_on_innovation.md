@@ -3,7 +3,7 @@ title: Implications of big tech companies on innovation
 videoId: Ayewh_O0LPQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion featuring Caleb Watney, Director of Innovation Policy at the Progressive Policy Institute, several key insights were offered regarding the role and effects of big tech companies on innovation. Addressing the concerns raised by some sectors, Watney shared his perspective on whether the size and influence of these companies are detrimental or beneficial to the broader innovation landscape.
 
 ## Concerns About Big Tech Companies

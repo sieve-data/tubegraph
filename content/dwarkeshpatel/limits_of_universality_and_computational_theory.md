@@ -3,7 +3,7 @@ title: Limits of Universality and Computational Theory
 videoId: EVwjofV5TgU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent conversation with David Deutsch, key insights were shared regarding the universality of computation and its inherent limits. Deutsch, a physicist known for his work on the theory of quantum computation and the [[the_development_and_challenges_of_quantum_computing | multiverse]], provides a profound understanding of the computational principles that govern our perception of the universe and explore whether a universal computer could simulate the entirety of the universe.
 
 ## Computational Universality
@@ -11,7 +11,7 @@ In a recent conversation with David Deutsch, key insights were shared regarding 
 The concept of computational universality is fundamental in understanding the capabilities and limits of computational systems. A universal computer, as posited by Alan Turing and further expanded by Deutsch, is theoretically capable of simulating any physical process given enough time and resources. This principle, known as the "Turing Principle" or "Church-Turing-Deutsch Principle," posits that any computation performed by one computer can be simulated by another, universal computer [<a class="yt-timestamp" data-t="00:38:47">00:38:47</a>].
 
 > [!info] Turing Principle
-> 
+>
 > The Turing Principle implies that universal computers, in theory, can simulate any physical process.
 
 However, Deutsch elucidates that while a universal computer can simulate various aspects of reality, it is constrained by practical limitations such as [[role_of_memory_in_learning | memory]] and time, which are finite in any feasible system [<a class="yt-timestamp" data-t="00:39:00">00:39:00</a>].

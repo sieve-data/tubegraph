@@ -3,7 +3,7 @@ title: Impact of AI on labor and economy
 videoId: _kRg-ZP1vQc
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The ongoing advancements in artificial intelligence (AI) are rapidly reshaping the labor market and economic landscape. During a podcast discussion with Carl Shulman, a research associate at the Future of Humanity Institute, insightful perspectives were shared on how AI is transforming these domains. Here, we distill the key points discussed in the conversation.
 
 ## AI and Workforce Dynamics
@@ -25,8 +25,7 @@ An anticipated consequence of AI advancement is the tremendous increase in produ
 Additionally, the capability of AIs to automate entire production processes suggests an evolution towards a highly automated economic system. This could result in a world where the swift doubling of industrial production capabilities becomes feasible, tempered only by the available infrastructure to support such rapid growth [[development_and_challenges_in_ai_scaling_and_optimization | and scalability challenges]].
 
 > [!info] Key Takeaway
-> 
+>
 > AI is poised to transform labor and economic frameworks through enhanced efficiency, productivity, and automated processes. Shulman's insights foretell an economic environment increasingly influenced by AI, emphasizing the need for strategic management to balance technological advancements with societal well-being [[potential_risks_and_benefits_of_ai_in_society | and benefits or risks to society]].
-
 
 This exploration of AI's impact on labor and economy underscores a future where AI is much more than a tool—it becomes a central player in shaping economic processes, demanding thoughtful considerations on its integration into our societal fabric [[the_future_of_ai_research_and_potential_societal_impacts | with potential societal impacts requiring attention]].

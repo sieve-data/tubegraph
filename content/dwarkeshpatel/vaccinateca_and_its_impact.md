@@ -3,7 +3,8 @@ title: VaccinateCA and its Impact
 videoId: 18zpjpPNWRw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## VaccinateCA: A Groundbreaking Initiative During the COVID-19 Pandemic
 
 In early 2021, amidst the chaos of the COVID-19 pandemic, Patrick McKenzie, known online as "patio11," emerged as a pivotal figure in one of the most effective civilian initiatives to address vaccine distribution inefficiencies in the United States. This initiative, known as VaccinateCA, not only aimed to streamline information on vaccine availability but ultimately played a significant role in saving lives during this crucial period.

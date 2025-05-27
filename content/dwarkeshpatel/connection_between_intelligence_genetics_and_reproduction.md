@@ -3,7 +3,7 @@ title: Connection between intelligence, genetics and reproduction
 videoId: sh04dEtBAoE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with Razib Khan, a prominent science blogger and geneticist, the intricate relationship between intelligence, genetics, and reproduction was explored. This article delves into the complexities of how these factors interplay, particularly in the context of genetic selection and evolutionary trends.
 
 ## Intelligence and Reproductive Trends
@@ -27,7 +27,7 @@ Looking ahead, Khan speculated on the roles gene editing might play in augmentin
 The conversation concluded with a broader reflection on why society funds scientific research if it is not driven by a passion for truth. Khan underscored that without a genuine pursuit of knowledge, institutions could dissolve as priorities shift away from intellectual and scientific goals [[the_challenges_and_strategies_in_science_and_research_funding | the challenges and strategies in science and research funding]] <a class="yt-timestamp" data-t="00:43:02">[00:43:02]</a>.
 
 > [!info] Razib Khan's Perspective
-> 
+>
 > Khan expressed concerns that if individuals involved in scientific institutions are not there for the pursuit of truth, but rather for other reasons such as comfort or community belonging, the integrity and survival of these institutions could be compromised <a class="yt-timestamp" data-t="00:43:02">[00:43:02]</a>.
 
 In summary, the intricate interplay between intelligence, genetics, and reproduction presents significant challenges and opportunities. Whether through natural selection processes or future genetic interventions, the balance of cognitive abilities and reproductive success remains a focal point for both scientific inquiry and societal evolution [[evolution_of_human_cognitive_abilities | evolution of human cognitive abilities]].

@@ -3,7 +3,7 @@ title: The role of Hungarian and Central European Jews in scientific advancement
 videoId: faZI6OBOopE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In the early 20th century, a remarkable cluster of scientific geniuses emerged from Hungary and Central Europe, many of whom were Jewish. This intellectual efflorescence broadly influenced the development of several critical fields, from mathematics and quantum mechanics to computer science and economics. The confluence of historical, cultural, and educational factors contributed significantly to this scientific flowering.
 
 ## Historical and Cultural Context
@@ -23,7 +23,6 @@ A fascinating aspect of this intellectual movement was a group of Hungarian scie
 These Central European Jews, including von Neumann, were instrumental in not only pushing the boundaries of their respective fields but also in establishing new branches of knowledge:
 
 - **Quantum Mechanics**: Von Neumann's involvement with quantum mechanics led to the first mathematically rigorous version of this theory [[quantum_mechanics_and_fundamental_discoveries]] [00:08:42](<a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>).
-  
 - **Mathematics and Computer Science**: His work laid the foundation for computer architecture and programming paradigms, further stoked by his practical applications of mathematics [[development_and_impact_of_ai_technologies_including_llms]] [00:09:01](<a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>).
 
 - **Game Theory and Economics**: Von Neumann's game theory recast economics into a more mathematical form, influencing how conflict and cooperation are understood today [[von_neumanns_influence_on_computer_science_and_game_theory]] [00:30:00](<a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>).

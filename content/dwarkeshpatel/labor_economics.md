@@ -3,8 +3,8 @@ title: Labor Economics
 videoId: i70j-ZCPhXg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-Labor economics is the field of economics that focuses on understanding how labor markets function, examining the dynamics between workers and employers, and exploring factors such as employment, wages, productivity, and policy. In a recent conversation, Brian Caplan delves into various aspects of labor economics, drawing insights from his book "Labor Econ Versus the World". 
+From: [[dwarkeshpatel]] <br/>
+Labor economics is the field of economics that focuses on understanding how labor markets function, examining the dynamics between workers and employers, and exploring factors such as employment, wages, productivity, and policy. In a recent conversation, Brian Caplan delves into various aspects of labor economics, drawing insights from his book "Labor Econ Versus the World".
 
 ## Understanding Zero or Negative Productivity
 

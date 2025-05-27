@@ -3,7 +3,7 @@ title: Infrastructure and energy challenges for AI
 videoId: bc6uFV9CJGg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 As artificial intelligence (AI) continues to advance, a significant challenge facing the industry is the infrastructure and energy requirements needed to support these burgeoning technologies. In a recent podcast discussion, several key aspects were highlighted regarding how AI is pushing the boundaries of infrastructure and the energy industry.
 
 ## The Growing Need for Larger Data Centers

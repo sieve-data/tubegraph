@@ -3,7 +3,7 @@ title: Strategic Importance of Energy Resources in Warfare
 videoId: sveBcfz0fHk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Energy resources, particularly oil, have played a pivotal role in the dynamics of warfare throughout modern history. Daniel Yergin, a leading authority on energy, discusses this in detail, tracing the importance of oil from its initial uses to its current geopolitical implications.
 
 ## Early Recognition of Oil's Military Value

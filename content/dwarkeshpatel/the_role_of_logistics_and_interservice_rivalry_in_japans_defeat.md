@@ -3,7 +3,7 @@ title: The role of logistics and interservice rivalry in Japan's defeat
 videoId: Znk5QINe01A
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the article with the backlinks embedded:
 
 Japan's efforts during World War II were marred by significant issues related to logistics and interservice rivalry, fundamentally impacting their ability to sustain and effectively execute their military operations. This article explores how these factors contributed to Japan's ultimate defeat in World War II.
@@ -29,5 +29,5 @@ These logistical and interservice challenges significantly impeded Japan's war e
 The combination of these inadequacies created a scenario where Japan was unable to sustain prolonged military engagements against the better-supported Allied forces, leading to its eventual strategic defeat.
 
 > [!info] Key Takeaway
-> 
+>
 > Japan’s defeat in World War II was significantly influenced by logistical limitations and interservice rivalry, highlighting the necessity of robust logistics and integrated military strategy in sustaining effective wartime operations.

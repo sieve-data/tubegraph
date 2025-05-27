@@ -3,7 +3,7 @@ title: Immigration and refugee integration
 videoId: jmWmrx6ki9Q
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent podcast discussion, economist Bryan Caplan shared his insights on immigration and refugee integration, drawing on both his research and direct experiences from a recent trip to Eastern Europe during the Ukrainian refugee crisis. Caplan, known for his book "Open Borders: The Science and Ethics of Immigration," argues strongly in favor of more open immigration policies based on both humanitarian and economic grounds.
 
 ## The Polish Model of Refugee Integration
@@ -14,8 +14,8 @@ One of the major highlights from Caplan’s trip was the warm reception and effe
 
 This success can largely be attributed to Poland's immediate allowance for refugees to enter the workforce. Ukrainian refugees were allowed to work the day they arrived, contrasting with the typical restrictive policies that keep refugees dependent on welfare while awaiting approval to work.
 
-> [!info] Polish Work Policies 
-> 
+> [!info] Polish Work Policies
+>
 > Unlike typical refugee policies that restrict work opportunities, Poland allowed refugees to work immediately upon arrival, facilitating smoother integration into society. <a class="yt-timestamp" data-t="01:25:02">[01:25:02]</a>
 
 ## Lessons from Poland for Other Nations

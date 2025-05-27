@@ -3,7 +3,7 @@ title: AI scaling and its effectiveness
 videoId: Nlkk3glap_U
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 AI scaling, a topic of considerable fascination and debate, pertains to how the performance and capabilities of AI models improve as more computational resources and data are dedicated to them. This concept was discussed extensively in a podcast featuring Dario Amodei, CEO of Anthropic, where he shared insights into why scaling works, the challenges associated with it, and its implications for future AI development.
 
 ## Understanding AI Scaling
@@ -11,7 +11,7 @@ AI scaling, a topic of considerable fascination and debate, pertains to how the 
 Scaling in AI refers to the process by which AI models improve in performance predictably as their size, the amount of data they handle, and computational resources increase. Amodei notes that while the relationship between scaling and improvement in AI capabilities has been observed empirically, a comprehensive theoretical understanding remains elusive. The scaling works well with models such as language models, where increasing the size and training data results in a smooth improvement in performance, often measurable in terms like "loss" — a statistical average indicating the prediction errors of the model ([00:03:02](a)).
 
 > [!info] The Mystery Behind Scaling
-> 
+>
 > Despite the results, the underlying reasons why AI scales so effectively are still unknown. It appears smooth and predictable, akin to laws found in physics, but the exact mechanisms remain mysterious, according to Amodei ([00:02:12](a)).
 
 ## The Predictability and Challenges of Scaling

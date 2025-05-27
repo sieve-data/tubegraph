@@ -3,7 +3,8 @@ title: Venture capital and entrepreneurial capitalism
 videoId: kNsi5XVDTTM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Venture Capital and Entrepreneurial Capitalism
 
 In a recent discussion with Marc Andreessen on The Lunar Society podcast, the intricate relationship between venture capital and entrepreneurial capitalism was a central focus. Andreessen, a prominent venture capitalist and a co-founder of Andreessen Horowitz (a16z), delved into how venture capital plays a pivotal role in nurturing entrepreneurial capitalism and its impact on [[the_role_and_future_of_venture_capital_in_tech | modern economic models]].

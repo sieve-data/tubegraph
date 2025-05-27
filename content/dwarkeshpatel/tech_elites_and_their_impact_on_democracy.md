@@ -3,7 +3,7 @@ title: Tech elites and their impact on democracy
 videoId: nvL3vqMzznY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The rise of tech elites, particularly in Silicon Valley, has sparked significant discussion about their influence on democratic systems. This influence stems not only from their innovation and financial capital but also from their distinct mindset and approach to existing institutions. In this article, we delve into the impact of tech elites on democratic processes, informed by Nadia Asparouhova's insights in a recent podcast discussion.
 
 ## The Tech Elite Mindset
@@ -23,7 +23,7 @@ The emergence of tech elites has posed challenges to traditional democratic proc
 Moreover, the tech elite's preference for empowering individual content creators over traditional institutions raises the question of long-term sustainability [[future_enforcement_of_contracts_with_strong_privacy_and_reputation_systems | privacy and reputation systems]]. As Asparouhova points out, the startup ethos often opposes building legacy institutions, opting instead to focus on individual influence, which can lead to volatile power dynamics [[meritocracy_and_representation_in_business | meritocratic dynamics]].
 
 > [!info] Thinking Ahead
-> 
+>
 > The question remains whether tech elites' influence will yield a new form of democratic engagement or if it will merely create alternate power structures [[role_of_elite_technocracy_in_governance | technocracy in governance]]. History suggests that individual behaviors eventually codify into institutions, but the startup mindset is inherently anti-institutional [[historical_and_philosophical_influences_on_technology | historical influences]].
 
 ## Conclusion

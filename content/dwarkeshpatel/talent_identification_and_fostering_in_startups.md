@@ -3,7 +3,7 @@ title: Talent identification and fostering in startups
 videoId: OEcOUgXvz7g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Talent identification and fostering within startups is a critical factor for success in the high-stakes environment of the technology sector. In a discussion with Jimmy Soni, author of "The Founders: The Story of PayPal and the Entrepreneurs Who Shaped Silicon Valley," insights are shared about how [[the_story_of_paypal_and_its_challenges | PayPal]]—a quintessential tech startup success story—cultivated a powerhouse culture of talent that led to staggering innovations both within and beyond the company.
 
 ## Understanding the Talent Spotting Process

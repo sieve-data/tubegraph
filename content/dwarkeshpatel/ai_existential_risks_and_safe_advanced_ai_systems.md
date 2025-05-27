@@ -3,7 +3,7 @@ title: AI existential risks and safe advanced AI systems
 videoId: M3TUe4zUCKk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In recent discussions with Joe Carl Smith, a senior research analyst at Open Philanthropy and a doctoral student in philosophy at the University of Oxford, the focus was on the existential risks posed by artificial intelligence (AI) and the development of advanced AI systems that are safe. This article synthesizes insights shared in the video interview regarding the potential threats of AI and the importance of ensuring safety in its evolution.
 
 ## Understanding AI Existential Risks
@@ -19,7 +19,7 @@ Creating **safe AI systems** involves ensuring that as AI systems become more ad
 Joe Carl Smith suggests that part of this involves thinking seriously about AI governance and policy to mitigate risks and foster collaboration among stakeholders involved in AI development [[strategic_international_coordination_on_ai_governance | (Strategic International Coordination on AI Governance)]]. This means counting less on having more time when AI approaches transformative capabilities sooner than expected, and taking into account probabilities of catastrophic outcomes in how priorities are set [[ai_progress_forecasting | (AI Progress Forecasting)]] (<a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>).
 
 > [!info] Importance of Prioritization
-> 
+>
 > The implications of AI risk are significant in terms of prioritizing efforts. A higher perceived probability of catastrophic AI events makes it essential to redefine priorities to ensure safety measures are implemented effectively in anticipation of rapid technological advancements.
 
 ## Long-termism and Future Considerations

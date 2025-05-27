@@ -3,7 +3,7 @@ title: Virtual land and digital real estate
 videoId: sL-qkv7Pzxo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concept of virtual land and digital real estate is becoming an increasingly pertinent topic, especially in the context of digital economies and gaming environments. In the pursuit of understanding this new territory, it is important to explore how traditional economic theories, such as [[georgism_and_land_value_tax | Georgism]], can be applied to these emerging types of assets.
 
 ## The Concept of Virtual Land

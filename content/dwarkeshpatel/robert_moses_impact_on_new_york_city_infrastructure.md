@@ -3,7 +3,7 @@ title: Robert Moses' impact on New York City infrastructure
 videoId: Gumo8zmgLqM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the article:
 
 Robert Moses remains a pivotal figure in the transformation of New York City's infrastructure landscape. His legacy includes an array of public works that have fundamentally shaped the city, often amid significant controversy and debate. This article delves into the significant impact Moses had on the infrastructure of New York City, leveraging insights from a recent podcast featuring Professor Kenneth T. Jackson, a preeminent historian on New York City.
@@ -19,7 +19,7 @@ Described as an unparalleled urban figure in American history, Moses wielded tre
 Despite his significant contributions, Moses was known for his ruthless and arrogant demeanor, qualities that, while controversial, enabled him to realize his vision despite resistance from numerous stakeholders, [[historical_and_future_perspective_on_urban_development_and_planning | including mayors and governors]] <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a> and <a class="yt-timestamp" data-t="01:00:56">[01:00:56]</a>.
 
 > [!info] Ruthless Efficiency
-> 
+>
 > Moses' ability to push through projects on time and under budget is highlighted as one of his defining achievements. His capacity to achieve this without scandals is noted as a notable contrast to modern challenges in public project execution <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>.
 
 ## Controversies and Criticisms

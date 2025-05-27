@@ -3,7 +3,7 @@ title: Military and economic strategies in historical and modern contexts
 videoId: 9P2rk0Gtd0I
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Military and economic strategies have evolved considerably over time, adapting to changes in technology, societal structures, and geopolitical landscapes. In this article, we explore some key historical and modern contexts, examining how these strategies have been applied and their impacts throughout history.
 
 ## Historical Strategies

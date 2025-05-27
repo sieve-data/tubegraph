@@ -3,7 +3,7 @@ title: Utopia and radically better futures
 videoId: M3TUe4zUCKk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Utopia, a concept often discussed in philosophical and ethical debates, is defined as a "profoundly better future." In a conversation with Joe Carl Smith, a senior research analyst at Open Philanthropy and doctoral student in philosophy, various dimensions of utopian thinking and its significance were explored.
 
 ## Defining Utopia
@@ -11,7 +11,7 @@ Utopia, a concept often discussed in philosophical and ethical debates, is defin
 Utopia isn't just an idealistic dream; it represents a future we can potentially create. Joe Carl Smith asserts that a utopian world is not just a fictional narrative but an attainable goal if approached correctly. He notes that crafting such a world involves envisioning a society that is "radically better than the world we live in today" [<a class="yt-timestamp" data-t="00:00:10">00:00:10</a>].
 
 > [!info] Utopia Defined
-> 
+>
 > Utopia is viewed as a "profoundly better future," a concept that emphasizes the potential for societal transformation into a significantly improved state.
 
 ## The Importance of Utopian Thinking

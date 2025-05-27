@@ -3,7 +3,7 @@ title: Potential risks and benefits of AI in society
 videoId: WLBsUarvWTw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The integration of Artificial Intelligence (AI) into various sectors of society has stimulated a broad discourse concerning its potential risks and benefits. Tamay Besiroglu and Ege Erdil, during their engaging discussion on AI's future impact, provide significant insights into this dynamic [00:00:47](<a class="yt-timestamp" data-t="00:00:47">00:00:47</a>). In exploring both the advantageous potentials and the looming threats of AI, their discourse presents a comprehensive picture of what AI could mean for the future of society.
 
 ## Benefits of AI in Society

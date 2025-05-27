@@ -3,7 +3,7 @@ title: Decentralization and central planning
 videoId: EY2nbAVZB-k
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The discussion of decentralization and central planning is a topic that has intrigued economists, policymakers, and scholars for generations. This article explores the insights shared in a recent podcast discussion that touched upon various aspects of this subject, examining how these concepts are applied in modern economies and what lessons can be drawn from historical examples.
 
 ## The Firm as a Planning Entity
@@ -11,7 +11,7 @@ The discussion of decentralization and central planning is a topic that has intr
 A key point raised was the traditional view of firms as entities of central planning within the marketplace. This idea stems from Ronald Coase's famous 1937 article, which posited that firms engage in planning while markets deal with decentralization. However, the podcast guest argues for a different perspective, suggesting that firms are more integrated with market mechanisms than traditionally thought. Firms constantly interact with the market through contracts and are bound by market forces, making them less centralized in practice than Coase's model suggests (<a class="yt-timestamp" data-t="00:25:23">[00:25:23]</a>).
 
 > [!info] Coase’s Perspective
-> 
+>
 > Coase viewed the firm as a central planner, juxtaposed against the market's decentralized nature. This view is challenged by the assertion that firms operate within market dynamics, making them an integral part of decentralization rather than isolated planning units.
 
 ## Soviet Planned Economy and Its Collapse

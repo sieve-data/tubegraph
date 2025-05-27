@@ -3,7 +3,7 @@ title: Adverse selection in trading
 videoId: 3BBNG0TlVwM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Adverse selection is a concept commonly discussed in the realms of economics and trading, often relating to situations where sellers have information that buyers do not, or vice versa. In the context of trading, adverse selection plays a critical role, affecting how trades are made, the efficiency of markets, and the ultimate profitability of trading firms. Augustine Lebron, author of "The Laws of Trading," discusses several aspects of adverse selection in trading during the podcast.
 
 ## Understanding Adverse Selection

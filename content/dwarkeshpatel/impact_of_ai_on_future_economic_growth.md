@@ -3,7 +3,7 @@ title: Impact of AI on Future Economic Growth
 videoId: UckqpcOu5SY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The onset of advanced AI technologies promises significant changes in the economic growth patterns of the future. Holden Karnofsky, co-CEO of Open Philanthropy, discussed these potential transformations in a recent conversation about the "Most Important Century" thesis, positing that we could be on the brink of a wave of technological advancements that could fundamentally alter our economy [[historys_most_important_century_thesis | (Read more about "Most Important Century" thesis)]] (<a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>).
 
 ## Economic Growth Acceleration
@@ -29,7 +29,7 @@ AI can potentially rejuvenate economic growth by reintroducing the feedback loop
 Karnofsky warns against the potential for a stable yet stagnant economic future if AI leads to a lock-in effect, where power and resources might concentrate, potentially leading to less dynamic, more controlled economic environments. This scenario demands careful consideration of AI deployment to ensure that innovation continues to drive economic growth [[ai_ethics_and_deployment_strategies | (Explore AI ethics and deployment strategies)]] (<a class="yt-timestamp" data-t="01:01:16">[01:01:16]</a>).
 
 > [!info] Economic Implications of AI
-> 
+>
 > While AI holds the promise of reinvigorating economic growth, it's crucial to address the ethical and strategic measures associated with its deployment to ensure a sustainable and equitable future economic environment.
 
 In conclusion, AI's impact on future economic growth hinges on how these technologies are deployed, managed, and integrated into existing economic structures. The potential for AI to revive the cycle of accelerating economic growth is significant, yet contingent on overcoming practical and ethical challenges inherent in such transformative developments [[ai_alignment_and_risks | (Consider AI alignment and risks)]].

@@ -3,7 +3,7 @@ title: Efficient dating markets and online dating challenges
 videoId: 3svashDgB50
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent interview with Dr. David Friedman, an economist and author, the topic of the efficiency of dating markets and the challenges facing online dating systems was explored deeply. This discussion revolved around the nuances of how dating markets work and why online dating hasn't revolutionized the search for romantic partners as one might expect.
 
 ## Understanding the Dating Market

@@ -3,7 +3,7 @@ title: Primate brain evolution and intelligence
 videoId: _kRg-ZP1vQc
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In the recent discussion with Carl Shulman, several fascinating insights into [[neuroscience_insights_on_intelligence_and_ai | primate brain evolution and its implications for understanding intelligence]] were explored. This discussion provides a window into how natural selection for cognitive abilities occurred and how this knowledge can be applied to the development of artificial intelligence.
 
 ## The Scale-up of Primate Brains

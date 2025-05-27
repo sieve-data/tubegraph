@@ -3,7 +3,7 @@ title: Role and influence of intelligence in progress
 videoId: GT_sXIUJPUo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The role of intelligence in driving economic and technological progress is a point of considerable discussion among experts. In this article, we delve into how intelligence impacts growth, the constraints it faces, and whether it holds the key to explosive development or not.
 
 ## Intelligence and Economic Growth

@@ -3,7 +3,7 @@ title: Human and Neanderthal genetic relationships
 videoId: Uj6skZIxPuI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The genetic history of humans and Neanderthals provides fascinating insights into the intricate tapestry of our evolutionary journey. David Reich, a Harvard geneticist, offered profound insights into these connections in a recent discussion.
 
 ## Overview of Genetic Data Sources
@@ -23,7 +23,7 @@ The interactions between humans and Neanderthals involved substantial gene flow 
 The conversation unveiled that the genetic story of humans is still being patched with newer findings challenging the past dogma. The complexity of Neanderthal and modern human genome intermixing points towards a non-linear and interconnected evolution rather than a series of isolated incidents [[cultural_evolution_and_collective_brains | cultural evolution and collective brains]].
 
 > [!info] Sequencing Insights
-> 
+>
 > Advances in ancient DNA sequencing have provided insights that have reshaped our understanding of human evolution.
 
 ## Current Challenges and Future Directions

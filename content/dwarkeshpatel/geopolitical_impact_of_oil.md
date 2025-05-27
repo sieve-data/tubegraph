@@ -3,7 +3,7 @@ title: Geopolitical Impact of Oil
 videoId: sveBcfz0fHk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Oil has been a pivotal factor in shaping global geopolitics throughout the 20th and 21st centuries. Its influence spans military strategies, economic policies, and international relations. In an interview with Daniel Yergin, a leading authority on energy, several key aspects of the geopolitical impact of oil were discussed, outlining how oil has been a strategic resource and its influence on international dynamics.
 
 ## The Strategic Resource in Warfare

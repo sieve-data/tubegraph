@@ -3,7 +3,7 @@ title: Open source software management and maintenance
 videoId: nvL3vqMzznY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Open source software (OSS) has long been regarded as a cornerstone of [[the_impact_and_future_of_opensource_software | innovation in the tech industry]], but it brings with it unique challenges in terms of management and maintenance. In a recent podcast discussion, Nadia Asparouhova delved into these issues, drawing on her extensive research and experience.
 
 ## The Wizard Behind the Curtain
@@ -11,7 +11,7 @@ Open source software (OSS) has long been regarded as a cornerstone of [[the_impa
 One of the myths surrounding open source is the perception of it as purely collective and volunteer-driven. In reality, Asparouhova points out that many open source projects hinge on the efforts of a single individual. This "Wizard of Oz" model suggests that behind the grand facade of collaboration, it is often one person who takes on the brunt of the management and maintenance tasks <a class="yt-timestamp" data-t="17:37">[17:37]</a>.
 
 > [!info] The Hidden Figure
-> 
+>
 > The maintenance of open source projects frequently falls on one person's shoulders, who manages the intricacies that the broader community might overlook <a class="yt-timestamp" data-t="17:37">[17:37]</a>.
 
 ## The Reality of Contribution

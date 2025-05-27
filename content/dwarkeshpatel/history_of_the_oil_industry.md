@@ -3,12 +3,12 @@ title: History of the Oil Industry
 videoId: sveBcfz0fHk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The history of the oil industry is a fascinating tale of innovation, risk-taking, and geopolitical strategy, shaping the 20th century and influencing the global dynamics of the contemporary world. In his discussion with Daniel Yergin, a leading authority on energy, profound insights into the pivotal moments and characters of this industry are illuminated.
 
 ## Early Beginnings and the Rise of Standard Oil
 
-The oil industry's history can trace its roots back to 1859 when Colonel Drake drilled the first oil well in Pennsylvania. Within less than a decade, numerous oil boom towns had emerged, along with many dramatic oil busts. The formation of Standard Oil and the pumping of millions of barrels of crude oil set the economic pace of the time [<a class="yt-timestamp" data-t="00:04:49">00:04:49</a>]. 
+The oil industry's history can trace its roots back to 1859 when Colonel Drake drilled the first oil well in Pennsylvania. Within less than a decade, numerous oil boom towns had emerged, along with many dramatic oil busts. The formation of Standard Oil and the pumping of millions of barrels of crude oil set the economic pace of the time [<a class="yt-timestamp" data-t="00:04:49">00:04:49</a>].
 
 John D. Rockefeller played a crucial role as a lightning merchant, controlling the refining business and expanding the market through kerosene for lighting—a product that rolled back the darkness before the age of electricity [<a class="yt-timestamp" data-t="00:07:13">00:07:13</a>]. This early stage of oil was defined by extraordinary personalities, significant technological advancements, and the centralization of power in figures like Rockefeller.
 
@@ -23,7 +23,7 @@ World War I highlighted oil as a strategic commodity, providing tremendous mobil
 Post-World War II, the Middle East emerged as a focal point for oil production and geopolitical struggles. A pivotal moment arose when Western companies began to invest heavily in the region, only to face the rising demands from exporting countries for a more equitable share of profits [<a class="yt-timestamp" data-t="00:25:31">00:25:31</a>]. The shift culminated in the emergence of OPEC in 1960, marking a transition of power and influence in the global oil markets.
 
 > [!info] Transformation of Global Oil Dynamics
-> 
+>
 > OPEC's establishment and the nationalization movements indicated that the control over oil resources could leverage significant geopolitical power. Nations began to assert more control over their natural resources, reshaping the global oil dynamic. This transformation is akin to the [[transition_to_renewable_energy | current shifts]] we are witnessing as the world moves towards sustainable energy resources.
 
 ## Fracking and the Modern Era

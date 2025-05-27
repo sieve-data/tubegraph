@@ -3,7 +3,7 @@ title: Development and challenges in AI scaling and optimization
 videoId: qTogNUV3CAI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Developing artificial intelligence (AI) systems has always been a fascinating frontier, encapsulating both remarkable achievements and massive challenges. In this discussion, we'll explore the intricacies of [[ai_scaling_and_its_effectiveness | AI scaling and optimization]], a crucial piece of the complex AI puzzle, with insights derived from a podcast featuring Demis Hassabis, CEO of DeepMind.
 
 ## AI Scaling: The Path and Challenges
@@ -43,7 +43,7 @@ The push towards multi-modal AI systems, which utilize various input types like 
 Demis Hassabis mentions bottlenecks in expanding AI systems without significantly increasing compute capacity. Techniques such as using better predictors of world models and efficient planning mechanisms atop large models are being explored. This approach not only balances the compute demands but also enriches the depth of AI's world understanding and decision-making processes. This is a step forward in dealing with [[ai_safety_and_security_measures | AI safety and security measures]] (<a class="yt-timestamp" data-t="06:15">[06:15]</a>).
 
 > [!info] Researchers' Attention
-> 
+>
 > As machine learning makes strides, researchers like Shane and Hassabis highlight the underestimated elements from past research, urging a reassessment of pioneered technologies like reinforcement learning, advocating their merger with contemporary capabilities for groundbreaking results. This situates within discussions on [[importance_of_new_approaches_in_ai_research | the importance of new approaches in AI research]] (<a class="yt-timestamp" data-t="13:52">[13:52]</a>).
 
 ## Conclusion

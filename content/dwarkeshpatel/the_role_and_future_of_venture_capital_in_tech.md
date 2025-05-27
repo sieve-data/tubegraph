@@ -3,7 +3,7 @@ title: The role and future of venture capital in tech
 videoId: kNsi5XVDTTM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Venture capital (VC) has long been a critical pillar in the tech industry, fueling innovation and supporting the growth of new ventures from embryonic startups to industry leaders. In a recent discussion, Marc Andreessen, a notable figure in the venture capital sector, shared insights about the dynamic nature and future trajectory of VC in the tech landscape.
 
 ## The Core Function of Venture Capital

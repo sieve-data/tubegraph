@@ -3,7 +3,7 @@ title: Superposition and feature representation in AI
 videoId: UTuuTTnjxMQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The realm of artificial intelligence (AI) is increasingly focused on understanding how models internally represent data through features and the concept of superposition. This article explores these key concepts, particularly as discussed in the recent podcast, which features AI researchers Sholto and Trenton.
 
 ## Understanding Superposition
@@ -11,7 +11,7 @@ The realm of artificial intelligence (AI) is increasingly focused on understandi
 Superposition in AI models refers to the phenomenon where multiple features are encoded simultaneously within the same neural activations. This is particularly relevant in the context of neural networks, where high-dimensional data is often compressed into lower-dimensional representations.
 
 > [!info] Definition
-> 
+>
 > Superposition allows a model to pack more features of the world into it than it has parameters. The model learns a strategy where data points map onto specific vectors, creating a dense and overlapping representation space. This is evident in high-dimensional data that appears sparsely, allowing more effective data compression and retention of multiple features ([02:00:41](#), [02:07:13](#)).
 
 ## Feature Representation: The Basics
@@ -19,7 +19,7 @@ Superposition in AI models refers to the phenomenon where multiple features are 
 In neural networks, features are essentially the characteristics or attributes of data that the model learns during training. Features can range from simple characteristics like edges in an image to more abstract concepts like the thematic essence of a document.
 
 > [!info] Feature Definition
-> 
+>
 > A feature in this context is a direction in the activation space of a neural network, representing a latent variable that influences the system's behavior ([02:11:04](#)).
 
 ### Feature Splitting and Scaling

@@ -3,9 +3,9 @@ title: Cosmological Constant and the Fate of the Universe
 videoId: XhB3qH_TFds
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 The cosmological constant is a crucial factor in determining the ultimate fate of the universe. In a discussion led by Adam Brown from the Blueshift team at Google DeepMind and a theoretical physicist at Stanford, we delve into the significance of the cosmological constant, its implications on cosmology, and the expanding universe.
 
 ## The Role of the Cosmological Constant
@@ -41,5 +41,4 @@ Despite the bleak prognosis, Brown remains cautiously optimistic, indicating tha
 ## Conclusion
 
 The cosmological constant remains a key focus in understanding the universe's ultimate fate. While it currently sets a path toward isolation and entropy, ongoing research and theoretical advancements may uncover ways to alter this destiny. As our comprehension of cosmology continues to expand, the seemingly immutable constants of the universe might reveal new possibilities for the cosmos's future.
-
 ```

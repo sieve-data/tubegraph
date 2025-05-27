@@ -3,7 +3,7 @@ title: Microsoft's gaming models and generative gameplay
 videoId: 4GLSzuYXh6w
 ---
 
-From: [[DwarkeshPatel]] <br/>
+From: [[dwarkeshpatel]] <br/>
 Recently, Microsoft has made a significant announcement concerning their advancements in gaming models and generative gameplay. This breakthrough involves using gameplay data to generate games that are consistent, diverse, and persistent to user modifications.
 
 ## Introduction to Muse: The Human Action Model

@@ -3,7 +3,7 @@ title: Geopolitical dynamics of global innovation hubs
 videoId: Ayewh_O0LPQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The landscape of global innovation hubs is undergoing significant shifts influenced by geopolitical dynamics. Caleb Watney, the Director of Innovation Policy at the Progressive Policy Institute, provides insights into why maintaining a strong innovation engine in a country like the United States is crucial, and what the rise of other global hubs could entail for the cultural and political values embedded within technological advancements.
 
 ## The Importance of Maintaining Innovation Leadership
@@ -11,7 +11,7 @@ The landscape of global innovation hubs is undergoing significant shifts influen
 Watney highlights the importance of innovation in maintaining not just economic leadership but also in safeguarding cultural values. He argues that technological platforms often carry the cultural mores and policy priorities of their creators' home countries, and in the case of the U.S., this includes values such as free speech and the separation of private and governmental sectors.
 
 > [!info] Technology and Path Dependence
-> 
+>
 > Watney suggests that technology’s inherent path dependence means that the values embedded by initial leaders in tech can influence global norms.
 
 ## Challenges from Other Countries

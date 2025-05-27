@@ -3,7 +3,7 @@ title: Historical encounter between Europe and the Americas
 videoId: 1Z35PqPQU2M
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The encounter between Europeans and the Americas stands as a pivotal moment in world history, characterized by a blend of inevitability and contingency. This event reshaped populations, economies, and ecosystems on a global scale, setting the stage for the modern era.
 
 ## Inevitability of Interaction
@@ -14,7 +14,7 @@ The introduction of European diseases, particularly zoonotic diseases borne from
 
 ## Contingency and Alternate Histories
 
-There were numerous contingent aspects of this encounter, as Charles Mann elaborates. While extensive epidemic diseases seemed inevitable, other aspects were subject to chance and human agency. For example, Mann cites alternative historical accounts like "Civilizations" by Laurent Binet, which explore scenarios where Vikings might have introduced diseases earlier, altering the balance of power by the time of Columbus. 
+There were numerous contingent aspects of this encounter, as Charles Mann elaborates. While extensive epidemic diseases seemed inevitable, other aspects were subject to chance and human agency. For example, Mann cites alternative historical accounts like "Civilizations" by Laurent Binet, which explore scenarios where Vikings might have introduced diseases earlier, altering the balance of power by the time of Columbus.
 
 Moreover, the resulting political structures and societal outcomes were not predetermined. Different institutions, whether strong or weak, alongside the use of African slaves to overcome labor shortages due to disease, showcase how different choices and actions could have dramatically reshaped outcomes.
 

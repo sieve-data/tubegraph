@@ -3,7 +3,7 @@ title: Challenges in British government bureaucracy
 videoId: 3i7ym_Qh7BA
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the updated article with the backlinks embedded:
 
 Dominic Cummings, former chief advisor to Prime Minister Boris Johnson, shared critical insights into the workings of the British government bureaucracy in a recent interview. Here we explore some of the challenges that Cummings highlighted, drawing from examples during his time in office and broader reflections on the structural issues within the system [[dominic_cummings_advisor_role_under_boris_johnson]].
@@ -33,7 +33,7 @@ Efforts to reform structural inefficiencies are frequently met with resistance f
 Cummings observes that civil service promotions typically favor those most compliant with hierarchical norms over those capable of facilitating genuine reform (<a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>). This promotes a culture that is inherently resistant to change, as bureaucracies prioritize self-preservation over reform, making comprehensive overhaul difficult without external pressures [[challenges_in_government_efficiency_and_policy_making]].
 
 > [!info] Breaking the Stalemate
-> 
+>
 > Despite the pessimistic view on bureaucratic reform, there is hope. Cummings argues that significant change requires a coalition willing to operate outside the existing social hierarchies and with a commitment to problem-solving rather than political maneuvering [[role_of_elite_technocracy_in_governance]] (<a class="yt-timestamp" data-t="01:39:50">[01:39:50]</a>).
 
 ## Conclusion

@@ -3,7 +3,7 @@ title: Role of age in learning and fluid intelligence
 videoId: R5sBycV80c8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion, Scott Young, author of "Ultra Learning," sheds light on the relationship between age, learning, and fluid intelligence. This segment of the conversation unveils insights into how these factors interplay and affect one's ability to learn effectively throughout a lifetime.
 
 ## Fluid Intelligence and Aging
@@ -16,7 +16,7 @@ Scott Young delves into how specific parts of the brain, notably the frontal are
 
 ## Implications for Learning Strategies
 
-Due to these changes, Young posits that as people grow older, they might benefit more from learning environments that minimize distractions to bolster focus <a class="yt-timestamp" data-t="15:19">[15:19]</a>. For instance, while a 21-year-old might tune out distractions like background noise, a 75-year-old may find this increasingly challenging due to changes in their executive functions. 
+Due to these changes, Young posits that as people grow older, they might benefit more from learning environments that minimize distractions to bolster focus <a class="yt-timestamp" data-t="15:19">[15:19]</a>. For instance, while a 21-year-old might tune out distractions like background noise, a 75-year-old may find this increasingly challenging due to changes in their executive functions.
 
 Additionally, the decline in chunking abilities—where information pieces are bound together into cohesive units—means older adults might have more difficulty recalling names, faces, and other chunked information. This suggests a potential need for more explicit and structured information-organization strategies for older learners <a class="yt-timestamp" data-t="16:11">[16:11]</a>.
 

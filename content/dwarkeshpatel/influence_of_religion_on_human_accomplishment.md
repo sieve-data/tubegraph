@@ -3,7 +3,7 @@ title: Influence of religion on human accomplishment
 videoId: yYtyKmPZBto
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Human accomplishment, particularly the pursuit of excellence in the arts and sciences, has long been intertwined with religious beliefs and practices. In a recent discussion, various perspectives on how religion, notably Christianity, has influenced human accomplishment were explored. This article delves into these perspectives, examining both the historical context and the implications for contemporary secular viewpoints.
 
 ## Historical Role of Christianity
@@ -11,7 +11,7 @@ Human accomplishment, particularly the pursuit of excellence in the arts and sci
 Christianity, especially during the Middle Ages, played a pivotal role in fostering an environment conducive to intellectual and artistic accomplishment. The theological notions introduced by figures like Thomas Aquinas emphasized the importance of understanding and exploring God’s creation. Such frameworks encouraged intellectual pursuits as expressions of divine love and understanding, paving the way for Western civilization's rich tapestry of scientific and artistic achievements.
 
 > [!info] Thomas Aquinas and Intellectual Exploration
-> 
+>
 > Aquinas posited that exploring the universe was a way of expressing love of God, which lent divine approval to intellectual and scientific endeavors ([00:28:04](#28:04)).
 
 ## Decline and Resurgence of Religious Influence

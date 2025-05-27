@@ -3,7 +3,7 @@ title: Brexit planning and execution
 videoId: 3i7ym_Qh7BA
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The planning and execution of Brexit was a pivotal moment in UK political history. Dominated by complicated negotiations, political maneuvering, and public debates, Brexit remains a significant case study in strategic political campaigning and governance.
 
 ## Brexit Campaign Strategy

@@ -3,7 +3,8 @@ title: Reading ancient scrolls and the Vesuvius challenge
 videoId: qcvMjoJdck4
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Introduction
 
 The world of archaeology and ancient history might soon witness a revolutionary discovery, bridging a 2000-year gap between past and present. This discovery could be driven by an innovative challenge known as the Vesuvius Challenge, organized by Nat Friedman and others. The aim of the Vesuvius Challenge is to decipher the ancient scrolls buried during the eruption of Mount Vesuvius in AD 79, which could double the known texts from antiquity [[ai_developments_and_technology_in_archeology | with the aid of modern technology]].
@@ -29,7 +30,7 @@ The Vesuvius Challenge, launched by Nat Friedman and Daniel Gross, is an open co
 Success in this endeavor could lead to the doubling of all known texts from antiquity, with implications of uncovering lost literary works, historical texts, and potentially narratives around early Christianity [[cultural_evolution_and_collective_brains | contributing to our understanding of cultural evolution]]. It holds the promise of rekindling narratives from the past that have long been dormant beneath layers of volcanic ash.
 
 > [!info] The Stakes
-> 
+>
 > If successfully decoded, the texts could be as significant as multiple works of Shakespeare, altering our understanding of the ancient world [[historical_and_philosophical_influences_on_technology | emphasizing the continuous influence of historical knowledge on modern advancements]].
 
 ## Conclusion

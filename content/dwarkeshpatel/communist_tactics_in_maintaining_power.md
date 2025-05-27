@@ -3,7 +3,8 @@ title: Communist tactics in maintaining power
 videoId: 4l3Sa8ImGFQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Communist Tactics in Maintaining Power
 
 The podcast featured an expansive discussion on [[maos_rise_to_power_in_china | Mao Zedong's tactics in maintaining power]] and the broader strategies employed by Communist regimes to consolidate their rule. Mao, recognized as a significant [[maos_military_strategies_and_theories | military-political theorist]], illustrated through his actions and writings how communists could effectively seize and hold onto power in the tumultuous mid-20th-century world.

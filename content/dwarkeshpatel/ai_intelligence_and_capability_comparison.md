@@ -3,7 +3,7 @@ title: AI intelligence and capability comparison
 videoId: 6yQEA18C-XI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial Intelligence (AI) remains a hotly debated topic, particularly concerning its potential intelligence, capabilities, and evolution over time. This article delves into a significant discussion between George Hotz and Eliezer Yudkowsky on the nature and future trajectory of AI intelligence.
 
 ## Understanding Intelligence and Capability

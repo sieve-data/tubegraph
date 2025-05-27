@@ -3,7 +3,7 @@ title: Existential risk and societal collapse
 videoId: AHkmEnl55jo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The topic of existential risk and the potential for societal collapse is a significant theme in contemporary discussions about the future of humanity. This article explores various aspects of existential risk, particularly in the context of [[impact_of_nuclear_weapons_on_global_politics_and_warfare | nuclear warfare]] and its implications for human civilization, as discussed in the recent conversation with economist Tyler Cowen.
 
 ## Understanding Existential Risk
@@ -19,7 +19,7 @@ Cowen elaborates on the potential consequences following a nuclear war, stating 
 Cowen references historical human progress and setbacks to argue against assuming automatic recovery from societal collapses. He points out that while humankind survived and evolved through previous epochs, certain catastrophic events could change the trajectory irreversibly, potentially ending [[technological_and_social_innovation | technological advancements]] and the accumulation of knowledge <a class="yt-timestamp" data-t="01:08:22">[01:08:22]</a>.
 
 > [!info] Takeaway
-> 
+>
 > The discussion emphasizes the need for cautious and deliberate efforts to mitigate existential risks by investing in scientific advancement and maintaining geopolitical stability. This echoes the broader perspective of [[effective_altruism_and_longterm_impacts | effective altruism]] which advocates for the prevention of global catastrophic risks.
 
 ## Selecting Solutions and Strategies

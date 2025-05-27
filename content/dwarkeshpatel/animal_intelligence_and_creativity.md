@@ -3,7 +3,7 @@ title: Animal Intelligence and Creativity
 videoId: EVwjofV5TgU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with David Deutsch, the topic of animal intelligence and the boundaries of creativity was explored deeply. This conversation provided insights into the sophisticated, yet instinctual knowledge that many animals possess and how this differs fundamentally from human creativity.
 
 ## Instinctive Knowledge in Animals

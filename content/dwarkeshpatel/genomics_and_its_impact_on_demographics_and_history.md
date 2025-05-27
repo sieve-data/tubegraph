@@ -3,12 +3,12 @@ title: Genomics and its impact on demographics and history
 videoId: sh04dEtBAoE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Genomics, the study of genes and their functions, has made significant strides over the past few decades, influencing a variety of fields, including demographics and history. Razib Khan, a prominent science blogger specializing in genetics, history, and evolution, discusses the profound implications of genomics during a recent podcast episode.
 
 ## The Rise of Genomics
 
-Over the last 20 years, genomics has emerged as an invaluable tool in both biomedical science and historical inference <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. As Khan explains, the discipline allows geneticists to explore a wide range of applications, from studying the genetic distances between populations to understanding the demographic shifts throughout history. 
+Over the last 20 years, genomics has emerged as an invaluable tool in both biomedical science and historical inference <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. As Khan explains, the discipline allows geneticists to explore a wide range of applications, from studying the genetic distances between populations to understanding the demographic shifts throughout history.
 
 ## Implications for Intelligence and Fertility
 

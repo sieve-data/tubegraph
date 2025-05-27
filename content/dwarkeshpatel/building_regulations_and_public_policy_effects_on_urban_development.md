@@ -3,7 +3,7 @@ title: Building regulations and public policy effects on urban development
 videoId: m9ErXK5h-oU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Urban development is a critical aspect of modern society, influencing everything from housing supply to infrastructure projects. In this discussion, we delve into the intricate relationship between building regulations, public policy, and their impacts on urban development, as discussed in a recent podcast featuring Brian Potter, an engineer and author of the Construction Physics blog.
 
 ## The Role of Building Regulations
@@ -15,7 +15,7 @@ Building regulations play a significant role in shaping urban landscapes. They a
 Public policy influences urban development through legislation and bureaucratic procedures. NEPA embodies such influence by imposing rigorous documentation and public notification requirements on federal projects. While the intent is to minimize environmental impacts, the procedural focus of NEPA tends to slow down necessary infrastructure projects. Potter describes this as effectively imposing a 'tax' on development activities, reducing the volume of projects that reach fruition due to added complexities and extended timelines ([[role_of_regulation_in_innovation | role of regulation in innovation]]).
 
 > [!info] The Double-Edged Sword of Regulation
-> 
+>
 > Regulations safeguard environmental interests but can stifle efficiency and innovation in urban development projects.
 
 ## The Cost of Compliance

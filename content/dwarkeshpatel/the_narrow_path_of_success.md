@@ -3,7 +3,7 @@ title: The narrow path of success
 videoId: R5sBycV80c8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a compelling conversation with Scott Young, author of "Ultra Learning," the topic of the narrow path of success was discussed, revealing intriguing insights into how success is often much less about inherent talent and more about strategic navigation within established systems. Young's perspective sheds light on the rigors and realities faced by those pursuing high-ambition fields, and how success is not as wide-ranging and flexible as many might assume.
 
 ## Understanding the Narrow Path
@@ -11,7 +11,7 @@ In a compelling conversation with Scott Young, author of "Ultra Learning," the t
 The concept of the "narrow path of success" challenges the romantic idea that one can achieve success purely through passion or creativity without considering the structural pathways that exist in various fields. Young emphasizes that success, particularly in high-ambition areas like academia, requires careful adherence to established processes and standards that act as filters for those seeking to enter and excel in specific careers.
 
 > [!info] Insight from Scott Young
-> 
+>
 > Young shares, "it's clear that's not how they work so the kind of motivating example that caused me to write that post was reading Jason Brennan's book 'Good Work If You Can Get It,' which is about a data-driven approach to analyzing how careers work in academia" <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
 
 ## The Case of Academia

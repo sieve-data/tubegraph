@@ -3,7 +3,7 @@ title: The evolution and challenges of AI in modern technology
 videoId: qcvMjoJdck4
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the article with the backlinks embedded:
 
 Artificial Intelligence (AI) has dramatically transformed various industries over the last decade, with its evolution continuing to push boundaries. As discussed in a recent conversation with Nat Friedman, this transformative process not only showcases technological advancements but also presents an array of [[ai_alignment_and_ethics | challenges and considerations]] for future applications.

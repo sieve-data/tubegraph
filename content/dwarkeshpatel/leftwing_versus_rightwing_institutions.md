@@ -3,7 +3,7 @@ title: Left-wing versus right-wing institutions
 videoId: AHkmEnl55jo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concept of institutional political leaning—whether an institution should be classified as left-wing or right-wing—has been a topic of discussion and debate across many fields, including political science, sociology, and economics. In a recent interview with [[tyler_cowen | Tyler Cowen]], this concept was revisited with a particular focus on [[conquests_second_law_and_its_critiques | Conquest's Second Law]], which posits that any organization not explicitly right-wing will inevitably drift left over time.
 
 ## Understanding Conquest's Second Law

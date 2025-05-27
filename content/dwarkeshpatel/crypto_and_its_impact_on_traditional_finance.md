@@ -3,7 +3,7 @@ title: Crypto and its impact on traditional finance
 videoId: 3BBNG0TlVwM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The intersection of cryptocurrency and traditional finance has been a hotbed of discussion among industry experts and enthusiasts. In a recent conversation, Augustine Lebron shared insights into how crypto is influencing the financial landscape and what the future might hold for both sectors.
 
 ## Crypto's Role as an Innovation Catalyst

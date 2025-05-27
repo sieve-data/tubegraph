@@ -3,7 +3,7 @@ title: Space governance and existential risks
 videoId: snMWoyvmkhg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The conversation around space governance is increasingly intertwined with discussions about existential risks. As humanity contemplates expanding its presence beyond Earth, establishing governance structures for space is critical, especially given the potential risks that could accompany this expansion. During a candid discussion, several key points were raised regarding how space governance could influence existential risks.
 
 ## The Importance of Space Governance

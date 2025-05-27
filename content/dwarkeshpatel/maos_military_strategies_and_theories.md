@@ -3,7 +3,7 @@ title: Mao's military strategies and theories
 videoId: 4l3Sa8ImGFQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Mao Zedong, a pivotal figure in the 20th century, is renowned for his military strategies and theories which significantly influenced both Chinese history and global communist movements. Mao's approaches to warfare and revolution have been scrutinized and applied in various contexts, particularly in guerrilla warfare and insurgent movements. This article explores the foundational aspects of [[maos_rise_to_power_in_china | Mao's military strategies]] and theoretical contributions.
 
 ## Introduction to Mao's Military Thought

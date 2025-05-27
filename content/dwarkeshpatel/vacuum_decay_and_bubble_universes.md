@@ -3,7 +3,7 @@ title: Vacuum Decay and Bubble Universes
 videoId: XhB3qH_TFds
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The concept of vacuum decay and the formation of bubble universes are fascinating aspects of theoretical physics, particularly when dealing with the fate of the universe. During an interview with Adam Brown, a physicist at Stanford and researcher at [[evolution_of_google_and_significant_projects | Google DeepMind]], he delved into these topics, explaining their intricacies and implications. Below are the key insights into what vacuum decay means, its consequences, and the bubble universes' theory.
 
 ## The Fate of the Universe and Vacuum Decay
@@ -29,7 +29,7 @@ The concept of vacuum decay and bubble universes is deeply intertwined with quan
 This understanding merges with the notion of a multiverse, where our universe could potentially be one of many in a vast cosmic landscape. If these ideas hold true, they redefine our understanding of existence and the potential for diverse cosmic landscapes, all dictated by different physical laws.
 
 > [!info] Learning from the Past
-> 
+>
 > Brown speculates that just as past cosmic events might have led to our universe's current structure, future vacuum decays could lead to new and radically different cosmic realms.
 
 ## Philosophical Implications

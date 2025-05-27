@@ -3,7 +3,7 @@ title: AI safety and prevention strategies
 videoId: 5XsL_7TnfLU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent podcast discussion with philosopher Joe Carlsmith, the topic of AI safety and prevention strategies was thoroughly examined. The conversation elaborated on the intricate dynamics and the profound concerns surrounding the [[alignment_and_misalignment_of_ai | alignment of artificial intelligence]], especially as AI systems evolve and potentially gain greater autonomy.
 
 ## The Nature of AI Misalignment

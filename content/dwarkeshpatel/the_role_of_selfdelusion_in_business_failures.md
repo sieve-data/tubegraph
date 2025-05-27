@@ -3,17 +3,18 @@ title: The role of self-delusion in business failures
 videoId: m3oM69YHLeo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Introduction
 
 In many high-profile business failures, a recurring theme emerges: self-delusion. This psychological aspect has consistently played a crucial role in the unfolding of such corporate disasters. As discussed in a conversation with Bethany McLean, an experienced finance journalist renowned for her works on major financial crises, self-delusion is an often underestimated but powerful component that underpins the downfall of once thriving enterprises.
 
 ## Understanding Self-Delusion
 
-Self-delusion refers to the act of convincing oneself of a flawed reality. In the context of business, it involves leaders and executives maintaining a false belief that their actions or visions align perfectly with success, despite evidence to the contrary. It can propel once flourishing enterprises into ruin as leaders continue to support flawed business models or unethical practices under the guise of visionary thinking. 
+Self-delusion refers to the act of convincing oneself of a flawed reality. In the context of business, it involves leaders and executives maintaining a false belief that their actions or visions align perfectly with success, despite evidence to the contrary. It can propel once flourishing enterprises into ruin as leaders continue to support flawed business models or unethical practices under the guise of visionary thinking.
 
 > [!info] Self-Delusion Explained
-> 
+>
 > "Self-delusion is such a strong component of all of these stories of business gone wrong," Bethany McLean states, highlighting its significance in corporate failures <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
 
 ## The Thin Line Between Visionary and Fraudster

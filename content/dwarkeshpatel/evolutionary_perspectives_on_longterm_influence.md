@@ -3,7 +3,7 @@ title: Evolutionary perspectives on long-term influence
 videoId: aagyRGKv66g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Understanding the mechanisms through which influences endure over long periods can be analyzed through an evolutionary lens. In a recent discussion, several key points were raised about how biological and organizational systems may foster long-term influence and the challenges therein.
 
 ## The Evolutionary Drive for Influence
@@ -20,7 +20,7 @@ For organizations, the challenge is structuring in such a way that they can gath
 
 Organizations, akin to living organisms, might succeed better if they can act in their self-interest, preserving resources for future successes [[roles_of_organizations_and_individuals_in_taking_the_long_view]]. Historically, the difficulty lies in aligning the incentives of leaders with the needs of the entity they manage, which affects the organization's longevity and strategic planning [[impact_of_technology_on_government_and_policy]].
 
-## Theoretical Long-term Units 
+## Theoretical Long-term Units
 
 A hypothesis was put forward that new kinds of "units of selection" might evolve that could act with a long-term perspective. These units would drive down interest rates, matching economic growth curves, and subsequently reviving interest in long-term planning [[future_trends_in_inflation | future trends in economic growth and inflation]]. Whether these could take generalized forms, such as nation-states or corporations, was debated, but the speculation was firmly rooted in evolutionary processes [[the_role_of_kinship_and_social_organization_in_human_history]].
 

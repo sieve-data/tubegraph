@@ -3,7 +3,7 @@ title: China India relations
 videoId: LbkO84MsmyM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The dynamics between China and India have been shaped by a complex web of historical events, political decisions, and strategic alliances. This article explores some of the pivotal moments and considerations that have influenced China-India relations, essentially culminating in tensions as well as missed opportunities for cooperation.
 
 ## Pivotal Decisions and Conflicts
@@ -29,7 +29,7 @@ The hypothetical scenario circulates around the notion that, if India and China 
 As of now, both countries continue to operate in a strained diplomatic space defined by territorial disputes and strategic cooperation with opposing global powers. India's development of closer ties with Russia and the United States as counterbalances to China's regional expansion further demonstrates [[us_and_china_competition_in_ai_development | the complexities within their relationship]].
 
 > [!info] Current Era Dynamics
-> 
+>
 > As of the 21st century, both nations have grown into significant economic and military powers, which adds layers of complexity to their interactions. Their relationship demands careful navigation to ensure stability amid regional and global challenges.
 
 Ultimately, China and India's historical and current relationship dynamics underscore the enduring impact of past geopolitical decisions, which continue to shape their interactions on the global stage. Understanding this history is crucial for navigating future engagements between these two Asian giants.

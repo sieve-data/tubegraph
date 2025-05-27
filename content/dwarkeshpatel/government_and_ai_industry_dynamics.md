@@ -3,7 +3,7 @@ title: Government and AI Industry Dynamics
 videoId: htOvH12T7mU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In the rapidly evolving landscape of artificial intelligence (AI), the relationship between governments and AI companies is becoming increasingly pivotal. This dynamic is influencing [[regulation_and_its_impact_on_innovation | regulatory frameworks]], national security concerns, and the pace at which AI technology is developing. One scenario that has been explored is the potential for AI companies to become intertwined with governmental powers, blending public and private interests toward advancing AI capabilities [[future_capabilities_and_progress_of_ai_models | toward future capabilities]].
 
 ## The Relationship Between AI Companies and Government

@@ -3,7 +3,7 @@ title: AI safety and security measures
 videoId: Nlkk3glap_U
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial Intelligence (AI) safety and security are increasingly pivotal concerns as AI models grow more powerful and complex. In a recent discussion with Dario Amodei, CEO of Anthropic, various aspects of AI safety and security were explored, shedding light on current practices and future challenges.
 
 ## The Importance of Safety in AI

@@ -3,17 +3,19 @@ title: Future capabilities and progress of AI models
 videoId: Wo95ob_s_NI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 John Schulman, co-founder of OpenAI, recently discussed the anticipated advancements and future capabilities of AI models in a podcast. As AI technology continues to evolve, it is poised to undertake more complex tasks and transform various sectors. Below, we explore some key points from the conversation that shed light on what the future of AI might hold.
 
 ## Expected Progress in AI Capabilities
 
 ### Advanced Task Execution
+
 Schulman predicts that AI models in the coming years will significantly improve in handling more involved tasks. For instance, instead of offering a single suggestion for coding, models could autonomously carry out entire coding projects. This would entail taking high-level instructions, writing and testing the code, and iterating based on results [[development_and_impact_of_ai_technologies_including_llms | with the help of large language models (LLMs)]].
 
 The sophistication in executing complex tasks will be supported by better-coordinated behaviors over extended periods, allowing AI to function effectively in scenarios that require long-term coherence and planning [[concepts_of_agency_and_planning_in_ai | by incorporating advanced concepts of agency and planning]].
 
 ### Training and Recovery Mechanisms
+
 Future AI models are expected to become more sample efficient, meaning they will require less data to recover from errors or handle edge cases. Schulman highlights that with advanced generalization capabilities, models can handle unforeseen issues by leveraging a diverse dataset that implicitly instructs them on common recovery methods [[reinforcement_learning_in_language_models | utilizing techniques like Reinforcement Learning in Language Models]].
 
 Effective training would involve models learning to autonomously carry out longer projects, indicating a shift in training approaches designed to handle extended tasks [[ai_scaling_and_its_effectiveness | through effective scaling strategies]].
@@ -21,9 +23,11 @@ Effective training would involve models learning to autonomously carry out longe
 ## The Role of AI in Economic and Daily Activities
 
 ### Integration into the Workforce
+
 As capabilities improve, AI models could take on a larger portion of the economic landscape, handling more sophisticated tasks and becoming integral to various workflows. Currently, AI's presence in the workforce is limited, but expanding its capabilities could lead to an [[impact_of_ai_on_labor_and_economy | increased role in fields affecting labor and economy]], especially in fields that require technical sophistication.
 
 ### Enhancing Scientific Research
+
 AI models might also accelerate scientific research by analyzing extensive literature and data sets, opening new avenues for understanding and innovation. By becoming an assistant in scientific exploration, AI could drive significant advancements in knowledge [[artificial_intelligence_and_genomics | particularly in fields like genomics and artificial intelligence]].
 
 ## Long-Horizon Tasks and Challenges

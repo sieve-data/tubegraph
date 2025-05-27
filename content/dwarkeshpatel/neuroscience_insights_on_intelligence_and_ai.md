@@ -3,7 +3,7 @@ title: Neuroscience insights on intelligence and AI
 videoId: qTogNUV3CAI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Demis Hassabis, the CEO of DeepMind, offers a unique perspective on intelligence and artificial intelligence (AI) owing to his background in neuroscience. In a recent discussion, Hassabis shared his thoughts on how neuroscience informs our understanding of both natural and artificial intelligence.
 
 ## The Nature of Intelligence
@@ -15,7 +15,7 @@ According to Hassabis, intelligence encompasses more than just high-level reason
 Hassabis points out that both human learners and AI systems experience instances where improvements in specific domains can lead to enhancements in general reasoning abilities. For instance, large language models (LLMs) often exhibit improved general reasoning when they excel in coding tasks. This type of transfer learning mirrors how humans improve specific skills through general learning approaches, highlighting the potential of [[transfer_learning_in_ai_models | transfer learning in AI models]].
 
 > [!info] Transfer Learning in AI
-> 
+>
 > The behavior observed in AI challenges the assumption that gains in one domain should necessarily translate into uniform improvements across different areas. Such considerations are central to [[challenges_in_achieving_artificial_general_intelligence | challenges in achieving artificial general intelligence]].
 
 ## Inspiration from Neuroscience

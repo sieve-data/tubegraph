@@ -3,8 +3,8 @@ title: American foreign policy and its impact
 videoId: QyWs-XomCk0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-American foreign policy has been a topic of intense debate and scrutiny, not only within the United States but globally. In a recent discussion with Richard Hanania, the author of *Public Choice Theory and the Illusion of Grand Strategy,* several aspects of American foreign policy were explored, casting light on its complexities and the consequences it entails. This article delves into some key points from Hanania’s analysis.
+From: [[dwarkeshpatel]] <br/>
+American foreign policy has been a topic of intense debate and scrutiny, not only within the United States but globally. In a recent discussion with Richard Hanania, the author of _Public Choice Theory and the Illusion of Grand Strategy,_ several aspects of American foreign policy were explored, casting light on its complexities and the consequences it entails. This article delves into some key points from Hanania’s analysis.
 
 ## Theoretical Flaws in Grand Strategy
 
@@ -15,7 +15,7 @@ Hanania begins by critiquing the traditional academic view that states, includin
 Hanania introduces public choice theory as a more fitting model for understanding foreign policy. This model considers how various domestic interest groups, including bureaucracies and foreign lobbies, influence U.S. actions abroad. By analyzing American military presence, war engagements, and sanctions, Hanania contends that public choice theory provides a clearer explanation of U.S. foreign policy than grand strategy [[historical_international_relations | (00:02:33)]].
 
 > [!info] Impact of Public Choice Theory
-> 
+>
 > According to Hanania, public choice theory sheds light on why U.S. foreign policy often appears incoherent and why some policies, like sanctions or military interventions, fail to achieve their intended goals.
 
 ## Comparisons between the U.S. and China

@@ -3,7 +3,8 @@ title: Effective altruism and funding criticism
 videoId: snMWoyvmkhg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ```markdown
 Effective Altruism (EA) is a social movement and philosophy that emphasizes using evidence and reason to determine the most effective ways to improve the world. A fundamental aspect of EA is its willingness to fund criticism and self-evaluation to refine its strategies and beliefs.
 
@@ -16,7 +17,7 @@ Criticizing the ideas within a movement is vital for progress and accuracy. With
 To embody this principle, EA has set up funding initiatives to incentivize both the discussion and criticism of EA-related ideas. One notable initiative involves offering significant prizes for thoughtful critiques. This includes prize pools of up to $100,000, possibly more for exceptional submissions, for entries that effectively criticize EA's core ideas <a class="yt-timestamp" data-t="04:19">[04:19]</a>.
 
 > [!info] A Commitment to Self-Criticism
-> 
+>
 > The initiative to fund criticism highlights EA's commitment to progress through introspection and questioning its core ideas.
 
 ## Why Fund Criticism Now?

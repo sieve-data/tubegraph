@@ -3,7 +3,7 @@ title: Feminist perspectives and criticism
 videoId: jmWmrx6ki9Q
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent engaging podcast conversation, a lively discussion unfolded addressing various elements and criticisms of feminism. Author Brian Kaplan, hosting, explored these themes while promoting his book, "Don't Be a Feminist." Key aspects of the dialogue included definitions of feminism, meritocracy, and societal perceptions.
 
 ## Defining Feminism
@@ -31,5 +31,5 @@ He also addressed the broader global perspective, recognizing that despite perce
 The discussion concluded with an introspective reflection on the varying global perceptions of feminism and whether American feminist ideals risk overshadowing more severe global gender issues. Kaplan expressed concern over the focus on less significant issues within first-world feminism, potentially detracting from pressing gender-based challenges in less developed regions (<a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>).
 
 > [!info] Beyond Definitions: Feminism's Role
-> 
+>
 > The conversation emphasized the complexity of feminism's role in modern society, highlighting the need for nuanced understanding and discourse. Understanding feminism's diverse interpretations helps foster a well-rounded approach to addressing gender disparities worldwide.

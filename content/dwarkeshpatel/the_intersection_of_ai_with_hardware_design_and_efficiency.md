@@ -3,7 +3,7 @@ title: The intersection of AI with hardware design and efficiency
 videoId: v0gjI__RyCY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The conversation between Jeff Dean and Noam Shazeer highlights several key themes in the intersection of artificial intelligence (AI) with hardware design and efficiency. Their insights provide a unique window into how AI's evolution is not only driven by theoretical advances but also by significant developments in hardware. Here is an exploration based on their discussion:
 
 ## Hardware Evolution and AI Capabilities

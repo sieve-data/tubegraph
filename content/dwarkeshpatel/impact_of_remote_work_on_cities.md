@@ -3,7 +3,7 @@ title: Impact of remote work on cities
 videoId: MpttoDJ3pH8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The rise of remote work has substantially influenced cities and their traditional role as centers of economic and social activity. During the podcast featuring Professor Edward Glaser, several aspects of remote work and its potential impact on urban environments were discussed. Below is a synthesis of these insights.
 
 ## The Transformation of Work Environments
@@ -27,7 +27,7 @@ While remote work may present challenges, it also offers opportunities. Cities c
 Remote work’s implications extend beyond just economic factors. Cities might experience shifts in cultural dynamics, with less daily foot traffic affecting businesses that thrive on the patronage of office workers. Social isolation is also a concern, though many workers may still seek in-person interactions due to intrinsic social and psychological benefits [[cultural_and_historical_influences_on_modern_science | Cultural and historical influences on modern science]] <a class="yt-timestamp" data-t="00:41:22">[00:41:22]</a>.
 
 > [!info] Future of Cities
-> 
+>
 > Future urban strategies might need to balance the benefits of face-to-face interaction with the flexibility and convenience of remote work, fostering environments where both can thrive efficiently.
 
 The impact of remote work on cities is complex and multifaceted, potentially reshaping urban landscapes in unprecedented ways. As remote work becomes more normalized, the challenge will be to harness its advantages while mitigating potential downsides, ensuring that cities remain vibrant centers for innovation, culture, and community.

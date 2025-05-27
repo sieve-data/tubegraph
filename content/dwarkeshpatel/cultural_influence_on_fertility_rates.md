@@ -3,7 +3,7 @@ title: Cultural influence on fertility rates
 videoId: QyWs-XomCk0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Fertility rates are an essential demographic variable that significantly affect a country's socio-economic future. The cultural influence on fertility rates is a nuanced topic discussed by Richard Hanania in a recent podcast interview.
 
 ## Understanding the Role of Culture

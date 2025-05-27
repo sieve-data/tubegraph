@@ -3,7 +3,7 @@ title: Technological and social innovation
 videoId: TcfhrThp1OU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Innovation has been a cornerstone of human evolution, driving significant societal and [[technological_progress_and_economic_growth_in_history | technological progress]]. In a recent discussion with Joseph Henrich, a professor of [[human_evolutionary_biology_and_anthropology | human evolutionary biology]], several insightful points were raised about technological and social innovation.
 
 ## Expansion of Human Populations and Technology

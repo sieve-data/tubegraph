@@ -3,7 +3,7 @@ title: Economic and societal impact of AI integration
 videoId: rYXeQbTuVl0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial Intelligence (AI) is rapidly transforming diverse sectors of the global economy and society at large. In a recent podcast discussion with Mark Zuckerberg, several compelling insights were shared on how AI's integration could shape our future. This article delves into these insights, examining the potential [[potential_societal_impacts_of_advanced_ai | economic and societal impacts of AI]].
 
 ## Economic Impact of AI

@@ -3,7 +3,7 @@ title: Strategic international coordination on AI governance
 videoId: KUieFuV1fuo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The strategic governance of Artificial Intelligence (AI) on an international level has become a critical topic as the development of AI technology accelerates. Ensuring that AI progress is aligned with human values and security requires effective global coordination, particularly as nations race to harness AI capabilities without compromising safety and ethical standards. This article covers strategic international coordination challenges and potentials in AI governance, as discussed in a recent podcast featuring expert Carl Shulman.
 
 ## The Need for International Coordination

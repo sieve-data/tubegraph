@@ -3,7 +3,7 @@ title: Role of charismatic leaders in political change
 videoId: r4AkTmqvWzM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Here is the article with the backlinks embedded:
 
 Charismatic leaders have long been a subject of discussion when it comes to their role in political change. Their ability to influence and impact vast numbers of people presents both opportunities and challenges. [[challenges_of_political_leadership | Brian Caplan]], in a recent video discussion, explored how such figures interact with the mechanisms of policy and societal norms.

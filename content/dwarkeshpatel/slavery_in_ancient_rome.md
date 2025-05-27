@@ -3,17 +3,17 @@ title: Slavery in ancient Rome
 videoId: QFzgSmN8Ng8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Slavery was a cornerstone of ancient Roman society, deeply embedded in both the economy and culture. Kyle Harper, a historian specializing in the Roman period, provides a comprehensive look at how slavery functioned in Rome, encompassing aspects such as economics, societal norms, and the absence of significant abolition movements.
 
 ## The Role of Slavery in Roman Society
 
-Slavery in Rome was not merely a supplementary part of the economy but a fundamental pillar upon which much of its economic prosperity was built. From the late Republic through the Imperial period, slaves played an integral role in various sectors, including agriculture, domestic services, urban industries, and even skilled professions. 
+Slavery in Rome was not merely a supplementary part of the economy but a fundamental pillar upon which much of its economic prosperity was built. From the late Republic through the Imperial period, slaves played an integral role in various sectors, including agriculture, domestic services, urban industries, and even skilled professions.
 
 The Roman economy, especially in its peak phases, relied heavily on slave labor for the production of key commodities such as wine and olive oil. These plantations, owned by wealthy landholders, were significant contributors to the market and helped amass vast wealth for the elite class in Rome.
 
 > [!info] Fact
-> 
+>
 > It is estimated that between 10% to 20% of the Roman population was enslaved at the height of the empire.
 
 ## Sources and Supply

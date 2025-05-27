@@ -3,14 +3,14 @@ title: Economic and political outcomes of advanced AI
 videoId: zdbVtZIn9IM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The advancement in [[artificial_intelligence_and_general_intelligence | artificial intelligence (AI)]], specifically towards achieving Artificial General Intelligence (AGI), holds profound implications for global economics and politics. This article explores these potential outcomes based on insights from a discussion with Leopold Aschenbrenner, a pioneering thinker in AI investment and development.
 
 ## Economic Disruption and Opportunities
 
 ### The Trillion-Dollar Cluster
 
-The development of AI represents a unique industrial process, beyond simple advances in code. As AI models become more complex, they necessitate the construction of massive computational clusters akin to the trillion-dollar cluster forecasted by 2030, consuming over 20% of US electricity production [00:04:18]. 
+The development of AI represents a unique industrial process, beyond simple advances in code. As AI models become more complex, they necessitate the construction of massive computational clusters akin to the trillion-dollar cluster forecasted by 2030, consuming over 20% of US electricity production [00:04:18].
 
 Nvidia's rapid revenue growth symbolizes this techno-capital acceleration, with its data center revenue surging from a few billion dollars a quarter to $25 billion [00:02:37]. This scramble is not merely linear growth but an anticipated intensification: the establishment of training clusters and inference GPUs will demand significant capital expenditure and innovative energy solutions.
 
@@ -29,7 +29,7 @@ AI's progression towards AGI presents an alarming landscape for [[the_role_of_in
 The capability for AI to influence national power will likely escalate [[security_concerns_and_espionage_in_ai_development | state-level espionage activities]]. As noted, the Chinese government has invested billions towards infiltrating American AI labs to outpace the US in this technological frontier [00:00:10][00:28:38]. Such efforts reflect broader ethical challenges surrounding AI, including the potential misuse of AI in developing [[bioweapon_development_and_implications | surveillance states and bioweapons]].
 
 > [!info] The Role of Secrets
-> 
+>
 > Protecting the intellectual property of AI development is crucial. As noted in discussions, algorithmic advancements provide strategic advantages that could otherwise accelerate [[ai_alignment_and_takeover_scenarios | global arms races]] if proliferated without control [01:00:45].
 
 ## Conclusion: Preparing for an AI-Driven Future

@@ -3,7 +3,7 @@ title: AI development and competition globally
 videoId: Nlkk3glap_U
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The development and utilization of Artificial Intelligence (AI) have become central global dynamics, shaping technological advancement and economic prowess in various nations. In this context, Dario Amodei, the CEO of Anthropic, provides insights into the broader implications of AI development and the competition that ensues on an international scale.
 
 ## The U.S. Advances in AI

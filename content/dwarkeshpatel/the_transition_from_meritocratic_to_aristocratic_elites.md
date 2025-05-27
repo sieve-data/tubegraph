@@ -3,7 +3,7 @@ title: The transition from meritocratic to aristocratic elites
 videoId: nvL3vqMzznY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The landscape of power and class in society is undergoing a significant transformation, marked by a transition from meritocratic to aristocratic elites. This shift is not only reflective of societal changes but also indicative of [[historical_patterns_of_innovation_and_stagnation | historical patterns]] in the accumulation and inheritance of wealth. Nadia Asparouhova, a researcher exploring the future of the tech elite, provides insights into this phenomenon.
 
 ## Understanding the Elites
@@ -15,7 +15,7 @@ In discussing the dynamics of the elite classes, Asparouhova identifies two prim
 Asparouhova raises concerns about the trajectory of meritocratic elites progressively becoming aristocratic in nature. She outlines how the children of today's tech billionaires could potentially evolve into the [[role_of_elite_technocracy_in_governance | future aristocrats]], akin to the Rockefellers of the past. This transition is compounded by a societal and familial lack of preparedness in socializing this new generation to handle their potent roles responsibly [<a class="yt-timestamp" data-t="00:05:08">00:05:08</a>].
 
 > [!info] Challenges of the Transition
-> 
+>
 > Asparouhova points out a significant downside: Meritocratic elites often lack the social frameworks and education to responsibly manage inherited wealth, a contrast to their aristocratic counterparts who undergo such socialization [<a class="yt-timestamp" data-t="00:06:59">00:06:59</a>].
 
 ## Philanthropy and Elite Involvement

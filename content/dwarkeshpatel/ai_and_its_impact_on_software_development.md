@@ -3,7 +3,7 @@ title: AI and its impact on software development
 videoId: kNsi5XVDTTM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion on The Lunar Society podcast, hosted by Marc Andreessen, co-founder of venture capital firm Andreessen Horowitz, critical insights were shared on how artificial intelligence (AI) is poised to revolutionize software development. As AI continues to advance, it promises to fundamentally change how applications are built and interacted with, potentially reshaping the software industry in profound ways.
 
 ## The AI Revolution in Software Development
@@ -27,7 +27,7 @@ Given the significant changes AI might bring to building software, Andreessen no
 Despite discussions about AI potentially being just another technological area, Andreessen emphasizes that AI should be viewed as an extension of the software domain itself. It represents the next pivotal turn in [[development_and_impact_of_ai_technologies_including_llms | software development]], strongly integrating with the core venture fund activities at Andreessen Horowitz <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. AI is not just a niche sector; it is crucial to the future evolution of the entire software industry.
 
 > [!info] AI's Transformative Potential
-> 
+>
 > AI is not seen as a separate strand but as an integral part of the software development landscape, promising to redefine how applications are built, interacted with, and experienced [[technological_and_social_innovation | through innovation]].
 
 In conclusion, AI's incorporation into software development is anticipated to drive transformative changes, possibly leading to more interactive and adaptive applications. The industry's movement toward AI signifies a profound shift in how both developers and users will experience software, promising a future where applications are increasingly powered by intelligent and responsive technologies [[challenges_and_opportunities_in_ai_and_agi_development | addressing AGI challenges]].

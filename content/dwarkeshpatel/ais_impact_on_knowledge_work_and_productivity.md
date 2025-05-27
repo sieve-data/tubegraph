@@ -3,7 +3,7 @@ title: AI's impact on knowledge work and productivity
 videoId: 4GLSzuYXh6w
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Artificial Intelligence (AI) has been transforming diverse facets of society, and one of its significant areas of influence is on knowledge work and productivity. In a recent discussion, Satya Nadella, CEO of Microsoft, shared insightful perspectives on how AI is reshaping the workplace, augmenting productivity, and redefining cognitive labor.
 
 ## Transforming Knowledge Work

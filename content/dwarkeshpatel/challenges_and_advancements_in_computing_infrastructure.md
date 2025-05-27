@@ -3,7 +3,7 @@ title: Challenges and advancements in computing infrastructure
 videoId: v0gjI__RyCY
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with Google's Jeff Dean and Noam Shazeer, various aspects of computing infrastructure were highlighted, particularly in relation to advancements and challenges faced in the context of AI and machine learning systems. Their insights provide a deep dive into the evolution of computing infrastructure, its current limitations, and future potential.
 
 ## Historical Perspective

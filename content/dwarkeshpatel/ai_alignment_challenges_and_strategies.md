@@ -3,7 +3,7 @@ title: AI alignment challenges and strategies
 videoId: 41SUp-TRVlg
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 AI alignment is one of the central topics of concern in the domain of artificial intelligence research. The conversation between Eliezer Yudkowsky and the host provides a comprehensive overview of the diverse challenges and potential strategies involved in aligning advanced AI systems with human values.
 
 ## What is AI Alignment?
@@ -43,7 +43,7 @@ RLHF involves training AI systems using human feedback, aiming to guide their le
 An extreme but discussed strategy is to impose a moratorium on AI development until effective alignment methods are identified. While this could reduce immediate risks, it may also hinder beneficial progress and technological innovation [[ethical_considerations_in_ai_development | Ethical considerations in AI development]].
 
 > [!info] Aligning the Future
-> 
+>
 > According to Eliezer Yudkowsky, the alignment of AI is not just a technical challenge but a societal one, requiring collective efforts from technologists, policymakers, and the community to address the global risks associated with advanced AI systems [[societal_and_governmental_response_to_ai_risks | Societal and governmental response to AI risks]].
 
 In conclusion, while the challenges of AI alignment are daunting, exploring a combination of strategies is essential for developing safe and beneficial AI systems. The conversation underscores the need for ongoing dialogue and collaboration in addressing these critical issues [[the_future_of_ai_research_and_potential_societal_impacts | The future of AI research and potential societal impacts]].

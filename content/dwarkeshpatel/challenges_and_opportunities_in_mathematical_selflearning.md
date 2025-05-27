@@ -3,8 +3,8 @@ title: Challenges and opportunities in mathematical self-learning
 videoId: oDyviiN4NVo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-Mathematical self-learning is both a rewarding and demanding endeavor. In the podcast with Grant Sanderson, creator of the popular YouTube channel *3Blue1Brown*, several interesting aspects of self-learning, especially in the field of mathematics, were discussed. This article highlights the challenges that self-learners face and the opportunities that arise in the process.
+From: [[dwarkeshpatel]] <br/>
+Mathematical self-learning is both a rewarding and demanding endeavor. In the podcast with Grant Sanderson, creator of the popular YouTube channel _3Blue1Brown_, several interesting aspects of self-learning, especially in the field of mathematics, were discussed. This article highlights the challenges that self-learners face and the opportunities that arise in the process.
 
 ## Challenges in Self-Learning Mathematics
 
@@ -39,7 +39,7 @@ While the lack of external motivation is a challenge, it is also an opportunity 
 With the internet, learners aren't just confined to traditional learning environments and can now connect with peers and experts worldwide. This global network can facilitate community learning and support, allowing learners to gain different perspectives and insights [[humanai_collaboration_and_future_society_dynamics]].
 
 > [!info] Key Insight
-> 
+>
 > Grant Sanderson suggests that finding a supportive peer group or community can significantly impact a learner's motivation and success, implying that social factors play a crucial role in self-learning.
 
 In conclusion, self-learning mathematics presents both challenges and opportunities. By utilizing available resources, maintaining self-discipline and motivation, and engaging with community networks, learners can effectively navigate their self-learning journey and foster a deeper understanding of mathematics.

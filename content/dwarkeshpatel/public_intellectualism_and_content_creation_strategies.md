@@ -3,7 +3,8 @@ title: Public intellectualism and content creation strategies
 videoId: rsJxlybPByM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Public Intellectualism and Content Creation Strategies
 
 The discussion between two young podcasters delves deep into the intricacies of becoming a public intellectual and the strategies involved in content creation. This article summarizes their conversation and extracts insights and strategies useful for those aspiring to build a presence as thinkers online.
@@ -13,7 +14,7 @@ The discussion between two young podcasters delves deep into the intricacies of 
 Public intellectuals are often defined by their ability to shape discourse through their content, whether it be writing, speaking, or other forms of media. For the young, the challenge is often rooted in acquiring enough knowledge and experience to produce content that is both original and impactful. This discussion becomes apparent around <a class="yt-timestamp" data-t="01:27:01">[01:27:01]</a>. In the age of AI, understanding the [[ai_alignment_and_ethics | alignment and ethical implications]] of machine learning technologies can become an important part of contributing to public discourse.
 
 > [!info] Did You Know?
-> 
+>
 > Public intellectuals often balance deep expertise with the ability to communicate complex ideas to a general audience.
 
 ### The Importance of a Circle of Competence

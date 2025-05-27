@@ -3,7 +3,7 @@ title: Strategic leadership in wars
 videoId: tM9ZMYUYhTk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Strategic leadership is a crucial element in determining the outcome of wars. The capacity to understand, assess, and implement effective strategies can differentiate between victory and defeat. This article extracts insights from a fascinating discussion with historian Andrew Roberts and explores the nuances of strategic leadership in military conflicts.
 
 ## Defining Strategic Leadership
@@ -11,7 +11,7 @@ Strategic leadership is a crucial element in determining the outcome of wars. Th
 Strategic leadership in a wartime context involves a combination of decision-making capacity, strategic communication, efficient execution, and adaptability. It's about having a leader, either civilian or military, who can get the big idea for the war right and communicate this effectively to their lieutenants and the populace. They need to carry out the plan aggressively and efficiently while continually adapting to the ongoing circumstances of war [00:07:01].
 
 > [!info] A Closer Look
-> 
+>
 > The concept of strategic leadership transcends mere tactical prowess. It's about understanding the larger picture and being able to pivot as the situation on the ground evolves. Andrew Roberts emphasizes that wars often hinge on effective strategic leadership rather than mere numbers or resources [00:06:01].
 
 ## Historical Examples
@@ -36,7 +36,7 @@ Roberts outlines four critical tenets of strategic leadership that repeatedly sh
 4. **Adaptability**: Continually refining strategies as the conflict evolves [00:07:29].
 
 > [!info] The Importance of Adaptability
-> 
+>
 > According to Roberts, few plans endure the enemy's first engagement. Effective leaders must be willing to adapt and revise their strategies based on real-time data and developments on the battlefield [00:07:55].
 
 ## Conclusion

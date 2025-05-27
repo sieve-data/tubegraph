@@ -3,12 +3,12 @@ title: Impact of plagues on human history
 videoId: QFzgSmN8Ng8
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In human history, plagues have played a critical and transformative role, influencing the trajectory of civilizations and societies. This article explores the insights shared by Professor Kyle Harper in a recent discussion focusing on the monumental impacts of plagues across various epochs, particularly highlighting the [[factors_in_the_fall_of_the_roman_empire | Roman Empire]] and the broader historical context.
 
 ## Plagues and Population Dynamics
 
-One of the profound ways plagues have shaped human history is through alterations in population dynamics. Professor Harper underscores the significant impact of plagues by referencing a graph from his book *The Fate of Rome*, which illustrates sharp declines in human population over thousands of years due to the bubonic plague, specifically Yersinia pestis. These declines are visible as substantial downspikes, marking two of the most dramatic features in human population history over the last 10,000 years. These aren't mere fluctuations but represent catastrophic events that reshaped societies.
+One of the profound ways plagues have shaped human history is through alterations in population dynamics. Professor Harper underscores the significant impact of plagues by referencing a graph from his book _The Fate of Rome_, which illustrates sharp declines in human population over thousands of years due to the bubonic plague, specifically Yersinia pestis. These declines are visible as substantial downspikes, marking two of the most dramatic features in human population history over the last 10,000 years. These aren't mere fluctuations but represent catastrophic events that reshaped societies.
 
 ## The Roman Empire's Demise
 

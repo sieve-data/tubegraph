@@ -3,7 +3,7 @@ title: AI Alignment and Safety
 videoId: 64lXQP6cs5M
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 AI alignment and safety are critical concerns in the development and deployment of advanced artificial intelligence systems. This article elaborates on these topics based on insights from a discussion with Sholto Douglas and Trenton Bricken from Anthropic, focusing on the complexities and prospects of aligning AI behavior with human values and ensuring their safe operation.
 
 ## The Importance of AI Alignment

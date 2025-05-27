@@ -3,7 +3,7 @@ title: US and China competition in AI development
 videoId: zdbVtZIn9IM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The development of artificial intelligence (AI) has become a focal point for [[ai_development_and_competition_globally | geopolitical competition]], particularly between the United States and China. As discussed in the podcast interview with Leopold Aschenbrenner, this competitive landscape is deeply intertwined with national security, economic growth, and technological supremacy. The implications of this race extend far beyond mere technological advancements, impacting broader strategic, economic, and political dimensions.
 
 ## The Stakes of AI Dominance
@@ -24,12 +24,12 @@ On the other hand, China's rapid industrial growth allows it to potentially [[ch
 
 ## The Critical Role of Security in AI Development
 
-Security remains a critical factor in the competition. The potential for [[security_concerns_and_espionage_in_ai_development | espionage and theft of AI technology]] heightens the stakes. As Aschenbrenner points out, the risk of AI-related IP theft is significant, given how easily sensitive information can be misappropriated <a class="yt-timestamp" data-t="00:58:09">[00:58:09]</a>. 
+Security remains a critical factor in the competition. The potential for [[security_concerns_and_espionage_in_ai_development | espionage and theft of AI technology]] heightens the stakes. As Aschenbrenner points out, the risk of AI-related IP theft is significant, given how easily sensitive information can be misappropriated <a class="yt-timestamp" data-t="00:58:09">[00:58:09]</a>.
 
 Both nations must balance the imperative to [[ai_safety_and_security_measures | advance and protect AI technologies]] against the backdrop of international espionage. Implementing rigorous security protocols becomes a priority to ensure that advancements in AI remain within the development control of the respective nations <a class="yt-timestamp" data-t="01:00:03">[01:00:03]</a>.
 
 > [!info] Importance of AI in Global Competition
-> 
+>
 > The development of AI is poised to influence global hierarchies significantly, making it not only a technological concern but also a crucial strategic component in determining future world leadership dynamics. Both the U.S. and China are investing extensively in AI to not only benefit from technological advancements but also to ensure that their geopolitical standing is reinforced through this new technological frontier.
 
 Understanding these dynamics is crucial for comprehending the broader implications of AI development in shaping the future geopolitical landscape. This ongoing [[challenges_and_opportunities_in_ai_and_agi_development | race highlights the necessity for careful strategic and policy planning]] in both nations as they negotiate the complex terrain of AI advancements and international competitiveness.

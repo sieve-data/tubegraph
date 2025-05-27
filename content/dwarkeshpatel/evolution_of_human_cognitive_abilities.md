@@ -3,7 +3,7 @@ title: Evolution of human cognitive abilities
 videoId: Uj6skZIxPuI
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Understanding the evolution of human cognitive abilities provides insights into the unique characteristics that distinguish Homo sapiens from other species. It is a subject not thoroughly explored through genetics; however, ongoing research continues to unveil fascinating revelations about our ancestry and development [[human_evolutionary_biology_and_anthropology]].
 
 ## Insights from Ancient DNA

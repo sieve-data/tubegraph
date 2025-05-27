@@ -3,7 +3,7 @@ title: Napoleon's entrepreneurial aspects
 videoId: tM9ZMYUYhTk
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Napoleon Bonaparte is often remembered as a military genius and a significant political leader in European history. What is less recognized, perhaps, is his entrepreneurial spirit and his alignment with many qualities that are today admired in successful business leaders, particularly among tech entrepreneurs. Andrew Roberts, in a recent podcast discussion, shed light on Napoleon's innovative mindset and his contributions to various fields beyond the battlefield.
 
 ## A Young Upstart with Grand Ambitions
@@ -30,7 +30,7 @@ Napoleon's embrace of modernity and science was a strategic nationalistic move a
 
 ## A Visionary Leader with Business Acumen
 
-In Roberts' discussion, it was suggested that if Napoleon were alive today, his remarkable talents would likely find expression in the realm of Silicon Valley as a tech entrepreneur. This is where his strategic prowess, innovative mindset, and knack for leadership could flourish, potentially leading to transformative outcomes. 
+In Roberts' discussion, it was suggested that if Napoleon were alive today, his remarkable talents would likely find expression in the realm of Silicon Valley as a tech entrepreneur. This is where his strategic prowess, innovative mindset, and knack for leadership could flourish, potentially leading to transformative outcomes.
 
 > **Timestamp:** <a class="yt-timestamp" data-t="01:05:08">[01:05:08]</a>
 > It is speculated that if a genius like Napoleon was born today, he'd likely be akin to an Elon Musk—establishing a company that makes a significant impact, similar to how [[founder_archetypes_in_the_tech_industry | tech founders reshape industries]].

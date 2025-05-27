@@ -3,7 +3,7 @@ title: Economic impact of AI and automation on global growth
 videoId: WLBsUarvWTw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The economic landscape is poised for a significant transformation with the advent of artificial intelligence (AI) and automation. In a recent conversation featuring Tamay Besiroglu and Ege Erdil, the economic implications of these technologies were explored, particularly how they might influence global [[impact_of_ai_on_future_economic_growth | economic growth]]. Below, we delve into key insights from the discussion, addressing how AI and automation could reshape the economic environment.
 
 ## Understanding the Broader Transformation

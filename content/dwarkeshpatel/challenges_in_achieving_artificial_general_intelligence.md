@@ -3,7 +3,7 @@ title: Challenges in achieving artificial general intelligence
 videoId: UakqL6Pj9xo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Achieving [[artificial_intelligence_and_general_intelligence | Artificial General Intelligence (AGI)]] remains one of the most ambitious goals in the field of artificial intelligence. This article discusses some of the core challenges as outlined by François Chollet, creator of Keras, and other experts during a dialogue on the subject. AGI implies a system that can learn and adapt to any task much like a human, fundamentally differing from specialized AI that thrives on memorization of data.
 
 ## Memorization vs. Intelligence

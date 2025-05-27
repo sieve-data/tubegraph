@@ -3,15 +3,15 @@ title: rethinking conventional views on children's rights
 videoId: BV6Qice6Lrc
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion on the Lunar Society Podcast, Sarah Fitzgerald, a writer and speaker well-known for her educational philosophy "Taking Children Seriously," challenges the conventional views on children's rights and education. Fitzgerald advocates for a [[noncoercive_education_philosophy | non-coercive approach]], positing that children are inherently [[rationality_and_creativity_in_children | creative and rational]] beings who should be treated with the same respect and autonomy as adults. This article delves into her arguments and explores how conventional practices could be reimagined.
 
 ## Taking Children Seriously: An Overview
 
-Sarah Fitzgerald's educational philosophy argues for the [[noncoercive_education_philosophy | non-coercive treatment of children]]. She asserts that children, like adults, are fallible and possess the capability for rational thought from birth. The current societal treatment of children is reminiscent of the patriarchal views that once dominated attitudes toward women and minority groups, where these groups were seen as needing guidance through authoritarian control (<a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>). 
+Sarah Fitzgerald's educational philosophy argues for the [[noncoercive_education_philosophy | non-coercive treatment of children]]. She asserts that children, like adults, are fallible and possess the capability for rational thought from birth. The current societal treatment of children is reminiscent of the patriarchal views that once dominated attitudes toward women and minority groups, where these groups were seen as needing guidance through authoritarian control (<a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>).
 
 > [!info] The Concept of Coercion
-> 
+>
 > Coercion is seen as causing someone to act against their will, an approach Fitzgerald considers detrimental to resolving issues rationally. She believes coercion implies that "might makes right," which is fallacious (<a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>).
 
 ## Children as Creative and Rational Beings

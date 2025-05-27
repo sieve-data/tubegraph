@@ -3,7 +3,7 @@ title: 3blue1brown's influence on math education
 videoId: oDyviiN4NVo
 ---
 
-From: [[DwarkeshPatel]] <br/>
+From: [[dwarkeshpatel]] <br/>
 
 Grant Sanderson, known for his YouTube channel 3Blue1Brown, has had a significant impact on the field of math education through creative and innovative video presentations. His influence extends beyond traditional education, providing unique insights and explanations that reach a global audience.
 

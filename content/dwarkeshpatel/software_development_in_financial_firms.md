@@ -3,14 +3,14 @@ title: Software development in financial firms
 videoId: 3BBNG0TlVwM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-Software development plays a crucial role in the operations of financial firms. This process fundamentally revolves around organizing teams, creating processes, and establishing culture and conventions crucial for the seamless building and maintenance of software solutions. In financial firms, there is significant emphasis on the sociology of software development, which involves carefully orchestrating teamwork and innovation to address complex financial challenges. 
+From: [[dwarkeshpatel]] <br/>
+Software development plays a crucial role in the operations of financial firms. This process fundamentally revolves around organizing teams, creating processes, and establishing culture and conventions crucial for the seamless building and maintenance of software solutions. In financial firms, there is significant emphasis on the sociology of software development, which involves carefully orchestrating teamwork and innovation to address complex financial challenges.
 
 ## Key Aspects of Software Development in Finance
 
 ### Technical Debt and Its Financial Implications
 
-One unique consideration for financial firms is the concept of **technical debt** [[technical_debt_in_software_engineering | technical debt in software engineering]]—a term that encapsulates the future cost of rework caused by choosing an easy and limited solution now instead of a better approach that might take longer. For rapidly growing companies, especially startups, it's often strategic to take on technical debt much like financial debt, with an understanding that it can be paid back once success is assured. 
+One unique consideration for financial firms is the concept of **technical debt** [[technical_debt_in_software_engineering | technical debt in software engineering]]—a term that encapsulates the future cost of rework caused by choosing an easy and limited solution now instead of a better approach that might take longer. For rapidly growing companies, especially startups, it's often strategic to take on technical debt much like financial debt, with an understanding that it can be paid back once success is assured.
 
 > [!info] Technical Debt
 >
@@ -22,7 +22,7 @@ Given the high stakes in the financial world, safety and precision in coding are
 
 ### Sociological Aspects of Software Development
 
-Software development is seen as a core part of sociology within financial firms, focusing on how teams are organized and how they interact to manage the complexity inherent in financial systems. By fostering a culture of innovation and collaboration [[technological_and_social_innovation | technological and social innovation]], these firms can effectively solve complex problems through iterative improvement and adaptation of software solutions <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>. 
+Software development is seen as a core part of sociology within financial firms, focusing on how teams are organized and how they interact to manage the complexity inherent in financial systems. By fostering a culture of innovation and collaboration [[technological_and_social_innovation | technological and social innovation]], these firms can effectively solve complex problems through iterative improvement and adaptation of software solutions <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>.
 
 ## Balancing Speed and Safety
 

@@ -3,7 +3,7 @@ title: Challenges and economics of prefabrication in construction
 videoId: m9ErXK5h-oU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Prefabrication in construction has long been seen as a potential game-changer for the industry, promising efficiencies and cost savings. However, the practical application of prefabricated methods faces several challenges and economic considerations.
 
 ## Understanding Prefabrication

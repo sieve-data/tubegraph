@@ -21,7 +21,7 @@ export const CHANNEL_CARDS = {
     <a href={"/dwarkeshpatel/dwarkeshpatel"}>
       <div class="card card-1">
         <p class="card-title">Dwarkesh Podcast</p>
-        <p class="card-subhead">@DwarkeshPatel</p>
+        <p class="card-subhead">@dwarkeshpatel</p>
         <img src="/static/dwarkesh.png" class="card-illustration-1" />
       </div>
     </a>

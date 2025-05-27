@@ -3,7 +3,7 @@ title: Conquest's Second Law and its critiques
 videoId: AHkmEnl55jo
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Conquest's Second Law is a theory proposed by the British historian and writer, Robert Conquest, which suggests that "Any organization not explicitly right-wing sooner or later becomes left-wing." This concept has been a topic of significant debate and scrutiny among political scientists and historians.
 
 ## The Theory Explained

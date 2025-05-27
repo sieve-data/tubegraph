@@ -3,7 +3,7 @@ title: Potential future advancements in gene editing and artificial intelligence
 videoId: sh04dEtBAoE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with geneticist and science blogger Razib Khan, several intriguing insights were highlighted about the potential future advancements in the realms of gene editing and artificial intelligence. This article delves into the implications of these advancements as discussed in the podcast with Khan.
 
 ## Gene Editing: A Future with Targeted Health Improvements

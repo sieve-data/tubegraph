@@ -3,7 +3,7 @@ title: Virtual Reality and Consciousness
 videoId: EVwjofV5TgU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a podcast conversation with David Deutsch, a physicist and author, a significant portion of the discussion delved into the intriguing intersection of virtual reality technology and its implications for consciousness. Deutsch elaborated on these concepts, presenting both theoretical possibilities and philosophical dilemmas surrounding virtual reality and its potential impact on our perception of reality and consciousness.
 
 ## Virtual Reality's Direct Neural Interface
@@ -15,7 +15,7 @@ Deutsch envisions a future where virtual reality (VR) generators might directly 
 From a philosophical viewpoint, Deutsch aligns with the perception that thoughts and sensory data may appear as intrusions into consciousness. This aligns with views held by meditators like Sam Harris, who describe both thoughts and senses as occurrences within the mind rather than being intrinsically linked to external reality ([37:01]). This consideration opens the door to questioning whether a VR interface can go beyond the sensory level and directly implant thoughts into the mind.
 
 > [!info] Cartesian Theater and Consciousness
-> 
+>
 > Deutsch critiques what he perceives as a flawed model of consciousness, comparing it to the "Cartesian theater," where experiences and thoughts are staged separately from the conscious observer. He proposes that such experiences are inherently part of this "theater," thus challenging the notion of an empty, contentless state of consciousness ([37:49]).
 
 ## VR as a Platform for Thought Implantation

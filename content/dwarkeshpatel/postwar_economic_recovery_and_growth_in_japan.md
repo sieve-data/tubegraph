@@ -3,7 +3,7 @@ title: Post-war economic recovery and growth in Japan
 videoId: rsJxlybPByM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The aftermath of World War II left Japan in ruins, with significant destruction to its infrastructure and economy. Yet, within decades, Japan was able to rise from the ashes and achieve rapid economic growth, becoming one of the leading economies in the world. This article delves into the factors and strategies behind Japan's remarkable post-war economic recovery and sustained growth.
 
 ## Background: The State of Japan Post-War
@@ -16,7 +16,7 @@ In the immediate aftermath of World War II, Japan faced severe economic challeng
 
 The American occupation played a critical role in Japan's early recovery. Under General Douglas MacArthur, the structures of the Japanese state underwent significant transformation. Despite having no involvement in Japanese affairs directly, American oversight helped stabilize the political environment, allowing for economic reforms.
 
-Notably, the Americans attempted to dismantle the powerful *zaibatsu* (large industrial conglomerates) that had thrived during World War II, aiming to reduce their influence. However, these were not completely abolished but instead transformed into *keiretsu*—a more financialized structure that allowed for coordinated, yet decentralized, economic activity.
+Notably, the Americans attempted to dismantle the powerful _zaibatsu_ (large industrial conglomerates) that had thrived during World War II, aiming to reduce their influence. However, these were not completely abolished but instead transformed into _keiretsu_—a more financialized structure that allowed for coordinated, yet decentralized, economic activity.
 
 ### 2. Government-led Industrial Policy
 

@@ -3,7 +3,7 @@ title: AI Progress Forecasting
 videoId: htOvH12T7mU
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 AI progress forecasting is a challenging and often speculative field that attempts to predict the development trajectory of artificial intelligence technologies. In a recent discussion, Scott Alexander and Daniel Kokotajlo delved into their ambitious project "AI 2027," which serves as an illustrative forecast of AI advancements leading up to the year 2027. This article explores key insights and methodologies associated with AI forecasting as explained by the two thinkers.
 
 ## AI 2027: The Forecast Project

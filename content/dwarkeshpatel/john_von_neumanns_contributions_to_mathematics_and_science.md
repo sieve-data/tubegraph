@@ -3,7 +3,7 @@ title: John von Neumann's contributions to mathematics and science
 videoId: faZI6OBOopE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 John von Neumann was a monumental figure in mathematics and science whose work continues to reverberate through various disciplines. His contributions span from theoretical constructs to practical implementations, establishing him as a cornerstone in multiple fields of study.
 
 ## Early Years and Education
@@ -41,7 +41,7 @@ Von Neumann was part of a group known as "The Martians," a collection of brillia
 Von Neumann's involvement during the Manhattan Project and subsequent work in computing, reinforced by his predictive acumen regarding global events, set the stage for many developments during the Cold War and beyond [[the_impact_of_world_war_ii_and_cold_war_on_scientific_research | impact of World War II and Cold War on scientific research]] <a class="yt-timestamp" data-t="00:37:00">[00:37:00]</a>.
 
 > [!info] Key Takeaway
-> 
+>
 > John's pervasive influence across fields underpins not only theoretical advancements but also practical applications that drive contemporary technology.
 
 In summary, John von Neumann's contributions across various fields make his legacy invaluable and enduring, cutting across the tapestry of modern scientific thought and influence.

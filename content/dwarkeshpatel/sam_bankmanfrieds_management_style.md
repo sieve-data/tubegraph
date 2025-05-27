@@ -3,7 +3,7 @@ title: Sam Bankman-Fried's management style
 videoId: yXgDlIlB93A
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Sam Bankman-Fried, often regarded as a significant figure in the world of cryptocurrency, is known for a management style that evokes mixed reactions. His leadership of FTX, a major cryptocurrency exchange, has been both admired for its rapid growth and critiqued for internal handling practices. In this article, we delve into the various facets of Bankman-Fried's management style as reflected in his time at FTX, based on insights provided by Brett Harrison, a former executive at FTX US.
 
 ## The Early Leadership

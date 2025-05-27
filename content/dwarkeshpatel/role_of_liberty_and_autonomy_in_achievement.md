@@ -3,7 +3,8 @@ title: Role of liberty and autonomy in achievement
 videoId: yYtyKmPZBto
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ## Role of Liberty and Autonomy in Achievement
 
 The discussion on the role of liberty and autonomy in achievement draws significantly from Charles Murray's insights shared during his podcast interview. Throughout the interview, Murray emphasizes the crucial relationship between individual freedom and the potential for outstanding human accomplishment. This article explores this concept through various aspects of autonomy as it relates to scientific, artistic, and social achievements.
@@ -17,7 +18,7 @@ Murray begins by pointing out the relatively recent historical emergence of the 
 The United States offers a unique historical case study in Murray's analysis. He describes it as the first nation to establish a governmental framework that explicitly prioritized individual liberty, enabling all people to pursue happiness and fulfillment as they see fit. Despite the initial contradiction of slavery, this foundational principle facilitated an environment that has historically supported innovation and transformation [[technological_and_social_innovation | technological and social innovation]] [<a class="yt-timestamp" data-t="01:12:02">01:12:02</a>].
 
 > [!info] The American Experiment
-> 
+>
 > Murray highlights how America's founding principles were expressly built around the idea of individual liberty, a stark break from historical norms and a major catalyst for its innovation [<a class="yt-timestamp" data-t="01:12:02">01:12:02</a>].
 
 ### Liberty in Diverse Contexts

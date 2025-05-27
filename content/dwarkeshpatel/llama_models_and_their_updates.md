@@ -3,7 +3,7 @@ title: Llama models and their updates
 videoId: rYXeQbTuVl0
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The development of [[metas_llama_ai_models_and_open_source|Llama models]] has been a significant stride in the AI community, offering open-source alternatives designed to maximize both performance and accessibility. In this article, we delve into the evolution of Llama models, their specific updates, and the broader impacts they are having on the AI landscape.
 
 ## Origins and Development of Llama Models

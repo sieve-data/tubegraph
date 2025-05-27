@@ -3,16 +3,17 @@ title: Advice for people in their 20s
 videoId: WU-lBOAS1VQ
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 Patrick Collison, the CEO of Stripe, has a wealth of experience and insight to offer individuals in their 20s. During a recent discussion, he shared several pieces of advice that are particularly relevant to those contemplating their career paths and life decisions. Below is a detailed exploration of the advice and ideas Collison provided during the podcast.
 
 > [!info] Patrick Collison on Advice
-> 
+>
 > Advice for those in their 20s centers on exploration, the pursuit of expertise, and the evaluation of potential career trajectories.
 
 ## Relocating and Career Paths
 
 Collison begins his advice by re-evaluating a piece of guidance he had previously shared: that young people should move to vibrant hubs like [[san_francisco_as_a_cultural_and_career_destination | San Francisco]] to kickstart their careers. However, he now expresses some reservations:
+
 - **San Francisco Specifics**: While many can benefit from the entrepreneurial spirit of places like San Francisco, it's not a fit for everyone. San Francisco's culture celebrates individualism and entrepreneurship, epitomized by figures like Steve Jobs and Bill Gates <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
 - **Pursuit of Expertise**: There are career paths where deep technical knowledge and prolonged study are necessary. He points to successful careers like those of Herb Boyer, who required decades to accumulate the knowledge that led to breakthrough innovations, as examples of [[the_value_of_deep_technical_knowledge_and_expertise | the importance of depth over breadth]] for some individuals <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
 
@@ -23,6 +24,7 @@ San Francisco is praised for its emphasis on entrepreneurship and defiance of co
 ## Diverse Career Advices
 
 Patrick Collison is keen on the diversity of career paths and encourages 20-somethings to consider different approaches:
+
 - **Value of Information Dissemination**: Collison highlights the importance of roles that focus on spreading crucial information, mentioning podcasts as a valuable outlet for increasing "catalytic surface area" of information <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
 - **Alternatives to Entrepreneurship**: While appreciating startups and innovations, Collison reminds us of significant contributions from established organizations <a class="yt-timestamp" data-t="01:48:02">[01:48:02]</a>.
 

@@ -3,7 +3,7 @@ title: COVID-19 pandemic response in the UK
 videoId: 3i7ym_Qh7BA
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The COVID-19 pandemic was an unprecedented crisis that tested the resilience and efficacy of governments worldwide, and the UK was no exception. During the pandemic, [[dominic_cummings_advisor_role_under_boris_johnson | Dominic Cummings]], former chief advisor to Prime Minister Boris Johnson, shared insights into the UK's governmental response to this crisis, highlighting both systemic challenges and strategic interventions.
 
 ## The Initial Chaos
@@ -26,7 +26,7 @@ However, these innovations faced internal resistance. Despite the success of the
 
 Despite strategic interventions, systemic inertia proved to be a formidable opponent. Proposed improvements in data management and crisis response were met with skepticism and opposition within the bureaucracy. Significant initiatives like sewage monitoring and rapid testing were dismantled in quiet bureaucratic resistance following initial success [00:22:25](<a class="yt-timestamp" data-t="00:22:25">00:22:25</a>).
 
-Cummings reflected on the cultural and institutional ethos, which resisted innovation and prioritized adherence to antiquated processes over agile response—an outlook that contributed to the UK's difficulties during COVID-19 [00:21:00](<a class="yt-timestamp" data-t="00:21:00</a>).
+Cummings reflected on the cultural and institutional ethos, which resisted innovation and prioritized adherence to antiquated processes over agile response—an outlook that contributed to the UK's difficulties during COVID-19 [00:21:00](<a class="yt-timestamp" data-t="00:21:00%3C/a>).
 
 > [!info] Understanding from the Past
 > Cummings' experiences underscore the importance of adaptive governance and the persistent challenges of bureaucratic rigidity, offering lessons for future crisis management and governmental reform [00:20:06](<a class="yt-timestamp" data-t="00:20:06">00:20:06</a>).

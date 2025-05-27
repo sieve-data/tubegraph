@@ -3,7 +3,7 @@ title: Influence of agriculture and trade on world history
 videoId: 1Z35PqPQU2M
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The course of world history has been profoundly influenced by agriculture and trade, shaping civilizations and prompting cultural exchanges across continents. In a discussion with Charles Mann, the author of several historical books, we uncover how these elements played pivotal roles in development and change over centuries.
 
 ## Agricultural Innovations and Population Growth
@@ -27,7 +27,7 @@ Beyond economic impacts, agriculture had notable social ramifications. Mann exam
 Lastly, Mann also touches on contemporary concerns such as the effects of agriculture on the environment. He suggests that in our current times, focusing on diversifying agricultural research beyond staple crops like wheat and rice could lead to more sustainable practices [[environmental_impact_of_construction_and_regulatory_hurdles | environmental impact of construction and regulatory hurdles]] [01:21:32].
 
 > [!info] Essential Insight
-> 
-> The interplay between agriculture and trade is an ongoing narrative that continues to influence global dynamics. Historical patterns underscore the importance of adapting and evolving agricultural practices and trade systems to meet the challenges of an ever-changing world. 
+>
+> The interplay between agriculture and trade is an ongoing narrative that continues to influence global dynamics. Historical patterns underscore the importance of adapting and evolving agricultural practices and trade systems to meet the challenges of an ever-changing world.
 
 In essence, the intersections of agriculture and trade with global history are nuanced and have had far-reaching effects, which continue to shape our modern world. Understanding these elements offers valuable insights into future challenges and opportunities.

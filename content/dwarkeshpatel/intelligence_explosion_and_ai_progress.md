@@ -3,7 +3,7 @@ title: Intelligence explosion and AI progress
 videoId: _kRg-ZP1vQc
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In the podcast discussion featuring Carl Shulman, many profound insights into the future trajectory of artificial intelligence (AI) and the concept of an intelligence explosion were shared. Here, we delve into these concepts based on the detailed conversation.
 
 ## Understanding Intelligence Explosion

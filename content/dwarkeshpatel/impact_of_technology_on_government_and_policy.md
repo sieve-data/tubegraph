@@ -3,9 +3,9 @@ title: Impact of technology on government and policy
 videoId: zSLWR3AbF3c
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 The integration and impact of technology on government and policy were significant themes discussed by Tony Blair, the former Prime Minister of the UK, in a recent conversation. Blair, who now leads the Tony Blair Institute, highlighted the profound effects technology has and will continue to have on governance, emphasizing the urgency and necessity for government systems to adapt.
 
 ## The Technology Revolution
@@ -13,7 +13,7 @@ The integration and impact of technology on government and policy were significa
 Tony Blair underscored that the current technology revolution, particularly the rise of artificial intelligence (AI), represents the most consequential change since the Industrial Revolution. He emphasized that this transformation is reshaping every aspect of society, economy, and governance, making it imperative for political leaders to understand and adapt to this new landscape. Blair mentioned that failure to grasp the intricacies of this technology revolution would leave governments ill-prepared to handle future crises related to technological advancements [[ai_progress_forecasting | (AI Progress Forecasting)]] (<a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>).
 
 > [!info] Importance of Understanding Technology
-> 
+>
 > Blair stresses that political leaders must focus on the technology revolution, as it is the single biggest factor altering global society today [[potential_societal_impacts_of_advanced_ai | (Potential societal impacts of advanced AI)]] (<a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>).
 
 ## Challenges and Adaptations

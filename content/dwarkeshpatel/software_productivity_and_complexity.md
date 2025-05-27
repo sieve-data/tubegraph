@@ -3,9 +3,9 @@ title: Software productivity and complexity
 videoId: YSgfu7XprIM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
-```markdown
+From: [[dwarkeshpatel]] <br/>
 
+```markdown
 In the realm of software development, productivity and complexity have always been two sides of the same coin. As software systems evolve, they often become more convoluted and challenging to manage, which in turn affects the industry's ability to harness productivity gains fully. This article examines why software hasn't led to runaway productivity growth, as discussed by Austin Vernon in a detailed podcast conversation.
 
 ## The Puzzle of Productivity in Software
@@ -17,7 +17,7 @@ Austin Vernon proposes that the primary reason software has not revolutionized p
 The complexity is compounded by the fact that automating processes often involves encapsulating complex business logic into software. This transformation demands a thorough understanding and documentation of each process at a granular level, making development a challenging endeavor fraught with diminishing returns as straightforward tasks are completed and corner cases prevail [<a class="yt-timestamp" data-t="00:20:58">00:20:58</a>].
 
 > [!info] Waterbed Theory of Complexity
-> 
+>
 > The theory suggests that complexity in systems is a fixed quantity; reducing it in one area merely shifts it elsewhere. This is analogous to pushing down on a waterbed, only to have it pop up in another spot [<a class="yt-timestamp" data-t="00:21:14">00:21:14</a>].
 
 ### Management and Industry Adaptation

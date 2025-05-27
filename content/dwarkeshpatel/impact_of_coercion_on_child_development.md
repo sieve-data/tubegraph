@@ -3,7 +3,7 @@ title: impact of coercion on child development
 videoId: BV6Qice6Lrc
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The topic of coercion in child development was extensively discussed by Sarah Fitz-Claridge in a recent podcast, where she explored her educational philosophy known as Taking Children Seriously. This article delves into the effects of coercion on children and the proposed alternatives for a non-coercive upbringing.
 
 ## Understanding Coercion in Childhood

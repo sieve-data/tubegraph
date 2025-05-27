@@ -3,7 +3,7 @@ title: Online education and future of teaching
 videoId: i75KvXVrtLw
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a world where technological advances continue to reshape industries, education is no exception. Professor Alex Tabarrok from George Mason University provides insights into how online education is evolving and its potential impacts on the teaching profession.
 
 ## The Emergence of Online Education
@@ -16,7 +16,7 @@ Online education has started to gain traction as a viable alternative or supplem
 - **Flexibility for Users**: Students have the opportunity to learn at their own pace, pause, and replay lessons as needed, providing a customizable learning experience [[ai_driven_personalization_and_applications]].
 
 > [!info] Student Autonomy
-> 
+>
 > Online education allows students to control the speed of their education, adapting the pace of learning to suit individual needs [[reinforcement_learning_in_language_models]].
 
 ## The Transformation of Teaching
@@ -29,12 +29,13 @@ With the rise of massive open online courses (MOOCs), the teaching landscape is 
 - These top educators could teach global audiences through online platforms, outperforming traditional one-on-one educational models in terms of reach and impact.
 
 > [!info] Educational Impact
-> 
+>
 > Professor Tabarrok's goal is to teach more people economics than anyone else in history, leveraging the scalability of online education [[technology_and_economic_growth_in_history]].
 
 ## The Evolution of Educational Roles
 
 While the role of traditional classroom teachers may diminish, new roles will emerge:
+
 - **Tutors and Coaches**: Personal coaches or tutors could benefit those looking for individualized guidance as education becomes more scalable [[economic_and_social_impacts_of_ai]].
 - **Design and Development**: There will be a growing need for individuals who can develop engaging and effective online educational materials [[challenges_and_opportunities_in_educational_innovation_and_technology]].
 

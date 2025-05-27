@@ -3,7 +3,7 @@ title: Cultural and historical influences on modern science
 videoId: sh04dEtBAoE
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 In a recent discussion with Razib Khan, a prominent science blogger specializing in genetics, history, and evolution, several insights emerged about the interplay between cultural-historical contexts and modern scientific practices. This article will explore some of these themes, focusing on how the past shapes the institutions and individuals that drive scientific progress today.
 
 ## The Role of Cultural Heritage

@@ -3,7 +3,8 @@ title: The story of Paypal and its challenges
 videoId: OEcOUgXvz7g
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
+
 ```markdown
 PayPal's journey is a fascinating tale of innovation, competition, and overcoming challenges. It has become a cornerstone of digital finance, but its story is marked with near collapses, strategic pivots, and a survival instinct that defined its early years.
 
@@ -36,6 +37,6 @@ In the wake of the 9/11 attacks, PayPal's leadership faced uncertainty in going 
 The story of PayPal is one of persistence, foresight, and strategic maneuvering amidst chaos and uncertainty. Its founders were not immune to the pressures and errors that come with building a pioneering company. Instead, their resilience turned practices of constant adaptation into a successful exit and laid pathways for future ventures such as Tesla, LinkedIn, and YouTube, driven by its so-called "PayPal Mafia" <a class="yt-timestamp" data-t="00:35:32">[00:35:32]</a>. This mirrors broader trends in [[technological_and_social_innovation | technological and social innovation]] across different industries.
 
 > [!info] Inspiring Resilience
-> 
+>
 > The frequent anecdotes of failure and risk in PayPal's history serve as reminders that even the most successful innovators faced numerous hurdles—and conquered them.
 ```

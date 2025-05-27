@@ -3,7 +3,7 @@ title: Espionage and talent flow in technology industries
 videoId: pE3KKUKXcTM
 ---
 
-From: [[DwarkeshPatel]] <br/> 
+From: [[dwarkeshpatel]] <br/>
 The increasingly interconnected world and rapid technological advancements have made the technology industries hotbeds for both talent acquisition and espionage. This discussion, highlighted in a dialogue between Dylan Patel and Jon Y., sheds light on how these dynamics unfold in the semiconductor and AI sectors [[ai_development_and_competition_globally | globally]].
 
 ## Espionage in the Tech Industry
