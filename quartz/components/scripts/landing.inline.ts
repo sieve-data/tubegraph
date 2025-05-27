@@ -1,22 +1,30 @@
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
+  console.log("navved")
   const currentSlug = e.detail.url
 
   // Only run on the landing page
-  if (currentSlug !== "/") {
+  if (currentSlug !== "/" && currentSlug !== "index") {
+    console.log("Not on landing page, slug:", currentSlug)
     return
   }
 
+  console.log("Setting up channel selector...")
   await setupChannelSelector()
+  await setupCreateGraphButton()
 })
 
 async function setupChannelSelector() {
   const channelSelect = document.getElementById("channel-select") as HTMLSelectElement
 
   if (!channelSelect) {
+    console.log("Channel select element not found!")
     return
   }
 
+  console.log("Channel select found, adding event listener...")
+
   channelSelect.addEventListener("change", async (e) => {
+    console.log("changed")
     const target = e.target as HTMLSelectElement
     const selectedChannel = target.value
 
@@ -46,16 +54,116 @@ async function setupChannelSelector() {
         </div>
       `
 
-    // Trigger a custom event that the graph script can listen to
-    const graphUpdateEvent = new CustomEvent("graph-update", {
-      detail: {
-        container: graphContainer,
-        rootNode: selectedChannel,
-        config: newConfig,
-      },
+    // Instead of a custom event, trigger a fake "nav" event to re-render the graph
+    // This will use the existing graph rendering logic
+    const navEvent = new CustomEvent("nav", {
+      detail: { url: "index" },
     })
-    document.dispatchEvent(graphUpdateEvent)
+    document.dispatchEvent(navEvent)
   })
+}
+
+async function setupCreateGraphButton() {
+  const createButton = document.getElementById("add-video") as HTMLButtonElement
+
+  if (!createButton) {
+    console.log("Create Graph button not found!")
+    return
+  }
+
+  console.log("Create Graph button found, adding event listener...")
+
+  createButton.addEventListener("click", async (e) => {
+    e.preventDefault()
+
+    // Get input values
+    const channelInput = document.getElementById("channel-input") as HTMLInputElement
+    const sortBySelect = document.getElementById("sort-by") as HTMLSelectElement
+    const vidDurationInput = document.getElementById("vid-duration") as HTMLInputElement
+
+    if (!channelInput || !sortBySelect || !vidDurationInput) {
+      console.error("Required form elements not found!")
+      return
+    }
+
+    const username = channelInput.value.trim()
+    const sortBy = sortBySelect.value as "views" | "upload_date"
+    const minVidDuration = parseInt(vidDurationInput.value) || 1
+
+    // Validate inputs
+    if (!username) {
+      alert("Please enter a channel username")
+      return
+    }
+
+    // Show loading state on button
+    const originalText = createButton.textContent
+    createButton.textContent = "Creating Graph..."
+    createButton.disabled = true
+
+    try {
+      await createTubegraphPages(username, minVidDuration, sortBy)
+
+      // Success feedback
+      createButton.textContent = "Graph Created!"
+      createButton.style.backgroundColor = "#22c55e"
+
+      // Reset form
+      channelInput.value = ""
+      vidDurationInput.value = "1"
+      sortBySelect.value = "views"
+
+      // Reset button after delay
+      setTimeout(() => {
+        createButton.textContent = originalText
+        createButton.style.backgroundColor = ""
+        createButton.disabled = false
+      }, 3000)
+    } catch (error) {
+      console.error("Error creating tubegraph:", error)
+
+      // Error feedback
+      createButton.textContent = "Error - Try Again"
+      createButton.style.backgroundColor = "#ef4444"
+
+      // Reset button after delay
+      setTimeout(() => {
+        createButton.textContent = originalText
+        createButton.style.backgroundColor = ""
+        createButton.disabled = false
+      }, 3000)
+    }
+  })
+}
+
+async function createTubegraphPages(
+  username: string,
+  minVidDuration: number,
+  sortBy: "views" | "upload_date",
+) {
+  const response = await fetch("https://mango.sievedata.com/v2/push", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "X-API-Key": "MCmpv1nyARO6vKq5xJqfCgTDCVrGevkxO7qT9jlhatY",
+    },
+    body: JSON.stringify({
+      function: "sieve-demos/create-tubegraph-pages",
+      inputs: {
+        username: username,
+        min_vid_duration: minVidDuration,
+        sort_by: sortBy,
+      },
+    }),
+  })
+
+  if (!response.ok) {
+    throw new Error(`API request failed: ${response.status} ${response.statusText}`)
+  }
+
+  const result = await response.json()
+  console.log("Tubegraph creation result:", result)
+  return result
 }
 
 function getChannelDisplayName(channelPath: string): string {

@@ -1,4 +1,11 @@
-// put your custom CSS here!
+// Quick tunables
+$border       : #e2e2e2;
+$bg           : #ffffff;
+$icon-bg      : #ffffff;        // keep same as $bg for subtle effect
+$shadow       : 0 1px 2px rgba(0, 0, 0, 0.08);
+$shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
+
+
 .page-body {
   background-image: url("/static/bg.png") !important;
   margin: 0;
@@ -15,32 +22,43 @@
   padding-bottom: 5rem;
 }
 
-.graph-section .graph .graph-outer { 
-  height: 700px;
-  width: 100%;
-}
-
-.graph-section .graph .graph-container {
-  height: 100%; /* This makes the inner container fill the outer container */
-  width: 100%;
-  background-color: rgb(249, 249, 249)
-}
 
 .landing-header {
   display: flex;
+  flex-direction: column;
   width: 100%;
   justify-content: center;
-  padding-top: 4rem;
+  align-items: center;
+  padding-top: 7rem;
+  
+  /* Animation properties */
+  animation: slideUp 0.8s ease-out;
+  transform: translateY(0); /* Final position */
 }
 
 .header-text {
   font-family: "Tiempos", sans-serif;
+  margin: 0px;
   max-width: 60%;
   font-size: 52px;
   font-weight: 700;
   color: rgb(63, 63, 63);
   line-height: normal;
   text-align: center;
+  margin-top: 1rem; 
+}
+
+
+/* Keyframe animation for slide up effect */
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px); /* Start 30px below */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0); /* End at normal position */
+  }
 }
 
 .header-text b{
@@ -309,7 +327,28 @@
   color: rgb(63, 63, 63);
   cursor: pointer;
   transition: border-color 0.2s ease;
-  min-width: 200px;
+  width: 200px;
+}
+
+.drop { 
+  width: 125px;
+}
+
+.channel-select.min-vid-duration {
+  width: 40px !important;
+}
+
+.add-video {
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 14px;
+  padding: 0.6rem;
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
+  background-color: #bf7d1a;
+  border: 2px solid #8e5705;
+  border-radius: 0.5rem;
+  color: white;
 }
 
 .graph-section {
@@ -322,8 +361,19 @@
 .graph-controls {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   gap: 1rem;
+}
+
+.add-channel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem;
+  background-color: white;
+  border: 1px solid $border;
+  border-radius: 1rem;
 }
 
 
@@ -345,5 +395,62 @@
 .graph-section .graph .graph-container {
   height: 100%; /* This makes the inner container fill the outer container */
   width: 100%;
-  background-color: rgb(249, 249, 249)
+  background-color: rgba(255, 255, 255, 0.471);
+  backdrop-filter: blur(2px);
+}
+
+.pill-link {
+  // layout
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  width: fit-content;
+
+  // shape
+  border: 1px solid $border;
+  border-radius: 9999px;  // fully rounded
+  background: $bg;
+  padding-right: 1rem;
+
+  // look & feel
+  font: 500 0.95rem/1.2 "Inter", system-ui, sans-serif;
+  color: #000;
+  box-shadow: $shadow;
+  transition: box-shadow .2s ease, transform .15s ease;
+
+  // subtle lift on hover / focus
+  &:hover,
+  &:focus-visible {
+    box-shadow: $shadow-hover;
+    transform: translateY(-1px);
+  }
+
+  // left confetti icon block
+  &__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.35rem 0.6rem;
+    background: $icon-bg;
+    border-right: 1px solid $border;
+    border-top-left-radius: 9999px;
+    border-bottom-left-radius: 9999px;
+    font-size: 1rem;
+  }
+
+  // middle text
+  &__label {
+    margin: 0 0.75rem;
+    white-space: nowrap;
+  }
+
+  // right arrow
+  &__arrow {
+    display: flex;
+    align-items: center;
+    svg {
+      width: 0.9rem;
+      height: 0.9rem;
+    }
+  }
 }
