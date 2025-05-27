@@ -16,7 +16,7 @@ export const CHANNEL_CARDS = {
     </a>
   ),
   huberman: (
-    <a href={"/huberman/huberman"}>
+    <a href={"/hubermanlab/hubermanlab"}>
       <div class="card card-2">
         <p class="card-title">Huberman Lab</p>
         <p class="card-subhead">@hubermanlab</p>

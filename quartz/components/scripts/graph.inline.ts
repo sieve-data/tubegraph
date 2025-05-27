@@ -368,7 +368,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         tweenGroup.add(
           new Tweened<Text>(n.label).to(
             {
-              alpha: n.label.alpha,
+              alpha: 0,
               scale: { x: defaultScale, y: defaultScale },
             },
             100,
@@ -579,17 +579,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
-
-          // zoom adjusts opacity of labels too
-          const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
-          const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
-
-          for (const label of labelsContainer.children) {
-            if (!activeNodes.includes(label)) {
-              label.alpha = scaleOpacity
-            }
-          }
         }),
     )
   }

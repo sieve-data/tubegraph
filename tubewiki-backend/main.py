@@ -56,7 +56,7 @@ def get_items(
     )
     print(output)
     return {
-        "result": "Channel Indexing... (feel free to bome back in a couple minutes)"
+        "result": "Channel Indexing... (feel free to come back in a couple minutes)"
     }
 
 
