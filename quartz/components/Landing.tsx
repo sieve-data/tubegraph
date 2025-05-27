@@ -3,6 +3,7 @@ import landingStyle from "./styles/landing.scss"
 import Graph from "./Graph"
 // @ts-ignore
 import script from "./scripts/landing.inline"
+import { LogoIcon } from "./SieveLogo"
 
 export const CHANNEL_CARDS = {
   dwarkesh: (
@@ -46,6 +47,15 @@ export default (() => {
 
     return (
       <div class="page-body">
+        <a className="powered-by-badge" href="https://www.sievedata.com/">
+          Powered by
+          <div style={{ width: "50%" }}>
+            <LogoIcon />
+          </div>
+        </a>
+        <a href="/directory" class="explore-channels">
+          Explore Channels
+        </a>
         <div class="content-container">
           <div class="landing-header">
             <a href="#" class="pill-link">

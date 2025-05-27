@@ -349,6 +349,7 @@ $shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
   border: 2px solid #8e5705;
   border-radius: 0.5rem;
   color: white;
+  cursor: pointer;
 }
 
 .graph-section {
@@ -453,4 +454,44 @@ $shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
       height: 0.9rem;
     }
   }
+}
+
+.powered-by-badge {
+  position: absolute;
+  width: 12rem;
+  font-family: "Tiempos", sans-serif;
+  top: 0.5rem;         /* top-2 */
+  left: 0.5rem;       /* right-2 */
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;        /* gap-3 */
+  padding: 0.5rem 1rem; /* p-2 px-4 */
+  font-size: 0.875rem; /* text-sm */
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 9999px; /* rounded-full */
+  background-color: #ffffff66; /* 40% opacity white */
+  backdrop-filter: blur(12px); /* backdrop-blur-md */
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.powered-by-badge:hover {
+  background-color: #f3f4f6; /* similar to Tailwind's `bg-muted` */
+}
+
+.explore-channels {
+  position: absolute;
+  top: 0.5rem;         /* top-2 */
+  right: 0.5rem;       /* right-2 */
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 14px;
+  padding: 0.6rem;
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
+  background-color: #bf7d1a;
+  border: 2px solid #8e5705;
+  border-radius: 0.5rem;
+  color: white;
 }

@@ -141,7 +141,12 @@ async function createTubegraphPages(
   minVidDuration: number,
   sortBy: "views" | "upload_date",
 ) {
-  const api_key = "MCmpv1nyARO6vKq5xJqfCgTDCVrGevkxO7qT9jlhatY"
+  const api_key = process.env.SIEVE_API_KEY
+  console.log(api_key)
+
+  if (!api_key) {
+    throw new Error("SIEVE_API_KEY environment variable is not set")
+  }
 
   // Submit the job
   const response = await fetch("https://mango.sievedata.com/v2/push", {

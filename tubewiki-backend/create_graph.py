@@ -70,6 +70,7 @@ def commit_files_to_main(file_paths: List[str], username: str) -> str:
 
     # --- 2. Create a blob + tree element for every file ----------------------
     tree_elements = []
+    file_paths_in_repo = []  # Store the destination paths for summary
     for abs_path in file_paths:
         with open(abs_path, "rb") as fh:
             content_str = fh.read().decode()  # GitHub expects str
@@ -79,6 +80,7 @@ def commit_files_to_main(file_paths: List[str], username: str) -> str:
 
         rel_name = os.path.basename(abs_path)
         dest_path = f"content/{username}/{rel_name}"  # repo-relative path
+        file_paths_in_repo.append(dest_path)  # Store for summary
 
         tree_elements.append(
             InputGitTreeElement(
@@ -97,17 +99,21 @@ def commit_files_to_main(file_paths: List[str], username: str) -> str:
         f"Add/Update {len(file_paths)} TubeGraph post"
         f"{'' if len(file_paths) == 1 else 's'} for {username}"
     )
+
+    # FIX: get the GitCommit object for the parent
+    parent_git_commit = repo.get_git_commit(head_commit.sha)
+
     new_commit = repo.create_git_commit(
         message=commit_msg,
         tree=new_tree,
-        parents=[head_commit],
+        parents=[parent_git_commit],
     )
 
     # --- 5. Move the branch ref to the new commit ----------------------------
     repo.get_git_ref(f"heads/{branch_name}").edit(new_commit.sha)
 
     # --- 6. Return a summary --------------------------------------------------
-    changed_files = "\n".join(f" • {el.path}" for el in tree_elements)
+    changed_files = "\n".join(f" • {path}" for path in file_paths_in_repo)
     return f"Committed {len(tree_elements)} file(s) in one commit:\n{changed_files}"
 
 
@@ -485,7 +491,7 @@ def get_items(
 
     # Choose a worker count that balances I/O and CPU‑bound work.
     # Adjust max_workers as needed for your environment.
-    with ThreadPoolExecutor(max_workers=25) as executor:
+    with ThreadPoolExecutor() as executor:
         futures = [executor.submit(process_video, vid) for vid in vids_array]
         for future in as_completed(futures):
             all_posts.extend(future.result())
@@ -502,8 +508,8 @@ def get_items(
     file_paths = [os.path.join(username, f"{post.filename}.md") for post in all_posts]
     file_paths.append(os.path.join(username, f"{username}.md"))
 
-    print("Creating pull‑request…")
+    print("Commiting Files…")
     pr_url = commit_files_to_main(file_paths, username)
-    print(f"✅ Opened PR: {pr_url}")
+    print(f"✅ Created Commit: {pr_url}")
 
     return {"pr_url": pr_url}

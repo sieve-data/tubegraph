@@ -32,6 +32,10 @@ import {
   cacheFile,
   cwd,
 } from "./constants.js"
+import { config } from "dotenv"
+
+// Load environment variables at the top of the file
+config()
 
 /**
  * Resolve content directory path
@@ -267,6 +271,13 @@ export async function handleBuild(argv) {
 
             const sourcefile = path.relative(path.resolve("."), args.path)
             const resolveDir = path.dirname(sourcefile)
+            
+            // Create define object for environment variables
+            const envDefines = {}
+            Object.keys(process.env).forEach(key => {
+              envDefines[`process.env.${key}`] = JSON.stringify(process.env[key])
+            })
+
             const transpiled = await esbuild.build({
               stdin: {
                 contents: text,
@@ -279,6 +290,10 @@ export async function handleBuild(argv) {
               minify: true,
               platform: "browser",
               format: "esm",
+              define: {
+                ...envDefines,
+                'process.env': '{}', // Fallback
+              },
             })
             const rawMod = transpiled.outputFiles[0].text
             return {
