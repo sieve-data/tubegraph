@@ -5,22 +5,38 @@ videoId: 2awbKQ2DLRE
 
 From: [[veritasium]] <br/> 
 
-The Pyro Board is an advanced, two-dimensional version of a Rubens tube, designed to visualize standing waves in flammable gas using flames <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
+The Pyro Board is an advanced, two-dimensional version of the classic Ruben's tube, effectively creating "a whole plane of Bunsen burners" <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. It serves as an impressive visual demonstration of sound waves and their properties, primarily [[applying_physics_in_educational_demonstrations | applying physics in educational demonstrations]] <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
 
-## How it Works
-A traditional Rubens tube is a pipe with multiple holes, where flammable gas is pumped in and lit, creating a row of Bunsen burners <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. When sounds are played into the tube, standing waves are formed <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. These waves create areas of high vibration (anti-nodes) and low vibration (nodes) within the air inside the tube <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. This vibration pattern affects the flow rate of gas escaping the holes, which in turn influences the height of the flames <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Thus, the standing wave pattern becomes visible through the varying flame heights <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+## Principle of Operation
 
-The Pyro Board takes this concept to the "next level" by creating an entire "plane of Bunsen burners" <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. The specific Pyro Board demonstrated features 2,500 holes <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
+Like a traditional Ruben's tube, the Pyro Board operates by pumping a flammable gas into a chamber with numerous small holes and lighting the gas as it escapes, forming a row of flames <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. When sounds are played into the chamber, they create standing waves within the contained gas <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
 
-## Creation and Purpose
-A team of physics and chemistry demonstrators in Denmark developed the Pyro Board <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. They were inspired by their enjoyment of the original Rubens tube and the belief that "when you put on more fire, then it always gets better" <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. Their primary purpose is to demonstrate physics concepts to children around Denmark <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>.
+Standing waves consist of areas where there is significant air vibration (anti-nodes) and areas where there is minimal vibration (nodes) <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. These variations in air pressure and vibration directly affect the flow rate of the gas escaping through the holes <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>, consequently altering the height of the flames <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. The flames are highest at the anti-nodes where vibration is greatest <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. This allows for a visual representation of the standing wave pattern <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
 
-## Demonstrations
-During a demonstration, the Pyro Board showcased several phenomena:
-*   **Fundamental Standing Wave**: By lowering the frequency, the team could find the lowest frequency that produces a standing wave, known as the fundamental <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
-*   **Varying Volume**: Adjusting the volume of the sound input caused dramatic visual changes in the flame patterns <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
-*   **Higher Frequencies**: Increasing the frequency created more complex and intense standing wave patterns, which could be quite loud and even painful to the ears <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
-*   **Music Visualization**: Playing music with a strong bass rhythm through the speaker transformed the flames into a dynamic visual representation of the sound waves <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
+## Construction
 
-### Auditory Observations
-During the demonstration, it was noted that the sound pressure in different locations corresponded to the flame heights <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. An observer could hear when they were in a "node" (area of minimal sound vibration) or an "anti-node" (area of maximum sound vibration) <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. The flames were observed to be highest in the anti-nodes <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+The Pyro Board distinguishes itself by its scale, featuring 2,500 individual holes <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>, allowing for a two-dimensional visualization of sound <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. Its creators reasoned that "when you put on more fire, then it always gets better" <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+
+## Demonstration
+
+During a demonstration, the Pyro Board is lit, revealing 2,500 small flames <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. By adjusting the frequency of the sound played into the board, different standing wave patterns can be observed <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
+
+### Fundamental Frequency
+
+The lowest frequency that produces a standing wave in the board is considered the fundamental frequency <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>, forming a basic, distinct pattern <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+
+### Varying Frequencies
+
+As the sound frequency is increased, more complex standing wave patterns emerge, with multiple nodes and anti-nodes visible across the plane of flames <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+
+### Auditory Observation
+
+An interesting phenomenon observed during demonstrations is the ability to audibly distinguish between nodes and anti-nodes. Standing in an anti-node allows one to hear the sound clearly, while moving to a node results in a noticeable reduction in sound <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. This directly correlates with the flame heights, as flames are highest at the anti-nodes where sound pressure is greatest <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>.
+
+### Music Integration
+
+The Pyro Board can also visualize music, particularly tracks with strong bass, as the fluctuating sound waves create dynamic flame patterns <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
+
+## Educational Outreach
+
+The Pyro Board is used by a team of physics and chemistry demonstrators in Denmark to educate children about physics <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. They also showcase other [[experimental_demonstrations_in_physics | experimental demonstrations in physics]] <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>.

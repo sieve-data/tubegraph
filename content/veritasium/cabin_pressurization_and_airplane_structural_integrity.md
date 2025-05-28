@@ -1,0 +1,32 @@
+---
+title: Cabin pressurization and airplane structural integrity
+videoId: vjDYfvPW4mA
+---
+
+From: [[veritasium]] <br/> 
+
+Airplane cabins are pressurized to ensure passenger and crew safety and comfort during high-altitude flights. Planes typically fly at altitudes ranging from 30,000 to 43,000 feet <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. While this altitude provides a smoother ride with less turbulence and fewer storms <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>, the primary reasons for flying so high are economic efficiency and fuel savings <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+
+## Why High Altitude Requires Pressurization
+At cruising altitudes, the air density significantly decreases, reaching about one-third of sea level density at 33,000 feet (10 km) <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. This reduced air resistance allows planes to fly approximately 73% faster with the same thrust, reducing flight time and fuel consumption <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. Jet engines also operate more efficiently in the colder temperatures found at high altitudes, around minus 50 degrees Celsius, compared to 15 degrees Celsius at sea level <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. Additionally, planes can utilize jet stream tailwinds, further saving fuel <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+
+However, the air at these altitudes is unbreathable <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. The air pressure at 10 km is only a quarter of what it is at sea level <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. While the air still contains 21% oxygen, the partial pressure of oxygen is too low (around 5.5 kilopascals) for humans to function normally <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>. Humans require at least 16 kilopascals of oxygen partial pressure <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
+
+## How Cabin Pressurization Works
+To maintain breathable air, all high-altitude aircraft cabins must be pressurized <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. A small amount of air is continuously drawn from the compression stage of the jet engines and fed into the cabin <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. This process slightly reduces engine efficiency <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
+
+### Airplane Door Mechanics and Safety
+The need for pressurization led to a radical redesign of aircraft, particularly their doors <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. Before pressurization, planes flew at lower altitudes (up to 10,000 feet or 3 km) where doors opened outward and a perfect seal was not critical <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>. With pressurized cabins, all doors were redesigned to be "plug-shaped," wider on the inside than the outside <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. This design means that the higher internal cabin pressure pushes the door into its frame, creating an airtight seal <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>. This pressure difference is so significant that it makes it virtually impossible for anyone to pull a door inwards during flight <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>, requiring a force equivalent to lifting 9,000 kilograms <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>.
+
+Modern doors that appear to open outward, like those on a Boeing 737, are still cleverly designed plug doors. They are wider and taller than their frames, but internal gates fold in to allow them to pass through, and they must pop inward and rotate to open, a movement that is impossible at cruising altitude <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>.
+
+## Structural Integrity and Pressure Cycling
+While the International Space Station is pressurized to sea level pressure (101.3 kilopascals) and remains pressurized <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>, airplanes experience a pressure difference on every flight. As a plane climbs, its fuselage is stretched, and as it descends, it relaxes <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>. This continuous cycle of stretching and relaxing can lead to metal fatigue, cracking, and corrosion over time <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
+
+### Aloha Airlines Flight 243
+A tragic example of this was Aloha Airlines Flight 243 in 1988 <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>. Due to a small crack and extensive flight cycles (nearly 90,000, far exceeding its design life), the plane's roof explosively tore off at 24,000 feet <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>. The pilots miraculously landed the plane with only one fatality <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. This incident highlighted the dangers of structural fatigue due to repeated pressurization cycles.
+
+To minimize these stresses and extend the aircraft's lifespan, planes are pressurized only to the minimum extent necessary to carry human passengers <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>. Cabin pressure is typically maintained around 77 kilopascals at cruising altitude, resulting in an oxygen partial pressure of 16 kilopascals – the minimum required for passengers to feel normal <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>. This lower-than-sea-level pressure can cause sealed bags, like chip bags, to inflate <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a> and can also affect human physiology, such as potentially increasing flatulence <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>.
+
+## Exceptions to the Rule
+While generally impossible to open doors at altitude, there was an incident in May 2023 where a passenger managed to open an Airbus emergency exit door in flight <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>. This occurred because the plane was on its final approach, very close to the ground, meaning the pressure differential was minimal, allowing the door to be forced open <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.

@@ -2,666 +2,596 @@
 title: veritasium
 ---
 ### [Anti-Gravity Wheel?](https://www.youtube.com/watch?v=GeyDf4ooPdo)
-- [[gyroscopic_precession_and_its_effects | Gyroscopic precession and its effects]]
-- [[physics_of_spinning_flywheels | Physics of spinning flywheels]]
-- [[mechanics_of_weight_distribution | Mechanics of weight distribution]]
-- [[university_of_sydney_mechanical_engineering_experiments | University of Sydney mechanical engineering experiments]]
-- [[challenges_of_lifting_heavy_objects_in_physics_demonstrations | Challenges of lifting heavy objects in physics demonstrations]]
+- [[gyroscopic_precession | Gyroscopic precession]]
+- [[physics_of_flywheels | Physics of flywheels]]
+- [[weight_and_torque_dynamics | Weight and torque dynamics]]
+- [[challenges_of_lifting_heavy_objects | Challenges of lifting heavy objects]]
+- [[experimental_demonstrations_in_physics | Experimental demonstrations in physics]]
 
 ### [Backspin Basketball Flies Off Dam](https://www.youtube.com/watch?v=2OSrvzNW9FE)
-- [[gordon_dam_in_tasmania | Gordon Dam in Tasmania]]
-- [[magnus_effect_on_a_basketball | Magnus effect on a basketball]]
-- [[magnus_effect_in_sports | Magnus effect in sports]]
-- [[non_sport_applications_of_the_magnus_effect | Non sport applications of the Magnus effect]]
+- [[gordon_dam_basketball_experiment | Gordon Dam basketball experiment]]
+- [[magnus_effect_explanation | Magnus effect explanation]]
+- [[applications_of_the_magnus_effect | Applications of the Magnus effect]]
+- [[non_sport_uses_of_magnus_effect | Non sport uses of Magnus effect]]
 - [[how_ridiculous_world_record_attempt | How Ridiculous world record attempt]]
-
-### [This Unstoppable Robot Could Save Your Life](https://www.youtube.com/watch?v=qevIIQHrJZg)
-- [[soft_robots_and_their_unique_properties | Soft robots and their unique properties]]
-- [[applications_of_vine_robots_in_search_and_rescue | Applications of vine robots in search and rescue]]
-- [[use_of_vine_robots_in_medical_procedures_like_intubation | Use of vine robots in medical procedures like intubation]]
-- [[vine_robots_for_archeological_exploration | Vine robots for archeological exploration]]
-- [[potential_of_vine_robots_in_space_exploration | Potential of vine robots in space exploration]]
-
-### [Why Are 96,000,000 Black Balls on This Reservoir?](https://www.youtube.com/watch?v=uxPdPpi5W4o)
-- [[purpose_of_shade_balls_in_reservoirs | Purpose of shade balls in reservoirs]]
-- [[chemical_reactions_involving_bromide_and_bromate | Chemical reactions involving Bromide and Bromate]]
-- [[design_and_material_considerations_for_shade_balls | Design and material considerations for shade balls]]
-- [[impact_of_shade_balls_on_evaporation_and_water_quality | Impact of shade balls on evaporation and water quality]]
-- [[engineering_challenges_and_solutions_for_water_reservoirs | Engineering challenges and solutions for water reservoirs]]
-
-### [World's Roundest Object!](https://www.youtube.com/watch?v=ZMByI4s-D-Y)
-- [[the_worlds_roundest_object | The worlds roundest object]]
-- [[history_and_evolution_of_the_kilogram_definition | History and evolution of the kilogram definition]]
-- [[silicon_spheres_and_atomic_precision | Silicon spheres and atomic precision]]
-- [[redefining_the_kilogram_with_avogadros_constant | Redefining the kilogram with Avogadros constant]]
-- [[alternative_approaches_to_defining_the_kilogram | Alternative approaches to defining the kilogram]]
-
-### [World's Lightest Solid!](https://www.youtube.com/watch?v=AeJ9q45PfD0)
-- [[aerogel_properties_and_composition | Aerogel properties and composition]]
-- [[thermal_insulation_capabilities_of_aerogel | Thermal insulation capabilities of aerogel]]
-- [[history_and_invention_of_aerogel | History and invention of aerogel]]
-- [[uses_of_aerogel_in_space_exploration | Uses of aerogel in space exploration]]
-- [[development_and_future_applications_of_aerogel | Development and future applications of aerogel]]
-
-### [These are the asteroids to worry about](https://www.youtube.com/watch?v=4Wrc4fHSCpw)
-- [[chelyabinsk_asteroid_impact | Chelyabinsk asteroid impact]]
-- [[detection_challenges_of_asteroids | Detection challenges of asteroids]]
-- [[potential_threats_from_near_earth_objects | Potential threats from near earth objects]]
-- [[strategies_for_asteroid_deflection | Strategies for asteroid deflection]]
-- [[historical_impacts_and_their_consequences | Historical impacts and their consequences]]
 
 ### [I Waterproofed Myself With Aerogel!](https://www.youtube.com/watch?v=GcdB5bFwio4)
 - [[properties_of_aerogel | Properties of aerogel]]
+- [[applications_of_aerogel_in_waterproofing_and_insulation | Applications of aerogel in waterproofing and insulation]]
 - [[thermal_insulation_capabilities_of_aerogel | Thermal insulation capabilities of aerogel]]
-- [[applications_and_uses_of_aerogel | Applications and uses of aerogel]]
-- [[hydrophobic_and_hydrophilic_characteristics_of_aerogel | Hydrophobic and hydrophilic characteristics of aerogel]]
-- [[aerogel_composites_and_materials_innovation | Aerogel composites and materials innovation]]
+- [[challenges_of_working_with_brittle_aerogel | Challenges of working with brittle aerogel]]
+- [[future_uses_of_aerogel_in_clothing_and_space_technology | Future uses of aerogel in clothing and space technology]]
+
+### [World's Lightest Solid!](https://www.youtube.com/watch?v=AeJ9q45PfD0)
+- [[properties_of_aerogel | Properties of aerogel]]
+- [[history_and_invention_of_aerogel | History and invention of aerogel]]
+- [[aerogel_as_a_thermal_insulator | Aerogel as a thermal insulator]]
+- [[practical_applications_of_aerogel | Practical applications of aerogel]]
+- [[future_developments_and_challenges_for_aerogel | Future developments and challenges for aerogel]]
+
+### [World's Roundest Object!](https://www.youtube.com/watch?v=ZMByI4s-D-Y)
+- [[the_worlds_roundest_object__a_silicon_sphere | The Worlds Roundest Object  A Silicon Sphere]]
+- [[history_and_evolution_of_the_kilogram | History and Evolution of the Kilogram]]
+- [[issues_with_the_stability_of_physical_mass_standards | Issues with the Stability of Physical Mass Standards]]
+- [[redefining_the_kilogram_using_silicon28_atoms | Redefining the Kilogram Using Silicon28 Atoms]]
+- [[alternate_approaches_to_defining_the_kilogram | Alternate Approaches to Defining the Kilogram]]
+
+### [This Unstoppable Robot Could Save Your Life](https://www.youtube.com/watch?v=qevIIQHrJZg)
+- [[soft_robots_and_their_applications | Soft robots and their applications]]
+- [[mechanisms_of_vine_robot_operation | Mechanisms of vine robot operation]]
+- [[innovations_in_medical_intubation | Innovations in medical intubation]]
+- [[use_of_vine_robots_in_archeology | Use of vine robots in archeology]]
+- [[vine_robots_in_space_exploration | Vine robots in space exploration]]
 
 ### [The Man Who Accidentally Killed The Most People In History](https://www.youtube.com/watch?v=IV3dnLzthDA)
-- [[thomas_midgley_jr_and_the_invention_of_tetraethyl_lead | Thomas Midgley Jr and the invention of tetraethyl lead]]
-- [[impact_of_leaded_gasoline_on_public_health_and_environment | Impact of leaded gasoline on public health and environment]]
-- [[clair_pattersons_work_on_measuring_earths_age_and_lead_contamination | Clair Pattersons work on measuring Earths age and lead contamination]]
-- [[refrigerants_and_the_environmental_impact_of_cfcs | Refrigerants and the environmental impact of CFCs]]
-- [[the_role_of_individual_scientists_in_largescale_environmental_changes | The role of individual scientists in largescale environmental changes]]
+- [[impact_of_tetraethyl_lead_on_global_health | Impact of tetraethyl lead on global health]]
+- [[the_controversy_and_consequences_of_leaded_gasoline | The controversy and consequences of leaded gasoline]]
+- [[clair_pattersons_role_in_determining_the_age_of_the_earth | Clair Pattersons role in determining the age of the Earth]]
+- [[cfcs_and_their_environmental_effects | CFCs and their environmental effects]]
+- [[the_legacy_and_controversies_of_thomas_midgley_jr | The legacy and controversies of Thomas Midgley Jr]]
+
+### [Inside The Navy's Indoor Ocean](https://www.youtube.com/watch?v=pir_muTzYM8)
+- [[the_navys_indoor_ocean | The Navys Indoor Ocean]]
+- [[wave_pool_technology_and_design | Wave pool technology and design]]
+- [[wave_dynamics_and_properties | Wave dynamics and properties]]
+- [[testing_scale_ship_models | Testing scale ship models]]
+- [[applications_in_naval_engineering | Applications in naval engineering]]
+
+### [These are the asteroids to worry about](https://www.youtube.com/watch?v=4Wrc4fHSCpw)
+- [[chelyabinsk_asteroid_event | Chelyabinsk asteroid event]]
+- [[nearearth_objects_and_their_detection_difficulties | Nearearth objects and their detection difficulties]]
+- [[impact_of_asteroids_on_earth | Impact of asteroids on Earth]]
+- [[history_of_significant_asteroid_impacts | History of significant asteroid impacts]]
+- [[current_and_potential_asteroid_deflection_strategies | Current and potential asteroid deflection strategies]]
+
+### [Why we put spiders on soccer balls](https://www.youtube.com/watch?v=4LYlMqBXTJI)
+- [[spider_visual_perception | Spider visual perception]]
+- [[jumping_spider_behavior | Jumping spider behavior]]
+- [[control_of_spider_movement_in_experiments | Control of spider movement in experiments]]
+- [[use_of_magnets_in_spider_research | Use of magnets in spider research]]
+- [[spider_response_to_visual_stimuli | Spider response to visual stimuli]]
+
+### [Why Are 96,000,000 Black Balls on This Reservoir?](https://www.youtube.com/watch?v=uxPdPpi5W4o)
+- [[purpose_and_function_of_shade_balls | Purpose and function of shade balls]]
+- [[bromide_and_bromate_in_water_reservoirs | Bromide and Bromate in water reservoirs]]
+- [[impact_of_sunlight_on_water_quality | Impact of sunlight on water quality]]
+- [[cost_and_benefits_of_using_shade_balls | Cost and benefits of using shade balls]]
+- [[design_and_testing_of_shade_balls_for_reservoirs | Design and testing of shade balls for reservoirs]]
+
+### [The Simplest Math Problem No One Can Solve - Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg)
+- [[collatz_conjecture_overview | Collatz Conjecture overview]]
+- [[mathematical_properties_of_3x1_problem | Mathematical properties of 3x1 problem]]
+- [[attempts_to_prove_or_disprove_the_collatz_conjecture | Attempts to prove or disprove the Collatz Conjecture]]
+- [[visualization_techniques_for_understanding_the_conjecture | Visualization techniques for understanding the conjecture]]
+- [[benfords_law_and_its_application_to_the_collatz_conjecture | Benfords Law and its application to the Collatz Conjecture]]
 
 ### [How An Infinite Hotel Ran Out Of Room](https://www.youtube.com/watch?v=OxGsU8oIWjY)
-- [[hilbert_hotel_paradox | Hilbert Hotel paradox]]
-- [[infinity_in_mathematics | Infinity in mathematics]]
-- [[countable_vs_uncountable_infinity | Countable vs uncountable infinity]]
-- [[infinite_capacity_strategies | Infinite capacity strategies]]
-- [[history_of_infinite_sets_and_technology | History of infinite sets and technology]]
+- [[hilbert_hotel_and_infinite_rooms | Hilbert Hotel and Infinite Rooms]]
+- [[handling_infinite_guests_at_the_hilbert_hotel | Handling Infinite Guests at the Hilbert Hotel]]
+- [[concept_of_countably_vs_uncountably_infinite | Concept of Countably vs Uncountably Infinite]]
+- [[mathematical_paradoxes_of_infinity | Mathematical Paradoxes of Infinity]]
+- [[implications_of_different_sized_infinities | Implications of Different Sized Infinities]]
 
 ### [Can You Swim in Shade Balls?](https://www.youtube.com/watch?v=BZbChKzedEk)
 - [[swimming_in_shade_balls | Swimming in shade balls]]
-- [[the_science_behind_shade_balls | The science behind shade balls]]
-- [[challenges_of_swimming_in_multi_layer_shade_balls | Challenges of swimming in multi layer shade balls]]
-- [[impact_of_shade_balls_on_swimming_dynamics | Impact of shade balls on swimming dynamics]]
-- [[logistics_of_handling_and_distributing_shade_balls | Logistics of handling and distributing shade balls]]
+- [[shade_balls_and_their_purpose | Shade balls and their purpose]]
+- [[physical_challenges_of_moving_through_shade_balls | Physical challenges of moving through shade balls]]
+- [[the_science_behind_shade_balls_in_water | The science behind shade balls in water]]
+- [[patreon_support_and_creative_giveaways | Patreon support and creative giveaways]]
 
 ### [Can Silence Actually Drive You Crazy?](https://www.youtube.com/watch?v=mXVGIb3bzHI)
-- [[anechoic_chambers_and_their_effects | Anechoic chambers and their effects]]
-- [[psychological_responses_to_silence | Psychological responses to silence]]
-- [[experiences_in_the_quietest_place_on_earth | Experiences in the quietest place on Earth]]
-- [[sensory_perceptions_in_soundproof_environments | Sensory perceptions in soundproof environments]]
-- [[audible_sponsorship_and_promotions | Audible sponsorship and promotions]]
+- [[anechoic_chambers_and_their_effects_on_the_human_mind | Anechoic chambers and their effects on the human mind]]
+- [[physical_sensations_and_perceptions_in_silence | Physical sensations and perceptions in silence]]
+- [[psychological_responses_to_extreme_silence | Psychological responses to extreme silence]]
+- [[debunking_myths_about_silence_driving_people_crazy | Debunking myths about silence driving people crazy]]
 
-### [Why we put spiders on soccer balls](https://www.youtube.com/watch?v=4LYlMqBXTJI)
-- [[jumping_spider_vision_experiments | Jumping spider vision experiments]]
-- [[spider_response_to_color_and_brightness | Spider response to color and brightness]]
-- [[experimental_methods_in_spider_research | Experimental methods in spider research]]
-- [[use_of_magnets_for_controlling_spider_movement | Use of magnets for controlling spider movement]]
-- [[behavioral_analysis_of_spiders_with_soccer_balls | Behavioral analysis of spiders with soccer balls]]
-
-### [The Simplest Math Problem No One Can Solve - Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg)
-- [[collatz_conjecture_explanation | Collatz Conjecture Explanation]]
-- [[mathematicians_perspectives_on_collatz_conjecture | Mathematicians Perspectives on Collatz Conjecture]]
-- [[hailstone_numbers_and_patterns | Hailstone Numbers and Patterns]]
-- [[strategies_and_challenges_in_solving_collatz_conjecture | Strategies and Challenges in Solving Collatz Conjecture]]
-- [[potential_evidence_and_counterexamples_for_collatz_conjecture | Potential Evidence and Counterexamples for Collatz Conjecture]]
-
-### [Inside The Navy's Indoor Ocean](https://www.youtube.com/watch?v=pir_muTzYM8)
-- [[navy_ship_testing_facilities | Navy ship testing facilities]]
-- [[wave_pool_engineering_and_control | Wave pool engineering and control]]
-- [[wave_physics_and_properties | Wave physics and properties]]
-- [[ship_design_and_innovations | Ship design and innovations]]
-- [[ocean_and_wave_conditions_in_different_regions | Ocean and wave conditions in different regions]]
+### [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M)
+- [[history_of_led_development | History of LED development]]
+- [[challenges_in_creating_the_blue_led | Challenges in creating the blue LED]]
+- [[shji_nakamuras_contributions_to_led_technology | Shji Nakamuras contributions to LED technology]]
+- [[impact_of_led_technology_on_modern_lighting | Impact of LED technology on modern lighting]]
+- [[future_innovations_in_led_technology | Future innovations in LED technology]]
 
 ### [The Big Misconception About Electricity](https://www.youtube.com/watch?v=bHIhgxav9LY)
-- [[misconceptions_about_electricity | Misconceptions about electricity]]
-- [[the_role_of_electromagnetic_fields_in_energy_transmission | The role of electromagnetic fields in energy transmission]]
-- [[poynting_vector_and_energy_flow | Poynting vector and energy flow]]
-- [[alternating_current_vs_direct_current | Alternating current vs direct current]]
-- [[history_and_challenges_of_early_telecommunication_cables | History and challenges of early telecommunication cables]]
-
-### [Math's Fundamental Flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
-- [[gdels_incompleteness_theorems | Gdels Incompleteness Theorems]]
-- [[the_twin_prime_conjecture | The Twin Prime Conjecture]]
-- [[conways_game_of_life_and_undecidability | Conways Game of Life and Undecidability]]
-- [[the_halting_problem_and_turing_machines | The Halting Problem and Turing Machines]]
-- [[history_and_foundations_of_set_theory_and_mathematics | History and Foundations of Set Theory and Mathematics]]
-
-### [The Most Radioactive Places on Earth](https://www.youtube.com/watch?v=TRL7o2kPqw0)
-- [[types_and_effects_of_ionizing_radiation | Types and effects of ionizing radiation]]
-- [[radioactivity_in_everyday_objects_and_environments | Radioactivity in everyday objects and environments]]
-- [[historical_nuclear_sites_and_their_current_radiation_levels | Historical nuclear sites and their current radiation levels]]
-- [[comparison_of_radiation_exposure_in_different_scenarios | Comparison of radiation exposure in different scenarios]]
-- [[health_risks_associated_with_smoking_and_radiation_exposure | Health risks associated with smoking and radiation exposure]]
-
-### [The Surprising Secret of Synchronization](https://www.youtube.com/watch?v=t-_VPRCtiUg)
-- [[spontaneous_synchronization_in_complex_systems | Spontaneous synchronization in complex systems]]
-- [[historical_accounts_of_synchronization_in_engineering_and_physics | Historical accounts of synchronization in engineering and physics]]
-- [[kuramoto_model_and_mathematical_understanding_of_synchronization | Kuramoto model and mathematical understanding of synchronization]]
-- [[synchronization_phenomena_in_nature_and_technology | Synchronization phenomena in nature and technology]]
-- [[application_of_synchronization_concepts_in_cardiac_arrhythmia_research | Application of synchronization concepts in cardiac arrhythmia research]]
+- [[the_misconception_about_electricity_and_how_it_flows | The misconception about electricity and how it flows]]
+- [[poynting_vector_and_energy_flux_in_electrical_circuits | Poynting vector and energy flux in electrical circuits]]
+- [[historical_misunderstanding_of_electrical_energy_transmission | Historical misunderstanding of electrical energy transmission]]
+- [[alternating_current_ac_dynamics_and_energy_flow | Alternating current AC dynamics and energy flow]]
+- [[implications_of_electromagnetic_fields_in_power_lines | Implications of electromagnetic fields in power lines]]
 
 ### [Most People Don't Know How Bikes Work](https://www.youtube.com/watch?v=9cNmUNHSBac)
 - [[how_bicycles_work | How bicycles work]]
-- [[countersteering_in_bicycles | Countersteering in bicycles]]
-- [[bicycle_balance_and_steering_mechanisms | Bicycle balance and steering mechanisms]]
-- [[gyroscopic_effect_and_bike_stability | Gyroscopic effect and bike stability]]
-- [[selfsteering_mechanisms_in_bicycles | Selfsteering mechanisms in bicycles]]
+- [[countersteering_on_a_bicycle | Countersteering on a bicycle]]
+- [[balance_and_steering_mechanisms_of_bicycles | Balance and steering mechanisms of bicycles]]
+- [[gyroscopic_effect_and_bicycle_stability | Gyroscopic effect and bicycle stability]]
+- [[design_enhancements_for_bicycle_stability | Design enhancements for bicycle stability]]
+
+### [The Surprising Secret of Synchronization](https://www.youtube.com/watch?v=t-_VPRCtiUg)
+- [[second_law_of_thermodynamics_and_disorder | Second Law of Thermodynamics and Disorder]]
+- [[spontaneous_order_and_synchronization_in_nature | Spontaneous Order and Synchronization in Nature]]
+- [[mechanical_and_human_synchrony_in_structures | Mechanical and Human Synchrony in Structures]]
+- [[kuramoto_model_and_synchronization_theory | Kuramoto Model and Synchronization Theory]]
+- [[synchronization_in_chemical_and_biological_systems | Synchronization in Chemical and Biological Systems]]
+
+### [Math's Fundamental Flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
+- [[incompleteness_of_mathematics | Incompleteness of Mathematics]]
+- [[gdels_incompleteness_theorems | Gdels Incompleteness Theorems]]
+- [[undecidability_in_mathematical_systems | Undecidability in Mathematical Systems]]
+- [[history_of_set_theory_and_mathematical_foundations | History of Set Theory and Mathematical Foundations]]
+- [[contributions_of_alan_turing_to_computer_science | Contributions of Alan Turing to Computer Science]]
 
 ### [This is why we can't have nice things](https://www.youtube.com/watch?v=j5v8D-alAKE)
-- [[history_of_the_light_bulb | History of the light bulb]]
-- [[phoebus_cartel_and_its_impact_on_light_bulbs | Phoebus Cartel and its impact on light bulbs]]
 - [[planned_obsolescence_in_consumer_products | Planned obsolescence in consumer products]]
-- [[right_to_repair_movement | Right to repair movement]]
-- [[technological_obsolescence_and_innovation | Technological obsolescence and innovation]]
-
-### [Parallel Worlds Probably Exist. Here’s Why](https://www.youtube.com/watch?v=kTXTPe3wahc)
-- [[quantum_mechanics_and_wave_function | Quantum mechanics and wave function]]
-- [[schrodingers_cat_thought_experiment | Schrodingers cat thought experiment]]
-- [[superposition_and_entanglement | Superposition and entanglement]]
-- [[manyworlds_interpretation_of_quantum_mechanics | Manyworlds interpretation of quantum mechanics]]
-- [[quantum_mechanics_and_deterministic_universe | Quantum mechanics and deterministic universe]]
-
-### [The Universe is Hostile to Computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
-- [[cosmic_rays_and_their_effects_on_electronic_devices | Cosmic rays and their effects on electronic devices]]
-- [[explanation_of_bit_flips_and_single_event_upsets | Explanation of bit flips and single event upsets]]
-- [[impact_of_cosmic_rays_on_avionics_and_supercomputers | Impact of cosmic rays on avionics and supercomputers]]
-- [[historical_discoveries_about_cosmic_rays | Historical discoveries about cosmic rays]]
-- [[radiation_hardening_in_space_missions_and_electronics | Radiation hardening in space missions and electronics]]
+- [[history_of_the_phoebus_cartel_and_its_impact_on_light_bulb_longevity | History of the Phoebus Cartel and its impact on light bulb longevity]]
+- [[the_right_to_repair_movement | The right to repair movement]]
+- [[dynamic_obsolescence_in_the_automotive_industry | Dynamic obsolescence in the automotive industry]]
+- [[transition_from_incandescent_to_led_lighting_technology | Transition from incandescent to LED lighting technology]]
 
 ### [Why No One Has Measured The Speed Of Light](https://www.youtube.com/watch?v=pTn6Ewhb27k)
-- [[challenges_in_measuring_the_speed_of_light | Challenges in measuring the speed of light]]
-- [[understanding_the_twoway_vs_oneway_speed_of_light | Understanding the twoway vs oneway speed of light]]
-- [[einsteins_synchronization_convention | Einsteins synchronization convention]]
-- [[implications_of_unknown_oneway_speed_of_light_on_physics | Implications of unknown oneway speed of light on physics]]
-- [[possible_variations_of_light_speed_in_different_directions | Possible variations of light speed in different directions]]
+- [[definition_of_the_speed_of_light | Definition of the speed of light]]
+- [[measuring_the_roundtrip_speed_of_light | Measuring the roundtrip speed of light]]
+- [[oneway_speed_of_light_and_its_implications | Oneway speed of light and its implications]]
+- [[einstein_synchronization_convention | Einstein synchronization convention]]
+- [[challenges_in_measuring_the_oneway_speed_of_light | Challenges in measuring the oneway speed of light]]
+
+### [The Most Radioactive Places on Earth](https://www.youtube.com/watch?v=TRL7o2kPqw0)
+- [[understanding_ionizing_radiation | Understanding ionizing radiation]]
+- [[background_radiation_levels_globally | Background radiation levels globally]]
+- [[radioactive_sites_hiroshima_trinity_chernobyl_and_fukushima | Radioactive sites Hiroshima Trinity Chernobyl and Fukushima]]
+- [[health_impacts_of_radiation_exposure | Health impacts of radiation exposure]]
+- [[radiation_exposure_in_daily_life_and_occupations | Radiation exposure in daily life and occupations]]
+
+### [Parallel Worlds Probably Exist. Here’s Why](https://www.youtube.com/watch?v=kTXTPe3wahc)
+- [[quantum_mechanics_and_wave_functions | Quantum mechanics and wave functions]]
+- [[schrodingers_cat_thought_experiment | Schrodingers cat thought experiment]]
+- [[concepts_of_superposition_and_entanglement | Concepts of superposition and entanglement]]
+- [[many_worlds_interpretation_of_quantum_mechanics | Many worlds interpretation of quantum mechanics]]
+- [[implications_and_objections_to_the_many_worlds_theory | Implications and objections to the many worlds theory]]
+
+### [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
+- [[micromouse_robotics_competition | Micromouse robotics competition]]
+- [[history_and_evolution_of_mazesolving_algorithms | History and evolution of mazesolving algorithms]]
+- [[design_and_technology_in_micromice | Design and technology in Micromice]]
+- [[impact_of_innovations_in_robotics_competitions | Impact of innovations in robotics competitions]]
+- [[flood_fill_algorithm_and_micromouse_strategies | Flood fill algorithm and Micromouse strategies]]
 
 ### [World's Heaviest Weight](https://www.youtube.com/watch?v=_k9egfWvb7Y)
 - [[measurement_of_large_forces | Measurement of large forces]]
-- [[calibration_of_force_sensors | Calibration of force sensors]]
-- [[dead_weight_machines_and_their_operation | Dead weight machines and their operation]]
-- [[minimizing_uncertainty_in_force_measurement | Minimizing uncertainty in force measurement]]
-- [[importance_of_accurate_physical_testing | Importance of accurate physical testing]]
-
-### [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
-- [[micromouse_competition_history_and_rules | Micromouse competition history and rules]]
-- [[evolution_of_mazesolving_algorithms_in_robotics | Evolution of mazesolving algorithms in robotics]]
-- [[technological_innovations_in_micromouse_design | Technological innovations in Micromouse design]]
-- [[challenges_and_strategies_in_robotics_competitions | Challenges and strategies in robotics competitions]]
-- [[inspiration_and_future_of_mazesolving_robots | Inspiration and future of mazesolving robots]]
+- [[calibrating_force_sensors_and_transducers | Calibrating force sensors and transducers]]
+- [[mass_and_force_calibration_methods | Mass and force calibration methods]]
+- [[importance_of_accurate_force_measurement_in_aerospace | Importance of accurate force measurement in aerospace]]
+- [[gravity_and_buoyancy_effects_on_largescale_mass_measurements | Gravity and buoyancy effects on largescale mass measurements]]
 
 ### [Something Strange Happens When You Follow Einstein's Math](https://www.youtube.com/watch?v=6akmv1bsz1M)
-- [[einsteins_general_theory_of_relativity | Einsteins general theory of relativity]]
-- [[concept_of_black_holes_and_their_properties | Concept of black holes and their properties]]
-- [[white_holes_and_theoretical_existence | White holes and theoretical existence]]
-- [[parallel_universes_and_wormholes | Parallel universes and wormholes]]
-- [[challenges_in_solving_einsteins_equations | Challenges in solving Einsteins equations]]
+- [[einsteins_theory_of_relativity | Einsteins theory of relativity]]
+- [[black_holes_and_event_horizons | black holes and event horizons]]
+- [[schwarzschild_solution_and_singularities | Schwarzschild solution and singularities]]
+- [[general_relativity_equations | general relativity equations]]
+- [[possibilities_of_wormholes_and_parallel_universes | possibilities of wormholes and parallel universes]]
+
+### [The Universe is Hostile to Computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
+- [[cosmic_rays_and_their_impact_on_computers | Cosmic rays and their impact on computers]]
+- [[bit_flips_in_electronic_systems | Bit flips in electronic systems]]
+- [[unexpected_glitches_in_voting_systems | Unexpected glitches in voting systems]]
+- [[effects_of_cosmic_rays_on_aviation_and_space_missions | Effects of cosmic rays on aviation and space missions]]
+- [[history_and_discovery_of_cosmic_rays | History and discovery of cosmic rays]]
 
 ### [Microwaving Grapes Makes Plasma](https://www.youtube.com/watch?v=wCrtk-pyP0I)
 - [[microwaving_grapes_to_create_plasma | Microwaving grapes to create plasma]]
-- [[explanation_of_electromagnetic_fields_and_grape_size | Explanation of electromagnetic fields and grape size]]
-- [[index_of_refraction_and_microwaves_behavior_in_grapes | Index of refraction and microwaves behavior in grapes]]
-- [[scientific_study_on_microwaving_grapes | Scientific study on microwaving grapes]]
-- [[potential_applications_for_electromagnetic_energy_focus_in_lithography | Potential applications for electromagnetic energy focus in lithography]]
+- [[electromagnetic_fields_and_refractive_index_in_grapes | Electromagnetic fields and refractive index in grapes]]
+- [[scientific_studies_on_plasma_generation_with_microwaves | Scientific studies on plasma generation with microwaves]]
+- [[potential_applications_in_lithography_and_microchip_fabrication | Potential applications in lithography and microchip fabrication]]
+- [[comparison_of_microwave_interaction_with_grapes_and_hydrogel_beads | Comparison of microwave interaction with grapes and hydrogel beads]]
 
 ### [The Infinite Pattern That Never Repeats](https://www.youtube.com/watch?v=48sCx-wBs34)
-- [[history_and_contributions_of_johannes_kepler | History and contributions of Johannes Kepler]]
-- [[platonic_solids_in_geometry_and_astronomy | Platonic solids in geometry and astronomy]]
-- [[keplers_conjecture_on_sphere_packing | Keplers conjecture on sphere packing]]
-- [[penrose_tilings_and_aperiodic_patterns | Penrose tilings and aperiodic patterns]]
-- [[discovery_and_significance_of_quasicrystals | Discovery and significance of quasicrystals]]
+- [[johannes_keplers_contributions_to_astronomy_and_geometry | Johannes Keplers contributions to astronomy and geometry]]
+- [[platonic_solids_and_their_significance_in_mathematics | Platonic solids and their significance in mathematics]]
+- [[keplers_conjecture_and_the_stacking_efficiency_of_spheres | Keplers conjecture and the stacking efficiency of spheres]]
+- [[penrose_tilings_and_nonrepeating_patterns | Penrose tilings and nonrepeating patterns]]
+- [[quasicrystals_and_their_discovery | Quasicrystals and their discovery]]
 
-### [A Physics Prof Bet Me $10,000 I'm Wrong](https://www.youtube.com/watch?v=yCsgoLc_fzI)
-- [[downwind_faster_than_the_wind_hypothesis | Downwind faster than the wind hypothesis]]
-- [[blackbird_vehicle_mechanics_and_operation | Blackbird vehicle mechanics and operation]]
-- [[physics_and_aerodynamic_principles | Physics and aerodynamic principles]]
-- [[experimental_evidence_and_replication | Experimental evidence and replication]]
-- [[scientific_debate_and_public_discourse | Scientific debate and public discourse]]
+### [The Most Misunderstood Concept in Physics](https://www.youtube.com/watch?v=DxL2HoqLbyA)
+- [[entropy_and_the_second_law_of_thermodynamics | Entropy and the Second Law of Thermodynamics]]
+- [[carnots_ideal_heat_engine | Carnots Ideal Heat Engine]]
+- [[the_arrow_of_time_and_entropy | The Arrow of Time and Entropy]]
+- [[role_of_energy_and_entropy_in_life_and_the_universe | Role of Energy and Entropy in Life and the Universe]]
+- [[black_holes_and_entropy | Black Holes and Entropy]]
 
 ### [How Dangerous is a Penny Dropped From a Skyscraper?](https://www.youtube.com/watch?v=16Ci_2bN_zc)
-- [[impact_of_dropping_a_penny_from_a_skyscraper | Impact of dropping a penny from a skyscraper]]
-- [[role_of_air_resistance_in_projectile_motion | Role of air resistance in projectile motion]]
-- [[comparison_of_terminal_velocity_between_different_objects | Comparison of terminal velocity between different objects]]
-- [[historical_and_modern_use_of_falling_objects_as_weapons | Historical and modern use of falling objects as weapons]]
-- [[safety_and_risks_of_falling_objects_in_urban_environments | Safety and risks of falling objects in urban environments]]
+- [[penny_falling_from_the_empire_state_building_myth | Penny falling from the Empire State Building myth]]
+- [[effect_of_air_resistance_on_falling_objects | Effect of air resistance on falling objects]]
+- [[terminal_velocity_of_different_objects | Terminal velocity of different objects]]
+- [[impact_of_object_shape_on_drag_and_terminal_velocity | Impact of object shape on drag and terminal velocity]]
+- [[hazards_of_falling_objects_in_general | Hazards of falling objects in general]]
+
+### [A Physics Prof Bet Me $10,000 I'm Wrong](https://www.youtube.com/watch?v=yCsgoLc_fzI)
+- [[physics_of_windpowered_vehicles | Physics of windpowered vehicles]]
+- [[experimental_verification_and_challenges | Experimental verification and challenges]]
+- [[theoretical_analyses_and_misconceptions | Theoretical analyses and misconceptions]]
+- [[public_scientific_discourse_and_debate | Public scientific discourse and debate]]
+- [[science_communication_and_education | Science communication and education]]
 
 ### [How Imaginary Numbers Were Invented](https://www.youtube.com/watch?v=cUzklzVXJwo)
 - [[history_of_imaginary_numbers | History of imaginary numbers]]
-- [[development_of_complex_numbers | Development of complex numbers]]
-- [[mathematical_breakthroughs_in_the_renaissance | Mathematical breakthroughs in the Renaissance]]
-- [[application_of_imaginary_numbers_in_physics | Application of imaginary numbers in physics]]
-- [[cubic_equation_solutions | Cubic equation solutions]]
+- [[development_of_solutions_to_cubic_equations | Development of solutions to cubic equations]]
+- [[contributions_of_renaissance_mathematicians | Contributions of Renaissance mathematicians]]
+- [[impact_of_imaginary_numbers_on_physics | Impact of imaginary numbers on physics]]
+- [[evolution_of_algebraic_notation | Evolution of algebraic notation]]
 
 ### [Musical Fire Table!](https://www.youtube.com/watch?v=2awbKQ2DLRE)
-- [[rubens_tube_and_standing_wave_visualization | Rubens tube and standing wave visualization]]
+- [[rubens_tube_and_standing_waves | Rubens tube and standing waves]]
 - [[pyro_board_and_its_demonstration | Pyro Board and its demonstration]]
-- [[physics_outreach_and_education_in_denmark | Physics outreach and education in Denmark]]
-- [[audibles_role_in_supporting_scientific_exploration | Audibles role in supporting scientific exploration]]
-- [[book_recommendation_galileos_daughter_by_dava_sobel | Book recommendation Galileos Daughter by Dava Sobel]]
+- [[applying_physics_in_educational_demonstrations | Applying physics in educational demonstrations]]
+- [[audible_sponsorship_and_book_recommendation | Audible sponsorship and book recommendation]]
+- [[upcoming_events_with_michio_kaku | Upcoming events with Michio Kaku]]
 
-### [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M)
-- [[history_and_development_of_leds | History and development of LEDs]]
-- [[challenges_in_creating_blue_leds | Challenges in creating blue LEDs]]
-- [[the_science_behind_led_function | The science behind LED function]]
-- [[impact_of_blue_led_on_technology_and_industry | Impact of blue LED on technology and industry]]
-- [[contributions_of_shji_nakamura | Contributions of Shji Nakamura]]
+### [The Riddle That Seems Impossible Even If You Know The Answer](https://www.youtube.com/watch?v=iSNsgj1OCLA)
+- [[counterintuitive_riddles | Counterintuitive riddles]]
+- [[prisoner_box_riddle | Prisoner box riddle]]
+- [[mathematical_probability_strategies | Mathematical probability strategies]]
+- [[closed_loop_concept_in_permutations | Closed loop concept in permutations]]
+- [[probability_calculations_and_mathematical_strategies | Probability calculations and mathematical strategies]]
 
 ### [How Hidden Technology Transformed Bowling](https://www.youtube.com/watch?v=aFPJf-wKTd0)
-- [[history_of_bowling | history of bowling]]
-- [[modern_bowling_techniques | modern bowling techniques]]
-- [[bowling_ball_design_and_technologies | bowling ball design and technologies]]
-- [[lane_oil_patterns_and_their_effects | lane oil patterns and their effects]]
-- [[professional_bowling_strategies | professional bowling strategies]]
+- [[manufacturing_process_of_bowling_balls | Manufacturing process of bowling balls]]
+- [[historical_evolution_of_bowling | Historical evolution of bowling]]
+- [[techniques_for_achieving_bowling_strikes | Techniques for achieving bowling strikes]]
+- [[impact_of_oil_patterns_on_bowling_lanes | Impact of oil patterns on bowling lanes]]
+- [[technological_advancements_in_bowling_equipment | Technological advancements in bowling equipment]]
+
+### [The Most Common Cognitive Bias](https://www.youtube.com/watch?v=vKA4w2O61Xo)
+- [[cognitive_biases_in_problem_solving | Cognitive biases in problem solving]]
+- [[confirmation_bias_and_its_effects | Confirmation bias and its effects]]
+- [[the_concept_of_falsifiability_in_science | The concept of falsifiability in science]]
+- [[the_importance_of_disconfirming_evidence | The importance of disconfirming evidence]]
+- [[lessons_from_the_black_swan_by_nassim_taleb | Lessons from The Black Swan by Nassim Taleb]]
 
 ### [How Japanese Masters Turn Sand Into Swords](https://www.youtube.com/watch?v=Tt6WQYtefXA)
 - [[traditional_japanese_sword_making_process | Traditional Japanese sword making process]]
-- [[history_of_japanese_swords | History of Japanese swords]]
-- [[iron_sand_collection_and_smelting_in_japan | Iron sand collection and smelting in Japan]]
-- [[steel_alloying_and_sword_forging_techniques | Steel alloying and sword forging techniques]]
-- [[artistry_and_craftsmanship_in_japanese_swords | Artistry and craftsmanship in Japanese swords]]
-
-### [The Riddle That Seems Impossible Even If You Know The Answer](https://www.youtube.com/watch?v=iSNsgj1OCLA)
-- [[counterintuitive_logic_puzzles | Counterintuitive logic puzzles]]
-- [[prisoner_number_riddle_strategy | Prisoner number riddle strategy]]
-- [[mathematical_permutations_and_loops | Mathematical permutations and loops]]
-- [[probability_theory_in_problem_solving | Probability theory in problem solving]]
-- [[strategies_for_complex_problem_solving | Strategies for complex problem solving]]
-
-### [The Most Misunderstood Concept in Physics](https://www.youtube.com/watch?v=DxL2HoqLbyA)
-- [[concept_of_entropy_in_physics | Concept of entropy in physics]]
-- [[carnots_ideal_heat_engine_and_efficiency | Carnots ideal heat engine and efficiency]]
-- [[the_second_law_of_thermodynamics | The second law of thermodynamics]]
-- [[role_of_entropy_in_life_and_the_universe | Role of entropy in life and the universe]]
-- [[heat_death_of_the_universe | Heat death of the universe]]
+- [[history_of_japanese_swords_and_steel_production | History of Japanese swords and steel production]]
+- [[description_of_the_tatara_method | Description of the Tatara method]]
+- [[material_science_behind_japanese_swords | Material science behind Japanese swords]]
+- [[cultural_significance_and_artistry_of_japanese_swords | Cultural significance and artistry of Japanese swords]]
 
 ### [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
-- [[game_theory_and_life | game theory and life]]
-- [[the_prisoners_dilemma | the prisoners dilemma]]
-- [[nuclear_arms_race_and_cooperation | nuclear arms race and cooperation]]
-- [[evolutionary_biology_and_cooperation | evolutionary biology and cooperation]]
-- [[strategies_in_repeated_games | strategies in repeated games]]
-
-### [The Most Common Cognitive Bias](https://www.youtube.com/watch?v=vKA4w2O61Xo)
-- [[cognitive_bias_and_hypothesis_testing | Cognitive bias and hypothesis testing]]
-- [[confirmation_bias_and_its_impact | Confirmation bias and its impact]]
-- [[the_scientific_method_and_theory_falsification | The scientific method and theory falsification]]
-- [[lessons_from_the_black_swan_by_nassim_taleb | Lessons from The Black Swan by Nassim Taleb]]
-- [[discovering_truth_through_disproof | Discovering truth through disproof]]
+- [[game_theory_and_the_prisoners_dilemma | game theory and the prisoners dilemma]]
+- [[nuclear_arms_race_and_cold_war_strategies | nuclear arms race and cold war strategies]]
+- [[cooperation_in_nature_and_evolution | cooperation in nature and evolution]]
+- [[tit_for_tat_strategy_in_iterative_games | tit for tat strategy in iterative games]]
+- [[strategies_for_imperfect_information_and_noisy_environments | strategies for imperfect information and noisy environments]]
 
 ### [The SAT Question Everyone Got Wrong](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
-- [[the_sat_question_everybody_got_wrong | The SAT question everybody got wrong]]
-- [[mathematical_reasoning_and_coin_rotation_paradox | Mathematical reasoning and coin rotation paradox]]
-- [[impact_of_question_errors_on_standardized_tests | Impact of question errors on standardized tests]]
-- [[definition_and_implications_of_revolutions_in_mathematics | Definition and implications of revolutions in mathematics]]
-- [[role_of_standardized_tests_like_the_sat_in_college_admissions | Role of standardized tests like the SAT in college admissions]]
+- [[sat_test_mistaken_question_analysis | SAT test mistaken question analysis]]
+- [[rolling_circle_and_coin_rotation_paradox | Rolling circle and coin rotation paradox]]
+- [[impact_of_errors_on_standardized_tests_like_the_sat | Impact of errors on standardized tests like the SAT]]
+- [[sidereal_versus_solar_time_in_astronomy | Sidereal versus solar time in astronomy]]
+- [[changes_in_standardized_testing_requirements_after_covid_19 | Changes in standardized testing requirements after COVID 19]]
 
 ### [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)
 - [[logistic_map_and_population_modeling | Logistic map and population modeling]]
-- [[period_doubling_and_chaos_theory | Period doubling and chaos theory]]
-- [[applications_of_the_logistic_equation_in_science | Applications of the logistic equation in science]]
-- [[connection_between_the_bifurcation_diagram_and_the_mandelbrot_set | Connection between the bifurcation diagram and the Mandelbrot set]]
+- [[bifurcation_and_chaos_theory | Bifurcation and chaos theory]]
+- [[fractals_and_the_mandelbrot_set | Fractals and the Mandelbrot set]]
 - [[feigenbaum_constant_and_universality | Feigenbaum constant and universality]]
+- [[applications_of_logistic_equations_in_science | Applications of logistic equations in science]]
 
-### [The Oldest Unsolved Problem in Math](https://www.youtube.com/watch?v=Zrv1EDIqHkY)
-- [[oldest_unsolved_problem_in_mathematics | Oldest unsolved problem in mathematics]]
-- [[perfect_numbers_and_their_properties | Perfect numbers and their properties]]
-- [[mersenne_primes_and_their_significance | Mersenne primes and their significance]]
-- [[history_and_contributions_of_mathematicians_to_perfect_numbers | History and contributions of mathematicians to perfect numbers]]
-- [[challenges_in_finding_odd_perfect_numbers | Challenges in finding odd perfect numbers]]
-
-### [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA)
-- [[learning_styles_myth | learning styles myth]]
-- [[vark_model | VARK model]]
-- [[multimodal_learning | multimodal learning]]
-- [[memory_strategies | memory strategies]]
-- [[critical_thinking_in_education | critical thinking in education]]
-
-### [Testing the US Military’s Worst Idea](https://www.youtube.com/watch?v=J_n1FZaKzF8)
-- [[history_and_development_of_project_thor | History and development of Project Thor]]
-- [[kinetic_energy_weapons_and_their_capabilities | Kinetic energy weapons and their capabilities]]
-- [[challenges_and_feasibility_of_rods_from_god | Challenges and feasibility of Rods from God]]
-- [[testing_and_experiments_with_kinetic_projectiles | Testing and experiments with kinetic projectiles]]
-- [[the_role_of_kinetic_weapons_in_science_fiction | The role of kinetic weapons in science fiction]]
-
-### [World's Strongest Magnet!](https://www.youtube.com/watch?v=g0amdIcZt5I)
-- [[properties_and_capabilities_of_the_worlds_strongest_magnet | Properties and capabilities of the worlds strongest magnet]]
-- [[construction_and_design_of_high_field_magnets | Construction and design of high field magnets]]
-- [[applications_and_phenomena_related_to_strong_magnetic_fields | Applications and phenomena related to strong magnetic fields]]
-- [[eddy_currents_and_lenzs_law | Eddy currents and Lenzs Law]]
-- [[magnetic_properties_and_materials | Magnetic properties and materials]]
-
-### [The Discovery That Transformed Pi](https://www.youtube.com/watch?v=gMlf1ELvRzc)
-- [[history_of_calculating_pi | History of calculating Pi]]
-- [[archimedes_method_of_calculating_pi | Archimedes method of calculating Pi]]
-- [[development_of_calculus_by_isaac_newton | Development of calculus by Isaac Newton]]
-- [[binomial_theorem_and_pascals_triangle | Binomial theorem and Pascals triangle]]
-- [[newtons_method_for_pi_calculation | Newtons method for Pi calculation]]
+### [Fire in ZERO-G!!](https://www.youtube.com/watch?v=xdJwG_9kF8s)
+- [[experiencing_weightlessness_for_the_first_time | Experiencing weightlessness for the first time]]
+- [[the_physics_behind_creating_zero_gravity_environments | The physics behind creating zero gravity environments]]
+- [[effects_of_zero_gravity_on_fire_and_flames | Effects of zero gravity on fire and flames]]
+- [[conducting_experiments_in_zero_gravity | Conducting experiments in zero gravity]]
+- [[effects_of_zero_gravity_on_human_perception_and_intuition | Effects of zero gravity on human perception and intuition]]
 
 ### [How NASA Reinvented The Wheel](https://www.youtube.com/watch?v=vSNtifE0Z2Q)
-- [[nasa_wheel_innovations | NASA wheel innovations]]
-- [[nitinol_metal_properties | Nitinol metal properties]]
-- [[space_exploration_challenges | Space exploration challenges]]
-- [[shape_memory_alloys | Shape memory alloys]]
-- [[airless_tire_technology | Airless tire technology]]
+- [[shape_memory_alloys_and_nitinol | Shape memory alloys and nitinol]]
+- [[nasas_airless_tires_for_space_missions | NASAs airless tires for space missions]]
+- [[applications_of_shape_memory_alloys_in_various_fields | Applications of shape memory alloys in various fields]]
+- [[the_development_and_advantages_of_nitinol_wheels | The development and advantages of nitinol wheels]]
+- [[henson_shaving_and_aerospace_precision_manufacturing | Henson Shaving and aerospace precision manufacturing]]
 
-### [Engineering with Origami](https://www.youtube.com/watch?v=ThwuT3_AG6w)
-- [[origami_in_modern_engineering | Origami in modern engineering]]
-- [[applications_of_origami_in_medical_devices_and_space_technology | Applications of origami in medical devices and space technology]]
-- [[mathematical_principles_in_origami_design | Mathematical principles in origami design]]
-- [[origami_for_structural_and_mechanical_improvements | Origami for structural and mechanical improvements]]
-- [[innovations_in_origamiinspired_technology | Innovations in origamiinspired technology]]
+### [The Discovery That Transformed Pi](https://www.youtube.com/watch?v=gMlf1ELvRzc)
+- [[history_of_pi_calculation_methods | History of Pi calculation methods]]
+- [[archimedes_method_for_calculating_pi | Archimedes method for calculating Pi]]
+- [[isaac_newtons_approach_to_estimating_pi | Isaac Newtons approach to estimating Pi]]
+- [[binomial_theorem_and_its_applications | Binomial theorem and its applications]]
+- [[mathematical_series_expansion | Mathematical series expansion]]
+
+### [The Oldest Unsolved Problem in Math](https://www.youtube.com/watch?v=Zrv1EDIqHkY)
+- [[history_of_perfect_numbers | History of perfect numbers]]
+- [[significance_of_mersenne_primes | Significance of Mersenne primes]]
+- [[contributions_of_notable_mathematicians_to_perfect_numbers | Contributions of notable mathematicians to perfect numbers]]
+- [[methods_and_challenges_in_discovering_new_perfect_numbers | Methods and challenges in discovering new perfect numbers]]
+- [[current_status_and_conjectures_about_odd_perfect_numbers | Current status and conjectures about odd perfect numbers]]
+
+### [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA)
+- [[learning_styles_myth | Learning styles myth]]
+- [[vark_model | VARK model]]
+- [[multimodal_learning | Multimodal learning]]
+- [[research_on_learning_preferences | Research on learning preferences]]
+- [[effective_teaching_methods | Effective teaching methods]]
 
 ### [How Horses Save Humans From Snakebites](https://www.youtube.com/watch?v=7ziWrneMYss)
-- [[snake_venom_and_human_safety | Snake venom and human safety]]
-- [[antivenom_production_process | Antivenom production process]]
-- [[evolutionary_aspects_of_snake_venom | Evolutionary aspects of snake venom]]
-- [[danger_and_safety_measures_in_handling_snakes | Danger and safety measures in handling snakes]]
-- [[scientific_development_of_antivenom | Scientific development of antivenom]]
+- [[venom_extraction_and_antivenom_production_process | Venom extraction and antivenom production process]]
+- [[evolution_of_snake_venom_and_fangs | Evolution of snake venom and fangs]]
+- [[types_and_effects_of_snake_venom_on_humans | Types and effects of snake venom on humans]]
+- [[history_and_development_of_antivenom | History and development of antivenom]]
+- [[challenges_and_innovations_in_antivenom_production | Challenges and innovations in antivenom production]]
+
+### [Testing the US Military’s Worst Idea](https://www.youtube.com/watch?v=J_n1FZaKzF8)
+- [[history_and_development_of_kinetic_energy_weapons | History and development of kinetic energy weapons]]
+- [[concept_and_feasibility_of_rods_from_god | Concept and feasibility of Rods from God]]
+- [[challenges_and_costs_of_spacebased_weapons | Challenges and costs of spacebased weapons]]
+- [[kinetic_energy_and_its_effects_on_impact | Kinetic energy and its effects on impact]]
+- [[difficulties_in_aiming_and_targeting_kinetic_projectiles | Difficulties in aiming and targeting kinetic projectiles]]
+
+### [Engineering with Origami](https://www.youtube.com/watch?v=ThwuT3_AG6w)
+- [[engineering_applications_of_origami | Engineering applications of origami]]
+- [[history_and_evolution_of_origami_designs | History and evolution of origami designs]]
+- [[mathematical_principles_in_origami | Mathematical principles in origami]]
+- [[origami_in_medical_and_technological_devices | Origami in medical and technological devices]]
+- [[origamis_role_in_space_and_aerodynamic_solutions | Origamis role in space and aerodynamic solutions]]
+
+### [The Real Story of Oppenheimer](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
+- [[life_and_impact_of_j_robert_oppenheimer | Life and impact of J Robert Oppenheimer]]
+- [[development_of_the_atomic_bomb | Development of the atomic bomb]]
+- [[ethical_implications_and_aftermath_of_nuclear_weapons | Ethical implications and aftermath of nuclear weapons]]
+- [[manhattan_project_and_los_alamos_laboratory | Manhattan Project and Los Alamos Laboratory]]
+- [[historical_context_of_world_war_ii_and_nuclear_arms_race | Historical context of World War II and nuclear arms race]]
+
+### [World's Strongest Magnet!](https://www.youtube.com/watch?v=g0amdIcZt5I)
+- [[worlds_strongest_magnet | Worlds strongest magnet]]
+- [[magnetic_fields_and_their_effects | Magnetic fields and their effects]]
+- [[superconducting_and_resistive_magnets | Superconducting and resistive magnets]]
+- [[applications_and_impacts_of_strong_magnets | Applications and impacts of strong magnets]]
+- [[magnetism_in_nonferromagnetic_materials | Magnetism in nonferromagnetic materials]]
+
+### [World's Highest Jumping Robot](https://www.youtube.com/watch?v=daaDuC1kbds)
+- [[jumping_robot_engineering_and_design | Jumping robot engineering and design]]
+- [[physics_of_jumping_and_energy_storage | Physics of jumping and energy storage]]
+- [[comparative_analysis_of_jumping_in_animals_and_robots | Comparative analysis of jumping in animals and robots]]
+- [[potential_applications_for_jumping_robots | Potential applications for jumping robots]]
+- [[work_multiplication_in_robotics | Work multiplication in robotics]]
+
+### [How One Line in the Oldest Math Text Hinted at Hidden Universes](https://www.youtube.com/watch?v=lFlu60qs7_4)
+- [[euclids_elements_and_the_fifth_postulate | Euclids Elements and the Fifth Postulate]]
+- [[noneuclidean_geometries_and_jnos_bolyai | NonEuclidean Geometries and Jnos Bolyai]]
+- [[hyperbolic_and_spherical_geometries | Hyperbolic and Spherical Geometries]]
+- [[einsteins_theory_of_general_relativity | Einsteins Theory of General Relativity]]
+- [[cosmic_microwave_background_and_universe_shape | Cosmic Microwave Background and Universe Shape]]
 
 ### [How Gravity Actually Works](https://www.youtube.com/watch?v=XRr1kaXKBsU)
 - [[general_theory_of_relativity_and_gravity | General theory of relativity and gravity]]
-- [[concept_of_inertial_observers_and_frames_of_reference | Concept of inertial observers and frames of reference]]
+- [[einsteins_happiest_thought_and_weightlessness | Einsteins happiest thought and weightlessness]]
+- [[inertial_observers_and_equivalence_principle | Inertial observers and equivalence principle]]
 - [[curved_spacetime_and_geodesics | Curved spacetime and geodesics]]
-- [[einsteins_equivalence_principle_and_its_implications | Einsteins equivalence principle and its implications]]
-- [[astronomical_observations_supporting_general_relativity | Astronomical observations supporting general relativity]]
+- [[experiments_and_predictions_related_to_general_relativity | Experiments and predictions related to general relativity]]
+
+### [The Bizarre Behavior of Rotating Bodies](https://www.youtube.com/watch?v=1VPfZ_XzisU)
+- [[dzhanibekov_effect_and_its_discovery | Dzhanibekov effect and its discovery]]
+- [[intermediate_axis_theorem_explanation | Intermediate axis theorem explanation]]
+- [[rotating_bodies_in_microgravity | Rotating bodies in microgravity]]
+- [[effects_on_earth_and_astronomical_bodies | Effects on Earth and astronomical bodies]]
+- [[historical_perspective_and_physics_behind_rotational_dynamics | Historical perspective and physics behind rotational dynamics]]
 
 ### [Why Machines That Bend Are Better](https://www.youtube.com/watch?v=97t7Xj_iBv0)
 - [[compliant_mechanisms_and_their_advantages | Compliant mechanisms and their advantages]]
-- [[mechanisms_for_nuclear_weapons_safety | Mechanisms for nuclear weapons safety]]
-- [[applications_in_aerospace_and_space_technology | Applications in aerospace and space technology]]
-- [[design_and_production_of_compliant_mechanisms | Design and production of compliant mechanisms]]
-- [[compliant_mechanisms_in_micro_and_macro_engineering | Compliant mechanisms in micro and macro engineering]]
-
-### [How One Line in the Oldest Math Text Hinted at Hidden Universes](https://www.youtube.com/watch?v=lFlu60qs7_4)
-- [[euclids_elements_and_its_influence_on_mathematics | Euclids Elements and Its Influence on Mathematics]]
-- [[the_parallel_postulate_and_noneuclidean_geometry | The Parallel Postulate and NonEuclidean Geometry]]
-- [[contributions_of_jnos_bolyai_and_nikolai_lobachevsky | Contributions of Jnos Bolyai and Nikolai Lobachevsky]]
-- [[applications_of_noneuclidean_geometry_in_general_relativity | Applications of NonEuclidean Geometry in General Relativity]]
-- [[spacetime_curvature_and_the_shape_of_the_universe | SpaceTime Curvature and the Shape of the Universe]]
+- [[applications_of_compliant_mechanisms_in_nuclear_weapons_safety | Applications of compliant mechanisms in nuclear weapons safety]]
+- [[compliant_mechanisms_in_space_technology | Compliant mechanisms in space technology]]
+- [[cost_and_production_benefits_of_compliant_mechanisms | Cost and production benefits of compliant mechanisms]]
+- [[examples_of_compliant_mechanisms_in_everyday_objects | Examples of compliant mechanisms in everyday objects]]
 
 ### [The 4 things it takes to be an expert](https://www.youtube.com/watch?v=5eW6Eagr9XA)
-- [[two_systems_of_thought | Two systems of thought]]
-- [[memorization_techniques_and_expertise | Memorization techniques and expertise]]
-- [[chess_mastery_and_chunking | Chess mastery and chunking]]
-- [[the_criteria_for_becoming_an_expert | The criteria for becoming an expert]]
-- [[challenges_in_recognizing_expertise_in_low_validity_environments | Challenges in recognizing expertise in low validity environments]]
-
-### [World's Highest Jumping Robot](https://www.youtube.com/watch?v=daaDuC1kbds)
-- [[design_and_mechanics_of_the_highest_jumping_robot | Design and mechanics of the highest jumping robot]]
-- [[criteria_and_mechanisms_of_jumping | Criteria and mechanisms of jumping]]
-- [[applications_of_jumping_robots_in_space_exploration | Applications of jumping robots in space exploration]]
-- [[material_science_in_robotic_engineering | Material science in robotic engineering]]
-- [[comparison_between_biological_and_engineered_jumpers | Comparison between biological and engineered jumpers]]
-
-### [The Real Story of Oppenheimer](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
-- [[j_robert_oppenheimer_and_the_manhattan_project | J Robert Oppenheimer and the Manhattan Project]]
-- [[development_of_the_atomic_bomb | Development of the atomic bomb]]
-- [[ethical_implications_of_nuclear_weapons | Ethical implications of nuclear weapons]]
-- [[oppenheimers_opposition_to_the_hydrogen_bomb | Oppenheimers opposition to the hydrogen bomb]]
-- [[postwar_legacy_of_oppenheimer_and_nuclear_arms_race | Postwar legacy of Oppenheimer and nuclear arms race]]
-
-### [The Bizarre Behavior of Rotating Bodies](https://www.youtube.com/watch?v=1VPfZ_XzisU)
-- [[dzhanibekov_effect_and_the_tennis_racket_theorem | Dzhanibekov effect and the tennis racket theorem]]
-- [[intermediate_axis_theorem_explained | Intermediate axis theorem explained]]
-- [[historical_context_and_secrecy_of_the_dzhanibekov_effect | Historical context and secrecy of the Dzhanibekov effect]]
-- [[implications_of_the_dzhanibekov_effect_for_planetary_rotation | Implications of the Dzhanibekov effect for planetary rotation]]
-- [[realworld_experiments_and_simulations_demonstrating_the_effect | Realworld experiments and simulations demonstrating the effect]]
-
-### [The Genius of 3D Printed Rockets](https://www.youtube.com/watch?v=kz165f1g8-E)
-- [[3d_printing_technology_in_rocket_manufacturing | 3D printing technology in rocket manufacturing]]
-- [[advantages_of_3d_printed_rockets | Advantages of 3D printed rockets]]
-- [[challenges_and_solutions_in_3d_printing_rockets | Challenges and solutions in 3D printing rockets]]
-- [[comparison_of_traditional_vs_3d_printed_aerospace_manufacturing | Comparison of traditional vs 3D printed aerospace manufacturing]]
-- [[future_implications_of_3d_printed_rockets_on_space_exploration | Future implications of 3D printed rockets on space exploration]]
+- [[the_role_of_chunking_in_expertise | The role of chunking in expertise]]
+- [[the_importance_of_a_valid_environment_for_expertise_development | The importance of a valid environment for expertise development]]
+- [[the_significance_of_repeated_attempts_with_feedback_in_becoming_an_expert | The significance of repeated attempts with feedback in becoming an expert]]
+- [[the_limitations_of_expertise_in_predictive_fields | The limitations of expertise in predictive fields]]
+- [[the_necessity_of_deliberate_practice_for_skill_improvement | The necessity of deliberate practice for skill improvement]]
 
 ### [Getting Buried In Concrete To Explain How It Works](https://www.youtube.com/watch?v=rWVAzS5duAs)
 - [[difference_between_cement_and_concrete | Difference between cement and concrete]]
 - [[historical_development_of_concrete | Historical development of concrete]]
-- [[chemical_composition_and_reactions_in_concrete | Chemical composition and reactions in concrete]]
-- [[roman_concrete_versus_modern_concrete | Roman concrete versus modern concrete]]
-- [[environmental_impact_and_carbon_footprint_of_concrete_production | Environmental impact and carbon footprint of concrete production]]
+- [[chemical_composition_and_properties_of_concrete | Chemical composition and properties of concrete]]
+- [[comparison_of_roman_and_modern_concrete | Comparison of Roman and modern concrete]]
+- [[environmental_impact_of_cement_and_concrete | Environmental impact of cement and concrete]]
 
 ### [The Surprising Genius of Sewing Machines](https://www.youtube.com/watch?v=RQYuyHNLPTQ)
 - [[history_of_sewing_machines | History of sewing machines]]
-- [[how_sewing_machines_work | How sewing machines work]]
 - [[innovations_in_sewing_technology | Innovations in sewing technology]]
+- [[mechanics_of_sewing_machines | Mechanics of sewing machines]]
 - [[impact_of_sewing_machines_on_clothing_production | Impact of sewing machines on clothing production]]
-- [[historical_figures_in_sewing_machine_development | Historical figures in sewing machine development]]
+- [[famous_figures_in_sewing_machine_development | Famous figures in sewing machine development]]
 
 ### [The Most Dangerous Building in Manhattan](https://www.youtube.com/watch?v=Q56PMJbCFXQ)
-- [[citicorp_center_architecture_and_design_challenges | Citicorp Center architecture and design challenges]]
-- [[engineering_ethics_and_bill_lemessuriers_response | Engineering ethics and Bill LeMessuriers response]]
-- [[tuned_mass_dampers_in_skyscraper_engineering | Tuned mass dampers in skyscraper engineering]]
-- [[historical_and_potential_risks_of_quartering_winds | Historical and potential risks of quartering winds]]
-- [[impact_of_the_citicorp_case_on_building_regulations_and_architecture | Impact of the Citicorp case on building regulations and architecture]]
+- [[citicorp_center_structural_flaw | Citicorp Center structural flaw]]
+- [[wind_analysis_and_quartering_winds | Wind analysis and quartering winds]]
+- [[chevron_bracing_and_tuning_mass_dampers | Chevron bracing and tuning mass dampers]]
+- [[engineering_ethics_and_crisis_management | Engineering ethics and crisis management]]
+- [[impact_of_citicorp_repairs_on_engineering_standards | Impact of Citicorp repairs on engineering standards]]
 
-### [Risking My Life To Settle A Physics Debate](https://www.youtube.com/watch?v=jyQwgBAaBag)
-- [[downwind_faster_than_the_wind_debate | Downwind faster than the wind debate]]
-- [[blackbird_propeller_vehicle_mechanics | Blackbird propeller vehicle mechanics]]
-- [[physics_of_windpowered_vehicles | Physics of windpowered vehicles]]
-- [[counterintuitive_engineering_concepts | Counterintuitive engineering concepts]]
-- [[verification_of_physical_theories | Verification of physical theories]]
-
-### [Future Computers Will Be Radically Different (Analog Computing)](https://www.youtube.com/watch?v=GVsUOuSjvcg)
-- [[analog_computers_history_and_resurgence | Analog computers history and resurgence]]
-- [[differences_between_analog_and_digital_computers | Differences between analog and digital computers]]
-- [[applications_of_analog_computers_in_ai | Applications of analog computers in AI]]
-- [[advancements_in_neural_networks_and_their_computational_needs | Advancements in neural networks and their computational needs]]
-- [[challenges_and_potential_of_analog_computing_in_modern_technology | Challenges and potential of analog computing in modern technology]]
-
-### [The Trillion Dollar Equation](https://www.youtube.com/watch?v=A5w-dEgIU1M)
-- [[history_and_origins_of_options_and_derivatives | History and origins of options and derivatives]]
-- [[role_of_mathematics_and_physics_in_financial_markets | Role of mathematics and physics in financial markets]]
-- [[significance_of_the_blackscholesmerton_equation_in_finance | Significance of the BlackScholesMerton equation in finance]]
-- [[contributions_of_mathematicians_and_scientists_to_investment_strategies | Contributions of mathematicians and scientists to investment strategies]]
-- [[impact_of_derivatives_on_global_financial_markets | Impact of derivatives on global financial markets]]
-
-### [The world depends on a collection of strange items. They're not cheap](https://www.youtube.com/watch?v=esQyYGezS7c)
-- [[standard_reference_materials_and_their_uses | Standard Reference Materials and their Uses]]
-- [[the_role_of_standards_in_food_and_beverage_safety | The Role of Standards in Food and Beverage Safety]]
-- [[applications_of_standards_in_industrial_materials | Applications of Standards in Industrial Materials]]
-- [[importance_of_environmental_monitoring | Importance of Environmental Monitoring]]
-- [[advancements_in_biological_standards | Advancements in Biological Standards]]
+### [The Genius of 3D Printed Rockets](https://www.youtube.com/watch?v=kz165f1g8-E)
+- [[3d_printing_in_aerospace_engineering | 3D printing in aerospace engineering]]
+- [[benefits_and_challenges_of_3d_printed_rockets | Benefits and challenges of 3D printed rockets]]
+- [[comparison_between_traditional_and_3d_printed_rocket_production | Comparison between traditional and 3D printed rocket production]]
+- [[impact_of_3d_printing_on_rocket_design_and_manufacturing | Impact of 3D printing on rocket design and manufacturing]]
+- [[future_prospects_of_3d_printing_in_space_exploration | Future prospects of 3D printing in space exploration]]
 
 ### [What Everyone Gets Wrong About Planes](https://www.youtube.com/watch?v=vjDYfvPW4mA)
-- [[plane_door_mechanics_and_safety | Plane door mechanics and safety]]
-- [[altitude_and_fuel_efficiency_in_aviation | Altitude and fuel efficiency in aviation]]
-- [[pressure_and_oxygen_levels_in_airplane_cabins | Pressure and oxygen levels in airplane cabins]]
-- [[airplane_mode_on_phones_and_its_necessity | Airplane mode on phones and its necessity]]
-- [[effects_of_cabin_pressure_on_taste_and_airplane_food | Effects of cabin pressure on taste and airplane food]]
-
-### [The Most Powerful Computers You've Never Heard Of](https://www.youtube.com/watch?v=IgF3OX8nT0w)
-- [[the_antikythera_mechanism_as_an_early_analog_computer | The Antikythera Mechanism as an early analog computer]]
-- [[differences_between_analog_and_digital_computers | Differences between analog and digital computers]]
-- [[historical_use_of_analog_computers_for_tide_prediction | Historical use of analog computers for tide prediction]]
-- [[analog_computers_in_military_applications_during_world_war_ii | Analog computers in military applications during World War II]]
-- [[the_resurgence_and_potential_of_modern_analog_computing | The resurgence and potential of modern analog computing]]
-
-### [Is Success Luck or Hard Work?](https://www.youtube.com/watch?v=3LopI4YeC4I)
-- [[egocentric_bias_and_self_overestimation | Egocentric bias and self overestimation]]
-- [[role_of_luck_in_success_and_achievement | Role of luck in success and achievement]]
-- [[the_interplay_between_skill_hard_work_and_luck | The interplay between skill hard work and luck]]
-- [[influence_of_societal_structures_and_country_of_birth_on_success | Influence of societal structures and country of birth on success]]
-- [[psychological_effects_of_acknowledging_or_ignoring_luck | Psychological effects of acknowledging or ignoring luck]]
-
-### [What if you just keep zooming in?](https://www.youtube.com/watch?v=88bMVbx1dzM)
-- [[history_and_development_of_electron_microscopes | History and development of electron microscopes]]
-- [[spherical_aberration_and_its_impact_on_resolution | Spherical aberration and its impact on resolution]]
-- [[advancements_in_atom_visualization_technology | Advancements in atom visualization technology]]
-- [[principles_of_electron_microscopy_and_waveparticle_duality | Principles of electron microscopy and waveparticle duality]]
-- [[role_of_aberrationcorrected_microscopes_in_material_science | Role of aberrationcorrected microscopes in material science]]
+- [[airplane_door_mechanics_and_safety | Airplane door mechanics and safety]]
+- [[altitude_effects_on_airplane_efficiency_and_safety | Altitude effects on airplane efficiency and safety]]
+- [[cabin_pressurization_and_airplane_structural_integrity | Cabin pressurization and airplane structural integrity]]
+- [[cell_phone_use_on_airplanes_and_potential_interference | Cell phone use on airplanes and potential interference]]
+- [[airplane_food_taste_and_cabin_environment_effects | Airplane food taste and cabin environment effects]]
 
 ### [The Closest We’ve Come to a Theory of Everything](https://www.youtube.com/watch?v=Q10_srZ-pbs)
-- [[unification_of_physics_theories | unification of physics theories]]
-- [[principle_of_least_action | principle of least action]]
-- [[history_of_physics_and_mathematics_discoveries | history of physics and mathematics discoveries]]
-- [[bernoulli_and_the_problem_of_fastest_descent | Bernoulli and the problem of fastest descent]]
-- [[applications_of_calculus_in_physics | applications of calculus in physics]]
+- [[principle_of_least_action | Principle of Least Action]]
+- [[brachistochrone_problem | Brachistochrone Problem]]
+- [[history_of_physics_and_mathematics | History of Physics and Mathematics]]
+- [[newtons_second_law_and_variational_principles | Newtons Second Law and Variational Principles]]
+- [[application_of_calculus_in_physics | Application of Calculus in Physics]]
+
+### [Future Computers Will Be Radically Different (Analog Computing)](https://www.youtube.com/watch?v=GVsUOuSjvcg)
+- [[history_and_resurgence_of_analog_computers | History and resurgence of analog computers]]
+- [[comparison_of_analog_and_digital_computing | Comparison of analog and digital computing]]
+- [[neural_networks_and_artificial_intelligence | Neural networks and artificial intelligence]]
+- [[analog_computing_in_machine_learning_and_ai_applications | Analog computing in machine learning and AI applications]]
+- [[future_potential_of_analog_computers_in_ai | Future potential of analog computers in AI]]
+
+### [Is Success Luck or Hard Work?](https://www.youtube.com/watch?v=3LopI4YeC4I)
+- [[egocentric_bias_and_selfattribution | Egocentric bias and selfattribution]]
+- [[role_of_luck_in_success | Role of luck in success]]
+- [[impact_of_competition_on_success | Impact of competition on success]]
+- [[psychological_perspectives_on_inequality_and_entitlement | Psychological perspectives on inequality and entitlement]]
+
+### [Risking My Life To Settle A Physics Debate](https://www.youtube.com/watch?v=jyQwgBAaBag)
+- [[debate_on_faster_than_wind_travel | Debate on faster than wind travel]]
+- [[mechanics_of_wind_and_velocity | Mechanics of wind and velocity]]
+- [[personal_experience_in_experimental_craft | Personal experience in experimental craft]]
+
+### [The world depends on a collection of strange items. They're not cheap](https://www.youtube.com/watch?v=esQyYGezS7c)
+- [[us_government_warehouse_and_strange_items | US government warehouse and strange items]]
+- [[importance_and_cost_of_standard_reference_materials | Importance and cost of standard reference materials]]
+- [[role_of_the_national_institute_of_standards_and_technology_nist | Role of the National Institute of Standards and Technology NIST]]
+- [[use_of_standard_reference_materials_in_various_industries | Use of standard reference materials in various industries]]
+- [[environmental_monitoring_through_standard_materials | Environmental monitoring through standard materials]]
 
 ### [Turbulent Flow is MORE Awesome Than Laminar Flow](https://www.youtube.com/watch?v=5zI9sG3pjVU)
-- [[turbulent_flow_vs_laminar_flow | Turbulent flow vs laminar flow]]
+- [[comparison_between_turbulent_and_laminar_flow | Comparison between turbulent and laminar flow]]
 - [[characteristics_of_turbulent_flow | Characteristics of turbulent flow]]
-- [[reynolds_number_and_fluid_dynamics | Reynolds number and fluid dynamics]]
-- [[applications_of_turbulent_flow_in_technology_and_nature | Applications of turbulent flow in technology and nature]]
-- [[flushable_wipes_and_sewer_system_impacts | Flushable wipes and sewer system impacts]]
+- [[applications_and_significance_of_turbulent_flow_in_nature_and_technology | Applications and significance of turbulent flow in nature and technology]]
+- [[reynolds_number_and_its_role_in_fluid_dynamics | Reynolds number and its role in fluid dynamics]]
+- [[impact_of_fluid_flow_on_aerodynamics_and_efficiency | Impact of fluid flow on aerodynamics and efficiency]]
 
 ### [Stringless Yo-Yo!](https://www.youtube.com/watch?v=-i0InwW0V9k)
-- [[stringless_yoyo_techniques | Stringless yoyo techniques]]
-- [[physics_of_yoyoing | Physics of yoyoing]]
-- [[ben_condes_yoyo_channel | Ben Condes yoyo channel]]
+- [[stringless_yoyo_mechanics | Stringless yoyo mechanics]]
 - [[gyroscopic_stability_in_yoyos | Gyroscopic stability in yoyos]]
-- [[friction_and_angular_momentum_in_yoyos | Friction and angular momentum in yoyos]]
+- [[role_of_friction_in_yoyo_performance | Role of friction in yoyo performance]]
+- [[personal_achievements_in_yoyoing | Personal achievements in yoyoing]]
+- [[audible_sponsorship_and_special_offers | Audible sponsorship and special offers]]
 
-### [How One Company Secretly Poisoned The Planet](https://www.youtube.com/watch?v=SC2eSujzrUY)
-- [[history_of_teflon_and_its_discovery | History of Teflon and its discovery]]
-- [[environmental_impact_of_pfas_chemicals | Environmental impact of PFAS chemicals]]
-- [[health_risks_associated_with_pfas_exposure | Health risks associated with PFAS exposure]]
-- [[dupont_and_chemical_contamination_coverup | DuPont and chemical contamination coverup]]
-- [[alternatives_and_regulations_for_pfas | Alternatives and regulations for PFAS]]
+### [How Electricity Actually Works](https://www.youtube.com/watch?v=oI_X2cMHNe0)
+- [[electric_fields_and_surface_charges_in_circuits | Electric fields and surface charges in circuits]]
+- [[role_of_electric_and_magnetic_fields_in_energy_transfer | Role of electric and magnetic fields in energy transfer]]
+- [[lumped_element_and_distributed_element_models_in_electrical_circuits | Lumped element and distributed element models in electrical circuits]]
+- [[applications_of_maxwells_equations_in_analyzing_circuits | Applications of Maxwells equations in analyzing circuits]]
 
 ### [Drinking in ZERO-G! (and other challenges of a trip to Mars)](https://www.youtube.com/watch?v=SAQ-iIJkLzA)
-- [[challenges_of_microgravity_in_space_travel | Challenges of microgravity in space travel]]
-- [[differences_in_gravity_between_earth_moon_and_mars | Differences in gravity between Earth Moon and Mars]]
-- [[effects_of_microgravity_on_the_human_body | Effects of microgravity on the human body]]
+- [[challenges_of_microgravity_and_its_effects_on_the_human_body | Challenges of microgravity and its effects on the human body]]
+- [[exercising_and_maintaining_health_in_low_gravity_environments | Exercising and maintaining health in low gravity environments]]
+- [[unique_phenomena_in_zerogravity_settings_such_as_the_intermediate_axis_theorem | Unique phenomena in zerogravity settings such as the intermediate axis theorem]]
 - [[radiation_exposure_during_space_travel | Radiation exposure during space travel]]
-- [[solutions_for_exercising_and_maintaining_health_in_space | Solutions for exercising and maintaining health in space]]
+- [[potential_for_human_colonization_and_evolution_on_mars | Potential for human colonization and evolution on Mars]]
 
-### [Why Super Glue Is Perfect For Gluing Skin](https://www.youtube.com/watch?v=Ni82f1-cAXg)
-- [[the_chemistry_of_super_glue_and_how_it_works | The chemistry of super glue and how it works]]
-- [[development_and_accidental_discovery_of_super_glue | Development and accidental discovery of super glue]]
-- [[medical_uses_and_limitations_of_super_glue | Medical uses and limitations of super glue]]
-- [[applications_and_weaknesses_of_super_glue | Applications and weaknesses of super glue]]
-- [[potential_of_super_glue_in_recycling_and_sustainability | Potential of super glue in recycling and sustainability]]
+### [How One Company Secretly Poisoned The Planet](https://www.youtube.com/watch?v=SC2eSujzrUY)
+- [[history_of_teflon_and_discovery_by_dupont | History of Teflon and discovery by DuPont]]
+- [[environmental_and_health_impacts_of_pfas_chemicals | Environmental and health impacts of PFAS chemicals]]
+- [[legal_and_corporate_coverups_related_to_teflon_production | Legal and corporate coverups related to Teflon production]]
+- [[global_contamination_and_persistence_of_forever_chemicals | Global contamination and persistence of forever chemicals]]
+- [[efforts_to_mitigate_pfas_exposure_and_regulatory_challenges | Efforts to mitigate PFAS exposure and regulatory challenges]]
 
 ### [3 Perplexing Physics Problems](https://www.youtube.com/watch?v=K-Fc08X56R0)
-- [[shaken_carbonated_drinks_and_pressure_dynamics | Shaken carbonated drinks and pressure dynamics]]
-- [[melting_of_ice_cubes_in_fresh_water_versus_saltwater | Melting of ice cubes in fresh water versus saltwater]]
-- [[physics_of_a_metal_ring_and_chain_trick | Physics of a metal ring and chain trick]]
-- [[nucleation_sites_and_their_role_in_fizzy_drinks | Nucleation sites and their role in fizzy drinks]]
-- [[sponsored_content_about_website_building_with_squarespace | Sponsored content about website building with Squarespace]]
+- [[why_shaken_carbonated_drinks_explode | Why shaken carbonated drinks explode]]
+- [[ice_melting_rates_in_fresh_water_vs_salt_water | Ice melting rates in fresh water vs salt water]]
+- [[physics_of_getting_a_ring_to_stick_on_a_chain | Physics of getting a ring to stick on a chain]]
+
+### [How to Understand What Black Holes Look Like](https://www.youtube.com/watch?v=zUyH3XhpLTo)
+- [[firstever_image_of_a_black_hole | Firstever image of a black hole]]
+- [[event_horizon_telescope_and_its_results | Event Horizon Telescope and its results]]
+- [[understanding_event_horizon_and_schwarzschild_radius | Understanding event horizon and Schwarzschild radius]]
+- [[accretion_disk_around_a_black_hole | Accretion disk around a black hole]]
+- [[how_light_behaves_around_black_holes | How light behaves around black holes]]
 
 ### [First Image of a Black Hole!](https://www.youtube.com/watch?v=S_GVbuddri8)
 - [[first_image_of_a_black_hole_by_event_horizon_telescope | First image of a black hole by Event Horizon Telescope]]
-- [[relativistic_beaming_and_plasma_orbiting_the_black_hole | Relativistic beaming and plasma orbiting the black hole]]
-- [[electromagnetic_waves_and_the_role_of_radio_waves_in_imaging | Electromagnetic waves and the role of radio waves in imaging]]
-- [[supermassive_black_hole_in_m87_and_its_properties | Supermassive black hole in M87 and its properties]]
-- [[technical_challenges_and_global_collaboration_in_observing_black_holes | Technical challenges and global collaboration in observing black holes]]
+- [[relativistic_beaming_and_plasma_orbiting_black_holes | Relativistic beaming and plasma orbiting black holes]]
+- [[use_of_electromagnetic_waves_to_view_black_holes | Use of electromagnetic waves to view black holes]]
+- [[m87_black_hole_characteristics_and_accretion_disk | M87 black hole characteristics and accretion disk]]
+- [[comparison_of_m87_and_sagittarius_a | Comparison of M87 and Sagittarius A]]
 
-### [We Might Find Alien Life In 2138 Days](https://www.youtube.com/watch?v=DJO_9auJhJQ)
-- [[search_for_alien_life_on_europa | Search for alien life on Europa]]
-- [[europa_clipper_mission_and_challenges | Europa Clipper mission and challenges]]
-- [[geological_and_environmental_conditions_on_europa | Geological and environmental conditions on Europa]]
-- [[potential_habitability_of_jupiters_moon_europa | Potential habitability of Jupiters moon Europa]]
-- [[nasa_and_esa_collaborative_efforts_in_space_exploration | NASA and ESA collaborative efforts in space exploration]]
-
-### [How to Understand What Black Holes Look Like](https://www.youtube.com/watch?v=zUyH3XhpLTo)
-- [[firstever_black_hole_image_by_event_horizon_telescope | Firstever black hole image by Event Horizon Telescope]]
-- [[general_theory_of_relativity_and_black_holes | General Theory of Relativity and black holes]]
-- [[accretion_disk_around_black_holes | Accretion disk around black holes]]
-- [[photon_sphere_and_schwarzschild_radius | Photon sphere and Schwarzschild radius]]
-- [[relativistic_effects_and_imaging_black_holes | Relativistic effects and imaging black holes]]
-
-### [Why is this number everywhere?](https://www.youtube.com/watch?v=d6iQrh2TK98)
-- [[the_psychology_of_random_number_selection | the psychology of random number selection]]
-- [[the_significance_of_the_number_37 | the significance of the number 37]]
-- [[cultural_patterns_in_choosing_random_numbers | cultural patterns in choosing random numbers]]
-- [[mathematical_uniqueness_of_prime_numbers | mathematical uniqueness of prime numbers]]
-- [[the_application_of_the_37_rule_in_decision_making | the application of the 37 rule in decision making]]
+### [Something Strange Happens When You Trust Quantum Mechanics](https://www.youtube.com/watch?v=qJZ1Ez28C-A)
+- [[misconceptions_in_classical_paths_versus_quantum_paths | Misconceptions in classical paths versus quantum paths]]
+- [[principle_of_least_action_in_classical_and_quantum_mechanics | Principle of least action in classical and quantum mechanics]]
+- [[the_role_of_plancks_constant_in_quantum_mechanics | The role of Plancks constant in quantum mechanics]]
+- [[de_broglies_hypothesis_and_waveparticle_duality | De Broglies hypothesis and waveparticle duality]]
+- [[feynmans_path_integral_formulation_of_quantum_mechanics | Feynmans path integral formulation of quantum mechanics]]
 
 ### [Why Mosquitoes Bite Some People More Than Others](https://www.youtube.com/watch?v=38gVZgE39K8)
-- [[genetic_factors_in_mosquito_attraction | Genetic factors in mosquito attraction]]
-- [[research_on_mosquito_preferences | Research on mosquito preferences]]
-- [[the_role_of_dna_in_determining_attractiveness_to_mosquitoes | The role of DNA in determining attractiveness to mosquitoes]]
-- [[impact_of_mosquitoes_on_human_health | Impact of mosquitoes on human health]]
-- [[evolutionary_aspects_of_human_interaction_with_mosquitoes | Evolutionary aspects of human interaction with mosquitoes]]
+- [[genetic_factors_influencing_mosquito_attraction | Genetic factors influencing mosquito attraction]]
+- [[mosquitoes_and_their_impact_on_human_health | Mosquitoes and their impact on human health]]
+- [[mosquito_breeding_and_lifecycle | Mosquito breeding and lifecycle]]
+- [[chemical_signals_affecting_mosquito_behavior | Chemical signals affecting mosquito behavior]]
+- [[role_of_evolution_in_human_attractiveness_to_mosquitoes | Role of evolution in human attractiveness to mosquitoes]]
 
-### [The Illusion Only Some People Can See](https://www.youtube.com/watch?v=dBap_Lp-0oc)
-- [[the_ames_window_illusion_and_its_mechanics | The Ames window illusion and its mechanics]]
-- [[carpentered_world_hypothesis_and_cultural_perception_differences | Carpentered world hypothesis and cultural perception differences]]
-- [[anamorphosis_in_art_and_its_historical_examples | Anamorphosis in art and its historical examples]]
-- [[creation_and_implications_of_ames_room_illusion | Creation and implications of Ames room illusion]]
-- [[perception_of_reality_and_philosophical_implications | Perception of reality and philosophical implications]]
+### [Why is this number everywhere?](https://www.youtube.com/watch?v=d6iQrh2TK98)
+- [[random_number_selection | random number selection]]
+- [[the_number_37_in_culture_and_mathematics | the number 37 in culture and mathematics]]
+- [[the_psychology_of_numbers | the psychology of numbers]]
+- [[the_prime_number_phenomenon | the prime number phenomenon]]
+- [[the_secretary_problem_and_decision_making | the secretary problem and decision making]]
 
 ### [How Quantum Computers Break The Internet... Starting Now](https://www.youtube.com/watch?v=-UrdExQW0cs)
-- [[quantum_computing_and_encryption | Quantum computing and encryption]]
-- [[store_now_decrypt_later_sndl_method | Store Now Decrypt Later SNDL method]]
-- [[public_key_cryptography_and_rsa | Public key cryptography and RSA]]
-- [[quantum_fourier_transform | Quantum Fourier transform]]
+- [[quantum_computers_and_encryption | Quantum computers and encryption]]
+- [[store_now_decrypt_later_sndl | Store Now Decrypt Later SNDL]]
+- [[quantum_computing_and_public_key_algorithms | Quantum computing and public key algorithms]]
+- [[quantum_fourier_transform_and_shors_algorithm | Quantum Fourier transform and Shors algorithm]]
 - [[postquantum_cryptography_and_latticebased_encryption | Postquantum cryptography and latticebased encryption]]
-
-### [The Explosive Element That Changed The World](https://www.youtube.com/watch?v=YMDJA4UvXLA)
-- [[the_history_and_discovery_of_potash_and_potassium | The history and discovery of potash and potassium]]
-- [[the_role_of_potash_in_global_agriculture_and_as_fertilizer | The role of potash in global agriculture and as fertilizer]]
-- [[the_transition_from_traditional_mining_methods_to_modern_evaporation_techniques | The transition from traditional mining methods to modern evaporation techniques]]
-- [[the_economic_and_environmental_impacts_of_potash_production | The economic and environmental impacts of potash production]]
-- [[historical_significance_of_potash_in_early_american_industries | Historical significance of potash in early American industries]]
 
 ### [What Actually Happened To Amelia Earhart?](https://www.youtube.com/watch?v=zTDFhWWPZ4Q)
 - [[amelia_earharts_final_flight_and_disappearance | Amelia Earharts final flight and disappearance]]
-- [[challenges_and_decision_making_in_earharts_aviation_attempts | Challenges and decision making in Earharts aviation attempts]]
-- [[radio_communication_and_navigation_techniques_in_the_1930s | Radio communication and navigation techniques in the 1930s]]
-- [[technical_failings_and_their_impact_on_earharts_mission | Technical failings and their impact on Earharts mission]]
-- [[role_of_responsibility_and_knowledge_in_earharts_journey | Role of responsibility and knowledge in Earharts journey]]
+- [[radio_navigation_challenges_in_the_1930s | Radio navigation challenges in the 1930s]]
+- [[role_and_impact_of_fred_noonan_in_earharts_journey | Role and impact of Fred Noonan in Earharts journey]]
+- [[challenges_and_risks_of_longdistance_flights | Challenges and risks of longdistance flights]]
+- [[conspiracy_theories_and_search_efforts_for_earhart | Conspiracy theories and search efforts for Earhart]]
 
-### [Why Women Are Stripey](https://www.youtube.com/watch?v=BD6h-wDj7bw)
-- [[structure_of_dna_and_chromosomes | Structure of DNA and Chromosomes]]
-- [[x_chromosome_inactivation_in_females | X Chromosome Inactivation in Females]]
-- [[role_of_histones_in_dna_packing | Role of Histones in DNA Packing]]
-- [[epigenetics_and_gene_expression | Epigenetics and Gene Expression]]
-- [[calico_cats_as_an_example_of_epigenetics | Calico Cats as an Example of Epigenetics]]
+### [The Explosive Element That Changed The World](https://www.youtube.com/watch?v=YMDJA4UvXLA)
+- [[the_history_and_importance_of_potash | The history and importance of potash]]
+- [[mining_and_extraction_techniques_for_potash | Mining and extraction techniques for potash]]
+- [[the_chemical_properties_and_reactions_of_potassium | The chemical properties and reactions of potassium]]
+- [[potashs_role_in_agriculture_and_fertilizer_production | Potashs role in agriculture and fertilizer production]]
+- [[the_historical_impact_of_potash_on_industry_and_technology | The historical impact of potash on industry and technology]]
 
-### [What it’s like to watch a Total Solar Eclipse](https://www.youtube.com/watch?v=G10m2ZZRH4U)
-- [[total_solar_eclipse_experience | Total solar eclipse experience]]
-- [[observing_solar_eclipses_in_oregon | Observing solar eclipses in Oregon]]
-- [[effects_during_a_solar_eclipse | Effects during a solar eclipse]]
-- [[photography_techniques_for_eclipses | Photography techniques for eclipses]]
-- [[community_reactions_to_solar_eclipses | Community reactions to solar eclipses]]
+### [The Illusion Only Some People Can See](https://www.youtube.com/watch?v=dBap_Lp-0oc)
+- [[ames_window_illusion | Ames window illusion]]
+- [[carpentered_world_hypothesis | Carpentered world hypothesis]]
+- [[anamorphosis_in_art | Anamorphosis in art]]
+- [[ames_room_and_depth_perception | Ames Room and depth perception]]
+- [[interpretation_of_visual_cues_and_reality | Interpretation of visual cues and reality]]
 
-### [Something Strange Happens When You Trust Quantum Mechanics](https://www.youtube.com/watch?v=qJZ1Ez28C-A)
-- [[principle_of_least_action_in_quantum_mechanics | Principle of least action in quantum mechanics]]
-- [[plancks_constant_and_its_role_in_quantum_mechanics | Plancks constant and its role in quantum mechanics]]
-- [[double_slit_experiment_and_its_implications | Double slit experiment and its implications]]
-- [[feynmans_path_integral_formulation | Feynmans path integral formulation]]
-- [[historical_development_of_quantum_mechanics | Historical development of quantum mechanics]]
-
-### [The Snowflake Myth](https://www.youtube.com/watch?v=ao2Jfm35XeE)
-- [[creating_snowflakes_in_the_lab | Creating snowflakes in the lab]]
-- [[history_and_photography_of_snowflakes | History and photography of snowflakes]]
-- [[types_and_structures_of_snowflakes | Types and structures of snowflakes]]
-- [[science_behind_snowflake_formation | Science behind snowflake formation]]
-- [[ken_libbrechts_research_on_snowflakes | Ken Libbrechts research on snowflakes]]
-
-### [The Original Double Slit Experiment](https://www.youtube.com/watch?v=Iuv6hY6zsd0)
-- [[nature_of_light_particles_versus_waves | Nature of light particles versus waves]]
-- [[thomas_youngs_double_slit_experiment | Thomas Youngs double slit experiment]]
-- [[interference_patterns_and_light_behavior | Interference patterns and light behavior]]
-- [[interaction_of_light_with_different_wavelengths_causing_color_differences | Interaction of light with different wavelengths causing color differences]]
-- [[historical_debate_on_the_nature_of_light | Historical debate on the nature of light]]
-
-### [The Absurd Search For Dark Matter](https://www.youtube.com/watch?v=6etTERFUlUI)
-- [[dark_matter_detection_experiments | Dark matter detection experiments]]
-- [[history_of_dark_matter_hypothesis | History of dark matter hypothesis]]
-- [[cosmic_background_radiation_and_dark_matter | Cosmic background radiation and dark matter]]
-- [[dark_matter_interaction_with_ordinary_matter | Dark matter interaction with ordinary matter]]
-- [[alternative_theories_to_dark_matter | Alternative theories to dark matter]]
-
-### [The Man Who Almost Broke Math (And Himself...)](https://www.youtube.com/watch?v=_cr46G2K5Fo)
-- [[infinity_and_countability_in_mathematics | Infinity and countability in mathematics]]
-- [[georg_cantor_and_the_development_of_set_theory | Georg Cantor and the development of set theory]]
-- [[the_axiom_of_choice_and_its_implications | The axiom of choice and its implications]]
-- [[cantors_diagonalization_proof | Cantors Diagonalization Proof]]
-- [[the_banachtarski_paradox | The BanachTarski Paradox]]
-
-### [How Were the Pyramids Built?](https://www.youtube.com/watch?v=lotbZQ55SgU)
-- [[history_of_pyramid_construction | History of pyramid construction]]
-- [[materials_and_techniques_used_in_building_pyramids | Materials and techniques used in building pyramids]]
-- [[myths_and_misconceptions_about_pyramid_builders | Myths and misconceptions about pyramid builders]]
-- [[engineering_challenges_in_pyramid_construction | Engineering challenges in pyramid construction]]
-- [[visual_and_cultural_significance_of_pyramids | Visual and cultural significance of pyramids]]
+### [Why Super Glue Is Perfect For Gluing Skin](https://www.youtube.com/watch?v=Ni82f1-cAXg)
+- [[history_and_discovery_of_super_glue | History and discovery of super glue]]
+- [[chemical_properties_and_bonding_mechanism_of_super_glue | Chemical properties and bonding mechanism of super glue]]
+- [[super_glue_applications_and_limitations | Super glue applications and limitations]]
+- [[medical_uses_and_developments_of_super_glue | Medical uses and developments of super glue]]
+- [[potential_of_super_glue_for_plastic_recycling | Potential of super glue for plastic recycling]]
 
 ### [I Took an IQ Test to Find Out What it Actually Measures](https://www.youtube.com/watch?v=FkKPsLxgpuY)
-- [[history_and_origins_of_iq_tests | History and origins of IQ tests]]
-- [[what_iq_tests_measure | What IQ tests measure]]
-- [[predictive_power_of_iq_scores | Predictive power of IQ scores]]
-- [[controversies_and_misconceptions_about_iq | Controversies and misconceptions about IQ]]
-- [[factors_influencing_iq_scores | Factors influencing IQ scores]]
+- [[history_of_iq_tests | History of IQ tests]]
+- [[what_iq_tests_actually_measure | What IQ tests actually measure]]
+- [[predictive_power_of_iq | Predictive power of IQ]]
+- [[controversies_and_criticisms_of_iq_tests | Controversies and criticisms of IQ tests]]
+- [[impacts_of_education_and_culture_on_iq | Impacts of education and culture on IQ]]
 
-### [Exposing The Flaw In Our Phone System](https://www.youtube.com/watch?v=wVyu7NB7W6Y)
-- [[exploiting_vulnerabilities_in_phone_systems | Exploiting vulnerabilities in phone systems]]
-- [[history_of_phone_system_hacks | History of phone system hacks]]
-- [[ss7_protocol_and_its_vulnerabilities | SS7 protocol and its vulnerabilities]]
-- [[impact_of_mobile_phone_security_breaches | Impact of mobile phone security breaches]]
-- [[steps_individuals_can_take_to_protect_against_ss7_attacks | Steps individuals can take to protect against SS7 attacks]]
+### [We Might Find Alien Life In 2138 Days](https://www.youtube.com/watch?v=DJO_9auJhJQ)
+- [[arthur_c_clarke_and_2010_odyssey_two | Arthur C Clarke and 2010 Odyssey Two]]
+- [[nasas_europa_clipper_mission | NASAs Europa Clipper Mission]]
+- [[challenges_of_exploring_jupiters_moons | Challenges of Exploring Jupiters Moons]]
+- [[potential_for_alien_life_on_europa | Potential for Alien Life on Europa]]
+- [[collaborative_space_exploration_efforts | Collaborative Space Exploration Efforts]]

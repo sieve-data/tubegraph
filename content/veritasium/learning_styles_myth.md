@@ -1,71 +1,76 @@
 ---
-title: learning styles myth
+title: Learning styles myth
 videoId: rhgwIhB58PA
 ---
 
 From: [[veritasium]] <br/> 
 
-The concept of "learning styles" suggests that individuals have a preferred way of learning, and if information is presented in accordance with this style, they will learn better <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. This idea is widely accepted in education <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+The idea of "learning styles" suggests that individuals have their own preferred way of learning, and that if information is presented in accordance with this style, they will learn better <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. This concept is widely believed, with a survey of nearly 400 teachers from the UK and the Netherlands finding that over 90% believed individuals learn better when receiving information in their preferred style <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
 
-## Common Learning Styles (VARK)
+## Common Learning Style Theories
 
-While dozens of learning style theories exist, the most common one identifies four main styles, known as VARK <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>:
-*   **Visual learners** learn best from images, demonstrations, and pictures <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
-*   **Auditory learners** learn best from listening to an explanation <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
-*   **Reading-writing learners** learn best from reading and writing <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
-*   **Kinesthetic learners** learn best by doing and physically interacting with the world <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+While dozens of theories exist, the most common one identifies four main [[vark_model | VARK model]] learning styles:
+*   **Visual (V)**: Learners understand best from images, demonstrations, and pictures <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. They may struggle with auditory explanations and need to see things acted out or written <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+*   **Auditory (A)**: Learners excel by listening to explanations and lectures <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
+*   **Reading-Writing (R)**: Learners learn best from reading and writing <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>, often able to gain much from textbooks <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+*   **Kinesthetic (K)**: Learners thrive by doing and physically interacting with the world, preferring a "hands-on" approach <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
 
-## Intuitive Appeal
+To leverage these styles, teachers would ideally identify each student's learning style and teach them accordingly <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
 
-The idea of learning styles makes intuitive sense because people recognize that everyone is different <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. Some individuals may have better spatial reasoning, listening comprehension, or manual dexterity <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. This aligns with a broader Western tradition emphasizing individual uniqueness <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
+## The Intuitive Appeal
 
-Teachers also widely believe in learning styles; a survey of nearly 400 teachers from the UK and the Netherlands found that over 90% believed individuals learn better when information is received in their preferred style <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
+The concept of learning styles seems intuitively correct because people recognize individual differences <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. Some individuals have better spatial reasoning, listening comprehension, or are good with their hands <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. This aligns with the Western tradition of acknowledging individual uniqueness <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
 
-## Testing the Hypothesis
+## Scientific Testing of Learning Styles
 
-To test the learning styles hypothesis, a randomized control trial could be conducted <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. This involves:
-1.  Identifying learners with different styles (e.g., visual and auditory) <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
-2.  Randomly assigning them to different educational presentations (e.g., visual and auditory) <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
-3.  Giving everyone the same test <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
+To test the learning style hypothesis, a randomized control trial could be conducted <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. This would involve:
+1.  Identifying learners with at least two different learning styles (e.g., visual and auditory) <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+2.  Randomly assigning them to different educational presentations (e.g., one visual, one auditory) <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+3.  Ensuring half the students receive instruction matching their style, and half do not <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+4.  Administering the same test to all students <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
 
-If the hypothesis were true, performance should be better when the presentation matches the learning style <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
+If the learning style hypothesis were true, results should show better performance when the presentation matches the learning style <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
 
 ### Experimental Evidence
-*   **Anecdotal Street Experiment**: An informal experiment showed that most people remembered around five or six items presented visually or auditorily <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>. Those who remembered substantially more (eight or nine items) did so not because of their "learning style" but because they employed [[memory_strategies | memory strategies]], such as creating an order, repeating lists, or forming a story <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
-*   **Rigorous Studies**: Studies, including one that compared visualizers and verbalizers learning about electronics, consistently found that students whose preferred learning style matched their instruction performed no better on tests than those whose instruction was mismatched <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>, <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>. This result was replicated with non-college-educated adults <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>.
 
-### Adherence to Preferred Styles
-A 2018 study at an Indiana university found that an overwhelming majority of students used study strategies supposedly incompatible with their classified VARK learning style <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>, <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. The minority who did align their strategies with their style did not perform significantly differently on assessments <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>.
+Rigorous studies have been conducted to test this hypothesis:
+*   **Visualizers vs. Verbalizers Study**: One computer-based study assessed students as visualizers or verbalizers based on their preferences for diagrams vs. paragraphs and visual vs. verbal help <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>. Students were then randomly assigned to text-based or picture-based lessons on electronics <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>. The study found that students whose preferred learning style matched their instruction performed no better on tests than those whose instruction was mismatched <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>. This result was replicated with non-college-educated adults <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>.
+*   **Study Strategy Adherence**: A 2018 study with over 400 university students found that an overwhelming majority used study strategies supposedly incompatible with their identified learning style <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. Those who did adhere to their style did not perform significantly differently on assessments <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>.
 
-## Origin of VARK
+### The Problem with Modality
 
-The VARK model was developed by Neil Fleming, a school inspector in New Zealand <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. He created it based on observations of teachers and a desire to explain why some teachers reached learners while others didn't <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>. Fleming stated that preferred modes of learning seemed to hold "some magic, some explanatory power," leading to VARK's creation <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>, <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>. There was no study demonstrating that students naturally cluster into four distinct groups <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
+While some tasks inherently require a particular modality (e.g., music requires auditory input, geography involves maps) <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>, the claim of learning style theories is that these preferences are consistent across *all* learning domains <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>. This is not the case; most people will learn geography better with a map, regardless of their supposed "auditory" preference <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
 
-## Why the Myth Persists
+Ultimately, [[research_on_learning_preferences | review articles on learning styles consistently conclude]] there is no credible evidence that learning styles exist <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a>. A 2009 review highlighted the "striking and disturbing" contrast between the popularity of the approach and the lack of credible evidence for its utility <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>.
 
-While some people are more skilled at interpreting specific stimuli (e.g., a person with perfect pitch for music, or someone with excellent visual-spatial reasoning for maps) <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>, the claim of learning style theories is that these preferences are consistent across *all* learning domains <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>. This is clearly not the case <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>. Most people learn geography better with a map, regardless of their supposed "style" <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
+## Origins of the Myth
 
-The reason differences in learning or recall aren't seen with different presentations is that what is recalled is typically the *meaning* behind the presentation, not the precise nature of the images or sounds <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>.
+The [[vark_model | VARK model]] was developed by Neil Fleming, a school inspector, who observed that some excellent teachers failed to reach certain learners, while some poor teachers succeeded <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. He decided to try to solve this "puzzle," and "preferred modes of learning" seemed to offer "some magic, some explanatory power" <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>. Crucially, there was no study that revealed students naturally cluster into four distinct groups; the model was created without empirical evidence <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
 
-Review articles consistently conclude there is no credible evidence that learning styles exist <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a>. Researchers in a 2009 review noted the "striking and disturbing" contrast between the popularity of the learning styles approach and the lack of credible evidence for its utility <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>.
+## Why the Belief Persists
 
-The belief in learning styles often stems from [[Confirmation bias and its impact | confirmation bias]] <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. If someone believes they are a visual learner, and a diagram helps them understand a concept, they interpret this as evidence for their visual learning style, rather than recognizing that the diagram itself might simply be an effective learning tool for anyone <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>, <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>.
+One reason many people find learning styles convincing is [[theoretical_analyses_and_misconceptions | confirmation bias]]: they already believe it to be true <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. For example, a person might believe they are a visual learner, and when a diagram helps them understand a concept, they interpret this as evidence for their visual learning style <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>. In reality, the diagram might simply be an excellent diagram that would have helped anyone <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>. People interpret new experiences to fit with their existing beliefs, whether accurate or not <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>.
 
 ## What Actually Improves Learning
 
-There is a large body of literature supporting the claim that everyone learns better with [[multimodal_learning | multimodal approaches]] where words and pictures are presented together, rather than words or pictures alone <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>, <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>. This is known as the multimedia effect <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
+If learning styles don't improve learning, what does?
+*   **[[multimodal_learning | Multimodal Approaches]]**: A large body of literature supports that everyone learns better with [[multimodal_learning | multimodal approaches]] where words and pictures are presented together, rather than words or pictures alone <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. This is known as the multimedia effect, explaining why videos with complementary narration and visuals can be powerful learning tools <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
+*   **[[effective_teaching_methods | Active Thinking]]**: The most important thing for learning is what happens inside the learner's head <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>. People learn best when actively thinking about the material, solving problems, or imagining variables changing <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>.
 
-Ultimately, the most important factor for learning is not the way information is presented, but what is happening inside the learner's head <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>. People learn best when they are actively thinking about the material, solving problems, or imagining scenarios <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>. Many evidence-based teaching methods improve learning, but learning styles is not one of them <a class="yt-timestamp" data-t="00:12:09">[00:12:09]</a>.
+There are many evidence-based [[effective_teaching_methods | teaching methods]] that improve learning; learning styles are not one of them <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
 
-## Consequences of the Myth
+## Negative Impacts of the Myth
 
 The prevalence of the learning styles misconception likely makes learning worse <a class="yt-timestamp" data-t="00:12:17">[00:12:17]</a>:
 *   It gives teachers unnecessary things to worry about <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>.
 *   It can make some students reluctant to engage with certain types of instruction <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>.
 *   Time and money spent on learning styles training could be better invested in interventions that actually improve learning <a class="yt-timestamp" data-t="00:12:32">[00:12:32]</a>.
 
-Individuals are not exclusively visual, auditory, or kinesthetic learners; they are all these kinds of learners in one <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>, <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>. The best learning experiences involve multiple different ways of understanding the same thing, a strategy that works for everyone <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>.
+In reality, individuals are all types of learners in one <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>. The best learning experiences involve multiple different ways of understanding the same thing, a strategy that benefits everyone <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>.
 
-## Critical Information Consumption
+## Critical Information Seeking
 
-The widespread belief in learning styles despite a lack of evidence highlights the importance of [[critical_thinking_in_education | critical thinking in education]] and information literacy <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>. A common pitfall is searching only for information that confirms existing beliefs <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>. To avoid this, it's advisable to try different search queries, including terms like "debunked" or "false," to find diverse perspectives and assess information reliability <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>.
+When researching controversial topics like learning styles, it's important to think critically about how information is obtained <a class="yt-timestamp" data-t="00:14:14">[00:14:14]</a>. Many people fall into the trap of only searching for information that confirms what they already believe <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>. To avoid this, it's advisable to:
+*   Avoid putting the desired answer directly into the search query <a class="yt-timestamp" data-t="00:13:41">[00:13:41]</a>.
+*   Try adding terms like "debunked" or "false" to search queries to find alternative perspectives <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>.
+*   Utilize tools that provide more detail about the source of information to judge its trustworthiness <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>.

@@ -1,0 +1,69 @@
+---
+title: History of Physics and Mathematics
+videoId: Q10_srZ-pbs
+---
+
+From: [[veritasium]] <br/> 
+The Principle of Least Action is a fundamental concept in physics that unifies various fields, from classical mechanics to quantum theory. It proposes that the path taken by a physical system between two points in time is the one for which the "action" is minimized or, more generally, stationary. This principle emerged from centuries of mathematical and physical inquiry, beginning with early problems of optimization and light refraction.
+
+## The Problem of Fastest Descent
+
+The journey toward understanding this fundamental principle began with a seemingly simple challenge: the problem of fastest descent, also known as the brachistochrone problem <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. If one wants to slide a mass from point A to point B, what shape of ramp will get it there the fastest? <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>
+
+Common sense might suggest a straight line, the shortest path <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. However, bending the ramp downwards at the start allows the mass to accelerate to a higher speed earlier, which, despite a slightly longer path, reduces overall travel time <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. Galileo believed the arc of a circle was the fastest shape, proving it faster than any polygon, but it was not the ultimate answer <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
+
+In June 1696, Johann Bernoulli, seeking to demonstrate his mathematical prowess, posed this problem as a challenge to the world's best mathematicians <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. Initially, no solutions were submitted, leading Gottfried Leibniz to persuade Bernoulli to extend the deadline, likely targeting Isaac Newton <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. Newton, despite his role as Warden of the Mint and less active involvement in mathematics, solved the problem in a single night upon receiving the challenge on January 29, 1697 <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. He submitted his anonymous solution to *Philosophical Transactions*, which Johann Bernoulli famously recognized, stating, "I recognize the lion by his claw" <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>. Although Newton was generally dominant, Bernoulli's solution to this specific problem was considered more elegant <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+
+## Connection to Light and Fermat's Principle
+
+Bernoulli's ingenious solution drew inspiration from a problem faced by ancient philosophers concerning how light travels <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+
+### Hero of Alexandria and the Shortest Path
+Hero of Alexandria, in the 1st century AD, observed that in a single medium, light follows the shortest path <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. This explains why, upon reflection, the angle of incidence equals the angle of reflection <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. However, when light passes from one medium to another (e.g., air to water), it refracts and does not follow the shortest path <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. This phenomenon, known as Snell's Law (sin θ1 / sin θ2 = constant), remained unexplained for centuries <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
+
+### Pierre Fermat and the Principle of Least Time
+In 1657, Pierre Fermat, a judge by day and mathematician by night, explored why light obeys refraction <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>. He proposed that it's not distance, but **time** that light minimizes <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>. After five years, he successfully proved that Snell's Law emerges directly from the principle that light takes the path of shortest travel time <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>. This constant 'n' in Snell's Law is simply the ratio of the speeds of light in the two media <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. Fermat regarded this as "the most extraordinary, the most unforeseen, and the happiest calculation" of his life <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>. This marked the first known instance of nature obeying an optimization principle <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+
+### Bernoulli's Solution to the Brachistochrone Problem
+Johann Bernoulli recognized that he could apply [[History of light theories | Fermat's principle of least time]] to solve the brachistochrone problem <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>. He converted the mechanics problem into an optics problem <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>. He imagined light traveling through layers of progressively less dense media, where its speed would increase, mimicking a mass accelerating under gravity <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. By making the layers infinitely thin, he achieved a continuous curve <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>. Knowing that a falling object's velocity is proportional to the square root of the height fallen (`v ∝ √y`), he used Snell's Law to derive the relationship `sin(angle) / √y = constant` <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. This equation is the defining characteristic of a cycloid, the path traced by a point on the rim of a rolling wheel <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. This curve, also known as a brachistochrone, is indeed the path of fastest descent <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>. It also has the surprising property that a mass released from any point on the curve reaches the end at the same time, earning it the name "tautochrone curve" (same time) <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>. Bernoulli celebrated his unified solution to "an optical and a mechanical one" <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>.
+
+## Maupertuis and the Principle of Least Action
+
+About 40 years later, Pierre Louis de Maupertuis, one of Bernoulli's students, noticed similar behaviors between light and particles <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. He questioned whether [[History of light theories | Fermat's principle of least time]] was truly fundamental, suggesting a more foundational quantity minimized by both light and particles: **action** <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>.
+
+In the 1740s, Maupertuis proposed action as "mass times velocity times distance" <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>. He posited that out of all possible trajectories, a system would follow the one that minimizes this action <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>. In 1744, he stated that "This action is the true expense of Nature, which she manages to make as small as possible" <a class="yt-timestamp" data-t="00:12:17">[00:12:17]</a>.
+
+Maupertuis's idea was met with ridicule and attack, notably from his former friend Voltaire, who accused him of plagiarism and bad physics <a class="yt-timestamp" data-t="00:12:32">[00:12:32]</a>. Part of the criticism stemmed from the fact that Maupertuis's principle lacked a clear derivation or rigorous mathematical foundation <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>.
+
+## Defense and Development by Euler and Lagrange
+
+Despite the initial backlash, Leonhard Euler vehemently defended the principle of least action <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>.
+
+### Euler's Contributions
+Euler's first step was to replace Maupertuis's sum with an integral, allowing for continuous changes in speed or direction <a class="yt-timestamp" data-t="00:14:09">[00:14:09]</a>. He used this to find the path of a particle orbiting a central mass, like a planet around a star <a class="yt-timestamp" data-t="00:14:18">[00:14:18]</a>. This required finding the path with the smallest action among infinitely many possibilities <a class="yt-timestamp" data-t="00:14:25">[00:14:25]</a>. To tackle this, Euler invented a new mathematical method <a class="yt-timestamp" data-t="00:14:54">[00:14:54]</a>. Through this process, he realized that the principle of least action only holds if the total energy is conserved and is the same for all paths considered – conditions Maupertuis had not identified <a class="yt-timestamp" data-t="00:15:02">[00:15:02]</a>. Euler significantly improved the principle's mathematical rigor and provided a specific example of its working <a class="yt-timestamp" data-t="00:15:16">[00:15:16]</a>.
+
+### Lagrange's General Proof
+The general proof came from Joseph-Louis Lagrange, a self-taught mathematician who shared his results with Euler in 1754 <a class="yt-timestamp" data-t="00:15:51">[00:15:51]</a>. Euler praised Lagrange for elevating the theory "to the highest summit of perfection" <a class="yt-timestamp" data-t="00:16:10">[00:16:10]</a>. Around five years later, just a year after Maupertuis's death, Lagrange succeeded in providing a general proof for the principle of least action <a class="yt-timestamp" data-t="00:16:30">[00:16:30]</a>.
+
+## Hamilton's Principle: The Modern Form
+
+The "action" itself doesn't have an immediate intuitive meaning like force or energy <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>. However, the method to find the path of least action involves varying a path by a tiny amount (eta) and showing that the first-order difference in action between the true path and the varied path is zero <a class="yt-timestamp" data-t="00:17:25">[00:17:25]</a>. This is analogous to finding a function's minimum by setting its derivative to zero <a class="yt-timestamp" data-t="00:17:33">[00:17:33]</a>.
+
+Maupertuis's action was expressed as the integral of mass times velocity over distance <a class="yt-timestamp" data-t="00:19:36">[00:19:36]</a>. Through algebraic manipulation and integration by parts, involving the kinetic energy (T) and potential energy (V), the principle can be reformulated. William Rowan Hamilton, in 1834, was the first to write the principle of least action in its modern form: the variation of the integral of (Kinetic Energy - Potential Energy) over time is zero <a class="yt-timestamp" data-t="00:22:07">[00:22:07]</a>. This quantity, T - V, is known as the Lagrangian (L) <a class="yt-timestamp" data-t="00:22:21">[00:22:21]</a>. This is why it is now commonly referred to as **Hamilton's Principle**, rather than Lagrange's Principle <a class="yt-timestamp" data-t="00:22:26">[00:22:26]</a>.
+
+Key differences between Maupertuis's and Hamilton's Principles:
+*   Hamilton's action is an integral over **time**, not space <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>.
+*   Hamilton's Principle requires defined start and end points *and* start and end times <a class="yt-timestamp" data-t="00:22:57">[00:22:57]</a>.
+*   With Maupertuis's Principle, energy must be constant across paths, but time can vary. With Hamilton's Principle, energies can differ, but time must be the same between paths <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a>.
+
+## Significance and Equivalence to Newton's Laws
+
+When applied to a simple example, like a ball thrown in the air, using Hamilton's Principle leads directly to Newton's Second Law, F = ma <a class="yt-timestamp" data-t="00:25:24">[00:25:24]</a>. This demonstrated that the principle of least action is equivalent to Newton's laws of motion, but it applies more broadly <a class="yt-timestamp" data-t="00:26:04">[00:26:04]</a>. [[History of light theories | Fermat's principle of least time]] is simply a special case of the principle of least action <a class="yt-timestamp" data-t="00:26:14">[00:26:14]</a>.
+
+This single principle unifies seemingly disparate fields of physics, from light reflection and refraction to planetary orbits <a class="yt-timestamp" data-t="00:26:21">[00:26:21]</a>. It provides two ways to solve any mechanics problem: using forces and vectors, or using energies and scalars <a class="yt-timestamp" data-t="00:27:10">[00:27:10]</a>. While Newton's Second Law appears simpler, the Lagrangian approach (using the Euler-Lagrange equation: `d/dt (∂L/∂v) - ∂L/∂x = 0`) simplifies complex problems, especially those with multiple dimensions or unusual coordinate systems (e.g., polar coordinates for rotational dynamics), which would be challenging with vectors <a class="yt-timestamp" data-t="00:28:00">[00:28:00]</a>. A classic example is the double pendulum, which is extremely difficult to solve using forces but becomes manageable with kinetic and potential energy in the Lagrangian framework <a class="yt-timestamp" data-t="00:29:06">[00:29:06]</a>.
+
+It is important to note that the principle is more accurately called the **principle of stationary action**, as the action is not always a true minimum but rather a stationary point (where the derivative is zero) <a class="yt-timestamp" data-t="00:29:58">[00:29:58]</a>.
+
+## Future Implications
+
+The concept of action proved to be far more fundamental than classical mechanics. Around the turn of the 20th century, action emerged as a key component in solving one of the biggest problems in atomic physics at the time: the UV catastrophe, which initiated the development of quantum theory <a class="yt-timestamp" data-t="00:30:23">[00:30:23]</a>. This connection underscores the deep significance of action, not just energy or force, in describing the universe <a class="yt-timestamp" data-t="00:30:42">[00:30:42]</a>.

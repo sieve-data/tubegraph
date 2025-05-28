@@ -1,66 +1,74 @@
 ---
 title: Physics of windpowered vehicles
-videoId: jyQwgBAaBag
+videoId: yCsgoLc_fzI
 ---
 
 From: [[veritasium]] <br/> 
 
-This article explores the [[physics_of_windpowered_vehicles | physics of wind-powered vehicles]], focusing on a specific craft known as Blackbird, which was designed to settle a long-standing [[downwind_faster_than_the_wind_debate | physics debate]] <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The core of this debate revolves around the counterintuitive claim that a wind-powered vehicle can travel directly downwind faster than the wind itself <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, a concept that initially seems to violate the law of conservation of energy <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+The "Blackbird" car is a unique vehicle designed to travel directly downwind faster than the wind itself <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. This counterintuitive claim led to a $10,000 bet between the video creator and Professor Alex Kusenko, a [[Physics of flywheels | physics]] professor at UCLA <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. The bet was publicly witnessed by prominent science communicators including Neil deGrasse Tyson, Bill Nye, and Sean Carroll <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
 
-## The Downwind Faster Than the Wind Debate
+## Arguments Against Faster-Than-Wind Travel
 
-The central brain teaser asks: Can any wind-powered vehicle go directly downwind faster than the wind itself? <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>
+Professor Kusenko initially argued against the Blackbird's sustained faster-than-wind operation, proposing several explanations for observed speeds:
 
-### Sailboats as a Comparison
-When a sailboat travels straight downwind, it is pushed by the wind <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>. However, once the sailboat reaches the same speed as the wind, there is no longer any relative wind pushing the sail, effectively stopping its acceleration <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. From the boat's frame of reference, there's no apparent wind, as the air and boat are moving together <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. Therefore, a sailboat sailing directly downwind can only match the wind's speed, never exceed it, even without drag <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+### Gusty Wind and Inertia
+Professor Kusenko suggested that the vehicle might achieve high speeds due to a strong gust of wind <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. When the wind speed subsequently drops, the car continues to move by inertia, momentarily going faster than the wind, but it would be in a state of deceleration <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. His analysis indicated that whenever the vehicle's velocity exceeds the wind speed, its acceleration would be negative <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
 
-However, sailboats *can* exceed wind speed if they travel at an angle to the wind, a process called tacking <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>. In this scenario, the sail acts like an airfoil, generating lift <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. A component of this lift force propels the boat forward <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. Some sailboats can achieve speeds three or four times the wind speed <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>. It's also possible for a sailboat tacking downwind to achieve a "velocity made good" (VMG) directly downwind that is faster than the wind itself, meaning it can beat a freely drifting balloon to a destination <a class="yt-timestamp" data-t="00:07:21">[00:07:21]</a>.
+### Wind Gradient
+Another point raised was the effect of wind gradient <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. Wind speeds vary with height; wind travels slower closer to the ground and faster at higher altitudes <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. While the wind at the "tell-tale" (wind indicator) was measured at about 1 to 1.5 meters, the Blackbird's propeller extends up to three meters above the ground <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. Kusenko estimated that the wind speed at the propeller's height could be 10% to 15% higher <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. This could make the car *appear* to move faster than the wind measured at the lower height, while actually moving slower than the wind at the propeller's height <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
 
-This concept led to the idea that if the Earth were a cylinder, a sailboat could continuously tack downwind, spiraling along, and effectively behave like a propeller moving faster than the wind <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>.
+### Record-Setting Conditions
+Regarding the Blackbird's reported record speed of 2.8 times wind speed <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>, Kusenko suggested this could be achieved through repeated attempts in gusty conditions <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. A strong gust, three times the speed of the air that follows it, could allow for a brief record-setting moment <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
 
-## The Blackbird Vehicle
+### Treadmill Test Validity
+Treadmill tests were conducted in still air, simulating a steady tailwind by moving the ground backward <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>. If the car could move forward on a treadmill operating at a certain speed, it would demonstrate acceleration faster than that simulated wind <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. However, Kusenko questioned these experiments, suggesting potential unconscious bias from human operators who might inadvertently steer the craft or introduce slight downward slopes, leading to the desired result <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
 
-Blackbird is a one-of-a-kind propeller craft, invented by Rick and currently owned by Neil <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. Its design directly addresses the [[downwind_faster_than_the_wind_hypothesis | hypothesis]] that a vehicle can go straight downwind faster than the air pushing it <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+### Theoretical Analysis and the "Divide by Zero" Problem
+Professor Kusenko also examined a theoretical analysis by MIT Aero Professor Mark Drela <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. His main concern was an equation for net force that included the difference between the car's speed and the wind's speed in the denominator <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. This implies infinite force when the car's speed exactly matches the wind speed, a mathematical anomaly <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. Kusenko's own analysis found no such "divide by zero" issues and concluded that the car could not accelerate at or above wind speed <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. He asserted that while moving faster than the wind might be possible momentarily, maintaining constant speed with zero acceleration at or above wind speed was not <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>.
 
-### How Blackbird Works
-Blackbird's operation is counterintuitive <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. It doesn't function like a windmill, where the wind blows on the propeller to drive the wheels <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. Instead, it works as follows:
-1.  **Initial Movement**: The wind pushes the vehicle from behind, causing it to roll forward slightly <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>.
-2.  **Propeller Drive**: The wheels are geared to the propeller in such a way that they turn the propeller *opposite* to the direction the wind is pushing it <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>.
-3.  **Fan Operation**: Rather than operating as a windmill, the propeller spins like a fan, pushing air backwards relative to the vehicle <a class="yt-timestamp" data-t="00:11:34">[00:11:34]</a>.
-4.  **Thrust Generation**: This backward push of air generates thrust, driving the craft forwards <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>.
+## Evidence Supporting Faster-Than-Wind Travel
 
-### The Science Behind It (Physics Explanation)
-The key to understanding Blackbird's operation lies in distinguishing between the vehicle's speed relative to the ground and its speed relative to the air (the wind).
+### Comprehensive Wind Measurement
+To address the wind gradient argument, the Blackbird team mounted tell-tales (wind indicators) on fishing poles out to the sides and even above the propeller <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>. All tell-tales, even the highest ones, eventually flipped backward, indicating that every part of the vehicle was indeed traveling faster than the local wind <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>.
 
-Even when Blackbird is moving at the speed of the wind, there is no relative air motion *over the cart* <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>. However, the propeller, acting as a fan, can still "hit" air molecules and push them backwards, generating thrust <a class="yt-timestamp" data-t="00:18:02">[00:18:02]</a>. This doesn't mean energy is created from nowhere <a class="yt-timestamp" data-t="00:18:16">[00:18:16]</a>.
+### Sustained Acceleration
+To counter the gust theory, analysis of video footage using the rotation of the back wheel confirmed that the car continued to accelerate even after the tell-tale flipped backward <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. Furthermore, the tell-tale consistently pointed straight back for over 30 seconds until the brakes were applied, which would not happen if gusts or gradients were the sole reason for the perceived speed <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+When Blackbird achieved its record speed of 27.7 miles per hour in a 10 mile per hour tailwind, it was still accelerating <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. This was verified with multiple GPS units and wind speed measurements taken at the height of the propeller in various locations <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>.
 
-The energy comes from the wind itself. When the propeller pushes air backward relative to the vehicle, it actually slows down the tailwind behind the propeller <a class="yt-timestamp" data-t="00:18:51">[00:18:51]</a>. For example, if the surrounding wind is 10 km/h, the propeller might slow the wind directly behind it to 8 km/h <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a>. The energy extracted from this reduction in the wind's kinetic energy is converted into the kinetic energy of the vehicle, accelerating it forward faster than the original wind speed <a class="yt-timestamp" data-t="00:19:23">[00:19:23]</a>.
+### Academic Recognition
+The U.S. [[Applying physics in educational demonstrations | Physics]] Olympiad Semifinal Exam in 2013 included questions about the Blackbird, asking if it could go faster than the wind both downwind and upwind <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>. The official solution stated that both modes are possible, and with sufficiently low energy loss, "any speed is possible" <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>.
 
-Even when the vehicle is moving forward faster than the wind speed, the propeller can continue to push the air backwards, slowing the tailwind and converting some of that wind's energy into the vehicle's kinetic energy <a class="yt-timestamp" data-t="00:19:35">[00:19:35]</a>.
+## How the Blackbird Works
 
-## The Public Debate and Skepticism
+The Blackbird does not operate like a traditional windmill, where the wind pushes the propeller <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>. Instead, its propeller is geared to the wheels via a bike chain <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>. As the wheels turn from contact with the ground, they power the propeller, causing it to turn in the *opposite* direction of the tailwind, effectively working like a fan pushing air backward <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a>. This action generates forward thrust <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>.
 
-When Rick first proposed the idea, he posted it on online forums, expecting initial disbelief followed by acceptance once the explanation was provided <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. However, he was "incredibly wrong" <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. Many people, including some who claimed expertise, strongly denied the possibility:
+The key to its operation lies in the difference in velocities:
+*   The wheels move much faster relative to the ground.
+*   The propeller moves relatively slower through the air due to the tailwind.
 
-> "This is, obviously, stupid. Wind isn't some kind of magic." <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>
-> "We all want to believe in perpetual motion, but I just don't see the logic of this argument as yet." <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>
-> "This is clearly fake. Anyone with a clue should see the problem here." <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>
-> "Once you reach wind speed, what powers it past that?" <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>
+This allows the thrust force from the propeller to be greater than the backward force applied to the wheels. This concept is analogous to a lever or a pulley, where a smaller force applied over a larger distance (at the wheels) can result in a larger force applied over a smaller distance (at the propeller) <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>.
 
-To counter this, a small model was built and tested on a treadmill, which successfully demonstrated the principle <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>. However, even this wasn't enough to convince skeptics, with some physics professors arguing the treadmill wasn't a good real-world analog <a class="yt-timestamp" data-t="00:09:33">[00:09:33]</a>. Others claimed magnets, wires, or hidden fans were at play <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a>. This persistent skepticism led to the decision to build the full-scale Blackbird <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>.
+### [[Weight and torque dynamics | Power]] and Force Analysis (Car's Frame of Reference)
+In the frame of reference of the car, power is defined as force multiplied by velocity (<a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a> Power = Force × Velocity).
+*   **Power In (at wheels):** The ground applies a force on the wheels, generating power equal to the force of the ground on the wheels multiplied by the car's velocity relative to the ground <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>.
+*   **Power Out (at propeller):** The propeller pushes air backward, doing work on the air. The power out is the force of the prop on the air multiplied by the prop's speed relative to the air (car speed minus wind speed) <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>.
 
-## Driving Blackbird: The Proof
+Assuming no energy losses, the power in equals the power out <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>.
+`Force_ground_on_wheels * V_car = Force_prop_on_air * (V_car - V_wind)`
 
-The test site for Blackbird was El Mirage, a dry lakebed a couple of hours from Los Angeles, chosen for its long, straight path <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. To prove its capability, a "telltale" string on the front of the vehicle and a windsock were used:
-*   **Telltale**: Shows the apparent wind direction relative to the vehicle <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
-*   **Windsock**: Shows the true wind direction from the ground reference frame <a class="yt-timestamp" data-t="00:16:37">[00:16:37]</a>.
+From this equation, it is evident that the force at the propeller can be greater than the force at the wheels, as `(V_car - V_wind)` is smaller than `V_car` <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>. Since the air applies an equal and opposite forward force on the propeller, this thrust force can be greater than the backward drag on the wheels <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
 
-Initially, when moving at wind speed, the telltale would dangle straight down, indicating no apparent wind <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>. If Blackbird could go faster than the wind, the telltale would flip around and point *straight at the driver*, indicating an apparent headwind, even though the true wind was coming from behind <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
+### Resolution of the "Divide by Zero" Problem
+The "divide by zero" problem arises when `(V_car - V_wind)` approaches zero, suggesting infinite force <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>. This is analogous to a lever where if one arm's displacement is zero, infinite weight can theoretically be lifted with any force on the other side <a class="yt-timestamp" data-t="00:12:56">[00:12:56]</a>.
+In practice, the issue is resolved by incorporating a propeller efficiency term that is well-defined even at zero air speed <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>. This eliminates the mathematical singularity and provides a more accurate representation of the [[Impact of fluid flow on aerodynamics and efficiency | aerodynamics]] <a class="yt-timestamp" data-t="00:13:25">[00:13:25]</a>.
 
-Despite several challenges, including mechanical issues (a broken chain <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>) and concerns about vehicle stability in high winds <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>, Blackbird successfully achieved the goal <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>. The telltale pointed straight back at the driver, confirming an apparent headwind, while the windsock confirmed the true wind was from behind, proving the vehicle was going faster than the wind <a class="yt-timestamp" data-t="00:16:32">[00:16:32]</a>.
+## Demonstrations and Historical Context
+The principle of a vehicle moving faster than its driving medium can be demonstrated with a simple cart with a large wheel rolling on two smaller spools <a class="yt-timestamp" data-t="00:13:32">[00:13:32]</a>. When the board beneath it is pushed, the cart moves down the board faster than the board itself, with the big wheel rotating in the opposite direction of the board's push, similar to the Blackbird's propeller <a class="yt-timestamp" data-t="00:13:55">[00:13:55]</a>. This illustrates the fundamental [[mechanics_of_wind_and_velocity | mechanics]] at play.
 
-The Blackbird team holds a record, achieving 2.8 times the wind speed <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a>. The demonstrations and direct experience confirm that driving a vehicle downwind faster than the wind is physically possible <a class="yt-timestamp" data-t="00:20:01">[00:20:01]</a>.
+> [!INFO] Historical Context
+> The concept of a downwind vehicle going faster than the wind is not new. In 1969, Andrew Bauer built the first successful downwind cart to settle a wager with Aero Engineer Apolo Smith <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>. This was inspired by a student paper from 20 years prior <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>. Rick Cavallaro, the builder of Blackbird, developed his design independently <a class="yt-timestamp" data-t="00:17:44">[00:17:44]</a>. The phenomenon has also been studied under names like the "push-me pull-you boat" <a class="yt-timestamp" data-t="00:17:51">[00:17:51]</a>.
 
-***
+Replicable models of the Blackbird have been successfully built, demonstrating the principle, such as Xyla Foxlin's 3D-printable design <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>.
 
-_This video was sponsored by Kiwico, a company offering hands-on projects for kids focused on STEAM (Science, Technology, Engineering, Art, and Math) concepts <a class="yt-timestamp" data-t="00:20:30">[00:20:30]</a>. These crates provide all necessary materials and additional content, promoting learning by doing <a class="yt-timestamp" data-t="00:20:48">[00:20:48]</a>._
+## Conclusion of the Bet
+Following the presentation of additional evidence and explanations, Professor Kusenko conceded the bet and transferred $10,000 to the video creator <a class="yt-timestamp" data-t="00:15:16">[00:15:16]</a>. This outcome underscores the value of scientific [[Debate on faster than wind travel | debate]] and the pursuit of truth through evidence <a class="yt-timestamp" data-t="00:15:52">[00:15:52]</a>. The money was subsequently invested in science communication through a video competition <a class="yt-timestamp" data-t="00:15:34">[00:15:34]</a>.

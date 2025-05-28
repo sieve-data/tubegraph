@@ -1,0 +1,57 @@
+---
+title: History of the Phoebus Cartel and its impact on light bulb longevity
+videoId: j5v8D-alAKE
+---
+
+From: [[veritasium]] <br/> 
+
+The Phoebus Cartel was a secret agreement among leading light bulb manufacturers established in 1924, designed to control the global supply of light bulbs and, most notably, intentionally shorten their lifespan to boost sales and profits <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>, <a class="yt-timestamp" data-t="03:28:00">[03:28:00]</a>. This marked a pivotal moment in the history of consumer goods, laying the groundwork for the concept of planned obsolescence <a class="yt-timestamp" data-t="07:13:00">[07:13:00]</a>.
+
+## The Longest-Lasting Light Bulb
+At Livermore Fire Station number six, there is a light bulb that has been continuously on for 120 years, since 1901 <a class="yt-timestamp" data-t="00:26:00">[00:26:00]</a>. This "everlasting light bulb" has been running for over a million hours, far exceeding the intended lifespan of modern bulbs <a class="yt-timestamp" data-t="00:48:00">[00:48:00]</a>, <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>. It was manufactured by hand shortly after commercial light bulbs were first invented <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>. Its longevity is attributed to being made before the cartel era and having its filament run at a low power of just four or five watts, reducing thermal stress <a class="yt-timestamp" data-t="06:17:00">[06:17:00]</a>, <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>, <a class="yt-timestamp" data-t="06:36:00">[06:36:00]</a>.
+
+## Evolution of Light Bulb Technology
+Inventing a viable electric light was challenging <a class="yt-timestamp" data-t="01:39:00">[01:39:00]</a>. Early incandescent designs involved passing electric current through a material to make it glow <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>. Less than 5% of electrical energy was converted to light, with the rest released as heat <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>.
+
+Key developments in light bulb longevity included:
+*   **1840s**: Warren De la Rue proposed putting the filament in a vacuum bulb to prevent burning <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a>.
+*   **1879**: Thomas Edison created a bulb with a cotton thread filament that lasted 14 hours <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>.
+*   **Late 19th/Early 20th Century**: Other inventors used platinum filaments or carbonized materials, gradually increasing bulb lifespan <a class="yt-timestamp" data-t="02:33:00">[02:33:00]</a>.
+*   **Filament Material**: Filaments transitioned from carbon to tungsten, which has a very high melting point <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>, <a class="yt-timestamp" data-t="02:45:00">[02:45:00]</a>.
+*   **Early 1920s**: Average bulb lifetimes approached 2,000 hours, with some lasting 2,500 hours <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>.
+
+This period marked the peak of light bulb longevity before the cartel's intervention <a class="yt-timestamp" data-t="02:56:00">[02:56:00]</a>, <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>.
+
+## Formation of the Phoebus Cartel
+Just before Christmas in 1924, top executives from the world's leading light bulb companies secretly met in Geneva, Switzerland <a class="yt-timestamp" data-t="03:01:00">[03:01:00]</a>, <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>. Members included Philips, International General Electric, Tokyo Electric, OSRAM from Germany, and the UK's Associated Electric <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>. They named their alliance the "Phoebus Cartel," after Phoebus, the Greek God of light <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>.
+
+The cartel aimed to control the global supply of light bulbs <a class="yt-timestamp" data-t="03:28:00">[03:28:00]</a>, as many smaller manufacturers had by then consolidated into these large corporations <a class="yt-timestamp" data-t="03:36:00">[03:36:00]</a>.
+
+## The Cartel's Objectives and Methods
+The primary threat faced by these companies was the increasing lifespan of light bulbs <a class="yt-timestamp" data-t="03:49:00">[03:49:00]</a>. For instance, OSRAM's sales dropped significantly, from 63 million bulbs in 1923 to 28 million the following year, due to bulbs lasting too long <a class="yt-timestamp" data-t="03:53:00">[03:53:00]</a>.
+
+To combat this, the cartel members agreed to reduce the average lifespan of their bulbs to 1,000 hours, nearly halving the existing average <a class="yt-timestamp" data-t="04:06:00">[04:06:00]</a>, <a class="yt-timestamp" data-t="04:11:00">[04:11:00]</a>.
+
+Enforcement mechanisms included:
+*   **Sample Testing**: Manufacturers had to send sample bulbs from their factories to be tested on stands <a class="yt-timestamp" data-t="04:32:00">[04:32:00]</a>, <a class="yt-timestamp" data-t="04:35:00">[04:35:00]</a>.
+*   **Fines**: Companies were fined if their bulbs lasted significantly longer than 1,000 hours <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>, <a class="yt-timestamp" data-t="04:45:00">[04:45:00]</a>. A bulb lasting over 3,000 hours incurred a fine of 200 Swiss Francs per 1,000 bulbs sold <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>, <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>. Records confirm these fines were issued <a class="yt-timestamp" data-t="04:55:00">[04:55:00]</a>.
+*   **Engineering for Shorter Lifespan**: Engineers, previously tasked with extending bulb life, were now directed to decrease it by experimenting with different materials, filament shapes, and thinner connections <a class="yt-timestamp" data-t="05:03:00">[05:03:00]</a>, <a class="yt-timestamp" data-t="05:09:00">[05:09:00]</a>.
+
+## Impact and Public Deception
+The cartel's efforts were successful: the lifespan of light bulbs steadily decreased after its formation <a class="yt-timestamp" data-t="05:15:00">[05:15:00]</a>, <a class="yt-timestamp" data-t="05:18:00">[05:18:00]</a>. By 1934, the average lifespan was only 1,205 hours <a class="yt-timestamp" data-t="05:23:00">[05:23:00]</a>. As planned, sales for cartel members increased by 25% in the four years after 1926 <a class="yt-timestamp" data-t="05:29:00">[05:29:00]</a>, <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>. Despite decreasing component costs, prices remained virtually unchanged, leading to increased profit margins <a class="yt-timestamp" data-t="05:37:00">[05:37:00]</a>.
+
+The Phoebus Cartel publicly claimed its purpose was to increase standardization and efficiency of light bulbs, establishing standards like the universal screw thread <a class="yt-timestamp" data-t="05:52:00">[05:52:00]</a>, <a class="yt-timestamp" data-t="06:00:00">[06:00:00]</a>. However, evidence indicates their motivation was primarily profit and increased sales, not consumer benefit <a class="yt-timestamp" data-t="06:07:00">[06:07:00]</a>, <a class="yt-timestamp" data-t="06:12:00">[06:12:00]</a>.
+
+## Decline and Legacy
+The Phoebus Cartel was intended to last until at least 1955 but collapsed in the 1930s <a class="yt-timestamp" data-t="06:44:00">[06:44:00]</a>, <a class="yt-timestamp" data-t="06:47:00">[06:47:00]</a>. It struggled due to external competition and non-compliance among its members <a class="yt-timestamp" data-t="06:52:00">[06:52:00]</a>, <a class="yt-timestamp" data-t="06:55:00">[06:55:00]</a>. The outbreak of World War II ultimately brought its end <a class="yt-timestamp" data-t="06:58:00">[06:58:00]</a>.
+
+Despite its dissolution, the cartel's methods of intentionally shortening product lifespans, known as planned obsolescence, survived and became a widespread business tactic <a class="yt-timestamp" data-t="07:04:00">[07:04:00]</a>, <a class="yt-timestamp" data-t="07:07:00">[07:07:00]</a>, <a class="yt-timestamp" data-t="07:13:00">[07:13:00]</a>. This tactic has been observed in various industries:
+*   **Electronics**: Apple faced lawsuits for intentionally slowing down older iPhones after iOS updates, claiming it was to protect battery longevity, though the batteries were not easily replaceable <a class="yt-timestamp" data-t="08:01:00">[08:01:00]</a>, <a class="yt-timestamp" data-t="08:04:00">[08:04:00]</a>, <a class="yt-timestamp" data-t="08:14:00">[08:14:00]</a>, <a class="yt-timestamp" data-t="08:22:00">[08:22:00]</a>.
+*   **Fashion and Textiles**: In the 1940s, nylon stockings, initially highly durable, were intentionally weakened by manufacturers to ensure repeat purchases, mimicking the Phoebus Cartel's approach <a class="yt-timestamp" data-t="10:55:00">[10:55:00]</a>, <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>, <a class="yt-timestamp" data-t="11:17:00">[11:17:00]</a>.
+*   **Automobiles**: [[DuPont]], after taking control of General Motors in 1921, introduced annual model changes and varying car colors to make older models feel outdated and encourage frequent trade-ins, a practice GM's head of design Harley Earl called "dynamic obsolescence" <a class="yt-timestamp" data-t="12:47:00">[12:47:00]</a>, <a class="yt-timestamp" data-t="12:51:00">[12:51:00]</a>, <a class="yt-timestamp" data-t="13:07:00">[13:07:00]</a>, <a class="yt-timestamp" data-t="13:13:00">[13:13:00]</a>, <a class="yt-timestamp" data-t="13:32:00">[13:32:00]</a>, <a class="yt-timestamp" data-t="13:36:00">[13:36:00]</a>. This concept of perceived obsolescence, driven by style rather than technological advancement, is also seen in modern electronics like the iPhone <a class="yt-timestamp" data-t="14:09:00">[14:09:00]</a>, <a class="yt-timestamp" data-t="14:13:00">[14:13:00]</a>.
+
+### Countering Obsolescence
+Consumers are increasingly fighting back against planned obsolescence through "right to repair" legislation proposed in the European Union and over 25 US states <a class="yt-timestamp" data-t="11:26:00">[11:26:00]</a>, <a class="yt-timestamp" data-t="11:29:00">[11:29:00]</a>. These laws would require manufacturers to provide information and access to parts, making it easier to repair products without voiding warranties <a class="yt-timestamp" data-t="11:38:00">[11:38:00]</a>, <a class="yt-timestamp" data-t="11:43:00">[11:43:00]</a>.
+
+## Modern Lighting and Longevity
+The [[Transition from incandescent to LED lighting technology]] represents a significant shift. In the last 20 years, light bulbs have evolved from incandescent to compact fluorescent, and now to LED <a class="yt-timestamp" data-t="15:26:00">[15:26:00]</a>, <a class="yt-timestamp" data-t="15:28:00">[15:28:00]</a>, <a class="yt-timestamp" data-t="15:31:00">[15:31:00]</a>, <a class="yt-timestamp" data-t="15:34:00">[15:34:00]</a>. [[History of LED development | LED]] bulbs use a tenth of the energy and can last 10 to 50 times longer than their predecessors <a class="yt-timestamp" data-t="15:34:00">[15:34:00]</a>, <a class="yt-timestamp" data-t="15:38:00">[15:38:00]</a>. This technological advancement means a homeowner is more likely to sell their house before needing to replace an LED bulb, effectively reaching the point of an "everlasting light bulb" through [[Impact of LED technology on modern lighting | technological progress]] rather than artificial limitation <a class="yt-timestamp" data-t="15:47:00">[15:47:00]</a>, <a class="yt-timestamp" data-t="15:53:00">[15:53:00]</a>.

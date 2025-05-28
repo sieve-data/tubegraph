@@ -1,0 +1,56 @@
+---
+title: Future potential of analog computers in AI
+videoId: GVsUOuSjvcg
+---
+
+From: [[veritasium]] <br/> 
+
+For centuries, [[history_and_resurgence_of_analog_computers | analog computers]] were considered the most powerful computing devices, used for tasks such as predicting eclipses and guiding anti-aircraft guns <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. However, with the advent of solid-state transistors, [[comparison_of_analog_and_digital_computing | digital computers]] became dominant, making virtually every modern computer digital <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. Today, a convergence of factors is paving the way for a [[history_and_resurgence_of_analog_computers | resurgence of analog technology]], particularly in the field of [[analog_computing_in_machine_learning_and_ai_applications | artificial intelligence]] <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+
+## Why Analog for AI?
+
+[[history_and_resurgence_of_analog_computers | Analog computers]] are powerful, fast, and energy-efficient <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. They can perform computations rapidly with less power compared to their digital counterparts <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>. For instance, adding two currents can be done by simply connecting two wires in an [[analog_computing_in_machine_learning_and_ai_applications | analog computer]], while a [[comparison_of_analog_and_digital_computing | digital computer]] requires around 50 transistors for two eight-bit numbers <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. Similarly, multiplication in an [[analog_computing_in_machine_learning_and_ai_applications | analog computer]] can be achieved by passing a current through a resistor (V=IR), whereas a [[comparison_of_analog_and_digital_computing | digital computer]] needs thousands of transistors <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+
+Despite these advantages, [[analog_computing_in_machine_learning_and_ai_applications | analog computers]] traditionally faced significant drawbacks:
+*   **Lack of General Purpose**: They are not general-purpose computing devices and cannot run complex software like Microsoft Word <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
+*   **Imprecision**: Inputs and outputs are continuous, making it impossible to input exact values or obtain perfectly repeatable results <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>. Manufacturing variations in components typically lead to about a 1% error <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+
+These limitations were major reasons why [[analog_computing_in_machine_learning_and_ai_applications | analog computers]] fell out of favor once [[comparison_of_analog_and_digital_computing | digital computers]] became viable <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. However, the unique demands of [[neural_networks_and_artificial_intelligence | artificial intelligence]] are changing this outlook.
+
+### The "Perfect Storm" for Analog AI
+
+The resurgence of [[analog_computing_in_machine_learning_and_ai_applications | analog computers]] is driven by the growing demands and limitations of [[neural_networks_and_artificial_intelligence | artificial intelligence]], especially deep [[neural_networks_and_artificial intelligence | neural networks]] <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
+
+Modern [[neural_networks_and_artificial_intelligence | neural networks]], exemplified by AlexNet, require massive computational power, primarily involving huge matrix multiplications <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>. This has led to several challenges for [[comparison_of_analog_and_digital_computing | digital computers]]:
+
+*   **Energy Consumption**: Training a [[neural_networks_and_artificial_intelligence | neural network]] can consume electricity equivalent to the yearly usage of three households <a class="yt-timestamp" data-t="00:13:45">[00:13:45]</a>.
+*   **Von Neumann Bottleneck**: In [[comparison_of_analog_and_digital_computing | digital computers]], data is stored in memory and accessed via a bus <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>. For deep [[neural_networks_and_artificial_intelligence | neural networks]], most time and energy are spent fetching weight values rather than performing computations <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>.
+*   **Moore's Law Limitations**: The miniaturization of transistors on chips is approaching atomic scales, posing fundamental physical challenges to further scaling <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>.
+
+This scenario creates a "perfect storm" for [[analog_computing_in_machine_learning_and_ai_applications | analog computers]] <a class="yt-timestamp" data-t="00:14:26">[00:14:26]</a>. [[comparison_of_analog_and_digital_computing | Digital computers]] are reaching their limits, while [[neural_networks_and_artificial_intelligence | neural networks]] are exploding in popularity <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>. A significant portion of [[neural_networks_and_artificial_intelligence | neural network]] operations boils down to matrix multiplication, a task at which [[analog_computing_in_machine_learning_and_ai_applications | analog computers]] excel <a class="yt-timestamp" data-t="00:14:35">[00:14:35]</a>. Crucially, [[neural_networks_and_artificial_intelligence | neural networks]] do not require the extreme precision of [[comparison_of_analog_and_digital_computing | digital computers]]; slight variability in computations can be tolerated <a class="yt-timestamp" data-t="00:14:41">[00:14:41]</a>.
+
+## Analog AI Implementations
+
+Companies like Mythic AI are developing [[analog_computing_in_machine_learning_and_ai_applications | analog chips]] specifically to run [[neural_networks_and_artificial_intelligence | neural networks]] <a class="yt-timestamp" data-t="00:14:58">[00:14:58]</a>. Their approach repurposes digital flash storage cells, traditionally used to store binary ones or zeros, as variable resistors <a class="yt-timestamp" data-t="00:15:54">[00:15:54]</a>.
+
+### Flash Cells as Variable Resistors
+By precisely controlling the number of electrons trapped on a flash cell's floating gate, its resistance can be varied <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>. A higher number of electrons leads to higher resistance <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>. When a small voltage is applied, the resulting current (I) is equal to V/R, or equivalently, voltage times conductance (G, where G=1/R) <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>. This allows a single flash cell to perform multiplication (voltage × conductance) <a class="yt-timestamp" data-t="00:17:02">[00:17:02]</a>.
+
+To run a [[neural_networks_and_artificial_intelligence | neural network]]:
+1.  **Weight Storage**: The network's weights are written to the flash cells as each cell's conductance <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>.
+2.  **Input Application**: Input activation values are applied as voltages to the cells <a class="yt-timestamp" data-t="00:17:16">[00:17:16]</a>.
+3.  **Matrix Multiplication**: The resulting current (voltage × conductance) represents activation times weight. Cells are wired so that currents add together, completing the matrix multiplication for the [[neural_networks_and_artificial_intelligence | neural network]] layer <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>.
+
+Mythic AI's first product can perform 25 trillion math operations per second on a small chip, consuming only about three watts of power <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>. While newer [[comparison_of_analog_and_digital_computing | digital systems]] can achieve higher operation rates (25-100 trillion OPS), they are larger, more expensive, and consume significantly more power (50-100 watts) <a class="yt-timestamp" data-t="00:17:54">[00:17:54]</a>. This makes [[analog_computing_in_machine_learning_and_ai_applications | analog chips]] ideal for deploying trained AI models in various applications where power efficiency and compact size are crucial, such as augmented and virtual reality, depth estimation from single webcams, security cameras, autonomous systems, and manufacturing inspection equipment <a class="yt-timestamp" data-t="00:18:17">[00:18:17]</a>. Another proposed use case is in smart home speakers, where [[analog_computing_in_machine_learning_and_ai_applications | analog circuitry]] could efficiently listen for wake words like Alexa or Siri, then activate the digital circuitry <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>.
+
+## Hybrid Analog-Digital Approaches
+
+While [[analog_computing_in_machine_learning_and_ai_applications | analog computing]] offers significant advantages for AI workloads, the inherent imprecision of analog systems poses challenges for deep [[neural_networks_and_artificial_intelligence | neural networks]] with many layers <a class="yt-timestamp" data-t="00:18:53">[00:18:53]</a>. If an entire network with 50 sequences of matrix multiplies were run purely in the analog domain, the signal could become too distorted <a class="yt-timestamp" data-t="00:18:56">[00:18:56]</a>.
+
+To mitigate this, a hybrid approach is employed: converting the signal from the analog domain to digital, sending it to the next processing block, and then converting it back to analog for the subsequent analog computation <a class="yt-timestamp" data-t="00:19:10">[00:19:10]</a>. This preserves the signal integrity while leveraging the efficiency of analog computation for individual layers.
+
+## Conclusion
+
+The future of computing for [[neural_networks_and_artificial_intelligence | artificial intelligence]] may not lie solely with [[comparison_of_analog_and_digital_computing | digital systems]]. The original concept of [[neural_networks_and_artificial_intelligence | neural networks]], pioneered by Frank Rosenblatt with his perceptron, even initially involved custom [[analog_computing_in_machine_learning_and_ai_applications | analog computers]] <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>.
+
+While it's uncertain if [[analog_computing_in_machine_learning_and_ai_applications | analog computers]] will achieve the same widespread adoption as [[comparison_of_analog_and_digital_computing | digital computers]] did last century, they appear better suited for many of the computational tasks demanded by modern AI <a class="yt-timestamp" data-t="00:19:43">[00:19:43]</a>. The human brain, often considered the ultimate intelligent system, operates with neurons that fire (a digital aspect) but also processes information in a distributed, continuous manner (an analog aspect) <a class="yt-timestamp" data-t="00:20:17">[00:20:17]</a>. This suggests that achieving true [[neural_networks_and_artificial_intelligence | artificial intelligence]] might require harnessing the power of [[analog_computing_in_machine_learning_and_ai_applications | analog computing]] alongside digital <a class="yt-timestamp" data-t="00:20:28">[00:20:28]</a>.

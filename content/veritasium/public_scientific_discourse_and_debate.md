@@ -1,0 +1,45 @@
+---
+title: Public scientific discourse and debate
+videoId: yCsgoLc_fzI
+---
+
+From: [[veritasium]] <br/> 
+
+Public discourse and debate serve as crucial mechanisms in science for reaching the truth and fostering collective learning. A notable example of this occurred when a $10,000 bet was made to settle a scientific dispute regarding a vehicle's ability to travel faster than the wind downwind <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This wager, and all related discourse, was intentionally made public at the suggestion of Professor Alex Kusenko <a class="yt-timestamp" data-t="00:58:00">[00:58:00]</a>.
+
+## The [[debate_on_faster_than_wind_travel | Debate]]
+
+The core of the dispute centered on a car, named Blackbird, which operates without a motor or batteries, powered solely by the wind <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>. The counterintuitive claim was that this vehicle could maintain speeds faster than the wind propelling it <a class="yt-timestamp" data-t="00:18:00">[00:18:00]</a>. A physics professor from UCLA, Alex Kusenko, challenged this claim, stating the explanation was incorrect <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>.
+
+### Witnesses and the Pursuit of Truth
+To ensure transparency and integrity, prominent figures in [[science_communication_and_education | science communication]], including Neil deGrasse Tyson, Bill Nye, and Sean Carroll, graciously agreed to witness the signing of the bet <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>. The motivation behind the public wager was articulated as a commitment to truth: "the whole point of the channel is to get to the truth" <a class="yt-timestamp" data-t="01:27:00">[01:27:00]</a>.
+
+## Professor Kusenko's Arguments
+
+Professor Kusenko presented several points challenging the car's ability to consistently travel faster than the wind:
+
+*   **Gusty Wind and Inertia**: He posited that the observed phenomenon could be due to a gust of wind initially pushing the car to a high speed. When the wind speed subsequently dropped, the car would momentarily travel faster by inertia, but would be decelerating <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>. He argued that whenever the velocity of the vehicle exceeded the wind speed, its acceleration would be negative <a class="yt-timestamp" data-t="02:13:00">[02:13:00]</a>.
+*   **Wind Gradient**: Kusenko suggested that the wind measurement (at about 1 to 1.5 meters high) might not accurately represent the wind speed at the propeller's height (around 3 meters) <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>. Due to interactions with the ground, wind travels slower closer to the ground and faster higher up, potentially causing the car to appear faster than the measured wind, while still being slower than the wind at the propeller <a class="yt-timestamp" data-t="02:33:00">[02:33:00]</a>. He acknowledged this was a small effect but could contribute in combination with the gust effect <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>. He also suggested that record speeds (like 2.8 times wind speed) might occur during highly specific, rare gust conditions <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>.
+*   **Treadmill Test Biases**: Kusenko also cast doubt on treadmill experiments designed to simulate a steady tailwind. He suggested that fluctuations in treadmill speed or unconscious steering by a human operator could introduce a bias towards the desired result <a class="yt-timestamp" data-t="04:19:00">[04:19:00]</a>.
+*   **[[theoretical_analyses_and_misconceptions | Theoretical Analyses and Misconceptions]]**: Kusenko identified a perceived issue in published theoretical analyses, such as one by MIT Aero Professor Mark Drela. He pointed out that the equation for net force included the difference between car and wind speeds in the denominator. This seemed to imply infinite force when traveling exactly at wind speed, which he considered a "real danger" <a class="yt-timestamp" data-t="05:05:00">[05:05:00]</a>. His own analysis found no such divide-by-zero problems, but concluded that the car could not accelerate at or above wind speed, meaning it could not maintain a constant speed faster than the wind <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>.
+
+## Addressing the Objections and Providing Further Evidence
+
+Initial evidence presented in the first video was admittedly not definitive, potentially allowing gusts or gradients to explain observations <a class="yt-timestamp" data-t="09:55:00">[09:55:00]</a>. To counter the professor's points, more thorough evidence and explanations were provided:
+
+*   **Wind Gradient Measurements**: Experiments had previously mounted tell-tales (wind indicators) on fishing poles at various heights, including above the propeller. While the lowest tell-tale flipped back first, all tell-tales eventually flipped backward, demonstrating that every part of the vehicle was indeed moving faster than the wind <a class="yt-timestamp" data-t="08:10:00">[08:10:00]</a>.
+*   **Sustained Acceleration**: Analysis of video footage using back wheel rotation showed that the car continued to accelerate even after the tell-tale flipped backward <a class="yt-timestamp" data-t="08:38:00">[08:38:00]</a>. Furthermore, the tell-tale consistently pointed straight back for over 30 seconds before braking was required, indicating sustained operation beyond momentary gusts <a class="yt-timestamp" data-t="09:00:00">[09:00:00]</a>. When Blackbird set its record speed (27.7 mph in a 10 mph tailwind), it was still accelerating, as confirmed by multiple GPS units and wind speed measurements taken at the propeller's height <a class="yt-timestamp" data-t="09:12:00">[09:12:00]</a>.
+*   **Academic Validation**: In 2013, the U.S. Physics Olympiad Semifinal Exam included questions about Blackbird, with the solution confirming that both downwind and upwind modes of travel faster than the wind are possible, and "with sufficiently low energy loss, any speed is possible" <a class="yt-timestamp" data-t="09:36:00">[09:36:00]</a>.
+*   **Mechanism Explanation**: The car's operation was explained in detail:
+    *   The propeller acts as a fan, pushing air backward, rather than a windmill <a class="yt-timestamp" data-t="10:22:00">[10:22:00]</a>.
+    *   This fan is powered by the wheels, connected via a bike chain <a class="yt-timestamp" data-t="10:35:00">[10:35:00]</a>.
+    *   In the car's frame of reference, power input from the ground on the wheels (force × car velocity) equals power output at the propeller (force × relative speed of prop through air). Because the propeller moves slower relative to the air (due to the tailwind), the thrust force generated at the propeller can be greater than the backward force on the wheels <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>. This functions like a lever or pulley system <a class="yt-timestamp" data-t="12:12:00">[12:12:00]</a>.
+*   **Addressing the "Divide by Zero" Problem**: The apparent "divide by zero" problem in the theoretical equation was clarified. While theoretically, it implies infinite force if one arm of a lever is zero, in practice, a propeller efficiency term that is well-defined in the zero-speed limit eliminates the mathematical singularity <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>.
+*   **Analogy with Simple Cart**: A demonstration with a simple cart using a large wheel rolling on smaller spools showed that when a cart is in contact with two media moving relative to one another (e.g., the board and the ground), it can move faster than their relative velocity <a class="yt-timestamp" data-t="13:40:00">[13:40:00]</a>. This analogy demonstrates the fundamental principle at play.
+*   **Replicated Experiments**: New model downwind carts, designed to be replicated using 3D printers, were successfully built and tested, showing the phenomenon could be consistently achieved <a class="yt-timestamp" data-t="14:34:00">[14:34:00]</a>.
+
+## Resolution and Learning
+
+Professor Kusenko ultimately conceded the bet and transferred $10,000, demonstrating his willingness to change his mind in light of the evidence presented <a class="yt-timestamp" data-t="15:16:00">[15:16:00]</a>. The money was subsequently invested back into [[science_communication_and_education | science communication]] through a video competition <a class="yt-timestamp" data-t="15:34:00">[15:34:00]</a>.
+
+This public [[debate_on_faster_than_wind_travel | debate]] underscored that disagreements in science are not problems, but rather "opportunities for everyone to learn something" <a class="yt-timestamp" data-t="15:52:00">[15:52:00]</a>. The process led to a deeper understanding of Blackbird's aerodynamics and gear ratios <a class="yt-timestamp" data-t="15:58:00">[15:58:00]</a>, and highlighted the importance of providing overwhelmingly convincing evidence and detailed explanations in scientific presentations <a class="yt-timestamp" data-t="16:05:00">[16:05:00]</a>.

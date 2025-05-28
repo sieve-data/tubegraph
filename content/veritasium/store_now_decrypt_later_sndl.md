@@ -1,0 +1,60 @@
+---
+title: Store Now Decrypt Later SNDL
+videoId: -UrdExQW0cs
+---
+
+From: [[veritasium]] <br/> 
+
+Store Now, Decrypt Later (SNDL) is a procedure where nation-states and individual actors intercept and store large amounts of encrypted data, such as passwords, bank details, and social security numbers, even though they cannot currently open these files <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This strategy is based on the belief that within the next 10 to 20 years, they will have access to a [[Quantum computers and encryption | quantum computer]] capable of breaking the encryption in minutes <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+
+SNDL is effective because information stored today, like industrial and pharmaceutical research or top-secret government intelligence, will still be valuable in a decade <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. This threat is widely recognized; the National Security Administration (NSA) states that a sufficiently large [[Quantum computers and encryption | quantum computer]], if built, would be capable of undermining all widely deployed public key algorithms <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>. Despite powerful [[Quantum computers and encryption | quantum computers]] being years away, they are already a threat due to SNDL, prompting the US Congress to pass legislation mandating all agencies to begin transitioning to new methods of cryptography that are resistant to [[Quantum computers and encryption | quantum computers]] <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
+
+## Current Encryption Schemes and Their Vulnerability
+
+Current encryption schemes, such as RSA, have been remarkably successful for over 40 years <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. Before the 1970s, private information exchange required an in-person meeting to share a secret, symmetric key used for both encryption and decryption <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. However, sharing a key over unsecured channels like phone lines or mail risked interception <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>.
+
+In 1977, scientists Rivest, Shamir, and Adelman developed RSA, an asymmetric key system <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. RSA relies on each person having two secret large prime numbers that are multiplied to create an even larger public number <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. To send a private message, the sender uses the recipient's public number to "garble" the message in a way that makes it impossible to ungarble without knowing the two prime factors <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. While the intended recipient can easily decode it with their private keys, others cannot, unless they can factor the large public number <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
+
+Modern cryptography uses prime numbers around 313 digits long <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. Factoring a product of two such large primes, even with the best-known factoring algorithm (the General Number Field Sieve) on a supercomputer, would take approximately 16 million years <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>. However, this is not the case for a [[Quantum computers and encryption | quantum computer]] <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+
+### How Quantum Computers Break RSA (Shor's Algorithm)
+
+[[Quantum computers and encryption | Quantum computers]] utilize **qubits**, which, unlike classical bits (0 or 1 at a time), can exist in an arbitrary combination of states—a "superposition" of 0 and 1 <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>. This allows a [[Quantum computers and encryption | quantum computer]] to perform calculations for multiple numbers simultaneously <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. For example, 20 qubits can represent over a million different states, enabling simultaneous computation of over a million different answers <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. With 300 qubits, a [[Quantum computers and encryption | quantum computer]] could represent more states than there are particles in the observable universe <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+
+The challenge lies in extracting the desired information from this superposition, as measuring it yields only a single random value, losing other information <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>. However, specific problems have been identified where this can be done, and these problems form the foundation of most public key cryptography used today <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
+
+In 1994, Peter Shor and Don Coppersmith devised a method to take a quantum Fourier transform <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>. This allows the extraction of frequency information from a periodic superposition <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. This capability is crucial for factoring large numbers.
+
+**Shor's Algorithm for Factoring (Simplified Example):**
+To factor a number N (product of two primes, e.g., N=77), the process is as follows <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>:
+1.  **Guess G**: Pick a random number `g` that does not share any factors with N (e.g., g=8 for N=77) <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
+2.  **Find Period R**: Find the exponent `r` such that `g^r` is one more than a multiple of N (i.e., `g^r mod N = 1`) <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. The remainders of `g^x mod N` will cycle periodically, and `r` is the period <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>. This is the step significantly sped up by a [[Quantum computers and encryption | quantum computer]] <a class="yt-timestamp" data-t="00:11:49">[00:11:49]</a>.
+    *   A [[Quantum computers and encryption | quantum computer]] can prepare a superposition of all possible exponents <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>.
+    *   It then computes `g^x mod N` for all these exponents simultaneously, storing the remainders in a second set of qubits, entangling the two sets <a class="yt-timestamp" data-t="00:14:31">[00:14:31]</a>.
+    *   By measuring only the remainder part, a random remainder is obtained. This measurement collapses the first set of qubits into a superposition of only the exponents that produce that specific remainder <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>.
+    *   Since these exponents are all separated by the period `r`, the resulting superposition is periodic <a class="yt-timestamp" data-t="00:15:59">[00:15:59]</a>.
+    *   Applying the quantum Fourier transform to this periodic superposition yields states containing `1/r` <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a>. A final measurement and inversion then reveal `r` <a class="yt-timestamp" data-t="00:16:28">[00:16:28]</a>.
+3.  **Calculate New Numbers**: If `r` is even, use it to calculate two new numbers: `(g^(r/2) + 1)` and `(g^(r/2) - 1)` <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>. These numbers will likely share factors with N <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>.
+4.  **Find Shared Factors**: Use Euclid's algorithm to find the greatest common divisor between these new numbers and N, which will yield the prime factors `p` and `q` <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
+
+While Shor's algorithm needs several thousand "perfect" qubits, imperfect qubits require additional redundant information <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>. Estimates for the number of physical qubits needed to break RSA encryption have significantly dropped: from a billion in 2012 to 230 million by 2017, and further to just 20 million in 2019 due to technological breakthroughs <a class="yt-timestamp" data-t="00:17:02">[00:17:02]</a>. Progress in [[Quantum computers and encryption | quantum computing]] capacity appears to be exponential <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>.
+
+## [[Postquantum cryptography and latticebased encryption | Post-Quantum Cryptography]]
+
+To counter the looming threat from [[Quantum computers and encryption | quantum computers]], scientists have been developing new encryption methods resistant to both classical and [[Quantum computers and encryption | quantum computers]] <a class="yt-timestamp" data-t="00:17:42">[00:17:42]</a>. In 2016, the National Institute of Standards and Technology (NIST) launched a competition to find such algorithms <a class="yt-timestamp" data-t="00:17:51">[00:17:51]</a>. Out of 82 proposals, four algorithms were selected in July 2022 to be part of their [[Postquantum cryptography and latticebased encryption | post-quantum cryptographic standard]] <a class="yt-timestamp" data-t="00:18:00">[00:18:00]</a>.
+
+### Lattice-Based Encryption
+
+Three of the selected algorithms are based on the mathematics of lattices <a class="yt-timestamp" data-t="00:18:17">[00:18:17]</a>. A lattice is formed by adding together different integer combinations of basis vectors (e.g., r1 and r2 in 2D) <a class="yt-timestamp" data-t="00:18:24">[00:18:24]</a>.
+
+The security of lattice-based encryption relies on the **Closest Vector Problem (CVP)**: given a set of vectors that define a lattice, and a point `C`, find the lattice point closest to `C` <a class="yt-timestamp" data-t="00:18:42">[00:18:42]</a>. This problem is easy if you have a "good" set of basis vectors (e.g., orthogonal or nearly orthogonal), but becomes extremely difficult with a "bad" or highly skewed set of vectors <a class="yt-timestamp" data-t="00:19:01">[00:19:01]</a>.
+
+The difficulty of CVP increases dramatically with the number of dimensions. While manageable in a few dimensions (e.g., 3 or 100), proposed future encryption schemes will use around a thousand dimensions <a class="yt-timestamp" data-t="00:19:55">[00:19:55]</a>. In such high dimensions, finding the closest point is computationally intractable for even the most powerful conventional and [[Quantum computers and encryption | quantum computers]], unless one possesses the "good" set of basis vectors <a class="yt-timestamp" data-t="00:21:01">[00:21:01]</a>.
+
+**Encryption using Lattices:**
+1.  Each person generates a "good" (secret) set of vectors that describe a lattice <a class="yt-timestamp" data-t="00:21:16">[00:21:16]</a>.
+2.  They derive and publicly share a "bad" (hard-to-work-with) set of vectors that define the exact same lattice <a class="yt-timestamp" data-t="00:21:22">[00:21:22]</a>.
+3.  To send a message (e.g., a number), the sender picks a lattice point corresponding to the message and adds some random "noise" to it <a class="yt-timestamp" data-t="00:21:27">[00:21:27]</a>. The transmitted message is a point close to, but not exactly on, a lattice point <a class="yt-timestamp" data-t="00:21:42">[00:21:42]</a>.
+4.  To decode, the recipient uses their secret "good" set of vectors to easily find the closest lattice point to the received noisy message, thereby recovering the original message <a class="yt-timestamp" data-t="00:21:47">[00:21:47]</a>.
+
+This approach ensures that decoding is easy for the recipient with the secret "good" vectors, but nearly impossible for anyone else, as the CVP is extremely difficult to solve for both classical and [[Quantum computers and encryption | quantum computers]] given only the "bad" public vectors <a class="yt-timestamp" data-t="00:22:02">[00:22:02]</a>. Researchers, mathematicians, and cryptographers are working to ensure data remains secret, protecting against mass surveillance and securing critical infrastructure <a class="yt-timestamp" data-t="00:22:15">[00:22:15]</a>.
