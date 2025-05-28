@@ -544,9 +544,31 @@ $shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
   height: 16px;
 }
 
-// Hide graph section on mobile
+
+// Add mobile responsive styles
 @media all and ($mobile) {
-  .graph-section {
-    display: none;
+  .content-container {
+    width: 95%;
+    padding: 0 1rem;
+  }
+  
+  .header-text {
+    font-size: 32px;
+    max-width: 90%;
+  }
+  
+  .add-channel {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+  
+  .channel-select {
+    width: 100% !important;
+  }
+  
+  .top-right-container {
+    flex-direction: column;
+    gap: 0.5rem;
   }
 }

@@ -2,6 +2,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   console.log("navved")
   const currentSlug = e.detail.url
 
+  // Add mobile check at the top
+  if (window.innerWidth <= 800) {
+    console.log("Mobile device detected, skipping graph setup")
+    return
+  }
+
   // Only run on the landing page
   if (currentSlug !== "/" && currentSlug !== "index") {
     console.log("Not on landing page, slug:", currentSlug)
