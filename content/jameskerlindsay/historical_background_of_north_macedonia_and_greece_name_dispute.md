@@ -1,0 +1,69 @@
+---
+title: Historical background of North Macedonia and Greece name dispute
+videoId: JmhsiUrPmM0
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+A diplomatic row erupted in May 2024 when North Macedonia's new president insisted on using the country's old name during her inauguration, raising concerns about the future of its [[north_macedonia_and_greece_peace_agreement | landmark peace agreement with Greece]] <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. Greek and European officials emphasized that adherence to the agreement with Athens is central to the country's future [[impact_of_north_macedonias_political_changes_on_eu_integration | EU integration process]] <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. This incident brings the long-standing dispute back into focus <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+
+## North Macedonia: Geography and Demographics
+
+The Republic of North Macedonia is a landlocked country in Southeast Europe, covering approximately 26,000 square kilometers (10,000 square miles) <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. It shares borders with Albania to the west, Kosovo to the northwest, Serbia to the north, Bulgaria to the east, and Greece to the south <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>. Its population is about 2.1 million, with a majority of ethnic Macedonians who speak a South Slavic language, alongside a significant Albanian community <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
+
+## Historical Context
+
+### Early History
+Macedonia boasts a long and rich history <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. It emerged as a kingdom on the periphery of ancient Greece and, under Alexander the Great, expanded its imperial control to India and Egypt <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. This Hellenistic period lasted until it became part of the Roman Empire around 150 BC <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. Later, it fell under Bulgarian and Serb rule before being conquered by the Ottoman Empire in the 14th century, remaining under Ottoman control until the 20th century <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+
+### Balkan Wars and Partition
+In 1912, Greece, Serbia, and Bulgaria allied in the First Balkan War to seize Macedonia from Ottoman Turkish rule <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. However, their alliance was brief, leading to the Second Balkan War in 1913 due to disagreements over territorial division <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>. Macedonia was formally partitioned among Serbia, Bulgaria, and Greece <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+
+### Yugoslav Period and Independence
+After World War I, Serbian-held Macedonia became part of the Kingdom of Yugoslavia <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. Following World War II, when Yugoslavia was reconstituted as a socialist federation, Macedonia became one of its six constituent republics <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. Over the subsequent decades, the [[impact_of_yugoslavia_on_macedonian_identity | Yugoslav authorities took steps to foster a distinct Macedonian identity]] <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. With the collapse of Yugoslavia in the early 1990s, Macedonia declared independence on December 8, 1991 <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+## The Name Dispute Emerges
+
+From the moment of its independence, Greece objected to the country's name, "Republic of Macedonia" <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. Athens argued that the new state was not only laying claim to Greece's own region of Macedonia but also usurping the region's historical Greek identity by adopting symbols linked to the ancient Hellenistic region <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
+
+With support from its European Union partners, Greece ensured that when the new country joined the UN in April 1993, it did so under the provisional name—the Former Yugoslav Republic of Macedonia (FYROM) <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+
+### Attempts at Resolution
+The UN initiated a process to resolve the name issue, leading to an interim agreement in 1995 <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>. Under this agreement, the Macedonian government agreed to change many contentious state symbols, and in return, the Greek government promised not to obstruct its efforts to join various international organizations <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
+
+Despite initial hopes, efforts to resolve the "name issue" remained unsuccessful for the next two decades <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>. Beyond the country's title, talks were complicated by disagreements over how to describe the country's language and its inhabitants, with Greece strongly objecting to the term "Macedonian" <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. The question of whether the state could use one name internally and another internationally also arose <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+
+As a result, relations deteriorated <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>. Athens blocked the country's efforts to join NATO and the European Union, leading to a case before the International Court of Justice <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. In response, the Macedonian government further asserted claims to the country's ancient Greek heritage, for example, by naming the main national airport and a highway after Alexander the Great <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
+
+## The Prespa Agreement (2018)
+
+A breakthrough finally occurred in 2017 with the election of a [[recent_political_developments_in_north_macedonia | new government in Skopje]], committed to NATO and EU membership, coinciding with a Greek administration also keen to resolve the issue <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. Following intense discussions, the sides reached a [[north_macedonia_and_greece_peace_agreement | deal]] the following year <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
+
+After exploring options like New Macedonia and Upper Macedonia, they agreed that the country would be renamed the "Republic of North Macedonia," and this name would be used in all circumstances, both domestically and internationally <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. The country's language would remain "Macedonian" <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. Inhabitants would officially be called "citizens of the Republic of North Macedonia" but could continue to call themselves "Macedonians" <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>. The agreement explicitly recognized the distinct Greek and Slavic heritage of the country <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
+
+The two countries signed the [[north_macedonia_and_greece_peace_agreement | agreement]] at an international ceremony on the shores of Lake Prespa on June 19, 2018 <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. The wider international community hailed the [[north_macedonia_and_greece_peace_agreement | Prespa Agreement]] as a vital step forward for both countries and a positive development for the wider Balkan region <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>.
+
+### Ratification and Opposition
+Despite international acclaim, the [[north_macedonia_and_greece_peace_agreement | Prespa Agreement]] faced considerable opposition in both countries <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>.
+
+*   **North Macedonia**: It sparked widespread anger and a highly controversial ratification process <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>. While Albanian political parties accepted the deal, the right-wing opposition party, VMRO-DPMNE, rejected it as a "fundamental betrayal of the country's identity brought about by outside pressure" <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>. A referendum in September 2018 failed to meet the required turnout threshold, though the deal secured a majority of votes cast <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>. Nevertheless, it was put to Parliament on January 11, 2019, passing with 81 votes in the 120-member assembly amidst accusations of bribery, blackmail, and external pressure, securing the two-thirds support needed for constitutional changes <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>.
+*   **Greece**: Many rejected the [[north_macedonia_and_greece_peace_agreement | deal]] as an unacceptable compromise on Greek heritage and identity, yet it passed in the Greek Parliament with 153 votes in the 300-member assembly <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>.
+
+On February 14, 2019, the United Nations officially announced the name change from the Former Yugoslav Republic of Macedonia to the Republic of North Macedonia <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>.
+
+## Aftermath and Recent Developments
+
+Although the [[north_macedonia_and_greece_peace_agreement | deal]] was widely hailed, it yielded mixed results <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. It enabled North Macedonia to join NATO, becoming its 30th member on March 27, 2020 <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. However, hopes for unlocking the country's [[impact_of_north_macedonias_political_changes_on_eu_integration | EU accession prospects]] were premature <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>. While Greece dropped its veto, [[bulgaria_and_north_macedonia_eu_accession_dispute | Bulgaria now stepped in with various demands of its own]] <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>.
+
+The [[north_macedonia_and_greece_peace_agreement | agreement]] remained controversial in both countries <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. While the main Greek opposition party, New Democracy, adopted a pragmatic stance when it returned to power, not challenging the arrangement, the main opposition in North Macedonia continued to vehemently oppose it <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
+
+### The Latest Crisis (May 2024)
+This opposition sparked the [[recent_political_developments_in_north_macedonia | latest crisis]] <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>. On May 8, 2024, North Macedonia held parliamentary and presidential elections <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. The VMRO-DPMNE achieved a significant victory in both contests, securing 58 seats in the assembly and their candidate, Gordana Siljanovska-Davkova, winning the largely ceremonial presidency with two-thirds of the vote <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
+
+During her campaign, Siljanovska-Davkova argued the [[north_macedonia_and_greece_peace_agreement | Prespa Agreement]] was contrary to national law <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>. At her inauguration on May 12, she refused to repeat the official oath using the term "Republic of North Macedonia," instead opting for "Republic of Macedonia" <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>. This immediately drew a strong response, with the Greek Ambassador leaving the ceremony in protest and the Greek foreign ministry condemning the move as a violation of the [[north_macedonia_and_greece_peace_agreement | Prespa Agreement]] <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>. EU officials quickly emphasized that the country's progress toward full [[impact_of_north_macedonias_political_changes_on_eu_integration | European integration]] depended on adherence to the agreement <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>.
+
+## Outlook
+
+While it appears unlikely that the [[recent_political_developments_in_north_macedonia | new government in Skopje]] will formally abandon the [[north_macedonia_and_greece_peace_agreement | Prespa Agreement]]—as it would halt any further [[impact_of_north_macedonias_political_changes_on_eu_integration | EU accession talks]] and face widespread opposition from EU members—it could still undermine it <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>. The VMRO-DPMNE and the [[recent_political_developments_in_north_macedonia | new president]] have insisted that [[impact_of_north_macedonias_political_changes_on_eu_integration | EU accession]] remains a core goal, creating a conflict with their opposition to the agreement <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>. However, some in North Macedonia might argue that the dim prospects of [[impact_of_north_macedonias_political_changes_on_eu_integration | EU accession]] make abandoning the agreement irrelevant <a class="yt-timestamp" data-t="00:11:56">[00:11:56]</a>.
+
+Internal politics might ultimately preserve the [[north_macedonia_and_greece_peace_agreement | deal]], as constitutional changes to revoke it would require significant support <a class="yt-timestamp" data-t="00:12:08">[00:12:08]</a>. Nevertheless, the government could still refer to "the Republic of Macedonia" in statements and documents, creating new problems and potentially obliging Greece and the EU to push back <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. The long-standing name dispute, despite hopes of resolution, appears to be back on the agenda <a class="yt-timestamp" data-t="00:12:49">[00:12:49]</a>.

@@ -1,0 +1,69 @@
+---
+title: Historical and political context of France in West Africa
+videoId: 6DW2QEAWx5k
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+For the past decade, [[frances_military_involvement_in_the_sahel | France]] has been engaged in a challenging mission against Islamist insurgents in Africa's Sahel region <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This engagement has led to increasing tensions with countries in the area, presenting [[frances_military_involvement_in_the_sahel | France]] with a difficult choice as it finds itself unable to win the conflict by military means, yet seemingly unable to fully withdraw <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+
+## The Sahel Region: Geography and History
+
+The Sahel is a semi-arid region in northern Africa, stretching approximately 5,400 kilometres (3,300 miles) from the Atlantic Ocean to the Red Sea, and about 1,000 kilometres (600 miles) wide <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. It covers about 3 million square kilometres (1.2 million square miles) <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. The primary focus of [[frances_military_involvement_in_the_sahel | France]]'s efforts has been on the central and western parts of this arc, specifically Mauritania, Mali, Burkina Faso, Niger, and Chad, which together have a population of around 90 million people <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
+
+The region's long history has been significantly shaped by Islam, which arrived in the 8th century and became the main religion in the Mali Empire by 1300 <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>. By the 17th century, Islam was firmly embedded, and today, most of the population in these five countries are Sunni Muslim <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
+
+### [[french_colonial_legacy_and_its_impact | Colonial History and Post-Independence Ties]]
+
+During the late 19th-century European colonial 'scramble for Africa', the Sahel region came under French rule <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. This colonial period lasted until 1960, when Mauritania, Mali, Burkina Faso, Niger, and Chad gained independence alongside nine other French colonies in Sub-Saharan Africa <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
+
+Following independence, [[frances_military_involvement_in_the_sahel | France]] maintained close economic, political, and military ties with its former African colonies <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. To date, [[frances_military_involvement_in_the_sahel | France]] has conducted over 60 military operations across the continent <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. In the Sahel, these operations were mainly concentrated in Chad, where [[frances_military_involvement_in_the_sahel | France]] established a permanent military presence in 1986 <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+
+## [[frances_military_involvement_in_the_sahel | French Military Involvement in the Sahel]]
+
+The current phase of [[frances_military_involvement_in_the_sahel | France]]'s engagement began with the rise of Islamist extremism in the late 1990s and early 2000s <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. While international attention was largely on groups in the Middle East, offshoots like Al Qaeda in the Islamic Maghreb (AQIM) and the Movement of Unity and Jihad in Western Africa (MUJAO) emerged in North and West Africa <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+
+### Early Operations and Escalation
+
+In response to this growing threat, [[frances_military_involvement_in_the_sahel | France]] launched its first counter-terrorism mission, Operation Sabre, in Burkina Faso in 2010 <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. The situation worsened dramatically in 2011 when [[historical_context_of_libyas_political_and_economic_landscape | Libya]] fell into civil war, leading to a flow of arms into northern Mali <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. This influx strengthened insurgencies led by Tuareg separatists and Islamist groups <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+
+A military coup in Mali in March 2012, driven by a lack of confidence in the government's ability to control the situation, failed to stem the violence <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. Islamist forces, after defeating the Tuaregs, advanced towards the capital, Bamako <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. In December 2012, the UN Security Council passed resolution 2085, which condemned the coup but authorized the creation of an African-led International Support Mission (AFISMA) under the Economic Community of West African States (ECOWAS) to assist Mali's security forces <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.
+
+### Operation Serval and Barkhane
+
+On January 11, 2013, at Mali's request, [[frances_military_involvement_in_the_sahel | France]] launched Operation Serval <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. This operation, in cooperation with AFISMA and an EU training mission, held the ground until a 13,000-strong UN peacekeeping mission (MINUSMA) was deployed in July 2013 <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. French forces, working with the UN, pushed back Islamist groups, and elections were held in Mali <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. Operation Serval concluded on July 31, 2014 <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+
+However, the Islamist threat persisted <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. The very next day, [[frances_military_involvement_in_the_sahel | France]] launched a new military mission, Operation Barkhane, consisting of 3,000 French troops and integrating French missions in Chad and Burkina Faso <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. Its goal was to work with the security forces of the five Sahel states (G5) to counter Islamist insurgencies <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. Despite a 2015 peace agreement in Mali, activity intensified between 2016 and 2017 with the emergence of the Islamic State in the Greater Sahara, extending to Niger and Burkina Faso <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
+
+By 2020, the situation was dire:
+- Over 10,000 deaths, including more than 50 French soldiers and hundreds of G5 troops <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+- An estimated 2 million displaced people <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
+- 4 million people in need of humanitarian assistance <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
+- The mission cost [[frances_military_involvement_in_the_sahel | France]] about a billion euros annually, roughly three-quarters of its overseas military spending <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>.
+
+To expand its mission, [[frances_military_involvement_in_the_sahel | France]] sought European partners, leading to the creation of Task Force Takuba under Operation Barkhane <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>. This special forces counter-terrorism initiative included contributions from Estonia, Sweden, Romania, Italy, Hungary, and the Czech Republic, among others, serving alongside Malian and other G5 forces <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+
+## Escalating Challenges and Political Strain
+
+Despite these efforts, the situation continued to worsen <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. The French presence in the Sahel began to face increasing political strain <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>:
+- **Military Coups**: A military coup overthrew the government in Mali in August 2020, followed by a second 'coup within a coup' in May 2021 <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>. These events severely strained relations between Paris and Bamako <a class="yt-timestamp" data-t="00:07:21">[00:07:21]</a>.
+- **Growing Local Opposition**: Many ordinary Malians accused [[frances_military_involvement_in_the_sahel | France]] of failing to secure the situation, leading to increasing popular opposition <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
+- **Strategic Differences**: While there were calls from within the region for dialogue with insurgents, [[frances_military_involvement_in_the_sahel | France]] steadfastly refused to negotiate with terrorists <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>.
+
+Faced with increasing domestic opposition to the expensive mission, French President Emmanuel Macron announced on June 10, 2021, that Operation Barkhane would end in early 2022 <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>. [[frances_military_involvement_in_the_sahel | France]] planned to reduce its presence to 2,500-3,000 troops while remaining committed to counter-terrorism efforts <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
+
+This decision prompted an angry response from Mali's military regime, which accused [[frances_military_involvement_in_the_sahel | France]] of abandoning the country <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>. Tensions peaked when Mali signed a security agreement with the Wagner Group, a shadowy military organization believed to be linked to the Russian defense ministry <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. As French forces withdrew from northern Mali in late 2021, Russian mercenaries moved in <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>.
+
+By early 2022, the situation deteriorated further <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. Another military coup overthrew the government in Burkina Faso, and Mali ordered Danish troops to leave, casting doubt on the future of international counter-insurgency efforts <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>. The French foreign minister accused Mali's rulers of being "illegitimate" and "out of control," leading to the expulsion of the French ambassador <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>.
+
+## [[geopolitical_implications_for_france_and_the_sahel_region | Geopolitical Implications and Future Dilemma]]
+
+As of early 2022, [[frances_military_involvement_in_the_sahel | France]]'s counterinsurgency efforts in the Sahel appear precarious <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. A catastrophic breakdown in relations between Paris and local leaders raises questions about the mission's viability <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>. French Defence Minister Florence Parly stated, "we do the work we do at the demand of a sovereign state to combat terrorism that victimises Mali's population. But we can't remain in Mali whatever the price" <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>.
+
+Despite this, [[frances_military_involvement_in_the_sahel | France]] feels it cannot simply leave <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>:
+- **Impact on UN Mission**: A withdrawal could undermine the UN peacekeeping mission (MINUSMA), which relies on counter-insurgency efforts to create conditions for protecting civilians and extending government control <a class="yt-timestamp" data-t="00:09:58">[00:10:03]</a>.
+- **Regional Destabilization**: Allowing insurgents to gain ground could lead to further instability <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. Areas under extremist control could become training facilities for radicals who might eventually target Europe <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. The challenge, currently centered on Mali, Niger, Burkina Faso, and Chad, could destabilize countries like Togo, Senegal, and the Ivory Coast, and combined with activity in [[colonial_history_and_its_impact_on_nigerias_formation | northern Nigeria]], could render much of West Africa highly unstable <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>.
+- **French Prestige**: Withdrawing would be a significant blow to [[frances_military_involvement_in_the_sahel | France]]'s self-perception as an international leader in West Africa <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>. However, remaining under current circumstances risks further resentment and accusations of neo-colonialism <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+- **Geopolitical Concerns**: Moscow's growing influence in the region, exemplified by the Wagner Group's presence, is a significant concern for French and wider Western policymakers <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>.
+
+As [[frances_military_involvement_in_the_sahel | France]] faces these challenges amidst a domestic presidential election in April 2022, its position in the Sahel appears increasingly untenable <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>. The military takeovers in Mali and Burkina Faso highlight local frustration with the failure to deal with insurgent groups and have undermined efforts to foster democracy <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>. Like the United States in Afghanistan, [[frances_military_involvement_in_the_sahel | France]] may have to accept it is caught in a bind <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>. The choice now is between accepting an unwinnable war and promoting dialogue with insurgents, or committing to a never-ending conflict that will increasingly pit it against local leaders and populations <a class="yt-timestamp" data-t="00:12:33">[00:12:33]</a>.

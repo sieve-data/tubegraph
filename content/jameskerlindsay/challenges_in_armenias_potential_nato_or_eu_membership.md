@@ -1,0 +1,43 @@
+---
+title: Challenges in Armenias Potential NATO or EU Membership
+videoId: OQ6R5CzCMkA
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Armenia faces significant hurdles in its potential pursuit of [[european_union_and_nato_membership_prospects_for_moldova_and_romania | NATO]] or [[european_union_and_nato_membership_prospects_for_moldova_and_romania | European Union]] membership, despite recent [[armenias_geopolitical_shift_and_western_engagement | Armenian's geopolitical shift and Western engagement]] away from Russia <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>. The war in Ukraine has prompted many European nations, including Sweden, Finland, Ukraine, [[european_union_and_nato_membership_prospects_for_moldova_and_romania | Moldova]], and [[european_union_and_nato_membership_prospects_for_moldova_and_romania | Georgia]], to re-evaluate their foreign policy <a class="yt-timestamp" data-t="00:47:47">[00:47:47]</a>. While Armenia is reconsidering its strategic direction, a full break with Moscow and alignment with the West is not straightforward <a class="yt-timestamp" data-t="01:30:30">[01:30:30]</a>.
+
+## Historical Context and Shifting Alliances
+
+Since the Cold War, Armenia has maintained close ties with Russia <a class="yt-timestamp" data-t="01:20:20">[01:20:20]</a>. These ties, including economic relations and hosting a Russian military base, were significantly shaped by the conflict with [[future_implications_for_armenians_in_azerbaijan | Azerbaijan]] over [[future_of_armenia_and_nagornokarabakh | Nagorno-Karabakh]] <a class="yt-timestamp" data-t="05:37:37">[05:37:37]</a>. Armenia joined the Collective Security Treaty Organization (CSTO), a Russian-led military alliance, in 2002 <a class="yt-timestamp" data-t="06:27:27">[06:27:27]</a>.
+
+While Armenia signaled a desire for closer ties to the [[european_union_and_nato_membership_prospects_for_moldova_and_romania | European Union]] by joining its Eastern Partnership in 2009, this ended abruptly in 2013 when it chose to join the Russian-led Eurasian Economic Union instead <a class="yt-timestamp" data-t="07:08:08">[07:08:08]</a>. Although a new Comprehensive and Enhanced Partnership Agreement with the [[european_union_and_nato_membership_prospects_for_moldova_and_romania | EU]] was signed in 2017, Armenia seemed firmly committed to Russia <a class="yt-timestamp" data-t="07:33:33">[07:33:33]</a>.
+
+However, relations with Moscow deteriorated, especially after [[future_implications_for_armenians_in_azerbaijan | Azerbaijan]]'s military campaign in [[future_of_armenia_and_nagornokarabakh | Nagorno-Karabakh]] in 2020 <a class="yt-timestamp" data-t="08:24:24">[08:24:24]</a>. Many Armenians blamed Russia for failing to prevent or stop the war <a class="yt-timestamp" data-t="09:09:09">[09:09:09]</a>. The complete takeover of [[future_of_armenia_and_nagornokarabakh | Nagorno-Karabakh]] by [[future_implications_for_armenians_in_azerbaijan | Azerbaijan]] in September 2023, with no Russian intervention, led to a collapse in relations, highlighted by Armenia ratifying participation in the International Criminal Court and boycotting the CSTO summit <a class="yt-timestamp" data-t="09:53:53">[09:53:53]</a>.
+
+## Challenges to NATO Membership
+
+While Armenia may be prepared to leave the CSTO, joining [[european_union_and_nato_membership_prospects_for_moldova_and_romania | NATO]] is considered "extremely difficult, if not impossible" <a class="yt-timestamp" data-t="11:06:06">[11:06:06]</a>.
+
+*   **Turkish Opposition**: Despite many [[european_union_and_nato_membership_prospects_for_moldova_and_romania | NATO]] countries potentially welcoming Armenia, deep-rooted tensions between Armenia and [[challenges_facing_turkeys_leadership_ambitions | Turkey]] mean Ankara would almost certainly block any application <a class="yt-timestamp" data-t="11:16:16">[11:16:16]</a>. Hungary might also pose an objection <a class="yt-timestamp" data-t="11:24:24">[11:24:24]</a>.
+*   **Unacceptable Demands**: Even if [[challenges_facing_turkeys_leadership_ambitions | Turkey]] did not veto, it would likely demand a high price, such as Armenia dropping genocide accusations related to the 1915 events <a class="yt-timestamp" data-t="11:32:32">[11:32:32]</a>.
+*   **Corridor to Nakhichevan**: [[challenges_facing_turkeys_leadership_ambitions | Turkey]] could condition membership on granting [[future_implications_for_armenians_in_azerbaijan | Azerbaijan]] a land corridor to Nakhichevan, which would create an unbroken transport link between [[challenges_facing_turkeys_leadership_ambitions | Turkey]] and Central Asia <a class="yt-timestamp" data-t="11:42:42">[11:42:42]</a>.
+
+## Challenges to EU Membership
+
+[[european_union_and_nato_membership_prospects_for_moldova_and_romania | EU]] membership is considered a more logical and feasible option, especially given that neighboring [[european_union_and_nato_membership_prospects_for_moldova_and_romania | Georgia]] has recently been recommended for candidacy, indicating the Union's openness to Caucasus expansion <a class="yt-timestamp" data-t="11:59:59">[11:59:59]</a>. However, it does not seem to be on Armenia's agenda <a class="yt-timestamp" data-t="12:12:12">[12:12:12]</a>.
+
+*   **Lack of Realism**: Most Armenians do not see [[european_union_and_nato_membership_prospects_for_moldova_and_romania | EU]] membership as a realistic possibility <a class="yt-timestamp" data-t="12:20:20">[12:20:20]</a>. Despite a pro-Armenian lobby in Europe and observers seeing it as a natural candidate, many Armenians genuinely believe the [[european_union_and_nato_membership_prospects_for_moldova_and_romania | EU]] would not want them <a class="yt-timestamp" data-t="12:26:26">[12:26:26]</a>.
+*   **Societal Concerns**: Armenia remains a largely conservative country, and concerns exist about the broader societal implications of joining the [[european_union_and_nato_membership_prospects_for_moldova_and_romania | EU]]. Liberalization, such as greater LGBT rights, is seen as a requirement <a class="yt-timestamp" data-t="12:45:45">[12:45:45]</a>.
+*   **Russian Disinformation**: Russia appears to be running an active disinformation campaign through its broadcasts in Armenia, encouraging these negative attitudes about [[european_union_and_nato_membership_prospects_for_moldova_and_romania | EU]] membership <a class="yt-timestamp" data-t="13:03:03">[13:03:03]</a>.
+*   **Public Opinion**: While around half the population favors [[european_union_and_nato_membership_prospects_for_moldova_and_romania | EU]] membership, this support is significantly lower than in almost any other potential member country <a class="yt-timestamp" data-t="13:15:15">[13:15:15]</a>.
+
+## Security Concerns and Russia's Enduring Role
+
+A significant concern for Armenians is the belief that the West cannot provide the security they need <a class="yt-timestamp" data-t="13:37:37">[13:37:37]</a>.
+
+*   **Threat from Neighbors**: The primary threat is perceived to be from [[challenges_facing_turkeys_leadership_ambitions | Turkey]] and [[future_implications_for_armenians_in_azerbaijan | Azerbaijan]] <a class="yt-timestamp" data-t="13:41:41">[13:41:41]</a>. There are fears that [[future_implications_for_armenians_in_azerbaijan | Azerbaijan]] may attempt to seize southern Armenia to create a land bridge to Nakhichevan <a class="yt-timestamp" data-t="13:45:45">[13:45:45]</a>.
+*   **West's Inability to Act**: Armenians believe the West would be unable or unwilling to prevent such an attack <a class="yt-timestamp" data-t="13:56:56">[13:56:56]</a>.
+*   **Reliance on Russia (Despite Failures)**: Despite Moscow's recent failures to prevent [[future_implications_for_armenians_in_azerbaijan | Azerbaijan]] from taking [[future_of_armenia_and_nagornokarabakh | Nagorno-Karabakh]], many Armenians still believe Russia is the only actor that could prevent Armenia's division, especially given that such a move would remove an essential link to Russia's key ally, Iran <a class="yt-timestamp" data-t="14:05:05">[14:05:05]</a>.
+
+Ultimately, Armenians, reflecting their long history of being caught between rival powers, feel they must accept the current situation <a class="yt-timestamp" data-t="14:27:27">[14:27:27]</a>. While they no longer trust Russia, they feel that abandoning it entirely and pursuing closer Western ties is not a viable option, at least for the present <a class="yt-timestamp" data-t="14:39:39">[14:39:39]</a>.

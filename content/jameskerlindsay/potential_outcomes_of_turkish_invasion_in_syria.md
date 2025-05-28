@@ -1,0 +1,57 @@
+---
+title: Potential outcomes of Turkish invasion in Syria
+videoId: nMS_5qGTUag
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Reports indicate a possible imminent full-scale military offensive by Turkey against Kurdish-held territories in Syria, marked by increased troop movements along the border and heightened activity from Turkey's proxy forces <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This potential operation raises questions about the willingness of international actors to intervene on behalf of the Kurds <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+
+## Historical Context of the Conflict
+
+The relationship between [[turkey_and_syria_kurdistan_conflict | Turkey and the Kurds]] has a long and intricate history <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. Following the collapse of the Ottoman Empire after the First World War, plans were drafted to divide the Anatolian Peninsula, which included the possibility of creating a Kurdish homeland <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>. However, these plans were thwarted by Turkish nationalist forces under Mustafa Kemal Ataturk, leading to the establishment of the Republic of Turkey in 1923 <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. As a result, Kurds were left divided among Turkey, Iran, Iraq, Syria, and Armenia, with the majority residing in Turkey <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>.
+
+For decades, Kurdish aspirations for independence remained a distant prospect, with uprisings heavily resisted <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. A significant insurgency emerged in Turkey in 1984, when the Kurdish Workers' Party (PKK) launched a campaign for Kurdish independence, expanding its violent activities into Turkish towns and cities <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. The issue gained a regional dimension in the early 1990s with the establishment of the Kurdistan Regional Government (KRG) in northern Iraq after the First Gulf War <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. This raised Turkish fears of an eventual Kurdish state and led to the PKK using mountainous areas in Iraq to launch attacks on Turkey <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. Despite the arrest of PKK leader Abdullah Ocalan in 1999 and sporadic peace efforts, Turkey remains highly concerned about Kurdish efforts to establish a state within its borders or in neighboring countries, fearing it could fuel further separatism <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+
+## Kurdish Self-Rule in Syria and Turkish Concerns
+
+The Arab Spring protests in 2011 escalated into a brutal [[impact_of_syrias_civil_war_on_international_relations | civil war in Syria]] <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. As Bashar al-Assad's forces were engaged in the south, Kurdish groups in northern Syria, primarily led by the PYD and its armed wing, the YPG, seized the opportunity to establish self-rule, eventually declaring the Autonomous Administration of North and East Syria <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+
+Turkey viewed this development as a significant threat due to the PYD's ties to the PKK <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>. However, Ankara's ability to limit Kurdish autonomy was constrained by the rise of ISIS, which led key Western countries, including the United States, to support the Kurdish-led Syrian Democratic Forces (SDF) in combating the Islamic State <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>. Although Turkey conducted several [[turkeys_military_operations_against_kurds | operations against the Kurds]] during this period, they were relatively limited <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>.
+
+### Operation Peace Spring (2019)
+
+By 2019, with ISIS largely defeated, the Trump administration announced the withdrawal of US troops from northern Syria following talks with Turkish President Recep Tayyip Erdogan <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. Turkey seized this opportunity and launched "Operation Peace Spring" <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. The mission had two main objectives:
+*   To establish a "safe zone" for the repatriation of millions of Syrian refugees living in Turkey <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
+*   To diminish Kurdish control in northern and northeastern Syria <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+
+The operation had wider ramifications:
+*   It forced the SDF to seek support from Russia and the Assad regime, thereby strengthening their influence in Syria <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
+*   It led to a resurgence of ISIS, as Kurdish forces were distracted, allowing Islamist militants to escape <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
+
+Following significant international diplomatic pressure and threats of sanctions, Turkey agreed to a ceasefire and withdrew its forces to a 115-kilometer-long strip of Syrian territory along its border <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>. Despite this, Turkey continued to pressure the Kurds, regularly signaling the possibility of another full-scale invasion <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>. For instance, speculation grew in late 2022 after a bomb attack in Istanbul was linked to the YPG <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
+
+## Current Prospects for a Turkish Invasion
+
+The recent fall of the Assad regime is seen as potentially clearing the way for a Turkish invasion <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. With Russia no longer a dominant presence and the new HTS administration in Damascus supported by pro-Turkish forces, Ankara may perceive this as an ideal moment to act against the Kurds <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. Reports are already emerging that Turkey and its allied proxies are preparing a major assault on Kurdish-held areas <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
+
+## Potential Outcomes and Challenges for the Kurds
+
+If an invasion occurs, it would pose a massive threat to the Kurdish areas <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. Although the Kurdish-led Syrian Democratic Forces (SDF) have considerable battle experience fighting ISIS, they are stretched thin across a large area <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>. Turkey, on the other hand, possesses air power and more artillery, and would receive support from its Syrian proxy forces <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>. While Kurdish forces could mount stiff resistance in certain areas, they would almost certainly require external assistance <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
+
+### Limited External Support for the Kurds
+
+The possibility of external support for the Kurds is limited:
+
+#### Western Countries, Particularly the United States
+Attention would first turn to Western countries, especially the United States <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>. Washington faces a delicate balancing act because while it has supported the Kurdish-led SDF against ISIS, Turkey is a NATO ally <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>. Historically, the US has avoided such confrontations with Ankara <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>. It is highly doubtful that the US would militarily intervene to help the Kurdish areas against a Turkish attack <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>. Despite valuing the Kurds as allies, the US response would likely focus on de-escalation, diplomatic pressure, economic sanctions, and calls for restraint rather than military intervention <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>. Other Western states would likely follow a similar approach, lacking the capacity or inclination for engagement <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>.
+
+#### Israel
+A second possibility is that [[turkeys_role_in_syria_and_its_effects_on_relations_with_israel | Israel]] might step in to support the Kurds, potentially with air cover <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>. However, this is also unlikely <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>. Although Israel has historically sympathized with the Kurds, viewing them as a counterbalance to shared adversaries like Iran, Syria, and Islamist groups, and has often voiced support for Kurdish aspirations <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>, it will almost certainly refrain from offering direct military assistance if Turkey attacks <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. A direct military confrontation with Turkey carries the risk of dangerous and unpredictable [[potential_conflict_and_escalation_between_turkey_and_israel | escalation]] <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>. Israel would also want to avoid straining relations with allies like the United States <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>. Any Israeli assistance, if it were to happen, would be carefully calibrated and focused, such as intelligence sharing, to avoid a broader conflict <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
+
+#### Iraqi Kurds
+The only other likely source of support would be the Iraqi Kurds <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>. While the Kurdish populations share ethnic and cultural ties, the KRG in Iraq has been weakened in recent years and is on the verge of financial collapse <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. The KRG also maintains a complex relationship with Turkey <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>. Supporting Syrian Kurds, particularly the YPG, which has been linked to the PKK, could jeopardize these ties <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>. Therefore, while Iraqi Kurds might provide humanitarian assistance, significant military support to Syria's Kurds is unlikely from the KRG <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>.
+
+## Conclusion
+
+Given these factors, Ankara may conclude that now is the ideal moment to strike against the Kurds <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. While Turkey might still back off under sustained international pressure, a full-scale invasion, based on past experiences, would almost certainly lead to a brutal conflict with many casualties, with hundreds of thousands killed, injured, and displaced <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>. Far from marking an end to fighting, the new post-Assad era in Syria could see the country enter a new and bloodier phase, presenting significant [[future_challenges_for_syria_postassad | future challenges for Syria post-Assad]] and demonstrating the ongoing [[influence_of_middle_eastern_geopolitics_on_syria | influence of Middle Eastern geopolitics on Syria]] and [[the_impact_of_geopolitical_events_on_turkeys_diplomacy | the impact of geopolitical events on Turkey's diplomacy]] <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>.

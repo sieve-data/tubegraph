@@ -1,0 +1,43 @@
+---
+title: Turkeys evolving foreign relations especially with Russia and the US
+videoId: wBugTlBFhFI
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+At the latest [[turkeys_relationship_with_nato_and_the_eu | NATO]] summit in Vilnius, international focus was on Turkish President Recep Tayyip Erdogan <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. After months of negotiations, it was uncertain if he would approve Sweden's bid to join the organization <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. In a surprising move, Erdogan linked the decision to Turkey's long-stalled [[turkeys_relationship_with_european_union_and_membership_aspirations | European Union membership talks]] <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. Although he eventually accepted Swedish membership, his motivations for raising the issue were questioned <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+
+## Historical Context with the West
+
+Turkey has historically been considered an integral part of the Western alliance <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. It is a member of [[turkeys_relationship_with_nato_and_the_eu | NATO]] and the Council of Europe <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. The new Republic of Turkey, proclaimed on October 29, 1923, oriented itself towards Europe and the West from its inception <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. This orientation was cemented when it joined the Council of Europe in 1949 <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a> and [[turkeys_relationship_with_nato_and_the_eu | NATO]] in 1952 during the Cold War <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. A significant step was the signing of an association agreement with the European Economic Community (forerunner of the [[turkeys_relationship_with_european_union_and_membership_aspirations | European Union]]) in 1963, with the hope of eventual membership <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
+
+## Deterioration of Relations with the West (Post-2010s)
+
+Over the past decade, Turkey has become increasingly distant from its Western partners <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. President Erdogan's policies have strained these relations to a breaking point <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
+
+### Political Crackdown and Democratic Concerns
+Erdogan's increasing authoritarianism became evident with mass protests in May 2013 <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. Following an attempted coup in July 2016, he launched a major crackdown on political opponents, leading to mass purges in the civil service, judiciary, military, and academia, and tens of thousands of arrests <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. He also changed the constitution to create a presidential system, significantly increasing his personal power <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. This had a considerable impact on Turkey's relations with the West <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. Membership talks with the [[turkeys_relationship_with_european_union_and_membership_aspirations | European Union]] stalled due to claims that Turkey no longer met democratic criteria <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. Turkey also faced criticism for withdrawing from the Istanbul Convention protecting women's rights <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
+
+### Strained Ties with the United States
+Ankara's ties with Washington deteriorated partly because Turkey accused the United States of harboring Fethullah Gulen, a religious leader whom Turkey blamed for the attempted coup <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+
+## Growing [[turkeys_foreign_relations_with_russia_and_the_west | Ties to Russia]]
+Turkey's growing [[turkeys_foreign_relations_with_russia_and_the_west | ties to Russia]] became a concern for Western partners <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. This was underscored by Ankara's decision to purchase a Russian-made anti-aircraft system, much to the anger of the U.S. <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+
+## Impact of the War in Ukraine
+The war in Ukraine brought Turkey's [[turkeys_foreign_relations_with_russia_and_the_west | foreign relations]] to a head <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>. Unlike the [[turkeys_relationship_with_european_union_and_membership_aspirations | European Union]] and the United States, Ankara refused to impose sanctions on Moscow <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. Turkey argued it was acting as an intermediary between [[turkeys_foreign_relations_with_russia_and_the_west | Russia]] and the West, which included brokering a deal to export Ukrainian grain through the Black Sea <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. However, many saw this as further proof of Erdogan's untrustworthiness <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+
+### [[turkeys_geopolitical_strategies_and_alliances | NATO]] Expansion and Swedish Membership
+When Sweden and Finland applied to join [[turkeys_relationship_with_nato_and_the_eu | NATO]] in May 2022, Ankara initially refused their membership, citing their failure to address Kurdish terrorism <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>. Erdogan eventually relented on Finnish membership but held firm on Sweden, despite anger in [[turkeys_relationship_with_nato_and_the_eu | NATO]] circles <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>. This was the point when he suddenly linked Sweden's [[turkeys_relationship_with_nato_and_the_eu | NATO]] membership to Turkey's [[turkeys_relationship_with_european_union_and_membership_aspirations | EU membership]] talks <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>.
+
+## Recent Rapprochement with the West
+Despite initial resistance, Erdogan agreed to forward Sweden's application to the Turkish Parliament for ratification following a meeting with the Swedish prime minister and [[turkeys_relationship_with_nato_and_the_eu | NATO]] Secretary General <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>.
+
+### Economic Factors
+A key reason for this sudden shift is Turkey's severe economic problems, including a persistent budget deficit, low foreign currency reserves, and high inflation, leading to a potential financial crisis <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. With less support from Gulf Arab states, Erdogan appears to be looking to his Western partners for support <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>.
+
+### Diplomatic Engagement and Military Sales
+Erdogan has made several dramatic moves, including opening the way for Sweden's [[turkeys_relationship_with_nato_and_the_eu | NATO]] membership, expressing support for Ukrainian membership, and handing over Ukrainian prisoners of war <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>. While this has angered [[turkeys_foreign_relations_with_russia_and_the_west | Russia]], it has led to early dividends for Turkey <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. He has had high-profile meetings with [[turkeys_relationship_with_european_union_and_membership_aspirations | EU]] officials and met with President Biden at the [[turkeys_relationship_with_nato_and_the_eu | NATO]] Summit <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. This engagement seemed to facilitate the U.S. Administration's approval of the sale of F-16 fighter jets to Turkey <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. There is also hope that Western partners will be more willing to aid Turkey if its economy enters a crisis <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+
+## Outlook for [[turkeys_foreign_relations_with_russia_and_the_west | Foreign Relations]]
+While the steps taken at the [[turkeys_relationship_with_nato_and_the_eu | NATO]] Summit were significant, few Western leaders believe this marks the beginning of a new era of relations between Turkey and its partners, given the damage of recent years <a class="yt-timestamp" data-t="00:13:27">[00:13:27]</a>. For such a change to occur, Ankara will need to build trust and address its political and human rights shortcomings <a class="yt-timestamp" data-t="00:13:41">[00:13:41]</a>. Western leaders are also likely wondering about the cost of this "rediscovered friendship," especially if Turkey's financial problems are as deep as they appear <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>.

@@ -1,0 +1,64 @@
+---
+title: Cameroons Anglophone Crisis
+videoId: hAHRWEn_CjA
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+The [[the_anglophone_crisis_in_cameroon | Anglophone Crisis in Cameroon]] is a brutal conflict that has raged for over a decade between English-speaking separatists and the French-speaking central government, resulting in thousands of deaths and over half a million displaced people <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. Despite its devastating impact, the issue remains largely ignored by the international community, with little political interest, even from the Security Council, and virtually no media coverage <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. This conflict is considered one of Africa's deadliest but has received minimal international attention <a class="yt-timestamp" data-t="01:54:19">[01:54:19]</a>.
+
+## Background and [[Colonial History of Cameroon | Colonial Legacy]]
+
+Cameroon, a country of approximately 29 million people, is situated between Central and West Africa, sharing borders with Nigeria, Chad, the Central African Republic, Congo, Gabon, and Equatorial Guinea, and featuring an Atlantic coastline <a class="yt-timestamp" data-t="02:03:19">[02:03:19]</a>. It is one of Africa's most diverse nations, with over 250 ethnolinguistic groups <a class="yt-timestamp" data-t="02:25:00">[02:25:00]</a>. While the country has two official languages, French and English, the majority of Cameroonians are Francophone <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>. Approximately 20% of the population is Anglophone, primarily concentrated in the two western regions bordering Nigeria, where the fighting is now taking place <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>.
+
+The [[Colonial History of Cameroon | colonial legacy]] is particularly significant to understanding this conflict <a class="yt-timestamp" data-t="02:57:00">[02:57:00]</a>.
+*   **German Rule (1884-1914)**: In 1884, the Berlin Conference awarded Germany the territory known as Cameroon <a class="yt-timestamp" data-t="03:18:00">[03:18:00]</a>.
+*   **British and French Division (1914-1961)**: During World War I, Britain and France invaded the territory, dividing it between them. France seized most of the land, while Britain took about 20%, an area bordering its largest colony in West Africa, Nigeria <a class="yt-timestamp" data-t="03:28:00">[03:28:00]</a>. This division was formalized in 1922 when the League of Nations granted Britain and France the mandate to administer what became known as the British and French Cameroons, thereby cementing the language division at the core of current problems <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a>. Britain administered its part from neighboring Nigeria, dividing it into two parts: the majority-Muslim North Cameroon, which had ethnic ties to northern Nigeria, and the predominantly Christian and animist South Cameroon <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>.
+*   **Decolonization and Union (1960-1961)**: After World War II, the British and French Cameroons became UN trust territories, setting the stage for their future <a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>. On January 1, 1960, the French Cameroons gained independence, becoming the Republic of Cameroon <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>. The British Cameroons were given two options: join independent Nigeria or unite with the Republic of Cameroon, as independence was not offered due to their perceived small size and weakness <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>. In referendums held on February 11, 1961:
+    *   North Cameroon voted to join Nigeria, uniting on May 31, 1961 <a class="yt-timestamp" data-t="05:18:00">[05:18:00]</a>.
+    *   South Cameroon voted 70% to unite with the Republic of Cameroon, fearing they would be overwhelmed within Nigeria <a class="yt-timestamp" data-t="05:36:00">[05:36:00]</a>.
+*   **Federal Republic of Cameroon**: The two parts formally came together on October 1, 1961, forming the Federal Republic of Cameroon, following negotiations that many Anglophone Cameroonians consider illegitimate <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>.
+
+## Escalation of Tensions and [[Cameroons Anglophone and Francophone divide | Anglophone Divide]]
+
+Initially, Anglophones were welcomed in the new country, with several English speakers holding high office, including Prime Minister <a class="yt-timestamp" data-t="06:02:00">[06:02:00]</a>. However, tensions soon emerged as the autocratic Francophone president, Ahmadou Ahidjo, began centralizing power, steadily decreasing Anglophone influence <a class="yt-timestamp" data-t="06:13:00">[06:13:00]</a>.
+
+On May 20, 1972, a referendum abolished the federation and extended presidential power, leading to a further loss of control for English-speaking areas <a class="yt-timestamp" data-t="06:26:00">[06:26:00]</a>. This erosion continued, particularly after Paul Biya became president in 1982 <a class="yt-timestamp" data-t="06:45:00">[06:45:00]</a>.
+
+By the early 1990s, pressure for change mounted <a class="yt-timestamp" data-t="07:03:00">[07:03:00]</a>.
+*   **All-Anglophone Conferences**: In 1993, the first All-Anglophone Conference convened, calling for the restoration of the federal constitution and attempting to draw international attention to their plight <a class="yt-timestamp" data-t="07:08:00">[07:08:00]</a>. Despite the involvement of the former Prime Minister, little progress was made <a class="yt-timestamp" data-t="07:22:00">[07:22:00]</a>.
+*   **Demand for Independence**: At its second meeting the following year, the groups announced they would press for independence if their demands were not met <a class="yt-timestamp" data-t="07:28:00">[07:28:00]</a>.
+*   **Government Crackdown**: The government refused to negotiate, instead erasing the last elements of decentralization and cracking down on separatist sentiment through arrests, which quelled political unrest but left deep resentment <a class="yt-timestamp" data-t="07:42:00">[07:42:00]</a>.
+
+## Outbreak of Conflict and [[Government and Separatist Dynamics in Cameroon | Separatist Dynamics]]
+
+Tensions re-emerged in late 2016, sparked by protests over the increasing number of French speakers appointed to teach in Anglophone schools and staff government offices <a class="yt-timestamp" data-t="08:05:00">[08:05:00]</a>. The government's crackdown on dissent led to the emergence of armed groups and violent confrontations with security forces <a class="yt-timestamp" data-t="08:22:00">[08:22:00]</a>.
+
+*   **Declaration of Ambazonia**: The situation dramatically escalated on October 1, 2017, when several groups declared independence, establishing the Federal Republic of [[rise_of_ambazonia_and_the_quest_for_independence | Ambazonia]], named after a 19th-century British protectorate <a class="yt-timestamp" data-t="08:32:00">[08:32:00]</a>.
+*   **Escalation of Violence**: While many pro-independence groups still sought a peaceful process, and others desired federalism or decentralization, the central government refused to discuss the issue and sent in more troops <a class="yt-timestamp" data-t="08:56:00">[08:56:00]</a>. This intensified the conflict, and by mid-2019, fighting had dramatically escalated, increasingly affecting civilians <a class="yt-timestamp" data-t="09:12:00">[09:12:00]</a>.
+
+## [[Humanitarian Impact of the Crisis in Cameroon | Humanitarian Impact]]
+
+The conflict has had a severe [[Humanitarian Impact of the Crisis in Cameroon | humanitarian impact]]:
+*   **Casualties and Displacement**: Estimates suggest that over 6,000 people have been killed, and more than half a million have been displaced, many fleeing to neighboring Nigeria <a class="yt-timestamp" data-t="11:19:00">[11:19:00]</a>.
+*   **Targeting Civilians**: Civilians are increasingly affected, with rebels targeting schools, causing thousands of children to stay home <a class="yt-timestamp" data-t="09:25:00">[09:25:00]</a>. Violence has also spread to neighboring French-speaking areas <a class="yt-timestamp" data-t="09:45:00">[09:45:00]</a>.
+*   **Human Rights Abuses**: Both sides are accused of numerous human rights abuses. Rebels are implicated in kidnappings, extortion, and the use of child soldiers, while government forces are accused of arbitrary arrests, torture, and extrajudicial killings <a class="yt-timestamp" data-t="11:01:00">[11:01:00]</a>. A rebel attack on a school in October 2020 that killed many children was explicitly condemned by the UN Secretary-General <a class="yt-timestamp" data-t="10:30:00">[10:30:00]</a>.
+*   **Humanitarian Assistance**: Almost two million people now require [[Humanitarian Impact of the Crisis in Cameroon | humanitarian assistance]] <a class="yt-timestamp" data-t="11:30:00">[11:30:00]</a>.
+
+## [[Efforts for a peaceful settlement in Cameroons Anglophone regions | Failed Peace Efforts]]
+
+As a full-blown civil war became likely, President Biya agreed to talks and proposed measures including a special status for the Anglophone regions, direct elections for regional governors, and significant infrastructure projects <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>. However, these proposals fell short of the federal settlement that many Anglophones desired <a class="yt-timestamp" data-t="10:09:00">[10:09:00]</a>.
+
+Despite reports of secret talks with jailed activists (denied by the government), the fighting worsened, leading to more atrocities <a class="yt-timestamp" data-t="10:19:00">[10:19:00]</a>. Since then, multiple [[Efforts for a peaceful settlement in Cameroons Anglophone regions | efforts to stop the fighting]] have failed, including a Canadian attempt in 2023 <a class="yt-timestamp" data-t="10:40:00">[10:40:00]</a>. A settlement remains out of reach as President Biya continues to reject calls to restore federal arrangements, and separatist groups are entrenched in their demands for independence <a class="yt-timestamp" data-t="10:50:00">[10:50:00]</a>.
+
+## Why the Conflict is Overlooked
+
+The [[the_anglophone_crisis_in_cameroon | Anglophone Crisis in Cameroon]] has largely passed unnoticed for several reasons <a class="yt-timestamp" data-t="12:06:00">[12:06:00]</a>:
+*   **Cameroon's Efforts to Downplay Crisis**: Cameroon persistently tries to play down the crisis <a class="yt-timestamp" data-t="12:13:00">[12:13:00]</a>.
+*   **Western Governments' Reluctance**: Few Western governments, particularly France and the United States, want to get too involved <a class="yt-timestamp" data-t="12:18:00">[12:18:00]</a>. Both consider Cameroon an essential partner in fighting Islamist insurgents in northern Nigeria and across the Sahel region, as Cameroon borders several insecure states <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>. They are reluctant to criticize or pressure President Biya, especially France, which has long supported the regime and maintains essential economic and political interests in the country <a class="yt-timestamp" data-t="12:38:00">[12:38:00]</a>.
+*   **Limited British Involvement**: Despite its historical role, Britain's involvement has been limited, restricting interventions to statements of concern, even after Cameroon joined the Commonwealth in 1995 <a class="yt-timestamp" data-t="12:50:00">[12:50:00]</a>.
+*   **Lack of Geopolitical Significance**: The conflict lacks the direct great power interest and geopolitical significance seen in conflicts like those in Ukraine or the Middle East <a class="yt-timestamp" data-t="13:11:00">[13:11:00]</a>.
+*   **Media Neglect**: The international media largely ignores the crisis due to its complexity, the moral ambiguity of atrocities committed by both sides, and the difficulty and danger of independent reporting given Cameroon’s harsh press restrictions <a class="yt-timestamp" data-t="13:23:00">[13:23:00]</a>. Without large, well-organized interest groups, there is little incentive for sustained media attention <a class="yt-timestamp" data-t="13:46:00">[13:46:00]</a>.
+*   **Weak Public Pressure**: The lack of sustained media attention means international public pressure remains weak, allowing the crisis to persist largely unnoticed <a class="yt-timestamp" data-t="13:54:00">[13:54:00]</a>.
+
+The tragedy of the situation is that a solution seems possible if the government were willing to seize the opportunity <a class="yt-timestamp" data-t="14:03:00">[14:03:00]</a>. The crisis has continued for nearly a decade, devastating millions of lives <a class="yt-timestamp" data-t="14:16:00">[14:16:00]</a>. The question remains whether increased media attention and international pressure could lead to an acceptable resolution <a class="yt-timestamp" data-t="14:25:00">[14:25:00]</a>.

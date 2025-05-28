@@ -1,0 +1,48 @@
+---
+title: Cubas historical context and relations with Russia
+videoId: 83p0lJyDCns
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Cuba is an island nation in the Caribbean, situated to the east of Haiti, south of Jamaica, and west of Mexico. The United States lies approximately 150 km (90 mi) to its north <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>. With a population of about 11.3 million and an area of around 110,000 square km (42,000 square miles), its populace is of mixed ancestry, including descendants of Spanish colonial settlers, enslaved Africans, and immigrant communities from Europe, Asia, and the Middle East <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>.
+
+## Historical Overview
+
+Cuba was first sighted by Christopher Columbus in 1492 <a class="yt-timestamp" data-t="02:41:00">[02:41:00]</a>. Throughout the 16th and 17th centuries, it was a vital part of the Spanish Empire in the Western Hemisphere, serving as a staging post for Spanish activities and a key port for treasure fleets returning to Europe <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>. The island became an important agricultural center, producing tobacco and sugar <a class="yt-timestamp" data-t="03:01:00">[03:01:00]</a>.
+
+Unlike much of Spain's American empire, which gained independence in the early 19th century, Cuba remained under Madrid's control, leading to growing pressure for statehood <a class="yt-timestamp" data-t="03:06:00">[03:06:00]</a>. This culminated in the Cuban War of Independence in 1895 <a class="yt-timestamp" data-t="03:18:00">[03:18:00]</a>. The United States intervened in 1898 after a US warship exploded in Havana Harbor, prompting Washington to declare war on Spain <a class="yt-timestamp" data-t="03:23:00">[03:23:00]</a>. Under the Treaty of Paris, Cuba was ceded to the United States, achieving independence four years later in 1902 <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>.
+
+### Early Independence and US Influence
+
+Following independence, Cuba experienced significant political instability, frequent government changes, and revolts <a class="yt-timestamp" data-t="03:47:00">[03:47:00]</a>. The United States maintained considerable influence over the island's affairs, establishing a naval base at Guantanamo Bay and retaining the right to intervene in Cuban matters, a power used on several occasions <a class="yt-timestamp" data-t="04:02:00">[04:02:00]</a>. American companies also controlled large segments of the economy, including the crucial sugar industry <a class="yt-timestamp" data-t="04:17:00">[04:17:00]</a>.
+
+Fulgencio Batista, who led a military coup in 1933, became Cuba's strongman and was elected president in 1940 <a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>. After a period out of power, he staged another military coup in 1952, establishing a brutal and repressive regime <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>. This repression set the stage for an uprising led by Fidel Castro, his brother Raul, and Che Guevara <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>. The guerrilla campaign gained momentum, leading to Batista's flight on January 1, 1959, and Castro becoming prime minister six weeks later <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>.
+
+## Deterioration of US-Cuban Relations and Turn to the Soviet Union
+
+Initially, Washington recognized Castro's government, but relations rapidly deteriorated <a class="yt-timestamp" data-t="05:20:00">[05:20:00]</a>. A turning point occurred when the new Cuban regime nationalized American-owned properties and businesses without compensation <a class="yt-timestamp" data-t="05:26:00">[05:26:00]</a>. In response, the US imposed sanctions and a trade embargo, and even supported an attempt by Cuban exiles to overthrow Castro <a class="yt-timestamp" data-t="05:34:00">[05:34:00]</a>.
+
+Faced with mounting economic difficulties and hardening US opposition, Castro turned to the Soviet Union for assistance <a class="yt-timestamp" data-t="05:43:00">[05:43:00]</a>. This alliance reached its peak in October 1962 with the discovery of Soviet ballistic missile bases on the island <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. A 13-day confrontation brought the world to the brink of nuclear war, eventually diffused by an agreement between Washington and Moscow to dismantle missile bases in Cuba and Turkey <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>.
+
+For the next two decades, the US remained firmly opposed to Castro, viewing him as a challenge to its authority and a significant communist presence on its doorstep, especially as he provided military and political assistance to rebel groups and left-wing governments across Latin America and Africa <a class="yt-timestamp" data-t="06:11:00">[06:11:00]</a>. Cuba's dependence on the Soviet Union and the Warsaw Pact allowed it to maintain a good standard of living despite the US economic embargo <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a>.
+
+## Post-Soviet Era and Recent Ties with Russia
+
+The collapse of the Soviet Union in 1991 drastically altered Cuba's situation, leading to significant hardships, including shortages of food, medicine, and fuel <a class="yt-timestamp" data-t="06:42:00">[06:42:00]</a>. Havana implemented strict austerity measures and began opening its economy to tourism, investment, and private enterprise, though Castro retained tight control under his one-party system <a class="yt-timestamp" data-t="06:54:00">[06:54:00]</a>.
+
+Washington, supported by a large Cuban exile community, intensified its stance against the Castro regime, condemning the country's lack of democracy and human rights restrictions <a class="yt-timestamp" data-t="07:09:00">[07:09:00]</a>. Congress passed legislation further isolating Cuba and allowing for punitive action against governments and companies doing business with the country <a class="yt-timestamp" data-t="07:22:00">[07:22:00]</a>. Despite hopes this would collapse the regime, Cuba became increasingly self-sufficient <a class="yt-timestamp" data-t="07:32:00">[07:32:00]</a>.
+
+While there were brief periods of détente under the Clinton and Obama administrations, with eased travel restrictions and reopening of embassies <a class="yt-timestamp" data-t="07:39:00">[07:39:00]</a>, <a class="yt-timestamp" data-t="08:11:00">[08:11:00]</a>, these thaws were short-lived. The Bush and Trump administrations reinforced the embargo and reimposed travel restrictions, citing human rights violations and Cuba's support for Venezuela <a class="yt-timestamp" data-t="07:54:00">[07:54:00]</a>, <a class="yt-timestamp" data-t="09:03:00">[09:03:00]</a>. Even after Raul Castro stepped down in April 2021, ending 60 years of Castro family rule, the Biden administration largely maintained the embargo, continuing to cite human rights abuses <a class="yt-timestamp" data-t="09:22:00">[09:22:00]</a>.
+
+### Renewed Ties with Russia
+
+Even after the collapse of the Soviet Union, Cuba maintained good relations with [[history_of_russia_japan_relations | Russia]] <a class="yt-timestamp" data-t="09:52:00">[09:52:00]</a>. These ties became more prominent following the start of the war in Ukraine in early 2022 <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>. Although Cuba abstained from the General Assembly resolution condemning [[history_of_russia_japan_relations | Russia]]'s invasion, Moscow and Havana increased their economic, political, and military cooperation in the face of growing Western sanctions <a class="yt-timestamp" data-t="10:04:00">[10:04:00]</a>. Reports also emerged of Cubans signing up for the [[history_of_russia_japan_relations | Russian]] army, which Havana denied, insisting it was not part of the war and vehemently opposed recruitment of its citizens <a class="yt-timestamp" data-t="10:17:00">[10:17:00]</a>.
+
+### Current Challenges
+
+In March 2024, protests erupted in Cuba due to severe food shortages and energy price hikes, marking a rare show of unrest <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The country is grappling with its most severe [[cubas_economic_crisis_and_protests | economic crisis]] since the end of the Cold War, exacerbated by the pandemic, global inflation, fuel shortages, and the ongoing US embargo <a class="yt-timestamp" data-t="10:46:00">[10:46:00]</a>. The Cuban government imposed a 500% fuel price increase on March 1, 2024, and faces growing shortages of essential items like baby milk and medicines <a class="yt-timestamp" data-t="11:00:00">[11:00:00]</a>. This led to an urgent plea to the United Nations World Food Program for support <a class="yt-timestamp" data-t="11:14:00">[11:14:00]</a>.
+
+Havana has accused the United States of instigating the unrest and interfering in its internal affairs, a claim Washington vehemently denies, asserting the accusations are absurd <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a>, <a class="yt-timestamp" data-t="11:52:00">[11:52:00]</a>. American officials, while denying involvement, have stated their support for the Cuban people's right to democracy and fundamental freedoms <a class="yt-timestamp" data-t="12:14:00">[12:14:00]</a>.
+
+Ultimately, the current situation is framed by both sides as a struggle for self-determination <a class="yt-timestamp" data-t="12:50:00">[12:50:00]</a>. For Havana, it is about a powerful neighbor's long history of interference and a "punishing and cruel" embargo <a class="yt-timestamp" data-t="13:00:00">[13:00:00]</a>. For Washington, it is about ending a "crumbling one-party Communist regime" that has deprived its people of democratic and human rights <a class="yt-timestamp" data-t="13:14:00">[13:14:00]</a>.

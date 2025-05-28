@@ -1,0 +1,55 @@
+---
+title: Geopolitical dynamics involving Iran Azerbaijan Turkey and Pakistan
+videoId: gcnPi-IEeec
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Over the course of September and October 2021, tensions rose sharply between [[Iran Azerbaijan relations and tensions | Iran and Azerbaijan]] <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This escalation, coming less than a year after the war between Azerbaijan and Armenia <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>, has sparked fears of a new showdown in the region <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
+
+## Historical Context of [[Iran Azerbaijan relations and tensions | Iran-Azerbaijan Relations]]
+
+Despite sharing significant [[Ethnic and religious ties between Iran and Azerbaijan | ethnic and religious ties]], including being two of only three Shia Muslim majority states globally (the third being Bahrain), relations between Iran and Azerbaijan have largely been cool over the past three decades <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+
+While Azerbaijanis are Turkic-speaking, they have close historical, cultural, and especially religious links to predominantly Farsi-speaking Iran <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. Over 90% of Azerbaijan's population is ethnically Azeri <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>, and Azeris constitute between 15% to 20% of Iran's population, making them the second-largest group after Persians <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. Ethnic Azeris hold senior positions in Iran, with Supreme Leader Ali Khamenei being ethnically Azeri on his father's side <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+
+The story of modern [[Iran Azerbaijan relations and tensions | Iran-Azerbaijan relations]] begins in the 18th century with Imperial Russia's expansion south into the Caucasus <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. Following defeat in the Russo-Persian Wars in the early 19th century, Iran ceded lands in the Caucasus to Moscow, which now comprise Georgia, Armenia, and Azerbaijan <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
+
+After the Russian Revolution in 1917, these territories broke away, forming the Transcaucasian Democratic Federative Republic, which quickly collapsed <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>. On May 28, 1918, Azerbaijan declared independence as the Azerbaijan Democratic Republic <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. This immediately caused tensions with Iran, which used the name Azerbaijan for its northern provinces, leading to concerns of irredentist claims <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>. However, this independence was short-lived, as the Soviet Red Army seized control in 1920, incorporating it into the newly established Union of Soviet Socialist Republics <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>.
+
+Azerbaijan formally declared its independence on October 18, 1991, joining the United Nations on March 2, 1992 <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. Initially, relations seemed promising, with Tehran being one of the first countries to recognize the new state, seeing an opportunity to connect with its Shia brethren <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. However, Azerbaijan showed little interest in close ties with Iran, instead looking west and establishing a close relationship with [[Turkeys geopolitical strategies and alliances | Turkey]], a NATO member <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. Language, economics, and strategic orientation prevailed over religion <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>.
+
+The main source of tension was the war between Azerbaijan and Armenia over Nagorno-Karabakh <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>. Iran, sharing a border with Armenia, maintained a neutral position, which Azerbaijan viewed as a fundamental betrayal, leading to a dramatic worsening of relations <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. Under the Aliyev administrations, relations improved to a cordial, stable, and workable level, though not particularly close or friendly <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>.
+
+## Recent Escalation (September-October 2021)
+
+In September 2021, tensions between Baku and Tehran suddenly rose sharply <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+
+The initial indicators of problems included:
+*   Azerbaijan's decision to levy charges on Iranian drivers crossing its territory into Armenia, a key link between Iran and Russia <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+*   Azerbaijan arresting several Iranians <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+*   Azerbaijan's president, Ilham Aliyev, accusing Iran of using the link with Armenia to export drugs into Europe, a charge Tehran vehemently rejected <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+
+This was followed by Azerbaijan's decision to hold military exercises involving [[Turkeys geopolitical strategies and alliances | Turkey]] and [[Pakistans diplomatic position and regional dynamics | Pakistan]] <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. In response, Iran launched its own military maneuvers close to the Azerbaijan border, the first such exercises in three decades <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. These actions have prompted growing concern about a potential conflict <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+
+## Factors Behind the Escalation: The 2020 Armenia-Azerbaijan War
+
+The sudden rise in tensions appears to be directly related to the 2020 Armenia-Azerbaijan war, in which Azerbaijan retook control of most territories lost to Armenia in the 1990s <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. This conflict significantly altered the [[Geopolitical dynamics in the Caucasus region | regional geopolitical landscape]] in three key ways:
+
+### 1. Shift in Bilateral Power Dynamics
+Azerbaijan's victory over Armenia instilled a new sense of confidence in Baku <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. The imposition of fees and open allegations against Iran are manifestations of this assertiveness <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>. The scale of the victory has fueled a rise in nationalist sentiment in Azerbaijan <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>. Importantly, this also appears to have boosted pro-Azerbaijani sentiment among [[Ethnic and religious ties between Iran and Azerbaijan | ethnic Azeris in Iran]], many of whom felt Tehran should have supported Azerbaijan in the war, causing nervousness in Tehran <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+
+### 2. Azerbaijan's Strengthening Ties with [[Turkeys geopolitical strategies and alliances | Turkey]] and [[Pakistans diplomatic position and regional dynamics | Pakistan]]
+
+Iran is increasingly concerned about the growing Turkish influence in Azerbaijan <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>. While relations between Baku and Ankara have always been strong, [[Turkeys geopolitical strategies and alliances | Turkey]] played an instrumental role in helping Azerbaijan defeat Armenia in the 2020 war <a class="yt-timestamp" data-t="00:08:25">[00:08:25]</a>.
+
+Tehran is also nervous about the involvement of [[Pakistans diplomatic position and regional dynamics | Pakistan]], its eastern neighbor, in the "Three Brothers 2021" military exercises <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>. Although Iran was the first country to recognize Pakistan's independence, ties deteriorated after the Iranian Revolution in 1979 <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>. Despite recent improvements in economic cooperation, mistrust persists <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>. Iran perceives [[Pakistans geopolitical relations with Afghanistan India Iran and China | Pakistan]] as a rising power, especially given the Taliban's takeover in Afghanistan, which Islamabad explicitly supported <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. The joint exercises with [[Turkeys geopolitical strategies and alliances | Turkey]] and [[Pakistans diplomatic position and regional dynamics | Pakistan]] reinforce Tehran's perception of a changing geostrategic landscape on its borders <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
+
+### 3. Deepening Azerbaijan-Israel Relationship
+The 2020 war also cemented the increasingly close relationship between Azerbaijan and Iran's arch-enemy, Israel <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. This relationship has been developing since Azerbaijan's independence, with diplomatic relations established in April 1992, making Azerbaijan one of the few Muslim-majority states at the time to recognize the Jewish state <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>. This was an early factor in the deterioration of relations between Baku and Tehran <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
+
+Links have steadily grown stronger, particularly in defense cooperation <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. Israel supplied much of the sophisticated weaponry, including drones, used by Azerbaijan in the November 2020 War <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>. This growing cooperation is Tehran's primary concern, as Iran views it as giving Israel a strategic foothold on its northern border <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>.
+
+## Conclusion
+
+While [[Ethnic and religious ties between Iran and Azerbaijan | Iran and Azerbaijan share deep historical and cultural ties]], their political, economic, and strategic relations have not been as close as some might expect over the past three decades <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>. The sudden and intense deterioration in their relationship has surprised many observers <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. This shift is rooted in the fundamental change in [[Geopolitical dynamics in the Caucasus region | geopolitics]] following Azerbaijan's victory in the 2020 Nagorno-Karabakh War <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>. The Baku-Tehran power dynamic has shifted, and Tehran is increasingly nervous about growing cooperation between Azerbaijan and [[Turkeys geopolitical strategies and alliances | Turkey]], [[Pakistans geopolitical relations with Afghanistan India Iran and China | Pakistan]], and, most significantly, Israel <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>. The key question remains whether these tensions will lead to a direct confrontation between the two Shia Muslim nations <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>.

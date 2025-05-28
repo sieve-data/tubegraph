@@ -1,0 +1,62 @@
+---
+title: Political and territorial disputes in the Middle East
+videoId: QkgGP6AWWOc
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+The Middle East has been a region of sustained instability due to a long history of unresolved political and territorial disputes <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Conflicts often disappear from international focus once fighting subsides, only to re-erupt with disastrous consequences <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+
+## Israel-Palestinian Conflict
+
+The conflict between Israel and the Palestinians is a primary example of this enduring instability <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Despite its historic dominance in international headlines, the issue seemed to have fallen off the global agenda in recent years, with more Arab countries normalising relations with Israel <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
+
+### Origins of the Dispute
+
+The history of the conflict is long, complex, and contested, with both sides asserting deep-rooted claims to the territory <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+
+- **Post-WWII Partition** After World War II, the United Nations voted to partition British-controlled Palestine into two states: one for the Jewish population and one for Arab Palestinians <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+- **1948 War** This partition was immediately rejected by Palestinians and neighbouring Arab states <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. Hours after Israel declared independence on May 14, 1948, these Arab states attacked the new country <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. Israel defeated the Arab forces, and the following year joined the United Nations <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. The defeat left Palestinians with significantly less territory, confined to the West Bank (under Jordanian control) and Gaza (under Egyptian military authority), while hundreds of thousands became refugees <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
+- **1967 War (Six-Day War)** Refusal by Palestinians and Arab states to accept these losses led to a second war in 1967, which Israel again won decisively <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. Israeli forces captured the West Bank and Gaza, along with parts of Egypt and Syria <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>. Despite their symbolic significance to Israel, the international community rejected these gains, with the UN Security Council calling for Israel's withdrawal from occupied territories while reaffirming Israel's right to exist within its pre-1967 boundaries <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>.
+- **Later Conflicts and Developments** Another war occurred in 1973 <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. The 1970s saw numerous attacks on Israeli targets by the Palestinian Liberation Organisation (PLO) and other militant groups <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. Egypt became the first Arab state to recognise Israel in 1978 <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+
+### Peace Process and Deterioration
+
+Over subsequent decades, positions gradually shifted <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>. Israel faced growing unrest in the occupied territories and was drawn into the civil war in [[potential_for_conflict_in_lebanon | Lebanon]], which was partly fueled by the presence of Palestinian refugees <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. Under international pressure, the Palestinian leadership eventually accepted that any Palestinian state would need to be based on the 1967 borders <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+
+- **1993 Oslo Accords** This led to a breakthrough agreement in 1993 between Israel and the PLO <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. In exchange for acknowledging Israel's existence, a Palestinian Authority was to be established in the West Bank and Gaza as a prelude to an independent Palestinian state <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
+- **Second Intifada and Gaza Withdrawal** Hopes for a two-state solution faded as progress stalled, and the situation deteriorated by the early 2000s <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. As Israel expanded settlements in the West Bank, a second Palestinian uprising erupted <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>. With little desire to hold Gaza due to rising violence, Israel dismantled its 21 settlements and withdrew forces unilaterally in September 2005 <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>.
+
+### Rise of Hamas and Gaza Blockade
+
+The Palestinian community became increasingly fractured as hopes for statehood faded <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. While the PLO remained the official representative, groups like the Islamic Resistance Movement, or Hamas, rejected the peace process, advocating for Israel's destruction and Palestinian control over all historic territory <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>.
+
+- **Hamas's Emergence** Formed in Gaza in 1987 as an offshoot of the Islamic Brotherhood in Egypt, Hamas is backed by Iran and began launching attacks on Israeli targets <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>. It is designated a terrorist organisation by the United States and the European Union <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>.
+- **Gaza Takeover** In January 2006, Hamas won parliamentary elections in the West Bank and Gaza, taking over half the seats <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. After a national unity government broke down, Hamas seized control of Gaza in June 2007 <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>. The two Palestinian territories remain politically estranged <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>.
+- **Blockade** Following Hamas's takeover, Israel imposed a "complete siege" and blockade on Gaza, severely restricting land, sea, and air access <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>, <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>. Egypt also enforced tight border controls due to fears of Islamist extremism <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>. Gaza, with a population of 2.3 million in just 365 square kilometers, is one of the most densely populated areas in the world <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+- **Continued Conflict** Hamas, supported financially and militarily by Iran, continued launching rocket attacks into Israel, leading to fierce Israeli reprisals <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. These actions have severely deteriorated political, economic, and social conditions for the people of Gaza <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>.
+
+### October 2023 Attack and Escalation
+
+On October 7, 2023, Hamas militants launched a massive attack against Israel from Gaza, the deadliest Palestinian assault on the country in 50 years <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Thousands of militants broke through the border fence after a barrage of missiles, indiscriminately attacking military and civilian targets <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>. Over 1,300 Israelis were killed, almost 3,000 wounded, with reports of atrocities and up to 150 Israelis taken hostage <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. This constituted the most significant one-day loss of life in Israel's history <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>.
+
+- **Israeli Response** Israel immediately declared war on Hamas <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>, <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. Gaza was placed under complete siege, with access to water, food, and electricity blocked, and heavily bombed, leading to over 1,000 Palestinian deaths and 6,000 wounded <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>. These actions have raised warnings of potential international law violations <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>. With over 300,000 reservists called up and a national unity war government formed, a full-scale Israeli ground invasion of Gaza appeared imminent <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
+- **Challenges of Retaliation** An air campaign alone cannot defeat Hamas's underground tunnel network and disproportionately harms civilians and civilian infrastructure <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>. A ground invasion, while necessary to defeat the group, carries huge costs and dangers, including the challenges of urban warfare and the need for a continued presence to prevent Hamas from regrouping <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>. A prolonged occupation would incur significant military, economic, political, and diplomatic costs <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>. Maintaining a strict lockdown indefinitely would lead to horrific human consequences and claims of attempting to force out or destroy the population, potentially reigniting broader international opposition to Israel <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
+
+### Wider Regional Escalation
+
+There is a significant danger of the conflict escalating elsewhere in the Middle East <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>.
+
+- **West Bank** Tensions have heightened in the West Bank, where confrontations between Palestinians and Israeli settlers have increased <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>.
+- **[[potential_for_conflict_in_lebanon | Lebanon]]** Fears exist that the violence could spread to neighbouring [[potential_for_conflict_in_lebanon | Lebanon]], with concerns that Hezbollah, another Iranian-backed militant group designated a terrorist organisation, might attack Israel <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>.
+- **Iran** Most seriously, there are concerns of a direct confrontation between Israel and Iran <a class="yt-timestamp" data-t="00:12:58">[00:12:58]</a>. While direct evidence of Tehran planning the October 7 attack is lacking, Iran's financial and military support for Hamas was crucial to its success <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>. Although senior Iranian figures celebrated the operation, Iran has vowed to strike back if Israel retaliates against it <a class="yt-timestamp" data-t="00:13:19">[00:13:19]</a>.
+
+### Path to Resolution
+
+Many believe that the only way for Israel to decisively "win" this war is to achieve a final, comprehensive settlement with the Palestinians, resolving rather than merely managing the nearly eight-decade-long conflict <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>. The UN highlighted weeks before the attack that a "political horizon" for a settlement must be re-established <a class="yt-timestamp" data-t="00:13:47">[00:13:47]</a>.
+
+Significant obstacles remain, especially when negotiating under such heightened tensions <a class="yt-timestamp" data-t="00:13:55">[00:13:55]</a>.
+- **Viable Palestinian State** Creating a Palestinian state is a necessary but not sufficient condition for peace <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>. Such a state needs to be economically and politically viable, requiring territorial agreements and enormous external aid and investment <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>.
+- **Spoiling Groups** Even if Israel and Palestine agree to coexist, groups like Hamas will remain as "spoilers," necessitating significant security support to counter them <a class="yt-timestamp" data-t="00:14:41">[00:14:41]</a>.
+
+Ultimately, a monumental effort by the wider international community is required <a class="yt-timestamp" data-t="00:14:49">[00:14:49]</a>. The question remains whether the latest horrific events will finally galvanize the world to act, or if global attention will again wane, allowing the problem to fester until the next escalation <a class="yt-timestamp" data-t="00:14:56">[00:14:56]</a>.

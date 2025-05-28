@@ -1,0 +1,27 @@
+---
+title: United Nations peacekeeping in Cyprus
+videoId: dCDobf4ctUQ
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Cyprus, a Mediterranean island, has been the site of the world's longest-running major [[ethnic_conflict_in_cyprus | ethnic conflict]] <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>, leading the United Nations (UN) to establish its longest-running peacemaking and peacekeeping mission there <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>, <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. For over six decades, the UN has spearheaded international efforts to broker an agreement between the island's Greek and Turkish Cypriot communities <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>, <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+
+## Establishment of the UN Peacekeeping Force
+
+The [[Cyprus Dispute and its Impact | Cyprus Dispute]] escalated into fighting in December 1963, leading to the collapse of the joint government <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>, <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. Peace was temporarily restored in March 1964 when the United Nations established a peacekeeping force on the island <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>, <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. Despite this, UN-led efforts to secure a political agreement over the following decade were largely unsuccessful <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>.
+
+## Continued Efforts and Setbacks
+
+Following the 1974 Turkish invasion, which divided the island <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>, the UN persisted in its efforts to reach a settlement <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+
+Key developments and challenges in UN efforts include:
+*   **Federal Arrangement** In 1977, the sides agreed that any solution would be based on a bizonal, bicommunal federal arrangement with two territorial units corresponding to the two communities <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>, <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>, <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
+*   **Unilateral Declaration of Independence** In November 1983, the Turkish Cypriots unilaterally declared independence, establishing the "Turkish Republic of Northern Cyprus" (TRNC), which is only recognized by Turkey <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>, <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>, <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. This move was widely condemned by the UN Security Council, which urged member states not to recognize the new entity <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>, <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
+*   **Deadlocked Talks** Despite talks throughout the 1980s and 1990s, negotiations remained deadlocked, largely due to the intransigence of the Turkish Cypriot leadership, backed by Turkey <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>, <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>.
+*   **The Annan Plan (2004)** As Cyprus prepared to join the European Union, a new UN initiative was launched <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>. In 2004, the UN proposed a reunification plan that was largely endorsed by the international community and accepted by two-thirds of Turkish Cypriots <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>, <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>, <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>. However, it was rejected by three-quarters of Greek Cypriots in a referendum <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
+*   **Conference on Cyprus (2017)** Settlement efforts continued, with the most recent major UN initiative being a conference on Cyprus convened in 2017 <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>, <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. This effort, like many before it, failed to achieve a breakthrough <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>.
+
+## Challenges for Future Settlement
+
+After almost 60 years of UN efforts <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>, many observers believe a settlement is nearly impossible <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. While the theoretical framework for a settlement is understood and could be achieved quickly with political will, the primary obstacle is the lack of political will within both communities <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>, <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>, <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>, <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. Discussions about a future settlement include determining the nature of a peacekeeping force <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. The younger generations, rather than fostering moderation, are increasingly detached from shared experiences, viewing the "other side" as foreign <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>, <a class="yt-timestamp" data-t="00:13:50">[00:13:50]</a>, <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>, <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>. This diminishing common ground makes a UN-brokered agreement increasingly unlikely <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>, <a class="yt-timestamp" data-t="00:14:17">[00:14:17]</a>.

@@ -1,0 +1,41 @@
+---
+title: Controversial measures and human rights concerns in El Salvador
+videoId: M09qB_hbfbs
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Following a sudden spike in killings, El Salvador declared a [[el_salvador_state_of_emergency_and_gang_violence | state of emergency]] in March 2022 <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This declaration was accompanied by the arrest of 17,000 people and the introduction of a raft of tough new measures aimed at tackling the country's long-standing problem of [[el_salvador_state_of_emergency_and_gang_violence | gang violence]] <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. While these actions are presented as necessary to combat crime, they have also raised serious questions about the direction the country is taking under its charismatic young president, [[nayib_bukele_and_his_approach_to_gang_violence | Nayib Bukele]] <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
+
+## El Salvador's History of Violence and Gangs
+
+El Salvador has historically been plagued by high levels of violence. In 2015, it recorded the second-highest violent death rate globally at 126 deaths per 100,000 inhabitants, surpassed only by [[human_rights_abuses_and_conflict_in_syria | Syria]] <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+
+The roots of the country's severe [[el_salvador_state_of_emergency_and_gang_violence | gang violence]] problem can be traced back to its civil war (1979-1992) <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. During this conflict, many Salvadorians fled to the United States, particularly Los Angeles, where they became involved in growing gang culture, leading to the formation of major gangs like MS-13 and Barrio 18 <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. After the war concluded in January 1992 <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>, the United States began deporting convicted gang members back to El Salvador, who then brought their gang ties with them, leading to a rapid escalation of the problem <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. By the early 2000s, the country's [[el_salvador_state_of_emergency_and_gang_violence | gang problem]] was spiraling out of control <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
+
+### Attempts to Control Violence
+
+Various approaches have been attempted to curb the violence:
+*   **Zero-Tolerance Policies**: Successive governments pursued "zero-tolerance" approaches, but these proved largely ineffective <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>.
+*   **Gang Truce (2012)**: In March 2012, rival gangs reached a truce, tacitly endorsed by the government, which led to a significant 40 percent drop in the murder rate within a year <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>, <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>, <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>. However, this truce became unpopular due to fears it empowered gangs <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a> and eventually collapsed in 2013-2014 <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>, <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>, leading to a sharp deterioration and a surging murder rate by 2015 <a class="yt-timestamp" data-t="00:07:21">[00:07:21]</a>.
+
+## [[nayib_bukele_and_his_approach_to_gang_violence | Nayib Bukele]]'s Crackdown and Its Outcomes
+
+The situation began to improve with the election of [[nayib_bukele_and_his_approach_to_gang_violence | Nayib Bukele]] as president in May 2019 <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>, <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. [[nayib_bukele_and_his_approach_to_gang_violence | Bukele]] promised to address [[el_salvador_state_of_emergency_and_gang_violence | gang violence]] and introduced tough new measures, including targeted crackdowns in gang heartlands and increased police and military spending <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>. Social programs were also introduced in poverty-stricken areas <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>. Despite [[nayib_bukele_and_his_approach_to_gang_violence | Bukele]]'s denials, reports emerged of government representatives meeting with jailed gang leaders and offering special privileges in exchange for reduced violence <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>.
+
+Regardless of the specifics, [[nayib_bukele_and_his_approach_to_gang_violence | Bukele]]'s efforts appeared to work, with the number of murders dropping significantly by the end of 2020 <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>, <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>. On January 27, 2021, the country marked its first 48 hours without a gun death in decades <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>. The year 2021 ended with 1,140 deaths, an improvement despite a three-day outbreak of violence in November <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>.
+
+## Recent Surge in Violence and Controversial Measures
+
+Despite the improving situation, a sudden surge of violence occurred on Saturday, March 26, 2022, with 62 people killed in a single day—the highest daily death toll since the civil war ended 30 years prior <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>, <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>. In response, the government quickly imposed and extended a [[el_salvador_state_of_emergency_and_gang_violence | state of emergency]] <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>. Police began rounding up thousands of suspected gang members, even publicly displaying images of detainees <a class="yt-timestamp" data-t="00:09:59">[00:10:04]</a>.
+
+A raft of new measures has been introduced, many of which have been condemned by leading international [[human_rights_abuses_and_conflict_in_syria | human rights]] organizations, including the UN Office for the High Commissioner for Human Rights <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>, <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>. These measures include:
+*   Reducing the age of criminal responsibility <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
+*   Introducing longer prison sentences <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
+*   Criminalizing reporting on gang activities that could "generate panic and anxiety amongst the general population," with offenses carrying up to 15 years in jail <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>. This legislation has drawn heavy criticism from both [[human_rights_abuses_and_conflict_in_syria | human rights]] organizations and the US State Department, which emphasized the importance of press freedom <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
+
+## Growing Concerns Over Authoritarianism
+
+These controversial steps come amidst growing concerns about the wider direction El Salvador is taking <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>. While President [[nayib_bukele_and_his_approach_to_gang_violence | Bukele]] enjoys high approval ratings, fears of his increasing authoritarianism have mounted <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. In September 2021, the United States sanctioned five supreme court judges who were appointed to rule in favor of a second presidential term for [[nayib_bukele_and_his_approach_to_gang_violence | Bukele]], in contravention of a constitutional time limit <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>.
+
+El Salvador is now at a crucial juncture, navigating the complex challenge of combating deeply entrenched [[el_salvador_state_of_emergency_and_gang_violence | gang violence]] while facing the risk that the president may be using the crisis to cement his control over the country <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>, <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>.

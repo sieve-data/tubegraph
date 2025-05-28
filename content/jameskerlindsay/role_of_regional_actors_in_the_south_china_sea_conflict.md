@@ -1,0 +1,55 @@
+---
+title: Role of regional actors in the South China Sea conflict
+videoId: iZFFSjPhU7Y
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Growing concerns have emerged regarding [[increasing_military_activity_in_the_south_china_sea | increasing military activity]] around the [[international_territorial_disputes_over_the_spratly_islands | Spratly islands]] in the South China Sea <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. This situation has sparked renewed fears about the possibility of an [[potential_for_armed_conflict_in_the_south_china_sea | armed conflict]] in an area where no fewer than six different actors have territorial claims <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+
+## Nature of the Dispute
+
+While territorial disputes often involve contested land borders, they primarily revolve around maritime boundaries, encompassing competing claims over territorial waters and exclusive economic zones <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. In the South China Sea, the dispute over the [[international_territorial_disputes_over_the_spratly_islands | Spratly islands]] exemplifies how control over a small territory can lead to significantly extended maritime and airspace rights over a vast area <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. The islands, largely uninhabited, comprise over a hundred tiny islets, reefs, and atolls, many of which are wholly or partially submerged <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. At most, 20 are considered significant <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. Although small, they cover approximately 400,000 square kilometres (160,000 square miles), making them militarily, economically, and strategically valuable <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. By claiming territory, countries can control territorial waters and undersea resources, including one of the world's most crucial shipping lanes, significant fishing banks, and believed oil and gas deposits <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>.
+
+## Main Claimants
+
+The [[international_territorial_disputes_over_the_spratly_islands | Spratly islands]] have been disputed for over a century, with tensions steadily increasing over recent decades <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>. Six parties claim the islands, either in whole or in part <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>:
+*   China <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>
+*   Taiwan <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>
+*   Vietnam <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>
+*   The Philippines <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>
+*   Malaysia <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>
+*   Brunei <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>
+
+## Historical Claims and Escalation
+
+The islands' history is believed to date back almost 2,000 years, first discovered by Chinese fishermen and later mentioned in Imperial Chinese records as an extension of the Paracel Islands <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. However, the question of sovereignty became hotly contested after the Second World War <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>.
+
+*   **China and Taiwan**: In 1947, the Republic of China (later Taiwan) published a map indicating the [[international_territorial_disputes_over_the_spratly_islands | Spratly islands]] as part of Chinese territory <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>. The Communist People's Republic of China, established in 1949, also claimed the islands <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.
+*   **Vietnam and Philippines**: By the decade following WWII, broader regional competition grew, with Vietnam and the Philippines, now independent states, also claiming sovereignty <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
+*   **Militarization**: The issue became more dangerous as countries began establishing small military presences <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>. Taiwan set up an outpost on Itu Aba in 1956 <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>, followed by Vietnam and the Philippines in the 1970s <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>.
+*   **Malaysia and Brunei**: Malaysia claimed part of the territory in 1983 <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>, and Brunei claimed a section after gaining independence in 1984 <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>.
+
+## Assertions and Clashes
+
+The situation became increasingly complex and tense by the late 1980s <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>.
+*   **China-Vietnam Conflict**: In 1988, violence erupted when China forcibly removed the unified Vietnamese military presence in one part of the islands during the "Battle of Johnson South Reef" <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>. Earlier, in 1974, Chinese and South Vietnamese naval forces clashed over the Paracel Islands, resulting in over 70 deaths <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+*   **China's Land Reclamation**: Beijing gradually tried to cement its control by launching an ambitious scheme to reclaim land around reefs and atolls, creating artificial islands <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. This activity dramatically increased in 2013, with an estimated 13 square kilometres (five square miles) of land reclaimed over three years <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>. China has now constructed military bases on three of the islands <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>.
+*   **Other Claimants' Actions**: Several other claimants have also become more active. Vietnam has reportedly begun dredging parts of the territory, creating about 220 hectares of new land in recent years <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. Malaysia retains control of a reef captured in the 1980s, which it has since turned into an island <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a>. Brunei is the only one of the six not to have a presence on the islands <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>.
+*   **Indonesia's Challenge**: Although Indonesia does not claim the islands, it has publicly challenged [[Chinas_historical_claims_versus_international_law_in_the_south_china_sea | China's claim]] <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>.
+
+## Legal Challenges and Responses
+
+In 2013, the Philippines referred [[Chinas_historical_claims_versus_international_law_in_the_south_china_sea | China's claims]] to the Permanent Court of Arbitration in The Hague <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>. Manila argued that Beijing had no right to claim sovereignty over the islands based solely on [[chinas_historical_claims_versus_international_law_in_the_south_china_sea | history]] <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>, advocating instead that any claim should be judged by the UN Convention on the Law of the Sea (UNCLOS) <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+
+China refused to participate in the proceedings, disputing the Court's jurisdiction <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>. The Court's nuanced ruling went against China, stating that rights to maritime zones should be based on UNCLOS <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>. It found that China's actions, including land reclamation, had aggravated the situation and infringed on the Philippines' rights within its exclusive economic zone <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. Furthermore, the Court ruled that none of the [[international_territorial_disputes_over_the_spratly_islands | Spratly Islands]] were "islands" as understood under UNCLOS, meaning even if China had sovereignty, it would not confer an exclusive economic zone that would infringe on other states' rights <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. The Court called on both parties to comply with UNCLOS <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>.
+
+As expected, China refused to accept the ruling, fundamentally rejecting the findings and calling the arbitration case "pure political drama" <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. The Chinese [[the_role_of_government_and_potential_solutions_in_regional_conflicts | government]] also refuses to take the issue of island ownership before another legal body, such as the International Court of Justice <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>.
+
+## Recent Tensions
+
+Tensions have continued to rise. In early February 2023, the Philippines [[the_role_of_government_and_potential_solutions_in_regional_conflicts | government]] filed a complaint accusing the Chinese Coast Guard of shadowing, harassing, dangerous manoeuvres, and directing a military-grade laser at one of its vessels <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>. This incident, while not leading to an exchange of fire, has fueled growing tensions <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>. The Philippines now accuses China of threatening its sovereignty and security <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>. President Ferdinand Marcos Jr. has suggested that the Armed Forces of the Philippines must reorient their mission against Beijing <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>.
+
+## Outlook
+
+The [[international_territorial_disputes_over_the_spratly_islands | Spratly Islands]] dispute is an exceedingly complex issue with many countries claiming some or all of the islands <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>. While UNCLOS provides clarity, a resolution model based on it would effectively exclude China and Taiwan, creating current problems <a class="yt-timestamp" data-t="00:11:34">[00:11:34]</a>. The core questions remain how far [[Chinas_influence_in_the_pacific_and_its_implications_for_us_strategy | China]] is willing to push its disputed claim and how far other states are prepared to defend their positions, especially if it leads to an [[potential_for_armed_conflict_in_the_south_china_sea | armed confrontation]] with Beijing <a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>. There is a sense that the [[international_territorial_disputes_over_the_spratly_islands | Spratly Islands]] may be a more likely focal point for conflict than other regional flashpoints <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>. Given the sheer number of actors involved, this collection of rocks, reefs, and atolls could become the centre of a bitter regional war if not handled carefully <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>.

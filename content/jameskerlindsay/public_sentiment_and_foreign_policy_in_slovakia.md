@@ -1,0 +1,53 @@
+---
+title: Public sentiment and foreign policy in Slovakia
+videoId: 5aZ2i0dTQHs
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Slovakia's foreign policy has recently drawn international attention, particularly its stance on the war in Ukraine. While the country is a member of NATO and the European Union, its government's approach has at times diverged from its Western partners, leading to questions about its reliability as an ally <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. These policy shifts often interact with evolving [[slovakias_shifting_political_landscape | public sentiment]] within the nation <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>.
+
+## Historical Context and Political Evolution
+
+After the collapse of the Austro-Hungarian Empire in 1918, the northern Slavic population of Czechs and Slovaks established Czechoslovakia <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>, <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. Despite its economic prosperity and democratic leanings, Slovakia was often seen as the junior partner to the more developed Czech parts <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. Following the dissolution of Czechoslovakia in 1992—dubbed the "Velvet Divorce"—Slovakia emerged as an independent state in 1993 <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>, <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+
+Initially, [[slovakias_shifting_political_landscape | Slovakia took a very different political and economic path]] from the Czech Republic under the nationalist, authoritarian rule of Vladimir Mečiar <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>, <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>. Concerns over corruption, press freedom, and judicial independence hindered its European integration <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. This began to change in 1998 with the [[slovakias_shifting_political_landscape | new centre-right government]] led by Prime Minister Mikuláš Dzurinda, which was committed to European integration <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>, <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. As a result, [[slovakias_position_within_nato_and_the_european_union | Slovakia joined NATO]] and the [[slovakias_position_within_nato_and_the_european_union | European Union]] in 2004 <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+
+## Robert Fico's Influence on Foreign Policy
+
+Robert Fico's [[slovakias_shifting_political_landscape | populist left-wing nationalist government]] first came to power in 2006 <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>, <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. His administration focused on social welfare and public spending, and notably brought [[impact_of_leadership_changes_in_slovakia | changes in foreign policy]] <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>, <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>.
+
+Key instances of divergence included:
+*   **Kosovo**: Slovakia refused to recognize Kosovo's 2008 Declaration of Independence, contrary to most EU and NATO partners <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>, <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
+*   **Migrant Crisis**: In 2015, Slovakia, along with Hungary, Poland, and the Czech Republic (the Visegrád Four), rejected calls to take in refugees during the European migrant crisis <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>, <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>.
+*   **Crimea Annexation (2014)**: Fico initially opposed EU sanctions on Moscow following Russia's annexation of Crimea, arguing for continued economic links and expressing concern about the impact on Slovakia's energy supplies <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>, <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. However, Slovakia eventually aligned with EU and NATO policies, condemning Russia's actions, endorsing Ukraine's territorial integrity, introducing sanctions, and reducing its dependence on Russian energy <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>, <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
+
+Fico's tenure ended in 2018 amid accusations of authoritarianism and corruption, particularly following the murder of a journalist investigating links between politicians and organized crime <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>, <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>. A [[slovakias_shifting_political_landscape | new right-wing coalition government]] came to power in 2020, vowing to fight corruption and aligning with EU and NATO partners following [[slovakias_relationship_with_russia_and_ukraine | Russia's invasion of Ukraine]] in February 2022 <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>, <a class="yt-timestamp" data-t="00:08:19">[00:08:19]</a>. This government condemned the Russian attack, imposed sanctions, took in over 100,000 Ukrainian refugees, and provided military aid to Ukraine <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+
+## Public Sentiment and the Return of Fico
+
+Despite the government's alignment with Western partners, [[slovakias_shifting_political_landscape | public mood within Slovakia began to change]] <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>, <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. There was growing disillusionment with the government's unfulfilled promises and increasing public skepticism about the war in Ukraine <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>, <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>.
+
+Key aspects of public sentiment:
+*   A large majority of Slovaks still viewed [[slovakias_relationship_with_russia_and_ukraine | Russia as a "brotherly nation"]] <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>.
+*   Polling indicated that less than half the population supported sanctions against Moscow or economic and military aid to Ukraine <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.
+*   The President announced in June 2023 that she would not seek a second term due to death threats, highlighting concerns about the country's direction <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>, <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>.
+
+Capitalizing on this sentiment, [[slovakias_shifting_political_landscape | Fico returned to power]] in late 2023, adopting an overtly pro-Russian position <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, <a class="yt-timestamp" data-t="00:09:33">[00:09:33]</a>, <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. He argued that sanctions were harming the Slovak economy and vowed to oppose further economic measures against Moscow <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>. He also promised to cease all further armed supplies to Ukraine, stating Slovakia would not send "another bullet" <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>, <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>.
+
+## Current Foreign Policy and Mixed Signals
+
+Upon returning to office, the [[impact_of_leadership_changes_in_slovakia | new government announced the end of all military aid to Ukraine]] <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>, <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>. Fico continued to provoke controversy, calling Ukraine corrupt, under US domination, and suggesting it must accept territorial losses for peace <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>, <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>. He also reiterated opposition to Ukrainian NATO membership, viewing it as a catalyst for a third world war <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>, <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>. The Slovak foreign minister's meeting with his Russian counterpart, Sergey Lavrov, also caused considerable anger <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>, <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>.
+
+Despite these actions, Fico has also maintained some ties with Ukraine:
+*   In January 2024, he assured his Ukrainian counterpart that Slovakia would support Ukraine's [[european_union_and_nato_aspirations_versus_prorussian_sentiment | EU accession]] and would not block a large EU aid package <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>, <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>.
+*   In April, he announced increased business ties, strengthened transport links, and a corridor for Ukrainian agricultural goods <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>, <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>.
+*   While cutting state military aid, he clarified that he would not object to private support for Ukraine <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>, <a class="yt-timestamp" data-t="00:11:40">[00:11:40]</a>. This led to thousands of Slovaks initiating a crowdfunding campaign to support a Czech initiative to purchase ammunition for Ukraine <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>, <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>.
+
+The reasons behind Fico's mixed messaging are debated <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>. Theories include:
+*   Close trading links between Ukraine and Slovakia <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>.
+*   Fico's assessment of the war's direction <a class="yt-timestamp" data-t="00:12:08">[00:12:08]</a>.
+*   A recognition that Slovakia cannot or should not fully sever ties with its EU and NATO partners, unlike Hungary's Viktor Orbán <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>.
+*   A suggestion that Fico may not be as pro-Russian as he appears <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>.
+
+Regardless of Fico's true intentions, his words and actions have created uncertainty about Slovakia's foreign policy goals, undermining trust in the country's reliability as an ally and contributing to the impression that it is a "weak link" in the broader Western front against Russia <a class="yt-timestamp" data-t="00:12:32">[00:12:32]</a>, <a class="yt-timestamp" data-t="00:12:36">[00:12:36]</a>.

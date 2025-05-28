@@ -1,0 +1,55 @@
+---
+title: Historical ties between Serbia and Russia
+videoId: PdiSU9-Fge4
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+[[Serbias relationship with Russia | Serbia's relationship with Russia]] is often perceived as exceptionally close, a view strengthened by the [[Impact of the Ukraine war on Serbia Russia relations | Ukraine war]] and Serbia's refusal to impose sanctions on Moscow <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. However, reports suggest a more complex picture, including Serbia supplying arms to Ukraine <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. While some outsiders believe a "special relationship" exists due to shared ethnic, religious, political, or cultural ties <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>, the reality is often more nuanced <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+
+## Early History and Russian Patronage
+
+[[Serbias relationship with Russia | Serbia]], historically inhabited by Celts and later part of the Roman and Byzantine Empires, was settled by Slavic tribes in the 6th and 7th centuries <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. After adopting Christianity in the 10th century, the Kingdom of Serbia became a major regional power by the 14th century <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+
+Following its defeat by the Ottoman Empire at the Battle of Kosovo Polje in 1389 and subsequent fall by the mid-15th century <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>, most of Serbia remained under Ottoman rule for 350 years <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
+
+It was during an uprising in 1804 that Imperial Russia became involved, viewing itself as the protector of the Slavic Christian peoples of Southeast Europe and soon taking up the Serbian cause <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. This intervention led to Serbia gaining autonomy within the Ottoman Empire in 1829, following a Russo-Turkish war <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Fifty years later, in 1878, after another Russian-Ottoman war, Serbia achieved complete independence <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+
+## World Wars and the Yugoslav Era
+
+By the early 20th century, [[Serbias relationship with Russia | Serbia]] and Russia had become close allies <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. This alliance had global implications when, in 1914, a Serb nationalist assassinated Archduke Franz Ferdinand. As Austria-Hungary threatened retaliation, Russia came to Serbia's aid, triggering the First World War <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>.
+
+However, the end of WWI saw a radical shift. Following the 1917 revolution, Russia fell under communist rule and withdrew from the conflict <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. Meanwhile, Serbia united with other South Slavic nations to form the Kingdom of Yugoslavia <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. Relations between Serb-dominated Yugoslavia and the Russian-dominated Soviet Union were limited, with the Yugoslav monarchy fearing communism and diplomatic relations only established in 1940 <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+
+The Second World War again changed dynamics. After the Axis invasion of Yugoslavia in 1941, communist Partisans, allied with the Soviet Union, became the main resistance <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. In 1945, they seized power, establishing a communist state <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. Despite this, relations soured in 1948 due to disagreements between Tito and Stalin, leading Yugoslavia to break away from the Soviet Bloc <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. While relations improved after Stalin's death in 1953, Yugoslavia remained outside Soviet control for the rest of the Cold War, becoming a founder member of the Non-Aligned Movement <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+
+## Post-Cold War Era and Kosovo
+
+The 1990s brought significant changes. As the Soviet Union disintegrated, Yugoslavia descended into war with several republics breaking away <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>. The Serbian-dominated remnant of Yugoslavia, under Slobodan Milošević, sought support from Russia, but Moscow's post-Cold War weakness limited its ability to help <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. This was evident during the 1999 Kosovo conflict; Russia strongly opposed NATO's bombing campaign against Serbia but was largely powerless to stop it <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
+
+The issue of Kosovo's status significantly shaped contemporary [[Serbias relationship with Russia | Serbian-Russian relations]] <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>. When status talks began in 2006, Kosovo Albanians, supported by Western powers, sought independence <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. Serbia, backed by a more assertive Russia under Vladimir Putin, advocated for autonomy <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. With the UN Security Council deadlocked, Kosovo declared independence in February 2008 <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>.
+
+Serbia's foreign policy became dominated by efforts to prevent Kosovo's international recognition, relying on Moscow to block Kosovo's membership in the United Nations <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. This led to a flourishing of [[Serbias relationship with Russia | Serbian-Russian relations]], with high-level visits and Russia gaining significant political, economic, and social leverage, including control of Serbia's state energy provider and expansion in media <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>.
+
+Despite public friendship, Serbian officials often privately complained about negative Russian influence on the economy, arguing that Russian involvement yielded little benefit beyond cheap fuel, unlike European and Western investment <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. While there was some Russian-Serbian security cooperation, it was overshadowed by growing engagement between Serbia and NATO <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>. During this period, Serbia pursued an "equidistant foreign policy," valuing ties not only with Russia and the West but also with China and the global South as allies against Kosovo's recognition <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. Serbia even hosted a Non-Aligned Movement summit in late 2021 <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>.
+
+### Public Opinion
+
+[[Serbian internal politics and public opinion on Russia | Public opinion in Serbia]] was also less uniformly supportive of Russia than it might have seemed <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. While parts of society, such as the nationalist right and Orthodox Church, maintained strong pro-Russian sentiment <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>, many Serbs were primarily drawn to Europe. Polling indicated a preference for EU membership over closer relations with Moscow <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>. Few Serbs spoke Russian, preferring English or German <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.
+
+## Impact of the Ukraine War
+
+Russia's invasion of Ukraine in February 2022 placed [[Serbias relationship with Russia | Serbia]] in a challenging position <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>. Serbia sought to balance its stance:
+*   **Refusal to Sanction Russia**: Unlike most European states, Serbia refused to impose sanctions on Russia, seemingly fearful of antagonizing Moscow <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>. It also maintained high-level contacts with the Russian government <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+*   **Support for Ukraine**: Despite this, Serbia's position was less pro-Russian than it appeared <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. It openly condemned the Russian invasion, took in Ukrainian refugees, provided humanitarian aid, and pledged support for Ukraine's postwar recovery <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>.
+*   **Arms Supply**: A significant revelation came from the *Financial Times*, reporting that Serbia, a major arms producer, had supplied Ukraine with over $800 million worth of ammunition <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>.
+
+Even with these reports, the Serbian government continued to emphasize its strong relationship with Russia <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. President Aleksandar Vučić praised ties to Russia, and the new Serbian government included figures with close links to Russia, such as Deputy Prime Minister Aleksandar Vulin, who has been sanctioned for his ties to Moscow <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>.
+
+## Re-evaluating the "Pro-Russian" Narrative
+
+The notion of Serbia simply reverting to traditional pro-Russian sympathies has deep flaws, as the historical relationship has seen profound differences alongside close ties <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>. Similarly, ideas of Slavic or Orthodox unity are simplistic, as many such countries now have strained relations with Moscow <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>. The argument that the relationship is solely driven by Kosovo also doesn't fully hold, as Russia is unlikely to reverse its position even if Serbia changed its stance <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>.
+
+Instead, a significant factor is changing [[Serbian internal politics and public opinion on Russia | public opinion]], driven by perceived double standards from the West <a class="yt-timestamp" data-t="00:13:32">[00:13:32]</a>. The West's support for Ukraine's territorial integrity after bombing Serbia for a similar goal has fueled anger <a class="yt-timestamp" data-t="00:12:39">[00:12:39]</a>. Many Serbs are taking Russia's side not necessarily as an endorsement of Moscow, but as a protest against the West <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>.
+
+The [[Impact of the Ukraine war on Serbia Russia relations | Ukraine war]] is contributing to growing political and social polarization in [[Serbian internal politics and public opinion on Russia | Serbia]] <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>. While the Serbian leadership may remain broadly pro-European despite concerns about authoritarianism, public opinion appears to be shifting in the opposite direction, with long-term implications for Serbia, the Balkans, and Europe <a class="yt-timestamp" data-t="00:13:11">[00:13:11]</a>.

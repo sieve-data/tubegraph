@@ -1,0 +1,38 @@
+---
+title: Nayib Bukele and his approach to gang violence
+videoId: M09qB_hbfbs
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Since his election in May 2019, Nayib Bukele, the charismatic young president of El Salvador, has made tackling the country's severe problem of gang violence a central focus of his administration <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>, <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>, <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>, <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>. His approach has yielded significant reductions in the murder rate, but has also sparked widespread concerns about [[controversial_measures_and_human_rights_concerns_in_el_salvador | human rights]] and an alleged slide towards authoritarianism <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>, <a class="yt-timestamp" data-t="00:10:58">[00:10:58]</a>.
+
+## Background of Gang Violence
+[[historical_context_of_gang_violence_in_el_salvador | El Salvador has a long history of gang violence]], with the country experiencing the second-highest violent death rate in the world in 2015, at 126 deaths per 100,000 inhabitants, surpassed only by Syria <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>, <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. This problem escalated significantly after the civil war ended in 1992, when the United States began deporting convicted gang members, including those from MS-13 and Barrio 18, back to El Salvador, bringing their gang affiliations with them <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>, <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>, <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>, <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>.
+
+## Bukele's Initial Measures and Successes
+Upon taking office, President Bukele promptly introduced a series of tough new measures to combat gang violence <a class="yt-timestamp" data-t="00:08:19">[00:08:19]</a>. These included:
+*   Major targeted crackdowns in key gang heartlands <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>.
+*   Significant increases in police and military spending <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>.
+*   Introduction of social programs in poverty-stricken areas <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>, <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>.
+
+Most controversially, reports surfaced that government representatives had met with jailed gang leaders, allegedly offering special privileges in exchange for reduced violence, a claim denied by Bukele <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>, <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>.
+
+Regardless of these alleged meetings, the government's efforts appeared effective. By the end of 2020, the number of murders had dramatically decreased to just over 1,300, a significant drop from the 6,500 recorded a few years prior <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>, <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>, <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. On January 27, 2021, Bukele announced that the country had achieved a full 48 hours without a gun death, a first in decades <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>, <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. Despite a three-day outbreak of violence in November 2021 that resulted in 40 deaths, the year concluded with 1,140 deaths, indicating continued improvement <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>, <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+
+## March 2022 Spike and Intensified Crackdown
+Against this backdrop of improving security, a sudden surge of violence occurred on March 26, 2022, when 62 people were killed in a single day—the highest daily death toll since the civil war ended 30 years prior <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>, <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>, <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>, <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>. In response, the government swiftly acted:
+*   Imposing a [[el_salvador_state_of_emergency_and_gang_violence | state of emergency]], which was subsequently extended <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>, <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
+*   Initiating mass arrests of suspected gang members, with approximately 17,000 people detained <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>, <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
+
+## [[controversial_measures_and_human_rights_concerns_in_el_salvador | Controversial Measures and Concerns]]
+In addition to the [[el_salvador_state_of_emergency_and_gang_violence | state of emergency]] and mass arrests, the country introduced a raft of other harsh new measures <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>, <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>, <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>, <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>:
+*   Reducing the age of criminal responsibility <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
+*   Implementing longer prison sentences <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
+*   Criminalizing reporting on gang activities that could "generate panic and anxiety amongst the general population," an offense carrying up to 15 years in jail <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>, <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>, <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>.
+
+These measures have drawn heavy criticism from leading international [[controversial_measures_and_human_rights_concerns_in_el_salvador | human rights]] organizations, including the UN Office for the High Commissioner for Human Rights, and the US State Department <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>, <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>, <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>, <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>. The US State Department specifically insisted that "journalists must have the freedom to do their jobs without fear of violence threats or unjust attention" <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>, <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>.
+
+These steps are particularly controversial amidst growing fears about El Salvador's broader direction. While President Bukele enjoys high approval ratings, often exceeding 85 percent, concerns have been raised about his increasing authoritarianism <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>, <a class="yt-timestamp" data-t="00:11:08">[00:11:08]</a>. In September 2021, the United States sanctioned five Supreme Court judges appointed to rule in favor of a second presidential term for Bukele, in contravention of a constitutional time limit <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>, <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>, <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>.
+
+El Salvador now stands at a crucial juncture, having significantly reduced gang violence under Bukele's leadership, but simultaneously facing accusations that the president is using the issue to cement his control over the country <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>, <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>, <a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>.

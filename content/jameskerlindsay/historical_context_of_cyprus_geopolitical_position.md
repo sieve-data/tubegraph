@@ -1,0 +1,62 @@
+---
+title: Historical context of Cyprus geopolitical position
+videoId: ubkDjUoIpJU
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+The island of Cyprus, the European Union's most easterly member, often finds itself navigating a complex and challenging political environment due to its unique geopolitical position <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>. Sitting across distinct regions and geopolitical blocs, Cyprus must often balance competing actors and demands, which can lead to tensions between its foreign policy objectives and those of its partners and allies <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>.
+
+## Geographical Location
+
+The Republic of Cyprus is located at the far eastern end of the Mediterranean Sea <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>. Its closest neighbours are Turkey (approximately 65 km or 40 miles to its north), Syria (around 100 km or 60 miles to its east), Lebanon and Israel to its southeast, and Egypt to its south <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. Its nearest EU neighbour, Greece, is 400 km to its west <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>. The island spans about 9,300 km² (3,600 square miles) <a class="yt-timestamp" data-t="02:02:00">[02:02:00]</a>.
+
+## Early History and Foreign Rule
+
+Cyprus boasts an exceptionally rich history, straddling both Europe and the Middle East <a class="yt-timestamp" data-t="02:30:00">[02:30:00]</a>. First settled at least 12,000 years ago, its initial Greek inhabitants are thought to have arrived around 4,000 years ago during the Bronze Age <a class="yt-timestamp" data-t="02:36:00">[02:36:00]</a>. Over millennia, the island came under the rule of nearly every major civilization that controlled the eastern Mediterranean <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>.
+
+Following its conquest by Alexander the Great's army, Cyprus was ruled by Egypt until it became part of the Roman Empire in 58 BC <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. When the Roman Empire split in the 4th century AD, Cyprus joined the Eastern or Byzantine Empire, enduring regular Arab Islamic raids from the 7th to the 10th centuries <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a>.
+
+During the Third Crusade in the 12th century, Richard the Lionheart conquered the island before selling it to the Knights Templar <a class="yt-timestamp" data-t="03:14:00">[03:14:00]</a>. It then passed to the Lusignan Kings of Jerusalem for 300 years, until the Venetian Republic seized it in 1489 <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>. Eighty years later, in 1571, the Ottoman Empire conquered the island, a rule that lasted until 1878, when Cyprus came under British colonial control <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>.
+
+## Independence and Division
+
+In 1955, the Greek Cypriot community, comprising almost 80% of the island's inhabitants, launched an uprising to end British rule and unite the island with Greece <a class="yt-timestamp" data-t="03:44:00">[03:44:00]</a>. However, Turkish Cypriots, roughly a fifth of the population, opposed this, preferring the island to be divided between Greece and Turkey <a class="yt-timestamp" data-t="03:56:00">[03:56:00]</a>. As tensions escalated between the communities, fears grew that NATO allies Greece and Turkey would be drawn into the situation <a class="yt-timestamp" data-t="04:06:00">[04:06:00]</a>.
+
+Consequently, Athens and Ankara decided that Cyprus should become an independent state <a class="yt-timestamp" data-t="04:14:00">[04:14:00]</a>. Greek and Turkish Cypriots were to share power, and Greece, Turkey, and Britain would guarantee the new state's independence, with a right of unilateral military intervention if necessary <a class="yt-timestamp" data-t="04:22:00">[04:22:00]</a>. Despite the guarantor powers being NATO members, Cyprus opted not to join the alliance <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a>. Greek Cypriots believed NATO would favour Turkey, while Ankara feared NATO would prevent its intervention <a class="yt-timestamp" data-t="04:48:00">[04:48:00]</a>.
+
+Under its first president, Archbishop Makarios, the new republic joined the Non-Aligned Movement <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>, which included many leading Arab states such as Egypt, Syria, Iraq, Lebanon, and Saudi Arabia <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>. This led to Cyprus forging close ties with its Middle Eastern neighbours <a class="yt-timestamp" data-t="05:23:00">[05:23:00]</a>.
+
+However, the breakdown of the constitution in 1963, just three years after independence in 1960, became a defining factor in Cyprus's regional relations <a class="yt-timestamp" data-t="05:30:00">[05:30:00]</a>. Although the United Nations established a peacekeeping force and initiated peacemaking efforts, tensions persisted <a class="yt-timestamp" data-t="05:43:00">[05:43:00]</a>.
+
+In July 1974, following a coup sponsored by the military government in Greece, Turkey invaded, taking control of just over a third of the island <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. This invasion had profound internal effects and cemented Cyprus's foreign policy <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>. Anti-Western sentiment grew among many Greek Cypriots who blamed NATO and the United States for failing to stop Turkey, thereby strengthening the country's ties to the Non-Aligned Movement <a class="yt-timestamp" data-t="06:09:00">[06:09:00]</a>. Cyprus increasingly relied on its Arab neighbours as a valuable voting bloc at the United Nations, especially as they also distrusted Turkey, which had strong ties to the West and Israel <a class="yt-timestamp" data-t="06:20:00">[06:20:00]</a>.
+
+## Evolving Regional Relationships
+
+Over decades, Cyprus's relations with the Arab Middle East steadily strengthened <a class="yt-timestamp" data-t="06:39:00">[06:39:00]</a>. The island became a sanctuary during the Lebanese civil war in the 1980s and an important base for businesses operating across the region <a class="yt-timestamp" data-t="06:45:00">[06:45:00]</a>.
+
+Conversely, Cyprus's relationship with Israel remained poor <a class="yt-timestamp" data-t="06:57:00">[06:57:00]</a>. The Cypriot government sought to avoid antagonizing its Arab neighbours, and many ordinary Greek Cypriots were strongly pro-Palestinian <a class="yt-timestamp" data-t="07:02:00">[07:02:00]</a>. Israel, meanwhile, prioritized its close alliance with Turkey, one of the few Muslim-majority countries that recognized it, over any relations with Cyprus <a class="yt-timestamp" data-t="07:10:00">[07:10:00]</a>. This deep mistrust occasionally led to tensions, such as when Cyprus jailed two Israelis for spying in 1998 <a class="yt-timestamp" data-t="07:21:00">[07:21:00]</a>.
+
+### EU Membership and Humanitarian Role
+
+After decades of close relations with the Arab world, Cyprus's entry into the European Union in 2004 marked a significant shift <a class="yt-timestamp" data-t="07:31:00">[07:31:00]</a>. While many expected Cyprus to shift its focus away from the Middle East, a condition of EU membership was leaving the Non-Aligned Movement, and Cyprus gained the backing of over two dozen European partners <a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a>.
+
+However, any notion that Cyprus could isolate itself from the Middle East was quickly disproven <a class="yt-timestamp" data-t="07:57:00">[07:57:00]</a>. This was highlighted in 2006 when war broke out in southern Lebanon between Israel and the Iranian-backed Hezbollah militia <a class="yt-timestamp" data-t="08:07:00">[08:07:00]</a>. Cyprus became the centre of a massive international evacuation effort for tens of thousands of foreigners fleeing the conflict <a class="yt-timestamp" data-t="08:15:00">[08:15:00]</a>. This cemented the island's value as a hub for EU humanitarian and crisis management in the Middle East <a class="yt-timestamp" data-t="08:23:00">[08:23:00]</a>.
+
+This role has again come to the fore with the war in Gaza, where Cyprus, working with the EU, the US, and other partners, established the Cyprus Maritime Corridor to provide vital assistance <a class="yt-timestamp" data-t="08:32:00">[08:32:00]</a>. As tensions grow between Israel and Hezbollah on the Lebanese border, Cyprus is once more preparing to handle potential regional conflict, underscoring its pivotal [[Cyprus role in international aid to Gaza | role in international aid]] <a class="yt-timestamp" data-t="08:50:00">[08:50:00]</a>.
+
+### Improved Relations with Israel
+
+A dramatic improvement in relations between Cyprus and Israel occurred around 2010 <a class="yt-timestamp" data-t="09:56:00">[09:56:00]</a>. This followed Turkey's election of a religiously oriented government under Recep Tayyip Erdogan in 2002 <a class="yt-timestamp" data-t="09:17:00">[09:17:00]</a>. Erdogan's attempts to build ties with Arab and Muslim countries and his vocal support for the Palestinian cause led to a deterioration of the previously strong Turkey-Israel relationship, culminating in a collapse of ties in 2010 after an Israeli raid on a Turkish aid ship <a class="yt-timestamp" data-t="09:28:00">[09:28:00]</a>.
+
+With Israel no longer tied to Ankara, and as Cyprus moved in a more pro-Western direction under a new president, high-level contacts quickly grew <a class="yt-timestamp" data-t="10:10:00">[10:10:00]</a>. This included the signing of a maritime boundary agreement following the discovery of natural gas deposits in the Eastern Mediterranean <a class="yt-timestamp" data-t="10:02:00">[10:02:00]</a>. Bilateral agreements expanded across various areas, notably military cooperation <a class="yt-timestamp" data-t="10:17:00">[10:17:00]</a>. This was highlighted in May 2023 when the Cyprus National Guard and Israeli Defense Forces staged major joint exercises on the island, widely understood to simulate a war against Hezbollah in Lebanon <a class="yt-timestamp" data-t="10:28:00">[10:28:00]</a>.
+
+## Current Geopolitical Challenges
+
+This backdrop led to Hezbollah's leader, Hassan Nasrallah, warning on June 19th that if Cyprus allowed Israel to use its airports or bases to attack Lebanon, it would be considered part of the war, implying potential Hezbollah missile or drone attacks against the island <a class="yt-timestamp" data-t="10:49:00">[10:49:00]</a>.
+
+The Cypriot government, through President Nikos Christodoulides, insisted Cyprus was not involved in planning military conflicts <a class="yt-timestamp" data-t="11:12:00">[11:12:00]</a>. EU leaders condemned threats against a fellow member, underscoring solidarity with Cyprus, with European officials stating that any attack against Cyprus would be an attack against the rest of the Union <a class="yt-timestamp" data-t="11:30:00">[11:30:00]</a>. The EU likely made it clear to Iran, Hezbollah's patron, that a strike against Cyprus would carry serious consequences <a class="yt-timestamp" data-t="11:45:00">[11:45:00]</a>.
+
+Despite its increasingly close ties with Israel, Cyprus continues to maintain strong relations with many Arab countries, including Egypt and Gulf Arab states <a class="yt-timestamp" data-t="13:32:00">[13:32:00]</a>. The island is also perceived as a safe and neutral territory by many across the region, with Israelis and Lebanese buying property there as a refuge from growing regional uncertainty <a class="yt-timestamp" data-t="14:04:00">[14:04:00]</a>.
+
+Recent events have underscored the foreign policy complexities facing countries like Cyprus that sit on geopolitical fault lines <a class="yt-timestamp" data-t="14:17:00">[14:17:00]</a>. While it has become a valuable part of EU efforts to play a humanitarian role, its close bilateral relationship with Israel now seemingly puts the country at risk <a class="yt-timestamp" data-t="14:26:00">[14:26:00]</a>. This raises questions about the future direction of Cyprus's foreign policy and the potential need for recalibration <a class="yt-timestamp" data-t="14:41:00">[14:41:00]</a>, and underscores the degree to which Cyprus has made the EU a frontline actor in the Middle East <a class="yt-timestamp" data-t="14:53:00">[14:53:00]</a>.

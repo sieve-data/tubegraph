@@ -1,0 +1,46 @@
+---
+title: Hungarys relations with Russia and Ukraine
+videoId: 6441NvZpJlo
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+In recent years, significant concern has arisen regarding Hungary's trajectory under its leader, Viktor Orbán <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Beyond challenging democratic freedoms domestically <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, Orbán has been perceived as undermining Western unity, particularly concerning [[russia_ukraine_conflict | Ukraine]] <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. Many observers believe his extensive efforts to challenge Western positions actively serve Russia's interests <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+
+## Hungary's Shift from Western Values
+
+Historically, Hungary oriented itself towards the West following the Cold War <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. It applied for EU membership in 1994 and joined NATO in March 1999, alongside the Czech Republic and Poland <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. In May 2004, it joined the European Union <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. Initially, Hungary was considered a success story of EU and NATO enlargement, transitioning well to democracy and attracting international investment <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>.
+
+However, a significant shift occurred with the Fidesz party's landslide victory in May 2010, bringing Viktor Orbán back as prime minister <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. Despite his prior reputation as an internationalist liberal <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>, Orbán quickly introduced measures restricting press freedoms <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a> and later clamped down on civil liberties and human rights <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>. By 2014, he openly declared his vision for Hungary as an "illiberal democracy" <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
+
+Orbán's policies also included overt nationalism and xenophobia, antagonizing neighbors by strengthening ties with Hungarian communities abroad and becoming explicitly anti-immigrant <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. During the 2015 Refugee Crisis, he undermined EU solidarity by refusing to resettle asylum seekers, calling them "potential terrorists" <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
+
+### Challenges to EU Membership Values
+
+Despite mounting criticism, Orbán appeared untroubled, often reveling in his notoriety <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>. This was partly due to the EU's persistent failure to effectively address his behavior, with Hungary skillfully navigating the bloc's politics <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>. Even after the European Parliament voted to start infringement proceedings in 2018, Orbán remained secure, knowing that any serious action, like the "nuclear option" of suspending membership rights, required unanimous support from other member states <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>. This was blocked by Poland, which had also taken an illiberal turn and served as Hungary's closest ally <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+
+By 2019, Freedom House downgraded Hungary's democratic standards to "partly free," noting Orbán's control over various sectors, including opposition, media, religious groups, and courts <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. Many observers concluded that Hungary had become a corrupt one-party state <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>, with fears that it was becoming a model for others <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>.
+
+## Hungary's Stance on the [[russia_ukraine_conflict | Russia-Ukraine Conflict]]
+
+The [[russia_ukraine_conflict | war in Ukraine]] brought Hungary to wider international attention <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. With the start of the Russian invasion, there were fears that Hungary would obstruct Western actions against Moscow <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>. This concern stemmed from the close relationship between Orbán and Putin, and strained relations between Budapest and Kyiv over the Hungarian minority in [[russia_ukraine_conflict | Ukraine]] <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>.
+
+Initially, Orbán surprised observers by opposing the invasion and supporting EU sanctions against Moscow, though Hungary did hamper NATO efforts to supply military aid to [[russia_ukraine_conflict | Ukraine]] by restricting its airspace to Ukrainian aircraft <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>. This initial stance was suggested to be a pre-election tactic, given domestic memories of the 1956 uprising <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+
+After Fidesz secured another landslide victory, congratulated by Putin, Orbán swiftly changed his position <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>. Hungary became increasingly obstructive, trying to limit the scale of further sanctions on [[serbias_relationship_with_russia | Russia]] and refusing to back EU proposals to reduce Russian gas consumption, which eventually led to Hungary's exemption <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a>. The country was already negotiating increased supplies of Russian gas <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
+
+Additionally, Hungary, alongside [[turkeys_foreign_relations_with_russia_and_the_west | Turkey]], has not yet ratified Sweden and Finland's NATO membership <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. Orbán's rhetoric has also grown more openly nationalist and racist, notably stating in July 2022 that Hungarians did not want to become a "mixed race," comments widely condemned internationally <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>.
+
+### The "Trojan Horse" Hypothesis
+
+Many believe Orbán is acting on [[serbias_relationship_with_russia | Russia]]'s behalf, suggesting Hungary serves as "Moscow's Trojan Horse within the West" <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. While this possibility aligns with observed patterns of Russian interference <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>, Orbán's position could also stem from self-centered motives <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>. These include a genuine commitment to authoritarian national populism, admiration for Putin, a desire to antagonize Western partners, a diversion for wholesale corruption, or simply prioritizing Hungary's economic interests over solidarity with EU and NATO partners or [[russia_ukraine_conflict | Ukraine]] <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>.
+
+## Western Response and Future Outlook
+
+Despite the reasons, the tide may be turning against Hungary <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>. In February 2022, the European Court of Justice ruled that EU funds can be withheld from members failing to uphold the body's fundamental values <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>. Consequently, in September, the European Commission announced plans to withhold 7.5 billion euros in funding due to persistent public procurement corruption <a class="yt-timestamp" data-t="00:11:40">[00:11:40]</a>.
+
+While Budapest has agreed to introduce measures to address the problem, skepticism remains, with many believing Orbán will only comply enough to overcome the immediate issue before reverting to his old ways <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>. Critics argue that he remains deeply intolerant, authoritarian, and xenophobic <a class="yt-timestamp" data-t="00:12:04">[00:12:04]</a>.
+
+Calls for Hungary's expulsion from NATO and the EU have emerged <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>. However, expulsion is not possible as there is no established mechanism for it in either organization <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>. Despite Orbán's misdeeds, there is a deep reluctance to pursue such a radical and unprecedented step <a class="yt-timestamp" data-t="00:12:29">[00:12:29]</a>.
+
+Nonetheless, inaction carries significant risks <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>. Hungary's position on democratic standards, civil liberties, human rights, and its approach to [[serbias_relationship_with_russia | Russia]] fundamentally diverge from the values of almost all its EU and NATO partners <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>. By not acting decisively, both organizations risk undermining their own values and inadvertently encouraging other members to follow Hungary's path <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>. The West faces a critical challenge in determining its long-term strategy for dealing with its "Hungary problem" <a class="yt-timestamp" data-t="00:13:15">[00:13:15]</a>.

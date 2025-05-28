@@ -1,0 +1,70 @@
+---
+title: The history and development of Turkeys political landscape
+videoId: q81bHBsBXZY
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+Turkey is currently experiencing a significant political battle that could shape its future direction <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a> <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. Recent events, such as the arrest of Istanbul Mayor Ekrem Imamoğlu on corruption charges, have sparked widespread protests <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a> <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a> <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. While many interpret this as [[erdogans_administration_and_changing_political_outlook | President Recep Tayyip Erdogan's]] attempt to retain power <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>, it could also be a strategic move to pave the way for a successor <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a> <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>.
+
+## Historical Context of Modern Turkey
+
+The Republic of Turkey, officially known as Türkiye, is situated on the Anatolian Peninsula, connecting Southeast Europe and the Middle East <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. It has a population of approximately 86 million across 785,000 square kilometers <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>. The majority of its population are ethnic Turks and predominantly Sunni Muslim, but it also includes ethnic and religious minorities such as Kurds, Greeks, Jews, and Armenians <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.
+
+### Formation of the Republic
+
+Modern Turkey emerged after the First World War when Turkish nationalist forces, led by General Mustafa Kemal, resisted European powers' attempts to partition the remnants of the Ottoman Empire <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a> <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. The Republic of Turkey was established in 1923 <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+
+In the subsequent years, radical social, political, and economic policies transformed the new country <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. These included a new alphabet based on the Latin script and a strict separation between religion and state <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. Despite introducing some elements of democracy, such as women's right to vote, the country maintained an authoritarian structure in its early years <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. Mustafa Kemal, known as Atatürk, served as Turkey's first president until his death in 1938, succeeded by his trusted ally and prime minister, İsmet İnönü <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. During this period, Atatürk's Republican People's Party dominated politics, with free and open elections prohibited <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>.
+
+### Transition to Multi-Party Democracy and Military Interventions
+
+Turkey's political landscape began to shift after the Second World War <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. In 1946, it became a multi-party democracy, holding its first competitive parliamentary elections in 1950 <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. These elections were won by the Democrat Party, led by Adnan Menderes, who became prime minister for the next decade <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. However, amidst increasing political polarization and accusations of authoritarianism, Menderes was overthrown by a military coup in 1960 and later executed <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
+
+While civilian rule returned in 1961, political turmoil persisted, leading to further military interventions in 1971 and a full-scale military coup in 1980 <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a> <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a> <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. Despite the reintroduction of democracy, the 1990s saw the country descend into chaos, characterized by a fragmented political system and a growing Kurdish insurgency <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a> <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>.
+
+### The Rise of Political Islam
+
+A new concern for the military, which closely monitored the government, was the growing influence of political Islam <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a> <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>. The roots of this challenge to Turkey's traditional secularism dated back decades <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. In 1972, Necmettin Erbakan established the openly religious National Salvation Party <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>. This party gained parliamentary seats and joined coalition governments in the 1970s but was banned after the 1980 coup <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>.
+
+After democracy was restored, Erbakan formed the Welfare Party, which steadily gained strength <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. In 1996, Erbakan became Turkey's first Islamist prime minister <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>. However, his tenure was cut short a year later when the military forced him from office and banned the party <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+
+## The [[erdogans_rise_to_power_and_political_career | Erdogan Era]]
+
+It was during this period that [[erdogans_rise_to_power_and_political_career | Recep Tayyip Erdogan]], a protégé of Erbakan, rose to prominence <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>.
+
+### Early Years and Reforms
+
+[[erdogans_rise_to_power_and_political_career | Erdogan]] first gained national attention as the Mayor of Istanbul in 1994 <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>. After the Welfare Party's ban, he was jailed for four months for religious incitement <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. In 2001, he founded the Justice and Development Party (AKP) <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>. The AKP won a landslide victory in the November 2002 parliamentary elections <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>. Despite being initially barred from running due to his conviction, the ban was overturned, and [[erdogans_rise_to_power_and_political_career | Erdogan]] became prime minister on March 14, 2003 <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a> <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>.
+
+Initially, many were suspicious of [[erdogans_rise_to_power_and_political_career | Erdogan]], fearing he would aggressively promote Islamic views <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>. However, he began by pursuing a modernizing agenda, including efforts to join the European Union and curtailing the military's power <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a> <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>. These policies led to further electoral victories in 2007 and 2011 <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+
+### Shift Towards Authoritarianism and Consolidation of Power
+
+By the end of his first decade in office, concerns about [[erdogans_administration_and_changing_political_outlook | Erdogan's]] increasing authoritarianism grew <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a> <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. This became evident during mass demonstrations in 2013 when he introduced restrictions on civil liberties, including limits on protest rights, media restrictions, and curbs on free speech <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>.
+
+[[the_transformation_of_turkey_under_erdogans_leadership | Erdogan]] continued to consolidate his power. In 2014, he transitioned from prime minister to president <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a> <a class="yt-timestamp" data-t="00:07:21">[00:07:21]</a>. After surviving an attempted coup in 2016, he launched a massive crackdown, imposing new restrictions and purging government, military, judiciary, schools, and universities of opposition <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. He also successfully amended the constitution, abolishing the prime minister post and establishing a US-style executive presidency <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>. By this point, [[the_transformation_of_turkey_under_erdogans_leadership | Erdogan's rule]] had become openly authoritarian <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>. He won the country's first presidential election in 2018, further strengthening his position by continuing his crackdown on the opposition <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>.
+
+## The Succession Question and Recent Events
+
+Approaching his 70th birthday, [[erdogans_administration_and_changing_political_outlook | Erdogan]] has appeared increasingly frail, with persistent rumors about his health <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>. Under the current constitution, he would not be permitted to seek a third term when his office ends in 2028 <a class="yt-timestamp" data-t="00:08:19">[00:08:19]</a>. He has even hinted at retirement <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>.
+
+Despite these hints, there are recent suggestions that [[erdogans_administration_and_changing_political_outlook | Erdogan]] is exploring ways to circumvent constitutional restrictions to run again <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a> <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. This comes as the Republican People's Party (RPP) was preparing to select Istanbul Mayor Ekrem Imamoğlu as their presidential candidate <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>.
+
+### The Imamoğlu Incident
+
+The latest political crisis was sparked on March 18 when Istanbul University revoked Imamoğlu's degree, citing irregularities from his studies in Northern Cyprus <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a> <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. This was critical because the Turkish constitution requires a university diploma for the president <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a>. The following morning, Imamoğlu was arrested along with a hundred others on suspicion of corruption and embezzlement <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.
+
+The news ignited widespread outrage, leading hundreds of thousands to protest in Istanbul, despite a four-day ban on demonstrations <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>. Observers largely viewed these actions as a blatant attempt by [[erdogans_administration_and_changing_political_outlook | the Turkish leader]] to remove a significant political threat <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>. The RPP leader denounced the move as "a coup d’état against the people's right to elect their leader" <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>.
+
+### Potential Successors
+
+While the immediate interpretation is that [[erdogans_administration_and_changing_political_outlook | Erdogan]] is trying to hold on to power, his age and frailty suggest he might be clearing the way for a designated successor <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a> <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a> <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>. Speculation regarding this has increased in recent years <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>.
+
+[[the_influence_of_erdogans_family_and_allies_on_turkeys_politics | Several figures stand out]]:
+*   **Bilal Erdogan** - [[the_influence_of_erdogans_family_and_allies_on_turkeys_politics | Erdogan's]] second son, often suggested but considered unlikely due to his focus on business rather than active politics <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>.
+*   **Berat Albayrak** - [[the_influence_of_erdogans_family_and_allies_on_turkeys_politics | Erdogan's]] son-in-law, married to his daughter Esra <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>. He served as energy minister and then finance minister and was long seen as the natural successor <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>. However, he resigned in 2020 after policy failures and clashes, and has since faded from public attention <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>.
+*   **Selçuk Bayraktar** - [[the_influence_of_erdogans_family_and_allies_on_turkeys_politics | Erdogan's]] other son-in-law <a class="yt-timestamp" data-t="00:11:56">[00:11:56]</a>. He has gained national prominence as the head of a highly successful military drone manufacturer, known for one of Turkey's most successful technology exports <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>. This has made him respected and popular, especially in nationalist circles, though he currently lacks government experience <a class="yt-timestamp" data-t="00:12:09">[00:12:09]</a>.
+*   **Hakan Fidan** - The Foreign Minister <a class="yt-timestamp" data-t="00:12:29">[00:12:29]</a>. Having served as the head of the intelligence service, he is seen as a close and trusted ally, but is not a member of the AKP <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
+
+These recent events may signify a broader effort by [[erdogans_administration_and_changing_political_outlook | Erdogan]] to ensure political control passes to a chosen successor, either in the scheduled 2028 elections or after another presidential run to buy more time for preparation <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>. The arrest of Imamoğlu is thus crucial for Turkey's long-term future direction <a class="yt-timestamp" data-t="00:13:15">[00:13:15]</a>.

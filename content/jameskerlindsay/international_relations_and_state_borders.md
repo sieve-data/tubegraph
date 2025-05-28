@@ -1,0 +1,60 @@
+---
+title: International relations and state borders
+videoId: ZaQ7uZWvFvs
+---
+
+From: [[jameskerlindsay]] <br/> 
+
+The current era is witnessing challenges to many long-standing rules of [[international_relations_and_war | international relations]], particularly the principle that state borders are sacrosanct <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. The modern international system is founded on the principle that countries will respect each other's territorial integrity <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. This principle has largely held true since 1945, with few wars of conquest across Africa, Asia, Europe, and the Americas over the past 80 years <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+
+However, this understanding is now being challenged as never before <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. Alongside Russia's invasion of Ukraine, increasing threats from Donald Trump against Canada, Panama, and NATO ally Denmark over Greenland highlight this shift <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+
+## Greenland: A Case Study in Border Disputes
+
+Donald Trump's interest in seizing Greenland has caused an international stir, as he explicitly refused to rule out using military force to take control of the Danish territory <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. He views Greenland as vital to US security interests <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+
+### Geography and Demographics
+Greenland, located between the Atlantic and Arctic oceans, is the world's largest island, covering 2.2 million square kilometers (840,000 square miles) <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. Its western edge is just 26 km (16 miles) from Canada's Ellesmere Island, and Iceland is 740 km (460 miles) to its east <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+
+The island has a population of around 56,000, with about 80% of the country covered in ice <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. Most inhabitants live along the coastal regions, including the capital, Nuuk <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. Nearly 90% of the population is of native Inuit origin, with the remaining 10% being Danish or mixed heritage <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+
+### Historical Background
+Greenland's history dates back approximately 4,500 years with the arrival of the first settlers from North America <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. These original inhabitants survived until the 11th century when the ancestors of the modern Inuit population arrived <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. Norse settlers from Iceland also arrived around this time but disappeared by the 15th century due to climate conditions and conflict with the Inuit <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+
+Danish involvement began in the early 18th century, leading to Greenland becoming part of the joint state of Denmark-Norway <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. When the union ended in 1814 under the Treaty of Kiel, Denmark retained control over Greenland <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+
+During the Second World War, following Denmark's fall to Nazi Germany in 1941, the United States oversaw the territory for several years and established an important airbase <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. Although Denmark regained control after the war, the US base remained, serving as a crucial intelligence, early warning, and refueling facility throughout the Cold War <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+In 1953, Greenland's colonial status was abolished, and it became a Danish province <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>. It was granted self-rule in 1979 <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>, and in 2009, local power was expanded, allowing Greenlanders to control most aspects of their governance, including health, education, natural resources, and the local economy <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. Denmark continues to manage foreign affairs, security, and defense, providing approximately a fifth of Greenland's income through a yearly grant of about half a billion USD <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>. The islanders have their own political institutions, including a prime minister, executive, and parliament <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>.
+
+### Independence Debate and Geopolitical Significance
+Despite close ties with Denmark, there have been growing calls for independence in recent years, with many seeing it as time for Greenland to become a separate sovereign state <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>. However, concerns about Greenland's viability as a fully independent country exist due to its small population and economic reliance on Denmark <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>, making independence a longer-term goal rather than an immediate priority <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.
+
+The debate has shifted recently due to broader geopolitical developments and environmental factors <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. Global warming and melting Arctic ice are making Greenland an increasingly significant point for new shipping routes and are making previously hard-to-reach resources more accessible <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. It is against this backdrop that Trump turned his attention to Greenland <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>.
+
+### Trump's Interest and International Reactions
+In December 2024, President-elect Trump stated on social media that the United States considered ownership and control of Greenland essential for its national security and freedom <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>. This is not a new idea; Trump previously proposed purchasing Greenland in 2019 <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>, a suggestion dismissed as "absurd" by Danish Prime Minister Mette Frederiksen, leading to Trump canceling a planned state visit <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+
+Although officials from Denmark and Greenland have again rejected Trump's calls, insisting the territory is not for sale <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>, fears persist that something more dangerous may be at play <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>. In January 2025, Trump explicitly refused to rule out military action to seize Greenland <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+
+Observers note that Trump's comments now appear to have a more serious and calculated intent, driven by genuine security concerns over Greenland's status in the changing geopolitical context <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>. Greenland is seen as vital for reigning in Russian and Chinese activities in the Arctic <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. This perceived seriousness has led to strong international responses <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>.
+
+Denmark has firmly rejected the claims and increased its defense commitment to Greenland, though it acknowledges this is insufficient to ward off any US attack <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>. Key European partners, such as France and Germany, have insisted that Greenland is subject to the European Union's mutual defense provisions <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. However, EU officials have been cautious about what the Union would actually do if Trump acted on his threats <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>.
+
+### Potential Scenarios for Acquisition
+
+**Peaceful Acquisition (Purchase)**
+The most obvious route for the US to acquire Greenland would be peacefully, perhaps by purchasing it <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>. However, Denmark cannot simply sell it; the decision would require Greenland's approval, likely involving promises of significant public spending <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>. If acquired, Greenland's exact status would need to be determined, as full federal statehood would be unlikely due to its tiny population <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>. It would more likely have a status similar to Puerto Rico or other US overseas territories <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a>. Many might view Greenland's current relationship with Denmark as better in the long run than being under US control <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
+
+**Military Action (Invasion)**
+If peaceful efforts fail and Trump pursues an invasion, the diplomatic and political implications would be immense <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>. An attack on Greenland would be a direct strike against a NATO ally, creating an unprecedented crisis within the organization <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a>. While NATO members have had tensions, this would be the first formal attempt by one member to seize territory from another <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>.
+
+It is inconceivable that Denmark's EU partners would respond militarily <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>. Instead, they would likely pursue strong diplomatic, political, and economic measures, such as imposing sanctions <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. This could lead to US retaliation and a fundamental breakdown of Western relations <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>. Trump might even use the opportunity to withdraw the United States from NATO <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
+
+### Consequences of Normalizing Border Threats
+While a worst-case scenario, Trump's statements are considered extremely dangerous <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>. They normalize the idea that states can threaten to use force to seize territory <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>. This will have worrying knock-on effects, potentially returning [[international_relations_and_war | international relations]] to a "might-is-right" power politics era marked by regular wars if countries like Russia and the United States freely talk about seizing land from others <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>.
+
+### Alternative: Free Association
+An option acceptable to all parties could be the concept of free association within [[international_relations_and_conflict_resolution | international relations]] <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>. This allows small independent states to develop a formal relationship with a larger country, which would oversee their foreign and defense policies <a class="yt-timestamp" data-t="00:12:17">[00:12:17]</a>. The United States already has such agreements with the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, all separate UN members <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>.
+
+This could be an option for Greenland, potentially even in conjunction with Denmark, creating a unique hybrid model <a class="yt-timestamp" data-t="00:12:41">[00:12:41]</a>. This approach would give Greenland the independence many desire, the security and support it would still need, and direct US control over important aspects of security and defense <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>. The key question remains whether this would satisfy Trump's ambition, or if his true aim is complete US control <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>.

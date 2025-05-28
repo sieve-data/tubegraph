@@ -1,0 +1,37 @@
+---
+title: Role of international law in border conflicts
+videoId: wVHRtHF8UGQ
+---
+
+From: [[jameskerlindsay]] <br/> 
+The [[role_of_international_actors_and_geopolitical_implications | Role of International Law]] in border conflicts is foundational to the accepted global order, aiming to prevent endless territorial disputes and ensure the peaceful settlement of disagreements <a class="yt-timestamp" data-t="01:10:10">[01:10:10]</a> <a class="yt-timestamp" data-t="01:38:38">[01:38:38]</a>.
+
+### Post-Colonial Borders
+The world map is extensively covered in borders created by European colonialism <a class="yt-timestamp" data-t="00:45:45">[00:45:45]</a>. As decolonisation accelerated in the mid-20th century, the question of these boundaries became prominent <a class="yt-timestamp" data-t="01:02:02">[01:02:02]</a>. To prevent widespread territorial conflicts, it was generally agreed that colonial boundaries would become the borders of newly independent states <a class="yt-timestamp" data-t="01:10:10">[01:10:10]</a>. This principle has been largely respected, resulting in remarkably few post-colonial border disputes globally <a class="yt-timestamp" data-t="01:21:21">[01:21:21]</a> <a class="yt-timestamp" data-t="01:25:25">[01:25:25]</a>.
+
+### The Venezuela-Guyana Border Dispute
+One of the most significant current examples of a severe border dispute is between Venezuela and Guyana <a class="yt-timestamp" data-t="01:46:46">[01:46:46]</a> <a class="yt-timestamp" data-t="01:49:49">[01:49:49]</a>.
+
+#### Historical Context
+*   **Initial Resolution:** The dispute, which emerged from the different colonial claims of Spain (Venezuela) and Britain/Netherlands (Guyana), was initially resolved by arbitration in 1899 <a class="yt-timestamp" data-t="04:22:22">[04:22:22]</a> <a class="yt-timestamp" data-t="05:11:11">[05:11:11]</a>. The court awarded most of the disputed territory to Britain, and Venezuela accepted the outcome, leading to a formal border demarcation in 1905 <a class="yt-timestamp" data-t="05:22:22">[05:22:22]</a> <a class="yt-timestamp" data-t="05:30:30">[05:30:30]</a>.
+*   **Resurrection of Dispute:** The issue was resurrected in 1962, as British Guiana prepared for independence. Venezuela suddenly refused to accept the 1899 ruling, calling it "null and void" <a class="yt-timestamp" data-t="05:50:50">[05:50:50]</a> <a class="yt-timestamp" data-t="06:00:00">[06:00:00]</a>.
+
+#### Mechanisms for Peaceful Settlement
+Acknowledging the dispute, Britain and Venezuela agreed on mechanisms for its peaceful resolution:
+*   **Post-Independence Commission:** They decided that a new commission would be created after Guyana's independence to search for a practical settlement <a class="yt-timestamp" data-t="06:15:15">[06:15:15]</a>. This commission's mandate ended in 1970 without an agreement <a class="yt-timestamp" data-t="06:47:47">[06:47:47]</a>.
+*   **UN Secretary-General's Authority:** Crucially, they agreed that if this process failed, the UN Secretary-General would have the authority to determine a settlement mechanism under Article 33 of the UN Charter, which governs the peaceful settlement of disputes <a class="yt-timestamp" data-t="06:24:24">[06:24:24]</a> <a class="yt-timestamp" data-t="06:29:29">[06:29:29]</a>.
+*   **UN Good Offices:** In 1990, the UN tried to break the deadlock by offering its "Good Offices," a form of light mediation, but this also failed to bridge the differences over decades <a class="yt-timestamp" data-t="06:58:58">[06:58:58]</a> <a class="yt-timestamp" data-t="07:06:06">[07:06:06]</a>.
+
+#### Role of the [[role_of_the_international_court_of_justice | International Court of Justice]] (ICJ)
+After five decades of discussions and failed mediation efforts, the UN Secretary-General decided in 2018 that the [[role_of_the_international_court_of_justice | International Court of Justice]] (ICJ), the UN's judicial organ, should determine the matter <a class="yt-timestamp" data-t="07:35:35">[07:35:35]</a> <a class="yt-timestamp" data-t="07:46:46">[07:46:46]</a>.
+*   **Jurisdiction Challenge:** Guyana referred the matter to the Court in March 2018 <a class="yt-timestamp" data-t="07:55:55">[07:55:55]</a>. Venezuela initially refused to participate, arguing the Court had no jurisdiction <a class="yt-timestamp" data-t="08:01:01">[08:01:01]</a>. However, in 2020, the judges decided they did have the authority to hear the case <a class="yt-timestamp" data-t="08:08:08">[08:08:08]</a>.
+*   **Provisional Measures:** In December 2023, following Venezuela's plans for a referendum to justify unilateral measures, Guyana appealed to the ICJ for provisional measures <a class="yt-timestamp" data-t="09:46:46">[09:46:46]</a> <a class="yt-timestamp" data-t="09:50:50">[09:50:50]</a>. The Court unanimously called on Venezuela to refrain from taking any action to modify the situation in the area under Guyana's control and urged both sides to avoid actions that could aggravate the issue <a class="yt-timestamp" data-t="09:54:54">[09:54:54]</a> <a class="yt-timestamp" data-t="09:58:58">[09:58:58]</a>.
+
+### Challenges to International Law
+Despite [[international_legal_proceedings_from_the_conflict | international legal proceedings]] and rulings, the situation has deteriorated:
+*   **Referendum and Annexation Claims:** Venezuela pressed ahead with its referendum despite the ICJ ruling <a class="yt-timestamp" data-t="10:14:14">[10:14:14]</a>. Following a "total success" vote, Venezuela announced it had annexed the territory, distributing new maps and ordering foreign companies to cease operations <a class="yt-timestamp" data-t="10:25:25">[10:25:25]</a> <a class="yt-timestamp" data-t="10:35:35">[10:35:35]</a>.
+*   **Threat of Force:** Venezuela's actions, including moving troops closer to the frontier, are seen by Guyana as an "existential threat" <a class="yt-timestamp" data-t="10:56:56">[10:56:56]</a> <a class="yt-timestamp" data-t="11:08:08">[11:08:08]</a>.
+*   **Violations of International Law:** Any military attack by Venezuela would fundamentally violate international law <a class="yt-timestamp" data-t="12:18:18">[12:18:18]</a>. The territory is internationally accepted as belonging to Guyana, and an invasion would lead to international outcry <a class="yt-timestamp" data-t="12:28:28">[12:28:28]</a> <a class="yt-timestamp" data-t="12:32:32">[12:32:32]</a>.
+*   **Geopolitical Implications:** While economic and political sanctions would likely be imposed, it's unclear if force would be used to reverse such an act <a class="yt-timestamp" data-t="12:37:37">[12:37:37]</a> <a class="yt-timestamp" data-t="12:45:45">[12:45:45]</a>. The [[role_of_foreign_nations_in_the_conflict | Russian government]], a staunch supporter of Venezuela, could block any UN Security Council resolution condemning an invasion, drawing parallels to its own annexation attempts in Ukraine <a class="yt-timestamp" data-t="12:58:58">[12:58:58]</a>.
+
+If Venezuela's actions with relative impunity are successful, it would mark another significant blow to the accepted global order and could encourage other states to question seemingly settled borders, potentially reshaping [[international_relations_and_state_borders | international relations]] in the 21st century <a class="yt-timestamp" data-t="13:53:53">[13:53:53]</a> <a class="yt-timestamp" data-t="14:00:00">[14:00:00]</a> <a class="yt-timestamp" data-t="14:04:04">[14:04:04]</a>.
