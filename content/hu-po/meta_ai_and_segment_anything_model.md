@@ -1,0 +1,51 @@
+---
+title: Meta AI and Segment Anything model
+videoId: eMFfMz9uYlc
+---
+
+From: [[hu-po]] <br/> 
+
+The Segment Anything Model (SAM) is a large segmentation model developed by [[metas_open_source_segmentation_models | Meta AI]] Research (formerly Facebook AI Research or FAIR) <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. It was [[model_architecture_and_data_quality_in_ai | pre-trained on a huge amount of data]] over a very long time <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. SAM is designed to segment anything in a zero-shot manner, meaning it can generalize to new images and tasks without additional training <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+
+## Key Components
+
+The Segment Anything project comprises three interconnected components <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>:
+1.  **Promptable Segmentation Task** <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>: This task defines the problem for the model. It involves returning valid segmentations given any prompt <a class="yt-timestamp" data-t="00:11:54">[00:11:54]</a>. The model supports flexible prompts, including spatial prompts like points or boxes, as well as text <a class="yt-timestamp" data-t="00:12:08">[00:12:08]</a>. If a prompt is ambiguous, the model is designed to output multiple masks for at least one of the objects <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>.
+2.  **Segmentation Model (SAM)** <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>: This is the core AI model. It consists of three parts <a class="yt-timestamp" data-t="00:13:52">[00:13:52]</a>:
+    *   **Image Encoder**: A powerful [[dinov2_and_meta_ais_vision_models | Vision Transformer]] (ViT) that runs once per image to create an image embedding <a class="yt-timestamp" data-t="00:14:51">[00:14:51]</a> <a class="yt-timestamp" data-t="00:38:03">[00:38:03]</a>. This is the heaviest part of the model in terms of computation and memory <a class="yt-timestamp" data-t="00:43:10">[00:43:10]</a>.
+    *   **Prompt Encoder**: Embeds the input prompts (e.g., points, boxes, text) <a class="yt-timestamp" data-t="00:13:59">[00:13:59]</a>. Sparse prompts like points and boxes are represented by positional encodings <a class="yt-timestamp" data-t="00:39:03">[00:39:03]</a>. Text prompts utilize a [[comparison_with_other_multimodal_ai_models | CLIP]] text encoder <a class="yt-timestamp" data-t="01:41:10">[01:41:10]</a>.
+    *   **Mask Decoder**: A lightweight transformer-based decoder block that combines the image and prompt embeddings to predict masks <a class="yt-timestamp" data-t="00:14:28">[00:14:28]</a> <a class="yt-timestamp" data-t="00:40:48">[00:40:48]</a>. It can predict multiple output masks and associated confidence scores (estimated IOU) <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>. The mask decoder and prompt encoder are designed for [[enhancements_in_ai_model_serving_processes | efficient model serving]], predicting a mask in approximately 50 milliseconds in a web browser demo <a class="yt-timestamp" data-t="00:14:55">[00:14:55]</a>.
+3.  **Data Engine (SA-1B Dataset)** <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>: This component is responsible for collecting the massive dataset used for training <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>. The SA-1B dataset contains over 1 billion masks on 11 million licensed and privacy-respecting images <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a> <a class="yt-timestamp" data-t="00:19:02">[00:19:02]</a>. It is 400 times larger in terms of masks than any existing segmentation dataset <a class="yt-timestamp" data-t="00:19:16">[00:19:16]</a>.
+
+### Data Engine Stages
+The data engine leverages a configurable loop between the model and data collection <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>:
+1.  **Assisted Manual Annotation Stage**: SAM assists human annotators in annotating masks, similar to classic interactive segmentation setups <a class="yt-timestamp" data-t="00:16:37">[00:16:37]</a>. Professional annotators (130 based in Kenya) used pixel-precise brush and eraser tools to refine masks <a class="yt-timestamp" data-t="01:04:07">[01:04:07]</a> <a class="yt-timestamp" data-t="02:04:09">[02:04:09]</a>. Average annotation time decreased from 34 to 14 seconds as the model improved <a class="yt-timestamp" data-t="00:53:17">[00:53:17]</a>.
+2.  **Semi-Automatic Stage**: The model automatically generates masks for a subset of objects by prompting with likely object locations, with human annotators filling in additional objects and reviewing <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a> <a class="yt-timestamp" data-t="00:54:10">[00:54:10]</a>. This stage collected an additional 5.9 million masks <a class="yt-timestamp" data-t="00:54:36">[00:54:36]</a>.
+3.  **Fully Automatic Stage**: The final stage used the ambiguity-aware model to automatically generate masks by prompting with a 32x32 regular grid of foreground points <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a> <a class="yt-timestamp" data-t="00:56:23">[00:56:23]</a>. This produced 1.1 billion high-quality masks from all 11 million images <a class="yt-timestamp" data-t="00:57:32">[00:57:32]</a>. Non-maximum suppression (NMS) and processing multiple overlapping zoomed-in image crops were used to refine quality <a class="yt-timestamp" data-t="00:57:04">[00:57:04]</a> <a class="yt-timestamp" data-t="00:57:16">[00:57:16]</a>.
+
+The model was retrained six times through this loop, improving its ability to generate masks and increasing the number of masks per image <a class="yt-timestamp" data-t="00:50:01">[00:50:01]</a> <a class="yt-timestamp" data-t="00:54:01">[00:54:01]</a>.
+
+## Performance and Generalization
+SAM's zero-shot performance is often competitive with or even superior to prior full-size results <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. This highlights the "power laws" in machine learning, where larger datasets yield better results <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>.
+
+The model is evaluated on diverse tasks and image distributions, including underwater, egocentric, and X-ray images <a class="yt-timestamp" data-t="01:10:13">[01:10:13]</a> <a class="yt-timestamp" data-t="01:15:24">[01:15:24]</a>.
+
+SAM's capabilities extend to:
+*   **Edge Detection**: By converting predicted masks into edge maps <a class="yt-timestamp" data-t="02:02:04">[02:02:04]</a>.
+*   **Object Proposal Generation**: Generating mask proposals for objects <a class="yt-timestamp" data-t="01:29:22">[01:29:22]</a>.
+*   **Instance Segmentation**: Working as a segmentation module alongside an object detector, using bounding box outputs as prompts <a class="yt-timestamp" data-t="01:13:07">[01:13:07]</a> <a class="yt-timestamp" data-t="01:32:11">[01:32:11]</a>.
+*   **Text-to-Mask Segmentation**: Using [[comparison_with_other_multimodal_ai_models | CLIP]]'s text encoder to prompt the model with free-form text <a class="yt-timestamp" data-t="01:39:11">[01:39:11]</a>. It can even combine text prompts with spatial points for more nuanced control <a class="yt-timestamp" data-t="01:43:09">[01:43:09]</a>.
+
+## Applications and Impact
+The project aims to make image segmentation more accessible and composable into larger AI systems <a class="yt-timestamp" data-t="01:48:56">[01:48:56]</a>. Potential [[alternative_uses_for_ai_models | alternative uses for AI models]] include:
+*   **Augmented Reality (AR) and Virtual Reality (VR)**: Integration with wearable devices that detect gaze points, enabling segmentation based on what a user is looking at and speaking about <a class="yt-timestamp" data-t="01:43:35">[01:43:35]</a> <a class="yt-timestamp" data-t="01:49:18">[01:49:18]</a>.
+*   **3D Reconstruction**: Using SAM to segment objects for 3D reproduction from images <a class="yt-timestamp" data-t="01:49:09">[01:49:09]</a>.
+*   **Data Labeling**: SAM's representations could be useful as features for [[finetuning_segment_anything_model | downstream tasks]] and for understanding data set concepts <a class="yt-timestamp" data-t="02:03:13">[02:03:13]</a>.
+
+SAM and the SA-1B dataset are [[open_source_artificial_intelligence | open-source]] under an Apache 2.0 license, fostering further research and development <a class="yt-timestamp" data-t="02:09:02">[02:09:02]</a> <a class="yt-timestamp" data-t="00:20:58">[00:20:58]</a>.
+
+## Limitations and Considerations
+*   **Foundation Model Debate**: While SAM is a large model trained on extensive data, its specialization in segmentation leads to debate on whether it's a true "foundation model" in the same general-purpose sense as [[comparison_with_other_multimodal_ai_models | CLIP]] <a class="yt-timestamp" data-t="01:46:41">[01:46:41]</a>.
+*   **Data Distribution**: The SA-1B dataset, while vast, shows "object-centric bias" common in human-taken photos, where objects of interest are typically centered <a class="yt-timestamp" data-t="01:02:11">[01:02:11]</a>. Geographic distribution of images shows a higher percentage from Europe and Asia, with Russia and Thailand being the most common countries, possibly due to data privacy laws <a class="yt-timestamp" data-t="01:07:24">[01:07:24]</a> <a class="yt-timestamp" data-t="01:08:14">[01:08:14]</a>.
+*   **Mask Quality**: While generally high, SAM can still make mistakes, such as segmenting parts of an object separately or hallucinating small, disconnected components <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a> <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a> <a class="yt-timestamp" data-t="01:49:35">[01:49:35]</a>. The masks may also not produce boundaries as crisply as desired <a class="yt-timestamp" data-t="01:49:50">[01:49:50]</a>.
+*   **Training Method**: The paper describes the training as "large-scale supervised training" <a class="yt-timestamp" data-t="01:47:58">[01:47:58]</a>, but because the training data (masks) was generated by the model itself in a loop, it closely resembles self-supervised learning <a class="yt-timestamp" data-t="01:48:03">[01:48:03]</a>.

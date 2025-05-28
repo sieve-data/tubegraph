@@ -1,0 +1,44 @@
+---
+title: Data set curation and synthetic data utilization
+videoId: YEm4tuo2HPA
+---
+
+From: [[hu-po]] <br/> 
+
+Recent advancements in language models highlight a critical shift in the deep learning paradigm: the increasing importance of [[Data Curation and Model Evaluation in AI | data set curation]] and the strategic use of [[Synthetic data generation and its applications | synthetic data]]. While historically, the focus in academia was often on refining model architectures with fixed data sources, current research, particularly from major tech companies, underscores that the [[Data Curation and Model Evaluation in AI | data set]] is the primary driver of model performance <a class="yt-timestamp" data-t="04:56:59">[04:56:59]</a>.
+
+## The Paramount Role of Data Sets
+
+A long-held intuition in deep learning suggested that model architecture and training tricks were the main determinants of performance <a class="yt-timestamp" data-t="04:48:50">[04:48:50]</a>. However, insights from industry leaders, such as OpenAI, propose that models, when trained on the same data set for long enough with sufficient weights and training time, tend to converge to similar performance levels <a class="yt-timestamp" data-t="04:52:50">[04:52:50]</a>. This suggests that model behavior is fundamentally determined by its [[Data Curation and Model Evaluation in AI | data set]], not by architectural choices, hyperparameters, or optimizers <a class="yt-timestamp" data-t="04:59:59">[04:59:59]</a>. Therefore, the focus has shifted to [[Data Curation and Model Evaluation in AI | data set creation]], [[Data Curation and Model Evaluation in AI | data set curation]], and [[Data Curation and Model Evaluation in AI | data set filtering]] as the most critical elements for achieving high-performing models <a class="yt-timestamp" data-t="04:59:59">[04:59:59]</a>.
+
+## Data Curation in Practice
+
+### OpenELM (Apple)
+
+Apple's OpenELM, a smaller language model designed for mobile devices (like iPhones), demonstrates the impact of effective data curation <a class="yt-timestamp" data-t="02:27:06">[02:27:06]</a>. While many open-source models only release weights and inference code, OpenELM provides a comprehensive framework for training and evaluation on publicly available data sets, including training logs and configurations <a class="yt-timestamp" data-t="07:05:04">[07:05:04]</a>.
+
+The pre-training data for OpenELM (approximately 1.8 trillion tokens) combines sources like RefinedWeb, The Pile, RedPajama, and Dolma v1.6 <a class="yt-timestamp" data-t="02:37:34">[02:37:34]</a>. Crucially, Apple uses "subsets" of these public data sets, indicating a process of [[Data Curation and Model Evaluation in AI | curation]] to create a smaller, cleaner mix <a class="yt-timestamp" data-t="02:44:03">[02:44:03]</a>. This approach allows OpenELM to achieve a 2.36% improvement in accuracy over a previous model (MMO) while requiring two times fewer pre-training tokens, emphasizing the performance gains from data quality over raw quantity <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>, <a class="yt-timestamp" data-t="02:39:13">[02:39:13]</a>, <a class="yt-timestamp" data-t="02:40:48">[02:40:48]</a>.
+
+OpenELM also filters and tokenizes data "on the fly" <a class="yt-timestamp" data-t="02:49:03">[02:49:03]</a>. This flexibility allows researchers to experiment with different tokenizers as a hyperparameter, optimizing the model's consumption of data <a class="yt-timestamp" data-t="02:51:30">[02:51:30]</a>.
+
+### Phi-3 (Microsoft)
+
+Microsoft's Phi-3 mini, a 3.8 billion-parameter model, further exemplifies sophisticated [[Data Curation and Model Evaluation in AI | data set curation]] and the use of [[synthetic training data for AI | synthetic data]] <a class="yt-timestamp" data-t="04:11:30">[04:11:30]</a>, <a class="yt-timestamp" data-t="04:17:49">[04:17:49]</a>. Its training data, totaling 3.3 trillion tokens, consists of heavily filtered web data and LLM-created [[synthetic data generation and its applications | synthetic data]] <a class="yt-timestamp" data-t="04:22:20">[04:22:20]</a>, <a class="yt-timestamp" data-t="04:57:42">[04:57:42]</a>.
+
+Phi-3 utilizes a two-phase [[Training and data preparation methodologies | training curriculum]] to manage data <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>:
+1.  **Phase 1**: Focuses on teaching the model general knowledge using web data <a class="yt-timestamp" data-t="05:38:00">[05:38:00]</a>.
+2.  **Phase 2**: Incorporates heavily filtered web data mixed with [[synthetic data generation and its applications | synthetic data]] <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>. This mixing is crucial to prevent "catastrophic forgetting," where training on new data causes the model to forget previously learned information <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>.
+
+A key aspect of Phi-3's data filtering strategy is the removal of superfluous factual knowledge from the web data <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>. The rationale is that smaller models have limited capacity and should prioritize reasoning ability over memorizing specific facts <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>, <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. These "factoids" (like sports scores) can be efficiently retrieved later using external tools like search engines, which models can be augmented with during deployment <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>. This strategy allows the model's internal capacity to be dedicated to developing core reasoning and logic skills <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>.
+
+## The Rise of [[Synthetic data generation and its applications | Synthetic Data]]
+
+[[Synthetic data generation and its applications | Synthetic data]] has emerged as a cornerstone of modern LLM training <a class="yt-timestamp" data-t="05:36:00">[05:36:00]</a>. Its use is particularly prevalent in domains where the validity of generated data can be verified, such as math or coding <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a>. This approach connects to the "self-play loop" concept from reinforcement learning, where a model generates its own training data to continuously improve <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>.
+
+Both Microsoft (Phi-3) and Meta (Llama 3) actively employ [[Synthetic data generation and its applications | synthetic data generation]] <a class="yt-timestamp" data-t="05:36:00">[05:36:00]</a>, <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>. The speaker hypothesizes that advanced LLM developers, like OpenAI (linked to the "Q*" discussions), might have figured out how to generate more general [[synthetic data generation and its applications | synthetic data]], enabling an "infinitely runnable" self-play loop for broad knowledge domains <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>. The ability to synthetically generate reasoning-focused data, rather than factoids, is especially powerful, as it aligns with the goal of training models for core intelligence over rote memorization <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>.
+
+## Implications for Model Robustness
+
+The reliance on highly curated and [[synthetic training data for AI | synthetic data]] for models like Llama 3 also has implications for their robustness. A study on "Q Lama 3" (quantized Llama 3) found that while Llama 3 models trained on 15 trillion tokens exhibit state-of-the-art performance, they suffer "non-negligent degradation" when aggressively quantized to very low bit widths (e.g., 1 or 2 bits) <a class="yt-timestamp" data-t="01:09:35">[01:09:35]</a>, <a class="yt-timestamp" data-t="01:10:48">[01:10:48]</a>, <a class="yt-timestamp" data-t="01:10:50">[01:10:50]</a>.
+
+Unlike Llama 1 and Llama 2, where [[Finetuning with synthetic data | LoRA fine-tuning]] after quantization could often compensate for performance loss (even outperforming the original 16-bit model), Llama 3 does not show this trend <a class="yt-timestamp" data-t="01:17:38">[01:17:38]</a>, <a class="yt-timestamp" data-t="01:18:10">[01:18:10]</a>. This suggests that the massive pre-training on high-quality data in Llama 3 results in a model that is perhaps "more fragile" to quantization, meaning its performance drops more significantly when its precision is reduced <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>, <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>. This highlights that while data is paramount, models trained on vast, high-quality datasets might behave differently under post-[[Training and data preparation methodologies | training]] optimizations than those trained with less refined data.

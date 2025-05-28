@@ -1,0 +1,18 @@
+---
+title: Meissner effect and magnetic levitation
+videoId: HGEEXp_vzBg
+---
+
+From: [[hu-po]] <br/> 
+
+The Meissner effect is a phenomenon observed in [[superconductor_applications_in_energy_and_transportation | superconductors]] where they expel magnetic fields from their interior, leading to magnetic levitation <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a> <a class="yt-timestamp" data-t="07:26:00">[07:26:00]</a> <a class="yt-timestamp" data-t="53:53:00">[53:53:00]</a>. This effect is often demonstrated with a [[superconductor_applications_in_energy_and_transportation | superconductor]] levitating on top of a magnet <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>. There are even tracks where [[superconductor_applications_in_energy_and_transportation | superconductors]] can float around <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a>.
+
+## How it Works
+The Meissner effect is entirely based on external magnetic fields <a class="yt-timestamp" data-t="21:24:00">[21:24:00]</a>. An external magnetic field creates a current inside the [[superconductor_applications_in_energy_and_transportation | material]], which then itself creates a magnetic field that causes the levitation <a class="yt-timestamp" data-t="21:29:00">[21:29:00]</a>. A [[superconductor_applications_in_energy_and_transportation | superconductor]] can enable magnetic levitation because it repels magnetic fields <a class="yt-timestamp" data-t="53:53:00">[53:53:00]</a>. Observing a piece of metal float at room temperature and ambient pressure is considered proof of a [[roomtemperature_and_ambientpressure_superconductors | room temperature and ambient pressure superconductor]] <a class="yt-timestamp" data-t="07:31:00">[07:31:00]</a>.
+
+## Current Challenges
+Traditionally, demonstrations of the Meissner effect often require dipping the [[superconductor_applications_in_energy_and_transportation | magnet]] into liquid nitrogen to supercool it, and the levitation is lost as soon as it heats up <a class="yt-timestamp" data-t="02:15:00">[02:15:00]</a>. While [[superconductor_applications_in_energy and_transportation | superconductors]] have been created before, they typically require very low temperatures <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. Some [[superconductor_applications_in_energy_and_transportation | room temperature superconductors]] have been developed, but they require high pressure <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a> <a class="yt-timestamp" data-t="16:54:00">[16:54:00]</a>. Until recently, achieving the Meissner effect at both [[roomtemperature_and_ambientpressure_superconductors | room temperature and ambient pressure]] had not been possible <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>.
+
+## Potential Applications
+The development of a [[roomtemperature_and_ambientpressure_superconductors | room temperature and ambient pressure superconductor]] could lead to "interesting controllable levitation phenomena" <a class="yt-timestamp" data-t="01:39:00">[01:39:00]</a> <a class="yt-timestamp" data-t="36:39:00">[36:39:00]</a>, such as:
+*   **Magnetic Levitation Transport** Magnetic levitating cars and trains could become feasible <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a> <a class="yt-timestamp" data-t="40:02:00">[40:02:00]</a> <a class="yt-timestamp" data-t="54:03:00">[54:03:00]</a> <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>. This represents a significant potential impact on [[potential_impacts_of_superconductors_on_technology_and_society | technology and society]] <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a> <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>.

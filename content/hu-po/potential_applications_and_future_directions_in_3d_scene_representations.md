@@ -1,0 +1,50 @@
+---
+title: Potential applications and future directions in 3D scene representations
+videoId: xgwvU7S0K-k
+---
+
+From: [[hu-po]] <br/> 
+
+Recent advancements in **3D scene modeling and tracking** techniques, particularly Radiance Field methods, have "revolutionized novel view synthesis" from multiple photos or videos <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. The goal of these methods is to create new images of a scene from different viewpoints than those captured <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. Traditional methods like meshes and points have been foundational for [[3d_representations_and_their_applications | 3D Representations and Their Applications]] in areas like video games and CGI due to their explicit nature and GPU compatibility <a class="yt-timestamp" data-t="00:12:19">[00:12:19]</a>. However, neural networks, while offering high visual quality, are costly to train and render <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>.
+
+## Limitations of Current Radiance Field Methods
+
+Neural Radiance Fields (NeRFs), built on [[canonical 3D volume representation | continuous scene representations]], require training a dedicated neural network for every single scene or object <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. This means a new NeRF must be trained if lighting changes or objects move within a scene <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. Furthermore, achieving real-time display rates at 1080p resolution is not feasible with current NeRF methods <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>. The stochastic sampling required for rendering in NeRFs is computationally expensive and can lead to noise <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>. While faster NeRF variants exist using techniques like [[multiresolution hash grids for 3D representation | hash grids]] or voxel grids (e.g., Instant NGP, Plenoxels), they can still struggle with effectively representing empty space and their rendering speed is hindered by the need to query many samples <a class="yt-timestamp" data-t="00:38:20">[00:38:20]</a>.
+
+## The Promise of 3D Gaussian Splatting
+
+The paper "3D Gaussian Splatting for Real-Time Radiance Field Rendering" introduces a new approach that aims to overcome these limitations. It represents scenes with [[applications_and_limitations_of_3d_gaussians | 3D Gaussians]] <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>, which serve as a different "prior" (starting assumption) for [[3d_representations_and_their_applications | 3D representation]] <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. This method claims "state-of-the-art visual quality" with competitive training times, crucially enabling "high quality real-time novel view synthesis" <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>, <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
+
+Key elements contributing to its performance include:
+*   **3D Gaussian Scene Representation:** Utilizing 3D Gaussians preserves desirable properties of continuous volumetric radiance fields for optimization, while avoiding unnecessary computation in empty space <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>. They are differentiable and can be efficiently projected into 2D "splats" for rendering <a class="yt-timestamp" data-t="01:04:07">[01:04:07]</a>.
+*   **Interleaved Optimization and Density Control:** The properties of the 3D Gaussians (position, opacity, anisotropic covariance, spherical harmonic coefficients for color) are optimized <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>. This optimization is interleaved with steps that adaptively control the number and density of Gaussians, allowing for creation, destruction, and movement of geometry based on reconstruction needs <a class="yt-timestamp" data-t="01:22:16">[01:22:16]</a>.
+*   **Fast Visibility-Aware Rendering Algorithm:** A tile-based splatting solution uses fast GPU sorting algorithms, allowing for real-time rendering <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>, <a class="yt-timestamp" data-t="01:17:15">[01:17:15]</a>. This method pre-sorts primitives for an entire image at once, avoiding the expense of per-pixel sorting <a class="yt-timestamp" data-t="01:40:04">[01:40:04]</a>.
+
+## Real-Time Rendering and Interactive Experiences
+
+The ability to achieve real-time rendering at high quality is a significant step forward. This allows for "real-time navigation" within reconstructed scenes <a class="yt-timestamp" data-t="01:31:34">[01:31:34]</a>. If a 3D representation can be quickly rendered into a 2D image at 30 frames per second, users can "fly around" or interact with the scene fluidly <a class="yt-timestamp" data-t="01:31:10">[01:31:10]</a>. This opens possibilities for various applications currently limited by NeRFs' speed:
+*   **Video Games:** While current video games still use meshes and textures, the speed and quality of 3D Gaussian Splatting could make it a viable alternative for rendering [[3d_representations_and_their_applications | 3D Representations and Their Applications]] in real-time gaming environments <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+*   **Virtual Reality (VR) and Augmented Reality (AR):** Real-time navigation is crucial for immersive VR/AR experiences <a class="yt-timestamp" data-t="01:31:10">[01:31:10]</a>.
+*   **Interactive Design and Prototyping:** Designers could quickly visualize and interact with 3D models reconstructed from photos.
+
+## [[challenges_in_3d_gaussian_representation | Challenges and Remaining Limitations]]
+
+Despite its advantages, the 3D Gaussian Splatting method faces several [[challenges_in_3d_gaussian_representation | Challenges in 3D Gaussian representation]]:
+*   **Dependence on Structure-from-Motion (SfM):** Like NeRFs, this method relies on SfM to provide initial camera calibrations and a sparse point cloud <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>. This introduces noise and means the representation is only as good as the SfM output <a class="yt-timestamp" data-t="00:18:42">[00:18:42]</a>.
+*   **Memory Consumption:** The explicit nature of storing hundreds of thousands (or millions) of 3D Gaussians for a scene results in significantly higher memory consumption compared to NeRFs <a class="yt-timestamp" data-t="02:01:25">[02:01:25]</a>, <a class="yt-timestamp" data-t="02:23:35">[02:23:35]</a>. A typical scene might require over 700 MB, with peak GPU memory consumption exceeding 20 GB during training <a class="yt-timestamp" data-t="02:23:45">[02:23:45]</a>.
+*   **Static Scenes:** The current method, like most NeRF approaches, is designed for static scenes. It does not yet address dynamic scenes that involve changes over time <a class="yt-timestamp" data-t="00:58:58">[00:58:58]</a>.
+*   **Artifacts:** The method can still produce "splotchy" or "elongated" artifacts in regions not well-observed <a class="yt-timestamp" data-t="02:21:08">[02:21:08]</a>. "Popping artifacts" can also occur where large Gaussians suddenly appear or disappear when viewing the scene from different angles <a class="yt-timestamp" data-t="02:21:18">[02:21:18]</a>.
+*   **Hyperparameter Tuning:** The optimization process involves several hard-coded hyperparameters (e.g., thresholds for pruning/cloning Gaussians, learning rates) that might require scene-specific tuning <a class="yt-timestamp" data-t="01:34:09">[01:34:09]</a>.
+
+## Future Research Avenues
+
+The paper identifies several promising directions for future work:
+*   **Low-Level Implementation for Optimization:** While the rasterizer is optimized with Cuda kernels, the remaining optimization logic is implemented in Python, which is slower <a class="yt-timestamp" data-t="02:26:20">[02:26:20]</a>. Porting these parts entirely to Cuda could lead to significant further speed-ups <a class="yt-timestamp" data-t="02:26:24">[02:26:24]</a>.
+*   **Memory Reduction:** Exploring [[compression of 3D representation techniques | compression techniques]] for point clouds and adapting them to the 3D Gaussian representation could significantly reduce memory consumption <a class="yt-timestamp" data-t="02:24:29">[02:24:29]</a>.
+*   **Mesh Reconstruction:** Investigating whether 3D Gaussians can be used to perform mesh reconstructions of captured scenes would be valuable <a class="yt-timestamp" data-t="02:27:22">[02:27:22]</a>. This would allow the use of these high-quality representations in existing pipelines that require meshes, such as game engines <a class="yt-timestamp" data-t="02:27:51">[02:27:51]</a>.
+*   **Dynamic Scenes:** Extending the approach to handle dynamic scenes (scenes that change over time) is a critical next step for applications like 3D movies or interactive experiences with changing environments <a class="yt-timestamp" data-t="02:44:27">[02:44:27]</a>.
+*   **Anti-Aliasing and Regularization:** Implementing anti-aliasing techniques and exploring new regularization methods could address popping artifacts and improve overall stability and quality <a class="yt-timestamp" data-t="02:22:14">[02:22:14]</a>.
+
+## Conclusion
+
+3D Gaussian Splatting offers a compelling alternative to traditional NeRFs by providing real-time, high-quality radiance field rendering with competitive training times <a class="yt-timestamp" data-t="02:25:20">[02:25:20]</a>. Its explicit and unstructured nature, combined with efficient GPU-based rasterization, demonstrates that a continuous representation isn't strictly necessary for achieving excellent results <a class="yt-timestamp" data-t="02:25:53">[02:25:53]</a>. While challenges remain, particularly concerning memory usage and the handling of dynamic scenes, the method opens up numerous avenues for future research and has significant implications for the widespread adoption of advanced [[comparison_of_3d_representation_techniques | 3D representation techniques]] in various industries, including gaming and VR.
