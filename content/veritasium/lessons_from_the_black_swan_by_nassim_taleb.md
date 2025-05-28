@@ -1,0 +1,24 @@
+---
+title: Lessons from The Black Swan by Nassim Taleb
+videoId: vKA4w2O61Xo
+---
+
+From: [[veritasium]] <br/> 
+
+The ideas presented in this article are inspired by Nassim Taleb's book *The Black Swan* <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>. The book uses the metaphor of the "black swan" to represent the unknown and the unexpected <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>. Historically, the theory held that all swans were white <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. Each sighting of a white swan seemingly confirmed this theory <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. However, the discovery of black swans in Australia demonstrated that a theory can never be definitively proven true <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>, <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+
+## The Number Sequence Puzzle: An Illustration of Confirmation Bias
+
+A common puzzle used to illustrate these concepts begins with the sequence of numbers 2, 4, 8 <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. The goal is to determine the underlying rule that these numbers obey <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. Participants can propose their own three-number sequences, to which the facilitator will respond "yes" if the sequence follows the rule, or "no" if it does not <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
+
+### Common Approaches and Misconceptions
+
+Most people tend to approach this puzzle by trying to confirm an initial hypothesis <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>, <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. For example, after seeing 2, 4, 8, a common assumption is that the rule is "multiply by 2" <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Participants then propose sequences like 16, 32, 64 <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>, 3, 6, 12 <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>, or 10, 20, 40 <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>, all of which fit the "multiply by 2" pattern and receive a "yes" <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>, <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. While these sequences do follow the hidden rule, "multiply by 2" is not the actual rule <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>, <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+
+### The True Rule and the Value of Disconfirmation
+
+The actual rule for the sequence is simply "numbers in increasing order" or "numbers in ascending order" <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>, <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. This means sequences like 2, 4, 7 <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>; 3, 6, 9 <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>; 1, 2, 3 <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>; and 7, 8, 9 <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a> all follow the rule, as do any numbers in ascending order <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. The key to discovering this rule is not to try and confirm one's existing belief, but rather to propose sequences that are designed to *disprove* a working hypothesis <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>, <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>. Seeking "no" responses provides much more informative data than continuously receiving "yes" responses <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. For example, proposing "10, 9, 8" would yield a "does not follow the rule" <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>, <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>, immediately hinting at the importance of order.
+
+### Application to the Scientific Method
+
+This puzzle highlights a critical aspect of the [[scientific_method | scientific method]]: the importance of setting out to *disprove* theories rather than prove them <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. It is when a theory cannot be disproven, despite rigorous attempts, that it is considered to be robust and likely to reflect a deeper truth about reality <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. This approach encourages individuals to actively try to disprove their beliefs in all aspects of life to avoid self-deception and arrive at a more accurate understanding of the truth <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>, <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.

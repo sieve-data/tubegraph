@@ -1,0 +1,62 @@
+---
+title: Advancements in neural networks and their computational needs
+videoId: GVsUOuSjvcg
+---
+
+From: [[veritasium]] <br/> 
+
+Artificial intelligence (AI) has a history dating back to 1956 when the term was coined <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>. Despite early enthusiasm and subsequent "AI winters," neural networks have seen a significant resurgence, driven by advancements in data availability and computational power. This progress has, in turn, highlighted the escalating computational demands of modern AI.
+
+## Early Developments: The Perceptron
+
+In 1958, Cornell University psychologist Frank Rosenblatt developed the perceptron, an early attempt to mimic how neurons fire in the human brain <a class="yt-timestamp" data-t="03:55:00">[03:55:00]</a>.
+
+### How a Perceptron Works
+A basic model of a neuron involves an individual neuron either firing or not, with its activation represented as a one or a zero <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>. The input to one neuron comes from the output of other neurons, and the strength of these connections varies, assigning each a different "weight" <a class="yt-timestamp" data-t="04:16:00">[04:16:00]</a>. Connections can be excitatory (positive weights) or inhibitory (negative weights) <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>. To determine if a neuron fires, the activation of each input neuron is multiplied by its weight, and these products are summed <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a>. If this sum exceeds a "bias" value, the neuron fires <a class="yt-timestamp" data-t="04:44:00">[04:44:00]</a>.
+
+Rosenblatt's perceptron used 400 photocells arranged in a 20x20-pixel grid as input, with each pixel serving as an input neuron where its brightness was its activation <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>. These input neurons were connected to a single output neuron, each via an adjustable weight <a class="yt-timestamp" data-t="05:15:00">[05:15:00]</a>. The multiplication of input activation by weight and summing them is essentially a vector dot product <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>.
+
+### Training and Limitations
+The perceptron's goal was to reliably distinguish between two images, such as a rectangle and a circle <a class="yt-timestamp" data-t="05:38:00">[05:38:00]</a>. To achieve this, it had to be trained by being shown various circles and rectangles, with its weights adjusted accordingly <a class="yt-timestamp" data-t="05:52:00">[05:52:00]</a>. Weights were initially set to zero <a class="yt-timestamp" data-t="06:09:00">[06:09:00]</a>. If the output was correct, no change was made; if incorrect, weights were adjusted by adding or subtracting input activations <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>. This algorithm was proven to always converge if the categories could be mapped into distinct groups <a class="yt-timestamp" data-t="06:52:00">[06:52:00]</a>.
+
+The perceptron could distinguish between shapes (rectangles, triangles) and letters <a class="yt-timestamp" data-t="07:02:00">[07:02:00]</a>. Rosenblatt famously claimed it could differentiate cats and dogs and even perform "original thought," which garnered significant media attention <a class="yt-timestamp" data-t="07:09:00">[07:09:00]</a>. However, in reality, its capabilities were limited <a class="yt-timestamp" data-t="07:45:00">[07:45:00]</a>. Critiques by MIT researchers Minsky and Papert in their 1969 book led to a "bust period" for artificial neural networks, known as the first [[challenges_and_potential_of_analog_computing_in_modern_technology | AI winter]] <a class="yt-timestamp" data-t="07:52:00">[07:52:00]</a>.
+
+## The Resurgence: ALVINN and Hidden Layers
+
+A resurgence in AI occurred in the 1980s when researchers at Carnegie Mellon created one of the first self-driving cars, steered by an artificial neural network named ALVINN <a class="yt-timestamp" data-t="08:25:00">[08:25:00]</a>. ALVINN was similar to the perceptron but included a "hidden layer" of artificial neurons between its input and output layers <a class="yt-timestamp" data-t="08:36:00">[08:36:00]</a>.
+
+ALVINN received 30x32-pixel images of the road as input <a class="yt-timestamp" data-t="08:43:00">[08:43:00]</a>. Each input neuron was connected via adjustable weights to a hidden layer of four neurons, which in turn connected to 32 output neurons <a class="yt-timestamp" data-t="08:51:00">[08:51:00]</a>. Transitions between layers involved matrix multiplication of input activations by weights <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>. The output neuron with the highest activation determined the steering angle <a class="yt-timestamp" data-t="09:10:00">[09:10:00]</a>.
+
+Training involved a human driving the vehicle, providing the correct steering angle for given images, and adjusting all weights in the neural network through a method called backpropagation <a class="yt-timestamp" data-t="09:15:00">[09:15:00]</a>. As training progressed, the computer learned to recognize patterns like road markings <a class="yt-timestamp" data-t="09:46:00">[09:46:00]</a>. ALVINN's speed was limited by the computer's ability to perform matrix multiplication <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>, leading to another lull in AI in the 1990s <a class="yt-timestamp" data-t="10:33:00">[10:33:00]</a>.
+
+## The Deep Learning Era: ImageNet and AlexNet
+
+By the mid-2000s, most AI researchers focused on improving algorithms, but Fei-Fei Li proposed that the problem might be a lack of sufficient training data <a class="yt-timestamp" data-t="10:38:00">[10:38:00]</a>. From 2006 to 2009, she created ImageNet, a database of 1.2 million human-labeled images—the largest of its kind at the time <a class="yt-timestamp" data-t="10:56:00">[10:56:00]</a>.
+
+From 2010 to 2017, ImageNet hosted an annual challenge where software programs competed to detect and classify images into 1,000 categories, including 90 dog breeds <a class="yt-timestamp" data-t="11:06:00">[11:06:00]</a>. A neural network competing in this challenge would have an output layer of 1,000 neurons, each corresponding to an object category <a class="yt-timestamp" data-t="11:23:00">[11:23:00]</a>. The "top-5 error rate" measured how often the correct category was not among the network's top five highest neuron activations <a class="yt-timestamp" data-t="11:43:00">[11:43:00]</a>.
+
+In 2010, the best performer had a top-5 error rate of 28.2% <a class="yt-timestamp" data-t="11:53:00">[11:53:00]</a>. In 2012, AlexNet, an artificial neural network from the University of Toronto, achieved a breakthrough with a top-5 error rate of just 16.4% <a class="yt-timestamp" data-t="12:11:00">[12:11:00]</a>. AlexNet's success was attributed to its size and depth: eight layers and 500,000 neurons <a class="yt-timestamp" data-t="12:22:00">[12:22:00]</a>. Training AlexNet involved adjusting 60 million weights and biases using the ImageNet database <a class="yt-timestamp" data-t="12:30:00">[12:30:00]</a>. Processing a single image required 700 million math operations due to the large matrix multiplications <a class="yt-timestamp" data-t="12:37:00">[12:37:00]</a>.
+
+The AlexNet team pioneered the use of GPUs (graphical processing units) for training, which are specialized for fast parallel computations <a class="yt-timestamp" data-t="12:48:00">[12:48:00]</a>. Their research identified the scale of the neural network as key to its success, noting that the improvement in performance was worth the computational intensity <a class="yt-timestamp" data-t="13:00:00">[13:00:00]</a>. Following their lead, the ImageNet top-5 error rate plummeted, reaching 3.6% in 2015, which is better than human performance <a class="yt-timestamp" data-t="13:19:00">[13:19:00]</a>. The neural network that achieved this had 100 layers of neurons <a class="yt-timestamp" data-t="13:31:00">[13:31:00]</a>.
+
+## Increasing Computational Needs
+
+The clear future for neural networks involves ever-increasing demand for larger networks <a class="yt-timestamp" data-t="13:35:00">[13:35:00]</a>. This trend presents several problems:
+
+*   **Energy Consumption**: Training a neural network can require electricity similar to the yearly consumption of three households <a class="yt-timestamp" data-t="13:43:00">[13:43:00]</a>.
+*   **Von Neumann Bottleneck**: Modern digital computers store data in memory and access it via a bus <a class="yt-timestamp" data-t="13:53:00">[13:53:00]</a>. For the massive matrix multiplications required by deep neural networks, most time and energy are spent fetching weight values rather than performing the computation <a class="yt-timestamp" data-t="13:59:00">[13:59:00]</a>.
+*   **Limitations of Moore's Law**: For decades, the number of transistors on a chip doubled roughly every two years <a class="yt-timestamp" data-t="14:12:00">[14:12:00]</a>. However, the size of a transistor is now approaching the size of an atom, posing fundamental physical challenges to further miniaturization <a class="yt-timestamp" data-t="14:18:00">[14:18:00]</a>.
+
+These factors create a "perfect storm" for the [[the_resurgence_and_potential_of_modern_analog_computing | resurgence of analog technology]] <a class="yt-timestamp" data-t="14:26:00">[14:26:00]</a>. Digital computers are reaching their limits, while neural networks are exploding in popularity, largely performing matrix multiplication <a class="yt-timestamp" data-t="14:30:00">[14:30:00]</a>. Crucially, neural networks do not require the extreme precision of digital computers; slight variability in components or conditions can be tolerated <a class="yt-timestamp" data-t="14:41:00">[14:41:00]</a>.
+
+## Analog Computing for Neural Networks
+
+Analog computing startups like Mythic AI are creating analog chips to run neural networks <a class="yt-timestamp" data-t="14:58:00">[14:58:00]</a>. They repurpose digital flash storage cells, traditionally used to store a one or a zero, as variable resistors <a class="yt-timestamp" data-t="15:54:00">[15:54:00]</a>. By placing a specific number of electrons on each floating gate, the resistance of the channel can be varied <a class="yt-timestamp" data-t="16:40:00">[16:40:00]</a>. When a small voltage is applied, the current that flows (V/R) is equivalent to voltage times conductance, effectively multiplying two numbers <a class="yt-timestamp" data-t="16:49:00">[16:49:00]</a>.
+
+To run a neural network, weights are written to flash cells as conductance values <a class="yt-timestamp" data-t="17:09:00">[17:09:00]</a>. Activation values are input as voltage, and the resulting current is the product of voltage and conductance (activation times weight) <a class="yt-timestamp" data-t="17:16:00">[17:16:00]</a>. Cells are wired so that currents from each multiplication add together, completing the matrix multiplication <a class="yt-timestamp" data-t="17:28:00">[17:28:00]</a>.
+
+Mythic AI's first product can perform 25 trillion math operations per second, consuming about three watts of power <a class="yt-timestamp" data-t="17:39:00">[17:39:00]</a>. While newer digital systems can do 25 to 100 trillion operations per second, they are large, expensive systems consuming 50 to 100 watts <a class="yt-timestamp" data-t="17:54:00">[17:54:00]</a>. These [[applications_of_analog_computers_in_ai | analog chips]] are well-suited for AI deployment in applications like security cameras, autonomous systems, and manufacturing inspection equipment <a class="yt-timestamp" data-t="18:17:00">[18:17:00]</a>.
+
+However, challenges remain. For instance, in complex neural networks involving many sequences of matrix multiplications, performing operations entirely in the analog domain can lead to signal distortion <a class="yt-timestamp" data-t="18:53:00">[18:53:00]</a>. This necessitates converting the signal from analog to digital, sending it to the next processing block, and then converting it back to analog to preserve the signal <a class="yt-timestamp" data-t="19:10:00">[19:10:00]</a>.
+
+Despite these challenges, the ability of [[analog_computers_history_and_resurgence | analog computers]] to handle continuous inputs and perform computations with high speed and energy efficiency makes them attractive for neural network applications where exact values are not always critical <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>.

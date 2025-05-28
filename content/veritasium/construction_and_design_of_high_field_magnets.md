@@ -1,0 +1,35 @@
+---
+title: Construction and design of high field magnets
+videoId: g0amdIcZt5I
+---
+
+From: [[veritasium]] <br/> 
+
+The world's strongest magnet is located at the National High Magnetic Field Laboratory in Tallahassee, Florida <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. Since the year 2000, this laboratory has held the Guinness World Record for the strongest continuous magnetic field <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. This electromagnet generates a magnetic field of 45 Tesla <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>, which is nearly a million times stronger than Earth's magnetic field <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+
+## Components and Structure
+The apparatus is two stories tall <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. The maximum magnetic field, or field center, is achieved in the center of a narrow, one-centimeter tall cylinder that runs through its middle <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a><a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+
+The magnet consists of two main components:
+*   An outer superconducting magnet <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+*   An inner resistive magnet <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+
+This hybrid design is necessary because superconductors have a limit to the amount of magnetic field they can withstand before losing their [[magnetic_properties_and_materials | superconducting]] properties, typically around 20 Tesla <a class="yt-timestamp" data-t="00:18:11">[00:18:11]</a><a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>. The outer superconducting magnet produces 11.5 Tesla <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>, and the inner resistive magnet contributes an additional 33.5 Tesla, summing up to 45 Tesla <a class="yt-timestamp" data-t="00:18:37">[00:18:37]</a><a class="yt-timestamp" data-t="00:18:41">[00:18:41]</a>.
+
+## Design of the Resistive Magnet (Bitter Plates)
+Creating high field magnets with ordinary resistive wire is challenging <a class="yt-timestamp" data-t="00:18:45">[00:18:45]</a>. Traditional wire-wound electromagnets can only reach about two Tesla because of the difficulty in removing heat from the innermost windings <a class="yt-timestamp" data-t="00:18:52">[00:18:52]</a><a class="yt-timestamp" data-t="00:18:57">[00:18:57]</a>.
+
+In the 1950s, Francis Bitter at MIT realized that the shape of the conductor doesn't matter for physics <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a><a class="yt-timestamp" data-t="00:19:09">[00:19:09]</a>. He developed a design where round wire is flattened into thin plates <a class="yt-timestamp" data-t="00:19:11">[00:19:11]</a><a class="yt-timestamp" data-t="00:19:12">[00:19:12]</a>. These "Bitter plates" are then stacked with alternating insulators to form a helix <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a><a class="yt-timestamp" data-t="00:19:20">[00:19:20]</a>. This configuration allows for cooling water to be pushed axially through the stack of conductors, effectively removing heat from the innermost parts <a class="yt-timestamp" data-t="00:19:24">[00:19:24]</a><a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>. This enables much higher currents, up to 57,000 amps, compared to traditional electromagnets <a class="yt-timestamp" data-t="00:19:35">[00:19:35]</a><a class="yt-timestamp" data-t="00:19:39">[00:19:39]</a>.
+
+### Assembly and Operation
+The Bitter plates are stacked in a jig, aligned with tie rods, and subjected to about 20 tons of force to hold the coil together and ensure electrical connection between turns <a class="yt-timestamp" data-t="00:19:49">[00:19:49]</a><a class="yt-timestamp" data-t="00:19:54">[00:19:54]</a>.
+
+To keep the coils from melting, several thousand gallons per minute of deionized water are pushed through them <a class="yt-timestamp" data-t="00:20:03">[00:20:03]</a><a class="yt-timestamp" data-t="00:20:06">[00:20:06]</a>. Ramping the magnet up to full power takes approximately an hour and a half <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a><a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>, requiring 47,000 amps of current and 500 volts for the outer superconducting electromagnet <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a><a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
+
+### Challenges and Energy Consumption
+Material failure can occur when the metal coils deform beyond their elastic limit, causing them to flex into adjacent coils, short to ground, and potentially vaporize the metal <a class="yt-timestamp" data-t="00:20:13">[00:20:13]</a><a class="yt-timestamp" data-t="00:20:27">[00:20:27]</a><a class="yt-timestamp" data-t="00:20:33">[00:20:33]</a>. Such failures can be very expensive, potentially damaging multiple coil sections <a class="yt-timestamp" data-t="00:20:48">[00:20:48]</a><a class="yt-timestamp" data-t="00:20:57">[00:20:57]</a>.
+
+Operating these powerful magnets consumes a significant amount of energy. The Mag Lab can use about 8% of Tallahassee's total generating capacity when all four power supplies are at full blast <a class="yt-timestamp" data-t="00:21:18">[00:21:18]</a><a class="yt-timestamp" data-t="00:21:26">[00:21:26]</a>. The nominal electricity budget is between $250,000 and $300,000 per month <a class="yt-timestamp" data-t="00:21:32">[00:21:32]</a><a class="yt-timestamp" data-t="00:21:36">[00:21:36]</a>. The lab operates within the city's federally mandated reserve power, allowing the city to earn revenue from power that would otherwise be unused. In return, the lab can ramp down its power consumption much faster than a generator can spin up when the city needs the reserve power <a class="yt-timestamp" data-t="00:21:38">[00:21:38]</a><a class="yt-timestamp" data-t="00:21:57">[00:21:57]</a>.
+
+## Purpose of High Field Magnets
+These extreme environments are crucial for [[measurement_of_large_forces | material discovery]] and research <a class="yt-timestamp" data-t="00:22:03">[00:22:03]</a><a class="yt-timestamp" data-t="00:22:05">[00:22:05]</a>. High magnetic fields, along with high electric fields, high pressure, and ultra-low temperatures, allow scientists to explore and understand the fundamental [[properties_and_capabilities_of_the_worlds_strongest_magnet | properties and capabilities of materials]] <a class="yt-timestamp" data-t="00:22:12">[00:22:12]</a><a class="yt-timestamp" data-t="00:22:15">[00:22:15]</a>. By subjecting materials to such extreme conditions and improving their cleanliness by removing impurities, researchers can reduce electron scattering, improve material properties, and observe phenomena never before seen <a class="yt-timestamp" data-t="00:22:17">[00:22:17]</a><a class="yt-timestamp" data-t="00:22:20">[00:22:20]</a><a class="yt-timestamp" data-t="00:22:29">[00:22:29]</a>. The field of high magnetic field research is still in its early stages, with significant discoveries expected in the future <a class="yt-timestamp" data-t="00:22:38">[00:22:38]</a><a class="yt-timestamp" data-t="00:22:43">[00:22:43]</a>.

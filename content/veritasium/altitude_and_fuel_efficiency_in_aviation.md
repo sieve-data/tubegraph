@@ -1,0 +1,42 @@
+---
+title: Altitude and fuel efficiency in aviation
+videoId: vjDYfvPW4mA
+---
+
+From: [[veritasium]] <br/> 
+
+Commercial airplanes typically cruise at high altitudes, such as 30,000 ft <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>, 38,000 ft <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>, or even up to 43,000 ft <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. While common perception suggests this is for safety or to avoid bad weather <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>, the primary motivation is financial efficiency <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+
+## Benefits of High-Altitude Flight
+
+Flying at high altitudes offers several advantages:
+
+*   **Smoother Ride** One benefit of flying at 30,000 ft is a smoother ride <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. This altitude is high in the troposphere, the atmospheric layer where most weather phenomena occur <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. Consequently, there is less turbulence and fewer storms to navigate around <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
+*   **Reduced Air Density** As an aircraft ascends, the density of the air decreases <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. At 33,000 ft (10 km), air density is only one-third of what it is at sea level <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. This means the plane encounters fewer air molecules, allowing it to fly approximately 73% faster for the same amount of thrust <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. This leads to faster travel times and reduced fuel consumption, as less time is spent in the air <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+    *   While climbing consumes more fuel (around 80 kilos per minute) compared to cruising (40 kilos per minute) or descent (10 kilos per minute) <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>, the overall fuel savings at cruise altitude are significant.
+*   **Enhanced Jet Engine Efficiency** Jet engines operate more efficiently at higher altitudes <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. They function by compressing air, mixing it with fuel, and igniting it, then ejecting combustion products rapidly from the exhaust nozzle <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. This process is more efficient in colder air <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. At cruising altitude, temperatures are around minus 50 degrees Celsius, much colder than the average 15 degrees Celsius at ground level <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+*   **Jet Stream Utilization** Flying high also allows aircraft to take advantage of jet stream tailwinds, further reducing fuel consumption and costs <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+
+## Challenges of High-Altitude Flight and Cabin Pressurization
+
+The primary challenge of flying at high altitudes is the unbreathable air <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+
+### Air Pressure and Oxygen Levels
+At high altitudes, both air density and air pressure decrease significantly <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. Air pressure drops faster because it depends on the weight of the air above <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. At 10 km, air pressure is only one-quarter of sea level pressure <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. While the air still contains 21% oxygen, the partial pressure of oxygen — the pressure exerted solely by oxygen molecules — is around 5.5 kilopascals <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. For normal human function, an oxygen partial pressure of at least 16 kilopascals is required <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
+
+### Cabin Pressurization
+To maintain breathable air, all airplane cabins cruising at high altitudes must be pressurized <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. A small amount of air is continuously brought into the cabin from the compression stage of the jet engines <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. This process slightly reduces engine efficiency <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
+
+#### Aircraft Redesign for Pressurization
+Before pressurization, planes flew at lower altitudes (up to 10,000 ft or 3 km), where oxygen partial pressure was barely tolerable at 15 kilopascals <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>. Doors opened outward with little concern for sealing <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>. With pressurized cabins, doors were redesigned to be plug-shaped, wider on the inside than the outside <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. This design ensures that the higher pressure inside the cabin pushes the door into its frame, creating an airtight seal <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+
+The pressure difference makes it impossible to open plane doors mid-flight, as it would require a force equivalent to lifting 9,000 kilograms <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>. Modern outward-opening doors are also cleverly designed plugs <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>; they pop inwards and rotate before opening, a movement impossible at altitude <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. An incident in May 2023 saw a passenger open an emergency exit mid-flight, but this occurred during final approach when the plane was close to the ground, and the pressure differential was very small <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a>.
+
+#### Minimum Pressurization for Longevity
+Airplane cabins are not fully pressurized to sea level pressure (101.3 kilopascals) <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. At cruising altitude, cabin pressure might drop to 77 kilopascals, maintaining an oxygen partial pressure of 16 kilopascals—the minimum required for passengers to feel normal <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>. This partial pressurization is a deliberate choice to minimize stresses on the fuselage and extend the aircraft's lifespan <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>. The fuselage experiences stretching and relaxing with each flight as it climbs and descends <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. For example, Aloha Airlines Flight 243 experienced an explosive decompression in 1988 due to fatigue, cracking, and corrosion after nearly 90,000 flight cycles, far exceeding its design limits <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>.
+
+### [[effects_of_cabin_pressure_on_taste_and_airplane_food | Effects of Cabin Pressure on Taste and Airplane Food]]
+
+The cabin environment, specifically the dry air and lower pressure, influences passengers' senses <a class="yt-timestamp" data-t="00:14:16">[00:14:16]</a>. The cabin's relative humidity can be as low as 5%, much drier than the Sahara Desert's average of 25% <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>. This dry air can dehydrate nasal passages, impairing the sense of smell and, consequently, taste <a class="yt-timestamp" data-t="00:14:34">[00:14:34]</a>. The lower cabin pressure also diminishes the intensity of salt and sugar sensations <a class="yt-timestamp" data-t="00:14:39">[00:14:39]</a>.
+
+Interestingly, the umami flavor (savory taste found in MSG, soy sauce, and tomatoes) appears to be enhanced in flight <a class="yt-timestamp" data-t="00:14:46">[00:14:46]</a>. A 2015 study suggests that loud cabin noise might unintentionally stimulate the chorda tympani nerve, which carries taste information and runs near the eardrum <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>. This could create an auditory illusion that boosts the perception of umami <a class="yt-timestamp" data-t="00:15:47">[00:15:47]</a>. This phenomenon might explain why tomato juice and Bloody Marys are popular drink choices on planes, with many passengers consuming them only when flying <a class="yt-timestamp" data-t="00:15:07">[00:15:07]</a>.

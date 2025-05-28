@@ -1,0 +1,81 @@
+---
+title: Development and accidental discovery of super glue
+videoId: Ni82f1-cAXg
+---
+
+From: [[veritasium]] <br/> 
+
+Super glue, known for its remarkable strength and rapid setting time, can bond two metal cylinders so securely that a person can hang from them after just one drop sets <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Its capabilities extend to solving problems like [[potential_of_super_glue_in_recycling_and_sustainability | plastic pollution]] and even [[medical_uses_and_limitations_of_super_glue | saving lives]] <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
+
+## Accidental Discovery
+
+The journey of super glue began in 1942 during World War II <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. The Eastman Kodak Company was searching for a clear plastic that could be cast to accelerate the production of gun sights, as an alternative to grinding glass lenses <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+
+Chemist Harry Coover was working on a compound called cyanoacrylate <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. Although it showed promise, it had an "unfortunate tendency to stick to everything it touched," which Coover described as a "severe pain" <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. As the war ended, Kodak abandoned the search for a plastic replacement for gun sights, continuing with glass <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+
+By 1951, Coover resumed his efforts to develop a clear plastic, this time for jet plane canopies <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. If the stickiness issue could be resolved, cyanoacrylate had potential <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. Coover instructed his coworker, Fred Joyner, not to test the material's refractive index to avoid damaging the refractometer <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. However, after testing 909 other compounds, Joyner forgot the warning <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+
+For the 910th test, Joyner smeared cyanoacrylate between two prisms <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. After taking the measurement, he found the prisms were stuck together and couldn't be pulled apart <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>. The refractometer, valued at nearly $10,000 (adjusted for inflation), seemed ruined <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+
+Instead of anger, Coover experienced a "flash of insight" <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. He took a sample of cyanoacrylate and began gluing together various items within reach, including glass plates, rubber stoppers, metal spatulas, wood, and paper, in different combinations <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>. He observed that "Everything stuck to everything almost instantly and with bonds I could not break apart" <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. This pivotal moment led him to name the compound Eastman 910 Adhesive, reflecting its sequence as the 910th substance tested <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. Today, it is universally known as super glue <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+
+## How Super Glue Works
+
+Super glue's effectiveness stems from its unique [[the_chemistry_of_super_glue_and_how_it_works | chemistry]] <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. In its tube, super glue is a liquid made of identical monomer molecules, specifically ethyl cyanoacrylate <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. When applied between two surfaces, the liquid flows into pores and crevices <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. The monomers then react with each other, forming long polymer chains that solidify the glue <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. This solidification traps the glue in the surface irregularities, connecting the two surfaces <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. If surfaces are too smooth, super glue adheres poorly because there are few crevices to cling to; sanding can create the necessary texture <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>.
+
+Ethyl cyanoacrylate is highly reactive due to its electron-deficient carbon atoms, which are eager to attack anything slightly electronegative <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. In the presence of a negative ion, a carbon double bond breaks, initiating the formation of polymer chains <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. This chain reaction rapidly links more monomers together until the glue solidifies, typically within 10 to 30 seconds <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. This speed was significantly faster than other adhesives available in the 1950s, which often relied on water evaporation <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
+
+The polymerization of super glue is primarily triggered by water <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>. The slightly negative oxygen atoms and hydroxide ions in water break open the carbon double bond, starting the chain formation <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>. Since water is ubiquitous—present as moisture in the air, on surfaces, and absorbed into materials—super glue sets rapidly on nearly all surfaces <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. This property is even used in forensic techniques to lift fingerprints, as the moisture and oils left by hands provide perfect binding sites <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>.
+
+Skin is an ideal surface for super glue because of its wrinkles and pores, as well as the protein collagen, which has negative regions that can initiate the polymerization reaction and bond directly with monomers <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. This makes it difficult to remove, as some of one's molecules literally become part of the polymer chain <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>. Washing super glue off with soap and water can even accelerate the reaction, causing hands to stick together <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>. Acetone, commonly found in nail polish remover, is effective at dissolving the glue <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>.
+
+## Material Properties and Weaknesses
+
+Super glue polymers are mostly single, linear chains densely packed with some cross-linking, making the polymer rigid and strong in compression <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. Its tensile strength can exceed 25 megapascals, comparable to other polymers, meaning a 5-centimeter square patch could theoretically suspend an African elephant <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a>.
+
+However, super glue also has [[applications_and_weaknesses_of_super_glue | weaknesses]] <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>. It is brittle and can shatter under sudden impact <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>. The rapid polymerization often results in short polymer chains with built-in stress, creating potential failure points <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. Unlike plastics like polyethylene or polypropylene, which can absorb impact by deforming, super glue's rigid bonds break under force <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>.
+
+Super glue is also weak in shear, meaning when a force is applied perpendicular to the polymer chains <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>. Shear force is not evenly distributed, being highest at the edges, and super glue's brittleness prevents it from redistributing this stress, leading to bond failure <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>. Peeling a surface causes the bonds to break one by one, like a zipper unzipping <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>.
+
+Some materials, like polyethylene, polypropylene, and [[history_of_teflon_and_its_discovery | Teflon]], are "chemically inert" and do not bond with super glue <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. Their carbon atoms do not readily share electrons, offering no reactive sites for the electron-deficient super glue monomers <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>. Additionally, these materials are hydrophobic and non-porous, preventing water (the initiator) from adhering to their surfaces <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>. This inertness is crucial for storing super glue, as it prevents the adhesive from setting in its container <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>.
+
+## Early Industrial Applications and Additives
+
+Super glue quickly found [[applications_and_weaknesses_of_super_glue | industrial applications]], with its first sale in 1956 to Mason and Hanger for assembling atomic bombs <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>.
+
+Different additives were developed to modify the properties of pure ethyl cyanoacrylate <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>:
+*   **Thickening Agents:** To transform its runny, water-like consistency into a gel, companies added agents like fumed silica, which form branched structures to increase viscosity <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>.
+*   **Inhibitors:** Acids are often added to prevent premature polymerization inside the tube <a class="yt-timestamp" data-t="00:14:14">[00:14:14]</a>.
+*   **Accelerators:** To speed up setting, more negative ions (initiators) can be added <a class="yt-timestamp" data-t="00:14:20">[00:14:20]</a>. Baking soda (sodium bicarbonate) is a common DIY accelerator, reacting with moisture to produce hydroxide ions that quicken polymerization <a class="yt-timestamp" data-t="00:14:32">[00:14:32]</a>. When mixed with baking soda, super glue forms a hard composite that can fill gaps and be drilled or sanded <a class="yt-timestamp" data-t="00:14:47">[00:14:47]</a>. While baking soda solution dramatically speeds up the reaction, creating a continuous polymer, the resulting plastic is fragile <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a>.
+*   **Underwater Use:** To glue things underwater, polymerization needs to be slowed down, which gel cyanoacrylate formulations achieve through their thickeners, allowing enough time for application <a class="yt-timestamp" data-t="00:15:31">[00:15:31]</a>.
+
+## Medical Applications
+
+Coover recognized super glue's [[medical_uses_and_limitations_of_super_glue | medical potential]] when he accidentally cut his son's finger and sealed it with super glue from his lab, envisioning it as a replacement for sutures <a class="yt-timestamp" data-t="00:15:58">[00:15:58]</a>. However, there were three key challenges for medical use <a class="yt-timestamp" data-t="00:16:22">[00:16:22]</a>:
+1.  **Heat Release:** The formation of bonds during setting releases heat, which can irritate a wound <a class="yt-timestamp" data-t="00:16:25">[00:16:25]</a>.
+2.  **Toxicity:** Over time, super glue breaks down in the body into toxic chemicals like formaldehyde <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>.
+3.  **Brittleness:** Standard super glue is hard and brittle, unlike the soft and flexible living tissue it needs to adhere to during healing <a class="yt-timestamp" data-t="00:17:25">[00:17:25]</a>.
+
+Coover's team discovered that increasing the number of carbons in the alkyl chain solved all these problems <a class="yt-timestamp" data-t="00:17:42">[00:17:42]</a>. Longer carbon chains slow down the binding of monomers, reducing the rate of heat release and preventing a significant temperature increase <a class="yt-timestamp" data-t="00:17:53">[00:17:53]</a>. These longer polymers also break down more slowly, allowing wounds to heal before toxins are released <a class="yt-timestamp" data-t="00:18:06">[00:18:06]</a>. Furthermore, the slower reaction time allows for the formation of longer, more flexible polymers that can absorb stress better, enabling the glue to flex without breaking <a class="yt-timestamp" data-t="00:18:19">[00:18:19]</a>.
+
+With these issues addressed, Coover submitted an application to the FDA for medical super glue in 1964 <a class="yt-timestamp" data-t="00:18:33">[00:18:33]</a>. The U.S. military developed a medical super glue spray for the Vietnam War, which was credited with saving lives, including a soldier with severe internal bleeding whose liver was sealed with the spray <a class="yt-timestamp" data-t="00:18:41">[00:18:41]</a>. Despite its battlefield success, medical super glue faced bureaucratic delays, and Coover's dream of an approved medical glue, a 2-octyl cyanoacrylate called Dermabond, wasn't realized until 1998 <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>. Today, medical super glue is a $900-million-a-year industry <a class="yt-timestamp" data-t="00:19:38">[00:19:38]</a>.
+
+## Potential in Recycling and Sustainability
+
+Seventy-four years after Coover's accidental discovery, cyanoacrylate has grown into a $3 billion industry <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a>. Scientists are now exploring its [[potential_of_super_glue_in_recycling_and_sustainability | potential as a plastic]] that could address the global plastic pollution problem <a class="yt-timestamp" data-t="00:19:56">[00:19:56]</a>.
+
+Unlike other plastics that degrade when mechanically recycled, becoming less useful and generating microplastics <a class="yt-timestamp" data-t="00:20:10">[00:20:10]</a>, super glue is unique. When heated to 210 degrees Celsius, it breaks down into pure monomers that can be distilled and reactivated into fresh polymer, allowing for continuous recycling without quality loss <a class="yt-timestamp" data-t="00:20:34">[00:20:34]</a>.
+
+Two main challenges existed for using super glue as a reusable plastic <a class="yt-timestamp" data-t="00:21:02">[00:21:02]</a>:
+1.  **Handleability:** How to cast a material that sticks to almost everything <a class="yt-timestamp" data-t="00:21:04">[00:21:04]</a>.
+2.  **Brittleness:** How to prevent the inherent brittleness of super glue <a class="yt-timestamp" data-t="00:21:08">[00:21:08]</a>.
+
+The first problem was solved by using modern inert plastics like polyethylene, polypropylene, and [[history_of_teflon_and_its_discovery | Teflon]], which don't activate super glue, making them ideal for handling the monomers <a class="yt-timestamp" data-t="00:21:28">[00:21:28]</a>.
+
+To reduce brittleness and form longer, more tangled chains, a two-part solution was found <a class="yt-timestamp" data-t="00:21:48">[00:21:48]</a>:
+1.  **Weak Base Initiator:** Using a very weak base, such as DMSO (dimethyl sulfoxide), provides enough initiators to start the polymerization slowly, allowing for longer polymer chains to form <a class="yt-timestamp" data-t="00:22:17">[00:22:17]</a>.
+2.  **Solvent:** Mixing the glue and initiator into a solvent like acetone provides additional mobility for the polymers, allowing them to form even longer, more stable chains before solidifying <a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>. After setting, the acetone evaporates, leaving the new plastic <a class="yt-timestamp" data-t="00:23:14">[00:23:14]</a>.
+
+This process yields around 93% recovery of the original monomers, a remarkable feat compared to other widely recycled plastics that degrade and can only be downcycled once or twice before ending up in landfills <a class="yt-timestamp" data-t="00:23:30">[00:23:30]</a>.
+
+Harry Coover's mindset of viewing challenges as opportunities is a key lesson from super glue's history <a class="yt-timestamp" data-t="00:24:02">[00:24:02]</a>. His ability to see the beneficial qualities in what was initially a frustrating stickiness, and later the potential of an adhesive as a plastic, highlights the importance of open-mindedness and curiosity in scientific discovery <a class="yt-timestamp" data-t="00:24:15">[00:24:15]</a>.

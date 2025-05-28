@@ -1,0 +1,35 @@
+---
+title: Two systems of thought
+videoId: 5eW6Eagr9XA
+---
+
+From: [[veritasium]] <br/> 
+
+An older video discussed the concept of [[Perception of reality and philosophical implications | two systems of thought]] that govern how humans think <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+
+## System Two
+[[Perception of reality and philosophical implications | System Two]] is described as the conscious, slow, and effortful thinking system <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. This system is engaged when learning new tasks or solving complex problems that require deep concentration.
+
+## System One
+[[Perception of reality and philosophical implications | System One]], by contrast, is subconscious, fast, and automatic <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. This system handles routine tasks and allows for quick, intuitive responses based on learned patterns.
+
+## Interaction and Expertise
+The development of expertise often involves a shift of tasks from [[Perception of reality and philosophical implications | System Two]] to [[Perception of reality and philosophical implications | System One]] <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+
+### Grant Gussman and Pi
+Grant Gussman, after watching a video about these systems, decided to memorize 100 digits of Pi to explore their workings in his own mind <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. He continued, eventually memorizing 23,000 digits <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. This feat demonstrates the capacity for highly structured information storage in long-term memory, which forms the basis of expertise <a class="yt-timestamp" data-t="00:16:27">[00:16:27]</a>.
+
+### Expertise as Recognition
+At its core, expertise is about recognition <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. Experts, such as chess grandmaster Magnus Carlsen, recognize complex patterns, like chess positions, similarly to how people recognize faces <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a> <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. This recognition leads directly to intuition, allowing them to instinctively know the best move <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a> <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. Carlsen states, "Most of the time, I know what to do. I don't have to figure it out" <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+
+This ability stems from "chunking," where brains learn patterns over time, recognizing a smaller number of configurations rather than individual pieces <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a> <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. For example, memorizing Pi is easier if numbers are grouped into meaningful sequences, such as 30173, which for Grant Gussman represented Stephen Curry's number (30) and the Golden State Warriors' 73-win record in 2016 <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+### The 10,000-Hour Rule and Its Limitations
+While Malcolm Gladwell popularized the "10,000 hours" rule of thumb for developing long-term memory for expertise <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>, merely accumulating hours of practice is not sufficient <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. Four additional criteria must be met <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>:
+
+1.  **Many Repeated Attempts with Feedback**: Experts engage in thousands of repetitions, each with clear feedback. For instance, tennis players get immediate feedback on shots, chess players win or lose, and physicists solve problems correctly or incorrectly <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. Professions lacking this, such as political and economic forecasters, show poor predictive accuracy, even performing worse than random chance <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>.
+2.  **A Valid Environment**: The environment must contain regularities that make it at least somewhat predictable <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>. A roulette wheel, despite offering repeated experiences and clear feedback, is a low-validity environment because it's essentially random <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a> <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. Stock markets, particularly in the short term, are also considered low-validity environments, where actively managed funds often fail to beat passive index funds <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a> <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. Humans tend to seek patterns in randomness, leading to suboptimal strategies in such environments <a class="yt-timestamp" data-t="00:11:08">[00:11:08]</a>.
+3.  **Timely Feedback**: Feedback needs to be prompt to facilitate learning. Anesthesiologists receive immediate feedback on patient stability, which aids learning <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>. Conversely, radiologists, who often receive delayed or no feedback on their diagnoses, find it harder to improve <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>. Similarly, college admissions officers and recruitment specialists face challenges due to delayed feedback on their selection decisions <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>.
+4.  **Deliberate Practice**: Merely gaining experience is not enough; individuals must push beyond their comfort zone and actively practice at the edge of their ability <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>. This requires high concentration and methodical repetition of difficult tasks <a class="yt-timestamp" data-t="00:14:29">[00:14:29]</a>. For example, while driving becomes automatic ([[Perception of reality and philosophical implications | System One]]) after about 50 hours, further improvement requires practicing in challenging conditions (engaging [[Perception of reality and philosophical implications | System Two]]) <a class="yt-timestamp" data-t="00:13:59">[00:13:59]</a> <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>. Without deliberate practice, performance can stagnate or even decline, as seen in doctors whose diagnostic skills for rare diseases might worsen over time without refresher courses <a class="yt-timestamp" data-t="00:15:17">[00:15:17]</a>. In chess, skill correlates with hours of solitary study and solving tactical puzzles, not just playing games <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>. Coaches and teachers are valuable because they identify weaknesses and assign tasks for deliberate practice <a class="yt-timestamp" data-t="00:16:02">[00:16:02]</a>.
+
+To become an expert, one must practice for thousands of hours in the "uncomfortable zone," consistently attempting things they cannot yet do <a class="yt-timestamp" data-t="00:16:10">[00:16:10]</a>. This fosters lifelong learning and growth <a class="yt-timestamp" data-t="00:17:38">[00:17:38]</a>.

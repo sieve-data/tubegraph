@@ -1,0 +1,38 @@
+---
+title: Application of imaginary numbers in physics
+videoId: cUzklzVXJwo
+---
+
+From: [[veritasium]] <br/> 
+
+Imaginary numbers, initially considered fanciful and disconnected from reality, have unexpectedly become fundamental to our understanding of the universe's physical nature <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>, <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+
+## Historical Context and Initial Perception
+Mathematics first developed as a tool to quantify the real world, for tasks like land measurement, planetary motion prediction, and commerce <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The concept of numbers was deeply tied to physical quantities like lengths and areas <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
+
+[[history_of_imaginary_numbers | Imaginary numbers]] emerged from a seemingly impossible problem: finding a general solution to the cubic equation <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>, <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Despite thousands of years of attempts by ancient civilizations, a general solution remained elusive <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>, <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+
+During the 16th century, mathematicians like Gerolamo Cardano encountered cubic equations whose solutions, though having real answers, required intermediate steps involving the square roots of negative numbers <a class="yt-timestamp" data-t="00:14:03">[00:14:03]</a>, <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>, <a class="yt-timestamp" data-t="00:15:54">[00:15:54]</a>. Cardano initially deemed the idea of the square root of negatives "as subtle as it is useless" <a class="yt-timestamp" data-t="00:16:10">[00:16:10]</a>. However, Rafael Bombelli, an Italian engineer, later pushed past these "impossible geometry" implications to find a way to use these numbers to reach the correct real solution <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>, <a class="yt-timestamp" data-t="00:16:39">[00:16:39]</a>, <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>. This process necessitated abandoning the purely geometric proofs that had previously defined mathematics <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>.
+
+The development of modern algebraic notation by Francois Viete in the 1600s helped to formalize mathematics beyond words and pictures <a class="yt-timestamp" data-t="00:17:24">[00:17:24]</a>. René Descartes popularized the use of square roots of negatives, famously calling them "imaginary numbers," a name that has persisted <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>, <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>. Later, Euler introduced the letter `i` to represent the square root of negative one <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>. When combined with real numbers, they form [[development_of_complex_numbers | complex numbers]] <a class="yt-timestamp" data-t="00:17:55">[00:17:55]</a>, <a class="yt-timestamp" data-t="00:17:59">[00:17:59]</a>.
+
+## Application in Quantum Mechanics
+Centuries after their mathematical invention, imaginary numbers made a surprising appearance in fundamental physics.
+
+In 1925, Erwin Schrödinger sought a wave equation to describe the behavior of quantum particles <a class="yt-timestamp" data-t="00:18:20">[00:18:20]</a>. His resulting [[applications_of_calculus_in_physics | Schrödinger equation]], one of the most significant equations in physics, prominently features `i`, the square root of negative one <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a>, <a class="yt-timestamp" data-t="00:18:37">[00:18:37]</a>.
+
+This inclusion caused discomfort among physicists, including Schrödinger himself, who believed the wave function should be a "real function" <a class="yt-timestamp" data-t="00:18:43">[00:18:43]</a>, <a class="yt-timestamp" data-t="00:18:51">[00:18:51]</a>.
+
+### The Role of Imaginary Numbers in Wave Description
+The utility of imaginary numbers in physics stems from their unique properties:
+*   **Rotational Properties**: Imaginary numbers exist on a dimension perpendicular to the real number line, forming the complex plane <a class="yt-timestamp" data-t="00:19:18">[00:19:18]</a>, <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>. Multiplying by `i` corresponds to a 90-degree rotation in this complex plane <a class="yt-timestamp" data-t="00:19:49">[00:19:49]</a>, <a class="yt-timestamp" data-t="00:19:51">[00:19:51]</a>.
+*   **Wave Representation**: The function `e^(ix)` generates a spiral, where its real part is a cosine wave and its imaginary part is a sine wave <a class="yt-timestamp" data-t="00:20:02">[00:20:02]</a>, <a class="yt-timestamp" data-t="00:20:12">[00:20:12]</a>, <a class="yt-timestamp" data-t="00:20:15">[00:20:15]</a>. This means the two essential functions for describing waves (sine and cosine) are naturally contained within `e^(ix)` <a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>, <a class="yt-timestamp" data-t="00:20:22">[00:20:22]</a>.
+*   **Simplifying Derivatives**: When describing waves, solutions like `e^(ikx - ωt)` are preferred because their derivatives with respect to position or time are proportional to the original function itself, simplifying calculations <a class="yt-timestamp" data-t="00:20:33">[00:20:33]</a>, <a class="yt-timestamp" data-t="00:20:45">[00:20:45]</a>.
+*   **Linearity**: The Schrödinger equation is linear, allowing an arbitrary number of such wave solutions to be added together to create any desired wave shape, which will also be a solution <a class="yt-timestamp" data-t="00:20:57">[00:20:57]</a>, <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a>.
+
+Physicist Freeman Dyson noted that Schrödinger's inclusion of "the square root of minus one into the equation... suddenly it made sense. Suddenly it became a wave equation" <a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a>, <a class="yt-timestamp" data-t="00:21:13">[00:21:13]</a>. The equation then produced solutions corresponding to the quantized orbits in the Bohr model of the atom <a class="yt-timestamp" data-t="00:21:23">[00:21:23]</a>, <a class="yt-timestamp" data-t="00:21:29">[00:21:29]</a>.
+
+## Conclusion
+The Schrödinger equation correctly describes atomic behavior and forms the basis of all chemistry and most of physics <a class="yt-timestamp" data-t="00:21:31">[00:21:31]</a>, <a class="yt-timestamp" data-t="00:21:38">[00:21:38]</a>. The prominent presence of the square root of negative one implies that nature fundamentally operates with complex numbers, not solely real numbers <a class="yt-timestamp" data-t="00:21:42">[00:21:42]</a>, <a class="yt-timestamp" data-t="00:21:44">[00:21:44]</a>. This discovery was a complete surprise to Schrödinger and others <a class="yt-timestamp" data-t="00:21:50">[00:21:50]</a>, <a class="yt-timestamp" data-t="00:21:53">[00:21:53]</a>.
+
+Imaginary numbers, initially a quirky mathematical artifact for solving cubic equations, proved to be a fundamental component in describing reality <a class="yt-timestamp" data-t="00:21:56">[00:21:56]</a>, <a class="yt-timestamp" data-t="00:22:01">[00:22:01]</a>. By letting go of a strict connection between mathematics and tangible reality (like geometry), a more powerful and complete mathematical framework emerged, capable of uncovering deeper truths about the universe <a class="yt-timestamp" data-t="00:22:07">[00:22:07]</a>, <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>.

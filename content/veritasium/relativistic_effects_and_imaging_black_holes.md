@@ -1,0 +1,44 @@
+---
+title: Relativistic effects and imaging black holes
+videoId: zUyH3XhpLTo
+---
+
+From: [[veritasium]] <br/> 
+
+On Wednesday, April 10, 2019, the [[First image of a black hole by Event Horizon Telescope | Event Horizon Telescope]] released what was expected to be the first-ever image of a [[concept_of_black_holes_and_their_properties | black hole]] <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This image was anticipated to resemble a "fuzzy coffee mug stain" <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. The significance of this image lies in its potential to confirm whether the [[general_theory_of_relativity_and_black_holes | General Theory of Relativity]] accurately predicts phenomena within the strong gravity regime around a [[concept_of_black_holes_and_their_properties | black hole]] <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+
+## Anatomy of a Black Hole for Imaging
+
+To understand what is being observed in a [[first_image_of_a_black_hole_by_event_horizon_telescope | black hole image]], it's important to define key regions around it:
+*   **Event Horizon**: This is the boundary beyond which nothing, not even light, can escape to an outside observer if fired radially away from the [[concept_of_black_holes_and_their_properties | black hole]] <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. Once inside, all paths lead to the central singularity, and there is "no coming back" <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+*   **Schwarzschild Radius**: This is the specific radius of the event horizon <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+*   **Accretion Disk**: A [[concept_of_black_holes_and_their_properties | black hole]] by itself, without surrounding matter, would be invisible as it absorbs all electromagnetic radiation <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. However, [[concept_of_black_holes_and_their_properties | black holes]] like Sagittarius A* at the center of our Milky Way galaxy <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a> are surrounded by an accretion disk of dust and gas <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>. This matter swirls chaotically at millions of degrees and at a significant fraction of the speed of light, feeding the [[concept_of_black_holes_and_their_properties | black hole]] and causing it to grow <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
+*   **Innermost Stable Circular Orbit (ISCO)**: The accretion disk does not extend all the way to the event horizon <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. For a non-spinning [[concept_of_black_holes_and_their_properties | black hole]], the ISCO is located at three Schwarzschild radii <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>. Matter that goes inside this orbit quickly falls into the [[concept_of_black_holes_and_their_properties | black hole]] <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
+*   **Photon Sphere**: Light, having no mass, can orbit a [[concept_of_black_holes_and_their_properties | black hole]] even closer than matter, at 1.5 Schwarzschild radii <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. This is an unstable orbit; photons within this sphere will eventually either spiral into the singularity or spiral out to infinity <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. Hypothetically, if one could stand there, they could see the back of their own head due to light completing the orbit <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+
+## Relativistic Warping of Spacetime and Light Paths
+
+The [[concept_of_black_holes_and_their_properties | black hole]]'s immense gravity warps spacetime around it, which in turn changes the path of light rays <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Light rays, while technically traveling in "straight lines" through curved spacetime, appear to us as curves <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+
+### The Black Hole Shadow
+
+The perceived "shadow" of a [[concept_of_black_holes_and_their_properties | black hole]] is not simply the event horizon, the photon sphere, or the ISCO <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. Instead, it is a complex effect of light bending:
+*   Parallel light rays heading towards the [[concept_of_black_holes_and_their_properties | black hole]] will be absorbed if they cross the event horizon, creating a dark region <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
+*   Even light rays just above the event horizon or at the distance of the photon sphere will bend and fall into the [[concept_of_black_holes_and_their_properties | black hole]] <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
+*   For a light ray to just graze the photon sphere and then travel off to infinity without being absorbed, it must originate from an apparent distance of 2.6 Schwarzschild radii away <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
+*   Therefore, the resulting "shadow" that we observe is approximately 2.6 times larger than the event horizon <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>.
+
+This shadow encompasses the event horizon at its center <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>. Due to the extreme bending of light, observers can actually see the entire backside of the event horizon mapped onto a ring within this shadow <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>. As one approaches the edge of this shadow, there are theoretically infinite images of the event horizon in successive, thinner annular rings <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>. The first light we can see is from rays that graze the photon sphere before reaching our telescopes <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
+
+### Viewing Angles and Apparent Distortions
+
+The appearance of the [[concept_of_black_holes_and_their_properties | black hole]] also depends on the viewing angle relative to the accretion disk:
+*   If observing perpendicular to the accretion disk, the image would look like the shadow described <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>.
+*   If observing at a random angle or even edge-on, the warping of spacetime means that light rays from the back of the accretion disk can bend over the top (or bottom) of the [[concept_of_black_holes_and_their_properties | black hole]] and reach our telescopes <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. This allows us to see the "back" of the accretion disk <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>.
+*   Furthermore, light from the top of the accretion disk can travel around the back of the [[concept_of_black_holes_and_their_properties | black hole]], graze the photon sphere, and appear as a thin ring underneath the shadow <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. Similarly, light from the bottom of the disk can go underneath, around the back, and emerge over the top, forming another ring <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. This intricate light bending creates a spectacular image, similar to the [[first_image_of_a_black_hole_by_event_horizon_telescope | black hole image]] seen in the movie *Interstellar* <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
+
+### [[Relativistic beaming and plasma orbiting the black hole | Relativistic Beaming]] (Doppler Beaming)
+
+Another crucial [[relativistic_beaming_and_plasma_orbiting_the_black_hole | relativistic effect]] in [[first_image_of_a_black_hole_by_event_horizon_telescope | imaging black holes]] is [[relativistic_beaming_and_plasma_orbiting_the_black_hole | relativistic beaming]] or Doppler beaming <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>. Since the matter in the accretion disk moves at speeds close to the speed of light <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>, if a part of the disk is moving towards the observer, it will appear significantly brighter than the side moving away <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>. This phenomenon results in a distinct bright spot in the [[first_image_of_a_black_hole_by_event_horizon_telescope | black hole image]] <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>.
+
+Observing how these features, like bright "blobs" of matter, move around the [[concept_of_black_holes_and_their_properties | black hole]] over time, appearing on the front and then re-appearing in the warped "back" image, is particularly exciting for researchers <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>.
