@@ -1,7 +1,7 @@
 ---
-title: Full body energy cleanse
+title: full body energy cleanse
 videoId: rd5Q5r_MrLE
 ---
 
 From: [[dreamylapse]] <br/> 
-There is no information available in the provided transcript regarding a full body energy cleanse.
+No information about a full body energy cleanse was found within the provided transcript.
