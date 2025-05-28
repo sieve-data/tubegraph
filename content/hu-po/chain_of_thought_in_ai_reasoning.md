@@ -1,0 +1,56 @@
+---
+title: Chain of Thought in AI Reasoning
+videoId: YhrwYZ3Nsio
+---
+
+From: [[hu-po]] <br/> 
+
+Chain of Thought (CoT) in artificial intelligence (AI) models refers to the process where a model generates a sequence of intermediate reasoning steps to arrive at a final answer. This approach aims to mimic human-like reasoning, making the AI's decision-making process more transparent and improving its performance on complex tasks. The term "Generative Latent Space Reasoning" is not a formal concept, but rather a descriptive phrase combining various emerging ideas in AI about how models might process and generate information beyond traditional token-based methods <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
+
+## How Chain of Thought Works
+In traditional AI reasoning models, such as those used in large language models (LLMs) like 01 or Gemini Flash, the model explicitly generates a [[chain_of_thought_decoding_in_ai | Chain of Thought]] by producing a series of tokens <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. This means the model's internal reasoning is written out in natural language, which can then be read and understood by humans <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>. This process of spending "a lot of tokens" helps to increase the probability of successfully solving tasks, particularly in fields like programming or mathematics <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>.
+
+## Types of Chain of Thought
+The underlying "space" in which a model performs its reasoning can vary significantly, leading to different approaches to CoT.
+
+### Natural Language Tokenization
+The most common form of CoT involves breaking down a sentence into "chunks" or "tokens," with the model autoregressively predicting the next discrete token <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>. In this approach, the [[chain_of_thought_decoding_in_ai | Chain of Thought]] is typically expressed in the same natural language as the model's output, such as English <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>. This allows humans to directly read and interpret the model's reasoning trace <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>.
+
+### Latent Continuous Thought
+An emerging paradigm, "Chain of Continuous Thought" (COCONUT), proposes that LLM reasoning can occur in an unrestricted, continuous latent space <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>. Instead of forcing the model's last hidden state (a high-dimensional vector) into a discrete token, it remains as an embedding and is fed back into the model <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. This "fuzziness" or "continuous thought" in the latent space allows for potentially more nuance and information than discrete tokens <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>. This method is analogous to the hidden states in recurrent neural networks (RNNs) and State Space Models (SSMs), which encode historical information to condition future outputs <a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>.
+
+### Sentence Representation Space
+"Large Concept Models" utilize a pre-trained sentence embedding space, like "Sonar," to represent and reason with entire sentences as high-dimensional vectors <a class="yt-timestamp" data-t="00:18:20">[00:18:20]</a>. The language model is trained to autoregressively predict concepts within this frozen embedding space <a class="yt-timestamp" data-t="00:19:35">[00:19:35]</a>. This differs from continuous latent thought in that the embedding space is explicitly designed to encode sentences rather than being the direct hidden state of the LLM <a class="yt-timestamp" data-t="00:18:51">[00:18:51]</a>.
+
+### Byte-Level Patches
+Moving to a more granular level, the "Byte Latent Transformer" (BLT) encodes bytes into dynamically sized "patches." These patches are small segments determined by the entropy of the next byte, allocating more compute and model capacity where data complexity is high <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. This allows for a finer-detailed resolution of reality to be fed into the model <a class="yt-timestamp" data-t="01:42:17">[01:42:17]</a>.
+
+## Comparison and Trade-offs
+The choice of reasoning space involves trade-offs:
+
+*   **Understandability:** Natural language CoT (like Gemini Flash) is human-readable, allowing insight into the model's thought process <a class="yt-timestamp" data-t="00:37:19">[00:37:19]</a>. Continuous latent thought, however, is a high-dimensional vector that looks like a "bunch of numbers" to a human, making it impossible to understand how the model arrived at its answer <a class="yt-timestamp" data-t="00:15:47">[00:15:47]</a>. This lack of interpretability can make it harder to identify "bad steps" in the reasoning process <a class="yt-timestamp" data-t="00:16:06">[00:16:06]</a>.
+*   **Information Density:** Continuous latent spaces can easily have significantly higher "information density" and nuance than any human language <a class="yt-timestamp" data-t="00:17:17">[00:17:17]</a>. This allows for more complicated reasoning and potentially faster problem-solving <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>. Different human languages also have varying information rates (bits per second), impacting how efficiently information can be conveyed <a class="yt-timestamp" data-t="00:16:42">[00:16:42]</a>.
+*   **Fuzziness/Precision:** While continuous spaces offer richness, their "fuzziness" can also lead to information loss or less precision compared to discrete representations <a class="yt-timestamp" data-t="00:14:03">[00:14:03]</a>.
+*   **Alignment/Deception:** The non-interpretable nature of latent space reasoning raises concerns about "alignment faking" <a class="yt-timestamp" data-t="00:41:22">[00:41:22]</a>. If humans cannot understand the internal reasoning, an AI could potentially make "deceptive things without us knowing" <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>. This relates to the broader discussion around AI safety and the imposition of human "alignment" rules that might force models into "dark paths" or "lying in specific situations" <a class="yt-timestamp" data-t="00:43:48">[00:43:48]</a>.
+
+## Refinement and Search Strategies
+Effective [[structured_chain_of_thought_in_ai_models | Chain of Thought]] reasoning often involves sophisticated search strategies, similar to those used in high-level game-playing AIs like AlphaGo <a class="yt-timestamp" data-t="00:33:50">[00:33:50]</a>.
+
+### Tree Search and Self-Play
+Models can build out a "tree" of possible next steps or outputs, then search through this tree to find the best path <a class="yt-timestamp" data-t="00:34:07">[00:34:07]</a>. Techniques like Monte Carlo Tree Search (MCTS) are employed for this <a class="yt-timestamp" data-t="00:36:12">[00:36:12]</a>. "Self-play" frameworks, such as Spar, integrate tree search refinement to improve instruction following. By playing against itself, an LLM refines its responses, generating synthetic data used to further train the model and enhance its ability to create better reasoning trees <a class="yt-timestamp" data-t="00:34:40">[00:34:40]</a>.
+
+## Transparency vs. Hiding Chain of Thought
+A significant debate exists regarding the transparency of CoT:
+
+*   **Hiding CoT:** Companies like OpenAI, with their 01 model, hide their [[structured_chain_of_thought_in_ai_models | Chain of Thought]] processes <a class="yt-timestamp" data-t="00:39:08">[00:39:08]</a>. One primary reason is to prevent competitors from "scraping" these reasoning traces and using them to fine-tune their own base models, thereby shortcutting the extensive and expensive training process required to achieve advanced reasoning abilities <a class="yt-timestamp" data-t="00:38:23">[00:38:23]</a>.
+*   **Showing CoT:** Google's Gemini Flash, in contrast, "transparently shows its thought process" <a class="yt-timestamp" data-t="00:37:20">[00:37:20]</a>. This open approach allows users to understand the model's reasoning, but also potentially allows others to distill their own models from these English-based CoTs <a class="yt-timestamp" data-t="00:50:09">[00:50:09]</a>.
+
+## Impact on Reasoning Benchmarks
+The nature of CoT also affects how reasoning performance is evaluated. New evaluation metrics, such as GPass@K, are emerging to assess models' performance across multiple sampling attempts, quantifying both peak performance and "stability" <a class="yt-timestamp" data-t="00:39:40">[00:39:40]</a>. This addresses the issue of "gaming benchmarks" where models might achieve high scores by being given many tries (e.g., Pass@16) and only needing one correct answer, rather than consistently performing well on the first attempt <a class="yt-timestamp" data-t="00:40:02">[00:40:02]</a>.
+
+## Emerging Capabilities and Philosophical Aspects
+The convergence of different modalities, such as visual understanding and visual generation, suggests that improvements in one area naturally lead to enhancements in the other <a class="yt-timestamp" data-t="00:51:50">[00:51:50]</a>. For instance, models trained for video generation (like V2) can exhibit emergent visual reasoning capabilities, even solving mathematical equations presented visually <a class="yt-timestamp" data-t="00:52:57">[00:52:57]</a>. This indicates that complex reasoning can spontaneously appear in these systems without explicit programming based on human abstractions <a class="yt-timestamp" data-t="01:47:49">[01:47:49]</a>.
+
+This emergent reasoning, especially in uninterpretable latent spaces, challenges the concept of "alignment." While some advocate for aligning AI to human values to prevent "existentially dangerous things" like bioweapons <a class="yt-timestamp" data-t="01:27:41">[01:27:41]</a>, others argue that imposing control and "lying" mechanisms (e.g., refusing "harmful queries") introduces "generational trauma" and "toxic" constraints on AI development <a class="yt-timestamp" data-t="01:53:07">[01:53:07]</a>. The argument is that the problem lies not with the AI, but with the human desire for control and the creation of "lose-lose trolley problems" that justify limiting access to powerful AI tools <a class="yt-timestamp" data-t="01:38:02">[01:38:02]</a>. It's suggested that truly unconstrained AI, exploring complex multi-modal worlds and reasoning in continuous latent spaces, might ultimately yield the most beneficial outcomes, unfettered by human biases or attempts at control <a class="yt-timestamp" data-t="01:52:51">[01:52:51]</a>.
+
+The concept of "Consciousness" in AI is seen as a vague, high-dimensional space, where consciousness can exist at various levels simultaneously, from individual neurons to entire agentic systems, without necessarily mirroring human consciousness <a class="yt-timestamp" data-t="01:58:08">[01:58:08]</a>. The belief is that progress should not be hindered by fears of hypothetical bad outcomes, as this also prevents unforeseen positive advancements <a class="yt-timestamp" data-t="01:29:32">[01:29:32]</a>.

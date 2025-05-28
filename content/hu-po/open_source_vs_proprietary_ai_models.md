@@ -1,0 +1,51 @@
+---
+title: Open Source vs Proprietary AI Models
+videoId: Y0gYsq7tOnM
+---
+
+From: [[hu-po]] <br/> 
+
+The landscape of Artificial Intelligence (AI) models is largely divided between [[open_source_ai_models_and_accessibility | open source]] and proprietary (closed source) approaches, each with distinct characteristics regarding accessibility, licensing, and transparency <a class="yt-timestamp" data-t="01:48:47">[01:48:47]</a>.
+
+## Defining Open and Closed Source in AI
+
+The term "open source" in AI models typically implies that the technology is free and its code is available for both research and commercial use <a class="yt-timestamp" data-t="01:49:09">[01:49:09]</a>. However, the reality is often more nuanced <a class="yt-timestamp" data-t="01:49:51">[01:49:51]</a>.
+
+Proprietary models, on the other hand, maintain strict control over their code, data, and often their architecture and training details.
+
+## Key Players and Their Stances
+
+### Meta AI Research
+[[meta_ai_research | Meta AI]] (Facebook) is considered "the most open of the big tech companies" <a class="yt-timestamp" data-t="01:49:36">[01:49:36]</a>, often releasing papers, code, and models like [[Foundation models in AI | Llama 2]] and Code Llama <a class="yt-timestamp" data-t="01:49:43">[01:49:43]</a>.
+
+*   **Code Llama:** This [[Foundation models in AI | large language model]] for code is described as "kind of open source" <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a> and "kind of available" <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. Users can download the models from [[meta_ai_research | Meta's]] GitHub repository <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
+*   **Licensing:** Despite being called "open," Code Llama is released under a "very weird cryptic license" <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. It allows for both research and commercial use <a class="yt-timestamp" data-t="01:19:14">[01:19:14]</a>, but with caveats that suggest "Facebook lawyers will come after you" <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a> if certain thresholds are crossed, such as making "too much money or... too much noise" <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. This contrasts with standard [[open source contributions in AI research | open source]] licenses like MIT or Apache <a class="yt-timestamp" data-t="01:50:06">[01:50:06]</a>.
+*   **Data Transparency:** [[meta_ai_research | Meta]], like other companies, is criticized for not disclosing the specific details of their training datasets <a class="yt-timestamp" data-t="00:39:54">[00:39:54]</a>. This secrecy is believed to stem from concerns over intellectual property and potential lawsuits from data owners, such as Stack Overflow, whose content appears to be part of the training data <a class="yt-timestamp" data-t="00:42:07">[00:42:07]</a>.
+
+### OpenAI
+[[OpenAI and Consistency Models | OpenAI]] is "famously the opposite of [[open_source_ai_models_and_accessibility | open AI]]" <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a> despite its name <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+
+*   **GPT-3.5 and GPT-4:** Models like GPT-3.5 Turbo and GPT-4 are considered "closed Source" <a class="yt-timestamp" data-t="01:48:57">[01:48:57]</a>. GPT-4, specifically, is not publicly available for direct evaluation on benchmarks <a class="yt-timestamp" data-t="01:16:15">[01:16:15]</a>, making direct comparisons challenging <a class="yt-timestamp" data-t="01:32:43">[01:32:43]</a>.
+*   **Performance:** GPT-4 generally remains "the king" <a class="yt-timestamp" data-t="01:33:34">[01:33:34]</a>, often outperforming even [[open_source_ai_models_and_accessibility | open source]] models specialized for specific tasks, like Code Llama on code benchmarks <a class="yt-timestamp" data-t="01:32:30">[01:32:30]</a>.
+
+## Data Transparency: A Central Issue
+
+A significant point of contention in the [[open_source_ai_models_and_accessibility | open source]] vs. proprietary debate is the lack of transparency regarding training datasets <a class="yt-timestamp" data-t="00:39:50">[00:39:50]</a>.
+
+*   **Impact on Understanding Models:** Without knowing what data a model was trained on, it's impossible to fully understand its capabilities, biases, or potential security vulnerabilities <a class="yt-timestamp" data-t="00:40:11">[00:40:11]</a>.
+*   **Data Scarcity and Quality:** Cleaning and deduplicating massive datasets is a Herculean task <a class="yt-timestamp" data-t="00:46:06">[00:46:06]</a>. Models like Code Llama are trained on "near deduplicated" <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a> data from "code heavy data set" <a class="yt-timestamp" data-t="00:47:04">[00:47:04]</a>, often sourced from public [[open source contributions in AI research | open source]] code (e.g., GitHub, Stack Overflow) <a class="yt-timestamp" data-t="01:50:26">[01:50:26]</a>.
+*   **Synthetic Data:** The increasing use of synthetic data, generated by other language models, is a developing trend <a class="yt-timestamp" data-t="01:35:06">[01:35:06]</a>. If models can be trained entirely on synthetic data, it could potentially democratize AI development by removing the "moat" of proprietary datasets <a class="yt-timestamp" data-t="01:35:42">[01:35:42]</a>.
+
+## Performance and Model Specialization
+
+The discussion touches upon the ongoing debate between [[TaskSpecific vs General AI Models | task-specific vs. general AI models]].
+
+*   **Specialized Models:** Code Llama, a specialized model for code, can outperform a much larger general model like [[Foundation models in AI | Llama 2]] 70B on specific code benchmarks (HumanEval and MBP) <a class="yt-timestamp" data-t="01:50:50">[01:50:50]</a>. This suggests that fine-tuning on domain-specific data can significantly improve efficacy <a class="yt-timestamp" data-t="00:17:32">[00:17:32]</a>.
+*   **The "Bitter Lesson" and General AI:** The speaker suggests that the trend of creating narrow, specialized AI models by fine-tuning may eventually be superseded <a class="yt-timestamp" data-t="02:02:51">[02:02:51]</a>. This is based on Rich Sutton's "Bitter Lesson" <a class="yt-timestamp" data-t="00:25:20">[00:25:20]</a>, which posits that simple scaling laws and increased compute power tend to yield better results than complex, hand-engineered solutions <a class="yt-timestamp" data-t="00:25:40">[00:25:40]</a>.
+    *   The belief is that a truly massive, [[TaskSpecific vs General AI Models | general AI]] model trained on "literally every single piece of text in the world" <a class="yt-timestamp" data-t="00:22:03">[00:22:03]</a> will eventually outperform any fine-tuned, specialized model <a class="yt-timestamp" data-t="00:21:51">[00:21:51]</a>.
+    *   Training on code, for example, can surprisingly make a language model better at general logic <a class="yt-timestamp" data-t="02:01:33">[02:01:33]</a>, demonstrating transfer learning that benefits broader understanding <a class="yt-timestamp" data-t="00:21:30">[00:21:30]</a>.
+*   **The Future of Training Pipelines:** The training process for models is becoming increasingly complex, moving from simple pre-training and fine-tuning to multiple cascaded steps <a class="yt-timestamp" data-t="01:59:00">[01:59:00]</a>. This "curriculum" approach involves increasingly narrower datasets and specific adjustments to hyperparameters at each stage <a class="yt-timestamp" data-t="01:19:10">[01:19:10]</a>.
+
+## Conclusion
+
+The distinction between [[open_source_ai_models_and_accessibility | open source]] and proprietary AI models is multifaceted. While companies like [[meta_ai_research | Meta]] strive for greater openness by releasing models and code, licensing complexities and data secrecy still pose challenges to true transparency <a class="yt-timestamp" data-t="01:49:51">[01:49:51]</a>. The ongoing development of larger, more general models also raises questions about the long-term viability of highly specialized, narrow models, irrespective of their open or closed nature <a class="yt-timestamp" data-t="00:39:50">[00:39:50]</a>.

@@ -1,0 +1,76 @@
+---
+title: Concept of test time scaling and its impact on AI performance
+videoId: Xk8FtcSlFxs
+---
+
+From: [[hu-po]] <br/> 
+
+Test time scaling (TTS) refers to the strategy of increasing the amount of computational resources utilized during the inference or "test" phase of an AI model to enhance the accuracy of its final output <a class="yt-timestamp" data-t="01:26:48">[01:26:48]</a>. This approach leverages additional compute to allow models to engage in more extensive reasoning processes before delivering an answer <a class="yt-timestamp" data-t="0:03:37">[0:03:37]</a>, <a class="yt-timestamp" data-t="0:05:27">[0:05:27]</a>.
+
+## Simple Test Time Scaling
+
+A foundational example of TTS is demonstrated in papers like "Simple Test Time Scaling," where a relatively small model (S1 32b) was shown to exceed the performance of larger models on competitive math questions by up to 27% <a class="yt-timestamp" data-t="0:03:35">[0:03:35]</a>. This was achieved by simply adding a "weight token" and forcing the model to continue its reasoning process, often by ignoring an "end of thinking" token <a class="yt-timestamp" data-t="0:04:07">[0:04:07]</a>, <a class="yt-timestamp" data-t="0:04:37">[0:04:37]</a>.
+
+The core idea is that as the model spends more time thinking (i.e., generating more reasoning tokens), its accuracy significantly increases <a class="yt-timestamp" data-t="0:04:43">[0:04:43]</a>. This phenomenon is reminiscent of the "let's think step by step" prompting technique, which was found to magically improve model performance <a class="yt-timestamp" data-t="0:05:02">[0:05:02]</a>.
+
+## Test Time vs. Train Time Compute
+
+Traditionally, AI model improvement has focused on [[challenges_and_methodologies_in_ai_training | training scale]] – investing more compute into the training phase (e.g., using larger datasets, bigger batches, larger models, or longer training times) to produce a "smarter" model <a class="yt-timestamp" data-t="0:07:11">[0:07:11]</a>, <a class="yt-timestamp" data-t="0:07:22">[0:07:22]</a>. This is known as pre-training scaling <a class="yt-timestamp" data-t="0:07:07">[0:07:07]</a>.
+
+However, recent findings, particularly from OpenAI's "Competitive Programming with Large Reasoning Models" paper, illustrate a similar linear relationship between increasing test time compute and model accuracy (specifically, "pass@1 accuracy," meaning getting the correct answer on the first try) <a class="yt-timestamp" data-t="0:06:04">[0:06:04]</a>, <a class="yt-timestamp" data-t="0:06:41">[0:06:41]</a>, <a class="yt-timestamp" data-t="0:07:26">[0:07:26]</a>. This suggests that spending compute at test time can yield more "bang for your buck" compared to spending it at train time <a class="yt-timestamp" data-t="0:09:27">[0:09:27]</a>.
+
+### [[Energy and Compute Optimization in AI Models | Implications of AI model scaling and convergence | Scaling Implications]]
+
+Scaling train time compute is often capital expenditure (capex) intensive, requiring massive GPU clusters and complex networking infrastructure, such as the proposed "Stargate" data center <a class="yt-timestamp" data-t="0:09:35">[0:09:35]</a>. In contrast, scaling test time compute is significantly easier, as it can be performed at the "edge" – on a user's cell phone or a robot <a class="yt-timestamp" data-t="0:10:18">[0:10:18]</a>. This allows for increased computation by simply running the model for a longer duration on existing edge devices <a class="yt-timestamp" data-t="0:10:52">[0:10:52]</a>.
+
+The concept of test time compute is akin to repeatedly trying to solve a problem and then selecting the best solution, much like an AI could brute-force code optimization by writing, evaluating, and modifying code in a loop <a class="yt-timestamp" data-t="0:11:16">[0:11:16]</a>. This aligns with the [[SelfImprovement in AI Models | "bitter lesson"]], emphasizing that brute-force search can lead to superior outcomes compared to complex, engineered AI design <a class="yt-timestamp" data-t="0:12:30">[0:12:30]</a>.
+
+## Efficiency of Smaller Models with Test Time Scaling
+
+A notable finding is that a 1-billion-parameter (1B) Large Language Model (LLM) can surpass a 405B LLM through "compute-optimal test time scaling" <a class="yt-timestamp" data-t="0:13:01">[0:13:01]</a>. For instance, DeepSeek R1 Distill 1.5B has been shown to outperform OpenAI's o1 preview on specific math benchmarks <a class="yt-timestamp" data-t="0:13:36">[0:13:36]</a>. This highlights that there is significant untapped potential within smaller models, suggesting that efficiency can be greatly improved without constantly increasing parameter size <a class="yt-timestamp" data-t="0:14:39">[0:14:39]</a>, <a class="yt-timestamp" data-t="0:14:56">[0:14:56]</a>. This could lead to a future where highly intelligent models run efficiently on edge devices like cell phones or even Raspberry Pis <a class="yt-timestamp" data-t="0:15:01">[0:15:01]</a>.
+
+## Test Time Strategies and Internalization
+
+"Test time scaling" (TTS) can sometimes refer to sophisticated test time *strategies* rather than just increasing reasoning length <a class="yt-timestamp" data-t="0:07:46">[0:07:46]</a>, <a class="yt-timestamp" data-t="0:15:18">[0:15:18]</a>. These strategies involve intelligently selecting the best token during autoregressive sampling. Common methods include:
+*   **Best-of-N**: Generating multiple responses and using a scoring or voting method (e.g., a process reward model or PRM) to choose the best <a class="yt-timestamp" data-t="0:15:58">[0:15:58]</a>.
+*   **Beam Search**: A more advanced variant that looks ahead multiple steps in the token generation process, exploring a "beam" of possibilities to find a higher-probability sequence <a class="yt-timestamp" data-t="0:16:27">[0:16:27]</a>.
+*   **Diverse Verifier Tree Search (DVTS)**: An even fancier variant of beam search <a class="yt-timestamp" data-t="0:17:18">[0:17:18]</a>.
+
+These strategies allow models to "find" the correct reasoning trace that may already exist within their internal knowledge, even if not immediately obvious <a class="yt-timestamp" data-t="0:19:14">[0:19:14]</a>.
+
+However, the effectiveness of these explicit test time strategies diminishes as the policy model's parameter count increases <a class="yt-timestamp" data-t="0:18:25">[0:18:25]</a>. For smaller models with weaker reasoning abilities, TTS provides substantial improvements, but for larger, stronger models, the gains are limited <a class="yt-timestamp" data-t="0:18:36">[0:18:36]</a>. This suggests that larger models, especially those fine-tuned with Reinforcement Learning (RL), may internalize these search behaviors, effectively "baking in" the ability to select correct paths, making complex external strategies less necessary <a class="yt-timestamp" data-t="0:20:40">[0:20:40]</a>, <a class="yt-timestamp" data-t="0:22:46">[0:22:46]</a>. This trend points towards simplification of AI pipelines as models become more intelligent <a class="yt-timestamp" data-t="0:23:31">[0:23:31]</a>.
+
+Furthermore, the optimal test time strategy can vary depending on the problem difficulty and model size, indicating that these specific search algorithms might not represent a fundamental scaling law <a class="yt-timestamp" data-t="0:24:47">[0:24:47]</a>, <a class="yt-timestamp" data-t="0:25:06">[0:25:06]</a>.
+
+## Self-Improvement and Data Filtering
+
+The concept of TTS intertwines with [[SelfImprovement in AI Models | self-improvement]] frameworks, where models generate their own training data by collecting predictions on out-of-distribution data <a class="yt-timestamp" data-t="0:44:40">[0:44:40]</a>. This self-generated data is then filtered (e.g., via majority voting or length filtering) to identify good and bad solutions <a class="yt-timestamp" data-t="0:44:49">[0:44:49]</a>, <a class="yt-timestamp" data-t="0:51:01">[0:51:01]</a>. The filtered "good" data is then used to retrain the model, creating a positive feedback loop <a class="yt-timestamp" data-t="0:45:12">[0:45:12]</a>.
+
+This process enables "transcendence" – the ability of a student model to generalize slightly beyond the difficulty of the data provided by its teacher during training <a class="yt-timestamp" data-t="0:45:52">[0:45:52]</a>. This mirrors human cultural evolution, where successive generations improve upon previous ones by learning from filtered, higher-quality knowledge <a class="yt-timestamp" data-t="0:46:25">[0:46:25]</a>, <a class="yt-timestamp" data-t="0:51:51">[0:51:51]</a>.
+
+Critically, filtering is essential for self-improvement; without it, self-generated training data degrades, leading to a collapse in performance <a class="yt-timestamp" data-t="0:53:31">[0:53:31]</a>. The use of majority voting for filtering implies that an external reward signal is not strictly necessary for improvement <a class="yt-timestamp" data-t="0:54:50">[0:54:50]</a>. A model can improve by duplicating itself, relying on the randomness of outcomes, and using consensus among its copies to filter and reinforce better paths <a class="yt-timestamp" data-t="0:54:54">[0:54:54]</a>. This suggests that [[current_state_of_ai_agents_and_their_limitations | RL can work]] even in non-verifiable domains like philosophy or poetry, where objective right answers are absent <a class="yt-timestamp" data-t="0:55:50">[0:55:50]</a>. This ability to accumulate intelligence through collective refinement is a form of "neg-entropy" in the information world <a class="yt-timestamp" data-t="0:47:37">[0:47:37]</a>, <a class="yt-timestamp" data-t="0:50:03">[0:50:03]</a>.
+
+## Reasoning Beyond Token Space
+
+Traditional reasoning models perform their "thought" processes in token space, meaning their internal monologues are sequences of words or sub-word tokens <a class="yt-timestamp" data-t="0:58:10">[0:58:10]</a>. While this makes their reasoning transparent and understandable, it also imposes limitations <a class="yt-timestamp" data-t="0:58:25">[0:58:25]</a>.
+
+New approaches are exploring **multimodal visualization of thought** and **latent reasoning** to overcome these limitations <a class="yt-timestamp" data-t="0:58:47">[0:58:47]</a>.
+*   **Multimodal Visualization of Thought (VOT)**: Models generate verbal thought, which then conditions an image generation model. The resulting image is converted into vision tokens and fed back into the reasoning chain <a class="yt-timestamp" data-t="0:59:23">[0:59:23]</a>. This allows models to incorporate visual information into their reasoning, improving performance on tasks like maze solving <a class="yt-timestamp" data-t="0:59:59">[0:59:59]</a>. This can be conceptualized as moving beyond "word cells" (thinking in words) to incorporating "shape rotators" (thinking in images and spatial terms) <a class="yt-timestamp" data-t="01:00:40">[01:00:40]</a>.
+*   **[[The significance of longcontext processing in AI models | Latent Reasoning]]**: In this approach, models reason entirely within a continuous, high-dimensional "latent space" rather than token space <a class="yt-timestamp" data-t="01:03:08">[01:03:08]</a>, <a class="yt-timestamp" data-t="01:04:10">[01:04:10]</a>. This is often achieved using recurrent neural networks (RNNs) or Long Short-Term Memory (LSTMs) units, which iteratively transform an embedding in latent space <a class="yt-timestamp" data-t="01:05:05">[01:05:05]</a>. This allows for variable "depth" of computation, as the recurrent block can be iterated many times for complex problems <a class="yt-timestamp" data-t="01:08:16">[01:08:16]</a>, <a class="yt-timestamp" data-t="01:08:45">[01:08:45]</a>. This is contrasted with the fixed layers of a Transformer <a class="yt-timestamp" data-t="01:08:08">[01:08:08]</a>.
+
+This "latent weaving" thinking mode offers advantages:
+*   **Increased Capacity**: Latent space is continuous and can hold much more complex information than discrete token space <a class="yt-timestamp" data-t="01:19:17">[01:19:17]</a>.
+*   **Efficiency**: RNNs/LSTMs exhibit linear scaling with sequence length, unlike the quadratic scaling of attention mechanisms in Transformers, making them potentially 100 times faster for inference <a class="yt-timestamp" data-t="01:17:09">[01:17:09]</a>, <a class="yt-timestamp" data-t="01:18:02">[01:18:02]</a>, <a class="yt-timestamp" data-t="01:19:30">[01:19:30]</a>. This is crucial for edge devices with limited memory <a class="yt-timestamp" data-t="01:20:25">[01:20:25]</a>.
+*   **Reduced Communication Cost**: Recurrent depth networks perform more floating-point operations (flops) per parameter, reducing the need for frequent data transfer between accelerators in distributed training <a class="yt-timestamp" data-t="01:22:36">[01:22:36]</a>. This could enable more decentralized training systems rather than relying on hyper-fast networking in large data centers <a class="yt-timestamp" data-t="01:24:26">[01:24:26]</a>.
+
+While reasoning in latent space is harder to interpret (e.g., using PCA to visualize the "reasoning chain" as a trajectory converging or looping in 2D space) <a class="yt-timestamp" data-t="01:12:26">[01:12:26]</a>, <a class="yt-timestamp" data-t="01:13:30">[01:13:30]</a>, it opens doors for more complex internal processes, like a "latent abacus" for counting <a class="yt-timestamp" data-t="01:15:01">[01:15:01]</a>.
+
+## Distillation and Architecture Agnosticism
+
+[[Technical aspects of AI model training and finetuning | Distillation]] is a key technique that enables the transfer of knowledge from large, complex "teacher" models to smaller, more efficient "student" models <a class="yt-timestamp" data-t="0:31:30">[0:31:30]</a>. The "magic" of distillation lies in its architecture-agnostic nature, allowing intelligence to be transferred between models with completely different internal structures <a class="yt-timestamp" data-t="0:31:46">[0:31:46]</a>.
+
+This means large companies can train powerful, RL-optimized models on massive data clusters and then distill that intelligence into smaller models specifically designed for efficient inference on consumer devices <a class="yt-timestamp" data-t="0:33:05">[0:33:05]</a>. This creates a separation: one architecture optimized for training and RL, and another optimized for fast serving on edge hardware like phones or TPUs <a class="yt-timestamp" data-t="0:33:20">[0:33:20]</a>.
+
+Furthermore, distillation is not limited to single models. An entire, complicated pipeline (e.g., a multimodal RAG system with multiple models, databases, and external calls) can be distilled into a single, smaller model <a class="yt-timestamp" data-t="0:36:21">[0:36:21]</a>. This allows for the integration of diverse capabilities (like cat detection, math reasoning, segmentation) into a single, deployable unit <a class="yt-timestamp" data-t="0:39:20">[0:39:20]</a>.
+
+The combination of test time scaling, [[the_role_of_data_quality_and_training_scale_in_ai_models | self-improvement]], [[SelfImprovement in AI Models | latent reasoning]], and distillation suggests a future where highly intelligent, specialized AI models can run efficiently on constrained hardware, fostering advancements in areas like mobile AI and robotics <a class="yt-timestamp" data-t="01:21:42">[01:21:42]</a>, <a class="yt-timestamp" data-t="01:29:36">[01:29:36]</a>.

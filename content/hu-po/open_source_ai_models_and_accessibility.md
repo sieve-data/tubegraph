@@ -1,0 +1,35 @@
+---
+title: Open source AI models and accessibility
+videoId: BJ98vicRYHg
+---
+
+From: [[hu-po]] <br/> 
+
+LLaVA (Large Language and Visual Assistant) is presented as a leading example of [[Open Source vs Proprietary AI Models | open-source AI models]], demonstrating how powerful models can be created without immense financial resources or complexity <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. It is considered "effectively as open source as you can get in 2023 in the AI space" <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>.
+
+## Key Aspects of LLaVA's Open Source Nature
+
+What makes LLaVA a truly [[Open Source vs Proprietary AI Models | open-source]] contribution:
+*   **Publicly Available Assets** The model, code, and model weights are all publicly released <a class="yt-timestamp" data-t="00:21:38">[00:21:38]</a> <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
+*   **Data Transparency** The exact data mixture used for training, including its proportions, is published in the paper <a class="yt-timestamp" data-t="00:21:51">[00:21:51]</a> <a class="yt-timestamp" data-t="01:03:45">[01:03:45]</a>. This contrasts with many other companies that often do not disclose their data mixtures <a class="yt-timestamp" data-t="01:07:18">[01:07:18]</a>.
+*   **Reproducible Training Scripts** The specific training and fine-tuning scripts, including hyperparameters, are released within the GitHub repository <a class="yt-timestamp" data-t="00:22:59">[00:22:59]</a> <a class="yt-timestamp" data-t="00:23:37">[00:23:37]</a> <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>. This allows for full reproducibility of the research <a class="yt-timestamp" data-t="01:33:06">[01:33:06]</a>.
+
+The transparency in releasing the data mixture, training scripts, and model weights makes LLaVA a "fully reproducible and affordable Baseline for future research" <a class="yt-timestamp" data-t="01:33:02">[01:33:02]</a>.
+
+## Accessibility and Compute Efficiency
+
+LLaVA contributes significantly to the accessibility of [[Future directions and potential breakthroughs in AI models | state of the art llm research]] through its efficient design:
+*   **Reduced Training Costs** LLaVA 1.5 achieved [[Future directions and potential breakthroughs in AI models | state-of-the-art]] performance on 11 benchmarks with only about one day of training on a single A100 node (8 A100 GPUs) <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a> <a class="yt-timestamp" data-t="01:01:04">[01:01:04]</a>. This is possible because it primarily focuses on fine-tuning a small "projection matrix" connecting already pre-trained models, rather than training from scratch <a class="yt-timestamp" data-t="00:47:11">[00:47:11]</a> <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>.
+*   **Lower Memory Footprint** The training process requires less GPU memory compared to full end-to-end training, as the heavy pre-trained components (like the [[OpenAI and Consistency Models | Clip Vision Transformer]] and [[Open source language models and data curation strategies | Vicuna Language Model]]) are mostly "frozen" <a class="yt-timestamp" data-t="00:46:57">[00:46:57]</a>. This means it can be trained on consumer-grade GPUs with less than 10 GB of VRAM <a class="yt-timestamp" data-t="01:17:17">[01:17:17]</a> <a class="yt-timestamp" data-t="00:47:17">[00:47:17]</a>.
+*   **Leveraging Existing Models** LLaVA combines pre-trained components like [[OpenAI and Consistency Models | OpenAI's Clip Vision Transformer]] and [[Open source language models and data curation strategies | Vicuna]] (a fine-tuned version of [[Meta AI research | Llama 2]]) <a class="yt-timestamp" data-t="01:54:35">[01:54:35]</a>. This approach makes it easier for researchers and developers to build upon existing robust models without needing to undertake massive training efforts from scratch <a class="yt-timestamp" data-t="01:06:05">[01:06:05]</a>.
+*   **Simplicity of Architecture** The connection between the vision encoder and the language model is achieved with a simple multi-layer perceptron (MLP), avoiding complex architectural designs <a class="yt-timestamp" data-t="00:29:28">[00:29:28]</a> <a class="yt-timestamp" data-t="00:30:11">[00:30:11]</a>. This simplicity contributes to its efficiency and approachability <a class="yt-timestamp" data-t="01:32:59">[01:32:59]</a>.
+
+## Limitations and Licensing Considerations
+
+While LLaVA is highly open, its composite nature introduces complexities:
+*   **Pre-trained Dependencies**: The "one day of training" claim is primarily for the *additional tuning* on top of already extensively pre-trained models like [[OpenAI and Consistency Models | OpenAI's Clip]] and [[Meta AI research | Llama]]/[[Open source language models and data curation strategies | Vicuna]] <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a> <a class="yt-timestamp" data-t="01:00:45">[01:00:45]</a>. The intelligence of LLaVA largely stems from these foundational models <a class="yt-timestamp" data-t="01:00:45">[01:00:45]</a>.
+*   **Licensing**: The use of [[OpenAI and Consistency Models | GPT-4]] generated [[Data Generation for AI Models | instruction following data]] and the [[Open source language models and data curation strategies | Llama 2]] license means that LLaVA cannot be used for commercial purposes without navigating potential legal complexities <a class="yt-timestamp" data-t="00:24:11">[00:24:11]</a> <a class="yt-timestamp" data-t="01:33:23">[01:33:23]</a>. However, it's suggested that enforcement of such licenses might be lenient for small-scale use or research <a class="yt-timestamp" data-t="00:25:15">[00:25:15]</a>. The rapidly evolving landscape of AI licensing makes these considerations highly fluid <a class="yt-timestamp" data-t="00:24:44">[00:24:44]</a>.
+
+## Future Implications for Open Source AI
+
+LLaVA's success suggests that "pure text and pure image pre-training" datasets combined with simple architectures and targeted instruction tuning can yield powerful multimodal models <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>. This approach makes [[Open source contributions in AI research | state-of-the-art AI development]] more accessible to researchers with limited compute resources <a class="yt-timestamp" data-t="01:32:08">[01:32:08]</a>. It paves the way for future [[open_source_language_models_and_data_curation_strategies | open-source contributions in AI research]], where combining and fine-tuning existing models on custom or synthetically generated [[Data Generation for AI Models | instruction following data]] becomes a dominant paradigm <a class="yt-timestamp" data-t="02:27:01">[02:27:01]</a> <a class="yt-timestamp" data-t="01:06:28">[01:06:28]</a>. The project itself is a strong encouragement for [[open_source_contributions_in_ai_research | open source contributions in AI research]] <a class="yt-timestamp" data-t="01:52:56">[01:52:56]</a>.

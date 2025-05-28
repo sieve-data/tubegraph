@@ -1,0 +1,25 @@
+---
+title: Mutual information and representations
+videoId: Q9DCL_m_haw
+---
+
+From: [[hu-po]] <br/> 
+The concept of mutual information is fundamental in probability and information theory, quantifying the degree of mutual dependence between two variables <a class="yt-timestamp" data-t="00:50:37">[00:50:37]</a>. Specifically, it measures the amount of information gained about one random variable by observing another <a class="yt-timestamp" data-t="00:50:44">[00:50:44]</a>. Mutual information is closely related to entropy, which measures the expected amount of information within a random variable <a class="yt-timestamp" data-t="00:50:58">[00:50:58]</a>. If two variables are completely independent, their mutual information will be very low, indicating that knowing about one does not provide significant information about the other <a class="yt-timestamp" data-t="00:51:27">[00:51:27]</a>.
+
+### Point-wise Mutual Information (PMI)
+
+Point-wise mutual information (PMI), represented as a kernel (kpmi), extends this concept to specific data points or observations <a class="yt-timestamp" data-t="00:50:16">[00:50:16]</a>, <a class="yt-timestamp" data-t="00:51:44">[00:51:44]</a>. In the context of AI models, observations (such as images, text, or sounds) are considered samples from an underlying, unknown distribution of reality (P of Z) <a class="yt-timestamp" data-t="00:51:53">[00:51:53]</a>. The existence of mutual information between these observations is critical because they all originate from this shared underlying reality <a class="yt-timestamp" data-t="00:51:53">[00:51:53]</a>.
+
+### Role in AI Models and Representations
+
+In deep learning, loss functions fundamentally aim to maximize the mutual information between different observations <a class="yt-timestamp" data-t="00:52:21">[00:52:21]</a>. When training a neural network, a "task gradient" or "pressure" is applied, compelling the model to learn a representation that can solve all given tasks <a class="yt-timestamp" data-t="00:53:14">[00:53:14]</a>. This means the model must find the inherent mutual information between the diverse inputs it processes <a class="yt-timestamp" data-t="00:53:14">[00:53:14]</a>.
+
+The outcome of this process is that representations—high-dimensional numerical vectors learned by the neural network—tend to converge <a class="yt-timestamp" data-t="01:33:30">[01:33:30]</a>. As models become larger and are trained on increasingly vast datasets, these representations become more aligned across different modalities, such as vision and language <a class="yt-timestamp" data-t="01:34:16">[01:34:16]</a>. This is because the larger the dataset, the more it represents the full "reality," and the larger the model's capacity, the better it can approximate the optimal function for compressing and understanding this reality <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>, <a class="yt-timestamp" data-t="01:35:04">[01:35:04]</a>.
+
+For any given modality, models are observed to converge towards the same "kernel," which reflects specific pairwise statistics of the true underlying reality (P of Z) <a class="yt-timestamp" data-t="00:52:40">[00:52:40]</a>. This implies that the compressed representations are converging towards a [[platonic_representation_in_ai_models | platonic ideal representation]] <a class="yt-timestamp" data-t="00:53:14">[00:53:14]</a>.
+
+For example:
+*   The representation of colors in a language model, which has never "seen" a color, shows similar distances between colors (e.g., red and orange are closer than red and blue) as human perception and vision models do <a class="yt-timestamp" data-t="00:59:17">[00:59:17]</a>, <a class="yt-timestamp" data-t="01:00:02">[01:00:02]</a>, <a class="yt-timestamp" data-t="01:00:30">[01:00:30]</a>. This suggests that by predicting co-occurrences in text, the language model implicitly learns the underlying relationships present in reality, aligning with human perception <a class="yt-timestamp" data-t="01:01:04">[01:01:04]</a>.
+*   Similarly, the concept of a grasshopper is numerically close to a cricket in a model's representation space <a class="yt-timestamp" data-t="01:28:10">[01:28:10]</a>. This principle suggests that even if one trained an audio synthesis model, the sound representation of a cricket might be close to that of a grasshopper due to the underlying mutual information in reality <a class="yt-timestamp" data-t="01:28:46">[01:28:46]</a>.
+
+This convergence across modalities suggests that models, regardless of their input type, are all driven by the same fundamental objective: to find and maximize the mutual information between observations of reality <a class="yt-timestamp" data-t="01:29:13">[01:29:13]</a>, <a class="yt-timestamp" data-t="01:29:21">[01:29:21]</a>. This process ultimately leads to increasingly accurate approximations of the unknown distribution of reality, which is termed the [[platonic_representation_in_ai_models | platonic reality]] <a class="yt-timestamp" data-t="00:56:51">[00:56:51]</a>.

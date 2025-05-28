@@ -1,0 +1,58 @@
+---
+title: Mixture of experts technology
+videoId: uYb38g-weEY
+---
+
+From: [[hu-po]] <br/> 
+
+Mixture of Experts (MoE) is a promising technique used to scale model capacity, particularly in large language models (LLMs) and, more recently, [[vision_language_models | Vision Language Models]] (VLMs), without significantly increasing computational cost for inference <a class="yt-timestamp" data-t="00:26:50">[00:26:50]</a> <a class="yt-timestamp" data-t="00:32:01">[00:32:01]</a> <a class="yt-timestamp" data-t="00:32:21">[00:32:21]</a>.
+
+## Core Concepts of MoE
+In a standard Transformer block, a Multi-Layer Perceptron (MLP), also known as a Feed-Forward Network (FFN), processes information <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a> <a class="yt-timestamp" data-t="00:25:55">[00:25:55]</a>. In an MoE model, this single FFN is replaced by a collection of multiple "experts" <a class="yt-timestamp" data-t="00:12:52">[00:12:52]</a>. Each expert is typically a small MLP <a class="yt-timestamp" data-t="00:13:02">[00:13:02]</a> <a class="yt-timestamp" data-t="00:25:58">[00:25:58]</a>.
+
+The key component of an MoE layer is the **router** <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a> <a class="yt-timestamp" data-t="00:17:00">[00:17:00]</a>. This router decides which subset of experts will process the incoming [[technical_setup_and_implementation_details | feature embeddings]] (tokens) <a class="yt-timestamp" data-t="00:17:08">[00:17:08]</a>. Typically, it selects a small number of "top K" experts, where K is often 2 <a class="yt-timestamp" data-t="00:13:18">[00:13:18]</a> <a class="yt-timestamp" data-t="00:38:04">[00:38:04]</a>.
+
+### Types of MoE Routing
+MoE implementations can be categorized by their routing mechanism:
+*   **Sparse Mixture of Experts:** Uses binary or "hard" assignment, meaning tokens are sent to a specific expert(s) (e.g., 1 or 0 for selection) <a class="yt-timestamp" data-t="00:18:49">[00:18:49]</a> <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>. This hard assignment can lead to non-differentiable transformations, making gradient propagation challenging <a class="yt-timestamp" data-t="00:22:47">[00:22:47]</a>.
+*   **[[soft_mixture_of_experts_in_transformer_architecture | Soft Mixture of Experts]]:** Employs a soft assignment, where tokens are routed to multiple experts with weighted combinations <a class="yt-timestamp" data-t="00:19:21">[00:19:21]</a>. The output is a weighted sum of the contributions from the selected experts <a class="yt-timestamp" data-t="00:19:33">[00:19:33]</a>. Soft MoEs generally outperform sparse MoEs <a class="yt-timestamp" data-t="00:21:59">[00:21:59]</a>.
+
+Within Sparse MoEs, there are further variants:
+*   **[[expert_choice_and_token_choice_routing | Token Choice]]:** The token decides which experts to send itself to <a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>.
+*   **[[expert_choice_and_token_choice_routing | Expert Choice]]:** The expert decides which tokens it wants to process <a class="yt-timestamp" data-t="00:20:24">[00:20:24]</a>. [[expert_choice_and_token_choice_routing | Expert Choice]] routers tend to perform better than [[expert_choice_and_token_choice_routing | Token Choice]] <a class="yt-timestamp" data-t="00:21:53">[00:21:53]</a>, although [[expert_choice_and_token_choice_routing | Token Choice]] can be better for load balancing in [[technical_setup_and_implementation_details | server setups]] <a class="yt-timestamp" data-t="00:22:22">[00:22:22]</a>.
+
+## Training and Implementation
+The router's parameters are trained in conjunction with other network parameters to learn appropriate routing decisions <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>. An auxiliary loss, known as a differentiable load balancing loss, is often used during training to encourage experts to handle tokens in a balanced manner, preventing over-specialization and ensuring utilization of all available experts <a class="yt-timestamp" data-t="00:47:18">[00:47:18]</a> <a class="yt-timestamp" data-t="00:49:00">[00:49:00]</a>.
+
+### MoE-Tuning in Vision Language Models (e.g., Moe-Lava)
+For VLMs, a common three-stage training strategy is employed for MoE models like Moe-Lava <a class="yt-timestamp" data-t="00:37:37">[00:37:37]</a>:
+
+1.  **Stage 1: Connector Training** <a class="yt-timestamp" data-t="00:38:36">[00:38:36]</a>
+    *   A frozen language model (LLM) and a frozen [[vision_language_models | vision encoder]] (e.g., CLIP Large) are used <a class="yt-timestamp" data-t="00:39:42">[00:39:42]</a>.
+    *   A small Multi-Layer Perceptron (MLP), often called an "adapter" or "connector," is trained to transform visual tokens from the [[vision_language_models | vision encoder]] into "pseudo text tokens" that the LLM can consume <a class="yt-timestamp" data-t="00:39:54">[00:39:54]</a> <a class="yt-timestamp" data-t="00:45:24">[00:45:24]</a>.
+    *   This stage uses large datasets of image-caption pairs (e.g., 558,000 images for Lava v1.5) <a class="yt-timestamp" data-t="00:39:58">[00:39:58]</a>.
+
+2.  **Stage 2: Full Model Fine-tuning** <a class="yt-timestamp" data-t="00:40:32">[00:40:32]</a>
+    *   The LLM and the connector are fine-tuned using more complex image-response datasets (e.g., 964,000 examples of images with questions and responses) <a class="yt-timestamp" data-t="00:40:53">[00:40:53]</a> <a class="yt-timestamp" data-t="00:41:05">[00:41:05]</a>.
+    *   The [[vision_language_models | vision encoder]] remains frozen <a class="yt-timestamp" data-t="00:41:29">[00:41:29]</a>.
+
+3.  **Stage 3: MoE Layer Training** <a class="yt-timestamp" data-t="00:42:06">[00:42:06]</a>
+    *   The FFNs within the Transformer blocks of the LLM are replaced with multiple copies (e.g., four copies for Moe-Lava) of the previously trained MLP <a class="yt-timestamp" data-t="00:42:23">[00:42:23]</a> <a class="yt-timestamp" data-t="00:56:32">[00:56:32]</a>.
+    *   A router module is added to select the top K experts (e.g., K=2 for Moe-Lava) <a class="yt-timestamp" data-t="00:42:35">[00:42:35]</a> <a class="yt-timestamp" data-t="00:38:01">[00:38:01]</a>.
+    *   Only the MoE layers (experts and router) are trained, while most other parameters remain frozen <a class="yt-timestamp" data-t="00:38:01">[00:38:01]</a> <a class="yt-timestamp" data-t="00:43:21">[00:43:21]</a>.
+    *   Over time, this training process leads to "speciation" or "expertization," where each expert specializes in different types of information due to receiving slightly different gradients <a class="yt-timestamp" data-t="00:44:16">[00:44:16]</a>. Experts may specialize in different layers (depths) of the network, with some being more active in early layers (low-level features) and others in later layers (higher-level abstractions) <a class="yt-timestamp" data-t="00:57:40">[00:57:40]</a>.
+
+## Benefits and Criticisms
+MoE models are lauded for their ability to achieve higher performance with a seemingly lower "activated parameters" count compared to dense models <a class="yt-timestamp" data-t="00:48:40">[00:48:40]</a> <a class="yt-timestamp" data-t="00:33:38">[00:33:38]</a>. However, this metric can be misleading:
+*   **"Activated Parameters" Controversy:** While only a subset of parameters are active during a single inference request, all parameters must be loaded into memory. This makes MoE models very slow on a single GPU due to inefficient loading and unloading from VRAM <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a> <a class="yt-timestamp" data-t="00:49:09">[00:49:09]</a>. They perform best in [[technical_setup_and_implementation_details | multi-GPU server setups]] where experts can be sharded across different GPUs <a class="yt-timestamp" data-t="00:14:08">[00:14:08]</a>.
+*   **Performance vs. Total Parameters:** When considering the *total* number of parameters (including inactive ones), MoE models like Moe-Lava might not offer a significant performance boost compared to dense models of similar total size <a class="yt-timestamp" data-t="00:49:50">[00:49:50]</a>.
+*   **Benchmarking Challenges:** The rapidly evolving field means papers often compare against outdated benchmarks. Benchmarks used can also be highly specific (e.g., object hallucination) and the interpretation of results (e.g., highlighting bold numbers that aren't truly the best) can be misleading <a class="yt-timestamp" data-t="00:53:01">[00:53:01]</a>.
+
+Despite these criticisms, MoE models offer advantages for [[technical_setup_and_implementation_details | batched inference]] and [[technical_setup_and_implementation_details | serving]] scenarios, as different user requests can be routed to different experts, improving utilization <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>.
+
+## Comparison to Other VLM Techniques
+*   **LoRA for Vision Encoders:** An alternative to the MLP connector is to use Low-Rank Adaptation (LoRA) to fine-tune the [[vision_language_models | vision encoder]] itself, adapting it for VLM tasks <a class="yt-timestamp" data-t="01:01:35">[01:01:35]</a> <a class="yt-timestamp" data-t="01:02:36">[01:02:36]</a>.
+*   **[[model_ensembling_techniques | Multiple Visual Encoders]] (Ensemble of Experts):** Instead of MoE layers within the LLM, some models use an [[model_ensembling_techniques | ensemble]] of *different* [[vision_language_models | visual encoders]] (e.g., CLIP, DinoV2, Segment Anything Model (SAM)) <a class="yt-timestamp" data-t="01:04:02">[01:04:02]</a> <a class="yt-timestamp" data-t="01:52:50">[01:52:50]</a>. Each [[vision_language_models | vision encoder]] specializes in different aspects (semantic understanding, robust feature extraction, segmentation) <a class="yt-timestamp" data-t="01:05:04">[01:05:04]</a> <a class="yt-timestamp" data-t="01:09:48">[01:09:48]</a>. A "Fusion Network" (often simple MLPs) combines their diverse visual tokens, which may have different dimensionalities and quantities <a class="yt-timestamp" data-t="01:05:35">[01:05:35]</a> <a class="yt-timestamp" data-t="01:13:40">[01:13:40]</a>. This approach shows strong performance gains as more diverse experts are integrated <a class="yt-timestamp" data-t="01:07:37">[01:07:37]</a>. However, it also significantly increases the number of visual tokens the LLM must consume, leading to longer prompt lengths and increased computational cost <a class="yt-timestamp" data-t="01:16:26">[01:16:26]</a>.
+
+## Benchmarking Example
+A challenging benchmark for VLMs involves an image of Barack Obama with Dwayne "The Rock" Johnson's face digitally superimposed <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. Most open-source VLMs, including Lava 1.6 and Quen VL+, incorrectly identify the person as Barack Obama <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a> <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a> <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. This difficulty stems from the lossy nature of converting images into visual tokens, where subtle details like facial incongruity might be lost <a class="yt-timestamp" data-t="01:20:54">[01:20:54]</a>. Proprietary models like GPT-4V from OpenAI, when accessed through third-party services like Perplexity (which lack the same safety filters as direct OpenAI API), can correctly identify the image as digitally manipulated <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a> <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>. This highlights the ongoing challenges in robust visual understanding for VLMs.

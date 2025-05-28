@@ -1,0 +1,47 @@
+---
+title: Challenges and advancements in protein folding and prediction
+videoId: I_ll4L9TpU4
+---
+
+From: [[hu-po]] <br/> 
+
+[[Protein structure prediction using large language models | Protein structure prediction]] is a significant area of research in artificial intelligence, with major players like DeepMind and Meta (Facebook Research) actively contributing to its advancement <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. The goal is to predict the three-dimensional atomic structure of proteins directly from their primary amino acid sequences <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
+
+## Key Models and Approaches
+
+### ESMFold (Evolutionary Scale Modeling Fold)
+Developed by Meta (Facebook Research), [[Protein structure prediction using large language models | ESMFold]] aims to position Meta as a contender in the protein folding field alongside DeepMind <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+
+*   **Approach**: [[Protein structure prediction using large language models | ESMFold]] uses a large language model (ESM2) to directly infer protein structure from primary sequences <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. This approach involves filling in missing amino acids in protein sequences, akin to next-token prediction in traditional language models <a class="yt-timestamp" data-t="01:09:49">[01:09:49]</a>.
+*   **Architecture**: It leverages Transformer architectures <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>, which have become ubiquitous in large language models <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+*   **Training**: The ESM2 model is trained with a masked language modeling objective <a class="yt-timestamp" data-t="01:31:22">[01:31:22]</a>, where parts of the protein sequence are masked, and the model is trained to predict the missing parts <a class="yt-timestamp" data-t="01:31:29">[01:31:29]</a>. This is an unsupervised learning method, allowing for the generation of infinite training data from existing protein databases <a class="yt-timestamp" data-t="01:31:38">[01:31:38]</a>. The training data involves hundreds of millions of unique protein sequences from datasets like UniRef50 <a class="yt-timestamp" data-t="01:32:23">[01:32:23]</a>.
+*   **Model Sizes**: Models are trained with up to 15 billion parameters, making them the largest language models of proteins to date <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. Smaller versions, such as an 8-million parameter model, are also available <a class="yt-timestamp" data-t="01:11:49">[01:11:49]</a>.
+*   **Performance Metrics**: Perplexity is used to quantify the model's understanding of protein sequences <a class="yt-timestamp" data-t="01:12:12">[01:12:12]</a>. Lower perplexity indicates a better prediction <a class="yt-timestamp" data-t="01:33:50">[01:33:50]</a>. ESM2's 15 billion parameter model achieves a perplexity of 6.37 <a class="yt-timestamp" data-t="01:33:30">[01:33:30]</a>.
+*   **Inference Speed**: [[Comparison between ESM Fold and AlphaFold | ESMFold]] makes predictions significantly faster than AlphaFold, completing a prediction for a protein with 384 residues in 14.2 seconds on a single Nvidia V100 GPU <a class="yt-timestamp" data-t="01:33:40">[01:33:40]</a>, compared to over 10 minutes for AlphaFold <a class="yt-timestamp" data-t="01:14:26">[01:14:26]</a>. This speedup comes from eliminating the need for a multiple sequence alignment (MSA) integration into the neural network architecture <a class="yt-timestamp" data-t="01:32:20">[01:32:20]</a>.
+*   **Novel Discoveries**: [[Protein structure prediction using large language models | ESMFold]] has made 225 million high-confidence predictions, including millions of structures that are novel compared to experimentally determined structures <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. This suggests the model can characterize regions of the protein landscape distant from existing knowledge <a class="yt-timestamp" data-t="01:15:43">[01:15:43]</a>.
+*   **Open Access**: All predictions are accessible through the ESM Metagenomic Atlas <a class="yt-timestamp" data-t="01:27:19">[01:27:19]</a>, which allows for bulk download via a programmatic API <a class="yt-timestamp" data-t="01:23:22">[01:23:22]</a>. The underlying datasets are often funded by government research, making open access a logical choice <a class="yt-timestamp" data-t="01:24:31">[01:24:31]</a>.
+
+### AlphaFold (DeepMind)
+[[Comparison between ESM Fold and AlphaFold | DeepMind's AlphaFold]] is a leading model in protein structure prediction. It is noted for its deep integration of multiple sequence alignment (MSA) into its neural network architecture <a class="yt-timestamp" data-t="01:32:31">[01:32:31]</a>, which can contribute to longer inference times <a class="yt-timestamp" data-t="01:14:26">[01:14:26]</a>. When MSAs are ablated, AlphaFold's performance degrades <a class="yt-timestamp" data-t="01:59:12">[01:59:12]</a>.
+
+### RosettaFold
+Another model mentioned in comparison, showing similar accuracy to [[Protein structure prediction using large language models | ESMFold]] in atomic resolution predictions <a class="yt-timestamp" data-t="02:00:26">[02:00:26]</a>.
+
+## Challenges in Protein Folding and Prediction
+
+*   **Dimensionality Mismatch**: Amino acids and proteins are inherently three-dimensional, but current large language models (LLMs) are primarily trained on one-dimensional or two-dimensional sequences <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. The method of feeding 3D structures into LLMs, typically through tokenization of letters, is still an area for potential improvement <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>.
+*   **Emergent Capabilities and Interpretability**: While LLMs exhibit emergent intelligence on text, it is less clear what "emergent capabilities" mean when trained on protein sequences <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>. It's challenging for humans to understand or quantify if these models discover patterns unknown to us <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>.
+*   **Data Quality and Ground Truth**: There is concern about the accuracy of experimentally determined ground truths in protein databases <a class="yt-timestamp" data-t="01:11:27">[01:11:27]</a>. If both [[Protein structure prediction using large language models | AlphaFold]] and [[Protein structure prediction using large language models | ESMFold]] predict a structure different from the established ground truth, it's difficult to ascertain whether the model is wrong or if the ground truth itself might be inaccurate or incomplete, especially for flexible protein parts like "stringy" regions <a class="yt-timestamp" data-t="01:12:11">[01:12:11]</a>.
+*   **Modeling Complexity**: Defining "contact" between amino acids as a binary (in contact/not in contact) with an arbitrary distance threshold (e.g., 8 atomic units) might oversimplify the analog nature of biological interactions <a class="yt-timestamp" data-t="01:35:38">[01:35:38]</a>. Using a continuous distance as a learning target might be more useful <a class="yt-timestamp" data-t="01:35:55">[01:35:55]</a>.
+*   **Computational Bottlenecks**: As models grow in size, communication between GPUs becomes a fundamental bottleneck for training speed, especially when models are sharded across multiple GPUs <a class="yt-timestamp" data-t="01:43:34">[01:43:34]</a>.
+
+## Advancements and Future Outlook
+
+*   **Emergence of Capabilities**: Models show "reflection points" or "emergence points" where accuracy non-linearly improves as computation, data, and parameters increase <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. This suggests that bigger models, trained longer on larger datasets, perform better <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>.
+*   **Single Sequence Prediction**: [[Protein structure prediction using large language models | ESMFold]] excels at single sequence prediction, which is crucial for _de novo_ protein design (creating new proteins from scratch) <a class="yt-timestamp" data-t="02:05:45">[02:05:45]</a>.
+*   **Confidence Estimation**: Models can output a confidence score for their predictions <a class="yt-timestamp" data-t="01:14:57">[01:14:57]</a>. This allows researchers to identify high-confidence predictions, even for novel structures not found in existing databases <a class="yt-timestamp" data-t="01:15:06">[01:15:06]</a>.
+*   **Leveraging Open Data**: The availability of open-source models and government-funded protein databases will likely continue to drive advancements <a class="yt-timestamp" data-t="01:24:22">[01:24:22]</a>.
+*   **Data Set Size as a Limiting Factor**: Once models reach a certain size (e.g., 150 million parameters for ESM2), the data set size itself may become the limiting reagent for further improvements <a class="yt-timestamp" data-t="01:47:45">[01:47:45]</a>.
+*   **Synthetic Data Generation**: A potential [[Future developments and challenges in AIgenerated simulations | future direction]] is to use these models to synthetically create new datasets to train even larger and more capable models <a class="yt-timestamp" data-t="02:00:05">[02:00:00]</a>.
+
+The field of protein folding and prediction is poised for significant breakthroughs, potentially leading to the discovery of new medicines and molecules <a class="yt-timestamp" data-t="02:00:24">[02:00:24]</a>.

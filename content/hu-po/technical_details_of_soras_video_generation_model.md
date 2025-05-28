@@ -1,0 +1,50 @@
+---
+title: Technical details of Soras video generation model
+videoId: dPonS4kISPM
+---
+
+From: [[hu-po]] <br/> 
+
+## Overview
+Sora is a new [[stateoftheart_video_generation_and_multimodal_models | state-of-the-art video generation]] model developed by OpenAI <a class="yt-timestamp" data-t="02:56:00">[02:56:00]</a>. It distinguishes itself by generating longer videos with higher overall motion quality compared to previous competitors <a class="yt-timestamp" data-t="05:52:00">[05:52:00]</a>. While OpenAI did not release a formal paper, they published a "technical report" which functions like a detailed blog post with video demonstrations <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>. The timing of Sora's release, shortly after Google's Gemini 1.5, suggests a strategic move by OpenAI's CEO, Sam Altman, to manage hype and control the narrative <a class="yt-timestamp" data-t="04:09:00">[04:09:00]</a>.
+
+A significant point of concern for researchers is OpenAI's and Google's reluctance to disclose crucial details about their models, such as the specific datasets used, data mix, training recipes, or augmentation methods <a class="yt-timestamp" data-t="05:07:00">[05:07:00]</a>.
+
+## Key Developers
+Sora's development was led by several key individuals at OpenAI, personally called out by CEO Sam Altman <a class="yt-timestamp" data-t="08:14:00">[08:14:00]</a>:
+
+*   **Tim Brooks**: A research scientist at OpenAI, formerly a PhD student at UC Berkeley <a class="yt-timestamp" data-t="08:31:00">[08:31:00]</a>. Brooks is primarily known for his work on "InstructPix2Pix," a diffusion model that allows for image editing based on text instructions <a class="yt-timestamp" data-t="09:12:00">[09:12:00]</a>. This model uses Stable Diffusion as a generator and GPT-3 as a prompt engineer to create paired images for training <a class="yt-timestamp" data-t="11:23:00">[11:23:25]</a>.
+*   **Bill Peebles (William Peebles)**: Also a research scientist at OpenAI and a Berkeley PhD <a class="yt-timestamp" data-t="12:27:00">[12:27:00]</a>. Peebles is recognized for his paper "Scalable Diffusion Models with Transformers," which replaces the commonly used U-Net backbone in latent diffusion models with a Transformer that operates on latent patches <a class="yt-timestamp" data-t="13:13:00">[13:13:00]</a>.
+*   **Aditya Ramesh (Model Mechanic)**: A more senior researcher with extensive publications, including work on image generation and vision models <a class="yt-timestamp" data-t="19:42:00">[19:42:00]</a>. Ramesh was involved in papers such as "Hierarchical Text-Conditional Image Generation with CLIP Latents" and "Zero-Shot Text-Image Generation" <a class="yt-timestamp" data-t="20:14:00">[20:14:00]</a>. His work often involves autoregressive Transformers that model images and text as tokens <a class="yt-timestamp" data-t="21:39:00">[21:39:00]</a>, and utilizes discrete variational autoencoders (VAEs) <a class="yt-timestamp" data-t="21:46:00">[21:46:00]</a>.
+
+These individuals are noted as the "builders" who actively contributed to the technical work in their respective papers <a class="yt-timestamp" data-t="21:09:00">[21:09:00]</a>.
+
+## Core Architecture and Innovations
+Sora's underlying architecture is deduced to be a [[video_diffusion_models_in_generative_3d | latent diffusion model]] <a class="yt-timestamp" data-t="44:00:00">[44:00:00]</a>, similar to Stable Diffusion <a class="yt-timestamp" data-t="14:05:00">[14:05:00]</a>, but operating on a space-time latent representation.
+
+### Patches and Space-Time Latent Space
+A fundamental aspect of Sora is its use of "visual patches" or "image tokens" <a class="yt-timestamp" data-t="23:19:00">[23:19:00]</a>. This concept, while not new to vision Transformers <a class="yt-timestamp" data-t="23:05:00">[23:05:00]</a>, involves taking a 2D (or 3D with channels) image and cutting it into smaller chunks <a class="yt-timestamp" data-t="23:51:00">[23:51:00]</a>. These patches are then fed into a Transformer, which requires a one-dimensional sequence <a class="yt-timestamp" data-t="24:14:00">[24:14:00]</a>. Positional embeddings are added to inform the Transformer of each patch's original location <a class="yt-timestamp" data-t="24:50:00">[24:50:00]</a>.
+
+For video generation, Sora extends this concept to "Space-Time patches" <a class="yt-timestamp" data-t="26:00:00">[26:00:00]</a>. This suggests that the model likely compresses entire videos into a lower-dimensional latent space, both temporally and spatially <a class="yt-timestamp" data-t="26:28:00">[26:28:00]</a>. This allows Sora to train on videos and images of variable resolutions and aspect ratios, as the visual data is uniformly transformed into a sequence of patches <a class="yt-timestamp" data-t="31:50:00">[31:50:00]</a>. The model can control the size of generated videos by arranging randomly initialized patches in an appropriately sized grid <a class="yt-timestamp" data-t="32:48:00">[32:48:00]</a>.
+
+The process involves a denoising diffusion process where the model starts from random noise and iteratively predicts and removes noise from these latent space-time patches, eventually decoding them back into pixel space <a class="yt-timestamp" data-t="33:16:00">[33:16:00]</a>. The ability to generate the "entire video in one shot" <a class="yt-timestamp" data-t="44:16:00">[44:16:00]</a> implies a method similar to Google's Lumiere model, which was also state-of-the-art for a brief period <a class="yt-timestamp" data-t="31:30:00">[31:30:00]</a>. This suggests Sora likely trained its own encoder-decoder system to handle entire videos rather than just individual images <a class="yt-timestamp" data-t="30:01:00">[30:01:00]</a>.
+
+### Training and Data
+Sora benefits from "remarkable scaling properties" common in diffusion Transformers, where sample quality improves significantly as training compute increases <a class="yt-timestamp" data-t="34:37:00">[34:37:00]</a>. This suggests that OpenAI's access to vast computational resources and data is a primary driver of Sora's performance <a class="yt-timestamp" data-t="35:01:00">[35:01:00]</a>.
+
+A key data augmentation technique used is "re-captioning," which involves leveraging large language models like GPT to transform short user prompts into longer, more detailed captions that are then fed to the video model <a class="yt-timestamp" data-t="35:34:00">[35:34:00]</a>. This provides richer input for the model during training.
+
+While there have been theories about Sora using synthetic data generated from game engines like Unreal Engine <a class="yt-timestamp" data-t="36:53:00">[36:53:00]</a>, it is more probable that OpenAI simply trained Sora on vast amounts of existing video game footage scraped from the internet <a class="yt-timestamp" data-t="39:00:00">[39:00:00]</a>. This would explain any "video game artifacts" seen in generated content without requiring OpenAI to possess specialized game development skills for in-house synthetic data generation <a class="yt-timestamp" data-t="38:01:00">[38:01:00]</a>.
+
+## Capabilities and Limitations
+Sora's quality is high, making it "state-of-the-art" in [[stateoftheart_video_generation_and_multimodal_models | video generation]] <a class="yt-timestamp" data-t="06:28:00">[06:28:00]</a>. Its level of video quality also represents a "step function" at which point it can be used for [[video_diffusion_models_in_generative_3d | 3D generative techniques]] like text-to-Nerf or text-to-Gaussian Splatting <a class="yt-timestamp" data-t="06:53:00">[06:53:00]</a>. This suggests a significant improvement in the potential for [[rendering_technology_and_algorithms | 3D content creation]] within approximately six months <a class="yt-timestamp" data-t="07:54:00">[07:54:00]</a>.
+
+Despite its impressive capabilities, Sora is not a perfect "world simulator" <a class="yt-timestamp" data-t="41:01:00">[41:01:01]</a>. While it exhibits some understanding of the world, it struggles with complex physics simulations <a class="yt-timestamp" data-t="41:35:00">[41:35:00]</a>. Examples of current limitations include objects with incorrect sizing or perspective <a class="yt-timestamp" data-t="06:08:00">[06:08:00]</a> and "weirdness" like an individual's legs flipping during motion <a class="yt-timestamp" data-t="42:54:00">[42:54:00]</a>. This indicates that while Sora learns implicit physics models from its training data, it does not use explicit physics equations <a class="yt-timestamp" data-t="01:24:06">[01:24:06]</a>. The inclusion of video game data in its training could also lead to a "physics model" that deviates from real-world physics <a class="yt-timestamp" data-t="01:25:05">[01:25:05]</a>. This highlights [[challenges_and_limitations_in_3d_generation | challenges and limitations in 3D generation]].
+
+## Impact and Future Outlook
+Sora's advanced capabilities are expected to significantly impact industries related to video and [[developments_in_volumetric_video | 3D content creation]] <a class="yt-timestamp" data-t="01:48:51">[01:48:51]</a>. Its performance may put pressure on other companies and startups in the generative media space <a class="yt-timestamp" data-t="01:48:43">[01:48:43]</a>.
+
+>[!INFO] Impact on 3D Generative Techniques
+>Sora's level of quality in video generation represents a "step function" that could enable significant advancements in [[video_diffusion_models_in_generative_3d | 3D generative techniques]], such as text-to-3D content creation <a class="yt-timestamp" data-t="06:53:00">[06:53:00]</a>. This is because existing 3D generative models often leverage pre-trained text-to-image models (like Stable Diffusion) to extract the necessary "intelligence" <a class="yt-timestamp" data-t="07:16:00">[07:16:00]</a>, and Sora could serve as a more powerful source of such intelligence <a class="yt-timestamp" data-t="01:49:01">[01:49:01]</a>.
+
+Despite its technical impressiveness, Sora is also highlighted for its strong marketing appeal, making complex generative AI more accessible and exciting to the public due to its visual nature <a class="yt-timestamp" data-t="01:45:33">[01:45:33]</a>.

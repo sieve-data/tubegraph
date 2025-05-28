@@ -1,0 +1,57 @@
+---
+title: Transition from Transformers to recurrent neural networks RNNs
+videoId: ZDHE119dFR8
+---
+
+From: [[hu-po]] <br/> 
+
+Traditional [[Deep Learning and Neural Networks | Deep Learning]] models like [[recurrent_depth_approach_in_ai_and_its_advantages_over_transformers | Recurrent Neural Networks]] (RNNs) and Convolutional Neural Networks (CNNs) have played pivotal roles in artificial intelligence. However, [[recurrent_depth_approach_in_ai_and_its_advantages_over_transformers | RNNs]] historically suffered from the vanishing gradient problem and limitations in parallelization during training <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>. CNNs, while adept at capturing local patterns, struggled with long-range dependencies crucial for many sequence processing tasks <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>. The emergence of Transformer models revolutionized Natural Language Processing (NLP) due to their ability to handle both local and long-range dependencies, and their parallelized training capabilities <a class="yt-timestamp" data-t="00:13:02">[00:13:02]</a>.
+
+## Limitations of Transformer Architectures
+
+Despite their success, Transformer models, including popular ones like GPT-3, ChatGPT, GPT-4, LLaMA, and Chinchilla, face significant challenges due to their self-attention mechanism <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>. The primary issue is their quadratic computational and memory complexity with respect to sequence length <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>, <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>.
+
+### Quadratic Complexity
+The self-attention mechanism in Transformers requires calculating pairwise attention scores between each token in a sequence <a class="yt-timestamp" data-t="01:09:59">[01:09:59]</a>. This involves dot products between query (Q) and key (K) vectors for every combination of tokens, leading to a O(T²) complexity for sequence length T <a class="yt-timestamp" data-t="00:19:25">[00:19:25]</a>, <a class="yt-timestamp" data-t="00:28:28">[00:28:28]</a>. This makes them computationally expensive and memory intensive for long sequences <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>. While methods like sparse attention, chunked attention, and Flash Attention have been introduced to mitigate this, they often still retain quadratic complexity or hide it within a chunk size factor <a class="yt-timestamp" data-t="00:23:51">[00:23:51]</a>.
+
+### Inference Mode Challenges
+Inference mode for Transformers still requires feeding the entire sequence into the model to predict the next token <a class="yt-timestamp" data-t="02:23:55">[02:23:55]</a>. This necessitates a KV cache, which grows linearly with sequence length, leading to degraded efficiency and increasing memory footprint for longer sequences <a class="yt-timestamp" data-t="02:26:02">[02:26:02]</a>, <a class="yt-timestamp" data-t="02:27:07">[02:27:07]</a>.
+
+## RWKV: A Hybrid Architecture
+The Receptance Weighted Key Value (RWKV) model is a novel architecture designed to reconcile the trade-offs between computational efficiency and model performance in sequence modeling <a class="yt-timestamp" data-t="00:27:09">[00:27:09]</a>. The core goal of the RWKV project is to achieve [[comparison_of_rwkv_with_transformer_architectures | Transformer-level Large Language Model (LLM) performance]] using an [[recurrent_depth_approach_in_ai_and_its_advantages_over_transformers | RNN-based architecture]] <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
+
+RWKV is pronounced "R-W-K-V" <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a> or "rookie V" <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a> and combines the parallelizable training of Transformers with the efficient inference of RNNs <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. It leverages linear attention, allowing it to be formulated as either a Transformer (for training) or an RNN (for inference) <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+
+### Key Components and Innovations
+RWKV's architecture is based on four primary elements:
+*   **Receptance (R)**: A vector acting as the acceptance of past information, similar to a forget gate in [[comparison_of_xlstm_with_transformers_and_other_models | LSTMs]] <a class="yt-timestamp" data-t="00:53:30">[00:53:30]</a>, <a class="yt-timestamp" data-t="01:04:02">[01:04:02]</a>.
+*   **Weight (W)**: A positional decay vector that determines the importance of things further away in time, which is trainable <a class="yt-timestamp" data-t="00:54:02">[00:54:02]</a>.
+*   **Key (K)**: Analogous to the K in traditional attention, representing "things I have" <a class="yt-timestamp" data-t="00:54:37">[00:54:37]</a>.
+*   **Value (V)**: Analogous to V in traditional attention, representing "things I want to communicate" <a class="yt-timestamp" data-t="00:54:49">[00:54:49]</a>.
+
+The model is comprised of stacked residual blocks, each containing time mixing and channel mixing sub-blocks with recurrent architectures <a class="yt-timestamp" data-t="00:56:40">[00:56:40]</a>.
+
+1.  **Linear Attention**: RWKV replaces the quadratic QK attention with a scalar formulation that has linear cost <a class="yt-timestamp" data-t="02:06:42">[02:06:42]</a>. This is achieved by converting the dot product between queries and keys into a sum, effectively changing vector interactions into scalar interactions <a class="yt-timestamp" data-t="01:11:33">[01:11:33]</a>.
+2.  **Time-Dependent Decay**: Instead of a learned pairwise position bias, RWKV uses a channel-wise time decay vector multiplied by the relative position <a class="yt-timestamp" data-t="01:13:59">[01:13:59]</a>. This means information from further back in time decays exponentially <a class="yt-timestamp" data-t="00:46:00">[00:46:00]</a>. This time decay can be seen as a form of [[positional_embeddings_in_transformers | positional encoding]] <a class="yt-timestamp" data-t="01:41:23">[01:41:23]</a>.
+3.  **Token Shift Mixing**: This technique involves linearly interpolating between the current input and the input of the previous time step <a class="yt-timestamp" data-t="01:02:02">[01:02:02]</a>, <a class="yt-timestamp" data-t="01:41:45">[01:41:45]</a>. This operation is designed to be efficient for GPU execution, potentially avoiding memory transfers <a class="yt-timestamp" data-t="01:19:26">[01:19:26]</a> and resembling a convolution in token space <a class="yt-timestamp" data-t="01:42:44">[01:42:44]</a>.
+4.  **Custom CUDA Kernels**: For computational efficiency, especially in the WKV computation, a custom CUDA kernel is implemented <a class="yt-timestamp" data-t="01:29:58">[01:29:58]</a>. This allows for optimized parallel processing on GPUs <a class="yt-timestamp" data-t="01:44:50">[01:44:50]</a>.
+5.  **Initialization Strategies**: RWKV uses a custom initialization for its embedding matrix, starting with small uniform values and applying an additional layer normalization, which stabilizes and accelerates training <a class="yt-timestamp" data-t="01:49:18">[01:49:18]</a>, <a class="yt-timestamp" data-t="02:30:54">[02:30:54]</a>. Most weights are initialized to zero, and no biases are used in linear layers <a class="yt-timestamp" data-t="01:49:29">[01:49:29]</a>.
+
+## Performance and Scaling
+[[comparison_of_rwkv_with_transformer_architectures | RWKV performs on par with similarly sized Transformers]] <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a> and is the first non-Transformer architecture scaled to tens of billions of parameters <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+
+### Inference Efficiency
+The most significant advantage of RWKV lies in its inference efficiency. Unlike Transformers that rely on a KV cache growing linearly with sequence length, RWKV's RNN-like structure means each output token depends only on the latest state, which is of constant size regardless of the sequence length <a class="yt-timestamp" data-t="02:23:34">[02:23:34]</a>. This yields constant speed and memory footprint during inference <a class="yt-timestamp" data-t="02:28:49">[02:28:49]</a>, as demonstrated by its linear scaling in GPU time per token generated, compared to the quadratic scaling of Transformer models <a class="yt-timestamp" data-t="01:57:04">[01:57:04]</a>.
+
+### Gradient Stability and [[layerwise_scaling_in_transformer_architectures | Layer Stacking]]
+RWKV offers stable gradients due to its use of softmax in conjunction with RNN-style updates <a class="yt-timestamp" data-t="01:32:11">[01:32:11]</a>. The gate values in RWKV are not data-dependent on previous hidden states, enabling parallelization <a class="yt-timestamp" data-t="01:33:19">[01:33:19]</a>. [[layerwise_scaling_in_transformer_architectures | Layer normalization]] is also used to stabilize gradients in deep architectures <a class="yt-timestamp" data-t="01:35:35">[01:35:35]</a>.
+
+## Limitations and Future Directions
+Despite its innovations, RWKV has some limitations:
+*   **Information Loss**: The linear attention and continuous compression of information into a single hidden vector can limit its ability to recall very small pieces of information over extremely long contexts <a class="yt-timestamp" data-t="02:09:14">[02:09:14]</a>.
+*   **Prompt Engineering Sensitivity**: RWKV is significantly more sensitive to prompt engineering compared to standard Transformers <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>, <a class="yt-timestamp" data-t="02:10:29">[02:10:29]</a>. Its performance can increase significantly when prompts are adjusted to be more suitable for its RNN-like retrospective processing <a class="yt-timestamp" data-t="02:00:12">[02:00:12]</a>. This suggests that methods like Chain of Thought might not be as effective or even detrimental for RWKV, as they could add unnecessary information to the hidden state <a class="yt-timestamp" data-t="02:48:32">[02:48:32]</a>.
+
+Future work aims to increase model expressivity, enhance time decay formulations <a class="yt-timestamp" data-t="02:00:50">[02:00:50]</a>, further improve computational efficiency through parallel scan <a class="yt-timestamp" data-t="02:01:16">[02:01:16]</a>, and explore its application in encoder-decoder architectures to replace cross-attention mechanisms <a class="yt-timestamp" data-t="02:01:41">[02:01:41]</a>. The community also aims to leverage RWKV's internal state for interpretability and predictability <a class="yt-timestamp" data-t="02:03:28">[02:03:28]</a>.
+
+## Community and Development
+The RWKV project has a popular GitHub repository and an active Discord community <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. It has attracted contributions from numerous universities and companies worldwide, including EleutherAI and Stability AI, who also provide compute access <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>, <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. The project includes Python via PyTorch implementation, pure CUDA implementation, and support for various quantizations (FP32, FP16, N4), as well as LoRA fine-tuning <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. This active and diverse development ecosystem suggests RWKV is a living project with significant potential to challenge the dominance of Transformers <a class="yt-timestamp" data-t="02:57:33">[02:57:33]</a>.

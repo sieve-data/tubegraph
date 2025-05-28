@@ -1,0 +1,38 @@
+---
+title: Vision Transformers and their efficiency
+videoId: MVWYTFs9M-s
+---
+
+From: [[hu-po]] <br/> 
+
+Vision Transformers (ViT) are a type of [[applications_in_vision_transformers | Transformer]] architecture used as a vision encoder <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>. They function by breaking an image into small "chunks" or patches, treating these patches as a sequence (similar to words in a sentence), and feeding them into a Transformer, which then processes them using standard attention blocks <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>.
+
+## Architecture and Parameters
+
+Different sizes of [[applications_in_vision_transformers | Vision Transformers]] exist, such as "ViT huge," "small," "big," and "large," which refer to the number of parameters in the model <a class="yt-timestamp" data-t="01:11:10">[01:11:10]</a> <a class="yt-timestamp" data-t="01:11:12">[01:11:12]</a>. The number of patches in a [[applications_in_vision_transformers | Vision Transformer]], such as "ViT 14," indicates how many chunks the image is divided into <a class="yt-timestamp" data-t="01:11:17">[01:11:17]</a> <a class="yt-timestamp" data-t="01:11:20">[01:11:20]</a>. The more patches, the greater the compute and memory required for the [[applications_in_vision_transformers | Vision Transformer]] <a class="yt-timestamp" data-t="01:11:34">[01:11:34]</a> <a class="yt-timestamp" data-t="01:11:38">[01:11:38]</a>.
+
+A typical ViT is composed of a stack of Transformer layers, each containing a self-attention operation followed by a fully connected Multi-Layer Perceptron (MLP) <a class="yt-timestamp" data-t="00:55:27">[00:55:27]</a> <a class="yt-timestamp" data-t="00:55:31">[00:55:31]</a>.
+
+## Efficiency in Self-Supervised Learning
+
+Recent approaches in self-supervised learning, particularly the image-based Joint Embedding Predictive Architecture (i-JEPA), emphasize efficiency by predicting in a representation (latent) space rather than directly in pixel space <a class="yt-timestamp" data-t="01:14:51">[01:14:51]</a> <a class="yt-timestamp" data-t="01:14:53">[01:14:53]</a> <a class="yt-timestamp" data-t="01:15:17">[01:15:17]</a>. This strategy significantly reduces the total computation needed for self-supervised training <a class="yt-timestamp" data-t="01:15:22">[01:15:22]</a>.
+
+### Comparison with Generative Methods
+Generative models, such as [[diffusion_models_and_transformers | Diffusion Models]], often perform predictions or generation in a latent space to save on compute <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a> <a class="yt-timestamp" data-t="01:15:03">[01:15:03]</a> <a class="yt-timestamp" data-t="01:15:09">[01:15:09]</a>. In traditional Masked AutoEncoders (MAE), the model reconstructs missing image parts directly in pixel space, which demands high model capacity to accurately reproduce details like texture and color <a class="yt-timestamp" data-t="02:21:11">[02:21:11]</a> <a class="yt-timestamp" data-t="02:21:15">[02:21:15]</a>. This focus on pixel-level details can lead to lower semantic representations <a class="yt-timestamp" data-t="02:22:02">[02:22:02]</a> <a class="yt-timestamp" data-t="02:22:04">[02:22:04]</a>.
+
+i-JEPA aims to avoid this by making predictions in an abstract representation space, which helps eliminate unnecessary pixel-level details and guides the model to learn more semantic features <a class="yt-timestamp" data-t="02:26:54">[02:26:54]</a> <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a> <a class="yt-timestamp" data-t="02:27:06">[02:27:06]</a> <a class="yt-timestamp" data-t="02:27:22">[02:27:22]</a>. This approach makes the training process computationally more efficient <a class="yt-timestamp" data-t="01:31:22">[01:31:22]</a> <a class="yt-timestamp" data-t="01:31:23">[01:31:23]</a>.
+
+## Training Efficiency and Convergence
+Training a ViT-Huge 14 on ImageNet with 16 A100 GPUs can be achieved in under 72 hours <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a> <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. i-JEPA's method is notably faster, converging in roughly five times fewer epochs compared to pixel reconstruction methods, leading to significant compute savings <a class="yt-timestamp" data-t="01:38:13">[01:38:13]</a> <a class="yt-timestamp" data-t="01:38:17">[01:38:17]</a> <a class="yt-timestamp" data-t="01:38:19">[01:38:19]</a>. For instance, pre-training a ViT on ImageNet using i-JEPA requires less than 1,200 GPU hours <a class="yt-timestamp" data-t="01:06:50">[01:06:50]</a> <a class="yt-timestamp" data-t="01:06:52">[01:06:52]</a>, which is over two times faster than a ViT-S/16 pre-trained with iBOT and over ten times more efficient than a ViT-H/14 pre-trained with MAE <a class="yt-timestamp" data-t="01:13:13">[01:13:13]</a> <a class="yt-timestamp" data-t="01:13:15">[01:13:15]</a> <a class="yt-timestamp" data-t="01:13:19">[01:13:19]</a>.
+
+## Absence of Handcrafted Data Augmentations
+A key aspect contributing to i-JEPA's efficiency is its ability to learn powerful image representations without relying on handcrafted data augmentations (e.g., scaling, cropping, color jittering) <a class="yt-timestamp" data-t="02:34:34">[02:34:34]</a> <a class="yt-timestamp" data-t="02:34:36">[02:34:36]</a> <a class="yt-timestamp" data-t="02:37:35">[02:37:35]</a>. While these augmentations can introduce strong biases that may be detrimental to certain downstream tasks, their absence also simplifies the training pipeline and reduces computational overhead <a class="yt-timestamp" data-t="02:37:38">[02:37:38]</a> <a class="yt-timestamp" data-t="02:38:10">[02:38:10]</a> <a class="yt-timestamp" data-t="02:40:02">[02:40:02]</a>.
+
+## Model Components and Loss Function
+In i-JEPA, a [[applications_in_vision_transformers | Vision Transformer]] is used for the context encoder, target encoder, and predictor <a class="yt-timestamp" data-t="01:15:19">[01:15:19]</a> <a class="yt-timestamp" data-t="01:15:23">[01:15:23]</a>. The target encoder's weights are updated using an exponential moving average (EMA) of the context encoder's weights, which acts as a form of regularization <a class="yt-timestamp" data-t="01:17:16">[01:17:16]</a> <a class="yt-timestamp" data-t="01:17:19">[01:17:19]</a> <a class="yt-timestamp" data-t="01:18:33">[01:18:33]</a>. The loss function used is a simple L2 distance between predicted and actual patch representations in the embedding space <a class="yt-timestamp" data-t="01:16:27">[01:16:27]</a> <a class="yt-timestamp" data-t="01:16:31">[01:16:31]</a>.
+
+## Hyperparameter Sensitivity
+Despite its overall efficiency, i-JEPA's performance can be highly sensitive to hyperparameters, particularly the size and aspect ratio of the masked blocks in the multi-block masking strategy <a class="yt-timestamp" data-t="02:01:54">[02:01:54]</a> <a class="yt-timestamp" data-t="02:01:58">[02:01:58]</a> <a class="yt-timestamp" data-t="02:02:01">[02:02:01]</a>. This U-shaped sensitivity means that performance drops if blocks are too big or too small <a class="yt-timestamp" data-t="02:01:48">[02:01:48]</a>. The width and depth of the predictor network also influence performance <a class="yt-timestamp" data-t="02:04:47">[02:04:47]</a> <a class="yt-timestamp" data-t="02:04:52">[02:04:52]</a> <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a>.
+
+<br>
+Overall, i-JEPA represents a step towards simpler, faster, and more efficient self-supervised learning for [[applications_in_vision_transformers | Vision Transformers]], yielding highly semantic image representations without the need for complex data augmentations <a class="yt-timestamp" data-t="02:12:22">[02:12:22]</a> <a class="yt-timestamp" data-t="02:12:24">[02:12:24]</a>.

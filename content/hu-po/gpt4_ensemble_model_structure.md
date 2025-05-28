@@ -1,0 +1,24 @@
+---
+title: GPT4 ensemble model structure
+videoId: MVWYTFs9M-s
+---
+
+From: [[hu-po]] <br/> 
+
+Recent reports suggest that [[llama_31_performance_and_comparison_to_gpt_4 | GPT-4]] is not a single model, but rather an [[model_ensembling_techniques | ensemble]] of eight distinct models [00:00:49](<a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>. Each of these eight models is estimated to contain approximately 220 billion parameters [00:01:02](<a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. It is believed that these individual models are fine-tuned on slightly different datasets [00:01:10](<a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+
+## Model Ensembling Strategy
+
+The strategy of using multiple models to enhance overall performance is known as [[model_ensembling_techniques | model ensembling]] or a mixture model [00:01:34](<a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. This technique is widely adopted in Kaggle competitions, where participants aim to achieve marginal performance gains [00:01:42](<a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. In such competitions, multiple versions of the same model are often trained on slightly varied subsets of data [00:01:53](<a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>. This approach introduces more variety in the final outputs for a given input, allowing the best result to be selected from the multiple models, which typically outperforms the output of any single "best" model [00:02:02](<a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+
+## Supporting Evidence
+
+### High Inference Costs
+One piece of evidence supporting this ensemble structure is the consistent statements from Sam Altman, CEO of OpenAI, regarding the high inference costs of [[llama_31_performance_and_comparison_to_gpt_4 | GPT-4]] [00:02:28](<a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>. If [[llama_31_performance_and_comparison_to_gpt_4 | GPT-4]] performs 16 inferences for every user query, this would explain why its operation is significantly more expensive compared to models like Google's Bard (which uses a single model per query) [00:03:17](<a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>, [00:03:31](<a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>, [00:03:39](<a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. The final output presented to the user is likely the result of these 16 inferences, potentially selected by a value function-type model [00:03:22](<a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>, [00:03:26](<a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+
+### OpenAI's Prior Research
+Further support comes from OpenAI's own 2021 Codex paper. This paper details a strategy where Codex 12B generated 100 samples per token to solve "leak code problems," which were then filtered down [00:04:33](<a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>, [00:04:37](<a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>, [00:04:47](<a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. The paper also mentions fine-tuning Codex on training problems to produce "Codex S," described as "a set of Codex models" [00:04:53](<a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>, [00:05:04](<a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>. This pre-existing strategy in OpenAI's research suggests a precedent for deploying multiple models as an [[model_ensembling_techniques | ensemble]], which could have been applied to [[llama_31_performance_and_comparison_to_gpt_4 | GPT-4]] given the timeline of the paper's publication [00:05:10](<a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>, [00:05:19](<a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+
+> [00:05:31](<a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a> "It makes it kind of puts everything into context and it I feel like it explains a lot of what we've seen with this just kind of random jump in performance that Chachi PT had and then all the kind of hype that came out of that I think that we're finally understanding what it is that they did and really all they did is they basically made a Ensemble they made eight models that are slightly different and then those eight models are masquerading as a single model" [00:05:31](<a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>
+
+This "random jump in performance" and the associated hype for [[llama_31_performance_and_comparison_to_gpt_4 | ChatGPT]] could be explained by the implementation of an [[model_ensembling_techniques | ensemble]] of slightly different models, masquerading as a single entity [00:05:37](<a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>, [00:05:55](<a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>.

@@ -5,86 +5,69 @@ videoId: SodPUNBFeMY
 
 From: [[hu-po]] <br/> 
 
-The task of [[conditional_audio_generation_from_text | conditional music generation]] involves creating musical pieces based on a given text description or other conditional inputs [00:01:16, 00:07:53]. This field requires modeling long-range sequences and handling the complex structures of harmonies and melodies from different instruments [00:08:00, 00:09:34]. Human listeners are highly sensitive to disharmony, making music generation a challenging task that leaves little room for melodic errors [00:09:37, 00:10:04].
+Conditional music generation is the task of creating musical pieces based on specified inputs, such as text descriptions or melodic features <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a> <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. Recent advancements in self-supervised audio representation learning, sequential modeling, and audio synthesis have enabled the development of such models <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>.
 
-## MusicGen: A Simple and Controllable Approach
+## Challenges in Music Generation
 
-[[music_generation_with_musicgen | MusicGen]], developed by Meta AI Research, is presented as a simple and controllable music generation model [00:00:44, 00:13:45]. It operates as a single-stage Transformer Language Model (LM) over several streams of compressed discrete music representations, or "tokens" [00:03:33, 00:04:42]. This single-stage approach aims to produce the final product in one inference step, unlike hierarchical or cascading models that require multiple stages [00:05:59, 00:06:29, 00:12:10].
+Generating music is a challenging task due to several factors:
+*   **Long-range sequences** Music signals require modeling long-range dependencies <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>.
+*   **High sampling rates** Standard music recordings typically have sampling rates of 44 kilohertz (kHz), significantly higher than 16 kHz for speech, meaning more data points per second <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a> <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>.
+*   **Complex structures** Music involves harmonies and melodies from different instruments, creating intricate compositions <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>.
+*   **Human sensitivity** Human listeners are highly sensitive to disharmony, making it difficult to generate music without melodic errors <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a> <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
+*   **Controllability** Music creators require the ability to control various aspects of generation, such as keys, instruments, and genres <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>. [[text_and_melody_conditioning | Text conditioning]] provides a natural language interface for this control <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>.
 
-### Key Features and Capabilities
-*   **High-Quality Samples:** [[music_generation_with_musicgen | MusicGen]] is designed to generate "high quality samples," although a formal definition of this term is not provided [00:06:34, 00:06:36].
-*   **Controllability:** The model allows for better control over the generated output by conditioning on both textual descriptions and/or melodic features [00:06:43, 00:10:06, 00:13:48]. Text conditioning provides a natural language interface for this control [00:10:26, 00:10:33].
-*   **Accessibility:** [[music_generation_with_musicgen | MusicGen]] includes a [[github_repository_analysis_for_audio_generation | GitHub repo called AudioCraft]], a Colab notebook, and a Hugging Face demo, allowing users to describe and generate music [00:01:25, 00:01:31, 00:01:33, 00:01:37]. The model weights are also released [00:03:27].
+## MusicGen Model
 
-## Technical Foundations
+MusicGen, developed by Meta AI Research, is a model for [[text_and_melody_conditioning | conditional music generation]] <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. It operates over multiple streams of compressed, discrete music representations, also known as tokens <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a> <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. Unlike prior work that often uses cascading models, MusicGen is composed of a single-stage [[transformer_models_in_audio_generation | Transformer Language Model]] (LM) <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a> <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. This means it generates the final product in one inference step, avoiding multiple cascading models or hierarchical approaches <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a> <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>.
+
+MusicGen is available with a GitHub repository called `audiocraft`, a Colab notebook, and a Hugging Face demo <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a> <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. It uses PyTorch 2.0 and Python 3.9 <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
 
 ### Audio Tokenization
-To make audio modeling more tractable, recent studies, including [[music_generation_with_musicgen | MusicGen]], represent audio signals as multiple streams of discrete tokens [00:11:07, 00:11:10]. [[music_generation_with_musicgen | MusicGen]] specifically uses the EnCodec audio tokenizer, which is a convolutional autoencoder that quantizes its latent space using Residual Vector Quantization (RVQ) [00:29:46, 00:30:22, 00:33:51].
-*   **Sampling Rate:** While standard music recordings are often 44 kHz or higher (up to 192 kHz), speech can be 16 kHz [00:08:24, 00:08:50, 00:14:55]. [[music_generation_with_musicgen | MusicGen]] generates music at 32 kHz [00:14:34]. The EnCodec model reduces this high sampling rate (FS) to a much lower frame rate (FR) of 50 Hz for its token representation [00:33:07, 01:28:02, 01:28:16].
-*   **Residual Vector Quantization (RVQ):** This technique involves quantizing an audio stream, then quantizing the "residual" (the difference between the quantized and original signal), and repeating this process for increasing levels of refinement [00:25:40, 00:26:12, 00:31:47, 02:29:29]. [[music_generation_with_musicgen | MusicGen]] uses four quantizers, meaning four quantization levels or "codebooks" [01:28:57, 02:22:31]. The first codebook contains the most significant portion of the signal, with subsequent codebooks capturing finer details [02:22:31, 02:23:54].
+To make audio modeling tractable, MusicGen represents audio signals as multiple streams of discrete tokens <a class="yt-timestamp" data-t="00:11:08">[00:11:08]</a>. It uses EnCodec, a convolutional autoencoder, which quantizes the latent space using [[code_book_patterns | Residual Vector Quantization (RVQ)]] <a class="yt-timestamp" data-t="00:29:46">[00:29:46]</a> <a class="yt-timestamp" data-t="00:31:54">[00:31:54]</a>.
+*   **Sampling Rate Reduction:** EnCodec reduces the high audio sampling rate (e.g., 32 kHz) to a much lower frame rate for tokens (e.g., 50 Hz), significantly decreasing the amount of data to process <a class="yt-timestamp" data-t="00:33:41">[00:33:41]</a> <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>.
+*   **Multiple Codebooks:** RVQ results in multiple parallel discrete token sequences (K codebooks), where each subsequent codebook quantizes the residual error of the previous one <a class="yt-timestamp" data-t="00:25:40">[00:25:40]</a> <a class="yt-timestamp" data-t="00:26:12">[00:26:12]</a> <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>. The first codebook typically contains the most significant portion of the signal <a class="yt-timestamp" data-t="00:36:30">[00:36:30]</a>. MusicGen uses four quantizers, or codebooks, each with a size of 2048 <a class="yt-timestamp" data-t="01:28:53">[01:28:53]</a> <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>.
 
-### Codebook Interleaving Patterns
-A significant contribution of [[music_generation_with_musicgen | MusicGen]] lies in its efficient "codebook interleaving strategies" [01:03:51, 02:10:35]. The challenge with RVQ is that the different quantization levels are dependent on each other, making parallel prediction difficult [00:52:03, 00:55:09]. To balance quality and computational speed, [[music_generation_with_musicgen | MusicGen]] explores various strategies for predicting these parallel discrete token sequences:
-*   **Flattening:** This approach concatenates all codebooks into one giant vector and predicts them sequentially. While it can achieve good scores, it is computationally expensive, requiring significantly more autoregressive steps (e.g., 6,000 steps for 30 seconds of audio) [00:49:31, 00:59:56, 02:00:03, 02:00:07, 02:04:03].
-*   **Parallel Pattern:** Predicts all codebooks simultaneously, implicitly assuming independence. This is faster but may miss dependencies [01:00:51, 01:53:51, 02:03:30].
-*   **Delay Pattern:** Introduces an offset or "delay" between codebooks (e.g., shifting the second, third, and fourth codebooks by one step) [01:02:21, 02:00:29, 02:13:51]. This allows for more parallel processing while acknowledging some dependency, leading to fewer autoregressive steps (e.g., 1,500 steps for 30 seconds of audio) [00:53:33, 02:00:30, 02:10:40].
-*   **Valley Pattern:** First predicts the initial codebook for all time steps sequentially, then predicts the remaining codebooks (two, three, and four) in parallel [01:52:54, 02:03:44].
+### Codebook Patterns and Interleaving
+A core contribution of MusicGen is its use of efficient [[code_book_patterns | code book interleaving patterns]] to handle the multiple parallel streams of acoustic tokens <a class="yt-timestamp" data-t="00:31:29">[00:31:29]</a> <a class="yt-timestamp" data-t="00:32:00">[00:32:00]</a>.
+*   **The Problem:** While RVQ's codebooks are generally dependent on each other, processing them sequentially (e.g., predicting one, then feeding its output to predict the next) increases computational complexity <a class="yt-timestamp" data-t="00:46:03">[00:46:03]</a> <a class="yt-timestamp" data-t="00:52:03">[00:52:03]</a>. Doing them entirely in parallel loses information from dependencies <a class="yt-timestamp" data-t="00:53:15">[00:53:15]</a>.
+*   **Interleaving Solutions:** MusicGen introduces and explores various [[code_book_patterns | code book patterns]] to optimize this trade-off:
+    *   **Flattening Pattern:** Concatenates all codebook tokens into one large sequence for a single prediction step <a class="yt-timestamp" data-t="00:45:09">[00:45:09]</a> <a class="yt-timestamp" data-t="00:50:06">[00:50:06]</a>. This achieves the best quality but has a high computational cost due to increased autoregressive steps <a class="yt-timestamp" data-t="01:59:56">[01:59:56]</a> <a class="yt-timestamp" data-t="02:00:39">[02:00:39]</a>.
+    *   **Delay Pattern:** Introduces an offset between codebooks, predicting the more important first codebook, and then shifting the less important subsequent codebooks to allow for parallel processing <a class="yt-timestamp" data-t="00:30:29">[00:30:29]</a> <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a> <a class="yt-timestamp" data-t="01:00:51">[01:00:51]</a> <a class="yt-timestamp" data-t="01:03:13">[01:03:13]</a>. This significantly reduces autoregressive steps (e.g., 1500 steps for 30 seconds of audio compared to 6000 for flattening) <a class="yt-timestamp" data-t="01:59:58">[01:59:58]</a> <a class="yt-timestamp" data-t="02:00:28">[02:00:28]</a>.
+    *   **Partial Flattening / Partial Delay:** Similar to Delay, but involves interleaving codebooks, leading to more steps than Delay but fewer than full Flattening <a class="yt-timestamp" data-t="02:03:57">[02:03:57]</a>.
+    *   **Valley Pattern:** Predicts the first codebook sequentially for all time steps, then predicts all remaining codebooks in parallel <a class="yt-timestamp" data-t="02:03:39">[02:03:39]</a>.
 
-The choice of interleaving pattern is a trade-off between computational cost and modeling exact dependencies [00:52:39, 01:04:03, 02:04:10, 02:24:15]. While flattening improves generation quality, it comes at a high computational cost; similar performance can often be achieved with faster, more efficient patterns like the delay pattern [02:04:10, 02:04:14].
+The model uses a [[transformer_models_in_audio_generation | Transformer decoder]] with L layers and dimension D, incorporating causal self-attention blocks and cross-attention blocks that are fed the conditioning signal <a class="yt-timestamp" data-t="01:15:57">[01:15:57]</a> <a class="yt-timestamp" data-t="01:16:13">[01:16:13]</a>.
 
-### Model Architecture
-[[music_generation_with_musicgen | MusicGen]] utilizes an autoregressive Transformer-based decoder [01:19:19, 01:28:9].
-*   **Positional Embedding:** A sinusoidal embedding encodes the current time step, providing positional information to the model [01:14:54, 01:15:57].
-*   **Layers:** Each layer consists of a causal self-attention block and a cross-attention block [01:16:13, 01:17:06]. The cross-attention is fed with the conditioning signal [01:17:22].
-*   **Feed-Forward Networks:** Layers also include a fully connected block (linear layer with a ReLU activation) wrapped with residual skip connections [01:18:49, 01:19:42].
-*   **Normalization:** Layer normalization is applied to each block before summation (pre-norm) [01:20:25, 01:20:59].
-
-## Conditioning Methods
-
-### Text Conditioning
-Text descriptions are transformed into a conditioning tensor using pre-trained text encoders. [[music_generation_with_musicgen | MusicGen]] experiments with:
-*   T5 encoder [01:06:53, 01:40:09]
-*   Flan T5 [01:07:17]
-*   CLAP (a joint text-audio representation, similar to CLIP for image-text) [01:07:05, 01:07:15]
-
-Text pre-processing includes normalizing text by omitting stop words and lemmatizing the remaining text [01:40:01, 01:40:08]. Additional annotations like musical key, BPM, and tags can be concatenated to the text description [01:40:14, 01:40:21, 01:41:07]. Techniques like word dropout and text description dropout are used for data augmentation during training [01:40:23, 01:40:40, 01:40:42].
-
-### Melody Conditioning
-[[music_generation_with_musicgen | MusicGen]] introduces an unsupervised approach for [[conditional_audio_generation_from_text | melody conditioning]] [01:04:00, 01:11:01, 01:11:09, 02:10:54].
-*   **Chromogram:** Melodic structure is conveyed by jointly conditioning on the input chromogram, which is a 2D representation of audio (time on the x-axis, frequency bins on the y-axis) [01:09:10, 01:09:19, 01:11:01].
-*   **Information Bottleneck:** To simplify conditioning, an information bottleneck is introduced by choosing only the dominant time-frequency bin (using ARG Max) in the chromogram at each step [01:10:26, 01:10:28, 01:10:30, 01:42:01, 01:42:08]. This effectively turns the 2D chromogram into a 1D sequence for conditioning [01:18:27, 01:18:32].
-*   **Input Prefix:** The conditioned chromogram (as a 1D sequence) is provided as a prefix to the Transformer input [01:17:37, 01:17:49, 01:18:45].
-*   **Guidance Scale:** A guidance scale parameter allows controlling the strength of this conditioning [01:42:42, 01:43:07].
+### Conditioning Methods
+MusicGen supports conditioning on two modalities:
+1.  **Textual Descriptions:** The model can be conditioned on textual descriptions of the desired music <a class="yt-timestamp" data-t="01:43:52">[01:43:52]</a>. For this, it uses pre-trained text encoders like T5, Flan-T5, and CLAP <a class="yt-timestamp" data-t="01:06:51">[01:06:51]</a> <a class="yt-timestamp" data-t="01:07:05">[01:07:05]</a> <a class="yt-timestamp" data-t="01:08:16">[01:08:16]</a>. Text normalization (omitting stop words, lemmatization) and word dropout are used as text augmentation strategies <a class="yt-timestamp" data-t="01:40:01">[01:40:01]</a> <a class="yt-timestamp" data-t="01:40:23">[01:40:23]</a>.
+2.  **Melody Conditioning:** MusicGen can also be conditioned on an input melody (e.g., an MP3 file) <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a> <a class="yt-timestamp" data-t="01:08:51">[01:08:51]</a>. This is achieved by computing a chromogram from the melody, which is a 2D image-like representation of pitch class over time <a class="yt-timestamp" data-t="01:09:11">[01:09:11]</a> <a class="yt-timestamp" data-t="01:09:22">[01:09:22]</a>. To create an information bottleneck, the model selects the dominant time-frequency bin (using ARG Max) in each step of the chromogram, turning it into a 1D sequence that can be prefixed to the Transformer input <a class="yt-timestamp" data-t="01:10:26">[01:10:26]</a> <a class="yt-timestamp" data-t="01:18:24">[01:18:24]</a>. This approach is unsupervised, eliminating the need for costly supervised data <a class="yt-timestamp" data-t="01:10:59">[01:10:59]</a>.
 
 ## Training and Evaluation
 
-### Training Setup
-*   **Dataset:** [[music_generation_with_musicgen | MusicGen]] was trained on 20,000 hours of licensed music, including an internal dataset and music from Shutterstock and Pond5 [01:43:17, 01:43:21, 01:43:42].
-*   **Audio Length:** Models were trained on 30-second audio crops sampled randomly [01:34:06].
-*   **Optimization:** Training involved 1 million steps using the AdamW optimizer with a batch size of 192 [01:34:10, 01:34:12, 01:34:17, 01:34:19]. Decoupled weight decay (0.1) and gradient clipping (1.0) were applied [01:34:22, 01:35:15]. A cosine learning rate schedule with a 4,000-step warm-up was used [01:36:56, 01:37:00, 01:37:18]. Exponential moving average with a decay of 0.99 was also used [01:37:35, 01:37:38].
-*   **Model Sizes:** Models of 300 million, 1.5 billion, and 3.3 billion parameters were trained [01:32:38, 01:33:50, 02:11:15]. Ablation studies were primarily performed on the 300 million parameter model [01:33:50, 01:59:53].
-*   **Efficiency:** Memory-efficient Flash Attention was employed to improve speed and memory usage [01:42:44]. Mixed precision training (using FP16 and BFloat16) was utilized [01:38:12, 01:38:33].
-*   **Sampling:** Top-K sampling was employed for generation [01:39:29].
+MusicGen was trained on 20,000 hours of licensed music, including an internal dataset from Meta and data from Shutterstock and Pond5 music <a class="yt-timestamp" data-t="01:43:17">[01:43:17]</a>. The model processes 30-second audio crops for 1 million steps using an AdamW optimizer <a class="yt-timestamp" data-t="01:34:06">[01:34:06]</a> <a class="yt-timestamp" data-t="01:34:10">[01:34:10]</a>.
 
-### Evaluation Metrics
-[[music_generation_with_musicgen | MusicGen]] used both objective (automatic) and subjective (human) metrics for evaluation [01:44:37, 01:52:58].
+Evaluation involved both objective metrics and human studies on the MusicCaps benchmark <a class="yt-timestamp" data-t="01:44:37">[01:44:37]</a> <a class="yt-timestamp" data-t="01:47:26">[01:47:26]</a>.
+*   **Objective Metrics:** Fréchet Audio Distance (FAD), KL Divergence (for audio classification probabilities), and CLAP score (for audio-text alignment) <a class="yt-timestamp" data-t="01:48:42">[01:48:42]</a> <a class="yt-timestamp" data-t="01:50:01">[01:50:01]</a> <a class="yt-timestamp" data-t="01:51:50">[01:51:50]</a>.
+*   **Human Studies:** Raiders rated overall quality and relevance to text input on a scale of 1 to 100 using Amazon Mechanical Turk <a class="yt-timestamp" data-t="01:53:33">[01:53:33]</a> <a class="yt-timestamp" data-t="01:53:39">[01:53:39]</a>. A new metric, chroma cosine similarity, was introduced to measure melody adherence <a class="yt-timestamp" data-t="01:59:52">[01:59:52]</a>.
 
-*   **Objective Metrics:**
-    *   **Fréchet Audio Distance (FAD):** Measures the plausibility of generated audio [01:48:42, 01:50:01].
-    *   **KL Divergence:** Computes the difference between probability distributions of labels from an audio classifier for original and generated music [01:48:46, 01:50:08].
-    *   **CLAP Score:** Quantifies audio-text alignment between the text description and generated audio [01:48:54, 01:51:56].
-    *   **Chroma Cosine Similarity:** A new metric measuring the average cosine similarity between frames of quantized chromograms of reference and generated samples [01:58:43].
-
-*   **Subjective Metrics:**
-    *   **Overall Quality (OVL):** Human raters assessed the perceptual quality on a scale of 1 to 100 [01:53:33, 01:53:35].
-    *   **Relevance to Text (REL):** Human raters evaluated how well the generated music matched the text input [01:52:40, 01:52:43].
-    *   **Melody Matching:** Listeners rated how well the generated melody matched a reference piece on a scale of 1 to 100 [01:59:26, 01:59:34].
-
-Evaluation results indicated that [[music_generation_with_musicgen | MusicGen]] generally performs better than re-implemented baselines on objective metrics [01:57:00, 01:57:03]. However, human evaluations suggested that the quality was roughly on par with other models, with little significant difference noticed by human raters across different model sizes or codebook patterns [02:00:54, 02:01:05, 02:01:18, 02:01:21, 02:01:48, 02:25:35, 02:25:59]. Interestingly, the choice of text encoder (e.g., T5 vs. Flan T5) appeared to have a significant impact on quality metrics [02:15:31, 02:16:02].
+### Key Findings
+*   **Performance:** MusicGen generally performs better than re-implemented baselines (e.g., Riffusion, Moûsaï) <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>.
+*   **Melody Conditioning:** While objective metrics may degrade slightly with [[text_and_melody_conditioning | melody conditioning]], human ratings are not significantly affected <a class="yt-timestamp" data-t="01:58:30">[01:58:30]</a>. However, it successfully helps the model follow a given melody <a class="yt-timestamp" data-t="01:59:37">[01:59:37]</a>.
+*   **Codebook Patterns:** Flattening offers the best scores but at a high computational cost. Delay and partial flattening achieve similar performance with significantly fewer steps <a class="yt-timestamp" data-t="01:59:51">[01:59:51]</a> <a class="yt-timestamp" data-t="02:00:28">[02:00:28]</a>. The choice often comes down to a trade-off between quality and performance <a class="yt-timestamp" data-t="02:24:15">[02:24:15]</a>.
+*   **Model Size:** Scaling up the model size (e.g., from 300 million to 3.3 billion parameters) results in only marginally better scores, with human evaluators often unable to discern the difference <a class="yt-timestamp" data-t="02:01:11">[02:01:11]</a> <a class="yt-timestamp" data-t="02:01:27">[02:01:27]</a>. This suggests that 300 million parameters may be sufficient for high-quality generation <a class="yt-timestamp" data-t="02:01:55">[02:01:55]</a>.
+*   **Text Encoders:** The choice of text encoder (e.g., T5 vs. Flan-T5) appears to have a notable impact on performance, potentially more so than other architectural or pattern choices <a class="yt-timestamp" data-t="02:15:31">[02:15:31]</a> <a class="yt-timestamp" data-t="02:16:01">[02:16:01]</a>.
 
 ## Ethical Considerations
-Meta AI acknowledges several ethical considerations regarding large-scale generative models like [[music_generation_with_musicgen | MusicGen]]:
-*   **Data Licensing:** The use of licensed music (from Shutterstock and Pond5) highlights ongoing discussions about intellectual property in AI training [01:43:17, 02:11:20, 02:12:09].
-*   **Data Diversity:** The training dataset predominantly contains Western-style music, potentially leading to a lack of diversity in generated outputs [02:12:23, 02:12:26].
-*   **Artist Competition:** Generative models pose a potential threat of unfair competition for human artists [02:12:31, 02:12:33].
-*   **Open Research:** The authors advocate for open research to ensure equal access to these models for all actors [02:12:42, 02:12:44].
+The authors acknowledge several ethical challenges:
+*   **Data Set Diversity:** The training data contains a large proportion of Western-style music, potentially leading to a lack of diversity in generated outputs <a class="yt-timestamp" data-t="02:12:23">[02:12:23]</a>.
+*   **Competition for Artists:** Generative models could represent unfair competition for human artists <a class="yt-timestamp" data-t="02:12:31">[02:12:31]</a>.
+*   **Access:** Open research is emphasized to ensure equal access to these models for all actors <a class="yt-timestamp" data-t="02:12:42">[02:12:42]</a>.
+
+## Related Work
+The field of music generation has evolved significantly, with various approaches:
+*   **Compressed Representation:** A prominent approach involves representing music as compressed symbols or tokens, then applying generative models <a class="yt-timestamp" data-t="02:05:35">[02:05:35]</a>. This includes using [[code_book_patterns | VQVAE]] on raw waveforms with [[code_book_patterns | Residual Vector Quantization]] <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>.
+*   **Symbolic Music Generation:** Earlier work included generating MIDI files, though raw audio waveform generation is now more common <a class="yt-timestamp" data-t="02:06:33">[02:06:33]</a> <a class="yt-timestamp" data-t="02:27:44">[02:27:44]</a>.
+*   **Multiple Streams:** Some models represent music in multiple streams of discrete representations, such as semantic and acoustic tokens for speech <a class="yt-timestamp" data-t="02:06:58">[02:06:58]</a> <a class="yt-timestamp" data-t="02:07:09">[02:07:09]</a>.
+*   **Diffusion Models:** An alternative approach uses diffusion models, which operate over continuous representations, unlike the discrete tokens used by MusicGen <a class="yt-timestamp" data-t="02:07:50">[02:07:50]</a>. Some work has fine-tuned [[stateoftheart_video_generation_and_multimodal_models | Stable Diffusion]] to generate spectrograms, which are then converted to audio <a class="yt-timestamp" data-t="02:08:26">[02:08:26]</a>.
+*   **Conditional Computation:** Other models, such as MusicLM, use hierarchical or cascading approaches, where one model generates coarse audio, and another refines it <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a> <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a> <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a> <a class="yt-timestamp" data-t="00:46:55">[00:46:55]</a>.
