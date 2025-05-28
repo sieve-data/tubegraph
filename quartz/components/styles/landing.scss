@@ -29,7 +29,7 @@ $shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
   width: 100%;
   justify-content: center;
   align-items: center;
-  padding-top: 7rem;
+  margin-top: 7rem;
   
   /* Animation properties */
   animation: slideUp 0.8s ease-out;
@@ -522,6 +522,7 @@ $shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
   text-decoration: none;
   transition: background-color 0.2s ease, transform 0.1s ease;
   cursor: pointer;
+  z-index: 20;
 }
 
 .contribute-link:hover {

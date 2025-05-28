@@ -43,7 +43,9 @@ def get_items(
 ):
     username = username.replace("@", "").lower()
     if url_exists_on_tubegraph(username):
-        return {"result": "Already Indexed!"}
+        return {
+            "result": f"Already Indexed! View <a href='https://tubegraph.vercel.app/{username}/{username}'>here.</a>"
+        }
     channel_id = get_channel_id(username)
     if channel_id is None:
         return {"result": "Channel Invalid!"}
@@ -57,7 +59,7 @@ def get_items(
     )
     print(output)
     return {
-        "result": "Channel Indexing... (feel free to come back in a couple minutes)"
+        "result": f"Channel Indexing... Will appear at <a href='https://tubegraph.vercel.app/{username}/{username}'>here.</a>"
     }
 
 

@@ -227,29 +227,43 @@ def seconds_to_hms(seconds: Union[float, int]) -> str:
     return f"{h:02}:{m:02}:{s:02}"
 
 
-def _embed(texts: List[str]) -> np.ndarray:
-    resp = openai_client.embeddings.create(model="text-embedding-3-small", input=texts)
-    # keep order: resp.data is a list of objects each with .index, .embedding
-    return np.array([d.embedding for d in sorted(resp.data, key=lambda x: x.index)])
+def _embed(texts: list[str]) -> np.ndarray:
+    """Return embeddings for *texts* in the same order, batching 20 at a time."""
+    if not texts:
+        raise ValueError("Input list is empty")
+
+    vectors = []
+    for i in range(0, len(texts), 20):  # ← chunk size = 20
+        block = texts[i : i + 20]
+        resp = openai_client.embeddings.create(
+            model="text-embedding-3-small",
+            input=block,
+        )
+        # Preserve order inside the block; model returns data with index
+        vectors.extend(d.embedding for d in sorted(resp.data, key=lambda x: x.index))
+
+    return np.array(vectors)
 
 
-def write_post(
+def generate_post(
     topic: str,
     subtitles: List[Subtitle],
     reference_files: List[Tuple[str, str]],
-    top_k: int = 10,  # ← new arg, default 10
+    title_vecs: np.ndarray,  # <- pre‑computed once and reused
+    top_k: int = 10,
 ) -> str:
-    # --- 1. Build subtitle and backlink strings as before ---------------
+    """Compose a post on *topic* using *subtitles* and the most‑similar
+    reference docs (similarity computed with *title_vecs*)."""
+
+    # 1. Build transcript string -------------------------------------------------
     joined_subs = "\n".join(f"{seconds_to_hms(s.start)}. {s.text}" for s in subtitles)
 
-    # --- 2. Compute embeddings -----------------------------------------
-    titles = [title for _, title in reference_files]
-    title_vecs = _embed(titles)  # shape = (N, 1536)
+    # 2. Embed the *topic* only (titles already embedded once) -------------------
     topic_vec = _embed([topic])[0]  # shape = (1536,)
 
-    # --- 3. Similarity & top-k -----------------------------------------
-    sims = title_vecs @ topic_vec  # dot == cosine
-    top_idx = sims.argsort()[::-1][:top_k]  # indices of k highest scores
+    # 3. Similarity & top‑k selection -------------------------------------------
+    sims = title_vecs @ topic_vec  # dot == cosine (unit‑norm model outputs)
+    top_idx = sims.argsort()[::-1][:top_k]
 
     # keep only the k best reference_files **and** skip identical titles
     filtered_refs = [
@@ -260,11 +274,9 @@ def write_post(
         f"{title} – [[{fname}]]" for fname, title in filtered_refs
     )
 
-    # --- 4. Call Gemini (unchanged) ------------------------------------
+    # 4. Call GPT‑4o to write the post ------------------------------------------
     completion = openai_client.chat.completions.create(
-        # model="gemini-2.5-flash-preview-05-20",
         model="gpt-4o",
-        # reasoning_effort="low",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT_POST},
             {
@@ -279,30 +291,6 @@ def write_post(
     )
     print("Wrote post: ", topic)
     return _remove_main_header(completion.choices[0].message.content)
-
-
-def add_post_references(post: Post, reference_files: list[tuple[str, str]]) -> Post:
-    backlink_topics = "\n".join(
-        f"{title} – [[{fname}]]"
-        for fname, title in reference_files
-        if fname != post.filename
-    )
-
-    completion = openai_client.chat.completions.create(
-        model="gpt-4o",
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT_REFERENCE},
-            {
-                "role": "user",
-                "content": (
-                    f"Here is the article:\n{post.content}\n\nAdd backlinks using these topics:\n{backlink_topics}"
-                ),
-            },
-        ],
-        prediction={"type": "content", "content": post.content},
-    )
-    new_content = completion.choices[0].message.content
-    return post.with_content(new_content)
 
 
 # ---------------------------------------------------------------------------
@@ -328,25 +316,32 @@ def get_youtube_video_id(url: str) -> str | None:
 # ---------------------------------------------------------------------------
 
 
-def create_post(  # signature changed
+def create_post(
     topic: str,
     subtitles: List[Subtitle],
     video_id: str,
     video_title: str,
-    reference_files: list[tuple[str, str]],
+    reference_files: List[Tuple[str, str]],
+    title_vecs: np.ndarray,
 ) -> Post:
-    content = write_post(topic, subtitles, reference_files)
+    """Wrapper to create a single :class:`Post`."""
+    content = generate_post(topic, subtitles, reference_files, title_vecs)
     filename = sanitize_string(topic)
     return Post(topic, content, filename, video_id, video_title)
 
 
-def generate_posts(
+def create_posts(
     topics: List[str],
     subtitles: List[Subtitle],
     video_id: str,
     video_title: str,
-    reference_files: list[tuple[str, str]],  # <-- added
+    reference_files: List[Tuple[str, str]],
+    title_vecs,
 ) -> List[Post]:
+    """Generate posts for *topics*, embedding reference titles only once."""
+
+    # --- Pre‑compute embeddings for reference titles once ----------------------
+
     posts: List[Post | None] = [None] * len(topics)
     with ThreadPoolExecutor(max_workers=10) as ex:
         futures = {
@@ -356,7 +351,8 @@ def generate_posts(
                 subtitles,
                 video_id,
                 video_title,
-                reference_files,  # <-- pass through
+                reference_files,
+                title_vecs,
             ): i
             for i, t in enumerate(topics)
         }
@@ -366,25 +362,9 @@ def generate_posts(
                 posts[idx] = future.result()
             except Exception as exc:
                 print(f"Error generating post for topic {topics[idx]!r}: {exc}")
+
+    # filter out any that failed ------------------------------------------------
     return [p for p in posts if p is not None]
-
-
-def add_references(posts: List[Post]) -> List[Post]:
-    reference_files = [(p.filename, p.topic) for p in posts]
-
-    posts_out: list[Post | None] = [None] * len(posts)
-    with ThreadPoolExecutor() as ex:
-        futures = {
-            ex.submit(add_post_references, posts[i], reference_files): i
-            for i in range(len(posts))
-        }
-        for future in as_completed(futures):
-            idx = futures[future]
-            try:
-                posts_out[idx] = future.result()
-            except Exception as exc:  # noqa: BLE001
-                print(f"Error adding references for post index {idx}: {exc}")
-    return [p for p in posts_out if p is not None]  # type: ignore[return-value]
 
 
 def write_posts(posts: List[Post], username) -> None:
@@ -469,23 +449,28 @@ def get_items(
     vids_array = get_channel_vids_filtered(channel_id, sort_by, min_vid_duration)
 
     print("getting topics")
-    with ThreadPoolExecutor() as ex:
+    with ThreadPoolExecutor(max_workers=20) as ex:
         video_infos = [fi for fi in ex.map(analyse_video, vids_array) if fi]
 
     all_topics = {t for v in video_infos for t in v["topics"]}
     global_refs = [(sanitize_string(t), t) for t in all_topics]
+    # Filter both together to maintain alignment
+    valid_refs = [(fname, title) for fname, title in global_refs if title.strip()]
+    titles = [title for _, title in valid_refs]
+    title_vecs = _embed(titles)
 
     print("creating posts")
     all_posts: list[Post] = []
     with ThreadPoolExecutor() as ex:
         futures = [
             ex.submit(
-                generate_posts,
+                create_posts,
                 v["topics"],
                 v["subtitles"],
                 v["video_id"],
                 v["video_title"],
-                global_refs,  # <-- the key line
+                valid_refs,  # <-- the key line
+                title_vecs,
             )
             for v in video_infos
         ]

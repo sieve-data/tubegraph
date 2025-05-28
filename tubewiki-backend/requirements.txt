@@ -1,4 +1,8 @@
-openai==1.82.0
-python-dotenv==1.1.0
-sievedata==1.4.12
-webvtt_py==0.5.1
+openai
+python-dotenv
+sievedata
+webvtt-py
+isodate
+google-api-python-client
+PyGithub
+numpy
