@@ -1,10 +1,7 @@
 ---
-title: Relaxation Through Music
-videoId: jIuDOkn8rZ4
+title: Relaxation through music
+videoId: Zbpe8iT_WW8
 ---
 
 From: [[dreamylapse]] <br/> 
-
-The experience of music is present throughout various points in a session, marked by musical passages <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>, <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>, <a class="yt-timestamp" data-t="00:34:32">[00:34:32]</a>, <a class="yt-timestamp" data-t="00:35:42">[00:35:42]</a>, <a class="yt-timestamp" data-t="00:38:16">[00:38:16]</a>, and <a class="yt-timestamp" data-t="00:49:30">[00:49:30]</a>. These musical moments are sometimes accompanied by audience applause <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>, <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>, <a class="yt-timestamp" data-t="00:34:32">[00:34:32]</a>, <a class="yt-timestamp" data-t="00:35:42">[00:35:42]</a>, <a class="yt-timestamp" data-t="00:38:16">[00:38:16]</a>, and <a class="yt-timestamp" data-t="00:49:30">[00:49:30]</a>.
-
-Audible human reactions include various interjections such as "ah" <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, "hmm" <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, "wow" <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, "yes" <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, "oh" <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, "hey" <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, and "good" <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>. Laughter is also noted at one point <a class="yt-timestamp" data-t="00:35:42">[00:35:42]</a>.
+This video features musical segments <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. Throughout the audio, expressions of thanks are frequently heard <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. Other sounds include applause <a class="yt-timestamp" data-t="00:54:48">[00:54:48]</a> and occasional spoken words like "all right" <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>, "no no no" <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>, "clowns" <a class="yt-timestamp" data-t="00:20:03">[00:20:03]</a>, "breakfast" <a class="yt-timestamp" data-t="00:20:03">[00:20:03]</a>, "questions" <a class="yt-timestamp" data-t="00:35:45">[00:35:45]</a>, and "messages" <a class="yt-timestamp" data-t="00:59:14">[00:59:14]</a>.
