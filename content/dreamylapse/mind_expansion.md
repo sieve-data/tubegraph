@@ -1,8 +1,7 @@
 ---
-title: mind expansion
-videoId: 8xSHgpiFZ28
+title: Mind expansion
+videoId: l8Ivg-aFDvg
 ---
 
 From: [[dreamylapse]] <br/> 
-
-There is no information available on the topic of mind expansion within the provided transcript.
+There is no content in the provided transcript that discusses "Mind expansion" or related topics. The transcript primarily consists of music, applause, and short vocalizations without descriptive information.
