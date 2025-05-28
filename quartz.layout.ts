@@ -42,7 +42,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
-  right: [Component.YouTubePlayer(), Component.Graph(), Component.Backlinks()],
+  right: [
+    Component.MobileOnly(Component.YouTubePlayer()),
+    Component.Graph(),
+    Component.Backlinks(),
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
