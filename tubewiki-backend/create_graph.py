@@ -162,10 +162,6 @@ SYSTEM_PROMPT_POST = """
 You are a writer creating a wiki-style article about the **main_topic** taken from a video or podcast.
 Write *only* from the supplied transcript and output Obsidian-flavoured Markdown
 (headings, sub-headings, callouts, block quotes, etc.).
-You can also use callouts like so:
-> [!info] Title
->
-> This is a callout!
 
 Timestamp rule  
 • Every factual statement must cite the video with a link in **exactly** this form  
@@ -176,7 +172,7 @@ Backlink rule
   each paired with its wiki link.  Whenever one of those topics is mentioned, wrap the
   mention in the given link, e.g.  [[kevin_durant_brooklyn_nets | Kevin Durant]].
 
-Return **only** the finished Markdown article.
+Return **only** the finished Markdown article. Do not include anything else.
 """
 
 SYSTEM_PROMPT_REFERENCE = """
@@ -271,12 +267,14 @@ def generate_post(
     ]
 
     backlink_topics = "\n".join(
-        f"{title} – [[{fname}]]" for fname, title in filtered_refs
+        f"{title} – Link name: {fname}" for fname, title in filtered_refs
     )
 
     # 4. Call GPT‑4o to write the post ------------------------------------------
-    completion = openai_client.chat.completions.create(
-        model="gpt-4o",
+    completion = gemini_client.chat.completions.create(
+        # model="gpt-4o",
+        model="gemini-2.5-flash-preview-05-20",
+        reasoning_effort="low",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT_POST},
             {
@@ -425,21 +423,7 @@ def write_directory_post(all_posts: List[Post], username):
     return content
 
 
-@sieve.function(
-    name="create-tubegraph-pages",
-    python_version="3.10",
-    python_packages=[
-        "openai",
-        "python-dotenv",
-        "sievedata",
-        "webvtt-py",
-        "isodate",
-        "google-api-python-client",
-        "PyGithub",
-        "numpy",
-    ],
-)
-def get_items(
+def create_graph(
     username: str,
     channel_id: str,
     min_vid_duration: int,

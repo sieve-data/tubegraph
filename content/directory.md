@@ -7,4 +7,6 @@ title: Tubegraph
 - [[dwarkeshpatel | The Dwarkesh Podcast]]
 - [[hubermanlab | Huberman Lab]]
 - [[lexfridman | Lex Fridman Podcast]]
+- [[acquiredfm | Acquired Podcast]]
+- [[joerogan | The Joe Rogan Experience]]
 - [[awdii]]

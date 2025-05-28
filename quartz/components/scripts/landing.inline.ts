@@ -98,7 +98,7 @@ async function setupCreateGraphButton() {
 
     // Show loading state on button
     const originalText = createButton.textContent
-    createButton.textContent = "Creating Graph..."
+    createButton.textContent = "Creating Graph... (this will take a couple minutes)"
     createButton.disabled = true
 
     try {
@@ -141,6 +141,24 @@ async function createTubegraphPages(
   minVidDuration: number,
   sortBy: "views" | "upload_date",
 ) {
+  let username_check = username.replace("@", "")
+
+  // Check if the username directory already exists in content
+  try {
+    const response = await fetch(`/${username_check}`)
+    console.log(response)
+    if (response.ok || response.status === 403) {
+      const addChannelDiv = document.querySelector(".add-channel") as HTMLElement
+      if (addChannelDiv) {
+        addChannelDiv.innerHTML = `Already Indexed! View <a href="https://tubegraph.vercel.app/${username_check}/${username_check}">here.</a>`
+      }
+      return
+    }
+  } catch (error) {
+    // If fetch fails, we'll continue with the normal flow
+    console.log("Directory check failed, proceeding with creation:", error)
+  }
+
   const api_key = process.env.SIEVE_API_KEY
   console.log(api_key)
 
@@ -156,7 +174,7 @@ async function createTubegraphPages(
       "X-API-Key": api_key,
     },
     body: JSON.stringify({
-      function: "sieve-demos/tubegraph-entry",
+      function: "sieve-demos/create-tubegraph-pages",
       inputs: {
         username: username,
         min_vid_duration: minVidDuration * 60,

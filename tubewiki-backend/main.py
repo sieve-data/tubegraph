@@ -2,6 +2,7 @@ from typing import Literal
 
 import requests
 import sieve
+from create_graph import create_graph
 from get_channel_vids import get_channel_id
 
 
@@ -24,7 +25,7 @@ def url_exists_on_tubegraph(slug: str, *, timeout: float = 5.0) -> bool:
 
 
 @sieve.function(
-    name="tubegraph-entry",
+    name="create-tubegraph-pages",
     python_version="3.10",
     python_packages=[
         "openai",
@@ -34,6 +35,7 @@ def url_exists_on_tubegraph(slug: str, *, timeout: float = 5.0) -> bool:
         "isodate",
         "google-api-python-client",
         "PyGithub",
+        "numpy",
     ],
 )
 def get_items(
@@ -42,16 +44,11 @@ def get_items(
     sort_by: Literal["views", "upload_date"],
 ):
     username = username.replace("@", "").lower()
-    if url_exists_on_tubegraph(username):
-        return {
-            "result": f"Already Indexed! View <a href='https://tubegraph.vercel.app/{username}/{username}'>here.</a>"
-        }
     channel_id = get_channel_id(username)
     if channel_id is None:
         return {"result": "Channel Invalid!"}
     print("getting, ", channel_id)
-    create_tubegraph_pages = sieve.function.get("sieve-demos/create-tubegraph-pages")
-    output = create_tubegraph_pages.push(
+    output = create_graph(
         username=username,
         channel_id=channel_id,
         min_vid_duration=min_vid_duration,
@@ -59,7 +56,7 @@ def get_items(
     )
     print(output)
     return {
-        "result": f"Channel Indexing... Will appear at <a href='https://tubegraph.vercel.app/{username}/{username}'>here.</a>"
+        "result": f"May take 1-2 minutes to load here: <a href='https://tubegraph.vercel.app/{username}/{username}'>here.</a>"
     }
 
 
