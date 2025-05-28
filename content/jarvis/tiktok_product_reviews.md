@@ -1,0 +1,46 @@
+---
+title: TikTok product reviews
+videoId: S_Y6Adi53lc
+---
+
+From: [[jarvis]] <br/> 
+
+A content creator embarked on a project to purchase and review various products advertised or trending on TikTok, inspired by similar content creators like Safiya Nygaard and Drew Gooden <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. The initial plan involved buying every possible product seen on the platform <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. This endeavor followed a previous appearance on Good Mythical Morning, where the creator reviewed "strange [[analyzing_tiktok_home_design_videos | TikTok Home Products]]" <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. The process involved purchasing items over a few months and then trying them out, often without remembering what was ordered <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+
+## Reviewed Products
+
+### Unsolicited Micro Needle Derma Roller
+Upon opening the first package, the reviewer found a micro needle Derma roller <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. This item was unexpected, as it was not something the reviewer recalled ordering, suggesting it might have been sent instead of a different purchased product <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. The reviewer described it as a "torture device" <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a> and questioned its intended use, finding it uncomfortable <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+
+### 7-in-1 Keyboard Cleaner Kit
+This product, titled "Seven in One keyboard cleaner kit laptop cleaner computer headphone cleaning kit tablet and Screen dusting brush includes soft sweep swipe three in one airpod cleaning pin key puller and spray bottle," was purchased in pink <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+*   **Components**: It features a multi-functional cleaning brush <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>, a fabric strip for screens <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>, an unlabeled cleaning liquid spray bottle <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>, an airpod cleaning tip <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>, and a tiny brush for airpods <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>.
+*   **Performance**: The brush was used on a "professionally dirtied" keyboard <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>, but the keyboard remained dirty <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. The spray and fabric strip effectively cleaned dried dog slobber from an iPad screen <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>, leading the reviewer to believe this was its intended purpose <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>. The product was generally considered efficient and "not bad by any means" <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+
+### Magic Electric Tap Automatic Drink Dispenser
+This device, advertised as a "magic electric tap automatic drink dispenser automated bottle water dispenser automatic drinking straw for collecting milk," was purchased for nine dollars <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+*   **Design**: It requires AA batteries, which were difficult to fit into the flimsy plastic <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>. The title was noted for being "keyword stuffed," similar to "Elsa gate" kids' videos <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+*   **Performance**: The dispenser was described as "not practical at all" and "slobbering out the drink" <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>, producing a "pathetic stream of water" <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>. The reviewer questioned its purpose given that pouring already exists <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>. Its internal tube was compared to a "vein" or "umbilical cord" <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. It failed to fit into a carton of Lactaid milk <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>, necessitating a "transitory device" (another glass) to transfer the milk <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. The reviewer concluded it was not practical and wanted to discard it due to milk curdling inside <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>. Despite its flaws, it was sarcastically given a "10 out of 10" <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>.
+
+### Soup Fat Oil Separator Ladle
+This product, listed as a "soup fat oil separator Ladle oil filament skimmer spoon soup colander for kitchen gravy food fat separator skimmer spoon," was simply identified as a ladle <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>. The reviewer realized that the "magic of TikTok" had led to the purchase of a "regular kitchen utensil" <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>, which they did not previously own <a class="yt-timestamp" data-t="00:12:10">[00:12:10]</a>.
+
+### Shower Foot Massage Pad
+Advertised as a "shower foot massage pad bath massage pad shower foot massager scrubber scrubber," this item features suction cups on the back for attachment to a shower wall <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>. The reviewer attempted to use it for back and foot massages <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>, but found it merely felt like "rubber" <a class="yt-timestamp" data-t="00:13:27">[00:13:27]</a>.
+
+### Portable Ice Ball Maker (Spherical Ice Tray)
+The reviewer intended to purchase a spherical ice maker seen on TikTok, which was found on Amazon for $27 <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>. A similar product was also found on AliExpress for $2.83, leading the reviewer to suspect drop shipping and purchase both for comparison <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a>.
+
+*   **AliExpress Version**: The AliExpress purchase was a "comically small ice tray" with a lid that did not attach, rather than the spherical ice maker <a class="yt-timestamp" data-t="00:15:02">[00:15:02]</a>. The reviewer noted that AliExpress showed a small photo of this actual product among many photos of the intended spherical ice maker <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>. It produced tiny, unremarkable ice cubes <a class="yt-timestamp" data-t="00:23:08">[00:23:08]</a>.
+*   **Amazon Version**: The Amazon product was an "ice cube making bottle" designed to create circular ice cubes <a class="yt-timestamp" data-t="00:16:25">[00:16:25]</a>. Water is poured into the bottle, filling internal orbs <a class="yt-timestamp" data-t="00:16:41">[00:16:41]</a>. Opening it required running the top under hot water and then unscrewing it, which was described as "pretty difficult" <a class="yt-timestamp" data-t="00:23:36">[00:23:36]</a>. The resulting ice cubes were not perfectly spherical, resembling "planets with a ring around it" or "Saturns," making it a "more complicated way to make regular ice" <a class="yt-timestamp" data-t="00:24:20">[00:24:20]</a>. Despite the aesthetic disappointment, it was not considered a scam <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>.
+
+### Back Straightener
+This product, vaguely recalled by the reviewer, appeared to be a device for stretching or straightening the back <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>. It was made of "very cheap plastic" <a class="yt-timestamp" data-t="00:18:42">[00:18:42]</a>. The reviewer found it somewhat effective, stating his back felt "pretty straight" <a class="yt-timestamp" data-t="00:19:05">[00:19:05]</a>.
+
+### Creative Spoof Turtle B Doll (Giant Turtle Shell Cushion)
+This product was advertised as a "creative spoof Turtle B Doll funny to send female girlfriends birthday gifts big turtle shell" and was purchased for $52.99 <a class="yt-timestamp" data-t="00:19:48">[00:19:48]</a>.
+*   **Design**: It arrived vacuum-sealed like a mattress <a class="yt-timestamp" data-t="00:20:37">[00:20:37]</a>. Upon opening, it revealed a giant turtle shell cushion with places for arms <a class="yt-timestamp" data-t="00:20:50">[00:20:50]</a>.
+*   **Experience**: The reviewer enthusiastically embraced the product, wearing it like a turtle shell and attempting to move around in it <a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a>. The reviewer's dog, Dipper, was initially afraid <a class="yt-timestamp" data-t="00:21:20">[00:21:20]</a>. The product was highly praised, receiving a "10 out of 10" rating, with the reviewer vowing "never taking this off" <a class="yt-timestamp" data-t="00:21:51">[00:21:51]</a>.
+
+## Overall Reflections
+The reviewer expressed being "pleasantly surprised" by some purchases, highlighting the turtle shell and back straightener as favorites <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>. Lowlights included the unsolicited Derma roller and the impractical drink dispenser <a class="yt-timestamp" data-t="00:22:17">[00:22:17]</a>.

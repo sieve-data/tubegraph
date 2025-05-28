@@ -1,0 +1,26 @@
+---
+title: Public reactions to unconventional cooking methods
+videoId: -4lc3CG9_gg
+---
+
+From: [[jarvis]] <br/> 
+
+The internet has seen a surge in unconventional cooking methods, particularly those involving [[cooking_directly_on_countertops | cooking directly on countertops]] <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. These [[tiktok_cooking_hacks | TikTok cooking hacks]] and other [[viral_food_hacks_on_social_media | viral food hacks on social media]] are primarily created "for views" <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+
+## Initial Skepticism and Eventual Hype
+
+Videos like "the ultimate nacho hack" often leave viewers asking, "why did you do this on a counter?" <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. Similarly, in the "ultimate spaghetti trick," the person behind the camera initially questions the practicality, asking if it's truly the "easiest way" or "best way" to make spaghetti <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>, <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>, <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>, and pointing out the obvious mess on the counter <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+
+However, a common trope in these videos involves the person behind the camera transitioning from skepticism to unmotivated exclamations of "wow" and hype <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>, <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>, <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>. This formula often involves claiming the recipe has been done "a million times before," despite evidence like pristine countertops suggesting otherwise <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. Viewers generally perceive these methods as impractical and unappetizing, with comments indicating "this wouldn't impress anyone" and calling the content "a lie" <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>, <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>.
+
+## The Role of [[influence_of_rick_lax_on_food_videos | Rick Lax]] and Outrage Content
+
+Many of these bizarre food videos are linked to the [[influence_of_rick_lax_on_food_videos | Facebook magician Rick Lax]] and his production company <a class="yt-timestamp" data-t="00:18:21">[00:18:21]</a>, <a class="yt-timestamp" data-t="00:20:15">[00:20:15]</a>. A key aspect of their virality is that the videos often go viral without the context that they are parody or purely for entertainment purposes <a class="yt-timestamp" data-t="00:20:57">[00:20:57]</a>, <a class="yt-timestamp" data-t="00:20:59">[00:20:59]</a>, <a class="yt-timestamp" data-t="00:21:33">[00:21:33]</a>.
+
+Jarvis Johnson conducted an experiment by posting one of these spaghetti hack videos without context on Twitter. The result was overwhelming negativity, with "everyone lost their mind" <a class="yt-timestamp" data-t="00:21:46">[00:21:46]</a> and being "mad" <a class="yt-timestamp" data-t="00:21:49">[00:21:49]</a>, <a class="yt-timestamp" data-t="00:22:14">[00:22:14]</a>. The video garnered over 9 million views, 60,000 likes, and 45,000 to 50,000 retweets, almost all expressing anger <a class="yt-timestamp" data-t="00:23:05">[00:23:05]</a>. This even led to "Prego" trending nationwide in the United States <a class="yt-timestamp" data-t="00:23:26">[00:23:26]</a>. Celebrities like Patton Oswalt also chimed in on the discussion <a class="yt-timestamp" data-t="00:23:36">[00:23:36]</a>.
+
+Rick Lax has asserted that the videos are "legitimately meant to be practical" and objects to them being called "gross" <a class="yt-timestamp" data-t="00:26:00">[00:26:00]</a>, <a class="yt-timestamp" data-t="00:26:06">[00:26:06]</a>. However, he clarifies that when he says "good videos," he means "videos that perform well on social media" <a class="yt-timestamp" data-t="00:26:13">[00:26:13]</a>, <a class="yt-timestamp" data-t="00:26:15">[00:26:15]</a>. One of the creators featured, Getty, even stated, "it's nothing that people should do" <a class="yt-timestamp" data-t="00:24:49">[00:24:49]</a>, confirming that the bizarre nature is intentional.
+
+## Underlying Motivation: Views and Outrage Clicks
+
+The overall consensus among viewers is that these methods are "gross" and "awful" <a class="yt-timestamp" data-t="00:24:28">[00:24:28]</a>, <a class="yt-timestamp" data-t="00:26:08">[00:26:08]</a>. The strong negative reactions indicate that "no one is enjoying this, but that's like exactly the reason that it exists because it's it's for it's outrage clicks" <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>, <a class="yt-timestamp" data-t="00:22:20">[00:22:20]</a>. Despite the criticism, particularly concerning [[the_ethics_of_wasting_food_for_viral_videos | the ethics of wasting food for viral videos]] <a class="yt-timestamp" data-t="00:26:24">[00:26:24]</a>, these videos continue to captivate audiences due to their unusual nature <a class="yt-timestamp" data-t="00:26:30">[00:26:30]</a>, <a class="yt-timestamp" data-t="00:26:32">[00:26:32]</a>.

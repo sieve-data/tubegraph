@@ -1,0 +1,27 @@
+---
+title: The use of extreme content for social media engagement
+videoId: SUGfvEAlvk0
+---
+
+From: [[jarvis]] <br/> 
+
+Social media creators sometimes use extreme or sensational content to increase engagement and viral reach <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>. This strategy is often employed to generate views, likes, and overall audience interest, even if the content blurs ethical lines or appears to be staged <a class="yt-timestamp" data-t="09:16:00">[09:16:00]</a>.
+
+## Case Study: Too Turnt Tony
+
+Too Turnt Tony is an example of a content creator who has escalated his content from initial "thirst traps with animals" <a class="yt-timestamp" data-t="01:04:05">[01:04:05]</a> to more elaborate and controversial narratives <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>. His content is discussed as having "very extensive lore" <a class="yt-timestamp" data-t="01:47:00">[01:47:00]</a>, evolving into storylines that appear to be increasingly extreme.
+
+### Evolution of Content and Controversies
+
+*   **Initial Persona:** Tony was known as a "shirtless man who posts thirst traps with animals," specifically a duck <a class="yt-timestamp" data-t="01:04:05">[01:04:05]</a>. This content was already considered "crazy" by some viewers <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>.
+*   **Narrative Shift:** Viewer engagement through direct messages led to discussions about his content becoming "even worse" and him being "up to no good" <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>. This included rumors of him adopting or kidnapping a boy <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a> and suddenly adopting a Southern accent <a class="yt-timestamp" data-t="02:04:00">[02:04:00]</a>.
+*   **Staged Scenarios:** A significant aspect of his recent content involves a young boy named Timmy. While Tony frames it as reuniting a lost child with his family <a class="yt-timestamp" data-t="05:53:00">[05:53:00]</a>, commentators suggest these situations are likely staged for clicks and engagement <a class="yt-timestamp" data-t="09:16:00">[09:16:00]</a>. Examples include:
+    *   **Child "Reunion":** A TikTok video claims to show Tony reuniting a lost child with his family, though it implies the police had to intervene to retrieve the child <a class="yt-timestamp" data-t="08:34:00">[08:34:00]</a>. The video suggests the parents were looking for the child for over two weeks <a class="yt-timestamp" data-t="07:23:00">[07:23:00]</a>. The hosts speculate TikTok removed the video because Tony may have put the child in that position himself for content <a class="yt-timestamp" data-t="06:22:00">[06:22:00]</a>, which aligns with concerns about [[sensationalism_in_digital_storytelling | sensationalism in digital storytelling]].
+    *   **Inappropriate Interactions:** Tony uses the child's toy as a beer bong <a class="yt-timestamp" data-t="07:05:00">[07:05:00]</a> and includes interactions like asking the child to "fist" someone (a misinterpretation, but seen as inappropriate) <a class="yt-timestamp" data-t="08:59:00">[08:59:00]</a>.
+    *   **Staged Police Encounters:** The repeated appearance of police "showing up" at various events (like a wedding) <a class="yt-timestamp" data-t="14:47:00">[14:47:00]</a>, or text messages from "parents" threatening to call the police <a class="yt-timestamp" data-t="15:41:00">[15:41:00]</a>, further suggests a fabricated narrative designed to create drama and engagement <a class="yt-timestamp" data-t="15:05:00">[15:05:00]</a>.
+    *   **"Gingerbread Daddy" Scenario:** One video features Tony's "dad" in a gingerbread costume chasing the child in a store <a class="yt-timestamp" data-t="18:40:00">[18:40:00]</a>, which is described as "pretty unsettling" despite likely being staged <a class="yt-timestamp" data-t="19:21:00">[19:21:00]</a>.
+*   **Monetization of Extreme Content:** The discussion highlights how creators like Tony use these extreme narratives to garner millions of views and likes <a class="yt-timestamp" data-t="12:26:00">[12:26:00]</a>. Tony also monetizes his content through an OnlyFans account <a class="yt-timestamp" data-t="17:14:00">[17:14:00]</a>, which is openly referenced in his TikToks <a class="yt-timestamp" data-t="17:04:00">[17:04:00]</a>. The hosts note the alarming trend of viewers encouraging more extreme acts, such as adopting the child for "5 million likes" <a class="yt-timestamp" data-t="09:48:00">[09:48:00]</a>. This points to the [[social_media_outrage_culture_and_its_monetization | monetization of social media outrage culture]].
+
+## Implications
+
+The use of extreme content, even if staged, raises significant ethical concerns. The blurring of lines between reality and fabrication for the sake of engagement can mislead audiences and potentially normalize inappropriate behaviors, particularly when children are involved <a class="yt-timestamp" data-t="19:21:00">[19:21:00]</a>. The hosts express concern that these staged scenarios, which are designed to appear shocking or controversial, are nevertheless upsetting <a class="yt-timestamp" data-t="20:45:00">[20:45:00]</a>. The fact that these videos receive millions of views suggests the effectiveness of such content in capturing audience attention, despite or because of its extreme nature <a class="yt-timestamp" data-t="12:26:00">[12:26:00]</a>. This phenomenon highlights the broader [[influence_of_sensational_content_on_viewer_engagement | influence of sensational content on viewer engagement]].

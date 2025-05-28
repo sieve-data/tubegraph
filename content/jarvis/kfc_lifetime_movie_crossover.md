@@ -1,0 +1,33 @@
+---
+title: KFC Lifetime Movie Crossover
+videoId: 50ZQhCMvbhE
+---
+
+From: [[jarvis]] <br/> 
+
+In a surprising brand collaboration, KFC partnered with Lifetime to produce a "horny movie" <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a> titled "A Recipe for Seduction," an origin story for [[Colonel Sanders Characterization | Colonel Sanders]] <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. The movie poster itself went viral, leading to widespread discussion <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+
+## Production and Promotion
+Despite initial skepticism, particularly given KFC's previous venture into an ill-fated gaming console that also cooks chicken, "A Recipe for Seduction" was indeed produced <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. The collaboration was described as "the weirdest brand deal of all time" <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. The film is essentially a 16-minute commercial, albeit "beautifully shot" <a class="yt-timestamp" data-t="00:24:54">[00:24:54]</a>, and was considered a successful marketing ploy due to the buzz it generated <a class="yt-timestamp" data-t="00:25:01">[00:25:01]</a>.
+
+### Lifetime's Brand Identity
+[[Lifetime Original Movies Discussion | Lifetime]] is known for its "unapologetically Christmas 24/7" theme, especially around the holiday season, a fact reflected in their Twitter bio <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. "A Recipe for Seduction" embraces this, opening with gigantic Christmas trees, confirming its status as a Christmas movie <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
+
+## Plot Summary
+The movie opens at a family Christmas dinner, where the audience learns a proposal is imminent <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. Despite the movie's subject, the only shot of chicken in the entire film appears during the intro title sequence <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+
+### Characters
+*   **Jessica:** The main love interest <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
+*   **Billy Garibaldi III:** The wealthy suitor who proposes to Jessica <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. He is characterized by slicked-back hair and a vest, indicating his wealth <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>, and later by his "cartoon" facial expressions <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a> and appearance resembling a "Harry Potter villain" <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>.
+*   **Bunny:** Jessica's "evil" mother, who is pressuring Jessica to marry Billy to maintain their family's "fancy lifestyle" and pay off debt left by her father <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>. She is frequently seen listening in doorways <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a> and later depicted as a "crazy murderer" <a class="yt-timestamp" data-t="00:22:06">[00:22:06]</a>.
+*   **Lee:** Jessica's "black gay best friend," a "tired trope in media" <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>. He serves as a reaction shot character, especially during the climax <a class="yt-timestamp" data-t="00:22:27">[00:22:27]</a>.
+*   **Harland Sanders (Colonel Sanders):** The new chef, portrayed by Mario Lopez <a class="yt-timestamp" data-t="00:08:59">[00:08:59]</a>. Despite the family's debt, they hire a new chef from a high-end restaurant called "Le Petit Pomplemu" <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>. Harland is confusingly aged with gray hair <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>, and first introduces himself by talking about his "secret recipe" rather than his background <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>.
+
+### Key Plot Points
+*   **The Proposal:** Billy proposes to Jessica, who, despite being "speechless," looks to Lee for a reaction <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>. She eventually accepts, but appears forced <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
+*   **Harland's Arrival:** Harland Sanders is introduced as the new chef, immediately captivating Jessica <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. Their first date is an impromptu tour of the property <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. Bunny disapproves of this budding romance because Harland is "not a Garibaldi" <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+*   **The Affair:** A bizarre plot twist reveals that Billy and Bunny (Jessica's mother) are having a secret romantic relationship <a class="yt-timestamp" data-t="00:14:34">[00:14:34]</a>. This revelation "doesn't serve the story" and makes already cartoonishly evil characters even more so <a class="yt-timestamp" data-t="00:14:59">[00:14:59]</a>.
+*   **The Secret Recipe:** Billy attempts to find dirt on Harland, eventually discovering his "secret recipe" in a backpack, labeled "secret recipe" <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>. The recipe is a scratch work, with "nine herbs, two spices" <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>, and features a drawing of a drumstick <a class="yt-timestamp" data-t="00:16:34">[00:16:34]</a>.
+*   **Billy's Bribery Attempt:** Billy tries to bribe Harland with a $500,000 check to leave Jessica alone <a class="yt-timestamp" data-t="00:17:55">[00:17:55]</a>.
+*   **The Abduction:** Lee arrives at the mansion looking for Jessica, and Bunny knocks him out with a broom/mallet conveniently left by the staircase <a class="yt-timestamp" data-t="00:18:37">[00:18:37]</a>. Harland is then found by Jessica, duct-taped and tied to a chair in a room with "blood on the handle" of the door <a class="yt-timestamp" data-t="00:20:58">[00:20:58]</a>, implied to be Billy's blood from cutting his finger <a class="yt-timestamp" data-t="00:23:25">[00:23:25]</a>. Billy and Bunny reveal their plan to kill Harland <a class="yt-timestamp" data-t="00:21:54">[00:21:54]</a>.
+*   **Resolution:** Jessica rescues Harland, who, despite being tied, "could have just gotten up" <a class="yt-timestamp" data-t="00:22:56">[00:22:56]</a> due to the loose restraints. One year later, [[Colonel Sanders Characterization | Colonel Sanders]] and Jessica are married <a class="yt-timestamp" data-t="00:23:32">[00:23:32]</a>, while Bunny is in "the loony bin," resembling Bellatrix Lestrange <a class="yt-timestamp" data-t="00:23:43">[00:23:43]</a>. Billy visits Bunny, holding a single drumstick <a class="yt-timestamp" data-t="00:24:20">[00:24:20]</a>, providing the second and final shot of chicken in the movie <a class="yt-timestamp" data-t="00:24:32">[00:24:32]</a>.

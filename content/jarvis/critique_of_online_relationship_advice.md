@@ -1,0 +1,39 @@
+---
+title: Critique of online relationship advice
+videoId: HxsV_cPjPuc
+---
+
+From: [[jarvis]] <br/> 
+
+The "Jarvis Johnson" podcast frequently features commentary on online relationship advice, particularly focusing on TikTok accounts that offer such content. One prominent example discussed is the TikTok account of Adam Roberts, also known as Ads Roberts <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. The hosts generally describe his content as "basic" and "inoffensive," yet highly problematic due to its low effort and often obvious or nonsensical advice <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a> <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>.
+
+## Adam Roberts' TikTok Style
+
+Adam Roberts' videos are characterized by extreme low effort and a consistent, unvarying presentation <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>. He typically appears in front of the same picture frame, maintaining an "expressionless" face and using the same finger gesture at the start of every video <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a> <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a> <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a> <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a> <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a> <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a> <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a> <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a> <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. This repetitive style allows him to produce a high volume of content quickly <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a> <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>. His unchanging expression is likened to an "idle animation in a video game" or a "Sims creative character" <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a> <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. This lack of expression allows viewers to project their own emotions onto his blank face, an aspect the hosts ironically describe as "art" <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a> <a class="yt-timestamp" data-t="00:15:26">[00:15:26]</a>.
+
+## Critique of Advice Content
+
+The hosts systematically dissect Adam Roberts' advice, highlighting its simplistic, obvious, or problematic nature.
+
+### Obvious and Straightforward Advice
+
+Many of Roberts' videos present statements that are self-evident:
+*   "If you text chat with someone every day, you will be attached to them" <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. This is critiqued as simply stating that if you text someone daily, you have a relationship with them <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
+*   To know if someone "truly loves you," they will "tell you that he truly loves you" <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>.
+*   Signs you've met "the one" include being able to be vulnerable, being each other's biggest supporters, feeling "at home" with them, or having a "gut feeling" <a class="yt-timestamp" data-t="00:17:19">[00:17:19]</a> <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a> <a class="yt-timestamp" data-t="00:18:22">[00:18:22]</a> <a class="yt-timestamp" data-t="00:18:35">[00:18:35]</a> <a class="yt-timestamp" data-t="00:18:44">[00:18:44]</a>. These are seen as basic expectations for any healthy relationship stage, not just "early signs" <a class="yt-timestamp" data-t="00:18:25">[00:18:25]</a>.
+*   Signs a relationship is "past the breaking point" include every discussion turning into an argument, small things starting to bother you, or not feeling wanted anymore <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a> <a class="yt-timestamp" data-t="00:19:47">[00:19:47]</a> <a class="yt-timestamp" data-t="00:19:54">[00:19:54]</a> <a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>. The hosts joke that a relationship is past its breaking point if you've already broken up <a class="yt-timestamp" data-t="00:19:27">[00:19:27]</a> <a class="yt-timestamp" data-t="00:19:35">[00:19:35]</a>.
+
+### "Toxic Edition" Advice
+
+Roberts offers a "toxic edition" of advice for getting someone attached to you <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. This advice is deemed more childish than genuinely toxic:
+1.  **"Open their messages but don't reply straight away"**: This is dismissed as a tactic from someone who is "13" and testing a crush, rather than a truly toxic act <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a> <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>. It's noted that people can simply be busy and not obligated to respond immediately <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>.
+2.  **"Tell them they are different to anyone else"**: This is interpreted as the "you're not like other girls" trope, which works by making a person feel special by implicitly criticizing other women <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a> <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a> <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a> <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>.
+3.  **"Disappear" (spelled "disspear")**: This escalates drastically, implying one should "get kidnapped" or literally vanish without a trace to make someone worry <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a> <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a> <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>. The hosts find this absurd, suggesting it would lead to missing person reports rather than attachment <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a> <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a>.
+
+### Vague and Plagiarized Content
+
+Roberts' content is often so generic that it is perceived as [[criticism_of_tiktok_advice_on_relationships | plagiarized]] from common "deep quotes" found on platforms like Pinterest <a class="yt-timestamp" data-t="00:14:46">[00:14:46]</a> <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a> <a class="yt-timestamp" data-t="00:15:05">[00:15:05]</a>. Even when he speaks, his statements are described as lacking depth, such as "People are the most complex things in the world" and "there's a person involved who doesn't think logically" <a class="yt-timestamp" data-t="00:23:42">[00:23:42]</a> <a class="yt-timestamp" data-t="00:24:09">[00:24:09]</a> <a class="yt-timestamp" data-t="00:24:15">[00:24:15]</a>. The hosts note that his seemingly profound statements are merely vague generalities, often perceived as smart only because of his accent <a class="yt-timestamp" data-t="00:24:23">[00:24:23]</a> <a class="yt-timestamp" data-t="00:24:26">[00:24:26]</a>.
+
+### Broader Implications
+
+The discussion touches on the broader [[influence_of_social_media_on_modern_dating_culture | influence of social media on modern dating culture]] and the [[effects_of_social_media_on_relationships | portrayal of relationships on social media]]. The low effort and obvious nature of Roberts' content raise questions about the TikTok algorithm and what kind of advice gains traction <a class="yt-timestamp" data-t="00:14:33">[00:14:33]</a>. The hosts note that some of Roberts' advice is essentially a tweet that goes viral monthly, indicating a lack of original thought <a class="yt-timestamp" data-t="00:22:44">[00:22:44]</a> <a class="yt-timestamp" data-t="00:22:48">[00:22:48]</a>. The overall [[criticisms_of_the_shows_approach_to_dating | critique of the shows approach to dating]] advice is that it is often unoriginal, simplistic, and sometimes bizarre, falling far short of genuine guidance.

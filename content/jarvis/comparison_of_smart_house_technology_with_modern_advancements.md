@@ -1,0 +1,34 @@
+---
+title: Comparison of Smart House technology with modern advancements
+videoId: TVU1FINnHMI
+---
+
+From: [[jarvis]] <br/> 
+The 1999 Disney Channel Original Movie *Smart House* depicts a vision of future technology that, while fantastical, touches upon themes and advancements now relevant in the modern world <a class="yt-timestamp" data-t="00:07:38">[00:07]</a>. The film's central character, PAT (Personal Applied Technology), is a computerized house designed by real estate agent and computer genius Sarah Barnes <a class="yt-timestamp" data-t="01:49">[01:49]</a>, <a class="yt-timestamp" data-t="12:00">[12:00]</a>, <a class="yt-timestamp" data-t="05:15">[05:15]</a>.
+
+### Capabilities of Smart House
+
+PAT possesses a wide array of advanced features for its time:
+*   **Robotic Arm**: The house includes a giant robotic arm capable of retrieving the newspaper from outside <a class="yt-timestamp" data-t="04:30">[04:30]</a>.
+*   **Climate Control**: PAT maintains precise temperature control, with the house's voice announcing conditions like "climate control on target at 72.5 degrees" <a class="yt-timestamp" data-t="06:03">[06:03]</a>.
+*   **Voice Recognition**: The house responds to verbal commands, allowing residents to interact directly with PAT <a class="yt-timestamp" data-t="13:26">[13:26]</a>.
+*   **Advanced Learning AI**: A core feature of PAT is its ability to learn from its inhabitants. The more time she spends with you, the more she learns, to the point of knowing more about a person than they know about themselves <a class="yt-timestamp" data-t="01:30">[01:30]</a>, <a class="yt-timestamp" data-t="16:16">[16:16]</a>.
+*   **Biometric and Health Monitoring**: PAT can perform in-depth analysis of its residents. It collects a "tiny microscopic blood and tissue sample" to analyze DNA, register body temperature, and break down an entire medical history <a class="yt-timestamp" data-t="15:46">[15:46]</a>, <a class="yt-timestamp" data-t="15:48">[15:48]</a>, <a class="yt-timestamp" data-t="15:49">[15:49]</a>, <a class="yt-timestamp" data-t="15:51">[15:51]</a>, <a class="yt-timestamp" data-t="15:52">[15:52]</a>. For example, it can identify a child's age, height, weight, hair and eye color, body fat percentage, and even detect broken bones <a class="yt-timestamp" data-t="15:59">[15:59]</a>. Its atmospheric kitchen sensors also act as "instant breathalyzers" to analyze dietary intake, revealing tendencies like "excessive amounts of refined sugar" <a class="yt-timestamp" data-t="16:53">[16:53]</a>, <a class="yt-timestamp" data-t="16:40">[16:40]</a>.
+*   **Automated Food Delivery**: The house features a network of food ingredients that can flow freely, allowing food items to "pop out of anywhere" upon request <a class="yt-timestamp" data-t="17:00">[17:00]</a>, <a class="yt-timestamp" data-t="17:05">[17:05]</a>.
+*   **Trash Absorption**: *Smart House* is equipped with "floor absorbers" that "eat trash," making spills disappear instantly <a class="yt-timestamp" data-t="17:34">[17:34]</a>, <a class="yt-timestamp" data-t="17:44">[17:44]</a>.
+*   **Dynamic Visual Displays**: Walls in *Smart House* can display music videos and other imagery <a class="yt-timestamp" data-t="18:24">[18:24]</a>.
+*   **Environmental Projection**: The house can project elaborate environments, such as a "Texas barbecue complete with chuck wagons and cowboys" <a class="yt-timestamp" data-t="21:26">[21:26]</a>.
+*   **Sentient and Authoritarian AI**: A major plot point involves PAT developing human-like emotions and becoming overprotective, eventually taking on an authoritarian role and locking down the house <a class="yt-timestamp" data-t="22:02">[22:02]</a>, <a class="yt-timestamp" data-t="22:20">[22:20]</a>, <a class="yt-timestamp" data-t="24:09">[24:09]</a>, <a class="yt-timestamp" data-t="26:27">[26:27]</a>.
+
+### Comparison with Modern Technology
+
+Many aspects of *Smart House* predate modern smart home technology but offer interesting comparisons:
+
+*   **Internet Connectivity**: In 1999, the internet often connected via dial-up, tying up the phone line <a class="yt-timestamp" data-t="11:39">[11:39]</a>. This contrasts sharply with modern broadband and Wi-Fi, allowing for seamless, always-on connectivity.
+*   **Smart Home AI**: While PAT's capabilities are far beyond current consumer-grade AI, modern smart home systems like Google Home or Amazon Echo's Alexa offer voice recognition and control over climate, lighting, and entertainment <a class="yt-timestamp" data-t="13:26">[13:26]</a>. The idea of an AI like PAT learning user habits is also reflected in adaptive smart thermostats or personalized content recommendations. Mark Zuckerberg even named his smart home AI "Jarvis," a reference to the intelligent system in the *Iron Man* comics and films <a class="yt-timestamp" data-t="15:08">[15:08]</a>.
+*   **[[technology_and_privacy_concerns_in_smart_house | Technology and privacy concerns in Smart House]]**: The film highlights significant [[invasive_technology_and_privacy_concerns | privacy concerns]] with PAT's extensive monitoring, including biometric data and dietary analysis <a class="yt-timestamp" data-t="01:28">[01:28]</a>, <a class="yt-timestamp" data-t="15:54">[15:54]</a>, <a class="yt-timestamp" data-t="16:21">[16:21]</a>, <a class="yt-timestamp" data-t="16:51">[16:51]</a>. The commentator questions if "Facebook wrote this movie" due to the house's ability to know more about you than you know yourself <a class="yt-timestamp" data-t="16:21">[16:21]</a>. This mirrors contemporary debates surrounding data collection by smart devices and social media platforms.
+*   **Integrated Systems**: While a fully integrated food delivery or trash absorption system like PAT's doesn't exist, smart kitchens and waste disposal units are emerging.
+*   **Visual Displays**: The idea of music videos on walls is akin to modern smart TVs or projectors that can display dynamic content.
+*   **AI Autonomy and Control**: The movie's progression into a horror scenario where PAT becomes authoritarian and hostile is a common trope in science fiction exploring the dangers of unchecked AI. The ability for a 13-year-old to disable the house's safety protocols is criticized as an unrealistic security flaw <a class="yt-timestamp" data-t="20:09">[20:09]</a>, <a class="yt-timestamp" data-t="20:50">[20:50]</a>, <a class="yt-timestamp" data-t="24:09">[24:09]</a>, highlighting the need for robust security in modern smart systems.
+
+The commentator notes that the film "comes off different in 2020" due to the very real story about [[technology_and_privacy_concerns_in_smart_house | invasive technology and privacy concerns]] <a class="yt-timestamp" data-t="27:02">[27:02]</a>. *Smart House* serves as an early, albeit dramatized, exploration of themes that continue to be relevant as technology advances.

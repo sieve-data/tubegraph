@@ -1,0 +1,31 @@
+---
+title: Logan Pauls interest in Pokemon cards
+videoId: 6HsC9fNcZE8
+---
+
+From: [[jarvis]] <br/> 
+
+[[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]] has recently developed a significant interest in Pokémon cards <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+
+## Initial Engagement and Investment
+[[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]] purchased a first-edition base set box for approximately $200,000 <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. He has created several videos documenting his Pokémon card journey, which are described as endearing and entertaining, as he appears to genuinely enjoy the process <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
+
+## Live Stream and Market Influence
+[[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]] opened these cards on a live stream, successfully selling all the packs and generating around $400,000 in revenue <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. From these proceeds, he donated over $100,000 to charity <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. This engagement, dubbed the "[[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul effect]]", led to a significant surge in Pokémon card prices, reaching an all-time high <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. This rise in prices inspired many, including those with little prior knowledge of Pokémon, to begin collecting <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+
+## Interactions with Collectibles Guru
+[[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]] bought graded cards from a collector known as [[collectibles_guru_and_his_role_in_the_pokemon_card_controversy | Collectibles Guru]] <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. Although [[collectibles_guru_and_his_role_in_the_pokemon_card_controversy | Collectibles Guru]] sold legitimate products to [[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]], certain aspects of his behavior raised concerns within the community <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. For instance, upon meeting [[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]], [[collectibles_guru_and_his_role_in_the_pokemon_card_controversy | Collectibles Guru]] referenced a drug deal in an analogy <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+
+[[collectibles_guru_and_his_role_in_the_pokemon_card_controversy | Collectibles Guru]] also became a meme in the Pokémon community for claiming a Bulbasaur card, typically valued at $3,000-$4,000, was worth $30,000 <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>. Despite [[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]] questioning this valuation multiple times, [[collectibles_guru_and_his_role_in_the_pokemon_card_controversy | Collectibles Guru]] doubled down on his claim <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>.
+
+> [!info] Card Grading
+> PSA and BGS are companies that grade cards based on quality <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. A PSA 10 or BGS 10 signifies the highest quality and value <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>.
+
+## Comparison to "Dumb Money" Investors
+Unlike [[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]], who showed clear nostalgia and enjoyment for Pokémon, the "[[the_incident_involving_dumb_money_and_fake_pokemon_cards | Dumb Money]]" investors, a YouTube channel of experienced investors, appeared to be motivated solely by financial investment rather than a passion for the cards <a class="yt-timestamp" data-t="00:07:21">[00:07:21]</a>. They attempted to purchase a first-edition box for $375,000 from [[collectibles_guru_and_his_role_in_the_pokemon_card_controversy | Collectibles Guru]], almost double what [[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]] paid <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. This transaction, however, resulted in [[the_incident_involving_dumb_money_and_fake_pokemon_cards | the purchase of a resealed box containing modern, non-first edition cards]] <a class="yt-timestamp" data-t="00:19:10">[00:19:10]</a>.
+
+[[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]] purchased his booster box at an auction, while [[collectibles_guru_and_his_role_in_the_pokemon_card_controversy | Collectibles Guru]] only sold him authenticated and appraised graded cards <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. [[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]] was not involved in the [[scamming_in_highvalue_pokemon_card_transactions | fake card incident]] that befell the [[the_incident_involving_dumb_money_and_fake_pokemon_cards | Dumb Money]] channel <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+While [[collectibles_guru_and_his_role_in_the_pokemon_card_controversy | Collectibles Guru]] stated that [[the_impact_of_logan_paul_on_the_pokemon_card_market | Logan Paul]] had no interest in inflating card prices <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>, the speaker noted that the Guru's own statements about selling cards for profit suggested a different motivation <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>. The speaker also observed that [[collectibles_guru_and_his_role_in_the_pokemon_card_controversy | Collectibles Guru]]'s actions in the [[the_incident_involving_dumb_money_and_fake_pokemon_cards | Dumb Money]] transaction resembled a "pump and dump" scheme, where prices are artificially inflated before exiting the market <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>.
+
+> [!info] Resolution
+> The [[the_incident_involving_dumb_money_and_fake_pokemon_cards | Dumb Money]] individuals eventually secured a legitimate box from a different seller, paying around $350,000, which meant they made no profit on the deal <a class="yt-timestamp" data-t="00:25:14">[00:25:14]</a>.

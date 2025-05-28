@@ -1,0 +1,48 @@
+---
+title: Claire Crowley as the oldest Bachelorette
+videoId: fgNRdfXGdS4
+---
+
+From: [[jarvis]] <br/> 
+
+*Dating 30 People at Once* is a marriage game show where participants date 30 individuals simultaneously to win someone's hand in marriage <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. With 24 hours in a day, this equates to 48 minutes per person per day, which scientists claim is enough time to fall in love <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. This show is better known as [[overview_of_the_bachelor | The Bachelorette]] <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## Claire Crowley's Stint as the Oldest Bachelorette
+
+A few months prior to the recording, Claire Crowley made headlines by becoming the world's oldest Bachelorette <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. Claire was 39 years old at the time, though the show presented her as if she were much older <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. She is described as a beautiful, talented, and smart woman <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. The show's portrayal implied she was "on death's door," constantly suggesting this was her "last chance" at love <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+
+### Casting Controversies
+After Claire was announced as the Bachelorette, the cast photos of the 30 male contestants revealed they were all very young <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. This led to criticism against ABC, who had initially been praised for being progressive by casting an older Bachelorette, only to pair her with significantly younger men <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. In response, ABC fired some of the younger contestants and hired a few slightly older ones <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
+
+### The Shortest Season and [[introduction_of_tayshia_adams_as_a_new_bachelorette | Tayshia Adams]]
+Claire made history as the oldest Bachelorette and then again with the shortest season <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. Rumors began circulating that Claire was leaving the show early with one of the cast members <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. This culminated in the announcement that a second Bachelorette, [[introduction_of_tayshia_adams_as_a_new_bachelorette | Tayshia Adams]], would be cast <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. Tayshia was from Colton's season of [[overview_of_the_bachelor | The Bachelor]], a lead who was later revealed to be "a really bad guy" who stalked his ex and had a restraining order against him <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. Claire's time as Bachelorette was almost immediately overshadowed by the news of Tayshia <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
+
+### COVID-19 Impact on Production
+The COVID-19 pandemic became a global sensation, leading to the entire production being moved to La Quinta Resort <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. Instead of traveling worldwide for tax breaks, they had to stay in one location <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. This delayed the show, and by the time it returned, audience investment in Claire had waned <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
+
+The show dramatically portrayed the contestants' quarantine experience <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. Claire's time quarantining on a couch was edited to seem arduous, despite her being in a luxurious resort <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. Chris Harrison, the host, delivered her COVID test results, theatrically announcing she was "100% clear to go" <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>. This dramatic clearance was accompanied by nature sounds, making it feel like a drug commercial <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+
+## Claire's History and Expectations
+Claire is a veteran of the [[overview_of_the_bachelor | Bachelor franchise]] <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. She has appeared on [[overview_of_the_bachelor | The Bachelor]], got engaged on *Bachelor Winter Games*, and was on *Bachelor in Paradise* <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. The show framed this as her "last chance at love" <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>. Claire expressed that she was simply looking for a partner who would "show up" <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
+
+## [[claire_crowley_and_dale_moss_relationship | Claire and Dale Moss's Relationship]]
+The show's editing made it clear from the beginning that Claire would leave with [[claire_crowley_and_dale_moss_relationship | Dale Moss]] <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>. Claire felt an immediate connection with Dale, stating, "I feel like I just met my husband" upon their first meeting <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. Dale, however, often spoke in vague, canned phrases, lacking interesting dialogue <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>. He would make intense declarations of commitment early on, which seemed inappropriate given how little they knew each other <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>.
+
+Dale also frequently interrupted other contestants' time with Claire <a class="yt-timestamp" data-t="00:19:16">[00:19:16]</a>. Despite promising to be brief, he would steal Claire for hours <a class="yt-timestamp" data-t="00:19:49">[00:19:49]</a>. There were suspicions that Claire may have stalked Dale on social media before the show <a class="yt-timestamp" data-t="00:20:40">[00:20:40]</a>. Both Claire and Dale acted as if their connection was predetermined, leading other contestants to question their presence on the show <a class="yt-timestamp" data-t="00:20:46">[00:20:46]</a>.
+
+During a group date, a roast of the contestants occurred. The men largely roasted Dale, which Claire took extreme offense to <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a>. She defended Dale, referring to him as her "husband" and "the father of my child" <a class="yt-timestamp" data-t="00:21:17">[00:21:17]</a>. At the end of this date, Claire gave the rose to herself instead of a contestant, a move that reportedly prompted producers to accelerate her departure and bring in [[introduction_of_tayshia_adams_as_a_new_bachelorette | Tayshia Adams]] <a class="yt-timestamp" data-t="00:21:52">[00:21:52]</a>.
+
+### Other Notable Contestants
+While Dale dominated the narrative, other [[the_bachelor_contestant_stereotypes | contestants]] included:
+*   **Ivan**: Known solely for his love of chess, which he played with his younger brother and father <a class="yt-timestamp" data-t="00:15:09">[00:15:09]</a>.
+*   **Blake**: Broke a rule by contacting Claire before the show, which Claire allowed, leading him to frequently interrupt her conversations <a class="yt-timestamp" data-t="00:15:28">[00:15:28]</a>.
+*   **Jason**: Portrayed as emotionally bottled up, speaking vaguely about a dark past <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>.
+*   **Yosef**: A medical device salesman who "doesn't shy away from controversy" <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>. He often gave unasked-for opinions <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>. He became a villain after being shut down by Claire <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>. He criticized a group dodgeball date as not fitting his morals, calling Claire "classless" and "an embarrassment to my daughter" despite not even being on the date himself <a class="yt-timestamp" data-t="00:17:20">[00:17:20]</a>. He also age-shamed Claire <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>.
+
+## Claire's Departure
+Claire decided to leave the show with Dale and broke the news to the other 29 men at once <a class="yt-timestamp" data-t="00:22:03">[00:22:03]</a>. Most contestants reacted with understandable frazzle <a class="yt-timestamp" data-t="00:22:14">[00:22:14]</a>. One contestant, Kenny, demanded an apology from Claire for "faking it" and not admitting she was in love with Dale earlier <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>. Claire gave a speech, stating she would apologize for wasting their time or hurting them, but "I'm not gonna apologize for love" <a class="yt-timestamp" data-t="00:23:31">[00:23:31]</a>.
+
+Chris Harrison pressured Dale into proposing to Claire, emphasizing that she had rejected all other men for him <a class="yt-timestamp" data-t="00:23:51">[00:23:51]</a>. Dale proposed to Claire, and they left the show <a class="yt-timestamp" data-t="00:24:19">[00:24:19]</a>.
+
+## Aftermath
+Claire and Dale's story continued with a planned "tell-all" <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>. The show then immediately began teasing [[introduction_of_tayshia_adams_as_a_new_bachelorette | Tayshia Adams']][[introduction_of_tayshia_adams_as_a_new_bachelorette | season]] <a class="yt-timestamp" data-t="00:25:01">[00:25:01]</a>. Tayshia inherited a "pile of broken men" and had to pick up the pieces <a class="yt-timestamp" data-t="00:25:24">[00:25:24]</a>. The show is described as a "train wreck that I couldn't look away from" <a class="yt-timestamp" data-t="00:26:08">[00:26:08]</a>. Claire's parents are named Lillian and James <a class="yt-timestamp" data-t="00:26:25">[00:26:25]</a>.
