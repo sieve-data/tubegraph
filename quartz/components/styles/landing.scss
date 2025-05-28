@@ -1,3 +1,12 @@
+@use "sass:map";
+
+$breakpoints: (
+  mobile: 800px,
+  desktop: 1400px,
+);
+
+$mobile: "(max-width: #{map.get($breakpoints, mobile)})";
+
 // Quick tunables
 $border       : #e2e2e2;
 $bg           : #ffffff;
