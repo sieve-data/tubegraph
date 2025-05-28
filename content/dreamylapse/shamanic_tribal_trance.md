@@ -4,9 +4,4 @@ videoId: l8Ivg-aFDvg
 ---
 
 From: [[dreamylapse]] <br/> 
-
-This video primarily features [[tribal_trance_music | tribal trance music]] accompanied by various human vocalizations and applause, suggesting a performance or engaged listening experience.
-
-## Music and Sounds
-
-The majority of the video consists of [[tribal_trance_music | music]] <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. Throughout the duration, various exclamations are heard, including "hell yeah" <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, "oh yeah" <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>, and "thank you" <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. Additional vocalizations like "what's up" <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a> and "I love you" <a class="yt-timestamp" data-t="00:25:25">[00:25:25]</a> are also present. The video concludes with applause <a class="yt-timestamp" data-t="00:46:55">[00:46:55]</a>.
+There is no descriptive content about "Shamanic tribal trance" available in the provided transcript, as it primarily consists of musical segments and ambient sounds <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. The transcript notes the presence of music throughout the video <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>, accompanied by various vocalizations and expressions like "hell yeah" <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, "thank you" <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>, and "I love you" <a class="yt-timestamp" data-t="00:25:25">[00:25:25]</a>. Laughter is also noted at points <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>.

@@ -1,8 +1,8 @@
 ---
-title: Tribal trance music
-videoId: l8Ivg-aFDvg
+title: tribal trance music
+videoId: 8xSHgpiFZ28
 ---
 
 From: [[dreamylapse]] <br/> 
 
-This transcript primarily consists of music and non-verbal sounds, such as `[Music]` <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a> and `[Applause]` <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. It does not contain any spoken information or descriptions regarding [[tribal_trance_music_and_its_purpose | tribal trance music]], its characteristics, or its purpose.
+This video features [[tribal_music | music]] <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>, <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>, <a class="yt-timestamp" data-t="00:41:51">[00:41:51]</a>, and <a class="yt-timestamp" data-t="00:55:04">[00:55:04]</a>, along with applause <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>, <a class="yt-timestamp" data-t="00:41:51">[00:41:51]</a>.
