@@ -239,15 +239,16 @@ def write_post(
     completion = gemini_client.chat.completions.create(
         # model="gpt-4o",
         model="gemini-2.5-flash-preview-05-20",
+        # model="gemini-2.0-flash",
         reasoning_effort="low",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT_POST},
             {
                 "role": "user",
                 "content": (
-                    f"main_topic: {topic}\n\n"
                     f"other_topics_and_links:\n{backlink_topics}\n\n"
                     f"transcript:\n{joined_subs}"
+                    f"Please write an article on this topic: {topic}\n\n"
                 ),
             },
         ],
@@ -322,7 +323,7 @@ def generate_posts(
     reference_files: list[tuple[str, str]],  # <-- added
 ) -> List[Post]:
     posts: List[Post | None] = [None] * len(topics)
-    with ThreadPoolExecutor() as ex:
+    with ThreadPoolExecutor(max_workers=10) as ex:
         futures = {
             ex.submit(
                 create_post,
