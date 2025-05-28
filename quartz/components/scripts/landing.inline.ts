@@ -96,11 +96,6 @@ async function setupCreateGraphButton() {
       return
     }
 
-    // Show loading state on button
-    const originalText = createButton.textContent
-    createButton.textContent = "Creating Graph... (this will take a couple minutes)"
-    createButton.disabled = true
-
     try {
       await createTubegraphPages(username, minVidDuration, sortBy)
 
@@ -112,26 +107,12 @@ async function setupCreateGraphButton() {
       channelInput.value = ""
       vidDurationInput.value = "1"
       sortBySelect.value = "views"
-
-      // Reset button after delay
-      setTimeout(() => {
-        createButton.textContent = originalText
-        createButton.style.backgroundColor = ""
-        createButton.disabled = false
-      }, 3000)
     } catch (error) {
       console.error("Error creating tubegraph:", error)
 
       // Error feedback
       createButton.textContent = "Error - Try Again"
       createButton.style.backgroundColor = "#ef4444"
-
-      // Reset button after delay
-      setTimeout(() => {
-        createButton.textContent = originalText
-        createButton.style.backgroundColor = ""
-        createButton.disabled = false
-      }, 3000)
     }
   })
 }
@@ -183,6 +164,12 @@ async function createTubegraphPages(
     }),
   })
 
+  // Show loading state on button
+  const addChannelDiv = document.querySelector(".add-channel") as HTMLElement
+  if (addChannelDiv) {
+    addChannelDiv.innerHTML = `Creating Graph... (this will take a couple minutes). Reuslt will appear here: <a href="https://tubegraph.vercel.app/${username_check}/${username_check}">here.</a>`
+  }
+
   if (!response.ok) {
     throw new Error(`API request failed: ${response.status} ${response.statusText}`)
   }
@@ -215,7 +202,6 @@ async function createTubegraphPages(
   console.log("Job completed:", jobData)
 
   // Replace the contents of add-channel with the result
-  const addChannelDiv = document.querySelector(".add-channel") as HTMLElement
   if (addChannelDiv) {
     addChannelDiv.innerHTML = jobData.outputs[0].data.result
   }

@@ -12,6 +12,7 @@
     border: none;
     border-radius: 4px;
     font-family: inherit;
+    color: black;
     font-size: inherit;
     height: 2rem;
     padding: 0;
@@ -53,6 +54,7 @@
     overflow-y: auto;
     display: none;
     backdrop-filter: blur(4px);
+    color: black;
 
     &.active {
       display: inline-block;
@@ -157,7 +159,7 @@
           display: block;
           overflow: hidden;
           font-family: inherit;
-          color: var(--dark);
+          color:  black;
           line-height: 1.5em;
           font-weight: $normalWeight;
           overflow-y: auto;

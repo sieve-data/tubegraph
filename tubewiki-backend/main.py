@@ -56,7 +56,7 @@ def get_items(
     )
     print(output)
     return {
-        "result": f"May take 1-2 minutes to load here: <a href='https://tubegraph.vercel.app/{username}/{username}'>here.</a>"
+        "result": f"Finished indexing, may take 1-2 minutes to load here: <a href='https://tubegraph.vercel.app/{username}/{username}'>here.</a>"
     }
 
 
