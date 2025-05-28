@@ -1,0 +1,46 @@
+---
+title: Balancing personal wealth aspirations with business growth
+videoId: ZMHpgu2C84I
+---
+
+From: [[myfirstmillionpod]] <br/> 
+
+The pursuit of wealth often evolves beyond fulfilling personal needs to encompass larger ambitions related to business growth and impact <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. While individuals may reach a point where their personal consumption desires are met, such as flying private or staying in luxury hotels <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>, the "game" of acquiring larger assets like skyscrapers or major companies creates a new "deficit" for wealth <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. This continuous desire to "keep playing" the game of business drives entrepreneurs even after significant personal financial success <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+## Evolution of Business Focus: Media vs. Acquisitions
+
+The speaker differentiates between two primary areas of focus: Mosy Media and acquisition.com <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
+
+### Mosy Media
+Mosy Media, which includes books, courses, and content, is primarily a marketing and educational arm <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. It does not generate significant profit, often losing money after covering team expenses <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. For example, a book might generate about $1 million in profit annually, and AdSense around $500,000, which barely covers the 10-person media team <a class="yt-timestamp" data-t="00:03:21">[00:03:36]</a>. The time commitment for media involves one recording day every 14 days and podcast appearances <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+While increased public recognition (fame) has its drawbacks, such as security concerns and difficulty attending small events <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>, the pros significantly outweigh the cons <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. The public presence allows for attracting top talent for portfolio companies and proprietary deal flow at or below market rates <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>.
+
+### Acquisition.com: The Core Business
+Acquisition.com is the primary investment vehicle, operating as a portfolio of companies <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>. It functions like a merger of a family office and a conglomerate, using personal funds for investments and aiming for long-term compounding rather than quick exits <a class="yt-timestamp" data-t="00:24:45">[00:24:45]</a>.
+
+#### Genesis and Strategy
+The shift to this model was inspired by realizing that the previous business (Gym Launch) had reached market saturation <a class="yt-timestamp" data-t="00:25:15">[00:25:15]</a>. Observing other entrepreneurs with access to 10 to 100 times larger markets led to the decision to pursue a model that could "compound forever" with a "huge total addressable market" (TAM) <a class="yt-timestamp" data-t="00:26:08">[00:26:08]</a>. There are significantly more businesses to acquire than the specific micro-gyms Gym Launch targeted <a class="yt-timestamp" data-t="00:26:17">[00:26:17]</a>.
+
+The strategy centers on "building the people" who then "build the business" <a class="yt-timestamp" data-t="00:26:33">[00:26:33]</a>. The most valuable contribution to a business is finding A-players and placing them in key roles, ensuring that value remains within the enterprise <a class="yt-timestamp" data-t="00:27:01">[00:27:01]</a>. This leverages the speaker's influence to attract talent, vet them, and provide specific guidance on hiring for different growth stages (e.g., hiring a controller vs. a CFO) <a class="yt-timestamp" data-t="00:27:21">[00:27:21]</a>.
+
+The deal structures vary, sometimes involving capital investment and sometimes not, depending on the business's needs (e.g., brick-and-mortar expansion vs. service businesses needing talent) <a class="yt-timestamp" data-t="00:21:44">[00:21:44]</a>. The most challenging aspect of this model is when portfolio companies only half-listen to advice, such as hiring a new operator but not firing the old one <a class="yt-timestamp" data-t="00:18:50">[00:18:50]</a>. Complete control in majority investments has shown faster speed to action <a class="yt-timestamp" data-t="00:19:40">[00:19:40]</a>. As of the discussion, there are 11 portfolio companies, all privately funded by the speaker <a class="yt-timestamp" data-t="00:18:00">[00:18:00]</a>.
+
+#### The Decision to Sell Gym Launch
+The decision to sell Gym Launch, despite being valued higher pre-COVID, was primarily emotional <a class="yt-timestamp" data-t="00:30:45">[00:30:45]</a>. The speaker was "emotionally done with the business" and felt the need to make space for a new venture <a class="yt-timestamp" data-t="00:30:52">[00:30:52]</a>. While the sale provided credibility, it was less about immediate financial gain (as he was wealthier from distributions before the sale) and more about enabling a personal and business transition <a class="yt-timestamp" data-t="00:32:50">[00:32:50]</a>.
+
+This decision highlights the [[the_interplay_between_money_success_and_personal_values | interplay between money success and personal values]] and the importance of [[balancing_personal_life_and_business | balancing personal life and business]] with entrepreneurial drive. The speaker realized he needed to evolve from a tactical mindset to a strategic one, understanding how financial engineering (like leveraging debt on business assets without personal guarantees) could have allowed him to keep the company while de-risking <a class="yt-timestamp" data-t="00:37:08">[00:37:08]</a>. This experience informed his current approach to building acquisition.com.
+
+## Evolving Mission: From Personal Gain to Societal Impact
+The mission of acquisition.com has evolved. Initially, the speaker was driven by a passion for spreading good business knowledge <a class="yt-timestamp" data-t="00:52:48">[00:52:48]</a>. However, it became clear that the success of their portfolio companies was largely due to the cultures they created <a class="yt-timestamp" data-t="00:52:55">[00:52:55]</a>.
+
+The current, more ambitious mission of acquisition.com is to "build a company off of praise and not punishment" <a class="yt-timestamp" data-t="00:43:42">[00:43:42]</a>. This means creating environments where people are rewarded for performance, leading to higher engagement and better experiences, rather than the burnout often seen in punishment-driven corporate cultures <a class="yt-timestamp" data-t="00:44:33">[00:44:33]</a>. This aligns with a broader vision of improving working environments and proving that this approach can lead to significant financial returns (10, 50, or even 100 billion dollars) <a class="yt-timestamp" data-t="00:44:17">[00:44:17]</a>.
+
+> "And so what's happened is like by doing that that has aligned all of our holdco team in terms of how we want to build these companies and the billion dollar Alex Lor is basically irrelevant because like to really win by their standards we need to build something that's 10 or 50 or 100 billion you know what I mean and that might take the rest of my lifetime and it'll probably happen after I die but if we can do that then we can prove one thesis which is like people want to work and most environments are set up to punish people and all you do is you raise the bar of what it takes to not get punished but what happens is people turn out of work they burn out they hate their jobs they hate their lives and I think that there's a better way and Lea and I are going to try and dedicate the rest of our lives to try to prove that and so that is the mission of acquisition.com" <a class="yt-timestamp" data-t="00:44:09">[00:44:09]</a>
+
+This shift from an internal, self-serving goal (not being broke) to an external, impact-driven mission (transforming work environments) is a recurring theme in entrepreneurship <a class="yt-timestamp" data-t="00:55:54">[00:55:54]</a>.
+
+## Personal Wealth Management
+In terms of [[wealth_building_and_management_strategies | wealth building and management strategies]], the speaker's personal portfolio is kept relatively simple <a class="yt-timestamp" data-t="01:18:20">[01:18:20]</a>. It is roughly split between half in treasuries (which are yielding better returns now), a quarter in indexes, and the remaining quarter in private companies <a class="yt-timestamp" data-t="01:18:07">[01:18:07]</a>. The treasury portion is expected to decline as more deals are made <a class="yt-timestamp" data-t="01:18:24">[01:18:24]</a>. The preference for having a significant amount of cash (in treasuries) is to ensure the ability to seize future 10x investment opportunities <a class="yt-timestamp" data-t="01:18:37">[01:18:37]</a>.
+
+The discussion highlights that while personal financial needs can be satisfied, the ultimate motivation for continued engagement in business often stems from the enjoyment of the "game" itself and the pursuit of increasingly ambitious goals that provide a sense of purpose and challenge <a class="yt-timestamp" data-t="00:40:53">[00:40:53]</a>.

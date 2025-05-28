@@ -1,0 +1,55 @@
+---
+title: Leveraging internet platforms for business growth
+videoId: giis6_u8n3M
+---
+
+From: [[myfirstmillionpod]] <br/> 
+
+The internet has opened unprecedented [[opportunities_in_current_digital_platforms | opportunities in current digital platforms]] for individuals and small teams to build highly profitable businesses, often with only one or two employees <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. These "mighty businesses" <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a> can generate millions in revenue while flying under the radar <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. The core drivers are typically one or two individuals, possibly leveraging contractors, vendors, or agencies for other tasks <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+
+## Case Studies of Mighty Businesses
+
+Several successful examples highlight the potential of [[building_and_automating_online_businesses | building and automating online businesses]] with minimal staff:
+
+### Gaming and Software Development
+*   **War Graphs**: A single developer built a companion app for League of Legends that tracked player stats <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. It gained over a million users and was generating significant revenue before being sold for $54 million <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+*   **Stardew Valley (Eric Barone)**: One individual spent four years developing this farming simulator game <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. It has since sold 20 million copies, generating over $150 million in sales <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
+*   **Minecraft (Notch)**: Though it grew to involve more people, one developer, Notch, was the primary driving force for many years <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>. It eventually sold for billions <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>.
+*   **StreamYard**: Two founders scaled this online event and interview streaming platform to $30 million in revenue in 18 months, largely due to the pandemic, before selling it for $250 million <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>.
+*   **Photopea (Ivan)**: One developer recreated the entire functionality of Photoshop as a free web browser application <a class="yt-timestamp" data-t="00:21:54">[00:21:54]</a>. It attracts 13 million monthly users <a class="yt-timestamp" data-t="00:22:41">[00:22:41]</a> and generates $100,000 per month from basic ads <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>. The creator invested 7,000 hours before earning any money <a class="yt-timestamp" data-t="00:24:53">[00:24:53]</a>.
+*   **Gymstreak (Joseph Mambra)**: A solo developer from Zimbabwe, who taught himself to code and design, created this workout tracking app with AI suggestions and 3D exercise visualizations <a class="yt-timestamp" data-t="00:41:11">[00:41:11]</a>. It generated $300,000 in its first year (2021) and $2.5 million in its second year, with a goal of $15-20 million annually <a class="yt-timestamp" data-t="00:42:08">[00:42:08]</a>.
+
+### Information and Service Businesses
+*   **Plenty of Fish (Markus Frind)**: An early dating website started by one person, which was acquired for $550 million <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>.
+*   **Tiny Wow (Evan Gower)**: A website offering numerous online tools (PDF conversion, AI image editing) <a class="yt-timestamp" data-t="00:17:06">[00:17:06]</a>. It receives 6.6 million visits monthly <a class="yt-timestamp" data-t="00:17:22">[00:17:22]</a>, largely due to viral social media videos <a class="yt-timestamp" data-t="00:18:36">[00:18:36]</a>.
+*   **Remove.bg**: A tool for removing image backgrounds, acquired by Canva in 2021 for roughly $100 million <a class="yt-timestamp" data-t="00:20:50">[00:21:00]</a>. It handled 50 to 60 million monthly visits <a class="yt-timestamp" data-t="00:19:47">[00:19:47]</a>.
+*   **Course Creators**: Individuals selling information products, such as Sam Evans (who generated $10 million in revenue with $5 million profit as one person) <a class="yt-timestamp" data-t="00:28:00">[00:28:00]</a> or a product management course generating $2.5 million annually <a class="yt-timestamp" data-t="00:28:25">[00:28:25]</a>. This represents an easy business to recreate <a class="yt-timestamp" data-t="00:27:56">[00:27:56]</a>.
+*   **Design Joy**: A subscription-based design service run by one designer, reportedly doing $100,000 per month ($1.2 million annually) <a class="yt-timestamp" data-t="00:26:50">[00:26:50]</a>.
+*   **Cyber Leads (Alex West)**: A newsletter for agencies providing hand-picked leads of companies likely to hire, costing $400-$1,000 per month <a class="yt-timestamp" data-t="00:29:25">[00:29:25]</a>.
+*   **Lenny's Newsletter (Lenny Rachitsky)**: By publishing free, thought-leader content on a niche topic (product and growth), Lenny built an authority that he monetized through a newsletter, community, and job board, potentially generating $2-3 million per year <a class="yt-timestamp" data-t="00:31:00">[00:31:00]</a>. This exemplifies [[building_a_personal_brand_for_business_growth | building a personal brand for business growth]].
+*   **Marketing Examples (Harry Dry)**: A young content creator who built an audience by studying marketing and offering his opinion on it through a blog, estimated to make $250,000-$500,000 annually <a class="yt-timestamp" data-t="00:34:29">[00:34:29]</a>. This highlights [[social_media_growth_strategies | social media growth strategies]].
+*   **Joe Rogan Experience**: Joe Rogan and his small team (Young Jamie, Matt) built a media juggernaut generating hundreds of millions <a class="yt-timestamp" data-t="00:38:01">[00:38:01]</a>. He leveraged his hobbies (UFC commentary, stand-up comedy, conversations) to create a highly personalized and successful business <a class="yt-timestamp" data-t="00:39:07">[00:39:07]</a>.
+*   **OnlyFinders**: A search engine for OnlyFans creators, run by one person <a class="yt-timestamp" data-t="00:48:29">[00:48:29]</a>. It leverages SEO for high-intent searches and charges creators for traffic <a class="yt-timestamp" data-t="00:49:50">[00:49:50]</a>.
+*   **Milled.com**: A website compiling email marketing examples from various companies, allowing users to search and get inspiration <a class="yt-timestamp" data-t="00:44:11">[00:44:11]</a>. It generates $1 million annually as a low-maintenance side project, mainly through display ads <a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>, although it's noted as being under-monetized <a class="yt-timestamp" data-t="00:46:15">[00:46:15]</a>. This is a form of [[the_role_of_affiliate_marketing_in_business_growth | affiliate marketing]].
+*   **BuiltWith**: A tool that identifies which plugins and technologies websites are using (e.g., WordPress, Shopify) <a class="yt-timestamp" data-t="00:46:52">[00:46:52]</a>. It attracts tens of millions of monthly visitors and reportedly made $14-15 million in revenue with just one person <a class="yt-timestamp" data-t="00:47:15">[00:47:15]</a>.
+*   **Kevin Van Trump's Newsletter**: A single individual writes a daily, 2,000+ word newsletter about agriculture and commodity prices, charging $300 a month to 60,000 subscribers, equating to over $20 million annually <a class="yt-timestamp" data-t="00:54:25">[00:54:25]</a>. He has done this for over 10 years without advertising <a class="yt-timestamp" data-t="00:57:01">[00:57:01]</a>.
+*   **Miss Excel**: A creator who teaches Microsoft Excel through high-energy dance videos on TikTok <a class="yt-timestamp" data-t="01:10:21">[01:10:21]</a>. She leverages a unique teaching style to reach a global audience <a class="yt-timestamp" data-t="01:10:30">[01:10:30]</a>. This is an example of [[innovative_marketing_strategies_for_startup_growth | innovative marketing strategies for startup growth]] and [[successful_ecommerce_strategies_using_social_media_platforms | successful ecommerce strategies using social media platforms]].
+
+### Key Strategies and Lessons for Leveraging Internet Platforms
+
+These successes illustrate several core principles:
+
+*   **Niche Focus and Authority**: Building an authority in a super-niche topic <a class="yt-timestamp" data-t="00:31:31">[00:31:31]</a>. By providing free content, you establish yourself as an expert <a class="yt-timestamp" data-t="00:31:39">[00:31:39]</a>.
+*   **Distribution vs. Product Mastery**: Success often comes from being either exceptionally good at distribution (influencer, content creator) or at product development (coding games, plugins) <a class="yt-timestamp" data-t="01:08:40">[01:08:40]</a>. Focus all your emphasis on one of these <a class="yt-timestamp" data-t="01:09:04">[01:09:04]</a>.
+*   **Leverage**: Since labor is limited, successful solo/duopreneurs utilize leverage from code, media, or capital <a class="yt-timestamp" data-t="01:09:32">[01:09:32]</a>.
+    *   **Code**: Building software once that can run and serve many users (e.g., Stardew Valley, Photopea) <a class="yt-timestamp" data-t="01:09:44">[01:09:44]</a>.
+    *   **Media**: Creating content that can reach a large audience repeatedly (e.g., podcasts, newsletters, social media) <a class="yt-timestamp" data-t="01:09:49">[01:09:49]</a>.
+    *   **Capital**: Investing to acquire assets or scale operations (e.g., buying ads, funding development) <a class="yt-timestamp" data-t="01:09:53">[01:09:53]</a>.
+*   **Market Opportunity**: Identifying and entering emerging markets or platforms (e.g., OnlyFans growth, Clubhouse, Facebook Threads) early can provide a significant advantage <a class="yt-timestamp" data-t="00:35:03">[00:35:03]</a>. This involves "paddling out" and being ready to "surf the wave" <a class="yt-timestamp" data-t="00:35:46">[00:35:46]</a>.
+*   **Technical Skill/Expertise**: A high level of skill in areas like copywriting, design, coding, or market analysis is crucial for success <a class="yt-timestamp" data-t="01:09:16">[01:09:16]</a>. This is about [[leveraging_unique_strengths_in_business | leveraging unique strengths in business]].
+
+### Challenges and Considerations
+
+*   **Demand/Burnout**: Rapid growth can lead to immense pressure and exhaustion, as seen with the creator of Viral Nova <a class="yt-timestamp" data-t="00:25:20">[00:25:20]</a> and the early Twitter team <a class="yt-timestamp" data-t="00:15:34">[00:15:34]</a>.
+*   **Loneliness**: The entrepreneurial journey can be isolating when working alone <a class="yt-timestamp" data-t="01:10:58">[01:10:58]</a>. Having a co-founder or a small team (two people is often considered a sweet spot) provides accountability, a thought partner, and makes the journey more enjoyable <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>.
+*   **Monetization**: Some successful products are under-monetized, highlighting that gaining traffic and building a valuable product can be harder than figuring out revenue <a class="yt-timestamp" data-t="00:19:31">[00:19:31]</a>.

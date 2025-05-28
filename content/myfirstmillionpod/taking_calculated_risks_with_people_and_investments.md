@@ -1,0 +1,53 @@
+---
+title: Taking calculated risks with people and investments
+videoId: HuytSzVYEpA
+---
+
+From: [[myfirstmillionpod]] <br/> 
+
+## Investing in People
+
+Taking calculated risks, particularly with individuals, is presented as a crucial, albeit sometimes painful, path to success. The philosophy advocates for "doing it wrong before you do it right" <a class="yt-timestamp" data-t="00:35:49">[00:35:49]</a>. This means acting quickly on an idea and hiring individuals who are available, even if they aren't the perfect fit, to gain initial momentum and learn through mistakes <a class="yt-timestamp" data-t="00:36:04">[00:36:04]</a>.
+
+**Case Studies in Taking Chances:**
+*   **The Restaurant Venture (Bad Start, Good Outcome):** An entrepreneur's initial attempt at opening a restaurant resulted in an $800,000 loss due to signing a bad lease and hiring the wrong manager <a class="yt-timestamp" data-t="00:36:28">[00:36:28]</a>. However, this failure provided invaluable learning and led to meeting a successful restaurateur next door, eventually allowing the entrepreneur to buy into a "wonderful restaurant" that he understood because he had owned a bad one <a class="yt-timestamp" data-t="00:36:48">[00:36:48]</a>.
+*   **Hiring a CFO (Unexpected Success):** A chance encounter with a 23-year-old bank employee, Chris, led to him being hired as a CFO despite having minimal accounting experience <a class="yt-timestamp" data-t="00:40:40">[00:40:40]</a>. Chris became a business partner for 12 years, significantly contributing to the career's success <a class="yt-timestamp" data-t="00:41:10">[00:41:10]</a>.
+*   **The Plumber Turned Warehouse Manager (Failed Bet):** A plumber apprentice was hired to run a new warehouse, with the vision of him becoming a partner in an in-house 3PL business <a class="yt-timestamp" data-t="00:43:08">[00:43:08]</a>. Despite initial hope, the individual eventually tried to start his own competing venture using company time and resources, leading to the end of the partnership <a class="yt-timestamp" data-t="00:44:41">[00:44:41]</a>.
+*   **Johnny, the Eighth-Grade Programmer (Major Success):** A 13 or 14-year-old programmer, Johnny Dallas, cold-called asking to hang out at the office during summer <a class="yt-timestamp" data-t="00:45:20">[00:45:20]</a>. Given an immediate task to build a viral quiz website, he delivered by midnight <a class="yt-timestamp" data-t="00:46:16">[00:46:16]</a>. He became a full-time employee in eighth grade, skipped college, and became the youngest Amazon employee after an acquisition <a class="yt-timestamp" data-t="00:46:30">[00:46:30]</a>. Johnny is now starting his own company, securing a term sheet from a top VC firm at a $38 million post-valuation <a class="yt-timestamp" data-t="00:47:20">[00:47:20]</a>.
+*   **Safwan, the Proactive Graduate (Promising Start):** A college graduate named Safwan impressed with intelligent and persistent follow-up, offering actionable ideas even before being hired <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>. His "irreversible decision" to quit his job to work for the company, coupled with his big-picture thinking, immediately marked him as a "winner" <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>.
+
+**Identifying "Winners":**
+Key indicators of a promising individual include "gumption," which involves following up proactively within 24 hours and moving the ball forward <a class="yt-timestamp" data-t="00:48:32">[00:48:32]</a>. Individuals who want to capitalize on opportunities will be persistent and actively propose next steps <a class="yt-timestamp" data-t="00:50:00">[00:50:00]</a>. Another positive sign is someone who "thinks bigger" than the leader, pushing for faster timelines or larger goals <a class="yt-timestamp" data-t="00:59:50">[00:59:50]</a>.
+
+**Delegating and Managing Inbound Opportunities:**
+Effective delegation is crucial for managing numerous opportunities and reducing personal "mental taxing" <a class="yt-timestamp" data-t="00:56:29">[00:56:29]</a>. By having a trusted team member manage email and Twitter inbound, opportunities can be filtered, and initial conversations can happen without the direct involvement of the principal, allowing them to focus on high-value interactions <a class="yt-timestamp" data-t="00:54:24">[00:54:24]</a>. Hiring excellent vendors, bankers, or assistants who provide "Four Seasons service" can also significantly offload tasks and improve efficiency <a class="yt-timestamp" data-t="00:57:16">[00:57:16]</a>.
+
+## Investment and Business Strategies
+
+The discussion delves into differing [[investment_strategies_and_experiences | investment strategies and experiences]], specifically contrasting "get rich fast" via big swings with "get rich slow" through consistent, less volatile ventures.
+
+**The "Get Rich Fast" vs. "Get Rich Slow" Debate:**
+*   **Startup Investments (The "Olympics of Business"):** Venture-backed startups are characterized as the "Olympics of business" <a class="yt-timestamp" data-t="00:35:35">[00:35:35]</a>. They represent a "big swing" with a low probability of success (an 80% failure rate) <a class="yt-timestamp" data-t="00:17:20">[00:17:20]</a>, aiming for a billion-dollar prize <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>. While the payoff can be massive, entrepreneurs often sacrifice lifestyle, work extremely hard, and typically achieve a median result of "essentially zero" <a class="yt-timestamp" data-t="00:19:12">[00:19:12]</a>. The venture path is often driven by ego rather than logical or rational [[investment_strategies_and_decisionmaking_in_startups | decision-making]] <a class="yt-timestamp" data-t="00:19:58">[00:19:58]</a>. Even paper gains from high valuations don't translate to liquid wealth until an IPO or sale, which can take 10-15 years <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>.
+*   **"Boring House" Strategy:** An alternative involves choosing ventures with an "80% chance of giving you a pretty solid return" <a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>. This approach focuses on businesses that provide significant cash flow, offering an "awesome lifestyle from essentially year one" <a class="yt-timestamp" data-t="00:21:06">[00:21:06]</a>, or buying existing, already-working businesses and growing them <a class="yt-timestamp" data-t="00:21:11">[00:21:11]</a>. This is seen as a "far better path on paper" <a class="yt-timestamp" data-t="00:21:17">[00:21:17]</a>.
+
+**Andrew's Approach to [[adventurous_business_ventures | Business Ventures]]:**
+Andrew has deliberately chosen the "boring house" strategy <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>. He started by taking most of his profits (80-90%) from his agency and incubating new software companies <a class="yt-timestamp" data-t="00:25:30">[00:25:30]</a>. This evolved into a strategy of buying businesses, which he found more effective than starting new ones <a class="yt-timestamp" data-t="00:26:21">[00:26:21]</a>.
+
+*   **Compounding Returns:** By buying businesses at 3-10 times earnings, leveraging debt, and doubling their value within 1-2 years, he achieved an estimated compounding rate of around 40-47% <a class="yt-timestamp" data-t="00:29:40">[00:29:40]</a>. This consistent reinvestment of profits over 15 years has led to a portfolio of businesses worth over a billion dollars, generating over $50 million in annual profit <a class="yt-timestamp" data-t="00:27:39">[00:27:39]</a>. This demonstrates the power of long-term compounding, where even a little better than average returns can lead to "hundreds of millions of dollars" <a class="yt-timestamp" data-t="00:30:37">[00:30:37]</a>.
+
+*   **Examples of Long-Lasting Businesses:** Businesses like Accenture, which provides consulting and digital transformation services, are expected to exist for decades <a class="yt-timestamp" data-t="00:31:21">[00:31:21]</a>. Similarly, agency services like MetaLab are positioned for the next 20 years as more businesses transition to technology <a class="yt-timestamp" data-t="00:31:40">[00:31:40]</a>. Other examples include Aeropress, which is seen as a product that could exist for 50 years <a class="yt-timestamp" data-t="00:32:01">[00:32:01]</a>, and stable local businesses like restaurants and bakeries <a class="yt-timestamp" data-t="00:32:19">[00:32:19]</a>.
+
+## Personal Philosophy on Risk
+
+The conversation also touches on [[insights_on_investing_time_and_money_to_increase_personal_leverage | insights on investing time and money to increase personal leverage]], and [[balancing_personal_wealth_aspirations_with_business_growth | balancing personal wealth aspirations with business growth]].
+
+*   **The "One-Foot Hurdles":** Rather than attempting an "800-pound bench press" on day one, a more strategic approach involves jumping "one-foot hurdles" to feel a sense of success <a class="yt-timestamp" data-t="00:35:10">[00:35:10]</a>. This builds confidence and avoids the burnout that can come from repeated, brutal failures common in high-risk ventures like tech startups <a class="yt-timestamp" data-t="00:35:28">[00:35:28]</a>.
+*   **The Downside of Over-Delegation:** While delegation is important, over-delegating personal tasks can lead to a lack of satisfaction from doing manual work and diminish camaraderie with others <a class="yt-timestamp" data-t="01:05:17">[01:05:17]</a>. There is a balance between outsourcing miserable tasks and engaging in labor that provides a sense of accomplishment and connection, reflecting a "caveman brain" need for physical effort <a class="yt-timestamp" data-t="01:06:56">[01:06:56]</a>.
+*   **The Five Pillars of Happiness:** An entrepreneur's business partner, Chris, developed "Sparling's Five Pillars of Happiness" <a class="yt-timestamp" data-t="01:01:00">[01:01:00]</a>:
+    1.  See family every day <a class="yt-timestamp" data-t="01:01:14">[01:01:14]</a>.
+    2.  See friends and loved ones multiple times a week <a class="yt-timestamp" data-t="01:01:18">[01:01:18]</a>.
+    3.  Be in nature once a week <a class="yt-timestamp" data-t="01:01:21">[01:01:21]</a>.
+    4.  New and novel experiences once a month <a class="yt-timestamp" data-t="01:01:23">[01:01:23]</a>.
+    5.  "Feel like a man or a woman" (engage in tough, gritty activities) once a quarter <a class="yt-timestamp" data-t="01:01:26">[01:01:26]</a>.
+
+This framework suggests that a balanced life, incorporating these pillars, contributes to overall well-being, complementing financial success.

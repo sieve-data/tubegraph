@@ -1,0 +1,40 @@
+---
+title: Unconventional life choices and experiments
+videoId: SVwLEocqK0E
+---
+
+From: [[myfirstmillionpod]] <br/> 
+
+Jack Smith, known for his business acumen, also lives a life filled with [[adventurous_business_ventures | unconventional choices]] and personal experiments. He describes himself as "human procrastination" in contrast to someone focused on human optimization <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>. Despite this, he applies a rigorous, experimental approach to various aspects of his life, from consumer goods to parenting and personal development.
+
+## Rigorous Product Testing
+
+Jack applies a systematic, experimental approach to consumer goods, even creating Excel spreadsheets to track and rank products <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>.
+*   **Massive Purchases** He has bought up to 50 versions of a single product, such as chocolate, to test and rank them based on an attribute system <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>.
+*   **Return Policies** His extensive testing and returns led to him being banned multiple times from Amazon <a class="yt-timestamp" data-t="02:02:00">[02:02:00]</a> and Bonobos, from which he returned clothes up to 365 days after purchase to get a new wardrobe annually <a class="yt-timestamp" data-t="02:09:00">[02:09:00]</a>.
+*   **Gift-Giving Strategy** He extends this testing to gift-giving, providing detailed lists of why certain products (e.g., bath towels with copper, specific lotions, low-sugar gummy bears) are superior <a class="yt-timestamp" data-t="01:09:37">[01:09:37]</a>. This also applied to baby products when a friend was expecting, recommending specific formulas or products <a class="yt-timestamp" data-t="01:10:40">[01:10:40]</a>.
+*   **Supplement Exploration** Jack amassed thousands of dollars worth of supplements in his closet, but only found one, shilajit, to be consistently effective <a class="yt-timestamp" data-t="01:31:37">[01:31:37]</a>.
+*   **Buckwheat Pillow** He recommends a buckwheat pillow for neck pain, noting its adjustable filling and ability to provide better neck support, which cured his neck issues <a class="yt-timestamp" data-t="01:28:14">[01:28:14]</a>.
+
+## Unique Personal Development Practices
+
+Jack has engaged in practices that were uncommon at the time but have since become more mainstream.
+*   **Psychedelics** He participated in Ayahuasca retreats, a psychedelic experience, before it gained widespread popularity <a class="yt-timestamp" data-t="12:02:00">[12:02:00]</a>.
+*   **Silent Retreats (Vipassanā)** Starting around 2012, he regularly attended silent retreats, including a specific type called Vipassanā, where participants remain silent for three weeks <a class="yt-timestamp" data-t="12:49:00">[12:49:00]</a>.
+    *   **"Think Week" Inspiration** Unlike the extreme Vipassanā approach (concrete pillows, strict rules, early mornings), Jack's preferred method was inspired by Bill Gates' "think week," where he would go to a quiet place (like Indonesia) to read extensively without mandatory meditation or strict rules, resulting in feeling re-energized and happy <a class="yt-timestamp" data-t="14:43:00">[14:43:00]</a>. He aims to expand this concept with a digital detox retreat in Portugal <a class="yt-timestamp" data-t="11:06:00">[11:06:00]</a>.
+*   **Law of Attraction (Practical Application)** Jack believes in a "practical Law of Attraction," which involves clearly defining goals and taking steps to achieve them <a class="yt-timestamp" data-t="39:55:00">[39:55:00]</a>. He views it as projecting confidence and conviction through micro-signals and body language <a class="yt-timestamp" data-t="41:41:00">[41:41:00]</a>. This belief helped him in fundraising for his company, Vungle, by maintaining a confident mindset even without initial investors <a class="yt-timestamp" data-t="41:52:00">[41:52:00]</a>. He contrasts this with "wishful thinking," emphasizing that belief must be coupled with "Massive Action" <a class="yt-timestamp" data-t="50:37:00">[50:37:00]</a>.
+
+## Business Strategies and Opportunities
+
+Jack's unconventional thinking also extends to business.
+*   **"Read the Manual" Approach** He advocates for the "read the manual" (RTFM) approach as a quick way to become an expert in new technologies like Midjourney or ChatGPT, as most people are too lazy to do so <a class="yt-timestamp" data-t="25:21:00">[25:21:00]</a>. This philosophy, also used by Mark Cuban early in his career, allows individuals to gain a competitive edge by mastering the fundamentals <a class="yt-timestamp" data-t="31:11:00">[31:11:00]</a>.
+*   **Non-Obvious Barriers to Entry** He believes that understanding how to "hack" new products early on can create proprietary advantages and non-obvious barriers to entry for businesses <a class="yt-timestamp" data-t="32:31:00">[32:31:00]</a>.
+    *   **iPhone Screen Recording** For his company, Vungle, they developed a proprietary method to record iPhone screens in 2010 using a camcorder, a cable, and a jailbroken iPhone, a feature not natively available at the time <a class="yt-timestamp" data-t="34:02:00">[34:02:00]</a>. This unique capability allowed Vungle to offer superior video advertisements, eventually charging clients based on app installs rather than video views, a competitive advantage for their mobile ad network <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>. Jack suggests applying this "hack" approach to new products like the Apple Vision Pro upon its release <a class="yt-timestamp" data-t="37:37:00">[37:37:00]</a>.
+*   **Reseller Layer Business Model** Jack identifies a business opportunity in creating a "reseller layer" on top of industries that are poor at marketing or communicating their services, such as tax lawyers <a class="yt-timestamp" data-t="01:59:00">[01:59:00]</a>. He cites "Nomad Capitalist" as an example, which acts as a concierge service for wealthy individuals seeking international tax strategies <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>.
+
+## Unconventional Parenting
+
+Jack applies his experimental mindset to parenting, leading to unique decisions.
+*   **Temporary Name "Baby"** For the first year of his daughter's life, her legal first name was "Baby." This allowed him and his wife to get to know her personality before choosing a permanent name, without being rushed by hospital deadlines <a class="yt-timestamp" data-t="01:02:40">[01:02:40]</a>. They eventually held a naming ceremony where she could "pick her own name" by crawling towards different names <a class="yt-timestamp" data-t="01:09:01">[01:09:01]</a>.
+*   **Virtual Night Nanny** To optimize sleep as new parents, Jack employs a virtual assistant in India to monitor his baby cam overnight <a class="yt-timestamp" data-t="01:12:02">[01:12:02]</a>. The assistant has specific instructions to only wake them if the baby cries for more than seven minutes, allowing them to sleep better <a class="yt-timestamp" data-t="01:13:17">[01:13:17]</a>.
+*   **[[the_concept_of_unschooling_and_alternative_education | Unschooling]]** Jack does not plan to send his daughter to traditional school or college, believing that universities may not exist in their current form in 20 years <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>. He advocates for "unschooling," where children learn whatever they are interested in, without a set curriculum or exams, which he believes stifles curiosity <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>. This approach aims to foster intrinsic motivation and practical skills, drawing inspiration from individuals who built successful businesses through self-driven learning <a class="yt-timestamp" data-t="01:20:00">[01:20:00]</a>. His daughter currently attends a "Forest School," which focuses on outdoor play and self-directed learning <a class="yt-timestamp" data-t="01:21:01">[01:21:01]</a>.

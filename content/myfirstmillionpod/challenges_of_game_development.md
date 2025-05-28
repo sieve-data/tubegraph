@@ -1,0 +1,35 @@
+---
+title: Challenges of Game Development
+videoId: X0BCxa3V67M
+---
+
+From: [[myfirstmillionpod]] <br/> 
+
+Game development, particularly in the tech space, presents a unique set of [[challenges_and_strategies_in_business_growth_and_management | challenges]] that can determine a company's survival and success <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. Dan Porter, reflecting on his experiences, highlights several key obstacles, from navigating market shifts to maintaining team morale and understanding user behavior.
+
+## Market Dynamics and Funding Pressures
+Initially, OMGPop, Dan Porter's gaming website, found success with millions of players on Flash-based games <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>. However, the landscape quickly changed with the emergence of competitors like Farmville, which boasted 100 million players <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. This shift meant that simply having "millions of people who played your games was kind of way Lamer than a 100 million people" <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+
+The world quickly pivoted to Facebook and mobile games <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>, leaving companies built on older platforms struggling for relevance and funding <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. Boards became hesitant to invest further in products deemed "good but not great" <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>, leading to dire financial situations where cutting all non-essential costs might only extend the company's runway by a single day <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. This creates a difficult position for leadership, who must decide if they are "in the runway extending business" or genuinely working to innovate <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
+
+## Product Development and User Engagement
+A common pitfall in product development, especially outside of the gaming industry, is the "one feature away" illusion <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. This refers to the belief that adding a single feature, like push notifications, will make an app gigantic <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. While gaming often functions as a portfolio of smaller bets, where a single hit game can change a company's trajectory, this mindset can be dangerous for other product businesses <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>.
+
+A critical insight for game developers is understanding user retention. In games where there's a clear winner and loser, players often quit if they lose frequently <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>. For example, if a player loses 50% of the time in checkers, they might never return, thinking "F this site this isn't fun" <a class="yt-timestamp" data-t="00:16:58">[00:16:58]</a>. This led to the design [[challenge_of_achieving_ambitious_goals | challenge]] of creating a game where "nobody loses" <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>. The solution for *Draw Something* was streaks, where both players collaborated towards a common goal, fostering a sense of shared victory and accountability <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>.
+
+### Technical Hurdles and Simplification
+Even a viral game can face severe technical [[overcoming_entrepreneurial_challenges | challenges]]. For *Draw Something*, a backend issue prevented downloads and gameplay, despite the game's organic spread <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>. A quick rewrite of the entire backend over a weekend was necessary, followed by the hurdle of App Store approval times, which could take weeks <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a>.
+
+Furthermore, over-complication can kill a game's appeal. Developers often try to add features like "XP" (experience points) because "every good game has XP" <a class="yt-timestamp" data-t="00:26:25">[00:26:25]</a>. However, the success of *Draw Something* showed that simplicity and accessibility were key, allowing "Grandma's played like it was super Broad" <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>. Removing metadata and simplifying the core concept (e.g., from detailed player stats to "Sean is dope") broadens appeal and makes content more widely relatable <a class="yt-timestamp" data-t="01:01:59">[01:01:59]</a>.
+
+> "The more you can simplify it the more it's available to everyone" <a class="yt-timestamp" data-t="01:02:22">[01:02:22]</a>
+
+## Unforeseen Challenges and Solutions
+*Draw Something* also faced the [[challenges_and_potential_of_ai_technology | challenge]] of inappropriate user-generated content, specifically "penises" <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>. Initial board discussions involved complex solutions like optical character recognition and AI to "recognize every dick in the game" and blank it out <a class="yt-timestamp" data-t="00:18:59">[00:18:59]</a>. However, the simpler, more effective solution was to limit gameplay to friends only <a class="yt-timestamp" data-t="00:19:31">[00:19:31]</a>, trusting that "whatever you send your friend something like that they either laugh or they're like dude come on just send me a real drawing" <a class="yt-timestamp" data-t="00:19:37">[00:19:37]</a>.
+
+> "What you think is the problem is completely not the problem" <a class="yt-timestamp" data-t="00:20:21">[00:20:21]</a>. Often, the solution to a perceived problem lies in changing a broader structure rather than a direct, complex fix <a class="yt-timestamp" data-t="00:20:40">[00:20:40]</a>.
+
+Another unexpected element of *Draw Something*'s success was the playback feature, which allowed users to watch the drawing process, including mistakes and erasures <a class="yt-timestamp" data-t="00:22:23">[00:22:23]</a>. This feature, which no other similar game had, made players laugh and feel connected, fostering a sense of shared vulnerability and enjoyment <a class="yt-timestamp" data-t="00:23:00">[00:23:00]</a>. It demonstrated that sometimes a seemingly "non-core aspect" of a product can be its greatest strength <a class="yt-timestamp" data-t="00:24:25">[00:24:25]</a>.
+
+## Post-Success Challenges
+After the rapid success and acquisition of *Draw Something* by Zynga for $200 million within six weeks of its launch <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>, new [[challenges_and_strategies_in_business_growth_and_management | challenges]] emerged. External analyses in the media about the game's success or failure were often "completely wrong" <a class="yt-timestamp" data-t="00:31:45">[00:31:45]</a>, showing a disconnect between popular narratives and the reality of entrepreneurial decisions <a class="yt-timestamp" data-t="00:32:05">[00:32:05]</a>. This highlights the importance of trusting internal observations over potentially flawed external commentary.

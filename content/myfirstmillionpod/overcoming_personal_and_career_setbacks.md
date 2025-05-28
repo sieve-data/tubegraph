@@ -1,0 +1,46 @@
+---
+title: Overcoming personal and career setbacks
+videoId: EakDp68sgvM
+---
+
+From: [[myfirstmillionpod]] <br/> 
+
+The speaker emphasizes the importance of "the hustle" as a driving force throughout his career, particularly in navigating and [[overcoming_personal_and_professional_challenges | overcoming personal and professional challenges]] <a class="yt-timestamp" data-t="00:48:00">[00:48:00]</a>. He shares his story to illustrate how this commitment to hard work has shaped his life.
+
+## Early Life Challenges and the Birth of "Hustle"
+
+The speaker's understanding of "hustle" began when he found something worth striving for <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>. His high school goal was to maintain a D+ C- average, the bare minimum to graduate <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>. He ultimately dropped out at 15 <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>. This decision was not glorified but a result of difficult circumstances: he had run away from home, his girlfriend was pregnant, and they were living in a trailer park <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>. Had he the option, he would have finished school <a class="yt-timestamp" data-t="02:35:00">[02:35:00]</a>.
+
+He then spent three and a half to four years working 45 to 60 hours a week doing something he "hated" <a class="yt-timestamp" data-t="02:56:00">[02:56:00]</a>. This period, which he calls a "phase of Arrested Development," was the most instrumental part of his life <a class="yt-timestamp" data-t="03:09:00">[03:09:00]</a>. During this time (ages 16-20), he worked as a dishwasher in a restaurant, facing tough bosses, having a baby at home, living in a trailer park, and barely making ends meet <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>. Despite the adversity, he became the "best dishwasher that restaurant ever had" <a class="yt-timestamp" data-t="04:12:00">[04:12:00]</a>. This was his first realization that the more effort he poured into a job, the more he got back <a class="yt-timestamp" data-t="04:19:00">[04:19:00]</a>. He eventually received two promotions, becoming a line cook before leaving for New York City <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>. This experience taught him the "most fair transaction ever: you put a lot in and you get more out" <a class="yt-timestamp" data-t="05:00:00">[05:00:00]</a>.
+
+## Navigating New York City and Early Career Struggles
+
+Moving to New York City, the speaker had only $800 to his name, no high school diploma, and limited kitchen work experience <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>. He describes the reality of the "hustle in New York City" as "absolutely miserable" <a class="yt-timestamp" data-t="06:12:00">[06:12:00]</a>. His living situation was difficult: sleeping on an upright futon in a tiny bedroom with his 2-year-old, and sharing a hallway bathroom with various residents, which kept him "humble in the most literal way possible" <a class="yt-timestamp" data-t="06:17:00">[06:17:00]</a>, <a class="yt-timestamp" data-t="06:27:00">[06:27:00]</a>.
+
+He worked as a bike messenger, a job that barely paid, with his phone bill often exceeding his income <a class="yt-timestamp" data-t="07:01:00">[07:01:00]</a>, <a class="yt-timestamp" data-t="07:23:00">[07:23:00]</a>. His first "real job" in NYC came from collecting police barricades for an artist named Tom Sachs, who paid $10 per barricade <a class="yt-timestamp" data-t="07:56:00">[07:56:00]</a>. Working for Sachs, initially cutting cardboard squares for $10 an hour <a class="yt-timestamp" data-t="08:22:00">[08:22:00]</a>, was also "super super challenging" <a class="yt-timestamp" data-t="08:17:00">[08:17:00]</a>. However, it was here that he observed the intense desire and "hustle" of New Yorkers, realizing that to survive in the city, one must constantly chase their ambitions <a class="yt-timestamp" data-t="08:34:00">[08:34:00]</a>, <a class="yt-timestamp" data-t="09:00:00">[09:00:00]</a>.
+
+## The Pitfall of "Success" and Rediscovering the Hustle
+
+After achieving significant success, including producing a feature film that won an Independent Spirit Award <a class="yt-timestamp" data-t="21:56:00">[21:56:00]</a> and having an HBO show premiere for over $2 million <a class="yt-timestamp" data-t="20:42:00">[20:42:00]</a>, the speaker describes taking a step back and chilling out <a class="yt-timestamp" data-t="21:10:00">[21:10:00]</a>, believing he had "made it" <a class="yt-timestamp" data-t="20:50:00">[20:50:00]</a>. This period, from 2008 to 2010, became the "most depressing time" in his life <a class="yt-timestamp" data-t="21:31:00">[21:31:00]</a>. He made nothing and did nothing, feeling miserable despite his outward achievements <a class="yt-timestamp" data-t="21:35:00">[21:35:00]</a>, <a class="yt-timestamp" data-t="22:12:00">[22:12:00]</a>.
+
+This "biggest failure" was "celebrating success" and losing touch with his passion and the "hustle" that defined him <a class="yt-timestamp" data-t="31:36:00">[31:36:00]</a>, <a class="yt-timestamp" data-t="32:06:00">[32:06:00]</a>. He learned that with every success, there should come a "bigger, more ambitious goal" <a class="yt-timestamp" data-t="31:49:00">[31:49:00]</a>.
+
+This realization led him to pivot and focus on YouTube, which he saw as the "most pure form of hustle" <a class="yt-timestamp" data-t="22:48:00">[22:48:00]</a>. It allowed him to work on his craft without external pressures or the politics of traditional media <a class="yt-timestamp" data-t="22:57:00">[22:57:00]</a>. This renewed commitment to YouTube, based purely on hustle, led to a career that was "his" <a class="yt-timestamp" data-t="23:44:00">[23:44:00]</a>.
+
+## Career Crossroads and Entrepreneurial Setbacks
+
+In 2013, despite his YouTube success, he faced a major crossroads when invited to MIT for a fellowship <a class="yt-timestamp" data-t="23:51:00">[23:51:00]</a>. This meant shutting down his company, moving to Cambridge, and leaving his new and pregnant wife, representing a "gigantic risk" <a class="yt-timestamp" data-t="24:25:00">[24:25:00]</a>. He chose to take the risk, reset, and chase what excited him <a class="yt-timestamp" data-t="24:42:00">[24:42:00]</a>.
+
+This experience led him to start a tech company called "Beam," a departure from his media career, purely focused on technology <a class="yt-timestamp" data-t="25:10:00">[25:10:00]</a>. After a year and a half, Beam was running out of money and not growing fast enough to secure more funding <a class="yt-timestamp" data-t="26:05:00">[26:05:00]</a>. Instead of panicking, he made the unconventional decision to take the entire team on vacation to the Dominican Republic <a class="yt-timestamp" data-t="26:31:00">[26:31:00]</a>. This seemingly "crazy and stupid" move led to the understanding that their most valuable asset was their team and their shared enthusiasm, which helped them re-evaluate their company's value proposition <a class="yt-timestamp" data-t="26:45:00">[26:45:00]</a>. This renewed spirit ultimately led to the company's sale to CNN <a class="yt-timestamp" data-t="27:17:00">[27:17:00]</a>.
+
+## Sustaining the Hustle Amidst New Challenges
+
+After the sale to CNN, the speaker finds himself at the "bottom of a mountain that's probably bigger than any other Mountain I've ever looked up at" <a class="yt-timestamp" data-t="27:27:00">[27:27:00]</a>. Despite having tremendous resources, a strong team, and public scrutiny, he admits he doesn't "entirely know how to do it" <a class="yt-timestamp" data-t="27:58:00">[27:58:00]</a>. However, he remains confident that the "number one most important ingredient" is "the hustle" <a class="yt-timestamp" data-t="28:01:00">[28:01:00]</a>.
+
+## Personal Sacrifices and [[Balancing personal life and business | Time Management]]
+
+When asked about balancing his demanding career with family life, the speaker attributes his drive to having a child, stating, "I can do this because I have a kid" <a class="yt-timestamp" data-t="29:09:00">[29:09:00]</a>. His family provides the essential reason for his actions <a class="yt-timestamp" data-t="29:19:00">[29:19:00]</a>.
+
+His pragmatic approach to [[Personal Development and Growth | time management]] involves strict scheduling: leaving for work after his daughter leaves for school (10 AM), being home before 6 PM, and then working from 8 PM until midnight and from 4 AM until 7 AM <a class="yt-timestamp" data-t="29:46:00">[29:46:00]</a>. He achieves this demanding schedule by prioritizing work and family, abstaining from partying, drinking, or socializing, and getting minimal sleep (3-5 hours on most nights, with an 8-hour catch-up periodically) <a class="yt-timestamp" data-t="30:01:00">[30:01:00]</a>, <a class="yt-timestamp" data-t="30:20:00">[30:20:00]</a>.
+
+His most cherished content involves his family, serving as a "little portrait of my life" that he can always look back on <a class="yt-timestamp" data-t="30:50:00">[30:50:00]</a>.
