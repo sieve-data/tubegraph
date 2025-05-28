@@ -534,3 +534,10 @@ $shadow-hover : 0 3px 6px rgba(0, 0, 0, 0.12);
   width: 16px;
   height: 16px;
 }
+
+// Hide graph section on mobile
+@media all and ($mobile) {
+  .graph-section {
+    display: none;
+  }
+}
