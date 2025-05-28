@@ -95,7 +95,7 @@ async function processOgImage(
   return write({
     ctx,
     content: stream,
-    slug: `${slug}-og-image` as FullSlug,
+    slug: `${slug}-og_image` as FullSlug,
     ext: ".webp",
   })
 }
@@ -154,9 +154,9 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
             }
 
             const generatedOgImagePath = isRealFile
-              ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
+              ? `https://${baseUrl}/${pageData.slug!}-og_image.webp`
               : undefined
-            const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
+            const defaultOgImagePath = `https://${baseUrl}/static/og_image.png`
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
             const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
             return (
