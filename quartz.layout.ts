@@ -43,8 +43,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
-    Component.MobileOnly(Component.YouTubePlayer()),
-    Component.Graph(),
+    Component.DesktopOnly(Component.YouTubePlayer()),
+    Component.DesktopOnly(Component.Graph()),
     Component.Backlinks(),
   ],
 }

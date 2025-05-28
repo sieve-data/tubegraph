@@ -87,6 +87,12 @@ function waitForYTAPI(callback: () => void, maxAttempts = 50, delay = 100) {
 }
 
 document.addEventListener("nav", () => {
+  // Add mobile check at the top
+  if (document.documentElement.clientWidth <= 800) {
+    console.log("Mobile device detected, skipping youtube setup")
+    return
+  }
+
   console.log("loaded nav")
   loadYT()
 

@@ -4,6 +4,7 @@ import Graph from "./Graph"
 // @ts-ignore
 import script from "./scripts/landing.inline"
 import { LogoIcon } from "./SieveLogo"
+import { isMobile } from "pixi.js"
 
 const GitHubIcon = ({ className = "w-5 h-5" }: { className?: string }) => (
   <svg
@@ -48,19 +49,6 @@ export const CHANNEL_CARDS = {
 
 export default (() => {
   function LandingComponent(props: any) {
-    // Detect mobile
-    const isMobile = typeof window !== "undefined" && window.innerWidth <= 800
-
-    // Only create Graph component on desktop
-    const GraphComponent = !isMobile
-      ? Graph({
-          localGraph: {
-            rootNode: "dwarkeshpatel/dwarkeshpatel",
-            enableRadial: true,
-          },
-        })
-      : null
-
     return (
       <div class="page-body">
         <a className="powered-by-badge" href="https://www.sievedata.com/">
@@ -114,53 +102,7 @@ export default (() => {
           </div>
           <div class="issue-container">{Object.values(CHANNEL_CARDS)}</div>
 
-          {/* Only render graph section on desktop */}
-          {!isMobile && GraphComponent && (
-            <div class="graph-section">
-              <div class="add-channel">
-                <label for="channel-input" class="channel-select-label">
-                  Add a Channel:
-                </label>
-                <input
-                  id="channel-input"
-                  class="channel-select"
-                  placeholder={"Channel Username (@)"}
-                />
-                <label for="filter-by" class="channel-select-label">
-                  Sort By:
-                </label>
-                <select id="sort-by" class="channel-select drop">
-                  <option value="views">Views</option>
-                  <option value="upload_date">Upload Date</option>
-                </select>
-                <label for="vid-duration" class="channel-select-label">
-                  Min Vid Duration:
-                </label>
-                <input
-                  id="vid-duration"
-                  class="channel-select min-vid-duration"
-                  placeholder={"1"}
-                  type="number"
-                />
-                min.
-                <button id="add-video" class="add-video">
-                  Create Graph
-                </button>
-              </div>
-              <div class="graph-controls">
-                <label for="channel-select" class="channel-select-label">
-                  View Graph For:
-                </label>
-                <select id="channel-select" class="channel-select">
-                  <option value="dwarkeshpatel/dwarkeshpatel">Dwarkesh Podcast</option>
-                  <option value="lexfridman/lexfridman">Lex Fridman</option>
-                  <option value="hubermanlab/hubermanlab">Huberman Lab</option>
-                  <option value="awdii/awdii">Awdii</option>
-                </select>
-              </div>
-              <GraphComponent {...props} />
-            </div>
-          )}
+          <div id="graph-section-container"></div>
         </div>
       </div>
     )
