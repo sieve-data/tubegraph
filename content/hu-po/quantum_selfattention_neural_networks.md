@@ -1,0 +1,39 @@
+---
+title: Quantum selfattention neural networks
+videoId: ABEkChn3inY
+---
+
+From: [[hu-po]] <br/> 
+
+Quantum Self-Attention Neural Networks (Q-SAN) represent an emerging direction in [[quantum_neural_networks_for_natural_language_processing | quantum machine learning]] (QML), aiming to establish meaningful quantum applications in various fields of artificial intelligence, including natural language processing (NLP) <a class="yt-timestamp" data-t="02:41:99">[02:41:99]</a>. This specific architecture involves the [[implementation_of_selfattention_on_quantum_systems | implementation of self-attention]] mechanisms within the quantum realm <a class="yt-timestamp" data-t="01:30:17">[01:30:17]</a>.
+
+## Motivation and Background
+The motivation for Q-SAN comes from the excellent performance of [[the_role_of_attention_mechanisms_in_transformer_models | self-attention]] in various NLP tasks <a class="yt-timestamp" data-t="01:20:21">[01:20:21]</a>. While some earlier efforts in [[quantum_neural_networks_for_natural_language_processing | Quantum NLP]] (QNLP) focused on syntactic analysis, they faced limitations like heavy syntactic pre-processing and syntax-dependent network architectures, making them impractical for larger datasets <a class="yt-timestamp" data-t="03:04:04">[03:04:04]</a>.
+
+Q-SAN seeks to overcome these drawbacks by introducing a self-attention mechanism to [[quantum_neural_networks_for_natural_language_processing | Quantum Neural Networks]] <a class="yt-timestamp" data-t="03:35:41">[03:35:41]</a>. The approach is designed to be effective and scalable on larger datasets and is implementable on near-term [[noisy_intermediate_scale_quantum_devices | quantum devices]] <a class="yt-timestamp" data-t="04:01:04">[04:01:04]</a>.
+
+## Architecture and Components
+Q-SAN employs a hybrid classical-quantum architecture <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>. The core of the Q-SAN model consists of:
+
+*   **Quantum Self-Attention Layers:** These layers process classical input data, which are used as rotation angles for quantum ansats <a class="yt-timestamp" data-t="04:59:59">[04:59:59]</a>. A "quantum ansats" (or "ansatz") refers to a parameterized quantum circuit with a predetermined geometry, expressing a time-evolution unitary operator <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a> <a class="yt-timestamp" data-t="05:11:00">[05:11:00]</a>.
+    *   **Encoder Ansats:** Responsible for encoding classical input data (e.g., text tokens) into [[highdimensional_spaces_in_attention_networks | high-dimensional quantum states]] <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a> <a class="yt-timestamp" data-t="05:22:24">[05:22:24]</a>. This often involves applying a Hadamard gate to put qubits into a superposition, followed by a U-encoder operation <a class="yt-timestamp" data-t="00:59:50">[00:59:50]</a> <a class="yt-timestamp" data-t="01:00:10">[01:00:10]</a>.
+    *   **Query (Uq), Key (Uk), and Value (Uv) Ansats:** These are specific quantum circuits parameterized by learnable angles (Theta Q, Theta K, Theta V) <a class="yt-timestamp" data-t="01:14:16">[01:14:16]</a> <a class="yt-timestamp" data-t="01:29:19">[01:29:19]</a>.
+        *   They consist of single-qubit rotations (RX, RY gates) and controlled-NOT (CNOT) gates, which entangle the qubits <a class="yt-timestamp" data-t="01:25:29">[01:25:29]</a> <a class="yt-timestamp" data-t="01:29:06">[01:29:06]</a>. The repeated application of these structures enhances the expressive power of the ansats <a class="yt-timestamp" data-t="01:31:41">[01:31:41]</a>.
+*   **Gaussian Projected Self-Attention:** Instead of a direct inner product for self-attention, Q-SAN uses a gaussian function applied to the classical representations obtained via quantum measurements <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a> <a class="yt-timestamp" data-t="01:20:10">[01:20:10]</a>. This projects the quantum states from the Hilbert space to a one-dimensional classical space <a class="yt-timestamp" data-t="01:18:33">[01:18:33]</a>. The measurement process collapses the quantum state into a single value <a class="yt-timestamp" data-t="01:19:11">[01:19:11]</a>.
+*   **Classical Head:** A fully connected layer used for the binary prediction task (e.g., text classification) <a class="yt-timestamp" data-t="01:30:09">[01:30:09]</a>. This layer processes the output of the quantum self-attention layers <a class="yt-timestamp" data-t="01:30:09">[01:30:09]</a>.
+*   **Residual Connections:** Like classical Transformers, Q-SAN incorporates residual connections to allow gradients to flow through multiple layers effectively <a class="yt-timestamp" data-t="01:30:17">[01:30:17]</a>.
+
+## Training and Optimization
+Q-SAN models are trained using stochastic gradient descent <a class="yt-timestamp" data-t="01:50:15">[01:50:15]</a>. The loss function typically includes a mean squared error and regularization terms to prevent overfitting <a class="yt-timestamp" data-t="01:45:50">[01:45:50]</a> <a class="yt-timestamp" data-t="01:47:14">[01:47:14]</a>.
+
+A crucial aspect is calculating gradients for the quantum parameters. The analytical gradients for the quantum layers can be derived using the parameter shift rule, which allows for backpropagation through quantum measurements and operators <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a> <a class="yt-timestamp" data-t="02:06:28">[02:06:28]</a>. Parameters for the ansats are initialized from a Gaussian distribution with zero mean <a class="yt-timestamp" data-t="02:11:18">[02:11:18]</a>.
+
+## Performance and Robustness
+Numerical experiments, primarily through classical simulation (e.g., using Paddle Quantum), demonstrate Q-SAN's performance <a class="yt-timestamp" data-t="01:58:38">[01:58:38]</a> <a class="yt-timestamp" data-t="02:00:05">[02:00:05]</a>. On small public datasets (e.g., Yelp, IMDb, Amazon reviews), Q-SAN has been shown to outperform existing [[quantum_neural_networks_for_natural_language_processing | QNLP models]] and even simple classical self-attention neural networks in text classification tasks <a class="yt-timestamp" data-t="02:30:52">[02:30:52]</a> <a class="yt-timestamp" data-t="02:31:22">[02:31:22]</a>.
+
+A significant advantage of Q-SAN is its [[quantum_computing_noise_resilience_and_simulation | robustness to low-level quantum noise]] <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. Even with increased noise levels (e.g., depolarizing channels, amplitude damping channels) added to the quantum circuits, Q-SAN maintains reasonable accuracy, indicating its suitability for current noisy quantum hardware <a class="yt-timestamp" data-t="02:19:00">[02:19:00]</a> <a class="yt-timestamp" data-t="02:19:19">[02:19:19]</a>.
+
+## Limitations and Future Work
+Current Q-SAN implementations are limited by the capabilities of [[noisy_intermediate_scale_quantum_devices | NISQ devices]], which have a small number of qubits (e.g., dozens to a few hundred) <a class="yt-timestamp" data-t="01:56:38">[01:56:38]</a>. Consequently, the models are very shallow and trained on tiny datasets with a small number of parameters compared to modern classical deep learning models <a class="yt-timestamp" data-t="01:39:50">[01:39:50]</a> <a class="yt-timestamp" data-t="02:19:50">[02:19:50]</a>.
+
+Future work includes exploring more advanced techniques like positional encoding and multi-head attention within [[quantum_neural_networks_for_natural_language_processing | quantum neural networks]] for generative models and more complicated tasks <a class="yt-timestamp" data-t="02:21:03">[02:21:03]</a>. The ability to parallelize computations in quantum systems, analogous to GPUs in classical computing, remains an open question for optimizing such architectures <a class="yt-timestamp" data-t="02:21:10">[02:21:10]</a>.

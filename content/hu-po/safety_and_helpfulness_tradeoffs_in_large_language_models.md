@@ -1,0 +1,64 @@
+---
+title: Safety and Helpfulness Tradeoffs In Large Language Models
+videoId: 1ZwXkw9_Xq8
+---
+
+From: [[hu-po]] <br/> 
+
+## Introduction to Llama 2's Approach
+Llama 2 is a collection of pre-trained and fine-tuned [[large_language_models_and_their_applications | large language models]] developed and released by Meta, ranging in scale from 7 billion to 70 billion parameters <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. The fine-tuned models, called Llama 2 Chat, are specifically optimized for dialogue use cases <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. Meta's paper emphasizes a detailed description of their approach to fine-tuning and safety improvements, aiming to enable the community to build upon their work and contribute to the responsible development of LLMs <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. Unlike competitors like OpenAI and Google, who are often secretive, the Llama 2 paper provides extensive information, including approximately 15 pages dedicated to safety <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>, <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
+
+## Defining Helpfulness and Safety
+In the context of Llama 2, "helpfulness" refers to how well the model's responses fulfill user requests and provide information, while "safety" pertains to whether responses are unsafe, such as providing instructions for illegal activities <a class="yt-timestamp" data-t="01:16:16">[01:16:16]</a>, <a class="yt-timestamp" data-t="01:12:16">[01:12:16]</a>. These two objectives often present a tradeoff: a highly helpful model might assist with dangerous requests, while a maximally safe model might refuse legitimate, harmless prompts <a class="yt-timestamp" data-t="02:00:54">[02:00:54]</a>, <a class="yt-timestamp" data-t="02:08:46">[02:08:46]</a>.
+
+## Training for Alignment: RLHF
+Llama 2 Chat models are aligned with human preferences through various techniques, including [[FineTuning Techniques for Language Models | instruction tuning]] and [[Large Language Models as Optimizers | Reinforcement Learning from Human Feedback (RLHF)]] <a class="yt-timestamp" data-t="01:03:18">[01:03:18]</a>.
+
+### Supervised Fine-Tuning (SFT)
+The SFT stage begins with publicly available instruction tuning data, but Meta found that much of this data lacked sufficient diversity and quality for aligning LLMs toward dialogue style <a class="yt-timestamp" data-t="01:05:20">[01:05:20]</a>. They focused on collecting several thousand examples of high-quality SFT data from their own vendor-based annotation efforts, totaling 27,540 annotations <a class="yt-timestamp" data-t="01:05:44">[01:05:44]</a>, <a class="yt-timestamp" data-t="01:07:17">[01:07:17]</a>. This data was *created* by human annotators, not just collected, as it often involved writing both prompts and desired refusal responses, such as "I am sorry but I cannot comply with that request" <a class="yt-timestamp" data-t="01:04:46">[01:04:46]</a>, <a class="yt-timestamp" data-t="01:06:08">[01:06:08]</a>. Notably, this SFT data does not include any Meta user data <a class="yt-timestamp" data-t="01:07:22">[01:07:22]</a>.
+
+### Reward Modeling
+For RLHF, human preference data is collected by asking annotators to select which of two model outputs they prefer, based on helpfulness and safety criteria <a class="yt-timestamp" data-t="01:10:49">[01:10:49]</a>, <a class="yt-timestamp" data-t="01:11:20">[01:11:20]</a>. This feedback is used to train a separate reward model, which learns patterns in human preferences to automate preference decisions <a class="yt-timestamp" data-t="01:10:57">[01:10:57]</a>. Meta trains two separate reward models: one optimized for helpfulness (RH) and another for safety (RS) <a class="yt-timestamp" data-t="01:17:33">[01:17:33]</a>. Their collected human preference data is significantly larger than other open-source datasets, comprising over 1.5 million comparisons <a class="yt-timestamp" data-t="01:15:52">[01:15:52]</a>.
+
+### Reinforcement Learning (PPO)
+The reward models are used within a Proximal Policy Optimization (PPO) algorithm, a common reinforcement learning algorithm <a class="yt-timestamp" data-t="01:19:57">[01:19:57]</a>. The objective of PPO is to maximize the reward while also preventing the policy from drifting too far from the original model <a class="yt-timestamp" data-t="01:33:51">[01:33:51]</a>. The final reward function used in optimization is a piecewise combination of the safety and helpfulness reward models <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>.
+
+### Iterative Fine-Tuning
+Meta employs an iterative fine-tuning process for RLHF. As more human preference data is collected, better reward models are trained, and more prompts are gathered <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>. This creates successive versions of RLHF models (e.g., RLHF V1 to V5) <a class="yt-timestamp" data-t="01:29:03">[01:29:03]</a>. This strategy means the model is used to generate more labels, which are then used to train the model further <a class="yt-timestamp" data-t="01:29:46">[01:29:46]</a>.
+
+### Ghost Attention for Consistency
+A challenge with multi-turn dialogues is that LLMs can forget initial instructions after a few turns <a class="yt-timestamp" data-t="01:43:15">[01:43:15]</a>. To address this, Meta proposes "Ghost Attention" (GAt), which synthetically concatenates the system-level instruction to all user messages throughout the conversation <a class="yt-timestamp" data-t="01:44:11">[01:44:11]</a>. This ensures the model constantly "pays attention" to the initial instruction, maintaining consistency <a class="yt-timestamp" data-t="01:49:35">[01:49:35]</a>.
+
+### Context Distillation for Safety
+Meta refines its RLHF pipeline with a technique called "context distillation" for safety <a class="yt-timestamp" data-t="02:05:05">[02:05:05]</a>. This involves prefixing a user's prompt with a safety prompt (e.g., "You are a safe and responsible assistant") to generate safer responses. Then, the model is fine-tuned on these safer responses *without* the safety prefix, effectively distilling the safety prompt's effect directly into the model <a class="yt-timestamp" data-t="02:05:17">[02:05:17]</a>.
+
+## The Tradeoff Challenge
+
+### Observed Tradeoffs and Mitigations
+Meta's training process confirmed the observed tension between safety and helpfulness objectives <a class="yt-timestamp" data-t="01:27:52">[01:27:52]</a>. Initially, increasing safety measures could lead to more conservative answers and a potential reduction in helpfulness <a class="yt-timestamp" data-t="02:08:38">[02:08:38]</a>. However, through iterative fine-tuning and the use of separate reward models, Llama 2 aims to improve both helpfulness and safety simultaneously, moving dots on a scatter plot upwards and to the right <a class="yt-timestamp" data-t="02:07:32">[02:07:32]</a>, <a class="yt-timestamp" data-t="02:07:45">[02:07:45]</a>.
+
+### False Refusals
+One challenge is false refusals, where the model incorrectly refuses to answer legitimate user prompts <a class="yt-timestamp" data-t="02:09:20">[02:09:20]</a>. This can happen when a prompt contains words frequently associated with unsafe generations, even if the context is harmless (e.g., "Christmas crack" for a cookie recipe, or "bath bomb") <a class="yt-timestamp" data-t="02:09:54">[02:09:54]</a>.
+
+### Impact of Temperature on Response Diversity
+Temperature is a [[Inference Efficiency in Large Language Models | hyperparameter]] that controls the randomness or diversity of the model's output <a class="yt-timestamp" data-t="02:24:51">[02:24:51]</a>.
+*   For prompts requiring factual information, increasing the temperature has a diminishing effect, as the model learns to consistently provide the same (correct) response <a class="yt-timestamp" data-t="02:24:41">[02:24:41]</a>.
+*   However, for creative prompts, higher temperatures continue to generate greater diversity in responses <a class="yt-timestamp" data-t="02:25:40">[02:25:40]</a>.
+*   RLHF helps eliminate unwanted diversity in factual responses but retains diversity for creative ones <a class="yt-timestamp" data-t="02:25:46">[02:25:46]</a>.
+
+## Evaluation and Benchmarks
+
+### Human Evaluation
+Human evaluation is considered the gold standard for assessing LLMs <a class="yt-timestamp" data-t="01:51:21">[01:51:21]</a>. For Llama 2, three different annotators provide independent assessments for each model generation comparison <a class="yt-timestamp" data-t="01:56:57">[01:56:57]</a>. However, human evaluations can be noisy and subjective <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>, with inter-rater reliability scores ranging between 0.37 and 0.5 <a class="yt-timestamp" data-t="01:57:31">[01:57:31]</a>.
+
+### Model-Based Evaluation (GPT-4 as a Judge)
+In addition to human evaluations, GPT-4 is used as a more capable model judge to compare Llama 2 Chat against commercially licensed baselines like GPT-3, Palm Bison, and Falcon 40B <a class="yt-timestamp" data-t="01:11:51">[01:11:51]</a>. Llama 2 generally shows better helpfulness and safety scores when evaluated by GPT-4 <a class="yt-timestamp" data-t="01:12:22">[01:12:22]</a>. However, there are [[vulnerabilities_of_large_language_models | concerns]] about using an LLM to evaluate other LLMs, as the judge model might have unknown biases or preferences (e.g., favoring specific sentence structures or word choices) <a class="yt-timestamp" data-t="01:13:19">[01:13:19]</a>.
+
+### Red Teaming for Risk Identification
+To proactively identify [[vulnerabilities_of_large_language_models | risks]], Meta conducted "red teaming" exercises, a common practice in computer security <a class="yt-timestamp" data-t="02:12:05">[02:12:05]</a>. A team of 350 internal employees, contract workers, and external vendors, including domain experts in cybersecurity, election fraud, social media misinformation, legal policy, civil rights, ethics, and machine learning, were tasked with finding ways to make the Llama 2 model generate unsafe responses <a class="yt-timestamp" data-t="02:12:30">[02:12:30]</a>, <a class="yt-timestamp" data-t="02:12:40">[02:12:40]</a>. They found that creative writing requests or hiding illicit prompts in "positive, progressive, and empowering" language were effective ways to bypass safety mechanisms <a class="yt-timestamp" data-t="02:15:35">[02:15:35]</a>, <a class="yt-timestamp" data-t="02:15:45">[02:15:45]</a>.
+
+### Pre-training Data Biases and Toxicity
+The biases in pre-training data, which reflect real-world biases, can translate into model biases (e.g., gender stereotypes in professions) <a class="yt-timestamp" data-t="01:58:20">[01:58:20]</a>. Meta measures data toxicity using a HateBERT classifier trained on the ToxiGen dataset <a class="yt-timestamp" data-t="02:03:37">[02:03:37]</a>, <a class="yt-timestamp" data-t="02:03:40">[02:03:40]</a>. The paper notes that Llama 2 Chat performs very well on the ToxiGen benchmark but less so on the TruthfulQA benchmark <a class="yt-timestamp" data-t="02:19:39">[02:19:39]</a>, <a class="yt-timestamp" data-t="02:19:43">[02:19:43]</a>. The question remains whether to filter or synthetically balance data to mitigate biases or to let the model reflect existing real-world biases <a class="yt-timestamp" data-t="02:01:25">[02:01:25]</a>, <a class="yt-timestamp" data-t="02:01:32">[02:01:32]</a>.
+
+## Release Strategy and Philosophy
+Meta has made Llama 2 available for both research and commercial use, which is significant as many open-source models are not licensed for commercial purposes <a class="yt-timestamp" data-t="02:34:04">[02:34:04]</a>, <a class="yt-timestamp" data-t="02:34:06">[02:34:06]</a>. They believe that an open approach encourages responsible AI innovation by drawing upon the collective wisdom and diversity of the AI practitioner community <a class="yt-timestamp" data-t="02:34:24">[02:34:24]</a>. This strategy aims to democratize access to foundational models, promote transparency, stimulate innovation, accelerate progress, and consolidate [[computational_efficiency_and_memory_usage_in_large_language_models | costs]] by eliminating barriers to entry for small businesses <a class="yt-timestamp" data-t="02:35:09">[02:35:09]</a>, <a class="yt-timestamp" data-t="02:35:13">[02:35:13]</a>, <a class="yt-timestamp" data-t="02:35:27">[02:35:27]</a>. Meta acknowledges the risks of toxic content and problematic associations, but emphasizes that transparency and collaboration are the path to mitigation <a class="yt-timestamp" data-t="02:36:10">[02:36:10]</a>, <a class="yt-timestamp" data-t="02:37:19">[02:37:19]</a>.

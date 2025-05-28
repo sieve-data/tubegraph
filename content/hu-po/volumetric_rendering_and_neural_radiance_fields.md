@@ -1,82 +1,70 @@
 ---
-title: Volumetric rendering and neural Radiance fields
+title: Volumetric rendering and neural radiance fields
 videoId: Y73KU0ShHdM
 ---
 
 From: [[hu-po]] <br/> 
 
-[[Neural volume rendering | Volumetric rendering]] and [[neural_radiance_fields | Neural Radiance Fields (NeRFs)]] represent a cutting-edge approach to 3D scene representation and rendering. This technique has the potential to replace many current rendering stacks in the future <a class="yt-timestamp" data-t="02:20:20">[02:20:20]</a>.
+Nerfack, short for "Nerf acceleration toolkit," is a recently released paper from the University of California, Berkeley, focused on accelerating [[neural_radiance_fields_nerfs_and_their_application | Neural Radiance Fields]] (NeRFs) <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. It is designed to be a user-friendly Python API, ready for plug-and-play acceleration for most NeRF models <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
 
-## Neural Radiance Fields (NeRFs)
+## Understanding Neural Radiance Fields (NeRFs)
 
-[[Neural radiance fields | NeRFs]] are a method for 3D representation that trains a neural network, specifically a Multi-Layer Perceptron (MLP), to encode the view-dependent appearance of a scene <a class="yt-timestamp" data-t="02:50:50">[02:50:50]</a>. Given a view vector (the direction from which the scene is to be rendered), the neural network returns pixel values for that view <a class="yt-timestamp" data-t="03:11:11">[03:11:11]</a>.
+[[neural_radiance_fields_nerfs_and_their_application | Neural Radiance Fields]] are a popular type of volumetric rendering used for 3D representation <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a> <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. They involve training a neural network, typically a Multi-Layer Perceptron (MLP), to encode the view-dependent appearance of a scene <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. The network takes a view vector (the direction from which the scene is to be rendered) and returns pixel values <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
 
-A key characteristic of [[neural_radiance_fields | NeRFs]] is their use of a differentiable [[ray_marching_and_differentiable_rendering | volumetric rendering]] algorithm, known as [[ray_marching_and_differentiable_rendering | ray marching]] <a class="yt-timestamp" data-t="03:38:38">[03:38:38]</a>. This differentiability allows the network to be trained using backpropagation <a class="yt-timestamp" data-t="03:43:43">[03:43:43]</a>.
+### Volumetric Rendering and Ray Marching
+The key characteristic of NeRFs is their volumetric rendering algorithm, known as ray marching <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. This process casts a ray into the 3D space, generates discrete samples along that ray, and accumulates colors to determine the final pixel value <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a> <a class="yt-timestamp" data-t="00:13:41">[00:13:41]</a>. Each sample point along the ray provides a color and an opacity (alpha) value from the neural network <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>. These are then summed up to get the pixel's color <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. This ray marching process is differentiable, allowing NeRFs to be trained using backpropagation <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
 
-### Limitations of Vanilla NeRF
+### Limitations of Vanilla NeRFs
+A significant limitation of the original NeRF model is its training time, often taking two days to converge on a single scene <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. While some specialized implementations, like Nvidia's Instant NGP, have reduced training and rendering times, they often rely on proprietary CUDA code, limiting their general applicability <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>.
 
-The original implementation of [[neural_radiance_fields | NeRF]] typically requires about two days to converge on a single scene, which is a significant limitation <a class="yt-timestamp" data-t="03:51:51">[03:51:51]</a> <a class="yt-timestamp" data-t="03:55:55">[03:55:55]</a>. While Nvidia has developed methods to reduce training and rendering times, these often involve specialized CUDA code that is not generalizable to non-Nvidia GPUs or CPUs <a class="yt-timestamp" data-t="09:09:09">[09:09:09]</a> <a class="yt-timestamp" data-t="09:23:23">[09:23:23]</a> <a class="yt-timestamp" data-t="09:33:33">[09:33:33]</a>.
+### Comparison with Other 3D Representations
+*   **Voxel-based Radiance Fields**: These break up space into small squares (voxels) <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. While they can vary in resolution (e.g., using Octrees where voxels with information are subdivided), they are generally less flexible than MLP-based NeRFs <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+*   **Arbitrary Properties**: [[neural_radiance_fields_nerfs_and_their_application | NeRFs]] are not limited to predicting only color and opacity; they can predict an arbitrary number of properties like specularity or roughness. In the future, this could extend to physics-based properties (e.g., hardness, elasticity) to enable physics simulations where objects are also represented by MLPs <a class="yt-timestamp" data-t="00:27:35">[00:27:35]</a>.
 
-## Nerfack: A General NeRF Acceleration Toolkit
+## Nerfack's Acceleration Techniques
+Nerfack aims to address the computational intensity of [[neural_radiance_fields_nerfs_and_their_application | NeRFs]], particularly their long training times <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>. The core of its efficiency comes from intelligently skipping unnecessary computations during ray marching and rendering <a class="yt-timestamp" data-t="00:16:17">[00:16:17]</a>.
 
-Nerfack (Nerf Acceleration Toolkit) is a recently released paper and toolkit from the University of California Berkeley, designed to accelerate various [[neural_radiance_fields | NeRFs]] across different applications <a class="yt-timestamp" data-t="01:33:33">[01:33:33]</a> <a class="yt-timestamp" data-t="01:47:47">[01:47:47]</a> <a class="yt-timestamp" data-t="04:57:57">[04:57:57]</a>. It provides a user-friendly Python API that is ready for Plug and Play acceleration for most NeRF models <a class="yt-timestamp" data-t="02:33:33">[02:33:33]</a> <a class="yt-timestamp" data-t="02:37:37">[02:37:37]</a>.
+### Efficient Ray Marching
+The primary bottleneck in NeRF efficiency is evaluating the Radiance Field for each sample <a class="yt-timestamp" data-t="00:13:38">[00:13:38]</a>. Nerfack improves this by reducing the number of samples <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>.
+*   **Skipping Empty or Occluded Space**: Samples that have very low opacity (empty space) or are occluded by denser objects (low transmittance) contribute little to the final image. Nerfack safely skips evaluating these samples, saving inference time <a class="yt-timestamp" data-t="00:14:47">[00:14:47]</a>. For example, in a dense Lego scene, this pruning can eliminate 98% of samples <a class="yt-timestamp" data-t="00:20:58">[00:20:58]</a>.
+*   **Occupancy Grid**: During training, a binary grid is cached and updated to store which areas of the scene are empty <a class="yt-timestamp" data-t="00:18:18">[00:18:18]</a>. This helps identify regions not worth rendering <a class="yt-timestamp" data-t="00:18:42">[00:18:42]</a>. Rays can be terminated if their transmittance falls below a certain threshold <a class="yt-timestamp" data-t="00:19:34">[00:19:34]</a>.
 
-Nerfack extends [[neural_radiance_fields | NeRF]] techniques to support not only bounded static scenes but also dynamic and unbounded scenes <a class="yt-timestamp" data-t="02:25:25">[02:25:25]</a> <a class="yt-timestamp" data-t="02:29:29">[02:29:29]</a>. It significantly reduces training time; for instance, a D-NeRF model for [[dynamic_3d_gaussian_technique | dynamic scenes]] can be trained in one hour rather than two days <a class="yt-timestamp" data-t="13:05:05">[13:05:05]</a> <a class="yt-timestamp" data-t="13:10:10">[13:10:10]</a>. It claims to achieve better quality with less training time <a class="yt-timestamp" data-t="13:18:18">[13:18:18]</a> <a class="yt-timestamp" data-t="13:20:20">[13:20:20]</a>.
+### [[optimizing_computation_in_neural_rendering | Optimizing Computation]] and [[gpu_optimization_techniques_for_neural_rendering | GPU Optimization Techniques]]
+*   **Parallelization**: Nerfack minimizes operations parallelized across rays, instead preferring to parallelize across samples, especially since sample opacity and density are independent of the rays <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>. This "clever mapping" helps optimally utilize the GPU <a class="yt-timestamp" data-t="00:24:43">[00:24:43]</a>.
+*   **Coarse-to-Fine Sampling**: Instead of uniformly sampling many points along a ray, NeRFack can initially perform a coarse sampling. Once regions of high opacity are identified, it can then densely sample *around* the object's surface, further reducing unnecessary computations <a class="yt-timestamp" data-t="00:42:22">[00:42:22]</a>.
 
-## Volumetric Rendering Pipeline
+### Support for Unbounded and Dynamic Scenes
+While many NeRF papers focus on bounded static scenes (an object confined within a specific 3D volume) <a class="yt-timestamp" data-t="00:25:09">[00:25:09]</a>, Nerfack extends its techniques to support:
+*   **Unbounded Scenes**: For scenes with vast backgrounds that extend to infinity, Nerfack incorporates a scene contraction idea from MIP-NeRF 360, applying a nonlinear function to map unbounded space into a finite grid <a class="yt-timestamp" data-t="00:25:10">[00:25:10]</a>.
+*   **Dynamic Scenes**: For scenes where objects are moving and changing over time, an additional time dimension is conditioned on the neural network, making the rendering more computationally intensive <a class="yt-timestamp" data-t="00:47:45">[00:47:45]</a>.
 
-The volumetric rendering pipeline in [[neural_radiance_fields | NeRFs]] is broken down into two main steps: [[ray_marching_and_differentiable_rendering | Ray marching]] and [[ray_marching_and_differentiable_rendering | Differentiable rendering]] <a class="yt-timestamp" data-t="13:31:31">[13:31:31]</a>.
+### Differentiable Volume Rendering
+The process of accumulating sample colors along rays into pixel colors is called differentiable rendering <a class="yt-timestamp" data-t="00:26:31">[00:26:31]</a>. Because the functions involved (like opacity changes along a ray) are smooth and differentiable, it's possible to use gradient descent to minimize errors between observed images and rendered views <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a> <a class="yt-timestamp" data-t="00:38:38">[00:38:38]</a>. Nerfack disables gradients during certain parts of ray marching to minimize computation <a class="yt-timestamp" data-t="00:20:04">[00:20:04]</a>.
 
-### Ray Marching
+## Implementation and Performance
 
-[[Ray marching and differentiable rendering | Ray marching]] is the process of casting a ray through the scene and generating discrete samples along that ray <a class="yt-timestamp" data-t="13:41:41">[13:41:41]</a> <a class="yt-timestamp" data-t="13:43:43">[13:43:43]</a>. These samples are later evaluated by the radiance field <a class="yt-timestamp" data-t="13:34:34">[13:34:34]</a>.
+### Python API and PyTorch
+Nerfack provides a user-friendly Python API, built on PyTorch <a class="yt-timestamp" data-t="00:31:00">[00:31:00]</a> <a class="yt-timestamp" data-t="00:59:03">[00:59:03]</a>. Users primarily need to define two functions for their Radiance Field:
+1.  `Sigma FN`: Queries the density (opacity) at given positions along a ray, which only depends on the `(x, y, z)` position <a class="yt-timestamp" data-t="00:32:50">[00:32:50]</a>.
+2.  `RGB Sigma FN`: Queries both color and density, where color depends on both the `(x, y, z)` position and the view angle (direction of the ray) <a class="yt-timestamp" data-t="00:34:06">[00:34:06]</a>.
 
-#### Optimization through Sample Reduction
-Efficiency in [[ray_marching_and_differentiable_rendering | ray marching]] can be achieved by reducing the number of samples as much as possible <a class="yt-timestamp" data-t="13:38:38">[13:38:38]</a> <a class="yt-timestamp" data-t="13:40:40">[13:40:40]</a>. Samples that have low opacity or low transmittance contribute little to the final image and can be safely skipped <a class="yt-timestamp" data-t="14:47:47">[14:47:47]</a> <a class="yt-timestamp" data-t="14:49:49">[14:49:49]</a> <a class="yt-timestamp" data-t="14:58:58">[14:58:58]</a>. This prevents wasting inference time on empty or occluded regions <a class="yt-timestamp" data-t="15:45:45">[15:45:45]</a> <a class="yt-timestamp" data-t="15:49:49">[15:49:49]</a>. For a dense scene like a Lego truck, 98% of samples can be ignored <a class="yt-timestamp" data-t="20:58:58">[20:58:58]</a> <a class="yt-timestamp" data-t="21:00:00">[21:00:00]</a> <a class="yt-timestamp" data-t="21:08:08">[21:08:08]</a>.
+The API handles the complex ray marching and differentiable rendering steps, including parameters like near/far planes and early stopping thresholds for opacity and transmittance <a class="yt-timestamp" data-t="00:35:54">[00:35:54]</a>.
 
-Nerfack uses an [[occupancy_grid | occupancy grid]]—a binary grid that is cached and updated to store which areas of the scene are empty <a class="yt-timestamp" data-t="18:18:18">[18:18:18]</a> <a class="yt-timestamp" data-t="19:17:17">[19:17:17]</a>. If transmittance falls below a certain threshold (e.g., 1e-4) or opacity is too low (e.g., 1e-2), ray marching for that segment can be terminated <a class="yt-timestamp" data-t="19:34:34">[19:34:34]</a> <a class="yt-timestamp" data-t="36:43:43">[36:43:43]</a>.
+### Performance Benchmarks
+Nerfack demonstrates significant speed improvements while maintaining or improving quality (measured by PSNR - Peak Signal-to-Noise Ratio) <a class="yt-timestamp" data-t="00:41:40">[00:41:40]</a>.
+*   **Static Scenes**: For a standard NeRF model (8-layer MLP) on datasets like "Lego" and "Drum," Nerfack can train a model in about 4 minutes, compared to two days for vanilla NeRF <a class="yt-timestamp" data-t="00:41:20">[00:41:20]</a>.
+*   **Dynamic Scenes**: For dynamic scenes (e.g., D-NeRF synthetic dataset with moving figures), Nerfack can train in approximately one hour, a significant reduction from two days <a class="yt-timestamp" data-t="00:46:36">[00:46:36]</a> <a class="yt-timestamp" data-t="00:48:08">[00:48:08]</a>.
+*   **Memory Footprint**: Training memory footprint is around 10-11 gigabytes, making it compatible with high-end consumer GPUs <a class="yt-timestamp" data-t="00:40:20">[00:40:20]</a>.
 
-#### Coarse-to-Fine Sampling
-Instead of uniformly sampling points along a ray, a "coarse-to-fine" approach involves first sampling a small number of points to identify regions of high opacity, and then densely sampling around those regions (e.g., the surface of an object) <a class="yt-timestamp" data-t="42:22:22">[42:22:22]</a> <a class="yt-timestamp" data-t="42:42:42">[42:42:42]</a> <a class="yt-timestamp" data-t="43:05:05">[43:05:05]</a>.
+### [[comparison_with_neural_radiance_fields_nerf | Comparison with Neural Radiance Fields NeRF]] Models
+Nerfack is compared against models like Instant NGP and MIP-NeRF 360, showing comparable or better performance <a class="yt-timestamp" data-t="00:43:31">[00:43:31]</a>. Instant NGP, for example, uses background augmentation techniques (changing the background of training images using the alpha channel) to improve its NeRF <a class="yt-timestamp" data-t="00:44:15">[00:44:15]</a>.
 
-### Differentiable Rendering
-
-[[Ray marching and differentiable rendering | Differentiable rendering]] is the process of accumulating the color and opacity of the samples along the rays into pixel colors <a class="yt-timestamp" data-t="26:31:31">[26:31:31]</a>. For each point along a ray, the neural network samples the color (RGB) and the alpha (see-throughness/opacity) <a class="yt-timestamp" data-t="07:12:12">[07:12:12]</a> <a class="yt-timestamp" data-t="07:22:22">[07:22:22]</a>. These values are then combined (summed up based on their opacity and transmittance) to determine the final pixel color <a class="yt-timestamp" data-t="08:00:00">[08:00:00]</a> <a class="yt-timestamp" data-t="08:10:10">[08:10:10]</a> <a class="yt-timestamp" data-t="16:57:57">[16:57:57]</a>.
-
-The differentiability of this function allows for gradient descent training to minimize errors between observed and rendered images <a class="yt-timestamp" data-t="08:38:38">[08:38:38]</a> <a class="yt-timestamp" data-t="38:12:12">[38:12:12]</a>.
-
-#### Beyond Color and Opacity
-[[Neural radiance fields | NeRFs]] are not limited to predicting only color and opacity. The neural network can be extended to predict an arbitrary number of properties, such as specularity, roughness, or even future physics-based properties like hardness or elasticity <a class="yt-timestamp" data-t="27:35:35">[27:35:35]</a> <a class="yt-timestamp" data-t="27:50:50">[27:50:50]</a> <a class="yt-timestamp" data-t="28:04:04">[28:04:04]</a>.
-
-## Nerfack Technical Details and Features
-
-### Optimization Strategies
-Nerfack uses clever mapping to optimize GPU utilization. Since the number of valid samples can be much larger than the number of rays, Nerfack hypothesizes and implements parallelization across samples to get the best performance <a class="yt-timestamp" data-t="24:04:04">[24:04:04]</a> <a class="yt-timestamp" data-t="24:11:11">[24:11:11]</a> <a class="yt-timestamp" data-t="24:31:31">[24:31:31]</a> <a class="yt-timestamp" data-t="24:43:43">[24:43:43]</a>.
-
-### Scene Types
-
-*   **Bounded Scenes:** The entire scene to be rendered is an object confined within a specific 3D volume <a class="yt-timestamp" data-t="25:18:18">[25:18:18]</a> <a class="yt-timestamp" data-t="25:21:21">[25:21:21]</a>.
-*   **Unbounded Scenes:** Scenes that extend to "infinity," like a backyard, where points can be very far from the camera and cannot be constrained to a specific volume <a class="yt-timestamp" data-t="25:52:52">[25:52:52]</a> <a class="yt-timestamp" data-t="26:01:01">[26:01:01]</a>. Nerfack incorporates the scene contraction idea from MIP-NeRF 360, applying a nonlinear function to map unbounded space into a finite grid <a class="yt-timestamp" data-t="25:10:10">[25:10:10]</a> <a class="yt-timestamp" data-t="25:12:12">[25:12:12]</a> <a class="yt-timestamp" data-t="26:21:21">[26:21:21]</a>.
-*   **Dynamic Scenes:** Scenes where objects move over time, requiring an additional time dimension variable for the neural network <a class="yt-timestamp" data-t="46:58:58">[46:58:58]</a> <a class="yt-timestamp" data-t="47:15:15">[47:15:15]</a> <a class="yt-timestamp" data-t="47:48:48">[47:48:48]</a>. For [[dynamic_3d_gaussian_technique | dynamic scenes]], the [[occupancy_grid | occupancy grid]] is shared across all frames, storing the maximum opacity of an area over all timestamps <a class="yt-timestamp" data-t="46:17:17">[46:17:17]</a> <a class="yt-timestamp" data-t="46:23:23">[46:23:23]</a>.
-
-### Core Functions
-
-Nerfack requires users to define two key functions: `Sigma FN` and `RGB Sigma FN`.
-
-*   **`Sigma FN`**: Given the start and end of a sample interval along a ray, and specific ray indices, this function queries the radiance field for the density (opacity) at those positions <a class="yt-timestamp" data-t="30:50:50">[30:50:50]</a> <a class="yt-timestamp" data-t="32:28:28">[32:28:28]</a> <a class="yt-timestamp" data-t="32:56:56">[32:56:56]</a>. Density primarily depends on the XYZ position, not the view angle <a class="yt-timestamp" data-t="34:19:19">[34:19:19]</a> <a class="yt-timestamp" data-t="34:36:36">[34:36:36]</a>.
-*   **`RGB Sigma FN`**: Similar to `Sigma FN`, but it also queries the radiance field for the RGB color at the given positions. For color prediction, the network needs to be conditioned on the direction (view angle) of the ray, as the apparent color can change based on the viewing angle due to view-dependent effects <a class="yt-timestamp" data-t="33:27:27">[33:27:27]</a> <a class="yt-timestamp" data-t="34:06:06">[34:06:06]</a> <a class="yt-timestamp" data-t="34:51:51">[34:51:51]</a>.
-
-### Performance Metrics
-
-The quality of reconstructed images in [[neural_radiance_fields | NeRFs]] is often measured using PSNR (Peak Signal-to-Noise Ratio), which quantifies reconstruction quality for images and videos subject to lossy compression <a class="yt-timestamp" data-t="11:42:42">[11:42:42]</a> <a class="yt-timestamp" data-t="12:03:03">[12:03:03]</a>.
-
-## Comparison to Other Techniques
-
-### Voxel-based Radiance Fields
-[[Neural radiance fields | NeRFs]] that are voxel-based are generally less flexible than MLP-based ones, as they typically apply only to a single static scene <a class="yt-timestamp" data-t="04:35:35">[04:35:35]</a> <a class="yt-timestamp" data-t="04:37:37">[04:37:37]</a> <a class="yt-timestamp" data-t="05:51:51">[05:51:51]</a>. Voxels involve breaking up a 3D space into smaller volumetric squares <a class="yt-timestamp" data-t="04:43:43">[04:43:43]</a> <a class="yt-timestamp" data-t="04:54:54">[04:54:54]</a>. Alternatives like Octrees offer variable resolution voxels, allowing more detail in areas with information <a class="yt-timestamp" data-t="05:07:07">[05:07:07]</a> <a class="yt-timestamp" data-t="05:18:18">[05:18:18]</a>.
-
-### Instant NGP
-The [[3d_gaussian_splatting_for_realtime_radiance_field_rendering | Instant NGP]] paper, often referenced for its speed improvements in [[comparison_of_3d_gaussian_splatting_to_neural_radiance_fields | radiance field rendering]], uses the alpha channel in images to apply random background augmentation. This data augmentation technique helps regularize the training and improves the overall NeRF quality <a class="yt-timestamp" data-t="44:15:15">[44:15:15]</a> <a class="yt-timestamp" data-t="44:18:18">[44:18:18]</a> <a class="yt-timestamp" data-t="45:05:05">[45:05:05]</a> <a class="yt-timestamp" data-t="45:20:20">[45:20:20]</a> <a class="yt-timestamp" data-t="45:27:27">[45:27:27]</a>.
-
-### Deep Learning Frameworks
-Nerfack is built using PyTorch <a class="yt-timestamp" data-t="09:57:57">[09:57:57]</a>. PyTorch has seen a significant increase in popularity, surpassing TensorFlow since around 2020 <a class="yt-timestamp" data-t="10:40:40">[10:40:40]</a> <a class="yt-timestamp" data-t="10:46:46">[10:46:46]</a> <a class="yt-timestamp" data-t="10:53:53">[10:53:53]</a>. Frameworks like JAX also aim to optimize GPU usage through features like `pmap` (parallel mapping), which compiles and executes functions in parallel across devices <a class="yt-timestamp" data-t="22:34:34">[22:34:34]</a> <a class="yt-timestamp" data-t="23:29:29">[23:29:29]</a> <a class="yt-timestamp" data-t="23:43:43">[23:43:43]</a>.
+## Practical Demonstration
+The process of using Nerfack involves:
+1.  **Setting up a Python Virtual Environment**: This isolates project dependencies <a class="yt-timestamp" data-t="00:49:36">[00:49:36]</a>.
+2.  **Cloning the Repository**: Obtaining the Nerfack codebase <a class="yt-timestamp" data-t="00:51:36">[00:51:36]</a>.
+3.  **Installing Dependencies**: Using `pip install nerfack` and additional libraries like `imageio` and `tqdm` <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>.
+4.  **Resolving CUDA Issues**: Potential compatibility issues between PyTorch and the installed CUDA version might require specific PyTorch versions or environment variable adjustments <a class="yt-timestamp" data-t="00:54:40">[00:54:40]</a>.
+5.  **Downloading Data**: NeRF models are trained on hundreds of pictures from various camera poses, which are typically downloaded as a dataset (e.g., Nerf Synthetic dataset containing objects like a Lego truck) <a class="yt-timestamp" data-t="01:00:31">[01:00:31]</a>.
+6.  **Running Training**: Executing a training script with specified parameters (e.g., scene, train/test split, learning rate, epochs) <a class="yt-timestamp" data-t="01:23:08">[01:23:08]</a>.
+7.  **Monitoring and Visualization**: Observing GPU utilization, training progress, and output images (color image and opacity mask) <a class="yt-timestamp" data-t="01:16:54">[01:16:54]</a>. Even with reduced training steps, a basic output can be quickly generated, demonstrating the efficiency of the acceleration <a class="yt-timestamp" data-t="01:27:11">[01:27:11]</a>.
