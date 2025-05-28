@@ -17,8 +17,9 @@ import os
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
-from typing import List, Literal, Union
+from typing import List, Literal, Tuple, Union
 
+import numpy as np
 import openai
 import sieve
 import webvtt
@@ -226,21 +227,44 @@ def seconds_to_hms(seconds: Union[float, int]) -> str:
     return f"{h:02}:{m:02}:{s:02}"
 
 
+def _embed(texts: List[str]) -> np.ndarray:
+    resp = openai_client.embeddings.create(model="text-embedding-3-small", input=texts)
+    # keep order: resp.data is a list of objects each with .index, .embedding
+    return np.array([d.embedding for d in sorted(resp.data, key=lambda x: x.index)])
+
+
 def write_post(
     topic: str,
     subtitles: List[Subtitle],
-    reference_files: list[tuple[str, str]],  # <-- new
+    reference_files: List[Tuple[str, str]],
+    top_k: int = 10,  # ← new arg, default 10
 ) -> str:
+    # --- 1. Build subtitle and backlink strings as before ---------------
     joined_subs = "\n".join(f"{seconds_to_hms(s.start)}. {s.text}" for s in subtitles)
+
+    # --- 2. Compute embeddings -----------------------------------------
+    titles = [title for _, title in reference_files]
+    title_vecs = _embed(titles)  # shape = (N, 1536)
+    topic_vec = _embed([topic])[0]  # shape = (1536,)
+
+    # --- 3. Similarity & top-k -----------------------------------------
+    sims = title_vecs @ topic_vec  # dot == cosine
+    top_idx = sims.argsort()[::-1][:top_k]  # indices of k highest scores
+
+    # keep only the k best reference_files **and** skip identical titles
+    filtered_refs = [
+        reference_files[i] for i in top_idx if reference_files[i][1] != topic
+    ]
+
     backlink_topics = "\n".join(
-        f"{title} – [[{fname}]]" for fname, title in reference_files if title != topic
+        f"{title} – [[{fname}]]" for fname, title in filtered_refs
     )
 
-    completion = gemini_client.chat.completions.create(
-        # model="gpt-4o",
-        model="gemini-2.5-flash-preview-05-20",
-        # model="gemini-2.0-flash",
-        reasoning_effort="low",
+    # --- 4. Call Gemini (unchanged) ------------------------------------
+    completion = openai_client.chat.completions.create(
+        # model="gemini-2.5-flash-preview-05-20",
+        model="gpt-4o",
+        # reasoning_effort="low",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT_POST},
             {
@@ -253,6 +277,7 @@ def write_post(
             },
         ],
     )
+    print("Wrote post: ", topic)
     return _remove_main_header(completion.choices[0].message.content)
 
 
@@ -431,6 +456,7 @@ def write_directory_post(all_posts: List[Post], username):
         "isodate",
         "google-api-python-client",
         "PyGithub",
+        "numpy",
     ],
 )
 def get_items(
