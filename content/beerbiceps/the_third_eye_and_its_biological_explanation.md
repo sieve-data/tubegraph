@@ -1,0 +1,28 @@
+---
+title: The third eye and its biological explanation
+videoId: 4uM6DVY3w6I
+---
+
+From: [[beerbiceps]] <br/> 
+
+The activation of the [[The third eye and its biological explanation | third eye]] is considered powerful, enabling one to "see beyond what you can see physically" <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. Dr. Tam, a psychic, explains that it is a central concept in spirituality, connected to intuition and broader realms of existence <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>.
+
+## What is the Third Eye?
+
+In the spiritual context, the [[The third eye and its biological explanation | third eye]] is the seat of all our senses, including sight, feeling, taste, and hearing <a class="yt-timestamp" data-t="01:03:07">[01:03:07]</a>. It is described as the "seat of awareness" and the "emotional self" <a class="yt-timestamp" data-t="01:13:05">[01:13:05]</a>. Intuition, a core component of this faculty, is understood as the "voice of the soul," guiding individuals according to a pre-birth "master plan" or "blueprint" created by the soul <a class="yt-timestamp" data-t="01:12:21">[01:12:21]</a>. This blueprint guides the soul's journey, but human experiences such as societal pressures, religious backgrounds, and personal traumas can distract from it <a class="yt-timestamp" data-t="01:16:16">[01:16:16]</a>. The soul, however, constantly "nudges" individuals back towards their intended path, which is experienced as a "gut feeling" or intuition <a class="yt-timestamp" data-t="01:16:36">[01:16:36]</a>.
+
+## Biological and Scientific Perspective
+
+From a biological and scientific standpoint, the [[The third eye and its biological explanation | third eye]] is linked to the pituitary gland and the pineal gland <a class="yt-timestamp" data-t="01:14:44">[01:14:44]</a>. The occipital gland, located at the tip of the spine, is also mentioned as storing memories and experiences of the soul, functioning like a "chip" within the human brain that affects both the astral and spiritual bodies <a class="yt-timestamp" data-t="01:18:32">[01:18:32]</a>.
+
+The psychic abilities associated with the [[The third eye and its biological explanation | third eye]], such as "Clairaudient" (hearing information) and "Clairvoyant" (seeing), manifest through this activated center <a class="yt-timestamp" data-t="01:14:14">[01:14:14]</a>. Dr. Tam emphasizes that "Psy" in Greek means soul, and just as psychologists study the emotional body and psychiatrists study chemical imbalances, a psychic studies the "soul body or the soul energy" <a class="yt-timestamp" data-t="01:09:40">[01:09:40]</a>. This perspective integrates psychic abilities into a scientific framework, viewing humans as "multi-dimensional beings" with physical, mental, emotional, and psychic (soul) bodies <a class="yt-timestamp" data-t="01:10:23">[01:10:23]</a>.
+
+## Activation and its Implications
+
+Dr. Tam's own [[The third eye and its biological explanation | third eye]] was opened at the age of nine <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>, a process that was painful but allowed her to "see beyond what your eyes can see" <a class="yt-timestamp" data-t="01:09:54">[01:09:54]</a>. This included witnessing "cosmic wars" between angelic and demonic realms <a class="yt-timestamp" data-t="01:27:46">[01:27:46]</a>, and encountering various [[interaction_with_higher_beings_and_entities | spirits]], [[occult_experiences_and_belief_in_ghosts | ghosts]], [[demonology_and_its_implications | entities]], and both positive and negative tantric forces <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>.
+
+### Risks and Challenges
+Opening the [[The third eye and its biological explanation | third eye]] is "not everyone's cup of tea" <a class="yt-timestamp" data-t="01:15:31">[01:15:31]</a>, as it can be very challenging and dark <a class="yt-timestamp" data-t="01:15:42">[01:15:42]</a>. Individuals may see things they are "not supposed to see" <a class="yt-timestamp" data-t="01:15:48">[01:15:48]</a>, and at a young age, Dr. Tam experienced "psychic attacks" and "tantric attacks" where negative forces attempted to capture her soul <a class="yt-timestamp" data-t="01:16:11">[01:16:11]</a>. This highlights the need for protection and specific healing techniques to manage such experiences <a class="yt-timestamp" data-t="01:12:12">[01:12:12]</a>. The existence of "walk-ins" (positive beings temporarily replacing the soul) and "entities" (negative beings that stay in the body) further complicates the experiences of an open [[The third eye and its biological explanation | third eye]] <a class="yt-timestamp" data-t="01:12:21">[01:12:21]</a>.
+
+### Higher Faculties and [[Human evolution and scientific perspectives | Human Evolution]]
+The opening of the [[The third eye and its biological explanation | third eye]] is seen as a precursor to activating the crown chakra, which represents the highest faculties of the brain <a class="yt-timestamp" data-t="01:15:17">[01:15:17]</a>. This progression suggests a path towards higher consciousness and is considered part of the next stage of [[human_evolution_and_scientific_perspectives | human evolution]] <a class="yt-timestamp" data-t="01:04:47">[01:04:47]</a>. Practitioners like Dr. Tam believe that the spiritual realm, while often met with skepticism, is rooted in scientific principles and can be empirically experienced <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. She has even participated in [[introduction_to_neuroscience_and_its_practical_applications | neuroscience]]-based experiments to demonstrate the ability to manipulate one's own aura and vibrational frequency <a class="yt-timestamp" data-t="01:04:03">[01:04:03]</a>.
