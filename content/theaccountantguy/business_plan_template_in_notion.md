@@ -5,39 +5,53 @@ videoId: aqBv6xCSLcU
 
 From: [[theaccountantguy]] <br/> 
 
-The business plan template in Notion is designed to help organize and streamline the planning process for your business <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. It offers two main views: the Business Plan Roadmap and the Events Timeline <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+The Business Plan Template in Notion is a tool designed to assist in planning for a business <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This template helps users manage various aspects of business planning and track progress effectively <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. It is an example of [[creating_and_using_notion_templates | creating and using Notion templates]] for specific business needs and can be used for [[using_notion_for_business_tracking | business tracking]].
 
-## Business Plan Roadmap
+## Key Views
 
-The Business Plan Roadmap divides the entire business planning process into distinct stages <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. The template comes with 11 predefined stages <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>, including:
-*   Conception and Research <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>
-*   Planning and Structuring <a class="yt="yt-timestamp" data-t="00:00:35">[00:00:35]</a>
+The template offers two primary views to organize and visualize your business plan <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>:
+1.  Business Plan Roadmap <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>
+2.  Events Timeline <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>
+
+### Business Plan Roadmap
+
+This view divides the entire business planning process into distinct stages <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. The template pre-defines 11 stages, each with a specific name <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
+
+Examples of stages include:
+*   Conceptional Research <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>
+*   Planning and Structuring <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>
 *   Profitability and Scaling <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>
 
-You can customize these stages by clicking on the pencil icon to edit the roadmap as needed <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+Users can customize or edit these stages using an edit icon <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
 
-### Defining Objectives and Tracking Progress
-For each business plan, you can define specific objectives <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>, specify which stage the plan corresponds to <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>, and track a completion percentage <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+#### Defining Objectives and Tasks
 
-### Stage Details and Task Management
-Clicking on any stage in the roadmap reveals a detailed view <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. Here, you'll find:
-*   **Associated Tasks**: Tasks specific to that stage, for example, "Conception and Research" might have two tasks <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
-*   **Deadlines**: A specified deadline for each task <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
-*   **Completion Status**: A checkbox to mark tasks as completed <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
-*   **Task Status**: An option to assign a status (e.g., "Not Started," "In Progress," "Completed") <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
-*   **Adding New Tasks**: A "New" icon allows you to add additional tasks for the specific stage <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
-*   **Documentation**: A section at the bottom for detailed objectives and tasks, providing more information about that stage of business planning <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
+Within each stage, users can define specific objectives for the business plan <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. Each objective can be linked to its corresponding stage <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
 
-### Automatic Completion Percentage Update
-As tasks are marked as complete within a stage, the completion percentage for that stage automatically updates <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. For instance, if a stage has two tasks and one is completed, the status will show 50% complete <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. Completing both tasks will update it to 100% <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. This percentage is visible at the top of the stage view <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+Associated with each stage are various tasks <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. For each task, the following details can be specified:
+*   **Deadline:** When the task is due <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+*   **Completion Status:** A checkbox indicates if a task is completed <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
+*   **Task Status:** Users can assign a specific status to each task <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+*   **Adding New Tasks:** New tasks can be added for any specific stage <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
 
-## Events Timeline
+#### Documentation and Progress Tracking
 
-The Events Timeline view presents all the planned stages and tasks in a calendar and timeline format <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. This view displays:
-*   **Specific Deadline Dates**: Shows the timeline set for each stage, such as "December 3 to December 20" <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
-*   **Stage Name and Associated Task**: Displays the stage name and tasks linked to it <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
-*   **Date and Status**: Includes the dates and current status for each task <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
+At the bottom of each stage's detailed view, there is a documentation section where objectives and tasks can be described in detail <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
 
-This view provides a quick overview of all planned activities <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. Arrows on the timeline also reflect dates, and clicking on them will take you to the specific date and show details of all stages and their associated properties <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+The template automatically calculates the completion percentage for each stage <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. When tasks are marked as complete, this percentage updates automatically <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>. For example, if two tasks are defined and one is completed, the stage shows 50% completion <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
 
-This template is designed to help you start planning your business effectively <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. For questions, you can contact notionformy@gmail.com <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. The download link for the template is provided in the video description <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>.
+### Events Timeline
+
+The Events Timeline view presents all planned stages and tasks in a calendar and timeline format <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
+
+This view shows:
+*   Specific deadline dates for stages <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
+*   The timeline set for specific stages <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
+*   The stage name and associated tasks for each stage <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+*   Dates and status for each task <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
+
+Arrows within the timeline reflect the dates, and clicking them navigates to the specific date and shows details of all stages and their properties <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+
+---
+> [!NOTE]
+> For questions about the template, you can contact the creator at notionformy@gmail.com <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. A link to download the template is typically provided in the video's description box <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.

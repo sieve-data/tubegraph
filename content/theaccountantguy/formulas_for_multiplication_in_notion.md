@@ -5,21 +5,25 @@ videoId: 13jgGp1PbPo
 
 From: [[theaccountantguy]] <br/> 
 
-Within a Notion database, it is possible to [[calculating_product_of_numbers_in_notion | calculate the product of two numbers]] using [[using_formulas_in_notion | formulas]] <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. Two distinct formulas can be used to achieve this <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+To [[calculating_product_of_two_numbers_in_notion | calculate the product of two numbers]] within a database in Notion, two different formulas can be utilized <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
 
 ## Database Setup
-To calculate the product, a database is typically structured with at least the following properties:
-*   A "Title" property for the name of the operator, often labeled as the [[using_multiply_operator_in_notion | multiply operator]] <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
-*   Two "Number" properties, each assigned to one of the numbers intended for multiplication <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
 
-## Methods for Multiplication
+A typical database for this calculation would include:
+*   An operator name property (set as a title property) <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+*   Two number properties for the input numbers <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+*   Formula properties to display the product <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
 
-### 1. The Multiply Operator Formula
-This method involves using a dedicated [[using_multiply_operator_in_notion | multiply operator]] formula. The two numbers are provided as inputs to this formula to [[calculating_product_of_numbers_in_notion | calculate their product]] <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+For example, if numbers 2 and 3 are provided as input, the product would be 6 <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
 
-*   **Example**: If the input numbers are 2 and 3, the [[using_multiply_operator_in_notion | multiply operator]] formula will yield a product of 6 <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+## Formula Methods
+
+### 1. Using the Multiply Operator Formula
+
+One method involves using the specific [[using_multiply_operator_in_notion | multiply operator formula]] <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. In this approach, the two numbers are provided as input to the formula to calculate their product <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
 
 ### 2. Using the Multiply Symbol
-Another formula allows for direct multiplication by placing the multiply symbol (`*`) between the two numbers <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. This method is similar to [[using_excelstyle_formulas_in_notion | Excel-style formulas]].
 
-Both of these [[using_formulas_in_notion | formulas]] can be employed to [[calculating_product_of_numbers_in_notion | calculate the product of two numbers]] in Notion <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+Alternatively, the product can be calculated by simply placing the [[using_symbols_in_notion_formulas | multiply symbol]] (e.g., `*`) in between the two numbers within a formula <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+
+Both of these formulas can be used to calculate the product of two numbers in Notion <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.

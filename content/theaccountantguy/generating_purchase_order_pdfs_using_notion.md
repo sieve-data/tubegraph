@@ -1,79 +1,76 @@
 ---
 title: Generating purchase order PDFs using Notion
-videoId: 70hk3h7f_o8
+videoId: hfHjnNxqo4o
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-This article details the process of [[generating_pdf_documents_with_notion | generating PDF documents]] for [[using_notion_to_manage_purchase_orders | purchase orders]] using a Notion database and template, leveraging the PDFOutput.com service <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>.
+This article outlines how to [[generating_purchase_order_pdf_documents_using_notion | generate purchase order PDF documents]] in bulk using a Notion page and a Notion database with PDFOutput.com <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
 
-## Getting Started with PDFOutput.com
+## Template and Database Setup
 
-To begin, log into PDFOutput.com <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. The interface will display options for a connection name, Notion database, and Notion template <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+### Purchase Order Template
+The purchase order template includes fields such as purchase order number, date, supplier, and buyer name <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. Key items intended for replacement by database data are placed inside curly braces (e.g., `{purchase order number}`, `{date field}`) <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. These curly-braced items will be automatically replaced with corresponding values from the Notion database <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
 
-### Accessing Predefined Templates
+### Notion Database
+The Notion database is structured to mirror the fields defined in the template, using the exact same naming conventions <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. Each row in the database represents a distinct purchase order, and values are placed for every field <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. PDFOutput will then [[bulk_pdf_generation_from_notion_databases | generate a PDF document for each of these rows]] <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
 
-On the right sidebar, click on "Templates" <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. This will load a list of predefined templates available for [[pdf_document_generation_from_notion | PDF document generation from Notion]], including [[creating_bulk_invoices_with_notion | invoices]], [[generating_payment_receipts_pdf_using_notion | payment receipts]], and [[using_the_purchase_order_tracker_template_in_notion | purchase orders]] <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. You can use the search icon to quickly find the "purchase order" template <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+## Step-by-Step Process for PDF Generation
 
-Once found, click the "Download" link next to the desired template <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. This opens a new page dedicated to the [[generating_and_exporting_pdf_documents_for_purchase_orders | purchase order PDF generator]], which includes both a database and a template <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
+### 1. Log In to PDFOutput.com
+Access the PDFOutput.com website and log in to your account <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. The interface will prompt you to connect a Notion database and a Notion template <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
 
-### Understanding the Notion Template and Database
+### 2. Access and Duplicate Templates
+Navigate to the "template" section on the right-side sidebar navigation <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. Here, you'll find a list of predefined templates <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
+1.  Search for the "purchase order" template using the search field <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
+2.  Click on both the database link and the template link provided <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
+3.  Click "Start with this template" to duplicate both the database and the template into your Notion workspace <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+    *   Select your preferred Notion workspace and click "Add to private" when prompted for duplication <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
 
-The purchase order template contains elements like purchase order number, date, supplier, buyer, and item description <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
-Elements enclosed in curly braces, such as `{{purchase order number}}` or `{{supplier name}}`, are placeholders that will be replaced by data from your Notion database <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
+### 3. Connect Notion to PDFOutput
+Once the templates are duplicated in Notion, return to PDFOutput.com <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
+1.  Click on either "click here to add database" or "click here to add template" <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+2.  Select your Notion workspace <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+3.  Choose the duplicated database and template from the list <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+4.  Click "Allow access" to authorize the connection <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+    *   If the database and template don't appear immediately, click the refresh button <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
 
-The accompanying Notion database contains columns like "Supplier Name," "Buyer Name," "Date," and "Purchase Order Number," with predefined values <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. Each row in the database will correspond to a separate PDF document generated <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+### 4. Map Elements and Generate PDFs
+1.  Define a name for your PDF generation setup (e.g., "Purchase Order") and click "Next" <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
+2.  PDFOutput will load database elements and template elements (those within curly braces) <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>.
+    *   **Automatic Mapping:** If the naming conventions in your Notion database exactly match the curly-braced fields in your template, the elements will map automatically <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
+    *   **Manual Mapping:** If names don't match, you'll see gray placeholders. Click on these and manually select the corresponding database element <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
+3.  Click "Create PDF" <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. PDFOutput will then process and [[generating_pdf_documents_with_notion_and_pdfoutput | generate the PDF documents]] for each row in your database <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
 
-## Duplicating to Your Notion Workspace
+### 5. Preview and Download
+Once the export is successful <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>:
+1.  Click "Preview sample" to view one of the generated PDFs <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
+2.  Click "Download all" to download all the generated PDF files <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. You can also click "Download PDF again" if you miss the initial download <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>.
 
-On the purchase order PDF generator page, you will find an option to "Duplicate" or "Start with this template" <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. Click this option to duplicate the page (including the template and database) into your Notion workspace <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. Select your desired Notion workspace when prompted <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
+## Customizing Templates and Best Practices
 
-## Connecting Notion to PDFOutput
+### Template Customization
+The entire template is customizable; you can edit, modify, or make any changes once it's duplicated to your Notion workspace <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. Ensure that any data you want to be replaced from the database is enclosed in curly braces <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
 
-After duplicating the template to your workspace:
-1.  Go back to PDFOutput.com and navigate to the "Settings" section <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
-2.  Here, you can select the desired page format for your PDFs (e.g., A4, Letter) <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
-3.  Click "Click here to add templates" <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
-4.  A new window will open asking you to connect your Notion workspace <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. Select the workspace where you duplicated the template <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
-5.  Click "Select Pages" and choose the "Purchase Order PDF Generator" page (which contains both the database and template) <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
-6.  Click "Allow access" to connect the page with PDFOutput <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. Wait for the authentication to be successful <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+### Naming Conventions
+It is crucial to use the exact same naming convention for fields in both the Notion template (within curly braces) and the Notion database <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. This ensures automatic mapping within PDFOutput, saving time and preventing errors <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
 
-## Mapping Database Properties to Template Placeholders
+### Handling Relation Properties
+If your Notion database uses any relation properties, make sure to grant access to those related databases when connecting Notion to PDFOutput <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. This ensures all elements are correctly reflected in the generated PDF <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
 
-Once the connection is established and the database and template elements are loaded:
-1.  On the PDFOutput interface, select the "Purchase Order database" from the first dropdown menu <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
-2.  From the second dropdown, select the "Template page" within your "Purchase Order PDF Generator" <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
-3.  Give your connection a name, e.g., "Purchase Order" <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
-4.  Click "Next" <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>.
+## PDFOutput Features and Support
 
-PDFOutput will automatically match most of the database properties (Notion properties) to the template elements <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>.
-You might find some elements unmatched, often due to minor discrepancies like extra spaces in names <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>.
-To identify unmatched properties, use the "Filter unmapped properties" option <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. Manually select the corresponding database property for any unmapped template element <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
+### Connections
+The "Connections" option allows you to quickly re-load previously set up database and template pairings <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. This avoids the need to repeatedly select the database and template for subsequent exports <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>.
 
-<br>
+### Upgrade Options
+Under the free plan, generated documents will include a "Made with PDF Output" watermark <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>. You can upgrade to a paid subscription to remove the watermark and remove limits on PDF generation <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
 
-> [!CAUTION] Matching Names
-> Ensure that the names of your database columns exactly match the placeholder text within the curly braces in your Notion template (e.g., `TotalAmount` in the template should match `Total Amount` in the database if there's a space, or vice-versa) <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>. Mismatches can prevent correct linking, though they can be manually corrected in the mapping step <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
+### Settings
+The "Settings" section allows you to adjust the page format (default is A4) <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. You can also add additional databases and templates from here after your initial setup <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
 
-## Exporting and Reviewing PDFs
+### Feedback and Help
+*   **Feedback:** Use the "Feedback" option to report any issues or provide suggestions <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
+*   **Help:** The "Help" section contains a video demonstrating how to use a custom template from scratch, if you prefer not to use the predefined options <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>.
 
-Once all properties are correctly mapped, click "Export" <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>.
-PDFOutput will automatically add a "PDF Status" column to your Notion database. When a PDF document is generated for a row, this checkbox will be ticked <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. If you need to regenerate a PDF for a specific row, ensure this checkbox is unticked <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>.
-
-After successful export, you can preview a sample of the generated PDF <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>. The generated PDFs will reflect the data from your Notion database in the template structure <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
-Finally, you can [[generating_purchase_order_pdfs_in_bulk | download all the generated PDF documents]] <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
-
-## Customization and Other Features
-
-### Template and Database Customization
-Both the template and the database are fully customizable <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. You can add, delete, or modify any values and columns as per your requirements <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>. The key is to ensure that values meant to be replaced in the PDF are placed inside curly braces in the template and that their names match the database column names <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
-
-### PDFOutput Sidebar Options
-The PDFOutput sidebar provides several options:
-*   **Connections:** Stores previously generated PDF document connections, allowing you to quickly regenerate documents without re-filling database and page details <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>.
-*   **Upgrade:** Explains subscription plans. Free plans will have a watermark on generated templates, while paid plans will not <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
-*   **Settings:** Where you can define the page format for your PDFs and manage connected templates <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
-*   **Feedback:** An option to send feedback or report issues <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
-*   **Help:** Contains a complete demonstration video for setup and troubleshooting <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.
-
-For any specific PDF document generation needs or further assistance, you can reach out via email at `notionformyuse@gmail.com` <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>.
+For further questions or assistance, you can reach out via email at notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a>.

@@ -5,82 +5,82 @@ videoId: L97DyZ7U_VA
 
 From: [[theaccountantguy]] <br/> 
 
-To [[calculating_total_sales_using_sum_function_in_notion | calculate the sum of a column]] in Notion, especially when you need to use that sum for further calculations within the same database, a common method involves creating a secondary database and establishing relationships and rollups between them <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
+This article outlines how to calculate the sum of a column in Notion using relational databases, rollup properties, and formulas. It also demonstrates how to calculate percentages based on the total sum <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
 
-## Example Scenario
+## Initial Database Setup
 
-Consider a database listing salespeople in different rows, with an "adjustment" column showing their sales amounts <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. For example, Harry has $2,100, Eric has $3,400, and Peter has $5,400 <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. The goal is to see the total sum of these amounts (e.g., $10,900) in an adjacent column <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
+Start with a database that includes rows representing sales people and a column for their sales amounts <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. For example:
+*   Harry: $2,100
+*   Eric: $3,400
+*   Peter: $5,400
 
-## Steps to Calculate the Sum
+The goal is to sum these amounts, resulting in $10,900 <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
 
-### 1. Create a Secondary Database
+## Creating a Second Database for Total Sales
 
-*   Type `/database` to create a new database <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
-*   Name this database, for example, "Total Sales" <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
-*   Delete any default rows or columns that are not needed <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+1.  Create a new database by typing `/database` <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+2.  Name this new database "Total Sales" <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+3.  Delete any default rows in this new database <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
 
-### 2. Establish a Relationship Between Databases
+## Establishing a Relationship Between Databases
 
-*   In your *main* database, click the plus button to add a new column <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
-*   Select `Relation` as the property type <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
-*   Select your newly created "Total Sales" database <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
-*   Configure the relationship by naming the columns in both databases:
-    *   In the *main* database, name the column "Total Sales" <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
-    *   In the "Total Sales" database, name the corresponding column "Sales Details" <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
-*   Once created, new columns will appear in both databases <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
-*   In the *main* database, click on the "Total Sales" column cell for each entry and select the single entry from the "Total Sales" database (assuming you only have one entry to represent the overall total) <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. Copy this down to all rows <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. This links all sales entries to the single total sales record <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+To perform calculations across databases, you need to [[creating_a_database_in_notion_for_calculations | create a relationship]] between them <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
 
-### 3. Use Rollup to Calculate Sum in Secondary Database
+1.  In your *original* sales database, add a new property by clicking the `+` button <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
+2.  Select "Relation" as the property type <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+3.  Choose the "Total Sales" database to link to <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+4.  Configure the relationship properties:
+    *   In the original database, name the column "Total Sales" <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+    *   In the "Total Sales" database, name the corresponding column "Sales Details" <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
+5.  In the original sales database, click into the "Total Sales" column for each row and select the single entry from the "Total Sales" database. Copy this down to all rows <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This links all sales entries to the single "Total Sales" record <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
 
-*   In the "Total Sales" database, click the plus button to add a new column <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
-*   Select `Rollup` as the property type <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
-*   From the `Relationship` dropdown, select "Sales Detail" (this is the relationship pointing back to your main sales database) <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
-*   From the `Property` dropdown, select the "sales" value column from your main database <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. This will initially show individual values <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
-*   Under `Calculate`, select `Sum` <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. This will display the total sum of the sales column <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
-*   Name this column, for example, "Total Sales Rollup" <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
+## Calculating the Sum Using Rollup Properties
 
-### 4. Convert Rollup to Formula (Crucial Step)
+To get the sum into the "Total Sales" database:
 
-If you intend to use this summed value in the *main* database for further calculations, you cannot directly roll up a rollup property <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+1.  In the "Total Sales" database, add a new [[using_formulas_and_rollup_properties_in_notion | rollup property]] <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+2.  Select "Sales Details" as the relationship <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+3.  Select "Sales" as the property to roll up (assuming your sales column is named "Sales") <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+4.  Under "Calculate," choose "Sum" to aggregate all the sales values <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+5.  Name this column "Total Sales Rollup" <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. This column will now display the total sum of sales from your original database <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
 
-*   In the "Total Sales" database, add another property <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
-*   Name it, for example, "Total Sales" <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
-*   Change its type to `Formula` <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
-*   In the formula editor, simply reference the "Total Sales Rollup" property: `prop("Total Sales Rollup")` <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
-*   You can set the number format to Currency (e.g., Dollars) <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
+## Converting Rollup to a Formula Property
 
-### 5. Rollup the Formula Property into the Main Database
+A direct rollup of a rollup value is not possible in Notion <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. To use the "Total Sales Rollup" in another rollup, you must first convert it to a formula property.
 
-*   Go back to your *main* database.
-*   Add another property <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
-*   Select `Rollup` as the property type <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>.
-*   Select the "Total Sales" relationship again <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
-*   Under `Property`, you can now select the "Total Sales" *formula* property from your secondary database <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>.
-*   Under `Calculate`, select `Sum` (or `Show original` since there's only one value) <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. This will display the overall total sales amount in your main database <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
-*   Name this column, for example, "Sales (Total)" <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+1.  In the "Total Sales" database, add another new property <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
+2.  Name it "Total Sales" (or similar) and set its type to "Formula" <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+3.  In the formula editor, simply link to the "Total Sales Rollup" property (e.g., `prop("Total Sales Rollup")`) <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. This effectively copies the rollup value into a formula property <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+4.  Optionally, change the number format to currency (e.g., Dollars) <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
 
-## Further Calculations: Sales Percentage
+## Bringing the Total Sum Back to the Main Database
 
-Once you have the total sales in your main database, you can use [[using_formulas_in_notion | Notion formulas]] to perform further calculations, such as determining each salesperson's contribution as a percentage of the total sales <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+Now, bring the calculated total sum back to your original sales database for easy reference.
 
-### 1. Create a Formula Property for Percentage
+1.  In your *original* sales database, add another new [[using_formulas_and_rollup_properties_in_notion | rollup property]] <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+2.  Select "Total Sales" as the relationship <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+3.  For the property to roll up, select the newly created "Total Sales" *formula* property <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>.
+4.  Under "Calculate," choose "Sum" <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
+5.  Name this column "Sales Total" <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
 
-*   Add a new `Formula` property in your *main* database <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
-*   Name it, for example, "Sales in Percentage" <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>.
-*   The basic formula to divide an individual's sales by the total sales is: `prop("Sales") / prop("Sales (Total)")` <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
+You will now see the total sum of all sales duplicated in every row of your original sales database <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. Any changes to individual sales amounts will automatically update this total <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. This entire process demonstrates how to [[generating_and_managing_sum_function_results_in_notion | generate and manage SUM function results]] effectively across Notion databases.
 
-### 2. Round Decimals and Format as Percentage
+## Calculating Sales Percentage
 
-To format the percentage to two decimal places:
+You can use the total sales figure to [[calculating_percentages_in_notion | calculate percentages]] for each individual sale relative to the total.
 
-*   Multiply the result by 100, round it, and then divide by 100 <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
-*   The formula becomes: `round(prop("Sales") / prop("Sales (Total)") * 100) / 100` <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
-*   Finally, change the `Number format` of this property to `Percentage` <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
+1.  In your original sales database, add a new "Formula" property and name it "Sales in Percentage" <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+2.  Enter the following formula to divide individual sales by the total sales:
+    ```notion
+    prop("Sales") / prop("Sales Total")
+    ```
+    This formula uses the "Sales" property from your original database and the "Sales Total" rollup property you just created <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
+3.  To round the percentage to two decimal places, modify the formula:
+    ```notion
+    round(prop("Sales") / prop("Sales Total") * 100) / 100
+    ```
+    This involves [[formulas_for_multiplication_in_notion | multiplying]] by 100, rounding, and then dividing by 100 <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
+4.  Finally, edit the property by clicking on it, then change the "Number format" to "Percentage" <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+5.  Optionally, select "Bar" under "Show as" to visualize the percentage as a progress bar <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
 
-### 3. Customize with a Bar
-
-You can further enhance the visualization by selecting `Bar` as the `Show as` option within the property settings <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>. This provides a visual representation of each individual sales contribution relative to the total <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
-
-## Dynamic Updates
-
-Any changes made to the individual sales values in the main database will automatically update the total sales and percentage calculations, ensuring your data remains current <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
+Now, you have a dynamic percentage calculation and visual representation for each sale relative to the total, which automatically updates with any changes to the sales figures <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. This method effectively demonstrates [[using_formulas_to_add_numbers_in_notion | using formulas to add numbers in Notion]] (indirectly through the rollup and sum) and presents results clearly.

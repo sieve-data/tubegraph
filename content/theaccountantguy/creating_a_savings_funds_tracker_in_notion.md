@@ -5,84 +5,74 @@ videoId: 2jAIwjjVmdk
 
 From: [[theaccountantguy]] <br/> 
 
-The Notion savings funds tracker offers a comprehensive dashboard to monitor your financial goals <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This tool is designed to help users set savings targets and track their progress towards those goals <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
+This article details how to set up and manage a savings funds tracker within [[using_notion_for_financial_tracking | Notion]], designed to help users monitor their savings goals and contributions <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
 
-## Savings Funds Dashboard Overview
+## Savings Funds Dashboard
 
-The savings funds dashboard features two primary views:
-*   **Savings Target** This section allows you to define different saving funds and their corresponding target amounts, representing the total savings you aim to achieve <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
-*   **Savings Overview** This view provides a summary of how much you have saved in total against your set targets <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. It displays the total savings made, the overall targeted savings amount, and the percentage of the target achieved <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
+The savings funds dashboard features two primary views: the "Savings Target" and the "Savings Overview" <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
 
-## Managing Savings Targets
+### Savings Target
 
-The "Savings Target" view comes with pre-added default savings funds <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+The "Savings Target" view allows users to establish different saving funds and set a corresponding target or goal amount <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
 
-### Editing Existing Savings Funds
+#### Editing Existing Savings Funds
 
-To modify an existing savings fund:
-1.  Click the pencil icon next to the fund you wish to edit <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
-2.  Rename the saving fund (e.g., changing it to "car fund") <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
-3.  Set a new goal amount (e.g., from $2,500 to $3,000) <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
-    *   Any changes made here will automatically update in the "Savings Overview" <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
-    *   Alternatively, you can click directly on the entry to open up all editing options <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+By default, three savings funds are pre-added with goal amounts <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+To edit an existing saving fund:
+1.  Click the pencil button next to the fund <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+2.  Rename the saving fund (e.g., changing "Emergency Fund" to "Car Fund") <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+3.  Set the goal amount by clicking on the amount and entering a new value (e.g., changing $2,500 to $3,000) <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Changes automatically update in the savings overview <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+Alternatively, users can click directly on the fund entry to open detailed options, allowing editing of the name and goal amount from there <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
 
-### Adding New Savings Funds
+#### Adding New Savings Funds
 
-To add a new savings goal:
-1.  Click the "add savings" button <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. A new entry will appear below the existing ones <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
-2.  Click the pencil icon for the new entry to give it a name (e.g., "new saving fund") <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
-3.  Set your desired goal amount. By default, it might be $1,000, but you can change it to any amount, such as $10,000 <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
+To add a new savings fund:
+1.  Click the "Add Savings" button <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. A new entry will appear below the existing funds <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+2.  Click the pencil icon next to the new entry <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+3.  Give the new fund a name (e.g., "New Saving Fund") <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
+4.  Set the goal amount by clicking on the default $1,000 and entering the desired amount (e.g., $10,000) <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
 
-### Deleting Savings Funds
+#### Deleting Savings Funds
 
-If you need to remove a savings fund:
-1.  Click the six dots located on the left side of the specific saving fund entry <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
-2.  Select the "delete" option that appears <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. The fund will be automatically removed from the view <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+To delete an added saving fund:
+1.  Click the six dots located on the left of the fund entry <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
+2.  Select the "Delete" option <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. The fund will be removed from the view <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
 
-## Tracking Savings Transactions
+### Savings Overview
 
-To record contributions to your savings funds, use the transactions panel at the bottom of the dashboard <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
+The "Savings Overview" provides a summary of savings progress <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. It displays the total amount saved, the overall targeted savings amount, and the percentage of the target achieved <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
+
+## Transactions Panel
+
+The transactions panel, located at the bottom of the tracker, is used to record contributions to specific savings funds <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
 
 ### Adding New Transactions
 
-1.  Click the "add transaction" button <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. A new transaction entry will appear with the current system date <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
-2.  Transactions are grouped by month, with the latest month appearing at the top <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>.
-3.  You can adjust the date of the transaction using the calendar pop-up <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
+To add a new savings transaction:
+1.  Click the "Add Transaction" button <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. A new transaction will appear with the current date <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+2.  All transactions are organized by month, with the latest month appearing at the top <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>. The date can be changed using the calendar window <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
+3.  Enter a description for the transaction (e.g., "saving for car fund") <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
+4.  In the "Saving Fund" column, select the specific saving fund to which the contribution is being made (e.g., "Car Fund") <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+5.  Enter the saving amount <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
 
-### Linking Transactions to Funds and Entering Amounts
+Once an amount is added, it automatically populates the total savings for that fund and updates the percentage achieved in the "Savings Overview" <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. For example, if a car fund had $1,400 saved and a $1,000 transaction is added, the total savings becomes $2,400, reflecting an 80% achievement towards a $3,000 goal <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. This provides a dynamic overview of savings progress <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>.
 
-1.  Enter a description for the transaction, such as "saving for car fund" <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
-2.  In the "saving fund" column, click to select the specific fund this transaction contributes to (e.g., "car fund") <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
-3.  Enter the saving amount. This amount will automatically update the total savings displayed in the "Savings Overview" <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
-    *   For example, if your "car fund" had $1,400 saved and you add $1,000, the total will update to $2,400 out of a $3,000 goal, reflecting 80% achievement <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
+### Grouping Transactions
 
-## Customization and Additional Features
+The transaction view can be grouped by different timeframes:
+1.  Click the three dots in the transaction view <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
+2.  Under "Grouping," select "By Date" <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
+3.  Choose to group by month (default), week, or year <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>. This dynamically changes how savings contributions are displayed <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
 
-This Notion tracker is highly dynamic and customizable.
+## Customization and Support
+
+The tracker is completely dynamic and customizable to suit individual requirements <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>.
 
 ### Currency Customization
 
-The tracker supports different currencies <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. To change the currency:
-1.  Click on any amount field that displays currency (e.g., the dollar sign) <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>.
-2.  Select "edit property" <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
-3.  Choose from the various number formats and currencies supported by Notion <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. Assistance is available for setting up the template in a different currency post-purchase <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+The currency displayed in the tracker can be changed <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+1.  Click on any amount displaying the dollar currency <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
+2.  Select "Edit Property" <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
+3.  Choose a different currency from the "Number Format" options, as [[using_notion_for_financial_tracking | Notion]] supports various currencies <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. Assistance is available for setting up the template with a different currency post-purchase <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>.
 
-### Dynamic Grouping of Transactions
-
-The transaction view can be grouped by different timeframes:
-1.  Click on the three dots next to the transaction view <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
-2.  Under "grouping," you can see that it's initially set to group by "date" <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
-3.  Click on the date property settings to change the grouping to "week" or "year" instead of "month" <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>. This will dynamically adjust how your savings transactions are displayed <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
-
-This tracker is fully customizable to suit individual requirements <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
-
-For more information on Notion finance templates, you might also be interested in:
-*   [[how_to_build_a_sinking_funds_tracker_in_notion | How to build a Sinking Funds Tracker in Notion]]
-*   [[tracking_personal_finances_in_notion | Tracking personal finances in Notion]]
-*   [[building_an_income_tracker_in_notion | Building an income tracker in Notion]]
-*   [[building_a_net_worth_tracker_using_notion | Building a net worth tracker using Notion]]
-*   [[how_to_build_an_expense_tracker_in_notion | How to build an expense tracker in Notion]]
-*   [[setting_and_editing_savings_goals_in_notion | Setting and editing savings goals in Notion]]
-*   [[emergency_funds_setup_using_notion | Emergency funds setup using Notion]]
-*   [[setting_up_a_home_inventory_tracker_in_notion | Setting up a home inventory tracker in Notion]]
-*   [[setting_up_a_customer_payments_tracker_in_notion | Setting up a customer payments tracker in Notion]]
+For any further questions regarding this tracker, users can reach out to "for my use@gmail.com" for assistance <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>.

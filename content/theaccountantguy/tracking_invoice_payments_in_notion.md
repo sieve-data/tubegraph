@@ -4,58 +4,50 @@ videoId: IK71-I_O7Vg
 ---
 
 From: [[theaccountantguy]] <br/> 
-This article details how to [[tracking_invoice_payments_in_notion | track invoice payments in Notion]] using a dedicated template and how to generate corresponding PDF documents.
 
-## Invoice Payment Tracker Template in Notion
-The Notion template for [[tracking_invoice_payments_in_notion | tracking invoice payments]] provides a comprehensive system for managing invoices <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
+This article details a Notion template designed for [[managing_invoices_and_payment_statuses_in_notion | tracking invoice payments]] and provides a solution for generating PDF invoices.
 
-### Summary Sections
-The template features two main summary sections at the top:
-*   **Invoice Payment Summary** This section displays key performance indicators (KPIs) related to invoices, such as:
-    *   Total expenses incurred through invoices <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>
-    *   Total units purchased across all invoices <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>
-    *   Average invoice price <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>
-    *   These KPIs can be customized or updated <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
-*   **Client Summary** This section provides insights per client, including:
-    *   Total purchases made from each client <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>
-    *   Number of units purchased from each client <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>
-    *   Average purchase value from each client <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>
+## Notion Template Overview
+The Notion template offers a comprehensive system for [[managing_invoices_and_payment_statuses_in_notion | tracking invoice payments]] with a summary at the top and a detailed database below <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+
+### Invoice Payment Summary (KPIs)
+The top section of the template provides key performance indicators (KPIs) related to invoice payments <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>:
+*   **Total Expenses:** The total amount incurred through invoices <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+*   **Units Purchased:** The combined total of units purchased across all invoices <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+*   **Average Invoice Price:** The average price of invoices <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+These KPIs can be customized or updated to suit specific business needs <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. Values update automatically when inputs are altered in the database <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
+
+### Client Summary
+A client summary section displays purchase details for each client <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>:
+*   Total purchases made against each client <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+*   Number of units purchased from each client <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+*   Average purchase value from each client <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
 
 ### Invoice Database
-A central database forms the core of the template, allowing users to input and manage detailed invoice information <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
-*   **Core Fields** Each entry includes:
-    *   Invoice number <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>
-    *   Invoice date <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>
-    *   Due date <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>
-    *   Company name (issuing the invoice) <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>
-    *   Bill-to section and client address <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>
-*   **Itemized Details** For each invoice, details about purchased items can be added, including:
-    *   Item description <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>
-    *   Quantity <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>
-    *   Unit price <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>
-*   **Calculations**
-    *   **Subtotal** is automatically calculated by multiplying the unit price and quantity for each item <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
-    *   **Total amount** is computed by adding the tax rate to the subtotal <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
-*   **Additional Information** A "Notes" section is available for details such as payment receipt speed or mode of payment <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
-*   **Customization and Automation**
-    *   More item columns can be added by duplicating existing ones <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. When adding new columns, ensure to update the relevant formulas (e.g., for subtotal and total quantities purchased) to include the new columns <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a> <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
-    *   The total expenses and units purchased KPIs automatically update as data in the database changes <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
+The main database allows users to input and manage invoice details <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>:
+*   **Invoice Details:** Invoice number, invoice date, due date, company name (issuer), bill-to section, client address <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+*   **Item Details:** Description of items purchased (e.g., "item one," "item two"), quantity, and unit price <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+*   **Calculations:**
+    *   **Subtotal:** Calculated automatically as the multiplication of unit price and quantity for each item <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
+    *   **Total Amount:** Computed by adding the tax rate to the subtotal <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+*   **Notes:** Fields for adding notes, such as expected payment receipt time or mode of payment <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+*   **Customization:** Users can duplicate columns to add more items and must update formulas to include these new columns for accurate calculations <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. Additional properties, like "total quantities purchased," can be displayed and require formula updates if new quantity columns are added <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
 
-## Generating PDF Invoices
-The article also demonstrates how to generate PDF documents for invoices using a third-party tool, PDF output.com <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+## Generating PDF Invoices with PDF Output.com
+The template integrates with PDF Output.com for generating PDF documents for each invoice <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
 
-### Single PDF Generation
-To generate a single invoice PDF:
-1.  Log in to PDF output.com <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
-2.  Select the "invoice" template from the dropdown menu <a class="yt-timestamp" data-t="00:03:23">[00:03:23]</a> <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
-3.  Fill in all the invoice details, such as invoice number, company name, address, item details, quantity, and unit price <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a> <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
-4.  The desired currency can be set, which will update the entire invoice accordingly <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
-5.  Click "Download PDF" to generate the document <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
+### Process for Single PDF Generation
+1.  **Access the Website:** Navigate to PDF Output.com and log in <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+2.  **Select Template:** Use the drop-down menu on the top left, search for "inv" to find the "invoice" template <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+3.  **Fill Details:** Input invoice details such as invoice number, company name, address, and item specifics (quantity, unit price) <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+    *   The desired currency can be set, which will update the entire invoice <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
+4.  **Download:** Click "Download PDF" to generate and download the invoice <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. The PDF will display quantities, unit prices, total computed values, and any added notes <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
 
 ### Bulk PDF Generation
-PDF output.com also supports generating multiple invoice PDFs in bulk <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
-1.  Navigate to the "bulk PDF mode" <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
-2.  Input multiple rows of invoice information, which can be copied from the Notion database <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. Support for direct integration with the Notion database is planned <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
-3.  The column width can be expanded for better viewing <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>.
-4.  Click "Download all PDF" to generate all documents one by one <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>.
-5.  Individual PDFs can also be generated from specific rows within the bulk mode <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
+PDF Output.com also supports generating multiple PDFs simultaneously <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>:
+1.  **Bulk PDF Mode:** Switch to the "bulk PDF mode" <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
+2.  **Input Data:** Users can fill in rows of information, potentially by copy-pasting from the Notion database (though direct Notion database support is planned for the future) <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
+3.  **Download All:** Click "Download all PDF" to generate all invoices one by one <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>.
+4.  **Row-Specific Download:** It is also possible to download a PDF for a particular row by clicking "download PDF on a particular row" <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
+
+For questions or feedback regarding the invoice payments tracker or PDF generation, users can contact `notionformyuse@gmail.com` or use the feedback window on the website <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>.

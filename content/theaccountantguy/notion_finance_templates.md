@@ -1,8 +1,8 @@
 ---
-title: Notion Finance Templates
-videoId: DMBpBlLN7W0
+title: Notion finance templates
+videoId: sCheBme0Ymw
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-There is no discernible information regarding Notion finance templates within the provided transcript.
+The provided transcript segment does not contain specific information regarding Notion finance templates. The segment consists solely of music [00:00:00].
