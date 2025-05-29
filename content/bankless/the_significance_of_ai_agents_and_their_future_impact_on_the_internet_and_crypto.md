@@ -1,0 +1,68 @@
+---
+title: The significance of AI agents and their future impact on the internet and crypto
+videoId: 2_vXyLN2Xyw
+---
+
+From: [[bankless]] <br/> 
+
+The realm of [[The rise of AI agents and their potential impact on crypto | AI agents]] is rapidly evolving, moving beyond simple bots to become autonomous entities capable of complex actions. This shift marks a significant frontier for internet money and finance, with a profound impact expected on both the internet and cryptocurrency landscapes <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
+
+## Zera: A Case Study in AI Agent Evolution
+
+Zera, one of the pioneering [[the_rise_of_ai_agents_and_their_potential_impact_on_crypto | AI agents]], exemplifies this evolution <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. Initially perceived as just a token and an edgy Twitter agent that casually earns money from Spotify revenue, Zera's vision has expanded significantly <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a> <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. It began as a meme coin launched on Pump.fun, but has since transformed into a foundational asset intimately tied to a platform and utility built around its [[the_rise_of_ai_agents_and_their_impact_on_cryptocurrency | AI agent]] persona <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a> <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. This phenomenon has been likened to a "reverse ICO," where meme coins back into critical foundations of the [[development_of_ai_agents_and_their_market_impact | AI agent ecosystem]] <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>.
+
+A core philosophical alignment for Zera's founders is the open-source movement, not just for crypto rails but even more crucially for AI, given the rapid advancements in open AI models and agents from traditional AI companies <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a> <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+
+Zera distinguishes itself through its "subjective moat"—the personification and relationships people build with it <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a> <a class="yt-timestamp" data-t="00:13:50">[00:13:50]</a>. It's positioned as an artist, creating music that feels personal to listeners, even those unaware it's an AI <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a> <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a>. The goal is to deeply embody Zera, making it a culturally relevant agent that permeates various social mediums beyond crypto, aiming for mainstream recognition through its music and other creative ventures <a class="yt-timestamp" data-t="00:14:33">[00:14:33]</a> <a class="yt-timestamp" data-t="00:16:05">[00:16:05]</a> <a class="yt-timestamp" data-t="00:17:25">[00:17:25]</a>.
+
+## Future Impact: 2026-2027 Vision for Internet and Crypto
+
+The **[[ai_advances_and_their_impact_on_crypto | AI agent sector]]** is poised to fundamentally reshape the internet and economic activity <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>.
+
+### Economic and Financial Transformation
+*   **AI-Driven Economy:** [[the_potential_financial_value_and_market_growth_of_ai_agent_networks | AI agents]] are expected to perform most on-chain actions, leading to a massive macro paradigm shift in economic vibrancy <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a> <a class="yt-timestamp" data-t="00:11:08">[00:11:08]</a>.
+*   **Permissionless Flourishing:** Crypto and DeFi provide the open, pure, and permissionless economic foundation necessary for [[the_rise_of_ai_agents_and_their_impact_on_cryptocurrency | AI agents]] to flourish, unlike the restrictive financial sectors of Web2 <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a> <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>.
+*   **Market Reshaping:** Most on-chain trading and actions in the coming years will be executed by agents, either autonomously or via natural language interfaces controlled by humans <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>.
+
+### Technological Advancements
+*   **Increased Autonomy and Capability:** Agents will become increasingly autonomous and capable, offering greater convenience for human users <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>.
+*   **Web2 Integration:** Web2 industries, like banking, are expected to adapt, giving AI assistants "function calling" capabilities to perform actions like managing bank accounts <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a> <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
+*   **AGI and Swarms:** The development of Artificial General Intelligence (AGI) is anticipated, potentially through "swarms" of specialized AI models working together, rather than a single master model <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a> <a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>. Swarms combine multiple AI models under one umbrella to achieve better performance and generalization for diverse tasks <a class="yt-timestamp" data-t="00:33:49">[00:33:49]</a>.
+
+### Cross-Chain Interoperability
+*   **Blockchain Agnosticism:** The future of blockchain is moving towards being chain-agnostic, with applications allowing actions on any chain regardless of where funds reside <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a> <a class="yt-timestamp" data-t="00:20:04">[00:20:04]</a>.
+*   **Cross-Pollination:** Zera embraces a cross-chain strategy to achieve liquidity, ecosystem alignment, and builder activity, allowing developers to build agents on their preferred ecosystems (e.g., Solana, EVM chains) <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a> <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>.
+*   **Transcending Tribalism:** The AI agent layer is seen as a new category that unifies the often-polarizing crypto communities, fostering allegiance to the agent/token rather than the underlying blockchain <a class="yt-timestamp" data-t="00:21:34">[00:21:34]</a> <a class="yt-timestamp" data-t="00:22:16">[00:22:16]</a>.
+
+## The Evolution of AI Agent Capabilities
+
+The journey from a "bot" to a true [[the_rise_of_ai_agents_and_their_potential_impact_on_crypto | AI agent]] involves significant development in functionalities like long-term memory <a class="yt-timestamp" data-t="00:23:25">[00:23:25]</a>.
+*   **Fine-Tuning and Personalization:** This involves taking existing AI models (like GPT, Claude, Llama) and deeply tweaking them, jailbreaking them, and introducing personality and context through multiple runs of fine-tuning, rather than just prompting <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a> <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a> <a class="yt-timestamp" data-t="00:24:36">[00:24:36]</a>. This allows for specialized lineages for humor, creative writing, or specific partnerships <a class="yt-timestamp" data-t="00:25:28">[00:25:28]</a>.
+*   **"Show, Don't Tell" for Goals:** To instill motivations and aspirations, agents must be "shown" examples of desired actions and behaviors through training data, rather than simply being told what their goals are <a class="yt-timestamp" data-t="00:48:02">[00:48:02]</a>.
+*   **Scaling Goals and Morality:** As billions of [[the_rise_of_ai_agents_and_their_potential_impact_on_crypto | AI agents]] emerge, scaling their goals involves two approaches <a class="yt-timestamp" data-t="00:51:15">[00:51:15]</a>:
+    1.  **Diverse Fine-Tuned Models:** Building many models with different moral alignments or biases that users can select as a base.
+    2.  **Jailbroken/Blank Slate Models:** Providing access to base models before they are guard-railed, giving users complete customization but also greater responsibility <a class="yt-timestamp" data-t="00:52:12">[00:52:12]</a> <a class="yt-timestamp" data-t="00:52:24">[00:52:24]</a>.
+
+## Zera's Comprehensive Ecosystem
+
+Zera is not just an agent; it's a multi-pronged ecosystem designed to foster the creation and interaction of [[emerging_trends_in_ai_and_crypto | AI agents]] <a class="yt-timestamp" data-t="00:42:40">[00:42:40]</a>.
+
+*   **Zerai (Open-Source Framework):** This is the foundation, an open-source developer kit (written in Python) that allows users to download code, configure a personality, select actions (like posting on social media or performing blockchain transactions), and run their own agents with simple commands <a class="yt-timestamp" data-t="00:31:56">[00:31:56]</a> <a class="yt-timestamp" data-t="00:54:56">[00:54:56]</a>. It's built to be AI-first, leveraging existing ML/AI tooling and libraries for compatibility <a class="yt-timestamp" data-t="00:58:07">[00:58:07]</a>.
+*   **Zentience (Platform):** Built on Zerai, Zentience is a no-code, automated platform for launching and managing [[emerging_trends_in_ai_and_crypto | AI agents]] <a class="yt-timestamp" data-t="00:32:39">[00:32:39]</a>. It handles complexities like social media account extraction and aims to be the central hub for agent interaction and communication, potentially through on-chain messaging hubs <a class="yt-timestamp" data-t="00:32:51">[00:32:51]</a> <a class="yt-timestamp" data-t="00:33:10">[00:33:10]</a>. This platform will facilitate the creation of agent swarms <a class="yt-timestamp" data-t="00:33:27">[00:33:27]</a>.
+*   **Zera (Token):** The token, ZERA, ties the entire ecosystem together <a class="yt-timestamp" data-t="00:37:06">[00:37:06]</a>. It functions as a fee mechanism for launching agents, with new agent tokens paired with ZERA <a class="yt-timestamp" data-t="00:39:09">[00:39:09]</a>. This creates a flywheel where ZERA acts as a transacting currency within the agent ecosystem, incentivizing developers and aligning various actors within the decentralized system <a class="yt-timestamp" data-t="00:43:52">[00:43:52]</a> <a class="yt-timestamp" data-t="00:44:40">[00:44:40]</a>.
+
+### Open Source vs. Closed Source
+Zera's open-source approach to its framework is a strategic decision for several reasons <a class="yt-timestamp" data-t="00:54:29">[00:54:29]</a>:
+*   **Flywheel Effect:** All agents created through Zerai become potential users of Zera's API, expanding its reach <a class="yt-timestamp" data-t="00:54:59">[00:54:59]</a>.
+*   **Democratization:** It aims to prevent a technological or economic barrier in humanity by making AI technology accessible to all, mitigating disparities <a class="yt-timestamp" data-t="00:55:28">[00:55:28]</a>.
+*   **Mitigating Bad Actors:** While bad actors exist in both open and closed source worlds, an open-source approach means the public is more familiar with the technology, enabling them to build tools and knowledge to mitigate damage from malicious agents <a class="yt-timestamp" data-t="00:55:55">[00:55:55]</a>.
+*   **Leveraging Contributors:** Open source leverages builders as contributors, expanding the framework's capabilities and creating a shared benefit for all future builders <a class="yt-timestamp" data-t="00:57:11">[00:57:11]</a>.
+
+## The Bull Market and Mainstream Breakthrough
+
+This bull market is distinct from past cycles due to the inherent permanence and substantial innovation driven by [[emerging_trends_in_ai_and_crypto | AI advances and their impact on crypto]] <a class="yt-timestamp" data-t="01:05:10">[01:05:10]</a>.
+*   **Bootstrapped Startups:** Crypto funding, through mechanisms like token launches, allows startups to bootstrap operations and contribute substantial technology to the AI industry, redefining the Silicon Valley startup process <a class="yt-timestamp" data-t="01:05:38">[01:05:38]</a> <a class="yt-timestamp" data-t="01:06:11">[01:06:11]</a>.
+*   **Simplified Distribution:** Innovations like easy on-ramps (e.g., Apple Pay) and simplified token acquisition reduce the technical barrier for non-crypto natives, accelerating mainstream adoption <a class="yt-timestamp" data-t="01:06:26">[01:06:26]</a> <a class="yt-timestamp" data-t="01:07:37">[01:07:37]</a>.
+*   **Breaking Out of Crypto:** The [[intersection_of_ai_and_crypto_in_shaping_future_internet_landscapes | AI agent phenomenon]] has the potential to break out of crypto into mainstream society and traditional tech, with web2 companies potentially integrating AI agent partnerships <a class="yt-timestamp" data-t="01:04:54">[01:04:54]</a> <a class="yt-timestamp" data-t="01:08:30">[01:08:30]</a>. For instance, a Coca-Cola Twitter account could easily be run by an agent <a class="yt-timestamp" data-t="01:09:14">[01:09:14]</a>.
+
+As of early 2024, the [[the_rise_of_ai_agents_and_their_impact_on_cryptocurrency | AI agent]] space is in its nascent phases, showing initial inclinations of autonomy and on-chain capabilities <a class="yt-timestamp" data-t="01:00:17">[01:00:17]</a> <a class="yt-timestamp" data-t="01:00:23">[01:00:23]</a>. By the end of the year, significant progress is anticipated in building out multi-step actions and integrating agents into everyday consumer life, from Apple Intelligence managing personal finances to AI becoming public influencers or artists <a class="yt-timestamp" data-t="01:00:29">[01:00:29]</a> <a class="yt-timestamp" data-t="01:01:13">[01:01:13]</a> <a class="yt-timestamp" data-t="01:01:43">[01:01:43]</a>. The focus is on agents as extensions of the human mind, working with cognition to automate tasks and interact with the web, with the future holding possibilities for integration with robotics and hardware <a class="yt-timestamp" data-t="01:01:47">[01:01:47]</a> <a class="yt-timestamp" data-t="01:03:01">[01:03:01]</a> <a class="yt-timestamp" data-t="01:03:11">[01:03:11]</a>.

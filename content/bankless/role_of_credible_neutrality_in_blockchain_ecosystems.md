@@ -1,0 +1,20 @@
+---
+title: Role of credible neutrality in blockchain ecosystems
+videoId: Ggatja5uOT0
+---
+
+From: [[bankless]] <br/> 
+
+Credible neutrality is identified as one of the most valuable properties of certain blockchains, specifically [[Role of blockchains in global finance | Bitcoin]] and [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]] <a class="yt-timestamp" data-t="00:40:16">[00:40:16]</a>. This characteristic is crucial for the integrity and perceived fairness of a blockchain ecosystem.
+
+## Definition and Application
+[[Role of blockchains in global finance | Bitcoin]] bestows credible neutrality upon its native asset, BTC <a class="yt-timestamp" data-t="00:40:24">[00:40:24]</a>. [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]], on the other hand, aims to scale this property to a broader range of assets, encompassing "everything," including any tokenized asset or chain that settles to [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]]'s native asset, ETH <a class="yt-timestamp" data-t="00:40:29">[00:40:29]</a>.
+
+## Importance and Challenges
+The concept of credible neutrality is highly valued within the blockchain space, and its presence or absence can be a point of competition among different blockchain ecosystems <a class="yt-timestamp" data-t="00:40:40">[00:40:40]</a>. Competitors and antagonists of [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]], for instance, actively seek to undermine its perceived credible neutrality <a class="yt-timestamp" data-t="00:40:49">[00:40:49]</a>. This is because chains like Solana, which are considered more centralized, do not possess the same level of credible neutrality <a class="yt-timestamp" data-t="00:40:52">[00:40:52]</a>.
+
+The desire to discredit [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]]'s credible neutrality was evident during the Bybit hack incident. Rumors were intentionally spread suggesting that [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]] would "roll back the chain" to reverse the hack <a class="yt-timestamp" data-t="00:40:59">[00:40:59]</a>. This malicious fabrication, despite being publicly debunked <a class="yt-timestamp" data-t="00:34:47">[00:34:47]</a>, aimed to challenge the perception of [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]]'s immutability and, by extension, its credible neutrality <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>.
+
+The discussion surrounding a potential "roll back" harks back to the DAO hack on [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]] in 2016, where an "irregular state transition" occurred to recover stolen funds. This historical event is often used by critics to argue against [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]]'s claim of immutability and, by extension, its credible neutrality, suggesting a "degrading of property rights" <a class="yt-timestamp" data-t="00:36:04">[00:36:04]</a>. While [[Role of blockchains in global finance | Bitcoin]] also had an early catastrophic error that required a hard fork to fix an unlimited inflation bug <a class="yt-timestamp" data-t="00:37:03">[00:37:03]</a>, the DAO hack remains a key point of contention for those seeking to undermine [[Role of Ethereum and other chains in DeFi ecosystem | Ethereum]]'s neutrality <a class="yt-timestamp" data-t="00:37:14">[00:37:14]</a>.
+
+The competition for mind share regarding which blockchain is "best" often boils down to this credible neutrality narrative <a class="yt-timestamp" data-t="01:00:44">[01:00:44]</a>. While internal competition within crypto can be engaging, the use of misleading information to damage a project's reputation is viewed as counterproductive to the overall success and growth of the crypto industry <a class="yt-timestamp" data-t="01:00:44">[01:00:44]</a>.

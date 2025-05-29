@@ -1,0 +1,48 @@
+---
+title: Regulatory developments affecting crypto ETFs
+videoId: nWPRFNVs6XY
+---
+
+From: [[bankless]] <br/> 
+
+One common misperception in the crypto industry is that Ether ETFs were less successful than Bitcoin ETFs. However, by all accounts in the ETF world, Ether ETFs had very successful launches, delivering what they were supposed to deliver, such as precise tracking of the underlying index and high market quality <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+
+## Bitcoin and Ether Exchange-Traded Products (ETPs)
+
+The Bitcoin ETPs in the U.S. have been available for approximately one year, marking what BlackRock considers a watershed moment in markets <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>. Regulators emphasize that these products are technically "Exchange Traded Products" (ETPs), not "ETFs," highlighting the importance of definitions <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>. The launch of these products created a significant "bridge" between the crypto world and traditional finance (TradFi) <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>. This bridge proved useful to both TradFi investors, who preferred a familiar wrapper for Bitcoin allocation, and digital-native investors, some of whom purchased their first ETP through Bitcoin ETPs and are now buying other ETPs <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>.
+
+The U.S. [[role_of_the_sec_and_future_of_crypto_regulations | SEC]] surprised the industry with its approval of Ether ETFs in May <a class="yt-timestamp" data-t="00:20:42">[00:20:42]</a>. While the industry was prepared with a playbook from the Bitcoin ETPs, the timing was unexpected <a class="yt-timestamp" data-t="00:20:50">[00:20:50]</a>. Both Bitcoin and Ether ETPs have demonstrated good tracking and high market quality, characterized by high participation <a class="yt-timestamp" data-t="00:18:29">[00:18:29]</a>. However, flows have differed, largely due to investor sentiment <a class="yt-timestamp" data-t="00:18:41">[00:18:41]</a>. Bitcoin's investment thesis was more tangible for investors in 2024 than Ether's <a class="yt-timestamp" data-t="00:18:58">[00:18:58]</a>.
+
+### Investment Thesis and Market Perception
+
+The Bitcoin narrative is seen as straightforward: a 21 million limit and digital gold <a class="yt-timestamp" data-t="00:19:47">[00:19:47]</a>. The Ether story is more complex and lacks the same "firepower" <a class="yt-timestamp" data-t="00:19:53">[00:19:53]</a>. Investor decisions are not based on simplistic narratives but on a deeper understanding of the assets <a class="yt-timestamp" data-t="00:22:17">[00:22:17]</a>.
+
+The investment thesis for Bitcoin was particularly relevant in a period of heightened geopolitical tension, concerns over broad-based disruptions, and the dollar deficit <a class="yt-timestamp" data-t="00:22:52">[00:22:52]</a>. The difficulty of 2022 for TradFi investors, with both stocks and bonds declining, led to a search for diversifiers <a class="yt-timestamp" data-t="00:23:11">[00:23:11]</a>. Bitcoin was considered a potential "ballast" in traditional 60/40 equity-bond portfolios <a class="yt-timestamp" data-t="00:23:28">[00:23:28]</a>. In contrast, the Ether story is often viewed by investors as an "amplifier" rather than a diversifier, similar to mega-cap tech exposures they might already hold <a class="yt-timestamp" data-t="00:24:03">[00:24:03]</a>.
+
+BlackRock, as an investment research provider rather than an advisor, focuses on portfolio risk <a class="yt-timestamp" data-t="00:25:01">[00:25:01]</a>. Their research suggests that a 1-2% allocation to Bitcoin can provide a similar level of risk contribution as a "MAG 7 stock" (e.g., a large technology company), with allocations above 2% exponentially increasing risk contribution <a class="yt-timestamp" data-t="00:27:30">[00:27:30]</a>.
+
+### Role of Options and Market Maturation
+
+The launch of options on Bitcoin ETPs in November was a significant development <a class="yt-timestamp" data-t="00:31:17">[00:31:17]</a>. Options ecosystems generally create more balanced trading dynamics and are beneficial for markets by providing buyers on the way down and sellers on the way up <a class="yt-timestamp" data-t="00:31:23">[00:31:23]</a>. While innovation often comes with complexity, the incorporation of options into Bitcoin product strategies necessitates clear investor education <a class="yt-timestamp" data-t="00:31:50">[00:31:50]</a>.
+
+The development and use of options ecosystems are seen as important for fostering more mature and resilient markets <a class="yt-timestamp" data-t="00:33:09">[00:33:09]</a>. This also aids the underlying crypto assets and their digital-native derivative markets, which currently lack sufficient transparency for broader investor uptake <a class="yt-timestamp" data-t="00:33:20">[00:33:20]</a>. Options provide transparency and access, which are crucial in crypto markets where price information can be fragmented <a class="yt-timestamp" data-t="00:38:32">[00:38:32]</a>. Historically, institutional investors have often entered asset classes through options before committing to the underlying asset, suggesting a similar path for Bitcoin and Ether ETPs <a class="yt-timestamp" data-t="00:40:03">[00:40:03]</a>.
+
+BlackRock invests time and attention in the options ecosystem because ETPs with developed options ecosystems typically exhibit higher market quality <a class="yt-timestamp" data-t="00:34:19">[00:34:19]</a>. This engagement involves working closely with exchanges like NASDAQ to understand market maker needs, considering the attractiveness of Bitcoin's high volatility and positive skew to market makers <a class="yt-timestamp" data-t="00:35:38">[00:35:38]</a>.
+
+### Misconceptions and Future Outlook
+
+A common misperception in the crypto world is that the launch of an ETF automatically drives up the price of the underlying asset <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a>. However, BlackRock asserts that success for an ETP is measured by effective access, market quality, and its role in an investor's portfolio, not by the price appreciation of the underlying asset <a class="yt-timestamp" data-t="00:42:39">[00:42:39]</a>. While inflows show an imbalance of buying versus selling, a significant portion of trading happens between buyers and sellers of the ETP itself, without any new coin being exchanged <a class="yt-timestamp" data-t="00:51:51">[00:51:51]</a>.
+
+BlackRock's current focus for digital asset ETPs remains Bitcoin and Ether <a class="yt-timestamp" data-t="00:53:30">[00:53:30]</a>. Their broader digital assets strategy also includes tokenization of Treasury funds and stablecoins <a class="yt-timestamp" data-t="00:53:49">[00:53:49]</a>.
+
+## Regulatory Environment and its [[role_of_regulation_in_the_crypto_industry | Role in the Crypto Industry]]
+
+The [[regulatory_developments_in_the_united_states_impacting_the_crypto_industry | SEC]] significantly impacts all financial markets, including crypto <a class="yt-timestamp" data-t="00:55:03">[00:55:03]</a>. The U.S. market's prominence stems from its ability to support both innovation and investor protections simultaneously <a class="yt-timestamp" data-t="00:55:25">[00:55:25]</a>. Increased participation by individual investors since 2020, driven by commission-free trading and government stimulus, has led to heightened regulatory focus <a class="yt-timestamp" data-t="00:57:13">[00:57:13]</a>.
+
+BlackRock anticipates a return to a more innovation-supportive environment <a class="yt-timestamp" data-t="00:57:30">[00:57:30]</a>. Key regulatory needs for 2025 include establishing basic definitions and clear jurisdictions, such as "what's a security" and "who's the regulator" <a class="yt-timestamp" data-t="00:58:35">[00:58:35]</a>. Collaboration between the public and private sectors is crucial to getting this right <a class="yt-timestamp" data-t="00:58:51">[00:58:51]</a>.
+
+Existing bills like FIT21 are seen as steps forward, though better integration with TradFi frameworks is desirable <a class="yt-timestamp" data-t="00:59:24">[00:59:24]</a>. The development of a separate crypto ecosystem through some bills might not be the best long-term outcome, as it creates duplicative regulations for existing players <a class="yt-timestamp" data-t="00:59:49">[00:59:49]</a>. Ideally, regulations should accommodate both new and existing participants <a class="yt-timestamp" data-t="01:00:08">[01:00:08]</a>. BlackRock also hopes for more work on interoperability to allow TradFi market experts to play a larger role <a class="yt-timestamp" data-t="01:00:29">[01:00:29]</a>.
+
+BlackRock's internal structure ensures that its digital assets team cuts across the firm as a horizontal, collaborating with all business units (e.g., ETFs, index trading, securities lending) to identify use cases and applications for blockchain technology <a class="yt-timestamp" data-t="01:02:49">[01:02:49]</a>. This approach ensures that crypto is considered when it is truly the right tool for the job within the business <a class="yt-timestamp" data-t="01:03:13">[01:03:13]</a>.
+
+Samara Cohen expresses optimism for 2025, hoping for a renewed focus on the mission of creating a more transparent and accessible financial system, and believes that the industry is on its way to achieving this <a class="yt-timestamp" data-t="01:08:07">[01:08:07]</a>. The shift towards clear skies in [[regulatory_changes_and_their_implications_for_the_crypto_industry | regulation changes in the crypto industry]] and abundant block space could lead to a "golden age" of crypto innovation <a class="yt-timestamp" data-t="01:08:41">[01:08:41]</a>.

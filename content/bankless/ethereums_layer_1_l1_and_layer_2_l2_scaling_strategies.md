@@ -1,0 +1,66 @@
+---
+title: Ethereums layer 1 L1 and layer 2 L2 scaling strategies
+videoId: WzSVcUeKRZ4
+---
+
+From: [[bankless]] <br/> 
+
+Ethereum is undergoing a significant strategic reorientation to address issues such as lagging ETH price and decreased on-chain activity <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. This shift involves a renewed focus on its Layer 1 (L1) while maintaining the commitment to its Layer 2 (L2) centric roadmap <a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>. The goal is to restore growth and ensure Ethereum remains the default platform for building in crypto <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
+
+## Defining the Problem and Strategic Pivot
+For roughly three years, the ETH price has lagged the market, indicating that something was wrong in Ethereum, especially as other ecosystems gained strength <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. While the declining price is a concern, the root causes are deeper <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>.
+
+Key issues identified include:
+*   **Reduced Activity** Activity on Ethereum has decreased, with less app building and fewer new users <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>. Ethereum is no longer the obvious default platform for building <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
+*   **"Ivory Tower" Mentality** The Ethereum Foundation (EF) and Ethereum development, including researchers like Dankrad Feist and Onsgard Dietrix, have often focused on high-brow research and long-term technical solutions without actively listening to app builders and users <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. This led to not treating Ethereum as a product serving its users <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
+*   **Neglect of L1** The rollup-centric roadmap, while strategically correct for the long-term, led to the neglect of the L1 in the medium term <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>, <a class="yt-timestamp" data-t="00:14:12">[00:14:12]</a>. This resulted in a "self-inflicted" rejection of growth on L1 <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>.
+*   **Lack of Leadership & Product Focus** Due to its decentralized nature, there wasn't a clear entity responsible for the overall product vision or strategy <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>, <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>. This differs from competitors like Solana, which excels at product focus <a class="yt-timestamp" data-t="00:27:13">[00:27:13]</a>.
+
+A new consensus has emerged on the urgency of taking short to medium-term actions to restore growth <a class="yt-timestamp" data-t="01:29:03">[01:29:03]</a>.
+
+## [[scaling_ethereum_layer_1_and_layer_2_improvements | Ethereum Layer 1 (L1) Scaling]]
+A major focus for Ethereum's short to medium-term strategy is to directly [[scaling_ethereum_layer_one | scale the L1]] <a class="yt-timestamp" data-t="00:34:23">[00:34:23]</a>. The past approach of telling users that L1 is expensive if they want to use the chain is changing <a class="yt-timestamp" data-t="00:34:35">[00:34:35]</a>. There is now broad acceptance of L1 scaling among researchers and the community <a class="yt-timestamp" data-t="00:38:36">[00:38:36]</a>.
+
+### Capacity Increases
+Ethereum's L1 capacity will increase in stages:
+1.  **Immediate Push** Without any technical changes, just by leveraging available headroom. Ethereum has been conservative, especially regarding state growth, but with long-term solutions like statelessness and ZK-EVMs, it can now afford to push the existing technology <a class="yt-timestamp" data-t="01:03:34">[01:03:34]</a>. The gas limit has already increased from 30 million to 36 million <a class="yt-timestamp" data-t="01:04:13">[01:04:13]</a>. The goal is to reach around 100 million gas by the end of the year, potentially doubling to 72 million by Fall <a class="yt-timestamp" data-t="01:04:17">[01:04:17]</a>.
+2.  **Feature-Based Scaling** The next hard fork, Glamsterdam (after Pectra and Fusaka), targeted for the first half of next year, will introduce features that provide more scalability <a class="yt-timestamp" data-t="01:04:47">[01:04:47]</a>. These include delayed execution, block-level access lists, and 444 gas pricing changes, which could enable a 300 million gas limit <a class="yt-timestamp" data-t="01:03:33">[01:03:33]</a>.
+3.  **ZK-Based Big Step** In two to three years, a ZK-based approach will allow for aggressive scaling while maintaining lightweight verification <a class="yt-timestamp" data-t="01:05:27">[01:05:27]</a>. This involves using ZK-proofs to verify the L1 and put it into blobs, making it technically a rollup <a class="yt-timestamp" data-t="00:58:54">[00:58:54]</a>. While the latency is coming down, the reliability and safety of this complex technology need to be thoroughly proven <a class="yt-timestamp" data-t="01:06:46">[01:06:46]</a>. A gradual introduction, starting with enabling validators to run without an execution node by receiving proofs, is expected by the end of this year <a class="yt-timestamp" data-t="01:07:08">[01:07:08]</a>.
+
+The overall goal is a 10x increase in capacity every two years, aiming for a 10x increase from current levels within two years and another 10x in the subsequent two years <a class="yt-timestamp" data-t="00:36:40">[00:36:40]</a>, <a class="yt-timestamp" data-t="00:36:54">[00:36:54]</a>. This requires moving away from ideological opposition to L1 scaling and focusing on technical solutions based on node types and desired properties <a class="yt-timestamp" data-t="00:37:33">[00:37:33]</a>.
+
+### Block Times and Finality
+While gas limit increases are a priority, there's also an increasing focus on reducing block times for better DeFi product features, lower MEV, and tighter market maker spreads <a class="yt-timestamp" data-t="01:09:04">[01:09:04]</a>.
+
+Efforts are directed at three areas:
+*   **Optimistic Pre-confirmations** These provide quick promises of transaction inclusion and outcome, similar to sequencer guarantees on L2s, for great user experience (UX) <a class="yt-timestamp" data-t="01:10:17">[01:10:17]</a>. Justin Drake's work on pre-confirmations, aiming for 100-millisecond roundtrip confirmations, could become a core part of the Ethereum stack <a class="yt-timestamp" data-t="01:12:57">[01:12:57]</a>.
+*   **Finality** Reducing the time to finality primarily benefits L2 interaction and exchanges <a class="yt-timestamp" data-t="01:10:54">[01:10:54]</a>.
+*   **Time to Censorship Resistance** This is about how quickly transactions can be included by someone other than the current slot proposer <a class="yt-timestamp" data-t="01:11:36">[01:11:36]</a>.
+
+Reducing slot times, potentially to 6 seconds, is likely in the medium term <a class="yt-timestamp" data-t="01:12:27">[01:12:27]</a>. Further reductions to perhaps 1 second are a long-term goal, relying on future staking changes that significantly reduce the number of signatures needed for blocks <a class="yt-timestamp" data-t="01:14:59">[01:14:59]</a>. All these changes are pursued while preserving Ethereum's core value of allowing anyone to audit and run a node <a class="yt-timestamp" data-t="01:15:21">[01:15:21]</a>.
+
+## [[impact_of_ethereum_scaling_on_layer_2s | Ethereum Layer 2 (L2) Scaling]] and Integration
+The rollup-centric roadmap is considered the correct long-term strategy, but it must be built around a very strong L1 <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. L2s serve two main roles:
+1.  **Generic Spillover Space** Given that the L1 cannot handle all demand, L2s provide transparent overflow capacity for the Ethereum ecosystem <a class="yt-timestamp" data-t="00:41:18">[00:41:18]</a>. The focus here is on seamless interoperability and standards for assets flowing between L1 and L2s, eventually leading to a transparent user experience where users don't notice if they are on L1 or L2 <a class="yt-timestamp" data-t="00:41:52">[00:41:52]</a>.
+2.  **Special Purpose L2s** These are more differentiated, serving specific applications like gaming <a class="yt-timestamp" data-t="00:42:20">[00:42:20]</a>. Their relationship with L1 will likely remain consistent, primarily using L1 for data availability (DA) and settlement <a class="yt-timestamp" data-t="00:42:41">[00:42:41]</a>.
+
+To ensure L2s remain tied to Ethereum, the L1 must be economically important and active <a class="yt-timestamp" data-t="00:44:20">[00:44:20]</a>. If L1 activity declines, L2s might opt for other data availability solutions like Celestia <a class="yt-timestamp" data-t="00:44:30">[00:44:30]</a>. The aim is to offer L2s valuable services that increase "stickiness" to Ethereum, such as blobs for cheaper data, and R&D resources to enhance compatibility <a class="yt-timestamp" data-t="00:54:49">[00:54:49]</a>.
+
+### Based and Native Rollups
+Concepts like "based rollups" and "native rollups" aim to integrate L2s more closely with the Ethereum L1 <a class="yt-timestamp" data-t="00:52:02">[00:52:02]</a>. These models remove certain "pie slices" from the L2 security model, making them truly "Ethereum" by leveraging L1 resources (e.g., L1 sequencer for based rollups) <a class="yt-timestamp" data-t="00:52:08">[00:52:08]</a>. This closer integration is seen as mutually beneficial, providing L2s with interoperability and brand value, while ensuring L2s remain tightly coupled to L1 <a class="yt-timestamp" data-t="00:56:07">[00:56:07]</a>.
+
+Over time, L1 and native L2s will likely converge on a shared tech stack, using the same ZK proving systems and execution models <a class="yt-timestamp" data-t="00:59:42">[00:59:42]</a>. This will enable significantly better UX, including same-slot async composability between L2s and the L1 <a class="yt-timestamp" data-t="01:00:03">[01:00:03]</a>.
+
+## [[developments_in_the_ethereum_layer_2_ecosystem | The Ethereum Foundation's Evolving Role]]
+The Ethereum Foundation (EF) is undergoing a significant change in its approach <a class="yt-timestamp" data-t="01:18:44">[01:18:44]</a>. Historically, the EF operated more as a public goods funding organization, distributing money to independent projects without a unified strategy or product focus <a class="yt-timestamp" data-t="01:19:03">[01:19:03]</a>. This "ivory tower" perception meant core development often happened outside the EF, and strategic decisions were made by small groups <a class="yt-timestamp" data-t="01:19:23">[01:19:23]</a>, <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>.
+
+The new co-CEOs, Tomas and Shiao, represent a shift towards a more CEO-style role <a class="yt-timestamp" data-t="01:20:06">[01:20:06]</a>. The EF is now taking on a greater responsibility to guide Ethereum holistically, focusing on product experience and overall strategy <a class="yt-timestamp" data-t="01:20:20">[01:20:20]</a>. This means bringing in new voices, like product people and those focused on shorter timeframes, to complement the researchers and engineers <a class="yt-timestamp" data-t="01:18:04">[01:18:04]</a>, <a class="yt-timestamp" data-t="01:25:27">[01:25:27]</a>. Communication has improved significantly, with increased openness and a clear "listening" stance <a class="yt-timestamp" data-t="01:23:18">[01:23:18]</a>.
+
+While the mindset within the EF has shifted, the execution of these changes is still a work in progress <a class="yt-timestamp" data-t="01:22:18">[01:22:18]</a>. The challenge lies in translating this new product-driven attitude into concrete actions across the decentralized Ethereum ecosystem <a class="yt-timestamp" data-t="01:29:37">[01:29:37]</a>.
+
+## Outlook
+There is newfound optimism about Ethereum's direction <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. The previous phase, where Ethereum was a "sandbox environment" focused on infrastructure stack development before real-world adoption, is over <a class="yt-timestamp" data-t="01:31:55">[01:31:55]</a>. Now, with institutions and real-world assets looking to adopt blockchains, Ethereum needs to deliver in months, not years <a class="yt-timestamp" data-t="01:32:30">[01:32:30]</a>.
+
+Ethereum possesses a significant "technology overhang" – pre-developed individual pieces that now need to be bundled into an attractive product <a class="yt-timestamp" data-t="00:26:46">[00:26:46]</a>. This positions Ethereum to benefit from its past research, especially in areas like ZK-proofs that enable scaling to billions of users <a class="yt-timestamp" data-t="00:27:37">[00:27:37]</a>.
+
+The "Ethereum ship" is turning around, adapting to a new environment where product focus is paramount <a class="yt-timestamp" data-t="01:27:21">[01:27:21]</a>. While the mental shift has occurred, the actual implementation across all actors is still underway <a class="yt-timestamp" data-t="01:29:33">[01:29:33]</a>. The community is being encouraged to balance critique with recognition of Ethereum's inherent strengths <a class="yt-timestamp" data-t="01:31:39">[01:31:39]</a>. The path to success is clear, but execution is key <a class="yt-timestamp" data-t="01:26:19">[01:26:19]</a>.

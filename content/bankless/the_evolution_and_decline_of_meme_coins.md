@@ -1,0 +1,26 @@
+---
+title: The Evolution and Decline of Meme Coins
+videoId: NtZTR1tpxZY
+---
+
+From: [[bankless]] <br/> 
+
+The crypto industry has recently experienced what some refer to as the "[[the_ethical_and_market_implications_of_meme_coins | meme coin extraction phase]]" <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. This period has been characterized by a proliferation of [[role_of_meme_coins_in_the_crypto_market | meme coins]] <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>, often leading to market exhaustion and a perceived loss of industry focus <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
+
+## The Rise of Meme Coins and "Financial Nihilism"
+
+The rapid growth in the number of [[role_of_meme_coins_in_the_crypto_market | meme coins]] led to millions of tokens being launched and a corresponding number of people experiencing losses, primarily due to these being "pure [[the_ethical_and_market_implications_of_meme_coins | pump and dumps]]" <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. This phenomenon contributed to a sentiment of "[[the_ethical_and_market_implications_of_meme_coins | Financial nihilism Sprint]]" <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a> within the crypto community, where individuals began to lose faith in the industry's original goals <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. The prevailing belief shifted towards viewing crypto as merely "random memes and [[the_ethical_and_market_implications_of_meme_coins | gambling]]" <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>, overshadowing the passion for innovation <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+
+A recent example illustrating this trend was the launch of a [[introduction_of_trump_meme_coin | meme coin]] by the President of Argentina <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. This event contributed to a "Libra thing" <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>, where market sentiment reached new lows <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>, indicating that the industry was growing tired of the speculative nature of [[role_of_meme_coins_in_the_crypto_market | meme coins]] <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
+
+### Meme Coins and the AI Crypto Space
+
+The emergence of [[role_of_meme_coins_in_the_crypto_market | meme coins]] played a significant role in the birth of the [[the_impact_of_meme_coin_launches_on_the_ai_crypto_space | AI crypto sector]] <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. Many tokens now associated with AI, such as Ai 16z and Goat, initially began as [[role_of_meme_coins_in_the_crypto_market | meme coins]] before evolving into AI-focused projects <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. This parallel development meant that the "hot air" <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a> from the [[role_of_meme_coins_in_the_crypto_market | meme coin]] mania also fueled the AI crypto sector.
+
+However, the "hot air" <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a> from the AI crypto sector largely "[[the_ethical_and_market_implications_of_meme_coins | drained]]" <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a> by late January and February <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. The "Libra thing" further accelerated this deflation <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>, leaving no choice but for participants to focus on building <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>, as the "hot money of [[the_ethical_and_market_implications_of_meme_coins | gambling]] speculation" <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a> was no longer returning <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>.
+
+## Shifting Towards Innovation
+
+Despite the negative aspects, some [[role_of_meme_coins_in_the_crypto_market | meme coin]] launches offered a "fairish launch" <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a> mechanism, where anyone could access the tokens with transparent information <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. However, this accessibility could also be "[[the_ethical_and_market_implications_of_meme_coins | abused]]" <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+
+The widespread fatigue with [[role_of_meme_coins_in_the_crypto_market | meme coins]] and the "hot money of gambling speculation" <a class="yt-timestamp" data-t="00:52:51">[00:52:51]</a> has led to a significant "[[sustainability_and_trends_in_memecoins | shift Focus over to invention tinkering Innovation]]" <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. The industry now sees "no choice but to build" <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>, attracting individuals genuinely believing in the technology <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. This shift is expected to benefit sectors like AI, which are ripe for development <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. The declining emphasis on meme-driven speculation is seen as a positive development, fostering a more fundamental-driven environment for growth and utility <a class="yt-timestamp" data-t="01:05:50">[01:05:50]</a>.
