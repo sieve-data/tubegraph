@@ -1,0 +1,39 @@
+---
+title: Political formula and societal mythos
+videoId: D4psLcd8FsM
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The concept of a "political formula" is described as a crucial element of a society's overarching [[the_role_of_mythos_logos_and_pathos | mythos]] <a class="yt-timestamp" data-t="00:59:57">[00:59:57]</a>. This idea, explored by the Italian School of political science, notably Gaetano Mosca, explains how people are made to believe that their government and its power are good and right <a class="yt-timestamp" data-t="01:11:46">[01:11:46]</a>.
+
+## Defining the Political Formula
+
+The political formula is the part of the [[the_role_of_mythos_logos_and_pathos | mythos]] that convinces individuals the government is legitimate and its authority is justified <a class="yt-timestamp" data-t="01:11:46">[01:11:46]</a>. For example, an Egyptian peasant might believe in the pharaoh because he is considered the son of the sun, and his displeasure could cause the sun to vanish <a class="yt-timestamp" data-t="01:17:40">[01:17:40]</a>. Modern political formulas often empower the individual, making them feel important, impactful, and that they "matter" by supporting the government <a class="yt-timestamp" data-t="01:28:13">[01:28:13]</a>.
+
+## The Illusion of Competence: "Presentism" and the "Stupidity Quotient"
+
+Societies often suffer from "temporal chauvinism" or "presentism," which is the assumption that their current world is entirely real and deserving of immense respect <a class="yt-timestamp" data-t="02:24:24">[02:24:24]</a>. This prevents them from recognizing decline, much like scholars of the late Roman Empire who did not perceive their empire's downfall <a class="yt-timestamp" data-t="02:34:14">[02:34:14]</a>.
+
+A useful lens to counter this presentism is the "Stupidity Quotient" (SQ) <a class="yt-timestamp" data-t="01:16:16">[01:16:16]</a>. The SQ applies the mindset of a child to evaluate societal decisions, revealing a fundamental lack of common sense in actions taken by powerful institutions <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>.
+
+### Case Study: COVID-19 Response
+
+The [[political_power_and_systems_in_the_usa | US government]]'s response to COVID-19 serves as a prime example of institutional incompetence when viewed through the SQ lens <a class="yt-timestamp" data-t="09:55:07">[09:55:07]</a>.
+*   **Initial Travel Restrictions**: A six-year-old would intuitively understand that stopping airplanes from infected regions is a logical first step, yet the US government hesitated due to concerns about disrupting travel and trade <a class="yt-timestamp" data-t="01:56:07">[01:56:07]</a>. This policy was influenced by the hospitality industry's aid to the World Health Organization <a class="yt-timestamp" data-t="04:36:04">[04:36:04]</a>.
+*   **Vaccine Approval Process**: The Food and Drug Administration (FDA) faced a severe conflict of interest <a class="yt-timestamp" data-t="03:51:01">[03:51:01]</a>. While an objective risk-benefit analysis would favor rapid vaccine deployment (saving 300,000 lives vs. 400 cases of Guillain-Barré syndrome from a flawed 1976 vaccine), the FDA's primary concern was protecting its own prestige, making it prioritize avoiding mistakes over saving lives <a class="yt-timestamp" data-t="03:51:01">[03:51:01]</a>.
+*   **Lockdown Strategy**: The "Hammer and the Dance" strategy, effective in countries like [[chinese_governance_and_societal_dynamics | China]] with robust testing and quarantine facilities, was misapplied in the US <a class="yt-timestamp" data-t="04:47:04">[04:47:04]</a>. The US lacks the basic "state capacity" for such measures, for instance, not even knowing its exact population or having efficient digital infrastructure <a class="yt-timestamp" data-t="05:11:00">[05:11:00]</a>. The decision-makers optimized for bolstering institutional reputations and strengths rather than effective decision-making <a class="yt-timestamp" data-t="02:09:07">[02:09:07]</a>.
+
+## Institutional Incentives and Conflict of Interest
+
+Bureaucracies, unlike corporations or armies, lack accountability for results <a class="yt-timestamp" data-t="02:49:07">[02:49:07]</a>. Loyalty shifts from achieving nominal goals to supporting one's bureaucratic "mafia" and the institution itself <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>. Individuals succeed by manipulating procedural outcomes, rather than by introducing the best ideas <a class="yt-timestamp" data-t="03:32:00">[03:32:00]</a>. This leads to "self-licking ice cream cones," where an institution's primary purpose becomes its own perpetuation and funding, rather than its stated mission <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>.
+
+A historical parallel is the Hippocratic Oath, which, though presented as a noble ethical guideline, can be interpreted as a "memetic strategy" <a class="yt-timestamp" data-t="04:29:07">[04:29:07]</a>. In Hippocrates' time, a doctor's survival depended on avoiding perceived mistakes, making "do no harm" a personal survival strategy rather than solely a patient-centric one <a class="yt-timestamp" data-t="04:16:07">[04:16:07]</a>. This highlights how an apparent noble [[the_role_of_mythos_logos_and_pathos | mythos]] can conceal a deep conflict of interest <a class="yt-timestamp" data-t="04:22:00">[04:22:00]</a>.
+
+## From Monarchy to Oligarchy: The Transformation of American Governance
+
+Historically, the [[political_power_and_systems_in_the_usa | American government]] was capable of massive undertakings, like the Manhattan Project during World War II <a class="yt-timestamp" data-t="05:17:08">[05:17:08]</a>. This project was run like a startup, with a clear top-down pyramid structure and effective two-in-a-box leadership (Oppenheimer and General Groves) <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. Researchers were directed to work on specific tasks, a rarity in today's academic environment <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>.
+
+In contrast, if a project like the Manhattan Project were attempted today, it would likely be bogged down by a grant proposal system, where professors repackage existing research to fit funding criteria, leading to significant delays <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>. The Department of Energy, the successor to the Manhattan Project organization, is now notoriously incompetent, reflecting a systemic deterioration <a class="yt-timestamp" data-t="01:06:01">[01:06:01]</a>.
+
+This shift points to a fundamental change in [[the_evolution_and_future_of_societal_governance | societal governance]]. While the US constitution remained nominally the same, the actual form of government transitioned from a "de facto monarchy" under Franklin D. Roosevelt in the 1930s to a "fundamentally oligarchical" system today <a class="yt-timestamp" data-t="01:04:41">[01:04:41]</a>. FDR wielded near-absolute power, creating and destroying agencies as needed, even if it meant working around established institutions <a class="yt-timestamp" data-t="01:02:02">[01:02:02]</a>. His first inaugural address in 1933 expressed a demand for "broad executive power to wage a war against the emergency as great as the power that would be given to me if we were in fact invaded by a foreign enemy" <a class="yt-timestamp" data-t="01:08:41">[01:08:41]</a>. This centralized, accountable leadership contrasts sharply with today's dispersed power where no one is fired for institutional failures <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>. This highlights how the inherent "anarchy" within the US state, as described by James C. Scott in *Seeing Like a State*, limits its ability to perceive and control its population or address crises effectively <a class="yt-timestamp" data-t="05:11:00">[05:11:00]</a>.

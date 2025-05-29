@@ -1,0 +1,37 @@
+---
+title: Criticism of deep neural networks in achieving AGI
+videoId: isIrLmYTdvU
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Many leading researchers hold the view that current deep neural networks (DNNs) and related machine learning (ML) algorithms are fundamentally unsuited for creating human-level [[Artificial general intelligence AGI challenges and possibilities | Artificial General Intelligence (AGI)]] <a class="yt-timestamp" data-t="01:13:04">[01:13:04]</a>. These DNNs constitute most of the AI that receives attention today, including systems like Dolly 2, GPT-3, and Jasper.ai <a class="yt-timestamp" data-t="01:29:06">[01:29:06]</a>.
+
+While some researchers, like Gary Marcus and Douglas Hofstadter, believe current DNNs are entirely misguided for [[Artificial general intelligence AGI challenges and possibilities | AGI]], and the mainstream rapidly believes only minor tweaks are needed, [[Ben Goertzels views on artificial general intelligence AGI | Ben Goertzel]] holds a more moderate view. He suggests DNNs, in some variation, could serve as significant components of an [[Artificial general intelligence AGI challenges and possibilities | AGI]] architecture <a class="yt-timestamp" data-t="01:38:06">[01:38:06]</a>, but are missing many key aspects necessary for human-level intelligence <a class="yt-timestamp" data-t="01:38:06">[01:38:06]</a>.
+
+## Core Criticisms of Deep Neural Networks
+
+### Shallow Pattern Recognition
+A primary criticism is that current deep neural networks, despite their name, primarily identify "shallow patterns" within large datasets <a class="yt-timestamp" data-t="01:47:06">[01:47:06]</a>. They function more like sophisticated lookup tables, recording and indexing vast amounts of detailed patterns and then extrapolating from these to deal with new situations <a class="yt-timestamp" data-t="01:48:06">[01:48:06]</a>, <a class="yt-timestamp" data-t="02:06:06">[02:06:06]</a>.
+
+For instance, when given a puzzle about fitting a big table through a small door, a transformer neural net suggested using a table saw <a class="yt-timestamp" data-t="01:58:06">[01:58:06]</a>. This error highlights a lack of understanding of the underlying reality; the AI associated "table saw" with "sawing tables" based on linguistic patterns, not a conceptual model of what a table saw actually is <a class="yt-timestamp" data-t="02:00:06">[02:00:06]</a>, <a class="yt-timestamp" data-t="02:03:06">[02:03:06]</a>. This limitation is widespread across various machine learning algorithms <a class="yt-timestamp" data-t="02:06:06">[02:06:06]</a>.
+
+### Lack of Abstraction and Generalization
+The approach of DNNs, which leverages massive data and processing power to recognize and extrapolate from particular patterns, struggles to generalize to domains that do not demonstrate those specific patterns <a class="yt-timestamp" data-t="02:14:06">[02:14:06]</a>. This is known as a "knowledge representation issue" <a class="yt-timestamp" data-t="02:29:06">[02:29:06]</a>. The knowledge is represented as a catalog of weighted particulars, with no inherent attempt to abstract fundamental principles <a class="yt-timestamp" data-t="02:36:06">[02:36:06]</a>.
+
+The ability to find concise abstractions of experience is critical for generalization to new or different domains <a class="yt-timestamp" data-t="02:51:06">[02:51:06]</a>. Humans, for example, can play a small number of war games (e.g., 2,500-5,000 sessions) across many titles and extract generalizations that allow them to quickly adapt to new, different games <a class="yt-timestamp" data-t="02:58:06">[02:58:06]</a>, <a class="yt-timestamp" data-t="03:08:06">[03:08:06]</a>. In contrast, systems like AlphaGo rely on hundreds of millions of game iterations <a class="yt-timestamp" data-t="03:39:06">[03:39:06]</a>. This is often referred to as "one-shot learning" or "few-shot learning," a capability current DNN architectures generally lack, unlike humans or even smart animals like dogs <a class="yt-timestamp" data-t="02:53:06">[02:53:06]</a>.
+
+### Missing Creative and Imaginative Leaps
+Current DNN architectures tend to bypass the aspects of human intelligence that enable "creative, imaginative leaps" <a class="yt-timestamp" data-t="02:18:06">[02:18:06]</a>. While they excel at "repermuting elements from existing images" in graphics programs like Dolly, they do not innovate in the way artists like Matisse or Picasso did, who fundamentally rethought art <a class="yt-timestamp" data-t="02:59:06">[02:59:06]</a>. The prevailing economic models in the AI industry favor systems that combine existing elements to maximize known metrics, rather than fostering unpredictable creativity <a class="yt-timestamp" data-t="02:47:06">[02:47:06]</a>, <a class="yt-timestamp" data-t="02:55:06">[02:55:06]</a>.
+
+### Commercial Bias Against AGI Research
+The [[comparison_of_narrow_ai_and_agi | AI industry]] has largely self-organized to leverage DNNs for commercial value, focusing on narrow applications where systems repeat well-understood operations to maximize defined metrics <a class="yt-timestamp" data-t="02:47:06">[02:47:06]</a>. For example, military applications prioritize AI that "obey Doctrine" over those that "create, imagine and improvise" <a class="yt-timestamp" data-t="02:07:06">[02:07:06]</a>. Similarly, advertising AI focuses on maximizing user clicks, which doesn't require imaginative capabilities <a class="yt-timestamp" data-t="02:26:06">[02:26:06]</a>. This focus on short-term financial returns disincentivizes long-term [[Artificial general intelligence AGI challenges and possibilities | AGI]] research and development <a class="yt-timestamp" data-t="02:40:06">[02:40:06]</a>.
+
+> "The economics of modern industry suits itself really really well to AIs that are good at like combining already existing elements to to maximize maximize known metrics and what what this means is that the industry of AI doesn't have that much motivation to flail around doing AGI r d" <a class="yt-timestamp" data-t="02:50:06">[02:50:06]</a>
+
+### Research Attention Span
+A contributing factor to the lack of progress in [[Artificial general intelligence AGI challenges and possibilities | AGI]] is a perceived lack of attention span among younger researchers <a class="yt-timestamp" data-t="02:40:06">[02:40:06]</a>. Many are accustomed to running learning algorithms on data sets and getting immediate, "cool" results <a class="yt-timestamp" data-t="02:50:06">[02:50:06]</a>. [[Artificial general intelligence AGI challenges and possibilities | AGI]] research, however, often requires patience and may not yield immediate feedback for days, weeks, or even years <a class="yt-timestamp" data-t="02:50:06">[02:50:06]</a>.
+
+## Conclusion
+
+While deep neural networks have achieved impressive practical success in narrow AI tasks, their fundamental reliance on shallow pattern recognition, difficulty with true abstraction and generalization, and the economic incentives that favor short-term, predictable outputs, make them ill-suited on their own for achieving human-level [[Artificial General Intelligence AGI vs Narrow AI | AGI]] <a class="yt-timestamp" data-t="02:38:06">[02:38:06]</a>. Progress towards [[Artificial general intelligence AGI challenges and possibilities | AGI]] will likely require exploring other, less mainstream approaches or significantly upgrading current DNNs to incorporate more biologically realistic learning mechanisms and structured semantic representations <a class="yt-timestamp" data-t="00:59:06">[00:59:06]</a>.

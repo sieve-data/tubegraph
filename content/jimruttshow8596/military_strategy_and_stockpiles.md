@@ -1,0 +1,74 @@
+---
+title: Military Strategy and Stockpiles
+videoId: IYaDWBFkjP8
+---
+
+From: [[jimruttshow8596]] <br/> 
+The [[Military Strategy and Stockpiles | Ukraine-Russia War]] has offered significant lessons in [[Military strategies in the Ukraine war | military strategy]] and the utility of existing stockpiles, challenging long-held assumptions about modern warfare <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
+
+## Obsolete Stockpiles and Rapid Technological Transformation
+
+Traditional [[Military stockpiles and logistics | military stockpiles]] are proving far less useful than previously assumed <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. This is due to two main reasons:
+1.  **High Attrition Rate:** The rate of attrition in drone-intensified warfare is extremely high for equipment ranging from tanks and trucks to artillery shells <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. Artillery has returned as a key component of [[Military tactics and strategies in the RussiaUkraine war | positional warfare]], demanding immense quantities of shells that are difficult to stockpile <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
+2.  **Technological Obsolescence:** The next conflict will be waged with even more advanced technological tools, making it difficult to know what to stockpile in advance <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. For instance, stockpiles of old tanks are obsolete <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. Ukraine now produces 80,000 suicide drones monthly, a scaling of production considered impossible just a few years ago <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+
+Decision-makers globally are downplaying this profound transformation, possibly because they do not wish to inform large [[Military stockpiles and logistics | military contractors]] that their product lines are obsolete <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. The rapid evolution of warfare technology means that envisioning future needs beyond two years is becoming increasingly difficult <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
+
+## Peer-to-Peer vs. Asymmetric Warfare
+
+The Ukraine-Russia War marks the first major near-peer conflict since World War II <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>. Previous conflicts often involved a technologically superior force fighting a less sophisticated opponent <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. This peer-level dynamic has exposed weaknesses in "lazy assumptions" made by stronger powers <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. For example, Russia's ability to jam GPS signals rendered many US-made GPS-guided munitions, like HIMARS rockets, largely ineffective <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
+
+## Miscalculations in the Russian Invasion
+
+Four main factors contributed to Russian miscalculations in the initial invasion:
+1.  **Failure to Decapitate Leadership:** Russia gambled that Ukraine's leadership would flee, similar to the collapse of the Afghanistan government <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. This expectation was wrong, as President Zelenskyy remained <a class="yt-timestamp" data-t="00:08:25">[00:08:25]</a>.
+2.  **Overestimation of Mobile Warfare:** Both Russia and many international observers overestimated the effectiveness of mobile warfare, particularly tank warfare, in modern conflict <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>. The terrain in Ukraine, historically suitable for large tank battles (e.g., Battle of Kursk), saw an initial Russian push that eventually gave way to a [[Impact of nontraditional warfare tactics like drones and guided munitions | technological transformation]] favoring [[Asymmetric Warfare and Defense Strategies | positional warfare]] <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a> <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>.
+3.  **Ukrainian Readiness:** Ukraine had extensively reformed and swept its government for Russian sympathizers since 2014, and its military had undergone significant training and modernization <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>. Additionally, the harsh reality of Russian rule in areas like Donbas turned many ethnic Russians against the Russian cause <a class="yt-timestamp" data-t="00:17:51">[00:17:51]</a>.
+4.  **Russian Military Corruption:** The level of corruption within the Russian military was much higher than anticipated <a class="yt-timestamp" data-t="00:19:12">[00:19:12]</a>. Reforms initiated in the early 2000s to streamline and modernize the military were largely ineffective <a class="yt-timestamp" data-t="00:19:17">[00:19:17]</a>. This led to significant supply shortages, such as cheap tires replacing military-grade ones, causing logistical breakdowns <a class="yt-timestamp" data-t="00:20:41">[00:20:41]</a>. Russia's initial advance stalled not due to a Ukrainian counter-offensive, but because they exhausted their own supplies <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>.
+
+## The Pendulum of Offensive vs. Defensive Dominance
+
+Military history shows a recurring shift between offensive and defensive dominance, often driven by technology <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>.
+
+*   **Napoleonic Era to US Civil War:** Smoothbore muskets (75-yard effective range) favored frontal assaults <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>. The invention of the Minié ball and rifled muskets (200-yard effective range) in the mid-19th century drastically shifted the advantage to the tactical defensive <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>.
+*   **World War I:** Machine guns and rapid-fire light artillery made breakthroughs exceedingly difficult on compact fronts, leading to static [[Military tactics and strategies in the RussiaUkraine war | trench warfare]] <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>.
+*   **World War II:** The combination of air power, radio, and tanks led to a return of [[Military tactics and strategies in the RussiaUkraine war | mobile warfare]] (Blitzkrieg), with front lines moving significantly faster than in WWI <a class="yt-timestamp" data-t="00:14:37">[00:14:37]</a>.
+*   **Modern Warfare:** The Ukraine-Russia War indicates a new shift. Inexpensive anti-tank weapons and [[Drone Warfare and Technological Innovation | drones]] have made traditional mobile warfare (e.g., tank advances) less effective, returning some advantage to the defense <a class="yt-timestamp" data-t="00:15:26">[00:15:26]</a>.
+
+## The Role of Reserves and Conscription
+
+Ukraine's ability to ramp up its military from 200,000 to 700,000 personnel by July 2022 highlights the importance of a massive reserve force in a peer-to-peer conflict <a class="yt-timestamp" data-t="00:21:40">[00:21:40]</a>. The US military's reserve forces are significantly smaller in absolute numbers than Ukraine's, raising questions about US readiness for an extended multi-year war <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>.
+
+The war has also re-emphasized the role of conscription. While professionalized militaries in the 1990s and early 2000s led many countries to abolish mandatory military service, Ukraine's defense depended on its capability to institute a wide draft <a class="yt-timestamp" data-t="00:25:27">[00:25:27]</a>. This may lead to more mandatory service globally, especially in Europe and Asia <a class="yt-timestamp" data-t="00:26:28">[00:26:28]</a>.
+
+### Demographic Impact on Warfare
+The average age of combatants in the Ukraine-Russia War (40.5 for Ukraine, 40.7 for Russia) is notably higher than in previous historical conflicts <a class="yt-timestamp" data-t="00:28:48">[00:28:48]</a>. This demographic decline in both countries, common in many modern nations, could lead to wars where older individuals are increasingly involved and casualties <a class="yt-timestamp" data-t="00:29:07">[00:29:07]</a>.
+
+## The Evolution of [[Drone Warfare and Technological Innovation | Drone Warfare]]
+
+The war has seen an incredibly rapid evolution in [[Drone Warfare and Technological Innovation | drone warfare]] <a class="yt-timestamp" data-t="00:35:05">[00:35:05]</a>.
+*   **Off-the-shelf Components:** Militarily useful drones can be built from civilian electronics with explosives <a class="yt-timestamp" data-t="00:35:15">[00:35:15]</a>.
+*   **Skilled Pilots:** Drone pilot skill is a significant factor, with virtual reality goggles enabling thousands of hours of combat flight experience with minimal risk to the pilot's life <a class="yt-timestamp" data-t="00:36:08">[00:36:08]</a>. This allows pilots to become exceptionally skilled, similar to snipers <a class="yt-timestamp" data-t="00:36:44">[00:36:44]</a>. Young people, with faster response times and higher neuroplasticity, may be optimally suited for drone piloting <a class="yt-timestamp" data-t="00:37:15">[00:37:15]</a>.
+*   **Obsoleting Traditional Air Forces:** The muted role of both Ukrainian and Russian traditional air forces suggests [[Drone Warfare and Technological Innovation | drones]] are becoming the new air power for reconnaissance and munition delivery <a class="yt-timestamp" data-t="00:42:08">[00:42:08]</a>. This poses a challenge for countries like the US, which heavily invested in manned, 20th-century air forces <a class="yt-timestamp" data-t="00:42:58">[00:42:58]</a>.
+*   **Cost Ratios and Industrial Transformation:** The low cost of suicide drones ($1,000 or less) compared to a Russian tank (millions) creates a highly favorable economic exchange ratio <a class="yt-timestamp" data-t="00:46:13">[00:46:13]</a>. This means countries must build their own drones to adapt rapidly to combat conditions <a class="yt-timestamp" data-t="00:40:32">[00:40:32]</a>, leading to the industrialization of drone production <a class="yt-timestamp" data-t="00:41:05">[00:41:05]</a>.
+
+### Autonomous Drones
+The development of truly autonomous drones is expected to be incremental, similar to self-driving cars, due to the long tail of complex, unstructured battlefield situations and limited unique combat data sets for training AI <a class="yt-timestamp" data-t="00:50:11">[00:50:11]</a> <a class="yt-timestamp" data-t="00:52:58">[00:52:58]</a>. However, the arms race in electronic countermeasures (ECM) makes remote piloting increasingly difficult, potentially accelerating the need for autonomous capabilities <a class="yt-timestamp" data-t="00:53:43">[00:53:43]</a>. The lower bar for "good enough" performance in warfare (where some civilian casualties or friendly fire are accepted) could also push autonomous development faster <a class="yt-timestamp" data-t="00:55:08">[00:55:08]</a>.
+
+## The Continued Relevance of Artillery
+
+Despite advances in [[Drone Warfare and Technological Innovation | drone warfare]], artillery remains the "queen of battle" <a class="yt-timestamp" data-t="00:44:47">[00:44:47]</a>. Millions of artillery shells have been expended in the Ukraine-Russia War <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.
+*   **Dumb Drones:** Artillery shells are effective "dumb drones" that cannot be easily jammed by ECM once fired <a class="yt-timestamp" data-t="01:06:16">[01:06:16]</a>.
+*   **Positional Warfare:** The return to [[Military tactics and strategies in the RussiaUkraine war | positional warfare]] and trench warfare, partly due to drones making maneuver difficult, has amplified artillery's advantage <a class="yt-timestamp" data-t="01:06:51">[01:06:51]</a>.
+*   **Drone-Artillery Synergy:** Surveillance [[Drone Warfare and Technological Innovation | drones]] can provide live targeting updates for artillery pieces, creating a powerful pairing <a class="yt-timestamp" data-t="01:07:33">[01:07:33]</a>.
+*   **Logistical Challenges:** Ukraine's reliance on Soviet-caliber artillery and subsequent transition to NATO-caliber equipment has strained Western stockpiles, highlighting the need for increased production of basic supplies <a class="yt-timestamp" data-t="01:08:00">[01:08:00]</a> <a class="yt-timestamp" data-t="01:08:40">[01:08:40]</a>.
+
+## [[Implications for Global Military Conflicts | Implications for Future Conflicts]]: The Straits of Taiwan
+
+Lessons from the Ukraine-Russia War have significant implications for a potential conflict over the Straits of Taiwan:
+*   **Sanctions Effectiveness:** Countries now understand that US-led sanctions only matter if China also sanctions them <a class="yt-timestamp" data-t="01:13:11">[01:13:11]</a>, giving some nations flexibility in balancing US and Chinese interests.
+*   **Untested Military:** The Chinese military (PLA) is largely untested in large-scale combat <a class="yt-timestamp" data-t="01:13:55">[01:13:55]</a>. Its bureaucratic functionality and logistical capabilities are likely problematic, similar to Russia's <a class="yt-timestamp" data-t="01:15:02">[01:15:02]</a>. China might attempt smaller expeditionary conflicts to test its forces before a Taiwan invasion <a class="yt-timestamp" data-t="01:14:01">[01:14:01]</a>.
+*   **Autocratic Regimes and Public Opinion:** Autocratic countries can effectively rally their populations for aggressive wars <a class="yt-timestamp" data-t="01:16:35">[01:16:35]</a>. Theories that internal dissent would overthrow leaders like Putin during war proved false <a class="yt-timestamp" data-t="01:16:52">[01:16:52]</a>.
+*   **Drone Swarms for Invasion:** The massive number of drones used in Ukraine suggests a potential for a "300,000 drone" invasion across the Taiwan Strait, overwhelming air defenses and allowing for psychological operations (e.g., declaring curfews via loudspeakers) <a class="yt-timestamp" data-t="01:17:41">[01:17:41]</a>. This highlights a qualitative shift in amphibious invasion scenarios <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>.
+*   **Defensive Advantage and Naval Obscurity:** The war's macro-level favoring of the defensive makes a full-scale amphibious invasion of Taiwan highly risky for China <a class="yt-timestamp" data-t="01:22:12">[01:22:12]</a>. Ukraine's ability to drive the Russian Navy out of the Black Sea using inexpensive [[Asymmetric Warfare and Defense Strategies | anti-ship missiles]] demonstrates the vulnerability of traditional naval assets like aircraft carriers <a class="yt-timestamp" data-t="01:22:55">[01:22:55]</a> <a class="yt-timestamp" data-t="01:23:08">[01:23:08]</a>.
+*   **Autonomous Submersibles:** The development of autonomous submersible vehicles could lead to new blockade strategies, with thousands of self-deploying "attack mines" surrounding an island <a class="yt-timestamp" data-t="01:25:40">[01:25:40]</a>. This would spark another arms race in undersea warfare <a class="yt-timestamp" data-t="01:26:11">[01:26:11]</a>.

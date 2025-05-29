@@ -1,0 +1,85 @@
+---
+title: Measuring Complexity
+videoId: nPpn_IpzBk8
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Measuring [[complexity_in_various_domains | complexity]] is a challenging endeavor, with no single, universally agreed-upon method <a class="yt-timestamp" data-t="01:28:19">[01:28:19]</a>. When Seth Lloyd began working on this problem in 1986 or 1987, his supervisor at Rockefeller University, Heinz Pagels, challenged him to find a mathematical measure of [[complexity_science_and_its_implications | complexity]] <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>. However, Lloyd initially questioned if it was even possible, given that [[complexity_science_and_its_implications | complexity]] often refers to things that are difficult to characterize and measure <a class="yt-timestamp" data-t="02:04:47">[02:04:47]</a>.
+
+During a visit to the Santa Fe Institute in 2002, Jim Rut expected to find a single, definitive answer to how to measure [[complexity_science_and_its_implications | complexity]], but instead encountered twenty different ideas from twenty different people <a class="yt-timestamp" data-t="02:18:00">[02:18:00]</a>. Lloyd himself gave a talk in 1988 titled "31 measures of [[complexity_science_and_its_implications | complexity]]" highlighting the multitude of approaches <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>.
+
+The world is inherently complex, and few things are truly simple <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>. Even something as fundamental as an electron requires complex theory to understand <a class="yt-timestamp" data-t="03:02:00">[03:02:00]</a>, and interactions involving just three electrons quickly become complex, akin to the famous three-body problem in gravity <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>. Biological systems, such as the metabolism of a bacterium, exemplify high [[complexity_science_and_its_implications | complexity]] with thousands of interacting chemical reactions and feedback loops <a class="yt-timestamp" data-t="03:40:00">[03:40:00]</a>.
+
+Fundamentally, the problem of measuring [[complexity_science_and_its_implications | complexity]] stems from it being a broad class of phenomena rather than a singular, easily quantifiable entity <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>. Different fields have developed their own specialized measures that work well within their specific domains <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>.
+
+## Different Measures of Complexity [[different_measures_of_complexity | Different Measures of Complexity]]
+
+### Algorithmic Complexity (Kolmogorov Complexity)
+In computer [[science_and_complexity | science]], a primary measure of [[complexity_science_and_its_implications | complexity]] is the number of logical operations a computer needs to perform to execute a program <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>. Algorithmic complexity, also known as Kolmogorov complexity, quantifies the shortest possible computer program required to generate a specific output <a class="yt-timestamp" data-t="08:36:00">[08:36:00]</a>.
+*   **Pros**: Accurately identifies patterns. For example, a sequence of a billion ones (`111111...`) is considered simple because a short program can generate it <a class="yt-timestamp" data-t="07:33:00">[07:33:00]</a>.
+*   **Cons**: Fails to capture intuitive [[complexity_science_and_its_implications | complexity]] for random data. A truly random sequence of pixels on a TV screen, or a coin flip sequence, would have very high algorithmic complexity because the shortest "program" is essentially the sequence itself <a class="yt-timestamp" data-t="09:00:00">[09:00:00]</a>. However, such random patterns are not intuitively complex <a class="yt-timestamp" data-t="09:59:00">[09:59:00]</a>.
+
+### Shannon Entropy
+Shannon entropy is a measure of information, specifically the amount of information required to describe a bit string, taking into account its regularities <a class="yt-timestamp" data-t="10:11:00">[10:11:00]</a>. It's the same formula derived by Maxwell, Boltzmann, and Gibbs in the 19th century to describe physical entropy <a class="yt-timestamp" data-t="11:11:00">[11:11:11]</a>. Shannon's work focused on compressing messages to use bandwidth efficiently, leveraging statistical regularities <a class="yt-timestamp" data-t="11:43:00">[11:43:00]</a>. A string of a billion ones is easily compressed, as it has low Shannon entropy <a class="yt-timestamp" data-t="11:57:00">[11:57:00]</a>.
+
+### Logical Depth
+Introduced by Charles Bennett, logical depth addresses the limitations of algorithmic complexity <a class="yt-timestamp" data-t="12:14:00">[12:14:00]</a>. It measures the number of computational steps a computer must take to produce an output from its shortest possible program <a class="yt-timestamp" data-t="14:47:00">[14:47:00]</a>.
+*   Things with low Kolmogorov complexity (like a billion ones) are easy to produce and thus not logically deep <a class="yt-timestamp" data-t="15:08:00">[15:08:00]</a>.
+*   Random bit strings have high Kolmogorov complexity but are also not logically deep, as the program is essentially the string itself, which runs quickly <a class="yt-timestamp" data-t="15:20:00">[15:20:00]</a>.
+*   The first billion digits of Pi are an example of something with high logical depth <a class="yt-timestamp" data-t="13:03:00">[13:03:00]</a>. While there are short programs to generate Pi (like the ancient Greek method of inscribing polygons) <a class="yt-timestamp" data-t="14:03:00">[14:03:00]</a>, executing these programs to produce many digits takes a long time <a class="yt-timestamp" data-t="15:41:00">[15:41:00]</a>.
+*   This concept applies to patterns generated by cellular automata, such as Rule 110, which can produce arbitrarily complex patterns that require all steps to be computed <a class="yt-timestamp" data-t="16:01:00">[16:01:00]</a>.
+
+### Thermodynamic Depth
+Defined by Seth Lloyd and Heinz Pagels for Lloyd's PhD thesis, thermodynamic depth is a physical analog of logical depth <a class="yt-timestamp" data-t="18:48:00">[18:48:00]</a>. It measures how much free energy must be consumed and dissipated to assemble a system from its simple description <a class="yt-timestamp" data-t="19:10:00">[19:10:00]</a>.
+*   The thermodynamic depth of a bacterial metabolism is enormous because it took billions of years of evolution and immense energy expenditure to produce <a class="yt-timestamp" data-t="19:40:00">[19:40:00]</a>.
+*   This measure can be precisely defined mathematically and physically, and can be linked to computational measures through the physics of computation <a class="yt-timestamp" data-t="20:00:00">[20:00:00]</a>.
+
+### Effective Complexity
+Developed by Murray Gell-Mann and Seth Lloyd, effective complexity combines physical and computational notions of [[complexity_science_and_its_implications | complexity]] <a class="yt-timestamp" data-t="21:18:00">[21:18:00]</a>. It separates the description of a system into two parts: entropy (random motions) and the algorithmic part (non-random, structured information) <a class="yt-timestamp" data-t="21:52:00">[21:52:00]</a>. Effective complexity focuses on the non-random, functional information required to describe a system <a class="yt-timestamp" data-t="22:57:00">[22:57:00]</a>.
+*   For a bacterium, its effective complexity would include the organization of its metabolism, DNA, chemical reactions, and how it uses energy for reproduction <a class="yt-timestamp" data-t="24:02:00">[24:02:00]</a>. This information is vast (billions of bits for DNA) but much smaller than describing the individual motions of all its atoms and molecules <a class="yt-timestamp" data-t="25:29:00">[25:29:00]</a>.
+*   Defining effective [[complexity_science_and_its_implications | complexity]] requires subjectivity: one must define what information is important for the system's purpose and setting <a class="yt-timestamp" data-t="26:05:00">[26:05:00]</a>. For example, studying an *E. coli* bacterium in its ecological context within the gut would focus on membranes, inputs, and outputs, rather than detailed internal chemistry <a class="yt-timestamp" data-t="28:28:00">[28:28:00]</a>.
+*   This concept often relies on "coarse-graining," where information below a certain scale is intentionally left out to focus on relevant features <a class="yt-timestamp" data-t="29:17:00">[29:17:00]</a>.
+
+### Fractal Dimensions
+[[complexity_in_various_domains | Complexity in Various Domains]] involves the study of nonlinear dynamical systems and fractals <a class="yt-timestamp" data-t="30:22:00">[30:22:00]</a>. Fractals are self-similar patterns, like those found in snowflakes, which appear similar at different scales <a class="yt-timestamp" data-t="30:40:00">[30:40:00]</a>.
+*   Edward Lorenz's work on weather patterns demonstrated that while weather is chaotic (tiny differences lead to big outcomes) <a class="yt-timestamp" data-t="31:11:00">[31:11:00]</a>, its dynamics are confined to a "strange attractor," a fractal structure <a class="yt-timestamp" data-t="31:31:00">[31:31:00]</a>.
+*   Fractal dimensions are useful in describing systems where even if unpredictable in some ways, they are predictable in others due to their underlying low-dimensional fractal structure <a class="yt-timestamp" data-t="34:55:00">[34:55:00]</a>. This allows for prediction of weather patterns using macroscopic fluid dynamics equations rather than individual atomic motions <a class="yt-timestamp" data-t="35:06:00">[35:06:00]</a>.
+
+### Lempel-Ziv-Walsh (LZW) Complexity
+LZW [[complexity_science_and_its_implications | complexity]] is a method for adaptive data compression, similar to Shannon's goal of efficiently encoding messages with regularities <a class="yt-timestamp" data-t="38:14:00">[38:14:00]</a>.
+*   It works by building a dictionary and assigning shorter codes to combinations of letters or words that occur more frequently <a class="yt-timestamp" data-t="38:59:00">[38:59:00]</a>.
+*   LZW is adaptive, meaning it learns these patterns as it processes the message <a class="yt-timestamp" data-t="39:01:00">[39:01:00]</a>. The receiver can deduce the codes on the fly <a class="yt-timestamp" data-t="39:22:00">[39:22:00]</a>.
+*   Mathematically, LZW asymptotically approaches the Shannon bound for encoding efficiency as message length increases <a class="yt-timestamp" data-t="39:42:00">[39:42:00]</a>.
+*   This algorithm is the basis for common file compression formats like ZIP and GIF <a class="yt-timestamp" data-t="40:13:00">[40:13:00]</a>. Applying LZW twice does not improve compression; the compressed form is designed to appear more random, thus less compressible <a class="yt-timestamp" data-t="40:55:00">[40:55:00]</a>.
+
+### Statistical Complexity (Epsilon Machines)
+Developed by Jim Crutchfield and Young, statistical complexity measures the size of the simplest computational machine (an automaton) that can reproduce a given message or text with the same statistical regularities <a class="yt-timestamp" data-t="41:15:00">[41:15:00]</a>.
+*   An automaton transitions between states, producing outputs, and can be designed to reproduce probabilistic strings <a class="yt-timestamp" data-t="42:15:00">[42:15:00]</a>.
+*   Epsilon machines are relevant to modern large language models, which are a form of complex automaton with "attention mechanisms" that identify patterns and relationships within vast datasets <a class="yt-timestamp" data-t="43:25:00">[43:25:00]</a>.
+*   These models are incredibly large, require massive computer space and energy to train, and have a significant carbon footprint <a class="yt-timestamp" data-t="44:22:00">[44:22:00]</a>.
+
+### Mutual Information
+Mutual information quantifies the information shared between different parts of a complex system made up of multiple subsystems <a class="yt-timestamp" data-t="48:25:00">[48:25:00]</a>.
+*   It is calculated as the sum of the information of individual pieces minus the total information of the combined system <a class="yt-timestamp" data-t="49:13:00">[49:13:00]</a>.
+*   While a complex system like a bacterium's metabolism exhibits vast mutual information due to extensive communication and chemical exchanges <a class="yt-timestamp" data-t="50:07:00">[50:07:00]</a>, mutual information alone is insufficient for [[complexity_science_and_its_implications | complexity]]. A system where all parts are identical (e.g., a billion identical bits) has high mutual information but is not complex <a class="yt-timestamp" data-t="49:45:00">[49:45:00]</a>. It is a necessary but insufficient condition for [[complexity_science_and_its_implications | complexity]] <a class="yt-timestamp" data-t="50:44:00">[50:44:00]</a>.
+
+### Integrated Information
+Integrated information, proposed by Giulio Tononi, is a more intricate form of mutual information <a class="yt-timestamp" data-t="51:31:00">[51:31:00]</a>. It measures not only shared information but also the degree to which one can infer the operation of different parts of a system from each other <a class="yt-timestamp" data-t="52:06:00">[52:06:00]</a>.
+*   Complex systems like brains or bacteria possess a lot of integrated information <a class="yt-timestamp" data-t="52:18:00">[52:18:00]</a>.
+*   However, like mutual information, it's not a sufficient condition for [[complexity_science_and_its_implications | complexity]] (or consciousness, as Tononi posits). Error-correcting codes, for instance, have high integrated information because every part of the system carries redundant information about the message, allowing for reconstruction even if parts are damaged <a class="yt-timestamp" data-t="52:41:00">[52:41:00]</a>. Yet, error-correcting codes can be quite simple and are not considered conscious <a class="yt-timestamp" data-t="53:09:00">[53:09:00]</a>.
+
+### Network Complexity
+[[complexity_in_various_domains | Complexity in Various Domains]] such as networks (communication networks, neural connections, power grids) are important areas of study <a class="yt-timestamp" data-t="57:23:00">[57:23:00]</a>.
+*   Network [[complexity_science_and_its_implications | complexity]] refers to ideas about dealing with complex networks, considering their structure (e.g., power plants of different sizes and types connected in various ways) and dynamics (e.g., electricity flowing across vast distances) <a class="yt-timestamp" data-t="57:51:00">[57:51:00]</a>.
+*   These systems can exhibit unforeseen behaviors and tend to have chaotic regimes <a class="yt-timestamp" data-t="58:40:00">[58:40:00]</a>. Engineers aim to tune them away from chaos, but when driven to their limits, small changes can lead to unpredictable, complex, and often undesirable emergent behaviors <a class="yt-timestamp" data-t="58:52:00">[58:52:00]</a>.
+
+### Multiscale Entropy
+Multiscale entropy relates to the concept of coarse-graining, where a system is viewed at different levels of detail <a class="yt-timestamp" data-t="01:00:20">[01:00:20]</a>.
+*   A complex system typically contains a lot of information at each scale <a class="yt-timestamp" data-t="01:01:10">[01:01:10]</a>. For example, a human body is complex at macroscopic scales (conversations), cellular scales (individual human cells are highly complex), and even at microscopic scales within cells (e.g., mitochondria) <a class="yt-timestamp" data-t="01:01:27">[01:01:27]</a>.
+*   Multiscale entropy indicates how much information is present at these various scales <a class="yt-timestamp" data-t="01:02:17">[01:02:17]</a>.
+*   Similar to mutual and integrated information, high multiscale entropy is a symptom of [[complexity_science_and_its_implications | complexity]], but not a sole determinant. Simple fractal systems, while having a lot of multiscale information, are not necessarily considered very complex <a class="yt-timestamp" data-t="01:02:38">[01:02:38]</a>.
+
+## Conclusion
+
+The discussion reveals that there is no single measure of [[complexity_science_and_its_implications | complexity]] that applies universally <a class="yt-timestamp" data-t="01:03:14">[01:03:14]</a>. Instead, there are many [[different_measures_of_complexity | different measures of complexity]], each with its own practical applications and limitations <a class="yt-timestamp" data-t="01:03:20">[01:03:20]</a>. The choice of measure often depends on the specific context, purpose, and the level of "coarse-graining" applied to the system under study <a class="yt-timestamp" data-t="02:24:00">[02:24:00]</a>. While some measures quantify how hard something is to describe (like entropy or algorithmic information) <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a>, others measure how hard it is to produce or do something (like computational [[complexity_science_and_its_implications | complexity]] or thermodynamic depth) <a class="yt-timestamp" data-t="00:46:20">[00:46:20]</a>. Ultimately, the most useful measure is the one that best serves the analytical needs of a particular domain <a class="yt-timestamp" data-t="01:03:52">[01:03:52]</a>.

@@ -1,0 +1,69 @@
+---
+title: The Role of Social Technologies in Societal Development
+videoId: OFCkAILMfrA
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Samo Burja's work, particularly his book *Great Founder Theory*, explores the enduring nature of societies and the critical role of social technologies in their development and longevity <a class="yt-timestamp" data-t="01:06:00">[01:06:00]</a>. His core interest lies in understanding why no society has ever been immortal and how [[institutions]] can endure for centuries and millennia <a class="yt-timestamp" data-t="01:06:00">[01:06:00]</a>, <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>.
+
+## Defining Social Technologies and Institutions
+
+Samo Burja defines [[institutions]] as "automated instantiated coordination mechanisms" <a class="yt-timestamp" data-t="12:17:00">[12:17:00]</a>. These can range from highly proceduralized bureaucracies, where tasks are broken into small steps and no participant needs to understand the whole process for a reliable output (similar to an assembly line) <a class="yt-timestamp" data-t="12:35:00">[12:35:00]</a>, to self-correcting institutions like organized religions where members deeply believe in the mission and actively work to maintain it <a class="yt-timestamp" data-t="13:03:00">[13:03:00]</a>. Market mechanisms are another example, factoring individual knowledge into the institution's behavior <a class="yt-timestamp" data-t="13:17:00">[13:17:00]</a>.
+
+He frames these as [[social_technologies | social technologies]] to emphasize their functional aspects <a class="yt-timestamp" data-t="14:07:00">[14:07:00]</a>. The introduction of new [[social_technologies | social technologies]] can radically reshape societies <a class="yt-timestamp" data-t="13:42:00">[13:42:00]</a>. Examples include:
+*   **Politeness**: Compared to a communications protocol <a class="yt-timestamp" data-t="14:16:00">[14:16:00]</a>.
+*   **Bureaucracy**: A machine designed for a specific purpose <a class="yt-timestamp" data-t="14:24:00">[14:24:27]</a>.
+*   **Capitalism**: Requiring specific [[social_technologies | social technologies]] that can be introduced and transform societies <a class="yt-timestamp" data-t="14:42:00">[14:42:00]</a>. Modern Japan adopted capitalism's benefits without converting to Protestant Christianity, suggesting these technologies can be recombined and atomistic <a class="yt-timestamp" data-t="15:12:00">[15:12:00]</a>, <a class="yt-timestamp" data-t="15:36:00">[15:36:00]</a>.
+*   **Language**: The French state's imposition of the French language from the 15th to 19th centuries created a nation where people could communicate, facilitating trade, bureaucracy, and military scaling <a class="yt-timestamp" data-t="29:12:00">[29:12:00]</a>.
+*   **Organized Religions**: Those arising during the axial age (c. 700 BCE - 780 CE) provided gods and mythologies understood across large Iron Age empires, enabling coordination across vast trade networks and political systems <a class="yt-timestamp" data-t="30:17:00">[30:17:00]</a>.
+
+## Social Technology and its [[impact_of_technology_on_societies_and_individuals | Societal Impact]]
+
+[[Social_technologies | Social technologies]] are seen as ways to lower social coordination costs <a class="yt-timestamp" data-t="27:24:00">[27:24:00]</a>. Human behavior and evolution are primarily driven by other humans <a class="yt-timestamp" data-t="27:42:00">[27:42:00]</a>. Cooperation is vital, especially in unpredictable environments, as [[social_technologies | social technologies]] help make individuals more intelligible and legible to each other <a class="yt-timestamp" data-t="28:10:00">[28:10:00]</a>.
+
+### Evolution vs. Design
+
+While there is some evolution through selection (what is sustainable for a society), Burja argues that societies can be "remarkably conformist" with "relatively little variation" <a class="yt-timestamp" data-t="16:56:00">[16:56:00]</a>, <a class="yt-timestamp" data-t="17:04:00">[17:04:00]</a>. He suggests that rapid social transformations are often due to "great founders" who introduce social technologies in a "hall formed" manner, rather than purely evolutionary processes <a class="yt-timestamp" data-t="17:58:00">[17:58:00]</a>. Rapid changes, like the creation of a new religion that completely reshapes social structure within 20 years, are examples of this <a class="yt-timestamp" data-t="18:01:00">[18:01:00]</a>.
+
+However, historical examples like the evolution of online forums into social media platforms show a continuous, competitive, and Darwinian process of step-by-step improvements <a class="yt-timestamp" data-t="20:03:00">[20:03:00]</a>. This highlights that [[social_technologies | social technologies]] can also evolve through a dynamic competitive process, especially during periods of intellectual, business, or industrial "golden ages" <a class="yt-timestamp" data-t="22:23:00">[22:23:00]</a>.
+
+## Interplay with Hard Technology and Markets
+
+[[Technological_evolution_and_societal_impact | Technology]] and society are mutually co-dependent <a class="yt-timestamp" data-t="51:53:00">[51:53:00]</a>. A material [[technology]] cannot be productively absorbed into a social niche unless society can integrate it into its shared understanding of how things are done <a class="yt-timestamp" data-t="52:13:00">[52:13:00]</a>, <a class="yt-timestamp" data-t="53:16:00">[53:16:00]</a>.
+*   **Steam Engine**: Reinvented multiple times, but only took off in 18th century England because the society could integrate it, unlike Hellenistic Greece where it didn't lead to massive social transformation <a class="yt-timestamp" data-t="52:49:00">[52:49:00]</a>.
+*   **Guns in Japan**: Japan, after a serious civil war, banned firearms in the 16th century, leading to 300 years of peace but no advancement in gun [[technology]] <a class="yt-timestamp" data-t="53:29:00">[53:29:00]</a>. When Commodore Perry arrived with superior guns, Japan had to transform almost completely to remain viable <a class="yt-timestamp" data-t="53:48:00">[53:48:00]</a>.
+
+This distinction highlights the difference between *invention* (creation of fundamentals) and *innovation* (building out the surrounding systems to make it socially important) <a class="yt-timestamp" data-t="54:42:00">[54:42:00]</a>. Edison's success with the light bulb, by building out the entire power grid, exemplifies innovation, while others who only invented the bulb remain footnotes <a class="yt-timestamp" data-t="55:07:00">[55:07:00]</a>. Institutions are built to turn inventions into innovations <a class="yt-timestamp" data-t="56:07:00">[56:07:00]</a>.
+
+### The [[role_of_social_engineering_in_society | Social Engineering]] of Desire
+With the rise of psychology, particularly in the 20th century, [[social_technologies | social technologies]] began to involve the purposeful manipulation of human psychology <a class="yt-timestamp" data-t="01:11:58">[01:11:58]</a>. Figures like Edward Bernays (Sigmund Freud's nephew) and John Watson (behavioral psychologist) applied insights to marketing and advertising, reframing products (like cigarettes as "torches of freedom") or inducing desires by associating consumption with desirable social roles <a class="yt-timestamp" data-t="01:12:07">[01:12:07]</a>, <a class="yt-timestamp" data-t="01:13:08">[01:13:08]</a>. This can be seen as a "mass education program" in new ways of life <a class="yt-timestamp" data-t="01:14:07">[01:14:07]</a>.
+
+The evolution of business ethos, from "not doing something if it's profitable but wrong" in 1975 to "if it's arguably legal and profitable, you must do it" by the 1990s, and ultimately to "if the costs of being caught are less than the benefit of exploiting the violation, you must violate the law" by the 2000s, shows a dangerous trajectory in the application of these tools <a class="yt-timestamp" data-t="01:16:11">[01:16:11]</a>.
+
+## Challenges to [[technological_and_societal_challenges | Societal Development]]
+
+### The Epistemic Commons and Censorship
+Maintaining an accurate "epistemic commons" (socially shared reality) is vital for long-term societal viability <a class="yt-timestamp" data-t="01:43:32">[01:43:32]</a>, <a class="yt-timestamp" data-t="01:49:09">[01:49:09]</a>. There is a concern about the increasing censorship and algorithmic management of public opinion on the internet, which converges with methods seen in China <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. The ability of [[institutions]] to function under active critique has diminished <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>. This creates an information asymmetry where individuals are transparent to organizations, but organizations remain opaque <a class="yt-timestamp" data-t="03:04:00">[03:04:00]</a>.
+
+### Institutional Decay and Perverse Incentives
+Functional [[institutions]] are the exception, not the rule <a class="yt-timestamp" data-t="01:17:47">[01:17:47]</a>. True functionality is demonstrated by an institution's ability to reorient and adapt to radical changes, possessing a "self-re-engineering ability" <a class="yt-timestamp" data-t="01:18:38">[01:18:38]</a>. Without active maintenance and reimagining, unforeseen consequences multiply, leading to decay <a class="yt-timestamp" data-t="01:00:28">[01:00:28]</a>, <a class="yt-timestamp" data-t="01:04:26">[01:04:26]</a>.
+
+Examples of decay include:
+*   **Centralized Declining Empires**: Where a central power sustains itself by taxing and cannibalizing other parts of society without being dynamic or creative, leading to a slow hollowing out (e.g., late Western Roman Empire) <a class="yt-timestamp" data-t="01:39:49">[01:39:49]</a>.
+*   **Academic Incentives**: University departments, while maintaining their name, have changed radically. The "publish or perish" mentality and increased competition for limited positions have shifted focus from deep intellectual work to careerism and producing "weaponized information" or "horseshit" research <a class="yt-timestamp" data-t="01:56:00">[01:56:00]</a>, <a class="yt-timestamp" data-t="01:03:16">[01:03:16]</a>.
+*   **Student Debt**: What might have seemed a clever way to increase education affordability has perversely led to unaffordable costs because universities have no reason to reduce fees <a class="yt-timestamp" data-t="01:00:43">[01:00:43]</a>.
+
+### The Succession Problem and Institutional Longevity
+[[social_and_cultural_change | Social_and_cultural_change]] is impacted by the "succession problem" – the challenge of handing off [[institutions]] from one generation of founders to the next to maintain functionality <a class="yt-timestamp" data-t="01:27:52">[01:27:52]</a>, <a class="yt-timestamp" data-t="01:28:03">[01:28:03]</a>. This involves both "skill succession" (transfer of knowledge and competence) and "power succession" (transfer of authority) <a class="yt-timestamp" data-t="01:28:25">[01:28:25]</a>.
+
+Societies often struggle to balance these:
+*   **Adoptive Monarchy (Ancient Rome)**: The "five good emperors" period saw non-blood hereditary succession where adult men were adopted as successors, ensuring stability by preventing civil wars among rivals <a class="yt-timestamp" data-t="01:31:06">[01:31:06]</a>. This contrasts with later periods of endemic civil wars after biological sons inherited <a class="yt-timestamp" data-t="01:31:06">[01:31:06]</a>.
+*   **Mukoyoshi (Japan)**: A practice of "son-in-law adoption" where an industrialist's daughter marries a man selected for business acumen, who then adopts the family name. This transfers intangible social capital and ensures stronger power succession for companies like Suzuki, Kikkoman, or Toyota <a class="yt-timestamp" data-t="01:34:40">[01:34:40]</a>.
+*   **Botswana's Presidency**: Every president has been the vice president of the previous one <a class="yt-timestamp" data-t="01:51:17">[01:51:17]</a>. This allows for learning on the job and smooth political transitions, enabling long-term planning despite being a resource-rich, landlocked country (factors usually associated with the "resource curse") <a class="yt-timestamp" data-t="01:51:22">[01:51:22]</a>.
+
+This highlights the distinction between "borrowed power" (lent, received on behalf of someone else, like a civil servant's initial power from a monarch) and "owned power" (inherent, like knowledge) <a class="yt-timestamp" data-t="01:25:07">[01:25:07]</a>. Over time, borrowed power can transform into owned power through information asymmetries, as seen with the KGB's growing dominance over the Communist Party <a class="yt-timestamp" data-t="01:26:01">[01:26:01]</a>.
+
+The rise of startup culture, while productive in creating new [[technologies]], might also indicate a weakness in older companies' ability to manage power succession and redirect their resources towards new problems <a class="yt-timestamp" data-t="01:41:43">[01:41:43]</a>. Many large firms now acquire or license from early-stage companies rather than innovating internally <a class="yt-timestamp" data-t="01:42:46">[01:42:46]</a>. This reflects Christensen's "innovator's dilemma," where vested interests in current products can frustrate disruptive innovations <a class="yt-timestamp" data-t="01:43:31">[01:43:31]</a>.
+
+Ultimately, Samo Burja emphasizes that societies are like "unfinished buildings" or complex ecosystems, always requiring active maintenance and reimagining, not just rigid preservation <a class="yt-timestamp" data-t="01:04:17">[01:04:17]</a>. The choices made about how to maintain and evolve [[social_technologies | social technologies]] dictate the long-term viability and direction of human civilization <a class="yt-timestamp" data-t="01:04:28">[01:04:28]</a>.

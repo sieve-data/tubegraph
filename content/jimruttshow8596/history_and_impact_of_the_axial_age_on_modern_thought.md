@@ -1,0 +1,88 @@
+---
+title: History and impact of the axial age on modern thought
+videoId: xCgHrC20Di0
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The [[Historical Context Premodernity to Modernity | Axial Age]], a period roughly between 800 and 200 BCE, represents a profound [[Historical philosophical shifts and their impact on meaning and agency | shift in human consciousness]] and societal organization that continues to influence modern thought. It emerged from the ashes of a widespread collapse that marked the end of an earlier era, leading to new ways of understanding the self, the world, and one's place within it <a class="yt-timestamp" data-t="00:54:05">[00:54:05]</a>.
+
+## Precursors: The Bronze Age Collapse
+
+Prior to the [[Historical Revolutions and Modern Implications | Axial Age]], a catastrophic event known as the Bronze Age Collapse occurred around 1200-1100 BCE <a class="yt-timestamp" data-t="00:50:55">[00:50:55]</a>. This collapse was more significant than the fall of the Roman Empire in terms of the number of cities and trade networks that ceased to exist, effectively ending millennia-old civilizations like those in Babylon, the Hittite Empire, and ancient Egypt <a class="yt-timestamp" data-t="00:51:01">[00:51:01]</a>. The disappearance of "dinosaur kingdoms" created a vacuum that allowed for extensive social experimentation, akin to how mammals diversified after the asteroid impact that ended the dinosaurs <a class="yt-timestamp" data-t="00:52:51">[00:52:51]</a>. This period of disruption and reorganization set the stage for the unique developments of the Axial Age <a class="yt-timestamp" data-t="00:59:56">[00:59:56]</a>.
+
+## Emergence of the Axial Age
+
+The Axial Age is characterized by the development and widespread adoption of new [[Psychotechnologies | psychotechnologies]] <a class="yt-timestamp" data-t="00:53:35">[00:53:35]</a>. These include alphabetic literacy, numeracy, and coinage <a class="yt-timestamp" data-t="00:53:46">[00:53:46]</a>. Unlike physical tools, [[Psychotechnologies | psychotechnologies]] are "cultural tools" that alter how people make meaning, both semantically and in the sense of finding [[Meaning in Life | meaning in life]] <a class="yt-timestamp" data-t="01:16:11">[01:16:11]</a>. Literacy, for instance, is a prototypical example that massively empowers cognition <a class="yt-timestamp" data-t="01:17:23">[01:17:23]</a>. The internalization of these tools fostered what is called "second-order thinking" <a class="yt-timestamp" data-t="00:54:18">[00:54:18]</a>.
+
+### Second-Order Thinking and Self-Awareness
+
+Second-order thinking refers to a critically aware form of metacognition, the ability to become aware of one's own mind <a class="yt-timestamp" data-t="00:54:24">[00:54:24]</a>. This newfound cognitive capacity allowed individuals to note pervasive errors, patterns of self-deception, and the double-edged nature of the mind's meaning-making machinery <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>. It enabled a capacity for self-transcendence, self-correction, and forming better relationships with the world <a class="yt-timestamp" data-t="00:55:17">[00:55:17]</a>.
+
+### The Two-Worlds Model
+
+A key outcome of the Axial Age was the pervasive emergence of a "two-worlds mythology" <a class="yt-timestamp" data-t="00:55:36">[00:55:36]</a>. This model posits a dichotomy between a "fallen," "decadent" everyday world, characterized by self-deception and violence, and a "better," "more real," or "realizable" world, where suffering is reduced, and individuals can assume a "more full and better identity" <a class="yt-timestamp" data-t="00:55:38">[00:55:38]</a>. This concept could be understood metaphysically as a heaven, or as a utopic future <a class="yt-timestamp" data-t="00:56:14">[00:56:14]</a>.
+
+While acknowledged as a foundational metaphor, this two-worlds model is also seen as problematic <a class="yt-timestamp" data-t="01:03:31">[01:03:31]</a>. It provided a powerful framework for cultivating wisdom and self-transcendence but is deemed "poor language for ultimately trying to explain reality" <a class="yt-timestamp" data-t="01:03:25">[01:03:25]</a>, especially as the [[Critiques of postmodernism and modernity | scientific worldview]] has largely dismantled its literal interpretation <a class="yt-timestamp" data-t="01:03:57">[01:03:57]</a>. Historically, this model has also been used perniciously by various [[Religion and historys influence on modern society | religious institutions]] to exploit and manipulate people, for example, by justifying earthly suffering with the promise of heavenly reward <a class="yt-timestamp" data-t="01:05:33">[01:05:33]</a>.
+
+## Key Outcomes of the Axial Age
+
+### World Religions
+
+The Axial Age is noted for the simultaneous appearance of many of the world's major [[Religion and historys influence on modern society | religions]] <a class="yt-timestamp" data-t="00:56:50">[00:56:50]</a>. This includes Buddhism, Hinduism, Taoism, Jainism, Zoroastrianism, and Judaism, with Christianity and Islam later emerging as its offspring <a class="yt-timestamp" data-t="00:56:55">[00:56:55]</a>. These diverse spiritual traditions, despite their differences, shared a common thread in their pursuit of deeper meaning and truth.
+
+### The Invention of Philosophy
+
+Concurrently, in the West, the Axial Age saw the "invention of philosophy" <a class="yt-timestamp" data-t="00:57:05">[00:57:05]</a>. Thinkers like [[Socrates Plato and Aristotles philosophical impact | Thales]], Pythagoras, Heraclitus, Parmenides, and ultimately [[Socrates Plato and Aristotles philosophical impact | Socrates]] and Plato, laid the foundations for Western philosophical inquiry <a class="yt-timestamp" data-t="00:57:09">[00:57:09]</a>.
+
+#### Pre-Socratic Thinkers
+
+*   **[[Socrates Plato and Aristotles philosophical impact | Thales]]**: Often considered the first philosopher, Thales introduced a new way of thinking by seeking an underlying substance and force to explain the world through observation and reason, rather than relying on narrative explanations <a class="yt-timestamp" data-t="01:28:15">[01:28:15]</a>.
+*   **Pythagoras**: Credited with coining the terms "philosophy" and "cosmos," Pythagoras appears to have integrated a shamanic tradition into the Greek world, fusing it with a mathematical understanding of music and the universe <a class="yt-timestamp" data-t="01:29:11">[01:29:11]</a>. He is also noted for creating the first clear instance of a philosophical religious community <a class="yt-timestamp" data-t="01:29:45">[01:29:45]</a>.
+*   **Heraclitus and Parmenides**: These thinkers were centrally important for Plato's development of philosophical thought <a class="yt-timestamp" data-t="01:30:12">[01:30:12]</a>.
+
+#### Altered States of Consciousness
+
+It is important to note that many of these early philosophers, including [[Socrates Plato and Aristotles philosophical impact | Plato]] and Pythagoras, are believed to have engaged in practices that induced altered states of consciousness <a class="yt-timestamp" data-t="01:30:30">[01:30:30]</a>. Examples include the priestess at Delphi (possibly inhaling methane gas) and the Eleusinian Mysteries (potentially involving psychedelics or other means of inducing altered states like sleep deprivation or drumming) <a class="yt-timestamp" data-t="01:30:35">[01:30:35]</a>. [[Socrates Plato and Aristotles philosophical impact | Socrates]] himself was known to enter trance-like states, sometimes for extended periods <a class="yt-timestamp" data-t="01:32:10">[01:32:10]</a>. These practices may have afforded them extraordinary abilities or insights.
+
+#### [[Socrates Plato and Aristotles philosophical impact | Socrates]] and Self-Knowledge
+
+[[Socrates Plato and Aristotles philosophical impact | Socrates]]'s central watchword was "know thyself" <a class="yt-timestamp" data-t="01:33:20">[01:33:20]</a>. This did not mean understanding one's autobiography or a pre-packaged destiny <a class="yt-timestamp" data-t="01:34:33">[01:34:33]</a>. Instead, it meant becoming aware of the "machinery of the self" and directing one's "selfing" (turning the self into a verb) towards becoming a wiser, more virtuous person <a class="yt-timestamp" data-t="01:35:15">[01:35:15]</a>. For [[Socrates Plato and Aristotles philosophical impact | Socrates]], knowing oneself was intertwined with knowing others and understanding the world better <a class="yt-timestamp" data-t="01:35:41">[01:35:41]</a>.
+
+[[Socrates Plato and Aristotles philosophical impact | Socrates]] criticized the natural philosophers for providing facts without the wisdom necessary for self-transcendence <a class="yt-timestamp" data-t="01:36:04">[01:36:04]</a>. He sought "transformative truths" that were both disclosed through transformation and that, in turn, propelled further transformation <a class="yt-timestamp" data-t="01:36:44">[01:36:44]</a>.
+
+##### Critique of the Sophists
+
+[[Socrates Plato and Aristotles philosophical impact | Socrates]] famously challenged the Sophists, who pioneered rhetoric as a [[Psychotechnologies | psychotechnology]] <a class="yt-timestamp" data-t="01:37:31">[01:37:31]</a>. The Sophists, in [[Socrates Plato and Aristotles philosophical impact | Socrates]]'s view, promised powerful transformations based on highly salient but often untruthful presentations <a class="yt-timestamp" data-t="01:37:52">[01:37:52]</a>. This is likened to "bullshitting," where there is a disregard for truth in favor of making something appear appealing or convincing <a class="yt-timestamp" data-t="01:38:16">[01:38:16]</a>. For [[Socrates Plato and Aristotles philosophical impact | Socrates]], such practices led to pervasive individual and group self-deception and contributed to demagoguery <a class="yt-timestamp" data-t="01:39:51">[01:39:51]</a>.
+
+It is impossible to "lie to oneself" in a strict sense, as lying requires knowing a proposition is false while attempting to manipulate another into believing it true <a class="yt-timestamp" data-t="01:41:22">[01:41:22]</a>. However, one can "bullshit oneself" by directing one's [[Attention | attention]] to make certain things salient and ignore others, leading to self-deceptive beliefs <a class="yt-timestamp" data-t="01:42:31">[01:42:31]</a>. This process is exacerbated by social media platforms that are designed to grab and hold [[Attention | attention]] with unrealistic images, fostering self-deception and self-destructive behaviors <a class="yt-timestamp" data-t="01:44:09">[01:44:09]</a>.
+
+## Impact on Modern Thought
+
+### The Meaning Crisis
+
+The [[Historical philosophical shifts and their impact on meaning and agency | meaning crisis]] in contemporary society is characterized by symptoms such as increased rates of anxiety, depression, loneliness, addiction, and even suicide, which can stem directly from a perception of meaninglessness <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. Reactive responses include the "virtual exodus" (preferring virtual to real-world living) and the politicization of everything with religious overtones <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. More positive responses include the [[Cultural impact of postmodernism in academia and society | mindfulness revolution]] and the revival of ancient philosophies like Stoicism and Buddhism <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. All these can be seen as symptoms of an underlying problem regarding [[Meaning in Life | meaning in life]] <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
+
+The Axial Age's two-worlds model contributes to this crisis by potentially fostering unrealistic expectations about reality <a class="yt-timestamp" data-t="01:03:31">[01:03:31]</a>. For example, modern romanticism, influenced by a receding [[Religion and historys influence on modern society | Christianity]], attempts to burden romantic relationships with the meaning and fulfillment previously provided by God, religion, and tradition <a class="yt-timestamp" data-t="01:18:36">[01:18:36]</a>. This often leads to tremendous suffering because no human can meet such inflated expectations <a class="yt-timestamp" data-t="01:18:50">[01:18:50]</a>.
+
+### Wisdom and Cognitive Flexibility
+
+The Axial Age's emphasis on wisdom, defined as the capacity to see through illusion into reality <a class="yt-timestamp" data-t="01:03:34">[01:03:34]</a>, remains highly relevant. This involves developing cognitive flexibility, or the ability to "change frame" <a class="yt-timestamp" data-t="02:22:34">[02:22:34]</a>. The "nine-dot problem" illustrates how implicit constraints limit what is considered salient or relevant, and solving it requires breaking the frame and adopting a new perspective <a class="yt-timestamp" data-t="02:39:41">[02:39:41]</a>.
+
+Concepts such as [[Historical philosophical shifts and their impact on meaning and agency | participatory knowing]] (the mutual shaping between an individual and their environment <a class="yt-timestamp" data-t="03:08:25">[03:08:25]</a>) and [[Historical philosophical shifts and their impact on meaning and agency | perspectival knowing]] (understanding one's state of mind and situational awareness <a class="yt-timestamp" data-t="02:42:30">[02:42:30]</a>) are crucial to this cognitive flexibility. [[Mindfulness | Mindfulness]] practices, for instance, are [[Psychotechnologies | psychotechnologies]] that train [[Attention | attention]] to break inappropriate frames and make new ones, enhancing cognitive flexibility and insight <a class="yt-timestamp" data-t="00:45:07">[00:45:07]</a>.
+
+### [[Flow States | Flow States]] and Meaning
+
+[[Flow States | Flow states]], described as "optimal experiences," are moments of peak performance and profound reward where individuals are completely immersed in a task that slightly exceeds their skill level <a class="yt-timestamp" data-t="00:35:36">[00:35:36]</a>. In a [[Flow States | flow state]], the "nattering nanny narrative ego" falls silent, and a sense of "at-one-ment" with the environment emerges <a class="yt-timestamp" data-t="00:37:50">[00:37:50]</a>. The universal nature and adaptive function of [[Flow States | flow states]] suggest their importance for human well-being <a class="yt-timestamp" data-t="00:39:18">[00:39:18]</a>. The cultivation of wisdom, as promoted in the Axial Age, can lead to such states, as can [[Mindfulness | mindfulness]] practices <a class="yt-timestamp" data-t="00:49:51">[00:49:51]</a>.
+
+### The Role of [[Myth | Myth]] and [[Faith | Faith]]
+
+The Axial Age relied on [[Myth | myths]] as powerful expressions of perennial or pressing patterns relevant to human existence <a class="yt-timestamp" data-t="01:10:50">[01:10:50]</a>. A modern example is the zombie [[Myth | myth]], which attempts to express the [[Meaning in Life | meaning crisis]] but is considered a "failed [[Myth | myth]]" because it does not offer clear guidance for alleviation <a class="yt-timestamp" data-t="01:12:38">[01:12:38]</a>. Successful [[Myth | myths]], in contrast, provide guidance for individuals to enter into right relationship with enduring problems <a class="yt-timestamp" data-t="01:13:16">[01:13:16]</a>.
+
+The concept of [[Faith | faith]] also takes on a richer meaning beyond simply "believing ridiculous things for which there is no evidence" <a class="yt-timestamp" data-t="01:13:55">[01:13:55]</a>. Instead, [[Faith | faith]] can be understood as an "endeavor to go through an ongoing process of cognitive development" to maintain a "continuity of cognitive contact" with others, oneself, and the world, leading to mutually beneficial relationships and a sense of being "on course" <a class="yt-timestamp" data-t="01:14:41">[01:14:41]</a>. This notion reconnects [[Faith | faith]] with love as a "mutually accelerating disclosure" and reciprocal opening <a class="yt-timestamp" data-t="01:16:57">[01:16:57]</a>.
+
+## Modern Relevance: A Kairos Moment
+
+The current [[Meaning in Life | meaning crisis]] is considered a modern [[Historical Revolutions and Modern Implications | kairos]] moment <a class="yt-timestamp" data-t="01:24:28">[01:24:28]</a>. [[Historical Revolutions and Modern Implications | Kairos]], a Greek term, refers to a turning point or a critical juncture in complex systems where a constellation of factors creates an instability, offering the possibility to significantly steer or redirect the entire system <a class="yt-timestamp" data-t="01:22:14">[01:22:14]</a>. Just as [[Socrates Plato and Aristotles philosophical impact | Socrates]]'s revolution redirected Western civilization, the contemporary [[Meaning in Life | meaning crisis]] presents an opportunity for a significant transformation of humanity's future history <a class="yt-timestamp" data-t="01:24:01">[01:24:01]</a>. This places a moral obligation on us to deeply understand the situation and cultivate wisdom for effective intervention <a class="yt-timestamp" data-t="01:24:51">[01:24:51]</a>.
+
+The Axial Age's emphasis on seeking transformative truths and cultivating virtue, particularly the meta-virtue of wisdom, remains a primary existential pursuit <a class="yt-timestamp" data-t="01:51:13">[01:51:13]</a>. It offers a path to reliably experience that one's life is "worth living" by finding sufficient [[Meaning in Life | meaning in life]] to compensate for unavoidable suffering, distress, and pain <a class="yt-timestamp" data-t="01:50:56">[01:50:56]</a>.

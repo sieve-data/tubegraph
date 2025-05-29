@@ -1,0 +1,48 @@
+---
+title: Zachary Vorhies claims and whistleblowing against Google
+videoId: O22A1-Lb0KM
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Zachary Vorhies, a former software engineer at Google, publicly disclosed internal Google documents after eight years with the company <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. He alleges that Google has been acting improperly and illegally with respect to search results, blacklists, and other activities <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. These claims, if true, indicate significant manipulation of the information sphere <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+
+## Motivation for Disclosure
+
+Vorhies stated his primary reason for collecting and disclosing documents was his belief that Google was "lying to the American public about its meddling not only meddling and search results and YouTube queries but also meddling in elections" <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. He observed Google executives allegedly perjuring themselves in congressional testimony <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. Specifically, he cites instances where executives claimed Google did not employ [[googles_alleged_manipulation_of_search_results_and_blacklists | blacklists]], while Vorhies could find internal documentation proving their existence, such as the YouTube query blacklist <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. This alleged perjury extends to claims of political censorship <a class="yt-timestamp" data-t="00:26:19">[00:26:19]</a>.
+
+Vorhies's breaking point, prompting him to come forward, occurred when he witnessed Google allegedly deleting translation words from the Arabic to English dictionary <a class="yt-timestamp" data-t="00:43:30">[00:43:30]</a>. This action, he claims, was intended to make a Trump tweet "sound crazy" and was subsequently used by *The New York Times* to try and invoke the 25th Amendment to remove the U.S. President <a class="yt-timestamp" data-t="00:43:35">[00:43:35]</a>. He classified this as "treasonous behavior" and a national security issue <a class="yt-timestamp" data-t="00:45:46">[00:45:46]</a>.
+
+## Allegations of Google's Malpractice
+
+### Political Bias and Election Interference
+Vorhies claims that Google has engaged in [[allegations_of_googles_election_interference_and_machine_learning_fairness | election interference]] and exhibits a clear political bias <a class="yt-timestamp" data-t="00:20:05">[00:20:05]</a>. He attributes this shift to the 2016 U.S. election outcome, which reportedly "freaked out" Google executives <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. At a weekly "TGIF" meeting, executives allegedly attributed Trump's election to Russian hacking, racism, hate, and misogyny in the public, with one executive reportedly crying on stage <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
+
+Following this, he observed Google defining "fake news" and "slapping down" on it <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>. He stated that Google's internal papers gave examples of "fake news" that included verifiable events, such as allegations regarding Hillary Clinton's activities in Benghazi, Syria <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. He also cited the Uranium One deal as a "conspiracy fact" that Google was attempting to filter <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>.
+
+Vorhies noted that Google's search autocomplete features often reflect a political orientation that does not align with actual user search trends <a class="yt-timestamp" data-t="00:27:52">[00:27:52]</a>. As an example, he mentions that searching "Trump body-count" auto-predicts, while "Hillary body" does not suggest "body count" despite higher actual search traffic for the latter on Google Trends <a class="yt-timestamp" data-t="00:27:26">[00:27:26]</a>. He points to Google's alleged interference in Ireland's election (banning "eighth amendment to the constitution of Ireland" in YouTube search) and Brazil's election (a Supreme Court ruling citing a contract between Google and an opposing candidate) as evidence of global [[allegations_of_googles_election_interference_and_machine_learning_fairness | election interference]] <a class="yt-timestamp" data-t="00:28:33">[00:28:33]</a>.
+
+### Manipulation of Information Sphere
+Vorhies claims Google is actively engaged in [[impact_of_googles_alleged_political_bias_on_information_dissemination | sculpting the information landscape]] and that they believe they are "programming" users <a class="yt-timestamp" data-t="00:15:02">[00:15:02]</a>.
+
+*   **Machine Learning Fairness**: This system aims to revise search results, YouTube results, and news to be "fair" <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>. Vorhies notes that Google documents define "algorithmic unfairness" as a situation where search results for "CEOs" primarily show males, even if this represents "objective reality," justifying "product intervention" <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>. This, he argues, is an Orwellian attempt to distort reality <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>.
+*   **User "Programming"**: Google's internal documents allegedly describe users as "programmed based upon the content that they're interacting with" <a class="yt-timestamp" data-t="00:14:29">[00:14:29]</a>. This view of users as "programmable units" fuels Google's alleged intention to use its "control mechanism" to "program us" <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>.
+
+### Vulnerabilities and Account Suspensions
+Vorhies claims a "security vulnerability" at Google allows insiders to suspend accounts <a class="yt-timestamp" data-t="00:40:01">[00:40:01]</a>. He explains a method where creating an email network of addresses similar to a target's (e.g., Jordan B. Peterson's email) and then pushing spam from them can cause Google's AI to deactivate the entire network, including the original target's account, as a "precautionary measure" <a class="yt-timestamp" data-t="00:40:11">[00:40:11]</a>. He believes this method was used to take down Tulsi Gabbard's ad account during the Democratic debates, diverting her audience to opponents <a class="yt-timestamp" data-t="00:39:19">[00:39:19]</a>.
+
+## Google's Reaction to Vorhies's Whistleblowing
+
+After Google identified Vorhies as the leaker, they reportedly initiated a "wellness check" on him <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. A "wellness check" is a tip to the police to assess a person's well-being, granting police probable cause to investigate <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>. Vorhies views this as a "bad faith" and "Orwellian" tactic <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. Google allegedly used his posting of a "Deadman switch" on Twitter (a mechanism to ensure information release if a whistleblower is harmed) as justification for the wellness check <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>.
+
+## Google's Internal Culture and Corporate Structure
+
+Vorhies observed a decline in the quality of Google's management, contrasting it with the intelligence of its engineers <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. He suggests that management is selected more for "loyalty than for competence," leading to organizational "rot" where managers prioritize "kissing up" rather than protecting their teams <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. This trend, he notes, became apparent around 2016 <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. This [[discussion_on_googles_internal_culture_and_employee_experiences | internal culture]] shift, coupled with Google's disproportionate voting rights for insiders via its dual-class share structure, allows a small percentage of shareholders (Class B shareholders) to control the company, overriding fiduciary responsibilities to other stockholders <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>.
+
+## Accessing the Documents and Future Whistleblowing
+
+Vorhies's disclosed documents are available at Project Veritas's website <a class="yt-timestamp" data-t="00:17:26">[00:17:26]</a>. He encourages others to download the "everything.zip" file <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>. He also recommends former Google employees or those with evidence of "illegal activity" at other social media companies to contact Project Veritas via their website, advising them to use a VPN and a Tor browser for security <a class="yt-timestamp" data-t="00:47:46">[00:47:46]</a>.
+
+He emphasizes that the mainstream media is largely not covering the Google leak, suggesting a "conspiracy" or "media blackout" to prevent the story from reaching the public <a class="yt-timestamp" data-t="00:31:13">[00:31:13]</a>. Vorhies sees platforms like podcasts, blogs, and Twitter as a "new Gutenberg printing press" that allows individuals to bypass traditional "gatekeepers" and disseminate information directly to the public <a class="yt-timestamp" data-t="00:33:15">[00:33:15]</a>. He believes exposing the truth is the way to effect change <a class="yt-timestamp" data-t="00:32:34">[00:32:34]</a>.
+
+He encourages individuals to test for Google's bias by cross-referencing search suggestions with Google Trends data, which he states can reveal ideological bias <a class="yt-timestamp" data-t="00:37:41">[00:37:41]</a>.

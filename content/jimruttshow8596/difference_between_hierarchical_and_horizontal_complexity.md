@@ -1,0 +1,70 @@
+---
+title: Difference between hierarchical and horizontal complexity
+videoId: Oka3XTDxbqY
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+## Introduction and Historical Context
+
+The concept of [[Hierarchical Complexity and its emergence in psychology | hierarchical complexity]] emerged from psychology, particularly from the neo-Piagetian consensus in the 1980s and 1990s, defining "stages across lifespan development" <a class="yt-timestamp" data-t="03:49:00">[03:49:00]</a>. Its roots can be traced back almost a century to Piaget's 1923 publication, *The Language and Thought of the Child*, with earlier shades in thinkers like James Mark Baldwin and Herbert Spencer <a class="yt-timestamp" data-t="04:04:00">[04:04:00]</a>. The notion became a formal psychological measurement system primarily through the pioneering psychometric work of Theo Dawson, and was empirically validated by Kurt Fischer and coined by Michael Commons as the "Model of [[Measuring Complexity | Hierarchical Complexity]]" <a class="yt-timestamp" data-t="03:11:00">[03:11:00]</a>, <a class="yt-timestamp" data-t="03:33:00">[03:33:00]</a>, <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>.
+
+[[Hierarchical Complexity and its emergence in psychology | Hierarchical complexity]] addresses the universal aspects of human development across cultures and individuals, characterizing differences between a baby's reflexes and an adult's ability to do theoretical physics <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>. It is a "ubiquitous property of mental process" <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a> and "a ubiquitous process in the construction of skill" <a class="yt-timestamp" data-t="08:10:00">[08:10:00]</a>.
+
+## Defining Horizontal vs. Hierarchical Complexity
+
+The distinction between horizontal and [[Hierarchical Complexity and its emergence in psychology | hierarchical complexity]] (also known as vertical complexity) is fundamental:
+
+*   **Horizontal Complexity** refers to performing "more and more of the same kind of task at the same level of complexity" <a class="yt-timestamp" data-t="06:36:00">[06:36:00]</a>. It involves increasing the *quantity* or *breadth* of tasks at a given level of difficulty <a class="yt-timestamp" data-t="06:40:00">[06:40:00]</a>.
+*   **Hierarchical (Vertical) Complexity** refers to performing a "fundamentally qualitatively more complex task" <a class="yt-timestamp" data-t="06:50:00">[06:50:00]</a>. This involves integrating "many lower order skills become the single qualitatively new more complex skill" <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>. It's about building "new skill out of prior existing skills" <a class="yt-timestamp" data-t="08:15:00">[08:15:00]</a>.
+
+When evaluating why a person might fail a task, it could be due to horizontal complexity (too many problems) or [[Measuring Complexity | hierarchical complexity]] (the problem itself is too complex) <a class="yt-timestamp" data-t="07:25:00">[07:25:00]</a>.
+
+## Examples
+
+*   **Tying Shoes:**
+    *   **Horizontal:** Tying any number of shoes once the skill is learned <a class="yt-timestamp" data-t="06:29:00">[06:29:00]</a>. Tying a thousand shoes in half an hour <a class="yt-timestamp" data-t="07:14:00">[07:14:00]</a>.
+    *   **Hierarchical:** Learning to tie shoes involves first mastering individual lace manipulation and understanding concepts like tension, then integrating these into the specific higher-order mastery of knot tying <a class="yt-timestamp" data-t="08:19:00">[08:19:00]</a>. Making a shoe is hierarchically much more complex than tying a shoelace <a class="yt-timestamp" data-t="07:07:00">[07:07:00]</a>.
+
+*   **Everyday Tasks:**
+    *   **Horizontal:** Taking an elevator from the lobby to the seventh floor. This involves a "series of discrete sequences" like pressing buttons and waiting, where each task is at about the same level and largely disjoint <a class="yt-timestamp" data-t="11:25:00">[11:25:00]</a>.
+    *   **Hierarchical:** Disassembling, making a small part replacement, and reassembling a lawnmower engine. Every move depends on other moves, requiring ancillary skills like laying out pieces in order, holding a process in mind, and using descriptive language <a class="yt-timestamp" data-t="11:55:00">[11:55:00]</a>. While pressing an elevator button requires integrating sensory-motor skills, reassembling an engine is "much more complex" <a class="yt-timestamp" data-t="13:01:00">[13:01:00]</a>, <a class="yt-timestamp" data-t="13:41:00">[13:41:00]</a>.
+
+*   **Cognitive Development:**
+    *   A child can master a "tremendous amount of horizontal complexity" in the sensory-motor domain, such as getting dressed, brushing teeth, and putting on pajamas <a class="yt-timestamp" data-t="14:41:00">[14:41:00]</a>.
+    *   This sprawling array of sensory-motor schemes eventually gets integrated into a single, higher-order *representation* like "bedtime" <a class="yt-timestamp" data-t="14:55:00">[14:55:00]</a>. Further, these representations (bedtime, dinner time) can be integrated into *abstractions* like "quality family time," which cannot be directly pointed to but generalizes across many representations <a class="yt-timestamp" data-t="15:35:00">[15:35:00]</a>, <a class="yt-timestamp" data-t="50:36:00">[50:36:00]</a>.
+
+## Related Concepts and Driving Factors
+
+### Chunking and Information Processing
+[[Measuring Complexity | Hierarchical complexity]] is closely related to "chunking," where a lot more information can be loaded into a single term as experience grows <a class="yt-timestamp" data-t="16:11:00">[16:11:00]</a>. For example, a specialist's understanding of "complexity" packs "20 years worth of learning" <a class="yt-timestamp" data-t="16:43:00">[16:43:00]</a>. This chunking occurs at various scales, from sensory-motor systems to integrating multiple theories into a "higher order theory" <a class="yt-timestamp" data-t="17:37:00">[17:37:00]</a>. This process of "many lower order processes being brought up and integrated by an emergent higher order process" is considered a fundamental property of information across the biological spectrum, potentially even at the neurological level <a class="yt-timestamp" data-t="19:02:00">[19:02:00]</a>.
+
+The definition of [[Measuring Complexity | hierarchical complexity]] can be formally stated as "the number of non-repeating recursions that coordinating actions must perform on a set of primary elements" <a class="yt-timestamp" data-t="35:30:00">[35:30:00]</a>. Higher-order actions organize and transform lower-order actions, producing new and non-arbitrary organizations that lower orders cannot accomplish themselves <a class="yt-timestamp" data-t="35:41:00">[35:41:00]</a>. This formal definition allows application to computer programming and general information processing systems <a class="yt-timestamp" data-t="38:19:00">[38:19:00]</a>.
+
+### Working Memory Bottleneck
+A primary hypothesis for why [[Measuring Complexity | hierarchical complexity]] emerges as such a strong function in human cognition is the "remarkably small short-term memory" or working memory bottleneck, famously seven plus or minus two items <a class="yt-timestamp" data-t="27:27:00">[27:27:00]</a>. To deal with more difficult problems, chunks must become bigger so that more information can be processed simultaneously within this limited capacity <a class="yt-timestamp" data-t="27:57:00">[27:57:00]</a>. For pre-human animals, this number is even smaller (three or four) <a class="yt-timestamp" data-t="28:08:00">[28:08:00]</a>.
+
+However, the working memory bottleneck alone isn't sufficient to drive this development. The "demands of the world," meaning the inherent complexity of the environment, and humanity's "epistemic motivation" (the innate need to understand and go beyond mere success) are also crucial drivers <a class="yt-timestamp" data-t="29:31:00">[29:31:00]</a>. Piaget made a distinction between "success" (accomplishing something) and "understanding" (knowing why it worked), with humans uniquely crossing the threshold from merely wanting to succeed to wanting to understand <a class="yt-timestamp" data-t="29:59:00">[29:59:00]</a>.
+
+### Evolutionary and Cosmological Significance
+The concept of [[Measuring Complexity | hierarchical complexity]] can be seen as an example of the general principle of emergence in [[Complexity and Evolution | complex adaptive systems]] <a class="yt-timestamp" data-t="20:06:00">[20:06:00]</a>. Just as atoms form molecules, cells, organisms, and ecosystems, lower-order cognitive processes integrate into higher-order ones <a class="yt-timestamp" data-t="20:09:00">[20:09:00]</a>. This suggests a "continuity of evolutionary process" that applies to both human and universal cosmological evolution <a class="yt-timestamp" data-t="21:42:00">[21:42:00]</a>. The fact that humans can ask "ever more complex questions" of nature and that the universe appears to be lawful further supports this, as developing machinery to extract abstract patterns would be useless if patterns were truly random <a class="yt-timestamp" data-t="31:30:00">[31:30:00]</a>.
+
+## Application in Psychology and Education
+
+### Measurement and Assessment (Lectica)
+The formalization of [[Measuring Complexity | hierarchical complexity]] allows for its operationalization in educational and research contexts <a class="yt-timestamp" data-t="09:36:00">[09:36:00]</a>. Theorists like Kurt Fischer (Dynamic Skill Theory), Michael Commons ([[Different Measures of Complexity | Orders of Hierarchical Complexity]]), and Theo Dawson (Lectica Levels) have developed systems to measure it <a class="yt-timestamp" data-t="39:56:00">[39:56:00]</a>. Lectica, co-founded by Zach Stein, developed a system that takes open-ended human performance, especially linguistic output, and analyzes its deeper hierarchical structure, going beyond surface-level content <a class="yt-timestamp" data-t="13:01:00">[13:01:01]</a>, <a class="yt-timestamp" data-t="11:51:00">[11:51:00]</a>, <a class="yt-timestamp" data-t="11:51:00">[11:51:00]</a>. This measurement system aims to replace traditional standardized tests like the SAT with "developmental assessments" that are diagnostically useful in the classroom <a class="yt-timestamp" data-t="15:23:00">[15:23:00]</a>.
+
+Instead of simply indicating pass/fail, a Lectica assessment provides a diagnostic report that identifies what a student understands and suggests "the next best thing for you to learn" to continue growing in [[Application of hierarchical complexity models in education and leadership | hierarchical complexity]] <a class="yt-timestamp" data-t="15:46:00">[15:46:00]</a>. This is based on an "empirically grounded rational reconstruction of a specific learning sequence" <a class="yt-timestamp" data-t="16:03:00">[16:03:00]</a>.
+
+### Leadership Development
+[[Application of hierarchical complexity models in education and leadership | Hierarchical complexity]] assessment has also been applied to adult contexts, particularly in leadership and management <a class="yt-timestamp" data-t="17:06:00">[17:06:00]</a>. Leaders in complex organizations often face a "complexity gap" between task demands and their capacities <a class="yt-timestamp" data-t="19:19:00">[19:19:00]</a>. Research suggests that while leaders may be highly developed in "engineering problem-solving," their struggles often emerge in "perspective taking, perspective seeking, and perspective integration" <a class="yt-timestamp" data-t="19:54:00">[19:54:00]</a>. These are distinct skills; one can be good at taking perspectives without seeking them from others, but integration requires mastery of the former <a class="yt-timestamp" data-t="22:10:00">[22:10:00]</a>.
+
+Assessments in this domain aim to diagnose "complexity deficits" and promote growth, rather than for hiring or firing decisions <a class="yt-timestamp" data-t="23:39:00">[23:39:00]</a>, <a class="yt-timestamp" data-t="24:06:00">[24:06:00]</a>. These measures are "ecologically valid" because they evaluate how a person would make decisions on the job, providing insight beyond broad personality assessments like Myers-Briggs <a class="yt-timestamp" data-t="25:26:00">[25:26:00]</a>.
+
+## Misapplications and Nuances
+
+While [[Measuring Complexity | hierarchical complexity]] can track the evolution of societies and the requisite complexity for social coordination <a class="yt-timestamp" data-t="52:38:00">[52:38:00]</a>, one should be cautious not to apply it to cultural evolution in a simplistic way, avoiding the trap of viewing ancient or indigenous cultures as "children" compared to modern societies <a class="yt-timestamp" data-t="54:34:00">[54:34:00]</a>.
+
+Additionally, it is crucial not to classify "whole populations or whole persons as being at a level" of [[Measuring Complexity | hierarchical complexity]] <a class="yt-timestamp" data-t="01:03:37">[01:03:37]</a>. This is analogous to the oversimplification of "general intelligence" (Spearman's g), which acts as a summary statistic from a narrow range of indices <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>, <a class="yt-timestamp" data-t="00:57:50">[00:57:50]</a>. A person's [[Measuring Complexity | hierarchical complexity]] level should only be assigned to a "particular task that they accomplished" <a class="yt-timestamp" data-t="00:59:23">[00:59:23]</a>, as individuals can operate at different levels of complexity across different domains <a class="yt-timestamp" data-t="00:34:32">[00:34:32]</a>. People often have "highly developed areas of expertise" in one domain, yet a "complexity deficit" in others <a class="yt-timestamp" data-t="01:20:45">[01:20:45]</a>.
+
+Ultimately, [[Measuring Complexity | hierarchical complexity]] provides a means to understand how the mind is propelled to "higher and higher levels of inquiry and deeper and deeper forms of knowledge" <a class="yt-timestamp" data-t="00:34:41">[00:34:41]</a>.

@@ -1,0 +1,60 @@
+---
+title: Designing strategic interventions using narrative
+videoId: mvSPUUOTrCM
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Strategic interventions, particularly in complex and chaotic environments, can be effectively designed by leveraging narratives and understanding the underlying dynamics of systems <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. This approach moves away from traditional top-down planning to focus on mapping the present and influencing emergent properties <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>.
+
+## Core Concepts in Complexity and Strategy
+
+Dave Snowden, creator of the Cynefin framework, applies a science-based approach to organizations, drawing on anthropology, neuroscience, and complex adaptive systems theory <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. His work, particularly in the context of crisis management, emphasizes distinctions between different system types:
+
+*   **Ordered, Complex, and Chaotic Systems** <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>:
+    *   **Complicated** (within Ordered): Can be unfolded and refolded, remaining the same; logic is implicit in static design <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>. Example: A lawnmower motor or a Boeing 777 <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+    *   **Complex**: Entangled, constantly shifting, and changing <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. Like "bramble bushes in a thicket," where everything is entangled, and unintended consequences are certain <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>. In complex adaptive systems, there is no linear material causality, only dispositionality that is modulated <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. Information in complex systems is heavily reliant on dynamics, meaning they cannot be fully disassembled and reassembled while retaining their function <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>. Example: A human cell or an economy <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>.
+    *   **Chaotic**: Not explicitly detailed in the transcript, but mentioned as a system type <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+*   **Phase Shifts** <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>: The metaphor of solid, liquid, and gas illustrates the transitions between system states. The "apparatic domain" is a key concept, representing a "triple point" where it is equiprobable which state something will become, requiring one to "think differently about the problem" to answer a question <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. [[Emergent Narratives and ProblemSolving Processes | Apparatic moments]] are crucial in crisis, where people are forced to see things differently <a class="yt-timestamp" data-t="00:56:06">[00:56:06]</a>.
+*   **Emergence** <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>: The properties of the whole are different from the properties of the part <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>. Discovering emergence is a key aspect of working with complexity <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>.
+*   **Constraints** <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>: Distinguished as enabling or governing <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. Ordered systems are governed (contained), while complex systems are connected <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>. Constraints can be mapped and changed, allowing influence over emergence <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+
+## Strategy in Complex Systems
+
+In complex systems, rather than setting rigid goals, strategy involves starting journeys with a sense of direction <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. This requires mapping where you are, where you can go next (the "adjacent possible" <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>), and understanding the constraints in play <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>.
+
+The three things that can be managed in a complex system are:
+1.  Boundary conditions <a class="yt-timestamp" data-t="00:14:31">[00:14:31]</a>.
+2.  Catalysts for attractors <a class="yt-timestamp" data-t="00:14:34">[00:14:34]</a>.
+3.  Allocation of energy <a class="yt-timestamp" data-t="00:14:36">[00:14:36]</a>.
+
+Traditional strategic planning (like five-year plans) is ineffective because of the inability to predict the future in complex systems <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. Instead, strategies should aim to influence the dispositionality of the system so that desired outcomes become more probable <a class="yt-timestamp" data-t="01:19:33">[01:19:33]</a>.
+
+## Leveraging Narrative for Intervention Design
+
+[[the_role_of_narratives_in_understanding_and_decision_making | Narrative]] has a material reality in human systems <a class="yt-timestamp" data-t="00:13:28">[00:13:28]</a>. Strategic interventions are designed by:
+*   **Mapping the present through micro-scenarios** <a class="yt-timestamp" data-t="01:10:18">[01:10:18]</a>: Collecting small narratives from the workforce or community allows mapping the organization's current state and understanding what is possible next <a class="yt-timestamp" data-t="01:10:20">[01:10:20]</a>.
+*   **Creating Narrative Topographies** <a class="yt-timestamp" data-t="01:11:09">[01:11:09]</a>: These are like "fitness landscapes" for culture, safety, and attitudes. They indicate where a system can go next, rather than where one wishes it to go <a class="yt-timestamp" data-t="01:11:11">[01:11:11]</a>.
+*   **Vector Theory of Change** <a class="yt-timestamp" data-t="01:13:00">[01:13:00]</a>: From a landscape of [[the_role_of_narratives_in_understanding_and_decision_making | narrative]], identify what actions can be taken to create more desired stories and fewer undesirable ones <a class="yt-timestamp" data-t="01:13:32">[01:13:32]</a>. This allows for fractal representations, meaning the same source data can be aggregated to different levels of competence to act, from a president to a school principal <a class="yt-timestamp" data-t="01:12:47">[01:12:47]</a>.
+
+### Practical Methodologies in Crisis Management
+
+The field guide "Managing Complexity and Chaos in Times of Crisis" outlines key actions for decision makers <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>:
+
+1.  **Building Informal Networks** <a class="yt-timestamp" data-t="00:28:49">[00:28:49]</a>: In a crisis, people rely on trusted relationships, not formal systems <a class="yt-timestamp" data-t="00:29:49">[00:29:49]</a>. Methods like "entangled trios" rapidly build dense networks across silos to ensure knowledge flow <a class="yt-timestamp" data-t="00:29:31">[00:29:31]</a>.
+2.  **Mapping Knowledge at the Right Granularity** <a class="yt-timestamp" data-t="00:29:57">[00:29:57]</a>: Complexity scales by decomposition and recombination, not aggregation <a class="yt-timestamp" data-t="00:30:01">[00:30:01]</a>. Knowledge should be stored at a fine-grained level so it can be repurposed for novel situations ([[stories of survival and decisionmaking | exaptation]]) <a class="yt-timestamp" data-t="00:30:10">[00:30:10]</a>. A heuristic for the "right granularity" is to keep breaking down a concept until agreement can be reached <a class="yt-timestamp" data-t="00:32:10">[00:32:10]</a>.
+3.  **Setting Draconian Constraints** <a class="yt-timestamp" data-t="00:33:54">[00:33:54]</a>: In a crisis, leaders must act decisively and quickly to stabilize the situation, not to solve the problem directly, but to increase options for others <a class="yt-timestamp" data-t="00:34:37">[00:34:37]</a>. These are "option-increasing decisions" that preserve optionality for the future <a class="yt-timestamp" data-t="00:35:07">[00:35:07]</a>.
+4.  **Comprehensive Journaling (Gamba)** <a class="yt-timestamp" data-t="00:39:38">[00:39:38]</a>: Daily journaling of field notes replaces traditional reporting, providing real-time, granular data from multiple agents <a class="yt-timestamp" data-t="00:40:14">[00:40:14]</a>. This reduces administrative burden on employees and creates a continuous stream of "lessons learning" (not "lessons learned"), which is crucial in non-stationary situations like crises <a class="yt-timestamp" data-t="00:40:39">[00:40:39]</a>.
+5.  **Creating Specialized Crews** <a class="yt-timestamp" data-t="00:48:43">[00:48:43]</a>: Highly focused teams based on roles and role interaction, such as a continuity crew, journaling crew, or devil's advocate crew <a class="yt-timestamp" data-t="00:49:10">[00:49:10]</a>. These collective units can possess more intelligence than individual members (an emergent property) <a class="yt-timestamp" data-t="00:49:27">[00:49:27]</a>. Groups of three to five members are often ideal for decision-making and fostering compromise, as seen in evolutionary history with extended families and clans <a class="yt-timestamp" data-t="00:52:02">[00:52:02]</a>.
+6.  **Maintaining Cadence and Control** <a class="yt-timestamp" data-t="01:05:14">[01:05:14]</a>: Cadence is the rhythm of doing something, allowing for adjustments in "gearing" as circumstances change <a class="yt-timestamp" data-t="01:05:26">[01:05:26]</a>. It's about keeping up the pace of working at the right level of granularity and continuously learning from sensor networks and informal interactions <a class="yt-timestamp" data-t="01:06:10">[01:06:10]</a>.
+
+## Advanced Applications: Constructor Theory in Social Design
+
+Snowden is applying Constructor Theory, a physics theory by David Deutsch that enumerates what is impossible rather than rules for what is doable, to social systems <a class="yt-timestamp" data-t="01:16:51">[01:16:51]</a>. This approach, called "Estuarine mapping," focuses on understanding what *cannot* change <a class="yt-timestamp" data-t="01:17:15">[01:17:15]</a>:
+*   **Constraint Mapping** <a class="yt-timestamp" data-t="01:18:24">[01:18:24]</a>: Constraints are mapped onto a grid showing the energy cost of change against the time to change <a class="yt-timestamp" data-t="01:18:29">[01:18:29]</a>.
+*   **Counterfactual Line** <a class="yt-timestamp" data-t="01:18:43">[01:18:43]</a>: Identifies what is impossible to change due to high energy cost or time <a class="yt-timestamp" data-t="01:18:46">[01:18:46]</a>. A "liminal line" behind this indicates what others might be able to change, even if the current entity cannot <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>.
+*   **Microactions** <a class="yt-timestamp" data-t="01:19:30">[01:19:30]</a>: The remaining constraints are addressed through numerous small actions to shift the system's dispositionality <a class="yt-timestamp" data-t="01:19:30">[01:19:30]</a>.
+*   **Constructors** <a class="yt-timestamp" data-t="01:21:52">[01:21:52]</a>: Entities that produce a transformation when things pass through or contact them <a class="yt-timestamp" data-t="01:21:56">[01:21:56]</a>. In human systems, constructors can change during the act of construction <a class="yt-timestamp" data-t="01:22:11">[01:22:11]</a>.
+*   **Dispositional Management** <a class="yt-timestamp" data-t="01:32:00">[01:32:00]</a>: This framework allows for a non-controversial mapping of the operational space, breaking the linearity between [[Grand Narrative Trilogy | grand strategy and tactics]] by integrating everything into the same system <a class="yt-timestamp" data-t="01:26:48">[01:26:48]</a>. The principle is that the lowest energy gradient will prevail <a class="yt-timestamp" data-t="01:23:03">[01:23:03]</a>.
+
+This approach provides a robust alternative to traditional strategic models by focusing on understanding the current state, recognizing limitations, and implementing many small, parallel changes that influence the system's propensity toward desired outcomes, rather than attempting to predict or control a fixed future <a class="yt-timestamp" data-t="01:14:42">[01:14:42]</a>.

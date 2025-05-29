@@ -1,0 +1,74 @@
+---
+title: Aristotelian causes and their relevance to modern science
+videoId: kjroe38FATE
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The ancient concept of Aristotle's four causes provides a useful framework for understanding the nature of causation, a framework that has undergone significant shifts in philosophical and scientific thought, particularly with the advent of modern science and the study of complex systems <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+
+## Aristotle's Four Causes
+Aristotle's theory of causation, possibly derived from observing a potter at a wheel, identifies four types of causes <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>:
+*   **Material Cause**: The raw material from which something is made (e.g., the clay for a pot) <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>.
+*   **Final Cause (Teleology/Purpose)**: The purpose or goal for which something is made (e.g., pouring water for a pitcher) <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. Aristotle believed organisms and natural phenomena had an inherent *entelechy* or internal purpose, like an acorn containing the form of an oak tree <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+*   **Formal Cause**: The essence or fundamental identity that makes a thing what it is (e.g., what makes a pitcher a pitcher, not just its shape) <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
+*   **Efficient Cause**: The actual force or energetic exchange exerted to make something (e.g., the potter's hands shaping the clay) <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>.
+
+## Historical Shift Towards Efficient Causality
+Prior to the late 16th century, people generally considered all four causes when thinking about nature <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. However, with the rise of modern science, there was a significant and perhaps accidental shift towards a heavy focus on the efficient cause <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. Material cause was left to science, while formal and final causes were largely discarded <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. This led to an over-reliance on "matter and motion bumping into each other," often referred to as naive Newtonianism <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>.
+
+This perspective was epitomized by Laplace's idea that knowing the position and velocity of everything in the universe would allow total prediction of the future and past <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. Despite Newton's own warnings about issues like the three-body problem <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>, this reductionist view persisted for centuries <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
+
+## The Problem of "Nothing But-ism"
+The over-focus on efficient causality gives rise to what is termed "nothing but-ism" <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>, the idea that a whole is nothing but the sum of its parts <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>.
+> "The idea of that the whole is nothing but the sum of its parts and therefore anything that appears to be an [[Emergence and topdown causality in philosophical and scientific frameworks | emergent property]] is really an Epi phenomenon it is it is it is sort of froth that's thrown up but it really has no [[Causality and Free Will in Complex Systems | causal power]]." <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>
+
+This perspective struggles to explain [[Emergence and topdown causality in philosophical and scientific frameworks | emergent properties]] and [[Causality and Free Will in Complex Systems | top-down causality]] <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. For example, if causality is only efficient, then emergent phenomena like the synchronization of photons in a laser beam cannot align their components <a class="yt-timestamp" data-t="00:07:55">[00:08:08]</a>. This leads to absurd conclusions <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>.
+
+The challenge of explaining human behavior, particularly intentions, within an efficient-cause framework, highlights this limitation <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>. An intention causing a wink, versus sand causing a blink, raises the question of how an intention, a higher-level phenomenon, can exert efficient cause <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>. This suggests the need for network properties and [[Emergence and topdown causality in philosophical and scientific frameworks | emergent properties]] that can [[Causality and Free Will in Complex Systems | loop back down]] and influence lower-level components <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>.
+
+## Reconceptualizing Causality: The Role of Constraints
+Instead of battling the Newtonian definition of cause, Alicia Herrero proposes focusing on the notion of "constraint" <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>. She argues that constraints are the contemporary version of formal and final causes in complex dynamical systems <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>.
+
+### Myriology: Whole-Part and Part-Whole Relations
+The concept of *myriology* explores the relationship between parts and wholes <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>. In a complex system like an economy, individual elements interact in constrained ways to produce an [[Emergence and topdown causality in philosophical and scientific frameworks | emergent phenomenon]] (the economy) with properties its components don't possess <a class="yt-timestamp" data-t="00:12:09">[00:12:09]</a>. Once this coherent whole forms (a "constraint regime"), the components acquire new properties and roles (e.g., traders, regulators) <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>.
+
+This dynamic illustrates how the whole can [[Causality and Free Will in Complex Systems | loop back down]] and affect its components <a class="yt-timestamp" data-t="00:13:59">[00:13:59]</a>. Unlike the Newtonian view where "holes are nothing but the sum of the parts" <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>, constraints allow for [[Causality and Free Will in Complex Systems | top-down causality]] where, for instance, a culture can influence individual behavior without being an efficient cause <a class="yt-timestamp" data-t="00:14:44">[00:14:44]</a>.
+
+### Taxonomy of Constraints
+Herrero distinguishes between types of constraints based on their context dependence <a class="yt-timestamp" data-t="00:22:11">[00:22:11]</a>:
+
+*   **Context-Independent Constraints**: These are conditions that take a system "far from equiprobability" or random noise, essentially setting the boundaries of possibility space and creating inhomogeneities <a class="yt-timestamp" data-t="00:22:42">[00:22:42]</a>. Examples include gradients, polarity, charge (in the early universe), and principles like the Pauli Exclusion Principle <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a> <a class="yt-timestamp" data-t="00:28:57">[00:28:57]</a>.
+*   **Context-Dependent Constraints**: These take a system "away from independence," linking things together <a class="yt-timestamp" data-t="00:23:41">[00:23:41]</a>. Examples include:
+    *   **Catalysts** <a class="yt-timestamp" data-t="00:24:43">[00:24:43]</a>
+    *   **Feedback loops** <a class="yt-timestamp" data-t="00:24:52">[00:24:52]</a>
+    *   **Epigenetics** <a class="yt-timestamp" data-t="00:25:05">[00:25:05]</a>
+    *   **Temporal Constraints**: The timing of actions (e.g., a child kicking a playground swing at the right moment) <a class="yt-timestamp" data-t="00:25:46">[00:25:46]</a>. Sequencing (A before B before C) is another example <a class="yt-timestamp" data-t="00:27:26">[00:27:26]</a>.
+    *   **Spatial Constraints**: The architecture or arrangement of elements (e.g., the length of a seesaw plank, the design of a traffic roundabout) <a class="yt-timestamp" data-t="00:26:28">[00:26:28]</a>.
+    *   **Enabling Constraints**: Context-dependent constraints that achieve closure, leading to the emergence of a coherent whole <a class="yt-timestamp" data-t="00:27:51">[00:28:04]</a>.
+    *   **Rules and Regulations**: These set possibility space and determine likelihoods <a class="yt-timestamp" data-t="00:29:28">[00:29:35]</a>.
+    *   **Scaffolds**: Temporary, external artifacts that guide construction or provide a temporary equilibrium point, like a ratchet, enabling the next step <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>.
+    *   **Entrenchment and Buffers**: Mechanisms that control relationships between inside and outside, resisting or moderating change <a class="yt-timestamp" data-t="01:05:37">[01:06:06]</a>.
+
+### [[Emergence and topdown causality in philosophical and scientific frameworks | Emergent Properties]] and [[Causality and Free Will in Complex Systems | Causal Power]]
+When constraints lead to the emergence of a coherent dynamic, it results in a phase transition to a continuous function, potentially allowing for analog control <a class="yt-timestamp" data-t="00:29:52">[00:30:09]</a>. This analog nature allows for homeostasis to maintain system integrity with timeliness and sensitivity to local conditions <a class="yt-timestamp" data-t="00:30:24">[00:30:38]</a>.
+
+This view implies that [[Emergence and topdown causality in philosophical and scientific frameworks | emergent properties]] have [[Causality and Free Will in Complex Systems | causal powers]] <a class="yt-timestamp" data-t="00:17:37">[00:17:46]</a>. For example, homeostasis (the whole maintaining its integrity) readjusts metabolism and neural systems, demonstrating a top-down causal influence on its components <a class="yt-timestamp" data-t="00:17:48">[00:17:59]</a>.
+
+### The Brain as a Complex System
+The brain exemplifies a system that is both digital and analog <a class="yt-timestamp" data-t="00:32:28">[00:33:00]</a>. While neuronal electrical exchanges are digital, the phase transition to mental events involves analog control <a class="yt-timestamp" data-t="00:32:40">[00:32:49]</a>. Studies on artificial neural networks, such as those by Hinton and others, demonstrate how "semantic attractors" can emerge in middle layers, leading to semantic-based errors like deep dyslexia (reading "band" as "orchestra") when networks are lesioned below feedback loops <a class="yt-timestamp" data-t="00:35:36">[00:38:05]</a>. This emergence of a "semantic attractor" is an example of an [[Emergence and topdown causality in philosophical and scientific frameworks | emergent property]] with [[Causality and Free Will in Complex Systems | causal power]] <a class="yt-timestamp" data-t="00:38:45">[00:38:46]</a>.
+
+### Top-Down Causality Without Violating Physics
+The perceived problem with [[Causality and Free Will in Complex Systems | top-down causality]] is that it seems to violate physical closure and conservation of energy if viewed solely as efficient causes <a class="yt-timestamp" data-t="01:08:33">[01:08:43]</a>. However, when understood as "constraining dynamics," [[Causality and Free Will in Complex Systems | top-down causality]] does not violate these fundamental physical laws <a class="yt-timestamp" data-t="01:08:49">[01:09:01]</a>. For instance, a culture affects an individual by changing the likelihood of different behaviors, rather than through a direct efficient force <a class="yt-timestamp" data-t="01:09:30">[01:10:07]</a>. Similarly, a molecule of water in a Benard cell behaves differently because of the constraint structure of the cell, not because of a new efficient cause <a class="yt-timestamp" data-t="01:10:10">[01:10:25]</a>.
+
+### Degeneracy and Many-to-One Transitions
+The concept of "many-to-one transitions" or "degeneracy" is crucial <a class="yt-timestamp" data-t="01:13:01">[01:13:05]</a>. In biological systems, degeneracy refers to multiple lower-level paths or forms that can achieve the same higher-level function <a class="yt-timestamp" data-t="01:13:10">[01:13:20]</a>. For example, different amino acids can produce the same protein <a class="yt-timestamp" data-t="01:13:12">[01:13:18]</a>.
+
+This challenges the idea of a one-to-one relationship between mental (supervenient) and neural (sub-vening) properties <a class="yt-timestamp" data-t="01:12:01">[01:12:27]</a>. When a part of the brain is excised, another part might take over its function (multiple realizability), demonstrating that a specific function isn't tied to a single neural pattern <a class="yt-timestamp" data-t="01:12:40">[01:12:58]</a>. The phenomenon of "pluripotentiality" (e.g., stem cells) is the reverse: one lower-level entity has the potential for multiple different functionalities <a class="yt-timestamp" data-t="01:15:18">[01:15:37]</a>.
+
+Higher-level properties of complex dynamical systems often exhibit degeneracy; an economy can maintain its identity despite varied configurations, as long as its overarching constraint structure remains within a certain range <a class="yt-timestamp" data-t="01:14:37">[01:14:58]</a>. This also relates to "dimensional reduction," where many inputs converge to a single decision or action <a class="yt-timestamp" data-t="01:14:37">[01:15:12]</a>.
+
+## Future Directions: The 4E Approach to Cognition
+The "4E approach" to cognitive science (Embodied, Enacted, Extended, Embedded) aligns with this constraint-based view of causality <a class="yt-timestamp" data-t="01:19:19">[01:19:26]</a>. This perspective acknowledges that the mind extends beyond the brain, interacting with tools and environments <a class="yt-timestamp" data-t="01:20:05">[01:20:12]</a>. The mind is not just embodied, but also enacted through behavior within specific contexts <a class="yt-timestamp" data-t="01:20:44">[01:20:57]</a>.
+
+This holistic view posits that coherent dynamics arise from an accumulation and interweaving of constraints over time, creating an "overarching interlocking set of constraints" <a class="yt-timestamp" data-t="01:21:59">[01:22:20]</a>. These constraints are considered real, not just epistemological constructs <a class="yt-timestamp" data-t="01:22:21">[01:22:38]</a>. The concept demonstrates that while basic physics laws hold true, there's a more interesting structure built upon them—the relational and dynamical properties that are just as real as primary ones <a class="yt-timestamp" data-t="01:07:49">[01:08:29]</a>. This approach shows how different levels of complexity (physics to chemistry, chemistry to biology, etc.) involve phase transitions that produce new [[Emergence and topdown causality in philosophical and scientific frameworks | emergent properties]] and "codes" <a class="yt-timestamp" data-t="01:18:55">[01:19:10]</a>.

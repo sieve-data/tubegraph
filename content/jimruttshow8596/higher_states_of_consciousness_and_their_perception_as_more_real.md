@@ -1,0 +1,34 @@
+---
+title: Higher states of consciousness and their perception as more real
+videoId: Pn_dNECTzQY
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+## The "Actual Revolution" and Perception of Reality
+
+John Vervaeke, Professor of Psychology and Cognitive Science at the University of Toronto, describes a significant "actual revolution" that influenced major religious philosophies like Buddhism and Taoism [00:02:41]. At the heart of this revolution is the idea that [[nature of consciousness | higher states of consciousness]] can provide a profound transformation of the individual [00:03:02].
+
+A key aspect of this view is the perception that these [[nature of consciousness | higher states of consciousness]] are **more real** than everyday reality [00:02:28]. This stands in contrast to dreams, which, despite their strange and weird nature, are generally not considered more real than waking reality [00:03:27]. The philosophical consensus suggests that dream experiences cannot be coherently integrated with the worldview formed from everyday experience, as they often break concepts like causation [00:03:40].
+
+However, [[mystical_experiences_and_their_effects | higher states of consciousness]] are unique and ineffable; they don't fit into a coherent manner with everyday experience [00:03:59]. Yet, instead of rejecting them, people often claim these experiences are "of the what's really real," viewing their everyday experience as less real [00:04:11]. This phenomenon raises intriguing questions about why such judgments are made and if they are justified [00:04:19].
+
+## Beyond Phenomenology: Insight and Functionality
+
+Jim Rutt prefers the term "[[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | altered states of consciousness]]" as a more neutral terminology [00:04:31]. He questions if the hyper-vividness and "pretentiousness" experienced in such states truly represent a more accurate modeling of [[nature_of_reality_and_perception | reality]] [00:04:48]. While he personally found that the "de-centering" or "shaking up of the box" during an [[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | altered state]] was constructive and creative, leading to a conceptual breakthrough, he suggests that navigating everyday life in such a state might lead to more errors than in a normal state [00:04:42].
+
+Vervaeke agrees that focusing on the *phenomenology* (the subjective experience) of [[mystical_experiences_and_their_effects | mystical experiences]] and [[nature of consciousness | higher states of consciousness]] can be "bedeviled by a fascination" [00:05:41]. Instead, the crucial aspect is the *underlying functionality*, which, as Rutt's experience suggests, is an increased capacity for [[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | insight]] [00:05:56]. Research provides evidence that the "heavy lifting" in these experiences is not the phenomenology itself, but the profound insights or "breakthroughs" people achieve, which can be developmental, systemic, and span whole areas of endeavor or lives [00:06:06]. The phenomenology can offer "scientific clues" to the "underlying machinery of [[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | insight]]," but should not be the sole focus [00:06:41].
+
+As Vervaeke often quotes Deichmann, "It's not [[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | altered states of consciousness]] that matters, it's altered traits of character" [00:07:01]. A fixation on phenomenology can lead to "spiritual narcissism" (fascination with one's own experiences) and "spiritual bypassing" (escaping reality) [00:07:11]. The Buddha, for instance, warned against attachment to wonderful states as much as to negative emotions [00:07:24].
+
+## Fluency, Optimal Grip, and Mystical Experiences
+
+Central to Vervaeke's model of [[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | insight]] and [[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | altered states of consciousness]] is the concept of **fluency** [00:07:40]. In psychology, fluency refers to the brain's use of processing ease to make judgments about information content. For example, text with better contrast (easier to read) is often judged as truer or more trustworthy [00:08:11]. This heuristic, while seemingly simple, is considered a good strategy [00:08:44].
+
+Vervaeke argues that fluency indicates the brain is achieving an "optimal grip" on a particular situation [00:09:14]. This idea, inspired by phenomenologist Maurice Merleau-Ponty, is a functional concept [00:11:04]. Optimal grip involves balancing different perspectives (zooming in/out, different angles) to best fit the task at hand [00:11:21].
+
+*   **[[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | Insight]]** is a transition from a non-optimal grip to an optimal grip on a problem, accompanied by a "flash of vividness" and a sense of "more realness," often metaphorically depicted as a light bulb turning on [00:11:58].
+*   When a series of insights are chained together, it leads to a [[human_performance_and_flow_states | flow state]], an "extended aha experience" [00:12:16].
+*   Vervaeke's **Continuity Hypothesis** proposes a progression: fluency leads to [[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | insight]], then to [[human_performance_and_flow_states | flow]], and eventually to [[mystical_experiences_and_their_effects | mystical experiences]] and transformative experiences, all utilizing the same underlying machinery [00:10:05]. Andrew Newberg has made a very similar proposal [00:10:31].
+
+A [[mystical_experiences_and_their_effects | mystical experience]] is understood as a [[human_performance_and_flow_states | flow state]] where the capacity being exercised is an "optimal grip on the world" [00:10:48]. This involves gaining an optimal grip on [[nature_of_reality_and_perception | realness]] and [[nature_of_reality_and_perception | reality]] as world-encompassing properties, rather than specific objects or situations [00:13:02]. This state is valuable because the profound sense of meaning experienced indicates the possibility of a "better fit between the agent and arena in a comprehensive manner" [00:13:21]. It's likened to a martial arts "meta stance" towards the world, which allows for optimal movement into any other optimal stance [00:13:35]. This aligns with the idea that the underlying functionality, such as enhanced [[the_concept_of_altered_states_and_their_impact_on_creativity_and_insight | insight]], is the true benefit, not merely the subjective altered perceptions [00:05:56].

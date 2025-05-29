@@ -1,0 +1,40 @@
+---
+title: Limitations and misapplications of intelligence measurement techniques
+videoId: Oka3XTDxbqY
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The concept of hierarchical complexity has been used in psychology for nearly a century to understand human development <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. While powerful, the application and interpretation of measures derived from this concept, such as those related to [[Different Measures of Complexity | hierarchical complexity]], require careful consideration to avoid significant [[Limitations in AI Testing and Transparency | limitations]] and misapplications <a class="yt-timestamp" data-t="00:57:42">[00:57:42]</a>.
+
+## Distinguishing Between Types of Complexity Measurement
+
+The field of psychology distinguishes between [[Measuring Complexity | horizontal complexity]] and [[Measuring Complexity | vertical (hierarchical) complexity]] <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
+*   **Horizontal complexity** refers to doing more of the same task at the same level of complexity, such as tying a thousand shoes <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>.
+*   **Vertical complexity (hierarchical complexity)** involves performing a qualitatively more complex task, such as making a shoe, which is hierarchically more complex than tying a shoelace <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
+
+It is crucial to understand that all skills contain a certain amount of [[Measuring Complexity | hierarchical complexity]] <a class="yt-timestamp" data-t="00:13:2">[00:13:02]</a>. For example, even simple actions like focusing on an elevator button or coordinating looking, reaching, and grasping a cup involve a coordination of lower-order sensory-motor skills into a higher-order skill <a class="yt-timestamp" data-t="00:12:52">[00:12:52]</a>, <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>, <a class="yt-timestamp" data-t="00:44:17">[00:44:17]</a>.
+
+## Misapplications of General Intelligence Tests
+
+The concept of general intelligence, often associated with Spearman's G or IQ tests, is a common target for criticism <a class="yt-timestamp" data-t="00:57:50">[00:57:50]</a>.
+*   **Summary Statistic Limitations** General intelligence tests function much like a Gross Domestic Product (GDP) statistic; they are a summary based on a narrow range of indices <a class="yt-timestamp" data-t="00:59:02">[00:59:02]</a>. This oversimplification often leads to a "demi-reality" where individuals are categorized by a single number, creating a distorted view of human psychology <a class="yt-timestamp" data-t="00:59:56">[00:59:56]</a>, <a class="yt-timestamp" data-t="01:00:37">[01:00:37]</a>.
+*   **Historical Baggage** The notion of general intelligence is partly a holdover from the eugenics movement and a "misconceived" way of understanding human psychology <a class="yt-timestamp" data-t="01:00:08">[01:00:08]</a>, <a class="yt-timestamp" data-t="01:00:16">[01:00:16]</a>.
+*   **Oversimplification of Individuals** Instead of classifying an entire person as "smarter" than another, it is more accurate to assess their [[Evaluating AI Understanding and Capability | hierarchical complexity]] for specific tasks within specific domains <a class="yt-timestamp" data-t="00:59:16">[00:59:16]</a>. For instance, someone might excel in theoretical physics (paradigmatic reasoning) but struggle with small engine repair (sensory-motor work), while a mechanic might show the opposite <a class="yt-timestamp" data-t="01:01:29">[01:01:29]</a>.
+
+## Pitfalls in Applying Hierarchical Complexity to People and Populations
+
+While [[Evaluating AI Understanding and Capability | hierarchical complexity]] provides a framework for understanding skill development, its application to individuals or large populations can be problematic <a class="yt-timestamp" data-t="01:05:37">[01:05:37]</a>.
+*   **Avoid Classifying Individuals** It is strongly advised against classifying an entire person as being at a specific hierarchical complexity level (e.g., "level nine") <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>. Instead, the focus should be on the hierarchical complexity of a particular task they accomplished <a class="yt-timestamp" data-t="00:59:23">[00:59:23]</a>.
+*   **Unreliable Population Data** Speculating about large population percentages reaching certain hierarchical complexity levels is often not reliably or empirically generated <a class="yt-timestamp" data-t="01:03:12">[01:03:12]</a>. While some researchers may have databases of demonstrated skill capacity across populations, this doesn't claim individuals *are* at that level <a class="yt-timestamp" data-t="01:03:46">[01:03:46]</a>.
+*   **Risk of Social Sorting** Classifying whole populations or persons based on hierarchical complexity levels risks becoming a "social sorting mechanism" and a "bludgeon," akin to the misuse of IQ tests <a class="yt-timestamp" data-t="01:05:54">[01:05:54]</a>. This is considered an "anathema" to a nuanced, [[Comparing AI and Human Intelligence | developmental psychology]] approach <a class="yt-timestamp" data-t="01:01:11">[01:01:11]</a>.
+*   **Political Misuse** There is a concern that [[Evaluating AI Understanding and Capability | hierarchical complexity]] measurements could be misused for political purposes, especially if political movements are built around identifying reasoning levels on the complexity scale without reliable and valid assessments <a class="yt-timestamp" data-t="01:06:06">[01:06:06]</a>. Responsible use of psychological constructs is paramount <a class="yt-timestamp" data-t="01:06:37">[01:06:37]</a>.
+*   **"Expertise Fallacy"** Individuals who are highly complex in one area of expertise (e.g., medical doctors) may have a "complexity deficit" in other areas but be unable to perceive it, attempting to apply skills from one domain where they are experts to another where they are not <a class="yt-timestamp" data-t="01:21:49">[01:21:49]</a>, <a class="yt-timestamp" data-t="01:21:51">[01:21:51]</a>.
+
+## Lectica's Approach to Assessment
+
+Lectica, a company co-founded by Zach Stein, aimed to apply the concept of [[Different Measures of Complexity | hierarchical complexity]] to standardized testing <a class="yt-timestamp" data-t="01:50">[00:01:50]</a>.
+*   **Diagnostic vs. Pass/Fail** Unlike traditional standardized tests (e.g., SAT, No Child Left Behind), Lectica assessments are designed to be diagnostic. Instead of just indicating pass or fail, they reveal what an individual understands and suggest the "next best thing" for them to learn, thereby promoting [[Evaluating AI Understanding and Capability | cognitive development]] <a class="yt-timestamp" data-t="01:15:46">[01:15:46]</a>, <a class="yt-timestamp" data-t="01:16:03">[01:16:03]</a>.
+*   **Focus on Specific Domains** Lectica measures focus on specific domains, allowing for rational reconstruction of learning sequences across complexity orders. For instance, in moral development, it can show a progression from concrete notions of fairness to abstract, principled stances <a class="yt-timestamp" data-t="01:07:57">[01:07:57]</a>, <a class="yt-timestamp" data-t="01:11:09">[01:11:09]</a>.
+*   **Leadership Development** In business contexts, Lectica identified "complexity gaps" in leadership roles, particularly in areas like perspective-taking, perspective-seeking, and perspective-integration <a class="yt-timestamp" data-t="01:19:22">[01:19:22]</a>, <a class="yt-timestamp" data-t="01:20:01">[01:20:01]</a>. These assessments are used to promote leadership development rather than just for hiring or firing <a class="yt-timestamp" data-t="01:24:06">[01:24:06]</a>.
+*   **Responsible Use** Lectica emphasizes the need for training in the appropriate use of their diagnostic measures to prevent their misuse as a "bludgeon," which has historically occurred with other psychometric instruments <a class="yt-timestamp" data-t="01:26:29">[01:26:29]</a>, <a class="yt-timestamp" data-t="01:27:04">[01:27:04]</a>.

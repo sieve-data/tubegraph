@@ -1,0 +1,64 @@
+---
+title: The impact of freedom and religion on societal selfperception
+videoId: JzHybkkqg6k
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Oikophobia, meaning the "fear of one's own cultural home" or "Western self-contempt," is a concept coined by Sir Roger Scruton approximately 20 to 25 years ago [01:18:00]. It refers to the tendency of Westerners to believe that the West is the worst civilization in the world, responsible for all global ills, or that specific Western nations are guilty of various crimes [01:43:00]. This phenomenon involves looking down on one's own civilization and its traditional values, often perceiving the rest of the world as superior [02:04:00]. This self-contempt is not entirely new and has recurred throughout history [02:09:00].
+
+## The Xenophobia-Oikophobia Continuum
+
+A society's self-perception can be viewed on a continuum, with xenophobia on one end and oikophobia on the other [07:07:00].
+*   **Xenophobia**: Early in a society's development, when it is more parochial and traditional, there is a natural tendency towards xenophobia – a self-reliance and assumption that one's own way is the best [07:25:00]. This doesn't necessarily imply hostility, but a general preference for one's own culture [07:51:00].
+*   **Oikophobia**: As a society becomes more successful, grows, and interacts more with other civilizations, it moves along the continuum towards oikophobia [07:58:00]. Success often involves overcoming outside societies and mingling with other cultures, which can lead to an interest in different ways of doing things [08:01:00]. This shift can occur even if a civilization has decisively defeated another, as the defeated culture can still fascinate and influence the conquerors [08:28:00].
+
+This continuum parallels Aristotle's concept of the "golden mean," where virtue lies between two extremes [09:35:00]. In this context, the virtue would be a balanced [[impact_of_human_nature_and_cultural_practices_on_societal_design | self-critique]] that appreciates one's own culture while being open to others [09:56:00]. A mild degree of self-critique is beneficial, as is a moderate amount of wholesome self-preservation. Extremes in either direction lead to oikophobia or xenophobia [11:06:00].
+
+## Drivers of Extremes
+
+The movement away from this moderate middle can be influenced by game-theoretic drivers. In fields like academia, constant competition among peers incentivizes the generation of ever more outlandish or revolutionary ideas to stand out [12:12:00]. This can lead to radicalism, including oikophobia [12:56:00]. Just as a new species creates a niche for predators, a new theory in academia creates a niche for an assistant professor to destroy that theory [13:30:00]. While some academics may flock to "hot topics" (like gender studies today), there is also a niche for radical opposition, though the "sheep effect" can work against it [14:11:00].
+
+## Historical Manifestations of Oikophobia
+
+### Ancient Greece
+The Peloponnesian War era (5th century BC) in ancient Athens serves as an early example of this cycle [19:43:00].
+*   **Xenophobia**: Early in the 5th century BC, during the Persian Wars, Greek civilization faced extinction, forcing them to band together against an external threat. This crisis fostered a strong sense of unity and made it unthinkable to consider Persian culture superior [19:56:00].
+*   **Shift to Self-Critique and Oikophobia**: After the Greek victory and the rise of the Athenian empire, a newfound sense of security and power emerged [21:00:00]. This allowed for more leisure and self-observation among intellectuals, leading to the development of various branches of knowledge [22:00:00]. With no major external enemy, competition shifted inwards, fostering a sense of intellectual superiority among the elite [22:20:00]. By the late 5th and early 4th centuries BC, intellectuals began to question traditional Greek ways, including [[role_of_religion_and_spirituality | religion]] [23:03:00]. Figures like Euripides questioned the goodness of the gods in their plays [23:37:00]. This questioning of tradition is a sign of movement towards oikophobia, driven by security and exposure to other cultures (e.g., Egypt, Persia) [24:36:00].
+*   **Elite Phenomenon**: In ancient Greece, oikophobia was largely an elite phenomenon, not widespread among the common people due to less egalitarianism and limited access to knowledge compared to modern societies [26:11:00]. Intellectuals like Hippias of Elis and Diogenes (founder of the Cynic school) rejected their heritage, favoring cultural norms of other civilizations [26:30:00].
+*   **Decadence**: The rise of oikophobia correlates with decadence. Wealth and leisure allowed for hedonism, reducing the perceived "need" for traditional gods or values, as exemplified by figures like Alcibiades [28:20:00].
+*   **Aristotle's Balance**: Aristotle, living towards the end of this period, appreciated Greek civilization's greatness and beauty while critically analyzing its traditions [29:44:00]. He represents a "second phase" where people appreciate other cultures and question their own, but still maintain loyalty to their culture, distinguishing him from the "third phase" of full-blown oikophobia where one's culture is rejected [30:32:00].
+
+### Ancient Rome
+Rome exhibits less extreme oikophobia due to its strong sense of duty, patriarchal model, and militaristic culture [32:21:00].
+*   **Adaptability and Self-Belief**: Romans had a genius for adopting useful ideas from other civilizations (e.g., Etruscans, Greeks) while remaining fiercely loyal to their own culture [33:12:00].
+*   **Influence of Greek Culture**: As the Roman Republic and later Empire became powerful, a leisure class emerged that questioned traditions [34:07:00]. The Roman elite, despite conquering Greece, were fascinated by Greek culture, especially philosophy and rhetoric [34:13:00]. This exposure led some young noblemen to prefer Greek ways over traditional Roman ones [34:50:00].
+*   **Religion and Foreign Cults**: Roman religion, rooted in an agrarian, simpler time, seemed quaint in a wealthy imperial city [36:46:00]. This led to flirting with foreign cults, like the Egyptian goddess Isis or Jewish soothsayers, as complained by Juvenal [37:04:00].
+*   **Philosophical Choices**: The contention between Epicureanism and Stoicism among the Roman elite illustrates a crucial choice. Stoicism, with its emphasis on duty and virtue, was more suited to the Roman temperament and imperial ambitions, gaining wider popularity than Epicureanism, which advocated withdrawal from public life [38:51:00].
+*   **Decline and Eastern Religions**: The Roman Empire's collapse was a result of multiple factors, including its vast size, internal factionalism, biological factors, and the influx of Eastern peoples. The adoption of [[role_of_religion_and_spirituality | Christianity]], an Eastern religion, was a significant element [43:46:00]. While early Christianity's pacifism was initially incompatible with imperial rule, later Christian thinkers like Augustine adapted concepts to justify fighting, but by then it was "too late" for the Roman Empire [42:31:00]. Gibbon's view that [[Religion and historys influence on modern society | Christianity]] contributed to Rome's fall is considered partially true, as it represented something "alien" to the Roman social fabric [43:30:00].
+
+## The Role of Religion
+
+[[role_of_religion_and_spirituality | Religion]] is described as indispensable for societal cohesion and the prevention of oikophobia. Historically, there is a clear nexus of civilizational weakening, religious weakening, and oikophobic rise [58:26:00]. Every civilization is religious in its founding, and a strong [[role_of_religion_and_spirituality | religious]] foundation helps maintain a society's appreciation for its own heritage [01:00:48:00].
+
+When [[role_of_religion_and_spirituality | religion]] is rejected, people often seek spiritual needs elsewhere. Modern oikophobes, for example, may reject [[Religion and historys influence on modern society | Christianity]] (perceived as Western and traditional) and flirt with Eastern religions like Buddhism [01:06:00]. This isn't to say Buddhists are oikophobes, but it highlights the search for a "higher" aspiration distinct from one's native culture, driven by a need to distinguish oneself from peers [01:44:00]. The "supernatural" component of [[role_of_religion_and_spirituality | religion]] is crucial because human beings generally need something higher to aspire to, and the supernatural is the most obvious candidate for that [01:10:00]. While individuals may manage without it, for the great mass of people, discarding the supernatural element entirely could be "playing with fire" [01:10:24:00].
+
+## Freedom and Progressivism
+
+Increased freedom, particularly freedom of speech and access to knowledge, makes it easier for a society to lapse into oikophobia [01:16:00]. Societies without genuine oppression, like North Korea, don't exhibit widespread oikophobia because people lack the freedom to articulate discontent [01:33:00]. The ability to openly discuss and critique one's culture, while beneficial for intellectual exchange, also allows individuals to assert specialness by rejecting traditional norms [01:52:00]. This is why ancient Athens, as the first democracy, was also the first Western example of oikophobia – it offered the first environment for relatively free intellectual exchange [01:23:00].
+
+The Enlightenment, while offering positive aspects like science and reason, also became a "double-edged sword" [01:58:00]. Many Enlightenment figures erroneously believed that logic and science inherently endorse progressivism [01:55:00]. This coupling of scientific thought with a progressive philosophy, the idea that humanity is constantly moving toward a higher state, is an Enlightenment phenomenon that did not exist in ancient Greece [01:13:40:00].
+
+This perspective leads to two forms of oikophobia:
+1.  **Cultural Relativist Oikophobia**: This view, seen in ancient Greece, asserts that one's own culture cannot be deemed superior to others; all cultures are equally valid [01:12:12:00].
+2.  **Positivist Oikophobia**: Emerging largely from the Enlightenment (around the 18th century in Europe), this form believes that reason and science can lead to eternal moral truths and a universally "superior" social condition [01:12:59:00]. This implies that a society's unique exceptionalism must be erased to allow for collective human progress towards a utopian state [01:14:18:00].
+
+While seemingly opposite (relativism says all truths are equal, positivism says there is one universal truth), both forms ultimately aim to tear down one's own civilization's exceptionalism and can be found intertwined in modern oikophobes [01:15:00].
+
+The pursuit of "progress" is also a complex issue. While advances in science, technology, and medicine are unequivocally positive, increases in [[societal_and_ethical_implications_of_free_will_beliefs | personal liberty]] or philosophical/political progressivism are "double-edged swords" [01:17:12:00]. More freedom can lead to decadence, illustrating that "everything in life is a trade-off" [01:18:00]. The idea of utopianism, inherent in philosophical progressivism, is seen as problematic because it disregards these trade-offs and seeks an unattainable perfect state [01:18:24:00]. While specific problems should be solved (e.g., child labor), framing these solutions as part of a continuous societal "progress" towards a higher state can lead to "absurd and outlandish results" [01:19:04:00].
+
+## Boredom and the Meaning Crisis
+
+A significant factor contributing to oikophobia is "boredom" – not mere idleness, but a deeper civilizational *ennui* [01:29:57:00]. When there is no external war to fight, [[role_of_religion_and_spirituality | religion]] is declining, and society is safe and wealthy, a void of meaning can emerge [01:30:38:00]. This lack of a "higher cause" or communal aspiration can lead the next generation to rebel against the very state that provided their security and wealth [01:30:50:00].
+
+Human beings need something higher to aspire to. Historically, this could be a common enemy, a [[role_of_religion_and_spirituality | shared religion]], or a communal activity. When these are absent, people may find meaning in destructive activities, such as tearing down statues or rioting, which are communal activities that fill this void [01:32:40:00]. This "boredom" is a real civilizational problem, arising from wealth, luxury, decadence, security, and the decline of [[role_of_religion_and_spirituality | religion]], all feeding into oikophobia [01:33:14:00]. While individuals may find meaning in personal pursuits like philosophy, the broader society requires communal sources of meaning to avoid this void [01:33:30:00].

@@ -1,0 +1,62 @@
+---
+title: Pros and Cons of a National Divorce
+videoId: wMDZQgHzD04
+---
+
+From: [[jimruttshow8596]] <br/> 
+A "National Divorce" refers to a range of possibilities where the United States would intentionally split apart, no longer remaining a unified nation of 50 states <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
+
+### Forms of a National Divorce
+The concept encompasses various scenarios for separation <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>:
+*   A single state, like Texas, splitting off <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>.
+*   Several states forming new entities, though not necessarily a "confederation of states" due to historical implications <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+*   Parts of states splitting, such as the eastern halves of Oregon and Washington considering separating from their metropolitan areas to join states like Idaho <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+
+The general idea is that conservatives and "normal people" (primarily in rural areas) and "leftist wingbats" and their supporters (primarily in cities) are too divided to live together under one set of laws <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+
+### Origins and Public Sentiment
+The idea of a [[National Divorce Concept and Implications | national divorce]] is relatively recent <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. Thomas J. Woods' book, *National Divorce: The Peaceful Solution to Irreconcilable Differences*, was published in August 2022 <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. The idea gained broader media attention when Marjorie Taylor Green mentioned it in February 2023 <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. Since the 2020 election, there has been a drive on the conservative side to split from Democrat-controlled parts of the country due to perceived intolerable behaviors, such as a two-tier justice system, identity politics, or environmental regulations <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. Some on the far-left also entertain the idea of expelling "bad red people" <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
+
+According to a March 2023 Axios/Ipsos poll on a scenario where Republican-leaning states form a separate country from Democratic-leaning states <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>:
+*   16% of Democrats were in favor <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>.
+*   25% of Republicans were in favor <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>.
+*   20% of Independents were in favor <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>.
+The idea is "certainly in the air" <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
+
+### Arguments for National Divorce
+
+*   **Intractable Political Differences:** The primary argument is that U.S. politics have become intractable <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>.
+*   **Separate Governance:** A split would allow each part to "go its own way" under its own vision and management, potentially reducing [[Political Polarization in the United States | polarization]] <a class="yt-timestamp" data-t="00:14:09">[00:14:09]</a>. This aligns with the idea that the country is a dysfunctional couple unable to live together under one roof <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a>.
+*   **Reaffirmation of Consent of the Governed:** For proponents, a divorce could afford the "red team" the ability to organize and allow citizens to live under their desired political arrangement, upholding the consent of the governed <a class="yt-timestamp" data-t="00:14:56">[00:14:56]</a>.
+*   **National Defense and Revolution:** Some see the situation as dire, believing the [[Current State of American Constitutional Debate | Constitution]] and American experiment have failed <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>. A split would enable the "red team" to rally for national defense against external forces (like China) or internal threats (e.g., a "Communist Revolution") <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>. This offers a way to "circle the wagons" and "hole up" in a "Custer's Last Stand" scenario <a class="yt-timestamp" data-t="00:15:52">[00:15:52]</a>.
+*   **Experimentation in Civilization Design:** A breakup into 10-15 new "polities" (each 10-50 million people) could allow different regions to explore "high-dimensional space of civilization design" <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. This could include ultra-red conservative states, socialist-leaning regions, hardcore libertarian areas, or "bland WEF World Economic Forum Bland land" <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. It would be an experiment to see which societal model works best <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+*   **Viability of Smaller States:** Modern examples show small states are viable, such as Georgia (3.7 million), Estonia (1.3 million), Slovakia (5.4 million), Czech Republic (10 million), and Sweden (10 million) <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>. American states like Texas (29 million), Virginia (8 million), and Tennessee (7 million) are comparable or larger than these examples <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>.
+*   **Reducing Civil War Risk:** A peaceful, no-fault divorce could reduce the chances of a "Lebanon-style state of really bad Civil War of all against all" <a class="yt-timestamp" data-t="00:18:19">[00:18:19]</a>.
+*   **Irreconcilable Differences:** Deep divides exist on issues like constitutional carry (27 states have it) versus strict gun control <a class="yt-timestamp" data-t="00:20:40">[00:20:40]</a>, and abortion rights <a class="yt-timestamp" data-t="00:21:40">[00:21:40]</a>. Political polarization is sharpening, with highly rural areas becoming increasingly conservative <a class="yt-timestamp" data-t="00:22:58">[00:22:58]</a>.
+
+### Arguments Against National Divorce (National Suicide)
+
+The main argument against a [[National Divorce Concept and Implications | national divorce]] is that it would be a "catastrophe" due to the United States' global position as the leading superpower and the effectiveness of its [[Current State of American Constitutional Debate | Constitution]] <a class="yt-timestamp" data-t="00:27:06">[00:27:06]</a>.
+
+*   **Global Geopolitical Impact:**
+    *   Fracturing the U.S. would weaken its global standing, potentially leaving China as the unchallenged superpower <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>.
+    *   The "blue team" is believed to be motivated by Marxist ideology, aiming for a global takeover <a class="yt-timestamp" data-t="00:33:33">[00:33:33]</a>. This perspective views a global conglomerate, potentially spearheaded by the CCP, as attempting a "silent takeover of the West" through a blend of neoliberalism, fascism, and communism <a class="yt-timestamp" data-t="00:38:18">[00:38:18]</a>.
+*   **Constitutional Erosion:** A split would likely lead to two different constitutions, which would diverge over time <a class="yt-timestamp" data-t="00:28:06">[00:28:06]</a>. The left, for instance, has shown interest in changing the Constitution and is critical of divided powers <a class="yt-timestamp" data-t="00:28:10">[00:28:10]</a>.
+*   **Military and Nuclear Assets:** The U.S. government (assumed to be the "blue team") would not relinquish military bases or nuclear installations located within seceding "red" areas <a class="yt-timestamp" data-t="00:30:23">[00:30:23]</a>. This scenario parallels Fort Sumter in the Civil War, potentially leading to immediate conflict and an international emergency declaration <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>.
+*   **Economic and Social Consequences:**
+    *   The "International Community" and "blue state" would likely work in concert to sanction, limit, and "outright crush and contain" the "red state" <a class="yt-timestamp" data-t="00:39:17">[00:39:17]</a>.
+    *   A "slow option" scenario suggests the "blue state" would appear to thrive under a "Chinese style model" (smart cities, social credit system), becoming highly productive to draw away the population and "brain drain" from the "red state" <a class="yt-timestamp" data-t="00:40:41">[00:40:41]</a>.
+    *   The "red state" would face significant internal challenges due to deep ideological infiltration from urban populations within its new borders <a class="yt-timestamp" data-t="00:42:33">[00:42:33]</a>. It would be difficult to expel "subversives" embedded in major cities <a class="yt-timestamp" data-t="00:42:54">[00:42:54]</a>.
+*   **Conspiratorial View:** Some argue that the current political polarization is part of a global bid for tyranny, making any split a means to achieve a new world order rather than genuine self-determination <a class="yt-timestamp" data-t="00:37:42">[00:37:42]</a>. This view suggests that the "blue team" would provoke the "red team" into an overreaction to justify intervention <a class="yt-timestamp" data-t="00:50:51">[00:50:51]</a>.
+*   **Incompetence vs. Malice:** An alternative perspective suggests that the failures of blue states (e.g., California, San Francisco) are due to incompetence and the fractious nature of progressive politics (e.g., "circular firing squads") rather than a coordinated conspiracy <a class="yt-timestamp" data-t="00:45:55">[00:45:55]</a>. The ideology of intersectionality is seen as inherently divisive, leading to "war of faction against faction" <a class="yt-timestamp" data-t="00:52:21">[00:52:21]</a>.
+
+### Related Concepts
+*   **The Big Sort:** This concept, coined by Bill Bishop, describes the increasing rural-urban divide where people sort themselves according to their political and moral views <a class="yt-timestamp" data-t="00:24:07">[00:24:07]</a>. This sorting, or "divorce light," creates more political enmity and instability <a class="yt-timestamp" data-t="00:24:57">[00:24:57]</a>.
+*   **The Great Reset:** Richard Florida, an urban planner, proposed "The Great Reset" in 2009 as a solution to the "Big Sort" and banking crisis <a class="yt-timestamp" data-t="00:25:20">[00:25:20]</a>. This concept involves a new plan of urban planning, leading to "15-minute cities" or "smart cities," and is seen by some as an intellectual precursor to the World Economic Forum's use of the term <a class="yt-timestamp" data-t="00:25:31">[00:25:31]</a>.
+
+### Alternatives to National Divorce
+Instead of dividing, proponents of preserving the Union advocate for:
+*   **Civic Education:** Americans need to become more familiar with the U.S. founding documents, intentions, and aspirations of the Founding Fathers to counter "anti-American nonsense" <a class="yt-timestamp" data-t="01:00:51">[01:00:51]</a>.
+*   **Local Engagement and "Fifty Stars Project":** People in all states, especially purple and blue states, should be willing to "take the fight to their state" <a class="yt-timestamp" data-t="01:01:45">[01:01:45]</a>. This involves individuals fighting to return their communities and states to a more constitutionally-centered basis, rather than fleeing <a class="yt-timestamp" data-t="01:02:57">[01:02:57]</a>. Examples include Gary Tan's efforts in San Francisco and Aaron Friday's legal battles in California <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>.
+*   **Fighting Wokeness and Corporate Overreach:** The argument is made that "wokeness" is a "zombie ideology" that has passed its peak and is on the run <a class="yt-timestamp" data-t="01:06:55">[01:06:55]</a>. Successes against DEI (Diversity, Equity, Inclusion) initiatives and ESG (Environmental, Social, Governance) requirements, as well as revelations about the WPATH (World Professional Association for Transgender Health) files, indicate that "dominoes fall" when people stand up to "destructive nonsense" <a class="yt-timestamp" data-t="01:07:22">[01:07:22]</a>.
+*   **Legal Action:** Encouraging Attorneys General to pursue antitrust actions against corporate collusion (e.g., Google) or private/class-action lawsuits against illegal practices (e.g., Mark Cuban's tweets) are viable pathways to action <a class="yt-timestamp" data-t="01:10:02">[01:10:02]</a>.

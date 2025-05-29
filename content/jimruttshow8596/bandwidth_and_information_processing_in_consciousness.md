@@ -1,0 +1,63 @@
+---
+title: Bandwidth and information processing in consciousness
+videoId: 1VQlODfIWIQ
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Tor Nørretranders, a Danish science writer and author of over 30 books, including "The User Illusion: Cutting [[Concept of consciousness | Consciousness]] Down to Size," explores the nature of [[Concept of consciousness | consciousness]] through the lens of information processing and bandwidth <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>, <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. His work, first published in Danish in 1991 and translated into English in the late 1990s, analyzes the mind as a system that manages vast amounts of information, revealing that conscious awareness operates on a surprisingly narrow bandwidth <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>, <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>.
+
+## Defining Consciousness
+
+Nørretranders defines [[Concept of consciousness | consciousness]] as the "subjective, immediate experience of the world" or "being aware that you are aware" <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>, <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. This contrasts with a broader definition of [[nature of consciousness | consciousness]] (like that shared with dogs) which is seen as widespread in the animal kingdom <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>. He aligns with Gerald Edelman's distinction between "primary [[nature of consciousness | consciousness]]" (shared with animals like dogs) and "extended [[nature of consciousness | consciousness]]" (self-consciousness, limited to humans, chimps, elephants, and possibly orcas) <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>, <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>, <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>.
+
+## The User Illusion
+
+The book's title, "The User Illusion," draws from the concept of the graphic user interface (GUI) in software development, pioneered by Alan Kay and others at Xerox PARC <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>. Unlike early personal computers that displayed raw data, GUIs created an "illusion" of manipulating tangible objects like folders and desktops, serving as metaphors to help users interact with complex underlying processes <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. This "user illusion" is designed to be relevant for the user, not a precise representation of the computer's internal workings <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.
+
+Nørretranders extends this metaphor to the human mind: our perception of the world is not a literal reproduction or mirror of reality, but rather a "myth" or "illusion" created to aid the animal's survival <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>, <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>. The criterion for this mental model is not its exact accuracy, but its utility for survival <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>. This perspective aligns with a Darwinian view of [[evolutionary_purpose_and_cost_of_consciousness | evolution]], where [[Concept of consciousness | consciousness]] is seen as a "clever hack" that enables high-quality decisions at a relatively low, albeit significant, cost <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>, <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>. The brain, though only about 3 lbs, consumes 20% of the body's energy, and the circuits supporting [[Concept of consciousness | consciousness]] may account for 20-30% of that <a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>, <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
+
+## Bandwidth Reduction and Information Processing
+
+Nørretranders highlights a crucial aspect of [[Concept of consciousness | consciousness]]: its narrow bandwidth <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a>. He notes that early information theory studies in the 1950s attempted to quantify the information processed by the human mind <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>.
+
+Key findings related to information flow:
+*   **Total input bandwidth**: The human brain takes in approximately 11 million bits per second from the environment, primarily through vision, but also hearing, smell, and taste <a class="yt-timestamp" data-t="00:16:13">[00:16:13]</a>, <a class="yt-timestamp" data-t="00:16:24">[00:16:24]</a>.
+*   **Conscious awareness bandwidth**: What we are consciously aware of is a mere 16 bits per second <a class="yt-timestamp" data-t="00:16:42">[00:16:42]</a>.
+*   **Compression factor**: This represents a compression factor of one million (1,000,000) times more information entering the mind than appears in conscious awareness <a class="yt-timestamp" data-t="00:16:48">[00:16:48]</a>.
+
+This dramatic reduction implies that [[Concept of consciousness | consciousness]] is largely about **throwing away or ignoring most of the incoming information**, focusing only on what is meaningful for survival and interaction <a class="yt-timestamp" data-t="00:17:49">[00:17:49]</a>, <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>. For example, we don't consciously process that a ceiling is not falling, but we immediately notice a spider on it <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>, <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>.
+
+### Physics of Information and Forgetting
+
+Nørretranders emphasizes the significance of the "physics of information," particularly the work of Rolf Landauer and Charles Bennett at IBM <a class="yt-timestamp" data-t="00:18:33">[00:18:33]</a>, <a class="yt-timestamp" data-t="00:19:34">[00:19:34]</a>. Their research, notably on the Maxwell's Demon problem, revealed a counter-intuitive principle: transferring or recording information has no necessary physical cost, but **erasing or forgetting information is very expensive** <a class="yt-timestamp" data-t="00:20:00">[00:20:01]</a>, <a class="yt-timestamp" data-t="00:20:27">[00:20:27]</a>, <a class="yt-timestamp" data-t="00:20:47">[00:20:47]</a>. This concept reinforces the idea that [[Concept of consciousness | consciousness]] is largely a result of this active process of forgetting and compression <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>, <a class="yt-timestamp" data-t="00:20:29">[00:20:29]</a>.
+
+## The "I" and "Me" Distinction
+
+A central idea in Nørretranders' book is the distinction between the "I" (conscious awareness) and the "me" (the person, including unconscious processes) <a class="yt-timestamp" data-t="00:25:02">[00:25:02]</a>, <a class="yt-timestamp" data-t="00:29:08">[00:29:08]</a>. This concept gained interest from neurophysiologists like Benjamin Libet, whose famous experiments showed a delay in conscious awareness <a class="yt-timestamp" data-t="00:25:36">[00:25:36]</a>.
+
+### Libet's Experiment and Free Will
+
+Libet's work, building on 1960s research by Kornhuber and Deecke, revealed that the brain begins preparing for an action about one second before the action is performed <a class="yt-timestamp" data-t="00:26:39">[00:26:39]</a>, <a class="yt-timestamp" data-t="00:27:21">[00:27:21]</a>. Conscious decision-making for that action only occurs about half a second *after* the brain has started its preparations, and half a second *before* the action is executed <a class="yt-timestamp" data-t="00:28:21">[00:28:21]</a>, <a class="yt-timestamp" data-t="00:28:27">[00:28:27]</a>.
+
+This implies that if the "I" is the conscious awareness, then the "I" does not initiate free will in the sense of conscious initiation <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>, <a class="yt-timestamp" data-t="00:39:36">[00:39:37]</a>. However, Nørretranders argues that free will resides in the "me" – the whole person – rather than just the conscious "I" <a class="yt-timestamp" data-t="00:29:49">[00:29:49]</a>, <a class="yt-timestamp" data-t="00:39:53">[00:39:55]</a>. Many everyday actions like walking, talking, or dancing are performed largely without conscious awareness, and attempts to consciously control them can hinder performance <a class="yt-timestamp" data-t="00:30:26">[00:30:26]</a>, <a class="yt-timestamp" data-t="00:30:40">[00:30:40]</a>, <a class="yt-timestamp" data-t="00:31:01">[00:31:01]</a>. Conscious awareness often acts as an observer of actions already initiated by the unconscious "me" <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>, <a class="yt-timestamp" data-t="00:35:02">[00:35:02]</a>.
+
+### Delayed Auditory Feedback and Stuttering
+
+This concept is further illustrated by "delayed auditory feedback," where hearing one's own voice delayed by half a second causes stuttering <a class="yt-timestamp" data-t="00:36:26">[00:36:26]</a>, <a class="yt-timestamp" data-t="00:36:31">[00:36:31]</a>. Conversely, applying delayed auditory feedback to stutterers can help them stop <a class="yt-timestamp" data-t="00:36:46">[00:36:46]</a>. This suggests that conscious "self-surveillance" can impede fluent actions, much like a dancer who becomes self-conscious loses their flow <a class="yt-timestamp" data-t="00:36:59">[00:36:59]</a>, <a class="yt-timestamp" data-t="00:37:42">[00:37:42]</a>.
+
+## Exformation: The Unspoken Context
+
+Nørretranders introduces the concept of **exformation**, which is the information that is implicitly understood or thrown away in communication because it's already known to the recipient <a class="yt-timestamp" data-t="00:47:40">[00:47:40]</a>, <a class="yt-timestamp" data-t="00:50:41">[00:50:41]</a>. He uses the example of Victor Hugo's one-character correspondence with his publisher: a question mark from Hugo ("How is my book doing?") and an exclamation mark back ("It's a success!") conveyed immense meaning due to shared context, despite minimal "bits" of information being explicitly exchanged <a class="yt-timestamp" data-t="00:48:05">[00:48:05]</a>, <a class="yt-timestamp" data-t="00:49:00">[00:49:00]</a>.
+
+This highlights that effective communication involves not just the information transmitted, but also the vast amount of exformation that is compressed by the sender and then unfolded by the receiver, based on their existing knowledge and context <a class="yt-timestamp" data-t="00:50:59">[00:50:59]</a>, <a class="yt-timestamp" data-t="00:51:08">[00:51:08]</a>. This applies to literary fiction, where authors rely on readers' pre-existing understanding to evoke meaning with fewer words <a class="yt-timestamp" data-t="00:51:51">[00:51:54]</a>.
+
+## Implications for Modern Life
+
+Nørretranders suggests that the modern "Information Society" paradoxically suffers from *too little* information, rather than too much <a class="yt-timestamp" data-t="01:03:41">[01:03:41]</a>, <a class="yt-timestamp" data-t="01:03:55">[01:03:55]</a>. As humans have simplified and controlled their living environments (e.g., from wilderness to cornfields to cities), the analog information present has diminished, leading to a "devoid of information" environment that can be uninspiring <a class="yt-timestamp" data-t="01:04:24">[01:04:24]</a>, <a class="yt-timestamp" data-t="01:05:04">[01:05:04]</a>. While digital information abounds, it doesn't compensate for the loss of rich, complex, analog information from our physical surroundings <a class="yt-timestamp" data-t="01:04:14">[01:04:14]</a>, <a class="yt-timestamp" data-t="01:05:43">[01:05:45]</a>.
+
+He argues that much of modern malaise stems from this lack of information, and advocates for:
+*   **Less control over nature**: Allowing more wilderness and "otherness" to foster engagement and joy <a class="yt-timestamp" data-t="01:05:53">[01:05:53]</a>, <a class="yt-timestamp" data-t="01:05:58">[01:06:01]</a>.
+*   **Embracing unpredictability**: Seeking interactions with other human beings and species, which are inherently unpredictable and offer enormous joy <a class="yt-timestamp" data-t="01:06:15">[01:06:15]</a>, <a class="yt-timestamp" data-t="01:06:28">[01:06:30]</a>.
+
+The desire to remove all sources of unhappiness has led to a reduction in life's dimensionality, but this does not automatically lead to happiness <a class="yt-timestamp" data-t="01:06:33">[01:06:33]</a>, <a class="yt-timestamp" data-t="01:06:49">[01:06:56]</a>. True happiness often comes from engaging with the uncontrolled, multi-dimensional aspects of life <a class="yt-timestamp" data-t="01:07:05">[01:07:05]</a>, <a class="yt-timestamp" data-t="01:07:17">[01:07:17]</a>.

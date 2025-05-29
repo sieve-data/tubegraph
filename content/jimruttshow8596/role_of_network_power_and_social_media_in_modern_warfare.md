@@ -1,0 +1,23 @@
+---
+title: Role of network power and social media in modern warfare
+videoId: PKOU3p9VoOw
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Modern conflicts, such as the Russia-Ukraine conflict, highlight the evolving [[role_of_network_warfare_in_modern_conflicts | role of network warfare]] and [[impact_of_social_media_on_information_dissemination | social media]] in shaping international responses and battlefield dynamics.
+
+## Soft Power as Network Power
+The Western response to the Russia-Ukraine conflict demonstrates a new expression of soft power, which can now be understood as network power <a class="yt-timestamp" data-t="00:13:47">[00:13:47]</a>. This shift is largely due to the intermediation of communication between Western organizations through [[impact_of_social_media_on_information_dissemination | social media]], particularly Twitter <a class="yt-timestamp" data-t="00:14:20">[00:14:20]</a>.
+
+Twitter, identified as a disproportionately important social network, has intensely sped up processes <a class="yt-timestamp" data-t="00:14:31">[00:14:31]</a>. Companies assess public sentiment and the consensus of other Western organizations not through traditional back channels, but via activity on Twitter <a class="yt-timestamp" data-t="00:14:47">[00:14:47]</a>. The rapid spread of information on the platform means that "stampedes," or quick shifts in collective action, happen much faster <a class="yt-timestamp" data-t="00:16:10">[00:16:10]</a>. This accelerated communication latency has led to a much sharper and faster Western response in terms of organizations initiating their own economic sanctions <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>.
+
+The collective sentiment among the professional white-collar class, heavily reliant on Twitter, creates a highly synchronized "collective id" or "collective unconscious" regarding prevalent feelings <a class="yt-timestamp" data-t="00:15:40">[00:15:40]</a>. This class, predominantly English-speaking and active on Twitter, forms a unified media space across various Western countries, enabling rapid consensus <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>. For instance, the decision to exclude Russian banks from SWIFT, which was anticipated to take weeks of negotiation, occurred within two days <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>.
+
+## Information Warfare and Key Figures
+The embodiment of Ukraine's war effort in President Zelensky and his public relations image highlights the significant role of individual figures in [[information_warfare_and_propaganda | information warfare]] <a class="yt-timestamp" data-t="00:35:01">[00:35:01]</a>. His image has become a political asset for any organization backing Ukraine <a class="yt-timestamp" data-t="00:35:56">[00:35:56]</a>. If such a central figure were captured or killed, it would deeply shake the Ukrainian government and could cause Western support to quietly wane, becoming softer and less reliable <a class="yt-timestamp" data-t="00:34:44">[00:34:44]</a>.
+
+## Russian Shortcomings in Network Warfare
+Despite perceptions of Russian expertise in [[information_warfare_and_propaganda | psychological warfare]] and misinformation, their performance in the Russia-Ukraine conflict suggests considerable ineptitude in "5G" or [[role_of_network_warfare_in_modern_conflicts | fifth-generation warfare]] <a class="yt-timestamp" data-t="00:37:43">[00:37:43]</a>. The Russians have not consistently engaged in obvious network attacks, such as destroying bridges to cut off supply lines, and have largely failed to disrupt Ukrainian infrastructure like the internet or electricity <a class="yt-timestamp" data-t="00:38:36">[00:38:36]</a>. This suggests they may not fully grasp the concept of [[role_of_network_warfare_in_modern_conflicts | network warfare]] <a class="yt-timestamp" data-t="00:38:44">[00:38:44]</a>.
+
+Furthermore, Russia has been "utterly outplayed" by Ukraine in the realm of [[information_warfare_and_propaganda | psychological warfare]] and news manipulation, at least in the West <a class="yt-timestamp" data-t="00:38:52">[00:38:52]</a>. The claims of Russian misinformation capabilities appear to have been greatly overstated <a class="yt-timestamp" data-t="00:39:34">[00:39:34]</a>. Their initial goal in preserving infrastructure was likely rooted in an intention to use it themselves, which proved overly optimistic <a class="yt-timestamp" data-t="00:39:54">[00:39:54]</a>.

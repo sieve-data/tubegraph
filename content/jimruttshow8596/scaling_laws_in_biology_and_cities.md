@@ -1,0 +1,66 @@
+---
+title: Scaling laws in biology and cities
+videoId: WsGWl5R78JY
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+## Introduction
+Scaling laws describe relationships between different aspects of a system as its size changes <a class="yt-timestamp" data-t="02:33:00">[02:33:00]</a>. These laws reveal fundamental principles governing how various systems operate and evolve <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>.
+
+## Biological Scaling Laws
+In biological systems, such as animals or trees, a phenomenon called "sublinear scaling" is observed <a class="yt-timestamp" data-t="02:48:00">[02:48:00]</a>. This means that if you double the mass of an animal, its metabolic rate does not double; instead, it increases by approximately 75% <a class="yt-timestamp" data-t="03:20:00">[03:20:00]</a>, following a "three-quarters law" <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a>. This leads to an asymptote where larger animals have a relatively smaller metabolic rate in proportion to their mass compared to smaller ones <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>. For example, an elephant is about 20 times less energetic per pound of meat than a mouse <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>. This sublinear scaling is a ubiquitous and fundamental law across all known biology, shaping aspects like animal size, speed, and the food chain <a class="yt-timestamp" data-t="04:19:00">[04:19:00]</a>. While this empirical law was not discovered by Jeffrey West and Jim Brown, they provided the theoretical reasons for its existence <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>. The consequences of this law are central to the nature of biology and drive many aspects of [[Complexity and Evolution | biological evolution]] <a class="yt-timestamp" data-t="07:10:00">[07:10:00]</a>.
+
+## Scaling in Human Systems
+### Corporations
+Some human systems, such as corporations, also exhibit sublinear scaling <a class="yt-timestamp" data-t="05:05:00">[05:05:00]</a>. As more humans are added to a large organization, the income or revenue does not increase linearly, showing an asymptote <a class="yt-timestamp" data-t="05:15:00">[05:15:15]</a>.
+
+### Cities
+In contrast to biological systems and corporations, cities demonstrate "superlinear scaling" <a class="yt-timestamp" data-t="05:36:00">[05:36:00]</a>. When the population of a city doubles, its GDP, income per capita, and other metrics like innovation, patents, and musical creations increase by approximately 15% (a factor of 1.15) <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. This means that for cities, the curve of growth gets steeper and steeper, indicating qualitatively different regimes compared to sublinear scaling <a class="yt-timestamp" data-t="06:27:00">[06:27:00]</a>.
+
+The hypothesis is that this superlinear scaling in cities is linked to increasing connectivity, similar to Metcalfe's Law, which states that the value of a network increases exponentially with the number of connected users <a class="yt-timestamp" data-t="07:02:00">[07:02:00]</a>. This connection is believed to stem from the nature of information transfer, which differs from energy transfer <a class="yt-timestamp" data-t="08:17:00">[08:17:00]</a>. The "ephemeralization of pattern transmission, formation, and copying" means that once an idea or pattern (like calculus) is invented, its transmission and copying are far less expensive than its initial creation <a class="yt-timestamp" data-t="08:26:00">[08:26:00]</a>.
+
+Historically, until very recently, almost all mind-to-mind contact required in-person interaction <a class="yt-timestamp" data-t="09:24:00">[09:24:00]</a>. This necessity for embodied collaboration drove the growth of cities, as companies required employees to be in offices, largely in the same town <a class="yt-timestamp" data-t="09:41:00">[09:41:00]</a>. The immense attractiveness of superlinear growth in wealth and innovation per capita acted as an attractor, leading humans to congregate in larger settlements over time <a class="yt-timestamp" data-t="10:05:00">[10:05:00]</a>.
+
+## Challenges and Solutions in Urban Scaling
+While large cities offer benefits, they also face significant challenges, particularly from negative aspects that also scale superlinearly <a class="yt-timestamp" data-t="19:52:00">[19:52:00]</a>. These include:
+*   Madness and Corruption <a class="yt-timestamp" data-t="20:09:00">[20:09:00]</a>
+*   Crime <a class="yt-timestamp" data-t="20:14:00">[20:14:00]</a>
+*   Sickness <a class="yt-timestamp" data-t="20:17:00">[20:17:00]</a>
+
+Cities were historically "net killers of people" due to unhealthiness, requiring repopulation from rural areas until around 1890 in the West <a class="yt-timestamp" data-t="20:21:00">[20:21:00]</a>. To address these problems, cities have had to implement major institutional upgrades <a class="yt-timestamp" data-t="21:11:00">[21:11:00]</a>.
+
+Solutions to the problems of urban scaling fall into three regimes:
+1.  **Technologies of Density**: These solve problems related to fitting more people into the same space <a class="yt-timestamp" data-t="11:58:00">[11:58:00]</a>. Examples include the elevator (allowing taller buildings) and steel frame construction <a class="yt-timestamp" data-t="13:20:00">[13:20:20]</a>.
+2.  **Technologies that Virtualize Space (Transportation)**: These expand the effective urban environment by increasing the speed at which people can move <a class="yt-timestamp" data-t="13:34:00">[13:34:00]</a>. The development of trains and streetcars, for instance, made cities functionally larger <a class="yt-timestamp" data-t="13:37:00">[13:37:00]</a>.
+3.  **Technologies of Ephemeralization of Communication**: These allow for collaboration and information transfer without physical proximity <a class="yt-timestamp" data-t="13:53:00">[13:53:00]</a>. Early examples include messengers, writing, and the printing press <a class="yt-timestamp" data-t="14:01:00">[14:01:00]</a>. Later developments included the telegram, telephone, and television <a class="yt-timestamp" data-t="14:54:00">[14:54:00]</a>.
+
+### The Victorian Transition Example
+The Victorian era saw two significant institutional upgrades:
+*   **Modern Policing**: The medieval county sheriff system was insufficient for growing urban crime, leading to the invention of professional, tax-funded urban policing <a class="yt-timestamp" data-t="21:55:00">[21:55:00]</a>.
+*   **Urban Sewage and Waste Management**: Major problems with disease vectors led to massive investments in sewage infrastructure, as seen in London <a class="yt-timestamp" data-t="22:44:00">[22:44:00]</a>.
+
+These shifts require substantial (and risky) institutional change, often driven by the high tension of "bad" superlinear scaling <a class="yt-timestamp" data-t="23:29:00">[23:29:00]</a>. The history of civilization is a series of such "step functions" where innovations and institutions address scaling problems, allowing for further growth <a class="yt-timestamp" data-t="23:41:00">[23:41:00]</a>.
+
+## The Digital Tipping Point and the Emergence of Civium
+The ongoing shift into the realm of the digital is crucial <a class="yt-timestamp" data-t="15:26:00">[15:26:00]</a>. Unlike previous analog media tied to specific forms, digital technology is a substrate that can produce all forms of media (video, audio, text, etc.) <a class="yt-timestamp" data-t="15:48:00">[15:48:00]</a>. This capacity means that the "ephemeralization of communication" is reaching a tipping point where the quality of digital collaboration between minds is becoming good enough to shift the center of collaboration away from embodied interaction <a class="yt-timestamp" data-t="16:24:00">[16:24:00]</a>.
+
+The COVID-19 pandemic, around 2020, acted as a "forcing function," accelerating the adoption and development of digital communication <a class="yt-timestamp" data-t="16:53:00">[16:53:00]</a>. While virtual communication isn't a complete replacement for all in-person collaboration yet, technologies like the Apple Vision represent significant "step functions" in virtualizing relationality <a class="yt-timestamp" data-t="17:50:00">[17:50:00]</a>. Demographic shifts, with Gen Z having a different relationship to the virtual than older generations, also contribute to this transition <a class="yt-timestamp" data-t="18:14:00">[18:14:00]</a>.
+
+This shift signifies a potential transition from "civilization" to "civium" <a class="yt-timestamp" data-t="19:23:00">[19:23:00]</a>. The current period is experiencing significant problems with crime, corruption, and disease, indicating that existing institutional forms are reaching their limits <a class="yt-timestamp" data-t="24:07:00">[24:07:00]</a>. This confluence suggests that the virtual realm may offer solutions to these problems, further fueling the transition to the civium construct <a class="yt-timestamp" data-t="25:02:00">[25:02:00]</a>.
+
+### The Civium Concept
+The core idea of the civium is a massive decoupling of body and mind <a class="yt-timestamp" data-t="25:22:00">[25:22:00]</a>. The value of collaboration, mediated by the virtual, will be increasingly driven by the ability to connect more minds virtually than in any physical city <a class="yt-timestamp" data-t="25:35:00">[25:35:00]</a>. This migration of collaborative capacity to the virtual realm will reciprocally diminish the attractiveness of traditional cosmopolitan urban environments <a class="yt-timestamp" data-t="25:51:00">[25:51:00]</a>.
+
+The civium concept aims to unlock a new capacity to re-establish human elements that have been sacrificed throughout the arc of civilization <a class="yt-timestamp" data-t="26:08:00">[26:08:00]</a>. Cities, while offering wealth and innovation, have often been unhealthy for minds (leading to insanity, depression) and bodies, and have required cultural artifacts that subordinate human needs to scaling <a class="yt-timestamp" data-t="26:19:00">[26:19:00]</a>.
+
+The shift to civium maps from [[scaling_small_group_governance_for_larger_communities | quantity to quality]], or from "scaling heaps to growing living things" <a class="yt-timestamp" data-t="30:38:00">[30:38:00]</a>. It emphasizes the "return to the meso scale" – living in communities of 50 to 500 people where relationships are strong and mutual care is inherent, unlike the anonymous and sterile relationships with the market and government in large cities <a class="yt-timestamp" data-t="29:05:00">[29:05:00]</a>.
+
+#### Topological Structure of Civium
+The civium involves two primary directions:
+1.  **Downward (Physical/Embodied)**: Humans increasingly migrate into human-scale, humane, embodied congregations, likely at Dunbar's Number levels (around 150 people) <a class="yt-timestamp" data-t="34:45:00">[34:45:00]</a>. This involves long-term embodiment in specific locations, fostering care for the place and adaptation to the environment <a class="yt-timestamp" data-t="35:03:00">[35:03:00]</a>. This "traverse" will involve relearning human capabilities, building new infrastructure and cultural artifacts <a class="yt-timestamp" data-t="35:34:00">[35:34:00]</a>. The goal is humans who are "vastly more capable of humaning," less emotionally volatile, more engaged in dialogue, and possessing deeper embodied wisdom <a class="yt-timestamp" data-t="35:42:00">[35:42:00]</a>.
+2.  **Upward (Virtual)**: Real attention is directed towards the quality dimension of the virtual <a class="yt-timestamp" data-t="36:02:00">[36:02:00]</a>. This means pivoting the design of social media systems away from maximizing revenue (e.g., as seen with Facebook's optimization for money on money return) <a class="yt-timestamp" data-t="33:11:00">[33:11:00]</a>. Instead, algorithms would be designed to optimize for the highest-quality relationality, facilitating high-quality dialogue, truth-seeking, and generative insight among individuals <a class="yt-timestamp" data-t="36:31:00">[36:31:00]</a>.
+
+This framework suggests a positive feedback loop: healthy, trustworthy physical communities enable better virtual collaboration, and high-quality virtual networks can support and enrich embodied communities <a class="yt-timestamp" data-t="39:49:00">[39:49:00]</a>. However, this also necessitates careful [[impact_of_technology_on_evolutionary_dynamics | technology hygiene]] to prevent the virtual from consuming human "seed corn" and leading to negative outcomes <a class="yt-timestamp" data-t="40:03:00">[40:03:00]</a>.
+
+Current trends, such as rising SSRI prescriptions, collapsing fertility rates, and increasing suicide rates, along with institutional corruption, suggest society is reaching non-recoverable thresholds in human well-being and institutional function <a class="yt-timestamp" data-t="41:12:00">[41:12:00]</a>. This reinforces the necessity for a major regime change toward the civium model <a class="yt-timestamp" data-t="24:41:00">[24:41:00]</a>. The transition requires simultaneous change in both individual human behavior and institutional structures, a challenging but crucial undertaking <a class="yt-timestamp" data-t="42:33:00">[42:33:00]</a>.
