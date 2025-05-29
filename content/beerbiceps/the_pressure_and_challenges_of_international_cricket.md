@@ -1,0 +1,33 @@
+---
+title: The pressure and challenges of international cricket
+videoId: sYBddyIEQjA
+---
+
+From: [[beerbiceps]] <br/> 
+The world of international cricket presents unique pressures and challenges for its players, encompassing public scrutiny, personal development, and the demanding nature of the sport itself <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+
+## Public Scrutiny and Mental Well-being
+Cricketers, especially those growing up in the public eye, experience a fast-paced environment where every movement, action, and word is judged <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. There's constant pressure to behave in a certain way <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>. This extends to social media, where negative comments and hate can be prevalent, especially when a player is struggling <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:15:53">[00:15:53]</a>. While fans shower love and support, the negativity can disproportionately affect a player's mind <a class="yt-timestamp" data-t="00:14:23">[00:14:23]</a>, making them focus on one negative comment over many positive ones <a class="yt-timestamp" data-t="00:14:28">[00:14:28]</a>.
+
+To cope, players are often advised to stay away from social media, whether they are performing well or not, to remain as neutral and balanced as possible <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>, <a class="yt-timestamp" data-t="00:30:34">[00:30:34]</a>. While the love from fans can be a source of power and strength, the constant judgment can lead a player to feel disconnected from their true personality <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>.
+
+## Personal Sacrifices and Development
+The journey to becoming an international cricketer often involves significant personal sacrifices. Many players, like KL Rahul, dedicate their lives to cricket from a very young age, starting as early as 11 years old <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. This intense focus can mean missing out on typical childhood experiences, such as regular school attendance, making friends outside of cricket, or developing diverse hobbies <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. For some, cricket is the only plan, with no "plan B" <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>.
+
+Growing up in front of the world means that mistakes, whether in public relations or on the field, are exposed and judged <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. The guidance system for young cricketers can be inconsistent; while some are lucky to have mentors prepare them for international pressure, many have to learn on their own through experience and observation <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>, <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. This period can be confusing, especially with players often being away from family guidance <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+
+Financially, while success can bring stability and alleviate worries about earning a living, providing a focus on the game itself <a class="yt-timestamp" data-t="00:30:34">[00:30:34]</a>, too much money too early without proper guidance can be a significant distraction for young cricketers <a class="yt-timestamp" data-t="00:29:12">[00:29:12]</a>.
+
+## On-Field Pressures
+### Performance Demands
+The nature of cricket means that players are under constant pressure to improve their game <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. Being a three-format player, for instance, requires immense dedication and skill <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. When a player doesn't perform well, they are aware of the criticism, and it can be frustrating because results in sport don't always directly correlate with hard work <a class="yt-timestamp" data-t="00:20:04">[00:20:04]</a>.
+
+### Fielding and Team Dynamics
+During a match, cricketers are highly aware of their surroundings, including comments from fans, especially close to the boundary line <a class="yt-timestamp" data-t="00:31:28">[00:31:28]</a>. However, during overs, their primary focus must be on the captain, bowler, or wicketkeeper for strategic changes <a class="yt-timestamp" data-t="00:32:08">[00:32:08]</a>.
+
+Dropping a catch is particularly distressing for a player <a class="yt-timestamp" data-t="00:33:14">[00:33:14]</a>. It's seen as an aspect of the game that requires no luck, only pure practice and hard work <a class="yt-timestamp" data-t="00:33:29">[00:33:29]</a>. A dropped catch can negatively impact team morale, making the player feel like they've let their teammates down and causing a dip in energy for all 11 players on the field <a class="yt-timestamp" data-t="00:34:16">[00:34:16]</a>.
+
+### [[learning_leadership_and_captaincy_in_cricket | Captaincy]]
+Being a captain adds another layer of pressure and responsibility. A captain is only as good as their team, emphasizing the need to get everyone on the same page and build strong relationships <a class="yt-timestamp" data-t="00:40:30">[00:40:30]</a>. This involves fostering a bond where players are willing to "fight for you on the field" <a class="yt-timestamp" data-t="00:41:59">[00:41:59]</a>. Leaders like [[ms_dhonis_leadership_qualities_and_cricket_leadership_philosophy | MS Dhoni]] and Virat Kohli provide insights into different leadership styles. [[ms_dhonis_leadership_qualities_and_cricket_leadership_philosophy | Dhoni]] was known for his calm approach and ability to build relationships by understanding each player personally <a class="yt-timestamp" data-t="00:45:56">[00:45:56]</a>, often relying on his gut feel and never second-guessing his decisions <a class="yt-timestamp" data-t="00:47:19">[00:47:19]</a>. Kohli, on the other hand, led with passion and aggression, setting high standards for fitness and diet, inspiring the team to strive for greatness <a class="yt-timestamp" data-t="00:43:05">[00:43:05]</a>. Rohit Sharma's leadership is characterized by sharp strategies and thorough homework, giving him a relaxed demeanor <a class="yt-timestamp" data-t="00:44:03">[00:44:03]</a>.
+
+The challenge for a captain is to be true to themselves and maintain their personal energy and identity even in a leadership role <a class="yt-timestamp" data-t="00:53:52">[00:53:52]</a>. This self-authenticity empowers other players to feel comfortable in their own skin and express themselves naturally <a class="yt-timestamp" data-t="00:54:37">[00:54:37]</a>.

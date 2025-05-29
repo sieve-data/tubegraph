@@ -1,0 +1,26 @@
+---
+title: Perspectives on War and Peace
+videoId: byJgRDFdUj0
+---
+
+From: [[beerbiceps]] <br/> 
+
+Robert Kiyosaki, a former U.S. Marine Corps pilot who served in Vietnam, offers a stark and direct perspective on war, peace, and their implications for global and national affairs <a class="yt-timestamp" data-t="00:18:14">[00:18:14]</a>.
+
+## Military Service and Its Impact
+Kiyosaki attended military school, where he was trained to kill people, and he states he killed many during his service in Vietnam <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. His experiences shaped his worldview, leading him to believe that military personnel "think differently" <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. He fought for his country against Communists, noting the reciprocal violence: "they killed us, we killed them" <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+
+During his service, he went down three times in Vietnam, and many of his friends did not return <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. Returning to America in 1972, he and other soldiers faced hostility from "hippies" and "peace snaks" who would spit on them and hit them with eggs <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. This public reception left him feeling "a little bitter" <a class="yt-timestamp" data-t="00:19:21">[00:19:21]</a>.
+
+His military phase instilled in him discipline, teaching him "to do what I have to do" <a class="yt-timestamp" data-t="00:20:32">[00:20:32]</a>. He describes the transformation required for military service: "You have to become somebody else to do that job" <a class="yt-timestamp" data-t="00:21:07">[00:21:07]</a>. Kiyosaki has faced death multiple times, including crashing three times and having guns put to his head, leading him to state that he doesn't think about death and doesn't care if he lives or dies <a class="yt-timestamp" data-t="00:18:45">[00:18:45]</a> <a class="yt-timestamp" data-t="00:24:53">[00:24:53]</a>. His experiences highlight the [[challenges_and_philosophies_of_being_a_soldier_in_combat | challenges and philosophies of being a soldier in combat]] and the [[psychological_and_ethical_aspects_of_military_life | psychological and ethical aspects of military life]].
+
+## The Necessity of Fighting for Freedom
+Kiyosaki believes that fighting for freedom is crucial, stating, "If we don't fight for Freedom we've lost our freedoms" <a class="yt-timestamp" data-t="00:30:17">[00:30:17]</a>. He applies the same intensity he used in combat to his current work, fighting for the freedom of people through education <a class="yt-timestamp" data-t="00:18:38">[00:18:38]</a>. He criticizes what he perceives as naive calls for peace, asserting that "that's not the way life is" <a class="yt-timestamp" data-t="00:43:47">[00:43:47]</a>. He argues against the idea of abolishing police, warning that it would lead to chaos <a class="yt-timestamp" data-t="00:27:02">[00:27:02]</a>. He stresses the importance of strong leaders and strong people to prevent others from taking everything <a class="yt-timestamp" data-t="00:29:45">[00:29:45]</a>.
+
+## Geopolitical Landscape and Predictions
+Kiyosaki views the world as "breaking in half," citing a division between power blocs such as Russia, China, America, and Europe <a class="yt-timestamp" data-t="00:16:02">[00:16:02]</a>. He highlights India's position in the middle, noting its role in the BRICS meeting (Brazil, Russia, India, China, South Africa) <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a>.
+
+He asserts that "we're going to go to war," specifically predicting conflict between China and America <a class="yt-timestamp" data-t="00:26:24">[00:26:24]</a>. He points to ongoing conflicts and tensions, such as in Taiwan (due to semiconductors), Ukraine, Saudi Arabia, and Kashmir, as evidence of an impending Third World War <a class="yt-timestamp" data-t="00:27:26">[00:27:26]</a>. He also notes China's increasing military power, building warships, and India's similar efforts to defend its region <a class="yt-timestamp" data-t="00:29:26">[00:29:26]</a>. These observations fall under [[geopolitical_narratives_and_critiques_of_international_organizations | geopolitical narratives and critiques of international organizations]].
+
+## Critique of Political Leadership
+Kiyosaki is highly critical of U.S. President Joe Biden, whom he labels the "biggest criminal" he's ever seen and a "Communist" <a class="yt-timestamp" data-t="00:59:58">[00:59:58]</a>. He contrasts Biden with former President Donald Trump, whom he calls a "very good man" and a capitalist, stating that "Communists and the Socialists and the crooks hate him" <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>. He specifically criticizes Biden for cutting off the Keystone pipeline from Canada to the Gulf of Mexico, which he claims intentionally destroyed the middle class by drastically increasing oil prices <a class="yt-timestamp" data-t="00:32:00">[00:32:00]</a>. He views Biden as a "weak man" in contrast to what he perceives as the strength of leaders like Donald Trump and India's Prime Minister Modi <a class="yt-timestamp" data-t="00:29:49">[00:29:49]</a>.

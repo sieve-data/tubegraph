@@ -1,0 +1,31 @@
+---
+title: Durations of Important Epics and Their Historical Contexts
+videoId: HEAZF_aUkRU
+---
+
+From: [[beerbiceps]] <br/> 
+The [[Cultural and historical significance of ancient Indian scriptures | durations]] and historical contexts of ancient Indian epics like the [[Debates on the authenticity and historical timelines of Mahabharata and Ramayana | Mahabharata]] and [[Debates on the authenticity and historical timelines of Mahabharata and Ramayana | Ramayana]] are subjects of extensive study and [[Interpretations of the Ramayana and Mahabharata using modern tools | interpretation]].
+
+## Dating the Epics
+Modern research, such as that conducted by N. Oak and Rupa Bhatty, focuses on [[Interpretations of the Ramayana and Mahabharata using modern tools | astronomical dating]] to determine the historical timelines of these texts <a class="yt-timestamp" data-t="02:31:11">[02:31:11]</a>.
+
+Their research suggests:
+*   The [[Debates on the authenticity and historical timelines of Mahabharata and Ramayana | Mahabharata]] occurred around 5561 BCE <a class="yt-timestamp" data-t="02:42:51">[02:42:51]</a>.
+*   Krishna passed away approximately 36 years after the [[Debates on the authenticity and historical timelines of Mahabharata and Ramayana | Mahabharata]] war, around 5525 BCE <a class="yt-timestamp" data-t="02:43:40">[02:43:40]</a>.
+*   The [[Debates on the authenticity and historical timelines of Mahabharata and Ramayana | Ramayana]] is roughly dated to 12,000 BCE <a class="yt-timestamp" data-t="02:49:59">[02:49:59]</a>.
+
+This places the [[Debates on the authenticity and historical timelines of Mahabharata and Ramayana | Mahabharata]] roughly at the midpoint between 2024 and the [[Debates on the authenticity and historical timelines of Mahabharata and Ramayana | Ramayana]] <a class="yt-timestamp" data-t="02:49:59">[02:49:59]</a>. Such dating reinforces the idea that the events and characters described in these epics were based on real beings that existed in our realm <a class="yt-timestamp" data-t="02:47:59">[02:47:59]</a>.
+
+## Cyclic Nature of Avatars
+Despite linear dating, many Puranas suggest that Rama and Krishna did not necessarily appear in sequential Yugas within the same Maha Yuga cycle <a class="yt-timestamp" data-t="02:14:48">[02:14:48]</a>. A Maha Yuga combines Satya Yuga, Treta Yuga, Dwapara Yuga, and Kali Yuga <a class="yt-timestamp" data-t="02:22:20">[02:22:20]</a>. It is believed that Krishna incarnated in the Dwapara Yuga following a different Maha Yuga cycle from Rama's Treta Yuga <a class="yt-timestamp" data-t="02:37:37">[02:37:37]</a>. This implies a massive gap between their appearances, consistent with the dates provided <a class="yt-timestamp" data-t="02:51:30">[02:51:30]</a>.
+
+Ancient texts also speak to the [[Lost history and archeological mysteries of ancient India | timelessness]] and cyclic nature of divine manifestations, known as `kalachakram` <a class="yt-timestamp" data-t="02:54:10">[02:54:10]</a>. The *Ramayana* contains a story where Brahma reveals to Hanuman that with every new Yuga, a Rama avatar occurs, and the same events are enacted <a class="yt-timestamp" data-t="02:54:10">[02:54:10]</a>. This suggests that the dates we discuss might pertain to just one specific Rama avatar among many <a class="yt-timestamp" data-t="03:0:41">[03:0:41]</a>.
+
+## Krishna's Life Post-Mahabharata
+While not extensively detailed in some narratives, the [[Debates on the authenticity and historical timelines of Mahabharata and Ramayana | Mahabharatam]] itself mentions the 36 years following the Great War <a class="yt-timestamp" data-t="02:03:11">[02:03:11]</a>.
+
+At the end of the 18-day [[Debates on the authenticity and historical timelines of Mahabharata and Ramayana | Mahabharata]] war, where nearly all the Kaurava brothers were killed, Gandhari, their mother, was overcome by grief <a class="yt-timestamp" data-t="02:06:06">[02:06:06]</a>. Blaming Krishna for the destruction, she cursed him, proclaiming he would die silently by a hunter's arrow <a class="yt-timestamp" data-t="02:04:47">[02:04:47]</a>. Krishna accepted this curse with a smile, stating it was how he had already chosen to leave the earthly realm <a class="yt-timestamp" data-t="02:06:06">[02:06:06]</a>. He noted that Gandhari had wasted her accumulated `tapas` (spiritual penance) on a curse that would have naturally unfolded <a class="yt-timestamp" data-t="02:06:06">[02:06:06]</a>.
+
+Following the war, Krishna retired to Dwarka <a class="yt-timestamp" data-t="02:51:50">[02:51:50]</a>. There, he witnessed the destruction of his own clan, the Yadu `vam` (Yadu clan), due to their internal bickering and misdeeds, which was also an extension of Gandhari's curse <a class="yt-timestamp" data-t="02:08:14">[02:08:14]</a>. After witnessing these events, he retreated to a forest in Dwarka <a class="yt-timestamp" data-t="02:08:22">[02:08:22]</a>. One day, while resting with his foot outstretched, a hunter mistook his dark foot for a deer's ear and shot him with a poisoned arrow <a class="yt-timestamp" data-t="02:08:42">[02:08:42]</a>. The poison spread, and Krishna returned to `shashwat goloka`, his eternal abode <a class="yt-timestamp" data-t="02:08:58">[02:08:58]</a>. Before his departure, he instructed Balarama (Adishesha, his eternal couch) to also leave, symbolizing Adishesha preparing the resting place for the Lord's return <a class="yt-timestamp" data-t="02:09:04">[02:09:04]</a>.
+
+This period of Krishna's life highlights his role in ensuring [[Geological and catastrophical events in ancient history | the purging]] of `adharma` (unrighteousness) from the Earth <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. His actions, though appearing as a 'charioteer' or witness during the war, were strategic to remove adharmic kings and forces <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. He fulfilled his purpose of blessing those who sought him and eliminating destructive forces, thus giving `moksha` (liberation) even to those he destroyed <a class="yt-timestamp" data-t="02:10:04">[02:10:04]</a>.

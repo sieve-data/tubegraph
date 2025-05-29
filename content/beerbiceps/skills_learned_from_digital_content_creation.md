@@ -1,0 +1,29 @@
+---
+title: Skills learned from digital content creation
+videoId: XWkuoTOUd3c
+---
+
+From: [[beerbiceps]] <br/> 
+
+The journey of creating digital content, particularly as young entrepreneurs managing college life, has equipped the founders of Slayy Point, Gautami and Abhyuday, with a diverse set of invaluable skills. These go beyond academic learning, offering practical experience and personal growth that they consider more impactful than traditional education <a class="yt-timestamp" data-t="05:46:25">[05:46:25]</a>.
+
+## Time Management and Prioritization
+Balancing demanding college schedules with consistent content creation required strict discipline. The duo learned to develop a proper schedule and prioritize tasks, ensuring both academic and YouTube commitments were met <a class="yt-timestamp" data-t="00:33:14">[00:33:14]</a>. They couldn't afford to take more than one day off from college per week due to attendance requirements, forcing them to complete shoots within tight deadlines <a class="yt-timestamp" data-t="01:50:09">[01:50:09]</a>. This rigorous schedule taught them to maximize efficiency, allowing them to complete tasks in significantly less time than their peers <a class="yt-timestamp" data-t="11:00:26">[11:00:26]</a>. Interestingly, their academic marks actually improved after starting YouTube, which they attribute to better time utilization <a class="yt-timestamp" data-t="00:39:27">[00:39:27]</a>, <a class="yt-timestamp" data-t="10:49:15">[10:49:15]</a>.
+
+## Self-Belief and Overcoming Limiting Mindsets
+A crucial lesson learned "very recently" was believing in themselves <a class="yt-timestamp" data-t="00:46:07">[00:46:07]</a>, <a class="yt-timestamp" data-t="09:12:47">[09:12:47]</a>. Initially, they often limited themselves, thinking they couldn't achieve certain things <a class="yt-timestamp" data-t="00:50:48">[00:50:48]</a>. However, upon attempting these challenges, they realized they were "normal" <a class="yt-timestamp" data-t="00:54:49">[00:54:49]</a>, <a class="yt-timestamp" data-t="09:22:27">[09:22:27]</a>. This journey has helped them break through mental blocks associated with being young or "too small" <a class="yt-timestamp" data-t="08:11:02">[08:11:02]</a>, realizing that age doesn't always correlate with experience or knowledge <a class="yt-timestamp" data-t="08:31:00">[08:31:00]</a>.
+
+## Communication and Public Speaking
+Initially introverted, the demands of digital content creation forced them to engage with people <a class="yt-timestamp" data-t="05:58:24">[05:58:24]</a>. Hosting events like red carpets, despite initial apprehension, significantly boosted their confidence in speaking on stage and interacting with others <a class="yt-timestamp" data-t="06:04:09">[06:04:09]</a>. This experience honed their [[improving_communication_skills | communication skills]] <a class="yt-timestamp" data-t="02:51:24">[02:51:24]</a>, making them more adept at public engagement <a class="yt-timestamp" data-t="06:14:15">[06:14:15]</a>.
+
+## Business Acumen and Brand Management
+Beyond video creation, Slayy Point's involvement in the business aspects of YouTube taught them about brand management and financial dealings <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>. They learned to interact with brands and understand the intricacies of the digital marketing industry <a class="yt-timestamp" data-t="05:17:15">[05:17:15]</a>. Their acquired skills in this area are so substantial that it's believed they could secure a strong marketing job if they chose to <a class="yt-timestamp" data-t="05:27:14">[05:27:14]</a>. They've gained practical knowledge of the industry, understanding how to expand and leverage their experience beyond just a YouTube channel <a class="yt-timestamp" data-t="05:07:31">[05:07:31]</a>.
+
+## Pressure Handling and Criticism Management
+The public nature of YouTube exposed them to immense pressure and criticism. They learned the vital skill of handling pressure, managing criticism, and ignoring negative comments <a class="yt-timestamp" data-t="06:32:32">[06:32:32]</a>. Recognizing that "you can never please anyone" <a class="yt-timestamp" data-t="06:46:11">[06:46:11]</a>, they developed resilience against online haters and even discouraging remarks from family who doubted the longevity of their career <a class="yt-timestamp" data-t="03:26:06">[03:26:06]</a>, <a class="yt-timestamp" data-t="09:03:02">[09:03:02]</a>.
+
+## Adaptability and Self-Learning
+The entire process of creating content, from scripting and ideating to shooting and editing, was learned through self-interest and practice, not formal training <a class="yt-timestamp" data-t="11:56:06">[11:56:06]</a>. They emphasize that anyone interested in making content can learn the necessary skills over time <a class="yt-timestamp" data-t="12:00:03">[12:00:03]</a>. This highlights their ability to adapt and acquire new knowledge independently within the dynamic digital space <a class="yt-timestamp" data-t="07:21:02">[07:21:02]</a>.
+
+## Overall Impact
+These skills, developed through their hands-on experience in [[journalism_and_content_creation_dynamics | digital content creation]], have provided Slayy Point with a "bigger education" than their college, preparing them for the real world with a strong practical approach to life <a class="yt-timestamp" data-t="05:46:25">[05:46:25]</a>, <a class="yt-timestamp" data-t="07:04:12">[07:04:12]</a>. They are confident that the skills acquired over three years are sufficient for them to survive and thrive, even without a Masters degree <a class="yt-timestamp" data-t="07:12:02">[07:12:02]</a>.

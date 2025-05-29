@@ -1,0 +1,24 @@
+---
+title: Adapting and thriving in different cultural environments
+videoId: eavpj-z5Y4Q
+---
+
+From: [[beerbiceps]] <br/> 
+
+Priyanka Chopra Jonas emphasizes that confidence is a learned trait, not something she was born with, and can be taught to oneself <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. She learned this from her mother and strong family members, who instilled in her the belief that circumstances don't matter as much as the size of one's dreams <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. She attributes her sustained ambition to a strong sense of purpose, which she defines as the [[Transformation for challenging film roles | pursuit of excellence]] in all endeavors <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+
+## Navigating New Beginnings
+Chopra Jonas moved to a new country and found herself reintroducing herself at the age of 31 or 32, after having already "conquered" the Indian entertainment industry <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>. The experience of starting over in a different country with a new culture and being alone took a significant toll on her <a class="yt-timestamp" data-t="00:12:29">[00:12:29]</a>.
+
+## Strategies for Overcoming Challenges
+Despite these personal challenges, Chopra Jonas consciously chooses to "smile through everything" and present a composed exterior, likening herself to a duck paddling furiously underwater while appearing calm on the surface <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>, <a class="yt-timestamp" data-t="00:17:24">[00:17:24]</a>. She believes in maintaining "grace under fire" and dignity <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>. She emphasizes that everyone faces struggles, but she prefers to find her own solutions rather than adopting a victim mentality <a class="yt-timestamp" data-t="00:17:38">[00:17:38]</a>.
+
+Her approach to [[Overcoming setbacks and failures | overcoming setbacks]] involves:
+*   **Acceptance of emotions** She advises allowing oneself to feel emotions and accept them, rather than beating oneself up <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>.
+*   **Seeking support** Initially, she tried to keep her mind busy with work, but realized this was a way of "running away from issues" <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>. Instead, she chose to seek out support from friends and people who genuinely cared about her <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>. She stresses the importance of not dealing with challenges alone and finding someone to talk to, whether it's a therapist, parent, or friend <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>. This contrasts with the isolation often seen with [[Cultural changes and societal expectations | mental health issues]] in youth due to social media pressure <a class="yt-timestamp" data-t="00:14:39">[00:14:39]</a>, <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>.
+*   **Adaptability** She encourages being "like water" – adaptable, able to fit into any vessel, and possessing a sense of calm and patience <a class="yt-timestamp" data-t="00:18:02">[00:18:02]</a>.
+
+## Personal Philosophy
+Chopra Jonas strives to be defined by what she does next, rather than what she has achieved in the past <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. She believes in constantly challenging herself, finding it extremely fulfilling <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a>. She performs best when feeling nervous or under pressure <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>. She also emphasizes the importance of taking risks in [[Facing challenges and overcoming obstacles in the entertainment industry | evolution]], as playing it safe might lead to an existence but not to becoming a trailblazer or legend <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>. Her father taught her not to fear failure, as what one does *after* failure is what truly defines a person <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>. This includes looking back at mistakes to learn and do things differently <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>.
+
+This [[Cultural insights from a Chinese perspective | philosophy]] is echoed in her film *The Sky is Pink*, which she describes as having a takeaway message: "Don't let anyone tell you what the color of your sky should be" <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>, <a class="yt-timestamp" data-t="00:15:59">[00:15:59]</a>. This is a metaphor for living life on one's own terms and not letting others' expectations define one's path <a class="yt-timestamp" data-t="00:16:01">[00:16:01]</a>.

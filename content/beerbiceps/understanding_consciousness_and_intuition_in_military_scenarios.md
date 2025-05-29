@@ -1,0 +1,62 @@
+---
+title: Understanding consciousness and intuition in military scenarios
+videoId: 3upKTlIraQg
+---
+
+From: [[beerbiceps]] <br/> 
+
+Major Vivek Jacob, a respected Special Forces veteran, offers profound insights into the nature of consciousness and intuition, drawing heavily from his extensive military experience, particularly within the Indian Special Forces (SF). His perspectives often align with those of spiritual practitioners, highlighting a unique understanding of reality forged in extreme environments <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+
+## The Special Forces Mindset
+The [[special_forces_mindset_and_mentality | Special Forces mindset]] is not merely about physical or tactical prowess; it's fundamentally a mental and spiritual development <a class="yt-timestamp" data-t="00:07:21">[00:07:21]</a>. According to Major Jacob, Special Forces personnel, or Commandos, are the highest efficiency part of the Indian Armed Forces, living a very different life through multiple combat situations <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. This unique existence cultivates a distinct understanding of being human <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
+
+A core belief is that everyone is uniquely special, and the [[special_forces_mindset_and_mentality | Special Forces mindset]] stems from the realization of this inherent uniqueness <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>. Through diverse experiences — emotional, psychological, and physical — a neural network forms that leads to self-realization <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>, enabling focused energy towards any objective, such as national security <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+
+### Creative Destruction and Open-Ended Mandates
+Special Forces operate on the principle of "creative destruction," meaning they destroy with specific parameters, and their mandate is open-ended: they can be tasked to do "anything, anywhere, anytime" <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>. This requires constant adaptability, as "every operation is different, every target is different, every goal is different" <a class="yt-timestamp" data-t="00:12:59">[00:12:59]</a>.
+
+## [[power_of_intuition_in_personal_and_professional_life | Developing Intuition and the Sixth Sense]]
+A significant aspect of the [[special_forces_mindset_and_mentality | Special Forces mindset]] is the development of intuition, or a "sixth sense" <a class="yt-timestamp" data-t="00:40:00">[00:40:00]</a>. Major Jacob describes how, over time in combat, he developed an ability to know when something was going to happen, even hours before it did, without any logical explanation <a class="yt-timestamp" data-t="00:41:13">[00:41:13]</a>. This is achieved by:
+
+*   **Surrendering to the situation**: Letting go of duality (life/death, past/future) and fully focusing on the present moment <a class="yt-timestamp" data-t="00:38:49">[00:38:49]</a>.
+*   **Expanding awareness**: By releasing the limitations of the mind and ego, one can access a spiritual realm where space, time, and energy are unified, allowing for a download of information from a "higher place" <a class="yt-timestamp" data-t="00:45:59">[00:45:59]</a>.
+
+Not all soldiers develop this "sixth sense," highlighting that it depends on how open an individual is to such an experience <a class="yt-timestamp" data-t="00:43:29">[00:43:29]</a>.
+
+## [[challenges_and_philosophies_of_being_a_soldier_in_combat | Challenges and Flow State in Combat]]
+
+### Facing the Unpredictable
+Military operations, especially for Special Forces, involve constant exposure to chaos and life-or-death situations <a class="yt-timestamp" data-t="00:22:22">[00:22:22]</a>. Major Jacob recounts an operation where, after over a decade of service, he experienced an intense, inexplicable anxiety and discomfort, compelling him to want to "get out" despite nothing having outwardly gone wrong <a class="yt-timestamp" data-t="00:18:10">[00:18:10]</a>. This internal battle was so intense he felt lazy for wanting to return to comfort <a class="yt-timestamp" data-t="00:20:42">[00:20:42]</a>. Shortly after he decided to stay, his teammate stepped on a mine, losing a leg, plunging them into absolute chaos far from base <a class="yt-timestamp" data-t="00:21:23">[00:21:23]</a>.
+
+#### The "F-up" in SF
+In the Special Forces environment, an "f-up" (failure) is typically defined by a teammate getting shot, maimed, or dying <a class="yt-timestamp" data-t="00:22:56">[00:22:56]</a>. In such chaotic moments, where "everything is out of your control," the difference between life and death depends on immediate action and mental fortitude <a class="yt-timestamp" data-t="00:23:33">[00:23:33]</a>. Major Jacob's choice in that moment of chaos was to instantly enter "repair mode," focusing on immediate medical aid and aiming to extend his teammate's life until extraction <a class="yt-timestamp" data-t="00:25:38">[00:25:38]</a>. This required a surrender to the situation, acceptance, awareness, and then making precise choices <a class="yt-timestamp" data-t="00:25:16">[00:25:16]</a>.
+
+#### A Soldier's Sacrifice and Memory Loss
+Major Jacob shares a tragic account of a young, talented soldier who suffered a head injury in combat. A bullet ricocheted off his bulletproof helmet, cracking his skull with such impact that his eye popped out <a class="yt-timestamp" data-t="00:30:06">[00:30:06]</a>. Despite this horrific injury, the soldier immediately retaliated and killed the enemy <a class="yt-timestamp" data-t="00:30:19">[00:30:19]</a>. This soldier subsequently lost all memory of his family and identity for many months <a class="yt-timestamp" data-t="00:31:00">[00:31:00]</a>. Major Jacob observed that his heart had grown heavy and his perception of life shifted after the incident, affecting his once vibrant and open demeanor <a class="yt-timestamp" data-t="00:34:16">[00:34:16]</a>. These are the profound [[psychological_and_ethical_aspects_of_military_life | psychological and ethical aspects of military life]] and prices paid in combat <a class="yt-timestamp" data-t="00:34:25">[00:34:25]</a>.
+
+### The Role of Flow State
+In [[combat experiences and survival strategies | combat experiences and survival strategies]], entering a flow state is crucial. It's described as surrendering to the situation, which leads to acceptance, then awareness, and finally the ability to make the critical choice <a class="yt-timestamp" data-t="00:25:13">[00:25:13]</a>. This is where [[psychological_and_mental_training_in_the_armed_forces | psychological and mental training in the armed forces]] meets innate human capacity. In moments of extreme danger, "there is no fear, there is no space for fear" <a class="yt-timestamp" data-t="01:19:22">[01:19:22]</a>, as the mind is entirely focused on immediate action and survival.
+
+### The Near-Death Experience
+Major Jacob describes a near-death experience where he was trapped on a cliff face, exposed to an enemy combatant <a class="yt-timestamp" data-t="01:36:06">[01:36:06]</a>. In that impossible situation, he experienced his entire life flash before his eyes in "no time," an emotionless, detached observation without judgment, guilt, or regret <a class="yt-timestamp" data-t="01:37:40">[01:37:40]</a>. He attributes his survival to an "alternative form of reality" and the exact opposite of what should have happened <a class="yt-timestamp" data-t="01:36:55">[01:36:55]</a>. This moment profoundly changed him, pushing him towards a deeper realization of life's true nature <a class="yt-timestamp" data-t="01:41:40">[01:41:40]</a>.
+
+## [[the_spiritual_and_psychological_aspects_of_military_life | Spiritual Aspects of Military Life]]
+
+### Reality as a Dream
+Major Jacob posits that everything is spiritual, originating from a denser form of energy that creates the material world <a class="yt-timestamp" data-t="00:36:43">[00:36:43]</a>. He uses the analogy of a dream: just as one experiences a dream as real, with emotions and interactions, but wakes to realize it was an illusion, so too is current reality a "real illusion" in a "cosmic mind" <a class="yt-timestamp" data-t="01:43:40">[01:43:40]</a>. Understanding this allows one to "dream the dream you wish to dream," molding reality through conscious intent <a class="yt-timestamp" data-t="01:44:40">[01:44:40]</a>.
+
+### The Illusion of Karma
+On the concept of karma, Major Jacob states it exists for those whose neural networks are formed to perceive cause and effect as real <a class="yt-timestamp" data-t="00:49:25">[00:49:25]</a>. However, for "consciousnesses which have zoomed out," karma is an illusion, like everything else <a class="yt-timestamp" data-t="00:49:40">[00:49:40]</a>. He explains that perceptions of hero and villain are subjective, emphasizing that "karma is also ultimately a perception" <a class="yt-timestamp" data-t="00:51:06">[00:51:06]</a>. Soldiers often operate purely out of duty, with no thought of karma <a class="yt-timestamp" data-t="00:51:54">[00:51:54]</a>.
+
+## [[interactions_with_wildlife_in_military_operations | Nature and Consciousness in Military Operations]]
+
+### The Leopard Encounter
+Operating deep within raw nature, Special Forces personnel experience a deep merger with their surroundings, not just physically but at a "deeper Consciousness level" <a class="yt-timestamp" data-t="00:57:05">[00:57:05]</a>. Major Jacob recounts an encounter where a leopard sat peacefully next to him for several minutes, staring at the same spot he was surveilling <a class="yt-timestamp" data-t="00:59:46">[00:59:46]</a>. He describes this as two beings in "alignment," in "peace," and in the "now," where his presence was not an anomaly to the animal <a class="yt-timestamp" data-t="01:02:41">[01:02:41]</a>.
+
+Animals, operating on instinct, exist beyond judgment and a "mind" full of thoughts, making them embody a "more relaxed and more higher Consciousness" <a class="yt-timestamp" data-t="01:03:36">[01:03:36]</a>. Similarly, experienced SF soldiers avoid thinking in combat, embracing the moment and eliminating tension <a class="yt-timestamp" data-t="01:05:15">[01:05:15]</a>. Soldiers also align with nature by "going into their Natural State," smelling like the forest, becoming a familiar presence to animals <a class="yt-timestamp" data-t="01:06:25">[01:06:25]</a>.
+
+### Confronting Bears
+Bears, while appearing cute, are incredibly dangerous and powerful, capable of tearing a person apart with a single swipe <a class="yt-timestamp" data-t="01:07:32">[01:07:32]</a>. Major Jacob shares a terrifying encounter where two bears, one of which was a mother with cubs, approached his concealed position. One bear charged, stopping within two meters of him and roaring into his face <a class="yt-timestamp" data-t="01:15:31">[01:15:31]</a>. In that moment of intense focus, there was no fear, only the instinct to act if attacked <a class="yt-timestamp" data-t="01:19:10">[01:19:10]</a>. The bears eventually retreated after a laser light was flashed in their eyes <a class="yt-timestamp" data-t="01:17:39">[01:17:39]</a>. This interaction again underscored the unique alignment between Special Forces and wild animals, recognizing a mutual respect where "don't f*** around with me, you do your f***, I do my f***" <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>.
+
+## Conclusion
+Major Jacob's journey as a Special Forces veteran provides a compelling case for understanding consciousness and intuition as crucial elements in extreme military scenarios. His reflections illustrate how the [[psychological and mental training in the armed forces | psychological and mental training in the armed forces]], combined with intense [[challenges and experiences of military operations | challenges and experiences of military operations]], can lead to profound self-realization and a unique, spiritual understanding of life and death. The ability to surrender to chaos, operate in a flow state, and align with the primal instincts of nature are not just survival strategies but pathways to a deeper awareness of reality itself <a class="yt-timestamp" data-t="01:19:03">[01:19:03]</a>.

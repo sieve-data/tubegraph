@@ -1,0 +1,63 @@
+---
+title: Survival Stories in Extreme Conditions
+videoId: IpULOwRaayM
+---
+
+From: [[beerbiceps]] <br/> 
+
+The life of a military officer often involves [[combat_experiences_and_survival_strategies | combat experiences and survival strategies]] in incredibly challenging environments, demanding not only physical resilience but also a unique [[special_forces_mindset_and_mentality | mindset and mentality]] to overcome extreme conditions <a class="yt-timestamp" data-t="05:00:54">[05:00:54]</a>. Colonel Rajiv Bharwan, from the Airborne forces, shares his detailed perspectives on the difficulties and unexpected realities encountered during his military tenure, both within India and abroad <a class="yt-timestamp" data-t="01:50:54">[01:50:54]</a>.
+
+## Combat Operations in India
+
+Colonel Bharwan's extensive career includes over a hundred combat situations, primarily in counter-insurgency and counter-terrorism operations across Assam, Manipur, Nagaland, and Jammu & Kashmir <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>. These operations often occurred in "fighting in built-up areas" (FIBUA), which are considered among the most difficult military operations due to unpredictable layouts, varying social strata, and diverse demographics of the buildings and population <a class="yt-timestamp" data-t="06:00:54">[06:00:54]</a>.
+
+### Manipur: An Eye-Opening Experience
+Colonel Bharwan's first significant combat experience began in 1999 in Kashmir, but the true "raw" experience was in Manipur <a class="yt-timestamp" data-t="07:06:00">[07:06:00]</a>. As a young officer at 24.5 years old, with only three years of service, he arrived in a region where civilians questioned if he was "from India," highlighting the severe disconnect and animosity prevalent at the time <a class="yt-timestamp" data-t="08:10:00">[08:10:00]</a>.
+
+The situation in Manipur was characterized by:
+*   An absence of books, newspapers, or Hindi movies <a class="yt-timestamp" data-t="08:36:00">[08:36:00]</a>.
+*   A parallel government run by militant groups <a class="yt-timestamp" data-t="08:43:00">[08:43:00]</a>.
+*   Exploitation of a lack of awareness among the populace <a class="yt-timestamp" data-t="08:57:00">[08:57:00]</a>.
+*   Young people eager to pick up weapons for a sense of power <a class="yt-timestamp" data-t="09:38:00">[09:38:00]</a>.
+
+A shocking encounter involved a sign in Srinagar stating, "Indian Army and dogs are not allowed" <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. This showcased the extreme levels of hostility faced by the armed forces. Despite these challenges, the situation in Jammu & Kashmir has gradually improved since the revocation of certain sections, making the military's task easier and leading to a positive shift in the environment <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>.
+
+### Facing Direct Threat
+In one instance in the Northeast, Colonel Bharwan encountered an enemy pointing a weapon at his head immediately upon entering a house during a FIBUA operation <a class="yt-timestamp" data-t="10:18:00">[10:18:00]</a>. He went "black" for a moment, but luck prevailed as the enemy's weapon malfunctioned, giving him enough time to react and neutralize the threat <a class="yt-timestamp" data-t="11:20:00">[11:20:00]</a>.
+
+### Lessons Learned from Manipur
+The experience in Manipur provided three significant lessons:
+1.  **Military Perspective:** The Assam Rifles, known as the "Sentinels of the Northeast," demonstrated exceptional capability. Their diverse composition, with personnel from every part of India speaking multiple languages, and their fluent use of Gorkhali Nepalese, allowed for smooth operations across varied terrains and cultures <a class="yt-timestamp" data-t="13:16:00">[13:16:00]</a>. Their deep local knowledge and experience, with jawans serving up to 60 years, provided invaluable, professional advice in combat situations, negating the need for maps or GPS <a class="yt-timestamp" data-t="13:38:00">[13:38:00]</a>.
+2.  **Militant Perspective:** Surprisingly, the militant groups in Manipur operated with a strong ethical and moral code of conduct. They publicly apologized for any wrongdoing by their members, ensured justice through internal inquiries, and never harmed women, children, or the elderly. They even considered military personnel with their families as "walking insurance policies" <a class="yt-timestamp" data-t="15:16:00">[01:00:22]</a>.
+3.  **Civilian Perspective:** By showing respect to locals, especially the elderly, women, and children, one could gain their trust and ensure safety. Colonel Bharwan even attended local marriage functions in remote areas at night, unarmed, relying solely on the villagers' invitation and faith in their protection <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>. This highlighted that the situation in an area is largely a reflection of how one engages with its people <a class="yt-timestamp" data-t="01:16:00">[01:16:00]</a>.
+
+## Airborne Forces Operations
+The Airborne forces operate from the air, allowing for unparalleled reach and penetration <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>. Unlike other units where only some individuals are qualified, every member of an Airborne unit is capable of jumping from an aircraft at high speeds with full gear, regardless of the terrain—be it jungles, urban areas, or high-altitude snow-covered peaks <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>. These operations involve a calculated casualty rate, acknowledging the inherent dangers of landing in challenging environments <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>.
+
+One particularly arduous Airborne operation involved a mission expected to take 3 hours, but due to unforeseen ground conditions, it stretched to 36 hours <a class="yt-timestamp" data-t="03:58:00">[03:58:00]</a>. During this journey, troops faced exhaustion, dehydration, and had to rely on muddy water. The path had to be cut through, with no resting spots. Despite the extreme difficulty, completing the task brought immense satisfaction and reduced the perceived difficulty of the journey back <a class="yt-timestamp" data-t="03:11:00">[03:11:00]</a>. This mission underscored the critical [[combat_experiences_and_survival_strategies | instinct for survival]] that drives these operations <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>.
+
+### The Mindset of a Leader
+Colonel Bharwan emphasized the leader's responsibility to ensure the safe return of all troops <a class="yt-timestamp" data-t="05:27:00">[05:27:00]</a>. He instilled a philosophy: "10 men are going, all 10 will come back. Even if one guy is not going to make it, that will be me, but you will come back" <a class="yt-timestamp" data-t="03:29:00">[03:29:00]</a>. This approach fostered a culture where soldiers looked out for each other, creating a collective sense of security <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>.
+
+In a harrowing incident during a night jump, a static cord broke, causing three soldiers to silently fall from the aircraft without their parachutes deploying <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>. They perished, but their bodies were found in the trained 'par position', demonstrating their adherence to training even in their final moments <a class="yt-timestamp" data-t="04:17:00">[04:17:00]</a>. To counter the potential fear factor, all remaining soldiers were immediately given new parachutes and ordered to jump again that very night before the bodies were moved <a class="yt-timestamp" data-t="04:23:00">[04:23:00]</a>. This swift action prevented gossip and normalized the inherent risks, reinforcing the idea that such incidents are a part of the job <a class="yt-timestamp" data-t="04:26:00">[04:26:00]</a>.
+
+## Peacekeeping Mission in Sudan
+Colonel Bharwan describes his United Nations peacekeeping mission in Abay, Sudan (2007-2008), as the most "gory and gruesome" experience of his life <a class="yt-timestamp" data-t="01:05:01">[01:05:01]</a>. It was a region of absolute barrenness, where water was more expensive than oil, and people resorted to drinking cattle urine or muddy water out of sheer necessity <a class="yt-timestamp" data-t="05:19:00">[05:19:00]</a>. He witnessed extreme poverty and desperation, with individuals eating boot polish or medicines just to put something inside their bodies <a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a>. Life held no value, and violence was rampant, with people killing for a piece of bread <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>. He even saw people playing football with human heads and hanging children upside down as warnings <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>.
+
+In one instance, he defied orders to protect civilians, opening a gate to allow a man with an amputated leg, an old lady, and a small child to seek shelter inside <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>. Later, when an armed group demanded they be brought outside, he refused, stating his determination to protect them <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>. He also quietly shared his own food and water with starving locals, despite strict orders against it <a class="yt-timestamp" data-t="01:05:31">[01:05:31]</a>.
+
+During a hostage situation involving two military contingents, Colonel Bharwan, along with his highly trained "Camon Patrol" team (winners of a prestigious Indian Army competition), ventured to negotiate with a local warlord <a class="yt-timestamp" data-t="05:43:00">[05:43:00]</a>. Despite the overwhelming number of armed, volatile individuals, he maintained composure and approached the leader with confidence and respect <a class="yt-timestamp" data-t="05:46:00">[05:46:00]</a>. By demonstrating his professionalism and the capabilities of his team, he convinced the warlord to disperse his men and create an environment suitable for a meeting, successfully resolving the crisis without bloodshed <a class="yt-timestamp" data-t="05:49:00">[05:49:00]</a>. This incident highlights his [[leadership_and_teamwork_in_highstakes_environments | leadership and teamwork in high-stakes environments]].
+
+## Extreme Survival Cuisine
+Military training, particularly Commando courses, includes survival skills involving consuming anything available in the environment <a class="yt-timestamp" data-t="04:20:00">[04:20:00]</a>. Colonel Bharwan has eaten various unconventional foods:
+*   **Snakes:** Eaten raw and cooked, described as tasteless <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>. This was part of Commando training, where refusal was not an option <a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a>.
+*   **Insects:** Consumed many times, especially during survival camps <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>.
+*   **Snails:** Described as "creepy feeling" but eaten out of pure hunger; they are a delicacy in some regions like Northeast India <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>.
+*   **Crocodile, Giraffe, Ostrich:** Tasted these meats during a trip to Kenya, describing them as better than chicken <a class="yt-timestamp" data-t="04:48:00">[04:48:00]</a>.
+
+He emphasizes that these experiences are not about luxury but about the necessity for survival <a class="yt-timestamp" data-t="04:14:00">[04:14:00]</a>.
+
+## Reflections on Service and Life
+Colonel Bharwan distinguishes between "challenges" and "sufferings" <a class="yt-timestamp" data-t="01:05:52">[01:05:52]</a>. While challenges are welcomed and provide "goosebumps," the suffering witnessed, especially in Sudan, was deeply painful because it was for no fault of the victims <a class="yt-timestamp" data-t="01:06:04">[01:06:04]</a>. He teaches children the importance of not wasting food by showing them harrowing images from Sudan and highlighting the efforts of those who prepare their meals <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>.
+
+He believes in leaving negative experiences behind and carrying only positive lessons forward <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. For those aspiring to join the forces who might not succeed, he advises: "It's not about uniform... it is that attitude that you carry... A soldier is by heart, not by uniform" <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>. He asserts that the Indian Army is the "biggest and best brand in the entire world," capable of fighting battles while "just surviving on water, jaggery, and makhana," demonstrating unparalleled endurance and emotional resilience <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.

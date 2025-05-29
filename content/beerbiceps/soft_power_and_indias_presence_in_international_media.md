@@ -1,0 +1,31 @@
+---
+title: Soft power and Indias presence in international media
+videoId: DQqVr0obReo
+---
+
+From: [[beerbiceps]] <br/> 
+
+## The Concept of Soft Power and its Significance
+Soft power is defined as a nation's ability to attract and co-opt rather than coerce, using cultural appeal, political values, and foreign policies to influence others <a class="yt-timestamp" data-t="00:24:31">[00:24:31]</a>. It functions as a pull factor, making a country "sexy" on a global scale through its culture <a class="yt-timestamp" data-t="00:25:05">[00:25:05]</a>. In the current [[geopolitics_and_indias_foreign_policy | geopolitical climate]], soft power is crucial for a country's legitimacy and global standing <a class="yt-timestamp" data-t="00:18:56">[00:18:56]</a>. When combined with hard power (military, economy, technology), it forms "smart power," which countries should aspire to <a class="yt-timestamp" data-t="00:25:22">[00:25:22]</a>.
+
+The perception of a country directly impacts its ability to attract investment and foster favorable international relations <a class="yt-timestamp" data-t="00:26:47">[00:26:47]</a>. For instance, if India is perceived as unsafe or bureaucratic, investors will be hesitant <a class="yt-timestamp" data-t="00:26:50">[00:26:50]</a>. Media narratives play a significant role in shaping these global viewpoints and perceptions, forming a "battle of ideas" in the information age <a class="yt-timestamp" data-t="00:23:37">[00:23:37]</a>.
+
+## India's Current Soft Power Landscape
+India currently promotes its soft power through initiatives like yoga and Ayurveda <a class="yt-timestamp" data-t="00:18:35">[00:18:35]</a>. Bollywood also serves as a significant soft power asset, portraying India as a "fun loving singing dancing Society" <a class="yt-timestamp" data-t="00:25:45">[00:25:45]</a>. However, the conversion of this cultural appeal into tangible benefits like a better international perception of India is questionable <a class="yt-timestamp" data-t="00:25:36">[00:25:36]</a>. Compared to nations like the US, which constantly builds narratives through Hollywood, India is "way behind" in the larger scheme of things <a class="yt-timestamp" data-t="00:18:38">[00:18:38]</a>.
+
+### Challenges to India's Soft Power
+India faces several challenges in maximizing its soft power and international media presence:
+
+*   **Self-Maligning Narratives**: A significant concern is when fellow Indians "dis India on a global stage," especially at international forums, which negatively affects the nation's soft power <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. This internal criticism, particularly from those who hold political associations, can be seen as sad and counterproductive <a class="yt-timestamp" data-t="00:38:35">[00:38:35]</a>.
+*   **Western Control of Narrative**: The Western bloc is currently the most powerful in terms of soft power, controlling dominant narratives <a class="yt-timestamp" data-t="00:39:25">[00:39:25]</a>. This allows for double standards in reporting global events; for example, US actions in Iraq are framed as a "global war on terrorism" while Russian actions in Ukraine are an "invasion" <a class="yt-timestamp" data-t="00:22:58">[00:22:58]</a>. The American media, for instance, actively works to portray their actions as for the "global good" <a class="yt-timestamp" data-t="00:23:10">[00:23:10]</a>.
+*   **Lack of Global Media Vision**: India lacks a comprehensive vision for building a credible and impactful global media presence <a class="yt-timestamp" data-t="00:20:46">[00:20:46]</a>. While there is agreement on the idea, there's a perceived lack of commitment or strategic planning to execute it <a class="yt-timestamp" data-t="00:20:48">[00:20:48]</a>. This leads to India being "nowhere in the picture" compared to global media giants like Al Jazeera, BBC, RT, CNN, and France 24 <a class="yt-timestamp" data-t="00:21:32">[00:21:32]</a>.
+*   **Perceptions Based on Prejudice**: Outdated perceptions, such as India being a "land of snake charmers," persist, despite the country's evolution into a hub for technology and coding, with high AI adoption rates <a class="yt-timestamp" data-t="00:27:02">[00:27:02]</a>.
+
+## The Role of Media and Individual Journalists
+In the modern information age, the "battlefields are not actually fields anymore; they're here in the mind" <a class="yt-timestamp" data-t="00:33:34">[00:33:34]</a>. Media narratives shape human viewpoints and influence how the world perceives a country <a class="yt-timestamp" data-t="00:24:08">[00:24:08]</a>.
+
+Palki Sharma is recognized for being at the "top of the world of Journalism in India," and the "face of India from a geopolitical narrative perspective" for people outside the country <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Her directness and bravery in her reporting are noted by social media users <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. She has a "wider Global reach" as not many Indian journalists cover international news to the same extent <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>.
+
+In an age of "paradox of plenty" where content abounds, attention becomes scarce <a class="yt-timestamp" data-t="00:29:18">[00:29:18]</a>. People turn to "cue givers" like editors, influencers, and thought leaders who have built credibility <a class="yt-timestamp" data-t="00:29:39">[00:29:39]</a>. Individual content creators are increasingly becoming the "New Media companies" <a class="yt-timestamp" data-t="00:27:53">[00:27:53]</a>, leveraging platforms and algorithms to reach a larger audience and influence perception <a class="yt-timestamp" data-t="00:28:28">[00:28:28]</a>. While individual voices are important, the long-term vision should be to build institutions that can "Outlast them," embodying the ethos and vision of their creators <a class="yt-timestamp" data-t="00:30:25">[00:30:25]</a>.
+
+Ultimately, every Indian abroad serves as the country's brand ambassador <a class="yt-timestamp" data-t="00:40:34">[00:40:34]</a>.

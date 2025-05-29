@@ -1,0 +1,55 @@
+---
+title: Astrology and Spirituality
+videoId: 7ukeBLsAkpM
+---
+
+From: [[beerbiceps]] <br/> 
+
+## The Concept of Karma and Destiny
+
+Success in life is not always solely dependent on visible hard work <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Some individuals achieve success with minimal effort, while others work extremely hard and do not <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This apparent unfairness is explained by the concept of karma <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>. What is observed as hard work in this lifetime is considered "visible karma" <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. However, a soul may have performed significant good deeds in previous lifetimes, which are not visible in the present <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. Therefore, the consequences of success are a result of the soul's cumulative work across lifetimes, not just the current one <a class="yt-timestamp" data-t="00:16:13">[00:16:13]</a>. Nothing is purely luck or comes from nowhere; everything is predetermined by the karma the soul chooses to create <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>. Karma and destiny are intrinsically linked <a class="yt-timestamp" data-t="00:16:28">[00:16:28]</a>.
+
+### Sanskars: Emotional Patterns and Nature
+A "sanskar" refers to one's nature, habits, or emotional patterns <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>. Examples include anger, appreciation, doubt, trust, stability, or reactivity <a class="yt-timestamp" data-t="00:17:52">[00:17:52]</a>. These sanskars are carried by the soul from past karmas <a class="yt-timestamp" data-t="00:18:19">[00:18:19]</a>. Even newborns exhibit distinct sanskars from birth, like one twin being smiling and another grumpy, because their souls carry these patterns from previous "costumes" or lifetimes <a class="yt-timestamp" data-t="00:18:23">[00:18:23]</a>. Every soul possesses all sanskars, and their expression is influenced by social conditioning in a particular body <a class="yt-timestamp" data-t="00:54:55">[00:54:55]</a>.
+
+## Astrology and the Soul's Journey
+An astrological chart, typically prepared shortly after a baby's birth, is not based on the child's current karma but on the destiny of the soul <a class="yt-timestamp" data-t="00:26:07">[00:26:07]</a>. It represents the "opening balance sheet" of the soul, which is identical to the "closing balance sheet" of its previous lifetime, reflecting accumulated karmas and sanskars <a class="yt-timestamp" data-t="00:27:08">[00:27:08]</a>.
+
+Astrology is understood as the science of how planets influence one's sanskars <a class="yt-timestamp" data-t="00:28:13">[00:28:13]</a>. However, these predictions are probabilities, not fixed realities <a class="yt-timestamp" data-t="00:32:51">[00:32:51]</a>. Changes in one's sanskars, particularly through practices like [[role_of_spirituality_in_personal_growth | meditation]], can alter the influence of planetary positions, rendering some predictions inaccurate <a class="yt-timestamp" data-t="00:29:30">[00:29:30]</a>. Individuals are the creators of their own destiny, and by choosing to do good karma, they can shift their future away from negative predictions <a class="yt-timestamp" data-t="00:31:39">[00:31:39]</a>.
+
+## The Role of Spirituality and Meditation
+
+[[role_of_spirituality_in_personal_growth | Spirituality]] and meditation are crucial for personal transformation and influencing one's destiny <a class="yt-timestamp" data-t="00:30:22">[00:30:22]</a>.
+
+### Shifting Mental and Emotional States
+Meditation helps to purify and cleanse the mind, leading to a reduction in stress, anger, critical thinking, and emotional fatigue <a class="yt-timestamp" data-t="00:31:15">[00:31:15]</a>. It enables individuals to transition from lower vibrational energies to higher ones, fostering calmness, stability, acceptance, and forgiveness <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>.
+
+> "If my mind during the day has created a lot of lower vibrational energy which means stress, anger, critical, judgmental thinking, just even in my mind even if it's not in my words and behavior, getting hurt, feeling led down... so then my mind is tired, it's fatigued..." <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>
+>
+> "If you have energized yourself the way you will face the outcome will be different and so there will be no suffering." <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>
+
+### Spiritual Progress and Stamina
+Spiritual progress is not solely determined by the depth of meditation experiences but by how one's inner state transforms during daily activity <a class="yt-timestamp" data-t="00:21:55">[00:21:55]</a>. It means being a "Karam Yogi"—performing actions with a meditative mindset <a class="yt-timestamp" data-t="00:22:11">[00:22:11]</a>. This progress is gauged by observing changes in one's reactions to challenging situations: from reacting externally, to reacting only in thoughts, to simply letting reactions pass, and finally to responding without any reaction <a class="yt-timestamp" data-t="00:23:29">[00:23:29]</a>. This signifies building "spiritual stamina" <a class="yt-timestamp" data-t="00:23:44">[00:23:44]</a>.
+
+### Impact on Relationships and Life
+Through meditation, individuals can change their [[spirituality_and_personal_relationships | present karma]], allowing them to face consequences of past actions without suffering and to create positive interactions in the present <a class="yt-timestamp" data-t="00:19:56">[00:19:56]</a>. This includes settling uncomfortable karmic accounts by radiating good energy, even if it is not reciprocated <a class="yt-timestamp" data-t="00:42:36">[00:42:36]</a>.
+
+All close relationships are rooted in past karmic accounts, whether positive or challenging <a class="yt-timestamp" data-t="00:38:31">[00:38:31]</a>. We continuously meet individuals with whom we have strong karmic patterns until those accounts are settled <a class="yt-timestamp" data-t="00:41:23">[00:41:23]</a>. Marriage, too, can be influenced by pre-decided karmic patterns, but current actions can change its outcome <a class="yt-timestamp" data-t="00:44:16">[00:44:16]</a>. The astrological chart is a "probability manual," not a "reality manual"; individuals can change their reality by changing their present karma <a class="yt-timestamp" data-t="00:45:11">[00:45:11]</a>.
+
+## Spiritual Intoxication vs. External Substances
+The concept of "spiritual intoxication" is a result of a deep connection with the Divine, rather than from external substances like *soma ras* or *bhang* <a class="yt-timestamp" data-t="00:47:50">[00:47:50]</a>. Many ancient rituals and practices, like those associated with Ganesh Chaturti or Navratri, are symbolic lessons for inner transformation, not merely physical observances <a class="yt-timestamp" data-t="00:49:03">[00:49:03]</a>. For example, the "ten heads" of Ravana symbolize our ten vices (lust, greed, jealousy), and "Diwali" (lighting the *diya*) symbolizes giving and radiating light <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>.
+
+## The Nature of the Soul and Divine Feminine
+When one lives with the [[intersection_of_spirituality_and_human_experience | consciousness]] of being a soul, distinctions like male or female, rich or poor, or religious affiliations dissolve <a class="yt-timestamp" data-t="00:52:38">[00:52:38]</a>. The soul has no gender; it has experienced both male and female bodies across lifetimes <a class="yt-timestamp" data-t="00:54:20">[00:54:20]</a>. The concept of "divine feminine" or "divine masculine" is symbolic, representing the "soul power" or "Shakti" (power) <a class="yt-timestamp" data-t="01:02:47">[01:02:47]</a>. In Hinduism, "Shiv" represents the Supreme Soul, and "Shakti" represents the soul's power, not literal male and female entities <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>. The true aim is to invoke the Shakti (power) within oneself <a class="yt-timestamp" data-t="01:03:10">[01:03:10]</a>.
+
+## World Cycles and the Soul World
+The world goes through cycles: Golden Age, Silver Age, Copper Age, and Iron Age (Satyug, Treta Yug, Dwapara Yug, Kalyug) <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>. We are currently at the peak of the Iron Age, transitioning into the Golden Age <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>. This is a period of paradigm shift where some individuals are "awakening" to higher vibrations <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>.
+
+The soul is likened to a battery that fully charges in the Golden Age (Satyug) and gradually depletes as it goes through subsequent ages, accumulating vices like ego, lust, and greed <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>.
+
+There is a "soul world" beyond the physical universe, which is the origin and eventual destination of all souls <a class="yt-timestamp" data-t="01:09:54">[01:09:54]</a>. The increasing human population indicates souls are continuously coming from this soul world <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>. The soul has a faint memory of this home and the Divine Parent <a class="yt-timestamp" data-t="01:10:52">[01:10:52]</a>. At the end of the Iron Age, souls will return to the soul world based on their accumulated vibrational frequency <a class="yt-timestamp" data-t="01:13:01">[01:13:01]</a>. This leads to a decrease in population before the new Golden Age begins <a class="yt-timestamp" data-t="01:13:10">[01:13:10]</a>.
+
+### The Purpose of Existence
+Humanity's current challenges stem from forgetting our true identity as souls, our purpose, and our connection to the Divine <a class="yt-timestamp" data-t="01:04:49">[01:04:49]</a>. Religious teachers and prophets, across different eras, have always taught the universal "religion" (dharma) of the soul: Purity, Peace, Love, Power, Wisdom, and Bliss <a class="yt-timestamp" data-t="01:05:51">[01:05:51]</a>. They aimed to unite humanity by teaching these core qualities, but as time progressed, focus shifted from the teachings to the teachers and their differing presentations, leading to division <a class="yt-timestamp" data-t="01:05:56">[01:05:56]</a>.
+
+The current period of upheaval is a time of awakening, where the old world crumbles and a new one is under construction <a class="yt-timestamp" data-t="01:16:10">[01:16:10]</a>. Every individual who shifts their inner state contributes to this global transformation, acting as part of the "Tipping Point" population that will change "night into morning" <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>. Outer space and the universe serve as a reminder to look beyond our immediate reality and understand the vastness beyond the visible <a class="yt-timestamp" data-t="01:17:18">[01:17:18]</a>.
