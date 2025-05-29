@@ -1,0 +1,35 @@
+---
+title: Sri Lankas famous away Test series wins
+videoId: dHmnuUwHlM0
+---
+
+From: [[goodareaslive]] <br/> 
+
+Sri Lanka has achieved several significant away Test series victories throughout cricket history, often against the odds and marking important turning points for the team <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>. These wins are considered some of the [[important_test_series_victories_in_cricket_history | most important Test series victories]] in the sport's history, showcasing Sri Lanka's growth and capability on the international stage <a class="yt-timestamp" data-t="02:20:00">[02:20:00]</a>.
+
+## Historic Clean Sweep in South Africa (February 2019)
+Sri Lanka's 2-0 clean sweep against South Africa in February 2019 is considered one of the biggest coups in Test history <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>.
+*   **First Test:** Kusal Janith Perera played a dramatic role, scoring 51 and 153 runs in a one-wicket win <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>. Some people rate this effort higher than Ben Stokes' Headingley innings, especially given Sri Lanka was playing away in South Africa on bouncy and laterally moving wickets <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>.
+*   **Second Test:** The victory was a complete team performance, with Sri Lanka blowing South Africa away to win by eight wickets <a class="yt-timestamp" data-t="04:18:00">[04:18:00]</a>.
+*   **Significance:** Sri Lanka became the only Asian side to have ever won a Test series in the "Rainbow Nation" <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>. This win was unexpected as the Sri Lankan team was not highly regarded at the time, while South Africa still boasted players like Faf du Plessis, Hashim Amla, Dale Steyn (though past his prime), and a fit and firing Kagiso Rabada <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>. Chandika Hathurusingha was the coach for Sri Lanka during this period <a class="yt-timestamp" data-t="06:41:00">[06:41:00]</a>.
+
+## Landmark Series Win in New Zealand (1994-95)
+The 1994-95 series where Sri Lanka beat New Zealand was a crucial moment for Sri Lankan cricket <a class="yt-timestamp" data-t="10:26:00">[10:26:00]</a>.
+*   **Key Performances:** Aravinda de Silva's reputation outside of Asia and ODI cricket was largely built on his brilliant performance in this series <a class="yt-timestamp" data-t="10:33:00">[10:33:00]</a>. Chaminda Vaas also had a breakout series, taking many wickets, including a 10-wicket haul in the win, as the conditions suited his bowling style <a class="yt-timestamp" data-t="11:49:00">[11:49:00]</a>.
+*   **Conditions:** The series was played on green wickets, which made beating New Zealand in New Zealand particularly challenging for any team <a class="yt-timestamp" data-t="10:41:00">[10:41:00]</a>.
+*   **Impact:** Prior to this series, Sri Lanka hadn't achieved a significant away win <a class="yt-timestamp" data-t="10:55:00">[10:55:00]</a>. This victory is seen as a precursor to Sri Lanka's dominance in the 1996 World Cup and subsequent strong performances in 1998, laying the groundwork for their era of success <a class="yt-timestamp" data-t="11:07:00">[11:07:00]</a>. Despite its importance, it is primarily discussed only in New Zealand and Sri Lanka <a class="yt-timestamp" data-t="11:17:00">[11:17:00]</a>.
+
+## Dramatic Series Victory in England (2014)
+The [[england_vs_sri_lanka_match_analysis | England vs Sri Lanka match analysis]] of the 2014 series highlights a dramatic 2-match Test series that Sri Lanka won 1-0 <a class="yt-timestamp" data-t="14:40:00">[14:40:00]</a>.
+*   **Series Flow:** Both matches went down to the last over <a class="yt-timestamp" data-t="14:47:00">[14:47:00]</a>. The first game was drawn, partly due to a controversial moment involving Rangana Herath <a class="yt-timestamp" data-t="14:56:00">[14:56:00]</a>. Sri Lanka then returned to win the second game <a class="yt-timestamp" data-t="15:22:00">[15:22:00]</a>.
+*   **Key Performances:** Angelo Mathews' innings was exceptional, with him scoring tons in both Tests and taking wickets with the ball <a class="yt-timestamp" data-t="15:52:00">[15:52:00]</a>. His captaincy was also highly praised, particularly against an England side under Alastair Cook that appeared "shell-shocked" and disorganized <a class="yt-timestamp" data-t="15:58:00">[15:58:00]</a>. Dhammika Prasad also had a good series <a class="yt-timestamp" data-t="18:11:00">[18:11:00]</a>.
+*   **Context:** This victory was achieved against the odds, as it felt like "the one time Sri Lanka would win" if the series was played 100 times <a class="yt-timestamp" data-t="16:30:00">[16:30:00]</a>. It occurred in a year (2014) when Sri Lanka also won the T20 World Cup in England <a class="yt-timestamp" data-t="18:21:00">[18:21:00]</a>.
+
+## Seminal One-Off Test Win in England (1998)
+Though not a series, Sri Lanka's single Test victory against England in 1998 at The Oval holds immense significance <a class="yt-timestamp" data-t="26:36:00">[26:36:00]</a>.
+*   **Muralitharan's Heroics:** Muttiah Muralitharan took an incredible 16 wickets in the match <a class="yt-timestamp" data-t="26:44:00">[26:44:00]</a>.
+*   **Context:** There was a strong feeling of ill-treatment within the Sri Lankan camp, as they were only scheduled for a one-off Test at the end of the English summer <a class="yt-timestamp" data-t="26:51:00">[26:51:00]</a>. England's players were perceived as tired and not taking the match seriously after a long summer, while Sri Lanka under Arjuna Ranatunga approached the game with "military-like discipline" <a class="yt-timestamp" data-t="27:00:00">[27:00:00]</a>. Ranatunga made the bold decision to bowl first and bat only once <a class="yt-timestamp" data-t="28:22:00">[28:22:00]</a>. Sanath Jayasuriya scored a double hundred <a class="yt-timestamp" data-t="30:19:00">[30:19:00]</a>.
+*   **Impact:** This win solidified Sri Lanka's standing as a formidable Test team, leading to them being given multiple Test matches in future tours to England <a class="yt-timestamp" data-t="27:49:00">[27:49:00]</a>.
+
+## Other Notable Away Test Mentions
+*   **Pakistan in UAE:** Sri Lanka achieved a significant Test series win against Pakistan in the UAE <a class="yt-timestamp" data-t="53:58:00">[53:58:00]</a>. This was considered notable because Pakistan had established a "fortress" in the UAE, and Sri Lanka, not considered a powerhouse team at the time, still managed to win against a side post-Muralitharan <a class="yt-timestamp" data-t="54:08:00">[54:08:00]</a>. This was part of a period where [[sri_lankas_strategy_and_improvement_in_the_tournament | Sri Lanka's strategy and improvement]] allowed them to win some "crazy series," including beating South Africa in South Africa <a class="yt-timestamp" data-t="54:18:00">[54:18:00]</a>. The New Zealand victory in the UAE was considered a bigger upset due to the more alien conditions <a class="yt-timestamp" data-t="54:29:00">[54:29:00]</a>.

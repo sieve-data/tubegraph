@@ -1,0 +1,66 @@
+---
+title: India vs South Africa ODI analysis
+videoId: -MMbVsUGBqs
+---
+
+From: [[goodareaslive]] <br/> 
+
+The match between India and South Africa saw India bat first, starting with an intent to score over 400 runs, though this was an overestimation of the runs needed <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. Rohit Sharma began aggressively, while Virat Kohli played an anchoring role <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>. India's performance raised the question of whether they could have pushed for even more runs, but it ultimately didn't matter given South Africa's "soggy pathetic Chase" <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>.
+
+## India's Overall Strength
+India's team shows very few weaknesses. Their bowling is considered world-class, making it difficult for opponents to play under scoreboard pressure <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>. There are not many holes in the Indian side <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a>. Whether India bats first or second seems to have little impact on their performance because they are "just better than everyone else" <a class="yt-timestamp" data-t="03:02:00">[03:02:00]</a>. This flexibility allows them to choose based on conditions or opposition <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>.
+
+### Power Play Battle
+The match featured an interesting battle in the first 10 overs between India's strong batting and South Africa's effective power play bowling (featuring Marco Jansen and Kagiso Rabada) <a class="yt-timestamp" data-t="01:14:24">[01:14:24]</a>. India has been scoring at a fast rate in the power play, averaging around 50 runs, while South Africa averages 20 runs conceded with the ball in the power play <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>. Although South Africa took a couple of wickets, India decisively won this crucial power play battle <a class="yt-timestamp" data-t="01:56:00">[01:56:00]</a>. Unlike in the 2019 World Cup, India is now playing with high volume runs in the power play without losing wickets <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>.
+
+## Key Player Performances
+
+### Virat Kohli
+Kohli's strike rate today was notable. He started quickly, well over a run a ball in the first 10 overs, which was unexpected given the opposition <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>. However, he then slowed down significantly in the middle overs <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>. It's suggested Kohli believed 280 runs would be sufficient and prioritized not losing wickets, especially against South Africa's struggles with chases and India's strong bowling <a class="yt-timestamp" data-t="04:15:00">[04:15:00]</a>. He also didn't accelerate much at the death, which is unusual for him <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>.
+
+Kohli's caution in the middle overs may be attributed to Keshav Maharaj's bowling <a class="yt-timestamp" data-t="05:07:00">[05:07:00]</a>. Historically, Kohli liked the ball spinning away, but a technique change on spin-friendly pitches in [[India vs Australia Test Cricket Analysis | India]] might have made him less strong against it <a class="yt-timestamp" data-t="05:11:00">[05:11:00]</a>. Maharaj has an incredible record against him, with data suggesting Kohli attacked only a very small percentage of balls faced from Maharaj <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>. In contrast, Kohli went after Marco Jansen, Kagiso Rabada, and part-time spinners <a class="yt-timestamp" data-t="06:16:00">[06:16:00]</a>.
+
+Kohli equalled the record for most hundreds in One Day International (ODI) cricket history <a class="yt-timestamp" data-t="06:35:00">[06:35:00]</a>. He is expected to surpass Tendulkar's record <a class="yt-timestamp" data-t="06:38:00">[06:38:00]</a>. This achievement is significant because the future of ODI cricket is uncertain, and even if it continues, players are unlikely to play enough games to surpass him due to the demanding international calendar <a class="yt-timestamp" data-t="07:04:00">[07:04:00]</a>. The only scenario where this record might be broken is if formats split, allowing players to specialize and play many more ODI games annually <a class="yt-timestamp" data-t="07:20:00">[07:20:00]</a>.
+
+Kohli achieved this milestone in 277 innings compared to Tendulkar's 462 <a class="yt-timestamp" data-t="08:09:00">[08:09:00]</a>. While batting styles have evolved, allowing players to score faster with less risk now, Tendulkar's record is still highly creditable given the risks he had to take in his era to score quickly <a class="yt-timestamp" data-t="08:46:00">[08:46:00]</a>.
+
+#### World Cup Performances
+Despite a period of "slump" a few years ago, Kohli is now performing exceptionally well <a class="yt-timestamp" data-t="09:54:00">[09:54:00]</a>. His runs by World Cup show his evolution:
+*   **2011**: Batted at number four as a young player <a class="yt-timestamp" data-t="01:11:27">[01:11:27]</a>.
+*   **2019**: Made good scores but didn't convert them into larger hundreds <a class="yt-timestamp" data-t="01:11:34">[01:11:34]</a>.
+*   **2015 (Australia/New Zealand)**: This tournament saw high numbers of hundreds per game, and Kohli was arguably in his peak, but he didn't achieve a "mega" World Cup performance <a class="yt-timestamp" data-t="01:11:50">[01:11:50]</a>.
+*   **Current World Cup**: He is having the "mega" World Cup performance that his talent suggested he should have had before <a class="yt-timestamp" data-t="01:12:28">[01:12:28]</a>.
+
+Kohli's role in the innings was to maintain momentum, but as the ball got softer and started gripping more after 10 overs, he adapted by chipping the ball around to avoid losing wickets <a class="yt-timestamp" data-t="01:13:02">[01:13:02]</a>. He factored in India's strong bowling attack and South Africa's chasing weaknesses, knowing a minimum score was enough <a class="yt-timestamp" data-t="01:13:52">[01:13:52]</a>.
+
+### Shreyas Iyer
+Iyer's strike rate in the first 50 balls was slower, but it accelerated significantly in his next 37 balls <a class="yt-timestamp" data-t="01:16:41">[01:16:41]</a>. He is considered a qualified number four batter for a World Cup <a class="yt-timestamp" data-t="01:17:01">[01:17:01]</a>. Kohli's instruction to "chip it around" was enabled by India's cushion from their strong start in the first 10 overs <a class="yt-timestamp" data-t="01:17:10">[01:17:10]</a>. Iyer showed an ability to identify which bowlers to target: he played defensively against Keshav Maharaj and main strike bowlers, but attacked Marco Jansen (who went for many runs) and part-time spinners <a class="yt-timestamp" data-t="01:17:30">[01:17:30]</a>.
+
+### Suryakumar Yadav (SKY)
+India is a better side with Hardik Pandya for balance and flexibility in case of injury or a rare off-day for their main bowlers <a class="yt-timestamp" data-t="01:19:15">[01:19:15]</a>. However, having SKY, who can score at crazy rates, is a huge bonus <a class="yt-timestamp" data-t="01:19:39">[01:19:39]</a>. His strike rate at the death was nearly 150 before this game <a class="yt-timestamp" data-t="01:19:43">[01:19:43]</a>. Even on a pitch that became difficult to score on once the ball softened, SKY managed to score at a rate others struggled with <a class="yt-timestamp" data-t="01:20:04">[01:20:04]</a>. His ideal role is seen as a number six, coming in from the 35th over onwards and playing like it's a T20 game <a class="yt-timestamp" data-t="01:20:23">[01:20:23]</a>.
+
+### Ravindra Jadeja
+Coming into the World Cup, there were many questions about Jadeja's form <a class="yt-timestamp" data-t="02:21:19">[02:21:19]</a>. However, he became the third number seven in ODI history to score 2,000 runs in that position, placing him among the top number sevens ever <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>. While he was in a form slump over the last two years (averaging just over 20 with a strike rate around 60), he has significantly improved in this World Cup, nearly doubling those numbers <a class="yt-timestamp" data-t="02:28:00">[02:28:00]</a>. India's current dominance means they are so good that they could almost "void the position seven and eight" and still be undefeated <a class="yt-timestamp" data-t="02:35:00">[02:35:00]</a>. Despite this, Jadeja has been fantastic, demonstrating his value as a number seven player since 2018 <a class="yt-timestamp" data-t="02:38:00">[02:38:00]</a>.
+
+Jadeja bowled in the power play, likely due to observing Keshav Maharaj's effectiveness on the surface <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>. His wicket of Temba Bavuma was a result of Bavuma not being on top of his game <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. While Maharaj's ball to Shubman Gill drifted more and turned 7.7 degrees, Jadeja's ball to Bavuma drifted much less and only turned 4 degrees <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a>.
+
+### Mohammed Shami
+Shami struggled early in the game <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. At the death, he bowled at 7.25 runs per over today, which is a good record considering SKY was scoring rapidly and India aimed for a high total <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. His good death bowling record is partly because he bowls in conditions favourable to him and because he is a better T20 bowler than an ODI bowler <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a>. He tends to be more effective when batters come at him, rather than being "milked" in ODI cricket <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a>.
+
+## South Africa's Performance & Tactics
+South Africa's chase was described as "soggy pathetic" <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>. Since the 2019 World Cup, South Africa has a less than 50% record when chasing in World Cups <a class="yt-timestamp" data-t="02:48:00">[02:48:00]</a>. They are a naturally defensive team, liking to control the game by drawing things up <a class="yt-timestamp" data-t="02:57:00">[02:57:00]</a>. Their openers do not attack aggressively until much later in the innings, even with wickets in hand <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>. This defensive mindset is ingrained in their cricket structure <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>.
+
+## Pitch Conditions
+The pitch became trickier as the ball got older and softer, making it harder to score <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>. Data showed that spin increased in the first innings as the ball aged, particularly for finger spinners <a class="yt-timestamp" data-t="03:29:00">[03:29:00]</a>. This suited Keshav Maharaj's bowling <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a>.
+
+## India's World Cup Dominance
+India's current performance is comparable to the most dominant teams in World Cup history, such as the 2003 and 2007 Australian teams <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>. However, unlike those Australian teams, India is playing at home <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>. Previous dominant teams like South Africa in 1999 and New Zealand in 1992 also failed to win the tournament despite strong performances <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>.
+
+India's success stems from their all-round strength, with nearly all players in excellent form <a class="yt-timestamp" data-t="04:35:00">[04:35:00]</a>. Their bowling attack is not overly dependent on any single type of bowler (spinners or seamers) <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>. They have developed a strategy of playing more aggressively, aiming to score quickly rather than being conservative <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>. This new mindset, combined with fit and available strike bowlers, has been crucial <a class="yt-timestamp" data-t="05:53:00">[05:53:00]</a>.
+
+To avoid a semi-final or final loss, India must focus on taking early wickets, as teams like Australia and New Zealand did in the past to counter strong batting lineups <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>. If opponents can take three wickets in the first 15-25 overs, it can significantly impact India's batting depth <a class="yt-timestamp" data-t="06:00:00">[06:00:00]</a>. They also need to be prepared to "problem solve on the fly" in finals when initial plans may not work <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>.
+
+## Related Match Analysis
+*   The [[cricket_match_analysis_between_india_and_australia | Australia India game]] was one instance where India was under pressure, though conditions like dew and a drop catch might have influenced the outcome <a class="yt-timestamp" data-t="01:16:02">[01:16:02]</a>.
+*   In the [[india_vs_pakistan_match_analysis | Pakistan]] match, India played with what was effectively 10 men, demonstrating their current strength <a class="yt-timestamp" data-t="04:13:00">[04:13:00]</a>.
+*   The [[analysis_of_ind_vs_eng_odi_match_in_cwc2023 | England]] game saw them misjudge dew conditions, impacting their chasing strategy <a class="yt-timestamp" data-t="04:13:00">[04:13:00]</a>.

@@ -1,0 +1,61 @@
+---
+title: Controversial picks and subjective rankings in cricket history
+videoId: tkopXHPipU4
+---
+
+From: [[goodareaslive]] <br/> 
+
+The CrickPicks podcast, in its 50th "bumper episode," undertook the challenging task of drafting the "best cricketers of all time," a broad category with "no rules" that was expected to generate "chaos" <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>. This exercise highlighted the inherent subjectivity and potential for controversy in ranking historical cricket players, especially when considering different formats and eras.
+
+## The Drafting Process and Initial Picks
+The podcast employs a snake-style draft where participants pick their top five players for a given category <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>. For this "best cricketers of all time" episode, Jared Kimber had the first pick, immediately selecting [[comparison_of_cricket_legends | Don Bradman]] <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>. Bradman was considered an "easy" choice, with a host noting that "he's in the side, job done" <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>. Discussions around Bradman included the potential impact of World War II on his career, with the consensus that he "misses some of his Peak years because of the war," suggesting he would have been even better <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a>. His average of approximately 20 on sticky surfaces contrasted with his average of 60 on good pitches, indicating his dominance on modern, true wickets <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>.
+
+### Early Controversial Selections
+The second pick, Shane Warne, was immediately flagged as a "hot dick" <a class="yt-timestamp" data-t="05:09:00">[05:09:00]</a>. Despite his 708 Test wickets, 293 ODI wickets, World Cup win, and IPL triumph <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>, questions arose about his effectiveness against India <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a> and whether he was an all-time great ODI player <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>. One host felt it was "a reach to pick War this High" <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a>.
+
+This was followed by the selection of [[best_test_cricket_allrounders_in_history | Garry Sobers]], praised for his all-round abilities across different bowling styles (left-arm medium and off-spin) and his pioneering feat of hitting six sixes in an over <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>.
+
+Muttiah Muralitharan was then selected, with a discussion comparing him to Shane Warne <a class="yt-timestamp" data-t="07:26:00">[07:26:00]</a>. Murali's 800 Test wickets, World Cup win, and the context of Sri Lanka's developing cricket system were highlighted <a class="yt-timestamp" data-t="07:53:00">[07:53:00]</a>. His resilience in overcoming the "chucking thing" was emphasized as a testament to his mental strength <a class="yt-timestamp" data-t="08:34:00">[08:34:00]</a>. One host suggested that both Warne and Murali might have been picked "a little bit too high" <a class="yt-timestamp" data-t="09:45:00">[09:45:00]</a>, particularly given Murali's status as an ethnic minority in Sri Lanka during a period of conflict, which adds a layer of depth to his story often overlooked <a class="yt-timestamp" data-t="08:49:00">[08:49:00]</a>.
+
+Imran Khan's selection was openly admitted to be a "biased pick" <a class="yt-timestamp" data-t="10:51:00">[10:51:00]</a>, though justified by his remarkable performance between 1981 and 1991, averaging below 20 with the ball and over 50 with the bat in Test matches <a class="yt-timestamp" data-t="11:03:00">[11:03:00]</a>. His overall record of 3,887 runs and 362 wickets in 88 Tests, alongside his ODI World Cup-winning captaincy, and his cultural impact on Pakistani cricket solidified his place <a class="yt-timestamp" data-t="11:12:00">[11:12:00]</a>. The pick led to a debate comparing him to Wasim Akram, with the assertion that Imran Khan was "a way better cricketer than Wasim Akram" <a class="yt-timestamp" data-t="14:35:00">[14:35:00]</a>.
+
+## Subjectivity in Batting and All-rounder Selections
+[[comparison_of_cricket_legends | Sachin Tendulkar]] was chosen as "one of the greatest ODI players of all time" and a "greatest test players of all time," arguably "the greatest batter that we've ever had" if not for Bradman <a class="yt-timestamp" data-t="14:50:00">[14:50:00]</a>. His longevity, 100 international centuries, and over 34,000 international runs were highlighted <a class="yt-timestamp" data-t="16:43:00">[16:43:00]</a>.
+
+Viv Richards was picked for his revolutionary batting, setting new standards for batting speed in Test cricket <a class="yt-timestamp" data-t="15:11:00">[15:11:00]</a>. He was described as a "time traveler" and "far ahead of his time," completely transforming the sport <a class="yt-timestamp" data-t="16:35:00">[16:35:00]</a>.
+
+AB de Villiers' selection was acknowledged as potentially controversial due to factoring in T20s <a class="yt-timestamp" data-t="17:39:00">[17:39:00]</a>. He was lauded as the "Pioneer when it comes to 360 Cricket" and an "absolute enigma" due to his versatility, ability to bat in multiple positions, wicket-keeping, and even bowling <a class="yt-timestamp" data-t="17:43:00">[17:43:00]</a>. His ODI average of 53.5 at a strike rate over 100, combined with his Test and T20 performances, made him a strong candidate <a class="yt-timestamp" data-t="18:15:00">[18:15:00]</a>. He was considered "probably the best T20 batter of all time" and "one of the greatest ODI top three ODI batters of all time" <a class="yt-timestamp" data-t="19:06:00">[19:06:00]</a>.
+
+Brian Lara was picked as the equivalent of Sachin Tendulkar for left-handers in their era <a class="yt-timestamp" data-t="20:26:00">[20:26:00]</a>. His flamboyance and ability to "murder pace and spin" were noted <a class="yt-timestamp" data-t="21:42:00">[21:42:00]</a>. His unique records, such as being the first man to register scores of 375, 400, and 501, were emphasized <a class="yt-timestamp" data-t="22:32:00">[22:32:00]</a>.
+
+Wasim Akram was selected as a "great fast bowler" known for his new ball and old ball skills, reverse swing, and handy batting <a class="yt-timestamp" data-t="23:02:00">[23:02:00]</a>. His evolution as a bowler, maintaining relevance even after losing pace, was highlighted <a class="yt-timestamp" data-t="24:09:00">[24:09:00]</a>. He was deemed "one of the first names that pops up" when thinking of the 90s ODI era <a class="yt-timestamp" data-t="23:54:00">[23:54:00]</a>.
+
+[[best_test_cricket_allrounders_in_history | Jacques Kallis]] was considered a "strong Contender for number three" among all-rounders, behind Sobers and Imran <a class="yt-timestamp" data-t="26:47:00">[26:47:00]</a>. His colossal Test and ODI batting and bowling records (13,289 Test runs at 55.37, 292 Test wickets; 11,579 ODI runs at 44+, 273 ODI wickets) were cited <a class="yt-timestamp" data-t="26:55:00">[26:55:00]</a>. However, his T20 strike rate of 112 was pointed out as a "negative" against him in an "all time" list <a class="yt-timestamp" data-t="27:47:00">[27:47:00]</a>.
+
+WG Grace was an unexpected pick, with a host humorously noting, "you it didn't say Test, you didn't say" <a class="yt-timestamp" data-t="29:54:00">[29:54:00]</a>. His dominance in first-class cricket, especially in the 1800s, was highlighted, making more hundreds on his own than the rest of first-class cricket combined in one year <a class="yt-timestamp" data-t="30:52:00">[30:52:00]</a>. His consistent high batting averages (e.g., 65, 57, 54, 78) and bowling average of 18 in first-class cricket were noted, placing him on a level comparable to Bradman due to his all-round ability <a class="yt-timestamp" data-t="31:32:00">[31:32:00]</a>.
+
+Joel Garner was argued as "arguably still the greatest ODI bowler of all time" <a class="yt-timestamp" data-t="33:10:00">[33:10:00]</a>, with an impressive ODI economy rate of 3.1 <a class="yt-timestamp" data-t="34:10:00">[34:10:00]</a>.
+
+Glenn McGrath was picked for his consistent excellence across Tests (563 wickets at 21.64) and ODIs (381 wickets at 22), being a "three-time ODI World Cup winner" <a class="yt-timestamp" data-t="35:23:00">[35:23:00]</a>. His accuracy and ability to evolve despite losing pace were praised <a class="yt-timestamp" data-t="35:34:00">[35:34:00]</a>. Even in his "finished" state during his single IPL season, his economy rate remained at 6.6, demonstrating his control <a class="yt-timestamp" data-t="36:04:00">[36:04:00]</a>.
+
+## The Most Subjective Pick: Kumar Sangakkara
+The final pick, often the most challenging, devolved into a moment of extreme subjectivity. After much deliberation, Kumar Sangakkara was chosen "for The Vibes" <a class="yt-timestamp" data-t="39:37:00">[39:37:00]</a>. This pick was met with mock outrage and laughter, with one host exclaiming, "You cannot get this right, can you? You just cannot get this right" <a class="yt-timestamp" data-t="39:15:00">[39:15:00]</a>. Despite the dramatic reaction, Sangakkara was acknowledged as having the "second most number of runs overall" and being a "great test batter" <a class="yt-timestamp" data-t="39:41:00">[39:41:00]</a>.
+
+### Unpicked Legends and the [[challenges_of_ranking_historical_data_and_records_in_cricket | Challenges of Ranking]]
+The discussion then shifted to notable players who did not make the top 15, emphasizing the difficulty and subjectivity of the task:
+
+*   **Jasprit Bumrah**: Considered "right on the edge" due to not having "played enough" <a class="yt-timestamp" data-t="40:53:00">[40:53:00]</a>.
+*   **Virat Kohli**: High on the list, despite T20 cricket being an "issue at times for him," because his T20 international cricket is "so good" and he's a top 25 Test batter <a class="yt-timestamp" data-t="41:02:00">[41:02:00]</a>.
+*   **Chris Gayle**: Debated for his high T20 ranking ("top two or top three") but lower Test ranking and mid-range ODI stats <a class="yt-timestamp" data-t="42:39:00">[42:39:00]</a>.
+*   **Adam Gilchrist**: Praised for transforming the wicket-keeper batter role, having an "almost invincibility" <a class="yt-timestamp" data-t="42:03:00">[42:03:00]</a>.
+*   **Ricky Ponting**: Considered a better ODI player than Brian Lara by one host, despite similar numbers, citing Ponting's consistent effort <a class="yt-timestamp" data-t="43:09:00">[43:09:00]</a>.
+*   **Dale Steyn and James Anderson**: Mentioned as "unfortunate" to miss out, being "really really good" bowlers <a class="yt-timestamp" data-t="43:37:00">[43:37:00]</a>.
+*   **Curtly Ambrose and Malcolm Marshall**: Other strong fast bowling contenders <a class="yt-timestamp" data-t="43:43:00">[43:43:00]</a>.
+*   **Richard Hadlee**: Also on a host's "long list" <a class="yt-timestamp" data-t="43:51:00">[43:51:00]</a>.
+*   **Jack Hobbs**: Highly rated as a Test batter, especially for his dominance in a tough era before the war <a class="yt-timestamp" data-t="43:57:00">[43:57:00]</a>.
+*   **Aubrey Faulkner and Keith Miller**: Other great all-rounders <a class="yt-timestamp" data-t="44:32:00">[44:32:00]</a>.
+*   **Kapil Dev and Ian Botham**: Also considered highly but just outside the top 15 <a class="yt-timestamp" data-t="44:37:00">[44:37:00]</a>.
+*   **Alastair Cook and Len Hutton**: English batters who were considered but didn't make the cut <a class="yt-timestamp" data-t="44:55:00">[44:55:00]</a>.
+*   **Sydney Barnes**: Another bowler who narrowly missed out <a class="yt-timestamp" data-t="45:28:00">[45:28:00]</a>.
+
+This detailed discussion of both selected and unselected players underscores the core theme: that when creating such a list, "you can't just put people in the list, you need to take other people out of the list and that's where it gets a little bit tricky" <a class="yt-timestamp" data-t="45:43:00">[45:43:00]</a>. The episode concluded by inviting listener comments to determine the "winner," acknowledging the strong subjective element in such rankings <a class="yt-timestamp" data-t="47:06:00">[47:06:00]</a>.

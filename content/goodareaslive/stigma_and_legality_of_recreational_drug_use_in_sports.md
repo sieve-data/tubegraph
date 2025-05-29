@@ -1,0 +1,25 @@
+---
+title: Stigma and legality of recreational drug use in sports
+videoId: mz3BKC1kjBI
+---
+
+From: [[goodareaslive]] <br/> 
+
+The discussion around recreational drug use in professional sports has come to the forefront following cricketer Kagiso Rabada's departure from the IPL due to a positive test for a recreational drug <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. This incident sparked a debate on the necessity of public disclosure for such matters and the broader context of recreational drug policies in sports.
+
+## Public Disclosure and Stigma
+Jared Kimber expressed his personal discomfort with the public knowing about an athlete's recreational drug use <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. He believes that unless the substance acts as a masking agent for performance-enhancing drugs, the information should remain private <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. This stance stems from the view that such issues are personal, similar to an athlete dealing with being a "bad eater" or an alcoholic <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. The prevailing societal stigma associated with drug use means that athletes like Rabada face immense public scrutiny, adding to existing pressures <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+
+## Legality and Medical Use in Sports
+Robbie Uthappa clarified that recreational drugs, particularly marijuana, are allowed in sports to a "certain degree" <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. This applies to Olympic sports, all American sports, and even during tournaments like the IPL <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. Athletes are permitted to use them as long as they do not exceed a measurable volume in urine or blood samples <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+
+A primary reason for this allowance is pain relief <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. Fast bowlers, for instance, endure significant physical pain due to the demanding nature of their skill, often experiencing body breakdowns in the early season <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. Recreational drugs can act as muscle relaxants and pain relievers <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>, making them non-performance-enhancing but crucial for recovery and maintaining physical well-being. The NBA, for example, relaxed its marijuana policies during the COVID-19 pandemic, acknowledging its use for pain relief and its legality in certain U.S. states <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
+
+## Cultural and International Variations
+The legality and perception of recreational drugs vary significantly across different countries and cultures <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. In some regions, like parts of the West Indies, certain substances were historically part of their cultural identity <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. While some places have semi-legal recreational drug use within cricket, others maintain strict prohibitions <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>. This complexity is further highlighted by cricketers' involvement with CBD companies <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+
+## Personal Experience and Call for Empathy
+Robbie Uthappa shared his own experience with a banned substance, though not recreational drugs, to illustrate the stress and difficulty players face <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>. He tested positive for cortisone, a pain-relieving injection he took for a bone spur, which stayed in his system longer than permissible limits <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>. The incident led to two months of "absolute stress" and the fear of a potential 24-month ban that could have ended his career <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. This experience led him to advocate for greater empathy towards players like Rabada, who not only carry the weight of their nation but also deal with personal struggles <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
+
+## Impact on Player Perceptions and [[Professionalism_in_cricket | Professionalism]]
+The public nature of Rabada's situation raises questions about [[Cricket Media and Player Perceptions | player perceptions]]. Jared emphasized that Rabada's [[professionalism_in_cricket | professionalism]] has never been questioned throughout his career <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>, implying that a recreational drug test should not tarnish his professional standing. He stressed that a player's private life, including recreational drug use, is not relevant to their public performance or analytical assessment <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>.

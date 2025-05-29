@@ -1,0 +1,36 @@
+---
+title: Challenges faced by batsmen in modern Test cricket
+videoId: tEtUA5FymjI
+---
+
+From: [[goodareaslive]] <br/> 
+
+Modern Test cricket presents unique [[Challenges faced by batsmen in modern Test cricket | challenges for batsmen]], largely due to changes in ball manufacturing, pitch preparation, and evolving bowling tactics. While the game has seen periods of high scoring, the current era is considered one of the most difficult for batting since the 1910s <a class="yt-timestamp" data-t="30:00:19">[30:00:19]</a>, <a class="yt-timestamp" data-t="30:04:14">[30:04:14]</a>.
+
+## Impact of Ball and Pitch Conditions
+
+### Altered Kookaburra Ball
+A significant factor contributing to batting difficulties is the modification of the Kookaburra ball in 2020 <a class="yt-timestamp" data-t="05:57:11">[05:57:11]</a>. This change involved applying extra lacquer and reinforcing the seam <a class="yt-timestamp" data-t="24:33:40">[24:33:40]</a>, <a class="yt-timestamp" data-t="24:37:46">[24:37:46]</a>. This has led to the ball retaining its lacquer and seam prominence for much longer, sometimes with writing still visible after 25 overs <a class="yt-timestamp" data-t="24:41:00">[24:41:00]</a>.
+
+The result is increased and more consistent seam movement throughout the innings <a class="yt-timestamp" data-t="34:13:00">[34:13:00]</a>, making it harder to bat on. The average seam movement can be around 0.9 degrees, which for bowling over 80 mph is almost unplayable <a class="yt-timestamp" data-t="04:48:47">[04:48:47]</a>, <a class="yt-timestamp" data-t="04:56:06">[04:56:06]</a>. This has led to a dramatic increase in wickets taken. For example, before 2020, wickets in Australia fell every 72 balls, differing significantly from the rest of the world <a class="yt-timestamp" data-t="05:43:08">[05:43:08]</a>, <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. After the ball change, Australia started losing wickets at the same rate as other countries <a class="yt-timestamp" data-t="06:01:10">[06:01:10]</a>. In the current year, Australian pitches are seeing a wicket fall every 42 deliveries <a class="yt-timestamp" data-t="06:13:30">[06:13:30]</a>, which is described as "absolutely remarkable" <a class="yt-timestamp" data-t="06:20:10">[06:20:10]</a>.
+
+### Varied Pitch Preparations
+Pitches worldwide are being prepared to suit specific bowling skills, leading to diverse but challenging conditions for batsmen <a class="yt-timestamp" data-t="22:49:15">[22:49:15]</a>.
+*   **Indian pitches** are intentionally "ragging sideways" <a class="yt-timestamp" data-t="22:59:36">[22:59:36]</a>.
+*   **South African pitches** are designed to be "up and down and sideways sometimes" <a class="yt-timestamp" data-t="23:05:43">[23:05:43]</a>.
+*   **Australian pitches** are no longer as flat as they once were <a class="yt-timestamp" data-t="36:57:42">[36:57:42]</a>.
+*   The Perth Stadium pitch, for instance, typically falls apart on later days, making day one the easiest for batting <a class="yt-timestamp" data-t="03:40:02">[03:40:02]</a>, <a class="yt-timestamp" data-t="04:08:42">[04:08:42]</a>. The curator attempted to make it a better batting surface by adding more moisture and grass, expecting it to flatten out later <a class="yt-timestamp" data-t="23:11:47">[23:11:47]</a>, <a class="yt-timestamp" data-t="24:06:53">[24:06:53]</a>. However, it still produced extreme conditions, with 17 wickets falling on day one <a class="yt-timestamp" data-t="37:38:22">[37:38:22]</a>.
+
+## Evolving Bowling Tactics and Skill Sets
+Fast bowlers are bowling more pitched up deliveries, which are generally more dangerous <a class="yt-timestamp" data-t="30:46:04">[30:46:04]</a>, <a class="yt-timestamp" data-t="30:48:22">[30:48:22]</a>. The increased use of the "wobble ball" also adds complexity, as it might only seam one in three deliveries, making it unpredictable and helping to preserve the seam <a class="yt-timestamp" data-t="50:14:52">[50:14:52]</a>, <a class="yt-timestamp" data-t="50:31:07">[50:31:07]</a>. Most bowlers now have a wobble ball in their arsenal <a class="yt-timestamp" data-t="48:56:26">[48:56:26]</a>.
+
+Spinners have also adapted, bowling faster and more accurately, often using scrambled seam deliveries which remove visual clues for batsmen <a class="yt-timestamp" data-t="30:30:19">[30:30:19]</a>, <a class="yt-timestamp" data-t="30:38:00">[30:38:00]</a>. The introduction of DRS (Decision Review System) has also given them a significant lbw advantage they never had before <a class="yt-timestamp" data-t="30:22:20">[30:22:20]</a>, <a class="yt-timestamp" data-t="30:42:07">[30:42:07]</a>.
+
+When facing bowlers like Jasprit Bumrah and Josh Hazlewood, with the ball seeming at one degree, it's incredibly difficult to avoid dismissal <a class="yt-timestamp" data-t="25:16:33">[25:16:33]</a>, <a class="yt-timestamp" data-t="25:21:40">[25:21:40]</a>. This level of lateral movement makes it almost impossible to bat conventionally <a class="yt-timestamp" data-t="25:35:10">[25:35:10]</a>, <a class="yt-timestamp" data-t="25:37:30">[25:37:30]</a>.
+
+## Batting Struggles Across Teams
+No team or individual is immune to these [[Challenges faced by batsmen in modern Test cricket | challenges facing batsmen]]. In Australia, no one, including the home players and opposition, is consistently making runs in first-class cricket or Test matches <a class="yt-timestamp" data-t="07:46:57">[07:46:57]</a>, <a class="yt-timestamp" data-t="07:50:09">[07:50:09]</a>. Even established players like Steve Smith and Marnus Labuschagne have struggled, and Usman Khawaja, despite prior good form, has not scored many runs this year <a class="yt-timestamp" data-t="07:01:21">[07:01:21]</a>, <a class="yt-timestamp" data-t="07:20:41">[07:20:41]</a>, <a class="yt-timestamp" data-t="07:26:00">[07:26:00]</a>.
+
+Players who are typically known for their defensive techniques and temperament are also struggling. For instance, the first-down batters in a recent match scored only two runs off 75 balls <a class="yt-timestamp" data-t="45:08:29">[45:08:29]</a>, including players like D P (presumably Pujara) and Labuschagne, who couldn't score despite their defensive strengths <a class="yt-timestamp" data-t="45:16:03">[45:16:03]</a>, <a class="yt-timestamp" data-t="45:29:43">[45:29:43]</a>. The only player who appeared comfortable on such a challenging wicket was Rishabh Pant, who plays in a non-traditional attacking manner <a class="yt-timestamp" data-t="01:04:15">[01:04:15]</a>, <a class="yt-timestamp" data-t="01:08:42">[01:08:42]</a>, <a class="yt-timestamp" data-t="30:09:47">[30:09:47]</a>, <a class="yt-timestamp" data-t="44:43:08">[44:43:08]</a>. This suggests that a more aggressive approach, exemplified by "Bazball" tactics, might be a necessary adaptation to score in these difficult conditions <a class="yt-timestamp" data-t="31:27:54">[31:27:54]</a>, <a class="yt-timestamp" data-t="31:30:09">[31:30:09]</a>.
+
+The widespread struggle among batsmen, even those with strong defensive techniques, indicates that the issue goes beyond individual flaws <a class="yt-timestamp" data-t="34:34:00">[34:34:00]</a>. The combination of harder, more seaming balls, and specific pitch preparations has created an environment where dismissing batsmen is easier than ever before.

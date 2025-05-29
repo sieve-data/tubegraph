@@ -1,0 +1,38 @@
+---
+title: Impact of Basball on England Cricket
+videoId: HRn5LvqllFQ
+---
+
+From: [[goodareaslive]] <br/> 
+
+[[The Concept and Impact of Bazball in Cricket | Bazball]] is the core idea of how England makes an "absolute show of a team competitive" <a class="yt-timestamp" data-t="02:07:07">[02:07:07]</a>. This approach aims to bring competitiveness to a team that might otherwise struggle <a class="yt-timestamp" data-t="02:09:07">[02:09:07]</a>.
+
+## England's Performance in India
+In the final match of the India versus England series, England batted "horribly" <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>, suggesting a desire to get home as early as possible <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>. India easily won the series 4-1 <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>, <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>, which was also the result of their previous series against India (3-1 prior to this) <a class="yt-timestamp" data-t="02:14:00">[02:14:00]</a>. While the scoreline was 4-1, the series was described as "engrossing" because England lost key moments where they had opportunities, while India capitalized on almost all of theirs <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>.
+
+Despite the 4-1 loss, England were competitive throughout the five tests in a way they were not in their last series against India <a class="yt-timestamp" data-t="02:18:00">[02:18:00]</a>. India had to "work them out" <a class="yt-timestamp" data-t="02:28:00">[02:28:00]</a>. It's suggested that England may have gained more from this approach than if they had played "normal Cricket" <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>.
+
+### Player Performances
+*   **Openers**: England's openers "worked repeatedly despite all evidence to the contrary" <a class="yt-timestamp" data-t="01:47:00">[01:47:00]</a>.
+*   **Spinners**: They got 40 wickets from two spinners with less experience than a Joe Root spell <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>.
+*   **Spin Hitting**: England's "worst player of spin" (implied Joe Root) almost made a double hundred <a class="yt-timestamp" data-t="01:49:00">[01:49:00]</a>. Joe Root made 77 runs in his first six innings and 243 runs in his last four <a class="yt-timestamp" data-t="07:18:00">[07:18:00]</a>.
+*   **Missing Players**: Harry Brook never made it over for the series, and their only "real spinner" had to go home after a single match <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>.
+
+### Key Moments and Strategies
+*   **Gill-Bairstow Exchange**: The exchange between Shubman Gill and Jonny Bairstow on the ground exemplified the [[The Concept and Impact of Bazball in Cricket | Bazball]] philosophy <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>. Bairstow questioned Gill about retiring, Gill responded with "retire Bairstow", then Bairstow got him out next ball <a class="yt-timestamp" data-t="02:48:00">[02:48:00]</a>. Gill then countered by asking Bairstow about his hundreds <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>. This exchange highlighted England's "win" that, upon deeper inspection, wasn't as significant, much like their fuzzy and out-of-focus overall performance by the end of the series <a class="yt-timestamp" data-t="03:28:00">[03:28:00]</a>.
+*   **Ben Duckett's Aggression**: Ben Duckett, known for his rogue style, made a notable aggressive move against Ashwin <a class="yt-timestamp" data-t="02:41:00">[02:41:00]</a>. Cricfit reported that Duckett had not previously left his crease to play spinners all series <a class="yt-timestamp" data-t="01:39:00">[01:39:00]</a>. In a specific instance, Duckett was already moving down the pitch before Ashwin delivered the ball, regardless of its line or length <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>. He anticipated the ball to be in a certain area but it ended up miles away, making his shot incredibly difficult <a class="yt-timestamp" data-t="02:14:00">[02:14:00]</a>. This pre-meditated movement, combined with Ashwin's spin and Duckett's previous struggles against similar deliveries, led to his dismissal <a class="yt-timestamp" data-t="02:49:00">[02:49:00]</a>. This aggressive, albeit flawed, approach is characteristic of [[Englands Batting Strategy and Basball Philosophy | Bazball]].
+
+### Perceived Flaws of [[The Concept and Impact of Bazball in Cricket | Bazball]]
+*   **First Innings Runs**: A major flaw of [[The Concept and Impact of Bazball in Cricket | Bazball]] is England's inability to consistently score enough runs in the first innings to pressure opposition teams <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>.
+*   **All-Rounder Necessity**: If England is not going to bat for long periods, they need an all-rounder. Playing with four frontline bowlers is difficult, especially when one is 41 years old (referring to James Anderson) <a class="yt-timestamp" data-t="03:48:00">[03:48:00]</a>.
+*   **High-Risk Cricket**: While [[Englands cricket strategy under basball | England's high-risk cricket]] creates more opportunities, the nature of the game under [[The Concept and Impact of Bazball in Cricket | Bazball]] means they are not always in a position to capitalize on them <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>.
+*   **Evolution and Predictability**: What was once considered "smart" is now understood by opponents, meaning England must evolve their approach <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>.
+
+## Different Perspectives on [[The Concept and Impact of Bazball in Cricket | Bazball]]
+Jared Kimber acknowledges that [[The Concept and Impact of Bazball in Cricket | Bazball]] "worked" if one considers [[Englands cricket strategy under basball | England's strategy under Bazball]] over their first 13 tests compared to the 13 tests prior, where they took a "very very ordinary side and they started to win" <a class="yt-timestamp" data-t="03:42:00">[03:42:00]</a>. He notes that without [[The Concept and Impact of Bazball in Cricket | Bazball]], players like Tom Hartley, Shoaib Bashir, Ben Duckett, Pope, and Zak Crawley might not have lasted in the series <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>. He cites a moment when Ashwin, despite India scoring 470, said the match was "level" when England was 200 for one, indicating [[The Impact and Evolution of Bazball in Test Cricket | Bazball]] was affecting India's mindset <a class="yt-timestamp" data-t="03:28:00">[03:28:00]</a>.
+
+George Dobell, a cricket analyst, holds a "staunch belief on what test Cricket should be," which [[The Concept and Impact of Bazball in Cricket | Bazball]] challenges <a class="yt-timestamp" data-t="03:44:00">[03:44:00]</a>. Kimber views himself as "slightly more Progressive" in acknowledging that cricket has changed and there are different ways of playing <a class="yt-timestamp" data-t="03:49:00">[03:49:00]</a>.
+
+Kart Dat, another analyst, is noted to have a bias towards England and is "very upset with the moral stuff and all those sorts of things" related to [[The Concept and Impact of Bazball in Cricket | Bazball]] <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>.
+
+In summary, while England under [[The Concept and Impact of Bazball in Cricket | Bazball]] lost the series to India 4-1, the strategy made them more competitive and impactful than in previous tours. However, it still faces challenges related to consistent first-innings runs and the need for a balanced team composition.

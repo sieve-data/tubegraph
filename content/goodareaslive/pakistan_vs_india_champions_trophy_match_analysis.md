@@ -1,0 +1,64 @@
+---
+title: Pakistan vs India Champions Trophy match analysis
+videoId: -ByKKVt4RMg
+---
+
+From: [[goodareaslive]] <br/> 
+
+## Overview
+India won the [[india_vs_pakistan_champions_trophy_match_analysis | match against Pakistan]] by largely "pressing the simulate innings button" on their controller, indicating a comfortable victory despite initial slow scoring by Pakistan <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. The game was largely defined by Pakistan's inability to score runs and India's effective bowling and chasing <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+
+## Pakistan's Performance
+Pakistan's innings began with significant struggles, likened to "trying to watch a seven-year-old push a full size bus up a hill" <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. Their top order, which was depleted, batted like people running in waist-high water <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. When they attempted to attack, they lost wickets <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. Pakistan's total was described as "anemic" <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. Their only chance of winning was to take early wickets, which did not happen <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+
+### Batting Analysis
+Pakistan's run rate from overs 1 to 20 was 79 runs against India <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>, which is significantly slower than in their match against New Zealand (66 runs) <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. This start was one of the slowest in the tournament, excluding Afghanistan vs. South Africa <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Between overs 11 and 25, Pakistan scored only 44 runs <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. Historically, Pakistan scores at about five runs an over in this period <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>, which is slower than desired <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. Their current performance in these overs places them alongside teams like Afghanistan and Bangladesh, which is not ideal company <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+
+#### Mohammad Rizwan
+[[pakistans_batting_collapse_and_analysis | Mohammad Rizwan's]] strike rate in the match completely dried up after starting with six runs off 10 balls <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. His batting is characterized as having two paces: a "third gear" (around 60-85/90 strike rate) and a "fifth-sixth gear" <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>. If he gets stuck in "third gear," Pakistan falls behind <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. When he tries to accelerate, he often gets out immediately <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>. Rizwan is not considered a good boundary scorer <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>.
+
+He is a world-class strike rotator, excellent at getting singles and twos <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>. However, he scores 40% fewer sixes against pace and almost 50% fewer against spin than expected, and only a par amount of fours <a class="yt-timestamp" data-t="00:13:22">[00:13:22]</a>. This means he cannot put pressure back on the game or catch up when the scoring slows <a class="yt-timestamp" data-t="00:13:38">[00:13:38]</a>. This issue with Rizwan's batting pattern is not new to Pakistani fans <a class="yt-timestamp" data-t="00:14:46">[00:14:46]</a>. In this match, he had a strike rate of 42 against pace, significantly lower than his usual 92 <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>.
+
+#### Babar Azam
+Babar Azam was dismissed by a wide ball from Hardik Pandya, nicking it behind <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>. Similar to Rizwan, Babar Azam also bats at a par rate for his runs, meaning Pakistan has two anchor-type batters <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>. If one of them gets out early and the other gets stuck, the team is in trouble <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>.
+
+### Bowling Analysis
+Pakistan's bowling attack consists of strike bowlers rather than economical ones <a class="yt-timestamp" data-t="00:35:53">[00:35:53]</a>. Pakistan's strategy was to take early wickets, which allowed India to get well ahead of the required rate <a class="yt-timestamp" data-t="00:35:38">[00:35:38]</a>.
+*   **Shaheen Afridi:** Generally overpitches or bowls wide <a class="yt-timestamp" data-t="00:28:58">[00:28:58]</a>. He does not possess the "extra bounce across" like Mitchell Starc, which might trouble Virat Kohli <a class="yt-timestamp" data-t="00:29:28">[00:29:28]</a>. Outside of the new ball, he should not cause significant problems <a class="yt-timestamp" data-t="00:29:24">[00:29:24]</a>.
+*   **Haris Rauf:** Causes trouble for high-quality players, but his style (bowling fast into the pitch) is exactly what Virat Kohli loves in white-ball cricket <a class="yt-timestamp" data-t="00:30:08">[00:30:08]</a>. He is "manufactured in a lab to be ineffective against Virat Kohli" <a class="yt-timestamp" data-t="00:29:48">[00:29:48]</a>.
+
+## India's Performance
+India won the [[india_vs_pakistan_champions_trophy_match_analysis | match]] comfortably <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. They read the wicket well and attacked early, giving Pakistan a chance to take wickets, but it didn't materialize <a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>.
+
+### Bowling Analysis
+India's bowlers performed well to restrict Pakistan.
+*   **Hardik Pandya:** In ODIs, he typically takes a wicket every 39 deliveries with an economy of 5.62 <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Against Pakistan, his numbers improve significantly, taking a wicket every 29 balls and conceding under five runs an over, making him a frontline bowler in such matches <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. His good bowling, especially after Babar Azam's wicket, set up the game for India <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
+*   **Mohammed Shami:** Performed well to stop the runs <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>, and is generally considered a strike bowler for India <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a>.
+*   **Kuldeep Yadav:** Has transformed from being one of the world's best middle-overs strike bowlers (averaging 27) to a defensive specialist (averaging 72 in recent ODIs) <a class="yt-timestamp" data-t="00:15:02">[00:15:02]</a>. He now concedes two runs an over less than expected <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>. Teams are less likely to stay in against him when they try to attack, indicating a change in opposition strategy rather than a decline in his bowling <a class="yt-timestamp" data-t="00:19:11">[00:19:11]</a>. This shift in role might be acceptable to India if it allows their finger spinners to take more wickets on helpful pitches <a class="yt-timestamp" data-t="00:18:50">[00:18:50]</a>.
+
+### Batting Analysis
+*   **Virat Kohli:** His adjusted average in chases is 67.94, and his adjusted strike rate is 96 <a class="yt-timestamp" data-t="00:22:36">[00:22:36]</a>. This record is exceptional, not far removed from players like AB de Villiers and Viv Richards <a class="yt-timestamp" data-t="00:23:06">[00:23:06]</a>. He is very good at rotating the strike, finding six clear zones for singles due to his strong on-drive and ability to hit to the left of mid-on <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>. Kohli is also very good at getting twos, particularly in a specific zone that disrupts fielding maps <a class="yt-timestamp" data-t="00:25:55">[00:25:55]</a>. His non-strike boundary rate is significantly higher than other players <a class="yt-timestamp" data-t="00:27:08">[00:27:08]</a>. In this match, he struck at 123 against pace but only 56 against spin <a class="yt-timestamp" data-t="00:27:57">[00:27:57]</a>. His strength against high pace (like Haris Rauf) and ability to handle bowlers like Shaheen Afridi makes him particularly effective against Pakistan <a class="yt-timestamp" data-t="00:29:58">[00:29:58]</a>.
+*   **Shubman Gill & Rohit Sharma:** Along with Kohli and Shreyas Iyer, they are described as "firing" and capable of unleashing themselves in an ICC tournament <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a>. Shubman Gill has been great for a long time, and Rohit Sharma has continued his high-intent style of play <a class="yt-timestamp" data-t="00:33:11">[00:33:11]</a>.
+*   **Shreyas Iyer:** Considered underrated, playing at number four with a good strike rate and average <a class="yt-timestamp" data-t="00:37:45">[00:37:45]</a>. He has improved his short ball play, especially after facing England <a class="yt-timestamp" data-t="00:38:01">[00:38:01]</a>.
+
+## Pitch Conditions
+The pitch was described as slightly trickier than India made it look while batting <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. It was considered a "280 wicket," meaning a score of around 280 would have been a very interesting chase for India <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>. The ball was not always coming on massively, and there were many dot balls even during India's innings <a class="yt-timestamp" data-t="00:36:09">[00:36:09]</a>.
+
+## [[comparative_analysis_of_india_and_pakistan_cricket_teams | Team Comparison]]
+India is considered the hot favorite for the tournament and has been for months <a class="yt-timestamp" data-t="00:34:14">[00:34:14]</a>. South Africa is the only other team considered close to India in strength <a class="yt-timestamp" data-t="00:34:47">[00:34:47]</a>.
+
+### Pakistan's Squad Issues
+Pakistan's current batting lineup is not full strength, missing their two first-choice openers and perhaps their most in-form player <a class="yt-timestamp" data-t="00:36:46">[00:36:46]</a>. This places them in the same batting zone as Afghanistan and Bangladesh <a class="yt-timestamp" data-t="00:36:59">[00:36:59]</a>.
+
+> [!WARNING] Batting Overlap
+> Pakistan's batting lineup suffers from an overlap of similar player types, such as Mohammad Rizwan, Babar Azam, and Imam-ul-Haq, who all average well but have slow strike rates <a class="yt-timestamp" data-t="01:00:19">[01:00:19]</a>. This leaves them lacking players who can score quickly (e.g., averaging 30-35 with a strike rate of 100-110) in the lower order <a class="yt-timestamp" data-t="01:00:32">[01:00:32]</a>.
+
+Pakistan's team "makes more sense on paper than it does in real life" <a class="yt-timestamp" data-t="00:41:56">[00:41:56]</a>. They have multiple players like Shan Masood who perform similarly in List A cricket (average 50+ at a strike rate of 87) <a class="yt-timestamp" data-t="01:05:50">[01:05:50]</a>. This creates a lineup of players who accumulate runs slowly, lacking the "extra gear" to accelerate, unlike players like Rassie van der Dussen who can hit sixes at the end of an innings <a class="yt-timestamp" data-t="01:06:50">[01:06:50]</a>.
+
+> [!INFO] Bowling Deficiencies
+> There's a talent gap in Pakistan's spin bowling compared to India, with India having players like Varun Chakaravarthy and Ravi Bishnoi who are not in their squad but could be in Pakistan's <a class="yt-timestamp" data-t="00:58:10">[00:58:10]</a>. Pakistan's fast bowlers (Shaheen Afridi, Naseem Shah, Haris Rauf) need to be consistently good simultaneously for the team to perform well <a class="yt-timestamp" data-t="00:59:24">[00:59:24]</a>.
+
+Players like Shadab Khan are no longer effective as bowlers, lacking wickets and economy, possibly due to a loss of "grin" or rotation ability <a class="yt-timestamp" data-t="00:43:24">[00:43:24]</a>. Mohammad Nawaz's performance as an all-rounder is questioned, with an ODI batting average of 18 at a strike rate of 86 and a bowling average of 36 while conceding over five runs an over <a class="yt-timestamp" data-t="00:43:33">[00:43:33]</a>. This means he neither takes wickets nor provides significant batting support <a class="yt-timestamp" data-t="00:43:52">[00:43:52]</a>. Pakistan's team selection is often a "flawed way of creating your team" <a class="yt-timestamp" data-t="00:46:05">[00:46:05]</a>.
+
+## Player Management
+The handling of players like Babar Azam, who are vital to team culture but may be underperforming, requires a multi-faceted approach involving trusted consultants, coaches, and analysis teams to develop a plan for improvement rather than just dropping them <a class="yt-timestamp" data-t="00:53:50">[00:53:50]</a>. This contrasts with Michael Bevan and MS Dhoni, who would slow down their strike rates in chases <a class="yt-timestamp" data-t="00:21:20">[00:21:20]</a>.

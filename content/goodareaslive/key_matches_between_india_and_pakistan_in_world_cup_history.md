@@ -1,0 +1,70 @@
+---
+title: Key matches between India and Pakistan in World Cup history
+videoId: S6GZ57ziGUg
+---
+
+From: [[goodareaslive]] <br/> 
+
+The rivalry between [[india_vs_pakistan_match_analysis | India]] and [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] in One Day International (ODI) World Cups is one of cricket's most storied matchups, often highlighted by its intense hype and significant financial implications <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>. As of October 2023, [[india_versus_pakistan_odi_world_cup_2023_analysis | India]] holds a dominant 8-0 unbeaten streak against [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] in these tournaments <a class="yt-timestamp" data-t="00:28:00">[00:28:00]</a>.
+
+## Surprising Beginnings: The Absence of Early Encounters
+
+Despite being one of cricket's fiercest rivalries, [[india_vs_pakistan_match_analysis | India]] and [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] did not play each other in the first four editions of the ODI World Cup <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. This absence is particularly surprising given the current scheduling trends where tournament organizers ensure at least one encounter between the two teams <a class="yt-timestamp" data-t="02:36:00">[02:36:00]</a>.
+
+In the early years, the International Cricket Council (ICC) and England, who initially hosted tournaments, did not prioritize this fixture <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>. Even in the 1987 World Cup, co-hosted by [[history_of_india_vs_pakistan_in_odi_world_cups | India]] and [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]], the teams were not scheduled to play each other <a class="yt-timestamp" data-t="03:34:00">[03:34:00]</a>. This was before the era of "rigging the contest" for commercial success <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>.
+
+At the time, [[comparative_performance_of_cricket_teams_in_world_cup_history | Pakistan]] was generally considered the better limited-overs side before 1992 <a class="yt-timestamp" data-t="05:55:00">[05:55:00]</a>. They had more players involved in Kerry Packer's World Series Cricket, suggesting greater professionalism in one-day cricket than [[history_of_india_vs_pakistan_in_odi_world_cups | India]] <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>. Had they played in 1983 or 1987, when groups featured two matches against each team, [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] would have had ample opportunities to secure wins <a class="yt-timestamp" data-t="07:11:00">[07:11:00]</a>.
+
+## First Encounter: 1992 World Cup (Sydney)
+
+The first ODI World Cup match between the two rivals occurred in 1992 in Sydney <a class="yt-timestamp" data-t="07:54:00">[07:54:00]</a>. [[history_of_india_vs_pakistan_in_odi_world_cups | India]] batted first, scoring 216 runs <a class="yt-timestamp" data-t="07:58:00">[07:58:00]</a>. Despite [[comparative_performance_of_cricket_teams_in_world_cup_history | Pakistan]] being a "supreme limited overs outfit" at the time, they failed to chase the target <a class="yt-timestamp" data-t="08:02:00">[08:02:00]</a>. This was seen as a missed opportunity for [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] <a class="yt-timestamp" data-t="08:13:00">[08:13:00]</a>.
+
+## The Infamous 1996 Quarter-Final (Bengaluru)
+
+The 1996 World Cup quarter-final in Bengaluru is a memorable match, particularly for its dramatic moments <a class="yt-timestamp" data-t="09:27:00">[09:27:00]</a>. [[history_of_india_vs_pakistan_in_odi_world_cups | India]], without Wasim Akram due to injury, set a formidable total of 287 <a class="yt-timestamp" data-t="09:38:00">[09:38:00]</a>, which was considered equivalent to 350-360 in contemporary cricket <a class="yt-timestamp" data-t="09:55:00">[09:55:00]</a>.
+
+[[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] began their chase with an "incredible" and "belligerent" start, reaching 84 for no loss after 10 overs <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>. However, after the first wicket fell, Aamir Sohail had a confrontation with Venkatesh Prasad <a class="yt-timestamp" data-t="10:23:00">[10:23:00]</a>. Sohail, after hitting a boundary, pointed his bat towards the area he intended to hit next <a class="yt-timestamp" data-t="10:35:00">[10:35:00]</a>. Prasad, in the very next delivery, dismissed Sohail with a terrible shot <a class="yt-timestamp" data-t="10:40:00">[10:40:00]</a>. This moment is etched in World Cup lore <a class="yt-timestamp" data-t="10:46:00">[10:46:00]</a>. Venkatesh Prasad, known for his left-leg cutters, also took a five-wicket haul in the 1999 World Cup against [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]], establishing himself as a significant figure in [[history_of_india_vs_pakistan_in_odi_world_cups | India]]-[[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] World Cup cricket <a class="yt-timestamp" data-t="11:33:00">[11:33:00]</a>.
+
+## 1999 World Cup (Old Trafford)
+
+In the 1999 World Cup, [[history_of_india_vs_pakistan_in_odi_world_cups | India]] scored 228 runs against [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] in Old Trafford <a class="yt-timestamp" data-t="08:00:00">[08:00:00]</a>. Despite being a highly successful World Cup campaign for [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] where they reached the final, they again failed to chase this target <a class="yt-timestamp" data-t="07:47:00">[07:47:00]</a>.
+
+## The Turning Point: 2003 World Cup (Centurion)
+
+The 2003 World Cup match in Centurion marked a significant "change of guard" in the [[history_of_india_vs_pakistan_in_odi_world_cups | India]]-[[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] World Cup rivalry <a class="yt-timestamp" data-t="12:15:00">[12:15:00]</a>. Before this, [[comparative_performance_of_cricket_teams_in_world_cup_history | Pakistan]] had been the superior limited-overs side in World Cup cricket <a class="yt-timestamp" data-t="12:21:00">[12:21:00]</a>. After 2003, it became "all [[history_of_india_vs_pakistan_in_odi_world_cups | India]]" <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>.
+
+In this match, [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]]'s legendary bowlers, Wasim Akram and Waqar Younis, were past their prime <a class="yt-timestamp" data-t="12:26:00">[12:26:00]</a>. Sachin Tendulkar scored 98 runs, including an iconic six over third man off Shoaib Akhtar's bowling, which inspired a generation of batters <a class="yt-timestamp" data-t="12:30:00">[12:30:00]</a>. This victory is credited with catapulting [[history_of_india_vs_pakistan_in_odi_world_cups | Indian cricket]] towards its future success, with Sourav Ganguly's [[historical_cricket_teams_and_their_potential_against_india | Indian team]] laying the template for modern [[history_of_india_vs_pakistan_in_odi_world_cups | India]] <a class="yt-timestamp" data-t="12:45:00">[12:45:00]</a>. The period from 2000 onwards saw [[history_of_india_vs_pakistan_in_odi_world_cups | Indian]] batting take over, while [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]]'s batting slowed down <a class="yt-timestamp" data-t="13:34:00">[13:34:00]</a>.
+
+## No Encounter in 2007
+
+The 2007 World Cup notably featured no [[india_vs_pakistan_match_analysis | India]]-[[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] match <a class="yt-timestamp" data-t="16:09:00">[16:09:00]</a>. This was due to both teams being knocked out in the initial group stage: [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] lost to Ireland, and [[history_of_india_vs_pakistan_in_odi_world_cups | India]] lost to Bangladesh <a class="yt-timestamp" data-t="16:14:00">[16:14:00]</a>.
+
+## High Stakes: 2011 World Cup Semi-Final (Mohali)
+
+The 2011 World Cup semi-final in Mohali was arguably the most high-profile ODI World Cup game between the two teams <a class="yt-timestamp" data-t="19:04:00">[19:04:00]</a>. [[history_of_india_vs_pakistan_in_odi_world_cups | India]] was playing at home, with Sachin Tendulkar aiming to win a World Cup <a class="yt-timestamp" data-t="19:09:00">[19:09:00]</a>. [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]], despite losing key players like Mohammad Amir and Mohammad Asif due to spot-fixing the previous year, managed to reach the semi-final <a class="yt-timestamp" data-t="17:26:00">[17:26:00]</a>.
+
+In [[history_of_india_vs_pakistan_in_odi_world_cups | India]]'s innings, Sachin Tendulkar was dropped four times <a class="yt-timestamp" data-t="17:41:00">[17:41:00]</a>, including "dollies" by fielders like Younis Khan <a class="yt-timestamp" data-t="18:35:00">[18:35:00]</a>. There was also a controversial DRS review for an LBW against Tendulkar, which was overturned <a class="yt-timestamp" data-t="17:45:00">[17:45:00]</a>. Wahab Riaz took a five-wicket haul for [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] <a class="yt-timestamp" data-t="19:16:00">[19:16:00]</a>.
+
+[[history_of_india_vs_pakistan_in_odi_world_cups | India]] recovered to score 260 runs <a class="yt-timestamp" data-t="20:47:00">[20:47:00]</a>. In [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]]'s chase, Misbah-ul-Haq scored 50 runs, but his perceived slow scoring put pressure on other batters <a class="yt-timestamp" data-t="20:33:00">[20:33:00]</a>. Ultimately, [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] failed to chase the target <a class="yt-timestamp" data-t="20:45:00">[20:45:00]</a>, a match many [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] fans consider a real "heartbreaker" <a class="yt-timestamp" data-t="18:57:00">[18:57:00]</a>.
+
+## Recent Dominance: 2015, 2019, and 2023
+
+In the 2015 and 2019 World Cups, the matches were one-sided affairs, with [[history_of_india_vs_pakistan_in_odi_world_cups | India]] scoring over 300 runs and [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] failing to cross 240 <a class="yt-timestamp" data-t="21:13:00">[21:13:00]</a>. The most recent encounter in 2023 saw [[history_of_india_vs_pakistan_in_odi_world_cups | India]] extend its unbeaten streak to 8-0 with a comprehensive seven-wicket win in Ahmedabad <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>.
+
+## The "Pressure" and "Nerves" Debate
+
+The consistent losses for [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] when chasing against [[history_of_india_vs_pakistan_in_odi_world_cups | India]] in ODI World Cups (six out of eight losses) raises questions about whether nerves or pressure play a role <a class="yt-timestamp" data-t="21:04:00">[21:04:00]</a>.
+
+Some argue that the pressure has intensified since 2007 due to the lack of bilateral series between the two nations, making each encounter a "Grand Occasion" <a class="yt-timestamp" data-t="21:53:00">[21:53:00]</a> <a class="yt-timestamp" data-t="23:51:00">[23:51:00]</a>.
+
+However, others suggest that it's more about [[comparative_analysis_of_india_and_pakistan_cricket_teams | team composition]]: [[history_of_india_vs_pakistan_in_odi_world_cups | India]] is often the stronger batting team, setting decent totals that [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]]'s bowling-focused side struggles to chase <a class="yt-timestamp" data-t="22:26:00">[22:26:00]</a>.
+
+::info
+In the 2017 [[india_vs_pakistan_champions_trophy_match_analysis | Champions Trophy]], [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] was humiliated in their first game against [[history_of_india_vs_pakistan_in_odi_world_cups | India]], but then went on to win the final against them <a class="yt-timestamp" data-t="24:12:00">[24:12:00]</a>. Furthermore, [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] broke their World Cup hoodoo against [[history_of_india_vs_pakistan_in_odi_world_cups | India]] in the 2021 T20 World Cup, successfully chasing a target <a class="yt-timestamp" data-t="25:07:00">[25:07:00]</a>. Even in the 2022 T20 World Cup at the MCG, [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] was "massively ahead" and only lost due to an "incredible innings" by Virat Kohli <a class="yt-timestamp" data-t="26:37:00">[26:37:00]</a>. These instances suggest that a "choke" narrative may not fully explain the ODI World Cup record <a class="yt-timestamp" data-t="25:47:00">[25:47:00]</a>.
+::
+
+## The Future of the ODI World Cup
+
+With discussions about potentially scrapping the ODI World Cup, there's concern among fans about whether [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] will ever get the chance to break their [[history_of_india_vs_pakistan_in_odi_world_cups | India]] hoodoo <a class="yt-timestamp" data-t="28:28:00">[28:28:00]</a>. The record has become a deeply ingrained source of "negativity" and "PTSD" for [[pakistan_vs_india_champions_trophy_match_analysis | Pakistani]] fans, who grow up with the immense hype surrounding these matches <a class="yt-timestamp" data-t="29:05:00">[29:05:00]</a> <a class="yt-timestamp" data-t="31:27:00">[31:27:00]</a>.
+
+The rivalry is often described as more than just a game due to political tensions and historical factors, becoming a highly charged, nationalist fixture <a class="yt-timestamp" data-t="33:00:00">[33:00:00]</a>. While the hype can sometimes be annoying, the way both countries consume and celebrate these matches is unique <a class="yt-timestamp" data-t="34:17:00">[34:17:00]</a>. Despite political statements, the Board of Control for Cricket in [[history_of_india_vs_pakistan_in_odi_world_cups | India]] (BCCI) would be "desperate to play" [[pakistan_vs_india_champions_trophy_match_analysis | Pakistan]] in bilateral series for financial gain and to energize the country <a class="yt-timestamp" data-t="34:52:00">[34:52:00]</a>.

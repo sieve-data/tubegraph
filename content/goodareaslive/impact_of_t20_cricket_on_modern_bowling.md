@@ -1,0 +1,55 @@
+---
+title: Impact of T20 cricket on modern bowling
+videoId: l2RRSIyaoqs
+---
+
+From: [[goodareaslive]] <br/> 
+
+The advent and evolution of [[t20_cricket_evolution | T20 cricket]] have significantly influenced modern bowling, leading to new strategies, techniques, and a re-evaluation of bowlers' impact. Jasprit Bumrah stands out as a prime example of a bowler whose skills are particularly suited to and have evolved within the T20 format, demonstrating an unprecedented level of dominance across all forms of the game <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a> <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+
+## Jasprit Bumrah: A Testament to T20 Bowling Excellence
+
+Since returning from injury, Jasprit Bumrah has been in a "freakish" peak, taking 74 wickets in 31 international matches across formats at an average of less than 16 and an economy under four runs per over <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a> <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. His performances are considered "other worldly" and potentially one of the greatest peaks by any bowler, especially when factoring in his [[Impact of modern tactics in Test cricket | cross-format]] dominance <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a> <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+
+In [[role_of_bowlers_in_recent_t20_matches | T20 cricket]] specifically, Bumrah is often described as "literally unplayable" <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. In T20 Internationals for India since his return, he has taken 15 wickets in eight games, boasting an average of 8.73 and an economy of 4.24 <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a> <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a> <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a> <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>. Notably, in his last 24 overs for India, he has gone for more than 10 runs only twice <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+
+During the 2024 IPL, which was recognized as the highest-scoring T20 tournament ever, Bumrah played 13 games, took 20 wickets, and maintained an economy rate of 6.5, averaging under 17 <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a> <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a> <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a> <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. This performance is considered an even greater testament to his skill than his T20 World Cup showings, given the batting-friendly surfaces and stronger batting lineups in the IPL <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a> <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>.
+
+His consistency across formats, particularly in T20, positions him as arguably the best contemporary all-format cricketer <a class="yt-timestamp" data-t="00:39:22">[00:39:22]</a> <a class="yt-timestamp" data-t="00:43:41">[00:43:41]</a>.
+
+## Unique Bowling Action and its Advantages
+
+A core reason for Bumrah's success is his "freakish" and outlier action <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a> <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>. This allows him to deliver the ball about half a meter closer to batters than most other bowlers, effectively shortening the pitch <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a> <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>. This leads to the ball feeling quicker and arriving earlier than batters expect, even if the actual speed isn't significantly higher <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a> <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>.
+
+> [!INFO] Shortening the Pitch
+> By delivering the ball closer to the batter, Bumrah reduces the time available for reaction, making even standard deliveries feel faster <a class="yt-timestamp" data-t="09:09">[09:09]</a> <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a> <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
+
+His short, unconventional run-up also limits the information batters can gather before the release <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a> <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>. This unique combination of a shorter run-up and a closer release point is a "huge advantage" because batters are trained to react to standard actions <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a> <a class="yt-timestamp" data-t="00:11:54">[00:11:54]</a> <a class="yt-timestamp" data-t="00:12:33">[00:12:33]</a>.
+
+## Mastery of Variations and Accuracy
+
+Bumrah possesses multiple lengths for his different variations, and he "nails each of those lengths every single time" <a class="yt-timestamp" data-t="00:14:08">[00:14:08]</a> <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>. This ability to consistently hit four or five different lengths, including his cutters, is a rare skill for a fast bowler <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a> <a class="yt-timestamp" data-t="00:14:31">[00:14:31]</a>.
+
+His arsenal is so vast that batters never know what to expect <a class="yt-timestamp" data-t="00:15:47">[00:15:47]</a>. Even his "slot balls" and full tosses result in low economy rates (7.5 and 5.5 respectively in IPL 2024), demonstrating that even when he makes a mistake, batters struggle due to his initial rushing effect <a class="yt-timestamp" data-t="00:16:06">[00:16:06]</a> <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a> <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a> <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>. This means that "when Bumrah is good he's unplayable and when he's bad he's still a task and a half to negotiate" <a class="yt-timestamp" data-t="00:16:27">[00:16:27]</a>.
+
+Bumrah's capacity to "coast" at speeds between 130-140 km/h while maintaining an economy rate of four runs an over is a unique feature <a class="yt-timestamp" data-t="00:30:08">[00:30:08]</a> <a class="yt-timestamp" data-t="00:30:29">[00:30:29]</a>. He doesn't always need to bowl express pace to be effective; he can simply place the ball where batters cannot score <a class="yt-timestamp" data-t="00:30:53">[00:30:53]</a> <a class="yt-timestamp" data-t="00:31:08">[00:31:08]</a>. This contrasts with bowlers like Dale Steyn or Waqar Younis, who often bowled at their physical limit <a class="yt-timestamp" data-t="00:31:23">[00:31:23]</a> <a class="yt-timestamp" data-t="00:31:36">[00:31:36]</a>.
+
+## Psychological Impact and Assisted Wickets
+
+Bumrah's impact extends beyond his direct wickets, creating a "gravitational force" on the game <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a> <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. Batters struggle to score off him, leading to increased pressure that often results in wickets falling in overs immediately following his <a class="yt-timestamp" data-t="00:23:01">[00:23:01]</a> <a class="yt-timestamp" data-t="00:23:06">[00:23:06]</a>. This phenomenon, known as "assisted wickets," sees him second only to Sunil Narine in the IPL for volume of such wickets <a class="yt-timestamp" data-t="00:22:41">[00:22:41]</a>.
+
+His presence fundamentally shifts the odds of his team winning, even when he doesn't take wickets <a class="yt-timestamp" data-t="00:24:15">[00:24:15]</a>. Batters are often "down three or four runs" after facing his overs, forcing them to "over attack" the bowler at the other end <a class="yt-timestamp" data-t="00:24:22">[00:24:22]</a> <a class="yt-timestamp" data-t="00:24:27">[00:24:27]</a>. This strategic influence highlights his "gravitational force" on the game <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
+
+Even with known bowling patterns (e.g., bowling the 17th and 19th overs in T20), teams still cannot handle him <a class="yt-timestamp" data-t="00:28:32">[00:28:32]</a> <a class="yt-timestamp" data-t="00:29:12">[00:29:12]</a>. Batters tend to strike at a higher rate in the overs surrounding his, demonstrating their strategy to attack around him rather than at him <a class="yt-timestamp" data-t="00:25:42">[00:25:42]</a> <a class="yt-timestamp" data-t="00:26:09">[00:26:09]</a>.
+
+## Evolution of Bowling Techniques in T20
+
+T20 cricket is driving a "next evolution of fast bowling," particularly through the innovative use of the wrist <a class="yt-timestamp" data-t="00:33:53">[00:33:53]</a> <a class="yt-timestamp" data-t="00:34:29">[00:34:29]</a>. Bowlers like Bumrah and Mustafizur Rahman are at the forefront of this, exhibiting high skill levels in manipulating the ball with their wrists <a class="yt-timestamp" data-t="00:33:01">[00:33:01]</a> <a class="yt-timestamp" data-t="00:34:29">[00:34:29]</a>. This development is potentially influenced by rubber ball bowling traditions in Asia and the natural evolution of slower balls <a class="yt-timestamp" data-t="00:34:36">[00:34:36]</a> <a class="yt-timestamp" data-t="00:34:50">[00:34:50]</a>.
+
+Bumrah embodies this new era by combining the skills of a traditional fast bowler (seam, swing, wobble, reverse) with those of a spin bowler <a class="yt-timestamp" data-t="00:36:32">[00:36:32]</a> <a class="yt-timestamp" data-t="00:36:40">[00:36:40]</a> <a class="yt-timestamp" data-t="00:36:46">[00:36:46]</a>. An example of this is his ability to set up a batter like an off-spinner using bouncers before bowling an off-spinner-like delivery <a class="yt-timestamp" data-t="00:37:08">[00:37:08]</a> <a class="yt-timestamp" data-t="00:37:17">[00:37:17]</a>.
+
+T20 cricket has also led to the resurgence of old bowling skills that had faded from longer formats, such as the arm ball in finger spin and the leg cutter in pace bowling <a class="yt-timestamp" data-t="00:37:43">[00:37:43]</a> <a class="yt-timestamp" data-t="00:37:50">[00:37:50]</a> <a class="yt-timestamp" data-t="00:38:09">[00:38:09]</a>. This "disruptive" influence by bowlers like Bumrah is helping the game [[evolution_of_bowling_techniques_and_challenges_in_modern_cricket | evolve]], setting new standards for future generations <a class="yt-timestamp" data-t="00:38:50">[00:38:50]</a> <a class="yt-timestamp" data-t="00:38:53">[00:38:53]</a>.
+
+## Conclusion
+
+Jasprit Bumrah's current form and unique skillset represent a pinnacle in modern bowling, largely shaped by the demands and opportunities of [[t20_cricket_evolution | T20 cricket]]. His ability to dominate across all formats with his innovative action, diverse variations, and profound psychological impact on the game makes him an unparalleled figure <a class="yt-timestamp" data-t="00:41:17">[00:41:17]</a> <a class="yt-timestamp" data-t="00:41:49">[00:41:49]</a>. His impact is so significant that he is considered by some to be India's best-ever bowler and among the greatest all-format bowlers in cricket history, contingent on his longevity <a class="yt-timestamp" data-t="00:41:35">[00:41:35]</a> <a class="yt-timestamp" data-t="00:41:56">[00:41:56]</a> <a class="yt-timestamp" data-t="00:42:07">[00:42:07]</a>.

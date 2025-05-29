@@ -1,0 +1,52 @@
+---
+title: Role and responsibilities of mentors in Pakistan cricket
+videoId: DCypvAbfnCA
+---
+
+From: [[goodareaslive]] <br/> 
+
+The Pakistan Cricket Board (PCB) has introduced a new mentorship program aimed at addressing long-standing issues within the country's cricket system, particularly a perceived lack of [[professionalism_in_cricket | professionalism]] and inconsistent results <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>, <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. Shoaib Malik, who recently joined the PCB as a mentor for a domestic team, provides insights into this new initiative <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## A New Approach to Mentorship
+The role of mentors in Pakistan cricket is distinct from typical franchise cricket mentorship roles <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. Unlike franchise mentors who might primarily give inspiring speeches from the bench <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>, these PCB mentors are engaged in a comprehensive, year-round job <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+
+### Contract and Commitment
+Mentors are on a three-year contract <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a> and are expected to dedicate 240 days a year to their role <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. This includes being present during Champions Cup tournaments at the grounds <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a> and spending at least six days a month at high-performance centers when tournaments are not active <a class="yt-timestamp" data-t="00:17:44">[00:17:44]</a>. The commitment is considered a "24/7 job" for the professional athletes they are working with <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
+
+### Mentor Background and Authority
+Five mentors have been hired, and four of them — Younis Khan, Misbah-ul-Haq, Shoaib Malik, and Sarfaraz Ahmed — have captained the Pakistan cricket team <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>, <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. They have been given significant authority, including the power to select their own staff, which comprises spin bowling coaches, fast bowling coaches, physios, trainers, and head coaches <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>, <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
+
+## Core Responsibilities and [[professionalism_and_player_development_in_pakistan | Player Development]]
+The mentors' primary responsibility is to groom players and instill [[professionalism_in_cricket | professionalism]], providing them with the best facilities to improve both their skills and overall approach to the game <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>, <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>.
+
+Key tasks include:
+*   **Comprehensive Grooming**: Beyond just improving skill, mentors guide players on recovery from games, managing back-to-back matches, and maintaining consistency <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>, <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>.
+*   **Physical and Mental Conditioning**: This involves advising on diet plans, nutritionist plans, and overall training schedules <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>, <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>. The aim is to ensure players' bodies respond optimally for consistent performance <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+*   **Instilling Discipline**: Mentors emphasize that talent alone is insufficient for consistency; a disciplined life is crucial for a consistent athlete <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>, <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>.
+*   **Working with Various Teams**: The scope extends beyond the initially selected 30-35 players to include women's U19 and men's U19 teams, focusing on long-term [[player_development_in_pakistan | player development]] <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>, <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>.
+
+## Addressing Structural Issues and Continuity
+The PCB's frequent changes in leadership and domestic [[structure_and_governance_of_pakistan_cricket | structures]] have historically hampered consistency <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>, <a class="yt-timestamp" data-t="00:18:08">[00:18:08]</a>. The new system aims to combat this by:
+*   **Champion Tournaments**: These tournaments are designed to bridge the skill and [[professionalism_in_cricket | professionalism]] gap between domestic and national cricketers <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>, <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>.
+*   **Reduced Domestic Cricket Workload**: Recognizing the need for rest and time for personal development, the PCB plans to reduce the number of domestic tournaments from next year <a class="yt-timestamp" data-t="00:16:08">[00:16:08]</a>, <a class="yt-timestamp" data-t="00:22:03">[00:22:03]</a>. This provides players with essential recovery time and opportunities for off-field improvement <a class="yt-timestamp" data-t="00:16:13">[00:16:13]</a>.
+*   **Clarity and Communication**: Mentors emphasize the need for clear communication and continuity in plans for at least a few years to see results <a class="yt-timestamp" data-t="00:20:47">[00:20:47]</a>, <a class="yt-timestamp" data-t="00:21:02">[00:21:02]</a>.
+*   **Reporting Structure**: Mentors report to a newly hired director at the PCB, providing a clear point of contact for operational needs <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>, <a class="yt-timestamp" data-t="00:40:06">[00:40:06]</a>. The chairman also maintains direct access and communication with players <a class="yt-timestamp" data-t="00:19:35">[00:19:35]</a>.
+
+## Player Selection and Development Pathways
+The new system seeks to shift player selection emphasis from primarily T20 cricket to longer formats like four-day and one-day cricket <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a>, <a class="yt-timestamp" data-t="00:23:06">[00:23:06]</a>. This is because longer formats expose players to diverse game situations (favorable, even, and momentum against) that better prepare them for higher-level competition <a class="yt-timestamp" data-t="00:23:56">[00:23:56]</a>, <a class="yt-timestamp" data-t="00:24:19">[00:24:19]</a>.
+
+### Role of International Experience and NOCs
+Shoaib Malik's own career highlighted the benefits of playing in various leagues worldwide for professional development, including learning life skills like doing laundry and interacting with different cultures <a class="yt-timestamp" data-t="00:28:20">[00:28:20]</a>, <a class="yt-timestamp" data-t="00:28:39">[00:28:39]</a>. The PCB is working to balance player earnings and development in international leagues with national commitments and workload management <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>, <a class="yt-timestamp" data-t="00:32:01">[00:32:01]</a>. The aim is for greater clarity regarding NOCs (No Objection Certificates) for players to participate in foreign leagues during free windows <a class="yt-timestamp" data-t="00:31:53">[00:31:53]</a>.
+
+### Strategic Player Rotation
+Malik has suggested to head coach Gary Kirsten that when touring stronger teams (like Australia, New Zealand, South Africa, England, India), Pakistan should field its best team <a class="yt-timestamp" data-t="00:41:30">[00:41:30]</a>. However, when playing against relatively smaller sides or in home series, a mix of senior and newcomer players should be utilized to provide international exposure and manage the workload of key players, especially fast bowlers <a class="yt-timestamp" data-t="00:41:51">[00:41:51]</a>, <a class="yt-timestamp" data-t="00:42:08">[00:42:08]</a>.
+
+## Babar Azam's Case Study
+Shoaib Malik discussed his coaching interaction with Babar Azam, a top performer who consistently scores runs globally <a class="yt-timestamp" data-t="00:43:02">[00:43:02]</a>. Malik offered specific tactical advice:
+*   **Stance against Spin**: Suggested changing his guard from middle stump to leg stump against spinners. This helps eliminate the leg-before-wicket (LBW) element and allows for straighter shots against left-arm spinners <a class="yt-timestamp" data-t="00:43:36">[00:43:36]</a>, <a class="yt-timestamp" data-t="00:44:08">[00:44:08]</a>, <a class="yt-timestamp" data-t="00:46:10">[00:46:10]</a>.
+*   **Back Leg Movement against Pace**: Advised on improving back leg movement when playing off the back foot against bowlers exceeding 140 km/h, as he was previously trying to manage everything on the front foot <a class="yt-timestamp" data-t="00:44:35">[00:44:35]</a>, <a class="yt-timestamp" data-t="00:44:58">[00:44:58]</a>.
+
+Malik emphasizes that the credit for implementing these changes belongs to Babar Azam himself, as he practiced and adapted them <a class="yt-timestamp" data-t="00:47:00">[00:47:00]</a>. This highlights the continuous learning process even for established professionals <a class="yt-timestamp" data-t="00:47:27">[00:47:27]</a>. Following his resignation from white-ball captaincy, there's an expectation that Babar Azam, now free of additional pressure, will be able to focus solely on his batting and consistently win games for Pakistan <a class="yt-timestamp" data-t="00:48:54">[00:48:54]</a>, <a class="yt-timestamp" data-t="00:49:01">[00:49:01]</a>.
+
+## Conclusion
+The mentor program represents a significant shift in [[pakistans_cricket_strategy_and_performance_issues | Pakistan's cricket strategy]], aiming to foster a culture of [[professionalism_in_cricket | professionalism]] and consistency from the grassroots to the national level <a class="yt-timestamp" data-t="00:12:10">[00:12:10]</a>, <a class="yt-timestamp" data-t="00:37:42">[00:37:42]</a>. By empowering experienced cricketers in key developmental roles and implementing clear structures, the PCB hopes to bring sustained success to Pakistan cricket <a class="yt-timestamp" data-t="00:19:52">[00:19:52]</a>, <a class="yt-timestamp" data-t="00:38:02">[00:38:02]</a>.

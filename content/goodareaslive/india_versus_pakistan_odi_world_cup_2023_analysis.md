@@ -1,0 +1,50 @@
+---
+title: India versus Pakistan ODI World Cup 2023 analysis
+videoId: j4aAoQc3pUU
+---
+
+From: [[goodareaslive]] <br/> 
+
+The [[Cricket World Cup 2023 analysis | World Cup]] match between [[India vs Pakistan match analysis | India]] and [[India vs Pakistan match analysis | Pakistan]] was described as "all a bit crap" and "not quite a proper game" due to its one-sided nature <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. After Pakistan's initial strong start, their collapse effectively ended the contest <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. [[India]] remains unbeaten against [[India vs Pakistan match analysis | Pakistan]] in this tournament, securing their first (or eighth) loss depending on how one looks at it <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
+
+## Pakistan's Collapse
+The game fundamentally changed around the 30-over mark when [[India vs Pakistan match analysis | Pakistan]] was 155 for two, with two set batsmen <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. The collapse was characterized by misjudgments rather than over-attacking or exceptional bowling pressure <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+*   **First Wicket**: A wrong shot, possibly due to the ball keeping low, from a batsman trying to get a single <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+*   **Second Wicket (Saud Shakeel)**: A misjudgment where the ball skidded on, despite most balls having done so already <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
+*   **Pure Bad Luck**: A ball dragged back onto the stumps, despite being outside leg and not expected to spin <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
+*   **Brilliant Ball**: A sweep shot led to a player getting bowled on his stumps, a moment that indicated 250 runs were no longer achievable for Pakistan <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+*   **Mohammad Nawaz**: Batting with the tail, he made a mistake and went too hard <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
+
+The collapse was described as "me collapse" <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>, meaning it wasn't primarily caused by over-attacking or consistently great bowling, though some good deliveries were bowled, notably by Jasprit Bumrah <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>. The pitch itself had very little in it for bowling <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>, making the collapse when not under pressure, behind the rate, or facing significant swing/reverse swing, particularly poor <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
+
+## India's Player Performance
+### Siraj
+Siraj conceded 12 runs in his first over but pulled back his length well, conceding only 15 runs in the next four overs and taking Abdullah Shafique's wicket <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. India's strategy seems to be pushing him to bowl very full and chase wickets, even if his economy rate balloons <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. This approach makes him bowl more loose balls <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. Indian bowlers, including Bumrah, Kuldeep, and Jadeja, are very good at hitting the stumps and getting LBWs, an "Asian style of things" <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>. The wicket, keeping a little low and inconsistently, might have aided this particular bowling attack <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+
+### Jasprit Bumrah
+Bumrah's off-cutters are highlighted, particularly his delivery to Rizwan, which is described as a "ridiculously high quality delivery" <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>. This ball acted like an off-spinner but at 80 mph <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. It pitched outside off-stump but came back in, hitting the top of off-stump, which is considered a "juicy bit" <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. This is seen as his third great off-cutter, following deliveries to Shaun Marsh (known for dip) and Ollie Robinson (known for angles), with this one excelling in rip and placement <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.
+
+### Kuldeep Yadav
+Kuldeep Yadav has an "extraordinary low average" against [[India vs Pakistan match analysis | Pakistan]], having picked up 12 wickets in six games against them <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. These matches have been in significant tournaments like the Asia Cup or [[Cricket World Cup 2023 analysis | World Cup]] <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>. He is a left-arm wrist spinner, a type of bowler whose actions can be more flawed and careers sometimes tail off after strong starts <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>. Kuldeep went through a similar phase but is now considered "better... than when no one could play him the first time," and is "absolutely world class" <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>.
+
+### All-Rounders: Ravindra Jadeja & Hardik Pandya
+Jadeja and Hardik Pandya combined to bowl 15.5 overs and took four for 72 runs <a class="yt-timestamp" data-t="00:12:25">[00:12:25]</a>. No other team in the [[Cricket World Cup 2023 analysis | World Cup]] has a sixth bowler as strong as Hardik Pandya <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>, and few outside of [[India vs South Africa ODI analysis | South Africa]] have a fifth bowler as strong as Ravindra Jadeja <a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a>. This combination is highly underrated and makes it "very hard to find a floor" with the [[India]]n team <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>.
+
+### Team India's Strength
+[[India]] possesses an "incredible team" with depth <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>. They can pick between players like Mohammed Shami, Ashwin, and Shardul Thakur for their 11th player, and have backup batsmen like Ishan Kishan <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>. Their selection strategy, prioritizing batting depth over an extra frontline bowler like Mohammed Shami or Ashwin (as seen with Shardul playing to bolster batting at number eight), is based on wanting batters to play aggressively without fearing a lack of batting support <a class="yt-timestamp" data-t="00:22:56">[00:22:56]</a>.
+
+## Pakistan's Performance
+### Babar Azam
+Babar Azam has struggled since the Asia Cup, but his innings in this match was good <a class="yt-timestamp" data-t="00:14:18">[00:14:18]</a>. He averages 50 away from home in ODIs <a class="yt-timestamp" data-t="00:14:25">[00:14:25]</a>. Despite playing the wrong shot, his dismissal was to a very good, fast ball that skidded on <a class="yt-timestamp" data-t="00:14:37">[00:14:37]</a>. Babar looked like himself again <a class="yt-timestamp" data-t="00:14:52">[00:14:52]</a>. His partnership with Mohammad Rizwan is ideally suited for One Day International cricket <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>.
+
+### Pakistan's Bowling
+[[India vs Pakistan match analysis | Pakistan]]'s economy rate in the [[Cricket World Cup 2023 analysis | World Cup]] is seen as acceptable because they usually take wickets <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>. However, they did not look like taking wickets in this match <a class="yt-timestamp" data-t="00:16:49">[00:16:49]</a>. Their bowlers struggled when the ball didn't swing for Shaheen Shah Afridi or wobble for Hassan Ali <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>.
+*   **Haris Rauf**: Appears lost early on and probably needs the ball to be older <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>.
+*   **Hassan Ali**: Needs the ball to seam even slightly <a class="yt-timestamp" data-t="00:17:56">[00:17:56]</a>. If his wobble ball doesn't move off the straight, he struggles <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>.
+*   **Shaheen Shah Afridi**: Doesn't look 100% and lacks his usual energy <a class="yt-timestamp" data-t="00:18:14">[00:18:14]</a>. He's described as a "one-dimensional bowler" despite his quality, primarily relying on over and around the wicket <a class="yt-timestamp" data-t="00:28:34">[00:28:34]</a>.
+*   **Naseem Shah**: His absence significantly weakens the attack <a class="yt-timestamp" data-t="00:18:44">[00:18:44]</a>; if he were the third bowler, [[India vs Pakistan match analysis | Pakistan]] would have had a chance <a class="yt-timestamp" data-t="00:18:54">[00:18:54]</a>.
+
+[[India vs Pakistan match analysis | Pakistan]]'s bowling attack lacks diverse strike capabilities compared to other teams <a class="yt-timestamp" data-t="00:19:19">[00:19:19]</a>. This means their batters must score above par because the bowlers are not considered good enough <a class="yt-timestamp" data-t="00:19:31">[00:19:31]</a>. Historically, the best [[India vs Pakistan match analysis | Pakistan]] teams had batters scoring par, and bowlers making that score seem ridiculously hard <a class="yt-timestamp" data-t="00:19:38">[00:19:38]</a>.
+
+### Reverse Swing
+The match featured discussions on reverse swing. While reverse swing is seen in T20 and ODI games, it's not as prevalent as it used to be <a class="yt-timestamp" data-t="00:25:33">[00:25:33]</a>. Factors contributing to this include COVID restrictions, the rise of wobble ball bowling (which prioritizes keeping the ball's seam intact rather than roughing it up for reverse swing), and bowler preference for cross-seam deliveries <a class="yt-timestamp" data-t="00:25:37">[00:25:37]</a>. The lack of investment in fixing cricket balls is cited as an "unintended consequence" for the sport <a class="yt-timestamp" data-t="00:26:53">[00:26:53]</a>.

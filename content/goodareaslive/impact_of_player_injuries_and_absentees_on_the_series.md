@@ -1,0 +1,27 @@
+---
+title: Impact of player injuries and absentees on the series
+videoId: ADDh0lQB_u8
+---
+
+From: [[goodareaslive]] <br/> 
+## Impact of Player Injuries and Absences on the Border-Gavaskar Trophy Series
+
+The Border-Gavaskar Trophy series is significantly impacted by [[impact_of_player_injuries_on_team_performance_in_world_cups | player injuries]] and absences on both sides, creating uncertainty and affecting team balance <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. Historically, some Indian sides have performed well against Australia even with suspended or [[impact_of_player_injuries_on_team_performance_in_world_cups | injured players]] <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
+
+### Impact on Australia
+
+Australia faces a major challenge due to the absence of key players, particularly all-rounders:
+*   **Cameron Green's Absence** - Cameron Green, a pace-bowling all-rounder, is unavailable <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. His absence, especially given he was batting at number four, disrupts Australia's balance and necessitates a batting order reshuffle <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. Steve Smith has moved back to number four, and Nathan McSweeney, typically a middle-order batsman, will open <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. McSweeney's selection as an opener is a "stop-gap solution" and a risk, as he is not a natural opener <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>.
+*   **Lack of Bowling All-Rounders** - The team lacks a strong bowling all-rounder, as Mitch Marsh has just returned from injury and may not bowl extensively, and Aaron Hardy is not in the side <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>. This means Australia's four main bowlers (Pat Cummins, Mitchell Starc, Josh Hazlewood, and Nathan Lyon) will have to bowl a high volume of overs <a class="yt-timestamp" data-t="00:20:56">[00:20:56]</a>. Tiring out Australia's main bowlers, which was easier in previous series, might be difficult with the current Indian side <a class="yt-timestamp" data-t="00:22:12">[00:22:12]</a>.
+
+### Impact on India
+
+India's team is also grappling with significant [[impact_of_indias_injuries_and_player_absences_on_the_test_series | injuries and player absences]]:
+*   **Captain and Opener Absences** - Captain Rohit Sharma is unavailable for the first Test in Perth due to the birth of his child <a class="yt-timestamp" data-t="00:26:06">[00:26:06]</a>. Shubman Gill, who was averaging 47.4 this calendar year at first drop, fractured his left thumb in the nets and is also unavailable <a class="yt-timestamp" data-t="00:26:13">[00:26:13]</a>. The absence of the captain and a key opener in the first Test, particularly against the pink ball in Adelaide where Mitchell Starc is devastating, could be crucial <a class="yt-timestamp" data-t="00:26:38">[00:26:38]</a>.
+*   **Bowling Concerns** - Mohammed Shami will not be available for at least the first couple of Tests <a class="yt-timestamp" data-t="00:26:32">[00:26:32]</a>. His absence is a "huge issue" <a class="yt-timestamp" data-t="00:46:48">[00:46:48]</a>. The team lacks faith in their bowlers, especially without Jasprit Bumrah's peak performance <a class="yt-timestamp" data-t="00:25:06">[00:25:06]</a>. It's challenging for India to win in Australia with only one trusted seam bowler <a class="yt-timestamp" data-t="00:24:47">[00:24:47]</a>. Kuldeep Yadav is either out of favor, injured, or missing <a class="yt-timestamp" data-t="00:21:09">[00:21:09]</a>, and the non-selection of Hardik Pandya is seen as a mistake due to the flexibility he offers <a class="yt-timestamp" data-t="00:21:08">[00:21:08]</a>.
+*   **Batting Lineup Uncertainty** - India is undecided on a number six batter, with options like Sarfaraz Khan, KL Rahul, and Dhruv Jurel <a class="yt-timestamp" data-t="00:26:25">[00:26:25]</a>. The potential need for Dhruv Jurel to play as a specialist bat at six highlights the batting issues <a class="yt-timestamp" data-t="00:30:04">[00:30:04]</a>. Devdutt Padikkal is also with the squad and could potentially bat at number three <a class="yt-timestamp" data-t="00:34:08">[00:34:08]</a>.
+*   **Past Players' Absence** - The current Indian team may miss players like Cheteshwar Pujara or Hanuma Vihari, whose role was to tire out the Australian pace attack <a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>. However, modern Australian pitches make it difficult to stay in and bat for long periods <a class="yt-timestamp" data-t="00:33:38">[00:33:38]</a>.
+
+### Overall Series Impact
+
+The number of injuries and absences on both sides means that "luck goes with the home side" <a class="yt-timestamp" data-t="00:23:22">[00:23:22]</a>. The series will be a stern test of [[impact_player_form_and_injuries_in_ipl | player form]], skill, and temperament, with fitness playing a crucial role, especially in a five-Test series <a class="yt-timestamp" data-t="00:23:56">[00:23:56]</a>. If Jasprit Bumrah plays a lot and performs as the best bowler, India has a better chance <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>. Australia has more cover for their main bowlers' fitness than India does for Bumrah <a class="yt-timestamp" data-t="00:24:22">[00:24:22]</a>. The initial matches in Perth and Adelaide, known for their seam-friendly conditions, will be particularly challenging for India given their current squad issues <a class="yt-timestamp" data-t="00:26:38">[00:26:38]</a>.
