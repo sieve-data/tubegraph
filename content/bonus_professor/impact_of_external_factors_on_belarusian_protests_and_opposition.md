@@ -1,0 +1,37 @@
+---
+title: Impact of external factors on Belarusian protests and opposition
+videoId: bZv6B6mVrm0
+---
+
+From: [[bonus_professor]] <br/> 
+
+The ongoing [[protests_in_russia_and_belarus | unrest]] and "revolution" in Belarus are heavily influenced by external factors, primarily Russia's strategic interests, while other international actors play a less decisive role <a class="yt-timestamp" data-t="00:02:47"></a>. The situation is marked by a high degree of uncertainty regarding how events will unfold <a class="yt-timestamp" data-t="00:00:43"></a>.
+
+## The Belarusian Revolution and Proposed Compromise
+
+The events in Belarus, which began after the presidential elections, are now characterized as a revolution, not just unrest <a class="yt-timestamp" data-t="00:00:47"></a>. Many European countries, including Ukraine, have not recognized the election results, and Ukraine did not officially congratulate [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] on his victory <a class="yt-timestamp" data-t="00:00:30"></a>.
+
+Despite the intensity, the "impulse of Belarusians" is considered insufficient to overthrow [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] and achieve a decisive victory <a class="yt-timestamp" data-t="00:00:56"></a>. As such, a compromise is likely to emerge <a class="yt-timestamp" data-t="00:01:01"></a>. This compromise was reportedly discussed during telephone conversations between Putin and [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] <a class="yt-timestamp" data-t="00:01:07"></a>.
+
+> [!INFO] Proposed Compromise Formula
+> The proposed compromise suggests that [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] would remain President of Belarus for no more than a year <a class="yt-timestamp" data-t="00:01:15"></a>. After this period, he would announce [[lukashenko_and_early_presidential_elections_in_belarus | early presidential elections]] once a new constitution is adopted <a class="yt-timestamp" data-t="00:01:20"></a>. During this transitional period, [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] would be required to sign a new union treaty with Russia <a class="yt-timestamp" data-t="00:01:27"></a>. For the [[lukashenko_and_early_presidential_elections_in_belarus | early presidential elections]], [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] would not run, and Babariko, considered a candidate by Moscow, would emerge <a class="yt-timestamp" data-t="00:01:34"></a>. This arrangement would grant Belarus a new, non-authoritarian president while allowing Russia to gain control over Belarus <a class="yt-timestamp" data-t="00:01:42"></a>. [[lukashenko_and_early_presidential_in_belarus | Lukashenko]] himself would move to Moscow to become a secretary of the State Council, a new body planned for creation in Russia <a class="yt-timestamp" data-t="00:01:50"></a>.
+
+In a scenario of "very strong pressure" on [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]], there's an option for early elections to be held sooner, potentially even this year, but with the same predetermined results <a class="yt-timestamp" data-t="00:02:04"></a>. Putin's statement about preparing reserves to assist [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] is seen as a tactic to compel the Belarusian opposition and society to negotiate this compromise <a class="yt-timestamp" data-t="00:02:21"></a>.
+
+## Russian Influence and Strategic Aims
+
+Russia is identified as the primary external actor with a key impact on the dynamics of events in Belarus <a class="yt-timestamp" data-t="00:03:43"></a>. Putin's public statements about having reserves ready and [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]]'s request for assistance are interpreted as a warning or rhetorical figure, rather than an intent to use force <a class="yt-timestamp" data-t="00:04:14"></a>. Neither Putin nor [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] desires the use of force, as it would severely damage [[russian_political_dynamics_and_influence_in_belarus | relations between Russians and Belarusians]], similar to how they were poisoned between Russians and Ukrainians <a class="yt-timestamp" data-t="00:04:23"></a>.
+
+Before the Navalny poisoning, Merkel was informed by Putin that Russia had no intention of introducing armed forces into Belarus <a class="yt-timestamp" data-t="00:04:39"></a>. The "reserves" Putin mentioned are understood to consist of Rosgvardia (National Guard) and OMON (Special Purpose Mobile Unit) forces <a class="yt-timestamp" data-t="00:04:53"></a>. Approximately 200-300 Rosgvardia personnel, predominantly former Ukrainian Berkut fighters who fled in 2014, are currently present in Belarus <a class="yt-timestamp" data-t="00:04:58"></a>.
+
+There is speculation that if [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] becomes an "insurmountable obstacle" to Russian control over Belarus, he could face severe consequences, including assassination <a class="yt-timestamp" data-t="00:05:37"></a>. However, [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] himself states he will never voluntarily leave his position, believing he was elected by his people <a class="yt-timestamp" data-t="00:05:25"></a>.
+
+## Role of Other External Actors
+
+While [[lukashenko_and_early_presidential_elections_in_belarus | Lukashenko]] claims an external factor influences the rallies, the primary external influence is Russia <a class="yt-timestamp" data-t="00:02:40"></a>. There is an external factor, though not of primary importance, in the form of a Warsaw-based group of American political technology consultants attempting to assist the opposition <a class="yt-timestamp" data-t="00:02:55"></a>. However, their role is not decisive, and it's not accurate to claim the Belarusian revolution was provoked solely from the outside <a class="yt-timestamp" data-t="00:03:08"></a>. This is analogous to the Ukrainian Revolution of Dignity, which was not externally provoked by Americans or the European Union, as the EU even sought compromise with Yanukovych <a class="yt-timestamp" data-t="00:03:15"></a>.
+
+## Future Implications for Belarusian Sovereignty
+
+If Belarus signs the proposed union treaty, it is projected to lose 95% of its national powers to the union state, effectively becoming a "western province of the [[russian_political_dynamics_and_influence_in_belarus | Russian Federation]]" <a class="yt-timestamp" data-t="00:06:06"></a>.
+
+The future of Belarus, along with Ukraine and Russia, is seen as being shaped by an impending powerful and radical [[russian_political_climate_and_opposition_risks | political crisis]] within the [[russian_political_dynamics_and_influence_in_belarus | Russian Federation]] <a class="yt-timestamp" data-t="00:09:16"></a>. This crisis is expected to alter the nature of relations between Russia and its neighbors <a class="yt-timestamp" data-t="00:09:27"></a>. Essentially, Russia will be preoccupied with internal issues, necessitating a new leadership, agenda, and style of relations <a class="yt-timestamp" data-t="00:09:34"></a>.

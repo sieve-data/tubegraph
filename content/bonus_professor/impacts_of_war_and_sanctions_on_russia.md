@@ -1,0 +1,73 @@
+---
+title: Impacts of war and sanctions on Russia
+videoId: Znt3LwGJn2c
+---
+
+From: [[bonus_professor]] <br/> 
+
+On March 4th, 2022, a live stream titled "The Last Chance for the Oligarchs" discussed the profound impacts of the ongoing war and international sanctions on Russia, its economy, society, and political elite. Speakers included Mark Feigin and Valery Solovey. <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>
+
+## Impact on Russian Oligarchy
+
+### Western Sanctions and Targets
+The Russian oligarchy has been significantly squeezed by international sanctions <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. The USA included most main figures in its sanctions lists, including Usmanov, Mordashov, and members of Putin's inner circle like Temchenko and Timchenko <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. The European list also included many of these figures <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
+
+<a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>
+> [!NOTE] Differentiated Approach
+> A "differentiated approach" has been observed in the application of sanctions <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>. Some oligarchs, particularly those from the "old school" or "7 Yeltsin" era who were instrumental in Putin's rule, like Roman Abramovich, have been given some leeway <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. For instance, not all of Usmanov's companies or assets were immediately frozen by American sanctions <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. Abramovich, who was not formally sanctioned, was offered the option to sell assets and avoid travel to London <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. Others, like Alfa Group's Aven, were unable to resolve their travel issues <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+
+> [!INFO] Putin's View on Oligarchs
+> Vladimir Putin is believed to derive "huge aesthetic emotional pleasure" from watching these "beneficiaries of the regime" writhe in agony under sanctions <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. These individuals, who gained from the regime, are seen as having committed "any crime" for their wealth <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
+
+### Oligarchs' Influence (or lack thereof)
+The West's intention with these sanctions is to compel oligarchs to influence the situation in Russia, specifically regarding Putin and the war in Ukraine <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. Abramovich, for example, publicly stated his indirect involvement in negotiation attempts between Moscow and Kyiv, likely as a cover to avoid sanctions <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
+
+However, many oligarchs, especially those not considered part of Putin's immediate inner circle (e.g., Usmanov, Abramovich, Sobyanin), have lost direct access and influence over the president in the last two years <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. Putin communicates with a limited number of people, primarily those in the first category of sanctioned individuals like Kovalchuk, Rotenberg, and Timchenko <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>.
+
+There is a "non-aggression pact" between the old elite and the government: the elite does not attack, finance the opposition, or engage in political interference, and in return, the "Chekists" (security services) and Putin do not target them <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>. Due to their limited access and influence, the idea that oligarchs could incite generals or the General Staff to stop Putin is considered "completely noticeable" and unlikely <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>. Putin's security apparatus is too strong to allow such penetration <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+
+The most oligarchs can currently do is offer charitable assistance, such as Abramovich's promise to transfer money from the sale of his British assets to a Ukraine recovery fund <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>. Statements from companies like Lukoil and individuals like Deripaska are seen as "the voice of many" among the elite, but are not expected to lead to significant action <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>.
+
+Even with immense pressure, oligarchs are "helpless" in political terms and in applying political technologies <a class="yt-timestamp" data-t="00:22:19">[00:22:19]</a>. The West's actions are seen as working for the future, aiming to increase pressure not just on oligarchs but potentially on officials and their families, even those with dual citizenship or assets abroad <a class="yt-timestamp" data-t="00:22:48">[00:22:48]</a>. Sanctions are expected to spread "both in breadth and in depth," targeting new groups and family relations <a class="yt-timestamp" data-t="00:24:12">[00:24:12]</a>.
+
+## Economic Impacts of Sanctions
+The international sanctions are seen as an "economic war" on Russia <a class="yt-timestamp" data-t="00:27:27">[00:27:27]</a>. Putin understands this and is preparing an "asymmetric response," including putting nuclear forces on high alert <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>.
+
+### Consumer Goods and Services
+Russia will face severe problems with the provision of medicines due to interruptions in logistics and lack of imported consumables <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a>. There will be issues with medical equipment like ultrasound and MRI machines, as well as a lack of basic consumables <a class="yt-timestamp" data-t="00:15:11">[00:15:11]</a>. People accustomed to readily available medicines, if they have money, will find them scarce <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>. This extends to other areas, leading to a widespread "deficit" – a term a generation growing up under Putin will now experience <a class="yt-timestamp" data-t="00:16:33">[00:16:33]</a>. While basic necessities like clothes and shoes might be supplied by China, specific desired items will be unavailable <a class="yt-timestamp" data-t="00:16:52">[00:16:52]</a>.
+
+### Inflation and Financial System
+Banks have raised deposit rates significantly (e.g., 21% on ruble deposits), which implies an expected inflation rate of 50-60% <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a>. This indicates that the 1990s-style economic chaos, which propaganda had conjured as a fear, is approaching, with people feeling the full impact by summer <a class="yt-timestamp" data-t="00:20:15">[00:20:15]</a>.
+
+### Unemployment and Labor
+Mass unemployment is anticipated <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>. To address this, the introduction of "labor service" or "labor armies" is not excluded, alongside a "distributive nature of the economy" <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>. This could include elements of "bra-cyanization" (a term possibly referring to forced labor or collectivization) if food shortages arise <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>.
+
+## Social and Political Impacts
+
+### Propaganda and Public Opinion
+Despite the unfolding crisis, state propaganda is seen as "working" <a class="yt-timestamp" data-t="00:26:23">[00:26:23]</a>. Claims that 70% of the population supports the war are deemed unreliable due to the short survey period and people giving "socially approved answers" <a class="yt-timestamp" data-t="00:26:30">[00:26:30]</a>. People are reluctant to acknowledge or believe information that is "unacceptable" to them, choosing to turn away from harsh realities <a class="yt-timestamp" data-t="00:31:57">[00:31:57]</a>.
+
+The number of war deaths, though significantly higher than officially admitted, is not openly discussed or fully understood by the public <a class="yt-timestamp" data-t="00:28:21">[00:28:21]</a>. While some believe the public is too downtrodden to react even to the death of a loved one, others argue that mass casualties will eventually cause a reaction <a class="yt-timestamp" data-t="00:29:04">[00:29:04]</a>. The government's strategy is to hide and "smear" these statistics to make them less noticeable <a class="yt-timestamp" data-t="00:31:43">[00:31:43]</a>. Compensation packages of 7 million rubles for the dead and 3 million for the wounded are offered, which is expected to "shut up many people" for a time <a class="yt-timestamp" data-t="00:32:14">[00:32:14]</a>.
+
+### Information Control and Media Landscape
+Independent media outlets in Russia have disappeared, and while they never were fully independent, they offered an alternative viewpoint <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. Now, no one dares to speak out against the government, even public opinion leaders <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>. Attempts by opposition figures like Navalny to call for street protests are ineffective due to omnipresent police presence and lack of organizational means <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>.
+
+The government is actively blocking Western social media platforms like Facebook and Twitter, and is working to block YouTube <a class="yt-timestamp" data-t="00:36:11">[00:36:11]</a>. Citizens are advised to install VPNs to access alternative information sources <a class="yt-timestamp" data-t="00:36:27">[00:36:27]</a>. It is anticipated that the Internet will be further restricted, possibly leading to a "closed" intranet <a class="yt-timestamp" data-t="00:39:35">[00:39:35]</a>.
+
+### Population Movement and Restrictions
+A ban on leaving the country is anticipated, with work already underway to implement it <a class="yt-timestamp" data-t="00:38:09">[00:38:09]</a>. Border service and FSB operatives are questioning people at airports, checking phones for social media activity, and asking about reasons for travel <a class="yt-timestamp" data-t="00:38:20">[00:38:20]</a>. This could evolve into exit visas and interviews <a class="yt-timestamp" data-t="00:38:53">[00:38:53]</a>. A significant number of young people, especially those of draft age and in intelligent professions, are trying to leave Russia, with flights to Turkey and Kazakhstan being popular <a class="yt-timestamp" data-t="00:40:29">[00:40:29]</a>. There have been reports of up to half of male students disappearing from elite Moscow educational institutions in a week <a class="yt-timestamp" data-t="00:41:44">[00:41:44]</a>. Restrictions on taking more than $10,000 out of the country are also in place <a class="yt-timestamp" data-t="00:42:46">[00:42:46]</a>.
+
+### Repression and Loyalty
+The government is expected to target "disloyal" individuals, including bloggers and cultural figures, as well as those who refuse to "glorify great feats" <a class="yt-timestamp" data-t="00:47:18">[00:47:18]</a>. Importantly, mass groups, especially Putin's majority, will also be subjected to repression to intimidate them and ensure "total loyalty" <a class="yt-timestamp" data-t="00:47:43">[00:47:43]</a>. This includes punishing people for "jokes" or perceived dissatisfaction with rising prices, and accusing them of inflating <a class="yt-timestamp" data-t="00:49:00">[00:49:00]</a>. This will involve re-implementing "old practices of Russian Soviet" eras, where innocent people could be punished <a class="yt-timestamp" data-t="00:50:51">[00:50:51]</a>.
+
+### Military Mobilization and Martial Law
+Russia is reportedly using 90% of its forces selected for the conflict in Ukraine, indicating dwindling reserves <a class="yt-timestamp" data-t="00:21:02">[00:21:02]</a>. This will necessitate the introduction of martial law, either fully or partially, and mobilization <a class="yt-timestamp" data-t="00:20:52">[00:20:52]</a>. Mobilization will also serve to occupy the growing number of unemployed individuals <a class="yt-timestamp" data-t="00:21:16">[00:21:16]</a>. The mobilization of hundreds of thousands of people will be very noticeable, with potential raids on young people in metro stations and cafes <a class="yt-timestamp" data-t="00:33:51">[00:33:51]</a>. This could involve forced conscription or assigning people to rear duties <a class="yt-timestamp" data-t="00:21:38">[00:21:38]</a>. Reports of draft dodgers will be used to incite public anger <a class="yt-timestamp" data-t="00:34:14">[00:34:14]</a>.
+
+## Geopolitical and Historical Outlook
+The outcome of the war and sanctions is expected to be a "broken trough" for Russia <a class="yt-timestamp" data-t="00:24:46">[00:24:46]</a>. While Russia was once 2% of the world's GDP, it could be reduced by half, an "unprecedented achievement" caused by its own actions <a class="yt-timestamp" data-t="00:25:02">[00:25:02]</a>. Even if Russia stops the escalation, Western countries have indicated that existing sanctions will not be lifted, only new ones will be prevented <a class="yt-timestamp" data-t="00:25:57">[00:25:57]</a>.
+
+## Underlying Motivations (Occult/Irrational)
+Some speculate that Putin's actions are driven by an "occult scenario" or irrational program rather than purely rational logic <a class="yt-timestamp" data-t="00:52:24">[00:52:24]</a>. While his internal logic might be "iron," its starting point could be irrational, a "mental state" described in textbooks <a class="yt-timestamp" data-t="00:53:11">[00:53:11]</a>. This includes reliance on "shamanic ritual" or advice from astrologers who "inspire" and tell him what he wants to hear <a class="yt-timestamp" data-t="00:53:29">[00:53:29]</a>. These "specialists" make calculations and claim "everything comes together," leading to a self-fulfilling prophecy <a class="yt-timestamp" data-t="00:54:06">[00:54:06]</a>.
+
+## Future Predictions
+It is predicted that the situation will not improve quickly, and a period of "hell" awaits both Ukraine and Russia <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>. The next few months, possibly until August, are expected to be "very scary," with conditions worsening <a class="yt-timestamp" data-t="00:54:53">[00:54:53]</a>. This period is referred to as a "second Caribbean" or nuclear missile crisis <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>. The "four horsemen of the apocalypse" are already moving towards each other in Russia <a class="yt-timestamp" data-t="00:35:55">[00:35:55]</a>. It is advisable for people to stay away from the "epicenter" where this "asphalt roller" is rolling <a class="yt-timestamp" data-t="00:43:53">[00:43:53]</a>.

@@ -1,0 +1,40 @@
+---
+title: Influence of media and public perception during conflict
+videoId: A8O-sgBE9mg
+---
+
+From: [[bonus_professor]] <br/> 
+
+The ongoing conflict between Russia and Ukraine is profoundly shaped by the [[impact_of_propaganda_and_media_sources_in_russia | influence of media]] and shifting [[russia_ukraine_conflict_and_public_opinion | public perception]], particularly within Russia itself <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. Legal limitations in the Russian Federation restrict public discourse, impacting how information is conveyed and received <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+
+## Media Narratives and Information Control
+The military situation is described as continuously worsening, a sentiment that resonates with a notable phrase implying a deteriorating situation <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. Despite official claims of "spectacular victory" in places like Soledar, the reality on the front lines is perceived as unfavorable by leadership, including President Putin <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+
+Western media, reportedly supported by Western intelligence services, widely discusses a probable upcoming offensive by Russian armed forces <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. Conversely, Ukraine is also preparing for an offensive, anticipating the arrival of tanks that are considered a "breakthrough weapon" <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>. While external observers may view the conflict as "extremely exciting," for Ukrainians and Russians, it is a "monstrous national tragedy" <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
+
+Yevgeny Prigozhin, a protégé of President Putin, gained significant [[influence_of_propaganda_and_delegitimization_of_power | political influence]] and controlled "significant media resources," creating a complex dynamic within the Russian elite <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>. His growing power and access to [[media_manipulation_and_political_narratives_in_russia | media influence]] eventually led to opposition from influential figures who viewed his strengthening as detrimental to the president <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+
+### Propaganda and Official Denials
+Rumors of a new stage of mobilization have been prevalent, though officially refuted by Kremlin press secretary Peskov, who labeled them "sabotage and provocations" <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>. Ironically, these rumors are perceived as being spread by the authorities themselves <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>. Contradictory information, such as the cancellation of deferments for fathers of many children and discussions about raising the conscription age to 30, suggests a "hidden form of mobilization" <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. The discussion also includes increasing the length of military service to two years, likely to be resolved positively by autumn 2023 <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
+
+The *Times* newspaper, described as a "respectable newspaper" by the speaker, reported on Russia preparing for a second stage of mobilization, potentially involving up to 2 million people, and an offensive <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. These reports are often cited as being based on information from MI6 <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>.
+
+## Public Perception and Societal Impact
+The ongoing conflict is poised for "decisive military events" in spring 2023, which are expected to determine the political and military outcome <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. Russia is relying on its demographic resource, aiming to mobilize more people into the army <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
+
+Within the Kremlin, "black humor" is prevalent, as evidenced by a popular joke regarding the fate of Nikita Mikhalkov versus the CSTO <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. This dark humor reflects a certain [[public_perception_and_criticism_of_government_and_who | public perception]] and internal sentiment regarding political and military stability. The speaker also references the apparent decline of the Collective Security Treaty Organization (CSTO), suggesting its fate depends heavily on the military dynamics of the spring <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>. A Russian defeat, whether crushing or moderate, would likely render the CSTO meaningless <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>.
+
+The preparation for mobilization and a prolonged confrontation indicates Russia's expectation of a long-term conflict <a class="yt-timestamp" data-t="00:12:32">[00:12:32]</a>. Economic challenges, such as falling oil prices and projected significant losses in foreign exchange earnings, will necessitate cuts in social and economic development expenses, with funding prioritized for the armed forces and security agencies <a class="yt-timestamp" data-t="00:13:23">[00:13:23]</a>. This shift in spending is likened to the historical concept of "guns instead of oil," implying that the populace will bear the financial burden <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>.
+
+### Unexplained Deaths and Public Speculation
+A series of "strange deaths" of prominent figures in Russia's defense industry has attracted public attention <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. These include:
+*   Pavel Kamenev (85), scientific director of Almaz-Antey and developer of Caliber missiles, died January 9 <a class="yt-timestamp" data-t="00:15:17">[00:15:17]</a>.
+*   Vladimir Nesterov (73), general director of the Khrunichev center and leader of heavy missile projects, died December 28 <a class="yt-timestamp" data-t="00:15:43">[00:15:43]</a>.
+*   Alexander Buzakov (66), general director of the Admiralty Shipyards and manufacturer of Caliber missiles, died December 24 <a class="yt-timestamp" data-t="00:16:08">[00:16:08]</a>.
+
+These three deaths within a short period, all involving individuals in defense design work, are presented as unlikely coincidences <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>. This aligns with a pattern of unexplained suicides or "strange deaths" among high-ranking officials and employees in the past year, information which is often suppressed but still reaches the public <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>.
+
+### Doubles and Political Theater
+There are also rumors concerning the Russian president's public appearances, specifically an alleged trip to Ufa <a class="yt-timestamp" data-t="00:17:23">[00:17:23]</a>. "Evil but very knowledgeable tongues" suggest that it was not the actual president but one of his "doubles" who attended the event <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>. This concept is likened to Akira Kurosawa's film *Kagemusha* (Shadow of the Warrior), where a double replaces a deceased prince <a class="yt-timestamp" data-t="00:18:02">[00:18:02]</a>. The historical practice of using doubles in medieval Japan and other countries is noted, implying that the use of political doubles is not unique to modern Russia <a class="yt-timestamp" data-t="00:18:57">[00:18:57]</a>.
+
+The speaker highlights the importance of public engagement and support, acknowledging financial contributions, and views financial support as crucial for an "foreign agent" in Russia, where the term is ironically seen as a "synonym for a patriot" due to the country's inverted reality <a class="yt-timestamp" data-t="00:21:14">[00:21:14]</a>. The year 2023 is presented as a potential turning point, offering a chance for citizens to "decisively influence our destiny" <a class="yt-timestamp" data-t="00:21:52">[00:21:52]</a>.

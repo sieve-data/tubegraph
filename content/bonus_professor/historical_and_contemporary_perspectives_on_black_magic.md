@@ -1,0 +1,50 @@
+---
+title: Historical and contemporary perspectives on black magic
+videoId: E6VM2JoM6jY
+---
+
+From: [[bonus_professor]] <br/> 
+
+Andrey Valerievich Kosmach, an expert in [[occultism_and_magical_practices_in_russia|occultism]] and magical practices, states that the popularity of so-called "black magic" is growing in modern Russia, particularly among the elite <a class="yt-timestamp" data-t="00:36:50">[00:36:50]</a>. This interest is believed to be recorded in "grimoires" and collections of ceremonial magic <a class="yt-timestamp" data-t="00:37:11">[00:37:11]</a>.
+
+## Historical Perspective on Black Magic
+
+Andrey Valerievich explains that "black magic" lacks historical roots and is not a conceptual product developed by powerful sorcerers <a class="yt-timestamp" data-t="00:37:38">[00:37:38]</a>. Instead, it is considered a "creative creation of the hands of the Holy Roman Inquisition" <a class="yt-timestamp" data-t="00:37:55">[00:37:55]</a>.
+
+### Grimoires: Authentic vs. Falsified
+
+Most known works belonging to the "black magic" segment have nothing to do with metaphysics and are not rooted in rationality <a class="yt-timestamp" data-t="00:38:05">[00:38:05]</a>. These "pseudo-works" are a figment of the imagination of inquisitor monks from the late Middle Ages <a class="yt-timestamp" data-t="00:38:21">[00:38:21]</a>.
+
+During this dark period, historical manuscripts were barbarically destroyed <a class="yt-timestamp" data-t="00:38:31">[00:38:31]</a>. In many cases, original writings were erased, and new texts were written over them—a process known as "scraping linay text"—which distorted the original meaning beyond recognition <a class="yt-timestamp" data-t="00:38:40">[00:38:40]</a>. The authentic texts were significant because they allowed entry into the realm of the irrational, describing how to change consciousness, space-time, and reality <a class="yt-timestamp" data-t="00:39:06">[00:39:06]</a>.
+
+Modern grimoires purchased, often at exorbitant prices by buyers from Russia, are skillfully concocted fakes <a class="yt-timestamp" data-t="00:39:37">[00:39:37]</a>. Original, authentic texts were burned as "classified freethinking," and their place was taken by "banal remakes" <a class="yt-timestamp" data-t="00:40:22">[00:40:22]</a>. These remakes were compiled within the Christian mythological tradition, serving the Christian ideological doctrine which needed a fictitious enemy to fight and regularly claim victory over <a class="yt-timestamp" data-t="00:40:55">[00:40:55]</a>.
+
+Genuine grimoires, used by 13 great [[occultism_and_magical_practices_in_russia|occult]] orders, are based on ancient rituals like the Minoan tract and collections from the Medici family <a class="yt-timestamp" data-t="00:41:16">[00:41:16]</a>. These genuine texts make no mention of the devil or demons <a class="yt-timestamp" data-t="00:44:07">[00:44:07]</a>. In contrast, pseudo-grimoires created within the Catholic Church are filled with descriptions of demons <a class="yt-timestamp" data-t="00:44:15">[00:44:15]</a>. Performing a single ritual using genuine grimoires often requires consulting two seemingly different grimoires <a class="yt-timestamp" data-t="00:43:08">[00:43:08]</a>. The authentic grimoires are completely inaccessible to the general public <a class="yt-timestamp" data-t="00:48:00">[00:48:00]</a>.
+
+### The "Cup of the Blind King"
+
+The "Cup of the Blind King" is identified as an authentic ritual from the collection of Giovanni di Bicci de' Medici <a class="yt-timestamp" data-t="01:09:11">[01:09:11]</a>. Its key attribute is a golden cup, and the ritual involves 33 text spells <a class="yt-timestamp" data-t="01:09:14">[01:09:14]</a>. The cup is filled with "anthropomorphic" (human) blood <a class="yt-timestamp" data-t="01:09:30">[01:09:30]</a>. At a certain point, the cup is placed on a hot surface with an open fire underneath, then cut in half, causing the contents to react violently on the hot surface <a class="yt-timestamp" data-t="01:09:55">[01:09:55]</a>. From these two parts, a "golden seal of death" is cast <a class="yt-timestamp" data-t="01:10:26">[01:10:26]</a>. The 33 spells are written on leather scrolls and are burned after the main ritual, with the resulting ash used to make the seal of death <a class="yt-timestamp" data-t="01:10:38">[01:10:38]</a>.
+
+This ritual is fundamentally immutable but allows for certain innovations that complicate its structure to counteract or anthropomorphize its consequences <a class="yt-timestamp" data-t="01:12:32">[01:12:32]</a>. The "Cup of the Blind King" ritual was performed on December 14, 2020, during a solar eclipse, in the Rio Negro province of Argentina <a class="yt-timestamp" data-t="01:11:52">[01:11:52]</a>. Two related variation rituals were also performed in Nepal and Mongolia <a class="yt-timestamp" data-t="01:12:11">[01:12:11]</a>.
+
+The implementation of this ritual is directly associated with the undermining of mental health and the emergence of "mental epidemics," ranging from induced disorders to the destruction of identity <a class="yt-timestamp" data-t="01:11:20">[01:11:20]</a>. Counter-rites are dangerous and would only strengthen its effects, similar to the continuous reappearance of Frida's scarf in Bulgakov's novel <a class="yt-timestamp" data-t="01:13:26">[01:13:26]</a>.
+
+## Modern Relevance in Russia
+
+The "pseudo-grimoires" are very popular among the Russian pseudo-establishment <a class="yt-timestamp" data-t="00:44:46">[00:44:46]</a>. The Russian elite shows a characteristic love for rituals oversaturated with "dream fate" and ceremonial theatricality <a class="yt-timestamp" data-t="00:44:51">[00:44:51]</a>. This criterion of theatricality makes these pseudo-rituals very popular in glamorous hotels <a class="yt-timestamp" data-t="00:45:12">[00:45:12]</a>.
+
+Examples include quasi-rituals of the Hermetic Order of the Golden Dawn, which are based on a supposedly authentic treatise by Hermes Trismegistus <a class="yt-timestamp" data-t="00:45:27">[00:45:27]</a>. However, this treatise is classified as a fake, written by a monk named Leonardo under Cardinal Giovanni's leadership <a class="yt-timestamp" data-t="00:46:02">[00:46:02]</a>. This means much of the modern diversity in these practices is insignificant and false <a class="yt-timestamp" data-t="00:46:29">[00:46:29]</a>.
+
+In contrast to faith, [[occultism_and_magical_practices_in_russia|occultism]] requires experimental confirmation of any ritual action, with validity determined by repeatability and consistent results <a class="yt-timestamp" data-t="00:46:38">[00:46:38]</a>. A study in the 1970s of all known and lesser-known rituals found that 97% were "empty and spoons" <a class="yt-timestamp" data-t="00:47:09">[00:47:09]</a>.
+
+The grimoires used by the modern Russian establishment are falsified <a class="yt-timestamp" data-t="00:47:49">[00:47:49]</a>. While these fakes might not be directly harmful, they can lead to the opposite of the desired result <a class="yt-timestamp" data-t="00:48:39">[00:48:39]</a>. The "pseudo-elite" resorts to inauthentic, atavistic "pseudo-grimoires" <a class="yt-timestamp" data-t="00:49:15">[00:49:15]</a>, resulting in a "certain eclectic mix" of different interpretations <a class="yt-timestamp" data-t="00:49:53">[00:49:53]</a>.
+
+A high-ranking Russian official justified his engagement in these rituals by stating that "Satanism for me [is] a tool of justification of the present and the prospect of the future" <a class="yt-timestamp" data-t="00:50:41">[00:50:41]</a>. This official, who also attends church, compared it to attending a CPSU party meeting—something one might not want to do but feels compelled to because "everyone does it" <a class="yt-timestamp" data-t="00:51:11">[00:51:11]</a>. This trend has existed in Europe for centuries but has only taken root in Russia for the past two decades <a class="yt-timestamp" data-t="00:51:36">[00:51:36]</a>.
+
+## Sociopolitical Implications
+
+The government's engagement with these practices creates a trend that other societal representatives begin to actively integrate into <a class="yt-timestamp" data-t="00:35:40">[00:35:40]</a>. The "authorities are satisfied with this process of communication with such pseudo shamans" because it provides a "placebo effect" that calms them <a class="yt-timestamp" data-t="00:34:23">[00:34:23]</a>. This is seen as a form of "self-deception" and "group psychotherapy" where leaders convince themselves they have the support of higher powers <a class="yt-timestamp" data-t="00:35:05">[00:35:05]</a>. Shamans, even if perceived as imposters, become instruments for "giving legitimacy to their own power claims" <a class="yt-timestamp" data-t="00:35:25">[00:35:25]</a>.
+
+The government also believes in shamans as protectors who can safeguard their regime from external influences and the "ungrateful taxable population" <a class="yt-timestamp" data-t="00:33:07">[00:33:07]</a>. This exemplifies the [[influence_of_occultism_on_political_figures|influence of occultism on political figures]] and the [[sociopolitical_implications_of_occult_beliefs|sociopolitical implications of occult beliefs]].
+
+In Paris, a guarded hall in the catacombs, called the "crystal sarcophagus," is used for masses dedicated to the demon Bael <a class="yt-timestamp" data-t="00:51:55">[00:51:55]</a>. The supreme minister of this cult is a hermaphrodite, and its adepts include titled aristocratic families, politicians, bankers, and industrialists from Europe and France <a class="yt-timestamp" data-t="00:52:25">[00:52:25]</a>. They firmly believe that visiting these places grants them special power <a class="yt-timestamp" data-t="00:52:47">[00:52:47]</a>. However, this practice does not provide real help; it is merely a "placebo" <a class="yt-timestamp" data-t="00:53:50">[00:53:50]</a>. This illustrates the [[philosophical_and_historical_reflections_on_societal_trends|philosophical and historical reflections on societal trends]] related to these practices.

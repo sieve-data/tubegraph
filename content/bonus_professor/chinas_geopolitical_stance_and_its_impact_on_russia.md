@@ -1,0 +1,23 @@
+---
+title: Chinas geopolitical stance and its impact on Russia
+videoId: sUjFz20kTFw
+---
+
+From: [[bonus_professor]] <br/> 
+
+Russia's Supreme Commander-in-Chief, Vladimir Putin, is reportedly hoping for support from [[russiachina_relations_and_influence | China]], referred to as Russia's "older brother" <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>. Significant effort has been made to secure a visit to Moscow by [[russiachina_relations_and_influence | China's]] leadership, with Comrade Sedal (Xi Jinping) reportedly agreeing to the visit <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
+
+## Putin's Expectations from China
+Vladimir Putin reportedly seeks a symbolic political victory from the visit, viewing it as evidence that he is not in international isolation <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. Russia currently cannot claim superpower status, as the only two modern superpowers are the United States and [[russiachina_relations_and_influence | China]] <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+
+More practically, Putin hopes to receive [[chinas_stance_on_russias_oil_export_and_military_strategy | weapons and ammunition]] from [[russiachina_relations_and_influence | China]] <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>. However, despite discussions, [[chinas_stance_on_russias_oil_export_and_military_strategy | China]] has not supplied military products to the Russian Federation, leading to frustration and indignation within the Russian political leadership <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>. [[russiachina_relations_and_influence | China]] does supply some dual-use products, but not "purely military products" <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>. The meeting is anticipated to occur before the end of March, though exact dates remain undetermined <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+
+## China's Geopolitical Interests
+[[chinas_influence_on_russian_politics | China's stance]] is driven by its own interests, rather than a desire to indulge the Russian leader <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. [[chinas_influence_on_russian_politics | China's primary interest]] is for [[russiachina_relations_and_influence | Russia]] to become a sphere of influence for the "Great Eastern Neighbor" <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>. This can only occur if [[russiachina_relations_and_influence | Russia]] is sufficiently weakened by armed confrontation <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>.
+
+From [[chinas_influence_on_russian_politics | China's perspective]], [[russiachina_relations_and_influence | Russia]] is already weak enough, suggesting a move towards a peaceful trajectory <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>. Supplying [[russiachina_relations_and_influence | Russia]] with [[chinas_stance_on_russias_oil_export_and_military_strategy | weapons]] would further antagonize [[chinas_stance_on_russia_and_ukraine_conflict | China]] and the United States, whose relations are already strained <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. The Chinese leadership therefore sees no benefit in escalating tensions with the U.S. <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>.
+
+## China's View on Russian Leadership
+There are "deaf but well-founded rumors" that [[chinas_influence_on_russian_politics | China]] considers Vladimir Putin a "toxic asset" for [[russiachina_relations_and_influence | Russia]] <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>. The Chinese leadership reportedly believes that Russian leadership requires "personnel renewal" because Putin has led [[russiachina_relations_and_influence | Russia]] into a seemingly hopeless situation, unable to achieve victory or conclude peace <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>.
+
+It is suggested that Comrade Xi Jinping might, indirectly, indicate to Putin that it is "time to go on a well-deserved rest" <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. This marks a potential shift in [[russiachina_relations_and_influence | Russian-Chinese relations]], as [[chinas_influence_on_russian_politics | China]] may be doubting Putin's ability to guarantee [[russiachina_relations_and_influence | Russia's]] stability and ensure [[chinas_influence_on_russian_politics | China's interests]] in the Russian Federation <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>. Alternative individuals are believed to exist who could better serve [[chinas_influence_on_russian_politics | China's interests]] <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>.

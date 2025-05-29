@@ -1,0 +1,31 @@
+---
+title: Potential changes in Russias political landscape
+videoId: pX8D9l7A4-U
+---
+
+From: [[bonus_professor]] <br/> 
+
+## Introduction
+The current period sees the [[russian_political_landscape_and_potential_changes | Russian political landscape]] facing significant challenges, with discussions centering on a potential large-scale political crisis and radical transformation of the system <a class="yt-timestamp" data-t="00:20:36">[00:20:36]</a>. These events are anticipated to be among the most important in the past 30 years, determining the fate of the country and society <a class="yt-timestamp" data-t="00:21:18">[00:21:18]</a>.
+
+## External Pressures and Diplomatic Setbacks
+Russia has experienced diplomatic setbacks that highlight its increasingly isolated position and strained resources:
+*   **Kazakhstan Visit**: A trip by "Vladimir Putin" (referred to as a double, Yevgeny Vasilyevich) to Kazakhstan sought to increase import volumes through Kazakhstan and encourage its active participation as an intermediary in supplying dual-use products to the Russian Federation <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. However, Kazakh President Tokayev politely but adamantly refused, stating Kazakhstan had exhausted its transit aid resources <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. Strengthening aid would lead to serious problems for the Kazakh economy and financial system <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. Tokayev reportedly showed dismissive attitude towards the Russian "vis-a-vis" <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
+*   **Syrian Retreat**: Following the fall of Aleppo, Syria's largest city, to armed forces, Russian specialists reportedly "evaporated" or "disappeared" from military bases <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>. When Syrian President Assad sought military assistance in Moscow, he was politely but adamantly refused <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>. Russia cited that all weapons, equipment, planes, and military personnel were deployed to the Ukrainian front <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. This situation has left Russia looking "not very convincing" and "not very confident" in the regional game, appearing as a side that must retreat <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>.
+*   **Reliance on Military Aid**: Russia is critically dependent on military aid, specifically ammunition, shells, and missiles, from North Korea <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>. Russian Defense Minister Belousov traveled to Pyongyang to secure guarantees for continued aid <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>. This trip comes amidst efforts by the new American administration to consult with China and North Korea to reduce the volume of military aid to Russia, aiming to compel Russia to the negotiation table <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>.
+
+## Internal Economic Crisis
+The [[Russias Internal Political Dynamics and Changes | Russian economy]] is facing a steep dive, with the ruble experiencing a significant fall <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>, <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>.
+*   **Rubel Depreciation**: Forecasts by the head of the Central Bank predicted the dollar could rise to 120 rubles by the end of the year, with the dollar temporarily rising to 115-118 rubles <a class="yt-timestamp" data-t="00:13:53">[00:13:53]</a>. While there is a temporary partial stabilization of the ruble, this is expected to be short-lived <a class="yt-timestamp" data-t="00:15:14">[00:15:14]</a>.
+*   **Socio-Economic Catastrophe**: All forecasts trusted by the Russian government, including the financial and monetary authorities and Politburo 2.0, unambiguously indicate that the economic and social situation will rapidly worsen, heading towards a socio-economic catastrophe comparable to or even worse than that experienced in the early 1990s <a class="yt-timestamp" data-t="00:15:32">[00:15:32]</a>.
+*   **Planned Deposit Freezes**: In preparation for this crisis, the Russian leadership has made a fundamental decision with 100% consensus to freeze bank deposits and accounts <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>. The timing for this action is still being debated, potentially around spring/summer or even earlier if the situation deteriorates quickly <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>. Two main options for the freezing conditions are being considered:
+    *   **"Soft" Option**: Leaving an insurance amount (e.g., 1,400,000 rubles) at the disposal of individuals, with everything above this amount frozen <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>.
+    *   **"Extreme" Option**: Freezing everything exceeding even 20,000 rubles, and introducing strict limits on cash withdrawals and non-cash settlements <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a>.
+
+## Anticipated Political Crisis and Transformation
+The convergence of these external and internal pressures is creating conditions for a profound political shift in Russia.
+*   **Cleansing Political Crisis**: Conditions have already formed for a "large-scale, deep, and cleansing political crisis" <a class="yt-timestamp" data-t="00:20:02">[00:20:02]</a>.
+*   **Radical Transformation**: This crisis will be accompanied by a [[possible_future_political_changes_in_russia | radical transformation of the Russian political system]] and the dismantling of the post-Putin regime <a class="yt-timestamp" data-t="00:20:36">[00:20:36]</a>. This is expected to happen "soon before our eyes" <a class="yt-timestamp" data-t="00:20:36">[00:20:36]</a>.
+
+## Call to Action
+Individuals are urged to prepare for difficult trials, comparable to the early 1990s <a class="yt-timestamp" data-t="00:22:47">[00:22:47]</a>. This includes taking care of themselves, family, and friends, and helping "morally and informationally" by disseminating information <a class="yt-timestamp" data-t="00:23:12">[00:23:12]</a>. Despite the challenges, the speaker expresses confidence that "victory will be ours" <a class="yt-timestamp" data-t="00:24:17">[00:24:17]</a>.

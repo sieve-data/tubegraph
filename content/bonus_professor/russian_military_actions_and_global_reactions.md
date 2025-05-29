@@ -1,0 +1,47 @@
+---
+title: Russian military actions and global reactions
+videoId: bZ41LVN2Pjw
+---
+
+From: [[bonus_professor]] <br/> 
+
+Valery Soloviev, Doctor of Historical Sciences, political analyst, and public figure, discussed the ongoing situation on March 4th, Moscow time, highlighting the dynamically developing situation <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. He noted that the news was predominantly "bad and very bad" <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+
+## Information Control and Media Suppression in Russia
+
+An "information iron curtain" is descending in Russia, with alternative media outlets practically ceasing to exist <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. Many media, including the famous Ural building sign and Silver Rain (which stopped producing news), have been forced to close due to the impossibility of speaking freely <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. This situation is reminiscent of the Soviet Union, with limited media channels <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>. YouTube is also under threat of closure, and its monetization for content creators in the Russian Federation has been sharply reduced due to the cessation of ad displays <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a> <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+
+A new law on military censorship was adopted by the State Duma on Friday, expected to be signed by the president on Saturday <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. This makes it difficult to discuss events in [[international_relations_and_military_actions_concerning_ukraine | Ukraine]], as "any phrase can be regarded as empty" and "any information can potentially be regarded" as fake <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>. Amendments to the administrative code might even prohibit the term "anti-war movement" <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
+
+## Military Campaign in Ukraine
+
+Russian propaganda refers to the ongoing actions in [[international_relations_and_military_actions_concerning_ukraine | Ukraine]] as a "military special operation," but Soloviev prefers the term "military campaign" <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>. All goals of this campaign are preserved, and Putin reportedly told Macron that "the worst, the hardest is yet to come" <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. This refers to the taking of Kharkov and Kyiv, for which the population would need to be evacuated through humanitarian corridors, implying increased pressure <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. The speaker draws a parallel to the "experience of two Chechen campaigns" <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. The military campaign aims to force a universal capitulation; if not signed, Zelensky's removal is expected <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. The *Times* reported three failed assassination attempts on Zelensky during the week of military actions <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+
+## Potential Mobilization and Martial Law
+
+Rumors are circulating about mass mobilization and the possible introduction of martial law <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>. While Russian presidential press secretary Peskov has denied these rumors, he previously swore no military actions would be taken against [[international_relations_and_military_actions_concerning_ukraine | Ukraine]] only 10-14 days prior, making his current denials unreliable <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>.
+
+Several factors could favor mobilization:
+*   According to Pentagon data, Russia has already deployed 90% of its assembled armed forces for the special operation, yet military tasks remain unsolved <a class="yt-timestamp" data-t="00:08:25">[00:08:25]</a>.
+*   Mobilization could address unemployment, citing the example of 5,000 workers from the closing Volkswagen plant who could be placed in the active army for decent pay <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>.
+*   If plans extend beyond [[international_relations_and_military_actions_concerning_ukraine | Ukraine]], a larger army would be necessary <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>.
+
+A significant factor against mobilization is the possibility of mass political discontent, which authorities want to avoid <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>. If mobilization occurs, especially on a significant scale (e.g., half a million people), it would likely go hand-in-hand with the introduction of martial law, either full or partial <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>. Partial martial law could mean a situation in "frontline regions," and elements like censorship are already de facto martial law without legal justification <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>. Under martial law, military authorities receive the right to seize personal property and equipment <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+
+Pro-government sociological agencies like FOM and VTsIOM report 70% support for Putin's plans in [[international_relations_and_military_actions_concerning_ukraine | Ukraine]], which the Kremlin interprets as a carte blanche for its actions <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>. However, Soloviev doubts these figures, believing the situation is "far from being so rosy" <a class="yt-timestamp" data-t="00:12:09">[00:12:09]</a>.
+
+## Global Reactions and Economic War
+
+The world is in a situation close to, or even repeating, the Cuban Missile Crisis <a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a>. Before military actions began, Russian officials stated that economic sanctions would be perceived as a declaration of war <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>. The West has openly begun to wage an economic war against the Russian Federation, inflicting "extremely prolonged blows" on the [[impact_of_political_actions_on_russian_society_and_economy | Russian economy]] and society <a class="yt-timestamp" data-t="00:13:15">[00:13:15]</a>. The [[impact_of_political_actions_on_russian_society_and_economy | Russian economy]] is weak and highly dependent on external economic ties, especially with Europe and the United States <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>. The West is prepared to increase pressure as military operations in [[international_relations_and_military_actions_concerning_ukraine | Ukraine]] continue, despite suffering economic losses themselves <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>.
+
+## Threat of Nuclear Weapons and Warnings
+
+The Kremlin believes that threatening with nuclear weapons, and even demonstrating tactical nuclear weapons on a limited scale, is an "excellent way to stop all this" pressure <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>. They may use nuclear blackmail to achieve significant concessions, such as the full or partial implementation of their ultimatum to NATO or Ukraine <a class="yt-timestamp" data-t="00:14:48">[00:14:48]</a>. Soloviev cites Putin's phrase, "They will all die, and we will go to heaven," suggesting the ruling group of the Russian elite is ready to send others to heaven but has first-class shelters for themselves <a class="yt-timestamp" data-t="00:15:09">[00:15:09]</a>.
+
+American partners are taking the possible threat of nuclear strikes "extremely seriously," having cancelled training firings of intercontinental ballistic missiles to avoid provocation <a class="yt-timestamp" data-t="00:16:28">[00:16:28]</a>. A recent closed briefing in the US Congress by intelligence services reportedly discussed Putin's mental state <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>.
+
+## Call to Action and Predictions
+
+Soloviev has previously predicted the decision to go to war with [[international_relations_and_military_actions_concerning_ukraine | Ukraine]], that 2022 would be "the hardest year for Russia," and that "several hellish months" would bring the country to the "brink of human existence," all of which he asserts have come true <a class="yt-timestamp" data-t="00:15:55">[00:15:55]</a>. He warns that what has happened is "just the beginning" <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>.
+
+He challenges those who support Putin's policy to consider the implications if their sons, husbands, or fathers are mobilized, or if vital medications, medical procedures, or even basic food become unavailable <a class="yt-timestamp" data-t="00:17:32">[00:17:32]</a>. To those who desire peace, he urges them not to believe they are a minority, as "life is better than any explanations" and will change even the "most stubborn, deluded, and stubborn" <a class="yt-timestamp" data-t="00:18:55">[00:18:55]</a>. He emphasizes that one cannot "get out of hell alone" and urges people to strengthen "horizontal connections," help each other, and support those who convey common sense and human dignity <a class="yt-timestamp" data-t="00:19:45">[00:19:45]</a>. Despite the expectation of even harder times, Soloviev concludes with the Latin proverb "dum spiro spero" (while I breathe, I hope) and states, "victory will be ours" <a class="yt-timestamp" data-t="00:21:35">[00:21:35]</a>.

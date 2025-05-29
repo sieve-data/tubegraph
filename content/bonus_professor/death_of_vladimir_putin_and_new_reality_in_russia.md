@@ -1,0 +1,40 @@
+---
+title: Death of Vladimir Putin and new reality in Russia
+videoId: emFMpWaNZ1w
+---
+
+From: [[bonus_professor]] <br/> 
+
+The central topic of a broadcast aired on Monday, October 30, was the death of Vladimir Putin and the subsequent formation of a new reality in Russia <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. It is asserted that Vladimir Putin died on October 26 <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>, an event described as an "irrefutable fundamental medical and anthropological fact" <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. The body of the deceased president is reportedly in a frozen state at his Valdai residence <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+
+The speaker expresses deep satisfaction with Putin's death, stating, "Putin is dead" <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a> and that he "kicked the bucket" <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. They argue that Putin was never truly human, likening him to an "anthropomorphic creature" with as much humanity as a "crocodile cannibal" <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a> who consumed the lives and destinies of millions <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. Therefore, there is no need to mourn his death <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>; instead, mourning should have occurred on the day of his birth <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>.
+
+## Formation of a New Reality
+
+The speaker emphasizes that it is time to adapt to a [[political_changes_in_russia_post_putin | new reality]] which is forming before our eyes, with public participation <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. This [[sociopolitical_changes_in_russia | new reality]] is discussed through two main aspects: informational-psychological and political <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+
+### Informational-Psychological Aspect
+
+The development of the topic of Putin's death in media and human consciousness is a key informational-psychological aspect <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. News of Putin's death reportedly spread across Russia and the world within two days, largely due to the Telegram channel "General SVR" and associated posts and videos <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. The broad discussion, regardless of whether people believe the news, indicates the formation of a [[rumors_of_vladimir_putins_death_and_its_implications | new psychological reality]] <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. Even if people don't fully believe it, they assume "something is still wrong here, there is no smoke without fire" <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>.
+
+This development is further evidenced by the emergence of jokes, caricatures, and internet memes <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. The deceased president is now referred to as "the man from the refrigerator," a term deemed accurate given how his body and the fact of his death are being hidden <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>. The speaker notes an overwhelming number of trolls but observes a complete absence of human sympathy for Putin in public comments <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>.
+
+#### Evidence of Death
+
+The speaker challenges demands for official evidence, questioning the credibility of sources like press secretary Peskov, who previously denied a Russian attack on Ukraine <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>. Similarly, the official statements regarding Prigozhin's death are dismissed as untrustworthy <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>. It is claimed that a medical report on Putin's death, made by doctors, exists and will be presented at the appropriate time <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. The speaker assures that more facts, confirmations, and human testimonies will emerge to convince everyone that "fundamental reality has changed" <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>.
+
+### Political Aspect
+
+The [[potential_consequences_of_putins_death | political changes and power dynamics in postPutin Russia]] are already evident <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>.
+
+1.  **De Facto Rule and State Crime**: Nikolai Patrushev is now the de facto ruler of Russia, while the former president is replaced by a double <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. This act is categorized as a state crime under Article 357 of the Criminal Code, involving conspiracy and the seizure or retention of power by unconstitutional means <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. Those who will form the new government and redistribute portfolios, knowing what has happened, are considered state criminals <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
+
+2.  **Chechnya's Assertiveness**: Ramzan Kadyrov, who personifies Chechnya, has received heavy weapons that previously belonged to Wagner <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>. These weapons were supplied by the Russian Guard, specifically from Zolotov, with whom Kadyrov has good relations <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>. Additionally, two battalions, including one named Sheikh Mansur, are being formed <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>. The anti-Semitic riots in Makhachkala, which occurred two days after Putin's death, are seen as a demonstration of strength by certain coalition members seeking preferences and to maintain their positions <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>. This displays a "threat to stability in Russia" <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a> and serves as a warning not to cross certain boundaries, especially given the security forces' dislike of Chechen leadership <a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>.
+
+3.  **Withdrawal of Support for Palestinians**: Russia has withdrawn its support for the Palestinians <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>. This outcome resulted from behind-the-scenes negotiations with the Israeli leadership, including a telephone call from Netanyahu <a class="yt-timestamp" data-t="00:13:15">[00:13:15]</a>. Israel sought to minimize Russia's help to Palestinians and international terrorist networks while Israel conducts military operations in the Gaza Strip <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>. This was achieved through a "soft hint" or "blunt blackmail" from the Israeli side, threatening to reveal the secret of the Russian president's location and health status, as he was still alive but deeply unwell at the time <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>.
+
+4.  **Upcoming Government Appointments**: New government appointments are expected soon, reflecting the formation of a [[potential_changes_in_russian_leadership_and_implications | new balance of power]] and a new government configuration <a class="yt-timestamp" data-t="00:14:37">[00:14:37]</a>. These appointments will serve as further confirmation of Putin's death for skeptics <a class="yt-timestamp" data-t="00:15:04">[00:15:04]</a>.
+
+## Participation in the New Reality
+
+The speaker urges individuals to participate in the formation of this new reality <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a>. This can be done by reposting information, liking content on channels like "General SVR" and "My Doctor Nightingale," and offering material support <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>. The information provided over the years is deemed reliable <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>, and supporting these efforts helps build a better future <a class="yt-timestamp" data-t="00:18:11">[00:18:11]</a>. The speaker concludes with a hopeful message: "no matter how hard it is now, victory will be ours" <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>.

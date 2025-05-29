@@ -1,0 +1,47 @@
+---
+title: Valery Solovievs political analysis
+videoId: IjrRz3sJZfc
+---
+
+From: [[bonus_professor]] <br/> 
+
+[[Valery Soloveys analysis of Vladimir Putins presidency | Valery Solovey]], a Doctor of Historical Sciences, political analyst, and public figure, presents his analysis of [[Russian internal political dynamics | Russia's internal political dynamics]] and the current state of affairs in the country. This analysis is featured in the eighth episode of his program "What happens" <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>.
+
+## A Hypothetical Scenario and the State of Russian Law
+
+Solovey begins by proposing a hypothetical scenario: if the son of God were to come to Moscow today, how long would he be able to preach and spread the word of truth? <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. Solovey believes he would be arrested "instantly" <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a> for violating two fundamental laws of the [[Russian Federation | Russian Federation]]:
+*   **Ban on Unauthorized Public Events** Any public event, regardless of its nature, can be declared unauthorized by a court decision <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+*   **Law on Fakes Against the Russian Armed Forces** Solovey suggests that merely repeating the Sixth Commandment, "Do not kill," would be considered a "fake" against the Russian armed forces and lead to immediate detention and accusation <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. He predicts that the State Duma might eventually demand changes to the text of Holy Scripture <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+
+Solovey asserts that this description of [[Russian sociopolitical dynamics | Russian reality]] is "medically accurate," emphasizing that "medical language is the most appropriate language for describing what is happening now" in [[Russias Internal Political Dynamics and Changes | Russia]] <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+
+## The Broadening Scope of the "Foreign Agents" Law
+
+Solovey analyzes the new version of the "foreign agents" law, noting its significant expansion <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+*   **Old Version** Previously, individuals accused of agent activity had to receive some financial assistance from abroad <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. Even a small transfer could lead to designation <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
+*   **New Version** The new law permits individuals to be designated as "foreign agents" if they are merely "under foreign influence" <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. Solovey argues that this broad definition could potentially classify "almost every citizen of the [[Russian Federation | Russian Federation]]" as a candidate for a foreign agent, simply by using foreign languages or for purposes like entertainment or travel <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+*   **Family Members of Agents** A proposed new category in the bill includes "family members and agents" <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. Solovey draws a parallel to Stalin's era formulation of "families of traitors," suggesting a repetition of history <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. He describes this trend as "clinical madness" <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
+
+## Reasons for "Clinical Madness" and the Search for "Enemies of the People"
+
+Solovey attributes this "clinical madness" to the military-political reality of the special military operation in Ukraine <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. He states that the military-political goals of the operation are becoming increasingly difficult and problematic to achieve <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. While chances of achieving some goals remain, the "dynamics of the actions" and the "moral political state of the Russian Armed Forces" are on a "downward trend" <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. He notes that the "victory" sought by the Supreme Commander-in-Chief is becoming an "illusory distance," dissolving like a mirage <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
+
+Given this, the question arises: "who is to blame?" <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a> Solovey asserts that the Supreme Commander-in-Chief (referring to Vladimir Putin) cannot be blamed, drawing another parallel to Stalin who was "never wrong" <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>. He explains that admitting mistakes is not common in the [[Russian political commentary and conspiracy theories | Russian Federation]], where blame is usually placed on others or external circumstances <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. Since no one can "push Vladimir Vladimirovich against the wall" <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>, the blame must fall elsewhere.
+
+From the perspective of those who initiate laws, Solovey states that the "enemies of the people are to blame" <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. He cites Putin's statement at the Prosecutor General's Office that the "West's primary task is to split Russian society, destroy the country from within" and that "fakes and calls for illegal actions are often organized from abroad" <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
+
+Solovey identifies two categories of "enemies of the people" in the modern context:
+1.  **Foreign Agents** Those who cause "information damage by spreading fakes" <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>.
+2.  **Terrorists and Saboteurs** This second category is described as "outright terrorists and saboteurs" <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>.
+
+## Historical Parallels: Weimar Germany and Stalin's Russia
+
+Solovey delves into historical analogies to explain the current [[Russian political landscape and potential changes | Russian political landscape]].
+*   **Weimar Germany** The first "experience" is borrowed from Weimar Germany (1920s-1930s), where arguments were popular that Germany lost World War I due to a "knife in its back" <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>, not military defeat. This concept of "moral decay" and "national traitors" (who are trying to "stick a knife in the back" of Russian society and armed forces through "fakes") is now applied to the first category of foreign agents in modern [[Domestic Russian political dynamics | Russia]] <a class="yt-timestamp" data-t="00:12:07">[00:12:07]</a>. Solovey notes that the definition of those "who stuck a knife in the back" can become much broader in modern [[Russian domestic political situation | Russia]] compared to Weimar Germany <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a>, especially with the inclusion of family members of foreign agents and even those with an "insufficiently enthusiastic facial expression" <a class="yt-timestamp" data-t="00:14:17">[00:14:17]</a>.
+*   **Stalin's Russia** The second experience is borrowed from Stalin's Russia, specifically the idea of opposition transitioning to "direct terrorist activity" <a class="yt-timestamp" data-t="00:15:19">[00:15:19]</a>. This logic determined the infamous Moscow Trials of 1936-1938, where defendants confessed to killing Soviet figures and preparing Stalin's assassination <a class="yt-timestamp" data-t="00:15:31">[00:15:31]</a>. Solovey highlights a "roll call of eras" <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a> between the 1938 Moscow trial exposing alleged killers of Maxim Gorky, and the 2022 presidential report of neutralizing "neo-Nazis" preparing to murder TV presenter Vladimir Solovyov on Ukrainian security service instructions <a class="yt-timestamp" data-t="00:16:25">[00:16:25]</a>.
+
+Solovey predicts that the "next step in theory should be the organization of public trials" in Russia against agents who have transitioned to "terrorist activity" <a class="yt-timestamp" data-t="00:17:25">[00:17:25]</a>, based on the logic that they are disseminating millions of fakes with foreign support <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>. He cautions that [[Russian political commentary and conspiracy theories | Russia]] is not a country where history repeats as farce, but rather "one historical tragedy repeats itself as a second tragedy" <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a>. He concludes that [[analysis_of_sociological_support_for_russian_government_policies | Russia]] is only at the beginning of this process, with the "peak of the fight against...terrorists" and "exposing national traitors" still ahead <a class="yt-timestamp" data-t="00:18:50">[00:18:50]</a>.
+
+## A Message of Hope and Call for Support
+
+Despite the grim outlook, Solovey offers a message of hope, stating that "it would not last long" <a class="yt-timestamp" data-t="00:19:08">[00:19:08]</a> and that "victory will be ours" <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>. He encourages viewers to take care, help each other, support those who raise their voices in defense of human dignity, common sense, and ordinary moral values <a class="yt-timestamp" data-t="00:19:45">[00:19:45]</a>. He also asks for financial support for his channel <a class="yt-timestamp" data-t="00:20:15">[00:20:15]</a>.
