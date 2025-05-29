@@ -1,0 +1,44 @@
+---
+title: Millennial and Gen Z travel preferences
+videoId: zJ7uKszetNE
+---
+
+From: [[gregisenberg]] <br/> 
+
+Travel habits among Millennials and Gen Z are significantly different from previous generations, driven by a desire for authentic experiences and a preference for insights found on social media rather than traditional travel aggregators <a class="yt-timestamp" data-t="01:12:15">[01:12:15]</a>.
+
+## The Anti-TripAdvisor Traveler
+Traditional travel sites like TripAdvisor and Expedia dominate search engine results, leading the majority of travelers to the same popular, often tourist-saturated, locations and restaurants <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a>. This reliance on SEO-driven results means locals rarely frequent these recommended spots <a class="yt-timestamp" data-t="02:48:00">[02:48:00]</a>.
+
+Instead, modern travelers, particularly Millennials and Gen Z, seek out unique, less-traveled paths and local culture <a class="yt-timestamp" data-t="04:01:00">[04:01:00]</a> <a class="yt-timestamp" data-t="08:00:03">[08:00:03]</a>.
+
+### Social Media as a Travel Guide
+The concept of utilizing platforms like TikTok and Instagram for travel recommendations is gaining traction <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a>.
+*   **[[the_concept_of_tiktok_for_travel_recommendations | TikTok for modern travel]]** is emerging as a primary source for finding aesthetically pleasing coffee shops, bookstores, and people-watching spots that traditional travel sites miss <a class="yt-timestamp" data-t="03:01:00">[03:01:00]</a> <a class="yt-timestamp" data-t="03:16:00">[03:16:00]</a>. Users actively search for travel topics on TikTok, often bypassing Google <a class="yt-timestamp" data-t="05:31:00">[05:31:00]</a> <a class="yt-timestamp" data-t="05:37:00">[05:37:00]</a>.
+*   **Instagram Maps** serve as a valuable geolocation tool, offering a "heat map" of popular areas and real-time insights into where people are going <a class="yt-timestamp" data-t="07:21:00">[07:21:00]</a> <a class="yt-timestamp" data-t="07:45:00">[07:45:00]</a>. This allows users to discover hidden gems, new exhibits, and local hangouts <a class="yt-timestamp" data-t="07:55:00">[07:55:00]</a> <a class="yt-timestamp" data-t="08:10:00">[08:10:00]</a>.
+
+### [[travel_startup_ideas | Travel Startup Idea]]: Building a Social-Inspired Travel App
+An app focused on creating [[creating_personalized_travel_guides_using_social_media_insights | personalized travel guides]] based on social media insights could tap into this market <a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a> <a class="yt-timestamp" data-t="08:25:00">[08:25:00]</a>.
+*   **Niche Down**: Start with a specific category, such as "coffee shops" or "bookstores," based on trending searches on TikTok <a class="yt-timestamp" data-t="08:44:00">[08:44:00]</a> <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a> <a class="yt-timestamp" data-t="15:03:00">[15:03:00]</a>.
+*   **MVP Development**: A mobile app could be built using no-code/low-code tools or AI like Claude AI and ChatGPT <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a> <a class="yt-timestamp" data-t="09:16:00">[09:16:00]</a>.
+*   **Guide-Based Structure**: Organize content into city-specific guides (e.g., "Coffee Guide of Seoul") with map integration <a class="yt-timestamp" data-t="09:36:00">[09:36:00]</a>.
+*   **Monetization**: Guides could be monetized by offering free previews and charging a small fee (e.g., 99 cents) to unlock full access <a class="yt-timestamp" data-t="10:00:01">[10:00:01]</a>.
+*   **Content Curation**: Leverage existing TikTok content by embedding videos and using AI tools (e.g., Descript, Google Speech-to-Text API, Claude AI, ChatGPT API) to transcribe and clean up information for SEO-friendly written guides <a class="yt-timestamp" data-t="11:20:00">[11:20:00]</a> <a class="yt-timestamp" data-t="13:50:00">[13:50:00]</a> <a class="yt-timestamp" data-t="14:19:00">[14:19:00]</a>.
+*   **Personalized Recommendations**: Over time, expand beyond the initial niche to offer recommendations based on a user's TikTok history <a class="yt-timestamp" data-t="11:03:00">[11:03:00]</a>.
+*   **Center of Gravity**: Building such a directory creates a "center of gravity" around specific topics, offering leverage for future expansion <a class="yt-timestamp" data-t="18:59:00">[18:59:00]</a>.
+
+## Micro Social Network for Traveler Locations
+The post-COVID world has seen friends scattered across different cities, highlighting a need for a simple way to track friends' locations for potential meetups during travel <a class="yt-timestamp" data-t="19:22:00">[19:22:00]</a> <a class="yt-timestamp" data-t="20:06:00">[20:06:00]</a>.
+*   **Current Solutions**: Instagram status updates are often used to share current cities <a class="yt-timestamp" data-t="20:31:00">[20:31:00]</a>. Apple's "Find My Friends" offers basic location sharing but lacks depth <a class="yt-timestamp" data-t="21:05:00">[21:05:00]</a> <a class="yt-timestamp" data-t="21:16:00">[21:16:00]</a>.
+*   **Inspiration from Path**: A private social network from 10-12 years ago, Path, limited connections to about 150 friends, aligning with Dunbar's Number theory that humans can only maintain around 150 meaningful connections <a class="yt-timestamp" data-t="21:51:00">[21:51:00]</a> <a class="yt-timestamp" data-t="24:48:00">[24:48:00]</a> <a class="yt-timestamp" data-t="25:00:03">[25:00:03]</a>. Path focused on sharing photos, videos, and status updates within a close-knit group <a class="yt-timestamp" data-t="22:27:00">[22:27:00]</a> <a class="yt-timestamp" data-t="22:31:00">[22:31:00]</a>.
+*   **The "Dunbar" App Concept**: A modern reinvention of Path, named "Dunbar," could be a minimalist micro social network that allows users to easily share their location, sparking conversations when friends overlap in cities <a class="yt-timestamp" data-t="25:56:00">[25:56:00]</a> <a class="yt-timestamp" data-t="27:50:00">[27:50:00]</a>.
+    *   **Challenges**: Building consumer social apps is exceptionally difficult due to the need for network effects <a class="yt-timestamp" data-t="27:00:00">[27:00:00]</a>.
+    *   **Monetization**: Could be monetized through subscriptions (e.g., $20-30/year), similar to Path's past model of selling sticker packs <a class="yt-timestamp" data-t="31:42:00">[31:42:00]</a> <a class="yt-timestamp" data-t="31:49:00">[31:49:00]</a>.
+*   **[[future_trends_in_consumer_tech | Future Trends in Consumer Tech]]**: A wild idea suggests a future where users can pay for premium subscriptions by committing their anonymized personal data to train large language models <a class="yt-timestamp" data-t="33:09:00">[33:09:00]</a> <a class="yt-timestamp" data-t="33:41:00">[33:41:00]</a>.
+
+## Time Capsules of Shared Memories
+Another area of interest is the monetization of nostalgia and shared memories, as existing solutions like "shared albums" on iCloud often become neglected <a class="yt-timestamp" data-t="34:34:00">[34:34:00]</a> <a class="yt-timestamp" data-t="39:49:00">[39:49:00]</a>.
+*   **The Idea**: Create "time capsules" of shared memories, perhaps as physical or ephemeral gifts, comprising photos or memorabilia from joint trips or experiences <a class="yt-timestamp" data-t="34:44:00">[34:44:00]</a> <a class="yt-timestamp" data-t="35:46:00">[35:46:00]</a>.
+*   **Ephemeral Nature**: For wide adoption, these time capsules should feel ephemeral, allowing recipients to appreciate them without feeling obligated to keep them indefinitely <a class="yt-timestamp" data-t="35:52:00">[35:52:00]</a> <a class="yt-timestamp" data-t="36:06:00">[36:06:00]</a>.
+*   **Clout as an Example**: The social network Clout (circa 2013) successfully monetized nostalgia by reminding users of past memories and encouraging sharing <a class="yt-timestamp" data-t="36:37:00">[36:37:00]</a> <a class="yt-timestamp" data-t="37:11:00">[37:11:00]</a> <a class="yt-timestamp" data-t="37:47:00">[37:47:00]</a>. Although Clout didn't sustain its own network effects, its success highlighted the human love for looking back on life <a class="yt-timestamp" data-t="37:15:00">[37:15:00]</a> <a class="yt-timestamp" data-t="38:09:00">[38:09:00]</a>.
+*   **Opportunity**: There is a clear opportunity for a product that bridges the gap between digital photos and physical albums, providing a more curated and personal way to share memories <a class="yt-timestamp" data-t="40:37:00">[40:37:00]</a> <a class="yt-timestamp" data-t="40:42:00">[40:42:00]</a>. This concept could bring smiles to people's faces and build a significant business <a class="yt-timestamp" data-t="39:39:00">[39:39:00]</a>.

@@ -1,44 +1,51 @@
 ---
-title: monetizing online directories
+title: Monetizing online directories
 videoId: hPveUtta0Es
 ---
 
 From: [[gregisenberg]] <br/> 
 
-John Rush, known as the "king of directories," emphasizes that online directories are a low-risk way to [[starting_an_online_directory | start a startup]], with some individuals generating $5K, $10K, $15K, or even $20K a month <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. He believes we are in a "Golden Era of directories" due to the increasing demand for content curation on the internet <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. People trust well-curated directories that offer high-quality content, reviews, and ratings, often outsourcing their decision-making from Google to these platforms <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+Online directories are experiencing a "Golden Era" due to increasing demand for curated content on the internet <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. People trust directories for well-curated content, reviews, and ratings, often outsourcing decision-making from Google to these platforms <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. They represent a low-risk startup venture with the potential for significant monthly income <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
 
-After building and growing a directory, the next crucial step is [[monetizing_online_directories_through_ads_and_affiliate_marketing | monetization]].
+Many people are making $5K to $20K a month with online directories <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. It's suggested that an average directory can reach $5K MRR without extraordinary luck or intelligence <a class="yt-timestamp" data-t="00:45:39">[00:45:39]</a>. While $20K is often considered the limit for a side project directory, some large directories can scale to millions <a class="yt-timestamp" data-t="00:45:53">[00:45:53]</a>.
 
-## Monetization Strategies
+## Monetization Strategies for Online Directories
 
-There are several ways to [[generating_passive_income_through_online_directories | monetize]] an online directory, depending on the target audience and niche <a class="yt-timestamp" data-t="00:34:31">[00:34:31]</a>:
+There are multiple ways to monetize online directories, often depending on the target audience <a class="yt-timestamp" data-t="00:34:31">[00:34:31]</a>.
 
-### 1. Direct Sponsorships and Featured Listings
-*   **B2B Focus**: Monetization is generally easier for B2B (business-to-business) directories <a class="yt-timestamp" data-t="00:34:34">[00:34:34]</a>.
-*   **Banner Spots & Sponsor Options**: Businesses with a similar audience can be pitched for banner advertisements or sponsored listing options <a class="yt-timestamp" data-t="00:34:41">[00:34:41]</a>. For example, a directory of GPTs could email GPT owners to offer featured spots at the top of the directory <a class="yt-timestamp" data-t="00:34:52">[00:34:52]</a>.
+### 1. Direct Sponsorships & Featured Listings
+For B2B directories, it's easier to monetize by approaching businesses that share the same audience as your directory <a class="yt-timestamp" data-t="00:34:34">[00:34:34]</a>.
+*   **Banner Spots & Sponsor Options** <a class="yt-timestamp" data-t="00:34:47">[00:34:47]</a>.
+*   **Featured Listings:** Offering a prime position at the top of the directory, as was done with a directory of GPTs <a class="yt-timestamp" data-t="00:34:50">[00:34:50]</a>. This is a common and effective method <a class="yt-timestamp" data-t="00:35:08">[00:35:08]</a>.
+*   **Brand Sponsors:** For very large directories, big corporate brands may pay for affiliation, not just clicks <a class="yt-timestamp" data-t="00:37:58">[00:37:58]</a>. This is an ongoing revenue stream that doesn't significantly detract from user experience, unlike intrusive banners <a class="yt-timestamp" data-t="00:38:54">[00:38:54]</a>.
 
 ### 2. Affiliate Links
-*   This method is effective when the listed items in the directory are high-cost (e.g., $500 or thousands, rather than $10) <a class="yt-timestamp" data-t="00:35:15">[00:35:15]</a>. An example is a directory for Next.js boilerplates, where affiliate links to expensive boilerplates generate significant income <a class="yt-timestamp" data-t="00:35:35">[00:35:35]</a>.
+This method works well when the listed items on your directory are high-cost <a class="yt-timestamp" data-t="00:35:11">[00:35:11]</a>. If items cost $10, you'll earn little, but if they cost $500 or more, there's good money to be made <a class="yt-timestamp" data-t="00:35:23">[00:35:23]</a>. An example is a directory for Next.js boilerplates, where affiliate links bring good income because the boilerplates are expensive <a class="yt-timestamp" data-t="00:35:35">[00:35:35]</a>.
 
-### 3. Selling Anonymized Data or Insights
-*   It's possible to sell anonymized data or insights derived from the directory, ensuring no private user data is compromised <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>. This strategy typically targets larger corporations interested in trends, percentages, or distributions within the data <a class="yt-timestamp" data-t="00:36:26">[00:36:26]</a>.
+### 3. Selling Data/Insights
+You can sell anonymized data or insights derived from your directory's content <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>. This usually involves selling to corporates interested in trends, percentages, and distributions within the data <a class="yt-timestamp" data-t="00:36:26">[00:36:26]</a>.
 
 ### 4. Paywall for Listings
-*   For certain niches, charging a fee to list an item in the directory can be a viable strategy <a class="yt-timestamp" data-t="00:36:42">[00:36:42]</a>. For instance, a directory of nannies could charge nannies a fee (e.g., $50 to $500) to be listed, especially if the directory has sufficient traffic and potential buyers <a class="yt-timestamp" data-t="00:36:55">[00:36:55]</a>.
+Charge a fee for businesses or individuals to be listed in your directory <a class="yt-timestamp" data-t="00:36:42">[00:36:42]</a>. For example, a nanny listed in a directory of nannies might pay a significant amount if the directory has traffic and attracts buyers <a class="yt-timestamp" data-t="00:36:55">[00:37:06]</a>. Listings can be charged from $50 to $500 <a class="yt-timestamp" data-t="00:37:12">[00:37:12]</a>.
 
-### 5. Paywall for Access
-*   Charging users for full access to the directory's database is another option <a class="yt-timestamp" data-t="00:37:16">[00:37:16]</a>. A nanny directory, for example, might show only the top five nannies or hide contact details and photos, requiring a payment for full access to the database for a month or for life <a class="yt-timestamp" data-t="00:37:25">[00:37:25]</a>.
+### 5. Charge for Access (Paywall)
+Offer a paywall for access to the full database or detailed contact information <a class="yt-timestamp" data-t="00:37:16">[00:37:16]</a>. You might show only a limited number of items or partial data (e.g., nannies without photos or contact details) and require payment to unlock full access, either for a lifetime or monthly subscription <a class="yt-timestamp" data-t="00:37:32">[00:37:48]</a>.
 
-### 6. Brand Sponsorships
-*   Once a directory becomes large and well-known, it can attract big companies or corporates for brand promotion <a class="yt-timestamp" data-t="00:38:00">[00:38:00]</a>. These companies may not seek direct traffic but rather affiliation with the directory's audience (e.g., developers hanging out on Dev Hunt, leading to sponsorships from Clerk or Superbase) <a class="yt-timestamp" data-t="00:38:07">[00:38:07]</a>. This is considered an ideal [[monetization_strategies_for_digital_content_creation | monetization]] method as it's often ongoing and less intrusive than direct ads <a class="yt-timestamp" data-t="00:38:54">[00:38:54]</a>.
+### 6. Indirect Monetization (Channeling Traffic)
+If you have other projects, particularly SaaS tools, directories can serve as a powerful free traffic generation channel <a class="yt-timestamp" data-t="00:39:31">[00:39:31]</a>. It's often much harder to win [[seo_strategies_for_directories | SEO traffic]] for a SaaS tool directly, especially if its brand name doesn't relate to keywords <a class="yt-timestamp" data-t="00:39:41">[00:40:02]</a>. Directories can win traffic on less competitive keywords (as there are fewer VC-backed directory competitors) and then channel that traffic to your products <a class="yt-timestamp" data-t="00:40:05">[00:40:53]</a>.
 
-### 7. Indirect Monetization (Channeling Traffic)
-*   Directories can indirectly monetize by acquiring [[using_ai_and_seo_for_online_directories | SEO traffic]] for keywords that are less competitive than those for SaaS (Software as a Service) tools <a class="yt-timestamp" data-t="00:39:45">[00:39:45]</a>. This organic traffic can then be channeled from the directories to personal SaaS products or other ventures, essentially providing free traffic that would otherwise require payment <a class="yt-timestamp" data-t="00:40:05">[00:40:05]</a>.
+### 7. Selling the Directory
+Directories can be sold, particularly to companies that have SaaS tools with a similar audience <a class="yt-timestamp" data-t="00:41:06">[00:41:15]</a>. This is considered a highly effective marketing strategy for SaaS companies <a class="yt-timestamp" data-t="00:41:39">[00:41:44]</a>.
 
-### 8. Selling Directories
-*   Directories themselves can be sold, particularly to SaaS companies or other businesses that have the same target audience and can benefit from the channeled traffic <a class="yt-timestamp" data-t="00:41:06">[00:41:06]</a>. This is often more effective than traditional newsletter ads <a class="yt-timestamp" data-t="00:41:46">[00:41:46]</a>.
-    *   **Valuation**: There isn't a fixed system for valuing directories; it depends on the audience and traffic <a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a>. Small directories can sell for $2K-$5K, average ones for $15K-$20K, and larger ones up to $100K <a class="yt-timestamp" data-t="00:42:59">[00:42:59]</a>.
-    *   **Marketplaces**: While smaller marketplaces like Micron.io might list directories, a more strategic approach is to use tools like Similarweb to research traffic and audience, then directly approach founders to offer to buy their directory <a class="yt-timestamp" data-t="00:43:41">[00:43:41]</a>.
+*   **Valuation:** There's no fixed system for valuing directories; it largely depends on the audience and traffic, rather than just revenue <a class="yt-timestamp" data-t="00:42:25">[00:42:35]</a>.
+    *   Small directories with traffic can sell for $2K-$5K <a class="yt-timestamp" data-t="00:42:44">[00:43:03]</a>.
+    *   Average ones go for $15K-$20K <a class="yt-timestamp" data-t="00:43:03">[00:43:07]</a>.
+    *   Larger ones can reach up to $100K <a class="yt-timestamp" data-t="00:43:07">[00:43:12]</a>.
+    *   Buying a directory with 100K monthly views for $20K could yield 30K clicks a year to a linked product, equating to less than $1 per click <a class="yt-timestamp" data-t="00:41:53">[00:42:17]</a>.
+*   **Marketplaces:** While larger marketplaces like Acquire.com might not list directories due to their revenue requirements, smaller marketplaces sometimes feature them <a class="yt-timestamp" data-t="00:43:41">[00:43:57]</a>. One example mentioned is Microacquire.io <a class="yt-timestamp" data-t="00:44:02">[00:44:06]</a>.
+*   **Direct Outreach:** A more effective strategy to acquire a directory is to use tools like Similarweb to research their traffic and audience, then directly reach out to the founders with an offer to buy <a class="yt-timestamp" data-t="00:44:17">[00:44:34]</a>. Founders who haven't listed their directory for sale might be more open to a reasonable offer <a class="yt-timestamp" data-t="00:44:41">[00:44:55]</a>.
 
-## Potential Scale and Risk
-Online directories are highlighted as a low-risk entry into digital product creation <a class="yt-timestamp" data-t="00:46:58">[00:46:58]</a>. As a side project, individuals can realistically expect to achieve $5K in monthly recurring revenue (MRR), with potential to reach $10K-$20K, though significant growth beyond that might require full-time dedication <a class="yt-timestamp" data-t="00:45:33">[00:45:33]</a>. Even with minimal ongoing effort, a directory with stable traffic (e.g., 5K visits/month for a B2B directory) can generate $3K-$4K per month from ads and tends to grow due to [[using_ai_and_seo_for_online_directories | SEO]] <a class="yt-timestamp" data-t="00:47:16">[00:47:16]</a>.
+> [!tip] Low-Risk Startup
+> Starting with a directory as your first attempt to build an internet business is highly recommended. It's much harder to fail with directories if you launch enough of them and invest a few months <a class="yt-timestamp" data-t="00:46:58">[00:47:07]</a>. A stable 5K visits per month for a B2B directory can yield $3K-$4K per month from ads, and this can grow even if you do nothing, due to the nature of [[seo_strategies_for_directories | SEO]] on non-competitive keywords <a class="yt-timestamp" data-t="00:47:16">[00:47:40]</a>.
+>
+> You will also gain domain authority and traffic faster, and potentially secure early sponsorships, compared to starting a SaaS business <a class="yt-timestamp" data-t="00:47:55">[00:48:05]</a>. Notable examples of directories that have grown into multi-million dollar businesses include Starter Story and Product Hunt <a class="yt-timestamp" data-t="00:48:14">[00:48:35]</a>.
