@@ -1,0 +1,26 @@
+---
+title: Conformal invariance and Maxwells equations
+videoId: Jo08Zd5aKbo
+---
+
+From: [[mk_thisisit]] <br/> 
+
+The concept of conformal invariance, particularly in the context of [[Maxwell's equations]], was a crucial element in the early development of [[twistor_theory_and_its_connection_to_physics | twistor theory]] <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>. Roger Penrose, the father of [[twistor_theory_and_its_connection_to_physics | twistor theory]], learned about this property during discussions with Engelbert Singi in Syracuse in the early 1960s <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>, <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
+
+## Maxwell's Equations
+
+[[Maxwell's equations]] are an "extraordinary set of equations" that theoretically explain the phenomena of electricity, magnetism, and light <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>, <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>. They describe light, which was previously "almost a complete mystery" <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. These equations cover various frequencies, both visible and invisible, and unify the concepts of electricity, magnetism, and light <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>, <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+
+## Conformal Invariance Defined
+
+Conformal invariance means that things are "regardless of scale" – large and small objects are considered "equal" <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>, <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. A helpful visual example is the artwork of M.C. Escher, particularly his paintings depicting the universe with angels and devils in a circle <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>. In these works, shapes retain an identical form even as they become smaller when approaching the edge of the circle <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>, <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. This property is known as "conformity" <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>.
+
+This perspective is crucial for understanding radiation and fields at infinity <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. Using the "Escher trick," concepts of infinity can be reduced to a finite, manageable form for study <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>. Conformal invariance is particularly useful when dealing with massless objects, such as photons, which fit "perfectly" into this approach <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>, <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>.
+
+## Role in Twistor Theory
+
+The [[twistor_theory_and_its_connection_to_physics | twistor theory]] emerged from two primary ideas <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. One of these was the challenge of describing positive and negative frequencies in a way that is conformally invariant <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>, <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>. The standard methods for this, such as the Fourier transform decomposition, are not conformally invariant <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>, <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>. The goal was to find an "elegant geometric way" to describe this <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
+
+In one dimension, positive and negative frequencies can be nicely separated on a complex plane <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>. Functions extending to one half of the complex plane represent positive frequencies, while those extending to the other half represent negative frequencies <a class="yt-timestamp" data-t="00:14:09">[00:14:09]</a>. However, applying this intuitive picture to full four-[[dimensionality_in_physics | dimensional]] [[relativity_and_quantum_gravity | space-time]] presents a significant challenge <a class="yt-timestamp" data-t="00:14:34">[00:14:34]</a>, <a class="yt-timestamp" data-t="00:14:41">[00:14:41]</a>. While [[dimensionality_in_physics | space-time]] can be made complex, it results in an "eight-line space" which doesn't directly solve the problem of dividing into two halves in a geometrically meaningful way for physics <a class="yt-timestamp" data-t="00:14:54">[00:14:54]</a>, <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>.
+
+The ability to describe positive and negative frequencies elegantly is a key property necessary for [[theory_of_quantum_mechanics_and_quantum_gravity | quantum field theory]] <a class="yt-timestamp" data-t="00:17:01">[00:17:01]</a>. [[Maxwell's equations]] are central to showing how these frequencies arise and how they can be made [[theory_of_quantum_mechanics_and_quantum_gravity | quantum mechanical]], leading to an "elegant geometry" <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>, <a class="yt-timestamp" data-t="00:17:27">[00:17:27]</a>. This visual and geometric approach is fundamental to Penrose's thinking <a class="yt-timestamp" data-t="00:17:31">[00:17:31]</a>.

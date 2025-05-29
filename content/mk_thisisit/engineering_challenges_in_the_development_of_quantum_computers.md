@@ -1,0 +1,28 @@
+---
+title: Engineering challenges in the development of quantum computers
+videoId: W3Ii-tGnOUw
+---
+
+From: [[mk_thisisit]] <br/> 
+
+The creation of [[quantum_computers_and_their_challenges | quantum computers]] presents significant engineering hurdles, particularly in scaling them to practical sizes. These challenges are being addressed through continuous research and [[development_of_quantum_computers_at_iqm | development]].
+
+## Error Correction
+One of the primary limitations in [[the_potential_of_quantum_computing_and_its_current_limitations | executing quantum algorithms]] is the presence of noise and errors <a class="yt-timestamp" data-t="02:23:00">[02:23:00]</a>. Current physical qubits are prone to error, with roughly one mistake occurring per 1,000 operations <a class="yt-timestamp" data-t="12:46:00">[12:46:00]</a>. This error rate needs to be significantly reduced for reliable [[potential_of_universal_quantum_computers | universal quantum computers]] <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>.
+
+### Quantum Error Correction
+To overcome this, [[progress_in_quantum_computing_and_cryptography | quantum error correction]] is essential <a class="yt-timestamp" data-t="13:22:00">[13:22:00]</a>. This process involves utilizing multiple physical qubits to encode and protect the information of a single "logical qubit" <a class="yt-timestamp" data-t="13:02:00">[13:02:00]</a>. By doing so, the error rate can be exponentially reduced <a class="yt-timestamp" data-t="13:12:00">[13:12:00]</a>. In 2023, Google demonstrated the creation of a logical qubit that maintained its coherence longer than any physical qubit, proving the viability of this technology <a class="yt-timestamp" data-t="20:33:00">[20:33:00]</a>. This breakthrough signifies a revolution, showing that large quantum systems can indeed be managed without succumbing to thermodynamic descriptions that would render them unusable for quantum computation <a class="yt-timestamp" data-t="21:21:00">[21:21:00]</a>.
+
+## Cabling and Connectivity
+A major engineering challenge is the sheer volume of cables required to operate [[quantum_computers_and_their_challenges | quantum computers]]. Each qubit requires its own steering mechanism and control, currently translating to approximately two cables per qubit <a class="yt-timestamp" data-t="13:55:00">[13:55:00]</a>. Scaling to a million-qubit [[quantum_computers_and_their_challenges | quantum computer]], as projected by IQM for 2033 <a class="yt-timestamp" data-t="11:54:00">[11:54:00]</a>, would necessitate a million cables, which is impractical with current methods <a class="yt-timestamp" data-t="14:06:00">[14:06:00]</a>. Companies are actively developing alternative solutions, such as connecting multiple chips rather than having one monolithic chip, ensuring that data transfer between them remains quantum entangled <a class="yt-timestamp" data-t="14:27:00">[14:27:00]</a>.
+
+## Cryogenic Cooling Systems
+[[Quantum computers and their challenges | Quantum computers]], particularly those based on superconducting circuits, operate at temperatures very close to absolute zero, specifically around 120 millikelvin (relative to absolute zero) <a class="yt-timestamp" data-t="09:18:00">[09:18:00]</a>. This extreme cooling is necessary because at higher temperatures, particles move too quickly, causing unwanted quantum effects <a class="yt-timestamp" data-t="09:27:00">[09:27:00]</a>.
+
+The majority of a [[quantum_computers_and_their_challenges | quantum computer's]] physical structure, often resembling a large golden fridge, is dedicated to this complex cryogenic cooling system and the necessary cables <a class="yt-timestamp" data-t="15:31:00">[15:31:00]</a>. Maintaining this precise temperature and preventing heat transfer from external components, such as receivers or signal synthesis devices, to the quantum chip is critical to preserve the fragile quantum states <a class="yt-timestamp" data-t="15:56:00">[15:56:00]</a>. The goal is to cool the system down to a point where only one or two allowed energy levels remain for the qubits to operate effectively <a class="yt-timestamp" data-t="11:02:00">[11:02:00]</a>.
+
+## Cost and Accessibility
+The current cost of a 5-qubit [[quantum_computers_and_their_challenges | quantum computer]] is approximately one million euros <a class="yt-timestamp" data-t="17:47:00">[17:47:00]</a>. While this price is expected to decrease as technology advances and engineering solutions are found <a class="yt-timestamp" data-t="19:04:00">[19:04:00]</a>, [[quantum_computers_and_their_challenges | quantum computers]] are not anticipated to become consumer products for home use <a class="yt-timestamp" data-t="19:29:00">[19:29:00]</a>. Instead, they will likely be located in supercomputer centers, accessible to users remotely via the internet through a "quantum cloud" model, similar to how current servers are accessed <a class="yt-timestamp" data-t="19:50:00">[19:50:00]</a>. This centralized model addresses the practical challenges of cost, size, and operational complexity.
+
+## Other [[quantum_computing_technologies | Quantum Computing Technologies]]
+Beyond the superconducting circuits favored by IQM <a class="yt-timestamp" data-t="08:41:00">[08:41:00]</a>, other technologies for building [[quantum_computers_and_their_challenges | quantum computers]] exist, such as [[quantum_computers_and_cold_atoms | cold atoms]] <a class="yt-timestamp" data-t="08:27:00">[08:27:00]</a>. These different approaches each have their own set of engineering challenges and advantages in achieving reliable quantum computation.

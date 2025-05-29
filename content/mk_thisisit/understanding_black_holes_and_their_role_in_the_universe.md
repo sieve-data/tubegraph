@@ -1,0 +1,51 @@
+---
+title: Understanding black holes and their role in the universe
+videoId: ckffwVCmp2I
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Black holes are not merely intriguing astronomical phenomena; understanding them presents a profound challenge in physics and offers fundamental insights into the nature of the universe, space, and time <a class="yt-timestamp" data-t="02:18:00">[02:18:00]</a>.
+
+## The Significance of Black Holes
+Researchers initially considered titling a book "Black Holes: The Key to Understanding Everything," but scaled it back to "The Key to Understanding the Universe" to avoid exaggeration <a class="yt-timestamp" data-t="01:43:00">[01:43:00]</a>. However, the entire book explores why understanding black holes is crucial for grasping fundamental aspects of the universe <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>. Mastering the complexities of black holes could lead to significant advancements in comprehending how space and time operate <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>.
+
+## What Happens When Falling Into a Black Hole?
+The experience of falling into a black hole depends on its size <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>. For a very large black hole, the initial fall might seem unremarkable, with no immediate discernible difference in surroundings <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a>. For instance, if one were to fall into a supermassive black hole like the one photographed in the M87 galaxy (millions of solar masses), there would be approximately a day before reaching the end <a class="yt-timestamp" data-t="04:32:00">[04:32:00]</a>.
+
+Ultimately, as one approaches the [[concepts_of_black_holes_and_singularity | singularity]] of a black hole, the body and even the surrounding space would be stretched to "zero," causing disappearance <a class="yt-timestamp" data-t="00:40:00">[00:40:00]</a>, <a class="yt-timestamp" data-t="06:54:00">[06:54:00]</a>. This stretching effect would cause the body to be literally torn apart <a class="yt-timestamp" data-t="05:03:00">[05:03:00]</a>.
+
+### The Horizon and Information
+A black hole possesses an "edge" or "horizon," which separates its interior from its exterior <a class="yt-timestamp" data-t="03:20:00">[03:20:00]</a>. From the perspective of [[black_holes_and_einsteins_theory_of_relativity | Einstein's theory of relativity]], anything that crosses this horizon cannot escape <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>, <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>.
+
+The question of whether [[black_holes_and_information_paradox | information]] can be stored in or retrieved from a black hole is central to ongoing research <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>. When something falls into a black hole, the [[black_holes_and_information_paradox | information]] it contains seemingly disappears <a class="yt-timestamp" data-t="07:08:00">[07:08:00]</a>. This disappearance of [[black_holes_and_information_paradox | information]] suggests that time might be an illusion <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>.
+
+### The Singularity
+The [[concepts_of_black_holes_and_singularity | singularity]] of a black hole is not a specific location in its center, but rather an end point in time <a class="yt-timestamp" data-t="06:43:00">[06:43:00]</a>, <a class="yt-timestamp" data-t="07:30:00">[07:30:00]</a>. According to [[black_holes_and_einsteins_theory_of_relativity | Einstein's theory of gravity]], at the [[concepts_of_black_holes_and_singularity | singularity]], entities cease to exist in a fundamental sense, meaning their atoms are not simply moved but vanish <a class="yt-timestamp" data-t="07:40:00">[07:40:00]</a>.
+
+However, recent research on [[black_holes_and_information_paradox | black holes and information paradox]] suggests that [[black_holes_and_information_paradox | information]] might, in fact, be able to return <a class="yt-timestamp" data-t="07:13:00">[07:13:00]</a>.
+
+## The Nature of Space and Time
+[[black_holes_and_einsteins_theory_of_relativity | Einstein's theory of relativity]] reveals that space and time are not absolute but rather subjective and plastic <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>. Space can be curved, and its curvature is caused by the presence of energy and mass, which we perceive as gravity <a class="yt-timestamp" data-t="13:14:00">[13:14:00]</a>. This implies that the traditional understanding of a universal clock and a constant arena for movement is incorrect <a class="yt-timestamp" data-t="12:44:00">[12:44:00]</a>.
+
+There is a contemporary idea that space itself may not exist in the fundamental sense that we perceive it <a class="yt-timestamp" data-t="10:01:00">[10:01:00]</a>. Instead, space might be a product of something more fundamental <a class="yt-timestamp" data-t="10:45:00">[10:45:00]</a>. This "something" would consist of objects that interact according to specific rules, and their collective effects create the space we experience <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>, <a class="yt-timestamp" data-t="11:38:00">[11:38:00]</a>.
+
+Regarding time, it is understood as enabling cause-and-effect relationships, where events occur in a logical sequence <a class="yt-timestamp" data-t="09:03:00">[09:03:00]</a>. The universe can be viewed as a collection of events linked by causality, where time is not necessarily at the absolute center of this understanding <a class="yt-timestamp" data-t="09:30:00">[09:30:00]</a>.
+
+## Black Holes as Portals to Other Universes?
+The question of whether a black hole could serve as a gateway to another universe has two answers:
+
+*   **Practical Answer (No):** All black holes currently known are formed from the collapse of massive stars <a class="yt-timestamp" data-t="14:23:00">[14:23:00]</a>. When a large star runs out of fuel, it collapses under its own gravity, and this process continues until the star effectively disappears <a class="yt-timestamp" data-t="14:44:00">[14:44:00]</a>. These "real-world" black holes do not offer a path to another universe because the collapsing matter blocks any possibility of passage to another side <a class="yt-timestamp" data-t="15:03:00">[15:03:00]</a>, <a class="yt-timestamp" data-t="17:05:00">[17:05:00]</a>. The [[concepts_of_black_holes_and_singularity | singularity]] acts as an end point <a class="yt-timestamp" data-t="16:22:00">[16:22:00]</a>.
+
+*   **Mathematical Answer (Yes, in theory):** Mathematical equations describing black holes, derived from [[black_holes_and_einsteins_theory_of_relativity | Einstein's theory of relativity]], do allow for scenarios where a black hole could provide access to another universe <a class="yt-timestamp" data-t="15:14:00">[15:14:00]</a>.
+    *   **Schwarzschild Solution:** Karl Schwarzschild calculated the solution for a non-rotating black hole within months of [[black_holes_and_einsteins_theory_of_relativity | Einstein's equations]] being formulated in 1915 <a class="yt-timestamp" data-t="18:55:00">[18:55:00]</a>, <a class="yt-timestamp" data-t="19:21:00">[19:21:00]</a>.
+    *   **Kerr Solution:** For a spinning black hole, Roger Penrose's work (presumably referring to the Kerr solution, though not explicitly named for him in the transcript, it describes spinning black holes) shows an interior [[concepts_of_black_holes_and_singularity | singularity]] that resembles a ring <a class="yt-timestamp" data-t="17:51:00">[17:51:00]</a>. Mathematics based on [[black_holes_and_einsteins_theory_of_relativity | Einstein's physics]] suggests that one could pass through this ring [[concepts_of_black_holes_and_singularity | singularity]] and emerge into an infinite "other" universe <a class="yt-timestamp" data-t="17:59:00">[17:59:00]</a>. This "Kerr universe" concept allows for a "tower" of nested universes, where each is infinitely large and contained within another <a class="yt-timestamp" data-t="18:10:00">[18:10:00]</a>. While perfectly consistent mathematically, this "crazy" configuration does not apply to the black holes observed in our universe <a class="yt-timestamp" data-t="18:30:00">[18:30:00]</a>, <a class="yt-timestamp" data-t="19:47:00">[19:47:00]</a>.
+
+## The Universe as a Giant Quantum Computer
+Emerging scientific research suggests that we might live inside something akin to a [[giant_quantum_computer | giant quantum computer]] <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="22:13:00">[22:13:00]</a>. This idea stems from studying how [[black_holes_and_information_paradox | information]] functions within a black hole <a class="yt-timestamp" data-t="22:27:00">[22:27:00]</a>.
+
+The concept posits that space itself is constructed from fundamental "things" that interact according to the laws of quantum mechanics <a class="yt-timestamp" data-t="21:01:00">[21:01:00]</a>, <a class="yt-timestamp" data-t="21:18:00">[21:18:00]</a>. These "things" behave similarly to qubits, the basic units of [[giant_quantum_computer | quantum computers]] <a class="yt-timestamp" data-t="21:56:00">[21:56:00]</a>. Therefore, space could be composed of entangled qubits <a class="yt-timestamp" data-t="22:06:00">[22:06:00]</a>.
+
+Nature itself seems to have "discovered" how [[giant_quantum_computer | quantum computers]] work long ago, suggesting that the laws of nature and the fundamental construction of space are inherently quantum <a class="yt-timestamp" data-t="23:10:00">[23:10:00]</a>. Humanity is only now learning the "tricks" nature uses to build reality <a class="yt-timestamp" data-t="23:36:00">[23:36:00]</a>.
+
+Modern research is exploring how nature utilizes quantum mechanics in biological processes, such as photosynthesis and the functioning of the brain <a class="yt-timestamp" data-t="24:40:00">[24:40:00]</a>, <a class="yt-timestamp" data-t="24:50:00">[24:50:00]</a>. A key challenge in quantum information processing is protecting quantum systems from environmental disturbances <a class="yt-timestamp" data-t="25:06:00">[25:06:00]</a>. This makes it intriguing how warm biological systems like plants and brains might perform quantum computations despite being susceptible to vibrations <a class="yt-timestamp" data-t="25:36:00">[25:36:00]</a>.

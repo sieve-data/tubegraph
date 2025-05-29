@@ -1,0 +1,42 @@
+---
+title: Limitations of current electronic architectures
+videoId: XwSWdmmlwQQ
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Modern electronics, including computers, fundamentally rely on the properties of electrons, primarily their negative or positive charge, to provide power and process information <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. Current electronic devices utilize transistors built from materials like silicon <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>, enabling billions of transistors on a single square centimeter <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>.
+
+## Unprecedented Progress and Impending Limits
+
+Over the past several decades, the number of transistors on integrated circuits has increased by an astonishing 10 million times <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. This miniaturization has led to transistors that are not only smaller (currently around 5 nanometers, 10,000 times smaller than a human hair's cross-section) <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>, but also faster, more energy-efficient, and cheaper <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>. The price of a transistor is now about 100 times smaller than printing one letter in a book <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>.
+
+### Moore's Law and Saturation
+
+Moore's Law states that the number of transistors per unit area doubles every 18 months <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>. This law held true for about 40 years <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>. However, [[limitations_of_current_ai_systems | current AI systems]] and electronic architectures are reaching physical [[limitations_of_current_ai_systems | limits]] <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>. The spaces between transistors are now measured in atoms <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>, making further miniaturization extremely difficult <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>. Consequently, the speed of computers, which once grew rapidly from megahertz to gigahertz, has largely stopped increasing <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>. This indicates that certain parameters in progress are becoming saturated <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>.
+
+## The Need for New Architectures
+
+Given these [[limitations_of_artificial_intelligence | limitations of artificial intelligence]] and computing, there's a strong belief that the current computer architecture, which originated during World War II, needs to change after 75 years <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>. This architecture, though historically significant (with the transistor's operation patented by Juliusz Lilienfeld in 1924) <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>, is becoming less applicable <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
+
+Instead of focusing solely on miniaturization, research is exploring new approaches <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>. This involves:
+*   **Changing the information carrier**: Traditionally, calculations use the electron's charge. However, just as communication shifted from electrons (wires) to photons (optical fibers) <a class="yt-timestamp" data-t="00:14:12">[00:14:12]</a>, future information processing may also change its carrier <a class="yt-timestamp" data-t="00:14:53">[00:14:53]</a>.
+*   **Exploring electron spin**: Electrons possess another property called "spin" <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. This spin, or magnetic moment, can be used for recording information in magnetic memories <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. The ambition is to use these spins for processing information, leading to the field of [[advancements_in_semiconductor_spintronics | semiconductor spintronics]] <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+
+## Spintronics as a Potential Solution
+
+[[Advancements in semiconductor spintronics | Spintronics]] is seen as a promising path for future data processing <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. By applying voltage to a magnetic semiconductor, its magnetic properties can be changed, which are essential for recording and processing information <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+
+One application involves using individual spins for information processing <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. A single electron in a quantum dot can have a spin <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. The interaction between spins in neighboring quantum dots allows for information processing, representing a basic model of a [[quantum_computers_and_their_challenges | quantum computer]] <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
+
+Furthermore, spintronics can revolutionize dynamic random-access memory (DRAM) and cache memories <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>. Current dynamic memories require constant energy to maintain information, which is lost when power is disconnected <a class="yt-timestamp" data-t="00:15:41">[00:15:41]</a>. Using magnetic materials, similar to those in disk drives, for fast cache memory can significantly reduce the energy needed for information storage and processing <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a>.
+
+A particularly interesting development involves antiferromagnets. While ferromagnets (used for a long time in magnetic memories) generate external magnetic fields, antiferromagnets have spins that compensate each other, resulting in no external magnetic field <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>. This allows for greater density because individual bits (spins) do not interfere with neighboring bits, reducing "crosstalk" <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>. This makes them highly suitable for memory applications <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>.
+
+## The Future of Computing: Quantum and Topological Approaches
+
+The field of information processing is in a state of flux, with no single winning method yet identified <a class="yt-timestamp" data-t="00:18:19">[00:18:19]</a>. Beyond spintronics, other approaches for [[the_potential_of_quantum_computing_and_its_current_limitations | quantum computers and their challenges]] include using superconductors, trapped ions, or neutral atoms on networks <a class="yt-timestamp" data-t="00:18:37">[00:18:37]</a>. While superconductors are currently the most advanced for [[quantum_computers_and_their_challenges | quantum computers]] <a class="yt-timestamp" data-t="00:19:44">[00:19:44]</a>, they face [[engineering_challenges_in_the_development_of_quantum_computers | engineering challenges in the development of quantum computers]] due to quantum non-locality and sensitivity to environmental disturbances like electromagnetic noise <a class="yt-timestamp" data-t="00:20:18">[00:20:18]</a>. This "decoherence" causes quantum phenomena like interference to disappear <a class="yt-timestamp" data-t="00:23:53">[00:23:53]</a>.
+
+A promising alternative is the use of topological materials. Topology, distinct from geometry, focuses on properties that are stable against small deformations <a class="yt-timestamp" data-t="00:26:26">[00:26:26]</a>. If spins are arranged in a "non-trivial topological way" (e.g., with a non-zero topological index), the structure becomes more stable and less susceptible to disturbances <a class="yt-timestamp" data-t="00:27:08">[00:27:08]</a>. This stability is crucial for creating robust information carriers <a class="yt-timestamp" data-t="00:28:23">[00:28:23]</a>. Microsoft, for instance, is actively developing topological [[quantum_computers_and_their_challenges | quantum computers]], as these materials are less sensitive to noise and decoherence <a class="yt-timestamp" data-t="00:28:34">[00:28:34]</a>.
+
+This era marks a shift from relying solely on miniaturization within existing architectures to exploring entirely new physical principles and material properties to advance information processing.

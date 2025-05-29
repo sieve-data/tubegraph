@@ -1,0 +1,26 @@
+---
+title: The expansion of the universe and the Big Bang theory
+videoId: aodBI6y2UqI
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Professor Brian Cox, a renowned physicist, discusses the nature of the universe, focusing on its expansion and the [[big_bang_theory_and_multiverse | Big Bang theory]] <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>. He emphasizes the importance of understanding the origin and evolution of the cosmos <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>.
+
+## Age and Scale of the Universe
+The universe is estimated to be 13.8 billion years old <a class="yt-timestamp" data-t="02:56:00">[02:56:00]</a>. Within the observable universe, there are approximately two trillion galaxies <a class="yt-timestamp" data-t="03:01:00">[03:01:00]</a>. A fundamental question in cosmology is how this age is determined <a class="yt-timestamp" data-t="03:15:00">[03:15:00]</a>. Measuring the age of something, even a stone, requires extensive nuclear physics research and specialized equipment <a class="yt-timestamp" data-t="03:29:00">[03:29:00]</a>. Similarly, determining the age of the universe relies on complex measurements <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>.
+
+## The [[big_bang_theory_and_multiverse | Big Bang]] and Universal Expansion
+Our universe is characterized by its expansion and cooling <a class="yt-timestamp" data-t="07:03:00">[07:03:00]</a>, a phenomenon discovered in the 1920s by American astronomer Edwin Hubble <a class="yt-timestamp" data-t="17:39:00">[17:39:00]</a>. Hubble proved that distant galaxies are moving away from each other and from us <a class="yt-timestamp" data-t="17:44:00">[17:44:00]</a>. This concept of space stretching or contracting was theoretically noted shortly after Einstein's theory of gravity was published <a class="yt-timestamp" data-t="17:20:00">[17:20:00]</a>. Measurements of this expansion and its rate of change over time allow scientists to calculate the age of the universe <a class="yt-timestamp" data-t="17:51:00">[17:51:00]</a>.
+
+The universe's age is defined as the time measured by a freely falling clock that began its measurement during the [[big_bang_theory_and_multiverse | Big Bang]] <a class="yt-timestamp" data-t="10:44:00">[10:44:00]</a>. The [[big_bang_theory_and_multiverse | Big Bang]] describes the universe's initial state as hot and dense <a class="yt-timestamp" data-t="13:59:00">[13:59:00]</a>. Current theories, such as inflation, suggest that space and time existed before the universe entered this hot, dense "hot [[big_bang_theory_and_multiverse | Big Bang]]" phase <a class="yt-timestamp" data-t="14:07:00">[14:07:00]</a>.
+
+### Light from Before the [[big_bang_theory_and_multiverse | Big Bang]]
+The oldest light observable in the universe is cosmic microwave radiation, which was emitted approximately 350 million years after the [[big_bang_theory_and_multiverse | Big Bang]] <a class="yt-timestamp" data-t="15:51:00">[15:51:00]</a>. Before this period, the universe was in a plasma state, too hot for atoms to form <a class="yt-timestamp" data-t="16:09:00">[16:09:00]</a>. In this thick soup of hydrogen and helium nuclei and electrons, light could not pass through <a class="yt-timestamp" data-t="16:30:00">[16:30:00]</a>. Therefore, light cannot be used to observe events from earlier than 350 million years after the [[big_bang_theory_and_multiverse | Big Bang]] <a class="yt-timestamp" data-t="16:37:00">[16:37:00]</a>. To look further back in time, other methods, such as studying neutrons or gravitational waves, would be necessary <a class="yt-timestamp" data-t="16:57:00">[16:57:00]</a>.
+
+## The Concept of Time and the Universe's Beginning
+Understanding the concept of time is crucial for comprehending the universe's beginning <a class="yt-timestamp" data-t="14:21:00">[14:21:00]</a>. In Einstein's theory of relativity, space and time are woven together into spacetime, often called the "fabric of the universe" <a class="yt-timestamp" data-t="09:53:00">[09:53:00]</a>. However, what time "really is" remains an active area of research <a class="yt-timestamp" data-t="09:47:00">[09:47:00]</a>.
+
+The perceived asymmetry of time, where the future is ahead and the past has happened, is linked to the [[big_bang_theory_and_multiverse | Big Bang]] being an extremely orderly, low-entropy phenomenon <a class="yt-timestamp" data-t="11:56:00">[11:56:00]</a>. The second law of thermodynamics states that entropy always increases, meaning the future moves in the direction of increasing disorder <a class="yt-timestamp" data-t="12:10:00">[12:10:00]</a>. This concept of time is known as thermodynamic time <a class="yt-timestamp" data-t="12:23:00">[12:23:00]</a>.
+
+Modern research, particularly concerning [[black_holes_and_universe_creation | black holes]], suggests that space and time themselves may emerge from a deeper theory of [[black_holes_and_universe_creation_theory | quantum gravity]] that does not inherently include space and time <a class="yt-timestamp" data-t="14:32:00">[14:32:00]</a>. Until the fundamental nature of space and time is understood, questions about the universe's true beginning remain speculative <a class="yt-timestamp" data-t="14:50:00">[14:50:00]</a>.

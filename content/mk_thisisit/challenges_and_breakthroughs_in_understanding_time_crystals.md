@@ -1,0 +1,47 @@
+---
+title: Challenges and breakthroughs in understanding time crystals
+videoId: Z3HQkpCUPfk
+---
+
+From: [[mk_thisisit]] <br/> 
+
+[[time_crystals_and_their_unique_properties | Time crystals]] are a fascinating concept in physics, often described as the temporal equivalent of ordinary spatial crystals like diamonds or table salt <a class="yt-timestamp" data-t="02:16:18">[02:16:18]</a>. Just as spatial crystals exhibit a repeating structure in space, time crystals display periodic motion or behavior in time <a class="yt-timestamp" data-t="02:19:00">[02:19:00]</a>. However, this periodicity must emerge spontaneously, distinct from trivial periodic motion such as a clock's pendulum <a class="yt-timestamp" data-t="04:16:00">[04:16:00]</a>.
+
+The difficulty in understanding time crystals is acknowledged by many physicists <a class="yt-timestamp" data-t="01:43:00">[01:43:00]</a>, with the topic being described as "science fiction" <a class="yt-timestamp" data-t="01:53:00">[01:53:00]</a>. This complexity arises from their quantum mechanical nature and the subtle ways they break time-translation symmetry.
+
+## The Genesis of the Concept
+
+The term "time crystal" was coined by Nobel Prize winner [[frank_wilczeks_contribution_to_time_crystals | Frank Wilczek]] in 2012 <a class="yt-timestamp" data-t="00:24:00">[00:24:00]</a>, <a class="yt-timestamp" data-t="03:28:00">[03:28:00]</a>. The name itself is attributed to his wife, who was not a physicist <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>, <a class="yt-timestamp" data-t="10:24:00">[10:24:00]</a>. Wilczek's initial article, originally titled "Spontaneous breaking of symmetry translation in time," was simplified to the more accessible "time crystal" through his wife's suggestion <a class="yt-timestamp" data-t="09:56:00">[09:56:00]</a>.
+
+Wilczek's original proposal asked whether a system of many bodies could spontaneously enter periodic motion in its lowest energy state, similar to how spatial crystals form <a class="yt-timestamp" data-t="06:36:00">[06:36:00]</a>, <a class="yt-timestamp" data-t="13:05:00">[13:05:00]</a>. This idea centered on the spontaneous breaking of time-translation symmetry <a class="yt-timestamp" data-t="09:27:00">[09:27:00]</a>. While the idea was "brilliant" <a class="yt-timestamp" data-t="13:21:00">[13:21:00]</a>, it was quickly identified that the specific mechanism [[frank_wilczeks_contribution_to_time_crystals | Frank Wilczek]] proposed did not work <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a>, <a class="yt-timestamp" data-t="11:14:00">[11:14:00]</a>.
+
+## Breakthroughs and Experimental Realization
+
+Despite the initial flaw, [[frank_wilczeks_contribution_to_time_crystals | Frank Wilczek]]'s concept opened "powerful horizons for doing new physics" <a class="yt-timestamp" data-t="12:37:00">[12:37:00]</a>. Physicists began searching for time crystals in different systems and conditions <a class="yt-timestamp" data-t="13:45:00">[13:45:00]</a>. Professor Krzysztof Sacha, recognized as the author of the first description of "discrete time crystals" <a class="yt-timestamp" data-t="15:31:00">[15:31:00]</a>, contributed a crucial refinement.
+
+Sacha proposed that if a multi-body system is disturbed by a periodically changing force, some systems can spontaneously develop periodic motion with a *different* period than the driving force <a class="yt-timestamp" data-t="13:52:00">[13:52:00]</a>. This "spontaneous emergence of motion periodic which has no direct connection with what drives it" <a class="yt-timestamp" data-t="14:20:00">[14:20:00]</a> became the key characteristic of these new time crystals.
+
+Sacha published his article in 2015 <a class="yt-timestamp" data-t="14:49:00">[14:49:00]</a>. A year later, two American groups, from the University of Maryland and Harvard, proposed the same phenomenon in other physical systems <a class="yt-timestamp" data-t="14:55:00">[14:55:00]</a>, <a class="yt-timestamp" data-t="15:08:00">[15:08:00]</a>. The following year, the first experiments were successfully carried out, confirming Sacha's theory <a class="yt-timestamp" data-t="15:04:00">[15:04:00]</a>.
+
+One significant breakthrough was the realization of a discrete time crystal in an optical system (an optical cavity with laser beams) closer to room temperature conditions <a class="yt-timestamp" data-t="31:48:00">[31:48:00]</a>. This contrasts with experiments requiring extremely low temperatures, on the order of nanoKelvins, typically found in specialized laboratories dealing with ultra-cold atomic gases <a class="yt-timestamp" data-t="33:14:00">[33:14:00]</a>.
+
+## Conceptual Challenges in Quantum Mechanics
+
+Understanding [[time_crystals_and_their_unique_properties | time crystals]] requires grappling with fundamental aspects of quantum mechanics, which describes the world using probabilities <a class="yt-timestamp" data-t="00:57:00">[00:57:00]</a>.
+
+*   **Spontaneous Symmetry Breaking**: In quantum mechanics, if equations have a certain symmetry, their stationary solutions should also have that symmetry <a class="yt-timestamp" data-t="08:42:00">[08:42:48]</a>. However, in phenomena like time crystals, this symmetry is spontaneously broken <a class="yt-timestamp" data-t="09:14:00">[09:14:00]</a>. For time crystals, this means a system with continuous time-translation symmetry produces discrete translational symmetry in time, resulting in periodic motion <a class="yt-timestamp" data-t="09:32:00">[09:32:00]</a>.
+*   **The Observer Effect and Schrödinger's Cat**: A major challenge in quantum mechanics is the "observer point," where the act of observing elementary particles can change their behavior <a class="yt-timestamp" data-t="20:56:00">[20:56:00]</a>. This is illustrated by Schrödinger's cat analogy: a cat in a box is simultaneously alive and dead (in superposition) until observed <a class="yt-timestamp" data-t="19:10:00">[19:10:00]</a>. The information gained from observation collapses the quantum state <a class="yt-timestamp" data-t="19:54:00">[19:54:00]</a>.
+    *   For [[time_crystals_and_their_unique_properties | time crystals]], although a "Schrödinger's cat" like state might theoretically exist momentarily during formation, it immediately disappears upon observation <a class="yt-timestamp" data-t="23:06:00">[23:06:00]</a>. However, the subsequent periodic motion of the time crystal is robust to observation, and the information received does not dramatically change its state <a class="yt-timestamp" data-t="23:24:00">[23:24:00]</a>.
+*   **Zeno Effect**: If a particle is observed continuously, it does not move, an interesting phenomenon called the Zeno effect <a class="yt-timestamp" data-t="25:21:00">[25:21:00]</a>.
+
+## [[Potential applications of time crystals in quantum computing | Potential Applications]]
+
+The field of [[potential_applications_of_time_crystals_in_quantum_computing | time crystal applications]] is still young, but there are promising prospects <a class="yt-timestamp" data-t="26:29:00">[26:29:00]</a>. Just as spatial crystals are universally used for their conductivity and transport properties <a class="yt-timestamp" data-t="26:40:00">[26:40:00]</a>, researchers are exploring if time crystals can exhibit similar properties in the time dimension, such as insulating or even superconductivity properties <a class="yt-timestamp" data-t="27:28:00">[27:28:00]</a>.
+
+One significant area of interest is their use in [[quantum_computers_and_their_challenges | quantum computers]] <a class="yt-timestamp" data-t="26:08:00">[26:08:00]</a>. To build a [[quantum_computers_and_their_challenges | quantum computer]], operations must be performed on qubits, which represent quantum information <a class="yt-timestamp" data-t="29:30:00">[29:30:00]</a>. This requires entangling qubits, which means they must interact <a class="yt-timestamp" data-t="30:11:00">[30:11:00]</a>. A major [[engineering_challenges_in_the_development_of_quantum_computers | engineering challenge]] is maintaining quantum coherence – the property of superposition where a qubit can be both 0 and 1 simultaneously <a class="yt-timestamp" data-30:50:00>[30:50:00]</a>. While the application of time crystals to quantum computing is currently at a theoretical level, it appears promising <a class="yt-timestamp" data-t="29:17:00">[29:17:00]</a>.
+
+## Broader Implications
+
+The journey of understanding [[time_crystals_and_their_unique_properties | time crystals]] highlights the dynamic nature of physics, where initial mistakes can lead to new directions of research and profound discoveries <a class="yt-timestamp" data-t="13:19:00">[13:19:00]</a>. The field continues to develop, challenging and changing physicists' points of view <a class="yt-timestamp" data-t="37:47:00">[37:47:00]</a>.
+
+Ultimately, the study of such abstract concepts also touches upon fundamental philosophical questions. As [[frank_wilczeks_contribution_to_time_crystals | Frank Wilczek]] posed the most important unanswered question in science today: "How consciousness is created from matter" <a class="yt-timestamp" data-t="36:14:00">[36:14:00]</a>, <a class="yt-timestamp" data-t="01:05:00">[01:05:00]</a>. This emphasizes that physics, even in its most abstract forms, often grapples with the deepest mysteries of existence.

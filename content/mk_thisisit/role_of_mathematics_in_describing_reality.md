@@ -1,0 +1,65 @@
+---
+title: Role of mathematics in describing reality
+videoId: 37LVGo053xw
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Mathematics serves as a fundamental tool for describing reality, acting as a language of precision that can be applied to various aspects of the world, from physics to societal structures <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>, <a class="yt-timestamp" data-t="01:19:19">[01:19:19]</a>.
+
+## Mathematics as a Tool
+Mathematics is a versatile tool used for construction, creation, and even control or distribution <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>. While it can be used for divisive purposes, the speaker believes it is unfair to blame [[mathematics_as_a_tool_versus_a_divisive_force | mathematics]] itself for how its tools are utilized <a class="yt-timestamp" data-t="01:33:04">[01:33:04]</a>, as societal divisions appeared naturally and early on, even in ancient Egypt <a class="yt-timestamp" data-t="01:39:41">[01:39:41]</a>. The increasing popularity and importance of mathematics are seen as positive developments, indicating a natural direction of progress <a class="yt-timestamp" data-t="02:21:23">[02:21:23]</a>, <a class="yt-timestamp" data-t="02:23:00">[02:23:00]</a>. It is considered a language of precision, theoretically capable of describing everything <a class="yt-timestamp" data-t="02:35:49">[02:35:49]</a>.
+
+> [!INFO] Ethical Boundaries in Mathematics
+> The most fundamental rule in mathematics is the prohibition of division by zero <a class="yt-timestamp" data-t="03:08:14">[03:08:14]</a>. This is because zero is not "reversible"; there is no number that, when multiplied by zero, yields one <a class="yt-timestamp" data-t="03:35:19">[03:35:19]</a>, <a class="yt-timestamp" data-t="03:40:02">[03:40:02]</a>. Formally, mathematics doesn't have "division" but rather an "inversion operation" (reciprocal) <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>, <a class="yt-timestamp" data-t="03:56:49">[03:56:49]</a>. Similarly, "subtraction" can be viewed as "addition" with the reversal of numbers (adding a negative) <a class="yt-timestamp" data-t="04:33:23">[04:33:23]</a>. This deeper understanding of fundamental operations like division and subtraction requires higher mathematics, involving concepts like equivalence relations and classes <a class="yt-timestamp" data-t="07:35:58">[07:35:58]</a>, <a class="yt-timestamp" data-t="07:40:32">[07:40:32]</a>.
+
+## Mathematics: Discovery or Creation?
+A deep philosophical question in [[the_role_and_perception_of_mathematics_in_understanding_the_universe | mathematics]] is whether it discovers pre-existing truths or creates new concepts <a class="yt-timestamp" data-t="09:31:00">[09:31:00]</a>. Most professional mathematicians feel that [[independent_existence_of_mathematics | mathematics]] primarily discovers <a class="yt-timestamp" data-t="09:36:00">[09:36:00]</a>. This means finding structures that describe phenomena in the world or abstract concepts that always existed, waiting to be uncovered <a class="yt-timestamp" data-t="09:42:00">[09:42:00]</a>, <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>.
+
+Often, mathematical discoveries initially appear to have no real-world application or natural occurrence, yet later, physicists create conditions (e.g., at the interface of magnetic fields) where particles behave exactly as predicted by these abstract mathematical models <a class="yt-timestamp" data-t="10:14:00">[10:14:00]</a>, <a class="yt-timestamp" data-t="10:26:00">[10:26:00]</a>. This suggests that mathematical concepts, even when abstract, might reflect underlying natural principles <a class="yt-timestamp" data-t="11:11:00">[11:11:00]</a>.
+
+## Mathematics and Dimensions
+The speaker's work in algebraic topology and group theory is related to the multidimensionality of space <a class="yt-timestamp" data-t="18:18:00">[18:18:00]</a>. While humans easily grasp three-dimensional space due to living in it <a class="yt-timestamp" data-t="12:31:00">[12:31:00]</a>, understanding higher dimensions (like four-dimensional or even 11-dimensional space in string theory) is challenging to imagine <a class="yt-timestamp" data-t="12:55:00">[12:55:00]</a>, <a class="yt-timestamp" data-t="10:40:00">[10:40:00]</a>.
+
+Concepts like "fiberization" are mathematical tricks that help in visualizing and analyzing higher dimensions, such as a three-dimensional space evolving in time (creating a four-dimensional spacetime) <a class="yt-timestamp" data-t="13:03:00">[13:03:00]</a>. The current research involves looking at hyperbolic spaces with odd numbers of dimensions, aiming to show that such spaces originate from a time-evolving lower dimension <a class="yt-timestamp" data-t="13:50:00">[13:50:00]</a>.
+
+Examples of dimensions:
+*   A line segment multiplied by another segment creates a square (two-dimensional) <a class="yt-timestamp" data-t="14:50:00">[14:50:00]</a>.
+*   Multiplying a 2D object (e.g., a donut with holes) by another creates a 4D object <a class="yt-timestamp" data-t="14:57:00">[14:57:00]</a>.
+*   Spaces with infinitely many dimensions also exist and are studied in [[independent_existence_of_mathematics | mathematics]] <a class="yt-timestamp" data-t="15:24:00">[15:24:00]</a>.
+
+## The Elegance of Mathematics in Describing Nature
+Euler's formula ($e^{i\pi} + 1 = 0$) is considered the most elegant formula in [[role_of_mathematics_in_understanding_the_universe | mathematics]] <a class="yt-timestamp" data-t="00:51:59">[00:51:59]</a>, <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>. Its beauty lies in combining three fundamental constants:
+*   **e**: The base of the natural logarithm, appearing in growth processes <a class="yt-timestamp" data-t="42:00:00">[42:00:00]</a>.
+*   **π (Pi)**: The ratio of a circle's circumference to its diameter <a class="yt-timestamp" data-t="42:04:00">[42:04:00]</a>.
+*   **i**: The imaginary unit, whose square is -1 <a class="yt-timestamp" data-t="42:06:00">[42:06:00]</a>.
+*   It also involves 0 and 1, the basic additive and multiplicative identities <a class="yt-timestamp" data-t="41:11:00">[41:11:00]</a>.
+
+Geometrically, the formula illustrates that rotating a segment from 0 to 1 on a plane by 180 degrees results in -1 <a class="yt-timestamp" data-t="41:17:00">[41:17:00]</a>. The unexpected connection between these seemingly disparate constants is seen as a profound beauty of [[role_of_mathematics_in_understanding_the_universe | mathematics]] and nature <a class="yt-timestamp" data-t="42:15:00">[42:15:00]</a>, <a class="yt-timestamp" data-t="42:24:00">[42:24:00]</a>. Understanding it fully requires knowledge of complex numbers and Taylor series <a class="yt-timestamp" data-t="42:38:00">[42:38:00]</a>.
+
+The idea that the universe might be "complex" rather than "real" (in the mathematical sense of real numbers) suggests that if humans evolved thinking in complex numbers, many phenomena (like quantum physics) might appear more obviously integrated <a class="yt-timestamp" data-t="43:56:00">[43:56:00]</a>.
+
+## Limits and Philosophical Questions
+Mathematics is a powerful tool for describing phenomena when they are understood precisely at a micro-level, allowing for extrapolation to macro-level consequences <a class="yt-timestamp" data-t="16:34:00">[16:34:00]</a>. However, it faces limitations when the underlying micro-scale mechanisms are not fully understood, such as with the functioning of the human brain <a class="yt-timestamp" data-t="17:00:00">[17:00:00]</a>, <a class="yt-timestamp" data-t="17:20:00">[17:20:00]</a>.
+
+> [!WARNING] Gödel's Incompleteness Theorems
+> Kurt Gödel's theorem, often cited by physicist Roger Penrose, states that if one starts with a set of axioms, there will always be true statements that cannot be proven from those axioms <a class="yt-timestamp" data-t="18:28:00">[18:28:00]</a>. This means it is impossible to choose a finite set of "good" axioms that can build all of mathematics <a class="yt-timestamp" data-t="18:54:00">[18:54:00]</a>.
+>
+> Penrose used this to argue that human consciousness involves non-algorithmic processes (possibly quantum) because humans can "know" certain truths that cannot be algorithmically proven <a class="yt-timestamp" data-t="20:21:00">[20:21:00]</a>, <a class="yt-timestamp" data-t="20:31:00">[20:31:00]</a>. However, this argument depends on the unproven assumption that [[role_of_mathematics_in_understanding_the_universe | mathematics]] is consistent (i.e., that one cannot prove a theorem and its opposite) <a class="yt-timestamp" data-t="21:00:00">[21:00:00]</a>, <a class="yt-timestamp" data-t="21:12:00">[21:12:00]</a>. The consistency of [[role_of_mathematics_in_understanding_the_universe | mathematics]] itself cannot be proven <a class="yt-timestamp" data-t="00:20:22">[00:20:22]</a>, leading to an element of "faith" in foundational mathematical principles <a class="yt-timestamp" data-t="21:13:00">[21:13:00]</a>, <a class="yt-timestamp" data-t="21:26:00">[21:26:00]</a>.
+
+Mathematical calculations can be used to explore fundamental questions like the existence of a Creator or the probability of life elsewhere in the galaxy, though such applications often involve approximations and depend on initial assumptions <a class="yt-timestamp" data-t="22:24:00">[22:24:00]</a>, <a class="yt-timestamp" data-t="23:13:00">[23:13:00]</a>, <a class="yt-timestamp" data-t="24:46:00">[24:46:00]</a>. Roger Penrose, for example, used the second law of thermodynamics to question why entropy was so incredibly low at the Big Bang, suggesting a cyclical universe as an explanation <a class="yt-timestamp" data-t="23:30:00">[23:30:00]</a>, <a class="yt-timestamp" data-t="24:50:00">[24:50:00]</a>.
+
+## Mathematics in Practical Applications
+The principles of [[role_of_mathematics_in_understanding_the_universe | mathematics]] are integral to modern applications. For instance, the use of expander graphs, which are mathematical structures allowing rapid processing of large amounts of information, is crucial in fields like social media algorithms (e.g., sorting on Twitter) <a class="yt-timestamp" data-t="32:22:00">[32:22:00]</a>. These graphs are derived from properties of symmetries of all symmetries (automorphism groups of free groups) <a class="yt-timestamp" data-t="30:40:00">[30:40:00]</a>.
+
+The success of figures like James Simons, who used pure [[role_of_mathematics_in_understanding_the_universe | mathematics]] to "hack" the stock exchange, highlights the practical power of mathematical models in complex systems <a class="yt-timestamp" data-t="45:29:00">[45:29:00]</a>. This is often achieved through arbitrage, where algorithms quickly identify and exploit price discrepancies across markets <a class="yt-timestamp" data-t="46:16:00">[46:16:00]</a>.
+
+## The Future of Mathematics and its Tools
+The field of [[role_of_mathematics_in_understanding_the_universe | mathematics]] is seen as infinitely expanding, with continuous discoveries on the horizon <a class="yt-timestamp" data-t="47:32:00">[47:32:00]</a>. The development of computers, which are fundamentally mathematical machines designed to perform mathematical operations <a class="yt-timestamp" data-t="53:35:00">[53:35:00]</a>, is not considered a dead end but rather a tool that opens new avenues for discovery <a class="yt-timestamp" data-t="47:43:00">[47:43:00]</a>. While computers can assist in proofs (e.g., through computation), human mathematicians continue to develop purely theoretical proofs <a class="yt-timestamp" data-t="47:46:00">[47:46:00]</a>.
+
+> [!NOTE] Computer Science and Mathematics
+> Computer science is viewed as a significant achievement born from [[role_of_mathematics_in_understanding_the_universe | mathematics]] <a class="yt-timestamp" data-t="53:15:00">[53:15:00]</a>. Historically, mathematicians pondered problems that are now tackled by computer scientists, indicating a close, though sometimes envious, relationship between the fields <a class="yt-timestamp" data-t="53:58:00">[53:58:00]</a>.
+
+Artificial intelligence, particularly generative AI, is seen as a powerful tool that will make life easier for those who utilize it, similar to the impact of electricity <a class="yt-timestamp" data-t="52:26:00">[52:26:00]</a>. While AI can currently assist with linguistic tasks like proofreading <a class="yt-timestamp" data-t="51:29:00">[51:29:00]</a>, the potential for it to generate mathematical proofs is recognized as a future possibility <a class="yt-timestamp" data-t="51:56:00">[51:56:00]</a>.
+
+Significant ongoing challenges in [[role_of_mathematics_in_understanding_the_universe | mathematics]] include the Riemann Hypothesis <a class="yt-timestamp" data-t="54:53:00">[54:53:00]</a>. Past breakthroughs, like Andrew Wiles's proof of Fermat's Last Theorem, not only solved long-standing problems but also introduced new methods and created entire subfields of mathematics, such as arithmetic geometry <a class="yt-timestamp" data-t="55:37:00">[55:37:00]</a>.

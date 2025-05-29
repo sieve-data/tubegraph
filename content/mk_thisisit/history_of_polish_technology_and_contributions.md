@@ -1,0 +1,22 @@
+---
+title: History of Polish technology and contributions
+videoId: M-fcuu5YOXQ
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Professor Andrzej Targowski, recognized as one of the pioneers of [[polish_computer_science_and_technology | Polish computer science and technology]], has significantly contributed to the field globally and within Poland <a class="yt-timestamp" data-t="01:05:00">[01:05:00]</a>, <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>. His work extends beyond Poland, as he is also known as the father and creator of one of the first digital cities in the United States, as part of the Tele-City of Calam project <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>, <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>, <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>. He also developed the information highway project 11 years before the Internet was popularized <a class="yt-timestamp" data-t="01:23:00">[01:23:00]</a>, <a class="yt-timestamp" data-t="01:26:00">[01:26:00]</a>, <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>.
+
+## Key Contributions
+
+### Early Computer Installations
+In 1966, Professor Targowski installed the first IBM computer in Eastern Europe, specifically an IBM 144, at the Warsaw Zeto ZAR center <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>, <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>, <a class="yt-timestamp" data-t="09:16:00">[09:16:00]</a>, <a class="yt-timestamp" data-t="09:21:00">[09:21:00]</a>, <a class="yt-timestamp" data-t="09:26:00">[09:26:00]</a>, <a class="yt-timestamp" data-t="09:30:00">[09:30:00]</a>, <a class="yt-timestamp" data-t="09:31:00">[09:31:00]</a>, <a class="yt-timestamp" data-t="09:34:00">[09:34:00]</a>. This pioneering effort earned him significant training and development opportunities from IBM across Europe and America <a class="yt-timestamp" data-t="09:38:00">[09:38:00]</a>, <a class="yt-timestamp" data-t="09:42:00">[09:42:00]</a>, <a class="yt-timestamp" data-t="09:44:00">[09:44:00]</a>.
+
+### Contributions to Nuclear Technology
+[[the_contributions_of_professor_jan_madey_to_polish_computing | Stanisław Ulam]], a Polish-American mathematician, is recognized as the creator of the thermonuclear bomb <a class="yt-timestamp" data-t="23:26:00">[23:26:00]</a>, <a class="yt-timestamp" data-t="23:28:00">[23:28:00]</a>, <a class="yt-timestamp" data-t="23:32:00">[23:32:00]</a>. Ulam spent years at Los Alamos in New Mexico working on this project <a class="yt-timestamp" data-t="23:34:00">[23:34:00]</a>, <a class="yt-timestamp" data-t="23:37:00">[23:37:00]</a>. He mathematically proved that an atomic bomb fuse is necessary for a hydrogen weapon to explode, a key insight that led to its creation <a class="yt-timestamp" data-t="25:15:00">[25:15:00]</a>, <a class="yt-timestamp" data-t="25:18:00">[25:18:00]</a>, <a class="yt-timestamp" data-t="25:21:00">[25:21:00]</a>, <a class="yt-timestamp" data-t="25:26:00">[25:26:00]</a>, <a class="yt-timestamp" data-t="25:28:00">[25:28:00]</a>, <a class="yt-timestamp" data-t="25:31:00">[25:31:00]}}]. The thermonuclear bomb was developed by Hungarians and Poles under the direction of J. Robert Oppenheimer <a class="yt-timestamp" data-t="25:41:00">[25:41:00]</a>, <a class="yt-timestamp" data-t="25:46:00">[25:46:00]</a>, <a class="yt-timestamp" data-t="25:49:00">[25:49:00]</a>.
+
+### Codebreaking Achievements
+The breaking of the Enigma code is highlighted as a significant [[polish_culture_and_technological_innovation | Polish mathematical achievement]], despite claims by other nations <a class="yt-timestamp" data-t="26:18:00">[26:18:00]</a>, <a class="yt-timestamp" data-t="26:21:00">[26:21:00]</a>, <a class="yt-timestamp" data-t="26:23:00">[26:23:00]</a>.
+
+## Polish Creativity and Optimism
+A recurring theme is the idea that Poles become more creative and "smart" when faced with adversity or poverty <a class="yt-timestamp" data-t="38:17:00">[38:17:00]</a>, <a class="yt-timestamp" data-t="38:22:00">[38:22:00]</a>, <a class="yt-timestamp" data-t="38:27:00">[38:27:00]</a>, <a class="yt-timestamp" data-t="38:30:00">[38:30:00]</a>. Professor Targowski maintains an optimistic outlook regarding Poland's influence on global development, believing that it should be highlighted <a class="yt-timestamp" data-t="38:55:00">[38:55:00]</a>, <a class="yt-timestamp" data-t="38:59:00">[38:59:00]</a>, <a class="yt-timestamp" data-t="39:01:00">[39:01:00]</a>, <a class="yt-timestamp" data-t="39:03:00">[39:03:00]</a>, <a class="yt-timestamp" data-t="39:06:00">[39:06:00]</a>.

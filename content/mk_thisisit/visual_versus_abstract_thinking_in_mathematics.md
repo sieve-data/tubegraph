@@ -1,0 +1,36 @@
+---
+title: Visual versus abstract thinking in mathematics
+videoId: i6cvvDdM0Ls
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Mathematics, as a field, exists independently of human imposition; it is already present and discovered, rather than created <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a> <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a> <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. It is akin to archaeology, where researchers dig to uncover results that inherently exist, even if unseen by humans <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a> <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. This means mathematical concepts, like the number three, possess their own objective existence, independent of human representation or creation <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a> <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Mathematical truths are objective, although the process of understanding or proving them can be subjective <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
+
+The objective nature of mathematics leads to a significant division among mathematicians regarding how they perceive and approach these concepts.
+
+## Visual versus Abstract Approaches
+
+Mathematicians are generally divided into those who prefer a visual image and those who favor a more abstract or algebraic way of thinking <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. For some, like the speaker, understanding concepts is easier through visual means, making it more accessible, though they can also engage with abstract or algebraic ideas <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>. Eminent mathematicians, such as Michel Atiyah, have acknowledged the existence of both visual and non-visual (abstract) thinkers <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+
+The speaker observed this division during their university studies, noting that visual thinkers were a minority among their peers <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a> <a class="yt-timestamp" data-t="00:15:40">[00:15:40]</a>. Despite being a visual thinker, it was not a disadvantage for them <a class="yt-timestamp" data-t="00:15:52">[00:15:52]</a>.
+
+## Challenges for Visual Thinkers
+
+There is a perceived "systemic prejudice against mathematicians who are good at [[influence_of_geometric_thinking_in_mathematical_education | geometric thinking]]" <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a> <a class="yt-timestamp" data-t="00:19:06">[00:19:06]</a>. This stems from the difficulty of translating visual or [[mathematical_interpretations_of_geometric_principles | geometric thinking]] into written proofs or algebraic manipulations required for exams <a class="yt-timestamp" data-t="00:17:52">[00:17:52]</a>. While algebraic problems can be written down directly, geometric problems often necessitate an additional step of translating the visual understanding into a linear, verbal explanation <a class="yt-timestamp" data-t="00:17:12">[00:17:12]</a> <a class="yt-timestamp" data-t="00:18:06">[00:18:06]</a>. This translation process can make exams harder for visual thinkers compared to those who think more directly in a verbal or algebraic manner <a class="yt-timestamp" data-t="00:19:27">[00:19:27]</a>. The speaker also noted that teaching visually was often not met with enthusiasm by students, who preferred formulas that could be written and manipulated <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a>.
+
+## Multidimensional Thinking
+
+The human brain is not limited to three-dimensional thinking <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a> <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>. Modern physics, particularly quantum mechanics, utilizes mathematical schemes that are n-dimensional or even infinite-dimensional, moving beyond simple three- or four-dimensional concepts <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>. While it might be more challenging, it is possible to conceptualize these higher dimensions in a less visual, more abstract way <a class="yt-timestamp" data-t="00:12:04">[00:12:04]</a>.
+
+A prime example is Hermann Minkowski's geometric interpretation of special relativity <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>. This framework introduces a four-dimensional geometry, where time behaves differently from spatial dimensions <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a> <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>. Initially, Einstein was dismissive of Minkowski's approach, viewing it as "mathematical sophistry" rather than "real physics" <a class="yt-timestamp" data-t="00:22:49">[00:22:49]</a>. However, Einstein later realized that he would not have been able to develop the general theory of relativity without Minkowski's visualization of a flat, multidimensional space, which could then be "curved" to describe gravity <a class="yt-timestamp" data-t="00:23:13">[00:23:13]</a>. This highlights that despite personal preferences, engagement with different conceptual approaches is crucial for scientific progress.
+
+Visual thinkers often employ "little tricks" to imagine higher dimensions, such as envisioning a three-dimensional version of a four-dimensional concept while understanding its inherent imprecision <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a> <a class="yt-timestamp" data-t="00:24:58">[00:24:58]</a>. The understanding of concepts like space-time in special relativity involves dimensions where time behaves distinctly from space, moving beyond simple Euclidean three-dimensionality <a class="yt-timestamp" data-t="00:14:09">[00:14:09]</a>.
+
+## Einstein's Understanding of Mathematics
+
+It is generally acknowledged that Einstein, while a brilliant physicist, had difficulties intuitively grasping certain mathematical concepts in the same way some mathematicians did <a class="yt-timestamp" data-t="00:25:26">[00:25:26]</a>. This suggests that even within groundbreaking scientific work, there can be a spectrum of strengths in visual versus abstract [[the_role_and_perception_of_mathematics_in_understanding_the_universe | mathematical interpretation]].
+
+## The Romanticism of Mathematics
+
+Mathematics, despite its abstract nature, can be described as "romantic" because it describes the real world in a way that feels like a fairy tale, allowing one to live in a world that is both imagined and real <a class="yt-timestamp" data-t="00:26:12">[00:26:12]</a>. This is exemplified by stories like George Gamow's "Mr. Tompkins" series, which explored physical phenomena like special relativity and quantum theory by changing parameters, inviting readers to imagine different realities <a class="yt-timestamp" data-t="00:27:25">[00:27:25]</a> <a class="yt-timestamp" data-t="00:28:26">[00:28:26]</a>. These stories showcase the [[elegance_and_beauty_in_mathematics | elegance and beauty in mathematics]] that enables the description of the universe. The more humanity understands the physical world, the more its behavior is seen to [[role_of_mathematics_in_describing_reality | depend on mathematics]], which is subtle, sophisticated, and universal in character <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a> <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.

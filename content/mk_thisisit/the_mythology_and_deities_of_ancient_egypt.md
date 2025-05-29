@@ -1,0 +1,28 @@
+---
+title: The mythology and deities of ancient Egypt
+videoId: 5z62mCFAC24
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Professor Karol Myśliwiec, a prominent Egyptologist, expresses a particular fascination with the deities of [[Ancient Egypt and Ptolemaic period discoveries | ancient Egypt]] and their associated myths. His interest stems from both their individual characteristics and their broader implications for understanding ancient Egyptian society and beliefs <a class="yt-timestamp" data-t="00:16:15">[00:16:15]</a>.
+
+## Key Deities and Their Significance
+
+### Atum: The Chief God and Demiurge
+Professor Myśliwiec is most interested in Atum, who served as the chief god and demiurge, or primordial god, in Heliopolis, near the first capital of Memphis <a class="yt-timestamp" data-t="00:16:28">[00:16:28]</a>.
+Notably, Atum was often identified with the pharaoh. The sole element that distinguished the pharaoh from Atum in representations was the shape of their beard. While most Egyptian deities had a beard curled forward at the lower part, Atum's beard was straight, cut at a right angle at the end. This unique characteristic allowed observers to differentiate between a human pharaoh and the deity, even without accompanying inscriptions <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>.
+
+Atum is also a central solar deity linked to the cult of the Sun in Heliopolis. Around the mid-second millennium BC, a significant revolution occurred in Egypt, sometimes referred to as the "revolution of Akhenaten," who is credited with introducing the world's first monotheism <a class="yt-timestamp" data-t="00:18:10">[00:18:10]</a>. Professor Myśliwiec's research indicates that this shift in Egyptian imagination was likely driven by political factors, including the rule of Queen Hatshepsut, which fostered a more feminine Egyptian culture and an increasing influence of solar cults. Akhenaten's beliefs, rather than being a sudden revolution, are seen as the culmination of this ongoing evolution <a class="yt-timestamp" data-t="00:19:17">[00:19:17]</a>.
+
+### Creation Narratives
+[[Ancient Egypt and Ptolemaic period discoveries | Ancient Egypt]] featured diverse versions of the world's beginning, with nearly every major religious center possessing unique ideas about creation <a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>. According to [[Ancient Egypt and Ptolemaic period discoveries | ancient texts]], Atum created the world. As the sole god at the beginning, he had to masturbate to produce the material for the first divine couple, embodying both man and woman <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a>.
+
+### Horus and Set: Duality of Human Nature
+The [[Ancient Egypt and Ptolemaic period discoveries | ancient Egyptians]] held a sophisticated understanding of human nature, recognizing elements of both good and evil within every individual, rather than rigidly categorizing people as solely good or evil <a class="yt-timestamp" data-t="00:22:16">[00:22:16]</a>. This concept was personified by the divine pair Horus and Set. While Horus was generally perceived as good and Set as bad, their roles were more nuanced. Horus could sometimes be depicted as a "whiner," while Set, often seen as "clever" or "over-energetic," could even act as a protector of the pharaoh, symbolized by a snake over the pharaoh's forehead <a class="yt-timestamp" data-t="00:23:17">[00:23:17]</a>. This perspective suggests that they did not divide the world into absolute good and bad, but understood the positive and negative aspects within all beings <a class="yt-timestamp" data-t="00:23:27">[00:23:27]</a>.
+
+### Animal Deities
+[[Ancient Egypt and Ptolemaic period discoveries | Animals]] held significant respect in [[Ancient Egypt and Ptolemaic period discoveries | ancient Egypt]]. While they served as pulling forces and were targets for organized hunts (wild animals), certain animals, like dogs and cats, were held in high esteem <a class="yt-timestamp" data-t="00:38:27">[00:38:27]</a>. The cat, for example, was an Egyptian goddess, and the dog, like the jackal-headed god Anubis, was among the most important figures in the pantheon, responsible for mummification <a class="yt-timestamp" data-t="00:39:05">[00:39:05]</a>. Performers of mummification were often depicted wearing masks resembling a pseudo-dog <a class="yt-timestamp" data-t="00:39:13">[00:39:13]</a>. The Egyptians were precise observers of natural life, depicting it with incredible accuracy, yet they also integrated these naturalistic elements into fantastic, general ideas, such as "wallpaper" bas-reliefs combining various elements of Egyptian nature in a compressed, artistic form <a class="yt-timestamp" data-t="00:40:09">[00:40:09]</a>.
+
+## "Curse of Tutankhamun"
+The popular notion of a "Curse of Tutankhamun" is considered an invention driven by authors seeking sensations <a class="yt-timestamp" data-t="00:40:34">[00:40:34]</a>. While some individuals associated with the tomb's discovery did die, thorough examination revealed that each death had distinct causes unrelated to a curse. There is no evidence of ancient bacteria preserved in the tombs that could cause death upon opening <a class="yt-timestamp" data-t="00:21:19">[00:21:19]</a>. Instead, it is more plausible that any related illnesses were due to pre-existing diseases or general exposure within the tomb, rather than a supernatural curse <a class="yt-timestamp" data-t="00:20:55">[00:20:55]</a>.

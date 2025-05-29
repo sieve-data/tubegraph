@@ -1,0 +1,20 @@
+---
+title: Quantum mechanics and consciousness
+videoId: wlF_Yfv_YIk
+---
+
+From: [[mk_thisisit]] <br/> 
+
+## The Brain and Consciousness
+The exact structure of the brain remains one of science's greatest mysteries <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>. Some theories suggest that ordinary mechanics, akin to transistors and circuits, can explain brain function <a class="yt-timestamp" data-t="00:17:45">[00:17:45]</a>. However, [[The role of quantum mechanics in understanding consciousness | quantum mechanics]] may also play a role in brain function <a class="yt-timestamp" data-t="00:17:53">[00:17:53]</a>.
+
+### Free Will and Quantum Mechanics
+[[Quantum physics and its relation to free will | Quantum mechanics]] is believed to play a role in free will <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>. Free will is defined as the ability to be independent and creative, without external commands or a pre-determined scenario <a class="yt-timestamp" data-t="00:18:05">[00:18:05]</a>. Humans are thought to possess free will, unlike robots or artificial intelligence which are mechanical and deterministic <a class="yt-timestamp" data-t="00:18:17">[00:18:17]</a>. If the brain were purely digital, without [[Quantum mechanics and its implications | quantum mechanics]], free will would not exist, making individuals akin to robots <a class="yt-timestamp" data-t="00:18:55">[00:18:55]</a>. [[Quantum mechanics and its implications | Quantum mechanics]] introduces uncertainty, which is seen as essential for creativity, thinking, and ultimately, consciousness <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>. Consciousness itself might be a by-product of [[Quantum mechanics and its implications | quantum mechanics]] <a class="yt-timestamp" data-t="00:19:10">[00:19:10]</a>.
+
+## Simulation Theory (The Matrix)
+The simulation theory, popularized by films like *The Matrix*, proposes that reality is a simulation <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. However, this theory is considered untestable <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>. In the opinion of some, it may violate the principles of [[Quantum mechanics and its implications | quantum mechanics]], particularly the uncertainty principle <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. The Matrix is described as a Newtonian-type theory, devoid of [[Quantum mechanics and its implications | quantum mechanics]] <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. Since the universe is based on [[Quantum mechanics and its implications | quantum mechanics]] rather than Newtonian principles, it is suggested that we do not live in such a simulated matrix <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>.
+
+## The Role of Quantum Mechanics in Stability and Life
+Classical Newtonian physics is inherently unstable; it cannot guarantee stability <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>. For example, if two solar systems collided in a Newtonian universe, planets would scatter <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a>. It is impossible to create a universe or stable matter from Newton's theory alone <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>.
+
+In contrast, [[Quantum mechanics and its implications | quantum mechanics]] provides stability, allowing for the formation of stable atoms <a class="yt-timestamp" data-t="00:16:09">[00:16:09]</a>. These stable atoms are the fundamental building blocks of organisms and enable phenomena such as photosynthesis <a class="yt-timestamp" data-t="00:16:14">[00:16:14]</a>. Without [[Quantum mechanics and its implications | quantum mechanics]], atoms would disintegrate into a mist of subatomic particles, and life would be impossible <a class="yt-timestamp" data-t="00:17:10">[00:17:10]</a>. Humans are considered by-products of [[Quantum mechanics and its implications | quantum mechanics]], which holds atoms together <a class="yt-timestamp" data-t="00:16:37">[00:16:37]</a>.

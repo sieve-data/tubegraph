@@ -1,0 +1,44 @@
+---
+title: String theory
+videoId: wlF_Yfv_YIk
+---
+
+From: [[mk_thisisit]] <br/> 
+
+[[string_theory_and_the_universe | String theory]] is presented as the only known theory capable of unifying quantum mechanics and relativity, which is considered the greatest challenge for quantum physics today <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>, <a class="yt-timestamp" data-t="01:05:00">[01:05:00]</a>. It is described as a "theory of music" with "notes" that represent particles like electrons and protons, but also higher octaves that may constitute dark matter <a class="yt-timestamp" data-t="04:16:00">[04:16:00]</a>, <a class="yt-timestamp" data-t="04:44:00">[04:44:00]</a>.
+
+## [[string_theory_and_its_challenges | Challenges of String Theory]]
+
+One significant issue with [[string_theory_and_its_challenges | string theory]] is that it does not offer a single, unique solution for describing our universe <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>, <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>. Much like Newton's laws of gravity, which have infinite solutions (e.g., cannonballs, rockets, planets), [[string_theory_and_its_challenges | string theory]] also has an infinite number of solutions <a class="yt-timestamp" data-t="01:26:00">[01:26:00]</a>, <a class="yt-timestamp" data-t="01:49:00">[01:49:00]</a>, <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>. The fundamental question is which of these infinite solutions describes our specific universe <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>. This is currently unknown because humanity does not fully understand the Big Bang <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>.
+
+Furthermore, a major [[string_theory_and_its_limitations | limitation of string theory]] is its current untestability <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>, <a class="yt-timestamp" data-t="04:00:00">[04:00:00]</a>, <a class="yt-timestamp" data-t="11:17:00">[11:17:00]</a>. It posits particles with energies far exceeding what can be produced on Earth, making experimental verification impossible with current technology <a class="yt-timestamp" data-t="11:22:00">[11:22:00]</a>, <a class="yt-timestamp" data-t="11:36:00">[11:36:00]</a>.
+
+## [[string_theory_and_the_universe | String Theory]] and the [[multiverse_theory | Multiverse Theory]]
+
+The concept of an infinite number of solutions in [[string_theory_and_the_universe | string theory]] directly supports the [[multiverse_theory | multiverse theory]] <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>. These solutions correspond to different courses of Big Bangs <a class="yt-timestamp" data-t="03:35:00">[03:35:00]</a>. The [[multiverse_theory | multiverse theory]] suggests that the universe is akin to a soap bubble, where bubbles can collide, merge, or burst into smaller bubbles, which represents how Big Bangs occur <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>, <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. This theory posits an infinite number of universes, with our universe being one such bubble that expanded from a Big Bang <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>, <a class="yt-timestamp" data-t="03:14:00">[03:14:00]</a>.
+
+Evidence for the existence of the [[multiverse_theory | multiverse]] remains a hypothesis, requiring concrete proof, potentially from dark matter <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>, <a class="yt-timestamp" data-t="04:06:00">[04:06:00]</a>.
+
+## [[string_theory_and_the_universe | String Theory]] and Dark Matter
+
+[[string_theory_and_the_universe | String theory]] is considered the only theory developed enough to explain dark matter, which constitutes the majority of matter in the universe <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>, <a class="yt-timestamp" data-t="05:11:00">[05:11:00]</a>. The universe is primarily composed of this "new substance" rather than atoms <a class="yt-timestamp" data-t="04:36:00">[04:36:00]</a>, <a class="yt-timestamp" data-t="04:42:00">[04:42:00]</a>. Dark matter is hypothesized to be another "octave" of the string, with the potential for infinitely many octaves <a class="yt-timestamp" data-t="04:44:00">[04:44:00]</a>, <a class="yt-timestamp" data-t="04:48:00">[04:48:00]</a>.
+
+## [[string_theory_and_the_universe | String Theory]] and Dimensions
+
+[[string_theory_and_the_universe | String theory]] suggests the existence of more dimensions than the three spatial dimensions we perceive <a class="yt-timestamp" data-t="20:49:00">[20:49:00]</a>. If [[string_theory_and_the_universe | string theory]] is correct, there are 11 dimensions in hyperspace <a class="yt-timestamp" data-t="21:09:00">[21:09:00]</a>, <a class="yt-timestamp" data-t="21:13:00">[21:13:00]</a>. It is stable specifically in 10 and 11 dimensions, making it the only scientific theory that inherently determines its own dimensions <a class="yt-timestamp" data-t="21:26:00">[21:26:00]</a>, <a class="yt-timestamp" data-t="21:33:00">[21:33:00]</a>, <a class="yt-timestamp" data-t="21:37:00">[21:37:00]</a>. This contrasts with Newton's laws, which can be applied in any number of dimensions <a class="yt-timestamp" data-t="21:40:00">[21:40:00]</a>, <a class="yt-timestamp" data-t="21:43:00">[21:43:00]</a>.
+
+[[string_theory_and_the_universe | String theory]] proposes that the Big Bang occurred in 11 dimensions and that our universe is a three-dimensional bubble created after this explosion <a class="yt-timestamp" data-t="22:08:00">[22:08:00]</a>, <a class="yt-timestamp" data-t="22:11:00">[22:11:00]</a>, <a class="yt-timestamp" data-t="22:19:00">[22:19:00]</a>.
+
+## Search for a Grand Unification Theory
+
+Physics aims for a grand unification theory to unite quantum mechanics and the theory of relativity <a class="yt-timestamp" data-t="10:50:00">[10:50:00]</a>, <a class="yt-timestamp" data-t="10:57:00">[10:57:00]</a>. Historically, many brilliant scientists, including Heisenberg, Wolfgang Pauli, and Schrödinger, attempted to combine these theories but failed <a class="yt-timestamp" data-t="11:55:00">[11:55:00]</a>, <a class="yt-timestamp" data-t="11:59:00">[11:59:00]</a>. So far, [[string_theory_and_the_universe | string theory]] is the only one that has held up as a potential candidate, although its correctness remains unconfirmed due to untestability <a class="yt-timestamp" data-t="11:08:00">[11:08:00]</a>, <a class="yt-timestamp" data-t="11:14:00">[11:14:00]</a>.
+
+One perspective suggests that [[string_theory_and_the_universe | string theory]] offers a "unifying principle" by conceptualizing all reality, including life and the richness of the world, as originating from vibrating strings <a class="yt-timestamp" data-t="12:38:00">[12:38:00]</a>, <a class="yt-timestamp" data-t="12:44:00">[12:44:00]</a>, <a class="yt-timestamp" data-t="14:14:00">[14:14:00]</a>, <a class="yt-timestamp" data-t="14:18:00">[14:18:00]</a>.
+
+## The Quantum Universe and Stability
+
+The stability of matter and the possibility of life, including processes like quantum photosynthesis, depend on quantum mechanics <a class="yt-timestamp" data-t="14:24:00">[14:24:00]</a>, <a class="yt-timestamp" data-t="14:45:00">[14:45:00]</a>, <a class="yt-timestamp" data-t="15:52:00">[15:52:00]</a>, <a class="yt-timestamp" data-t="15:55:00">[15:55:00]</a>. Without quantum mechanics, atoms would not be stable, and everything, including living organisms, would disintegrate into a "mist of subatomic particles" <a class="yt-timestamp" data-t="14:49:00">[14:49:00]</a>, <a class="yt-timestamp" data-t="16:09:00">[16:09:00]</a>, <a class="yt-timestamp" data-t="16:27:00">[16:27:00]</a>, <a class="yt-timestamp" data-t="17:13:00">[17:13:00]</a>. Newtonian physics, based on classical mechanics, is inherently unstable and cannot create a stable universe <a class="yt-timestamp" data-t="15:21:00">[15:21:00]</a>, <a class="yt-timestamp" data-t="15:29:00">[15:29:00]</a>.
+
+### Consciousness and Free Will
+
+Quantum mechanics may also play a role in human consciousness and free will <a class="yt-timestamp" data-t="17:53:00">[17:53:00]</a>, <a class="yt-timestamp" data-t="17:59:00">[17:59:00]</a>, <a class="yt-timestamp" data-t="19:10:00">[19:10:00]</a>. It provides the "uncertainty" necessary for creativity and independent thought, differentiating humans from deterministic robots <a class="yt-timestamp" data-t="18:05:00">[18:05:00]</a>, <a class="yt-timestamp" data-t="18:20:00">[18:20:00]</a>, <a class="yt-timestamp" data-t="19:06:00">[19:06:00]</a>. A "digital brain" lacking quantum mechanics would equate to a robot without free will <a class="yt-timestamp" data-t="18:55:00">[18:55:00]</a>, <a class="yt-timestamp" data-t="19:01:00">[19:01:00]</a>.

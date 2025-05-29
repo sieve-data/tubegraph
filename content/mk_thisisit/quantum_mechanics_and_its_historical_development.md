@@ -1,0 +1,49 @@
+---
+title: Quantum mechanics and its historical development
+videoId: TILl1TNws5o
+---
+
+From: [[mk_thisisit]] <br/> 
+
+[[Quantum mechanics and its implications | Quantum mechanics]] experienced a "minor breakdown" around 1920-1922, with a temporary decline in belief due to a lack of experimental confirmation of its theories [00:03:46]<a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. Despite this, foundational work by scientists like Max Planck and Albert Einstein, and later Satyendra Nath Bose, laid the groundwork for significant discoveries in the field [00:04:00]<a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
+
+## The Bose-Einstein Condensate: A Groundbreaking State of Matter
+A previously unknown state of matter exists where particles become a collective unity [00:00:01]<a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. This fundamental state is now known as the Bose-Einstein Condensate [00:06:01]<a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
+
+### Bose's Groundbreaking Research
+Satyendra Nath Bose's research was groundbreaking due to his derivation of the Planck equation by considering only the [[Quantum properties and their applications | quantum nature]] of light [00:01:16]<a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. He noticed that when a gas of photons cools to very low temperatures, these photons change their nature, ceasing to act as individual particles and instead behaving as one macroscopic wave [00:02:08]<a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. They lose their individuality, interact integrally, and collectively occupy the same [[Quantum theory at atomic and molecular levels | quantum state]] [00:02:27]<a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+
+Bose attempted to publish his results in the British journal *Philosophical Magazine*, but his work was rejected due to the prevailing skepticism towards [[Quantum mechanics and its implications | quantum mechanics]] at the time, which lacked sufficient experimental confirmation [00:03:00]<a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. Faced with potential academic repercussions at his university in Dhaka (present-day Bangladesh), Bose sent his results directly to Albert Einstein [00:04:25]<a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>.
+
+### Einstein's Contribution
+Albert Einstein was delighted by Bose's work [00:04:59]<a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>. He translated Bose's entire paper into German, added his own comment calling the work "groundbreaking," and submitted it to a German journal, where it was subsequently accepted and published under Bose's name [00:05:05]<a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+
+Einstein further extended Bose's theory, proposing that not only photons but all bosons, even those with mass, could exhibit such a [[Quantum properties and their applications | quantum state]] [00:05:38]<a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. This extended theory led to the naming of the new state of matter as the Bose-Einstein Condensate [00:06:01]<a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
+
+### Characteristics of the Bose-Einstein Condensate
+In the Bose-Einstein Condensate, all boson particles occupy the same [[Quantum theory at atomic and molecular levels | quantum state]] and become indistinguishable, behaving as a collective unit [00:06:16]<a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. This state is a macroscopic manifestation of [[Quantum mechanics and its implications | quantum mechanics]], where particles lose their individuality and act as a single matter wave [00:29:56]<a class="yt-timestamp" data-t="00:29:56">[00:29:56]</a>. It is a fundamental state of matter that underpins phenomena like superconductivity and superfluidity [00:35:35]<a class="yt-timestamp" data-t="00:35:35">[00:35:35]</a>.
+
+### Experimental Confirmation Challenges
+The experimental confirmation of the Bose-Einstein Condensate was delayed because achieving the conditions predicted by Bose and Einstein's equations was difficult [00:07:08]<a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. Bosons, such as atoms like rubidium or sodium, need to be cooled to extremely low temperatures, on the order of nanokelvins (10^-9 Kelvin) [00:07:20]<a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>. These are among the lowest temperatures observed on Earth, achievable only in specialized physics laboratories [00:08:03]<a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>.
+
+The first atomic condensates (rubidium and sodium) were experimentally confirmed in 1995 [00:08:27]<a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. This achievement, for which the Nobel Prize was awarded in 2001, came after about 70 years of competition among laboratories worldwide [00:08:41]<a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>.
+
+## Modern Research and Applications
+
+### Room Temperature Condensates
+Current research aims to observe the Bose-Einstein Condensate at room temperature [00:09:02]<a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. This requires using particles much lighter than atoms, such as specially created quasi-particles like polariton excitons [00:09:19]<a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. These quasi-particles are created in semiconductor materials and are designed to have very small masses, allowing the critical temperature for phase transition to reach room temperature [00:09:51]<a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
+
+The first condensates in semiconductor materials were observed in 2006 [00:25:04]<a class="yt-timestamp" data-t="00:25:04">[00:25:04]</a>. A significant achievement of the Warsaw research group is the production of these condensates in semi-magnetic materials, enabling control over their spin properties [00:26:19]<a class="yt-timestamp" data-t="00:26:19">[00:26:19]</a>.
+
+### Quasi-Particles and Their Properties
+Quasi-particles are entities that behave like particles under specific conditions, but are composed of an internal structure [00:27:24]<a class="yt-timestamp" data-t="00:27:24">[00:27:24]</a>. Electrons, which are fermions (particles that cannot occupy the same [[Quantum theory at atomic and molecular levels | quantum state]] simultaneously) [00:20:14]<a class="yt-timestamp" data-t="00:20:14">[00:20:14]</a>, can be "dressed" in interactions to form bosons [00:20:47]<a class="yt-timestamp" data-t="00:20:47">[00:20:47]</a>. For example, an electron excited in a semiconductor material can leave behind a "hole," and the electron-hole pair together forms an exciton, which is a boson [00:21:08]<a class="yt-timestamp" data-t="00:21:08">[00:21:08]</a>. Further dressing this exciton with a photon creates a polariton exciton, which can then condense [00:25:35]<a class="yt-timestamp" data-t="00:25:35">[00:25:35]</a>. These quasi-particles have a very small mass, making it possible to achieve condensation at higher temperatures [00:21:51]<a class="yt-timestamp" data-t="00:21:51">[00:21:51]</a>.
+
+### Wave-Particle Duality and Phase Transition
+[[Quantum mechanics and its implications | Quantum mechanics]] introduces the concept of wave-particle duality, where particles can also be described as waves [00:29:01]<a class="yt-timestamp" data-t="00:29:01">[00:29:01]</a>. The transition from a gas of particles to a Bose-Einstein Condensate is a phase transition where the individual de Broglie waves associated with each particle begin to overlap [00:28:28]<a class="yt-timestamp" data-t="00:28:28">[00:28:28]</a>. As temperature decreases, particle velocity slows, and their wavelengths increase [00:29:06]<a class="yt-timestamp" data-t="00:29:06">[00:29:06]</a>. When these wavelengths become sufficiently large at an appropriate particle density, their [[Quantum properties and their applications | quantum nature]] is revealed, leading to their collective interaction and collapse into the Bose-Einstein state [00:29:16]<a class="yt-timestamp" data-t="00:29:16">[00:29:16]</a>.
+
+### Potential Applications in Photonics and Neural Networks
+Research on polariton condensates focuses on their potential in photonics for information processing, using light for calculations and data processing [00:12:23]<a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>. The aim is to build logic gates and networks of condensates that can process information much faster and more energy-efficiently than current electronic systems [00:12:40]<a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>.
+
+Condensates are being explored as a way to create synthetic neural networks, inspired by the human brain [00:00:53]<a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. The nonlinear phase transition from a gas of polaritons to a condensate mirrors the nonlinear processing of information in biological neurons [00:15:04]<a class="yt-timestamp" data-t="00:15:04">[00:15:04]</a>. A single condensate can act as a nonlinear element in a photonic network, capable of emitting light in "spikes" similar to neuronal action [00:16:52]<a class="yt-timestamp" data-t="00:16:52">[00:16:52]</a>.
+
+These networks are envisioned to operate on photons rather than electrons, offering gains in information processing speed [00:16:21]<a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>. A major technical limitation for universal applications is the photostability of the organic and perovskite materials used for room temperature condensates [00:31:02]<a class="yt-timestamp" data-t="00:31:02">[00:31:02]</a>. However, advancements in material science and engineering are expected to lead to more stable materials [00:31:53]<a class="yt-timestamp" data-t="00:31:53">[00:31:53]</a>.

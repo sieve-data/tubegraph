@@ -1,0 +1,50 @@
+---
+title: Cosmological Constant and Dark Energy
+videoId: zxMM3Pgkyks
+---
+
+From: [[mk_thisisit]] <br/> 
+
+The speaker presents a view on the universe's expansion that challenges the traditional understanding of the Big Bang and the role of inflation. This perspective, developed around 2004, suggests that the Big Bang was not the absolute beginning of everything <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
+
+## Reinterpreting the Big Bang and Inflation
+The prevailing inflationary model posits that right after the Big Bang, there was a vast exponential expansion that significantly increased the universe's size in a fraction of a second <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. However, the speaker argues that this is a "misleading picture" <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. Instead, he proposes that the exponential expansion we observe today in our current "aeon" (the period from the Big Bang to the distant future <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>) is actually a continuation of what existed *before* the Big Bang <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
+
+From this viewpoint, the universe's observed exponential expansion is not a new phenomenon after the Big Bang, but rather a continuation of an earlier phase of expansion that occurred prior to it <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>. This means that effects that might resemble inflation are instead "looking back through the Big Bang at the expansion which was the expansion of the inflationary" period of a previous aeon <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. This perspective is stated to be consistent with observations <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+
+## The Cosmological Constant and "Dark Energy"
+The observed exponential expansion is understood as a consequence of Einstein's theory, specifically linked to the [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]] <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+
+Originally, Albert Einstein introduced the [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]] for two reasons, but later considered its removal his "biggest mistake" <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. Paradoxically, this "biggest mistake" proved to be true, as the [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]] does exist and drives the observed exponential expansion of the universe <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+
+The speaker notes that this phenomenon is commonly referred to as [[dark_energy_and_its_implications | dark energy]] <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. However, he critiques this term, stating it is a "terrible name" because it is "not dark or energy in any ordinary sense of the word" <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
+
+### Evolution of Belief
+The speaker admits that he initially doubted the existence of the [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]], assuming it must be zero <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. His view changed after a conversation with cosmologist Ostri from Princeton, who convinced him otherwise <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. Upon reviewing the arguments, he realized his initial assumptions were incorrect and changed his mind, coming to believe in a positive [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]] that leads to exponential expansion <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>. He first lectured on this topic in 2004 <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>.
+
+## The Cyclic Universe and Black Holes
+This theory implies there is "no end" to the universe; the exponential expansion of our current aeon continues <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>. This underpins the concept of the cyclic universe theory <a class="yt-timestamp" data-t="00:08:59">[00:08:59]</a>.
+
+In this model, galaxies, clusters, and supermassive black holes will eventually absorb each other <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>. The universe would then enter a "boring Era" where black holes dominate <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. Over an extremely long period (around 10^100 years), these black holes would gradually disappear through the phenomenon of Hawking evaporation <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>. The energy released from this evaporation would then transfer to the next aeon, potentially creating a point in the sky visible to observers in that future aeon <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>. This process suggests a continuous cycle of aeons, where the end of one becomes the beginning of the next <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.# Cosmological Constant and the Universe's Expansion
+
+The speaker presents a view on the universe's expansion that challenges the traditional understanding of the Big Bang and the role of inflation. This perspective, developed around 2004, suggests that the Big Bang was not the absolute beginning of everything <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
+
+## Reinterpreting the Big Bang and Inflation
+The prevailing inflationary model posits that right after the Big Bang, there was a vast exponential expansion that significantly increased the universe's size in a fraction of a second <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. However, the speaker argues that this is a "misleading picture" <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. Instead, he proposes that the exponential expansion we observe today in our current "aeon" (the period from the Big Bang to the distant future <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>) is actually a continuation of what existed *before* the Big Bang <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
+
+From this viewpoint, the universe's observed exponential expansion is not a new phenomenon after the Big Bang, but rather a continuation of an earlier phase of expansion that occurred prior to it <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>. This means that effects that might resemble inflation are instead "looking back through the Big Bang at the expansion which was the expansion of the inflationary" period of a previous aeon <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. This perspective is stated to be consistent with observations <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+
+## The Cosmological Constant and "Dark Energy"
+The observed exponential expansion is understood as a consequence of Einstein's theory, specifically linked to the [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]] <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+
+Originally, Albert Einstein introduced the [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]] for two reasons, but later considered its removal his "biggest mistake" <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. Paradoxically, this "biggest mistake" proved to be true, as the [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]] does exist and drives the observed exponential expansion of the universe <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+
+The speaker notes that this phenomenon is commonly referred to as [[dark_energy_and_its_implications | dark energy]] <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. However, he critiques this term, stating it is a "terrible name" because it is "not dark or energy in any ordinary sense of the word" <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
+
+### Evolution of Belief
+The speaker admits that he initially doubted the existence of the [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]], assuming it must be zero <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. His view changed after a conversation with cosmologist Ostri from Princeton, who convinced him otherwise <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. Upon reviewing the arguments, he realized his initial assumptions were incorrect and changed his mind, coming to believe in a positive [[the_concept_of_cosmological_constants_and_dark_energy | cosmological constant]] that leads to exponential expansion <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>. He first lectured on this topic in 2004 <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>.
+
+## The Cyclic Universe and Black Holes
+This theory implies there is "no end" to the universe; the exponential expansion of our current aeon continues <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>. This underpins the concept of the cyclic universe theory <a class="yt-timestamp" data-t="00:08:59">[00:08:59]</a>.
+
+In this model, galaxies, clusters, and supermassive black holes will eventually absorb each other <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>. The universe would then enter a "boring Era" where black holes dominate <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. Over an extremely long period (around 10^100 years), these black holes would gradually disappear through the phenomenon of Hawking evaporation <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>. The energy released from this evaporation would then transfer to the next aeon, potentially creating a point in the sky visible to observers in that future aeon <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>. This process suggests a continuous cycle of aeons, where the end of one becomes the beginning of the next <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.

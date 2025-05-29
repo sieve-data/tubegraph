@@ -1,0 +1,43 @@
+---
+title: Development of biological processors using living cells
+videoId: nmDyiiEdHeE
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Biological processors are a groundbreaking innovation, made from living cells <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. Final Spark, a Swiss biocomputing startup founded in 2014, is the first in the world to build a living processor from living neurons <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. The company aims to combine the computing power of computers with the efficiency of the human brain <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. Their unique approach involves using [[techniques_for_creating_and_sustaining_human_brain_organoids | human brain organoids]] for computation <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+
+## What is a Human Brain Organoid?
+A [[techniques_for_creating_and_sustaining_human_brain_organoids | human brain organoid]] is a small fragment of nervous tissue composed of neurons derived from humans <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. These organoids are grown on special plates that allow them to form a three-dimensional structure <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a> <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>. While many people globally are working on [[techniques_for_creating_and_sustaining_human_brain_organoids | human brain organoids]], Final Spark's unique contribution is their application for computing <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a> <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. Functionally, these organoids resemble the fetal brain <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
+
+### Sourcing and Creating Neurons
+Human cells are purchased from specialized companies <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. These are pluripotent stem cells, typically derived from fibroblasts (skin cells) that are reprogrammed to a state of pluripotency, meaning they can become any type of cell <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. Specific methods allow skin cells to be differentiated or restored to pluripotency <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. From this stage, they are transformed into neurons by giving them specific molecules in the culture medium that induce them to become neurons <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. The cells then reorganize into structures resembling parts of the brain <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+
+### Sustaining the Organoids
+In the cell culture room, [[techniques_for_creating_and_sustaining_human_brain_organoids | brain organoids]] are grown in incubators with precise temperature and carbon dioxide concentrations <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. A special pinkish culture medium, containing nutrients, is provided to help them survive <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. A flow system with tubes and a pump ensures the medium flows under the organoid at approximately 30 to 50 microliters per minute <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>. A controlled atmosphere maintains enough oxygen and the optimal temperature of 37 degrees Celsius <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. Final Spark has managed to keep these cells alive for almost three years <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>.
+
+## Connecting to the Neural Platform
+Organoids are placed on a multi-electrode array (MEA) to record their activity <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>. This system has many different electrodes <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>. A membrane with a hole, called "confetti," helps position the organoid exactly in the center and reduces system noise <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>.
+
+## The Butterfly Experiment
+The "butterfly experiment" demonstrates real-time interaction with the [[techniques_for_creating_and_sustaining_human_brain_organoids | brain organoids]] in the laboratory <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. When a blue dot indicates stimulation is sent, a visual illustration of a butterfly moves in three dimensions <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>. If the butterfly responds to stimulation, it flies straight towards the light; otherwise, it moves randomly <a class="yt-timestamp" data-t="00:12:08">[00:12:08]</a>. A response indicates neural activity, likely a "burst" where multiple neurons are transmitting information <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>. This demonstrates established communication with the organoids <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
+
+To induce [[neural_activity_and_energy_efficiency_of_brain_organoids | neurons to process information]] and enforce behavior (learning), dopamine is used to reward the organoid if it performs a desired action <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>.
+
+## Why Biocomputing?
+The initial motivation for Final Spark's project stemmed from an engineering desire to solve problems with the best solutions <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. Previous work with [[neural_networks_and_biological_systems | artificial neural networks]] revealed their immense energy consumption, making them difficult to scale <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. A simulation of 100 artificial neurons could consume several kilowatts of power, whereas the human brain, with 86 billion neurons, requires only 20 watts <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. This stark difference highlights the incredible [[neural_activity_and_energy_efficiency_of_brain_organoids | energy efficiency of biological systems]] <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>.
+
+The main reason for pursuing [[the_intersection_of_biology_and_electronics | biocomputing]] was the realization that using living neurons was the best way to advance artificial intelligence <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>. Biological processors are groundbreaking because they are made from living cells, something unprecedented in history <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.
+
+## Challenges and Progress
+A significant challenge has been simply keeping the organoids alive; initially, they would die after a few hours <a class="yt-timestamp" data-t="00:14:05">[00:14:05]</a>. Progress in [[the_intersection_of_biology_and_electronics | biocomputation]] is slow because experimental results require rigorous confirmation <a class="yt-timestamp" data-t="00:14:49">[00:14:49]</a>.
+
+A positively surprising moment for the team was successfully recording [[neural_activity and energy efficiency of brain organoids | neuronal activity]] and growing the cells themselves from liquid nitrogen <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a>. Observing the response of neural tissue to dopamine, showing a wave of activity typical of dopamine-induced stimulation, was a key success <a class="yt-timestamp" data-t="00:16:34">[00:16:34]</a>.
+
+### Ethical Considerations
+Final Spark recognizes the ethical implications of using living neurons for computational purposes <a class="yt-timestamp" data-t="00:14:46">[00:14:46]</a>. They have established contacts with universities and their ethics experts, even attending ethics conferences to introduce their work to ethicists <a class="yt-timestamp" data-t="00:14:57">[00:14:57]</a>.
+
+The decision to use human cells over animal cells (like rat cells) for computations is strategic <a class="yt-timestamp" data-t="00:15:32">[00:15:32]</a>. While rat cells might work for computation, the potential for therapeutic applications is a significant factor, as discoveries could help people more than rats <a class="yt-timestamp" data-t="00:15:41">[00:15:41]</a>.
+
+## Future Outlook
+Biocomputing is seen as the future of data processing and computing, especially for artificial intelligence calculations <a class="yt-timestamp" data-t="00:16:56">[00:16:56]</a>. Just as quantum computers are limited to certain computation types, [[the_intersection_of_biology_and_electronics | biocomputing]] can be used for specific calculations, with AI fitting perfectly due to its basis in [[neural_networks_and_biological_systems | simulations of neurons]] <a class="yt-timestamp" data-t="00:17:10">[00:17:10]</a>. This project has the potential to transform AI development and drastically reduce its carbon footprint <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>.

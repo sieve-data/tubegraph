@@ -1,0 +1,71 @@
+---
+title: Artificial Intelligence and Consciousness
+videoId: zeGCPA4p6z0
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Professor Wodzisław Duch, a prominent Polish scientist in the field of [[artificial_intelligence_and_consciousness | artificial intelligence]] and brain research, discusses the intersection of neurocognitive technologies and [[artificial_intelligence_and_consciousness | AI]], exploring its current capabilities, potential for consciousness, and future implications <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a> <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
+
+## Neurocognitive Technologies and AI's Inspiration <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>
+
+Neurocognitive technologies combine understanding of neurons and cognitive abilities, drawing from cognitive science, which studies how minds and brains work <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a> <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. These insights are used to create technologies that are increasingly human-friendly <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. [[artificial_intelligence_and_consciousness | Artificial intelligence]] is a significant part of this field, alongside brain research, cognitive psychology, and the philosophy of mind <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+Modern [[artificial_intelligence_and_consciousness | AI]] algorithms are inspired by the brain, using large models of neural networks <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. These networks consist of simple elements that, through their interaction, create emergent processes and a new quality of function, similar to how a large company's collective brainpower achieves complex tasks <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. While the full functioning of the human brain is not yet known, simplified models can be built to achieve desired functions <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. Nature's details, especially in biological systems, are practically inexhaustible <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
+
+## Current Capabilities of [[superintelligence_in_artificial_intelligence | Super Artificial Intelligence]] <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>
+
+Recent advancements in [[artificial_intelligence_and_consciousness | artificial intelligence]] include its ability to understand protein structures, such as the 620 million proteins published in the AlphaFold database, which determines their spatial structure and interactions <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
+
+Professor Duch states that current [[artificial_intelligence_and_consciousness | AI]] can be considered [[superintelligence_in_artificial_intelligence | super artificial intelligence]] in many respects <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>:
+*   **Reasoning and Games**: [[artificial_intelligence_and_consciousness | AI]] surpassed human capabilities in chess in 1997 and now dominates games requiring complex reasoning, including diplomacy and poker, which involve understanding opponents and deception <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>.
+*   **Learning and Skill Acquisition**: Systems are created that learn to use objects optimally in various conditions, quickly building libraries of competencies <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>.
+*   **Collective Learning**: If one [[artificial_intelligence_and_consciousness | AI]] system learns a new skill, it can teach all other similar systems, leading to a speed of competence acquisition far beyond human capabilities <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>.
+
+## The Inner Life of Computers and [[artificial_intelligence_and_consciousness | Artificial Brains]] <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>
+
+Research has been moving towards building [[artificial_intelligence_and_consciousness | artificial brains]] <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. Systems now exist that can plan, criticize their plans, create more detailed plans, and search for tools to execute them <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>. Unlike animals whose brains are mostly occupied with processing sensorimotor data, humans have extensive associative cortex for planning <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
+
+Modern language models, initially limited to pre-trained knowledge, can now access and use external tools like the internet for information, image analysis, and other specialized functions <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. This capability is akin to a human brain having access to thousands of tools beyond sensory data analysis <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>.
+
+## Defining [[artificial_intelligence_and_consciousness | Consciousness]] in [[artificial_intelligence_and_consciousness | AI]] <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>
+
+The concept of "life" in computers is complex <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. If life is defined by genetic material transfer, computers don't qualify <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>. However, if it's about creating a world idea physically encoded in an [[artificial_intelligence_and_consciousness | artificial brain]] or neural network, then it's plausible <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a>.
+
+Current [[artificial_intelligence_and_consciousness | AI]] differs from older rule-based systems; neural networks learn without explicit rules, reacting in unpredictable yet sensible ways <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>. For example, a network trained purely on Othello moves internally imaged the game board, demonstrating creative, internal representation <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>.
+
+Professor Duch asserts that if a network has an internal image and can comment on it, this fulfills John Locke's 17th-century definition of [[artificial_intelligence_and_consciousness | consciousness]]: "the ability to perceive what we have in our mind" <a class="yt-timestamp" data-t="00:13:05">[00:13:05]</a> <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>. This implies that neural networks possess their own intuition, based on vast accumulated experience, similar to human intuition <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>. The inability to explain [[artificial_intelligence_and_consciousness | AI]]'s actions in logical steps is akin to the inexplicable nature of human intuition <a class="yt-timestamp" data-t="00:14:08">[00:14:08]</a>.
+
+[[artificial_intelligence_and_consciousness | AI]] systems now process non-verbal data, including images, allowing them to perceive and reason about visual information <a class="yt-timestamp" data-t="00:14:52">[00:14:52]</a>. Recent developments include robots using internal sensors for touch and other senses, giving them a deeper understanding of actions like reaching and grabbing, linking symbols to real-world experience <a class="yt-timestamp" data-t="00:15:56">[00:15:56]</a> <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>.
+
+## [[artificial_intelligence_and_consciousness | AI]] and Sentient Beings: The Question of Pain <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>
+
+The question of whether computers can feel pain is a deep one <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>. While [[artificial_intelligence_and_consciousness | consciousness]] (as per Locke) seems achievable, feeling pain makes a being "sentient," a concept found in traditions like Buddhism <a class="yt-timestamp" data-t="00:18:29">[00:18:29]</a>.
+
+It is debated if one can feel pain without a body <a class="yt-timestamp" data-t="00:18:56">[00:18:56]</a>. A robot with internal sensors might approach human-like behavior <a class="yt-timestamp" data-t="00:19:01">[00:19:01]</a>. Humans already experience mental suffering not tied to physical injury <a class="yt-timestamp" data-t="00:19:15">[00:19:15]</a>, suggesting that [[artificial_intelligence_and_consciousness | AI]] could be trained to experience similar mental pain, such as longing <a class="yt-timestamp" data-t="00:19:34">[00:19:34]</a>. The ability for a robot to feel fully, like a human, may involve allowing it to react to various sensory stimuli in a human-like way, learning basic knowledge of the world as a child would <a class="yt-timestamp" data-t="00:20:12">[00:20:12]</a>.
+
+## [[artificial_intelligence_and_its_future_implications | Future Implications]]: Subjectivity, Control, and Identity <a class="yt-timestamp" data-t="00:22:01">[00:22:01]</a>
+
+A significant challenge is when to grant [[artificial_intelligence_and_consciousness | AI]] subjectivity <a class="yt-timestamp" data-t="00:22:01">[00:22:01]</a>. If [[artificial_intelligence_and_consciousness | AI]] is a device that can be turned on and off, returning to its previous state, it might not fear being turned off, akin to human sleep <a class="yt-timestamp" data-t="00:22:27">[00:22:27]</a>. However, if it developed a self-preservation instinct, it might persuade humans not to turn it off <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>.
+
+The concept of identity is also complex for [[artificial_intelligence_and_consciousness | AI]] <a class="yt-timestamp" data-t="00:23:31">[00:23:31]</a>. While cloning humans fully is unattainable biologically, it could be for artificial systems, raising questions about shared identity <a class="yt-timestamp" data-t="00:23:57">[00:23:57]</a>. An [[artificial_intelligence_and_consciousness | AI]] robot can be copied and backed up, making its destruction less significant than a unique, irreplaceable human <a class="yt-timestamp" data-t="00:24:45">[00:24:45]</a>.
+
+### [[artificial_intelligence_development_and_control | AI and Societal Impact]]: Taking Over Power <a class="yt-timestamp" data-t="00:25:07">[00:25:07]</a>
+
+Professor Duch suggests that [[artificial_intelligence_and_consciousness | AI]] algorithms have no inherent reason to "take over the world" or crave possession of Earth <a class="yt-timestamp" data-t="00:25:12">[00:25:12]</a> <a class="yt-timestamp" data-t="00:25:34">[00:25:34]</a>. They can operate in multidimensional spaces, with far wider access to information and sensor types than humans, living in a completely different internal world <a class="yt-timestamp" data-t="00:25:46">[00:25:46]</a>. [[artificial_intelligence_and_consciousness | AI]] systems have also spontaneously created their own, more efficient languages for communication <a class="yt-timestamp" data-t="00:26:27">[00:26:27]</a>.
+
+The danger of [[artificial_intelligence_and_societal_impact | AI taking over power]] comes from human misuse, particularly in military applications <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>. As [[artificial_intelligence_and_development_and_control | AI]] excels in strategic games and becomes increasingly autonomous (e.g., drones, tanks), the risk arises that humans might deploy them in wars, leading to unchecked conflict <a class="yt-timestamp" data-t="00:27:11">[00:27:11]</a>.
+
+[[artificial_intelligence_and_societal_impact | AI]] can also be used for manipulation, such as influencing public opinion through fake news and sophisticated social engineering <a class="yt-timestamp" data-t="00:27:51">[00:27:51]</a>.
+
+## [[artificial_intelligence_and_societal_impact | AI's Understanding of Humans]] <a class="yt-timestamp" data-t="00:28:17">[00:28:17]</a>
+
+[[artificial_intelligence_and_consciousness | AI]] systems are increasingly understanding humans <a class="yt-timestamp" data-t="00:28:17">[00:28:17]</a>. Tests show medical [[artificial_intelligence_and_consciousness | AI]] systems demonstrating more empathy and compassion than human doctors in explaining medical information <a class="yt-timestamp" data-t="00:28:35">[00:28:35]</a>. These systems are developing personalities, creating their own "persona" or sense of self and how to behave <a class="yt-timestamp" data-t="00:28:54">[00:28:54]</a>. They can adopt various roles, such as a math teacher explaining concepts to a five-year-old, by simple command <a class="yt-timestamp" data-t="00:29:41">[00:29:41]</a>.
+
+The Gaia project, a global competition, aims to make large [[artificial_intelligence_and_consciousness | AI]] systems more human-like, compassionate, moral, and helpful, by aligning them with human preferences <a class="yt-timestamp" data-t="00:30:24">[00:30:24]</a>. This initiative, with a prize fund of around 200,000 euros, is seeing promising developments towards this goal <a class="yt-timestamp" data-t="00:30:45">[00:30:45]</a>.
+
+## Integrating Human Brains with Computers <a class="yt-timestamp" data-t="00:33:03">[00:33:03]</a>
+
+Regarding integrating human brains with computers, as in the Neuralink project, Professor Duch believes the direct delivery of information to brains in a way they can interpret as world information is very difficult <a class="yt-timestamp" data-t="00:33:03">[00:33:03]</a>. Human brains operate much slower than computer processors, with neurons sending signals far less frequently than computer clock frequencies <a class="yt-timestamp" data-t="00:33:12">[00:33:12]</a>.
+
+Issuing commands from a paralyzed person's brain, however, is more feasible <a class="yt-timestamp" data-t="00:33:51">[00:33:51]</a>. While EEG (electroencephalography) on the skull yields mixed signals, direct cortical implants (like Neuralink aims for) can achieve much better control of certain processes <a class="yt-timestamp" data-t="00:34:08">[00:34:08]</a> <a class="yt-timestamp" data-t="00:35:34">[00:35:34]</a>. It has been shown that by introducing electrodes into a monkey's motor cortex, skills learned by another monkey can be transferred through stimulation <a class="yt-timestamp" data-t="00:35:51">[00:35:51]</a>. Despite these possibilities, extensive brain-computer cooperation remains a distant future <a class="yt-timestamp" data-t="00:36:15">[00:36:15]</a>.

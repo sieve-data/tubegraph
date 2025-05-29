@@ -1,0 +1,67 @@
+---
+title: The role of media in climate change perception
+videoId: do34nxtQ2kA
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Media plays a significant, though often problematic, role in shaping public understanding and [[impact_of_human_activities_on_climate_change | perception of climate change]] <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
+
+## Media's Primary Role: Profit Over Information
+The main purpose of media is not to inform people, but to generate revenue through advertisements <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>. Media organizations, and those who control them, operate to attract audiences <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>. This often means selling controversy rather than providing factual information <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>.
+
+### Social Media and Disinformation
+[[Impact of bots and disinformation on the internet | Social media algorithms]], including those of Facebook and Twitter, prioritize and spread content based on likes and popularity, not necessarily truth <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>. As a result, media, particularly [[Role of social media algorithms in political polarization | social media]], have ceased to be reliable sources of information <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>. This system, which amplifies rumors and opinions over facts, operates much faster than traditional media ever did <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>.
+
+### Public Skepticism and the "Who Paid You" Argument
+A common reaction when discussing [[impact_of_human_activities_on_climate_change | climate change]] is the question, "Who paid you?" <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a> <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>. This immediate presumption of financial motivation is a standard response <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>. The professor highlights the irony, asking who pays those who ask such questions <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. This skepticism often stems from a deep misunderstanding of [[impact_of_human_activities_on_climate_change | human activities]]' pervasive influence on the planet <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
+
+> [!QUOTE] Professor Szymon Malinowski
+> "You are in the position of someone who does not know what he is talking about, sorry because first of all you said person skeptic... skeptical about human influence on climate change in general about human influence on nature." <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a> <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>
+
+## The Urgency: "You Can Panic Even Much More"
+The professor's 2018 document, titled "You Can Panic," remains highly relevant, even more so today <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>. This title references Greta Thunberg's call for politicians to "panic" <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>. According to data from the Copernicus Climate Service, the global average temperature for the last 12 months has already reached 1.5 degrees Celsius higher than pre-industrial times, a goal initially set to be avoided until the end of the century <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+
+## Contrasting Approaches: China vs. Western Societies
+Unlike some Western societies, China demonstrates a greater willingness to listen to science regarding [[impact_of_human_activities_on_climate_change | climate matters]] <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a> <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. They prioritize education and science, aiming to build social welfare through reason <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. While China is a major producer for export, meaning much of their CO2 emissions are for global consumption <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>, their emissions per person are comparable to, or even less than, those of Poles <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a> <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+
+China is actively developing research and activities to mitigate [[impact_of_human_activities_on_climate_change | climate change]] impacts, recognizing that rising temperatures could make areas like the Chinese Plain uninhabitable <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a> <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. They are quickly catching up in terms of social implementation of climate knowledge, even adopting stricter emission standards for cars than the European Union <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a> <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>.
+
+## Evidence of Human Impact on Climate
+Scientists can reconstruct past temperatures and atmospheric compositions up to 800,000 years ago using methods like analyzing air bubbles in ice cores <a class="yt-timestamp" data-t="00:21:21">[00:21:21]</a> <a class="yt-timestamp" data-t="00:22:42">[00:22:42]</a>. Further back, reconstructions extend 65 million years with high resolution <a class="yt-timestamp" data-t="00:25:55">[00:25:55]</a>. These analyses use physical methods such as spectroscopy and mass spectroscopy to study tiny amounts of chemical substances and atomic properties, including stable isotopes like Oxygen-16 and Oxygen-18, or Carbon-12 and Carbon-13, which reveal information about past temperatures, precipitation, and carbon cycles <a class="yt-timestamp" data-t="00:23:41">[00:23:41]</a> <a class="yt-timestamp" data-t="00:24:19">[00:24:19]</a> <a class="yt-timestamp" data-t="00:25:17">[00:25:17]</a>.
+
+![[Impact of human activities on climate change]]
+### Anthropogenic vs. Natural Climate Drivers
+While [[impact_of_human_activities_on_climate_change | climate change]] has natural dimensions and has always occurred <a class="yt-timestamp" data-t="00:23:23">[00:23:23]</a>, there are two main types of factors:
+*   **Forcing Factors:** External factors like orbital forcings (Earth's exposure to the sun, orbit) and solar activity <a class="yt-timestamp" data-t="00:30:49">[00:30:49]</a>. Large-scale volcanic activity also plays a role over long periods <a class="yt-timestamp" data-t="00:31:22">[00:31:22]</a>. However, the claim that volcanoes emit more CO2 than humans is "complete nonsense"; an example like Poland's Bełchatów power plant emits significantly more than a volcano like Etna <a class="yt-timestamp" data-t="00:31:37">[00:31:37]</a>.
+*   **Feedbacks:** Internal processes that amplify or dampen initial changes <a class="yt-timestamp" data-t="00:30:16">[00:30:16]</a>.
+
+### The Problem of Aerosols and Greenhouse Gases
+Human activity affects the climate in two main ways: by emitting greenhouse gases and by emitting aerosols <a class="yt-timestamp" data-t="00:19:17">[00:19:17]</a> <a class="yt-timestamp" data-t="00:19:40">[00:19:40]</a>.
+*   **Aerosols**: Particles like PM 2.5 and PM10, which contribute to smog, affect cloud structure and their "whiteness" (reflectivity) <a class="yt-timestamp" data-t="00:18:30">[00:18:30]</a>. Historically, shipping fuel with high sulfur content created visible emissions from orbit, impacting clouds <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>. Reducing these aerosols, while positive for health, leads to less reflective clouds and an immediate increase in temperature <a class="yt-timestamp" data-t="00:19:13">[00:19:13]</a>.
+*   **Greenhouse Gases**: These gases trap heat, increasing the planet's temperature <a class="yt-timestamp" data-t="00:20:28">[00:20:28]</a>. The effect of greenhouse gases was partially "masked" by aerosol emissions, which reflected some solar radiation <a class="yt-timestamp" data-t="00:20:39">[00:20:39]</a>. Now, as dust and pollution emissions are reduced, the effect of greenhouse gases becomes more pronounced, accelerating the warming trend <a class="yt-timestamp" data-t="00:20:59">[00:20:59]</a>.
+
+## Methane Clathrates and Paleocene-Eocene Thermal Maximum (PETM)
+A significant concern is the destabilization of methane clathrates in the Arctic, which are unstable compounds of methane and water found on the ocean floor <a class="yt-timestamp" data-t="00:38:02">[00:38:02]</a>. As ice sheets disappear and oceans warm, these clathrates can release large amounts of methane into the atmosphere <a class="yt-timestamp" data-t="00:38:19">[00:38:19]</a>.
+
+This phenomenon is comparable to the Paleocene-Eocene Thermal Maximum (PETM) event in geological history <a class="yt-timestamp" data-t="00:38:41">[00:38:41]</a>. During the PETM, after long-term volcanic emissions increased greenhouse gas concentrations, methane clathrate destabilization led to a rapid release of methane, causing a significant temperature increase and ocean acidification <a class="yt-timestamp" data-t="00:39:15">[00:39:15]</a> <a class="yt-timestamp" data-t="00:40:00">[00:40:00]</a>. This event led to an "almost Great Extinction" <a class="yt-timestamp" data-t="00:40:17">[00:40:17]</a>.
+
+## Human Dominance and the [[The concept of Anthropocene and its implications | Anthropocene]]
+Humanity has become the absolute dominant force on Earth <a class="yt-timestamp" data-t="00:36:50">[00:36:50]</a>. The mass of humans (390 million tons) and the animals bred for human consumption (630 million tons) vastly outweigh wild land mammals (20 million tons) and wild sea mammals (40 million tons) <a class="yt-timestamp" data-t="00:36:27">[00:36:27]</a>. This imbalance is unsustainable <a class="yt-timestamp" data-t="00:37:12">[00:37:12]</a>.
+
+The professor supports officially recognizing the [[The concept of Anthropocene and its implications | Anthropocene]] era, reflecting humanity's immense influence on nature <a class="yt-timestamp" data-t="00:45:35">[00:45:35]</a>. We manage the planet, our environment, communication, and production systems, effectively managing nature itself, including the composition of the atmosphere and oceans <a class="yt-timestamp" data-t="00:47:44">[00:47:44]</a>. This gives us not only freedom but also immense power <a class="yt-timestamp" data-t="00:48:09">[00:48:09]</a>. The question is whether we are using this power wisely <a class="yt-timestamp" data-t="00:48:13">[00:48:13]</a>.
+
+## [[Recycling and its effectiveness in combating climate change | Recycling]] and Societal Action
+While actions like [[Recycling and its effectiveness in combating climate change | sorting waste]] are limitations on individual freedom <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a> <a class="yt-timestamp" data-t="00:50:01">[00:50:01]</a>, they are seen as positive for raising social awareness <a class="yt-timestamp" data-t="00:49:17">[00:49:17]</a>. However, [[Recycling and its effectiveness in combating climate change | recycling]] itself is growing at a much slower rate than human production and consumption, meaning its impact on the planet's well-being is limited or illusory <a class="yt-timestamp" data-t="00:49:00">[00:49:00]</a> <a class="yt-timestamp" data-t="00:49:38">[00:49:38]</a>. The core issue is that current consumption often exceeds the environment's capacity to renew itself <a class="yt-timestamp" data-t="00:53:44">[00:53:44]</a>.
+
+Effective change requires establishing "absolutely impassable" boundaries for consumption, with significant penalties for exceeding them <a class="yt-timestamp" data-t="00:55:27">[00:55:27]</a>. This necessitates that decision-makers understand the problem and that the public is ready to support unpopular short-term solutions for long-term stability and security <a class="yt="yt-timestamp" data-t="00:57:22">[00:57:22]</a>.
+
+## Hope for Change
+Despite the challenges, there are positive signs:
+*   **Public Awareness**: Public opinion polls indicate that people understand something negative is happening to the world and that humans have an [[impact_of_human_activities_on_climate_change | influence on it]] <a class="yt-timestamp" data-t="00:58:29">[00:58:29]</a>.
+*   **Leadership**: Hope for change lies with "appropriately enlightened leaders" who can understand and implement necessary actions <a class="yt-timestamp" data-t="00:58:58">[00:58:58]</a>.
+*   **Local Action**: Examples include positive changes in attitudes toward forests in Poland and efforts to stop wetland drainage and deforestation <a class="yt-timestamp" data-t="00:59:07">[00:59:07]</a>. These social activities, though on a "planetary micro scale," demonstrate that changes can happen <a class="yt-timestamp" data-t="00:59:41">[00:59:41]</a>.
+*   **Nature's Resilience**: The recovery of whale populations, once near extinction, serves as an example of nature's capacity to renew itself if human pressures are reduced <a class="yt-timestamp" data-t="00:58:08">[00:58:08]</a>.
+
+## The End of the World as We Know It
+The world as we know it is already constantly changing <a class="yt-timestamp" data-t="00:44:29">[00:44:29]</a>. The natural world and climate of even 50 years ago have ended irrevocably <a class="yt-timestamp" data-t="00:44:42">[00:44:42]</a> <a class="yt-timestamp" data-t="01:05:42">[01:05:42]</a>. The challenge now is to ensure the future remains "bearable" <a class="yt-timestamp" data-t="01:05:58">[01:05:58]</a>.

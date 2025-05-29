@@ -1,0 +1,58 @@
+---
+title: Manipulating chemical reactions at low temperatures
+videoId: bPYpQVADTSQ
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Research into [[ultracold_atoms_and_their_applications | ultracold atoms]] explores how much information can be obtained from them <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. Scientists have learned to select and manipulate individual atoms as desired <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>, marking an incredible achievement given the vast number of atoms in even a small piece of matter <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
+
+## The Unimaginably Cold
+The coldest places known in the universe are laboratory experiments with [[ultracold_atoms_and_their_applications | cold atoms]] on Earth, including those in Warsaw basements, assuming no alien civilizations exist with colder environments <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>, <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>. These temperatures are de facto a billion times lower than typical room temperature <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>, <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>.
+Similarly, CERN achieves the highest temperatures on Earth, approaching those of the first fractions of seconds after the Big Bang <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>, <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>.
+
+### Absolute Zero and the Speed of Light
+The temperature of absolute zero can be compared to the speed of light <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. Just as particles with finite mass cannot reach the speed of light, systems can be cooled arbitrarily close to absolute zero but never reach it exactly, according to the laws of physics <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>, <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. Space, despite its low density, is not absolute zero as it always contains some hydrogen atoms, photons, or even quantum fluctuations of vacuum <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>.
+
+## Controlling Chemical Reactions
+At extremely low temperatures, the behavior of atoms and molecules becomes completely different than at room temperature, manifesting as fully quantum phenomena <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>, <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. This allows for the control of chemical reactions using external factors like magnetic fields <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>, <a class="yt-timestamp" data-t="00:13:42">[00:13:42]</a>. In such cold conditions, the effect of external factors can dominate, enabling scientists to speed up or slow down chemical reaction rates by a million times <a class="yt-timestamp" data-t="00:13:53">[00:13:53]</a>, <a class="yt-timestamp" data-t="00:27:27">[00:27:27]</a>.
+
+### Key Experiments and Contributions
+*   **Controlling Chemical Reactions:** A collaboration with Nobel Prize winner Professor Wolfgang Ketterle's group from MIT successfully measured the possibility of controlling chemical reactions at ultracold temperatures <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>, <a class="yt-timestamp" data-t="00:26:57">[00:26:57]</a>. In a simple system of sodium atoms and sodium-lithium molecules, applying a magnetic field at very low temperatures drastically altered reaction rates <a class="yt-timestamp" data-t="00:27:10">[00:27:10]</a>.
+*   **Cooling Single Ions:** The greatest scientific achievement mentioned by the professor involved cooling a single ion to record low temperatures, close to one microKelvin <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>, <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. This was achieved by immersing a single ion caught in a complex trap into a gas of very [[ultracold_atoms_and_their_applications | cold atoms]] <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>. The ion was cooled by collisions with these [[ultracold_atoms_and_their_applications | cold atoms]], leading to the first observation of quantum resonances <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>, <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
+*   **Theoretical Contributions:** The theoretical work, done in cooperation with experimental groups in Amsterdam and Freiburg, serves to help experimentalists understand and predict what is possible in these systems, interpret measurements, and build models to explain observed phenomena <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>, <a class="yt-timestamp" data-t="00:27:42">[00:27:42]</a>.
+*   **Harvard Collaboration:** Recent work with a group from Harvard observed a significant coupling between electron spin and molecular rotation, a very subtle effect found to be key to explaining their observations <a class="yt-timestamp" data-t="00:29:43">[00:29:43]</a>.
+
+## Quantum Effects at Low Temperatures
+Temperature is a measure of the energy molecules and atoms possess, reflecting their average movement <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. Atoms in the human body, for example, move at hundreds of meters per second at room temperature <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+
+At extremely low temperatures, atoms and molecules move so slowly that [[quantum_theory_at_atomic_and_molecular_levels | quantum effects]] begin to manifest <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>, <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>. This leads to quantization, where the world is not continuous, and only discrete, specific values of energy are possible <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>, <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>. This discreteness, a basic property of the universe described by quantum mechanics, opens up new fields of study <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>, <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>.
+
+By achieving ultralow temperatures, scientists can isolate and strengthen these quantum effects, allowing for the creation of quantum states of matter that are too sensitive to thermal noise at higher temperatures <a class="yt-timestamp" data-t="00:38:00">[00:38:00]</a>.
+
+## Implications and Future Directions
+Manipulating chemical reactions at low temperatures allows for the exploration of extraordinary chemistry at an extremely detailed level <a class="yt-timestamp" data-t="00:28:33">[00:28:33]</a>. While immediate industrial impact might be limited, the long-term goal is to understand simple systems fully and then apply this knowledge to more complex chemical syntheses, potentially increasing efficiency <a class="yt-timestamp" data-t="00:29:22">[00:29:22]</a>, <a class="yt-timestamp" data-t="00:28:41">[00:28:41]</a>.
+
+### Fundamental Laws and Dark Matter
+These studies are complementary to research at CERN, allowing for precise investigation into the structure of atoms and molecules <a class="yt-timestamp" data-t="00:15:15">[00:15:15]</a>. Low temperatures eliminate thermal noise, significantly increasing the accuracy of measurements and revealing fundamental properties of atoms and molecules <a class="yt-timestamp" data-t="00:15:24">[00:15:24]</a>.
+
+Experiments with [[ultracold_atoms_and_their_applications | ultracold molecules]] are used to measure the electron dipole moment <a class="yt-timestamp" data-t="00:16:01">[00:16:01]</a>. If the electron dipole moment is found to be non-zero, it would signify a breach in the Standard Model of particle physics, which predicts it to be extremely small <a class="yt-timestamp" data-t="00:17:00">[00:17:00]</a>, <a class="yt-timestamp" data-t="00:17:07">[00:17:07]</a>. Such measurements have already "killed" several string theories that predicted a larger dipole moment <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>.
+
+[[ultracold_atoms_and_their_applications | Cold atoms]] are also being explored for the detection of dark matter <a class="yt-timestamp" data-t="00:35:05">[00:35:05]</a>. Precise atomic clocks based on [[ultracold_atoms_and_their_applications | ultracold atoms]] could potentially detect specific types of dark matter if they form domains that pass through Earth <a class="yt-timestamp" data-t="00:35:35">[00:35:35]</a>. This requires hypothesizing non-gravitational interactions between quantum systems and dark matter <a class="yt-timestamp" data-t="00:36:40">[00:36:40]</a>.
+
+### [[quantum_computers_and_cold_atoms | Quantum Technologies]]
+The ability to force atoms and molecules to behave in desired ways is crucial for [[quantum_computers_and_cold_atoms | quantum technologies]] <a class="yt-timestamp" data-t="00:46:25">[00:46:25]</a>, sensors, and [[quantum_computers_and_cold_atoms | quantum computers]] <a class="yt-timestamp" data-t="00:21:03">[00:21:03]</a>. The field of [[quantum_computers_and_cold_atoms | quantum computer]] technology based on [[ultracold_atoms_and_their_applications | cold atoms]] is currently experiencing a renaissance, especially in optical networks and tweezers, with the potential to surpass other technologies <a class="yt-timestamp" data-t="00:40:43">[00:40:43]</a>.
+
+## Methods of Manipulation
+To manipulate individual atoms, experimental systems are isolated in a high-quality vacuum chamber <a class="yt-timestamp" data-t="00:21:50">[00:21:50]</a>. Atoms are typically generated as vapor and then trapped using laser beams or suitably shaped magnetic fields <a class="yt-timestamp" data-t="00:22:12">[00:22:12]</a>.
+*   **Optical Tweezers/Traps:** These traps are created by the intersection of two or three laser beams, where higher light intensity allows individual atoms to be caught <a class="yt-timestamp" data-t="00:22:45">[00:22:45]</a>.
+*   **Light Crystals (Optical Lattices):** These are networks formed by the interference of laser beams, creating maxima and minima of light intensity <a class="yt-timestamp" data-t="00:30:44">[00:30:44]</a>. Atoms can be trapped in these periodic maxima, forming artificial crystals <a class="yt-timestamp" data-t="00:31:00">[00:31:00]</a>.
+*   **Ions:** Catching single ions is somewhat easier, as it involves ionizing one atom and then trapping it <a class="yt-timestamp" data-t="00:25:26">[00:25:26]</a>.
+
+It's possible to photograph a single atom or ion by detecting reflected photons from a laser <a class="yt-timestamp" data-t="00:23:37">[00:23:37]</a>. While a single ion might appear as one pixel, if trapped in a larger space, its image can blur, corresponding to the shape of its wave function, effectively allowing visualization of quantum phenomena like Schrödinger's cat <a class="yt-timestamp" data-t="00:24:15">[00:24:15]</a>.
+
+## Distinction: Atoms/Molecules vs. Elementary Particles
+It is important to distinguish between atoms and molecules, which are the focus of this research, and elementary particles <a class="yt-timestamp" data-t="00:28:15">[00:28:15]</a>. While elementary particles are at a fundamental level, the experiments discussed here deal with the manipulation of chemical reactions at the level of atoms and molecules <a class="yt-timestamp" data-t="00:28:19">[00:28:19]</a>.
+
+### [[quantum_theory_at_atomic_and_molecular_levels | Quantum Chemistry]]
+[[quantum_theory_at_atomic_and_molecular_levels | Quantum chemistry]] is a method used to describe the electronic structure of atoms and molecules <a class="yt-timestamp" data-t="00:19:44">[00:19:44]</a>. It is a tool utilized by quantum physicists to understand the structure resulting from the interaction of electrons with atomic nuclei <a class="yt-timestamp" data-t="00:20:17">[00:20:17]</a>.

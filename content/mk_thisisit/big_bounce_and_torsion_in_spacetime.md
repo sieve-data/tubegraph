@@ -1,0 +1,42 @@
+---
+title: Big bounce and torsion in spacetime
+videoId: GvpaJec43f4
+---
+
+From: [[mk_thisisit]] <br/> 
+
+Nikodem Popławski is a renowned physicist whose ideas about black holes creating new universes were recognized by National Geographic and Science magazine as among the 10 most important of the year <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. Morgan Freeman has even called him the "second Copernicus" <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. His paper describing black hole research is still one of the most cited in the history of *Science News* <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+
+## [[classical_spacetime_and_gravity | Classical Spacetime]] and Gravity
+
+Popławski believes that there will be no quantum theory of gravity, asserting that [[classical_spacetime_and_gravity | spacetime]] is fundamentally classical <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. In this classical [[classical_spacetime_and_gravity | spacetime]], matter is quantized <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. He maintains that there are no gravitons acting as carriers of gravity <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>. Instead, the curvature of [[classical_spacetime_and_gravity | spacetime]] *is* gravity, which he considers a fundamental phenomenon <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. This perspective contrasts with quantum gravity theories that propose gravitons as corrections to flat [[classical_spacetime_and_gravity | spacetime]], arguing that if [[classical_spacetime_and_gravity | spacetime]] were fundamentally flat, black holes would not exist <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+
+He emphasizes that while matter interacts quantumly through forces like electromagnetism, weak, and strong forces (with their quantum carriers like W and Z bosons, and gluons), this all occurs within a curved, classical [[classical_spacetime_and_gravity | spacetime]] <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>.
+
+## The Big Bounce Theory: Black Holes as Universe Seeds
+
+Popławski's theory suggests that instead of a singularity, matter within a black hole stops and bounces <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. Because this matter cannot escape the event horizon, it creates a new universe <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. This concept was named one of the 10 most important ideas of the year by National Geographic and Science magazine <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+
+One challenge for this theory is explaining how a new universe, vastly larger than a black hole, can be created <a class="yt-timestamp" data-t="00:12:44">[00:12:44]</a>. Popławski attributes this to the quantum production of particle-antiparticle pairs <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>. When matter collapses into a very hot, dense state within a black hole, an analogue of Hawking radiation occurs, leading to the creation of a lot of new matter <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>. This new matter then expands <a class="yt-timestamp" data-t="00:13:23">[00:13:23]</a>.
+
+According to the Friedmann equations, this newly formed cosmos in a closed space will not expand infinitely but will eventually stop and contract, leading to another bounce <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>. With each bounce, new matter is created, making subsequent cycles larger <a class="yt-timestamp" data-t="00:13:53">[00:13:53]</a>. Eventually, after several bounces, the cosmos could become so large that the cosmological constant's repulsive force (which is proportional to the universe's volume) becomes dominant, causing the universe to expand infinitely <a class="yt-timestamp" data-t="00:13:59">[00:13:59]</a>.
+
+## [[Twistor theory and its connection to physics | The Role of Torsion in Spacetime]]
+
+Popławski's key insight into the Big Bounce mechanism involves [[role_of_torsion_and_bounce_in_universe_expansion | the twisting of spacetime]], also known as torsion <a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>. This additional component of [[geometry_and_spacetime | spacetime geometry]], beyond the curvature assumed by Einstein, is typically considered zero <a class="yt-timestamp" data-t="00:17:03">[00:17:03]</a>. However, as suggested by Cartan, by not forcing torsion to be zero, it can be derived <a class="yt-timestamp" data-t="00:17:19">[00:17:19]</a>.
+
+While torsion is almost zero at normal densities found on Earth, in stars, or even in neutron stars, it becomes very strong at extremely high densities, such as those near a singularity or the [[Big Bang theory and multiverse | Big Bang]] <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>. At these densities, torsion acts like repulsive gravity, preventing the formation of a singularity and causing the matter to bounce <a class="yt-timestamp" data-t="00:18:25">[00:18:25]</a>. This is the essence of the Big Bounce <a class="yt-timestamp" data-t="00:18:35">[00:18:35]</a>.
+
+## Natural Explanation of Inflation
+
+Popławski's most significant scientific achievement, in his opinion, is demonstrating how [[role_of_torsion_and_bounce_in_universe_expansion | spacetime torsion]] and quantum production of particle-antiparticle pairs naturally lead to cosmic inflation <a class="yt-timestamp" data-t="00:19:33">[00:19:33]</a>. Inflation, an exponential expansion of the universe, explains problems like the horizon problem, flatness problem, and the origin of cosmic structures <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>.
+
+Current inflation theories, widely accepted by astrophysicists, often rely on hypothetical scalar fields (inflatons) and require two arbitrary parameters to describe inflation <a class="yt-timestamp" data-t="00:20:14">[00:20:14]</a>. Furthermore, some models suggest inflation could last forever, which contradicts the observed universe <a class="yt-timestamp" data-t="00:20:31">[00:20:31]</a>.
+
+In contrast, Popławski's model, which combines [[role_of_torsion_and_bounce_in_universe_expansion | spacetime torsion]] with quantum pair production, naturally generates inflation <a class="yt-timestamp" data-t="00:19:33">[00:19:33]</a>. This model only requires one parameter, which could eventually be derived from a larger theory like quantum gravity <a class="yt-timestamp" data-t="00:20:42">[00:20:42]</a>. Crucially, in his theory, this inflation lasts for a short period and ends naturally because the effect of torsion diminishes at lower densities <a class="yt-timestamp" data-t="00:21:24">[00:21:24]</a>. This eliminates the need for hypothetical scalar fields, providing a more fundamental explanation for inflation <a class="yt-timestamp" data-t="00:21:47">[00:21:47]</a>.
+
+## Quantum Mechanics Interpretation: De Broglie-Bohm Theory
+
+Popławski supports the De Broglie-Bohm theory, also known as the pilot wave hypothesis of quantum mechanics <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>. In this interpretation, the wave function always exists and is a solution to equations like the Dirac or Schrödinger equations <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>. Particles are considered point-like (or very small, non-divisible entities) and exist at only one point at a time <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. There is no "collapse" of the wave function <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>; instead, the particle "rides" on these quantum waves, which guide its movement <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>.
+
+This interpretation explains the probabilistic nature of quantum mechanics, including phenomena like the famous double-slit experiment <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. The interference patterns observed in the double-slit experiment arise because a tiny change in the initial conditions of a particle can lead to a large change in its final position due to the guiding wave <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>. Since initial conditions cannot be measured with perfect accuracy, the final position appears random, leading to quantum mechanics being probabilistic <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>. This is distinct from Roger Penrose's idea that gravity causes the collapse of the wave function <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.

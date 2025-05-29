@@ -1,0 +1,20 @@
+---
+title: Ethical considerations in AI development
+videoId: 34eTHrOHoPM
+---
+
+From: [[mk_thisisit]] <br/> 
+
+It is considered wise to anticipate a scenario where strong artificial intelligence, smarter than the smartest people, could emerge before 2030, even if the probability is small. Such a possibility requires preparation <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+
+## Defining Ethical Boundaries
+The process of defining the ethical limits for AI is a crucial and multifaceted issue <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>. This responsibility should not fall solely on a single company; rather, it should ideally be a democratically decided process <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. Companies can contribute by making technology available to better collect diverse public opinions and involve as many people as possible in co-creating a code of ethics <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>. Given the rapid growth in popularity of tools like ChatGPT, the urgency of addressing this problem has become apparent <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>. Discussions are ongoing regarding the best methods for collecting these opinions, potentially including forms of voting, while ensuring all demographic groups are represented <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>.
+
+## Technical Implementation of Standards
+Once ethical standards are defined, the second, technical challenge is to ensure that AI models adhere to them <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>. This is a complex engineering problem <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a>. Research suggests that as AI models become more intelligent (e.g., the leap from GPT-3.5 to GPT-4), they become better at following imposed instructions and standards <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>. Therefore, increased intelligence paradoxically makes it easier for the AI to comply with ethical guidelines <a class="yt-timestamp" data-t="00:14:19">[00:14:19]</a>.
+
+## Governance and Control
+OpenAI's structure emphasizes that Microsoft, despite being a significant investor and partner, does not have control over OpenAI <a class="yt-timestamp" data-t="00:16:09">[00:16:09]</a>. Microsoft does not hold a single seat on OpenAI's board <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>. This intentional separation ensures that decisions about powerful AI models, which can profoundly impact human lives, are not made by a publicly traded corporation obligated to prioritize investor interests <a class="yt-timestamp" data-t="00:16:53">[00:16:53]</a>. OpenAI is structured with a leading non-profit component to uphold its mission of ensuring that the benefits of its technology extend to all people <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>. This approach aims to address [[Regulation and ethical considerations in AI | ethical considerations in AI]] development.
+
+## Challenges in AI Reasoning
+While AI models are progressing, certain limitations present [[Challenges and ethical considerations in AI development | challenges and ethical considerations in AI development]]. For instance, developing an "automatic scientist" AI is currently impossible because the models have a probability of error at each step of their reasoning <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. Even if this error rate is small, for complex scientific problems requiring thousands or tens of thousands of reasoning steps, the cumulative probability of error significantly increases <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>. Future efforts might focus on creating mechanisms for AI to confirm scientific claims or seek mathematical proofs, though this remains a highly difficult form of reasoning <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>.
