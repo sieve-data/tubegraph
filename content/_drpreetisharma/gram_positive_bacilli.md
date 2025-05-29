@@ -5,194 +5,122 @@ videoId: MhG2wyb4esE
 
 From: [[_drpreetisharma]] <br/> 
 
-## Introduction
-Gram-positive bacilli are a specific focus of study in bacteriology <a class="yt-timestamp" data-t="00:44:00">[00:44:00]</a>. While most cocci are Gram-positive (with exceptions like *Veillonella*, *Moraxella*, and *Neisseria*), most bacilli are typically [[gram_negative_bacilli | Gram negative bacilli]] <a class="yt-timestamp" data-t="00:42:58">[00:42:58]</a>, <a class="yt-timestamp" data-t="00:44:10">[00:44:10]</a>, <a class="yt-timestamp" data-t="00:49:57">[00:49:57]</a>. Gram-positive bacilli are an exception to this general rule <a class="yt-timestamp" data-t="00:50:00">[00:50:00]</a>.
+Gram positive bacilli are a group of rod-shaped bacteria that stain purple with the Gram stain <a class="yt-timestamp" data-t="02:55:40">[02:55:40]</a>. While most cocci are gram-positive and most bacilli are typically gram-negative, there are exceptions among bacilli <a class="yt-timestamp" data-t="04:54:33">[04:54:33]</a>.
 
-### Mnemonic for Gram-Positive Bacilli
-A mnemonic to remember Gram-positive bacilli is **MCDONALD'S** <a class="yt-timestamp" data-t="00:50:05">[00:50:05]</a>, <a class="yt-timestamp" data-t="00:50:08">[00:50:08]</a>, <a class="yt-timestamp" data-t="00:54:02">[00:54:02]</a>, <a class="yt-timestamp" data-t="00:54:43">[00:54:43]</a>, <a class="yt-timestamp" data-t="00:55:15">[00:55:15]</a>:
-*   **M** – [[identification_of_specific_bacterial_species | Mycobacteria]] <a class="yt-timestamp" data-t="00:54:02">[00:54:02]</a>
-*   **AC** – [[anthrax_and_bacillus_anthracis | Anthrax]] (*Bacillus anthracis*) and *Clostridium* (both are [[sporeforming_bacteria__bacillus_and_clostridium | spore-forming bacteria]]) <a class="yt-timestamp" data-t="00:54:40">[00:54:40]</a>, <a class="yt-timestamp" data-t="00:54:43">[00:54:43]</a>
-*   **D** – *Corynebacterium **D**iphtheriae* and *Corynebacterium **D**ivergens* <a class="yt-timestamp" data-t="00:55:15">[00:55:15]</a>, <a class="yt-timestamp" data-t="00:55:36">[00:55:36]</a>, <a class="yt-timestamp" data-t="00:55:54">[00:55:54]</a>, <a class="yt-timestamp" data-t="00:56:07">[00:56:07]</a>, <a class="yt-timestamp" data-t="00:56:22">[00:56:22]</a>, <a class="yt-timestamp" data-t="00:56:52">[00:56:52]</a>, <a class="yt-timestamp" data-t="00:57:00">[00:57:00]</a>
-*   **NO** – *[[identification_of_specific_bacterial_species | Nocardia]]* and *[[identification_of_specific_bacterial_species | Actinomyces]]* (filamentous bacteria) <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>, <a class="yt-timestamp" data-t="01:02:03">[01:02:03]</a>, <a class="yt-timestamp" data-t="01:04:02">[01:04:02]</a>, <a class="yt-timestamp" data-t="01:05:00">[01:05:00]</a>
-*   **L** – *Listeria* <a class="yt-timestamp" data-t="01:05:22">[01:05:22]</a>
+A mnemonic for remembering gram-positive bacilli (GPB) is "MACDONALD" <a class="yt-timestamp" data-t="05:04:47">[05:04:47]</a>, which stands for:
+*   **M**ycobacteria <a class="yt-timestamp" data-t="05:35:12">[05:35:12]</a>
+*   **A**nthrax (Bacillus anthracis) <a class="yt-timestamp" data-t="05:40:02">[05:40:02]</a>
+*   **C**lostridium <a class="yt-timestamp" data-t="05:40:02">[05:40:02]</a>
+*   **D**iphtheria (Corynebacterium diphtheriae) <a class="yt-timestamp" data-t="05:52:16">[05:52:16]</a>
+*   **D**ifferent other diphtheroids <a class="yt-timestamp" data-t="05:52:16">[05:52:16]</a>
+*   **N**ocardia <a class="yt-timestamp" data-t="07:00:19">[07:00:19]</a>
+*   **A**ctinomyces <a class="yt-timestamp" data-t="07:00:19">[07:00:19]</a>
+*   **L**isteria (Listeria monocytogenes) <a class="yt-timestamp" data-t="07:22:52">[07:22:52]</a>
 
-## Corynebacterium Diphtheriae
+## Specific Gram Positive Bacilli
 
-### Clinical Manifestations
-*   **Classic Presentation**: Sore throat with a thick, gray membrane covering the tonsils and pharynx, low-grade fever, and lymphadenopathy <a class="yt-timestamp" data-t="00:48:47">[00:48:47]</a>, <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>, <a class="yt-timestamp" data-t="01:09:10">[01:09:10]</a>, <a class="yt-timestamp" data-t="01:12:16">[01:12:16]</a>.
-*   **"Celebrity Child" appearance**: Bull's neck due to enlarged lymph nodes <a class="yt-timestamp" data-t="01:10:49">[01:10:49]</a>, <a class="yt-timestamp" data-t="01:12:16">[01:12:16]</a>.
-*   **Complications**: Most common complication is myocarditis <a class="yt-timestamp" data-t="01:33:41">[01:33:41]</a>, <a class="yt-timestamp" data-t="01:34:45">[01:34:45]</a>.
-    *   Diphtheritic myocarditis can lead to "tiger tabby" appearance in the heart due to fat deposition <a class="yt-timestamp" data-t="01:34:29">[01:34:29]</a>, <a class="yt-timestamp" data-t="01:35:36">[01:35:36]</a>.
-    *   Other conditions with fat deposition in the heart include cell injury and arrhythmogenic right ventricular cardiomyopathy <a class="yt-timestamp" data-t="01:34:54">[01:34:54]</a>, <a class="yt-timestamp" data-t="01:35:05">[01:35:05]</a>, <a class="yt-timestamp" data-t="01:35:22">[01:35:22]</a>.
+### Corynebacterium diphtheriae
+*   **Clinical Presentation**
+    *   Typically seen in a 7-year-old child with a sore throat, low-grade fever, and a thick pseudomembrane covering the tonsils and pharynx <a class="yt-timestamp" data-t="08:44:40">[08:44:40]</a>.
+    *   The pseudomembrane is characteristic, and samples for testing should be taken from *under* the membrane, as the membrane itself consists of dead cells <a class="yt-timestamp" data-t="10:59:02">[10:59:02]</a>.
+    *   Can lead to "bull's neck" due to lymphadenopathy <a class="yt-timestamp" data-t="12:21:05">[12:21:05]</a>.
+    *   Immunization history may be unreliable; clinical symptoms are paramount <a class="yt-timestamp" data-t="36:16:34">[36:16:34]</a>.
+    *   The most common complication is myocarditis <a class="yt-timestamp" data-t="34:46:17">[34:46:17]</a>, which can lead to "tiger and tabby cat" appearance of the heart due to fat deposition <a class="yt-timestamp" data-t="34:29:43">[34:29:43]</a>.
+*   **Microscopy and Staining**
+    *   Gram-positive bacilli appearing in a "Chinese letter" or "cuneiform" arrangement <a class="yt-timestamp" data-t="26:01:21">[26:01:21]</a>.
+    *   Characterized by bulbous ends containing large, dark-staining structures called Volutin granules (also known as Babes-Ernst granules, bipolar granules, or metachromatic granules) <a class="yt-timestamp" data-t="26:44:17">[26:44:17]</a>. These granules store polymetaphosphate energy <a class="yt-timestamp" data-t="30:38:22">[30:38:22]</a>.
+    *   [[identification_of_bacterial_species|Albert stain]] is used to visualize these granules, making the bacteria appear green and the granules purple <a class="yt-timestamp" data-t="28:09:07">[28:09:07]</a>. This phenomenon is called metachromasia <a class="yt-timestamp" data-t="28:24:08">[28:24:08]</a>.
+*   **Culture Media**
+    *   Enrichment media: Loeffler's serum slope <a class="yt-timestamp" data-t="31:16:47">[31:16:47]</a>. Growth typically occurs in 6-8 hours <a class="yt-timestamp" data-t="31:25:01">[31:25:01]</a>, useful for early diagnosis <a class="yt-timestamp" data-t="32:18:12">[32:18:12]</a>.
+    *   Selective media: Potassium tellurite agar <a class="yt-timestamp" data-t="31:41:43">[31:41:43]</a> or Tinsdale agar <a class="yt-timestamp" data-t="32:38:09">[32:38:09]</a>. Tellurium gives a characteristic black color <a class="yt-timestamp" data-t="31:50:09">[31:50:09]</a>, but growth takes longer (48 hours) <a class="yt-timestamp" data-t="32:04:02">[32:04:02]</a>. Considered the best culture media <a class="yt-timestamp" data-t="32:27:01">[32:27:01]</a>.
+*   **Toxin Detection and Susceptibility**
+    *   Elek gel precipitation test: Used to detect the presence of diphtheria toxin. Precipitant lines indicate toxin presence <a class="yt-timestamp" data-t="21:33:04">[21:33:04]</a>.
+    *   Schick Test: An intradermal test (Type III hypersensitivity) used to determine patient susceptibility to diphtheria <a class="yt-timestamp" data-t="23:51:57">[23:51:57]</a>. A positive test (redness) means the patient is susceptible, while a negative test means they are immune <a class="yt-timestamp" data-t="25:07:07">[25:07:07]</a>.
+*   **Treatment**
+    *   Diphtheria antitoxin: Doses vary based on disease severity (20k-120k International Units) <a class="yt-timestamp" data-t="40:30:26">[40:30:26]</a>. For neck disease or disease present for more than three days, half the dose is given intramuscularly (IM) and half intravenously (IV) <a class="yt-timestamp" data-t="40:48:07">[40:48:07]</a>.
+    *   Antibiotics (Penicillin, Erythromycin) are used <a class="yt-timestamp" data-t="39:18:04">[39:18:04]</a>.
+    *   Droplet precautions are necessary as it spreads by droplet infection <a class="yt-timestamp" data-t="39:13:30">[39:13:30]</a>.
+*   **Other Corynebacterium species:**
+    *   *Corynebacterium minutissimum:* Causes erythrasma (red rash), which shows coral red fluorescence under a Wood's lamp <a class="yt-timestamp" data-t="12:46:17">[12:46:17]</a>.
+    *   *Corynebacterium ulcerans:* Can cause respiratory symptoms but not the typical diphtheria features <a class="yt-timestamp" data-t="13:20:07">[13:20:07]</a>.
+    *   *Corynebacterium jeikeium:* Known for causing endocarditis <a class="yt-timestamp" data-t="13:34:57">[13:34:57]</a>.
+    *   *Corynebacterium urealyticum:* Urealyticum is lipophilic and urease positive <a class="yt-timestamp" data-t="14:10:07">[14:10:07]</a>.
+    *   *Corynebacterium pseudotuberculosis:* Primarily affects sheep; human cases are rare <a class="yt-timestamp" data-t="15:39:13">[15:39:13]</a>.
 
-### Pathogenesis
-*   Produces a potent toxin <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>.
-*   The diphtheria toxin decreases protein synthesis <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>.
-*   Mechanism of action: ADP ribosylation of EF2 (elongation factor 2) <a class="yt-timestamp" data-t="01:17:46">[01:17:46]</a>, <a class="yt-timestamp" data-t="01:18:01">[01:18:01]</a>, <a class="yt-timestamp" data-t="01:43:08">[01:43:08]</a>.
+### [[bacillus_anthracis|Bacillus anthracis]]
+*   **Characteristics**
+    *   Gram-positive, spore-forming <a class="yt-timestamp" data-t="05:43:08">[05:43:08]</a>.
+    *   Aerobic organism <a class="yt-timestamp" data-t="01:08:31">[01:08:31]</a>.
+    *   A bioterrorism agent <a class="yt-timestamp" data-t="56:46:39">[56:46:39]</a>.
+*   **Virulence Factors**
+    *   Capsule: Unique for being composed of poly-D-glutamic acid (a polypeptide), unlike the polysaccharide capsules of other bacteria <a class="yt-timestamp" data-t="57:11:51">[57:11:51]</a>. It can be stained by Polychrome Methylene Blue, showing purple material around the bacteria (McFadyen reaction) <a class="yt-timestamp" data-t="01:12:11">[01:12:11]</a>.
+    *   Anthrax Toxin: Tripartite toxin with three parts: Edema Factor (increases cyclic AMP) <a class="yt-timestamp" data-t="58:03:49">[58:03:49]</a>, Protective Factor <a class="yt-timestamp" data-t="58:13:00">[58:13:00]</a>, and Lethal Factor <a class="yt-timestamp" data-t="58:19:07">[58:19:07]</a>.
+*   **Clinical Forms**
+    *   Transmission typically occurs from animals (meat, wool, skin) <a class="yt-timestamp" data-t="01:00:46">[01:00:46]</a>.
+    *   **Hide Porter's Disease (Cutaneous Anthrax):** Occurs through skin contact (e.g., animal skin handlers). Presents as a very black, necrolytic lesion called a malignant pustule or eschar <a class="yt-timestamp" data-t="59:04:16">[59:04:16]</a>. Lesions are usually on exposed body parts like the neck or shoulder <a class="yt-timestamp" data-t="01:14:14">[01:14:14]</a>.
+    *   **Sooter's Disease (Pulmonary Anthrax):** Occurs via inhalation of wool fibers. Presents with respiratory symptoms, causing hemorrhagic mediastinitis <a class="yt-timestamp" data-t="01:00:23">[01:00:23]</a>.
+    *   **Intestinal Anthrax:** Occurs by ingesting uncooked meat from infected animals <a class="yt-timestamp" data-t="01:00:38">[01:00:38]</a>. Causes hemorrhagic enteritis <a class="yt-timestamp" data-t="01:01:45">[01:01:45]</a>.
+    *   Hemorrhagic is a key descriptive term for all forms <a class="yt-timestamp" data-t="01:01:12">[01:01:12]</a>.
+*   **Culture and Appearance**
+    *   Microscopy: Appears as "bamboo stick" or "box car" appearance <a class="yt-timestamp" data-t="01:02:42">[01:02:42]</a>. Spores appear as white holes within the bacilli <a class="yt-timestamp" data-t="01:03:03">[01:03:03]</a>.
+    *   On nutrient agar: "Medusa head" appearance <a class="yt-timestamp" data-t="01:03:37">[01:03:37]</a>.
+    *   On blood agar: "Comet tail" appearance, "beaten egg" appearance, "frosted glass" appearance <a class="yt-timestamp" data-t="01:04:01">[01:04:01]</a>.
+    *   On penicillin agar: "String of pearls" appearance <a class="yt-timestamp" data-t="01:04:59">[01:04:59]</a>.
+    *   [[culture_media_for_microbiology|Gelatin stab test]]: Shows an "inverted fir tree" appearance due to its aerobic nature, leading to liquefaction only at the oxygen-rich surface <a class="yt-timestamp" data-t="01:08:18">[01:08:18]</a>. This test uses a plain wire, not a loop, to stab the gelatin <a class="yt-timestamp" data-t="01:07:11">[01:07:11]</a>.
 
-### Laboratory Diagnosis
-*   **Sample Collection**: Sample should be taken from *under* the pseudomembrane, not the membrane itself, as the membrane contains dead cells <a class="yt-timestamp" data-t="01:09:59">[01:09:59]</a>, <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>, <a class="yt-timestamp" data-t="01:10:53">[01:10:53]</a>.
-*   **Microscopy**:
-    *   Gram-positive (purple) bacilli <a class="yt-timestamp" data-t="01:25:52">[01:25:52]</a>.
-    *   Classical "Chinese letter" or "cuneiform" arrangement <a class="yt-timestamp" data-t="01:26:03">[01:26:03]</a>, <a class="yt-timestamp" data-t="01:29:43">[01:29:43]</a>.
-    *   Bulbous ends due to large "Volutin granules" (also known as Babes-Ernst granules, bipolar granules, or metachromatic granules) <a class="yt-timestamp" data-t="01:26:41">[01:26:41]</a>, <a class="yt-timestamp" data-t="01:27:07">[01:27:07]</a>, <a class="yt-timestamp" data-t="01:29:53">[01:29:53]</a>.
-    *   **Albert stain**: Used to visualize Volutin granules <a class="yt-timestamp" data-t="01:27:19">[01:27:19]</a>.
-        *   Chemicals: Toluidine blue, Iodine, Malachite green (TIM) <a class="yt-timestamp" data-t="01:27:39">[01:27:39]</a>, <a class="yt-timestamp" data-t="01:27:41">[01:27:41]</a>, <a class="yt-timestamp" data-t="01:27:45">[01:27:45]</a>, <a class="yt-timestamp" data-t="01:27:50">[01:27:50]</a>.
-        *   Staining: Bacteria appear green, and granules appear purple (metachromasia) <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>, <a class="yt-timestamp" data-t="01:28:07">[01:28:07]</a>, <a class="yt-timestamp" data-t="01:28:16">[01:28:16]</a>, <a class="yt-timestamp" data-t="01:32:19">[01:32:19]</a>.
-    *   **Metachromasia**: A property of some stains (like toluidine blue) to appear one color in solution but a different color under the microscope (e.g., blue stain giving purple color) <a class="yt-timestamp" data-t="01:28:24">[01:28:24]</a>, <a class="yt-timestamp" data-t="01:29:01">[01:29:01]</a>, <a class="yt-timestamp" data-t="01:29:08">[01:29:08]</a>, <a class="yt-timestamp" data-t="01:29:19">[01:29:19]</a>.
-        *   Toluidine blue is also a special stain for mast cells and basophils <a class="yt-timestamp" data-t="01:29:47">[01:29:47]</a>, <a class="yt-timestamp" data-t="01:30:07">[01:30:07]</a>.
-    *   Volutin granules contain energy (polymeta phosphate) <a class="yt-timestamp" data-t="01:30:35">[01:30:35]</a>, <a class="yt-timestamp" data-t="01:30:44">[01:30:44]</a>.
-*   **Culture Media**:
-    *   **Enriched media**: Loeffler's serum slope <a class="yt-timestamp" data-t="01:31:01">[01:31:01]</a>, <a class="yt-timestamp" data-t="01:31:09">[01:31:09]</a>. Growth occurs in 6-8 hours <a class="yt-timestamp" data-t="01:32:05">[01:32:05]</a>. Useful for early diagnosis <a class="yt-timestamp" data-t="01:32:18">[01:32:18]</a>.
-    *   **Selective media**: Potassium Tellurite Agar or Tinsdale Agar <a class="yt-timestamp" data-t="01:31:38">[01:31:38]</a>, <a class="yt-timestamp" data-t="01:32:27">[01:32:27]</a>, <a class="yt-timestamp" data-t="01:32:38">[01:32:38]</a>.
-        *   Tellurite gives black colonies <a class="yt-timestamp" data-t="01:31:48">[01:31:48]</a>.
-        *   Growth takes 48 hours <a class="yt-timestamp" data-t="01:32:02">[01:32:02]</a>.
-        *   Considered the best culture media for diagnosis <a class="yt-timestamp" data-t="01:32:27">[01:32:27]</a>.
+### [[spore_forming_bacteria_bacillus_and_clostridium|Clostridium]]
+*   **Spore Location**
+    *   Most common spore type is subterminal <a class="yt-timestamp" data-t="01:17:32">[01:17:32]</a>.
+    *   **Clostridium perfringens:** Subterminal spores <a class="yt-timestamp" data-t="01:20:04">[01:20:04]</a>.
+    *   **Clostridium tetani:** Terminal, round spores, giving a "drumstick" appearance <a class="yt-timestamp" data-t="01:18:09">[01:18:09]</a>.
+    *   **Clostridium tertium:** Terminal, oval spores, resembling a "tennis racket" <a class="yt-timestamp" data-t="01:18:34">[01:18:34]</a>.
+    *   **Bacillus cereus & Clostridium bifermentans:** Central spores <a class="yt-timestamp" data-t="01:19:12">[01:19:12]</a>.
+*   **Clinical Relevance**
+    *   [[spore_forming_bacteria_bacillus_and_clostridium|Clostridium perfringens]]: Known for causing gas gangrene and food poisoning <a class="yt-timestamp" data-t="01:16:05">[01:16:05]</a>. A specific type of food poisoning linked to *C. perfringens* is "pig bel" food poisoning, associated with consuming pork and sweet potatoes <a class="yt-timestamp" data-t="01:16:46">[01:16:46]</a>.
+    *   [[spore_forming_bacteria_bacillus_and_clostridium|Clostridium tetani]]: In gelatin stab test, shows a "straight fir tree" appearance due to its anaerobic nature, growing throughout the agar regardless of oxygen <a class="yt-timestamp" data-t="01:09:16">[01:09:16]</a>.
 
-### Diagnostic Tests
-*   **Elek's Gel Precipitation Test** (Toxigenicity Test):
-    *   Determines if the bacteria produce toxin <a class="yt-timestamp" data-t="02:21:47">[02:21:47]</a>.
-    *   A strip with antitoxin is placed on culture media <a class="yt-timestamp" data-t="02:21:51">[02:21:51]</a>, <a class="yt-timestamp" data-t="02:22:10">[02:22:10]</a>.
-    *   If toxin-producing *Corynebacterium diphtheriae* is present, precipitant lines form due to toxin-antitoxin reaction <a class="yt-timestamp" data-t="02:22:30">[02:22:30]</a>, <a class="yt-timestamp" data-t="02:22:42">[02:22:42]</a>.
-    *   Absence of lines indicates no toxin production <a class="yt-timestamp" data-t="02:23:03">[02:23:03]</a>.
-*   **Schick Test** (Susceptibility Test):
-    *   Intradermal test to determine patient susceptibility to diphtheria <a class="yt-timestamp" data-t="02:39:55">[02:39:55]</a>, <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>.
-    *   Type III hypersensitivity reaction <a class="yt-timestamp" data-t="02:42:21">[02:42:21]</a>, <a class="yt-timestamp" data-t="02:42:51">[02:42:51]</a>.
-    *   **Positive Schick test**: Redness indicates susceptibility to infection <a class="yt-timestamp" data-t="02:51:07">[02:51:07]</a>.
-    *   **Negative Schick test**: No reaction indicates immunity <a class="yt-timestamp" data-t="02:51:53">[02:51:53]</a>.
+### Nocardia and Actinomyces
+*   **General Characteristics**
+    *   Both are gram-positive, branching, and filamentous rods <a class="yt-timestamp" data-t="02:02:04">[02:02:04]</a>.
+*   **Nocardia**
+    *   Strict aerobe (requires oxygen), commonly found in nature/soil <a class="yt-timestamp" data-t="04:49:15">[04:49:15]</a>.
+    *   Partially acid-fast <a class="yt-timestamp" data-t="04:54:19">[04:54:19]</a> (can be mistaken for [[mycobacterium_tuberculosis|Mycobacterium tuberculosis]] due to pulmonary involvement, but [[mycobacterium_tuberculosis|TB]] causes hilar lymphadenopathy while Nocardia usually does not) <a class="yt-timestamp" data-t="05:11:51">[05:11:51]</a>.
+    *   Infection occurs via inhalation (pulmonary and brain involvement) <a class="yt-timestamp" data-t="04:59:59">[04:59:59]</a>.
+    *   Culture: Paraffin bait technique, grows in the presence of CO2 <a class="yt-timestamp" data-t="04:56:07">[04:56:07]</a>.
+    *   Treatment: Sulfonamides <a class="yt-timestamp" data-t="04:04:56">[04:04:56]</a>.
+*   **Actinomyces**
+    *   Strict anaerobe <a class="yt-timestamp" data-t="05:00:27">[05:00:27]</a>.
+    *   Normal endogenous organism found in the mouth <a class="yt-timestamp" data-t="04:50:56">[04:50:56]</a>.
+    *   Infections often follow tooth extraction or oral trauma <a class="yt-timestamp" data-t="04:40:48">[04:40:48]</a>, leading to "lumpy jaw" swelling <a class="yt-timestamp" data-t="04:46:58">[04:46:58]</a>.
+    *   Can also cause pelvic infections in [[culture_media_for_microbiology|IUD]] users <a class="yt-timestamp" data-t="04:59:59">[04:59:59]</a>.
+    *   Culture: Molar tooth colony appearance on solid agar <a class="yt-timestamp" data-t="04:08:01">[04:08:01]</a>.
+    *   Microscopy: Appears as "cotton ball," "woolly ball," or "sunray" appearance, also known as Gupta bodies <a class="yt-timestamp" data-t="05:27:01">[05:27:01]</a>.
+    *   Splendore-Hoeppli phenomenon: A pinkish line around the bacterial colonies, representing antigen-antibody immune complexes <a class="yt-timestamp" data-t="05:33:57">[05:33:57]</a>. This phenomenon is also seen in Sporothrix schenckii (rose gardener's disease) <a class="yt-timestamp" data-t="05:40:07">[05:40:07]</a>.
+    *   Treatment: Penicillin <a class="yt-timestamp" data-t="04:11:21">[04:11:21]</a>.
 
-### Treatment
-*   **General**: Droplet precautions and antibiotics (Penicillin and Erythromycin) are always used <a class="yt-timestamp" data-t="03:19:10">[03:19:10]</a>, <a class="yt-timestamp" data-t="03:19:21">[03:19:21]</a>, <a class="yt-timestamp" data-t="03:28:00">[03:28:00]</a>, <a class="yt-timestamp" data-t="03:32:56">[03:32:56]</a>.
-*   **Diphtheria Antitoxin (DAT)**:
-    *   Dosage varies based on disease extent:
-        *   Pharyngeal disease: 20,000-40,000 units <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>.
-        *   Nasopharyngeal disease: 40,000-60,000 units <a class="yt-timestamp" data-t="03:59:54">[03:59:54]</a>.
-        *   Extensive disease: 80,000-120,000 units (crossing 100,000 units) <a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>, <a class="yt-timestamp" data-t="04:24:27">[04:24:27]</a>, <a class="yt-timestamp" data-t="04:29:43">[04:29:43]</a>.
-    *   **Route**: Usually given intramuscularly (IM) <a class="yt-timestamp" data-t="03:22:25">[03:22:25]</a>.
-    *   **Combined IM/IV**: Half IM and half IV is given if there is neck disease (bull's neck) or if the disease has been present for more than 3 days <a class="yt-timestamp" data-t="04:09:43">[04:09:43]</a>, <a class="yt-timestamp" data-t="04:13:30">[04:13:30]</a>, <a class="yt-timestamp" data-t="04:19:43">[04:19:43]</a>.
+### Listeria monocytogenes
+*   Gram-positive bacillus <a class="yt-timestamp" data-t="07:22:52">[07:22:52]</a>.
+*   Shows "tumbling" motility (like a drunk man) at 22-25°C <a class="yt-timestamp" data-t="07:41:07">[07:41:07]</a>, but is non-motile at higher temperatures (35-37°C) <a class="yt-timestamp" data-t="07:58:34">[07:58:34]</a>. This is known as differential motility <a class="yt-timestamp" data-t="07:56:07">[07:56:07]</a>.
 
-### Other Corynebacterium Species
-*   *Corynebacterium minutissimum*: Causes erythrasma (red rash) <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>, <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>. Shows coral red fluorescence on Wood's lamp examination <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>.
-*   *Corynebacterium ulcerans*: Can cause lung symptoms <a class="yt-timestamp" data-t="01:32:27">[01:32:27]</a>.
-*   *Corynebacterium jeikeium*: Known for causing endocarditis <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>, <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>.
-*   *Corynebacterium urealyticum* and *Corynebacterium jeikeium* are lipophilic <a class="yt-timestamp" data-t="01:43:42">[01:43:42]</a>, <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>, <a class="yt-timestamp" data-t="01:46:24">[01:46:24]</a>.
+### [[mycobacterium_tuberculosis|Mycobacterium tuberculosis]]
+*   **Clinical Presentation:** Fever, chills, night sweats, productive cough, weight loss <a class="yt-timestamp" data-t="01:20:31">[01:20:31]</a>.
+*   **Staining:** Acid-fast bacillus, decolorized by 20-25% sulfuric acid <a class="yt-timestamp" data-t="01:24:39">[01:24:39]</a>.
+*   **Culture Media ([[culture_media_for_microbiology|LJ Media]] - Lowenstein-Jensen Media)**
+    *   Composition: Contains eggs, mineral salts, malachite green, and asparagine <a class="yt-timestamp" data-t="01:22:32">[01:22:32]</a>.
+    *   Growth time: Takes approximately 6-8 weeks for colonies to appear <a class="yt-timestamp" data-t="01:23:45">[01:23:45]</a>. Rapid growth (within one week) on LJ media indicates atypical mycobacteria <a class="yt-timestamp" data-t="01:21:42">[01:21:42]</a>.
+    *   Colony appearance: "Rough buff tough" colonies (dull, difficult to remove, creamy/off-white color) <a class="yt-timestamp" data-t="01:23:53">[01:23:53]</a>.
+    *   **Comparison:** *Mycobacterium bovis* shows opposite colony characteristics: smooth, white, and weaker colonies <a class="yt-timestamp" data-t="01:25:29">[01:25:29]</a>.
+*   **Rapid Diagnostic Methods**
+    *   MGIT (Mycobacteria Growth Indicator Tube): A liquid culture method that detects mycobacterial growth by fluorescence <a class="yt-timestamp" data-t="01:27:57">[01:27:57]</a>. An indicator in the tube fluoresces when oxygen is consumed by aerobic mycobacteria, indicating growth <a class="yt-timestamp" data-t="01:28:46">[01:28:46]</a>.
+    *   GeneXpert (CBNAAT - Cartridge-Based Nucleic Acid Amplification Test): A rapid, cartridge-based nucleic acid amplification test <a class="yt-timestamp" data-t="01:30:30">[01:30:30]</a>.
+        *   Provides diagnosis of [[mycobacterium_tuberculosis|TB]] <a class="yt-timestamp" data-t="01:31:39">[01:31:39]</a>.
+        *   Offers a rapid turnaround time of approximately two hours <a class="yt-timestamp" data-t="01:31:27">[01:31:27]</a>.
+        *   Detects resistance to Rifampicin (via the RPOB gene) <a class="yt-timestamp" data-t="01:31:47">[01:31:47]</a> and Isoniazid <a class="yt-timestamp" data-t="01:32:25">[01:32:25]</a>.
+*   **Anti-tuberculosis Drugs:** Most anti-tuberculosis drugs are bactericidal, but Ethambutol is bacteriostatic (stops bacterial growth) <a class="yt-timestamp" data-t="01:33:57">[01:33:57]</a>.
 
-## Actinomyces and Nocardia
-
-### General Characteristics
-*   Both are Gram-positive, branching, filamentous rods <a class="yt-timestamp" data-t="04:02:05">[04:02:05]</a>, <a class="yt-timestamp" data-t="04:03:06">[04:03:06]</a>, <a class="yt-timestamp" data-t="04:26:02">[04:26:02]</a>.
-*   Can be differentiated by their oxygen requirements and acid-fastness <a class="yt-timestamp" data-t="04:51:30">[04:51:30]</a>.
-*   **SNAP mnemonic for treatment**:
-    *   **S**ulfonamides for **N**ocardia <a class="yt-timestamp" data-t="04:06:04">[04:06:04]</a>.
-    *   **P**enicillin for **A**ctinomyces <a class="yt-timestamp" data-t="04:11:13">[04:11:13]</a>, <a class="yt-timestamp" data-t="04:12:00">[04:12:00]</a>, <a class="yt-timestamp" data-t="04:12:12">[04:12:12]</a>.
-
-### Actinomyces
-*   **Habitat**: Endogenous organism, primarily found in the mouth <a class="yt-timestamp" data-t="04:35:38">[04:35:38]</a>, <a class="yt-timestamp" data-t="04:38:00">[04:38:00]</a>.
-*   **Oxygen Requirement**: Strict anaerobe <a class="yt-timestamp" data-t="04:51:30">[04:51:30]</a>.
-*   **Acid-fastness**: Not acid-fast, except for *Actinomyces israelii* which can be weakly acid-fast <a class="yt-timestamp" data-t="04:05:00">[04:05:00]</a>, <a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a>.
-*   **Clinical Manifestations**:
-    *   Commonly causes oral and jaw swelling, often following tooth extraction <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>, <a class="yt-timestamp" data-t="04:42:00">[04:42:00]</a>, <a class="yt-timestamp" data-t="04:45:00">[04:45:00]</a>.
-    *   Known for "lumpy jaw" <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>.
-    *   Discharge contains "sulfur granules" (yellow granules) <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>, <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>.
-    *   Can cause genitourinary tract infections, especially in IUD users <a class="yt-timestamp" data-t="04:57:00">[04:57:00]</a>, <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>, <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>.
-*   **Culture**: Molar tooth colony appearance on solid agar <a class="yt-timestamp" data-t="04:04:00">[04:04:00]</a>, <a class="yt-timestamp" data-t="04:42:00">[04:42:00]</a>, <a class="yt-timestamp" data-t="04:49:00">[04:49:00]</a>.
-*   **Microscopy**:
-    *   [[bacterial_staining_techniques_and_their_significance | Gram staining]] shows purple, ball-shaped colonies. Filaments may resemble "sunray" appearance <a class="yt-timestamp" data-t="05:05:00">[05:05:00]</a>.
-    *   "Cotton ball" or "woolly ball" appearance <a class="yt-timestamp" data-t="05:27:00">[05:27:00]</a>, <a class="yt-timestamp" data-t="05:29:00">[05:29:00]</a>.
-    *   Gupta bodies (named after the scientist who discovered them) <a class="yt-timestamp" data-t="05:43:00">[05:43:00]</a>.
-    *   **Splendore-Hoeppli phenomenon**: A pinkish line formed around the bacterial colony, consisting of antigen-antibody complexes <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>, <a class="yt-timestamp" data-t="05:48:00">[05:48:00]</a>, <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>, <a class="yt-timestamp" data-t="05:53:00">[05:53:00]</a>, <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>. Also seen in Sporothrix schenckii (rose gardener's disease) <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>, <a class="yt-timestamp" data-t="05:40:00">[05:40:00]</a>.
-
-### Nocardia
-*   **Habitat**: Found in nature (soil, dust, air) <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>, <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>, <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>.
-*   **Oxygen Requirement**: Strict aerobe (requires oxygen) <a class="yt-timestamp" data-t="04:51:30">[04:51:30]</a>, <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>.
-*   **Acid-fastness**: Acid-fast (mimics TB) <a class="yt-timestamp" data-t="04:05:00">[04:05:00]</a>, <a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a>, <a class="yt-timestamp" data-t="04:51:30">[04:51:30]</a>, <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>.
-*   **Clinical Manifestations**: Inhalation leads to pulmonary symptoms <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>, <a class="yt-timestamp" data-t="04:46:00">[04:46:00]</a>, <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>. Can also affect the brain <a class="yt-timestamp" data-t="04:30:00">[04:30:00]</a>. Pulmonary Nocardiosis often mimics TB, but typically lacks hilar lymphadenopathy <a class="yt-timestamp" data-t="05:07:00">[05:07:00]</a>, <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>.
-*   **Culture**: Paraffin bait technique (CO2 from paraffin acts as bait) <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>, <a class="yt-timestamp" data-t="04:57:00">[04:57:00]</a>, <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>, <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>.
-
-## Listeria
-*   Has "tumbling motility" (like a drunk man falling) <a class="yt-timestamp" data-t="01:05:22">[01:05:22]</a>, <a class="yt-timestamp" data-t="01:06:00">[01:06:00]</a>, <a class="yt-timestamp" data-t="01:06:22">[01:06:22]</a>.
-*   Shows "differential motility":
-    *   Motile (tumbling) at 22-25°C <a class="yt-timestamp" data-t="01:08:00">[01:08:00]</a>.
-    *   Non-motile at 35-37°C <a class="yt-timestamp" data-t="01:08:00">[01:08:00]</a>.
-
-## Bacillus
-*   [[sporeforming_bacteria__bacillus_and_clostridium | Spore-forming organisms]] <a class="yt-timestamp" data-t="01:03:05">[01:03:05]</a>.
-*   Spores are generally not visible on routine staining <a class="yt-timestamp" data-t="01:03:09">[01:03:09]</a>. Special stains for spores include Ziehl-Neelsen (ZN) stain (spores are ZN positive), Schaefer-Fulton stain, and Modified Ashworth-Becker stain <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>, <a class="yt-timestamp" data-t="00:57:00">[00:57:00]</a>, <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>, <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>, <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>.
-
-### Bacillus anthracis (Anthrax)
-*   A [[anthrax_and_bacillus_anthracis | bioterrorism agent]] <a class="yt-timestamp" data-t="05:46:00">[05:46:00]</a>, <a class="yt-timestamp" data-t="05:48:00">[05:48:00]</a>.
-*   **Virulence Factors**:
-    *   **Capsule**: Unique polypeptide (poly-D-glutamic acid) capsule, unlike the polysaccharide capsules of other bacteria <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a>, <a class="yt-timestamp" data-t="05:44:00">[05:44:00]</a>, <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>, <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>.
-        *   Stained using Polychrome Methylene Blue (McFadyen reaction) <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>, <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>, <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>. Shows purple material around the bacteria <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>.
-    *   **Anthrax Toxin**: Tripartite toxin (three parts), unlike usual bipartite toxins <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>, <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>.
-        *   Edema Factor (EF): Increases cyclic AMP <a class="yt-timestamp" data-t="06:03:00">[06:03:00]</a>, <a class="yt-timestamp" data-t="06:08:00">[06:08:00]</a>.
-        *   Protective Factor (PF) <a class="yt-timestamp" data-t="06:13:00">[06:13:00]</a>.
-        *   Lethal Factor (LF) <a class="yt-timestamp" data-t="06:19:00">[06:19:00]</a>. (Note: Labile toxin is NOT a part of anthrax toxin) <a class="yt-timestamp" data-t="06:24:00">[06:24:00]</a>.
-*   **Clinical Forms**: All forms are hemorrhagic.
-    *   **Cutaneous Anthrax ("Hide Porter's Disease")**: Contact with animal skin <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>. Causes a blackish lesion called malignant pustule or eschar <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>, <a class="yt-timestamp" data-t="06:00:00">[06:00:00]</a>. Occurs on exposed body parts like neck or shoulder <a class="yt-timestamp" data-t="06:16:00">[06:16:00]</a>, <a class="yt-timestamp" data-t="06:20:00">[06:20:00]</a>.
-    *   **Pulmonary Anthrax ("Wool Sorter's Disease")**: Inhalation of wool fibers <a class="yt-timestamp" data-t="06:23:00">[06:23:00]</a>, <a class="yt-timestamp" data-t="06:27:00">[06:27:00]</a>. Causes hemorrhagic mediastinitis <a class="yt-timestamp" data-t="06:34:00">[06:34:00]</a>, <a class="yt-timestamp" data-t="06:40:00">[06:40:00]</a>.
-    *   **Gastrointestinal Anthrax**: Ingestion of uncooked meat from infected animals <a class="yt-timestamp" data-t="06:38:00">[06:38:00]</a>. Causes hemorrhagic enteritis <a class="yt-timestamp" data-t="06:45:00">[06:45:00]</a>.
-*   **Microscopy**: "Bamboo stick" or "box car" appearance <a class="yt-timestamp" data-t="01:02:42">[01:02:42]</a>, <a class="yt-timestamp" data-t="01:02:50">[01:02:50]</a>. Spores appear as white holes <a class="yt-timestamp" data-t="01:02:58">[01:02:58]</a>.
-*   **Culture Media Appearances**:
-    *   Nutrient Agar: "Medusa head" appearance (frizzy hair-like) <a class="yt-timestamp" data-t="01:03:40">[01:03:40]</a>, <a class="yt-timestamp" data-t="01:04:48">[01:04:48]</a>.
-    *   Blood Agar: "Comet tail" appearance (small tail from colony) <a class="yt-timestamp" data-t="01:04:01">[01:04:01]</a>, <a class="yt-timestamp" data-t="01:04:08">[01:04:08]</a>.
-    *   Solid Agar: "Beaten egg" appearance (thick, stringy fluid) <a class="yt-timestamp" data-t="01:04:15">[01:04:15]</a>, <a class="yt-timestamp" data-t="01:04:30">[01:04:30]</a>.
-    *   Solid Agar: "Frosted glass" appearance <a class="yt-timestamp" data-t="01:04:36">[01:04:36]</a>, <a class="yt-timestamp" data-t="01:04:46">[01:04:46]</a>.
-    *   Penicillin Agar (PE): "String of pearls" appearance <a class="yt-timestamp" data-t="01:02:21">[01:02:21]</a>, <a class="yt-timestamp" data-t="01:04:59">[01:04:59]</a>, <a class="yt-timestamp" data-t="01:05:01">[01:05:01]</a>.
-    *   Gelatin Stab Culture: "Inverted fir tree" appearance <a class="yt-timestamp" data-t="01:05:27">[01:05:27]</a>, <a class="yt-timestamp" data-t="01:06:58">[01:06:58]</a>, <a class="yt-timestamp" data-t="01:08:18">[01:08:18]</a>, <a class="yt-timestamp" data-t="01:09:02">[01:09:02]</a>.
-        *   Performed using a plain wire (not a loop) to stab the gelatin <a class="yt-timestamp" data-t="01:06:01">[01:06:01]</a>, <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>.
-        *   Appearance due to its aerobic nature; liquefies gelatin at the oxygen-rich surface, but not at the bottom <a class="yt-timestamp" data-t="01:08:00">[01:08:00]</a>, <a class="yt-timestamp" data-t="01:08:31">[01:08:31]</a>, <a class="yt-timestamp" data-t="01:08:50">[01:08:50]</a>.
-        *   Differentiated from *Clostridium tetani*, which shows a straight fir tree appearance due to its anaerobic nature (liquefies throughout) <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>, <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>.
-
-### Bacillus cereus
-*   Causes food poisoning (6-hour food poisoning) <a class="yt-timestamp" data-t="01:19:29">[01:19:29]</a>.
-*   Has central spores <a class="yt-timestamp" data-t="01:19:12">[01:19:12]</a>.
-*   **Culture**: Maypa Pemba media (associated with a viral meme) <a class="yt-timestamp" data-t="01:27:02">[01:27:02]</a>, <a class="yt-timestamp" data-t="01:27:40">[01:27:40]</a>.
-
-## Clostridium
-*   [[sporeforming_bacteria__bacillus_and_clostridium | Spore-forming organisms]] <a class="yt-timestamp" data-t="01:03:05">[01:03:05]</a>.
-*   **Spore Location**:
-    *   **Subterminal spores**: Most common type <a class="yt-timestamp" data-t="01:17:32">[01:17:32]</a>, <a class="yt-timestamp" data-t="01:20:04">[01:20:04]</a>. Seen in *Clostridium perfringens* <a class="yt-timestamp" data-t="01:20:06">[01:20:06]</a>.
-    *   **Terminal spores**:
-        *   Round: *Clostridium tetani* ("drumstick" appearance) <a class="yt-timestamp" data-t="01:18:09">[01:18:09]</a>, <a class="yt-timestamp" data-t="01:18:27">[01:18:27]</a>, <a class="yt-timestamp" data-t="01:19:05">[01:19:05]</a>.
-        *   Oval: *Clostridium tertium* ("tennis racket" appearance) <a class="yt-timestamp" data-t="01:18:16">[01:18:16]</a>, <a class="yt-timestamp" data-t="01:18:34">[01:18:34]</a>, <a class="yt-timestamp" data-t="01:18:59">[01:18:59]</a>.
-    *   **Central spores**: *Clostridium bifermentans* <a class="yt-timestamp" data-t="01:19:40">[01:19:40]</a>, <a class="yt-timestamp" data-t="01:19:54">[01:19:54]</a>.
-
-### Clostridium perfringens
-*   Commonly known for causing gas gangrene, but can also cause food poisoning <a class="yt-timestamp" data-t="01:16:05">[01:16:05]</a>, <a class="yt-timestamp" data-t="01:16:17">[01:16:17]</a>.
-*   **Pigbel food poisoning**: Associated with consumption of pork and sweet potatoes <a class="yt-timestamp" data-t="01:16:43">[01:16:43]</a>, <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>.
-*   Has subterminal spores <a class="yt-timestamp" data-t="01:17:27">[01:17:27]</a>.
-
-### Clostridium tetani
-*   Causes tetanus.
-*   Has terminal, round spores, giving a "drumstick" appearance <a class="yt-timestamp" data-t="01:18:27">[01:18:27]</a>.
-*   Shows a "straight fir tree" appearance on gelatin stab culture due to being anaerobic (can liquefy gelatin throughout the tube) <a class="yt-timestamp" data-t="01:09:16">[01:09:16]</a>, <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>.
-
-## Mycobacteria
-*   Known for causing TB-like symptoms (fever, chills, night sweats, productive cough, weight loss) <a class="yt-timestamp" data-t="01:20:33">[01:20:33]</a>.
-*   Aerobic organism (requires oxygen) <a class="yt-timestamp" data-t="01:28:46">[01:28:46]</a>, <a class="yt-timestamp" data-t="01:29:23">[01:29:23]</a>, <a class="yt-timestamp" data-t="01:30:10">[01:30:10]</a>.
-
-### Laboratory Diagnosis of Mycobacterium tuberculosis
-*   **Culture Media**:
-    *   **Lowenstein-Jensen (LJ) Media**:
-        *   Composition: Eggs, mineral salt solution, malachite green, asparagine <a class="yt-timestamp" data-t="01:22:32">[01:22:32]</a>, <a class="yt-timestamp" data-t="01:23:02">[01:23:02]</a>. Greenish color <a class="yt-timestamp" data-t="01:23:33">[01:23:33]</a>.
-        *   Growth time: 6-8 weeks for *M. tuberculosis* <a class="yt-timestamp" data-t="01:21:35">[01:21:35]</a>, <a class="yt-timestamp" data-t="01:23:00">[01:23:00]</a>, <a class="yt-timestamp" data-t="01:23:47">[01:23:47]</a>.
-        *   Colony appearance: "Rough, buff, tough" colonies (dull, creamy, difficult to remove) <a class="yt-timestamp" data-t="01:23:53">[01:23:53]</a>, <a class="yt-timestamp" data-t="01:24:03">[01:24:03]</a>, <a class="yt-timestamp" data-t="01:24:12">[01:24:12]</a>.
-        *   Rapid growers (atypical mycobacteria) can produce colonies in one week <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>.
-        *   *Mycobacterium bovis* produces "smooth, white, weaker" colonies (opposite of RBT) <a class="yt-timestamp" data-t="01:25:20">[01:25:20]</a>, <a class="yt-timestamp" data-t="01:25:35">[01:25:35]</a>.
-    *   **MGIT (Mycobacterial Growth Indicator Tube)**:
-        *   [[microbiological_test_for_detection | Microbacteriological test for detection]] of mycobacterial growth <a class="yt-timestamp" data-t="01:28:03">[01:28:03]</a>.
-        *   Contains an indicator that fluoresces when oxygen is consumed <a class="yt-timestamp" data-t="01:28:07">[01:28:07]</a>.
-        *   Initial state: High oxygen, no fluorescence <a class="yt-timestamp" data-t="01:28:28">[01:28:28]</a>.
-        *   With TB growth: TB consumes oxygen (being aerobic), leading to decreased oxygen and increased fluorescence <a class="yt-timestamp" data-t="01:28:43">[01:28:43]</a>, <a class="yt-timestamp" data-t="01:29:16">[01:29:16]</a>.
-*   **GeneXpert (CBNAAT - Cartridge-Based Nucleic Acid Amplification Test)**:
-    *   A rapid [[laboratory_techniques_for_identifying_bacterial_pathogens | laboratory technique for identifying bacterial pathogens]] with a turnaround time of approximately 2 hours <a class="yt-timestamp" data-t="01:30:27">[01:30:27]</a>, <a class="yt-timestamp" data-t="01:31:29">[01:31:29]</a>.
-    *   Detects TB and resistance to Rifampicin (RPOB gene) <a class="yt-timestamp" data-t="01:31:40">[01:31:40]</a>, <a class="yt-timestamp" data-t="01:31:51">[01:31:51]</a>, <a class="yt-timestamp" data-t="01:31:57">[01:31:57]</a>.
-    *   Can also detect resistance to Isoniazid <a class="yt-timestamp" data-t="01:32:23">[01:32:23]</a>.
-    *   Nucleic acid based, making it superior to culture-based methods <a class="yt-timestamp" data-t="01:32:09">[01:32:09]</a>.
-*   **Microscopy**:
-    *   Decolorized by 20-25% sulfuric acid in [[bacterial_staining_techniques_and_their_significance | acid-fast staining]] <a class="yt-timestamp" data-t="01:24:37">[01:24:37]</a>.
-    *   PPD (Purified Protein Derivative) is injected in the Mantoux test for TB <a class="yt-timestamp" data-t="01:50:40">[01:50:40]</a>, <a class="yt-timestamp" data-t="01:50:46">[01:50:46]</a>.
-
-### Antimicrobial Susceptibility
-*   Most anti-tuberculosis drugs are bactericidal, except for Ethambutol, which is bacteriostatic (stops bacterial growth) <a class="yt-timestamp" data-t="01:33:37">[01:33:37]</a>, <a class="yt-timestamp" data-t="01:34:01">[01:34:01]</a>, <a class="yt-timestamp" data-t="01:34:47">[01:34:47]</a>.
+## Bacterial Toxins Affecting Protein Synthesis
+Several bacterial toxins decrease protein synthesis by targeting ribosomal subunits or elongation factors. These include:
+*   Diphtheria toxin: Causes ADP-ribosylation of EF2 (elongation factor 2) <a class="yt-timestamp" data-t="01:47:48">[01:47:48]</a>.
+*   Pseudomonas exotoxin A: Also causes ADP-ribosylation of EF2 <a class="yt-timestamp" data-t="01:54:19">[01:54:19]</a>.
+*   Shiga toxin <a class="yt-timestamp" data-t="01:22:15">[01:22:15]</a>.
+*   Shiga-like toxin (produced by E. coli) <a class="yt-timestamp" data-t="01:27:23">[01:27:23]</a>: Both inhibit the 60S ribosomal subunit <a class="yt-timestamp" data-t="01:27:51">[01:27:51]</a>.

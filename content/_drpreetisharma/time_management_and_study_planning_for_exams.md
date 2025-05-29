@@ -1,0 +1,67 @@
+---
+title: Time management and study planning for exams
+videoId: vrq1aLYm-Nw
+---
+
+From: [[_drpreetisharma]] <br/> 
+
+For FMG students with approximately 10 days remaining until the January 20th exam, this period is considered "make or break" for exam preparation <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a> <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. The focus for these final days should be on specific "dos and don'ts" <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+
+## Subject Management
+Most students will not have completed all 19 subjects <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. It is advised to list subjects already completed and those remaining <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+
+### Don't Introduce New Material
+Avoid starting new, rare topics in subjects you have already studied <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a> <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
+
+### Addressing Left-Over Subjects
+It is crucial not to leave any subject completely unstudied <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a> <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. The goal is to know enough about every subject to answer at least 50% of its questions <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a> <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. For subjects never studied (e.g., Orthopedics, Anesthesia, Forensics), engage with short, focused content:
+*   Three-hour long LRR (Last Minute Revision) sessions <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
+*   Crash courses from any platform <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+*   Prioritize previous year topics and questions <a class="yt-timestamp" data-t="00:13:02">[00:13:02]</a>.
+
+### Categorizing Subjects for Revision
+The remaining 9 days should be strategically divided:
+1.  **Short Subjects:** Dedicate approximately two and a half days to subjects like Psychiatry, Radiology, Orthopedics, Anesthesia, Forensics, Dermatology, ENT, and Ophthalmology <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a> <a class="yt-timestamp" data-t="00:11:06">[00:11:06]</a> <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>. For these, focus on LRR sessions and all previous year questions <a class="yt-timestamp" data-t="00:11:34">[00:11:34]</a> <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>. If you are a fast reader, use rapid revision notes <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>.
+2.  **Volatile/Giant Subjects:** These include Anatomy, Biochemistry, Microbiology, Pharmacology, and PSM <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a> <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>. Since these are often difficult to remember, stick to LRR videos and previous year topics <a class="yt-timestamp" data-t="00:12:59">[00:12:59]</a>. Do not attempt to read main videos or rapid revision notes <a class="yt-timestamp" data-t="00:12:56">[00:12:56]</a>.
+3.  **Clinical Subjects:** Remaining days should be allocated to clinical subjects like Medicine, Surgery, and OBGYN, along with Pathology and Physiology <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a> <a class="yt-timestamp" data-t="00:13:23">[00:13:23]</a>. Again, concentrate on previous year topics and LRR videos <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>.
+
+## Daily Study Routine [[effective_time_table_creation_for_exams | Effective Time Table Creation for Exams]] [[creating_and_customizing_a_study_timetable | Creating and Customizing a Study Timetable]]
+Your day should be divided into four main slots:
+1.  **Study Pattern:** This includes theory and MCQs <a class="yt-timestamp" data-t="00:14:59">[00:14:59]</a>. Allocate 60% of your study time to MCQs and 40% to theory <a class="yt-timestamp" data-t="00:20:13">[00:20:13]</a> <a class="yt-timestamp" data-t="00:20:41">[00:20:41]</a>. When doing MCQs, explanations also contribute to theory <a class="yt-timestamp" data-t="00:20:25">[00:20:25]</a>.
+2.  **Images:** Dedicate one hour daily to reviewing images <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a>. Scan through images of subjects studied that day, ideally before sleep <a class="yt-timestamp" data-t="00:16:15">[00:16:15]</a>.
+3.  **Sanity:** Allocate 30 minutes for a break or outdoor activity to prevent mental exhaustion and maintain a sense of normalcy <a class="yt-timestamp" data-t="00:15:10">[00:15:10]</a> <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a> <a class="yt-timestamp" data-t="00:15:45">[00:15:45]</a>. Avoid social media or phone use during this time to prevent extended breaks <a class="yt-timestamp" data-t="00:17:32">[00:17:32]</a> <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>.
+4.  **Sleep Cycle Normalization:** Adjust your sleep schedule to be alert during morning exam hours (9 AM - 11 AM) <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a> <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Aim for a minimum of 6-8 hours of sleep <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a> <a class="yt-timestamp" data-t="00:20:29">[00:20:29]</a>. Avoid sleepless nights or experimenting with medication <a class="yt-timestamp" data-t="00:19:18">[00:19:18]</a> <a class="yt-timestamp" data-t="00:19:37">[00:19:37]</a>.
+
+### Study Hours and Productivity
+Aim for a minimum of 12-14 productive study hours daily, with full concentration and minimal distractions like phones <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a> <a class="yt-timestamp" data-t="00:18:34">[00:18:34]</a> <a class="yt-timestamp" data-t="00:19:04">[00:19:04]</a>. If you can complete your daily targets in fewer hours (e.g., 8-9 hours) due to being a fast reader, consider it an advantage <a class="yt-timestamp" data-t="00:32:02">[00:32:02]</a> <a class="yt-timestamp" data-t="00:33:03">[00:33:03]</a>.
+
+## Grand Tests (GTs) and MCQs
+The decision to give a GT is personal. If you can handle the pressure and take any score positively, go ahead <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a> <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>. However, the primary focus for GTs should shift from scoring to [[practical_exam_instructions_and_strategies | time management]] and identifying silly mistakes <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a> <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a> <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>. Do not let GT scores impact your motivation negatively <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a> <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>.
+
+### MCQ Strategy
+*   **Correct MCQs:** Do not read explanations for correctly answered MCQs; this indicates you already possess the knowledge <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>.
+*   **Incorrect MCQs:** Read explanations superficially to identify if the mistake was silly or due to a lack of knowledge <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a> <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. If a knowledge gap, quickly read 5-10 lines on the topic <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>.
+*   **New Questions:** Expect 20-30 "bouncers" or new questions in every GT that you might not have encountered <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a> <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. Do not let these questions determine your confidence or preparation <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. Your pass/fail is determined by familiar topics and avoiding silly mistakes <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a> <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+*   **Daily MCQ Count:** Aim for a minimum of 150+ MCQs daily <a class="yt-timestamp" data-t="00:21:12">[00:21:12]</a> <a class="yt-timestamp" data-t="00:21:19">[00:21:19]</a>. Gradually increase the number if you are currently doing less <a class="yt-timestamp" data-t="00:34:55">[00:34:55]</a>.
+*   **Previous Year Questions (PYQs):** Complete FMG's last five years of PYQs <a class="yt-timestamp" data-t="00:21:18">[00:21:18]</a>. If time permits, also do NEET PG's last three years' papers <a class="yt-timestamp" data-t="00:26:28">[00:26:28]</a>. Focus on previous year *topics* rather than memorizing answers to specific questions, as questions are rarely copied verbatim <a class="yt-timestamp" data-t="00:22:29">[00:22:29]</a> <a class="yt-timestamp" data-t="00:22:31">[00:22:31]</a>.
+
+## Managing Anxiety and Negativity [[strategies_to_manage_exam_anxiety | Strategies to Manage Exam Anxiety]] [[techniques_for_maintaining_positivity_and_focus_during_exam_preparation | Techniques for Maintaining Positivity and Focus During Exam Preparation]]
+*   **Positivity:** Actively seek positivity by interacting only with people who provide positive vibes, such as family and good friends <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a> <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>. Avoid those who boast about their preparation or spread rumors about exam difficulty/pattern <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a> <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
+*   **Avoid Overthinking:** Do not dwell on negative possibilities for the exam day (e.g., alarm, reaching center, computer issues) <a class="yt-timestamp" data-t="00:24:53">[00:24:53]</a>. One negative thought can lead to an incorrect MCQ <a class="yt-timestamp" data-t="00:24:42">[00:24:42]</a>.
+*   **Forgetting Subjects:** It's normal to feel like you're forgetting subjects <a class="yt-timestamp" data-t="00:23:44">[00:23:44]</a>. No one can memorize all 19 subjects <a class="yt-timestamp" data-t="00:23:38">[00:23:38]</a>. If you forget something, revise it quickly <a class="yt-timestamp" data-t="00:24:07">[00:24:07]</a>. Focus on the present task in "boxes" of a few hours at a time, rather than worrying about the entire 9 days or future results <a class="yt-timestamp" data-t="00:54:18">[00:54:18]</a>.
+*   **Mindset:** Success in competitive exams depends on both knowledge and a strong mindset <a class="yt-timestamp" data-t="00:24:21">[00:24:21]</a> <a class="yt-timestamp" data-t="00:24:24">[00:24:24]</a>. Maintain mental stability and avoid negativity <a class="yt-timestamp" data-t="00:24:34">[00:24:34]</a>.
+
+## Exam Day Strategy [[practical_exam_instructions_and_strategies | Practical Exam Instructions and Strategies]]
+*   **Paper Variation:** Be prepared for one exam paper to be tough and the other to be easy <a class="yt-timestamp" data-t="00:39:48">[00:39:48]</a> <a class="yt-timestamp" data-t="00:39:51">[00:39:51]</a>.
+*   **Handling Tough Papers:** If Paper 1 is tough, disconnect from it during the break <a class="yt-timestamp" data-t="00:40:19">[00:40:19]</a> <a class="yt-timestamp" data-t="00:40:24">[00:40:24]</a>. Do not discuss it with others <a class="yt-timestamp" data-t="00:40:27">[00:40:27]</a>. Move to Paper 2 with a fresh mindset, focusing on making up for any perceived backlog <a class="yt-timestamp" data-t="00:40:30">[00:40:30]</a> <a class="yt-timestamp" data-t="00:40:35">[00:40:35]</a>.
+*   **Sustained Attention:** The Pomodoro technique (short study bursts with breaks) is not suitable for the last days <a class="yt-timestamp" data-t="00:53:05">[00:53:05]</a>. Practice sitting for 3-3.5 hours at a stretch without distractions to simulate exam conditions and maintain alertness <a class="yt-timestamp" data-t="00:53:12">[00:53:12]</a> <a class="yt-timestamp" data-t="00:53:26">[00:53:26]</a>.
+
+## Overall Approach
+*   **Scanning Machine:** Become a "scanning machine" – quickly review everything you've read, rather than trying to learn new concepts <a class="yt-timestamp" data-t="00:14:25">[00:14:25]</a>.
+*   **Survival Mode:** These last days are about survival. Study what is necessary, even if it feels boring or difficult <a class="yt-timestamp" data-t="00:30:32">[00:30:32]</a> <a class="yt-timestamp" data-t="00:37:38">[00:37:38]</a>. The goal is to cross 150 on January 20th <a class="yt-timestamp" data-t="00:38:08">[00:38:08]</a>.
+*   **Trust Your Strategy:** If you are consistently scoring 170-190+ in GTs, do not change your current strategy <a class="yt-timestamp" data-t="00:37:20">[00:37:20]</a> <a class="yt-timestamp" data-t="00:37:22">[00:37:22]</a>.
+*   **Mental Preparation:** Mentally prepare for the exam's challenges. Easy questions, avoiding silly mistakes, and effective time management are the key determinants of your score, not the tough "bouncer" questions <a class="yt-timestamp" data-t="00:42:27">[00:42:27]</a> <a class="yt-timestamp" data-t="00:42:32">[00:42:32]</a>.
+*   **Analyze GTs:** If stuck in the 130-150 range in GTs, quickly analyze where mistakes are occurring (silly mistakes vs. knowledge gaps) and adjust practice accordingly <a class="yt-timestamp" data-t="00:42:53">[00:42:53]</a> <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>.
+*   **Last Day Revision:** On the day before the exam, focus on volatile subjects and areas where you frequently forget information (e.g., Biochemistry cycles, Microbiology catalysts, Pharmacology drugs) <a class="yt-timestamp" data-t="00:43:54">[00:43:54]</a>.
+
+This comprehensive approach will help manage your time effectively, strategically plan your study, and maintain the right mindset for the upcoming exam.

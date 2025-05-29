@@ -1,0 +1,76 @@
+---
+title: Breast cancer immunohistochemistry and gene amplification
+videoId: lzzwt3CaDOc
+---
+
+From: [[_drpreetisharma]] <br/> 
+
+Breast cancer diagnosis and classification rely on various techniques, including immunohistochemistry (IHC) and the assessment of genetic alterations like gene amplification <a class="yt-timestamp" data-t="00:38:28">[00:38:28]</a>, <a class="yt-timestamp" data-t="00:38:31">[00:38:31]</a>.
+
+## Immunohistochemistry (IHC) and Her2/neu Amplification
+
+Immunohistochemistry is a technique used in pathology to detect specific proteins in cells or tissues. Brown staining in any [[Breast cancer immunohistochemistry and herceptin pathway | immunohistochemistry]] is due to the presence of diaminobenzidine (DAB) <a class="yt-timestamp" data-t="00:40:01">[00:40:01]</a>, <a class="yt-timestamp" data-t="00:40:09">[00:40:09]</a>.
+
+### Her2/neu
+[[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] (also known as hTERT New or EGFR2) amplification is a common genetic alteration seen in breast cancer <a class="yt-timestamp" data-t="00:40:15">[00:40:15]</a>, <a class="yt-timestamp" data-t="00:40:20">[00:40:20]</a>, <a class="yt-timestamp" data-t="00:40:27">[00:40:27]</a>, <a class="yt-timestamp" data-t="00:40:31">[00:40:31]</a>.
+
+*   **EGFR1 vs. EGFR2:**
+    *   EGFR1 (first alphabet A) is mutated in adenocarcinoma lung <a class="yt-timestamp" data-t="00:40:44">[00:40:44]</a>, <a class="yt-timestamp" data-t="00:40:54">[00:40:54]</a>. Targeted therapy includes tyrosine kinase inhibitors <a class="yt-timestamp" data-t="00:41:19">[00:41:19]</a>.
+    *   EGFR2 (second alphabet B), or [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]], is mutated in breast cancer <a class="yt-timestamp" data-t="00:40:58">[00:40:58]</a>, <a class="yt-timestamp" data-t="00:41:01">[00:41:01]</a>. Its targeted therapy is Trastuzumab (Herceptin) <a class="yt-timestamp" data-t="00:41:31">[00:41:31]</a>, <a class="yt-timestamp" data-t="00:41:38">[00:41:38]</a>.
+
+### Her2/neu Scoring and Follow-up
+When a pathologist reports [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] IHC, it is scored as 0, 1+, 2+, or 3+ <a class="yt-timestamp" data-t="00:42:12">[00:42:12]</a>, <a class="yt-timestamp" data-t="00:42:14">[00:42:14]</a>.
+
+*   **0 and 1+:** Considered negative for [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] amplification (very little brown color) <a class="yt-timestamp" data-t="00:42:26">[00:42:26]</a>, <a class="yt-timestamp" data-t="00:42:29">[00:42:29]</a>. In these cases, Trastuzumab is not given <a class="yt-timestamp" data-t="00:42:34">[00:42:34]</a>, <a class="yt-timestamp" data-t="00:42:37">[00:42:37]</a>.
+*   **3+:** Considered positive for [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] amplification (sure positive) <a class="yt-timestamp" data-t="00:42:39">[00:42:39]</a>, <a class="yt-timestamp" data-t="00:42:41">[00:42:41]</a>. Trastuzumab is given <a class="yt-timestamp" data-t="00:42:43">[00:42:43]</a>, <a class="yt-timestamp" data-t="00:42:46">[00:42:46]</a>.
+*   **2+:** This is an equivocal or doubtful category <a class="yt-timestamp" data-t="00:42:48">[00:42:48]</a>, <a class="yt-timestamp" data-t="00:42:51">[00:42:51]</a>. In such cases, the next line of investigation is Fluorescence In Situ Hybridization (FISH) <a class="yt-timestamp" data-t="00:42:58">[00:42:58]</a>, <a class="yt-timestamp" data-t="00:43:19">[00:43:19]</a>.
+
+### FISH (Fluorescence In Situ Hybridization)
+FISH uses colored probes to detect [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] genes (e.g., red color) and their corresponding chromosome 17 centromere (e.g., green color) <a class="yt-timestamp" data-t="00:43:41">[00:43:41]</a>, <a class="yt-timestamp" data-t="00:43:44">[00:43:44]</a>, <a class="yt-timestamp" data-t="00:43:51">[00:43:51]</a>.
+
+*   A normal person would have two green signals (for two chromosome 17s) and two red signals (for two [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] genes) <a class="yt-timestamp" data-t="00:44:31">[00:44:31]</a>, <a class="yt-timestamp" data-t="00:44:48">[00:44:48]</a>.
+*   **Amplification is determined by the ratio of [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] signals to chromosome 17 signals.** If this ratio crosses 2.2, [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] is considered amplified <a class="yt-timestamp" data-t="00:45:23">[00:45:23]</a>, <a class="yt-timestamp" data-t="00:45:31">[00:45:31]</a>, <a class="yt-timestamp" data-t="00:45:35">[00:45:35]</a>.
+    *   For example, 5 Her2/neu signals / 2 chromosome 17 signals = 2.5 (amplified) <a class="yt-timestamp" data-t="00:45:40">[00:45:40]</a>, <a class="yt-timestamp" data-t="00:45:43">[00:45:43]</a>, <a class="yt-timestamp" data-t="00:45:47">[00:45:47]</a>.
+    *   10 Her2/neu signals / 2 chromosome 17 signals = 5 (amplified) <a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>, <a class="yt-timestamp" data-t="00:45:52">[00:45:52]</a>, <a class="yt-timestamp" data-t="00:45:54">[00:45:54]</a>, <a class="yt-timestamp" data-t="00:45:57">[00:45:57]</a>.
+*   If FISH shows amplification (ratio > 2.2), Trastuzumab is given <a class="yt-timestamp" data-t="00:46:12">[00:46:12]</a>, <a class="yt-timestamp" data-t="00:46:15">[00:46:15]</a>. If less than 2.2, it is not given <a class="yt-timestamp" data-t="00:46:20">[00:46:20]</a>, <a class="yt-timestamp" data-t="00:46:23">[00:46:23]</a>.
+
+## Molecular Classification of Breast Cancer
+The basis for molecular classification of breast cancer is gene profiling, though immunohistochemistry (ER, PR, Her2/neu) is used as a surrogate due to practical constraints <a class="yt-timestamp" data-t="00:57:56">[00:57:56]</a>, <a class="yt-timestamp" data-t="00:58:00">[00:58:00]</a>, <a class="yt-timestamp" data-t="00:58:14">[00:58:14]</a>, <a class="yt-timestamp" data-t="00:58:20">[00:58:20]</a>, <a class="yt-timestamp" data-t="00:58:23">[00:58:23]</a>.
+
+### Categories:
+*   **Triple Negative:** ER negative, PR negative, [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] negative <a class="yt-timestamp" data-t="00:59:21">[00:59:21]</a>, <a class="yt-timestamp" data-t="00:59:25">[00:59:25]</a>. Examples include Medullary Carcinoma Breast and Metaplastic Carcinoma Breast <a class="yt-timestamp" data-t="00:59:34">[00:59:34]</a>, <a class="yt-timestamp" data-t="00:59:40">[00:59:40]</a>.
+*   **[[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]]-enriched:** [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] positive, ER negative, PR negative <a class="yt-timestamp" data-t="01:00:15">[01:00:15]</a>, <a class="yt-timestamp" data-t="01:00:17">[01:00:17]</a>, <a class="yt-timestamp" data-t="01:00:20">[01:00:20]</a>. An example is Apocrine Carcinoma (or Haplocrine carcinoma) <a class="yt-timestamp" data-t="01:00:25">[01:00:25]</a>, <a class="yt-timestamp" data-t="01:00:28">[01:00:28]</a>, <a class="yt-timestamp" data-t="01:00:30">[01:00:30]</a>, <a class="yt-timestamp" data-t="01:00:35">[01:00:35]</a>.
+*   **Luminal A:** ER positive, PR positive, [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] negative <a class="yt-timestamp" data-t="01:01:00">[01:01:00]</a>, <a class="yt-timestamp" data-t="01:01:03">[01:01:03]</a>, <a class="yt-timestamp" data-t="01:01:05">[01:01:05]</a>. Characterized by low Ki67 (<14%) <a class="yt-timestamp" data-t="01:01:11">[01:01:11]</a>, <a class="yt-timestamp" data-t="01:01:24">[01:01:24]</a>.
+*   **Luminal B:** ER positive, PR positive, [[Breast cancer immunohistochemistry and herceptin pathway | Her2/neu]] negative or positive <a class="yt-timestamp" data-t="01:01:00">[01:01:00]</a>, <a class="yt-timestamp" data-t="01:01:03">[01:01:03]</a>, <a class="yt-timestamp" data-t="01:01:05">[01:01:05]</a>. Characterized by high Ki67 (>14%) <a class="yt-timestamp" data-t="01:01:28">[01:01:28]</a>, <a class="yt-timestamp" data-t="01:01:35">[01:01:35]</a>, <a class="yt-timestamp" data-t="01:02:07">[01:02:07]</a>, <a class="yt-timestamp" data-t="01:02:10">[01:02:10]</a>.
+    *   Ki67 (also known as MIB-1) is a proliferation marker <a class="yt-timestamp" data-t="01:01:15">[01:01:15]</a>, <a class="yt-timestamp" data-t="01:01:19">[01:01:19]</a>, <a class="yt-timestamp" data-t="01:02:39">[01:02:39]</a>.
+    *   Luminal B can sometimes be "triple positive" (ER+, PR+, Her2+) <a class="yt-timestamp" data-t="01:03:56">[01:03:56]</a>, <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>.
+*   **"Dustbin" Category:** Luminal A and B include Tubular Carcinoma, Mucinous Carcinoma, and Invasive Lobular Carcinoma (low grade) <a class="yt-timestamp" data-t="01:03:07">[01:03:07]</a>, <a class="yt-timestamp" data-t="01:03:10">[01:03:10]</a>, <a class="yt-timestamp" data-t="01:03:13">[01:03:13]</a>, <a class="yt-timestamp" data-t="01:03:16">[01:03:16]</a>, <a class="yt-timestamp" data-t="01:03:19">[01:03:19]</a>. High-grade Invasive Lobular Carcinoma falls under Luminal B <a class="yt-timestamp" data-t="01:03:24">[01:03:24]</a>, <a class="yt-timestamp" data-t="01:03:27">[01:03:27]</a>, <a class="yt-timestamp" data-t="01:03:30">[01:03:30]</a>, <a class="yt-timestamp" data-t="01:03:36">[01:03:36]</a>.
+
+## Specific Breast Cancer Types
+
+### Mucinous Carcinoma
+*   Grossly, it is often described as soft and jelly-like, which can be mistaken clinically for a benign tumor like fibroadenoma <a class="yt-timestamp" data-t="00:46:42">[00:46:42]</a>, <a class="yt-timestamp" data-t="00:46:45">[00:46:45]</a>, <a class="yt-timestamp" data-t="00:46:49">[00:46:49]</a>, <a class="yt-timestamp" data-t="00:46:57">[00:46:57]</a>.
+*   Histology shows pools of extracellular mucin with tumor cells floating within <a class="yt-timestamp" data-t="00:47:31">[00:47:31]</a>, <a class="yt-timestamp" data-t="00:47:55">[00:47:55]</a>, <a class="yt-timestamp" data-t="00:48:02">[00:48:02]</a>, <a class="yt-timestamp" data-t="00:48:05">[00:48:05]</a>, <a class="yt-timestamp" data-t="00:48:07">[00:48:07]</a>.
+*   While predominantly extracellular, mucin can sometimes be seen intracellularly <a class="yt-timestamp" data-t="00:48:43">[00:48:43]</a>, <a class="yt-timestamp" data-t="00:48:47">[00:48:47]</a>, <a class="yt-timestamp" data-t="00:48:52">[00:48:52]</a>.
+*   [[Understanding signet ring cells in gastric cancer | Signet ring cells]] (where mucin is only intracellular) can be seen in Invasive Lobular Carcinoma of the breast <a class="yt-timestamp" data-t="00:49:17">[00:49:17]</a>, <a class="yt-timestamp" data-t="00:49:20">[00:49:20]</a>, <a class="yt-timestamp" data-t="00:49:23">[00:49:23]</a>, <a class="yt-timestamp" data-t="00:49:25">[00:49:25]</a>, <a class="yt-timestamp" data-t="00:49:27">[00:49:27]</a>, <a class="yt-timestamp" data-t="00:49:32">[00:49:32]</a>, <a class="yt-timestamp" data-t="00:50:01">[00:50:01]</a>.
+*   On [[FNAC and biopsy correlation | FNAC]], "chicken wire blood vessels" can be seen due to the thick mucin getting stuck in the needle <a class="yt-timestamp" data-t="00:53:36">[00:53:36]</a>, <a class="yt-timestamp" data-t="00:53:50">[00:53:50]</a>, <a class="yt-timestamp" data-t="00:53:52">[00:53:52]</a>, <a class="yt-timestamp" data-t="00:53:56">[00:53:56]</a>, <a class="yt-timestamp" data-t="00:54:01">[00:54:01]</a>, <a class="yt-timestamp" data-t="01:10:55">[01:10:55]</a>.
+
+### Invasive Lobular Carcinoma (ILC)
+*   Often presents in post-menopausal women <a class="yt-timestamp" data-t="00:51:03">[00:51:03]</a>, <a class="yt-timestamp" data-t="00:51:07">[00:51:07]</a>, <a class="yt-timestamp" data-t="00:51:07">[01:07]</a>.
+*   Histologically characterized by tumor cells arranged in an "Indian file pattern" (single file, one behind the other) <a class="yt-timestamp" data-t="00:50:32">[00:50:32]</a>, <a class="yt-timestamp" data-t="00:50:35">[00:50:35]</a>, <a class="yt-timestamp" data-t="00:50:44">[00:50:44]</a>, <a class="yt-timestamp" data-t="00:51:22">[00:51:22]</a>.
+*   Can be bilateral and multicentric, thus requiring examination of the contralateral breast <a class="yt-timestamp" data-t="00:51:32">[00:51:32]</a>, <a class="yt-timestamp" data-t="00:51:36">[00:51:36]</a>, <a class="yt-timestamp" data-t="00:51:41">[00:51:41]</a>, <a class="yt-timestamp" data-t="00:51:45">[00:51:45]</a>, <a class="yt-timestamp" data-t="00:52:25">[00:52:25]</a>, <a class="yt-timestamp" data-t="00:52:27">[00:52:27]</a>.
+
+### Inflammatory Carcinoma
+*   Presents with skin changes like dimpling or "peau d'orange" (orange peel appearance) due to dermal lymphatic invasion by tumor cells, mimicking an inflammatory disorder <a class="yt-timestamp" data-t="00:54:40">[00:54:40]</a>, <a class="yt-timestamp" data-t="00:54:49">[00:54:49]</a>, <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>, <a class="yt-timestamp" data-t="00:55:07">[00:55:07]</a>, <a class="yt-timestamp" data-t="00:55:09">[00:55:09]</a>, <a class="yt-timestamp" data-t="00:55:11">[00:55:11]</a>, <a class="yt-timestamp" data-t="00:55:13">[00:55:13]</a>, <a class="yt-timestamp" data-t="00:55:20">[00:55:20]</a>, <a class="yt-timestamp" data-t="00:55:22">[00:55:22]</a>.
+
+### Male Breast Cancer
+*   Much less common than female breast cancer <a class="yt-timestamp" data-t="00:56:34">[00:56:34]</a>, <a class="yt-timestamp" data-t="00:56:36">[00:56:36]</a>.
+*   Most commonly, it is Invasive Ductal Carcinoma (IDC) <a class="yt-timestamp" data-t="00:56:50">[00:56:50]</a>, <a class="yt-timestamp" data-t="00:56:53">[00:56:53]</a>.
+*   Associated with BRCA2 mutations <a class="yt-timestamp" data-t="00:56:41">[00:56:41]</a>, <a class="yt-timestamp" data-t="00:56:44">[00:56:44]</a>, <a class="yt-timestamp" data-t="00:57:29">[00:57:29]</a>.
+
+### Myofibroblastoma
+*   A rare breast tumor that has an equal incidence in both males and females <a class="yt-timestamp" data-t="01:05:03">[01:05:03]</a>, <a class="yt-timestamp" data-t="01:05:06">[01:05:06]</a>, <a class="yt-timestamp" data-t="01:05:09">[01:05:09]</a>, <a class="yt-timestamp" data-t="01:05:12">[01:05:12]</a>, <a class="yt-timestamp" data-t="01:05:24">[01:05:24]</a>. It is named "MF tumor" (MyoFibroblastic Tumor) <a class="yt-timestamp" data-t="01:05:16">[01:05:16]</a>, <a class="yt-timestamp" data-t="01:05:19">[01:05:19]</a>.
+
+## General Principles
+*   The gold standard for diagnosing any carcinoma, including breast cancer, is always a biopsy (incisional or excisional) <a class="yt-timestamp" data-t="00:59:47">[00:59:47]</a>, <a class="yt-timestamp" data-t="00:59:50">[00:59:50]</a>, <a class="yt-timestamp" data-t="00:59:53">[00:59:53]</a>, <a class="yt-timestamp" data-t="01:00:02">[01:00:02]</a>, <a class="yt-timestamp" data-t="01:00:05">[01:00:05]</a>.
+*   Breast tumors are generally more common in females <a class="yt-timestamp" data-t="01:04:43">[01:04:43]</a>, <a class="yt-timestamp" data-t="01:04:45">[01:04:45]</a>, <a class="yt-timestamp" data-t="01:05:34">[01:05:34]</a>. Myofibroblastoma is an exception with equal incidence <a class="yt-timestamp" data-t="01:05:32">[01:05:32]</a>.

@@ -5,77 +5,86 @@ videoId: cAl5S24SHEk
 
 From: [[_drpreetisharma]] <br/> 
 
-This article outlines a detailed plan and [[strategy_for_fmge_december_2023_preparation | strategy]] for students preparing for the upcoming FMGE December 2024 exam, applicable to both first-time examinees and those who did not achieve a score of 150 in the recent June/July session <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
+This article outlines a concise plan and strategy for the upcoming [[fmge_exam_preparation_strategies | FMGE December 2024 exam]] <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This strategy is applicable to all students, whether they are appearing for the first time or recently attempted the June/July session and scored below 150 <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
 
-## Overall Strategy and Timetable
+## Core Preparation Pillars
 
-The core of the preparation revolves around a 60-day timetable, commencing July 24th and concluding September 21st <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>. This initial phase will be followed by a comprehensive revision plan, which includes three distinct revisions: 45 days, 5 days, and 15 days, roughly extending until December 15th <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. The study plan focuses on both theory and Multiple Choice Questions (MCQs) <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+### 60-Day Study Timetable
+A specific [[60day_study_timetable_for_fmge | 60-day timetable]] has been designed, running from July 24th to September 21st <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. Following this initial period, a detailed [[revision_strategy_for_fmge | revision plan]] will be provided, divided into three phases: 45 days, 5 days, and 15 days, aiming to cover preparation until roughly December 15th <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. The exact revision dates may be adjusted once the official exam date is clearer <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
 
-## Key Preparation Elements
+### Daily Study Requirements
+The [[60day_study_timetable_for_fmge | 60-day timetable]] focuses on both theory and MCQs <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
+*   **MCQs**: Aim for 100 to 120 MCQs per day <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. If current practice is lower, gradually increase the number by 15-20 MCQs daily to reach the target <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
+*   **Study Hours**: Maintain an average of 8 to 10 hours of study per day <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. This consistent effort is crucial for completing the syllabus and enabling multiple revisions, which are key to cracking the exam <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
 
-*   **MCQ Practice**: Students should aim to complete 100 to 120 MCQs daily <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. If daily practice is not a habit, gradually increase the number by 15-20 MCQs per day to reach the target <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
-*   **Study Hours**: Maintain an average of 8 to 10 hours of study per day from the outset <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. This consistent effort is crucial to finish the syllabus within the 60-day timeframe, which then allows for the planned three revisions <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>. Revision and extensive MCQ practice are identified as key factors for success in this exam <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
-*   **Study Resources**: Utilize a single source for each subject <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. This may involve combining different faculties or notes from various platforms that best suit individual understanding <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+### Resource Management
+*   **Single Source**: Utilize a single, chosen source (faculty, notes) for each subject <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
 *   **Video Lectures**:
-    *   For subjects where a student consistently scores above 80% in their Q bank, rapid revision videos are recommended <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
-    *   For subjects or topics where scores are below 80%, main video lectures should be consulted to address weaker areas <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
-    *   Specifically, for [[pathology_image_revision_for_fmg_exam | Pathology]] and Microbiology, rapid revision videos are advised <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+    *   **Rapid Revision**: For subjects where you consistently score above 80% in your Q-bank, rapid revision videos can be used <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>.
+    *   **Main Videos**: For weaker subjects or topics where Q-bank scores are less than 80%, refer to main videos <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+    *   **Specific Recommendations**: For Pathology and Microbiology, it is recommended to use only rapid revision videos <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>. The rapid revision for Pathology (PrepLadder) is approximately 19 hours, and Microbiology is 16 hours <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. Aim for approximately 5 hours of video lectures per day, which can be watched at 1.5x to 1.75x speed (Pathology up to 2x, Microbiology 1.5x) <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>.
 
-## Subject-Wise Study Plan (60-Day Timetable)
+## Subject-Wise Study Plan (Four Blocks)
+The subjects are divided into four interlinked blocks to promote integrated learning and align with the current exam pattern <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. While the number of days for each subject should be followed, students can customize the order of subjects based on their strengths and weaknesses <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>.
 
-The subjects are divided into four integrated blocks to facilitate better understanding and integration:
+### Block 1: Anatomy & Surgical Integration
+*   Anatomy: 4 days <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>
+*   Surgery: 6 days <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>
+*   Orthopedics: 2 days <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>
+*   Radiology: 2 days (to wrap up surgical concepts) <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>
 
-*   **Block 1 (Integrated Clinical Sciences)** <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>:
-    *   Anatomy: 4 days <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>
-    *   Surgery: 6 days <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>
-    *   Orthopedics: 2 days <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>
-    *   Radiology: 2 days <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>
-*   **Block 2 (Basic and Clinical Medicine)** <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>:
-    *   [[pathology_image_revision_for_fmg_exam | Pathology]]: 4 days <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>
-    *   Microbiology: 3 days <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>
-    *   Pharmacology: 4 days <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>
-    *   Medicine: 6 days (after basic sciences for better understanding) <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>
-    *   Pediatrics: 2 days (overlaps with medicine) <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>
-    *   Physiology: 1 day <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>
-    *   Dermatology: 1 day (correlates with [[pathology_image_revision_for_fmg_exam | Pathology]]) <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>
-*   **Block 3 (Obstetrics & Gynecology and Anesthesia)** <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>:
-    *   OBG: 6 days <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>
-    *   Anesthesia: 2 days <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>
-*   **Block 4 (Standalone Subjects)** <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>:
-    *   PSM: 5 days (due to increasing difficulty of questions) <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>
-    *   Biochemistry: 3 days <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>
-    *   ENT: 2 days <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>
-    *   Ophthal: 2 days <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>
-    *   FMT: 2 days <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>
-    *   Psychiatry: 2 days <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>
+### Block 2: Basic Sciences & Medicine
+*   Pathology: 4 days <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>
+*   Microbiology: 3 days <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>
+*   Pharmacology: 4 days <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>
+*   Medicine: 6 days (easier after basic sciences) <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>
+*   Pediatrics: 2 days (overlaps with Medicine) <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>
+*   Physiology: 1 day (focus on extra topics, e.g., from RR or LRR) <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>
+*   Dermatology: 1 day (correlates with Pathology) <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>
 
-This plan covers 58 days of study, with an additional 2 days allocated for Grand Tests (GTs) and their review <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. The first GT is scheduled for September 8th after 15 subjects are covered, and the second GT is on September 21st, marking the end of the 60-day schedule <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
+### Block 3: OBGY & Anesthesia
+*   OBGY: 6 days (a must) <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>
+*   Anesthesia: 2 days (to wrap up clinical branches) <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>
 
-### Specifics for Pathology and Microbiology Rapid Revision
+### Block 4: Standalone Subjects
+*   PSM: 5 days (tougher questions, requires more effort) <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>
+*   Biochemistry: 3 days <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>
+*   ENT: 2 days <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>
+*   Ophthalmology: 2 days <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>
+*   FMT: 2 days <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>
+*   Psychiatry: 2 days <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>
 
-For [[pathology_image_revision_for_fmg_exam | Pathology]], the rapid revision in PrepLadder is 19 hours, and for Microbiology, it's 16 hours <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. Dividing these hours by the allocated days (4 for [[pathology_image_revision_for_fmg_exam | Pathology]] and 3 for Microbiology), this translates to approximately 5 hours of video lectures per day <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. Watching at 1.5x to 1.75x speed (or 2x for [[pathology_image_revision_for_fmg_exam | Pathology]]) will allow for efficient completion of the syllabus <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
+This entire plan covers 58 days of study, with two additional days dedicated to Grand Tests (GTs) <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>.
 
-## Daily Study Schedule
+## Integrated Grand Tests
+Two Grand Tests are integrated into the 60-day plan:
+*   **GT Number 1**: September 8th (even if only 15 out of 19 subjects are completed) <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. Dedicate one full day to taking and reviewing the GT <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
+*   **GT Number 2**: September 21st <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>.
 
-An [[effective_time_table_creation_for_fmge | effective time table creation for FMGE]] daily schedule is structured to maximize productivity while incorporating necessary breaks:
+## Daily Schedule: Timeboxing
+To maintain focus and avoid burnout, practice "timeboxing" by dividing your day into study, break, and chill times <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>.
 
-*   **Morning Routine**: Dedicate one hour upon waking (e.g., 7-8 AM) to a refreshing morning routine, including 20 minutes outdoors for fresh air <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>.
-*   **Study Session 1**: 8:00 AM - 11:00 AM (3 hours) <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>. This longer session prepares for the exam's sitting duration <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>.
-*   **Break 1**: 11:00 AM - 11:30 AM (30 minutes). Use this time to relax without screens (no social media or digital sources) <a class="yt-timestamp" data-t="00:11:40">[00:11:40]</a>.
-*   **Study Session 2**: 11:30 AM - 2:00 PM (2.5 hours) <a class="yt-timestamp" data-t="00:12:22">[00:12:22]</a>.
-*   **Mega Break**: 2:00 PM - 3:30 PM (1.5 hours). This includes lunch (30 minutes) and an hour for relaxation, power naps, or optional social media/entertainment <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>.
-*   **Study Session 3**: 3:30 PM - 6:00 PM (2.5 hours) <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>.
-*   **Break 2**: 6:00 PM - 7:00 PM (1 hour). Mix relaxation with social interaction/media use <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>.
-*   **Study Session 4**: 7:00 PM - 9:00 PM (2 hours) <a class="yt-timestamp" data-t="00:13:19">[00:13:19]</a>.
-*   **Evening Routine & Casual MCQ Practice**: 9:00 PM onwards. Create a custom module of 30 mixed questions from subjects already completed that day. This casual test helps stay in touch with previously studied material without formal writing or bookmarking <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>.
-*   **Wind Down**: Chill time, social media, or watch a web series (20 minutes) <a class="yt-timestamp" data-t="00:14:34">[00:14:34]</a>.
-*   **Sleep**: Aim to sleep by 11:00 PM or 11:30 PM for 8 hours of rest <a class="yt-timestamp" data-t="00:13:29">[00:13:29]</a>.
+*   **Morning (7:00 AM onwards)**:
+    *   **7:00 AM - 8:00 AM**: Morning routine (1 hour, including 20 minutes outdoors for fresh air) <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>.
+    *   **8:00 AM - 11:00 AM**: Study Session 1 (3 hours straight, simulating exam conditions) <a class="yt-timestamp" data-t="00:11:20">[00:11:20]</a>.
+    *   **11:00 AM - 11:30 AM**: Break (30 minutes - relax, close eyes, listen to music, talk to family/friends; no social media/screens) <a class="yt-timestamp" data-t="00:11:40">[00:11:40]</a>.
+    *   **11:30 AM - 2:00 PM**: Study Session 2 (2.5 hours) <a class="yt-timestamp" data-t="00:12:22">[00:12:22]</a>.
 
-This schedule provides approximately 10 hours of study with adequate breaks <a class="yt-timestamp" data-t="00:14:59">[00:14:59]</a>. The emphasis is on consistency and vigilance <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>.
+*   **Afternoon & Evening**:
+    *   **2:00 PM - 3:30 PM**: Mega Break (1.5 hours - lunch, power nap, use social media, watch something of choice) <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>.
+    *   **3:30 PM - 6:00 PM**: Study Session 3 (2.5 hours) <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>.
+    *   **6:00 PM - 7:00 PM**: Break (1 hour - mix of relaxation and social interaction) <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>.
+    *   **7:00 PM - 9:00 PM**: Study Session 4 (2 hours) <a class="yt-timestamp" data-t="00:13:19">[00:13:19]</a>.
 
-## Mindset for Success
+*   **Night (9:00 PM onwards)**:
+    *   **9:00 PM - 11:00/11:30 PM**: Relax and daily MCQ module (casual, custom module of 30 questions from finished subjects to stay in touch with past material) <a class="yt-timestamp" data-t="00:13:29">[00:13:29]</a>. Watch web series, use social media.
+    *   **Sleep**: Aim for 8 hours of sleep <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>.
 
-*   **Focus on the Present**: Let go of past academic performance or anxieties. The journey begins anew from July 24th <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
-*   **No Future Anxiety**: Do not dwell on what will happen after September 21st; focus solely on the 60-day plan <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>.
-*   **Persistence**: "This too shall pass," even if it's a tough, painful journey, like passing a kidney stone <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>. Tough times build humility, which leads to greater heights in life <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>.
-*   **Long-term Perspective**: Ultimately, success in this exam is less critical in the long run than developing strong clinical skills and humility <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>.
+This schedule accounts for approximately 10 hours of study time with adequate breaks <a class="yt-timestamp" data-t="00:14:59">[00:14:59]</a>. The times can be shifted for night owls, but the structure should be maintained <a class="yt-timestamp" data-t="00:14:53">[00:14:53]</a>.
+
+## Mindset and Motivation
+*   **Focus on the Present**: Let go of "past guilt" from previous attempts and "future anxiety" about what comes after September 21st <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>. Your journey starts fresh on July 24th <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
+*   **"This too shall pass"**: Remember that tough times are not constant <a class="yt-timestamp" data-t="00:15:58">[00:15:58]</a>. The journey may be painful, but it will pass, leading to better days <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>.
+*   **Embrace Humility**: Difficult periods build humility <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>. In the long run, clinical skills and humility matter more than the number of attempts it took to clear the exam <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>.
+
+Begin your [[study_strategy_for_fmge_january_2024 | study strategy for FMGE January 2024]] with a positive mindset from July 24th <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
