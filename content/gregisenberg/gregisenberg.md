@@ -1,546 +1,526 @@
 ---
 title: gregisenberg
 ---
-### [Manus AI replaces your AI tech stack? (Full Demo)](https://www.youtube.com/watch?v=HVhXwBYenC8)
-- [[manis_ai_overview | Manis AI overview]]
-- [[manis_ai_capabilities_in_creating_startups | Manis AI capabilities in creating startups]]
-- [[comparisons_with_other_ai_tools | Comparisons with other AI tools]]
-- [[privacy_and_data_concerns_with_ai | Privacy and data concerns with AI]]
-- [[challenges_and_limitations_of_manis_ai | Challenges and limitations of Manis AI]]
+### [Model Context Protocol (MCP), clearly explained (why it matters)](https://www.youtube.com/watch?v=7j_NE6Pjv-E)
+- [[understanding_model_context_protocol_mcp | Understanding Model Context Protocol MCP]]
+- [[evolution_and_challenges_of_large_language_models_llms | Evolution and Challenges of Large Language Models LLMs]]
+- [[integration_of_tools_with_llms | Integration of Tools with LLMs]]
+- [[potential_opportunities_with_mcp_in_startups | Potential Opportunities with MCP in Startups]]
+- [[technical_challenges_and_future_of_mcp | Technical Challenges and Future of MCP]]
+
+### [How to use AI to build your SaaS startup (Lovable, Supabase)](https://www.youtube.com/watch?v=mJwPvyc4-rk)
+- [[using_ai_tools_for_saas_development | Using AI tools for SaaS development]]
+- [[introduction_to_lovable_tool_for_startup_creation | Introduction to Lovable tool for startup creation]]
+- [[role_of_product_managers_in_ai_integration | Role of product managers in AI integration]]
+- [[basics_of_web_technologies_and_their_importance_in_ai_tools | Basics of web technologies and their importance in AI tools]]
+- [[backend_as_a_service_and_its_benefits_for_startups | Backend as a Service and its benefits for startups]]
+
+### [I built 5 AI Agents in 36 Minutes to save me 20+ hours of work a week](https://www.youtube.com/watch?v=_qr7ogLpTJs)
+- [[ai_agents_and_their_applications | AI agents and their applications]]
+- [[lindy_platform_for_building_ai_agents | Lindy platform for building AI agents]]
+- [[agent_swarms_and_parallel_task_management | Agent swarms and parallel task management]]
+- [[automation_in_executive_assistance_and_scheduling | Automation in executive assistance and scheduling]]
+- [[using_ai_in_recruitment_and_outreach | Using AI in recruitment and outreach]]
 
 ### [How I use Reddit and AI to find winning startup ideas](https://www.youtube.com/watch?v=8vXoI7lUroQ)
-- [[using_ai_tools_for_generating_startup_ideas | Using AI tools for generating startup ideas]]
-- [[identifying_trends_and_opportunities_on_reddit | Identifying trends and opportunities on Reddit]]
-- [[methods_to_validate_startup_ideas_using_social_media | Methods to validate startup ideas using social media]]
-- [[formulating_marketing_strategies_through_community_insights | Formulating marketing strategies through community insights]]
-- [[creating_engaging_content_to_build_audience_and_community | Creating engaging content to build audience and community]]
+- [[using_ai_tools_to_find_startup_ideas_on_reddit | Using AI tools to find startup ideas on Reddit]]
+- [[identifying_and_analyzing_trends_in_reddit_subreddits | Identifying and analyzing trends in Reddit subreddits]]
+- [[techniques_for_discovering_validated_startup_ideas | Techniques for discovering validated startup ideas]]
+- [[creating_content_that_resonates_with_online_communities | Creating content that resonates with online communities]]
+- [[building_and_marketing_startup_ideas_from_reddit_insights | Building and marketing startup ideas from Reddit insights]]
 
-### [Bolt tutorial for beginners with the Bolt CEO Eric Simons](https://www.youtube.com/watch?v=1SfUMQ1yTY8)
-- [[introduction_to_bolt | Introduction to Bolt]]
-- [[using_bolt_for_web_app_development | Using Bolt for web app development]]
-- [[building_a_directory_with_bolt | Building a directory with Bolt]]
-- [[integrating_firebase_with_bolt | Integrating Firebase with Bolt]]
-- [[design_and_deployment_with_bolt | Design and deployment with Bolt]]
+### [Cursor AI tutorial for beginners](https://www.youtube.com/watch?v=gqUQbjsYZLQ)
+- [[best_practices_for_using_cursor_ai | Best practices for using Cursor AI]]
+- [[planning_strategies_for_aidriven_development | Planning strategies for AIdriven development]]
+- [[using_ai_models_like_claude_and_v0_with_cursor_ai | Using AI models like Claude and V0 with Cursor AI]]
+- [[incorporating_external_documentation_into_ai_workflows | Incorporating external documentation into AI workflows]]
+- [[leveraging_ai_for_code_explanation_and_learning | Leveraging AI for code explanation and learning]]
 
-### [ChatGPT Operator Built a $500/Day Business in 30 Minutes (tutorial)](https://www.youtube.com/watch?v=A3AsVAZ7wIs)
-- [[using_ai_for_business_automation | Using AI for business automation]]
-- [[retail_arbitrage_with_ai_tools | Retail arbitrage with AI tools]]
-- [[aidriven_email_marketing_and_outreach | AIdriven email marketing and outreach]]
-- [[efficient_market_research_using_ai_agents | Efficient market research using AI agents]]
-- [[challenges_and_opportunities_in_aidriven_marketplaces | Challenges and opportunities in AIdriven marketplaces]]
+### [Google AI studio replaces your AI tech stack (full demo)](https://www.youtube.com/watch?v=6h9y1rLem4c)
+- [[ai_studio_capabilities_and_demo | AI Studio capabilities and demo]]
+- [[gemini_models_introduction | Gemini models introduction]]
+- [[long_context_use_cases_in_ai | Long context use cases in AI]]
+- [[building_businesses_with_ai_technology | Building businesses with AI technology]]
+- [[ai_copresence_and_api_integration | AI copresence and API integration]]
 
 ### [I can't believe we coded an app with AI in 67 mins (V0, Cursor AI, Replit, Claude AI)](https://www.youtube.com/watch?v=kDcM_xwmP3Q)
 - [[building_apps_with_ai_tools | Building apps with AI tools]]
-- [[overcoming_coding_challenges_using_ai | Overcoming coding challenges using AI]]
-- [[creating_digital_products_without_coding | Creating digital products without coding]]
-- [[startup_idea_generation_and_evaluation | Startup idea generation and evaluation]]
-- [[using_ai_for_app_design_and_functionality | Using AI for app design and functionality]]
+- [[the_role_of_high_and_low_agency_in_software_creation | The role of high and low agency in software creation]]
+- [[exploring_nocode_solutions_for_app_development | Exploring nocode solutions for app development]]
+- [[teaching_coding_and_app_development_without_traditional_coding | Teaching coding and app development without traditional coding]]
+- [[using_templates_and_tools_like_cursor_ai_and_v0_for_rapid_software_prototyping | Using templates and tools like Cursor AI and v0 for rapid software prototyping]]
 
-### [I built 5 AI Agents in 36 Minutes to save me 20+ hours of work a week](https://www.youtube.com/watch?v=_qr7ogLpTJs)
-- [[ai_agents_in_business_automation | AI agents in business automation]]
-- [[agent_swarms_and_parallel_task_management | Agent swarms and parallel task management]]
-- [[lindy_ai_platform_and_its_use_cases | Lindy AI platform and its use cases]]
-- [[enhancing_productivity_with_ai_agents | Enhancing productivity with AI agents]]
-- [[integration_and_customization_of_ai_agents | Integration and customization of AI agents]]
+### [I built a Cash Flowing Online Directory in 54 minutes (using Ahrefs and WordPress)](https://www.youtube.com/watch?v=6rAHkSyzfNA)
+- [[building_a_profitable_online_directory | Building a profitable online directory]]
+- [[finding_and_validating_niche_ideas_for_directories | Finding and validating niche ideas for directories]]
+- [[seo_optimization_for_directory_websites | SEO optimization for directory websites]]
+- [[monetization_strategies_for_directory_businesses | Monetization strategies for directory businesses]]
+- [[data_enrichment_and_management_for_directory_sites | Data enrichment and management for directory sites]]
 
-### [Cursor AI tutorial for beginners](https://www.youtube.com/watch?v=gqUQbjsYZLQ)
-- [[cursor_ai_best_practices | Cursor AI best practices]]
-- [[planning_and_preparing_before_coding_with_cursor_ai | Planning and preparing before coding with Cursor AI]]
-- [[using_cursor_ai_for_beginners_and_nondevelopers | Using Cursor AI for beginners and nondevelopers]]
-- [[enhancing_cursor_ai_prompts_with_context_and_tagging | Enhancing Cursor AI prompts with context and tagging]]
-- [[leveraging_ai_tools_for_code_explanation_and_education | Leveraging AI tools for code explanation and education]]
-
-### [Google AI studio replaces your AI tech stack (full demo)](https://www.youtube.com/watch?v=6h9y1rLem4c)
-- [[introduction_to_google_ai_studio_and_its_capabilities | Introduction to Google AI Studio and its capabilities]]
-- [[gemini_models_and_their_impact_on_ai_studio_user_experience | Gemini models and their impact on AI Studio user experience]]
-- [[demo_of_ai_studio_functionalities_and_its_applications | Demo of AI Studio functionalities and its applications]]
-- [[business_opportunities_using_ai_studio_and_machine_learning_models | Business opportunities using AI Studio and machine learning models]]
-- [[multimodal_live_api_and_its_future_implications | Multimodal live API and its future implications]]
-
-### [I built an AI Agent in 43 min to automate my workflows (Zero Coding)](https://www.youtube.com/watch?v=QFc7jXZ2pdE)
-- [[automating_business_workflows_with_ai | Automating business workflows with AI]]
-- [[nocode_ai_tools_for_workflow_automation | Nocode AI tools for workflow automation]]
-- [[creating_aipowered_automation_workflows | Creating AIpowered automation workflows]]
-- [[ai_integration_and_data_handling_in_business | AI integration and data handling in business]]
-- [[scaling_businesses_through_automation | Scaling businesses through automation]]
-
-### [How to use AI to build your SaaS startup (Lovable, Supabase)](https://www.youtube.com/watch?v=mJwPvyc4-rk)
-- [[using_ai_to_build_a_saas_startup | Using AI to build a SaaS startup]]
-- [[leveraging_ai_tools_for_product_management | Leveraging AI tools for product management]]
-- [[understanding_lovable_and_supabase_integration | Understanding Lovable and Supabase integration]]
-- [[implementing_authentication_and_backend_services_in_saas | Implementing authentication and backend services in SaaS]]
-- [[creating_a_functional_fullstack_application | Creating a functional fullstack application]]
-
-### [Model Context Protocol (MCP), clearly explained (why it matters)](https://www.youtube.com/watch?v=7j_NE6Pjv-E)
-- [[understanding_mcps_and_their_importance | Understanding MCPs and their Importance]]
-- [[mcps_and_their_role_in_making_llms_more_capable | MCPs and their Role in Making LLMs More Capable]]
-- [[the_challenges_of_implementing_mcp_servers | The Challenges of Implementing MCP Servers]]
-- [[startup_opportunities_around_mcps | Startup Opportunities Around MCPs]]
-- [[comparison_of_mcps_with_existing_standards | Comparison of MCPs with Existing Standards]]
-
-### [Bolt.new Tutorial for Beginners (the Cursor AI and V0 Killer)](https://www.youtube.com/watch?v=lDMhK8DamuE)
-- [[bolt_new_tool_overview | Bolt new tool overview]]
-- [[comparison_with_cursor_ai_and_v0 | Comparison with Cursor AI and V0]]
-- [[prototype_creation_with_bolt_new | Prototype creation with Bolt new]]
-- [[nontechnical_users_using_ai_tools | Nontechnical users using AI tools]]
-- [[deployment_and_troubleshooting_with_bolt_new | Deployment and troubleshooting with Bolt new]]
-
-### [How to build a profitable Faceless YouTube Channel in 72 Hours](https://www.youtube.com/watch?v=tImfZMhBb_k)
-- [[faceless_youtube_channels_explained | Faceless YouTube channels explained]]
-- [[building_a_profitable_youtube_channel_using_ai | Building a profitable YouTube channel using AI]]
-- [[choosing_high_impact_niches_for_content_creation | Choosing high impact niches for content creation]]
-- [[monetization_strategies_beyond_ads | Monetization strategies beyond ads]]
-- [[the_evolving_role_of_ai_in_content_creation | The evolving role of AI in content creation]]
-
-### [5 AI Startup Ideas So Good You’ll Quit Your Job in 24hrs](https://www.youtube.com/watch?v=onCWUrw1R9g)
-- [[ai_startup_ideas_and_trends | AI Startup Ideas and Trends]]
-- [[monetizing_personal_webpages | Monetizing Personal Webpages]]
-- [[health_data_integration_platforms | Health Data Integration Platforms]]
-- [[custom_gpt_applications | Custom GPT Applications]]
-- [[innovative_dating_app_concepts | Innovative Dating App Concepts]]
-
-### [ChatGPT 4o replaces your $10,000 Ad Agency (Full Tutorial)](https://www.youtube.com/watch?v=LGbyw2MC33M)
-- [[using_ai_for_ad_creation | Using AI for ad creation]]
-- [[prompting_techniques_for_chatgpt_4o | Prompting techniques for ChatGPT 4o]]
-- [[generating_engaging_visual_content_with_chatgpt | Generating engaging visual content with ChatGPT]]
-- [[creative_strategies_and_experimentation_in_digital_marketing | Creative strategies and experimentation in digital marketing]]
-- [[optimizing_and_personalizing_ad_targeting_with_ai | Optimizing and personalizing ad targeting with AI]]
-
-### [Replit CEO Builds an App with 100% AI in 20 Min: Future of Coding?](https://www.youtube.com/watch?v=NBsr3u0z4Hs)
-- [[replit_as_a_tool_for_entrepreneurs_and_creatives | Replit as a tool for entrepreneurs and creatives]]
-- [[building_applications_using_ai_with_replit | Building applications using AI with Replit]]
-- [[simplifying_the_coding_and_deployment_process | Simplifying the coding and deployment process]]
-- [[limitations_and_potential_of_replit_agent_and_ai_tools | Limitations and potential of Replit Agent and AI tools]]
-- [[success_stories_of_nonengineers_using_replit | Success stories of nonengineers using Replit]]
-
-### [He makes $750 a day 'Vibe Coding' Apps (using Replit, ChatGPT, Upwork)](https://www.youtube.com/watch?v=opi1s_5Dm-c)
-- [[vibe_coding_and_making_money | Vibe Coding and Making Money]]
-- [[ai_and_upwork_selling_services | AI and Upwork Selling Services]]
-- [[building_and_selling_apps_using_replit | Building and Selling Apps using Replit]]
-- [[approach_to_upwork_projects_and_pricing | Approach to Upwork Projects and Pricing]]
-- [[integrating_ai_services_and_apis_in_app_development | Integrating AI Services and APIs in App Development]]
-
-### [I challenged Manus AI to find $1M+ AI Startup Ideas - It Actually Delivered](https://www.youtube.com/watch?v=vBgU5iWt-kQ)
-- [[evaluating_ai_tools_for_startup_ideation | Evaluating AI tools for startup ideation]]
-- [[manis_ai_capabilities_and_use_cases | Manis AI capabilities and use cases]]
-- [[identifying_trends_for_ai_startups | Identifying trends for AI startups]]
-- [[analyzing_reddit_for_business_ideas | Analyzing Reddit for business ideas]]
-- [[developing_aiassisted_business_strategies | Developing AIassisted business strategies]]
-
-### [7 $1M+ AI startup ideas you can launch tomorrow with $0](https://www.youtube.com/watch?v=5MseF3lv69k)
-- [[ai_startup_ideas_using_usergenerated_content_ads | AI startup ideas using usergenerated content ads]]
-- [[building_ai_tools_for_infographic_and_content_generation | Building AI tools for infographic and content generation]]
-- [[ai_advancements_in_journaling_and_data_organization | AI advancements in journaling and data organization]]
-- [[ai_receptionist_services_in_different_industries | AI receptionist services in different industries]]
-- [[monetizing_creator_content_and_optimizing_advertising_strategies | Monetizing creator content and optimizing advertising strategies]]
-
-### [Do this to build a $200,000 side hustle (The Online Directory Blueprint)](https://www.youtube.com/watch?v=hPveUtta0Es)
-- [[starting_an_online_directory | Starting an online directory]]
-- [[using_ai_for_building_directories | Using AI for building directories]]
-- [[seo_strategies_for_directories | SEO strategies for directories]]
-- [[monetizing_online_directories | Monetizing online directories]]
-- [[validating_directory_ideas | Validating directory ideas]]
-
-### [The $1,000/Day boring business anyone can start tomorrow](https://www.youtube.com/watch?v=LWuCIxfWKK8)
-- [[building_wealth_through_boring_businesses | Building wealth through boring businesses]]
-- [[examples_of_successful_sweaty_startups | Examples of successful sweaty startups]]
-- [[real_stories_of_entrepreneurship_and_selfstorage_business | Real stories of entrepreneurship and selfstorage business]]
-- [[marketing_strategies_for_small_businesses | Marketing strategies for small businesses]]
-- [[opportunities_in_niche_service_sectors | Opportunities in niche service sectors]]
+### [Bolt tutorial for beginners with the Bolt CEO Eric Simons](https://www.youtube.com/watch?v=1SfUMQ1yTY8)
+- [[introduction_to_bolt_and_its_market_potential | Introduction to Bolt and its market potential]]
+- [[stepbystep_guidance_on_using_bolt_to_build_web_applications | Stepbystep guidance on using Bolt to build web applications]]
+- [[comparison_between_bolt_and_other_development_tools_like_cursor | Comparison between Bolt and other development tools like Cursor]]
+- [[implementation_of_features_like_directories_and_live_chat_in_bolt | Implementation of features like directories and live chat in Bolt]]
+- [[reallife_examples_of_products_built_using_bolt | Reallife examples of products built using Bolt]]
 
 ### [I ranked every AI Coder: Bolt vs. Cursor vs. Replit vs Lovable](https://www.youtube.com/watch?v=Ojk51mNOUow)
-- [[pros_and_cons_of_different_ai_coding_tools | Pros and cons of different AI coding tools]]
-- [[levels_of_control_and_technical_requirements_of_ai_tools | Levels of control and technical requirements of AI tools]]
-- [[addressing_nontechnical_vs_technical_users_in_ai_coding | Addressing nontechnical vs technical users in AI coding]]
-- [[evaluating_ai_tools_for_productionready_applications | Evaluating AI tools for productionready applications]]
-- [[pricing_and_freetier_exploration_of_ai_coding_platforms | Pricing and freetier exploration of AI coding platforms]]
+- [[ai_coding_tools_comparison | AI coding tools comparison]]
+- [[choosing_the_right_tool_based_on_technical_skill | Choosing the right tool based on technical skill]]
+- [[features_and_control_levels_of_various_ai_coding_platforms | Features and control levels of various AI coding platforms]]
+- [[collaboration_and_deployment_in_ai_coding_tools | Collaboration and deployment in AI coding tools]]
+- [[current_limitations_and_future_potential_of_ai_coding_tools | Current limitations and future potential of AI coding tools]]
 
-### [5 $1M+ startup ideas you can launch tomorrow with $0](https://www.youtube.com/watch?v=D0SVz12Os24)
-- [[startup_ideas_requiring_no_capital | Startup ideas requiring no capital]]
-- [[using_canva_for_business_lead_generation | Using Canva for business lead generation]]
-- [[monetization_strategies_for_content_creators | Monetization strategies for content creators]]
-- [[aidriven_influencer_marketing | AIdriven influencer marketing]]
-- [[opportunity_in_creating_digital_assets_like_email_template_generators | Opportunity in creating digital assets like email template generators]]
+### [ChatGPT Operator Built a $500/Day Business in 30 Minutes (tutorial)](https://www.youtube.com/watch?v=A3AsVAZ7wIs)
+- [[using_ai_agents_to_automate_business_startups | Using AI agents to automate business startups]]
+- [[retail_arbitrage_with_ai_assistance | Retail Arbitrage with AI assistance]]
+- [[automating_research_and_messaging_with_ai | Automating research and messaging with AI]]
+- [[using_ai_for_business_efficiency_and_expansion | Using AI for business efficiency and expansion]]
+- [[future_implications_of_ai_automation_in_business | Future implications of AI automation in business]]
+
+### [I built an AI Agent in 43 min to automate my workflows (Zero Coding)](https://www.youtube.com/watch?v=QFc7jXZ2pdE)
+- [[ai_automation_in_business_workflows | AI automation in business workflows]]
+- [[building_ai_workflows_with_no_coding | Building AI workflows with no coding]]
+- [[features_of_gum_loop_as_an_ai_tool | Features of gum Loop as an AI tool]]
+- [[using_gum_loop_for_content_generation | Using gum Loop for content generation]]
+- [[creating_custom_integrations_with_gum_loop | Creating custom integrations with gum Loop]]
+
+### [Bolt.new Tutorial for Beginners (the Cursor AI and V0 Killer)](https://www.youtube.com/watch?v=lDMhK8DamuE)
+- [[introduction_to_boltnew | Introduction to Boltnew]]
+- [[comparison_between_boltnew_and_cursor_ai | Comparison between Boltnew and Cursor AI]]
+- [[benefits_of_using_boltnew_for_nontechnical_users | Benefits of using Boltnew for nontechnical users]]
+- [[building_a_prototype_with_boltnew | Building a prototype with Boltnew]]
+- [[deployment_challenges_with_boltnew | Deployment challenges with Boltnew]]
+
+### [5 AI Startup Ideas So Good You’ll Quit Your Job in 24hrs](https://www.youtube.com/watch?v=onCWUrw1R9g)
+- [[aidriven_startup_ideas_and_entrepreneurship | AIdriven startup ideas and entrepreneurship]]
+- [[open_pages_as_a_platform_for_personal_tracking_and_social_integration | Open pages as a platform for personal tracking and social integration]]
+- [[health_data_integration_and_personal_ai_health_assistants | Health data integration and personal AI health assistants]]
+- [[custom_gpts_for_personalized_solutions_and_monetization | Custom GPTs for personalized solutions and monetization]]
+- [[innovative_aibased_dating_applications | Innovative AIbased dating applications]]
+
+### [How to build a profitable Faceless YouTube Channel in 72 Hours](https://www.youtube.com/watch?v=tImfZMhBb_k)
+- [[understanding_faceless_youtube_channels | Understanding Faceless YouTube Channels]]
+- [[creating_highimpact_niche_content_using_ai | Creating HighImpact Niche Content Using AI]]
+- [[utilizing_ai_tools_for_script_and_video_production | Utilizing AI Tools for Script and Video Production]]
+- [[monetizing_beyond_ads_with_faceless_channels | Monetizing Beyond Ads with Faceless Channels]]
+- [[the_appeal_and_advantages_of_faceless_content_creation | The Appeal and Advantages of Faceless Content Creation]]
+
+### [Manus AI replaces your AI tech stack? (Full Demo)](https://www.youtube.com/watch?v=HVhXwBYenC8)
+- [[overview_of_manis_ai_capabilities | Overview of Manis AI capabilities]]
+- [[building_businesses_with_manis_ai | Building businesses with Manis AI]]
+- [[limitations_and_issues_of_manis_ai | Limitations and issues of Manis AI]]
+- [[potential_applications_of_ai_in_business_automation | Potential applications of AI in business automation]]
+- [[concerns_and_considerations_using_ai_developed_by_chinese_companies | Concerns and considerations using AI developed by Chinese companies]]
+
+### [He makes $750 a day 'Vibe Coding' Apps (using Replit, ChatGPT, Upwork)](https://www.youtube.com/watch?v=opi1s_5Dm-c)
+- [[monetizing_coding_skills_through_platforms_like_replit_and_upwork | Monetizing coding skills through platforms like Replit and Upwork]]
+- [[vibe_coding_and_its_impact_on_software_development | Vibe coding and its impact on software development]]
+- [[strategies_for_identifying_business_opportunities_on_upwork | Strategies for identifying business opportunities on Upwork]]
+- [[balancing_simple_app_development_with_complex_feature_integration | Balancing simple app development with complex feature integration]]
+- [[career_opportunities_in_freelance_coding_and_consulting | Career opportunities in freelance coding and consulting]]
+
+### [ChatGPT 4o replaces your $10,000 Ad Agency (Full Tutorial)](https://www.youtube.com/watch?v=LGbyw2MC33M)
+- [[creating_ads_with_ai_using_chatgpt_4o | Creating ads with AI using ChatGPT 4o]]
+- [[generating_photorealistic_images_and_memes_for_advertising | Generating photorealistic images and memes for advertising]]
+- [[techniques_for_prompting_ai_language_models | Techniques for prompting AI language models]]
+- [[customizing_advertising_content_based_on_target_audiences | Customizing advertising content based on target audiences]]
+- [[developing_creative_ad_content_for_digital_platforms | Developing creative ad content for digital platforms]]
+
+### [Replit CEO Builds an App with 100% AI in 20 Min: Future of Coding?](https://www.youtube.com/watch?v=NBsr3u0z4Hs)
+- [[replit_aipowered_app_development | Replit AIpowered app development]]
+- [[simplifying_coding_for_nonengineers | Simplifying coding for nonengineers]]
+- [[replit_agent_for_automated_coding | Replit agent for automated coding]]
+- [[deploying_apps_with_replit | Deploying apps with Replit]]
+- [[success_stories_using_replit | Success stories using Replit]]
+
+### [I challenged Manus AI to find $1M+ AI Startup Ideas - It Actually Delivered](https://www.youtube.com/watch?v=vBgU5iWt-kQ)
+- [[using_ai_to_generate_startup_ideas | Using AI to generate startup ideas]]
+- [[evaluating_aidriven_business_ideas | Evaluating AIdriven business ideas]]
+- [[reddit_trends_for_discovering_business_opportunities | Reddit trends for discovering business opportunities]]
+- [[yc_startups_and_ai_niche_opportunities | YC startups and AI niche opportunities]]
+- [[ai_as_a_cofounder_and_business_partner | AI as a cofounder and business partner]]
+
+### [7 $1M+ AI startup ideas you can launch tomorrow with $0](https://www.youtube.com/watch?v=5MseF3lv69k)
+- [[ai_startup_ideas_for_ugc_ads_creation | AI startup ideas for UGC ads creation]]
+- [[benefits_of_ai_generated_infographics | Benefits of AI generated infographics]]
+- [[ai_tools_for_content_creation_and_distribution | AI tools for content creation and distribution]]
+- [[ai_applications_in_journaling_and_content_organization | AI applications in journaling and content organization]]
+- [[ai_receptionists_and_their_impact_on_business_efficiency | AI receptionists and their impact on business efficiency]]
+
+### [Do this to build a $200,000 side hustle (The Online Directory Blueprint)](https://www.youtube.com/watch?v=hPveUtta0Es)
+- [[how_to_start_an_online_directory | How to start an online directory]]
+- [[using_ai_and_seo_for_online_directories | Using AI and SEO for online directories]]
+- [[monetizing_online_directories | Monetizing online directories]]
+- [[promoting_online_directories | Promoting online directories]]
+- [[validating_ideas_for_online_directories | Validating ideas for online directories]]
 
 ### [How I use AI agents to make money (Vibe Marketing Tutorial)](https://www.youtube.com/watch?v=PduJ0P6r_8o)
 - [[introduction_to_vibe_marketing | Introduction to Vibe Marketing]]
-- [[tools_for_vibe_marketing | Tools for Vibe Marketing]]
-- [[ai_agents_in_marketing_automation | AI Agents in Marketing Automation]]
-- [[workflows_in_vibe_marketing | Workflows in Vibe Marketing]]
-- [[future_of_marketing_with_ai | Future of Marketing with AI]]
+- [[role_of_ai_agents_in_marketing_automation | Role of AI agents in marketing automation]]
+- [[comparison_between_traditional_marketing_and_vibe_marketing | Comparison between traditional marketing and Vibe Marketing]]
+- [[tools_and_workflows_for_implementing_vibe_marketing | Tools and workflows for implementing Vibe Marketing]]
+- [[future_of_marketing_with_ai_agents | Future of marketing with AI agents]]
 
 ### [Build $1000/day cash-flowing startup on beehiiv (here's how)](https://www.youtube.com/watch?v=BSrOFsOMUdg)
-- [[emailbased_business_strategies | emailbased business strategies]]
-- [[building_a_newsletter_with_beehive | building a newsletter with Beehive]]
-- [[monetizing_newsletters | monetizing newsletters]]
-- [[growing_newsletter_subscriber_base | growing newsletter subscriber base]]
-- [[using_lead_magnets_for_email_capture | using lead magnets for email capture]]
+- [[building_a_cashflowing_email_business_on_beehiiv | Building a cashflowing email business on Beehiiv]]
+- [[strategies_for_growing_a_newsletter_audience | Strategies for growing a newsletter audience]]
+- [[monetization_methods_for_newsletters | Monetization methods for newsletters]]
+- [[email_marketing_tools_and_features_on_beehiiv | Email marketing tools and features on Beehiiv]]
+- [[the_benefits_of_starting_and_maintaining_a_newsletter | The benefits of starting and maintaining a newsletter]]
+
+### [The $1,000/Day boring business anyone can start tomorrow](https://www.youtube.com/watch?v=LWuCIxfWKK8)
+- [[building_wealth_through_boring_businesses | Building wealth through boring businesses]]
+- [[case_studies_of_successful_normal_businesses | Case studies of successful normal businesses]]
+- [[selfstorage_business_strategies | Selfstorage business strategies]]
+- [[traditional_business_vs_tech_startups | Traditional business vs tech startups]]
+- [[creative_lowcost_marketing_ideas | Creative lowcost marketing ideas]]
+
+### [5 $1M+ startup ideas you can launch tomorrow with $0](https://www.youtube.com/watch?v=D0SVz12Os24)
+- [[startup_ideas_with_zero_investment | Startup ideas with zero investment]]
+- [[monetizing_youtube_content | Monetizing YouTube content]]
+- [[future_of_digital_influencers | Future of digital influencers]]
+- [[opportunities_in_aigenerated_music | Opportunities in AIgenerated music]]
+- [[email_html_generation_tools | Email HTML generation tools]]
 
 ### [How I find $130K/month AI SaaS Opportunities hiding in plain sight](https://www.youtube.com/watch?v=ibzSgp8B2Hw)
 - [[identifying_ai_saas_startup_opportunities | Identifying AI SaaS startup opportunities]]
-- [[framework_for_developing_ai_saas_ideas | Framework for developing AI SaaS ideas]]
-- [[spotting_pain_points_in_enterprise_software | Spotting pain points in enterprise software]]
-- [[adding_intelligence_to_manual_processes_with_ai | Adding intelligence to manual processes with AI]]
-- [[building_a_niche_ai_saas_business | Building a niche AI SaaS business]]
-
-### [How To Create Ai Agents From Scratch (CrewAI, Zapier, Cursor)](https://www.youtube.com/watch?v=PM9zr7wgJX4)
-- [[introduction_to_ai_agents | Introduction to AI Agents]]
-- [[use_of_crewai_for_building_ai_agents | Use of CrewAI for Building AI Agents]]
-- [[deploying_ai_agents_in_production | Deploying AI Agents in Production]]
-- [[creating_automated_marketing_and_sales_processes_with_ai | Creating Automated Marketing and Sales Processes with AI]]
-- [[generating_custom_reports_and_pdfs_using_ai | Generating Custom Reports and PDFs Using AI]]
-
-### [Do THIS to Make $30,000/month](https://www.youtube.com/watch?v=KOMnkflqlWc)
-- [[building_a_youtube_revenue_stream | Building a YouTube revenue stream]]
-- [[starting_a_saas_business_using_ai_tools | Starting a SaaS business using AI tools]]
-- [[founderled_personal_branding_strategies | Founderled personal branding strategies]]
-- [[subscriptionbased_services_and_automation | Subscriptionbased services and automation]]
-- [[targeted_marketing_and_niche_content_creation | Targeted marketing and niche content creation]]
-
-### [3 $1M+ AI startup ideas to build in 2025 (and how to grow them)](https://www.youtube.com/watch?v=BjxS-AQaDkE)
-- [[ai_cofounders_and_virtual_assistants_for_startups | AI cofounders and virtual assistants for startups]]
-- [[aidriven_codebase_optimization_and_refactoring_services | AIdriven codebase optimization and refactoring services]]
-- [[niche_content_aggregation_and_personalized_data_delivery | Niche content aggregation and personalized data delivery]]
-- [[challenges_and_benefits_of_ai_in_startup_operations | Challenges and benefits of AI in startup operations]]
-- [[business_opportunities_in_ai_for_solo_entrepreneurs_and_small_businesses | Business opportunities in AI for solo entrepreneurs and small businesses]]
-
-### [How to build a $1M+ Consumer SaaS App (step-by-step guide)](https://www.youtube.com/watch?v=tj5PzoqxLCQ)
-- [[tik_tok_as_an_app_marketing_tool | Tik Tok as an app marketing tool]]
-- [[viral_consumer_app_growth_strategies | Viral consumer app growth strategies]]
-- [[transitioning_ecommerce_strategies_to_consumer_saas_apps | Transitioning ecommerce strategies to consumer SaaS apps]]
-- [[opportunities_in_app_development_for_specific_niches | Opportunities in app development for specific niches]]
-- [[building_apps_around_cultlike_movements | Building apps around cultlike movements]]
+- [[framework_for_developing_ai_saas_solutions | Framework for developing AI SaaS solutions]]
+- [[improving_manual_processes_with_ai | Improving manual processes with AI]]
+- [[spotting_and_bridging_data_silos | Spotting and bridging data silos]]
+- [[niche_market_strategies_for_ai_saas_startups | Niche market strategies for AI SaaS startups]]
 
 ### [The AI Gold Rush Has Officially Started](https://www.youtube.com/watch?v=OV_mDp1s9mY)
-- [[ai_gold_rush_and_business_opportunities | AI gold rush and business opportunities]]
-- [[chatgpt40_and_its_applications | ChatGPT40 and its applications]]
-- [[rebuilding_tools_like_calendars_and_crms_with_ai | Rebuilding tools like calendars and CRMs with AI]]
-- [[future_of_ai_in_content_creation_and_its_challenges | Future of AI in content creation and its challenges]]
-- [[education_and_entrepreneurship_in_the_age_of_ai | Education and entrepreneurship in the age of AI]]
+- [[ai_gold_rush_and_new_business_opportunities | AI Gold Rush and New Business Opportunities]]
+- [[innovations_in_ai_image_generation_and_design | Innovations in AI Image Generation and Design]]
+- [[future_of_ai_in_customer_support_and_service_industries | Future of AI in Customer Support and Service Industries]]
+- [[impact_of_ai_on_education_and_entrepreneurship | Impact of AI on Education and Entrepreneurship]]
+- [[personalization_and_the_future_of_web_and_mobile_interfaces | Personalization and the Future of Web and Mobile Interfaces]]
 
-### [If I wanted to build $1M+ AI startup in 2025, I'd do this](https://www.youtube.com/watch?v=2g7Ii7s3REM)
-- [[challenges_and_strategies_for_building_sustainable_ai_businesses | Challenges and strategies for building sustainable AI businesses]]
-- [[network_effects_and_data_advantage_in_ai_startups | Network effects and data advantage in AI startups]]
-- [[opportunities_in_aidriven_media_and_niche_businesses | Opportunities in AIdriven media and niche businesses]]
-- [[the_role_of_automation_and_ai_in_modern_entrepreneurship | The role of automation and AI in modern entrepreneurship]]
-- [[ai_in_financial_services_and_lending_opportunities | AI in financial services and lending opportunities]]
+### [3 $1M+ AI startup ideas to build in 2025 (and how to grow them)](https://www.youtube.com/watch?v=BjxS-AQaDkE)
+- [[ai_cofounder_services_for_entrepreneurs | AI cofounder services for entrepreneurs]]
+- [[silent_refactoring_as_a_service_for_software_development | Silent refactoring as a service for software development]]
+- [[personalized_content_aggregation_and_summarization | Personalized content aggregation and summarization]]
+- [[aidriven_improvements_in_codebases | AIdriven improvements in codebases]]
+- [[business_opportunities_in_the_ai_and_automation_space | Business opportunities in the AI and automation space]]
+
+### [How To Create Ai Agents From Scratch (CrewAI, Zapier, Cursor)](https://www.youtube.com/watch?v=PM9zr7wgJX4)
+- [[building_ai_agent_platforms_with_crewai | Building AI agent platforms with CrewAI]]
+- [[using_ai_for_data_enrichment_and_automation | Using AI for data enrichment and automation]]
+- [[deploying_ai_agents_in_production_environments_with_crewai | Deploying AI agents in production environments with CrewAI]]
+- [[creating_customized_reports_and_pdfs_using_ai | Creating customized reports and PDFs using AI]]
+- [[optimizing_ai_agents_for_specific_tasks_and_learning_tools | Optimizing AI agents for specific tasks and learning tools]]
 
 ### [We Vibe Code a $30K/month SaaS App in 64 Minutes (Replit)](https://www.youtube.com/watch?v=vGSYuwNcdcc)
-- [[building_a_saas_app_using_replit | Building a SaaS app using Replit]]
-- [[introduction_to_replit_and_resendcom | Introduction to Replit and Resendcom]]
-- [[marketing_strategies_for_saas_startups | Marketing strategies for SaaS startups]]
-- [[cold_email_campaigns_and_tools | Cold email campaigns and tools]]
-- [[leveraging_social_media_for_b2b_marketing | Leveraging social media for B2B marketing]]
+- [[building_a_saas_app_with_replet_and_resend | Building a SaaS App with Replet and Resend]]
+- [[marketing_strategies_for_saas_startups | Marketing Strategies for SaaS Startups]]
+- [[invoice_management_solutions_for_freelancers | Invoice Management Solutions for Freelancers]]
+- [[using_ai_tools_for_automated_email_campaigns | Using AI Tools for Automated Email Campaigns]]
+- [[launching_and_growing_a_startup_app | Launching and Growing a Startup App]]
+
+### [Do THIS to Make $30,000/month](https://www.youtube.com/watch?v=KOMnkflqlWc)
+- [[youtube_channel_creation_and_monetization | YouTube channel creation and monetization]]
+- [[building_a_saas_business_using_ai_and_automation | Building a SaaS business using AI and automation]]
+- [[linkedin_video_content_strategy | LinkedIn video content strategy]]
+- [[newsletter_growth_strategies_for_founders | Newsletter growth strategies for founders]]
+- [[effective_business_ideas_and_execution_strategies | Effective business ideas and execution strategies]]
+
+### [If I wanted to build $1M+ AI startup in 2025, I'd do this](https://www.youtube.com/watch?v=2g7Ii7s3REM)
+- [[challenges_of_building_a_sustainable_ai_startup | Challenges of building a sustainable AI startup]]
+- [[business_models_in_ai_with_data_or_network_effect_advantages | Business models in AI with data or network effect advantages]]
+- [[opportunities_in_media_and_event_businesses | Opportunities in media and event businesses]]
+- [[automations_and_ai_tools_for_business_efficiency | Automations and AI tools for business efficiency]]
+- [[shortterm_moneymaking_opportunities_with_ai_technology | Shortterm moneymaking opportunities with AI technology]]
 
 ### [Vercel's VP of Product on how to use v0 to build your own ideas (Step-by-Step Guide)](https://www.youtube.com/watch?v=sCFS_U7d9Do)
-- [[introduction_to_vercels_vz | Introduction to Vercels VZ]]
-- [[using_vz_for_web_development_and_ui_design | Using VZ for web development and UI design]]
-- [[vz_as_an_ai_tool_for_web_designers_and_developers | VZ as an AI tool for web designers and developers]]
-- [[tips_for_optimizing_vz_for_ui_and_backend_development | Tips for optimizing VZ for UI and backend development]]
-- [[learning_web_design_basics_to_utilize_tools_like_vz | Learning web design basics to utilize tools like VZ]]
+- [[introduction_to_vercels_vz_for_web_development | Introduction to Vercels VZ for web development]]
+- [[using_ai_tools_for_web_ui_and_backend_development | Using AI tools for web UI and backend development]]
+- [[practical_tips_for_using_vz_to_build_and_design_web_interfaces | Practical tips for using VZ to build and design web interfaces]]
+- [[importance_of_foundational_web_design_knowledge_when_using_ai_tools | Importance of foundational web design knowledge when using AI tools]]
+- [[benefits_and_challenges_of_integrating_ai_in_software_development | Benefits and challenges of integrating AI in software development]]
 
-### [DeepSeek R1 - Everything you need to know](https://www.youtube.com/watch?v=i9kTrcf-gDQ)
-- [[introduction_to_ai_prompting_and_reasoning_models | Introduction to AI prompting and reasoning models]]
-- [[overview_and_features_of_deepseek_r1 | Overview and features of DeepSeek R1]]
-- [[running_ai_models_locally_and_data_privacy_considerations | Running AI models locally and data privacy considerations]]
-- [[comparison_of_ai_model_hosting_options | Comparison of AI model hosting options]]
-- [[future_potential_and_use_cases_for_ai_technology | Future potential and use cases for AI technology]]
-
-### [24 year old making $1m/month from AI shares 3 startup ideas](https://www.youtube.com/watch?v=a9IEI6OhoYY)
-- [[aidriven_startup_ideas_and_entrepreneurship | AIdriven startup ideas and entrepreneurship]]
-- [[building_and_scaling_ai_mobile_apps | Building and scaling AI mobile apps]]
-- [[marketing_and_distribution_strategies_for_ai_apps | Marketing and distribution strategies for AI apps]]
-- [[developing_and_implementing_pay_wall_strategies | Developing and implementing pay wall strategies]]
-- [[technologys_role_in_personal_and_educational_tools | Technologys role in personal and educational tools]]
-
-### [My Voice AI Agent Negotiated 800+ Business Deals in 1 Day (FULL Tutorial)](https://www.youtube.com/watch?v=MAFHmyURRXo)
-- [[voice_ai_in_business_negotiation | Voice AI in business negotiation]]
-- [[building_and_optimizing_voice_ai_agents | Building and optimizing voice AI agents]]
-- [[tools_and_models_for_voice_automation | Tools and models for voice automation]]
-- [[integrating_ai_with_business_operations | Integrating AI with business operations]]
-- [[applications_of_voice_ai_in_sales_and_feedback_collection | Applications of voice AI in sales and feedback collection]]
-
-### [The Golden Age of AI is happening right now (Here's Why)](https://www.youtube.com/watch?v=HTjvpTR3VgQ)
-- [[the_role_of_ai_in_modern_business_operations | The role of AI in modern business operations]]
-- [[utilizing_ai_tools_for_content_creation_and_marketing | Utilizing AI tools for content creation and marketing]]
-- [[aidriven_productivity_and_automation | AIdriven productivity and automation]]
-- [[the_economic_implications_of_ai_integration | The economic implications of AI integration]]
-- [[opportunities_for_ai_consulting_and_agency_services | Opportunities for AI consulting and agency services]]
+### [How to build a $1M+ Consumer SaaS App (step-by-step guide)](https://www.youtube.com/watch?v=tj5PzoqxLCQ)
+- [[tiktok_marketing_strategies_for_consumer_saas_apps | TikTok marketing strategies for consumer SaaS apps]]
+- [[viral_content_creation_for_app_promotion | Viral content creation for app promotion]]
+- [[emerging_trends_in_ecommerce_and_app_integrations | Emerging trends in ecommerce and app integrations]]
+- [[highvalue_consumer_niches_for_app_development | Highvalue consumer niches for app development]]
+- [[influencer_marketing_tactics_on_tiktok | Influencer marketing tactics on TikTok]]
 
 ### [Do this to build a $100k/mo chrome extension using AI (Cursor AI, Claude)](https://www.youtube.com/watch?v=5lNHx6IC8Fc)
-- [[building_profitable_chrome_extensions | Building profitable Chrome extensions]]
-- [[using_ai_for_chrome_extension_development | Using AI for Chrome extension development]]
-- [[idea_generation_for_chrome_extensions | Idea generation for Chrome extensions]]
-- [[github_issue_mining_for_project_ideas | GitHub issue mining for project ideas]]
-- [[monetization_strategies_for_chrome_extensions | Monetization strategies for Chrome extensions]]
+- [[building_a_successful_chrome_extension | Building a successful Chrome extension]]
+- [[using_ai_to_develop_chrome_extensions | Using AI to develop Chrome extensions]]
+- [[market_research_for_chrome_extension_ideas | Market research for Chrome extension ideas]]
+- [[steps_to_publish_a_chrome_extension_on_the_chrome_store | Steps to publish a Chrome extension on the Chrome Store]]
+- [[challenges_in_web_scraping_and_content_protection | Challenges in web scraping and content protection]]
 
-### [Make Money with Vibe Marketing in 40 mins (n8n, MCP, Claude 3.7)](https://www.youtube.com/watch?v=f9Uk56LvBB0)
-- [[introduction_to_vibe_marketing | Introduction to Vibe Marketing]]
-- [[automating_workflows_with_ai_tools_like_mcp_nadn_and_claude | Automating workflows with AI tools like MCP NADN and Claude]]
-- [[creating_and_optimizing_marketing_content_using_ai | Creating and optimizing marketing content using AI]]
-- [[keyword_research_and_organic_growth_strategies | Keyword research and organic growth strategies]]
-- [[building_and_leveraging_marketing_communities | Building and leveraging marketing communities]]
+### [My Voice AI Agent Negotiated 800+ Business Deals in 1 Day (FULL Tutorial)](https://www.youtube.com/watch?v=MAFHmyURRXo)
+- [[voice_ai_in_business_deals | Voice AI in business deals]]
+- [[negotiation_strategies_using_ai | Negotiation strategies using AI]]
+- [[automation_tools_and_techniques | Automation tools and techniques]]
+- [[improving_customer_interactions_with_ai | Improving customer interactions with AI]]
+- [[startup_empire_and_entrepreneurship | Startup Empire and entrepreneurship]]
 
-### [How to make $20,000,000 with a landing page](https://www.youtube.com/watch?v=m58nGC-KGHg)
-- [[understanding_marketing_funnels_vs_websites | Understanding Marketing Funnels vs Websites]]
-- [[conversion_rate_optimization_techniques | Conversion Rate Optimization Techniques]]
-- [[sales_strategy_and_funnel_implementation | Sales Strategy and Funnel Implementation]]
-- [[high_ticket_vs_low_ticket_sales_strategies | High Ticket vs Low Ticket Sales Strategies]]
-- [[direct_response_marketing_techniques | Direct Response Marketing Techniques]]
+### [The Golden Age of AI is happening right now (Here's Why)](https://www.youtube.com/watch?v=HTjvpTR3VgQ)
+- [[impact_of_ai_on_business_productivity | Impact of AI on business productivity]]
+- [[ai_tools_for_small_businesses | AI tools for small businesses]]
+- [[future_of_ai_pricing_and_accessibility | Future of AI pricing and accessibility]]
+- [[ai_workflow_integration_strategies | AI workflow integration strategies]]
+- [[challenges_and_opportunities_in_aidriven_content_creation | Challenges and opportunities in AIdriven content creation]]
 
-### [How agencies are printing $1M/Month using this AI Funnel (84% Profit Margin)](https://www.youtube.com/watch?v=AxQ7dMbEgmw)
-- [[aipowered_funnel_building | AIpowered funnel building]]
-- [[productized_services_using_ai | Productized services using AI]]
-- [[successful_funnel_templates_and_strategies | Successful funnel templates and strategies]]
-- [[using_ai_to_automate_agency_operations | Using AI to automate agency operations]]
-- [[optimizing_conversion_through_funnel_design | Optimizing conversion through funnel design]]
-
-### [I built an AI startup in 65 minutes (using ChatGPT, Leonardo AI, Kling AI, ElevenLabs)](https://www.youtube.com/watch?v=Uc3xMimbhkw)
-- [[using_ai_tools_to_create_disneystyle_content_and_images | Using AI tools to create Disneystyle content and images]]
-- [[tutorial_on_ai_tools_and_startup_ideas | Tutorial on AI tools and startup ideas]]
-- [[building_aidriven_workflows_for_business_ideas | Building AIdriven workflows for business ideas]]
-- [[sequential_prompting_in_ai_workflows | Sequential prompting in AI workflows]]
-- [[marketing_opportunities_and_business_models_using_aigenerated_content | Marketing opportunities and business models using AIgenerated content]]
-
-### [I can’t believe we built an IOS app with AI in under 33 min (V0, Cursor AI, Xcode)](https://www.youtube.com/watch?v=4oNLQUznT8A)
-- [[building_ios_apps_with_ai | Building iOS apps with AI]]
-- [[using_xcode_for_ios_app_development | Using Xcode for iOS app development]]
-- [[drafting_app_concepts_with_minimal_coding_knowledge | Drafting app concepts with minimal coding knowledge]]
-- [[interactive_prototyping_tools_for_app_development | Interactive prototyping tools for app development]]
-- [[engaging_in_fast_feedback_loops_for_app_improvements | Engaging in fast feedback loops for app improvements]]
-
-### [Make ChatGPT 10X smarter with this 3-step process (Steal it)](https://www.youtube.com/watch?v=3sbZOMR03uw)
-- [[enhancing_ai_output_with_multiple_llms | Enhancing AI output with multiple LLMs]]
-- [[using_competitive_techniques_to_improve_ai_responses | Using competitive techniques to improve AI responses]]
-- [[creating_effective_cold_emails_with_ai | Creating effective cold emails with AI]]
-- [[using_feedback_to_refine_aigenerated_content | Using feedback to refine AIgenerated content]]
-- [[strategies_for_maximizing_the_potential_of_ai_tools | Strategies for maximizing the potential of AI tools]]
-
-### [Essential AI Coding Fundamentals I wish I knew sooner (ChatGPT, Cursor AI, v0)](https://www.youtube.com/watch?v=BblTkXR-3eo)
-- [[ai_coding_workflow_and_challenges | AI coding workflow and challenges]]
-- [[writing_clear_and_detailed_specifications_for_ai_projects | Writing clear and detailed specifications for AI projects]]
-- [[efficient_use_of_ai_tools_like_chatgpt_and_cursor_ai | Efficient use of AI tools like ChatGPT and Cursor AI]]
-- [[creating_and_using_reusable_modular_ai_prompts | Creating and using reusable modular AI prompts]]
-- [[practical_examples_of_ai_project_development | Practical examples of AI project development]]
-
-### [Build a high traffic startup using AI, Webflow and Zapier](https://www.youtube.com/watch?v=t96lvP5l3zE)
-- [[using_ai_to_create_highranked_websites | Using AI to create highranked websites]]
-- [[seo_techniques_and_schema_for_traffic | SEO techniques and schema for traffic]]
-- [[building_websites_with_webflow_and_zapier | Building websites with Webflow and Zapier]]
-- [[automation_with_appify_and_data_scraping | Automation with Appify and data scraping]]
-- [[creating_niche_directories_with_ai_content | Creating niche directories with AI content]]
+### [24 year old making $1m/month from AI shares 3 startup ideas](https://www.youtube.com/watch?v=a9IEI6OhoYY)
+- [[aipowered_mobile_apps_and_startups | AIpowered mobile apps and startups]]
+- [[viral_marketing_and_distribution_strategies | Viral marketing and distribution strategies]]
+- [[building_aidriven_applications_with_minimal_investment | Building AIdriven applications with minimal investment]]
+- [[innovative_app_ideas_in_career_journaling_and_language_learning | Innovative app ideas in career journaling and language learning]]
+- [[engaging_with_influencers_for_successful_app_promotion | Engaging with influencers for successful app promotion]]
 
 ### [My honest review of AI Product Designer backed by Y-Combinator (v0 Users Need to See This)](https://www.youtube.com/watch?v=150EzogAp_c)
-- [[comparison_of_ai_product_designers_poly_and_vz | Comparison of AI product designers Poly and VZ]]
-- [[review_and_testing_of_poly_ai_product_designer | Review and testing of Poly AI product designer]]
-- [[the_role_of_ai_in_designing_and_generating_productionready_code | The role of AI in designing and generating productionready code]]
-- [[discussion_on_startup_tools_and_multitool_strategies | Discussion on startup tools and multitool strategies]]
-- [[exploration_of_aidriven_design_and_analytics_tools_for_content_creators | Exploration of AIdriven design and analytics tools for content creators]]
+- [[ai_product_designer_overview | AI Product Designer Overview]]
+- [[poly_vs_v0_ai_designer_comparison | Poly vs V0 AI Designer Comparison]]
+- [[potential_of_ai_in_product_design | Potential of AI in Product Design]]
+- [[challenges_with_ai_design_tools | Challenges with AI Design Tools]]
+- [[startup_idea_using_ai_for_youtube_analytics | Startup Idea Using AI for YouTube Analytics]]
 
-### [A few $30k+/month startup ideas from the most manic/genius founder you've never heard of](https://www.youtube.com/watch?v=kP6ZsZMl81E)
-- [[startup_ideas_and_innovation | Startup ideas and innovation]]
-- [[business_models_and_revenue_generation | Business models and revenue generation]]
-- [[ecommerce_and_subscription_services | Ecommerce and subscription services]]
-- [[utilizing_ai_for_scaling_and_automation | Utilizing AI for scaling and automation]]
-- [[content_marketing_and_community_building | Content marketing and community building]]
+### [Make Money with Vibe Marketing in 40 mins (n8n, MCP, Claude 3.7)](https://www.youtube.com/watch?v=f9Uk56LvBB0)
+- [[vibe_marketing_basics_and_applications | Vibe Marketing basics and applications]]
+- [[using_ai_tools_like_mcp_nadn_and_claude_for_marketing_automation | Using AI tools like MCP NADN and Claude for marketing automation]]
+- [[building_simple_and_effective_marketing_workflows | Building simple and effective marketing workflows]]
+- [[keyword_research_for_vibe_marketing | Keyword research for Vibe Marketing]]
+- [[developing_content_strategies_and_using_ai_for_content_creation | Developing content strategies and using AI for content creation]]
 
-### [Let’s build a social app with AI in 100 min (v0, Cursor AI, Replit, Claude AI)](https://www.youtube.com/watch?v=ehK-QqPstJ4)
-- [[building_a_social_app_with_ai | Building a social app with AI]]
-- [[leveraging_ai_for_startup_idea_generation | Leveraging AI for startup idea generation]]
-- [[using_ai_for_creating_steps_in_startup_projects | Using AI for creating steps in startup projects]]
-- [[aidriven_app_development_using_nocode_tools | AIdriven app development using nocode tools]]
+### [How to make $20,000,000 with a landing page](https://www.youtube.com/watch?v=m58nGC-KGHg)
+- [[understanding_and_creating_sales_funnels | Understanding and Creating Sales Funnels]]
+- [[difference_between_websites_and_funnels | Difference between Websites and Funnels]]
+- [[increasing_conversion_rates_with_funnels | Increasing Conversion Rates with Funnels]]
+- [[utilizing_funnels_for_highticket_sales | Utilizing Funnels for HighTicket Sales]]
+- [[case_studies_of_successful_funnels | Case Studies of Successful Funnels]]
 
-### [How he built iOS apps that PRINT with Cursor + Claude](https://www.youtube.com/watch?v=9YPebrSjskU)
-- [[using_cursor_for_native_ios_app_development | Using Cursor for native iOS app development]]
-- [[ai_integration_in_mobile_apps | AI integration in mobile apps]]
-- [[function_and_tool_calling_in_ai_apps | Function and tool calling in AI apps]]
-- [[generating_highquality_app_assets_with_ai | Generating highquality app assets with AI]]
-- [[security_concerns_and_best_practices_in_app_development | Security concerns and best practices in app development]]
+### [Build a high traffic startup using AI, Webflow and Zapier](https://www.youtube.com/watch?v=t96lvP5l3zE)
+- [[using_ai_for_seo_optimization | Using AI for SEO optimization]]
+- [[building_websites_with_webflow | Building websites with Webflow]]
+- [[automating_processes_with_zapier | Automating processes with Zapier]]
+- [[generating_recipes_and_directories_using_ai | Generating recipes and directories using AI]]
+- [[traffic_growth_strategies_for_startups | Traffic growth strategies for startups]]
 
-### [How to build SaaS App in a weekend using AI (Steal This)](https://www.youtube.com/watch?v=Sx6k6uctfXE)
-- [[using_ai_to_build_saas_apps | Using AI to build SaaS apps]]
-- [[finding_a_niche_and_audience_for_saas | Finding a niche and audience for SaaS]]
-- [[competitive_analysis_in_saas | Competitive analysis in SaaS]]
-- [[developing_user_interfaces_with_ai_tools | Developing user interfaces with AI tools]]
-- [[launching_and_scaling_saas_products | Launching and scaling SaaS products]]
+### [How this viral AI App is making $190,000/month](https://www.youtube.com/watch?v=6ncjrhDcNTs)
+- [[ai_apps_generating_significant_monthly_revenue | AI apps generating significant monthly revenue]]
+- [[the_sustainability_and_risks_of_aibased_businesses | The sustainability and risks of AIbased businesses]]
+- [[trends_and_antitrends_in_startup_ideas | Trends and antitrends in startup ideas]]
 
-### [He Built a Startup using AI That Prints Money (Full Tutorial)](https://www.youtube.com/watch?v=7z-TD1KY08U)
-- [[digital_gravity_and_modern_marketing_strategies | Digital Gravity and modern marketing strategies]]
-- [[building_a_media_arm_for_startups | Building a media arm for startups]]
-- [[aidriven_content_creation_for_brand_growth | AIdriven content creation for brand growth]]
-- [[email_marketing_and_outreach_strategies | Email marketing and outreach strategies]]
-- [[leveraging_social_media_and_influencers_for_brand_promotion | Leveraging social media and influencers for brand promotion]]
+### [His 250M+ App Download Blueprint (Full Strategy)](https://www.youtube.com/watch?v=hyosynoNbSU)
+- [[using_ai_in_mobile_apps | Using AI in Mobile Apps]]
+- [[leveraging_social_media_for_app_growth | Leveraging Social Media for App Growth]]
 
-### [These 7 AI startup ideas will print $100k/Month (with proof)](https://www.youtube.com/watch?v=XXIC5f_W1Es)
-- [[ai_startup_ideas | AI startup ideas]]
-- [[trend_analysis_using_ai | Trend analysis using AI]]
-- [[ai_tools_for_photographers | AI tools for photographers]]
-- [[ai_applications_in_ecommerce | AI applications in eCommerce]]
-- [[building_niche_ai_apps | Building niche AI apps]]
+### [3 startup ideas using data/trends to get you paid (steal these $300k/month ideas)](https://www.youtube.com/watch?v=XKPQ6XlZtUk)
+- [[competitive_analysis_tools_for_startups | competitive analysis tools for startups]]
+- [[using_data_to_inform_book_publishing_and_ip_development | using data to inform book publishing and IP development]]
 
-### [How to Validate Your Startup Idea for $50 (Same Method That Built a $100M Brand)](https://www.youtube.com/watch?v=-nvJIfQnidw)
-- [[how_to_validate_a_startup_idea | How to validate a startup idea]]
-- [[using_google_trends_for_market_research | Using Google Trends for market research]]
-- [[building_landing_pages_with_minimal_budget | Building landing pages with minimal budget]]
-- [[leveraging_ai_in_startup_development | Leveraging AI in startup development]]
-- [[role_of_community_engagement_in_launching_products | Role of community engagement in launching products]]
+### [The framework for building AI startups from a product design genius](https://www.youtube.com/watch?v=c_6_6aLjlrk)
+- [[pricing_and_monetization_strategies_for_ai_businesses | Pricing and monetization strategies for AI businesses]]
+- [[successful_ai_applications_and_startups | Successful AI applications and startups]]
+- [[differences_between_consumer_and_b2b_ai_startups | Differences between consumer and B2B AI startups]]
+- [[user_acquisition_and_marketing_strategies_for_ai_products | User acquisition and marketing strategies for AI products]]
 
-### [I Built an AI Content Agent With N8N and Claude (Step-by-Step)](https://www.youtube.com/watch?v=m9iaJNJE2-M)
-- [[automating_content_creation_with_ai | Automating content creation with AI]]
-- [[using_n8n_and_claude_for_linkedin_content | Using N8N and Claude for LinkedIn content]]
-- [[aidriven_content_marketing_strategies | AIdriven content marketing strategies]]
-- [[endtoend_automation_in_social_media_marketing | Endtoend automation in social media marketing]]
-- [[utilizing_web_scraping_for_content_ideas | Utilizing web scraping for content ideas]]
+### [4 microSaaS ideas you can build to make $100k/month](https://www.youtube.com/watch?v=94lvilsigiE)
+- [[microsaas_business_ideas | microSaaS business ideas]]
+- [[franchise_model_for_parental_controls | Franchise model for parental controls]]
+- [[business_in_a_box_concept | Business in a box concept]]
+- [[capturing_insights_from_podcasts | Capturing insights from podcasts]]
+- [[converting_longform_content_into_memes | Converting longform content into memes]]
 
-### [Making $2,800/day with AI Design Agents (Runway + Midjourney)](https://www.youtube.com/watch?v=Ysq7-eZuyUk)
-- [[using_ai_tools_for_graphic_design | Using AI tools for graphic design]]
-- [[the_integration_of_midjourney_and_chatgpt_in_design | The integration of Midjourney and ChatGPT in design]]
-- [[creating_art_and_branding_with_ai | Creating art and branding with AI]]
-- [[opportunities_in_ai_for_startups_and_creatives | Opportunities in AI for startups and creatives]]
-- [[video_generation_and_editing_using_ai | Video generation and editing using AI]]
+### [The ULTIMATE guide to Midjourney (AI Design Tutorial)](https://www.youtube.com/watch?v=h5nxat56wKI)
+- [[using_midjourney_for_visual_inspiration_and_design | Using MidJourney for visual inspiration and design]]
+- [[the_process_of_blending_aesthetics_and_styles_in_midjourney | The process of blending aesthetics and styles in MidJourney]]
+- [[leveraging_personalization_and_parameters_in_ai_design | Leveraging personalization and parameters in AI design]]
+- [[creating_and_manipulating_aigenerated_art | Creating and manipulating AIgenerated art]]
 
-### [My $0 to $10 Million step-by-step guide (watch this)](https://www.youtube.com/watch?v=Pp-Cj5uWx4Y)
-- [[steps_to_achieve_10_million_in_liquid_net_worth | Steps to achieve 10 million in liquid net worth]]
-- [[choosing_and_validating_a_niche_for_success | Choosing and validating a niche for success]]
-- [[importance_of_generating_impressions_and_leads | Importance of generating impressions and leads]]
-- [[converting_leads_into_paying_customers | Converting leads into paying customers]]
-- [[scaling_and_exiting_a_business_for_multimillion_dollar_gains | Scaling and exiting a business for multimillion dollar gains]]
+### [I Discovered The Perfect AI Writing System (Life-Changing)](https://www.youtube.com/watch?v=om-etwwp3Wg)
+- [[ai_in_writing_and_content_creation | AI in writing and content creation]]
+- [[frameworks_for_using_ai_in_writing | Frameworks for using AI in writing]]
+- [[importance_of_digital_education_and_frameworks | Importance of digital education and frameworks]]
 
-### [I can't believe he gave away these GENIUS 7 profitable startup ideas (watch this)](https://www.youtube.com/watch?v=uc0y94vNqlo)
-- [[profitable_startup_ideas | Profitable Startup Ideas]]
-- [[google_ads_strategy | Google Ads Strategy]]
-- [[service_business_models | Service Business Models]]
-- [[influencer_marketing_strategies | Influencer Marketing Strategies]]
-- [[successful_agency_frameworks | Successful Agency Frameworks]]
+### [VIBE CODING A COOL VIDEO GAME (Grok 3 + Claude 3.7)](https://www.youtube.com/watch?v=51Vb2_brjiA)
+- [[creating_video_games_with_ai | Creating video games with AI]]
+- [[integrating_ai_and_superbase_for_viral_games | Integrating AI and Superbase for viral games]]
+- [[using_games_for_marketing_and_growth_hacking | Using games for marketing and growth hacking]]
+- [[building_and_launching_video_games_with_p5js | Building and launching video games with P5js]]
+- [[using_claude_and_grok_ai_models_in_game_development | Using Claude and Grok AI models in game development]]
 
-### [I can't believe he gave away these GENIUS 3 AI startup ideas (watch this)](https://www.youtube.com/watch?v=yVqjPqPx3e8)
-- [[ai_agents_in_customer_service | AI agents in customer service]]
-- [[pay_for_performance_agency_model | Pay for performance agency model]]
-- [[applications_of_smart_contracts | Applications of smart contracts]]
-- [[gamification_of_everyday_activities | Gamification of everyday activities]]
-- [[ai_transformation_agencies | AI transformation agencies]]
+### [pov: brainstorming $1M+ startup ideas with Daniel Dalen](https://www.youtube.com/watch?v=EN9c2XariVM)
+- [[brainstorming_startup_ideas | Brainstorming startup ideas]]
+- [[building_businesses_with_high_margins | Building businesses with high margins]]
+- [[embeddable_businesses_and_digital_real_estate | Embeddable businesses and digital real estate]]
+- [[aesthetic_software_and_its_impact | Aesthetic software and its impact]]
+- [[opportunities_in_the_shopify_app_ecosystem | Opportunities in the Shopify app ecosystem]]
+
+### [3 Proven startup trends that will make $124,000/Month (From Idea to Launch)](https://www.youtube.com/watch?v=dkFFMifcthI)
+- [[ai_landing_page_builders | AI landing page builders]]
+- [[viral_tiktok_format_strategies | Viral TikTok format strategies]]
+- [[niche_website_business_models | Niche website business models]]
+
+### [How to get your first customers (even with ZERO audience)](https://www.youtube.com/watch?v=HzUMAl9PgBk)
+- [[the_dream_100_method_for_acquiring_customers | The Dream 100 method for acquiring customers]]
+- [[reaching_out_to_communities_for_customer_acquisition | Reaching out to communities for customer acquisition]]
+- [[creating_highquality_content_without_a_large_social_media_following | Creating highquality content without a large social media following]]
+- [[building_business_relationships_through_personalized_outreach | Building business relationships through personalized outreach]]
+- [[utilizing_existing_platforms_and_groups_for_lead_generation | Utilizing existing platforms and groups for lead generation]]
+
+### [Ex-Google Guy's Framework for Building a $1M AI GPT Wrapper Startup (Design Sprint)](https://www.youtube.com/watch?v=5YTzBbfipD0)
+- [[ai_gpt_wrapper_startup_concepts | AI GPT wrapper startup concepts]]
+- [[design_sprint_methodology | Design Sprint methodology]]
+- [[addressing_digital_addiction | Addressing digital addiction]]
+- [[building_a_successful_product_framework | Building a successful product framework]]
+- [[differentiation_in_startup_markets | Differentiation in startup markets]]
+
+### [3 AI app ideas that are goldmines (and how to grow them)](https://www.youtube.com/watch?v=7gUG10e_rPw)
+- [[ai_app_startups_and_ideas | AI app startups and ideas]]
+- [[voicedriven_ai_applications | Voicedriven AI applications]]
+- [[innovative_ai_media_formats | Innovative AI media formats]]
+- [[datadriven_startup_opportunities | Datadriven startup opportunities]]
+- [[aidriven_luxury_and_personalized_products | AIdriven luxury and personalized products]]
+
+### [How to become a solopreneur (3 $1M+ startup ideas)](https://www.youtube.com/watch?v=r60uwkkbRpc)
+- [[starting_a_solopreneur_journey | Starting a solopreneur journey]]
+- [[subscription_models_and_pricing_strategies | Subscription models and pricing strategies]]
+- [[gamification_in_personal_and_business_productivity | Gamification in personal and business productivity]]
+- [[monetizing_knowledge_and_creating_digital_products | Monetizing knowledge and creating digital products]]
+- [[legal_considerations_for_entrepreneurs_in_different_countries | Legal considerations for entrepreneurs in different countries]]
 
 ### [Fire your team and hire AI employees?](https://www.youtube.com/watch?v=RHXb92PAIa0)
-- [[benefits_of_ai_in_business_efficiency | Benefits of AI in business efficiency]]
-- [[innovations_in_aidriven_business_models | Innovations in AIdriven business models]]
+- [[creating_ai_employees_for_startups | Creating AI employees for startups]]
+- [[ai_versus_human_efficiency_in_business | AI versus human efficiency in business]]
+- [[utilizing_ai_for_automation_and_scalability | Utilizing AI for automation and scalability]]
+- [[building_ai_agents_with_longterm_tasks | Building AI agents with longterm tasks]]
+- [[implementing_ai_assistants_in_different_business_functions | Implementing AI assistants in different business functions]]
 
-### [ChatGPT Codex is like 10 AI software developers (tutorial for beginners)](https://www.youtube.com/watch?v=B0IvHPnwPx0)
-- [[codeex_introduction_for_non_technical_users | Codeex introduction for non technical users]]
-- [[using_codeex_to_automate_coding_tasks | Using Codeex to automate coding tasks]]
-- [[integrating_github_with_codeex | Integrating GitHub with Codeex]]
-- [[testing_and_deploying_a_website_using_codeex | Testing and deploying a website using Codeex]]
+### [10 (Profitable) Newsletter Business Ideas To Start In 2025](https://www.youtube.com/watch?v=gVGqg_kTsxo)
+- [[profitable_newsletter_business_ideas_for_2025 | Profitable newsletter business ideas for 2025]]
+- [[creating_niche_newsletters_for_professionals | Creating niche newsletters for professionals]]
+- [[monetization_strategies_for_newsletters | Monetization strategies for newsletters]]
+- [[building_and_scaling_local_newsletters | Building and scaling local newsletters]]
+- [[innovative_content_formats_for_newsletters | Innovative content formats for newsletters]]
 
 ### [How I use Pinterest and Google to find $1M+ startup ideas](https://www.youtube.com/watch?v=gWDCGmY8Svc)
-- [[antitrends_in_startup_ideas | antitrends in startup ideas]]
-- [[using_pinterest_for_identifying_trends_and_antitrends | using Pinterest for identifying trends and antitrends]]
-- [[using_google_trends_for_startup_ideation | using Google Trends for startup ideation]]
-- [[tools_for_analyzing_market_trends | tools for analyzing market trends]]
-- [[opportunities_in_slow_living_as_an_antitrend | opportunities in slow living as an antitrend]]
+- [[understanding_antitrends | Understanding AntiTrends]]
+- [[identifying_startup_ideas_from_antitrends | Identifying Startup Ideas from AntiTrends]]
+- [[using_pinterest_for_trend_analysis | Using Pinterest for Trend Analysis]]
+- [[leveraging_google_trends_and_glimpse_for_opportunities | Leveraging Google Trends and Glimpse for Opportunities]]
+- [[building_sustainable_businesses_with_minimal_competition | Building Sustainable Businesses with Minimal Competition]]
 
-### [Inside the Brain of a 17-Year-Old $1M/Month AI Founder](https://www.youtube.com/watch?v=ZNIoIX0O-20)
-- [[ai_startup_business_model | AI Startup Business Model]]
+### [REVEALED: The Exact Strategy I Used to Build a $10M AI Startup](https://www.youtube.com/watch?v=SJFs-fZ3HjI)
+- [[growth_marketing_strategies_for_ai_startups | Growth marketing strategies for AI startups]]
+- [[building_and_scaling_an_ai_startup_from_zero_to_10m | Building and scaling an AI startup from zero to 10M]]
+- [[influencer_marketing_and_content_creation_tactics | Influencer marketing and content creation tactics]]
+- [[importance_and_execution_of_seo_for_startups | Importance and execution of SEO for startups]]
+- [[paid_advertising_strategies_and_common_pitfalls | Paid advertising strategies and common pitfalls]]
+
+### [I can't believe he gave away these GENIUS 3 AI startup ideas (watch this)](https://www.youtube.com/watch?v=yVqjPqPx3e8)
+- [[ai_agents_and_their_applications | AI Agents and their applications]]
+- [[pay_for_performance_business_models | Pay for Performance Business Models]]
+- [[smart_contract_integration_in_business | Smart Contract Integration in Business]]
+- [[starting_ai_and_programmatic_seo_agencies | Starting AI and Programmatic SEO agencies]]
+- [[using_gamification_and_microincentives_in_everyday_tasks | Using Gamification and Microincentives in everyday tasks]]
+
+### [ChatGPT Codex is like 10 AI software developers (tutorial for beginners)](https://www.youtube.com/watch?v=B0IvHPnwPx0)
+- [[introduction_to_openais_codeex_and_its_use_for_nontechnical_users | Introduction to OpenAIs Codeex and its use for nontechnical users]]
+- [[setting_up_and_using_github_with_codeex | Setting up and using GitHub with Codeex]]
+- [[practical_applications_and_stepbystep_guide_of_codeex_for_website_modifications | Practical applications and stepbystep guide of Codeex for website modifications]]
+- [[challenges_and_limitations_faced_by_nontechnical_users_in_coding_environments | Challenges and limitations faced by nontechnical users in coding environments]]
+- [[considerations_for_learning_to_code_using_aidriven_tools_like_codeex | Considerations for learning to code using AIdriven tools like Codeex]]
 
 ### [5 $1M+ AI startup ideas from an indie hacker legend](https://www.youtube.com/watch?v=pNZWXnt2Qgk)
-- [[ai_startup_ideas_and_opportunities | AI startup ideas and opportunities]]
-- [[seo_strategies_and_ai_integration | SEO strategies and AI integration]]
-- [[market_potential_of_aigenerated_content | Market potential of AIgenerated content]]
-- [[using_ai_for_professional_services_automation | Using AI for professional services automation]]
-- [[productizing_ai_for_niche_markets | Productizing AI for niche markets]]
+- [[ai_in_seo_and_content_generation | AI in SEO and content generation]]
+- [[comfy_ui_marketplace_and_its_potential | Comfy UI Marketplace and its potential]]
+- [[evolution_of_freelance_platforms_with_ai | Evolution of freelance platforms with AI]]
+- [[automating_professional_services_with_ai | Automating professional services with AI]]
+- [[aidriven_marketing_agencies | AIdriven marketing agencies]]
 
-### [How to build a $400k/mo AI App using ASO, Organic Growth, and Paid Ads](https://www.youtube.com/watch?v=Lp3KaX9YHNE)
-- [[building_successful_ai_apps | Building Successful AI Apps]]
-- [[app_store_optimization_strategies | App Store Optimization Strategies]]
-- [[organic_growth_for_ai_apps | Organic Growth for AI Apps]]
-- [[paid_advertising_techniques_in_apps | Paid Advertising Techniques in Apps]]
-- [[integrating_ai_in_existing_app_ideas | Integrating AI in Existing App Ideas]]
+### [Inside the Brain of a 17-Year-Old $1M/Month AI Founder](https://www.youtube.com/watch?v=ZNIoIX0O-20)
+- [[ai_startup_launched_by_a_teenager | AI startup launched by a teenager]]
+- [[developing_health_diagnosis_apps_using_ai | Developing health diagnosis apps using AI]]
+- [[user_experience_and_design_strategies_for_app_development | User experience and design strategies for app development]]
+- [[influencer_marketing_strategies_for_app_promotion | Influencer marketing strategies for app promotion]]
+- [[pricing_models_and_revenue_strategies_for_ai_apps | Pricing models and revenue strategies for AI apps]]
 
 ### [Startup ideas brainstorm (steal this $130k/month idea)](https://www.youtube.com/watch?v=7t65zc-2OWc)
-- [[shopifylike_platforms_for_different_niches | Shopifylike platforms for different niches]]
+- [[unbundling_shopify_for_niche_markets | Unbundling Shopify for niche markets]]
+- [[developing_tools_for_nocode_marketplaces | Developing tools for nocode marketplaces]]
 - [[developer_portfolio_websites | Developer portfolio websites]]
-- [[startups_for_creating_product_doc_formats | Startups for creating product doc formats]]
-- [[virtual_social_experiences_and_apps | Virtual social experiences and apps]]
-- [[nocode_platform_marketplaces | Nocode platform marketplaces]]
+- [[innovative_social_coding_platforms | Innovative social coding platforms]]
+- [[live_interactive_experiences_for_dating | Live interactive experiences for dating]]
 
 ### [How to build a $1M+ vertical SaaS business (step-by-step guide)](https://www.youtube.com/watch?v=IC4MOvYZasU)
-- [[building_a_vertical_saas_business | Building a vertical SaaS business]]
-- [[identifying_market_opportunities_for_vertical_saas | Identifying market opportunities for vertical SaaS]]
-- [[developing_a_wedge_product_to_enter_the_market | Developing a wedge product to enter the market]]
-- [[leveraging_ai_and_software_solutions_in_vertical_saas | Leveraging AI and software solutions in vertical SaaS]]
-- [[pricing_strategies_for_vertical_saas_products | Pricing strategies for vertical SaaS products]]
-
-### [How I use Google Veo3 to create viral videos (3M views in 48 hrs)](https://www.youtube.com/watch?v=gWkhUd-LWTs)
-- [[creating_viral_videos_using_google_veo3 | Creating viral videos using Google Veo3]]
-- [[generating_aidriven_content_for_ads_and_commercials | Generating AIdriven content for ads and commercials]]
-- [[monetizing_generative_ai_content | Monetizing generative AI content]]
-- [[developing_unique_and_entertaining_content_with_ai_insights | Developing unique and entertaining content with AI insights]]
-- [[strategies_for_building_a_brand_and_audience_with_ai_tools | Strategies for building a brand and audience with AI tools]]
-
-### [ChatGPT Pro ($200/month ) vs Perplexity AI (Free): Building a $5M Startup from Scratch](https://www.youtube.com/watch?v=QVNjP6siwEU)
-- [[comparison_of_chatgpt_pro_and_perplexity_ai | Comparison of ChatGPT Pro and Perplexity AI]]
-- [[building_a_startup_using_ai_tools | Building a startup using AI tools]]
-- [[aidriven_business_ideas_and_growth_strategies | AIdriven business ideas and growth strategies]]
-- [[deep_research_functionality_in_ai_platforms | Deep research functionality in AI platforms]]
-- [[developing_a_minimally_viable_product_with_ai_assistance | Developing a minimally viable product with AI assistance]]
-
-### [I Learned YouTube Growth From The Best (Full Tutorial)](https://www.youtube.com/watch?v=SYbQqMeq48o)
-- [[youtube_strategy_and_growth | YouTube strategy and growth]]
-- [[importance_of_packaging_and_thumbnails | Importance of packaging and thumbnails]]
-- [[balancing_evergreen_and_newsjacking_content | Balancing evergreen and newsjacking content]]
-- [[monetizing_and_measuring_roi_on_youtube | Monetizing and measuring ROI on YouTube]]
-- [[developing_a_youtube_content_plan | Developing a YouTube content plan]]
-
-### [How to build a million dollar sales funnel using Facebook Ads](https://www.youtube.com/watch?v=psiIhdXHdH0)
-- [[building_a_sales_funnel_using_facebook_ads | Building a sales funnel using Facebook ads]]
-- [[challenges_and_opportunities_in_the_paid_ads_market | Challenges and opportunities in the paid ads market]]
-- [[switching_business_communication_tools_from_slack_to_basecamp | Switching business communication tools from Slack to Basecamp]]
-- [[the_importance_of_landing_page_conversion_and_funnel_optimization | The importance of landing page conversion and funnel optimization]]
-- [[copywriting_techniques_for_effective_marketing | Copywriting techniques for effective marketing]]
-
-### [Create an AI Voice Character app only using AI in less than 40 min (Cursor, Next.js, Daily Bots)](https://www.youtube.com/watch?v=2ukMoQRsL6w)
-- [[using_ai_to_create_voice_character_apps | Using AI to create voice character apps]]
-- [[creating_a_character_app_using_nextjs_and_daily_bots | Creating a character app using Nextjs and Daily Bots]]
-- [[introduction_to_ai_tools_like_cursor_and_daily_for_app_development | Introduction to AI tools like Cursor and Daily for app development]]
-- [[deploying_voice_apps_with_vercel | Deploying voice apps with Vercel]]
-- [[building_apps_with_ai_for_scalability_and_innovation | Building apps with AI for scalability and innovation]]
-
-### [Build the next POPPI ($1.95B exit to Pepsi)](https://www.youtube.com/watch?v=ocd5InqGP7U)
-- [[building_a_successful_cpg_consumer_packaged_goods_business | Building a successful CPG Consumer Packaged Goods business]]
-- [[using_seo_and_data_tools_like_ahrefs_and_particle_for_market_research | Using SEO and data tools like Ahrefs and Particle for market research]]
-- [[creating_products_with_strong_brand_design_and_unique_positioning | Creating products with strong brand design and unique positioning]]
-- [[trends_in_consumer_product_marketing_and_distribution | Trends in consumer product marketing and distribution]]
-- [[leveraging_ai_tools_for_product_design_and_market_analysis | Leveraging AI tools for product design and market analysis]]
+- [[vertical_saas_business_model_and_its_opportunities | Vertical SaaS business model and its opportunities]]
+- [[importance_of_market_size_and_industry_segmentation_for_saas | Importance of market size and industry segmentation for SaaS]]
+- [[gotomarket_strategies_for_vertical_saas | Gotomarket strategies for vertical SaaS]]
+- [[developing_wedge_products_for_easier_market_entry | Developing wedge products for easier market entry]]
+- [[incorporating_payments_and_pricing_strategies_in_vertical_saas | Incorporating payments and pricing strategies in vertical SaaS]]
 
 ### [3 startup ideas from the co-founder of Loom (make $120k/mo)](https://www.youtube.com/watch?v=zJ7uKszetNE)
-- [[travel_startup_ideas | Travel startup ideas]]
-- [[millennial_and_gen_z_travel_preferences | Millennial and Gen Z travel preferences]]
-- [[the_concept_of_tiktok_for_travel_recommendations | The concept of TikTok for travel recommendations]]
-- [[creating_personalized_travel_guides_using_social_media_insights | Creating personalized travel guides using social media insights]]
-- [[reinventing_social_networks_with_a_focus_on_privacy_and_nostalgia | Reinventing social networks with a focus on privacy and nostalgia]]
+- [[startup_idea__antirip_advisor_travel_app | Startup idea  Antirip advisor travel app]]
+- [[micro_social_network_concept_for_friend_tracking | Micro social network concept for friend tracking]]
+- [[time_capsules_for_shared_memories | Time capsules for shared memories]]
+- [[reinventing_path_and_nostalgiadriven_social_networking | Reinventing path and nostalgiadriven social networking]]
+- [[utilizing_tiktok_and_instagram_for_modern_travel_planning | Utilizing TikTok and Instagram for modern travel planning]]
+
+### [Create an AI Voice Character app only using AI in less than 40 min (Cursor, Next.js, Daily Bots)](https://www.youtube.com/watch?v=2ukMoQRsL6w)
+- [[creating_ai_voice_character_apps_with_daily_bots | Creating AI voice character apps with Daily Bots]]
+- [[using_ai_tools_like_daily_and_pipcats_for_voice_apps | Using AI tools like Daily and Pipcats for voice apps]]
+- [[implementing_and_deploying_ai_voice_applications_with_nextjs | Implementing and deploying AI voice applications with Nextjs]]
+- [[emerging_trend_of_ai_character_apps_in_tech_industry | Emerging trend of AI character apps in tech industry]]
+- [[building_and_configuring_aidriven_character_interactions | Building and configuring AIdriven character interactions]]
+
+### [How I use Google Veo3 to create viral videos (3M views in 48 hrs)](https://www.youtube.com/watch?v=gWkhUd-LWTs)
+- [[using_ai_to_create_viral_content | Using AI to create viral content]]
+- [[making_money_with_google_v3_and_ai | Making money with Google V3 and AI]]
+- [[creating_aigenerated_commercials | Creating AIgenerated commercials]]
+- [[tips_for_going_viral_on_social_media | Tips for going viral on social media]]
+- [[building_a_business_around_aigenerated_content | Building a business around AIgenerated content]]
+
+### [Figma UI Design Tutorial: Design your app in 40 Minutes!](https://www.youtube.com/watch?v=XoOx5xPdv4M)
+- [[figma_ui_design_best_practices | Figma UI design best practices]]
+- [[prototyping_and_interactivity_with_figma | Prototyping and interactivity with Figma]]
+- [[utilizing_components_and_auto_layout_in_figma | Utilizing components and auto layout in Figma]]
+- [[inspiration_and_iteration_in_design | Inspiration and iteration in design]]
+- [[figma_plugins_and_their_uses | Figma plugins and their uses]]
 
 ### [8 startup ideas backed by data/trends to get you paid (steal these $1M+/year ideas)](https://www.youtube.com/watch?v=lOzDz8maa7s)
-- [[bluecollar_startups_and_growth_strategies | Bluecollar startups and growth strategies]]
-- [[optimizing_google_my_business_profile_for_local_services | Optimizing Google My Business profile for local services]]
-- [[direct_marketing_strategies_for_small_businesses | Direct marketing strategies for small businesses]]
-- [[building_a_digital_agency_from_a_service_business | Building a digital agency from a service business]]
-- [[investment_opportunities_in_renewable_energy_projects | Investment opportunities in renewable energy projects]]
+- [[blue_collar_startups_and_service_businesses | Blue collar startups and service businesses]]
+- [[google_my_business_optimization_for_local_services | Google My Business optimization for local services]]
+- [[marketing_strategies_for_small_businesses | Marketing strategies for small businesses]]
+- [[the_role_of_ai_in_marketing_and_seo | The role of AI in marketing and SEO]]
+- [[investment_opportunities_in_renewable_energy_like_wind_and_solar_power | Investment opportunities in renewable energy like wind and solar power]]
 
 ### [6 startup ideas from the Tech Warren Buffett (make $120k/mo)](https://www.youtube.com/watch?v=pyYk5WPcPm4)
-- [[startup_ideas_involving_automation_and_technology | Startup ideas involving automation and technology]]
-- [[entrepreneurship_strategies_for_profitability | Entrepreneurship strategies for profitability]]
-- [[innovations_in_health_monitoring_technologies | Innovations in health monitoring technologies]]
-- [[creative_business_opportunities_with_affiliate_marketing | Creative business opportunities with affiliate marketing]]
-- [[building_supportive_communities_for_entrepreneurs | Building supportive communities for entrepreneurs]]
+- [[startup_ideas_from_andrew_wilkinson | Startup ideas from Andrew Wilkinson]]
+- [[robot_lawn_mowers_and_landscaping_innovations | Robot lawn mowers and landscaping innovations]]
+- [[sleep_apnea_diagnosis_with_wearable_technology | Sleep apnea diagnosis with wearable technology]]
+- [[affiliate_marketing_strategies | Affiliate marketing strategies]]
+- [[entrepreneurial_forums_and_networking_benefits | Entrepreneurial forums and networking benefits]]
+
+### [Build the next POPPI ($1.95B exit to Pepsi)](https://www.youtube.com/watch?v=ocd5InqGP7U)
+- [[creating_a_cpg_business_using_data_and_trends | Creating a CPG business using data and trends]]
+- [[seo_and_tools_like_ahrefs_for_evaluating_market_demand | SEO and tools like Ahrefs for evaluating market demand]]
+- [[physical_product_branding_and_differentiation | Physical product branding and differentiation]]
+- [[leveraging_ai_and_software_tools_for_market_research | Leveraging AI and software tools for market research]]
+- [[strategies_for_launching_and_growing_consumer_brands | Strategies for launching and growing consumer brands]]
 
 ### [The Step-by-Step Plan to Go From $0 to $10M+](https://www.youtube.com/watch?v=okEHpwG-vmU)
 - [[triple_triple_double_double_revenue_growth_strategy | Triple triple double double revenue growth strategy]]
-- [[nine_steps_to_nine_figures_business_framework | Nine steps to nine figures business framework]]
-- [[scaling_a_business_from_startup_to_a_100_million_company | Scaling a business from startup to a 100 million company]]
-- [[importance_of_customer_loyalty_and_retention | Importance of customer loyalty and retention]]
-- [[decisionmaking_and_strategic_focus_in_business_growth | Decisionmaking and strategic focus in business growth]]
+- [[zero_to_one_phase_and_scaling_businesses | Zero to one phase and scaling businesses]]
+- [[nine_steps_to_nine_figures_framework | Nine steps to nine figures framework]]
+- [[importance_of_retention_and_net_revenue_retention | Importance of retention and net revenue retention]]
+- [[entrepreneurial_focus_and_strategic_decisionmaking | Entrepreneurial focus and strategic decisionmaking]]
 
-### [Figma UI Design Tutorial: Design your app in 40 Minutes!](https://www.youtube.com/watch?v=XoOx5xPdv4M)
-- [[figma_design_techniques | Figma design techniques]]
-- [[creating_and_using_components_in_figma | Creating and using components in Figma]]
-- [[prototyping_and_animations_in_figma | Prototyping and animations in Figma]]
-- [[inspiration_and_design_process | Inspiration and design process]]
-- [[figma_plugins_and_workflow_enhancements | Figma plugins and workflow enhancements]]
+### [How to build a million dollar sales funnel using Facebook Ads](https://www.youtube.com/watch?v=psiIhdXHdH0)
+- [[building_a_successful_sales_funnel | Building a successful sales funnel]]
+- [[role_of_facebook_and_google_ads_in_business_growth | Role of Facebook and Google ads in business growth]]
+- [[differences_between_websites_and_sales_funnels | Differences between websites and sales funnels]]
+- [[importance_of_copywriting_in_marketing | Importance of copywriting in marketing]]
+
+### [I Learned YouTube Growth From The Best (Full Tutorial)](https://www.youtube.com/watch?v=SYbQqMeq48o)
+- [[youtube_growth_strategies_from_patty_galloway | YouTube growth strategies from Patty Galloway]]
+- [[creating_a_successful_youtube_channel_for_businesses_and_personal_brands | Creating a successful YouTube channel for businesses and personal brands]]
+- [[the_importance_of_packaging_videos_through_titles_and_thumbnails | The importance of packaging videos through titles and thumbnails]]
+- [[developing_content_ideas_and_strategies_on_youtube | Developing content ideas and strategies on YouTube]]
+- [[using_youtube_as_a_powerful_platform_for_audience_engagement_and_conversion | Using YouTube as a powerful platform for audience engagement and conversion]]

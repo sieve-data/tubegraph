@@ -1,68 +1,62 @@
 ---
-title: Best Practices for Using Cursor AI
+title: Best practices for using Cursor AI
 videoId: gqUQbjsYZLQ
 ---
 
 From: [[gregisenberg]] <br/> 
 
-When delving into the world of AI-powered coding with tools like [[building_ai_applications_with_cursor | Cursor AI]], understanding best practices can save countless hours and help in building functional applications <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. This guide outlines key strategies to get the best results from [[building_ai_applications_with_cursor | Cursor AI]] and similar tools.
+[[using_cursor_ai_and_replit_for_app_development | Cursor AI]] has emerged as a powerful tool for transforming ideas into code rapidly <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. To maximize its effectiveness and save development time, it's crucial to adopt specific best practices <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. These practices focus on providing ample context to the AI, setting up the development environment correctly, and leveraging AI for learning and debugging <a class="yt-timestamp" data-t="02:49:51">[02:49:51]</a>.
 
-## The Importance of Planning and Sketching
+## 1. Plan Thoroughly Before Coding
 
-A fundamental step before engaging with AI coding assistants is thorough planning <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. It's not advisable to simply jump into [[building_ai_applications_with_cursor | Cursor AI]]'s composer and start asking it to build things <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. Even when using AI, adopting a developer mindset that includes planning what to build and its desired appearance is crucial <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+One of the most critical steps to getting the best results from [[using_cursor_ai_and_replit_for_app_development | Cursor AI]] is thorough planning <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>. This approach is likened to the "measure twice, cut once" strategy <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>.
 
-> "The biggest thing I would say is is planning and um I don't see enough people planning I see people just jumping on composer and telling you to make stuff and I think your outputs would be really really great if you did a lot if you did planning before you go to cursor." <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>
+> "You don't want to assume it's smart and you don't want to make the AI the boss. You're the boss, the AI is the co-pilot." <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>
 
-This approach follows a "measure twice, cut once" strategy <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+*   **Adopt a Developer Mindset**: Even if you're not a seasoned developer, approach your project with a planning mindset <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>.
+*   **Visualize Your Idea**: Sketch out what you intend to build. Tools like Figma or even simple programs like Paint, or a handwritten drawing, can be incredibly effective <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. Having a visual reference provides essential context when prompting AI models <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>.
+*   **Utilize [[tools_for_ai_code_development_cursor_and_v0 | V0]] for Prototyping**: Before jumping into [[using_cursor_ai_and_replit_for_app_development | Cursor AI]], use [[tools_for_ai_code_development_cursor_and_v0 | V0]] to visualize your potential app or MVP <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>. [[tools_for_ai_code_development_cursor_and_v0 | V0]] allows you to iterate on design and functionality, getting as close as possible to your vision through 10-15 prompts <a class="yt-timestamp" data-t="10:34:00">[10:34:00]</a>. It's built using Shadcn UI, allowing for nice-looking UIs <a class="yt-timestamp" data-t="07:51:00">[07:51:00]</a>. You can even drag and drop a sketch into [[tools_for_ai_code_development_cursor_and_v0 | V0]] to kickstart the visual process <a class="yt-timestamp" data-t="08:35:00">[08:35:00]</a>.
+*   **"Rubber Ducking" with AI**: Use the AI as a sounding board, similar to "rubber ducking" in programming, where you explain your thoughts to clarify your own ideas and gain new realizations <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>.
 
-### Visualizing Your Application
+## 2. Leverage Cursor.Directory for Contextual Prompts
 
-Having a visual representation, even simple sketches, significantly helps in providing context to AI models <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. Tools like Figma or even Paint can be used for this <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Handwritten drawings can also be effective; an example showed a web3 portfolio page drawn on an iPad, which was then uploaded to [[using_ai_tools_like_v0_replit_claude_ai_and_cursor_for_app_development | ChatGPT]] to help plan the structure <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+To set up your [[using_cursor_ai_agent_for_app_development | Cursor AI]] codebase for success, utilize `cursor.directory` <a class="yt-timestamp" data-t="11:17:00">[11:17:00]</a>.
 
-[[planning_and_sketching_before_using_ai_models | Planning and sketching]] helps in defining what you want the AI to do, treating it as a co-pilot rather than the boss <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. This process is akin to "rubber ducking" in programming, where explaining your thoughts helps clarify your own ideas <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+*   **Initial Prompting**: This site provides pre-defined prompts that act as an initial context for [[using_cursor_ai_and_replit_for_app_development | Cursor AI]], helping it understand your project's technology stack (e.g., Next.js, Python) <a class="yt-timestamp" data-t="11:33:00">[11:33:33]</a>.
+*   **Combat Outdated Information**: AI models can sometimes provide outdated information <a class="yt-timestamp" data-t="12:14:00">[12:14:00]</a>. Using `cursor.directory` ensures [[using_cursor_ai_and_replit_for_app_development | Cursor AI]] follows best practices for your chosen technologies <a class="yt-timestamp" data-t="12:06:00">[12:06:00]</a>.
+*   **Create `.cursor_rules` File**: Copy the relevant prompt from `cursor.directory` and paste it into a file named `.cursor_rules` in the root of your project <a class="yt-timestamp" data-t="12:40:00">[12:40:00]</a>. This tells [[using_cursor_ai_and_replit_for_app_development | Cursor AI]] what your codebase is based on every time you prompt it <a class="yt-timestamp" data-t="13:52:00">[13:52:00]</a>.
+*   **Customize Prompts**: If your specific technology stack isn't listed, you can copy existing prompts and ask another AI model like [[using_ai_models_like_claude_and_v0_with_cursor_ai | Claude]] or ChatGPT to modify them to fit your technologies <a class="yt-timestamp" data-t="14:37:00">[14:37:00]</a>.
 
-### Using V0 for Initial Mockups
+## 3. Tag Documentation for Up-to-Date Context
 
-For visualizing your application, [[using_ai_tools_like_v0_replit_claude_ai_and_cursor_for_app_development | V0]] is highly recommended <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>. It helps in seeing what your potential app or MVP will look like <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. For instance, you can describe a "clean looking Marketplace website for bicycle sellers" in [[using_ai_tools_like_v0_replit_claude_ai_and_cursor_for_app_development | V0]], and it will generate a visual <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. The code generated by [[using_ai_tools_like_v0_replit_claude_ai_and_cursor_for_app_development | V0]] (often built using `shaten UI`) can then be copied and taken to [[building_ai_applications_with_cursor | Cursor AI]] for further development <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. Even hand-drawn sketches can be dropped into [[using_ai_tools_like_v0_replit_claude_ai_and_cursor_for_app_development | V0]] to generate initial designs <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>. It's suggested to go through at least 10 to 15 prompts in [[using_ai_tools_like_v0_replit_claude_ai_and_cursor_for_app_development | V0]] to get the design as close as possible to the vision before moving to [[building_ai_applications_with_cursor | Cursor AI]] <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>.
+Knowing the technologies you're building with and providing their documentation to [[using_cursor_ai_and_replit_for_app_development | Cursor AI]] is crucial for accuracy and debugging <a class="yt-timestamp" data-t="19:35:00">[19:35:00]</a>.
 
-## Utilizing Cursor.Directory for Context
+*   **Docs as Source of Truth**: The official documentation for any technology is typically the most reliable source of information <a class="yt-timestamp" data-t="21:13:00">[21:13:00]</a>.
+*   **Add Docs to [[using_cursor_ai_and_replit_for_app_development | Cursor AI]]**: In [[using_cursor_ai_and_replit_for_app_development | Cursor AI]]'s composer, you can add external documentation URLs (e.g., Next.js, Superbase) <a class="yt-timestamp" data-t="20:31:00">[20:31:00]</a>. This gives [[using_cursor_ai_and_replit_for_app_development | Cursor AI]] access to the latest and greatest information for setting up and debugging <a class="yt-timestamp" data-t="21:38:00">[21:38:00]</a>.
+*   **Learn While Building**: Use the documentation as a learning moment. If something is unclear, ask [[using_cursor_ai_and_replit_for_app_development | Cursor AI]] to explain it <a class="yt-timestamp" data-t="22:26:00">[22:26:00]</a>. This iterative process helps beginners understand the ecosystem and "speak the language" of development <a class="yt-timestamp" data-t="23:57:00">[23:57:00]</a>.
 
-Another crucial best practice is to leverage `cursor.directory` <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>. This website offers pre-written prompts that can be copied and pasted into a `.cursor.rules` file in the root of your project <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>. This file acts as an initial prompt that [[building_ai_applications_with_cursor | Cursor AI]] reads before any other input <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>.
+## 4. Consult Other AI Models When Stuck
 
-These rules specify the technologies being used (e.g., Typescript, Node.js, Next.js, React, Tailwind) and define best practices for [[building_ai_applications_with_cursor | Cursor AI]] to follow <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. This is vital because AI models can sometimes pull outdated information <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>. By setting up the `.cursor.rules` file, you ensure that [[building_ai_applications_with_cursor | Cursor AI]] operates with the most relevant and up-to-date context for your specific codebase <a class="yt-timestamp" data-t="00:12:22">[00:12:22]</a>.
+Sometimes, [[using_cursor_ai_and_replit_for_app_development | Cursor AI]] might get stuck on a bug <a class="yt-timestamp" data-t="26:16:00">[26:16:00]</a>. In such cases, consulting other AI models can yield better results.
 
-If your specific technology stack isn't listed on `cursor.directory`, you can copy a few existing examples and use another AI model (like [[using_ai_tools_like_cursor_ai_and_claude_for_chrome_extension_development | Claude]] or [[using_ai_tools_like_v0_replit_claude_ai_and_cursor_for_app_development | ChatGPT]]) to create a similar `.cursor.rules` prompt tailored to your needs <a class="yt-timestamp" data-t="00:14:32">[00:14:32]</a>.
+*   **Provide Full Context**: When moving to another AI model (e.g., [[using_ai_models_like_claude_and_v0_with_cursor_ai | Claude]], ChatGPT), don't just copy the bug <a class="yt-timestamp" data-t="27:11:00">[27:11:00]</a>. Include:
+    *   The bug itself <a class="yt-timestamp" data-t="27:21:00">[27:21:00]</a>.
+    *   The solutions [[using_cursor_ai_and_replit_for_app_development | Cursor AI]] tried that failed <a class="yt-timestamp" data-t="27:24:00">[27:24:00]</a>.
+    *   The output you're getting and what you're expecting <a class="yt-timestamp" data-t="27:52:00">[27:52:00]</a>.
+*   **Different Models, Different Results**: Even if an AI uses the same underlying model, copy-pasting the issue to a different platform like [[using_ai_models_like_claude_and_v0_with_cursor_ai | Claude]] can sometimes resolve the problem <a class="yt-timestamp" data-t="26:47:00">[26:47:00]</a>.
 
-## Leveraging Other AI Models
+## 5. Leverage AI for Code Explanation and Learning
 
-There will be instances where [[building_ai_applications_with_cursor | Cursor AI]] gets stuck on a bug or an issue <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a>. In such cases, consulting other AI models, such as [[using_ai_tools_like_cursor_ai_and_claude_for_chrome_extension_development | Claude]] or [[using_ai_tools_like_v0_replit_claude_ai_and_cursor_for_app_development | ChatGPT]], can be beneficial <a class="yt-timestamp" data-t="00:27:06">[00:27:06]</a>.
+AI models, especially [[using_cursor_ai_and_replit_for_app_development | Cursor AI]] and [[using_ai_models_like_claude_and_v0_with_cursor_ai | Claude]], excel at explaining and teaching code concepts <a class="yt-timestamp" data-t="32:47:00">[32:47:00]</a>.
 
-The key to successful cross-AI consultation is providing ample context <a class="yt-timestamp" data-t="00:27:37">[00:27:37]</a>. Instead of just pasting the bug, include the potential solutions [[building_ai_applications_with_cursor | Cursor AI]] tried that failed, the current output, and the expected output <a class="yt-timestamp" data-t="00:27:48">[00:27:48]</a>. This helps the new AI model avoid repeating previous unsuccessful attempts and leads to much better results <a class="yt-timestamp" data-t="00:27:52">[00:27:52]</a>.
+*   **Explain Existing Code**: Ask the AI to explain existing code, making it easier to open-source or explain to others <a class="yt-timestamp" data-t="29:21:00">[29:21:00]</a>. This is particularly useful for writing documentation, a task often disliked by developers <a class="yt-timestamp" data-t="30:30:00">[30:30:00]</a>.
+*   **Interactive Learning**: If a part of the explanation doesn't make sense, copy that specific part and ask the AI for a more detailed explanation <a class="yt-timestamp" data-t="31:16:00">[31:16:00]</a>. This interactive approach helps in understanding patterns and concepts over time <a class="yt-timestamp" data-t="32:04:00">[32:04:00]</a>.
+*   **Long-Term Gains**: While it might take a bit longer initially, this learning process leads to greater self-sufficiency and quicker building in the long run <a class="yt-timestamp" data-t="33:10:00">[33:10:00]</a>. Investing time now prepares you for future, more advanced AI models <a class="yt-timestamp" data-t="33:54:00">[33:54:00]</a>.
 
-## Tagging Documentation
+## 6. Utilize Templates and Duplicate Functionality
 
-[[integrating_documentation_with_cursor_ai | Integrating documentation]] directly within [[building_ai_applications_with_cursor | Cursor AI]] is a powerful feature <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>. By adding documentation links (e.g., Next.js, Supabase) to the composer view, you provide [[building_ai_applications_with_cursor | Cursor AI]] with the latest and most accurate information about the technologies you are using <a class="yt-timestamp" data-t="00:20:29">[00:20:29]</a>.
+Efficiency in development can be significantly improved by leveraging existing structures and patterns.
 
-This ensures that when you ask questions or debug issues, [[building_ai_applications_with_cursor | Cursor AI]] references the most up-to-date "source of truth," rather than potentially outdated scraped internet data <a class="yt-timestamp" data-t="00:21:01">[00:21:01]</a>. For non-technical users, it's advised to at least skim the documentation and, if something is unclear, take a screenshot and ask the AI to explain it in simpler terms <a class="yt-timestamp" data-t="00:20:12">[00:20:12]</a>.
-
-## Using AI for Explaining and Teaching Code
-
-AI models, including [[building_ai_applications_with_cursor | Cursor AI]] and [[using_ai_tools_like_cursor_ai_and_claude_for_chrome_extension_development | Claude]], excel at explaining and teaching code concepts <a class="yt-timestamp" data-t="00:32:39">[00:32:39]</a>. This is particularly useful for developers who need to explain existing code or write documentation <a class="yt-timestamp" data-t="00:29:21">[00:29:21]</a>.
-
-For beginners, asking the AI to "explain this code to me like a beginner" can break down complex components, their setup, and their logic <a class="yt-timestamp" data-t="00:30:31">[00:30:31]</a>. If a specific term or line of code is confusing, you can copy it and ask the AI "what does this mean?" <a class="yt-timestamp" data-t="00:31:32">[00:31:32]</a>. This iterative learning process, where you ask questions about unfamiliar concepts as you build, helps in understanding patterns and expedites the learning curve <a class="yt-timestamp" data-t="00:32:04">[00:32:04]</a>.
-
-## Reusing Existing Functionality and Templates
-
-When building, especially serious projects, starting from scratch can be inefficient <a class="yt-timestamp" data-t="00:36:59">[00:36:59]</a>.
-
-### Referencing Existing Code
-
-If you have a functionality that works well on one page and need something similar on another, referencing the existing code significantly helps <a class="yt-timestamp" data-t="00:35:38">[00:35:38]</a>. You can copy the code and ask the AI to "do the same thing for this page, but [explain the twist]" <a class="yt-timestamp" data-t="00:35:55">[00:35:55]</a>. This provides critical context, leading to better results <a class="yt-timestamp" data-t="00:36:05">[00:36:05]</a>.
-
-### Utilizing Starter Templates
-
-Using a starter template that includes common boilerplate code (e.g., a landing page, authentication, payment integration, database setup, a dashboard) can greatly accelerate development <a class="yt-timestamp" data-t="00:36:35">[00:36:35]</a>. Instead of rebuilding common features like authentication or database setup repeatedly, developers can find and use pre-built templates (e.g., on GitHub for Next.js or React) and build on top of them within [[building_ai_applications_with_cursor | Cursor AI]] <a class="yt-timestamp" data-t="00:38:01">[00:38:01]</a>.
-
-## Conclusion
-
-These best practices emphasize providing as much context as possible to your AI models, treating them as co-pilots in an onboarding phase <a class="yt-timestamp" data-t="00:25:05">[00:25:05]</a>. While it may seem like a slower start, this methodical approach saves significant time and headaches in the long run <a class="yt-timestamp" data-t="00:18:24">[00:18:24]</a>. Embracing the "pain" of initial planning and debugging sets up AI assistants for success and allows developers to build more robust applications <a class="yt-timestamp" data-t="00:18:04">[00:18:04]</a>.
+*   **Add Comments to Code**: Use AI to automatically add comments to your code, improving readability and maintainability <a class="yt-timestamp" data-t="35:11:00">[35:11:00]</a>.
+*   **Duplicate and Adapt Functionality**: If you have existing functionality on one page that needs to be adapted for another, copy that code and instruct the AI to modify it with the desired changes <a class="yt-timestamp" data-t="35:50:00">[35:50:00]</a>. The more context you provide about the existing code and the desired changes, the better the output <a class="yt-timestamp" data-t="36:05:00">[36:05:00]</a>.
+*   **Start with Boilerplate Templates**: For serious projects, begin with a starter template that includes common boilerplate code such as a landing page, authentication (Google Auth, email, 2FA), payment integration (Stripe), database integration, and a dashboard <a class="yt-timestamp" data-t="36:42:00">[36:42:00]</a>. Many free templates are available on platforms like GitHub (e.g., search "Next.js starter template" or "React starter template") <a class="yt-timestamp" data-t="38:13:00">[38:13:00]</a>. This significantly speeds up development, especially for complex features like authentication <a class="yt-timestamp" data-t="38:36:00">[38:36:00]</a>.
