@@ -5,54 +5,48 @@ videoId: WFKrfFfxyYo
 
 From: [[theaccountantguy]] <br/> 
 
-Adding two numbers together in Notion is a simple task that can be accomplished using the `add` operator <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This process involves a three-step approach: creating a database, setting it up correctly, and applying the desired formula <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. This guide outlines how to [[creating_a_database_in_notion_for_calculations | create a database in Notion for calculations]].
+[[creating_a_database_in_notion | Creating a database in Notion]] is a fundamental step for managing and tracking information in a structured way <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. It's a powerful feature allowing users to create custom databases to store, manage, and track information <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
 
-## What is a Notion Database?
+A Notion database is a collection of data that can be structured and organized in various ways <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. It consists of a collection of properties that define the different types of data stored within it <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
 
-In Notion, a database is a collection of data that can be structured and organized in various ways <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. It's a powerful feature allowing users to create custom databases to store, manage, and track information in a structured and organized manner <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. A Notion database is composed of properties that define the different types of data it can store <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+To find the sum of numbers within one database, a three-step approach can be followed <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>:
+1.  [[creating_a_database_in_notion | Create a database]] to hold the data <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+2.  [[setting_up_databases_and_relationships_in_notion | Set up the database correctly]] <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+3.  Implement the desired formula <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
 
-## Step 1: Creating a Database in Notion
+## How to Create a Database in Notion
 
-To add a database in Notion, simply type `/database` into a Notion page <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. This will present a list of options for adding a database <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. Select "database inline" to quickly add a database to your page <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+To add a database in Notion, type `/database` into a Notion page <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. This action will present a list of options for adding a database <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. Select `database inline` to quickly add a database to your Notion page <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
 
-## Step 2: [[setting_up_a_database_in_notion | Setting up the Database Correctly]]
+## Setting Up the Database Correctly
 
-When you [[setting_up_a_database_in_notion | create a new database]], it will always have a default property as its first column, which is of "Title" type and cannot be changed <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. For the purpose of finding the sum of two numbers, the database will require the following properties:
+When [[setting_up_databases_and_relationships_in_notion | setting up a database]] in Notion, there is always a default property, which appears as the first column <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. This property is always of the "Title" type and its type cannot be changed <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. For instance, this default column can be used to name "Test Name" <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
 
-*   Test Title property (the default first column) <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>
-*   Paper 1 Number property <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>
-*   Paper 2 Number property <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>
-*   Formula 1 Formula property <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>
-*   Formula 2 Formula property <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>
+To facilitate specific calculations, such as summing two numbers, the database would require the following properties <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>:
+1.  Test title property <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>
+2.  Paper 1 number property <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>
+3.  Paper 2 number property <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>
+4.  Formula 1 Formula property <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>
+5.  Formula 2 formula property <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>
 
 ### How to Add Properties in a Database
 
-To add properties to your database, click on the plus symbol (`+`) located at the top right end of the database <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. This will display a list of property types to choose from <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. For example, select the "Number" property and name it "Paper 1" <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. Repeat this process for "Paper 2" and add two more properties with the type set as "Formula" <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+To add properties to a database in Notion, click on the plus symbol (`+`) located at the top-right end of the database <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. This will display a list of options for property types <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. For numerical operations, select the "Number" property type and name it "Paper 1" <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. Repeat this process for "Paper 2" and for the formula properties <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
 
-## Step 3: Finding the Sum of Two Numbers in Notion
+## Finding the Sum of Two Numbers in Notion
 
-Once the database is set up, you can use formulas to find the sum of two numbers <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+Once the database is set up, specific formulas can be used to find the sum of two numbers <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. Two methods can be applied:
 
-### Formula One: Basic Addition
+### Formula One: Using the Plus Sign
 
-This formula uses the plus sign (`+`) to add numbers together <a class="yt-timestamp" data-t="00:03:23">[00:03:23]</a>:
-
-```notion
-prop("Paper 1") + prop("Paper 2")
-```
-This formula will find the sum of values in the "Paper 1" and "Paper 2" properties <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
+This basic formula involves adding all numbers together directly with the plus sign (`+`) <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+*   **Formula:** `prop("Paper 1") + prop("Paper 2")` <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>
 
 ### Formula Two: Using the `add` Function
 
-Notion also has a built-in `add` operator specifically for finding the sum of numbers <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. The `add` function takes two parameters as input and returns their sum <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+Notion provides a built-in operator, `add`, to help find the sum of numbers <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. The `add` function takes two parameters as input and returns their sum <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+*   **Example:** `add(1, 3)` equals 4 <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>
+*   **Example (non-numeric):** `add("I love", " Notion")` equals "I love Notion" <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>
+*   **Formula for two numbers:** `add(prop("Paper 1"), prop("Paper 2"))` <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>
 
-For example:
-*   `add(1, 3)` equals 4 <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>
-*   `add("I love", " Notion")` equals "I love Notion" <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>
-
-To add the values from "Paper 1" and "Paper 2" properties using the `add` function, use the following formula:
-
-```notion
-add(prop("Paper 1"), prop("Paper 2"))
-```
-These two formulas demonstrate how to find the sum of two numbers within your Notion database <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.
+Both `prop("Number 1") + prop("Number 2")` and `add(prop("Number 1"), prop("Number 2"))` are valid formulas for [[setting_up_a_database_for_adding_numbers_in_notion | finding the sum of two numbers in a database]] <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.

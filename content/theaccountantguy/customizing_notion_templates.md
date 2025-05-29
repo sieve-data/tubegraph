@@ -1,37 +1,38 @@
 ---
 title: Customizing Notion templates
-videoId: Z2FKONAY6OQ
+videoId: Bc68Q3dxAsQ
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-The Notion Employee Schedule Template is a versatile tool designed to help organizations manage employee schedules and track performance. This template is highly [[customizing_notion_templates_for_business_needs | customizable]] to fit specific organizational needs <a class="yt-timestamp" data-t="04:13:28">[04:13:28]</a>.
+Notion templates offer a flexible way to manage various aspects of a business, including tracking expenses for projects like construction <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. A typical [[customizing_notion_templates_for_expense_management | Notion template for expense management]] defines different categories of expenses at the top, along with budgeted and actual expense amounts <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
 
-## Template Views
-The employee schedule template includes four main views <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>:
-*   **Employee Details** Lists information about all employees <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
-*   **Task Schedule** Helps enter tasks for employees for different dates <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
-*   **Monthly View** Shows months divided into quarters, displaying hours worked and leave hours <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
-*   **Employee Performance** Displays detailed performance information broken down by individual employees <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+## Template Overview for Expense Tracking
 
-## Customizing Employee Details
-Users can [[customizing_notion_templates_for_business_needs | customize Notion templates]] by adding and managing employee data and categories within the Employee Details section <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+In an expense tracking template, actual expenses are dynamically pulled from a table located at the bottom of the template <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Values in this table can be modified, allowing expenses to update dynamically based on changes <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. For example, changing values in the expense table will reflect corresponding updates in the category totals at the top <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
 
-### Adding New Employees
-To add a new employee, click on the "new" button and fill in relevant categories <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. Key details include name, employee ID, and contact information <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. Additional information such as department, position, and email ID can also be entered <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. A quick action button to "add employee" is also available at the top <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+## Customizing Expense Data
 
-### Managing Categories
-The template comes with predefined categories like Operations, Marketing, and Finance <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
-*   **Adding a New Category** Click the plus (+) icon to add a new category <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
-*   **Editing an Existing Category** Click on an existing category to edit its details <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
+Users can update the expense data directly within the template.
+*   **Modifying Values**: Users can change values in the expense table at the bottom, and these updates will dynamically reflect in the overall expense tracking <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
 
-## Customizing Task Schedule Entries
-After employee details are added, the Task Schedule section allows for detailed entry of tasks <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. Tasks are organized by shifts (e.g., first, second, third shift) <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
-*   **Time Tracking** Users can input start and end times, indicating the period for each task <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
-*   **Task Details** Specific task information can be entered <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
-*   **Employee Assignment** Employees can be assigned to tasks, and their respective departments, as set in employee details, will automatically appear <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. It's also possible to add an employee directly from this section <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
-*   **Automated Hour Calculation** The template automatically calculates the hours worked on a specific task based on the entered times <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>.
-*   **Attendance and Task Status** Employees can mark their attendance (present, on leave, day off) <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a> and update the task status (in progress, completed, not started, not applicable) <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
+## Managing Categories
 
-## Overall Customization
-This template is "completely [[customizing_notion_templates_for_business_needs | customizable]] as for your need" <a class="yt-timestamp" data-t="04:13:28">[04:13:28]</a>. For any specialized requirements or similar templates, users can reach out for assistance <a class="yt-timestamp" data-t="04:15:28">[04:15:28]</a>.
+The template allows for extensive customization of expense categories:
+*   **Editing Categories**: To edit an existing category, click on the pencil icon associated with it <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. This allows users to define new categories tailored to their specific use case <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+*   **Adding New Categories**: A new category can be added by clicking on the "new page" option <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+*   **Deleting Categories**: To remove a category, click on the three-dot menu next to it and select "delete" <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
+
+## Modifying Budgeted Expenses
+
+The budgeted expense amount for any category can be easily adjusted by clicking on the current budgeted figure and entering a new amount <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+
+## Summary Section
+
+The template includes a summary section that provides an overview of financial data <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. This section displays:
+*   The total budgeted expense <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+*   Actual expenses pulled from the bottom table <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
+*   The difference between budgeted and actual expenses <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+*   The percentage of actual expenses incurred so far <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
+
+This provides a quick and easy way to keep track of project expenses <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. For further assistance in [[customizing_the_notion_template_for_specific_needs | customizing this template]], support can be sought via email <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.

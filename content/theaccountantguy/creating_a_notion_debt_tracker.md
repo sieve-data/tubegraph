@@ -1,96 +1,88 @@
 ---
-title: Creating a Notion debt tracker
+title: Creating a Notion Debt Tracker
 videoId: WV13JDi5DMY
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-A Notion debt tracker can be built to help monitor debt payments and progress towards becoming debt-free <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. This minimalistic tracker is designed to help users track their debts effectively <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+A Notion debt tracker can assist in tracking debt payments on time and help users become debt-free <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. This minimalistic tracker is built using five distinct databases <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
 
-## Components of the Debt Tracker
+## Tracker Overview
 
 The Notion debt tracker typically includes three main sections:
+*   **Summary Section** This section provides an overview of the total loan amount, total amount repaid, total interest repaid, and the repayment in percentage for all combined debts <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a> <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>.
+*   **Debt Overview** This section provides a detailed view of different debt categories, such as student loans, credit cards, car loans, personal loans, home loans, and other loans <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. For each category, it displays the total loan amount, total amount repaid, total interest repaid, repayment in percentage, and the estimated debt-free date <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a> <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>.
+*   **Debt Progressive Payments** This section outlines progressive due payments for the time ahead, showing the month of payment, the amount of repayment, and the payment status (paid or not paid) <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. Clicking a checkbox updates the payment status, which is then reflected in the Debt Overview section <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a> <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
 
-1.  **Summary Section**
-    This section provides an overview of all debts combined <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>. It displays the total loan amount, total amount repaid, total interest repaid, and the overall repayment in percentage <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. This section is linked to the [[total_debt_database | total debt database]] <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
+## Database Components
 
-2.  **Debt Overview**
-    This section breaks down different types of debts, such as student loans, credit cards, car loans, personal loans, home loans, and other loans <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. For each debt category, it shows:
-    *   Total loan amount <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>
-    *   Total amount repaid <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>
-    *   Total interest repaid <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>
-    *   Repayment in percentage <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>
-    *   The estimated date by which the debt will be paid off <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>
-
-    This section is linked to the [[summary_of_debt_database | summary of debt database]] <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>.
-
-3.  **Debt Progressive Payments**
-    This part outlines progressive due payments for the future <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. It includes the month of payment, the repayment amount, and the payment status (paid or not paid) <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
-    *   Clicking a checkbox updates the payment status to "paid" <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>.
-    *   Updating payment progress reflects in the debt overview section under the respective debt category for amount repaid, interest repaid, and repayment percentage <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
-    *   This section is linked to individual loans from the [[loan_details_database | loan details database]] <a class="yt-timestamp" data-t="00:11:49">[00:11:49]</a>.
-
-## Building the Notion Debt Tracker with Databases
-
-Building this minimalistic Notion debt tracker requires five interconnected databases <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
+The [[using_notion_for_debt_tracking | Notion debt tracker]] is constructed using five databases <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>:
 
 ### 1. Debt Database
-This database lists all different types of debts <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+
+This database lists all different types of debts, such as student loan, credit card, car loan, personal loan, home loan, and other loan <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a> <a class="yt-timestamp" data-t="00:04:92">[00:04:92]</a>.
 It includes the following properties:
-*   **Name**: Specifies the type of debt (e.g., student loan, credit card, car loan, personal loan, home loan, other loan) <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>.
-*   **Loan Amount**: The total amount of the loan <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>.
-*   **Interest Rate**: The annual interest rate for each debt, specified in percentage format <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>.
-*   **Minimum Payment**: The minimum monthly payment required <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
-*   **Additional Repayment**: Any extra amount paid during the first installment, like a down payment <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
-*   **Initial Repayment Date**: The date when the first installment was repaid <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
-*   **Debt-Free Period**: A formula that calculates the number of months it will take to be debt-free from the initial repayment date <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>.
-*   **Expected Debt-Free By**: An estimated date calculated by adding the debt-free period to the initial repayment date <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
-*   **Net Loan Outstanding Amount**: The outstanding loan amount before the first installment, serving as the opening balance for the [[loan_details_database | loan details database]] <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>. This is derived by deducting the additional payment from the loan amount <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>.
+*   **Name** (default property): Specifies the type of debt <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+*   **Loan Amount**: The total amount of the loan against the debt <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. This is a number property, specified in US dollars <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>.
+*   **Interest Rate (per annum)**: The interest rate per annum for each debt, specified in US dollars and formatted as a percentage <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a> <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
+*   **Minimum Payment**: The minimum monthly payment to be repaid <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. This is a number property <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+*   **Additional Repayment**: An additional repayment amount made during the first installment, such as a down payment <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. This is a number property <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+*   **Initial Repayment Date**: The first installment date when the debt was repaid <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. This is a date property <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+*   **Interest Rate Per Month**: A calculation of the interest rate per month, derived by dividing the `Interest Rate` by 12 <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
+*   **Debt Free Period**: A formula that calculates the debt-free period in months <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
+*   **Expected Debt Free By**: An estimated debt-free date, calculated by adding the `Debt Free Period` to the `Initial Repayment Date` <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a> <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>.
+*   **Net Loan Outstanding Amount**: The amount of loan outstanding before the first repayment, derived by deducting the `Additional Repayment` from the `Loan Amount` <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a> <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>. This serves as the opening balance for the Loan Details database <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.
 
 ### 2. Loan Details Database
-This database captures the specifics of each repayment <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. It records details related to loan repayment, ultimately showing the outstanding balance <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>.
-Properties include:
-*   **Installment Number**: Tracks the number of installments paid against the debt <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
-*   **Date of Payment**: The specific date an installment was paid <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>.
-*   **Category of Loan**: Links to the [[debt_overview_database | debt overview database]] by specifying one of six debt categories <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>.
-*   **Opening Balance**: The debt balance prior to the current repayment <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>. The first month's opening balance is the net loan outstanding from the Debt Database, while subsequent months use the previous month's closing balance <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
-*   **Payment Amount**: The minimum amount paid monthly <a class="yt-timestamp" data-t="00:07:21">[00:07:21]</a>. For the first installment, it includes any additional payments <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>.
-*   **Interest Calculation**: A formula that calculates the interest amount paid per installment (opening balance × monthly interest rate) <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>.
-*   **Principal Value**: Calculated as payment amount minus interest amount <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>.
-*   **Closing Balance**: Calculated as opening balance minus the principal amount for the month <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
-*   **Checkbox**: Reflects the payment status as "paid" or "not paid" <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>.
-*   **Total Repayment**: A formula that calculates the total amount paid (total, interest, and principal) against each debt when the checkbox is ticked <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. These amounts are also summed at the bottom <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
+
+This database records the details of each debt repayment <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>.
+It includes the following properties:
+*   **Installment Number**: Specifies the number of installments paid against the debt <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
+*   **Date of Payment of Installment**: The date of repayment for each installment <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>. This has a date property <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>.
+*   **Category of Loan**: A relation to the `Debt Overview Database` specifying one of the six debt categories <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>.
+*   **Opening Balance**: The outstanding debt amount prior to the current repayment <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>. For the first month, it's the `Net Loan Outstanding` from the `Debt Database`; for subsequent months, it's the `Closing Balance` of the previous month <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
+*   **Payment Amount**: The amount paid each month <a class="yt-timestamp" data-t="00:07:21">[00:07:21]</a>. For the first installment, it includes the minimum and any additional payments; for subsequent months, it's just the minimum amount <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>.
+*   **Interest Calculation**: A formula calculating the interest amount paid per installment (Opening Balance \* Interest Rate / 12) <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>.
+*   **Principal Value**: A formula calculating the principal amount paid (Payment Amount - Interest Amount) <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>.
+*   **Closing Balance**: A formula calculating the remaining balance (Opening Balance - Principal Amount) <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
+*   **Payment Status**: A checkbox that reflects if the payment is "paid" or "not paid" <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>.
+*   **Total Repayment**: A formula that calculates the total amount repaid against the debt when the `Payment Status` checkbox is ticked <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. Similar logic applies for `Interest` and `Principal Value` <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>. The total amounts repaid are summed up at the bottom of the database <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
 
 ### 3. Debt Overview Database
-This database provides a quick overview of each debt type <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
-It features:
-*   **Loan Amount**: Rolled up from the [[loan_details_database | loan details database]] <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
-*   **Total Amount Repaid**: A roll-up value from the [[loan_details_database | loan details database]] <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>.
-*   **Total Principal Repaid**: A roll-up value from the [[loan_details_database | loan details database]] <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>.
-*   **Total Interest Repaid**: A roll-up value from the [[loan_details_database | loan details database]] <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>.
-*   **Outstanding Amount**: Calculated by subtracting the principal repaid from the loan amount <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
-*   **Repayment in Percentage**: The ratio of principal repaid to the total loan amount, displayed as a percentage <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
-*   **Debt-Free Date**: The projected date to become debt-free <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+
+This database provides an overview of all debt types <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>.
+It contains the following properties:
+*   **Loan Amount**: Rolled up from the `Loan Details Database` and derived using a formula <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+*   **Total Amount Repaid**, **Total Principal Repaid**, and **Total Interest Repaid**: These are derived as roll-up values from the respective fields in the `Loan Details Database` <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>.
+*   **Outstanding Amount**: Calculated by deducting the `Principal Repaid` from the `Loan Amount` using a formula <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
+*   **Repayment in Percentage**: The percentage of principal repaid to the total loan amount <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
 
 ### 4. Summary of Debt Database
-This database summarizes key financial figures for each type of debt <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
-It calculates:
-*   Total loan amount <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>
-*   Total amount repaid <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>
-*   Total interest repaid <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>
-*   Repayment in percentage <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>
-*   The date by which the user will be free of the debt <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>
 
-All these figures are pulled in as roll-up values from the [[debt_overview_database | debt overview database]] <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
+This database calculates summarized figures for each debt type <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>.
+It includes:
+*   **Total Loan Amount** <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
+*   **Total Amount Repaid** <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
+*   **Total Interest Repaid** <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>.
+*   **Repayment in Percentage** <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>.
+*   **Debt-Free Date** <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
+All these figures are pulled in as roll-up values from the `Debt Overview Database` for each debt type <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>.
 
 ### 5. Total Debt Database
-This database provides a comprehensive view of all debts combined <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
-It reflects the consolidated:
-*   Total loan amount <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>
-*   Total amount repaid <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>
-*   Total interest repaid <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>
-*   Repayment in percentage <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>
 
-Similar to the [[summary_of_debt_database | summary of debt database]], these values are rolled up from the [[debt_overview_database | debt overview database]] <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
+This database aggregates the total debt value for all debts combined <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>.
+It shows:
+*   **Total Loan Amount** <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
+*   **Total Amount Repaid** <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>.
+*   **Total Interest Repaid** <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>.
+*   **Repayment in Percentage** <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>.
+These values are rolled up from the `Debt Overview Database` and populated using formulas <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
 
-This comprehensive setup allows for effective [[using_notion_for_debt_management_and_tracking_debt_payments | tracking debt payments using Notion]] and achieving financial goals <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>.
+## Primary Dashboard Integration
+
+The primary dashboard links the various sections to their respective databases:
+*   The **Summary section** is linked to the `Total Debt Database` <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
+*   The **Debt Overview section** is linked to the `Summary of Debt Database` <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>.
+*   The **Debt Progress section** is linked to the `Loan Details Database` <a class="yt-timestamp" data-t="00:11:49">[00:11:49]</a>.
+
+This comprehensive [[managing_debts_and_loans_with_notion | Notion debt tracker]] allows for detailed monitoring of debt obligations and progress towards becoming debt-free <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>.

@@ -1,8 +1,7 @@
 ---
-title: Mortgage payment tracking
+title: Mortgage Payment Tracking
 videoId: sCheBme0Ymw
 ---
 
 From: [[theaccountantguy]] <br/> 
-There is no information about mortgage payment tracking available in the provided transcript.
-<a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>
+The provided transcript does not contain information about mortgage payment tracking. <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>

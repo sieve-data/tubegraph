@@ -5,37 +5,29 @@ videoId: alrxkhJzbuw
 
 From: [[theaccountantguy]] <br/> 
 
-This guide demonstrates how to generate boarding pass PDF documents using Notion as a database and template, in conjunction with PDFOutput <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. This process allows for [[generating_pdf_documents_from_a_notion_database | PDF document generation from a Notion database]] using a predefined template.
+This guide demonstrates how to [[generating_pdfs_from_notion_using_pdfoutput | generate boarding pass PDF documents]] using Notion in conjunction with [[generating_pdfs_from_notion_using_pdfoutput | PDF output]] <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
 
 ## Prerequisites
 
-To generate boarding pass PDFs, you need two main components within Notion:
-*   **Boarding Pass Database** A database containing all the necessary details for each boarding pass, serving as the data source <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
-*   **Boarding Pass Template** A pre-designed template that will be used to format the PDF documents <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. [[using_notion_as_a_template_and_database_for_pdfs | Notion is utilized as both the template and database]] for this process <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
+To begin, you will need two main components in Notion:
+*   A [[using_a_boarding_pass_database_in_notion | boarding pass database]] containing all the necessary details for each boarding pass <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
+*   A boarding pass template, which will be used to structure the generated PDF documents <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
 
-## Process for Generating PDFs
+## Generating the PDFs
 
-The generation of boarding pass PDFs is facilitated by PDFOutput, which connects to your Notion database and template <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+The process involves connecting your Notion database and template to [[connecting_and_setting_up_pdf_output_with_notion | PDF output]] and then initiating the export process:
 
-1.  **Input Connection Details**
-    *   In PDFOutput, type "boarding pass" into the connection details field <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
-2.  **Connect the Database**
-    *   Specify the [[using_boarding_pass_database_in_notion | boarding pass database]] as the data source for PDFOutput <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
-3.  **Select the Template**
-    *   Choose the "boarding pass template" from your Notion setup <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
-4.  **Load Information**
-    *   Upon selection, PDFOutput begins loading all information from the specified database and template <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
-5.  **Export Documents**
-    *   Once the information is fully loaded, click "export" to start [[generating_pdf_documents_with_notion | generating the PDF documents]] based on the data <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
-    *   The system will generate multiple PDF documents for your use <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+1.  **Connect to PDF output**: In the connection details of [[connecting_and_setting_up_pdf_output_with_notion | PDF output]], enter "boarding pass" for the name <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+2.  **Select Database**: Choose the "boarding pass database" from your Notion workspace <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
+3.  **Select Template**: Select the "boarding pass template" that will define the layout of your PDFs <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+4.  **Load Information**: Click "next" to allow [[connecting_and_setting_up_pdf_output_with_notion | PDF output]] to load all information from the selected Notion database and template <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+5.  **Export Documents**: Once the information is fully loaded, click "export" to start [[generating_pdf_documents_in_bulk_using_notion_and_pdfoutput | generating the PDF documents]] <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
 
-## Output and Review
+## Previewing and Downloading
 
-*   **Export Confirmation**
-    *   After the export is successful, you can preview a sample of the generated PDF <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
-*   **Review Generated PDFs**
-    *   The preview will show the boarding pass with all details populated from the database <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
-    *   You can then download the generated files <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
-    *   Upon opening, you will see individual PDF outputs, each with different names and contexts, corresponding to the entries in your Notion database <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+After a successful export, you can verify and access the generated files:
 
-This method illustrates how [[using_notion_with_pdf_output | Notion can be used with PDFOutput]] to efficiently [[pdf_document_generation_from_notion | generate PDF documents from a Notion database]] <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+*   **Preview**: Click "preview sample" to view a sample of the generated boarding pass, confirming that all details from the database have been correctly included <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
+*   **Download**: You can then proceed to download all the generated PDF files <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. The downloaded files can be extracted and opened to confirm their contents, which will include multiple boarding passes with different names and contexts <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
+
+This method allows for the efficient [[generating_pdf_documents_in_bulk_using_notion_and_pdfoutput | bulk generation of PDF documents]] directly from your Notion data <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.

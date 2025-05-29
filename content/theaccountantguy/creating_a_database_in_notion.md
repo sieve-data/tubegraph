@@ -1,28 +1,30 @@
 ---
-title: Creating a database in Notion
+title: creating a database in Notion
 videoId: Fz_fpiT29EE
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-To find the difference between two numbers in Notion, the first step is to [[creating_database_in_notion | create a database]] <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+This guide explains how to [[creating_a_database_in_notion | create a database in Notion]] and use formulas to find the difference between two numbers <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. Two methods are covered: using the subtract operator and using the minus sign <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
 
-## Steps to create a database
+## Setting Up Your Database
 
-1.  **Initiate Database Creation**: Start by typing a forward slash `/` <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
-2.  **Select Database Option**: Type `database` to reveal a list of options, from which you can choose to [[creating_database_in_notion | create your database]] <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
-3.  **Define Properties**:
-    *   **Title Property**: The initial property is typically a "title" property, which helps describe the purpose or context of the data being entered <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
-    *   **Number Properties**: To perform calculations like finding the difference between two numbers, you must assign "number" properties to at least two distinct columns within the database <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+To begin, you will need to [[how_to_create_a_database_in_notion | create a database]] in Notion <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
 
-## Finding the difference between numbers in a database
+1.  Use a forward slash (`/`) and type `database` to bring up the list of options <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+2.  The first property in your [[creating_a_database_in_notion | database]] will be the title property, which indicates the purpose of the entry <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+3.  Assign number properties to two different numbers within the [[creating_and_using_databases_in_notion | database]] to enable finding the difference between them <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
 
-Once a database is established and number properties are assigned, you can find the difference between two numbers using formulas <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
+## Finding the Difference Between Numbers
+
+Once your [[setting_up_databases_and_relationships_in_notion | database is set up]], you can apply formulas to calculate the difference.
 
 ### Using the Subtract Operator
 
-One method involves using the `subtract` operator <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. This operator takes two numbers as input and calculates their difference <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. For example, if you provide "number one" and "number two" as inputs, the subtract operator will yield their difference <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
+One method to find the difference is by using the subtract operator <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>. This operator takes two numbers as input and calculates their difference <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. For example, if you provide "number one" and "number two" as inputs, the formula will return their difference <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
 
 ### Using the Minus Sign
 
-Alternatively, you can use the simple minus sign (`-`) within a formula to find the difference between two numbers in your database <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. This method is similar in function to the subtract operator <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+Alternatively, you can use a simple minus sign to find the difference between two numbers in your [[setting_up_a_database_for_adding_numbers_in_notion | database]] <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+
+These methods demonstrate how to effectively find the difference between two numbers within a [[using_databases_in_notion_for_invoice_tracking | Notion database]] <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.

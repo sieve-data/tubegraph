@@ -1,26 +1,34 @@
 ---
 title: Using formulas in Notion
-videoId: Fz_fpiT29EE
+videoId: 13jgGp1PbPo
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-[[using_excelstyle_formulas_in_notion | Notion formulas]] can be used to find the difference between two numbers in a database <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This process utilizes [[using_rollup_and_formula_properties_in_notion | formula properties]] <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+[[using_notion_for_calculations | Using Notion for calculations]] can simplify data management by automating calculations within databases <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. This article focuses on calculating the product of two numbers within a Notion database using two distinct formula methods <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
 
-## Methods for Finding the Difference
+## Calculating the Product of Two Numbers
 
-Two primary methods can be employed to calculate the difference between numbers in Notion:
-*   Using the `subtract` operator <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
-*   Using the minus sign (-) <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+To demonstrate product calculation, a database is set up with specific properties <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
 
-## Setting up the Database
+### Database Setup
 
-To begin, create a database by typing a forward slash (/) and selecting the 'database' option <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. The first property in the database is typically the title property, which indicates the purpose of the operation <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. Next, assign number properties to two different numbers within the database to prepare for calculating their difference <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+The example database includes:
+*   **Name of the operator** A title property <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+*   **Two Number Properties** Each number is assigned a number property <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+*   **Formula Properties** For calculating the product <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
 
-## Using the Subtract Operator
+### Methods for Multiplication
 
-A [[using_rollup_and_formula_properties_in_notion | formula property]] can be used with the `subtract` operator to find the difference <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. The `subtract` operator takes two numbers as input and calculates their difference <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. For example, by providing "number one" and "number two" as inputs, their difference can be obtained <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
+Two different formulas can be used to calculate the product of two numbers:
 
-## Using the Minus Sign (-)
+#### Method 1: Using the "Multiply Operator" Formula
 
-Alternatively, the minus sign (-) can be used in a [[using_rollup_and_formula_properties_in_notion | formula property]] to find the difference between two numbers <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. This method achieves the same result as the `subtract` operator <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+This method involves a specific "multiply operator formula" where the two numbers are provided as input <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+*   **Example**: Providing `2` and `3` as numbers yields `6` as the product using this formula <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
+
+#### Method 2: Using the Multiplication Symbol
+
+A simpler approach involves placing the multiplication symbol (`*`) directly between the two numbers in a formula <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+
+Both methods effectively calculate the product of two numbers in Notion <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.

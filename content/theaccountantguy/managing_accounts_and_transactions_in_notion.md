@@ -1,86 +1,102 @@
 ---
 title: Managing accounts and transactions in Notion
-videoId: _eyWb2ArM5Y
+videoId: DkMqcp_AyZg
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-This article explains how to manage accounts and transactions within a Notion-based net worth tracker, designed to help individuals, freelancers, and small business owners [[managing_finances_with_notion | manage their finances using Notion]] <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. The tracker is a template available from "the accountant guy" <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>.
+This article explains how to manage accounts and transactions using a small business bookkeeping template in Notion, keeping track of all bookkeeping needs for a small business <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a> <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
 
-## Overview of the Net Worth Tracker
+## Template Structure
 
-The net worth tracker template features three main sections:
-1.  **Get Started** <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>: Where you specify your net worth goal <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
-2.  **Account Section** <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>: Allows you to specify different accounts for personal finances, categorised as expenses, income, assets, and liabilities <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
-3.  **Summary Section** <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>: Provides an overview of your entire finances, displaying closing balances and proportions of each account <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. This section also includes a net worth view, showing the net worth goal, total net worth calculation, difference, growth, and percentage of the goal achieved <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+The Notion small business bookkeeping template is divided into three main sections <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>:
+*   **Start Here Section:** Located at the top, used for initial setup and entering business-related information <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a> <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
+*   **Summary Section:** Provides an overview of all entered transactions <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a> <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+*   **Transactions Window:** Where all business transaction details are entered <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
 
-Finally, a **Transactions View** allows you to [[entering_transactions_in_notion | feed in all income and expenses]], along with details related to assets and liabilities, which helps in [[tracking_transactions_and_expenses_in_notion | calculating net worth]] <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+## Setting Up Accounts
 
-## Setting Up Accounts in Notion
+The "Start Here" section features an "Account" section for [[setting_up_accounts_in_notion_for_cash_flow | setting up accounts]] <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>. Accounts are organized under various heads <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>:
+*   **Expenses:** e.g., Purchase expense, Utility bills, Subscription, Salaries and wages <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
+*   **Liabilities:** e.g., [[how_to_track_accounts_receivable_and_payable_in_notion | Accounts payable]], Taxes payable, Accrued expenses, [[tracking_credit_card_expenses_in_notion | Credit card]] <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
+*   **Income** <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
+*   **Assets** <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
 
-To begin, you first need to [[setting_up_accounts_in_notion | set up your accounts]] <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+### Managing Account Items
 
-### Setting Your Net Worth Goal
-Under the "Get Started" view, you can set your net worth goal <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. This value automatically updates other database elements when changed <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. For example, you can change the default $10,000 to $14,000 <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+*   **Editing:** Hover over an item and click the pencil icon to edit details <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+*   **Deleting:** Click the three-dot icon next to an item and select "delete" <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
+*   **Adding:** Go to the respective category and click "new page" to add a new account <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
 
-### Adding New Accounts
-In the account section, you can add new accounts under each category (income, expense, assets, liabilities) <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
+### Account Properties
 
-To add a new income account:
-1.  Scroll down to the income category and click the "New" button <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
-2.  A pop-up will appear for filling in details <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
-3.  **Name**: Enter the name of the income, e.g., "Interest Income" <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
-4.  **Opening Balance**: Leave blank for income and expenses <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. This field is primarily for assets and liabilities <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
-5.  **Classification**: Assign a tag to the account, such as "other income" <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. You can add new categories or use existing ones (e.g., "Bills," "Subscription") <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
-6.  **Payment Frequency**: Specify how often you receive the income (e.g., monthly for salary, quarterly for interest income) <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. You can add custom frequencies or use predefined options <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>.
-7.  **Opening Units** and **Asset Class**: These fields are primarily for investments and should be left blank for income or expense accounts <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
+For each account item, you can add specific details:
+*   **Opening Balance:** Enter carried-forward balances for liabilities and assets <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+*   **Classification:** Options include Bills, Debt, Savings, etc. <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>. For example, utility bills might be classified as "bills" and subscriptions as "subscription" <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+*   **Payment Frequency:** Set if payments occur monthly, half-yearly, quarterly, etc. <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
+*   **Opening Units:** Starting units for inventory or assets when beginning the business <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+*   **Asset Class:** Choose between "inventory" or "investment" <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
 
-### Managing Assets and Liabilities
-*   **Assets**: For investments like Bitcoin, you can specify an opening balance (e.g., $100) and opening units (e.g., 10 units) <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. The asset class for investments should be set to "Investments" <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>. For savings, the classification might be "savings" <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
-*   **Liabilities**: You can add debt payments and loans, setting their payment frequency as needed <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>.
+## Entering Transactions
 
-All accounts are customizable and can be edited anytime <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>. To edit an existing account, click on the pencil icon, which opens an edit window <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>.
+The "Transactions" section allows you to record various financial activities <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
 
-## Entering Transactions in Notion
+### Adding a Transaction
 
-The transaction section allows you to [[entering_transactions_in_notion | set up all financial transactions]] <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>. There are four different views: income, expense, asset, and liabilities, along with an "All" view <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. These views are categorized by month, with the latest month appearing on top <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>.
+Click on dedicated buttons like "add income," "add expense," "add asset," or "add liability" to initiate a new transaction <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>.
 
-To enter a specific transaction:
-1.  Click the "New" button in the relevant view (e.g., Income) <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
-2.  **Date**: Select the transaction date; it automatically classifies the transaction into the correct month <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
-3.  **Description**: Add a description, e.g., "Salary income" <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>.
-4.  **Category**: This will automatically populate based on the view (e.g., Income) <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>.
-5.  **Account**: Select the specific account you created earlier (e.g., "Salary account") <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
-6.  **Payment Mode**: Choose how the money was received or paid (e.g., "Bank account" for income) <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>.
-7.  **Transaction Type**: This is crucial for [[tracking_expenses_and_income_in_notion | tracking money flow]]:
-    *   **Inflow**: For income transactions or when you obtain more loan <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>. Also for selling assets <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>.
-    *   **Outflow**: For expense transactions or loan repayments <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. Also for putting money into a specific asset <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>.
-8.  **Amount**: Enter the transaction amount, e.g., $1000 <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>.
-9.  **Document**: Attach any receipts or bills by embedding a file <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>.
+### Transaction Fields
 
-## Summary and Net Worth Calculation
+When entering a transaction, you'll fill in the following details <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>:
+*   **Date:** Automatically defaults to the current date <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
+*   **Period:** Select or add the relevant month and year (e.g., October 2024) <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>.
+*   **Description:** A brief explanation of the transaction <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+*   **Category:** Automatically mapped based on the type of transaction (e.g., "income" if "add income" was clicked) <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
+*   **Account:** Select an account from those set up in the "Start Here" section <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>. New accounts added here will also appear in the "Account" section at the top <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
+*   **Payment Mode:** Specify how the payment was received or made (e.g., bank account, cash account) <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. More payment modes can be added <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>.
+*   **Transaction Type:** Classify as "inflow" (money coming in) or "outflow" (money going out) <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>.
+*   **Amount:** The monetary value of the transaction <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+*   **Document:** Option to attach relevant documents <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>.
+*   **Tax Rate and Tax Amount:** Enter the tax rate to automatically calculate the tax amount. Set to 0% for non-taxable transactions <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+*   **Multiplier and Currency:** For multi-currency transactions, enter a multiplier value to convert to the base currency (e.g., USD to Euro) <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
 
-After [[entering_transactions_and_budgeting_in_notion | adding all transactions]] and accounts, the final step is the calculation of net worth <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>.
+### Managing Investments and Inventory
+
+The template also allows for tracking Investments <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a> and Inventory <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>:
+*   **Investments:** Record units, price, total value, and track profit/loss upon selling investments <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+*   **Inventory:** Monitor stock levels and profitability of inventory items <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+
+## Summary Section
+
+Once transactions are entered, the summary section automatically updates, providing a comprehensive overview of your business finances <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>.
 
 ### Finances Overview
-The "Finances" view under the summary shows all expenses, income, assets, and liabilities as of the current date <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. It displays the specific amount for each account and its proportion to the total amount <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. This provides a complete overview of your finances at a glance <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a>.
+This section provides an at-a-glance view of <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a> [[using_notion_for_financial_management | your financial position]], including assets (e.g., accounts receivable, cash), income sources, liabilities, and expenses <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>.
 
-### Net Worth View
-The "Net Worth" view presents five key statistical figures:
-1.  **Net Worth Goal**: The goal you set earlier (e.g., $14,000, which can be adjusted) <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>. Changing this value updates calculations below <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.
-2.  **Total Net Worth**: Calculated as the difference between your total assets and total liabilities <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>. For example, $6950 (assets) minus $1600 (liabilities) equals $5350 <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>.
-3.  **Difference**: The gap between your net worth goal and your total net worth (e.g., $12,000 goal - $5350 total = $6650 difference) <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>.
-4.  **Total Growth**: The closing net worth value minus the opening net worth <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>. The opening net worth is derived from the opening balances of assets and liabilities specified in the account section <a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>.
-5.  **Percentage to Net Worth Goal**: Shows how much of your goal you have accomplished (e.g., $5350 total net worth / $12,000 goal = 45%) <a class="yt-timestamp" data-t="00:12:07">[00:12:07]</a>.
+### Debt Section
+Track [[managing_invoice_statuses_and_transactions_in_notion | debt payments]], showing past payments and upcoming future payments based on liability entries <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
 
-As you continue [[organizing_financial_transactions_in_notion | adding transactions and dealing with different items]], your net worth will automatically update <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>.
+### Budgeting Section
+Monitor [[budgeting_and_tracking_expenses_in_notion | budgeted expenses and income]] against actual incurred amounts, including the total percentage of expenses incurred compared to the budget <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>.
 
-## Customization and Additional Features
+### Savings Section
+Shows the amount of savings accumulated for specific planned funds <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>.
 
-The Notion tracker offers several customization options:
+### Bills and Subscriptions
+Similar to the debt section, these areas track past and upcoming payments for bills <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a> and subscriptions <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
 
-*   **Currency Change**: Notion supports changing the currency to over 30 different currencies <a class="yt-timestamp" data-t="00:14:23">[00:14:23]</a>. Detailed instructions for this are available within the dashboard <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>.
-*   **Changing Dashboard View**: You can alter the layout of your dashboard. For instance, the "other finances" view can be changed from a board view to a gallery view <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>. You can also group items by category (e.g., assets, expenses, income, liabilities) <a class="yt-timestamp" data-t="00:15:08">[00:15:08]</a>. Notion provides significant flexibility for view customization <a class="yt-timestamp" data-t="00:15:28">[00:15:28]</a>.
-*   **Device Support**: The tracker supports all types of devices and operating systems, including iOS and Mac <a class="yt-timestamp" data-t="00:15:43">[00:15:43]</a>.
+### Tax Section
+Displays quarterly tax liabilities, available tax credits, and overall tax payable based on income and expense entries <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>.
 
-For those looking for more than just net worth tracking, a complete personal finance tracker template is available as an upgrade, offering features like debt payments, budgeting, savings tracker, bills, subscriptions, and investments <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>.
+### Net Worth
+Reflects your set net worth goal <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a> (which can be set in the "Start Here" section <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>), calculates total net worth from assets and liabilities <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>, and shows the difference, total growth, and percentage of the goal achieved <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>.
+
+### Investment and Inventory Summaries
+Provides a quick glance at the value and units of investments held <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a> and the status of inventory <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>.
+
+### Overall Financial Summary
+Presents key financial figures such as total income, total expenses, gross profit, taxes paid, and the net profit of the business <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>.
+
+## Workflow for Using the Template
+
+To utilize this template effectively, begin by [[using_databases_for_financial_tracking_in_notion | setting up accounts]] under different heads in the "Start Here" section and add any relevant opening balances for assets and liabilities <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>. Afterward, proceed to the "Transactions" window to enter details for every business transaction <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. This process automatically updates all summary information at the top, allowing for an immediate overview of business finances <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. This method simplifies [[tracking_income_and_expenses_in_notion | tracking income and expenses]] and provides a complete financial picture of your business <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a> <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>.

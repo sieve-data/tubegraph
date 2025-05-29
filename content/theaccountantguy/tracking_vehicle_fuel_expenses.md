@@ -1,7 +1,7 @@
 ---
-title: tracking vehicle fuel expenses
+title: Tracking vehicle fuel expenses
 videoId: 8NsYKS6wKow
 ---
 
 From: [[theaccountantguy]] <br/> 
-# Tracking Vehicle Fuel Expenses
+# Tracking vehicle fuel expenses
