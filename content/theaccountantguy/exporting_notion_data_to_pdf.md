@@ -1,86 +1,84 @@
 ---
-title: Exporting Notion data to PDF
+title: Exporting Notion Data to PDF
 videoId: Uh1g7uXtr_4
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-This article explains how to [[generating_pdf_documents_from_notion | generate PDF documents]] for each row in a [[using_notion_as_a_database_for_pdf_generation | Notion database]], eliminating the need for manual data entry and individual exports <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. The demonstration uses an application form database, tracking details like candidate profile and education requirements <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
+This article explains how to [[Generating PDF documents from Notion using PDFOutput | generate PDF documents]] for each row in a Notion database, using a tool called [[Using PDF Output Tool with Notion | PDF Output]]. The process allows for the creation of multiple PDFs without manually entering information or exporting documents one by one <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
 
-## Setting Up Your Notion Database for PDF Generation
+## Preparing Your Notion Database
 
-To [[creating_a_notion_database_for_pdfs | create a Notion database for PDFs]], follow these steps:
+To begin, you need a Notion database, such as an application form database tracking candidate profiles and educational requirements <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
 
-### 1. Structure Your Notion Database
-The database columns should contain the information you wish to include in your PDFs <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. For an application form, this might include "Full Name," "Date of Birth," "Gender," and "Phone Number" <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+### Creating a Template Page
+An application form template should be created that matches the database structure <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+Key fields from the database, like "Full Name", "Date of Birth", "Gender", and "Phone Number", should be placed inside curly brackets `{}` in the template <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. These curly-bracketed fields correspond exactly to the column names in your Notion database <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
 
-### 2. Create a Template Page
-Design an application form template that mirrors the database structure <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. For dynamic fields that will be populated from your database, place the exact column names inside curly brackets (e.g., `{Full Name}`, `{Date of Birth}`, `{Gender}`, `{Phone Number}`) <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. These curly-bracketed fields act as placeholders that will be replaced with data from the corresponding database columns <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+### Populating Database Rows with the Template
+For each row of data in your Notion database, open the row and paste the content of your prepared template into the empty page section at the bottom <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
 
-### 3. Integrate the Template into Database Rows
-For each row in your database, open it and paste the template content into the empty section at the bottom <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
-
-#### Automating Template Population
-To avoid manual copying and pasting for new entries, you can set up a default template for your database:
-1.  Click the drop-down menu next to the "New" button in your database <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+### Automating Template Population (Optional, but Recommended)
+To avoid manually copying and pasting the template for new rows, you can set it as a default:
+1.  Click the drop-down arrow next to the "New" button in your database <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
 2.  Select "New template" <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
 3.  Give the template a name (e.g., "Applicant Name") <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
-4.  Paste your application form template content into this new template page <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
-5.  Click outside the template to save it <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
-6.  Click the three dots next to your newly created template in the drop-down menu and choose "Set as default" <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
-7.  Select "For all views" and specify your "Application Form Database" <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+4.  Paste the template content into this new template page <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+5.  Click the three dots next to the template name, choose "Set as default", and then "For all views in [database name]" <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
+Now, whenever a new row is added, the template will automatically populate the page <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
 
-Now, any new row added to the database will automatically include the template <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
+## Integrating Notion with [[PDF Output Tool with Notion | PDF Output]]
 
-## [[generating_pdf_documents_with_notion_and_pdfoutput | Generating PDF documents with Notion and PDFOutput]]
+[[Integrating Notion with PDF Output for document creation | PDF Output]] is a tool designed to [[Bulk Generating PDF Documents from Notion Database | generate documents in bulk]] from a Notion database <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
 
-This process utilizes a tool called PDFOutput <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>, which requires a Notion database to [[bulk_pdf_generation_from_notion_databases | generate documents in bulk]] <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
+### Connecting Notion Database to PDF Output
+1.  **Sign In**: Access your [[Using PDF Output Tool with Notion | PDF Output]] dashboard <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>.
+2.  **Copy Database URL**: Copy the URL of your Notion database from the browser's address bar <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+3.  **Paste URL in PDF Output**: Paste the copied URL into the designated field in [[Using PDF Output Tool with Notion | PDF Output]] <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+4.  **Generate API Key**: Your Notion database must be connected to [[Using PDF Output Tool with Notion | PDF Output]] via an API key <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+    *   In Notion, go to "Settings & members" > "Integrations".
+    *   Click "Develop your own integrations" if you haven't already.
+    *   Click "New integration," add a name, choose your workspace, and save.
+    *   Copy the "Internal Integration Secret" key <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>.
+5.  **Paste API Key in PDF Output**: Paste the copied API key into [[Using PDF Output Tool with Notion | PDF Output]] <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+6.  **Connect Database to Integration**:
+    *   In your Notion database, click the three dots (`...`) in the top right corner <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>.
+    *   Select "Connections" and choose the integration name you created (e.g., "new key") <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+    *   Click "Confirm" <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+7.  **Publish Database**: The database must be published to be accessible by [[Using PDF Output Tool with Notion | PDF Output]]:
+    *   Click "Share" on your Notion database <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
+    *   Toggle "Publish to web" on <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
+    *   Click "Publish" <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. This step is crucial for [[Using PDF Output Tool with Notion | PDF Output]] to fetch pages from the database <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>.
 
-### 1. Connect Notion to PDFOutput
-1.  Sign in to PDFOutput <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
-2.  Copy your Notion database URL from the top of your Notion page <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
-3.  Paste the database URL into the designated field in PDFOutput <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
-4.  [[connecting_notion_database_with_pdf_output | Connect the Notion database with PDFOutput]] via an API key <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>:
-    *   Click the link in PDFOutput to add an API key <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>.
-    *   In Notion's API key settings, create a "New integration," add a name, choose your workspace, and save <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
-    *   Copy the "Internal Integration Secret" from the newly created key <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>.
-    *   Paste this key into PDFOutput <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
-5.  Ensure the Notion database is connected to the API key you just created <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>:
-    *   In Notion, click the three dots on your database page <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>.
-    *   Go to "Connections" and select your API key (e.g., "new key") <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
-6.  Publish the database <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>:
-    *   Click "Share" on your Notion database page <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
-    *   Click "Publish" <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. This makes the database accessible to PDFOutput <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>.
+## Generating PDF Documents
 
-### 2. Generate PDFs
-1.  In PDFOutput, click "Load Database" <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
-2.  Select the Notion column you want to use for naming your PDF files (e.g., "Full Name") <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
-3.  Choose whether to generate PDFs for "All rows," a "range of rows," or "custom rows" <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
-4.  Click "Generate PDF" <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
-5.  A preview window will appear, showing the populated data from each row <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>. You can adjust settings like paper size and layout on the right side <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
-6.  Click "Save" to download each PDF file <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. The files will be named according to the column you selected <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>.
+With the Notion database prepared and connected to [[Using PDF Output Tool with Notion | PDF Output]], you can now [[Generating PDFs in bulk with Notion | generate PDFs in bulk]].
 
-> [!INFO] Template Requirement
-> The template file **must** be available inside each row of the database for the files to generate successfully <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+1.  **Load Database**: In [[Using PDF Output Tool with Notion | PDF Output]], click "Load database" <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+2.  **Select Naming Column**: Choose a column from your database (e.g., "Full Name") to be used for naming the generated PDF files <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
+3.  **Select Rows**: Decide whether to generate PDFs for "all rows," a specific "range of rows," or "custom rows" <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
+4.  **Generate PDF**: Click "Generate PDF" <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+    *   [[Using PDF Output Tool with Notion | PDF Output]] will display a preview of each PDF, automatically populating the template's placeholder fields with data from the corresponding Notion row <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>.
+    *   On the right side, you can adjust settings like paper size and layout <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
+    *   Click "Save" for each PDF to download them <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. The files will be named according to the column you selected <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>.
 
-## [[different_methods_for_pdf_generation_with_notion | Different Methods for PDF Generation with Notion]]
+### Alternative Method: Using a Direct Notion Page URL
 
-### Method 1: Database with Integrated Template (Demonstrated Above)
-This method involves having a Notion database where each row contains the template content, either manually pasted or automatically populated via a default template <a class="yt-timestamp" data-t="00:11:06">[00:11:06]</a>.
+Instead of having the template inside each Notion database row, you can directly use a Notion page URL as the template:
+1.  Copy the URL of your main template page <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
+2.  In [[Using PDF Output Tool with Notion | PDF Output]], paste this URL into the "Notion Page URL" field <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+3.  Click "Load page" to load the document preview <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>.
+4.  Then, follow the steps for loading the database, selecting the naming column, and [[Generating PDF documents from Notion using PDFOutput | generating the PDFs]] <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>.
 
-### Method 2: Separate Template URL with Database
-Alternatively, you can use a Notion database without pre-filled templates in each row, and instead, directly link the main template page URL in PDFOutput <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>.
-1.  Copy the URL of your main template page in Notion <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
-2.  Paste this URL into the "Notion Page" field in PDFOutput <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
-3.  Click "Load Page" to load the document preview <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>.
-4.  Then, load your database URL as usual <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>, select the column reference, and click "Generate PDF" <a class="yt-timestamp" data-t="00:10:58">[00:10:58]</a>. This approach will also work for [[using_notion_for_pdf_template_creation | PDF template creation]] <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>.
+This method allows you to use a separate template page with a Notion database that doesn't necessarily contain the template within its rows <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>.
 
-## Flexibility of Template Content
-It's not mandatory for your template's placeholder text elements to exactly match all the content or fields in the database <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. PDFOutput will read the entire content of the page and generate the document <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>. You can include any information, notes, or lectures within the template pages, and it will still be included in the generated PDF <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
+## Use Cases and Flexibility
 
-## Other Use Cases
-This method can be applied to various document generation needs, such as [[generating_pdf_invoices_from_notion_data | generating PDF invoices from Notion data]] from an invoices database <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
+This method of [[creating_pdf_documents_with_notion_templates | creating PDF documents with Notion templates]] is applicable to various document generation needs, including:
+*   [[Exporting and managing PDF files from Notion database | Application forms]] <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>
+*   Invoices from an invoice database <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>
+*   Any form of document for business or personal use <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>
 
-## Additional Resources
-*   PDFOutput provides a "Templates" section with predefined templates and associated "how-to-use" videos <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
-*   For assistance, you can use the contact section at the bottom of the PDFOutput homepage <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>.
+It's not mandatory for placeholder elements to match exact database fields; [[Using PDF Output Tool with Notion | PDF Output]] can still read and [[exporting_pdf_documents_from_notion | export PDF documents from Notion]] pages containing general notes, lectures, or any other content <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+
+For additional resources and help, [[Using PDF Output Tool with Notion | PDF Output]] provides a contact section and a library of predefined templates that can be directly copied and used <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.

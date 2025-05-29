@@ -5,49 +5,40 @@ videoId: lCyhl8mofjE
 
 From: [[theaccountantguy]] <br/> 
 
-This tutorial focuses on using PDF Output to [[Using PDF output to generate invoices | generate lease agreement documents]] (PDFs) from a Notion database and page <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
+[[Using PDFOutput for document generation | PDFOutput]] is a tool designed to generate PDF documents from a Notion database and Notion pages <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. It can be used for tasks like generating lease agreements <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
 
-## Preparing Your Notion Template and Database
+## Preparing the Template and Database
 
-### Template Structure
-The lease agreement template utilizes placeholder text elements, such as `landlord name`, `tenant name`, and `street address`, enclosed in curly braces. These placeholders will be replaced by data from your Notion database <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+To use [[Using PDFOutput for document generation | PDFOutput]], you'll need:
+1.  **A template:** This template should contain placeholder text elements (e.g., `{{landlord name}}`, `{{tenant name}}`, `{{street address}}`) enclosed in curly braces <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+2.  **A Notion database:** This database will hold the values that will replace the placeholder text in your template <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. It's crucial that the naming convention of the database properties (e.g., "landlord name," "tenant name," "street address") exactly matches the placeholder names in your template <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
 
-### Database Structure
-A Notion database holds the values for each placeholder, including fields like "landlord name," "tenant name," and "street address." These values from individual rows will be imported into the template to replace the placeholder text elements <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+## [[Steps to set up API keys for PDF generation | Setting up API Keys]] and Initial Configuration
 
-## Initial PDFOutput Setup
+To begin the setup process:
+1.  **Log in to [[Using PDFOutput for document generation | PDFOutput]]** <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+2.  **Access the Help Section:** Navigate to the "Help" section within [[Using PDFOutput for document generation | PDFOutput]] <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+3.  **Follow API Key Setup Instructions:** This section provides all necessary instructions for [[Steps to set up API keys for PDF generation | setting up API keys]] to [[Connecting Notion to PDF Output via API Key | connect Notion to PDF generation tools]] <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. These steps are essential before you can generate any PDF documents <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
 
-Before generating documents, it's crucial to set up PDF Output.
-1.  **Log in to PDF Output** <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
-2.  Navigate to the **Help section** within the PDF Output interface <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
-3.  Follow the instructions provided in the Help section to complete the preliminary steps, especially for [[Utilizing API keys to connect Notion to PDF generation tools | setting up API keys]] <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+## [[Setting up and configuring PDFOutput | Configuring PDFOutput]] for Document Generation
 
-## Connecting and Mapping Data
+Once the API keys are set up, you can proceed with specific document generation:
+1.  **Specify Connection Name:** Enter a name for your connection, such as "lease agreement" <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
+2.  **Select Database:** Use the dropdown menu to select the desired Notion database. This menu displays all databases connected via your [[Using API keys for connecting Notion to PDF generation tools | API key]] <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+3.  **Select Template:** Choose the appropriate template from the template set <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+4.  **Click "Next"** <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
 
-Once the initial setup is complete, you can begin [[Setting up PDFOutput for Notion databases | configuring PDFOutput for your Notion databases]].
+## Data Mapping and Export
 
-1.  **Specify Connection Details**:
-    *   Enter a connection name (e.g., "Lease Agreement") <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
-    *   Select your Notion database from the dropdown menu, which displays all databases connected via your [[Using API keys to connect databases for PDF generation | API key]] <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
-    *   Select the corresponding lease template <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
-2.  **Automatic Mapping**: After clicking "Next," PDF Output loads the database and template elements, automatically mapping them if their names match <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
-    *   The left side displays Notion properties (e.g., "landlord name," "tenant name," "street address") from your database <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
-    *   PDF Output automatically maps these properties to the corresponding template elements <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
-3.  **Manual Mapping (if needed)**: If any properties are not automatically mapped (indicated by a gray element), click on the element to view all properties. Unmapped items will be listed in red, allowing you to manually select the correct mapping <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+After clicking "Next", [[Using PDFOutput for document generation | PDFOutput]] will load the database and template elements:
+1.  **Automatic Mapping:** [[Using PDFOutput for document generation | PDFOutput]] automatically maps Notion database properties (on the left side) to corresponding PDF template elements (on the right side) if their names match <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. For instance, "landlord name" from the database will map to "landlord name" in the template <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
+2.  **Manual Correction:** If an element is not automatically mapped, it will appear in gray <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. You can click on it to see all available properties and select the correct one if it's highlighted in red <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
+3.  **Initiate Export:** Click "Export" to start the PDF generation process <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
 
-## Generating and Exporting PDFs
+### Post-Export Features
 
-1.  **Export**: Click "Export" to begin processing the information <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
-2.  **PDF Status Property**: PDF Output will add a "PDF status" column to your Notion database <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
-    *   Rows that are unticked in this column will be generated <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
-    *   Once a PDF is generated for a row, PDF Output automatically places a tick mark in the "PDF status" column <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
-3.  **Preview and Download**:
-    *   After generation, a "Preview Sample" option becomes available to view a sample PDF <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
-    *   Click "Download All" to download all generated files in a zip format <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. You can re-download files by clicking "Download" again <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
+*   **PDF Status Column:** A "PDF status" column will appear in your Notion database. This column helps track which rows have had PDFs generated. Unticked rows indicate documents yet to be generated, and a tick mark appears once a PDF is created for that row <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+*   **Preview Sample:** After processing, you can click "Preview Sample" to view one of the generated PDF files <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. This allows you to verify that information from the database (e.g., landlord name, tenant name, street address) has been correctly replaced in the template <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+*   **[[Exporting and managing PDFs in PDFOutput | Download All]]**: To download all generated PDF files, click "Download all." This will download them in a zip file <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. You can redownload files at any time <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>.
 
-## Best Practices for PDF Generation
-
-*   **Customization**: [[Managing PDF Output templates and settings | Customize the agreement template]] and database as per your specific use case <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
-*   **Naming Conventions**: Ensure the naming convention of your Notion database properties and the template placeholders matches exactly to facilitate automatic mapping <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
-
-For any questions, reach out to notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>.
+For any questions or assistance, you can reach out to notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>.

@@ -5,60 +5,77 @@ videoId: LD5qEW9my3Q
 
 From: [[theaccountantguy]] <br/> 
 
-Anath Biswal, also known as "the accountant guy," demonstrates how to utilize a travel expense tracker in Notion to keep track of travel expenses and plan ahead <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This system allows for effective [[budgeting_and_tracking_expenses_in_notion | budgeting and tracking expenses in Notion]], similar to [[creating_an_expense_tracker_with_notion | creating an expense tracker with Notion]] or [[setting_up_a_personal_finance_tracker_using_notion | setting up a personal finance tracker using Notion]].
+This guide details how to utilize a [[using_notion_expense_tracker_for_personal_or_business_expenses | Notion expense tracker]] specifically designed for travel, allowing users to keep track of travel expenses and plan ahead <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. The template is structured with a summary section, an accounts view for setting up expense sources, and an expenses section for tracking actual spending <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. This approach makes it easier for [[tracking_personal_finances_using_notion | tracking personal finances using Notion]] or for business travel.
 
-## Tracker Overview
+## Summary Section Overview
 
-The travel expense tracker template is structured with a summary section that includes views for accounts, expenses, and an overall summary of all expenditures <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. This setup is useful for [[expense_tracking_using_notion | expense tracking using Notion]] and [[using_notion_for_expense_management | using Notion for expense management]].
+The summary section provides a concise overview, including:
+*   **Accounts**: Where expense sources are defined <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+*   **Expenses**: Details on individual expense categories <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
+*   **Overall Summary**: A total overview of all incurred expenses <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
 
-### 1. Accounts View: Setting Up Expense Categories and Budgets
+## Setting Up Accounts (Expense Sources)
 
-The "Accounts" view is where you define and categorize your expenses <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Expenses are typically classified under broad categories such as "Travel," "Meals," and "Lodging" <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+The first step in [[creating_a_budget_tracker_with_notion | creating a budget tracker with Notion]] for travel is to set up different expense sources under the accounts view <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Expenses are typically classified under broad categories such as Travel, Meals, and Lodging <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
 
-#### Adding and Customizing Expense Sources
-*   **Adding a New Expense Source**: To quickly add a new expense source, click on "Add Expense Source" within a category (e.g., "Travel"). This automatically adds a new source which can then be modified <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
-*   **Editing Expense Source Details**: Click on the pencil icon next to an expense source to edit its name (e.g., "Metro") and set a budgeted amount (e.g., $1,500) <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
-*   **Moving Expense Sources**: An expense source can be moved to a different category by clicking the three dots next to it and placing it under another section, such as "Meals" <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
-*   **Adding New Categories**: If you need a new top-level category beyond "Travel," "Meals," or "Lodging," click the plus sign on the right to create a new group <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
-*   **Editing Existing Categories**: To edit an existing category group, click on it and start editing the details <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+### Adding New Expense Sources
 
-Each expense source has a budgeted amount set, which helps in [[customizing_a_business_expense_tracker_in_notion | customizing a business expense tracker in Notion]] or a personal one <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+To quickly add a new expense source:
+1.  Click on the "Add expense source" button within an existing category (e.g., Travel) <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+2.  A new source will automatically be added <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+3.  Click the pencil icon next to the new source to edit its details <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+4.  Rename the expense source (e.g., "Metro") <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+5.  Set a budgeted amount for this specific expense (e.g., $1,500) <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
 
-### 2. Expenses Summary View: Tracking Progress
+### Moving and Deleting Expense Sources
 
-The "Expenses" view provides a detailed breakdown for each expense source <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. It displays:
-*   Total expenses incurred <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
-*   Budgeted expense set for that item <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>.
-*   Percentage of what has been spent relative to the budgeted amount <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+*   **Moving**: To move an expense source to a different category (e.g., from Travel to Meals), click on the three dots next to the source and drag it to the desired section <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+*   **Deleting**: To delete an expense source, click the three dots next to it and select the delete option <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
 
-![[Travel Expense Tracker Notion View]]
-*   **Color Coding**: This view uses a color-coding system:
-    *   **Red**: Indicates that the incurred expense has exceeded the budgeted amount (e.g., Flight: $2,000 spent vs. $1,000 budgeted, showing 200% spent) <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
-    *   **Green**: Indicates that the incurred expense is within the budgeted amount (e.g., Breakfast: $100 spent vs. $300 budgeted, showing 33% spent) <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
+### Adding New Categories (Groups)
 
-This view provides a quick glance at where your expenses stand <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+If you need a completely new top-level category (not nested under Travel, Meals, or Lodging):
+1.  Click the "plus" sign on the right side of the accounts view <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+2.  This will prompt you to create a new group <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+To edit an existing group, click on the group name and start editing the details <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
 
-### 3. Overall Summary Section
+## Understanding the Expenses Summary
 
-The summary section offers a complete overview of your travel finances <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. It shows:
-*   Total budgeted expenses <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
-*   Total expenses incurred <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
-*   The difference between budgeted and incurred amounts <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
-*   An overall percentage reflecting total expenses divided by budgeted expenses (e.g., 59% spent of the total budgeted amount) <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+Once accounts are set up with budgeted amounts, the expenses summary provides a quick view of your spending <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. For each expense source, it shows:
+*   **Total Incurred Expense**: The actual amount spent <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+*   **Budgeted Expense**: The amount you planned to spend <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>.
+*   **Percentage of Budget Spent**: The incurred expense as a percentage of the budgeted amount <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+
+### Visual Cues for Budget Adherence
+
+The tracker uses color-coding to indicate budget status:
+*   **Red**: Indicates that the incurred expense has exceeded the budgeted amount (e.g., Flight at 200% of budget) <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
+*   **Green**: Indicates that the incurred expense is within the budgeted amount (e.g., Breakfast at 33% of budget) <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
+
+This visual feedback offers a one-glance view of where your expenses stand <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+
+## Overall Summary
+
+The overall summary section provides a complete picture of your travel budget:
+*   **Total Budgeted Expense**: Sum of all budgeted amounts <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
+*   **Total Incurred Expense**: Sum of all actual expenses <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+*   **Difference**: The variance between budgeted and incurred expenses <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+*   **Overall Percentage**: Total expenses divided by total budgeted expense (e.g., 59%) <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+
+This overall percentage helps you understand how close you are to your total budgeted expense <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
 
 ## Booking Travel Expenses
 
-The expense booking section is also classified under "Travel," "Meals," and "Lodging," mirroring the categories in the Accounts view <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+To book or record an expense in this [[how_to_build_an_expense_tracker_in_notion | Notion expense tracker]]:
+1.  Navigate to the relevant category (Travel, Meals, or Lodging) <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+2.  Click the corresponding "Add expense" button (e.g., "Add travel expense") <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+3.  A new expense entry will appear with the current date <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
+4.  Fill in the details:
+    *   **Description**: A brief note about the expense <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+    *   **Trip Info**: Categorize by trip (e.g., "Trip to Paris"). You can edit existing trip names by clicking the three dots <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
+    *   **Account of Expense**: Select the specific expense source from the dropdown (e.g., "Train" for a travel expense) <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+    *   **Amount**: Enter the monetary value of the expense (e.g., $100) <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
 
-### Steps to Book an Expense
-1.  **Use Quick Addition Buttons**: Click on specific buttons like "Add Travel Expense," "Add Meal Expense," or "Add Lodging Expense" to quickly add a new entry <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. This automatically sets the current date for the expense <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
-2.  **Enter Details**:
-    *   **Description**: Add a brief description of the expense <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>.
-    *   **Trip Info**: Specify the trip (e.g., "Trip to Paris"). This field can be edited by clicking the three dots <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
-    *   **Account**: Select the specific expense source from the pre-defined accounts (e.g., "Train" for a travel expense) <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. This is crucial for [[tracking_restaurant_expenses_with_notion | tracking restaurant expenses with Notion]] or other specific categories.
-    *   **Amount**: Enter the amount of the expense (e.g., $100) <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
-3.  **Impact on Summary**: Once an expense is booked, it immediately updates the "Expenses" summary, showing the incurred amount against the budgeted amount for that specific expense source <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. If a budgeted expense hasn't been set, it will reflect the ideal value once set <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>.
+Once an expense is booked, it will instantly reflect in the expenses summary, showing the incurred amount and updating the budget percentage <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. If a budgeted expense was not set for that source, it will update once a budget is established <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>. This systematic approach simplifies [[tracking_expenses_with_notion | tracking expenses with Notion]] and helps with [[using_notion_for_expense_management | using Notion for expense management]] of travel costs.
 
-By utilizing this template, you can effectively monitor your expenses and make informed decisions for future financial planning <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. This template aligns with principles of [[setting_up_a_personal_finance_tracker_in_notion | setting up a personal finance tracker in Notion]] and [[how_to_use_notion_for_tracking_business_expenses | how to use Notion for tracking business expenses]].
-
-For any questions, Anath Biswal can be reached at notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+This template helps users understand their spending and plan future expenses effectively <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. For further assistance with [[using_notion_for_expense_tracking | using Notion for expense tracking]], contact notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>.

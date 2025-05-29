@@ -5,30 +5,30 @@ videoId: tNMsWc5lUKI
 
 From: [[theaccountantguy]] <br/> 
 
-This guide demonstrates how to set up [[setting_up_bills_payment_reminders_on_whatsapp | bill payment reminders on WhatsApp]] using a template system and [[using_p_connect_for_invoice_automation | Pabbly Connect]] for automation <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. The system allows users to receive automatic notifications for recurring bills <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
+Sanat Biswal, "The Accountant Guy," demonstrates how to set up bill payment reminders that are sent to WhatsApp using automation <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The system can display details such as the bill name, due date, and payment amount <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
 
-## Setting Up a New Bill Payment Reminder
+## Setting Up Bill Payment Reminders
 
-To create a new bill payment reminder:
-1.  Click on the drop-down menu <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
-2.  Select "[[using_templates_for_bill_notifications | new template]]" <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
-3.  Enter the bill name, such as "Mobile bill" <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
-4.  Specify the bill amount, for example, $1500 <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
-5.  Click "back" <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+To [[creating_templates_for_automated_payment_notifications | create a new bill payment reminder]], follow these [[steps_for_configuring_reminder_notifications | steps]]:
 
-### Setting Recurrence and Notification Time
-After creating the bill template:
-1.  Click the drop-down again and select the three dots <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
-2.  Set the bill to repeat on a recurring basis <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. For instance, a mobile bill can be set to recur "every month" <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
-3.  Specify the exact time and day for receiving the notification, such as 11:55 AM on the 20th of every month <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
-4.  Click "Save" <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. This setup ensures notifications are sent to WhatsApp monthly <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
+1.  Click on the drop-down menu and select "new template" <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+2.  Start by writing the name of your bill, for example, "Mobile bill" <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+3.  Specify the bill amount, such as fifteen hundred dollars <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+4.  Go back to the previous screen, click the drop-down again, then click on the three dots <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+5.  Set the bill to repeat on a recurring basis <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. For a mobile bill, you might choose "every month" <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+6.  Specify the exact time and date when you wish to receive the notification, for instance, 11:55 AM on the 20th of every month <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+7.  Click "Save" <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+
+Once saved, the notification will repeat every month on the 20th at 11:55 AM and send a notification to your WhatsApp <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>. This process allows for [[customizing_recurring_payment_notifications | customizing recurring payment notifications]] and [[using_templates_for_recurring_bill_notifications | using templates for recurring bill notifications]].
 
 ## Automation with Pabbly Connect
 
-The system requires the help of [[automating_payment_reminder_alerts_using_databases | automation]] via [[using_p_connect_for_invoice_automation | Pabbly Connect]] <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. The entire [[automating_payment_reminder_alerts_using_databases | automation]] workflow is configured within [[using_p_connect_for_invoice_automation | Pabbly Connect]] <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. A detailed explanation and guide are included when downloading the [[using_p_connect_for_invoice_automation | Pabbly Connect]] template <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. Once this [[automating_payment_reminder_alerts_using_databases | automation]] is set up, notifications will be automatically sent to WhatsApp whenever a template is set on a recurring basis <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+This system relies on the help of [[automation_using_p_connect | automation using Pabbly Connect]] <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. The entire automation setup in Pabbly Connect is designed for this purpose, and a detailed explanation and guide are included when the template is downloaded <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. Once the automation is configured and a template is set on a recurring basis, notifications are automatically sent to WhatsApp every month <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
 
-## Receiving Notifications
+## How It Works in Practice
 
-After the setup, new bills will be automatically added, and notifications will be sent to WhatsApp <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. For example, if a notification time is set for 11:55 AM on September 20th, the message will arrive around 11:56 AM, typically taking under a minute <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. This ensures timely reminders for all added recurring bills <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+The system demonstrates its functionality by automatically adding a new bill, as configured <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. For example, if a bill is set to notify at 11:55 AM on the 20th of September, the system shows the new item being added around that time <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
 
-For further assistance, you can contact sanat biswal at notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+A "Mobile bill" might be added automatically <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. A WhatsApp notification will then be received, typically within a minute of the set time <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. For instance, if the notification time was 11:55 AM, the message might arrive at 11:56 AM <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. This ensures timely reminders for every bill added and configured <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+
+For further help or assistance, you can reach out via email at notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>.

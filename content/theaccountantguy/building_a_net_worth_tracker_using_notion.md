@@ -5,83 +5,59 @@ videoId: G2UuEnUUCos
 
 From: [[theaccountantguy]] <br/> 
 
-This article details how to [[creating_and_using_a_notion_net_worth_tracker | build a net worth tracker using Notion]] <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. The tracker is designed to help users monitor their financial progress, offering a comprehensive view of assets, liabilities, and overall net worth. This system is part of a broader approach to [[tracking_personal_finances_in_notion | tracking personal finances in Notion]] <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+This article details how to [[using_notion_to_track_net_worth | build a net worth tracker]] within Notion, encompassing a summary, monthly overview, and breakdowns of assets and liabilities <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. This tracker allows for the tracking of financial growth and progress towards a net worth goal <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
 
 ## Tracker Overview
 
-The net worth tracker is structured into several key sections to provide a complete financial picture <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+The Notion net worth tracker features several key sections:
+*   **Summary Section** This displays:
+    *   The net worth goal amount <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+    *   Current total net worth <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+    *   The amount still required to reach the net worth goal <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
+    *   Total net worth growth achieved since January <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+    *   The percentage of the targeted net worth achieved <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+*   **Monthly Net Worth Overview** This section provides monthly data, including total assets, total liabilities, net worth for the month, and the change in net worth for that period <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
+*   **Assets Breakdown** This categorizes individual assets into five types, showing their amount and their proportion to total assets <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+*   **Liabilities Breakdown** Similar to assets, this specifies four types of liabilities, along with their corresponding amounts and proportions to the total liabilities <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
 
-### Summary Section
-This section offers an at-a-glance summary of financial goals and current status <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>:
-*   **Net Worth Goal Amount**: The target net worth to achieve <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
-*   **Total Net Worth at Present**: Current net worth <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
-*   **Amount Required to Reach Goal**: The difference between the goal and current net worth <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
-*   **Total Growth Achieved**: Net worth growth since January <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
-*   **Percentage Achieved**: Net worth achieved in proportion to the targeted amount <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+## [[databases_required_for_a_net_worth_tracker_in_notion | Databases Required]]
 
-### Monthly Net Worth Overview
-This section provides a month-by-month breakdown of financial changes <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>:
-*   Total assets for each month <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
-*   Total liabilities for each month <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
-*   Net worth for the month <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
-*   Change in net worth for the month <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
-
-### Breakdown of Assets
-This section details individual assets, classified into five categories <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>:
-*   Amount of each asset <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
-*   Proportion of each asset to the total assets <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
-
-### Liabilities Breakdown
-Similar to assets, this section details liabilities, specifying four types <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>:
-*   Corresponding amount of each liability <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
-*   Proportion of each liability to the total amount <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
-
-## Databases Required
-To [[creating_and_using_a_notion_net_worth_tracker | build this net worth tracker]], five types of [[databases_required_for_tracking_net_worth_in_notion | databases]] are required <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. Each database serves a distinct purpose <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+To [[tracking_personal_finances_using_notion | build this net worth tracker]], five types of databases are required <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. Each database has distinct requirements <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
 
 ### 1. Assets and Liabilities Database
-This database records all assets and liabilities for each specific month <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
-*   **Asset Description**: Five types of assets are specified <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
-*   **Opening Balance**: A number property for the asset balance at the start of the month <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
-*   **Amount**: Shows additions or deletions of assets for the specific period <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
-*   **Closing Balance**: Calculated as the opening balance plus or minus the amount during the month <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
-*   The closing balance of each month must be copied to the opening balance of the subsequent month for all assets and liabilities <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
+This database is used to record all assets and liabilities for each specific month of the year <a class="yt-timestamp" data-t="01:40:53">[01:40:53]</a>.
+*   **Asset Description:** Specifies up to five types of assets <a class="yt-timestamp" data-t="01:50:09">[01:50:09]</a>.
+*   **Opening Balance:** A number property representing the asset's balance at the start of the month <a class="yt-timestamp" data-t="01:55:04">[01:55:04]</a>.
+*   **Amount:** Shows additions or deletions of assets during the period <a class="yt-timestamp" data-t="02:00:27">[02:00:27]</a>.
+*   **Closing Balance:** Calculated as the opening balance plus the amount during the month <a class="yt-timestamp" data-t="02:06:06">[02:06:06]</a>.
+*   **Important Note:** The closing balance of each month must be copied and pasted as the opening balance for the subsequent month for all assets and liabilities <a class="yt-timestamp" data-t="02:16:03">[02:16:03]</a>.
 
 ### 2. Assets Breakdown Database
-This database provides a breakup of all assets and their individual proportions to the total amount <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
-*   It lists the same five assets created earlier <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
-*   The total amount of each asset is rolled up from the Assets and Liabilities database, combining values from all months <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
-*   Total assets value is calculated and rolled up from another database using a formula <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
-*   The percentage of each asset to the total value of all assets combined is calculated and represented by a green bar <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+This database breaks down all assets, showing their individual proportions to the total amount <a class="yt-timestamp" data-t="02:42:07">[02:42:07]</a>.
+*   It lists the same five assets created previously <a class="yt-timestamp" data-t="02:48:38">[02:48:38]</a>.
+*   **Total Amount:** Represents the total amount of each asset from all months combined, rolled up from the Assets and Liabilities Database <a class="yt-timestamp" data-t="02:50:03">[02:50:03]</a>.
+*   **Total Assets Value:** Calculated and rolled up from another database using a formula <a class="yt-timestamp" data-t="03:02:41">[03:02:41]</a>.
+*   **Percentage:** Calculates the percentage of each asset relative to the total value of all combined assets, displayed as a green bar <a class="yt-timestamp" data-t="03:13:00">[03:13:00]</a>.
 
 ### 3. Liabilities Breakdown Database
-This database functions similarly to the Assets Breakdown, comprising four types of liabilities <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
+This database is structured similarly to the Assets Breakdown, but for liabilities, comprising four types of liabilities <a class="yt-timestamp" data-t="03:20:47">[03:20:47]</a>.
 
 ### 4. Net Worth Database
-This database calculates key financial figures monthly <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>:
-*   **Total Assets**: Considers the closing balance of assets for each month <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
-*   **Total Liabilities**: Considers the closing balance of liabilities for each month <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
-*   **Net Worth**: Calculated by deducting liabilities from assets for the month <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
-*   **Change in Net Worth**: Calculated by deducting the closing net worth from the opening net worth of assets and liabilities <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
-*   All amounts in this database are rolled over from the Assets and Liabilities database <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+This database calculates key financial figures for each subsequent month <a class="yt-timestamp" data-t="03:31:40">[03:31:40]</a>.
+*   **Total Assets:** Considers the closing balance of assets for each month, rolled over from the Assets and Liabilities Database <a class="yt-timestamp" data-t="03:42:02">[03:42:02]</a>.
+*   **Total Liabilities:** Considers the closing balance of liabilities for each month, rolled over from the Assets and Liabilities Database <a class="yt-timestamp" data-t="03:47:04">[03:47:04]</a>.
+*   **Net Worth:** Calculated by deducting total liabilities from total assets for the month <a class="yt-timestamp" data-t="03:51:30">[03:51:30]</a>.
+*   **Change in Net Worth:** Calculated by deducting the closing net worth from the opening net worth of assets and liabilities <a class="yt-timestamp" data-t="03:56:06">[03:56:06]</a>.
 
-### 5. Net Worth Summary Database
-This database summarizes all the calculated data <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>, crucial for [[using_notion_to_monitor_financial_summaries_and_net_worth | monitoring financial summaries and net worth]] <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>:
-*   Net worth goal <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
-*   Total net worth amount <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
-*   Amount to goal <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
-*   Total growth in net worth <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
-*   Percentage of the net worth to the targeted net worth <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
-*   All values are pulled from the previously discussed databases and totaled as desired <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>.
+### 5. Net Worth Goal Database
+This database appears to be a smaller, distinct database specifically for setting and referencing the net worth goal, which is then used in the summary section of the dashboard <a class="yt-timestamp" data-t="04:57:48">[04:57:48]</a>.
 
 ## Primary Dashboard
-The primary dashboard of the net worth tracker integrates all the databases to present a cohesive view <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>.
 
-### Summary Section
-Displays the net worth goal, total net worth, amount to goal, total growth, and percentage of net worth goal <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. This section is linked to the net worth goal database and set out in a gallery layout <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+The primary dashboard of the Notion [[tracking_personal_finances_in_notion | net worth tracker]] integrates information from all the databases <a class="yt-timestamp" data-t="04:46:16">[04:46:16]</a>.
 
-### Monthly Net Worth Overview
-Specifies the total assets, total liabilities, net worth, and change in net worth <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>. This is linked to the net worth database and also set out in a gallery layout <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>.
+*   **Summary Section:** This section calculates and displays the net worth goal, total net worth, amount to goal, total growth, and the percentage of the net worth goal achieved <a class="yt-timestamp" data-t="04:48:07">[04:48:07]</a>. It links to the Net Worth Goal Database and is typically set in a gallery layout <a class="yt-timestamp" data-t="04:57:48">[04:57:48]</a>.
+*   **Monthly Net Worth Overview:** Specifies total assets, total liabilities, net worth, and change in net worth <a class="yt-timestamp" data-t="05:03:00">[05:03:00]</a>. This section links to the Net Worth Database and is also set in a gallery layout <a class="yt-timestamp" data-t="05:09:41">[05:09:41]</a>.
+*   **Assets Breakdown and Liabilities Breakdown:** These sections are linked to their respective databases and are displayed in a gallery layout <a class="yt-timestamp" data-t="05:15:02">[05:15:02]</a>.
 
-### Assets Breakdown and Liabilities Breakdown
-These sections are linked to their respective databases and are also displayed in a gallery layout <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>.
+This comprehensive setup allows for detailed [[tracking_personal_finances_in_notion | personal finance tracking]] and visualization within Notion.

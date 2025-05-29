@@ -5,56 +5,59 @@ videoId: p7aozLHRzq0
 
 From: [[theaccountantguy]] <br/> 
 
-This article demonstrates how to utilize a [[managing_debts_and_loans_with_notion | debt payment tracker]] in Notion to manage and pay off debts <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This tool is part of a broader [[setting_up_a_personal_finance_tracker_using_notion | personal finance tracking system]] in Notion, offering specific functionalities for [[using_notion_for_expense_management | expense management]] and [[using_notion_for_bill_tracking | bill tracking]] related to debts.
+This article demonstrates how to utilize a debt payment tracker in Notion to pay off all debts <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This tool helps with [[managing_debt_and_loans_in_notion | managing debt and loans]] by providing a comprehensive overview and tracking system.
 
 ## Debt Overview Section
 
-The "Debt Overview" section divides debts into different categories, such as annual and monthly payments <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
+The debt overview section categorizes debt and provides detailed information for each loan <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
 
-Key details tracked for each debt include:
-*   **Debt Details**: The name or description of the debt <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
-*   **Loan Amount**: The total original loan amount <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
-*   **EMI Amount**: The Equated Monthly Installment (EMI) amount for each payment <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
-*   **Interest Rate**: The specified interest rate for the loan <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
-*   **Initial Repayment**: The date of the first installment payment <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
-*   **Debt Free By**: A calculated date indicating when the debt will be paid off if repayments continue at the specified amount and interest rate <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
-*   **Number of EMIs**: The total number of installments required to pay off the debt <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+### Columns
 
-### Managing Debt Categories
+Each debt entry includes the following details:
+*   **Debt details** <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>
+*   **Loan amount** <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>
+*   **EMI amount**: The amount paid for each installment <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+*   **Interest rate**: User-specifiable <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+*   **Initial repayment**: The first installment payment date <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+*   **Debt free by**: A calculated date showing when the debt will be paid off if repayments continue at the specified amount and interest rate <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+*   **Number of EMIs**: Indicates how many installments are left for the debt <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
 
-Users can add new payment categories (e.g., "Weekly") by clicking the "add a group" button and specifying the new installment period <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. The system includes common payment schedules, such as annual, monthly, quarterly, and weekly repayments <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. Debts can be moved between different repayment schedules by dragging and dropping them into the desired category, which automatically updates their repayment schedules and other related calculations <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+### Categories
 
-### Adding and Editing Debt Details
-
-*   **Adding New Debt**: A new debt can be quickly added by clicking the "add details" button, which places it under a "no payment frequency" column <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. Once added, it can be moved to the appropriate frequency, and details can be input <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
-*   **Editing Existing Debt**: To edit existing loan details, simply click on the debt field and type the desired changes; updates will reflect across all relevant columns and descriptions <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
+Debts are divided into different categories based on payment frequency, such as annual and monthly payments <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. Additional categories like weekly and quarterly repayments are also available <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. Users can add new installment periods by clicking the "add a group" button <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. Existing debts can be moved between different repayment schedules <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
 
 ## Debt Payoff Progress Section
 
-This section provides a summary of all loans and their payoff status <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. It includes:
-*   **Total Amount Repaid**: The sum of all installments paid so far <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. This amount is automatically updated when any EMI for a loan is paid <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
-*   **Net Payoff in Percentage**: The percentage of the total debt that has been paid off <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
-*   **Debt Free By**: A quick reference to the projected debt-free date <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
-*   **Interest Amount**: The total interest paid so far <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
-*   **Principal Amount Repaid**: The portion of payments that have gone towards reducing the principal debt amount <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
+This section provides a quick summary of the overall debt payoff status <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+It reflects:
+*   All current loans <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
+*   The total amount repaid, which updates automatically from recorded installments <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+*   Net payoff in percentage, showing how much of the total debt has been paid off <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
+*   The estimated debt-free date <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+*   The total interest amount paid so far <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
+*   The total principal amount repaid <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
 
-> Every amount paid towards debt repayment is split into interest and principal amounts, which are reported at the bottom of the section <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. All progress metrics update automatically as payment details are added <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+## Transaction Section (Installments)
 
-## Transaction Section
-
-The "Transaction Section" centralizes all debt payment records <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
+This section allows users to track all debt payments made <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
 
 ### Paid Installment Section
 
-This part displays all paid debts, categorized by month, with the most recent month appearing at the top <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>. A quick summation shows the total EMIs paid for each month <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+This part reflects all paid debts, bifurcated by month, with the latest month appearing at the top <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>. It provides a summation of all EMIs paid for each particular month <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
 
-For each payment, the following details are available:
-*   **Paid Status**: A toggle to mark if the amount has been paid <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. Ticking this automatically updates the payment status in the paid/unpaid columns <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
-*   **Payment Date**: The date the payment was made <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
-*   **Loan Details**: A dropdown to select the specific loan associated with the payment <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
-*   **EMI Amount of Payment**: The amount paid for that installment <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
-*   **Next Repayment Schedule**: Automatically generated based on the debt's set payment frequency (e.g., if a student loan has monthly payments, a September 30 payment will show October 30 as the next payment date) <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. For annual loans, like a home loan, a payment on September 27, 2023, will generate a next repayment date of September 27, 2024 <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>.
+### Payment Details
 
-A "pay debt amount" button automatically adds a new debt payment entry to the schedule for the current date, allowing users to quickly input details and descriptions <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>.
+For each installment, users can record:
+*   Whether the amount has been paid (ticking a box automatically updates the status from unpaid to paid) <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+*   The payment date <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
+*   The specific loan details <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+*   The EMI amount paid <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
+*   The next repayment schedule, which automatically updates based on the set payment frequency <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. For example, a student loan set for monthly payments will show the next payment one month later <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>, while an annual home loan will show the next payment a year later <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
 
-This detailed [[setting_up_a_personal_finance_tracker in Notion | personal finance tracker]] provides a comprehensive overview and management tool for debts, similar to how Notion can be used for [[using_notion_for_tax_payment_tracking | tax payment tracking]] or [[using_notion_for_investment_tracking | investment tracking]].
+### Adding and Editing Details
+
+*   **Adding a new debt**: Click the "add details" button to quickly add a new debt, initially placed in the "no payment frequency" column <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. Once moved to a specific frequency, it updates accordingly <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+*   **Editing existing loan details**: Click on the debt field and type in changes, which automatically update across all relevant columns and descriptions <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
+*   **Adding a new debt payment**: Click the "pay debt amount" button to automatically add a new debt payment to the schedule, set to the current date <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>.
+
+All updates to payments and debt details are reflected automatically in the debt payoff progress section <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. This tool is effective for [[creating_a_notion_debt_tracker | creating a Notion debt tracker]] and for [[managing_debt_and_loans_in_notion | managing debt and loans]].

@@ -5,65 +5,80 @@ videoId: L97DyZ7U_VA
 
 From: [[theaccountantguy]] <br/> 
 
-This article explains how to [[using_notion_for_calculations | use Notion for calculations]], specifically how to calculate the sum of a column, display it in another database, and perform percentage calculations using a combination of rollup and formula properties <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. The examples focus on [[managing_sales_data_with_formulas_in_notion | managing sales data with formulas in Notion]].
+To calculate the sum of a column and perform further calculations like percentages within Notion, you can leverage a combination of rollup and formula properties across two interconnected databases <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
 
-## Calculating the Sum of a Column
+## Scenario Setup
 
-To calculate the sum of values in a column across multiple rows, you can use a combination of related databases and rollup properties.
+Imagine a database listing sales people and their respective sales amounts <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. For example:
+*   Harry: $2,100 <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>
+*   Eric: $3,400 <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>
+*   Peter: $5,400 <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>
+The goal is to calculate the total sum of these amounts ($10,900) <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a> and potentially calculate individual sales as a percentage of this total <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
 
-### Scenario Setup
-Consider a database with `Sales People` listed in rows, each with an `Adjustment Column` showing their `Sales Amount`. For example, Harry has $2,100, Eric has $3,400, and Peter has $5,400 <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. The goal is to see the total sum of these amounts (e.g., $10,900) in an adjacent column <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+## Step-by-Step Implementation
 
-### Creating a Second Database
-First, create a new database, for instance, named `Total Sales` <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. Delete any default rows or columns not needed <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+### 1. Create a Second Database
 
-### Establishing a Relationship
-1.  In the main `Sales People` database, add a new property by clicking the plus icon <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
-2.  Select `Relation` as the property type <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
-3.  Select the `Total Sales` database to create a relationship <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
-4.  Configure the relationship names for clarity:
-    *   In the first database (Sales People), name it `Total Sales` <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
-    *   In the second database (Total Sales), name it `Sales Details` <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
-    *   This action adds a new column in both databases <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
-5.  In the `Total Sales` column of the main `Sales People` database, click on the column cells and select the single entry available from the `Total Sales` database <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. Copy this down to all sales people's data <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. This links all sales records to the single entry in the `Total Sales` database <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+Begin by creating a new database for the aggregate data.
+*   Type `/database` to create a new database <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+*   Name it "total sales" <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+*   Delete any default rows in this new database <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
 
-### Using Rollup Property to Sum
-1.  In the `Total Sales` database, add a new property by clicking the plus button <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
-2.  Select `Rollup` as the property type <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
-3.  Configure the rollup:
-    *   Select the `Sales Details` relationship that was just established <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
-    *   Choose `Sales` (the column containing the sales amounts) as the property to roll up <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
-    *   Under `Calculate`, select `Sum` to aggregate all the sales values from the first database <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
-    *   Name this column (e.g., `Total Sales Rollup`) <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
-    This now displays the total sum of sales in the `Total Sales` database <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
+### 2. Establish a Relation Property
 
-## Displaying the Total Sum in the First Database
+A relation property links entries between two databases.
+*   In your *first* database (e.g., "Sales People"), click the "plus" button to add a new property <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+*   Select "Relation" as the property type <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+*   Choose the "total sales" database to create the relationship <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+*   Configure the property names for clarity:
+    *   In the *first* database, name it "total sales" <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+    *   In the "total sales" database, name it "sales details" <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
+*   Once created, a new column will appear in both databases <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
+*   In the first database, link all entries (sales people) to the single entry in the "total sales" database by selecting "total sales" in the new column for each row <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This will populate the "sales details" column in the second database with all linked sales people <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
 
-To get this calculated total sum back into the original `Sales People` database, an intermediate step involving a formula is required.
+### 3. Calculate Sum using Rollup Property
 
-### Challenge with Direct Rollup
-A rollup value in one database (e.g., `Total Sales Rollup`) cannot be directly rolled up onto another database if it's already a numerical rollup <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. You must first convert this rollup value into a formula property <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
+Now, use a rollup property in the "total sales" database to aggregate the sales data.
+*   In the *second* database ("total sales"), add a new property <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
+*   Select "Rollup" as the property type <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+*   In the rollup settings:
+    *   Choose "sales detail" as the relation <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
+    *   Select the "sales" property to roll up <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+    *   Under "Calculate," choose "Sum" to get the total <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+*   Name this property "total sales R" (Rollup) <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. This property now displays the sum of all sales from the first database <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
 
-### Using a Formula Property
-1.  In the `Total Sales` database, add another property and name it (e.g., `Total Sales`) <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
-2.  Change its type to `Formula` <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
-3.  In the formula editor, simply link it to the `Total Sales Rollup` property created earlier. This just passes the rollup value into a formula property <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
-4.  Optionally, format the number as currency (e.g., dollars) <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
+### 4. Convert Rollup to Formula Property
 
-### Rolling Up the Formula
-1.  Return to the original `Sales People` database. Add a new `Rollup` property <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
-2.  Select `Total Sales` as the relationship <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
-3.  Now, select the `Total Sales` formula property from the `Total Sales` database <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>.
-4.  Under `Calculate`, select `Sum` <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
-    The total sales value from the second database is now visible in the first database <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. Name this column (e.g., `Sales Total`) <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+A direct rollup of a numerical value from another database cannot be rolled up *back* to the original database for calculations <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. To overcome this, convert the rollup value into a [[formulas_in_notion | formula]] property.
+*   In the *second* database ("total sales"), add another new property <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
+*   Name it "Total Sales" <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+*   Set its type to "Formula" <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+*   The [[creating_and_saving_custom_formulas_in_notion | formula]] is simply `prop("total sales R")` to link it to the rollup value <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
+*   Optionally, change the number format to "Dollars" or your preferred currency <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
 
-## Advanced Calculation: Percentage of Total Sales
-You can [[displaying_percentage_calculations_in_notion | display percentage calculations in Notion]] by [[using_formulas_in_notion | using formulas in Notion]] to show each individual sale's contribution to the total.
+### 5. Rollup Total Sales Back to the First Database
 
-1.  In the `Sales People` database, add a new `Formula` property named `Sales in Percentage` <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
-2.  Enter the formula to divide individual `Sales` by the `Sales Total` (the rollup property just created): `prop("Sales") / prop("Sales Total")` <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
-3.  To format it to two decimal places, wrap the calculation using the `round` function: `round(prop("Sales") / prop("Sales Total") * 100) / 100` <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
-4.  Click on the property, select `Edit Property`, and change the `Number format` to `Percentage` <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
-5.  Optionally, select a `Bar` under `Show as` to get a visual representation of the percentage <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+Now you can bring the total sales value back to your main database.
+*   In the *first* database (e.g., "Sales People"), add a new "Rollup" property <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+*   Select "total sales" as the relationship <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
+*   Choose the newly created "Total Sales" formula property to roll up <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>.
+*   Set the "Calculate" option to "Sum" <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
+*   Name this property "Sales (Total)" <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+*   This column will now display the grand total sales value in each row of your main database <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
 
-Any changes made to individual sales values will automatically update the `Sales Total` and the `Sales in Percentage` calculations <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. This demonstrates how to [[using_formulas_to_add_numbers_in_notion | use formulas to add numbers in Notion]] and derive further insights.
+### 6. Calculate Sales Percentage
+
+With individual sales and the total sales in the same database, you can calculate percentages using another [[formulas_in_notion | formula]] property.
+*   In the *first* database, add a new "Formula" property <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+*   Name it "Sales in percentage" <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+*   The basic [[applying_formula_for_multiplication_in_notion | formula]] to divide individual sales by total sales is `prop("Sales") / prop("Sales (Total)")` <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
+
+### 7. Format the Percentage
+
+To present the percentage cleanly:
+*   **Round to two decimal places:** Use the `round()` function and multiply/divide by 100 within the [[using_excellike_formulas_in_notion | formula]]:
+    `round(prop("Sales") / prop("Sales (Total)") * 100) / 100` <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>
+*   **Change number format to Percentage:** Click on the property header, select "Edit property," and change "Number format" to "Percentage" <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
+*   **Add a progress bar (optional):** In the "Edit property" settings, under "Show as," select "Bar" for a visual representation <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+
+Any changes to individual sales amounts will automatically update the total sales and percentage calculations across both databases <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. This method allows for complex calculations and dashboards within Notion <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>.

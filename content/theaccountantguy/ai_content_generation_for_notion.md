@@ -5,31 +5,34 @@ videoId: N6ZRlsRS54M
 
 From: [[theaccountantguy]] <br/> 
 
-Wien is a platform designed to help users [[generating_ai_content_on_notion_pages_and_databases | create AI generated content]] directly within their Notion workspace <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This functionality supports content creation on both individual Notion pages and Notion databases <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+Wien is a platform designed to help users [[generating_ai_content_on_a_notion_database | create AI generated content]] directly into their Notion workspace <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
 
-## Content Creation Options in Notion
+## Methods of Content Generation
 
-Wien offers two primary options for content generation within Notion:
+Wien offers two primary options for [[creating_content_on_notion_pages | creating content]] within Notion:
+1.  **Notion Page** <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>: This refers to a simple, blank page created within Notion <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+2.  **Notion Database** <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>: A database is structured in rows and columns, commonly used within Notion <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
 
-*   **Notion Page**: This refers to a simple, blank page created within Notion <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
-*   **Notion Database**: This is structured content presented in the form of rows and columns <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+Wien is capable of [[creating_ai_generated_content_on_a_notion_page | generating AI content]] on both these page types <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
 
-The platform can [[generating_ai_content_on_notion_pages_and_databases | generate AI-generated content]] on both [[creating_content_on_notion_pages_vs_notion_databases | Notion pages]] and databases <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+## How to Generate Content
 
-## Generating Content on a Notion Page
+### For a Notion Page
 
-To [[generating_ai_content_on_notion_pages_and_databases | generate AI content]] on a Notion page, the process involves a few steps:
-1.  **Select Connection Type**: Choose "Notion Page" as the connection type <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
-2.  **Provide URL**: Input the URL of the specific Notion page where content is to be generated <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
-3.  **Enter Prompt**: Provide a prompt detailing the desired content, such as "write me a block of 100 words on Notion" <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+To [[creating_ai_generated_content_on_a_notion_page | generate content]] on a Notion page using Wien:
+1.  Provide a name for the connection (e.g., "notion page") <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+2.  Select "notion page" as the content destination <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+3.  Copy the URL of the Notion page and paste it into the URL section <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+4.  Input a prompt for the AI, such as "write me a block of 100 words on notion" <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+5.  Once the prompt is entered, the [[creating_ai_generated_content_on_a_notion_page | AI content]] will be generated directly on the specified Notion page <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
 
-Once the prompt is entered, the AI will [[generating_ai_content_on_notion_pages_and_databases | generate content]] directly onto the specified Notion page <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+### For a Notion Database
 
-## Generating Content on a Notion Database
+To [[generating_content_in_notion_databases | generate content]] within a Notion database using Wien:
+1.  Enter a name for the connection (e.g., "notion database") <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+2.  Select "notion database" as the content destination <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+3.  Copy the URL of the Notion database and paste it into the URL section <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+4.  Input a prompt, for instance, "write me a block of 100 words on the topic" <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
+5.  The AI will then populate content for each row (or topic) within the database <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>, filling in the previously empty sections <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. This demonstrates how Wien can capture every row and generate content accordingly <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
 
-[[generating_ai_content_on_notion_pages_and_databases | Generating AI content]] within a Notion database allows for populating multiple entries based on existing data within the database <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
-1.  **Select Connection Type**: Choose "Notion Database" as the connection type <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
-2.  **Provide URL**: Copy and paste the URL of the Notion database <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
-3.  **Enter Prompt**: Define the content generation criteria. For example, if the database has different topics in its rows, a prompt like "write me a block of 100 words on the topic" can be used to generate content for each topic <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
-
-The AI will then automatically [[generating_ai_content_on_notion_pages_and_databases | generate content]] for each relevant row or topic within the database <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>, with content populating across various sections <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. This demonstrates how Wien can be utilized for [[generating_ai_content_on_notion_pages_and_databases | AI content generation]] for both Notion pages and databases <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
+This functionality allows users to utilize Wien for [[generating_ai_content_on_a_notion_database | generating AI content]] for both Notion pages and Notion databases <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
