@@ -1,0 +1,55 @@
+---
+title: Competition and market dynamics in the payment industry
+videoId: akO8qAx4xjY
+---
+
+From: [[acquiredfm]] <br/> 
+
+The payment industry has undergone a profound [[evolution_of_the_payments_landscape | evolution of the payments landscape]], shifting from basic cash and check transactions to complex global electronic networks. This transformation has been driven by both [[technological_innovations_in_payment_systems | technological innovations in payment systems]] and dynamic market forces, shaping the competitive landscape.
+
+## Early Payment Methods and Emergence of Credit
+
+Historically, transferring money in the US was primarily limited to cash and checks <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>. Checks, while functional, were inefficient due to fees, long processing times, and manual clearing processes <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>. This inefficiency spurred merchants to offer individual "charge accounts" for regular customers <a class="yt-timestamp" data-t="00:13:27">[00:13:27]</a>. This concept evolved to cards accepted across all branches of a single brand, such as Standard Oil's unsolicited card mailings in 1939 <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>.
+
+As local retailers began collaborating on shared charge account systems to simplify back-office operations and benefit from shared credit histories, the inherent tension of competition within these networks emerged <a class="yt-timestamp" data-t="00:15:10">[00:15:10]</a>. Merchants, while valuing the convenience, were hesitant to enable shopping at competitors <a class="yt-timestamp" data-t="00:16:30">[00:16:30]</a>. This led to the rise of independent, third-party, for-profit networks.
+
+## The Rise of Independent Networks: Diner's Club and American Express
+
+Diner's Club launched in 1950, targeting businesspeople in Manhattan restaurants, offering a single statement for expenses and emphasizing convenience over carrying cash <a class="yt-timestamp" data-t="00:17:26">[00:17:26]</a>. They charged restaurants a significant 5-7% discount rate on transactions <a class="yt-timestamp" data-t="00:19:41">[00:19:41]</a>. American Express (AMX), originally an express mail and traveler's checks business, observed Diner's Club and entered the market in 1958 <a class="yt-timestamp" data-t="00:25:02">[00:25:02]</a>, quickly gaining 700,000 members due to existing relationships with companies, restaurants, and hotels <a class="yt-timestamp" data-t="00:26:15">[00:26:15]</a>. Both Diner's Club and AMX operated as "closed-loop systems," meaning the same entity issued the card and acquired the merchant relationship <a class="yt-timestamp" data-t="00:46:50">[00:46:50]</a>.
+
+## Bank of America's Innovation and the Birth of Open-Loop Systems
+
+Bank of America (BofA), then the largest consumer bank in America, launched its "BankAmericard" in Fresno, California, in 1958 <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. Unlike existing charge cards, BankAmericard introduced the revolutionary concept of "revolving credit," allowing cardholders to roll over balances into a loan with interest <a class="yt-timestamp" data-t="00:28:48">[00:28:48]</a>. This innovation streamlined BofA's diverse lending programs and boosted loan volume <a class="yt-timestamp" data-t="00:27:34">[00:27:34]</a>.
+
+Despite initial losses due to fraud (22% delinquency in Fresno's pilot) <a class="yt-timestamp" data-t="00:32:38">[00:32:38]</a>, BofA's size allowed it to absorb these costs. By 1961, the program was profitable, but BofA kept this quiet, leading other banks to abandon similar efforts <a class="yt-timestamp" data-t="00:36:38">[00:36:38]</a>.
+
+In 1966, BofA unveiled its "BankAmericard Service Organization" to license the program to other banks nationwide <a class="yt-timestamp" data-t="00:38:29">[00:38:29]</a>. This marked the shift to an "open-loop system," where different banks could issue cards (issuing banks) and acquire merchant relationships (acquiring banks), creating the need for a neutral network to settle transactions, known as "interchange" <a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>.
+
+## The Duopoly Takes Shape: Visa and Mastercard
+
+The friction between BofA and its licensees over operational services and standardization led to the formation of National BankAmericard Inc. (NBI) in 1968, the precursor to Visa <a class="yt-timestamp" data-t="01:16:15">[01:16:15]</a>. Led by Dee Hock, NBI adopted a unique "for-profit non-stock membership corporation" structure, owned by its member banks with irrevocable, non-transferable participation rights <a class="yt-timestamp" data-t="01:18:24">[01:18:24]</a>. This model, likened to "communist capitalism" or a "reverse holding company" like the NFL (where teams own the league) <a class="yt-timestamp" data-t="01:19:15">[01:19:15]</a>, enabled collaboration among competing institutions.
+
+Concurrently, various regional bank consortiums merged to form "Interbank," which later became Master Charge and then Mastercard <a class="yt-timestamp" data-t="01:49:36">[01:49:36]</a>. Initially, NBI aimed for exclusivity, but a 1975 [[power_and_competition_in_technology_markets | Department of Justice (DOJ) antitrust lawsuit]] mandated "duality," allowing banks to multi-home on both Visa and Master Charge networks <a class="yt-timestamp" data-t="01:40:37">[01:40:37]</a>. Hock famously predicted this would freeze competition and innovation, a prediction arguably validated by the duopoly's persistence <a class="yt-timestamp" data-t="01:41:06">[01:41:06]</a>.
+
+The name "Visa" was adopted in 1976 for its global universality, leveraging the existing blue, white, and gold brand mark from BankAmericard, while allowing issuing banks to co-brand the cards <a class="yt-timestamp" data-t="01:33:40">[01:33:40]</a>. This name change, combined with an "arms race" among banks to issue cards, rapidly expanded Visa's network, propelling it past Master Charge in cardholders and participating banks <a class="yt-timestamp" data-t="01:35:32">[01:35:32]</a>.
+
+## Technology as a Competitive Advantage
+
+The growth of these networks was underpinned by significant [[technological_infrastructure_of_payment_systems | technological infrastructure of payment systems]] development:
+*   **Transaction Authorizations (BASE)**: Replacing manual phone calls, Visa built its own nationwide (and later worldwide) telecommunications network and centralized data centers (like the one in San Mateo) to provide instant authorization, overcoming initial vendor challenges <a class="yt-timestamp" data-t="01:52:56">[01:52:56]</a>.
+*   **Settlement (BASE II)**: To manage the "n-squared problem" of complex inter-bank settlements, Visa built an "Automated Clearing House" (ACH) for electronic batch processing, reducing settlement times from weeks to overnight <a class="yt-timestamp" data-t="02:00:41">[02:00:41]</a>. This happened concurrently with the Federal Reserve building its own ACH system <a class="yt-timestamp" data-t="02:01:42">[02:01:42]</a>.
+*   **Point-of-Sale Digitization**: The adoption of magnetic stripe technology on cards and the proliferation of digital point-of-sale terminals (e.g., Verifone) allowed for fully digitized transactions <a class="yt-timestamp" data-t="02:08:41">[02:08:41]</a>. Merchants were incentivized with lower fees for using these systems <a class="yt-timestamp" data-t="02:11:01">[02:11:01]</a>. This drastically cut down fraud and made the network infinitely scalable with near-zero marginal costs <a class="yt-timestamp" data-t="02:15:29">[02:15:29]</a>.
+
+## Modern Market Dynamics and Future Challenges
+
+Today, Visa processes $14 trillion in volume and 190 billion transactions annually, with 50% net income margins and 98% gross margins <a class="yt-timestamp" data-t="02:46:06">[02:46:06]</a>, <a class="yt-timestamp" data-t="02:49:15">[02:49:15]</a>. This incredible profitability stems from its powerful network effects and scale economies. The core revenue comes from "assessment fees" (network fees) <a class="yt-timestamp" data-t="02:30:19">[02:30:19]</a>, while banks earn "interchange fees" (the largest share) and "interest payments" on revolving credit <a class="yt-timestamp" data-t="02:31:21">[02:31:21]</a>, <a class="yt-timestamp" data-t="02:59:25">[02:59:25]</a>. Merchants bear the "merchant discount rate," a key point of contention.
+
+The system's stability is reinforced by the difficulty of building a new two-sided network from scratch, especially without the ability to indiscriminately issue credit lines as BofA did <a class="yt-timestamp" data-t="02:43:02">[02:43:02]</a>. Consumers, especially those with rewards cards, largely benefit from the current system, making them advocates against change <a class="yt-timestamp" data-t="02:39:44">[02:39:44]</a>.
+
+However, the duopoly faces potential disruptions:
+*   **Real-Time Payments**: Countries like Brazil (Pix) and India (UPI) have adopted government-mandated real-time payment networks that bypass card systems <a class="yt-timestamp" data-t="03:24:04">[03:24:04]</a>. The US FedNow system also represents a shift, though adoption is slower <a class="yt-timestamp" data-t="03:24:36">[03:24:36]</a>.
+*   **Closed-Loop Digital Ecosystems**: The rise of super apps and mobile wallets, particularly in China (Alipay, WeChat Pay), demonstrates the potential for payments to occur within a closed ecosystem, outside traditional card networks <a class="yt-timestamp" data-t="03:21:56">[03:21:56]</a>. While US apps like Starbucks still rely on cards for funding, Apple Pay and Google Pay collect small fees on transactions <a class="yt-timestamp" data-t="03:25:35">[03:25:35]</a>. Should Apple or Google acquire payment processing capabilities (e.g., Square), they could potentially create their own closed-loop networks, bypassing Visa/Mastercard altogether <a class="yt-timestamp" data-t="03:26:19">[03:26:19]</a>.
+*   **Maturing Core Business**: With over 50% of consumer payments already digitized, the long-standing tailwind of conversion from cash to digital is slowing <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>.
+*   **Regulatory Scrutiny**: The ongoing merchant-led antitrust lawsuits demonstrate continued pressure on interchange fees <a class="yt-timestamp" data-t="02:55:21">[02:55:21]</a>.
+
+Despite these challenges, Visa's growth avenues include tokenization services, expansion into B2B payments (a $120 trillion market) and business-to-consumer push payments (e.g., Visa Direct for payouts), and increased cross-border transaction volume <a class="yt-timestamp" data-t="03:32:02">[03:32:02]</a>, <a class="yt-timestamp" data-t="03:33:17">[03:33:17]</a>. The company's resilience is attributed to its unparalleled five-sided network effect and consistent innovation in both organizational structure and technology <a class="yt-timestamp" data-t="03:30:21">[03:30:21]</a>, <a class="yt-timestamp" data-t="03:13:21">[03:13:21]</a>.

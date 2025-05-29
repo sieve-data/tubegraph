@@ -1,0 +1,58 @@
+---
+title: Healthcare System Challenges and Pharmaceutical Economics
+videoId: EixhVBV2yzo
+---
+
+From: [[acquiredfm]] <br/> 
+
+The U.S. healthcare system is characterized by its unique complexity, often challenging to fully comprehend due to its numerous interconnected parties and processes <a class="yt-timestamp" data-t="01:23:09">[01:23:09]</a>. While the basic transaction involves a patient purchasing a drug <a class="yt-timestamp" data-t="01:23:25">[01:23:25]</a>, the underlying mechanisms are far from simple. Key players include drug manufacturers, distributors like McKesson and Cardinal Health, pharmacies such as CVS, insurance companies, and Pharmacy Benefits Managers (PBMs) <a class="yt-timestamp" data-t="01:23:39">[01:23:39]</a>. The complexity arises because consumers typically do not pay the full price at the pharmacy, with insurance companies covering the cost <a class="yt-timestamp" data-t="01:24:06">[01:24:06]</a>. This multitude of middlemen complicates market function, obscures demand signals, and can reduce patients to mere statistics <a class="yt-timestamp" data-t="01:25:31">[01:25:31]</a>.
+
+## The Pharmacy Benefits Manager (PBM) Role
+
+Pharmacy Benefits Managers (PBMs) are central to the pricing and distribution of prescription drugs in the U.S. They negotiate discounts with pharmaceutical companies, often in the form of rebates, which are then paid back to the PBM <a class="yt-timestamp" data-t="01:24:40">[01:24:40]</a>. PBMs retain a portion of these discounts before passing the remainder to insurance companies <a class="yt-timestamp" data-t="01:24:50">[01:24:50]</a>.
+
+PBMs manage pharmacy benefits for approximately 266 million Americans as of 2016 <a class="yt-timestamp" data-t="01:28:11">[01:28:11]</a>. Though hundreds of PBMs once existed, the market has consolidated significantly, with fewer than 30 remaining and three major players (Express Scripts, CVS Caremark, and OptumRx) covering roughly 80% of the market <a class="yt-timestamp" data-t="01:28:23">[01:28:23]</a>. This consolidation gives PBMs substantial gatekeeping power, as doctors are unlikely to prescribe drugs not on a major PBM's formulary (list of covered drugs) <a class="yt-timestamp" data-t="01:28:51">[01:28:51]</a>.
+
+Pharmaceutical manufacturers have largely lost their leverage in negotiating with these large PBMs <a class="yt-timestamp" data-t="01:30:20">[01:30:20]</a>. For example, Eli Lily has publicly stated that discounts and rebates accounted for 75% of insulin's sticker price, highlighting the disconnect between list prices and net prices <a class="yt-timestamp" data-t="01:30:32">[01:30:32]</a>. While PBMs claim to pass most rebates to healthcare plans, and those plans may share them with employers, consumers rarely directly benefit from these rebates <a class="yt-timestamp" data-t="01:30:52">[01:30:52]</a>. This convoluted system makes it difficult to ascertain actual demand signals or fair market clearing prices <a class="yt-timestamp" data-t="01:31:31">[01:31:31]</a>.
+
+## Medicare and Medicaid's Role
+
+Medicare, the U.S. federal government's health insurance program for individuals over 65, also plays a crucial role <a class="yt-timestamp" data-t="02:30:20">[02:30:20]</a>. Historically, Medicare did not cover prescription drugs <a class="yt-timestamp" data-t="02:30:36">[02:30:36]</a>. This changed with the passage of Medicare Part D in 2003, which took effect in 2006, allowing drug coverage <a class="yt-timestamp" data-t="02:30:39">[02:30:39]</a>.
+
+### Medicare Part D and Weight Loss Drug Coverage
+Medicare Part D is legally prohibited from covering weight loss medications <a class="yt-timestamp" data-t="02:30:53">[02:30:53]</a>. This prohibition, partly influenced by past scandals like Fen-Phen, also reflects a societal stigma against treating obesity as a disease rather than a lifestyle choice <a class="yt-timestamp" data-t="02:31:07">[02:31:07]</a>. This is despite scientific evidence from the mid-1990s confirming that fat tissues release hormones that affect hunger and fullness, disrupting balance in obese individuals <a class="yt-timestamp" data-t="02:31:38">[02:31:38]</a>.
+
+The government, as the long-term insurer for Medicare recipients, has a vested interest in preventative care to reduce future healthcare costs associated with obesity-related comorbidities (e.g., knee/hip replacements, diabetes treatment, cardiovascular interventions) <a class="yt-timestamp" data-t="02:32:04">[02:32:04]</a>. However, the high list prices of GLP-1 drugs (over $1,200 per person per year) and the sheer number of obese Americans (40% of the population) present a significant short-term budget challenge for payers <a class="yt-timestamp" data-t="02:34:11">[02:34:11]</a>. This leads to intentional slow-rolling and campaigning to encourage other interventions first <a class="yt-timestamp" data-t="02:34:32">[02:34:32]</a>.
+
+Medicaid, on the other hand, is a fragmented system involving various states, making a generalized discussion complex <a class="yt-timestamp" data-t="02:30:11">[02:30:11]</a>.
+
+## Historical Context of Drug Development Costs
+
+Bringing a new drug to market has become exponentially more expensive over time. In 1953, the inflation-adjusted cost for drug approval was $40 million <a class="yt-timestamp" data-t="03:11:03">[03:11:03]</a>. Today, that average cost has soared to $2.5 billion <a class="yt-timestamp" data-t="03:11:08">[03:11:08]</a>. This significant increase in R&D expenditure is a major factor influencing pharmaceutical companies' strategies <a class="yt-timestamp" data-t="02:49:02">[02:49:02]</a>.
+
+The challenge is compounded by the "better than the Beatles problem," where regulatory approval for new drugs requires demonstrating a measurable improvement over existing alternatives <a class="yt-timestamp" data-t="03:10:07">[03:10:07]</a>. This discourages innovation in areas with already effective treatments, pushing companies towards rare diseases or conditions with fewer existing solutions <a class="yt-timestamp" data-t="03:10:11">[03:10:11]</a>.
+
+## Pharmaceutical Industry Economics
+
+### High Risk, High Return
+The pharmaceutical industry operates on a venture-like model: high risk, high potential returns <a class="yt-timestamp" data-t="03:11:46">[03:11:46]</a>. The winners must subsidize the numerous failures <a class="yt-timestamp" data-t="03:11:53">[03:11:53]</a>. Drug research can span over a decade before yielding any fruit <a class="yt-timestamp" data-t="03:12:03">[03:12:03]</a>. For every 100 drugs entering clinical development, only about 10 reach the market <a class="yt-timestamp" data-t="03:12:39">[03:12:39]</a>. Remarkably, one single "Blockbuster" drug can generate half of a pharmaceutical company's total profits <a class="yt-timestamp" data-t="03:12:43">[03:12:43]</a>. Most approved drugs, despite their success, do not even recoup their R&D costs <a class="yt-timestamp" data-t="03:13:02">[03:13:02]</a>. This dynamic necessitates immense capital resources and risk-pooling, driving industry consolidation <a class="yt-timestamp" data-t="03:13:11">[03:13:11]</a>.
+
+### Return on Invested Capital (ROIC)
+Despite high gross margins (e.g., Novo Nordisk at 84%, Eli Lily at 80%) <a class="yt-timestamp" data-t="02:28:28">[02:28:28]</a>, the pharmaceutical industry's overall Return on Invested Capital (ROIC) is not exceptionally high (around 13% industry-wide) <a class="yt-timestamp" data-t="03:24:41">[03:24:41]</a>. This figure accounts for extensive R&D investments and the costs of failed drug candidates <a class="yt-timestamp" data-t="03:24:30">[03:24:30]</a>. However, variance in ROIC among pharmaceutical companies has increased, with successful companies like Novo Nordisk significantly outperforming the median <a class="yt-timestamp" data-t="03:25:55">[03:25:55]</a>.
+
+Pharma is arguably the only sector in healthcare that consistently takes on substantial innovation risk <a class="yt-timestamp" data-t="03:28:51">[03:28:51]</a>. Unlike health insurers, whose profits tend to be stable even during crises <a class="yt-timestamp" data-t="03:30:05">[03:30:05]</a>, Pharma companies' net incomes are often spiky, reflecting the inherent risk of drug development <a class="yt-timestamp" data-t="03:29:14">[03:29:14]</a>.
+
+## The System's Design Flaws
+
+### Acute vs. Chronic Disease Treatment
+The current U.S. healthcare system was primarily designed to treat acute and infectious diseases <a class="yt-timestamp" data-t="03:18:58">[03:18:58]</a>. Hospitals, doctor visits, and medications for infections were highly effective in increasing life expectancy in the past <a class="yt-timestamp" data-t="03:19:05">[03:19:05]</a>. However, the leading causes of death have shifted to chronic illnesses that manifest later in life and are often undetectable for decades <a class="yt-timestamp" data-t="03:19:42">[03:19:42]</a>. Treating conditions like obesity and cardiovascular disease requires a fundamentally different approach, emphasizing prevention rather than waiting for acute symptoms <a class="yt-timestamp" data-t="03:19:55">[03:19:55]</a>. The existing system, consuming 18% of GDP, may no longer be appropriate for these prevalent chronic conditions <a class="yt-timestamp" data-t="03:20:07">[03:20:07]</a>.
+
+### Rising Healthcare Costs
+Healthcare costs in the U.S. have escalated dramatically, from 5% of GDP in 1960 to around 17-18% today <a class="yt-timestamp" data-t="03:14:34">[03:14:34]</a>. Despite this increase, life expectancy in America has declined in recent years <a class="yt-timestamp" data-t="03:16:26">[03:16:26]</a>. While some argue that increased spending reflects more advanced and frequent interventions (e.g., ACL surgeries not available decades ago) <a class="yt-timestamp" data-t="03:21:50">[03:21:50]</a>, the overall trend suggests diminishing returns for each dollar spent <a class="yt-timestamp" data-t="03:14:04">[03:14:04]</a>. The complexity of treating multiple morbidities in an aging population also makes marginal life extension exponentially more expensive <a class="yt-timestamp" data-t="03:17:48">[03:17:48]</a>.
+
+### Insurance vs. Access
+The term "health insurance" in the U.S. is often a misnomer; it functions more as "access" to care <a class="yt-timestamp" data-t="03:29:57">[03:29:57]</a>. Private insurers often have short time horizons, with the average American holding a job for 3.7 years <a class="yt-timestamp" data-t="02:28:34">[02:28:34]</a>. This incentivizes them to cover only immediate costs or highly demanded services, rather than long-term preventative care whose benefits might accrue to a different insurer or Medicare later <a class="yt-timestamp" data-t="02:29:50">[02:29:50]</a>. Health insurers' profits have remained stable or grown even during major health crises like COVID-19, indicating that they do not truly bear the risk of catastrophic losses, which instead falls to the government (taxpayers) <a class="yt-timestamp" data-t="03:30:05">[03:30:05]</a>.
+
+## Conclusion
+
+The U.S. healthcare system's intricate structure, driven by numerous intermediaries and misaligned incentives, presents significant challenges. While pharmaceutical companies bear substantial R&D risk in developing life-changing drugs, other segments of the industry, such as PBMs and insurance companies, benefit from consolidation and opaque pricing mechanisms, contributing to high costs without necessarily driving innovation.

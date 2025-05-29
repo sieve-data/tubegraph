@@ -1,0 +1,45 @@
+---
+title: The Showtime series Super Pumped
+videoId: paselmUuyjw
+---
+
+From: [[acquiredfm]] <br/> 
+
+*Super Pumped* is a Showtime series that premiered on February 27th <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. It is based on the events leading up to Uber's IPO and the "implosion" around it <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. The series aims to bring the "insane story" of Uber to entertainment and pop culture <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+
+## Creative Team and Origin
+The series is executive produced, written, and showrun by Brian Koppelman, David Levien, and Beth Schachter <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>, <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>, <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>. Joseph Gordon-Levitt stars in the series <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
+
+The project originated when Mike Isaac, the author of the book *Super Pumped*, direct messaged Brian Koppelman on Twitter about his book five months before its release <a class="yt-timestamp" data-t="00:37:54">[00:37:54]</a>, <a class="yt-timestamp" data-t="00:38:08">[00:38:08]</a>. Koppelman read it, loved it, and committed to adapting it <a class="yt-timestamp" data-t="00:38:14">[00:38:14]</a>. Mike Isaac was deeply involved, spending "94 of the 100" days in the writer's room as a co-executive producer and providing notes on every script <a class="yt-timestamp" data-t="00:38:39">[00:38:39]</a>, <a class="yt-timestamp" data-t="00:38:57">[00:38:57]</a>. He would even bring sources into Zoom calls for real-time insights <a class="yt-timestamp" data-t="00:39:06">[00:39:06]</a>.
+
+## Casting and Character Portrayal
+Joseph Gordon-Levitt was the first choice to play Travis Kalanick (TK) <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>. His agent, Warren Zavala, who has been Gordon-Levitt's agent since he was 19, brought him the script with rare enthusiasm <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>, <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. Gordon-Levitt read the script in New Zealand and quickly agreed to the role <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
+
+The creators sought an actor who could project intelligence and was willing to portray unsavory or morally questionable actions without trying to protect their image <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>, <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>. Gordon-Levitt's "thoughtful and smart" approach to his work, including doing research and mastering scenes, made him ideal <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>, <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+
+Joseph Gordon-Levitt describes his motivation for taking the role as stepping into an arena to "be that guy" who indulges "animal instinct" and takes what he wants at all costs <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>, <a class="yt-timestamp" data-t="00:14:05">[00:14:05]</a>. He spoke with many people who worked closely with Travis Kalanick to understand not just events, but how it felt to be in the room with him, discovering positive traits like his inspiring and compelling energy <a class="yt-timestamp" data-t="00:20:02">[00:20:02]</a>, <a class="yt-timestamp" data-t="00:21:04">[00:21:04]</a>. His goal was to make the audience "love this guy but also then be confronted with oh no this person who I was sort of falling in love with is doing some really seemingly terrible things" <a class="yt-timestamp" data-t="00:21:22">[00:21:22]</a>.
+
+The casting also notably includes Kyle Chandler, Uma Thurman, and Kerry Bishé, all first choices for their roles <a class="yt-timestamp" data-t="00:11:49">[00:11:49]</a>. David Krumholtz was praised for his "inspired casting" as Sergey Brin <a class="yt-timestamp" data-t="00:31:33">[00:31:33]</a>.
+
+## Themes and Storytelling
+The series addresses profound questions, such as the cost of disruption and the price paid for new utilities or changes in infrastructure <a class="yt-timestamp" data-t="00:15:17">[00:15:17]</a>. It also explores whether revolutionaries, after unseating "fascists," can avoid becoming fascists themselves <a class="yt-timestamp" data-t="00:15:46">[00:15:46]</a>.
+
+Joseph Gordon-Levitt highlighted the show's focus on the trend of "profits above all" and "shareholder value up before everything" <a class="yt-timestamp" data-t="00:14:03">[00:14:03]</a>. He believes this mentality, particularly prevalent in Silicon Valley, is dangerous and needs to change to avoid driving humanity "off a cliff" <a class="yt-timestamp" data-t="00:14:19">[00:14:19]</a>, <a class="yt-timestamp" data-t="00:14:34">[00:14:34]</a>.
+
+The dialogue in the show is described as "fireworks" and full of "well-written profanity" <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>, <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>. The show uses "non-mainstream filmmaking techniques" and "bold risks to screw with the audience's perception" <a class="yt-timestamp" data-t="00:33:33">[00:33:33]</a>. For example, it dramatizes Travis Kalanick's memory of an event, then reveals the "real story" behind it <a class="yt-timestamp" data-t="00:32:11">[00:32:11]</a>. This approach leverages the disruptive nature of the story itself to disrupt storytelling forms <a class="yt-timestamp" data-t="00:34:10">[00:34:10]</a>.
+
+## Production Details
+The series was primarily filmed in Los Angeles, mostly on the Paramount lot in sound stages, with only a few days of exterior shooting in San Francisco <a class="yt-timestamp" data-t="00:39:31">[00:39:31]</a>, <a class="yt-timestamp" data-t="00:39:37">[00:39:37]</a>.
+The daily schedule on set typically involves minimum 12-hour days, often extending to 13-15 hours, with a mandatory 12-hour turnaround between shifts <a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>, <a class="yt-timestamp" data-t="00:46:09">[00:46:09]</a>. This often results in schedules that shift later into the day or night throughout the week <a class="yt-timestamp" data-t="00:46:31">[00:46:31]</a>.
+
+## Reception and Intent
+While acknowledging that some viewers might be inspired by certain characters, the creators hope the show serves as a "cautionary tale" rather than a "glorification of that behavior" <a class="yt-timestamp" data-t="00:24:01">[00:24:01]</a>, <a class="yt-timestamp" data-t="00:24:01">[00:24:01]</a>. They believe that over time, the audience will understand the "emptiness" and "cost" of the characters' actions, similar to how *The Wolf of Wall Street* is eventually understood <a class="yt-timestamp" data-t="00:25:21">[00:25:21]</a>.
+
+The goal is to shine a light on what it means to be a "bad guy" and "what we're saying as a society when we prop up people who have incredible verbal acuity and great math skills and the ability to galvanize" <a class="yt-timestamp" data-t="00:26:29">[00:26:29]</a>. They hope the series encourages empathy for individuals like mistreated office staff or drivers who faced unexpected financial ruin <a class="yt-timestamp" data-t="00:27:02">[00:27:02]</a>, <a class="yt-timestamp" data-t="00:27:06">[00:27:06]</a>.
+
+Brian Koppelman shared that he did not speak to the real people portrayed in the show, instead relying entirely on Mike Isaac's book as the source material <a class="yt-timestamp" data-t="00:19:02">[00:19:02]</a>, <a class="yt-timestamp" data-t="00:19:20">[00:19:20]</a>.
+
+## Notable Mentions
+*   **Bill Gurley:** The series features Bill Gurley, a prominent venture capitalist, as a primary character <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>. Koppelman acknowledges that his role as a VC as a main character is unusual for a show of this type <a class="yt-timestamp" data-t="00:17:52">[00:17:52]</a>.
+*   **Jeff Bezos:** A scene in the series depicts Travis Kalanick watching a YouTube video of Jeff Bezos, played by a familiar actor, who famously brought Bezos's distinctive laugh to the portrayal <a class="yt-timestamp" data-t="00:42:14">[00:42:14]</a>, <a class="yt-timestamp" data-t="00:42:36">[00:42:36]</a>. The choice to cast an actor instead of using actual footage was made because the exact clip needed was no longer available online <a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a>.
+*   **Garrett Camp:** Uber co-founder Garrett Camp is described as an "artist" within the story, who initially sought to build something for fun, like his previous project StumbleUpon, rather than focusing solely on business <a class="yt-timestamp" data-t="00:31:05">[00:31:05]</a>, <a class="yt-timestamp" data-t="00:31:45">[00:31:45]</a>. His inspiration for Uber supposedly came from a scene in *Casino Royale* where James Bond summons his car with a phone <a class="yt-timestamp" data-t="00:31:49">[00:31:49]</a>.

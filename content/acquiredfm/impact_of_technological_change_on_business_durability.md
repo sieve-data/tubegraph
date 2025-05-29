@@ -1,25 +1,33 @@
 ---
-title: Impact of technological change on business durability
+title: Impact of Technological Change on Business Durability
 videoId: dasecR1MPUQ
 ---
 
 From: [[acquiredfm]] <br/> 
 
-Technological advancements have profoundly altered the landscape of business durability, making it increasingly challenging for companies to maintain long-term stability without continuous evolution. Investors must consider not only a company's future potential but also its current valuation relative to that potential, acknowledging that all investments are valued based on the discounted future cash flows from here to eternity [00:00:07]. This valuation process inherently requires judgments about the future [00:00:43].
+In the realm of investment, assessing a company's future potential and its current market value is paramount <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. All investments are ultimately valued by the discounted worth of their future cash flows <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. However, this calculation inherently demands judgments about the future, even for seemingly steadfast companies <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>, as consistency can be disrupted <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
 
-## Historical Durability vs. Modern Volatility
-Historically, companies were much more durable than they are today due to slower rates of [[cultural_and_societal_impact_on_tech_consumption_and_growth | technological adoption]] [00:02:39]. In the mid-20th century, there was a feeling that the world was not changing much, with a consistent "backdrop" against which businesses operated [00:03:31]. For instance, a comic book could remain a dime for an entire youth [00:04:00]. In contrast, today "everything changes every minute" [00:04:05].
+## Historical Business Stability vs. Modern Day Volatility
 
-In 1950, it would have been possible to identify many businesses with high conviction that they would remain largely unchanged in ten years [00:02:50]. This is significantly less true today, where active management is required to entrench competitive advantages, fend off competition, and continuously evolve [00:03:05]. Few businesses can now be run by "idiots" and maintain consistency [00:03:18].
+Historically, businesses enjoyed a level of durability that is increasingly rare today <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
 
-## Disruption of Traditional Industries
-The newspaper industry serves as a prime example of how even seemingly impregnable businesses with strong "moats" can be disrupted by [[technological_innovation_in_traditional_industries | technological innovation in traditional industries]] [00:00:55]. Newspapers were once considered durable because they faced little local competition, were inexpensive, and commanded advertising through high circulation [00:01:04]. Additionally, their one-day shelf life ensured daily repurchase [00:01:26]. However, within two decades, most newspaper companies found themselves "fighting for their lives" [00:01:32].
+### The Case of Newspapers: A "Stalwart" Industry Disrupted
+Newspapers were once considered an impregnable industry with strong "moats" <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>:
+*   **Local Entrenchment**: No significant competition from neighboring towns <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+*   **Low Cost**: Only 15 cents, ensuring continued purchases even in tough times <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+*   **Advertising Dominance**: Advertisers sought papers with the most circulation, making them essential for local movies, want ads, and car ads <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+*   **Built-in Demand**: A one-day shelf life meant consumers had to buy it again tomorrow <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
 
-This disruption occurred because consumer attention rapidly shifted to consuming information on computers via an interconnected web [00:01:51]. At the time, asserting such a rapid and mass change in consumer behavior would have seemed "crazy" [00:01:38]. Similarly, ten years ago, it would have been hard to believe that a Chinese short-form video company like TikTok could shift consumer attention away from established platforms like Facebook and Instagram [00:02:07].
+Despite these perceived advantages, 20 years later, most companies in the newspaper industry are struggling for survival <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. The idea that consumer behavior would shift en masse and quickly to consuming everything on interconnected computers, which barely existed then, would have sounded "crazy" <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. Similarly, predicting TikTok's dominance over Facebook's Instagram, which had seemingly mastered consumer attention, would have been met with disbelief <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
 
-## Implications for Valuation and Value Creation
-The increased uncertainty of the future, coupled with the reduced permanence of competitive moats, raises questions about whether companies should be valued with less future cash flow consideration [00:04:09].
+### The Accelerating Pace of Technological Adoption
+There are widely circulated charts illustrating the [[impact_of_technology_on_business | speeding up of technological adoption]] <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>. This acceleration has made it significantly harder for companies to maintain durability today compared to the past <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. In 1950, one could confidently identify many businesses that would remain consistent for a decade <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Today, without understanding a management's efforts to entrench their moats, fend off competition, or continuously evolve, it's very difficult to assert a business's consistency <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. Few businesses can operate without active management in this rapidly changing environment <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>.
 
-However, this phenomenon is a "double-edged sword" [00:04:28]:
-*   **Increased Disruptibility:** Without active management, companies are much more susceptible to disruption [00:04:29].
-*   **Enhanced Value Creation:** For companies that possess and actively leverage competitive advantages, there is an unprecedented opportunity for value creation [00:04:35]. This includes entering adjacent markets, launching new products, or expanding geographically [00:04:40]. The ability to leverage advantages and build further has never been higher [00:04:51]. The internet, in particular, enables companies to address global markets, a stark contrast to the localized reach of past businesses like newspapers [00:04:58].
+In the mid-20th century, the world felt like a "consistent backdrop" where actors performed, but the stage itself remained unchanged <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. There were business cycles, but the underlying nature of the world seemed constant, unlike today where "everything changes every minute" <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
+
+## Implications for Company Valuation and Growth
+Given that the future is more uncertain, disruption is more likely, and moats are less permanent, a question arises: should companies be valued less? <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>
+
+This situation presents a double-edged sword <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>:
+*   On one hand, companies are more susceptible to disruption without careful management <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>.
+*   On the other hand, for companies that possess competitive advantages and continuously leverage them, the potential for value creation has arguably never been higher <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>. This involves using advantages to enter adjacent markets, launch new products, or expand geographically <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. The internet, in particular, enables businesses to address global markets, a stark contrast to past limitations like newspapers being unable to serve even the next town <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>.

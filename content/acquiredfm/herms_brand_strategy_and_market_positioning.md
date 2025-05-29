@@ -1,0 +1,73 @@
+---
+title: Herms brand strategy and market positioning
+videoId: hMSiaUCJkmc
+---
+
+From: [[acquiredfm]] <br/> 
+
+Hermès is a distinguished luxury brand, founded in Paris, France, in 1837 as a saddle maker <a class="yt-timestamp" data-t="01:48:48">[01:48:48]</a>. The company has grown to be worth over $200 billion despite intentionally rejecting manufacturing efficiencies and economies of scale <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. Its strategy is deeply rooted in craftsmanship, quality, and a long-term perspective <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a> <a class="yt-timestamp" data-t="02:52:21">[02:52:21]</a>.
+
+## Foundational Principles
+
+### Craftsmanship and Quality
+Hermès is renowned for its obsession with craft and a reputation for quality <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. Uniquely, 85% of their production is still done by hand by master craftspeople in France <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. This commitment extends to every product, ensuring it is handcrafted and of the highest quality <a class="yt-timestamp" data-t="00:47:01">[00:47:01]</a>. The *saddle stitch*, a highly durable and aesthetically pleasing technique, is central to their leather goods, involving two needles and one thread creating an interlocking mechanism <a class="yt-timestamp" data-t="01:23:09">[01:23:09]</a> <a class="yt-timestamp" data-t="01:25:07">[01:25:07]</a>. This method, passed down through generations, allows for repairs and ensures longevity <a class="yt-timestamp" data-t="01:26:51">[01:26:51]</a>. Hermès believes that when done well, handcrafted goods provide a higher quality and more aesthetically pleasing product <a class="yt-timestamp" data-t="02:27:21">[02:27:21]</a>.
+
+### Family Control and Long-Term Vision
+A key aspect of [[generational_leadership_and_family_dynamics_at_herms | Hermès' longevity]] and strategy is its continuous family control. After 187 years, the company remains under family leadership, now in its sixth generation <a class="yt-timestamp" data-t="02:29:19">[02:29:19]</a> <a class="yt-timestamp" data-t="02:32:01">[02:32:01]</a>. Executives and family members, including current CEO Axel Dumas and artistic director Pierre-Alexis Dumas, apprentice in the business by learning the crafts themselves, starting from their teenage years <a class="yt-timestamp" data-t="01:17:10">[01:17:10]</a> <a class="yt-timestamp" data-t="01:17:42">[01:17:42]</a>. This deep understanding of the craft intertwines the business and creative sides of the company, fostering a shared identity and commitment to its traditions <a class="yt-timestamp" data-t="01:18:22">[01:18:22]</a>. The family’s focus is on the long-term, famously stating that the "short term is of no consequence" <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
+
+## Evolution and Adaptation
+
+### From Saddles to Handbags
+Originally a harness maker for horse-drawn carriages, Hermès adapted to the changing world <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>. The introduction of the *Haut à Courroies* bag, initially designed to carry saddles and boots, became the spiritual heritage for their modern handbag business <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>. The visit of Émile Hermès (third generation) to Henry Ford's factories in 1916 allowed him to foresee the age of the automobile, prompting a shift in the business <a class="yt-timestamp" data-t="02:51:57">[02:51:57]</a> <a class="yt-timestamp" data-t="03:07:07">[03:07:07]</a>.
+
+### Modernization and New Product Categories
+Under Émile, Hermès acquired an exclusive two-year license for the zipper in France, leading to the creation of the first zippered jacket in the world for the British Duke of Windsor <a class="yt-timestamp" data-t="03:09:50">[03:09:50]</a> <a class="yt-timestamp" data-t="03:21:18">[03:21:18]</a>. The business expanded into saddlery <a class="yt-timestamp" data-t="01:19:17">[01:19:17]</a>, then handbags in 1925 after Émile's wife requested a smaller version of the *Haut à Courroies* bag to fit in cars <a class="yt-timestamp" data-t="03:22:50">[03:22:50]</a> <a class="yt-timestamp" data-t="03:26:44">[03:26:44]</a>. The brand also ventured into ready-to-wear clothing <a class="yt-timestamp" data-t="03:08:10">[03:08:10]</a>, jewelry <a class="yt-timestamp" data-t="03:08:10">[03:08:10]</a>, watches <a class="yt-timestamp" data-t="03:08:10">[03:08:10]</a>, and later perfumes and beauty products <a class="yt-timestamp" data-t="03:10:07">[03:10:07]</a>.
+
+### The "Kelly" and "Birkin" Bags
+The *Sacca de Pêches* handbag, designed by Robert Dumas (fourth generation) <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>, gained international fame when Princess Grace Kelly of Monaco was photographed clutching it to conceal her pregnancy in 1956 <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>. It was officially renamed the *Kelly* bag in 1977 <a class="yt-timestamp" data-t="06:08:00">[06:08:00]</a>.
+
+The *Birkin* bag, Jean-Louis Dumas' (fifth generation) greatest achievement, was conceived on a flight from Paris to London in 1984 after he encountered actress Jane Birkin struggling with her overflowing basket <a class="yt-timestamp" data-t="06:34:00">[06:34:00]</a> <a class="yt-timestamp" data-t="06:50:00">[06:50:00]</a>. The *Birkin* is larger than the *Kelly* and features two handles for shoulder wear, making it a more casual, functional design <a class="yt-timestamp" data-t="07:23:00">[07:23:00]</a>. It was not an immediate success, taking about five years to become the iconic *Birkin* bag <a class="yt-timestamp" data-t="07:51:00">[07:51:00]</a> <a class="yt-timestamp" data-t="08:01:00">[08:01:00]</a>. By 2001, its exclusivity led to a famed multi-year waiting list, becoming a storyline on *Sex and the City* <a class="yt-timestamp" data-t="08:44:00">[08:44:00]</a>.
+
+## Market Positioning
+
+### Exclusivity and "Quiet Luxury"
+Hermès operates with a unique market position often described as "quiet luxury" <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>. Their products are not heavily branded with overt logos like many other luxury brands, focusing instead on the intrinsic quality and craftsmanship <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>. This subtle approach signifies wealth and status without overt display <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>. The company intentionally limits production, adding only 500 artisans annually, which maintains exclusivity and desirability <a class="yt-timestamp" data-t="02:27:11">[02:27:11]</a> <a class="yt-timestamp" data-t="02:47:29">[02:47:29]</a>.
+
+### Defying Economic Principles
+Hermès' strategy often defies traditional economic principles:
+*   **Veblen Goods**: Hermès bags, particularly the Birkin and Kelly, are Veblen goods, meaning demand increases as the price increases <a class="yt-timestamp" data-t="09:50:00">[09:50:00]</a> <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>.
+*   **Below Market-Clearing Price**: Hermès sells its most coveted bags *below* the market-clearing price, leaving consumer surplus on the table <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>. This deliberate pricing strategy fuels scarcity and heightens desirability, encouraging customers to purchase other Hermès products to build a relationship in hopes of being allocated a bag <a class="yt-timestamp" data-t="09:59:00">[09:59:00]</a>.
+*   **Controlled Price Appreciation**: Unlike some competitors who aggressively raise prices, Hermès increases prices by an average of 7% per year across their product line <a class="yt-timestamp" data-t="10:31:00">[10:31:00]</a>. This responsible growth strategy maintains trust and perception of intrinsic value, making their goods seem like an investment <a class="yt-timestamp" data-t="10:37:00">[10:37:00]</a> <a class="yt-timestamp" data-t="10:51:00">[10:51:00]</a>.
+
+### Customer Relationships
+Hermès fosters deep relationships with its clients. The company emphasizes exceptional service, with sales associates spending significant time with customers, even first-time buyers of entry-level products <a class="yt-timestamp" data-t="09:53:00">[09:53:00]</a> <a class="yt-timestamp" data-t="09:53:00">[09:53:00]</a>. This personalized approach cultivates loyalty and a sense of belonging to the "Hermès dream" <a class="yt-timestamp" data-t="10:14:00">[10:14:00]</a>.
+
+## Key Strategic Pillars
+
+### Production and Atelier Expansion
+Hermès maintains control over its production by owning its workshops and training its artisans. They have 31 *ateliers* (artistic manufacturing facilities) across France, each employing no more than 250-300 craftspeople to maintain a personal, workshop-like atmosphere <a class="yt-timestamp" data-t="02:46:50">[02:46:50]</a> <a class="yt-timestamp" data-t="02:50:03">[02:50:03]</a>. To meet demand, they build new training centers and schools in rural areas of France, offering guaranteed jobs upon graduation <a class="yt-timestamp" data-t="02:48:23">[02:48:23]</a> <a class="yt-timestamp" data-t="02:48:50">[02:48:50]</a>. This ensures a consistent pipeline of skilled artisans, a critical [[herms_history_and_craftsmanship | cornered resource]] for the company.
+
+### Retail Strategy
+Hermès' retail strategy is highly decentralized, operating on a "pull model" <a class="yt-timestamp" data-t="03:55:58">[03:55:58]</a>. Store managers have autonomy to select products based on their local clientele's preferences, rather than adhering to a centralized dictate <a class="yt-timestamp" data-t="03:56:00">[03:56:00]</a>. This ensures no two stores are identical, adding to the treasure hunt element for global travelers <a class="yt-timestamp" data-t="03:59:52">[03:59:52]</a>. For highly coveted items like the Birkin or Kelly, they are not displayed in stores <a class="yt-timestamp" data-t="03:17:00">[03:17:00]</a>.
+
+### Marketing and Brand Building
+Hermès famously claims to have no marketing department, asserting that "everyone at the company is responsible for marketing" <a class="yt-timestamp" data-t="03:17:00">[03:17:00]</a>. While they do have marketing spend, a significant portion is dedicated to high-profile events rather than broad media buys <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>. They avoid celebrity endorsements, believing that the desirability and high price of their products naturally attract celebrities who purchase them as a status symbol <a class="yt-timestamp" data-t="03:33:00">[03:33:00]</a>. The brand's lore and Word of Mouth are key drivers of its appeal <a class="yt-timestamp" data-t="03:34:00">[03:34:00]</a>.
+
+The company also has a "creation in reverse" initiative called Petite H, which reuses high-quality leftover materials from other products to create whimsical, smaller items <a class="yt-timestamp" data-t="03:16:00">[03:16:00]</a>.
+
+## Differentiation from Competitors
+
+Hermès stands apart from many other luxury brands, particularly conglomerates like [[lvmh_business_model | LVMH]]. While [[lvmh_business_model | LVMH]] leverages economies of scale across multiple brands <a class="yt-timestamp" data-t="11:20:00">[11:20:00]</a>, Hermès emphasizes its independence and unique production methods <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
+
+Hermès deliberately operates as the "anti-[[lvmh_business_model | LVMH]]" in many ways <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. While other brands pivoted to mass production and fashion-driven trends in the 1970s and 80s, Hermès maintained its commitment to handcrafted durable goods <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>. They prioritize "responsible growth" and an "embrace of history" over risky, cutting-edge fashion <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>. This deliberate counter-positioning allows them to appeal to a clientele seeking timelessness and unparalleled quality, distinct from those desiring trend-driven or mass-marketed luxury items <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a> <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>.
+
+> [!quote] Strategy as Trade-off
+> Axel Dumas articulates the core of Hermès' strategy: "Every decision that we make has got some reverse effect... Strategy is accepting that you are doing something better than the other and the other is doing something better than you. You have to pick your fight. I'm always a little bit disappointed when I see someone on my team say that we do everything at the same time great. That doesn't happen in real life. You have to pick your fight." <a class="yt-timestamp" data-t="02:43:53">[02:43:53]</a> <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a> <a class="yt-timestamp" data-t="02:44:11">[02:44:11]</a>
+
+## Modern Challenges and Outlook
+
+Despite its traditional approach, Hermès has embraced certain modern partnerships, such as the Apple Watch collaboration, producing luxury watch bands <a class="yt-timestamp" data-t="02:56:40">[02:56:40]</a>. This partnership was formed in 2015, with Apple seeking a luxury fashion brand not deeply entrenched in the Swiss watch industry <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>. While some of these products are machine-sewn and priced more accessibly than traditional Hermès items, they serve as an entry point for new customers <a class="yt-timestamp" data-t="03:02:00">[03:02:00]</a>.
+
+The company's rapid growth—revenue increased from €2 billion in 2006 to over €14 billion in 2023 <a class="yt-timestamp" data-t="02:06:30">[02:06:30]</a> <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a> <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>—presents a unique challenge: how to scale hand-crafted artisanal production without compromising core values. Hermès believes its commitment to training thousands of artisans annually and maintaining small workshop sizes is the solution to this "paradox of luxury": the more desirable a brand, the more it sells; the more it sells, the less desirable it becomes <a class="yt-timestamp" data-t="02:45:47">[02:45:47]</a>.
+
+Hermès' strategy ensures that it remains an unassailable, exceptional business, with high gross margins (71%) and operating margins (44%) <a class="yt-timestamp" data-t="02:42:49">[02:42:49]</a>. Its dedication to quality, craftsmanship, and a unique market position, even in the face of competitive pressures (like the [[lvmh_business_model | Bernard Arnault]] takeover attempt) <a class="yt-timestamp" data-t="02:09:00">[02:09:00]</a>, has solidified its place as a unique pinnacle in the global luxury market <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>.

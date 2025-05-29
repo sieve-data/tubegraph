@@ -1,0 +1,27 @@
+---
+title: The foundation and significance of D E Shaw
+videoId: S6n7KaT6mlI
+---
+
+From: [[acquiredfm]] <br/> 
+
+D. E. Shaw & Co. is a financial firm founded by David E. Shaw <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a> in 1988 <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+
+## Founding and Inspiration
+David E. Shaw, the founder, holds a computer science Ph.D. from Stanford from the 1980s and was a computer science professor at Columbia University <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. He is described as a "serious academic" <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a> who has returned to academia and is a member of the National Academy of Engineering and the National Academy of Sciences <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>. His stepfather was a finance professor at UCLA, which sparked his interest in finance <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. Before founding D. E. Shaw, he joined Morgan Stanley in 1986 <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>.
+
+The inspiration for D. E. Shaw was Jim Simons and Renaissance Technologies (Rentech), which started in 1982 <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. Rentech's core Medallion fund, which now consists solely of private capital from its employees and Simons, averaged a 66.1% annual return from 1988 to 2018 <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>. While D. E. Shaw has not performed as well as Rentech, it is considered a legacy firm among today's hedge funds that people can actually invest in <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>.
+
+## Investment Philosophy and Culture
+Despite being a quant hedge fund, D. E. Shaw's team "always resisted the idea that that's what defined them" <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>. They viewed themselves as "a group of creative artisans who invested in businesses and started businesses and came up with new ideas and viewed the world through different lenses" <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. This entrepreneurial spirit was a significant draw for people joining the firm <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+
+The firm's recruiting strategy focused on finding "the smartest people in the world," regardless of their knowledge in business and finance, with the philosophy that they would figure out tasks for them to do <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>.
+
+## Key Figures and Projects
+[[Jeff Bezos Background and DecisionMaking Framework | Jeff Bezos]] joined D. E. Shaw in 1990 after being convinced by a headhunter <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>. He quickly rose through the ranks, becoming the fourth senior vice president, the highest level below David Shaw <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. At this point, [[Jeff Bezos Background and DecisionMaking Framework | Bezos]] was in his mid-to-late 20s and considered a rising star <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. David Shaw and [[Jeff Bezos Background and DecisionMaking Framework | Bezos]] became "super close," with Shaw likely acting as a mentor <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>.
+
+[[Jeff Bezos Background and DecisionMaking Framework | Bezos]] was involved in recruiting highly intelligent individuals across various disciplines to D. E. Shaw <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. Notable individuals recruited, who later became key early Amazon employees, include Jeff Holden, Nicholas Lovejoy, and MacKenzie Scott Tuttle <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. [[Jeff Bezos Background and DecisionMaking Framework | Jeff Bezos]] and MacKenzie Scott Tuttle would later marry <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>, and MacKenzie is considered by some to be the first Amazon employee, handling accounting and legal operations before the first engineer was hired <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>.
+
+Within D. E. Shaw, [[Jeff Bezos Background and DecisionMaking Framework | Bezos]] led several entrepreneurial projects:
+*   **Third Market Business**: An early project led by [[Jeff Bezos Background and DecisionMaking Framework | Bezos]] to create a separate market from traditional exchanges where retail investors could trade without paying high commissions <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>. This concept is considered a predecessor to dark pools and payment for order flow in today's financial world <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>.
+*   **Internet Opportunities**: David Shaw and [[Jeff Bezos Background and DecisionMaking Framework | Jeff Bezos]], given their backgrounds and connections to internet pioneers, became very excited about the nascent internet <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>. Shaw reassigned [[Jeff Bezos Background and DecisionMaking Framework | Bezos]] to work together to develop business plans for internet opportunities within D. E. Shaw <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. One of their first ideas was an online retail brokerage for financial trading, similar to E-Trade <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>. This project might have been a transformation of the "third market business" <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>.

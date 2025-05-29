@@ -5,20 +5,17 @@ videoId: ifA0ZRiOmx0
 
 From: [[acquiredfm]] <br/> 
 
-Machine learning (ML) is considered a "massive pillar" of [[Amazons business strategy and competitive dynamics | Amazon's business]] <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. Each year, [[Amazon Web Services AWS | Amazon]] announces new initiatives in the database sector, which is recognized for its importance in customer stickiness <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. Similarly, [[Amazons strategy in cloud storage and machine learning | Amazon]] has made significant announcements regarding machine learning <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+Amazon has positioned machine learning (ML) as a significant pillar of its business, alongside compute and databases <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. While compute forms a massive pillar, and databases are gaining importance, machine learning is clearly a key focus <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>.
 
-## ML Offerings
+## Strategic Importance
+Every year, Amazon announces new database offerings <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. Similarly, in the ML space, they have introduced [[AWS machine learning services like SageMaker | SageMaker]] and dedicated a custom ML keynote at their events <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. This dedicated focus underscores the strategic importance of machine learning to AWS.
 
-[[Amazon Web Services AWS | Amazon]] has introduced several ML-related offerings:
-*   **[[Amazon Sagemaker and ML offerings | Sagemaker]]** <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>
-*   A dedicated custom ML keynote <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>
-*   Numerous cloud-hosted ML offerings <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>
-*   Support for TensorFlow, a framework originally created by Google <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>
-*   Their own container service <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>
-*   Their own Elastic Kubernetes Service <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. While they support Kubernetes to serve customer demand, they also encourage customers to use their custom ECS (Amazon Container Service) <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+## Machine Learning Offerings
+Amazon provides a wide array of cloud-hosted ML offerings <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. They support popular frameworks like TensorFlow, originally created by Google <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. For containerization, they offer their own Amazon Container Service (ECS) while also supporting the Elastic Kubernetes Service (EKS) to cater to customer preferences for Kubernetes, though they aim to encourage the use of their custom ECS <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
 
-## Strategic Approach to ML
+## Strategic Advantage through Data Location
+Amazon's strategy regarding machine learning capabilities is distinctive: their ML services need to be robust, but not necessarily superior to competitors like Google's <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. This is based on the principle that customers will primarily use the ML services available where their data is already stored, as running machine learning near the data is paramount <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
 
-[[Amazons strategy in cloud storage and machine learning | Amazon's strategy]] for machine learning centers on data proximity <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. The company's ML capabilities need to be strong, but do not necessarily need to outperform Google's in every aspect <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. The core principle is that users will utilize the ML services available where their data is stored, as running machine learning near the data is paramount <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+Once a customer chooses Amazon as their storage vendor and has transferred significant amounts of data to AWS data centers, they are unlikely to seek out different providers for their ML workloads <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. Instead, they will run their ML on AWS <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
 
-Once [[Amazon Web Services AWS | Amazon]] is chosen as the primary storage vendor, with data residing in their data centers, customers are expected to run their ML workloads on [[Amazon Web Services AWS | AWS]] <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. While [[Amazon Web Services AWS | Amazon]] cannot afford to lag significantly behind competitors in ML, its dominant position in data storage gives it a strategic advantage even if [[Comparison of Amazon and Google ML capabilities | Google's ML offerings]] might theoretically be superior <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. If customers are not storing their data with Google, the quality of Google's ML offerings becomes less relevant <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
+This [[AWS strategies for customer retention in machine learning | strategy]] implies that while AWS cannot afford to fall significantly behind in ML capabilities <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>, their dominance in data storage provides a significant competitive advantage over companies like Google. This is true even if [[Comparison with Googles machine learning capabilities | Google might be better positioned to offer superior ML services]] <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>, because it may not matter if Google is not where customers are storing their primary data <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.

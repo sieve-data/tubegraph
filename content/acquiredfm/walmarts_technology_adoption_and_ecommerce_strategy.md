@@ -1,0 +1,37 @@
+---
+title: Walmarts technology adoption and ecommerce strategy
+videoId: NSEdnld6i9A
+---
+
+From: [[acquiredfm]] <br/> 
+
+Walmart, a company that ushered in a new era of American and global retail <a class="yt-timestamp" data-t="01:28:31">[01:28:31]</a>, has a surprising history of technology adoption and a more recent, evolving e-commerce strategy. While initially perceived as a low-tech, "Hicks In The Sticks" operation <a class="yt-timestamp" data-t="01:54:14">[01:54:14]</a>, Sam Walton himself recognized the transformative power of computing.
+
+## Early Technology Adoption: Building a Competitive Edge
+
+Despite being known for [[sam_waltons_retail_innovations_and_business_philosophies | Sam Walton's retail innovations and business philosophies]] focusing on low prices and efficiency, Walmart was an early adopter of advanced technology for its time.
+
+*   **Embracing Computing** <a class="yt-timestamp" data-t="01:43:51">[01:43:51]</a>: In 1966, just four years after the first Walmart opened, Sam Walton, nearing 50, recognized the potential of computers to disrupt the retail landscape <a class="yt-timestamp" data-t="01:43:58">[01:43:58]</a>. He personally enrolled in an IBM seminar in Poughkeepsie, New York, to learn how to use computing technology in business <a class="yt-timestamp" data-t="01:44:33">[01:44:33]</a>. Abe Marx, president of the National Mass Retailers Institute, suggested that Walmart could not have built its retail empire without the computer <a class="yt-timestamp" data-t="01:45:51">[01:45:51]</a>.
+*   **Talent and Skepticism** <a class="yt-timestamp" data-t="01:45:40">[01:45:40]</a>: Walton's approach was to leave the door open for smart, tech-savvy younger individuals to take on significant roles, while he aggressively pushed back on their plans, demanding strong justifications for expensive investments like computerizing the inventory system <a class="yt-timestamp" data-t="01:45:47">[01:45:47]</a>.
+*   **Distribution Centers** <a class="yt-timestamp" data-t="01:48:39">[01:48:39]</a>: Early technological investments, led by figures like Ron Mayer, enabled the creation of sophisticated distribution centers. Unlike traditional warehouses where goods sat, Walmart's centers received bulk shipments from vendors, then unboxed, re-boxed, and shipped customized daily orders to individual stores <a class="yt-timestamp" data-t="01:49:12">[01:49:12]</a>. This system, combined with building their own trucking lines <a class="yt-timestamp" data-t="01:49:47">[01:49:47]</a>, created a highly efficient logistics network that allowed Walmart to consistently offer lower prices than competitors like Kmart <a class="yt-timestamp" data-t="01:50:08">[01:50:08]</a>.
+*   **Private Satellite Network** <a class="yt-timestamp" data-t="01:46:26">[01:46:26]</a>: In 1987, Walmart invested $24 million in a proprietary [[connection_to_walmarts_satellite_network | satellite network]] to link all stores with two-way voice and data transmission, and one-way video communication from Bentonville <a class="yt-timestamp" data-t="01:46:48">[01:46:48]</a>. This was due to insufficient bandwidth on existing communication lines for fast sales data synchronization <a class="yt-timestamp" data-t="01:46:56">[01:46:56]</a>. This network allowed Sam Walton to "virtually visit" stores from the home office and even broadcast the legendary Saturday morning meetings <a class="yt-timestamp" data-t="01:47:35">[01:47:35]</a>.
+
+## E-commerce Evolution: Playing Catch-up
+
+Walmart's adaptation to the internet was initially slow, as they didn't perceive it as an existential threat in the 1990s and early 2000s <a class="yt-timestamp" data-t="02:02:26">[02:02:26]</a>.
+
+*   **Acquisitions for Digital Growth** <a class="yt-timestamp" data-t="02:03:36">[02:03:36]</a>:
+    *   In 2011, Walmart acquired Kosmix for $300 million, which became Walmart Labs and the foundation for its serious e-commerce efforts <a class="yt-timestamp" data-t="02:04:07">[02:04:07]</a>.
+    *   In 2016, Walmart bought Jet.com for $3.3 billion, a move aimed at acquiring e-commerce talent and serving as a core vehicle for Walmart's e-commerce business <a class="yt-timestamp" data-t="02:04:45">[02:04:45]</a>. While the Jet.com platform was eventually shut down, former CEO Doug McMillan credits Mark Lore (Jet.com founder) with jumpstarting Walmart's e-commerce presence <a class="yt-timestamp" data-t="02:05:59">[02:05:59]</a>.
+*   **Current E-commerce Performance** <a class="yt-timestamp" data-t="02:06:20">[02:06:20]</a>: E-commerce accounts for about 13% of Walmart's total revenue, generating $75 billion annually, and it is growing faster than [[amazons_strategy_and_challenges | Amazon's e-commerce business]] (though Amazon's scale is significantly larger) <a class="yt-timestamp" data-t="02:06:20">[02:06:20]</a>.
+*   **Omnichannel Strategy** <a class="yt-timestamp" data-t="02:06:40">[02:06:40]</a>: Walmart's strategy leverages its vast network of physical stores and distribution centers to offer seamless online and in-person shopping experiences <a class="yt-timestamp" data-t="02:06:50">[02:06:50]</a>. This includes services like same-day grocery delivery and in-store pickup options <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>.
+*   **Walmart+** <a class="yt-timestamp" data-t="02:07:24">[02:07:24]</a>: The company launched Walmart+, a subscription service designed to compete with Amazon Prime. This service includes features such as in-store phone scanning for checkout, allowing customers to complete purchases seamlessly and avoid lines <a class="yt-timestamp" data-t="02:08:02">[02:08:02]</a>.
+*   **Technology Gaps with Amazon** <a class="yt-timestamp" data-t="02:09:50">[02:09:50]</a>: Despite advancements, Walmart's digital experience, particularly in search algorithms, still lags behind Amazon. Amazon incorporates extensive metadata and user-generated content into its search, while Walmart primarily relies on titles and product descriptions <a class="yt-timestamp" data-t="02:09:50">[02:09:50]</a>. This difference is partly due to Amazon's larger volume of third-party sellers and extensive historical shopper data <a class="yt-timestamp" data-t="02:10:48">[02:10:48]</a>.
+
+## Philosophy: Build Your Own Infrastructure (When Necessary)
+
+Walmart's historical approach to technology is distinct from the common "Bezos law" philosophy of focusing only on core competencies.
+
+*   **"Making Your Beer Taste Better"** <a class="yt-timestamp" data-t="01:36:01">[01:36:01]</a>: For Walmart, building their own infrastructure—like their logistics network and satellite communication—directly improved their core offering (low prices) and was essential for competing effectively. This contrasted with competitors like Kmart, who leveraged existing, less efficient distribution networks <a class="yt-timestamp" data-t="01:31:20">[01:31:20]</a>. The necessity of building everything from scratch due to being "under financed and under capitalized" in small communities ultimately became a mighty contributor to their growth <a class="yt-timestamp" data-t="01:32:31">[01:32:31]</a>.
+
+This dual approach of aggressive internal technology development for efficiency and a more recent, acquisition-driven push into e-commerce defines Walmart's evolving technology landscape.

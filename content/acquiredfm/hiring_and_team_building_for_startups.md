@@ -1,0 +1,47 @@
+---
+title: Hiring and team building for startups
+videoId: Ltq0mk0Hwj0
+---
+
+From: [[acquiredfm]] <br/> 
+
+Building a successful startup requires a deliberate approach to [[The critical role of founders in startup success | hiring and team building]], particularly in the pursuit of capital-efficient growth. Founders of companies like Zoom and Viva Systems offer insights into cultivating a culture that prioritizes product excellence, efficiency, and long-term sustainability <a class="yt-timestamp" data-t="01:32:57">[01:32:57]</a>.
+
+## Core Philosophies for Building a Team
+
+Both Eric Yuan of Zoom and Peter Gassner of Viva Systems emphasize that capital efficiency is rooted in a fundamental mindset and culture <a class="yt-timestamp" data-t="01:27:54">[01:27:54]</a>.
+
+### Mindset and Focus
+The journey begins with the mindset of running a "profitable lemonade stand" <a class="yt-timestamp" data-t="01:38:28">[01:38:28]</a>. Peter Gassner believes there is safety in a cash-generating business, which will always be valuable <a class="yt-timestamp" data-t="01:38:28">[01:38:28]</a>. This contrasts with a business that is not cash-generating, which he views as having no value <a class="yt-timestamp" data-t="01:38:28">[01:38:28]</a>. Both founders worked "really hard" and stayed "really focused" on the product and the customer, viewing anything else as "BS" <a class="yt-timestamp" data-t="01:44:30">[01:44:30]</a>. For the first five years, Peter Gassner avoided conferences, maintaining a maniacal focus <a class="yt-timestamp" data-t="01:44:30">[01:44:30]</a>. Eric Yuan similarly states that founders should "do not always focus on product or the sales, marketing also is very important" <a class="yt-timestamp" data-t="00:48:29">[00:48:29]</a>.
+
+### Product Excellence as a Foundation
+A shared belief is that product excellence is paramount <a class="yt-timestamp" data-t="01:41:59">[01:41:59]</a>. Peter Gassner highlights that product excellence makes sales cycles more efficient <a class="yt-timestamp" data-t="01:41:59">[01:41:59]</a>. Eric Yuan underscores that if the product doesn't work, "forget it, everything else just double down, triple down on product" <a class="yt-timestamp" data-t="01:42:07">[01:42:07]</a>. This focus reduces the need for expensive sales and marketing efforts <a class="yt-timestamp" data-t="01:30:04">[01:30:04]</a>.
+
+## Hiring Strategy
+
+### Early Stage Hiring
+Eric Yuan started Zoom with 25 engineers, quickly growing to 40, all funded by angel money <a class="yt-timestamp" data-t="02:09:54">[02:09:54]</a>. Aside from himself, who handled product management, UI design, and facilities, the team consisted solely of engineers <a class="yt-timestamp" data-t="02:09:54">[02:09:54]</a>. He even learned how to use QuickBooks himself <a class="yt-timestamp" data-t="02:09:54">[02:09:54]</a>. For the first four years, Zoom had no marketing team <a class="yt-timestamp" data-t="02:09:54">[02:09:54]</a>.
+
+Peter Gassner's approach at Viva Systems also involved no "wasted people" or "optional people," as they would burn money and complicate decision-making <a class="yt-timestamp" data-t="02:09:54">[02:09:54]</a>. Given their long sales cycle, he was the first salesperson even before the company was formally incorporated <a class="yt-timestamp" data-t="02:28:10">[02:28:10]</a>. He views people like buying a "million dollar machine," constantly evaluating their worth and output <a class="yt-timestamp" data-t="02:53:54">[02:53:54]</a>.
+
+### Team Composition and Leadership
+Both founders favored hiring "up and comers" rather than established superstars <a class="yt-timestamp" data-t="04:52:51">[04:52:51]</a>. Peter sought individuals with "range" – those who could be hands-on but also grow into management roles <a class="yt-timestamp" data-t="04:52:51">[04:52:51]</a>. He emphasized giving people a chance to do something they hadn't done before, believing it leads to more fulfillment <a class="yt-timestamp" data-t="04:52:51">[04:52:51]</a>. For him, team chemistry was more important than the skills of individual players <a class="yt-timestamp" data-t="04:52:51">[04:52:51]</a>. This internal promotion strategy was akin to forcing the product to earn its customers, keeping people hungry and performing their best <a class="yt-timestamp" data-t="04:52:51">[04:52:51]</a>.
+
+Initially, Eric Yuan's philosophy was to hire self-motivated and self-learning individuals, including senior executives, who would grow with the company <a class="yt-timestamp" data-t="04:47:32">[04:47:32]</a>. However, he later realized this approach had a "big flaw" following Zoom's rapid growth during COVID <a class="yt-timestamp" data-t="04:47:32">[04:47:32]</a>. He found that existing team members were not ready for the exponential increase in usage (15-20 times more) and revenue (7 times more) <a class="yt-timestamp" data-t="04:47:32">[04:47:32]</a>. He now advises a "mixed team structure," combining individuals with growth potential and seasoned leaders who have experience with greater scale <a class="yt-timestamp" data-t="04:47:32">[04:47:32]</a>. This is crucial for a company to scale effectively once market fit is achieved <a class="yt-timestamp" data-t="04:47:32">[04:47:32]</a>.
+
+### Compensation
+When it came to compensation, Peter Gassner prioritized hiring the "right person" first, then figuring out the appropriate pay <a class="yt-timestamp" data-t="04:44:11">[04:44:11]</a>. He never made hiring decisions based on equity versus cash <a class="yt-timestamp" data-t="04:44:11">[04:44:11]</a>.
+
+## Customer Focus and Iteration
+
+Both founders emphasized deep engagement with early customers. Peter Gassner, for example, listened to customers' "feelings" rather than just their stated opinions about existing solutions <a class="yt-timestamp" data-t="01:47:48">[01:47:48]</a>. He knew customers weren't emotionally attached to or getting value from their current solutions, even if they said they were happy <a class="yt-timestamp" data-t="01:47:48">[01:47:48]</a>. He didn't use customer satisfaction surveys initially, preferring direct conversations to "get the feeling" <a class="yt-timestamp" data-t="02:42:58">[02:42:58]</a>.
+
+Eric Yuan personally maintained relationships with early customers, offering VIP accounts or small gifts <a class="yt-timestamp" data-t="02:30:58">[02:30:58]</a>. He even emailed customers who canceled their $9.99/month service to understand why <a class="yt-timestamp" data-t="02:30:58">[02:30:58]</a>. His strategy was to "double down" on the most loyal early adopters, believing that even 100 happy users could drive network effects and bring in new users <a class="yt-timestamp" data-t="02:30:58">[02:30:58]</a>. This aligns with [[Advice and insights for entrepreneurs and founders | advice and insights for entrepreneurs and founders]] on finding product-market fit.
+
+## Scaling and Future-Proofing
+
+Even after achieving success, both founders maintain a "paranoid" approach to continuous innovation and improvement <a class="yt-timestamp" data-t="05:20:20">[05:20:20]</a>. Eric Yuan stresses the need for "offense and defense," constantly innovating new services and features <a class="yt-timestamp" data-t="05:20:20">[05:20:20]</a>. Peter Gassner similarly advocates for product excellence and continuous self-reinvention <a class="yt-timestamp" data-t="05:20:20">[05:20:20]</a>.
+
+A crucial aspect of long-term growth is product expansion. Eric notes his mistake of not planning for new services two to three years in advance <a class="yt-timestamp" data-t="05:52:21">[05:52:21]</a>. Peter Gassner started planning for Viva's second product (content CMS) in early 2010, four years after the company's founding, and made the first hire in late 2010 <a class="yt-timestamp" data-t="05:55:57">[05:55:57]</a>. He intentionally chose a second product that was "way out here" and "clearly not an add-on" to the first, aiming for a significant, potentially larger, new business rather than just an incremental bundle <a class="yt-timestamp" data-t="05:55:57">[05:55:57]</a>. This risky decision, which could have "sunk the company," ultimately paid off, with the second product line now being larger and having 5x or 10x more potential <a class="yt-timestamp" data-t="05:55:57">[05:55:57]</a>. This demonstrates [[Maintaining Focus as an Early-Stage Venture Capital Firm | maintaining focus as an early-stage venture capital firm]] and strategic expansion.
+
+For more insights into [[Relationships between tech entrepreneurs and companies | relationships between tech entrepreneurs and companies]] and [[Venture Capital and Founder Relationship Dynamics | venture capital and founder relationship dynamics]], consider exploring interviews with other industry leaders and investors like those at [[Benchmark Venture Capital Firm Strategies and Culture | Benchmark Venture Capital Firm Strategies and Culture]] and discussions on [[Challenges in establishing a new venture capital firm | challenges in establishing a new venture capital firm]]. The [[Impact of computer science on finance and startups | impact of computer science on finance and startups]] also plays a crucial role in modern business models and talent acquisition.
