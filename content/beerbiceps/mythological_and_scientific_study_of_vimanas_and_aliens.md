@@ -1,0 +1,70 @@
+---
+title: Mythological and Scientific Study of Vimanas and Aliens
+videoId: oZH70U5t55M
+---
+
+From: [[beerbiceps]] <br/> 
+
+The word "mythology" is often seen as offensive in India, as it was a term imposed by imperialist Europeans to dismiss [[Hindu Mythology and Interpretation as History | Indian culture]] and history as untrue <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Many Indians prefer to refer to narratives like the Ramayan, Mahabharat, Vishnu Puran, and Shiv Puran as [[Hindu Mythology and Interpretation as History | Indian history]] and culture <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. There is a growing interest among younger generations in understanding this rich subject <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+## Rediscovering Ancient Indian Knowledge
+
+India's historical records suffered significant loss due to invasions over the last millennium, leading to a disconnect between the vast knowledge of ancient Indian civilization and contemporary understanding <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. For instance, ancient Indian cities, like those of the Indus-Saraswati civilization, were remarkably well-planned, unmatched globally at their time <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. There is a renewed interest in exploring [[Indian Ancient Sciences and Lost Knowledge | ancient Indian culture]] and history <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>.
+
+## Scientific and "Science Fiction" Aspects of Ancient Culture
+
+Approaching ancient stories and legends, such as those involving Vimanas, astronomy, monsters, Rakshasas, and Asuras, requires an open mind <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. The focus should be on the lessons and knowledge derived from them, rather than solely on their historicity <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>. This aligns with a scientific outlook that encourages questioning everything <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>.
+
+[[Ancient Vedic Scriptures and their Scientific Interpretations | Indian scriptures]], starting with the Rig Veda, promote curiosity and the pursuit of knowledge about the world, oneself, and the creator <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. This inherent curiosity is seen as the birth of religion and scientific inquiry <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>. Many advanced astrophysicists and scientists eventually gravitate towards Vedanta, finding parallels between modern mathematics and physics and concepts written in the Vedas and Rig Veda <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+
+## [[Discussion of extraterrestrial life and the possibility of alien visits | Aliens and Vimanas]]
+
+### Extraterrestrial Beings in Ancient Texts
+The ancient texts discuss multiple planes and planets, including hellish and heavenly ones, which can be interpreted as other worlds inhabited by different species <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. This concept aligns with the modern fascination with [[Discussion of extraterrestrial life and the possibility of alien visits | extraterrestrial life]] <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>.
+
+Knowledge of the universe in ancient India often stemmed from the "mystical visions" of seers (Rishis), who were considered "mantra drashtas" (those who saw the mantras) <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>. Mantras are collections of words, set in specific meters and recited at certain times, believed to possess power <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+
+The Puranas, such as Shrimad Bhagavatam, describe a detailed cosmic structure, including 14 Lokas (planes or planets) in the universe, with Earth being the "Madhya Loka" (middle level) <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>. The inhabitants of these other Lokas are considered "aliens" by definition, as they do not originate from Earth <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>.
+
+[[The concept of higher beings and entities | Divine beings]] like the Devas and Asuras are depicted with advanced technology, including divine weapons (like modern WMDs) and spaceships (Vimanas) that allow them to travel between Lokas <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>. This suggests intergalactic travel and even intergalactic wars, where "evil aliens" (Asuras) fought "good aliens" (Devas) <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>.
+
+### The Story of Tripurasur
+An example of advanced ancient technology is found in the story of Tripurasur, who possessed three floating cities <a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>. These cities, interpreted as spaceships or satellites, could only be destroyed when they aligned perfectly in a single line, a rare celestial event <a class="yt-timestamp" data-t="00:13:25">[00:13:25]</a>. Lord Shiva destroyed them at this precise moment, an event celebrated as Da Deepavali, which occurred two weeks after Diwali and only affected the Devas in their Lokas, not Earth <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>. The Asuras from these floating cities used to conduct raids on Deva cities/spaceships <a class="yt-timestamp" data-t="00:14:57">[00:14:57]</a>.
+
+### Vimanas: Ancient Flying Machines
+Vimanas are ancient flying machines mentioned in texts like the Ramayan (Pushpak Viman) and Mahabharat (King Shalva's flying machine) <a class="yt-timestamp" data-t="00:57:44">[00:57:44]</a> <a class="yt-timestamp" data-t="00:58:40">[00:58:40]</a>. It is posited that humans did not create these machines themselves but received the knowledge from advanced civilizations, potentially the Devas or Asuras, who had architects like Vishwakarma (of the gods) and Mayadanav (of the Asuras) <a class="yt-timestamp" data-t="00:59:04">[00:59:04]</a>.
+
+Ancient Vimanas were supposedly powered by a "Mercury Vortex" <a class="yt-timestamp" data-t="01:00:43">[01:00:43]</a>. Texts like the Vaimanika Shastra describe different types and shapes of planes <a class="yt-timestamp" data-t="01:01:13">[01:01:13]</a>. Modern experiments have shown that these described shapes are aerodynamically stable and capable of flight, although the Mercury Vortex technology remains indecipherable <a class="yt-timestamp" data-t="01:01:39">[01:01:39]</a>.
+
+## Cosmic Cycles and Multiverse
+
+### Divine Hierarchy and Creation
+The Puranas offer differing accounts of the supreme deity, with some favoring Shiva (Shiv Puran) and others Vishnu (Vaishnav Puran), or Krishna (Bhagavatam) <a class="yt-timestamp" data-t="01:17:02">[01:17:02]</a>. However, all Puranas derive from the Vedas. The Rig Veda's Purush Sukta describes an "Adi Purush" (first person) from whom all creation emanates, including Brahma, who then continues the rest of creation <a class="yt-timestamp" data-t="01:17:34">[01:17:34]</a>. The Shiv Puran describes Shiva emerging as a "lingam of fire" that Brahma and Vishnu cannot comprehend, asserting Shiva's supremacy <a class="yt-timestamp" data-t="01:18:14">[01:18:14]</a>.
+
+### Kalpas and the Multiverse
+A key concept for understanding these varying narratives is the "Kalpa," which refers to different days in the lifespan of Brahma <a class="yt-timestamp" data-t="01:19:16">[01:19:16]</a>. Each Kalpa experiences creation differently, meaning that sometimes Brahma emerges first, sometimes Vishnu, and sometimes Shiva <a class="yt-timestamp" data-t="01:23:03">[01:23:03]</a>.
+
+[[Astronomical Evidence and Indian Texts | Ancient Indian scriptures]] also discuss a "Multiverse," implying that the current universe is just one among many <a class="yt-timestamp" data-t="01:29:30">[01:29:30]</a>. According to Shrimad Bhagavatam, the spiritual universe is vast, while the material universe is merely a quarter of it <a class="yt-timestamp" data-t="01:59:54">[01:59:54]</a>. Within the material realm, Karana-dakshayi Vishnu lies, and every exhalation creates a new universe that pops out of his pores <a class="yt-timestamp" data-t="02:00:16">[02:00:16]</a>. Each of these universes contains a Garbhodakshayi Vishnu, from whom a Brahma emerges to create the Lokas within that specific universe <a class="yt-timestamp" data-t="02:00:52">[02:00:52]</a>. The entire process of creation within a universe, including multiple Yugas, occurs within a single breath of the Mahavishnu <a class="yt-timestamp" data-t="02:01:16">[02:01:16]</a>.
+
+Brahma's lifespan is approximately 311 trillion human years <a class="yt-timestamp" data-t="02:01:37">[02:01:37]</a>. Currently, humanity is in the 51st year of Brahma's 100-year lifespan, approximately 155 trillion human years in <a class="yt-timestamp" data-t="02:01:46">[02:01:46]</a>. Each of Brahma's days is a Kalpa, during which different entities are created, and Vishnu appears in various avatars beyond the common ten <a class="yt-timestamp" data-t="02:22:20">[02:22:20]</a>. The Vishnu Puran, for instance, is relevant to the current Vaha Kalpa, while other Puranas might describe events from past or future Kalpas <a class="yt-timestamp" data-t="02:23:24">[02:23:24]</a>.
+
+## Catastrophic Events and Lost History
+
+### Ice Ages and Global Deluges
+[[Archaeological and celestial evidence | Geological history]] shows Earth experiences warming and cooling periods, including ice ages <a class="yt-timestamp" data-t="00:39:37">[00:39:37]</a>. Bal Gangadhar Tilak, a scholar and freedom fighter, in his book "The Arctic Home of The Vedas," posited that some descriptions in the Rig Veda (e.g., six-month-long nights and days, multiple dawns) suggest the Vedic people lived in the Arctic Zone before the Ice Age <a class="yt-timestamp" data-t="00:40:11">[00:40:11]</a>. When the Ice Age began, these populations likely migrated southward <a class="yt-timestamp" data-t="00:41:32">[00:41:32]</a>.
+
+During ice ages, water is drawn from oceans and frozen, causing sea levels to drop <a class="yt-timestamp" data-t="00:45:38">[00:45:38]</a>. Civilizations often emerged along coasts or rivers <a class="yt-timestamp" data-t="00:45:57">[00:45:57]</a>. When the ice melted, sea levels rose, flooding these coastal civilizations. This phenomenon is believed to be the scientific basis for the universal stories of a "global deluge" or flood found in nearly all world mythologies, including those of Mesopotamia, Sumeria, Africa, and Native America <a class="yt-timestamp" data-t="00:46:28">[00:46:28]</a>. These "anti-diluvian" (before the flood) cultures lost much of their history <a class="yt-timestamp" data-t="00:47:21">[00:47:21]</a>.
+
+### The Matsya Avatar Story
+The Hindu scripture's story of Manu and the Matsya Avatar of Lord Vishnu mirrors the global deluge narrative <a class="yt-timestamp" data-t="00:47:27">[00:47:27]</a>. Manu, a leader of mankind, encountered a tiny fish that rapidly grew into a giant form of Vishnu <a class="yt-timestamp" data-t="00:47:51">[00:47:51]</a>. Vishnu warned Manu of an impending global flood and instructed him to gather all relevant plant and animal species, along with the "Saptarishis" (seven sages) to preserve knowledge <a class="yt-timestamp" data-t="00:48:40">[00:48:40]</a>. Vishnu provided a boat to tie to his horn, allowing them to survive the inundation <a class="yt-timestamp" data-t="00:52:30">[00:52:30]</a>. This emphasizes the importance of preserving knowledge to rebuild civilization after catastrophic events, akin to modern fears of losing digital information due to solar flares <a class="yt-timestamp" data-t="00:49:09">[00:49:09]</a> <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>.
+
+### Ancient Technologies and Megafauna
+Ancient texts describe "a mare-shaped fire under the water," stored to prevent destruction, which could scientifically represent submarine volcanoes <a class="yt-timestamp" data-t="00:53:49">[00:53:49]</a>. These texts predict that ultimately, this underwater fire will cause a catastrophic volcanic event, leading to planetary destruction through tsunamis, earthquakes, and atmospheric ash, akin to past volcanic eruptions that blocked sunlight <a class="yt-timestamp" data-t="00:54:31">[00:54:31]</a>.
+
+The concept of "Sharab," a mythical creature described as the ultimate predator in the food chain, with chimeric features, could be an ancient description of a dinosaur <a class="yt-timestamp" data-t="01:02:40">[01:02:40]</a>. A clear carving of a Stegosaurus found on an 11th-century temple wall at Angkor Wat in Cambodia further suggests that ancient civilizations had knowledge of megafauna that modern science only discovered much later <a class="yt-timestamp" data-t="01:03:50">[01:03:50]</a>.
+
+## The Return of the Messiah
+
+Across various world mythologies, common threads exist, such as the global deluge, the Thunder God (e.g., Indra, Thor, Zeus), and the universal egg (Brahmand) <a class="yt-timestamp" data-t="01:05:31">[01:05:31]</a>. Another shared concept is the return of a "Messiah" or savior <a class="yt-timestamp" data-t="01:05:58">[01:05:58]</a>.
+
+In Hinduism, the Kalki Avatar is prophesied as the last and final avatar of Vishnu for the Kali Yuga, destined to return towards its end to usher in a Golden Age <a class="yt-timestamp" data-t="01:07:10">[01:07:10]</a>. Similarly, Tibetan Buddhism believes in the coming of the "Kika Kings" and the future Buddha, Maitreya, who will bring change <a class="yt-timestamp" data-t="01:06:20">[01:06:20]</a>. Christianity also anticipates the return of the Messiah, and Islam expects another Prophet to return to guide civilization <a class="yt-timestamp" data-t="01:07:39">[01:07:39]</a> <a class="yt-timestamp" data-t="01:07:56">[01:07:56]</a>. These common prophecies might stem from a shared ancient knowledge of humanity or a universal hope for a better future <a class="yt-timestamp" data-t="01:08:11">[01:08:11]</a>.

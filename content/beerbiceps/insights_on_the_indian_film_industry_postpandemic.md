@@ -1,0 +1,29 @@
+---
+title: Insights on the Indian film industry postpandemic
+videoId: svhsstvqaE0
+---
+
+From: [[beerbiceps]] <br/> 
+
+The Indian film industry has undergone rapid and significant transformations since the pandemic, affecting everything from film production and financing to audience reception <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
+
+## Changes in the Industry Landscape
+Post-pandemic, the industry operates very differently from how it did previously <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. This shift impacts upcoming stars and artists, who often struggle to express themselves authentically on public forums due to repetitive interview formats <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. Podcasts, such as [[growth_and_success_of_the_Ranveer_Show | The Ranveer Show]], have emerged as a significant platform, allowing artists like Janhvi Kapoor to open up in ways they haven't before <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. This change reflects a broader evolution in the world of content, where accessibility to relevance and influence on the internet has become highly commercialized <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+
+## Content Trends and Audience Engagement
+There is a growing demand for "dark content" and horror in [[tamil_and_hindi_cinema_recommendations_by_Vikram | Indian films]], as this genre is gaining significant traction globally in digital content <a class="yt-timestamp" data-t="00:21:37">[00:21:37]</a>. The shift is partly attributed to a younger generation, particularly Gen Z (born after 2000), who require very gripping content to maintain their attention <a class="yt-timestamp" data-t="00:21:57">[00:21:57]</a>. This need for engagement can be influenced by phenomena like social media-induced ADHD, where short-form content can strengthen the brain's tendency to have similar symptoms to clinically diagnosed ADHD, weakening attention spans <a class="yt-timestamp" data-t="00:22:11">[00:22:11]</a>. Shows like "Euphoria" succeed because they offer constant action and fast-paced camera movements, catering to this demand for dynamic engagement and a sense of escapism <a class="yt-timestamp" data-t="00:22:42">[00:22:42]</a>.
+
+## Authenticity vs. Commercialization
+A key challenge for artists in the current environment is the pressure to define a simple, identifiable "brand" for the audience <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>. Many are told they need to be one clear persona, such as "the girl who wears sarees and goes to temples" or "the quirky girl" <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. However, there's a growing desire for authenticity from the audience, with individuals like Janhvi Kapoor embracing multiple facets of their personality <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. This shift towards authenticity, and away from catering to a specific image, is seen as a path to self-discovery for artists <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. The [[impact_of_covid19_on_personal_life | pandemic]] accelerated this process of realigning priorities for some <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>.
+
+## Nepotism and Personal Growth
+The concept of nepotism often implies that success is not solely based on personal merit <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. Individuals from film families often face scrutiny, with suggestions that their achievements or friendships are due to their parents' fame <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>. This can lead to self-doubt and questioning one's own contributions <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>.
+
+However, a scientific argument for a "genetic" component to art exists, tied to concepts like maternal lineage and the transmission of energy levels and proactiveness from the mother's side (mitochondria) <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a>. The argument suggests that growing up in an artistic family can instill an internal drive for cinema and art <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>.
+
+Growing up in a film family also provides invaluable real-world experience, such as learning about respecting people's time, different cultures, and developing emotional intelligence regarding the sensitivity of artists in an artistic environment <a class="yt-timestamp" data-t="00:15:31">[00:15:31]</a>. Such experiences are seen as priceless and integral to a genuine love for films and good work in the field <a class="yt-timestamp" data-t="00:15:54">[00:15:54]</a>.
+
+The Kapoor family's success is attributed to their strong belief in hard work, purity of intent, and a process-driven approach to life <a class="yt-timestamp" data-t="00:44:14">[00:44:14]</a>. They highly value honesty in work, dealings with people, and intent <a class="yt-timestamp" data-t="00:44:43">[00:44:43]</a>. Their upbringing, marked by being the "less affluent Kapoors" in Chembur, instilled a need to hustle and value their self-made success <a class="yt-timestamp" data-t="00:45:03">[00:45:03]</a>.
+
+## The Role of Podcasts and Open Conversation
+Podcasts provide a unique environment for artists to express themselves personally and genuinely, moving beyond the impersonal and generic questions often found in traditional interviews <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>. This format allows for deeper conversations, almost like therapy, where hosts and guests can explore their minds and life experiences, leading to mutual understanding and connection <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.

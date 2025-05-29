@@ -1,0 +1,47 @@
+---
+title: Role of rituals and objects in paranormal activities
+videoId: nsWE9qZRhqo
+---
+
+From: [[beerbiceps]] <br/> 
+
+Dr. Savio Fado, a demonologist and psychic, explains how rituals and objects play a significant role in the paranormal realm, affecting both entities and humans. His work with the Pairs team, which includes Sarjit Mohanti and Puja Vijay, involves [[paranormal_investigation_methods | scientific investigation of haunted locations]] and [[exorcism_and_spiritual_beings | exorcisms]] to understand and address paranormal phenomena <a class="yt-timestamp" data-t="01:06:05">[01:06:05]</a> <a class="yt-timestamp" data-t="03:00:59">[03:00:59]</a>.
+
+## Objects and Entities
+
+Dr. Fado highlights that many objects can harbor entities <a class="yt-timestamp" data-t="00:33:04">[00:33:04]</a>. After resolving [[ghostly_experiences_and_paranormal_investigations | paranormal cases]], his team often collects these "charged objects" or "haunted objects" from locations or private residences <a class="yt-timestamp" data-t="00:30:02">[00:30:02]</a> <a class="yt-timestamp" data-t="00:43:28">[00:43:28]</a>. These objects, which contain entities, are kept in his home, effectively acting as "little demonic pets" <a class="yt-timestamp" data-t="00:43:50">[00:43:50]</a>.
+
+### Mirrors as Portals
+A significant example of an object serving as a conduit is a mirror. According to Dr. Fado, certain mirrors can act as portals <a class="yt-timestamp" data-t="00:44:29">[00:44:29]</a>. Not all mirrors are portals, but they "potentially can be" <a class="yt-timestamp" data-t="00:44:50">[00:44:50]</a>. When mirrors face each other, they create an "endless loop" that forms an "entry way," or "passage way," allowing "other worldly and outworld entities to actually enter this world" <a class="yt-timestamp" data-t="00:45:15">[00:45:15]</a> <a class="yt-timestamp" data-t="00:45:21">[00:45:21]</a> <a class="yt-timestamp" data-t="00:45:26">[00:45:26]</a>. This phenomenon is even recognized in Vastu and Feng Shui, which advise against keeping mirrors opposite each other <a class="yt-timestamp" data-t="00:45:33">[00:45:33]</a> <a class="yt-timestamp" data-t="00:45:37">[00:45:37]</a>. Entities entering through these portals can come from "different galaxies" or "different Dimensions" <a class="yt-timestamp" data-t="00:46:09">[00:46:09]</a>.
+
+### Household Items and EMF
+A home can also become a portal through the strategic placement of objects that emit electromagnetic frequencies (EMF). If items like an inverter battery, Wi-Fi router, or refrigerator are arranged in a specific pattern, such as a triangular portion, they can create a portal <a class="yt-timestamp" data-t="00:49:09">[00:49:09]</a> <a class="yt-timestamp" data-t="00:49:15">[00:49:15]</a> <a class="yt-timestamp" data-t="00:49:16">[00:49:16]</a>. People might then observe "entities walking in and out" through walls and doors <a class="yt-timestamp" data-t="00:49:30">[00:49:30]</a>. These are not hallucinations if witnessed from outside the EMF pollution zone <a class="yt-timestamp" data-t="00:49:44">[00:49:44]</a>.
+
+## Rituals and Their Influence
+
+Dr. Fado's work extensively involves various rituals, from [[exorcism_and_demonic_possession | exorcisms]] to cleansing procedures, to manage and interact with [[understanding_spirits_ghosts_and_demonic_entities | spirits, ghosts, and demonic entities]].
+
+### Exorcism and Cleansing
+Dr. Fado defines [[exorcism_and_demonic_possession | exorcism]] as helping with a "demonic possession," which he likens to removing an unwanted sickness <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a> <a class="yt-timestamp" data-t="00:19:20">[00:19:20]</a> <a class="yt-timestamp" data-t="00:19:23">[00:19:23]</a>. He explains that demons, which he views as diseases, afflict individuals on mental and spiritual levels <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a> <a class="yt-timestamp" data-t="00:20:07">[00:20:07]</a>. The first step in [[exorcism_and_demonic_possession | exorcism]] is to diagnose and identify the specific demon, as each has its own weakness that can be targeted <a class="yt-timestamp" data-t="00:22:16">[00:22:16]</a> <a class="yt-timestamp" data-t="00:23:32">[00:23:32]</a>. His approach to [[exorcism_and_demonic_possession | exorcism]] is tailored to the individual and the specific mental illness, emphasizing a calm and relaxed manner rather than theatrics <a class="yt-timestamp" data-t="00:23:29">[00:23:29]</a> <a class="yt-timestamp" data-t="00:23:50">[00:23:50]</a>.
+
+Cleansing, on the other hand, refers to removing an entity from a location, often forcefully crossing it over <a class="yt-timestamp" data-t="01:13:00">[01:13:00]</a>. Before cleansing, Dr. Fado investigates for other anomalies like EMF pollution or Vastu imbalances, recommending specialized consultants if those are the primary issues <a class="yt-timestamp" data-t="01:13:28">[01:13:28]</a>.
+
+### Chants and Intent
+The discussion touches on the power of chants, as seen in the movie *Hereditary*, which features actual "chants for paymon" (Paimon is an actual demon) <a class="yt-timestamp" data-t="00:50:52">[00:50:52]</a> <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>. While simply saying a demon's name might not be inherently wrong <a class="yt-timestamp" data-t="00:50:55">[00:50:55]</a>, the *intention* behind the action is crucial. Dr. Fado asserts that if one *wants* a ritual or chant to work, it *will* work, citing "Bloody Mary" as an example <a class="yt-timestamp" data-t="01:26:23">[01:26:23]</a> <a class="yt-timestamp" data-t="01:26:26">[01:26:26]</a>.
+
+### Ouija Boards: Science vs. Occult
+Ouija boards, commonly seen as a tool for paranormal communication, are explained by Dr. Fado primarily through the "ideomotor effect" <a class="yt-timestamp" data-t="01:21:38">[01:21:38]</a>. The micro-muscles in one's fingers twitch, causing the planchette to move, and the information often comes from "the recesses of your memory" <a class="yt-timestamp" data-t="01:21:50">[01:21:50]</a> <a class="yt-timestamp" data-t="01:22:25">[01:22:25]</a>. However, he cautions that Ouija boards can also "invite a demon from another or a dead entity from another Zone" <a class="yt-timestamp" data-t="01:23:41">[01:23:41]</a>. He describes this as "playing blind dates with evil entities" <a class="yt-timestamp" data-t="01:23:48">[01:23:48]</a>, as entities might seize the opportunity to interact with the physical world <a class="yt-timestamp" data-t="01:23:57">[01:23:57]</a>.
+
+## Entity Interaction and Manipulation
+
+The power of entities to interact with and manipulate the physical realm is closely tied to energy and memory.
+
+### Energy Accumulation and Manifestation
+Entities, being invisible, gather energy from various sources like EMF, light, air densities, or water <a class="yt-timestamp" data-t="01:00:57">[01:00:57]</a> <a class="yt-timestamp" data-t="01:01:01">[01:01:01]</a> <a class="yt-timestamp" data-t="01:16:30">[01:16:30]</a>. They spend this energy only when they are acknowledged, as they prefer to interact with those who recognize their presence <a class="yt-timestamp" data-t="01:01:10">[01:01:10]</a> <a class="yt-timestamp" data-t="01:01:13">[01:01:13]</a>. The stronger an entity is, the more it can manipulate the physical realm <a class="yt-timestamp" data-t="01:17:47">[01:17:47]</a>. This can lead to [[ghostly_experiences_and_paranormal_investigations | Poltergeist activities]] such as throwing objects, shattering glass, or even physically restraining individuals, as experienced by Dr. Fado during an investigation in [[paranormal_investigations_and_haunted_locations in_India | Mumbai's outskirts]] <a class="yt-timestamp" data-t="01:11:30">[01:11:30]</a> <a class="yt-timestamp" data-t="01:17:26">[01:17:26]</a>.
+
+### Energy and Memory
+Dr. Fado explains that energy is fundamental; "everything is vibration, everything is just energy" <a class="yt-timestamp" data-t="01:18:56">[01:18:56]</a>. Humans "ascribe memory to each and every cell" through their DNA and genetics <a class="yt-timestamp" data-t="01:19:03">[01:19:03]</a>. When memory is removed from energy, the energy is "free to interact again and go go on to this next life" <a class="yt-timestamp" data-t="01:19:26">[01:19:26]</a>.
+
+Demons, unlike ghosts, are described as "free radicals of energy" that gain "spiritual memory" <a class="yt-timestamp" data-t="01:19:38">[01:19:38]</a> <a class="yt-timestamp" data-t="01:19:41">[01:19:41]</a>. If this memory is positive, they form angels or spirit guides; if negative, they become demons <a class="yt-timestamp" data-t="01:19:45">[01:19:45]</a> <a class="yt-timestamp" data-t="01:19:49">[01:19:49]</a>. Some entities can also be "gray" or confused, causing confusion <a class="yt-timestamp" data-t="01:19:57">[01:19:57]</a> <a class="yt-timestamp" data-t="01:20:00">[01:20:00]</a>. More potent demons can manipulate a person's mind, kill their conscience, and motivate them to commit harmful acts <a class="yt-timestamp" data-t="01:56:05">[01:56:05]</a>.
+
+Dr. Fado's personal [[janhvi_kapoors_views_on_the_occult_and_personal_paranormal_experiences | paranormal experiences]] and investigations confirm that the interaction between the physical and spiritual realms is complex and multifaceted, heavily relying on the energies, intentions, and properties of objects and rituals.

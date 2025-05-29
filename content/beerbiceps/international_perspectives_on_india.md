@@ -1,0 +1,53 @@
+---
+title: International perspectives on India
+videoId: DQqVr0obReo
+---
+
+From: [[beerbiceps]] <br/> 
+
+Palki Sharma, managing editor at Firstpost, is recognized for her directness and is considered a prominent voice in [[public_perception_and_polarization_in_india | Indian]] journalism, particularly in shaping [[media_perceptions_and_geopolitical_tensions_between_india_and_china | India's geopolitical narrative]] <a class="yt-timestamp" data-t="03:51:00">[03:51:00]</a>. Her work often focuses on international news, contributing to [[public_perception_and_polarization_in_india | India's]] wider global reach in this domain <a class="yt-timestamp" data-t="05:31:00">[05:31:00]</a>.
+
+## [[Indias Foreign Policy | India's]] Global Image and Soft Power
+
+[[media_perceptions_and_geopolitical_tensions_between_india_and_china | India's]] global image and soft power are crucial aspects of its international standing <a class="yt-timestamp" data-t="00:29:00">[00:29:00]</a>. The United States has successfully wielded soft power, with its value system and society often seen as an ideal way of life <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>. In contrast, China's soft power is not considered great because "No one believes what they're saying," despite significant expenditure on initiatives like Confucius Institutes <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>.
+
+[[indias_global_economic_strategy | India]] has performed "quite okay" in promoting its soft power through initiatives such as yoga and Ayurveda <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>. However, in the larger scheme of things, [[indias_global_economic_strategy | India]] is still "way behind" in effectively converting its soft power assets, like Bollywood, into favorable international perception <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>. Hollywood, for instance, continuously builds narratives through movies depicting their troops as courageous or Americans fighting aliens for global good <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. This constant narrative building is essential for a country's [[public_perception_and_polarization_in_india | image]] <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a>.
+
+## Challenges to [[Indias Foreign Policy | India's]] Legitimacy and Perception
+
+There's a concern that some people, including fellow [[indias_political_landscape | Indians]], negatively affect the soft power of their "motherland" by "dishing [[cultural_and_systemic_challenges_in_indian_governance | India]] on a global stage" <a class="yt-timestamp" data-t="00:29:00">[00:29:00]</a>, <a class="yt-timestamp" data-t="00:31:00">[00:31:00]</a>, <a class="yt-timestamp" data-t="04:46:00">[04:46:00]</a>. This can stem from a perceived mental seeking of validation from colonial powers, where some [[indias_political_landscape | Indians]] still need the West to declare what is "right" or "wrong" for their systems <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>.
+
+Media narratives play a significant role in shaping human viewpoints <a class="yt-timestamp" data-t="02:39:00">[02:39:00]</a>. International media often questions [[indias_political_landscape | India's]] legitimacy as a democracy and its electoral processes <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>. Global indices like the Press Freedom Index rank [[indias_political_landscape | India]] very low <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>. However, there is no comparable "press presence index" to measure the global reach of [[indias_political_landscape | Indian]] news portals <a class="yt-timestamp" data-t="02:34:00">[02:34:00]</a>. Countries like Al Jazeera, BBC, RT, CNN, France 24, and Channel News Asia have significant global video presence, while [[indias_political_landscape | Indian]] media lacks comparable reach <a class="yt-timestamp" data-t="02:36:00">[02:36:00]</a>.
+
+One major flaw in [[indias_political_landscape | India's]] approach is the lack of a long-term vision for building a credible and impactful global media presence <a class="yt-timestamp" data-t="02:04:00">[02:04:00]</a>, <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>. If [[indias_political_landscape | India]] is portrayed as unsafe or difficult to do business with due to red tapism, it directly impacts how international investors view the country <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>. It's crucial to correct perceptions based on prejudice or outdated information; for example, [[cultural_and_systemic_challenges_in_indian_governance | India]] is now a land of coders and has the highest AI adoption rate, not just snake charmers <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>.
+
+## The Role of [[Law and advocacy in India | Indian]] Media and Individuals
+
+Individual content creators and journalists like Palki Sharma are increasingly seen as leading the charge in changing the perception of [[public_perception_and_polarization_in_india | India]] globally <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>. In the current "paradox of plenty" in content, attention is scarce, and people turn to "cue givers" (editors, influencers, thought leaders) who have built credibility <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. This emphasizes the importance of individuals in storytelling and content creation <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>.
+
+However, ideally, individuals with vision should create institutions that outlast them, embodying their ethos and vision <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>. The goal should be to have many more people doing similar work to ensure continuity and broader impact <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>.
+
+## Double Standards in International Discourse
+
+There is a perceived double standard in how protests and government actions are viewed in [[cultural_and_systemic_challenges_in_indian_governance | India]] compared to Western countries <a class="yt-timestamp" data-t="00:46:00">[00:46:00]</a>. For example, blocking highways in [[cultural_and_systemic_challenges_in_indian_governance | India]] is often portrayed as a righteous protest, but similar actions in Canada are met with police force and deemed acceptable because they affect [[law_and_advocacy_in_india | Law and Order]] <a class="yt-timestamp" data-t="00:34:00">[00:34:00]</a>, <a class="yt-timestamp" data-t="04:36:00">[04:36:00]</a>.
+
+Another instance cited is the differing international reactions to military actions:
+*   Russia's invasion of Georgia in 2008 or Ukraine is called a "Russian invasion" <a class="yt-timestamp" data-t="02:30:00">[02:30:00]</a>.
+*   The U.S. invasion of Iraq is termed a "global war on terrorism" <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>.
+This difference is attributed to the American media's consistent effort to frame their actions as being for the "global good" <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>.
+
+At a debate at Oxford University, an [[indias_political_landscape | Indian]] journalist felt tension and hostility due to strong preconceived notions about [[public_perception_and_polarization_in_india | India]] <a class="yt-timestamp" data-t="03:47:00">[03:47:00]</a>. While speakers exaggerating [[cultural_and_systemic_challenges_in_indian_governance | India's]] problems or making baseless remarks received applause, facts about [[cultural_and_systemic_challenges_in_indian_governance | India's]] progress were met with "pin drop silence" <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>. The most disheartening aspect was that "people maligning [[cultural_and_systemic_challenges_in_indian_governance | India]] are your fellow [[cultural_and_systemic_challenges_in_indian_governance | Indians]]" <a class="yt-timestamp" data-t="03:13:00">[03:13:00]</a>. It seemed that to win a debate or gain cheer in such settings, one had to take an "anti-[[public_perception_and_polarization_in_india | India]] line" <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>.
+
+## [[Indias Foreign Policy | India's]] Position in a Multi-Polar World
+
+The world is currently in a multi-polar phase, where countries recognize they can stand up for themselves and do not necessarily have to follow the dictates of major powers <a class="yt-timestamp" data-t="01:20:00">[01:20:00]</a>. Power has diffused to non-state actors like terrorist groups, NGOs, civil society movements, and tech companies, which can affect a nation's legitimacy <a class="yt-timestamp" data-t="01:56:00">[01:56:00]</a>, <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>.
+
+[[indias_foreign_policy | India]] and China have engaged in 20 rounds of talks since the Galwan clash, but the challenge lies in China's insincerity at the negotiating table <a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a>. China's refusal to accept or respect borders contributes to conflict <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+
+Britain's exit from the European Union (Brexit) has been chaotic and has not benefited the British economy, which is currently struggling <a class="yt-timestamp" data-t="08:55:00">[08:55:00]</a>. Post-Brexit, Britain is seeking new trade partnerships, including a Free Trade Agreement with [[indias_global_economic_strategy | India]] <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a>.
+
+Europe, though a richer society with better institutions (attributed partly to historical looting of other regions) <a class="yt-timestamp" data-t="01:13:00">[01:13:00]</a>, faces challenges with immigration, where taxpayers are reluctant to support non-contributing populations, and cultural integration issues persist <a class="yt-timestamp" data-t="01:49:00">[01:49:00]</a>. There is also economic stagnation in countries like Germany, with an aging society that will increasingly need workers from outside <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>.
+
+## Future Outlook
+
+[[indias_political_landscape | India]] has talent and resources but lacks vision in building a strong global media presence <a class="yt-timestamp" data-t="02:41:00">[02:41:00]</a>. There is a need to actively make an effort to follow the news to ensure diverse voices are represented <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a>. Palki Sharma envisions more women leaders not just in politics but in all spheres of life, believing they bring a unique and important touch to governance <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>.

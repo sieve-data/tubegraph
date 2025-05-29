@@ -1,0 +1,39 @@
+---
+title: Developing a positive mindset
+videoId: 6orWcsUVUqo
+---
+
+From: [[beerbiceps]] <br/> 
+
+Cultivating a positive mindset is essential for success, defined by factors like hard work and the correct career mindset <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>, <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. Before entering the professional world, it's crucial to dedicatedly improve one's mindset <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+
+## Top Teenage Lessons for a Positive Mindset
+
+The following lessons are considered foundational for personal growth:
+
+### 1. Harness Adversity for Growth
+
+Individuals who mock, doubt, or hurt you can actually be catalysts for your [[personal_growth_and_overcoming_failure | growth]] in life <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>, <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>, <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>, <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. For instance, if someone makes fun of your weight, use it as motivation <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>, <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. If told you won't succeed, use that as fuel <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. Your future rests solely in your hands <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
+
+It's acceptable to feel inferior at times <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. Life is a continuous [[personal_growth_and_overcoming_failure | self-improvement]] process <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. The choice is yours: either dwell on negative feelings or choose to [[personal_growth_and_overcoming_failure | grow]] in all aspects of life to become your best self <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>, <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>, <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>, <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+
+### 2. Embrace and Improve Your Self
+
+Your perceived flaws are often much smaller than you imagine <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. Nobody is perfect <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>, and you tend to notice your own flaws more than anyone else does <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. In a world characterized by fakery and insecurity, it's vital to learn to [[promoting_selfconfidence_and_selfacceptance | love yourself]] <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>, <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+
+There are aspects of yourself that cannot be changed, such as hair, skin color, or nose shape <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>, <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>, <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>, <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. For these, learn to [[understanding_and_accepting_personal_flaws | love those things]] as they define who you are <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>, <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. For changeable factors like clothing choices or external appearance, strive to learn more and improve them <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>, <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>, <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>, <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>. This journey from childhood to adulthood involves developing [[building_selfconfidence_and_happiness | external confidence]], which fosters internal confidence, leading to [[building_selfconfidence_and_happiness | internal happiness]] <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>, <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>, <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>, <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>, <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>, <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>, <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+
+### 3. Redefine Success Beyond Marks
+
+The biggest teenage life lesson is to never let academic marks define you <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>, <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. While society often suggests marks determine happiness <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>, <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>, <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>, the reality is they only shape the initial chapters of your career <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>, <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Five to ten years into your career, employers will prioritize your competence, character, and passion for your work over academic scores or college affiliations <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>, <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>, <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>, <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>, <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>, <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>, <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>, <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>.
+
+Pressure from parents and teachers often stems from a desire to protect their own reputations or as a form of motivation <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>, <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>, <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>, <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>, <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>, <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>, <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. Therefore, don't feel discouraged by poor scores; they are merely a minor point in the timeline of your life <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>, <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. Your future is not determined by marks, but by your ongoing effort and [[personal_growth_and_overcoming_failure | hustle]] <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>, <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>, <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. At every stage, strive to become your best self and embrace who you are <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>, <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>, <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+
+## Formula for Success and Happiness
+
+A three-point formula for success in life includes:
+1.  **Love:** Love people and love your life <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>, <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+2.  **Gratitude:** Have gratitude for all that the world has given you <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>, <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>.
+3.  **Focus on Positivity:** Prioritize [[building_selfconfidence_and_happiness | happiness]] and concentrate on the positive aspects of your situation, life, and self <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>, <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>, <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>, <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>.
+
+Ultimately, you are more beautiful than you can imagine; the key is to realize it yourself <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>, <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>, <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.

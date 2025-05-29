@@ -1,0 +1,39 @@
+---
+title: Mental health and spirituality
+videoId: klMP7sMFtDw
+---
+
+From: [[beerbiceps]] <br/> 
+
+## The Search for Peace and Happiness
+The pursuit of complete happiness is described as an ongoing journey, acknowledging that a certain "void" may always exist in life. The focus shifts from grand achievements to appreciating "small things" for genuine happiness and comfort <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. This includes simple pleasures like eating chips, being with friends, and dressing casually without makeup <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>.
+
+A significant personal void identified is the search for peace, especially amidst the constant hustle and lack of traditional weekends in a demanding career <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. It is recognized that there is "very little control over what happens" in life <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>. The belief that reaching a certain professional or financial peak will bring happiness or peace is a common misconception; in fact, increased wealth and fame can add to "craziness," making peace more elusive <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>. Peace is considered an "inside job," not something that can be externally verified or measured <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>.
+
+The COVID-19 lockdown served as a "reality check," highlighting the essential needs in life and prompting a re-evaluation of the previously "crazy pace" of doing multiple things at once <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>. The importance of being present in each moment, such as fully engaging in an interview rather than thinking about future tasks, became apparent <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>.
+
+## Spirituality and Existentialism
+The existential question of "where's my life going" or "why am I doing this" often arises, especially after achieving career stability <a class="yt-timestamp" data-t="00:25:50">[00:25:50]</a>. This feeling of emptiness beyond professional success leads many to explore [[spiritual_practices_and_growth | spiritual practice]] as an answer <a class="yt-timestamp" data-t="00:26:02">[00:26:02]</a>. The advice given is to stop "obsessing" and "trying too hard" to find answers, as things like sleep, peace, and natural bodily functions occur when one is relaxed and "chill" <a class="yt-timestamp" data-t="00:26:45">[00:26:45]</a>. The harder one pushes, the further away desired outcomes may seem <a class="yt-timestamp" data-t="00:27:03">[00:27:03]</a>.
+
+### The Role of a Higher Power
+There is a strong belief that creation and success are not solely one's own, but rather an "external force acting through you" <a class="yt-timestamp" data-t="00:29:58">[00:29:58]</a>. This is observed in various fields, from artists like Prateek Kuhar and AR Rahman to businessmen and army personnel <a class="yt-timestamp" data-t="00:29:12">[00:29:12]</a>. A deeper connection to [[spiritual_practices_and_growth | spirituality]], meditation, and faith has been noted to expand creativity significantly <a class="yt-timestamp" data-t="00:28:50">[00:28:50]</a>.
+
+### Learning Through Experience
+While theoretical knowledge is valuable, "taking action" and engaging in real-life experiences are crucial for learning and growth <a class="yt-timestamp" data-t="00:30:27">[00:30:27]</a>. Even with extensive knowledge about "good relationships," one might still experience "bad relationships" due to human elements like hormones and chemicals <a class="yt-timestamp" data-t="00:30:38">[00:30:38]</a>. This highlights the gap between theory and practical experience.
+
+## Self-Compassion and Yoga
+The importance of self-compassion, or "cutting ourselves some slack," is emphasized <a class="yt-timestamp" data-t="00:31:33">[00:31:33]</a>. Being harsh on oneself can lead to projecting that same harshness onto others <a class="yt-timestamp" data-t="00:32:22">[00:32:22]</a>. A key principle learned from yoga is "Ahimsa" (non-harming) towards oneself; rather than forcing a physical posture, one should "breathe into" it, respecting the body's limits <a class="yt-timestamp" data-t="00:31:54">[00:31:54]</a>. The speaker acknowledges being self-critical, particularly regarding an intense work pace that can lead to physical and emotional exhaustion <a class="yt-timestamp" data-t="00:32:55">[00:32:55]</a>.
+
+## [[Role of spirituality and meditation in daily life | Spirituality]] and Daily Living
+Spirituality is increasingly incorporated into daily life through practices like chewing food slowly and oil pulling, both rooted in ancient Ayurvedic wisdom <a class="yt-timestamp" data-t="00:51:51">[00:51:51]</a>. There's a strong belief that modern generations need this wisdom more than ever due to high stress levels and mental health issues, often exacerbated by social media's emphasis on external validation <a class="yt-timestamp" data-t="00:53:16">[00:53:16]</a>.
+
+A personal experience with dietary change (vegetarianism) led to a significant shift in temperament, reducing aggression and promoting a more "chilled out" demeanor <a class="yt-timestamp" data-t="00:54:04">[00:54:04]</a>. However, it's also noted that for certain demanding professions like acting, a degree of "aggression" or determination might be perceived as necessary <a class="yt-timestamp" data-t="00:54:47">[00:54:47]</a>.
+
+## Karma and Rebirth
+The concept of karma is firmly believed, where actions and even thoughts can accumulate "good or bad karma" <a class="yt-timestamp" data-t="00:59:05">[00:59:05]</a>. The idea of rebirth is also considered, explaining deep connections to strangers or unexpected conversations <a class="yt-timestamp" data-t="00:56:14">[00:56:14]</a>. [[The role of spirituality in personal growth and societal evolution | Spirituality]] and its findings are seen as foundational to the nation, and it is urged that they be taken more seriously <a class="yt-timestamp" data-t="00:56:44">[00:56:44]</a>.
+
+## Meditation and Presence
+Meditation is described as a fundamental aspect of [[Role of spirituality in personal and professional life | spirituality]], serving as a "break for the mind" akin to how intermittent fasting breaks for the body <a class="yt-timestamp" data-t="00:57:11">[00:57:11]</a>. It's about focusing on one thing (like breath or a mantra) to reconnect with the "omnipresence" or higher power that exists everywhere <a class="yt-timestamp" data-t="01:00:11">[01:00:11]</a>. The ultimate aim of being meditative is to reach a state of "nothingness," where the constant stream of thoughts is paused, allowing one to be fully "in the moment" <a class="yt-timestamp" data-t="01:01:30">[01:01:30]</a>. Being present in everyday interactions, like an interview, can also be a meditative state <a class="yt-timestamp" data-t="01:01:51">[01:01:51]</a>. The act of "not doing anything" is often underrated but can be highly valuable <a class="yt-timestamp" data-t="01:02:26">[01:02:26]</a>.
+
+## Gratitude and Simple Prayers
+Gratitude is a profoundly important practice, especially realized during the COVID-19 pandemic <a class="yt-timestamp" data-t="01:02:45">[01:02:45]</a>. Conscious and proactive efforts are made to thank people, recognizing that most achievements are not possible without collective help <a class="yt-timestamp" data-t="01:02:55">[01:02:55]</a>. Prayers tend to be for very "small things" that improve the day, such as a good cup of coffee, rather than grand requests, as many significant life blessings are perceived to have been given without asking <a class="yt-timestamp" data-t="01:03:17">[01:03:17]</a>.

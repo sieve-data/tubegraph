@@ -1,0 +1,32 @@
+---
+title: One Child Policy and its impact on Chinese society
+videoId: _jcKVoi38-0
+---
+
+From: [[beerbiceps]] <br/> 
+
+The One Child Policy was a significant governmental regulation in China, impacting generations and shaping societal norms <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. Uchin Lee, also known as Mary Lee, an entrepreneur from China, was part of this policy as an only child <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>, <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>, <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>.
+
+## Implementation and Rationale
+
+Mary Lee's mother, being a communist, ensured strict adherence to the One Child Policy within their family, as communist families were expected to be exemplary in following government rules <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>, <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>, <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>. Non-communist families sometimes paid penalties or hid children to have more, though this was more common 20-30 years ago <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>, <a class="yt-timestamp" data-t="00:11:06">[00:11:06]</a>, <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>.
+
+Mary Lee disagrees with the criticism of the One Child Policy, stating that people often don't understand the circumstances in China at the time <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>, <a class="yt-timestamp" data-t="00:21:32">[00:21:32]</a>, <a class="yt-timestamp" data-t="00:21:39">[00:21:39]</a>. The policy was implemented due to a severe shortage of food and other resources after World War II <a class="yt-timestamp" data-t="00:23:59">[00:23:59]</a>, <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>.
+
+### Post-WWII Challenges
+Following World War II, China faced widespread hunger and lack of essential goods <a class="yt-timestamp" data-t="00:21:19">[00:21:19]</a>, <a class="yt-timestamp" data-t="00:21:22">[00:21:22]</a>. The nation's economy and money had been diverted to weapons and heavy industry during the war, neglecting agriculture <a class="yt-timestamp" data-t="00:21:51">[00:21:51]</a>, <a class="yt-timestamp" data-t="00:21:59">[00:21:59]</a>. Many people died from starvation <a class="yt-timestamp" data-t="00:22:03">[00:22:03]</a>. Mary Lee's grandmother, for instance, had six children, three of whom died due to hunger <a class="yt-timestamp" data-t="00:22:45">[00:22:45]</a>, <a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>. Even from a "quite good family" where her grandfather was a police chief, they struggled to afford care for all their children <a class="yt-timestamp" data-t="00:23:19">[00:23:19]</a>, <a class="yt-timestamp" data-t="00:23:26">[00:23:26]</a>.
+
+The One Child Policy was a measure to control population growth, aiming to ensure that every child born would have a better life, sufficient food, and good education <a class="yt-timestamp" data-t="00:23:33">[00:23:33]</a>, <a class="yt-timestamp" data-t="00:23:38">[00:23:38]</a>, <a class="yt-timestamp" data-t="00:23:47">[00:23:47]</a>.
+
+## Lifting of the Policy
+The One Child Policy was lifted more than 10 years ago <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>. The government now allows families to have a second child, and it's even possible to apply for a third, with no restrictions or penalties <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>, <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>.
+
+## Societal Impact and Shifting Priorities
+
+The historical context of the One Child Policy influenced a strong focus on education and economic development in China. Post-war, there was a push for education, technology, and financial development, championed by leaders like Mr. Deng Xiaoping, who opened up financial development to guide China towards strength and recovery <a class="yt-timestamp" data-t="00:19:02">[00:19:02]</a>, <a class="yt-timestamp" data-t="00:19:05">[00:19:05]</a>, <a class="yt-timestamp" data-t="00:19:08">[00:19:08]</a>, <a class="yt-timestamp" data-t="00:19:11">[00:19:11]</a>.
+
+This focus contributes to the modern Chinese work ethic, where people are driven to work hard and develop their country <a class="yt-timestamp" data-t="00:55:08">[00:55:08]</a>, <a class="yt-timestamp" data-t="00:55:12">[00:55:12]</a>. The desire for a better life for children and future generations is strong, building upon improvements experienced by preceding generations <a class="yt-timestamp" data-t="01:17:14">[01:17:14]</a>, <a class="yt-timestamp" data-t="01:17:20">[01:17:20]</a>, <a class="yt-timestamp" data-t="01:17:27">[01:17:27]</a>.
+
+While the "one child" mindset is no longer mandated, societal priorities often lean towards financial stability and career advancement <a class="yt-timestamp" data-t="01:31:10">[01:31:10]</a>. In dating and marriage, Chinese people are often seen as less romantic and more pragmatic, prioritizing business, family, and making money <a class="yt-timestamp" data-t="01:29:43">[01:29:43]</a>, <a class="yt-timestamp" data-t="01:29:51">[01:29:51]</a>. The new generation may be more selfish and inclined towards hookup culture rather than serious marriage, similar to trends in other countries <a class="yt-timestamp" data-t="01:30:10">[01:30:10]</a>, <a class="yt-timestamp" data-t="01:30:17">[01:30:17]</a>. However, there are still many who seek true love and romance <a class="yt-timestamp" data-t="01:35:32">[01:35:32]</a>. This represents a significant shift in [[cultural_and_societal_changes_across_generations | cultural and societal changes across generations]].
+
+Parents in China historically placed immense pressure on their children's education, strictly prohibiting dating during school years to maintain focus on studies <a class="yt-timestamp" data-t="01:32:27">[01:32:27]</a>, <a class="yt-timestamp" data-t="01:32:45">[01:32:45]</a>. However, immediately after graduation, the pressure abruptly shifts to marriage and having children, creating a sudden expectation for young adults <a class="yt-timestamp" data-t="01:32:56">[01:32:56]</a>, <a class="yt-timestamp" data-t="01:32:59">[01:32:59]</a>, <a class="yt-timestamp" data-t="01:33:09">[01:33:09]</a>. This highlights the [[challenges_and_pressures_of_living_up_to_family_expectations | challenges and pressures of living up to family expectations]].

@@ -1,0 +1,41 @@
+---
+title: personal growth and purpose in life
+videoId: OcISVEh1jyw
+---
+
+From: [[beerbiceps]] <br/> 
+
+## The Evolution of Work-Life Balance
+Priyanka Chopra reflects on how the concept of success has evolved for her. When she was younger, there was a romanticized notion that working 24 hours a day, juggling multiple projects, and sacrificing sleep and food would lead to greater success <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. However, with more life experience, she realized the crucial [[the role of discipline and selfcare in personal and professional growth | importance of work-life balance]] <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. Taking time off, like a recent trip to Turks and Caicos with her husband where phones were off, allowed her to return feeling rejuvenated, excited, and motivated to advance her career <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+
+She emphasizes that work doesn't have to be tough or rough; it can be a companion, a creative outlet, and a source of joy <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>. Maintaining a balance is now paramount <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>. By switching off and spending time with family, watching movies, and pursuing personal desires, she gains the focus needed to be even more productive when she returns to work <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>.
+
+## Finding Happiness and Stability
+Priyanka Chopra states she is happier than she has been in a long time <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. This contentment stems from no longer struggling with issues she faced in her youth, attributing it to maturity and being "on the other side of 35" <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>. She feels more stable and grounded, no longer "running as fast" but instead carefully considering her steps <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>.
+
+A key aspect of her current happiness is that her choices are her own, free from the validation of others that she once needed <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. This autonomy has brought her a sense of calm <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
+
+## Legacy and Breaking Molds
+Priyanka Chopra expresses her deep love for her job and the ability to create in diverse ways <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>. She recognizes her privileged position, one she created herself, and sees it as her legacy for her children and future generations who might not otherwise envision such potential for themselves <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
+
+She notes a "fearless" new generation of girls who are taking charge of their lives, refusing to fit into traditional "cookie-cutter" molds <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>, <a class="yt-timestamp" data-t="00:15:53">[00:15:53]</a>. Many young women are changing their families' trajectories through their choices <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>, <a class="yt-timestamp" data-t="00:16:12">[00:16:12]</a>. Her generation of women has also played a role in changing the trajectory for subsequent generations by fighting for agency and leading roles in films <a class="yt-timestamp" data-t="00:14:03">[00:14:03]</a>. She believes every generation improves the landscape for the next <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>.
+
+## Overcoming Challenges and [[importance of humility and personal growth in spiritual practice | Humility]]
+Moving to America in 2010 to pursue a career, first in music and then acting, required starting from scratch despite having built an "incredible career" and "amazing credibility" in India <a class="yt-timestamp" data-t="00:25:01">[00:25:01]</a>. She had to "swallow the humility pill" <a class="yt-timestamp" data-t="00:31:31">[00:31:31]</a>, walking into rooms, introducing herself, showing her work, and auditioning <a class="yt-timestamp" data-t="00:27:07">[00:27:07]</a>. It took 10 years to secure her first leading role in America <a class="yt-timestamp" data-t="00:25:21">[00:25:21]</a>.
+
+She emphasizes that success is not instant; it requires "hard work," "consistent knocking on doors," and humility <a class="yt-timestamp" data-t="00:25:27">[00:25:27]</a>. When confronted with others who try to "jeopardize" or "pull down" successful individuals, she advises focusing on those who believe in you and the "little sliver of light" <a class="yt-timestamp" data-t="00:32:19">[00:32:19]</a>. This requires an individual's inner fight, rather than waiting for others to fix things <a class="yt-timestamp" data-t="00:33:15">[00:33:15]</a>.
+
+## [[Spiritual practices and growth | Gratitude]] and Purpose
+Priyanka Chopra has a strong belief in destiny and faith <a class="yt-timestamp" data-t="00:33:34">[00:33:34]</a>. She practices daily *Puja* and expresses immense gratitude for her health, life, family, lifestyle, and the ability to be a kind and grateful person <a class="yt-timestamp" data-t="00:33:46">[00:33:46]</a>. She ponders why she is fortunate enough to have her life while others with similar desires and ambitions do not <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>, leading her to believe she "did something right" in a previous life <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>. This conviction fuels her desire to give back <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>.
+
+She believes the "meaning of life is having purpose" <a class="yt-timestamp" data-t="00:42:30">[00:42:30]</a>. What one does between birth and death constitutes their legacy <a class="yt-timestamp" data-t="00:42:36">[00:42:36]</a>. While success is subjective, the pursuit of a meaningful life should focus on defining one's identity, what they want to achieve, who they want to impact, and what they want to create <a class="yt-timestamp" data-t="00:43:14">[00:43:14]</a>. The ultimate goal is to make choices that bring peace <a class="yt-timestamp" data-t="00:43:39">[00:43:39]</a>.
+
+## Self-Empowerment and Eliminating Toxicity
+A crucial message for young, ambitious women is to disregard societal "noise" and narratives that dictate how women should behave <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a>. She challenges archaic ideas like "women should be seen not heard" or strict rules about demeanor <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>. Instead, she asserts, "Bold Girls Make History" <a class="yt-timestamp" data-t="00:16:57">[00:16:57]</a>.
+
+To be the "lead actor" of one's own life, individuals must make choices that might be unconventional <a class="yt-timestamp" data-t="00:17:00">[00:17:00]</a>. This empowerment primarily comes from within, from one's "gut," even if external encouragement is lacking <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>. She advises finding inspiration from others, but critically, to internalize that inspiration and act upon it <a class="yt-timestamp" data-t="00:17:42">[00:17:42]</a>.
+
+She also stresses the [[building selfconfidence and happiness | importance of avoiding poisonous and toxic people]] who "mess with your brain" <a class="yt-timestamp" data-t="00:37:28">[00:37:28]</a>. Surrounding oneself with genuine "champions" who are happy for your success, even if there are only a few, is vital <a class="yt-timestamp" data-t="00:37:34">[00:37:34]</a>.
+
+## Overcoming Anxiety and Embracing Aging
+Priyanka Chopra would advise her younger self not to stress so much about losing her job or position, acknowledging that anxiety around aging and feeling "too old" is common even among teenagers <a class="yt-timestamp" data-t="00:35:38">[00:35:38]</a>. She believes aging feels "really nice" and brings a sense of calm <a class="yt-timestamp" data-t="00:36:20">[00:36:20]</a>. She challenges the societal "equity" placed on age, emphasizing that it's an inevitable fact of life <a class="yt-timestamp" data-t="00:36:26">[00:36:26]</a>. What truly matters is who you choose to be in the present moment, regardless of age <a class="yt-timestamp" data-t="00:37:06">[00:37:06]</a>, citing an example of a successful entrepreneur who started her company at 50 <a class="yt-timestamp" data-t="00:36:51">[00:36:51]</a>.
