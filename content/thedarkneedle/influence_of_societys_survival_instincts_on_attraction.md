@@ -1,0 +1,29 @@
+---
+title: Influence of societys survival instincts on attraction
+videoId: SGCdLAT7TzM
+---
+
+From: [[thedarkneedle]] <br/> 
+
+The ability to make a woman [[psychology_of_attracting_women | chase you]] is linked to a way of speaking called "impudence" <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Impudence is defined as a lack of modesty or boldness with a slight disregard for others <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. While it might seem negative, an impudent man is perceived by women as capable of survival <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+
+## Attraction as an Instinctive Response
+[[Role of Attraction in Relationships | Attraction]] is described as instinctive and not based on logic or modern-day principles <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. The primary trait a woman instinctively seeks in a man is his ability to survive <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+
+### Survival Instincts in Action
+Consider a scenario where a plane crashes on an island <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. The person most likely to survive and escape is not the kind and peaceful individual who tries to save everyone, but rather the selfish, harsh, and strong person who prioritizes their own survival <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. In such a situation, women in the group would compete to be with the selfish and harsh individual due to their higher chance of survival <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. The "nice guy" would only attract those rejected by the stronger man, and these women would likely only use him and betray him at the first opportunity <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+
+### Genetic Wiring and Modern Relevance
+A woman is genetically wired to seek out the impudent man <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Even in modern society, where direct physical survival is not always a daily necessity, these fundamental rules and instincts still apply <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. Therefore, cultivating impudence and boldness is crucial for attraction <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+
+## Elements of Impudence Enhancing Attraction
+[[Psychological Strategies to Enhance Attraction | Impudence]] and boldness are traits that can make a woman deeply love and become attached to a man <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. Displaying this type of boldness and impudence, particularly through speech, can lead to obsessive attachment <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. This must be done with moderation and intelligence <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+
+The elements of impudence in conversation include:
+
+*   **Being a little cheeky**: This involves being mischievous and breaking the typical formal interaction pattern, causing the woman to wonder and pay attention <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. It means showing too much familiarity early on, rather than being overly careful and formal like most men, which can lead to indifference <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. Neutrality is perceived as weakness <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
+*   **Being bold**: [[The importance of confidence in attraction | Boldness]] is highly attractive to all humans, not just in emotional contexts <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>. It means taking risks, whether real or potential, and focusing entirely on the present action without concern for future outcomes <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>. In interactions with women, boldness involves taking the first step in conversation, flirting, and physical initiation <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. Bold people do the unexpected, counteracting the boredom of repetition <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>.
+*   **Being shameless**: Attractive shamelessness means having the courage to say things as they are or what you are thinking, as long as it doesn't cause hurt <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. It's about saying what everyone else is thinking but is too shy to voice <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>, like pointing out the "elephant in the room" <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>.
+*   **Being slightly disrespectful**: This does not mean being insulting, but rather giving a woman the same level of respect one would give to close friends <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. Most men are overly polite, treating women like a principal, which hinders emotional connection <a class="yt-timestamp" data-t="00:12:25">[00:12:25]</a>. Over-respect can make her think she is better than you <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>. This can also be shown by not directly answering every question immediately, demonstrating control of the conversation and creating [[Role of excitement and unpredictability in attraction | unpredictability]] <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. This approach makes her feel she needs to earn your attention, rather than you simply submitting because she is pretty <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>.
+
+By applying these principles of impudence, a man can project the image of a strong individual who is not fearful and does not give excessive attention, leading to a woman chasing him and valuing him highly <a class="yt-timestamp" data-t="00:14:25">[00:14:25]</a>.

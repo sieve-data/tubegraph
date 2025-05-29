@@ -1,71 +1,79 @@
 ---
 title: Effective communication strategies
-videoId: DpvaLpLdViQ
+videoId: 9Hj-wpsIc5U
 ---
 
 From: [[thedarkneedle]] <br/> 
 
-The speaker notes a common pattern where initial interest from a girl wanes over time <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. After years of experience and research into the psychology of women, a solution was identified <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. The first step in addressing any problem is to identify its cause <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+Effective communication is crucial for building and maintaining relationships, particularly when aiming to foster attachment and longing in a woman <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. Women are emotional beings, and to make a woman attached to you, you must plant certain emotions within her, including missing you <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
 
-## Reasons for a Girl Losing Interest
+## Debunking the "No Contact Rule"
 
-Two main reasons contribute to a girl losing interest <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+A common misconception is that to make someone miss you, you must completely stop communicating with them, often referred to as the "no contact rule" <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. This approach, which suggests stopping all communication or even social media posts, is considered "nonsense" <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. Following it without implementing other strategies will not make a girl miss you; she might not even remember you <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
 
-### 1. Lack of "Drama" <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>
+The feeling of missing someone involves two main phases:
+1.  When you are with her (during a date or conversation) <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+2.  When you are away from her (not physically around) <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
 
-"Drama" is an emotional process a girl must go through to feel attracted <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. To maintain her long-term attraction, she needs to experience a variety of emotions <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>:
+## When You Are With Her
 
-*   **Excitement**: Achieved by mixing interest and disinterest in conversation <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
-*   **Fun**: Show you are an enjoyable person, so she associates you with exciting and fun moments <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
-*   **Confusion**: Create it by leaving stories unfinished or ending meetings without revealing your feelings <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
-*   **Curiosity**: Confusion naturally leads to her being curious about your interest <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
-*   **Eagerness**: Make her eager to learn more by keeping her guessing <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
-*   **Jealousy**: She should know you have other options and that she needs to compete for your attention <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
-*   **Comfort**: A girl will not become physically close unless she feels comfortable around you <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. Do everything to trigger this feeling <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
-*   **Conflict**: Don't be afraid to engage in small arguments occasionally <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
+The way you interact and [[effective_communication_strategies_in_romantic_contexts | communicate]] when you are together influences how much she misses you when you're apart <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
 
-A good mix of these emotions is key; letting one dominate will lead to boredom and loss of interest <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. To trigger these emotions, remain unpredictable and mysterious in conversations, behavior, and self-expression <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+### Create a Unique Identity
 
-### 2. She Feels You Want Her More Than She Wants You <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>
+To leave a lasting impression, add something unique to your personality that engages one or more of her senses <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>. This principle, derived from marketing psychology, suggests linking a brand to a client's senses <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
 
-When a girl senses you desire her more, she begins to pull away <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. This is evident through actions that reflect a fear of losing her, such as:
+*   **Hearing**: Use a unique, signature phrase or word when greeting people <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+*   **Smell**: Adopt a unique fragrance that becomes part of your identity <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
+*   **Sight**: Wear a distinctive accessory, like a specific ring or a unique piece of clothing, that makes you stand out <a class="yt-timestamp" data-t="00:03:23">[00:03:23]</a>.
 
-*   Doing everything she asks <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
-*   Going out of your way to please her <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
-*   Saying phrases like "My life has no meaning without you" <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>.
+### End Conversations at Their Peak
 
-While these expressions might be intended to convey importance and love, excessive effort to please her will not make her feel the same way <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
+Always aim to end a conversation or date when it is at its most enjoyable, leaving her wanting more <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>. This prevents the conversation from dragging on and ensures she associates positive feelings with your interactions <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
 
-## Solutions: Assessing and Acting on the Situation
+#### Hard Way: Humor
+If you are a naturally funny person, you can make her laugh and then suddenly end the conversation <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. This can be effective if you are both already laughing, but humor isn't always easily controlled <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
 
-The approach depends on your current status with the girl <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+> "All right, I have to go now. I have a meeting with my friend. Goodbye." <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>
 
-### Scenario 1: Recently Met (Hunting Phase) <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>
+#### Easy and Effective Way: Trigger Strong Emotions
+Women are emotional beings, and they enjoy moments when they feel strong emotions <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. To leverage this, make her feel something strong right before you end the conversation, then stop talking abruptly <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. This creates confusion and makes her think about you long after you leave <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
 
-If you've only met once or twice, you are in the "hunting phase" <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>. As a man, you must take the initiative to approach her and make the first move <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. Once attracted, she will start to pursue and invest her effort in you <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+The most effective way to do this is by triggering emotions related to either the past or the future <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
 
-*   **Example**: If she didn't respond to a message, wait, then comment on her story <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
-*   **Example**: If she works with you and doesn't talk one day, take the initiative to start the conversation <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+*   **Past Experiences**: Talk about her experiences, which are deeply tied to emotions <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
+    *   Ask questions like: "What made you move to this city?" <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>, "What's the biggest adventure you've been on?" <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>, "What's the most exciting place you've visited?" <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
+    *   To deepen the [[effective_communication_and_expression_techniques_in_relationships | conversation]], inquire about her feelings: "How did it feel when you did [blah blah]?" <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>, "What was your feeling during that moment?" <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+    *   You can relate by sharing different experiences that triggered similar emotions in you, but quickly shift the focus back to her to show you understand and are genuinely interested <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
 
-It's natural to start the conversation yourself in the beginning <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. It's rare for a girl to show strong interest from the first meeting, as they are constantly approached by many men <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. Even possessing ideal traits doesn't prevent her from losing interest over time <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
+*   **Future Aspirations**: Discuss her goals, dreams, and ambitions to evoke positive and hopeful emotions <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. These positive emotions will become associated with you in her subconscious mind <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
+    *   Ask questions like: "What are your biggest goals?" <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>, "What are some things you've always wanted to do?" <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>, "What are you aiming to achieve this year?" <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>.
+    *   To deepen the [[strategies_for_effective_communication_in_relationships | conversation]]: "How would you feel if you did that?" <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>, "What would your life look like if you accomplished that dream?" <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
 
-### Scenario 2: Girl Showed Interest, Then Lost It <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>
+## When You Are Away From Her
 
-This scenario is the primary focus <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>. It occurs when she has shown interest, you've met multiple times, and everything seemed fine, but then she suddenly stops communicating or showing interest <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>. This stage is challenging and requires following seven essential steps <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>:
+Attraction often builds when you are not physically with her or talking to her <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. Avoid the pressure to constantly communicate, as this can make you seem too available <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>.
 
-1.  **Do Not Overcommunicate**: When she stops communicating, avoid excessive talking, repeated messages, multiple calls, or constantly trying to initiate conversations to find out why <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. This behavior reveals a fear of losing her interest <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. Never let her see that you feel she no longer wants you <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
-2.  **Do Not Confess Your Feelings**: When she distances herself, there's pressure to express feelings to win her back <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>. However, she likely distanced herself because she felt you liked her *too much* <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>. Confessing feelings in this situation is a major mistake <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. The only time to confess feelings is when she confesses her love for you after a long relationship <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>.
-3.  **Do Not Express Your Anger**: If she doesn't reply or answer calls, do not block her <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. This only shows she emotionally affected you and confirms your attachment <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>. Similarly, do not send messages like "Why didn't you reply?" or "I'm tired of you and your games" <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>. Even if you feel anger, do not show it <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>; don't insult her or block her <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>.
-4.  **Do Not Apologize (in the Wrong Way)**: Men tend to be logical and try to fix problems rationally <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. When she stops communicating, avoid apologizing for your actions (e.g., explaining why you missed a date or didn't reply) <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>. She interprets apologies as fear of her disinterest and sees you as weak <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>.
-5.  **Don't Jump Directly to the Final Solution**: Avoid confronting her directly with statements like, "I want you, tell me if you want me or not" <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. This shows she has affected you and caused pressure <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>. In this phase, you must be comfortable staying in the "gray area" <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a> (though being direct is fine in other scenarios, like the friend zone <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>).
-6.  **Don't Give Her Gifts, Offer Money, or Take Her to Expensive Restaurants**: Never make this mistake when she is distancing herself <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>. She will perceive it as you trying to buy her love, which will push her further away <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a>. Gifts are appropriate for occasions like birthdays, not to win her back <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
-7.  **Don't Doubt Yourself**: When a girl loses interest, avoid self-doubt (e.g., "Am I unattractive?," "Do I have a weak personality?") and don't devalue yourself <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>. Her attraction, or lack thereof, is not about you as a person or your personality; it's about your actions and behavior, which can always be changed <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>.
+### Texting Strategies
 
-## Golden Advice: Give Her Space <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>
+Avoid common, ineffective texting advice that suggests deliberate delays to appear "not needy" <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>. Women can see through such games <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>.
 
-When a girl loses interest and distances herself, the most crucial action is to give her space <a class="yt-timestamp" data-t="00:11:06">[00:11:06]</a>. Stay calm and composed, and maintain distance; don't talk to her <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>.
+*   **Have a Real Reason for Delay**: Instead of ignoring her, ensure that any delay in replying is due to a genuine reason, like being busy with work or studies <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>.
+*   **Set Communication Boundaries**: Communicate clearly that you have specific times when you are unavailable for your phone. For example, tell her you do not use your phone before 7:00 PM because you are busy <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>.
+*   **Demonstrate a Busy Lifestyle**: Do not be available all day. Show her you are a busy man with other commitments, not someone constantly glued to their phone <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>.
 
-*   When she sees you've given her space and followed the steps outlined, she will likely come back and reach out to you <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
-*   **When She Returns**: Do not immediately invite her on a date <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>. Doing so implies you were waiting for her, undermining the composure you displayed <a class="yt-timestamp" data-t="00:11:33">[00:11:33]</a>. Instead, talk to her casually and reignite her emotions as previously explained <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>. Only ask her for a date after a certain period has passed <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>.
+### Phone Call Strategies
 
-There is also a possibility that her actions were a form of [[manipulation_strategies_in_communication | manipulation]] <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>.
+*   **Do Not Answer All Calls Immediately**: A golden rule is to never answer all her calls right away <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. Being too available makes her feel she has "figured you out," which can lead to a loss of interest <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+*   **Prioritize Your Life**: Make her feel that you have a busy life and that there are more important things than instantly answering her calls <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>.
+    *   For example, say: "I'm a bit busy right now, call me later, I'm watching a movie" <a class="yt-timestamp" data-t="00:11:08">[00:11:08]</a>.
+*   **Increase Her Investment**: When she realizes something else is more important in your world than talking to her, she understands she needs to work to gain your attention. This makes her put in more effort, increasing her attraction to you <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>.
+
+### Dating and Meeting Frequency
+
+*   **Limit Meetings Early On**: Especially before she becomes your girlfriend, do not meet her all the time. Aim for once or twice a week at most <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>. Avoid daily dates <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>.
+*   **Create Periods of Absence**: Periodically, introduce longer periods of absence, such as two weeks, during which you also reduce communication <a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>.
+*   **Provide a Reason**: This absence should be explained by a genuine reason, such as traveling or focusing on an important project <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>. Even if not entirely true, tell her you have an important project or are busy for a certain period and won't be able to see her <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>.
+*   **Allow Space for Missing**: This deliberate space and reduction in constant availability give her the opportunity to miss you <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>.
+
+By combining these [[communicating_effectively_to_build_connections | strategies for effective communication]], you can trigger feelings of longing and keep her thinking about you <a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>.
