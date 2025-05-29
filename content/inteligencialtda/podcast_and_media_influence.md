@@ -1,0 +1,29 @@
+---
+title: Podcast and Media Influence
+videoId: ORNFX-eIQxY
+---
+
+From: [[inteligencialtda]] <br/> 
+
+## The Reach of Modern Podcasts
+The "limited intelligence" program, hosted by Rogério Vilela, emphasizes the widespread nature of [[Intelligence and podcasts | podcasts]] and their broad audience reach, including "earthlings" and people across different countries like England and Australia <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>, <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. The show allows audience participation through questions and comments pinned in the live chat <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Listeners are encouraged to engage by leaving likes and subscribing <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+
+## Media's Impact on Public Discourse and Perception
+Podcasts, in particular, have become significant platforms for discussion, as demonstrated by the hosts' experience inviting a president for an interview <a class="yt-timestamp" data-t="00:51:13">[00:51:13]</a>. This event aimed to discuss health, quality of life, and introduce the sport of bodybuilding to a wider audience, representing various health professionals such as physiotherapists, physical educators, and nutritionists <a class="yt-timestamp" data-t="00:51:02">[00:51:02]</a>, <a class="yt-timestamp" data-t="00:51:27">[00:51:27]</a>, <a class="yt-timestamp" data-t="00:51:46">[00:51:46]</a>. The discussion also touched upon important topics like nutrition education and the mandatory nature of physical education in schools <a class="yt-timestamp" data-t="00:56:12">[00:56:12]</a>, <a class="yt-timestamp" data-t="00:57:06">[00:57:06]</a>.
+
+### Challenges Faced by Public Figures
+Engaging with high-profile political figures on such platforms, however, brings significant challenges. The hosts noted entering a "very controversial situation" <a class="yt-timestamp" data-t="00:52:32">[00:52:32]</a>.
+They experienced:
+*   **Subscriber Loss** After announcing the live interview, one host lost 25,000 subscribers on Instagram <a class="yt-timestamp" data-t="00:52:42">[00:52:42]</a>.
+*   **Criticism and Attacks** Some political figures and other [[media_and_cultural_commentary | podcasters]] criticized them, which the hosts interpreted as an attempt to gain "Hype" by talking negatively about them <a class="yt-timestamp" data-t="00:54:10">[00:54:10]</a>, <a class="yt-timestamp" data-t="00:54:37">[00:54:37]</a>. They emphasized that discussing ideas is valuable, but discussing people is "the stuff of old gossip" <a class="yt-timestamp" data-t="00:55:36">[00:55:36]</a>.
+*   **Threats** One host revealed that his family was threatened via direct messages on his wife's Instagram <a class="yt-timestamp" data-t="01:00:18">[01:00:18]</a>, <a class="yt-timestamp" data-t="01:00:36">[01:00:36]</a>.
+*   **Mischaracterization** The hosts were labeled "Bolsonarist" for inviting the president, despite their intention to represent a professional category and discuss relevant issues <a class="yt-timestamp" data-t="00:59:40">[00:59:40]</a>, <a class="yt-timestamp" data-t="01:03:13">[01:03:13]</a>. They clarified that their approach was about opening a door for discussion and showing the sport, not political endorsement <a class="yt-timestamp" data-t="01:04:10">[01:04:10]</a>, <a class="yt-timestamp" data-t="01:04:45">[01:04:45]</a>.
+
+Despite the backlash, the podcast gained followers and received positive feedback for its respectful approach to the interview, even from those who might not agree with the political stance <a class="yt-timestamp" data-t="01:02:10">[01:02:10]</a>, <a class="yt-timestamp" data-t="01:09:26">[01:09:26]</a>. The president's willingness to admit not knowing an answer and offering to connect with a minister was seen as a display of humility and professionalism <a class="yt-timestamp" data-t="01:10:34">[01:10:34]</a>, <a class="yt-timestamp" data-t="01:10:37">[01:10:37]</a>.
+
+## The Shifting Media Landscape
+The hosts noted a significant shift in media power, where the "monopoly of the big Media" is diminishing <a class="yt-timestamp" data-t="01:15:31">[01:15:31]</a>. They highlighted that their ability to host presidential candidates demonstrates that one no longer needs a large organization to create influential content or generate news <a class="yt-timestamp" data-t="01:15:44">[01:15:44]</a>, <a class="yt-timestamp" data-t="01:15:48">[01:15:48]</a>. The success of their [[Intelligence Ltda podcast discussion | podcast]] with millions of followers suggests that relevance and quality of work can attract high-profile guests, regardless of traditional media affiliations <a class="yt-timestamp" data-t="01:06:54">[01:06:54]</a>, <a class="yt-timestamp" data-t="01:06:58">[01:06:58]</a>.
+
+## The Role of Influencers and Public Figures
+The discussion extended to the responsibility of public figures and [[digital_behavior_and_social_media_influence | influencers]]. They stressed that individuals in the public eye have a role to provide an "incredible experience" to their audience <a class="yt-timestamp" data-t="01:18:30">[01:18:30]</a>.
+The hosts believe that [[personal_anecdotes_and_stories_from_the_radio_and_tv_industry | public figures]] and influencers often enter people's homes virtually, building a level of intimacy that should be respected <a class="yt-timestamp" data-t="01:19:54">[01:19:54]</a>, <a class="yt-timestamp" data-t="01:20:05">[01:20:05]</a>. Disappointment from a public figure can be profound, as it feels like losing a "friend" <a class="yt-timestamp" data-t="01:19:50">[01:19:50]</a>. This highlights the importance of understanding the influence and responsibility that comes with online presence.

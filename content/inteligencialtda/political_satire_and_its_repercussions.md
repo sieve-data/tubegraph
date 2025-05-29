@@ -1,0 +1,34 @@
+---
+title: Political satire and its repercussions
+videoId: ZqOEsJqb0YY
+---
+
+From: [[inteligencialtda]] <br/> 
+
+Political satire, particularly in Brazil, has often faced significant repercussions for comedians and artists, leading to [[Controversies surrounding humor and free speech | persecution]], [[Impact of political correctness and cancel culture on comedy | censorship]], and even lawsuits <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. The landscape of comedy in Brazil has seen shifts in what is considered acceptable to satirize, with certain political figures or parties being deemed "sacrosanct" and untouchable by humor <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a> <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>.
+
+## Early Encounters with Political Repercussions
+
+In 2008, comedian Danilo Gentili was expelled from the House of Councilors of São Paulo after asking Arlindo Quinália, a PT (Workers' Party) leader at the time, about a "cash register two" scandal <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a> <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. Gentili observed from this incident how the PT was "spoiled by the press," as no one else dared to ask such questions, putting politicians on a "pedestal" <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a> <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>.
+
+Veteran comedian Claudio Manoel from *Casseta e Planeta* experienced a similar shift. While satire of figures like Itamar, Collor, and Fernando Henrique was acceptable, making fun of Lula led to "retaliation" and "classes started" against the show <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a> <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. The perception was that certain politicians were "protected" from humor <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>.
+
+## The "Politically Incorrect" Show and its Aftermath
+
+In 2010, during election season, Gentili was prohibited from making political jokes. In response, he wrote an entire show, "Politically Incorrect," and performed it live in front of the National Congress in Brasilia, streamed via UOL <a class="yt-timestamp" data-t="01:44:53">[01:44:53]</a> <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>. The show featured "very heavy jokes" targeting various politicians, including Lula and Dilma, but the most significant backlash came from jokes about Dilma <a class="yt-timestamp" data-t="01:46:48">[01:46:48]</a> <a class="yt-timestamp" data-t="01:47:18">[01:47:18]</a>.
+
+This show marked a turning point, as criticism of Gentili became a regular occurrence <a class="yt-timestamp" data-t="01:47:43">[01:47:43]</a>. The concept of "limit of humor" became a frequent topic of discussion <a class="yt-timestamp" data-t="01:49:32">[01:49:32]</a>. Journalists began to accuse him of sexism when he criticized politicians, even when he equally targeted male figures <a class="yt-timestamp" data-t="01:59:17">[01:59:17]</a> <a class="yt-timestamp" data-t="02:00:30">[02:00:30]</a>.
+
+### The "Milk Donor" Controversy
+
+A notable incident of backlash stemmed from a joke about a Brazilian woman who aimed to enter the Guinness Book of Records as the largest milk donor in the world. The joke, written by a screenwriter, compared her feat to that of adult film actor Kid Bengala, implying a comical distortion without direct insult <a class="yt-timestamp" data-t="02:12:52">[02:12:52]</a> <a class="yt-timestamp" data-t="02:13:00">[02:13:00]</a> <a class="yt-timestamp" data-t="02:13:50">[02:13:50]</a>.
+
+Weeks later, media outlets, particularly *Carta Capital* and *Folha de São Paulo*, published headlines claiming Gentili had called the woman a "cow," linking this to her emotional distress and alleging her milk dried up due to the joke <a class="yt-timestamp" data-t="02:14:41">[02:14:41]</a> <a class="yt-timestamp" data-t="02:14:48">[02:14:48]</a> <a class="yt-timestamp" data-t="02:15:23">[02:15:23]</a>. This narrative, crafted by activists and some journalists, portrayed Gentili as an "oppressor" and a "white male" attacking a "poor northeastern woman feeding children" <a class="yt-timestamp" data-t="02:19:50">[02:19:50]</a> <a class="yt-timestamp" data-t="02:20:07">[02:20:07]</a>. Despite evidence that he never used the word "cow" and the news being a public, pre-existing meme, he lost the subsequent lawsuit, highlighting the power of manufactured narratives over factual content <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a> <a class="yt-timestamp" data-t="02:20:44">[02:20:44]</a> <a class="yt-timestamp" data-t="02:20:47">[02:20:47]</a>.
+
+### Broader Implications of Political Satire
+
+The transcript details an environment where "militant" journalists and political groups actively seek to decontextualize jokes and find any "slip" to "catch" comedians <a class="yt-timestamp" data-t="01:47:28">[01:47:28]</a> <a class="yt-timestamp" data-t="01:47:37">[01:47:37]</a>. This often involves the spread of [[accusations_and_controversies_involving_politicians | fake news]] and coordinated attacks through fake profiles and "hate cabinets" <a class="yt-timestamp" data-t="02:06:17">[02:06:17]</a> <a class="yt-timestamp" data-t="02:07:11">[02:07:11]</a> <a class="yt-timestamp" data-t="02:07:23">[02:07:23]</a>.
+
+This dynamic creates a double standard where "Progressive" groups can attack in newsrooms while "Bolsominions" attack on Twitter, but the former wields more significant institutional power <a class="yt-timestamp" data-t="02:22:05">[02:22:05]</a> <a class="yt-timestamp" data-t="02:22:13">[02:22:13]</a>. Comedians who traditionally target all politicians are now faced with a climate where attacking the left-wing government is met with silence from some colleagues, while attacking the right-wing is applauded <a class="yt-timestamp" data-t="02:22:50">[02:22:50]</a> <a class="yt-timestamp" data-t="02:23:16">[02:23:16]</a>.
+
+Despite these challenges, the speaker emphasizes the need for comedians to continue making jokes and to "beat" against attempts at censorship <a class="yt-timestamp" data-t="02:09:26">[02:09:26]</a> <a class="yt-timestamp" data-t="02:36:38">[02:36:38]</a>. The argument is that humor serves as a "charge" against targets, and it is inevitable that someone will always be offended <a class="yt-timestamp" data-t="01:58:09">[01:58:09]</a> <a class="yt-timestamp" data-t="01:58:23">[01:58:23]</a>. This persistent external pressure suggests that for comedy, "the worse the better," as it provides more material for satire <a class="yt-timestamp" data-t="02:25:22">[02:25:22]</a>.

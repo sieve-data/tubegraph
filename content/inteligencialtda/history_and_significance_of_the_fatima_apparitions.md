@@ -1,0 +1,24 @@
+---
+title: History and significance of the Fatima apparitions
+videoId: X9zqmazgE20
+---
+
+From: [[inteligencialtda]] <br/> 
+
+The apparitions of Our Lady of Fatima occurred in Portugal, approximately 100 km from Lisbon, in 1917 <a class="yt-timestamp" data-t="02:10:22">[02:10:22]</a>. At that time, Portugal was involved in the First World War, and the country faced significant difficulties <a class="yt-timestamp" data-t="02:10:30">[02:10:30]</a>.
+
+## The Apparitions and Message
+Our Lady appeared six times to three simple shepherd children from the village: Lucia, Francisco, and Jacinta <a class="yt-timestamp" data-t="00:53:24">[00:53:24]</a>, <a class="yt-timestamp" data-t="02:10:41">[02:10:41]</a>. The apparitions took place from May 13th to October 13th, 1917 <a class="yt-timestamp" data-t="02:10:48">[02:10:48]</a>. Her message was a profound invitation to conversion for humanity, emphasizing that God was being greatly offended <a class="yt-timestamp" data-t="02:11:09">[02:11:09]</a>. People were invited to console God and practice devotion to the Immaculate Heart of Mary, including praying the rosary daily <a class="yt-timestamp" data-t="02:11:22">[02:11:22]</a>, <a class="yt-timestamp" data-t="02:11:29">[02:11:29]</a>.
+
+On October 13th, 1917, a major miracle occurred: the sun appeared to dance <a class="yt-timestamp" data-t="02:10:53">[02:10:53]</a>.
+
+## The Three Secrets of Fatima
+During the July 13th, 1917 apparition, Our Lady revealed a secret to the children <a class="yt-timestamp" data-t="02:11:43">[02:11:43]</a>, <a class="yt-timestamp" data-t="02:11:48">[02:11:48]</a>. This secret had three parts:
+1.  **Vision of Hell** The first part was a vision of hell, showing many souls and demons falling into it <a class="yt-timestamp" data-t="02:11:55">[02:11:55]</a>.
+2.  **Devotion to the Immaculate Heart of Mary and Consecration of Russia** The second part focused on devotion to the Immaculate Heart of Mary and the consecration of Russia to her heart <a class="yt-timestamp" data-t="02:12:02">[02:12:02]</a>, <a class="yt-timestamp" data-t="02:12:18">[02:12:18]</a>. It foretold difficulties that would come to the world, stating that the Immaculate Heart would triumph <a class="yt-timestamp" data-t="02:12:12">[02:12:12]</a>.
+3.  **The Third Secret** The third part, sometimes called the "third mystery" or "third secret," was kept hidden and was originally meant to be revealed in 1960 <a class="yt-timestamp" data-t="02:12:22">[02:12:22]</a>, <a class="yt-timestamp" data-t="02:12:26">[02:12:26]</a>, <a class="yt-timestamp" data-t="02:12:28">[02:12:28]</a>. However, no Pope wished to reveal it then due to its weighty nature <a class="yt-timestamp" data-t="02:12:30">[02:12:30]</a>, <a class="yt-timestamp" data-t="02:12:33">[02:12:33]</a>. It was finally made public in the year 2000 by Pope John Paul II <a class="yt-timestamp" data-t="02:12:36">[02:12:36]</a>.
+
+The third secret describes God's punishment of humanity and serious global problems <a class="yt-timestamp" data-t="02:12:41">[02:12:41]</a>. It involved an image of an angel with a flaming sword, and Our Lady defending the Earth with her light and intercession <a class="yt-timestamp" data-t="02:12:46">[02:12:46]</a>. At one point, the angel cried out "Penance, Penance, Penance" (meaning conversion) three times and touched the Earth's axis, causing oceans and rivers to shift <a class="yt-timestamp" data-t="02:12:55">[02:12:55]</a>, <a class="yt-timestamp" data-t="02:12:57">[02:12:57]</a>. This vision symbolizes the [[purification_of_the_world_from_sin | purification of the world from sin]] <a class="yt-timestamp" data-t="02:13:13">[02:13:13]</a>.
+
+## Prophecy and Global Context
+The message of Fatima is viewed as an appeal to humanity, akin to a "last call" before a plane departs <a class="yt-timestamp" data-t="02:13:55">[02:13:55]</a>, <a class="yt-timestamp" data-t="02:14:01">[02:14:01]</a>. If humanity does not respond to this call, punishment and [[purification_of_the_world_from_sin | purification]] will follow, leading to a new chapter in human history <a class="yt-timestamp" data-t="02:14:09">[02:14:09]</a>. This narrative aligns with prophecies in the Old and New Testaments and is seen as connecting the dots of global events <a class="yt-timestamp" data-t="02:29:11">[02:29:11]</a>, <a class="yt-timestamp" data-t="02:29:32">[02:29:32]</a>. The current global state, marked by moral and spiritual decline, suggests that God is patient but will intervene at a certain point <a class="yt-timestamp" data-t="02:13:31">[02:13:31]</a>. Despite the difficult times, the overarching message is one of hope: God will intervene extraordinarily to defeat evil, and the story ultimately "ends well" <a class="yt-timestamp" data-t="02:29:48">[02:29:48]</a>, <a class="yt-timestamp" data-t="02:31:01">[02:31:01]</a>.

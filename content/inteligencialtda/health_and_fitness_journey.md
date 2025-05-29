@@ -1,0 +1,36 @@
+---
+title: Health and fitness journey
+videoId: V8s2xnAeP1g
+---
+
+From: [[inteligencialtda]] <br/> 
+This article discusses Rogério Vila's "limited intelligence" program, which features interesting and intelligent guests. The conversation quickly shifts to Serjão's health and fitness journey, the significance of community support in such a transformation, the science behind various celestial phenomena like eclipses and unidentified aerial phenomena (UAPs), the geological importance of volcanoes and tectonic plates, and cutting-edge scientific research in fields like quantum computing and nuclear fusion.
+
+## Introduction
+Rogério Vila's "limited intelligence" program features guests who lead "much more rocket" lives than his own <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. The host jokingly states that the "limitation of intelligence happens only by the host" <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+
+## Serjão's Health and Fitness Journey
+Serjão's journey is a significant topic, with revelations about his weight loss and personal [[Health benefits and personal transformations from lifestyle changes | transformations]] <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. The project he's undertaking has garnered significant public interest, almost becoming a "Reality Show" <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+
+### Motivation and Challenges
+The idea for the project originated when Cariane and Júlio convinced Igor to participate <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>. Igor himself underwent a significant change, previously "hated" training but now loves it <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. Serjão was invited to join the project after people suggested it to Cariane during a live stream <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>.
+
+Serjão admitted he initially accepted "in excitement" <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a> but later felt some regret <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>. A primary motivation for his journey was a "very serious problem with [his] knee" due to being overweight, making walking difficult <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. Doctors advised surgery but warned it would be ineffective without prior weight loss <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>. He also faced negative experiences at gyms previously, with people mocking and pointing at him <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>.
+
+Beyond personal health, a major driver was his children, who were becoming sedentary and spending too much time on video games <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. He didn't want them to follow his path, realizing that for them to [[Exercise and Fitness Habits | exercise]], he and his wife needed to participate too <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. The project offered a solution, allowing his children to join him at the training center <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. This unique training center, unlike a typical gym, hosts professional athletes like Zancanelli and Ramon Dino, who were very accepting of Serjão and his children <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>. The children's positive response and their school friends' adoption of similar habits created a "chain" of positive change <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>, for which Serjão expresses daily gratitude to Júlio and Cariane, calling them "angels" <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
+
+### Training and Nutrition
+The project is set to run until the end of the year, with Serjão currently training three times a week, aiming to intensify to five times a week <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>. He emphasizes the importance of seeing results for motivation <a class="yt-timestamp" data-t="00:13:44">[00:13:44]</a>.
+
+Key challenges in his nutrition were soda and sweets <a class="yt-timestamp" data-t="00:14:14">[00:14:14]</a>. He was so addicted to traditional sugary soda that he'd go out late at night to buy it if he ran out <a class="yt-timestamp" data-t="00:14:23">[00:14:23]</a>. His "sweet tooth" addiction led to eating sweets multiple times a day <a class="yt-timestamp" data-t="00:14:58">[00:14:58]</a>. The initial motivation was a constant "craving" for sugar, which provides a quick "good feeling" <a class="yt-timestamp" data-t="00:15:44">[00:15:44]</a>. His wife, a nutritionist, has been instrumental in guiding his diet <a class="yt-timestamp" data-t="00:16:05">[00:16:05]</a>.
+
+He adopted a radical diet: primarily "salad and little chicken fillet grilled" and fish <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>, cutting out rice, french fries, and red meat <a class="yt-timestamp" data-t="00:32:50">[00:32:50]</a>. He replaced sugary soda with zero-sugar versions and increased water intake <a class="yt-timestamp" data-t="00:18:16">[00:18:16]</a>. Eating slowly is a significant change, allowing the brain to register satiety and leading to eating less <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>.
+
+He has already lost about 10 kg from dietary changes alone <a class="yt-timestamp" data-t="00:16:08">[00:16:08]</a>. After one month, he weighed in at 167 kg, down from 185 kg, showing an 18 kg loss <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>. This is due to losing fat and gaining muscle, which can make scale readings deceptive but is a positive change <a class="yt-timestamp" data-t="00:22:30">[00:22:30]</a>. His goal is to reach 85 kg by the end of the project year <a class="yt-timestamp" data-t="00:23:26">[00:23:26]</a>.
+
+### [[Health benefits and personal transformations from lifestyle changes | Physical and Mental Impacts]]
+Beyond weight loss, Serjão reports "zero pain" in his knee, which was previously at "maximum level" <a class="yt-timestamp" data-t="00:31:31">[00:31:31]</a>. His breathing has significantly improved <a class="yt-timestamp" data-t="00:30:21">[00:30:21]</a>. He also notes a positive change in his "disposition," which helps him manage his demanding routine <a class="yt-timestamp" data-t="00:32:10">[00:32:10]</a>.
+
+[[Personal and Professional Growth | Adapting his routine]] has been a challenge, but he found that organizing his time makes him "more productive" and prevents wasting time on "nonsense" <a class="yt-timestamp" data-t="00:25:50">[00:25:50]</a>. He maintains an early morning routine, including dropping his children at school, working, and then training with them <a class="yt-timestamp" data-t="00:29:08">[00:29:08]</a>.
+
+The supportive environment at the training center is crucial. The athletes motivate him without simply praising him <a class="yt-timestamp" data-t="00:35:05">[00:35:05]</a>. He highlights that unlike many social circles that encourage unhealthy habits, this environment is "fundamental" for consistent [[Exercise and Fitness Habits | exercise]] and provides "tiny pills of motivation" <a class="yt-timestamp" data-t="00:35:40">[00:35:40]</a>.

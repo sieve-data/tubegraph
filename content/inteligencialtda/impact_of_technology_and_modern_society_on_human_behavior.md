@@ -1,0 +1,33 @@
+---
+title: Impact of technology and modern society on human behavior
+videoId: crwsoRVwST8
+---
+
+From: [[inteligencialtda]] <br/> 
+
+Modern society, heavily influenced by rapidly advancing technology, profoundly impacts human behavior, leading to significant changes in communication, relationships, emotional well-being, and cognitive processes. This era is characterized by an insatiable demand for immediate gratification and a pervasive digital presence that reshapes our interactions and perceptions <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>.
+
+## Digital Behavior and Social Media Influence
+
+The digital age, particularly platforms like TikTok and Netflix, fosters a culture of constant stimulation and immediate gratification <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>. TikTok, with its quick video format, promotes a focus on the "next" video rather than enjoying the current one, acting like a slot machine that offers the "possibility" of good content, driven by dopamine surges <a class="yt-timestamp" data-t="00:44:36">[00:44:36]</a>, <a class="yt-timestamp" data-t="00:44:45">[00:44:45]</a>, <a class="yt-timestamp" data-t="00:44:51">[00:44:51]</a>, <a class="yt-timestamp" data-t="00:44:58">[00:44:58]</a>. Similarly, Netflix users often spend more time browsing screens than watching content, indicative of this constant search for the next pleasurable stimulus <a class="yt-timestamp" data-t="00:45:31">[00:45:31]</a>.
+
+### Anonymity and Polarization
+Social networks are designed to be addictive, showing users what they like and generating dopamine, leading to polarized "bubbles" where individuals only receive information that confirms their existing views <a class="yt-timestamp" data-t="02:08:31">[02:08:31]</a>, <a class="yt-timestamp" data-t="02:09:09">[02:09:09]</a>. This creates an environment of impunity due to anonymity, where individuals feel brave enough to offend or slander online, behaviors they might not exhibit in real life <a class="yt-timestamp" data-t="01:15:01">[01:15:01]</a>, <a class="yt-timestamp" data-t="02:15:02">[02:15:02]</a>. There is a call for digital identity laws to mitigate this issue <a class="yt-timestamp" data-t="02:14:12">[02:14:12]</a>.
+
+## Impact on Personal Development and Relationships
+The relentless pace of modern life, fueled by technology, leaves little room for solitude and internal dialogue <a class="yt-timestamp" data-t="01:17:29">[01:17:29]</a>. People are constantly occupied, filling every silent moment with digital distractions, leading to a lack of self-awareness and hindering creativity <a class="yt-timestamp" data-t="01:19:05">[01:19:05]</a>. This constant external focus contributes to deteriorating relationships, as individuals fail to engage with themselves or their loved ones fully <a class="yt-timestamp" data-t="01:18:50">[01:18:50]</a>, <a class="yt-timestamp" data-t="01:19:19">[01:19:19]</a>.
+
+### Super-Protection in Childhood
+Modern society, particularly among the middle class, tends towards the "super-protection" of children. Children are raised in a "golden cage," shielded from frustration and contradiction <a class="yt-timestamp" data-t="00:42:12">[00:42:12]</a>, <a class="yt-timestamp" data-t="00:42:15">[00:42:15]</a>. This lack of exposure to real-life challenges leaves them unprepared for adulthood, leading to emotional immaturity, helplessness, and an inability to cope with life's inevitable "beatings" <a class="yt-timestamp" data-t="00:42:35">[00:42:35]</a>, <a class="yt-timestamp" data-t="00:42:50">[00:42:50]</a>. Parents often prioritize their children's external achievements (what they "do" and "have") over character development (who they "are"), contributing to this dysfunction <a class="yt-timestamp" data-t="01:44:57">[01:44:57]</a>.
+
+## Cognitive and Emotional Shifts
+Modern society facilitates the "outsourcing" of intelligence and knowledge, with information readily available "in the cloud" <a class="yt-timestamp" data-t="01:38:03">[01:38:03]</a>. While this offers access to vast amounts of data and allows for communication with many more people than previous generations <a class="yt-timestamp" data-t="01:17:17">[01:17:17]</a>, <a class="yt-timestamp" data-t="01:37:47">[01:37:47]</a>, it also leads to a potential decline in individual cognitive abilities like memory and calculation <a class="yt-timestamp" data-t="01:37:01">[01:37:01]</a>. This reliance on external "crutches" can hinder the development of internal skills and adaptability needed to navigate a rapidly changing world <a class="yt-timestamp" data-t="01:39:55">[01:39:55]</a>.
+
+### Perversion of Ethics
+There is a growing "perversion of aesthetics," where people confuse ethics with aesthetics, prioritizing what "looks good" or what "everyone likes" over what is true, ethical, and morally sound <a class="yt-timestamp" data-t="01:57:12">[01:57:12]</a>, <a class="yt-timestamp" data-t="01:58:19">[01:58:19]</a>. This leads to a loss of discernment and a preference for superficial appearances over substantive truth.
+
+## The Search for Meaning and Identity
+In a world increasingly driven by external validation and fleeting pleasures, many individuals struggle with their identity and a sense of purpose <a class="yt-timestamp" data-t="01:52:03">[01:52:03]</a>. The constant pressure to be "happy" and the pervasive influence of digital "disguises" (presenting a curated version of oneself online) contribute to a feeling of emptiness and dissatisfaction <a class="yt-timestamp" data-t="01:43:05">[01:43:05]</a>, <a class="yt-timestamp" data-t="01:56:00">[01:56:00]</a>. This often results in a profound lack of self-worth, leading individuals to compensate by seeking external validation through material possessions or fabricated success <a class="yt-timestamp" data-t="01:53:35">[01:53:35]</a>, <a class="yt-timestamp" data-t="01:53:57">[01:53:57]</a>.
+
+### The Role of Spirituality and Connection
+Amidst these challenges, the importance of a balanced life that integrates body, soul, and spirit is emphasized <a class="yt-timestamp" data-t="01:17:15">[01:17:15]</a>. True well-being involves understanding the self, addressing suffering, and fostering genuine human connections <a class="yt-timestamp" data-t="02:27:14">[02:27:14]</a>. Spirituality, often expressed through faith, offers hope, forgiveness, and a deeper sense of meaning, providing a crucial counter-balance to the negative impacts of modern society <a class="yt-timestamp" data-t="01:00:15">[01:00:15]</a>, <a class="yt-timestamp" data-t="02:29:27">[02:29:27]</a>.

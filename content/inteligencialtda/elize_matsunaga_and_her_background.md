@@ -1,0 +1,53 @@
+---
+title: Elize Matsunaga and her background
+videoId: SL821fUeDm0
+---
+
+From: [[inteligencialtda]] <br/> 
+
+Elize Matsunaga's life before the widely publicized crime was marked by significant trauma and a complex path into prostitution, despite possessing considerable intelligence and professional skills <a class="yt-timestamp" data-t="03:33:56">[03:33:56]</a>.
+
+## Early Life and Abuse
+Born in Chopinzinho, Paraná <a class="yt-timestamp" data-t="02:51:53">[02:51:53]</a>, Elize endured traumatic events that contributed to the development of a cold personality <a class="yt-timestamp" data-t="02:50:50">[02:50:50]</a>. At the age of 15, she was raped by her stepfather <a class="yt-timestamp" data-t="02:59:59">[02:59:59]</a>. When she reported this to her mother, her mother did not believe her, instead slapping Elize and sending her away, accusing Elize of seducing the stepfather <a class="yt-timestamp" data-t="03:17:17">[03:17:17]</a>. This marked a period of neglect by her mother <a class="yt-timestamp" data-t="03:14:16">[03:14:16]</a>.
+
+Initially sent to her grandmother's house <a class="yt-timestamp" data-t="03:20:24">[03:20:24]</a>, Elize instead went to her godmother's, where she obtained R$50 and began wandering the roads of Southern Brazil for 35 days <a class="yt-timestamp" data-t="03:29:16">[03:29:16]</a>. Her money quickly ran out, leading her to begin prostituting herself, primarily to truck drivers <a class="yt-timestamp" data-t="03:31:19">[03:31:19]</a>. She was eventually rescued during a Federal Highway Police operation targeting child and youth prostitution on the roads <a class="yt-timestamp" data-t="03:24:24">[03:24:24]</a>. Following this, she was taken to a guardianship council and returned to Chopinzinho, only to be sent back to her grandmother's <a class="yt-timestamp" data-t="03:41:42">[03:41:42]</a>.
+
+## Education and Entry into Professional Prostitution
+At 18, Elize decided to pursue studies with the goal of permanently leaving Chopinzinho and her family <a class="yt-timestamp" data-t="03:58:01">[03:58:01]</a>. She moved to Curitiba where she met a pimp <a class="yt-timestamp" data-t="04:06:01">[04:06:01]</a>.
+
+Despite her early life challenges, Elize was intelligent and acquired several professional skills:
+*   She completed a technical course in accounting in Chopinzinho <a class="yt-timestamp" data-t="03:58:01">[03:58:01]</a>.
+*   She became a nursing technician in Curitiba, working in top hospitals <a class="yt-timestamp" data-t="04:09:09">[04:09:09]</a>.
+*   She also did care work for very ill, wealthy patients, providing comfort and "quality of death" at the end of life, a well-paid service <a class="yt-timestamp" data-t="03:14:14">[03:14:14]</a>.
+*   She took a sommelier course, almost becoming certified <a class="yt-timestamp" data-t="04:44:06">[04:44:06]</a>.
+*   She pursued a law degree but became pregnant and did not practice <a class="yt-timestamp" data-t="04:48:06">[04:48:06]</a>.
+*   She also took an auctioneer course and was recognized by the commercial board <a class="yt-timestamp" data-t="04:56:06">[04:56:06]</a>.
+
+It was in Curitiba that she met a nurse who was also prostituting herself and living a good life financially due to it, prompting Elize to enter "definitive" prostitution <a class="yt-timestamp" data-t="04:28:31">[04:28:31]</a>. She became a professional in this field <a class="yt-timestamp" data-t="04:31:35">[04:31:35]</a>.
+
+## Move to São Paulo and Meeting Marcos Matsunaga
+Elize became involved with a drug dealer in Curitiba. When a police officer who was also her client warned her that rival factions were after him, she fled to São Paulo <a class="yt-timestamp" data-t="03:38:00">[03:38:00]</a>. She hosted a party for drug dealers at her house, leading to a police raid <a class="yt-timestamp" data-t="03:49:00">[03:49:00]</a>.
+
+In São Paulo, Elize continued prostitution and met Marcos Matsunaga through a general supporter website, which she describes as an "M-class website" <a class="yt-timestamp" data-t="03:14:17">[03:14:17]</a>. She also worked in nightclubs <a class="yt-timestamp" data-t="03:22:04">[03:22:04]</a>.
+
+## Relationship with Marcos Matsunaga
+Marcos Matsunaga was described as a man with sexual compulsive disorder, preferring frequent encounters with different, unknown people, and also had "love shyness," an excessive shyness when trying to flirt <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>. His wealth allowed him to "solve" both problems through prostitution, as it provided constant access to women without the need for seduction <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>.
+
+Marcos's mother was a co-owner of Yoki (38%) <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>, indicating his family's wealth. He had a fetish for convincing women to engage in anal sex, often doubling or tripling his payment <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>. He sometimes used a gun to force compliance, demonstrating his violent tendencies <a class="yt-timestamp" data-t="04:14:00">[04:14:00]</a>. This level of violence, observed with prostitutes, was later applied to Elize when they married <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>.
+
+Initially, their relationship was passionate; they shared common interests like hunting, weapons, wine, and radical sports <a class="yt-timestamp" data-t="04:38:00">[04:38:00]</a>. However, Marcos's disorder caused him to quickly lose interest <a class="yt-timestamp" data-t="04:55:00">[04:55:00]</a>, and he continued to see other prostitutes while married to Elize <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>. Elize was aware of this, having been his lover for two years while he was married to another woman <a class="yt-timestamp" data-t="05:14:00">[05:14:00]</a>.
+
+During her pregnancy, Marcos continued to demand sex daily, insulting her by comparing her to a prostitute when she refused due to discomfort, stating, "When you were in the area, there was no such thing as 'not today'" <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>. He frequently told his friends that his marriage was a "never-ending program" <a class="yt-timestamp" data-t="04:20:00">[04:20:00]</a>.
+
+The dynamic of their marriage deteriorated into intense psychological abuse, with Marcos constantly humiliating Elize, reminding her that he "rescued" her from "the trash" and gave her a "princess world" <a class="yt-timestamp" data-t="04:26:21">[04:26:21]</a>. He would highlight her background as a "country girl" who didn't speak English (which he taught her) <a class="yt-timestamp" data-t="04:35:35">[04:35:35]</a>, and constantly threw her past as a prostitute in her face <a class="yt-timestamp" data-t="04:54:00">[04:54:00]</a>. This systematic humiliation, described as "offense humiliation," accumulated deeply within Elize <a class="yt-timestamp" data-t="04:46:00">[04:46:00]</a>.
+
+The catalyst for the crime was Elize discovering Marcos had a lover <a class="yt-timestamp" data-t="04:12:00">[04:12:00]</a>. She hired a detective, gathered evidence, and showed it to Marcos, disobeying her lawyer's advice <a class="yt-timestamp" data-t="04:32:00">[04:32:00]</a>. Marcos retaliated by slapping her, escalating the humiliation, and threatened to take their daughter away, claiming Elize's family was "trash" <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>. During an argument, Elize, who had been chased by Marcos through their apartment, found a loaded gun in a strategic drawer and shot him <a class="yt-timestamp" data-t="05:00:00">[05:00:00]</a>.
+
+## The Crime and Aftermath
+The crime itself, the killing of Marcos Matsunaga, was not premeditated <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>; it occurred in an "impetus" <a class="yt-timestamp" data-t="05:14:00">[05:14:00]</a>. However, the subsequent dismemberment of his body demonstrated a chilling coldness and calculation, setting [[details_of_the_elise_matsunaga_case | Elize Matsunaga's case]] apart from the average crime <a class="yt-timestamp" data-t="05:07:00">[05:07:00]</a>. Forensic experts observed that while dismemberment is typically a hate crime, Elize's method was extraordinary, cutting at the waist and leaving the head on the trunk, unlike the typical beheading to remove identity <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>. She used a common kitchen knife for this task <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>.
+
+Elize used techniques learned from professional hunters to process the body, such as waiting a few hours for the blood to drain, which she knew from hunting trips to Canada <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>. She meticulously cleaned the crime scene with "Veja multi-purpose" cleaner, so effectively that forensics found no traces of blood <a class="yt-timestamp" data-t="05:09:00">[05:09:00]</a>. During the dismemberment, she continued to care for her nine-month-old daughter, feeding her and handing her back to the nanny, showcasing a profound detachment <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>.
+
+Psychological assessments of Elize reveal a manipulative, self-centered, and narcissistic personality with camouflaged aggression <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>. Her psychopathy was confirmed by a psychologist who conducted couples therapy with her and Marcos <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>. She attended a therapy session days after the murder, lamenting Marcos's supposed abandonment <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>, and maintained a normal routine as if nothing had happened <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>.
+
+Her decision to dismember was to dispose of the body, as the trunk with the head didn't fit in the third suitcase <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. She attempted to transport the body parts to Chopinzinho but turned back due to an irregular car registration, which was nearly flagged by a smart radar <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>. She then disposed of the body parts along a secluded road in Cotia, near a forest <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>. Elize stated that had she planned the crime, she would have killed Marcos in the Alto Xingu forest during a hunting trip, where his body would never be found <a class="yt-timestamp" data-t="01:16:00">[01:16:00]</a>.

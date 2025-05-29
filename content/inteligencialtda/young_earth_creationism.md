@@ -1,0 +1,65 @@
+---
+title: Young Earth Creationism
+videoId: d32tDaqjeb8
+---
+
+From: [[inteligencialtda]] <br/> 
+
+[[Young Earth Creationism]] is a theological belief that the Earth and universe were created by God in six literal 24-hour days, approximately 6,000 to 10,000 years ago, as described in the Book of Genesis. This contrasts with the scientific consensus on the age of the Earth and universe.
+
+## Proponents and Perspectives
+
+Marcos Eberlin, president of the Brazilian Society of Intelligent Design, advocates for the idea that an Intelligent mind created the universe and life, aligning with the God described in the Bible <a class="yt-timestamp" data-t="00:34:02">[00:34:02]</a>. He specifically defends that the universe and Earth are young, and that life exhibits clear signs of intelligent design <a class="yt-timestamp" data-t="00:34:32">[00:34:32]</a>. Eberlin notes that his personal philosophical and theological opinion aligns with the God of the Bible as the creator <a class="yt-timestamp" data-t="00:34:19">[00:34:19]</a>.
+
+Adalto, a physicist, transitioned from being a theistic evolutionist to defending [[Young Earth Creationism]] due to scientific, not religious, reasons <a class="yt-timestamp" data-t="00:38:47">[00:38:47]</a>. He states that the evidence points to the universe being "created ready, complete, perfectly functional, complex, and not for a long time" <a class="yt-timestamp" data-t="03:09:07">[03:09:07]</a>.
+
+## Arguments Against the Big Bang and Old Universe Models
+
+Proponents of [[Young Earth Creationism]] often critique the Big Bang model and the scientific consensus on an ancient universe, citing what they perceive as inconsistencies or "miracles" within these models without a "Saint" (divine intervention).
+
+### Criticisms of the Big Bang Model
+Marcos Eberlin, formerly a Big Bang supporter for 40 years, began reevaluating his position in 2008 <a class="yt-timestamp" data-t="00:47:49">[00:47:49]</a>. He concluded that the Big Bang model lacks solid evidence <a class="yt-timestamp" data-t="00:49:36">[00:49:36]</a>, highlighting several points:
+*   **Origin from Nothing**: The Big Bang's beginning is described as disconnected from physical laws, starting from "nothing for nothing" <a class="yt-timestamp" data-t="00:49:52">[00:49:52]</a>. He argues that the laws of physics are said to be born within the singularity itself <a class="yt-timestamp" data-t="00:49:57">[00:49:57]</a>.
+*   **Expansion Challenges**: An expanding gas cloud, based on physical-chemical processes, should expand eternally, but the model introduces "dark matter" and "shock waves" (from supernova explosions) to explain gravitational collapse and star formation <a class="yt-timestamp" data-t="00:50:20">[00:50:20]</a>, <a class="yt-timestamp" data-t="00:50:33">[00:50:33]</a>, <a class="yt-timestamp" data-t="00:50:41">[00:50:41]</a>.
+*   **Homogeneity and Inflation**: The problem of the universe's homogeneous temperature (horizon problem) is explained by "inflation," a "mysterious force" that expands the universe faster than the speed of light <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>, <a class="yt-timestamp" data-t="00:51:15">[00:51:15]</a>.
+*   **Formation of Celestial Bodies**: The formation of stars from cosmic dust, and planets like Earth from incandescent rocks, is described as relying on numerous "miracles without a Saint" <a class="yt-timestamp" data-t="00:51:46">[00:51:46]</a>, <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>, <a class="yt-timestamp" data-t="00:52:12">[00:52:12]</a>.
+*   **Moon's Origin**: The Moon's characteristics (size, distance, gravity) are considered "supernatural" by the model, which suggests a collision event <a class="yt-timestamp" data-t="00:52:49">[00:52:49]</a>.
+*   **Falsifiability and Data Accommodation**: Eberlin argues that the Big Bang model is constantly "running after the data," adjusting its parameters (e.g., dark matter, dark energy, inflation) to fit new observations rather than making good, falsifiable predictions <a class="yt-timestamp" data-t="01:15:22">[01:15:22]</a>, <a class="yt-timestamp" data-t="01:16:01">[01:16:01]</a>. He asserts that the model should be abandoned if it consistently fails its predictions <a class="yt-timestamp" data-t="01:34:40">[01:34:40]</a>.
+
+### James Webb Space Telescope Observations
+Proponents argue that images from the James Webb Space Telescope challenge the Big Bang model, stating that the universe "shouldn't be ready" or "structured" at early stages as observed <a class="yt-timestamp" data-t="00:53:34">[00:53:34]</a>, <a class="yt-timestamp" data-t="00:53:50">[00:53:50]</a>.
+*   **Mature Galaxies**: The presence of structured, functional, spiral, and massive galaxies with supermassive black holes early in the universe's history contradicts Big Bang predictions of smaller, protogalaxies <a class="yt-timestamp" data-t="01:14:05">[01:14:05]</a>, <a class="yt-timestamp" data-t="01:33:51">[01:33:51]</a>.
+*   **Heavy Elements**: Observations of "metallic" (heavier) chemical elements like carbon, oxygen, and nitrogen in distant, early galaxies pose a problem, as the early universe was expected to contain mostly hydrogen and helium <a class="yt-timestamp" data-t="01:31:54">[01:31:54]</a>, <a class="yt-timestamp" data-t="01:32:08">[01:32:08]</a>. This implies a rapid formation of these elements, which normally requires generations of stars to explode <a class="yt-timestamp" data-t="01:28:07">[01:28:07]</a>.
+*   **Population III Stars**: The Big Bang model predicts the existence of Population III stars (composed solely of hydrogen and helium), but these have never been observed <a class="yt-timestamp" data-t="01:28:20">[01:28:20]</a>.
+*   **Antimatter Disappearance**: The model has a "huge problem" explaining the disappearance of half the universe's antimatter, as energy transforming into matter should produce equal amounts of particles and antiparticles <a class="yt-timestamp" data-t="01:26:54">[01:26:54]</a>.
+
+### Evidence for a Young Universe
+Eberlin cites various pieces of [[Evidence for the Age of the Universe and Earth | evidence]] suggesting a young universe:
+*   **Comets**: Comets, being made of ice, have a limited lifespan (around 100,000 years) as they melt near the sun. The existence of many comets suggests a young solar system, as supposed "comet nurseries" like the Oort cloud or Kuiper belt either lack sufficient ice or are not observed to function as such <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+*   **Jupiter's Heat**: Jupiter radiates twice as much heat as it absorbs from the sun, implying it is still cooling down from its formation. Its current temperature (153°C) is significantly hotter than the universe's ambient temperature, acting like a "hot potato in the freezer" <a class="yt-timestamp" data-t="02:59:02">[02:59:02]</a>.
+*   **Moon's Recession**: The Moon is moving away from Earth at 4 cm per year. Extrapolating this backward in time by 1.5 billion years would cause it to collide with Earth, suggesting a younger Moon-Earth system <a class="yt-timestamp" data-t="02:59:27">[02:59:27]</a>.
+*   **Jupiter's Magnetic Field**: The presence of an immense magnetic field on Jupiter, observed by Voyager, is also noted as evidence <a class="yt-timestamp" data-t="02:59:47">[02:59:47]</a>.
+
+## Arguments for a Young Earth
+
+Beyond cosmic observations, proponents of [[Young Earth Creationism]] cite [[Evidence for the Age of the Universe and Earth | evidence]] for a young Earth:
+*   **Continental Drift**: While recognizing plate tectonics, Eberlin argues that the continents' "perfectly fitting" edges and the presence of shared fossil layers across continents suggest a rapid, rather than millions of years long, separation process. Erosion would have significantly worn down the edges over vast periods <a class="yt-timestamp" data-t="03:25:16">[03:25:16]</a>. He compares it to a sand block dissolving in water if moved for millions of years <a class="yt-timestamp" data-t="03:36:06">[03:36:06]</a>.
+*   **River Deltas**: The rate at which sediments are carried to the sea by rivers forms deltas. Calculations suggest these deltas would not extend beyond half the Atlantic, implying an age of around 6,000 years <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+*   **Helium in Atmosphere**: The decomposition of radioisotopes on Earth produces Helium. The atmosphere contains very little helium, which is cited as an indicator of a young Earth, as more helium would accumulate over long periods <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+*   **Ocean Salinity**: Rivers carry salt to the sea. If oceans were billions of years old, they would either be entirely saturated with salt or completely desalinated, unless removal mechanisms were in perfect equilibrium for that duration <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+*   **Carbon-14 Dating**: Carbon-14 has a half-life of 5,730 years and should not be found in material older than 70,000 years. Its detection in diamonds and fossils, which are considered to be millions of years old, is presented as evidence for a younger Earth <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+*   **Oldest Trees**: The oldest known trees, such as the Methuselah pine (4,800 years) and the grand-grandfather pine (5,000 years), have no apoptosis (programmed cell death) mechanism, yet their age limit suggests a recent origin for Earth <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+*   **History of Civilizations and Writing**: The history of civilizations and writing systems dates back no more than 6,000 years, citing examples like Babylon and Egypt <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+*   **Human Genetics**: Sequencing mitochondrial DNA and the Y chromosome suggests all humans originated from a single woman (mitochondrial Eve) and a single man (Y-chromosomal Adam) who lived around 6,000 years ago <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>. Additionally, the human genome is accumulating deleterious mutations (50-100 per generation), which would lead to rapid degradation over millions of years, thus supporting a short human history <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+
+## Contrasting Models
+
+Proponents argue that while the Big Bang model (often represented by the Lambda-CDM model) is continually "adjusted" to fit new data, the [[Young Earth Creationism]] model makes "good predictions" that are then confirmed by observation. As an example, Marcos Eberlin highlights a prediction made by astronomer Jason Lisle in January 2022, before James Webb photos were released. Lisle predicted that the photos would show mature galaxies with metallic elements, without Population III stars or galaxy fusions, and that they would be structured spiral galaxies with black holes <a class="yt-timestamp" data-t="01:33:51">[01:33:51]</a>. Eberlin claims these predictions were "exactly what James Web showed" <a class="yt-timestamp" data-t="01:34:09">[01:34:09]</a>.
+
+The **creationism versus evolutionism debate** is framed as a contrast between a model that relies on "miracles without a Saint" (naturalism) and a model that attributes miracles to a "Saint" (God) <a class="yt-timestamp" data-t="02:07:07">[02:07:07]</a>. The argument is that naturalism, as assumed by the Big Bang, requires many more unsupported "miracles" (e.g., origin from nothing, antimatter disappearance, dark matter, inflation) than a creationist model where an intentional divine will acts outside of current physical laws <a class="yt-timestamp" data-t="02:08:02">[02:08:02]</a>.
+
+## Scientific vs. Pseudoscience Labeling
+
+The discussion addresses whether [[Young Earth Creationism]] can be considered science. Proponents argue that if a model is non-refutable, it is not science, and that if other "models" (like the "ready massive galaxy" idea) are accepted in science, then the [[Young Earth Creationism]] model should also be considered valid <a class="yt-timestamp" data-t="03:31:07">[03:31:07]</a>. The counter-argument is that [[Young Earth Creationism]] is not science because it lacks established principles, postulates, and theorems that can be empirically tested and falsified in the same way as mainstream scientific models <a class="yt-timestamp" data-t="02:41:00">[02:41:00]</a>.
+
+Marcos Eberlin clarifies that Intelligent Design itself is a "minimalist theory" that only seeks to determine if the universe shows evidence of intelligent design or natural processes, and does not inherently argue for the age of the universe or Earth <a class="yt-timestamp" data-t="02:55:25">[02:55:25]</a>. He states that his personal belief in a young universe is separate from Intelligent Design and based on his interpretation of scientific evidence <a class="yt-timestamp" data-t="02:56:16">[02:56:16]</a>.

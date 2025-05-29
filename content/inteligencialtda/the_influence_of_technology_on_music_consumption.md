@@ -1,0 +1,44 @@
+---
+title: The influence of technology on music consumption
+videoId: M4-pcFSLw6Q
+---
+
+From: [[inteligencialtda]] <br/> 
+
+Technology has profoundly [[impact_of_technology_on_society | influenced]] music consumption, shifting how listeners access, experience, and interact with music. The evolution of formats, distribution methods, and social platforms has transformed the industry and audience behavior <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+
+## Evolution of Music Formats
+
+The physical formats of music have undergone significant changes due to technological advancements <a class="yt-timestamp" data-t="03:40:00">[03:40:00]</a>.
+
+*   **Compact Discs (CDs)**: For a period, CDs were considered a superior format due to their lack of "needle hiss" compared to vinyl records <a class="yt-timestamp" data-t="02:02:43">[02:02:43]</a>. However, some audiophiles argue that vinyl offers a "three-dimensionality" and ambiance that digital sound cannot fully reproduce <a class="yt-timestamp" data-t="02:04:04">[02:04:04]</a>. The transition from vinyl to CD saw many people disposing of their record collections, only to regret it later and repurchase vinyl due to the perceived "different" sound experience <a class="yt-timestamp" data-t="02:03:06">[02:03:06]</a>.
+*   **Vinyl Records**: Early records were made of shellac and played at 78 RPM with iron needles, limiting them to typically one song per side due <a class="yt-timestamp" data-t="04:15">[04:15]</a>. The Long Play (LP) format, on vinyl, allowed for more music to be stored <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. Vinyl collectors often appreciate the sensory experience, such as the unique smell of imported records <a class="yt-timestamp" data-t="01:19:22">[01:19:22]</a>.
+*   **Digital Files**: Modern music consumption has largely shifted to digital files, accessible via streaming services like Spotify <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. This contrasts sharply with older methods, where acquiring music often involved saving money for records, visiting specialized record stores, and discovering new music through physical browsing and word-of-mouth recommendations from store owners or critics <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>.
+
+## Changing Listening Habits
+
+The shift to digital consumption has altered how people engage with music, particularly among younger generations.
+
+*   **Decline of Album Experience**: Unlike past generations who listened to full albums as complete stories, many modern listeners treat music as interchangeable files, often skipping songs or using them merely as background "soundtracks" to other activities <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>. This has led to a perceived loss in the importance of music as a life-transforming element <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
+*   **Reduced Affective Memory**: While older generations strongly associate songs with specific life moments and memories, it is questioned whether younger listeners, accustomed to vast digital libraries, form similar deep, affective connections to music <a class="yt-timestamp" data-t="01:29:53">[01:29:53]</a>.
+*   **Instant Access vs. Anticipation**: The ease of instantly accessing millions of songs contrasts with the past, where waiting for new releases and physically acquiring music was part of the experience <a class="yt-timestamp" data-t="03:17:20">[03:17:20]</a>.
+
+## Impact on the Music Industry
+
+Technology has also reshaped the music industry's structure and operations.
+
+*   **Record Labels' Role**: Historically, record companies played a crucial role by taking "bets" on artists, financing their careers, and distributing their music <a class="yt-timestamp" data-t="01:04:05">[01:04:05]</a>. Popular artists' sales would often finance the careers of less commercially successful but critically acclaimed artists <a class="yt-timestamp" data-t="01:04:20">[01:04:20]</a>. Today, many record companies have transformed into mere "distributors of wheels" <a class="yt-timestamp" data-t="01:04:10">[01:04:10]</a>.
+*   **Accessibility to Recording**: The ability for "anyone to record anything" and immediately put it on platforms like Spotify has proliferated <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. In the past, becoming a recorded artist required a mentorship system and strict vetting by labels <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+*   **Decline of Music Journalism**: The rise of social networks, giving a voice to "any imbecile," has diminished the authority of traditional music journalists and critics <a class="yt-timestamp" data-t="02:04:15">[02:04:15]</a>.
+*   **Reality TV and Celebrity Culture**: Music reality shows, while creating temporary fame, often fail to launch sustainable musical careers, as broadcasters prioritize audience numbers during the show over long-term artist development <a class="yt-timestamp" data-t="02:08:11">[02:08:11]</a>. The focus shifts to the contestant's life story rather than their musical presentation <a class="yt-timestamp" data-t="03:33:20">[03:33:20]</a>. Many modern artists are products of manufactured projects, such as K-pop groups, which are described as "meat grinding machines" due to their intense training and pressure, often leading to mental health issues and suicide among young members <a class="yt-timestamp" data-t="03:17:16">[03:17:16]</a>. This highlights a broader [[criticism_of_modern_music_and_celebrity_culture | criticism of modern music and celebrity culture]] where image and marketing often overshadow musical substance <a class="yt-timestamp" data-t="03:17:16">[03:17:16]</a>.
+*   **Social Media's Impact**: The proliferation of social media has made artists more accessible to the public, blurring the lines between personal and professional personas <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>. Artists often employ "education consultancy" to manage their public image, making it difficult for them to speak freely <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>. This contrasts with earlier eras when artists were seen as somewhat "unattainable figures" <a class="yt-timestamp" data-t="03:07:08">[03:07:08]</a>. The phenomenon of "cancel culture" means that artists who express unpopular opinions may face backlash, prompting some to apologize or become more cautious <a class="yt-timestamp" data-t="03:12:00">[03:12:00]</a>.
+
+## Technological Influence on Music Style
+
+Technology has also impacted musical genres and their evolution.
+
+*   **Subversion and Counterpoint**: Musical movements often arise as a "counterpoint to a previous state" <a class="yt-timestamp" data-t="00:46:25">[00:46:25]</a>. For example, Glam rock emerged as a reaction to earlier music, emphasizing androgynous figures and theatricality <a class="yt-timestamp" data-t="00:47:15">[00:47:15]</a>. Punk, similarly, responded to a musical landscape dominated by wealthy, progressive rock bands, emphasizing raw energy and simple instrumentation <a class="yt-timestamp" data-t="00:47:56">[00:47:56]</a>.
+*   **Genre Blending**: The evolution of music often involves blending genres, as seen with early rock and roll (a mix of hillbilly and gospel) <a class="yt-timestamp" data-t="00:51:37">[00:51:37]</a>. Artists like Raul Seixas cleverly incorporated diverse influences from rock, country, and gospel into their work, reflecting the producer's need to understand various styles <a class="yt-timestamp" data-t="01:18:29">[01:18:29]</a>.
+*   **The "Grunge" Example**: The grunge movement of the 1990s, characterized by bands like Nirvana, Soundgarden, Pearl Jam, and Alice in Chains, gained prominence through independent college radio stations that played music ignored by mainstream institutionalized radios <a class="yt-timestamp" data-t="03:02:25">[03:02:25]</a>. The "poor kid aesthetic" of flannel shirts and ripped pants was initially a result of lack of money, not a fashion choice <a class="yt-timestamp" data-t="03:06:58">[03:06:58]</a>. However, the music industry quickly "phagocyted" and commercialized the movement, turning it into a marketable trend, which ultimately contributed to its decline <a class="yt-timestamp" data-t="03:08:00">[03:08:00]</a>.
+
+In conclusion, the [[impact_of_technology_on_human_behavior | impact of technology]] on music consumption is multifaceted, influencing everything from the physical formats of music and individual listening habits to the structure of the industry and the evolution of musical genres. While offering unprecedented access and creative freedom, it has also led to concerns about the depth of engagement with music and the commercialization of artistry <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>, <a class="yt-timestamp" data-t="03:17:16">[03:17:16]</a>.

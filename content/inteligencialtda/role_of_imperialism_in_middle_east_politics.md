@@ -1,0 +1,40 @@
+---
+title: Role of imperialism in Middle East politics
+videoId: IHjBtvhABcg
+---
+
+From: [[inteligencialtda]] <br/> 
+
+The conflict in the Middle East, particularly concerning Israel and Palestine, is primarily rooted in historical and geopolitical factors rather than being solely a religious or ancient struggle <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>. Imperialism, notably that of the British Empire, played a significant role in shaping the modern political landscape of the region <a class="yt-timestamp" data-t="06:12:00">[06:12:00]</a>.
+
+## British Imperialism and the Rise of Zionism
+
+The conflict began with British imperialism, which employed a "divide and conquer" strategy <a class="yt-timestamp" data-t="06:16:00">[06:16:00]</a> <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>. Zionist migration to Palestine intensified due to a geopolitical decision made during the First Zionist Congress in 1897, which considered the region's geographic location and natural resources, including oil <a class="yt-timestamp" data-t="06:32:00">[06:32:00]</a> <a class="yt-timestamp" data-t="06:41:00">[06:41:00]</a> <a class="yt-timestamp" data-t="06:44:00">[06:44:00]</a>. This migration was internationally subsidized, with support from figures like Baron Rothschild, leading to the purchase of land and the eventual expulsion of the native population <a class="yt-timestamp" data-t="07:18:00">[07:18:00]</a> <a class="yt-timestamp" data-t="08:11:00">[08:11:00]</a> <a class="yt-timestamp" data-t="08:21:00">[08:21:00]</a>. This process transformed the region from a "land without people for a people without land" into a territory with existing inhabitants, leading to an unfair and tense situation <a class="yt-timestamp" data-t="08:04:00">[08:04:00]</a> <a class="yt-timestamp" data-t="08:09:00">[08:09:00]</a>.
+
+### Promises and Betrayals
+During World War I, the British Empire, already at war with the Ottoman Empire, made contradictory promises:
+*   **To the Meccans:** The British offered the land for a great Arab state, spanning from Saudi Arabia to the border of Turkey and the Sinai Peninsula <a class="yt-timestamp" data-t="08:47:00">[08:47:00]</a> <a class="yt-timestamp" data-t="08:55:00">[08:55:00]</a>. This promise was not fulfilled <a class="yt-timestamp" data-t="08:55:00">[08:55:00]</a>.
+*   **To the French:** The British secretly agreed to share the territory with the French <a class="yt-timestamp" data-t="09:02:00">[09:02:00]</a>.
+*   **Balfour Declaration:** A letter known as the Balfour Declaration promised the land for building a home for the Jewish people. This declaration, however, implicitly denied the existing national state and led to the expulsion of indigenous people <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a> <a class="yt-timestamp" data-t="09:22:00">[09:22:00]</a> <a class="yt-timestamp" data-t="09:25:00">[09:25:00]</a>.
+
+This intensified migration and conflict <a class="yt-timestamp" data-t="09:26:00">[09:26:00]</a> <a class="yt-timestamp" data-t="09:29:00">[09:29:00]</a>. The British began negotiating separately with Jews, Christians, and Muslims, further exacerbating tensions <a class="yt-timestamp" data-t="09:37:00">[09:37:00]</a>.
+
+### The British Mandate and its Aftermath
+Following World War II, the British Empire, weakened economically, transferred the issue to the United Nations <a class="yt-timestamp" data-t="11:15:00">[11:15:00]</a> <a class="yt-timestamp" data-t="11:50:00">[11:50:00]</a>. This led to UN Resolution 181, the partition plan, which defined a space for two states, with Israel receiving the larger and more resource-rich portion of the land, including main arable lands, water reserves, and the largest coast to the Mediterranean <a class="yt-timestamp" data-t="12:02:00">[12:02:00]</a> <a class="yt-timestamp" data-t="12:19:00">[12:19:00]</a>.
+
+Upon the end of the British Mandate, the State of Israel was declared, but no Palestinian State was established. This led to the "Nakba" (great tragedy), resulting in the expulsion of 750,000 Arab Palestinian families and the destruction of 520 villages <a class="yt-timestamp" data-t="12:51:00">[12:51:00]</a> <a class="yt-timestamp" data-t="13:00:00">[13:00:00]</a> <a class="yt-timestamp" data-t="13:12:00">[13:12:00]</a> <a class="yt-timestamp" data-t="13:18:00">[13:18:00]</a>. This historical context, dating back 75 years, is crucial for understanding the current situation, which is viewed as a massacre rather than merely a war <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a> <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>.
+
+## American Imperialism and its Influence
+
+Following the British, [[geopolitical_alliances_in_the_middle_east | American imperialism]] emerged as a dominant force. After 1956, the US and Israel forged an absolute strategic relationship <a class="yt-timestamp" data-t="14:57:00">[14:57:00]</a>. This alliance allowed Israel to become one of the world's major military powers during the Cold War <a class="yt-timestamp" data-t="14:44:00">[14:44:00]</a>.
+
+### The War on Terror and its Impact
+The "War on Terror," initiated by the United States, further intensified the region's struggles, with historical falsehoods (like the presence of weapons of mass destruction in Iraq) used to justify imperialist invasions, leading to massive civilian casualties <a class="yt-timestamp" data-t="21:49:00">[21:49:00]</a> <a class="yt-timestamp" data-t="22:01:00">[22:01:00]</a> <a class="yt-timestamp" data-t="22:07:00">[22:07:00]</a>. This narrative, often propagated by Western media, contributed to dehumanizing the "other" and obtaining consent for domination <a class="yt-timestamp" data-t="01:07:30">[01:07:30]</a> <a class="yt-timestamp" data-t="01:07:41">[01:07:41]</a> <a class="yt-timestamp" data-t="01:09:08">[01:09:08]</a>.
+
+Israel, in this context, has been described as an instrument of imperialism, collaborating with the United States in a dynamic of global geopolitical domination <a class="yt-timestamp" data-t="01:29:24">[01:29:24]</a>. The argument is made that imperialism, the "greatest enemy of the future of humanity," promotes exploitation, oppression, and destruction <a class="yt-timestamp" data-t="01:42:25">[01:42:25]</a> <a class="yt-timestamp" data-t="01:42:28">[01:42:28]</a>.
+
+## Ideological Construction and Media Siege
+
+Imperialism maintains its hegemony through coercion (military force, occupation, checkpoints) and consent, which is achieved through ideological construction <a class="yt-timestamp" data-t="01:07:07">[01:07:07]</a> <a class="yt-timestamp" data-t="01:07:24">[01:07:24]</a>. This involves dehumanizing the "other" and creating justifications for actions <a class="yt-timestamp" data-t="01:07:41">[01:07:41]</a> <a class="yt-timestamp" data-t="01:07:52">[01:07:52]</a>. For example, the focus on [[Islamic extremism and Middle Eastern conflicts | Hamas]] as a terrorist organization serves as an excuse for broader actions of genocide and ethnic cleansing, while the organization existed long after the military occupation began in 1967 <a class="yt-timestamp" data-t="01:10:06">[01:10:06]</a> <a class="yt-timestamp" data-t="01:10:14">[01:10:14]</a> <a class="yt-timestamp" data-t="01:10:19">[01:10:19]</a>.
+
+The media plays a crucial role in this ideological construction, often presenting a biased narrative that aligns with dominant powers <a class="yt-timestamp" data-t="01:08:07">[01:08:07]</a> <a class="yt-timestamp" data-t="01:08:11">[01:08:11]</a>. War propaganda, a key military tactic, aims to elevate troop morale, destroy the enemy's morale, and inhibit international support <a class="yt-timestamp" data-t="01:16:27">[01:16:27]</a> <a class="yt-timestamp" data-t="01:16:40">[01:16:40]</a>. The "Zionist Lobby" is described as highly effective in promoting a narrative of Israel as a helpless state to the Western world <a class="yt-timestamp" data-t="01:17:31">[01:17:31]</a> <a class="yt-timestamp" data-t="01:20:04">[01:20:04]</a>.

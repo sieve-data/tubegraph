@@ -1,0 +1,38 @@
+---
+title: Relation between Protestantism and Judaism
+videoId: SXN7o4KL0Sk
+---
+
+From: [[inteligencialtda]] <br/> 
+
+The [[Protestant Reformation historical and theological context | Protestant Reformation]] and its subsequent developments significantly reshaped the relationship between Christianity and Judaism, moving from centuries of medieval anti-Semitism towards new forms of engagement and, in some cases, appreciation <a class="yt-timestamp" data-t="03:57:07">[03:57:07]</a>.
+
+## Historical Context Before the Reformation
+
+Before the [[Protestant Reformation historical and theological context | Reformation]], the medieval Christian tradition was largely anti-Semitic <a class="yt-timestamp" data-t="02:50:50">[02:50:50]</a>. Jews were often unfairly blamed for the crucifixion of Jesus, leading to a pervasive belief that they, as an ethnic group, were rejected by God <a class="yt-timestamp" data-t="02:51:39">[02:51:39]</a>. This worldview posited that the Gentile church had replaced the Jewish people in God's favor <a class="yt-timestamp" data-t="02:51:53">[02:51:53]</a>. During periods like the Black Death, Jews were even falsely accused of causing plagues, partly due to their better hygiene practices compared to the general population <a class="yt-timestamp" data-t="02:00:15">[02:00:15]</a>. Forced conversions, often involving symbolic acts like eating mortadella bread to prove abandonment of Judaism, were common <a class="yt-timestamp" data-t="02:50:07">[02:50:07]</a>.
+
+## The Reformation's Impact on Jewish Relations
+
+The [[Protestant Reformation historical and theological context | Protestant Reformation]], with its emphasis on *sola scriptura* (scripture alone) <a class="yt-timestamp" data-t="03:34:30">[03:34:30]</a>, spurred a "return to the sources" movement <a class="yt-timestamp" data-t="02:19:57">[02:19:57]</a>. This meant not only reading the New Testament in Greek but also the Old Testament in its original Hebrew, rather than solely relying on the Latin Vulgate or Greek Septuagint translations <a class="yt-timestamp" data-t="02:22:01">[02:22:01]</a>. This shift necessitated engagement with Jewish rabbis, who possessed the linguistic and exegetical knowledge of Hebrew necessary for accurate translation and interpretation <a class="yt-timestamp" data-t="02:29:01">[02:29:01]</a>.
+
+While Martin Luther's early writings expressed hope for Jewish conversion, his later works were tragically anti-Jewish, advocating for the destruction of synagogues and schools and the confinement of Jews to ghettos when conversions did not materialize <a class="yt-timestamp" data-t="02:50:50">[02:50:50]</a>. This reflected the entrenched medieval anti-Semitism of the time <a class="yt-timestamp" data-t="02:51:31">[02:51:31]</a>.
+
+However, other branches of the [[Differences among Protestant reform movements | Reformation]] took a different path. John Calvin, a key figure in the Reformed tradition, was among the first reformers to seriously engage with the Hebrew Bible and establish dialogue with Jewish rabbis <a class="yt-timestamp" data-t="02:29:01">[02:29:01]</a>. His successor in Geneva, Theodore Beza, continued this trend, fostering a "genuine appreciation" for Jews and seeing them as "older brothers" <a class="yt-timestamp" data-t="02:55:03">[02:55:03]</a>. This perspective spread through Anglo-Saxon Protestantism, notably in Scotland, Holland, and England <a class="yt-timestamp" data-t="02:55:21">[02:55:21]</a>.
+
+In Scotland, there was a concerted effort by Presbyterians to "import" rabbis to teach Hebrew, leading to no anti-Semitic incidents from the 16th to the 19th centuries <a class="yt-timestamp" data-t="02:56:06">[02:56:06]</a>. Oliver Cromwell, during his time as Lord Protector of England, invited Rabbi Menasseh ben Israel to argue for the return of Jews to England, suggesting that their expulsion centuries prior had brought God's disfavor upon the kingdom <a class="yt-timestamp" data-t="02:57:03">[02:57:03]</a>.
+
+## Development of Jewish Freedom and Return to Israel
+
+Protestant-influenced countries, particularly Holland, became havens for Jews fleeing persecution, earning Amsterdam the moniker "North Jerusalem" <a class="yt-timestamp" data-t="02:58:29">[02:58:29]</a>. This emphasis on religious freedom attracted Jews from the Iberian Peninsula and Eastern Europe, who found an environment where they could practice their faith openly and study their Torah, often alongside Calvinist pastors eager to learn from them <a class="yt-timestamp" data-t="02:59:01">[02:59:01]</a>.
+
+This newfound freedom also influenced the Americas. The first synagogue in the Americas was founded in Recife, Dutch Brazil, by Portuguese Jews <a class="yt-timestamp" data-t="03:00:03">[03:00:03]</a>. When the Dutch presence in Brazil ended, many of these Jews migrated, with some helping to found New Amsterdam, which later became New York <a class="yt-timestamp" data-t="03:00:44">[03:00:44]</a>.
+
+From the 16th century onward, English-speaking Protestants began to advocate for the return of Jews to their historical land, viewing it as a fulfillment of God's perpetual covenant with Abraham and Moses <a class="yt-timestamp" data-t="03:09:45">[03:09:45]</a>. This advocacy intensified in the 19th century, with figures like Robert Murray M'Cheyne coining the phrase "a land without people, a people without land" in reference to Palestine under Ottoman rule <a class="yt-timestamp" data-t="03:13:37">[03:13:37]</a>. They believed that encouraging Jewish return would pave the way for them to recognize Jesus as the Messiah <a class="yt-timestamp" data-t="03:14:01">[03:14:01]</a>. This led to the founding of the Church of Christ in Jerusalem in the 19th century, the oldest Protestant church in the Middle East, dedicated to helping Jews make pilgrimages to their land <a class="yt-timestamp" data-t="03:14:52">[03:14:52]</a>.
+
+## Theological and Cultural Parallels
+
+Protestantism, particularly its Reformed branches, exhibits a significant "debt to Judaism" <a class="yt-timestamp" data-t="02:07:07">[02:07:07]</a>. The return to the Old Testament for political philosophy influenced the concept of limited government, where "the law is the king" rather than the king being the law <a class="yt-timestamp" data-t="02:05:56">[02:05:56]</a>. This perspective, found in Deuteronomy, emphasized the king's accountability to divine law and the division of powers to diminish arbitrary authority <a class="yt-timestamp" data-t="02:06:07">[02:06:07]</a>.
+
+Both Protestant and Jewish cultures also share an emphasis on the value and pleasure of work <a class="yt-timestamp" data-t="02:19:10">[02:19:10]</a>. Unlike the medieval Christian view that often devalued manual labor, both traditions see all honest work as valuable and a service to God <a class="yt-timestamp" data-t="02:17:42">[02:17:42]</a>. This ethos contributed to the economic and social development seen in Protestant countries <a class="yt-timestamp" data-t="02:18:21">[02:18:21]</a>.
+
+In contemporary times, a "type of dialogue" has emerged between Orthodox Jews and Christians in the West, moving away from historical animosity <a class="yt-timestamp" data-t="02:59:52">[02:59:52]</a>. While theological differences remain, a shared understanding of common doctrines, like the resurrection of the body, and mutual respect for foundational texts fosters constructive conversation <a class="yt-timestamp" data-t="03:01:31">[03:01:31]</a>.
