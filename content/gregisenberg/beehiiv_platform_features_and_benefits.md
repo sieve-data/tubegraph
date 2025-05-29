@@ -1,0 +1,48 @@
+---
+title: Beehiiv platform features and benefits
+videoId: BSrOFsOMUdg
+---
+
+From: [[gregisenberg]] <br/> 
+
+Beehiiv is an all-in-one platform designed to help individuals and businesses build and monetize email-based newsletters and businesses <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. Co-founded by Tyler Dank, who previously helped Morning Brew grow to 3.5 million subscribers <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>, Beehiiv aims to simplify the process of scaling a newsletter from zero to 100,000 subscribers and generating significant monthly revenue <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>, <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+The platform focuses on consolidating various tools needed for a newsletter business, eliminating the need for separate accounts like Substack, ConvertKit, WordPress, Webflow, or Framer <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>, <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>. This [[integrated_health_technology_platforms | integration]] allows for better data tracking, from subscriber acquisition sources (e.g., X, LinkedIn) to in-email link clicks, enabling publishers to understand their audience more deeply <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
+
+## Website Builder
+
+Beehiiv offers a comprehensive website builder that allows users to create fully customizable websites and pages <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>, <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. Key features include:
+*   **Custom Pages** Users can spin up different pages, such as subscribe pages or content archives <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. The editor provides extensive customization options for text, colors, and layout without needing code <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>, <a class="yt-timestamp" data-t="00:56:03">[00:56:03]</a>.
+*   **Email Capture Features** The platform includes a customizable pop-up feature for email capture, allowing users to control when and where pop-ups appear, and even tailor them based on traffic sources (e.g., Facebook, Twitter) <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>, <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>, <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>.
+*   **Web Version of Newsletters** When a newsletter is published, it automatically generates an SEO-optimized web version, eliminating the need to host content in multiple places <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>, <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>.
+
+## Email Automation & Sign-up Flows
+
+Beehiiv provides robust automation capabilities to enhance the subscriber journey:
+*   **Custom Sign-up Flows** Users can create custom sign-up flows that dictate what happens after a subscriber provides their email. This can include interstitial steps like recommending other newsletters, surveys, or a final thank-you page <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>. Different sign-up forms and pop-ups can be linked to different flows, allowing for tailored experiences based on acquisition source <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>, <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>.
+*   **Automation Flows (Welcome Series)** Automated email journeys, ranging from simple welcome emails to multi-step sequences with logic, can be synced to each sign-up form <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>, <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>. This allows for immediate engagement, relationship building, and even early calls to action, such as encouraging referrals <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>, <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>.
+*   **Integrated Surveys** Beehiiv's native survey builder allows publishers to collect valuable demographic and interest data from new subscribers directly within the platform. This data is crucial for understanding the audience, tailoring content, and informing monetization strategies <a class="yt-timestamp" data-t="00:17:20">[00:17:20]</a>, <a class="yt-timestamp" data-t="00:21:07">[00:21:07]</a>. Follow-up emails can be sent to encourage survey completion if skipped <a class="yt-timestamp" data-t="00:20:06">[00:20:06]</a>.
+
+## Growth Features
+
+Beehiiv offers several features to facilitate audience growth:
+*   **Recommendation Network** Publishers can organically recommend other newsletters within the Beehiiv ecosystem, leading to passive subscriber acquisition through network effects <a class="yt-timestamp" data-t="00:25:12">[00:25:12]</a>, <a class="yt-timestamp" data-t="00:26:00">[00:26:00]</a>.
+*   **Boost Network (Paid Acquisition)** This two-sided marketplace allows publishers to monetize by promoting other newsletters for a per-subscriber fee (e.g., $2-4 per lead) <a class="yt-timestamp" data-t="00:28:31">[00:28:31]</a>, <a class="yt-timestamp" data-t="00:29:24">[00:29:24]</a>. Conversely, publishers can pay to acquire subscribers from other newsletters. The system includes verification steps to ensure quality, and features like "autopause" automatically halt campaigns if open rates fall below a set threshold, mitigating risk <a class="yt-timestamp" data-t="00:32:22">[00:32:22]</a>, <a class="yt-timestamp" data-t="00:33:10">[00:33:10]</a>.
+*   **Lead Magnets** Users can create custom landing pages and automation flows for lead magnets (digital assets like e-books or templates). This strategy allows publishers to offer value in exchange for an email, effectively acquiring high-quality subscribers interested in specific topics <a class="yt-timestamp" data-t="00:41:10">[00:41:10]</a>, <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>, <a class="yt-timestamp" data-t="00:43:32">[00:43:32]</a>.
+*   **Referral Program** A native referral program allows publishers to incentivize existing subscribers to share their newsletter. Rewards can be digital goods (e.g., exclusive content PDFs) or promo codes for merchandise, with automated fulfillment to minimize manual effort <a class="yt-timestamp" data-t="00:46:11">[00:46:11]</a>, <a class="yt-timestamp" data-t="00:46:56">[00:46:56]</a>, <a class="yt-timestamp" data-t="00:50:10">[00:50:10]</a>. The program provides unique referral links and dashboards for readers to track their progress <a class="yt-timestamp" data-t="00:48:46">[00:48:46]</a>.
+*   **Email Gating on Content** Publishers can choose to gate their web-published content, requiring visitors to subscribe to read the full post. This is a simple yet effective way to convert interested readers into subscribers <a class="yt-timestamp" data-t="00:58:06">[00:58:06]</a>, <a class="yt-timestamp" data-t="00:59:46">[00:59:46]</a>.
+
+## Monetization Capabilities
+
+Beehiiv offers diverse monetization options without taking a significant cut of user revenue:
+*   **Sponsorship Storefront** Publishers can create a public sponsorship storefront directly on their Beehiiv website. This displays newsletter stats and available ad inventory, allowing advertisers to book placements directly. The platform integrates with an ad calendar and handles notifications, asset collection, invoicing, and reporting <a class="yt-timestamp" data-t="01:01:16">[01:01:16]</a>, <a class="yt-timestamp" data-t="01:02:02">[01:02:02]</a>, <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>. Beehiiv charges a flat $10 transaction fee for direct bookings, not a percentage of revenue <a class="yt-timestamp" data-t="01:03:41">[01:03:41]</a>.
+*   **Paid Subscriptions** Users can offer paid subscriptions with customizable pricing (monthly/annual), free trials, and discounts. Beehiiv does not take a cut of subscription revenue (only Stripe's 2% fee applies) <a class="yt-timestamp" data-t="01:04:28">[01:04:28]</a>, <a class="yt-timestamp" data-t="01:05:24">[01:05:24]</a>. Paid tiers can also include access to exclusive communities via [[integration_and_collaboration_features_in_ai_coding_platforms | integrations]] with Slack or Discord through webhooks and APIs <a class="yt-timestamp" data-t="01:05:51">[01:05:51]</a>.
+*   **Ad Network** Beehiiv's ad network connects publishers with advertisers (e.g., Netflix, Nike, Roku, HubSpot). The platform provisions ads to best-fit newsletters, allowing publishers to choose ad copy and run dates, and receive payment typically within three weeks <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>.
+
+## Overall Philosophy
+
+Beehiiv's core philosophy is to empower users to grow and monetize their newsletters as effectively as possible, whether their goal is high-speed growth, community building, or establishing thought leadership <a class="yt-timestamp" data-t="01:08:44">[01:08:44]</a>, <a class="yt-timestamp" data-t="01:10:42">[01:10:42]</a>. The platform encourages consistency in publishing as a foundational element for building trust, engagement, and brand <a class="yt-timestamp" data-t="01:11:49">[01:11:49]</a>, <a class="yt-timestamp" data-t="01:12:51">[01:12:51]</a>.
+
+The platform is designed to be affordable <a class="yt-timestamp" data-t="01:15:33">[01:15:33]</a>, aiming for users to make more money through the platform than they pay for it <a class="yt-timestamp" data-t="01:15:47">[01:15:47]</a>.
+
+Users can start their newsletter journey at Beehiiv.com <a class="yt-timestamp" data-t="01:16:06">[01:16:06]</a>.

@@ -1,0 +1,61 @@
+---
+title: Building wealth through boring businesses
+videoId: LWuCIxfWKK8
+---
+
+From: [[gregisenberg]] <br/> 
+
+Many individuals are achieving significant wealth, including millions of dollars, by engaging in "boring, sweaty businesses" <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Nick Huber, known as "Mr. Sweaty Startup," shares insights into these less glamorous but highly profitable ventures <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. He notes that many wealthy individuals he knows, those with luxurious homes and private jets, made their fortunes through mundane industries like underground utilities, surveying, HVAC, and real estate development <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. The advice for increasing one's odds of getting rich is to "do something normal, do something boring" <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+
+## Why Boring Businesses?
+
+Unlike the tech-driven startup world often associated with Silicon Valley, "sweaty startups" offer a different path to wealth <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. While new, innovative ideas are valuable, focusing on traditional, overlooked businesses can significantly increase the likelihood of financial success <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. The competition in these sectors is often less formidable compared to the highly competitive tech space, where one might contend with Stanford computer science graduates backed by millions in venture capital <a class="yt-timestamp" data-t="00:24:22">[00:24:22]</a>. Instead, competitors in "boring" industries might be less technologically advanced or customer-focused, making it easier to gain market share <a class="yt-timestamp" data-t="00:24:40">[00:24:40]</a>.
+
+## Nick Huber's Journey: Storage Squad and Self-Storage
+
+Nick Huber's first venture was a pickup and delivery storage business called Storage Squad <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. This business stored students' boxes during the summer and delivered them back when they returned <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. At its peak, Storage Squad generated $2.2 million in annual revenue, with $400,000-$500,000 in profit per year <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. The primary marketing method was simple sidewalk chalk, placed where students walked to class <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. Nick personally wrote the ad "Need Storage Squad.com. $29.99 per box all summer" over 5,000 times <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. The business was bootstrapped using old cargo and box vans bought cheaply <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. He sold Storage Squad in 2020 for $1.75 million <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
+
+The idea for Storage Squad came from an unexpected source: Nick's apartment <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>. After someone on Craigslist offered to pay to store their items in his apartment, he realized the potential and filled his apartment with other people's belongings, making $3,000 cash within three weeks <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. He attributes his success partly to not initially identifying as an "entrepreneur," which prevented him from being deterred by the hard work involved <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>.
+
+Leveraging the success of Storage Squad, Nick and his partner transitioned into owning self-storage facilities <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+*   In 2019, they bought a 40,000 sq ft facility in Erie, Pennsylvania, with 180+ units for $625,000 at a public auction <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>. The previous owner had neglected it, leading to over 100 abandoned units and only $4,000 in monthly revenue <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>.
+*   They later bought a self-storage facility in North Georgia for $1.5 million <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. This facility was doing about $15,600-$16,000 in monthly revenue <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. Today, it generates $40,000 a month and is worth $4.5 million, with no debt <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>.
+
+## Other Profitable "Sweaty Startup" Ideas
+
+Nick Huber highlights several other [[profitable_lowcost_business_opportunities | profitable low-cost business opportunities]] that fall into the "sweaty startup" category <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>:
+
+*   **Lawn Care Company:** Nick's brother runs a lawn care company using only "bandit signs" (small roadside advertisements) <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>. He gains 30-40 new customers annually in April/May, grows his company by 30% per year, and made over $100,000 last year working nine months a year <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
+*   **Mobile Detailing Business:** A mobile car detailing business called Detailed Dogs generated $17,000 in revenue and $10,000 in profit in October 2024, netting the owner $120,000 annually just one year out of college <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>.
+*   **High-End Transportation:** A friend with three drivers in Atlanta offers high-end airport transportation, demonstrating another successful service business <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>.
+*   **Firewood Delivery with On-site Rack Building:** Instead of just delivering unseasoned firewood, a service that builds a firewood rack on-site and delivers seasoned wood could charge $800-$1,000, potentially making $1,000 profit daily (twice a day) <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. This could also evolve into a subscription service or an entry point for other services like lawn mowing, snow clearing, and tree work <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
+*   **Bar/Restaurant TV Advertising:** A person in North Georgia charges local businesses $10 a month to advertise on rotating ads on TVs in 70 bars and restaurants, netting $20,000 a month <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. This model fosters loyalty from local business owners who enjoy seeing their ads <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
+*   **Putting Green Installation:** A higher-skilled business, installing artificial putting greens, can bring in $30,000 to $200,000 per high-end turf installation <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>.
+*   **Tree Removal:** Despite the risks and equipment costs, tree removal is highly lucrative. Two workers can earn over $3,000 for four hours of work on a single job <a class="yt-timestamp" data-t="00:11:54">[00:11:54]</a>.
+*   **Christmas Light Installation:** While risky due to heights, this seasonal business can generate significant income, with some friends paying $3,500-$4,000 for a few months of Christmas lights <a class="yt-timestamp" data-t="00:12:17">[00:12:17]</a>.
+*   **Power Washing:** A low-skill, low-cost entry business, power washing concrete, furniture, or decks can be easily started with minimal investment <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>.
+*   **Concrete Work:** Laying driveways, slabs, or patios <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>.
+*   **Bounce House Rentals:** A popular and profitable business for events <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a>.
+
+## The "Night Nurses.com" Idea: A Digital Sweaty Startup
+
+A discussion arises about a "sweaty digital business" idea: a night nurse recruiting company <a class="yt-timestamp" data-t="00:13:22">[00:13:22]</a>. The concept stems from the difficulty of finding qualified night nurses for newborns <a class="yt-timestamp" data-t="00:14:17">[00:14:17]</a>. A service that handles job posting, screening, background checks, and interview setup for a fee of $3,000-$5,000 would be valuable <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>.
+
+The specific idea proposed is to acquire the domain `nightnurses.com` <a class="yt-timestamp" data-t="00:15:55">[00:15:55]</a>. This domain is available for $13,000, or a lease-to-own option of $1,100 per month for 13 months <a class="yt-timestamp" data-t="00:16:23">[00:16:23]</a>. The strategy involves:
+*   **Building a directory:** Potentially using [[building_businesses_with_ai_tools | AI tools]] <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>.
+*   **Content marketing:** Developing a blog with product reviews and mom advice to drive organic traffic <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>.
+*   **Targeted advertising:** Advertising on pregnancy tracking apps <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>.
+*   **Future expansion:** Leveraging the initial customer base for nanny recruiting services, affiliate marketing for baby products, and potentially even a fintech payroll provider for nurses/nannies <a class="yt-timestamp" data-t="00:26:52">[00:26:52]</a>.
+
+### The Value of Domain Names
+Nick argues that purchasing a strong domain name like `nightnurses.com` is an "unbelievable investment," comparing it to digital real estate <a class="yt-timestamp" data-t="00:20:01">[00:20:01]</a>. He has personally invested significantly in domains, paying $450,000 for `somewhere.com` <a class="yt-timestamp" data-t="00:19:54">[00:19:54]</a>, and notes it generated more than its cost in value within a year <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>. A good domain helps with branding, memorability, and potentially search engine optimization (SEO), which can translate into more leads and revenue <a class="yt-timestamp" data-t="00:20:23">[00:20:23]</a>.
+
+## Sweaty Startups vs. AI Startups
+
+While the current era sees a "golden renaissance" of AI startups <a class="yt-timestamp" data-t="00:22:38">[00:22:38]</a>, Nick questions their long-term profitability, noting that many AI models are still rudimentary <a class="yt-timestamp" data-t="00:23:14">[00:23:14]</a>. He predicts that a high percentage (99%) of AI startups will not reach profitability <a class="yt-timestamp" data-t="00:24:06">[00:24:06]</a>, similar to the high failure rate of general tech startups <a class="yt-timestamp" data-t="00:23:51">[00:23:51]</a>.
+
+A compelling argument is made that some of the best AI startups will actually emerge from [[blue_collar_startups_and_business_growth | sweaty startup]] foundations <a class="yt-timestamp" data-t="00:26:11">[00:26:11]</a>. By first building a strong, traditional service business (like the night nurse directory) and gaining customers and market share, one can then leverage technology, including AI, to enhance and scale services, potentially transforming into a "fintech AI company" <a class="yt-timestamp" data-t="00:27:07">[00:27:07]</a>. This approach highlights how AI can serve as a tool to make traditional businesses more efficient and profitable, rather than replace them entirely <a class="yt-timestamp" data-t="00:28:34">[00:28:34]</a>.
+
+## Finding More Sweaty Startup Ideas
+
+Nick Huber maintains a popular online resource listing hundreds of [[successful_business_ideas_outside_of_tech | business ideas outside of tech]] <a class="yt-timestamp" data-t="00:29:26">[00:29:26]</a>. These are primarily "sweaty startups" that involve cleaning, moving, repairing, or providing services for others <a class="yt-timestamp" data-t="00:29:29">[00:29:29]</a>. Most of these can be bootstrapped without significant upfront capital <a class="yt-timestamp" data-t="00:29:33">[00:29:33]</a>. This list is available at `sweatystartup.com` <a class="yt-timestamp" data-t="00:29:37">[00:29:37]</a>. Additionally, Nick has written a book, "The Sweaty Startup: How to Get Rich Doing Boring Things," which guides readers through idea selection, demand assessment, hiring, delegation, selling, and operational decisions <a class="yt-timestamp" data-t="00:29:47">[00:29:47]</a>.
