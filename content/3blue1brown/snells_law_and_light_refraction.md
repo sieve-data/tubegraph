@@ -1,0 +1,55 @@
+---
+title: Snells law and light refraction
+videoId: KTzGBJPuJwM
+---
+
+From: [[3blue1brown]] <br/> 
+
+Many people do not fully understand how a prism works <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This phenomenon, famously depicted on a Pink Floyd album cover <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>, involves principles that a self-respecting physics enthusiast should know <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+
+## The Standard Explanation: Light Slowing Down
+The common high school physics explanation states that when light enters a medium like glass, it slows down <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. The crests of the light wave, which travel at the speed of light 'c' in a vacuum, move slower inside the glass <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. The ratio between the speed of light in a vacuum and its speed inside a medium is called the [[index_of_refraction | index of refraction]] for that medium <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+
+### Refraction and Bending
+The term "refraction" is used because if a beam of light enters a medium at an angle, this slowdown causes it to bend <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+
+> A common analogy for this bending effect is imagining a tank moving from concrete (a fast region) into mud (a slower region) <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. If the tank enters at an angle, one tread hits the mud first and slows down while the other tread is still moving fast on concrete <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. This difference in speed causes the tank to steer or bend until both treads are in the mud, at which point it continues straight but slower <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+
+## Snell's Law
+High school physics students learn Snell's Law, which quantifies the amount of bending <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>. If you draw a line perpendicular to the boundary between the two media and consider the angle between this perpendicular line and the light beam, Snell's Law states that the sine of this angle divided by the speed of the light is always a constant <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. Consequently, the slower the light, the lower that angle will be, allowing for the calculation of refraction <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
+
+### How Prisms Work
+The key to understanding prisms is that the specific amount light slows down depends slightly on its frequency <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. For instance, blue light (higher frequency) slows down more aggressively than red light (lower frequency) <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. White light, like sunlight, is a continuous spectrum of colors that can be expressed as a sum of pure sine waves, each corresponding to a pure spectral color <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. When white light enters a prism, its different color components are refracted by slightly different amounts, leading to the iconic separation into rainbow colors <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>.
+
+## Deeper Understanding: The Feynman Lectures Approach
+While the standard explanation is not wrong, it doesn't explain *why* light slows down or *why* the amount of slowdown depends on color <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. A deeper understanding, as explored in the Feynman Lectures, involves considering each individual wiggling charge in the material and the light waves they produce <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+### Light as an Electromagnetic Wave
+Light is a wave in the electromagnetic field <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. If a charged particle wiggles, it creates propagating ripples in the electric field that travel at speed 'c' <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>. These ripples cause other charged particles to wiggle, generating their own propagations <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. The speed 'c' is fundamentally the speed of causality <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>. When multiple charges oscillate in sync, their effects can constructively interfere, forming a concentrated beam of light <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>.
+
+### Phase Kickback and Apparent Slowdown
+The [[physical_explanation_of_light_slowing_down | physical explanation of light slowing down]] in a medium can be understood by breaking the material into distinct layers perpendicular to the light's direction <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. Each layer, upon interaction with the light wave, causes a "kickback" to the phase of the wave <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. A phase kick shifts the wave by adding a constant to the input of its sine function <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
+
+When many successive layers apply tiny infinitesimal phase kicks, the cumulative effect is indistinguishable from a wave that is simply traveling slower, with its wavelength scrunched up while maintaining the same frequency <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>. Therefore, the core question becomes: why does interaction with a single layer cause a phase kick, and how strong is that kick <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>?
+
+### Adding Waves: Vector Sums
+To understand how phase kickback occurs, it's helpful to visualize the addition of waves using rotating vectors <a class="yt-timestamp" data-t="00:14:20">[00:14:20]</a>. Each sine wave can be represented by the y-component of a rotating vector, where the vector's length is the wave's amplitude and its initial rotation corresponds to the wave's phase <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>.
+
+When two waves of the same frequency are added, their combined effect can be found by adding their corresponding vectors tip to tail <a class="yt-timestamp" data-t="00:14:52">[00:14:52]</a>. The length and angle of the resulting vector sum determine the amplitude and phase of the combined wave <a class="yt-timestamp" data-t="00:15:07">[00:15:07]</a>. Crucially, if a second wave is much smaller than the first and its phase is exactly 90 degrees behind the first, their sum results in a wave almost identical to the first but slightly shifted back in phase <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>. The size of this phase shift depends on the amplitude of the second wave <a class="yt-timestamp" data-t="00:16:01">[00:16:01]</a>.
+
+### Driven Harmonic Oscillator and Color Dependence
+When light enters a material, it causes charges (electrons, ions) within the material to wiggle in response <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>. This wiggling produces its own "second-order" light wave at the same frequency, propagating in both directions perpendicular to the layer <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>. The overall electric field is the sum of the incoming wave and this second-order wave <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>. The phase of this second-order wave is exactly a quarter-cycle (90 degrees) behind the incoming wave <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>. Thus, when added, they result in a phase shift to the incoming light <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>.
+
+To understand why the [[index_of_refraction | index of refraction]] depends on color, one must understand how much these charges wiggle <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>. Charges in a material can be modeled as [[conservation_laws_in_classical_physics | simple harmonic oscillators]] bound to an equilibrium position by a spring-like force <a class="yt-timestamp" data-t="00:17:25">[00:17:25]</a>. The frequency at which these oscillators naturally oscillate is called their resonant angular frequency (omega sub r) <a class="yt-timestamp" data-t="00:19:54">[00:19:54]</a>.
+
+When a light wave (an external oscillating force) acts on these charges, it's like pushing a child on a swing <a class="yt-timestamp" data-t="00:21:47">[00:21:47]</a>. The charges will oscillate at the frequency of the incoming light (omega sub l) <a class="yt-timestamp" data-t="00:23:07">[00:23:07]</a>. The amplitude of their oscillation is inversely proportional to the difference between the square of the resonant frequency and the square of the light frequency <a class="yt-timestamp" data-t="00:24:28">[00:24:28]</a>.
+
+*   If the light's frequency is close to the material's resonant frequency, the charge oscillations grow large (like resonance in the Millennium Bridge disaster) <a class="yt-timestamp" data-t="00:24:36">[00:24:36]</a>.
+*   If the light's frequency is much smaller than the resonant frequency, the oscillation amplitude is more modest <a class="yt-timestamp" data-t="00:25:23">[00:25:23]</a>.
+
+The larger the charge wiggles, the stronger the second-order wave it produces <a class="yt-timestamp" data-t="00:26:26">[00:26:26]</a>. A stronger second-order wave causes a larger phase shift to the overall light wave <a class="yt-timestamp" data-t="00:26:31">[00:26:31]</a>. Since multiple phase shifts equate to an apparent slowdown of light, this means the amount light slows down depends on its frequency (color) <a class="yt-timestamp" data-t="00:26:36">[00:26:36]</a>. This is the fundamental reason why prisms work <a class="yt-timestamp" data-t="00:26:47">[00:26:47]</a>.
+
+### Further Details
+One important detail omitted from this simplified model is a "drag force" term, which accounts for the absorption of energy from the light wave by the material <a class="yt-timestamp" data-t="00:27:05">[00:27:05]</a>. Without it, the explanation would imply that light always passes through every material, which is not true <a class="yt-timestamp" data-t="00:27:25">[00:27:25]</a>.
+
+Further topics related to the [[index_of_refraction | index of refraction]] include why it can sometimes be less than one (implying apparent speeds faster than 'c'), and phenomena like birefringence (materials with two different indices of refraction) <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. The question of why slowing implies bending also deserves a deeper explanation than the tank analogy <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. For more information, the Feynman lectures are highly recommended <a class="yt-timestamp" data-t="00:26:57">[00:26:57]</a>. Additionally, supplemental videos explore whether light truly slows down in a medium in the context of transmitting information via wave packets <a class="yt-timestamp" data-t="00:27:53">[00:27:53]</a>.

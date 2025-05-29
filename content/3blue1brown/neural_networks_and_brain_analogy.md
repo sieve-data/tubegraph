@@ -1,0 +1,20 @@
+---
+title: Neural networks and brain analogy
+videoId: aircAruvnKk
+---
+
+From: [[3blue1brown]] <br/> 
+
+The human brain effortlessly recognizes handwritten digits, even when they are sloppily written or at low resolution <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This ability is remarkable given the wide variation in how digits can be written, meaning the specific light-sensitive cells firing in the eye differ significantly for various renditions of the same digit <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. Despite this, the brain's visual cortex resolves these diverse inputs as representing the same idea <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. In contrast, programming a computer to perform this seemingly trivial task, such as recognizing a 28x28 pixel grid as a digit between 0 and 10, becomes dauntingly difficult <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+
+[[Neural Networks and Transformers | Neural networks]], a core component of machine learning, are inspired by the brain's remarkable capabilities <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. The objective of [[Neural Networks and Transformers | neural networks]] is to address such complex problems by modeling a system that can [[neural_network_learning_process | learn]] to recognize patterns.
+
+## Neurons as Basic Units
+In the context of [[Neural Networks and Transformers | neural networks]], a "neuron" is simply a unit that holds a number, specifically a value between 0 and 1 <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. These neurons are organized into layers <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. For instance, an input image of 28x28 pixels translates to 784 neurons in the first layer, each holding a number representing the grayscale value of a corresponding pixel (0 for black, 1 for white) <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. This number within a neuron is called its [[Activation functions in neural networks | activation]] <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>, with higher numbers indicating the neuron is "lit up" <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+
+The [[structure_of_neural_networks | structure]] of a [[Neural Networks and Transformers | neural network]] involves activations in one layer determining the activations in the next <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>. This process is loosely analogous to how groups of biological neurons firing cause others to fire <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>.
+
+## Activation Functions and Biological Analogy
+To manage the range of values, a common practice in early [[Neural Networks and Transformers | neural networks]] was to pump the weighted sum of inputs into a function that squishes the real number line into a range between 0 and 1 <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. The [[Activation functions in neural networks | sigmoid function]] (also known as a logistic curve) was frequently used for this purpose <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>. This choice was partly motivated by the biological analogy of neurons either being inactive (close to 0) or active (close to 1) <a class="yt-timestamp" data-t="00:17:26">[00:17:26]</a>.
+
+However, in modern [[Neural Networks and Transformers | neural networks]], the [[Activation functions in neural networks | sigmoid function]] is less commonly used for hidden layers <a class="yt-timestamp" data-t="00:17:30">[00:17:30]</a>. A more prevalent [[Activation functions in neural networks | activation]] function is the Rectified Linear Unit (ReLU), which is generally easier to train <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>. ReLU, defined as the maximum of zero and its input (`max(0, a)`), was also partly motivated by a biological analogy where neurons are either activated or not, passing a certain threshold to become active or remaining at zero <a class="yt-timestamp" data-t="00:17:52">[00:17:52]</a>.

@@ -1,0 +1,26 @@
+---
+title: Importance of training data in machine learning
+videoId: Ilg3gGewQ5U
+---
+
+From: [[3blue1brown]] <br/> 
+
+Training data is fundamental to how neural networks learn <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. The learning process aims to find the specific [[adjusting_weights_and_biases_in_neural_networks|weights and biases]] that minimize a cost function <a class="yt-timestamp" data-t="00:53:00">[00:53:00]</a>. This cost is determined by averaging the network's output for tens of thousands of training examples against their desired outputs <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>.
+
+## Calculating the Gradient for Adjustments
+Backpropagation, the core algorithm for neural network learning, computes the negative gradient of this cost function <a class="yt-timestamp" data-t="01:43:00">[01:43:00]</a>, <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>. This gradient indicates how to change all [[adjusting_weights_and_biases_in_neural_networks|weights and biases]] to most efficiently decrease the cost <a class="yt-timestamp" data-t="01:26:00">[01:26:00]</a>, <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>. The magnitude of each component in the gradient vector reveals how sensitive the cost function is to each weight and bias <a class="yt-timestamp" data-t="02:04:00">[02:04:00]</a>, <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>.
+
+For a single gradient descent step, the adjustments to [[adjusting_weights_and_biases_in_neural_networks|weights and biases]] ideally depend on every single training example <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>, <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>. If only one training example, like an image of a "2," were used, the network would ultimately be incentivized to classify all images as "2" <a class="yt-timestamp" data-t="08:33:00">[08:33:00]</a>, <a class="yt-timestamp" data-t="08:37:00">[08:37:00]</a>, <a class="yt-timestamp" data-t="08:40:00">[08:40:00]</a>. Therefore, the backpropagation routine must be executed for every training example, with the desired changes then averaged together <a class="yt-timestamp" data-t="08:44:00">[08:44:00]</a>, <a class="yt-timestamp" data-t="08:49:00">[08:49:00]</a>. This collection of averaged nudges constitutes the negative gradient of the cost function <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>.
+
+## Computational Efficiency: Stochastic Gradient Descent
+Due to the computational time required to process every training example for each gradient descent step <a class="yt-timestamp" data-t="09:33:00">[09:33:00]</a>, <a class="yt-timestamp" data-t="09:38:00">[09:38:00]</a>, a technique called stochastic gradient descent is commonly employed <a class="yt-timestamp" data-t="10:31:00">[10:31:00]</a>. This involves:
+1.  Randomly shuffling the training data <a class="yt-timestamp" data-t="09:45:00">[09:45:00]</a>.
+2.  Dividing it into "mini-batches" (e.g., 100 examples per batch) <a class="yt-timestamp" data-t="09:48:00">[09:48:00]</a>.
+3.  Computing each step of the gradient descent based on one mini-batch <a class="yt-timestamp" data-t="09:52:00">[09:52:00]</a>, <a class="yt-timestamp" data-t="09:56:00">[09:56:00]</a>.
+
+While a mini-batch provides only an approximation of the actual gradient and isn't the most efficient step downhill <a class="yt-timestamp" data-t="09:56:00">[09:56:00]</a>, <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>, it offers a significant computational speedup <a class="yt-timestamp" data-t="10:09:00">[10:09:00]</a>. By repeatedly going through all mini-batches and making these adjustments, the network converges towards a local minimum of the cost function <a class="yt-timestamp" data-t="11:14:00">[11:14:00]</a>, <a class="yt-timestamp" data-t="11:17:00">[11:17:00]</a>. This means the network will perform very well on the training examples <a class="yt-timestamp" data-t="11:21:00">[11:21:00]</a>.
+
+## The Need for Labeled Training Data
+For algorithms like backpropagation and various other machine learning approaches to work effectively, a substantial amount of training data is required <a class="yt-timestamp" data-t="11:57:00">[11:57:00]</a>, <a class="yt-timestamp" data-t="12:00:00">[12:00:00]</a>, <a class="yt-timestamp" data-t="12:04:00">[12:04:00]</a>.
+
+A classic example is [[training_neural_networks_with_mnist_data|recognizing handwritten digits]], which benefits from the MNIST database containing numerous human-labeled examples <a class="yt-timestamp" data-t="12:06:00">[12:06:00]</a>, <a class="yt-timestamp" data-t="12:10:00">[12:10:00]</a>, <a class="yt-timestamp" data-t="12:15:00">[12:15:00]</a>. A common challenge in machine learning is acquiring the necessary labeled training data, which often involves having humans label tens of thousands of images or other data types <a class="yt-timestamp" data-t="12:15:00">[12:15:00]</a>, <a class="yt-timestamp" data-t="12:19:00">[12:19:00]</a>, <a class="yt-timestamp" data-t="12:21:00">[12:21:00]</a>, <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>.

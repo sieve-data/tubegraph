@@ -1,0 +1,18 @@
+---
+title: limitations of cosmic perspective
+videoId: C8baNzpnZ7o
+---
+
+From: [[3blue1brown]] <br/> 
+
+Animations that zoom out by factors of ten, while useful, can inadvertently misrepresent the true [[scale_of_the_universe | Scale of the Universe]] <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>, <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+
+## Misconceptions from Zoom-Outs
+
+The implied camera position in such animations moves significantly faster than the cosmic speed limit, the speed of light <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>, <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>, <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. This can make distant objects, such as other galaxies, appear almost accessible <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>, <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. In reality, traveling at the speed of light would still require approximately 2.5 million years to reach the nearest galaxy <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>, <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>, <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>, <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+
+### Challenges in Representation
+
+Creators of these zoom-out animations face the challenge of maintaining scientific accuracy without resorting to subjective "artist renditions of the universe" <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>, <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>, <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>, <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>, <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. A solution adopted for one such animation, part of a series on [[distance_measurement_in_the_cosmos | how distances to cosmic objects are known]] <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>, <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>, was to conclude with a simple point cloud <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. This point cloud represented data from the [[slone_galactic_survey_and_galaxy_mapping | Slone Galactic Survey]], which maps the distances to galaxies in various directions <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>, <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>, <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>, <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>, <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
+
+Despite the unfathomable distances, with galaxies millions and billions of light-years apart and "completely beyond our grasp" <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>, <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>, <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>, <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>, <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>, <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>, <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>, science and deduction allow us to map and study patterns such as clusters and strands formed by billions of galaxies <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>, <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>, <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>, <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
