@@ -1,0 +1,93 @@
+---
+title: Wholeofgovernment approaches to addressing genderbased violence
+videoId: 4XJ2WQTYXuc
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+This article discusses the importance of [[coordinating_multiagency_responses_to_genderbased_violence | whole-of-government approaches]] to addressing gender-based violence (GBV), particularly in times of crisis like the COVID-19 pandemic <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. The content is drawn from a roundtable discussion as part of the OECD's "Government After Shock" event <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, which aimed to spur global dialogue on the implications of the current crisis for governments and how to leverage this moment to shape the future of government <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+## The Global Pandemic of Gender-Based Violence
+
+Even before the COVID-19 crisis, GBV was considered a global pandemic <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. Estimates indicated that over one-third of women experienced some form of violence at least once in their lifetimes <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. Consequently, GBV has become a priority area for the OECD's agenda on gender equality <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>. Prior to the pandemic, the OECD held a high-level conference on ending violence against women in February <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>, bringing together government leaders and stakeholders to discuss collective actions against intimate partner violence <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. Global roundtables on access to justice were also hosted to advance survivor-centered approaches and support greater reporting on GBV, aiming to avoid re-victimization <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+
+The OECD has been developing a framework to help governments strengthen governance and survivor-centered approaches to eliminating GBV <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. In this context, a Technical Advisory Group on GBV was launched, comprising policy experts to provide strategic and technical guidance to advance this agenda <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
+
+### [[impact_of_covid19_on_genderbased_violence | Impact of COVID-19 on Gender-Based Violence]]
+
+The COVID-19 pandemic significantly exacerbated the GBV crisis worldwide <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>. Reports from OECD and partner countries show a significant increase in GBV rates since the onset of COVID-19, especially during lockdowns when many women and girls were confined with their abusers <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. Even before the pandemic, governments struggled with effectively approaching domestic violence and child abuse, facing a lack of resources and efficient methodologies <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>. Domestic violence, including homicides and murders of women, men, and children, ranks second only to car accidents in terms of deaths <a class="yt-timestamp" data-t="00:14:25">[00:14:25]</a>.
+
+The pandemic intensified pressure within families, with risk factors like job loss, financial insecurity, and confinement with a violent partner contributing to increased violence <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>. While many governments took action, it was challenging, demonstrating the need for more strategic planning and proactive action regarding GBV during crises <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
+
+## Country Experiences and Innovations
+
+### Switzerland: National Task Force
+
+Switzerland's government reacted quickly by establishing a national task force on gender-based violence and domestic violence, launched in March 2020 during a semi-lockdown <a class="yt-timestamp" data-t="00:23:32">[00:23:32]</a>.
+The main goals of this task force included:
+*   Ensuring counseling centers and shelters continued to provide services and function effectively, respecting new health measures <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>.
+*   Ensuring police remained available to intervene in domestic violence cases and enforce protective orders, even when difficult to find alternative housing for perpetrators <a class="yt-timestamp" data-t="00:24:14">[00:24:14]</a>.
+*   Reminding the public that fighting domestic violence remained a priority for Swiss authorities during the pandemic <a class="yt-timestamp" data-t="00:25:24">[00:25:24]</a>.
+
+A key challenge for Switzerland, as a federal state, was ensuring commitment and functionality at all local authority levels <a class="yt-timestamp" data-t="00:25:37">[00:25:37]</a>. The task force facilitated coordination between services (police, shelters, counseling centers) and across governmental levels (national and local) <a class="yt-timestamp" data-t="00:25:56">[00:25:56]</a>. A pre-existing committee that met a few times a year was adapted to meet weekly, allowing for real-time monitoring of cases, shelter capacity, and staffing issues across urban and rural areas <a class="yt-timestamp" data-t="00:26:21">[00:26:21]</a>.
+
+Specific actions included:
+*   **Monitoring the situation:** Establishing a short-term information flow, collecting weekly data from police, victim support services, and shelters <a class="yt-timestamp" data-t="00:27:27">[00:27:27]</a>.
+*   **Informing the population:** Launching a rapid poster campaign in various public places (groceries, pharmacies, garden centers) to inform the public that domestic violence has zero tolerance and help is available <a class="yt-timestamp" data-t="00:28:36">[00:28:36]</a>. These organizations showed a strong sense of solidarity <a class="yt-timestamp" data-t="00:29:24">[00:29:24]</a>.
+*   **Financial support:** Providing additional funds to helplines due to increased demand <a class="yt-timestamp" data-t="00:29:33">[00:29:33]</a>.
+*   **Data collection:** Acknowledging the challenge of obtaining robust data; while helpline calls increased, police-reported cases did not generally show a clear increase in Switzerland, possibly due to the semi-confinement or increased awareness from campaigns <a class="yt-timestamp" data-t="00:29:56">[00:29:56]</a>. More reliable data is needed to identify target groups and effective measures <a class="yt-timestamp" data-t="01:13:42">[01:13:42]</a>.
+
+> [!NOTE] [[role_of_media_and_public_awareness_in_tackling_genderbased_violence | Role of Media and Public Awareness]]
+> The media in Switzerland played a crucial role by not forgetting victims of domestic violence, publishing articles, and sending questions, which helped inform the public that domestic violence remained a government priority <a class="yt-timestamp" data-t="01:12:02">[01:12:02]</a>.
+
+### Belgium: Family Justice Centers
+
+The European Family Justice Center Alliance promotes a model where professionals from various organizations work together under one roof to support GBV survivors <a class="yt-timestamp" data-t="00:34:21">[00:34:21]</a>. Originating in the US in 2002, this model has proven highly effective, saving lives <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>.
+
+In Antwerp, Belgium, a leading Family Justice Center rapidly adapted its operations within a week during the COVID-19 lockdown, transitioning to a central and virtual coordination role for imminent domestic violence and child abuse situations <a class="yt-timestamp" data-t="00:35:15">[00:35:15]</a>. The pre-existing multidisciplinary approach and strong cooperation with police, justice, administrative, and social help centers provided a solid foundation for this quick shift to online consultations <a class="yt-timestamp" data-t="00:35:39">[00:35:39]</a>.
+
+Key adaptations and successes:
+*   **Housing options:** The Belgian government quickly secured additional housing places, utilizing closed hotels for survivors due to a lack of space in shelters <a class="yt-timestamp" data-t="00:36:31">[00:36:31]</a>.
+*   **Reporting increase:** A survey by the public prosecutor's office in Belgium showed an increase in GBV reports in areas with Family Justice Centers, contrasting with a decrease in reporting in areas without such centers <a class="yt-timestamp" data-t="00:37:08">[00:37:08]</a>. This highlights the effectiveness of established cooperation systems in maintaining reporting even during crisis <a class="yt-timestamp" data-t="00:37:56">[00:37:56]</a>.
+*   **International collaboration:** Close cooperation with Alliance for Hope International in the US allowed for rapid sharing of experiences and best practices between centers during the pandemic <a class="yt-timestamp" data-t="00:38:16">[00:38:16]</a>.
+*   **Flexible and creative solutions:** Professionals adopted new ways of working, including virtual consultations, and implemented creative solutions like "sidewalk conversations" or meetings at special public places for survivors who couldn't be visited at home <a class="yt-timestamp" data-t="00:39:13">[00:39:13]</a>. Practical guidelines for professionals and policymakers were quickly developed and shared <a class="yt-timestamp" data-t="00:39:46">[00:39:46]</a>.
+*   **Severity of incidents:** Beyond an increase in numbers, the severity of domestic violence incidents also increased, with more children brought to hospitals with severe injuries <a class="yt-timestamp" data-t="00:42:02">[00:42:02]</a>.
+
+> [!NOTE] Public Messaging
+> Governments must go public and declare that domestic violence and child abuse are never accepted, and that support services remain open and accessible <a class="yt-timestamp" data-t="00:41:07">[00:41:07]</a>. An important measure is to make exceptions to lockdown rules for victims fleeing immediate violence, ensuring they are not penalized for seeking safety <a class="yt-timestamp" data-t="00:43:03">[00:43:03]</a>.
+
+### Chile: Contingency Plan and [[innovations_in_supporting_survivors_of_violence_during_the_pandemic | Innovations]]
+
+Chile had a slight advantage due to Latin America experiencing the pandemic slightly later than other regions, allowing time to study international responses and prepare a contingency plan, launched in March 2020 <a class="yt-timestamp" data-t="00:46:07">[00:46:07]</a>. This plan focused on:
+*   **Service continuity and capacity:** Ensuring that 109 GBV day centers and 45 shelters operated at full capacity <a class="yt-timestamp" data-t="00:46:30">[00:46:30]</a>.
+*   **Meeting increased demand:** Hotlines saw a 250% increase in calls <a class="yt-timestamp" data-t="00:48:52">[00:48:52]</a>. Resources were increased, additional shifts incorporated for hotlines, remote appointments enabled, and shelter capacity expanded <a class="yt-timestamp" data-t="00:47:02">[00:47:02]</a>.
+*   **Coordination:** Activating the GBV coordination circuit, involving health providers, police, and public prosecutors <a class="yt-timestamp" data-t="00:47:20">[00:47:20]</a>. GBV-related services were declared essential, and restraining orders were automatically extended <a class="yt-timestamp" data-t="00:47:41">[00:47:41]</a>.
+*   **New communication channels:** Developing "silent" helplines, including a WhatsApp line, an online website, and initially an alliance with pharmacies for women without phone access <a class="yt-timestamp" data-t="00:48:21">[00:48:21]</a>. The pharmacy alliance shifted to an information point due to training resource challenges <a class="yt-timestamp" data-t="00:48:51">[00:48:51]</a>. An SMS messaging pilot is also being developed to reach those without smartphones <a class="yt-timestamp" data-t="00:49:08">[00:49:08]</a>.
+*   **Widespread communication:** Ensuring GBV help channels were included in daily national TV COVID-19 sanitary reports and news segments covering GBV cases <a class="yt-timestamp" data-t="00:49:33">[00:49:33]</a>. Campaigns like "There is no place for violence in this community" (municipalities) and "Do it for her" (encouraging complaints) were launched <a class="yt-timestamp" data-t="00:50:05">[00:50:05]</a>.
+*   **Targeted messaging:** Identifying high-risk groups and sending targeted messages, guidelines, and information through key actors <a class="yt-timestamp" data-t="00:50:20">[00:50:20]</a>.
+*   **[[inclusive_services_and_public_policy_making | Participatory and Whole-of-Society Approach]]:** Creating a Council of Women on COVID with congresswomen and civil society representatives to address the pandemic's differentiated impact on women across protection (health, GBV), economic reactivation, and care responsibilities <a class="yt-timestamp" data-t="00:50:48">[00:50:48]</a>.
+*   **Territorial approach:** Partnering with Banco Estado (Chilean state bank) to make GBV information available across its extensive network of over 30,000 local banking shops <a class="yt-timestamp" data-t="00:51:28">[00:51:28]</a>. Collaboration with the private sector through business associations aims to engage employers in prevention and detection of GBV <a class="yt-timestamp" data-t="00:51:57">[00:51:57]</a>.
+
+## Key Lessons and Future Directions
+
+The pandemic highlighted the need for governments to plan more strategically and act more proactively <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. Key takeaways and future priorities include:
+
+*   **Political Will and Prioritization:** A major barrier identified is insufficient government commitment and prioritization of GBV <a class="yt-timestamp" data-t="00:53:44">[00:53:44]</a>. There is a critical need to build [[government_collaboration_to_tackle_global_challenges | whole-of-government commitment]] and mainstream GBV across all decision-making processes <a class="yt-timestamp" data-t="00:53:56">[00:53:56]</a>.
+*   **[[systems_thinking_in_government_during_crises | Systems Approach]] and Coordination:**
+    *   Developing a [[systems_thinking_in_government_during_crises | systems approach]] to GBV with strong intersectional coordination and holistic legislation and policies <a class="yt-timestamp" data-t="02:09:58">[02:09:58]</a>.
+    *   Establishing permanent coordination mechanisms that can be rapidly scaled up during crises, ensuring involvement of all relevant institutions and partners (police, social, justice, statistics, health) <a class="yt-timestamp" data-t="00:56:10">[00:56:10]</a>.
+    *   Ensuring links between GBV task forces and other government task forces (health, economic) to integrate gender perspectives <a class="yt-timestamp" data-t="00:57:11">[00:57:11]</a>.
+*   **Survivor-Centricity and Innovation:**
+    *   Tackling cultural change to ensure survivor-centric responses that guarantee access to justice <a class="yt-timestamp" data-t="02:10:06">[02:10:06]</a>.
+    *   Listening to survivors and using their experiences to develop services <a class="yt-timestamp" data-t="01:02:24">[01:02:24]</a>. Professionals should adopt an attitude of asking survivors "What do you need from me? How can I help you?" <a class="yt-timestamp" data-t="01:03:30">[01:03:30]</a>.
+    *   Adopting and adapting proven effective models like Family Justice Centers, which foster inter-agency collaboration under one roof <a class="yt-timestamp" data-t="01:00:57">[01:00:57]</a>. The focus should be on implementing guiding principles, not just the name of a model <a class="yt-timestamp" data-t="01:03:53">[01:03:53]</a>.
+    *   Continuing and expanding [[innovations_in_supporting_survivors_of_violence_during_the_pandemic | innovations]] and new partnerships, including digital communication channels (WhatsApp, online platforms) for filing complaints and extending protection measures <a class="yt-timestamp" data-t="01:06:55">[01:06:55]</a>.
+*   **Data and Accountability:**
+    *   Improving accountability <a class="yt-timestamp" data-t="02:11:15">[02:11:15]</a>.
+    *   Collecting better, reliable, and sound data in crisis situations to identify areas for effort and target groups for effective measures <a class="yt-timestamp" data-t="01:13:42">[01:13:42]</a>. This includes detailed gender statistics about violence <a class="yt-timestamp" data-t="01:14:32">[01:14:32]</a>.
+    *   Developing a single registry or platform to unify relevant information and data from survivors to avoid secondary victimization <a class="yt-timestamp" data-t="01:08:33">[01:08:33]</a>.
+*   **[[role_of_media_and_public_awareness_in_tackling_genderbased_violence | Public Awareness]] and Communication:** Regularly and clearly communicate to the public that GBV remains a priority and support services are functional <a class="yt-timestamp" data-t="00:25:24">[00:25:24]</a>. Use mass media, public campaigns, and even integrate GBV messaging into general public health announcements <a class="yt-timestamp" data-t="00:49:33">[00:49:33]</a>.
+*   **Addressing Vulnerable Groups:** Ensure GBV policies account for and are accessible to groups more likely to be subjected to violence, such as women with disabilities and migrant women, by considering intersectional identity factors like age, disability, and migration status <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>. Helplines should be accessible to diverse target groups, potentially through multi-language support and varied communication methods <a class="yt-timestamp" data-t="01:12:51">[01:12:51]</a>.
+*   **Engaging Men and Boys:** Strengthen initiatives engaging men and boys in prevention, for instance, by developing platforms with online courses on positive masculinity <a class="yt-timestamp" data-t="01:09:27">[01:09:27]</a>.
+
+Ultimately, the pandemic underscored that a lot of effort, [[innovations_in_supporting_survivors_of_violence_during_the_pandemic | innovation]], and creativity were deployed in new ways of working <a class="yt-timestamp" data-t="01:18:06">[01:18:06]</a>. However, there is still much more to be done, emphasizing the need for continuous learning, evaluation, and the exchange of practices to build collective knowledge <a class="yt-timestamp" data-t="01:19:35">[01:19:35]</a>. Governments must make clear choices to implement the most effective approaches, drawing on existing successful models rather than reinventing the wheel <a class="yt-timestamp" data-t="01:01:12">[01:01:12]</a>. The fundamental purpose remains serving the people, particularly those in vulnerable situations, by understanding and responding to their needs <a class="yt-timestamp" data-t="01:05:02">[01:05:02]</a>.

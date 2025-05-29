@@ -1,0 +1,60 @@
+---
+title: Technological advancements in governance
+videoId: fcq_hH4XFkc
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+Governments worldwide are increasingly recognizing the critical role of technology and innovation in addressing complex challenges and fostering [[proactive_governance | proactive governance]]. The current global landscape, marked by events like pandemics, climate change, and evolving digital environments, necessitates a shift from reactive policy-making to an anticipatory approach <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
+
+## The Need for Proactive Governance
+
+Traditional reactive policy-setting is proving inadequate in the face of rapidly emerging issues like climate change, migration, and the complexities of the digital environment <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. Governments need the ability to both respond quickly to unforeseen challenges and, crucially, to anticipate different futures and prepare for these realities <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. This means integrating strategic insight with the capacity to test [[innovation_in_government | innovations]] and ensure citizen engagement throughout policy cycles, which also strengthens trust and democracy <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>, <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+
+## National Initiatives in Anticipatory Innovation
+
+Several countries are actively working on building [[anticipatory_innovation_and_governance | anticipatory innovation governance]] systems.
+
+### Finland's Approach
+Finland is at an early stage of developing a proper [[anticipatory_innovation_and_governance | anticipatory innovation]] system, but is optimistic about building a new governance model to stimulate policy-making for future needs <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>, <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>. Key building blocks include changes in their strategic planning system, such as the move to a strategic government program system first implemented in 2015 <a class="yt-timestamp" data-t="00:17:01">[00:17:01]</a>. Finland also leverages its experience in experimentation, enabling legislation, [[digital_transformation_in_governance | digitalization]], and adopting ecosystemic approaches <a class="yt-timestamp" data-t="00:17:42">[00:17:42]</a>. While strong in enhancing, mission-oriented, and adaptive [[innovation_in_government | innovation]], the next ambition is to build an [[anticipatory_innovation_and_governance | anticipatory innovation system]] <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>, <a class="yt-timestamp" data-t="00:18:29">[00:18:29]</a>. A current challenge is linking intensive foresight work with actual political decision-making processes <a class="yt-timestamp" data-t="00:18:52">[00:18:52]</a>.
+
+### Ireland's Strategic Foresight Journey
+Ireland is at the beginning of systematically introducing strategic foresight into its policy-making process <a class="yt-timestamp" data-t="00:24:48">[00:24:48]</a>. Driven by experiences with the financial crisis, the COVID-19 pandemic, and the looming climate crisis, the public service leadership board sought to anticipate challenges over the next 10 years and ensure the public service is fit for purpose by 2030 and beyond <a class="yt-timestamp" data-t="00:25:52">[00:25:52]</a>, <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>. Ireland is developing a strategic foresight action plan with capacity building across the public service, integrating it into existing governance structures like the Public Service Leadership Board and the Public Service Innovation Strategy <a class="yt-timestamp" data-t="00:29:43">[00:29:43]</a>, <a class="yt-timestamp" data-t="00:30:13">[00:30:13]</a>. The aim is to link foresight insights directly into the policy-making system to ensure relevance and impact <a class="yt-timestamp" data-t="00:31:30">[00:31:30]</a>.
+
+## Radical Experimentation and Technological Advancement
+
+### Canada's Experimental Government
+Canada has been pushing to make its government more experimental over the last five years <a class="yt-timestamp" data-t="00:45:58">[00:45:58]</a>. For Canada, [[innovation_in_government | innovation]] is doing new things, while experimentation is the process of rigorously measuring if those new things work <a class="yt-timestamp" data-t="00:46:44">[00:46:44]</a>. The focus is on building capacity (e.g., through training programs), supporting experimentation communities, and driving systems change through directives and annual surveys to embed experimentation into departmental management <a class="yt-timestamp" data-t="00:47:42">[00:47:42]</a>, <a class="yt-timestamp" data-t="00:48:23">[00:48:23]</a>, <a class="yt-timestamp" data-t="00:48:58">[00:48:58]</a>.
+
+Common barriers to experimentation include:
+*   **Access to Expertise:** Lack of methodological and process expertise <a class="yt-timestamp" data-t="00:49:45">[00:49:45]</a>.
+*   **Data:** Challenges with organized, usable data <a class="yt-timestamp" data-t="00:50:15">[00:50:15]</a>.
+*   **Openness to Failure:** A cultural barrier, as experiments inherently carry the risk of not succeeding <a class="yt-timestamp" data-t="00:50:39">[00:50:39]</a>. The argument is that the status quo is also risky, and experimentation can reduce long-term risk <a class="yt-timestamp" data-t="00:51:06">[00:51:06]</a>.
+*   **Timelines:** Experiments are most useful when results can inform decisions well in advance, requiring an [[anticipatory_innovation_and_governance | anticipatory]] mindset <a class="yt-timestamp" data-t="00:51:24">[00:51:24]</a>.
+*   **Doing New Things:** Government cultures often favor precedent, making it harder to implement new approaches <a class="yt-timestamp" data-t="00:51:54">[00:51:54]</a>.
+
+### Sweden's Comet Committee and Regulatory Greenhouses
+The Swedish government's Committee for Technology, Innovation, and Ethics (Comet Committee) aims to increase speed towards sustainability goals and ensure responsibility for [[innovation_in_government | innovation]] and technology <a class="yt-timestamp" data-t="00:55:06">[00:55:06]</a>. Its model for [[anticipatory_innovation_and_governance | anticipatory governance]] involves three parts:
+1.  **Understanding:** Continuously understanding new technologies (e.g., algorithms, AI, blockchain) and their policy implications, requiring new structures and knowledge within government agencies <a class="yt-timestamp" data-t="00:57:00">[00:57:00]</a>.
+2.  **Testing:** The government aims for Sweden to be a testing ground for new technologies, work ways, and regulations <a class="yt-timestamp" data-t="00:59:42">[00:59:42]</a>. They use the concept of "regulatory greenhouses" where different actors (agencies, companies, civil servants, civil society) can jointly test new things transparently and under real conditions <a class="yt-timestamp" data-t="01:00:13">[01:00:13]</a>.
+3.  **Changing (Policy and Governance):** Adapting legislation and policy in a more agile, step-wise manner, moving from understanding to setting standards or agreements, and finally to legislation <a class="yt-timestamp" data-t="01:02:28">[01:02:28]</a>. This means developing smaller, easier-to-implement proposals rather than large, complex reports <a class="yt-timestamp" data-t="01:03:01">[01:03:01]</a>.
+
+> [!tip] Key Levers for Change
+> The Comet Committee emphasizes that building this "test culture" requires strong leadership, governance, steering, and courage <a class="yt-timestamp" data-t="01:01:46">[01:01:46]</a>. It's a cultural journey, not a revolution, spanning several decades <a class="yt-timestamp" data-t="01:04:04">[01:04:04]</a>.
+
+## Seamless Services and Digital Transformation in Norway
+Norway is focusing on developing "seamless public services" for major "life events" (e.g., starting a voluntary organization) to make interactions with government easier for users <a class="yt-timestamp" data-t="01:16:33">[01:16:33]</a>. This involves both systemic [[innovation_in_government | innovation]] and [[digital_transformation_in_governance | digital transformation]] <a class="yt-timestamp" data-t="01:16:50">[01:16:50]</a>. The Norwegian Digitalization Agency supports this by providing [[emerging_technologies_in_governance | foresight]] and [[anticipatory_innovation_and_governance | anticipatory innovation]] methodology, tools, and services <a class="yt-timestamp" data-t="01:18:10">[01:18:10]</a>. This is a direct follow-up on a government whitepaper that presents foresight as a methodology and skill for promoting [[innovation_in_government | innovation]] <a class="yt-timestamp" data-t="01:18:21">[01:18:21]</a>.
+
+> [!info] Addressing Silos
+> A key challenge is working across existing government silos (municipalities, county authorities, central agencies) <a class="yt-timestamp" data-t="01:22:10">[01:22:10]</a>. Scenario planning and bringing together representatives from different sectors on a common platform helps to establish shared perspectives, identify strategic blind spots, and agree on common missions <a class="yt-timestamp" data-t="01:22:32">[01:22:32]</a>. The "seamless services" program creates a space for experimentation and new ways of working and cooperating <a class="yt-timestamp" data-t="01:24:26">[01:24:26]</a>.
+
+## Challenges and Future Considerations
+
+### Paradigm Shifts and Trust
+Anticipating and preparing for paradigm shifts, not just incremental changes, is a significant challenge for governments <a class="yt-timestamp" data-t="02:05:32">[02:05:32]</a>. This requires fostering a willingness to move beyond comfort zones and accept risks inherent in transformation <a class="yt-timestamp" data-t="02:16:52">[02:16:52]</a>. Leaders must be humble enough to admit they don't have all the answers and commit to finding solutions collaboratively <a class="yt-timestamp" data-t="02:22:13">[02:22:13]</a>. Engaging the public and experts in civil discourse, rather than hyper-partisan politics, is crucial for fostering broad understanding and support for long-term policy shifts <a class="yt-timestamp" data-t="01:40:24">[01:40:24]</a>.
+
+### Digital Ethics and Privacy
+With the rapid [[innovation_in_government | innovation]] cycles in the private sector and startups, particularly in technology, governments face the challenge of staying ahead to ensure [[emerging_technologies_in_governance | digital ethics]] and public privacy <a class="yt-timestamp" data-t="01:25:12">[01:25:12]</a>. This requires engaging technological startups, private businesses, and the voluntary sector in co-developing solutions and fostering a culture of testing and learning together <a class="yt-timestamp" data-t="01:25:57">[01:25:57]</a>. Advanced Artificial Intelligence, for example, represents a significant "inflection point" that will systematically displace occupations and raise profound questions about property, leisure, work, and the very nature of being human <a class="yt-timestamp" data-t="02:10:10">[02:10:10]</a>.
+
+## Conclusion
+The ongoing efforts in countries like Finland, Ireland, Canada, Sweden, and Norway demonstrate a global recognition of the imperative to integrate [[role_of_technology_in_improving_government_services | technology]] and [[innovation_in_government | innovation]] into governance frameworks. The journey towards robust [[anticipatory_governance_in_technology_policy | anticipatory governance]] systems requires addressing cultural barriers, fostering collaboration across silos, and embracing new methodologies to proactively shape a future that benefits all citizens. This shift is not just about adopting new tools but fundamentally rethinking how governments function in an increasingly complex and uncertain world <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>.

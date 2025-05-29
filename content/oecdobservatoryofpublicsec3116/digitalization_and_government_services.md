@@ -1,0 +1,42 @@
+---
+title: Digitalization and government services
+videoId: pXVXvBXJ4tc
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+The COVID-19 pandemic served as a catalyst for governments worldwide, revealing both vulnerabilities and opportunities in the practice of governance. A significant theme emerging from this crisis is the accelerating importance of [[Digital transformation in government | digitalization of government services]] <a class="yt-timestamp" data-t="00:34:12">[00:34:12]</a>. Discussions among high-level panelists from Georgia, Slovenia, South Africa, and Portugal highlighted how the pandemic accelerated [[digital disruption in public sector | digital transformation]] and reshaped public expectations.
+
+## Pandemic's Revelation: The Centrality of Digitalization
+
+The crisis underscored the critical need for robust digital infrastructure and services within public administration.
+
+### Georgia's Experience
+Georgia's existing priorities, including [[digital_transformation_and_egovernment | digitalization of eServices]] and the development of e-government and e-governance as a whole, proved effective in managing the first phase of the pandemic <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. The importance of [[Role of Digital Tools in Government | digital]] solutions became evident during this period <a class="yt-timestamp" data-t="00:12:25">[00:12:25]</a>. Many changes implemented, such as remote working in both public and private sectors, are expected to be sustainable <a class="yt-timestamp" data-t="00:46:21">[00:46:21]</a>. The crisis has also opened new perspectives for development in various economic sectors, including the IT sector, which can leverage remote work models <a class="yt-timestamp" data-t="00:46:51">[00:46:51]</a> <a class="yt-timestamp" data-t="00:57:39">[00:57:39]</a>.
+
+### Slovenia's Experience
+In Slovenia, a survey conducted in October among 36 state administration bodies revealed that 45% of civil servants reported higher efficiency while teleworking, and 31% maintained the same efficiency as under normal conditions <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>. The Minister of Public Administration noted that the pandemic served as a "stress test" for the entire state administration system, including its processes and the competencies of civil servants and leaders <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a>. The experience highlighted the need for internal debureaucratization to achieve greater agility <a class="yt-timestamp" data-t="00:19:09">[00:19:09]</a>. Future strategies like "[[Digital transformation in government | Digital Slovenia]]" and "[[Digital transformation and egovernment | Digital Public Administration]] 2021-2027" aim to address challenges in ensuring greater agility while maintaining stability <a class="yt-timestamp" data-t="00:20:07">[00:20:07]</a>. The shift to remote work was initially met with opposition but later embraced, suggesting that the way public services are used and offered will not be the same <a class="yt-timestamp" data-t="00:51:04">[00:51:04]</a>.
+
+### South Africa's Experience
+South Africa, despite not being fully prepared for the pandemic, had to move quickly, redefining the workplace and providing tools for remote work <a class="yt-timestamp" data-t="00:24:10">[00:24:10]</a>. The crisis demonstrated the possibility of holding meetings online, a practice previously thought impossible, which Parliament has now adopted in a hybrid format <a class="yt-timestamp" data-t="00:26:26">[00:26:26]</a> <a class="yt-timestamp" data-t="00:37:51">[00:37:51]</a>. This shift is expected to be sustainable, as it allows ministers to attend Parliament and conduct departmental work simultaneously <a class="yt-timestamp" data-t="00:38:14">[00:38:14]</a>. The country is now improving the movement of people and goods with the aim of growing the economy and tourism sector, and reversing the negative impact on the aviation sector <a class="yt-timestamp" data-t="01:05:17">[01:05:17]</a>. Technology is being used for close international interaction despite travel restrictions <a class="yt-timestamp" data-t="01:05:44">[01:05:44]</a>.
+
+### Portugal's Experience
+Portugal's prior investments in [[Innovation and digital transformation in public services | innovation]], simplification, [[digital_transformation_in_government | digitalization]], and civic participation proved crucial, allowing for rapid response and the implementation of measures <a class="yt-timestamp" data-t="00:13:14">[00:13:14]</a>. A massive migration to the digital world provided new digital services, and approximately 70% of public workers were able to work remotely <a class="yt-timestamp" data-t="00:13:39">[00:13:39]</a>. The "Simplex" modernization program, developed over 15 years, created a backbone for [[digital_transformation_in_public_services | digital services]] such as electronic prescriptions, pre-filled tax declarations, and homeschooling, enabling large-scale implementation during the crisis <a class="yt-timestamp" data-t="00:31:49">[00:31:49]</a>. Public administration implemented around 200 simplification projects within weeks <a class="yt-timestamp" data-t="00:32:44">[00:32:44]</a>. The strategy for [[Innovation and digital transformation in public services | innovation]] and modernization of the state and public administration, set at the beginning of the year, has been validated by the pandemic <a class="yt-timestamp" data-t="01:00:40">[01:00:40]</a>.
+
+## Key Learnings and Future Directions
+
+The pandemic has highlighted several critical areas for the future of government services:
+
+*   **Speed and Agility:** Governments had to make decisions quickly, balancing agility with accountability <a class="yt-timestamp" data-t="00:18:09">[00:18:09]</a>. The crisis revealed that civil services, sometimes perceived as slow, can be effective and efficient under pressure <a class="yt-timestamp" data-t="00:20:35">[00:20:35]</a>.
+*   **Collaboration:** Enhanced cooperation among all layers of government (local, ministries, branches of power) was essential for speed and efficiency <a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a>. International cooperation is also crucial for tackling global challenges and providing seamless cross-border services <a class="yt-timestamp" data-t="00:31:01">[00:31:01]</a>.
+*   **Trust and Communication:** Effective communication with citizens helped build trust and ensured compliance with government decisions <a class="yt-timestamp" data-t="00:21:50">[00:21:50]</a> <a class="yt-timestamp" data-t="00:39:28">[00:39:28]</a>. Transparency and honesty, even about difficulties, contributed to public confidence <a class="yt-timestamp" data-t="00:45:26">[00:45:26]</a>.
+*   **Human-Centered Transformation:** [[Digital transformation in public services | Digitalization]] must remain human-centered, involving citizens in decision-making and considering the ethical use of technology <a class="yt-timestamp" data-t="00:41:10">[00:41:10]</a>.
+*   **Investment in People and Technology:** Investing in public workers' skills, developing management capacity, and exploring technology are interconnected axes for building resilient institutions and effective policymaking <a class="yt-timestamp" data-t="01:01:27">[01:01:27]</a>. The focus should be on empowering civil servants, fostering continuous education, and attracting and retaining talent <a class="yt-timestamp" data-t="01:11:47">[01:11:47]</a>.
+
+### Three Key Words of Change
+According to the panelists, the pandemic brought about significant changes characterized by:
+1.  **Consolidation:** Of government and public efforts <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>.
+2.  **Efficiency:** Increased government efficiency <a class="yt-timestamp" data-t="01:14:06">[01:14:06]</a>.
+3.  **Innovation:** In ways of doing things and finding new solutions <a class="yt-timestamp" data-t="01:14:11">[01:14:11]</a>.
+
+Ultimately, the pandemic has set new, higher standards for public administration <a class="yt-timestamp" data-t="01:47:42">[01:47:42]</a>, pushing for a major upgrade of public services and policies, driven by [[digital transformation in governance | digital tools]] and a more proactive, collaborative, and human-centered approach <a class="yt-timestamp" data-t="01:16:49">[01:16:49]</a>.

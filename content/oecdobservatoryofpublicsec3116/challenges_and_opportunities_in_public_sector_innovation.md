@@ -1,76 +1,144 @@
 ---
-title: Challenges and opportunities in public sector innovation
-videoId: R6dIJvNncCE
+title: Challenges and Opportunities in Public Sector Innovation
+videoId: BYdjEpP9wgk
 ---
 
 From: [[oecdobservatoryofpublicsec3116]] <br/> 
 
-The OECD's Observatory of Public Sector Innovation (OPSI) is spearheading a public consultation process for a draft declaration on [[innovation_in_public_sector | public sector innovation]] <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. This declaration aims to foster [[innovation_in_public_sector | innovation action]] by codifying language and fostering a common understanding across governments <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a><a class="yt-timestamp" data-t="00:26:17">[00:26:17]</a>. The initiative draws on the experiences of countries like Canada and France, which have already implemented their own declarations or manifestos to drive public service transformation.
+This article provides an overview of two recent OECD reports focusing on [[public_sector_innovation | public sector innovation]] in Brazil, drawing from a webinar featuring Alex Roberts and Daniel Gerson from the Observatory of Public Sector Innovation (OPSI), and Guilhermer from ENAP (Brazil's National School for Public Administration). The discussion highlights the context, challenges, and opportunities for fostering a more deliberate and systemic approach to innovation within the Brazilian public service <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
 
-## Canada's Declaration on Public Sector Innovation
+## Context of the Reports
+The reports stem from a Memorandum of Understanding between ENAP and the OECD signed in 2015, specifically centered on [[public_sector_innovation | public sector innovation]] <a class="yt-timestamp" data-t="01:18:24">[01:18:24]</a>. Following a successful review of digital government in 2016, two new reviews were initiated: one focusing on innovation skills and leadership, and another on the innovation system within the Brazilian public sector <a class="yt-timestamp" data-t="02:06:06">[02:06:06]</a>. These reports, consolidated through several missions and consultations, were launched at the fifth edition of Brazil's [[public_sector_innovation | public sector innovation]] week <a class="yt-timestamp" data-t="04:59:02">[04:59:02]</a>. An external vision was crucial in ensuring continuity for these agendas across governmental transitions <a class="yt-timestamp" data-t="06:06:18">[06:06:18]</a>.
 
-Canada's Declaration on [[public_sector_innovation | public sector innovation]] has been in place for several years <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. Its genesis began in 2015 when the heads of Canada's public services (federal, provincial, and territorial) started discussions on public service renewal <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a><a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. The goal was to ensure the public service kept pace with external changes and remained relevant to citizens <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+## Why Public Sector Innovation is Needed
+[[public_sector_innovation | Innovation]] is essential for Brazil to achieve its ambitions and address real problems <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>. It must be at the core of government, not merely a sporadic or reactive activity <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. Current challenges are so complex that routine, ongoing innovation is required <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>. Specific drivers for innovation in Brazil include:
+*   Addressing inequality <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>
+*   Managing the government's financial position <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>
+*   Combating corruption <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>
+*   Dealing with changing demographics <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>
 
-Common [[public_sector_innovation_challenges | challenges]] identified across government levels included:
-*   Effective use of data <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>
-*   Impactful use of digital technologies <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>
-*   Engaging citizens for co-creation and co-design of solutions <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>
+While innovation isn't a "magic bullet," it is a necessary component for tackling these issues <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>.
 
-After annual gatherings dedicated to [[public_sector_innovation | public sector innovation]], a non-binding declaration was drafted and signed in November 2017 <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a><a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a><a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. This was a historic moment, as it was the first time all heads of public services in Canada signed onto a document together <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
+## Historical Journey of Innovation in Brazil
+Over the last three decades, Brazil has focused on areas conducive to innovation:
+*   **De-bureaucratization**: Emphasis on making the public service more efficient and streamlining processes <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>.
+*   **New Public Management (1990s)**: Reform ideas aimed at streamlining processes and enhancing government effectiveness <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>.
+*   **Modernization**: A period following New Public Management focusing on government modernization <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>.
+*   **Digital Transformation**: Significant attention over the last decade on digital transformation and specific innovation needs <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
 
-The declaration serves as a "signpost" to:
-*   Signal that public service leaders care about new approaches, risk-taking, and testing ideas, even if they don't always work <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>.
-*   Empower agencies and decision-makers to pursue [[innovation_in_public_sector | innovation]] for better policy and program delivery <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a><a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
-*   Facilitate more meaningful engagement and co-creation of new ideas with provincial and territorial colleagues, embodying a "safer in numbers" approach to de-risk [[innovation_in_public_sector | innovation]] <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a><a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>.
+This history reveals recurring patterns in the Brazilian public service, such as a legalistic system, strong emphasis on controls and corruption, and a focus on citizens <a class="yt-timestamp" data-t="00:12:29">[00:12:29]</a>. While innovation has gained momentum, it has not yet been fully integrated into the public service narrative <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>. Mandates or presidential decrees alone are insufficient; continuous embedding of innovation practices is required <a class="yt-timestamp" data-t="00:13:20">[00:13:20]</a>.
 
-## France's Manifesto for Public Sector Innovation
+## [[Challenges and opportunities in government innovation | Challenges in Public Sector Innovation]]
+Several inherent characteristics of the public sector, not unique to Brazil, contribute to a shortfall in innovation:
+*   **Risk Aversion**: The public sector is fundamentally designed to avoid negative feedback and mistakes, unlike the private sector which can tolerate failures for potential profit <a class="yt-timestamp" data-t="00:15:14">[00:15:14]</a>. Political processes tend to focus on what goes wrong <a class="yt-timestamp" data-t="00:15:41">[00:15:41]</a>.
+*   **Complexity**: Innovation itself is challenging, requiring continuous learning and adaptation <a class="yt-timestamp" data-t="00:16:20">[00:16:20]</a>.
+*   **Lack of Systemic Approach**: Much of the innovation observed in Brazil is driven by individual efforts or organizational perspectives, rather than a coordinated systemic approach <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>, <a class="yt-timestamp" data-t="02:39:36">[02:39:36]</a>. This reliance on individuals makes innovation vulnerable to staff turnover or burnout <a class="yt-timestamp" data-t="01:50:54">[01:50:54]</a>.
+*   **Structural Bias**: The existing structure often pushes innovation towards incremental and uncontroversial changes, despite a need for more radical exploration <a class="yt-timestamp" data-t="02:40:01">[02:40:01]</a>.
+*   **Implicit Stewardship**: Stewardship of the innovation system is often implicit rather than officially recognized or deliberately managed <a class="yt-timestamp" data-t="02:46:01">[02:46:01]</a>.
 
-France released its manifesto for [[public_sector_innovation | public sector innovation]] in March 2017 <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a><a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>. The motivation stemmed from a growing interest in [[innovation_in_public_sector | innovation]] within the French administration, notably the creation of new public labs in many regions <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a><a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. There was an expectation to define [[innovation_in_public_sector | public sector innovation]] within the French context and provide guidelines for new public servants who were unfamiliar with concepts like labs, design thinking, or experimentation <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a><a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>.
+> [!CAUTION] The reform agenda is ongoing, and there is no simple "magic bullet" or quick fix for embedding innovation. It's a continuous journey of change <a class="yt-timestamp" data-t="01:42:58">[01:42:58]</a>.
 
-The manifesto aimed to:
-*   Prevent [[innovation_in_public_sector | innovation]] from being merely a "fashion" and establish it as a serious approach to public policymaking that yields tangible results <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a><a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>.
-*   Provide a common reference text and official national guidelines to promote and define [[public_sector_innovation | public sector innovation]] <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a><a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>.
-*   Offer legitimacy and a basis for public sector innovators, helping them convince colleagues that their work was serious and impactful <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a><a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a>.
-*   Serve as a main tool for developing the community of public innovators, fostering a shared vision and mindset to change the culture of French public administration <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a><a class="yt-timestamp" data-t="00:13:33">[00:13:33]</a><a class="yt-timestamp" data-t="00:13:58">[00:13:58]</a>.
+## Achieving Deliberate and Systemic Innovation
+A deliberate and systemic approach to [[public_sector_innovation | public sector innovation]] requires addressing three key questions <a class="yt-timestamp" data-t="01:36:34">[01:36:34]</a>:
+1.  Is innovation occurring to the extent needed? <a class="yt-timestamp" data-t="01:39:27">[01:39:27]</a>
+2.  Is the innovation mix appropriate (e.g., the right types of innovation)? <a class="yt-timestamp" data-t="01:41:40">[01:41:40]</a>
+3.  Is there sufficient stewardship to ensure the innovation system delivers as hoped? <a class="yt-timestamp" data-t="01:43:24">[01:43:24]</a>
 
-## Challenges and Reactions to Declarations
+### Models for Understanding Innovation
+To illustrate these concepts, OPSI employs two models:
 
-Both Canada and France experienced similar [[public_sector_innovation_challenges | challenges]] and reactions to their respective documents:
-*   **Initial Skepticism/Difficulty in Endorsement**: In France, there were initial difficulties getting the manifesto endorsed by leadership, with concerns that it might be "too early" or the administration "not mature enough" <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a><a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>.
-*   **Hostility or Lack of Seriousness**: A persistent [[public_sector_innovation_challenges | challenge]] is the hostility or lack of serious consideration from many in top administration who don't understand [[innovation_in_public_sector | innovation]] or resist different ways of working <a class="yt-timestamp" data-t="00:16:58">[00:16:58]</a>.
-*   **Limited Transformative Impact**: While helpful, the documents alone are not sufficient to fully transform governments <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>. They serve as a step forward, helping to drive political support and grow communities, but a full impact is still in progress <a class="yt-timestamp" data-t="00:17:47">[00:17:47]</a><a class="yt-timestamp" data-t="00:19:39">[00:19:39]</a>.
-*   **Perception of Innovation**: The concept of [[innovation_in_public_sector | innovation]] and experimentation within government is still in its infancy or adolescent phase <a class="yt-timestamp" data-t="00:20:01">[00:20:01]</a>. The declaration acts as a guidepost, acknowledging [[innovation_in_public_sector | innovation]] in a positive or neutral way, but deeper systemic shifts are still needed <a class="yt-timestamp" data-t="00:20:17">[00:20:17]</a><a class="yt-timestamp" data-t="00:20:29">[00:20:29]</a>.
+#### The Determinants Model
+This model examines the underlying factors that determine the extent of innovation <a class="yt-timestamp" data-t="01:41:40">[01:41:40]</a>. It views innovation through three lenses of activity <a class="yt-timestamp" data-t="01:47:33">[01:47:33]</a>:
+*   **Individual-driven innovation**: Often seen in Brazil, but unsustainable as it relies on luck or individual effort <a class="yt-timestamp" data-t="01:49:09">[01:49:09]</a>.
+*   **Organization-driven innovation**: Focuses on solving problems specific to a single organization <a class="yt-timestamp" data-t="01:51:24">[01:51:24]</a>.
+*   **Systemic activity**: Integrates collective interests into the innovation process, which is the desired level <a class="yt-timestamp" data-t="01:53:32">[01:53:32]</a>.
 
-## The OECD's Perspective on an International Declaration
+Moving innovation up from individual to organizational and systemic levels is crucial for sustainability and addressing societal questions <a class="yt-timestamp" data-t="01:59:16">[01:59:16]</a>.
 
-The OECD's draft declaration aims to unify efforts and signify the importance of [[innovation_in_public_sector | innovation]] as an embedded part of how governments operate, not just an addition <a class="yt-timestamp" data-t="00:22:33">[00:22:33]</a><a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>. Key ideas underpinning the declaration include:
-*   **Context-dependent Nature of Innovation**: [[innovation_in_public_sector | Innovation]] is inherently contextual, pushing activities towards segmented patterns, hence the need for a unifying declaration <a class="yt-timestamp" data-t="00:22:06">[00:22:06]</a>.
-*   **Addressing Modern Challenges**: [[innovation_in_public_sector | Innovation]] is crucial for governments to address modern [[public_sector_innovation_challenges | challenges]], though it's not always the most appropriate choice <a class="yt-timestamp" data-t="00:23:33">[00:23:33]</a><a class="yt-timestamp" data-t="00:23:44">[00:23:44]</a>.
-*   **Embedding Innovation Systemically**: While [[innovation_in_public_sector | innovation]] has always occurred, its current rate doesn't match the need <a class="yt-timestamp" data-t="00:23:58">[00:23:58]</a>. The declaration seeks to embed [[innovation_in_public_sector | innovation]] as a more systemic activity across government <a class="yt-timestamp" data-t="00:24:10">[00:24:10]</a>.
-*   **Sophisticated Conversation about Innovation**: The term "innovation" is broad <a class="yt-timestamp" data-t="00:24:22">[00:24:22]</a>. The declaration aims to build a more accessible language by unpacking its multifaceted nature <a class="yt-timestamp" data-t="00:24:37">[00:24:37]</a>.
+#### The [[Facets of Public Sector Innovation | Innovation Facets Model]]
+This model describes different types of innovation activities, helping to assess the mix of innovation occurring <a class="yt-timestamp" data-t="02:07:37">[02:07:37]</a>:
+*   **Enhancement-oriented innovation**: Building on existing approaches, doubling down on what's already present <a class="yt-timestamp" data-t="02:11:15">[02:11:15]</a>.
+*   **Mission-oriented innovation**: Dealing with big, audacious goals, like putting a man on the moon <a class="yt-timestamp" data-t="02:14:14">[02:14:14]</a>.
+*   **Adaptive innovation**: Driven by bottom-up changes on the ground, responding to shifts <a class="yt-timestamp" data-t="02:17:15">[02:17:15]</a>.
+*   **Anticipatory innovation**: Asking big questions about current practices and future relevance <a class="yt-timestamp" data-t="02:20:41">[02:20:41]</a>.
 
-The OECD introduces the concept of "innovation facets," which are incorporated into the declaration:
-*   **Enhancement-oriented innovation**: Improving existing processes <a class="yt-timestamp" data-t="00:25:10">[00:25:10]</a>.
-*   **Mission-oriented innovation**: Achieving ambitious goals <a class="yt-timestamp" data-t="00:25:16">[00:25:16]</a>.
-*   **Adaptive innovation**: Responding to a changing world <a class="yt-timestamp" data-t="00:25:22">[00:25:22]</a>.
-*   **Anticipatory innovation**: Engaging with weak signals early to shape change rather than just react <a class="yt-timestamp" data-t="00:25:27">[00:25:27]</a>.
+The mix of these facets determines how innovation is shaped. In Brazil's risk-conscious environment, innovation often leans towards enhancement-oriented changes <a class="yt-timestamp" data-t="02:26:01">[02:26:01]</a>. The question then becomes whether this mix is a deliberate choice or an unintended outcome <a class="yt-timestamp" data-t="02:30:17">[02:30:17]</a>.
 
-Effective governments must maintain a portfolio across these facets, hedging bets to be ready for unpredictable [[public_sector_innovation_challenges | challenges]] <a class="yt-timestamp" data-t="00:25:40">[00:25:40]</a><a class="yt-timestamp" data-t="00:25:56">[00:25:56]</a>. The declaration aims to tell a richer story about why [[innovation_in_public_sector | innovation]] matters, why governments support it, and how all public servants can play a role <a class="yt-timestamp" data-t="00:26:22">[00:26:22]</a><a class="yt-timestamp" data-t="00:26:32">[00:26:32]</a>. It emphasizes the need to:
-*   Embrace and enhance existing [[innovation_in_public_sector | innovation]] <a class="yt-timestamp" data-t="00:27:04">[00:27:04]</a>.
-*   Equip all public servants for their role in [[innovation_in_public_sector | innovation]] <a class="yt-timestamp" data-t="00:27:12">[00:27:12]</a>.
-*   Foster new partnerships and diverse perspectives <a class="yt-timestamp" data-t="00:27:17">[00:27:17]</a>.
-*   Recognize [[innovation_in_public_sector | innovation]] as a continually evolving practice requiring shared learning <a class="yt-timestamp" data-t="00:27:22">[00:27:22]</a>.
+### System Stewardship
+[[Public Sector Innovation | Innovation]] is inherently contextual and can pull a system in different directions, especially in a large and complex system like Brazil with thousands of local government situations <a class="yt-timestamp" data-t="02:31:01">[02:31:01]</a>. This can create tension with the need for overall coherence and interoperability <a class="yt-timestamp" data-t="02:33:04">[02:33:04]</a>. Therefore, some form of collective consideration or "stewardship" of the whole system is suggested <a class="yt-timestamp" data-t="02:37:05">[02:37:05]</a>.
 
-## Public Consultation and Next Steps
+## Role of Leadership and Skills in Innovation
+A separate report delves into the leadership and skills required for innovation, especially among senior civil servants (DAS five and six positions, or FCPE equivalents) <a class="yt-timestamp" data-t="03:44:03">[03:44:03]</a>.
 
-The OECD's public consultation process for the draft declaration opened in November and concludes on February 22nd <a class="yt-timestamp" data-t="00:28:23">[00:28:23]</a><a class="yt-timestamp" data-t="00:28:34">[00:28:34]</a>. Feedback is welcomed from individuals, organizations, groups, or countries <a class="yt-timestamp" data-t="00:28:42">[00:28:42]</a>. Useful contributions include:
-*   Identifying what makes sense or doesn't, and suggesting alternative wording <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>.
-*   Suggesting language changes to avoid jargon (e.g., "weak signals") or address cultural differences in terminology (e.g., "civil servant" vs. "public servant") <a class="yt-timestamp" data-t="00:29:46">[00:29:46]</a><a class="yt-timestamp" data-t="00:30:32">[00:30:32]</a>.
-*   Highlighting the usefulness or impossibility of proposed actions in specific contexts, and their potential implications <a class="yt-timestamp" data-t="00:31:52">[00:31:52]</a><a class="yt-timestamp" data-t="00:32:20">[00:32:20]</a>. For example, clarification that "failure" in [[innovation_in_public_sector | innovation]] refers to experimentation as a discrete activity for auditing purposes <a class="yt-timestamp" data-t="00:32:50">[00:32:50]</a>.
+### Why Focus on Senior Civil Servants?
+*   **Productivity and Efficiency**: Brazil's civil service is expensive (13% of GDP vs. OECD average of 10%; almost 30% of public expenditure vs. OECD average of 20%) <a class="yt-timestamp" data-t="03:47:04">[03:47:04]</a>. Effective leadership can ensure this investment is managed well, maximizing the talent of public servants to meet pressing needs like innovation <a class="yt-timestamp" data-t="03:59:16">[03:59:16]</a>.
+*   **Public Trust and Integrity**: A highly qualified, professional senior civil service is linked to greater integrity and trust in government <a class="yt-timestamp" data-t="04:11:15">[04:11:15]</a>.
+*   **Innovation Support**: Leadership support is consistently identified as one of the most crucial enablers for innovation, and its absence is a major barrier <a class="yt-timestamp" data-t="04:19:52">[04:19:52]</a>.
 
-The declaration is intended to be an official, non-legally binding OECD instrument <a class="yt-timestamp" data-t="00:36:29">[00:36:29]</a><a class="yt-timestamp" data-t="00:36:37">[00:36:37]</a>. Its purpose is to signal the importance of [[innovation_in_public_sector | innovation]] in government, inspire [[innovation_in_public_sector | innovation]] strategies, and encourage deeper reflection on existing systems <a class="yt-timestamp" data-t="00:37:05">[00:37:05]</a><a class="yt-timestamp" data-t="00:37:52">[00:37:52]</a>.
+### Core Skills for Public Sector Innovation
+While there's no simple formula, OPSI identified six core skill areas for successful public sector organizations to engage in and produce innovation <a class="yt-timestamp" data-t="04:42:25">[04:42:25]</a>. Leaders need to ensure their workforce possesses and can activate these skills <a class="yt-timestamp" data-t="04:54:39">[04:54:39]</a>.
 
-### Citizen Participation and Leadership
-[[Citizen participation]] is considered a crucial part of an effective [[public_sector_innovation | public sector innovation]] process, as [[innovation_in_public_sector | innovation]] relies on understanding diverse perspectives <a class="yt-timestamp" data-t="00:38:41">[00:38:41]</a><a class="yt-timestamp" data-t="00:38:50">[00:38:50]</a>. The OECD also actively researches the leadership mindsets and skills required to develop [[innovation_in_public_sector | innovation]] capabilities and the specific skills needed at different stages of the [[innovation_in_public_sector | innovation]] process <a class="yt-timestamp" data-t="00:40:47">[00:40:47]</a><a class="yt-timestamp" data-t="00:41:14">[00:41:14]</a>. Recognizing that no single person possesses all necessary skills, an ecosystem of diverse players is required for successful [[innovation_in_public_sector | innovation]] <a class="yt-timestamp" data-t="00:41:45">[00:41:45]</a>.
+A survey of nearly 3,000 Brazilian civil servants revealed:
+*   **Self-assessment**: Mid-level confidence in their own skills, with strong curiosity but less confidence in iteration or user-centricity (e.g., prototyping, behavioral insights) <a class="yt-timestamp" data-t="04:59:16">[04:59:16]</a>.
+*   **Management support**: Significantly lower perceptions of management's ability to support their skills <a class="yt-timestamp" data-t="05:08:44">[05:08:44]</a>.
+*   **Organizational readiness**: Perceptions fell between self-assessment and management support <a class="yt-timestamp" data-t="05:11:39">[05:11:39]</a>.
 
-The OECD encourages engagement from all levels of government, including local governments, as [[innovation_in_public_sector | innovation]] must be considered from an ecosystem perspective <a class="yt-timestamp" data-t="00:34:39">[00:34:39]</a><a class="yt-timestamp" data-t="00:35:02">[00:35:02]</a>. Local bodies can affirm commitment to the declaration as an important signal to their stakeholders <a class="yt-timestamp" data-t="00:35:41">[00:35:41]</a>.
+### Leadership Model for Innovation
+Based on workshops with Brazilian public sector innovators, a leadership model emerged, founded on public service values and ethics, comprising three main skill groups <a class="yt-timestamp" data-t="05:52:43">[05:52:43]</a>:
+1.  **Business skills**: Aligning resources with needs, using various management tools <a class="yt-timestamp" data-t="06:09:47">[06:09:47]</a>.
+2.  **Innovation skills**: Leaders need to understand how to support iterative processes, data, and create space for those using these tools <a class="yt-timestamp" data-t="06:17:09">[06:17:09]</a>.
+3.  **Mindsets**: This includes empathy, empowering civil servants, continuous learning, courage, and digital thinking <a class="yt-timestamp" data-t="06:21:40">[06:21:40]</a>.
+
+### Senior Civil Service System: Supply and Demand
+Most OECD countries have a structured system for senior civil service <a class="yt-timestamp" data-t="06:54:49">[06:54:49]</a>. The report frames this in terms of supply and demand:
+
+*   **Supply Side (Building Leaders)**:
+    *   Clearly define required skills <a class="yt-timestamp" data-t="07:46:17">[07:46:17]</a>.
+    *   Provide opportunities to develop these skills, both for current and future leaders <a class="yt-timestamp" data-t="07:51:17">[07:51:17]</a>.
+    *   Map the workforce to identify existing skills <a class="yt-timestamp" data-t="07:58:24">[07:58:24]</a>.
+    *   Create a learning culture for innovation <a class="yt-timestamp" data-t="08:04:36">[08:04:36]</a>.
+*   **Demand Side (Calling for Leaders)**:
+    *   Appoint leaders based on clear, transparent criteria, especially innovation-related ones <a class="yt-timestamp" data-t="08:40:02">[08:40:02]</a>.
+    *   Provide ongoing support through training, performance, and accountability mechanisms <a class="yt-timestamp" data-t="08:52:03">[08:52:03]</a>.
+
+In Brazil, while there is significant effort on the supply side (e.g., various innovation training initiatives), the demand side faces greater [[challenges_and_opportunities_in_government_innovation | challenges]] due to the political system <a class="yt-timestamp" data-t="09:56:06">[09:56:06]</a>. Appointment processes are often at the will of the president and ministers <a class="yt-timestamp" data-t="10:04:06">[10:04:06]</a>.
+
+> [!TIP] A presidential decree has established minimum criteria for DAS and FCPE positions, a good starting point, but much more is needed to develop a genuine senior civil service system <a class="yt-timestamp" data-t="10:18:24">[10:18:24]</a>.
+
+## Key Achievements and Areas of Opportunity
+Brazil has made notable achievements in [[public_sector_innovation | public sector innovation]]:
+*   **Innovation Awards**: Provide rich insights, underscore the value of public service, and inspire others <a class="yt-timestamp" data-t="02:15:37">[02:15:37]</a>.
+*   **InovaGov Network & Innovation Week**: Great mechanisms for socializing innovation, connecting people, and building momentum <a class="yt-timestamp" data-t="02:27:08">[02:27:08]</a>.
+*   **Collaboration**: Strong collaboration between major actors, including joint sponsorship of the report <a class="yt-timestamp" data-t="02:30:08">[02:30:08]</a>.
+*   **Innovation Labs**: Encouraging growth of labs in different agencies, testing new approaches and fostering sophistication <a class="yt-timestamp" data-t="02:33:05">[02:33:05]</a>.
+*   **Digital Transformation Agenda**: Highlighted the value of change and serves as a model for broader system-level transformation <a class="yt-timestamp" data-t="02:39:13">[02:39:13]</a>.
+
+The reports provide "useful prompts" and "starting points" for advancing the system to be more mature, systemic, and reliable <a class="yt-timestamp" data-t="02:49:13">[02:49:13]</a>. Key areas of opportunity are categorized by audience:
+
+*   **For the Whole System**:
+    *   Establish an explicit agenda for [[public_sector_innovation | public sector innovation]], clarifying what is wanted and how it will be supported <a class="yt-timestamp" data-t="03:04:08">[03:04:08]</a>.
+    *   Give more attention to structural drivers to offset inherent inertia and bias against innovation <a class="yt-timestamp" data-t="03:10:08">[03:10:08]</a>.
+    *   Assign explicit responsibility for stewardship of the [[public_sector_innovation | public sector innovation]] system <a class="yt-timestamp" data-t="03:18:03">[03:18:03]</a>.
+*   **For Central Actors**:
+    *   Major agencies (e.g., ENAP, Ministry of Economy, TCU) should have explicit roles in system functioning <a class="yt-timestamp" data-t="03:25:21">[03:25:21]</a>.
+    *   Ministry of Economy should clarify links between [[public_sector_innovation | public sector innovation]] and digital transformation <a class="yt-timestamp" data-t="03:32:01">[03:32:01]</a>.
+    *   Control bodies (e.g., TCU) should identify how audit and risk management can support innovation <a class="yt-timestamp" data-t="03:38:09">[03:38:09]</a>.
+    *   ENAP, on behalf of the InovaGov Network, could partner to develop an annual high-level commentary on the performance of the [[public_sector_innovation | public sector innovation]] system <a class="yt-timestamp" data-t="03:46:04">[03:46:04]</a>.
+*   **For Individual Agencies**:
+    *   Identify where innovation is needed in their operations and publicize those priorities <a class="yt-timestamp" data-t="03:54:02">[03:54:02]</a>.
+
+## Role of External Actors
+### Public Universities
+Public universities play a crucial role in the [[public_sector_innovation | innovation system]] <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>.
+*   **Insight and Rigor**: They can provide insight into identifying problems, generate new ideas (technology, policies, practices), and add rigor to implementation assessments <a class="yt-timestamp" data-t="11:11:13">[11:11:13]</a>.
+*   **Talent Pipeline**: Universities train the next generation of civil servants and leaders <a class="yt-timestamp" data-t="11:41:00">[11:41:00]</a>. Stronger linkages between government and universities are needed to attract talent, teach relevant skills, and present the public sector as a valuable career path <a class="yt-timestamp" data-t="11:48:00">[11:48:00]</a>.
+*   **Knowledge Creation**: Universities contribute to knowledge creation and can foster stronger connections between government, universities, and the private sector to develop innovation <a class="yt-timestamp" data-t="11:51:19">[11:51:19]</a>.
+*   **Policy Piloting**: Universities can be brought in to pilot public policies, enabling faster testing and appraisal of new approaches <a class="yt-timestamp" data-t="17:18:24">[17:18:24]</a>.
+
+### Open Innovation
+Open innovation can be a valuable tool, recognizing that solutions may come from outside government <a class="yt-timestamp" data-t="18:37:00">[18:37:00]</a>. It is particularly effective when broad aims are known and external solutions can be integrated <a class="yt-timestamp" data-t="18:40:08">[18:40:08]</a>. However, its value may be less in exploratory or adaptive innovation spaces where questions are less clear <a class="yt-timestamp" data-t="19:19:00">[19:19:00]</a>.
+
+Brazil is experimenting with open innovation through initiatives like a public challenge platform where organizations can suggest challenges and offer awards for solutions and prototypes, even providing additional funding for better implementations <a class="yt-timestamp" data-t="20:08:00">[20:08:00]</a>.
+
+## Conclusion
+The reports provide a clear vision of the context, [[Challenges and opportunities of public sector innovation in a crisis | challenges]], and path forward for [[public_sector_innovation | public sector innovation]] in Brazil <a class="yt-timestamp" data-t="07:48:00">[07:48:00]</a>. Key challenges ahead include translating and disseminating the reports, keeping the conversation going, and creating networks to engage more people <a class="yt-timestamp" data-t="09:16:00">[09:16:00]</a>. The ultimate goal is to promote the skills needed for a more effective Brazilian civil service system and its civil servants <a class="yt-timestamp" data-t="10:22:00">[10:22:00]</a>. The journey of [[public_sector_innovation | innovation]] is continuous, requiring ongoing learning, experimentation, and adaptation <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>.

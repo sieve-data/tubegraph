@@ -5,87 +5,66 @@ videoId: nGjuo-7sUXM
 
 From: [[oecdobservatoryofpublicsec3116]] <br/> 
 
-In a continuously changing world, governments are increasingly looking beyond their borders to develop solutions to complex global challenges, ranging from ending pandemics to managing migration and reducing carbon dependency <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. While many examples exist, it is not yet clear how [[government collaboration across borders | cross-border collaboration]] can be best achieved <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. The key question is how governments can improve at [[collaboration and innovation in public sector | innovating together]] for the public good <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+[[crossborder_government_innovation | Cross-border government innovation]] is a critical area in a continuously changing world, where complex issues necessitate governments looking beyond their national borders for solutions to global challenges <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. While there are many existing [[examples_and_case_studies_of_innovation_across_borders | examples]] of this, from ending pandemics to managing migration and reducing carbon dependency, the best way to achieve cross-border collaboration is not yet clear <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. A key question is how governments can improve their ability to [[innovation_in_government | innovate]] together for the public good <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
 
-## The Need for Crossborder Innovation
+## Drivers and Challenges
 
-The COVID-19 crisis accelerated digital transformation and the pace of [[Public sector innovation | innovation]] <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. It also exposed pre-existing vulnerabilities at the national level, highlighting a lack of preparedness among governments to tackle global challenges like climate change, pandemics, and disruptions in global value chains <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. Public sector innovation has become a key tool to collectively address today's most pressing challenges <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. However, government innovation efforts are largely confined to national and local borders <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+The COVID-19 crisis highlighted a lack of preparedness among governments to tackle global challenges, accelerating digital transformation and the pace of [[innovation_in_government | innovation]] while exposing pre-existing vulnerabilities <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Issues like climate change, pandemics, and disruptions in global value chains necessitate global approaches <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. Although [[public_sector_innovation | public sector innovation]] has become a crucial tool for addressing these challenges, government [[innovation_in_government | innovation]] efforts often remain confined to national and local borders <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
 
-## Research and Collaboration Efforts
+A poll asking about the most important challenge or barrier to [[crossborder_government_innovation | cross-border government innovation]] revealed "undeveloped ecosystems" as the highest challenge <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. Other challenges include cultural norms, lack of feedback mechanisms and learning loops, and difficulties in scaling experiments <a class="yt-timestamp" data-t="00:27:30">[00:27:30]</a>.
 
-The OECD Observatory of [[innovation in the public sector | Public Sector Innovation]] (OPSI) and the UAE Mohammed Bin Rashid Centre for Government Innovation have partnered to determine how innovative practices can best support [[crossborder_collaboration_in_public_sector_innovation | cross-border collaboration]] <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. Their joint work includes extensive research, a global call for innovation to collect insights, and open global workshops <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+Key success factors for [[crossborder_government_innovation | cross-border government innovation]] often mirror these challenges, including:
+*   A culture of openness and [[innovation_in_government | innovation]] <a class="yt-timestamp" data-t="00:28:01">[00:28:01]</a>.
+*   Agility and adaptability <a class="yt-timestamp" data-t="00:28:06">[00:28:06]</a>.
+*   Understanding and engaging ecosystem players <a class="yt-timestamp" data-t="00:28:08">[00:28:08]</a>.
+*   Clearly defining roles and responsibilities <a class="yt-timestamp" data-t="00:28:11">[00:28:11]</a>.
+*   Honing the role of cross-border facilitators or orchestrators <a class="yt-timestamp" data-t="00:28:16">[00:28:16]</a>.
 
-The first report in their series, "Achieving Cross-Border Government Innovation," highlighted that issues facing governments are increasingly complex and transnational, requiring existing international cooperation mechanisms to adapt <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. Governments are leveraging new governance structures, including innovative governance bodies, horizontal networks, and coordinated systems approaches, to tackle cross-border issues <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>.
+## Collaborative Initiatives and Research
 
-The second report, "Surfacing Insights and Experimenting Across Borders," focuses on experimentation as a key mode of innovation in government <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. This report details how governments are applying similar approaches in [[crossborder_collaboration_in_public_services | cross-border]] and global contexts <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>.
+The OECD Observatory of [[public_sector_innovation | Public Sector Innovation]] (OPSI) and the UAE Mohammed Bin Rashid Center for Government [[innovation_in_government | Innovation]] have partnered to study how governments can best support [[crossborder_government_collaboration_and_innovation | cross-border collaboration]] <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. Their research includes a global call for [[innovation_in_government | innovation]] and global workshops on cross-border innovation <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
 
-## Key Challenges and Success Factors
+A report titled "Achieving [[crossborder_government_innovation | Cross-Border Government Innovation]]" highlighted that complex and trans-boundary issues require existing [[governance_structures_for_crossborder_cooperation | governance mechanisms for international cooperation]] to adjust <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. Governments are leveraging new [[governance_structures_for_crossborder_cooperation | governance structures]], such as innovative governance bodies, horizontal networks, and coordinated systems approaches, to tackle cross-border issues <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
 
-A survey posed the question: "What is the most important challenge or barrier to [[Crossborder government innovation | cross-border government innovation]]?" The top answer was "undeveloped ecosystems" <a class="yt-timestamp" data-t="00:31:54">[00:31:54]</a>.
+The second report, "Surfacing Insights and Experimenting Across Borders," focuses on ground-up approaches <a class="yt-timestamp" data-t="00:24:36">[00:24:36]</a>. It covers:
+*   **Ground-up surfacing of insights and collective intelligence:** Applying existing approaches in new cross-border and global ways, such as challenge initiatives, crowdsourcing, and democratic citizens' assemblies <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>.
+*   **Experimenting and testing across borders:** Developing new ideas and scaling them in a cross-border manner <a class="yt-timestamp" data-t="00:26:40">[00:26:40]</a>.
 
-### Challenges:
-*   **Cultural norms** <a class="yt-timestamp" data-t="00:27:30">[00:27:30]</a>
-*   **Lack of feedback mechanisms and learning loops** <a class="yt-timestamp" data-t="00:27:33">[00:27:33]</a>
-*   **Undeveloped ecosystems** <a class="yt-timestamp" data-t="00:27:40">[00:27:40]</a>
-*   **Scalability of experiments** (especially in the design process) <a class="yt-timestamp" data-t="00:27:44">[00:27:44]</a>
-*   **Understanding the cost and benefits** of different partners <a class="yt-timestamp" data-t="00:27:36">[00:27:36]</a>
+### Examples of Cross-Border Innovation Initiatives
 
-### Success Factors:
-*   **Culture of openness and innovation** <a class="yt-timestamp" data-t="00:28:01">[00:28:01]</a>
-*   **Agility and adaptability** <a class="yt-timestamp" data-t="00:28:06">[00:28:06]</a>
-*   **Understanding and engaging diverse stakeholders** <a class="yt-timestamp" data-t="00:28:08">[00:28:08]</a>
-*   **Clearly defining roles and responsibilities** <a class="yt-timestamp" data-t="00:28:10">[00:28:10]</a>
-*   **Honing the role of cross-border facilitators or orchestrators** <a class="yt-timestamp" data-t="00:28:16">[00:28:16]</a>
+*   **Deep Space Food Challenge:** An [[international_collaboration_in_government_innovation | international collaboration]] between the Canadian Space Agency and NASA. It incentivizes [[innovation_in_government | innovation]] in food production technologies to meet space exploration needs and address terrestrial food insecurity <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>.
+*   **Global Innovation Collaborative:** A network and platform for [[public_sector_innovation_and_crosssector_collaboration | collaboration]] among city governments worldwide. Cities launch open innovation competitions and invite innovators to deploy solutions in local testbeds, leading to more resilient and sustainable cities <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
+*   **UAE Government Accelerators:** A methodology designed to accelerate execution from ideation and [[innovation_in_government | innovation]] to implementation <a class="yt-timestamp" data-t="01:12:03">[01:12:03]</a>. Projects aim for implementation within 100 days or less, focusing on piloting innovative solutions and ensuring their sustainability and scalability <a class="yt-timestamp" data-t="01:12:17">[01:12:17]</a>. This approach involves empowering frontline employees and fostering collaborative work among different entities <a class="yt-timestamp" data-t="01:12:30">[01:12:30]</a>.
+*   **UAE Moonshot Apprenticeship Program:** Launched in June 2021, this program unites young minds, talents, and governments to tackle pressing challenges <a class="yt-timestamp" data-t="01:18:35">[01:18:35]</a>. It pairs UAE nationals with international counterparts to develop "moonshot projects" in priority sectors like the data economy, global talent, and global outreach <a class="yt-timestamp" data-t="01:18:52">[01:18:52]</a>.
+*   **UAE Moonshot Pilot Grant:** An outcome of the apprenticeship program, this fund invites the international community to test groundbreaking ideas in partnership with the UAE, with grants up to $100,000 per project <a class="yt-timestamp" data-t="01:19:19">[01:19:19]</a>.
+*   **Agile Nations Network:** The UAE joined six other nations to foster global cooperation on rulemaking in response to [[innovation_in_government | innovation]] <a class="yt-timestamp" data-t="02:09:48">[02:09:48]</a>.
 
-## Approaches and Case Studies
+## Ecosystems and Collaboration
 
-### Surfacing Insights and Collective Intelligence
-This involves taking existing approaches and applying them in new cross-border and global ways, such as challenge initiatives, crowdsourcing, and democratic citizens' assemblies <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>.
+Building robust ecosystems is vital for [[crossborder_government_innovation | cross-border government innovation]]. This involves understanding different types of ecosystems—horizontal (e.g., communities of practice around prize competitions or citizen science) and vertical (e.g., mission-focused coalitions like climate change entities) <a class="yt-timestamp" data-t="00:58:13">[00:58:13]</a>.
 
-*   **Deep Space Food Challenge**: An international collaboration between the Canadian Space Agency and NASA <a class="yt-timestamp" data-t="00:52:01">[00:52:01]</a>. It incentivizes innovation in food production technologies to meet the needs of space exploration and address terrestrial issues like food insecurity <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>.
-    *   NASA's approach involves running parallel prize competitions with distinct rules and eligibility due to legal and policy restrictions on financial awards, but synchronizing marketing and outreach efforts <a class="yt-timestamp" data-t="01:10:16">[01:10:16]</a>.
-    *   The International Space Apps Challenge, celebrating its 10-year anniversary, is a horizontally focused ecosystem-building activity where NASA shares data and software for innovators globally to solve challenges <a class="yt-timestamp" data-t="01:05:51">[01:05:51]</a>. In one year, 28,000 people from 162 countries participated in a 48-hour hackathon, generating nearly 3,000 projects <a class="yt-timestamp" data-t="01:06:26">[01:06:26]</a>.
-*   **Global Innovation Collaborative**: A network and platform for collaborations where city governments (e.g., Paris, London, New York, Berlin) launch open innovation competitions and invite innovators to deploy solutions in local testbeds, leading to more resilient and sustainable cities <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
-    *   London's approach involves "fixing the plumbing" by creating a strong foundation for engagement, like the London Office of Technology and Innovation (LOTI), which brings together London's 32 boroughs to work on projects using design thinking and data expertise <a class="yt-timestamp" data-t="01:01:25">[01:01:25]</a>. This has created a "fear of missing out" (FOMO) dynamic, encouraging more participation <a class="yt-timestamp" data-t="01:20:34">[01:20:34]</a>.
+Key elements for creating and scaling sustainable [[innovation_in_government | innovation]] ecosystems include:
+*   **Legal and Policy Frameworks:** Actively working to change or adapt laws to enable [[innovation_in_government | innovation]] <a class="yt-timestamp" data-t="00:39:32">[00:39:32]</a>.
+*   **Shared Infrastructure and Common Platforms:** Providing platforms for easy access and collaboration <a class="yt-timestamp" data-t="00:39:58">[00:39:58]</a>.
+*   **Communities of Practice:** Supporting and connecting individuals who want to learn and share expertise <a class="yt-timestamp" data-t="00:40:20">[00:40:20]</a>.
+*   **Strategic Budgeting:** Budgeting for the success and scaling of pilots, not just for the pilot phase <a class="yt-timestamp" data-t="00:40:44">[00:40:44]</a>.
+*   **Addressing Agency Processes:** Streamlining internal processes that can act as barriers <a class="yt-timestamp" data-t="00:41:13">[00:41:13]</a>.
+*   **Reporting Requirements and External Assessments:** Maintaining an evaluation mindset to learn from results, even when they are not positive <a class="yt-timestamp" data-t="00:41:17">[00:41:17]</a>.
 
-### Experimenting and Testing Across Borders
-This involves testing new ideas and finding different ways to scale them in a cross-border manner <a class="yt-timestamp" data-t="00:26:39">[00:26:39]</a>.
+The London Office of Technology and [[innovation_in_government | Innovation]] (LOTI) exemplifies how a small, focused team can significantly impact collaboration within an ecosystem, such as London's 32 boroughs <a class="yt-timestamp" data-t="01:01:21">[01:01:21]</a>. They focus on common methodologies and ethical foundations for responsible [[innovation_in_government | innovation]] using AI <a class="yt-timestamp" data-t="00:44:06">[00:44:06]</a>. This approach highlights that the future of [[innovation_in_government | innovation]] will be driven more by collaboration and effective methodology than by specific technologies like AI or 5G <a class="yt-timestamp" data-t="01:02:42">[01:02:42]</a>.
 
-*   **5G Corridors (5G MOBIX) Case Studies**: Spanning the EU, China, and Turkey, this project comes up with experimental ways to test automated vehicles in different environments and conditions <a class="yt-timestamp" data-t="00:26:50">[00:26:50]</a>.
-*   **Government Accelerators (UAE)**: A methodology that takes innovative ideas from experimentation to accelerated implementation <a class="yt-timestamp" data-t="01:12:03">[01:12:03]</a>. Projects typically run for 100 days or less, empowering frontline employees from relevant entities and focusing on stakeholder building and collaborative work <a class="yt-timestamp" data-t="01:12:17">[01:12:17]</a>. The end of the 100-day journey focuses on setting a sustainability team to scale the proven solutions to different areas or services <a class="yt-timestamp" data-t="01:13:09">[01:13:09]</a>.
-    *   The UAE's Government Exchange Program is a continuation of the country's principle of international collaboration and assistance, sharing knowledge and testing their tools like the government accelerator methodology in different types of governments globally <a class="yt-timestamp" data-t="00:48:50">[00:48:50]</a>.
-    *   The Moonshot Apprenticeship Program was launched in June 2021 by the UAE government to unite young minds, talents, and governments to tackle pressing global challenges, pairing UAE nationals with international counterparts <a class="yt-timestamp" data-t="01:18:35">[01:18:35]</a>.
-    *   The Moonshot Pilot Grant is a call for the international community to test groundbreaking ideas in partnership with the UAE, with funding potentially reaching up to $100,000 per project <a class="yt-timestamp" data-t="01:19:21">[01:19:21]</a>.
+## The Role of Culture
 
-## Recommendations for Governments
-The report suggests five high-level recommendations for advancing [[Innovation Strategies for Governments | innovation strategies for governments]]:
-1.  **Encourage and develop capacities for facilitator/orchestrator roles** <a class="yt-timestamp" data-t="00:28:34">[00:28:34]</a>.
-2.  **Map and engage ecosystem players** <a class="yt-timestamp" data-t="00:28:39">[00:28:39]</a>.
-3.  **Implement iteration and learning** by building in learning groups <a class="yt-timestamp" data-t="00:28:43">[00:28:43]</a>.
-4.  **Adopt scalable design** from the early stages of a project <a class="yt-timestamp" data-t="00:28:51">[00:28:51]</a>.
-5.  **Develop formal mechanisms** like sandboxes and testbeds to facilitate innovation <a class="yt-timestamp" data-t="00:29:04">[00:29:04]</a>.
+Culture plays an extremely important role in the development of [[innovation_in_government | innovation]] ecosystems and [[crossborder_government_collaboration_and_innovation | cross-border collaboration]] <a class="yt-timestamp" data-t="01:18:08">[01:18:08]</a>. A conscious decision to work with authorities that subscribe to a certain set of principles, like agile methodology, can create momentum and a "fear of missing out" for others to join <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>. This fosters a cultural "bar" that, once met, allows groups to work together and gain mutual benefits, including motivational ones <a class="yt-timestamp" data-t="01:20:45">[01:20:45]</a>.
 
-### Practical Implementation
-A playbook will be developed in early 2022 to provide more practical and hands-on guidance for governments to implement these recommendations <a class="yt-timestamp" data-t="00:29:26">[00:29:26]</a>.
+## Future Outlook
 
-Jen Gusto of NASA highlights eight key elements to address for sustainable innovation ecosystems:
-1.  Legal and policy frameworks (which can be changed) <a class="yt-timestamp" data-t="00:39:32">[00:39:32]</a>
-2.  Shared infrastructure and common platforms <a class="yt-timestamp" data-t="00:39:58">[00:39:58]</a>
-3.  Emergence and sustainability of communities of practice <a class="yt-timestamp" data-t="00:40:20">[00:40:20]</a>
-4.  Budgeting for success, not just piloting <a class="yt-timestamp" data-t="00:40:41">[00:40:41]</a>
-5.  Addressing agency processes <a class="yt-timestamp" data-t="00:41:13">[00:41:13]</a>
-6.  Reporting requirements for accountability <a class="yt-timestamp" data-t="00:41:17">[00:41:17]</a>
-7.  External assessments and impact studies with an evaluation mindset <a class="yt-timestamp" data-t="00:41:26">[00:41:26]</a>
+[[crossborder_government_collaboration_and_innovation | Cross-border collaboration]] is expected to increase because many of the largest global challenges, such as net-zero emissions, education, health, poverty, and inequality, are inherently cross-border <a class="yt-timestamp" data-t="01:15:13">[01:15:13]</a>. These problems cannot be solved within national boundaries alone <a class="yt-timestamp" data-t="01:25:32">[01:25:32]</a>.
 
-## Future Outlook for Crossborder Collaboration
-There is a growing need for [[challenges_and_success_factors_in_crossborder_governance | cross-border collaboration]] as many of today's largest challenges are inherently cross-border, and cannot be achieved within existing national boundaries <a class="yt-timestamp" data-t="01:15:13">[01:15:13]</a>. This will require developing strong partnerships, trust, and open collaborative relationships <a class="yt-timestamp" data-t="01:25:49">[01:25:49]</a>.
+The future will likely see:
+*   **Increased institutionalization:** Moving beyond one-off projects to establish stable roles, structures, and funding streams for [[crossborder_government_innovation | cross-border innovation]] <a class="yt-timestamp" data-t="01:15:05">[01:15:05]</a>.
+*   **Mini-lateralism:** A growing number of collaborations among groups of countries around specific tasks, which are more agile than large multilateral bodies <a class="yt-timestamp" data-t="01:03:01">[01:03:01]</a>.
+*   **Systematic use of collective intelligence:** Leveraging the internet, web, and data to organize and harness knowledge from diverse sources, making it a common practice in government operations <a class="yt-timestamp" data-t="00:55:27">[00:55:27]</a>.
+*   **Focus on foundational discussions:** Continued emphasis on shared standards, data usage, and methodologies for designing and convening innovation efforts <a class="yt-timestamp" data-t="01:28:50">[01:28:50]</a>.
 
-Jeff Mulgan suggests that the next step is to institutionalize innovation efforts, making them larger and more linked to policymakers and procurement priorities <a class="yt-timestamp" data-t="01:16:18">[01:16:18]</a>. This means creating new ways of institutionalizing collaborative science so that efforts don't have to be reinvented from scratch each time <a class="yt-timestamp" data-t="01:26:30">[01:26:30]</a>.
-
-Abdullah Al-Jarwan sees cross-border collaboration strengthening over time, especially due to growing regional challenges like scarcity of resources, carbon neutrality, food security, water security, and unemployment rates <a class="yt-timestamp" data-t="01:27:13">[01:27:13]</a>.
-
-Theo Blackwell emphasizes that future collaboration will focus on two main areas:
-1.  **Climate change**, particularly [[collaboration and innovation in public sector | collaboration between public and private sectors]], driven by a unity of leadership <a class="yt-timestamp" data-t="01:28:22">[01:28:22]</a>.
-2.  **Foundational discussions** around standards, data usage, and shared methodologies for designing and convening innovation efforts <a class="yt-timestamp" data-t="01:28:50">[01:28:50]</a>. Sharing these foundations, supported by new institutions, will have a significant impact <a class="yt-timestamp" data-t="01:29:31">[01:29:31]</a>.
-
-The concept of "mini-lateralism" is emerging, where groups of countries collaborate around specific tasks, differing from traditional multilateral organizations which often struggle with legitimacy or capability <a class="yt-timestamp" data-t="01:35:39">[01:35:39]</a>. This field of innovation is bound to be an important space for mini-lateralism, and efforts to reduce friction and transaction costs will be beneficial <a class="yt-timestamp" data-t="01:36:01">[01:36:01]</a>.
+Organizations like the OECD aim to reduce the frictions and transaction costs associated with [[crossborder_government_collaboration_and_innovation | cross-border collaboration]] to facilitate its growth <a class="yt-timestamp" data-t="00:36:05">[00:36:05]</a>.

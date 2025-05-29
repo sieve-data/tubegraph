@@ -1,16 +1,22 @@
 ---
-title: behavioral insights in innovation
+title: Behavioral insights in innovation
 videoId: qieVAq1XLO8
 ---
 
 From: [[oecdobservatoryofpublicsec3116]] <br/> 
 
-[[Understanding adaptive innovation | Enhancement-oriented innovation]] is a common practice in government innovation activities. It focuses on upgrading existing practices and systems, such as making taxation systems work "better, faster, quicker" <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a> <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a> <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a> <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
+[[behavioral_insights | Behavioral insights]] are frequently utilized in government innovation activities, primarily within the context of enhancement-oriented innovation <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
 
-## Behavioral Insights as Enhancement-Oriented Innovation
+## Enhancement-Oriented Innovation
+Enhancement-oriented innovation is one of the most common practices in government when they are attempting innovation activities <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. This approach centers on upgrading what already exists, such as enhancing current practices and systems within the government <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. Common examples include efforts to make taxation systems work better, faster, or quicker <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
 
-When governments utilize [[behavioral_insights_in_public_policy | behavioral insights]], for instance, to encourage faster tax payments or to prompt more informed responses to inquiries, this can be categorized as enhancement-oriented innovation <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a> <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+## Application of [[behavioral_insights | Behavioral Insights]]
+Governments apply [[behavioral_insights | behavioral insights]] within this framework to achieve specific improvements. For instance, they might use these insights to encourage citizens to pay taxes faster <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a> or to prompt more informed responses to different inquiries <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Such applications are characterized as enhancement-oriented innovation <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
 
-## Characteristics of Enhancement-Oriented Innovation
+### Characteristics
+*   **Low Risk** The risks associated with this type of innovation are relatively low <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
+*   **No System Transformation** These innovations do not typically call for the transformation of entire systems <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+*   **Implementation within Current Structures** They are implemented within the existing structures <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+*   **Calculable Risks** The risks connected to their implementation can be calculated <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
 
-This type of innovation is generally low-risk <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. It does not demand a transformation of existing systems but is implemented within current structures <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a> <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. The risks associated with its implementation can also be calculated <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. It allows for directing innovation to improve a specific system or exploiting existing ideas to enhance current practices <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a> <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+This approach allows for directed innovation to improve specific systems or to exploit existing ideas to enhance current practices <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.

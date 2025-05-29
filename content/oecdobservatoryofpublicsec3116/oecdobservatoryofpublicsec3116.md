@@ -2,660 +2,676 @@
 title: oecdobservatoryofpublicsec3116
 ---
 ### [Innovation Playbook](https://www.youtube.com/watch?v=MymoO7zOk24)
-- [[developing_new_ideas | developing new ideas]]
-- [[overcoming_innovation_challenges | overcoming innovation challenges]]
+- [[innovation_strategies | Innovation strategies]]
+- [[playbook_for_business_growth | Playbook for business growth]]
+- [[implementing_innovative_ideas | Implementing innovative ideas]]
 
 ### [OECD Observatory of Public Sector Innovation](https://www.youtube.com/watch?v=Gko6rQ6wXlE)
-- [[challenges_faced_by_governments | Challenges faced by governments]]
-- [[innovation_in_the_public_sector | Innovation in the public sector]]
-- [[climate_change_and_public_policy | Climate change and public policy]]
-- [[role_of_oecd_in_public_sector_innovation | Role of OECD in public sector innovation]]
-- [[empowering_public_servants_with_tools_and_insights | Empowering public servants with tools and insights]]
+- [[challenges_faced_by_governments | challenges faced by governments]]
+- [[innovation_in_government | innovation in government]]
+- [[addressing_climate_change | addressing climate change]]
+- [[digital_disruption_in_public_sector | digital disruption in public sector]]
+- [[empowering_public_servants | empowering public servants]]
 
 ### [What is mission oriented innovation?](https://www.youtube.com/watch?v=3I6wdPooX2k)
-- [[definition_of_mission_oriented_innovation | Definition of mission oriented innovation]]
-- [[purpose_driven_innovation | Purpose driven innovation]]
-- [[moon_landing_as_an_example_of_mission_oriented_innovation | Moon landing as an example of mission oriented innovation]]
-- [[impact_of_mission_oriented_innovation_on_society | Impact of mission oriented innovation on society]]
-- [[side_effects_and_unintended_innovations_from_mission_driven_projects | Side effects and unintended innovations from mission driven projects]]
+- [[missionoriented_innovation | Missionoriented innovation]]
+- [[purposedriven_innovation | Purposedriven innovation]]
+- [[moonshot_example_of_missionoriented_innovation | Moonshot example of missionoriented innovation]]
+- [[innovation_as_a_response_to_societal_challenges | Innovation as a response to societal challenges]]
+- [[emergent_innovations_from_missionoriented_projects | Emergent innovations from missionoriented projects]]
+
+### [What is public sector innovation?](https://www.youtube.com/watch?v=4lAWR0Tqy_8)
+- [[definition_and_challenges_of_innovation | Definition and challenges of innovation]]
+- [[private_sector_innovation | Private sector innovation]]
+- [[public_sector_innovation | Public sector innovation]]
+- [[impact_of_innovation_in_the_public_sector | Impact of innovation in the public sector]]
+- [[digital_advancements_and_accessibility_challenges_in_public_innovation | Digital advancements and accessibility challenges in public innovation]]
 
 ### [OPSI Innovation Facets Model](https://www.youtube.com/watch?v=t2S-S8cO5_k)
-- [[public_sector_innovation_definition_and_significance | Public sector innovation definition and significance]]
-- [[oecd_observatory_and_innovation_model | OECD observatory and innovation model]]
-- [[four_facets_of_innovation | Four facets of innovation]]
-- [[examples_of_innovation_types_in_action | Examples of innovation types in action]]
-- [[challenges_of_a_multifaceted_innovation_approach | Challenges of a multifaceted innovation approach]]
+- [[public_sector_innovation_overview | Public Sector Innovation Overview]]
+- [[facets_of_public_sector_innovation | Facets of Public Sector Innovation]]
+- [[enhancement_oriented_innovation | Enhancement Oriented Innovation]]
+- [[mission_oriented_innovation | Mission Oriented Innovation]]
+- [[adaptive_and_anticipatory_innovation_strategies | Adaptive and Anticipatory Innovation Strategies]]
+
+### [Innovation Incubator Programme](https://www.youtube.com/watch?v=_HySsiq_l6A)
+- [[public_sector_innovation | Public Sector Innovation]]
+- [[innovation_incubator_program | Innovation Incubator Program]]
+- [[anticipatory_innovation | Anticipatory Innovation]]
+- [[sharing_and_disseminating_innovative_practices | Sharing and Disseminating Innovative Practices]]
+- [[partnerships_in_public_private_innovation | Partnerships in Public Private Innovation]]
 
 ### [The OPSI Toolkit Navigator](https://www.youtube.com/watch?v=jJiuVsvbqik)
 - [[challenges_faced_by_public_servants | Challenges faced by public servants]]
-- [[innovation_tools_and_methods | Innovation tools and methods]]
-- [[opsi_toolkit_navigator | OPSI Toolkit Navigator]]
-- [[filtering_innovation_resources | Filtering innovation resources]]
-- [[connecting_tools_with_situations_and_challenges | Connecting tools with situations and challenges]]
-
-### [What is public sector innovation?](https://www.youtube.com/watch?v=4lAWR0Tqy_8)
-- [[definition_of_public_sector_innovation | Definition of public sector innovation]]
-- [[differences_between_public_and_private_sector_innovation | Differences between public and private sector innovation]]
-- [[challenges_in_implementing_innovation_in_the_public_sector | Challenges in implementing innovation in the public sector]]
-- [[impact_of_innovation_on_public_value | Impact of innovation on public value]]
-- [[role_of_digital_advancements_in_public_sector_innovation | Role of digital advancements in public sector innovation]]
-
-### [Innovation Incubator Programme](https://www.youtube.com/watch?v=_HySsiq_l6A)
-- [[public_sector_innovation | Public sector innovation]]
-- [[innovation_incubator_program | Innovation incubator program]]
-- [[anticipatory_innovation_for_governments | Anticipatory innovation for governments]]
-- [[collaboration_and_peer_support_in_innovation | Collaboration and peer support in innovation]]
-- [[tools_for_incubating_innovation_projects | Tools for incubating innovation projects]]
-
-### [Building innovative and inclusive governments | GovBeyondRecovery](https://www.youtube.com/watch?v=JsEztiyum2I)
-- [[innovative_approaches_to_public_governance | Innovative approaches to public governance]]
-- [[challenges_and_responses_during_the_covid19_pandemic | Challenges and responses during the COVID19 pandemic]]
-- [[leadership_and_teamwork_in_crisis_management | Leadership and teamwork in crisis management]]
-- [[innovation_and_inclusion_in_government_recovery_efforts | Innovation and inclusion in government recovery efforts]]
-- [[strategic_foresight_for_future_global_challenges | Strategic foresight for future global challenges]]
-
-### [What is anticipatory innovation?](https://www.youtube.com/watch?v=30hu04ZeoOg)
-- [[anticipatory_innovation_and_engaging_with_the_future | Anticipatory innovation and engaging with the future]]
-- [[importance_of_government_involvement_in_innovation | Importance of government involvement in innovation]]
-- [[dominant_designs_and_their_longterm_effects | Dominant designs and their longterm effects]]
-- [[role_of_anticipatory_innovation_in_artificial_intelligence | Role of anticipatory innovation in artificial intelligence]]
-- [[ethical_considerations_and_blockchain_in_emerging_technologies | Ethical considerations and blockchain in emerging technologies]]
-
-### [Public Sector Innovation and Covid-19 | OECD OPSI Webinar | 07 May 2020](https://www.youtube.com/watch?v=JkIhnK7qf-w)
-- [[public_sector_innovation_in_response_to_covid19 | Public Sector Innovation in Response to COVID19]]
-- [[role_of_innovation_ecosystems_during_a_crisis | Role of Innovation Ecosystems During a Crisis]]
-- [[digital_transformation_of_public_services | Digital Transformation of Public Services]]
-- [[collaboration_and_communication_innovations | Collaboration and Communication Innovations]]
-- [[challenges_in_sustaining_government_innovations_postcrisis | Challenges in Sustaining Government Innovations PostCrisis]]
-
-### [Cracking the Code: Rulemaking for humans and machines | OECD OPSI Webinar | 13 Oct 2020](https://www.youtube.com/watch?v=-HUL3teHPw8)
-- [[rules_as_code_and_its_implications_for_governance | Rules as Code and its implications for governance]]
-- [[public_sector_innovation_and_digital_transformation | Public sector innovation and digital transformation]]
-- [[balancing_legislative_intent_with_machinereadable_rules | Balancing legislative intent with machinereadable rules]]
-- [[improving_government_transparency_and_accountability | Improving government transparency and accountability]]
-- [[the_role_of_ai_and_technology_in_public_administration | The role of AI and technology in public administration]]
+- [[innovation_tools_and_methods_for_public_service | Innovation tools and methods for public service]]
+- [[the_opsi_toolkit_navigator | The OPSI Toolkit Navigator]]
+- [[navigational_paths_for_innovation_tool_selection | Navigational paths for innovation tool selection]]
+- [[resources_for_skills_and_capacity_building_in_public_service | Resources for skills and capacity building in public service]]
 
 ### [Exploring 2023 Innovation Trends](https://www.youtube.com/watch?v=HrwPuLTdHag)
-- [[public_sector_innovation_trends | Public sector innovation trends]]
-- [[government_and_technology_partnerships | Government and technology partnerships]]
-- [[digital_decarbonization_and_data_management | Digital decarbonization and data management]]
-- [[artificial_intelligence_in_public_administration | Artificial intelligence in public administration]]
-- [[mentorship_and_youth_engagement_in_public_policy | Mentorship and youth engagement in public policy]]
+- [[global_public_sector_innovation_trends | Global public sector innovation trends]]
+- [[youth_engagement_in_decision_making | Youth engagement in decision making]]
+- [[digital_decarbonization_and_carbon_footprint_of_data | Digital decarbonization and carbon footprint of data]]
+- [[ai_infrastructure_and_supercomputing_in_the_public_sector | AI infrastructure and supercomputing in the public sector]]
+- [[publicprivate_partnerships_in_technology_and_innovation | Publicprivate partnerships in technology and innovation]]
+
+### [What is anticipatory innovation?](https://www.youtube.com/watch?v=30hu04ZeoOg)
+- [[anticipatory_innovation_and_its_importance | Anticipatory innovation and its importance]]
+- [[future_engagement_and_uncertainty_management | Future engagement and uncertainty management]]
+- [[role_of_governments_in_innovation_and_future_planning | Role of governments in innovation and future planning]]
+- [[impact_of_historical_innovations_on_current_systems | Impact of historical innovations on current systems]]
+- [[challenges_and_considerations_in_ai_and_blockchain_integration | Challenges and considerations in AI and blockchain integration]]
+
+### [Building innovative and inclusive governments | GovBeyondRecovery](https://www.youtube.com/watch?v=JsEztiyum2I)
+- [[government_innovation_and_adaptation | Government innovation and adaptation]]
+- [[public_sector_and_strategic_foresight | Public sector and strategic foresight]]
+- [[leadership_and_teamwork_in_public_administration | Leadership and teamwork in public administration]]
+- [[innovation_in_response_to_crisis | Innovation in response to crisis]]
+- [[challenges_in_addressing_climate_change | Challenges in addressing climate change]]
+
+### [Cracking the Code: Rulemaking for humans and machines | OECD OPSI Webinar | 13 Oct 2020](https://www.youtube.com/watch?v=-HUL3teHPw8)
+- [[rules_as_code_concept_and_implementation | Rules as Code concept and implementation]]
+- [[public_sector_innovation_and_digital_transformation | Public sector innovation and digital transformation]]
+- [[interdisciplinary_collaboration_in_government_rulemaking | Interdisciplinary collaboration in government rulemaking]]
+- [[impact_of_rules_as_code_on_public_administration_and_policy_making | Impact of rules as code on public administration and policy making]]
+- [[role_of_rules_as_code_in_enhancing_transparency_and_accountability | Role of rules as code in enhancing transparency and accountability]]
 
 ### [Exploring Innovation Portfolio Approaches | OECD OPSI Webinar | 27 May 2020](https://www.youtube.com/watch?v=zAh8iKOfM8I)
-- [[innovation_portfolio_management_in_public_sector | Innovation Portfolio Management in Public Sector]]
-- [[systems_change_and_collaboration | Systems Change and Collaboration]]
-- [[sensemaking_and_organizational_adaptation | SenseMaking and Organizational Adaptation]]
-- [[challenges_and_strategies_for_effective_innovation_portfolio | Challenges and Strategies for Effective Innovation Portfolio]]
-- [[role_of_crosssectoral_and_multilevel_partnerships_in_innovation | Role of CrossSectoral and MultiLevel Partnerships in Innovation]]
+- [[innovation_portfolio_management | Innovation portfolio management]]
+- [[public_sector_innovation | Public sector innovation]]
+- [[systems_thinking_in_innovation | Systems thinking in innovation]]
+- [[challenges_of_organizational_change_for_innovation | Challenges of organizational change for innovation]]
+- [[role_of_leadership_in_facilitating_innovation | Role of leadership in facilitating innovation]]
+
+### [A Framework for Anticipatory Innovation Governance  | OECD OPSI Webinar | 10 November 2020](https://www.youtube.com/watch?v=KugUb0JyCtk)
+- [[anticipatory_innovation_governance | Anticipatory innovation governance]]
+- [[strategic_foresight_and_its_challenges_in_implementation | Strategic foresight and its challenges in implementation]]
+- [[framework_for_innovation_in_the_public_sector | Framework for innovation in the public sector]]
+- [[the_role_of_government_in_technological_and_nontechnological_changes | The role of government in technological and nontechnological changes]]
+- [[leadership_and_organizational_readiness_for_future_challenges | Leadership and organizational readiness for future challenges]]
+
+### [Public Sector Innovation and Covid-19 | OECD OPSI Webinar | 07 May 2020](https://www.youtube.com/watch?v=JkIhnK7qf-w)
+- [[public_sector_innovation_during_covid19 | Public sector innovation during Covid19]]
+- [[innovative_responses_to_covid19_by_governments | Innovative responses to Covid19 by governments]]
+- [[impact_of_covid19_on_digital_transformation_in_the_public_sector | Impact of Covid19 on digital transformation in the public sector]]
+- [[challenges_and_opportunities_of_public_sector_innovation_in_a_crisis | Challenges and opportunities of public sector innovation in a crisis]]
+- [[future_of_public_governance_postcovid19 | Future of public governance postCovid19]]
+
+### [OECD OPSI Innovation Skills 101 webinar 26 June 2018](https://www.youtube.com/watch?v=RAuqzM_MLTk)
+- [[public_sector_innovation | Public sector innovation]]
+- [[innovation_lifecycle_and_skills | Innovation lifecycle and skills]]
+- [[problem_framing_and_solving | Problem framing and solving]]
+- [[innovation_in_government | Innovation in government]]
+- [[usercentric_design_and_implementation | Usercentric design and implementation]]
 
 ### [Mission Oriented Innovation | OECD OPSI Webinar | 28 June 2021](https://www.youtube.com/watch?v=PSQUKrdPM70)
-- [[mission_oriented_innovation_in_public_sector | Mission oriented innovation in public sector]]
-- [[governance_and_implementation_of_innovation_missions | Governance and implementation of innovation missions]]
-- [[role_of_international_organizations_in_innovation_missions | Role of international organizations in innovation missions]]
-- [[challenges_in_coordinating_stakeholders_in_mission_oriented_policies | Challenges in coordinating stakeholders in mission oriented policies]]
-- [[impact_and_strategic_orientation_of_innovation_missions | Impact and strategic orientation of innovation missions]]
-
-### [Governance Model | Anticipatory Innovation Governance Workshop Pt. 1](https://www.youtube.com/watch?v=fcq_hH4XFkc)
-- [[anticipatory_innovation_governance | Anticipatory Innovation Governance]]
-- [[strategic_foresight_in_public_policy | Strategic Foresight in Public Policy]]
-- [[complexity_and_systems_thinking_in_governance | Complexity and Systems Thinking in Governance]]
-- [[governance_and_technology_interaction | Governance and Technology Interaction]]
-- [[democracy_and_public_participation_in_policy | Democracy and Public Participation in Policy]]
+- [[mission_oriented_innovation_challenges_and_implementation | Mission oriented innovation challenges and implementation]]
+- [[public_sector_adoption_of_mission_oriented_approaches | Public sector adoption of mission oriented approaches]]
+- [[governance_structures_and_policy_coordination_in_missions | Governance structures and policy coordination in missions]]
+- [[impact_and_scaling_of_mission_oriented_policies | Impact and scaling of mission oriented policies]]
+- [[crossdisciplinary_collaboration_for_mission_success | Crossdisciplinary collaboration for mission success]]
 
 ### [The Innovation System of the Public Service of Canada](https://www.youtube.com/watch?v=QIsY1fvTjfo)
 - [[public_sector_innovation_systems_in_canada | Public sector innovation systems in Canada]]
-- [[lessons_from_international_innovation_systems | Lessons from international innovation systems]]
-- [[challenges_and_strategies_in_implementing_public_sector_innovation | Challenges and strategies in implementing public sector innovation]]
-- [[role_of_leadership_and_management_in_fostering_innovation | Role of leadership and management in fostering innovation]]
-- [[impact_of_technological_disruption_on_government_innovation | Impact of technological disruption on government innovation]]
-
-### [OECD OPSI Innovation Skills 101 webinar 26 June 2018](https://www.youtube.com/watch?v=RAuqzM_MLTk)
-- [[public_sector_innovation_introduction | Public Sector Innovation Introduction]]
-- [[challenges_in_public_sector_innovation | Challenges in Public Sector Innovation]]
-- [[innovation_skills_for_public_sector | Innovation Skills for Public Sector]]
-- [[problem_framing_in_innovation | Problem Framing in Innovation]]
-- [[role_and_functions_of_oecd_observatory_of_public_sector_innovation | Role and Functions of OECD Observatory of Public Sector Innovation]]
-
-### [A Framework for Anticipatory Innovation Governance  | OECD OPSI Webinar | 10 November 2020](https://www.youtube.com/watch?v=KugUb0JyCtk)
-- [[anticipatory_innovation_governance_framework | Anticipatory innovation governance framework]]
-- [[strategic_foresight_and_innovation_in_government | Strategic foresight and innovation in government]]
-- [[challenges_of_implementing_foresight_in_public_sectors | Challenges of implementing foresight in public sectors]]
-- [[role_of_technology_in_anticipatory_innovation | Role of technology in anticipatory innovation]]
-- [[building_resilient_and_adaptive_government_systems | Building resilient and adaptive government systems]]
+- [[challenges_and_opportunities_in_government_innovation | Challenges and opportunities in government innovation]]
+- [[role_of_middle_management_in_public_sector_innovation | Role of middle management in public sector innovation]]
+- [[impact_of_disruptive_technologies_on_public_service | Impact of disruptive technologies on public service]]
+- [[comparison_of_innovation_between_public_and_private_sectors | Comparison of innovation between public and private sectors]]
 
 ### [Showcasing examples of Innovative public administration in the 2021 European Public Sector Award](https://www.youtube.com/watch?v=ufbBpN3BlP0)
-- [[innovation_in_public_administration | Innovation in public administration]]
-- [[european_public_sector_award_2021 | European Public Sector Award 2021]]
-- [[case_studies_in_public_sector_innovation | Case studies in public sector innovation]]
-- [[challenges_and_strategies_for_innovative_public_services | Challenges and strategies for innovative public services]]
+- [[innovative_public_administration_practices | Innovative public administration practices]]
+- [[european_public_sector_award_initiatives | European Public Sector Award initiatives]]
 - [[role_of_innovation_labs_in_government | Role of innovation labs in government]]
-
-### [Mission Oriented Innovation Bootcamp │OPSI & IIPP │02 Dec 2020](https://www.youtube.com/watch?v=-KQokCATILo)
-- [[missionoriented_innovation_in_public_policy | Missionoriented innovation in public policy]]
-- [[cocreation_and_stakeholder_engagement_in_mission_setting | Cocreation and stakeholder engagement in mission setting]]
-- [[challenges_in_implementing_missionoriented_projects | Challenges in implementing missionoriented projects]]
-- [[tools_and_frameworks_for_evaluating_mission_impact | Tools and frameworks for evaluating mission impact]]
-- [[integrating_missionoriented_approaches_in_government_and_policymaking | Integrating missionoriented approaches in government and policymaking]]
-
-### [#GovAfterShock | GLOBAL LAUNCH: Welcome remarks from government leaders](https://www.youtube.com/watch?v=BlUvZp9Z4js)
-- [[government_response_to_covid19 | Government response to COVID19]]
-- [[digital_transformation_in_government | Digital transformation in government]]
-- [[economic_recovery_and_innovation | Economic recovery and innovation]]
-- [[public_trust_and_governance | Public trust and governance]]
-- [[crisis_management_and_future_preparedness | Crisis management and future preparedness]]
+- [[publicprivate_sector_collaboration | Publicprivate sector collaboration]]
+- [[strategies_for_fostering_government_innovation | Strategies for fostering government innovation]]
 
 ### [Launch | Tackling Policy Challenges Through Public Sector Innovation: A strategic portfolio approach](https://www.youtube.com/watch?v=Lwgs3D27H_g)
 - [[public_sector_innovation | Public sector innovation]]
-- [[strategic_portfolio_approach_in_government | Strategic portfolio approach in government]]
+- [[policy_challenges_and_strategic_approaches | Policy challenges and strategic approaches]]
+- [[european_union_and_oecd_collaborations_on_innovation | European Union and OECD collaborations on innovation]]
+- [[missionoriented_innovation_in_public_administration | Missionoriented innovation in public administration]]
+- [[innovation_ecosystems_and_portfolio_management | Innovation ecosystems and portfolio management]]
+
+### [Governance Model | Anticipatory Innovation Governance Workshop Pt. 1](https://www.youtube.com/watch?v=fcq_hH4XFkc)
+- [[anticipatory_innovation_governance | Anticipatory innovation governance]]
+- [[proactive_vs_reactive_government_policies | Proactive vs reactive government policies]]
+- [[collaboration_between_governments_and_citizens | Collaboration between governments and citizens]]
+- [[technological_advancements_in_governance | Technological advancements in governance]]
+- [[role_of_strategic_foresight_and_experimentation | Role of strategic foresight and experimentation]]
+
+### [#GovAfterShock | GLOBAL LAUNCH: Welcome remarks from government leaders](https://www.youtube.com/watch?v=BlUvZp9Z4js)
+- [[government_responses_to_covid19 | Government responses to COVID19]]
+- [[digital_transformation_and_egovernment | Digital transformation and egovernment]]
+- [[balancing_health_measures_and_civil_liberties | Balancing health measures and civil liberties]]
+- [[the_role_of_trust_between_government_and_society | The role of trust between government and society]]
+- [[the_economic_impact_of_the_pandemic_and_recovery_strategies | The economic impact of the pandemic and recovery strategies]]
+
+### [Mission Oriented Innovation Bootcamp │OPSI & IIPP │02 Dec 2020](https://www.youtube.com/watch?v=-KQokCATILo)
 - [[missionoriented_innovation | Missionoriented innovation]]
-- [[global_trends_in_public_sector_innovation | Global trends in public sector innovation]]
-- [[challenges_in_governmental_innovation_and_reform | Challenges in governmental innovation and reform]]
-
-### [Fit in the Future | OECD OPSI Webinar | 21 September 2021](https://www.youtube.com/watch?v=aF4RWXBuGI0)
-- [[anticipatory_innovation_and_strategic_foresight_in_public_policy | Anticipatory Innovation and Strategic Foresight in Public Policy]]
-- [[organizational_habits_and_barriers_to_innovation | Organizational Habits and Barriers to Innovation]]
-- [[experimentation_and_learning_in_government | Experimentation and Learning in Government]]
-- [[challenges_and_opportunities_of_digital_transformation | Challenges and Opportunities of Digital Transformation]]
-- [[role_of_foresight_in_addressing_climate_change_and_biodiversity | Role of Foresight in Addressing Climate Change and Biodiversity]]
-
-### [Futures of the Public Sector | Anticipatory Innovation Governance Workshop Pt. 2](https://www.youtube.com/watch?v=nciiu-6YISM)
-- [[anticipatory_innovation_governance | Anticipatory Innovation Governance]]
-- [[the_role_of_public_sector_in_innovation | The Role of Public Sector in Innovation]]
-- [[agile_and_digital_transformation_in_government | Agile and Digital Transformation in Government]]
-- [[foresight_and_scenario_planning | Foresight and Scenario Planning]]
-- [[ethics_and_diversity_in_public_sector_innovation | Ethics and Diversity in Public Sector Innovation]]
-
-### [Launch: An international effort using behavioural science to tackle the spread of misinformation](https://www.youtube.com/watch?v=soQN97fWlxQ)
-- [[misinformation_and_disinformation | Misinformation and disinformation]]
-- [[behavioral_science_in_policy_making | Behavioral science in policy making]]
-- [[international_collaborations_to_combat_misinformation | International collaborations to combat misinformation]]
-- [[digital_media_literacy_and_misinformation | Digital media literacy and misinformation]]
-- [[policy_experimentation_and_global_challenges | Policy experimentation and global challenges]]
+- [[system_thinking_and_transformative_change | System thinking and transformative change]]
+- [[public_and_private_collaboration_in_innovation | Public and private collaboration in innovation]]
+- [[mission_setting_and_implementation_strategies | Mission setting and implementation strategies]]
+- [[evaluation_and_metrics_in_missionoriented_policy | Evaluation and metrics in missionoriented policy]]
 
 ### [Building inclusive societies: The importance of co-creation | GovBeyondRecovery](https://www.youtube.com/watch?v=Lnlcx18Qazs)
-- [[importance_of_cocreation_in_public_policy | Importance of cocreation in public policy]]
-- [[strategies_for_stakeholder_engagement_in_public_administration | Strategies for stakeholder engagement in public administration]]
-- [[building_effective_innovation_communities_in_public_services | Building effective innovation communities in public services]]
-- [[challenges_and_benefits_of_participatory_processes | Challenges and benefits of participatory processes]]
-- [[tools_and_approaches_for_implementing_cocreation_in_public_sector | Tools and approaches for implementing cocreation in public sector]]
+- [[cocreation_with_stakeholders | cocreation with stakeholders]]
+- [[inclusive_society_development | inclusive society development]]
+- [[public_administration_transformation | public administration transformation]]
+- [[participatory_processes_and_governance | participatory processes and governance]]
+- [[innovative_public_service_design | innovative public service design]]
 
-### [Systemic Perspectives and the Covid-19 Crisis | OECD OPSI Webinar | 25 June 2020](https://www.youtube.com/watch?v=MBLElwLnM4w)
-- [[systemic_approaches_during_covid19_crisis | Systemic approaches during Covid19 crisis]]
-- [[challenges_faced_by_governments_in_the_covid19_crisis | Challenges faced by governments in the Covid19 crisis]]
-- [[role_of_systems_thinking_in_crisis_management | Role of systems thinking in crisis management]]
-- [[innovative_government_responses_to_the_crisis | Innovative government responses to the crisis]]
-- [[impacts_and_vulnerabilities_revealed_by_covid19 | Impacts and vulnerabilities revealed by Covid19]]
+### [Fit in the Future | OECD OPSI Webinar | 21 September 2021](https://www.youtube.com/watch?v=aF4RWXBuGI0)
+- [[anticipatory_innovation_and_public_sector | Anticipatory Innovation and Public Sector]]
+- [[role_of_strategic_foresight_in_policy_making | Role of Strategic Foresight in Policy Making]]
+- [[challenges_and_opportunities_in_public_sector_innovation | Challenges and Opportunities in Public Sector Innovation]]
+- [[organizational_habits_and_futures_thinking | Organizational Habits and Futures Thinking]]
+- [[experimentation_and_policy_prototyping | Experimentation and Policy Prototyping]]
 
 ### [Managing innovation in the public sector: From ecosystems & portfolios to action | GovBeyondRecovery](https://www.youtube.com/watch?v=W9xL8ZgZX-o)
-- [[innovation_portfolio_management_in_the_public_sector | Innovation portfolio management in the public sector]]
-- [[challenges_of_funding_innovation_portfolios | Challenges of funding innovation portfolios]]
-- [[role_of_ecosystems_in_public_sector_innovation | Role of ecosystems in public sector innovation]]
-- [[strategic_decisionmaking_in_complex_systems | Strategic decisionmaking in complex systems]]
-- [[bridging_traditional_planning_with_modern_innovation_approaches | Bridging traditional planning with modern innovation approaches]]
+- [[innovation_portfolios_in_the_public_sector | Innovation portfolios in the public sector]]
+- [[ecosystems_and_multistakeholder_collaboration | Ecosystems and multistakeholder collaboration]]
+- [[challenges_in_public_sector_innovation_funding | Challenges in public sector innovation funding]]
+- [[portfolio_management_versus_project_management | Portfolio management versus project management]]
+- [[role_of_public_bodies_in_steering_ecosystems | Role of public bodies in steering ecosystems]]
 
-### [#GovAfterShock | Nudging government throughout the crisis: how to change behaviours beyond 2020](https://www.youtube.com/watch?v=AVRS-x9mS7E)
-- [[role_of_behavioral_science_in_government | Role of behavioral science in government]]
-- [[behavioral_change_during_covid19 | Behavioral change during COVID19]]
-- [[collaborations_in_behavioral_science | Collaborations in behavioral science]]
-- [[implementing_behavioral_insights_in_public_policy | Implementing behavioral insights in public policy]]
-- [[empirical_evidence_in_behavioral_science | Empirical evidence in behavioral science]]
+### [Systemic Perspectives and the Covid-19 Crisis | OECD OPSI Webinar | 25 June 2020](https://www.youtube.com/watch?v=MBLElwLnM4w)
+- [[systems_thinking_in_government_during_crises | Systems thinking in government during crises]]
+- [[impact_of_covid19_on_public_governance_and_policy | Impact of Covid19 on public governance and policy]]
+- [[realtime_learning_and_adaptation_in_government | Realtime learning and adaptation in government]]
+- [[economic_repercussions_and_inequality_from_covid19 | Economic repercussions and inequality from Covid19]]
+- [[redesign_of_regulations_and_inspections_in_public_safety | Redesign of regulations and inspections in public safety]]
+
+### [Launch: An international effort using behavioural science to tackle the spread of misinformation](https://www.youtube.com/watch?v=soQN97fWlxQ)
+- [[behavioral_science_and_misinformation | Behavioral science and misinformation]]
+- [[international_collaboration_on_misinformation | International collaboration on misinformation]]
+- [[policy_implications_for_tackling_misinformation | Policy implications for tackling misinformation]]
+- [[digital_media_literacy_tips | Digital media literacy tips]]
+- [[challenges_in_misinformation_sharing_and_belief | Challenges in misinformation sharing and belief]]
+
+### [Mission Oriented Innovation Refresher | OECD OPSI & IIPP UCL Webinar | 26 Jan 2021](https://www.youtube.com/watch?v=PMeGhXxyupE)
+- [[mission_oriented_innovation | Mission oriented innovation]]
+- [[mission_setting_and_policy_making | Mission setting and policy making]]
+- [[roles_and_challenges_in_public_sector_innovation | Roles and challenges in public sector innovation]]
+- [[engagement_with_civil_society | Engagement with civil society]]
+- [[mission_oriented_innovation_strategies_and_practices | Mission oriented innovation strategies and practices]]
 
 ### [What are the different kinds of public sector innovation?](https://www.youtube.com/watch?v=xktgrzeTePI)
-- [[directed_and_nondirected_innovation | Directed and nondirected innovation]]
-- [[missionoriented_innovation | Missionoriented innovation]]
-- [[adaptive_innovation | Adaptive innovation]]
-- [[anticipatory_innovation | Anticipatory innovation]]
-- [[enhancementoriented_innovation | Enhancementoriented innovation]]
+- [[directed_purpose_field_activity_in_innovation | Directed purpose field activity in innovation]]
+- [[exploration_and_adaptive_innovation | Exploration and adaptive innovation]]
+- [[anticipatory_innovation_in_public_sector | Anticipatory innovation in public sector]]
+- [[enhancement_oriented_innovation_in_government | Enhancement oriented innovation in government]]
+
+### [#GovAfterShock | Nudging government throughout the crisis: how to change behaviours beyond 2020](https://www.youtube.com/watch?v=AVRS-x9mS7E)
+- [[role_of_behavioral_science_in_government_policy | Role of behavioral science in government policy]]
+- [[behavior_change_in_response_to_covid19 | Behavior change in response to COVID19]]
+- [[importance_of_empirical_evidence_and_experimentation | Importance of empirical evidence and experimentation]]
+- [[behavioral_insights_in_public_health_and_pandemic_response | Behavioral insights in public health and pandemic response]]
+- [[international_collaboration_in_behavioral_science | International collaboration in behavioral science]]
 
 ### [Launch | Anticipatory Innovation Governance Model in Finland: Towards a New Way of Governing](https://www.youtube.com/watch?v=ePLHMLjxjxI)
 - [[anticipatory_innovation_governance_in_finland | Anticipatory Innovation Governance in Finland]]
 - [[public_sector_resilience_and_transformation | Public Sector Resilience and Transformation]]
-- [[role_of_foresight_in_policymaking | Role of Foresight in Policymaking]]
+- [[role_of_citizens_in_anticipatory_approaches | Role of Citizens in Anticipatory Approaches]]
 - [[international_collaboration_on_governance_innovation | International Collaboration on Governance Innovation]]
-- [[citizen_participation_in_anticipatory_governance | Citizen Participation in Anticipatory Governance]]
+- [[challenges_and_future_prospects_in_european_governance | Challenges and Future Prospects in European Governance]]
 
-### [#GovAfterShock: Building a collective learning exercise | OECD OPSI Webinar | 9 December 2020](https://www.youtube.com/watch?v=t8dJdL0Wyw8)
-- [[government_innovation_during_covid19 | Government innovation during COVID19]]
-- [[collaboration_and_public_sector_partnerships | Collaboration and public sector partnerships]]
-- [[digital_transformation_in_government | Digital transformation in government]]
-- [[trust_and_transparency_in_public_governance | Trust and transparency in public governance]]
-- [[inclusive_policy_priorities_and_societal_challenges | Inclusive policy priorities and societal challenges]]
-
-### [Public sector skills for the Future | GovBeyondRecovery](https://www.youtube.com/watch?v=kzLQf-xIEUM)
-- [[future_skills_in_the_public_sector | Future skills in the public sector]]
-- [[talent_management_in_multigenerational_workforces | Talent management in multigenerational workforces]]
-- [[impact_of_covid19_on_public_sector_management | Impact of COVID19 on public sector management]]
-- [[digital_transformation_in_public_administration | Digital transformation in public administration]]
-- [[the_role_of_trust_and_leadership_in_public_service | The role of trust and leadership in public service]]
-
-### [Making Innovative Public Sector Organisations | OECD OPSI Webinar | 08 July 2020](https://www.youtube.com/watch?v=K0p-fDKUzsc)
-- [[public_sector_innovation_strategies | Public sector innovation strategies]]
-- [[innovation_in_intellectual_property_organizations | Innovation in intellectual property organizations]]
-- [[role_of_leadership_in_public_sector_innovation | Role of leadership in public sector innovation]]
-- [[managing_risk_and_experimentation_in_government | Managing risk and experimentation in government]]
-- [[adapting_to_crisis_with_innovative_approaches | Adapting to crisis with innovative approaches]]
-
-### [Improving lives through innovation in public services](https://www.youtube.com/watch?v=crvQEbcCaTg)
-- [[innovation_in_public_services | Innovation in public services]]
-- [[digital_transformation_and_inclusion_in_government_services | Digital transformation and inclusion in government services]]
-- [[humancentric_public_administration | Humancentric public administration]]
-- [[crossborder_collaboration_in_public_services | Crossborder collaboration in public services]]
-- [[building_trust_in_public_services | Building trust in public services]]
-
-### [What is adaptive innovation?](https://www.youtube.com/watch?v=dPkUBK0Y-jo)
-- [[understanding_adaptive_innovation | Understanding adaptive innovation]]
-- [[the_discovery_process_in_innovation | The discovery process in innovation]]
-- [[role_of_adaptive_innovation_in_government_services | Role of adaptive innovation in government services]]
-- [[bottom_up_approach_to_innovation | Bottom up approach to innovation]]
-- [[adaptive_innovation_examples_in_regulatory_systems | Adaptive innovation examples in regulatory systems]]
+### [Futures of the Public Sector | Anticipatory Innovation Governance Workshop Pt. 2](https://www.youtube.com/watch?v=nciiu-6YISM)
+- [[anticipatory_innovation_and_governance | Anticipatory innovation and governance]]
+- [[agility_and_transformation_in_the_public_sector | Agility and transformation in the public sector]]
+- [[future_scenarios_and_strategic_foresight | Future scenarios and strategic foresight]]
+- [[design_thinking_and_humancentered_design | Design thinking and humancentered design]]
+- [[public_sector_and_technology_integration | Public sector and technology integration]]
 
 ### [Anticipation to bold missions: Shaping the future through missions and anticipation](https://www.youtube.com/watch?v=nNEvchGUlhg)
-- [[missions_and_public_sector_innovation | Missions and public sector innovation]]
-- [[covid19_recovery_and_future_missions | Covid19 recovery and future missions]]
-- [[climate_and_environmental_missions_in_the_european_union | Climate and environmental missions in the European Union]]
-- [[missionoriented_approaches_and_cocreation | Missionoriented approaches and cocreation]]
-- [[evaluating_mission_success_and_handling_failure | Evaluating mission success and handling failure]]
+- [[missionoriented_innovation_and_its_role_in_transformative_change | Missionoriented innovation and its role in transformative change]]
+- [[integration_of_strategic_foresight_in_mission_development | Integration of strategic foresight in mission development]]
+- [[collaborative_governance_and_breaking_silos_in_mission_implementation | Collaborative governance and breaking silos in mission implementation]]
+- [[balancing_technological_and_behavioral_changes_in_mission_execution | Balancing technological and behavioral changes in mission execution]]
+- [[youth_and_intergenerational_justice_in_shaping_future_missions | Youth and intergenerational justice in shaping future missions]]
 
 ### [#GovAftershock | Waking up to a new reality: what a pandemic tells about the practice of government](https://www.youtube.com/watch?v=pXVXvBXJ4tc)
-- [[pandemic_impact_on_government_practices | Pandemic impact on government practices]]
-- [[digitalization_of_government_services | Digitalization of government services]]
-- [[effective_communication_and_citizen_trust_in_crisis | Effective communication and citizen trust in crisis]]
-- [[intergovernmental_and_crosssectoral_collaboration | Intergovernmental and crosssectoral collaboration]]
-- [[role_of_innovation_in_public_administration | Role of innovation in public administration]]
+- [[impact_of_pandemic_on_government_practice | Impact of pandemic on government practice]]
+- [[digitalization_and_government_services | Digitalization and government services]]
+- [[citizen_trust_and_public_communication | Citizen trust and public communication]]
+- [[intergovernmental_cooperation_and_policy_integration | Intergovernmental cooperation and policy integration]]
+- [[challenges_and_opportunities_in_public_administration | Challenges and opportunities in public administration]]
 
-### [Fixing Frictions: 'Sludge audits' around the world](https://www.youtube.com/watch?v=O5fQX2Wz8T0)
-- [[sludge_audits_and_their_impact_on_government_services | Sludge audits and their impact on government services]]
-- [[behavioral_science_in_policy_making | Behavioral science in policy making]]
-- [[challenges_and_solutions_in_public_service_delivery | Challenges and solutions in public service delivery]]
-- [[international_collaboration_on_sludge_reduction | International collaboration on sludge reduction]]
-- [[tools_and_methodologies_for_sludge_audits | Tools and methodologies for sludge audits]]
+### [Improving lives through innovation in public services](https://www.youtube.com/watch?v=crvQEbcCaTg)
+- [[humancentered_design_in_public_services | Humancentered design in public services]]
+- [[digital_transformation_and_inclusion_in_public_services | Digital transformation and inclusion in public services]]
+- [[innovation_in_public_service_delivery | Innovation in public service delivery]]
+- [[international_collaboration_in_government_innovation | International collaboration in government innovation]]
+- [[building_trust_through_effective_public_administration | Building trust through effective public administration]]
 
-### [How to integrate Strategic Foresight into your Organisation: Blueprint from Flanders](https://www.youtube.com/watch?v=mlZZNrCPJvM)
-- [[integrating_strategic_foresight_into_organization_and_governance | Integrating strategic foresight into organization and governance]]
-- [[strategic_foresight_tools_and_methods | Strategic foresight tools and methods]]
-- [[building_a_culture_of_anticipation_and_resilience | Building a culture of anticipation and resilience]]
-- [[collaborative_approaches_in_foresight | Collaborative approaches in foresight]]
-- [[measuring_the_impact_of_strategic_foresight_in_decision_making | Measuring the impact of strategic foresight in decision making]]
+### [What is adaptive innovation?](https://www.youtube.com/watch?v=dPkUBK0Y-jo)
+- [[adaptive_innovation | adaptive innovation]]
+- [[discovery_process_in_innovation | discovery process in innovation]]
+- [[bottomup_innovation | bottomup innovation]]
+- [[transformative_and_enhancement_oriented_innovation | transformative and enhancement oriented innovation]]
+- [[innovations_in_regulatory_systems | innovations in regulatory systems]]
 
-### [Noise and AI: Behavioural Science meet-up with Professor Olivier Sibony](https://www.youtube.com/watch?v=VJES_jPWf70)
-- [[intersection_of_ai_and_behavioral_science | Intersection of AI and Behavioral Science]]
-- [[impact_of_ai_on_human_decision_making | Impact of AI on Human Decision Making]]
-- [[types_of_ai_and_their_similarity_to_human_thinking | Types of AI and their Similarity to Human Thinking]]
-- [[challenges_and_issues_with_trusting_ai_in_decision_making | Challenges and Issues with Trusting AI in Decision Making]]
-- [[algorithmic_bias_and_its_implications | Algorithmic Bias and its Implications]]
+### [Making Innovative Public Sector Organisations | OECD OPSI Webinar | 08 July 2020](https://www.youtube.com/watch?v=K0p-fDKUzsc)
+- [[innovative_approaches_in_public_sector_organizations | Innovative approaches in public sector organizations]]
+- [[challenges_and_strategies_in_implementing_innovation | Challenges and strategies in implementing innovation]]
+- [[role_of_leadership_in_fostering_innovation | Role of leadership in fostering innovation]]
+- [[partnerships_between_public_sector_and_private_sector_for_innovation | Partnerships between public sector and private sector for innovation]]
+- [[impact_of_crisis_management_on_innovation | Impact of crisis management on innovation]]
 
-### [Changing the relationship between government & citizens through democratic innovations](https://www.youtube.com/watch?v=KZoiRGIwGdo)
-- [[democratic_innovations_and_citizen_participation | Democratic innovations and citizen participation]]
-- [[citizen_assemblies_and_representation | Citizen assemblies and representation]]
-- [[power_dynamics_between_government_and_citizens | Power dynamics between government and citizens]]
-- [[the_impact_of_digital_spaces_on_democracy | The impact of digital spaces on democracy]]
-- [[evaluating_the_conference_on_the_future_of_europe | Evaluating the Conference on the Future of Europe]]
-
-### [Orchestrating Innovation Ecosystems | OECD OPSI Webinar | 4 November 2021](https://www.youtube.com/watch?v=vZJe7u2wYI0)
-- [[innovation_ecosystems | Innovation Ecosystems]]
-- [[biophony_and_ecosystems | Biophony and Ecosystems]]
-- [[challenges_in_building_innovation_ecosystems | Challenges in Building Innovation Ecosystems]]
-- [[stakeholder_engagement_in_innovation | Stakeholder Engagement in Innovation]]
-- [[skills_and_approaches_for_innovation_ecosystems | Skills and Approaches for Innovation Ecosystems]]
-
-### [#GovAfterShock | Lessons from 2020: Views from the After Shock Dialogues Network](https://www.youtube.com/watch?v=9wQqZjxaqJc)
-- [[public_sector_innovation_during_covid19 | public sector innovation during COVID19]]
-- [[importance_of_radical_listening_in_government | importance of radical listening in government]]
-- [[political_coalitions_and_public_policy | political coalitions and public policy]]
-- [[utilizing_and_liberating_talent_in_government | utilizing and liberating talent in government]]
-- [[learning_from_global_responses_to_the_pandemic | learning from global responses to the pandemic]]
-
-### [Behavioural Science and Misinformation | OECD Meet-up | 1 june 2021](https://www.youtube.com/watch?v=IUItMNuR23s)
-- [[behavioral_science_in_combating_misinformation | Behavioral science in combating misinformation]]
-- [[role_of_social_media_algorithms_in_misinformation | Role of social media algorithms in misinformation]]
-- [[challenges_of_debunking_myths_in_online_spaces | Challenges of debunking myths in online spaces]]
-- [[impact_of_misinformation_on_public_health_behaviors | Impact of misinformation on public health behaviors]]
-- [[government_and_media_trust_in_misinformation_contexts | Government and media trust in misinformation contexts]]
-
-### [#GovAfterShock | Building back better, together: reaffirming the role of citizen-centred governance](https://www.youtube.com/watch?v=iQgk7zFoN7I)
-- [[citizen_centered_governance_and_its_challenges_during_crises | Citizen centered governance and its challenges during crises]]
-- [[the_role_of_digital_and_virtual_platforms_in_public_engagement | The role of digital and virtual platforms in public engagement]]
-- [[collaboration_between_governments_and_civil_society_organizations | Collaboration between governments and civil society organizations]]
-- [[lessons_learned_from_the_covid19_pandemic_for_future_governance_strategies | Lessons learned from the COVID19 pandemic for future governance strategies]]
-- [[addressing_misinformation_and_improving_communication_between_citizens_and_governments | Addressing misinformation and improving communication between citizens and governments]]
+### [#GovAfterShock: Building a collective learning exercise | OECD OPSI Webinar | 9 December 2020](https://www.youtube.com/watch?v=t8dJdL0Wyw8)
+- [[role_of_government_after_covid19 | Role of Government after COVID19]]
+- [[collaborative_learning_and_innovation_in_government | Collaborative Learning and Innovation in Government]]
+- [[digital_transformation_and_data_governance | Digital Transformation and Data Governance]]
+- [[trust_and_transparency_in_public_policy | Trust and Transparency in Public Policy]]
+- [[future_of_government_anticipation_and_systems_thinking | Future of Government Anticipation and Systems Thinking]]
 
 ### [#GovAfterShock | The Future of Public Employment](https://www.youtube.com/watch?v=zFfSrTvgeis)
-- [[future_of_public_employment | Future of public employment]]
-- [[impact_of_covid19_on_government_roles | Impact of COVID19 on government roles]]
+- [[impact_of_the_pandemic_on_public_employment | Impact of the pandemic on public employment]]
 - [[remote_work_in_public_sector | Remote work in public sector]]
-- [[challenges_and_opportunities_in_public_sector_reform | Challenges and opportunities in public sector reform]]
-- [[crossagency_collaboration_in_crisis_management | Crossagency collaboration in crisis management]]
+- [[resilience_and_agility_in_government | Resilience and agility in government]]
+- [[leadership_and_collaboration_in_public_service | Leadership and collaboration in public service]]
+- [[future_challenges_and_opportunities_in_public_administration | Future challenges and opportunities in public administration]]
+
+### [Changing the relationship between government & citizens through democratic innovations](https://www.youtube.com/watch?v=KZoiRGIwGdo)
+- [[democratic_innovations_and_citizen_engagement | Democratic innovations and citizen engagement]]
+- [[trust_and_power_in_citizengovernment_relationships | Trust and power in citizengovernment relationships]]
+- [[role_of_deliberative_democracy_and_citizens_assemblies | Role of deliberative democracy and citizens assemblies]]
+- [[impact_and_accountability_in_participatory_processes | Impact and accountability in participatory processes]]
+- [[cultural_change_and_medias_role_in_shaping_democracy | Cultural change and medias role in shaping democracy]]
+
+### [Fixing Frictions: 'Sludge audits' around the world](https://www.youtube.com/watch?v=O5fQX2Wz8T0)
+- [[sludge_audits_and_their_global_impact | Sludge audits and their global impact]]
+- [[behavioral_insights_in_public_administration | Behavioral insights in public administration]]
+- [[reducing_psychological_costs_in_government_services | Reducing psychological costs in government services]]
+- [[equity_and_accessibility_in_public_service_delivery | Equity and accessibility in public service delivery]]
+- [[international_collaboration_on_sludge_reduction | International collaboration on sludge reduction]]
+
+### [Orchestrating Innovation Ecosystems | OECD OPSI Webinar | 4 November 2021](https://www.youtube.com/watch?v=vZJe7u2wYI0)
+- [[biophony_and_ecosystem_health_indicators | Biophony and ecosystem health indicators]]
+- [[building_and_orchestrating_innovation_ecosystems | Building and orchestrating innovation ecosystems]]
+- [[anticipatory_innovation_and_futures_thinking | Anticipatory innovation and futures thinking]]
+- [[roles_and_relationships_in_systems_change | Roles and relationships in systems change]]
+- [[trust_and_coordination_in_multistakeholder_partnerships | Trust and coordination in multistakeholder partnerships]]
+
+### [Noise and AI: Behavioural Science meet-up with Professor Olivier Sibony](https://www.youtube.com/watch?v=VJES_jPWf70)
+- [[ai_in_decision_making | AI in decision making]]
+- [[human_biases_and_judgment | Human biases and judgment]]
+- [[noise_and_variability_in_human_decisions | Noise and variability in human decisions]]
+- [[algorithmic_decision_aids | Algorithmic decision aids]]
+- [[challenges_of_trusting_ai_over_human_judgment | Challenges of trusting AI over human judgment]]
+
+### [#GovAfterShock | Lessons from 2020: Views from the After Shock Dialogues Network](https://www.youtube.com/watch?v=9wQqZjxaqJc)
+- [[government_innovation_during_covid19 | Government innovation during COVID19]]
+- [[public_sector_challenges_and_transformations | Public sector challenges and transformations]]
+- [[the_role_of_radical_listening_in_governance | The role of radical listening in governance]]
+- [[impact_of_global_crises_on_public_policy | Impact of global crises on public policy]]
+- [[the_evolving_nature_of_leadership_in_times_of_crisis | The evolving nature of leadership in times of crisis]]
+
+### [#GovAfterShock | Building back better, together: reaffirming the role of citizen-centred governance](https://www.youtube.com/watch?v=iQgk7zFoN7I)
+- [[citizencentered_governance_and_engagement | Citizencentered governance and engagement]]
+- [[government_responses_to_covid19_and_lessons_learned | Government responses to COVID19 and lessons learned]]
+- [[the_role_of_civil_society_in_crisis_management | The role of civil society in crisis management]]
+- [[digital_and_virtual_engagement_for_effective_citizen_participation | Digital and virtual engagement for effective citizen participation]]
+- [[public_sector_innovation_and_crosssector_collaboration | Public sector innovation and crosssector collaboration]]
+
+### [Behavioural Science and Misinformation | OECD Meet-up | 1 june 2021](https://www.youtube.com/watch?v=IUItMNuR23s)
+- [[behavioral_science_applications_in_combating_misinformation | Behavioral science applications in combating misinformation]]
+- [[the_impact_of_misinformation_on_public_health_behaviors | The impact of misinformation on public health behaviors]]
+- [[challenges_in_addressing_misinformation_in_different_contexts | Challenges in addressing misinformation in different contexts]]
+- [[the_role_of_social_media_platforms_in_spreading_misinformation | The role of social media platforms in spreading misinformation]]
+- [[interventions_and_strategies_to_reduce_misinformation | Interventions and strategies to reduce misinformation]]
+
+### [How to integrate Strategic Foresight into your Organisation: Blueprint from Flanders](https://www.youtube.com/watch?v=mlZZNrCPJvM)
+- [[integrating_strategic_foresight_into_government_organizations | Integrating strategic foresight into government organizations]]
+- [[understanding_and_utilizing_strategic_foresight | Understanding and utilizing strategic foresight]]
+- [[the_role_of_partnerships_and_networks_in_foresight_practices | The role of partnerships and networks in foresight practices]]
+- [[challenges_and_solutions_in_foresight_implementation | Challenges and solutions in foresight implementation]]
+- [[evidenceinformed_policymaking_using_strategic_foresight | Evidenceinformed policymaking using strategic foresight]]
+
+### [Public sector skills for the Future | GovBeyondRecovery](https://www.youtube.com/watch?v=kzLQf-xIEUM)
+- [[skills_for_the_future_in_the_public_sector | Skills for the future in the public sector]]
+- [[talent_management_in_multigenerational_workforces | Talent management in multigenerational workforces]]
+- [[leadership_and_management_changes_postcovid | Leadership and management changes postCOVID]]
+- [[adapting_public_administration_for_digital_transformation | Adapting public administration for digital transformation]]
+- [[public_versus_private_sector_skills_and_constraints | Public versus private sector skills and constraints]]
 
 ### [OECD Co-Creation Bootcamp - Improving Civic Participation with Emerging Technologies (Lisbon, 2025)](https://www.youtube.com/watch?v=uqBisojxi-o)
-- [[cocreation_bootcamp_for_civic_participation | Cocreation bootcamp for civic participation]]
-- [[emerging_technologies_in_civic_engagement | Emerging technologies in civic engagement]]
-- [[design_sprint_process_for_developing_solutions | Design sprint process for developing solutions]]
-- [[prototyping_ideas_in_civic_tech | Prototyping ideas in civic tech]]
-- [[collaborative_approaches_in_public_sector_innovation | Collaborative approaches in public sector innovation]]
-
-### [#GovAfterShock | Sustaining public sector transformation beyond crisis](https://www.youtube.com/watch?v=Xu1HMWtA7iA)
-- [[sustaining_public_sector_transformation_beyond_crisis | Sustaining public sector transformation beyond crisis]]
-- [[government_innovation_and_collaboration_postpandemic | Government innovation and collaboration postpandemic]]
-- [[challenges_and_opportunities_in_public_sector_reform | Challenges and opportunities in public sector reform]]
-- [[impact_of_crisis_on_public_trust_and_governance | Impact of crisis on public trust and governance]]
-- [[future_of_work_and_technology_in_government_services | Future of work and technology in government services]]
+- [[civic_participation_challenges | Civic participation challenges]]
+- [[emerging_technologies_in_governance | Emerging technologies in governance]]
+- [[cocreation_process_with_oecd | Cocreation process with OECD]]
+- [[prototype_development_in_civic_innovation | Prototype development in civic innovation]]
+- [[inclusive_and_accessible_democratic_participation | Inclusive and accessible democratic participation]]
 
 ### [Back to Basics: The business case & building blocks for public sector innovation | OPSI Webinar](https://www.youtube.com/watch?v=G53g9-_0dMU)
 - [[public_sector_innovation_fundamentals | Public sector innovation fundamentals]]
-- [[government_innovation_strategies | Government innovation strategies]]
-- [[challenges_in_implementing_innovation | Challenges in implementing innovation]]
-- [[role_of_regulation_in_innovation | Role of regulation in innovation]]
-- [[building_networks_for_innovation | Building networks for innovation]]
+- [[challenges_of_government_innovation | Challenges of government innovation]]
+- [[innovation_strategies_during_covid19_recovery | Innovation strategies during COVID19 recovery]]
+- [[engaging_stakeholders_in_innovation | Engaging stakeholders in innovation]]
+- [[building_and_supporting_innovation_networks | Building and supporting innovation networks]]
+
+### [#GovAfterShock | Sustaining public sector transformation beyond crisis](https://www.youtube.com/watch?v=Xu1HMWtA7iA)
+- [[public_sector_transformation_postcrisis | Public sector transformation postcrisis]]
+- [[citizen_trust_and_its_impact_on_governance | Citizen trust and its impact on governance]]
+- [[digitalization_and_remote_work_in_government | Digitalization and remote work in government]]
+- [[challenges_in_public_administration_and_systemic_reform | Challenges in public administration and systemic reform]]
+- [[budgeting_and_financing_public_sector_innovation | Budgeting and financing public sector innovation]]
 
 ### [Innovation through Cross-Border Collaboration: Achieving Global Public Goods | GovBeyondRecovery](https://www.youtube.com/watch?v=AaZxjsIoXE0)
-- [[crossborder_collaboration_in_public_sector_innovation | Crossborder collaboration in public sector innovation]]
-- [[challenges_and_success_factors_in_crossborder_governance | Challenges and success factors in crossborder governance]]
-- [[the_role_of_trust_and_cultural_understanding_in_international_cooperation | The role of trust and cultural understanding in international cooperation]]
-- [[building_skills_for_government_collaboration_beyond_national_borders | Building skills for government collaboration beyond national borders]]
-- [[addressing_uncertainty_in_global_collaborations | Addressing uncertainty in global collaborations]]
+- [[crossborder_government_innovation | Crossborder government innovation]]
+- [[challenges_and_strategies_for_global_collaboration | Challenges and strategies for global collaboration]]
+- [[role_of_cultural_understanding_in_innovation | Role of cultural understanding in innovation]]
+- [[governance_structures_for_crossborder_cooperation | Governance structures for crossborder cooperation]]
+- [[public_sector_skills_for_international_collaboration | Public sector skills for international collaboration]]
+
+### [#GovAfterShock | Data Governance for a Digitally-Enabled State](https://www.youtube.com/watch?v=-rZPlTVH90c)
+- [[data_governance_and_digitallyenabled_state | Data governance and digitallyenabled state]]
+- [[public_sector_data_use_and_transformation | Public sector data use and transformation]]
+- [[publicprivate_partnerships_for_data_sharing | Publicprivate partnerships for data sharing]]
+- [[covid19_contact_tracing_and_data_privacy | COVID19 contact tracing and data privacy]]
+- [[ethical_use_and_protection_of_personal_data | Ethical use and protection of personal data]]
 
 ### [Webinar: Getting Started with Anticipatory Innovation in the Public Sector](https://www.youtube.com/watch?v=0IGDlBzi51E)
 - [[anticipatory_innovation_in_the_public_sector | Anticipatory Innovation in the Public Sector]]
-- [[challenges_and_strategies_for_implementing_anticipatory_innovation | Challenges and Strategies for Implementing Anticipatory Innovation]]
-- [[role_of_civil_servants_in_anticipatory_innovation | Role of Civil Servants in Anticipatory Innovation]]
-- [[incorporating_values_in_anticipatory_innovation | Incorporating Values in Anticipatory Innovation]]
-- [[toolkit_for_anticipatory_innovation | Toolkit for Anticipatory Innovation]]
-
-### [#GovAfterShock | Data Governance for a Digitally-Enabled State](https://www.youtube.com/watch?v=-rZPlTVH90c)
-- [[data_governance_for_public_sector_innovation | Data governance for public sector innovation]]
-- [[challenges_and_strategies_for_digital_transformation_in_government | Challenges and strategies for digital transformation in government]]
-- [[the_role_of_data_in_crisis_management_and_resilience_building | The role of data in crisis management and resilience building]]
-- [[ethical_considerations_and_trust_in_data_usage | Ethical considerations and trust in data usage]]
-- [[international_cooperation_and_data_standards | International cooperation and data standards]]
-
-### [#GovAfterShock | Global Trends 2020 launch & insights from the edge](https://www.youtube.com/watch?v=AnzeOMuCrhY)
-- [[public_sector_innovation_and_global_trends | Public sector innovation and global trends]]
-- [[government_responses_to_covid19_and_innovation | Government responses to COVID19 and innovation]]
-- [[seamless_government_practices_and_challenges | Seamless government practices and challenges]]
-- [[importance_of_empowering_women_and_local_communities | Importance of empowering women and local communities]]
-- [[ai_literacy_and_education_for_public_policy | AI literacy and education for public policy]]
-
-### [Enhancement Oriented Innovation Workshop | OECD OPSI Webinar | 11 May 2021](https://www.youtube.com/watch?v=wOjyRDb2XFM)
-- [[public_sector_innovation | public sector innovation]]
-- [[enhancementoriented_innovation | enhancementoriented innovation]]
-- [[digital_tools_for_communication_in_public_services | digital tools for communication in public services]]
-- [[behavioral_insights_in_public_policy | behavioral insights in public policy]]
-- [[quality_management_in_city_administration | quality management in city administration]]
-
-### [Innovation Portfolio Exploration Tool | OECD OPSI Webinar | 13 Oct 2020](https://www.youtube.com/watch?v=BPKd6C_mchk)
-- [[portfolio_exploration_for_public_sector_innovation | portfolio exploration for public sector innovation]]
-- [[types_of_innovation_within_public_sector_organizations | types of innovation within public sector organizations]]
-- [[innovation_portfolio_management_and_its_challenges | innovation portfolio management and its challenges]]
-- [[role_and_development_of_innovation_tools_for_government | role and development of innovation tools for government]]
-- [[collaboration_and_innovation_in_public_sector | collaboration and innovation in public sector]]
-
-### [#GovAfterShock | Charting a way out of complexity: Portfolios, Systems and Anticipation](https://www.youtube.com/watch?v=xuIBl-XBMLs)
-- [[complexity_in_governance | Complexity in governance]]
-- [[systems_thinking_in_policymaking | Systems thinking in policymaking]]
-- [[anticipatory_innovation_and_foresight | Anticipatory innovation and foresight]]
-- [[goalbased_regulation_and_adaptive_policies | Goalbased regulation and adaptive policies]]
-- [[publicprivate_partnerships_in_innovation | Publicprivate partnerships in innovation]]
+- [[barriers_to_getting_started_with_anticipatory_innovation | Barriers to Getting Started with Anticipatory Innovation]]
+- [[role_of_strategic_foresight_in_anticipatory_innovation | Role of Strategic Foresight in Anticipatory Innovation]]
+- [[developing_and_implementing_an_anticipatory_innovation_starter_kit | Developing and Implementing an Anticipatory Innovation Starter Kit]]
+- [[engaging_political_actors_and_incorporating_values_in_foresight_processes | Engaging Political Actors and Incorporating Values in Foresight Processes]]
 
 ### [Soft Launch: Digital version of the OECD Innovation Playbook](https://www.youtube.com/watch?v=T_NriD-Fur4)
-- [[oecd_declaration_on_public_sector_innovation | OECD Declaration on Public Sector Innovation]]
-- [[digital_innovation_playbook | Digital Innovation Playbook]]
-- [[innovation_in_public_sector | Innovation in Public Sector]]
+- [[oecd_innovation_playbook_digital_version_introduction | OECD Innovation Playbook digital version introduction]]
+- [[principles_of_public_sector_innovation | Principles of public sector innovation]]
 - [[cocreation_and_international_collaboration | Cocreation and international collaboration]]
-- [[public_service_skills_and_development | Public Service Skills and Development]]
+- [[innovation_challenges_and_strategies | Innovation challenges and strategies]]
+- [[feedback_and_iterative_improvement_process | Feedback and iterative improvement process]]
+
+### [Innovation Portfolio Exploration Tool | OECD OPSI Webinar | 13 Oct 2020](https://www.youtube.com/watch?v=BPKd6C_mchk)
+- [[innovation_portfolio_management | Innovation Portfolio Management]]
+- [[types_of_innovation_missionoriented_enhancement_adaptive_anticipatory | Types of Innovation MissionOriented Enhancement Adaptive Anticipatory]]
+- [[applications_of_portfolio_exploration_tool | Applications of Portfolio Exploration Tool]]
+- [[challenges_in_managing_innovation_within_public_sector_organizations | Challenges in Managing Innovation within Public Sector Organizations]]
+- [[realworld_case_studies_natural_resources_wales_and_city_of_lund | RealWorld Case Studies Natural Resources Wales and City of Lund]]
+
+### [#GovAfterShock | Charting a way out of complexity: Portfolios, Systems and Anticipation](https://www.youtube.com/watch?v=xuIBl-XBMLs)
+- [[systems_thinking_and_anticipatory_innovation_governance | Systems thinking and anticipatory innovation governance]]
+- [[government_role_in_managing_uncertainty_and_complexity | Government role in managing uncertainty and complexity]]
+- [[innovation_portfolios_and_systemic_solutions | Innovation portfolios and systemic solutions]]
+- [[goalbased_regulation_in_digital_transformation | Goalbased regulation in digital transformation]]
+- [[adapting_science_and_technology_for_societal_challenges | Adapting science and technology for societal challenges]]
+
+### [Building agile regulations for an uncertain future | GovBeyondRecovery](https://www.youtube.com/watch?v=zJARyL_79Io)
+- [[agile_regulatory_governance | Agile regulatory governance]]
+- [[impacts_of_technological_change_on_regulation | Impacts of technological change on regulation]]
+- [[collaboration_between_government_and_industry | Collaboration between government and industry]]
+- [[regulatory_sandboxes_and_innovation | Regulatory sandboxes and innovation]]
+- [[the_role_of_data_in_regulation | The role of data in regulation]]
+
+### [Enhancement Oriented Innovation Workshop | OECD OPSI Webinar | 11 May 2021](https://www.youtube.com/watch?v=wOjyRDb2XFM)
+- [[public_sector_innovation | Public Sector Innovation]]
+- [[enhancement_oriented_innovation | Enhancement Oriented Innovation]]
+- [[role_of_digital_tools_in_government | Role of Digital Tools in Government]]
+- [[behavioral_insights_for_public_policy | Behavioral Insights for Public Policy]]
+- [[common_assessment_framework_and_quality_management | Common Assessment Framework and Quality Management]]
+
+### [Webinar on the insights and findings from Brazil on public sector innovation](https://www.youtube.com/watch?v=BYdjEpP9wgk)
+- [[public_sector_innovation_in_brazil | Public Sector Innovation in Brazil]]
+- [[oecd_reports_on_innovation_in_public_administration | OECD Reports on Innovation in Public Administration]]
+- [[capacity_building_for_civil_servants | Capacity Building for Civil Servants]]
+- [[role_of_leadership_in_innovation | Role of Leadership in Innovation]]
+- [[challenges_and_opportunities_in_public_sector_innovation | Challenges and Opportunities in Public Sector Innovation]]
 
 ### [Adaptive Innovation Workshop | OECD OPSI Webinar | 8 June 2021](https://www.youtube.com/watch?v=lqf8mmr0P9c)
 - [[adaptive_innovation_in_public_services | Adaptive innovation in public services]]
-- [[challenges_and_opportunities_in_public_sector_digital_transformation | Challenges and opportunities in public sector digital transformation]]
-- [[public_sector_innovation_methods_and_strategies | Public sector innovation methods and strategies]]
-- [[pandemicinduced_changes_in_government_operations | Pandemicinduced changes in government operations]]
-- [[role_of_technology_in_government_modernization | Role of technology in government modernization]]
+- [[public_sector_digital_transformation | Public sector digital transformation]]
+- [[citizen_participation_in_public_administration | Citizen participation in public administration]]
+- [[challenges_of_implementing_agile_governance | Challenges of implementing agile governance]]
+- [[evaluation_and_sustainability_in_public_sector_innovations | Evaluation and sustainability in public sector innovations]]
+
+### [#GovAfterShock | Global Trends 2020 launch & insights from the edge](https://www.youtube.com/watch?v=AnzeOMuCrhY)
+- [[public_sector_innovation_and_government_transformation | Public sector innovation and government transformation]]
+- [[covid19_responses_and_government_adaptability | COVID19 responses and government adaptability]]
+- [[global_trends_in_public_sector_innovation | Global trends in public sector innovation]]
+- [[role_of_technology_and_ai_literacy_in_public_service | Role of technology and AI literacy in public service]]
+- [[empowering_women_through_renewable_energy_initiatives | Empowering women through renewable energy initiatives]]
 
 ### [OPSI Toolkit Navigator walkthrough](https://www.youtube.com/watch?v=9_5wh_aTnu0)
-- [[opsi_toolkit_navigator_development_and_design | OPSI Toolkit Navigator development and design]]
-- [[public_sector_innovation_challenges | Public sector innovation challenges]]
-- [[types_and_purposes_of_innovation_in_the_public_sector | Types and purposes of innovation in the public sector]]
-- [[methods_and_tools_in_innovation_toolkits | Methods and tools in innovation toolkits]]
-- [[user_interaction_with_the_opsi_toolkit_navigator | User interaction with the OPSI Toolkit Navigator]]
-
-### [Panel Discussion: Behavioural transformations for a more sustainable world | GovBeyondRecovery](https://www.youtube.com/watch?v=hmZISoeOw_s)
-- [[behavioral_science_and_climate_change | Behavioral science and climate change]]
-- [[sustainable_lifestyles_and_consumption_patterns | Sustainable lifestyles and consumption patterns]]
-- [[role_of_government_in_environmental_threats | Role of government in environmental threats]]
-- [[behavioral_science_in_public_governance | Behavioral science in public governance]]
-- [[tools_and_strategies_for_green_governance | Tools and strategies for green governance]]
-
-### [#GovAfterShock | Global Innovators: country experiences in tackling the Covid-19 crisis](https://www.youtube.com/watch?v=6tiE0MU-fJk)
-- [[government_response_strategies_to_covid19 | Government response strategies to Covid19]]
-- [[digital_transformation_and_egovernance | Digital transformation and egovernance]]
-- [[challenges_and_improvements_in_public_health_systems | Challenges and improvements in public health systems]]
-- [[interconnectedness_and_global_cooperation_during_the_covid19_pandemic | Interconnectedness and global cooperation during the Covid19 pandemic]]
-- [[postpandemic_institutional_changes_and_future_preparedness | Postpandemic institutional changes and future preparedness]]
-
-### [Webinar on the insights and findings from Brazil on public sector innovation](https://www.youtube.com/watch?v=BYdjEpP9wgk)
-- [[overview_of_oecd_reports_on_public_sector_innovation_in_brazil | Overview of OECD Reports on Public Sector Innovation in Brazil]]
-- [[challenges_and_opportunities_for_public_sector_innovation_in_brazil | Challenges and Opportunities for Public Sector Innovation in Brazil]]
-- [[role_of_innovation_in_brazilian_civil_service_reforms | Role of Innovation in Brazilian Civil Service Reforms]]
-- [[developing_leadership_skills_for_public_sector_innovation | Developing Leadership Skills for Public Sector Innovation]]
-- [[open_innovation_and_its_application_in_the_brazilian_public_sector | Open Innovation and its Application in the Brazilian Public Sector]]
-
-### [#GovAfterShock | Innovation without borders: How can we support innovation from low income countries](https://www.youtube.com/watch?v=MKn6vDSQz0E)
-- [[role_of_governments_in_fostering_innovation | Role of governments in fostering innovation]]
-- [[frugal_innovation_and_its_impact | Frugal innovation and its impact]]
-- [[publicprivate_partnerships_for_innovation | Publicprivate partnerships for innovation]]
-- [[local_and_regional_innovation_ecosystems | Local and regional innovation ecosystems]]
-- [[innovative_financing_for_development_solutions | Innovative financing for development solutions]]
-
-### [Anticipatory Capacity for Governing Institutions and Technology Policy](https://www.youtube.com/watch?v=Ry3USGpI7Ig)
-- [[technology_foresight_and_governance | Technology foresight and governance]]
-- [[citizen_participation_in_policy_making | Citizen participation in policy making]]
-- [[publicprivate_collaboration_in_technology_innovation | Publicprivate collaboration in technology innovation]]
-- [[anticipatory_governance_in_government_and_technology | Anticipatory governance in government and technology]]
-- [[managing_emerging_technologies_and_societal_impacts | Managing emerging technologies and societal impacts]]
-
-### [Stewarding Innovation Portfolios for Collective System Change ┃ OPSI](https://www.youtube.com/watch?v=QDye1APG65k)
-- [[stewarding_innovation_portfolios | Stewarding Innovation Portfolios]]
-- [[collective_system_change | Collective System Change]]
-- [[innovation_facets_model | Innovation Facets Model]]
-- [[missionoriented_innovation | MissionOriented Innovation]]
-- [[role_of_cities_in_innovation | Role of Cities in Innovation]]
-
-### [#GovAfterShock | Embracing today’s uncertainty: how to govern towards future outcomes?](https://www.youtube.com/watch?v=jTPe9paP14E)
-- [[government_adaptation_to_uncertainty | Government adaptation to uncertainty]]
-- [[future_governance_and_leadership | Future governance and leadership]]
-- [[innovation_in_public_sector_management | Innovation in public sector management]]
-- [[learning_and_capacity_building_in_government | Learning and capacity building in government]]
-
-### [Why do governments need to innovate?](https://www.youtube.com/watch?v=jGNjy4TWJEY)
-- [[impact_of_government_innovation_on_citizens | Impact of government innovation on citizens]]
-- [[adapting_government_systems_to_modern_needs | Adapting government systems to modern needs]]
-- [[challenges_of_outdated_government_systems | Challenges of outdated government systems]]
-- [[responding_to_societal_and_technological_changes | Responding to societal and technological changes]]
-- [[preparing_for_future_challenges_through_government_innovation | Preparing for future challenges through government innovation]]
-
-### [#GovAfterShock | Building whole-of-government approaches to address gender based violence](https://www.youtube.com/watch?v=4XJ2WQTYXuc)
-- [[wholeofgovernment_approaches_to_genderbased_violence | Wholeofgovernment approaches to genderbased violence]]
-- [[challenges_faced_by_governments_during_the_pandemic | Challenges faced by governments during the pandemic]]
-- [[role_of_technology_and_innovation_in_addressing_genderbased_violence | Role of technology and innovation in addressing genderbased violence]]
-- [[incorporating_survivor_feedback_and_intersectionality_in_policy_making | Incorporating survivor feedback and intersectionality in policy making]]
-- [[importance_of_data_communication_and_media_in_combating_genderbased_violence | Importance of data communication and media in combating genderbased violence]]
-
-### [Inclusive services: Building trust in public institutions | GovBeyondRecovery](https://www.youtube.com/watch?v=LYlQEg6oAOA)
-- [[building_public_trust_in_institutions | Building public trust in institutions]]
-- [[impact_of_covid19_on_government_and_citizen_relations | Impact of COVID19 on government and citizen relations]]
-- [[role_of_digitalization_and_social_media_in_public_services | Role of digitalization and social media in public services]]
-- [[inclusive_policymaking_and_community_engagement | Inclusive policymaking and community engagement]]
-- [[challenges_and_opportunities_in_public_sector_innovation | Challenges and opportunities in public sector innovation]]
-
-### [#GovAfterShock | United We Stand: Exploring new collaboration architectures in uncertain times](https://www.youtube.com/watch?v=kbjO2ykaAKQ)
-- [[international_collaboration_in_crisis_management | International collaboration in crisis management]]
-- [[challenges_and_solutions_in_global_governance | Challenges and solutions in global governance]]
-- [[impact_of_covid19_on_international_cooperation | Impact of COVID19 on international cooperation]]
-- [[role_of_multilateral_organizations_during_global_crises | Role of multilateral organizations during global crises]]
-- [[privatepublic_partnerships_in_addressing_global_challenges | Privatepublic partnerships in addressing global challenges]]
+- [[development_and_purpose_of_the_opsi_toolkit_navigator | Development and purpose of the OPSI Toolkit Navigator]]
+- [[innovation_models_and_methods_in_the_public_sector | Innovation models and methods in the public sector]]
+- [[challenges_and_findings_in_toolkit_usage | Challenges and findings in toolkit usage]]
+- [[design_and_features_of_the_opsi_toolkit_navigator | Design and features of the OPSI Toolkit Navigator]]
+- [[user_engagement_and_improvements_of_the_toolkit | User engagement and improvements of the toolkit]]
 
 ### [Mind shift, green lift: Six behavioural science trends for environmental policy](https://www.youtube.com/watch?v=k13Pf_PnfWY)
-- [[behavioral_science_in_environmental_policy | Behavioral Science in Environmental Policy]]
-- [[climate_change_adaptation_and_mitigation | Climate Change Adaptation and Mitigation]]
-- [[demand_side_policies_in_climate_change | Demand Side Policies in Climate Change]]
-- [[citizen_participation_in_the_green_transition | Citizen Participation in the Green Transition]]
-- [[addressing_climate_misinformation | Addressing Climate Misinformation]]
+- [[understanding_behavioral_science_in_environmental_policy | Understanding Behavioral Science in Environmental Policy]]
+- [[role_of_behavioral_science_in_climate_adaptation | Role of Behavioral Science in Climate Adaptation]]
+- [[behavioral_science_and_demandside_policies | Behavioral Science and Demandside Policies]]
+- [[incorporating_behavioral_science_in_government_and_industry | Incorporating Behavioral Science in Government and Industry]]
+- [[challenges_and_opportunities_in_communicating_behavioral_science_insights | Challenges and Opportunities in Communicating Behavioral Science Insights]]
 
-### [Behavioural Insights Ethics Guide](https://www.youtube.com/watch?v=DTO7c7haKz4)
-- [[ethics_in_behavioral_insights | Ethics in behavioral insights]]
-- [[application_of_behavioral_science | Application of behavioral science]]
-- [[ethical_challenges_in_behavior_analysis | Ethical challenges in behavior analysis]]
-- [[impact_of_insights_on_public_policy | Impact of insights on public policy]]
+### [Panel Discussion: Behavioural transformations for a more sustainable world | GovBeyondRecovery](https://www.youtube.com/watch?v=hmZISoeOw_s)
+- [[behavioral_science_in_environmental_policy | behavioral science in environmental policy]]
+- [[impact_of_human_behavior_on_climate_change | impact of human behavior on climate change]]
+- [[role_of_behavioral_insights_in_sustainable_energy_policies | role of behavioral insights in sustainable energy policies]]
+- [[challenges_and_opportunities_in_green_governance | challenges and opportunities in green governance]]
+- [[behavioral_interventions_for_energy_consumption_reduction | behavioral interventions for energy consumption reduction]]
+
+### [Anticipatory Capacity for Governing Institutions and Technology Policy](https://www.youtube.com/watch?v=Ry3USGpI7Ig)
+- [[anticipatory_governance_in_technology_policy | Anticipatory governance in technology policy]]
+- [[breaking_silos_in_government_for_technology_futures | Breaking silos in government for technology futures]]
+- [[public_sector_capacity_for_anticipatory_innovation | Public sector capacity for anticipatory innovation]]
+- [[citizen_participation_in_technology_governance | Citizen participation in technology governance]]
+- [[the_role_of_private_sector_in_anticipatory_governance | The role of private sector in anticipatory governance]]
+
+### [#GovAfterShock | Global Innovators: country experiences in tackling the Covid-19 crisis](https://www.youtube.com/watch?v=6tiE0MU-fJk)
+- [[government_response_to_the_covid19_crisis | Government response to the Covid19 crisis]]
+- [[digitization_and_use_of_technology_during_covid19 | Digitization and use of technology during Covid19]]
+- [[international_and_local_collaboration_in_crisis_management | International and local collaboration in crisis management]]
+- [[importance_of_data_and_communication_in_public_health_strategies | Importance of data and communication in public health strategies]]
+- [[postcrisis_strategies_and_future_preparedness | Postcrisis strategies and future preparedness]]
+
+### [Why do governments need to innovate?](https://www.youtube.com/watch?v=jGNjy4TWJEY)
+- [[government_innovation_for_delivering_better_value | Government innovation for delivering better value]]
+- [[adapting_government_systems_to_modern_technology | Adapting government systems to modern technology]]
+- [[responding_to_changing_societal_needs | Responding to changing societal needs]]
+- [[preparing_governments_for_future_challenges | Preparing governments for future challenges]]
+- [[addressing_complex_challenges_like_climate_change_and_aging_populations | Addressing complex challenges like climate change and aging populations]]
+
+### [Stewarding Innovation Portfolios for Collective System Change ┃ OPSI](https://www.youtube.com/watch?v=QDye1APG65k)
+- [[stewarding_innovation_portfolios | Stewarding innovation portfolios]]
+- [[collective_system_change_through_innovation | Collective system change through innovation]]
+- [[missionoriented_portfolio_management | Missionoriented portfolio management]]
+- [[multistakeholder_engagement_in_innovation_ecosystems | Multistakeholder engagement in innovation ecosystems]]
+- [[evaluating_impact_of_innovation_portfolios | Evaluating impact of innovation portfolios]]
+
+### [#GovAfterShock | Embracing today’s uncertainty: how to govern towards future outcomes?](https://www.youtube.com/watch?v=jTPe9paP14E)
+- [[embracing_uncertainty_in_governance | embracing uncertainty in governance]]
+- [[postpandemic_government_challenges_and_strategies | postpandemic government challenges and strategies]]
+- [[role_of_government_in_crisis_management | role of government in crisis management]]
+- [[innovative_approaches_in_public_sector_leadership | innovative approaches in public sector leadership]]
+- [[citizen_engagement_and_trust_in_uncertain_times | citizen engagement and trust in uncertain times]]
+
+### [#GovAfterShock | Innovation without borders: How can we support innovation from low income countries](https://www.youtube.com/watch?v=MKn6vDSQz0E)
+- [[role_of_governments_in_fostering_innovation | role of governments in fostering innovation]]
+- [[frugal_innovation_in_lowincome_countries | frugal innovation in lowincome countries]]
+- [[impact_of_covid19_on_global_innovation | impact of COVID19 on global innovation]]
+- [[interaction_between_governments_corporations_and_citizens | interaction between governments corporations and citizens]]
+- [[supporting_innovation_for_sustainable_development | supporting innovation for sustainable development]]
+
+### [#GovAfterShock | United We Stand: Exploring new collaboration architectures in uncertain times](https://www.youtube.com/watch?v=kbjO2ykaAKQ)
+- [[international_collaboration_during_crises | International collaboration during crises]]
+- [[impact_of_covid19_on_global_cooperation | Impact of COVID19 on global cooperation]]
+- [[unilateral_and_multilateral_approaches_in_governance | Unilateral and multilateral approaches in governance]]
+- [[challenges_of_global_governance_systems | Challenges of global governance systems]]
+- [[role_of_technology_and_digital_divide_in_international_cooperation | Role of technology and digital divide in international cooperation]]
 
 ### [Accounting for Innovation in CAF  | GovBeyondRecovery](https://www.youtube.com/watch?v=63mNjT-dus8)
-- [[common_assessment_framework_caf_for_innovation_in_the_public_sector | Common Assessment Framework CAF for innovation in the public sector]]
-- [[integration_of_quality_and_innovation_in_public_sector_governance | Integration of quality and innovation in public sector governance]]
-- [[feedback_and_improvements_in_public_administration_using_caf | Feedback and improvements in public administration using CAF]]
-- [[impact_of_caf_on_human_resources_management_in_public_organizations | Impact of CAF on human resources management in public organizations]]
-- [[lessons_learned_from_the_covid19_crisis_and_the_future_of_public_sector_resilience | Lessons learned from the COVID19 crisis and the future of public sector resilience]]
+- [[caf_common_assessment_framework | CAF Common Assessment Framework]]
+- [[quality_and_innovation_in_public_sector | Quality and Innovation in Public Sector]]
+- [[human_resource_management_and_caf | Human Resource Management and CAF]]
+- [[continuous_improvement_and_organizational_resilience | Continuous Improvement and Organizational Resilience]]
+- [[public_sector_adaptation_during_covid19 | Public Sector Adaptation During COVID19]]
 
-### [Innovation friendly regulation | GovBeyondRecovery](https://www.youtube.com/watch?v=7J9xeH0rs7w)
-- [[innovation_friendly_regulation_rationale | Innovation friendly regulation rationale]]
-- [[regulatory_sandboxes_definition_and_examples | Regulatory sandboxes Definition and examples]]
-- [[challenges_and_opportunities_of_regulatory_sandboxes | Challenges and opportunities of regulatory sandboxes]]
-- [[publicprivate_cooperation_in_regulatory_sandboxes | Publicprivate cooperation in regulatory sandboxes]]
-- [[industryspecific_regulatory_sandbox_applications | Industryspecific regulatory sandbox applications]]
+### [Inclusive services: Building trust in public institutions | GovBeyondRecovery](https://www.youtube.com/watch?v=LYlQEg6oAOA)
+- [[building_trust_in_public_institutions | Building trust in public institutions]]
+- [[inclusive_services_and_public_policy_making | Inclusive services and public policy making]]
+- [[impact_of_covid19_on_governmentcitizen_relationships | Impact of COVID19 on governmentcitizen relationships]]
+- [[role_of_communication_and_transparency_in_building_trust | Role of communication and transparency in building trust]]
+- [[challenges_and_opportunities_of_digitalization_in_public_services | Challenges and opportunities of digitalization in public services]]
+
+### [Behavioural Insights Ethics Guide](https://www.youtube.com/watch?v=DTO7c7haKz4)
+- [[ethics_guide | Ethics Guide]]
+- [[ethical_considerations | Ethical Considerations]]
+- [[decision_making | Decision Making]]
+- [[human_behavior | Human Behavior]]
+
+### [#GovAfterShock | Building whole-of-government approaches to address gender based violence](https://www.youtube.com/watch?v=4XJ2WQTYXuc)
+- [[wholeofgovernment_approaches_to_addressing_genderbased_violence | Wholeofgovernment approaches to addressing genderbased violence]]
+- [[impact_of_covid19_on_genderbased_violence | Impact of COVID19 on genderbased violence]]
+- [[role_of_media_and_public_awareness_in_tackling_genderbased_violence | Role of media and public awareness in tackling genderbased violence]]
+- [[innovations_in_supporting_survivors_of_violence_during_the_pandemic | Innovations in supporting survivors of violence during the pandemic]]
+- [[coordinating_multiagency_responses_to_genderbased_violence | Coordinating multiagency responses to genderbased violence]]
 
 ### [#GovAfterShock | Leadership in focus: A conversation with Minister Nikolai Astrup of Norway](https://www.youtube.com/watch?v=eJFLszMeSRI)
-- [[leadership_and_innovation_during_covid19 | Leadership and Innovation during COVID19]]
-- [[role_of_government_in_crisis_response | Role of Government in Crisis Response]]
-- [[building_and_maintaining_public_trust | Building and Maintaining Public Trust]]
-- [[impact_of_covid19_on_vulnerable_groups | Impact of COVID19 on Vulnerable Groups]]
-- [[digital_transformation_and_legal_frameworks | Digital Transformation and Legal Frameworks]]
+- [[leadership_during_the_covid19_crisis | Leadership during the COVID19 crisis]]
+- [[building_trust_in_government_response | Building trust in government response]]
+- [[coordination_between_national_and_local_governments | Coordination between national and local governments]]
+- [[innovation_and_digital_transformation_in_public_services | Innovation and digital transformation in public services]]
+- [[impact_of_covid19_on_sustainable_development_goals | Impact of COVID19 on Sustainable Development Goals]]
 
 ### [#GovAfterShock | Leveraging the crisis to build better cities](https://www.youtube.com/watch?v=Fwg4YWTuu7o)
-- [[innovation_in_cities_postcovid19 | Innovation in cities postCOVID19]]
-- [[urban_policy_and_sustainable_development | Urban policy and sustainable development]]
-- [[challenges_and_opportunities_faced_by_cities_due_to_covid19 | Challenges and opportunities faced by cities due to COVID19]]
-- [[data_sharing_and_governance_in_cities | Data sharing and governance in cities]]
-- [[public_participation_and_trust_in_urban_governance | Public participation and trust in urban governance]]
-
-### [Mission-oriented Innovation Bootcamp | OPSI & Vision Zero Cancer | Day 1 - Full workshop](https://www.youtube.com/watch?v=2kY82Y_uE54)
-- [[missionoriented_innovation_in_healthcare | Missionoriented innovation in healthcare]]
-- [[cancer_prevention_and_treatment_strategies | Cancer prevention and treatment strategies]]
-- [[challenges_in_implementing_missiondriven_approaches | Challenges in implementing missiondriven approaches]]
-- [[role_of_patient_involvement_in_cancer_research | Role of patient involvement in cancer research]]
-- [[collaborative_frameworks_in_health_missions | Collaborative frameworks in health missions]]
-
-### [Building Digital by Default Services | GovBeyondRecovery](https://www.youtube.com/watch?v=7sGbPtvvswc)
-- [[inclusive_service_design_in_government | Inclusive service design in government]]
-- [[challenges_in_digital_government_transformation | Challenges in digital government transformation]]
-- [[usercentric_and_omnichannel_approaches_to_public_service_delivery | Usercentric and omnichannel approaches to public service delivery]]
-- [[role_and_management_of_data_in_digital_public_services | Role and management of data in digital public services]]
-- [[skills_and_capabilities_development_for_digital_services | Skills and capabilities development for digital services]]
-
-### [What is enhancement oriented innovation?](https://www.youtube.com/watch?v=qieVAq1XLO8)
-- [[enhancement_oriented_innovation | enhancement oriented innovation]]
-- [[government_innovation_practices | government innovation practices]]
-- [[improving_existing_systems | improving existing systems]]
-- [[behavioral_insights_in_innovation | behavioral insights in innovation]]
-- [[risk_management_in_innovation | risk management in innovation]]
+- [[impact_of_covid_19_on_city_planning_and_innovation | Impact of COVID 19 on city planning and innovation]]
+- [[role_of_innovation_in_sustainable_urban_development | Role of innovation in sustainable urban development]]
+- [[challenges_and_opportunities_in_digital_technology_integration_in_cities | Challenges and opportunities in digital technology integration in cities]]
+- [[multilevel_governance_and_collaboration_in_urban_policymaking | Multilevel governance and collaboration in urban policymaking]]
+- [[crisisdriven_change_and_resilience_in_urban_environments | Crisisdriven change and resilience in urban environments]]
 
 ### [OPSI 2019 Embracing Innovation Webinar](https://www.youtube.com/watch?v=kWZBJK8wZ78)
 - [[public_sector_innovation_trends | Public sector innovation trends]]
-- [[global_trends_in_innovation | Global trends in innovation]]
-- [[behavioral_insights_and_gamification | Behavioral insights and gamification]]
-- [[circular_economy_and_sustainability | Circular economy and sustainability]]
-- [[machinereadable_data_and_emerging_technologies | Machinereadable data and emerging technologies]]
+- [[global_trends_in_governmental_innovation | Global trends in governmental innovation]]
+- [[behavioral_insights_in_government | Behavioral insights in government]]
+- [[emergence_of_gamification_in_public_policy | Emergence of gamification in public policy]]
+- [[machinereadable_legislation_and_its_implications | Machinereadable legislation and its implications]]
 
-### [What is the Observatory of Public Sector Innovation?](https://www.youtube.com/watch?v=AJyZ93bNEa8)
-- [[types_of_public_sector_innovation | Types of Public Sector Innovation]]
-- [[innovation_strategies_for_governments | Innovation Strategies for Governments]]
-- [[innovation_portfolios_and_management | Innovation Portfolios and Management]]
-- [[role_of_the_observatory_of_public_sector_innovation | Role of the Observatory of Public Sector Innovation]]
+### [What is enhancement oriented innovation?](https://www.youtube.com/watch?v=qieVAq1XLO8)
+- [[enhancement_oriented_innovation_in_government | Enhancement oriented innovation in government]]
+- [[upgrading_existing_systems | Upgrading existing systems]]
+- [[improving_taxation_systems | Improving taxation systems]]
+- [[behavioral_insights_in_innovation | Behavioral insights in innovation]]
+- [[risk_assessment_in_enhancement_innovations | Risk assessment in enhancement innovations]]
 
-### [#GovAfterShock | Health Systems for the Future: Resilience, Collaboration, innovation](https://www.youtube.com/watch?v=2wKEvM6D5ug)
-- [[resilience_of_health_systems_postcrisis | Resilience of health systems postcrisis]]
-- [[impact_of_covid19_on_digital_health_innovations | Impact of COVID19 on digital health innovations]]
-- [[collaborative_efforts_in_public_health_governance | Collaborative efforts in public health governance]]
-- [[behavioral_changes_in_populations_postpandemic | Behavioral changes in populations postpandemic]]
-- [[impact_of_the_covid19_pandemic_on_health_care_delivery_systems | Impact of the COVID19 pandemic on health care delivery systems]]
+### [Innovation friendly regulation | GovBeyondRecovery](https://www.youtube.com/watch?v=7J9xeH0rs7w)
+- [[agile_regulatory_approaches | Agile regulatory approaches]]
+- [[regulatory_sandboxes_and_innovation | Regulatory sandboxes and innovation]]
+- [[crossborder_regulatory_challenges | Crossborder regulatory challenges]]
+- [[publicprivate_partnerships_in_regulation | Publicprivate partnerships in regulation]]
+- [[sectorspecific_applications_of_regulatory_sandboxes | Sectorspecific applications of regulatory sandboxes]]
 
-### [Do governments always know how and why they are innovating?](https://www.youtube.com/watch?v=oq9_s4kPPHQ)
-- [[government_innovation_motivations | Government innovation motivations]]
-- [[challenges_requiring_government_innovation | Challenges requiring government innovation]]
-- [[innovation_for_exploration_and_creativity_in_government | Innovation for exploration and creativity in government]]
-- [[learning_by_doing_and_capacity_building_in_public_sector | Learning by doing and capacity building in public sector]]
-- [[international_trends_in_governmental_experimentation_and_innovation | International trends in governmental experimentation and innovation]]
-
-### [Fixing Frictions & Reducing Burdens in Citizen-Government Interactions w/ Pamela Herd & Don Moynihan](https://www.youtube.com/watch?v=xxMXf0n1Cok)
-- [[administrative_burdens_in_citizens_and_government_interactions | Administrative Burdens in Citizens and Government Interactions]]
-- [[impact_of_administrative_burdens_on_inequality | Impact of Administrative Burdens on Inequality]]
-- [[biden_administration_initiatives_to_reduce_administrative_burdens | Biden Administration Initiatives to Reduce Administrative Burdens]]
-- [[automatic_renewal_in_government_programs_like_medicaid | Automatic Renewal in Government Programs like Medicaid]]
-- [[role_of_technology_and_digitalization_in_reducing_administrative_burdens | Role of Technology and Digitalization in Reducing Administrative Burdens]]
+### [Building Digital by Default Services | GovBeyondRecovery](https://www.youtube.com/watch?v=7sGbPtvvswc)
+- [[digital_transformation_in_government | Digital transformation in government]]
+- [[usercentered_service_design | Usercentered service design]]
+- [[challenges_of_digital_by_default_approach | Challenges of digital by default approach]]
+- [[importance_of_digital_literacy | Importance of digital literacy]]
+- [[collaboration_and_governance_in_digital_services | Collaboration and governance in digital services]]
 
 ### [[webinar] OPSI Innovation Declaration Public Consultation Process](https://www.youtube.com/watch?v=R6dIJvNncCE)
-- [[public_sector_innovation_declaration | Public sector innovation declaration]]
-- [[experiences_from_canada_and_france | Experiences from Canada and France]]
-- [[public_consultation_process | Public consultation process]]
-- [[challenges_and_opportunities_in_public_sector_innovation | Challenges and opportunities in public sector innovation]]
-- [[role_of_citizen_participation_in_innovation | Role of citizen participation in innovation]]
+- [[public_sector_innovation_declarations | Public Sector Innovation Declarations]]
+- [[experiences_of_france_and_canada_with_innovation_declarations | Experiences of France and Canada with Innovation Declarations]]
+- [[oecds_role_in_public_sector_innovation | OECDs Role in Public Sector Innovation]]
+- [[international_collaboration_on_innovation | International Collaboration on Innovation]]
+- [[public_consultation_process_for_innovation_declarations | Public Consultation Process for Innovation Declarations]]
+
+### [Mission-oriented Innovation Bootcamp | OPSI & Vision Zero Cancer | Day 1 - Full workshop](https://www.youtube.com/watch?v=2kY82Y_uE54)
+- [[missionoriented_innovation_in_cancer_prevention_and_care | Missionoriented innovation in cancer prevention and care]]
+- [[building_personalized_medicine_approaches_in_healthcare | Building personalized medicine approaches in healthcare]]
+- [[role_of_public_sector_and_international_collaborations_in_health_innovation | Role of public sector and international collaborations in health innovation]]
+- [[challenges_and_strategies_in_implementing_health_missions | Challenges and strategies in implementing health missions]]
+- [[local_and_international_case_studies_on_health_missions | Local and international case studies on health missions]]
+
+### [Fixing Frictions & Reducing Burdens in Citizen-Government Interactions w/ Pamela Herd & Don Moynihan](https://www.youtube.com/watch?v=xxMXf0n1Cok)
+- [[administrative_burdens_in_citizengovernment_interactions | Administrative Burdens in CitizenGovernment Interactions]]
+- [[impact_of_inequality_on_access_to_government_services | Impact of Inequality on Access to Government Services]]
+- [[strategies_for_reducing_bureaucratic_frictions | Strategies for Reducing Bureaucratic Frictions]]
+- [[role_of_technology_in_improving_government_services | Role of Technology in Improving Government Services]]
+- [[psychological_and_emotional_costs_in_public_service_access | Psychological and Emotional Costs in Public Service Access]]
 
 ### [Innovation 101 Webinar: Ideation](https://www.youtube.com/watch?v=iYDD8L2Cct8)
-- [[public_sector_innovation | Public sector innovation]]
-- [[ideation_process | Ideation process]]
-- [[problem_framing_in_innovation | Problem framing in innovation]]
-- [[importance_of_diversity_in_innovation_teams | Importance of diversity in innovation teams]]
-- [[evaluating_and_filtering_innovative_ideas | Evaluating and filtering innovative ideas]]
+- [[public_sector_innovation | Public Sector Innovation]]
+- [[problem_framing_in_innovation | Problem Framing in Innovation]]
+- [[ideation_techniques | Ideation Techniques]]
+- [[managing_innovation_in_complex_environments | Managing Innovation in Complex Environments]]
+- [[evaluating_and_selecting_innovative_ideas | Evaluating and Selecting Innovative Ideas]]
+
+### [Do governments always know how and why they are innovating?](https://www.youtube.com/watch?v=oq9_s4kPPHQ)
+- [[reasons_for_government_innovation | Reasons for government innovation]]
+- [[challenges_faced_by_governments_that_require_innovation | Challenges faced by governments that require innovation]]
+- [[the_role_of_creativity_in_government_innovation | The role of creativity in government innovation]]
+- [[experimentation_in_government_innovation | Experimentation in government innovation]]
+- [[impact_of_government_innovations_compared_to_the_private_sector | Impact of government innovations compared to the private sector]]
+
+### [What is the Observatory of Public Sector Innovation?](https://www.youtube.com/watch?v=AJyZ93bNEa8)
+- [[observatory_of_public_sector_innovation | Observatory of Public Sector Innovation]]
+- [[types_of_public_sector_innovation | Types of Public Sector Innovation]]
+- [[innovation_strategies_in_government | Innovation Strategies in Government]]
+- [[managing_innovation_portfolios | Managing Innovation Portfolios]]
+- [[governments_role_in_promoting_innovation | Governments Role in Promoting Innovation]]
 
 ### [Mission-oriented Innovation Bootcamp | OPSI & Vision Zero Cancer | Day 1 - Panel Discussion](https://www.youtube.com/watch?v=GLjKn61fJBw)
 - [[missionoriented_innovation | Missionoriented innovation]]
-- [[cancer_treatment_and_prevention | Cancer treatment and prevention]]
-- [[personalized_medicine | Personalized medicine]]
-- [[stakeholder_collaboration_in_healthcare | Stakeholder collaboration in healthcare]]
-- [[implementation_of_health_policies | Implementation of health policies]]
+- [[cancer_collaborative_initiatives | Cancer collaborative initiatives]]
+- [[stakeholders_in_healthcare_innovation | Stakeholders in healthcare innovation]]
+- [[precision_medicine_for_cancer | Precision medicine for cancer]]
+- [[building_trust_in_publicprivate_partnerships | Building trust in publicprivate partnerships]]
 
 ### [Future oriented governance: Towards a future fit for all | GovBeyondRecovery](https://www.youtube.com/watch?v=Crq76V0wBgw)
 - [[future_oriented_governance | Future oriented governance]]
-- [[public_sector_innovation | Public sector innovation]]
-- [[impact_of_covid_19_on_government_operations | Impact of COVID 19 on government operations]]
-- [[role_of_digital_transformation_in_public_administration | Role of digital transformation in public administration]]
-- [[addressing_inequality_and_inclusion_in_governance | Addressing inequality and inclusion in governance]]
+- [[covid19_recovery_strategies | COVID19 recovery strategies]]
+- [[public_administration_reform | Public administration reform]]
+- [[digital_transformation_in_governance | Digital transformation in governance]]
+- [[inequality_and_public_policy | Inequality and public policy]]
 
-### [LOGIC: Good practice principles for mainstreaming behavioural public policy](https://www.youtube.com/watch?v=dHcmZ-eBFIs)
-- [[behavioral_public_policy | Behavioral public policy]]
-- [[mainstreaming_behavioral_science_in_government | Mainstreaming behavioral science in government]]
-- [[challenges_in_embedding_behavioral_science | Challenges in embedding behavioral science]]
-- [[role_of_leadership_and_governance_in_behavioral_policy | Role of leadership and governance in behavioral policy]]
-- [[international_collaboration_in_behavioral_policy | International collaboration in behavioral policy]]
+### [#GovAfterShock | Health Systems for the Future: Resilience, Collaboration, innovation](https://www.youtube.com/watch?v=2wKEvM6D5ug)
+- [[impact_of_the_pandemic_on_health_systems | Impact of the pandemic on health systems]]
+- [[digital_transformation_in_health_care | Digital transformation in health care]]
+- [[challenges_of_health_care_capacity_and_workforce | Challenges of health care capacity and workforce]]
+- [[public_health_systems_and_policy_integration | Public health systems and policy integration]]
+- [[resilience_and_innovation_in_pandemic_response | Resilience and innovation in pandemic response]]
 
 ### [Surfacing Insights and Experimenting across Borders: OPSI & MBRCGI Report Launch Panel Discussion](https://www.youtube.com/watch?v=nGjuo-7sUXM)
 - [[crossborder_government_innovation | Crossborder government innovation]]
-- [[public_sector_innovation_and_collaboration | Public sector innovation and collaboration]]
-- [[government_experimentation_and_case_studies | Government experimentation and case studies]]
-- [[challenges_in_fostering_international_cooperation | Challenges in fostering international cooperation]]
-- [[scaling_and_institutionalizing_innovation | Scaling and institutionalizing innovation]]
+- [[government_collaboration_to_tackle_global_challenges | Government collaboration to tackle global challenges]]
+- [[the_role_of_public_sector_innovation_in_crisis_response | The role of public sector innovation in crisis response]]
+- [[challenges_and_success_factors_in_crossborder_collaboration | Challenges and success factors in crossborder collaboration]]
+- [[examples_and_case_studies_of_innovation_across_borders | Examples and case studies of innovation across borders]]
+
+### [LOGIC: Good practice principles for mainstreaming behavioural public policy](https://www.youtube.com/watch?v=dHcmZ-eBFIs)
+- [[behavioral_public_policy | Behavioral Public Policy]]
+- [[implementation_of_behavioral_science_in_government | Implementation of Behavioral Science in Government]]
+- [[challenges_and_best_practices_in_institutionalizing_behavioral_science | Challenges and Best Practices in Institutionalizing Behavioral Science]]
+- [[role_of_leadership_and_governance_in_behavioral_science | Role of Leadership and Governance in Behavioral Science]]
+- [[integration_and_impact_assessment_in_behavioral_science_policies | Integration and Impact Assessment in Behavioral Science Policies]]
 
 ### [Public Launch of the OECD Gov2Gov Innovation Incubator](https://www.youtube.com/watch?v=f_fEWvCgPAQ)
-- [[government_collaboration_across_borders | government collaboration across borders]]
-- [[digital_participation_and_inclusiveness | digital participation and inclusiveness]]
-- [[innovation_in_the_public_sector | innovation in the public sector]]
-- [[experimental_approaches_in_public_administration | experimental approaches in public administration]]
-- [[challenges_and_solutions_in_public_policy_implementation | challenges and solutions in public policy implementation]]
+- [[crossborder_government_collaboration_and_innovation | Crossborder government collaboration and innovation]]
+- [[public_sector_digital_transformation_strategies | Public sector digital transformation strategies]]
+- [[inclusive_digital_participation_and_accessibility | Inclusive digital participation and accessibility]]
+- [[government_innovation_incubators_and_safe_spaces_for_experimentation | Government innovation incubators and safe spaces for experimentation]]
+- [[utilizing_data_for_policymaking_and_evidencebased_solutions | Utilizing data for policymaking and evidencebased solutions]]
 
 ### [Improving Corruption Risk Management in the Slovak Republic](https://www.youtube.com/watch?v=W7ChKDv78EE)
-- [[anticorruption_strategies_in_slovakia | Anticorruption strategies in Slovakia]]
-- [[behavioral_insights_and_their_application_in_public_integrity | Behavioral insights and their application in public integrity]]
-- [[impact_of_leadership_on_reporting_corruption | Impact of leadership on reporting corruption]]
-- [[challenges_in_corruption_risk_management | Challenges in corruption risk management]]
-- [[social_norms_and_public_administration | Social norms and public administration]]
+- [[behavioral_insights_in_public_integrity | Behavioral insights in public integrity]]
+- [[corruption_risk_management_in_slovakia | Corruption risk management in Slovakia]]
+- [[role_of_leadership_in_ethical_governance | Role of leadership in ethical governance]]
+- [[impact_of_age_on_corruption_reporting | Impact of age on corruption reporting]]
+- [[strategies_for_enhancing_public_sector_integrity | Strategies for enhancing public sector integrity]]
 
 ### [Innovation Webinar: Proposals](https://www.youtube.com/watch?v=-m-t7yJu0Ec)
-- [[problem_framing_in_innovation | problem framing in innovation]]
-- [[ideation_process_and_strategies | ideation process and strategies]]
-- [[developing_innovation_proposals | developing innovation proposals]]
-- [[rallying_support_for_innovation_ideas | rallying support for innovation ideas]]
-- [[overcoming_challenges_in_innovation_projects | overcoming challenges in innovation projects]]
+- [[problem_framing_in_innovation | Problem framing in innovation]]
+- [[ideation_and_generating_good_ideas | Ideation and generating good ideas]]
+- [[developing_innovation_proposals | Developing innovation proposals]]
+- [[overcoming_challenges_in_innovation_proposals | Overcoming challenges in innovation proposals]]
+- [[managing_expectations_and_communicating_failure | Managing expectations and communicating failure]]
 
 ### [Harnessing mission governance to achieve national climate targets](https://www.youtube.com/watch?v=L5t0Vvic514)
-- [[mission_governance_in_climate_policy | Mission governance in climate policy]]
-- [[integration_of_national_climate_targets_with_missionoriented_approaches | Integration of national climate targets with missionoriented approaches]]
-- [[role_of_climate_councils_in_fostering_climate_action | Role of climate councils in fostering climate action]]
-- [[challenges_and_opportunities_in_implementing_missionoriented_climate_strategies | Challenges and opportunities in implementing missionoriented climate strategies]]
-- [[crosssectoral_and_interdisciplinary_collaboration_for_climate_policy | Crosssectoral and interdisciplinary collaboration for climate policy]]
+- [[mission_governance_in_achieving_climate_targets | Mission governance in achieving climate targets]]
+- [[role_of_climate_councils_in_policy_implementation | Role of climate councils in policy implementation]]
+- [[innovation_and_technology_in_climate_mitigation | Innovation and technology in climate mitigation]]
+- [[challenges_and_solutions_in_climate_policy_governance | Challenges and solutions in climate policy governance]]
+- [[missionoriented_policies_for_net_zero | Missionoriented policies for net zero]]

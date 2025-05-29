@@ -1,0 +1,68 @@
+---
+title: Evidenceinformed policymaking using strategic foresight
+videoId: mlZZNrCPJvM
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+[[understanding_and_utilizing_strategic_foresight|Strategic foresight]] is a critical capability for organizations, particularly governments, to navigate uncertainty and make informed decisions in the present. It involves continuously perceiving, making sense of, and acting on the future <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. The primary goal is not to predict the future, but rather to make better decisions today <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>, stress-test innovative solutions, and future-proof current actions <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+
+### Core Benefits of [[role_of_strategic_foresight_in_policy_making|Strategic Foresight in Policy Making]]
+
+[[understanding_and_utilizing_strategic_foresight|Strategic foresight]] offers a structured, participatory, inclusive, impactful, and systemic approach to anticipating future changes <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. Its benefits for policymaking include:
+*   **Priority Setting and Steering Policies** It helps to define priorities and guide current policies towards long-term objectives and strategies <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+*   **Identifying Challenges and Opportunities** [[understanding_and_utilizing_strategic_foresight|Strategic foresight]] aids in pinpointing emerging challenges and potential opportunities <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+*   **Investing in Innovative Solutions** It guides decisions on which types of innovations to explore and invest in <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+*   **Stress-testing and Future-proofing** Current decisions, policies, and approaches can be stress-tested and built to be resilient for the future <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
+*   **Building Shared Visions** It fosters the creation of shared visions and success stories across stakeholders <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+
+While often dealing with medium to long-term futures <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>, in volatile fields like artificial intelligence or during crises like COVID-19, the medium-term future can be a matter of months, necessitating the use of scenario approaches due to high uncertainty levels <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+
+### Integrating [[strategic_foresight_and_its_challenges_in_implementation|Strategic Foresight into Government Organizations]]
+
+The Organisation for Economic Co-operation and Development (OECD), in collaboration with the Government of Flanders, developed a blueprint for [[integrating_strategic_foresight_into_government_organizations|strategic foresight into government systems]] <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a><a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. This work also includes developing anticipatory good practice principles for building effective governance systems that leverage [[understanding_and_utilizing_strategic_foresight|strategic foresight]] <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. These principles address engagement with uncertainty, policy cycle continuity, and effective capabilities in leadership, knowledge, and governance structures <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
+
+#### Four Functions of Foresight in Government
+
+The OECD and the Government of Flanders have identified four key functions for embedding [[understanding_and_utilizing_strategic_foresight|strategic foresight]] within government policymaking <a class="yt-timestamp" data-t="00:12:22">[00:12:22]</a>:
+
+1.  **Discover** <a class="yt-timestamp" data-t="00:12:41">[00:12:41]</a>: This initial phase involves trend and weak signal analysis <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. It requires dedicated time and skilled personnel with the mandate to look for emerging trends <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>.
+2.  **Explore** <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>: Building on discovery, this function focuses on making sense of insights, often through Horizon scanning and system analysis <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>. Engaging with the science community through "science to policy dialogues" is a very effective means of getting intelligence into government policymaking <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>.
+3.  **Map** <a class="yt-timestamp" data-t="00:14:29">[00:14:29]</a>: The intelligence created is then mapped to current policymaking, identifying opportunities and challenges <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>. This includes building explorative [[future_scenarios_and_strategic_foresight|scenarios]] and using tools like Futures Wheels <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a>. It also involves mapping resilient indicators, using statistical data to understand future potential and weaknesses <a class="yt-timestamp" data-t="00:15:11">[00:15:11]</a>.
+4.  **Create** <a class="yt-timestamp" data-t="00:16:15">[00:16:15]</a>: This function focuses on impact and scale, creating visions and roadmaps, and linking them to policy initiatives <a class="yt-timestamp" data-t="00:16:17">[00:16:17]</a>. It emphasizes building coalitions for the future, involving stakeholders to ensure recovery and resilience <a class="yt-timestamp" data-t="00:16:32">[00:16:32]</a>.
+
+### Examples of [[public_sector_and_strategic_foresight|Strategic Foresight in the Public Sector]]
+
+#### Flanders
+The Government of Flanders, through its Chancellor and Foreign Office, established a [[public_sector and strategic foresight|strategic foresight for resilience initiative]] during the COVID-19 crisis <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. This initiative aims to generate anticipatory intelligence to support evidence-informed policymaking in volatile and complex times <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. Foresight is seen as a tool to cross boundaries of time, policy domains, and actors, fostering collaboration with academia, EU institutions, and other governments <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>.
+
+An example of the "Explore" function is a 2022 project with the Flemish research fund and Dutch counterparts, bringing scientists and policymakers together to understand challenges and opportunities across five themes and identify leverage points for government <a class="yt-timestamp" data-t="00:17:31">[00:17:31]</a>. The "Map" function is exemplified by a project with ten European regions to build and explore [[future_scenarios_and_strategic_foresight|scenarios]] for a resilient Europe <a class="yt-timestamp" data-t="00:18:50">[00:18:50]</a>.
+
+#### Finland
+Finland boasts a comprehensive ecosystem of [[public_sector_and_strategic_foresight|strategic foresight]] assets, including a parliamentary Committee for the Future, a strategic foresight team in the Prime Minister's Office, and organizations like Sitra producing megatrend reports and facilitating national dialogues for citizen participation <a class="yt-timestamp" data-t="00:42:42">[00:42:42]</a>. Sectoral ministries and government agencies also have strategy, research units, and innovation labs integrating [[understanding and utilizing strategic foresight|strategic foresight]] <a class="yt-timestamp" data-t="00:43:38">[00:43:38]</a>. Despite these assets, an "impact gap" was identified, highlighting the need to better integrate [[understanding_and_utilizing_strategic_foresight|strategic foresight]] activities into core government processes like budgeting and management <a class="yt-timestamp" data-t="00:44:30">[00:44:30]</a>.
+
+#### Estonia
+The Estonian Parliament's Foresight Center focuses on informing the public and the parliament about alternative [[future_scenarios_and_strategic_foresight|scenarios]], future risks, and opportunities <a class="yt-timestamp" data-t="00:48:14">[00:48:14]</a>. Impact is measured by parliament members conveying the center's messages, which then prompt ministries to react <a class="yt-timestamp" data-t="00:49:41">[00:49:41]</a>. The center proactively uses media to amplify its messages to reach MPs and consciously combines foresight methods with traditional analysis to provide quantitative data, such as hypothetical simulations of budgetary impacts, to engage policymakers <a class="yt-timestamp" data-t="00:51:09">[00:51:09]</a>.
+
+#### Wales
+Wales has a unique legislative approach to futures and foresight, stemming from the Well-being of Future Generations Act (2015) <a class="yt-timestamp" data-t="00:56:41">[00:56:41]</a>. This act mandates the publication of a Future Trends Report and defines "long-term" as one of five essential ways of working for sustainability <a class="yt-timestamp" data-t="00:57:05">[00:57:05]</a>. Foresight is integrated into existing systems and processes, such as impact assessments, procurement, grants, and corporate learning <a class="yt-timestamp" data-t="00:59:15">[00:59:15]</a>. The aim is to empower civil servants with tools and methods to explore foresight for policymaking <a class="yt-timestamp" data-t="01:00:07">[01:00:07]</a>. This has led to key government strategies shifting to a longer-term focus (2040-2050 horizon) <a class="yt-timestamp" data-t="01:00:35">[01:00:35]</a>.
+
+#### Nesta (UK)
+Nesta, the UK's Innovation Agency for social good, uses [[role_of_strategic_foresight_in_anticipatory_innovation|strategic foresight to inform transformative innovation]] across its missions in education, health, and sustainability <a class="yt-timestamp" data-t="01:04:15">[01:04:15]</a>. Their Discovery team conducts Horizon scanning, stress-tests ideas, and develops novel approaches blending traditional foresight with data science and qualitative research <a class="yt-timestamp" data-t="01:05:17">[01:05:17]</a>. They also engage in speculating and prototyping solutions (e.g., generative AI in early education) <a class="yt-timestamp" data-t="01:06:54">[01:06:54]</a> and expose staff to new ideas through guest speakers and expert residencies <a class="yt-timestamp" data-t="01:07:39">[01:07:39]</a>. Nesta creates spaces for exploration, such as sabbaticals and "Explorations Week," to foster experimental and self-directed work <a class="yt-timestamp" data-t="01:08:15">[01:08:15]</a>.
+
+### [[strategic_foresight_and_its_challenges_in_implementation|Challenges]] and Success Factors for Integration
+
+Key challenges in integrating [[understanding_and_utilizing_strategic_foresight|strategic foresight]] include limitations in time, resources, capacity, and short-term thinking within organizations <a class="yt-timestamp" data-t="00:26:48">[00:26:48]</a>. The culture change needed for embedding foresight is often the most difficult part, even more so than legal or structural changes <a class="yt-timestamp" data-t="01:14:13">[01:14:13]</a>.
+
+However, success factors include:
+*   **Structured Approach**: A systematic approach to looking at future changes is essential <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+*   **Empowering Others**: Providing tools and methods to colleagues to explore foresight for themselves, rather than doing all the work for them <a class="yt=" data-t="01:00:10">[01:00:10]</a>.
+*   **Tailoring Products**: Curating foresight products for different audiences, using visuals, graphs, figures, or narratives <a class="yt-timestamp" data-t="00:58:04">[00:58:04]</a>.
+*   **Framing Foresight**: Position foresight as a tool for better decision-making, not accurate predictions <a class="yt-timestamp" data-t="01:02:14">[01:02:14]</a>.
+*   **Logical Entry Points**: Identifying existing systems and processes within an organization to integrate foresight <a class="yt-timestamp" data-t="00:59:18">[00:59:18]</a>.
+*   **Utilizing Networks**: Effectively using networks, including academia, other countries, and innovation agencies, to maximize influence and impact <a class="yt-timestamp" data-t="01:01:32">[01:01:32]</a>. This includes creating hubs or coalitions for shared learning and constructive challenge <a class="yt-timestamp" data-t="01:01:37">[01:01:37]</a>.
+*   **Evidence-based Communication**: For policymakers, integrating numbers, hypothetical simulations, and budgetary impacts can be instrumental in sparking interest <a class="yt-timestamp" data-t="00:52:07">[00:52:07]</a>.
+*   **Institutionalization**: Moving from project-fragmented initiatives to a more structural mandate for doing foresight within government <a class="yt-timestamp" data-t="00:39:48">[00:39:48]</a>.
+*   **Clear Expectation Management**: Establishing clear principles, activities, and outputs for foresight work from the start and throughout the process <a class="yt-timestamp" data-t="00:23:30">[00:23:30]</a>.
+*   **Balanced Internal/External Capacity**: Ensuring sufficient internal capacity for designing and collaborating on foresight initiatives, even when engaging with external partners <a class="yt-timestamp" data-t="00:23:50">[00:23:50]</a>.
+
+> [!NOTE] Foresight is not just a set of tools or an extra administrative step. Its transformative power lies in challenging conventional thinking and assumptions at all stages of policymaking to enable a culture of anticipation <a class="yt-timestamp" data-t="00:40:45">[00:40:45]</a>. It enables the use of not only analytical instruments and data but also imagination <a class="yt-timestamp" data-t="00:41:06">[00:41:06]</a>.

@@ -1,0 +1,49 @@
+---
+title: International and local collaboration in crisis management
+videoId: 6tiE0MU-fJk
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+The COVID-19 pandemic served as an unprecedented shock to global systems, prompting widespread learning and reflection among governments worldwide. A key focus has been to identify what practices should be retained, what should be discarded, and what needs to be done differently in the future <a class="yt-timestamp" data-t="00:39:41">[00:39:41]</a>. Discussions among countries like the UAE, Montenegro, Estonia, and Indonesia reveal critical insights into [[international_collaboration_during_crises | international]] and local [[the_role_of_civil_society_in_crisis_management | collaboration]] in crisis management.
+
+## Early Response and Mobilization
+Governments globally were taken by surprise by the pandemic <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>, necessitating rapid and agile responses. Countries quickly prioritized critical areas like health and food <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. This often involved mobilizing all policy departments and sectors of administration and society <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>.
+
+### Prioritizing Public Services and Digitalization
+A crucial aspect of the early response was ensuring the continuity of services to citizens, which led to a rethinking of working patterns, service provision, and communication methods <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>. This often meant a rapid shift towards [[innovation_in_response_to_crisis | digitalization]] and e-services:
+*   **Indonesia:** Quickly developed a centralized data platform to integrate surveillance and case data across 514 districts and cities within a month of the first case <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>. This platform was used by local leaders to monitor the situation and drive public communication <a class="yt-timestamp" data-t="00:12:41">[00:12:41]</a>. This highlights how a crisis can accelerate necessary technological advancements <a class="yt-timestamp" data-t="00:14:26">[00:14:26]</a>.
+*   **Montenegro:** Mobilized [[public_sector_skills_for_international_collaboration | public administration]] and software developers to design new apps and services, providing secure communication channels for remote work and upgrading e-services to ensure citizens could access their rights from home <a class="yt-timestamp" data-t="00:17:26">[00:17:26]</a>.
+*   **UAE:** Benefited from prior heavy investments in Digital Services, allowing for an easy migration to online services during lockdown <a class="yt-timestamp" data-t="00:32:49">[00:32:49]</a>. They plan to close 50% of physical customer care centers within two years, cementing this shift <a class="yt-timestamp" data-t="00:33:17">[00:33:17]</a>.
+
+## Leveraging Local and Civil Society Capabilities
+The pandemic underscored the importance of harnessing local capabilities and engaging civil society and the private sector.
+*   **Estonia:** Noted the significant benefit from [[the_role_of_civil_society_in_crisis_management | community involvement]], particularly from the tech community and hackers, who offered to help the [[role_of_government_in_crisis_management | government]] even for free <a class="yt-timestamp" data-t="00:25:24">[00:25:24]</a>. Quick digital fixes, such as managing protective gear stock and public maps for COVID-19 spread, were built over a weekend hackathon <a class="yt-timestamp" data-t="00:26:11">[00:26:11]</a>.
+*   **Indonesia:** Discovered its internal capacity to produce Personal Protective Equipment (PPE) after initial shortages, leveraging its textile industry and locally available raw materials to produce high-level protection gear <a class="yt-timestamp" data-t="00:28:01">[00:28:01]</a>.
+
+## Global Interconnectedness and Collaboration
+The crisis highlighted the interconnectedness of the world and the necessity of [[challenges_and_strategies_for_global_collaboration | global cooperation]].
+*   **UAE:** Utilized its strong food storage capacity, a benefit from prior investment in food security, not only to secure its own supply but also to provide food aid to approximately 120 countries internationally <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. They also invested heavily in vaccine adoption and stem cell research <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>.
+*   **Indonesia:** While developing its own PPE, still needed international ISO standards from the United States and relied on raw materials from South Korea and Taiwan, illustrating complex global supply chains <a class="yt-timestamp" data-t="00:28:17">[00:28:17]</a>.
+*   **Shared Learning:** The session itself, organized by the UAE and Helsinki, with participants from four countries, exemplifies [[cocreation_and_international_collaboration | global collaboration]] and shared learning in real-time <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>.
+
+## Challenges and Lessons Learned for Future Collaboration
+Despite successes, challenges were identified, emphasizing areas for future improvement.
+*   **Data Maturity:** Estonia noted that its primary issue was data integrity and data maturity, needing a "crash course" in getting data flowing and published for decision-making <a class="yt-timestamp" data-t="00:19:56">[00:19:56]</a>.
+*   **Lack of Pre-defined Strategies:** Montenegro pointed out the absence of a clear strategy or policy paper for similar situations, leading to a fragmented crisis response instead of coordinated action across sectors <a class="yt-timestamp" data-t="00:23:06">[00:23:06]</a>.
+*   **Procurement Reform:** Montenegro's public procurement process proved to be too slow for a fast response, highlighting the need for e-procurement and digital innovation to accelerate urgent purchases <a class="yt-timestamp" data-t="00:24:06">[00:24:06]</a>.
+*   **Readiness for External Collaboration:** Estonia found that while the community was eager to help, the government's readiness to integrate their efforts was a bottleneck <a class="yt-timestamp" data-t="00:25:49">[00:25:49]</a>.
+
+## Institutionalizing New Ways of Working
+A crucial question for the future is how to make these new, agile ways of working stick and prevent a return to old habits <a class="yt-timestamp" data-t="00:31:07">[00:31:07]</a>.
+*   **Measuring Productivity:** A challenge for remote work in government is cracking how to measure staff productivity when working from home <a class="yt-timestamp" data-t="00:31:51">[00:31:51]</a>.
+*   **Proactive Planning:** The UAE emphasizes the importance of anticipating and proactively investing in key areas, such as Digital Services and smart education, to reap future benefits <a class="yt-timestamp" data-t="00:32:33">[00:32:33]</a>. They have developed a post-COVID strategy focusing on opportunities in all sectors <a class="yt-timestamp" data-t="00:52:18">[00:52:18]</a>, even doubling down on ambitious space missions during the pandemic <a class="yt-timestamp" data-t="00:53:03">[00:53:03]</a>.
+*   **Agility in Governance:** The UAE plans to announce an "agile framework" to mainstream and institutionalize a fast-track approach for urgent, high-priority issues, suggesting a permanent shift away from a "one size fits all" regulatory approach <a class="yt-timestamp" data-t="00:35:10">[00:35:10]</a>.
+*   **Long-term Digital Transformation:** Montenegro anticipates governmental agencies decreasing or abolishing direct in-person contact and fully switching to electronic communication and service delivery as a long-term trend <a class="yt-timestamp" data-t="00:40:22">[00:40:22]</a>.
+*   **Post-COVID Committees:** Indonesia has established a committee with two task forces: one to control COVID-19 and another for the National Recovery Plan, including improving health systems and investing in capacity to detect, prevent, and respond to emerging infectious diseases <a class="yt-timestamp" data-t="00:54:36">[00:54:36]</a>. This includes building a network of 442 laboratories, which can support drug and vaccine development in peaceful times <a class="yt-timestamp" data-t="00:55:37">[00:55:37]</a>.
+
+### The Human Element
+Beyond technical and policy changes, the human aspect of crisis management is crucial. The surprising adaptability of children to remote schooling <a class="yt-timestamp" data-t="00:21:24">[00:21:24]</a> and the importance of mental health and social well-being for the workforce <a class="yt-timestamp" data-t="00:41:08">[00:41:08]</a> were highlighted. The pandemic also underlined how interdependent humans are on each other, fostering a sense of community <a class="yt-timestamp" data-t="00:41:23">[00:41:23]</a>.
+
+## Conclusion
+The COVID-19 pandemic has accelerated digital transformation and highlighted the critical importance of [[government_collaboration_to_tackle_global_challenges | collaboration]], flexibility, inclusion, and accountability in government response <a class="yt-timestamp" data-t="00:42:06">[00:42:06]</a>. While there is optimism that these new approaches will stick, there is also a recognition that conscious effort is needed to institutionalize them and ensure governments are better prepared for future challenges like climate change <a class="yt-timestamp" data-t="00:38:47">[00:38:47]</a>. The crisis serves as a powerful guide for the further development of modern [[public_sector_skills_for_international_collaboration | public administration]] and digital transformation <a class="yt-timestamp" data-t="00:43:47">[00:43:47]</a>.

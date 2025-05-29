@@ -1,34 +1,24 @@
 ---
-title: Adaptive innovation
-videoId: xktgrzeTePI
+title: adaptive innovation
+videoId: dPkUBK0Y-jo
 ---
 
 From: [[oecdobservatoryofpublicsec3116]] <br/> 
 
-[[Understanding adaptive innovation|Adaptive innovation]] is a type of innovation characterized by exploratory activity where there is no clear direction for where the innovation is headed <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>, <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>. It involves innovators exploring new ideas during practice <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>, <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+[[adaptive_innovation_in_public_services | Adaptive innovation]] is defined as a discovery process where the innovator lacks clear, predefined goals for why they are innovating <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. Instead, it focuses on [[exploration_and_adaptive_innovation | exploring]] new ideas and uncovering what is possible <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. This approach is crucial for the emergence of entirely new concepts, especially as thinking is often confined by existing systems and paradigms <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
 
-## Key Variables in Innovation
+## Characteristics and Approach
 
-Two crucial variables define innovation in general, which then help differentiate various types of innovation, including [[understanding_adaptive_innovation|adaptive innovation]] <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>, <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>:
+[[adaptive_innovation_in_public_services | Adaptive innovation]] involves exploring new ideas "on the ground" that could either enhance existing [[government_innovation_and_adaptation | government]] services or challenge the current systems in place <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. For this process to flourish, individuals need to be given the freedom and space, from a bottom-up perspective, to [[exploration_and_adaptive_innovation | explore]] novel ideas <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Those working most closely with citizens are uniquely positioned to interpret signals from people's daily lives and to innovate, test, and experiment based on direct feedback from the system itself <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
 
-1.  **Direction of Activity**
-    *   **Directed Activity:** Innovation aimed at solving a specific problem, such as homelessness, poverty, or climate change, with a clear mandate <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>, <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>, <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>, <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
-    *   **Non-Directed Activity:** Innovation focused on exploring and adapting to new situations, where ideas simply emerge <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>, <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>, <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+## Outcomes
 
-2.  **Uncertainty or Radicality**
-    *   **Radical/Uncertain:** The process is highly uncertain, often involving exploration of new ideas <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>, <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>, <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>, <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
-    *   **Incremental/Calculated Risk:** Risks associated with the innovation can be calculated, often involving exploitation of existing ideas in new contexts <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>, <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>, <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>, <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+[[adaptive_innovation_in_public_services | Adaptive innovation]] can lead to two main types of outcomes:
+*   **[[transformative_and_enhancement_oriented_innovation | Transformative innovation]]** <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>
+*   **[[transformative_and_enhancement_oriented_innovation | Enhancement-oriented innovation]]** <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>
 
-## [[Understanding adaptive innovation|Adaptive Innovation]] in Context
+Both are considered vital outputs of the adaptive process <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
 
-[[Adaptive innovation in public services|Adaptive innovation]] arises when there is an exploration activity without a clear predefined direction <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>, <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>, <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>, <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. Innovators engage in exploring new ideas as they practice and learn <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>, <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+## Example: Regulatory Understanding in Canada
 
-### Distinctions from Other Innovation Types
-
-Different facets of public sector innovation emerge based on these two variables of direction and uncertainty <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>, <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>, <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>:
-
-*   **Mission-Oriented Innovation:** This type of innovation is connected to a directed, purpose-filled activity, aiming to solve significant societal missions <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>, <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>, <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
-*   [[Anticipatory innovation|Anticipatory innovation]]: Occurs when the situation involves deep uncertainty and focuses on the exploration of new ideas and radical transformation, anticipating future changes <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>, <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>, <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>, <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>, <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>, <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. This often involves working on ideas that can be quite radical to existing systems <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>, <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
-*   [[Enhancementoriented innovation|Enhancement-oriented innovation]]: Focuses on improving or enhancing systems that are already in place <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>, <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>, <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
-
-These four key areas of public sector innovation—mission-oriented, [[adaptive_innovation|adaptive]], [[anticipatory_innovation|anticipatory]], and [[enhancementoriented_innovation|enhancement-oriented]]—each require different approaches in terms of direction, strategy, capacity, and allowance for innovation to occur within government <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>, <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>, <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>, <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
+An example of [[adaptive_innovation_in_public_services | adaptive innovation]] comes from Canada, where individuals, often working "by the side of their desk," developed various applications <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. The goal of these apps was to make the regulatory system more accessible and understandable for citizens <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. For instance, they created apps that simplify understanding which regulations apply when establishing a company <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. This shift redefined the problem from one of excessive regulation to one of making existing regulation understandable and usable for the client <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. This specific initiative emerged directly from an [[adaptive_innovation_in_public_services | adaptive innovation]] approach <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
