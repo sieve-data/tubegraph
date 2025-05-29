@@ -184,6 +184,12 @@ async function setupCreateGraphButton() {
     return
   }
 
+  // Check if we've already set up this button to prevent duplicate listeners
+  if (createButton.dataset.listenerAdded === "true") {
+    console.log("Create Graph button already has listener, skipping...")
+    return
+  }
+
   console.log("Create Graph button found, adding event listener...")
 
   createButton.addEventListener("click", async (e) => {
@@ -229,6 +235,9 @@ async function setupCreateGraphButton() {
       createButton.style.backgroundColor = "#ef4444"
     }
   })
+
+  // Mark that we've added the listener
+  createButton.dataset.listenerAdded = "true"
 }
 
 async function createTubegraphPages(
