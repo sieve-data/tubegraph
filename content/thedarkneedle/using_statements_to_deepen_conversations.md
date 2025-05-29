@@ -1,0 +1,35 @@
+---
+title: Using statements to deepen conversations
+videoId: n137noG81gU
+---
+
+From: [[thedarkneedle]] <br/> 
+
+Many common conversational pitfalls, such as running out of things to say or getting stuck in the "friend zone," can be resolved by strategically using statements instead of relying solely on questions <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. Shifting from a question-and-answer format to an engaging dialogue can transform interactions and foster deeper connections <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+
+## Moving Beyond the "Human Questionnaire"
+A common mistake men make after breaking the ice with a woman is to immediately turn into a "human questionnaire," barraging her with mundane "get to know you" inquiries <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. This relentless interrogation not only bores her but also prevents genuine engagement <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Instead of leaping from one question to the next without expanding on a topic, try this:
+
+*   **Follow questions with statements** <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. This shows you're listening and allows for a deeper connection, opening up more fun or intimate topics <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. For example, after she mentions having cats, you could state, "Ah, so you're one of those cat people, huh?" <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a> This injects fun and banter, leading to more interesting discussions <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
+
+## [[building_power_in_relationships | Building Power]] Through Qualifying Statements
+Once rapport is established, men often cling to safe topics, fearing they might shatter the fragile connection <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. This often backfires, boring a previously interested woman <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. Instead, consider:
+
+*   **Qualifying her with statements** <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. This involves making a statement that might seemingly "disqualify" her as a potential partner, placing you in the role of the "selector" <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. For example, upon hearing she has cats, you could state, "Hm, we would never get along. I'm a dog person, and I've heard that dog and cat owners tend to have a really intense sexual connection but disagree on every other possible point" <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. This subtly challenges her, compelling her to prove herself and shifting the conversation from small talk to a playful battle of wits <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+
+## Going Deeper with [[crafting_effective_barnum_statements | Cold Reads]] and Emotional Expressions
+Men tend to focus on facts and surface-level stories, which are good for small talk but don't ignite passion <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. Women often prefer discussing deeper, emotional meanings behind events <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>.
+
+*   **Using cold reads** <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. A cold read is a statement of something you've noticed about her, followed by a deeper observation about it, encouraging her to open up about her feelings <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. For example, "I can tell just by the way you're talking that you're the kind of girl who goes on a lot of dates but has trouble finding someone you're actually interested in" <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. This allows you to delve into emotional realms and present yourself as a new, exciting option <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>.
+*   **[[emphasizing_passion_and_enthusiasm_in_conversations | Emphasize passion and enthusiasm]]** <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>. Women often seek passionate men <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. Statements that convey your excitement about a topic, even a mundane one like cooking, can transform it into an engrossing conversation <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. Let your entrepreneurial spirit shine, or express the drive you feel from exploring new places <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
+*   **Keep the conversation playful and fun** <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>. [[encouraging_women_to_invest_emotionally_in_conversations | Teasing]] creates a fun environment where a woman can relax and open up <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. This means being silly and playfully picking on her, such as pulling your hand away from a high-five or telling an exaggerated lie <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>.
+
+## Crafting Statements for Smooth Transitions
+Running out of things to talk about often happens when men don't recognize how to smoothly change a conversation thread or don't provide enough new threads for the woman to grab onto <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+
+*   **Provide multiple conversation threads** <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. When crafting sentences, offer several topics she can latch onto. Instead of just saying "I love baseball," say, "I love baseball because when I was young my father used to take me to games and now that I'm older I feel a real sense of nostalgia toward it" <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. This allows her to talk about her dad, nostalgia, or baseball itself, ensuring the conversation doesn't stall <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>. This is a key [[techniques_to_avoid_running_out_of_conversation_topics | technique to avoid running out of conversation topics]] because it keeps the dialogue flowing <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>.
+
+## Anchoring Positive Emotions
+The emotions that arise during a conversation can subconsciously anchor them to you <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>. It's crucial to draw her into a positive emotional state <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
+
+*   **Ask questions and make statements that prompt her to talk about specific feelings** <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>. For example, instead of asking about facts related to snowboarding, get her to talk about the *feelings* she experiences, such as the "rush" or "adventure" <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. This focuses on the [[importance_of_asking_emotional_questions | emotional meaning]] behind activities, anchoring positive feelings like adventure and excitement to you <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>.
