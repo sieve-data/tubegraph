@@ -1,0 +1,40 @@
+---
+title: Common phrases used by bad companies
+videoId: Zh6MeGROvXM
+---
+
+From: [[alifeafterlayoff]] <br/> 
+Identifying problematic language used by companies, whether during the hiring process or within the workplace, can serve as a crucial indicator of a potentially unhealthy environment. These phrases can act as [[Red flags in job postings and recruitment processes | red flags]] that suggest a need to either avoid the situation or plan an exit strategy <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. While not every company using these phrases is necessarily a bad place to work, they are overarching things to observe in a workplace setting <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+
+### Common Phrases and Their Implications
+
+Here are some common phrases that may signal a company is not a good fit:
+
+#### "We work hard, we play hard." <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>
+When a company uses this phrase, it often indicates an expectation of really long, stressful hours and potentially unattainable metrics <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. The culture might be driven by fear <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. The "hard work" is usually incentivized with a dangling carrot, such as an elaborate vacation or bonus, which is often difficult to obtain <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+
+The "play hard" aspect often involves mandatory celebrations or events that occur after hours or on weekends, which are typically uncompensated <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. This environment can quickly become taxing, especially for those with family or other commitments <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+
+#### "We are family." <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>
+This phrase is frequently heard in small, privately owned companies, though sometimes larger organizations also claim to operate like a family <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. The issue arises when owners expect employees to treat the company like their own family, which is often unrealistic and can be insulting <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. Such "family-run" environments can feel cult-like and be off-putting if an employee doesn't share the same enthusiasm <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+
+#### "We will promote you later, we promise." <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>
+If a company promises a promotion in six months or a year during an interview to get you to sign on, it's a significant [[Red flags in job postings | red flag]] <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. This often means they lack the budget or are unwilling to pay what you're worth, using the promise as a way to lure you <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. If this promise isn't in writing, you might struggle to get it honored, especially if the hiring manager leaves the company <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. For current employees, if the promotion target constantly moves, it's a clear sign to update your resume and seek opportunities elsewhere, as good companies value and properly promote their employees <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
+
+#### "You are replaceable." <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>
+This statement indicates that a company does not value its employees <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. Such environments often have strict guidelines and foster a palpable sense of fear, where employees feel they could be reprimanded or replaced at any moment <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. Working for a company that openly states you are replaceable means giving away your power and living in fear <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. The advice is to make yourself replaceable by finding a company that values your worth <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
+
+#### "We wear a lot of hats here." <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>
+Commonly heard in startup companies, this phrase often means you will be expected to perform multiple jobs outside your primary scope, while only being paid the lower salary <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. If a company claims to be in "startup mode" even after five to seven years, it's a significant [[Red flags in job postings | red flag]] <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. They will likely continue to use this as an excuse to underpay and overwork you <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>. A high-quality company typically allocates the right resources and personnel to specific roles, so employees shouldn't have to wear multiple hats <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>.
+
+#### "We only hire rock stars." <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>
+This phrase often appears in [[identifying_cringeworthy_job_posts | job postings]] where companies try to seem "cute" by claiming they only work with "the best of the best" <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>. However, it's a [[Red flags in job postings | red flag]] if they are unwilling to compensate for such talent <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>. It's advisable to check their Glassdoor reviews to see if their claims match employee experiences <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>.
+
+#### "We are always hiring." <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>
+If a company is consistently hiring, it usually indicates a high employee turnover rate or a "revolving door" <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. While rapidly growing companies might be an exception, for established companies, this is a major [[Red flags in job postings and recruitment processes | red flag]] <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. If you find yourself interviewing for a company that is always hiring for your position, it's essential to ask tough questions in the interview about their turnover rates <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+
+#### "We will call you back for a recall (after a layoff)." <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>
+This is more common in hourly roles but can occur on the salary side as well <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>. Some companies are quick to lay people off at the first sign of trouble, often the same companies that claim to have a "family environment" <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. They promise to call you back when conditions improve <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>. However, accepting a recall means returning to an environment that has already demonstrated a lack of commitment to you <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. It is advised to have self-respect and not return to a company that has laid you off <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
+
+#### "We've got a foosball table." <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>
+Often used by organizations attempting to appear trendy or hip, a foosball table or similar perk does not compensate for poor treatment, a toxic work environment, or low pay <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. Such amenities are likened to "putting lipstick on a pig"; they do not change the underlying quality of the employer <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>. If a company treats employees poorly but boasts a foosball table, it remains a low-quality employer to be avoided <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
