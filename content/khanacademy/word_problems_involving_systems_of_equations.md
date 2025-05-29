@@ -1,88 +1,93 @@
 ---
 title: Word problems involving systems of equations
-videoId: V7H1oUHXPkg
+videoId: vA-55wZtLeE
 ---
 
 From: [[khanacademy]] <br/> 
 
-This article focuses on an algebraic technique for [[solving_linear_equations|solving systems of equations]], specifically the [[substitution_method_for_solving_linear_systems|substitution method]], which provides an exact answer without needing to graph the lines <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. It builds upon the concept of a [[introduction_to_systems_of_equations|system of equations]] introduced previously <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+Word problems involving [[systems_of_equations | systems of equations]] require translating real-world scenarios into mathematical expressions and then using algebraic methods to find solutions <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>. These problems typically involve multiple unknown quantities that are related to each other through several conditions.
 
-## The Substitution Method
+## General Approach
 
-The [[substitution_method_for_solving_linear_systems|substitution method]] involves using one of the equations to solve for one of the variables, and then substituting that expression back into the other equation <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. This reduces the [[systematic_approach_to_solving_equations|system of equations]] to a single equation with one unknown, which can then be solved <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+Solving [[word_problems_in_algebra | word problems]] with [[systems_of_equations | systems of equations]] generally follows these steps:
 
-### Example 1: Solving a System Algebraically
+1.  **Define Variables**
+    *   Identify the unknown quantities in the problem and assign a unique variable (e.g., x, y) to each <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. It's often helpful to write down what each variable represents.
+2.  **Formulate Equations**
+    *   Translate the given information and conditions into a set of linear equations. Each distinct piece of information often corresponds to one equation <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
+3.  **Solve the System**
+    *   Use a suitable method to solve the [[systems_of_equations | system of equations]] for the values of the defined variables. Common methods include:
+        *   [[solving_linear_systems_by_substitution | Substitution]] <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>
+        *   [[solving_systems_of_equations | Elimination]] <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>
+        *   [[visualization_techniques_in_solving_equations | Graphing]] (though often less precise for exact numerical solutions) <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>
+4.  **Verify the Solution**
+    *   Plug the found variable values back into the original equations to ensure they satisfy all conditions of the problem <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
 
-Consider the following [[introduction_to_systems_of_equations|system of equations]]:
-1.  `x + 2y = 9` <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>
-2.  `3x + 5y = 20` <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>
+## Example: Candy Store Purchase
 
-Traditionally, one might use a [[graphical_interpretation_of_systems_of_equations|graphical interpretation of systems of equations]] to find the intersection point <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>, but this can be inexact <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+Consider the following problem:
+*   Nadia buys 3 candy bars and 4 Fruit Roll-Ups for $2.84 <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>.
+*   Peter buys 3 candy bars and 1 Fruit Roll-Up for $1.79 <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
+*   What is the cost of each candy bar and each Fruit Roll-Up? <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>
 
-#### Steps for Solution:
+### Step 1: Define Variables
 
-1.  **Solve one equation for one variable:**
-    From equation 1 (`x + 2y = 9`), subtract `2y` from both sides to solve for `x` <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>:
-    `x = 9 - 2y` <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>
+Let:
+*   `x` = cost of a candy bar <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>
+*   `y` = cost of a Fruit Roll-Up <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>
 
-2.  **Substitute the expression into the other equation:**
-    Substitute `(9 - 2y)` for `x` in equation 2 (`3x + 5y = 20`) <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>:
-    `3 * (9 - 2y) + 5y = 20` <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>
+### Step 2: Formulate Equations
 
-3.  **Solve the resulting single-variable equation:**
-    *   Distribute the 3: `27 - 6y + 5y = 20` <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>
-    *   Combine like terms: `27 - y = 20` <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>
-    *   Subtract 27 from both sides: `-y = 20 - 27` <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>
-    *   `-y = -7` <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>
-    *   Multiply by -1: `y = 7` <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>
+From Nadia's purchase:
+*   `3x + 4y = 2.84` <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>
 
-4.  **Substitute the found value back into the expression from step 1 to find the other variable:**
-    Using `x = 9 - 2y` and `y = 7` <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>:
-    `x = 9 - 2 * (7)` <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>
-    `x = 9 - 14` <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>
-    `x = -5` <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>
+From Peter's purchase:
+*   `3x + 1y = 1.79` (or `3x + y = 1.79`) <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>
 
-#### Solution Verification:
-The solution is `x = -5` and `y = 7` <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
-*   For `x + 2y = 9`: `-5 + 2(7) = -5 + 14 = 9` (True) <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>
-*   For `3x + 5y = 20`: `3(-5) + 5(7) = -15 + 35 = 20` (True) <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>
+This creates a [[systems_of_equations | system of equations]]:
+1.  `3x + 4y = 2.84`
+2.  `3x + y = 1.79`
 
-If graphed, these lines would intersect at the point `(-5, 7)` <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+### Step 3: Solve the System (using [[solving_systems_of_equations | Elimination]])
 
-## Interpreting and Solving Word Problems with Systems of Equations
+The goal of [[solving_systems_of_equations | elimination]] is to add or subtract the equations in a way that eliminates one variable, leaving a single equation with one variable <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
 
-The [[substitution_method_for_solving_linear_systems|substitution method]] is particularly useful for [[interpreting_and_solving_word_problems_with_systems_of_equations|interpreting and solving word problems with systems of equations]] <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>. The key is to define variables and translate the problem's statements into algebraic equations.
+Notice that both equations have `3x`. Subtracting the second equation from the first will eliminate `x` <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>.
+When subtracting one equation from another, you are essentially adding the negative of the second equation to the first. This is valid because you are adding equal quantities to both sides of the equation <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>.
 
-### Example 2: Sum and Difference of Two Numbers
+Subtract Equation (2) from Equation (1):
+`(3x + 4y) - (3x + y) = 2.84 - 1.79` <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>
 
-**Problem:** The sum of two numbers is 70, and they differ by 11. What are the numbers? <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>
+Distribute the negative sign:
+`3x + 4y - 3x - y = 2.84 - 1.79` <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>
 
-#### Steps for Solution:
+Combine like terms:
+` (3x - 3x) + (4y - y) = 1.05 ` <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>
+`0x + 3y = 1.05` <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>
+`3y = 1.05` <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>
 
-1.  **Define variables:**
-    *   Let `x` be the larger number <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>.
-    *   Let `y` be the smaller number <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
+Now, [[solving_simple_linear_equations | solve for y]]:
+`y = 1.05 / 3` <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>
+`y = 0.35` <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>
 
-2.  **Translate statements into equations:**
-    *   "The sum of two numbers is 70": `x + y = 70` <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>
-    *   "They differ by 11": `x - y = 11` <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>
+So, the cost of a Fruit Roll-Up is $0.35 <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.
 
-3.  **Solve the resulting [[introduction_to_systems_of_equations|system of equations]] using the [[substitution_method_for_solving_linear_systems|substitution method]]:**
-    *   From the second equation (`x - y = 11`), solve for `x`:
-        Add `y` to both sides: `x = 11 + y` <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
-    *   Substitute this expression for `x` into the first equation (`x + y = 70`):
-        `(11 + y) + y = 70` <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>
-    *   Solve the resulting equation for `y`:
-        `11 + 2y = 70` <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>
-        Subtract 11 from both sides: `2y = 59` <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>
-        Divide by 2: `y = 59/2` or `y = 29.5` <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>
-    *   Substitute the value of `y` back into `x = 11 + y` to find `x`:
-        `x = 11 + 29.5` <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>
-        `x = 40.5` <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>
+Next, [[solving_equations_with_variables | substitute]] the value of `y` into either of the original equations to [[solving_equations_with_variables | solve for x]] <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>. Using the second equation (`3x + y = 1.79`):
+`3x + 0.35 = 1.79` <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>
 
-#### Solution Verification:
-The two numbers are 40.5 and 29.5.
-*   **Sum:** `40.5 + 29.5 = 70` (True) <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>
-*   **Difference:** `40.5 - 29.5 = 11` (True) <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>
+[[Solving equations with variables on both sides | Subtract]] 0.35 from both sides:
+`3x = 1.79 - 0.35` <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>
+`3x = 1.44` <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>
 
-The key to solving a [[systematic_approach_to_solving_equations|system of equations]] is to use all given constraints <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a>.
+[[Solving simple linear equations | Solve for x]]:
+`x = 1.44 / 3` <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>
+`x = 0.48` <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>
+
+So, the cost of a candy bar is $0.48 <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
+
+### Step 4: Verify the Solution
+
+*   **Nadia's purchase:** `3($0.48) + 4($0.35) = $1.44 + $1.40 = $2.84`. This matches the given information <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>.
+*   **Peter's purchase:** `3($0.48) + 1($0.35) = $1.44 + $0.35 = $1.79`. This matches the given information <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>.
+
+The solution satisfies both equations, confirming that a candy bar costs $0.48 and a Fruit Roll-Up costs $0.35 <a class="yt-timestamp" data-t="00:12:31">[00:12:31]</a>.

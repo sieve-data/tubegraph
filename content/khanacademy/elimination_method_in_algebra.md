@@ -5,113 +5,82 @@ videoId: vA-55wZtLeE
 
 From: [[khanacademy]] <br/> 
 
-The [[solving_systems_of_equations_using_elimination | elimination method]] is a technique used to [[solving_systems_of_equations_using_elimination | solve systems of equations]] by removing one of the variables <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This approach aims to simplify a system of two equations with two variables into a single equation with one variable, making it solvable <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. Graphically, the solution to a system of equations represents the intersection point of the lines that correspond to each equation's solution set <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+The [[algebraic_methods_in_algebra | elimination method]] is a technique used to solve [[algebraic_methods_in_algebra | systems of equations]] <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. The goal of this method is to [[substitution_vs_elimination_methods | eliminate]] one of the variables, allowing you to solve for the remaining variable in a single equation <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. Graphically, the solution represents the point of intersection of the lines defined by each equation <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
 
-## Principle of Elimination
+## How the Elimination Method Works
 
-The core idea of the [[solving_systems_of_equations_using_elimination | elimination method]] is to [[solving_systems_of_equations_using_elimination | eliminate one of the variables]] by either adding or subtracting the equations <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. This is based on the algebraic principle that if you [[understanding_equality_in_algebra | add or subtract the same thing to both sides]] of an equation, the equation remains true <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+The core principle of the elimination method is that you can add or subtract one entire equation from another, as long as you perform the same operation on both sides of the equation <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. This is permissible because if two quantities are equal, adding or subtracting one to both sides of another equation maintains the equality <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
 
-Consider a system of equations where `Ax + By = C` <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. If you add `D` to both sides, you get `Ax + By + D = C + D`, maintaining equality <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. In the context of systems, if you have two equations, say:
+### Example 1: Adding Equations
+
+Consider the following system of equations:
 1.  `3x + 4y = 2.5` <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>
 2.  `5x - 4y = 25.5` <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>
 
-You can add the left-hand side of the second equation to the left-hand side of the first, and the right-hand side of the second equation to the right-hand side of the first <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. This is valid because `5x - 4y` is known to be equal to `25.5` <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. Therefore, you are effectively [[understanding_equality_in_algebra | adding the same quantity to both sides]] of the first equation <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
+Notice that the `y` terms have coefficients that are opposites (`+4y` and `-4y`) <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>. This makes them ideal for elimination by addition.
 
-## Example 1: Solving a System of Linear Equations
+To solve this system using elimination:
+1.  **Add the left-hand sides together and the right-hand sides together:**
+    `(3x + 4y) + (5x - 4y) = 2.5 + 25.5` <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>
+2.  **Combine like terms:**
+    `8x + 0y = 28` <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>
+    `8x = 28` <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>
+3.  **Solve for x:**
+    `x = 28 / 8` <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>
+    `x = 7/2` (or 3.5) <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>
+4.  **Substitute the x-value back into either original equation to solve for y:**
+    Using the first equation: `3(7/2) + 4y = 2.5` <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>
+    `21/2 + 4y = 5/2` (2.5 written as a fraction) <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>
+    `4y = 5/2 - 21/2` <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>
+    `4y = -16/2` <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>
+    `4y = -8` <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>
+    `y = -2` <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>
 
-Let's [[solving_systems_of_equations_using_elimination | solve the system of equations]] mentioned above:
-1.  `3x + 4y = 2.5` <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>
-2.  `5x - 4y = 25.5` <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>
+Thus, the solution is `x = 7/2` and `y = -2` <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. You can [[checking_solutions_in_algebra | check solutions]] by substituting these values back into the other original equation <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
 
-### Step 1: Eliminate a Variable
-Notice the `+4y` in the first equation and `-4y` in the second <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. If these equations are added together, the `y` terms will cancel out <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+## Application: Solving Word Problems
 
-```
-  3x + 4y = 2.5
-+ 5x - 4y = 25.5
------------------
-  8x + 0y = 28
-```
-This simplifies to `8x = 28` <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+The elimination method is particularly useful for [[word_problems_in_algebra | word problems in algebra]] that translate into systems of equations <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>.
 
-### Step 2: Solve for the Remaining Variable
-Divide both sides by 8:
-`x = 28 / 8` <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>
-Simplify the fraction by dividing numerator and denominator by 4:
-`x = 7 / 2` <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>
+### Example 2: Candy Store Purchase
 
-### Step 3: Solve for the Eliminated Variable using Substitution
-[[Using substitution to verify algebraic solutions | Substitute]] the value of `x` (7/2) into either of the original equations to solve for `y` <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Using the first equation:
-`3(7/2) + 4y = 2.5` <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>
-`21/2 + 4y = 5/2` (since 2.5 is 5/2) <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>
-Subtract `21/2` from both sides:
-`4y = 5/2 - 21/2` <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>
-`4y = -16/2` <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>
-`4y = -8` <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>
-Divide both sides by 4:
-`y = -2` <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>
+**Problem:** Nadia buys 3 candy bars and 4 Fruit Roll-Ups for $2.84. Peter buys 3 candy bars and 1 Fruit Roll-Up for $1.79. What is the cost of each candy bar and each Fruit Roll-Up? <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>
 
-The solution is `x = 7/2` and `y = -2` <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. This represents the coordinate of the intersection point of the two lines <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+1.  **Define variables:**
+    *   Let `x` = cost of a candy bar <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>
+    *   Let `y` = cost of a Fruit Roll-Up <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>
 
-### Step 4: Verify the Solution
-Check if the solution satisfies the second original equation:
-`5x - 4y = 25.5` <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>
-`5(7/2) - 4(-2)` <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>
-`35/2 - (-8)` <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>
-`17.5 + 8 = 25.5` <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>
-The solution satisfies both equations <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>.
+2.  **Formulate equations:**
+    *   Nadia's purchase: `3x + 4y = 2.84` <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>
+    *   Peter's purchase: `3x + 1y = 1.79` <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>
 
-## Example 2: Real-World Application (Word Problem)
+3.  **Eliminate a variable using subtraction:**
+    Notice that the `x` terms have the same coefficient (`3x`). To eliminate `x`, you can subtract the second equation from the first <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>. This is equivalent to multiplying the second equation by -1 and then adding it to the first <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>.
 
-The [[applying_elimination_method_to_realworld_scenarios | elimination method]] can be applied to solve word problems that translate into systems of equations <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>.
+    Subtracting (or adding the negative of the second equation):
+    `(3x + 4y) - (3x + y) = 2.84 - 1.79` <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>
+    `3x - 3x + 4y - y = 1.05`
+    `0x + 3y = 1.05` <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>
+    `3y = 1.05` <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a>
 
-### Problem Statement
-Nadia buys 3 candy bars and 4 Fruit Roll-Ups for $2.84. Peter buys 3 candy bars and 1 Fruit Roll-Up for $1.79. What is the cost of each candy bar and each Fruit Roll-Up? <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>
+4.  **Solve for y:**
+    `y = 1.05 / 3` <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>
+    `y = 0.35` <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>
+    So, a Fruit Roll-Up costs $0.35 <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.
 
-### Step 1: Define Variables
-Let `x` = cost of a candy bar <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>
-Let `y` = cost of a Fruit Roll-Up <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>
+5.  **Substitute the y-value back into either original equation to solve for x:**
+    Using Peter's equation (`3x + y = 1.79`): <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>
+    `3x + 0.35 = 1.79` <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>
+    `3x = 1.79 - 0.35` <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>
+    `3x = 1.44` <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>
+    `x = 1.44 / 3` <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>
+    `x = 0.48` <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>
+    So, a candy bar costs $0.48 <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
 
-### Step 2: Formulate the System of Equations
-*   Nadia's purchase: `3x + 4y = 2.84` <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>
-*   Peter's purchase: `3x + 1y = 1.79` <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>
+### Key Takeaways
 
-### Step 3: Eliminate a Variable (by Subtraction)
-In this system, both equations have `3x` <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>. To [[solving_systems_of_equations_using_elimination | eliminate the 'x' term]], subtract the second equation from the first. This is equivalent to multiplying the second equation by -1 and then adding them <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>:
-
-Original equations:
-1.  `3x + 4y = 2.84`
-2.  `3x + y = 1.79`
-
-Multiply the second equation by -1:
-`-(3x + y) = -(1.79)`
-`-3x - y = -1.79` <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>
-
-Now, add the modified second equation to the first:
-```
-  3x + 4y = 2.84
-+ -3x - y = -1.79
------------------
-  0x + 3y = 1.05
-```
-This simplifies to `3y = 1.05` <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
-
-### Step 4: Solve for the Remaining Variable
-Divide both sides by 3:
-`y = 1.05 / 3` <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>
-`y = 0.35` <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>
-So, the cost of a Fruit Roll-Up is $0.35 <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.
-
-### Step 5: Solve for the Eliminated Variable using Substitution
-[[Using substitution to verify algebraic solutions | Substitute]] `y = 0.35` into Peter's original equation (`3x + y = 1.79`) <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>:
-`3x + 0.35 = 1.79` <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>
-Subtract 0.35 from both sides:
-`3x = 1.79 - 0.35` <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>
-`3x = 1.44` <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>
-Divide both sides by 3:
-`x = 1.44 / 3`
-`x = 0.48` <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>
-So, the cost of a candy bar is $0.48 <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
-
-### Conclusion
-Using the [[solving_systems_of_equations_using_elimination | elimination method]], it's determined that the cost of a candy bar is $0.48 and the cost of a Fruit Roll-Up is $0.35 <a class="yt-timestamp" data-t="00:12:31">[00:12:31]</a>.
+*   The elimination method is an efficient way to solve systems of linear equations <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
+*   It relies on adding or subtracting entire equations to eliminate one variable <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+*   The fundamental rule is that you must add or subtract the same value to both sides of an equation to maintain its equality <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+*   This method is particularly useful when variables already have opposing or identical coefficients, or can be easily manipulated to do so <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>.
+*   After finding one variable, substitute its value back into an original equation to find the other variable <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.

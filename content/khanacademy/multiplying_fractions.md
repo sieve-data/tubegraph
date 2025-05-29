@@ -5,43 +5,56 @@ videoId: CTKMK1ZGLuk
 
 From: [[khanacademy]] <br/> 
 
-Multiplying fractions is a straightforward process where the new numerator is the product of the original numerators, and the new denominator is the product of the original denominators <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+Multiplying fractions is a straightforward process. To find the product of two fractions, you multiply their numerators together and their denominators together <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
 
 ## How to Multiply Fractions
 
-To multiply fractions, you simply multiply the top numbers (numerators) together and the bottom numbers (denominators) together <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
+The process involves two main steps:
+1.  Multiply the [[numerator_and_denominator_in_fraction_multiplication | numerators]] (top numbers) to get the new numerator <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+2.  Multiply the [[numerator_and_denominator_in_fraction_multiplication | denominators]] (bottom numbers) to get the new denominator <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
 
-For example, to multiply 5/6 by 2/3 <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>:
+### Example: 5/6 times 2/3
 
-1.  Multiply the numerators: 5 * 2 = 10 <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
-2.  Multiply the denominators: 6 * 3 = 18 <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+Let's multiply 5/6 by 2/3 <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>:
 
-This results in 10/18 <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. This can be viewed as finding 2/3 of 5/6, or 5/6 of 2/3 <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+*   **Multiply the numerators**: 5 times 2 <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+*   **Multiply the denominators**: 6 times 3 <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
 
-## [[simplifying_fractions | Simplifying Fractions]] After Multiplication
+This results in:
+```
+(5 × 2) / (6 × 3) = 10 / 18
+```
+So, 5/6 times 2/3 equals 10/18 <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. This can be conceptualized as finding 2/3 *of* 5/6, or 5/6 *of* 2/3 <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
 
-After multiplying, the resulting fraction should often be [[simplifying_fractions | simplified to its lowest terms]] <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. To do this, find a common factor for both the numerator and the denominator and divide both by that factor <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
+## Simplifying the Product
 
-Using our example of 10/18:
+After multiplying fractions, it is often necessary to [[simplifying_fractions | simplify the answer]] to its lowest terms <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This means dividing both the numerator and the denominator by their greatest common factor until they share no common factors other than 1 <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
 
-*   Both 10 and 18 are divisible by 2 <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
-*   Divide 10 by 2 to get 5 <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
-*   Divide 18 by 2 to get 9 <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+### Simplifying After Multiplication
 
-The [[simplifying_fractions | simplified]] answer is 5/9 <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
+Using the example of 10/18:
+Both 10 and 18 are divisible by 2 <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+*   Divide 10 by 2: 10 ÷ 2 = 5 <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+*   Divide 18 by 2: 18 ÷ 2 = 9 <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
 
-## [[simplifying_fractions | Simplifying Fractions]] Before Multiplication
+So, 10/18 simplifies to 5/9 <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
 
-An alternative method is to [[simplifying_fractions | simplify]] the fractions *before* performing the multiplication <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. This can sometimes make the multiplication easier.
+### Simplifying Before Multiplication
 
-Consider the example 5/6 * 2/3 <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>:
+It is also possible to [[methods_for_simplifying_fractions | simplify fractions]] *before* performing the multiplication <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. This can make the numbers smaller and easier to work with.
 
-1.  Look for common factors between any numerator and any denominator.
-2.  Notice that the numerator 2 (from 2/3) and the denominator 6 (from 5/6) are both divisible by 2 <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
-3.  Divide the numerator 2 by 2, which leaves 1 <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
-4.  Divide the denominator 6 by 2, which leaves 3 <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
-5.  Now the multiplication becomes 5/3 * 1/3.
-6.  Multiply the new numerators: 5 * 1 = 5 <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
-7.  Multiply the new denominators: 3 * 3 = 9 <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+Consider 5/6 times 2/3 again <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>:
+*   Notice that there is a 2 in the numerator of the second fraction (2/3) and a 6 in the denominator of the first fraction (5/6) <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+*   Both 2 and 6 are divisible by 2.
+    *   Divide the numerator 2 by 2, which becomes 1 <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
+    *   Divide the denominator 6 by 2, which becomes 3 <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
 
-This also results in 5/9 <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. Both methods are valid, but [[simplifying_fractions | simplifying]] earlier can sometimes make it easier to identify common factors <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+The expression now becomes:
+```
+5/3 × 1/3
+```
+Now, multiply the modified fractions:
+*   5 times 1 = 5 <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+*   3 times 3 = 9 <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
+
+The result is 5/9 <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>, the same answer obtained by simplifying after multiplication. Simplifying beforehand can sometimes make it easier to identify common factors <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.

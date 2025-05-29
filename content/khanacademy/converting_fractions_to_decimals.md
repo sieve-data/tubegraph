@@ -5,68 +5,78 @@ videoId: Gn2pdkvdbGQ
 
 From: [[khanacademy]] <br/> 
 
-To convert a fraction into a decimal, a consistent method involves dividing the fraction's denominator into its numerator <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. This method is universally applicable <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+Converting a fraction into a decimal is a fundamental mathematical operation <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. The most reliable method involves dividing the fraction's denominator into its numerator <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
 
-## Method Steps
+## The Core Method
 
-1.  **Set up the Division**: Place the denominator as the divisor and the numerator as the dividend <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
-2.  **Add Decimals and Zeros**: If the denominator is larger than the numerator (meaning the result will be less than 1), add a decimal point and several trailing zeros to the numerator <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. This does not change the number's value but allows for decimal precision <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
-3.  **Perform Long Division**: Continue the division process until the remainder is zero or a repeating pattern is identified <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+To convert any fraction to a decimal, perform long division with the denominator as the divisor and the numerator as the dividend <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
 
-## Examples
+### Example: 1/2
 
-### Example 1: Converting 1/2 to a Decimal
+1.  Take the denominator (2) and divide it into the numerator (1) <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+2.  Since 2 does not go into 1, add a decimal point to the numerator and add trailing zeros (e.g., 1.0, 1.00, etc.) <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. This does not change the value of the number but allows for greater precision <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+3.  Place the decimal point in the quotient directly above the decimal point in the dividend <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+4.  Perform the division: 2 goes into 10 five times <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+5.  Multiply 5 by 2 (which is 10) and subtract from 10, resulting in a remainder of 0 <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
 
-To convert 1/2 <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>:
-Divide 2 (denominator) into 1 (numerator) <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
-1.  Add a decimal point and a trailing zero to 1, making it 1.0 <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
-2.  2 goes into 10 five times <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
-3.  5 times 2 is 10, with a remainder of 0 <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
-Therefore, 1/2 is equal to 0.5 <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+Thus, 1/2 is equal to 0.5 <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
 
-### Example 2: Converting 1/3 to a Decimal (Repeating Decimal)
+## Fractions Resulting in Repeating Decimals
 
-To convert 1/3 <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>:
-Divide 3 (denominator) into 1 (numerator) <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
-1.  Add a decimal point and trailing zeros to 1, making it 1.000... <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
-2.  3 goes into 10 three times (3 x 3 = 9), with a remainder of 1 <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
-3.  Bring down another zero, making it 10 again <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
-This process continues indefinitely, resulting in a repeating pattern <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
-1/3 is equal to 0.3333... <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+Some fractions, when converted, result in decimals where a pattern of digits repeats indefinitely. These are known as [[repeating_decimals_as_rational_numbers | repeating decimals]].
 
-#### Representing Repeating Decimals
-When a decimal pattern repeats indefinitely, it is called a [[Repeating decimals as rational numbers | repeating decimal]]. This can be represented by drawing a line (or bar) over the repeating digits <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. For 1/3, this is written as 0.33 repeating <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
+### Example: 1/3
 
-### Example 3: Converting 17/9 to a Decimal (Improper Fraction)
+1.  Divide the denominator (3) into the numerator (1), adding trailing zeros <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+2.  3 goes into 10 three times (3 x 3 = 9) <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+3.  Subtracting 9 from 10 leaves 1. Bring down another zero, making it 10 again <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
+4.  This pattern continues, always resulting in a remainder of 1 and the next digit being 3 <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
 
-This is an [[Working with improper fractions | improper fraction]] because the numerator (17) is larger than the denominator (9) <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. This means the resulting decimal will be greater than 1 <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
-Divide 9 into 17 <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
-1.  9 goes into 17 one time (1 x 9 = 9), with a remainder of 8 <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
-2.  Add a decimal point to the quotient and numerator (17.000...) <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
-3.  Bring down a zero to make it 80. 9 goes into 80 eight times (8 x 9 = 72), with a remainder of 8 <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
-4.  This pattern of getting an 8 remainder and bringing down a zero will continue indefinitely <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
-So, 17/9 is equal to 1.88, where the 0.88 part repeats forever <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+This means 1/3 is equal to 0.3333... where the 3 repeats forever <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. This can be represented by placing a line over the repeating digit(s), for example, 0.3 with a line over the 3, or 0.33 with a line over both 3s <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. The line signifies that the number pattern [[repeating_decimals_as_rational_numbers | repeats indefinitely]] <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
 
-> [!NOTE] Rounding
-> For repeating decimals, it's possible to round the number to a specific decimal place, such as to the hundredths place (e.g., 1.89 for 1.88 repeating) <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. However, the repeating decimal notation is the exact answer <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
->
-> An [[converting improper fractions to mixed numbers | improper fraction]] like 17/9 can also be expressed as a mixed number <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+## Converting Improper Fractions
 
-### Example 4: Converting 17/93 to a Decimal
+The same method applies to [[improper_fractions_as_decimals | improper fractions]], where the numerator is greater than the denominator <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. The result will be a decimal number greater than 1 <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
 
-Divide 93 (denominator) into 17 (numerator) <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
-1.  93 goes into 17 zero times <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>. Add a decimal point and trailing zeros to 17.
-2.  93 goes into 170 one time (1 x 93 = 93), remainder 77 <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
-3.  Bring down a zero to make it 770. 93 goes into 770 eight times (8 x 93 = 744), remainder 26 <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>.
-4.  Bring down another zero to make it 260. 93 goes into 260 two times (2 x 93 = 186), remainder 74 <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>.
-This process could continue indefinitely <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
-An approximation for 17/93 would be 0.182, with more decimals possible if continued <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>. On an exam, you might be asked to round to a specific place, like the hundredths or thousandths <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+### Example: 17/9
+
+1.  Divide 9 into 17 <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
+2.  9 goes into 17 one time (1 x 9 = 9) <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
+3.  Subtract 9 from 17, leaving 8 <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+4.  Add a decimal point and a trailing zero, making it 80 <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+5.  9 goes into 80 eight times (8 x 9 = 72) <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
+6.  Subtract 72 from 80, leaving 8. Bring down another zero, making it 80 again <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+
+This pattern indicates that 17/9 is equal to 1.888... where the 8 repeats forever <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. This can be written as 1.8 with a line over the 8 <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. While rounding can be done for approximation (e.g., 1.89 if rounded to the hundredths place) <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>, 1.8 repeating is the exact answer <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
+
+> [!NOTE]
+> Converting an [[improper_fractions_as_decimals | improper fraction]] to a [[converting_improper_fractions_to_mixed_numbers | mixed number]] is a separate but related topic <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+
+## More Complex Fractions
+
+The same division technique is used for any fraction, regardless of its complexity.
+
+### Example: 17/93
+
+1.  Divide 93 into 17 <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.
+2.  93 goes into 17 zero times. Add a decimal point and a zero <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>.
+3.  93 goes into 170 one time (1 x 93 = 93) <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+4.  Subtracting 93 from 170 leaves 77. Bring down a zero, making it 770 <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
+5.  93 goes into 770 eight times (8 x 93 = 744) <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
+6.  Subtracting 744 from 770 leaves 26. Bring down a zero, making it 260 <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>.
+7.  93 goes into 260 approximately two times (2 x 93 = 186) <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>.
+
+Continuing this process yields more decimal places <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. For practical purposes, exams usually specify a rounding point, such as the nearest hundredths or thousandths place <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. So, 17/93 is approximately 0.182 <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>.
 
 ## Converting Decimals to Fractions
 
-Converting decimals to fractions is generally simpler than the reverse <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>. This process is covered in more detail in [[converting_decimals_to_fractions | Converting Decimals to Fractions]].
-For example, to convert 0.035 to a fraction <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>:
+The reverse process, [[decimals_to_fractions_conversion | converting decimals to fractions]], is often considered easier <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>.
+
+### Example: 0.035
+
 1.  Identify the place value of the last digit. In 0.035, the 5 is in the thousandths place <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
-2.  Write the number after the decimal point as the numerator, and the corresponding place value (e.g., 10, 100, 1000) as the denominator. So, 0.035 is 35/1,000 <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>.
-3.  [[Simplifying fractions | Simplify the fraction]] to its simplest form by dividing both numerator and denominator by their greatest common divisor <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>. For 35/1,000, both can be divided by 5, resulting in 7/200 <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>.
-The resulting fraction is a [[Simplifying fractional representations | simplified fractional representation]].
+2.  Write the number after the decimal point as the numerator and the corresponding place value (e.g., 1000 for thousandths) as the denominator <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. So, 0.035 becomes 35/1,000 <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>.
+3.  [[simplifying_fractions_after_conversion | Simplify the fraction]] to its simplest form <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>. Both 35 and 1,000 are divisible by 5 <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>.
+4.  Dividing both by 5 gives 7/200 <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>.
+
+If you were to convert 7/200 back into a decimal using the division method, you would get 0.035 <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>.

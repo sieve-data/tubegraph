@@ -5,37 +5,41 @@ videoId: yUaI0JriZtY
 
 From: [[khanacademy]] <br/> 
 
-In [[basic_probability_concepts | probability]], the **sample space** is defined as the set of all possible outcomes for a given trial or experiment <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>. It encompasses every potential result that could occur <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>. While the term "sample space" might sound complex, it simply refers to the complete list of possibilities <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>.
+In the study of [[introduction_to_probability | probability]], a key concept is the **sample space**, which refers to the set of all possible [[events_and_outcomes_in_probability | outcomes]] of a given trial or experiment <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a> <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. It's considered a "fancy word for just a simple idea" <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
 
-## Components of a Sample Space
+## Core Concepts
 
-The individual elements within a sample space represent each distinct possible outcome <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>.
+*   **Trial**: The action being performed, such as picking a marble out of a bag <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
+*   **Outcome**: A single result of a trial <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+*   **Possible Outcomes**: All the potential results that can occur during a trial <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. The collection of these makes up the sample space.
+*   **Event**: The specific [[events_and_outcomes_in_probability | outcome]] or set of [[events_and_outcomes_in_probability | outcomes]] one is interested in, for which the probability is being measured <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+*   **Probability**: A measurement of the likelihood that a specific [[events_and_outcomes_in_probability | event]] will happen <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. It is calculated by determining how many [[events_and_outcomes_in_probability | outcomes]] satisfy the desired [[events_and_outcomes_in_probability | event]] divided by the total number of possible [[events_and_outcomes_in_probability | outcomes]] in the sample space <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
 
-### Example: Picking Marbles
+## Example: Marbles in a Bag
 
-Consider a bag containing marbles of different colors <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>:
-*   3 yellow marbles <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>
-*   2 red marbles <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>
-*   2 green marbles <a class="yt-timestamp" data-t="01:16:00">[01:16:00]</a>
-*   1 blue marble <a class="yt-timestamp" data-t="01:23:00">[01:23:00]</a>
+Consider a bag containing marbles with the following distribution:
+*   3 yellow marbles <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>
+*   2 red marbles <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>
+*   2 green marbles <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>
+*   1 blue marble <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>
 
-If you perform a "trial" by picking one marble from the bag <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>, the sample space consists of all the individual marbles you could potentially pick <a class="yt-timestamp" data-t="01:27:00">[01:27:00]</a>.
+To find the probability of picking a yellow marble, one must first identify the sample space.
 
-*   **Possible Outcomes:** Yellow1, Yellow2, Yellow3, Red1, Red2, Green1, Green2, Blue1 <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>.
+### Determining the Sample Space
 
-In this scenario, there are 8 distinct possible outcomes, meaning the size of the sample space is 8 <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>.
+The "trial" is picking a marble from the bag <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. The possible [[events_and_outcomes_in_probability | outcomes]] are each individual marble that could be picked <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
 
-## Sample Space and Probability Calculation
+*   Yellow marbles: Y1, Y2, Y3 <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>
+*   Red marbles: R1, R2 <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>
+*   Green marbles: G1, G2 <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>
+*   Blue marbles: B1 <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>
 
-The sample space plays a crucial role in calculating the [[basic_probability_concepts | probability]] of an event occurring <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>. The [[basic_probability_concepts | probability]] of an event is generally calculated as:
+The total number of possible [[events_and_outcomes_in_probability | outcomes]] (the size of the sample space) is the sum of all marbles: 3 + 2 + 2 + 1 = 8 marbles <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a> <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
 
-$\text{Probability of Event} = \frac{\text{Number of outcomes satisfying the event}}{\text{Total number of possible outcomes (size of sample space)}}$ <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>
+### Calculating Probability
 
-For instance, to find the [[basic_probability_concepts | probability]] of picking a yellow marble from the bag:
-*   **Number of outcomes satisfying the event (picking yellow):** 3 (since there are 3 yellow marbles) <a class="yt-timestamp" data-t="02:14:00">[02:14:00]</a>
-*   **Total number of possible outcomes (size of sample space):** 8 <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>
+If the [[events_and_outcomes_in_probability | event]] in question is "picking a yellow marble" <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>, then the number of [[events_and_outcomes_in_probability | outcomes]] that satisfy this [[events_and_outcomes_in_probability | event]] is 3 (since there are 3 yellow marbles) <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
 
-Therefore, the [[basic_probability_concepts | probability]] of picking a yellow marble is 3/8 <a class="yt-timestamp" data-t="02:48:00">[02:48:00]</a>.
-
-> [!NOTE]
-> The term "trial" refers to the act of performing the experiment, such as picking a marble out of the bag <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. The "event" is the specific outcome or set of outcomes you are interested in, like picking a yellow marble <a class="yt-timestamp" data-t="00:17:00">[00:17:00]</a>.
+The probability (P) of picking a yellow marble is therefore:
+P(Yellow) = (Number of yellow marbles) / (Total number of marbles)
+P(Yellow) = 3 / 8 <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>

@@ -5,57 +5,45 @@ videoId: 3NHSwiv_pSE
 
 From: [[khanacademy]] <br/> 
 
-The [[multiplication_properties_and_concepts|distributive property]] is a fundamental concept in arithmetic and algebra, allowing for the simplification of expressions that combine [[understanding_basic_multiplication|multiplication]] with [[addition_and_multiplication_relationship|addition]] or subtraction <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. It is essentially what one already knows from arithmetic <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+The [[Distributive property]] is a fundamental concept in arithmetic and algebra that allows for the simplification of expressions by distributing a common factor to each term within a set of parentheses <a class="yt-timestamp" data-t="00:53:13">[00:53:13]</a>. It essentially states that multiplying a sum or difference by a number is the same as multiplying each addend or subtrahend by the number and then adding or subtracting the products.
 
-## How it Works
+## Applying the Distributive Property
 
-When an expression like `2(3x + 5)` is given, it literally means "two `(3x + 5)`" <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. This can be understood as:
-`(3x + 5) + (3x + 5)` <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+### Simple Expression Example
 
-Looking at this expanded form, there are two `3x` terms and two `5` terms <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. Therefore, the expression `2(3x + 5)` is equivalent to:
-`2(3x) + 2(5)` <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+To simplify an expression like `2(3x + 5)`, the [[Distributive property]] can be applied <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>.
 
-This process is known as "distributing" the `2` to each term inside the parentheses <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
+This expression literally means "two `(3x + 5)`" <a class="yt-timestamp" data-t="00:21:40">[00:21:40]</a>. This can be understood as [[Multiplication as repeated addition | repeated addition]]:
+` (3x + 5) + (3x + 5) ` <a class="yt-timestamp" data-t="00:25:21">[00:25:21]</a>, <a class="yt-timestamp" data-t="00:28:16">[00:28:16]</a>
 
-### Example 1: Simplifying `2(3x + 5)`
+By rearranging the terms (using what is implicitly the [[Commutative property of addition | commutative property of addition]] and [[Properties of multiplication | properties of multiplication]]), we have two `3x` terms and two `5` terms:
+` 2(3x) + 2(5) ` <a class="yt-timestamp" data-t="00:40:02">[00:40:02]</a>, <a class="yt-timestamp" data-t="00:49:15">[00:49:15]</a>
 
-To simplify `2(3x + 5)` <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>:
-1.  Distribute the `2` to `3x`: `2 * 3x = 6x` <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
-2.  Distribute the `2` to `5`: `2 * 5 = 10` <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
-3.  Combine the results: `6x + 10` <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+When simplified, this becomes:
+` 6x + 10 ` <a class="yt-timestamp" data-t="01:15:46">[01:15:46]</a>, <a class="yt-timestamp" data-t="01:21:04">[01:21:04]</a>, <a class="yt-timestamp" data-t="01:24:20">[01:24:20]</a>
 
-Thus, `2(3x + 5)` simplifies to `6x + 10` <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+### More Involved Expression Example
 
-### Example 2: Simplifying `7(3y - 5) - 2(10 + 4y)`
+Consider the expression `7(3y - 5) - 2(10 + 4y)` <a class="yt-timestamp" data-t="01:34:04">[01:34:04]</a>.
 
-This example involves distributing a negative number and combining like terms <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+1.  **Distribute the `7` on the left side**:
+    *   `7 * 3y` equals `21y` <a class="yt-timestamp" data-t="02:03:07">[02:03:07]</a>, <a class="yt-timestamp" data-t="02:06:05">[02:06:05]</a>.
+    *   `7 * -5` (being careful with the negative sign) equals `-35` <a class="yt-timestamp" data-t="02:16:34">[02:16:34]</a>, <a class="yt-timestamp" data-t="02:18:23">[02:18:23]</a>.
+    *   So, `7(3y - 5)` simplifies to `21y - 35` <a class="yt-timestamp" data-t="02:22:20">[02:22:20]</a>.
 
-The original expression is `7(3y - 5) - 2(10 + 4y)` <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+2.  **Distribute the `-2` on the right side**: It is often helpful to think of the subtraction as distributing a negative number <a class="yt-timestamp" data-t="02:35:48">[02:35:48]</a>.
+    *   `-2 * 10` equals `-20` <a class="yt-timestamp" data-t="02:39:27">[02:39:27]</a>, <a class="yt-timestamp" data-t="02:46:17">[02:46:17]</a>.
+    *   `-2 * 4y` equals `-8y` <a class="yt-timestamp" data-t="02:56:06">[02:56:06]</a>, <a class="yt-timestamp" data-t="02:58:39">[02:58:39]</a>, <a class="yt-timestamp" data-t="03:00:23">[03:00:23]</a>.
+    *   So, `-2(10 + 4y)` simplifies to `-20 - 8y` <a class="yt-timestamp" data-t="03:03:03">[03:03:03]</a>.
 
-#### Step 1: Simplify the Left-Hand Side (`7(3y - 5)`)
+3.  **Combine the simplified parts**:
+    ` (21y - 35) + (-20 - 8y) `
+    ` 21y - 35 - 20 - 8y `
 
-*   Distribute `7` to `3y`: `7 * 3y = 21y` <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
-*   Distribute `7` to `-5` (being careful with the sign <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>): `7 * -5 = -35` <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
-*   Result for the left side: `21y - 35` <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
+4.  **Combine like terms**:
+    *   Combine terms with `y`: `21y - 8y = 13y` <a class="yt-timestamp" data-t="03:17:41">[03:17:41]</a>, <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>, <a class="yt-timestamp" data-t="03:33:47">[03:33:47]</a>, <a class="yt-timestamp" data-t="03:39:03">[03:39:03]</a>.
+    *   Combine constant terms: `-35 - 20 = -55` <a class="yt-timestamp" data-t="03:42:09">[03:42:09]</a>, <a class="yt-timestamp" data-t="03:51:00">[03:51:00]</a>.
 
-#### Step 2: Simplify the Right-Hand Side (`-2(10 + 4y)`)
+The entire expression simplifies to `13y - 55` <a class="yt-timestamp" data-t="03:56:19">[03:56:19]</a>, <a class="yt-timestamp" data-t="04:01:21">[04:01:21]</a>.
 
-It's helpful to think of this as distributing `-2` rather than `2` and then subtracting <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
-
-*   Distribute `-2` to `10`: `-2 * 10 = -20` <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>.
-*   Distribute `-2` to `4y`: `-2 * 4y = -8y` <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>.
-*   Result for the right side: `-20 - 8y` <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
-
-#### Step 3: Combine the Simplified Parts
-
-Now, put the simplified parts back together:
-`(21y - 35) + (-20 - 8y)`
-
-#### Step 4: Combine Like Terms
-
-*   Combine `y` terms: `21y - 8y = 13y` <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. If you have 21 of something and take away 8 of them, you are left with 13 of that something <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
-*   Combine constant terms: `-35 - 20 = -55` <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
-
-#### Final Simplified Expression
-
-The entire expression `7(3y - 5) - 2(10 + 4y)` simplifies to `13y - 55` <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
+By using the [[Distributive property]] and combining similar terms, complex expressions can be simplified into a more manageable form <a class="yt-timestamp" data-t="03:57:42">[03:57:42]</a>.

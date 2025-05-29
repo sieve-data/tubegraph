@@ -5,20 +5,12 @@ videoId: O-6q-siuMik
 
 From: [[khanacademy]] <br/> 
 
-**Standard American English** refers to a very specific kind of grammar that is the focus of these videos on Khan Academy <a class="yt-timestamp" data-t="01:38">[01:38]</a>.
+The grammar videos on Khan Academy focus specifically on [[Standard American English | Standard American English]] <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>.
 
-## What is Grammar?
-Grammar is defined as a set of [[difference_between_conventions_and_rules_in_grammar | conventions and rules]] that govern language <a class="yt-timestamp" data-t="00:18">[00:18]</a>.
-*   A [[difference_between_conventions_and_rules_in_grammar | rule]] represents the bare minimum required to make language understandable to others <a class="yt-timestamp" data-t="00:26">[00:26]</a>. For example, a rule ensures that a car's wheels are on the bottom for it to move as intended <a class="yt-timestamp" data-t="00:34">[00:34]</a>.
-*   A [[difference_between_conventions_and_rules_in_grammar | convention]] is comparable to the idea that all cars should be painted teal—it's not necessarily true or essential for function <a class="yt-timestamp" data-t="00:46">[00:46]</a>.
+## Approach to Teaching English
 
-## Context-Dependent Nature of Grammar
-Grammar is context-dependent, meaning the type of grammar used varies depending on who is being addressed, what is being said, and how it's being communicated <a class="yt-timestamp" data-t="00:54">[00:54]</a>. Individuals utilize multiple forms of grammar throughout their daily lives <a class="yt-timestamp" data-t="01:07">[01:07]</a>.
+The instruction emphasizes that there are "many Englishes," and all of them are considered "great," "wonderful," "vibrant," "important," and "special" <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>. The goal of these videos is not to teach what is "right" or "wrong" in terms of English usage <a class="yt-timestamp" data-t="01:53:00">[01:53:00]</a>. Instead, the purpose is to provide tools to "harness language" and "harness English" so that learners can use it in any way they desire <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>.
 
-## Learning Approach
-These videos aim to give names to the grammatical concepts that viewers already know from living and interacting in the world <a class="yt-timestamp" data-t="01:11">[01:11]</a>. The purpose is to enhance one's command of language <a class="yt-timestamp" data-t="01:34">[01:34]</a>.
+This teaching philosophy is likened to ensuring a car's "wheels are on straight" rather than dictating the car's color <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>. This means the focus is on the fundamental aspects that make language understandable, rather than on prescriptive stylistic choices specific to [[Standard American English | Standard American English]] or any other dialect <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
 
-### Plurality of Englishes
-It is important to acknowledge that there are "many englishes," all of which are considered great, wonderful, vibrant, important, and special <a class="yt-timestamp" data-t="01:45">[01:45]</a>. The instruction does not seek to dictate what is "right" or "wrong" in English; rather, it aims to provide tools to harness English and use it in any desired way <a class="yt-timestamp" data-t="01:53">[01:53]</a>. The focus is on ensuring the "wheels are on straight," meaning language is understandable, rather than on arbitrary conventions <a class="yt-timestamp" data-t="02:27">[02:27]</a>.
-
-Anyone who has engaged in speaking and reading throughout their life has already made a study of grammar and is considered a grammarian <a class="yt-timestamp" data-t="02:30">[02:30]</a>.
+Grammar itself is defined as a set of conventions and rules that govern language <a class="yt-timestamp" data-t="00:18:00">[00:18:00]</a>. A "rule" represents the bare minimum for language to be understandable by others <a class="yt-timestamp" data-t="00:26:00">[00:26:00]</a>. A "convention," on the other hand, is a generally accepted practice that is not strictly necessary for understanding <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>. Grammar is also [[contextdependent_grammar | context dependent]], meaning the type of grammar used varies depending on who is being addressed, what is being communicated, and how it is being expressed <a class="yt-timestamp" data-t="00:54:00">[00:54:00]</a>.

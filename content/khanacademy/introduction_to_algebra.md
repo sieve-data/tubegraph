@@ -1,55 +1,58 @@
 ---
-title: Introduction to Algebra
+title: Introduction to algebra
 videoId: vDqOoI-4Z6M
 ---
 
 From: [[khanacademy]] <br/> 
 
-While basic arithmetic deals with concrete numbers, such as "23 plus 5" equaling 28, or "2 times 7," where the exact numbers are known <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>, the [[introduction_to_algebra_and_its_importance | algebraic world]] introduces the concept of variables <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>, <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
+Unlike basic [[applying_arithmetic_to_algebra | arithmetic]], which deals with concrete numbers like 23 + 5 or 2 * 7, algebra introduces the concept of variables <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. In [[applying_arithmetic_to_algebra | arithmetic]], the numbers are always known <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. When entering the algebraic world, you begin working with variables <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
 
 ## Variables
 
-Variables are values within expressions that can change <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>, <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. For example, in the expression "x plus 5," the value of this [[understanding_algebraic_expressions | expression]] depends on the value of 'x' <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>, <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+Variables are values within expressions that can change <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. Their values can vary depending on the context <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
 
-Consider the expression `x + 5`:
-*   If `x` equals 1, then `x + 5` evaluates to `1 + 5 = 6` <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>, <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
-*   If `x` equals -7, then `x + 5` evaluates to `-7 + 5 = -2` <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>, <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+For example, in the expression `x + 5` <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>:
+*   If `x` is equal to 1, then `x + 5` becomes 1 + 5, which evaluates to 6 <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+*   If `x` is equal to -7, then `x + 5` becomes -7 + 5, which evaluates to -2 <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
 
-This demonstrates that 'x' is a variable whose value can change based on the context <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>, <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+This demonstrates how `x` is a variable, and its value can change depending on the context <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. This flexibility is a core part of [[understanding_basic_algebraic_notation | basic algebraic notation]].
 
 ## Expressions
 
-An [[understanding_algebraic_expressions | expression]] is a statement of value or quantity <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>, <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. The value of an expression changes depending on the values assigned to its variables <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
+An expression is a statement of value or quantity <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. The value of an expression changes based on the values of the variables within it <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
 
-Examples of expressions:
+Examples of expressions include:
 *   `x + 5` <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>
-*   `y + z` <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a> (where `y` and `z` are also variables)
-*   `x^y` <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>
-*   `sqrt(x + y) - x` <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>
+*   `y + z` <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>: If `y` is 1 and `z` is 2, the expression evaluates to 1 + 2 = 3 <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. If `y` is 0 and `z` is -1, it evaluates to 0 + (-1) = -1 <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+
+Expressions can always be evaluated to a specific value once the values of their variables are known <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
 
 ## Equations
 
-An equation is formed by setting two [[understanding_algebraic_expressions | expressions]] equal to each other <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>, <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. This is why they are called "equations" – because they equate two things <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
+An equation is formed when two expressions are set equal to each other <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. The term "equation" comes from "equating" two things <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
 
-For instance, `x + 3 = 1` is an equation <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. In this specific case, with one equation and one unknown, the value of `x` is constrained to -2 <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>, <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. This constraint on the variable's value is a key aspect of equations <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+For example, `x + 3 = 1` is an equation <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. In an equation with only one unknown variable, you can often determine what that variable needs to be <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. For `x + 3 = 1`, `x` must be -2 because -2 + 3 equals 1 <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. This is an [[introduction_to_linear_equations | introduction to linear equations]].
 
-Equations can involve multiple variables, such as `x + y + z = 5` <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. Even here, if values for some variables are known, the others become constrained <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. For example, if `y = 3` and `z = 2`, the equation becomes `x + 3 + 2 = 5`, which simplifies to `x + 5 = 5` <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>, <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. In this scenario, `x` must be 0 <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. The concept of [[understanding_equality_in_algebra | equality]] is fundamental to equations.
+Equations constrain the possible values a variable can take on <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+
+Another example of an equation is `x + y + z = 5` <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. While there are multiple possible solutions for `x`, `y`, and `z`, if values for two of the variables are given, the third is constrained <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. For instance, if `y = 3` and `z = 2` <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>:
+1.  The left side becomes `x + 3 + 2`, which simplifies to `x + 5` <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
+2.  The equation is then `x + 5 = 5` <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
+3.  This constrains `x` to be 0 <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
+
+In summary, the key difference is that an equation equates two expressions <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>, and variables in algebra can take on different values depending on the problem's context <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
 
 ## Evaluating Expressions
 
-To evaluate an [[understanding_algebraic_expressions | expression]], substitute the given values for its variables <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>, <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
+To further illustrate the concept of variables, consider evaluating expressions by substituting different values for the variables:
 
-### Example 1: `x^y`
+### Example 1: `x` to the power of `y` (`x^y`)
+*   If `x = 5` and `y = 2`, the expression `x^y` becomes `5^2`, which evaluates to 25 <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
+*   If `x = -2` and `y = 3`, the expression `x^y` becomes `(-2)^3`, which evaluates to -2 * -2 * -2 = -8 <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
 
-*   **Case 1**: If `x = 5` and `y = 2` <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
-    *   The expression evaluates to `5^2 = 25` <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>, <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
-*   **Case 2**: If `x = -2` and `y = 3` <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
-    *   The expression evaluates to `(-2)^3 = -2 * -2 * -2 = -8` <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>, <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
-
-### Example 2: `sqrt(x + y) - x`
-
-*   If `x = 1` and `y = 8` <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>.
-    *   Substitute the values: `sqrt(1 + 8) - 1` <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>, <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>.
-    *   This simplifies to `sqrt(9) - 1` <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>.
-    *   The principal root of 9 is 3 <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>, <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
-    *   So, the expression evaluates to `3 - 1 = 2` <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+### Example 2: Square root of `x + y` minus `x` (`sqrt(x + y) - x`)
+*   If `x = 1` and `y = 8`, the expression becomes `sqrt(1 + 8) - 1` <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>.
+*   First, `1 + 8` equals 9 <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>.
+*   The principal root of 9 is 3 <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+*   Then, `3 - 1` equals 2 <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+The entire expression evaluates to 2 when `x=1` and `y=8` <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>. This process of substituting numbers for variables and calculating is a core part of [[applying_arithmetic_to_algebra | applying arithmetic to algebra]].

@@ -1,0 +1,47 @@
+---
+title: Properties of substances and elements
+videoId: IFKnq9QM6_A
+---
+
+From: [[khanacademy]] <br/> 
+
+Humans have observed for thousands of years that the environment around us contains different substances with varying properties <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. These properties can include how light is reflected, color, and state (liquid, gas, or solid) at certain temperatures <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. Substances also react with each other in specific circumstances <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Examples include carbon (in graphite form), lead, and gold <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. These substances can exist in solid form <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>, or as air particles like carbon, oxygen, or nitrogen, which also have different properties <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Raising the temperature can change their state, such as melting gold or lead into a liquid, or burning carbon into a gaseous state <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+
+## [[elements_and_the_periodic_table | Elements]]
+
+A fundamental question, once philosophical but now answerable, is whether there's a smallest unit of a substance that still retains its properties <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. The answer is yes <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. These pure substances with specific properties and reactions are called [[basic_concepts_of_elements_and_atoms | elements]] <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. Examples of [[elements_and_the_periodic_table | elements]] include carbon, lead, and gold <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>. Historically, water was considered an element, but it is now known to be composed of more basic [[elements_and_the_periodic_table | elements]]: oxygen and hydrogen <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. All known [[elements_and_the_periodic_table | elements]] are listed in the [[periodic_table_of_elements | Periodic Table of Elements]] <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
+
+## [[basic_building_blocks_of_matter | The Atom]]
+
+The most basic unit of any [[elements_and_the_periodic_table | element]] is the [[basic_building_blocks_of_matter | atom]] <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. If a substance like carbon or gold is broken down into smaller and smaller chunks, it eventually reaches a carbon [[basic_building_blocks_of_matter | atom]] or a gold [[basic_building_blocks_of_matter | atom]] <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. This [[basic_building_blocks_of_matter | atom]] cannot be broken down further while retaining the properties of its [[elements_and_the_periodic_table | element]] <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. [[basic_building_blocks_of_matter | Atoms]] are unimaginably small; for example, the width of an average human hair is approximately one million carbon [[basic_building_blocks_of_matter | atoms]] wide <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. Most living things, including human hair, are primarily made of carbon <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+
+### [[atomic_structure_and_subatomic_particles | Subatomic Particles]]
+
+While the [[basic_building_blocks_of_matter | atom]] is the most basic [[basic_building_blocks_of_matter | building block]] of an [[elements_and_the_periodic_table | element]], [[basic_building_blocks_of_matter | atoms]] themselves are composed of even more fundamental particles <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>:
+
+*   **Protons** <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>: These define the [[elements_and_the_periodic_table | element]] <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. The number of protons in an [[basic_building_blocks_of_matter | atom]]'s nucleus is its atomic number <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>.
+    *   Hydrogen has 1 proton <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>.
+    *   Helium has 2 protons <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>.
+    *   Carbon has 6 protons <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>; changing this number would result in a different [[elements_and_the_periodic_table | element]], such as nitrogen (7 protons) <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
+    *   Oxygen has 8 protons <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>; adding a proton would change it to fluorine <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>.
+    *   Protons carry a positive charge <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
+*   **Neutrons** <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>: These are located in the nucleus with protons <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. The number of neutrons can vary within the same [[elements_and_the_periodic_table | element]] without changing its identity <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>. For example, carbon-12 has six neutrons, while carbon-14 has eight neutrons, but both are still carbon <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. Neutrons are neutral <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>.
+*   **Electrons** <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>: These particles can also change in number without changing the [[elements_and_the_periodic_table | element]]'s identity <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. In a neutral [[basic_building_blocks_of_matter | atom]], the number of electrons equals the number of protons <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>.
+    *   Electrons carry a negative charge <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>.
+    *   Unlike charges attract, meaning protons and electrons attract each other, which keeps electrons bound to the nucleus <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.
+    *   Electrons move around, or buzz around, the nucleus at very high velocities <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>.
+
+### [[atomic_structure_and_subatomic_particles | Atomic Structure]]
+
+The protons and neutrons form the **nucleus** at the center of the [[basic_building_blocks_of_matter | atom]] <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. For instance, carbon-12 has a nucleus of six protons and six neutrons <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. The electrons are imagined to be moving around or orbiting this nucleus, though their behavior is complex and requires quantum physics to fully understand <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. The atomic number, displayed at the top of an [[elements_and_the_periodic_table | element]]'s box in the [[periodic_table_of_elements | Periodic Table]], represents the number of protons and is the defining characteristic <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>. The combined number of protons and neutrons in the nucleus can be represented, for example, as "carbon-12" where "12" indicates the total <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>.
+
+## [[interaction_and_behavior_of_atoms | Interaction and Behavior of Atoms]]
+
+The arrangement of these fundamental particles, particularly the number and configuration of electrons, defines an [[elements_and_the_periodic_table | element]] and influences its properties <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. Changing the number of fundamental particles can alter the [[elements_and_the_periodic_table | element]]'s properties or even change the [[elements_and_the_periodic_table | element]] itself <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+
+Chemistry largely revolves around understanding how [[basic_building_blocks_of_matter | atoms]] interact through their electrons <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>. [[understanding_chemical_equations_and_reactions | How many electrons an atom has]] and their configuration, along with the electron configurations of other [[elements_and_the_periodic_table | elements]], allow for predictions of how [[basic_building_blocks_of_matter | atoms]] will react, bond, attract, or repel each other <a class="yt-timestamp" data-t="00:11:23">[00:11:23]</a>.
+
+[!NOTE] **Ions**
+It is possible for an [[basic_building_blocks_of_matter | atom]] to gain or lose electrons, which changes its overall charge <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>. If a neutral carbon [[basic_building_blocks_of_matter | atom]] (with 6 protons and 6 electrons) loses an electron, it would have 5 electrons and 6 protons, resulting in a net positive charge <a class="yt-timestamp" data-t="00:12:19">[00:12:19]</a>. Certain [[elements_and_the_periodic_table | elements]] have a stronger affinity for electrons than others <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>.
+
+This understanding of the [[basic_building_blocks_of_matter | atom]] as a fundamental [[basic_building_blocks_of_matter | building block]] composed of even more fundamental, interchangeable particles, forms the basis for comprehending the properties of substances and their chemical [[interaction_and_behavior_of_atoms | interactions]] <a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a>.

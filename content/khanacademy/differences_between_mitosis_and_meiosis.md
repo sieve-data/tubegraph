@@ -5,76 +5,65 @@ videoId: ijLc52LmFQg
 
 From: [[khanacademy]] <br/> 
 
-This article details the [[comparison_between_mitosis_and_meiosis | differences between mitosis and meiosis]], building upon general ideas previously discussed <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. While a previous video covered [[overview_of_mitosis | mitosis]], this focuses on the details of [[overview_of_meiosis | meiosis]] <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+The processes of [[Process and phases of mitosis | mitosis]] and [[Process and phases of meiosis | meiosis]] are fundamental to cell division, but they serve distinct purposes and result in different genetic outcomes <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
 
-## Overview of Mitosis
+## Mitosis Overview
+[[Process and phases of mitosis | Mitosis]] is the process where a diploid cell duplicates itself <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. It begins with a diploid cell and results in two diploid cells <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. Formally, [[Process and phases of mitosis | mitosis]] is the duplication of the nucleus, which typically leads to two entire cells through a process called cytokinesis <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
 
-[[overview_of_mitosis | Mitosis]] begins with a diploid cell and results in two diploid cells, essentially duplicating itself <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. Formally, [[overview_of_mitosis | mitosis]] is the duplication of the nucleus, which typically concludes with two entire cells through cytokinesis <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. The [[overview_of_mitosis | phases of mitosis]] include prophase, metaphase, anaphase, and telophase <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+[[Process and phases of mitosis | Mitosis]] occurs in nearly all somatic cells, such as skin cells, hair cells, and other body tissues as they replicate <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. The [[Process and phases of mitosis | phases of mitosis]] include prophase, metaphase, anaphase, and telophase <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
 
-[[overview_of_mitosis | Mitosis]] occurs in nearly all of our [[cell_division_in_somatic_and_germ_cells | somatic cells]], such as skin cells, hair cells, and other body tissues, as they replicate <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+## Meiosis Overview
+[[Process and phases of meiosis | Meiosis]] takes place in germ cells and is primarily used to produce gametes for [[Role of meiosis in sexual reproduction | sexual reproduction]] <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. Starting with a diploid germ cell, [[Process and phases of meiosis | meiosis]] involves two rounds of division <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
 
-## Overview of Meiosis
+The first round, [[Phases of meiosis | Meiosis I]], sees the diploid cell split into two haploid cells <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. For example, if a cell starts with 23 pairs of chromosomes, [[Phases of meiosis | Meiosis I]] splits these pairs <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. The second round, [[Phases of meiosis | Meiosis II]], then splits these haploid cells further in a mechanism very similar to [[Process and phases of mitosis | mitosis]] <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. The end result of [[Process and phases of meiosis | meiosis]] is four haploid cells, known as gametes <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
 
-[[overview_of_meiosis | Meiosis]] occurs in [[cell_division_in_somatic_and_germ_cells | germ cells]] and primarily functions to produce gametes for [[role_of_mitosis_and_meiosis_in_human_reproduction | sexual reproduction]] <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. A diploid [[cell_division_in_somatic_and_germ_cells | germ cell]] can undergo [[overview_of_mitosis | mitosis]] to produce more [[cell_division_in_somatic_and_germ_cells | germ cells]], but for gamete production, it undergoes two rounds of division <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>.
+## Key Differences in Cell Division
 
-The two rounds of [[overview_of_meiosis | meiosis]] are:
-*   **Meiosis I (M1):** In this first round, a diploid cell splits into two haploid cells <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>. If there are 23 pairs of chromosomes, these pairs are split during this stage <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>.
-*   **Meiosis II (M2):** The cells from Meiosis I then split further in a mechanism very similar to [[overview_of_mitosis | mitosis]] <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>.
+The primary [[Differences in genetic outcomes between mitosis and meiosis | differences in genetic outcomes between mitosis and meiosis]] arise from their distinct processes and purposes.
 
-The end product of [[overview_of_meiosis | meiosis]] is four haploid cells <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>.
+### Preparatory Phase (Interphase)
+Before either [[Process and phases of mitosis | mitosis]] or [[Process and phases of meiosis | meiosis]] begins, cells spend most of their time in interphase, performing normal cell functions <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>. A key event during the S phase of interphase for both processes is the replication of DNA <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. Chromosomes, normally unwound as chromatin, condense and replicate during this phase <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>. Additionally, centrosomes, which help organize microtubules, also replicate during interphase <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>.
 
-### Phases of Meiosis
+### Phasing and Rounds of Division
+Both [[Process and phases of mitosis | mitosis]] and [[Process and phases of meiosis | meiosis]] utilize phases named prophase, metaphase, anaphase, and telophase <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. However:
+*   **Mitosis** involves a single set of these phases <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
+*   **Meiosis** involves two complete sets: [[Phases of meiosis | Prophase I]], [[Phases of meiosis | Metaphase I]], [[Phases of meiosis | Anaphase I]], [[Phases of meiosis | Telophase I]], followed by [[Phases of meiosis | Prophase II]], [[Phases of meiosis | Metaphase II]], [[Phases of meiosis | Anaphase II]], and [[Phases of meiosis | Telophase II]] <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
 
-The general [[overview_of_mitosis | phases of mitosis]] (prophase, metaphase, anaphase, telophase) also exist within each stage of [[overview_of_meiosis | meiosis]] <a class="yt-timestamp" data-t="02:12:00">[02:12:00]</a>:
-*   Prophase I, Metaphase I, Anaphase I, Telophase I <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a>
-*   Prophase II, Metaphase II, Anaphase II, Telophase II <a class="yt-timestamp" data-t="06:43:00">[06:43:00]</a>
+### Behavior of Homologous Chromosomes
 
-## Key Differences
+[[Detailed cell division process in meiosis | Meiosis I]] introduces significant differences compared to [[Process and phases of mitosis | mitosis]]:
 
-### 1. Cell Type and Purpose
-*   **[[overview_of_mitosis | Mitosis]]:** Occurs in [[cell_division_in_somatic_and_germ_cells | somatic cells]] for duplication of tissue, skin, hair, etc. <a class="yt-timestamp" data-t="00:45:00">[00:45:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]]:** Occurs in [[cell_division_in_somatic_and_germ_cells | germ cells]] to produce gametes for [[role_of_mitosis_and_meiosis_in_human_reproduction | sexual reproduction]] <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>.
+#### Prophase I (Meiosis) vs. Prophase (Mitosis)
+*   **Nuclear Envelope:** In both prophases, the nuclear envelope begins to disappear <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>. Chromosomes condense from chromatin into tighter structures <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>.
+*   **Homologous Pairing:** A unique feature of [[Detailed cell division process in meiosis | Prophase I]] in [[Process and phases of meiosis | meiosis]] is the alignment of homologous pairs of chromosomes next to each other <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>, forming a tetrad <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>. This does not typically happen in [[Process and phases of mitosis | mitosis]].
+*   **Genetic Recombination (Crossing Over):** Within these homologous pairs, genetic recombination (crossing over) can occur <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>. This is where segments of DNA are exchanged between homologous chromosomes at points called chiasmata <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. This process generates new combinations of alleles, contributing significantly to [[Differences in genetic outcomes between mitosis and meiosis | genetic variation]] <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>. This key feature is absent in [[Process and phases of mitosis | mitosis]] <a class="yt-timestamp" data-t="00:26:56">[00:26:56]</a>.
 
-### 2. Starting and Ending Cells
-*   **[[overview_of_mitosis | Mitosis]]:** Starts with a diploid cell and ends with two diploid cells <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]]:** Starts with a diploid cell and ends with four haploid cells <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>.
+#### Metaphase I (Meiosis) vs. Metaphase (Mitosis)
+*   In [[Phases of meiosis | Metaphase I]], the homologous pairs align at the metaphase plate <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a>. The orientation of these pairs is random, further adding to [[Differences in genetic outcomes between mitosis and meiosis | genetic variation]] <a class="yt-timestamp" data-t="00:14:17">[00:14:17]</a>.
+*   In [[Process and phases of mitosis | mitosis]]'s metaphase, individual replicated chromosomes (sister chromatids) align at the metaphase plate.
 
-### 3. Number of Divisions
-*   **[[overview_of_mitosis | Mitosis]]:** Involves one round of division <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]]:** Involves two rounds of division (Meiosis I and Meiosis II) <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>.
+#### Anaphase I (Meiosis) vs. Anaphase (Mitosis)
+*   **Anaphase I:** In [[Detailed cell division process in meiosis | Anaphase I]] of [[Process and phases of meiosis | meiosis]], the homologous chromosomes separate and are pulled to opposite poles of the cell, but the sister chromatids remain attached at their centromeres <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>. This is a crucial distinction.
+*   **Anaphase (Mitosis):** In [[Process and phases of mitosis | mitosis]]'s anaphase, the sister chromatids themselves separate and are pulled to opposite poles <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>.
 
-### 4. Chromosome Behavior
+### Outcome of Division
 
-#### Interphase S-Phase
-Both [[overview_of_mitosis | mitosis]] and [[overview_of_meiosis | meiosis]] are preceded by interphase, during which DNA replication occurs in the S phase <a class="yt-timestamp" data-t="02:49:00">[02:49:00]</a>. This means that each chromosome replicates to form two sister chromatids, connected by a centromere <a class="yt-timestamp" data-t="04:48:00">[04:48:00]</a>. Centrosomes also duplicate during this time <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>.
+| Feature                      | [[Process and phases of mitosis | Mitosis]]                                                | [[Process and phases of meiosis | Meiosis]]                                              |
+| :--------------------------- | :----------------------------------------------------------------------- | :--------------------------------------------------------------------- |
+| **Type of Cells**            | Occurs in somatic cells <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>                       | Occurs in germ cells <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>                                 |
+| **Number of Divisions**      | One round of division <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>                          | Two rounds of division ([[Phases of meiosis | Meiosis I]] and [[Phases of meiosis | Meiosis II]]) <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a> |
+| **Outcome**                  | Two diploid cells <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>                             | Four haploid cells (gametes) <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>                    |
+| **Genetic Identity of Cells**| Genetically identical to parent cell <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>             | Genetically unique due to crossing over and random assortment <a class="yt-timestamp" data-t="00:27:01">[00:27:01]</a> |
+| **Homologous Chromosomes**   | Do not pair or cross over                                                | Pair up (synapsis) and undergo crossing over in [[Detailed cell division process in meiosis | Prophase I]] <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a> |
+| **Chromosome Separation**    | Sister chromatids separate in Anaphase <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>          | Homologous chromosomes separate in [[Detailed cell division process in meiosis | Anaphase I]]; sister chromatids separate in [[Phases of meiosis | Anaphase II]] <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a> |
+| **Role**                     | Growth, repair, asexual reproduction <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a> | Sexual reproduction and genetic diversity <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a> |
 
-#### Prophase
-*   **[[overview_of_mitosis | Mitosis]] (Prophase):** Chromatin condenses into visible chromosomes, and the nuclear envelope disappears <a class="yt-timestamp" data-t="08:40:00">[08:40:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]] (Prophase I):**
-    *   The nuclear envelope starts disappearing <a class="yt-timestamp" data-t="07:29:00">[07:29:00]</a>.
-    *   The chromatin forms into more tightly wound structures of chromosomes <a class="yt-timestamp" data-t="12:36:00">[12:36:00]</a>.
-    *   A key difference is that [[role_of_homologous_pairs_in_meiosis | homologous pairs]] of chromosomes line up next to each other <a class="yt-timestamp" data-t="08:50:00">[08:50:00]</a>.
-    *   **Crossing Over (Genetic Recombination):** Homologous chromosomes can exchange genetic material at points called chiasmata <a class="yt-timestamp" data-t="09:37:00">[09:37:00]</a>. This process is organized and exchanges similar genes, leading to new combinations of alleles <a class="yt-timestamp" data-t="10:42:00">[10:42:00]</a>. This is a key feature of [[overview_of_meiosis | meiosis]] that introduces variation <a class="yt-timestamp" data-t="11:36:00">[11:36:00]</a>.
+### Meiosis II: Similar to Mitosis
 
-#### Metaphase
-*   **[[overview_of_mitosis | Mitosis]] (Metaphase):** Chromosomes align individually along the metaphase plate <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]] (Metaphase I):** [[role_of_homologous_pairs_in_meiosis | Homologous pairs]] (each composed of two sister chromatids) align along the metaphase plate <a class="yt-timestamp" data-t="15:00:00">[15:00:00]</a>. The orientation of these pairs is random, further adding to genetic variation <a class="yt-timestamp" data-t="14:15:00">[14:15:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]] (Metaphase II):** Chromosomes (each still composed of two sister chromatids) align individually, similar to [[overview_of_mitosis | mitosis]] <a class="yt-timestamp" data-t="20:42:00">[20:42:00]</a>.
+After [[Detailed cell division process in meiosis | Meiosis I]] concludes with telophase I and cytokinesis, forming two haploid cells, these cells then proceed into [[Phases of meiosis | Meiosis II]] <a class="yt-timestamp" data-t="00:17:55">[00:17:55]</a>. [[Phases of meiosis | Meiosis II]] is very similar to [[Process and phases of mitosis | mitosis]] <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>:
+*   **Prophase II:** The nuclear envelope (if re-formed) disintegrates, and centrosomes migrate to opposite poles <a class="yt-timestamp" data-t="00:19:47">[00:19:47]</a>.
+*   **Metaphase II:** Chromosomes (each still composed of two sister chromatids) align at the metaphase plate <a class="yt-timestamp" data-t="00:20:42">[00:20:42]</a>.
+*   **Anaphase II:** Sister chromatids separate and move to opposite poles, now considered individual chromosomes <a class="yt-timestamp" data-t="00:23:45">[00:23:45]</a>.
+*   **Telophase II:** Nuclear envelopes reform around the separated chromosomes at each pole, and cytokinesis divides the cytoplasm, resulting in a total of four haploid cells <a class="yt-timestamp" data-t="00:24:49">[00:24:49]</a>.
 
-#### Anaphase
-*   **[[overview_of_mitosis | Mitosis]] (Anaphase):** Sister chromatids separate and move to opposite poles of the cell <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]] (Anaphase I):** The [[role_of_homologous_pairs_in_meiosis | homologous pairs]] separate and move to opposite poles, but the sister chromatids remain attached <a class="yt-timestamp" data-t="15:08:00">[15:08:00]</a>. This is a key distinguishing difference <a class="yt-timestamp" data-t="16:23:00">[16:23:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]] (Anaphase II):** Sister chromatids finally separate and move to opposite poles, similar to [[overview_of_mitosis | mitosis]] <a class="yt-timestamp" data-t="22:17:00">[22:17:00]</a>.
-
-#### Telophase
-*   **[[overview_of_mitosis | Mitosis]] (Telophase):** Two new nuclei form, and cytokinesis divides the cytoplasm, resulting in two identical diploid cells <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]] (Telophase I):** Two haploid cells are formed, each containing chromosomes that still consist of two sister chromatids <a class="yt-timestamp" data-t="16:48:00">[16:48:00]</a>. Nuclear envelopes may reform <a class="yt-timestamp" data-t="17:42:00">[17:42:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]] (Telophase II):** Four haploid cells are formed, each with single, unreplicated chromosomes <a class="yt-timestamp" data-t="24:49:00">[24:49:00]</a>. Nuclear membranes reform around these chromosomes, and cytokinesis completes the division into four distinct gametes <a class="yt-timestamp" data-t="25:15:00">[25:15:00]</a>.
-
-### 5. Genetic Variation
-*   **[[overview_of_mitosis | Mitosis]]:** Produces genetically identical daughter cells <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>.
-*   **[[overview_of_meiosis | Meiosis]]:** Produces genetically diverse haploid cells (gametes) due to:
-    *   **Crossing Over:** Exchange of genetic material between [[role_of_homologous_pairs_in_meiosis | homologous chromosomes]] during Prophase I <a class="yt-timestamp" data-t="09:37:00">[09:37:00]</a>.
-    *   **Independent Assortment:** Random alignment of [[role_of_homologous_pairs_in_meiosis | homologous pairs]] during Metaphase I <a class="yt-timestamp" data-t="14:15:00">[14:15:00]</a>.
-
-In summary, the first stage of [[overview_of_meiosis | meiosis]] splits [[role_of_homologous_pairs_in_meiosis | homologous pairs]] with genetic recombination, while the second stage separates sister chromatids, similar to [[overview_of_mitosis | mitosis]] <a class="yt-timestamp" data-t="26:52:00">[26:52:00]</a>. This entire process leads to significant variation in the gene pool <a class="yt-timestamp" data-t="27:01:00">[27:01:00]</a>.
+The process of [[Process and phases of meiosis | meiosis]], particularly its first stage, ensures the creation of genetically diverse gametes, which is essential for [[Role of meiosis in sexual reproduction | sexual reproduction]] and introducing [[Differences in genetic outcomes between mitosis and meiosis | variation]] into a population <a class="yt-timestamp" data-t="00:27:01">[00:27:01]</a>.

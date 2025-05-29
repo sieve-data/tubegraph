@@ -5,12 +5,22 @@ videoId: cLP7INqs3JM
 
 From: [[khanacademy]] <br/> 
 
-[[definition_of_rational_numbers | Rational numbers]] are defined as any number that can be [[representation_of_rational_numbers_as_fractions | represented as the ratio of two integers]] <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. This definition extends beyond just integers or finite decimals to include [[repeating_decimals_and_notation | repeating decimals]] <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.
+[[recurring_decimals_representation | Repeating decimals]] are a specific type of decimal representation that are always considered [[rational_numbers_and_integer_representation | rational numbers]] <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. A [[rational_numbers_and_integer_representation | rational number]] is defined as any number that can be represented as the ratio of two integers <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
 
-## Examples of Repeating Decimals as Ratios
+## Characteristics of Repeating Decimals
 
-A common example of a [[repeating_decimals_and_notation | repeating decimal]] is 0.333..., often denoted as 0.3 with a bar over the 3 <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. This number can be clearly represented as the fraction 1/3 <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. Similarly, 0.6 repeating can be represented as 2/3 <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
+A [[recurring_decimals_representation | repeating decimal]] is a decimal where a sequence of digits after the decimal point repeats indefinitely <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. This is typically denoted by placing a bar over the repeating digit or sequence of digits <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
 
-## General Principle
+### Conversion to Ratio of Two Integers
 
-Any [[repeating_decimals_and_notation | repeating decimal]], regardless of the number of digits that repeat, can always be [[representation_of_rational_numbers_as_fractions | represented as the ratio of two integers]] <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. Even if a pattern of a million digits repeats itself indefinitely, it remains a rational number <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. Methods for how to [[converting_decimals_to_fractions | convert any repeating decimal]] into a [[representation_of_rational_numbers_as_fractions | ratio of two integers]] can be demonstrated <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
+Any [[recurring_decimals_representation | repeating decimal]] can be [[decimals_to_fractions_conversion | converted]] into a [[fractional_representation_of_noninteger_rational_numbers | fraction]] (the ratio of two integers) <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
+
+*   **Example 1: 0.3 repeating**
+    The decimal 0.333... (or 0.3 repeating) is equivalent to 1/3 <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+*   **Example 2: 0.6 repeating**
+    The decimal 0.666... (or 0.6 repeating) is equivalent to 2/3 <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
+
+Even if a [[recurring_decimals_representation | repeating decimal]] has a very long repeating pattern (e.g., a million digits repeating), as long as the pattern repeats itself over and over again, it can always be represented as the ratio of two integers <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. This property confirms that all [[recurring_decimals_representation | repeating decimals]] are, by definition, [[rational_numbers_and_integer_representation | rational numbers]] <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
+
+> [!NOTE]
+> The conversion process for [[recurring_decimals_representation | repeating decimals]] to fractions will be detailed in future explanations <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.

@@ -5,32 +5,36 @@ videoId: Fvi9A_tEmXQ
 
 From: [[khanacademy]] <br/> 
 
-In probability, [[random_variables | random variables]] are used to describe the outcomes of random phenomena <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. There are two primary types of [[random_variables | random variables]]: [[discrete_random_variables | discrete]] and [[continuous_random_variables | continuous]] <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+Previously, the concept of a [[random_variables_overview | random variable]] was introduced, followed by an overview of its two main types: discrete and continuous <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
 
-## [[discrete_random_variables | Discrete Random Variables]]
+## Discrete Random Variables
+[[Discrete random variables | Discrete random variables]] can take on a finite number of values <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. While they often tend to be integers, they are not always required to be <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. The key characteristic is that a [[Discrete random variables | discrete random variable]] cannot have an infinite number of values <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
 
-A [[discrete_random_variables | discrete random variable]] is one that can only take on a finite number of specific values <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. These values are often integers, but not exclusively <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. The key characteristic is that you cannot have an infinite number of possible values for a [[discrete_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+## Continuous Random Variables
+[[Continuous random variables | Continuous random variables]], in contrast, can take on an infinite number of values <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. [[Examples of random variables | Random variables]] are typically represented by capital letters, such as `Y` <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
 
-For a [[discrete_random_variables | discrete probability distribution]], the sum of all individual probabilities for each possible outcome must equal 1 (or 100%) <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>, <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>.
+### Example: Amount of Rain
+Consider a [[Continuous random variables | continuous random variable]], `Y`, representing the exact amount of rain tomorrow <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. The amount of rain can be any value within a range, not just whole numbers.
 
-> For example, if a [[random_variables | random variable]] `X` represents the outcome of a coin flip, `X` could be `1` for heads and `0` for tails <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. If the probability of heads is 0.5, the probability of tails must also be 0.5, so they add up to 1 <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>. It's impossible to have a 60% chance of heads and a 60% chance of tails, as that would total 120%, which makes no sense <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
+### Probability for Continuous Random Variables
+When dealing with [[Continuous random variables | continuous random variables]], a key distinction arises in calculating probabilities.
 
-## [[continuous_random_variables | Continuous Random Variables]]
+#### Probability of an Exact Value
+The probability that a [[Continuous random variables | continuous random variable]] `Y` is exactly equal to a specific value (e.g., exactly 2 inches of rain) is essentially zero <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
 
-In contrast, a [[continuous_random_variables | continuous random variable]] can take on an infinite number of values within a given range or interval <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. [[Random_variables | Random variables]] are typically denoted by capital letters, such as `Y` <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>, <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+Consider the precision required for "exactly 2 inches": it means not 2.01, not 1.99, not even 2.000001 or 1.99999 inches <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. The odds of any measurement being precisely exact to an infinite decimal point is 0 <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
 
-An [[examples_of_continuous_variables | example of a continuous random variable]] is the exact amount of rain that falls tomorrow <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. This value can be 2 inches, 2.01 inches, 1.99999 inches, or any value in between <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+This concept can be understood by analogy: asking for the area under a curve at just one specific line or, more simply, asking for the area of a line <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>. A line, as defined, has no width, and therefore no area <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. Similarly, when a [[random_variables_overview | random variable]] can take on an infinite number of values, the probability of hitting one exact value is 0 <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>.
 
-### Probability of an Exact Value
+#### Probability Over an Interval
+For [[Continuous random variables | continuous random variables]], probabilities are defined over intervals <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>. For example, to find the probability that `Y` is almost 2 (e.g., between 1.9 and 2.1 inches), an interval is used <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.
 
-For a [[continuous_random_variables | continuous random variable]], the probability of it taking on an *exact* value is essentially zero <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>, <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>. This is because there are an infinite number of possible values, making the chance of landing on one specific, infinitely precise point negligible <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
+To find the probability of a [[Continuous random variables | continuous random variable]] falling within a specific range, the **area under its probability density function (PDF)** for that interval is calculated <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. Those familiar with calculus would recognize this as the definite integral of the PDF over the given interval <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. For a function `f(x)`, the probability from 1.9 to 2.1 would be ∫(from 1.9 to 2.1) f(x) dx <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>.
 
-> For instance, the probability of exactly 2 inches of rain (not 2.000001 or 1.999999 inches) is 0 <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>, <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. Our measurement tools aren't precise enough to even determine an exact value <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. This can be understood by analogy: a line, despite having height, has no width, and therefore no area <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>. Similarly, a single point on a continuous distribution has no "area," hence no probability <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>, <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+#### Total Probability
+For any probability distribution, the sum of all possible probabilities must equal 1 (or 100%) <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>.
 
-### Probability Density Function (PDF)
+*   **For [[Continuous random variables | continuous random variables]]**: The entire area under the probability density function curve must be equal to 1 <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. If the function is `f(x)` and the domain is from 0 to infinity, then ∫(from 0 to ∞) f(x) dx = 1 <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>.
+*   **For [[Discrete random variables | discrete random variables]]**: The sum of all individual probabilities for each possible outcome must equal 1 <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>. For example, with a coin flip where heads (1) and tails (0) each have a 0.5 probability, 0.5 + 0.5 = 1 <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. It's not possible to have a 60% chance for heads and a 60% chance for tails, as that would sum to 120%, which is illogical <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
 
-The probability of a [[continuous_random_variables | continuous random variable]] falling within a range is represented by its probability density function (PDF) <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. Instead of discrete bars, a PDF is a continuous curve <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
-
-To find the probability that a [[continuous_random_variables | continuous random variable]] falls within a certain interval (e.g., between 1.9 and 2.1 inches of rain), you calculate the area under the curve of the PDF for that interval <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>, <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. This calculation is performed using a definite integral in calculus <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>, <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>.
-
-For any valid probability density function, the total area under the entire curve must equal 1 <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>, <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. This signifies that the probability of all possible outcomes combined is 100% <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
+The next discussion will introduce the concept of an expected value <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.

@@ -5,55 +5,49 @@ videoId: 2ZzuZvz33X0
 
 From: [[khanacademy]] <br/> 
 
-When tasked with [[solving_techniques_for_quadratic_equations | solving]] a quadratic equation, such as `s^2 - 2s - 35 = 0` <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, the most effective [[methods_for_solving_quadratic_equations | method]], especially when the equation is explicitly set to zero, is to [[factoring_quadratic_equations | factor]] the non-zero side <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. This approach leverages the property that if the product of two numbers is zero, at least one of them must be zero <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+To solve for a variable in a [[quadratic_equations | quadratic equation]], such as `s^2 - 2s - 35 = 0` <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>, especially when it's explicitly set to zero, the most effective method is often to [[factoring_quadratic_equations | factor]] the expression on the left-hand side <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. Once factored into binomials, the principle that their product must equal zero can be applied <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
 
 ## Factoring by Grouping
 
-One common [[factoring_quadratics | factoring]] technique is **factoring by grouping** <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. This method is particularly useful when the leading coefficient (the coefficient of the `s^2` term) is 1, as is the case in `s^2 - 2s - 35 = 0` <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+One standard method for [[factoring_quadratic_polynomials | factoring a quadratic expression]] is by grouping <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
 
-### Steps for Factoring by Grouping
+1.  **Find Two Numbers**: Identify two numbers, `a` and `b`, such that their sum (`a + b`) is equal to the coefficient of the middle term, and their product (`a * b`) is equal to the constant term <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+    *   For `s^2 - 2s - 35 = 0`:
+        *   The sum `a + b` must be -2 <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
+        *   The product `a * b` must be -35 <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
+    *   Since the product is negative, one number must be positive and the other negative <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+    *   The numbers 5 and -7 satisfy these conditions: 5 + (-7) = -2, and 5 * (-7) = -35 <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
 
-1.  **Identify two numbers** <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>:
-    *   Find two numbers (let's call them `a` and `b`) whose sum (`a + b`) equals the coefficient of the middle term (`-2`) <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a> <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
-    *   Their product (`a * b`) must equal the constant term (`-35`) <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a> <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
-    *   If the product is negative, one number must be positive and the other negative <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
-    *   For `s^2 - 2s - 35 = 0`, the numbers are `5` and `-7` <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
-        *   `5 + (-7) = -2` <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>
-        *   `5 * (-7) = -35` <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>
+2.  **Split the Middle Term**: Rewrite the middle term of the quadratic equation using the two numbers found <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
+    *   `s^2 - 2s - 35 = 0` becomes `s^2 + 5s - 7s - 35 = 0` <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
 
-2.  **Split the middle term**: Rewrite the quadratic equation by splitting the middle term (`-2s`) using the identified numbers <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
-    *   `s^2 - 2s - 35 = 0` becomes `s^2 + 5s - 7s - 35 = 0` <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a> <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+3.  **Group and Factor**: Group the first two terms and the last two terms, then factor out the greatest common factor from each group <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
+    *   Group 1: `s^2 + 5s` - common factor is `s` <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+        *   `s(s + 5)` <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>
+    *   Group 2: `-7s - 35` - common factor is -7 <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
+        *   `-7(s + 5)` <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>
+    *   Combine: `s(s + 5) - 7(s + 5) = 0` <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
 
-3.  **Group and factor**:
-    *   Group the first two terms and factor out their common factor: `(s^2 + 5s)` becomes `s(s + 5)` <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a> <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
-    *   Group the last two terms and factor out their common factor: `(-7s - 35)` becomes `-7(s + 5)` <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a> <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
-    *   The equation now is `s(s + 5) - 7(s + 5) = 0` <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
+4.  **Factor Out the Common Binomial**: Notice that `(s + 5)` is a common factor in both terms. Factor it out <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+    *   `(s + 5)(s - 7) = 0` <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>
 
-4.  **Factor out the common binomial**: Notice that `(s + 5)` is a common factor in both terms <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. Factor it out:
-    *   `(s + 5)(s - 7) = 0` <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+## Zero Product Property
 
-### Solving the Factored Equation
+Once the quadratic equation is factored into two binomials, the Zero Product Property can be applied <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. This property states that if the product of two numbers is zero, then at least one of those numbers must be zero <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
 
-Once factored, the equation `(s + 5)(s - 7) = 0` represents the product of two numbers equal to zero <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. This means at least one of the factors must be zero <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+1.  **Set Each Factor to Zero**: Since `(s + 5)(s - 7) = 0`, either `s + 5 = 0` or `s - 7 = 0` (or both) <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
 
-Set each factor equal to zero and solve for `s`:
-1.  `s + 5 = 0`
-    *   Subtract 5 from both sides: `s = -5` <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a> <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
-2.  `s - 7 = 0`
-    *   Add 7 to both sides: `s = 7` <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a> <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
+2.  **[[Solving simple linear equations | Solve]] for the Variable**: [[solving_equations_with_variables | Solve]] each resulting [[solving_simple_linear_equations | linear equation]]:
+    *   For `s + 5 = 0`: Subtract 5 from both sides to get `s = -5` <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>.
+    *   For `s - 7 = 0`: Add 7 to both sides to get `s = 7` <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
 
-Therefore, the solutions for `s` are `-5` and `7` <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>.
+Thus, the solutions for `s` are -5 and 7 <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>. These solutions can be verified by substituting them back into the original equation <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
 
-### Verification
+## Shortcut for Specific Quadratics
 
-You can verify the solutions by plugging them back into the original equation:
-*   For `s = -5`: `(-5)^2 - 2(-5) - 35 = 25 + 10 - 35 = 0` <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
-*   For `s = 7`: `(7)^2 - 2(7) - 35 = 49 - 14 - 35 = 0` <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
+When the leading coefficient of a quadratic expression (the coefficient of the `s^2` term) is 1, a shortcut for [[factoring_quadratic_equations | factoring]] can be used <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. If `x^2 + (a + b)x + ab` is the form, it can be directly factored into `(x + a)(x + b)` <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
 
-Both solutions satisfy the equation <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
+This means that once the two numbers (`a` and `b`) are found whose sum is the middle coefficient and product is the constant term, the quadratic can be immediately written in factored form <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>.
+*   For `s^2 - 2s - 35 = 0`, with `a = 5` and `b = -7`, it can be directly factored as `(s + 5)(s - 7) = 0` <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>.
 
-## Shortcut for Factoring Quadratics with a Leading Coefficient of 1
-
-When the [[understanding_components_of_a_quadratic_equation | quadratic equation]] is in the form `x^2 + Bx + C = 0` (where `B` is `a+b` and `C` is `ab`) <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>, and the leading coefficient is 1 <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>, you can directly factor it into `(x + a)(x + b) = 0` once `a` and `b` are identified <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>.
-
-In our example, once we found `5` and `-7` as the two numbers that sum to `-2` and multiply to `-35` <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>, we could have immediately written the factored form as `(s + 5)(s - 7) = 0` <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. This provides a shortcut compared to the full factoring by grouping process <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>.
+Both [[factoring_quadratic_equations | factoring by grouping]] and this shortcut are appropriate ways to [[solving_difficult_quadratic_equations | solve quadratic equations]] <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
