@@ -5,18 +5,16 @@ videoId: aqBv6xCSLcU
 
 From: [[theaccountantguy]] <br/> 
 
-The [[creating_a_business_plan_using_notion | business plan template]] in Notion includes an "events timeline" view, which provides a visual representation of business planning stages and tasks in a calendar and timeline format <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. This view helps in quickly understanding the planned schedule and progress <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+Within a [[creating_a_business_plan_using_notion | business plan template]], the [[managing_events_with_notion | events timeline]] is a distinct view designed to help in [[creating_a_business_plan_using_notion | business planning]] <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. It provides a visual representation of all planned activities in a calendar and timeline format <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
 
-## Overview of the Events Timeline
+## Key Features and Information Displayed
 
-The events timeline displays all information previously set up in the [[business_plan_road_map_and_stages | business plan road map]] <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. This includes:
-*   **Specific Deadline Dates** The timeline clearly shows the deadlines set for different stages <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>. For example, a timeline might show dates like "December 3 to December 20" for specific stages <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
-*   **Stage Information** For each stage, the timeline displays the stage name <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
-*   **Associated Tasks** Tasks linked to each stage are visible <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
-*   **Dates and Status** Alongside tasks, their respective dates and current status are shown <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
+The [[managing_events_with_notion | events timeline]] consolidates and displays information from the [[business_plan_roadmap_stages | business plan roadmap]] <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>, including:
+*   **Specific Deadline Dates** The timeline shows the [[assigning_tasks_and_deadlines_in_a_business_plan | deadline]] dates for various elements <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
+*   **Stage Timelines** It reflects the timeline set for specific [[business_plan_roadmap_stages | stages]] of the business plan <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. For example, a timeline might show December 3 to December 20 for a specific stage <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+*   **Stage Details** For each stage, the timeline provides the stage name, associated [[assigning_tasks_and_deadlines_in_a_business_plan | tasks]], and their respective dates and statuses <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+*   **Navigation** Small arrows on the timeline reflect specific dates <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. Clicking on these arrows directs the user to the specific date, allowing them to view the detailed stages and their associated properties <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
 
-## Navigating the Timeline
+## Purpose and Benefits
 
-Small arrows on the timeline reflect the dates <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. Clicking on any of these arrows will direct you to the specific date <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>, allowing you to view detailed information for all stages and their associated properties for that particular date <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>.
-
-This [[visualizing_event_data_in_calendar_and_board_views_in_notion | calendar and timeline format]] offers a quick visual summary of all planned activities for the business <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+The primary purpose of the [[managing_events_with_notion | events timeline]] is to offer a quick and comprehensive visual overview of all planned activities <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. This visual representation helps users track progress and understand the flow of their [[creating_a_business_plan_using_notion | business plan]] over time <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.

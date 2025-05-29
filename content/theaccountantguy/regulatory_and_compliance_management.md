@@ -1,25 +1,24 @@
 ---
-title: Regulatory and compliance management
+title: Regulatory and Compliance Management
 videoId: TgCfh3qLL_Q
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-The asset planner template includes a [[Regulatory and compliance management | regulatory management section]] <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>. This section specifically addresses compliance <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+The asset planner template includes a dedicated [[operational_management_for_assets | regulatory management section]] designed to help users manage compliance and related documentation for their assets <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
 
-In addition to compliance, this section of the template also features:
-*   **Documentation** Users can add all relevant and required documents related to the asset <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
-*   **Reviews** Allows for reviews related to the asset, where users can provide feedback on assets being used <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+## Compliance Section
 
-The entire template is fully customizable to suit individual requirements <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+This part of the template covers "everything related to compliance" concerning the assets <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. It is a key component within the broader [[operational_management_for_assets | regulatory management framework]] <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
 
-## Related Sections within the Asset Planner
+## Documentation Section
 
-Beyond [[Regulatory and compliance management | regulatory management]], the asset planner template covers several other key areas:
+Within the asset planner, a documentation section is available where users can add "all your relevant documents whatever is required related to the asset" <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. This feature is crucial for maintaining comprehensive records that may be necessary for regulatory adherence or auditing purposes.
 
-### [[operational_management_of_assets | Operational Management]]
-This section encompasses various details related to asset operation:
-*   **Asset Details** Includes information such as asset ID, name, and type <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
-*   **Maintenance Details** Covers maintenance ID and other maintenance-related information <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
-*   **Financial Details** Shows the current value, depreciation method, and depreciation rate of assets <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
-*   **Performance** Tracks asset performance as it is created <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+## Asset Reviews
+
+The template also includes a reviews section, allowing individuals to "put their own reviews about the assets that are being used" <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. While not directly a compliance feature, such reviews can contribute to performance monitoring and quality control, which may indirectly support compliance goals or operational audits.
+
+### Customization
+
+The entire asset planner template, including its regulatory and compliance features, is "entirely customizable" <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. Users can tailor it to suit their specific requirements <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. For customization needs, users can reach out via notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.

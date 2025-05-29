@@ -1,7 +1,7 @@
 ---
 title: Notion finance templates overview
-videoId: sCheBme0Ymw
+videoId: DMBpBlLN7W0
 ---
 
 From: [[theaccountantguy]] <br/> 
-# Notion finance templates overview
+There is no information about Notion finance templates overview in the provided transcript.

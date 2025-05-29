@@ -5,26 +5,30 @@ videoId: 13jgGp1PbPo
 
 From: [[theaccountantguy]] <br/> 
 
-This article details how to [[calculating_product_of_numbers_in_notion | calculate the product of two numbers]] within a database in Notion <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. This can be achieved using two distinct [[formulas_in_notion | formulas]] <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+To [[formulas_for_multiplication_in_notion | calculate the product]] of two numbers in a Notion database, you can use two different formulas <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a> <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. This process involves setting up a database with specific number properties and then applying [[using_formulas_in_notion | formulas]] to compute the product <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
 
 ## Database Setup
 
-To calculate products, a Notion database needs the following properties:
-*   A title property for the name of the operator (e.g., "multiply operator") <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
-*   Two number properties for the input values <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
-*   A formula property to display the calculated product <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+A typical database for this operation consists of:
+*   A "Name" property (title property), which can be used to identify the operator, e.g., "multiply operator" <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a> <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+*   Two "Number" properties, each assigned a number format, to hold the values you want to multiply <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a> <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+*   Formula properties to display the calculated product <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
 
-## Methods for Calculating Product
+## Methods for Multiplication
 
-Notion offers two ways to [[calculating_product_of_numbers_in_notion | calculate the product of numbers]] within a database:
+There are two primary ways to calculate the product of two numbers using formulas in Notion:
 
-### 1. Using the Multiply Operator Formula
+### 1. Using the `multiply()` operator formula
 
-This method involves a dedicated "multiply operator" formula where the two numbers are provided as input to calculate their product <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
-*   For example, if the input numbers are 2 and 3, the product obtained using this formula is 6 <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+This method involves explicitly using the `multiply()` function within a Notion formula property <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+*   **Syntax**: `multiply(Number1, Number2)`
+*   You provide the two numbers as inputs to this formula <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a> <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+*   **Example**: If you input `2` and `3` into the number properties, the `multiply()` formula will return `6` <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a> <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
 
 ### 2. Using the Multiply Symbol (`*`)
 
-Another formula allows for the multiplication of two numbers simply by placing the multiply symbol (`*`) between them <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+This is a more direct approach, using the asterisk symbol (`*`) to perform multiplication <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+*   **Syntax**: `Number1 * Number2`
+*   The multiply symbol is placed between the two number properties you wish to multiply <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a> <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
 
-Both of these [[formulas_in_notion | formulas]] enable the calculation of the product of two numbers <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+Both formulas effectively calculate the product of two numbers in Notion <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a> <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.

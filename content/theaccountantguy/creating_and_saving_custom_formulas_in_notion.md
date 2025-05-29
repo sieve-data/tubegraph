@@ -5,84 +5,81 @@ videoId: yaWvFwek_EM
 
 From: [[theaccountantguy]] <br/> 
 
-This article details how to create and save custom formulas in Notion, particularly for calculating averages, including conditional averages, by integrating an external tool. This method addresses the complexities that can arise when using Notion's built-in formulas and allows results to be saved to a separate database <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+While Notion offers [[using_formulas_in_notion | inbuilt formulas]], they can sometimes be complex to understand <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. This article outlines how to create and save custom formulas in Notion, especially for calculations like averages, including conditional averages, using an external tool <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. This method is similar to using AVERAGE, AVERAGEIF, and AVERAGEIFS functions in [[how_to_use_excel_formulas_in_notion | Excel]] <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
 
-## Why Use External Tools for Notion Formulas?
+## Utilizing My Formula Gen for Notion Calculations
 
-While Notion has built-in formulas, they can sometimes be complicated to understand <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. An external tool allows for the calculation of various metrics, such as averages (similar to AVERAGE, AVERAGEIF, and AVERAGEIFS functions in Excel), and the saving of these results into a separate Notion database <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+The external tool used for this purpose is [[using_my_formula_gen_for_notion_calculations | My Formula Gen]] <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
 
-## Tool Setup: MyFormulaGen
+### Initial Setup Steps
 
-The process involves using an external tool called MyFormulaGen <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
+1.  **Log in to My Formula Gen:** Go to myformulagen.com and create or log into your account <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+2.  **Fetch Notion Database URL:**
+    *   Open your Notion database (e.g., a sales database with properties like date, product, category, quantity, revenue) <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
+    *   If the database is inline, click the six dots icon, then "Copy link" <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+    *   Paste this URL into the designated field in [[using_my_formula_gen_for_notion_calculations | My Formula Gen]] <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
+3.  **Add API Key:**
+    *   In [[using_my_formula_gen_for_notion_calculations | My Formula Gen]], navigate to "Settings" <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
+    *   Click "Get API key" to be redirected to Notion's API page <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
+    *   Click "New integration," define a name (e.g., "My API key"), select the workspace, and click "Save" <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
+    *   Copy the "Internal Integration Secret" (click "Show" to reveal) <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
+    *   Paste this key back into [[using_my_formula_gen_for_notion_calculations | My Formula Gen]] settings and click "Save changes" <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+4.  **Connect Notion Page to API Key:**
+    *   Go back to your Notion page containing the database <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
+    *   Click the three dots icon on the page, then "Connections" <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+    *   Search for and select the API key you just created (e.g., "My Formula Gen") and click "Confirm" <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+    *   This connects the Notion page and its databases to the API key <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
 
-### Accessing MyFormulaGen and Logging In
-First, navigate to myformulagen.com and create an account <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+## Calculating Averages
 
-### Fetching Notion Database URL
-To calculate values, you need to provide the database URL from Notion <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
-*   For an inline database, click on the six dots icon next to the database name and select "Copy link" <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
-*   For a full-page database, click on the three dots at the top right, then "Copy link" <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
-*   Paste this URL into MyFormulaGen <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
+Once the setup is complete, you can define custom formulas to get desired values <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
 
-### Setting Up API Key
-An API key is required for MyFormulaGen to connect to your Notion workspace <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>.
-1.  In MyFormulaGen, click on "Settings" and then "Get API key" <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>.
-2.  This redirects you to Notion's API page where you can create a new integration <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
-3.  Click "New integration," define a name (e.g., "My API Key"), and select the relevant Notion workspace <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
-4.  Save the integration <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
-5.  Copy the "Internal Integration Secret" (API key) and paste it into MyFormulaGen's settings, then click "Save changes" <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
+### 1. Simple Average (AVERAGE equivalent)
 
-### Connecting Notion Page to API Key
-After setting up the API key, you need to connect the Notion page containing your database to this API key <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
-1.  In Notion, go to the page with your database.
-2.  Click on the three dots in the top right corner of the page <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
-3.  Select "Add connections" (or "Connections") and search for the name of your API key (e.g., "My Formula Gen") <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
-4.  Confirm the connection <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. This connects both the page and the database within it <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
-
-## Creating Custom Formulas
-
-Once the setup is complete, you can define [[creating_and_saving_formulas_in_notion | custom formulas]] in MyFormulaGen.
-
-### 1. Calculating Simple Average Sales Revenue
-To find the average of a column (e.g., "Revenue") for all rows <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>:
-1.  In MyFormulaGen, select "average" as the operation <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>.
+To find the average sales revenue from a "Revenue" column:
+1.  In [[using_my_formula_gen_for_notion_calculations | My Formula Gen]], select the "Average" operation <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>.
 2.  Choose the "Revenue" column <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>.
-3.  Select "all rows" <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
-4.  Click "Calculate" <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
-5.  **Saving to Notion**:
-    *   [[creating_a_database_in_notion_for_calculations | Create a second database]] in Notion to store the results, for example, named `db_summary` with a "Value" column formatted as a number <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
-    *   Create a new row in this summary database, e.g., "Average Sales Revenue" <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>.
-    *   In MyFormulaGen, click "Add to Notion," paste the URL of the `db_summary` database, select the "Value" column, and the "Average Sales Revenue" row <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>.
-    *   Click "Save to Notion" to update the value <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>.
-6.  **[[creating_and_saving_formulas_in_notion | Saving the Formula]]**: Give the formula a name (e.g., "Revenue average") and click "Save" <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>. This saves it under "Saved Formulas" for future use <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+3.  Select "All rows" to include all data <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+4.  Click "Calculate" to see the result <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>.
 
-### 2. Calculating Average Sales Revenue for March Month
-To find the average of "Revenue" only for the month of March <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>:
-1.  Click "New Formula" in MyFormulaGen <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>.
-2.  Paste the original database link <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
-3.  Select "average" for "Revenue" and "all rows" <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>.
-4.  Add a condition: Choose "Date field start date is between" and set the range from March 1st to March 31st <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>.
+### 2. Conditional Average (AVERAGEIF equivalent)
+
+To find the average sales revenue for a specific month (e.g., March):
+1.  Create a new formula in [[using_my_formula_gen_for_notion_calculations | My Formula Gen]] <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>.
+2.  Paste the database link <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
+3.  Find the average of "Revenue" for "All rows" <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>.
+4.  Add a condition: where the "Date" field's "start date is between" a specific range (e.g., March 1st and March 31st) <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>.
 5.  Click "Calculate" <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>.
-6.  Add a new row in your summary database (e.g., "Average Sales Revenue March 2025") and save the value using "Add to Notion" as before <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>.
-7.  [[creating_and_saving_formulas_in_notion | Save the formula]] (e.g., "Revenue March 2025") <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>.
 
-### 3. Calculating Average Sales Revenue for Software Category in Q1
-To find the average of "Revenue" for the "Software" category during Quarter 1 (Jan-Mar) <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>:
-1.  Click "New Formula" and paste the original database link <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>.
-2.  Select "average" for "Revenue" <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
-3.  Add the first condition: "Date field start date is between" Jan 1st and March 31st (for Q1) <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
-4.  Add an "and" condition <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.
-5.  Add the second condition: Choose the "Category" column and set it to "is software" <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>.
-6.  Click "Calculate" <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>.
-7.  Add a new row in your summary database (e.g., "Average Sales March 2025 Software") and save the value <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>.
-8.  [[creating_and_saving_formulas_in_notion | Save the formula]] (e.g., "Mar 2025 Software") <a class="yt-timestamp" data-t="00:12:44">[00:12:44]</a>.
+### 3. Multiple Conditional Average (AVERAGEIFS equivalent)
 
-## Refreshing and Updating Formulas
+To find the average sales revenue for a specific category (e.g., "Software") within a quarter (e.g., Q1, Jan-Mar):
+1.  Create a new formula in [[using_my_formula_gen_for_notion_calculations | My Formula Gen]] <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>.
+2.  Paste the database link <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>.
+3.  Find the average of "Revenue" for "All rows" <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>.
+4.  Add the first condition: where the "Date" field's "start date is between" January 1st and March 31st <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
+5.  Add an "AND" condition by clicking the plus button <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.
+6.  Add the second condition: choose the "Category" column and set it "is software" <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>.
+7.  Click "Calculate" <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>.
 
-After modifying data in your source Notion database, the calculated values in your summary database will become outdated <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
-*   To update a specific formula, go to "Saved Formulas" in MyFormulaGen and click "Refresh formula" next to the desired entry <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>.
-*   To update all saved formulas, click "Refresh all" <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>. This will refresh all values in the target Notion database <a class="yt-timestamp" data-t="00:13:14">[00:13:14]</a>.
+## Saving and Updating Results in Notion
 
-## Flexibility and Other Operations
+To display these calculated averages in Notion:
 
-This setup provides flexibility for various calculations <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a>. Besides [[using_formulas_to_calculate_averages_in_notion | average]], the tool supports other operations like [[using_formulas_to_add_numbers_in_notion | sum]] and count, similar to [[using_excelstyle_formulas_in_notion | Excel-style formulas]] <a class="yt-timestamp" data-t="00:14:26">[00:14:26]</a>. You can choose to calculate for "all rows," a specific "range," or "custom rows" <a class="yt-timestamp" data-t="00:14:33">[00:14:33]</a>. This method allows you to easily [[refreshing_and_updating_formulas_in_notion_databases | refresh and update formulas in Notion databases]] for various analytical needs <a class="yt-timestamp" data-t="00:13:38">[00:13:38]</a>.
+1.  **Create a Summary Database:** In your Notion page, create a new inline database (e.g., "DB_Summary") with a "Title" column and a "Value" column set to number format <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+2.  **Add Rows for Each Calculation:** Create new rows in this summary database for each average you want to display (e.g., "Average Sales Revenue," "Average Sales Revenue March 2025") <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+3.  **Copy Summary Database Link:** Click the six dots on your new summary database and select "Copy link" <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>.
+4.  **Add to Notion:** In [[using_my_formula_gen_for_notion_calculations | My Formula Gen]], after calculating a value, click "Add to Notion" <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>.
+5.  **Paste Link and Select Location:** Paste the summary database link <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. Select the "Value" column and the specific row where you want the result saved (e.g., "Average Sales Revenue") <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>.
+6.  **Save to Notion:** Click "Save to Notion" <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. The value will automatically populate in your Notion database <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
+
+### Saving Formulas for Future Use
+
+To easily re-run calculations after data changes:
+1.  After populating a value in Notion, save the formula in [[using_my_formula_gen_for_notion_calculations | My Formula Gen]] by defining a name (e.g., "Revenue average") and clicking "Save" <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+2.  Saved formulas appear under "Saved Formulas" <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+3.  If data in your source database changes, simply click "Refresh formula" next to the specific saved formula, or "Refresh all" to update all saved formulas <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. The values in your Notion summary database will update automatically <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
+
+## Conclusion
+
+This approach simplifies [[using_excelstyle_formulas_in_notion | Notion calculations]] by leveraging an external tool to create and manage custom formulas <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. It provides flexibility for calculating averages with various conditions and maintaining updated results without complex [[using_formulas_in_notion | Notion formulas]] <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a>. You can apply this method across multiple Notion databases and for different calculation types like sum or count <a class="yt-timestamp" data-t="00:14:47">[00:14:47]</a>.

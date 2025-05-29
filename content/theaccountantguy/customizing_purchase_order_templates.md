@@ -1,57 +1,60 @@
 ---
 title: Customizing purchase order templates
-videoId: 70hk3h7f_o8
+videoId: zlLWtZdPvLk
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-This article details how to [[customizing_pdf_templates_for_specific_needs | customize]] and generate [[generating_purchase_order_pdfs | purchase order PDFs]] using a Notion database and template through PDF output.com <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>.
+This article details how to customize and utilize a purchase order tracker template, particularly focusing on the Notion database and the PDF generation process via PDF output.com.
 
-## Accessing Predefined Templates
+## Purchase Order Tracker Database Customization
 
-To begin, log into PDF output.com <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. On the interface, navigate to the "templates" option in the sidebar <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. This section lists predefined templates for various documents, including invoices, payment receipts, and purchase orders <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. You can use the search icon to quickly find the "purchase order" template <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+The purchase order tracker template features a database designed to manage purchase order information <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. Key customizable fields include:
+*   Purchase order number <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>
+*   Order date and expected delivery date <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>
+*   Terms and conditions <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>
+*   Company name and address <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>
+*   Supplier name <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>
+*   Notes <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>
 
-## Understanding the Purchase Order Template and Database
+### Customizing Item Details and Calculations
 
-After downloading the desired template, a new page will open, featuring both a purchase order database and a template <a class="yt-timestamp" data-t="01:06:29">[01:06:29]</a>.
+The template includes specific columns for item descriptions, quantities, and unit prices <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+*   **Adding More Items**: To add more description, quantity, or unit price fields, simply duplicate existing columns <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. After duplicating, input the item description, quantity, and unit price <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+*   **Subtotal Calculation**: The subtotal automatically computes the sum of the unit price and quantity for all descriptions <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. If additional description/quantity columns are added, the subtotal formula must be updated to include the new values <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
+*   **Total Amount**: The total amount is calculated by including shipping costs and a percentage tax rate <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
 
-### Template Structure
-The purchase order template includes elements such as purchase order number, date, supplier, buyer, and item description <a class="yt-timestamp" data-t="01:29:06">[01:29:06]</a>. Key elements designed for replacement are enclosed within curly braces (e.g., `{purchase order number}`, `{supplier name}`, `{buyer name}`) <a class="yt-timestamp" data-t="01:35:05">[01:35:05]</a>. These are placeholder texts that will be populated from the database <a class="yt-timestamp" data-t="02:00:41">[02:00:41]</a>.
+### Purchase Order Summary Metrics
 
-### Database Role
-The accompanying [[database_setup_for_purchase_orders | database]] contains predefined fields for supplier name, buyer name, date, and purchase order number, with multiple rows of information <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>. The system will use these column values to replace the placeholder text in the template <a class="yt-timestamp" data-t="02:00:41">[02:00:41]</a>.
+The template provides an automated purchase order summary at the top of the database <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>:
+*   **Total Purchase**: This is the summation of all purchases recorded in the database <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+*   **Units Ordered**: Calculated from the quantity columns of all descriptions <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>. Ensure formulas are updated if more quantity columns are added <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
+*   **Average Order Value**: Computed by dividing the total purchases by the units ordered <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
 
-## Duplicating the Template to Notion
+### Client Summary
 
-To work with the template, you must first duplicate it to your Notion workspace <a class="yt-timestamp" data-t="02:24:00">[02:24:00]</a>. On the PDF generator page, look for the "Duplicate" option (or "Start with this template" if already published) <a class="yt-timestamp" data-t="02:24:00">[02:24:00]</a>. Select your Notion workspace to add the purchase order PDF generator page to it <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>.
+A client summary section displays total purchases, total quantities ordered, and average order value for each client <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
 
-## Connecting to PDF Output
+### General Customization Assistance
+For further customization of the template, users can reach out to notionformyuse@gmail.com for assistance <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
 
-After duplicating the template to Notion, return to PDF output.com <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>.
+## Generating and Customizing Purchase Order PDFs
 
-1.  **Settings**: Go to "Settings" in the sidebar <a class="yt-timestamp" data-t="03:10:97">[03:10:97]</a>. Here, you can select the desired page format for your PDF <a class="yt-timestamp" data-t="03:17:00">[03:17:00]</a>.
-2.  **Add Templates**: Click "click here to add templates" <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>.
-3.  **Select Workspace and Page**: Choose your Notion workspace (the same one where you duplicated the template) <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>. Then, select the "Purchase order PDF generator" page from the list of templates and allow access <a class="yt-timestamp" data-t="03:48:00">[03:48:00]</a>. This connects the Notion page with PDF output.com <a class="yt-timestamp" data-t="03:56:00">[03:56:00]</a>.
-4.  **Connect Database and Template**: Once authenticated, refresh the PDF output page <a class="yt-timestamp" data-t="05:03:00">[05:03:00]</a>. Select the "purchase order database" from the drop-down menu and then select the "template page" <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>. Assign a name to the connection, such as "purchase order" <a class="yt-timestamp" data-t="05:29:00">[05:29:00]</a>.
+PDF documents for purchase orders can be generated using PDF output.com <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>.
 
-### Customization Rules for Templates
-Both the template and the database are entirely [[customizing_pdf_templates_for_specific_needs | customizable]] <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>. You can add, delete, or modify any values in the template <a class="yt-timestamp" data-t="04:30:00">[04:30:00]</a>. However, it is crucial to ensure that all values intended for replacement are enclosed within curly braces `{}` <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a>. Furthermore, the name of the database property must exactly match the name inside the curly braces in the template, without any extra commas or spaces, to ensure proper linking <a class="yt-timestamp" data-t="04:45:00">[04:45:00]</a>.
+### Template and Currency Selection
+*   **Template Selection**: Upon logging in to PDF output.com, users can select the "purchase AO template" from a dropdown menu <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+*   **Currency Selection**: The desired currency for the PDF can be chosen from the interface <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. If a currency is not available, it can be requested through a dedicated window <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>. The currency can be changed instantly, updating the displayed values <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
 
-### Mapping Properties
-After connecting, the system attempts to automatically match the database properties (Notion properties) with the template elements <a class="yt-timestamp" data-t="05:38:00">[05:38:00]</a>. If any properties remain unmapped (e.g., due to a mismatch in spacing like "total amount" vs. "total amount "), you can manually filter for unmapped properties and select the correct match <a class="yt-timestamp" data-t="05:46:00">[05:46:00]</a>. The left side shows database properties, and the right side shows template elements <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a>.
+### Requesting New Templates
+Users can request specific templates if they are not available in the dropdown list <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
 
-## Exporting and Generating PDFs
+### PDF Generation Modes
+*   **Single PDF Mode**: This mode allows generating PDF documents one by one <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. Once all information is filled, clicking "download PDF" generates the document <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
+*   **Bulk Export Mode**: For exporting multiple documents simultaneously, the bulk export mode can be used <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>. Users fill in all details, add multiple rows as needed, and can then download individual documents or all documents at once by clicking "download all PDF" <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
 
-Once all properties are mapped, click "Export" <a class="yt-timestamp" data-t="06:53:00">[06:53:00]</a>. During export, a "PDF status" column will be automatically added to your database <a class="yt-timestamp" data-t="06:57:00">[06:57:00]</a>. A ticked checkbox in this column indicates that the PDF document has been generated <a class="yt-timestamp" data-t="07:07:00">[07:07:00]</a>. To regenerate a page, ensure this checkbox is unticked <a class="yt-timestamp" data-t="07:12:00">[07:12:00]</a>.
+### Future Notion Integration
+Future updates plan to include a Notion database integration, allowing direct export of PDFs by reading information from a Notion database <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. [[Generating purchase order PDFs using Notion | This integration will streamline the process of creating purchase order PDFs directly from Notion data]] <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>.
 
-You can preview a sample of the generated PDF <a class="yt-timestamp" data-t="07:23:00">[07:23:00]</a>. The generated documents will accurately reflect the data from the database, matching elements like purchase order numbers, supplier names, and buyer names <a class="yt-timestamp" data-t="07:27:00">[07:27:00]</a>. All generated documents can then be downloaded <a class="yt-timestamp" data-t="07:56:00">[07:56:00]</a>.
-
-## Additional Features and Support
-
-*   **Connections**: Once a PDF document is generated, a connection is created and stored <a class="yt-timestamp" data-t="08:35:00">[08:35:00]</a>. This allows you to regenerate documents directly by clicking the connection, without needing to re-fill database and page information <a class="yt-timestamp" data-t="08:41:00">[08:41:00]</a>.
-*   **Templates**: Access other predefined templates like [[customizing_sales_receipt_templates | sales receipt templates]], [[customizing_invoice_templates_with_placeholders | invoice templates]], or [[customizing_budget_templates | budget templates]] <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>.
-*   **Upgrade**: Documents generated on the free plan will have a watermark, which is removed on paid plans <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>.
-*   **Settings**: Besides page format, this is where you add templates duplicated to your workspace <a class="yt-timestamp" data-t="09:18:00">[09:18:00]</a>.
-*   **Feedback/Help**: If you encounter issues, use the feedback option <a class="yt-timestamp" data-t="09:28:00">[09:28:00]</a>. A complete setup demonstration video is available under the help section for troubleshooting <a class="yt-timestamp" data-t="09:39:00">[09:39:00]</a>.
-
-For specific PDF document use cases or further assistance, you can reach out to notionformyuse@gmail <a class="yt-timestamp" data-t="09:54:00">[09:54:00]</a>.
+### Feedback
+Users can provide feedback via the feedback window on PDF output.com to help improve the product <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.

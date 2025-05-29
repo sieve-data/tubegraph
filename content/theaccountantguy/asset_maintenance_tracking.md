@@ -1,37 +1,39 @@
 ---
-title: Asset maintenance tracking
+title: Asset Maintenance Tracking
 videoId: TgCfh3qLL_Q
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-The asset planner template provides a comprehensive system for managing assets, covering operational aspects, regulatory compliance, documentation, and user reviews <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+An asset planner template is designed to provide a comprehensive overview and management solution for various aspects of assets, including their maintenance <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
 
-## Key Sections of the Asset Planner
+## Key Sections for Asset Management
 
-### Operational Management
-This section integrates various details essential for day-to-day asset operations <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+The template incorporates several sections to facilitate thorough asset management:
 
-*   **Asset Details**
-    Users can record specific information for each asset, including its Asset ID, Asset Name, and Asset Type <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. These details are categorized for clarity <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+### [[operational_management_for_assets | Operational Management]]
+This overarching section provides a view of an asset's key attributes, including its details, maintenance information, financial specifics, and performance data <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
 
-*   **Maintenance Details**
-    This component focuses on tracking maintenance activities, covering Maintenance ID, Asset ID, and other related maintenance specifics <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
+### Asset Details
+Under the [[operational_management_for_assets | Operational Management]] section, detailed asset information can be recorded. This includes the asset's ID, name, type, and other relevant categorizations <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
 
-*   **Financial Details**
-    The template allows for [[financial_management_of_assets | financial management of assets]] by tracking current asset value, depreciation methods, and depreciation rates <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+### Maintenance Section
+A dedicated maintenance section within the asset planner is crucial for tracking service and upkeep activities. It covers details such as the maintenance ID, the associated asset ID, and all other pertinent information related to asset maintenance <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
 
-*   **Performance**
-    Asset performance can be monitored as assets are created and utilized <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+### [[financial_management_of_assets | Financial Management]]
+The template also includes a financial section that displays the asset's current value, the depreciation method applied, and its depreciation rate <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+
+### [[asset_performance_evaluation | Asset Performance]]
+To assess asset effectiveness, a performance section tracks the asset's performance from its creation onwards <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
 
 ### Regulatory Management
-This section is dedicated to compliance, managing all information related to regulatory requirements for assets <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
+This section focuses on compliance, ensuring all regulatory requirements related to the asset are met <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
 
 ### Documentation
-Users can upload and store all relevant documents pertaining to their assets in this section <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+Users can add all relevant documents pertaining to the asset in this dedicated section <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
 
 ### Reviews
-This feature allows individuals to submit their reviews about the assets being used <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+The template allows for the submission of reviews by users regarding the assets in use <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
 
 ## Customization
-The asset planner template is fully customizable to suit specific user requirements <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. For customization needs, users can contact notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+The entire asset planner template is fully customizable, allowing users to tailor it to their specific requirements <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. For customization assistance, users can reach out via email <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.

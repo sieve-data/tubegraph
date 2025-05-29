@@ -4,59 +4,79 @@ videoId: V3PBconN8sE
 ---
 
 From: [[theaccountantguy]] <br/> 
-This article describes how a Notion template can be utilized for [[inventory_tracking_using_notion | inventory tracking]] for a small business, focusing on managing inventory status and [[adding_and_managing_transactions | transactions]].
 
-## Inventory Portfolio <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>
+This article describes a template designed to help small businesses [[monitoring_inventory_transactions | track inventory]]. The template is presented by Sanat Biswal, "the accountant guy" <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
 
-The template is organized with an "Inventory Portfolio" section at the top, featuring three distinct views:
-1.  Inventory Setup <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>
-2.  Inventory Portfolio (main view) <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>
-3.  Inventory Status <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>
+## Inventory Portfolio Overview
 
-### Inventory Setup <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>
+The template's inventory portfolio consists of three main views <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>:
+*   Inventory Setup <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>
+*   Inventory Portfolio <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>
+*   Inventory Status <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>
 
-This section classifies inventory into three types: Raw Materials, Work in Progress, and Finished Goods <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. For each added inventory item, the following details can be set:
-*   **Opening Balance**: The starting monetary value of the inventory at the beginning of the financial year <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
-*   **Opening Number of Units**: The initial quantity of units <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
-*   **Valuation Principle**: Options include FIFO, LIFO, or WSC, though this can be left as is without affecting other reporting <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
-*   **Reorder Level**: A specified unit level at which the inventory should be reordered <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. For example, wheat might have a reorder level of 60 units, and corn 10 units <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
-*   **Percentage**: Shows the proportion of a particular inventory item relative to the total inventory <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+### Inventory Setup
 
-New inventory items can be quickly added using an "add inventory" button, initially appearing in a "no classification" window <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. Users can then drag and drop the item into the desired category (e.g., Work in Progress) and fill in its values <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+The Inventory Setup section allows for classifying inventory into three categories <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>:
+*   Raw Materials <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>
+*   Work in Progress <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>
+*   Finished Goods <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>
 
-### Inventory Portfolio View <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>
+For each added inventory item, the following details are tracked <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>:
+*   **Opening Balance**: The starting balance of the inventory at the beginning of the financial year <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+*   **Opening Number of Units**: The initial quantity of units <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+*   **Evaluation Principle**: Options like FIFO (First-In, First-Out), LIFO (Last-In, First-Out), or WSC (Weighted Average Cost) are available, though they can be left as default without affecting reporting <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+*   **Reorder Level**: The unit level at which new orders should be placed for the inventory item <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. For example, a reorder level of 60 units for wheat and 10 units for corn was demonstrated <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+*   **Percentage**: Indicates the proportion of a particular inventory item relative to the total inventory <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
 
-This view displays the current state of the inventory:
-*   **Inventory Value**: The value of the inventory at the end of the transaction period <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
-*   **Number of Units Available**: The total units remaining after all purchases and sales are processed <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
-*   **Reorder Status Level**: Indicates whether an item needs reordering based on the set reorder level <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. If units drop below the reorder level (e.g., wheat at 30 units when the reorder level is 60), it displays a "low stock" message prompting a reorder <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. Conversely, if units are well above the reorder level (e.g., corn at 70 units with a 10-unit reorder level), it indicates "item available in surplus" <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+New inventory items can be added by clicking the "add inventor" button, which places them in a "no classification" window <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. From there, they can be dragged and dropped into their specific category (e.g., Work in Progress) <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
 
-### Inventory Status <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>
+### Inventory Portfolio View
 
-This section tracks the current location or stage of inventory, categorizing it by statuses like "in transit," "in progress," or "not sent" <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>. Users can customize these statuses <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>. For instance, if one purchase is "in transit," this section will reflect it <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. Items can be easily moved between statuses by dragging and dropping <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
+This section provides an overview of the current [[monitoring_inventory_transactions | inventory]] status <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>:
+*   **Inventory Value**: The total value of inventory at the end of the transaction period <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
+*   **Number of Units Available**: The quantity of units remaining after all purchases and sales <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+*   **Reorder Status Level**: This status indicates whether an item needs reordering based on the reorder level set in the Inventory Setup <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
+    *   If units drop below the reorder level (e.g., wheat at 30 units when the reorder level is 60), a "low stock" message appears, prompting reorder <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
+    *   If units are above the reorder level (e.g., corn at 70 units when the reorder level is 10), a "Surplus" message appears, indicating no reorder is currently needed <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
 
-## Transaction Section <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>
+This view provides a quick glance at [[monitoring_inventory_transactions | inventory]] levels across categories <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
 
-This part of the template is dedicated to [[tracking_transactions_and_invoice_statuses | tracking transactions]] related to inventory, including purchases, sales, and calculating profit/loss.
+### Inventory Status View
 
-### Purchases <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>
+This section tracks the current physical status of inventory <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>. Predefined statuses include <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>:
+*   In Transit <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>
+*   In Progress <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>
+*   Not Sent <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>
+Users can also edit or add new statuses as needed <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
 
-Purchase [[tracking_purchases_and_consumption | transactions]] are organized by month, with the latest month appearing at the top <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. For each purchase, users can input:
-*   **Date**: Transactions auto-populate and bifurcate into different months <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>.
-*   **Description**: A field for details about the purchase <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
-*   **Account**: Selection of the specific inventory item (e.g., wheat, corn, bread) <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
-*   **Number of Units**: Quantity purchased <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>.
+The view shows how many [[monitoring_inventory_transactions | inventory transactions]] are currently in each status (e.g., one item "in transit" or "not sent") <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>. Transactions can be moved between statuses by clicking on the three dots icon <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
+
+## Transaction Section
+
+The transaction section manages the financial aspects of [[monitoring_inventory_transactions | inventory]] <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>:
+*   Purchases <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>
+*   Sales <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>
+*   Profit and Loss <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>
+
+### Purchases
+
+Purchase [[monitoring_inventory_transactions | transactions]] are organized by date, with the latest month appearing at the top <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>.
+Key fields for purchases include <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>:
+*   **Date**: Transactions are automatically bifurcated into different months <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
+*   **Description**: A field to add details about the purchase <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+*   **Account**: Selection of the inventory item being purchased (e.g., wheat, corn, bread) <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
+*   **Number of Units**: The quantity of units purchased <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>.
 *   **Purchase Price**: The cost per unit <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
-*   **Inventory Status**: Assign the current status of the purchased item <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. This can also be edited <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>.
+*   **Inventory Status**: The current status of the purchase transaction, which can be assigned from the available options <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>.
 
-A "buy inventory" quick action button automatically adds a new purchase entry with the current date <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+A "buy inventory" quick action button can automatically add a new purchase entry for the current date <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
 
-### Sales <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>
+### Sales
 
-The sales section functions similarly to the purchases section, allowing users to record inventory sales <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>.
+The sales section functions similarly to the purchases section, allowing users to record and track sales of [[monitoring_inventory_transactions | inventory]] <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
 
-### Profit and Loss <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>
+### Profit and Loss
 
-For each sale, users must input the purchase price or manufacturing cost of the item sold <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. The template then automatically calculates the profit or loss per sale. For example, if bread was sold for $40 and its cost was $10, with 30 units sold, the profit would be ($40 - $10) * 30 units = $900 <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+For each sale, the profit and loss section requires inputting the purchase price or cost of manufacturing the item sold <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. The template then automatically calculates the profit or loss <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>. For example, a bread sale of $40 with a manufacturing cost of $10 would yield a $30 profit per unit, totaling $900 for 30 units sold <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>.
 
-This comprehensive approach allows for detailed [[inventory_tracking_using_notion | inventory tracking]], status assignment, and financial oversight within a single template <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+This template helps businesses effectively [[monitoring_inventory_transactions | track their inventory]], manage [[monitoring_inventory_transactions | transactions]], and ascertain the current status of their stock <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.

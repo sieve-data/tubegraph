@@ -5,52 +5,44 @@ videoId: Ty6QpLsE71I
 
 From: [[theaccountantguy]] <br/> 
 
-Setting up API keys in Notion is crucial for [[connecting_notion_databases_with_external_tools_using_API_keys | connecting Notion databases with external tools]], such as `myformulagen.com`, to perform advanced calculations like sum functions that go beyond Notion's in-built formulas <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a> <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. This process allows external tools to derive values from your Notion databases <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+Setting up API keys in Notion is crucial for integrating your Notion databases with external tools, allowing for advanced functionalities beyond Notion's native capabilities <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a> <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. This process enables tools to connect to your Notion workspace and interact with your data <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
 
-## Why Use API Keys?
+## Connecting to MyFormulaGen.com
 
-While Notion has [[creating_and_saving_formulas_in_notion | inbuilt formulas]] for many calculations <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, using external tools with API keys enables Excel-like functions, such as the sum function, for more complex data manipulation <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>. This method avoids the complexities of Notion's native relation and rollup features for data aggregation across databases <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a> <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+This guide uses `myformula.com` as an example of an external tool that integrates with Notion via API keys <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>.
 
-## [[configuring_api_keys_for_notion_integration | Configuring API keys for Notion integration]]
+### Step 1: Generate an API Key in Notion
 
-To connect Notion to an external tool like `myformulagen.com`, you first need to [[setting_up_accounts_in_notion | set up]] an API key <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>.
+To create a personal API key for your Notion workspace:
+1.  Navigate to `myformula.com` <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>.
+2.  Click on "Settings" within the `myformula.com` interface <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
+3.  Click "Get API Key" <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. This will open a new screen where you can create a personal API key <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
+4.  Click "New Integration" <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+5.  Provide a name for your integration (e.g., "sum formula key") <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>.
+6.  Select your Notion workspace (e.g., "the accountant guy workspace") <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+7.  Click "Save" <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. A new key will be created <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+8.  Go back to the "Integrations" section in Notion <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+9.  Click on the newly created key <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
+10. Locate the "internal integration secret" that appears <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+11. Click "Show" and then "Copy" to copy the entire API key <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a> <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
 
-### Steps to Create an API Key
+### Step 2: Input API Key into MyFormulaGen.com
 
-1.  **Access Settings:** Navigate to the settings within the external tool you are using (e.g., `myformulagen.com`) <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
-2.  **Get API Key:** Click on the "Get API key" option <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. This will open a new screen where you can create a personal API key <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
-3.  **Create New Integration:** Select "New integration" <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
-4.  **Name the Integration:** Give your new integration a descriptive name, such as "Sum Formula Key" <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>.
-5.  **Select Workspace:** Choose the Notion workspace you wish to connect <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
-6.  **Save:** Click "Save" to create the key <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
-7.  **Copy the Secret:**
-    *   Go to "Integrations" to see the newly created key <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
-    *   Click on the key to reveal the "Internal Integration Secret" <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
-    *   Click "Show" to display the full API key <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
-    *   Copy the entire API key <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
-8.  **Paste into Tool:** Paste the copied API key into the "Notion API key" field within your external tool's settings <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
-9.  **Save Tool Settings:** Click "Save settings" in the external tool to store the API key <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
+1.  Return to `myformula.com`.
+2.  Paste the copied API key into the "Notion API key" field <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a> <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+3.  Click "Save Settings" to store the API key within the tool <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a> <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
 
-## Connecting Notion Databases
+### Step 3: Connect Notion Page to the API Key
 
-Once the API key is [[utilizing_api_keys_to_connect_notion_to_pdf_generation_tools | set up in the external tool]], you need to connect your Notion databases to it.
+For the API key to access your databases, the Notion page containing them must be connected to the integration:
+1.  Ensure all relevant databases are located within a single Notion page (e.g., a "sales dashboard page") <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a> <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
+2.  On this Notion page, click the three dots (`...`) located in the top right corner <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a> <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
+3.  Select "Connections" from the dropdown menu <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
+4.  Search for the name you gave your API key (e.g., "sum") <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a> <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
+5.  Select the API key from the results and click "Confirm" <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a> <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
 
-### Granting Access to Pages/Databases
+This step connects the entire page, and by extension, all [[creating_databases_in_notion | databases]] and [[setting_up_a_database_in_notion | Notion databases]] within it, to the API key <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a> <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a> <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. This simplifies the process as you won't need to connect each database individually <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a> <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>.
 
-*   Ensure all relevant Notion databases are contained within a single parent page <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a> <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. This simplifies the connection process, as you only need to connect the parent page to the API key, rather than each database individually <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>.
-*   In Notion, hover over the parent page (e.g., "Sales Dashboard") and click the three dots (`...`) that appear <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
-*   Select "Connections" <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
-*   Search for and select the API key you previously created (e.g., "Sum Formula Key") <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
-*   Click "Confirm" <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+### Post-Setup
 
-This action connects the entire page, and all databases within it, to your API key, allowing the external tool to access them <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a> <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>.
-
-### Providing Database URLs to the External Tool
-
-To perform calculations on a specific database, you need to provide its URL to the external tool.
-
-*   In Notion, hover over the database you wish to use (e.g., "Sales Database") and click the six dots (`⋮⋮`) <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
-*   Click "Copy link" <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>.
-*   Paste this link into the designated "Database URL" field within your external tool <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. The tool should then recognize the Notion properties (columns) within that database <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>.
-
-This setup enables the external tool to process data from your Notion databases according to the formulas and conditions you define <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+Once the API key is set up and connected, you can start using it to fetch data from your [[creating_a_database_in_notion | Notion databases]] and perform calculations or other operations using the external tool <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a> <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>. For example, you can calculate the sum of values from a specific property in a Notion database <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a> <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>. This method offers an alternative to [[using_formulas_in_notion | Notion's inbuilt formulas]] and the relation/rollup features for deriving values <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a> <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a> <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.

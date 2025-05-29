@@ -4,5 +4,4 @@ videoId: zxPvIIOdLU4
 ---
 
 From: [[theaccountantguy]] <br/> 
-
-The provided transcript consists primarily of music <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a> and an exclamation <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>, offering no specific information regarding a dividend income tracker.
+I am sorry, but the provided transcript does not contain any information about "Dividend income tracker." Therefore, I cannot generate an article on this topic based on the given text.

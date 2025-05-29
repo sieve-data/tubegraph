@@ -5,103 +5,120 @@ videoId: 96mB_cSpyoI
 
 From: [[theaccountantguy]] <br/> 
 
-The [[notion_app | Notion]] Freelancers OS is a comprehensive dashboard designed to help freelancers manage their entire business, including finances and client relations <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. This setup allows users to [[tracking_income_and_expenses_with_a_notion_dashboard | track all their income and expense details]] <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
+Notion Books Freelancers OS is a specialized Notion dashboard designed to help freelancers manage their entire finances, including income and expense details, and to assist with client management <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. Upon downloading, users land on a central page that provides quick instructions on changing currency and a tutorial for using the finance setup <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
 
-## Initial Setup and Navigation
-
-Upon downloading the setup, users land on a main page that provides quick instructions, such as how to change the currency <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. A video demonstration is available for currency changes <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>, as well as a quick tutorial on how to use the finance setup <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
-
-The dashboard features two main navigation windows: "Finance" and "Client" <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Users can switch between these sections using the navigation bar <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+The dashboard features two primary navigation windows: **Finance** and **Client** <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Users can switch between these sections to manage different aspects of their freelance business <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
 
 ## Finance Section
 
-The "Finance" section is where freelancers can [[tracking_income_and_expenses_with_a_notion_dashboard | track all their income and expenses]] <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>. It's recommended to watch the dedicated tutorial video if unfamiliar with the finance system <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
-
-> [!NOTE]
-> All income transactions, especially those classified under "client," will reflect in the client portal <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. Users can add new income and classify it as "client" or create their own classifications <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+The finance section allows freelancers to track all their income and expense details <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
+*   **Income Tracking**: Any income related to a client can be added and classified as "client income" <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. Users can also create their own classifications <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>.
+*   **Data Flow**: All income transactions, once entered and classified under "client," automatically reflect in the client portal for easy tracking <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. This ensures that only client-related income is displayed in the client section <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
+*   **Tutorials**: A dedicated video tutorial is available within the dashboard to guide users on how to effectively use the finance system <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
 
 ## Client Section
 
-The "Client" section is a dashboard for client management <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. It's designed to manage client invoicing, details, projects, and services <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+The client section is a comprehensive portal for managing client relationships, projects, and services <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+
+### Key Components
+
+Under the client section, users will find four main areas at the outset:
+*   **Invoicing Details**: For managing all invoices <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
+*   **Client Details**: For tracking all client information <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
+*   **Project Details**: For overseeing ongoing and completed projects <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+*   **Services Section**: For detailing the services offered to clients <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
+
+### Tool Section
+
+Beneath the main client components, a "Tools" section provides additional functionalities:
+*   **Resources**: A repository for useful resources, categorized into checklists, guides, strategies, and tips <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>.
+*   **Contacts**: To manage all business contacts, including contact details, company names, and meeting schedules <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+*   **Goals**: A section to set and track personal or business-related goals, categorized by health, wealth, and relationships <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+*   **Calendar**: A meeting schedule to get a quick glance of all appointments for the month <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
 
 ### Workflow Details
 
-At the bottom of the client section, a "workflow" area displays all income categorized under "client" from the finance section <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. Users can filter this section by their own classifications if needed <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. This section allows users to link incomes to specific invoices, clients, projects, and services <a class="yt-timestamp" data-t="00:23:08">[00:23:08]</a>.
+The workflow section within the client portal specifically filters and displays all income classified as "client" from the finance section <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. This ensures that only client-related income is visible, excluding other types of income like salaries <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>.
 
-> [!NOTE]
-> Information fed into the "workflow" automatically updates other sections of the dashboard, such as total invoice amounts for clients <a class="yt-timestamp" data-t="00:25:06">[00:25:06]</a>. Payments received can be marked with a "Bank" payment mode, which updates banking calculations in the finance view <a class="yt-timestamp" data-t="00:27:36">[00:27:36]</a>.
+## Managing Client Details
 
-### Client Details
+The dashboard allows users to manage client details through a pipeline system <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>:
+*   **Client Pipeline**: Clients can be categorized into "Lead," "Negotiation," or "Client" stages <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+*   **Adding Clients**: New clients can be added directly into any category <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+*   **Invoice Amount**: The "Invoice Amount" for each client automatically reflects the total of all invoices raised against them, pulling information from the invoicing section <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+*   **Contract Value**: Users can manually input the contract value for each client <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. The system then automatically calculates the percentage of the contract value that has been invoiced <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
+*   **Client Properties**: Each client entry includes details such as company, contact, email, position, stage, and website <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. It also links to work-related details, showing associated invoices and their status <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
+*   **Flexibility**: Clients can be easily dragged and dropped between different pipeline categories (e.g., from 'Client' to 'Negotiating') <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>.
 
-The client details section categorizes clients into three pipelines: "Lead," "Negotiation," and "Client" <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>.
+## Managing Projects
 
-> [!EXAMPLE]
-> To add a new client, click the "New" button in the desired category <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. Users can then specify the client name, contract value, and other details like company, contact, email, position, stage, and website <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>.
+Projects track the specific work being done to fulfill a client's work order <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.
+*   **Priorities**: Projects are categorized by priority: low, medium, and high <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>.
+*   **Adding Projects**: New projects can be added by specifying the project name, value, and expected completion date range <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
+*   **Status Updates**: Project status can be updated (e.g., "not started," "in progress," "completed") <a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>.
+*   **Completion Percentage**: Project completion percentage can be calculated in two ways:
+    *   **Hourly Basis**: By specifying estimated hours and then tracking actual hours spent <a class="yt-timestamp" data-t="00:14:45">[00:14:45]</a>.
+    *   **Invoicing Basis**: By comparing the invoiced amount for the project against its total project value <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>.
+*   **Linking**: Each project displays the client it's for and the services provided under it <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>.
 
-*   **Invoice Amount**: This automatically reflects the total invoice amount raised against a client, pulled from the invoicing details <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
-*   **Contract Value**: Users manually input the total contract value for a client <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. The system automatically calculates the percentage of the contract value that has been invoiced <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
-*   **Flexibility**: Clients can be easily dragged and dropped between different pipeline categories (e.g., from "Client" to "Negotiating") <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>.
+## Managing Services
 
-### Project Details
+Services are the specific offerings provided under each project <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>.
+*   **Categories**: Services are categorized by their status: "not started," "in progress," or "completed" <a class="yt-timestamp" data-t="00:17:57">[00:17:57]</a>.
+*   **Adding Services**: Users can add new services, specifying the service name, pricing model (hourly or fixed flat rate fees), and the service rate <a class="yt-timestamp" data-t="00:18:17">[00:18:17]</a>.
+*   **Service Details**: Each service entry can include its expected duration, status, and in future iterations, assigned team members <a class="yt-timestamp" data-t="00:19:37">[00:19:37]</a>.
+*   **Interlinking**: Services are linked to specific clients and projects, displaying the income, client, project, and total service value <a class="yt-timestamp" data-t="00:20:13">[00:20:13]</a>.
 
-This section helps track all projects related to client contracts, categorized by priority: "Low," "Medium," and "High" <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>.
+## Managing Invoices
 
-> [!EXAMPLE]
-> To add a new project, click "New" under the desired priority <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>. Users specify the project name, project value, and a completion date (which can be a single date or a range) <a class="yt-timestamp" data-t="00:10:51">[00:10:51]</a>. The status of the project can also be updated <a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>.
+The invoicing section helps track the status of payments from clients <a class="yt-timestamp" data-t="00:21:14">[00:21:14]</a>. [[using_notion_for_invoice_generation | Using Notion for invoice generation]] is streamlined.
+*   **Statuses**: Invoices are categorized by "Draft," "Sent," and "Paid" statuses <a class="yt-timestamp" data-t="00:21:23">[00:21:23]</a>.
+*   **Invoice Amount Tracking**: The total invoice amount for each category is displayed <a class="yt-timestamp" data-t="00:21:33">[00:21:33]</a>. Users can also view the count of unique invoices in each category <a class="yt-timestamp" data-t="00:21:46">[00:21:46]</a>.
+*   **Adding Invoices**: New invoices can be added by specifying an invoice number and a due date <a class="yt-timestamp" data-t="00:22:15">[00:22:15]</a>.
+*   **Workflow Integration**: The invoice amount for a newly added invoice is automatically pulled from the income recorded in the workflow section at the bottom of the client dashboard <a class="yt-timestamp" data-t="00:22:58">[00:22:58]</a>.
+*   **Payment Mode**: Users can specify the payment mode (e.g., "Bank") once an invoice has been paid. Removing the payment mode for unpaid invoices ensures accurate banking calculations in the finance view <a class="yt-timestamp" data-t="00:27:10">[00:27:10]</a>.
 
-*   **Project Completion Calculation**:
-    *   **By Hours**: Users can specify estimated hours for a project and then book actual hours. The completion percentage is calculated based on actual hours divided by estimated hours <a class="yt-timestamp" data-t="00:14:45">[00:14:45]</a>.
-    *   **By Invoicing**: Alternatively, if hours are not specified, completion is calculated based on the total value of invoices assigned to the project compared to the total project value <a class="yt-timestamp" data-t="00:15:04">[00:15:04]</a>.
+## Workflow Integration
 
-### Services Section
+The workflow section at the bottom of the client dashboard is central to connecting all client-related data <a class="yt-timestamp" data-t="00:23:08">[00:23:08]</a>.
+*   **Centralized Income View**: It displays all client-assigned income carried over from the finance section <a class="yt-timestamp" data-t="00:23:18">[00:23:18]</a>.
+*   **Linking Data**: Users can link specific income entries to an invoice, client, project, and service <a class="yt-timestamp" data-t="00:23:37">[00:23:37]</a>.
+*   **Automated Updates**: As information is entered in the workflow, it automatically feeds into the respective client, project, service, and invoice sections, updating their totals and statuses <a class="yt-timestamp" data-t="00:25:06">[00:25:06]</a>.
+*   **Flexible Data Entry**: Information can be added from the top-level sections (clients, projects, services) and then linked in the workflow, or new entries (like invoices, clients, or projects) can be created directly from the workflow section and they will automatically populate the respective top-level sections <a class="yt-timestamp" data-t="00:25:38">[00:25:38]</a>.
 
-Services are categorized by their status: "Not Started," "In Progress," and "Completed" <a class="yt-timestamp" data-t="00:17:57">[00:17:57]</a>. Multiple services can be associated with a single project <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>.
-
-> [!EXAMPLE]
-> To add a service, click "New" under the relevant status <a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>. Users specify the service name, pricing (hourly or fixed fee), and the service rate <a class="yt-timestamp" data-t="00:18:21">[00:18:21]</a>. Additional details include service duration, status, and the client and project it's linked to <a class="yt-timestamp" data-t="00:19:37">[00:19:37]</a>.
-
-### Invoicing Section
-
-The invoicing section tracks the status of invoices: "Draft," "Sent," and "Paid" <a class="yt-timestamp" data-t="00:21:17">[00:21:17]</a>. It also displays the total invoice amount <a class="yt-timestamp" data-t="00:21:33">[00:21:33]</a>.
-
-> [!EXAMPLE]
-> To add a new invoice, click "New" under the desired status category <a class="yt-timestamp" data-t="00:22:07">[00:22:07]</a>. Input an invoice number and the due date <a class="yt-timestamp" data-t="00:22:15">[00:22:15]</a>. The invoice amount is automatically pulled from the "workflow" section once an income is assigned to it <a class="yt-timestamp" data-t="00:22:29">[00:22:29]</a>.
-
-> [!NOTE]
-> Invoices, clients, projects, and services can be created either by adding them directly in their respective sections or by creating them on the fly within the "workflow" section <a class="yt-timestamp" data-t="00:25:38">[00:25:38]</a>.
-
-## Tools Section
-
-The "Tools" section provides additional functionalities to manage various aspects of a freelancing business <a class="yt-timestamp" data-t="00:28:56">[00:28:56]</a>.
+## Tools Section Details
 
 ### Resources
 
-This view helps organize useful resources categorized into "Checklists," "Guides," "Strategies," or "Tips" <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>.
-
-> [!EXAMPLE]
-> Users can add new resources, assign them a category (e.g., Taxes, Budgeting, Investments, Savings), include a link, and add notes using various [[notion_app | Notion]] block types like to-do lists <a class="yt-timestamp" data-t="00:29:14">[00:29:14]</a>.
+The resource view curates highly useful resources categorized as:
+*   **Checklists**: For specific tasks, such as tax checklists <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>.
+*   **Guides**: Providing step-by-step instructions.
+*   **Strategies**: Outlining business approaches.
+*   **Tips**: Offering quick advice <a class="yt-timestamp" data-t="00:29:11">[00:29:11]</a>.
+*   **Customization**: Users can add new resources, assign categories (e.g., taxes, budgeting, investments, savings), include links, and add notes or checklists within each resource entry <a class="yt-timestamp" data-t="00:29:39">[00:29:39]</a>.
 
 ### Contacts
 
-The contact section allows users to maintain a catalog of contacts, categorized by their role (e.g., Finance, Services, Legal) <a class="yt-timestamp" data-t="00:31:32">[00:31:32]</a>.
-
-> [!EXAMPLE]
-> Users can add new contacts, specifying details like contact name, designation, phone number, address, email ID, and company name <a class="yt-timestamp" data-t="00:31:57">[00:31:57]</a>. Categories can be customized or new ones created <a class="yt-timestamp" data-t="00:32:31">[00:32:31]</a>.
+The contacts section helps manage various business contacts <a class="yt-timestamp" data-t="00:31:30">[00:31:30]</a>:
+*   **Categorization**: Contacts can be categorized by their role, such as Finance, Services, or Legal <a class="yt-timestamp" data-t="00:31:41">[00:31:41]</a>. Users can also create their own categories <a class="yt-timestamp" data-t="00:31:50">[00:31:50]</a>.
+*   **Contact Details**: Each contact entry includes name, designation, phone number, address, email ID, and company name <a class="yt-timestamp" data-t="00:31:57">[00:31:57]</a>.
+*   **Meeting Integration**: Future meeting dates can be linked to contacts <a class="yt-timestamp" data-t="00:32:13">[00:32:13]</a>.
 
 ### Goals
 
-This section allows users to set and track personal or business-related goals, classified under categories such as "Health," "Wealth," and "Relationship" <a class="yt-timestamp" data-t="00:33:09">[00:33:09]</a>.
-
-> [!EXAMPLE]
-> To add a goal, input the goal description, a target date, a target numerical value, and the progress achieved so far. The completion percentage is automatically calculated (e.g., 3 pounds lost out of a 10-pound target is 30% complete) <a class="yt-timestamp" data-t="00:33:23">[00:33:23]</a>.
+The goal section allows users to set and track personal and business objectives <a class="yt-timestamp" data-t="00:33:06">[00:33:06]</a>.
+*   **Categories**: Goals are classified into Health, Wealth, and Relationship <a class="yt-timestamp" data-t="00:33:16">[00:33:16]</a>.
+*   **Tracking**: Users can add goals, specify a target date, and track completion percentage by inputting a target number and the progress achieved so far <a class="yt-timestamp" data-t="00:33:30">[00:33:30]</a>. For example, a goal to "lose 10 pounds" can track progress by pounds lost <a class="yt-timestamp" data-t="00:33:53">[00:33:53]</a>.
 
 ### Calendar
 
-The calendar view provides a quick overview of all scheduled meetings for the month <a class="yt-timestamp" data-t="00:34:26">[00:34:26]</a>.
-
-> [!EXAMPLE]
-> To add a meeting, click the "+" button on the desired date <a class="yt-timestamp" data-t="00:34:44">[00:34:44]</a>. Users can input the meeting title, agenda, associate it with a client or contact, select a meeting medium (e.g., Google Meet, Skype), and attach reference documents <a class="yt-timestamp" data-t="00:34:52">[00:34:52]</a>. Meeting priority (low, medium, high) can also be assigned <a class="yt-timestamp" data-t="00:36:04">[00:36:04]</a>. The calendar view can be customized to show weekly or monthly schedules <a class="yt-timestamp" data-t="00:36:27">[00:36:27]</a>.
+The calendar view provides an overview of all scheduled meetings <a class="yt-timestamp" data-t="00:34:24">[00:34:24]</a>.
+*   **Meeting Scheduling**: Users can quickly add new meetings by clicking on a date, specifying the title, agenda, and selecting relevant clients or contacts <a class="yt-timestamp" data-t="00:34:45">[00:34:45]</a>.
+*   **Meeting Details**: Meetings can include a medium (e.g., Google Meet, Skype), attachments, and a priority level (low, medium, high) <a class="yt-timestamp" data-t="00:35:32">[00:35:32]</a>.
+*   **Views**: The calendar can be viewed in a monthly or weekly layout, allowing users to navigate between different periods <a class="yt-timestamp" data-t="00:36:27">[00:36:27]</a>.
 
 ## Conclusion
 
-The [[notion_app | Notion]] Freelancers OS is a comprehensive solution for [[using_notion_for_business_tracking | managing a freelancing business]] through integrated finance and client management setups <a class="yt-timestamp" data-t="00:37:44">[00:37:44]</a>. Future updates are planned to include features for inventory, suppliers, and vendors for a more comprehensive business management solution <a class="yt-timestamp" data-t="00:37:51">[00:37:51]</a>.
+The Notion Books Freelancers OS offers a comprehensive solution for managing both financial and client-related aspects of a freelance business <a class="yt-timestamp" data-t="00:37:44">[00:37:44]</a>. Its integrated workflow ensures that data entered in one section automatically updates relevant information in others, providing a holistic view <a class="yt-timestamp" data-t="00:37:22">[00:37:22]</a>. Future updates are planned to include features for inventory, suppliers, and vendors <a class="yt-timestamp" data-t="00:37:57">[00:37:57]</a>.
+
+For support or questions, users can reach out to notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:38:17">[00:38:17]</a>.

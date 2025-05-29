@@ -1,38 +1,36 @@
 ---
-title: Film production budget tracking
+title: Film Production Budget Tracking
 videoId: euXpe5t1v5I
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-A film production budget tracker is a tool designed to help keep track of all expenses related to film production <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>.
+A film production budget tracker is a template designed to help manage and [[tracking_expenses_against_a_budget | keep track of all expenses]] related to film production <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
 
-## Template Features
+## Template Overview
+The template features a table that lists individual expenses with their respective categories and amounts <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. This provides an [[overview_of_expenses_and_budget_tracking | overview of expenses and budget tracking]] for the project.
 
-### Expense Tracking
-The template includes a table that lists all expenses individually, along with their respective categories and the recorded expense amount <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. Users can enter expense amounts, and these updates are reflected across the tracker <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+### Expense Management
+*   **Expense Listing**: Each expense is detailed with its category and the amount <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+*   **Category Definition**: Users can define their own categories by clicking a pencil icon, and these updates are reflected throughout the template <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+*   **Budgeted Expense Input**: The budgeted expense value can be updated directly within the template <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+*   **Actual Expense Input**: Users can enter the actual expense amount, and these values are also updated automatically <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+*   **Real-time Updates**: Changes to budgeted or actual values are instantly updated across the template <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
 
-### [[expense_categorization_in_film_production | Expense Categorization]]
-Each expense is associated with a specific category <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Users have the flexibility to define their own categories, which updates throughout the system <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+### Category Administration
+The template allows for comprehensive management of expense categories:
+*   **Adding New Categories**: A "new page" option is available to add additional categories <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+*   **Editing Categories**: Existing categories can be edited by clicking a pencil icon <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
+*   **Deleting Categories**: Categories can be removed using a three-dot menu followed by a delete option <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
 
-### [[budget_vs_actual_expense_tracking | Budget vs Actual Tracking]]
-The template provides a summary section that details:
-*   The budgeted expense amount <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
-*   The actual expenses incurred <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
+### Summary Section
+A dedicated summary section provides a concise [[budget_versus_actual_expense_tracking | budget versus actual expense tracking]] analysis <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. This section includes:
+*   The total budgeted expense amount <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+*   The total actual expenses incurred <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
 *   The difference between the budgeted and actual figures <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
-*   The percentage of expenses relative to the budgeted amount <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+*   The percentage of expenses relative to the budgeted amount <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
 
-This summary offers an overview of total expenses and how they compare to the current budget status <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. This feature supports [[budget_summary_and_tracking | budget summary and tracking]] and [[tracking_expenses_against_budget | tracking expenses against budget]].
+This summary provides an immediate snapshot of the project's financial status <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
 
-## Template Customization and Management
-The film production budget tracker is completely customizable to meet specific requirements <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. Key management features include:
-*   **Defining Categories:** Users can define their own expense categories <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
-*   **Updating Budgeted Values:** Budgeted expense values can be updated directly within the template <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
-*   **Adding New Categories:** New categories can be added using a "new page" option <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
-*   **Editing Categories:** Existing categories can be edited via a pencil icon <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
-*   **Deleting Categories:** Categories can be deleted through a three-dot menu option <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
-
-This flexibility allows for [[monthly_budget_management_and_updates | monthly budget management and updates]] and adaptation to project-specific needs.
-
-> [!NOTE]
-> For further customization or assistance with the existing template, support is available via email at notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+## Customization and Support
+The film production budget tracker template is fully customizable to meet specific requirements <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. For further customization or assistance with the existing template, users can contact notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.

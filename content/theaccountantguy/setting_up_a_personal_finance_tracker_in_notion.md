@@ -4,190 +4,189 @@ videoId: SgiXziu5n3g
 ---
 
 From: [[theaccountantguy]] <br/> 
+The Notion personal finance tracker is designed to help users track various aspects of their finances, including net worth, income, expenses, debts, budgets, savings, bills, and subscriptions <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. It is structured into three main sections: Net Worth Target, Account Section, and Summary Section, along with a Transaction Section for data entry <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
 
-This article details how to [[tracking_personal_finances_in_notion | track personal finances using a Notion setup]]. The tracker is organized into several key sections, offering a comprehensive overview of financial activity <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
+## Core Sections of the Tracker
 
-## Overview of the Tracker Sections
-The personal finance tracker includes three main sections for a quick overview <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>:
-1.  **Net Worth Target**: Allows users to specify their target net worth for the financial year <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
-2.  **Account Section**: Where different accounts for income, expenses, assets, and liabilities are specified, along with opening balances, payment frequency, and category <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
-3.  **Summary Section**: Provides a glance at the entire financial situation <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+The tracker is organized into several key areas:
+*   **Net Worth Target** Allows setting a financial year-end net worth goal <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+*   **Account Section** Where different accounts for income, expenses, assets, and liabilities are specified, including opening balances, payment frequency, and category <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+*   **Summary Section** Provides an overview of finances at a glance, including detailed views for finances, debt, budget, savings, bills, subscriptions, and net worth <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+*   **Transaction Section** The primary area for feeding all income, expense, asset, or liability transactions that affect the overall tracking <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
 
-Additional dedicated sections within the tracker include:
-*   **Debt Section**: Displays upcoming and past debt payments <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
-*   **Budget Section**: For setting estimated income and expenses <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
-*   **[[creating_a_savings_funds_tracker_in_notion | Savings Section]]**: To track personal savings <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
-*   **Bill Section**: Shows upcoming and past bill payments <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
-*   **Subscription Section**: Tracks subscriptions, their status, and payment dates <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
-*   **[[building_a_net_worth_tracker_using_notion | Net Worth Section]]**: Offers an overall view of achieved net worth against the target <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
-*   **Transaction Section**: Where all income, expense, asset, or liability transactions are fed <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
+## [[tracking_income_and_expenses_using_notion | Tracking Income and Expenses]]
 
-## Setting Up Accounts for Income and Expenses
+To track income and expenses, begin by navigating to the "Account section" under the "Get Started view" <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
 
-To begin [[tracking_personal_finances_in_notion | tracking income and expenses]], navigate to the **Account section** under the "Get Started" view <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
-*   Here, you'll find pre-listed income (e.g., Salary, Side Hustle) and expenses (e.g., Groceries, Utility Bills, Netflix) <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
-*   **Adding/Modifying Accounts**:
-    *   Click the "Edit" button next to an existing account to modify it <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
-    *   Click the "New" button to add a new income or expense account <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
-*   **Classifying Expenses**: When setting up an expense, you can classify it based on your requirements, such as "Bills" or "Subscriptions" <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
-*   **Setting Payment Frequency**: Define how frequently an expense is expected to be paid (e.g., monthly, annually) <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
-*   **Opening Balance**: Income and expense accounts typically do not have an opening balance; this field can be ignored for them <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
-*   **Account Properties**: When creating a new account, you can specify its name, opening balance (if applicable), classification, and payment frequency <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
+### Setting Up Accounts
+Here, you can find existing income accounts (e.g., Salary, Side Hustle) and expense accounts (e.g., Groceries, Utility Bills, Netflix) <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+*   **Adding/Modifying Accounts:** Click the "edit" button to modify an existing account or the "new" button to add a new income or expense account <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+*   **Classification:** For expenses, you can classify them (e.g., "Bills" for groceries, "Subscriptions" for Netflix) <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
+*   **Payment Frequency:** Set how frequently an expense is expected to be paid (e.g., monthly for utility bills, annually for subscriptions) <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+*   **Opening Balance:** Income and expense accounts typically do not have an opening balance <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
 
-## Recording Transactions
+### Entering Transactions
+After setting up accounts, head to the "Transactions view" <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
+*   **Views:** The "Transactions view" has an "All view" for all types of transactions (assets, liabilities, income, expenses) and specific category views <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>.
+*   **Adding an Income Transaction:**
+    1.  Navigate to the "Income section" <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
+    2.  Click "new" <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>.
+    3.  Select the date (transactions are sorted by month, with later months on top) <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
+    4.  Add a description (e.g., "Salary income") <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+    5.  The category will automatically be "Income" <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+    6.  Select the specific account (e.g., Salary account) <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
+    7.  Choose the payment mode (e.g., bank, cash) <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+    8.  Set the transaction type to "Inflow" as money is coming in <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.
+    9.  Specify the amount <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>.
+*   **Adding an Expense Transaction:** Follow the same steps as income, but set the transaction type as "Outflow" because money is leaving your account <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
 
-After setting up accounts, head to the **Transactions** view to input financial activities <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
-*   The "Transactions" view has five sub-views: "All," "Income," "Expenses," "Assets," and "Liabilities" <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>. The "All" view shows all transaction types <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>.
-*   **Adding an Income Transaction**:
-    1.  Navigate to the "Income" section <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
-    2.  Click "New" <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>.
-    3.  Select the **Date** (transactions are bifurcated by month and listed in descending order) <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
-    4.  Add a **Description** <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>.
-    5.  The **Category** will automatically be "Income" <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
-    6.  Select the relevant **Account** (e.g., Salary) <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
-    7.  Choose the **Payment Mode** (e.g., Bank, Cash) <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
-    8.  Set the **Transaction Type** to "Inflow" for income <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
-    9.  Specify the **Amount** <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>.
-*   **Adding an Expense Transaction**: Follow the same steps as income, but specify the transaction type as "Outflow" since money is leaving the account <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>.
+### Tracking in Summary View
+Once transactions are entered, track them under the "Summary view," specifically the "Finances view" <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
+*   This view classifies accounts under income, expenses, assets, and liabilities, showing the total amount and contribution percentage of each <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
+*   Changes in transaction figures are quickly updated in this summary <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>.
 
-## Tracking Finances in the Summary View
+## [[using_notion_for_debt_tracking | Tracking Debt Payments]]
 
-The **Summary** view, specifically the "Finances" sub-view, tracks income and expenses <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
-*   It displays total income and expenses, along with the percentage contribution of each account (e.g., Salary, Side Hustle for income; Groceries, Utility Bills for expenses) <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
-*   Any changes in transaction figures instantly update the totals and percentages in this view <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>.
+To track debt, first go to the "Account section" under the "Get Started View" <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
 
-## Setting Up and Tracking Debt Payments
+### Setting Up Debt Accounts
+*   Navigate to the "Liabilities part" <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>.
+*   Click "new" to add a new debt, specifying the name and any opening balance <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
+*   **Classification:** Select "debt" from the classifications <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>.
+*   **Payment Frequency:** Set the payment frequency (e.g., monthly) <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>.
+*   Existing debts can be edited by clicking the pencil icon <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
 
-To track debt, go to the **Account section** and navigate to the **Liabilities** part <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>.
-*   **Adding New Debt**:
-    *   Click "New" to add a new debt (e.g., Home Loan, Car Loan, Credit Card) <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
-    *   Specify the name and any opening balance for the debt <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
-    *   Classify it under "Debt" <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>.
-    *   Set the payment frequency (e.g., monthly) <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>.
-*   **Recording Debt Transactions**:
-    *   Go to the "Liabilities" section under "Transactions" <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>.
-    *   Click "New" <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.
-    *   Select the date, account (e.g., Home Loan), payment mode, and amount <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>.
-    *   For loan **repayments**, the transaction type is "Outflow" <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>.
-    *   For **obtaining a new loan**, the transaction type is "Inflow" <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
-*   **Tracking Debt in Summary**: The "Debt" view under the **Summary** section provides two sub-views: "Upcoming Payments" and "Past Payments" <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>.
-    *   **Upcoming Payments**: Shows debts due in the future relative to the current date <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>.
-    *   **Past Payments**: Reflects payments made in the past or missed payments for recurring debts <a class="yt-timestamp" data-t="00:13:53">[00:13:53]</a>.
-    *   It displays the total loan amount, repayment percentage, and the amount yet to be paid <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>.
-*   **Customizing Debt View**: You can change the layout (e.g., List, Gallery) and enable/disable properties to customize how the debt information is displayed <a class="yt-timestamp" data-t="00:15:30">[00:15:30]</a>.
+### Entering Debt Transactions
+Head to the "Liability section" under "Transactions" <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>.
+*   Click "new" to enter a debt payment <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.
+*   Select the date, account (e.g., Home Loan), payment mode (e.g., Bank) <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.
+*   **Transaction Type:** For repayments, select "Outflow" as money is going out. If obtaining a new loan, select "Inflow" <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>.
+*   Specify the payment amount <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>. This updates the total loan amount <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>.
 
-## Budgeting
+### Tracking in Summary View
+Under the "Summary section," use the "Debt view" <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>.
+*   **Upcoming Payments:** Shows payments due in the future relative to the current date <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>.
+*   **Past Payments:** Shows payments that were due in the past and might have been missed or are awaiting the next payment cycle <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>.
+*   Each debt entry displays the next payment due date, total loan amount, total repayment percentage, and amount paid so far <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>.
+*   **Customization:** The view can be changed to a list, gallery, or board format via the "Layout" option <a class="yt-timestamp" data-t="00:15:30">[00:15:30]</a>.
 
-To track budgeting, first ensure all income and expense transactions are recorded <a class="yt-timestamp" data-t="00:17:01">[00:17:01]</a>.
-*   Go to the **Summary** view and click on **Budget** <a class="yt-timestamp" data-t="00:17:14">[00:17:14]</a>.
-*   This section outlines all expenses and income, showing the total amount incurred and its percentage against the total budgeted amount <a class="yt-timestamp" data-t="00:17:19">[00:17:19]</a>.
-*   You can change the budget amount for any item, and it will automatically update the percentages <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>.
-*   For income, it shows the estimated budget versus the amount earned <a class="yt-timestamp" data-t="00:17:56">[00:17:56]</a>.
+## [[budgeting_and_tracking_in_notion | Budgeting and Tracking]]
 
-## Setting Up and Tracking Savings Funds
+Budgeting in this tracker relies on the income and expense transactions entered <a class="yt-timestamp" data-t="00:17:07">[00:17:07]</a>.
 
-To set up specific funds for [[creating_a_savings_funds_tracker_in_notion | savings]], navigate to the **Account section** and go to the **Asset** part <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>.
-*   Any savings you do form part of your assets <a class="yt-timestamp" data-t="00:19:12">[00:19:12]</a>.
-*   **Adding a New Savings Fund**:
-    *   Click "New" (e.g., "Car Fund") <a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>.
-    *   Classify it under the "Savings" category <a class="yt-timestamp" data-t="00:19:42">[00:19:42]</a>.
-    *   Specify a **Goal Amount** for each fund (e.g., $1200 for a Car Fund) <a class="yt-timestamp" data-t="00:20:15">[00:20:15]</a>.
-*   **Recording Savings Transactions**:
-    *   Go to the "Asset" section under "Transactions" <a class="yt-timestamp" data-t="00:23:05">[00:23:05]</a>.
-    *   Click "New" <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>.
-    *   Specify the account (e.g., "Car Fund"), payment mode (e.g., Bank), and amount <a class="yt-timestamp" data-t="00:23:28">[00:23:28]</a>.
-    *   The transaction type for saving money into a fund is "Outflow" from your main account to the savings account <a class="yt-timestamp" data-t="00:23:42">[00:23:42]</a>.
-*   The system will automatically update the total saved amount and the percentage achieved towards your goal <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>.
+### Setting Up Budget
+*   After entering transactions, go to the "Summary View" and click on "Budget" <a class="yt-timestamp" data-t="00:17:14">[00:17:14]</a>.
+*   This view outlines all expenses and income. It shows the total incurred expenses and their percentage against the total budgeted amount <a class="yt-timestamp" data-t="00:17:19">[00:17:19]</a>.
+*   To change a budget amount, click on it and enter a new value, which will automatically update the percentages <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>.
+*   Similarly, estimated income can be set and tracked against actual earned income <a class="yt-timestamp" data-t="00:17:56">[00:17:56]</a>.
+*   If the budgeted amount field is not visible, it might be hidden. Click on the property and search for "budgeted amount" to enable it <a class="yt-timestamp" data-t="00:18:20">[00:18:20]</a>.
 
-## Setting Up and Tracking Bills
+## [[setting_up_notion_for_personal_finance_tracking | Setting Up Specific Funds for Savings]]
 
-To manage bills, first set them up under the **Account section** within **Expenses** <a class="yt-timestamp" data-t="00:25:04">[00:25:04]</a>.
-*   **Adding a New Bill Expense**:
-    *   Add a new expense account (e.g., "Wi-Fi Bills") <a class="yt-timestamp" data-t="00:25:25">[00:25:25]</a>.
-    *   Classify it under "Bills" <a class="yt-timestamp" data-t="00:25:32">[00:25:32]</a>.
-    *   Set the payment frequency (e.g., monthly) <a class="yt-timestamp" data-t="00:25:36">[00:25:36]</a>.
-*   **Recording Bill Payments**:
-    *   Navigate to the "Expense" part under "Transactions" <a class="yt-timestamp" data-t="00:25:58">[00:25:58]</a>.
-    *   Enter the date, description, account (e.g., Wi-Fi Bills), payment mode, and amount <a class="yt-timestamp" data-t="00:26:08">[00:26:08]</a>.
-    *   The transaction type will be "Outflow" <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a>.
-*   **Tracking Bills in Summary**: The "Bills" view under the **Summary** section shows "Upcoming Payment" and "Past Payment" statuses <a class="yt-timestamp" data-t="00:26:24">[00:26:24]</a>.
-    *   **Upcoming Payments**: Bills due after the current date <a class="yt-timestamp" data-t="00:26:40">[00:26:40]</a>.
-    *   **Past Payments**: Bills that were due in the past and may have been missed <a class="yt-timestamp" data-t="00:27:17">[00:27:17]</a>.
+To set up savings funds, first navigate to the "Account section" under the "Get Started view" <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>.
 
-## Setting Up and Tracking Subscriptions
+### Setting Up Accounts
+*   Go to the "Asset part" as savings are considered assets <a class="yt-timestamp" data-t="00:19:12">[00:19:12]</a>.
+*   Create a new account (e.g., "Car Fund") <a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>.
+*   **Classification:** Classify the account as "Savings" <a class="yt-timestamp" data-t="00:19:42">[00:19:42]</a>.
+*   **Goal Amount:** Click on the account to edit its properties and specify a "goal amount" for the savings (e.g., $1200 for a car fund) <a class="yt-timestamp" data-t="00:20:33">[00:20:33]</a>. This will reflect the progress towards the goal as a percentage <a class="yt-timestamp" data-t="00:20:48">[00:20:48]</a>.
 
-Subscriptions are tracked similarly to bills and debts <a class="yt-timestamp" data-t="00:29:11">[00:29:11]</a>.
-*   **Adding New Subscriptions**:
-    *   Go to the **Account section**, within **Expenses** <a class="yt-timestamp" data-t="00:29:14">[00:29:14]</a>.
-    *   Add a new expense account (e.g., Netflix, Amazon) <a class="yt-timestamp" data-t="00:29:33">[00:29:33]</a>.
-    *   Classify it under "Subscription" <a class="yt-timestamp" data-t="00:29:41">[00:29:41]</a>.
-    *   Set the payment frequency (e.g., annual, quarterly) <a class="yt-timestamp" data-t="00:29:43">[00:29:43]</a>.
-*   **Recording Subscription Payments**:
-    *   Go to the "Expense" section under "Transactions" <a class="yt-timestamp" data-t="00:30:08">[00:30:08]</a>.
-    *   Enter the date, account, payment mode, and amount <a class="yt-timestamp" data-t="00:30:17">[00:30:17]</a>.
-    *   The transaction type will be "Outflow" <a class="yt-timestamp" data-t="00:30:47">[00:30:47]</a>.
-*   **Tracking Subscriptions in Summary**: The "Subscription" view under the **Summary** section displays "Upcoming Payments" and "Past Payments," similar to bills and debts <a class="yt-timestamp" data-t="00:31:01">[00:31:01]</a>.
-    *   It also shows the "Subscription Status" for each <a class="yt-timestamp" data-t="00:32:20">[00:32:20]</a>.
+### Adding Savings Transactions
+Go to the "Asset section" under "Transactions" to add savings transactions <a class="yt-timestamp" data-t="00:23:07">[00:23:07]</a>.
+*   Create a new transaction <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>.
+*   Provide a description (e.g., "Car Fund Savings"), select the savings account (e.g., Car Fund), and specify the payment mode (e.g., Bank) <a class="yt-timestamp" data-t="00:23:23">[00:23:23]</a>.
+*   **Transaction Type:** Set the transaction type to "Outflow" because the money is moving *out* of your main account and *into* the savings account <a class="yt-timestamp" data-t="00:23:42">[00:23:42]</a>.
+*   Enter the amount saved <a class="yt-timestamp" data-t="00:24:00">[00:24:00]</a>. This amount will be updated in the savings fund, reflecting progress towards the goal <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>.
+*   You can also add an icon to your savings fund for better visual representation <a class="yt-timestamp" data-t="00:24:25">[00:24:25]</a>.
 
-## [[building_a_net_worth_tracker_using_notion | Building a Net Worth Tracker]]
+## [[setting_up_house_rent_payments_tracker_in_notion | Tracking Bills]]
 
-Your net worth is the difference between your assets and liabilities <a class="yt-timestamp" data-t="00:32:56">[00:32:56]</a>.
-*   **Setting a Net Worth Goal**:
-    *   Navigate to the **Net Worth Goal section** <a class="yt-timestamp" data-t="00:33:05">[00:33:05]</a>.
-    *   Specify your target net worth to achieve by the end of the financial year <a class="yt-timestamp" data-t="00:33:09">[00:33:09]</a>.
-*   **Viewing Net Worth in Summary**:
-    *   Go to the **[[building_a_net_worth_tracker_using_notion | Net Worth section]]** under the **Summary** <a class="yt-timestamp" data-t="00:33:28">[00:33:28]</a>.
-    *   It shows your net worth goal, total net worth (calculated as total assets minus total liabilities), and the difference (how much you are lagging behind) <a class="yt-timestamp" data-t="00:33:32">[00:33:32]</a>.
-    *   It also displays the percentage of the net worth goal achieved and the total growth (closing net worth less opening net worth) <a class="yt-timestamp" data-t="00:34:09">[00:34:09]</a>.
-    *   The opening net worth is derived from the opening balances specified for assets and liabilities in the account section <a class="yt-timestamp" data-t="00:34:28">[00:34:28]</a>.
+To track bills, go to the "Account section" under the "Get Started View" <a class="yt-timestamp" data-t="00:25:08">[00:25:08]</a>.
 
-## Tracking Investments
+### Setting Up Accounts
+*   Under "Expenses," add or specify accounts for your bills (e.g., Utility Bills, Groceries) <a class="yt-timestamp" data-t="00:25:12">[00:25:12]</a>.
+*   **Classification:** Classify these expenses as "Bills" <a class="yt-timestamp" data-t="00:25:34">[00:25:34]</a>.
+*   **Payment Frequency:** Set the payment frequency (e.g., monthly for Wi-Fi bills) <a class="yt-timestamp" data-t="00:25:36">[00:25:36]</a>.
 
-The tracker allows for tracking investments in stocks, cryptocurrencies, and other areas <a class="yt-timestamp" data-t="00:37:03">[00:37:03]</a>.
-*   An "Investment" tab shows total investment amounts, units, and profit/loss <a class="yt-timestamp" data-t="00:37:08">[00:37:08]</a>.
-*   **Setting Up Investment Accounts**:
-    *   Go to the **Accounts tab** <a class="yt-timestamp" data-t="00:38:18">[00:38:18]</a>.
-    *   Add new investment accounts (e.g., Apple Investment, Bitcoin Investment) <a class="yt-timestamp" data-t="00:38:26">[00:38:26]</a>.
-    *   Investments are considered assets, so specify the opening balance and opening units <a class="yt-timestamp" data-t="00:38:35">[00:38:35]</a>.
-    *   Create a classification (e.g., Stocks, Crypto) <a class="yt-timestamp" data-t="00:38:44">[00:38:44]</a>.
-    *   Crucially, set the **Asset Class** as "Investments" to ensure correct calculations in the Investments tab <a class="yt-timestamp" data-t="00:39:22">[00:39:22]</a>.
-*   **Recording Investment Transactions**:
-    *   Go to the "Asset" section under "Transactions" <a class="yt-timestamp" data-t="00:40:37">[00:40:37]</a>.
-    *   For investment **purchases**, record the transaction at the **cost price** in the "Amount" field <a class="yt-timestamp" data-t="00:41:12">[00:41:12]</a>.
-    *   For investment **sales**, record the **cost value of the units being sold** in the "Amount" field, NOT the sale price <a class="yt-timestamp" data-t="00:41:21">[00:41:21]</a>. This allows the system to correctly compute profit or loss <a class="yt-timestamp" data-t="00:42:18">[00:42:18]</a>.
-    *   The "Units" and "Price" fields can be edited for each transaction to reflect the market <a class="yt-timestamp" data-t="00:43:06">[00:43:06]</a>.
+### Entering Bill Transactions
+Navigate to the "Expense part" under "Transactions" to enter bill payment details <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>.
+*   Enter the date, description, account for the bill, and payment mode <a class="yt-timestamp" data-t="00:26:08">[00:26:08]</a>.
+*   **Transaction Type:** The transaction type will be "Outflow" since you are paying money <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a>.
+*   Specify the amount <a class="yt-timestamp" data-t="00:26:21">[00:26:21]</a>.
 
-## Managing Finances for Couples
+### Tracking in Summary View
+Go to the "Bills part" under the "Summary section" <a class="yt-timestamp" data-t="00:26:24">[00:26:24]</a>.
+*   **Upcoming Payments:** Shows bills with a next payment date after the current date <a class="yt-timestamp" data-t="00:26:30">[00:26:30]</a>.
+*   **Past Payments:** Shows bills where the last payment was due in the past, indicating a potential missed payment or waiting for the next cycle <a class="yt-timestamp" data-t="00:27:19">[00:27:19]</a>.
+*   The view dynamically updates based on the last transaction date and the set payment frequency <a class="yt-timestamp" data-t="00:27:30">[00:27:30]</a>.
 
-This Notion dashboard is applicable for couples looking to [[managing_finances_with_notion | manage their finances]] together <a class="yt-timestamp" data-t="00:35:39">[00:35:39]</a>.
-*   Under the **Account section**, couples can split categories of accounts by individual <a class="yt-timestamp" data-t="00:35:49">[00:35:49]</a>.
-*   For example, "Salary by Him" and "Side Hustle by Her" can denote income earned by each individual <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>.
-*   This approach can be applied to all accounts, including expenses, assets, and liabilities, allowing couples to keep track of everything <a class="yt-timestamp" data-t="00:36:14">[00:36:14]</a>.
+## Tracking Subscriptions
 
-## General Usage Tips & FAQs
+To track subscriptions, go to the "Account section" under "Get Started" <a class="yt-timestamp" data-t="00:29:13">[00:29:13]</a>.
+
+### Setting Up Accounts
+*   Under "Expenses," specify accounts for your subscriptions (e.g., Netflix, Amazon) <a class="yt-timestamp" data-t="00:29:17">[00:29:17]</a>.
+*   **Classification:** Classify these expenses as "Subscription" <a class="yt-timestamp" data-t="00:29:24">[00:29:24]</a>.
+*   **Payment Frequency:** Set the payment frequency (e.g., annual, quarterly) <a class="yt-timestamp" data-t="00:29:29">[00:29:29]</a>.
+
+### Entering Subscription Transactions
+Go to the "Expense section" under "Transactions" <a class="yt-timestamp" data-t="00:30:09">[00:30:09]</a>.
+*   Add a new transaction, selecting the date, subscription account (e.g., Amazon), and payment mode <a class="yt-timestamp" data-t="00:30:17">[00:30:17]</a>.
+*   **Transaction Type:** Set the transaction type to "Outflow" <a class="yt-timestamp" data-t="00:30:47">[00:30:47]</a>.
+*   Enter the amount <a class="yt-timestamp" data-t="00:30:55">[00:30:55]</a>.
+
+### Tracking in Summary View
+Access the "Subscription view" under "Summary" <a class="yt-timestamp" data-t="00:31:01">[00:31:01]</a>.
+*   Similar to bills and debt, it displays "Upcoming Payments" and "Past Payments" <a class="yt-timestamp" data-t="00:31:04">[00:31:04]</a>.
+*   The view shows the next due date based on the last payment and set frequency <a class="yt-timestamp" data-t="00:31:40">[00:31:40]</a>.
+*   It also indicates the "subscription status" (e.g., active), which can be edited via the pencil icon if not visible <a class="yt-timestamp" data-t="00:32:20">[00:32:20]</a>.
+
+## Tracking Net Worth
+
+Net worth is calculated as the difference between your assets and liabilities after all transactions are entered <a class="yt-timestamp" data-t="00:32:57">[00:32:57]</a>.
+
+### Setting a Net Worth Goal
+*   Navigate to the "Net Worth Goal section" <a class="yt-timestamp" data-t="00:33:05">[00:33:05]</a>.
+*   Specify your target net worth to achieve by the end of the financial year <a class="yt-timestamp" data-t="00:33:09">[00:33:09]</a>. This value can be changed <a class="yt-timestamp" data-t="00:33:16">[00:33:16]</a>.
+
+### Viewing Net Worth
+Go to the "Net Worth section" under "Summary" <a class="yt-timestamp" data-t="00:33:28">[00:33:28]</a>.
+*   It displays the "Net Worth Goal" and the "Total Net Worth" (Assets - Liabilities) <a class="yt-timestamp" data-t="00:33:32">[00:33:32]</a>.
+*   The "Difference" shows how much you are lagging behind your goal <a class="yt-timestamp" data-t="00:33:57">[00:33:57]</a>.
+*   A "Percentage" indicates the portion of the net worth goal achieved <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>.
+*   "Total Growth" represents the closing net worth less the opening net worth (calculated from the opening balances of assets and liabilities in the Account Section) <a class="yt-timestamp" data-t="00:34:20">[00:34:20]</a>.
+
+## [[setting_up_an_investment_portfolio_tracker_in_notion | Tracking Investments]]
+
+The tracker includes an "investment tab" to monitor investments in stocks, cryptocurrencies, and other areas <a class="yt-timestamp" data-t="00:37:03">[00:37:03]</a>.
+
+### Setting Up Investment Accounts
+*   Go to the "Accounts tab" <a class="yt-timestamp" data-t="00:38:18">[00:38:18]</a>.
+*   Add new investment accounts (e.g., Apple investment, Bitcoin) <a class="yt-timestamp" data-t="00:38:26">[00:38:26]</a>.
+*   **Opening Balance & Units:** Specify the opening balance and opening units if you held investments at the start of the financial year <a class="yt-timestamp" data-t="00:38:34">[00:38:34]</a>.
+*   **Classification:** Classify the investment (e.g., "Stocks," "Crypto") <a class="yt-timestamp" data-t="00:38:44">[00:38:44]</a>.
+*   **Asset Class:** Crucially, select "Investments" as the asset class. This classification helps in calculating the total value of investments <a class="yt-timestamp" data-t="00:39:22">[00:39:22]</a>.
+
+### Entering Investment Transactions
+Enter investment transactions under the "Assets" section in the "Transactions" view <a class="yt-timestamp" data-t="00:40:39">[00:40:39]</a>.
+*   **Purchases:** Record investment purchases at their *cost price* <a class="yt-timestamp" data-t="00:41:14">[00:41:14]</a>.
+*   **Sales:** When selling an investment, record the transaction at the *cost value of the units being sold*, not the sale price <a class="yt-timestamp" data-t="00:41:22">[00:41:22]</a>. This method is essential for the tracker to accurately compute profit or loss on the transaction <a class="yt-timestamp" data-t="00:42:18">[00:42:18]</a>.
+*   The system automatically computes the "investment value" and the profit/loss based on these entries <a class="yt-timestamp" data-t="00:41:49">[00:41:49]</a>.
+
+## Using the Tracker for Couples
+
+This Notion dashboard is applicable for couples looking to track their finances together <a class="yt-timestamp" data-t="00:35:39">[00:35:39]</a>.
+*   In the "Account section," accounts can be split by individual. For example, "Salary by Him" and "Side Hustle by Her" can differentiate income sources <a class="yt-timestamp" data-t="00:35:50">[00:35:50]</a>.
+*   This approach can be applied to all categories (expenses, income, assets, liabilities) to maintain individual tracking within the shared system <a class="yt-timestamp" data-t="00:36:14">[00:36:14]</a>.
+
+## Additional Features and FAQs
 
 ### Viewing Specific Account Transactions
-To quickly view all transactions related to a particular account:
-1.  In the "Finances" summary view, click on any income or expense account <a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>.
-2.  A window will open on the right <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a>.
-3.  Scroll down and click on "View Transactions" (this will appear automatically for newly added accounts) <a class="yt-timestamp" data-t="00:46:22">[00:46:22]</a>.
-4.  This will populate all transactions specifically related to that account <a class="yt-timestamp" data-t="00:46:38">[00:46:38]</a>.
+From the "Finances" view in the "Summary section," you can click on any specific income or expense account (e.g., Salary, Side Hustle) <a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>.
+*   This will open a side window where you can find a "View Transactions" option at the bottom <a class="yt-timestamp" data-t="00:46:22">[00:46:22]</a>.
+*   Clicking this will automatically populate and filter all transactions related only to that specific account, offering a quick and focused view <a class="yt-timestamp" data-t="00:46:38">[00:46:38]</a>.
 
-### Template Availability
-The template is available on all devices, including smartphones, tablets, and laptops, supporting iOS, Android, Windows, and Mac OS <a class="yt-timestamp" data-t="00:47:43">[00:47:43]</a>.
-
-### Notion Pricing
-Notion itself is a free tool; you only need to sign up with an existing email ID to use the system <a class="yt-timestamp" data-t="00:48:14">[00:48:14]</a>. There are no extra charges involved in using the template itself <a class="yt-timestamp" data-t="00:48:22">[00:48:22]</a>. Notion does offer paid plans with additional features, which can be explored on their website <a class="yt-timestamp" data-t="00:48:26">[00:48:26]</a>.
-
-### Multiple Currency Support
-Notion supports a variety of currencies <a class="yt-timestamp" data-t="00:48:45">[00:48:45]</a>. To change the currency:
-1.  Navigate to any view that displays monetary values (e.g., Transactions, Net Worth) <a class="yt-timestamp" data-t="00:49:03">[00:49:03]</a>.
-2.  Click on a property that has a dollar sign associated with it (e.g., the "Amount" field) <a class="yt-timestamp" data-t="00:49:08">[00:49:08]</a>.
-3.  Select "Edit property" <a class="yt-timestamp" data-t="00:49:08">[00:49:08]</a>.
-4.  Go to "Number format" and choose your desired currency (e.g., Euro) <a class="yt-timestamp" data-t="00:49:10">[00:49:10]</a>.
-5.  Repeat this process for all relevant monetary fields across different views <a class="yt-timestamp" data-t="00:49:26">[00:49:26]</a>.
-
-### Future Editions
-Two more editions of this Notion template are planned:
-*   **Freelancer Edition**: Will include features for managing clients, invoicing, resources, meetings, and important business dates <a class="yt-timestamp" data-t="00:50:28">[00:50:28]</a>.
-*   **Business Edition**: Will incorporate team features, allowing users to [[managing_finances_using_notion | manage employees]] working on different projects <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>.
+### General Information
+*   **Device Availability:** The Notion template is available on all devices, including smartphones, tablets, and laptops, supporting iOS, Android, Windows, and Mac OS <a class="yt-timestamp" data-t="00:47:43">[00:47:43]</a>.
+*   **Cost:** Notion is a free tool to use; no extra payment is required beyond the template price <a class="yt-timestamp" data-t="00:48:14">[00:48:14]</a>.
+*   **Multiple Currencies:** Notion supports many currencies. To change the currency from the default US Dollars, locate any property with a dollar sign, click on it, select "Edit property," go to "Number format," and choose your desired currency (e.g., Euro) <a class="yt-timestamp" data-t="00:48:43">[00:48:43]</a>. This needs to be done for all relevant numerical properties across different views <a class="yt-timestamp" data-t="00:49:26">[00:49:26]</a>.

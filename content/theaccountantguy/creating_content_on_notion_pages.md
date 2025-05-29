@@ -1,26 +1,26 @@
 ---
-title: Creating content on Notion pages
+title: Creating Content on Notion Pages
 videoId: N6ZRlsRS54M
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-Wizen is a platform designed to [[ai_content_generation_for_notion | create AI-generated content directly onto a Notion workspace]] <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. When generating content, users have two primary options: a Notion database or a Notion page <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
+[[Creating and managing Notion pages and databases with Wizzygen | Wizzygen]] is a platform designed to help users generate AI-powered content directly onto their Notion workspace <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. It offers the ability to create content on both Notion pages and Notion databases <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. A Notion page is defined as a simple, blank page within Notion <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
 
-> [!definition] Notion Page
-> A Notion page is described as a simple blank page created when using Notion <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+## Generating AI Content on a Notion Page
 
-Wizen enables users to [[creating_ai_generated_content_on_a_notion_page | create AI-generated content on both Notion pages and databases]] <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+To generate AI content on a Notion page using [[creating_and_managing_notion_pages_and_databases_with_wizzygen | Wizzygen]], follow these steps:
 
-## Steps to Generate Content on a Notion Page
+1.  **Name the Connection**
+    *   Provide a name for the connection being built, such as "notion page" <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+2.  **Select Page Type**
+    *   Choose the "Notion page" option from the available selections <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+3.  **Provide Page URL**
+    *   Copy the URL of the desired Notion page and paste it into the URL section <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+    *   Click "next" to proceed <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+4.  **Input Content Prompt**
+    *   Enter a prompt describing the content you wish to generate. For example, "write me a block of 100 words on notion" <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+5.  **Generate Content**
+    *   Once the prompt is entered, the AI will generate content directly onto the specified Notion page <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
 
-To generate content on a Notion page using Wizen, follow these steps:
-
-1.  **Name the Connection**: Provide a name for the connection being built, for example, "notion page" <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
-2.  **Select Page Type**: Choose "notion page" from the available options <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
-3.  **Provide Notion Page URL**: Copy the URL of the specific Notion page and paste it into the URL section <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
-4.  **Enter Prompt**: Input the desired content prompt. For instance, to generate a 100-word blog on Notion, the prompt would be:
-    > "write me a block of 100 words on notion" <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>
-5.  **Generate Content**: Once the prompt is entered, the AI will begin generating content directly onto the Notion page <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. The generated AI content will then appear on the page <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
-
-This process demonstrates how Wizen can be utilized to [[ai_content_generation_for_notion | generate AI content for Notion pages]] <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
+This process allows for quick AI content generation on a Notion page <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. In addition to pages, [[creating_and_managing_notion_pages_and_databases_with_wizzygen | Wizzygen]] can also be used for [[creating_content_in_notion_databases | creating content in Notion databases]] <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
