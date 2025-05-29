@@ -1,0 +1,42 @@
+---
+title: Sappy Seals and Play Ember collaboration
+videoId: 7ePi9nzYoHk
+---
+
+From: [[thepipeline_xyz]] <br/> 
+
+A major announcement reveals that Sappy Seals and Play Ember are bringing their experience to the Monad testnet soon <a class="yt-timestamp" data-t="01:36:11">[01:36:11]</a>. The news is expected to thrill the community <a class="yt-timestamp" data-t="01:50:38">[01:50:38]</a>.
+
+## Origins of the Collaboration
+
+The collaboration began when Wob, founder of Sappy Seals, and John Hook, co-founder of Play Ember, met at a gaming NFT meetup in Nando's <a class="yt-timestamp" data-t="02:06:01">[02:06:01]</a>. Wob discovered Play Ember's exceptional talent in UK game development and product shipping <a class="yt-timestamp" data-t="02:22:07">[02:22:07]</a>. Recognizing Play Ember's expertise in building and scaling games with user acquisition, and Sappy Seals' "rabid community," the teams decided to "marry the two" for a collaboration <a class="yt-timestamp" data-t="03:00:23">[03:00:23]</a>. The ideation process involved exploring various concepts, including a "seal in a mecha suit with a rocket launcher" <a class="yt-timestamp" data-t="03:14:14">[03:14:14]</a>.
+
+## Sappy Quest: The Game
+
+The collaboration has landed on a game concept currently code-named "Sappy Quest" <a class="yt-timestamp" data-t="03:34:44">[03:34:44]</a>. The game is described as an RPG and Dungeon Crawler <a class="yt-timestamp" data-t="03:54:19">[03:54:19]</a>.
+
+## Why Gaming for Sappy Seals
+
+Sappy Seals has been "very bullish on gaming" as a primary use case for crypto <a class="yt-timestamp" data-t="05:20:23">[05:20:23]</a>. Gaming naturally leverages tokenized assets on-chain, creating "digital economies" and "digital ecosystems" <a class="yt-timestamp" data-t="05:00:36">[05:00:36]</a>. Past examples like Axie Infinity and Defi Kingdoms showed active engagement <a class="yt-timestamp" data-t="05:39:10">[05:39:10]</a>. For an IP like Sappy Seals with a strong community, gaming is the best way to deliver an experience at scale and onboard more users <a class="yt-timestamp" data-t="06:12:12">[06:12:12]</a>. Playing crypto games and enjoying crypto-native IP helps onboard people into the broader crypto ecosystem <a class="yt-timestamp" data-t="11:13:00">[11:13:00]</a>. The goal is to "do entertainment correctly in crypto" <a class="yt-timestamp" data-t="11:51:24">[11:51:24]</a>.
+
+## Why Gaming for Play Ember
+
+John Hook emphasizes that gaming is an "obvious" way to get "normies" to engage with blockchain-powered experiences <a class="yt-timestamp" data-t="07:28:18">[07:28:18]</a>. Casual gaming is a broad form of entertainment, similar to TikTok or YouTube, and part of people's routine <a class="yt-timestamp" data-t="07:37:05">[07:37:05]</a>. Play Ember believes in "lighter touch experiences" for a casual audience, avoiding the over-complication often seen in web3 gaming <a class="yt-timestamp" data-t="08:27:07">[08:27:07]</a>. A key non-negotiable for Play Ember is "great IP," which is essential for players to download and enjoy a game <a class="yt-timestamp" data-t="08:56:06">[08:56:06]</a>. Sappy Seals is seen as a "perfect IP to be making a game with" due to its culture, memes, and creativity <a class="yt-timestamp" data-t="09:17:15">[09:17:15]</a>.
+
+## The Role of Community and Culture
+
+Sappy Seals' community has a strong affinity for gaming, partly due to the meme-driven culture of the internet and the nature of online gaming <a class="yt-timestamp" data-t="19:39:07">[19:39:07]</a>. The community is highly engaged with game design teams, providing valuable feedback <a class="yt-timestamp" data-t="20:06:06">[20:06:06]</a>. Sappy Seals aims to help strong builders and platforms in crypto gain traction <a class="yt-timestamp" data-t="20:27:05">[20:27:05]</a>. Their D7 retention rates for collaborations with games like Nifty Island and Pirate Nation have been "absurd," sometimes reaching 80% <a class="yt-timestamp" data-t="21:17:09">[21:17:09]</a>. This indicates the Seals community's willingness to "help people build and launch cool stuff" <a class="yt-timestamp" data-t="21:46:31">[21:46:31]</a>.
+
+The Monad community also plays a crucial role due to its curation of "creative" and "memetic" individuals willing to experiment <a class="yt-timestamp" data-t="23:03:00">[23:03:00]</a>. The combination of Play Ember's gaming community, Sappy Seals' gaming and content-producing community, and Monad's community with its mass reach, is expected to create a powerful force to push outside the crypto bubble <a class="yt-timestamp" data-t="23:51:17">[23:51:17]</a>.
+
+For Wob, "culture is sacred" <a class="yt-timestamp" data-t="25:09:00">[25:09:00]</a>. He believes that in crypto, where fundamentals might not always drive value, culture is the "main glue" holding things together <a class="yt-timestamp" data-t="26:47:05">[26:47:05]</a>. It defines why people care and dedicate their time to a project <a class="yt-timestamp" data-t="26:59:02">[26:59:02]</a>. Building an "aura" and a "collective of people" united by a shared passion is key <a class="yt-timestamp" data-t="27:36:06">[27:36:06]</a>. This network, where individuals contribute value (e.g., memes, capital), defines the valuation of tokens and NFTs <a class="yt-timestamp" data-t="29:05:07">[29:05:07]</a>. John Hook adds that direct access to the community in web3 allows for building brands hand-in-hand with users, letting them "freestyle and create stuff" <a class="yt-timestamp" data-t="48:49:03">[48:49:03]</a>.
+
+## Future Outlook for NFTs and Gaming
+
+NFTs initially seemed like a natural progression from tokens, offering "unique identifiers for people" or "citizens" in blockchain "cities" <a class="yt-timestamp" data-t="31:47:49">[31:47:49]</a>. While their speculative appeal might be less than tokens, the "finite amount" and "identity portion" are crucial <a class="yt-timestamp" data-t="32:30:11">[32:30:11]</a>. There's a "strange human psychology sort of attachment to NFTs," evident in communities that remain loyal even when projects are inactive <a class="yt-timestamp" data-t="32:56:06">[32:56:06]</a>.
+
+The perception of NFTs has evolved; some view them purely as "investment vehicles" for token vesting, while others, primarily "CT native" (Crypto Twitter native) users, value them for their cultural significance, aesthetics, and ability to foster a collective <a class="yt-timestamp" data-t="36:34:44">[36:34:44]</a>. The focus shifts from just art to the "network" and the "collective of people" actively contributing <a class="yt-timestamp" data-t="37:55:00">[37:55:00]</a>.
+
+Crypto gaming faces challenges; many games built so far "aren't that good" because talented developers are disincentivized by the perceived risk of crypto <a class="yt-timestamp" data-t="12:44:03">[12:44:03]</a>. However, it's seen as an "inevitable" growth phase for the industry <a class="yt-timestamp" data-t="13:17:34">[13:17:34]</a>. The next wave of users, "consumers" rather than "hardcore crypto natives," will engage with games and naturally acquire crypto, potentially leading them to explore other communities (art, music, cars) <a class="yt-timestamp" data-t="14:02:11">[14:02:11]</a>. This "cross collaborations" between communities, gaming, and infrastructure is vital <a class="yt-timestamp" data-t="15:15:37">[15:15:37]</a>.
+
+The way successful crypto companies grow is different from traditional businesses <a class="yt-timestamp" data-t="44:34:06">[44:34:06]</a>. Instead of just focusing on mass users, web3 prioritizes "power users" and a "web of people that connect into different communities" to create value <a class="yt-timestamp" data-t="44:52:19">[44:52:19]</a>. Authentic, grassroots projects that people adopt as part of their identity are crucial <a class="yt-timestamp" data-t="50:38:15">[50:38:15]</a>. This authenticity is a "valuable currency" in a world saturated with ads and sponsorships <a class="yt-timestamp" data-t="51:40:17">[51:40:17]</a>. The next major mainstream crypto game won't just be a Call of Duty with coins; it will be a "completely different thing that no one's ever seen before" <a class="yt-timestamp" data-t="46:27:00">[46:27:00]</a>. Pioneers in the space need time to innovate and figure out these complex models, which may take years <a class="yt-timestamp" data-t="50:06:06">[50:06:06]</a>.

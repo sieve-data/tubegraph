@@ -1,0 +1,39 @@
+---
+title: Institutional adoption of cryptocurrencies
+videoId: qhk1am48TUU
+---
+
+From: [[thepipeline_xyz]] <br/> 
+
+[[Cryptocurrency and blockchain technology | Cryptocurrency]] has historically been perceived differently by various groups, particularly within traditional finance. While the general public might primarily focus on price charts and volatility, the market's evolution is heavily influenced by significant events and increasing institutional interest <a class="yt-timestamp" data-t="00:13:41">[00:13:41]</a>.
+
+## Evolution of the [[Cryptocurrency and blockchain technology | Crypto]] Market
+In 2015, the [[Cryptocurrency and blockchain technology | crypto]] market was far less complex, with limited information depth and a narrow asset class <a class="yt-timestamp" data-t="00:15:04">[00:15:04]</a>. [[Cryptocurrency and blockchain technology | Altcoins]] existed but held immaterial value and were often just carbon copies of Bitcoin's codebase <a class="yt-timestamp" data-t="00:15:10">[00:15:10]</a>. A notable shift occurred with the rise in popularity and value of Ethereum (ETH), especially during the ICO boom, making it impossible to keep up with all the information and requiring attention to other tradable assets <a class="yt-timestamp" data-t="00:15:51">[00:15:51]</a>. The growth of ETH as a second major asset paved the way for other chains to gain value, leading to the diversified market seen today <a class="yt-timestamp" data-t="00:16:34">[00:16:34]</a>. The market has grown "massively horizontal," with a monstrous amount of information that is difficult to process entirely <a class="yt-timestamp" data-t="00:16:59">[00:16:59]</a>.
+
+## The Bitcoin ETF
+The Bitcoin Exchange Traded Fund (ETF) has been a significant catalyst for institutional interest <a class="yt-timestamp" data-t="00:22:08">[00:22:08]</a>. The first filing for such an ETF was made by the Winklevoss twins in 2013 <a class="yt-timestamp" data-t="00:22:23">[00:22:23]</a>.
+
+### Importance and Impact
+The approval of a Bitcoin ETF is considered "very important" because it opens access to a large pool of potential buyers who were previously unable or slowed down from owning the asset class via traditional finance products <a class="yt-timestamp" data-t="00:23:38">[00:23:38]</a>. There is a continuous flow of capital into traditional finance products, particularly US equities, and the ETF provides access to this same pipeline <a class="yt-timestamp" data-t="00:23:22">[00:23:22]</a>.
+
+However, the immediate aftermath of its launch might be noisy, with initial inflows potentially under- or over-selling expectations <a class="yt-timestamp" data-t="00:23:50">[00:23:50]</a>. It's unlikely that all random Registered Investment Advisors (RIAs) or funds will immediately begin buying on day one, as adoption takes time <a class="yt-timestamp" data-t="00:24:16">[00:24:16]</a>. Despite this, it is expected to be a "big, long-tail boom" for the asset class and the overall [[Cryptocurrency and blockchain technology | crypto]] industry, adding passive flow to the ecosystem over time <a class="yt-timestamp" data-t="00:24:27">[00:24:27]</a>.
+
+### Competition and Marketing
+The ETF market is characterized by intense competition among well-funded providers aiming to gain assets under management (AUM) <a class="yt-timestamp" data-t="00:26:21">[00:26:21]</a>. This "winner takes all" situation will lead to massive fighting and advertising efforts, which is beneficial for the asset class by providing a ton of additional exposure from "non-sketchy sources" <a class="yt-timestamp" data-t="00:26:37">[00:26:37]</a>. For instance, BlackRock running ads on a "Boomer Golf Channel" would be a significant difference from prior [[social media marketing in crypto | marketing]] approaches <a class="yt-timestamp" data-t="00:26:59">[00:26:59]</a>.
+
+Statements from traditional finance figures like Larry Fink, who might tell clients that Bitcoin is a "good play," carry significant weight for older investors who may not trust [[Cryptocurrency and blockchain technology | crypto]] traders <a class="yt-timestamp" data-t="00:27:42">[00:27:42]</a>.
+
+### Future ETF Prospects
+Following a potential Bitcoin ETF approval, an Ethereum (ETH) ETF is highly probable within about a year <a class="yt-timestamp" data-t="00:29:01">[00:29:01]</a>. However, it's unlikely that ETFs for other [[Cryptocurrency and blockchain technology | cryptocurrencies]] like Solana will be approved for a while, as the precedent suggests a "Cadence of CM future trades for a year, two years, then ETF" <a class="yt-timestamp" data-t="00:28:38">[00:28:38]</a>. The ETH ETF might be more complicated due to staking mechanisms, but major players will push for it if the Bitcoin ETF sees significant AUM <a class="yt-timestamp" data-t="00:29:21">[00:29:21]</a>.
+
+## Institutional Perspective on [[Cryptocurrency and blockchain technology | Crypto]]
+For large asset managers, [[Cryptocurrency and blockchain technology | crypto]] is viewed as an "uncorrelated asset which has Alpha" <a class="yt-timestamp" data-t="00:30:18">[00:30:18]</a>. This means it can generate returns that are not tied to traditional asset classes and can potentially outperform benchmarks like the S&P 500 <a class="yt-timestamp" data-t="00:30:32">[00:30:32]</a>.
+
+By integrating Bitcoin as a minority position into existing portfolios of fixed income and equities, institutions can claim a "[[Cryptocurrency and blockchain technology | crypto]] strategy overlay that adds whatever 150 bips of alpha over 10 years," which becomes their selling edge <a class="yt-timestamp" data-t="00:31:05">[00:31:05]</a>. This approach is expected to be very popular.
+
+## Advice for [[Challenges and opportunities in cryptocurrency investment | Crypto Investors]]
+For new or young participants in the [[Cryptocurrency and blockchain technology | crypto]] market, two key pieces of advice are:
+1.  **Avoid excessive leverage**: Leverage can lead to significant losses, especially when unforeseen events like counterparty failures occur <a class="yt-timestamp" data-t="00:48:26">[00:48:26]</a>. The second and third-order effects in leveraged markets are often unclear, and even spreading out borrows across lenders doesn't guarantee safety if an entire segment of the market collapses <a class="yt-timestamp" data-t="00:48:58">[00:48:58]</a>.
+2.  **Trade less**: People often "undo their own right decision" by overtrading <a class="yt-timestamp" data-t="00:49:51">[00:49:51]</a>. If a thesis is strong, it's often more beneficial to hold positions rather than constantly engaging in active trading <a class="yt-timestamp" data-t="00:49:17">[00:49:17]</a>. While stories of those who made it big on leverage are common, a far greater number of people suffer losses <a class="yt-timestamp" data-t="00:50:16">[00:50:16]</a>.
+
+Trading is influenced by the "hot ball of money" phenomenon, where capital rapidly shifts between different assets or sectors <a class="yt-timestamp" data-t="00:34:41">[00:34:41]</a>. A key principle is whether one wants to "make money or be right" <a class="yt-timestamp" data-t="00:34:47">[00:34:47]</a>, implying that it's important not to fight the market even if it seems irrational <a class="yt-timestamp" data-t="00:35:24">[00:35:24]</a>. This is particularly relevant in [[Cryptocurrency and blockchain technology | crypto]], where assets can fly for "no reason" <a class="yt-timestamp" data-t="00:35:43">[00:35:43]</a>. When Bitcoin and Ethereum rip, the money tends to disperse into other parts of the market, and the challenge is identifying which assets "matter" in each cycle <a class="yt-timestamp" data-t="00:37:47">[00:37:47]</a>.
