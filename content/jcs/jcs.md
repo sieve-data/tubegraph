@@ -2,113 +2,113 @@
 title: jcs
 ---
 ### [The Legend of "Jeff"](https://www.youtube.com/watch?v=9x2NaGkl6BI)
-- [[jeffs_arrest_and_interrogation | Jeffs arrest and interrogation]]
-- [[the_concept_of_the_antihero | The concept of the antihero]]
-- [[interrogation_techniques_and_legal_rights | Interrogation techniques and legal rights]]
-- [[the_struggle_of_addiction | The struggle of addiction]]
-- [[uncertainty_in_jeffs_future | Uncertainty in Jeffs future]]
-
-### [The Interrogation of Stephanie Lazarus](https://www.youtube.com/watch?v=WLSNPkf8RCU)
+- [[rights_of_the_accused | Rights of the accused]]
 - [[interrogation_techniques | Interrogation techniques]]
-- [[stephanie_lazarus_case | Stephanie Lazarus case]]
-- [[detectives_strategy_during_interrogation | Detectives strategy during interrogation]]
-- [[emotional_responses_in_criminal_investigations | Emotional responses in criminal investigations]]
-- [[impact_of_sherri_rasmussens_murder | Impact of Sherri Rasmussens murder]]
-
-### [The Case of Michael Rafferty](https://www.youtube.com/watch?v=1J2YOLQM2Yc)
-- [[abduction_and_murder_of_tori_stafford | Abduction and murder of Tori Stafford]]
-- [[investigation_and_evidence_gathering | Investigation and evidence gathering]]
-- [[interrogation_techniques_in_criminal_investigations | Interrogation techniques in criminal investigations]]
-- [[legal_proceedings_and_trial_outcomes | Legal proceedings and trial outcomes]]
-- [[behavioral_analysis_in_criminal_cases | Behavioral analysis in criminal cases]]
+- [[antihero_characterization | Antihero characterization]]
+- [[addiction_and_rehabilitation | Addiction and rehabilitation]]
+- [[legal_consequences_of_crime | Legal consequences of crime]]
 
 ### [The Case of Chris Watts - Part 2 - The Polygraph](https://www.youtube.com/watch?v=nVZhV7M3mNE)
-- [[behaviorprovoking_questions | behaviorprovoking questions]]
-- [[chris_watts_polygraph_test | chris watts polygraph test]]
-- [[psychological_pressure_techniques | psychological pressure techniques]]
-- [[passive_accusation_in_interrogations | passive accusation in interrogations]]
-- [[chris_watts_interrogation_analysis | chris watts interrogation analysis]]
-
-### [Guilty until proven innocent.](https://www.youtube.com/watch?v=BemHqUqcpI8)
-- [[interrogation_analysis_techniques | Interrogation analysis techniques]]
-- [[cognitive_bias_in_evaluating_guilt | Cognitive bias in evaluating guilt]]
-- [[behavioral_indicators_of_innocence_vs_guilt | Behavioral indicators of innocence vs guilt]]
-- [[consequences_of_wrongful_accusations | Consequences of wrongful accusations]]
-- [[role_of_evidence_in_criminal_investigations | Role of evidence in criminal investigations]]
+- [[interrogation_techniques | Interrogation techniques]]
+- [[polygraph_examination_process | Polygraph examination process]]
+- [[psychological_pressure_on_suspects | Psychological pressure on suspects]]
+- [[chris_watts_case | Chris Watts case]]
+- [[detecting_deception_in_criminal_cases | Detecting deception in criminal cases]]
 
 ### [Sarah literally thinks she's going home later...](https://www.youtube.com/watch?v=Hy6XsXseDfM)
-- [[case_of_sarah_boone_and_george_torres_jr | Case of Sarah Boone and George Torres Jr]]
-- [[911_call_and_response_in_the_suitcase_case | 911 call and response in the suitcase case]]
-- [[interrogation_techniques_used_in_criminal_investigation | Interrogation techniques used in criminal investigation]]
-- [[legal_proceedings_and_charges_related_to_sarah_boone | Legal proceedings and charges related to Sarah Boone]]
-- [[impact_of_evidence_and_videos_in_criminal_cases | Impact of evidence and videos in criminal cases]]
+- [[sarah_boones_911_call_and_explanation_of_events | Sarah Boones 911 call and explanation of events]]
+- [[videos_recorded_by_sarah_boone_and_their_implications | Videos recorded by Sarah Boone and their implications]]
+- [[sarah_boones_arrest_and_questioning_by_police | Sarah Boones arrest and questioning by police]]
+- [[george_torres_jrs_past_criminal_history_and_relationship_with_sarah | George Torres Jrs past criminal history and relationship with Sarah]]
+- [[legal_proceedings_and_defense_challenges_in_sarah_boones_case | Legal proceedings and defense challenges in Sarah Boones case]]
 
-### [The Case of Michael Dunn](https://www.youtube.com/watch?v=sVF_SlzxBJ4)
-- [[michael_dunn_case_overview | Michael Dunn case overview]]
-- [[interrogation_techniques_and_strategy | Interrogation techniques and strategy]]
-- [[selfdefense_claim_analysis | Selfdefense claim analysis]]
-- [[impact_on_victims_and_families | Impact on victims and families]]
-- [[legal_outcomes_and_sentencing | Legal outcomes and sentencing]]
-
-### [The Case of Lee Rodarte](https://www.youtube.com/watch?v=L0H6xYwMQnk)
-- [[savannah_golds_disappearance | Savannah Golds disappearance]]
-- [[investigation_process_and_surveillance_evidence | Investigation process and surveillance evidence]]
-- [[interrogation_techniques_and_suspect_behavior | Interrogation techniques and suspect behavior]]
-- [[confession_and_emotional_response | Confession and emotional response]]
-- [[legal_proceedings_and_defense_claims | Legal proceedings and defense claims]]
+### [The Interrogation of Stephanie Lazarus](https://www.youtube.com/watch?v=WLSNPkf8RCU)
+- [[interrogation_techniques_and_strategies_used_by_detectives | Interrogation techniques and strategies used by detectives]]
+- [[psychological_reactions_and_body_language_during_interrogations | Psychological reactions and body language during interrogations]]
+- [[details_of_the_stephanie_lazarus_case_and_her_relationship_with_john_rutten | Details of the Stephanie Lazarus case and her relationship with John Rutten]]
+- [[challenges_in_solving_cold_cases_and_the_use_of_dna_evidence | Challenges in solving cold cases and the use of DNA evidence]]
+- [[impact_of_the_murder_on_the_families_involved_and_the_trial_outcome | Impact of the murder on the families involved and the trial outcome]]
 
 ### [The Bizarre Case of Stephen McDaniel](https://www.youtube.com/watch?v=HkRjIq8Cp2A)
-- [[forensic_investigation_techniques | Forensic investigation techniques]]
-- [[psychological_profiling_of_criminals | Psychological profiling of criminals]]
-- [[technology_in_criminal_investigations | Technology in criminal investigations]]
-- [[case_study_of_stephen_mcdaniel | Case study of Stephen McDaniel]]
-- [[interrogation_strategies_and_techniques | Interrogation strategies and techniques]]
+- [[forensic_investigative_process | Forensic investigative process]]
+- [[stalking_and_psychological_profiling | Stalking and psychological profiling]]
+- [[internet_search_history_as_evidence | Internet search history as evidence]]
+- [[interrogation_techniques_and_tactics | Interrogation techniques and tactics]]
+- [[legal_outcome_and_plea_deals | Legal outcome and plea deals]]
+
+### [Guilty until proven innocent.](https://www.youtube.com/watch?v=BemHqUqcpI8)
+- [[interrogation_analysis | Interrogation analysis]]
+- [[impact_of_hindsight_in_evaluating_guilt | Impact of hindsight in evaluating guilt]]
+- [[behavioral_differences_between_guilty_and_innocent_subjects | Behavioral differences between guilty and innocent subjects]]
+- [[case_study_of_wrongful_arrest | Case study of wrongful arrest]]
+- [[factors_leading_to_false_accusations | Factors leading to false accusations]]
+
+### [The Case of Lee Rodarte](https://www.youtube.com/watch?v=L0H6xYwMQnk)
+- [[disappearance_of_savannah_gold | Disappearance of Savannah Gold]]
+- [[investigative_techniques_in_crime_cases | Investigative techniques in crime cases]]
+- [[interrogation_strategies_used_by_detectives | Interrogation strategies used by detectives]]
+- [[murder_confession_and_its_consequences | Murder confession and its consequences]]
+- [[savannah_golds_case_trial_developments | Savannah Golds case trial developments]]
+
+### [The Case of Michael Rafferty](https://www.youtube.com/watch?v=1J2YOLQM2Yc)
+- [[timeline_of_tori_staffords_disappearance | Timeline of Tori Staffords disappearance]]
+- [[surveillance_footage_and_public_appeal | Surveillance footage and public appeal]]
+- [[terry_lynn_mcclintocks_confession | Terry Lynn McClintocks confession]]
+- [[interrogation_of_michael_rafferty | Interrogation of Michael Rafferty]]
+- [[trial_and_sentencing_of_michael_rafferty_and_terry_lynn_mcclintock | Trial and sentencing of Michael Rafferty and Terry Lynn McClintock]]
 
 ### [There's Something About Casey...](https://www.youtube.com/watch?v=eJt_afGN3IQ)
-- [[casey_anthony_psychological_profile | Casey Anthony psychological profile]]
-- [[casey_anthony_trial_and_verdict | Casey Anthony trial and verdict]]
-- [[media_influence_on_legal_proceedings | Media influence on legal proceedings]]
-- [[casey_anthonys_behavior_and_public_perception | Casey Anthonys behavior and public perception]]
-- [[kaylee_anthonys_disappearance_and_investigation | Kaylee Anthonys disappearance and investigation]]
-
-### [Son Spends $275,000 of Dad’s Money on Virtual Girlfriend](https://www.youtube.com/watch?v=4iluOmq1DYY)
-- [[online_cam_model_addiction | Online cam model addiction]]
-- [[family_dynamics_and_conflict | Family dynamics and conflict]]
-- [[financial_consequences_of_addiction | Financial consequences of addiction]]
-- [[mental_health_and_rehabilitation | Mental health and rehabilitation]]
-- [[criminal_investigation_and_interrogation_techniques | Criminal investigation and interrogation techniques]]
+- [[psychological_analysis_of_casey_anthony | Psychological analysis of Casey Anthony]]
+- [[kaylee_anthonys_disappearance_and_death | Kaylee Anthonys disappearance and death]]
+- [[casey_anthonys_behavior_and_legal_proceedings | Casey Anthonys behavior and legal proceedings]]
+- [[media_coverage_and_public_perception_of_the_anthony_case | Media coverage and public perception of the Anthony case]]
+- [[trial_strategies_and_courtroom_dynamics | Trial strategies and courtroom dynamics]]
 
 ### [Jennifer's Solution](https://www.youtube.com/watch?v=UQt46gvYO40)
-- [[jennifer_pans_background_and_family_expectations | Jennifer Pans background and family expectations]]
-- [[the_plan_and_execution_of_the_home_invasion | The plan and execution of the home invasion]]
-- [[jennifers_interrogation_and_confession | Jennifers interrogation and confession]]
-- [[the_investigation_and_trial_outcomes | The investigation and trial outcomes]]
-- [[psychological_manipulation_techniques_in_police_interrogations | Psychological manipulation techniques in police interrogations]]
+- [[jennifer_pan_case_overview | Jennifer Pan case overview]]
+- [[the_psychological_profile_of_jennifer_pan | The psychological profile of Jennifer Pan]]
+- [[parentchild_dynamics_in_the_pan_family | Parentchild dynamics in the Pan family]]
+- [[the_investigation_and_interrogation_techniques | The investigation and interrogation techniques]]
+- [[court_trial_and_sentencing_of_jennifer_pan | Court trial and sentencing of Jennifer Pan]]
+
+### [The Case of Michael Dunn](https://www.youtube.com/watch?v=sVF_SlzxBJ4)
+- [[michael_dunn_shooting_incident | Michael Dunn shooting incident]]
+- [[legal_implications_and_court_proceedings | Legal implications and court proceedings]]
+- [[selfdefense_claims_and_controversy | Selfdefense claims and controversy]]
+- [[interrogation_and_psychological_analysis | Interrogation and psychological analysis]]
+- [[impact_on_victims_and_families | Impact on victims and families]]
 
 ### [Wrath of Jodi](https://www.youtube.com/watch?v=N274EurzpAA)
-- [[jodi_ariass_early_life_and_background | Jodi Ariass early life and background]]
+- [[jodi_arias_early_life | Jodi Arias early life]]
 - [[relationship_between_jodi_arias_and_travis_alexander | Relationship between Jodi Arias and Travis Alexander]]
-- [[details_and_aftermath_of_travis_alexanders_murder | Details and aftermath of Travis Alexanders murder]]
+- [[crime_details_and_investigation | Crime details and investigation]]
 - [[interrogation_and_trial_of_jodi_arias | Interrogation and trial of Jodi Arias]]
-- [[psychological_and_legal_strategies_in_jodi_ariass_defense | Psychological and legal strategies in Jodi Ariass defense]]
+- [[media_portrayal_and_public_perception_of_jodi_arias | Media portrayal and public perception of Jodi Arias]]
 
-### [Yeardley's Ex-Boyfriend](https://www.youtube.com/watch?v=CGuEdN-ju2g)
-- [[yardley_love_and_george_huguleys_relationship_history | Yardley Love and George Huguleys relationship history]]
-- [[details_of_yardley_loves_death_and_the_investigation | Details of Yardley Loves death and the investigation]]
-- [[interrogation_strategies_and_suspect_confession | Interrogation strategies and suspect confession]]
-- [[george_huguleys_trial_and_sentencing | George Huguleys trial and sentencing]]
-- [[impact_and_legacy_through_the_one_love_foundation | Impact and legacy through the One Love Foundation]]
+### [Son Spends $275,000 of Dad’s Money on Virtual Girlfriend](https://www.youtube.com/watch?v=4iluOmq1DYY)
+- [[online_addiction_and_its_consequences | Online addiction and its consequences]]
+- [[family_dynamics_and_financial_strain | Family dynamics and financial strain]]
+- [[crime_investigation_and_interrogation_techniques | Crime investigation and interrogation techniques]]
+- [[mental_health_and_behavioral_rehabilitation | Mental health and behavioral rehabilitation]]
+- [[legal_proceedings_and_sentencing | Legal proceedings and sentencing]]
 
 ### [The Interrogation of Col. Russell Williams](https://www.youtube.com/watch?v=jJZv3z7FOt0)
-- [[the_military_career_of_col_russell_williams | The military career of Col Russell Williams]]
-- [[crimes_associated_with_col_russell_williams | Crimes associated with Col Russell Williams]]
-- [[interrogation_tactics_used_by_detective_sgt_jim_smith | Interrogation tactics used by Detective Sgt Jim Smith]]
-- [[the_investigation_into_jessica_lloyds_disappearance | The investigation into Jessica Lloyds disappearance]]
-- [[the_case_of_marie_france_como | The case of Marie France Como]]
+- [[russell_williams_military_career_and_rise_to_colonel | Russell Williams military career and rise to Colonel]]
+- [[investigation_into_jessica_lloyds_disappearance | Investigation into Jessica Lloyds disappearance]]
+- [[detective_strategies_in_police_interrogations | Detective strategies in police interrogations]]
+- [[connection_between_russell_williams_and_multiple_criminal_cases | Connection between Russell Williams and multiple criminal cases]]
+- [[details_of_the_crimes_linked_to_russell_williams | Details of the crimes linked to Russell Williams]]
 
 ### [Husband tries to act](https://www.youtube.com/watch?v=6d-kCW46kqs)
-- [[david_tronis_and_shanti_cooper_murder_case | David Tronis and Shanti Cooper murder case]]
-- [[reality_television_ambitions_and_consequences | Reality television ambitions and consequences]]
-- [[detective_interrogation_techniques | Detective interrogation techniques]]
-- [[trial_and_conviction_for_firstdegree_murder | Trial and conviction for firstdegree murder]]
-- [[psychological_defense_strategies_in_court_cases | Psychological defense strategies in court cases]]
+- [[reality_tv_aspirations_and_personal_conflicts | Reality TV aspirations and personal conflicts]]
+- [[the_crime_details_and_investigation_process | The crime details and investigation process]]
+- [[interrogation_techniques_used_by_detectives | Interrogation techniques used by detectives]]
+- [[courtroom_proceedings_and_defense_strategies | Courtroom proceedings and defense strategies]]
+- [[emotion_and_behavior_analysis_in_criminal_cases | Emotion and behavior analysis in criminal cases]]
+
+### [Yeardley's Ex-Boyfriend](https://www.youtube.com/watch?v=CGuEdN-ju2g)
+- [[yardley_loves_death | Yardley Loves death]]
+- [[george_hugueleys_trial_and_interrogation | George Hugueleys trial and interrogation]]
+- [[one_love_foundation | One Love Foundation]]
+- [[domestic_violence_and_its_consequences | Domestic violence and its consequences]]
+- [[legal_rights_and_interrogation_strategies | Legal rights and interrogation strategies]]

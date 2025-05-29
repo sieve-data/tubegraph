@@ -5,24 +5,37 @@ videoId: sVF_SlzxBJ4
 
 From: [[jcs]] <br/> 
 
-The shooting incident on November 23, 2012, at a Gate gas station on Bay Meadows Road resulted in the death of a teenager and had significant impacts on multiple individuals involved.
+The shooting incident significantly impacted both the direct victims and their families, as well as those closely associated with the perpetrator.
 
-## Jordan Davis and His Companions
-Jordan Davis, a 17-year-old, was struck three times during the shooting by Michael Dunn, sustaining wounds to the leg, lungs, and heart, which led to him bleeding to death in under 45 seconds [00:08:48]. His companions, Tommy Storms, Leyland Brunson, and Tevin Thompson, were also in the vehicle at the time of the shooting [00:05:08]. Quick thinking by Tommy Storms, who put the car in reverse and backed up at full speed, is credited with likely saving multiple lives [00:08:39].
+## The Deceased Victim: Jordan Davis
 
-The victims, including Jordan Davis, were described by detectives as not having a history of violence or a track record of criminal behavior [00:35:37]. The purpose of their stop at the gas station was for the driver to buy cigarettes after returning from the mall [00:36:04].
+The primary victim of the shooting was 17-year-old Jordan Davis <a class="yt-timestamp" data-t="0:08:57">[0:08:57]</a>. He was struck three times, sustaining wounds to his leg, lungs, and heart, which led to him bleeding to death in under 45 seconds <a class="yt-timestamp" data-t="0:08:52">[0:08:52]</a>. Investigators noted that Jordan Davis had no history of violence and no criminal record, nor did the other occupants of the vehicle <a class="yt-timestamp" data-t="0:35:38">[0:35:38]</a>. They were described as "not violent guys" <a class="yt-timestamp" data-t="0:35:58">[0:35:58]</a>, having just returned from the mall and stopping for cigarettes <a class="yt-timestamp" data-t="0:36:07">[0:36:07]</a>.
 
-## Michael Dunn's Perspective on Being a Victim
-Michael Dunn, the shooter, repeatedly asserted that he was the victim in the incident. He claimed to have been "preyed upon" and fought back [00:01:23]. He stated, "I refuse to be a victim and now I'm incarcerated" [00:01:43]. Dunn claimed he was going to be killed for merely asking the occupants of the other vehicle to turn down their radio [00:01:49]. During his interrogation, Dunn stated he was "scared" [00:18:16], "never been so scared in my life" [00:19:54], and acted out of "panic" without time to think, only reacting [00:30:22], [00:45:05]. He maintained that he believed the individuals in the other car had a weapon, describing seeing a "shotgun," "barrel," or "stick" [00:16:40], [00:23:55], [00:24:28].
+## Other Occupants of the Vehicle
 
-Detectives challenged Dunn's narrative, noting his apparent boasting about his gun handling skills during the interrogation despite claiming to be traumatized [00:17:43]. They also pointed out inconsistencies in his story, such as why he didn't call the police immediately if he felt threatened, and the lack of any weapon found in the victims' vehicle [00:21:56], [00:27:40].
+The other two occupants of the Dodge Durango, Tevin Thompson and Leyland Brunson, along with the driver Tommy Storms, were also in the line of fire. Quick thinking by Tommy Storms, who put the car in reverse, likely saved multiple lives <a class="yt-timestamp" data-t="0:08:40">[0:08:40]</a>. Despite the vehicle being hit by multiple shots, including three directly through the front passenger side door and one narrowly missing the driver's head, the other three occupants were physically unharmed <a class="yt-timestamp" data-t="0:08:10">[0:08:10]</a>, <a class="yt-timestamp" data-t="0:43:13">[0:43:13]</a>, <a class="yt-timestamp" data-t="0:43:40">[0:43:40]</a>.
 
-## Rhonda Rauer's Experience
-Rhonda Rauer, Michael Dunn's fiancée, was with him during the incident. She realized her fiancée was the shooter approximately 20 seconds after the gunfire ceased [00:09:00]. Upon returning to the car, Michael urgently told her to "get in the car" [00:09:13]. When she asked what happened, he replied, "I shot at the car" [00:09:45]. Michael later told her they "threatened to kill me," and "they started to advance and I reacted" [00:10:00].
+## Michael Dunn's Fiancee: Rhonda Rauer
 
-Rhonda privately considered Michael's actions to be "stupid" but kept her thoughts to herself to avoid adding to his upset [00:10:34]. The morning after the shooting, she saw news of a "shooting convenience store," "loud music," and "one dead" person, which made her realize the severity of the situation [00:11:46]. She urged Michael to go home, describing the drive as a "horrible trip home" during which she didn't want to hear anything, only wanting to get home [00:12:41].
+Rhonda Rauer, Michael Dunn's fiancee, was inside the gas station store during the shooting <a class="yt-timestamp" data-t="0:05:59">[0:05:59]</a>. Roughly 20 seconds after the gunfire ceased, she realized her fiance had fired the shots and went outside <a class="yt-timestamp" data-t="0:09:00">[0:09:00]</a>. Dunn urgently told her to "get in the car" <a class="yt-timestamp" data-t="0:09:13">[0:09:13]</a>.
 
-During her interview with police four days later, Rhonda refuted Michael's claims about seeing a weapon or him taking his gun into the hotel room [00:20:29], [00:55:22]. She stated that Michael never told her he saw a gun, weapon, stick, shotgun, barrel, or lead pipe in the other SUV at any point, from the gas station to the hotel to the drive home [00:55:22].
+In the car, Rhonda asked what happened, and Dunn replied he "shot at the car" because "they threatened to kill me" <a class="yt-timestamp" data-t="0:09:40">[0:09:40]</a>. When asked if he hurt anyone, he stated, "no I just shot at the car" <a class="yt-timestamp" data-t="0:10:16">[0:10:16]</a>. Rhonda admitted she was thinking, "you stupid ass, what were you thinking why would you do this" but kept those thoughts to herself as he was already upset <a class="yt-timestamp" data-t="0:10:34">[0:10:34]</a>.
 
-## Legal Outcomes
-On February 15, 2014, Michael Dunn was found guilty on three counts of attempted murder, receiving a 90-year sentence [00:56:24]. Seven months later, on October 1, he was given an additional life sentence without the possibility of parole [00:56:31]. His appeal was denied on November 17, 2016 [00:56:35]. He is currently held at the maximum security Oregon State Penitentiary [00:56:41].
+The next morning, Rhonda saw news of a shooting at a convenience store involving a red SUV, loud music, and "one dead" <a class="yt-timestamp" data-t="0:11:30">[0:11:30]</a>. She confronted Dunn, who confirmed he saw the news <a class="yt-timestamp" data-t="0:11:53">[0:11:53]</a>. Rhonda immediately urged them to "go home" <a class="yt-timestamp" data-t="0:12:03">[0:12:03]</a>. The drive home was described as "horrible" <a class="yt-timestamp" data-t="0:12:41">[0:12:41]</a>, with Rhonda not wanting to hear anything, just wanting to get home <a class="yt-timestamp" data-t="0:12:50">[0:12:50]</a>.
+
+During her interview, Rhonda refuted many of Dunn's claims, stating he never mentioned seeing a gun, weapon, stick, shotgun, barrel, or lead pipe in the other vehicle, either immediately after the shooting, back at the hotel, or during the two-hour drive home <a class="yt-timestamp" data-t="0:55:20">[0:55:20]</a>, <a class="yt-timestamp" data-t="0:55:48">[0:55:48]</a>, <a class="yt-timestamp" data-t="0:56:03">[0:56:03]</a>.
+
+## Michael Dunn's Self-Perception
+
+Throughout his interrogation and trial, Michael Dunn repeatedly portrayed himself as the victim.
+
+> [!QUOTE] Michael Dunn: "I'm the victim here, I was the one that was being preyed upon and I fought back." <a class="yt-timestamp" data-t="0:01:18">[0:01:18]</a>
+>
+> [!QUOTE] Michael Dunn: "I refuse to be a victim and now I'm incarcerated." <a class="yt-timestamp" data-t="0:01:43">[0:01:43]</a>
+
+He claimed to have been "scared for his life" and in "such a panic" <a class="yt-timestamp" data-t="0:39:44">[0:39:44]</a>. He also expressed emotional distress over his fiancee and their dog, Charlie, during his testimony, attempting to portray himself as a noble and selfless individual protecting his loved ones <a class="yt-timestamp" data-t="0:52:56">[0:52:56]</a>. However, prosecutors noted his lack of emotion when discussing taking a young man's life <a class="yt-timestamp" data-t="0:53:48">[0:53:48]</a>.
+
+The detectives challenged Dunn's narrative, questioning why he didn't call the police if he was truly a victim and emphasizing that there was no weapon found in the victims' car <a class="yt-timestamp" data-t="0:21:56">[0:21:56]</a>, <a class="yt-timestamp" data-t="0:27:40">[0:27:40]</a>. They stated that his actions of shooting at a fleeing vehicle were an "issue" because they were "no longer a threat" <a class="yt-timestamp" data-t="0:28:08">[0:28:08]</a>.
+
+> [!INFO] Michael Dunn's Conviction
+> On February 15, 2014, Michael Dunn was found guilty on three counts of [[Legal consequences of crime | attempted murder]], receiving a 90-year sentence <a class="yt-timestamp" data-t="0:56:20">[0:56:20]</a>. Seven months later, on October 1, he was rendered an additional life sentence without the possibility of parole <a class="yt-timestamp" data-t="0:56:29">[0:56:29]</a>. His appeal was denied on November 17, 2016 <a class="yt-timestamp" data-t="0:56:35">[0:56:35]</a>. He is currently held at the maximum security Oregon State Penitentiary <a class="yt-timestamp" data-t="0:56:41">[0:56:41]</a>.
