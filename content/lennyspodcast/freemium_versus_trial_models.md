@@ -1,50 +1,48 @@
 ---
-title: Freemium versus trial models
+title: freemium versus trial models
 videoId: UTmFuSZfJ9U
 ---
 
 From: [[lennyspodcast]] <br/> 
 
-Freemium and trial models both allow for free usage of a product, but they differ fundamentally in their time component and strategic application <a class="yt-timestamp" data-t="00:42:32">[00:42:32]</a>.
+Elena Verna, an expert in growth strategy, highlights key distinctions and best practices when considering [[different_pricing_models_and_when_to_use_them | freemium versus trial models]] for product growth <a class="yt-timestamp" data-t="01:18:20">[01:18:20]</a>.
 
 ## Defining the Models
 
-*   **Freemium** allows users to use a product in some free capacity, typically with feature walls or usage walls, but it offers an ongoing, "forever free" component <a class="yt-timestamp" data-t="00:42:13">[00:42:13]</a>.
-*   **Trial** also allows product usage, but it is time-bound, meaning access expires after a set period <a class="yt-timestamp" data-t="00:42:26">[00:42:26]</a>.
+*   **Freemium:** A model where users are allowed to use a product in some free capacity, often with feature or usage walls, but with an ongoing "forever free" component <a class="yt-timestamp" data-t="00:42:09">[00:42:09]</a>.
+*   **Trial:** Similar to freemium in allowing free product usage, but with a specific time component, making it time-bound <a class="yt-timestamp" data-t="00:42:26">[00:42:26]</a>.
 
-While seemingly similar, the key difference is the presence of a superficial time constraint in trials <a class="yt-timestamp" data-t="00:42:39">[00:42:39]</a>.
+While fundamentally similar in offering free usage, the key difference lies in the trial's "superficial time bound" <a class="yt-timestamp" data-t="00:42:34">[00:42:34]</a>.
 
-## Challenges with Time-Bound Trials
+## The Problem with Time-Bound Trials
 
-Time-bound trials often create issues because the time needed to evaluate a product can vary significantly between users <a class="yt-timestamp" data-t="00:42:47">[00:42:47]</a>. For instance, a small startup might complete a project in 24-48 hours, while a large enterprise with many dependencies could take a month or more <a class="yt-timestamp" data-t="00:42:56">[00:42:56]</a>.
+Time-bound trials often create issues because the amount of time required for users to try a product can vary significantly <a class="yt-timestamp" data-t="00:42:47">[00:42:47]</a>. For instance, a small startup might complete a project in 24-48 hours, while a large enterprise with numerous dependencies could take a month <a class="yt-timestamp" data-t="00:42:56">[00:42:56]</a>.
 
-This time constraint can alienate large enterprises from truly trying a product unless they constantly renew their trials <a class="yt-timestamp" data-t="00:43:21">[00:43:21]</a>. Users are busy, and a short trial period can be a stressful environment that doesn't align with how long it takes to gain value from a product <a class="yt-timestamp" data-t="00:44:41">[00:44:41]</a>.
+A 7-day trial, for example, might suit a small startup but completely alienate a large enterprise that needs more time to assess the product <a class="yt-timestamp" data-t="00:43:12">[00:43:12]</a>. This means companies using time-based trials, especially in B2B, risk alienating larger organizations from genuinely trying their products, unless they repeatedly renew trials for months <a class="yt-timestamp" data-t="00:43:21">[00:43:21]</a>.
 
-## Benefits and Strategic Uses of Freemium
+Verna advises against creating a "superficial time component" that isn't a good measure of how long it takes to derive value from a product <a class="yt-timestamp" data-t="00:43:41">[00:43:41]</a>.
 
-Instead of time-bound trials, it's advisable to push towards a usage-based metric that isn't time-dependent <a class="yt-timestamp" data-t="00:43:53">[00:43:53]</a>.
+## Strategic Reasons for Freemium
 
-An example of a usage-based freemium model that is effectively a trial in disguise is MongoDB, which offers a free community cluster for development. This allows users to prototype and understand if MongoDB is the right solution without a time limit, ensuring any production use case transitions to their paid model <a class="yt-timestamp" data-t="00:43:57">[00:43:57]</a>.
+Instead of time-bound trials, freemium models offer various strategic advantages beyond mere conversion rate optimization <a class="yt-timestamp" data-t="00:49:52">[00:49:52]</a>:
 
-Even products with high-friction activation, such as Amplitude, Twilio, and Contentful, can benefit from freemium models <a class="yt-timestamp" data-t="00:45:20">[00:45:20]</a>. The challenge of high friction often depends on the segment; small businesses may have less friction than large enterprises <a class="yt-timestamp" data-t="00:45:35">[00:45:35]</a>. The constant [[innovative_product_launching_strategies | innovation]] in the field, including no-code platforms, helps reduce the cost and complexity of self-serve provisioning <a class="yt-timestamp" data-t="00:46:37">[00:46:37]</a>. Companies like Snowflake and Okta are also adopting freemium versions <a class="yt-timestamp" data-t="00:46:58">[00:46:58]</a>.
+*   **Proof of Concept (POC):** Freemium can serve as an excellent POC, allowing users to play around with the product and understand if it's the right solution without time pressure <a class="yt-timestamp" data-t="00:43:55">[00:43:55]</a>. For instance, MongoDB offers a free, shared cluster that is suitable for prototyping but not for production use cases, effectively acting as a usage-based freemium without a time limit <a class="yt-timestamp" data-t="00:44:03">[00:44:03]</a>.
+*   **Indirect Monetization (Virality/Network Effects):** Freemium can drive [[the_role_of_referrals_and_freemium_in_product_growth | indirect monetization]] through virality or network effects <a class="yt-timestamp" data-t="00:47:50">[00:47:50]</a>.
+    *   Miro offers three editable boards for free, which is enough for some users. This is acceptable because these free users acquire others by sharing and collaborating on boards <a class="yt-timestamp" data-t="00:47:57">[00:47:57]</a>.
+    *   SurveyMonkey had half of its user base as free users who were healthy and retained, and these users were responsible for 100% of their acquisition, reducing the need for extensive marketing and sales spending <a class="yt-timestamp" data-t="00:48:16">[00:48:16]</a>.
+*   **Strategic Land:** A freemium model can help land customers you might not intend to monetize immediately, but with whom you want to expand later <a class="yt-timestamp" data-t="00:48:41">[00:48:41]</a>.
+*   **Commoditization:** If your offering is becoming commoditized, freemium might be a necessity. The challenge then becomes differentiating yourself within the free space through innovation <a class="yt-timestamp" data-t="00:48:47">[00:48:47]</a>.
+*   **Breeding Ground for Discovery:** Freemium can be a "breeding ground for adjacent use cases and adjacent personas" that allow companies to discover new market trends and pivot their roadmap accordingly <a class="yt-timestamp" data-t="00:49:11">[00:49:11]</a>.
+*   **Data Collection for Product Building:** Freemium can be used to collect data that helps build and improve paid products <a class="yt-timestamp" data-t="00:49:25">[00:49:25]</a>. LinkedIn, for example, built its Sales Navigator and recruiting products on top of a strong freemium base, which was essential for selling its paid offerings <a class="yt-timestamp" data-t="00:49:30">[00:49:30]</a>.
 
-### Strategic Reasons for Freemium
+## What to Make Free
 
-Having a freemium model requires a clear strategy beyond merely improving conversion rates for paid users <a class="yt-timestamp" data-t="00:49:51">[00:49:51]</a>. Freemium can serve several strategic business impacts:
+When deciding what to offer for free, consider the following:
+*   **Indirect Monetization:** If it helps drive virality or network effects, it should likely be free <a class="yt-timestamp" data-t="00:50:34">[00:50:34]</a>.
+*   **Universal Sufficiency:** If the feature suffices for nearly every user regardless of complexity, it might be a commoditized feature and should be free <a class="yt-timestamp" data-t="00:50:40">[00:50:40]</a>.
+*   **Aha Moment:** If it helps users reach their "aha moment" quickly, it should be part of the free offering as a POC <a class="yt-timestamp" data-t="00:50:51">[00:50:51]</a>.
+*   **Habit Loops:** Features that create habit loops, like notifications or communication channels, should be free <a class="yt-timestamp" data-t="00:50:58">[00:50:58]</a>.
 
-*   **Proof of Concept (POC):** Like MongoDB, it can be a fantastic way for users to test the product's value proposition without commitment <a class="yt-timestamp" data-t="00:46:14">[00:46:14]</a>.
-*   **Indirect Monetization:** A freemium tier can drive significant indirect monetization through virality or network effects. For example, Miro offers three editable boards for free, which may not generate direct revenue but helps acquire other users through collaboration <a class="yt-timestamp" data-t="00:47:50">[00:47:50]</a>. Similarly, SurveyMonkey's free user base drove 100% of its acquisition, reducing the need for extensive marketing and sales spending <a class="yt-timestamp" data-t="00:48:16">[00:48:16]</a>.
-*   **Strategic Land:** Freemium can be used to acquire customers in segments that a company may not intend to monetize immediately, but plans to expand with later <a class="yt-timestamp" data-t="00:48:43">[00:48:43]</a>.
-*   **Response to Commoditization:** If a product's core offering is becoming commoditized, a freemium tier may be necessary to compete <a class="yt-timestamp" data-t="00:48:47">[00:48:47]</a>. In this case, differentiation through innovation in the free offering becomes crucial <a class="yt-timestamp" data-t="00:48:57">[00:48:57]</a>.
-*   **Product Development and Data Collection:** Freemium can serve as a breeding ground for discovering adjacent use cases and personas, allowing companies to pivot their roadmap and stay ahead of trends <a class="yt-timestamp" data-t="00:49:11">[00:49:11]</a>. LinkedIn, for example, used its strong freemium base to build its paid Sales Navigator and recruiting products <a class="yt-timestamp" data-t="00:49:31">[00:49:31]</a>.
+Generally, anything that creates friction for the growth model should be gated in the paid tier, while anything that promotes the growth model should be free <a class="yt-timestamp" data-t="00:51:09">[00:51:09]</a>. The ultimate goal is to understand how the free offering helps achieve growth outcomes without sacrificing monetization potential <a class="yt-timestamp" data-t="00:51:27">[00:51:27]</a>.
 
-## Designing a Freemium Model
-
-When deciding what to offer for free in a freemium model, consider the following:
-
-*   Does it help with indirect monetization (e.g., virality, network effects)? <a class="yt-timestamp" data-t="00:50:34">[00:50:34]</a>
-*   Does it suffice for every user regardless of complexity (potentially a commoditized feature)? <a class="yt-timestamp" data-t="00:50:40">[00:50:40]</a>
-*   Does it help achieve the "aha moment" or act as a proof of concept? <a class="yt-timestamp" data-t="00:50:51">[00:50:51]</a>
-*   Does it create habit loops (e.g., notifications, communication channels)? <a class="yt-timestamp" data-t="00:50:58">[00:50:58]</a>
-
-Ultimately, features that create friction for a [[developing_a_growth_model | growth model]] should be gated for paid users, while those that promote it should be offered for free <a class="yt-timestamp" data-t="00:51:12">[00:51:12]</a>. The core question is always how freemium helps achieve [[developing_a_growth_model | growth model]] outcomes without sacrificing monetization potential <a class="yt-timestamp" data-t="00:51:29">[00:51:29]</a>.
+Even products with high-friction activations, like Octa, Zendesk, Looker, Amplitude, MongoDB, Twilio, and Contentful, are moving towards or already have some version of freemium <a class="yt-timestamp" data-t="00:45:18">[00:45:18]</a>. This shift is driven by the industry's continuous innovation to lower the cost of provisioning complicated workflows via self-serve <a class="yt-timestamp" data-t="00:46:32">[00:46:32]</a>. If a company doesn't adopt freemium, a competitor likely will, leveraging it as a "Trojan horse" into organizations through user focus <a class="yt-timestamp" data-t="00:47:09">[00:47:09]</a>.

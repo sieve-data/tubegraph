@@ -1,0 +1,29 @@
+---
+title: Superhumans AI integration
+videoId: 0igjSRZyX-w
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Superhuman, an email tool designed for high-performing individuals and teams, has significantly evolved its product with the integration of [[the_evolving_capabilities_and_future_potential_of_ai | AI]] and Large Language Models (LLMs) <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>. This strategic shift has dramatically increased Superhuman's product velocity and enabled new capabilities for users <a class="yt-timestamp" data-t="01:39:56">[01:39:56]</a>, <a class="yt-timestamp" data-t="01:40:08">[01:40:08]</a>.
+
+## Flagship AI Features
+
+Superhuman has launched multiple key [[developing_ai_products_and_utilizing_technology | AI features]] <a class="yt-timestamp" data-t="01:10:06">[01:10:06]</a>:
+
+*   **Write with AI** <a class="yt-timestamp" data-t="01:10:09">[01:10:09]</a>: This feature allows users to jot down a few words, which are then transformed into a fully written email <a class="yt-timestamp" data-t="01:10:11">[01:10:11]</a>. A key differentiator is its ability to match the user's voice and tone from previously sent emails, making the AI-generated content sound authentic to the user <a class="yt-timestamp" data-t="01:10:15">[01:10:15]</a>. This feature is highly popular, with users interacting with it approximately 37 times per week <a class="yt-timestamp" data-t="01:10:29">[01:10:29]</a>.
+*   **Auto Summarize** <a class="yt-timestamp" data-t="01:10:35">[01:10:35]</a>: Provides a one-line summary above every conversation, which updates instantly as new emails arrive <a class="yt-timestamp" data-t="01:10:37">[01:10:37]</a>. Unlike other tools, it's precomputed, enhancing its premium feel and performance <a class="yt-timestamp" data-t="01:10:46">[01:10:46]</a>.
+*   **Instant Reply** <a class="yt-timestamp" data-t="01:10:53">[01:10:53]</a>: Envisions an inbox where every email already has a draft reply, requiring users to simply edit and send, sometimes without any edits at all <a class="yt-timestamp" data-t="01:10:57">[01:10:57]</a>. The percentage of AI-written and sent emails via Superhuman grew fourfold in 2024 alone <a class="yt-timestamp" data-t="01:11:12">[01:11:12]</a>.
+*   **Ask AI** <a class="yt-timestamp" data-t="01:11:22">[01:11:22]</a>: Leverages email as a "treasure trove of critical information" <a class="yt-timestamp" data-t="01:11:26">[01:11:26]</a>. Instead of traditional search methods, users can ask natural language questions like "where is the Q1 offsite?" or "what are my flight details?" <a class="yt-timestamp" data-t="01:11:45">[01:11:45]</a>. This feature can generate reports or find information in seconds that previously took minutes <a class="yt-timestamp" data-t="01:11:59">[01:11:59]</a>. This is an example of [[integrating_ai_in_search_results | integrating AI in search results]].
+*   **Auto Labels** <a class="yt-timestamp" data-t="01:12:20">[01:12:20]</a>: Allows users to create short prompts (e.g., "job applications" or "requests to review work") <a class="yt-timestamp" data-t="01:12:23">[01:12:23]</a>. Superhuman then immediately identifies and labels emails that match these prompts <a class="yt-timestamp" data-t="01:12:31">[01:12:31]</a>.
+*   **Auto Reminders** <a class="yt-timestamp" data-t="01:12:37">[01:12:37]</a>: Automatically sets a reminder if an email needs a response, ensuring users never drop the ball <a class="yt-timestamp" data-t="01:12:38">[01:12:38]</a>.
+*   **Autodrafts** <a class="yt-timestamp" data-t="01:12:50">[01:12:50]</a>: Automatically drafts follow-up emails and will soon draft replies for nearly every email requiring a response <a class="yt-timestamp" data-t="01:12:52">[01:12:52]</a>.
+*   **Workflows** <a class="yt-timestamp" data-t="01:13:02">[01:13:02]</a>: Enables turning email interactions into repeatable, automated workflows <a class="yt-timestamp" data-t="01:13:04">[01:13:04]</a>. For example, processing job applications by automatically replying to candidates and forwarding resumes to the HR team, even while the user is away <a class="yt-timestamp" data-t="01:13:10">[01:13:10]</a>. These are examples of [[ai_agents_and_their_impact | AI Agents]].
+
+## Insights from Building with AI
+
+Rahul Vora noted the unpredictability of user adoption for AI features <a class="yt-timestamp" data-t="01:14:31">[01:14:31]</a>. While "Write with AI" might seem like a commodity feature, its popularity was surprisingly high <a class="yt-timestamp" data-t="01:14:39">[01:14:39]</a>. Conversely, some AI features expected to see heavy usage did not meet those expectations <a class="yt-timestamp" data-t="01:15:13">[01:15:13]</a>. This led to a humorous observation: "Basically everything I thought would work out well, people use it less than I thought they did. And everything where I was like, I don't know, but let's build the thing. People love that" <a class="yt-timestamp" data-t="01:15:24">[01:15:24]</a>. This highlights the importance of user feedback and iterative development in [[developing_ai_products_and_utilizing_technology | AI product development]].
+
+## Impact on Enterprise Strategy
+
+The advanced [[the_evolving_capabilities_and_future_potential_of_ai | AI capabilities]] have positioned Superhuman for growth in the [[enterprise_ai_solutions_and_user_adaptation | enterprise market]] <a class="yt-timestamp" data-t="01:15:44">[01:15:44]</a>. Superhuman's ability to save users significant time is a key selling point in the enterprise. A consulting firm independently corroborated Superhuman's claims, finding that it saved their partners 3.3 hours per person per week <a class="yt-timestamp" data-t="01:24:08">[01:24:08]</a>. They compared this efficiency gain to that of [[chat_gpt | ChatGPT]], indicating Superhuman's high value <a class="yt-timestamp" data-t="01:24:16">[01:24:16]</a>. This efficiency makes Superhuman a compelling solution for businesses looking to enhance productivity.

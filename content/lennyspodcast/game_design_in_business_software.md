@@ -1,60 +1,44 @@
 ---
-title: Game Design in Business Software
+title: Game design in business software
 videoId: 0igjSRZyX-w
 ---
 
 From: [[lennyspodcast]] <br/> 
 
-Rahul Vora, founder and CEO of Superhuman, advocates for the application of game design principles in building business software <a class="yt-timestamp" data-t="00:59:50">[00:59:50]</a>. His core belief is that when products are made like games, people find them fun, tell their friends, and fall in love with them, ultimately contributing to brand building and word-of-mouth growth <a class="yt-timestamp" data-t="01:00:06">[01:00:06]</a>. This approach represents a different kind of [[building_and_evolving_a_software_product | product development]] <a class="yt-timestamp" data-t="01:00:21">[01:00:21]</a>.
+Rahul Vora, founder and CEO of Superhuman, advocates for incorporating game design principles into business software, believing it can make products enjoyable, shareable, and lead to deeper user engagement <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. This approach aims to foster word-of-mouth growth and build a strong brand <a class="yt-timestamp" data-t="01:00:11">[01:00:11]</a>.
 
-## Game Design vs. Gamification
+## Distinguishing Game Design from Gamification
 
-Vora emphasizes a clear distinction between game design and gamification <a class="yt-timestamp" data-t="01:00:27">[01:00:27]</a>. Gamification, which he states "does not work" <a class="yt-timestamp" data-t="01:02:10">[01:02:10]</a>, is not simply adding points, levels, trophies, or badges to a product <a class="yt-timestamp" data-t="01:00:35">[01:00:35]</a>. When gamification *appears* to work, it's because the underlying experience was already designed like a game <a class="yt-timestamp" data-t="01:02:13">[01:02:13]</a>.
+Vora emphasizes that true game design is distinct from mere gamification <a class="yt-timestamp" data-t="01:00:26">[01:00:26]</a>. Gamification, which involves adding superficial elements like points, levels, trophies, or badges to a product, often fails <a class="yt-timestamp" data-t="01:00:35">[01:00:35]</a>. This is because it can undermine intrinsic motivation, which is crucial for genuine engagement <a class="yt-timestamp" data-t="01:02:06">[01:02:06]</a>.
 
-The ineffectiveness of gamification stems from how it interacts with human motivation <a class="yt-timestamp" data-t="01:00:43">[01:00:43]</a>.
+### The Science of Motivation
 
-### Stanford Study on Motivation
+To explain why gamification often falls short, Vora references a 1970s Stanford study involving children and drawing <a class="yt-timestamp" data-t="01:00:47">[01:00:47]</a>. The study differentiated between intrinsic and extrinsic motivation <a class="yt-timestamp" data-t="01:01:50">[01:01:50]</a>:
+*   **Intrinsic motivation** drives individuals to do things because they are inherently interesting and satisfying <a class="yt-timestamp" data-t="01:01:54">[01:01:54]</a>.
+*   **Extrinsic motivation** compels individuals to act to earn rewards or achieve external goals <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>.
 
-A Stanford study from the 1970s illustrates the difference between intrinsic and extrinsic motivation <a class="yt-timestamp" data-t="01:00:47">[01:00:47]</a>:
-*   Researchers recruited children aged 3 to 4 who were generally interested in drawing <a class="yt-timestamp" data-t="01:00:55">[01:00:55]</a>.
-*   Some children were told they would receive a certificate with a gold seal and ribbon (a reward) <a class="yt-timestamp" data-t="01:01:01">[01:01:01]</a>. Others were not told about any reward <a class="yt-timestamp" data-t="01:01:08">[01:01:08]</a>.
-*   Each child drew for six minutes <a class="yt-timestamp" data-t="01:01:15">[01:01:15]</a>.
-*   Over the next few days, observations showed how much they continued to draw independently <a class="yt-timestamp" data-t="01:01:22">[01:01:22]</a>.
-*   Children with no expected reward spent 17% of their time drawing <a class="yt-timestamp" data-t="01:01:29">[01:01:29]</a>.
-*   Children who expected a reward spent only 8% of their time drawing <a class="yt-timestamp" data-t="01:01:36">[01:01:36]</a>.
+The Stanford study found that children who expected a reward for drawing spent significantly less time drawing spontaneously later, compared to those who received no reward or an unexpected one <a class="yt-timestamp" data-t="01:01:36">[01:01:36]</a>. This demonstrates that the presence of an external reward can halve intrinsic motivation <a class="yt-timestamp" data-t="01:01:43">[01:01:43]</a>. Gamification, by relying on external rewards, often faces this same pitfall <a class="yt-timestamp" data-t="01:02:08">[01:02:08]</a>. When gamification does seem to work, it's often because the underlying experience was *already* designed like a game <a class="yt-timestamp" data-t="01:02:13">[01:02:13]</a>.
 
-The study concluded that the very presence of a reward can halve motivation <a class="yt-timestamp" data-t="01:01:43">[01:01:43]</a>.
-*   **Intrinsic motivation**: Doing things because they are inherently interesting and satisfying <a class="yt-timestamp" data-t="01:01:54">[01:01:54]</a>.
-*   **Extrinsic motivation**: Doing things to earn rewards and achieve external goals <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>.
-The problem with rewards is that they undermine intrinsic motivation, which is why gamification often fails <a class="yt-timestamp" data-t="01:02:04">[01:02:04]</a>.
+## Principles of Game Design at Superhuman
 
-## Principles of Game Design
+Drawing from his background as a professional game designer <a class="yt-timestamp" data-t="01:02:33">[01:02:33]</a>, Vora states that there isn't a single unifying theory for game design. Instead, it draws upon psychology, mathematics, storytelling, and [[importance_of_design_in_product_development | interaction design]] <a class="yt-timestamp" data-t="01:02:46">[01:02:46]</a>. At Superhuman, five key areas are prioritized for game design:
+1.  Goals <a class="yt-timestamp" data-t="01:02:56">[01:02:56]</a>
+2.  Emotions <a class="yt-timestamp" data-t="01:02:56">[01:02:56]</a>
+3.  Toys <a class="yt-timestamp" data-t="01:02:56">[01:02:56]</a>
+4.  Controls <a class="yt-timestamp" data-t="01:02:56">[01:02:56]</a>
+5.  Flow <a class="yt-timestamp" data-t="01:02:56">[01:02:56]</a>
 
-Vora, having been a professional game designer before founding Superhuman <a class="yt-timestamp" data-t="01:02:33">[01:02:33]</a>, notes that there is no unifying theory of game design <a class="yt-timestamp" data-t="01:02:39">[01:02:39]</a>. Instead, it draws upon psychology, mathematics, storytelling, and interaction design <a class="yt-timestamp" data-t="01:02:44">[01:02:44]</a>.
+### The "Toys" Principle
 
-At Superhuman, five key areas are considered for [[design_and_innovation_in_software_development | game design in software]] <a class="yt-timestamp" data-t="01:02:51">[01:02:51]</a>:
-1.  **Goals** <a class="yt-timestamp" data-t="01:02:56">[01:02:56]</a>
-2.  **Emotions** <a class="yt-timestamp" data-t="01:02:56">[01:02:56]</a>
-3.  **Toys** <a class="yt-timestamp" data-t="01:02:59">[01:02:59]</a>
-4.  **Controls** <a class="yt-timestamp" data-t="01:02:59">[01:02:59]</a>
-5.  **Flow** <a class="yt-timestamp" data-t="01:02:59">[01:02:59]</a>
+One core principle applied at Superhuman is to "make fun toys and then combine those into games" <a class="yt-timestamp" data-t="01:03:06">[01:03:06]</a>. The best games are built from enjoyable "toys" because they offer fun on both levels: the individual toy and the complete game <a class="yt-timestamp" data-t="01:03:27">[01:03:27]</a>.
 
-One key principle derived from these areas is to "make fun toys and then combine those into games" <a class="yt-timestamp" data-t="01:03:06">[01:03:06]</a>.
+An example of a "toy" in Superhuman is the time autocompleter <a class="yt-timestamp" data-t="01:03:41">[01:03:41]</a>, used for snoozing or setting reminders on emails. It allows users to type natural language (e.g., "2D" for 2 days, "3 H" for 3 hours, "1 MO" for 1 month) <a class="yt-timestamp" data-t="01:03:53">[01:03:53]</a>. This feature is considered fun because:
+*   It encourages playful exploration <a class="yt-timestamp" data-t="01:04:05">[01:04:05]</a>. Users often test its limits by trying various inputs like "10 10" (October 10th at 10:10 p.m.) or "in a Fortnite and a day" <a class="yt-timestamp" data-t="01:04:10">[01:04:10]</a>.
+*   It offers pleasant surprises, such as automatic time zone conversions <a class="yt-timestamp" data-t="01:04:34">[01:04:34]</a> and the ability to snooze emails "until never" with a shrug emoji <a class="yt-timestamp" data-t="01:04:48">[01:04:48]</a>.
 
-### The "Toy" Concept
+Vora advises product developers to consider if their features:
+*   Indulge playful exploration <a class="yt-timestamp" data-t="01:05:14">[01:05:14]</a>.
+*   Are fun even without a specific goal <a class="yt-timestamp" data-t="01:05:17">[01:05:17]</a>.
+*   Elicit moments of pleasant surprise <a class="yt-timestamp" data-t="01:05:19">[01:05:19]</a>.
 
-Toys differ from games: one plays *with* toys, but plays *games* <a class="yt-timestamp" data-t="01:03:17">[01:03:17]</a>. For example, a ball is a toy, but football is a game <a class="yt-timestamp" data-t="01:03:20">[01:03:20]</a>. The best games are built from toys because they are fun on both levels – the toy itself and the game <a class="yt-timestamp" data-t="01:03:27">[01:03:27]</a>.
-
-**Example: Superhuman's Time Autocompleter**
-Superhuman's time autocompleter is an example of a "toy" <a class="yt-timestamp" data-t="01:03:37">[01:03:37]</a>. This feature, which appears when snoozing or setting reminders for emails, allows users to type various inputs (e.g., "2D" for 2 days, "3 H" for 3 hours, "1 M O" for 1 month) and the system intelligently understands them <a class="yt-timestamp" data-t="01:03:41">[01:03:41]</a>.
-
-This feature is fun because it:
-*   **Indulges playful exploration** <a class="yt-timestamp" data-t="01:04:01">[01:04:01]</a>. Users experiment with inputs like "10" (October 10th at 10:10 p.m.) or "22" (February 2nd, 2022, at 2 p.m.) <a class="yt-timestamp" data-t="01:04:14">[01:04:14]</a>.
-*   **Provides pleasant surprises** <a class="yt-timestamp" data-t="01:04:30">[01:04:30]</a>. For instance, typing "in a Fortnite and a day" works <a class="yt-timestamp" data-t="01:04:27">[01:04:27]</a>, or typing a time in Tokyo will automatically calculate the Eastern Time equivalent <a class="yt-timestamp" data-t="01:04:36">[01:04:36]</a>. Users were also delighted to discover they could snooze emails "until never" with a shrug emoji <a class="yt-timestamp" data-t="01:04:45">[01:04:45]</a>.
-
-To incorporate game design into software, Vora encourages developers to consider whether their product features:
-*   Indulge playful exploration <a class="yt-timestamp" data-t="01:05:09">[01:05:09]</a>.
-*   Are fun even without a specific goal <a class="yt-timestamp" data-t="01:05:14">[01:05:14]</a>.
-*   Elicit moments of pleasant surprise <a class="yt-timestamp" data-t="01:05:17">[01:05:17]</a>.
-
-If features possess these qualities, they can be considered "toys" that can be combined to build a "game" <a class="yt-timestamp" data-t="01:05:23">[01:05:23]</a>.
+If these criteria are met, a feature can be considered a "toy" and can then be combined with others to build a more comprehensive and engaging "game" within the software <a class="yt-timestamp" data-t="01:05:23">[01:05:23]</a>.

@@ -2,694 +2,694 @@
 title: lennyspodcast
 ---
 ### [The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)](https://www.youtube.com/watch?v=YP_QghPLG-8)
-- [[importance_of_premortems_in_project_management | Importance of PreMortems in Project Management]]
-- [[effective_time_management_for_product_managers | Effective Time Management for Product Managers]]
-- [[three_levels_of_product_work_impact_execution_optics | Three Levels of Product Work Impact Execution Optics]]
-- [[understanding_execution_problems_strategy_vs_culture | Understanding Execution Problems Strategy vs Culture]]
-- [[prioritization_roi_vs_minimizing_opportunity_cost | Prioritization ROI vs Minimizing Opportunity Cost]]
-
-### [How Netflix builds a culture of excellence | Elizabeth Stone (CTO)](https://www.youtube.com/watch?v=2XgU6T4DalY)
-- [[netflixs_culture_of_high_talent_density_and_excellence | Netflixs culture of high talent density and excellence]]
-- [[impact_of_an_economics_background_in_technology_leadership | Impact of an economics background in technology leadership]]
-- [[importance_of_candid_feedback_and_the_keeper_test_at_netflix | Importance of candid feedback and the keeper test at Netflix]]
-- [[netflixs_compensation_strategy_and_talent_acquisition | Netflixs compensation strategy and talent acquisition]]
-- [[structure_and_effectiveness_of_netflixs_data_and_insights_teams | Structure and effectiveness of Netflixs data and insights teams]]
+- [[the_importance_and_process_of_premortems_in_project_management | The importance and process of premortems in project management]]
+- [[identifying_high_leverage_tasks_for_product_managers | Identifying high leverage tasks for product managers]]
+- [[understanding_the_three_levels_of_product_work_impact_execution_and_optics | Understanding the three levels of product work Impact Execution and Optics]]
+- [[the_concept_of_minimizing_opportunity_cost_in_project_prioritization | The concept of minimizing opportunity cost in project prioritization]]
+- [[building_high_agency_in_product_management_roles | Building high agency in product management roles]]
 
 ### [Product Management Is Dead, So What Are We Doing Instead? | Lenny & Friends Summit 2024](https://www.youtube.com/watch?v=93fCvFkY1Lg)
-- [[future_of_product_management | future of product management]]
-- [[role_of_ai_in_product_teams | role of AI in product teams]]
-- [[automation_in_product_development | automation in product development]]
-- [[skills_for_modern_product_managers | skills for modern product managers]]
-- [[collapsing_talent_stacks_in_tech | collapsing talent stacks in tech]]
+- [[the_future_of_product_management | The future of product management]]
+- [[impact_of_ai_on_product_teams | Impact of AI on product teams]]
+- [[ai_powered_product_management_skills | AI powered product management skills]]
+- [[collapsing_talent_stack_in_product_teams | Collapsing talent stack in product teams]]
+- [[adapting_to_ai_driven_changes_in_organizations | Adapting to AI driven changes in organizations]]
+
+### [How Netflix builds a culture of excellence | Elizabeth Stone (CTO)](https://www.youtube.com/watch?v=2XgU6T4DalY)
+- [[netflix_culture_of_high_talent_density | Netflix culture of high talent density]]
+- [[candor_and_direct_feedback | Candor and direct feedback]]
+- [[leadership_and_career_advancement | Leadership and career advancement]]
+- [[role_of_data_and_insights_at_netflix | Role of data and insights at Netflix]]
+- [[freedom_and_responsibility_in_the_workplace | Freedom and responsibility in the workplace]]
 
 ### [A conversation with OpenAI's CPO Kevin Weil, Anthropic's CPO Mike Krieger, and Sarah Guo](https://www.youtube.com/watch?v=IxkvVZua28k)
-- [[ai_product_development_and_challenges | AI product development and challenges]]
-- [[interactions_and_implications_of_ai_in_enterprise_settings | Interactions and implications of AI in enterprise settings]]
-- [[user_experiences_with_ai_and_evolving_ai_capabilities | User experiences with AI and evolving AI capabilities]]
-- [[the_role_of_evaluations_in_ai_product_management | The role of evaluations in AI product management]]
-- [[future_expectations_and_development_trends_in_ai | Future expectations and development trends in AI]]
+- [[ai_product_development_and_prototyping | AI product development and prototyping]]
+- [[enterprise_ai_solutions_and_user_adaptation | Enterprise AI solutions and user adaptation]]
+- [[ai_model_capabilities_and_evaluation | AI model capabilities and evaluation]]
+- [[advancements_in_ai_reasoning_and_intelligence_scaling | Advancements in AI reasoning and intelligence scaling]]
+- [[human_interaction_and_personalization_with_ai_models | Human interaction and personalization with AI models]]
 
-### [OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil](https://www.youtube.com/watch?v=scsW6_2SPC4)
-- [[impact_of_ai_on_skills_and_products | Impact of AI on skills and products]]
-- [[challenges_in_ai_product_management | Challenges in AI product management]]
-- [[ai_development_and_model_improvement | AI development and model improvement]]
-- [[collaboration_between_research_and_product_teams | Collaboration between research and product teams]]
-- [[future_implications_of_personalized_ai | Future implications of personalized AI]]
+### [How to consistently go viral: Nikita Bier’s playbook for winning at consumer apps](https://www.youtube.com/watch?v=bhnfZhJWCWY)
+- [[viral_growth_strategies_for_consumer_apps | Viral growth strategies for consumer apps]]
+- [[lessons_from_building_and_selling_viral_apps | Lessons from building and selling viral apps]]
+- [[challenges_and_insights_in_product_management | Challenges and insights in product management]]
+- [[building_positivityfocused_social_apps_for_teens | Building positivityfocused social apps for teens]]
+- [[advising_and_growth_hacking_for_startups | Advising and growth hacking for startups]]
 
-### [Product management theater | Marty Cagan (Silicon Valley Product Group)](https://www.youtube.com/watch?v=9N4ZgNaWvI0)
-- [[product_management_theater | Product management theater]]
-- [[challenges_with_remote_work_and_team_dynamics | Challenges with remote work and team dynamics]]
-- [[overhiring_and_the_impact_on_company_roles | Overhiring and the impact on company roles]]
-- [[empowered_product_teams_vs_feature_teams | Empowered product teams vs feature teams]]
-- [[the_role_of_ai_in_shaping_product_management_skills | The role of AI in shaping product management skills]]
-
-### [Brian Chesky’s new playbook](https://www.youtube.com/watch?v=4ef0juAMqoE)
-- [[product_management_at_airbnb | Product management at Airbnb]]
-- [[leadership_and_company_culture | Leadership and company culture]]
-- [[marketing_strategies_and_growth | Marketing strategies and growth]]
-- [[balancing_work_and_personal_life | Balancing work and personal life]]
-- [[ceo_involvement_in_product_development | CEO involvement in product development]]
-
-### [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](https://www.youtube.com/watch?v=EgBOVDzUUAA)
-- [[indian_startups_and_market_dynamics | Indian startups and market dynamics]]
-- [[secondorder_thinking_and_philosophical_approaches_in_business | Secondorder thinking and philosophical approaches in business]]
-- [[challenges_and_opportunities_for_indian_entrepreneurs | Challenges and opportunities for Indian entrepreneurs]]
-- [[the_success_of_indian_immigrants_in_global_tech_leadership | The success of Indian immigrants in global tech leadership]]
-- [[building_usercentric_products_in_diverse_markets | Building usercentric products in diverse markets]]
-
-### [What most people miss about marketing | Rory Sutherland (Vice Chairman of Ogilvy UK, author)](https://www.youtube.com/watch?v=YErOtGMgTNg)
-- [[the_role_of_marketing_in_product_success | The role of marketing in product success]]
-- [[creative_branding_strategies_for_startups | Creative branding strategies for startups]]
-- [[psychology_in_marketing_and_decisionmaking | Psychology in marketing and decisionmaking]]
-- [[nonlinear_thinking_and_complex_systems_in_business | Nonlinear thinking and complex systems in business]]
-- [[the_value_of_distinctiveness_and_fame_in_branding | The value of distinctiveness and fame in branding]]
+### [A framework for PM skill development | Vikrama Dhiman (Gojek)](https://www.youtube.com/watch?v=ImSvm11GR0Y)
+- [[product_management_career_growth_framework | Product management career growth framework]]
+- [[key_traits_of_successful_product_managers | Key traits of successful product managers]]
+- [[challenges_and_pitfalls_in_product_management | Challenges and pitfalls in product management]]
+- [[the_operating_model_in_product_management | The operating model in product management]]
+- [[balancing_output_and_impact_in_product_management_roles | Balancing output and impact in product management roles]]
 
 ### [Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)](https://www.youtube.com/watch?v=m7LvNTbaqSI)
-- [[resilience_in_startups | Resilience in startups]]
-- [[identifying_and_avoiding_tarpit_ideas | Identifying and avoiding tarpit ideas]]
-- [[effective_strategies_for_pivoting | Effective strategies for pivoting]]
-- [[talking_to_customers_for_product_development | Talking to customers for product development]]
-- [[overcoming_startup_failures_and_challenges | Overcoming startup failures and challenges]]
+- [[resilience_and_persistence_in_startups | Resilience and Persistence in Startups]]
+- [[the_importance_of_pivoting_in_entrepreneurship | The Importance of Pivoting in Entrepreneurship]]
+- [[identifying_and_avoiding_tarpit_ideas | Identifying and Avoiding Tarpit Ideas]]
+- [[tactical_advice_for_earlystage_founders | Tactical Advice for EarlyStage Founders]]
+- [[effective_customer_engagement_and_validation | Effective Customer Engagement and Validation]]
+
+### [Product management theater | Marty Cagan (Silicon Valley Product Group)](https://www.youtube.com/watch?v=9N4ZgNaWvI0)
+- [[product_management_roles_and_overhiring | Product management roles and overhiring]]
+- [[feature_teams_vs_empowered_product_teams | Feature teams vs empowered product teams]]
+- [[challenges_with_project_management_roles_in_product_teams | Challenges with project management roles in product teams]]
+- [[the_impact_of_generative_ai_on_product_management | The impact of generative AI on product management]]
+- [[transforming_to_a_productbased_operating_model | Transforming to a productbased operating model]]
+
+### [What most people miss about marketing | Rory Sutherland (Vice Chairman of Ogilvy UK, author)](https://www.youtube.com/watch?v=YErOtGMgTNg)
+- [[role_of_marketing_in_product_success | Role of marketing in product success]]
+- [[thinking_creatively_in_business | Thinking creatively in business]]
+- [[psychology_in_marketing_and_decisionmaking | Psychology in marketing and decisionmaking]]
+- [[building_a_brand_for_startups | Building a brand for startups]]
+- [[nonlinear_dynamics_in_marketing_and_business | Nonlinear dynamics in marketing and business]]
+
+### [Brian Chesky’s new playbook](https://www.youtube.com/watch?v=4ef0juAMqoE)
+- [[product_management_strategy_at_airbnb | Product management strategy at Airbnb]]
+- [[micromanagement_versus_detailed_leadership | Micromanagement versus detailed leadership]]
+- [[integrating_design_marketing_and_engineering | Integrating design marketing and engineering]]
+- [[brian_cheskys_leadership_approach | Brian Cheskys leadership approach]]
+- [[lessons_on_company_growth_and_innovation | Lessons on company growth and innovation]]
+
+### [OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil](https://www.youtube.com/watch?v=scsW6_2SPC4)
+- [[ais_impact_on_product_development_and_skills | AIs impact on product development and skills]]
+- [[the_evolving_capabilities_and_future_potential_of_ai | The evolving capabilities and future potential of AI]]
+- [[the_role_of_evaluations_evals_in_ai_product_management | The role of evaluations evals in AI product management]]
+- [[kevin_weils_career_and_projects_including_libra | Kevin Weils career and projects including Libra]]
+- [[interplay_of_ai_and_traditional_business_and_technology_approaches | Interplay of AI and traditional business and technology approaches]]
+
+### [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](https://www.youtube.com/watch?v=EgBOVDzUUAA)
+- [[impact_of_indian_immigrants_in_top_us_tech_company_leadership_roles | Impact of Indian immigrants in top US tech company leadership roles]]
+- [[challenges_and_opportunities_for_startups_in_the_indian_market | Challenges and opportunities for startups in the Indian market]]
+- [[secondorder_thinking_and_its_relevance_in_decision_making | Secondorder thinking and its relevance in decision making]]
+- [[cultural_factors_influencing_business_and_entrepreneurship_in_india | Cultural factors influencing business and entrepreneurship in India]]
+- [[delta_4_framework_for_product_development | Delta 4 framework for product development]]
 
 ### [Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)](https://www.youtube.com/watch?v=ZoKLofsp8u0)
 - [[importance_of_talking_to_customers_in_startups | Importance of talking to customers in startups]]
-- [[lessons_learned_from_airbnbs_growth_and_culture | Lessons learned from Airbnbs growth and culture]]
-- [[common_mistakes_early_stage_startups_make | Common mistakes early stage startups make]]
-- [[attributes_of_successful_startup_founders | Attributes of successful startup founders]]
-- [[the_rise_and_opportunities_in_climate_tech | The rise and opportunities in climate tech]]
-
-### [How to consistently go viral: Nikita Bier’s playbook for winning at consumer apps](https://www.youtube.com/watch?v=bhnfZhJWCWY)
-- [[going_viral_lessons_and_strategies | Going Viral Lessons and Strategies]]
-- [[consumer_app_development_and_growth_tactics | Consumer App Development and Growth Tactics]]
-- [[product_management_in_tech_companies | Product Management in Tech Companies]]
-- [[building_apps_for_teens_and_market_insights | Building Apps for Teens and Market Insights]]
-- [[the_challenges_and_realities_of_viral_app_success | The Challenges and Realities of Viral App Success]]
+- [[lessons_from_airbnbs_company_culture_and_growth | Lessons from Airbnbs company culture and growth]]
+- [[challenges_and_solutions_in_climate_tech_innovation | Challenges and solutions in climate tech innovation]]
+- [[attributes_of_successful_founders_and_startups | Attributes of successful founders and startups]]
+- [[finding_and_valuing_technical_cofounders | Finding and valuing technical cofounders]]
 
 ### [The nature of product | Marty Cagan, Silicon Valley Product Group](https://www.youtube.com/watch?v=h-KVGHoQ_98)
-- [[product_management_misconceptions | Product Management Misconceptions]]
+- [[product_management_methodologies | Product Management methodologies]]
+- [[marty_cagan_and_the_silicon_valley_product_group | Marty Cagan and the Silicon Valley Product Group]]
 - [[feature_teams_vs_product_teams | Feature Teams vs Product Teams]]
-- [[innovating_and_avoiding_process_overdependence | Innovating and Avoiding Process Overdependence]]
-- [[role_of_product_managers | Role of Product Managers]]
-- [[empowering_product_teams | Empowering Product Teams]]
-
-### [Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human potential](https://www.youtube.com/watch?v=tq6vdDJQXvs)
-- [[first_principles_thinking | First principles thinking]]
-- [[maximizing_human_potential | Maximizing human potential]]
-- [[longterm_vision_and_entrepreneurship | Longterm vision and entrepreneurship]]
-- [[product_management_and_innovation | Product management and innovation]]
-- [[role_of_curiosity_and_unique_talents_in_career | Role of curiosity and unique talents in career]]
-
-### [5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)](https://www.youtube.com/watch?v=y7SN4FK8noY)
-- [[understanding_the_challenges_of_developing_effective_business_strategies | understanding the challenges of developing effective business strategies]]
-- [[the_strategy_choice_cascade_framework | the strategy choice cascade framework]]
-- [[the_role_of_capabilities_and_management_systems_in_strategy | the role of capabilities and management systems in strategy]]
-- [[differentiating_between_playing_to_play_and_playing_to_win_in_business_strategy | differentiating between playing to play and playing to win in business strategy]]
-- [[debating_traditional_and_modern_approaches_to_strategy_taught_in_business_schools | debating traditional and modern approaches to strategy taught in business schools]]
-
-### [Good Strategy, Bad Strategy | Richard Rumelt](https://www.youtube.com/watch?v=4uWKEG0s9Kc)
-- [[difference_between_good_and_bad_strategy | Difference between good and bad strategy]]
-- [[strategic_thinking_and_diagnosis | Strategic thinking and diagnosis]]
-- [[importance_of_focusing_on_core_challenges | Importance of focusing on core challenges]]
-- [[role_of_power_in_strategy | Role of power in strategy]]
-- [[organizational_dynamics_affecting_strategy | Organizational dynamics affecting strategy]]
+- [[importance_of_customer_and_user_research | Importance of Customer and User Research]]
+- [[trends_and_challenges_in_product_management | Trends and Challenges in Product Management]]
 
 ### [Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)](https://www.youtube.com/watch?v=uDq6_CPaRjM)
-- [[building_a_strong_vision_and_securing_buyin | Building a strong vision and securing buyin]]
-- [[developing_and_launching_new_products_in_a_company | Developing and launching new products in a company]]
-- [[cultivating_an_entrepreneurial_culture_within_organizations | Cultivating an entrepreneurial culture within organizations]]
-- [[the_role_of_empathy_and_user_feedback_in_product_management | The role of empathy and user feedback in product management]]
-- [[creating_and_maintaining_team_culture_and_passion | Creating and maintaining team culture and passion]]
+- [[building_0_to_1_products_inside_a_company | Building 0 to 1 Products Inside a Company]]
+- [[creating_and_communicating_a_vision | Creating and Communicating a Vision]]
+- [[developing_conviction_and_gaining_buyin | Developing Conviction and Gaining BuyIn]]
+- [[building_an_entrepreneurial_culture | Building an Entrepreneurial Culture]]
+- [[leveraging_user_insights_for_product_development | Leveraging User Insights for Product Development]]
+
+### [Good Strategy, Bad Strategy | Richard Rumelt](https://www.youtube.com/watch?v=4uWKEG0s9Kc)
+- [[good_strategy_vs_bad_strategy | Good strategy vs bad strategy]]
+- [[elements_of_a_successful_strategy | Elements of a successful strategy]]
+- [[organizational_dynamics_in_strategy_execution | Organizational dynamics in strategy execution]]
+- [[sources_of_strategic_power_and_competitive_advantage | Sources of strategic power and competitive advantage]]
+- [[the_role_of_diagnosis_in_strategic_planning | The role of diagnosis in strategic planning]]
+
+### [Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human potential](https://www.youtube.com/watch?v=tq6vdDJQXvs)
+- [[tobi_lutkes_leadership_and_first_principles_thinking | Tobi Lutkes leadership and first principles thinking]]
+- [[maximizing_human_potential_and_personal_growth | Maximizing human potential and personal growth]]
+- [[shopifys_approach_to_product_development_without_kpis | Shopifys approach to product development without KPIs]]
+- [[encouraging_entrepreneurship_and_building_businesses_through_technology | Encouraging entrepreneurship and building businesses through technology]]
+- [[the_impact_of_remote_work_decisions_at_shopify | The impact of remote work decisions at Shopify]]
 
 ### [AI agents will replace jobs: Marc Benioff on digital labor, Salesforce's future, and innovation](https://www.youtube.com/watch?v=tOGK1nlHdFo)
-- [[ai_and_its_impact_on_jobs | AI and its impact on jobs]]
-- [[salesforces_innovation_and_future_direction | Salesforces innovation and future direction]]
-- [[marc_benioffs_lessons_from_launching_salesforce | Marc Benioffs lessons from launching Salesforce]]
-- [[the_concept_and_potential_of_ai_agents | The concept and potential of AI agents]]
-- [[entrepreneurial_mindset_and_leadership_insights | Entrepreneurial mindset and leadership insights]]
+- [[the_role_of_ai_and_digital_labor_in_the_future_workforce | The role of AI and digital labor in the future workforce]]
+- [[salesforces_innovation_and_growth_strategies | Salesforces innovation and growth strategies]]
+- [[marc_benioffs_insights_on_leadership_and_entrepreneurship | Marc Benioffs insights on leadership and entrepreneurship]]
+- [[historical_perspective_on_salesforces_launch_and_marketing_tactics | Historical perspective on Salesforces launch and marketing tactics]]
+- [[impact_of_ai_on_healthcare_and_other_industries | Impact of AI on healthcare and other industries]]
 
-### [10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)](https://www.youtube.com/watch?v=IHwS2By9UKM)
-- [[ineffective_growth_tactics_in_tech_startups | Ineffective growth tactics in tech startups]]
-- [[the_role_of_growth_teams_versus_founderled_growth | The role of growth teams versus founderled growth]]
-- [[challenges_with_rebranding_and_redesigning_for_growth | Challenges with rebranding and redesigning for growth]]
-- [[misconceptions_about_competitive_analysis_and_copying | Misconceptions about competitive analysis and copying]]
-- [[the_importance_of_earned_and_owned_channels_in_growth_strategy | The importance of earned and owned channels in growth strategy]]
-
-### [Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)](https://www.youtube.com/watch?v=Z71yGshPTwk)
-- [[impact_of_ai_on_seo | Impact of AI on SEO]]
-- [[seo_as_a_product_and_collaboration_with_product_teams | SEO as a product and collaboration with product teams]]
-- [[programmatic_vs_editorial_seo_strategies | Programmatic vs editorial SEO strategies]]
-- [[seo_myths_and_misconceptions | SEO myths and misconceptions]]
-- [[using_ai_to_optimize_seo_efforts | Using AI to optimize SEO efforts]]
+### [5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)](https://www.youtube.com/watch?v=y7SN4FK8noY)
+- [[challenges_and_misconceptions_in_strategic_thinking | Challenges and misconceptions in strategic thinking]]
+- [[roger_martins_strategy_choice_cascade_framework | Roger Martins Strategy Choice Cascade framework]]
+- [[business_schools_and_strategy_education | Business schools and strategy education]]
+- [[differentiation_and_cost_leadership_strategies | Differentiation and cost leadership strategies]]
+- [[improving_strategic_thinking_through_practice_and_betterment | Improving strategic thinking through practice and betterment]]
 
 ### [Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta](https://www.youtube.com/watch?v=E3dUveqt9Bw)
 - [[becoming_more_strategic | Becoming more strategic]]
 - [[navigating_difficult_colleagues | Navigating difficult colleagues]]
-- [[managing_energy_versus_time | Managing energy versus time]]
-- [[founder_mode_in_product_leadership | Founder mode in product leadership]]
-- [[effective_decision_making | Effective decision making]]
+- [[founder_mode | Founder mode]]
+- [[decision_making_in_product_management | Decision making in product management]]
+- [[breaking_into_product_management | Breaking into product management]]
+
+### [10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)](https://www.youtube.com/watch?v=IHwS2By9UKM)
+- [[common_growth_tactics_that_fail | Common Growth Tactics that Fail]]
+- [[growth_teams_and_misconceptions | Growth Teams and Misconceptions]]
+- [[product_market_fit_and_growth_strategy | Product Market Fit and Growth Strategy]]
+- [[the_role_of_rebranding_in_growth | The Role of Rebranding in Growth]]
+- [[copying_competitors_vs_innovation | Copying Competitors vs Innovation]]
 
 ### [Behind the founder: Drew Houston (Dropbox)](https://www.youtube.com/watch?v=egdYKLBswgk)
-- [[drew_houstons_journey_and_the_evolution_of_dropbox | Drew Houstons journey and the evolution of Dropbox]]
-- [[challenges_faced_by_dropbox_against_major_tech_competitors | Challenges faced by Dropbox against major tech competitors]]
-- [[the_concept_of_product_market_fit_and_its_evolution | The concept of product market fit and its evolution]]
-- [[the_personal_development_of_a_founder_and_leadership_lessons | The personal development of a founder and leadership lessons]]
-- [[strategies_for_company_growth_and_overcoming_internal_challenges | Strategies for company growth and overcoming internal challenges]]
+- [[the_evolution_and_eras_of_dropbox | The evolution and eras of Dropbox]]
+- [[challenges_of_competing_with_big_tech_companies | Challenges of competing with big tech companies]]
+- [[leadership_and_management_challenges_in_scaling_a_company | Leadership and management challenges in scaling a company]]
+- [[the_role_of_personal_growth_and_selfawareness_for_founders | The role of personal growth and selfawareness for founders]]
+- [[productivity_and_innovation_in_remote_work_environments | Productivity and innovation in remote work environments]]
 
-### [Building a long and meaningful career | Nikhyl Singhal (Meta, Google)](https://www.youtube.com/watch?v=U_WQuUIYnJg)
-- [[building_a_longterm_career_strategy | Building a longterm career strategy]]
-- [[challenges_and_opportunities_of_being_a_product_manager | Challenges and opportunities of being a product manager]]
-- [[importance_of_feedback_and_selfawareness_in_career_growth | Importance of feedback and selfawareness in career growth]]
-- [[navigating_career_transitions_and_promotions | Navigating career transitions and promotions]]
-- [[role_of_mentorship_and_community_in_professional_development | Role of mentorship and community in professional development]]
-
-### [Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)](https://www.youtube.com/watch?v=dpw9Ue1HU48)
-- [[building_and_scaling_culture_at_hubspot | Building and scaling culture at HubSpot]]
-- [[public_speaking_and_humor_in_presentations | Public speaking and humor in presentations]]
-- [[decisionmaking_framework_for_leaders | Decisionmaking framework for leaders]]
-- [[challenges_and_strategies_of_targeting_smb_market | Challenges and strategies of targeting SMB market]]
-- [[the_impact_of_ai_on_software_and_business | The impact of AI on software and business]]
+### [Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)](https://www.youtube.com/watch?v=Z71yGshPTwk)
+- [[seo_transformations_with_the_rise_of_ai | SEO transformations with the rise of AI]]
+- [[integrating_ai_in_search_results | Integrating AI in search results]]
+- [[shifts_in_seo_strategies_in_the_age_of_ai | Shifts in SEO strategies in the age of AI]]
+- [[evaluating_seo_opportunities_for_businesses | Evaluating SEO opportunities for businesses]]
+- [[programmatic_vs_editorial_seo | Programmatic vs editorial SEO]]
 
 ### [How to work through fear, give hard feedback, and doing layoffs with grace | Matt Mochary](https://www.youtube.com/watch?v=bCel0X2Ta7U)
-- [[handling_layoffs_with_empathy | Handling layoffs with empathy]]
-- [[managing_fear_and_anger_for_better_leadership | Managing fear and anger for better leadership]]
-- [[providing_constructive_feedback | Providing constructive feedback]]
+- [[effective_communication_during_layoffs | Effective communication during layoffs]]
+- [[handling_fear_and_anger_as_a_leader | Handling fear and anger as a leader]]
 - [[innovating_within_large_organizations | Innovating within large organizations]]
-- [[coaching_strategies_for_executive_success | Coaching strategies for executive success]]
+- [[making_people_feel_heard_and_valued | Making people feel heard and valued]]
+- [[performing_energy_audits_to_improve_productivity | Performing energy audits to improve productivity]]
 
-### [Behind the product: NotebookLM | Raiza Martin (Senior Product Manager, AI @ Google Labs)](https://www.youtube.com/watch?v=sOyFpSW1Vls)
-- [[notebook_lm_development_and_origins | Notebook LM development and origins]]
-- [[applications_and_use_cases_of_notebook_lm | Applications and use cases of Notebook LM]]
-- [[technology_behind_notebook_lm | Technology behind Notebook LM]]
-- [[google_labs_and_product_innovation | Google Labs and product innovation]]
-- [[ai_ethics_and_testing_in_product_development | AI ethics and testing in product development]]
+### [Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)](https://www.youtube.com/watch?v=dpw9Ue1HU48)
+- [[innovative_management_strategies_at_hubspot | Innovative management strategies at HubSpot]]
+- [[building_and_maintaining_a_company_culture | Building and maintaining a company culture]]
+- [[public_speaking_and_humor_in_business | Public speaking and humor in business]]
+- [[developing_ai_products_and_utilizing_technology | Developing AI products and utilizing technology]]
+- [[the_journey_of_startup_growth_and_public_transition | The journey of startup growth and public transition]]
+
+### [Building a long and meaningful career | Nikhyl Singhal (Meta, Google)](https://www.youtube.com/watch?v=U_WQuUIYnJg)
+- [[building_a_meaningful_career | Building a meaningful career]]
+- [[product_management_career_advice | Product management career advice]]
+- [[the_importance_of_longterm_career_planning | The importance of longterm career planning]]
+- [[challenges_and_strategies_for_senior_leaders | Challenges and strategies for senior leaders]]
+- [[the_role_of_mentorship_and_community_in_career_development | The role of mentorship and community in career development]]
 
 ### [AI and product management | Marily Nika (Meta, Google)](https://www.youtube.com/watch?v=qNPPoj1qUG0)
-- [[ai_integration_in_product_management | AI integration in product management]]
-- [[ai_tools_and_resources_for_product_managers | AI tools and resources for product managers]]
-- [[ais_role_in_shaping_future_technology_products | AIs role in shaping future technology products]]
-- [[overcoming_challenges_in_ai_product_management | Overcoming challenges in AI product management]]
-- [[ai_model_training_and_implementation | AI model training and implementation]]
-
-### [What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)](https://www.youtube.com/watch?v=7gaPPrAd7nc)
-- [[improving_product_management_skills | Improving product management skills]]
-- [[the_working_backwards_process_in_product_development | The working backwards process in product development]]
-- [[tips_for_new_and_senior_product_managers | Tips for new and senior product managers]]
-- [[communication_and_prioritization_techniques_for_product_managers | Communication and prioritization techniques for product managers]]
-- [[building_trust_and_driving_impact_in_product_management | Building trust and driving impact in product management]]
-
-### [The ultimate guide to SEO | Ethan Smith (Graphite)](https://www.youtube.com/watch?v=mOY159TlYXM)
-- [[seo_resource_allocation_vs_advertisement_spending | SEO resource allocation vs advertisement spending]]
-- [[understanding_and_implementing_editorial_and_programmatic_seo | Understanding and implementing editorial and programmatic SEO]]
-- [[role_and_hiring_strategies_for_seo_experts | Role and hiring strategies for SEO experts]]
-- [[building_and_optimizing_internal_link_architecture | Building and optimizing internal link architecture]]
-- [[evaluating_when_to_invest_in_seo_for_startups | Evaluating when to invest in SEO for startups]]
-
-### [Taking control of your career | Ethan Evans (Amazon)](https://www.youtube.com/watch?v=GB0P0_nFPTA)
-- [[career_advancement_strategies | Career advancement strategies]]
-- [[magic_loop_concept_for_career_growth | Magic loop concept for career growth]]
-- [[leadership_principles_at_amazon | Leadership principles at Amazon]]
-- [[the_importance_of_ownership_in_leadership | The importance of ownership in leadership]]
-- [[invention_and_innovation_processes | Invention and innovation processes]]
-
-### [The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)](https://www.youtube.com/watch?v=xQV7HVyAJjc)
-- [[understanding_the_jobs_to_be_done_framework | Understanding the Jobs to be Done framework]]
-- [[context_and_outcome_versus_pain_and_gain | Context and outcome versus pain and gain]]
-- [[customercentric_product_development | Customercentric product development]]
-- [[innovative_product_launching_strategies | Innovative product launching strategies]]
-- [[interview_techniques_for_discovering_customer_insights | Interview techniques for discovering customer insights]]
+- [[ai_in_product_management | AI in product management]]
+- [[tips_for_using_ai_in_product_development | Tips for using AI in product development]]
+- [[challenges_and_strategies_in_aidriven_projects | Challenges and strategies in AIdriven projects]]
+- [[learning_resources_for_aspiring_ai_product_managers | Learning resources for aspiring AI product managers]]
+- [[the_future_of_ai_in_product_management | The future of AI in product management]]
 
 ### [Jason Fried challenges your thinking on fundraising, goals, growth, and more](https://www.youtube.com/watch?v=dAnF0tk0di8)
-- [[bootstrapping_vs_venture_capital | Bootstrapping vs Venture Capital]]
-- [[business_sustainability_and_profitability | Business Sustainability and Profitability]]
-- [[entrepreneurship_and_small_business_management | Entrepreneurship and Small Business Management]]
-- [[company_culture_and_decision_making | Company Culture and Decision Making]]
-- [[innovative_product_development_strategies | Innovative Product Development Strategies]]
+- [[the_benefits_of_bootstrapping_a_business | The benefits of bootstrapping a business]]
+- [[the_pitfalls_of_venture_capital_funding | The pitfalls of venture capital funding]]
+- [[efficient_business_operations_with_small_teams | Efficient business operations with small teams]]
+- [[the_philosophy_of_business_independence | The philosophy of business independence]]
+- [[the_art_of_decisionmaking_and_intuition_in_business | The art of decisionmaking and intuition in business]]
 
-### [A framework for finding product-market fit | Todd Jackson (First Round Capital)](https://www.youtube.com/watch?v=yc1Uwhfxacs)
-- [[understanding_the_framework_for_finding_productmarket_fit | Understanding the framework for finding productmarket fit]]
-- [[challenges_and_strategies_for_earlystage_b2b_startups | Challenges and strategies for earlystage B2B startups]]
-- [[levels_of_productmarket_fit_and_their_significance | Levels of productmarket fit and their significance]]
-- [[signs_of_being_stuck_at_a_productmarket_fit_stage_and_how_to_pivot | Signs of being stuck at a productmarket fit stage and how to pivot]]
-- [[developing_customer_discovery_methods_for_productmarket_fit | Developing customer discovery methods for productmarket fit]]
+### [What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)](https://www.youtube.com/watch?v=7gaPPrAd7nc)
+- [[characteristics_of_a_top_1_percent_product_manager | Characteristics of a Top 1 Percent Product Manager]]
+- [[working_backwards_process_at_amazon | Working Backwards Process at Amazon]]
+- [[importance_of_communication_and_prioritization_for_product_managers | Importance of Communication and Prioritization for Product Managers]]
+- [[trust_building_and_impact_focus_in_product_management | Trust Building and Impact Focus in Product Management]]
+- [[lessons_from_amazon_leadership | Lessons from Amazon Leadership]]
 
-### [Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)](https://www.youtube.com/watch?v=xzebbzIntFc)
-- [[lean_startup_methodology | Lean Startup methodology]]
-- [[challenges_and_misconceptions_of_startup_success | Challenges and misconceptions of startup success]]
-- [[role_of_mental_health_in_startup_culture | Role of mental health in startup culture]]
-- [[importance_of_values_and_governance_in_companies | Importance of values and governance in companies]]
-- [[impact_of_ai_on_startups_and_business_practices | Impact of AI on startups and business practices]]
+### [Taking control of your career | Ethan Evans (Amazon)](https://www.youtube.com/watch?v=GB0P0_nFPTA)
+- [[the_magic_loop_for_career_growth | The Magic Loop for career growth]]
+- [[invention_and_innovation_in_career_advancement | Invention and innovation in career advancement]]
+- [[leadership_principles_and_career_success | Leadership principles and career success]]
+- [[overcoming_failures_and_setbacks_in_career | Overcoming failures and setbacks in career]]
+- [[advice_for_career_advancement_at_senior_management_levels | Advice for career advancement at senior management levels]]
 
-### [Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)](https://www.youtube.com/watch?v=gfEEcssu304)
-- [[importance_of_design_in_business_growth | Importance of design in business growth]]
-- [[operationalizing_design_quality_and_processes | Operationalizing design quality and processes]]
-- [[quality_improvement_leading_to_business_impact | Quality improvement leading to business impact]]
-- [[lessons_in_leadership_and_team_management | Lessons in leadership and team management]]
-- [[stripes_design_principles_and_unique_projects | Stripes design principles and unique projects]]
+### [The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)](https://www.youtube.com/watch?v=xQV7HVyAJjc)
+- [[understanding_jobs_to_be_done_framework | Understanding jobs to be done framework]]
+- [[how_to_effectively_interview_customers | How to effectively interview customers]]
+- [[the_role_of_context_and_outcome_in_customer_behavior | The role of context and outcome in customer behavior]]
+- [[examples_of_successful_jobs_to_be_done_applications_in_companies | Examples of successful jobs to be done applications in companies]]
+- [[challenges_and_misconceptions_in_implementing_jobs_to_be_done | Challenges and misconceptions in implementing jobs to be done]]
 
-### [A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)](https://www.youtube.com/watch?v=-VqmFI9vY7w)
-- [[crafting_a_sales_pitch | Crafting a sales pitch]]
-- [[product_positioning_and_its_importance | Product positioning and its importance]]
-- [[overcoming_buyer_indecision_in_sales | Overcoming buyer indecision in sales]]
-- [[role_of_storytelling_in_sales | Role of storytelling in sales]]
-- [[differentiated_value_in_marketing | Differentiated value in marketing]]
-
-### [Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf](https://www.youtube.com/watch?v=5Z0RCxDZdrE)
-- [[building_and_scaling_an_ai_code_editor | Building and scaling an AI code editor]]
-- [[the_role_of_ai_in_software_development | The role of AI in software development]]
-- [[challenges_and_strategies_in_startup_growth | Challenges and strategies in startup growth]]
-- [[innovations_in_code_editors_and_ides | Innovations in code editors and IDEs]]
-- [[enterprise_sales_strategies_for_tech_startups | Enterprise sales strategies for tech startups]]
+### [The ultimate guide to SEO | Ethan Smith (Graphite)](https://www.youtube.com/watch?v=mOY159TlYXM)
+- [[understanding_seo_resource_allocation | Understanding SEO resource allocation]]
+- [[key_elements_of_an_effective_seo_strategy | Key elements of an effective SEO strategy]]
+- [[when_and_how_to_invest_in_seo_as_a_company | When and how to invest in SEO as a company]]
+- [[types_and_implementation_of_seo_programmatic_vs_editorial | Types and implementation of SEO Programmatic vs Editorial]]
+- [[tools_and_techniques_for_seo_analysis_and_growth | Tools and techniques for SEO analysis and growth]]
 
 ### [The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)](https://www.youtube.com/watch?v=hEzpiDuYFoE)
-- [[importance_of_ab_testing_and_experimentation | Importance of AB testing and experimentation]]
-- [[lessons_from_large_scale_experiments_at_companies_like_amazon_microsoft_and_airbnb | Lessons from large scale experiments at companies like Amazon Microsoft and Airbnb]]
-- [[challenges_and_strategies_in_building_an_experimentation_platform | Challenges and strategies in building an experimentation platform]]
-- [[the_role_of_organizational_culture_in_experimentation_success | The role of organizational culture in experimentation success]]
-- [[understanding_pvalues_and_pitfalls_in_data_analysis | Understanding pvalues and pitfalls in data analysis]]
+- [[the_importance_of_ab_testing_in_software_development | The importance of AB testing in software development]]
+- [[challenges_and_failures_in_experimentation | Challenges and failures in experimentation]]
+- [[creating_a_culture_of_experimentation_in_a_company | Creating a culture of experimentation in a company]]
+- [[the_role_of_trust_in_successful_experimentation | The role of trust in successful experimentation]]
+- [[building_and_optimizing_an_experimentation_platform | Building and optimizing an experimentation platform]]
 
-### [Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles](https://www.youtube.com/watch?v=aNJDZ_RzTVk)
-- [[ramps_strategy_for_rapid_growth | Ramps strategy for rapid growth]]
-- [[the_importance_of_velocity_in_startups | The importance of velocity in startups]]
-- [[product_development_processes_at_ramp | Product development processes at Ramp]]
-- [[building_a_highperformance_team | Building a highperformance team]]
-- [[empowerment_and_team_autonomy_in_product_management | Empowerment and team autonomy in product management]]
+### [Behind the product: NotebookLM | Raiza Martin (Senior Product Manager, AI @ Google Labs)](https://www.youtube.com/watch?v=sOyFpSW1Vls)
+- [[notebooklm_ai_product_development_at_google_labs | NotebookLM AI product development at Google Labs]]
+- [[the_technology_and_team_behind_notebooklm | The technology and team behind NotebookLM]]
+- [[realworld_use_cases_and_user_feedback_for_notebooklm | Realworld use cases and user feedback for NotebookLM]]
+- [[startuplike_operations_within_google_labs | Startuplike operations within Google Labs]]
+- [[the_role_of_stephen_johnson_in_the_notebooklm_project | The role of Stephen Johnson in the NotebookLM project]]
+
+### [Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)](https://www.youtube.com/watch?v=xzebbzIntFc)
+- [[challenges_of_managing_a_startup | Challenges of managing a startup]]
+- [[mental_health_impact_on_startup_founders | Mental health impact on startup Founders]]
+- [[lean_startup_methodology_and_its_misconceptions | Lean Startup methodology and its misconceptions]]
+- [[ais_impact_on_startups_and_product_development | AIs impact on startups and product development]]
+- [[governance_and_values_in_building_companies | Governance and values in building companies]]
+
+### [A framework for finding product-market fit | Todd Jackson (First Round Capital)](https://www.youtube.com/watch?v=yc1Uwhfxacs)
+- [[the_importance_and_stages_of_productmarket_fit | The importance and stages of productmarket fit]]
+- [[earlystage_startup_challenges_and_solutions | Earlystage startup challenges and solutions]]
+- [[framework_for_improving_productmarket_fit | Framework for improving productmarket fit]]
+- [[strategies_for_finding_and_retaining_satisfied_customers | Strategies for finding and retaining satisfied customers]]
+- [[identifying_and_addressing_signs_of_being_stuck_in_productmarket_fit | Identifying and addressing signs of being stuck in productmarket fit]]
+
+### [Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)](https://www.youtube.com/watch?v=gfEEcssu304)
+- [[the_role_of_beauty_and_functionality_in_design | The role of beauty and functionality in design]]
+- [[strategies_for_leading_and_scaling_design_teams | Strategies for leading and scaling design teams]]
+- [[operationalizing_quality_in_product_design | Operationalizing quality in product design]]
+- [[importance_of_trust_and_collaboration_in_team_environments | Importance of trust and collaboration in team environments]]
+- [[building_customercentric_products_through_design | Building customercentric products through design]]
+
+### [Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf](https://www.youtube.com/watch?v=5Z0RCxDZdrE)
+- [[building_effective_ai_code_editors | Building effective AI code editors]]
+- [[ais_impact_on_software_development | AIs impact on software development]]
+- [[startup_strategies_for_engineering_productivity | Startup strategies for engineering productivity]]
+- [[the_future_of_engineering_and_code_development | The future of engineering and code development]]
+- [[hiring_and_team_management_philosophy_in_tech_startups | Hiring and team management philosophy in tech startups]]
+
+### [A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)](https://www.youtube.com/watch?v=-VqmFI9vY7w)
+- [[crafting_an_effective_sales_pitch | Crafting an effective sales pitch]]
+- [[understanding_product_positioning | Understanding product positioning]]
+- [[differentiated_value_and_its_role_in_sales | Differentiated value and its role in sales]]
+- [[handling_objections_in_sales_presentations | Handling objections in sales presentations]]
+- [[purchasing_process_challenges_in_b2b_environments | Purchasing process challenges in B2B environments]]
 
 ### [The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH)](https://www.youtube.com/watch?v=969dwgu98qc)
-- [[tactical_advice_on_founderled_sales | tactical advice on founderled sales]]
-- [[finding_and_reaching_out_to_leads_as_a_startup_founder | finding and reaching out to leads as a startup founder]]
-- [[importance_of_founderled_sales_over_hiring_salespeople_early_on | importance of founderled sales over hiring salespeople early on]]
-- [[understanding_and_navigating_the_enterprise_sales_process | understanding and navigating the enterprise sales process]]
-- [[the_role_of_services_in_earlystage_startup_sales | the role of services in earlystage startup sales]]
+- [[founderled_sales_strategies | Founderled sales strategies]]
+- [[early_stage_sales_tactics_for_startups | Early stage sales tactics for startups]]
+- [[sales_cycle_steps_and_processes | Sales cycle steps and processes]]
+- [[challenges_and_benefits_of_founderled_sales | Challenges and benefits of founderled sales]]
+- [[importance_of_qualification_in_the_sales_process | Importance of qualification in the sales process]]
 
 ### [Build better products with continuous product discovery | Teresa Torres](https://www.youtube.com/watch?v=9RFaz9ZBXpk)
-- [[continuous_product_discovery | Continuous product discovery]]
-- [[opportunity_solution_tree_framework | Opportunity solution tree framework]]
-- [[customer_interviewing_techniques | Customer interviewing techniques]]
-- [[building_a_discovery_habit | Building a discovery habit]]
-- [[balancing_delivery_and_discovery_in_product_management | Balancing delivery and discovery in product management]]
+- [[continuous_product_discovery | Continuous Product Discovery]]
+- [[opportunity_solution_tree_framework | Opportunity Solution Tree Framework]]
+- [[best_practices_for_customer_interviewing | Best Practices for Customer Interviewing]]
+- [[integrating_customer_feedback_loops_in_product_development | Integrating Customer Feedback Loops in Product Development]]
+- [[challenges_and_strategies_for_implementing_continuous_discovery_in_organizations | Challenges and Strategies for Implementing Continuous Discovery in Organizations]]
+
+### [Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles](https://www.youtube.com/watch?v=aNJDZ_RzTVk)
+- [[ramps_rapid_growth_strategy | Ramps rapid growth strategy]]
+- [[velocitycentric_product_development_at_ramp | Velocitycentric product development at Ramp]]
+- [[empowerment_and_organizational_culture_at_ramp | Empowerment and organizational culture at Ramp]]
+- [[building_a_successful_product_management_team | Building a successful product management team]]
+- [[balancing_speed_and_quality_in_software_development | Balancing speed and quality in software development]]
 
 ### [Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)](https://www.youtube.com/watch?v=h9o6gPQA6LA)
-- [[elements_of_breakthrough_startup_ideas | Elements of breakthrough startup ideas]]
-- [[role_of_inflections_and_insights_in_startups | Role of inflections and insights in startups]]
-- [[importance_of_founder_future_fit | Importance of founder future fit]]
-- [[creating_movements_in_startups | Creating movements in startups]]
-- [[disagreeable_founders_and_storytelling | Disagreeable Founders and storytelling]]
+- [[elements_of_breakthrough_startup_ideas_inflections_insights_and_founder_future_fit | Elements of breakthrough startup ideas inflections insights and founder future fit]]
+- [[the_role_of_inflections_in_enabling_startup_success | The role of inflections in enabling startup success]]
+- [[founders_insights_and_their_importance_in_startup_success | Founders insights and their importance in startup success]]
+- [[the_concept_of_future_founder_fit_and_its_impact_on_innovation | The concept of future founder fit and its impact on innovation]]
+- [[pattern_breaking_actions_movements_storytelling_and_disagreeableness_in_startups | Pattern breaking actions movements storytelling and disagreeableness in startups]]
 
-### [How to tell better stories | Matthew Dicks (Storyworthy)](https://www.youtube.com/watch?v=J4wguyJZI6A)
-- [[importance_of_storytelling_in_business_communication | Importance of storytelling in business communication]]
-- [[how_to_construct_effective_and_memorable_stories | How to construct effective and memorable stories]]
-- [[the_role_of_change_and_transformation_in_storytelling | The role of change and transformation in storytelling]]
-- [[techniques_to_add_stakes_and_suspense_in_storytelling | Techniques to add stakes and suspense in storytelling]]
-- [[tips_for_improving_public_speaking_and_overcoming_fear | Tips for improving public speaking and overcoming fear]]
+### [Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)](https://www.youtube.com/watch?v=DZtGxNs9AVg)
+- [[aidriven_software_development | AIdriven software development]]
+- [[startup_scaling_strategies | Startup scaling strategies]]
+- [[ai_tools_for_entrepreneurs | AI tools for entrepreneurs]]
+- [[evolving_skills_in_the_tech_industry | Evolving skills in the tech industry]]
+- [[building_minimum_lovable_products | Building minimum lovable products]]
 
 ### [How to create a winning product strategy | Melissa Perri](https://www.youtube.com/watch?v=FCxkT8ULrVg)
-- [[creating_a_winning_product_strategy | Creating a winning product strategy]]
-- [[common_challenges_faced_by_product_teams_and_how_to_overcome_them | Common challenges faced by product teams and how to overcome them]]
-- [[the_role_and_importance_of_a_chief_product_officer_cpo | The role and importance of a Chief Product Officer CPO]]
-- [[signs_of_a_lacking_or_poorly_implemented_product_strategy | Signs of a lacking or poorly implemented product strategy]]
-- [[the_emerging_role_of_product_operations_and_its_impact_on_scaling_product_management | The emerging role of product operations and its impact on scaling product management]]
+- [[common_problems_faced_by_product_teams | Common problems faced by product teams]]
+- [[hiring_and_roles_in_product_management | Hiring and roles in product management]]
+- [[developing_and_deploying_a_product_strategy | Developing and deploying a product strategy]]
+- [[importance_of_product_vision_and_strategy_alignment | Importance of product vision and strategy alignment]]
+- [[emerging_role_of_product_operations | Emerging role of product operations]]
 
-### [Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)](https://www.youtube.com/watch?v=tBPTwUmaxDs)
-- [[difference_between_mission_and_vision_in_product_development | Difference between mission and vision in product development]]
-- [[developing_a_product_vision_and_communicating_it_effectively | Developing a product vision and communicating it effectively]]
-- [[role_of_company_culture_in_product_management | Role of company culture in product management]]
-- [[product_management_strategies_and_frameworks | Product management strategies and frameworks]]
-- [[impact_of_culture_on_team_dynamics_and_decision_making | Impact of culture on team dynamics and decision making]]
+### [How to tell better stories | Matthew Dicks (Storyworthy)](https://www.youtube.com/watch?v=J4wguyJZI6A)
+- [[the_role_of_storytelling_in_business | The role of storytelling in business]]
+- [[the_structure_of_a_compelling_story | The structure of a compelling story]]
+- [[using_personal_experience_to_enhance_stories | Using personal experience to enhance stories]]
+- [[strategies_for_public_speaking_and_reducing_stage_fright | Strategies for public speaking and reducing stage fright]]
+- [[exercises_to_generate_and_collect_story_ideas | Exercises to generate and collect story ideas]]
 
 ### [Why product-led growth is the future | Elena Verna (Amplitude, Miro, Surveymonkey)](https://www.youtube.com/watch?v=UTmFuSZfJ9U)
-- [[productled_growth_strategy | Productled growth strategy]]
-- [[b2b_growth_trends_and_strategies | B2B growth trends and strategies]]
-- [[freemium_versus_trial_models | Freemium versus trial models]]
-- [[productled_sales_versus_traditional_sales | Productled sales versus traditional sales]]
-- [[hiring_and_developing_a_growth_team | Hiring and developing a growth team]]
-
-### [4 questions Shreyas wishes he’d asked himself sooner | Former PM leader at Stripe, Twitter, Google](https://www.youtube.com/watch?v=atS060bNpE0)
-- [[questions_shreyas_wished_he_asked_sooner_in_his_career | Questions Shreyas wished he asked sooner in his career]]
-- [[why_product_leaders_are_so_busy_and_how_to_manage_it | Why product leaders are so busy and how to manage it]]
-- [[the_importance_of_good_product_decisions_and_taste | The importance of good product decisions and taste]]
-- [[reasons_for_job_frustration_and_aligning_with_superpowers | Reasons for job frustration and aligning with superpowers]]
-- [[the_power_of_effective_listening | The power of effective listening]]
-
-### [Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal](https://www.youtube.com/watch?v=IIPKMixTMfE)
-- [[notions_early_years_and_challenges | Notions early years and challenges]]
-- [[building_and_evolving_a_software_product | Building and evolving a software product]]
-- [[approach_to_staying_lean_and_efficient | Approach to staying lean and efficient]]
-- [[the_importance_of_craft_and_values_in_product_development | The importance of craft and values in product development]]
-- [[building_horizontal_software_platforms | Building horizontal software platforms]]
-
-### [Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)](https://www.youtube.com/watch?v=qbZQjprTnrU)
-- [[customercentric_product_development | Customercentric product development]]
-- [[strategies_for_measuring_product_success | Strategies for measuring product success]]
-- [[effective_communication_with_customers | Effective communication with customers]]
-- [[improving_user_experience_and_product_quality | Improving user experience and product quality]]
-- [[building_a_product_at_a_large_company | Building a product at a large company]]
-
-### [The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell](https://www.youtube.com/watch?v=En5cSXgGvZM)
-- [[the_evolution_of_software_development_with_ai | The evolution of software development with AI]]
-- [[building_a_highgrowth_ai_company | Building a highgrowth AI company]]
-- [[overcoming_hiring_challenges_in_tech_startups | Overcoming hiring challenges in tech startups]]
-- [[impact_of_custom_model_development_in_ai_tools | Impact of custom model development in AI tools]]
-- [[future_skills_for_software_engineers_in_aidriven_development | Future skills for software engineers in AIdriven development]]
+- [[productled_growth | productled growth]]
+- [[b2b_growth_strategies | B2B growth strategies]]
+- [[freemium_versus_trial_models | freemium versus trial models]]
+- [[transitioning_to_productled_sales | transitioning to productled sales]]
+- [[hiring_for_growth_roles | hiring for growth roles]]
 
 ### [The UX Research reckoning is here | Judd Antin (Airbnb, Meta)](https://www.youtube.com/watch?v=L6RKi9ZvkT4)
-- [[the_concept_and_critique_of_user_centered_performance | The concept and critique of user centered performance]]
-- [[the_evolution_and_challenges_within_the_user_research_field | The evolution and challenges within the user research field]]
-- [[integrating_user_research_effectively_into_product_development | Integrating user research effectively into product development]]
-- [[the_importance_of_diverse_research_skills_for_researchers | The importance of diverse research skills for researchers]]
-- [[the_relationship_between_product_managers_and_user_researchers | The relationship between product managers and user researchers]]
+- [[the_state_of_ux_research_in_the_tech_industry | The state of UX research in the tech industry]]
+- [[user_centered_performance_and_performative_customer_obsession | User centered performance and performative customer obsession]]
+- [[integrating_ux_research_into_product_development_cycles | Integrating UX research into product development cycles]]
+- [[how_to_evaluate_and_hire_effective_ux_researchers | How to evaluate and hire effective UX researchers]]
+- [[balancing_user_research_with_business_goals | Balancing user research with business goals]]
 
-### [Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)](https://www.youtube.com/watch?v=6UHAop9fhNU)
-- [[authenticity_and_success_in_the_tech_industry | Authenticity and success in the tech industry]]
-- [[building_strategy_skills_and_effective_goal_setting | Building strategy skills and effective goal setting]]
-- [[curiosity_and_its_role_in_leadership | Curiosity and its role in leadership]]
-- [[being_a_successful_woman_in_tech | Being a successful woman in tech]]
-- [[using_metaphors_and_imagery_in_product_management | Using metaphors and imagery in product management]]
+### [Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)](https://www.youtube.com/watch?v=tBPTwUmaxDs)
+- [[developing_and_communicating_a_product_vision | Developing and communicating a product vision]]
+- [[craft_of_product_management_and_its_components | Craft of product management and its components]]
+- [[understanding_company_cultures_impact_on_product_development | Understanding company cultures impact on product development]]
+- [[methods_for_stakeholder_engagement_in_product_planning | Methods for stakeholder engagement in product planning]]
+- [[creating_alignment_and_buyin_within_teams | Creating alignment and buyin within teams]]
 
-### [Lessons from a 2-time unicorn builder, 50-time startup advisor and 20-time board member | Uri Levine](https://www.youtube.com/watch?v=Cj4ORGGEJcA)
-- [[building_and_advising_startups | Building and advising startups]]
-- [[entrepreneurship_lessons_and_strategies | Entrepreneurship lessons and strategies]]
-- [[fundraising_and_storytelling_for_startups | Fundraising and storytelling for startups]]
-- [[product_market_fit_and_user_understanding | Product market fit and user understanding]]
-- [[hiring_and_firing_in_startup_teams | Hiring and firing in startup teams]]
+### [4 questions Shreyas wishes he’d asked himself sooner | Former PM leader at Stripe, Twitter, Google](https://www.youtube.com/watch?v=atS060bNpE0)
+- [[questions_for_career_reflection | Questions for career reflection]]
+- [[challenges_of_product_leadership | Challenges of product leadership]]
+- [[managing_stress_and_productivity_in_leadership_roles | Managing stress and productivity in leadership roles]]
+- [[importance_of_strategy_and_decision_making_in_product_management | Importance of strategy and decision making in product management]]
+- [[effective_listening_and_communication_as_a_leader | Effective listening and communication as a leader]]
 
-### [Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit](https://www.youtube.com/watch?v=sTYuKgzZoL8)
-- [[naomi_gleit_and_her_career_at_meta | Naomi Gleit and her career at Meta]]
-- [[building_and_managing_growth_teams | Building and managing growth teams]]
-- [[leadership_lessons_from_mark_zuckerberg | Leadership lessons from Mark Zuckerberg]]
-- [[effective_product_management_strategies | Effective product management strategies]]
-- [[principles_and_practices_for_improving_retention_and_activation_metrics | Principles and practices for improving retention and activation metrics]]
+### [Land your dream job in today’s market: negotiation tactics, job search councils, more | Phyl Terry](https://www.youtube.com/watch?v=OH3nzRdwYPA)
+- [[job_search_strategies | Job search strategies]]
+- [[candidate_market_fit | Candidate Market Fit]]
+- [[job_search_councils | Job Search Councils]]
+- [[negotiation_tactics_for_job_offers | Negotiation tactics for job offers]]
+- [[the_importance_of_asking_for_help_in_job_searches | The importance of asking for help in job searches]]
+
+### [Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)](https://www.youtube.com/watch?v=qbZQjprTnrU)
+- [[customer_engagement_and_product_development | Customer engagement and product development]]
+- [[metrics_for_measuring_product_success | Metrics for measuring product success]]
+- [[strategies_for_building_products_at_large_companies | Strategies for building products at large companies]]
+- [[improving_user_experience_through_customer_feedback | Improving user experience through customer feedback]]
+- [[scaling_and_automating_business_processes | Scaling and automating business processes]]
+
+### [The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell](https://www.youtube.com/watch?v=En5cSXgGvZM)
+- [[cursor_and_its_impact_on_programming | Cursor and its impact on programming]]
+- [[the_future_of_software_development_beyond_traditional_coding | The future of software development beyond traditional coding]]
+- [[the_role_of_ai_in_transforming_engineering_and_product_design | The role of AI in transforming engineering and product design]]
+- [[challenges_and_lessons_in_building_a_business_around_ai_tools | Challenges and lessons in building a business around AI tools]]
+- [[the_significance_of_aidriven_ides_like_cursor_in_the_software_industry | The significance of AIdriven IDEs like Cursor in the software industry]]
+
+### [Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal](https://www.youtube.com/watch?v=IIPKMixTMfE)
+- [[notion_early_years_and_evolution | Notion early years and evolution]]
+- [[challenges_and_near_collapse_during_covid | Challenges and near collapse during COVID]]
+- [[philosophical_approach_to_product_development | Philosophical approach to product development]]
+- [[staying_lean_and_efficient_in_business | Staying lean and efficient in business]]
+- [[horizontal_software_and_bundling_strategies | Horizontal software and bundling strategies]]
 
 ### [Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor)](https://www.youtube.com/watch?v=BVzTfsUMaK8)
-- [[design_and_operation_of_online_marketplaces | Design and operation of online marketplaces]]
-- [[role_of_data_science_in_successful_marketplaces | Role of data science in successful marketplaces]]
-- [[challenges_in_starting_and_scaling_marketplace_businesses | Challenges in starting and scaling marketplace businesses]]
-- [[experimentation_and_datadriven_decision_making | Experimentation and datadriven decision making]]
-- [[impact_of_ai_on_data_science_and_marketplaces | Impact of AI on data science and marketplaces]]
+- [[understanding_marketplaces_and_transaction_costs | Understanding Marketplaces and Transaction Costs]]
+- [[role_of_data_science_in_online_marketplaces | Role of Data Science in Online Marketplaces]]
+- [[common_mistakes_in_building_marketplaces | Common Mistakes in Building Marketplaces]]
+- [[experiments_and_decisionmaking_in_marketplaces | Experiments and DecisionMaking in Marketplaces]]
+- [[designing_effective_rating_systems | Designing Effective Rating Systems]]
 
-### [How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)](https://www.youtube.com/watch?v=LpbBzmXrzEY)
-- [[visualization_techniques_for_speaking_anxiety | Visualization techniques for speaking anxiety]]
-- [[effective_spontaneous_speaking_techniques | Effective spontaneous speaking techniques]]
-- [[overcoming_public_speaking_anxiety | Overcoming public speaking anxiety]]
-- [[using_structure_to_improve_on_the_spot_communication | Using structure to improve on the spot communication]]
-- [[techniques_for_managing_and_delivering_feedback | Techniques for managing and delivering feedback]]
-
-### [Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)](https://www.youtube.com/watch?v=4LjddcccYIo)
-- [[traits_of_successful_product_managers | Traits of Successful Product Managers]]
-- [[challenges_and_strategies_in_product_management | Challenges and Strategies in Product Management]]
-- [[importance_of_simplification_and_prioritization | Importance of Simplification and Prioritization]]
-- [[followup_in_product_management | FollowUp in Product Management]]
-- [[getting_into_and_growing_in_product_management | Getting into and Growing in Product Management]]
-
-### [Radical Candor: From theory to practice with author Kim Scott](https://www.youtube.com/watch?v=V7tnbx-6Ayc)
-- [[practicing_radical_candor | Practicing radical candor]]
-- [[challenges_of_feedback_in_the_workplace | Challenges of feedback in the workplace]]
-- [[improving_communication_in_teams | Improving communication in teams]]
-- [[cultural_barriers_to_direct_feedback | Cultural barriers to direct feedback]]
-- [[leadership_and_management_development | Leadership and management development]]
-
-### [Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello](https://www.youtube.com/watch?v=BQM3Yq93nVc)
-- [[overcoming_public_speaking_anxiety | Overcoming public speaking anxiety]]
-- [[the_importance_of_conversational_speaking | The importance of conversational speaking]]
-- [[impact_of_speaking_as_a_meta_skill | Impact of speaking as a meta skill]]
-- [[exercises_to_improve_public_speaking_skills | Exercises to improve public speaking skills]]
-- [[using_games_for_public_speaking_practice | Using games for public speaking practice]]
+### [Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)](https://www.youtube.com/watch?v=6UHAop9fhNU)
+- [[the_importance_of_authenticity_and_curiosity_in_leadership | The importance of authenticity and curiosity in leadership]]
+- [[strategies_for_effective_disagreement_and_achieving_better_outcomes | Strategies for effective disagreement and achieving better outcomes]]
+- [[the_role_of_metaphors_and_imagery_in_product_management | The role of metaphors and imagery in product management]]
+- [[challenges_and_strategies_for_women_in_tech_leadership_positions | Challenges and strategies for women in tech leadership positions]]
+- [[executing_strategy_effectively_in_product_management | Executing strategy effectively in product management]]
 
 ### [Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)](https://www.youtube.com/watch?v=Mv0o9o4MRh0)
-- [[importance_of_selfawareness_and_personal_operating_principles | Importance of selfawareness and personal operating principles]]
-- [[developing_and_implementing_company_structures_and_operating_systems | Developing and implementing company structures and operating systems]]
-- [[role_and_effectiveness_of_the_coo_in_scaling_companies | Role and effectiveness of the COO in scaling companies]]
-- [[strategies_for_effective_communication_and_alignment_in_growing_organizations | Strategies for effective communication and alignment in growing organizations]]
-- [[decision_making_and_leadership_in_highgrowth_environments | Decision making and leadership in highgrowth environments]]
+- [[lessons_in_company_scaling_from_claire_hughes_johnson | Lessons in company scaling from Claire Hughes Johnson]]
+- [[importance_of_personal_and_company_operating_principles | Importance of personal and company operating principles]]
+- [[effective_strategies_for_alignment_and_communication_in_startups | Effective strategies for alignment and communication in startups]]
+- [[role_and_impact_of_a_chief_operating_officer | Role and impact of a Chief Operating Officer]]
+- [[examples_and_advice_on_decisionmaking_frameworks_for_managers_and_leaders | Examples and advice on decisionmaking frameworks for managers and leaders]]
+
+### [Lessons from a 2-time unicorn builder, 50-time startup advisor and 20-time board member | Uri Levine](https://www.youtube.com/watch?v=Cj4ORGGEJcA)
+- [[entrepreneurial_journey_and_startup_founding | Entrepreneurial journey and startup founding]]
+- [[importance_of_falling_in_love_with_the_problem | Importance of falling in love with the problem]]
+- [[hiring_and_firing_strategies_in_startups | Hiring and firing strategies in startups]]
+- [[fundraising_tips_and_storytelling_for_investors | Fundraising tips and storytelling for investors]]
+- [[understanding_and_analyzing_user_behavior | Understanding and analyzing user behavior]]
+
+### [Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit](https://www.youtube.com/watch?v=sTYuKgzZoL8)
+- [[role_of_product_managers_in_tech_companies | Role of product managers in tech companies]]
+- [[leadership_and_management_practices_at_meta | Leadership and management practices at Meta]]
+- [[insights_into_mark_zuckerbergs_leadership_transformation | Insights into Mark Zuckerbergs leadership transformation]]
+- [[growth_strategies_and_frameworks_used_at_facebook | Growth strategies and frameworks used at Facebook]]
+- [[enhancing_personal_productivity_and_work_efficiency | Enhancing personal productivity and work efficiency]]
+
+### [How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)](https://www.youtube.com/watch?v=LpbBzmXrzEY)
+- [[visualization_techniques_for_public_speaking | Visualization techniques for public speaking]]
+- [[overcoming_anxiety_in_public_speaking | Overcoming anxiety in public speaking]]
+- [[spontaneous_speaking_and_improvisation_skills | Spontaneous speaking and improvisation skills]]
+- [[effective_communication_structures_for_speaking | Effective communication structures for speaking]]
+- [[giving_feedback_and_making_apologies_effectively | Giving feedback and making apologies effectively]]
+
+### [Radical Candor: From theory to practice with author Kim Scott](https://www.youtube.com/watch?v=V7tnbx-6Ayc)
+- [[radical_candor_framework_by_kim_scott | Radical candor framework by Kim Scott]]
+- [[practical_advice_on_delivering_and_receiving_feedback | Practical advice on delivering and receiving feedback]]
+- [[impact_and_application_of_radical_candor_in_leadership | Impact and application of radical candor in leadership]]
+- [[avoiding_ruinous_empathy_and_obnoxious_aggression | Avoiding ruinous empathy and obnoxious aggression]]
+- [[building_a_culture_of_radical_respect | Building a culture of radical respect]]
+
+### [Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)](https://www.youtube.com/watch?v=4LjddcccYIo)
+- [[becoming_a_successful_product_manager | Becoming a successful product manager]]
+- [[the_role_of_ownership_and_responsibility_in_product_management | The role of ownership and responsibility in product management]]
+- [[strategies_for_simplifying_and_prioritizing_tasks_as_a_pm | Strategies for simplifying and prioritizing tasks as a PM]]
+- [[the_importance_of_following_up_on_results_in_product_management | The importance of following up on results in product management]]
+- [[writing_effective_product_strategies_and_onepagers | Writing effective product strategies and onepagers]]
 
 ### [Becoming an AI PM | Aman Khan (Arize AI, ex-Spotify, Apple, Cruise)](https://www.youtube.com/watch?v=E_rNotqs--I)
-- [[ai_product_management_strategies | AI product management strategies]]
-- [[transitioning_into_ai_product_management | Transitioning into AI product management]]
-- [[creating_aipowered_prototypes | Creating AIpowered prototypes]]
-- [[impact_and_challenges_of_ai_in_product_management | Impact and challenges of AI in product management]]
-- [[career_development_for_ai_individual_contributors | Career development for AI individual contributors]]
+- [[ai_product_management_and_its_future | AI product management and its future]]
+- [[how_to_become_an_ai_product_manager | How to become an AI product manager]]
+- [[tools_and_techniques_for_ai_product_managers | Tools and techniques for AI product managers]]
+- [[current_trends_and_challenges_in_ai_product_management | Current trends and challenges in AI product management]]
+- [[thriving_as_an_individual_contributor_in_tech | Thriving as an individual contributor in tech]]
+
+### [Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello](https://www.youtube.com/watch?v=BQM3Yq93nVc)
+- [[misconceptions_about_public_speaking | Misconceptions about public speaking]]
+- [[overcoming_public_speaking_anxiety | Overcoming public speaking anxiety]]
+- [[improving_public_speaking_through_interactive_exercises | Improving public speaking through interactive exercises]]
+- [[the_impact_of_confidence_and_mindset_in_public_speaking | The impact of confidence and mindset in public speaking]]
+- [[innovative_methods_for_preparing_public_speeches | Innovative methods for preparing public speeches]]
 
 ### [Become a better communicator: Specific frameworks to improve your clarity, influence, and impact](https://www.youtube.com/watch?v=BIvVGhy_VxU)
 - [[improving_communication_skills | Improving communication skills]]
-- [[managing_up_and_leadership_communication | Managing up and leadership communication]]
-- [[providing_effective_feedback | Providing effective feedback]]
-- [[conciseness_and_clarity_in_writing | Conciseness and clarity in writing]]
-- [[anticipating_objections_and_persuasion_strategies | Anticipating objections and persuasion strategies]]
-
-### [Land your dream job in today’s market: negotiation tactics, job search councils, more | Phyl Terry](https://www.youtube.com/watch?v=OH3nzRdwYPA)
-- [[job_search_strategies_and_mindset | Job search strategies and mindset]]
-- [[candidate_market_fit_and_job_targeting | Candidate market fit and job targeting]]
-- [[building_support_networks_job_search_councils | Building support networks Job search councils]]
-- [[effective_negotiation_tactics_for_job_offers | Effective negotiation tactics for job offers]]
-- [[asking_for_help_and_leveraging_networks | Asking for help and leveraging networks]]
-
-### [My favorite interview questions from 100+ guests](https://www.youtube.com/watch?v=UhASMW6X4AY)
-- [[favorite_interview_questions | Favorite interview questions]]
-- [[interview_preparation_for_candidates | Interview preparation for candidates]]
-- [[improving_interview_questions | Improving interview questions]]
-- [[behavioral_and_situational_interview_techniques | Behavioral and situational interview techniques]]
-- [[evaluating_selfawareness_and_introspection_in_interviews | Evaluating selfawareness and introspection in interviews]]
+- [[frameworks_for_clarity_and_influence | Frameworks for clarity and influence]]
+- [[anticipating_objections_in_conversations | Anticipating objections in conversations]]
+- [[importance_of_concise_written_communication | Importance of concise written communication]]
+- [[managing_up_in_professional_settings | Managing up in professional settings]]
 
 ### [How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)](https://www.youtube.com/watch?v=tncs0m5pmQg)
-- [[product_strategy_stack | Product strategy stack]]
-- [[role_of_product_leaders | Role of product leaders]]
-- [[difference_between_large_companies_and_startups | Difference between large companies and startups]]
-- [[integration_of_ai_in_coaching_and_product_management | Integration of AI in coaching and product management]]
-- [[challenges_in_goal_setting_and_execution_in_product_management | Challenges in goal setting and execution in product management]]
+- [[product_strategy_stack_framework | Product strategy stack framework]]
+- [[differences_between_product_leadership_at_big_companies_and_startups | Differences between product leadership at big companies and startups]]
+- [[importance_of_company_mission_and_strategy_in_product_development | Importance of company mission and strategy in product development]]
+- [[product_management_competencies_and_career_development | Product management competencies and career development]]
+- [[selective_micromanagement_as_a_leadership_approach | Selective micromanagement as a leadership approach]]
 
 ### [Making Meta | Andrew ‘Boz’ Bosworth (CTO)](https://www.youtube.com/watch?v=_XqDB2Upr3s)
-- [[early_days_of_facebook_and_engineering_challenges | Early days of Facebook and engineering challenges]]
-- [[development_and_impact_of_the_facebook_news_feed | Development and impact of the Facebook News Feed]]
-- [[metas_corporate_culture_and_management | Metas corporate culture and management]]
-- [[metas_ar_vr_and_hardware_development_efforts | Metas AR VR and hardware development efforts]]
+- [[early_challenges_and_experiences_at_facebook | Early challenges and experiences at Facebook]]
+- [[development_of_facebooks_news_feed | Development of Facebooks News Feed]]
 - [[leadership_and_career_advice_from_andrew_bosworth | Leadership and career advice from Andrew Bosworth]]
+- [[metas_technological_innovations_in_arvr | Metas technological innovations in ARVR]]
+- [[metas_strategic_turnaround_and_insights | Metas strategic turnaround and insights]]
 
-### [The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (Stanford)](https://www.youtube.com/watch?v=etVCBDRXUH8)
-- [[seven_rules_of_power | Seven rules of power]]
-- [[building_and_using_influence_in_a_career | Building and using influence in a career]]
-- [[overcoming_impostor_syndrome_and_selflimiting_beliefs | Overcoming impostor syndrome and selflimiting beliefs]]
-- [[networking_and_personal_branding | Networking and personal branding]]
-- [[the_impact_of_power_on_personal_life_and_autonomy | The impact of power on personal life and autonomy]]
+### [My favorite interview questions from 100+ guests](https://www.youtube.com/watch?v=UhASMW6X4AY)
+- [[favorite_interview_questions_from_successful_professionals | favorite interview questions from successful professionals]]
+- [[importance_of_introspection_and_selfawareness_in_interviews | importance of introspection and selfawareness in interviews]]
+- [[navigating_ambiguity_in_the_product_management_role | navigating ambiguity in the product management role]]
+- [[impact_of_storytelling_and_communication_in_interviews | impact of storytelling and communication in interviews]]
+- [[strategies_for_conducting_effective_referral_calls_and_performance_reviews | strategies for conducting effective referral calls and performance reviews]]
 
 ### [Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)](https://www.youtube.com/watch?v=4muxFVZ4XfM)
-- [[design_and_innovation_in_software_development | Design and innovation in software development]]
-- [[unique_teambuilding_and_operational_strategies | Unique teambuilding and operational strategies]]
-- [[hiring_practices_and_work_trials | Hiring practices and work trials]]
-- [[importance_of_productmarket_fit_for_startups | Importance of productmarket fit for startups]]
-- [[building_a_brand_and_maintaining_product_quality | Building a brand and maintaining product quality]]
+- [[importance_of_design_in_product_development | Importance of design in product development]]
+- [[unique_company_culture_and_business_practices_at_linear | Unique company culture and business practices at Linear]]
+- [[effective_product_management_without_standard_metrics_or_multiple_pms | Effective product management without standard metrics or multiple PMs]]
+- [[building_productmarket_fit_through_strategic_focus | Building productmarket fit through strategic focus]]
+- [[hiring_and_team_management_innovations_at_linear | Hiring and team management innovations at Linear]]
 
 ### [Seth Godin's best tactics for building remarkable products, strategies, brands and more](https://www.youtube.com/watch?v=UyWTDmDjNy4)
-- [[building_brands_in_the_ai_industry | Building brands in the AI industry]]
-- [[the_impact_of_empathy_in_product_management | The impact of empathy in product management]]
-- [[strategy_development_and_the_importance_of_tension | Strategy development and the importance of tension]]
-- [[the_concept_of_being_remarkable__purple_cow | The concept of being remarkable  Purple Cow]]
-- [[effective_leadership_and_strategic_thinking | Effective leadership and strategic thinking]]
-
-### [Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)](https://www.youtube.com/watch?v=8A7wXK2MncQ)
-- [[nubanks_growth_and_unique_approach | Nubanks growth and unique approach]]
-- [[product_development_and_customer_fanaticism | Product development and customer fanaticism]]
-- [[strategy_formulation_and_execution | Strategy formulation and execution]]
-- [[category_design_and_fintech_innovation | Category design and fintech innovation]]
-- [[ai_in_financial_services | AI in financial services]]
+- [[building_a_brand_with_ai | Building a Brand with AI]]
+- [[product_management_insights | Product Management Insights]]
+- [[creating_a_remarkable_product | Creating a Remarkable Product]]
+- [[the_importance_of_strategy_and_tension | The Importance of Strategy and Tension]]
+- [[the_role_of_empathy_in_leadership | The Role of Empathy in Leadership]]
 
 ### [Building a culture of excellence | David Singleton (CTO of Stripe)](https://www.youtube.com/watch?v=F0_IKKY3HCk)
-- [[building_a_productoriented_engineering_team | Building a productoriented engineering team]]
-- [[cocreating_products_with_early_users | Cocreating products with early users]]
-- [[stripes_approach_to_hiring_and_retaining_talent | Stripes approach to hiring and retaining talent]]
-- [[operationalizing_the_principle_of_meticulousness_in_product_development | Operationalizing the principle of meticulousness in product development]]
-- [[the_impact_of_ai_and_machine_learning_in_stripes_operations | The impact of AI and machine learning in Stripes operations]]
+- [[building_a_productoriented_engineering_culture | Building a productoriented engineering culture]]
+- [[stripes_approach_to_hiring_and_talent_development | Stripes approach to hiring and talent development]]
+- [[operationalizing_excellence_and_meticulousness_at_stripe | Operationalizing excellence and meticulousness at Stripe]]
+- [[incorporating_user_feedback_into_product_development | Incorporating user feedback into product development]]
+- [[impact_of_ai_and_machine_learning_on_product_development | Impact of AI and machine learning on product development]]
+
+### [Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)](https://www.youtube.com/watch?v=8A7wXK2MncQ)
+- [[building_products_people_love_fanatically | Building products people love fanatically]]
+- [[fundamental_difference_versus_incremental_improvement | Fundamental difference versus incremental improvement]]
+- [[strategy_development_and_execution | Strategy development and execution]]
+- [[category_design_in_product_development | Category design in product development]]
+- [[expanding_business_lines_in_fintech | Expanding business lines in fintech]]
+
+### [The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (Stanford)](https://www.youtube.com/watch?v=etVCBDRXUH8)
+- [[building_and_leveraging_personal_power | Building and leveraging personal power]]
+- [[networking_strategies_and_benefits | Networking strategies and benefits]]
+- [[overcoming_impostor_syndrome_in_professional_settings | Overcoming impostor syndrome in professional settings]]
+- [[the_significance_of_personal_branding | The significance of personal branding]]
+- [[influence_and_power_dynamics_in_organizations | Influence and power dynamics in organizations]]
 
 ### [How to nail your product positioning | April Dunford (Obviously Awesome)](https://www.youtube.com/watch?v=hdjlCLb9Hl8)
-- [[product_positioning_strategy | Product Positioning Strategy]]
-- [[importance_of_alignment_in_positioning | Importance of Alignment in Positioning]]
-- [[developing_differentiated_value | Developing Differentiated Value]]
-- [[steps_in_positioning_a_product | Steps in Positioning a Product]]
-- [[segmentation_versus_personas_in_marketing | Segmentation versus Personas in Marketing]]
-
-### [The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)](https://www.youtube.com/watch?v=VjJ6xcv7e8s)
-- [[the_sean_ellis_test_and_product_market_fit | The Sean Ellis test and product market fit]]
-- [[growth_hacking_and_sustainable_growth_strategies | Growth hacking and sustainable growth strategies]]
-- [[activation_and_onboarding_strategies | Activation and onboarding strategies]]
-- [[referral_programs_and_growth_engines | Referral programs and growth engines]]
-- [[developing_and_using_northstar_metrics | Developing and using Northstar metrics]]
+- [[importance_of_product_positioning_in_b2b_tech | Importance of product positioning in B2B tech]]
+- [[april_dunfords_methodology_for_effective_positioning | April Dunfords methodology for effective positioning]]
+- [[challenges_and_signs_of_weak_product_positioning | Challenges and signs of weak product positioning]]
+- [[steps_to_develop_and_align_on_product_positioning | Steps to develop and align on product positioning]]
+- [[differences_between_positioning_and_messaging | Differences between positioning and messaging]]
 
 ### [Everyone’s an engineer now: Inside v0’s mission to create 100 million builders | Guillermo Rauch](https://www.youtube.com/watch?v=-QsTmu2CqhA)
-- [[transformation_in_product_development_with_ai | Transformation in Product Development with AI]]
-- [[role_of_engineers_in_the_future | Role of Engineers in the Future]]
-- [[understanding_and_building_taste_in_design | Understanding and Building Taste in Design]]
-- [[empowering_nontechnical_teams_with_ai_tools | Empowering Nontechnical Teams with AI Tools]]
-- [[scaling_and_enhancing_product_design_with_ai | Scaling and Enhancing Product Design with AI]]
+- [[impact_of_ai_on_product_development | Impact of AI on product development]]
+- [[role_of_fullstack_skills_in_modern_product_management | Role of fullstack skills in modern product management]]
+- [[how_ai_tools_are_simplifying_web_design_and_development | How AI tools are simplifying web design and development]]
+- [[transformations_in_engineering_roles_with_ai | Transformations in engineering roles with AI]]
+- [[building_taste_and_design_acuity_in_digital_products | Building taste and design acuity in digital products]]
 
-### [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM)
-- [[redefining_success_and_worklife_balance | Redefining success and worklife balance]]
-- [[exploring_the_concept_of_the_pathless_path | Exploring the concept of the pathless path]]
-- [[addressing_the_fears_of_leaving_the_default_path | Addressing the fears of leaving the default path]]
-- [[the_benefits_and_challenges_of_taking_sabbaticals | The benefits and challenges of taking sabbaticals]]
-- [[pathless_path_examples_and_personal_stories | Pathless path examples and personal stories]]
+### [The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)](https://www.youtube.com/watch?v=Z9ftpRhRiJE)
+- [[the_role_of_engineers_in_leadership | The role of engineers in leadership]]
+- [[developing_engineering_strategy_and_its_importance | Developing engineering strategy and its importance]]
+- [[systems_thinking_in_engineering | Systems thinking in engineering]]
+- [[measuring_and_improving_engineering_productivity | Measuring and improving engineering productivity]]
+- [[the_importance_of_aligning_incentives_for_engineering_and_product_management_teams | The importance of aligning incentives for engineering and product management teams]]
 
 ### [An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)](https://www.youtube.com/watch?v=NepFo4zXyK4)
 - [[figmas_product_development_philosophy | Figmas product development philosophy]]
-- [[importance_of_storytelling_for_product_managers | Importance of storytelling for product managers]]
-- [[communityled_growth_and_productled_growth | Communityled growth and productled growth]]
-- [[proximity_and_engagement_with_customers | Proximity and engagement with customers]]
-- [[experiences_with_okrs_and_goal_setting | Experiences with OKRs and goal setting]]
+- [[importance_of_storytelling_in_product_management | Importance of storytelling in product management]]
+- [[proximity_to_customers_in_product_design | Proximity to customers in product design]]
+- [[role_of_product_managers_in_owning_the_why | Role of product managers in owning the why]]
+- [[productled_growth_strategies_at_figma | Productled growth strategies at Figma]]
+
+### [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM)
+- [[redefining_success_and_worklife_balance | Redefining success and worklife balance]]
+- [[exploring_alternative_career_paths | Exploring alternative career paths]]
+- [[impact_of_societal_scripts_on_individual_choices | Impact of societal scripts on individual choices]]
+- [[strategies_for_financial_sustainability_during_transitions | Strategies for financial sustainability during transitions]]
+- [[embracing_uncertainty_and_personal_reinvention | Embracing uncertainty and personal reinvention]]
 
 ### [How to measure and improve developer productivity | Nicole Forsgren (Microsoft Research, Github)](https://www.youtube.com/watch?v=dP8NmcEkxJI)
-- [[measuring_developer_productivity | Measuring developer productivity]]
-- [[improving_developer_experience | Improving developer experience]]
-- [[dora_and_space_frameworks_for_developer_performance | Dora and Space frameworks for developer performance]]
-- [[influence_of_ai_on_engineering_productivity | Influence of AI on engineering productivity]]
-- [[common_pitfalls_in_enhancing_developer_productivity_systems | Common pitfalls in enhancing developer productivity systems]]
+- [[developer_productivity_improvement | Developer productivity improvement]]
+- [[dora_and_space_frameworks_for_measuring_productivity | DORA and SPACE frameworks for measuring productivity]]
+- [[implementing_technical_and_cultural_practices_for_efficient_software_development | Implementing technical and cultural practices for efficient software development]]
+- [[impact_of_ai_on_engineering_productivity | Impact of AI on engineering productivity]]
+- [[understanding_and_improving_developer_experience | Understanding and improving developer experience]]
 
 ### [The ultimate guide to OKRs | Christina Wodtke (Stanford)](https://www.youtube.com/watch?v=kvkL18Ue0dE)
-- [[importance_of_celebrations_in_organizational_culture | Importance of celebrations in organizational culture]]
-- [[role_of_okrs_in_strategic_alignment_and_execution | Role of OKRs in strategic alignment and execution]]
-- [[best_practices_for_implementing_okrs_in_companies | Best practices for implementing OKRs in companies]]
-- [[challenges_and_pitfalls_in_using_okrs | Challenges and pitfalls in using OKRs]]
-- [[relationship_between_okrs_mission_vision_and_strategy | Relationship between OKRs mission vision and strategy]]
+- [[okr_implementation_and_benefits | OKR implementation and benefits]]
+- [[mission_vision_and_strategy_alignment | Mission vision and strategy alignment]]
+- [[weekly_and_quarterly_okr_processes | Weekly and quarterly OKR processes]]
+- [[challenges_and_common_mistakes_with_okrs | Challenges and common mistakes with OKRs]]
+- [[storytelling_and_drawing_in_product_management | Storytelling and drawing in product management]]
 
-### [The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)](https://www.youtube.com/watch?v=Z9ftpRhRiJE)
-- [[the_role_and_treatment_of_engineers_in_organizations | The role and treatment of engineers in organizations]]
-- [[engineering_leadership_and_management_strategies | Engineering leadership and management strategies]]
-- [[systems_thinking_and_its_application_in_engineering | Systems thinking and its application in engineering]]
-- [[engineering_productivity_and_strategy_evaluation | Engineering productivity and strategy evaluation]]
-- [[lessons_from_failure_in_engineering_projects | Lessons from failure in engineering projects]]
+### [The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)](https://www.youtube.com/watch?v=VjJ6xcv7e8s)
+- [[the_sean_ellis_test__understanding_product_market_fit | The Sean Ellis test  Understanding product market fit]]
+- [[strategies_to_improve_activation_and_onboarding | Strategies to improve activation and onboarding]]
+- [[growth_hacking_as_a_sustainable_business_strategy | Growth hacking as a sustainable business strategy]]
+- [[choosing_and_using_north_star_metrics_effectively | Choosing and using North Star metrics effectively]]
+- [[the_role_of_referrals_and_freemium_in_product_growth | The role of referrals and freemium in product growth]]
+
+### [An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)](https://www.youtube.com/watch?v=C1_sM0_ds2c)
+- [[growth_strategies_for_saas_businesses | Growth strategies for SaaS businesses]]
+- [[seo_best_practices_for_b2b_companies | SEO best practices for B2B companies]]
+- [[building_and_scaling_a_growth_team | Building and scaling a growth team]]
+- [[utilizing_lowcost_growth_channels | Utilizing lowcost growth channels]]
+- [[company_culture_and_remote_work | Company culture and remote work]]
+
+### [Developing a growth model + marketplace growth strategy | Dan Hockenmaier(Faire, Thumbtack, Reforge)](https://www.youtube.com/watch?v=AlTQ6O2qooI)
+- [[marketplace_growth_strategies | Marketplace growth strategies]]
+- [[developing_a_growth_model_for_a_business | Developing a growth model for a business]]
+- [[key_performance_indicators_for_marketplaces | Key performance indicators for marketplaces]]
+- [[challenges_and_considerations_in_b2b_marketplaces | Challenges and considerations in B2B marketplaces]]
+- [[expansion_strategies_for_marketplaces | Expansion strategies for marketplaces]]
 
 ### [Building a world-class sales org | Jason Lemkin (SaaStr)](https://www.youtube.com/watch?v=eMe_FWldQF0)
-- [[building_a_sales_team | Building a sales team]]
-- [[the_role_of_product_managers_in_sales | The role of product managers in sales]]
-- [[sales_strategies_for_startups | Sales strategies for startups]]
-- [[hiring_the_right_salespeople | Hiring the right salespeople]]
-- [[collaboration_between_product_and_sales_teams | Collaboration between product and sales teams]]
+- [[building_a_sales_team_in_b2b_saas | Building a sales team in B2B SaaS]]
+- [[when_to_hire_sales_reps_and_developing_sales_acumen | When to hire sales reps and developing sales acumen]]
+- [[the_role_of_product_teams_in_the_sales_process | The role of product teams in the sales process]]
+- [[effective_sales_compensation_and_quota_setting | Effective sales compensation and quota setting]]
+- [[running_and_scaling_a_successful_conference | Running and scaling a successful conference]]
+
+### [Superhuman's secret to success | Rahul Vohra (CEO and founder)](https://www.youtube.com/watch?v=0igjSRZyX-w)
+- [[product_market_fit_strategies | Product market fit strategies]]
+- [[game_design_in_business_software | Game design in business software]]
+- [[superhumans_ai_integration | Superhumans AI integration]]
+- [[pricing_strategies_for_premium_products | Pricing strategies for premium products]]
+- [[manual_user_onboarding_techniques | Manual user onboarding techniques]]
+
+### [The ultimate guide to product-led sales | Elena Verna](https://www.youtube.com/watch?v=bxghtN-OlJQ)
+- [[understanding_productled_sales_and_its_differences_from_traditional_sales | Understanding productled sales and its differences from traditional sales]]
+- [[collaborative_dynamics_between_product_and_sales_teams | Collaborative dynamics between product and sales teams]]
+- [[identifying_and_developing_product_qualified_accounts_for_sales | Identifying and developing product qualified accounts for sales]]
+- [[building_infrastructure_and_processes_for_productled_sales | Building infrastructure and processes for productled sales]]
+- [[common_pitfalls_and_best_practices_in_implementing_productled_sales_strategies | Common pitfalls and best practices in implementing productled sales strategies]]
+
+### [Behind the product: Replit | Amjad Masad (co-founder and CEO)](https://www.youtube.com/watch?v=Bp_h674oIhw)
+- [[vision_and_mission_of_replit | Vision and mission of Replit]]
+- [[impact_of_ai_on_software_development | Impact of AI on software development]]
+- [[replits_global_user_base_and_expansion | Replits global user base and expansion]]
+- [[how_replit_simplifies_coding_and_development | How Replit simplifies coding and development]]
+- [[future_of_startups_and_product_development_with_ai | Future of startups and product development with AI]]
+
+### [How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)](https://www.youtube.com/watch?v=UpGR9P0Ufts)
+- [[genie_framework_for_career_and_life_choices | Genie framework for career and life choices]]
+- [[breaking_out_of_autopilot_mode_in_life | Breaking out of autopilot mode in life]]
+- [[overcoming_limiting_beliefs | Overcoming limiting beliefs]]
+- [[importance_of_accountability_in_achieving_goals | Importance of accountability in achieving goals]]
+- [[lessons_from_failures_and_the_importance_of_persistence | Lessons from failures and the importance of persistence]]
 
 ### [Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks](https://www.youtube.com/watch?v=-kHkWgjGD7U)
 - [[crafting_compelling_presentations | Crafting compelling presentations]]
-- [[empathy_in_storytelling_and_communication | Empathy in storytelling and communication]]
-- [[presentation_structure_and_frameworks | Presentation structure and frameworks]]
-- [[visual_storytelling_techniques | Visual storytelling techniques]]
-- [[managing_presentation_nerves_and_stage_presence | Managing presentation nerves and stage presence]]
-
-### [Superhuman's secret to success | Rahul Vohra (CEO and founder)](https://www.youtube.com/watch?v=0igjSRZyX-w)
-- [[product_market_fit_strategy | Product Market Fit Strategy]]
-- [[manual_onboarding_of_new_users | Manual Onboarding of New Users]]
-- [[game_design_in_business_software | Game Design in Business Software]]
-- [[pricing_strategy_for_software_products | Pricing Strategy for Software Products]]
-- [[ai_integration_in_product_development | AI Integration in Product Development]]
-
-### [Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)](https://www.youtube.com/watch?v=nTr21kgCFF4)
-- [[balancing_speed_and_quality_in_product_development | Balancing speed and quality in product development]]
-- [[avoiding_product_bloat_through_strategic_feature_management | Avoiding product bloat through strategic feature management]]
-- [[understanding_customer_emotions_in_product_design | Understanding customer emotions in product design]]
-- [[creative_approaches_to_building_beloved_b2b_products | Creative approaches to building beloved B2B products]]
-- [[integrating_product_management_with_gotomarket_strategies | Integrating product management with gotomarket strategies]]
-
-### [Developing a growth model + marketplace growth strategy | Dan Hockenmaier(Faire, Thumbtack, Reforge)](https://www.youtube.com/watch?v=AlTQ6O2qooI)
-- [[marketplace_growth_strategy | Marketplace growth strategy]]
-- [[developing_a_growth_model | Developing a growth model]]
-- [[saas_business_growth_dynamics | SaaS business growth dynamics]]
-- [[unit_economics_in_marketplaces | Unit economics in marketplaces]]
-- [[importance_of_retention_in_growth_models | Importance of retention in growth models]]
-
-### [Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)](https://www.youtube.com/watch?v=vnW3zIkrOvY)
-- [[challenges_in_early_startup_growth_and_product_pivots | Challenges in early startup growth and product pivots]]
-- [[finding_productmarket_fit_in_a_b2b_company | Finding productmarket fit in a B2B company]]
-- [[transitioning_career_paths_from_engineering_to_marketing | Transitioning career paths from engineering to marketing]]
-- [[strategies_for_effective_marketing_in_a_tech_startup | Strategies for effective marketing in a tech startup]]
-- [[building_a_strong_company_culture_in_a_fastgrowing_company | Building a strong company culture in a fastgrowing company]]
-
-### [The ultimate guide to product-led sales | Elena Verna](https://www.youtube.com/watch?v=bxghtN-OlJQ)
-- [[productled_sales_strategy | Productled sales strategy]]
-- [[product_and_sales_collaboration | Product and sales collaboration]]
-- [[implementing_productled_growth | Implementing productled growth]]
-- [[sales_involvement_in_productled_growth | Sales involvement in productled growth]]
-- [[common_pitfalls_in_productled_sales | Common pitfalls in productled sales]]
-
-### [Behind the product: Replit | Amjad Masad (co-founder and CEO)](https://www.youtube.com/watch?v=Bp_h674oIhw)
-- [[ai_and_software_development | AI and software development]]
-- [[replits_impact_on_accessibility_of_coding | Replits impact on accessibility of coding]]
-- [[future_implications_of_ai_for_product_management | Future implications of AI for product management]]
-- [[role_of_ai_in_startups_and_entrepreneurship | Role of AI in startups and entrepreneurship]]
-- [[user_experiences_and_case_studies_with_replit | User experiences and case studies with Replit]]
+- [[the_power_of_storytelling_in_communication | The power of storytelling in communication]]
+- [[presentation_design_and_communication_strategies | Presentation design and communication strategies]]
+- [[using_empathy_in_presentations | Using empathy in presentations]]
+- [[techniques_for_reducing_presentation_nerves | Techniques for reducing presentation nerves]]
 
 ### [Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada](https://www.youtube.com/watch?v=HbbfXAWcuUo)
-- [[prototyping_with_ai_in_product_development | Prototyping with AI in product development]]
-- [[natural_language_interface_as_the_new_ux | Natural language interface as the new UX]]
-- [[the_evolving_role_of_product_management_in_an_aidriven_world | The evolving role of product management in an AIdriven world]]
-- [[microsofts_approach_to_ai_and_productivity_tools | Microsofts approach to AI and productivity tools]]
-- [[future_of_autonomous_agents_and_ai_in_collaboration | Future of autonomous agents and AI in collaboration]]
-
-### [How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)](https://www.youtube.com/watch?v=UpGR9P0Ufts)
-- [[breaking_out_of_autopilot_mode | Breaking out of autopilot mode]]
-- [[genie_framework_for_decision_making | Genie framework for decision making]]
-- [[managing_limiting_beliefs | Managing limiting beliefs]]
-- [[finding_and_pursuing_life_goals | Finding and pursuing life goals]]
-- [[creating_accountability_for_personal_growth | Creating accountability for personal growth]]
-
-### [Strategies for becoming less distractible and improving focus | Nir Eyal](https://www.youtube.com/watch?v=WSscIIY609c)
-- [[overcoming_distractions_and_internal_triggers | Overcoming distractions and internal triggers]]
-- [[tactics_for_improving_focus_and_productivity | Tactics for improving focus and productivity]]
-- [[creating_a_structured_and_productive_work_schedule | Creating a structured and productive work schedule]]
-- [[practical_tools_and_techniques_for_reducing_distractions | Practical tools and techniques for reducing distractions]]
-- [[building_an_indistractable_workplace_culture | Building an indistractable workplace culture]]
-
-### [An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)](https://www.youtube.com/watch?v=C1_sM0_ds2c)
-- [[deels_growth_strategy_and_early_prioritization | Deels Growth Strategy and Early Prioritization]]
-- [[lowcost_growth_channels_and_community_engagement | Lowcost Growth Channels and Community Engagement]]
-- [[seo_best_practices_and_content_strategy | SEO Best Practices and Content Strategy]]
-- [[the_impact_of_covid19_on_deels_growth | The Impact of COVID19 on Deels Growth]]
-- [[building_and_structuring_a_highperforming_growth_team | Building and Structuring a HighPerforming Growth Team]]
-
-### [Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)](https://www.youtube.com/watch?v=Ub9UkWByFIQ)
-- [[frameworks_for_growth_in_product_management | Frameworks for growth in product management]]
-- [[the_role_and_impact_of_managers_in_career_development | The role and impact of managers in career development]]
-- [[understanding_the_importance_of_understand_work_in_leading_product_development | Understanding the importance of understand work in leading product development]]
-- [[principles_of_adjacent_user_theory_and_its_application_in_product_growth | Principles of adjacent user theory and its application in product growth]]
-- [[the_impact_of_partnerships_and_seo_on_the_early_growth_of_social_media_platforms | The impact of partnerships and SEO on the early growth of social media platforms]]
-
-### [Breaking the rules of growth: Why Shopify bans KPIs, optimizes for churn, and prioritizes intuition](https://www.youtube.com/watch?v=Vlph3dn4jnU)
-- [[shopifys_unique_approach_to_growth_without_kpis | Shopifys unique approach to growth without KPIs]]
-- [[experimentation_and_longterm_impact_measurement | Experimentation and longterm impact measurement]]
-- [[the_role_of_intuition_and_taste_in_product_development | The role of intuition and taste in product development]]
-- [[shopifys_organizational_structure_and_team_dynamics | Shopifys organizational structure and team dynamics]]
-- [[challenges_and_strategies_in_integrating_sales_and_marketing | Challenges and strategies in integrating sales and marketing]]
+- [[ai_in_product_development | AI in Product Development]]
+- [[natural_language_interfaces_in_ux | Natural Language Interfaces in UX]]
+- [[ai_agents_and_their_impact | AI Agents and Their Impact]]
+- [[prototyping_with_ai_tools | Prototyping with AI Tools]]
+- [[role_of_product_management_in_the_ai_era | Role of Product Management in the AI Era]]
 
 ### [Everything you’ve ever wanted to know about SAFe and the product owner role | Melissa Perri](https://www.youtube.com/watch?v=wbi9chsAHp4)
-- [[scaled_agile_framework_safe | Scaled Agile Framework SAFe]]
-- [[product_management_vs_product_owner | Product management vs Product owner]]
-- [[agile_methodologies_and_their_evolution | Agile methodologies and their evolution]]
-- [[adoption_and_challenges_of_agile_and_scrum_in_large_organizations | Adoption and challenges of agile and scrum in large organizations]]
-- [[career_development_for_product_owners_and_managers | Career development for product owners and managers]]
+- [[safe_and_its_implementation_in_large_organizations | SAFe and its implementation in large organizations]]
+- [[the_role_and_evolution_of_the_product_owner_in_tech | The role and evolution of the product owner in tech]]
+- [[scaled_agile_framework_vs_traditional_methods | Scaled Agile Framework vs traditional methods]]
+- [[challenges_in_agile_transformations_within_nonsoftware_native_companies | Challenges in agile transformations within nonsoftware native companies]]
+- [[key_skills_and_career_paths_for_transitioning_from_product_owner_to_product_manager | Key skills and career paths for transitioning from product owner to product manager]]
+
+### [Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)](https://www.youtube.com/watch?v=vnW3zIkrOvY)
+- [[early_stages_of_product_development_and_pivot | Early stages of product development and pivot]]
+- [[finding_productmarket_fit_in_startups | Finding productmarket fit in startups]]
+- [[transitioning_from_engineering_to_marketing | Transitioning from engineering to marketing]]
+- [[building_and_maintaining_company_culture | Building and maintaining company culture]]
+- [[strategies_for_marketing_and_brand_differentiation_in_b2b_companies | Strategies for marketing and brand differentiation in B2B companies]]
+
+### [Breaking the rules of growth: Why Shopify bans KPIs, optimizes for churn, and prioritizes intuition](https://www.youtube.com/watch?v=Vlph3dn4jnU)
+- [[shopifys_unique_growth_strategies | Shopifys unique growth strategies]]
+- [[the_role_of_intuition_and_longterm_vision_in_decisionmaking | The role of intuition and longterm vision in decisionmaking]]
+- [[the_impact_of_banning_kpis_on_product_development | The impact of banning KPIs on product development]]
+- [[optimizing_for_churn_and_its_implications_on_business | Optimizing for churn and its implications on business]]
+- [[the_importance_of_experimentation_and_longterm_experiments_in_growth | The importance of experimentation and longterm experiments in growth]]
 
 ### [Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)](https://www.youtube.com/watch?v=D4PDb_C8Dww)
 - [[building_and_scaling_a_data_organization | Building and scaling a data organization]]
-- [[centralized_versus_embedded_data_teams | Centralized versus embedded data teams]]
-- [[defining_effective_business_metrics | Defining effective business metrics]]
-- [[leveraging_ai_for_data_team_efficiency | Leveraging AI for data team efficiency]]
-- [[cultural_elements_fostering_team_ownership_and_impact | Cultural elements fostering team ownership and impact]]
+- [[centralized_vs_embedded_data_team_structures | Centralized vs embedded data team structures]]
+- [[effective_metrics_for_longterm_business_outcomes | Effective metrics for longterm business outcomes]]
+- [[role_of_curiosity_and_ownership_in_data_science | Role of curiosity and ownership in data science]]
+- [[crossfunctional_collaboration_in_data_teams | Crossfunctional collaboration in data teams]]
 
-### [An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)](https://www.youtube.com/watch?v=UmirRfy-gzA)
-- [[figmas_go_to_market_strategy | Figmas go to market strategy]]
-- [[building_customer_loyalty_and_internal_champions | Building customer loyalty and internal champions]]
-- [[bottoms_up_growth_model_in_saas | Bottoms up growth model in SaaS]]
-- [[importance_of_user_feedback_in_product_development | Importance of user feedback in product development]]
-- [[scaling_a_company_culture_while_maintaining_user_trust | Scaling a company culture while maintaining user trust]]
+### [Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)](https://www.youtube.com/watch?v=nTr21kgCFF4)
+- [[speed_vs_quality_in_product_development | Speed vs Quality in Product Development]]
+- [[avoiding_software_bloat_through_feature_selection | Avoiding Software Bloat through Feature Selection]]
+- [[effective_customer_interaction_and_feedback_gathering | Effective Customer Interaction and Feedback Gathering]]
+- [[creativity_and_innovation_in_product_design | Creativity and Innovation in Product Design]]
+- [[building_a_strong_gotomarket_strategy | Building a Strong GoToMarket Strategy]]
+
+### [Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)](https://www.youtube.com/watch?v=Ub9UkWByFIQ)
+- [[unorthodox_frameworks_for_growth_and_impact | Unorthodox frameworks for growth and impact]]
+- [[understanding_work_for_product_development | Understanding work for product development]]
+- [[choosing_the_right_place_to_work | Choosing the right place to work]]
+- [[adjacent_user_theory_and_its_impact_on_growth | Adjacent user theory and its impact on growth]]
+- [[coaching_and_mentoring_in_product_management | Coaching and mentoring in product management]]
 
 ### [The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher)](https://www.youtube.com/watch?v=A6veeCbKIzw)
-- [[willingness_to_pay_and_its_importance_in_pricing_strategy | Willingness to pay and its importance in pricing strategy]]
-- [[segmentation_and_productizing_for_different_customer_needs | Segmentation and productizing for different customer needs]]
-- [[pricing_models_and_strategies_for_saas_companies | Pricing models and strategies for SaaS companies]]
-- [[behavioral_pricing_and_psychological_thresholds | Behavioral pricing and psychological thresholds]]
-- [[packaging_and_bundling_strategies_to_maximize_value | Packaging and bundling strategies to maximize value]]
+- [[the_importance_of_pricing_strategy_for_startups_and_tech_companies | The importance of pricing strategy for startups and tech companies]]
+- [[understanding_willingness_to_pay_in_pricing_strategy | Understanding willingness to pay in pricing strategy]]
+- [[effective_segmentation_for_product_and_pricing_strategy | Effective segmentation for product and pricing strategy]]
+- [[different_pricing_models_and_when_to_use_them | Different pricing models and when to use them]]
+- [[behavioral_pricing_tactics_and_their_impact_on_consumer_decisionmaking | Behavioral pricing tactics and their impact on consumer decisionmaking]]
 
 ### [Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)](https://www.youtube.com/watch?v=aXGo1o_baBo)
-- [[balancing_startup_and_large_company_operations | Balancing startup and large company operations]]
-- [[chat_prd_and_ai_in_product_management | Chat PRD and AI in product management]]
-- [[career_growth_and_strategic_positioning | Career growth and strategic positioning]]
-- [[the_role_of_women_in_technology | The role of women in technology]]
-- [[engineering_and_product_management_integration | Engineering and product management integration]]
+- [[navigating_career_growth_and_advancement_in_tech | Navigating career growth and advancement in tech]]
+- [[balancing_startup_mentality_within_larger_organizations | Balancing startup mentality within larger organizations]]
+- [[understanding_the_role_and_evolution_of_the_cpto | Understanding the role and evolution of the CPTO]]
+- [[leveraging_ai_tools_in_product_management | Leveraging AI tools in product management]]
+- [[challenges_and_opportunities_for_women_in_tech_leadership | Challenges and opportunities for women in tech leadership]]
 
-### [A framework for PM skill development | Vikrama Dhiman (Gojek)](https://www.youtube.com/watch?v=ImSvm11GR0Y)
-- [[product_manager_skill_development | Product Manager Skill Development]]
-- [[career_growth_framework_for_product_managers | Career Growth Framework for Product Managers]]
-- [[traits_of_successful_product_managers | Traits of Successful Product Managers]]
-- [[common_pitfalls_in_pm_career_growth | Common Pitfalls in PM Career Growth]]
-- [[operating_models_and_collaboration_in_product_management | Operating Models and Collaboration in Product Management]]
+### [Strategies for becoming less distractible and improving focus | Nir Eyal](https://www.youtube.com/watch?v=WSscIIY609c)
+- [[recognizing_and_understanding_internal_triggers_for_distraction | Recognizing and understanding internal triggers for distraction]]
+- [[time_management_strategies_to_improve_focus | Time management strategies to improve focus]]
+- [[techniques_for_creating_a_distractionfree_work_environment | Techniques for creating a distractionfree work environment]]
+- [[applying_behavioral_techniques_for_habit_formation | Applying behavioral techniques for habit formation]]
+- [[tools_and_technologies_for_enhancing_productivity | Tools and technologies for enhancing productivity]]

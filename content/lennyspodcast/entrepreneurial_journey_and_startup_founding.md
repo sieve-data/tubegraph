@@ -1,0 +1,99 @@
+---
+title: Entrepreneurial journey and startup founding
+videoId: Cj4ORGGEJcA
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Uri Levine, co-founder of Waze and nine other companies, has built two unicorns, selling two companies for over a billion dollars <a class="yt-timestamp" data-t="01:01:03">[01:01:03]</a>. He has served on 20 different startup boards, with a dozen still current, and has advised over 50 [[founders_insights_and_their_importance_in_startup_success | founders]] and startups throughout his career <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>. His book, "Fall in Love with the Problem, Not the Solution: A Handbook for Entrepreneurs," summarizes his advice for [[founders_insights_and_their_importance_in_startup_success | founders]] <a class="yt-timestamp" data-t="01:14:14">[01:14:14]</a>.
+
+## Core Philosophy: Fall in Love with the Problem
+
+Levine's biggest startup lesson is to "fall in love with the problem" <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. The simplest way to create value is to solve a problem <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. This philosophy serves as the "north star" for the [[the_journey_of_startup_growth_and_public_transition | entrepreneurship journey]], leading to fewer deviations and increasing the likelihood of success <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. A story focused on solving a problem is also more compelling <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. For example, instead of saying Waze would build "an AI crowdsourced based navigation system" <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>, Waze focused on helping people "avoid traffic jams," which resonated more with customers <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. When customers care, they want the company to succeed and will help it do so <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
+
+### Identifying the Right Problem
+Every startup should begin by identifying a big problem worth solving, one that would make the world a better place <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>. After identifying a problem, ask who else has it <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. If you are the only one with the problem, it's advisable to seek a therapist rather than build a startup <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. If many people share the problem, speak with them to understand their perception of it before building a solution <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>. Starting with a problem guarantees value creation if the solution works <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>. Starting with a solution, however, risks building something nobody cares about <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>.
+
+*   **Speaking with Users**: Speak with at least 20 people you don't know to validate if a problem is real <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>. If they respond with "I know someone who has this problem," it might not be a pressing issue; they should immediately tell you, "No, no, no, the problem is..." and give their own description <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
+*   **Personal Passion**: Founders must be passionate and "in love" with the problem they are solving <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>. Without sufficient internal drive, the long and complex journey of a startup is unlikely to succeed <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>. The goal is to engage everyone else to fall in love with the same problem and follow your leadership <a class="yt-timestamp" data-t="00:11:56">[00:11:56]</a>.
+*   **Source of Ideas**: Personal frustration, such as hating traffic or leaving money on the table, often leads to startup ideas <a class="yt-timestamp" data-t="00:14:32">[00:14:32]</a>.
+
+## The Startup Journey: Phases and Challenges
+The [[the_journey_of_startup_growth_and_public_transition | entrepreneurship journey]] is a multi-dimensional, roller coaster ride of ups and downs, with high frequency of changes <a class="yt-timestamp" data-t="00:15:22">[00:15:22]</a>. It is also a journey of failures <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a>.
+
+### Embracing Failure and Iteration
+Since building something new inevitably involves failures, fear of failure means you have already failed <a class="yt-timestamp" data-t="00:16:39">[00:16:39]</a>. Albert Einstein stated that if you haven't failed, it's because you haven't tried new things <a class="yt-timestamp" data-t="00:16:49">[00:16:49]</a>. Michael Jordan also attributed his success to failing repeatedly <a class="yt-timestamp" data-t="00:16:55">[00:16:55]</a>.
+
+The key is to fail fast <a class="yt-timestamp" data-t="00:17:08">[00:17:08]</a>. Failing quickly leaves ample time for more attempts, whether building another product version, trying a different go-to-market approach, or exploring a new business model <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>. The more attempts, the higher the likelihood of success <a class="yt-timestamp" data-t="00:17:28">[00:17:28]</a>.
+
+*   **"Good Enough" vs. "Perfect"**: "The biggest enemy of good enough is perfect" <a class="yt-timestamp" data-t="00:17:51">[00:17:51]</a>. To win the market, a product needs to be "good enough," achieved through continuous iteration from a "not good enough" starting point <a class="yt-timestamp" data-t="00:17:58">[00:17:58]</a>.
+
+### Product-Market Fit (PMF)
+The journey to building a startup is long, often longer than anticipated <a class="yt-timestamp" data-t="00:18:11">[00:18:11]</a>. The longest part is usually figuring out product-market fit <a class="yt-timestamp" data-t="00:19:10">[00:19:10]</a>.
+Product-market fit means creating value for customers <a class="yt-timestamp" data-t="00:19:17">[00:19:17]</a>. Without it, a company will die <a class="yt-timestamp" data-t="00:19:23">[00:19:23]</a>. Once PMF is achieved, successful companies rarely change their core product, as this is the value they create <a class="yt-timestamp" data-t="00:20:04">[00:20:04]</a>.
+
+*   **Time to PMF**: It takes years to achieve PMF; Waze took four years <a class="yt-timestamp" data-t="00:20:27">[00:20:27]</a>, Microsoft took five years <a class="yt-timestamp" data-t="00:20:30">[00:20:30]</a>, and Netflix took ten <a class="yt-timestamp" data-t="00:20:35">[00:20:35]</a>. Even ChatGPT, seemingly an overnight success, was seven years old when it gained widespread attention, taking six years to reach that point <a class="yt-timestamp" data-t="00:20:40">[00:20:40]</a>.
+*   **Key Metric for PMF**: The single most important metric for product-market fit is retention <a class="yt-timestamp" data-t="00:21:01">[00:21:01]</a>. If you create value, customers will return; if they don't, you are not creating value <a class="yt-timestamp" data-t="00:21:06">[00:21:06]</a>. For products with high frequency of use, 3-month retention rates of 30-50% are good indicators <a class="yt-timestamp" data-t="00:26:54">[00:26:54]</a>. Usually, conversion happens around the third or fourth use <a class="yt-timestamp" data-t="00:27:03">[00:27:03]</a>.
+
+> [!example] Waze's PMF Journey
+> Waze initially found success in Israel, a small country <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>. When it was made global in late 2009, it wasn't "good enough" in major markets like the US, Western Europe, Latin America, or Asia <a class="yt-timestamp" data-t="00:22:42">[00:22:42]</a>. It only worked well in a few places like the Czech Republic, Slovakia, Latvia, and Ecuador <a class="yt-timestamp" data-t="00:22:57">[00:22:57]</a>.
+>
+> Waze spoke with users to understand why they churned, then iteratively built new versions based on feedback <a class="yt-timestamp" data-t="00:23:31">[00:23:31]</a>. Over a year of iterations, from late 2009 to early 2011, Waze started seeing success, first in US metropolitan areas (Los Angeles, San Francisco, etc.) <a class="yt-timestamp" data-t="00:24:06">[00:24:06]</a>, then in European and Latin American countries <a class="yt-timestamp" data-t="00:24:24">[00:24:24]</a>.
+>
+> In places like Japan, where chronological house numbering means perfect map information is needed, Waze's crowdsourced model didn't work and never will, because crowdsourcing isn't suitable for "perfect information" needs <a class="yt-timestamp" data-t="00:24:44">[00:24:44]</a>.
+>
+> The ultimate value of Waze is not saving time but creating certainty—knowing exactly when you will arrive <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>. This insight was learned in the US market, where users preferred knowing trip duration over changing routes <a class="yt-timestamp" data-t="00:29:03">[00:29:03]</a>.
+
+### Phases of Startup Growth
+A startup's journey progresses through different phases, each requiring a specific focus <a class="yt-timestamp" data-t="03:02:02">[03:02:02]</a>.
+1.  **Ideation / "All Over the Place" Phase**: Initially, [[elements_of_breakthrough_startup_ideas_inflections_insights_and_founder_future_fit | new ideas]] are thought about from multiple perspectives (problem, solution, vision, business model) <a class="yt-timestamp" data-t="00:30:19">[00:30:19]</a>. However, only one thing needs to be executed: figuring out product-market fit <a class="yt-timestamp" data-t="00:30:36">[00:30:36]</a>.
+2.  **Product-Market Fit Phase**: Focus solely on achieving product-market fit <a class="yt-timestamp" data-t="00:33:05">[00:33:05]</a>. At this stage, there's no need for sales, business development, or even extensive marketing; the focus should be on product development and iterations <a class="yt-timestamp" data-t="00:33:09">[00:33:09]</a>.
+3.  **Growth and Business Model Phase**: Once PMF is established, the company shifts its focus to figuring out how to grow the business and establishing a sustainable business model <a class="yt-timestamp" data-t="00:31:01">[00:31:01]</a>.
+    *   **Business Model**: If value is created, a business model will likely be figured out <a class="yt-timestamp" data-t="00:31:11">[00:31:11]</a>. For Waze, the initial thought was selling map data and traffic information, but they ended up with an advertisement model <a class="yt-timestamp" data-t="00:31:40">[00:31:40]</a>.
+    *   **Growth**: Word-of-mouth growth is only possible with high frequency of use <a class="yt-timestamp" data-t="00:32:30">[00:32:30]</a>. If a product is used daily, there are daily opportunities for word-of-mouth <a class="yt-timestamp" data-t="00:32:46">[00:32:46]</a>. If a product has low frequency of use (e.g., tax returns), growth will require acquiring users <a class="yt-timestamp" data-t="00:35:28">[00:35:28]</a>, meaning the business model must be figured out first <a class="yt-timestamp" data-t="00:35:34">[00:35:34]</a>. Coolness can also drive word-of-mouth, even with lower frequency of use, like Airbnb <a class="yt-timestamp" data-t="00:36:10">[00:36:10]</a>.
+
+> [!tip] Focus is Key
+> "The most important stage at a company? They all are, but one at a time" <a class="yt-timestamp" data-t="00:36:52">[00:36:52]</a>.
+> "The main thing is to keep the main thing the main thing" <a class="yt-timestamp" data-t="00:37:00">[00:37:00]</a>.
+> Focus is about what you are *not* doing, which often involves making hard decisions <a class="yt-timestamp" data-t="00:34:43">[00:34:43]</a>. Companies often struggle to "shift gears" between phases, getting stuck if they try to do multiple things simultaneously <a class="yt-timestamp" data-t="00:33:53">[00:33:53]</a>.
+
+## Building the Team: Hiring and Firing
+Many startup failures are attributed to the team not being right, with [[founders_insights_and_their_importance_in_startup_success | founders]] often hearing that key individuals were "not good enough" <a class="yt-timestamp" data-t="00:54:41">[00:54:41]</a>. The problem often lies not with the team, but with the CEO's inability to make hard decisions <a class="yt-timestamp" data-t="00:55:27">[00:55:27]</a>.
+
+> [!important] The 30-Day Firing Rule
+> Every time you hire someone new, mark your calendar for 30 days later <a class="yt-timestamp" data-t="00:57:02">[00:57:02]</a>. Ask yourself: "Knowing what I know today, would I hire this person?" <a class="yt-timestamp" data-t="00:57:11">[00:57:11]</a>
+> *   **If yes**: Tell them you're excited they joined, they're exceeding expectations, and give them more equity to buy their loyalty for life <a class="yt-timestamp" data-t="00:57:26">[00:57:26]</a>.
+> *   **If no**: Fire them immediately <a class="yt-timestamp" data-t="00:57:41">[00:57:41]</a>. They are already on a trajectory of not being successful and are damaging themselves, you, and the team <a class="yt-timestamp" data-t="00:57:46">[00:57:46]</a>.
+> This tactic is similar to Netflix's "keeper test," where managers constantly ask if they would fight to keep an employee if they left <a class="yt-timestamp" data-t="00:58:41">[00:58:41]</a>.
+
+In a small organization like a startup, everyone knows when someone shouldn't be there <a class="yt-timestamp" data-t="00:56:27">[00:56:27]</a>. If the CEO doesn't make the hard decision to remove them, top-performing people will leave because they don't want to be in a place unable to make such decisions <a class="yt-timestamp" data-t="00:55:50">[00:55:50]</a>.
+
+*   **Seeking Confirmation**: If uncertain about a difficult firing decision, speak with top-performing team members and ask how they would feel if the person left <a class="yt-timestamp" data-t="00:58:16">[00:58:16]</a>. Their surprise at it "not being a big deal" can confirm the decision <a class="yt-timestamp" data-t="00:58:33">[00:58:33]</a>.
+*   **Reference Checks**: When checking references, a simple question to ask is: "Would you hire him or her?" <a class="yt-timestamp" data-t="01:03:11">[01:03:11]</a> The goal is to get a clear "yes" or "no" answer <a class="yt-timestamp" data-t="01:03:19">[01:03:19]</a>.
+
+## Fundraising Strategies
+Fundraising is a "roller coaster journey in the dark" <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>, a different ball game from building a company <a class="yt-timestamp" data-t="00:41:12">[00:41:12]</a>.
+
+> [!key] First Impressions Matter
+> Early-stage investors often decide within seconds if they like an entrepreneur <a class="yt-timestamp" data-t="00:41:39">[00:41:39]</a>. Therefore, start your presentation with your strongest point, whatever it may be—market size, traction, or team <a class="yt-timestamp" data-t="00:42:29">[00:42:29]</a>. Finish the presentation by repeating this strongest point <a class="yt-timestamp" data-t="00:42:49">[00:42:49]</a>.
+>
+> *   **The First Slide**: The most important slide is the very first one, not the title page, but the one that will be displayed for the longest period of time at the beginning <a class="yt-timestamp" data-t="00:48:06">[00:48:06]</a>. This is where your strongest point should be placed <a class="yt-timestamp" data-t="00:48:40">[00:48:40]</a>.
+> *   **The Last Slide**: The second most important slide is the very last one, not the summary, but the "Thank You" slide, as it will also be displayed for a long time while questions are asked <a class="yt-timestamp" data-t="00:49:07">[00:49:07]</a>. Use it to recap everything or tell "one more story" <a class="yt-timestamp" data-t="00:49:50">[00:49:50]</a>.
+
+At early stages, investors primarily invest if "I like the CEO, I like the story" <a class="yt-timestamp" data-t="00:43:18">[00:43:18]</a>.
+*   **CEO Goes Alone**: The CEO should attend the meeting alone to keep the "headlight" on themselves and avoid distractions <a class="yt-timestamp" data-t="00:43:31">[00:43:31]</a>.
+*   **Tell a Good Story**: A good story isn't about facts, but about creating emotional engagement and making the listener want to be part of the story <a class="yt-timestamp" data-t="00:44:03">[00:44:03]</a>. For investors, this means convincing them the product is usable and buildable <a class="yt-timestamp" data-t="00:44:20">[00:44:20]</a>. Always start with the problem, as investors are also users and will dismiss a product if they don't see its relevance <a class="yt-timestamp" data-t="00:44:35">[00:44:35]</a>.
+*   **The "Dance of 100 No's"**: While selling a product to customers might result in 1/3 buying, investors say yes only 1% of the time <a class="yt-timestamp" data-t="00:45:25">[00:45:25]</a>. Expect to hear "no" 100 times before one "yes" <a class="yt-timestamp" data-t="00:45:29">[00:45:29]</a>. Investors often have a "big book of excuses why not" <a class="yt-timestamp" data-t="00:45:49">[00:45:49]</a>.
+    *   **Story Authenticity**: When telling a user story, it needs to be authentic, which often comes through rich details <a class="yt-timestamp" data-t="00:52:49">[00:52:49]</a>. If a story is too brief, it lacks authenticity <a class="yt-timestamp" data-t="00:53:02">[00:53:02]</a>.
+
+## Understanding Users
+Product owners are often innovators or early adopters, but they need to understand the "early majority"—the group that wins the market <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>. This group fears change and complexity <a class="yt-timestamp" data-t="01:09:10">[01:09:10]</a>. To understand them, watch new users to see what they do and ask them "why" if they don't do what's expected <a class="yt-timestamp" data-t="01:07:21">[01:07:21]</a>. This "why" is crucial for product success <a class="yt-timestamp" data-t="01:07:33">[01:07:33]</a>.
+
+*   **Simplicity**: The solution for the early majority is always simplicity <a class="yt-timestamp" data-t="01:10:03">[01:10:03]</a>. While iterating, many features are added, but those not used should be removed to reduce complexity <a class="yt-timestamp" data-t="01:10:16">[01:10:16]</a>.
+*   **Learning from Failures**: When looking at the "funnel of use" (download, register, first use, get value, return), it's important to speak not only with successful users but also with those who failed at any stage <a class="yt-timestamp" data-t="01:12:26">[01:12:26]</a>. They know something valuable that you need to know: why they didn't succeed <a class="yt-timestamp" data-t="01:13:07">[01:13:07]</a>.
+
+## [[the_role_of_personal_growth_and_selfawareness_for_founders | Personal Growth]] and Reflection
+The advice to constantly evaluate decisions (e.g., "knowing what I know today, would I do something different?") applies to all aspects of life, including relationships and career paths <a class="yt-timestamp" data-t="01:00:06">[01:00:06]</a>. If the answer is yes, make a change immediately <a class="yt-timestamp" data-t="01:00:17">[01:00:17]</a>.
+
+*   **Don't Be Afraid to Fail**: The most important advice for parents is to teach children to fail, because "when they get up, they get up stronger" <a class="yt-timestamp" data-t="01:14:46">[01:14:46]</a>. Knowing they can get up stronger encourages them to explore outside their comfort zone <a class="yt-timestamp" data-t="01:14:55">[01:14:55]</a>. As a Japanese saying goes, "Fall seven times and get up eight" <a class="yt-timestamp" data-t="01:15:31">[01:15:31]</a>.
+*   **Continuous Problem Solving**: Uri Levine states he will "probably never be done" starting companies <a class="yt-timestamp" data-t="01:18:19">[01:18:19]</a>. He is currently interested in problems such as helping people retire richer (e.g., 401k plans) <a class="yt-timestamp" data-t="01:18:31">[01:18:31]</a>, improving medical services with AI <a class="yt-timestamp" data-t="01:19:12">[01:19:12]</a>, and addressing inefficiencies in mobility and education <a class="yt-timestamp" data-t="01:19:30">[01:19:30]</a>. Anything still done the same way as our parents' generation likely needs revisiting <a class="yt-timestamp" data-t="01:20:15">[01:20:15]</a>.

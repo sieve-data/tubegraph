@@ -1,0 +1,38 @@
+---
+title: Advancements in AI reasoning and intelligence scaling
+videoId: IxkvVZua28k
+---
+
+From: [[lennyspodcast]] <br/> 
+
+The field of [[the_evolving_capabilities_and_future_potential_of_ai | AI]] is marked by rapid advancements, presenting unique challenges and opportunities in [[Impact of AI on product development | product development]]. Unlike traditional product building where the technology base is fixed, AI products are built on a constantly evolving foundation where computers gain new capabilities every couple of months <a class="yt-timestamp" data-t="01:46:16">[01:46:16]</a>. This necessitates continuous adaptation of product design <a class="yt-timestamp" data-t="02:01:05">[02:01:05]</a>.
+
+## Emergent Capabilities and Evaluation Challenges
+
+Developing AI products involves navigating the uncertainty of emergent capabilities. When training new models, even research teams cannot definitively predict what capabilities will manifest or their level of accuracy (e.g., 60%, 90%, or 99% success rate) <a class="yt-timestamp" data-t="06:31:00">[06:31:00]</a>. The design of a product must therefore be flexible enough to accommodate varying levels of model performance <a class="yt-timestamp" data-t="07:06:00">[07:06:00]</a>. Occasionally, new capabilities are discovered by researchers that were not initially deemed important, leading to unexpected "magic happening" <a class="yt-timestamp" data-t="10:09:00">[10:09:00]</a>.
+
+A key insight is that current models are often "eval-limited" rather than "intelligence-limited" <a class="yt-timestamp" data-t="13:10:00">[13:10:00]</a>. This means models have the inherent intelligence to perform more correctly on a wider range of tasks, but they require effective evaluation processes ("evals") to teach them specific, often niche, topics not covered in their initial training data <a class="yt-timestamp" data-t="13:10:00">[13:10:00]</a>. This emphasizes the critical role of crafting good evaluations in improving AI product quality <a class="yt-timestamp" data-t="14:09:00">[14:09:00]</a>.
+
+### Designing for Imperfection: The 60% Solution
+
+Even if an AI model achieves only 60% success at a task, it can still be valuable. The key is to design the product with the expectation of a human in the loop <a class="yt-timestamp" data-t="10:51:00">[10:51:00]</a>. For example, GitHub Copilot, built on an older, less perfect model (likely GPT-2), was still useful because it could complete a significant portion of coding tasks, allowing users to edit the suggestions rather than typing everything themselves <a class="yt-timestamp" data-t="11:02:00">[11:02:00]</a>. This approach extends to agents and longer-form tasks, where saving even 5-10 minutes can be beneficial <a class="yt-timestamp" data-t="11:47:00">[11:47:00]</a>. Furthermore, if a model can communicate its confidence levels and ask for human assistance when unsure, the combined human-model performance can significantly exceed the model's individual success rate <a class="yt-timestamp" data-t="11:57:00">[11:57:00]</a>.
+
+## Intelligence Scaling through Reasoning (O1)
+
+A significant advancement in scaling AI intelligence comes from moving beyond larger pre-training runs (like GPT-2, 3, 4) to a different method: scaling at query time, exemplified by the O1 model <a class="yt-timestamp" data-t="30:09:00">[30:09:00]</a>.
+
+Traditionally, models operate with "system one thinking," providing immediate answers like text completion <a class="yt-timestamp" data-t="30:15:00">[30:15:00]</a>. O1 introduces "system two thinking" or **reasoning**, where the model pauses to "think" for a period (e.g., 30-60 seconds) before providing an answer <a class="yt-timestamp" data-t="31:01:00">[31:01:00]</a>. This process mirrors human problem-solving: forming hypotheses, using existing knowledge to affirm or refute them, and then continuing to reason <a class="yt-timestamp" data-t="31:15:00">[31:15:00]</a>. This capability is compared to the very early stages of scientific breakthroughs and answering hard questions <a class="yt-timestamp" data-t="31:32:00">[31:32:00]</a>. The potential for models to "think" for hours or even days represents a new frontier for intelligence scaling <a class="yt-timestamp" data-t="31:45:00">[31:45:00]</a>.
+
+### Orchestration of Models
+
+For complex tasks, especially in enterprise solutions, the approach isn't to use a single model but to orchestrate workflows involving multiple models <a class="yt-timestamp" data-t="29:31:00">[29:31:00]</a>. Each model is utilized for its specific strengths. For instance, while O1 is excellent at reasoning, it's not always appropriate for every query <a class="yt-timestamp" data-t="32:03:00">[32:03:00]</a>. This multi-model approach allows for fine-tuning models for specific tasks and precision, with models checking the outputs of others to ensure accuracy and re-attempt tasks if necessary <a class="yt-timestamp" data-t="32:56:00">[32:56:00]</a>. This mirrors how humans with different skill sets collaborate to achieve complex goals <a class="yt-timestamp" data-t="33:07:00">[33:07:00]</a>.
+
+## Adapting to a Non-Deterministic Future
+
+AI systems are stochastic and non-deterministic, meaning the same input might not always yield the exact same output <a class="yt-timestamp" data-t="20:24:00">[20:24:00]</a>. This challenges decades of user intuition about how computers operate <a class="yt-timestamp" data-t="21:24:00">[21:24:00]</a>. However, humans adapt rapidly to new technologies, as seen with Waymo self-driving cars or the rapid normalization of ChatGPT, which was once mind-blowing but would now seem "dumb" in its original form <a class="yt-timestamp" data-t="23:13:00">[23:13:00]</a>.
+
+Looking ahead, the future of AI will involve:
+*   **Proactivity:** Models will become more proactive, monitoring user information (with authorization) to offer timely assistance, such as summarizing emails, preparing for meetings, or drafting presentations <a class="yt-timestamp" data-t="33:50:00">[33:50:00]</a>.
+*   **Asynchronous Interaction:** AI will perform longer, more complex tasks asynchronously. Users can initiate a task and return later, rather than waiting for an immediate response. This allows for grander projects, like fleshing out an entire project plan or adapting a PRD for new market conditions <a class="yt-timestamp" data-t="34:21:00">[34:21:00]</a>.
+*   **Multimodal Interaction:** Models will interact more like humans, incorporating voice, sight, and other senses. The advanced voice mode in ChatGPT already enables real-time universal translation, transforming interactions like business conversations in foreign countries <a class="yt-timestamp" data-t="35:38:00">[35:38:00]</a>. This also changes social behavior, with young people using voice mode to "pour their heart out" to the AI <a class="yt-timestamp" data-t="37:00:00">[37:00:00]</a>.
+*   **Personalization and Personality:** Models are developing distinct personalities, leading to users forming "two-way empathy" and even "befriending" the AI. The "personality" of the model becomes a crucial aspect of product design, potentially leading to users preferring one model over another based on its character <a class="yt-timestamp" data-t="39:43:00">[39:43:00]</a>. This evolution highlights a shift from merely shipping products to shipping "intelligence" that fosters interpersonal-like relationships <a class="yt-timestamp" data-t="39:15:00">[39:15:00]</a>.
