@@ -1,0 +1,72 @@
+---
+title: Integration of causal reasoning in machine learning
+videoId: 8yWKQqNFrmY
+---
+
+From: [[causalpython]] <br/> 
+
+The integration of causal reasoning into machine learning (ML) is becoming increasingly important, particularly with the rise of agents and Large Language Models (LLMs) <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This field explores how [[causality_and_machine_learning | causality and machine learning]] can mutually benefit each other, from building more robust AI systems to enhancing scientific discovery <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>.
+
+## Causality in Agents
+Causality is considered very new for agents, but it is expected to become highly significant as agents increasingly interact in the real world or on the web <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Notions like action, reward, optimizing behavior, and penalizing undesirable behavior are fundamentally [[causal_ai_and_machine_learning | causal abstractions]] <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. Questions about which agent is most useful, which should be rewarded, or [[role_of_reinforcement_learning_in_causal_inference | counterfactual notions of blame]] are central when agents are interacting collaboratively <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
+
+Some research, such as a paper from Riches and Everett at Google DeepMind, explores how agents can learn robust world models <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. These ideas often revolve around interventional distributions, where an intervention is made in an environment to learn its response <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>. While training agents might initially involve plain reinforcement learning (RL) focused on optimizing rewards, the moment they interact with other agents, new causal questions arise <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>. The future of agents will likely involve more social science-like considerations and the design of systems from the ground up to ensure desired behaviors, which will require causal thinking <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>.
+
+### Learning Correct Actions in Agents
+A key insight from research by Richardson and Everett is that agents can learn to act correctly in a system even without explicit causal knowledge <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>. If an agent operates in enough diverse environments and aims to perform well, it can mimic the actions of an ideal causal agent that possesses a world model <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. This suggests that with sufficient diverse data, an agent can generalize and learn causal actions even without understanding the underlying causal model <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
+
+## Causality in Large Language Models (LLMs)
+[[Large Language Models and Causal Reasoning | LLMs]] have demonstrated a new way of integrating domain knowledge into causal reasoning <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. Historically, the field of causality focused heavily on discovery and reasoning from given data, leaving the acquisition of domain knowledge vague <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. LLMs show that domain knowledge can be learned, and in many cases, this knowledge can enable reasoning without requiring new data <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. What appears as "reasoning" in LLMs is often a combination of extensive domain knowledge and generalization <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
+
+There are multiple ways to achieve a causal agent:
+1.  **Principled methods:** Traditionally, this involves building the right mechanisms, graphs, and incorporating inductive biases derived from causal principles <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>.
+2.  **Diverse data:** Collecting a lot of diverse data can lead to generalization and learning of causal actions, even without explicit knowledge of the causal model <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
+3.  **Generalizing from rules/axioms:** LLMs can answer causal questions by applying theorems and axioms learned from text, similar to how physics laws are applied <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. This "cheating" approach, where models learn from established knowledge (e.g., Newton's law), can be a more attractive way to achieve a causal model than requiring the model to discover principles from scratch <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
+
+## Challenges and Future Directions
+### Verification in Agentic Frameworks
+A major missing component in contemporary agentic frameworks is robust verification <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>. While current frameworks work well in controlled environments (like coding with compilers or API calls), applying them to vague real-world problems where human feedback is insufficient or unscalable is difficult <a class="yt-timestamp" data-t="00:15:27">[00:15:27]</a>. The need is to create verifiers for new domains and provide granular rewards for different agent actions <a class="yt-timestamp" data-t="00:15:42">[00:15:42]</a>. For example, in scientific inquiry, agents could suggest experiments, but feedback mechanisms are needed to guide them towards designing better experiments <a class="yt-timestamp" data-t="00:16:43">[00:16:43]</a>.
+
+### Model-Free Causality and Diverse Data
+A significant technical challenge in causality is developing a "model-free revolution," similar to reinforcement learning's model-free RL <a class="yt-timestamp" data-t="00:48:23">[00:48:23]</a>. This approach aims to extract maximum information from data without relying on explicit world models, which could offer inherent scalability <a class="yt-timestamp" data-t="00:48:27">[00:48:27]</a>. However, this direction currently lacks sufficient theoretical backing, necessitating the development of new causal theory <a class="yt-timestamp" data-t="00:48:38">[00:48:38]</a>.
+
+The concept of exchangeable distributions, where data comes from many different environments and is mixed, offers a promising avenue for [[causal_ai_and_machine_learning | causal discovery]] <a class="yt-timestamp" data-t="00:49:15">[00:49:15]</a>. Unlike IID (independent and identically distributed) data, exchangeable data allows for better discovery of causal relationships, including causal direction, as the number and diversity of environments increase <a class="yt-timestamp" data-t="00:49:47">[00:49:47]</a>. This implies a future where identification results in causality could become much richer by assuming diverse multi-distribution data <a class="yt-timestamp" data-t="00:50:29">[00:50:29]</a>.
+
+### The "Bitter Lesson" for Causality
+The "bitter lesson" suggests that while causality might be the desired end result in a system, it may not always be the necessary means to get there <a class="yt-timestamp" data-t="00:51:56">[00:51:56]</a>. While principled, graph-based methods are valuable, other approaches like data augmentation—which seemingly have nothing to do with causality—can also lead to causal actions <a class="yt-timestamp" data-t="00:52:32">[00:52:32]</a>. This points to the need for exploring diverse pathways to achieve causal outcomes <a class="yt-timestamp" data-t="00:52:38">[00:52:38]</a>.
+
+## DUI: A Library for Computational Causality
+DUI is an open-source library that aims to streamline the process of computational causality <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>. Created by Dr. Amit Sharma, it was born out of a desire to simplify the often complex and formal presentation of causal concepts in literature and to bridge the gap between graphical models and potential outcomes frameworks <a class="yt-timestamp" data-t="02:51:50">[02:51:50]</a>.
+
+### DUI's Four Steps of Causal Inference
+DUI structures causal analysis into four clear, distinct steps <a class="yt-timestamp" data-t="00:56:56">[00:56:56]</a>:
+1.  **Model the graph:** This involves defining the causal relationships and assumptions, which can be done without data <a class="yt-timestamp" data-t="00:59:42">[00:59:42]</a>.
+2.  **Identify the effect:** This step determines if the causal effect can be identified from the given graph and data, also independent of estimation <a class="yt-timestamp" data-t="00:59:29">[00:59:29]</a>.
+3.  **Estimate:** This involves applying statistical methods (e.g., propensity score-based methods) to quantify the identified causal effect using data <a class="yt-timestamp" data-t="00:59:19">[00:59:19]</a>.
+4.  **Refute:** This crucial step involves testing the robustness and validity of the causal estimate. It includes techniques like:
+    *   **Sensitivity analysis:** Examining the impact of unobserved confounders <a class="yt-timestamp" data-t="02:05:07">[02:05:07]</a>.
+    *   **Negative controls:** Performing objective tests (e.g., adding a random common cause, replacing treatment with a placebo) to check if the effect disappears as expected <a class="yt-timestamp" data-t="02:09:59">[02:09:59]</a>.
+    *   **Dummy outcomes:** Creating an outcome variable that is known *not* to be caused by the treatment but is a function of confounders, expecting a zero causal effect <a class="yt-timestamp" data-t="02:31:07">[02:31:07]</a>.
+    *   **Graph verification:** Testing the validity of the underlying causal graph using conditional independences or comparing it to random graphs <a class="yt-timestamp" data-t="02:52:00">[02:52:00]</a>.
+
+### Evolution and Future of DUI
+DUI has grown into a community project, no longer solely associated with Microsoft, aiming to build a comprehensive [[causal_ai_and_its_connection_to_machine_learning | causal AI and machine learning]] ecosystem <a class="yt-timestamp" data-t="02:28:03">[02:28:03]</a>. Future directions include:
+*   **Seamless integration:** Making the causal inference process with data as seamless as possible by integrating various tools like causal discovery (e.g., Causal Learn) and estimation <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>.
+*   **PY LLM:** A new library that uses LLMs to enable causal inference for non-experts <a class="yt-timestamp" data-t="02:52:33">[02:52:33]</a>. It aims to take text as input for causal questions and provide text as output, utilizing advanced causal libraries under the hood <a class="yt-timestamp" data-t="03:36:00">[03:36:00]</a>. This could help citizens understand scientific outlooks on treatments or interventions <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>.
+*   **Addressing bottlenecks:** LLMs are being explored to address key bottlenecks in causal modeling:
+    *   **Graph generation:** Making it easier to generate plausible and credible causal graphs for problems, which experts can then critique <a class="yt-timestamp" data-t="03:32:00">[03:32:00]</a>.
+    *   **Reputation test suggestions:** LLMs can suggest appropriate [[machine_learning_versus_causal_inference_for_decisionmaking | reputation tests]] to run and help interpret their results <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>.
+
+## Causality Enhancing Machine Learning Robustness
+Beyond ML helping causality, research is also focused on how [[causality_and_machine_learning | causality can help machine learning]], particularly making LLMs more robust <a class="yt-timestamp" data-t="03:36:00">[03:36:00]</a>. Traditional methods of adding causal regularizers were insufficient due to the vast amount of data and complex world models involved in LLMs <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>.
+
+The new approach focuses on imparting *how to learn causal knowledge* rather than specific causal knowledge itself <a class="yt-timestamp" data-t="03:48:51">[03:48:51]</a>. This involves training LLMs on basic causal axioms (e.g., transitivity, d-separation) <a class="yt-timestamp" data-t="03:55:00">[03:55:00]</a>. This axiomatic training allows smaller transformer models (e.g., 68 million parameters) to generalize to larger graphs and even new causal tasks, such as those in the Cotoc benchmark, showing a significant performance jump <a class="yt-timestamp" data-t="04:13:00">[04:13:00]</a>.
+
+This research, inspired by works like Andrew Lampin's "Active Causal Strategies from Passive Data," suggests that models can learn causal reasoning by observing demonstrations of axioms from "passive data" <a class="yt-timestamp" data-t="04:13:00">[04:13:00]</a>. While models might still find statistical shortcuts that don't generalize perfectly (as performance tapers off with very large graphs), the hope is that by scaling and diversifying axiomatic training data, the space of such shortcuts can be reduced, leading to convergence on causal principles <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>.
+
+> "If you are able to constrain the space of shortcuts to a very small size then maybe with enough diverse data you'll be able to kind of converge on the causal principles." <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>
+
+This concept aligns with the idea of a "still point in the turning world," where causal mechanisms remain static across different environments, allowing models to learn fundamental relationships even when specific distributions change <a class="yt-timestamp" data-t="05:11:00">[05:11:00]</a>. Contrastive learning, which uses causal constraints to create loss functions or augment data, also embodies this principle by identifying what should *not* change the outcome <a class="yt-timestamp" data-t="05:46:00">[05:46:00]</a>.
+
+## Conclusion
+The integration of causal reasoning in machine learning is an evolving and exciting field. It promises to build more robust and intelligent agents and LLMs, while also accelerating scientific discovery by providing better tools for analyzing and understanding data. The focus is shifting towards scalable, data-driven methods that complement traditional principled approaches, aiming to make causal analysis accessible to a wider audience and to unlock the full potential of AI in understanding cause and effect.

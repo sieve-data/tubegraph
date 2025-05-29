@@ -1,0 +1,84 @@
+---
+title: Human and Machine Causal Thinking
+videoId: rM25vt_ZmFc
+---
+
+From: [[causalpython]] <br/> 
+
+## Introduction to the Causal Bandits Podcast
+The Causal Bandits podcast aims to be the best podcast on [[causality_and_machine_learning | causality and machine learning]] on the internet <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This episode features a researcher and community leader from Frankfurt who has worked in robotics, with interests in AI philosophy and Neuroscience <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. He has co-authored papers at the intersection of causality, large language models, and graph neural networks <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+
+## Journey into Causality and AI
+The guest's interest in causality was sparked by Judea Pearl's "The Book of Why" <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. While he was already studying AI in his computer science studies, that book was the catalyst <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. Initially, his studies at TU Darmstadt focused on computer security (IT security) <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. He was later convinced by Professor Jan Peters, a figure in robotics and reinforcement learning, to pivot to robotics <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. This then evolved into topics like Neuroscience and other fields related to intelligence <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
+
+The common thread across his diverse interests, beyond an initial "coolness factor" for security, is the foundational question of trying to understand intelligence and oneself, aiming to give oneself meaning <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. While reinforcement learning is closer to robotics, Neuroscience and cognitive science are closer to understanding the human, but all share the ultimate goal of defining and operationalizing intelligence <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+
+### Causality as a Necessary Component of Intelligence
+The guest believes that [[causal_reasoning_in_decisionmaking | reasoning causally]] is necessary, but not necessarily sufficient, for intelligence <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. He notes that while some, like Judea Pearl, might argue it could also be sufficient, he views it as a crucial component, acknowledging other complex topics like emotions <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+
+## Current and Future Directions in Causal Research
+Causal research is broadly divided into two main strands <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>:
+1.  **Causal Discovery:** The problem of deriving a causal graph from data, which is "more [[causal_ai_and_machine_learning | machine learning]] in a way" <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>.
+2.  **Causal Inference:** About modeling assumptions and drawing sound conclusions based on available information, usually assumptions on the graph <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+
+The guest believes that a bridge between these two strands is currently missing <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>. His personal research focuses on a more philosophical approach, broadening the horizon and asking new questions, even if they might not immediately seem relevant <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+
+### Importance of Abstractions
+Abstractions are a key concept, especially for a computer scientist <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>. In a causal sense, abstractions involve equating structural causal models (SCMs) at different levels, such as low-level variables (e.g., HDL and LDL) composing high-level variables (e.g., total cholesterol) <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. This concept, pioneered by Rin et al. in 2017, must respect interventions possible at different levels <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+
+A fundamental question arises: "Where do the variables come from?" or "What is even a causal variable?" <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>. Abstractions are crucial because they allow us to look at things at different scopes while still capturing their characteristics <a class="yt-timestamp" data-t="00:12:04">[00:12:04]</a>. Just as humans use abstractions in daily life (e.g., "this is a car" vs. "this is a whole set of cars forming congestion"), autonomous systems also need to make sense of abstractions <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>.
+
+### Causality as a Useful Abstraction
+Referring to Judea Pearl's discussion of Bertrand Russell's argument against causality, the guest notes that causality can be viewed as a "convenient shortcut" or a "useful abstraction" <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>. This perspective is supported by works like "Elements of Causal Inference" by Jonas Peters, Dominik Janzing, and Bernhard Schölkopf, who consider causality a useful abstraction that removes unnecessary detail from fine-grained physical descriptions (like differential equations) while remaining sufficient to answer specific hypotheses <a class="yt-timestamp" data-t="00:15:02">[00:15:02]</a>.
+
+This is analogous to model-free reinforcement learning, where a baseball player doesn't calculate the physics of hitting a ball but acts intuitively <a class="yt-timestamp" data-t="00:15:52">[00:15:52]</a>. In neuroscience, the connectome (a map of the brain at the neuron level) is too detailed for many hypotheses, but it is certainly sufficient to capture all brain functioning <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>. Similarly, [[causality_and_machine_learning | causality]] kicks out unnecessary details of a full physical model while still being sufficient and necessary for specific causal questions <a class="yt-timestamp" data-t="00:17:23">[00:17:23]</a>.
+
+## Large Language Models (LLMs) and Causality
+The guest advocates for LLMs but aims to understand if they possess causal understanding <a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>. His work investigates whether LLMs are truly causal or if they learn "correlations of causal facts" <a class="yt-timestamp" data-t="00:21:12">[00:21:12]</a>. This conjecture suggests that if LLMs answer causal questions correctly, it implies they have learned correlations between these questions and their correct causal answers <a class="yt-timestamp" data-t="00:21:52">[00:21:52]</a>.
+
+This intuition stems from how human knowledge is created and transmitted <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>. For example, the causal link between altitude and temperature is established through experiments, documented in textbooks and encyclopedias like Wikipedia <a class="yt-timestamp" data-t="00:22:56">[00:22:56]</a>. If an LLM is trained to predict the next best word, and it encounters text discussing "altitude" and "temperature," then "causing" is the more probable and correct word to follow, even if the model doesn't "understand" in a human sense <a class="yt-timestamp" data-t="00:23:37">[00:23:37]</a>.
+
+### Meta-SCMs Formalism
+To formalize this, the guest and his colleagues proposed "meta-SCMs" <a class="yt-timestamp" data-t="00:23:48">[00:23:48]</a>. Pearl's formalism defines "causal" with interventions and counterfactuals (Rungs 2 and 3 of the Ladder of Causation) <a class="yt-timestamp" data-t="00:24:10">[00:24:10]</a>. An SCM is a general formalism that implies a graph structure (e.g., altitude causing temperature) <a class="yt-timestamp" data-t="00:25:36">[00:25:36]</a>. A meta-SCM is a higher-level SCM that talks about the insights or assumptions of other SCMs, like the fact that "altitude causes temperature" <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>.
+
+The conjecture is that LLMs train on correlations found in the training data related to these causal facts <a class="yt-timestamp" data-t="00:25:23">[00:25:23]</a>. The distinction is between experimental data leading to knowledge, and that knowledge being written down in textual form, which LLMs then process <a class="yt-timestamp" data-t="00:27:28">[00:27:28]</a>. The behavioral aspect (whether learned from experiment or text) becomes indistinguishable <a class="yt-timestamp" data-t="00:28:32">[00:28:32]</a>.
+
+### Critiques of LLM Causal Evaluation
+While some studies show large language models performing well on causal tasks (e.g., the Tübingen dataset), the guest is critical of the conclusions <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>. The Tübingen dataset often contains very obscure pairs of variables, where a correct answer might simply be a guess in a binary choice <a class="yt-timestamp" data-t="00:31:51">[00:31:51]</a>. He emphasizes that evaluation should not rely solely on simple metrics like accuracy, and the quality of the data used for evaluation is paramount, much like in [[causal_ai_and_machine_learning | applied machine learning]] <a class="yt-timestamp" data-t="00:33:30">[00:33:30]</a>.
+
+### Scaling Laws and Neuro-Symbolic AI
+The concept of "scaling laws" suggests that larger models with more parameters and data will inherently perform better <a class="yt-timestamp" data-t="00:35:25">[00:35:25]</a>. This idea is partly grounded in neuroscience, considering the vast number of neurons and connections in the human brain <a class="yt-timestamp" data-t="00:35:09">[00:35:09]</a>. While scale is certainly a necessary factor for intelligence, the guest believes it's a combination of scale and conceptual development, advocating for a neuro-symbolic approach that combines neural networks with symbolic logic <a class="yt-timestamp" data-t="00:36:11">[00:36:11]</a>. This approach aims to build bridges between deep learning and symbolic AI, similar to the workshop he co-organized, "NeuroCausal and Symbolic AI" <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>.
+
+## White Box vs. Black Box in Causal Models
+Humans are not always as good at [[causal_reasoning_in_decisionmaking | causal reasoning]] as they might think <a class="yt-timestamp" data-t="00:37:52">[00:37:52]</a>. While people are good at personal causal experiences (e.g., "if I had come sooner, my bike would still be here" - a counterfactual) <a class="yt-timestamp" data-t="00:38:26">[00:38:26]</a>, they are less consistent with complex policy questions <a class="yt-timestamp" data-t="00:38:39">[00:38:39]</a>. Neuroscientific evidence suggests humans can be "black box reasoners" for themselves, making up plausible causal explanations without being aware of the true underlying causes <a class="yt-timestamp" data-t="00:39:22">[00:39:22]</a>.
+
+The community's desire for "white box" models often stems from the expectation that they are inherently explainable <a class="yt-timestamp" data-t="00:41:47">[00:41:47]</a>. However, white-boxiness and explainability are distinct concepts <a class="yt-timestamp" data-t="00:41:42">[00:41:42]</a>. A system can be white box (explicit in structure and process) but not explainable, especially at scale <a class="yt-timestamp" data-t="00:42:59">[00:42:59]</a>. For example, large linear programs are white box but can be too complex for humans to process and understand why certain outputs occur <a class="yt-timestamp" data-t="00:43:40">[00:43:40]</a>. As Judea Pearl famously said, "I cannot even understand five variables, let alone a thousand or more" <a class="yt-timestamp" data-t="00:44:04">[00:44:04]</a>.
+
+Therefore, the guest suggests that black-box models can be acceptable as long as they provide "faithful" and "useful" explanations <a class="yt-timestamp" data-t="00:44:51">[00:44:51]</a>.
+
+### Structural Causal Explanations (SCE)
+The guest's research includes a recursive algorithm called Structural Causal Explanations (SCE), which uses the graph structure and quantitative knowledge of cause-and-effect relations (e.g., coefficients in linear causal models) to explain individual outcomes <a class="yt-timestamp" data-t="00:45:17">[00:45:17]</a>. For instance, in a medical case, it can explain why a patient's mobility is poor by tracing it through their health and age, even considering factors like good nutrition which might counteract negative influences <a class="yt-timestamp" data-t="00:46:19">[00:46:19]</a>. This algorithm provides "individualist causation" rather than population-level "type causation" <a class="yt-timestamp" data-t="00:48:48">[00:48:48]</a>. The sound conclusions of the algorithm rely on the initial causal model being correct <a class="yt-timestamp" data-t="00:47:32">[00:47:32]</a>.
+
+## Adoption of Causality and Future Outlook
+The guest feels there's much work left in causality, with many unresolved issues, but also acknowledges the tremendous progress made <a class="yt-timestamp" data-t="00:49:55">[00:49:55]</a>. While there's an "outcry" for benchmarks in [[causal_ai_and_machine_learning | machine learning]] and AI, which some view as a "false compass," he believes that practitioners are already very successful in applying causal inference to real-world data <a class="yt-timestamp" data-t="00:50:26">[00:50:26]</a>. He views [[causality_in_artificial_intelligence | AI]] as an "assistant" that helps make the next big step in solving problems, including in areas like personalized medicine <a class="yt-timestamp" data-t="00:53:25">[00:53:25]</a>.
+
+The guest also discussed his collaboration with Petar Veličković, a prominent figure in geometric deep learning and graph neural networks <a class="yt-timestamp" data-t="00:53:46">[00:53:46]</a>. Their work bridged the gap between graph neural networks and structural causal models, opening a new research direction by finding a consistent way to connect these frameworks <a class="yt-timestamp" data-t="00:55:40">[00:55:40]</a>. This is an example of "making connections, building bridges, not burning them" <a class="yt-timestamp" data-t="00:55:38">[00:55:38]</a>.
+
+Regarding hype cycles in machine learning, the guest feels the current momentum is different from past "AI winters" <a class="yt-timestamp" data-t="00:58:42">[00:58:42]</a>. He believes the field is not slowing down but increasing, and while scientific values of reproducibility and factual correctness are important, open discourse is crucial <a class="yt-timestamp" data-t="00:59:21">[00:59:21]</a>.
+
+## Recommendations for Learning Causality
+For those starting in causality, the guest recommends several resources <a class="yt-timestamp" data-t="01:06:27">[01:06:27]</a>:
+*   The Causal Bandits discussion group landing page: [discuss.causality.link](discuss.causality.link) <a class="yt-timestamp" data-t="01:06:30">[01:06:30]</a>.
+*   **Books:**
+    *   "Causality" by Judea Pearl (as a reference book, not necessarily to read cover-to-cover) <a class="yt-timestamp" data-t="01:06:47">[01:06:47]</a>.
+    *   "Elements of Causal Inference" by Jonas Peters, Dominik Janzing, and Bernhard Schölkopf (especially for a [[causal_ai_and_its_connection_to_machine_learning | machine learning]] perspective, due to amazing examples) <a class="yt-timestamp" data-t="01:07:05">[01:07:05]</a>.
+*   **Surveys:**
+    *   A survey by Jean Kaddour and colleagues specifically on [[integration_of_causal_reasoning_in_machine_learning | causality in machine learning]] <a class="yt-timestamp" data-t="01:07:20">[01:07:20]</a>.
+*   **Lectures:**
+    *   Lectures by Jonas Peters <a class="yt-timestamp" data-t="01:07:42">[01:07:42]</a>.
+    *   Lectures by Elias Bareinboim <a class="yt-timestamp" data-t="01:07:48">[01:07:48]</a>.
+
+### The Importance of Formalism
+For those discouraged by the formality of causality, the guest acknowledges the challenge but believes formalism is necessary <a class="yt-timestamp" data-t="01:08:24">[01:08:24]</a>. He states that Judea Pearl views it as a formal mathematical language for discussing modeling assumptions about data-generating processes and deriving sound conclusions <a class="yt-timestamp" data-t="01:08:39">[01:08:39]</a>. It is foundational research, closely related to mathematics and probability theory <a class="yt-timestamp" data-t="01:09:15">[01:09:15]</a>. While intuition can be a good starting point, it can also lead to "wrong intuition" about causation <a class="yt-timestamp" data-t="01:09:57">[01:09:57]</a>.
+
+> "If you're passionate about this, if you think this is meaningful, this would be fun, I think it will be fun. So do it, just do it." <a class="yt-timestamp" data-t="01:10:34">[01:10:34]</a>

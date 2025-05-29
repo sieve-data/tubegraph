@@ -1,0 +1,53 @@
+---
+title: Causal inference and decision making
+videoId: zTJFUaLjxfE
+---
+
+From: [[causalpython]] <br/> 
+
+Scott Muller, a guest on the Causal Bandits podcast, dedicates his work to making better decisions, both at an individual level and for effective population policies <a class="yt-timestamp" data-t="03:30:17">[03:30:17]</a>. His research deeply involves [[causal_inference_concepts_and_applications | counterfactual reasoning]], which addresses the fundamental problem of [[causal_inference_and_its_applications | causal inference]] where observing outcomes for different treatments simultaneously is impossible <a class="yt-timestamp" data-t="03:46:16">[03:46:16]</a>.
+
+## The Fundamental Problem of Causal Inference
+The core challenge in [[causal_inference_and_its_applications | causal inference]] is that one cannot observe the outcomes for two different treatments on the same individual <a class="yt-timestamp" data-t="03:51:30">[03:51:30]</a>. For instance, it's impossible to see a person take medicine, then go back in time, have them *not* take the medicine, and observe what happens <a class="yt-timestamp" data-t="03:59:16">[03:59:16]</a>. While this can be estimated at a population level through averages or randomized controlled trials, it is difficult to obtain point estimates or identify specific counterfactual probabilities at an individual level <a class="yt-timestamp" data-t="04:09:03">[04:09:03]</a>.
+
+### Bounds on Counterfactual Probabilities
+Jin Tian and Judea Pearl developed bounds on probabilities of causation, particularly for counterfactual probabilities like probability of necessity, probability of sufficiency, and probability of necessity and sufficiency <a class="yt-timestamp" data-t="04:31:39">[04:31:39]</a>. While these bounds are mathematically tight, meaning they cannot be improved without further assumptions, they are often too loose to be useful for making decisions <a class="yt-timestamp" data-t="04:51:24">[04:51:24]</a>. The challenge then becomes how to narrow these bounds, ideally to the point where they become identified <a class="yt-timestamp" data-t="05:14:11">[05:14:11]</a>. This requires making additional, reasonable assumptions that make sense for a particular scenario <a class="yt-timestamp" data-t="05:44:03">[05:44:03]</a>.
+
+### The Monotonicity Assumption
+One such helpful assumption, as demonstrated in Scott Muller's papers, is monotonicity <a class="yt-timestamp" data-t="06:07:05">[06:07:05]</a>.
+*   **Definition**: Monotonicity assumes there is no possibility of harm in a counterfactual sense <a class="yt-timestamp" data-t="06:17:28">[06:17:28]</a>. For example, if taking a medicine prevents one from getting better, but not taking it would have led to recovery, that constitutes harm. Monotonicity asserts that such a negative counterfactual effect is impossible (probability of it happening is zero) <a class="yt-timestamp" data-t="06:26:01">[06:26:01]</a>. This can be known from the underlying biological mechanisms in some cases <a class="yt-timestamp" data-t="07:09:47">[07:09:47]</a>.
+*   **Usefulness**: When monotonicity is assumed, it allows for the point identification of various counterfactual probabilities, such as the probability of benefit or the probability of necessity and sufficiency <a class="yt-timestamp" data-t="07:21:04">[07:21:04]</a>.
+*   **Challenges in Practice**:
+    *   Knowing when monotonicity holds is difficult <a class="yt-timestamp" data-t="08:04:08">[08:04:08]</a>.
+    *   Scott Muller, along with Judea Pearl, is working on a paper showing that while it's rare to confirm monotonicity from data alone, it is often much more feasible to show definitively that monotonicity does *not* hold <a class="yt-timestamp" data-t="08:41:24">[08:41:24]</a>.
+    *   Even when monotonicity is violated, understanding the limits of that violation can help narrow the counterfactual bounds further <a class="yt-timestamp" data-t="09:38:09">[09:38:09]</a>. This is akin to "putting a bound on the bound" <a class="yt-timestamp" data-t="10:06:03">[10:06:03]</a>.
+
+## Bridging Theory and Practice: Software and Applications
+Scott Muller, with a background in software development, aims to make his [[causal_inference_methods_and_applications | causal inference methods and applications]] more accessible to practitioners <a class="yt-timestamp" data-t="15:26:44">[15:26:44]</a>. He plans to develop applications and software frameworks, including contributing to open-source libraries like DoWhy <a class="yt-timestamp" data-t="15:30:35">[15:30:35]</a>. DoWhy is praised for its consistent API, similar to scikit-learn, which makes [[causal_inference_methods_and_applications | causal inference methods and applications]] easier for users without needing to implement everything from scratch <a class="yt-timestamp" data-t="16:21:40">[16:21:40]</a>.
+
+Muller also envisions building user-friendly interfaces, such as graphical user interfaces (GUIs) or integrations into existing popular software packages, that allow domain experts (e.g., in econometrics, biology, or marketing) to leverage [[causal_inference_concepts_and_applications | causal inference concepts and applications]] without extensive coding knowledge <a class="yt-timestamp" data-t="17:38:19">[17:38:19]</a>.
+
+### [[causality_in_marketing_and_decisionmaking | Causality in Marketing]]: The Unit Selection Framework
+One significant area where [[causal_inference_and_its_applications | causal inference]] can provide substantial value is marketing. Scott highlights the unit selection framework, developed by Ang Li and Judea Pearl, as a powerful alternative to traditional A/B testing <a class="yt-timestamp" data-t="19:22:04">[19:22:04]</a>.
+
+*   **Critique of A/B Testing**: While A/B testing is widely used in internet marketing to identify ads that perform better on average, it can be severely suboptimal <a class="yt-timestamp" data-t="19:57:04">[19:57:04]</a>.
+*   **Unit Selection Framework**: This framework allows marketers to specify the value or weight they place on four different types of responders in a marketing campaign (where treatment is showing an ad, and response is buying a product) <a class="yt-timestamp" data-t="21:11:00">[21:11:00]</a>:
+    1.  **Compliers**: Buy the product if shown the ad, but not if they don't see it <a class="yt-timestamp" data-t="21:50:41">[21:50:41]</a>. These are the desired target <a class="yt-timestamp" data-t="22:54:19">[22:54:19]</a>.
+    2.  **Always Takers**: Buy the product whether or not they see the ad <a class="yt-timestamp" data-t="22:03:00">[22:03:00]</a>.
+    3.  **Never Takers**: Do not buy the product whether or not they see the ad <a class="yt-timestamp" data-t="22:07:37">[22:07:37]</a>.
+    4.  **Defiers**: Do not buy the product if they see the ad, but would buy it if they don't see it <a class="yt-timestamp" data-t="22:13:00">[22:13:00]</a>. These are the ones to avoid advertising to, as the ad actively deters them <a class="yt-timestamp" data-t="22:43:08">[22:43:08]</a>.
+*   **Value-Based Decisions**: By assigning values (positive, zero, or negative) to each responder type and leveraging observational and experimental data, the framework provides bounds on the overall value of advertising to a specific subpopulation <a class="yt-timestamp" data-t="25:51:30">[25:51:30]</a>. This allows for more optimal decisions beyond simple average performance, even if individual counterfactual effects cannot be identified <a class="yt-timestamp" data-t="25:09:12">[25:09:12]</a>.
+
+## A Journey to Causality
+Scott Muller's path to [[causal_inference_and_its_applications | causal inference]] was unconventional. He initially studied computer science, then ventured into the tech world as a software developer, and later founded several successful businesses <a class="yt-timestamp" data-t="26:56:06">[26:56:06]</a>. Despite business successes, a "nagging desire" to return to academia and research persisted <a class="yt-timestamp" data-t="31:13:17">[31:13:17]</a>. The rise of AI and the dream of Artificial General Intelligence (AGI) further motivated his return to school <a class="yt-timestamp" data-t="32:46:00">[32:46:00]</a>.
+
+A pivotal moment was reading Judea Pearl's "Book of Why" <a class="yt-timestamp" data-t="34:41:00">[34:41:00]</a>. This book made him realize his own limitations in interpreting data and making decisions based on it, leading him to understand the [[importance_of_understanding_causal_inference_for_decision_making | importance of understanding causal inference for decision making]] <a class="yt-timestamp" data-t="37:12:00">[37:12:00]</a>. He concluded that [[causal_reasoning_in_decisionmaking | thinking causally and counterfactually]] is fundamental to human reasoning, evident even in babies, and is a core component that needs to be "baked into" machine learning models for achieving human-level AI <a class="yt-timestamp" data-t="37:55:09">[37:55:09]</a>.
+
+## Causality and the Future of AI
+Scott believes that the mathematics and science behind [[causal_inference_and_its_applications | causality]] need to be integrated into AI architectures to achieve more intelligent agents <a class="yt-timestamp" data-t="40:33:00">[40:33:00]</a>. He doubts that scaling up current models (like LLMs) alone will lead to the emergence of causality <a class="yt-timestamp" data-t="39:41:00">[39:41:00]</a>. His current research continues to focus on identifying or narrowing bounds on counterfactual probabilities to enable better decision-making <a class="yt-timestamp" data-t="42:49:09">[42:49:09]</a>.
+
+## Advice for Navigating Challenges
+For those starting something challenging or complex, whether in [[causal_inference_and_its_applications | causality]], machine learning, or business, Scott emphasizes the crucial decision of knowing when to persevere and when to be "derailed" because one is heading in a wrong direction <a class="yt-timestamp" data-t="51:46:17">[51:46:17]</a>. His advice for making such decisions is to "learn [[causal_reasoning_in_decisionmaking | counterfactual analysis]]" <a class="yt-timestamp" data-t="53:03:00">[53:03:00]</a>. In academia, hard problems are seen as interesting puzzles, and he believes that if a solution is possible, he will find it <a class="yt-timestamp" data-t="55:13:10">[55:13:10]</a>.
+
+## Further Information
+Scott Muller's work can primarily be found on Judea Pearl's website at UCLA, as many of his papers are co-authored with Pearl <a class="yt-timestamp" data-t="56:37:37">[56:37:37]</a>. He is also active on Twitter, engaging with the academic side of the platform <a class="yt-timestamp" data-t="56:59:00">[56:59:00]</a>.

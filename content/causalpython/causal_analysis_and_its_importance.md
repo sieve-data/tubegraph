@@ -1,0 +1,50 @@
+---
+title: Causal analysis and its importance
+videoId: Vz5n5SamDAc
+---
+
+From: [[causalpython]] <br/> 
+
+[[Causal analysis and its applications | Causal analysis]] is a critical approach for deriving insights from data, moving beyond mere correlation to understand true causation <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. It is fundamental for driving any decision-making process causally, rather than relying on guesses based solely on correlational analysis <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. Using [[causal_analysis | causal analysis]] methods clarifies assumptions and helps identify the limits of an analysis, allowing for high confidence in outcomes <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>.
+
+## The Challenge of Causation
+
+Historically, much social science research has been well-grounded in theory and backed by data analysis, yet often concluded with the caveat that "correlation is not causation," acknowledging that observational data cannot definitively prove causal links <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. This limitation can be "disappointing" when deep insights are undermined by the inability to make causal claims <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
+
+A core challenge in [[causal_inference_concepts_and_applications | causal inference]] is that causality cannot be derived from data alone; it requires incorporating knowledge about the data generating process, plausible mechanisms, and unobserved information <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. Until recently, researchers had to figure this out on their own, as computers offered no assistance <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
+
+From a practical standpoint, a significant challenge is the wider deployment of [[causal_inference_methods_and_applications | causal methods]] in various decision-making contexts and for understanding the world <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>. This necessitates improved education to understand the basics of [[causal_inference_concepts_and_applications | causal concepts]] and their application <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. Academically, while algorithms for specific tasks are well-developed, there's a need to address a broader range of problems and more complex modeling, such as physical processes with feedback loops over time <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.
+
+## The Role of Large Language Models (LLMs)
+
+Large language models (LLMs) are not yet capable of truly causal reasoning <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. However, their embedded knowledge can augment the [[causal_analysis | causal analysis]] process, acting as a "common sense database" for how the world works <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. LLMs can provide technological support for setting up [[causal_analysis | causal assumptions]] by:
+*   Suggesting plausible [[causal_discovery_and_analysis | causal mechanisms]] given a question and dataset <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
+*   Critiquing existing assumptions and highlighting potential omissions or errors <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
+
+This support significantly alleviates the burden on domain experts, who no longer have to start from scratch <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. LLMs can also speed up the process of constructing knowledge graphs and motivate domain experts to share their knowledge by offering an initial graph to critique <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+
+While it is plausible that LLMs could learn causal models due to exposure to counterfactual scenarios in their training data, it is not clear if this is the most efficient representation or if they can extrapolate beyond their observed data without population support <a class="yt-timestamp" data-t="00:21:49">[00:21:49]</a>. Additionally, current LLMs primarily model language, not the world itself, posing a "squishy question" about whether their causal understanding of language translates to the real world <a class="yt-timestamp" data-t="00:22:47">[00:22:47]</a>. Moving Foundation models to operate on direct observations of the world, rather than just language, could provide clearer insights into what they are capturing <a class="yt-timestamp" data-t="00:23:20">[00:23:20]</a>.
+
+## Key Tools and Frameworks: DoWhy and PyWhy
+
+The development of libraries like DoWhy and EconML was driven by a desire to broaden the usage of [[causal_inference_methods_and_applications | causal methods]] <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>. DoWhy, initially created as a pedagogical example, structures [[understanding_and_applying_systematic_processes_in_causal_analysis | causal analysis]] into four stages <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>:
+1.  **Modeling**: Defining causal models and assumptions <a class="yt-timestamp" data-t="00:14:16">[00:14:16]</a>.
+2.  **Identification**: Analyzing models to identify a causal estimand and an approach to answer the causal question <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>.
+3.  **Estimation**: Performing statistical estimation to calculate values from data <a class="yt-timestamp" data-t="00:14:29">[00:14:29]</a>.
+4.  **Refutation**: Validating or attempting to refute assumptions <a class="yt-timestamp" data-t="00:14:36">[00:14:36]</a>.
+
+The refutation step aligns with philosopher Karl Popper's idea that theories can be falsified but never definitively proven <a class="yt-timestamp" data-t="00:17:54">[00:17:54]</a>. This highlights that [[causal_analysis | causal modeling]] operates at the boundaries of human knowledge, where absolute proof is elusive <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>. [[Causal discovery and analysis | Causal discovery]] and effect [[causal_inference_concepts_and_applications | inference]] are considered core to science and understanding the world <a class="yt-timestamp" data-t="00:19:04">[00:19:04]</a>.
+
+DoWhy has since become part of the broader PyWhy organization, an independent initiative fostering the [[causal_inference_concepts_and_applications | causal inference]] community <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>. This organization includes contributions from major companies like Microsoft and Amazon, as well as academic institutions like MIT, Columbia, and Carnegie Mellon (contributing the Causal Learn package) <a class="yt-timestamp" data-t="00:16:01">[00:16:01]</a>. The collaboration between competitors like Microsoft and Amazon demonstrates a shared commitment to empowering the community with better [[causal_analysis | causal analysis]] tools <a class="yt-timestamp" data-t="00:17:01">[00:17:01]</a>.
+
+Looking ahead, the PyWhy-LLM project aims to incorporate LLMs into the [[causal_analysis | causal analysis]] process, specifically to help generate causal graphs and critique assumptions, plugging into the initial and final stages of the four-step analysis <a class="yt-timestamp" data-t="00:19:40">[00:19:40]</a>. Experiments are also underway to use LLMs for identification-style analyses (e.g., identifying instrumental variables) and even code generation for analyses <a class="yt-timestamp" data-t="00:20:08">[00:20:08]</a>.
+
+## Learning and Advancing Causal Analysis
+
+Early attempts to learn [[causal_inference_concepts_and_applications | causality]] can be challenging; for instance, Judea Pearl's *Causality* book, while seminal, can be difficult for beginners due to its structure <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. A key step in understanding involves hands-on implementation and experimentation to build intuition <a class="yt-timestamp" data-t="00:30:08">[00:30:08]</a>. Resources that approach [[causal_inference_concepts_and_applications | causality]] from a high-level conceptual perspective before diving into specific methods would be beneficial for new learners <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
+
+For the [[causal_inference_concepts_and_applications | causal Python community]], it's crucial to remain focused on the end goal: solving real-world problems <a class="yt-timestamp" data-t="00:35:57">[00:35:57]</a>. This involves improvements across various aspects, including deep algorithms, software engineering (e.g., data ingestion), and documentation <a class="yt-timestamp" data-t="00:36:16">[00:36:16]</a>.
+
+A critical area for advancement in applied [[causal_inference_concepts_and_applications | causal inference]] is making partial identification, sensitivity analysis, and proximal learning more accessible <a class="yt-timestamp" data-t="00:37:45">[00:37:45]</a>. Many do not realize that sensitivity analysis can be sufficient for optimal decision-making, even if a model cannot be fully specified <a class="yt-timestamp" data-t="00:38:23">[00:38:23]</a>. Tools to simplify the technical implementation of these methods are needed, as many practitioners lack the time to study and implement them from scratch <a class="yt-timestamp" data-t="00:38:42">[00:38:42]</a>. PyWhy is beginning to work on graph representations for partial graphs, which could lead to broader identification algorithms and subsequent sensitivity analysis <a class="yt-timestamp" data-t="00:39:45">[00:39:45]</a>.
+
+The future of [[causal_analysis | causal analysis]] involves continued effort to make LLMs practical in the standard process, including suggesting causal graphs, identifying missing confounders, and critiquing analyses <a class="yt-timestamp" data-t="00:40:35">[00:40:35]</a>. There is also early exploration into how Foundation models might better model complex physics-style systems <a class="yt-timestamp" data-t="00:41:07">[00:41:07]</a>, which could open up a broad range of exciting applications <a class="yt-timestamp" data-t="00:41:26">[00:41:26]</a>.
