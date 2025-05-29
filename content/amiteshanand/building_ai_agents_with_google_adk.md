@@ -1,85 +1,69 @@
 ---
-title: Building AI Agents with Google ADK
+title: Building AI agents with Google ADK
 videoId: FYhKah8FpAg
 ---
 
 From: [[amiteshanand]] <br/> 
 
-This article explores the [[google_agent_development_kit | Google Agent Development Kit (ADK)]], a framework for building and deploying AI agents. It also showcases a full-fledged agent demo built using [[google_agent_development_kit | Google ADK]] <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
+The [[Agent Development Kit introduction and usage | Google Agent Development Kit (ADK)]] is a flexible and modular framework designed for developing and deploying AI agents <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. It supports popular Large Language Models (LLMs) and open-source tools, focusing on tight integration with the Google ecosystem and Gemini models <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. The ADK can be installed using `pip install Google ADK` <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
 
-## Google Agent to Agent (A2A) Protocol
-
-Google announced the Agent to Agent (A2A) Protocol on April 9, 2025 <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. This open protocol allows agents to interact with each other and perform multiple tasks <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. It facilitates secure collaboration, state management, user experience, negotiation, and capability discovery between client agents and remote agents <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
-
-The A2A protocol is an open standard for connecting agents <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. A high-level diagram illustrates how a main agent (Agent One) can have local agents, use Google-specific Gemini APIs via Vertex AI, and connect to a [[google_agent_development_kit | Google ADK]] <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. Another main agent (Agent Two) can use LLMs from different providers (e.g., Navius) and other agent frameworks like QI or [[building_ai_agents_with_openai_sdk_and_lyzr_ai | OpenAI Agent SDK]] <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. These agents interact with each other to perform tasks <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
-
-### A2A vs. Model Context Protocol (MCP)
-
-While MCP is for tool and resource collaboration <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>, A2A Protocol is specifically for agent-to-agent collaboration, enabling dynamic multi-modal communication between agents without saving memory, resources, or tools <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. It's an open protocol, allowing the use of any framework or LLM <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
-
-## Google Agent Development Kit (ADK)
-
-The [[google_agent_development_kit | Google Agent Development Kit (ADK)]] is a flexible and modular framework for developing and deploying AI agents <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. It can be used with popular LLMs and open-source tools, focusing on integration with the Google ecosystem and Gemini models <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. However, it can also integrate with other LLMs, [[using_thirdparty_tools_in_ai_development | third-party tools]], and APIs <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
-
-### Features
-
-[[google_agent_development_kit | Google ADK]] offers several features:
+## Key Features of Google ADK
+The [[Features of Google Agent Development Kit | Google ADK]] offers several features including:
 *   Multi-agent architecture <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>
-*   Rich tool ecosystem for adding multiple tools and [[using_thirdparty_tools_in_ai_development | third-party libraries]] <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>
-*   Deployment readiness <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>
+*   Rich tool ecosystem, allowing the addition of multiple tools, third-party libraries, and integrations with frameworks like LangChain <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>
+*   Deployment readiness <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>
 *   Built-in evaluation capabilities <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>
 
-### Installation
+## Understanding AI Agents in ADK
+In the context of the [[Understanding AI Agents | Agent Development Kit]], an agent is defined as a self-contained execution unit designed to autonomously achieve specific goals <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. Agents can perform tasks, interact with users, utilize external tools, and coordinate with other agents <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
 
-[[google_agent_development_kit | Google ADK]] can be installed via pip: `pip install Google-ADK` <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+The ADK categorizes agents into three core types <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>:
+1.  **LLM-based Agents:** These agents utilize LLMs as their core engine for understanding language, reasoning, planning, generating responses, and dynamically deciding how to proceed <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. They are suitable for tasks requiring specific answers or queries <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
+2.  **Workflow Agents:** These agents specialize in controlling the execution flow of agents in predefined, deterministic patterns <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>. They include:
+    *   **Sequential Agents:** Execute sub-agents in a specified order <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. An example is summarizing a webpage, where content must be retrieved before it can be summarized <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
+    *   **Parallel Agents:** Execute multiple agents simultaneously <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>.
+    *   **Loop Agents:** Execute agents in a loop until a condition is met <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+    Workflow agents may or may not use an LLM <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
+3.  **Custom Agents:** These agents are created by directly extending the base agent and allow for unique operational logic, specific control flow, or specialized integrations not covered by standard types <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
 
-### Agent Definition within ADK
+## Google Agent-to-Agent (A2A) Protocol
+Google announced its [[Agent to Agent protocol by Google | Agent-to-Agent (A2A) protocol]] on April 9, 2025 <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. It is an open protocol designed to enable secure collaboration between AI agents, allowing them to interact and perform multiple tasks together <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
 
-In [[google_agent_development_kit | Google ADK]], an agent is a self-contained execution unit designed to act autonomously to achieve specific goals <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. Agents can perform tasks, interact with users, utilize external tools, and coordinate with other agents <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
+The A2A protocol facilitates:
+*   Secure collaboration <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>
+*   State management <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>
+*   User experience management <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>
+*   Negotiation and capability discovery <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>
 
-Agents can be extended into three core categories <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>:
+A high-level diagram of the A2A protocol involves a main agent (Agent One) with local agents utilizing Google-specific tools like Vertex AI and Gemini APIs. This agent interacts with a [[Agent Development Kit introduction and usage | Google ADK]], an open-source agent building framework. An MCP (Model Context Protocol) server acts as an intermediary for fetching APIs and enterprise applications. A second main agent (Agent Two) with its own local agents might use LLMs from different providers (e.g., Navius) and other agent frameworks like LangChain or [[Building AI Agents with OpenAI Agent SDK | OpenAI Agent SDK]] <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. Both Agent One and Agent Two interact to perform tasks <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
 
-1.  **LLM-Based Agents**: Utilize an LLM as their core engine for understanding language, reasoning, planning, generating responses, and dynamically deciding how to proceed <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
-2.  **Workflow Agents**: Specialized agents that control the execution flow of other agents in a predefined, deterministic pattern <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>. They can be:
-    *   **Sequential Agents**: Execute sub-agents in the order they are specified in a list <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. An example is summarizing a webpage, where content must first be retrieved before it can be summarized <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
-    *   **Parallel Agents**: Execute sub-agents concurrently.
-    *   **Loop Agents**: Execute sub-agents repeatedly based on a condition.
-3.  **Custom Agents**: Created by extending the base agent directly, allowing for unique operational logic, specific control flow, or specialized integrations not covered by standard types <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
+The A2A protocol is distinct from MCP; while MCP focuses on tool and resource collaboration, A2A is specifically for agent-to-agent collaboration, enabling dynamic multi-model communication between different agents without saving memory, resources, or tools <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. It's an open standard that allows the use of any framework or LLM <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
 
-## Multi-Agent AI Trend Analyzer Demo
-
-A demo of a multi-agent AI trend analyzer was built using [[google_agent_development_kit | Google ADK]], Navius AI, XA, DEI, and Firecrawl <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. This system is a [[building_multiagent_systems_using_google_collab | multi-agent pipeline]] orchestrated as a sequential agent chain <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>.
+## Building a Sequential Agent Demo with Google ADK
+A full-fledged [[Sequential agent demo with Google ADK | agent demo]] was built using [[Google Agent Development Kit introduction and usage | Google ADK]] to create a multi-agent AI trend analyzer <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. This pipeline utilized a [[Setting up a sequential agent workflow using Google ADK | sequential agent workflow]], coordinating five individual agents <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
 
 ### Tools and Models Used
+*   **Inference Studio:** Navius AI Studio <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>, which provided:
+    *   LMAN Demo Ultra model by Nvidia <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>
+    *   Meta Llama 3.1 8B Instruct model <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>
+*   **Search APIs:**
+    *   XA: Adds search APIs and functionalities to AI apps for better LLM context <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+    *   DEI/Table: Similar to XA, used for different purposes in the demo <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+*   **Web Scraping:** Firecrawl: Scraps data from various sites, with features like crawling, mapping, extraction, and agent features <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
 
-*   **Navius AI Studio**: Used for inference <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
-    *   Models: NVIDIA LMAN Demo Ultra model (253B) <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>, Meta Llama 3.1 8B Instruct <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
-*   **XA**: Adds search APIs and functionalities to AI apps for better LLM context <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
-*   **DEI**: Similar to XA, used for different purposes in the demo <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
-*   **Firecrawl**: Scrapes data from various sites, offering features like crawling, mapping, extracting, agent features, and LLM.txt <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
-*   **LightLLM**: Allows [[google_agent_development_kit | Google ADK]] to use any other LLM provider supported by LightLLM <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
-*   **Python-dotenv**: For API key management <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>.
+The system also leveraged [[Integrating multiple AI tools with Google ADK | Light LLM]] to support various LLM providers beyond Google's ecosystem <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>.
 
 ### Sequential Agent Pipeline
+The demo consisted of a chain of five agents working in sequence:
+1.  **XA Agent:** Fetches the latest news and updates from Twitter (X.com) related to AI advancements <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
+2.  **Table Agent (DEI):** Gathers benchmark data and specific data points related to various models from the Artificial Analysis website <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
+3.  **Summary Agent:** Combines and formats the results obtained from the XA and Table agents into a coherent summary <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>. This agent is powered by Meta Llama 3.1 8B Instruct <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
+4.  **Firecrawl Agent:** Scrapes content from the Navius AI website <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>. This agent also uses Meta Llama 3.1 8B Instruct <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
+5.  **Analysis Agent:** Uses the Nvidia Neotron Ultra model to analyze the combined summary from Agent 3 and the scraped data from Agent 4, providing insights and recommendations <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>. This agent provides insights on trends, notable stats, and comparisons between models <a class="yt-timestamp" data-t="00:19:57">[00:19:57]</a>.
 
-The demo utilized a chain of five sequential agents <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>:
-
-1.  **XA Agent**: Fetches the latest news about AI advancements from Twitter (X.com) <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a> using the `XA search AI` tool <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>. It prefixes its response with "XAR agent" <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>.
-2.  **DEI Agent**: Gets benchmarks and specific data points related to various models from the artificial analysis website <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a> using the `table search analysis` tool <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>. It prefixes its response with "table agent" <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>.
-3.  **Summary Agent**: Combines and formats the results from the XA and DEI agents <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>.
-4.  **Firecrawl Agent**: Scraps content from the Navius AI studio homepage <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a> using the `Firecrawl scrap NS` tool to fetch markdown content <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>.
-5.  **Analysis Agent**: Analyzes the combined summary from agent 3 and the scraped data from agent 4 to provide insights <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>. This agent uses the NVIDIA Llama 3.1 253B model <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a> and prefixes its response with "analysis agent" <a class="yt-timestamp" data-t="00:19:48">[00:19:48]</a>.
-
-The entire pipeline is controlled by one orchestrator agent named `AI pipeline agent` <a class="yt-timestamp" data-t="00:15:25">[00:15:25]</a>.
+This entire sequence of five agents is orchestrated by a main sequential agent named "AI pipeline agent" <a class="yt-timestamp" data-t="00:15:25">[00:15:25]</a>.
 
 ## Google ADK Web UI
+The [[Agent Development Kit introduction and usage | Google ADK]] also provides a web UI for running and visualizing agents <a class="yt-timestamp" data-t="00:22:38">[00:22:38]</a>. Agents can be set up in a VS Code environment and then executed using the `ADK web` command to launch the web interface, typically at `localhost:8000` <a class="yt-timestamp" data-t="00:22:48">[00:22:48]</a>.
 
-[[google_agent_development_kit | Google ADK]] supports a web UI for running agents <a class="yt-timestamp" data-t="00:22:38">[00:22:38]</a>. This UI can be accessed at `localhost:8000` <a class="yt-timestamp" data-t="00:23:37">[00:23:37]</a>.
-
-### Multi-Tool Search Agent Example
-
-A simple multi-tool search agent demo using the web UI showcases the `XA search agent` to perform searches with Meta Llama 3.1 8B Instruct <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a>. This agent is orchestrated by a `root agent` that delegates tasks to the `XA search agent` <a class="yt-timestamp" data-t="00:23:14">[00:23:14]</a>.
-
-When a query like "who won the IPL on 12th April and who was the big scorer" is entered <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>, the root agent transfers the task to the XA agent, which performs searches and provides the answer <a class="yt-timestamp" data-t="00:24:09">[00:24:09]</a>.
-
-The web UI also provides a flowchart visualization, showing the flow of tasks from the root agent to the XA search agent and how the search is performed <a class="yt-timestamp" data-t="00:24:30">[00:24:30]</a>.
+The web UI allows users to select an agent and provide input <a class="yt-timestamp" data-t="00:23:43">[00:23:43]</a>. For example, a "multi-tool search agent" can delegate tasks to other agents like an XA search agent, which then performs searches using models like Meta Llama 3.1 8B Instruct and provides answers <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a>. A key feature of the web UI is its ability to visualize the agent workflow as a flowchart, showing how a root agent transfers tasks to sub-agents and how they interact to achieve the final result <a class="yt-timestamp" data-t="00:24:28">[00:24:28]</a>.

@@ -4,4 +4,5 @@ videoId: Op9z0pi83UQ
 ---
 
 From: [[amiteshanand]] <br/> 
-The topic for this article is Hacktoberfest 2022. <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>
+
+The provided transcript does not contain information about Hacktoberfest 2022.
