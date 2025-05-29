@@ -1,0 +1,26 @@
+---
+title: Perspectives on Western Response and Sanctions
+videoId: CEYph6bv3Ag
+---
+
+From: [[bonus_professor]] <br/> 
+
+Ukraine's energy sector attacks can be leveraged to pressure Western countries to provide more modern and long-range weaponry, including ammunition and missiles with extended range <a class="yt-timestamp" data-t="09:11:13">[09:11:13]</a>, <a class="yt-timestamp" data-t="09:19:19">[09:19:19]</a>, <a class="yt-timestamp" data-t="09:25:25">[09:25:25]</a>. This potential supply of long-range weapons to Ukraine is causing cities like Moscow to prepare bomb shelters for possible shelling, specifically for populated areas in the European part of Russia that might come within range <a class="yt-timestamp" data-t="10:03:03">[10:03:03]</a>, <a class="yt-timestamp" data-t="10:07:07">[10:07:07]</a>, <a class="yt-timestamp" data-t="10:17:17">[10:17:17]</a>.
+
+## Nuclear Threats and Responses
+
+The probability of the Kremlin using nuclear weapons, including tactical ones, is acknowledged as not zero <a class="yt-timestamp" data-t="10:45:45">[10:45:45]</a>. The "Supreme Commander-in-Chief's" readiness to use them has not been swayed by American warnings <a class="yt-timestamp" data-t="11:06:06">[11:06:06]</a>, <a class="yt-timestamp" data-t="11:11:11">[11:11:11]</a>, <a class="yt-timestamp" data-t="11:13:13">[11:13:13]</a>. However, there is a chance, not zero, that his own entourage might prevent the order from being implemented <a class="yt-timestamp" data-t="11:45:45">[11:45:45]</a>, <a class="yt-timestamp" data-t="11:46:46">[11:46:46]</a>, <a class="yt-timestamp" data-t="11:49:49">[11:49:49]</a>.
+
+### Western Retaliation
+
+In the event of Russia using tactical nuclear weapons, the West has promised a retaliatory strike with conventional weapons <a class="yt-timestamp" data-t="12:17:17">[12:17:17]</a>, a plan that has been considered long before 2022 <a class="yt-timestamp" data-t="12:22:22">[12:22:22]</a>, <a class="yt-timestamp" data-t="12:28:28">[12:28:28]</a>. This could lead to a significant escalation of the conflict <a class="yt-timestamp" data-t="12:06:06">[12:06:06]</a>. If, for instance, the Russian Black Sea Fleet were to suffer critically from conventional Western weapons, it raises the question of how the President of the Russian Federation would respond without resorting to a massive tactical nuclear strike, given Russia's struggles with conventional weaponry <a class="yt-timestamp" data-t="12:35:35">[12:35:35]</a>, <a class="yt-timestamp" data-t="12:40:40">[12:40:40]</a>, <a class="yt-timestamp" data-t="12:47:47">[12:47:47]</a>.
+
+### European vs. American Readiness
+
+Europeans are less ready for such an escalation, fearing that Europe would be the first to suffer <a class="yt-timestamp" data-t="13:06:06">[13:06:06]</a>, <a class="yt-timestamp" data-t="13:09:09">[13:09:09]</a>, <a class="yt-timestamp" data-t="13:13:13">[13:13:13]</a>. However, the Americans and Britain are prepared <a class="yt-timestamp" data-t="13:16:16">[13:16:16]</a>, <a class="yt-timestamp" data-t="13:17:17">[13:17:17]</a>. Despite Putin's hope that these countries would retreat in the face of such a possibility, they did not retreat on February 24, 2022 <a class="yt-timestamp" data-t="13:24:24">[13:24:24]</a>, <a class="yt-timestamp" data-t="13:29:29">[13:29:29]</a>.
+
+## [[Impact of Western sanctions on Russia | Sanctions and Economic Impact]]
+
+The West is described as pragmatic, not inclined to offer mass favoritism to Russians designated as terrorists or extremists <a class="yt-timestamp" data-t="16:48:48">[16:48:48]</a>. The general Western stance towards Russians is one of restrained negativeness or, at best, restrained neutrality <a class="yt-timestamp" data-t="16:56:56">[16:56:56]</a>, <a class="yt-timestamp" data-t="17:01:01">[17:01:01]</a>.
+
+Regarding currency, while the ruble is currently stable, it is expected to become "catastrophically unstable" once the crisis begins <a class="yt-timestamp" data-t="22:37:37">[22:37:37]</a>, <a class="yt-timestamp" data-t="22:41:41">[22:41:41]</a>, <a class="yt-timestamp" data-t="22:44:44">[22:44:44]</a>. The U.S. dollar is predicted to remain stable, unlike the Euro, unless there are specific reasons for Euro use like frequent travel to Europe or business there <a class="yt-timestamp" data-t="22:47:47">[22:47:47]</a>, <a class="yt-timestamp" data-t="22:51:51">[22:51:51]</a>, <a class="yt-timestamp" data-t="22:53:53">[22:53:53]</a>. Currency deposits in Russia are already frozen and effectively converted into rubles, with doubts about whether they will ever be retrievable in their original currency <a class="yt-timestamp" data-t="23:23:23">[23:23:23]</a>, <a class="yt-timestamp" data-t="23:26:26">[23:26:26]</a>, <a class="yt-timestamp" data-t="23:37:37">[23:37:37]</a>, <a class="yt-timestamp" data-t="23:43:43">[23:43:43]</a>. Banks will likely cite force majeure circumstances for this <a class="yt-timestamp" data-t="23:47:47">[23:47:47]</a>, <a class="yt-timestamp" data-t="23:49:49">[23:49:49]</a>. Ruble deposits are not under threat, as the central bank can print more rubles, but the ruble's value will depreciate in a crisis <a class="yt-timestamp" data-t="24:18:18">[24:18:18]</a>, <a class="yt-timestamp" data-t="24:20:20">[24:20:20]</a>, <a class="yt-timestamp" data-t="24:26:26">[24:26:26]</a>.

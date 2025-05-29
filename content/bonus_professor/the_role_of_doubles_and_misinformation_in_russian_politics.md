@@ -1,0 +1,55 @@
+---
+title: The role of doubles and misinformation in Russian politics
+videoId: jvEAR_oxcmk
+---
+
+From: [[bonus_professor]] <br/> 
+
+Professor Valery Solovey, in the 35th episode of "Answers to Hot Questions," discusses various aspects of Russian politics, focusing on the anticipated political shifts, the role of perceived misinformation, and the use of doubles in the highest echelons of power <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. He predicts that significant changes are imminent, with trials for "real criminals" potentially beginning as early as next year <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>, <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
+
+## Putin's Alleged Demise and Succession
+Solovey asserts that the physical death of the current "character" (referring to Putin) is definite and will occur before the end of autumn, possibly even sooner <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>, <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>.
+>[!INFO] Key Prediction
+>The death will initially be hidden, but this concealment will be short-lived <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. Information regarding Putin's physical, though not political, death will reach society and the elite within a few hours, prompting a shift and movement <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>, <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+
+After this event, a period of "short-term stability" is predicted to give way to chaos, though efforts will be made to ensure this chaos is brief <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>, <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>.
+
+### The Return of Prigozhin
+Contrary to widely accepted narratives, Solovey states that Prigozhin is "alive and well," currently "at large" in Venezuela <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>, <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. He notes that the FBI has not canceled its arrest order for Prigozhin, and intelligence agencies are aware of his survival <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>, <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>, <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+
+Prigozhin reportedly intends to reappear soon after Putin's death and disclose significant information, particularly concerning the [[speculations_around_putin_and_doubles | doubles of the Russian president]] <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>, <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. Prigozhin is expected to align with a broader alliance rather than acting independently <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+
+## The [[role_and_influence_of_doubles_in_russian_politics | Role of Doubles]] and [[media_manipulation_and_lies_in_russian_politics | Misinformation]]
+The speaker emphasizes that the West and China are fully aware that a double is replacing Putin <a class="yt-timestamp" data-t="00:20:42">[00:20:42]</a>, <a class="yt-timestamp" data-t="00:20:44">[00:20:44]</a>, <a class="yt-timestamp" data-t="00:20:46">[00:20:46]</a>, <a class="yt-timestamp" data-t="00:20:49">[00:20:49]</a>. China is even prepared to receive the double on visits <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>.
+
+These international powers prioritize their own interests: China seeks to maintain Russia's economic dependence for raw materials <a class="yt-timestamp" data-t="00:21:11">[00:21:11]</a>, <a class="yt-timestamp" data-t="00:21:19">[00:21:19]</a>, while the West aims for political stability in Russia, regardless of whether it's maintained by a dictatorship, to prevent loss of control over the nuclear arsenal <a class="yt-timestamp" data-t="00:21:21">[00:21:21]</a>, <a class="yt-timestamp" data-t="00:21:31">[00:21:31]</a>. Solovey describes this Western policy as "absolutely hypocritical and two-faced" <a class="yt-timestamp" data-t="00:21:37">[00:21:37]</a>, <a class="yt-timestamp" data-t="00:21:39">[00:21:39]</a>.
+
+### The [[allegations_of_putins_double | Valdai Double]] and Elite Conflict
+There are claims that a double appeared at Valdai, performing the "main role" at such a high level that it is suggested he could become the de facto leader and even run in presidential elections <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>, <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>, <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>. However, a serious conflict exists among elite groups regarding how to govern post-Putin <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>, <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>. This conflict will inevitably lead to a clash, during which information about Putin's death and the existence of doubles will be made public <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>, <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+
+This revelation, according to Solovey, will cause "dumbfounded amazement and disgust" among the populace upon realizing "in what kind of world we are ashamed lied from year to year and for decades" <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>, <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>. He reveals that an estimated $4 trillion USD, twice his previous estimate, has been illegally withdrawn from Russia from resource sales <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a>, <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>, <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>. This sum, he claims, could have transformed Russia into "a semblance of an earthly Paradise" <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>, <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
+
+## [[perceptions_and_narratives_in_russian_media | Perceptions and Narratives]]
+Solovey describes Putin as a "cunning person" who excelled at "finding the keys to the hearts and souls of other people," including Western leaders and domestic magnates <a class="yt-timestamp" data-t="00:14:49">[00:14:49]</a>, <a class="yt-timestamp" data-t="00:14:54">[00:14:54]</a>. He effectively used the country's colossal resources for his own benefit and that of a small circle <a class="yt-timestamp" data-t="00:15:07">[00:15:07]</a>, <a class="yt-timestamp" data-t="00:15:09">[00:15:09]</a>.
+
+Regarding societal attitudes towards the government, Solovey notes that in Russia, "the government has magic" and is perceived as "endowed with some kind of supernatural abilities" <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>, <a class="yt-timestamp" data-t="00:15:22">[00:15:22]</a>, <a class="yt-timestamp" data-t="00:15:30">[00:15:30]</a>. Additionally, the first 10-12 years of Putin's rule were marked by "good sustainable economic growth," providing rational reasons for people to support him <a class="yt-timestamp" data-t="00:15:41">[00:15:41]</a>, <a class="yt-timestamp" data-t="00:15:53">[00:15:53]</a>, <a class="yt-timestamp" data-t="00:15:59">[00:15:59]</a>.
+
+### The Double's Predicament
+The speaker confirms that [[Putins_doubles_theory | Putin's double]] understands his life is in danger <a class="yt-timestamp" data-t="00:31:11">[00:31:11]</a>, <a class="yt-timestamp" data-t="00:31:14">[00:31:14]</a>. The double was promised colossal compensation and freedom, which Solovey believes would be an obvious "scam" <a class="yt-timestamp" data-t="00:31:25">[00:31:25]</a>, <a class="yt-timestamp" data-t="00:31:33">[00:31:33]</a>, <a class="yt-timestamp" data-t="00:31:41">[00:31:41]</a>.
+
+The true date of Putin's birth is kept secret because he fears those with the information could create his natal chart and discover when he will die, or use "magical practices" to influence him <a class="yt-timestamp" data-t="00:29:36">[00:29:36]</a>, <a class="yt-timestamp" data-t="00:29:42">[00:29:42]</a>, <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>.
+
+## [[challenges_of_russian_society_and_propaganda | Challenges of Russian Society]] and the Future
+While Putin's death might not be met with universal joy, many will regret it and fear instability <a class="yt-timestamp" data-t="00:24:40">[00:24:40]</a>, <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>, <a class="yt-timestamp" data-t="00:24:55">[00:24:55]</a>. The authorities are expected to attempt to shield the public from instability by initially concealing information about Putin's death <a class="yt-timestamp" data-t="00:25:06">[00:25:06]</a>, <a class="yt-timestamp" data-t="00:25:08">[00:25:08]</a>.
+
+Solovey predicts "grandose events" in the coming months, possibly within a year and a half, which will "far exceed the 1990s" in scale and consequences <a class="yt-timestamp" data-t="00:29:03">[00:29:03]</a>, <a class="yt-timestamp" data-t="00:29:06">[00:29:06]</a>, <a class="yt-timestamp" data-t="00:29:11">[00:29:11]</a>. He maintains his optimism due to being "well-informed" <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>, <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>.
+
+## Information and Media [[impact_of_media_on_russian_society | Influence]]
+Solovey states he will never deliberately convey false information, even if requested by his team for strategic reasons <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>, <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>. He distinguishes between silence on part of the truth, which might serve future plans, and outright lies <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>, <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>, <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
+
+>[!NOTE] Speaker's Principles
+>_ "I have never lied this is very important That's how I was brought up Such relationships in our family were and remain" <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>
+
+He characterizes himself as a "liberal conservative or conservative liberal," supporting traditional family and human relations, decency, honesty, and competition <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>, <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>. He also identifies as a "populist," staying with his people in Russia "in sorrow and in happiness" <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>, <a class="yt-timestamp" data-t="00:13:47">[00:13:47]</a>.
+
+Solovey encourages his audience to follow his Telegram channel, where he will provide updates on the unfolding "decisive events" <a class="yt-timestamp" data-t="00:22:13">[00:22:13]</a>, <a class="yt-timestamp" data-t="00:22:30">[00:22:30]</a>, <a class="yt-timestamp" data-t="00:28:53">[00:28:53]</a>. He also urges them to "take care of yourself" as there is "not much time left before the start of decisive events" <a class="yt-timestamp" data-t="00:35:12">[00:35:12]</a>, <a class="yt-timestamp" data-t="00:35:17">[00:35:17]</a>.

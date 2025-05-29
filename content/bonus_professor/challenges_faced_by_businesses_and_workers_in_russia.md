@@ -1,0 +1,37 @@
+---
+title: Challenges faced by businesses and workers in Russia
+videoId: jPC0AeQO_E4
+---
+
+From: [[bonus_professor]] <br/> 
+
+The economic situation in Russia presents significant challenges for both businesses and individual workers, exacerbated by the ongoing epidemic and governmental responses.
+
+## Economic and Managerial Issues
+Decisions made at the highest levels of government are often poorly executed due to a lack of a cohesive "vertical of power" in Russia <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. This means that directives, even from the president, are not effectively implemented on the ground <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>.
+
+For instance, a presidential proposal for 6.5% mortgage lending faces serious questions regarding its feasibility <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. Experts question how such lending can be provided when the national currency can collapse by 30% after a "slamming doors" event, and the Central Bank declares no responsibility for the national currency rate <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. Banks are also unwilling to provide interest-free loans, even to a minister, indicating that profitability outweighs presidential will in practice <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. This suggests that the state is more capable of imposing penalties than of building or providing support <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>.
+
+## Impact of Quarantine and Self-Isolation Measures
+The implementation of restrictive measures, such as the pass system in Moscow, has highlighted managerial incompetence. The system led to massive queues at metro entrances and traffic jams, with independent bloggers finding no traffic police cars at key junctions, suggesting poor coordination <a class="yt-timestamp" data-t="00:13:19">[00:13:19]</a>. Officials, including the Moscow mayor, appear to lack a fundamental understanding of how daily life is organized <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>.
+
+### Challenges for Businesses
+The decision to close construction sites was met with sharp criticism, for example, from Aras Agalarov, owner of the Crocus Group <a class="yt-timestamp" data-t="00:23:26">[00:23:26]</a>. He warned of consequences for the epidemic situation among workers, as migrants are kept in "prison conditions" on construction sites <a class="yt-timestamp" data-t="00:23:55">[00:23:55]</a>. The speaker suggested that such businessmen, who have extracted "super profit," should act humanely and send migrants home at their own expense <a class="yt-timestamp" data-t="00:25:52">[00:25:52]</a>.
+
+Government efforts to support businesses, such as billboards promoting aid measures, are criticized as a way to "steal money" and will likely cause "the strongest irritation" among the public <a class="yt-timestamp" data-t="00:31:35">[00:31:35]</a>. As an example, Sberbank was not accepting applications for promised 0% loans for businesses <a class="yt-timestamp" data-t="00:30:18">[00:30:18]</a>.
+
+The extension of the self-isolation regime beyond one month is described as a "fatal shot to the economy," becoming a "control shot in the head" <a class="yt-timestamp" data-t="00:35:36">[00:35:36]</a>. Many businesses like cafes, restaurants, and fitness centers will be "immobilized" and face immense debt from unpaid loans and taxes <a class="yt-timestamp" data-t="00:35:22">[00:35:22]</a>. Despite the severity of the epidemic, there is an expectation that businesses will "de facto" exit quarantine in May, potentially operating semi-underground <a class="yt-timestamp" data-t="00:36:13">[00:36:13]</a>. The consequences for the economy are expected to be very serious, not just in terms of falling GDP, but also unemployment and instability in the financial and banking sector <a class="yt-timestamp" data-t="00:37:31">[00:37:31]</a>.
+
+### Challenges for Workers and Households
+The speaker notes that 60-65% of Russian families did not have enough money to last even one month <a class="yt-timestamp" data-t="00:36:03">[00:36:03]</a>. In contrast, the US government gave its citizens $1200, while Russia only promised assistance *after* quarantine for registered employees <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>. This highlights a significant disparity in support for ordinary citizens. The Moscow mayor's official statements, such as "it's better to sit at home... devote time to the family," are met with public questions about "with what money are you sitting?" <a class="yt-timestamp" data-t="00:31:59">[00:31:59]</a>, leading to "poorly concealed class hatred" <a class="yt-timestamp" data-t="00:32:27">[00:32:27]</a>.
+
+The long-term consequences of the crisis include rising unemployment, which could reach half a million in Moscow alone, not counting migrants <a class="yt-timestamp" data-t="00:38:00">[00:38:00]</a>. This situation makes it difficult for families, like one mentioned where the husband lost his construction job and the wife's salary barely covers their mortgage, to survive <a class="yt-timestamp" data-t="00:39:59">[00:39:59]</a>.
+
+## Societal Mood and Political Implications
+Sociological data indicates that the population is divided: 30% believe authorities are hiding the true picture of the epidemic, 29% believe the data is correct, and 28% believe the virus threat is being exaggerated to cover up governmental misdeeds <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>. Approval of self-isolation has decreased by 10% in a week <a class="yt-timestamp" data-t="00:18:19">[00:18:19]</a>. There are rumors that internal sociology is so negative that the presidential administration is fearful of lifting quarantine <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>.
+
+The worsening [[economic_challenges_in_russia | economic challenges in Russia]] expected in the fall make holding elections "suicidal" with the current mass mood <a class="yt-timestamp" data-t="00:19:27">[00:19:27]</a>. Discussions about canceling gubernatorial elections and appointing governors, as well as removing around 20 governors (some potentially going to prison), reflect the political instability <a class="yt-timestamp" data-t="00:27:48">[00:27:48]</a>.
+
+Despite a sharp increase in aggressiveness and irritation, society is not yet ready for mass demonstrations, though local conflicts and deviant behavior are expected <a class="yt-timestamp" data-t="00:39:04">[00:39:04]</a>. The streets of Moscow remain empty, and people are scared, which is a strong restraining factor against mass protests in May <a class="yt-timestamp" data-t="00:41:07">[00:41:07]</a>.
+
+The ultimate demand for political change will be the resignation of the president and government, and the formation of a national salvation government <a class="yt-timestamp" data-t="00:43:36">[00:43:36]</a>. This objective, the "survival of the nation," will need to be achieved through protests on streets and squares, as elections are unlikely to be effective or even held <a class="yt-timestamp" data-t="00:44:00">[00:44:00]</a>. The current situation is seen as a matter of "life and death," where the population's fate depends solely on their actions <a class="yt-timestamp" data-t="00:45:25">[00:45:25]</a>.

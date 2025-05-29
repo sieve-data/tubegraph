@@ -1,0 +1,33 @@
+---
+title: Exercises and potential implications for Russian leadership
+videoId: Xd9ZyNYkLxQ
+---
+
+From: [[bonus_professor]] <br/> 
+
+## FSO Exercises and Presidential Death
+From November 1-3, the FSO (Federal Protective Service) is conducting exercises, which are described as regular and annual. However, the speaker notes that the persistent emphasis on their regular nature and the deliberate mention of possible armored vehicle use suggests a connection to the alleged death of the president <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>. According to the speaker, the president died on the evening of October 26, around midnight <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+
+## Current Leadership Dynamics
+Following the alleged death of the president, the supreme ruler of Russia is now [[russian_political_leadership_transitions_and_internal_power_dynamics | Nikolai Patrushev]] <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. [[russian_political_leadership_transitions_and_internal_power_dynamics | Patrushev's]] team, now in power, is expected to "tighten the screws" ahead of a power transfer <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. The current leadership believes that a double cannot lead Russia for a long time <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>.
+
+The speaker emphasizes that [[russian_political_leadership_transitions_and_internal_power_dynamics | Patrushev]] "hates the oligarchs" and [[russian_political_leadership_transitions_and_internal_power_dynamics | Putin's]] entourage, characterizing him as a man of the "old formation" <a class="yt-timestamp" data-t="00:20:10">[00:20:10]</a>.
+
+### Role of Doubles
+The transcript asserts the presence of [[health_and_leadership_concerns_of_vladimir_putin | Putin's]] doubles <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. A phonoscopic examination conducted by Japanese researchers reportedly confirmed the presence of doubles, with the speaker noting that this type of examination is considered as reliable as fingerprints <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. The primary double, referred to as "Vasilich," replaced the president after his death <a class="yt-timestamp" data-t="00:24:29">[00:24:29]</a>. There is also a "technical double" who was used for public appearances where the president did not need to speak, controlled by the Federal Protective Service <a class="yt-timestamp" data-t="00:24:42">[00:24:42]</a>.
+
+### Key Figures and Internal Power Dynamics
+*   **Yevgeny Prigozhin**: The speaker believes Prigozhin will return after [[health_and_leadership_concerns_of_vladimir_putin | Putin's]] death, appearing "like the Jack-in-the-box" when the internecine struggle for power begins <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
+*   **Ramzan Kadyrov**: Kadyrov is aware of what happened in the Kremlin and is receiving heavy weapons from the Wagner private military company for two new battalions <a class="yt-timestamp" data-t="00:21:03">[00:21:03]</a>. He is expected to play his own game, primarily against the current and new Russian government <a class="yt-timestamp" data-t="00:21:49">[00:21:49]</a>.
+*   **Sergei Shoigu**: Shoigu desires to seize power but is not capable of doing so, as he lacks support and faces skeptical and hostile attitudes from all elite groups <a class="yt-timestamp" data-t="00:24:07">[00:24:07]</a>.
+
+### Potential Policy Shifts
+*   **Economic Outlook**: The ruble exchange rate is expected to fall again after some temporary strengthening, which is deemed inevitable given the situation of the Russian economy <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+*   **Social Media Surveillance**: Surveillance is expected to strengthen, not weaken, as [[russian_political_leadership_transitions_and_internal_power_dynamics | Patrushev's]] team comes to power <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>.
+*   **Ukraine Conflict**: The [[potential_political_consequences_for_putin_and_russian_establishment | Russian military]] intends to take Avdiivka at all costs, believing this will increase the chances of the West forcing Ukraine into peace talks <a class="yt-timestamp" data-t="00:22:53">[00:22:53]</a>. The new [[political_dynamics_and_potential_leadership_change_in_russia | Russian leadership]], particularly [[russian_political_leadership_transitions_and_internal_power_dynamics | Patrushev]], proposes peace talks through Lukashenko <a class="yt-timestamp" data-t="00:23:19">[00:23:19]</a>. The speaker states that even within the [[moral_and_political_implications_for_russian_leadership | Russian elite]], the desire for peace is predominant, though the terms remain unclear <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
+*   **Baltic Countries**: Russia has no current plans regarding Lithuania or the Baltic countries, having discontinued plans from 2019 due to the pandemic and warnings from the US and NATO <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>. Russia is currently too occupied to focus on such ambitions <a class="yt-timestamp" data-t="00:15:55">[00:15:55]</a>.
+*   **Caucasus and Chechnya**: While hostility and weapons are accumulating in the Caucasus, and interested parties exist, a third Chechen war is not necessarily in sight <a class="yt-timestamp" data-t="00:23:31">[00:23:31]</a>.
+*   **Demographics**: Reversing demographic trends will require significant effort and would only show effects in 10-15 years <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. The speaker's team has a program to increase the birth rate among indigenous populations of the Russian Federation <a class="yt-timestamp" data-t="00:12:36">[00:12:36]</a>.
+
+## Public Response and Future Outlook
+The speaker notes that people tend to avoid recognizing unacceptable realities <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. A mass movement is needed to transition Russia to a democratic, European reality, requiring people to go to the streets and continue until victory <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>. There is a call to be ready to act without thinking when the necessary moment arrives <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>. The speaker maintains cautious optimism for the [[future_political_leadership_in_russia | future political leadership in Russia]] and hopes that the public will be able to influence the fate of the country <a class="yt-timestamp" data-t="00:25:38">[00:25:38]</a>.

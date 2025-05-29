@@ -1,0 +1,57 @@
+---
+title: Vladimir Putin and information noise
+videoId: kwimtHGKaWw
+---
+
+From: [[bonus_professor]] <br/> 
+
+Valery Solovey's 55th episode of "What's happening" discusses how [[vladimir_putin_and_his_political_strategies | Vladimir Putin]] generates "meaningless information noise" and distinguishes it from actual "events" <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+
+## Information Noise vs. Events
+Information reasons are what make themselves discussed, often produced in large quantities with insignificant or zero underlying grounds, filling the information field with "information noise" or even "information garbage" <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. An event, conversely, is something that truly affects the situation at present or in the near future <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. The past week was characterized by a wealth of information reasons, with the President of Russia, [[vladimir_putin_and_his_political_strategies | Vladimir Putin]], being the main producer of this "information garbage" <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
+
+## Putin's Role in Generating Information Noise
+Recent examples of this "information garbage" include [[vladimir_putin_and_his_political_strategies | Putin's]] speech in Ulan-Ude, his speech to the Russian Union of Industrialists and Entrepreneurs, and alleged trips to Crimea and Mariupol <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>.
+
+### The Use of Doubles
+Of these "information occasions," only [[vladimir_putin_and_his_political_strategies | Putin's]] speech to businessmen, industrialists, and entrepreneurs at the House of Music involved the President of the Russian Federation personally <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. In all other "information events," such as the Ulan-Ude helicopter plant visit, the Crimea trip, and the night trip to Mariupol, a [[speculations_around_putin_and_doubles | double of Vladimir Vladimirovich Putin]] was the key figure <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
+
+Abroad, the presence of [[speculations_around_putin_and_doubles | Putin's doubles]] used for important "noise production" in Russian domestic policy is already a byword and no longer doubted in the West <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. The argument is that the real [[vladimir_putin_and_his_political_strategies | Vladimir Vladimirovich]] would never go to a place where he could be threatened by "even a hypothetical danger" <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. The double can even "look even better than the Russian president" in terms of content, though their sense of humor is "practically identical" <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+
+The only personal appearance by [[vladimir_putin_and_his_political_strategies | Putin]] was before businessmen, as "many people know him there and it would be very indecent" if he hadn't spoken <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>. During this speech, he was "on speed," or very strong stimulants, which "revived his mental activity" in a noticeable, though not necessarily beneficial, way <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. These appearances did not and could not affect the real situation in the country <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+
+### Deteriorating Relations with Business Elite
+After [[vladimir_putin_and_his_political_strategies | Putin's]] speech, industrialists and entrepreneurs were "extremely disappointed" as they did not receive answers to their concerns <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. A number of "marshals" and "admirals" of [[russian_political_elite_and_putin | Russian business]] did not even attend the meeting to avoid falling under sanctions <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
+
+> "For some of the richest people in Russia, [[vladimir_putin_and_his_political_strategies | Vladimir Vladimirovich]] looks like a leper" <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+
+Whereas before February 24th, 2022, they sought closeness to him for material dividends, now they avoid him because [[vladimir_putin_and_his_political_strategies | Putin]] is considered a "toxic asset" <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>.
+
+## Significant Events
+
+### Xi Jinping's Visit
+The main event expected is Xi Jinping's visit to Moscow, which is anticipated to "really affect Russian domestic and possibly foreign policy" <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. The Kremlin is "frozen in anticipation" regarding the visit's outcomes <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+
+[[health_and_public_appearances_of_president_putin | Putin's]] physical shape is not very good; efforts were made over the weekend to bring him to a "decent state" for Xi Jinping's visit <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. The speaker notes that [[vladimir_putin_and_his_political_strategies | Vladimir Vladimirovich's]] double is "capable of gesticulating, but not the current Russian president himself" <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>.
+
+China's goal in relation to Russia is to weaken the Russian Federation, tying it to China, ensuring Russia is "weak and ends up tied to China" <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. China does not desire a strong Russia, but also not an "absolute, complete defeat of Russia on the Ukrainian fronts" as this would be a "bad sign for China itself" <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>. China's peace initiative is unlikely to succeed, as the Americans and Ukrainian leadership have stated it is unacceptable <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>.
+
+### International Criminal Court Warrant
+Another significant event is the issuance of a warrant by the International Criminal Court (ICC) for [[health_and_public_appearances_of_vladimir_putin | Vladimir Vladimirovich Putin]] on suspicion of committing war crimes <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>.
+
+#### Impact of the Warrant
+1.  **Legal and Symbolic Aspect**: This is an important precedent, moving the "persecution of senior officials of the Russian Federation" into the legal plane <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>. It creates apprehension among [[russian_political_elite_and_putin | Russian officials]] about who might follow [[vladimir_putin_and_his_political_strategies | Putin]] <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>. The U.S., while skeptical of the ICC, is prepared to actively participate in organizing a trial for crimes in Ukraine <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>.
+2.  **Domestic Political Aspect**: Before February 24th, [[vladimir_putin_and_his_political_strategies | Putin]] was a "guarantor of wealth and privileges," but after, he became a "toxic asset" that the [[russian_political_elite_and_putin | Russian elite]] wants to discard <a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a>. While the elite may show outward solidarity, there are groups within it "capable of extremely decisive actions" <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>. The increasing desire and capabilities of these people could lead to "practical action" <a class="yt-timestamp" data-t="00:13:38">[00:13:38]</a>.
+3.  **International Political Aspect**: [[vladimir_putin_and_his_political_strategies | Putin]] is now considered a "leper" on the international stage, a "toxic asset" whom it is "better not to deal with" <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>. This "Black Mark" sent to the Russian president signifies a "cardinal" change in atmosphere around the Russian president and the Kremlin <a class="yt-timestamp" data-t="00:14:35">[00:14:35]</a>.
+4.  **Influence on Putin's Mental State**: The warrant "drove [[vladimir_putin_and_his_political_strategies | Putin]] into a deep depression" <a class="yt-timestamp" data-t="00:15:15">[00:15:15]</a>. His "mental state" is "frankly upset," with a "professional medical qualification" of his condition being discussed in some Telegram channels <a class="yt-timestamp" data-t="00:15:34">[00:15:34]</a>. This increases the risk of "unforeseen actions" or "dangerous decisions," a fact understood by his closest circle, who are now seriously contemplating a "much closer" and "extremely unpleasant" future <a class="yt-timestamp" data-t="00:16:04">[00:16:04]</a>.
+
+## Parallel Mobilization
+A "hidden," "parallel," "quiet," and "veiled" mobilization has begun <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>. This process involves invitations for document verification in over 45 regions of the Russian Federation, and summonses for military training <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>.
+
+*   The military commissariat of Buryatia stated that mobilization "did not stop" because there was a decree on its beginning but no decree on its end <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>.
+*   Reports (unconfirmed) from Penza allege that university graduates will receive a notice for military call-up along with their diplomas <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>.
+
+This mobilization uses "blackmail, threats of violence, and promises" to force people to the front <a class="yt-timestamp" data-t="00:18:41">[00:18:41]</a>. Promises include high salaries (e.g., 200,000 rubles a month) <a class="yt-timestamp" data-t="00:19:09">[00:19:09]</a>. Those who resist are labeled unpatriotic <a class="yt-timestamp" data-t="00:19:41">[00:19:41]</a>. There is a high risk that this combination of measures will "force a considerable number of people to join the active army," as "a lot of people are needed on the eve of the Ukrainian counteroffensive" <a class="yt-timestamp" data-t="00:20:13">[00:20:13]</a>. The goal is to increase troop numbers by "400 thousand people" within one and a half to two months <a class="yt-timestamp" data-t="00:20:33">[00:20:33]</a>. The Kremlin is confident there will be no protests <a class="yt-timestamp" data-t="00:20:46">[00:20:46]</a>.
+
+## Economic Impact: "10 Years Down the Drain"
+Due to the "special military operation" and [[vladimir_putin_and_his_political_strategies | Putin's]] policies, "10 years of labor" have been "zeroed out" <a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a>. Real incomes of Russians are 6.5% lower than in 2013, and the actual volume of goods consumption is 9.1% less than in 2013 <a class="yt-timestamp" data-t="00:21:24">[00:21:24]</a>. This is described as a "brilliant result of [[vladimir_putin_and_his_political_strategies | Putin's]] foreign policy and [[vladimir_putin_and_his_political_strategies | Putin's]] economic growth" <a class="yt-timestamp" data-t="00:21:46">[00:21:46]</a>. This phrase, "10 years down the drain," is expected to summarize [[vladimir_putin_and_his_political_strategies | Putin's]] rule, extending to "at least 22-23" years, representing "almost a quarter of a century torn out of life" <a class="yt-timestamp" data-t="00:22:02">[00:22:02]</a>.

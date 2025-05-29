@@ -1,0 +1,46 @@
+---
+title: Influence of YouTube and media channels in shaping public opinion
+videoId: n_HQLYO5QwQ
+---
+
+From: [[bonus_professor]] <br/> 
+
+Valery Solovyov's YouTube channel, "What's Happening," serves as a platform for analysis and commentary on current events in Russia <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. The channel reached half a million subscribers, which the host views as a joint achievement <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. The ambitious goal for the coming year is to double the subscriber count to a million <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
+
+This objective is not driven by personal prestige or monetization, but rather by the desire to create [[impact_of_youtube_on_information_and_income_in_russia | channels of influence]] <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. The host believes that next year will present a crucial opportunity to influence Russia's destiny, and the channel is a vital tool for this purpose <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>, <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>.
+
+## Public Discourse and Official Statements
+
+The host often critiques official statements, particularly those from the Russian president. For instance, public speeches by the Russian president are highlighted for their contradictory nature and "pathologically sick logic" <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. Claims such as "everything is going according to plan" are questioned, especially when the details of such a plan remain unknown <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>. Promises of no further mobilization are met with skepticism, given past unfulfilled pledges regarding retirement age, third terms, and economic prosperity <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. The president's comments on nuclear weapons are also perceived as contradictory, with statements about not intending to use them first, yet implying they would have no chance to be used if not first <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. This is perceived as a readiness to use "the last argument of kings" <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+
+## Shifts in Public Opinion
+
+Despite official narratives, [[public_opinion_and_sociology_in_russia | public opinion]] appears to be shifting. Unofficial economic forecasts, such as those from Alfa Bank's economist Natalia Orlova, contradict state predictions, anticipating a much larger GDP decrease of 6.5% in 2023, the largest since 2009 <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>. This crisis is seen as having a different nature, preventing quick recovery due to decreased domestic demand, export restrictions, and declining investment <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. The host also points to a "negative increase in employment," with 13% of the working-age population on unpaid or partially paid leave by summer <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>.
+
+The demographic situation is worsening, with an 11% fall in the birth rate in October 2022 compared to the previous year, and the population decreasing by half a million since the beginning of the year <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>, <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>. This leads to concerns about Russia degrading anthropologically, potentially turning into a land for an elite with a small number of "servants" <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>.
+
+### Mood of "Turbo Patriots"
+
+Even among so-called "Turbo Patriots," those who follow military Telegram channels and state TV propaganda, there is a noted change in mood <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>. According to materials from focus groups reportedly conducted for the Kremlin and obtained by the Dossier Center, initial surveys in July 2022 showed resolve, but a second study in November, following a series of defeats including the loss of Kherson, revealed disappointment in the army and Putin <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>, <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>, <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>. Many are now willing to sacrifice new territories for peace, viewing the price as too high <a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>. This shift is described as the "fog of war" clearing people's brains <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>.
+
+### Declining Popularity and Societal Discontent
+
+This [[public_opinion_and_political_shifts_in_russia | shift in public opinion]] suggests that the situation in the country is worsening for the authorities <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>. Putin's popularity is reportedly at record lows, and societal discontent is increasing <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>. This is cited as a reason for Putin's repeated assurances against mobilization, aiming to avoid disturbing an already stressed populace <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>. The host claims that "only dirty tricks, only disappointments, only problems" come from the Russian authorities <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>.
+
+## Government's Response to Discontent
+
+The government's strategy to cope with the situation is seen in the federal budget for 2023-25. While tax collection is expected to decrease by 5% and oil/gas revenues by 24%, there's a sharp reduction in economic support spending and a record jump in financing for "unarmed forces" like the police, National Guard, and FSB <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>, <a class="yt-timestamp" data-t="00:13:52">[00:13:52]</a>. Every third ruble will go to security forces, with a quarter of the budget classified <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>. This is described as "sitting on bayonets," a strategy that can only last for a very short time <a class="yt-timestamp" data-t="00:14:20">[00:14:20]</a>, <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>.
+
+The host points to the conviction of Ilya Yashin as an example of how the government handles dissent, suggesting that high-profile legal cases are discussed and confirmed by the president himself <a class="yt-timestamp" data-t="00:14:52">[00:14:52]</a>, <a class="yt-timestamp" data-t="00:15:16">[00:15:16]</a>.
+
+## Changing Behavior of the Russian Establishment
+
+Evidence of growing stress within the Russian establishment includes "very interesting everyday sketches" of officials consuming alcohol at breakfast, lunch, and dinner, alongside other "amplifiers of mental processes" to forget the "terrible present" and "even more terrible prospects" <a class="yt-timestamp" data-t="00:16:10">[00:16:10]</a>, <a class="yt-timestamp" data-t="00:16:20">[00:16:20]</a>. This increase in alcohol consumption among officials, despite Putin's moderate stance, is viewed as a sign of stress <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>.
+
+There are also rumors of Russian officials actively seeking a "second homeland" or "bases" abroad for when the regime collapses <a class="yt-timestamp" data-t="00:18:08">[00:18:08]</a>. Latin America is dismissed as a safe haven due to predominant US influence, where even top Russian elite would not be safe <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a>. Instead, Africa is suggested as the new refuge, with "alternate airfields" established, including luxury housing, reserves of currencies and precious metals, and private security, such as Wagner Group operations <a class="yt-timestamp" data-t="00:19:19">[00:19:19]</a>, <a class="yt-timestamp" data-t="00:19:42">[00:19:42]</a>.
+
+## The Future and the Role of [[impact_of_youtube_on_information_and_income_in_russia | Media Channels]]
+
+The host reflects on past accurate political predictions, citing a December 31 interview from the previous year where the events of 2022 were "accurately described" <a class="yt-timestamp" data-t="00:21:15">[00:21:15]</a>. This success reinforces the importance of platforms like YouTube for public awareness and shaping expectations.
+
+An upcoming online speech on December 22 is announced, promising a summary of lessons from the outgoing year and predictions for 2023 <a class="yt-timestamp" data-t="00:22:05">[00:22:05]</a>. The host emphasizes the importance of financial support for the channel, noting it is crucial for "public civic activity" and enabling the pursuit of the channel's influential goals <a class="yt-timestamp" data-t="00:24:14">[00:24:14]</a>. This underscores the connection between [[impact_of_youtube_on_information_and_income_in_russia | independent media]] and the ability to influence [[the_influence_of_media_and_public_opinion_in_russian_politics | public opinion]] and political discourse in Russia <a class="yt-timestamp" data-t="00:24:23">[00:24:23]</a>.

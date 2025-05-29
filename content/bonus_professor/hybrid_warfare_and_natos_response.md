@@ -1,0 +1,27 @@
+---
+title: Hybrid warfare and NATOs response
+videoId: 0OxLUc4T-ig
+---
+
+From: [[bonus_professor]] <br/> 
+
+The program discusses NATO's preparations for a hybrid war with the Russian Federation <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. This includes examining Russia's strategic aims and the tools it employs in such operations, as well as NATO's stated responses and underlying concerns.
+
+## Russia's Hybrid Operation Strategy
+
+A key aspect of Russia's strategy is to change the strategic context of the conflict and confrontation with Ukraine <a class="yt-timestamp" data-t="00:12:52">[00:12:52]</a>. The aim is to distract the attention of the West and NATO to another theater of [[military_aid_and_strategy_in_the_ukrainian_conflict | military operations]] <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>. This has previously occurred with the Middle East, which temporarily diverted attention <a class="yt-timestamp" data-t="00:13:05">[00:13:05]</a>. The current belief is that a new field of tension can be created in Europe <a class="yt-timestamp" data-t="00:13:14">[00:13:14]</a>, primarily in the Baltic countries of Latvia and Estonia <a class="yt-timestamp" data-t="00:13:22">[00:13:22]</a>. These countries are targeted due to their significant proportion of "non-native" or Russian-speaking populations <a class="yt-timestamp" data-t="00:13:26">[00:13:26]</a>.
+
+A hybrid operation is not a full-fledged [[military_aid_and_strategy_in_the_ukrainian_conflict | military operation]] <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>; it involves a military component only at the final stage, and even then, it should not be significant <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>. The initial stages of a hybrid operation aim to deepen chaos and are carried out in stages <a class="yt-timestamp" data-t="00:15:30">[00:15:30]</a>. If NATO does not resist, the operation progresses through stages, eventually including a military component <a class="yt-timestamp" data-t="00:15:43">[00:15:43]</a>.
+
+### Tools of Hybrid Operations
+One of the most effective tools used in combination during hybrid operations are [[cyber_attacks_as_a_tool_in_hybrid_operations | cyber attacks]] <a class="yt-timestamp" data-t="00:14:48">[00:14:48]</a>. These include attacks on the websites of banking institutions, logistics, and state and municipal institutions <a class="yt-timestamp" data-t="00:14:52">[00:14:52]</a>. The Russian Federation has been testing its ability to bring down these sites and damage navigation systems in the Baltic Sea area <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>.
+
+## NATO's Stance and Potential Response
+
+NATO is preparing for this type of conflict <a class="yt-timestamp" data-t="00:12:36">[00:12:36]</a>. Jens Stoltenberg, in an interview, stated that NATO could apply Article 5 on collective defense in the event of a serious [[cyber_attacks_as_a_tool_in_hybrid_operations | cyber attack]] on one of its member countries <a class="yt-timestamp" data-t="00:16:01">[00:16:01]</a>. He further warned Moscow that Article 5 could be used, with a response not only in cyberspace but also in other areas to protect NATO allies <a class="yt-timestamp" data-t="00:16:20">[00:16:20]</a>. NATO's Article 5 stipulates that an armed attack on one member country will be considered an attack on the alliance as a whole <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>. The current discussion specifically refers to a response to a hybrid operation, even at its initial stage <a class="yt-timestamp" data-t="00:17:01">[00:17:01]</a>.
+
+## Concerns and Blackmail
+
+Despite the strong rhetoric, there are concerns about how NATO might respond. It is suggested that NATO might initially show "deep concern" and call for restraint, given its historical reluctance to give a tough response <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>. This hesitation stems from the fear that Russia might declare such [[impact_of_military_actions_on_ukraine_and_nato_responses | NATO responses]], particularly [[cyber_attacks_as_a_tool_in_hybrid_operations | cyber attacks]] on Russian sites or responses in other areas, as threatening to the Russian Federation, potentially justifying the use of [[military_and_nuclear_concerns_regarding_ukraine_and_russ | nuclear weapons]], including tactical ones <a class="yt-timestamp" data-t="00:17:43">[00:17:43]</a>.
+
+However, the current [[russias_military_strategy_and_internal_debates | Russian military-political leadership]] is not seen as a supporter of using [[military_and_nuclear_concerns_regarding_ukraine_and_russ | nuclear weapons]] <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>, although it does engage in nuclear vocabulary, rhetoric, and blackmail <a class="yt-timestamp" data-t="00:19:16">[00:19:16]</a>. The parties are currently exchanging threats and rhetoric, with Russia hinting at hybrid operations and NATO stating it takes the threat seriously and is ready to respond symmetrically and asymmetrically <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>. This aligns with warnings that a hybrid operation is a very serious and real prospect <a class="yt-timestamp" data-t="00:19:52">[00:19:52]</a>.

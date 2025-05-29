@@ -1,0 +1,32 @@
+---
+title: Navalnys imprisonment and political protests in Russia
+videoId: uSWsQeLrjww
+---
+
+From: [[bonus_professor]] <br/> 
+
+## [[alexei_navalnys_situation | Alexei Navalny's Health and Imprisonment]]
+
+[[alexei_navalnys_situation | Alexei Navalny's]] health is in a very poor state, described as "disgusting" after his [[the_poisoning_of_alexei_navalny_and_its_political_implications | poisoning]] and subsequent entry into the Russian prison system <a class="yt-timestamp" data-t="00:24:41">[00:24:41]</a>. His announced hunger strike is not improving his condition <a class="yt-timestamp" data-t="00:24:58">[00:24:58]</a>. He suffers from chronic lack of sleep due to strict daily routines where he is woken up if he falls asleep off-schedule <a class="yt-timestamp" data-t="00:25:12">[00:25:12]</a>, in addition to lack of food <a class="yt-timestamp" data-t="00:25:32">[00:25:32]</a>. His condition is considered "quite close to critical" <a class="yt-timestamp" data-t="00:25:37">[00:25:37]</a>.
+
+Regarding plans for his situation, the main option considered by the Russian leadership is to allow a doctor to stabilize his condition <a class="yt-timestamp" data-t="00:26:10">[00:26:10]</a>. However, the prospect of his release is "very, very foggy" and unlikely <a class="yt-timestamp" data-t="00:26:33">[00:26:33]</a>.
+
+## [[protests_and_public_dissent_in_russia | Political Protests and Their Effectiveness]]
+
+[[protests_and_public_dissent_in_russia | Protest actions]] are seen as crucial for helping [[alexei_navalnys_situation | Alexei Navalny]] and other [[judicial_reform_and_political_prisoners_in_russia | political prisoners]] in Russia <a class="yt-timestamp" data-t="00:27:45">[00:27:45]</a>. It is important to remember that there are many other prisoners beyond Navalny, including those who were imprisoned before his [[alexei_navalnys_return_to_russia_and_political_dynamics | return]] and during the January 2021 rallies <a class="yt-timestamp" data-t="00:27:56">[00:27:56]</a>.
+
+Effective [[protests_and_public_dissent_in_russia | protest actions]] should be directly aimed at freeing prisoners, rather than symbolic demonstrations like "being on the streets with lanterns, with flowers, with spoons" <a class="yt-timestamp" data-t="00:28:45">[00:28:45]</a>. If protests are "real, corrected, coordinated" and persistently demand the release of prisoners, they can be successful <a class="yt-timestamp" data-t="00:29:11">[00:29:11]</a>. A major oversight during the Belarus rallies was the failure to achieve the release of [[judicial_reform_and_political_prisoners_in_russia | political prisoners]] in the initial days <a class="yt-timestamp" data-t="00:29:25">[00:29:25]</a>. The first thing to do in such situations is to demand their release, as releasing prisoners would mean "half of the revolution was successful" <a class="yt-timestamp" data-t="00:29:40">[00:29:40]</a>.
+
+If [[protests_and_public_dissent_in_russia | mass actions]] in Russia are "quite radical" and "unwavering," the leadership will likely release [[judicial_reform_and_political_prisoners_in_russia | political prisoners]] <a class="yt-timestamp" data-t="00:30:02">[00:30:02]</a>. For example, if 10-20,000 serious people had gathered for [[alexei_navalnys_return_to_russia_and_political_dynamics | Navalny's return]], he would not have been arrested, or at worst, would be under house arrest <a class="yt-timestamp" data-t="00:30:41">[00:30:41]</a>. The Kremlin closely monitored the number of people gathering to meet [[alexei_navalnys_return_to_russia_and_political_dynamics | Alexei Navalny]] at the airport, indicating that the scale and nature of public dynamics are key factors for pressuring the government <a class="yt-timestamp" data-t="00:30:58">[00:30:58]</a>.
+
+Vladimir Putin understands only force, and if there is no strong response, he perceives weakness and will continue to press endlessly <a class="yt-timestamp" data-t="00:31:30">[00:31:30]</a>. [[protests_and_public_dissent_in_russia | Political methods]] without force are considered unsuccessful and ineffective <a class="yt-timestamp" data-t="00:31:51">[00:31:51]</a>.
+
+### Challenges and Future of Opposition
+
+Many citizens believe that nothing depends on them, but this is a mistaken view; collective effort is necessary <a class="yt-timestamp" data-t="00:55:40">[00:55:40]</a>. People should not wait for someone else to solve problems <a class="yt-timestamp" data-t="00:56:02">[00:56:02]</a>. The importance of solidarity and supporting those who face [[repression_and_political_arrests_in_russia | repression]] is highlighted, such as the case of Roman Anin, editor-in-chief of "Important Stories" <a class="yt-timestamp" data-t="00:56:14">[00:56:14]</a>.
+
+The channel and its participants have taken responsibility for their calls to action, helping those arrested or detained during protests by providing support, including financial aid and facilitating their departure from Russia <a class="yt-timestamp" data-t="00:57:43">[00:57:43]</a>. This assistance often goes unadvertised to maximize effectiveness <a class="yt-timestamp" data-t="00:58:35">[00:58:35]</a>.
+
+There are many people within Russia's organs of power (judicial corps, prosecutor's office, FSB) who are ready to help and block key decisions, especially if there is a visible and united [[public_discontent_and_political_dynamics_in_russia | movement]] <a class="yt-timestamp" data-t="01:01:41">[01:01:41]</a>. It's noted that some public opinion leaders who strongly advocated for [[alexei_navalnys_return_to_russia_and_political_dynamics | Alexei Navalny's return]] and for protests disappeared after the events <a class="yt-timestamp" data-t="01:02:24">[01:02:24]</a>. The focus should be on "real actions" and "solving the problem," not just symbolic gestures <a class="yt-timestamp" data-t="01:03:01">[01:03:01]</a>. Everyone who calls for action should take responsibility for the safety of those who participate <a class="yt-timestamp" data-t="01:03:15">[01:03:15]</a>.
+
+If people remain passive, nothing will change; if one leader dies, another will take their place <a class="yt-timestamp" data-t="01:04:06">[01:04:06]</a>. A potential war, while beneficial to the opposition in the long run, would first lead to a "guaranteed collapse of the system" <a class="yt-timestamp" data-t="01:04:46">[01:04:46]</a>. This collapse could stimulate political processes <a class="yt-timestamp" data-t="01:04:26">[01:04:26]</a>.
