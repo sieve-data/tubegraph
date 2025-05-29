@@ -1,0 +1,30 @@
+---
+title: Cryptos involvement in AI and decentralized model training
+videoId: RJin72IysMw
+---
+
+From: [[limitless-ft]] <br/> 
+
+The intersection of cryptocurrency and [[ai_and_technological_advancements | AI]] development is an emerging trend, with discussions often revolving around [[decentralization_and_democratization_in_ai_development | decentralized approaches]] to [[ai_models_and_ethical_concerns | AI]] model training and the financial mechanisms supporting them <a class="yt-timestamp" data-t="00:59:59">[00:59:59]</a>. This sector explores how blockchain technology can facilitate the development and distribution of [[ai_and_technological_advancements | AI]] models, challenging the traditional centralized powerhouses.
+
+## AI Agent Tokens and Market Activity
+
+The market for [[ai_and_technological_advancements | AI]] agent tokens, often described as token meme coins associated with [[ai_and_technological_advancements | AI]] agents <a class="yt-timestamp" data-t="00:54:16">[00:54:16]</a>, has seen significant fluctuations. After peaking at approximately $25 billion and then dropping to around $3.2 billion, the total market cap of these [[ai_and_technological_advancements | AI]] agents nearly tripled over three weeks to $11.4 billion <a class="yt-timestamp" data-t="00:54:55">[00:54:55]</a>.
+
+Virtuals has emerged as a leader in this progression, adding over $600 million in market cap in two weeks and pushing its token value above a billion dollars <a class="yt-timestamp" data-t="00:55:50">[00:55:50]</a>. Virtuals introduced a new "Genesis launchpad" designed to offer a fairer way to launch [[ai_and_technological_advancements | AI]] agents <a class="yt-timestamp" data-t="00:56:58">[00:56:58]</a>. This system replaces the traditional bonding curve model with "proof of contribution," requiring users to perform helpful actions within the Virtuals ecosystem to gain access to agent tokens <a class="yt-timestamp" data-t="00:57:09">[00:57:09]</a>. Contributions can include staking tokens, promoting Virtuals on social media, or simply holding specific Virtuals tokens <a class="yt-timestamp" data-t="00:57:34">[00:57:34]</a>.
+
+Despite average returns of 12x to 20x on these tokens <a class="yt-timestamp" data-t="00:57:57">[00:57:57]</a>, concerns remain that the primary focus is on financial returns rather than genuine [[ai_and_technological_advancements | AI]] innovation <a class="yt-timestamp" data-t="00:58:20">[00:58:20]</a>. This trend is part of a broader "meta" in the crypto industry involving token launchpads that use tokens to drive virality for apps, often with little material association between the token and the application itself <a class="yt-timestamp" data-t="00:59:42">[00:59:42]</a>.
+
+To incentivize development, Virtuals updated its fee structure, returning 70% of fees back to creators <a class="yt-timestamp" data-t="00:58:51">[00:58:51]</a>. This aims to provide continuous funding for agent developers to sustain their products and the ecosystem <a class="yt-timestamp" data-t="00:59:07">[00:59:07]</a>.
+
+## Decentralized AI Model Training
+
+[[decentralization_and_democratization_in_ai_development | Decentralized]] or distributed training is an area where Web3 and crypto innovators are actively advancing [[ai_and_technological_advancements | AI]] <a class="yt-timestamp" data-t="01:01:08">[01:01:08]</a>. The core idea is to aggregate compute power from individuals' idle devices—such as laptops, computers, and cell phones—into a decentralized network to train [[ai_and_technological_advancements | AI]] models, which is often costly and resource-intensive when done centrally <a class="yt-timestamp" data-t="01:01:42">[01:01:42]</a>.
+
+Early efforts demonstrated the complexity of networking these diverse GPU servers and devices <a class="yt-timestamp" data-t="01:01:54">[01:01:54]</a>. For example, by the end of 2022, top minds at Google could only assemble a 400 million parameter model using such methods <a class="yt-timestamp" data-t="01:02:03">[01:02:03]</a>. However, progress has been significant. Teams like Jensen, Prime Intellect, and Noose Research are pioneering open-source distributed training <a class="yt-timestamp" data-t="01:02:37">[01:02:37]</a>. Jensen announced using [[reinforcement_learning_and_ai_model_behavior | reinforcement learning]] to train a 72 billion parameter model, showcasing massive improvement <a class="yt-timestamp" data-t="01:02:24">[01:02:24]</a>.
+
+The potential value of these blockchain networks could reach hundreds of billions, as they could train some of the generation's best local or frontier [[ai_and_technological_advancements | AI]] models, co-owned by multiple participants <a class="yt-timestamp" data-t="01:02:52">[01:02:52]</a>.
+
+While [[decentralization_and_democratization_in_ai_development | decentralized alternatives]] offer redundancy against centralized powerhouses like OpenAI, their ability to compete head-to-head remains a question <a class="yt-timestamp" data-t="01:03:15">[01:03:15]</a>. Larger companies like Meta and DeepSeek are also pursuing open-source models, with Meta reportedly working on a two-trillion parameter model that will be open source and open weight <a class="yt-timestamp" data-t="01:04:02">[01:04:02]</a>. This allows others to distill massive knowledge bases for customized, specialized models <a class="yt-timestamp" data-t="01:04:02">[01:04:02]</a>.
+
+Ultimately, [[decentralization_and_democratization_in_ai_development | decentralized]] efforts may lead to niche, cutting-edge [[ai_and_technological_advancements | AI]] models that cater to specific needs, such as data privacy or encrypted personalized information <a class="yt-timestamp" data-t="01:04:42">[01:04:42]</a>. The success of these initiatives, like all [[ai_and_technological_advancements | AI]] endeavors, will depend on the development of compelling products and the vision of their founders in a highly competitive and well-funded industry <a class="yt-timestamp" data-t="01:05:16">[01:05:16]</a>.

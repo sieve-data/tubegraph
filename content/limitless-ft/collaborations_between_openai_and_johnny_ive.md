@@ -1,0 +1,45 @@
+---
+title: Collaborations between OpenAI and Johnny Ive
+videoId: P17_c0tgRvg
+---
+
+From: [[limitless-ft]] <br/> 
+
+OpenAI has embarked on a significant collaboration with renowned industrial designer Johnny Ive, involving a $6.5 billion deal to design the future of [[AI and technological advancements | AI hardware]] <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. This partnership aims to create devices that re-imagine interaction with [[AI and technological advancements | AI]], potentially signalling the "death of the phone" <a class="yt-timestamp" data-t="01:56:58">[01:56:58]</a> and traditional computers <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>.
+
+## Johnny Ive's Background and Return
+
+Johnny Ive is celebrated for his design work at Apple, where he led the design of the first iPod and iPhone, as well as many other iconic Apple devices <a class="yt-timestamp" data-t="00:26:00">[00:26:00]</a>. He left Apple in 2019 and remained out of the public eye for six years, pondering his next move <a class="yt-timestamp" data-t="00:34:00">[00:34:00]</a>. His company, LoveFrom, which includes former Apple design team members (the "IO team"), has been acquired by OpenAI <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>. This super team of industrial designers, who have created successful consumer devices, is now focused on OpenAI's hardware vision <a class="yt-timestamp" data-t="08:44:00">[08:44:00]</a>.
+
+## The Vision for AI Hardware
+
+The collaboration aims to create a device that represents what the iPhone would look like if it were made in a world where [[AI and technological advancements | AI]] came first <a class="yt-timestamp" data-t="00:47:00">[00:47:00]</a>. This new product is envisioned as a "third core device" alongside phones and computers <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>. The goal is to move users away from screens <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>, offering an "ambient [[AI and technological advancements | AI]]" experience <a class="yt-timestamp" data-t="03:32:00">[03:32:00]</a> <a class="yt-timestamp" data-t="11:03:00">[11:03:00]</a> that is unobtrusive, can sit in a pocket or on a desk, and is aware of its user's life <a class="yt-timestamp" data-t="02:36:00">[02:36:00]</a>.
+
+### Core Principles and Expectations
+*   **Mass Marketability**: Johnny Ive is credited with making smartphones a mass-market product with the iPhone <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>. The partnership seeks to achieve a similar accessibility for [[AI and technological advancements | AI]], bringing it into everyday life beyond current chatbot use <a class="yt-timestamp" data-t="05:05:00">[05:05:00]</a>.
+*   **Non-distracting Design**: Unlike the "distracting and extractive" nature of current phones, the new device aims to be a "passive device" that complements daily life without a screen <a class="yt-timestamp" data-t="07:11:00">[07:11:00]</a> <a class="yt-timestamp" data-t="17:45:00">[17:45:00]</a>.
+*   **Sensory Input**: Modern [[AI and technological advancements | AI]] can see, understand, and interact with the real world, unlike computers at the time of the first iPhone <a class="yt-timestamp" data-t="08:01:00">[08:01:00]</a>. This suggests an interface built around new inputs and outputs related to the physical environment <a class="yt-timestamp" data-t="08:15:00">[08:15:15]</a>.
+*   **Enhanced Human Experience**: The device is intended to be an extension of the human self, akin to a "second brain" <a class="yt-timestamp" data-t="11:59:00">[11:59:00]</a>. It could provide passive, ambient "surveillance of your life" to help improve it <a class="yt-timestamp" data-t="11:16:00">[11:16:00]</a>, recalling forgotten details or assisting in real-time situations <a class="yt-timestamp" data-t="11:25:00">[11:25:00]</a>.
+
+## Form Factor and Technology
+While OpenAI is keeping the exact form factor a secret <a class="yt-timestamp" data-t="02:18:00">[02:18:00]</a>, speculation points to a compact, wearable, or portable device. It is expected to be smaller than a phone and capable of fitting in a pocket or being worn around the neck <a class="yt-timestamp" data-t="02:04:00">[02:04:00]</a>. Concepts suggest a "puck-like" or "stone" shape, likely made of brushed aluminum, featuring a protruding camera lens for a wide field of view and side microphones for triangulating audio <a class="yt-timestamp" data-t="02:30:00">[02:30:00]</a> <a class="yt-timestamp" data-t="02:49:00">[02:49:00]</a> <a class="yt-timestamp" data-t="03:14:00">[03:14:00]</a>.
+
+It is unlikely to be glasses or AirPods due to current technological limitations, such as battery power, processor size, heat management, and the lack of readily available novel manufacturing capabilities <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a> <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>. The goal is to make a simple device that can be ramped up quickly <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>.
+
+## Business Model and Timeline
+The collaboration involves a $6.5 billion investment, with $1.5 billion paid in cash <a class="yt-timestamp" data-t="03:43:00">[03:43:00]</a>. This equates to approximately $155 million per employee for Ive's 55-person IO team <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>. OpenAI is heavily marketing the partnership, highlighting the synergy between Sam Altman ([[AI and technological advancements | AI]] creator) and Johnny Ive (hardware designer) <a class="yt-timestamp" data-t="04:09:00">[04:09:00]</a>.
+
+The device is currently in the prototype phase, with Sam Altman reportedly using it for about a month <a class="yt-timestamp" data-t="21:10:00">[21:10:00]</a>. Early production is planned for Vietnam in 2026, with a target rollout of 100 million devices by 2027 <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>. The expected price point is around $100-$200 <a class="yt-timestamp" data-t="03:17:00">[03:17:00]</a>, with a likely subscription model similar to Whoop, where the hardware is a companion to a subscription service <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>.
+
+## Implications for the Market
+
+### Competition with Apple
+This move by OpenAI and Johnny Ive puts them "toe-to-toe" with Apple, a hardware-first company <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>. [[Apples strategy in adapting to AI advancements | Apple's strategy in adapting to AI advancements]] has been criticized for being late to the game <a class="yt-timestamp" data-t="03:04:00">[03:04:00]</a> and failing to deliver on AI promises from its developer conferences <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>. Siri, Apple's voice assistant, has been noted to outsource queries, indicating a struggle with in-house [[AI and technological advancements | AI]] development <a class="yt-timestamp" data-t="03:16:00">[03:16:00]</a>. If Apple cannot integrate [[AI and technological advancements | AI]] effectively, particularly in-house, it risks becoming obsolete in the hardware space <a class="yt-timestamp" data-t="03:56:00">[03:56:00]</a>.
+
+### Comparison to Google
+Unlike Google, which maintained its moat through search and then re-emerged strong in [[AI and technological advancements | AI]] <a class="yt-timestamp" data-t="03:51:00">[03:51:00]</a>, Apple's primary moat is its devices <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>. If OpenAI's new device becomes the widely adopted standard, Apple's stronghold could be threatened <a class="yt-timestamp" data-t="04:13:00">[04:13:00]</a>. Google has already introduced an [[market_impact_of_apples_ai_search_on_google | AI mode]] in its search engine, directly competing with platforms like ChatGPT <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>.
+
+### The "Life OS" Ambition
+OpenAI's long-term vision extends beyond a single device; they aim to build an entire "suite of devices" <a class="yt-timestamp" data-t="04:14:00">[04:14:00]</a> and become the "life OS," enhancing users' lives from morning to night <a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>. This ecosystem approach, potentially involving mobile devices and wall-mounted displays, could create a comprehensive [[AI and technological advancements | AI]]-driven environment <a class="yt-timestamp" data-t="04:32:00">[04:32:00]</a>. While this could offer benefits like reduced phone addiction <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>, concerns about [[AI models and ethical concerns | corporate control]] and increased "brain rot" are also present <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a> <a class="yt-timestamp" data-t="04:46:00">[04:46:00]</a>.
+
+The development of this [[AI and technological advancements | AI]] hardware marks a significant step towards a future where [[AI and technological advancements | AI]] is an ever-present, integrated part of daily life, serving as a second brain and potentially transforming human-technology interaction <a class="yt-timestamp" data-t="11:59:00">[11:59:00]</a>.

@@ -1,0 +1,28 @@
+---
+title: Apples strategy in adapting to AI advancements
+videoId: P17_c0tgRvg
+---
+
+From: [[limitless-ft]] <br/> 
+
+Apple, a company renowned for its hardware design and groundbreaking products like the iPhone and iPod, is currently navigating the evolving landscape of [[ai_and_technological_advancements | AI and technological advancements]]. The company's strategy in adapting to these changes, particularly in the realm of [[the_future_of_ai_hardware_and_its_potential_impact | AI hardware]], has come under scrutiny.
+
+## Historical Strengths: Design and Hardware Monopoly
+
+Apple's design prowess is deeply rooted in figures like Johnny Ive, who is credited with designing the first iPod and iPhones, pioneering the design for most of Apple's iconic devices <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. Ive is seen as the "grandfather of design" for Apple's products <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a> and is credited with transitioning smartphones from a niche to the dominant phone category <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. For over 15 years, the iPhone with iOS has set the standard, with other companies like Android and Windows largely copying its innovations <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>.
+
+Furthermore, Apple holds a significant advantage in chip manufacturing. It has a virtual monopoly on the newest TSMC chips, which are crucial for reducing chip size. Apple funds TSMC, allowing them to access the latest chip technology, while competitors vie for previous year's chips <a class="yt-timestamp" data-t="00:26:08">[00:26:08]</a>. This gives Apple a strong position in developing novel battery technology and efficient processors that can power advanced devices without overheating <a class="yt-timestamp" data-t="00:26:44">[00:26:44]</a>.
+
+## Current Challenges: Late to AI and Execution Issues
+
+Despite its historical strengths, Apple is perceived as being "late to the game on AI" <a class="yt-timestamp" data-t="00:36:04">[00:36:04]</a>. The company appears to have been relying on [[ai_and_technological_advancements | AI]] integration primarily through mobile phones <a class="yt-timestamp" data-t="00:36:14">[00:36:14]</a>. However, with [[Microsofts influence and partnerships in the AI space | OpenAI]] making aggressive moves into [[the_future_of_ai_hardware_and_its_potential_impact | AI hardware]], Apple is now facing direct competition from a company "coming for the throat" <a class="yt-timestamp" data-t="00:36:19">[00:36:19]</a>.
+
+Critically, Apple is noted for a "leadership problem" and issues with execution <a class="yt-timestamp" data-t="00:36:26">[00:36:26]</a>. At its developer conference (WWDC) in June, Apple made "amazing promises" regarding [[ai_and_technological_advancements | AI]] but "didn't deliver a single one," leading to a "noticeably worse" software stack <a class="yt-timestamp" data-t="00:36:49">[00:36:49]</a>. Siri, Apple's voice assistant, has been criticized for needing to outsource basic queries to other services <a class="yt-timestamp" data-t="00:37:16">[00:37:16]</a>. A recent iOS 18.5 update primarily featured a new wallpaper and bug fixes, reflecting a perceived "non-urgent" and "non-able to execute" culture at Apple regarding [[ai_and_technological_advancements | AI]] <a class="yt-timestamp" data-t="00:37:44">[00:37:44]</a>.
+
+The challenge for Apple is that if it cannot quickly develop its own in-house [[ai_and_technological_advancements | AI]] capabilities, particularly leveraging its private data stack from user devices, it risks being "crushed" <a class="yt-timestamp" data-t="00:38:13">[00:38:13]</a>. Unlike Google, which had its search and information moat to fall back on during the rise of mobile phones, Apple's moat is currently its devices <a class="yt-timestamp" data-t="00:40:04">[00:40:04]</a>. If [[Microsofts influence and partnerships in the AI space | OpenAI]] succeeds with a new, widely adopted [[the_future_of_ai_hardware_and_its_potential_impact | AI hardware]] device, Apple could lose this core advantage <a class="yt-timestamp" data-t="00:40:13">[00:40:13]</a>.
+
+## The Path Forward: AI Integration and Future Devices
+
+Apple needs to "get right" the transition into the world of [[ai_and_technological_advancements | AI]] <a class="yt-timestamp" data-t="00:38:36">[00:38:36]</a>. If they fail to integrate [[ai_and_technological_advancements | AI]] effectively, they may continue to sell phones until they become obsolete <a class="yt-timestamp" data-t="00:39:01">[00:39:01]</a>. There is an expectation that Apple will eventually move towards [[ai_and_technological_advancements | AI]] glasses as the next mobile device, but they are "running out of time" to become proficient in this area <a class="yt-timestamp" data-t="00:39:09">[00:39:09]</a>. The company also needs to significantly increase its hiring of neural engineers to build out its [[ai_and_technological_advancements | AI]] capabilities <a class="yt-timestamp" data-t="00:39:17">[00:39:17]</a>.
+
+Currently, Apple's strategy in [[ai_and_technological_advancements | AI]] seems to be lagging behind competitors like Google and [[Microsofts influence and partnerships in the AI space | OpenAI]]. The market is waiting to see if Apple can leverage its hardware expertise and user base to innovate in the [[ai_and_technological_advancements | AI]] space or risk falling further behind.
