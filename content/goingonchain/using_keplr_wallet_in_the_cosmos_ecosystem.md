@@ -1,0 +1,19 @@
+---
+title: Using Keplr Wallet in the Cosmos ecosystem
+videoId: hANYDN2LcX0
+---
+
+From: [[goingonchain]] <br/> 
+
+The Keplr wallet is a crucial tool within the [[types_of_crypto_wallets | Cosmos ecosystem]] <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. It is specifically required when performing certain cross-chain operations, such as bridging UST to Avalanche (AVAX) via the Satellite software <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>, <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+
+## How to Bridge UST to Avalanche using Keplr Wallet
+
+When using Satellite for bridging UST from the Terra chain to Avalanche, after selecting Terra as the source chain and UST as the source asset, and inputting the AVAX destination address, the process involves several steps:
+
+1.  **Initial Connection and Deposit Trigger**: After specifying the amount and confirming details like the 0.1% transfer fee and $15 UST minimum transfer <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>, <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>, <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>, clicking "connect wallet and transfer" will trigger a signature request on your Metamask wallet <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>, <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. Signing this generates a one-time [[use_of_deposit_and_withdrawal_wallets | deposit]] for the recipient <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>, <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
+2.  **Transferring UST to Keplr**: To complete the transfer using Satellite, UST must first be moved from your [[using_terra_wallet_for_staking_operations | Terra Wallet]] Station to your Keplr wallet <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>, <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>, <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
+3.  **Approving Transaction with Keplr**: Once the desired amount is set for transfer within Satellite, your Keplr wallet will be triggered, requiring you to approve the transaction <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>, <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>, <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. This step typically incurs a small fee, such as 0.004 LUNA <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>, <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>, <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
+4.  **Transaction Completion**: After approval, the transaction usually takes between three to five minutes to complete <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>, <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>, <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. Upon completion, the UST will appear in your Metamask wallet on the Avalanche network <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>, <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+
+Successfully bridging UST to Avalanche enables participation in farming opportunities, such as the UST-AVAX pool offering up to 56% yield, or a stablecoin pool yielding around 17% <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>, <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>, <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>, <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. These pools are accessible on platforms like Pangolin <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>, <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>, <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>. This specific process is detailed in [[how_to_bridge_ust_to_avalanche_using_keplr_wallet | How to bridge UST to Avalanche using Keplr Wallet]].
