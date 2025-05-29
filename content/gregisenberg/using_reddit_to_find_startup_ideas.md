@@ -5,63 +5,61 @@ videoId: 8vXoI7lUroQ
 
 From: [[gregisenberg]] <br/> 
 
-Reddit is presented as a valuable resource for finding [[creating_validated_and_resonant_startup_ideas | validated startup ideas]] and building multi-million dollar businesses due to the abundance of existing, community-driven problems and solutions <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. The core process involves discovering validated needs and building products that resonate with an audience <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. The methodology also extends to generating content ideas that people will love, which is crucial for attracting an audience and building a community <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+Reddit is presented as a valuable resource for discovering and validating startup ideas, as it contains many "validated ideas" that can lead to multi-million dollar businesses <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. The platform allows users to find ideas with a good chance of resonating with people if built <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. The process outlined also helps in generating content ideas that audiences will love <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
 
-## Four-Step Process to Find Startup Ideas
+## The Four-Step Process to Find Startup Ideas
 
-The speaker outlines a four-step process for discovering new, validated startup ideas on Reddit <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
+The speaker shares a four-step process to find new and validated [[emerging_trends_in_startup_ideas | startup ideas]] using Reddit <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
 
-### Step 1: Find Trending Subreddits <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>
+### Step 1: Finding Trending Subreddits
 
-This step uses a tool called Gummy Search (free to sign up, paid plan available) <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+The first step involves using a tool called Gummy Search, which offers both free and paid plans <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+Within Gummy Search, navigate to the "trending" section <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. This section allows users to sort subreddits by size (largest, active, growing) <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
+The key is to observe how fast a subreddit is growing daily, weekly, monthly, and yearly <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
 
--   **Access the Trending Section:** Navigate to the "trending" section within Gummy Search <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
--   **Analyze Growth Metrics:** Observe the top subreddits sorted by size, activity, and growth (daily, weekly, monthly, yearly) <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
--   **Focus on Mid-Sized Communities:** Instead of massive subreddits, target those with **10,000 to 100,000 members** <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. These are often newer, trending communities, answering the "why now" question for building a product <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
--   **Identify Unfair Advantage:** As you scroll through subreddits, consider if you have an "unfair advantage" or personal connection to a particular topic (e.g., "autistic with ADHD" subreddit) <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
--   **Take Notes:** Jot down interesting subreddits and potential areas of interest <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
--   **Adjust Timeframes:** Experiment with daily, weekly, and monthly growth filters to uncover different trending topics <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
--   **Check Curated Sections:** Gummy Search also offers curated sections (e.g., subreddits for software engineers), which can be useful <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
+Instead of focusing on massive subreddits, it's recommended to look at subreddits with 10,000 to 100,000 members <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. These communities are generally newer and trending, answering the "why now" question for building something <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+As you scroll through these subreddits, consider if they are interesting or if you have an unfair advantage in that niche (e.g., personal experience or connections) <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. Take notes on potential interests <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
+The time frame for growth can also be adjusted (daily, weekly, monthly) to find different trending responses <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. Gummy Search also provides curated sections for specific professions or interests, such as software engineers <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. The goal is to see what's growing and why, as these are the opportunities <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
 
-### Step 2: Find Problems and Solutions <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>
+### Step 2: Identifying Problems and Solutions
 
-Once an interesting subreddit is selected, the goal is to identify problems and potential solutions within that community to inform a startup idea <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
+Once an interesting subreddit is selected, the next step is to find problems and potential solutions within that community <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. This helps in developing a [[framework_for_assessing_and_launching_a_startup_idea | startup idea]] for which people will pay money <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>. Gummy Search facilitates this by organizing content <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
 
--   **Create an Audience:** In Gummy Search, add the chosen subreddit (and similar ones) to an "audience" (e.g., "people into dog food") <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
--   **Explore "Pain and Anger":** This section organizes discussions around common frustrations and difficulties members face <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. Gummy Search uses AI to summarize common patterns from thousands of words, revealing recurring problems (e.g., potty training challenges, loss of appetite in dogs) <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>.
-    > [!tip] Brainstorming Startup Ideas
-    > Reading through these pain points naturally sparks [[brainstorming_startup_ideas | startup ideas]] <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>. Document potential solutions or content opportunities (e.g., "stubborn dogs.com" for reluctant dogs) <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>.
-    >
-    > Even if existing businesses address a problem, there might be opportunities due to poor marketing, lack of social presence, or potential for creator partnerships <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>. Simple MVPs can lead to small businesses and cash flow <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
--   **Review "Advice Requests":** This category highlights what products or solutions people are actively seeking, indicating strong demand <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>. These are users "screaming" for products to exist <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>.
-    -   Example: People asking for dog breed recommendations could inspire a survey-based website that suggests breeds based on user preferences <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>.
-    -   Example: Requests for dog food recommendations for senior dogs with dental issues could lead to a focus on softer dog food <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>.
--   **Analyze "Solution Requests":** This section shows how people are currently dealing with their problems and which products they are using, providing insights into the competitive landscape <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>.
--   **Document Findings:** Maintain a "one-pager" Google Doc to record all insights, problems, solutions, and competitive information <a class="yt-timestamp" data-t="00:13:20">[00:13:20]</a>.
+1.  **Create an Audience:** Add the chosen subreddit (and similar ones) to an "audience" within Gummy Search (e.g., "people into dog food") <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>.
+2.  **Explore "Pain and Anger":** Click on the "pain and anger" category to identify common patterns of issues <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>. Gummy Search uses [[ai_applications_for_startup_ideas | AI]] to summarize submissions and find common patterns <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. Examples include:
+    *   Potty training challenges with new or rehomed dogs <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>.
+    *   Dogs reluctant to walk outside <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>.
+    *   Loss of a dog or a best friend <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
+    *   Eating habits issues, such as loss of appetite <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>.
+    Reading these patterns can spark [[brainstorming_startup_ideas_for_1m_businesses | startup ideas]], such as content focused on specific dog behaviors or developing softer dog food for senior dogs <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>.
+    It's important to research the competitive landscape, but often existing solutions have poor marketing or lack a strong social media presence, creating opportunities for new businesses <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. Simple Minimum Viable Products (MVPs) can be created to start a small business that generates cash flow <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+3.  **Analyze "Advice Requests":** This category reveals what products people are asking for or what advice they need <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. People are "screaming" for products to exist <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>. Examples include:
+    *   Dog breeding recommendations <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>.
+    *   Dog food recommendations <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>.
+    *   Mental stimulation for dogs <a class="yt-timestamp" data-t="00:12:19">[00:12:19]</a>.
+    These requests can inspire ideas like a website that recommends dog breeds based on user preferences or a softer dog food for older dogs <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>.
+4.  **Review "Solution Requests":** This section provides insight into the competitive landscape, showing products people are already using and how they are dealing with their problems <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>. This helps understand the "lay of the land" <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>.
 
-### Step 3: Find Niche Creators/Influencers <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>
+After gathering this information, compile it into a "one-pager" document for the business idea <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>.
 
-Understanding the creators in a niche helps in understanding the audience's deeper needs and potential marketing avenues.
+### Step 3: Researching Creators in the Niche
 
--   **Use an AI Tool:** Employ a tool like Perplexity.ai (free) to find popular educational influencers in the chosen niche (e.g., "25 most popular dog educational YouTubers") <a class="yt-timestamp" data-t="00:13:38">[00:13:38]</a>. Store this list in a Google Sheet <a class="yt-timestamp" data-t="00:14:07">[00:14:07]</a>.
--   **Analyze Content and Comments:** Visit the YouTube channels of these creators and sort their videos by "most popular" <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>. Read the top comments on these videos to gain insights into what the audience is thinking, what they want, and their specific challenges beyond the video's direct topic <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>.
--   **Refine Your "One-Pager":** Continuously update your one-pager document with learnings from these creator insights <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>.
+Use [[ai_tools_for_startup_ideas | AI tools]] like Perplexity.ai (free to sign up) to find influential creators in the chosen niche <a class="yt-timestamp" data-t="00:13:38">[00:13:38]</a>. Prompt questions like "give me the 25 most popular dog influencers on YouTube" <a class="yt-timestamp" data-t="00:13:48">[00:13:48]</a>.
+List these creators, ideally in a Google Sheet <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>. The purpose of this step is to understand what audiences are engaging with.
+Visit the popular videos of these creators and read the comments <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>. The top comments, even humorous ones, can reveal what people want and what they are thinking about <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>. This process of reviewing 20-25 videos helps gather insights for the business idea <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>.
 
-### Step 4: Wireframe the Website/MVP <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a>
+### Step 4: Wireframing and Naming
 
-This step involves translating the gathered insights into a tangible representation of the business idea.
+Once problems and solutions are identified, wireframe the website or product <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a>. For example, insights from Reddit about entrepreneurs being frustrated with designers led to wireframing a design agency that prioritizes conversion and marketing over just aesthetics <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>. This was done quickly using a tool like Framer <a class="yt-timestamp" data-t="00:17:16">[00:17:16]</a>.
 
--   **Develop a Wireframe:** Based on the identified problems and solutions, create a wireframe for your product or service <a class="yt-timestamp" data-t="00:16:22">[00:16:22]</a>.
-    -   *Example:* For a niche of startup entrepreneurs frustrated with designers who prioritize art over conversion, the speaker wireframed a design agency focused on copy, conversion, and cash generation (e.g., "Design Science") <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>.
--   **Rapid Prototyping:** Tools like Framer can be used to quickly wireframe and launch a basic website in a few hours <a class="yt-timestamp" data-t="00:17:16">[00:17:16]</a>.
--   **Choose a Catchy, Resonant Name:** The name should not only be catchy but also resonate with the target audience and potentially reflect the subreddit or key insights <a class="yt-timestamp" data-t="00:17:52">[00:17:52]</a>. The "Design Science" example came from insights that people wanted designers to be "more like a scientist, less art, more science" <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>.
+Coming up with a catchy and validated name is also crucial <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>. Sometimes, a company can even be named after the subreddit itself <a class="yt-timestamp" data-t="00:17:42">[00:17:42]</a>. The name should resonate with the audience <a class="yt-timestamp" data-t="00:17:54">[00:17:54]</a>. For instance, the insight that people wished designers were "more like a scientist, less art, more science" led to the name "designscience.com" <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>.
 
 ## Creating Content People Will Love
 
-The same approach used for finding startup ideas can be applied to generating content ideas <a class="yt-timestamp" data-t="00:18:15">[00:18:15]</a>.
+The same methodology used for finding [[ai_startup_ideas | startup ideas]] can be applied to generate content ideas <a class="yt-timestamp" data-t="00:19:06">[00:19:06]</a>.
+Using Gummy Search, go to the "top content" section for the chosen audience <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a>. This reveals the best-performing content, common patterns, and effective formats (e.g., long stories, memes) <a class="yt-timestamp" data-t="00:18:37">[00:18:37]</a>. For example, within the dog community, stories like "loss of beloved pet" or "today I saved a dog's life" perform well <a class="yt-timestamp" data-t="00:18:55">[00:18:55]</a>.
+You can also ask Gummy Search specific questions about the audience, such as whether they love memes <a class="yt-timestamp" data-t="00:19:20">[00:19:20]</a>. These [[ai_tools_for_startup_ideas | AI tools]] act as an "entrepreneurial assistant" or "co-founder" that help connect dots and provide insights without a salary or equity <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a>.
 
--   **Analyze "Top Content" on Gummy Search:** Reviewing the best-performing content within a chosen audience on Gummy Search reveals common patterns and successful formats (e.g., long stories, memes) <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a>.
--   **Understand Community Preferences:** This helps understand what kind of content the community cares about <a class="yt-timestamp" data-t="00:18:50">[00:18:50]</a>.
--   **Ask Questions to Gummy Search:** Use Gummy Search as an "entrepreneurial assistant" or co-founder to ask specific questions about content preferences (e.g., "do they love memes?") and connect dots within your brain <a class="yt-timestamp" data-t="00:19:12">[00:19:12]</a>.
+## Conclusion
 
-This methodology of observing and writing down ideas from various communities (Reddit, YouTube, TikTok) has proven effective, leading to multi-million dollar businesses like DesignScientist.com <a class="yt-timestamp" data-t="00:20:16">[00:20:16]</a>.
+Using Reddit, YouTube, and TikTok allows entrepreneurs to "teleport to different communities" and observe, write, and develop ideas that will resonate with them <a class="yt-timestamp" data-t="00:20:16">[00:20:16]</a>. This methodology has been proven to build multi-figure businesses <a class="yt-timestamp" data-t="00:20:34">[00:20:34]</a>.
