@@ -1,0 +1,70 @@
+---
+title: Bottoms up growth model in SaaS
+videoId: UmirRfy-gzA
+---
+
+From: [[lennyspodcast]] <br/> 
+
+The bottoms-up growth model is a strategy that focuses on individual contributors (ICs) within a company loving a product, then enabling them to spread that product throughout their organization, eventually leading to revenue growth <a class="yt-timestamp" data-t="01:04:46">[01:04:46]</a>. This approach is distinct from traditional "tops-down" [[b2b_growth_trends_and_strategies | SaaS business growth dynamics]], where companies go directly to a VP or executive buyer <a class="yt-timestamp" data-t="01:05:05">[01:05:05]</a>. Figma's [[saas_business_growth_dynamics | unique bottoms-up growth motion]] prioritized individual practitioners, such as designers, who use the tool extensively <a class="yt-timestamp" data-t="01:14:12">[01:14:12]</a>.
+
+## Core Strategy: Get Individual Contributors (ICs) to Love the Product
+
+The initial phase of a bottoms-up model, particularly in the early days, focuses on building a strong, authentic relationship with individual users <a class="yt-timestamp" data-t="01:31:02">[01:31:02]</a>. This means getting them to *love* the product, not just use it <a class="yt-timestamp" data-t="01:41:13">[01:41:13]</a>.
+
+### Building Credibility
+In the early stages, establishing credibility, especially with a technical audience like designers, is crucial <a class="yt-timestamp" data-t="01:31:06">[01:31:06]</a>. Figma's approach involved:
+*   **Avoiding Traditional Marketing:** Designers and technical users often dislike traditional marketing language (e.g., "efficiency," "collaboration") <a class="yt-timestamp" data-t="01:32:20">[01:32:20]</a>. Instead, focus on technical features, how they work, and real-world application <a class="yt-timestamp" data-t="01:32:41">[01:32:41]</a>.
+*   **Producing Technical Content:** Figma had its engineers and designers create in-depth articles about the technical feats of the product (e.g., using WebGL) and the detailed craft decisions behind features (e.g., grids, vector networks) <a class="yt-timestamp" data-t="01:33:36">[01:33:36]</a>. This content was often so technical that even marketers had to research terms to understand it <a class="yt-timestamp" data-t="01:34:36">[01:34:36]</a>. This drove engagement and interest on platforms like Hacker News <a class="yt-timestamp" data-t="01:33:36">[01:33:36]</a>.
+*   **Hiring Designer Advocates:** After launch, the first marketing hire at Figma was a designer advocate – a passionate designer from their user base. This person's full-time job was to meet with users, gather feedback, create content, and represent the user voice internally <a class="yt-timestamp" data-t="01:34:55">[01:34:55]</a>. This role scaled as the company grew, including roles like developer advocates and FigJam advocates, and regionally <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>.
+
+### Building with Users
+Deep customer obsession is vital in this model <a class="yt-timestamp" data-t="01:37:40">[01:37:40]</a>. In the early days, this meant doing "things that don't scale":
+*   **Direct Support and Debugging:** For Figma's first user, Kota, a file issue for an engineer named Philip nearly prevented adoption. The team drove to Palo Alto to fix Philip's MacBook to ensure they could use the product <a class="yt-timestamp" data-t="00:38:10">[00:38:10]</a>.
+*   **Everyone on Intercom:** In early days, all team members, including engineers and founders, were on Intercom to directly chat with users, debug issues live, and fix bugs immediately <a class="yt-timestamp" data-t="01:39:29">[01:39:29]</a>. This built strong user relationships and made users feel invested in the product's journey <a class="yt-timestamp" data-t="01:40:47">[01:40:47]</a>.
+*   **Little Big Updates:** At scale, Figma implemented "quality weeks" where engineers would address small, annoying bugs and feature requests from users (often found on Twitter or via support teams) <a class="yt-timestamp" data-t="01:52:51">[01:52:51]</a>. These "Little Big Updates" are launched annually and are among Figma's most popular releases because they directly improve users' daily quality of life <a class="yt-timestamp" data-t="01:53:11">[01:53:11]</a>.
+
+### Finding the Right Channel
+Instead of making users come to the company's channels, the company should go where the users already are <a class="yt-timestamp" data-t="01:44:50">[01:44:50]</a>. For Figma, Twitter was identified as the primary hub for the design community, where designers shared best practices, resources, and learned about new tools <a class="yt-timestamp" data-t="01:45:18">[01:45:18]</a>.
+*   **Influencer Mapping:** Figma's CEO, Dylan Field, built a scraper to identify key influencers in the design community on Twitter <a class="yt-timestamp" data-t="01:46:05">[01:46:05]</a>. He then used this to create a "node graph" mapping follower connections and influence within different design topics (e.g., iconography, product design) <a class="yt-timestamp" data-t="01:46:19">[01:46:19]</a>.
+*   **Direct Engagement:** This allowed Figma to identify influential people to solicit early feedback from and to push out technical content directly into users' feeds <a class="yt-timestamp" data-t="01:46:48">[01:46:48]</a>. Founders and engineers actively engaged with users, responding to questions and building personal connections beyond the brand handle <a class="yt-timestamp" data-t="01:47:31">[01:47:31]</a>. This passive engagement allowed users to follow Figma's progress over time without immediately committing to the tool <a class="yt-timestamp" data-t="01:48:03">[01:48:03]</a>.
+
+### Transparency and Authenticity
+Being transparent and honest with users, especially at scale, is crucial for building trust <a class="yt-timestamp" data-t="01:49:09">[01:49:09]</a>.
+*   **Public Postmortems:** When experiencing downtime or issues, Figma performs public postmortems, taking full accountability, explaining technical reasons for problems, and outlining how they were fixed <a class="yt-timestamp" data-t="01:54:49">[01:54:49]</a>.
+*   **Direct Communication During Crises:** During the Adobe acquisition announcement, the team faced user backlash. They immediately held an open Twitter Space with leadership (Dylan, Sho, Tom Lowry) to answer any user questions directly, reinforcing their commitment to users and transparency <a class="yt-timestamp" data-t="01:55:49">[01:55:49]</a>.
+
+## Core Strategy: Enable Spreading within Organizations
+
+Once individual users love the product, the next step is to facilitate its organic spread throughout their organizations <a class="yt-timestamp" data-t="01:30:14">[01:30:14]</a>.
+
+### Making it Easy to Try and Share
+Reduce friction for adoption and sharing:
+*   **Robust Free Tier:** Figma offers a very robust free tier, allowing users to sign up easily and use the tool for a long time <a class="yt-timestamp" data-t="01:01:50">[01:01:50]</a>. This helps users build confidence before committing to payment <a class="yt-timestamp" data-t="01:01:57">[01:01:57]</a>.
+*   **Flexible Collaboration Limits:** Initially, Figma's free "starter team" allowed unlimited files but limited collaborators. Realizing this hindered spread, they changed it to allow unlimited collaborators but limit files (e.g., three files). This was a monumental decision that made it much easier for people to share and use Figma with their teams for free before needing to pay <a class="yt-timestamp" data-t="01:02:20">[01:02:20]</a>.
+*   **Free Viewers/Commenters:** Figma's [[pricing_models_and_strategies_for_saas_companies | pricing models and strategies for SaaS companies]] allow unlimited viewers and commenters for free, only charging for editors <a class="yt-timestamp" data-t="01:05:52">[01:05:52]</a>. This enables wider adoption within an organization, as product managers and other stakeholders can easily engage with designs, increasing the tool's utility and spread <a class="yt-timestamp" data-t="01:06:00">[01:06:00]</a>.
+
+### Role of Designer Advocates in Sales
+Designer Advocates are a "magic dust" that helps maintain authenticity and builds relationships at scale <a class="yt-timestamp" data-t="01:51:31">[01:51:31]</a>.
+*   **Technical Experts, Not Salespeople:** When Figma eventually hired its first salesperson, it also hired another designer advocate, Tom Lowry, who had previously championed Figma adoption at his own company <a class="yt-timestamp" data-t="01:07:56">[01:07:56]</a>. These advocates do not have quotas and don't report to sales; they are technical experts with a deep understanding of the tool and passion for the product <a class="yt-timestamp" data-t="01:08:51">[01:08:51]</a>.
+*   **The "Tom Factor":** Designer Advocates would join sales calls to explain the product to other designers, address their problems, and share best practices <a class="yt-timestamp" data-t="01:09:02">[01:09:02]</a>. Their credibility, compared to a traditional salesperson, was so powerful that deals were "much more likely to close" if they joined, leading to the internal term "the Tom Factor" <a class="yt-timestamp" data-t="01:09:40">[01:09:40]</a>. This role scales, serving as a vital link between marketing, product, and sales <a class="yt-timestamp" data-t="01:10:36">[01:10:36]</a>.
+
+### Leveraging Design Systems
+Identify and focus on the operational aspects that act as significant blockers or accelerators for adoption <a class="yt-timestamp" data-t="01:01:00">[01:01:00]</a>. For Figma, this was Design Systems.
+*   **Turning Blockers into Advantages:** Initially, the lack of robust Design Systems support in Figma was a major blocker for large companies <a class="yt-timestamp" data-t="01:12:25">[01:12:25]</a>. Figma addressed this by organizing informal meetups with Design Systems practitioners to learn from them and then built out features to support advanced Design Systems <a class="yt-timestamp" data-t="01:13:10">[01:13:10]</a>.
+*   **Content and Events:** They created dedicated resources like designsystems.com and launched a conference called Schema, focusing on advanced Design Systems practices <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>. Design Systems became a key upgrade feature from Pro to Org/Enterprise tiers, driving large-scale adoption <a class="yt-timestamp" data-t="01:14:13">[01:14:13]</a>.
+
+### Maintaining Relationships with Champions
+The relationship with internal champions must be maintained indefinitely, as they are crucial for continued spread and advocacy <a class="yt-timestamp" data-t="01:16:22">[01:16:22]</a>.
+*   **Support and Amplification:** Companies must continue to listen to and support these champions, even when they express dissatisfaction <a class="yt-timestamp" data-t="01:16:30">[01:16:30]</a>. Figma also helps these champions grow their own careers and profiles by offering platforms to speak at events, amplifying them on social media, and promoting them as thought leaders <a class="yt-timestamp" data-t="01:16:51">[01:16:51]</a>. This creates a flywheel effect, as more respected designers advocate for Figma <a class="yt-timestamp" data-t="01:17:41">[01:17:41]</a>.
+
+## Scaling the Model
+As a company grows, it's crucial to protect and continue these bottoms-up activities, even when layering on more traditional top-down [[b2b_growth_trends_and_strategies | B2B growth trends and strategies]] <a class="yt-timestamp" data-t="01:18:03">[01:18:03]</a>.
+*   **Conferences:** Figma's annual Config conference is a prime example of scaling this model, bringing together the community to share highly technical and deep content, largely sourced from user proposals <a class="yt-timestamp" data-t="00:58:14">[00:58:14]</a>. The conference also emphasizes fun and helps speakers grow their own profiles <a class="yt-timestamp" data-t="01:00:11">[01:00:11]</a>.
+*   **Scaling Advocate Teams:** The designer advocate team scales across regions and products, ensuring that authentic, technical expertise is available to users globally and for new product lines like FigJam and Dev Mode <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>.
+
+## Prerequisites for Applying this Model
+This [[developing_a_growth_model | growth model]] is particularly well-suited for products that meet certain criteria:
+*   **Technical Audience / Craft-focused Users:** The product greatly benefits from having a technical audience that deeply cares about the craft and gets significant value from the tool independently <a class="yt-timestamp" data-t="01:19:51">[01:19:51]</a>. These users are often highly passionate about their tools, especially if they use them for many hours a day <a class="yt-timestamp" data-t="01:20:41">[01:20:41]</a>.
+*   **Existing Community:** It is highly beneficial if there's an existing community around the target audience (e.g., designers on Twitter), providing a ready-made distribution channel <a class="yt-timestamp" data-t="01:20:56">[01:20:56]</a>.
+*   **Collaborative User Role:** The core IC audience should have many connection points within their organization, making it natural for them to collaborate and spread the product organically (e.g., designers working with product managers, engineers, and other stakeholders) <a class="yt-timestamp" data-t="01:21:26">[01:21:26]</a>.
+*   **Leadership Buy-in and Intuition:** Crucially, leadership must believe in this model, even when metrics are difficult to immediately quantify, and trust their intuition over small data points <a class="yt-timestamp" data-t="01:23:25">[01:23:25]</a>. This enables the team to maintain a focus on signal (e.g., user excitement, pull) over optimizing small conversions <a class="yt-timestamp" data-t="01:23:56">[01:23:56]</a>. This is a common [[challenges_and_strategies_in_startup_growth | challenge in startup growth]] but is essential for this approach.

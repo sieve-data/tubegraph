@@ -1,0 +1,34 @@
+---
+title: Future implications of personalized AI
+videoId: scsW6_2SPC4
+---
+
+From: [[lennyspodcast]] <br/> 
+
+The [[future expectations and development trends in AI | AI models]] available today are considered the "worst AI model you will ever use for the rest of your life," implying constant and rapid improvement <a class="yt-timestamp" data-t="01:17:02">[01:17:02]</a>. This rapid [[future expectations and development trends in AI | evolution of AI]] capabilities means that [[impact of AI on skills and products | AI products]] must be built with an understanding that the underlying technology is continuously changing <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>. This adaptability is key to the [[future implications of ai for product management | future implications of AI for product management]] and how users interact with [[user experiences with ai and evolving ai capabilities | evolving AI capabilities]].
+
+## The Importance of Fine-Tuned Models
+AI models, while incredibly intelligent and factually aware, are primarily trained on public data <a class="yt-timestamp" data-t="00:23:29">[00:23:29]</a>. A significant portion of the world's data and knowledge resides behind company or government walls <a class="yt-timestamp" data-t="00:23:29">[00:23:29]</a>. To leverage AI effectively in specific contexts, models need to be taught this non-public, domain-specific information <a class="yt-timestamp" data-t="00:23:46">[00:23:46]</a>.
+
+This leads to the concept of fine-tuned models, which are base models customized for particular use cases <a class="yt-timestamp" data-t="00:24:07">[00:24:07]</a>. By providing a model with many examples of problems and their desired answers, it can be taught to perform much better at a specific task than its general-purpose version <a class="yt-timestamp" data-t="00:59:31">[00:59:31]</a>.
+
+## Personalization Through Adaptation
+This personalization extends beyond mere fine-tuning to how AI systems are designed to interact and adapt:
+
+### User Experiences and Interactions
+*   **Dynamic Response Generation**: Unlike traditional software with defined inputs and outputs, [[user experiences with ai and evolving ai capabilities | large language models (LLMs)]] handle "fuzzy, subtle inputs" like human language and do not always give the exact same answer <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>. This necessitates a flexible approach to product design.
+*   **Adaptive UI**: For tasks requiring models to "think" for several seconds, the user interface must be designed to reflect this. Instead of a static loading bar, the model can provide "little updates" or subheadings of its thought process, mimicking human behavior <a class="yt-timestamp" data-t="00:38:39">[00:38:39]</a>. This means a shift from rigid interfaces to more natural, conversational interactions <a class="yt-timestamp" data-t="00:41:11">[00:41:11]</a>.
+*   **Prompt Engineering**: While the goal is to make prompt engineering less necessary, current methods for personalizing model output include providing examples within the prompt itself, effectively performing a "poor man's fine-tuning" <a class="yt-timestamp" data-t="01:27:56">[01:27:56]</a>. Users can also assign a "mindset" to the model (e.g., "You are the world's greatest marketer"), which can shift its approach and improve the quality of answers <a class="yt-timestamp" data-t="01:28:47">[01:28:47]</a>.
+
+### Impact on Organizations and Workflows
+*   **Team Structure**: The future of [[impact_and_challenges_of_ai_in_product_management | product management]] and development will likely involve integrating "quasi-researcher machine learning engineer types" into every product team <a class="yt-timestamp" data-t="00:58:39">[00:58:39]</a>. This is because fine-tuning models will become a core workflow for building most products, requiring specialized knowledge to customize AI for specific purposes <a class="yt-timestamp" data-t="00:58:46">[00:58:46]</a>.
+*   **Iterative Deployment**: Companies will continue to move fast, launch early and often, and iterate in public <a class="yt-timestamp" data-t="03:17:09">[03:17:09]</a>. This "iterative deployment" philosophy means learning about model capabilities and user needs together with society <a class="yt-timestamp" data-t="03:08:42">[03:08:42]</a>.
+*   **Ensembles of Models**: Internal systems often use ensembles of models, meaning different specialized fine-tuned models are used for specific parts of a problem, then combined to solve a broader task <a class="yt-timestamp" data-t="01:00:01">[01:00:01]</a>. This approach parallels how human teams solve complex problems, with different individuals contributing their specialized [[impact of AI on skills and products | skills]] <a class="yt-timestamp" data-t="01:03:08">[01:03:08]</a>.
+
+### Real-World Applications
+*   **Personalized Tutoring**: AI has the potential to offer personalized tutoring to billions of children globally <a class="yt-timestamp" data-t="01:07:05">[01:07:05]</a>. This is seen as one of the most significant potential benefits of AI, enabling "multiple standard deviation improvements in learning speed" when combined with traditional classroom education <a class="yt-timestamp" data-t="01:07:28">[01:07:28]</a>.
+*   **Customer Support**: AI can automate a significant portion of customer support, using fine-tuned models based on internal knowledge bases and guidelines to answer questions automatically <a class="yt-timestamp" data-t="01:01:52">[01:01:52]</a>. When full confidence is lacking, AI can suggest answers for human review, with human corrections then used to further fine-tune the model <a class="yt-timestamp" data-t="01:02:16">[01:02:16]</a>.
+*   **AI-Assisted Creativity**: AI can enhance creativity, as seen with tools like Image Gen and Sora. These tools allow individuals, even those with limited artistic [[impact of AI on skills and products | skills]], to generate complex outputs <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. For professionals, AI can rapidly generate numerous variations of creative work (e.g., 50 different cut scenes for a film), enabling more extensive brainstorming and refinement before final production <a class="yt-timestamp" data-t="01:13:05">[01:13:05]</a>.
+
+### Optimistic Outlook
+The rapid advancement of AI models, becoming smarter, faster, cheaper, and safer with each iteration, is driving significant change <a class="yt-timestamp" data-t="01:16:18">[01:16:18]</a>. This exponential progress suggests a future where AI is seamlessly integrated into daily life, similar to how transistors are ubiquitous today <a class="yt-timestamp" data-t="00:58:26">[00:58:26]</a>. This widespread adoption and increasing personalization of AI will lead to profound societal changes and continued innovation across all industries <a class="yt-timestamp" data-t="01:16:50">[01:16:50]</a>.

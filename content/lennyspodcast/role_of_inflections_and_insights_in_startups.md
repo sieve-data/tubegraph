@@ -1,0 +1,49 @@
+---
+title: Role of inflections and insights in startups
+videoId: h9o6gPQA6LA
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Mike Maples Jr., a veteran seed-stage investor and co-founder of Floodgate, has dedicated years to researching the origins of great [[elements_of_breakthrough_startup_ideas | startup ideas]] and what distinguishes founders who achieve breakthroughs from those who don't <a class="yt-timestamp" data-t="01:24:54">[01:24:54]</a>. His research, based on reviewing notes and decks from thousands of startups over two decades, identifies three core elements of most [[elements_of_breakthrough_startup_ideas | breakthrough startup ideas]]: inflections, insights, and founder-future fit <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a><a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>.
+
+## Inflections
+An inflection is an external event that creates the potential for radical change in how people think, feel, and act <a class="yt-timestamp" data-t="01:31:34">[01:31:34]</a>. Unlike gradual improvement curves or technological advancements like Moore's Law, an inflection is a turning point where something fundamentally new is introduced, enabling new forms of empowerment <a class="yt-timestamp" data-t="01:05:27">[01:05:27]</a><a class="yt-timestamp" data-t="01:06:05">[01:06:05]</a>.
+
+### Examples of Inflections
+*   **iPhone 4S with GPS chip**: This enabled ride-sharing services like Lyft, allowing riders and drivers to locate each other with meter accuracy for the first time <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a><a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>. Without this specific hardware, the idea for ride-sharing wouldn't have been viable <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>.
+*   **Improved smartphone cameras and increased Wi-Fi/upload speeds**: These factors converged to enable Instagram, making it possible for people to take and share high-quality photos predominantly with their smartphones <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>.
+*   **Proliferation of online customer reviews and Facebook Connect**: These elements, combined with the 2008 financial crisis, created the conditions for Airbnb to thrive. People trusted reviews over traditional hotel brands, and Facebook Connect eased concerns about staying with strangers by sharing profile information <a class="yt-timestamp" data-t="02:24:00">[02:24:00]</a>. The financial crisis also provided an economic incentive for homeowners to rent out spaces <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>.
+*   **Regulatory changes for telemedicine during COVID-19**: Laws changed to permit tele-medicine visits across state lines and allowed for reimbursement by healthcare systems. This empowered patients to access more doctors and doctors to reach more patients, fundamentally altering healthcare delivery <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a>. This demonstrates that inflections are not always technological; they can be regulatory or even shifts in collective belief <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
+*   **New forms of [[role_of_ai_in_startups_and_entrepreneurship | AI]]**: Specifically, certain large language models are considered an inflection due to their new capabilities and potential to empower people in specific ways <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+
+### Stress-Testing Inflections
+To evaluate an inflection, Mike Maples Jr. suggests asking:
+1.  What is the specific new thing that was introduced? <a class="yt-timestamp" data-t="02:36:00">[02:36:00]</a>
+2.  How does it specifically empower specific people in specific ways? <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a>
+3.  Under what conditions might that empowerment be realized, and under what conditions might it not be? <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>
+
+## Insights
+An insight is a non-obvious truth derived from founders about how one or more inflections can be harnessed to change people's behavior <a class="yt-timestamp" data-t="02:12:00">[02:12:00]</a>.
+
+### Characteristics of Insights
+*   **Non-consensus and Right**: For an insight to be truly powerful in a startup context, it needs to be non-consensus but ultimately correct <a class="yt-timestamp" data-t="02:45:00">[02:45:00]</a>. If an idea is "consensus," it's likely too similar to existing solutions and won't disrupt incumbents <a class="yt-timestamp" data-t="03:06:00">[03:06:00]</a>. The best [[elements_of_breakthrough_startup_ideas | startup ideas]] are often initially disliked or met with apathy by most, but are passionately embraced by a subset of people <a class="yt-timestamp" data-t="03:13:00">[03:13:00]</a>.
+*   **Leveraging Inflections**: Insights connect the potential of an inflection to a new way of behaving. For example, recognizing that the iPhone's GPS could enable an "Airbnb for cars" (Lyft) was an insight <a class="yt-timestamp" data-t="02:32:00">[02:32:00]</a>.
+*   **Earned Secrets**: Insights are not simply "visionary" but are "earned secrets" <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>. They come from founders getting their hands dirty, exploring cutting-edge technologies, and being awake to surprises that others overlook <a class="yt-timestamp" data-t="04:19:00">[04:19:00]</a>. Mike Maples Jr. highlights that 80% of his biggest returning investments came from pivots, where founders often discovered the "right" insight through experimentation and [[importance_of_talking_to_customers_in_startups | talking to customers]] <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a><a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>.
+
+### Examples of Insights
+*   **Lyft**: The non-obvious truth was that people would be willing to get into a stranger's car <a class="yt-timestamp" data-t="02:49:00">[02:49:00]</a>.
+*   **Airbnb**: The initial skepticism that people would want to stay in a stranger's house or that hosts would provide breakfast was a non-consensus view that ultimately proved true <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>.
+*   **OCTA**: While the initial insight was that customers would struggle with cloud services, the non-obvious truth was that identity management, not problem resolution, was their top priority <a class="yt-timestamp" data-t="04:38:00">[04:38:00]</a>.
+
+## How Inflections and Insights Work Together
+Inflections provide the underlying power, while insights are the "vessel" or "slingshot" that founders use to leverage this power and wage "asymmetric warfare" on the present <a class="yt-timestamp" data-t="00:46:00">[00:46:00]</a><a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a>. A startup doesn't win by executing better than a large company; it wins by proposing a radically different future that disorients incumbents <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>. The goal is to create conditions where the startup plays an "unfair game by unfair rules" that favor them <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a><a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>.
+
+## Finding Inflections and Insights
+*   **Live in the future**: Instead of trying to think of [[elements_of_breakthrough_startup_ideas | startup ideas]] by analyzing existing markets, founders should immerse themselves in the future and notice what's missing <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a><a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a>. This gives their intuition about what to build a much higher chance of being correct <a class="yt-timestamp" data-t="02:25:00">[02:25:00]</a>.
+*   **Seek surprises**: Design experiments and interactions to actively seek out surprises rather than just validating existing hypotheses <a class="yt-timestamp" data-t="03:49:00">[03:49:00]</a>. Discovering something unexpected means learning something new that others may not know <a class="yt-timestamp" data-t="03:55:00">[03:55:00]</a>.
+*   **Identify Lighthouse Customers**: These are customers already "living in the future" and embracing new trends <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. Solving their problems can lead to solutions that eventually appeal to a broader market <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>.
+*   **Force a choice, not a comparison**: A startup's product should be so unique that it doesn't invite comparison to existing solutions <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a><a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>. Customers should feel a desperate, irresistible pull towards the new offering, even if it's imperfect in its early stages <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a><a class="yt-timestamp" data-t="03:51:00">[03:51:00]</a>.
+
+## Background on Mike Maples Jr. and Floodgate
+Mike Maples Jr. is a legendary early-stage startup investor <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>. His firm, Floodgate, established over 20 years ago, was a pioneer in seed-stage investing <a class="yt-timestamp" data-t="01:06:00">[01:06:00]</a>. He made early investments in transformative companies such as Twitter, Lyft, Twitch, OCTA, Rappi, and Applied Intuition <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>. Maples has appeared on the Forbes Midas list eight times <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>. His book, "Pattern Breakers: Why Some Startups Change the Future," details his findings and offers insights into how to identify and pursue [[elements_of_breakthrough_startup_ideas | breakthrough startup ideas]] <a class="yt-timestamp" data-t="03:01:00">[03:01:00]</a>.

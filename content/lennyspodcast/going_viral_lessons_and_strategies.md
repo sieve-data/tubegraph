@@ -1,0 +1,103 @@
+---
+title: Going Viral Lessons and Strategies
+videoId: bhnfZhJWCWY
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Nikita Beer has made a name for himself by consistently launching apps that reach the top of the App Store, selling two of his major successes, TBH and Gas, to Facebook and Discord, respectively <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a> <a class="yt-timestamp" data-t="02:09:00">[02:09:00]</a>. His approach to [[growth_hacking_and_sustainable_growth_strategies | growth hacking and sustainable growth strategies]] and product development is rooted in extensive hands-on experience, often challenging conventional wisdom in the tech industry <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a>.
+
+## The Path to Viral Success: Early Ventures and Pivots
+
+Before his breakout hits, Nikita Beer's journey was marked by experimentation and a significant [[effective_strategies_for_pivoting | pivot]]. His first major product, Potify, was a web app designed to help American voters understand the financial impact of presidential policy proposals <a class="yt-timestamp" data-t="06:59:00">[06:59:00]</a>. This tool went "super viral," garnering about four million users during an election season <a class="yt-timestamp" data-t="07:38:00">[07:38:00]</a>. This initial success led to a spin-off company, Outline, which secured government contracts, including one with the Obama Administration <a class="yt-timestamp" data-t="08:00:00">[08:00:00]</a>.
+
+However, a government shutdown and a realization that he disliked selling software to governments prompted Beer to [[effective_strategies_for_pivoting | pivot]] his focus entirely to consumer apps, leveraging his core competency in making things go viral <a class="yt-timestamp" data-t="08:49:00">[08:49:00]</a> <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>. Over the next four to five years, his team, Midnight Labs, built approximately 15 different consumer apps—including mapping, chat, and event apps—many of which were "duds" <a class="yt-timestamp" data-t="09:30:00">[09:30:00]</a> <a class="yt-timestamp" data-t="10:04:00">[10:04:00]</a> <a class="yt-timestamp" data-t="15:08:00">[15:08:00]</a>. This period of intense experimentation helped them develop a "muscle" for understanding user desires and how to achieve growth <a class="yt-timestamp" data-t="10:37:00">[10:37:00]</a>.
+
+### Targeting Teens: A Strategic Choice
+A key insight during this period was the importance of targeting teens for social apps <a class="yt-timestamp" data-t="10:47:00">[10:47:00]</a>. Nikita explains that:
+*   Teenagers' habits are more "malleable" <a class="yt-timestamp" data-t="10:55:00">[10:55:00]</a>.
+*   Adults tend not to invite people to new apps, with invitations sent per user dropping by 20% for every additional year of age from 13 to 18 <a class="yt-timestamp" data-t="11:13:00">[11:13:00]</a> <a class="yt-timestamp" data-t="11:58:00">[11:58:00]</a>. Building for adults often necessitates acquiring users through expensive ads, which requires significant venture capital <a class="yt-timestamp" data-t="12:07:00">[12:07:00]</a>.
+*   Teens "see each other every day," which is critical for driving network effects <a class="yt-timestamp" data-t="11:28:00">[11:28:00]</a>. Data shows that the number of people one texts peaks around 21 years old and then collapses, only rising again later in life <a class="yt-timestamp" data-t="17:26:00">[17:26:00]</a>. To innovate at the "edges of communication products," one must target the cohort with the "highest urgency to communicate" <a class="yt-timestamp" data-t="18:15:00">[18:15:00]</a> <a class="yt-timestamp" data-t="18:23:00">[18:23:00]</a>.
+
+## TBH: A Viral Phenomenon
+
+TBH, a positive anonymous polling app, was the product of these years of experimentation <a class="yt-timestamp" data-t="21:05:00">[21:05:00]</a>. Launched when the company was nearly out of money <a class="yt-timestamp" data-t="20:17:00">[20:17:00]</a>, it rapidly spread within a single school in Georgia, with 40% of the student body downloading it in the first 24 hours <a class="yt-timestamp" data-t="21:26:00">[21:26:00]</a> <a class="yt-timestamp" data-t="21:29:00">[21:29:00]</a>. Within six days, Nikita predicted it would be the number one app in the United States <a class="yt-timestamp" data-t="00:35:00">[00:35:00]</a> <a class="yt-timestamp" data-t="21:48:00">[21:48:00]</a>.
+
+### The Insight: Latent Demand
+The core insight behind TBH came from two observations:
+1.  **Snapchat Trend**: Kids were playing a game on Snapchat where they posted emojis with positive attributes and received replies with the corresponding emoji, indicating a desire for positive disclosure <a class="yt-timestamp" data-t="25:25:00">[25:25:00]</a> <a class="yt-timestamp" data-t="25:46:00">[25:46:00]</a>.
+2.  **Saraha's Success**: The number one app in the U.S. App Store was Saraha, an anonymous messaging app entirely in Arabic <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a> <a class="yt-timestamp" data-t="26:06:00">[26:06:00]</a>. This was a "strongest signal" of "latent demand"—people seeking a particular value but going through a "distortive process" to obtain it <a class="yt-timestamp" data-t="00:40:00">[00:40:00]</a> <a class="yt-timestamp" data-t="26:32:00">[26:32:00]</a> <a class="yt-timestamp" data-t="26:43:00">[26:43:00]</a>.
+    *   Saraha, however, often led to negative and bullying messages <a class="yt-timestamp" data-t="27:17:00">[27:17:00]</a>. Nikita realized people wanted to "feel good about themselves" <a class="yt-timestamp" data-t="27:27:00">[27:27:00]</a>.
+
+The solution was TBH, which allowed users to answer positive polls ("who has the best smile," "most likely to be president") about their friends anonymously <a class="yt-timestamp" data-t="28:07:00">[28:07:00]</a> <a class="yt-timestamp" data-t="28:10:00">[28:10:00]</a>. This "new mechanic" ensured positivity, increased message volume, and made users feel good <a class="yt-timestamp" data-t="28:22:00">[28:22:00]</a> <a class="yt-timestamp" data-t="28:26:00">[28:26:00]</a>. It led to "explosive adoption," with one school sending 450,000 messages in seven days <a class="yt-timestamp" data-t="28:33:00">[28:33:00]</a>.
+
+### Strategies for Rapid Growth
+*   **Saturation Marketing**: To seed an app in a school, they saturated the area with every kind of marketing, including targeted ads and a dedicated Instagram account for the school <a class="yt-timestamp" data-t="29:58:00">[29:58:00]</a> <a class="yt-timestamp" data-t="30:05:00">[30:05:00]</a>. This helped get a critical mass of users to adopt the app synchronously, especially since high schoolers often identify their school in their Instagram bios <a class="yt-timestamp" data-t="30:30:00">[30:30:00]</a>.
+*   **Reproducible Testing Process**: It's unpredictable whether a consumer product idea will work, so focusing on a process to take "many shots at bat" reduces risk <a class="yt-timestamp" data-t="19:22:00">[19:22:00]</a> <a class="yt-timestamp" data-t="19:28:00">[19:28:00]</a>. The goal is to "test the best possible version" by eliminating confounding variables, even if it requires manual work that doesn't scale <a class="yt-timestamp" data-t="31:11:00">[31:11:00]</a> <a class="yt-timestamp" data-t="32:20:00">[32:20:00]</a>. This ensures clear signal on whether the product works <a class="yt-timestamp" data-t="31:18:00">[31:18:00]</a>.
+*   **Live Chat Customer Support**: Implementing 24/7 live chat, while seemingly counter-intuitive for tech, provides a "white glove experience" and eliminates uncertainty about user problems <a class="yt-timestamp" data-t="32:47:00">[32:47:00]</a>. More importantly, it's the best way to get direct feedback for user research and feature ideas <a class="yt-timestamp" data-t="33:18:00">[33:18:00]</a>.
+
+### [[the_challenges_and_realities_of_viral_app_success | The Challenges and Realities of Viral App Success]]
+Going viral brings "absolute chaos" <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>. Nikita describes:
+*   **Constant Breakage**: "Everything breaks" and needs to be replaced or scaled every few days <a class="yt-timestamp" data-t="34:43:00">[34:43:00]</a>. For TBH, server costs surged, requiring a rapid funding round <a class="yt-timestamp" data-t="21:55:00">[21:55:00]</a>.
+*   **Ruthless Prioritization**: Founders must be ruthless with prioritization, addressing the largest fires first <a class="yt-timestamp" data-t="35:20:00">[35:20:00]</a>. They had to "geofence" TBH to control growth and scale servers <a class="yt-timestamp" data-t="28:58:00">[28:58:00]</a> <a class="yt-timestamp" data-t="35:42:00">[35:42:00]</a>.
+*   **Product-Market Fit**: True product-market fit in consumer apps is obvious and "binary" <a class="yt-timestamp" data-t="36:28:00">[36:28:00]</a>. If there's uncertainty, it's not working <a class="yt-timestamp" data-t="36:26:00">[36:26:00]</a>. Users will be "fighting to get into it," and new metrics like "hourly actives per day" will emerge <a class="yt-timestamp" data-t="36:36:00">[36:36:00]</a>.
+
+## Facebook Tenure: Lessons in Large Tech
+
+After nine weeks, TBH was sold to Facebook for over $30 million <a class="yt-timestamp" data-t="02:11:00">[02:11:13]</a> <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a> <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>. Nikita spent four years at Facebook, primarily as a product manager, launching about eight standalone apps within the New Product Experimentation (NPE) group <a class="yt-timestamp" data-t="40:41:00">[40:41:00]</a> <a class="yt-timestamp" data-t="41:03:00">[41:03:00]</a>.
+
+### Views on Product Management
+Nikita has a "dogmatic view" that product management, especially in large tech companies, is "not real" or at least very different from a startup <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a> <a class="yt-timestamp" data-t="03:32:00">[03:32:00]</a>. In large organizations, product managers are often detached from the design process, primarily writing documents, being "team secretaries," and seeking approvals <a class="yt-timestamp" data-t="01:06:00">[01:06:00]</a> <a class="yt-timestamp" data-t="39:36:00">[39:36:00]</a> <a class="yt-timestamp" data-t="49:29:00">[49:29:00]</a>. He believes that "products live and die in the pixels," meaning designers should run the show, or at least product people building zero-to-one initiatives should be deeply involved in designing the hierarchy, pixels, and flows <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a> <a class="yt-timestamp" data-t="49:52:00">[49:52:00]</a> <a class="yt-timestamp" data-t="51:16:00">[51:16:00]</a>.
+
+### Innovation Challenges in Large Companies
+Large companies face several challenges in launching new, zero-to-one products:
+*   **Risk Aversion and Verbalization**: It's difficult to gain internal alignment for ideas that are "hunch-based" or hard to articulate in formal documents, especially when they might involve sensitive topics like "teens to flirt" <a class="yt-timestamp" data-t="41:19:00">[41:19:00]</a> <a class="yt-timestamp" data-t="42:39:00">[42:39:00]</a>.
+*   **Slow Response to Market Signals**: Large companies take a long time (12 to 24 months) to respond to competitive threats or new market opportunities <a class="yt-timestamp" data-t="45:10:00">[45:10:00]</a> <a class="yt-timestamp" data-t="45:55:00">[45:55:00]</a>. Internal incentives often favor copying existing successful products with market evidence rather than pursuing novel, unproven concepts <a class="yt-timestamp" data-t="46:14:00">[46:14:00]</a> <a class="yt-timestamp" data-t="47:22:00">[47:22:00]</a>.
+*   **Distribution Advantage**: While large companies have distribution advantages, Nikita believes that a small startup can overcome this by paying for ads or finding ways to get their app into a "dense friend graph" <a class="yt-timestamp" data-t="43:55:00">[43:55:00]</a> <a class="yt-timestamp" data-t="44:10:00">[44:10:00]</a>.
+
+## Gas: Reinventing Viral Growth (Again)
+
+After leaving Facebook, Nikita set out to build another successful app, driven by the question of whether monetizing TBH would have yielded more than its acquisition <a class="yt-timestamp" data-t="53:56:00">[53:56:00]</a> <a class="yt-timestamp" data-t="56:21:00">[56:21:00]</a>. The concept of Gas, another positive anonymous polling app, was similar to TBH, but the entire growth system had to be reinvented <a class="yt-timestamp" data-t="59:16:00">[59:16:00]</a>.
+
+### Reinvention and Challenges
+*   **New Regulatory Climate**: Due to changes in regulations, sending text invites from a server (as TBH did) was no longer feasible <a class="yt-timestamp" data-t="58:28:00">[58:28:00]</a>. Users now had to manually pop a compose window and hit send for each invite, reducing conversion <a class="yt-timestamp" data-t="59:08:00">[59:08:00]</a>.
+*   **Iterative Development**: Gas required nine launches and numerous feature additions, including renaming the app, to figure out how to grow in the new climate <a class="yt-timestamp" data-t="59:22:00">[59:22:00]</a> <a class="yt-timestamp" data-t="59:26:00">[59:26:00]</a>.
+*   **Ethical Growth and "Gia Hypothesis"**: Nikita strongly believes in operating "by the book" and doing "right by users" <a class="yt-timestamp" data-t="01:00:37">[01:00:37]</a>. He uses the "Gia hypothesis" (Earth as a living, breathing entity) as a metaphor for the internet: if you misuse user data (e.g., sending texts on their behalf), the internet will "come back and get even" <a class="yt-timestamp" data-t="01:01:25">[01:01:25]</a> <a class="yt-timestamp" data-t="01:01:48">[01:01:48]</a>.
+*   **Ensuring Positivity**: Gas ensured everyone received positive votes by increasing the frequency of names in polls for users not recently voted on <a class="yt-timestamp" data-t="01:03:51">[01:03:51]</a> <a class="yt-timestamp" data-t="01:03:58">[01:03:58]</a>. The app received daily messages from users who said it made them "reconsidered suicide or other form of self harm" <a class="yt-timestamp" data-t="01:03:17">[01:03:17]</a> <a class="yt-timestamp" data-t="01:03:26">[01:03:26]</a>.
+
+### The Human Trafficking Hoax
+Gas faced a severe, widespread human trafficking hoax, which Nikita describes as an "unusual thing that happens when you grow really fast" <a class="yt-timestamp" data-t="01:04:42">[01:04:42]</a> <a class="yt-timestamp" data-t="01:07:38">[01:07:38]</a>. The hoax was self-perpetuating, as teenagers gained followers by spreading the misinformation <a class="yt-timestamp" data-t="01:05:13">[01:05:13]</a>. To combat this catastrophe, which caused 3% of users to delete accounts daily at its peak <a class="yt-timestamp" data-t="01:09:56">[01:09:56]</a>:
+*   They engaged with journalists, insisting on headlines like "Gas App is Not for Human Trafficking" <a class="yt-timestamp" data-t="01:06:28">[01:06:28]</a> <a class="yt-timestamp" data-t="01:06:33">[01:06:33]</a>.
+*   They contacted school superintendents and police chiefs to retract public statements <a class="yt-timestamp" data-t="01:06:48">[01:06:48]</a>.
+*   They asked Apple to remove review bombs <a class="yt-timestamp" data-t="01:07:02">[01:07:02]</a>.
+*   A TikTok video by Nikita's girlfriend explaining the truth was shown to users deleting their accounts <a class="yt-timestamp" data-t="01:07:10">[01:07:10]</a>.
+*   He even reached out to the CEO of TikTok to have false videos removed <a class="yt-timestamp" data-t="01:09:16">[01:09:16]</a>.
+*   Crucially, the app's virality (K-factor) had to be higher than the hoax's <a class="yt-timestamp" data-t="01:09:35">[01:09:35]</a>.
+
+### The Importance of Naming
+Gas's previous name, "Crush," and its pink icon led to a significant drop in invitations, particularly from boys <a class="yt-timestamp" data-t="01:16:01">[01:16:01]</a>. Recognizing that social apps often index higher for women (TBH was 60-65% female) <a class="yt-timestamp" data-t="01:16:36">[01:16:36]</a>, they made the app more masculine with a black icon and the name "Gas," which caused the invite rate to jump <a class="yt-timestamp" data-t="01:16:45">[01:16:45]</a> <a class="yt-timestamp" data-t="01:16:50">[01:16:50]</a>.
+
+## Durable Apps vs. Viral Hits
+
+Nikita acknowledges that building a truly "durable" (long-lasting) consumer social app is a "Black Swan event" <a class="yt-timestamp" data-t="01:18:47">[01:18:47]</a>. Retention for consumer social products has a "tremendous amount of randomness," with only "one every decade" achieving enduring success <a class="yt-timestamp" data-t="01:19:03">[01:19:03]</a>. However, he asserts that "growing a product can be a science with certainty" <a class="yt-timestamp" data-t="01:19:26">[01:19:26]</a>.
+
+His personal motivation lies in the "thrilling drug" of making a product "take over the Internet" <a class="yt-timestamp" data-t="01:19:50">[01:19:50]</a>. He notes that the financial proceeds from quick viral hits (like his apps) can be comparable to those of founders in venture-backed companies after years of dilution, offering a better quality of life <a class="yt-timestamp" data-t="01:22:20">[01:22:20]</a> <a class="yt-timestamp" data-t="01:23:10">[01:23:10]</a>.
+
+## Key Strategies for Building and Growing Viral Apps
+
+### 1. Optimize for "Time to Value" / "Aha Moment"
+In 2024, attention spans are three seconds <a class="yt-timestamp" data-t="01:27:27">[01:27:27]</a>. An app must demonstrate value within that time, or users will churn <a class="yt-timestamp" data-t="01:27:39">[01:27:39]</a>. This means ruthlessly cutting features and crafting onboarding to ensure users hit the "aha moment" immediately <a class="yt-timestamp" data-t="01:29:55">[01:29:55]</a> <a class="yt-timestamp" data-t="01:30:12">[01:30:12]</a>.
+*   **Example (Dupe)**: For a shopping app, they created a URL trick (e.g., `dp.com/` in front of any product link) that instantly showed the cheapest version of a product online <a class="yt-timestamp" data-t="01:28:40">[01:28:40]</a>. This iconic, memorable interaction delivered immediate value and went viral, leading to millions in ARR in under 60 days <a class="yt-timestamp" data-t="01:29:08">[01:29:08]</a>.
+
+### 2. Deep Understanding of Platform Mechanisms
+Extraordinary product people are aware of every possible API and how it can be used in "non-traditional ways" <a class="yt-timestamp" data-t="01:30:33">[01:30:33]</a>. For example, contacts sync can find friends and rank people not on the app, facilitating one-tap value exposure <a class="yt-timestamp" data-t="01:30:59">[01:30:59]</a>. Relying on users to exchange usernames is unrealistic due to the high number of taps required <a class="yt-timestamp" data-t="01:31:21">[01:31:21]</a>.
+
+### 3. Adapting to Platform Changes (e.g., iOS 18 Contact Permissions)
+Upcoming iOS 18 changes to contact permissions will make it significantly harder to invite friends <a class="yt-timestamp" data-t="01:24:02">[01:24:02]</a>. The new flow (selecting contacts from an alphabetical list) is "egregiously bad" for social discovery <a class="yt-timestamp" data-t="01:24:42">[01:24:42]</a> <a class="yt-timestamp" data-t="01:26:42">[01:26:42]</a>. This will likely entrench incumbents further, necessitating new ways to find friends on apps <a class="yt-timestamp" data-t="01:26:26">[01:26:26]</a>. Founders should be prepared to "rethink how they do it" and find new "whole set of apps emerging as a consequence" of this shift <a class="yt-timestamp" data-t="01:25:37">[01:25:37]</a> <a class="yt-timestamp" data-t="01:26:03">[01:26:03]</a>.
+
+### 4. Holistic Growth Strategy
+Marketing and product growth mechanisms should be treated as the same <a class="yt-timestamp" data-t="01:33:13">[01:33:13]</a>. Everything from ads to the in-app experience must be aligned to drive user acquisition and spin the flywheel <a class="yt-timestamp" data-t="01:33:55">[01:33:55]</a>.
+
+## Working with Nikita
+
+Nikita Beer advises companies, primarily consumer mobile firms, across various stages <a class="yt-timestamp" data-t="01:34:29">[01:34:29]</a>. He focuses on quickly identifying "table stakes" growth opportunities and then two to three "step function changes" to a product's growth trajectory <a class="yt-timestamp" data-t="01:35:05">[01:35:05]</a>. He often engages directly in design (Figma) and shares proprietary [[growth_hacking_and_sustainable_growth_strategies | growth hacks]] he has accumulated over the years <a class="yt-timestamp" data-t="01:35:35">[01:35:35]</a> <a class="yt-timestamp" data-t="01:36:01">[01:36:01]</a>.

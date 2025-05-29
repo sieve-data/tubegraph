@@ -1,0 +1,63 @@
+---
+title: Nubanks growth and unique approach
+videoId: 8A7wXK2MncQ
+---
+
+From: [[lennyspodcast]] <br/> 
+Nubank is recognized as one of the most successful companies for launching new business lines and its rapid expansion <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. It has grown to be larger than companies like Coinbase, Robinhood, Affirm, Sofi, and Lemonade combined <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>. Operating primarily in three Latin American countries (Brazil, Mexico, and Colombia), Nubank has more customers than Bank of America <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+
+## Unique Approach to Growth
+A significant portion of Nubank's growth, between 80% and 90%, comes from word-of-mouth referrals <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This is achieved through a [[implementing_productled_growth | unique approach to building product]] that cultivates a fanatical user base <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>, aiming to be "fundamentally different" rather than "incrementally better" <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.
+
+### Core Philosophy: Customer Obsession
+Nubank's success is rooted in its obsession with building products that customers love fanatically <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+This obsession is operationalized through:
+*   **Addressing Deep Pain Points** Nubank tapped into the significant dissatisfaction with large incumbent Brazilian banks, which were highly profitable but also widely hated <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. An example of a deep pain point is the complexity of paying bills in Brazil, which involves multiple payment rails and severe consequences for missed payments <a class="yt-timestamp" data-t="00:21:52">[00:21:52]</a>.
+*   **Strong Company Culture** The company's culture is deeply embedded in its employees, with approximately 80% to 90% able to recite its five core values <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>. The first value is "We want our customers to love us fanatically" <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>.
+*   **Bias Towards Customer Love** When faced with difficult decisions, Nubank biases in favor of what will make the customer love them more <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>.
+*   **"Owners, Not Renters" Mentality** Employees are encouraged to "think and act like owners, not renters" <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>, fostering a sense of accountability to do what is right, even if it means pushing back against senior leadership <a class="yt-timestamp" data-t="00:31:30">[00:31:30]</a>.
+
+### Product Development Process
+Nubank's product development incorporates several key practices:
+*   **Customer Discovery and Innovation** Teams focus on customer discovery *before* building, aiming to innovate on customer pain points rather than simply asking customers what they want <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. This often involves observing customer behavior to find unarticulated needs <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>.
+*   **Amazon Mock Press Release Technique** Before committing engineering resources, teams write a mock press release explaining why the intended customer should care about the product <a class="yt-timestamp" data-t="00:13:18">[00:13:18]</a>.
+*   **Rigorous Product and Design Reviews** Reviews are held multiple times a week to assess if a product is "great enough" and "fundamentally different" for the customer, aiming to redefine categories on dimensions of quality, complexity, and price <a class="yt-timestamp" data-t="00:13:42">[00:13:42]</a>.
+*   **Measuring Product-Market Fit with Sean Ellis Score** Nubank is a "fanatical follower" of the Sean Ellis Score methodology <a class="yt-timestamp" data-t="00:15:07">[00:15:07]</a>. Products are rarely scaled until the score hits a compelling threshold. The Sean Ellis score asks customers how disappointed they would be if the product went away <a class="yt-timestamp" data-t="00:15:45">[00:15:45]</a>. While the general threshold for product-market fit is 40% (customers being "very disappointed"), Nubank adjusts this to 50% for Brazilian customers due to cultural politeness and optimism <a class="yt-timestamp" data-t="00:16:14">[00:16:14]</a>.
+*   **Net Promoter Score (NPS)** The company is "addicted" to its NPS, striving for world-beating scores (e.g., 94-95 in Mexico) and treating even small dips as reasons for alarm <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>.
+*   **Churn Rate Monitoring** Alongside NPS, churn rate is closely watched to ensure products are built well enough to retain customers and support the viral customer acquisition loop <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>.
+*   **Iterative Development and "Good Enough Isn't Good Enough"** Teams are pushed to constantly iterate, aiming for products that are "great enough" rather than "good enough" <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>.
+*   **Direct Customer Feedback** Product managers and designers are encouraged to directly call customers (e.g., 10 customers) rather than relying solely on large-scale surveys to get raw, fine-grained feedback <a class="yt-timestamp" data-t="00:26:28">[00:26:28]</a>.
+*   **Hypothesis-Driven Research** Before engaging with customers, teams are expected to have a clear hypothesis or point of view on what will excite customers, ensuring research validates or invalidates specific assumptions <a class="yt-timestamp" data-t="00:36:06">[00:36:06]</a>. When conducting research, the focus is on observing more than asking direct questions, and even "selling against your idea" to gauge true customer enthusiasm <a class="yt-timestamp" data-t="00:37:08">[00:37:08]</a>.
+
+## Strategy
+Nubank emphasizes the importance of a clear and coherent strategy.
+*   **Clarity over Rightness** Drawing inspiration from Kevin Systrom of Instagram, Nubank believes it's essential to be clear, even if the strategy isn't perfectly right, as clarity helps identify when things are going off course <a class="yt-timestamp" data-t="00:45:18">[00:45:18]</a>.
+*   **Definition of Strategy** Strategy is defined not as ambitious goals or financial outcomes, but as a "coherent plan for how you're going to apply your strengths in a leveraged way against a core important problem" <a class="yt-timestamp" data-t="00:46:19">[00:46:19]</a>. This aligns with Richard Rumelt's work on strategy <a class="yt-timestamp" data-t="00:45:47">[00:45:47]</a>.
+*   **Original Strategy Example** In 2014, Nubank's strategy was to offer a no-fee credit card to millennial, middle-class urban Brazilians who hated credit card fees and struggled to get credit. This was possible due to their branchless and digital model, offering a fundamentally different solution <a class="yt-timestamp" data-t="00:46:57">[00:46:57]</a>.
+*   **Concentrated Bets** Startups should make "concentrated bets" rather than hedging, as concentration builds wealth while diversification preserves it <a class="yt-timestamp" data-t="00:48:39">[00:48:39]</a>. This requires discipline and courage from product managers <a class="yt-timestamp" data-t="00:51:40">[00:51:40]</a>.
+*   **"Fundamentally Different, Not Incrementally Better"** This mantra is central to Nubank's product and strategy <a class="yt-timestamp" data-t="00:50:14">[00:50:14]</a>. While not every feature can be fundamentally different, the goal is to build anchor products that are truly disruptive <a class="yt-timestamp" data-t="00:52:50">[00:52:50]</a>.
+*   [[developing_a_growth_model | Frameworks]] for strategy, such as "Play to Win" and "Where to Play How to Win," are recommended to build strategic thinking <a class="yt-timestamp" data-t="00:49:34">[00:49:34]</a>.
+
+### Category Design
+Nubank believes in [[developing_a_growth_model | category design]]—creating entirely new categories rather than just entering existing ones <a class="yt-timestamp" data-t="00:54:10">[00:54:10]</a>.
+*   **Google, Netflix, Airbnb as Examples** Successful companies often create new categories <a class="yt-timestamp" data-t="00:54:17">[00:54:17]</a>.
+*   **Nubank's Founding Category** Nubank was the first to intentionally build a branchless bank in Brazil, leveraging the rise of smartphones and a digital cost structure to offer disruptively priced services. Uniquely, it started with credit first, a harder and riskier path, instead of a bank account <a class="yt-timestamp" data-t="00:54:43">[00:54:43]</a>.
+*   **Reinventing Existing Categories** Even when entering established markets (e.g., consignado, secured lending for government employees), Nubank aims to build a "fundamentally different" experience (e.g., D2C model vs. middlemen) <a class="yt-timestamp" data-t="00:56:00">[00:56:00]</a>.
+
+## Product Line Expansion
+Nubank has launched approximately 12 to 20 core product lines <a class="yt-timestamp" data-t="00:57:50">[00:57:50]</a>.
+*   **From Monoliner to Full Solution** The company transitioned from being a Brazilian credit card monoliner to a full-solution Latin American bank <a class="yt-timestamp" data-t="00:58:16">[00:58:16]</a>.
+*   **Key Product Launches** This expansion included a bank account (becoming a primary banking relationship for half of its 90+ million customers), lending products, investments, insurance, and small business products <a class="yt-timestamp" data-t="00:58:28">[00:58:28]</a>.
+*   **Geographic Expansion** Nubank successfully exported its business model by launching in Mexico and Colombia <a class="yt-timestamp" data-t="00:58:56">[00:58:56]</a>.
+*   **Future Phases** Nubank is exploring "phase three" products beyond financial services, including an e-commerce marketplace within its app <a class="yt-timestamp" data-t="00:59:22">[00:59:22]</a>.
+*   **Discipline in Scaling** A key lesson is to "solve problems when things are small" and avoid scaling big problems that lead to "a big mess" <a class="yt-timestamp" data-t="00:29:43">[00:29:43]</a>. For example, the Ultravioleta credit card was launched and refined in a lab setting for over two years before aggressive scaling began <a class="yt-timestamp" data-t="01:02:59">[01:02:59]</a>.
+
+## Future of Fintech and AI Integration
+Nubank envisions a future where banking is fundamentally different, leveraging advanced technologies.
+*   **Holistic Banking** The aim is to provide a full financial solution across all "financial seasons" of a person's life: spending, saving, investing, borrowing, and protecting <a class="yt-timestamp" data-t="01:04:30">[01:04:30]</a>.
+*   **Global Bank on a Single Codebase** Nubank is attempting to build the first global bank on a single codebase, an ambitious endeavor given the local nature of banking regulations <a class="yt-timestamp" data-t="01:05:12">[01:05:12]</a>. This contrasts with traditional global banks built through acquisitions on distinct technical infrastructures <a class="yt-timestamp" data-t="01:06:11">[01:06:11]</a>.
+*   **Social and Self-Driving Banking** The vision includes integrating social mechanics into financial life (beyond general social media) and enabling "self-driving automation" to manage financial goals and bill payments <a class="yt-timestamp" data-t="01:06:36">[01:06:36]</a>.
+*   **AI-Powered Personal Banker** Leveraging AI, Nubank aims to democratize access to a "personal banker" experience that advises users on smart financial moves at different life stages. This addresses the belief that "customers everywhere around the world live harshly unoptimized financial lives" <a class="yt-timestamp" data-t="01:07:40">[01:07:40]</a>. The goal is to build "AI-native products" from the ground up, rather than simply appending AI to existing features <a class="yt-timestamp" data-t="01:11:16">[01:11:16]</a>.
+*   **Reinventing Banking from Latin America** Nubank believes that the company to reinvent banking can emerge from cities like São Paulo, Mexico City, or Bogotá, challenging the traditional dominance of San Francisco, New York, or London <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>.
+
+Nubank's brand color is purple, and its credit card is affectionately called "the roxinho" (little purple card) by customers <a class="yt-timestamp" data-t="01:33:50">[01:33:50]</a>. The phrase "the future is purple" originated when customers rallied to prevent the Central Bank from shutting Nubank down in 2016 <a class="yt-timestamp" data-t="01:34:32">[01:34:32]</a>.

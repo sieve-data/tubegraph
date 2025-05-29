@@ -1,0 +1,46 @@
+---
+title: Experimentation and datadriven decision making
+videoId: BVzTfsUMaK8
+---
+
+From: [[lennyspodcast]] <br/> 
+
+## The Role of Data in Marketplaces
+Ramesh Johari, a professor at Stanford University who researches and teaches data science methods, emphasizes the central role of data and data science in building successful online marketplaces <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. Unlike ancient markets built from stone, modern, technology-underpinned commerce can be constantly architected and re-architected because it is fundamentally composed of data <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
+
+Data science in marketplaces revolves around a core "flywheel" process <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>:
+1.  **Finding Matches** <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>: This involves identifying potential connections between users, such as a traveler finding a room on Airbnb or a host finding a guest <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>.
+2.  **Making Matches** <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>: This refers to facilitating the actual connection, like helping an employer select candidates for a job on Upwork <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>.
+3.  **Learning About Matches** <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>: After a match is made, the platform collects information through rating systems, feedback, or passive data (e.g., whether a booking ended early) <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>. This learning then feeds back into improving future match-making and finding <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
+
+Algorithms and data science are crucial in solving these problems and ultimately removing friction in the marketplace <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>.
+
+## Prediction vs. Decision-Making
+A common pitfall in data science, especially within marketplaces, is conflating prediction with **[[effective_decision_making | decision-making]]** <a class="yt-timestamp" data-t="00:31:33">[00:31:33]</a>. While machine learning models excel at predicting outcomes by identifying patterns in past data (e.g., who is most likely to be hired) <a class="yt-timestamp" data-t="00:30:05">[00:30:05]</a>, the true goal of data science should be to help the business make better decisions <a class="yt-timestamp" data-t="00:35:06">[00:35:06]</a>.
+
+For instance, a marketing manager might use a lifetime value (LTV) model to predict high-value customers and send them promotions <a class="yt-timestamp" data-t="00:33:55">[00:33:55]</a>. However, the more critical question is: how much *more* will they spend because of the promotion? <a class="yt-timestamp" data-t="00:33:05">[00:33:05]</a> This highlights the distinction between correlation (prediction) and causation (the impact of a decision) <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>.
+
+Data scientists should constantly think about how their work contributes to **[[effective_decision_making | causal inference]]** and whether a decision will actually increase the net value of the business <a class="yt-timestamp" data-t="00:34:36">[00:34:36]</a>. For example, when comparing two ranking algorithms on Airbnb, the question isn't which one better predicts past bookings, but which one leads to more bookings or better matches in the future <a class="yt-timestamp" data-t="00:37:00">[00:37:00]</a>.
+
+## The Importance of Experimentation
+To understand causation and make informed decisions, **[[importance_of_ab_testing_and_experimentation | experimentation]]** is crucial <a class="yt-timestamp" data-t="00:39:33">[00:39:33]</a>. It allows businesses to compare different approaches (e.g., a new ranking algorithm vs. an old one) and measure their actual impact on key metrics like bookings or revenue <a class="yt-timestamp" data-t="00:39:39">[00:39:39]</a>.
+
+### Challenges in Experimentation
+Despite the benefits, there are **[[challenges_and_strategies_in_building_an_experimentation_platform | challenges and strategies in building an experimentation platform]]** and culture:
+*   **Micro-optimization vs. Big Opportunities** <a class="yt-timestamp" data-t="00:40:08">[00:40:08]</a>: A common concern is that over-reliance on [[importance_of_ab_testing_and_experimentation | experimentation]] can lead to incremental changes and local maxima, potentially missing larger, transformative opportunities <a class="yt-timestamp" data-t="00:40:00">[00:40:00]</a>. This often stems from a risk-averse approach, where companies tend to test only incremental changes and run experiments for too long <a class="yt-timestamp" data-t="00:41:52">[00:41:52]</a>.
+*   **Incentives and Culture** <a class="yt-timestamp" data-t="00:42:21">[00:42:21]</a>: In many companies, data scientists are judged by "wins" (successful experiments), which incentivizes incremental changes and prolonging experiments to ensure a positive result <a class="yt-timestamp" data-t="00:42:35">[00:42:35]</a>.
+*   **Learning vs. Winning** <a class="yt-timestamp" data-t="00:45:05">[00:45:05]</a>: Johari argues that **[[the_role_of_organizational_culture_in_experimentation_success | experimentation]]** should be hypothesis-driven and focused on learning, not just "winning" <a class="yt-timestamp" data-t="00:43:49">[00:43:49]</a>. Even if an experiment "fails" (doesn't lead to a direct win), it can provide valuable insights about business flows, user preferences, or demand elasticity <a class="yt="yt-timestamp" data-t="00:44:03">[00:44:03]</a>. This requires a cultural shift where learning is recognized and rewarded as part of the discourse <a class="yt-timestamp" data-t="00:55:27">[00:55:27]</a>.
+
+### The Cost of Learning
+Learning through [[importance_of_ab_testing_and_experimentation | experimentation]] is not free; it comes at a cost <a class="yt-timestamp" data-t="00:57:55">[00:57:55]</a>. For example, a marketing manager might intentionally hold out a group of visitors from seeing new innovations to measure the true impact of their team's efforts, even if it means lost revenue in the short term <a class="yt-timestamp" data-t="00:58:31">[00:58:31]</a>. The "cost" of not exposing the control group to the better treatment is the price paid for gaining clear, causal insights <a class="yt-timestamp" data-t="00:59:58">[00:59:58]</a>. This concept is often culturally challenging because using terms like "winners" and "losers" in experiments implicitly suggests that time spent on "losers" was wasted <a class="yt-timestamp" data-t="01:00:30">[01:00:30]</a>.
+
+### Incorporating Past Learning
+To address the challenge of "throwing away past learning" in experiments, Bayesian A/B testing can be employed <a class="yt-timestamp" data-t="00:56:06">[00:56:06]</a>. This approach allows prior beliefs, informed by past experiments and business understanding, to be combined with new experimental data to form conclusions <a class="yt-timestamp" data-t="00:56:25">[00:56:25]</a>. This rewards people for contributing information to the prior, creating a positive information externality for the business <a class="yt-timestamp" data-t="00:56:55">[00:56:55]</a>.
+
+## Marketplace Dynamics and Trade-offs
+Marketplaces often resemble a "game of whack-a-mole" <a class="yt-timestamp" data-t="00:50:04">[00:50:04]</a>. Changes, such as introducing a "superhost" badge, can re-allocate attention and inventory, leading to winners and losers <a class="yt-timestamp" data-t="00:51:08">[00:51:08]</a>. What might improve metrics for one side (e.g., new supply) could worsen the experience for another (e.g., existing supply) <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>.
+
+As Upwork CFO Saas Saalein noted, "many of the changes that are most consequential create winners and losers, and rolling with those changes is about recognizing whether the winners you've created are more important to your business than the losers you've created in the process" <a class="yt-timestamp" data-t="00:51:48">[00:51:48]</a>. This means decisions often involve strategic trade-offs and understanding the long-term implications, even if short-term metrics appear flat <a class="yt-timestamp" data-t="00:48:06">[00:48:06]</a>.
+
+## Impact of AI on Data Science
+AI, particularly large language models (LLMs) and generative AI, has vastly expanded the frontier of potential hypotheses, problem explanations, and things to test <a class="yt-timestamp" data-t="01:09:50">[01:09:50]</a>. This astronomical explosion of ideas puts *more* pressure on humans, not less <a class="yt-timestamp" data-t="01:10:07">[01:10:07]</a>. Humans become even more critical in funneling down this information to identify what truly matters, whether it's for data analysis, experiment design, or evaluating results <a class="yt-timestamp" data-t="01:10:13">[01:10:13]</a>. The focus should shift from automation cutting out the human to the human becoming a more important part of the productive data science loop <a class="yt-timestamp" data-t="01:11:02">[01:11:02]</a>.
