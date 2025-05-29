@@ -1,0 +1,58 @@
+---
+title: Moral Dilemmas and Security Logic in Apocalyptic Worlds
+videoId: C-5tEt2CUro
+---
+
+From: [[wisecrackedu]] <br/> 
+
+The world of Fallout, set in the 23rd century, presents an alternate reality where 1950s culture never faded, but global nuclear conflict in 2077 led to the devastation of most of humanity <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. This post-apocalyptic setting offers a rich ground for philosophical analysis, particularly regarding [[moral lines and human nature in a dystopian world | moral lines and human nature]], the perils of technology, and the intricacies of security logic <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+
+## The Illusion of Optimism and One-Dimensional Thought
+
+In Fallout's pre-war society, an intense fascination with atomic power flourished in the mid-20th century, unmoderated by the invention of the transistor <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. This led to a technologically advanced, yet uniquely bulky and primitive computing world, albeit with advanced power armor and laser guns <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. The Wasteland is littered with remnants of pre-war optimism, a belief that atomic energy could achieve great dreams, even with "giant anti-communist death robots" <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
+
+This optimism is glaringly evident in the Vaults, massive underground bunkers initially presented as exciting refuges where new friends and families could be made <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. However, many Vaults were, in reality, covers for the government to conduct "insane experiments" on their residents <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. This stark contrast highlights the human capacity for cognitive dissonance <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+
+German-American philosopher Herbert Marcuse critiqued this phenomenon during the Cold War, arguing that pleasant appearances plastered over "modern day nightmares" demonstrated society's ability to "destroy criticism" <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. Marcuse contended that capitalism's marketing prowess could make even the "worst shit in the world just seem 'dandy'," citing real-life "deluxe fallout shelter[s]" as an "obscene merger" of appearance (cozy luxury) and reality (a terrible situation) <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>.
+
+This disparity fuels Fallout's humor, constantly juxtaposing the "quaint and cheery Leave-it-to-Beaver-esque culture" with the "hellscape it's set in" <a class="yt-timestamp" data-t="00:03:23">[00:03:23]</a>. Examples include chipper jazz tunes playing on radio stations while players fend off irradiated humans <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>, or the game's use of "I Don't Want to Set the World on Fire" over images of a burnt Washington D.C <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>. Cole Porter's "Anything Goes" also serves as a nod to the anarchy of the Wasteland, where cannibalism is fair game <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
+
+These "marriages between positive and negative" serve not just for comedy, but as a criticism of government propaganda <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>. Marcuse called this "one-dimensional thought," where technology and rationality are always pushed as good and forward-moving, leaving no room for "negative thought" or ideas that undermine society's "inane positivity" <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>. This is illustrated in *Fallout 3* where the player is forced to have fun at their own birthday party <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. The Enclave, a remnant of the US government, even employs this tactic through its computer president, John Henry Eden, who praises baseball as a savior of the American dream to ensure an obedient, distracted society <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>. These pre-war comforts and distractions, such as leisure suits and magazines, are seen as mechanisms that led to the apocalypse in the first place <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>.
+
+## Technology's Double Edge and Moral Choices
+
+From the Great War that devastated the world to secret government experiments creating Super Mutants, Fallout constantly reminds players of "technology run amok" <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>. Technology is portrayed as a "double-edged sword" <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>, presenting players with significant moral dilemmas <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>:
+*   Should technology provide clean water or unleash a devastating virus to "purify" the Wasteland? <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>
+*   Who should control Mr. House's robotic army in the battle for New Vegas? <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>
+
+The ancient idea that humans cannot handle technology is echoed in Fallout's inspiration from the Greek myth of Phaethon, who nearly destroyed the Earth by mishandling Helios's sun chariot <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. In *New Vegas*, the solar plant capable of harnessing the sun's energy is named Helios One, allowing the player to similarly wield destructive power <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>.
+
+Different factions in Fallout offer distinct responses to this technological dilemma:
+*   **The Brotherhood of Steel** believes technology is inherently dangerous and must be hoarded and kept out of the wrong hands—meaning anyone but themselves <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>. They will go to war with any faction possessing advanced tech <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. However, this raises the question of whether they themselves can be trusted <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+*   **Caesar's Legion** rejects technology, except for what aids in killing, believing it makes people weak and dependent <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. Despite this, their brutal totalitarian state proves that "technology isn't to blame after all" for widespread wrongdoing <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>.
+
+## Security Logic and Political Systems in the Wasteland
+
+The various forms of government that emerge in the Wasteland, from "cruel tyranny fueled slavery" to "liberal democracies," reflect modern theories of international relations <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>.
+
+### Hegemonic Stability Theory
+
+Caesar's Legion in *New Vegas* aims to unite humanity under its banner, creating a "dystopian nightmare" where everyone is a slave <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. Caesar believes peace comes through security, attainable only when his Legion is the sole dominant faction <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>. This aligns with "hegemonic stability theory," which suggests that a single superpower can enforce order through intimidation, leading to a degree of stability <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>. Traders in Legion territory experience greater safety due to the elimination of raiders and strict law enforcement <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. Every faction in Fallout, in essence, strives to become the "local hegemon" <a class="yt-timestamp" data-t="00:10:59">[00:11:00]</a>.
+
+### Balance of Power and Realism
+
+Alternatively, a "balance of power" among factions can make war too costly <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. The NCR, for instance, might not invade New Vegas not due to goodwill, but because the cost would be too high <a class="yt-timestamp" data-t="00:11:20">[00:11:20]</a>. The Boomers, like a "post-apocalyptic Switzerland," maintain neutrality by protecting their borders with constant artillery fire <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>.
+
+This perspective aligns with a "realist" model of international relations, where each faction acts solely to ensure its own survival, and power is a "zero-sum game" <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>. Security is achieved by possessing more power than rivals, and alliances are fleeting, formed only to combat more powerful threats <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>. This cynical view, however, arguably precludes true cooperation and trust, which, according to the video, was likely what led to the nuclear holocaust in the first place <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>.
+
+## The Totalizing Logic of Security
+
+The stakes of diplomatic relationships in Fallout are always high, often a "life and death struggle for the soul of humanity" <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>. Players face difficult [[moral ambiguity in storytelling | moral dilemmas]]: how far are they willing to go to maintain security? Should the NCR resort to bullying and corruption for peace and democracy? <a class="yt-timestamp" data-t="00:12:32">[00:12:32]</a> In *Fallout 3*, should the player murder obstacles or seek a diplomatic approach to bring clean water to the Wasteland? <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>
+
+Some philosophers, like Daniel Callahan, criticize "security logic" for its "totalizing" nature, arguing there is "no limit in the amount of terrible, grotesque things we are willing to do in the name of survival" <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>. This echoes Benjamin Franklin's sentiment: "Those who surrender freedom for security will not have, nor do they deserve, either one" <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>.
+
+The Enclave's President John Henry Eden exemplifies this, stating he cannot discuss the details of his election "in the interest of national security," and even plans to exterminate mutated "riff raff" to save "real" humanity <a class="yt-timestamp" data-t="00:13:25">[00:13:25]</a>. In *New Vegas*, aiding Mr. House leads to a "despotic vision of pre-War glory," where the streets are "orderly, efficient, cold," at the expense of "personal freedoms and democracy" <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>. Mr. House explicitly dismisses freedom, believing "firm control in the hands of a technological and economic visionary" is preferable to the fate of democracies seen outside the window <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>.
+
+Historically, dictators often "manufacture crises" and exaggerate threats to justify repressive laws <a class="yt-timestamp" data-t="00:14:33">[00:14:33]</a>. In Fallout, there is no shortage of such crises to exploit <a class="yt-timestamp" data-t="00:14:44">[00:14:44]</a>.
+
+Ultimately, Fallout's constant interrogation of human society and government suggests that while "War never changes," neither does "humanity" <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>. Beyond mutated creatures, the true horror of the Wasteland lies in its rehashing of "regrettable history," including "slavery obsessed Romans, Orwellian dictatorships, and genocidal governments," implying that history does indeed repeat itself <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>. The game's setting provides a canvas for [[the exploration of humanity in postapocalyptic settings | exploring humanity's persistent flaws]] and the dangers of prioritizing security above all else.

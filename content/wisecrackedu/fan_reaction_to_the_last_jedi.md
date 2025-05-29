@@ -1,0 +1,48 @@
+---
+title: Fan reaction to The Last Jedi
+videoId: dLYUc5t6wag
+---
+
+From: [[wisecrackedu]] <br/> 
+
+The 2017 film *The Last Jedi* garnered significant [[star_wars_fan_backlash_and_criticism | fan backlash]] upon its release <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. Criticisms frequently voiced by fans include:
+*   Luke Skywalker's portrayal as a "green milk-chugging coward" <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
+*   Supreme Leader Snoke being defeated before his background was established <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+*   Admiral Holdo's plan lacking logical sense <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+*   The Canto Bight sequence being boring <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+*   Rey's parents being a "red herring" <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+*   The prevalence of "Marvel humor" <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+*   The "Leia Poppins" scene <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+
+## Rian Johnson's Intent and Subversion
+
+[[impact_of_rian_johnsons_creative_decisions | Rian Johnson]], the film's director, aimed to [[rian_johnsons_approach_to_revolutionizing_star_wars | revolutionize Star Wars]] rather than simply recycling past narratives <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>, <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. This approach led to a deliberate subversion of established tropes and expectations:
+
+### Meta-Commentary on Legacy
+The relationship between Kylo Ren and Darth Vader can be interpreted as a meta-commentary on how new *Star Wars* films relate to the original trilogy <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. Just as Kylo Ren is burdened by the legacy of his grandfather, the new series faced immense pressure to live up to the original films <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>, <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. While *The Force Awakens* mimicked *A New Hope* "beat per beat" <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>, *The Last Jedi* signaled a departure from this trend. When Snoke tells Kylo Ren to remove his mask, and Ren subsequently destroys it, it serves as a "telegraph" that the film would not be a rehash but a "radical subversion of the Star Wars formula" <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>, <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. The message was clear: "For the new Star Wars to live, the old Star Wars must die" <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>, echoing Kylo Ren's line, "Let the past die. Kill it if you have to" <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+
+### Undermining Traditional Tropes
+[[metaphors_and_thematic_subversion_in_the_last_jedi | Johnson abrasively undermined the tropes and traditions]] of previous films <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>:
+*   **Rey's lineage:** Unlike Luke Skywalker, Rey's parents were revealed to be "filthy junk traders" who sold her for drinking money <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. The heroes were presented as "janitors and mechanics" instead of "politicians and princesses" <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+*   **Luke Skywalker's character:** Luke was depicted as a "failed nephew murder/slovenian philosopher" rather than the idealistic hero <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+*   **Yoda and the Jedi Order:** Yoda was shown as a "would-be book burner," and the Jedi Order itself was criticized for its "failure," "hypocrisy," and "hubris" <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>, <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. Luke argued that the Jedi's legacy was one of failure, enabling Darth Sidious and Darth Vader's rise <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>.
+*   **Cyclical conflict:** The film suggested that previous victories had not led to lasting progress, as a "nearly identical Nazi-inspired fascistic order" rose after the Empire's collapse <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. Johnson implied that the galaxy's "inadequate conception of good and evil" was to blame <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>, <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
+
+### Redefining Good and Evil
+The traditional "stark divisions between good and evil" central to *Star Wars* were challenged <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. Drawing on Joseph Campbell's "monomyth," which is based on [[jungian_psychology_and_the_last_jedi | Carl Jung's work on archetypes]] and the collective unconscious <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>, <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>, Johnson aimed to complicate the audience's relationship with the dark side <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
+
+Jung's concept of the "shadow" (the repressed, primal part of the unconscious) was directly referenced as the "dark side" <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>, <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>. In the monomyth, the shadow is embodied by a character representing the protagonist's shortcomings, like Gollum for Frodo or Darth Vader for Luke <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>, <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. While the original *Star Wars* suggested conquering inner demons <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>, *The Last Jedi* suggested the Force inherently promotes balance: "Darkness rises and light to meet it" <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>, <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>. This implied that an overly powerful Jedi order might be met by an equally powerful dark side, leading Luke to criticize the Jedi for their role in the cyclical conflict <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>, <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>.
+
+The film suggested that the dark side should not be merely conquered, as repression can lead to an "ego split" and the projection of one's own ugliness onto "scapegoats," resulting in endless conflict <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>, <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>, <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+
+DJ, Benicio del Toro's character, explicitly challenged the traditional good/evil dichotomy by revealing that arms dealers sold weapons to both the First Order and the Resistance <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>, <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>. This made it "the most morally ambiguous moment in any Star Wars film" <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. The film also critiqued the galaxy's "military economy" and associated exploitation <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>.
+
+## The Film's Backpedaling and Audience Reception
+
+Despite attempting to dismantle old structures and moral frameworks, *The Last Jedi* was criticized for ultimately "backpedaling" on its revolutionary ideas <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>.
+*   **Rey's choice:** When Rey was offered the chance to end the "dogmatism" of the past by joining Kylo Ren, she refused, leading to a reaffirmation of the very things the film seemed to challenge <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>, <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>.
+*   **Luke Skywalker's legend:** After being portrayed as a disillusioned figure, Luke's legend was ultimately reaffirmed, inspiring the galaxy through a "lie" <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>, <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>.
+*   **Jedi's fate:** Despite Luke's earlier declaration that "It’s time for the Jedi to die," Rey declared, "And I will not be the last Jedi," restoring the order <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>, <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>.
+*   **Narrative structure:** The film reverted to established narrative structures, with Luke's final confrontation mirroring Obi-Wan Kenobi's, and the Jedi books being saved <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>, <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
+
+The critique suggests that while a film can introduce and then reject ideas, the shift should be driven by plot and character development <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>, <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>. Instead, the reversals in *The Last Jedi* felt "perplexing" and arbitrary <a class="yt-timestamp" data-t="00:13:02">[00:13:02]</a>, <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>. The film's ultimate failure, in this view, was in "abrasively subverting everything we love and know about Star Wars just to shrug and revert back to where we started" <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>, <a class="yt-timestamp" data-t="00:14:55">[00:14:55]</a>. This left many fans feeling that the film's attempts at revolution were undone, resulting in disappointment <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>.

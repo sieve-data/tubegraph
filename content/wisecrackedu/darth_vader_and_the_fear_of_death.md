@@ -1,0 +1,60 @@
+---
+title: Darth Vader and the fear of death
+videoId: KJBbzmlSaxU
+---
+
+From: [[wisecrackedu]] <br/> 
+
+Darth Vader, the galaxy's most famous cyborg sorcerer laser-swordsman, is perhaps the most iconic and important villain in cinema history <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. His powerful presence, whether through the seductive voice of James Earl Jones, his sci-fi samurai armor, or his propensity for Force choking, resonates deeply with audiences <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. This resonance stems from [[the_role_of_fear_in_anakins_path_to_the_dark_side | Anakin Skywalker's descent to the dark side]], which powerfully represents an all-consuming [[the_role_of_fear_in_anakins_path_to_the_dark_side | fear of death]] that everyone faces <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. Through Vader, *Star Wars* explores two different [[philosophical_responses_to_death_in_star_wars | philosophical responses to death]] <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+
+## The Genesis of Fear: Anakin's Childhood and Death Denial
+
+The ultimate catalyst for [[anakin_skywalkers_transformation_and_death_denial | Anakin Skywalker's transformation]] into Darth Vader is [[the_role_of_fear_in_anakins_path_to_the_dark_side | fear]], specifically the [[the_role_of_fear_in_anakins_path_to_the_dark_side | fear of death]] <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. Cultural anthropologist Ernest Becker, in his 1973 book *The Denial of Death*, posits that nearly all human actions are a means of managing the [[the_role_of_fear_in_anakins_path_to_the_dark_side | fear of our own demise]] and the demise of those around us <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. This anxiety, termed [[anakin_skywalkers_transformation_and_death_denial | death denial]], is overtly present in Darth Vader and has roots in his childhood <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+
+Anakin Skywalker is introduced as an implausibly wise and articulate nine-year-old boy genius with superhuman piloting skills, the product of a virgin birth, and believed to be a messianic figure <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. Despite being objectively more powerful than anyone else due to his exceptionally high midichlorian concentration, even young Anakin is terrified of death <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. His distress over his mother's mortality becomes a haunting fixation as he ages <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
+
+### Jedi Concerns and the Age of Training
+
+Yoda recognizes early on that Anakin's [[the_role_of_fear_in_anakins_path_to_the_dark_side | fear]] will be a problem <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. The Jedi's hesitation to train Anakin due to his age, though not explicitly explained in canon, is implicitly linked to concerns about [[anakin_skywalkers_transformation_and_death_denial | death denial]] <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. Psychologist James A. Graham notes that children begin to understand death as permanent between ages 5-9 but often only as something that happens to older people <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>. It's around age 10 that children grasp the universality of death <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>. At nine years old, Anakin is on the cusp of understanding his own mortality, making him more susceptible to [[anakin_skywalkers_transformation_and_death_denial | death denial]] <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+
+### Death Denial and Violence
+
+Becker argues that human violence is a natural response to [[anakin_skywalkers_transformation_and_death_denial | death denial]] <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. "Only scapegoats can relieve one of his own stark death fear," he writes, suggesting that inflicting death provides a sense of control over it <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. For Anakin, this leads directly to the Dark Side <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. An original script for *Episode I* foreshadows Anakin's arc: "Fear attracts the fearful. He was trying to overcome his fear by squashing you. Be less afraid" <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. This indicates Anakin's attempt to "squash" death and gain control over it rather than confronting his [[the_role_of_fear_in_anakins_path_to_the_dark_side | fear]] <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
+
+When Anakin's mother is mortally wounded by Tusken Raiders, he slaughters the entire village <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. This act of revenge aligns with Becker's view that killing others creates the illusion of controlling death, thereby assuaging [[the_role_of_fear_in_anakins_path_to_the_dark_side | fear]] <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. The more Anakin kills, the more he feels a sense of ownership over death <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>.
+
+## Competing Ideologies: Jedi vs. Sith on Mortality
+
+After his mother's death, Anakin's anxiety dreams return, now centered on Padmé dying in childbirth <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. At this critical juncture, Anakin is presented with a choice on how to deal with death: the [[sith_versus_jedi_approach_to_mortality | Sith way]] or the [[sith_versus_jedi_approach_to_mortality | Jedi way]] <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+
+### The Jedi Way: Non-Attachment and Faith
+
+When Anakin consults Yoda, the Jedi Master advises him to "Train yourself to let go of everything you [[the_role_of_fear_in_anakins_path_to_the_dark_side | fear]] to lose" <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>. This advice echoes Buddhist philosophy, specifically the concept of *jaramarana*—the desire to escape old age and death—as a dangerous human impulse <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. Nonattachment, or letting go of desires, is presented as the only way to overcome it <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. Yoda embodies this principle, remaining serene in the face of his own death <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
+
+Becker would categorize Yoda as a "knight of faith," a term borrowed from Soren Kierkegaard <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. Authentic faith in something greater than death can manage terror <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>. For Yoda, this nonattachment is grounded in his faith in the light side of the Force, accepting death as a natural part of life and a transformation into the Force <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>.
+
+### The Sith Way: Embracing Desire and Control
+
+Lacking Yoda's faith, Anakin turns to Palpatine <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>. The [[sith_versus_jedi_approach_to_mortality | Sith approach]] is to embrace desires, particularly the desire to prevent Padmé's death—a clear manifestation of [[anakin_skywalkers_transformation_and_death_denial | death denial]] <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>. Palpatine tempts Anakin with the legend of Darth Plagueis the Wise, suggesting the dark side's power to defeat death <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+
+## Anakin's Downfall and the "Terminal Point" of Death Denial
+
+Anakin chooses the Sith path, becoming a Sith Lord on the condition that he can save Padmé's life <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. He sacrifices his identity, loyalty to the Jedi, and conscience to learn how to protect her from death <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. This refusal to accept death sets him on a dark trajectory, leading him to kill children, his wife, and attempt to kill his mentor <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+
+Becker describes this as the "terminal point of death denial": "the person seeks to avoid death, but he does it by killing off so much of himself and so large a spectrum of his action-world that he is actually isolating and diminishing himself and becomes as though dead" <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. Darth Vader, left with no one to protect from death, becomes a mere instrument of power, a "zombie trapped in a machine" <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>.
+
+## Transcending Death: Obi-Wan's Sacrifice and Force Ghosts
+
+Obi-Wan Kenobi's actions in *Episode IV* can be understood as the Jedi Order's way of confronting Anakin's ill-fated choice to deny death <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>. In their duel on the Death Star, Kenobi appears not to be trying to kill Vader but instead offers himself as a sacrifice, stating, "If you strike me down, I shall become more powerful than you could possibly imagine" <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>. Kenobi's willingness to embrace death provides an alternative to Vader's [[anakin_skywalkers_transformation_and_death_denial | death denial]] <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>.
+
+The Jedi's path to immortality, as revealed at the end of *Revenge of the Sith* through Qui-Gon Jinn, is not about conquering death in the traditional sense, but rather transcending it <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>. Jedi like Kenobi and Yoda, though technically dead, can interact with living Jedi as blue glowing Force ghost entities <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>. Even Anakin joins them after his redemption <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+
+## Luke Skywalker: Acceptance vs. Denial
+
+The contrast between [[anakin_skywalkers_transformation_and_death_denial | death denial]] and death acceptance is further highlighted by Anakin and Luke's confrontations with death <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>. Anakin's most telling encounters involved indiscriminately killing the Tusken Raiders and, ultimately, causing Padmé's death in his rage <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. In contrast, Luke is willing to sacrifice his own life to avoid turning to the dark side and refuses Darth Sidious's command to kill Vader <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>. This willingness to accept death truly separates a Jedi from a Sith <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>. It is only when Anakin follows his son's example, renouncing his own life, that he embraces the reality of death and conquers *jaramarana* <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>.
+
+## Conclusion: The Choice of Acceptance
+
+The story of [[anakin_skywalkers_transformation_and_death_denial | Anakin Skywalker's transformation]] into Darth Vader serves as a powerful allegory for the human struggle with *jaramarana* <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>. The [[anakin_skywalkers_transformation_and_death_denial | denial of death]] can corrode personalities, strip values, and drive individuals to terrible acts, leading to violence, conquest, and control <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>. Both in *Star Wars* and the real world, "Evil Empires" owe their existence to this inability to accept mortality <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>.
+
+However, regardless of how deeply one is invested in [[anakin_skywalkers_transformation_and_death_denial | death denial]], accepting the reality of death can foster dignity, courage, and compassion <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>. Just as it was not too late for Darth Vader, it is never too late for anyone to come to terms with mortality, or risk succumbing to the Dark Side <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.

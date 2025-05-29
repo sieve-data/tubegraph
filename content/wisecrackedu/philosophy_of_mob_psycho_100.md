@@ -1,0 +1,66 @@
+---
+title: Philosophy of Mob Psycho 100
+videoId: X6-trQYG2XA
+---
+
+From: [[wisecrackedu]] <br/> 
+
+*Mob Psycho 100*, created by ONE, the Japanese manga artist behind *One-Punch Man*, explores the meaning of a fulfilling life through the unique challenges faced by an overpowered protagonist <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. Unlike Saitama from [[comparison_between_mob_psycho_100_and_one_punch_man | One Punch Man]], Shigeo Kageyama (Mob) manages to find peace and satisfaction despite his abilities <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## Mob's Dilemma
+
+Mob is a middle schooler with near-godlike psychic powers <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. He works for Reigen Arataka, a con man who poses as a powerful psychic <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. From the outset, Reigen instructs Mob never to misuse his powers against other humans, warning that such misuse would destroy him <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. Mob strives to live a normal life, repressing the rage that fuels his powers, which occasionally escape his control <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. When confronted by other superpowered individuals, or 'espers', Mob is torn between defending his loved ones and upholding his promise not to harm others <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
+
+His reluctance to use his powers seems unusual, as psychic abilities typically appear advantageous <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. Teru, a rival psychic, uses his powers to gain attention, respect, and power, seemingly possessing everything a teenager could desire <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. Similarly, Dimple, a power-hungry ghost, bluntly states that Teru has "put his psychic powers to good life and live a fulfilling life" <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+
+## The Egocentric Esper Trap
+
+Most espers in the show are profoundly egocentric, perceiving themselves as "main characters" of an unfolding story rather than ordinary people with limitations <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>. However, Mob doesn't desire Teru's superficially perfect life; he prefers to earn a more fulfilling existence <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. He believes an easy life based solely on innate gifts would be "pointless," as the things he truly wants, like muscles, understanding girls, or reading social cues, require effort <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>.
+
+## Edmund Burke and The Sublime
+
+Mob, influenced by Reigen, believes that accepting or realizing limitations can positively impact one's life <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. This perspective aligns with Irish philosopher Edmund Burke's concept of "the sublime" <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>.
+
+>[!quote] The Sublime
+>The sublime is the feeling of experiencing oneself as infinitesimally small when confronted by vast, uncontrollable forces <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. It suspends or destroys egocentricity through a display of power or grandeur that overwhelms one's own capabilities <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. Examples include viewing a mountain range, staring into deep space, or sailing through a thunderstorm <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+
+Burke considered such experiences vital for a healthy life, as they compel individuals to activate mental and spiritual capacities that remind them they are not the center of the universe <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. Avoiding challenging scenarios that enable the sublime can lead to an unhealthy state <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>. The sublime "exercises" parts of the mind and body, particularly those that tense in response to fear, which are crucial for well-being <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
+
+>[!quote] Edmund Burke on Labour and Melancholy
+>“Labour [is] a thing absolutely requisite to make us pass our lives with tolerable satisfaction [...] Melancholy, dejection, despair, and often self-murder, is the consequence of the gloomy view we take of things in this relaxed state of body” <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
+
+In essence, becoming too "relaxed" about one's place in the universe can lead to profound unhappiness <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>.
+
+## Espers' Flawed Philosophy
+
+Most espers in *Mob Psycho 100* fall into this trap <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>. Like the "Paradisers" in [[comparison_between_mob_psycho_100_and_one_punch_man | One Punch Man]], Teru and the leaders of Claw harbor a massive sense of entitlement <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. This entitlement, rather than bringing happiness, leaves them miserable when reality doesn't meet their inflated expectations <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. They believe they are "gifts" the planet should worship <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
+
+Mob, however, recognizes that these espers lack substance beyond their powers <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>: "If you take away your psychic powers, there’ll be nothing left. You’ll be empty" <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>. Their identity and worth are tied to their powers, making them highly fragile to any perceived attack on their self-image <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>. Teru's frustration with Mob for not fighting back reveals this fragility; he perceives Mob's refusal as an assault on his self-perception as a worthy opponent <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. Mob points out that Teru, like himself, lacks self-confidence <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>.
+
+The espers' abilities, like Saitama's strength, are a double-edged sword <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. Unchecked, they foster a belief of inherent superiority and entitlement, leading to deep dissatisfaction regardless of power or status <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>. They require a "reality check," a reminder of their shared humanity and limitations—an overwhelming experience of the sublime <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>.
+
+Burke believed that the sublime, while terrifying, was ultimately pleasant because it healthily exercised the mind, body, and spirit <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>. A mind that never confronts its insignificance becomes weak, just as a body does without exercise, leading to "Melancholy, dejection, despair" <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>. He argues that "The best remedy for all these evils is to exercise or labour; and labour is a surmounting of difficulties" <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+
+## Mob's Path to Fulfillment
+
+Unlike the deluded espers, Mob actively seeks the "difficult labour" of integrating himself into society rather than trying to transcend it <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. He finds allies in the Body Improvement Club, whose members, like Burke, see "surmounting of difficulties" as key to a fulfilling life <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. They choose to strengthen their weaknesses rather than relying solely on innate strengths <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>. The other espers, in contrast, avoid difficulties by using their powers to gain social status and maintain a false self-worth <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>.
+
+## Transformation Through The Sublime
+
+Espers must be "shaken and worked" by external forces to find true fulfillment <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>. Teru serves as a prime example: when Mob defeats him, Teru is overwhelmed, experiencing terror—a key component of the sublime <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. For the first time, he feels utter helplessness and fear of death as Mob's powers strip him naked and hoist him into the sky <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>.
+
+After pleading for Mob to stop, Teru is cast into the sky, experiencing a serene moment of reflection where he is dwarfed by clouds and an endless vista <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>. This imagery evokes classical Romantic art, which was influenced by Burke and depicted small human subjects facing overwhelming natural forces <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. The realization of his insignificance brings Teru genuine peace: "Oh. I guess...I’m just an average person after all..." <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
+
+Reigen similarly exposes the remaining "Scars" to the sublime, crushing their delusions of grandeur through a combination of Mob's transferred powers and his own sharp rhetoric <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>. He reminds them that even with powers, they are "nothing more than a commoner" <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>. By showing them proof of their utter insignificance, Reigen provides them a taste of the sublime, guiding them toward a healthier, more mature mindset <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>. For the espers, freedom comes from realizing their humanity—their smallness and vulnerability, like everyone else <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>. As the theme song suggests, "If everyone is not special," then "Maybe you can be what you want to be..." <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>.
+
+## Mob's Unique Challenge
+
+While average espers like Teru benefit from this realization, Mob, being closer to a godlike entity, faces a unique challenge in connecting with reality <a class="yt-timestamp" data-t="00:10:51">[00:10:51]</a>. He has an advantage in that he genuinely desires to be a normal person <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>. He actively tries to improve his physical and social skills by joining the Body Improvement Club and admires his brother Ritsu for his accomplishments without psychic powers <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
+
+However, Mob cannot achieve this normalcy alone <a class="yt-timestamp" data-t="00:11:33">[00:11:33]</a>. He suffers from a less malicious, but still problematic, delusional self-image <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>. As a 14-year-old, he wrongly believes he must maintain total control over his world and is profoundly responsible for everything that occurs during his unconscious psychic episodes <a class="yt-timestamp" data-t="00:11:40">[00:11:40]</a>. This leads him to repress his emotions, fearing his rage will overwhelm him <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>. Ironically, this repression gives him *less* control over his explosions, making the burden of responsibility incredibly painful <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>. His emotional turmoil is described as powerlessness born from contradictions, a "meager attempt at resistance towards himself" <a class="yt-timestamp" data-t="00:12:22">[00:12:22]</a>.
+
+Mob's delusion is a benevolent version of other espers' greedy desire for godhood: he clings to the image of himself as the primary "mover and shaker" responsible for everything <a class="yt-timestamp" data-t="00:12:41">[00:12:41]</a>. It takes Reigen, an adult Mob respects, to remind him that he is just a kid and doesn't always have to bear the world's weight <a class="yt-timestamp" data-t="00:13:02">[00:13:02]</a>: "When things go south, it’s okay to run away" <a class="yt-timestamp" data-t="00:13:18">[00:13:18]</a>. This idea shocks Mob into an experience of the sublime—a moment of "astonishment" as Burke would describe it <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>. It allows him to feel his own insignificance and temporarily transfer his powers to Reigen <a class="yt-timestamp" data-t="00:13:33">[00:13:33]</a>. Through this, Mob finally reconciles with his abilities and can focus on living a good life <a class="yt-timestamp" data-t="00:13:39">[00:13:39]</a>.
+
+## Conclusion
+
+Both [[comparison_between_mob_psycho_100_and_one_punch_man | One Punch Man]] and *Mob Psycho 100*, creations of ONE, compel audiences to consider what constitutes a good life <a class="yt-timestamp" data-t="00:13:55">[00:13:55]</a>. The struggles of Saitama and Mob with their immense powers reveal that a fulfilling existence isn't simply about having whatever one desires <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>. In the "ONE-iverse," happiness stems from deliberate struggle and personal growth <a class="yt-timestamp" data-t="00:14:17">[00:14:17]</a>.

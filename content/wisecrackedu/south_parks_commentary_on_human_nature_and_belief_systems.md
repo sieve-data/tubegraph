@@ -1,0 +1,62 @@
+---
+title: South Parks commentary on human nature and belief systems
+videoId: z9OcG5A788Q
+---
+
+From: [[wisecrackedu]] <br/> 
+
+South Park is widely associated with the word [[irreverence_and_sacredness_in_south_park | "irreverent"]] <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, with critics often using this term to describe the show <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. In the world depicted by South Park, "nothing is sacred" <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. While the term is often used generally, there's a particular quality to how the show engages with [[south_parks_treatment_of_religion | religion]] <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. Through its [[religious_themes_and_criticism_in_south_park_episodes | religious themes and criticism]] <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>, the series prompts viewers to examine what [[south_parks_treatment_of_religion | religion]] truly signifies to them <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>, daring to ask questions that other shows might avoid <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+
+## Part 1: Are You There God (It's Me: Jesus)
+
+Even before the formal inception of *South Park*, creators Matt Stone and Trey Parker released holiday specials featuring Jesus <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. A consistent theme emerging from these early works and the series itself is that what seems ordinary can be highly significant, while things seemingly profound can be trivial <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. For instance, the boys in South Park aren't awe-struck when meeting Jesus, but they argue over who plays him in an Easter play <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>, suggesting that the profound and ordinary coexist in the same "soup" <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+
+Instances of this blurred distinction include:
+*   When meeting God in season three, Stan asks about periods <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
+*   The meaning of life is revealed to be Earth as an intergalactic "Truman Show-style reality series" <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
+*   Jesus struggles to get viewers for his public-access talk show <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
+*   Satan is portrayed as a serial monogamist perpetually returning to Saddam Hussein <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>.
+
+[[south_parks_treatment_of_religion | Religion]] in South Park primarily gains importance when it is manipulated for personal gain <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. Eric Cartman is presented as the master of this manipulation <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>, openly stating, "I know enough to exploit it" <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>. His exploits include:
+*   Becoming a tent revival preacher for wealth <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
+*   Achieving success in Christian music by converting secular pop songs <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+*   Forming a fan club around Mel Gibson's *The Passion of the Christ* to lead a "Fourth Reich" <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>.
+*   Painting a cow to resemble a red heifer to mess with Kyle, accidentally bringing about world peace <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+
+While some might conclude that South Park suggests [[south_parks_treatment_of_religion | religion]] is inherently ridiculous <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>, creators Matt Stone and Trey Parker largely disagree <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. Matt Stone notes that despite making fun of everything, neither he nor Parker are "anti-religious at all," expressing fascination with [[south_parks_treatment_of_religion | religion]] <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+
+### Denying the Sacred/Profane Distinction
+
+South Park's perceived anti-religious stance by some stems from its refusal to treat [[south_parks_treatment_of_religion | religion]] as a "sacred subject" <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. This contrasts with Western spiritual traditions, where honoring the sacred is paramount <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>. As French philosopher Émile Durkheim outlined in *The Elementary Forms of Religious Life*, Western religions categorize the world into the sacred and the profane, with the sacred always taken seriously due to its cosmic significance <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. Durkheim described this division as profoundly differentiated and radically opposed <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>.
+
+South Park fundamentally denies the legitimacy of this distinction <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>. An example is the season six episode "Red Hot Catholic Love," where Father Maxie discovers the Catholic Church is an intergalactic coalition ruled by a sentient giant spider that condones pedophilia <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. His act of tearing a "sacred Vatican Document" is a metaphor for the molestation scandal, suggesting that the church could only evolve once it was no longer too sacred to investigate <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
+
+A recurring theme is that "sometimes the only way you can save something you’ve made sacred is by desecrating it" <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>. This is exemplified in the *South Park* movie, where Cartman and Kenny save the world through cursing out Saddam Hussein and making a deal with the Devil, respectively <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>.
+
+### The Myth of Redemptive Violence
+
+[[cultural_and_social_critiques_in_south_park | South Park]] also questions our concept of the sacred <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>. Despite Jesus literally walking the Earth, he often goes unnoticed <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>, with his talk show routinely beaten in ratings by "Jimbo and Ned’s series, Huntin’ and Killin’" <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. Yet, if he fights—something he typically avoids—he suddenly becomes "their Lord" <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>.
+
+South Park's Jesus appears familiar with what American theologian Walter Wink termed "the myth of redemptive violence" <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>. According to Wink, our sense of the sacred, tracing back to ancient Babylonian mythology, arises from the desire to see good triumph over evil through combat <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>. Wink states, "This myth of redemptive violence is the real myth of the modern world. It, and not Judaism or Christianity or Islam, is the dominant [[south_parks_treatment_of_religion | religion]] in our society today" <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>. Jesus in the show fights because he recognizes that the myth projected onto him by his followers is more important than what he can offer <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+
+## Part 2: A Scause For Applause
+
+Beyond its casual attitude towards the sacred, [[south_parks_treatment_of_religion | South Park]] suggests that one doesn't need to be religious to be narrow-minded <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>. Nearly every episode features a character who is self-righteous about something <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. Stan's season sixteen arc as a "self-promotional activist" is a prime example <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>. Stan enjoys being treated with reverence as a hero <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>, but when his cause ceases to make him popular, he moves on <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>. This contrasts with Wendy Testaburger, who has deeper motivations and self-respect, indifferent to whether her opinions make her popular <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+
+### Human Nature and Its Inevitable Absurdity
+
+[[cultural_and_social_critiques_in_south_park | South Park]] posits that movements driven by individuals seeking to be taken seriously are prone to derailment <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>. This applies equally to movements like New Atheism <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>. In the "Go God Go" two-part episode, Cartman finds himself in the 26th century, where militant atheist factions are engaged in lethal conflicts over "branding disputes" <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>. The core message is that "Human beings are violent and irrational, and getting rid of [[south_parks_treatment_of_religion | religion]] isn't gonna change" this <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
+
+The show's creators differ from the New Atheist movement on a "chicken-or-egg" question: Is [[south_parks_treatment_of_religion | religion]] ridiculous because people are, or vice-versa? <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a> Stone and Parker subscribe to the latter view <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>.
+
+> [!quote] The Problem with Certainty
+> In *Pythagoras’ Trousers*, science historian Margaret Wertheim argues that Western scientific models of the universe often resemble [[south_parks_treatment_of_religion | religious]] ones due to a "hypermasculine drive for certainty and finality" <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. Insisting on absolute certainty about the universe's origins without sufficient evidence is akin to navigating without directions <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>. Wertheim, much like Stone and Parker, suggests that this "refusal to accept ambiguity" can render our answers to fundamental questions absurd <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>.
+
+Stone and Parker are not interested in dictating whether individuals should be [[south_parks_treatment_of_religion | religious]] <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>. Matt Stone rhetorically asked in 2011 if a "mass delusion of a [[south_parks_treatment_of_religion | religion]] makes you happy, makes your family work better, is that bad or good?" <a class="yt-timestamp" data-t="00:11:33">[00:11:33]</a> The series itself has made this argument twice, notably in "Red Hot Catholic Love" and "All About Mormons" <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>. In the latter, after much ridicule, the new kid Gary's "disconcertingly upbeat family life and unfamiliar [[south_parks_treatment_of_religion | religious]] beliefs" are defended as sensible <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>.
+
+This perspective echoes American philosopher William James's *Pragmatism* (1907):
+> "When a play is once over, and the curtain drawn, you really make it no better by claiming an illustrious genius for its author, just as you make it no worse by calling him a common hack" <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
+
+Essentially, regardless of whether life was divinely created, it remains life <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>. Most series dealing with [[south_parks_treatment_of_religion | religion]] offer an "escape route"—an ideology to avoid appearing ridiculous <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>. What distinguishes [[analysis_of_south_parks_approach_to_satire_and_internet_culture | South Park]] is its fundamental philosophy that being human is "inevitably ridiculous," and this fate cannot be avoided <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. The show suggests that regardless of one's chosen [[south_parks_treatment_of_religion | religion]] or philosophy, one will appear silly by taking themselves too seriously <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>.
+
+The ultimate question posed by [[social_satire_in_south_park | South Park]] is not whether one's belief system is a joke, but whether one is aware of it <a class="yt-timestamp" data-t="00:13:19">[00:13:19]</a>.

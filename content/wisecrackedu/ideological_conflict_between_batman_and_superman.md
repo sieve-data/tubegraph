@@ -1,0 +1,56 @@
+---
+title: Ideological conflict between Batman and Superman
+videoId: 467ehoaGDaE
+---
+
+From: [[wisecrackedu]] <br/> 
+
+*Batman v Superman: Dawn of Justice* is identified as the "punching bag of the DC Universe" <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>, often criticized for its slow plotting and franchise plugging <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. This article focuses on its [[batman_v_superman_ideological_failings | ideological failings]] <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>, particularly concerning the intended rivalry between its two titular heroes.
+
+## The Challenge of Superman's Characterization
+
+One of the significant challenges for the architects of the DCEU was making [[supermans_characterization_in_batman_v_superman | Superman a relatable character]] <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. It's difficult to identify with an "indestructible, self-less, god-like figure" <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. The filmmakers' solution was to emphasize his vulnerabilities, flaws, and doubts, drawing a parallel to *The Last Temptation of Christ* <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. This approach aimed to make him "more HUMAN" <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a> by showing his internal struggle between being a benevolent savior and focusing on personal matters, namely Lois Lane <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
+
+However, this characterization "botches a fundamental part of having a movie about the rivalry between Batman and Superman" <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>: having them embody different ideologies <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+
+## Frank Miller's *The Dark Knight Returns* and Ayn Rand
+
+*Batman v Superman* draws heavily from Frank Miller's graphic novel *The Dark Knight Returns* <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. The film takes many cues, including an older, broken Bruce Wayne, Superman's encounter with a nuclear warhead, Robin's memorialized costume, and even the central fight between the two heroes <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+
+Beneath the surface of *The Dark Knight Returns*, and influencing *Batman v Superman*, lies an unlikely inspiration: [[ayn_rands_philosophy_in_superhero_narratives | Ayn Rand]]'s *The Fountainhead* <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. While Zack Snyder has expressed interest in adapting *The Fountainhead* for years <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>, Frank Miller explicitly cites Rand as a major influence on his work <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+
+### Ayn Rand's "Ideal Man" and Objectivism
+
+Miller and Snyder appear drawn to Rand's depiction of male heroes <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. In *The Fountainhead*, the protagonist Howard Roark embodies Rand's "IDEAL man" <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>: someone who achieves his goals and never compromises his integrity, even if it leads to conflict <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>. This "Randian hero" is defined by "ethical egoism" <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>, the belief that the best course of action is always what's in one's best interest, as self-interest is key to happiness <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>. This concept is a central tenet of [[ayn_rands_philosophy_in_superhero_narratives | Ayn Rand]]'s philosophy, Objectivism <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>. For Rand, a male hero must be a "radical individualist, unwilling to bend, smarter than everyone else" <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+
+This description fits Miller's Batman perfectly <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. He is a "super rich, handsome playboy with a genius intellect who refuses to bend to anyone’s will but his own" <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. Batman's adherence to [[ayn_rands_philosophy_in_superhero_narratives | Randian egoism]] enables the ideological conflict with Superman: "individualism over collectivism" <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
+
+In Miller's work, Batman faces "constant obstruction from the US Government" <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>, who task Superman to stop him <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. Superman is depicted as the "anti-Rand figure" <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>, whose self-sacrificing moral righteousness marks him as a "Government Stooge" <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. The drama in Miller's graphic novel stems from these differing ideologies: the [[ayn_rands_philosophy_in_superhero_narratives | individualism]] of Batman versus the [[ayn_rands_philosophy_in_superhero_narratives | conformism]] of Superman <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
+
+## *Batman v Superman*: Muddled Ideologies
+
+While Frank Miller successfully instilled the spirit of Rand's theories to create a compelling conflict <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>, *Batman v Superman*'s integration of this philosophy is where it "goes wrong" <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>.
+
+### Batman's Consistent Randian Portrayal
+
+*Batman v Superman*'s depiction of Batman, portrayed by Ben Affleck, aligns well with Miller's Randian take <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>. He is characterized as handsome, supernaturally athletic, smarter than everyone else, and a "complete individualist" <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>, refusing to bend his will to anyone, even the judicial process <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. His desire to fight Superman is also seen through a Randian lens: a God-like figure would undermine ethical egoism, as one cannot make choices based on pure rationality if something objectively greater exists <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
+
+### Superman's Ambiguous Characterization
+
+The film's portrayal of [[supermans_characterization_in_batman_v_superman | Superman]] is where the ideology becomes muddled <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>. The filmmakers avoided creating a purely benevolent, do-gooder Superman to make him more relatable <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. However, they also chose not to make him the "collectivist stooge" Miller depicted, as the audience is meant to like him <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a> for future *Justice League* films <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>.
+
+Unlike Christopher Reeve's iconic Superman, who acts out of selfless goodness <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>, the Superman of *BvS* appears "stuck performing the most tiresome 9-5 job imaginable" <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>. The film consistently undercuts his perception as a benevolent, Christ-like hero <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>, with Batman even telling him, "You were never a god, you were never even a man" <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
+
+Superman's crisis manifests as two warring identities: "Superman 'The God' benevolent & Christopher Reeves-like and Superman 'The Man' -- which for Snyder means a Randian Objectivist" <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. This is exemplified when he saves Lois Lane but leaves other innocents to die in the Middle East <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>.
+
+His mother, Martha Kent, states that there's "no difference between choosing to be a Benevolent Messiah or a Self Involved Objectivist" <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>, emphasizing that it's "Clark’s choice to make - and this rational choice is what marks a Randian hero" <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. The ghost of Jonathan Kent further dismisses selfless heroism by revealing a past incident where his attempt to save his own farm from a flood inadvertently flooded another <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>, suggesting that "true moral righteousness comes from bettering yourself, pursuing your own self-interest, and protecting the ones you love" <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>—ethical egoism in a nutshell <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>.
+
+Ultimately, Superman "doesn’t really make a choice at all" <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. He seems to embrace Objectivism by focusing on Lois and Martha <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>, yet five seconds later, he sacrifices himself in a "most Messianic fashion possible - Christ-like with his arms spread out" <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>.
+
+## Lack of Ideological Conflict
+
+Superman's ambiguous philosophy becomes problematic because *Batman v Superman* is framed as an [[thematic_discussions_in_dc_universe_films | ideological conflict between Batman & Superman]], yet none actually exists <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>. Initially, their differing beliefs are hinted at: Bruce distrusts Superman as a "superhuman benevolent savior" <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>, having seen the best turn bad <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a> ("I just have a bad history with freaks dressed like clowns" <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>), while Clark views Batman as a vigilante trampling civil liberties <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
+
+However, the film "immediately upends" this dynamic <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a> when the world turns against Superman because he acts on his own accord, much like Batman <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>. By using Objectivism to make Superman more relatable, the film inadvertently eliminates almost any ideological difference between the two heroes <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>.
+
+Instead of a conflict based on differing ideals as seen in its source material <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>, *BvS* becomes a "Randian Hero vs. A Maybe Sort-of Randian Hero who can’t decide if he wants to be the divine savior the world wants him to be" <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>. The film presents "no preference of heroics" <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>, instead conveying the message that "MORE HEROS" <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a> are needed to form the Justice League <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. This approach makes the film's philosophical stance "muddled" and "a mess" <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>.

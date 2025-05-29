@@ -1,0 +1,36 @@
+---
+title: Symbolism and references in The Matrix Reloaded
+videoId: TROA_0RxZmM
+---
+
+From: [[wisecrackedu]] <br/> 
+
+[[philosophical_themes_in_the_matrix_reloaded | *The Matrix Reloaded*]], released in Summer 2003, faced the challenge of continuing a story where the protagonist, Neo, had already achieved an almost omnipotent status, becoming "Master of Two Worlds" <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>, akin to Superman <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. The film attempts to address this by recontextualizing the nature of Neo's powers and the prophecy itself <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+## Narrative Structure and Challenges
+
+The original [[philosophical_themes_and_allegories_in_the_matrix | *Matrix*]] was lauded for coupling deep [[philosophical_themes_and_allegories_in_the_matrix | philosophical themes]] with a tight narrative structure, heavily influenced by Joseph Campbell’s idea of the Monomyth or the Hero's Journey <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. Campbell describes this journey in *The Hero with a Thousand Faces* as having three phases: “separation from the world, a penetration to some source of power, and a life-enhancing return” <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. Dan Harmon, a writer for *Rick and Morty*, notes that this model is "hardwired into [our] nervous system" <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. The problem for *The Matrix Reloaded* was where to go once this cycle was complete <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>, as Neo had already become all-powerful <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+
+## The Prophecy as a Form of Control
+
+The central plot of [[philosophical_themes_in_the_matrix_reloaded | *The Matrix Reloaded*]] reveals that the prophecy is not a path to transcendence but another form of control <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. Neo's powers are not evidence of him breaking free, but rather an intrinsic part of the system itself <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>. He is playing a predetermined role within a larger system <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>. The Architect cryptically states: "You are the eventuality of an anomaly, that despite my sincerest efforts, I have been unable to eliminate from what is otherwise a harmony of mathematical precision. While it remains a burden assiduously avoided, it is not unexpected and thus, not beyond a measure of control" <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
+
+## Determinism
+
+[[philosophical_themes_in_the_matrix_reloaded | *The Matrix Reloaded*]] heavily explores the [[philosophical_themes_in_the_matrix_trilogy | philosophical theme]] of determinism <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>, which posits that every future moment is dictated by a past moment through cause and effect <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. The film's narrative design emphasizes this:
+*   **Opening Scene** The film's opening scene, a dream Neo has of Trinity being shot, is actually from the film’s closing moments, indicating the ending is already cemented <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+*   **Cycles of the Matrix** The Matrix has restarted six times prior to the events of the film, suggesting that the entire world is literally stuck in a loop <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>.
+*   **Symbolic Imagery**
+    *   The punch clock in the guards’ office strikes midnight, symbolizing the literal completion of a circle and seamless transition <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+    *   The Key Maker states they have exactly 314 seconds for Neo to reach the Architect <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>, a conspicuous amount of time being the first three digits of pi <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. Pi also appears spray-painted on the wall outside the Oracle’s apartment <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>. These images reinforce the idea that Neo is not blazing a new path but "retreading a circle for the 6th time" <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+*   **Lack of Dramatic Action** The film is characterized by a lack of dramatic action <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. Neo's "choices" are presented as illusions, leading to "no dramatic action" <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Instead, the narrative is "bogged down by lengthy, philosophically confused monologues about determinism" <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+    *   For example, after 44 minutes, when Neo finally finds the Oracle and is given his quest, the film "beat[s] the living crap out of us with its weighty, deterministic philosophy" <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>, reminding Neo and the audience that his choice is already made <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
+    *   Agent Smith also delivers a monologue on determinism before attacking Neo, stating Neo is "bound by a larger system of cause and effect" <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
+    *   The Architect explains Neo's role in the prophecy and how he was "specifically designed" to feel love more than his predecessors <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>, emphasizing Neo's predetermined nature even in his most profound emotional connections <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>.
+
+## [[religious_and_symbolic_imagery_in_the_matrix | Religious Symbolism and Literary References]]
+
+[[religious_symbolism_and_christian_imagery_in_the_matrix | Christian imagery]] and [[literary_allusions_and_references_in_the_matrix | literary references]] are also present in [[philosophical_themes_in_the_matrix_reloaded | *The Matrix Reloaded*]]:
+*   **Neo as a Christ Figure** Pilgrims approach Neo asking him to bless their objects "like Jesus" <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>.
+*   **The Merovingian** The character of the Merovingian is a reference to the Merovingian Order of the Holy Grail, which supposedly guarded a book detailing the location of the Holy Grail <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>. In keeping with this [[religious_symbolism_and_christian_imagery_in_the_matrix | Christian symbolism]], the Key Maker is presented as the "book," and the Source is the "Grail" <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. The Merovingian is also involved in a "ridiculous scene" <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a> where he sends a girl a piece of cake designed to make her orgasm <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>.
+*   **Persephone** The Merovingian’s jilted lady friend, Persephone, is described in the script as "sex and death squeezed into a woman’s business suit made of latex" <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>.
