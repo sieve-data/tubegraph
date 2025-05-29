@@ -1,0 +1,37 @@
+---
+title: AIdriven business opportunities and challenges
+videoId: A3AsVAZ7wIs
+---
+
+From: [[gregisenberg]] <br/> 
+
+AI agents like Operator present significant [[challenges_and_opportunities_in_adopting_ai | business opportunities]] by automating tasks that traditionally require human effort or virtual assistants <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>. Chris Corner demonstrated using an AI agent to start a business, message people on Facebook Marketplace, and log replies in a spreadsheet <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
+
+## AIdriven Business Opportunities
+
+### Retail Arbitrage
+One significant opportunity is [[aidriven_scalable_business_models | Retail Arbitrage]], where AI agents can identify undervalued products on one platform (e.g., Facebook Marketplace) and facilitate their sale on another (e.g., eBay) at a fair market price <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>.
+*   **Automated Price Discrepancy Finding:** An AI agent can be prompted to find specific products, like a Gozney pizza oven, on platforms like Facebook Marketplace that are "grossly undervalued" compared to listings on other markets <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>. It can search within a specified radius (e.g., 500 miles of Dallas) and log promising details into a spreadsheet, including title, location, condition, and link <a class="yt-timestamp" data-t="01:54:00">[01:54:00]</a>, <a class="yt-timestamp" data-t="05:38:00">[05:38:00]</a>.
+*   **Automated Offers and Transactions:** The agent can be instructed to make offers (e.g., half price, cash payment) on behalf of the user <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. The vision for a fully automated arbitrage business includes the operator doing eBay pricing research, making offers on undervalued items, and, once accepted, directing the Facebook Marketplace seller to ship directly to the eBay buyer <a class="yt-timestamp" data-t="10:08:00">[10:08:00]</a>.
+*   **Scalability:** This model has the potential to build a "six or seven figure business" not just for pizza ovens, but for "anything undervalued" <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>. It automates tasks previously done by individuals or virtual assistants <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>.
+
+### Automated Research and Outreach
+AI agents can perform extensive research and outreach, saving significant time.
+*   **Collecting Quotes for Services:** For personal tasks, an agent can gather multiple quotes for services like wedding catering, reaching out to caterers on specific platforms (e.g., The Knot.com) to get per-head quotes based on specified criteria <a class="yt-timestamp" data-t="11:56:00">[11:56:00]</a>, <a class="yt-timestamp" data-t="12:26:00">[12:26:00]</a>. This eliminates the need for manual phone calls to hundreds of vendors <a class="yt-timestamp" data-t="12:37:00">[12:37:00]</a>.
+*   **Vendor Sourcing and Sample Requests:** AI can find trending items on e-commerce sites (e.g., AliExpress or Banggood.com) and message multiple vendors to request free samples to be shipped to a specific location <a class="yt-timestamp" data-t="22:12:00">[22:12:00]</a>, <a class="yt-timestamp" data-t="25:11:00">[25:11:00]</a>, <a class="yt-timestamp" data-t="25:50:00">[25:50:50]</a>. This automates a common practice in sourcing products from manufacturers.
+*   **[[aidriven_marketing_strategies | Cold Emailing]]:** If provided with a spreadsheet of emails, first names, and a message, the AI agent can send [[tips_for_effective_aidriven_marketing_strategies | customized cold emails]] <a class="yt-timestamp" data-t="33:47:00">[33:47:00]</a>. It can log into your Gmail account to send these emails <a class="yt-timestamp" data-t="34:09:00">[34:09:00]</a>. This capability can replace dedicated cold emailing software <a class="yt-timestamp" data-t="34:00:00">[34:00:00]</a>.
+
+## Challenges and Limitations of AI Agents
+
+While promising, current AI agents like Operator face several challenges and limitations:
+
+*   **Inconsistency and Bugginess:** The results can be "hit and miss," and the software can be "buggy" <a class="yt-timestamp" data-t="06:48:00">[06:48:00]</a>, <a class="yt-timestamp" data-t="08:20:00">[08:20:00]</a>.
+*   **Prompting Sensitivity:** AI agents require precise and "finesse" prompting to perform desired actions <a class="yt-timestamp" data-t="07:07:00">[07:07:00]</a>, <a class="yt-timestamp" data-t="07:19:00">[07:19:00]</a>. It can be like "crawling, walking, running" with instructions <a class="yt-timestamp" data-t="06:58:00">[06:58:00]</a>. Giving it a specific "goal" or a "number goal" can be an effective way to guide its actions <a class="yt-timestamp" data-t="20:44:00">[20:44:00]</a>.
+*   **Website Accessibility and Navigation Issues:** An AI agent might struggle with specific websites, such as AliExpress, which it deemed "unaccessible" for unknown reasons <a class="yt-timestamp" data-t="22:56:00">[22:56:00]</a>. It might resort to generic search for alternatives <a class="yt-timestamp" data-t="23:52:00">[23:52:00]</a>. Navigating complex or poorly designed user interfaces (e.g., Chinese e-commerce sites) can also be challenging for the AI <a class="yt-timestamp" data-t="31:12:00">[31:12:00]</a>.
+*   **Stubbornness and Refusal to Commands:** The AI agent can reach a "stubborn point" where it refuses certain commands, like adopting a rude tone, moving at a specific speed, or switching languages <a class="yt-timestamp" data-t="21:12:00">[21:12:00]</a>, <a class="yt-timestamp" data-t="21:02:00">[21:02:00]</a>, <a class="yt-timestamp" data-t="21:12:00">[21:12:00]</a>.
+*   **Account Creation and Verification:** While it can attempt to create accounts and generate strong passwords, it may encounter limits or require manual input for verification codes <a class="yt-timestamp" data-t="26:35:00">[26:35:00]</a>, <a class="yt-timestamp" data-t="27:01:00">[27:01:00]</a>.
+*   **Cost vs. Value Perception:** A $200/month subscription plan for an AI agent might seem "overpriced" to those who don't understand how to use it effectively or haven't identified specific [[potential_business_opportunities_with_aidriven_video_creation | business opportunities]] <a class="yt-timestamp" data-t="30:03:00">[30:03:00]</a>, <a class="yt-timestamp" data-t="30:06:00">[30:06:00]</a>.
+
+> "It's literally a robot that is surfing the internet and doing things for you. I think this is one of the greatest Arbitrage moments in business that we've ever seen." <a class="yt-timestamp" data-t="27:59:00">[27:59:00]</a>
+
+Despite these challenges, the ability of AI agents to perform complex tasks by surfing the internet and acting on behalf of users represents a significant advancement <a class="yt-timestamp" data-t="27:59:00">[27:59:00]</a>. Early adoption and continuous experimentation with prompting are crucial for understanding the nuances and maximizing the potential of these tools <a class="yt-timestamp" data-t="30:38:00">[30:38:00]</a>. The future could also see [[challenges_and_opportunities_in_voice_ai_deployment | voice AI deployment]] for even more automated outreach <a class="yt-timestamp" data-t="13:53:00">[13:53:00]</a>.
