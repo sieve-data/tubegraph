@@ -1,0 +1,48 @@
+---
+title: Unified Payments Interface UPI Innovations
+videoId: YqdJSu1DX48
+---
+
+From: [[nikhil.kamath]] <br/> 
+
+The Unified Payments Interface (UPI) is a cornerstone of India's [[digital_public_infrastructure_and_india_stack | Digital Public Infrastructure (DPI)]], designed to facilitate real-time, inter-bank peer-to-peer and person-to-merchant transactions. It was conceived as a "public rail" to enable widespread private innovation <a class="yt-timestamp" data-t="13:17:00">[13:17:00]</a>.
+
+## Origins and Core Purpose
+Nandan Nilekani, a co-founder of Infosys, played a significant role in enabling [[digital_public_infrastructure_and_india_stack | DPI]] elements like [[unique_id_and_aadhaar_project | Aadhaar]] and UPI as part of his public sector work <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>. The UPI was conceived in 2013 <a class="yt-timestamp" data-t="27:35:00">[27:35:00]</a>. Nandan became an advisor to NPCI (National Payments Corporation of India) on innovation and public policy in 2015 <a class="yt-timestamp" data-t="27:40:00">[27:40:00]</a>. NPCI, described as an "amazing organization" that runs India's payment systems, built UPI <a class="yt-timestamp" data-t="22:50:00">[22:50:00]</a>. Key architects included Dilip Asbe, Pramod Varma, and others <a class="yt-timestamp" data-t="27:55:00">[27:55:00]</a>. It was designed to be a "very high volume, very low-cost, highly scalable payment infrastructure" <a class="yt-timestamp" data-t="28:05:00">[28:05:00]</a>.
+
+Before UPI, there was no straightforward way for two individuals to make a payment to each other directly through their phones <a class="yt-timestamp" data-t="27:10:00">[27:10:00]</a>. Traditional net banking required a more cumbersome process <a class="yt-timestamp" data-t="27:24:00">[27:24:00]</a>. UPI revolutionized this by making sending money as easy as sending an email or a WhatsApp message <a class="yt-timestamp" data-t="28:10:00">[28:10:00]</a>.
+
+## A Pivotal Year: 2016
+The year 2016 was "remarkable for India's [[digital_id_development | digital transformation]]" <a class="yt-timestamp" data-t="20:48:00">[20:48:00]</a>, significantly impacting UPI's growth:
+*   **April 4, 2016**: India reached 1 billion [[unique_id_and_aadhaar_project | Aadhaar]] enrollments <a class="yt-timestamp" data-t="20:55:00">[20:55:00]</a>.
+*   **April 11, 2016**: UPI was officially launched <a class="yt-timestamp" data-t="21:05:00">[21:05:00]</a>.
+*   **September 5, 2016**: Reliance Jio was launched, transforming India's mobile industry with low-cost data and free voice calls. This led to a boom in smartphone adoption and data usage, moving India from a "voice economy" to a data-driven one <a class="yt-timestamp" data-t="21:16:00">[21:16:00]</a>, <a class="yt-timestamp" data-t="21:42:00">[21:42:00]</a>.
+*   **November 8, 2016**: Demonetization occurred, providing an initial boost to digital payments as cash availability was limited <a class="yt-timestamp" data-t="21:25:00">[21:25:00]</a>, <a class="yt-timestamp" data-t="28:53:00">[28:53:00]</a>.
+*   **December 29, 2016**: The Prime Minister launched the BHIM application <a class="yt-timestamp" data-t="21:30:00">[21:30:00]</a>. BHIM (Bharat Interface for Money) was NPCI's consumer app that provided the first exposure to a mobile payment app for many, paving the way for other players like Google Pay, PhonePe, and Paytm <a class="yt-timestamp" data-t="22:38:00">[22:38:00]</a>.
+
+The COVID-19 pandemic also served as a tailwind for UPI adoption, as people preferred cashless transactions via QR codes to avoid physical contact with money <a class="yt-timestamp" data-t="29:03:00">[29:03:00]</a>.
+
+## Technological Innovation: The Protocol Concept
+UPI is a "protocol" – a standardized way of describing the exchange of a payment transaction <a class="yt-timestamp" data-t="23:36:00">[23:36:00]</a>. Similar to how TCP/IP defines data movement on the internet <a class="yt-timestamp" data-t="24:18:00">[24:18:00]</a>, UPI defines how payment values move within a payment network <a class="yt-timestamp" data-t="24:27:00">[24:27:00]</a>. This enables "dissimilar organizations" such as different banks and mobile apps to communicate and facilitate real-time payments <a class="yt-timestamp" data-t="24:32:00">[24:32:00]</a>, <a class="yt-timestamp" data-t="24:41:00">[24:41:00]</a>. For example, a user on BHIM with a State Bank of India account can pay a user on PhonePe/Google Pay with an HDFC Bank account in real-time due to the common UPI protocol <a class="yt-timestamp" data-t="24:44:00">[24:44:00]</a>.
+
+UPI supports various addressing methods for transactions, including UPI IDs, account numbers, mobile numbers, and virtual names (e.g., nikhil@someaxisbank) <a class="yt-timestamp" data-t="28:21:00">[28:21:00]</a>.
+
+## Impact and Scalability
+UPI currently processes an astounding 14.4 billion transactions per month <a class="yt-timestamp" data-t="23:12:00">[23:12:00]</a>. The focus on "population scale" for all [[digital_public_infrastructure_and_india_stack | India Stack]] components, including UPI, aims to ensure that technology serves everyone, driving inclusion and formalizing the economy <a class="yt-timestamp" data-t="30:00:00">[30:00:00]</a>, <a class="yt-timestamp" data-t="31:01:00">[31:01:00]</a>.
+
+### Integration with Other Systems
+*   **Janan Yojana Program**: While [[unique_id_and_aadhaar_project | Aadhaar]]'s eKYC played a crucial role, the government's push to provide bank accounts to everyone in 2015 significantly accelerated banking penetration. What would have taken 46 years by normal GDP growth was achieved in 9 years, partly due to the acceleration provided by [[digital_id_development | digital technology]] like eKYC <a class="yt-timestamp" data-t="17:12:00">[17:12:00]</a>, <a class="yt-timestamp" data-t="17:38:00">[17:38:00]</a>.
+*   **Reliance Jio**: Jio's launch in 2016 used [[unique_id_and_aadhaar_project | Aadhaar]] eKYC to enroll a million mobile customers a day, reaching 100 million customers in 6 months, popularizing [[digital_id_development | Aadhaar]]'s use in the mobile industry <a class="yt-timestamp" data-t="18:20:00">[18:20:00]</a>.
+
+## Diverse Use Cases and Ecosystem Expansion
+UPI's protocol-based nature allows it to be a foundation for many [[innovative_startup_projects | innovative startup projects]] and services:
+*   **IPO Applications (ASBA)**: UPI facilitates half of all IPO applications via mobile phones through the ASBA (Applications Supported by Blocked Amount) system, making IPO participation much easier <a class="yt-timestamp" data-t="39:19:00">[39:19:00]</a>.
+*   **Street Vendor Supplies**: A company in Lucknow built an app using UPI to help roadside street vendors order supplies, enabling them to save hours previously spent at markets. Vendors pay with UPI upon delivery <a class="yt-timestamp" data-t="40:48:00">[40:48:00]</a>.
+*   **Daily Savings (Jar App)**: The Jar app enables daily micro-savings by deducting small amounts from a user's account via UPI autopay, reflecting a digital version of the traditional "pyme deposit" system invented in India <a class="yt-timestamp" data-t="41:50:00">[41:50:00]</a>.
+*   **Cross-border Remittances**: NPCI and Singapore's Central Bank (MAS) have built a connection between UPI and Singapore's Fast Pay, enabling real-time cross-border money transfers between bank accounts, with currency conversion <a class="yt-timestamp" data-t="25:41:00">[25:41:00]</a>. While this requires building bridges for each country, dealing with rules, fraud prevention, and capital account convertibility, it showcases UPI's potential for global reach <a class="yt-timestamp" data-t="26:11:00">[26:11:00]</a>.
+*   **ONDC (Open Network for Digital Commerce)**: ONDC is a network built on the open-source Beckn protocol, which is a general-purpose transaction protocol that can be used for any transaction, not just payments <a class="yt-timestamp" data-t="44:10:00">[44:10:00]</a>. Beckn enables "unbundling transactions" within e-commerce, allowing consumers to use any app to find any supplier on the ONDC grid and use any delivery agent <a class="yt-timestamp" data-t="43:22:00">[43:22:00]</a>, <a class="yt-timestamp" data-t="44:10:00">[44:10:00]</a>. This aims to disrupt existing monopolies and create more market opportunities <a class="yt-timestamp" data-t="47:55:00">[47:55:00]</a>.
+    *   **Mobility (Namma Yatri)**: ONDC is used in mobility, with platforms like Namma Yatri allowing users to find auto-rickshaws and pay the driver directly, where the platform charges a daily SaaS fee to the driver instead of a percentage of the fare <a class="yt-timestamp" data-t="45:42:00">[45:42:00]</a>.
+    *   **Energy (Unified Energy Interface)**: A "unified energy interface" is being built to allow people to buy and sell electricity, for example, at charging stations <a class="yt-timestamp" data-t="45:58:00">[45:58:00]</a>.
+
+## [[Future Opportunities in Indias Digital Landscape | Future Opportunities]]
+The unbundling approach enabled by protocols like UPI and Beckn could lead to new [[impact_of_technology_and_future_trends_in_commerce | business models]] and [[evolution_and_challenges_in_indian_ecommerce | challenges for new brands in quick commerce]]. For example, a Beckn-based quick commerce solution could leverage neighborhood retail instead of dark stores <a class="yt-timestamp" data-t="48:51:00">[48:51:00]</a>. The ability to build on top of these open protocols creates immense [[future_opportunities_in_indias_digital_landscape | opportunity for young entrepreneurs]] to disrupt various industries <a class="yt-timestamp" data-t="48:09:00">[48:09:00]</a>.
