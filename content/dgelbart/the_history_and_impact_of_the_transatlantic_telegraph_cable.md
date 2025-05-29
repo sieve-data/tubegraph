@@ -1,0 +1,26 @@
+---
+title: The History and Impact of the Transatlantic Telegraph Cable
+videoId: lLTfMLaX820
+---
+
+From: [[dgelbart]] <br/> 
+
+Before the advent of transcontinental telegraphy, arranging a meeting between individuals in England and the United States in 1850 was a month-long process <a class="yt-timestamp" data-t="00:32:03">[00:32:03]</a>. A letter sent by sailboat would take two weeks, and receiving an answer would take another two weeks, which severely limited the pace of development <a class="yt-timestamp" data-t="00:32:19">[00:32:19]</a>. While telegraphy had become widespread within countries by 1858, having started spreading around 1840, there was no direct connection between Europe and the United States <a class="yt-timestamp" data-t="00:32:38">[00:32:38]</a>.
+
+The success of connecting Europe and the US via telegraph was largely due to [[Cyrus Field and Oliver Heaviside's Pioneering Work on the Transatlantic Telegraph Cable|Cyrus Field]], who laid the first transatlantic cable, and [[Cyrus Field and Oliver Heaviside's Pioneering Work on the Transatlantic Telegraph Cable|Oliver Heaviside]], who identified and solved the issues that caused the first cable to fail <a class="yt-timestamp" data-t="00:33:03">[00:33:03]</a>.
+
+## Laying the Cable
+
+The concept of a transatlantic cable was considered so revolutionary that Tiffany's even sold commemorative pieces of the cable <a class="yt-timestamp" data-t="00:33:36">[00:33:36]</a>. Many doubted that such a cable could be successfully laid across the ocean <a class="yt-timestamp" data-t="00:33:53">[00:33:53]</a>.
+
+Due to this skepticism, a backup plan was put in place: to lay a cable across the Bering Straits <a class="yt-timestamp" data-t="00:34:00">[00:34:00]</a>. This alternative route would extend from London, through Siberia and the Bering Straits, down to Canada—with New Westminster in British Columbia serving as a major station—and San Francisco, ultimately connecting to New York <a class="yt-timestamp" data-t="00:34:15">[00:34:15]</a>. Many places in British Columbia bear the name "Telegraph" (e.g., Telegraph Road) as a result of this plan <a class="yt-timestamp" data-t="00:34:00">[00:34:00]</a>. When the second transatlantic cable was successfully laid, newspapers at the time featured both the Atlantic cable and the Bering Straits cable, as both were laid in parallel <a class="yt-timestamp" data-t="00:34:43">[00:34:43]</a>.
+
+## Technical Challenges and Oliver Heaviside's Contributions
+
+The initial transatlantic cable faced significant challenges because people did not heed the advice of [[Cyrus Field and Oliver Heaviside's Pioneering Work on the Transatlantic Telegraph Cable|Oliver Heaviside]] <a class="yt-timestamp" data-t="00:35:19">[00:35:19]</a>. Heaviside, a self-taught, recluse, and half-deaf individual, developed fundamental principles in telecommunication but struggled to communicate effectively <a class="yt-timestamp" data-t="00:35:34">[00:35:34]</a>. Despite his brilliance in understanding how to make a functional cable, it took many years for his insights to be recognized <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>.
+
+AT&T, seeking a monopoly on long-distance telegraphy and telephony, offered millions to Heaviside for him to patent his ideas so they could purchase them <a class="yt-timestamp" data-t="00:36:17">[00:36:17]</a>. However, Heaviside refused, stating that his work was already published and available for free use <a class="yt-timestamp" data-t="00:36:29">[00:36:29]</a>. When he repeatedly rejected their offers, AT&T instead paid a US inventor, Michael Pupin, a substantial sum to patent Heaviside's ideas under Pupin's name, effectively buying a patent for something that was already public domain <a class="yt-timestamp" data-t="00:36:46">[00:36:46]</a>. This historical fraud deeply disturbed Norbert Wiener, the pioneer of modern control theory, who even wrote a fictionalized book about it, fearing legal action from AT&T <a class="yt-timestamp" data-t="00:37:15">[00:37:15]</a>.
+
+## Receiving the Signals
+
+The transatlantic cable terminated in Halifax, from where signals were transmitted by land cable to New York <a class="yt-timestamp" data-t="00:38:12">[00:38:12]</a>. The receiving station, known as Halifax Depot, used a "mirror galvanometer" <a class="yt-timestamp" data-t="00:38:21">[00:38:21]</a>. This sensitive instrument, invented by Lord Kelvin, contained a small mirror that would move in response to the faint electrical currents from the cable <a class="yt-timestamp" data-t="00:38:43">[00:38:43]</a>. The operator would watch a reflected light spot on a wall, interpreting its movements as dots or dashes, and then manually transcribe and retransmit the message to New York <a class="yt-timestamp" data-t="00:38:55">[00:38:55]</a>. This manual transcription was necessary because the signal was too weak to operate more common telegraph printers <a class="yt-timestamp" data-t="00:39:08">[00:39:08]</a>. Once transcribed, the message could be sent over a normal telegraph to New York <a class="yt-timestamp" data-t="00:39:23">[00:39:23]</a>.

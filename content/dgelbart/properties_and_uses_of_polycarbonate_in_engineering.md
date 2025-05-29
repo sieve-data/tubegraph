@@ -1,43 +1,41 @@
 ---
-title: Properties and uses of polycarbonate in engineering
+title: Properties and Uses of Polycarbonate in Engineering
 videoId: NPSQ9DDGWsI
 ---
 
 From: [[dgelbart]] <br/> 
 
-Polycarbonate, commonly known by its trade name [[properties_and_challenges_of_working_with_lexan | Lexan]], is considered the most useful engineering plastic for general research and development (R&D) work <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. It is a highly versatile material known for several key properties.
+Polycarbonate is a widely used engineering plastic, primarily known under the trade name [[challenges_of_forming_lexan_plastic | Lexan]] <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. It is considered the most useful engineering plastic for general R&D work <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
 
-## Properties of Polycarbonate
+## Key Properties
 
-*   **Shatterproof and Ductile** Polycarbonate is remarkably shatterproof and ductile, allowing it to be bent like sheet metal without breaking <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a> <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. While it does exhibit some spring-back, this can be compensated for by bending it sharper than the desired angle <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a> <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
-*   **Thread Holding Weakness** Unlike metals, polycarbonate is generally too weak to reliably hold threads on its own <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
-*   **Material Instability** Like most [[characteristics_and_applications_of_various_plastics | plastics]] (unless heavily filled with materials like fibers), polycarbonate is an unstable material <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a> <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
-    *   It absorbs humidity, which can cause changes in its properties <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>.
-    *   It softens significantly with temperature increases <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a> <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
-    *   It has a much larger thermal expansion coefficient compared to [[properties_and_uses_of_mild_steel_and_stainless_steel | metals]], typically ranging from 50 to 150 parts per million (PPM), which is almost an order of magnitude higher than metals (e.g., steel ~11 ppm, aluminum ~23 ppm) <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a> <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a> <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
+Polycarbonates are described as "amazing materials" due to several key characteristics <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>:
+*   **Shatter-proof** <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>
+*   **Ductile** <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>: A 3/16 inch polycarbonate sheet can be bent like sheet metal without breaking <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. It does exhibit some spring-back after bending <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>, but this can be accounted for by bending it slightly sharper than the desired angle <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
 
-## Uses in Engineering
+## Limitations and Solutions
 
-Polycarbonate is chosen for specific applications where its properties are advantageous, such as:
-*   **Heat Insulation** <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>
-*   **Electrical Insulation** <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>
-*   **Transparency** <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>
+While versatile, polycarbonate, like all plastics, has inherent limitations that require specific considerations during design and use.
 
-However, due to its instability and thermal expansion, it's often preferable to avoid its use if possible <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a> <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+### Thread Holding
+Polycarbonate is generally too weak to hold threads directly <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+*   **Solution 1: Threaded Inserts** Threaded inserts, similar to pop rivets, can be used <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+*   **Solution 2: Helicoils** If space is limited for inserts, helicoils (small metal springs that form a thread) can be threaded into the material to provide an excellent thread <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
 
-## Addressing Challenges with Polycarbonate
+### Material Stability and Thermal Expansion
+Polycarbonates, and plastics in general, are considered unstable materials unless heavily filled with fibers or other fillers <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+*   **Humidity Absorption**: They absorb humidity and change properties with it <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>.
+*   **Temperature Sensitivity**: They soften with temperature <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+*   **High Thermal Expansion**: Plastics have a significantly larger thermal expansion coefficient compared to [[properties_and_uses_of_different_metals_particularly_stainless_steel | metals]] <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. Typical coefficients for plastics range from 50 to 150 (parts per million per degree), which is almost an order of magnitude higher than metals (10-23 ppm) <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. This can cause buckling if a plastic sheet is bolted tightly to a metal sheet and exposed to temperature changes <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
 
-### Threading Solutions
-To overcome the issue of polycarbonate not holding threads directly, engineers commonly employ two methods:
-*   **Threaded Inserts** These inserts are set into the polycarbonate much like pop rivets, providing a strong internal thread <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a> <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
-*   **Helicoils** If space is limited, helicoils can be used. These are small metal springs that form a thread when screwed into a plain hole, offering an excellent thread for fasteners <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a> <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a> <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+> [!CAUTION] Thermal Expansion
+> A thermal expansion of 100 PPM over a meter translates to 0.1 mm per degree Celsius <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. A 10-degree temperature change can result in 1 mm of expansion, which is a significant concern <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
 
-Once proper threading is achieved, the polycarbonate part becomes highly usable, similar to a metal component <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a> <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+*   **Solution for Thermal Expansion**: To accommodate expansion, parts should ideally be mounted with one side fixed and the other side utilizing a slot with a washer, allowing movement <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
 
-### Managing Thermal Expansion
-The significant thermal expansion of polycarbonate can cause issues, such as buckling when a plastic sheet is rigidly bolted to a metal sheet and exposed to temperature changes <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a> <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>. A 100 PPM expansion over a meter results in a 0.1 mm change per degree Celsius, meaning a 1 mm expansion over 10 degrees <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a> <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a> <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
+## Applications
 
-To mitigate this, it is recommended to mount one side of a large polycarbonate sheet with a fixed screw and the other side with a slot and washer to allow for expansion <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a> <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
-
-> [!NOTE]
-> The issues with plastic materials, including polycarbonate, are significant challenges in [[challenges_with_plastic_materials_in_prototyping | prototyping]] and long-term applications, primarily due to their instability related to humidity and temperature <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a> <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+Despite their instability and thermal expansion issues, polycarbonates and other plastics are essential when specific properties are required <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>:
+*   Heat insulation <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>
+*   Electrical insulation <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>
+*   Transparency <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>
