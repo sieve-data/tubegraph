@@ -1,0 +1,56 @@
+---
+title: Investigation into Savannah Golds Case
+videoId: L0H6xYwMQnk
+---
+
+From: [[jcs]] <br/> 
+
+On August 2, 2017, at approximately 5:15 p.m., 21-year-old [[savannah_golds_disappearance | Savannah Gold]] left her parents' home and drove to San Jose Boulevard in Jacksonville, Florida <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. She was scheduled for a 5:30 p.m. shift as a waitress at the Bonefish Grill, a casual seafood restaurant, but never arrived <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>. Her absence initially caused no strain, and her hours were simply removed from the roster <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+
+## Initial Suspicions and Discovery of Vehicle
+
+Suspicions arose roughly an hour and fifteen minutes after Savannah left home when her father received a text message from her phone number <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. Forty-three seconds later, her older brother received a similar text <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>. Despite coming from Savannah's number, her family immediately knew something was amiss because the texts were riddled with errors, composed in an uncharacteristic way, and claimed she was running away with an unidentified man without packing any belongings <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. When they tried calling her phone minutes later, it was switched off <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. After learning she hadn't shown up for work, they promptly called the police and filed a missing-persons report <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+
+Less than two hours after Savannah disappeared, her car was discovered unlocked and abandoned in the Bonefish Grill parking lot <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. The only item missing from the vehicle was her phone; her wallet, ID, and other valuables remained untouched <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+
+## Key Evidence from Surveillance Footage
+
+[[investigation_and_evidence_gathering_methods | Investigators]] reviewed the parking lot [[surveillance_and_evidence_in_lee_rodartes_case | surveillance tapes]], which became the primary piece of evidence in the case <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. While most of the footage remains undisclosed, a detailed description was released <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>:
+*   Savannah parked her car and exited at 5:31 p.m. <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+*   She walked to another vehicle and conversed with its occupant through the driver's side window for fourteen minutes <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
+*   At 5:45 p.m., she entered the backseat of that vehicle <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+*   Fourteen seconds later, the car began to shake sporadically, suggesting a struggle <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
+*   The rear door swung open three times but was forcefully shut each time, indicating someone was trying to get out <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. This lasted for 49 seconds <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+*   The vehicle then stopped moving <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
+*   A male figure exited and walked to Savannah's car, which was 20 feet away <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
+*   The surveillance was grainy, preventing clear identification, but police noted he had short brown hair and was approximately 5 foot 11 <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+*   The unidentified person reached into Savannah's car, took what police believed was her phone, and then slashed a front tire with a knife <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
+*   He returned to his vehicle and drove away at 6:04 p.m. <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. Savannah was never seen exiting the car <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+
+## Identifying the Prime Suspect
+
+Detectives carefully conducted their [[investigation_tactics_and_police_interrogation | investigation]], keeping the surveillance footage undisclosed to prevent a suspect from altering their alibi <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. Over two days, they interviewed Bonefish Grill staff, asking when they last saw Savannah, if they knew her whereabouts, or if they had any helpful information <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
+
+Within 48 hours, three potential suspects were identified and their names run through the motor insurance database <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. The third suspect, Leroy Dougherty, matched the vehicle seen on surveillance: a 2012 silver Chevy Malibu <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. Dougherty, 28, was a manager and head chef at the Bonefish Grill <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. He had been the first person interviewed about Savannah's disappearance, stating he hadn't seen her in three weeks and knew nothing of her whereabouts <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. However, his co-workers revealed he had been in an on-and-off relationship with Savannah for the past eight months, which was against company policy <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. Dougherty, known for his charm and success, became the prime suspect <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>.
+
+## The Interrogation and Confession
+
+On August 5th, at approximately 5:15 p.m., police arrested Leroy Dougherty midway through his shift, using an outstanding traffic warrant as a pretext <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. At the Jacksonville Sheriff's Office, he was left alone for 90 minutes before Detective Rae Reeves, who had interviewed him about Savannah the day prior, entered the room <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>. This revealed to Dougherty the true severity of his situation <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>.
+
+The interrogation began with an open-ended question about Savannah, a technique designed to elicit a lengthy response from someone with something to hide, seeking approval from the interrogator <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>. Dougherty provided a detailed account of his relationship with Savannah, describing their initial connection, her drug use (including heroin), and his decision to end contact due to her drug habits and personal issues <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>. He initially stated their last contact was a text message a couple of weeks prior in July <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>.
+
+When asked about the last time he *saw* her, Dougherty confessed to lying during the initial interview <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>. Realizing [[sarah_boones_interrogation_and_inconsistencies | investigators]] had some evidence, he amended his story, admitting he saw her on Wednesday afternoon (the day she disappeared) <a class="yt-timestamp" data-t="00:13:58">[00:13:58]</a>. He claimed Savannah had been spreading rumors at work about their sexual relationship, which could jeopardize his job as a manager <a class="yt-timestamp" data-t="00:14:07">[00:14:07]</a>. He described her entering his car in the parking lot, claiming she was paranoid after using heroin <a class="yt-timestamp" data-t="00:14:38">[00:14:38]</a>. He then stated she got out of his car and entered an older model green Ford pickup, which drove away <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>.
+
+The detectives, aware this was fabricated due to the surveillance footage, continued to feign belief, allowing Dougherty to feel more at ease and commit to his false narrative <a class="yt-timestamp" data-t="00:18:02">[00:18:02]</a>. They then initiated a sudden confrontation, asking about a cut on his neck <a class="yt-timestamp" data-t="00:19:29">[00:19:29]</a>. He claimed it was a self-inflicted injury from peeling a scab <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>.
+
+As the interrogation continued, the detectives intensified their approach, directly accusing him of involvement in Savannah's disappearance <a class="yt-timestamp" data-t="00:23:00">[00:23:00]</a>. Dougherty remained composed, showing no shock, indicating he anticipated such a confrontation <a class="yt-timestamp" data-t="00:23:25">[00:23:25]</a>. They then revealed the indisputable evidence from the surveillance footage: "She never got out of your car" <a class="yt-timestamp" data-t="00:26:21">[00:26:21]</a>. They pressed him, "Video cameras don't lie, Lee" <a class="yt-timestamp" data-t="00:27:14">[00:27:14]</a>. They offered alternative scenarios, such as an overdose, to make an admission easier <a class="yt-timestamp" data-t="00:27:41">[00:27:41]</a>.
+
+Under sustained pressure and an appeal to his morality, Dougherty eventually admitted he drove Savannah to his house <a class="yt-timestamp" data-t="00:31:30">[00:31:30]</a>. The released interrogation footage then cuts off <a class="yt-timestamp" data-t="00:33:12">[00:33:12]</a>.
+
+## Confession and Aftermath
+
+Leroy Dougherty admitted to killing [[savannah_golds_disappearance | Savannah Gold]] <a class="yt-timestamp" data-t="00:33:23">[00:33:23]</a>. He claimed he broke her neck, then took her body back to his house where he burned it in a self-made fire pit <a class="yt-timestamp" data-t="00:33:30">[00:33:30]</a>. He then dumped her remains in a lake at the end of a secluded road <a class="yt-timestamp" data-t="00:33:35">[00:33:35]</a>. Savannah had injuries to over 75 percent of her body, and the medical examiner could only conclude her death was a violent homicide <a class="yt-timestamp" data-t="00:33:40">[00:33:40]</a>. Footage released after his confession showed Dougherty experiencing intense emotional distress <a class="yt-timestamp" data-t="00:34:02">[00:34:02]</a>.
+
+## Legal Proceedings
+
+Dougherty was remanded into custody at the Duval County Jail and denied bond <a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a>. Despite overwhelming evidence and the prospect of life in prison without parole, he pled not guilty <a class="yt-timestamp" data-t="00:39:04">[00:39:04]</a>. He claimed Savannah's killing was an act of self-defense, asserting he was in fear for his life after she slapped him multiple times, causing him to grab her neck, feel a "pop," and accidentally break it <a class="yt-timestamp" data-t="00:39:11">[00:39:11]</a>. At the time, Dougherty was 5 foot 11 and weighed 163 pounds, while Savannah was 5 feet tall and weighed 91 pounds <a class="yt-timestamp" data-t="00:39:14">[00:39:14]</a>. The state's attorney's office made no comment on this motion, stating only that the trial was expected to commence in the summer of 2020 <a class="yt-timestamp" data-t="00:39:33">[00:39:33]</a>.

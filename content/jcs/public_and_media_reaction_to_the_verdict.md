@@ -1,0 +1,22 @@
+---
+title: Public and media reaction to the verdict
+videoId: eJt_afGN3IQ
+---
+
+From: [[jcs]] <br/> 
+
+The Casey Anthony case became exceptional due to the intense public focus not on the crime's occurrences, but on the subsequent developments and the mother's response to her daughter's death <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. People ceased discussing how or why Kaylee Anthony passed away, instead concentrating on Casey Anthony's conduct <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+
+## Initial Media Attention
+When Casey Anthony was in custody, her mother, Cindy Anthony, appeared on local news, which Casey saw <a class="yt-timestamp" data-t="02:21:22">[02:21:22]</a>. The entire United States was actively looking for Kaylee <a class="yt-timestamp" data-t="02:24:59">[02:24:59]</a>. Kaylee's photo was even set to appear on the cover of People magazine, reaching over 46 million adults in America <a class="yt-timestamp" data-t="02:25:03">[02:25:03]</a>. Despite this massive exposure, Casey's response suggested she viewed it as a lost cause <a class="yt-timestamp" data-t="02:25:03">[02:25:03]</a>.
+
+## Public Perception of Casey's Demeanor
+Upon the release of footage from Casey Anthony's interviews and interrogations, the public generally concluded that she was, at best, a cold-hearted mother, and at worst, a "hideous despicable murderer" <a class="yt-timestamp" data-t="03:33:04">[03:33:04]</a>. This opinion, while potentially accurate, stemmed from the misconception that her behavior in the footage was genuine <a class="yt-timestamp" data-t="03:33:04">[03:33:04]</a>. It is argued that Casey was likely faking her poised temperament throughout, a learned behavior to mask anxiety and conceal perceived guilt <a class="yt-timestamp" data-t="03:47:55">[03:47:55]</a>.
+
+### Casey's View on Media
+Casey casually discussed the media surrounding her [[Court Trial and Sentencing | murder trial]], including the grand jury proceedings, as if it were a television show <a class="yt-timestamp" data-t="03:16:16">[03:16:16]</a>. She noted that the media had "thrown her name out" in connection with the grand jury, citing an "inside source" <a class="yt-timestamp" data-t="03:45:06">[03:45:06]</a>. While acknowledging that media exposure helped generate tips for finding her daughter, she also stated that it "creates a monster that otherwise isn't necessary" <a class="yt-timestamp" data-t="03:58:10">[03:58:10]</a>. She distinguished between local media, which was easier to manage, and national media, which brought in overwhelming and sometimes irrelevant tips from sources like Nancy Grace or tabloids <a class="yt-timestamp" data-t="04:01:21">[04:01:21]</a>.
+
+## Trial and Verdict Reaction
+The [[Court Trial and Sentencing | trial commenced on May 24, 2011]] <a class="yt-timestamp" data-t="05:15:39">[05:15:39]</a>. A notable aspect of the trial was the "courtroom presence" of defense attorney Jose Baez, whose "exceptional ability of narrative control and storytelling" and "capacity to create a connection with a jury" were widely recognized and commented on by the media <a class="yt-timestamp" data-t="04:35:46">[04:35:46]</a>. Despite this, the "overwhelming majority" of those following the case were almost certain that Baez's defense would not be enough to save Casey Anthony from a conviction <a class="yt-timestamp" data-t="04:35:46">[04:35:46]</a>.
+
+After the jury delivered its "not guilty" verdicts for first-degree murder, aggravated child abuse, and aggravated manslaughter of a child <a class="yt-timestamp" data-t="05:52:00">[05:52:00]</a>, Jose Baez addressed the media. He expressed disgust with "some of the lawyers that have done this" <a class="yt-timestamp" data-t="06:07:06">[06:07:06]</a>, referring to the "media assassination" of Casey Anthony over three years, fueled by "bias and prejudice" and "incompetent talking heads" <a class="yt-timestamp" data-t="06:07:06">[06:07:06]</a>. He asserted that his colleagues nationwide condemned the practice of lawyers discussing cases on television without adequate knowledge or experience <a class="yt-timestamp" data-t="06:10:48">[06:10:48]</a>. Baez proclaimed that the justice system "has not dishonored her memory by a false conviction" <a class="yt-timestamp" data-t="06:48:42">[06:48:42]</a>.
