@@ -1,0 +1,48 @@
+---
+title: Intel and AMDs presence in the Chinese market
+videoId: zd6iZFPiCFQ
+---
+
+From: [[asianometry]] <br/> 
+
+China represents a significant market for leading x86 instruction set chip manufacturers, Intel and AMD. In 2020, Intel sold $20 billion worth of processors to China, while AMD's sales reached $2.3 billion. Both figures are comparable to or higher than what these companies generate from the United States, underscoring China's importance as a consumer base <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+
+## China's Interest in Homegrown x86 Processors
+Despite being a massive market for Intel and AMD, [[chinas_interest_in_homegrown_x86_processors | China has shown increasing interest in developing its own homegrown x86 processors]] <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. This ambition stems from several factors:
+*   **National Security Concerns** The Edward Snowden revelations regarding American surveillance raised alarms globally, prompting countries, including China, to scrutinize the implementation of American technologies in critical sectors <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
+*   **Geopolitical Competition** The recognition of increasing competition between China and the United States, marking a shift from an era of openness, has fueled the desire for technological self-reliance <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+*   **National Champions Initiative** China aims to cultivate domestic national champions in critical industries like high-speed rail, solar power, space, and computer chips, viewing this as a point of national and patriotic pride <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+*   **Impact of Export Controls** The Trump administration's actions to cut off companies like [[huawei_and_smics_semiconductor_collaboration | Huawei]] from American technologies intensified China's fears, accelerating its drive for domestic alternatives to supply its vast user base <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+
+### Understanding x86 Technology
+x86 refers to a family of instruction set architectures (ISA). Chip design companies implement an ISA, such as x86 or ARM, to create a CPU microarchitecture, which then leads to a family of chips <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. While different companies can share instruction sets, their implementations can result in radically different designs and performance <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. Intel first developed and popularized x86, but licensed it out to other companies like AMD for second-source and anti-competitive reasons <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>. x86 CPUs are predominantly used in PCs, game consoles, and servers, and are known for handling compute-intensive tasks, driving 481 of the world's top 500 computers <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+
+## [[chinas_acquisition_and_development_of_x86_technology | Chinese Homegrown x86 Initiatives]]
+There are two primary lineages of homegrown x86 chips available in the Chinese market: Zhaoxin and Haiguang.
+
+### Zhaoxin
+Zhaoxin is a fabless semiconductor joint venture between the Shanghai municipal government and Taiwanese company, Via Technologies <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>. Via Technologies holds an x86 architectural license, acquired through its 1999 purchases of Cyrix and Centaur Technologies <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. Via's acquisition of Centaur led to a patent battle with Intel, resulting in a 10-year cross-license agreement in 2003, with a three-year grace period granted in 2013 <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
+
+Zhaoxin has been releasing CPUs since 2014 <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. Their architectures, like the sixth-generation "Luchadore," are direct descendants of Centaur Technologies' work <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. Performance-wise, these chips are estimated to be four to eight years behind the latest American designs, though they use less power <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>. Zhaoxin's chips are considered suitable for low-end computing needs in China <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
+
+Zhaoxin, a fabless company, has faced challenges in its foundry strategy. While its Luchadore chips were fabricated by TSMC, Zhaoxin has been trying to transition to mainland alternatives like [[huawei_and_smics_semiconductor_collaboration | SMIC]] due to national security reasons, which has caused delays and potential performance loss <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>. Zhaoxin has also announced plans to enter the discrete GPU market <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+
+### Haiguang (AMD Joint Venture)
+In 2015, AMD, facing financial difficulties, formed a joint venture with Chinese partners to provide the Chinese market with a version of its Zen 1 x86 chips <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>. This complex two-layer joint venture was collectively named Tianjin Haiguang Advanced Technology Investment Co-limited (THATIC) <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>.
+
+The structure aimed to allow China to claim the chips as homegrown while protecting AMD's intellectual property:
+1.  **HMC (Haiguang Microelectronics):** 51% owned by AMD, HMC receives special x86 server chip IP from AMD <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. AMD retains majority control, and many workers are AMD employees <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>. HMC removes sensitive elements before passing the design to Haikong <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>.
+2.  **Haikong (Chengdu Haiguang Integrated Circuit Design Company):** AMD owns only 30% of Haikong <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. Haikong makes changes and updates, including designing the top-level architecture <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. The chip design is then returned to HMC/AMD for approval and finalization, before being sent to Global Foundries for fabrication <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>. Finally, chips are given to Haikong for packaging and sale <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>.
+
+This arrangement, while allowing for a "homegrown" label, sparked controversy. The Wall Street Journal reported that while the US Treasury Department ultimately agreed with AMD, the Department of Defense did not <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>. AMD stated the chips were for commercial purposes, but Chinese job postings and interviews suggested they would be used in exa-scale supercomputers <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>.
+
+In 2019, THATIC was placed on an entity list, and AMD agreed to cease further technology transfers <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>. AMD has since moved on, selling its fourth-generation Zen 3 chips, which are superior to the original JV's IP <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
+
+## Broader Context and Outlook
+[[impact_of_geopolitical_tensions_on_semiconductor_industry | Geopolitical tensions]] and [[impact_of_export_bans_and_political_influence_on_chinese_semiconductor_industry | export controls]] remain a significant factor. Intel has indicated it might open up x86 IP to foundry customers with its Foundry 2.0 announcement <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>, raising questions about whether Chinese fabless companies would be allowed to use this service <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.
+
+While [[chinas_interest_in_homegrown_x86_processors | China's x86 initiatives]] are notable, they constitute a niche within the country's broader [[developments_in_chinas_domestic_semiconductor_ecosystem | indigenous semiconductor efforts]]. Chinese-made x86 chips currently lag American competitors by several years in performance <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>. Furthermore, these chips are primarily for domestic consumption, as export would likely lead to litigation due to intellectual property concerns <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>.
+
+The broader trend in [[challenges_and_advancements_in_chinese_semiconductor_industry | China's semiconductor strategy]] leans heavily towards ARM-based designs, which are making inroads into areas traditionally dominated by x86, such as desktops and servers <a class="yt-timestamp" data-t="00:11:49">[00:11:49]</a>. It is estimated that 95% of computer chips designed in China are ARM-based <a class="yt-timestamp" data-t="00:12:16">[00:12:16]</a>. RISC-V, an open-source instruction set, is also gaining traction, with major players like Alibaba Cloud and [[huawei_and_smics_semiconductor_collaboration | HiSilicon]] exploring its development <a class="yt-timestamp" data-t="00:12:25">[00:12:25]</a>.
+
+As long as Intel's and AMD's chips remain available in China, consumers will likely opt for the superior, more current foreign options <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>. The continued availability of these chips, however, is not guaranteed given the evolving geopolitical landscape <a class="yt-timestamp" data-t="00:12:56">[00:12:56]</a>.

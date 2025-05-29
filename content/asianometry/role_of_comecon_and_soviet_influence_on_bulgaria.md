@@ -1,0 +1,42 @@
+---
+title: Role of COMECON and Soviet influence on Bulgaria
+videoId: t-UVPw1c_So
+---
+
+From: [[asianometry]] <br/> 
+
+Bulgaria, a middle-sized country in Southeastern Europe, became a significant player in the global electronics industry, largely due to its deep integration and [[relations_with_other_communist_powers|relations with other Communist powers]], particularly the Soviet Union and the Council for Mutual Economic Assistance (COMECON/CMEA) <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+
+## Post-WWII Alignment and Economic Model
+
+After World War II, during which Bulgaria allied with the Axis powers, the Soviet Union marched into the country <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. The Bulgarian Communist Party subsequently overthrew the existing government, abolished the monarchy, and established the People's Republic of Bulgaria <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. The Party focused on rebuilding the war-damaged economy, explicitly modeling its economic policies after those of the Soviet Union <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. The Soviets provided crucial aid, offering loans and raw materials, and purchasing Bulgarian finished goods on generous terms <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. This close relationship provided Bulgaria with unprecedented political and economic stability during the rule of [[impact_of_todor_zhivkovs_leadership_on_bulgarias_economy|Todor Zhivkov]], who led the Bulgarian Communist Party for 35 years following Stalin's death in 1953 <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+
+## Development of the Computer Industry
+
+The influence of the Soviet Union extended into Bulgaria's technological ambitions. In the 1950s, Bulgarian scientists began studying Soviet cybernetics and the economic potential of computers <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. The Soviet Union itself had built its first computer, MESM, in 1951 <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+
+In 1956, Professor Ljubomir Iliev participated in a Moscow conference where the Soviet delegation recommended that all socialist countries establish their own computing centers <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. This message was well received by the Bulgarian government, leading to the creation of the Mathematical Institute with Computing Institute in 1961 <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>. Bulgaria's first digital computer, the Vitosha, completed in 1963, was later demonstrated at the "Bulgaria Builds Socialism" exhibition in Moscow <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
+
+Despite early domestic efforts, the Bulgarian government initially opted to import a Minsk 2 computer from the Soviet Union in 1964 <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. However, leaders like Professor Ivan Popov pushed for domestic production, aiming to establish electronics as a profitable export industry <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. Popov successfully bluffed Soviet Gosplan (state planning committee) into a high-volume sales contract for Bulgarian-made ELKA calculators <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>. By agreeing to a lower price (700 roubles per ELKA-22, compared to East Germany's 730 roubles), Bulgaria secured a significant deal <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>.
+
+## The Unified System of Computers and Bulgaria's Monopoly
+
+In 1969, the Soviet Bloc countries, recognizing the need to compete in the rapidly evolving global computer industry, decided to produce a "Unified System of Computers" <a class="yt-timestamp" data-t="00:14:06">[00:14:06]</a>. To circumvent the notoriously slow COMECON, the Intergovernmental Commission on Computing Technology (IGCCT) was founded by Russia, East Germany, Bulgaria, Romania, Cuba, Poland, and others <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a>.
+
+Thanks to Ivan Popov's foresight, Bulgaria secured a vital role in this project <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>. Out of 105 assigned items, Bulgaria was responsible for producing three of the most valuable: memory disks, magnetic memory tapes, and a processor <a class="yt-timestamp" data-t="00:15:05">[00:15:05]</a>. To ensure proficiency, Popov arranged technology transfer agreements with Western companies like Fujitsu for memory tape design, and copied other items like IBM's disk drives <a class="yt-timestamp" data-t="00:15:17">[00:15:17]</a>.
+
+This strategic move granted Bulgaria a virtual monopoly within the Eastern Bloc for these critical components <a class="yt-timestamp" data-t="00:16:23">[00:16:23]</a>. No other Eastern Bloc country manufactured hard drives <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>, allowing Bulgaria to sell them at very high prices <a class="yt-timestamp" data-t="00:16:23">[00:16:23]</a>. These electronics exports, combined with a profitable Soviet oil re-export deal, significantly buoyed the Bulgarian economy throughout the 1970s <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>.
+
+## Soviet Restrictions and Decline
+
+Despite the initial benefits, the Soviet Union's influence also posed long-term limitations on [[bulgarias_technological_advancements_and_setbacks|Bulgaria's technological advancements and setbacks]] <a class="yt-timestamp" data-t="00:25:33">[00:25:33]</a>.
+
+In 1974, Ivan Popov's proposal to build mainframes in direct competition with the Soviet Union and East Germany was met with fierce resistance, leading to his removal from the Politburo and reassignment as ambassador to Switzerland by [[impact_of_todor_zhivkovs_leadership_on_bulgarias_economy|Todor Zhivkov]] <a class="yt-timestamp" data-t="00:17:07">[00:17:07]</a>. This demonstrated the limits of Bulgaria's autonomy within the Soviet sphere.
+
+In the late 1970s, the Bulgarian government reduced investment in microelectronics, possibly due to [[influence_of_military_and_heavy_industry_on_soviet_economic_policy|military and heavy industry economic priorities]] <a class="yt-timestamp" data-t="00:21:16">[00:21:16]</a>. This hindered [[bulgarias_semiconductor_and_electronics_industry_development|Bulgaria's semiconductor and electronics industry development]] and ability to compete <a class="yt-timestamp" data-t="00:21:27">[00:21:27]</a>. As a result, Bulgarian computer manufacturers had to rely on imported chips, which became prohibitively expensive as the national currency weakened <a class="yt-timestamp" data-t="00:21:46">[00:21:46]</a>.
+
+A critical blow came when a potential technology collaboration deal with the American company Rockwell for semiconductor production was blocked by Soviet authorities <a class="yt-timestamp" data-t="00:22:09">[00:22:09]</a>. The Soviets feared the deal would bring Bulgaria too close to the United States, harming their own interests <a class="yt-timestamp" data-t="00:23:00">[00:23:00]</a>. This decision forced more sophisticated Bulgarian computers to continue relying on imported chips <a class="yt-timestamp" data-t="00:23:18">[00:23:18]</a>.
+
+By 1988, Bulgaria's computer industry was a major employer, but its fortunes were inextricably tied to the Soviet Bloc <a class="yt-timestamp" data-t="00:23:25">[00:23:25]</a>. With the collapse of the Soviet Union in 1991, 95% of Bulgaria's electronics revenue, which largely came from within the Soviet Bloc, vanished <a class="yt-timestamp" data-t="00:24:05">[00:24:05]</a>. The industry's reliance on Western-sourced components and the opening of markets to cheap South Korean and Taiwanese PCs further contributed to the [[rise_and_fall_of_the_bulgarian_computer_industry|collapse of the Bulgarian computer industry]] by 1994 <a class="yt-timestamp" data-t="00:24:27">[00:24:27]</a>.
+
+In conclusion, the Soviet link both supported and hampered Bulgaria <a class="yt-timestamp" data-t="00:25:16">[00:25:16]</a>. While it provided a massive customer base and a valuable monopoly, it also imposed restrictions, prevented closer ties with the West, and ultimately capped Bulgaria's technological progress <a class="yt-timestamp" data-t="00:25:33">[00:25:33]</a>.

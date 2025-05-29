@@ -1,0 +1,72 @@
+---
+title: Development of oil infrastructure in West Siberia
+videoId: LrZ1eMlzwhc
+---
+
+From: [[asianometry]] <br/> 
+
+In 1979, the Soviet Union became the world's leading oil producer, pumping 11.5 million barrels daily <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. This marked a significant shift from the end of the 1960s, when the Soviet Union was the second-biggest oil-producing nation globally <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. Much of this growth was driven by the development of oil and natural gas reserves hidden beneath Siberia's frozen swamps and lakes <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. The pursuit of these resources was a major factor in the Soviet Union becoming an [[soviet_union_as_an_energy_superpower | energy superpower]] <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+
+## The West Siberian Basin
+
+The Soviet West Siberian Basin, located about 600 miles east of the Ural Mountains, is a vast, flat area covering 3.4 million square kilometers—nearly five times the size of Texas <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. Approximately one-third of this area, almost one million square kilometers, is potentially oil-bearing, exceeding the combined size of Texas and Oklahoma <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+
+This region is largely undeveloped, harsh, and remote <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. It experiences short summers and long, severe winters, with temperatures plummeting to negative 27 degrees Celsius, making frost and fog common <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Swamps and lakes cover 60 to 70 percent of the area, and these lakes freeze solid for 9 or 10 months of the year <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. Consequently, the area is sparsely populated <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+
+Beneath these challenging lands lie some of the world's largest oil and gas deposits, second only to those in the Persian Gulf <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. These deposits, dating back to the Triassic and Jurassic periods, include the massive Urengoy gas field and Russia's largest oil field, Samotlor <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. Samotlor partially overlies the Siberian Traps, a site of one of the largest known eruption events in world history 250 million years ago <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+
+## Initial Reluctance and Shifting Priorities
+
+As far back as the 1930s, Soviet geologists predicted that the West Siberian Basin held significant deposits, potentially larger than those in the Volga-Ural province <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Despite several potential oil gushers being found, the Soviet government initially refrained from exploring and developing these fields <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>. Some high-ranking Communist Party members dismissed the claims as "the fruit of a sick provincial imagination" <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
+
+Circumstances eventually compelled the Soviets to change their stance <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. From the mid-to-late 1960s, the Volga-Ural oil fields, the primary source of [[postwar_soviet_union_oil_industry_developments | postwar Soviet Union oil industry developments]], began to decline much faster than anticipated <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. Between 1971 and 1975, the decline in European oil fields was 261 million tons, significantly worse than the planned 150 million tons <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+The oil production business was critical for the Soviets for two main reasons <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>:
+*   It was the country's largest source of foreign currency, providing over 50% for purchasing goods like wheat from abroad <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+*   The Soviets had long-term oil export obligations to Eastern Bloc countries, all of which (except Romania) depended on them for energy, supplied through extensive pipelines like Druzbha ("Friendship") or Bratsville ("Brotherhood") <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+
+## Political Push and Infrastructure Development
+
+In January 1968, Soviet Premier Alexei Kosygin visited the Tyumen region of West Siberia, highlighting the area's potential for advancing the Soviet economy and the urgent need for infrastructure development <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>. Two years later, in 1971, Brezhnev personally pushed for the urgent development of West Siberia <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+
+A new ministry was established to build oil infrastructure in the region, headed by Boris Shabina, a high-ranking Ukrainian Communist Party member <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>. Although Shabina later gained renown for managing the Chernobyl crisis in 1986, he was instrumental in founding the West Siberian oil and gas industry <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
+
+## Overcoming Challenges and Attracting Workers
+
+West Siberia presented immense [[challenges_faced_in_the_extraction_and_production_of_oil_in_siberia | challenges faced in the extraction and production of oil in Siberia]] <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. Unlike Baku, which had a growing urban area, or the Volga-Ural region, which saw population surges due to the war, West Siberia was virtually uninhabited <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. To tap its resources, the Soviets had to create entire towns from scratch and bring in hundreds of thousands of geologists, builders, and work crews <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>.
+
+Building worker settlements was difficult due to the harsh conditions, and since agriculture was impossible, all food had to be transported by rail <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. This resulted in a cost of living 1.5 to 1.7 times higher than in European parts of the country <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. Unlike the Stalin era, workers in the Soviet Union now had freedom of choice, so incentives were necessary to attract people to this "wasteland" <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. Salaries in West Siberia were 2.2 to 2.5 times higher than elsewhere, and promotion was easier <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. The party ran media campaigns in older oil and gas regions, seeking specialists <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>. Most workers were young (under 35) and signed up for short periods to earn substantial money <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+
+## Rapid Production Growth
+
+West Siberia quickly began yielding its vast riches:
+*   **1965:** 5.6 million tons of oil and 1.4 billion cubic meters of natural gas <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>.
+*   **1970:** Oil production reached 31 million tons <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
+*   **1975:** Oil production surged to 141 million tons <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+*   **1977:** An "insane" 211 million tons <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>.
+
+By 1973, 113 oil fields had been discovered, including five billion-ton supergiant oil and gas fields between 1965 and 1973, such as Samotlor <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+
+To transport products to buyers in Europe, the Soviets built long gas pipelines <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. In the second half of the 1970s, they laid 1,400 kilometers of pipeline, moved 130 million cubic meters of soil, and tore up 27.2 million square meters of agricultural land <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. Pipeline construction was expedited by trucking ready-made pieces from factories to sites, leading to rates three to five times faster than in the West and costs per kilometer a third of Western averages <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>.
+
+## Economic Success and Environmental Cost
+
+Economically, the development was a major success <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. However, environmentally, it was a disaster <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>. The rapid construction was possible due to a complete disregard for ecology, resulting in wastewater pollution, torn-up swathes of taiga, and hundreds of abandoned drilled wells <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>. The Soviets prioritized fulfilling economic plans "no matter what" over environmental concerns <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>. Despite warnings about sustainability, the government continuously pushed West Siberia to generate more and more oil <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>.
+
+## Stagnation and Decline
+
+The rapid growth of West Siberia's oil dominance initially coincided with international conflicts in the 1950s and 60s, which made European nations seek diversification away from Arab oil <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>. Soviet oil became a compelling alternative, leading to deals with Austria (1968), Italy (1969), West Germany (1970), and France (1972) <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. The oil crises of the 1970s, including the Iranian Revolution, further accelerated these exchanges, cementing long-lasting energy relationships despite the Soviet Union's reputation as an erratic trade partner <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>.
+
+However, the expectation that West Siberia's energy output would grow indefinitely was incorrect <a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>. Production stalled and declined almost as quickly as it grew <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>. From 1975, West Siberia's oil production growth rates rapidly fell, from 23.8% in 1976 to 7% in 1981 <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>. This stagnation had massive ripple effects across the country <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>. The average annual growth rate of [[soviet_oil_production_in_the_1960s | Soviet oil production in the 1960s]] (9.1%) fell to just 6.2% between 1971 and 1978 <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>. By 1981, the country's total oil growth rate was under one percent <a class="yt-timestamp" data-t="00:13:57">[00:13:57]</a>.
+
+Without access to more advanced Western oil drills and pumps, the Soviets resorted to doubling their exploratory drilling efforts <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>. The amount of drilling increased from 13 million meters in 1977 to over 26 million in 1984, with 16 million of that new drilling occurring in West Siberia alone <a class="yt-timestamp" data-t="00:14:18">[00:14:18]</a>. This meant exploratory teams had to travel further, drill deeper, and work in more complex formations, doubling per-meter drill costs <a class="yt-timestamp" data-t="00:14:32">[00:14:32]</a>. Despite these efforts, Soviet oil output fell into negative growth in 1984 <a class="yt-timestamp" data-t="00:14:46">[00:14:46]</a>.
+
+This led to the [[economic_impact_of_oil_production_on_the_soviet_economy | economic impact of oil production on the Soviet economy]] as the energy industry and the wider Soviet economy found themselves investing more to produce less, caught in a cycle of "throwing good money after bad" <a class="yt-timestamp" data-t="00:14:55">[00:14:55]</a>. The Soviet economy became more energy-intensive, with nearly half of its oil consumption coming from heavy industry, which lacked the flexibility of Western economies to cut consumption <a class="yt-timestamp" data-t="00:15:26">[00:15:26]</a>. The country's considerable oil export obligations further limited its ability to reduce consumption <a class="yt-timestamp" data-t="00:16:04">[00:16:04]</a>.
+
+## Legacy and Impact
+
+By the late 1980s, the Soviet Union remained the world's largest producer of oil and third-largest producer of coal <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>. Yet, despite this, its economy stagnated, consumed by its unproductive energy industry <a class="yt-timestamp" data-t="00:16:23">[00:16:23]</a>. Coherence within the Eastern Bloc faded as the Soviets prioritized their own needs, leading satellite states to turn to the West <a class="yt-timestamp" data-t="00:16:30">[00:16:30]</a>.
+
+The oil price collapse of 1986, driven by increased output from Alaska, the British North Sea, and OPEC, was devastating <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>. Prices fell from $27 a barrel to below $10 <a class="yt-timestamp" data-t="00:16:56">[00:16:56]</a>. All the investment into oil suddenly turned to loss, and foreign currency earnings evaporated, paving the way for the debt crisis that contributed to the dissolution of the Soviet Union a few years later <a class="yt-timestamp" data-t="00:17:02">[00:17:02]</a>.
+
+The exploitation of West Siberian oil and gas, while initially providing high energy revenues, arguably papered over the need for much-needed economic reforms within the Soviet economy <a class="yt-timestamp" data-t="00:17:16">[00:17:16]</a>. It allowed the country to buy necessary goods and technology from the West rather than develop its own capabilities <a class="yt-timestamp" data-t="00:17:28">[00:17:28]</a>. Thus, energy simultaneously supported the Soviet Union, keeping it standing longer than it might have, while also weakening its ability to sustain itself <a class="yt-timestamp" data-t="00:17:38">[00:17:38]</a>. The legacy of the [[soviet_union_as_an_energy_superpower | Soviet Union as an energy superpower]] and its [[influence_of_soviet_oil_exports_on_international_relations | influence of Soviet oil exports on international relations]] continues to impact European and Asian politics today <a class="yt-timestamp" data-t="00:17:52">[00:17:52]</a>.

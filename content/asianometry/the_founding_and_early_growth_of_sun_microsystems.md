@@ -1,0 +1,67 @@
+---
+title: The founding and early growth of Sun Microsystems
+videoId: P1TsVW4P5DI
+---
+
+From: [[asianometry]] <br/> 
+
+[[history_of_sun_microsystems | Sun Microsystems]] emerged in Silicon Valley with a remarkable business model and rapid expansion, eventually becoming an iconic company valued at approximately $140 billion at its peak <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. This article focuses on its beginnings and initial ascent.
+
+## The Stanford University Network Project
+
+The genesis of Sun Microsystems began in 1978 when Andreas "Andy" Bechtolsheim, a Stanford student from Germany, worked as a consultant for the Xerox Park research laboratory <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. There, he observed Alto computers networked together <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. At the time, chip designs were starting to be done on computers, but individual designers lacked sufficiently powerful machines to run the necessary software <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Bechtolsheim believed that powerful personal computers, similar to the Alto, would be far more effective <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
+
+Since Xerox showed no interest in commercializing Park's innovations, Bechtolsheim decided to build his own version at Stanford <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. In 1981, he joined a project to develop low-cost personal workstations for computer-aided design (CAD) work <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. The hardware for this project was based on the Motorola 68000 chip, the first commercially available 32-bit microprocessor <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. The project, and its first workstation, was named SUN, standing for Stanford University Network <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. The Sun-1 workstation featured a bitmap display akin to the Alto and an Ethernet connection for networking <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. A few years later, it would run an older version of [[The creation and development of Unix | Unix]], specifically [[The creation and development of Unix | Unix]] System 3 <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
+
+By 1981, Bechtolsheim and his team were producing these computers in significant numbers, printing custom circuit boards in Margaret Jack's Hall <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. However, Stanford terminated the project just as it gained commercial momentum <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>. Bechtolsheim then licensed the Sun hardware design to a few customers, charging $10,000 each <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>. These licensees, however, were not interested in building the powerful personal workstation Bechtolsheim envisioned <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+
+## Founding Sun Microsystems
+
+To realize his vision, Bechtolsheim sought to assemble a team <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. A secretary connected him with Vinod Khosla, another Stanford alum with an MBA and a background as a serial entrepreneur <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. Khosla had previously worked at Daisy Systems, a pioneer in the electronic design automation (EDA) market, which failed partly due to a lack of sufficient hardware <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. Khosla recognized that these workstations could fulfill that need <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. He and Bechtolsheim drafted a six-page business plan, outlining a strategy to build and sell Sun workstations priced between $25,000 and $100,000 (equivalent to approximately $75,000 to $300,000 in 2022) <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+
+They recruited two more co-founders:
+*   **Scott McNealy**: A Harvard graduate and good friend of Khosla, with whom he had previously worked on a failed startup <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>.
+*   **Bill Joy**: A grad student at UC Berkeley known for his work on the Berkeley Software Distribution of the [[The creation and development of Unix | Unix]] operating system <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>. Joy joined six months later to work on software product design <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+
+McNealy approached venture capitalists UC Ventures and West Coast Ventures, quickly securing funding after demonstrating the workstation <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. Kleiner Perkins and August Capital also joined in later <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+
+[[history_of_sun_microsystems | Sun Microsystems]] officially opened its doors in February 1982 <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. Khosla served as CEO, McNealy as VP of manufacturing, and Bechtolsheim handled hardware product design, with Joy later joining him on the software side <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>.
+
+## The Workstation Product Category and Sun's Approach
+
+Before workstations, individuals needing significant computing power, such as for CAD work, had to reserve time on larger "mini computers" and communicate with them via terminals <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. These mini computers, though smaller and cheaper than mainframes, still cost over $25,000 at the time (around $190,000 today) <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+
+Sun's initial vision and product were akin to a high-end desktop computer, possessing more power than typical consumer computers, sufficient to run complex CAD software, yet affordable enough for a professional to own individually <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
+
+## Early Success and Growth
+
+[[history_of_sun_microsystems | Sun Microsystems]] had orders even before its official launch, as universities and research institutions had heard of the original Sun project at Stanford <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>. Interest surged further when Bill Joy joined and it was announced that the workstation would run the [[The spread of Unix to universities and its adoption into industry | Berkeley Unix]] operating system <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+
+The team worked relentlessly to design and ship their new workstations <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. Their first workstation had 256 kilobytes of memory and sold for approximately $8,000-$10,000, achieving a 50% gross margin <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>. The Sun-2, with improved specifications and [[The spread of Unix to universities and its adoption into industry | Berkeley Unix]] pre-installed, followed later that year <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>.
+
+Sun's primary competitor was Apollo Computer, which had started a year before Sun <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>. While Apollo had superior hardware, Sun's advantage lay in leveraging open and readily available resources <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>. Their initial workstations were built from off-the-shelf components: standard power supplies, Motorola microprocessors, and Fujitsu disk drives <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>. For software, they used the off-the-shelf [[The creation and development of Unix | Berkeley Unix]] operating system, which later evolved into SunOS and then Solaris <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>. For networking, they adopted TCP/IP, which had recently been standardized for military computer networking <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>. This networking capability was crucial as it allowed users to collaborate from their own spaces <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
+
+This "open business model" enabled Sun to produce widely adopted technology <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>. Their vision of selling standardized, widely compatible computers — "one workstation for each user" — resonated with customers <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>.
+
+Sun became profitable by May 1982, just three months after opening its doors <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>. In its first fiscal year, it generated $8.5 million <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>. Revenue soared to $39 million the following year, and then to $115 million the year after that <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
+
+Managing this rapid growth proved challenging for the young leadership team <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>. The board recruited Owen Brown, a 42-year-old, for his experience, but he clashed with Khosla and soon left <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. Scott McNealy took over as interim CEO and, despite his youth, effectively led the company, eventually being confirmed as its permanent leader <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>. Khosla departed Sun in 1985 to join John Doerr at Kleiner Perkins <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>.
+
+From 1982 to 1987, Sun doubled the number of workstations it shipped every six months <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. In 1985, they launched the Sun-3 workstation series, featuring an upgraded Motorola MC68020 processor <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. The Sun-3 also introduced the Network File System (NFS), a new distributed file system standard <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. Sun licensed the NFS code for a nominal fee, helping it become a widely adopted standard <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>. The Sun-3 was an immediate success, accounting for one-third of total sales in the quarter following its September 1985 release <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>. To manage new orders, Sun opened a new factory in Milpitas <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>.
+
+By 1987, Sun had surpassed Apollo Computer, which had pioneered the personal workstation market <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. Despite Apollo having better hardware, customers preferred Sun's more affordable computers, with the Sun-3 being 15% cheaper than Apollo's offerings <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. Apollo was eventually acquired by Hewlett-Packard in April 1989 and subsequently shut down <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>.
+
+## Initial Public Offering and Core Philosophy
+
+In March 1986, Sun conducted its Initial Public Offering (IPO) <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. With $210 million in revenue, they raised $45 million, marking the largest tech IPO in three years <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>. Sun's first annual report highlighted its core philosophy:
+> "Our rejection of proprietary systems in order to concentrate on our model of distributed computing technology standards and high quality is itself an innovation and in a very real sense this is Sun's proprietary product." <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>
+
+From 1986 to 1988, Sun's revenues quintupled, growing from $210 million to $1.1 billion <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>.
+
+## Internal Innovation: The SPARC CPU
+
+Despite its rapid growth, Sun encountered a problem with one of its critical partners: Motorola, which supplied Sun's microprocessors <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>. Motorola's single design team struggled to keep pace with Sun's demands; a memory bug took two years to fix, and it took equally long to increase clock speed from 10 MHz to 12 MHz <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+
+After an unsuccessful test of an Intel-compatible workstation, Bill Joy proposed designing their own microprocessor based on a RISC (Reduced Instruction Set Computer) architecture, which IBM had recently documented <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. The key principle of RISC is that each instruction performs only one function, which IBM claimed could potentially speed things up fourfold <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
+
+In 1987, a team led by Anant Agra finalized the SPARC CPU, fabricated by Fujitsu <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>. It proved significantly faster than competing offerings and was subsequently integrated into Sun's next major workstations, the Sun-4 or SPARCstation series, released in 1989 <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. Sun largely earned its revenue by selling these systems, leveraging open, off-the-shelf parts to create high-powered workstations for specialized technical, government, corporate, and Wall Street applications <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>.

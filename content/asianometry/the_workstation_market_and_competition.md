@@ -1,0 +1,100 @@
+---
+title: The workstation market and competition
+videoId: P1TsVW4P5DI
+---
+
+From: [[asianometry]] <br/> 
+
+Sun Microsystems emerged in Silicon Valley with a distinct business model and remarkable growth, eventually becoming a major company valued at approximately $140 billion at its peak <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. This article explores the history of Sun Microsystems within the context of the evolving workstation market and its competitive landscape.
+
+## Dawn of the Workstation: Sun's Origins
+
+The concept of a powerful personal computer for engineering work began to crystallize in the late 1970s. In 1978, Andreas "Andy" Bechtolsheim, a Stanford student, consulted for the Xerox PARC research laboratory where he observed Alto computers networked together <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. At the time, chip designers lacked individual computers powerful enough to run design software <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Bechtolsheim believed that powerful personal computers, like the Alto, would be more effective for computer-aided design (CAD) work <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. Since Xerox had no interest in commercializing PARC's work, he decided to build his own version at Stanford <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
+
+In 1981, Bechtolsheim joined a project to build low-cost personal workstations for CAD <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. The hardware was based on the Motorola 68000 chip, the first commercially available 32-bit microprocessor <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. This project and its first workstation were named "SUN," standing for Stanford University Network <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. The SUN 1 workstation featured a bitmap display, like the Alto, and an Ethernet connection for networking <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. It later ran an older version of Unix, Unix System 3 <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
+
+By 1981, the team was producing these computers in Margaret Jack's Hall <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. Stanford, however, ended the project as it gained commercial interest <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>. Bechtolsheim then licensed the SUN hardware design to customers, charging $10,000 each <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. However, these licensees were not interested in building the powerful personal workstation he envisioned <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+
+### Formation of Sun Microsystems
+
+To achieve his vision, Bechtolsheim partnered with Vinod Khosla, a Stanford MBA graduate and entrepreneur <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. Khosla had previously worked at Daisy Systems, a pioneer in the electronic design automation (EDA) market, which failed partly due to a lack of sufficient hardware <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. Khosla understood that these workstations could meet that need <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. They drafted a six-page business plan to build and sell Sun workstations priced between $25,000 and $100,000 (equivalent to $75,000 to $300,000 in 2022) <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+
+Two more co-founders joined: Scott McNealy, a Harvard graduate who had worked with Khosla on a previous startup <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>, and Bill Joy, a UC Berkeley grad student known for his work on the Berkeley Software Distribution of the Unix operating system, who joined to lead software product design <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>.
+
+McNealy secured initial funding from UC Ventures and West Coast Ventures, with Kleiner Perkins and August Capital later joining <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. Sun Microsystems officially opened in February 1982, with Khosla as CEO, McNealy as VP of manufacturing, Bechtolsheim in hardware, and Joy in software <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+
+### The Workstation Product Category
+
+At the time, users requiring computing power for tasks like CAD work had to reserve time on larger, more powerful mini-computers <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. These "mini-computers," though smaller and cheaper than IBM mainframes, still cost over $25,000 ($190,000 today) <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. Sun envisioned and sold a high-end desktop computer, comparable to a modern Mac Studio or Mac Pro, offering sufficient power for complex CAD software at a price point affordable for a "prosumer" to own individually <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
+
+## Sun's Rise in the Workstation Market
+
+Sun Microsystems had pre-orders even before its official launch, as word of the Stanford SUN project spread among universities and research institutions <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>. Interest surged further with Bill Joy's involvement and the promise of the Berkeley Unix operating system <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+
+Their first workstation, with 256 kilobytes of memory, sold for $8,000-$10,000 at a 50% gross margin <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. The Sun 2, with better specifications and Berkeley Unix, followed later that year <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>.
+
+### Competition and Open Strategy
+
+Sun's primary competitor in the workstation market was Apollo Computer, which had started a year before Sun <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>. EDA and CAD companies also produced their own hardware <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>.
+
+Sun's competitive advantage stemmed from its leveraging of open and available resources <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>. Their early workstations used off-the-shelf parts like Motorola microprocessors and Fujitsu disk drives <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>. For software, they adopted the off-the-shelf Berkeley Unix, which evolved into SunOS and later Solaris <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>. They also utilized TCP/IP for networking, recently declared the standard for military computer networking <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>. This focus on networking allowed users to collaborate from their own spaces <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
+
+Sun's "open business model" led to widely adopted technology and a vision of selling standardized, compatible computers <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>. The concept of "one workstation for each user" resonated with customers <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>.
+
+### Explosive Growth and Leadership Transition
+
+Sun became profitable by May 1982, generating $8.5 million in its first fiscal year <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. Revenues rapidly grew to $39 million the following year and $115 million the year after <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>. Managing this rapid growth, led by a team of 27-year-olds, proved challenging <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. After a brief and unsuccessful attempt to bring in Owen Brown, Scott McNealy took over as interim CEO and was eventually made the permanent leader <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. Vinod Khosla left Sun in 1985 to join Kleiner Perkins <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>.
+
+From 1982 to 1987, Sun doubled the number of workstations shipped every six months <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. In 1985, they launched the Sun 3 workstation series, featuring the Motorola mc68020 processor and introducing the Network File System (NFS), which Sun licensed for a nominal fee, making it a widely adopted standard <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. The Sun 3 was an immediate success, accounting for a third of total sales in its release quarter <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>.
+
+By 1987, Sun had surpassed Apollo Computer, its former main rival <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. Although Apollo had superior hardware, customers opted for Sun's cheaper computers; the Sun 3 was 15% less expensive than Apollo's offerings <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. Apollo was eventually acquired by Hewlett-Packard in April 1989 and subsequently shut down <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>.
+
+Sun's IPO in March 1986 raised $45 million, making it the largest tech IPO in three years, with revenues of $210 million <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. Their first annual report highlighted their "rejection of proprietary systems" and concentration on "distributed computing technology standards and high quality" as their own "proprietary product" <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>. From 1986 to 1988, Sun's revenues quintupled from $210 million to $1.1 billion <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>.
+
+## Challenges and Shifting Strategies
+
+### Motorola Limitations and SPARC Development
+
+Sun's rapid growth exposed a critical weakness: their reliance on Motorola for microprocessors <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. Motorola's single design team struggled to keep up with Sun's demands; for instance, a memory bug took two years to fix, and speed upgrades from 10 megahertz to 12 megahertz took just as long <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+
+After an unsuccessful test of an [[intel_and_amds_presence_in_the_chinese_market | Intel]]-compatible workstation, Bill Joy proposed designing their own microprocessor based on the RISC (Reduced Instruction Set Computer) architecture, which IBM had recently explored <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. RISC's key principle was that each instruction performed only one function, potentially speeding things up fourfold <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
+
+In 1987, the team, led by Anant Agra, finalized the SPARC CPU, fabricated by Fujitsu <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>. It proved significantly faster than competitors' offerings and was integrated into Sun's next major workstations, the Sun 4 or SPARCstation series, released in 1989 <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. Sun's primary revenue came from selling complete systems, leveraging off-the-shelf parts to create cheap, high-powered workstations for technical applications in government, corporations, and Wall Street <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>.
+
+### The Unix Wars
+
+Encouraged by their success with NFS, Sun partnered with AT&T in 1987 to collaborate on Unix <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>. Sun aimed to unify the complex Unix ecosystem, envisioning a new unified Unix as a pathway into the broader consumer market <a class="yt-timestamp" data-t="00:10:51">[00:10:51]</a>. However, [[ibm_business_strategies_and_impact | IBM]], Hewlett-Packard, and other Unix licensees rebelled, fearing Sun and AT&T's control over Unix <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. They formed the Open Software Foundation (OSF), which McNealy called the "Opposed Sun Forever Foundation," attracting vendors and developers under the banner of true openness without a single company in charge <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>.
+
+Sun and AT&T responded by forming their own competing organization, Unix International, signing up companies like Toshiba and Motorola <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>. The "Unix Wars" had lasting effects <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>. It crippled Sun's microprocessor strategy; Sun tried to license its RISC-based SPARC chip designs but insisted on retaining IP control, preventing any "fork" and hindering SPARC's widespread adoption <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>. A few years later, ARM (Advanced RISC Machines Limited) was founded in the United Kingdom, selling similar RISC designs <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>.
+
+In software, the war stalled technical progress on Unix and divided its community, with neither side producing a truly competitive commercial product <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>. Although the Sun-AT&T collaboration eventually produced the Solaris operating system <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>, the wars opened the door for a new competitor: Microsoft <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>.
+
+### Microsoft's Emergence and Market Shift
+
+In 1993, Microsoft released Windows NT 3.1, an operating system for workstations and server computers <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>. Windows NT incorporated elements from Unix and [[ibm_business_strategies_and_impact | IBM]] to create a 32-bit, business-oriented OS with networking and file sharing for multi-user collaboration <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>. It was well-timed: Unix was distracted, and parts of it were in legal dispute; Linux, while emerging, was not yet desktop-ready; and Apple was struggling post-Steve Jobs <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>. For many businesses, Microsoft became the dominant player <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>.
+
+Sun's competitors, including [[ibm_business_strategies_and_impact | IBM]] and HP, rapidly adopted Windows NT for their workstations <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>. Sun, however, maintained that Unix was superior and refused to adopt Windows <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>. It soon became clear that Windows NT and Windows 95, combined with [[intel_and_amds_presence_in_the_chinese_market | Intel]]'s rapid CPU performance improvements, were eroding Sun's original workstation market share <a class="yt-timestamp" data-t="00:13:23">[00:13:23]</a>.
+
+## Shift to Enterprise Server Market
+
+Throughout the 1990s, Sun transitioned to a more vertically integrated business strategy, selling complete systems centered on SPARC hardware and Solaris software <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>. As [[intel_and_amds_presence_in_the_chinese_market | Intel]] and Microsoft increasingly encroached on the high-end workstation market, Sun moved upwards into the enterprise server market <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>.
+
+In 1996, Sun acquired Cray Business Systems, a division of the supercomputer maker Cray that had adopted SPARC and Solaris technologies for the commercial market but failed to gain traction <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>. Sun's vertically integrated stack—from networking to processor to operating system—proved ideal for the server market <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>. Solaris was known for its symmetric multi-processing capabilities, allowing a large number of SPARC processors (up to 100) to be added for easy, low-latency scaling <a class="yt-timestamp" data-t="00:14:19">[00:14:19]</a>. While [[intel_and_amds_presence_in_the_chinese_market | Intel]] might produce faster individual processors, Sun servers could outperform on a system basis due to their scalability, whereas Windows and [[intel_and_amds_presence_in_the_chinese_market | Intel]] could typically handle only four to eight processors <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>.
+
+As the internet grew in the 1990s, the web-connected server market expanded beyond Sun's traditional workstation business <a class="yt-timestamp" data-t="00:14:46">[00:14:46]</a>. Sun Enterprise servers were adopted by major companies like eBay, Yahoo, Dell, Bloomberg, Merrill Lynch, and even Microsoft for their web operations <a class="yt-timestamp" data-t="00:14:55">[00:14:55]</a>. This led to annual revenue growth of 50% to 60% <a class="yt-timestamp" data-t="00:15:07">[00:15:07]</a>.
+
+## Decline and Acquisition
+
+The internet bubble's burst significantly impacted Sun, slicing its multi-billion dollar business by nearly half <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>. Thousands of Sun systems units were resold on the secondary market at fire sale prices <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>. Management struggled through several unprofitable years: after profits of $1.85 billion and $927 million in 2000 and 2001, Sun lost $587 million in 2002 and $3.4 billion in 2003 <a class="yt-timestamp" data-t="00:15:25">[00:15:25]</a>.
+
+Research and development costs remained high due to Sun's commitment to supporting technology ecosystems like SPARC, Solaris, and Java, their popular programming language, which alone required 4,000 developers annually <a class="yt-timestamp" data-t="00:15:42">[00:15:42]</a>.
+
+The rise of truly open source software further challenged Sun. While Sun initially marketed itself as "open" compared to proprietary competitors, it wasn't genuinely open in the modern sense <a class="yt-timestamp" data-t="00:15:56">[00:15:56]</a>. For instance, until 2005, Solaris source code was not freely available for download or full viewing without a contract <a class="yt-timestamp" data-t="00:16:12">[00:16:12]</a>. Frustration with these practices fueled the grassroots open source movement, exemplified by Linux <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>.
+
+For a long time, Linux was considered a hobbyist's tool, but it eventually became robust enough for business-critical production environments <a class="yt-timestamp" data-t="00:16:34">[00:16:34]</a>. Businesses found they could scale by creating clusters of Linux servers using commodity hardware <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>. Widespread Linux adoption decimated Sun's Enterprise server business, leaving the company without a viable strategy <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>.
+
+Throughout the 2000s, Sun attempted to return to its "open" roots by open-sourcing its technology and acquiring companies like the database MySQL and data storage company StorageTek <a class="yt-timestamp" data-t="00:17:03">[00:17:03]</a>. However, with the global financial crisis, investors grew tired of the continuous losses <a class="yt-timestamp" data-t="00:17:17">[00:17:17]</a>.
+
+In 2009, Oracle acquired Sun for $7.4 billion <a class="yt-timestamp" data-t="00:17:25">[00:17:25]</a>. From 2000 until its acquisition, Sun had lost over $10 billion in revenue and over 90% of its stock value <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>. The company's products have since been rebranded <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>.
+
+Sun was known for its "brash" attitude and aggressive competitive practices <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>. While this approach worked during its periods of rapid growth in the 1980s and 1990s, it became detrimental as technology trends shifted <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>. Sun's refusal to adapt or collaborate left it as "a lonely outpost of technology far from the Leading Edge" <a class="yt-timestamp" data-t="00:17:56">[00:17:56]</a>. This contrasts with Microsoft's later transformation under Satya Nadella, who had previously worked for Sun before joining Microsoft in 1992 <a class="yt-timestamp" data-t="00:18:06">[00:18:06]</a>.

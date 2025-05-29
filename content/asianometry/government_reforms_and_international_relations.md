@@ -1,0 +1,48 @@
+---
+title: Government reforms and international relations
+videoId: bf0j26bCbkA
+---
+
+From: [[asianometry]] <br/> 
+
+The Republic of Moldova, a small, landlocked country in Eastern Europe, has faced immense challenges since gaining independence from the Soviet Union. Its journey has been marked by daunting government reforms, economic instability, and complex international relations <a class="yt-timestamp" data-t="06:26:47">[06:26:47]</a>.
+
+## Post-Soviet Transition
+
+After the collapse of the Soviet Union, Moldova underwent a "wholesale remaking of their identity, economy and government all at once" <a class="yt-timestamp" data-t="06:30:42">[06:30:42]</a>. This transition was complicated by the country's ethnic divisions, cultivated by years of Soviet rule, leading to strong anti-Russian sentiments among some, while many still supported closer ties with Russia <a class="yt-timestamp" data-t="08:05:43">[08:05:43]</a>. The push for reunification with Romania, advocated by some nationalists, further deepened internal divisions <a class="yt-timestamp" data-t="05:31:05">[05:31:05]</a>.
+
+### Early Economic Reforms
+
+Moldova's economy was collapsing, shrinking by an average of seven percent annually, and experienced hyperinflation, with monthly rates reaching 75% in the first six months of 1992 <a class="yt-timestamp" data-t="06:40:42">[06:40:42]</a>. By the end of 1992, 79% of the population had fallen into poverty <a class="yt-timestamp" data-t="07:10:42">[07:10:42]</a>.
+
+To stabilize the economy, the new government aimed to transition to a functional market economy by 1996, focusing on two key reforms <a class="yt-timestamp" data-t="07:29:16">[07:29:16]</a>:
+*   **Trade Liberalization** Prices of essential goods like milk, eggs, and bread were to be set by the market <a class="yt-timestamp" data-t="07:37:02">[07:37:02]</a>.
+*   **Privatization of State Property** Shares in state-owned firms and land from collective farms were to be distributed to the people <a class="yt-timestamp" data-t="07:44:48">[07:44:48]</a>.
+
+These reforms, intended as "shock therapy," faced significant implementation issues. Privatization legislation passed in 1991 but didn't start until 1993 due to political squabbling and lack of funds <a class="yt-timestamp" data-t="10:40:17">[10:40:17]</a>. Company managers exploited inside knowledge to buy shares at low prices or pilfer assets <a class="yt-timestamp" data-t="10:55:40">[10:55:40]</a>. Agricultural land distribution, mostly occurring between 1998 and 2000, was also mismanaged, with plots distributed without considering quality or fertility, and some "smart people" assembling massive parcels of fertile land <a class="yt-timestamp" data-t="11:20:00">[11:20:00]</a>.
+
+As a result, the state privatization schemes failed their goals, enriching a select group of connected individuals who became oligarchs, while most citizens remained poor <a class="yt-timestamp" data-t="12:01:00">[12:01:00]</a>. By 1997, Moldova's GDP had fallen to 35% of what it was a decade earlier, and over 50% of the population lived on less than $2.15 a day <a class="yt-timestamp" data-t="12:15:23">[12:15:23]</a>. The black market accounted for 70% of the country's livelihood <a class="yt-timestamp" data-t="12:28:34">[12:28:34]</a>.
+
+### Political Competition and Shifting Alliances
+
+Unlike some other post-Soviet states that quickly reverted to authoritarianism, Moldova's weak state and deeply divided populace initially prevented a single authority from rising to power <a class="yt-timestamp" data-t="09:05:07">[09:05:07]</a>. The 1990s saw competitive elections, peaceful transfers of power, and an openly critical media <a class="yt-timestamp" data-t="09:22:15">[09:22:15]</a>. The judiciary even curbed presidential powers, striking down an attempt to fire a general in 1996 <a class="yt-timestamp" data-t="09:46:17">[09:46:17]</a>. However, this intense political competition led to informal relationships like clans and patrons, fostering widespread corruption <a class="yt-timestamp" data-t="10:00:25">[10:00:25]</a>.
+
+In 2001, the Communist Party of Moldova, led by Vladimir Voronin, returned to power, winning 49.9% of the vote. They played on nostalgia for Soviet times, promising free healthcare and closer ties with Russia <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>. This marked them as the only post-Soviet Communist party to regain power after the Soviet collapse <a class="yt-timestamp" data-t="13:31:39">[13:31:39]</a>. In his first term, Voronin attempted to tilt Moldova towards Russia, including expanding Russian language learning in schools and a potential deal with Putin regarding the Transnistria issue <a class="yt-timestamp" data-t="13:49:15">[13:49:15]</a>. However, domestic and international pushback thwarted these plans <a class="yt-timestamp" data-t="14:00:39">[14:00:39]</a>.
+
+By the 2005 elections, Voronin shifted his platform to proposing Moldova's entry into the EU, a genuinely popular idea, and successfully formed a coalition to remain president <a class="yt-timestamp" data-t="14:09:47">[14:09:47]</a>. The 2000s became a decade of significant corruption, as party politicians infiltrated the economy and enriched themselves by transferring public assets to private hands <a class="yt-timestamp" data-t="14:33:04">[14:33:04]</a>.
+
+## State Capture and the "Robbery of the Century"
+
+A key figure in this period was Vladimir Plahotniuc, who rose to become one of the country's most powerful leaders despite emerging seemingly "out of nowhere" <a class="yt-timestamp" data-t="16:33:55">[16:33:55]</a>. He owned a media company, giving him significant influence <a class="yt-timestamp" data-t="16:44:09">[16:44:09]</a>. Plahotniuc and his coalition partner, Vlad Filat, another billionaire who made his fortune from illegal trading and buying state assets, carved up the country's government into their "fiefdoms" <a class="yt-timestamp" data-t="17:34:03">[17:34:03]</a>. Filat controlled financial regulators and the Ministry of Economy, while Plahotniuc solidified control of the judiciary and law enforcement, which proved crucial in his eventual downfall <a class="yt-timestamp" data-t="17:48:07">[17:48:07]</a>.
+
+In November 2014, a massive scandal, dubbed the "robbery of the century," came to light <a class="yt-timestamp" data-t="19:34:39">[19:34:39]</a>. Three Moldovan banks were taken over and forced to issue nearly three billion dollars in bad loans, about 15% of the country's GDP, which were laundered through shell companies <a class="yt-timestamp" data-t="18:43:24">[18:43:24]</a>. When these loans went unpaid, the banks collapsed, and the Moldovan National Central Bank secretly bailed them out <a class="yt-timestamp" data-t="18:59:44">[18:59:44]</a>. This secret bailout forced the Ministry of Finance to issue a billion dollars in 25-year bonds, burdening the Moldovan people for decades <a class="yt-timestamp" data-t="19:10:04">[19:10:04]</a>. The Moldovan currency devalued by over 40%, causing inflation to explode <a class="yt-timestamp" data-t="19:22:42">[19:22:42]</a>.
+
+Ilan Shor, an Israel-born Moldovan oligarch, was masterminded this scheme <a class="yt-timestamp" data-t="19:29:43">[19:29:43]</a>. In the aftermath, over 100,000 people protested against corruption <a class="yt-timestamp" data-t="19:38:09">[19:38:09]</a>. Shor was arrested, and in exchange for leniency, he implicated former Prime Minister Filat, who was subsequently arrested and sentenced to prison <a class="yt-timestamp" data-t="19:46:25">[19:46:25]</a>. With Filat removed, Plahotniuc consolidated power, controlling state-owned companies, financial flows, and four out of five of the country's TV stations <a class="yt-timestamp" data-t="20:47:11">[20:47:11]</a>. Despite attempts to formally become Prime Minister, he was rejected by the president due to a lack of "integrity" <a class="yt-timestamp" data-t="20:05:07">[20:05:07]</a>.
+
+### International Intervention and Political Shift
+
+By 2019, Plahotniuc's party, nominally pro-European, faced challenges from the pro-European ACUM alliance (anti-Plahotniuc) and Igor Dodon's pro-Russian Socialist Party <a class="yt-timestamp" data-t="21:47:33">[21:47:33]</a>. A hung parliament led to an unexpected alliance between ACUM and the Socialists <a class="yt-timestamp" data-t="22:17:16">[22:17:16]</a>. This alliance was reportedly influenced by Dodon's Russian patrons, who feared losing influence over the Socialist Party if an alliance with Plahotniuc occurred <a class="yt-timestamp" data-t="22:36:23">[22:36:23]</a>.
+
+This strange new alliance, backed by the EU, US, and Russia, formed a government in June 2019 with ACUM's Maia Sandu as prime minister <a class="yt-timestamp" data-t="22:53:36">[22:53:36]</a>. Plahotniuc tried to prevent this by cutting power to the Parliament building and having the Constitutional Court invalidate the new government <a class="yt-timestamp" data-t="23:07:37">[23:07:37]</a>. However, sustained, unified international pressure forced the Constitutional Court to reverse its decision, acknowledging its bias <a class="yt-timestamp" data-t="23:23:51">[23:23:51]</a>. The Democratic Party gave up power, and Plahotniuc fled the country <a class="yt-timestamp" data-t="23:33:09">[23:33:09]</a>.
+
+Moldova remains a profoundly poor and corrupt society, with significant time and effort needed to reverse decades of poorly executed policies and bad governance <a class="yt-timestamp" data-t="24:07:12">[24:07:12]</a>.

@@ -1,0 +1,52 @@
+---
+title: Future developments in EUV systems by ASML
+videoId: en7hhFJBrAI
+---
+
+From: [[asianometry]] <br/> 
+
+[[ASMLs rise in the photolithography industry | ASML]] is actively developing the next generation of extreme ultraviolet (EUV) systems, known as High-NA EUV, to overcome existing challenges and enable future advancements in semiconductor manufacturing <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. These new machines are designed to be more capable than current EUV systems and represent [[ASMLs rise in the photolithography industry | ASML's]] follow-up to its most complex nanolithography system <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+
+## Driving Force for High-NA EUV
+
+While current [[Overview of ASMLs Extreme Ultraviolet Lithography | EUV lithography]] is technically functional, significant commercial challenges persist, primarily related to throughput <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+
+### Current Throughput Limitations
+*   **Slower Machines**: [[EUV and DUV technologies in semiconductor manufacturing | EUV machines]] are inherently slower than older lithography tools, necessitating the purchase of more machines to maintain previous wafer output levels <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+*   **High Wafer Cost**: For instance, TSMC's leading-edge N5 process, which utilizes 14 to 15 [[EUV and DUV technologies in semiconductor manufacturing | EUV layers]], produces wafers estimated to cost around $17,000 each, an eighty percent price jump from prior processes <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>, <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. To reduce this cost, higher throughput is essential <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+*   **Increasing EUV Layers**: TSMC's next node, N3, requires even more [[EUV and DUV technologies in semiconductor manufacturing | EUV layers]] (20 to 25), risking further throughput decline and hindering economies of scale <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
+*   **Multiple Patterning**: To achieve desired feature density, techniques like multiple patterning are often used. This involves multiple exposures per layer, doubling or even tripling the processing time, making current [[EUV and DUV technologies in semiconductor manufacturing | EUV]] uneconomical <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>, <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+
+The most economical solution to these issues is to acquire [[Overview of ASML lithography machines | EUV machines]] that perform lithography with greater precision and speed <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
+
+## What is High-NA EUV?
+High-NA EUV machines aim to improve resolution by increasing the "Numerical Aperture" (NA), a dimensionless number indicating how much light an optical system can collect and focus <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. According to Rayleigh's formula (Resolution = k1 * light wavelength / NA), increasing the NA is the primary way to enhance resolution, as the k1 factor has a physical limit and the light wavelength for [[The evolution of EUV lithography | EUV]] is already at a minimal 13.5 nanometers <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>, <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+
+The current most advanced [[Overview of ASML lithography machines | ASML EUV machine]], the NXE 3600D, has an NA of 0.33, resulting in a 26-nanometer pitch and a throughput of about 160 wafers per hour <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>, <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+
+[[ASMLs rise in the photolithography industry | ASML's]] first High-NA EUV machine, the EXE 5000, will increase the NA from 0.33 to 0.55 <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. This translates to a 16-nanometer pitch, a 67% improvement, making it the preferred method for the N3 process <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>. High-NA [[EUV and DUV technologies in semiconductor manufacturing | EUV]] also promises higher resolution with fewer defects, leading to more usable wafers and the potential to replace layers that previously required multi-patterning <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+
+## Engineering Challenges in High-NA EUV
+
+Developing High-NA [[The evolution of EUV lithography | EUV]] presents two primary engineering challenges: the optics and the photoresist <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+
+### Optics
+The Starlit 5000 optics system, developed by Zeiss, is central to High-NA [[The evolution of EUV lithography | EUV]] <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
+*   **Light Cone Redesign**: To achieve a higher NA, the system must allow light to hit the wafer at more angles, essentially making the light cone at Mirror 6 (M6) thicker <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>, <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
+*   **Mirror Interference**: The thicker M6 light cone creates interference with Mirror 5 (M5), leading to imaging errors <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. This is because multi-layer mirrors, with their 50 [[ASMLs EUV Light Source and Laser Mechanics | EUV-reflecting layers]], are limited to reflecting light at very specific angles (around 13 degrees) <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+*   **Solution: Obscurations**: Zeiss engineered "obscurations"—oval-shaped holes drilled into the mirrors—to reduce angular spread and significantly increase light transmission through the optics <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>. The super mirrors used in these systems are massive, measuring a meter wide with picometer accuracy <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+*   **Reticle/Mask Design**: The reticle (or mask), which contains the chip design pattern, cannot change in size due to redesign costs <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>, <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>. A higher NA at the wafer stage requires a proportionally higher NA at the mask stage <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. Increasing the NA with a 0.33 NA system's four times magnification causes light cones to overlap at the reticle <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>, <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>.
+*   **Solution: Magnification Factor and Anamorphic Imaging**: Raising the [[ASMLs EUV Light Source and Laser Mechanics | EUV light]] reflection angle to avoid overlap is not feasible due to mask shadowing effects <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. The solution was to increase the magnification factor from four times to eight times <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>. However, this shrinks the wafer exposure area to a quarter of its size (from 33mm x 26mm to 16.5mm x 13mm), which is economically unacceptable due to slower processing <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>, <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>. To counter this, [[ASMLs rise in the photolithography industry | ASML]] and Zeiss implemented anamorphic imaging, borrowing technology from the movie industry <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>. This allows for different magnification factors on the X and Y axes, specifically an eight-times magnification only along the Y-axis <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. This new optics technology can project a 16.5mm by 26mm field, which is a half-size but considered acceptable <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>.
+
+### Photoresist
+*   **Thinner Resist**: A higher NA necessitates a thinner photoresist layer to mitigate the risk of pattern or line collapse <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>. If the resist is too thick, lines can be too close, distorting the design or causing lines to fall over during the drying process after [[Overview of ASMLs Extreme Ultraviolet Lithography | EUV exposure]] and washing <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>. The aim is a resist layer at least 50% thicker than the pitch; for a 16-nanometer pitch, this means a 20-nanometer thick resist <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>.
+*   **New Resist Development**: [[ASMLs rise in the photolithography industry | ASML]] is collaborating with partners like IMEC, PSI, and CXRO to develop suitable new photoresists, a challenge still being addressed <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>.
+
+### Other Challenges
+*   **Bigger Mirrors**: The need for larger mirrors <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>.
+*   **Mask Frame Layout**: Redesigning the mask frame <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>.
+*   **Pellicle**: Development of the pellicle, a protective membrane <a class="yt-timestamp" data-t="00:13:26">[00:13:26]</a>.
+*   **Metrology System**: The metrology system, which inspects progress and quality, is particularly challenging as it must inspect features less than 20 nanometers wide. [[ASMLs rise in the photolithography industry | ASML]] is exploring e-beam inspection techniques for this <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>, <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>.
+
+## Future Outlook
+[[The evolution of EUV lithography | High-NA EUV]] machines remain in development, with the first EXE 5000 units expected to be delivered to customers in late 2022 <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>. An improved version, the EXE 5200, is anticipated by 2024 or 2025, boasting an expected throughput of 220 wafers per hour <a class="yt-timestamp" data-t="00:14:09">[00:14:09]</a>. These machines will be massive, comparable in size to a crouched T-Rex, and come with a hefty price tag of over $300 million each <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>, <a class="yt-timestamp" data-t="00:14:31">[00:14:31]</a>. The EXE 5000 is an engineering marvel that will need to justify its monstrous price tag through its capabilities <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>.

@@ -1,0 +1,46 @@
+---
+title: Magnetic levitation and laser metrology in wafer handling
+videoId: 1fOA85xtYxs
+---
+
+From: [[asianometry]] <br/> 
+
+The semiconductor industry relies on extreme precision to manufacture microchips. [[ASMLs role in semiconductor manufacturing|ASML]] machines, like high-end cameras, transfer intricate chip designs onto wafers using high-energy light <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. When positioning a wafer for DUV or [[EUV and DUV technologies in semiconductor manufacturing|EUV]] exposure, the machinery must achieve nanometer-scale accuracy <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. These stringent requirements have driven the evolution of wafer handling systems from mechanical and hydraulic methods to advanced magnetic levitation and sophisticated laser metrology.
+
+## The Challenge of Wafer Positioning
+
+A human hair is roughly 50,000 to 100,000 nanometers wide, while a virus is about 20 to 300 nanometers wide <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. A fingernail grows approximately 1 nanometer per second <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. Within these minuscule scales, [[ASMLs role in semiconductor manufacturing|ASML]]'s lithography machines must position a wafer stage to within a few nanometers of the target <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+
+The wafer and its stage are substantial, with a fully loaded 300-millimeter wafer stage weighing around 15 kilograms <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. This platform needs to move wafers incredibly quickly while also being able to stop abruptly and hold absolutely still during the exposure stage <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. This requires excellent "overlay," meaning the relative position of any pattern layer compared to others <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>. Overlay requirements can be just a few nanometers, and errors can compromise device capabilities or cause short-circuits <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>.
+
+Inside the machine, the wafer stage can accelerate up to 20 G-forces—twenty times the force of gravity, three times a Formula 1 car's maximum force, or twice a jet fighter's maximum permitted force <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. Despite these rapid movements, the system must operate without causing vibrations, which would disrupt precision targeting <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+
+## Evolution of Wafer Movement Systems
+
+Early lithography machines from Philips, the precursor to [[ASMLs role in semiconductor manufacturing|ASML]], initially used hydraulic linear motors to move wafer stages <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. While precise, these systems suffered from reliability issues; any oil leak in a cleanroom fab would be devastating <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. This led to a shift towards electrically-driven systems <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+
+### Linear Motors and Aerostatic Systems
+
+Philips leveraged its experience from developing optical disc technologies like the Compact Disc to create precise linear motors <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>. Linear motors directly convert electricity to movement using the Lorentz Law, exploiting the interaction of electric and magnetic fields <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>. This technology was successfully applied to position silicon wafers, enhancing [[ASMLs role in semiconductor manufacturing|ASML]] machine's maneuvering precision <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>.
+
+During the 1990s and early 2000s, the industry adopted "aerostatic systems" to overcome friction and vibration issues inherent in mechanical guides <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>. These systems float the wafer stage on a thin film of extremely dry air, much like a puck on an air hockey table, which reduces friction and vibrations <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>.
+
+For these air-based systems, [[ASMLs role in semiconductor manufacturing|ASML]] employed interferometers to track the stage's positioning. These involved lasers reflecting off a mirror mounted on the side of the stage <a class="yt-timestamp" data-t="00:12:32">[00:12:32]</a>. However, the precision was so tight that calculations were needed to compensate for the air's refractive index, which changed as the stage moved, throwing off measurements by as much as 1 nanometer <a class="yt-timestamp" data-t="00:12:44">[00:12:44]</a>.
+
+### Magnetic Levitation
+
+While aerostatic systems were effective for many years, the increasing [[challenges_in_semiconductor_lithography|cleanliness benchmarks]] for [[EUV and DUV technologies in semiconductor manufacturing|EUV]] required a vacuum environment, where air systems are not viable <a class="yt-timestamp" data-t="00:13:05">[00:13:05]</a>. In preparation for this, [[ASMLs role in semiconductor manufacturing|ASML]] began transitioning to magnetic levitation (mag-lev) for suspending their wafer stages in the late 2000s <a class="yt-timestamp" data-t="00:13:11">[00:13:11]</a>.
+
+The mag-lev system supports the wafer stage on a 1,400-kilogram magnet plate array containing over 2,200 magnets, precisely placed within 20 micrometers <a class="yt-timestamp" data-t="00:13:26">[00:13:26]</a>. Of these, 1,457 magnets are arranged in a Halbach array, a configuration that strengthens the magnetic field on one side while canceling it out on the other <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>.
+
+Challenges with mag-lev systems include dealing with errant magnetic fields that could interfere with the wafer and managing cooling, which might involve umbilical cords or hoses that could impede movement <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>. Some proposals suggest a single mag-lev system for both "short-stroke" (fine) and "long-stroke" (coarse) movements, eliminating the need for stacked stages and saving space and weight <a class="yt-timestamp" data-t="00:14:33">[00:14:33]</a>. However, current designs still show separate electromagnetic motors for these different movements <a class="yt-timestamp" data-t="00:14:52">[00:14:52]</a>.
+
+## Advanced Metrology in TWINSCAN Machines
+
+With the shift to magnetic levitation, [[ASMLs role in semiconductor manufacturing|ASML]] also updated its metrology systems. For NXT immersion systems (which are not in a vacuum), the metrology lasers now fire down from a grid mounted over the stages, reducing the travel distance from up to 300 millimeters to just 15 millimeters <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>. This change simplified air refractive index calculations and improved overlay accuracy <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>.
+
+The TWINSCAN platform, [[ASMLs role in semiconductor manufacturing|ASML]]'s primary lithography machine brand, utilizes a dual-stage cycle (measurement and exposure) to optimize throughput <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>. While one wafer undergoes exposure, another is simultaneously measured, aligned, and prepared <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. This coordinated movement is managed by the Control Architecture Reference Model motion control platform (CARM), powered by FPGAs and process controllers <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>. This dual-stage setup was a significant engineering feat, requiring the machine's architecture to be reworked to balance weight, mass, and manage vibrations from simultaneous processes <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>. The lens and metrology equipment, mounted on a "metrology frame," are isolated from the rest of the tool's main frame using air-bearings, which use highly pressurized gas to reduce friction <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>.
+
+The measurement stage, not the exposure stage, is crucial for hitting throughput benchmarks <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. For example, a DUV machine processing 175 wafers per hour spends only 20 seconds on exposure during a 2-minute cycle; the rest of the time is dedicated to measurement <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>.
+
+The sophisticated software running these machines plays a pivotal role in orchestrating these complex movements and measurements. From 1989 to 2000, the number of CPUs and sensors in [[ASMLs role in semiconductor manufacturing|ASML]]'s tools increased six and eight times, respectively <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>. The 1989 PAS5000 stepper had 200 million lines of source code, while the 2003 TwinScan had 1.25 billion <a class="yt-timestamp" data-t="00:15:35">[00:15:35]</a>. This aggressive leveraging of software has been a key driver behind [[ASMLs role in semiconductor manufacturing|ASML]]'s strong performance <a class="yt-timestamp" data-t="00:15:55">[00:15:55]</a>.

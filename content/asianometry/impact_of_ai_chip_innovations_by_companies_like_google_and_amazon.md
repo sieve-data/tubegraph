@@ -1,0 +1,34 @@
+---
+title: Impact of AI chip innovations by companies like Google and Amazon
+videoId: L0948yq2Hqk
+---
+
+From: [[asianometry]] <br/> 
+
+The evolution of GPUs initially spurred the neural network revolution, but their general-purpose design led companies to develop specialized hardware for running specific [[ai_and_ai_chip_boom | AI algorithms]] <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. These specialized chips are known as [[ai_accelerator_hardware_market_and_its_growth | AI accelerators]] <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. The [[ai_accelerator_hardware_market_and_its_growth | AI accelerator hardware market]] is currently estimated to be worth over $35 billion, with venture capitalists investing nearly $2 billion in AI chip startups in 2021 <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. TSMC also identifies [[ai_accelerator_hardware_market_and_its_growth | AI accelerator hardware]] as a top revenue driver for the near future <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+
+Early research in 2011 demonstrated that custom hardware could significantly improve performance and power consumption for neural networks compared to GPUs, which were then the de facto standard <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. Early projects like Dianna (Chinese Academy of Sciences Institute of Computing Technology), Iris (MIT), and Teradeep (a startup by the 2011 paper's authors) created specialized inference hardware with substantial [[energy_efficiency_in_ai_data_centers | energy efficiency]] improvements <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>, <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>, <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. These efforts laid the groundwork for major tech companies to enter the space.
+
+## Google's Tensor Processing Unit (TPU)
+
+Google significantly impacted the [[ai_accelerator_hardware_market_and_its_growth | AI accelerator]] market when it publicly unveiled its Tensor Processing Unit (TPU) in May 2016 <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>. Google began developing its own chips in 2013, driven by the immense computational demands of [[role_of_ai_accelerators_in_neural_network_training_and_inference | training and deploying neural networks]] on their servers <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>.
+
+The TPU is an Application Specific Integrated Circuit (ASIC) specifically designed for matrix multiplication, which constitutes about 90% of the work in neural network computations <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>, <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. At its core, the TPU features a matrix multiply unit containing 65,536 multiply-accumulator (MAC) circuits arranged in a 256x256 array <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>. These MAC units are designed to perform simple multiplication and accumulation <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>.
+
+### Performance and Efficiency
+Compared to contemporary server chips like the 18-core Intel Haswell CPU and the [[nvidia_and_ai_chip_competition | Nvidia]] Kepler K80 GPU, the TPU has far more MAC units and on-chip memory for intermediate results <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. The design's primary goal is to ensure the matrix multiply unit is in constant use <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. This specialization allows Google's first-generation TPU to run [[role_of_ai_accelerators_in_neural_network_training_and_inference | inference]] 50 to 30 times faster and achieve 30 to 80 times better [[energy_efficiency_in_ai_data_centers | energy efficiency]] than its contemporaries <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>. By populating its data centers with these high-performing TPUs, Google saves millions of dollars by reducing its reliance on CPUs and GPUs <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>.
+
+### Strategic Integration
+Google's control over its machine learning software framework, TensorFlow, allows it to precisely customize the hardware for its software <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>. This end-to-end system enables advanced capabilities, such as object searches across years of uploaded Google Photos <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>. Although Google does not sell its TPUs directly, it offers their computing power through its Google Cloud service <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>. Google's innovation effectively "created the server [[ai_and_ai_chip_boom | AI ASIC]] industry" <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>.
+
+## Amazon's Trainium Devices
+
+Following Google's lead, other major cloud hyperscalers have also ventured into designing their own [[ai_and_ai_chip_boom | AI chips]]. Amazon, with its AWS cloud service, had already demonstrated its chip design expertise with its internally designed ARM-based Graviton CPUs, which became a viable alternative to Intel server CPUs <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>.
+
+In December 2020, Amazon announced its own Trainium devices, which are [[role_of_ai_accelerators_in_neural_network_training and inference | AI training]] accelerators <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. These offerings from Amazon, along with Google's TPUs, present a significant challenge to existing GPU and hardware makers in the server market <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>.
+
+## Competitive Landscape
+
+The entry of tech giants like Google and Amazon into in-house [[ai_and_ai_chip_boom | AI chip]] design has intensified competition in the server [[ai_accelerator_hardware_market_and_its_growth | AI accelerator]] market. This landscape has become particularly challenging for startups, as major buyers are now developing their own chips and integrating them into their cloud instances more favorably <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>. This trend is evident with Intel's acquisition of Habana in December 2019, a company founded in 2016 that developed data center products for machine learning model [[role_of_ai_accelerators_in_neural_network_training_and_inference | training]] <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>.
+
+Even [[nvidia_and_ai_chip_competition | Nvidia]], a leading GPU manufacturer, has developed custom [[ai_accelerator_hardware_market_and_its_growth | AI hardware]] like the Tesla V100, an [[ai_accelerator_hardware_market_and_its_growth | AI processor]] with over 20 billion transistors and 5,120 cores, leveraging its strong software competitive advantage <a class="yt-timestamp" data-t="00:11:20">[00:11:20]</a>.
