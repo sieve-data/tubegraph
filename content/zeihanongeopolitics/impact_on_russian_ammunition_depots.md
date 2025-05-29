@@ -1,0 +1,29 @@
+---
+title: Impact on Russian ammunition depots
+videoId: pBfxY3b3R1g
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+Recent Ukrainian attacks on Russian ammunition depots signal a potential shift in the war's tempo <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. In late September, Ukraine successfully struck multiple major arm depots within Russian territory, some located hundreds of miles from the border <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+
+## Key Incidents and Scale
+The targeted locations include Kodor, Tow Rope, and Tick Hor Retes <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. One of these explosions was of such magnitude that it registered on seismic monitoring stations a thousand miles away, indicating a kiloton-range blast <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## Russian Ammunition Handling and Vulnerability
+Russian military logistics and storage methods contribute to the severity of these explosions. Unlike standard practices, Russians do not use forklifts, crates, or pallets for ammunition storage; instead, items are kept in boxes and moved by hand <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. This less organized approach means that when something goes wrong, the resulting explosions are often catastrophic <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
+
+## New Ukrainian Weaponry
+Ukraine has introduced a new weapon system, described as a "drone missile" named "Lenisa," which is slightly less than a cruise missile <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. While its range is limited to no more than 300 miles—shorter than some other Ukrainian drones <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>—it flies much faster, is harder to intercept, and carries a significantly heavier payload <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. Warheads for these new missiles are estimated to be two to five times larger than previous drones, which typically carried only about 75 pounds <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. The attack on Toit specifically involved at least a hundred of these new systems, indicating they are being manufactured and deployed in large numbers <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+
+## [[consequences_for_russian_logistics_and_transport | Russian Rail Vulnerability]]
+Russia primarily relies on rail for moving cargo over long distances, with 90% of goods, including military supplies, transported by train <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>. The final mile of delivery is often handled manually or by civilian vehicles <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. This dependence creates significant vulnerabilities. In the attack on Tiaret, a train was apparently unloading ammunition at the time of the strike, leading to the destruction of the entire depot <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+This incident suggests that Ukraine may have developed the capability to track Russian rail movements in real-time <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. This capability might stem from the capture of a rail depot at Suda in the KKK Province, which could allow Ukraine to tap into or hack the Russian rail network, providing schedules and locations of locomotives and their cargo <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. If Ukraine can identify trains carrying explosive materials heading to ammunition warehouses, these locations become prime targets <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>.
+
+## Strategic Implications
+With improved intelligence on the rail system and the deployment of faster, more lethal drone missiles, Ukraine's logical next step in targeting is Russia's power generation and distribution system <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. Given that two-thirds of Russia's locomotives are electric, disrupting the electricity supply would cripple the entire Russian transport system <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. Early signs of this strategy may have been observed in [[impact_on_russian_military_operations_in_crimea | Ukrainian drone attacks on power centers in Crimea]], which felt like test runs <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
+
+Such attacks are expected to increase within 150 miles of the Ukrainian border to the north, northeast, and east <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>. The [[strategic_implications_of_russian_military_logistics_disruption | impact of logistical and infrastructure damages on Russian forces]] is already evident, with Russian counter-offensives in places like Kursk stalling <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a> and assaults in eastern Ukraine ceasing <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>. For instance, the Russian advance towards the Ukrainian rail network at Barov, crucial for Ukrainian force movement, halted just miles short, likely due to these disruptive attacks <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>.
+
+These developments pose a severe threat to Russia's ability to supply its front lines <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. Russia's military strategy relies on overwhelming numbers of personnel and shells, which is unsustainable without a robust rail network <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>. Ukraine's ability to target the heart of this network could have significant short, medium, and long-term consequences for Russian military operations <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>.

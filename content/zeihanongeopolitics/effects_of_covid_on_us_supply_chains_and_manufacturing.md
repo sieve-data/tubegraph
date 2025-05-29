@@ -1,0 +1,24 @@
+---
+title: Effects of COVID on US supply chains and manufacturing
+videoId: UNxkpqx1LDw
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+The United States is currently undergoing its most significant re-industrialization process in history, building industrial infrastructure, factories, refineries, pipelines, and roads at a faster pace than during World War II <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+
+### Foundations of Re-industrialization
+
+Several long-standing factors underpin this industrial expansion:
+
+*   **Skilled Labor Force** The United States possesses the world's most highly skilled labor force by a significant margin <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. While smaller countries like Singapore might have higher overall education levels, and Germany or France might have slightly more productivity per hour, the sheer size of the U.S. labor force (four to six times larger than those countries) means there is little the U.S. cannot achieve if it sets its mind to it <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+*   **Focus on High-Value Added Production** Historically, particularly since 1945 and especially after 1991, the U.S. focused on extremely high-value-added industries <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. This strategy involved shipping lower-value manufacturing, such as apparel, overseas to countries like Mexico, China, and India <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. Instead, the U.S. specialized in designing advanced technologies like computers, space stations, and microchips, as the direct manufacturing of these products was not considered sufficiently high-value for the American workforce's skill set <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
+*   **[[Impact of the Shale Revolution on US industry | Shale Revolution]]** The [[Impact of the Shale Revolution on US industry | Shale Revolution]] has left the United States with an abundance of natural gas, which serves not only as a power fuel but also as a crucial input for chemical components used in various manufacturing processes <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. The U.S. became net independent in natural gas approximately a decade ago and net oil independent shortly thereafter, despite some temporary setbacks due to [[Impact of COVID on inflation and supply chains | COVID]] <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. This energy independence spurred industrial development in chemicals, making the U.S. the world's largest producer of precursor materials for petrochemicals globally <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. These materials are now being used to advance the next phase of heavy manufacturing <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+
+### Impact of Recent Events
+
+*   **[[Impact of COVID on inflation and supply chains | COVID-19]] Pandemic** The [[Impact of COVID on inflation and supply chains | COVID-19]] pandemic exposed the fragility and unreliability of international supply chains <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. [[Chinas postCOVID economic challenges | China's]] central role in global manufacturing and its own [[Chinas postCOVID economic challenges | COVID-19 lockdowns]] highlighted the need for the U.S. to produce goods domestically <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. During the pandemic, total industrial construction spending in the U.S. doubled, exceeding the 50-year average <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+*   **Inflation Reduction Act (IRA)** In the past two years, the Biden Administration passed the Inflation Reduction Act. While its name suggests a focus on inflation, the act's primary impact lies elsewhere <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. It includes provisions for a significant shift in the power system and the reshoring of production for various components within it, alongside elements related to NAFTA (now USMCA) <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. The IRA has injected approximately a trillion dollars into the system to facilitate this build-out, further doubling construction spending from its already record levels three years prior <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+
+### Future Outlook
+
+This intense industrial expansion is expected to lead to some short-to-midterm inflation due to the doubling of the industrial plant's size <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. However, in a few years, the U.S. anticipates having a localized supply chain system. This system will be staffed by local workers, serve local customers, consume less energy and water, involve fewer steps, and be largely insulated from international shocks <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.

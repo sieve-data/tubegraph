@@ -1,0 +1,29 @@
+---
+title: Potential for open Democratic convention
+videoId: vtg4pf5dsKs
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+Following the presidential debate, some friends, families, and colleagues of Joe Biden are now advising him to consider stepping down to allow a more capable candidate to run <a class="yt-timestamp" data-t="06:10:00">[06:10:00]</a>. This is seen by some, including mainstream Democrats and old-school Republicans (those who were Republicans before Donald Trump took over the [[republican_and_democratic_party_factions | party]]), as a desirable outcome, believing that a better candidate from either side could "sweep" the election given the perceived weaknesses of both current candidates <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>.
+
+## Challenges in the [[democratic_and_republican_nomination_processes | Nomination Process]]
+
+The process of bringing in a new candidate is challenging, as the [[democratic_and_republican_nomination_processes | primaries]] are functionally over <a class="yt-timestamp" data-t="06:43:00">[06:43:00]</a>. On the [[republican_and_democratic_party_factions | Democratic side]], it is unusual for a meaningful challenger to emerge for the [[democratic_and_republican_nomination_processes | nomination]] when an incumbent is in office <a class="yt-timestamp" data-t="06:49:00">[06:49:00]</a>. However, the current situation differs because Biden might willingly step down <a class="yt-timestamp" data-t="07:03:00">[07:03:00]</a>.
+
+## The Open Convention
+
+If Joe Biden were to willingly step down, it would lead to what is known as an "open convention" <a class="yt-timestamp" data-t="07:04:00">[07:04:00]</a>.
+
+### Obstacles to Talent Generation
+One of the reasons for the difficulty in finding new leadership within the [[republican_and_democratic_party_factions | Democratic party]] is attributed to Barack Obama's presidency <a class="yt-timestamp" data-t="07:11:00">[07:11:00]</a>. Obama is argued to have functionally destroyed the [[republican_and_democratic_party_factions | Democratic party's]] ability to generate talent <a class="yt-timestamp" data-t="07:19:00">[07:19:00]</a>. When he ran for president, he formed his own organization in parallel, eventually co-opting the [[republican_and_democratic_party_factions | Democratic party]] institution for his purposes, similar to what Donald Trump did <a class="yt-timestamp" data-t="07:26:00">[07:26:00]</a>. For eight years, he "sucked all the oxygen out of the room," preventing a new generation of political leaders from rising within the [[republican_and_democratic_party_factions | party]] <a class="yt-timestamp" data-t="07:43:00">[07:43:00]</a>. This legacy means that power brokers like Chuck Schumer and Nancy Pelosi, who are nearly as old as Biden, still dominate Congress, making it difficult for a new generation to gain traction <a class="yt-timestamp" data-t="07:51:00">[07:51:00]</a>.
+
+Consequently, the only individuals willing to run for president in the current [[democratic_and_republican_nomination_processes | primary system]] are often "ideological idiots" like Elizabeth Warren or Bernie Sanders <a class="yt-timestamp" data-t="08:05:00">[08:05:00]</a>. These figures can draw national support and mobilize their base to show up in numbers for the [[democratic_and_republican_nomination_processes | primaries]], even if many don't identify as traditional Democrats <a class="yt-timestamp" data-t="08:13:00">[08:13:00]</a>.
+
+### Potential Benefits of an Open Convention
+While an open convention would still see these "ideological idiots" present, its advantage is the potential for "normal politicians" to emerge <a class="yt-timestamp" data-t="08:26:00">[08:26:00]</a>. Governors, in particular, are favored due to their experience with day-to-day issues, managing operations, and governing across the aisle <a class="yt-timestamp" data-t="08:38:00">[08:38:00]</a>. There hasn't been a meaningful governor running on the [[republican_and_democratic_party_factions | Democratic side]] for some time <a class="yt-timestamp" data-t="08:49:00">[08:49:00]</a>.
+
+An open convention, lasting only a few weeks rather than an endless campaign cycle, could allow a governor to enter the race without engaging in extensive ideological battles <a class="yt-timestamp" data-t="08:59:00">[08:59:00]</a>. This scenario could potentially lead to a strong candidate for the Democrats and even a "complete blowout" victory in the election <a class="yt-timestamp" data-t="09:14:00">[09:14:00]</a>. However, it's also possible that someone like Elizabeth Warren could be nominated, who is considered one of the few people Donald Trump could defeat <a class="yt-timestamp" data-t="09:20:00">[09:20:00]</a>.
+
+## Contrast with the Republican Party
+An open convention scenario is not possible on the [[republican_and_democratic_party_factions | Republican side]] <a class="yt-timestamp" data-t="09:29:00">[09:29:00]</a>. Donald Trump is perceived to have destroyed the [[republican_and_democratic_party_factions | Republican Party]], purging anyone who opposed him <a class="yt-timestamp" data-t="09:30:00">[09:30:00]</a>. A significant turning point was in March when he took control of the Republican National Committee and immediately purged experienced staff involved in polling, candidate selection, and fact-gathering, replacing them with his loyalists <a class="yt-timestamp" data-t="09:35:00">[09:35:00]</a>. This firm grip on the remaining [[republican_and_democratic_party_factions | Republican Party]] means that Trump would likely remain the [[democratic_and_republican_nomination_processes | Republican nominee]] even if he were to die <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>.

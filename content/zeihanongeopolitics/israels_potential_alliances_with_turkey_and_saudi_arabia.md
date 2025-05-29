@@ -1,0 +1,40 @@
+---
+title: Israels potential alliances with Turkey and Saudi Arabia
+videoId: PYoOuJIj5qM
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+As the [[usisrael_relations | United States]] potentially lessens its global involvement, particularly in the [[potential_alliances_and_partnerships_in_the_middle_east | Middle East]], Israel is compelled to seek new security partners and bolster its own regional standing <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>. This shift occurs amidst significant internal challenges for Israel <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>.
+
+## Israel's Domestic Challenges and Future Power
+Israel faces a demographic challenge where a segment of its population, supported by the government to study the Torah, neither serves in the military nor works <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. This group is projected to become nearly as populous as the rest of the country within 30 to 40 years <a class="yt-timestamp" data-t="00:44:00">[00:44:00]</a>. This demographic trend is already a considerable strain on the country's tax base and manpower <a class="yt-timestamp" data-t="00:47:00">[00:47:00]</a>. Consequently, the future Israel is anticipated to be less powerful, lacking the personnel for technological research, military manning, and other essential functions <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. This necessitates a more forceful and efficient approach to its security and foreign policy, as it cannot rely on demographic strength or economic robustness alone <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>.
+
+## Seeking New Security Guarantors
+With the [[usisrael_relations | United States]] becoming increasingly disengaged from the [[potential_alliances_and_partnerships_in_the_middle_east | Middle East]], Israel must either take a more active role in its own security or find alternative security guarantors <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. Potential candidates like Russia (too far) <a class="yt-timestamp" data-t="01:59:00">[01:59:00]</a>, the UK (bigger domestic problems) <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>, and France (limited regional penetration) <a class="yt-timestamp" data-t="02:09:00">[02:09:00]</a> are largely unsuitable.
+
+## Alliance with Turkey
+The most proximate and militarily superior regional power is [[turkeys_potential_alliances_and_conflicts_in_europe_and_the_middle_east | Turkey]] <a class="yt-timestamp" data-t="02:23:00">[02:23:00]</a>. [[turkeys_potential_alliances_and_conflicts_in_europe_and_the_middle_east | Turkey]] controls the Eastern Mediterranean and possesses the second-largest army in NATO <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>.
+
+> [!INFO] Historical Context
+> While Israel and [[turkeys_potential_alliances_and_conflicts_in_europe_and_the_middle_east | Turkey]] experienced a significant falling out over Gaza more than a decade ago, led by then-Turkish President Erdoğan <a class="yt-timestamp" data-t="02:38:00">[02:38:00]</a>, relations have since improved <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>. Though not yet at "Cold War levels of appreciation and alliance," cooperation on military and intelligence matters has steadily increased over recent years <a class="yt-timestamp" data-t="02:52:00">[02:52:00]</a>. Israel will need to forge a deal with the dominant local military power, which, in the absence of [[usisrael_relations | American]] influence, is unequivocally [[turkeys_potential_alliances_and_conflicts_in_europe_and_the_middle_east | Turkey]] <a class="yt-timestamp" data-t="03:06:00">[03:06:00]</a>.
+
+This potential alliance with [[turkeys_potential_alliances_and_conflicts_in_europe_and_the_middle_east | Turkey]] could help Israel manage threats from Syria and Lebanon <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>.
+
+## Alliance with Saudi Arabia
+Further to the east, Israel's main concerns are [[iran_saudi_arabia_rivalry | Iraq]] and especially [[iran_saudi_arabia_rivalry | Iran]] <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>. Here, Israel has found a new partner in [[potential_security_allies_for_saudi_arabia | Saudi Arabia]] <a class="yt-timestamp" data-t="04:14:00">[04:14:00]</a>.
+
+[[potential_security_allies_for_saudi_arabia | Saudi Arabia]] offers several crucial advantages to Israel:
+*   Excellent intelligence on the Shia world <a class="yt-timestamp" data-t="04:22:00">[04:22:00]</a>.
+*   Proximity and potential basing for direct military strikes, if needed <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>.
+*   Nominal control over Sunni Muslim religious sites (Mecca and Medina), lending significant credibility <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a>.
+
+Relations between Israel and [[potential_security_allies_for_saudi_arabia | Saudi Arabia]] have warmed, leading to a noticeable reduction in transnational attacks and diplomatic condemnations against Israel <a class="yt-timestamp" data-t="04:42:00">[04:42:00]</a>. While formal [[saudiisrael_normalization_negotiations | recognition]] has not yet occurred, it is anticipated, likely after the current Saudi King (who is relatively pro-Palestinian) passes away and his son, Muhammad bin Salman, takes over <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>.
+
+> [!NOTE] Current Collaboration
+> The alliance between Israel and [[potential_security_allies_for_saudi_arabia | Saudi Arabia]] is already robust <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>. They share intelligence on [[iran_saudi_arabia_rivalry | Iran]] and collaborate in third countries <a class="yt-timestamp" data-t="05:15:00">[05:15:00]</a>. Crucially, from the Saudi perspective, Israel is more reliable than the [[usisrael_relations | Americans]] <a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a>. The [[ussaudi_arabia_relations_and_future_outlook | United States' disinterest]] in maintaining the Persian Gulf's openness and the [[potential_security_allies_for_saudi_arabia | Saudis']] role, coupled with U.S. concerns over [[potential_security_allies_for_saudi_arabia | Saudi Arabia's]] human rights record and its war in Yemen, have led to a decrease in [[usisrael_relations | American]] military aid and training <a class="yt-timestamp" data-t="05:41:00">[05:41:00]</a>. Israel has stepped in to fill this gap, often acquiring equipment directly from the [[usisrael_relations | Americans]], adding its expertise, and then passing it on to Riyadh <a class="yt-timestamp" data-t="06:11:00">[06:11:00]</a>.
+
+## Future Conflicts in the Middle East
+A key question for this emerging multi-vectored relationship is whether they can withstand a potential overrun by [[iran_saudi_arabia_rivalry | Iran]] <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a>. A major military conflict is anticipated this decade to determine who will ultimately control the Persian Gulf: [[iran_saudi_arabia_rivalry | Iranians]] on one side and the [[potential_security_allies_for_saudi_arabia | Saudis]] on the other <a class="yt-timestamp" data-t="07:08:00">[07:08:00]</a>. Israel is expected to provide absolute backing to the [[potential_security_allies_for_saudi_arabia | Saudis]], with [[turkeys_potential_alliances_and_conflicts_in_europe_and_the_middle_east | Turkey]] potentially acting as a "wild card" <a class="yt-timestamp" data-t="07:13:00">[07:13:00]</a>.
+
+This region is poised for significant and prolonged conflict in a post-[[usisrael_relations | American]] environment <a class="yt-timestamp" data-t="07:21:00">[07:21:00]</a>. Unlike conflicts where countries collapse due to energy and food cuts, these nations possess the financial capacity and geographical insulation to sustain a prolonged struggle <a class="yt-timestamp" data-t="07:33:00">[07:33:00]</a>. Israel's role will be critical in determining [[potential_security_allies_for_saudi_arabia | Saudi Arabia's]] success in this future conflict <a class="yt-timestamp" data-t="07:43:00">[07:43:00]</a>.

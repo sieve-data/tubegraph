@@ -1,0 +1,19 @@
+---
+title: Indias manufacturing sector and global shift
+videoId: 41AEoEkgDm0
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+## India's Manufacturing Sector and Global Shifts
+
+India's manufacturing sector is poised for significant changes in the emerging "post-American world," particularly as [[shifts_in_global_supply_chains_and_their_consequences | global manufacturing begins to break up]] <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>. Unlike many other nations, India chose not to extensively participate in the economic aspects of the global order, viewing it as an American plan <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. This position means that while it will be affected by the dissolution of the current system, it will not be hit as hard or for as long as others <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+
+### Historical Context and Chinese Competition
+Like many countries in the [[developing_worlds_industrial_growth_and_challenges | developing world]] <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>, India's manufacturing sector was significantly impacted by the [[impact_of_chinas_industrial_policies_on_global_economies | Chinese development process]] <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. Historically, middle powers would produce a large portion of their own manufactured goods <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. However, China's ability to produce at scale with subsidies and "deliberately hostile economic penetration policies" drove much industry out of business globally <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. The [[deglobalization_and_its_impact_on_american_industry | United States has experienced]] similar challenges, with Chinese products flooding markets and displacing local manufacturers, a trend also seen in India <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+### Future Outlook and Self-Reliance
+As the [[chinas_potential_collapse_and_its_impact_on_global_industry | Chinese system approaches its end]] <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>, India, much like the U.S., will need to build its own manufactured goods if it wants them <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. A key distinction between India and the U.S. in this endeavor is that the U.S. has established partners and allies like Mexico and Canada <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. India, by contrast, lacks such alliances, maintaining broadly hostile relationships with its border states, most notably Pakistan <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
+
+Despite this, India possesses a very wide range of skill sets internally <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>. Given its vast size, India contains diverse industrial bases within its own borders <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. This internal diversity could allow for a "US-Mexican style synergy" within India itself <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. However, this internal synergy is projected to operate at a lower technological level, with less capital investment, and within a more challenging environment, leading to a lower quality and variety of products <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+
+Ultimately, India, with its population of 1.5 billion, has the potential to become a global manufacturing superpower <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. However, it is expected to primarily produce for its own domestic market <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. This trend of manufacturing decentralization and increased domestic focus is anticipated globally, with India serving as an emblematic example of this future <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.

@@ -1,0 +1,38 @@
+---
+title: Russian military strategies and advancements in Ukraine
+videoId: SB75I6E0HOI
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+Recent developments in the [[russian_strategies_and_developments_in_the_ukraine_war | Ukraine war]] highlight ongoing [[russian_strategies_and_developments_in_the_ukraine_war | Russian military strategies and advancements]], alongside economic pressures and logistical challenges <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
+
+## Ground Operations
+
+### Donbas Region
+
+In the southeast of the Donbas region, [[russian_strategies_and_developments_in_the_ukraine_war | Russian forces]] continue their inch-by-inch advance on the city of Pokrovsk <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. The capture of Pokrovsk would be a significant blow to [[ukrainian_military_strategy_and_territorial_gains | Ukrainian front lines]] because it serves as a critical rail nexus, supplying seven parts of the front simultaneously <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. Its fall would force [[ukrainian_military_strategy_and_territorial_gains | Ukrainian troops]] to travel three to five times further for logistics, resulting in a crippling blow <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+
+### Kursk Province
+
+In the northern Kursk province, which is technically within Russia, [[ukrainian_offensive_into_russia | Ukrainian forces]] remain on the offensive, though they have lost some ground <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. Here, [[russian_involvement_and_tactics | Russian forces]] are employing [[russian_involvement_and_tactics | human wave tactics]], specifically utilizing North Korean troops <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. Evidence suggests that North Korean soldiers are instructed to expose themselves to attract drones, while others positioned on the edges of forests shoot at the drones <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. Casualties among North Koreans have been described as horrific, even by Russian standards <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. The 12,000 North Korean troops deployed are considered "suicidal," with captured personnel and equipment indicating that soldiers were threatened with their families' deaths back home if they defected or failed to fight as instructed <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. While 12,000 troops alone will not alter the war's outcome given the rapid Russian casualty rates, the potential for more North Korean troops to be deployed remains a question <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+
+## Economic and Logistical Challenges
+
+### Shadow Fleet and Sanctions
+
+The United States and the European Union have announced new sanctions targeting Russia's "Shadow Fleet," which transports between 3 to 4.5 million barrels of Russian oil exports daily <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. This fleet consists of old, often uninsured tankers operating without transponders to avoid Western insurance requirements <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>. The aim of these sanctions is to discourage countries like India and China from purchasing Russian crude <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. While initially effective, past experience suggests that the Shadow Fleet tends to find workarounds, limiting the long-term impact unless ships are physically seized <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>.
+
+Additionally, NATO has formed a new task force for the Baltic Sea to monitor and intercept the Shadow Fleet under specific circumstances <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. This marks the first time NATO has created a naval task force in the Baltic, and notably, it involves Finland and Sweden, new members with historical naval dominance in the region <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. Their involvement is expected to force [[russian_strategies_and_developments_in_the_ukraine_war | Russia]] into a new strategic position <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
+
+### Impact of Refinery Attacks
+
+For several months, [[ukrainian_military_strategy_and_offensive_准备 | Ukraine]] has launched attacks on [[russian_strategies_and_developments_in_the_ukraine_war | Russian refineries]] <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>. Previously, the [[us_military_strategy_in_the_ukraine_war | Biden administration]] discouraged these attacks due to concerns about global oil prices and US inflation <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. However, with increased global oil supplies and less concern about inflation, along with President Biden's reduced focus on reelection, [[ukrainian_military_strategy_and_offensive_preparations | Ukrainian attacks]] have intensified <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>.
+
+The largest aerial drone assault of the war targeted 15 [[russian_strategies_and_developments_in_the_ukraine_war | Russian facilities]] almost 1,000 kilometers inside [[russian_strategies_and_developments_in_the_ukraine_war | Russia]] <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. The primary targets are fractionating columns, equipment that [[russian_strategies_and_developments_in_the_ukraine_war | Russia]] cannot build domestically and struggles to acquire from China due to reliance on Western components <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. Disrupting these columns slows the [[russian_strategies_and_developments_in_the_ukraine_war | Russian economy]] and war machine by hindering repairs through sanctioned supply chains <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>.
+
+More significantly, these attacks target the production of high-end chemicals, including hydrazine and other advanced compounds crucial for rocket propellant and explosives <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. By disrupting the manufacture of these advanced components, [[ukrainian_military_strategy_and_offensive_preparations | Ukraine]] aims to undermine the [[russian_strategies_and_developments_in_the_ukraine_war | Russian war machine's]] ability to produce explosives and artillery <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>. While [[russian_strategies_and_developments_in_the_ukraine_war | Russia]] can import these materials, they have traditionally been a major exporter <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>. Chinese production, typically an importer from Russia, is located far from [[russian_strategies_and_developments_in_the_ukraine_war | Russia]]'s borders <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. A sustained disruption could significantly impact the [[russian_strategies_and_developments_in_the_ukraine_war | Russian war machine's]] ability to manufacture weapons in a few months <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
+
+## Future Outlook
+
+The future course of the conflict is subject to various factors, including potential shifts in US policy depending on future presidential administrations <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>. [[russian_strategies_and_developments_in_the_ukraine_war | Russia]] has already dismissed peace proposals from figures like Donald Trump, suggesting a challenging and unpredictable future for diplomatic efforts <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>.

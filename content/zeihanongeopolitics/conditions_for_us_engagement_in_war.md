@@ -1,0 +1,34 @@
+---
+title: Conditions for US engagement in war
+videoId: AfYQzbEVDR8
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+The United States has not been involved in a "major conflict" or war since World War II <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. Historically, conflicts like Korea and Vietnam were undertaken to support the global order and allies <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>. Other engagements, such as [[us_military_involvement_and_middle_eastern_politics | Desert Shield]] and [[us_military_involvement_and_middle_eastern_politics | Desert Storm]], were part of an effort to establish a new world order after the Cold War <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+
+## Triggers for Major US Involvement
+
+For the [[us_involvement_in_major_conflicts | United States]] to become directly involved in a major conflict of a comparable scale, one of two conditions would need to be met <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>:
+
+1.  **Political Leadership**: The emergence of a [[impact_of_presidential_prerogative_on_us_foreign_policy | political leader]] in the United States who perceives international issues as a crucible for forging a new national identity <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. Currently, there is no indication of this on either side of the [[political_dynamics_and_alliances_in_the_united_states_and_its_implications | political spectrum]] <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
+2.  **Significant Provocation**: An act that is "really, really, really breathtakingly stupid and provoking" directed at the United States <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. Historical examples of such provocations include Pearl Harbor, the Cuban Missile Crisis, Sputnik, and the Kuwait invasion <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
+
+## Current Geopolitical Scenarios
+
+### China
+At present, China is not considered a likely candidate to provoke the [[american_interests_and_responses | United States]] into a major conflict <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. Chinese leadership, specifically Chairman Xi and the Politburo, have recognized that any conflict with the United States would occur on the water <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. China's economic model, including essential food and energy imports, depends on the [[historical_context_of_us_maritime_security_policy | Freedom of the Seas]] <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. A naval conflict would halt these imports, leading to economic suicide for China <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. Therefore, a [[potential_conflict_scenarios_between_china_and_the_united_states | direct conflict with the U.S.]] is something China aims to avoid <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
+
+### Russia and Ukraine
+Russia's actions could potentially lead to a direct clash with the US, primarily due to "Russian incompetence" <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>. Russia's military is described as a "mob" rather than a classic army <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. While this strategy has historically resulted in Russia winning half of its wars <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>, a direct clash would occur if the conflict reached a point where it directly impacted [[american_interests_and_responses | US interests]] <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
+
+Should Ukraine fall and the [[political_dynamics_and_alliances_in_the_united_states_and_its_implications | United States]] remains at least passively interested in NATO, a more direct fight could ensue <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. However, the US is not currently in such a direct fight, and even if Russia continues its current gains for the next five years, it's not expected to trigger direct US military involvement <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. The dynamism of the conflict makes it difficult to assess, but direct US involvement would require something on the scale of a breakthrough of Ukrainian lines <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+
+### Mexico
+Within North America, the only theoretical scenario for US military involvement relates to dealing with Mexican drug cartels <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>. The US preoccupation with cocaine has contributed to the erosion of the rule of law in significant parts of Mexico <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. The current Mexican administration's "general incompetence" has further worsened public safety, health, and infrastructure compared to five years ago <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>.
+
+However, imposing a unilateral military solution on the cartel situation is considered impossible due to Mexico's vastness and the complexity of the cartel issue, which is far more intricate than past engagements in Pakistan or Afghanistan during the War on Terror <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. Any military involvement would require close collaboration with the Mexican administration, similar to what was done with Colombia <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>. The current Mexican administration is not considering such cooperation <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. A unilateral US military intervention would jeopardize the critical trade relationship between the two countries, potentially leading to an economic depression in the United States by disrupting the most significant economic, human migration, manufacturing, and energy relationship in human history <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
+
+## Current State of US Military Engagement
+
+The [[shifts_in_us_foreign_policy_and_its_implications | US military]] has been resting and recruiting since the War on Terror, with very little current engagement from a military perspective <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. There are no ongoing occupations or hot deployments <a class="yt-timestamp" data-t="00:03:23">[00:03:23]</a>. Should anyone decide to pick a direct fight with the United States, they would face severe consequences <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. Currently, there is nothing within North America that appears viable to trigger conventional warfare from the US <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. The focus for US military action would be something targeting a US strategic interest abroad <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.

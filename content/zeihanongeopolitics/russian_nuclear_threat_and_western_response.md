@@ -1,0 +1,20 @@
+---
+title: Russian nuclear threat and Western response
+videoId: _AVSki6dIgg
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+Throughout the conflict, Russia has consistently articulated a series of "red lines," threatening nuclear retaliation against cities like Washington, Warsaw, Berlin, Paris, and London if these lines were crossed <a class="yt-timestamp" data-t="09:02:00">[09:02:00]</a>. However, these threats have, at every stage, proven to be a bluff <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a>.
+
+## Ukrainian Incursion into Russia and Nuclear Restraint
+
+Recently, Ukrainian forces have significantly escalated their actions by crossing the international border into Russia in force <a class="yt-timestamp" data-t="09:12:00">[09:12:00]</a>. This incursion has led to the effective neutralization of the [[russian_military_reliance_on_foreign_support | Russian military]] in the area, with little standing in the way of further territorial gains <a class="yt-timestamp" data-t="09:16:00">[09:16:00]</a>. Furthermore, they are poised to incapacitate Belgorod, a city of a million people that served as a primary launching point for [[russian_involvement_and_tactics | Russian military operations]] <a class="yt-timestamp" data-t="09:22:00">[09:22:00]</a>. Despite these significant developments and the direct threat to [[strategic_and_diplomatic_implications_for_russia | Russian territory]], [[russian_involvement_and_tactics | Russia]] has not launched any nuclear weapons <a class="yt-timestamp" data-t="09:32:00">[09:32:00]</a>.
+
+## Western "Escalation Management" Erodes
+
+A major concern among Western capitals since the war's inception has been "escalation management," stemming from the understanding that [[russian_influence_on_global_political_dynamics_and_us_response | Russia]] is a significant nuclear power that might deploy such weapons if it felt sufficiently threatened <a class="yt-timestamp" data-t="09:35:00">[09:35:00]</a>. This concern has driven a conservative approach to challenging [[russian_influence_on_global_political_dynamics_and_us_response | Russia]] <a class="yt-timestamp" data-t="10:34:00">[10:34:00]</a>.
+
+However, the recent incursion into [[strategic_and_diplomatic_implications_for_russia | Russian territory]], where [[strategic_and_diplomatic_implications_for_russia | Russian forces]] are described as "broken" in the area, has shown that nuclear weapons remain "capped" <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>, <a class="yt-timestamp" data-t="10:06:00">[10:06:00]</a>, <a class="yt-timestamp" data-t="10:11:00">[10:11:00]</a>. The question of whether this is due to [[strategic_and_diplomatic_implications_for_russia | Russia's]] unwillingness or inability to escalate to that level is a valid discussion <a class="yt-timestamp" data-t="10:13:00">[10:13:00]</a>. Regardless, [[strategic_and_diplomatic_implications_for_russia | Russia's]] current inaction suggests that its conservatism in challenging its adversaries is likely to dissipate <a class="yt-timestamp" data-t="10:25:00">[10:25:00]</a>, <a class="yt-timestamp" data-t="10:31:00">[10:31:00]</a>, <a class="yt-timestamp" data-t="10:38:00">[10:38:00]</a>.
+
+This development renders most [[russian_involvement_and_tactics | Russian threats]] to this point largely meaningless <a class="yt-timestamp" data-t="10:46:00">[10:46:00]</a>, <a class="yt-timestamp" data-t="10:48:00">[10:48:00]</a>. While a red line that would trigger a nuclear response likely still exists, it is now clear that it does not encompass population centers, territory, or cities within dozens of miles of [[strategic_and_diplomatic_implications_for_russia | Russia's]] internationally recognized borders <a class="yt-timestamp" data-t="10:51:00">[10:51:00]</a>, <a class="yt-timestamp" data-t="10:58:00">[10:58:00]</a>. This understanding is expected to pave the way for a new type of offensive operation with the full backing of Western countries, marking the most significant shift in the war to date <a class="yt-timestamp" data-t="11:11:00">[11:11:00]</a>, <a class="yt-timestamp" data-t="11:14:00">[11:14:00]</a>.

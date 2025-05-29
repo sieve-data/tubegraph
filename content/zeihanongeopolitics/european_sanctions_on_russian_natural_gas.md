@@ -1,0 +1,25 @@
+---
+title: European sanctions on Russian natural gas
+videoId: A-Vr9o-JurQ
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+European efforts to reduce dependence on Russian natural gas have led to significant consequences for Russia's natural gas industry. Gazprom, Russia's state-owned natural gas monopoly, reported its lowest annual output levels since 1978 <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
+
+## Impact of Sanctions
+Europe's goal to eliminate its reliance on Russian piped natural gas has been largely successful <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. The nature of natural gas, which requires specialized systems for production, transport, and export, makes it difficult to redirect. Any disruption in the system—whether due to issues with insurance, pipes, pumps, or legalities—can halt the entire operation <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+
+Most of Russia's gas destined for Europe originates from the Urengoy area, a production zone active for half a century <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. This gas is transported thousands of miles through pipelines via Ukraine and Belarus into countries like Poland, Germany, Slovakia, and Hungary <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. Since this gas cannot be easily rerouted, Russia was forced to gradually shut down operations as European deliveries ceased <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+
+As a result, Russian natural gas exports to Europe have plummeted by 85% compared to the start of the war <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. A small remaining volume continues to flow to the Czech Republic, Slovakia, and Hungary, nations that have limited [[alternatives_to_russian_natural_gas_for_europe | alternatives to Russian natural gas for Europe]] and have expressed opposition to the broader sanctions regimes <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>. However, Europe is actively building interconnections to further reduce these remaining ties <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
+
+## Challenges for Russia's Natural Gas Industry
+Even other Russian natural gas facilities, such as those supplying Eastern Siberia to China, the Yamal LNG terminal, Sakhalin Island LNG, and the Kovykta field, face significant [[challenges_in_russian_natural_gas_industry | challenges in Russian natural gas industry]] <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. These projects are technically complex and were largely developed and maintained by foreign companies, including BP, Mitsui, Mitsubishi, and ExxonMobil <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>. Most of these foreign entities have since withdrawn, leaving Russia without the necessary technical expertise to sustain these operations long-term <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
+
+The Urengoy zone, despite being a mature production area, is unlikely to return to significant production. While shale technologies could theoretically boost output, the region's distance from population centers and severe freezing temperatures make such methods impractical <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. Furthermore, Russia's ability to revive its natural gas industry is hampered by the collapse of the Soviet industrial educational system around 1985 and a corresponding decline in birth rates, leading to a shortage of trained engineers <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. The youngest, fully experienced petroleum engineers are now in their early 60s <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+
+## Outcomes for Europe and Russia
+The [[impact_of_european_sanctions_on_gazproms_output | impact of European sanctions on Gazprom's output]] has been profound. Europe's ability to procure liquefied natural gas (LNG) from alternative suppliers, primarily the Persian Gulf and the United States, has mitigated potential price shocks to its own system <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. This shift, however, has created price pressure for other global buyers of LNG <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>.
+
+The vanishing of the world's largest natural gas producer and exporter from global markets in less than four years is an unprecedented event <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. The sanctions regime has largely succeeded in its aim of cutting Russian exports and income without unduly shocking Europe's own energy system <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>. The future of Russia's natural gas industry appears limited primarily to its domestic market and possibly the Sakhalin LNG facility, due to ongoing Japanese involvement <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>.

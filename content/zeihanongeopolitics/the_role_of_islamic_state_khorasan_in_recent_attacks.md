@@ -1,0 +1,27 @@
+---
+title: The role of Islamic State Khorasan in recent attacks
+videoId: uJZcIrBCrqs
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+Islamic State Khorasan (ISIS-K) has claimed responsibility for significant terror attacks, including an operation in Russia and a previous attack in Iran <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This group first came to prominence in American awareness when they launched an attack during the American withdrawal from Afghanistan over a year ago <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+
+## Nature and Objectives of ISIS-K
+ISIS-K is an offshoot of the Islamic State <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>. Unlike some other militant groups, its primary goal is not to hold territory but to punish anyone with connections to a secular Muslim government, especially if it is a Shia government <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. Like most terror groups, ISIS-K is Sunni <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. In Afghanistan, they attacked Taliban forces and have since remained a thorn in the Taliban's side <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## The Moscow Terror Attack
+ISIS-K claimed the attack in Russia <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. The attack in Moscow tragically claimed at least 130 lives, with more than 100 people hospitalized <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. Russian authorities claimed to have captured 11 individuals linked to the attack, including four gunmen who were actively shooting people in the theater <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
+
+### Russian Intelligence Failures
+The United States specifically warned Russia about an impending attack on concert locations on March 7 <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>. When Russia did not take the warning seriously, the U.S. went public with the information to alert Americans in the area <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. President Putin publicly dismissed this warning as a "fake" attempt to destabilize Russian society <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. The attack subsequently occurred despite Russia having the intelligence <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. This demonstrated a significant degree of incompetence within the Russian Security Services <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
+
+### Russian Attempts to Blame Ukraine
+Publicly, Russia has attempted to link the attack to Ukraine <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>. While they no longer directly claim Ukrainians carried out the attack, they assert that the attackers were attempting to reach Ukraine because a gap in the front lines had been opened <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. This claim is considered "silly," as there are many more accessible places in Russia for the perpetrators to disappear <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. It is believed that the individuals likely entered Russia through southern borders, such as Azerbaijan or Kazakhstan, where security is very thin <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+
+## Implications for Russian Stability
+The attack by ISIS-K carries significant implications for Russia's internal stability:
+*   **Motivation for Ethnic Groups** <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>: The incident could motivate various ethnic groups within the Russian Federation, including Chechens, Dagestanis, Tatars, and Bashkirs <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. Over 10% of Russia's population is Muslim, and the republics along Russia's southern border are predominantly Muslim <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. If existing anti-Moscow groups in Russia's southern periphery become inspired by such events, Russia could face a broad-based uprising or ongoing "pin pricks" of terror attacks <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
+*   **Demographic Shifts** <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>: Over 20% (possibly closer to 30%) of Russia's population is not ethnic Russian, with the majority being Muslims or Ukrainians who are unhappy with their situation <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>. This rising demographic, with a propensity for civic violence, juxtaposed against a declining ethnic Russian population, points to significant future challenges <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
+*   **Strategic Errors by Putin** <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>: Despite being a former intelligence agent, Putin has made a series of strategic errors in security, including misjudging the wider world's actions, Ukraine's response, and interpreting security information <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>.
+*   **Impact on Political Stability** <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>: This attack is expected to have an impact on political stability in the Russian Federation <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. While a revolution may not be imminent, the Russian system, though strong, is brittle, and attacks like this can cause cracks that lead to fundamental shifts <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>.

@@ -1,0 +1,30 @@
+---
+title: Potential security allies for Saudi Arabia
+videoId: s9wYN7i5Aiw
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+In a post-globalized world, the United States' role as a security guarantor for Saudi Arabia and other Persian Gulf states is significantly diminishing. This shift is primarily due to the U.S. achieving energy self-sufficiency and a reorientation of its strategic priorities <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.
+
+## Decline of US Security Guarantee
+Historically, the United States guaranteed the flow of oil from the Persian Gulf not for its own direct consumption, but to fuel allies globally, from Japan to Europe, as part of the Cold War order <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. The U.S. itself has always sourced most of its oil from North America, with a lesser degree from Venezuela and Africa, and never more than 20% from the Middle East <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+
+The shale revolution led to a drastic reduction in U.S. crude imports from the Middle East, effectively dropping to zero <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. This self-sufficiency, combined with a shift in U.S. strategic priorities towards domestic concerns and East Asia, has led to a significant disengagement from the Middle East <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. The U.S. no longer consistently maintains a carrier in the Persian Gulf <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>. For instance, when Kuwait discovered a large offshore oil field, the American response was indifference, with the security guarantee no longer present <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+
+The long-standing relationship where the U.S. "bent over backwards" to keep Saudi Arabia happy due to its crude oil output is changing <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>. In a post-globalized world, the U.S. is now an energy disruptor, as reliable global energy supplies are no longer a strategic necessity <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. This means the relationship with Saudi Arabia is expected to "absolutely tank" <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. Saudi Arabia's oil production heavily relies on expatriate staff and its exports pass through few terminals, making it vulnerable <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>. The U.S. could potentially impose an embargo, destroy loading facilities, or seize tankers <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
+
+Despite this long-term trend, the Biden administration has shown that a need for alliance structures still exists, particularly for the Ukraine War and boxing in China on semiconductors <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. As long as these alliance structures are valued, there is a perceived benefit in crude flowing unimpeded from the Persian Gulf <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>. However, the future could involve the U.S. forcing the region to be selective about crude sales, potentially cutting off supply to China via the Strait of Hormuz if relations escalate <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
+
+## Saudi Arabia's Security Dilemma
+Saudi Arabia has historically believed its vast oil deposits would allow it to simply pay for defense, viewing the U.S. military as mercenaries <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>. The 2003 Iraq War disabused them of this notion when the U.S. acted against their preferences <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>. As the U.S. steps back, Saudi Arabia needs a new security guarantor <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>.
+
+## Potential Candidates for Alliances
+The list of candidates for a new security guarantor for Saudi Arabia is short, requiring a power with a blue-water navy capable of long-distance deployment or the ability to march to Saudi Arabia <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+
+*   **China** China does not possess the necessary global reach <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>.
+*   **Japan** Japan has the reach but has not moved sufficiently past its pacifist position to invest in an army capable of such a role <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>. A future co-dominion over the Pacific with the U.S. might include energy security for Japan, but not a direct military guarantee for Saudi Arabia <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+*   **United Kingdom and France** The United Arab Emirates has already entered into military cooperation with France, with a French base in the UAE <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. However, Saudi Arabia would prefer not to align with a European power <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>.
+*   **Turkey** Turkey could potentially serve as a guarantor by marching through Iraq directly to Riyadh, rather than needing a naval force to sail around the Arabian Peninsula to the Persian Gulf <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. However, this option presents a significant risk for Saudi Arabia: it would introduce a "superior military power with easy access" to the kingdom <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. From Turkey's perspective, defending Saudi Arabia might be less appealing than simply taking it over <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>.
+
+The future of [[ussaudi_arabia_relations_and_future_outlook | US-Saudi Arabia relations]] remains uncertain, and Saudi Arabia faces a difficult search for a new security guarantor in the evolving [[middle_east_security_dynamics_postamerica | Middle East security dynamics]].

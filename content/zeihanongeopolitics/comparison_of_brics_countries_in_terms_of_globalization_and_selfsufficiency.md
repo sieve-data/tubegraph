@@ -1,0 +1,34 @@
+---
+title: Comparison of BRICs countries in terms of globalization and selfsufficiency
+videoId: BJMLhRYVXos
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+This article examines the long-term viability and self-sufficiency of the original BRIC countries – China, Russia, Brazil, and India – in a world potentially experiencing [[globalization_ending_and_regional_strategies | de-globalization]]. The analysis focuses on demographic, geographic, and economic factors, particularly their dependence on [[challenges_facing_globalization | globalization]].
+
+## China
+
+China is considered to be "pioneering national dissolution" <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. Its birth rate has been lower than that of the United States since the early 1990s <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. Demographically, it has approximately the same number of people over age 50 as under <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>, suggesting potential ethnic dissolution of the Han ethnicity before the end of the century <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+
+Economically, China is highly dependent on external factors. It imports almost all of its energy, components for growing food, and raw materials <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. Furthermore, it is completely reliant on exports to the wider world to absorb its manufacturing capacity <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. China is considered the country most dependent in absolute terms on [[challenges_facing_globalization | globalization]] <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>, which also implies reliance on the US military to secure its shipping lanes <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. This high dependency leads to a prediction of the end of the Chinese system and likely the Chinese state within 10 years <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
+
+## Russia
+
+Russia faces significant geographic challenges, with 5,000 miles of external border lacking natural geographic barriers <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. The Ukraine War, for instance, was partly an effort to reach older external defenses that relied on features like the Carpathian Mountains to shorten their defensive perimeter <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. Ironically, Russia today has longer external borders on a map than the Soviet Union, despite losing 14 constituent republics <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
+
+Demographically, Russia's situation is problematic, though less clear than China's due to a lack of recent census data (the last collection was 17 years ago, with subsequent data being fabricated) <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. At the time of its last official census, Russia had one of the world's worst demographic structures, and even its fabricated data places it in the bottom 10 <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. Russia is not considered an economic power and cannot even maintain its raw materials exports without external assistance <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. The question for Russia is not if it will decline, but when <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
+
+## Brazil
+
+Brazil's demographic situation is considerably better than China's or Russia's <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. Its industrialization and urbanization accelerated in the 1990s <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>, and while its birth rate has dropped significantly, it is not expected to face a demographic crisis before at least 2070 <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+
+Geographically, Brazil faces challenges due to its unique topography. Reaching the interior from the coast requires ascending an escarpment, leading to very high infrastructure costs <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>. This makes interactions with the rest of the world difficult and expensive <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. Brazil finds it difficult to operate without external underwriting for its development <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>. Since around 1990, China has largely filled this role, funding infrastructure to access raw materials <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>. However, this came at a cost, as China used joint ventures to acquire Brazilian technology, leading to mass production in China and forcing Brazilian companies out of business <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. Consequently, Brazil is now less advanced than it was 30 years ago <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
+
+## India
+
+India is considered the "default winner" among the original BRIC countries <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. Similar to Brazil, India experienced its demographic moment and began industrializing after 1990 <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. Its aging population is not expected to become a significant problem until at least 2070 <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>.
+
+Unlike Brazil, India has never had a strong manufacturing pulse, meaning there was less for China to cannibalize <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>. India's current challenge is to build out its own industrial plant in a post-China world <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. This will be a more complicated growth story compared to the United States, which benefits from partners like Mexico, Canada, Japan, Colombia, Korea, and Taiwan <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. India, however, has strained relationships with its neighbors, meaning it will likely have to build its infrastructure and supply chains largely by itself <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. This will make development more expensive and slower <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>.
+
+However, this self-reliance also presents an advantage: India's development will be an "Indian story," driven by its own reasons, timeline, and needs <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. While it may be a longer, more difficult, and less polished process, it ensures that India will remain globally significant, even if it is not globally involved in a [[globalization_ending_and_regional_strategies | de-globalizing world]] <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.

@@ -1,0 +1,18 @@
+---
+title: Turkish strategic policy on the Black Sea
+videoId: ydv_3n5__2I
+---
+
+From: [[zeihanongeopolitics]] <br/> 
+
+Turkey holds the position of the second military power in the Black Sea region <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>. Historically, Turkey has been able to outperform Russia in the Black Sea due to Russia's naval forces being dispersed across multiple bodies of water (Pacific, Arctic, Baltic) which cannot reinforce each other <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. In contrast, Turkey's control over the Straits (the Bosporus and the Dardanelles) allows for easy movement of its forces between the Mediterranean and Black Sea <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. This strategic control of the Straits is a key aspect of the [[geopolitical_significance_of_turkeys_location | geopolitical significance of Turkey's location]] <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
+
+## Shifting Strategic Posture Towards Russia
+
+Turkey's strategic policy in the Black Sea region has undergone a significant re-evaluation <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. Previously, Turkey viewed Russia as a potential asset and partner <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. However, due to Russia's prolonged and poor performance in the war, there appears to be a shift in Ankara's perspective <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>. The prevailing sentiment might now be that with a "little push" from Turkey, Russian power could be "broken completely" <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. This suggests a re-evaluation of [[turkeys_strategic_options_post_american_global_order | Turkey's strategic options post-American global order]].
+
+## Potential Role in Ukrainian Naval Operations
+
+Following a Ukrainian naval drone strike on a Russian military vessel in Novorossiysk <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>, and given the extended range required for such an attack, two possibilities arise <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>: either Ukraine has achieved a significant leap in drone range, or a third party is assisting in delivering these vessels closer to their targets <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. While Russia might point to the British or Americans <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>, Turkey is considered a "far more likely candidate" for such assistance <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
+
+This potential involvement aligns with the shifting Turkish calculus, as smuggling "a few motorboats" to destroy Russia's strategic naval position could be deemed "worth it" <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. Although there is no specific information confirming this <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>, the strategic logic supports such a possibility, as Turkey is currently re-evaluating its entire strategic position <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. Such actions would have significant [[strategic_and_diplomatic_implications_for_russia | strategic and diplomatic implications for Russia]] and highlight [[challenges_to_russian_global_maritime_operations | challenges to Russian global maritime operations]]. This also relates to broader [[turkeys_potential_alliances_and_conflicts_in_europe_and_the_middle_east | Turkey's potential alliances and conflicts in Europe and the Middle East]].
