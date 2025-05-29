@@ -1,0 +1,32 @@
+---
+title: Future potential of blockchain technology for decentralized networks
+videoId: C08aoCo4P7I
+---
+
+From: [[humblelifeskills]] <br/> 
+
+Blockchain technology is poised to significantly impact the development of decentralized networks, particularly in areas like file sharing and content hosting. The integration of blockchain with existing peer-to-peer systems, such as BitTorrent, and content platforms like DLive, illustrates a growing trend towards more robust and incentivized decentralized infrastructures <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
+
+## BitTorrent's Decentralized Evolution
+
+BitTorrent, originally a peer-to-peer system, naturally lends itself to decentralization <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. Its creator eventually sold the company for $126 million <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. The blockchain company Tron acquired BitTorrent, a significant move given Tron's reputation as a fast blockchain capable of high transaction volumes, which is crucial for scaling decentralized applications <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a> <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+
+## Tokenizing Decentralized File Sharing
+
+Following the acquisition, Tron introduced the BitTorrent Token (BTT), aiming to tokenize the world's largest [[decentralized_file_sharing_with_trc_tokens | decentralized file sharing]] protocol <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a> <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. The proposition for the BTT token is to incentivize users to seed content by enabling a "slow, medium, and fast lane" system <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a> <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. Users who maintain an online node 24/7 could earn tokens for sharing data packets <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a> <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. This system would allow content creators to purchase tokens to ensure their content is consistently available, with tokens being distributed to users who provide peering services when the creator is offline <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a> <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>.
+
+### Project Atlas
+
+Tron's "Project Atlas" aims to leverage BitTorrent technology to create a new method for sharing and exchanging files <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a> <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. While BitTorrent is known for its high internet traffic contribution (33% of internet traffic) largely due to movie downloads, the project's ambition is to integrate this technology into a browser as a plugin, allowing users to upload video to a decentralized cloud <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a> <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a> <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. Miners or nodes would then be paid in TRC-10 tokens for checking transactions on the blockchain and for serving content <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a> <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
+
+## DLive's Integration with Tron
+
+A significant development for [[decentralized_applications_with_bitcoin_sv | decentralized applications]] and content hosting occurred when DLive, a live streaming platform that originated on the Steam blockchain, was acquired by Tron <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a> <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a> <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. This acquisition is seen as a "marriage made in heaven" due to the challenges of storing and hosting content on decentralized networks, which require many nodes, significant uptime, and ample storage space <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a> <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a> <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>.
+
+Integrating DLive's streaming capabilities with BitTorrent's peer-to-peer file sharing creates a potential global peer-to-peer network for video content <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a> <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>. While live streaming typically requires centralized, low-latency servers, the potential for a "chunked" BitTorrent streaming method, where every user is part of the streaming network and gets paid in tokens for providing data packets, would be transformative <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a> <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a> <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
+
+## Future Potential and Comparison
+
+The combination of Tron, BitTorrent, and DLive signifies a strong push towards making [[decentralized_video_hosting_with_ipfs | decentralized video hosting]] and content distribution a reality <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. Tron's TRC-10 tokens, similar to Ethereum's ERC-20, are noted for their ease of integration for developers looking to monetize video hosting communities <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a> <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a> <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a> <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. This ecosystem has the potential to offer an advantage over other decentralized file systems like IPFS if it successfully integrates BitTorrent technology <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
+
+For content creators considering a move from centralized streaming platforms like Twitch or YouTube to a crypto-based environment, DLive, now integrated with Tron, presents a compelling option for decentralized hosting <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a> <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>. The low cost of BTT and Tron tokens also makes them an attractive investment for those interested in [[future_trends_in_online_work | decentralized hosting]] <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a> <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a> <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. Ultimately, the success of these integrations could accelerate the shift away from centralized platforms <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
