@@ -5,201 +5,140 @@ videoId: bEnvRRe6NiU
 
 From: [[_drpreetisharma]] <br/> 
 
-[[Bacteriology overview | Bacteriology]] includes the study of Gram negative bacilli, a diverse group of bacteria, many of which are significant human pathogens <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. This category is distinct from [[gram_positive_bacilli | Gram positive bacilli]] <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+Gram-negative bacilli are a significant category of bacteria in bacteriology <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>, distinguished from [[gram_positive_bacilli | Gram positive bacilli]] (e.g., McDonald's mnemonic) by their Gram stain reaction <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>, <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. They typically appear rod-shaped <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
 
-## Characteristics and Classification
+## Classification and Identification
 
-Gram negative bacilli are generally rod-shaped <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. They can be classified based on their ability to ferment lactose, which is a key differentiator, especially within the enterobacteria family <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>.
+### Lactose Fermentation
+A key method for distinguishing gram-negative bacilli is their ability to ferment lactose <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
+*   The [[enterobacteriaceae_family_and_lactose_fermentation | Enterobacteriaceae family]] is often delineated based on lactose fermentation <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>, <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>.
+*   Organisms like *E. coli* and *Klebsiella* are lactose fermenters <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>, <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>, <a class="yt-timestamp" data-t="00:19:15">[00:19:15]</a>, <a class="yt-timestamp" data-t="00:23:04">[00:23:04]</a>, <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>.
 
-## Enterobacteria Family
+#### Culture Media for Lactose Fermentation
+*   **MacConkey Agar (MAC)**:
+    *   Composition: Agar, peptone, lactose, neutral red (indicator), bile salts (e.g., sodium taurocholate) <a class="yt-timestamp" data-t="00:23:44">[00:23:44]</a>, <a class="yt-timestamp" data-t="00:24:40">[00:24:40]</a>, <a class="yt-timestamp" data-t="00:25:22">[00:25:22]</a>, <a class="yt-timestamp" data-t="00:25:32">[00:25:32]</a>.
+    *   Function: It is a differential medium (for lactose fermentation) <a class="yt-timestamp" data-t="00:25:05">[00:25:05]</a>, an indicator medium (for neutral red) <a class="yt-timestamp" data-t="00:25:26">[00:25:26]</a>, and a selective medium (for bile salts) <a class="yt-timestamp" data-t="00:25:38">[00:25:38]</a>.
+    *   Result: Lactose fermentation produces a pink color <a class="yt-timestamp" data-t="00:24:13">[00:24:13]</a>, <a class="yt-timestamp" data-t="00:25:56">[00:25:56]</a>.
+*   **Cysteine Lactose Electrolyte Deficient (CLED) Agar**:
+    *   Composition: Contains lactose <a class="yt-timestamp" data-t="00:26:03">[00:26:03]</a>, <a class="yt-timestamp" data-t="00:26:09">[00:26:09]</a> and bromothymol blue (indicator) <a class="yt-timestamp" data-t="00:26:27">[00:26:27]</a>.
+    *   Result: Lactose fermentation produces a yellow color <a class="yt-timestamp" data-t="00:26:13">[00:26:13]</a>, <a class="yt-timestamp" data-t="00:26:35">[00:26:35]</a>.
+    *   Advantage: CLED is considered better than MacConkey because it is less inhibitory, allowing both gram-negative and [[gram_positive_bacilli | gram-positive organisms]] to grow <a class="yt-timestamp" data-t="00:26:40">[00:26:40]</a>, <a class="yt-timestamp" data-t="00:27:02">[00:27:02]</a>, <a class="yt-timestamp" data-t="00:27:48">[00:27:48]</a>, <a class="yt-timestamp" data-t="00:28:04">[00:28:04]</a>.
+*   **Eosin Methylene Blue (EMB) Agar**:
+    *   Result: Shows a greenish metallic sheen around colonies upon lactose fermentation <a class="yt-timestamp" data-t="00:28:51">[00:28:51]</a>, <a class="yt-timestamp" data-t="00:29:00">[00:29:00]</a>, <a class="yt-timestamp" data-t="00:29:06">[00:29:06]</a>.
 
-The prototype for the enterobacteria family is [[Escherichia_coli | E. coli]] <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>. Common lactose fermenters include [[Escherichia_coli | E. coli]] and [[Klebsiella | Klebsiella]] <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>.
+### Other Fermentation Tests
+| Substrate | Organism | Indicator | Color (Fermented) | Color (Non-Fermented) |
+| :-------- | :------- | :-------- | :------------------ | :---------------------- |
+| Mannitol <a class="yt-timestamp" data-t="00:51:01">[00:51:01]</a> | *Staphylococcus aureus* <a class="yt-timestamp" data-t="00:51:06">[00:51:06]</a> | Phenol red <a class="yt-timestamp" data-t="00:51:24">[00:51:24]</a> | Yellow <a class="yt-timestamp" data-t="00:51:36">[00:51:36]</a>, <a class="yt-timestamp" data-t="00:51:45">[00:51:45]</a> | Red <a class="yt-timestamp" data-t="00:52:21">[00:52:21]</a> |
+| Sucrose <a class="yt-timestamp" data-t="00:51:53">[00:51:53]</a> | *Vibrio cholerae* <a class="yt-timestamp" data-t="00:51:58">[00:51:58]</a> | Bromothymol blue <a class="yt-timestamp" data-t="00:52:12">[00:52:12]</a> | Yellow <a class="yt-timestamp" data-t="00:52:05">[00:52:05]</a> | Green <a class="yt-timestamp" data-t="00:50:18">[00:50:18]</a> |
 
-### Types of [[Escherichia_coli | E. coli]]
+## Specific Gram Negative Bacilli
 
-Different strains of [[Escherichia_coli | E. coli]] cause distinct diseases, often through specific toxins or virulence factors:
+### *Escherichia coli* (*E. coli*)
+*E. coli* is a prototype of the [[enterobacteriaceae_family_and_lactose_fermentation | Enterobacteriaceae family]] <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
 
-*   **Enteropathogenic [[Escherichia_coli | E. coli]] (EPEC)** <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>
-    *   Causes pediatric infantile diarrhea <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a>.
-    *   Virulence marker: Bundle-forming pili, which are plasmid-coded <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>.
-    *   Causes "attachment and effacement" (AE) lesions in the intestine <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>.
+#### *E. coli* Toxin Types and Associated Diseases
+*   **Enteropathogenic *E. coli* (EPEC)**:
+    *   Causes: Pediatric infantile diarrhea <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>, <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a>.
+    *   Virulence Factor: Bundle-forming pili, which are plasmid-coded <a class="yt-timestamp" data-t="00:11:23">[00:11:23]</a>, <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>, <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>.
+    *   Pathology: Forms Attachment and Effacement (AE) lesions on intestinal villi <a class="yt-timestamp" data-t="00:12:07">[00:12:07]</a>, <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>, <a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a>.
+*   **Enterotoxigenic *E. coli* (ETEC)**:
+    *   Causes: Traveler's diarrhea <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>, <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>.
+    *   Virulence Factor: Colonization Factor Antigen (CFA) <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>, <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>.
+    *   Toxins:
+        *   Heat-labile toxin (LT): Increases cyclic AMP <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>, <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+        *   Heat-stable toxin (ST): Increases cyclic GMP <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>, <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+*   **Enteroinvasive *E. coli* (EIEC)**:
+    *   Causes: Dysentery (diarrhea with blood) <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>, <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>, <a class="yt-timestamp" data-t="00:14:54">[00:14:54]</a>.
+    *   Virulence Factor: Invasion Plasmid Antigen (IPA) <a class="yt-timestamp" data-t="00:14:14">[00:14:14]</a>.
+    *   [[microbiological_test_for_detection | Sereny test]]: Positive, showing purulent keratoconjunctivitis in guinea pig or rabbit eyes <a class="yt-timestamp" data-t="00:14:44">[00:14:44]</a>, <a class="yt-timestamp" data-t="00:15:05">[00:15:05]</a>, <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>, <a class="yt-timestamp" data-t="00:21:25">[00:21:25]</a>. Also positive for *Shigella* and *Listeria* <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>, <a class="yt-timestamp" data-t="00:15:32">[00:15:32]</a>, <a class="yt-timestamp" data-t="00:21:31">[00:21:31]</a>, <a class="yt-timestamp" data-t="00:21:34">[00:21:34]</a>.
+*   **Enterohemorrhagic *E. coli* (EHEC)**:
+    *   Causes: Hemolytic Uremic Syndrome (HUS) <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>, <a class="yt-timestamp" data-t="00:16:48">[00:16:48]</a>, characterized by a triad of hemolytic anemia, renal involvement, and thrombocytopenia <a class="yt-timestamp" data-t="00:17:14">[00:17:14]</a>, <a class="yt-timestamp" data-t="00:17:17">[00:17:17]</a>, <a class="yt-timestamp" data-t="00:17:22">[00:17:22]</a>, <a class="yt-timestamp" data-t="00:17:25">[00:17:25]</a>, <a class="yt-timestamp" data-t="00:17:33">[00:17:33]</a>.
+    *   Strain: O157:H7 <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>, <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>, <a class="yt-timestamp" data-t="00:16:53">[00:16:53]</a>, <a class="yt-timestamp" data-t="00:17:47">[00:17:47]</a>.
+    *   Toxin: Verocytotoxin (also known as Shiga-like toxin) <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>, <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. This toxin decreases protein synthesis by inhibiting the 60S ribosome <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>, <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>.
+    *   [[microbiological_test_for_detection | Sorbitol MacConkey (SMAC) Agar]]: Unlike other *E. coli* strains, O157:H7 is SMAC negative, meaning it does not ferment sorbitol <a class="yt-timestamp" data-t="00:18:24">[00:18:24]</a>, <a class="yt-timestamp" data-t="00:19:18">[00:19:18]</a>, <a class="yt-timestamp" data-t="00:19:26">[00:19:26]</a>, <a class="yt-timestamp" data-t="00:21:37">[00:21:37]</a>.
+*   **Enteroaggregative *E. coli* (EAEC)**:
+    *   Causes: Persistent diarrhea (lasting more than 14 days) <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>, <a class="yt-timestamp" data-t="00:20:03">[00:20:03]</a>, <a class="yt-timestamp" data-t="00:20:05">[00:20:05]</a>.
+    *   Virulence Factor: Enteroaggregative Toxin (EAST1 toxin) <a class="yt-timestamp" data-t="00:20:48">[00:20:48]</a>, <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>.
+    *   Morphology: Shows a "stacked brick" appearance on HEp-2 cell lines <a class="yt-timestamp" data-t="00:21:05">[00:21:05]</a>, <a class="yt-timestamp" data-t="00:21:09">[00:21:09]</a>, <a class="yt-timestamp" data-t="00:21:16">[00:21:16]</a>.
 
-*   **Enterotoxigenic [[Escherichia_coli | E. coli]] (ETEC)** <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>
-    *   Causes traveler's diarrhea <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a> <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a>.
-    *   Virulence marker: Colonization factor antigen <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>.
-    *   Produces heat labile toxin (LT) and heat stable toxin (ST) <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
-        *   **Labile Toxin (LT)**: Increases cyclic AMP (cAMP) <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a> <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
-        *   **Stable Toxin (ST)**: Increases cyclic GMP (cGMP) <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>.
+### *Klebsiella*
+*Klebsiella* is a lactose-fermenting gram-negative bacillus <a class="yt-timestamp" data-t="00:22:32">[00:22:32]</a>, <a class="yt-timestamp" data-t="00:22:37">[00:22:37]</a>.
+*   **Colony Morphology**: Forms mucoid colonies <a class="yt-timestamp" data-t="00:22:44">[00:22:44]</a>, <a class="yt-timestamp" data-t="00:22:59">[00:22:59]</a>, <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a> due to its capsule <a class="yt-timestamp" data-t="00:30:32">[00:30:32]</a>, <a class="yt-timestamp" data-t="00:30:41">[00:30:41]</a>, <a class="yt-timestamp" data-t="00:30:44">[00:30:44]</a>, <a class="yt-timestamp" data-t="00:30:51">[00:30:51]</a>.
+*   **String Test**: A string test can be performed on mucoid colonies <a class="yt-timestamp" data-t="00:30:20">[00:30:20]</a>, <a class="yt-timestamp" data-t="00:30:23">[00:30:23]</a>, <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>, which is positive for *Klebsiella* <a class="yt-timestamp" data-t="00:31:50">[00:31:50]</a>, <a class="yt-timestamp" data-t="00:31:52">[00:31:52]</a>. Other organisms showing a positive string test include *Giardia lamblia* (on patient string) <a class="yt-timestamp" data-t="00:31:32">[00:31:32]</a> and *Vibrio cholerae* (in lab, for rice water stools) <a class="yt-timestamp" data-t="00:31:57">[00:31:57]</a>.
 
-*   **Enteroinvasive [[Escherichia_coli | E. coli]] (EIEC)** <a class="yt-timestamp" data-t="00:13:45">[00:13:45]</a>
-    *   Causes dysentery (diarrhea with blood) due to invasion <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>.
-    *   Virulence marker: Invasion plasmid antigen <a class="yt-timestamp" data-t="00:14:14">[00:14:14]</a>.
-    *   Positive for Sereny test (causes purulent keratoconjunctivitis in guinea pig/rabbit eyes) <a class="yt-timestamp" data-t="00:14:44">[00:14:44]</a> <a class="yt-timestamp" data-t="00:15:10">[00:15:10]</a>. This test is also positive for *[[Shigella]]* <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>.
+### *Yersinia pestis*
+*   **Disease**: Causes Plague <a class="yt-timestamp" data-t="00:33:07">[00:33:07]</a>, transmitted by flea bite <a class="yt-timestamp" data-t="00:32:26">[00:32:26]</a>, <a class="yt-timestamp" data-t="00:33:03">[00:33:03]</a>, <a class="yt-timestamp" data-t="00:37:40">[00:37:40]</a>.
+*   **Staining**: Vagin staining is used to observe the safety pin appearance or bipolar staining <a class="yt-timestamp" data-t="00:32:25">[00:32:25]</a>, <a class="yt-timestamp" data-t="00:33:26">[00:33:26]</a>, <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>, <a class="yt-timestamp" data-t="00:34:52">[00:34:52]</a>. This appearance is also seen in *Vibrio parahaemolyticus*, *Haemophilus ducreyi*, *Burkholderia mallei* and *pseudomallei*, and *Klebsiella granulomatis* <a class="yt-timestamp" data-t="00:36:02">[00:36:02]</a>, <a class="yt-timestamp" data-t="00:36:09">[00:36:09]</a>, <a class="yt-timestamp" data-t="00:36:11">[00:36:11]</a>, <a class="yt-timestamp" data-t="00:36:19">[00:36:19]</a>, <a class="yt-timestamp" data-t="00:36:23">[00:36:23]</a>, <a class="yt-timestamp" data-t="00:36:32">[00:36:32]</a>, <a class="yt-timestamp" data-t="00:36:35">[00:36:35]</a>, <a class="yt-timestamp" data-t="00:36:38">[00:36:38]</a>, <a class="yt-timestamp" data-t="00:36:41">[00:36:41]</a>, <a class="yt-timestamp" data-t="00:36:45">[00:36:45]</a>, <a class="yt-timestamp" data-t="00:36:48">[00:36:48]</a>, <a class="yt-timestamp" data-t="00:36:51">[00:36:51]</a>, <a class="yt-timestamp" data-t="00:36:55">[00:36:55]</a>.
+*   **Culture**: Shows a "stalactite growth pattern" in ghee broth <a class="yt-timestamp" data-t="00:37:20">[00:37:20]</a>, <a class="yt-timestamp" data-t="00:37:48">[00:37:48]</a>, <a class="yt-timestamp" data-t="00:38:06">[00:38:06]</a>, <a class="yt-timestamp" data-t="00:38:12">[00:38:12]</a>.
 
-*   **Enterohemorrhagic [[Escherichia_coli | E. coli]] (EHEC)** <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>
-    *   Causes hemolytic uremic syndrome (HUS) <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>.
-    *   Key strain: O157:H7 <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>.
-    *   Produces verocytotoxin (also called Shiga-like toxin), which decreases protein synthesis by inhibiting the 60S ribosome <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a> <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
-    *   [[Culture media for bacteria | SMAC negative]] (not sorbitol fermenting) on sorbitol MacConkey agar <a class="yt-timestamp" data-t="00:19:26">[00:19:26]</a>. Most E. coli are sorbitol fermenters <a class="yt-timestamp" data-t="00:19:18">[00:19:18]</a>.
+### *Vibrio*
+*Vibrio* species are classified as non-halophilic (non-salt loving) or halophilic (salt loving) <a class="yt-timestamp" data-t="00:40:13">[00:40:13]</a>, <a class="yt-timestamp" data-t="00:40:17">[00:40:17]</a>, <a class="yt-timestamp" data-t="00:40:20">[00:40:20]</a>.
 
-*   **Enteroaggregative [[Escherichia_coli | E. coli]] (EAEC)** <a class="yt-timestamp" data-t="00:19:48">[00:19:48]</a>
-    *   Causes persistent diarrhea (more than 14 days) <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>.
-    *   Produces enteroaggregative toxin <a class="yt-timestamp" data-t="00:20:49">[00:20:49]</a>.
-    *   Shows a "stacked brick" appearance on HEp-2 cell lines <a class="yt-timestamp" data-t="00:21:09">[00:21:09]</a>.
+#### Non-Halophilic Vibrio
+*   ***Vibrio cholerae***:
+    *   Causes: Cholera, characterized by rice water stools, severe vomiting, and dehydration <a class="yt-timestamp" data-t="00:46:28">[00:46:28]</a>, <a class="yt-timestamp" data-t="00:46:31">[00:46:31]</a>.
+    *   Toxin: Cholera Toxin (CTX) <a class="yt-timestamp" data-t="00:46:48">[00:46:48]</a>.
+        *   Fragment B binds to GM1 ganglioside <a class="yt-timestamp" data-t="00:47:34">[00:47:34]</a>, <a class="yt-timestamp" data-t="00:47:40">[00:47:40]</a>.
+        *   Fragment A activates adenylate cyclase, increasing cyclic AMP <a class="yt-timestamp" data-t="00:48:05">[00:48:05]</a>, <a class="yt-timestamp" data-t="00:48:09">[00:48:09]</a>, <a class="yt-timestamp" data-t="00:48:22">[00:48:22]</a>. Other toxins that increase cyclic AMP include [[anthrax_and_bacillus_anthracis | Anthrax toxin]], *Bordetella pertussis* toxin, and *E. coli* labile toxin <a class="yt-timestamp" data-t="00:48:43">[00:48:43]</a>, <a class="yt-timestamp" data-t="00:48:51">[00:48:51]</a>, <a class="yt-timestamp" data-t="00:49:02">[00:49:02]</a>, <a class="yt-timestamp" data-t="00:49:07">[00:49:07]</a>, <a class="yt-timestamp" data-t="00:49:28">[00:49:28]</a>.
+        *   CTX affects the Zona Occludens cell barrier <a class="yt-timestamp" data-t="00:47:51">[00:47:51]</a>, <a class="yt-timestamp" data-t="00:48:02">[00:48:02]</a>.
+    *   Fermentation: Sucrose fermenter <a class="yt-timestamp" data-t="00:50:08">[00:50:08]</a>, <a class="yt-timestamp" data-t="00:50:10">[00:50:10]</a>. Tested on TCBS (Thiosulfate Citrate Bile Salts Sucrose) agar, producing yellow colonies <a class="yt-timestamp" data-t="00:50:16">[00:50:16]</a>, <a class="yt-timestamp" data-t="00:50:22">[00:50:22]</a>, <a class="yt-timestamp" data-t="00:52:05">[00:52:05]</a>.
+    *   String Test: Positive for *Vibrio cholerae* for rice water stools <a class="yt-timestamp" data-t="00:31:57">[00:31:57]</a>.
+*   ***Vibrio mimicus*** <a class="yt-timestamp" data-t="00:40:31">[00:40:31]</a>.
 
-### [[Klebsiella | Klebsiella]]
+#### Halophilic Vibrio
+These species love salt <a class="yt-timestamp" data-t="00:40:42">[00:40:42]</a>, <a class="yt-timestamp" data-t="00:40:45">[00:40:45]</a>.
+*   ***Vibrio parahaemolyticus***:
+    *   Causes: Gastroenteritis from seafood consumption <a class="yt-timestamp" data-t="00:39:22">[00:39:22]</a>, <a class="yt-timestamp" data-t="00:42:52">[00:42:52]</a>, <a class="yt-timestamp" data-t="00:42:55">[00:42:55]</a>.
+    *   [[microbiological_test_for_detection | Kanagawa phenomenon]]: Demonstrated on Wagatsuma agar (blood agar with salt), where pathogenic strains show hemolysis <a class="yt-timestamp" data-t="00:42:58">[00:42:58]</a>, <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>, <a class="yt-timestamp" data-t="00:43:11">[00:43:11]</a>, <a class="yt-timestamp" data-t="00:43:28">[00:43:28]</a>, <a class="yt-timestamp" data-t="00:43:31">[00:43:31]</a>, <a class="yt-timestamp" data-t="00:43:41">[00:43:41]</a>, <a class="yt-timestamp" data-t="00:43:51">[00:43:51]</a>.
+*   ***Vibrio vulnificus***:
+    *   Causes: Wound infection and sepsis, especially in immunocompromised individuals or those with cirrhotic liver disease <a class="yt-timestamp" data-t="00:44:45">[00:44:45]</a>, <a class="yt-timestamp" data-t="00:44:47">[00:44:47]</a>, <a class="yt-timestamp" data-t="00:44:49">[00:44:49]</a>, <a class="yt-timestamp" data-t="00:44:51">[00:44:51]</a>.
+*   ***Vibrio alginolyticus***:
+    *   Most salt-tolerant *Vibrio* species (tolerates >10% NaCl) <a class="yt-timestamp" data-t="00:41:44">[00:41:44]</a>, <a class="yt-timestamp" data-t="00:41:47">[00:41:47]</a>, <a class="yt-timestamp" data-t="00:41:51">[00:41:51]</a>, <a class="yt-timestamp" data-t="00:41:59">[00:41:59]</a>.
+    *   Causes: Conjunctivitis and otitis media <a class="yt-timestamp" data-t="00:45:42">[00:45:42]</a>, <a class="yt-timestamp" data-t="00:45:45">[00:45:45]</a>.
 
-[[Klebsiella | Klebsiella]] (e.g., *[[Klebsiella | Klebsiella]] pneumoniae*) is a lactose-fermenting gram-negative bacillus <a class="yt-timestamp" data-t="00:22:40">[00:22:40]</a>.
-It is known for producing mucoid colonies <a class="yt-timestamp" data-t="00:22:44">[00:22:44]</a> <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>, which indicate it is a capsulated organism <a class="yt-timestamp" data-t="00:30:41">[00:30:41]</a>. Mucoid colonies give a positive "string test" <a class="yt-timestamp" data-t="00:30:23">[00:30:23]</a>.
+### *Rickettsia* and Related Organisms
+These are obligate intracellular bacteria often transmitted by arthropod vectors <a class="yt-timestamp" data-t="00:56:36">[00:56:36]</a>, <a class="yt-timestamp" data-t="00:57:05">[00:57:05]</a>.
 
-## Culture Media for Bacteria
+#### Types of Rickettsial Diseases and Vectors
+*   **Epidemic Typhus**: Caused by *Rickettsia prowazekii*, transmitted by Louse (*Pediculus humanus*) <a class="yt-timestamp" data-t="00:54:00">[00:54:00]</a>, <a class="yt-timestamp" data-t="00:54:03">[00:54:03]</a>, <a class="yt-timestamp" data-t="00:55:15">[00:55:15]</a>, <a class="yt-timestamp" data-t="00:55:42">[00:55:42]</a>, <a class="yt-timestamp" data-t="00:55:46">[00:55:46]</a>, <a class="yt-timestamp" data-t="00:59:42">[00:59:42]</a>, <a class="yt-timestamp" data-t="00:59:44">[00:59:44]</a>.
+*   **Endemic Typhus**: Caused by *Rickettsia typhi*, transmitted by Flea <a class="yt-timestamp" data-t="00:55:32">[00:55:32]</a>, <a class="yt-timestamp" data-t="00:55:35">[00:55:35]</a>, <a class="yt-timestamp" data-t="00:55:49">[00:55:49]</a>.
+*   **Rocky Mountain Spotted Fever (RMSF)**: Caused by *Rickettsia rickettsii*, transmitted by Tick <a class="yt-timestamp" data-t="00:55:55">[00:55:55]</a>, <a class="yt-timestamp" data-t="00:55:58">[00:55:58]</a>, <a class="yt-timestamp" data-t="00:56:04">[00:56:04]</a>.
+*   **Scrub Typhus**: Caused by *Orientia tsutsugamushi* (not *Rickettsia*) <a class="yt-timestamp" data-t="00:57:05">[00:57:05]</a>, <a class="yt-timestamp" data-t="00:57:12">[00:57:12]</a>, <a class="yt-timestamp" data-t="00:57:24">[00:57:24]</a>, <a class="yt-timestamp" data-t="00:57:27">[00:57:27]</a>. Transmitted by mite larvae (chiggers) found in shrubs <a class="yt-timestamp" data-t="00:57:48">[00:57:48]</a>, <a class="yt-timestamp" data-t="00:58:01">[00:58:01]</a>, <a class="yt-timestamp" data-t="00:58:04">[00:58:04]</a>, <a class="yt-timestamp" data-t="00:58:11">[00:58:11]</a>, <a class="yt-timestamp" data-t="00:58:13">[00:58:13]</a>, <a class="yt-timestamp" data-t="00:58:46">[00:58:46]</a>, <a class="yt-timestamp" data-t="00:59:09">[00:59:09]</a>, <a class="yt-timestamp" data-t="00:59:15">[00:59:15]</a>. Associated with the formation of an eschar, especially in moist or hidden body areas like axilla or groin <a class="yt-timestamp" data-t="01:02:26">[01:02:26]</a>, <a class="yt-timestamp" data-t="01:02:28">[01:02:28]</a>, <a class="yt-timestamp" data-t="01:03:03">[01:03:03]</a>, <a class="yt-timestamp" data-t="01:03:10">[01:03:10]</a>, <a class="yt-timestamp" data-t="01:03:12">[01:03:12]</a>, <a class="yt-timestamp" data-t="01:04:15">[01:04:15]</a>.
 
-Different [[Culture media for bacteria | culture media for bacteria]] are used to identify gram-negative bacilli, especially based on their fermentation properties:
+#### Rash Progression
+*   Typical Rickettsial Rashes: Start on the trunk and spread peripherally to extremities <a class="yt-timestamp" data-t="00:54:19">[00:54:19]</a>, <a class="yt-timestamp" data-t="01:01:01">[01:01:01]</a>, <a class="yt-timestamp" data-t="01:01:04">[01:01:04]</a>, <a class="yt-timestamp" data-t="01:02:08">[01:02:08]</a>.
+*   RMSF Rash: Starts on the hands and feet (extremities) and then spreads towards the trunk <a class="yt-timestamp" data-t="01:01:16">[01:01:16]</a>, <a class="yt-timestamp" data-t="01:01:20">[01:01:20]</a>, <a class="yt-timestamp" data-t="01:01:22">[01:01:22]</a>, <a class="yt-timestamp" data-t="01:01:39">[01:01:39]</a>, <a class="yt-timestamp" data-t="01:02:17">[01:02:17]</a>.
 
-*   **[[Culture media for bacteria | MacConkey Agar]]** <a class="yt-timestamp" data-t="00:23:22">[00:23:22]</a>
-    *   Used to test for lactose fermentation <a class="yt-timestamp" data-t="00:23:35">[00:23:35]</a>.
-    *   Composition: Peptone, agar, lactose, neutral red (indicator), bile salts (e.g., sodium taurocholate) <a class="yt-timestamp" data-t="00:24:46">[00:24:46]</a>.
-    *   Functions as a differential medium (for lactose fermentation), an indicator medium (due to neutral red), and a selective medium (due to bile salts) <a class="yt-timestamp" data-t="00:25:08">[00:25:08]</a>.
-    *   Lactose fermentation results in a pink color <a class="yt-timestamp" data-t="00:24:13">[00:24:13]</a> <a class="yt-timestamp" data-t="00:25:56">[00:25:56]</a>.
+#### [[microbiological_test_for_detection | Weil-Felix Reaction]]
+*   Used for *Rickettsia* diagnosis <a class="yt-timestamp" data-t="01:21:41">[01:21:41]</a>, <a class="yt-timestamp" data-t="01:21:43">[01:21:43]</a>.
+*   It is a heterophile agglutination test, meaning antibodies produced against *Rickettsia* cross-react with specific *Proteus* strains (OX2, OX19, OXK) <a class="yt-timestamp" data-t="01:22:04">[01:22:04]</a>, <a class="yt-timestamp" data-t="01:22:07">[01:22:07]</a>, <a class="yt-timestamp" data-t="01:22:17">[01:22:17]</a>, <a class="yt-timestamp" data-t="01:22:20">[01:22:20]</a>, <a class="yt-timestamp" data-t="01:22:28">[01:22:28]</a>, <a class="yt-timestamp" data-t="01:22:33">[01:22:33]</a>.
+*   Only scrub typhus (caused by *Orientia tsutsugamushi*) shows a positive reaction with OXK <a class="yt-timestamp" data-t="01:23:08">[01:23:08]</a>, <a class="yt-timestamp" data-t="01:23:12">[01:23:12]</a>, <a class="yt-timestamp" data-t="01:23:29">[01:23:29]</a>, <a class="yt-timestamp" data-t="01:23:45">[01:23:45]</a>.
 
-*   **[[Culture media for bacteria | CLED Media]] (Cystine-Lactose-Electrolyte Deficient Agar)** <a class="yt-timestamp" data-t="00:26:03">[00:26:03]</a>
-    *   Used for lactose fermentation testing <a class="yt-timestamp" data-t="00:26:09">[00:26:09]</a>.
-    *   Indicator: Bromothymol blue <a class="yt-timestamp" data-t="00:26:27">[00:26:27]</a>.
-    *   Lactose fermentation results in a yellow color <a class="yt-timestamp" data-t="00:26:13">[00:26:13]</a>.
-    *   Considered better than [[Culture media for bacteria | MacConkey Agar]] for urine cultures because it is "less inhibitory," allowing both gram-negative and gram-positive organisms to grow <a class="yt-timestamp" data-t="00:27:48">[00:27:48]</a>.
+### Spirochetes
+[[bacterial_staining_techniques_and_their_significance | Spirochetes]] are gram-negative bacteria characterized by their spiral shape and internal flagella (endoflagella) located in the periplasmic space, which enable their motility <a class="yt-timestamp" data-t="01:12:01">[01:12:01]</a>, <a class="yt-timestamp" data-t="01:26:27">[01:26:27]</a>, <a class="yt-timestamp" data-t="01:26:38">[01:26:38]</a>, <a class="yt-timestamp" data-t="01:26:41">[01:26:41]</a>, <a class="yt-timestamp" data-t="01:26:46">[01:26:46]</a>. [[laboratory_techniques_for_identifying_bacterial_pathogens | Dark field microscopy]] is commonly used to visualize them <a class="yt-timestamp" data-t="01:06:32">[01:06:32]</a>, <a class="yt-timestamp" data-t="01:06:41">[01:06:41]</a>, <a class="yt-timestamp" data-t="01:06:53">[01:06:53]</a>, <a class="yt-timestamp" data-t="01:07:05">[01:07:05]</a>, <a class="yt-timestamp" data-t="01:12:01">[01:12:01]</a>.
 
-*   **[[Culture media for bacteria | Eosin Methylene Blue (EMB)]] Agar** <a class="yt-timestamp" data-t="00:28:51">[00:28:51]</a>
-    *   Also used for lactose fermentation <a class="yt-timestamp" data-t="00:28:54">[00:28:54]</a>.
-    *   [[Escherichia_coli | E. coli]] fermentation on EMB shows a greenish metallic sheen <a class="yt-timestamp" data-t="00:29:08">[00:29:08]</a>.
+#### Key Spirochetes
+*   ***Treponema pallidum***:
+    *   Causes: Syphilis <a class="yt-timestamp" data-t="01:05:32">[01:05:32]</a>. Characterized by painless genital ulcers (chancre) and painless lymphadenopathy <a class="yt-timestamp" data-t="01:03:50">[01:03:50]</a>, <a class="yt-timestamp" data-t="01:05:37">[01:05:37]</a>, <a class="yt-timestamp" data-t="01:05:40">[01:05:40]</a>, <a class="yt-timestamp" data-t="01:05:50">[01:05:50]</a>, <a class="yt-timestamp" data-t="01:06:08">[01:06:08]</a>, <a class="yt-timestamp" data-t="01:06:13">[01:06:13]</a>, <a class="yt-timestamp" data-t="01:08:48">[01:08:48]</a>, <a class="yt-timestamp" data-t="01:08:55">[01:08:55]</a>.
+    *   Morphology/Motility: Has tight coils and exhibits screw motility <a class="yt-timestamp" data-t="01:12:54">[01:12:54]</a>, <a class="yt-timestamp" data-t="01:12:57">[01:12:57]</a>, <a class="yt-timestamp" data-t="01:13:02">[01:13:02]</a>, <a class="yt-timestamp" data-t="01:13:07">[01:13:07]</a>, <a class="yt-timestamp" data-t="01:13:16">[01:13:16]</a>.
+*   ***Borrelia burgdorferi***:
+    *   Causes: Lyme disease <a class="yt-timestamp" data-t="01:11:51">[01:11:51]</a>.
+    *   Morphology/Motility: Has loose coils and exhibits lashing motility <a class="yt-timestamp" data-t="01:13:21">[01:13:21]</a>, <a class="yt-timestamp" data-t="01:13:23">[01:13:23]</a>, <a class="yt-timestamp" data-t="01:13:29">[01:13:29]</a>, <a class="yt-timestamp" data-t="01:13:31">[01:13:31]</a>.
+*   ***Leptospira***:
+    *   Causes: Leptospirosis, including Weil's disease (Icterohemorrhagic fever) <a class="yt-timestamp" data-t="01:12:01">[01:12:01]</a>, <a class="yt-timestamp" data-t="01:16:12">[01:16:12]</a>, <a class="yt-timestamp" data-t="01:16:13">[01:16:13]</a>, <a class="yt-timestamp" data-t="01:16:20">[01:16:20]</a>, <a class="yt-timestamp" data-t="01:16:24">[01:16:24]</a>.
+    *   Transmission: Zoonotic infection, often from rat urine contaminating rainy water, affecting paddy field (rice field) workers <a class="yt-timestamp" data-t="01:14:19">[01:14:19]</a>, <a class="yt-timestamp" data-t="01:14:33">[01:14:33]</a>, <a class="yt-timestamp" data-t="01:14:43">[01:14:43]</a>, <a class="yt-timestamp" data-t="01:14:49">[01:14:49]</a>, <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>, <a class="yt-timestamp" data-t="01:15:03">[01:15:03]</a>, <a class="yt-timestamp" data-t="01:15:10">[01:15:10]</a>, <a class="yt-timestamp" data-t="01:15:20">[01:15:20]</a>, <a class="yt-timestamp" data-t="01:15:30">[01:15:30]</a>.
+    *   Morphology: Has hooked ends <a class="yt-timestamp" data-t="01:13:42">[01:13:42]</a>, <a class="yt-timestamp" data-t="01:13:50">[01:13:50]</a>, <a class="yt-timestamp" data-t="01:13:55">[01:13:55]</a>, <a class="yt-timestamp" data-t="01:16:01">[01:16:01]</a>, <a class="yt-timestamp" data-t="01:17:10">[01:17:10]</a>, <a class="yt-timestamp" data-t="01:17:12">[01:17:12]</a>.
+    *   Culture: Forms a "Dinger ring" in EMJH (Ellinghausen-McCullough-Johnson-Harris) culture media <a class="yt-timestamp" data-t="01:17:46">[01:17:46]</a>, <a class="yt-timestamp" data-t="01:17:50">[01:17:50]</a>, <a class="yt-timestamp" data-t="01:17:58">[01:17:58]</a>, <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>, <a class="yt-timestamp" data-t="01:18:06">[01:18:06]</a>.
+    *   [[microbiological_test_for_detection | Agglutination Test]]: Microscopic Agglutination Test (MAT) is used for diagnosing *Leptospira* <a class="yt-timestamp" data-t="01:19:14">[01:19:14]</a>, <a class="yt-timestamp" data-t="01:19:58">[01:19:58]</a>, <a class="yt-timestamp" data-t="01:20:02">[01:20:02]</a>, <a class="yt-timestamp" data-t="01:20:25">[01:20:25]</a>, <a class="yt-timestamp" data-t="01:20:29">[01:20:29]</a>. Other agglutination tests include Cold Agglutination Test (for *Mycoplasma*) <a class="yt-timestamp" data-t="01:19:05">[01:19:05]</a>, <a class="yt-timestamp" data-t="01:19:45">[01:19:45]</a>, and Standard Agglutination Test (for *Brucella*) <a class="yt-timestamp" data-t="01:19:08">[01:19:08]</a>, <a class="yt-timestamp" data-t="01:19:52">[01:19:52]</a>, <a class="yt-timestamp" data-t="01:19:55">[01:19:55]</a>.
+    *   [[microbiological_test_for_detection | Coagglutination]]: A test using *Staphylococcus aureus* Cowan's strain (Protein A) for detection <a class="yt-timestamp" data-t="01:24:22">[01:24:22]</a>, <a class="yt-timestamp" data-t="01:24:25">[01:24:25]</a>, <a class="yt-timestamp" data-t="01:24:33">[01:24:33]</a>, <a class="yt-timestamp" data-t="01:24:41">[01:24:41]</a>, <a class="yt-timestamp" data-t="01:24:56">[01:24:56]</a>, <a class="yt-timestamp" data-t="01:24:58">[01:24:58]</a>, <a class="yt-timestamp" data-t="01:25:01">[01:25:01]</a>, <a class="yt-timestamp" data-t="01:25:05">[01:25:05]</a>.
 
-*   **[[Culture media for bacteria | TCBS Media]] (Thiosulphate Citrate Bile Salt Sucrose Agar)** <a class="yt-timestamp" data-t="00:50:18">[00:50:18]</a>
-    *   Specifically used for sucrose fermentation, mainly for *Vibrio* species <a class="yt-timestamp" data-t="00:50:08">[00:50:08]</a>.
-    *   Sucrose fermenters (like *Vibrio cholerae*) appear yellow <a class="yt-timestamp" data-t="00:52:05">[00:52:05]</a>.
-    *   Indicator: Bromothymol blue <a class="yt-timestamp" data-t="00:52:12">[00:52:12]</a>.
-
-## Vibrio Species
-
-*Vibrio* species are gram-negative bacilli often associated with seafood consumption <a class="yt-timestamp" data-t="00:46:58">[00:46:58]</a>.
-
-### Classification by Halophilicity
-
-*   **Non-halophilic** (do not love salt): *Vibrio cholerae*, *Vibrio mimicus* <a class="yt-timestamp" data-t="00:40:26">[00:40:26]</a>.
-*   **Halophilic** (salt loving): *Vibrio parahaemolyticus*, *Vibrio vulnificus*, *Vibrio alginolyticus* <a class="yt-timestamp" data-t="00:40:37">[00:40:37]</a>.
-
-### Specific *Vibrio* Species
-
-*   ***Vibrio cholerae***
-    *   Causes cholera, characterized by "rice water stools," severe vomiting, and dehydration <a class="yt-timestamp" data-t="00:46:27">[00:46:27]</a>.
-    *   Cholera toxin (CTX) has A and B fragments <a class="yt-timestamp" data-t="00:47:08">[00:47:08]</a>.
-        *   Fragment B binds to GM1 ganglioside <a class="yt-timestamp" data-t="00:47:34">[00:47:34]</a>.
-        *   Affects Zona occludens (cell barrier) <a class="yt-timestamp" data-t="00:47:49">[00:47:49]</a>.
-        *   Fragment A activates adenylate cyclase, increasing cyclic AMP <a class="yt-timestamp" data-t="00:48:05">[00:48:05]</a>.
-    *   Gives a positive "string test" in stool samples <a class="yt-timestamp" data-t="00:31:57">[00:31:57]</a>.
-    *   Is a sucrose fermenter <a class="yt-timestamp" data-t="00:50:10">[00:50:10]</a>.
-
-*   ***Vibrio parahaemolyticus***
-    *   Associated with seafood poisoning and gastroenteritis <a class="yt-timestamp" data-t="00:49:50">[00:49:50]</a> <a class="yt-timestamp" data-t="00:42:52">[00:42:52]</a>.
-    *   Shows the Kanagawa phenomenon (hemolysis on [[Culture media for bacteria | Wagatsuma agar]]) <a class="yt-timestamp" data-t="00:42:58">[00:42:58]</a>.
-    *   Can exhibit bipolar staining ("safety pin appearance") <a class="yt-timestamp" data-t="00:36:09">[00:36:09]</a>.
-
-*   ***Vibrio vulnificus***
-    *   Causes wound infections and sepsis, particularly in HIV-positive individuals or those with cirrhotic liver disease <a class="yt-timestamp" data-t="00:44:42">[00:44:42]</a>.
-
-*   ***Vibrio alginolyticus***
-    *   Most salt-tolerant *Vibrio* species (tolerates >10% NaCl) <a class="yt-timestamp" data-t="00:44:56">[00:44:56]</a>.
-    *   Associated with conjunctivitis and otitis media <a class="yt-timestamp" data-t="00:45:42">[00:45:42]</a>.
-
-## Yersinia pestis
-
-*Yersinia pestis* is the causative agent of plague, often transmitted by flea bites <a class="yt-timestamp" data-t="00:33:05">[00:33:05]</a>.
-
-*   **Appearance**: Displays a characteristic "safety pin appearance" or bipolar staining <a class="yt-timestamp" data-t="00:34:43">[00:34:43]</a>.
-*   **Staining**: Identified using Wayson stain <a class="yt-timestamp" data-t="00:32:25">[00:32:25]</a>.
-*   **Culture**: Shows a "stalactite growth pattern" or "ghee broth" appearance in liquid media <a class="yt-timestamp" data-t="00:38:19">[00:38:19]</a>. This is distinct from the "inverted fir tree" appearance seen on gelatin stab cultures (which is not observed in this context) <a class="yt-timestamp" data-t="00:37:50">[00:37:50]</a>.
-
-## Other Bacteria Exhibiting Bipolar Staining ("Safety Pin Appearance")
-
-In addition to *Yersinia pestis*, other organisms can show bipolar staining <a class="yt-timestamp" data-t="00:35:12">[00:35:12]</a>:
-
-*   *Vibrio parahaemolyticus* <a class="yt-timestamp" data-t="00:37:09">[00:37:09]</a>
-*   *[[Haemophilus_ducreyi | Haemophilus ducreyi]]* <a class="yt-timestamp" data-t="00:37:18">[00:37:18]</a>
-*   *Burkholderia mallei* and *Burkholderia pseudomallei* <a class="yt-timestamp" data-t="00:37:21">[00:37:21]</a>
-*   *[[Klebsiella | Klebsiella]] granulomatis* (causes donovanosis) <a class="yt-timestamp" data-t="00:37:23">[00:37:23]</a>
-
-## Tick-borne and Louse-borne Rickettsial Infections
-
-These infections are often characterized by fever, chills, and rash, with the rash pattern varying based on the causative agent <a class="yt-timestamp" data-t="00:54:15">[00:54:15]</a>. They are caused by *Rickettsia* species, except for scrub typhus.
-
-### Transmission and Rash Patterns
-
-*   **Lice (Louse-borne)**:
-    *   Causes epidemic typhus <a class="yt-timestamp" data-t="00:55:15">[00:55:15]</a>.
-    *   Rash starts on the trunk and spreads peripherally to extremities <a class="yt-timestamp" data-t="00:54:19">[00:54:19]</a> <a class="yt-timestamp" data-t="01:01:01">[01:01:01]</a>.
-
-*   **Fleas (Flea-borne)**:
-    *   Causes endemic typhus <a class="yt-timestamp" data-t="00:55:32">[00:55:32]</a>.
-    *   Rash starts on the trunk and spreads peripherally to extremities <a class="yt-timestamp" data-t="01:01:01">[01:01:01]</a>.
-
-*   **Ticks (Tick-borne)**:
-    *   Causes Rocky Mountain Spotted Fever (RMSF) <a class="yt-timestamp" data-t="00:56:06">[00:56:06]</a>, Indian tick typhus, African tick typhus <a class="yt-timestamp" data-t="00:56:08">[00:56:08]</a>.
-    *   Rash for RMSF starts on hands and feet (extremities) and then spreads towards the trunk <a class="yt-timestamp" data-t="01:01:20">[01:01:20]</a>.
-
-*   **Mites (Mite-borne)**:
-    *   Causes scrub typhus and rickettsialpox <a class="yt-timestamp" data-t="00:56:56">[00:56:56]</a>.
-    *   Scrub typhus is caused by *Orientia tsutsugamushi* (not *Rickettsia*) <a class="yt-timestamp" data-t="00:57:12">[00:57:12]</a>.
-    *   Characterized by the formation of an **eschar**, a blackish lesion often found in moist, hidden areas like the axilla or groin <a class="yt-timestamp" data-t="01:02:26">[01:02:26]</a> <a class="yt-timestamp" data-t="01:03:07">[01:03:07]</a>.
-    *   Associated with the "scrub shrub might mice" concept (shrub vegetation, trombiculid mites/chiggers, mice/rats) <a class="yt-timestamp" data-t="00:57:48">[00:57:48]</a>.
-
-### Diagnosis of Rickettsial Infections
-
-*   **Weil-Felix Reaction**: An agglutination test used for *Rickettsia* diagnosis <a class="yt-timestamp" data-t="01:21:41">[01:21:41]</a>.
-    *   It is a heterophile agglutination test because antibodies produced against *Rickettsia* cross-react with specific strains of *Proteus* (OX2, OX19, OXK) <a class="yt-timestamp" data-t="01:22:20">[01:22:20]</a>.
-    *   Scrub typhus is uniquely positive with the OXK strain <a class="yt-timestamp" data-t="01:23:09">[01:23:09]</a> <a class="yt-timestamp" data-t="01:23:42">[01:23:42]</a>.
-
-## Spirochetes
-
-Spirochetes are spiral-shaped bacteria, often characterized by their unique motility and staining <a class="yt-timestamp" data-t="01:11:59">[01:11:59]</a>. They possess an endoflagella within the periplasmic space, which contributes to their motility <a class="yt-timestamp" data-t="01:26:41">[01:26:41]</a>.
-
-### Key Spirochete Genera
-
-*   ***Treponema*** (*Treponema pallidum* - syphilis)
-    *   Causes painless genital ulcers and painless lymphadenopathy (e.g., chancre) <a class="yt-timestamp" data-t="01:05:37">[01:05:37]</a> <a class="yt-timestamp" data-t="01:08:51">[01:08:51]</a>.
-    *   Microscopy: Dark field microscopy <a class="yt-timestamp" data-t="01:06:32">[01:06:32]</a> <a class="yt-timestamp" data-t="01:12:03">[01:12:03]</a>.
-    *   Appearance: Tight coils <a class="yt-timestamp" data-t="01:12:57">[01:12:57]</a>.
-    *   Motility: "Screw motility" <a class="yt-timestamp" data-t="01:13:04">[01:13:04]</a>.
-
-*   ***Borrelia*** (*Borrelia burgdorferi* - Lyme disease)
-    *   Appearance: Loose coils <a class="yt-timestamp" data-t="01:13:23">[01:13:23]</a>.
-    *   Motility: "Lashing motility" <a class="yt-timestamp" data-t="01:13:31">[01:13:31]</a>.
-
-*   ***Leptospira*** (*Leptospira interrogans* - Leptospirosis)
-    *   Causes Weil's disease (Icterohemorrhagic fever), characterized by jaundice (liver involvement), hemorrhage (hematuria), and renal involvement <a class="yt-timestamp" data-t="01:16:12">[01:16:12]</a>.
-    *   Transmission: Zoonotic, associated with rat urine contaminating rainy water in rice/paddy fields <a class="yt-timestamp" data-t="01:14:51">[01:14:51]</a>.
-    *   Appearance: Hooked ends ("lepto-laava") <a class="yt-timestamp" data-t="01:13:50">[01:13:50]</a> <a class="yt-timestamp" data-t="01:17:10">[01:17:10]</a>.
-    *   Culture: Identified by "Dinger ring" formation in [[Culture media for bacteria | EMJH (Ellinghausen, McCullough, Johnson, and Harris)]] culture media <a class="yt-timestamp" data-t="01:17:50">[01:17:50]</a>.
-    *   Diagnostic Test: Microscopic Agglutination Test (MAT) <a class="yt-timestamp" data-t="01:19:58">[01:19:58]</a>.
-
-## Agglutination Tests
-
-Several agglutination tests are used in microbiology for diagnosis:
-
-*   **Cold Agglutination Test (CAT)**: Used for *[[Mycoplasma]]* (e.g., *[[Mycoplasma]] pneumoniae*) <a class="yt-timestamp" data-t="01:19:45">[01:19:45]</a>.
-*   **Standard Agglutination Test (SAT)**: Used for *Brucella* (e.g., brucellosis) <a class="yt-timestamp" data-t="01:19:52">[01:19:52]</a>.
-*   **Microscopic Agglutination Test (MAT)**: Used for *Leptospira* <a class="yt-timestamp" data-t="01:19:58">[01:19:58]</a>.
-*   **Heterophile Agglutination Test**: Involves antibodies reacting with different (hetero) antigens.
-    *   Paul-Bunnell test (for Epstein-Barr virus) <a class="yt-timestamp" data-t="01:21:43">[01:21:43]</a>.
-    *   Weil-Felix reaction (for *Rickettsia* using *Proteus* antigens) <a class="yt-timestamp" data-t="01:21:41">[01:21:41]</a>.
-*   **Co-agglutination**: A test using *Staphylococcus aureus* (specifically Cowan's strain, which has Protein A) to detect antigens from other bacteria <a class="yt-timestamp" data-t="01:24:20">[01:24:20]</a>. It detects antigens of the target bacteria using antibodies attached to *S. aureus* <a class="yt-timestamp" data-t="01:25:01">[01:25:01]</a>.
-
-## Genital Ulcers
-
-Different types of genital ulcers can be caused by various organisms, categorized by pain:
-
-*   **Painful Genital Ulcers**:
-    *   *[[Haemophilus_ducreyi | Haemophilus ducreyi]]* (causes chancroid or "soft chancre") <a class="yt-timestamp" data-t="01:07:41">[01:07:41]</a> <a class="yt-timestamp" data-t="01:07:50">[01:07:50]</a>.
-    *   Herpes Simplex Virus (HSV-2) <a class="yt-timestamp" data-t="01:08:06">[01:08:06]</a>.
-
-*   **Painless Genital Ulcers**:
-    *   *Treponema pallidum* (syphilis - "hard chancre" is painless, and lymph nodes are painless) <a class="yt-timestamp" data-t="01:08:51">[01:08:51]</a>.
-    *   *Chlamydia trachomatis* (Lymphogranuloma Venereum - LGV: ulcer is painless, but associated buboes/lymph nodes are painful) <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>.
-    *   *[[Klebsiella | Klebsiella]] granulomatis* (Donovanosis or Granuloma inguinale: painless ulcer, also shows safety pin appearance) <a class="yt-timestamp" data-t="01:09:43">[01:09:43]</a> <a class="yt-timestamp" data-t="01:10:36">[01:10:36]</a>.
+### Other Gram-Negative Bacilli in Ulcerations
+*   ***Haemophilus ducreyi***:
+    *   Causes: Painful genital ulcers (soft chancre) <a class="yt-timestamp" data-t="01:07:38">[01:07:38]</a>, <a class="yt-timestamp" data-t="01:07:41">[01:07:41]</a>, <a class="yt-timestamp" data-t="01:07:44">[01:07:44]</a>, <a class="yt-timestamp" data-t="01:07:50">[01:07:50]</a>, <a class="yt-timestamp" data-t="01:07:53">[01:07:53]</a>, <a class="yt-timestamp" data-t="01:07:57">[01:07:57]</a>.
+    *   Shows safety pin appearance <a class="yt-timestamp" data-t="01:10:15">[01:10:15]</a>.
+*   ***Klebsiella granulomatis*** (formerly *Calymmatobacterium granulomatis*):
+    *   Causes: Donovanosis, characterized by painless genital ulcers <a class="yt-timestamp" data-t="01:09:43">[01:09:43]</a>, <a class="yt-timestamp" data-t="01:09:45">[01:09:45]</a>, <a class="yt-timestamp" data-t="01:09:48">[01:09:48]</a>, <a class="yt-timestamp" data-t="01:10:39">[01:10:39]</a>.
+    *   Shows safety pin appearance <a class="yt-timestamp" data-t="01:10:25">[01:10:25]</a>.
+*   ***Chlamydia trachomatis*** (L1, L2, L3 serovars):
+    *   Causes: Lymphogranuloma venereum (LGV), where the initial ulcer is painless, but the associated inguinal lymph nodes (bubos) are painful <a class="yt-timestamp" data-t="01:09:05">[01:09:05]</a>, <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>, <a class="yt-timestamp" data-t="01:09:11">[01:09:11]</a>, <a class="yt-timestamp" data-t="01:09:14">[01:09:14]</a>, <a class="yt-timestamp" data-t="01:09:17">[01:09:17]</a>, <a class="yt-timestamp" data-t="01:10:50">[01:10:50]</a>, <a class="yt-timestamp" data-t="01:10:54">[01:10:54]</a>.

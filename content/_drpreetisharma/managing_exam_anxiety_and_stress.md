@@ -5,68 +5,59 @@ videoId: ROoykcU7cHw
 
 From: [[_drpreetisharma]] <br/> 
 
-Effective management of anxiety and stress is crucial for optimal performance during examinations. This includes pre-exam preparation, maintaining a positive mindset, and strategic approaches during the exam itself.
+The period leading up to and during an exam, such as the FMG exam, often brings significant anxiety and panic, characterized by increased heart rate and palpitations <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. This session focuses on practical advice for managing these feelings and approaching the exam with a positive mindset.
 
-## Pre-Exam Preparation and Logistics
+## Pre-Exam Day Preparation
 
-A key aspect of [[lastminute_exam_checklist | last-minute exam preparation]] and [[exam_day_strategy_and_mindset | exam day strategy]] is ensuring all logistical elements are in place to minimize stress.
+*   **Winding Down and Sleep**
+    It is advised to wrap up studying by 7:00 or 7:30 PM on the evening before the exam to allow time to settle down and ensure a [[importance_of_time_management_and_sleep_cycle_for_exams | good night's sleep]] <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>. This is of utmost importance <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+*   **[[essential_exam_day_checklist_for_fmge | Exam Day Checklist]]**
+    Ensure your admit card is ready and a valid ID proof is with you <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. Double-check that the name on the ID proof matches the name on the admit card to avoid spelling mistakes <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. A photograph does not need to be pasted on the admit card <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. Keep your ID in an easily accessible place <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+*   **Exam Centre Location**
+    Confirm the exact location of your exam centre beforehand <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
 
-*   **Wrap-up Study:** Students should aim to wrap up their studies by 7-7:30 PM on the evening before the exam <a class="yt-timestamp" data-t="01:01:02">[01:01:02]</a>.
-*   **Rest and Sleep:** Prioritize a good night's sleep, as it is of utmost importance <a class="yt-timestamp" data-t="01:07:10">[01:07:10]</a>.
-*   **Checklist Verification:**
-    *   Confirm your admit card is ready <a class="yt-timestamp" data-t="01:18:11">[01:18:11]</a>.
-    *   Ensure your valid ID proof's name matches the admit card exactly, with no spelling mistakes <a class="yt-timestamp" data-t="01:23:11">[01:23:11]</a>.
-    *   Remember that you do not need to paste a photograph on the admit card <a class="yt-timestamp" data-t="01:34:11">[01:34:11]</a>.
-    *   Keep your ID in an easily accessible and secure place to avoid loss on exam morning <a class="yt-timestamp" data-t="01:45:11">[01:45:11]</a>.
-*   **Exam Center Location:** Know the exact location of your exam center and do not leave this for the morning of the exam <a class="yt-timestamp" data-t="01:51:11">[01:51:11]</a>.
-*   **Timely Arrival:** Arrive well in advance of the entry time (7 AM for Paper 1, open until 8:30 AM), to allow your heart rate to normalize before the exam <a class="yt-timestamp" data-t="02:07:11">[02:07:11]</a>.
+## Strategies for Exam Day
 
-## Maintaining a Positive Mindset
+*   **Timely Arrival**
+    Entry for Paper One begins at 7:00 AM and closes at 8:30 AM <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. Do not arrive at the last minute; ensure you reach in time to allow your heart rate to return to normal before the exam begins <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
+*   **During the Break Between Papers**
+    Avoid discussing Paper One with others or checking messages during the break <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. Discussion of questions can cause unnecessary [[dealing_with_anxiety_and_maintaining_positivity | anxiety]] or make the second paper more difficult if you discover mistakes <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. Focus instead on light food and drink that provides energy for Paper Two <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+*   **Handling Paper Difficulty**
+    Historically, one paper tends to be easier and the other more difficult, rather than both being average <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. If Paper One feels challenging, do not lose hope, as Paper Two might be easier <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. The goal is to clear the average score of 150 <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>.
+*   **"Switch On, Switch Off" Mode for Questions**
+    Approach each question individually: "switch on," attempt the question, then "switch off" and move to the next <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. Do not dwell on previous questions or anticipate future ones <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+*   **Dealing with "Bouncer" Questions**
+    Expect 10-20 "bouncer" questions in each paper that even experts may find challenging or unfamiliar <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>. These questions are not meant to be solved by everyone and are included to maintain the screening level of the exam <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>. Do not focus on them, as they can demotivate you <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>. If you encounter such questions, simply make an educated guess (A, B, C, or D), "think of God," and move on <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+*   **Avoiding Silly Mistakes**
+    The main focus should be on not making silly mistakes on easier questions rather than trying to solve tough ones <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>. Silly mistakes can lead to long-term regret <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>.
+*   **Power of [[dealing_with_anxiety_and_maintaining_positivity | Positivity]] and Self-Belief**
+    Maintain a positive mindset, believing that "paper is going to be easy" and "nothing bad is going to happen to me" <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>, <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>. This mindset helps normalize heart rate and prevents silly mistakes <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. Avoid negative thoughts like "I have forgotten everything" <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
 
-[[dealing_with_anxiety_and_maintaining_positivity | Dealing with anxiety and maintaining positivity]] is paramount for success.
+    > "From right now till tomorrow till the end of the exam you do not have to think of anything negative" <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>.
+*   **Trust Your Gut Feeling; Avoid Overthinking**
+    When analyzing a question, spend about 45 seconds, mark the answer, and move on <a class="yt-timestamp" data-t="00:16:46">[00:16:46]</a>. Do not change answers in the last 15 minutes due to [[handling_exam_anxiety_and_motivation_tactics | panic]] or overthinking, as your first gut feeling is often correct <a class="yt-timestamp" data-t="00:16:52">[00:16:52]</a>, <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>.
+*   **Confidence vs. Overconfidence**
+    It's good to be confident, but avoid making silly mistakes due to overconfidence <a class="yt-timestamp" data-t="00:17:25">[00:17:25]</a>. By 8:30 AM on exam day, be "super confident" that your preparation, strategy, teachers, and sources were the best <a class="yt-timestamp" data-t="00:17:54">[00:17:54]</a>. This confidence helps you reach the hall, but once seated, switch to a sane and practical mindset <a class="yt-timestamp" data-t="00:19:01">[00:19:01]</a>.
+*   **Read Questions Carefully**
+    Even if a question seems familiar, take the time (around 20 seconds) to read the entire question and all options <a class="yt-timestamp" data-t="00:18:30">[00:18:30]</a>. This prevents missing crucial twists and regretting it later <a class="yt-timestamp" data-t="00:18:47">[00:18:47]</a>.
+*   **Pacing and Balance**
+    Some questions will be one-liners, others lengthy <a class="yt-timestamp" data-t="00:19:28">[00:19:28]</a>. Don't worry if a lengthy question takes more than 50 seconds; one-liners or image-based questions will balance out the time <a class="yt-timestamp" data-t="00:19:36">[00:19:36]</a>. A slight lag in the first 15 minutes is normal as you settle in <a class="yt-timestamp" data-t="00:19:56">[00:19:56]</a>.
 
-*   **Acknowledge Normalcy:** Panic, increased heart rate, and palpitations are normal at this stage <a class="yt-timestamp" data-t="00:48:11">[00:48:11]</a>.
-*   **Avoid Negativity:** Students must actively avoid thinking negatively from the evening before the exam until its conclusion <a class="yt-timestamp" data-t="09:59:11">[09:59:11]</a>. After the exam, one can reflect, but during this critical period, only positive thoughts are recommended <a class="yt-timestamp" data-t="10:02:11">[10:02:11]</a>.
-*   **Counter Self-Doubt:** Reject thoughts of not studying well, having a poor source, or bad memory <a class="yt-timestamp" data-t="10:17:11">[10:17:11]</a>. Believe in your preparation and capabilities <a class="yt-timestamp" data-t="10:34:11">[10:34:11]</a>.
-*   **Trust Your Gut Feeling:** Often, your first instinct is correct, especially when not under immense pressure <a class="yt-timestamp" data-t="10:58:11">[10:58:11]</a>. This applies to answers during the exam.
-*   **Embrace Overconfidence (Initially):** Before the exam, aim to be "super confident" by 8:30 AM on exam day <a class="yt-timestamp" data-t="18:54:11">[18:54:11]</a>. This means believing your preparation, strategy, teachers, and sources were the best <a class="yt-timestamp" data-t="17:43:11">[17:43:11]</a>. However, once in the exam hall, shift to a sane and practical mindset <a class="yt-timestamp" data-t="19:07:11">[19:07:11]</a>.
-*   **Perspective on Difficulties:** The exam is just one challenge, less arduous than previous struggles <a class="yt-timestamp" data-t="13:37:11">[13:37:11]</a>. It's a formality rather than a determinant of your worth <a class="yt-timestamp" data-t="23:38:11">[23:38:11]</a>.
-*   **Ignore External Judgment:** Do not worry about what others who are not part of your true support system might think if you don't clear the exam <a class="yt-timestamp" data-t="14:29:11">[14:29:11]</a>.
+## Overcoming Negativity and Self-Doubt
 
-## Exam Day Strategy
+*   **Count Your Blessings and Believe**
+    After all the hard work (rapid [[effective_revision_techniques_for_medical_exams | revisions]], notes, images, PYQs), it's time to count your blessings <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. Believe in whatever gives you [[role_of_faith_and_belief_in_exam_success | faith]]—God, the universe, energy, or the blessings of your parents and teachers <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
+*   **Ignore External Judgment**
+    Do not be concerned about what others, who are not true supporters, might say if you don't clear the exam <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>. Your teachers and parents, who know your hard work, will stand by you <a class="yt-timestamp" data-t="00:14:06">[00:14:06]</a>.
+*   **Perspective on Exams**
+    While the exam feels important now, it's just one part of life <a class="yt-timestamp" data-t="00:14:43">[00:14:43]</a>. You are already considered a doctor in terms of your knowledge and effort <a class="yt-timestamp" data-t="00:22:14">[00:22:14]</a>. The exam is merely a formality, a legal process for official certification <a class="yt-timestamp" data-t="00:23:38">[00:23:38]</a>.
 
-[[exam_day_strategy_and_mindset | Exam day strategy and mindset]] involves specific approaches to managing time and questions.
+    > "This one five line ka question is not a challenge that should bother you so much" <a class="yt-timestamp" data-t="00:22:33">[00:22:33]</a>.
 
-*   **Inter-Paper Break Protocol:**
-    *   Do not engage in discussions or messaging about Paper 1 questions between Paper 1 and Paper 2 <a class="yt-timestamp" data-t="02:25:11">[02:25:11]</a>. This can cause unnecessary panic and negatively affect performance on the subsequent paper <a class="yt-timestamp" data-t="03:01:11">[03:01:11]</a>.
-    *   Use the break to eat or drink something light that provides energy for Paper 2 <a class="yt-timestamp" data-t="03:28:11">[03:28:11]</a>.
-*   **Handling Question Difficulty:**
-    *   Typically, one paper is easier and one is more difficult to balance the overall exam <a class="yt-timestamp" data-t="04:30:11">[04:30:11]</a>.
-    *   Do not get discouraged if Paper 1 feels very difficult; Paper 2 might be easier <a class="yt-timestamp" data-t="05:07:11">[05:07:11]</a>.
-    *   The paper's difficulty (tough or easy) is not within your control, so focus on marking all questions due to no negative marking <a class="yt-timestamp" data-t="05:59:11">[05:59:11]</a>.
-*   **Dealing with "Bouncer" Questions:**
-    *   Expect 10-20 "bouncer" questions in each paper that are extremely difficult, even for experts <a class="yt-timestamp" data-t="06:15:11">[06:15:11]</a>.
-    *   Do not dwell on these <a class="yt-timestamp" data-t="06:35:11">[06:35:11]</a>; they are not designed for everyone to solve and can demotivate you <a class="yt-timestamp" data-t="07:01:11">[07:01:11]</a>.
-    *   For such questions, simply mark an option (A, B, C, or D) randomly, and move on <a class="yt-timestamp" data-t="07:30:11">[07:30:11]</a>.
-*   **Focus on Avoidable Mistakes:**
-    *   Prioritize avoiding "silly mistakes" on easier questions <a class="yt-timestamp" data-t="07:52:11">[07:52:11]</a>. These are more regrettable than getting tough questions wrong <a class="yt-timestamp" data-t="08:02:11">[08:02:11]</a>.
-    *   Silly mistakes are often linked to negative thinking and panic <a class="yt-timestamp" data-t="08:10:11">[08:10:11]</a>.
-    *   Acknowledge that some human error is inevitable, but prevent it from being compounded by panic and anxiety <a class="yt-timestamp" data-t="11:46:11">[11:46:11]</a>.
-*   **Question-Solving Approach:**
-    *   Adopt a "switch on, switch off" mode for each question: focus on the current question, answer it, and then immediately clear your mind for the next <a class="yt-timestamp" data-t="05:22:11">[05:22:11]</a>. Do not dwell on past questions or anticipate future ones <a class="yt-timestamp" data-t="05:34:11">[05:34:11]</a>.
-    *   Spend about 45 seconds analyzing a question, mark the answer, and move on <a class="yt-timestamp" data-t="16:46:11">[16:46:11]</a>.
-    *   Avoid overthinking, especially in the last 15 minutes of the exam, which can lead to changing correct answers out of panic <a class="yt-timestamp" data-t="16:53:11">[16:53:11]</a>. Trust your first gut feeling <a class="yt-timestamp" data-t="17:11:11">[17:11:11]</a>.
-    *   Read every question and all options thoroughly, even if it seems familiar or simple, to avoid missing any twists <a class="yt-timestamp" data-t="18:36:11">[18:36:11]</a>.
-    *   For lengthy questions, allow extra time (15-20 seconds) as the paper will be balanced with shorter, quicker questions <a class="yt-timestamp" data-t="19:38:11">[19:38:11]</a>.
-    *   If stuck, try ruling out incorrect options to indirectly arrive at the correct answer <a class="yt-timestamp" data-t="19:17:11">[19:17:11]</a>.
-*   **Pacing:** It's normal for the first 15 minutes of the exam to be slower as you settle down and your heart rate normalizes <a class="yt-timestamp" data-t="20:00:11">[20:00:11]</a>. Do not worry if your speed isn't immediate; you will pick up pace later <a class="yt-timestamp" data-t="20:20:11">[20:20:11]</a>.
-*   **Light Food:** During the break, eat or drink something light and energy-giving <a class="yt-timestamp" data-t="03:28:11">[03:28:11]</a>.
+    It is normal to make a few silly mistakes; they are part of human error and should not be taken too seriously <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>. The key is to prevent panic and [[handling_exam_anxiety_and_motivation_tactics | anxiety]] from amplifying these errors <a class="yt-timestamp" data-t="00:11:54">[00:11:54]</a>.
 
-## The Role of Belief and Faith
+### Last-Minute [[exam_preparation_strategies | Study Advice]]
 
-A strong belief system can help in [[dealing_with_anxiety_and_maintaining_positivity | dealing with anxiety]].
+If you have your own volatile list to revise, stick to that <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. Otherwise, scan images from subjects like Pathology, Microbiology, Orthopedics, and Radiology, as they often have classical spotter images <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>. It's advised to stop studying after 8:00 PM on the day before the exam <a class="yt-timestamp" data-t="00:20:41">[00:20:41]</a>.
 
-*   **Count Your Blessings:** Focus on blessings and the support of family, teachers, and a higher power <a class="yt-timestamp" data-t="08:50:11">[08:50:11]</a>. Believe that nothing bad will happen <a class="yt-timestamp" data-t="09:04:11">[09:04:11]</a>.
-*   **Personal Faith:** Rely on whatever or whoever you believe in (God, universe, energy, parents' blessings) <a class="yt-timestamp" data-t="08:42:11">[08:42:11]</a>. This faith provides a sense of security and prevents attracting negativity <a class="yt-timestamp" data-t="12:43:11">[12:43:11]</a>.
-
-By adhering to these strategies, students can effectively [[addressing_exam_anxiety_and_motivation_challenges | address exam anxiety and motivation challenges]], ensuring a more focused and successful exam experience.
+Remember to maintain a smile and face every challenge. "Paper one howsoever will go Paper two howsoever will go till 5:00 pm we will not cry" <a class="yt-timestamp" data-t="00:22:03">[00:22:03]</a>.

@@ -5,41 +5,38 @@ videoId: aBJLCp-CU_s
 
 From: [[_drpreetisharma]] <br/> 
 
-Grand tests (GTs) are crucial for [[approach_to_final_exam_preparation | exam preparation]], serving primarily as a tool for analysis and improvement, rather than solely for judging one's rank or performance <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>.
-
-## Purpose of Grand Tests
-
-The primary purpose of a grand test is to:
-*   Analyze your progress graph <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.
-*   Identify your mistakes <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>.
-*   Practice time management for the actual exam <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>.
-*   Build confidence through quantitative progress <a class="yt-timestamp" data-t="00:39:41">[00:39:41]</a>.
-
-It's important not to treat a grand test as the final analysis of your potential rank in the NEET exam <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>.
-
-## Frequency of Grand Tests
-
-The recommended frequency for taking grand tests varies based on your mindset:
-*   **Fortnightly (every two weeks)**: This is ideal if you approach grand tests positively, using them to identify mistakes and manage time <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>, <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>.
-*   **Once every three weeks**: If you tend to get demotivated or depressed by grand test scores, giving them less frequently allows you to develop a more constructive mindset <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>.
+Grand tests are a crucial component of [[exam_preparation_strategies | exam preparation]], especially for exams like NEET PG. They serve not just as a measure of progress but as a vital tool for self-analysis and improvement.
 
 ## Time Allocation for Grand Tests
+It is recommended to dedicate half a day for a grand test session <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. Many students mistakenly allocate an entire day, but effectively, only about three to three and a half hours are spent on the exam itself <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>. The remainder of the day often leads to demotivation or "depression" over the results <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>. The half-day approach allows for dedicated analysis without dwelling excessively on scores <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>.
 
-Dedicate half a day to a grand test <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>.
-*   **3.5 hours for the exam**: This is the typical duration for giving the test <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
-*   **Remaining half-day for quick analysis**: The focus should be on efficient analysis, not prolonged dwelling <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>.
+## Analyzing Grand Test Results
+The primary purpose of a grand test is not just to see your score, but to understand *why* you made mistakes and *where* those mistakes occurred <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>.
 
-## Analyzing Grand Tests
+### Focus on Incorrect Answers
+When analyzing, prioritize the incorrect questions <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>. Do not spend time reading explanations for questions you answered correctly, as you are already revising those topics through your daily notes <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. For incorrect answers, delve into the reasons behind the mistake <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>:
+- Was it a silly mistake? <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>
+- Did you genuinely not know the topic? <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>
+- Was the information new or too long? <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>
+- Did you lack proper time management for that question? <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>
 
-Effective analysis is key to leveraging grand tests for improvement <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>.
-*   **Focus on incorrect answers**: Spend time understanding *why* you got questions wrong <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
-    *   Identify if it was a silly mistake, an unknown topic, a new concept, or a question where you lacked time <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>.
-    *   Determine if errors are in factual recall (e.g., microbiology, pharmacology, anatomy) or conceptual/clinical questions <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>. This helps tailor future [[study_strategies_theory_and_mcq_practice | preparation]] <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
-*   **Avoid over-analyzing statistics**: Don't get caught up in the number of incorrect answers or completion time <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>. The focus should be on the *root cause* of errors <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>.
-*   **Skip explanations for correct answers**: You are already revising correct topics through daily notes <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>.
+This detailed analysis helps tailor your future [[exam_preparation_strategies | preparation]] <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
 
-### Baseline Grand Test
-It is suggested to take a baseline grand test without judgment before starting a structured timetable <a class="yt-timestamp" data-t="00:12:55">[00:12:55]</a>. The purpose is to establish a starting point for analysis and track improvement <a class="yt-timestamp" data-t="00:12:59">[00:12:59]</a>. After taking it, review explanations for incorrect answers and then move on <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>.
+### Beyond Statistics
+Avoid getting overly focused on statistics like the number of incorrect answers or time taken per question <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>. While tracking progress is important, the true essence of a grand test is to analyze your learning curve and identify weaknesses <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>. Understand if your errors are in:
+- Factual recall <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>
+- Rote subjects (e.g., microbiology, pharmacology, anatomy) <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>
+- Conceptual or clinical questions <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>
+
+## Frequency of Grand Tests
+The frequency of grand tests should align with your mindset <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>.
+- **Fortnightly (every two weeks)**: Recommended if you approach grand tests positively, viewing them as opportunities to identify mistakes, manage time, and improve <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>.
+- **Once every three weeks**: Suggested if you tend to get demotivated or depressed by grand test scores, treating them as final judgments rather than learning opportunities <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
 
 ## Mindset Towards Grand Tests
-It's crucial to cultivate a positive mindset towards grand tests <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>. Do not let grand test results lead to depression or self-blame <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>, <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>. Remember that GTs are often designed to be tougher than the main exam to encourage more study <a class="yt-timestamp" data-t="01:00:05">[01:00:05]</a>. Treat them as a learning opportunity to pick out mistakes and refine [[study_strategies_theory_and_mcq_practice | time management]] <a class="yt-timestamp" data-t="01:00:18">[01:00:18]</a>.
+It's crucial to view grand tests as a means to **pick out your mistakes** and **learn [[importance_of_time_management_and_sleep_cycle_for_exams | time management]]** <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>. They should not be seen as the ultimate determinant of your NEET PG rank <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. Many students get demotivated by grand test scores, but platforms often make these tests slightly tougher to push students to study more, rather than creating overconfidence <a class="yt-timestamp" data-t="01:00:07">[01:00:07]</a>.
+
+Giving a grand test as a baseline without judging yourself is a good starting point for a new [[exam_preparation_strategies | timetable]] <a class="yt-timestamp" data-t="01:09:18">[01:09:18]</a>. The scores provide numbers that can boost confidence once concepts are clear and [[importance_of_question_banks_and_mcqs_in_exam_preparation | question practice]] increases <a class="yt-timestamp" data-t="00:40:16">[00:40:16]</a>.
+
+## Integration with Study Plan
+Grand tests are integrated into the overall [[exam_preparation_strategies | study plan]], alongside notes and [[importance_of_revision_and_mcq_practice | MCQ practice]] <a class="yt-timestamp" data-t="00:37:06">[00:37:06]</a>. Days marked as "pending" in the timetable can be used either for clearing backlogs or for taking a grand test <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>. This structured approach ensures that testing and analysis are regular components of the [[exam_preparation_strategies | preparation]] process <a class="yt-timestamp" data-t="00:18:43">[00:18:43]</a>.

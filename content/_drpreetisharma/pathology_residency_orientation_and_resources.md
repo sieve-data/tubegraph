@@ -5,93 +5,160 @@ videoId: JFBDAMdvzaI
 
 From: [[_drpreetisharma]] <br/> 
 
-This article provides an orientation for individuals pursuing [[Pathology residency challenges and personal experiences|Pathology residency]], covering essential study resources, strategies for different residency years, and insights into the career path. It is based on a session aimed specifically at pathologists and residents <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+This article provides an orientation for individuals entering or currently in [[pathology_residency_workload_and_lifestyle | Pathology residency]], covering essential resources, study techniques, and career outlook based on a live session for pathologists <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
 
-## Speaker's Background
-The speaker completed their MBBS and MD from Vardhaman Mahavir Medical College and Safdarjung Hospital, spending 13 years there from 2007 to 2019, including senior residency <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. They are currently working with a private lab in Delhi <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
+## Speaker Background
+The speaker completed her MBBS and MD from Vardaman Mahavir Medical College and Safdarjung Hospital, where she spent 13 years, including her senior residency, until 2019 <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. She is currently based in Delhi, working with a private lab <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
 
-As a resident, the speaker focused on academic writing, producing two to three papers, which included original articles, case reports, and review articles <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. Case reports are generally faster to write than original articles, which require more research <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. Review articles are more akin to writing a "mini book" and were pursued during senior residency due to more available time <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>. The speaker also pursued an online course in genetics, focusing on genomics and precision oncology <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
+## Paper Writing and Research during Residency
+As a resident, the speaker aimed to write two to three papers <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+*   **Original Articles**: These require a cumulative effort, typically over 6 years of PG and senior residency, not an overnight process <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>.
+*   **Case Reports**: Faster to write than original articles and do not necessarily need to be "one in a million" cases <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. A series of four to five cases can also be compiled <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+*   **Reviews**: Best undertaken during senior residency, as they are akin to writing a mini-book <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. The speaker's favorite review was on pre-implantation genetic diagnosis, reflecting her interest in genetics <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. She recently completed an online course in genetics, focusing on genomics and precision oncology <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
 
-## Pathology Residency Orientation
-The session aims to orient residents on what needs to be done from the first, second, and third years <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. It is important to note that [[Pathology residency challenges and personal experiences|Pathology residency]] is often hectic, with long hours (e.g., 9 AM to 9 PM or even 12:30 AM in some departments) <a class="yt-timestamp" data-t="00:29:55">[00:29:55]</a>. This intensive period, however, contributes to becoming a better pathologist <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>.
+## Pathology Residency Advice by Year
 
-### For First-Year Residents ("New Kids on the Block")
-First-year residents, often called "babies," may initially struggle with basic skills like adjusting a microscope or identifying cells <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>. The first two months can feel clueless <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
+### First-Year Residents
+Often referred to as "new kids on the block" or "babies," first-year residents may initially struggle with basic tasks like adjusting a microscope <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>.
+*   **Focus on Normality**: Prioritize understanding normal histology of various organs and normal hematology <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
+*   **Histology Resources**: For normal histology, *Wheater's Functional Histology* is recommended, but explore other books to find what suits your learning style <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. Utilize Google or YouTube to view images and get accustomed to morphology <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
+*   **Microscope Usage**: Avoid the "obsession" with 40x high power; most [[imagebased_medical_pathology_questions | pathology]] diagnoses are made at 4x or 10x <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. Practice viewing slides at both high and low power for a comprehensive approach <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
+*   **Hematology Resources**: *Wintrobe's Clinical Hematology* is a good reference <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>. For absolute basics (e.g., appearance of normal RBCs or neutrophils), Dr. T.J. Singh's book can be helpful <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. More advanced topics like leukemias and lymphomas can be covered with bigger books later <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
+*   **Daily Learning**: Pick up one topic a day related to common specimens in your department, such as lipoma, pleomorphic adenoma, gynecological specimens, or breast cancer cases <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>.
+*   **Pathology Textbooks**: Explore *Ackerman's Surgical Pathology* and *Fletcher's Diagnostic Histopathology of Tumors* (for tumors) <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>. *Sternberg's Diagnostic Surgical Pathology* is also popular, but choose the book that best suits your learning style <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>. *Robbins Basic Pathology* is considered the starting point for theoretical study <a class="yt-timestamp" data-t="00:13:49">[00:13:49]</a>.
 
-1.  **Focus on Normal Histology:** Before delving into pathology, focus on normal histology of various organs and normal hematology <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
-    *   **Recommended Book for Normal Histology:** *Wheater's Basic Histopathology* (or *Vleeschhouwer* as it's referred to) <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. Compare different books to find what suits your learning style <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>.
-    *   **Online Resources:** Use Google or YouTube to find images and get your eyes accustomed to structures when physical slides are not available <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
-2.  **Microscope Use:**
-    *   Avoid the "obsession" with 40x high power <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>.
-    *   Most pathology diagnoses (80%) are made at 4x or 10x (low power) <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>.
-    *   After observing something at high power, gradually view the same field at low power to develop a holistic approach to slide examination <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
-3.  **Hematology Basics:**
-    *   **Recommended Books for Hematology:** *Wintrobe's Clinical Hematology* <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a> and *Vones* (likely *Dameshek and Gunz's Leukemia* or similar) <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>.
-    *   For absolute beginners, a book like Dr. TJ Singh's can help understand basic cell morphology (e.g., neutrophil, RBC) <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
-4.  **Early Pathology Exposure:**
-    *   Your department will expect you to understand basic slides after 2-6 months <a class="yt-timestamp" data-t="00:11:20">[00:11:20]</a>.
-    *   Focus on one topic a day, especially common specimens in your department (e.g., lipoma, pleomorphic adenoma, gynecological specimens, breast cancers) <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>.
+### Second and Third-Year Residents
+As you advance, you'll delve deeper into specialized areas.
 
-### General Pathology Study Resources
-For the pathology part, residents can choose from various books. The speaker recommends comparing a chapter from different books to find what suits your style <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
+## Study Resources and Tools
+*   **Primary Textbooks**:
+    *   **[[General Pathology and Immunology Topics | General Pathology]]**: *Robbins Basic Pathology* <a class="yt-timestamp" data-t="00:14:47">[00:14:47]</a>
+    *   **Histopathology/Systemic Pathology**: *Ackerman's Surgical Pathology*, *Fletcher's Diagnostic Histopathology of Tumors* <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>
+    *   **Hematology**: *Wintrobe's Clinical Hematology*, *Venes* <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>, *WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues* (for leukemias/lymphomas) <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>
+    *   **FNAC**: *Orell & Sterrett's Fine Needle Aspiration Cytology* <a class="yt-timestamp" data-t="00:17:02">[00:17:02]</a>
+    *   **Transfusion Medicine/Blood Banking**: *Makroo: Manual of Transfusion Medicine* <a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>
 
-*   **General Pathology and Systemic Pathology:**
-    *   *Robbins Basic Pathology* (mainstay for theory) <a class="yt-timestamp" data-t="00:14:45">[00:14:45]</a>. It's an amazing book but challenging to decode for exams due to its length <a class="yt-timestamp" data-t="00:15:36">[00:15:36]</a>.
-*   **Histopathology/Tumors:**
-    *   *Ackerman's Surgical Pathology* (personally preferred) <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>.
-    *   *Fletcher's Diagnostic Histopathology of Tumors* (specifically for tumors) <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>.
-    *   *Sternberg's Diagnostic Surgical Pathology* (also popular, but not speaker's personal preference) <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>.
-*   **FNAC (Fine Needle Aspiration Cytology):**
-    *   *Orell & Sterrett's Fine Needle Aspiration Cytology* (personally liked and helpful for viva questions) <a class="yt-timestamp" data-t="00:16:59">[00:16:59]</a>.
-*   **Transfusion Medicine/Blood Banking:**
-    *   *Makroo's Transfusion Medicine* (not very thick, good for cases and questions, covers basic blood groups to complex issues) <a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>.
+### Upcoming Pathology Residency App
+An app for [[pathology_residency_workload_and_lifestyle | Pathology residency]] is under development, tentatively launching around May 2024 <a class="yt-timestamp" data-t="00:16:04">[00:16:04]</a>.
+*   **Content**: Will include the entire *Robbins* (general, systemic, hematology) <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>.
+    *   General Pathology: Decoded into short notes, long questions, and viva questions <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a>.
+    *   Systemic Pathology: Integrated with essential pointers, buzzwords, keywords, viva questions, and differential diagnoses from *Fletcher* and *Ackerman* <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>.
+    *   FNAC: Relevant FNAC information from *Orell* will be integrated into systemic pathology sections (e.g., thyroid, salivary gland, breast) <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>.
+    *   Hematology: Covers basics, integrates with [[General Pathology and Immunology Topics | WHO updates]] for AML and MDS classifications <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>.
+    *   Transfusion Medicine/Blood Banking: Will cover topics from *Makroo*, including cases and minor blood groups <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>.
+*   **Practical Aspects**: The second half of the app will cover practical elements, including [[pathology_study_techniques_and_mnemonics | Clinical Pathology]] (urine, stool, semen analysis), basic biochemistry principles (KFT, LFT), histopathology processing, and a compilation of all stains <a class="yt-timestamp" data-t="00:20:43">[00:20:43]</a>.
+*   **Platform**: The app will be available through PrepLadder as a standalone pathology app <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>.
 
-### Academic Engagement
-*   **Reading Articles:** Aim to read one recent article per week to stay updated on immunohistochemical markers, genetic analysis, and new genes <a class="yt-timestamp" data-t="00:47:01">[00:47:01]</a>. This also helps prepare for Journal Clubs.
-*   **Upskilling:** Identify weaker areas in your exposure during residency and pursue certificate courses later in your career (e.g., hepatopathology course if liver specimens were lacking) <a class="yt-timestamp" data-t="00:42:01">[00:42:01]</a>.
+## Community and Support
+*   **Telegram Group**: A dedicated Telegram group for [[pathology_residency_workload_and_lifestyle | Pathology residency]] has been created (link in description) <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
+    *   Purpose: For residents to connect, ask queries <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+    *   Content: Will feature slide and morphology discussions, interesting cases from day-to-day practice, quick questions, and audio descriptions to help with viva questions and daily protocols <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>.
+*   **Interactive Learning**: The group aims to be a friendly discussion forum where residents can share new markers or advances, as post-graduate residents are often the most knowledgeable due to their continuous contact with textbooks <a class="yt-timestamp" data-t="00:48:56">[00:48:56]</a>.
+*   **Instagram**: Another platform for general connection <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>.
 
-## Pathology Residency App
-An upcoming pathology residency app is being developed and is tentatively scheduled to launch around May 2024 <a class="yt-timestamp" data-t="00:16:04">[00:16:04]</a>. This app will be available on PrepLadder and can be purchased as a standalone pathology app <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>.
+## Expectations and Workload in Pathology Residency
+*   **Patient Interaction**: Expect minimal direct patient interaction <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>. Pathologists serve as a crucial "backbone" for patient treatment, providing reports essential for diagnosis <a class="yt-timestamp" data-t="00:22:29">[00:22:29]</a>. However, they may not receive the same direct credit from patients as clinical doctors <a class="yt-timestamp" data-t="00:22:37">[00:22:37]</a>.
+*   **Societal Perception**: Be prepared for some non-medical individuals to not fully understand the importance of paraclinical branches like pathology, which is vital for all medical functions <a class="yt-timestamp" data-t="00:23:08">[00:23:08]</a>.
+*   **Work Hours**: [[pathology_residency_workload_and_lifestyle | Pathology residency]] is generally not a "9-to-4" job <a class="yt-timestamp" data-t="00:29:43">[00:29:43]</a>. Many residents experience long hours, often staying until 7, 8, or even 10 PM <a class="yt-timestamp" data-t="00:29:55">[00:29:55]</a>.
+    *   The speaker experienced 9 AM to 9 PM (or more) for three years <a class="yt-timestamp" data-t="00:29:57">[00:29:57]</a>.
+    *   Some departments are open from 7 AM to 10:30 PM <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>.
+    *   While there are fewer 24-hour shifts or night duties (except for emergency labs), the daily workload is demanding <a class="yt-timestamp" data-t="00:30:18">[00:30:18]</a>.
+    *   Grossing often extends till noon, with slide writing starting from 4 PM <a class="yt-timestamp" data-t="00:43:19">[00:43:19]</a>.
+*   **Intensity**: Institutes like Tata and AIIMS have very hectic workloads due to a high influx of patients and sample loads <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>.
+*   **"Hectic residency means a good future"**: The more demanding the residency, the better pathologist one becomes <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>. This intense period prepares you for a more stable and balanced life later <a class="yt-timestamp" data-t="00:35:51">[00:35:51]</a>.
+*   **Academic Activities**: Some departments have extensive academic activities (seminars, journal clubs, slide seminars) which can extend daily hours <a class="yt-timestamp" data-t="00:33:13">[00:33:13]</a>. If your department lacks academic strength, it becomes your responsibility to read *Robbins* and recent articles (e.g., one article per week) to stay updated on IHC markers, genetic analysis, etc. <a class="yt-timestamp" data-t="00:46:19">[00:46:19]</a>.
+*   **Daily Rigor**: Residents might be required to screen large numbers of slides and write full reports, even for routine specimens <a class="yt-timestamp" data-t="00:43:55">[00:43:55]</a>. This rigor, though challenging, builds strong diagnostic skills <a class="yt-timestamp" data-t="00:45:16">[00:45:16]</a>.
 
-### App Content
-The app will cover:
-*   **Robbins' General Pathology:** Decoded with short notes, long questions, and viva questions <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>.
-*   **Systemic Pathology:** Combines information from Robbins with essential pointers, buzzwords, keywords, viva questions, and differential diagnoses from Fletcher and Ackerman <a class="yt-timestamp" data-t="00:16:22">[00:16:22]</a>.
-*   **FNAC:** Relevant FNAC information from Orell will be integrated into systemic pathology chapters <a class="yt-timestamp" data-t="00:16:58">[00:16:58]</a>.
-*   **Hematology:** Basics from multiple books and Robbins, integrated with latest WHO updates on classifications (e.g., AML, MDS) <a class="yt-timestamp" data-t="00:17:37">[00:17:37]</a>.
-*   **Transfusion Medicine/Blood Banking:** Based on Makroo, this will be recorded towards the end <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>.
+## [[Future prospects and career paths in pathology | Future Prospects and Career Paths]]
+*   **Government Sector**: Involves a waiting period for job opportunities (UPSC seats), requiring teaching experience (e.g., senior residency of three years) <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>. The process is similar to other medical branches <a class="yt-timestamp" data-t="00:24:30">[00:24:30]</a>.
+*   **Private Sector**: Offers a wide spectrum of opportunities.
+    *   **Opening Own Lab**: Challenging in saturated central metropolitan areas due to competition from established chains and funding requirements <a class="yt-timestamp" data-t="00:25:03">[00:25:03]</a>. More feasible in peripheral areas <a class="yt-timestamp" data-t="00:25:21">[00:25:21]</a>.
+    *   **Working in Private Labs**: Pay scales vary widely (from 1 lakh to 3-4 lakhs per month) <a class="yt-timestamp" data-t="00:26:57">[00:26:57]</a> depending on specialization (e.g., fellowship), experience, and location <a class="yt-timestamp" data-t="00:26:40">[00:26:40]</a>. Peripheries might offer higher pay due to demand <a class="yt-timestamp" data-t="00:26:49">[00:26:49]</a>.
+    *   **Saturation**: Basic saturation exists in all medical branches, especially in metropolitan cities <a class="yt-timestamp" data-t="00:27:35">[00:27:35]</a>. However, there are ample job opportunities for MD pathologists <a class="yt-timestamp" data-t="00:27:42">[00:27:42]</a>.
+*   **Work-Life Balance**: While residency is hectic, a better work-life balance (e.g., 9 AM to 5-6 PM) can be achieved after residency when joining government or private medical colleges or labs <a class="yt-timestamp" data-t="00:36:35">[00:36:35]</a>. Many labs operate in shifts, especially for hematology and clinical pathology, which are the "bread and butter" of private practice <a class="yt-timestamp" data-t="00:37:06">[00:37:06]</a>.
+*   **Post-MD Opportunities**: After completing MD, you enter a "wish zone" where you can choose to take a break, work, or pursue further studies like certificate courses or fellowships to upscale your skills (e.g., the speaker pursued a year-long course in hepatopathology) <a class="yt-timestamp" data-t="00:40:54">[00:40:54]</a>. Online resources like Zoom seminars and webinars make continuous learning accessible <a class="yt-timestamp" data-t="00:42:30">[00:42:30]</a>.
 
-The second half of the app will focus on practical aspects:
-*   Clinical Pathology (urine, stool, semen analysis) <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>.
-*   Basic Biochemistry principles (KFT, LFT) <a class="yt-timestamp" data-t="00:21:03">[00:21:03]</a>.
-*   Histopathology processor workflow <a class="yt-timestamp" data-t="00:21:16">[00:21:16]</a>.
-*   All stains in one section <a class="yt-timestamp" data-t="00:21:22">[00:21:22]</a>.
-*   Weekly practical classes will be held for discussions <a class="yt-timestamp" data-t="00:51:02">[00:51:02]</a>.
+## [[choosing_the_right_college_for_pathology_residency | Choosing a College for Pathology Residency]]
+*   **Personal Preference**: Consider your preferred branch (e.g., Pathology vs. Gynae, Pediatrics, Anesthesia) and your desired location for settlement <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>.
+*   **Institute Reputation**: Premier institutes like Tata Mumbai and AIIMS Delhi are highly regarded but come with very hectic work hours due to high patient and sample loads <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>.
+*   **Workload vs. Health**: If a hectic lifestyle is negatively impacting your health, consider shifting to a slightly less demanding environment, though all good institutions will have a significant workload <a class="yt-timestamp" data-t="00:32:19">[00:32:19]</a>. Delhi colleges might offer slightly better work timings due to more residents <a class="yt-timestamp" data-t="00:31:18">[00:31:18]</a>.
+*   **Long-Term Benefit**: A more hectic residency generally leads to becoming a better pathologist <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>.# Pathology Residency: Orientation and Resources
 
-## Community and Engagement
-Residents are encouraged to connect via:
-*   Instagram <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>
-*   A dedicated Telegram group specifically for [[Pathology residency challenges and personal experiences|Pathology residency]] <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>. This group will host slide and morphology discussions, and important case insights <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>. It's a friendly space for discussion, where residents, often the most knowledgeable due to constant textbook contact, can share new markers, advances, and figure things out together <a class="yt-timestamp" data-t="00:48:44">[00:48:44]</a>.
+This article provides an orientation for individuals entering or currently in [[pathology_residency_workload_and_lifestyle | Pathology residency]], covering essential resources, study techniques, and career outlook based on a live session for pathologists <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
 
-## Work-Life Balance and Future Career Prospects
-[[Worklife balance and future career prospects in pathology|Pathology]] has specific considerations for those considering the branch:
+## Speaker Background
+The speaker completed her MBBS and MD from Vardaman Mahavir Medical College and Safdarjung Hospital, where she spent 13 years, including her senior residency, until 2019 <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. She is currently based in Delhi, working with a private lab <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
 
-*   **Patient Interaction:** Pathologists generally do not have direct patient interaction. If direct patient contact and treatment provide real happiness, pathology may not be the ideal choice <a class="yt-timestamp" data-t="00:22:16">[00:22:16]</a>. Pathologists act as a "strong backbone" by providing crucial reports but often receive less direct credit from patients compared to clinicians <a class="yt-timestamp" data-t="00:22:29">[00:22:29]</a>.
-*   **Public Perception:** Non-medical individuals and some families might not fully understand the importance of paraclinical branches like pathology, correlating a doctor's identity with a stethoscope in a clinical branch <a class="yt-timestamp" data-t="00:23:08">[00:23:08]</a>.
-*   **Career Paths:**
-    *   **Government Jobs:** Involve a waiting period due to forms, state applications, and often require teaching experience (e.g., senior residency) <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>.
-    *   **Private Practice:** Offers a "huge spectrum" <a class="yt-timestamp" data-t="00:24:44">[00:24:44]</a>.
-        *   **Opening a Lab:** Difficult in saturated central metropolitan areas due to competition from established chains and funding requirements <a class="yt-timestamp" data-t="00:25:02">[00:25:02]</a>. More economical and practical in peripheral areas <a class="yt-timestamp" data-t="00:25:21">[00:25:21]</a>.
-        *   **Working in a Private Lab:** Pay scales vary widely (e.g., 1 lakh to 3-4 lakhs per month) based on expertise, experience, and location <a class="yt-timestamp" data-t="00:26:57">[00:26:57]</a>. Specializations (e.g., fellowship in renal path) can increase pay <a class="yt-timestamp" data-t="00:26:40">[00:26:40]</a>. Peripheries might pay more due to demand for pathologists <a class="yt-timestamp" data-t="00:26:49">[00:26:49]</a>.
-*   **Saturation:** Basic saturation exists in all medical branches, especially in metropolitan cities <a class="yt-timestamp" data-t="00:27:17">[00:27:17]</a>. However, there are ample job opportunities after MD pathology <a class="yt-timestamp" data-t="00:27:42">[00:27:42]</a>.
-*   **Work-Life Balance:** While pathology is often perceived as a "chilled out branch," residency and senior residency are very hectic (9 AM to 9 PM or later) <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>. The desired [[work_life_balance_and_future_career_prospects_in_pathology|work-life balance]] (e.g., 9 AM to 5 PM) usually comes later, after residency, when joining government or private colleges/labs that offer shifts in hematology and clinical pathology, which form the "bread and butter" of real-world pathology <a class="yt-timestamp" data-t="00:36:35">[00:36:35]</a>.
+## Paper Writing and Research during Residency
+As a resident, the speaker aimed to write two to three papers <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+*   **Original Articles**: These require a cumulative effort, typically over 6 years of PG and senior residency, not an overnight process <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>.
+*   **Case Reports**: Faster to write than original articles and do not necessarily need to be "one in a million" cases <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. A series of four to five cases can also be compiled <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+*   **Reviews**: Best undertaken during senior residency, as they are akin to writing a mini-book <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. The speaker's favorite review was on pre-implantation genetic diagnosis, reflecting her interest in genetics <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. She recently completed an online course in genetics, focusing on genomics and precision oncology <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
 
-## Practical Tips for Residents
-*   **Choosing a College for Residency:** Consider personal preference for location and the specific branch <a class="yt-timestamp" data-t="00:28:50">[00:28:50]</a>. Institutes like Tata Mumbai and AIIMS Delhi are super heavy with patient influx and sample load, leading to hectic but very enriching residencies <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>. More hectic residency generally leads to becoming a better pathologist <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>.
-*   **Daily Workflow:**
-    *   Grossing can take till noon, with slide writing starting later in the day <a class="yt-timestamp" data-t="00:43:19">[00:43:19]</a>.
-    *   Departments may have regular academic activities like seminars, slide seminars, and Journal Clubs, which can take up significant time <a class="yt-timestamp" data-t="00:33:13">[00:33:13]</a>.
-    *   Screening slides for the next day's reporting is crucial, as consultants may ask detailed questions about any case, even routine ones <a class="yt-timestamp" data-t="00:43:36">[00:43:36]</a>. Maintaining detailed reports for every specimen, including "normal" ones, is essential <a class="yt-timestamp" data-t="00:44:26">[00:44:26]</a>.
-*   **Lack of Academic Focus in Department:** If your department lacks academic activities or specific case exposures (e.g., hepatobiliary system), it becomes your responsibility to supplement your knowledge <a class="yt-timestamp" data-t="00:46:05">[00:46:05]</a>. Continuously read *Robbins* and recent articles <a class="yt-timestamp" data-t="00:46:46">[00:46:46]</a>. First-year residents often spend significant time grossing and may be too exhausted for academic sessions, necessitating self-study <a class="yt-timestamp" data-t="00:47:35">[00:47:35]</a>.
+## Pathology Residency Advice by Year
 
-The initial struggle and hectic nature of residency are temporary phases that lead to a more stable and balanced professional life later on <a class="yt-timestamp" data-t="00:36:35">[00:36:35]</a>. After MD, pathologists gain autonomy in their learning and career choices <a class="yt-timestamp" data-t="00:40:54">[00:40:54]</a>.
+### First-Year Residents
+Often referred to as "new kids on the block" or "babies," first-year residents may initially struggle with basic tasks like adjusting a microscope <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>.
+*   **Focus on Normality**: Prioritize understanding normal histology of various organs and normal hematology <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
+*   **Histology Resources**: For normal histology, *Wheater's Functional Histology* is recommended, but explore other books to find what suits your learning style <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. Utilize Google or YouTube to view images and get accustomed to morphology <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
+*   **Microscope Usage**: Avoid the "obsession" with 40x high power; most [[imagebased_medical_pathology_questions | pathology]] diagnoses are made at 4x or 10x <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. Practice viewing slides at both high and low power for a comprehensive approach <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
+*   **Hematology Resources**: *Wintrobe's Clinical Hematology* is a good reference <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>. For absolute basics (e.g., appearance of normal RBCs or neutrophils), Dr. T.J. Singh's book can be helpful <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. More advanced topics like leukemias and lymphomas can be covered with bigger books later <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
+*   **Daily Learning**: Pick up one topic a day related to common specimens in your department, such as lipoma, pleomorphic adenoma, gynecological specimens, or breast cancer cases <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>.
+*   **Pathology Textbooks**: Explore *Ackerman's Surgical Pathology* and *Fletcher's Diagnostic Histopathology of Tumors* (for tumors) <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>. *Sternberg's Diagnostic Surgical Pathology* is also popular, but choose the book that best suits your learning style <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>. *Robbins Basic Pathology* is considered the starting point for theoretical study <a class="yt-timestamp" data-t="00:13:49">[00:13:49]</a>.
+
+### Second and Third-Year Residents
+As you advance, you'll delve deeper into specialized areas.
+
+## Study Resources and Tools
+*   **Primary Textbooks**:
+    *   **[[General Pathology and Immunology Topics | General Pathology]]**: *Robbins Basic Pathology* <a class="yt-timestamp" data-t="00:14:47">[00:14:47]</a>
+    *   **Histopathology/Systemic Pathology**: *Ackerman's Surgical Pathology*, *Fletcher's Diagnostic Histopathology of Tumors* <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>
+    *   **Hematology**: *Wintrobe's Clinical Hematology*, *Venes* <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>, *WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues* (for leukemias/lymphomas) <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>
+    *   **FNAC**: *Orell & Sterrett's Fine Needle Aspiration Cytology* <a class="yt-timestamp" data-t="00:17:02">[00:17:02]</a>
+    *   **Transfusion Medicine/Blood Banking**: *Makroo: Manual of Transfusion Medicine* <a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>
+
+### Upcoming Pathology Residency App
+An app for [[pathology_residency_workload_and_lifestyle | Pathology residency]] is under development, tentatively launching around May 2024 <a class="yt-timestamp" data-t="00:16:04">[00:16:04]</a>.
+*   **Content**: Will include the entire *Robbins* (general, systemic, hematology) <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>.
+    *   General Pathology: Decoded into short notes, long questions, and viva questions <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a>.
+    *   Systemic Pathology: Integrated with essential pointers, buzzwords, keywords, viva questions, and differential diagnoses from *Fletcher* and *Ackerman* <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>.
+    *   FNAC: Relevant FNAC information from *Orell* will be integrated into systemic pathology sections (e.g., thyroid, salivary gland, breast) <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>.
+    *   Hematology: Covers basics, integrates with [[General Pathology and Immunology Topics | WHO updates]] for AML and MDS classifications <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>.
+    *   Transfusion Medicine/Blood Banking: Will cover topics from *Makroo*, including cases and minor blood groups <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>.
+*   **Practical Aspects**: The second half of the app will cover practical elements, including [[pathology_study_techniques_and_mnemonics | Clinical Pathology]] (urine, stool, semen analysis), basic biochemistry principles (KFT, LFT), histopathology processing, and a compilation of all stains <a class="yt-timestamp" data-t="00:20:43">[00:20:43]</a>.
+*   **Platform**: The app will be available through PrepLadder as a standalone pathology app <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>.
+
+## Community and Support
+*   **Telegram Group**: A dedicated Telegram group for [[pathology_residency_workload_and_lifestyle | Pathology residency]] has been created (link in description) <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
+    *   Purpose: For residents to connect, ask queries <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+    *   Content: Will feature slide and morphology discussions, interesting cases from day-to-day practice, quick questions, and audio descriptions to help with viva questions and daily protocols <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>.
+*   **Interactive Learning**: The group aims to be a friendly discussion forum where residents can share new markers or advances, as post-graduate residents are often the most knowledgeable due to their continuous contact with textbooks <a class="yt-timestamp" data-t="00:48:56">[00:48:56]</a>.
+*   **Instagram**: Another platform for general connection <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>.
+
+## Expectations and Workload in Pathology Residency
+*   **Patient Interaction**: Expect minimal direct patient interaction <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>. Pathologists serve as a crucial "backbone" for patient treatment, providing reports essential for diagnosis <a class="yt-timestamp" data-t="00:22:29">[00:22:29]</a>. However, they may not receive the same direct credit from patients as clinical doctors <a class="yt-timestamp" data-t="00:22:37">[00:22:37]</a>.
+*   **Societal Perception**: Be prepared for some non-medical individuals to not fully understand the importance of paraclinical branches like pathology, which is vital for all medical functions <a class="yt-timestamp" data-t="00:23:08">[00:23:08]</a>.
+*   **Work Hours**: [[pathology_residency_workload_and_lifestyle | Pathology residency]] is generally not a "9-to-4" job <a class="yt-timestamp" data-t="00:29:43">[00:29:43]</a>. Many residents experience long hours, often staying until 7, 8, or even 10 PM <a class="yt-timestamp" data-t="00:29:55">[00:29:55]</a>.
+    *   The speaker experienced 9 AM to 9 PM (or more) for three years <a class="yt-timestamp" data-t="00:29:57">[00:29:57]</a>.
+    *   Some departments are open from 7 AM to 10:30 PM <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>.
+    *   While there are fewer 24-hour shifts or night duties (except for emergency labs), the daily workload is demanding <a class="yt-timestamp" data-t="00:30:18">[00:30:18]</a>.
+    *   Grossing often extends till noon, with slide writing starting from 4 PM <a class="yt-timestamp" data-t="00:43:19">[00:43:19]</a>.
+*   **Intensity**: Institutes like Tata and AIIMS have very hectic workloads due to a high influx of patients and sample loads <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>.
+*   **"Hectic residency means a good future"**: The more demanding the residency, the better pathologist one becomes <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>. This intense period prepares you for a more stable and balanced life later <a class="yt-timestamp" data-t="00:35:51">[00:35:51]</a>.
+*   **Academic Activities**: Some departments have extensive academic activities (seminars, journal clubs, slide seminars) which can extend daily hours <a class="yt-timestamp" data-t="00:33:13">[00:33:13]</a>. If your department lacks academic strength, it becomes your responsibility to read *Robbins* and recent articles (e.g., one article per week) to stay updated on IHC markers, genetic analysis, etc. <a class="yt-timestamp" data-t="00:46:19">[00:46:19]</a>.
+*   **Daily Rigor**: Residents might be required to screen large numbers of slides and write full reports, even for routine specimens <a class="yt-timestamp" data-t="00:43:55">[00:43:55]</a>. This rigor, though challenging, builds strong diagnostic skills <a class="yt-timestamp" data-t="00:45:16">[00:45:16]</a>.
+
+## [[Future prospects and career paths in pathology | Future Prospects and Career Paths]]
+*   **Government Sector**: Involves a waiting period for job opportunities (UPSC seats), requiring teaching experience (e.g., senior residency of three years) <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>. The process is similar to other medical branches <a class="yt-timestamp" data-t="00:24:30">[00:24:30]</a>.
+*   **Private Sector**: Offers a wide spectrum of opportunities.
+    *   **Opening Own Lab**: Challenging in saturated central metropolitan areas due to competition from established chains and funding requirements <a class="yt-timestamp" data-t="00:25:03">[00:25:03]</a>. More feasible in peripheral areas <a class="yt-timestamp" data-t="00:25:21">[00:25:21]</a>.
+    *   **Working in Private Labs**: Pay scales vary widely (from 1 lakh to 3-4 lakhs per month) <a class="yt-timestamp" data-t="00:26:57">[00:26:57]</a> depending on specialization (e.g., fellowship), experience, and location <a class="yt-timestamp" data-t="00:26:40">[00:26:40]</a>. Peripheries might offer higher pay due to demand <a class="yt-timestamp" data-t="00:26:49">[00:26:49]</a>.
+    *   **Saturation**: Basic saturation exists in all medical branches, especially in metropolitan cities <a class="yt-timestamp" data-t="00:27:35">[00:27:35]</a>. However, there are ample job opportunities for MD pathologists <a class="yt-timestamp" data-t="00:27:42">[00:27:42]</a>.
+*   **Work-Life Balance**: While residency is hectic, a better work-life balance (e.g., 9 AM to 5-6 PM) can be achieved after residency when joining government or private medical colleges or labs <a class="yt-timestamp" data-t="00:36:35">[00:36:35]</a>. Many labs operate in shifts, especially for hematology and clinical pathology, which are the "bread and butter" of private practice <a class="yt-timestamp" data-t="00:37:06">[00:37:06]</a>.
+*   **Post-MD Opportunities**: After completing MD, you enter a "wish zone" where you can choose to take a break, work, or pursue further studies like certificate courses or fellowships to upscale your skills (e.g., the speaker pursued a year-long course in hepatopathology) <a class="yt-timestamp" data-t="00:40:54">[00:40:54]</a>. Online resources like Zoom seminars and webinars make continuous learning accessible <a class="yt-timestamp" data-t="00:42:30">[00:42:30]</a>.
+
+## [[choosing_the_right_college_for_pathology_residency | Choosing a College for Pathology Residency]]
+*   **Personal Preference**: Consider your preferred branch (e.g., Pathology vs. Gynae, Pediatrics, Anesthesia) and your desired location for settlement <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>.
+*   **Institute Reputation**: Premier institutes like Tata Mumbai and AIIMS Delhi are highly regarded but come with very hectic work hours due to high patient and sample loads <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>.
+*   **Workload vs. Health**: If a hectic lifestyle is negatively impacting your health, consider shifting to a slightly less demanding environment, though all good institutions will have a significant workload <a class="yt-timestamp" data-t="00:32:19">[00:32:19]</a>. Delhi colleges might offer slightly better work timings due to more residents <a class="yt-timestamp" data-t="00:31:18">[00:31:18]</a>.
+*   **Long-Term Benefit**: A more hectic residency generally leads to becoming a better pathologist <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>.

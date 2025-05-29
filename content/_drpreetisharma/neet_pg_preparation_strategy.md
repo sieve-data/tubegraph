@@ -5,138 +5,150 @@ videoId: aBJLCp-CU_s
 
 From: [[_drpreetisharma]] <br/> 
 
-This guide outlines a comprehensive [[planning_strategy_for_neetpg_2025 | planning strategy]] for students preparing for the NEET PG exam, specifically those appearing on March 3rd <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+This session focuses specifically on students appearing for the NEET PG exam on March 3rd <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>. Students preparing for FMGE were advised that their session was held earlier <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
 
-## Daily Targets and Subject Approach
-The preparation involves structured [[daily_targets_and_timetable_planning_for_neet_pg | daily targets]] and a strategic approach to subject content.
+## Key Questions Addressed
+Two main questions were frequently asked by students: when will the "kick start morning session" begin, and when will the daily targets commence <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
 
-### Daily Targets for Pathology and Microbiology
-*   [[daily_targets_and_timetable_planning_for_neet_pg | Daily targets]] will commence tomorrow, providing a structured way to cover Pathology and Microbiology <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
-*   Topics will be listed on a Google Sheet, primarily derived from Rapid Revision videos <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>, <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
-*   If you are not using Rapid Revision, you should refer to your current study source for the given topics <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
-*   Students have the option to dedicate four days to Path and Micro or follow [[daily_targets_and_timetable_planning_for_neet_pg | daily targets]] of 40 minutes each <a class="yt-timestamp" data-t="00:26:07">[00:26:07]</a>, <a class="yt-timestamp" data-t="00:26:20">[00:26:20]</a>. This flexibility allows for individual customization <a class="yt-timestamp" data-t="00:26:46">[00:26:46]</a>.
+## Daily Targets
+Daily targets for Pathology and Microbiology will begin shortly <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. These targets will be provided in the form of a G-sheet <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. The topics should be covered from Rapid Revision (RR) videos or from any other source the student is already following <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
 
-### Kickstart Morning Sessions
-*   These early morning sessions (e.g., 7:30 AM) are designed to encourage waking up early and maximizing the study day <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>, <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
-*   Kickstart Morning sessions will begin *after* students complete their first round of Rapid Revision videos for Pathology and Microbiology <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>, <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>.
-*   The sessions will focus on MCQ-based discussions rather than just theory <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
-*   The platform for these sessions will be YouTube <a class="yt-timestamp" data-t="00:27:11">[00:27:11]</a>.
-*   Topics for 3-4 days will be updated in advance to help students, especially interns, plan their study <a class="yt-timestamp" data-t="00:31:57">[00:31:57]</a>, <a class="yt-timestamp" data-t="00:32:10">[00:32:10]</a>.
+Students following [[Daily targets for NEET PG 2024 | daily targets]] for Pathology and Microbiology can save the dedicated 4-day slots in the timetable <a class="yt-timestamp" data-t="02:06:07">[02:06:07]</a>. Daily targets involve studying Pathology and Microbiology for 40-40 minutes each day <a class="yt-timestamp" data-t="02:06:27">[02:06:27]</a>. For interns, these daily targets allow studying Pathology and Microbiology even during duties like inserting a cannula or making a death certificate <a class="yt-timestamp" data-t="02:59:59">[02:59:59]</a>. Topics for daily targets will be updated three to four days in advance to allow for planning <a class="yt-timestamp" data-t="03:19:57">[03:19:57]</a>.
 
-## Study Resources: Main Videos vs. Rapid Revision
-The choice between main videos and rapid revision (RR) depends on your current knowledge base:
-*   If you have covered 85-90% of the material once, opt for Rapid Revision <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
-*   **Main Videos are recommended for**:
-    *   Final year subjects: Medicine, Surgery, OBGY, and PSM, as these subjects yield many complex questions <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>, <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>, <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>.
-    *   Anatomy: If you are weak in this area, Rapid Revision might not be sufficient and could cause more difficulty <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
-    *   Pharmacology: If you lack confidence with Rapid Revision, main videos are advised to overcome this "scare" <a class="yt-timestamp" data-t="00:38:08">[00:38:08]</a>, <a class="yt-timestamp" data-t="00:38:13">[00:38:13]</a>.
-    *   Any "scary" subject from your personal list <a class="yt-timestamp" data-t="00:40:40">[00:40:40]</a>, <a class="yt-timestamp" data-t="00:42:23">[00:42:23]</a>, <a class="yt-timestamp" data-t="00:42:58">[00:42:58]</a>.
-*   **Rapid Revision (RR) is suitable for**:
-    *   Subjects you are strong in <a class="yt-timestamp" data-t="01:07:48">[01:07:48]</a>.
-    *   Pathology and Microbiology, especially when complemented with a QBank <a class="yt-timestamp" data-t="00:51:07">[00:51:07]</a>, <a class="yt-timestamp" data-t="00:51:13">[00:51:13]</a>.
-*   Do not switch your study source if you have already completed a subject from one source (e.g., KSM notes) <a class="yt-timestamp" data-t="00:33:29">[00:33:29]</a>.
+## Kick Start Morning Sessions
+The "Kick Start Morning" sessions are early morning sessions (historically 7:30 AM, but flexible) designed to encourage early rising and productivity <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. These sessions will focus on MCQ-based discussions, not just theory <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
 
-## Previous Year Topics (PYTs) and Grand Tests
+Kick Start Morning sessions will only begin after students have completed one full round of Pathology and Microbiology from their Rapid Revision videos <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. This ensures that students are not listening to the material for the first time, preventing wasted time and energy <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. The approach will involve students reading five topics, then discussing them quickly in a morning session <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>. If extra material is needed beyond Rapid Revision for Path and Micro, it will be covered in the Kick Start Morning sessions <a class="yt-timestamp" data-t="02:31:32">[02:31:32]</a>.
 
-### Previous Year Topics (PYTs)
-*   Focus on PYTs, as they are crucial <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>.
-*   You don't need to search for them; many resources (e.g., Instagram, PrepLadder) provide them <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>, <a class="yt-timestamp" data-t="00:35:27">[00:35:27]</a>.
-*   PYQs alone are not sufficient for a good rank; they must be combined with Rapid Revision and QBank <a class="yt-timestamp" data-t="00:36:30">[00:36:30]</a>, <a class="yt-timestamp" data-t="00:36:41">[00:36:41]</a>, <a class="yt-timestamp" data-t="00:47:06">[00:47:06]</a>.
-*   For NEET PG, consider solving PYQs from the last five years <a class="yt-timestamp" data-t="00:34:40">[00:34:40]</a>, <a class="yt-timestamp" data-t="00:34:50">[00:34:50]</a>.
-*   For INI CET, focus on the last three years <a class="yt-timestamp" data-t="00:35:12">[00:35:12]</a>.
-*   For FMGE, use video discussions of five-year PYQs to cover them efficiently <a class="yt-timestamp" data-t="00:35:32">[00:35:32]</a>, <a class="yt-timestamp" data-t="00:35:39">[00:35:39]</a>, <a class="yt-timestamp" data-t="00:35:44">[00:35:44]</a>.
+## Video Sources: Main Videos vs. Rapid Revision
+If a student has already covered 85-90% of the syllabus once, it is advised to opt for Rapid Revision <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. However, for certain "deadly," "bulky" subjects that yield many questions or "crooked questions," main videos should still be referred to <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>.
 
-### Grand Tests (GTs)
-*   Allocate half a day for a grand test <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>.
-*   Spend approximately 3.5 hours on the exam itself, and use the rest of the half-day for quick analysis <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>, <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>.
-*   **Analysis Strategy**:
-    *   Do not read explanations for correct answers; review them in your daily notes <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>.
-    *   Focus on explanations for incorrect answers to understand *why* you got them wrong (silly mistake, new topic, lack of time, etc.) <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>, <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
-    *   Avoid being solely driven by statistics (number of incorrect answers, time spent) <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>.
-    *   The primary goal of GTs is to identify mistakes and manage time, not to predict your final rank <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>, <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>.
-*   **Frequency**:
-    *   Fortnightly (every two weeks) is recommended for students who can maintain a positive mindset towards GTs <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>, <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>.
-    *   If GT scores cause significant demotivation, consider taking them once every three weeks <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>.
-*   Take a baseline grand test without self-judgment today, analyze incorrect answers, and then start the new timetable tomorrow <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>, <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>, <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>.
+Subjects recommended for main videos:
+*   Medicine <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>
+*   Surgery <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>
+*   OBGY <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>
+*   PSM (due to atypical questions) <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>
+*   Anatomy (if weak, as RR might be "further torture") <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>
 
-## LRR (Last Revision Round) Sessions
-*   LRR sessions for NEET PG will be conducted in January and February <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>, <a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>.
-*   NEET PG students should also attend the FMGE PYQ sessions, as they cover relevant content and help complete FMGE PYQs without extra effort <a class="yt-timestamp" data-t="01:04:51">[01:04:51]</a>, <a class="yt-timestamp" data-t="01:05:02">[01:05:02]</a>.
+For other subjects, Rapid Revision is generally sufficient <a class="yt-timestamp" data-t="03:40:02">[03:40:02]</a>. However, Rapid Revision alone is never 100% sufficient; it must be complemented with a QBank <a class="yt-timestamp" data-t="03:33:57">[03:33:57]</a>. Relying solely on LRR or 4-5 hours of LRR videos is not recommended for core study, but it is excellent for revision in the last month <a class="yt-timestamp" data-t="04:04:02">[04:04:02]</a>.
 
-## Timetable Structure (Three Rounds)
-A detailed timetable is provided, spanning three revision rounds until the exam.
+## Previous Year Topics (PYTY / PYQs)
+Focus on Previous Year Topics (PYTY) <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>. Students do not need to search for these, as they are widely available on platforms like Instagram and in PYTY books <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>.
 
-### Round 1 (Till January 10th)
-*   This round is designed for comfort and sufficient time allocation to avoid backlogs <a class="yt-timestamp" data-t="02:06:54">[02:06:54]</a>, <a class="yt-timestamp" data-t="02:07:07">[02:07:07]</a>.
-*   **Subject-wise time allocation (customizable)**:
-    *   Anatomy: 5 days (if using main videos due to weakness), or 3 days (if using RR) <a class="yt-timestamp" data-t="01:42:59">[01:42:59]</a>, <a class="yt-timestamp" data-t="01:43:55">[01:43:55]</a>.
-    *   Orthopedics: 2 days <a class="yt-timestamp" data-t="01:48:58">[01:48:58]</a>.
-    *   Biochemistry: 3 days <a class="yt-timestamp" data-t="02:26:26">[02:26:26]</a>.
-    *   ENT: 2 days <a class="yt-timestamp" data-t="02:29:28">[02:29:28]</a>.
-    *   Psychiatry: 1 day <a class="yt-timestamp" data-t="02:30:46">[02:30:46]</a>.
-    *   Pathology: 4 days (can be 3 if familiar with classes) <a class="yt-timestamp" data-t="02:35:05">[02:35:05]</a>.
-    *   Dermatology: 2 days <a class="yt-timestamp" data-t="02:46:17">[02:46:17]</a>.
-    *   Microbiology: 4 days (can be 3) <a class="yt-timestamp" data-t="02:59:08">[02:59:08]</a>.
-    *   Anesthesia: 2 days <a class="yt-timestamp" data-t="02:48:30">[02:48:30]</a>.
-    *   PSM: 5 days <a class="yt-timestamp" data-t="02:57:04">[02:57:04]</a>.
-    *   Surgery: 6 days (can be 5) <a class="yt-timestamp" data-t="03:01:21">[03:01:21]</a>.
-    *   Radiology: 2 days <a class="yt-timestamp" data-t="03:07:22">[03:07:22]</a>.
-    *   OBGY: 6 days <a class="yt-timestamp" data-t="03:12:12">[03:12:12]</a>.
-    *   Ophthalmology (Ophth): 2 days <a class="yt-timestamp" data-t="03:16:32">[03:16:32]</a>.
-    *   Forensic Medicine and Toxicology (FMT): 2 days <a class="yt-timestamp" data-t="03:19:35">[03:19:35]</a>.
-    *   Pediatrics: 3 days <a class="yt-timestamp" data-t="03:24:26">[03:24:26]</a>.
-    *   Pharmacology: 4 days (can be 2) <a class="yt-timestamp" data-t="03:27:07">[03:27:07]</a>.
-*   **Daily Medicine Integration**: Dedicate 1.5-2 hours daily to Medicine throughout this round, regardless of the primary subject <a class="yt-timestamp" data-t="01:54:33">[01:54:33]</a>, <a class="yt-timestamp" data-t="01:57:44">[01:57:44]</a>. This ensures continuous integration <a class="yt-timestamp" data-t="01:59:22">[01:59:22]</a>.
-*   **"Pending" Days**: These buffer days are for clearing backlogs or taking a Grand Test <a class="yt-timestamp" data-t="01:56:45">[01:56:45]</a>, <a class="yt-timestamp" data-t="02:09:47">[02:09:47]</a>.
+For NEET PG, focus on the last five years of PYQs <a class="yt-timestamp" data-t="03:46:07">[03:46:07]</a>. For INI CET, the last three years of PYQs are relevant, as the exam pattern has overlapped more with NEET PG since it came under INI CET <a class="yt-timestamp" data-t="03:54:55">[03:54:55]</a>.
 
-### Round 2 (Starting January 11th)
-*   Medicine: 4 days for comprehensive revision <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>.
-*   Short Subjects (e.g., ENT, Ophth): 3 days for revision <a class="yt-timestamp" data-t="02:14:48">[02:14:48]</a>.
-*   Short Subjects (various): 4 days in total for revision <a class="yt-timestamp" data-t="02:21:49">[02:21:49]</a>.
-*   Physiology: 1 day <a class="yt-timestamp" data-t="02:30:17">[02:30:17]</a>.
-*   Pharmacology: 3 days <a class="yt-timestamp" data-t="02:46:42">[02:46:42]</a>.
-*   Pediatrics: 2 days <a class="yt-timestamp" data-t="02:58:36">[02:58:36]</a>.
-*   Surgery and OBGY: 3 days each <a class="yt-timestamp" data-t="03:16:32">[03:16:32]</a>, <a class="yt-timestamp" data-t="03:19:07">[03:19:07]</a>.
+For FMGE, watching PYQ discussion sessions (e.g., PrepLadder's 2-hour videos covering 5 years of FMGE PYQs) is more efficient than solving from books <a class="yt-timestamp" data-t="03:55:00">[03:55:00]</a>.
 
-### Round 3 (Starting February 8th)
-*   This is the final phase, less than a month before the exam <a class="yt-timestamp" data-t="02:33:30">[02:33:30]</a>, <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>.
-*   Focus on previous year topics, LRR videos, and volatile subjects <a class="yt-timestamp" data-t="03:02:49">[03:02:49]</a>, <a class="yt-timestamp" data-t="03:03:52">[03:03:52]</a>.
-*   Short subjects (ENT, Ophth, Physio, etc.): Less than a week for all six <a class="yt-timestamp" data-t="02:47:38">[02:47:38]</a>, <a class="yt-timestamp" data-t="02:53:22">[02:53:22]</a>.
-*   Medicine: 3 days for final revision <a class="yt-timestamp" data-t="03:12:35">[03:12:35]</a>.
-*   Pharmacology: 2 days <a class="yt-timestamp" data-t="03:18:28">[03:18:28]</a>.
-*   PSM: 2 days <a class="yt-timestamp" data-t="03:21:05">[03:21:05]</a>.
-*   Other subjects: 1-2 days <a class="yt-timestamp" data-t="03:25:29">[03:25:29]</a>.
-*   Volatile subjects (Anatomy, Biochemistry, Microbiology) should be covered in the last week <a class="yt-timestamp" data-t="03:28:18">[03:28:18]</a>. Microbiology will be covered in LRR and [[daily_targets_and_timetable_planning_for_neet_pg | daily targets]] <a class="yt-timestamp" data-t="03:38:00">[03:38:00]</a>.
+[!CAUTION]
+Only relying on PYQs will not guarantee a good rank in NEET PG <a class="yt-timestamp" data-t="03:26:21">[03:26:21]</a>. PYQ *topics* along with Rapid Revision are helpful, but not PYQs alone <a class="yt-timestamp" data-t="03:41:40">[03:41:40]</a>.
 
-## Interns' Strategy
-*   Follow the same subject sequence as the general timetable <a class="yt-timestamp" data-t="02:14:48">[02:14:48]</a>.
-*   Rely only on Rapid Revision videos and a QBank <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>, <a class="yt-timestamp" data-t="02:28:50">[02:28:50]</a>. Avoid main videos <a class="yt-timestamp" data-t="02:28:20">[02:28:20]</a>.
-*   Add an extra day to each subject's allocation to account for less study time <a class="yt-timestamp" data-t="02:40:27">[02:40:27]</a>, <a class="yt-timestamp" data-t="02:42:07">[02:42:07]</a>, <a class="yt-timestamp" data-t="02:44:59">[02:44:59]</a>.
-*   Finish short subjects quickly (e.g., Psychiatry, Radiology, Ortho, Anesthesia, Forensic, Skin) in 7-8 days during a light posting <a class="yt-timestamp" data-t="02:59:08">[02:59:08]</a>, <a class="yt-timestamp" data-t="03:09:59">[03:09:59]</a>.
-*   For Pathology and Microbiology, follow the [[daily_targets_and_timetable_planning_for_neet_pg | daily targets]] (40 minutes daily), as this helps cover them while working <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>, <a class="yt-timestamp" data-t="03:11:42">[03:11:42]</a>, <a class="yt-timestamp" data-t="03:12:00">[03:12:00]</a>.
+## Grand Tests (GTs)
+Allocate half a day for Grand Tests <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>. The effective time for giving the exam is 3-3.5 hours, and the rest of the half-day should be used for quick analysis <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
 
-## Question Bank (QBank) and MCQs
-*   Solve 100-150 MCQs daily <a class="yt-timestamp" data-t="01:17:24">[01:17:24]</a>.
-*   Practice questions from the subject you are currently studying <a class="yt-timestamp" data-t="01:59:57">[01:59:57]</a>, <a class="yt-timestamp" data-t="02:00:20">[02:00:20]</a>.
-*   There are no separate days for QBank; it must be integrated into the daily subject study time <a class="yt-timestamp" data-t="03:54:19">[03:54:19]</a>, <a class="yt-timestamp" data-t="03:55:53">[03:55:53]</a>.
-*   For bulky subjects (Medicine, Surgery, Gynecology, PSM, Anatomy, Pharmacology), use a comprehensive QBank <a class="yt-timestamp" data-t="03:36:58">[03:36:58]</a>, <a class="yt-timestamp" data-t="03:39:27">[03:39:27]</a>, <a class="yt-timestamp" data-t="03:41:40">[03:41:40]</a>, <a class="yt-timestamp" data-t="03:45:00">[03:45:00]</a>, <a class="yt-timestamp" data-t="03:45:50">[03:45:50]</a>, <a class="yt-timestamp" data-t="03:46:12">[03:46:12]</a>.
-*   For short subjects (Path, Micro), use the Rapid Revision QBank <a class="yt-timestamp" data-t="03:53:50">[03:53:50]</a>, <a class="yt-timestamp" data-t="03:54:09">[03:54:09]</a>.
+### GT Analysis Strategy
+*   Do not read explanations for correct answers, as you are already revising notes daily <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
+*   Focus on analyzing incorrect answers: determine if it was a silly mistake, an unknown topic, a new concept, or insufficient time/effort in analysis <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
+*   Avoid being overly "statistic-driven" (e.g., focusing only on how many incorrect or time taken) <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>.
+*   The true purpose of a GT is to analyze why something was wrong and where it came from (fact-based, rote, concepts, clinical questions) <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>. This analysis helps tailor future preparation <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
 
-## Maintaining Motivation and Mindset
-*   It's normal to feel demotivated or experience dips in motivation <a class="yt-timestamp" data-t="02:15:15">[02:15:15]</a>.
-*   Focus on what you *can* do going forward, rather than past results or ranks <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>, <a class="yt-timestamp" data-t="04:59:50">[04:59:50]</a>.
-*   Overcome "nightmare" subjects (e.g., Anatomy, Biochemistry, Pharmacology, Microbiology) by confronting them through main videos and extensive QBank practice <a class="yt-timestamp" data-t="04:09:59">[04:09:59]</a>, <a class="yt-timestamp" data-t="04:13:30">[04:13:30]</a>, <a class="yt-timestamp" data-t="04:22:23">[04:22:23]</a>, <a class="yt-timestamp" data-t="04:24:43">[04:24:43]</a>, <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>.
-*   Confidence comes from solving questions; increase your daily question count to boost it <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>, <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>, <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>, <a class="yt-timestamp" data-t="04:00:00">[04:00:00]</a>.
-*   If you are consistently studying 10-11 hours per day with good output, you are on the right track; do not push for more hours to avoid mental exhaustion <a class="yt-timestamp" data-t="04:44:25">[04:44:25]</a>, <a class="yt-timestamp" data-t="04:48:48">[04:48:48]</a>, <a class="yt-timestamp" data-t="04:52:16">[04:52:16]</a>.
-*   It's crucial to take action rather than just knowing what to do <a class="yt-timestamp" data-t="04:20:00">[04:20:00]</a>, <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>, <a class="yt-timestamp" data-t="04:29:00">[04:29:00]</a>, <a class="yt-timestamp" data-t="04:30:00">[04:30:00]</a>, <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>.
+### Frequency of GTs
+*   Fortnightly (every two weeks) is recommended if GTs are approached positively <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+*   If GT results cause significant demotivation or depression, reduce frequency to once every three weeks until a positive mindset is developed <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>.
+*   Approach GTs as opportunities to pick out mistakes, practice time management, and assess completion of the exam within the given time <a class="yt-timestamp" data-t="00:11:20">[00:11:20]</a>.
+*   GTs are designed to be slightly tougher than the main exam to provide an extra push for study <a class="yt-timestamp" data-t="01:00:05">[01:00:05]</a>.
 
-## Specific Advice
-*   **Study Breaks**: For effective study, aim for two long stretches of 2.5-3 hours each, training your mind to stay vigilant for extended periods, similar to exam conditions <a class="yt-timestamp" data-t="05:17:00">[05:17:00]</a>, <a class="yt-timestamp" data-t="05:19:00">[05:19:00]</a>, <a class="yt-timestamp" data-t="05:28:00">[05:28:00]</a>, <a class="yt-timestamp" data-t="05:33:00">[05:33:00]</a>. After these stretches, take a 15-minute break <a class="yt-timestamp" data-t="05:41:00">[05:41:00]</a>, <a class="yt-timestamp" data-t="05:43:00">[05:43:00]</a>.
-*   **Integrated Timetables**: Avoid purely integrated timetables (e.g., system-wise) that might neglect foundational subjects or non-systemic topics <a class="yt-timestamp" data-t="05:36:00">[05:36:00]</a>, <a class="yt-timestamp" data-t="05:38:00">[05:38:00]</a>. The suggested timetable ensures broader coverage with daily medicine integration <a class="yt-timestamp" data-t="05:48:00">[05:48:00]</a>.
-*   **Crash Courses/BTR**: These can be supplemental for compilation and revision, but should not replace in-depth study if time permits <a class="yt-timestamp" data-t="05:40:00">[05:40:00]</a>, <a class="yt-timestamp" data-t="05:44:00">[05:44:00]</a>, <a class="yt-timestamp" data-t="05:45:00">[05:45:00]</a>. Integrate them into your routine alongside notes, MCQs, and GTs <a class="yt-timestamp" data-t="05:52:00">[05:52:00]</a>, <a class="yt-timestamp" data-t="05:53:00">[05:53:00]</a>.
-*   **Review Books**: Avoid using external review books at this stage; stick to your main video notes or Rapid Revision notes for weak topics <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>, <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>, <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>.
-*   **Writing Notes**: Focus on main buzzwords and understanding rather than writing down everything <a class="yt-timestamp" data-t="06:07:00">[06:07:00]</a>.
-*   **CBME Pattern**: For NEET PG, the CBME pattern is not significant; follow the traditional organ-system wise study approach, as questions will be integrated <a class="yt-timestamp" data-t="04:32:00">[04:32:00]</a>, <a class="yt-timestamp" data-t="04:33:00">[04:33:00]</a>, <a class="yt-timestamp" data-t="04:38:00">[04:38:00]</a>, <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>.
-*   **Electron Microscopic Images**: For NEET PG, focus on usual electron microscopic images from Rapid Revision; INI CET often includes rarer ones <a class="yt-timestamp" data-t="06:40:00">[06:40:00]</a>, <a class="yt-timestamp" data-t="06:42:00">[06:42:00]</a>, <a class="yt-timestamp" data-t="06:47:00">[06:47:00]</a>.
+## Last Round Revision (LRR)
+The LRR for NEET PG will be conducted in January and February <a class="yt-timestamp" data-t="01:17:59">[01:17:59]</a>. NEET PG students are encouraged to attend FMGE LRR sessions (held in November/December) for main subjects, as they will cover FMGE PYQs and provide passive revision <a class="yt-timestamp" data-t="01:54:54">[01:54:54]</a>.
 
-This [[approach_to_final_exam_preparation | approach to final exam preparation]] is designed to be realistic, acknowledging potential setbacks like illness or anxiety, and incorporates buffer days to manage backlogs and ensure consistent progress <a class="yt-timestamp" data-t="01:08:00">[01:08:00]</a>, <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>. The goal is to avoid the "guilt cycle" of not studying enough and to ensure a positive mindset <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>, <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>.
+## Study Plan & Timetable
+A comprehensive study timetable has been created, covering three rounds of revision until the last day before the exam <a class="yt-timestamp" data-t="01:33:33">[01:33:33]</a>. This timetable is designed to be "comfortable" and accounts for various factors like backlogs, anxiety, and unforeseen emergencies <a class="yt-timestamp" data-t="01:51:57">[01:51:57]</a>.
+
+Today (before the timetable starts tomorrow) is the last day to settle <a class="yt-timestamp" data-t="01:42:04">[01:42:04]</a>. If nothing else is to be studied, take a baseline Grand Test today with the promise not to judge results, analyze incorrect answers, and then sleep <a class="yt-timestamp" data-t="01:52:50">[01:52:50]</a>.
+
+### Round 1 (Until January 10th) <a class="yt-timestamp" data-t="01:25:25">[01:25:25]</a>
+This round is slightly liberal with days to allow for completion and question practice <a class="yt-timestamp" data-t="01:07:05">[01:07:05]</a>.
+*   **Medicine:** Integrate 1.5-2 hours of Medicine study daily alongside other subjects <a class="yt-timestamp" data-t="01:15:48">[01:15:48]</a>. This helps finish Medicine without tension and allows daily integration <a class="yt-timestamp" data-t="01:15:53">[01:15:53]</a>.
+*   **Anatomy:** 5 days (can be reduced to 3 if using RR, but 5 days if main videos are used) <a class="yt-timestamp" data-t="01:42:29">[01:42:29]</a>.
+*   **Orthopedics:** 2 days <a class="yt-timestamp" data-t="01:58:34">[01:58:34]</a>.
+*   **Biochemistry:** 3 days <a class="yt-timestamp" data-t="02:26:26">[02:26:26]</a>.
+*   **ENT:** 2 days <a class="yt-timestamp" data-t="02:28:43">[02:28:43]</a>.
+*   **Psychiatry:** 1 day <a class="yt-timestamp" data-t="02:30:30">[02:30:30]</a>.
+*   **Pathology:** 4 days (can be 3 if familiar with classes) <a class="yt-timestamp" data-t="02:35:10">[02:35:10]</a>.
+*   **Dermatology:** 2 days <a class="yt-timestamp" data-t="02:46:17">[02:46:17]</a>.
+*   **Microbiology:** 4 days (can be 3) <a class="yt-timestamp" data-t="02:59:02">[02:59:02]</a>.
+*   **Anesthesia:** 2 days <a class="yt-timestamp" data-t="03:47:04">[03:47:04]</a>.
+*   **PSM:** 5 days (it's always less no matter how much you read) <a class="yt-timestamp" data-t="03:57:04">[03:57:04]</a>.
+*   **Surgery:** 6 days (can be 5) <a class="yt-timestamp" data-t="04:01:06">[04:01:06]</a>.
+*   **Radiology:** 2 days <a class="yt-timestamp" data-t="04:07:54">[04:07:54]</a>.
+*   **OBGY:** 6 days (due to bulk of questions) <a class="yt-timestamp" data-t="04:12:07">[04:12:07]</a>.
+*   **Ophthalmology (Ophth):** 2 days <a class="yt-timestamp" data-t="04:18:49">[04:18:49]</a>.
+*   **Forensic Medicine & Toxicology (FMT):** 2 days <a class="yt-timestamp" data-t="04:20:10">[04:20:10]</a>.
+*   **Pediatrics (Pedia):** 3 days <a class="yt-timestamp" data-t="04:25:01">[04:25:01]</a>.
+*   **Pharmacology (Pharmak):** 4 days (can be 2, but extra day for GT) <a class="yt-timestamp" data-t="04:27:07">[04:27:07]</a>.
+*   **Pending Days:** These are buffer days for backlogs or Grand Tests <a class="yt-timestamp" data-t="01:06:04">[01:06:04]</a>. Medicine can be covered on these days if other subjects are finished early <a class="yt-timestamp" data-t="01:42:07">[01:42:07]</a>.
+
+### Round 2 (Starts January 11th) <a class="yt-timestamp" data-t="01:33:33">[01:33:33]</a>
+This round is for revision, with shorter durations for subjects.
+*   **Medicine:** Revise the entire subject in 4 days <a class="yt-timestamp" data-t="02:09:44">[02:09:44]</a>.
+*   **ENT/Ophth:** 3 days <a class="yt-timestamp" data-t="02:14:16">[02:14:16]</a>.
+*   **Short Subjects (multiple):** 4 days <a class="yt-timestamp" data-t="02:21:50">[02:21:50]</a>.
+*   **Physiology:** 1 day (not 2 as previously) <a class="yt-timestamp" data-t="02:30:17">[02:30:17]</a>.
+*   **Pharmacology:** 3 days (due to its volatile nature, needs extra revision) <a class="yt-timestamp" data-t="02:49:03">[02:49:03]</a>.
+*   **Pediatrics:** 2 days (more than enough if Medicine is covered) <a class="yt-timestamp" data-t="02:58:32">[02:58:32]</a>.
+*   **Surgery:** 3 days <a class="yt-timestamp" data-t="03:16:47">[03:16:47]</a>.
+*   **OBGY:** 3 days <a class="yt-timestamp" data-t="03:18:59">[03:18:59]</a>.
+
+### Round 3 (Starts February 8th) <a class="yt-timestamp" data-t="03:33:20">[03:33:20]</a>
+This is the final phase, with highly condensed days.
+*   Most subjects are reduced to 1-2 days <a class="yt-timestamp" data-t="03:37:04">[03:37:04]</a>.
+*   Short subjects (ENT, Ophth, Physio) to be finished in less than a week <a class="yt-timestamp" data-t="03:53:57">[03:53:57]</a>.
+*   Focus heavily on previous year topics, LRR videos, and volatile subjects <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>.
+*   Medicine: Revise in 3 days (last revision for the exam) <a class="yt-timestamp" data-t="04:14:04">[04:14:04]</a>.
+*   Pharmacology: Revise in 2 days <a class="yt-timestamp" data-t="04:19:35">[04:19:35]</a>.
+*   PSM: Revise in 2 days <a class="yt-timestamp" data-t="04:22:20">[04:22:20]</a>.
+*   Volatile subjects (Anatomy, Biochemistry) should be prioritized in the last week <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>. Microbiology will be covered through LRR and daily targets <a class="yt-timestamp" data-t="04:38:00">[04:38:00]</a>.
+
+### Internship Schedule <a class="yt-timestamp" data-t="02:09:12">[02:09:12]</a>
+Interns should follow the same subject sequence <a class="yt-timestamp" data-t="02:14:01">[02:14:01]</a>.
+*   Add one extra day to each subject's allocation to account for less study time <a class="yt-timestamp" data-t="02:41:24">[02:41:24]</a>.
+*   Source: Rapid Revision + Q Bank <a class="yt-timestamp" data-t="02:49:50">[02:49:50]</a>.
+*   Finish short subjects (Psychiatry, Radiology, Ortho, Anesthesia, Forensic, Skin) quickly, especially during light posting periods, for a confidence boost <a class="yt-timestamp" data-t="02:51:30">[02:51:30]</a>.
+
+## Customization and Mindset
+The timetable is a tentative outline; individual customization is necessary based on syllabus coverage and study patterns <a class="yt-timestamp" data-t="01:17:09">[01:17:09]</a>.
+
+[!TIP]
+*   Don't over-rely on statistics or numerical scores for self-worth; focus on the learning process <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>.
+*   Confront "nightmare" subjects (e.g., Anatomy, Biochemistry, Pharmacology, Microbiology) by studying them thoroughly from main videos or notes, spending adequate time (4-5 days), and practicing questions to overcome fear <a class="yt-timestamp" data-t="04:01:01">[04:01:01]</a>.
+*   Avoid the "self-blame cycle" for past exam results or current struggles <a class="yt-timestamp" data-t="01:18:29">[01:18:29]</a>. View a bad exam as a single bad day, not a predictor of future outcomes <a class="yt-timestamp" data-t="01:25:29">[01:25:29]</a>.
+*   Be practical: acknowledge that sick days, emergencies, anxiety, and comparisons with peers will happen <a class="yt-timestamp" data-t="01:19:10">[01:19:10]</a>. The timetable has buffer days built in to accommodate these <a class="yt-timestamp" data-t="01:21:42">[01:21:42]</a>.
+*   The goal is to say, "I had read my best, I had done my best" regardless of the outcome <a class="yt-timestamp" data-t="01:59:37">[01:59:37]</a>.
+
+## QBank Strategy
+*   Along with notes, aim to solve 100-150 MCQs daily <a class="yt-timestamp" data-t="01:39:42">[01:39:42]</a>. This target should be built up slowly (e.g., increasing by 5-10 questions daily from 70-80) <a class="yt-timestamp" data-t="01:42:07">[01:42:07]</a>.
+*   Questions should be from the subject being studied on that day <a class="yt-timestamp" data-t="01:59:02">[01:59:02]</a>.
+*   Solving PYQs, one-liners, or topic-wise questions may lead to covering more than 150 questions <a class="yt-timestamp" data-t="02:00:54">[02:00:54]</a>.
+*   There are no separate days allocated for QBank; it must be integrated with subject study <a class="yt-timestamp" data-t="03:54:02">[03:54:02]</a>.
+*   For bulky subjects (Medicine, Surgery, OBGY, PSM, Anatomy, Pharmacology), aim to cover the full QBank <a class="yt-timestamp" data-t="03:36:50">[03:36:50]</a>.
+*   For short subjects, the RR QBank is sufficient <a class="yt-timestamp" data-t="03:54:02">[03:54:02]</a>. NEET PG Essence is a recommended QBank book <a class="yt-timestamp" data-t="03:28:44">[03:28:44]</a>.
+
+## Breaks
+*   Avoid the Pomodoro Technique (20-30 min study, 10 min break) when only 2-3 months are left <a class="yt-timestamp" data-t="05:54:02">[05:54:02]</a>.
+*   Train the mind for longer stretches of vigilance, similar to exam conditions (2.5-3 hours) <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>.
+*   A 15-minute break after a long stretch is generally good <a class="yt-timestamp" data-t="06:42:30">[06:42:30]</a>. What is done during the break is personal, but avoiding social media is often advised <a class="yt-timestamp" data-t="06:49:03">[06:49:03]</a>.
+
+## Integrated vs. Subject-Wise Study
+The provided timetable follows a subject-wise approach <a class="yt-timestamp" data-t="07:05:01">[07:05:01]</a>. Integrated system-wise timetables often lead to neglecting important general subjects (e.g., General Pathology, General Microbiology, Forensic, Biochemistry) not tied to specific body systems <a class="yt-timestamp" data-t="07:31:00">[07:31:00]</a>. Daily medicine study and Grand Tests help with integration <a class="yt-timestamp" data-t="07:44:00">[07:44:00]</a>.
+
+## Other Study Resources
+*   **Crash Courses/BTR (Beat the Rush):** These should be run side-by-side with the main study plan, not as a sole source <a class="yt-timestamp" data-t="07:54:02">[07:54:02]</a>. They help compile and condense information, but don't replace in-depth study if time allows <a class="yt-timestamp" data-t="08:08:00">[08:08:00]</a>.
+*   **Review Books/Standard Textbooks:** No time for these <a class="yt-timestamp" data-t="08:58:00">[08:58:00]</a>. Stick to main videos for weak topics <a class="yt-timestamp" data-t="09:14:00">[09:14:00]</a>.
+*   **Electron Microscopic Images:** Important for INI CET (often rare images), less so for NEET PG (usually standard images) <a class="yt-timestamp" data-t="09:36:00">[09:36:00]</a>. Rapid Revision images should be sufficient for NEET PG <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>.
+*   **Note-taking:** Focus on main buzzwords and understanding rather than writing everything <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>.
+
+## Final Advice
+*   Do not mix INI CET and NEET PG preparation completely; they have similarities but are distinct exams <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>.
+*   The primary lesson from INI CET (if applicable) is to be practical and avoid relying solely on 4-6 hour LRR videos as the only source <a class="yt-timestamp" data-t="05:00:00">[05:00:00]</a>.
+*   Believe in yourself <a class="yt-timestamp" data-t="05:13:00">[05:13:00]</a>. Doubting oneself ("is it possible?") already loses half the battle <a class="yt-timestamp" data-t="05:16:00">[05:16:00]</a>.
+*   Focus on what can be done from today forward with full honesty and dedication <a class="yt-timestamp" data-t="05:27:00">[05:27:00]</a>.
+*   History should not repeat itself; do not waste time on past disappointments when the future holds potential <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>.
