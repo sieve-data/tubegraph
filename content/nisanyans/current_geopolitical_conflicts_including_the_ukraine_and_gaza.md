@@ -1,0 +1,42 @@
+---
+title: Current geopolitical conflicts including the Ukraine and Gaza
+videoId: 1mUulmDNqMk
+---
+
+From: [[nisanyans]] <br/> 
+
+An evaluation of 2023 highlights significant shifts in [[global_political_dynamics_and_conflicts | global political dynamics]]. The year marked a turning point economically, demographically, and militarily on a worldwide scale <a class="yt-timestamp" data-t="01:32:58">[01:32:58]</a>.
+
+## Western Military Fiascos and Shifting Power Dynamics
+
+### The Ukraine Conflict
+The "Ukraine fiasco" of the Western alliance and the "Ukraine defeat" are considered significant turning points in history <a class="yt-timestamp" data-t="07:05:05">[07:05:05]</a>. The initial Western strategy aimed to collapse [[russiaukraine_conflict_and_geopolitical_analysis | Russia]] and finish its economy through unprecedented sanctions, predicting Putin's overthrow within 3 to 6 months <a class="yt-timestamp" data-t="07:26:00">[07:26:00]</a>. This was pursued in an atmosphere akin to a "jihad" or "crusade" <a class="yt-timestamp" data-t="07:46:00">[07:46:00]</a>, with the declaration of war against [[russiaukraine_conflict_and_geopolitical_analysis | Russia]] <a class="yt-timestamp" data-t="07:57:00">[07:57:00]</a>.
+
+Despite this, the Western alliance could not continue the war effectively <a class="yt-timestamp" data-t="08:08:00">[08:08:00]</a>. NATO countries came close to direct involvement multiple times but refrained from taking that step <a class="yt-timestamp" data-t="08:12:00">[08:12:00]</a>. At the end of a year, an "absurd counter-offensive" was forced upon the Ukrainians, resulting in hundreds of thousands of young deaths <a class="yt-timestamp" data-t="08:24:00">[08:24:00]</a>. Western countries subsequently withdrew support, stating they had no more weapons to provide <a class="yt-timestamp" data-t="08:40:00">[08:40:00]</a>. This conflict exposed that the industrial capacity of Western countries was unprepared for an armament effort of such a scale <a class="yt-timestamp" data-t="08:56:00">[08:56:00]</a>. They struggled to produce sufficient tanks and missiles <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a>, and their expensive planes did not provide a significant military advantage over Russia's much cheaper aircraft <a class="yt-timestamp" data-t="09:15:00">[09:15:00]</a>. This situation represents a significant fiasco <a class="yt-timestamp" data-t="09:30:00">[09:30:00]</a>.
+
+### The Gaza War
+Following the Ukraine situation, a second equally large "fiasco" appears to be emerging in [[tensions_and_conflicts_in_the_middle_east | the Middle East]] with the [[the_current_state_of_the_israelpalestine_conflict | Gaza War]] <a class="yt-timestamp" data-t="09:36:00">[09:36:00]</a>. Despite its enormous economic and military superiority, Israel seems stuck in Gaza, unable to advance or achieve its military goals <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>. Serious doubts have arisen, particularly within Israel, about how long such a "bloody and scandalous war" can continue and how the country will exit it <a class="yt-timestamp" data-t="10:24:00">[10:24:00]</a>.
+
+### Broader Western Retreats
+These recent conflicts follow a pattern of Western defeats in various regions:
+*   **Afghanistan**: A defeat occurred in 2022 <a class="yt-timestamp" data-t="10:50:00">[10:50:00]</a>.
+*   **Syria**: A defeat occurred a couple of years prior to Afghanistan <a class="yt-timestamp" data-t="10:59:00">[10:59:00]</a>. These events highlight [[geopolitical_shifts_in_the_21st_century_postsyria_conflict | geopolitical shifts in the 21st century postSyria conflict]].
+*   **Yemen**: A war supported by the West ended in defeat, with the entire country falling into the hands of the Houthi group <a class="yt-timestamp" data-t="11:08:00">[11:08:00]</a>.
+*   **Iraq**: The war ended in "disgrace," with the country destroyed, and occupying forces eventually forced to withdraw <a class="yt-timestamp" data-t="11:22:00">[11:22:00]</a>. Remaining soldiers are expected to withdraw soon <a class="yt-timestamp" data-t="11:40:00">[11:40:00]</a>.
+
+These events signify a "change of era" <a class="yt-timestamp" data-t="11:47:00">[11:47:00]</a>, marking an economic, demographic, and military turning point worldwide <a class="yt-timestamp" data-t="01:32:00">[01:32:00]</a>.
+
+## Shifting Alliances and Regional Dynamics
+
+### Middle Eastern Geopolitics
+The possibility of a war in [[tensions_and_conflicts_in_the_middle_east | the Middle East]] is considered "extremely strong" <a class="yt-timestamp" data-t="19:14:00">[19:14:00]</a>. The roles of two key countries, Saudi Arabia and Turkey, in a potential conflict are unclear <a class="yt-timestamp" data-t="19:37:00">[19:37:00]</a>. Iran's attitude is clear, as is the stance of Lebanon's military power and Syria's certain power <a class="yt-timestamp" data-t="19:55:00">[19:55:00]</a>. Egypt is expected to remain neutral <a class="yt-timestamp" data-t="20:00:00">[20:00:00]</a>.
+
+Saudi Arabia, previously a "servant" or "local branch" of the Western military alliance, has undergone radical changes in the last year <a class="yt-timestamp" data-t="20:11:00">[20:11:00]</a>. These include making peace with Iran, ending a covert war, signing military cooperation and friendship agreements with [[russiaukraine_conflict_and_geopolitical_analysis | Russia]], agreeing to sell oil and natural gas in non-dollar currencies, and joining the BRICS group of countries <a class="yt-timestamp" data-t="20:30:00">[20:30:00]</a>. Since the beginning of the [[the_current_state_of_the_israelpalestine_conflict | Gaza War]], Saudi Arabia has maintained a "frightening silence," adopting a wait-and-see policy <a class="yt-timestamp" data-t="22:20:00">[22:20:00]</a>. These changes indicate significant [[middle_eastern_geopolitical_tensions | Middle Eastern geopolitical tensions]] and a broader shift in global power dynamics.
+
+Turkey, on the other hand, continues to support Israel economically through long-established infrastructure <a class="yt-timestamp" data-t="22:39:00">[22:39:00]</a>. Despite remaining an ally in various fields, its head of state has adopted "extremely provocative and extremely worrying" propaganda and attitudes <a class="yt-timestamp" data-t="22:51:00">[22:51:00]</a>. Turkey's role would be vital if a war breaks out between Arab countries and Israel <a class="yt-timestamp" data-t="23:09:00">[23:09:00]</a>. For Israel and Western countries, Turkey's failure to participate alongside Arab states in such a conflict would be a "matter of life and death" <a class="yt-timestamp" data-t="23:21:00">[23:21:00]</a>. This context suggests a deeper analysis of internal Turkish events, such as recent football incidents, Arab hostility, and the "Atatürk cult," which may be linked to broader geopolitical interests <a class="yt-timestamp" data-t="23:50:00">[23:50:00]</a>.
+
+### Constitutional Crises
+A "constitutional crisis" is observed not only in Turkey but in every country worldwide, including [[the_current_state_of_the_israelpalestine_conflict | Israel]] <a class="yt-timestamp" data-t="29:51:00">[29:51:00]</a>. This suggests a systemic issue beyond individual nations.
+
+### Historical Alliances and European Dominance
+The shift from England and France being centuries-long enemies to allies in World War I was driven by the rise of Germany <a class="yt-timestamp" data-t="00:34:02">[00:34:02]</a>. Germany's emergence as a strong player, especially after the establishment of a German state under Prussian sovereignty in the 1870s, ended France's military dominance in Europe <a class="yt-timestamp" data-t="00:35:09">[00:35:09]</a>. British policy, and subsequently American policy, has consistently aimed to prevent a single state from dominating Europe, ensuring that European divisions maintain the dominance of Atlantic powers <a class="yt-timestamp" data-t="00:36:50">[00:36:50]</a>. This historical perspective provides context for current [[current_geopolitical_tensions_involving_nato_and_russia | current geopolitical tensions involving NATO and Russia]] and [[the_current_geopolitical_tensions_involving_the_us_europe_and_russia | the current geopolitical tensions involving the US Europe and Russia]].

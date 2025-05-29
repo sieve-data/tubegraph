@@ -1,0 +1,21 @@
+---
+title: Georgian elections and political climate in relation to Russia
+videoId: rX7igUkXS2A
+---
+
+From: [[nisanyans]] <br/> 
+
+Upcoming Georgian elections are scheduled for October 26th <a class="yt-timestamp" data-t="01:42:26">[01:42:26]</a>. The speaker anticipates being in Georgia around October 22nd or 23rd, and then in Yerevan on the 26th <a class="yt-timestamp" data-t="01:42:33">[01:42:33]</a>, <a class="yt-timestamp" data-t="01:42:39">[01:42:39]</a>, observing the results from afar <a class="yt-timestamp" data-t="01:42:43">[01:42:43]</a>.
+
+## Political Landscape
+
+The ruling Georgian Dream Party is projected to win the election by a significant margin <a class="yt-timestamp" data-t="01:42:48">[01:42:48]</a>, <a class="yt-timestamp" data-t="01:42:59">[01:42:59]</a>. The evolution of this party over the last three to four years is described as "striking" and "worth studying" <a class="yt-timestamp" data-t="01:43:03">[01:43:03]</a>, <a class="yt-timestamp" data-t="01:43:06">[01:43:06]</a>, <a class="yt-timestamp" data-t="01:43:10">[01:43:10]</a>. It was initially established as an opportunist party serving the specific interests of a "mafia father" <a class="yt-timestamp" data-t="01:43:13">[01:43:13]</a>, <a class="yt-timestamp" data-t="01:43:20">[01:43:20]</a>.
+
+### Shifting Stance on Western Alliances
+The party has come to the realization that "Europeanism is not our friend" <a class="yt-timestamp" data-t="01:43:49">[01:43:49]</a>. It is believed that the European Union and [[current_geopolitical_tensions_involving_nato_and_russia | NATO]] intend to exploit Georgia as a new [[russiaukraine_conflict_and_geopolitical_analysis | Ukraine]] against [[russian_politics_and_putins_regime | Russia]] <a class="yt-timestamp" data-t="01:44:02">[01:44:02]</a>. The West is seen as provoking [[russian_politics_and_putins_regime | Russia]] into war, then abandoning Georgia, similar to how [[russiaukraine_conflict_and_geopolitical_analysis | Ukraine]] and Afghanistan were allegedly "ruined" and "thrown away like used toilet paper" <a class="yt-timestamp" data-t="01:44:11">[01:44:11]</a>, <a class="yt-timestamp" data-t="01:44:26">[01:44:26]</a>. The "West-West alliance" is characterized as an "evil alliance" <a class="yt-timestamp" data-t="01:44:35">[01:44:35]</a>, <a class="yt-timestamp" data-t="01:44:38">[01:44:38]</a>.
+
+To counter perceived Western influence, the Georgian Dream Party has enacted a series of laws and decisions aimed at eradicating what they see as "Western cancer" that has "penetrated every cell of Georgian society" <a class="yt-timestamp" data-t="01:44:50">[01:44:50]</a>, <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>, <a class="yt-timestamp" data-t="01:45:04">[01:45:04]</a>. A significant portion of the Georgian public reportedly supports this stance <a class="yt-timestamp" data-t="01:45:14">[01:45:14]</a>, <a class="yt-timestamp" data-t="01:45:17">[01:45:17]</a>. The Georgian Church has also played a very active role in this political struggle <a class="yt-timestamp" data-t="01:45:29">[01:45:29]</a>, <a class="yt-timestamp" data-t="01:45:34">[01:45:34]</a>.
+
+## Public Sentiment
+
+In 2021 and 2022, there was a strong anti-Russian atmosphere in Georgia, with young people expressing eagerness to fight [[russian_politics_and_putins_regime | Russia]] <a class="yt-timestamp" data-t="01:45:45">[01:45:45]</a>, <a class="yt-timestamp" data-t="01:45:51">[01:45:51]</a>, <a class="yt-timestamp" data-t="01:45:53">[01:45:53]</a>, <a class="yt-timestamp" data-t="01:45:57">[01:45:57]</a>, <a class="yt-timestamp" data-t="01:46:01">[01:46:01]</a>. However, this sentiment has reportedly shifted completely in the past year <a class="yt-timestamp" data-t="01:46:18">[01:46:18]</a>, <a class="yt-timestamp" data-t="01:46:21">[01:46:21]</a>, with the "wind" turning away from anti-Russian sentiment, an astonishing development <a class="yt-timestamp" data-t="01:46:23">[01:46:23]</a>, <a class="yt-timestamp" data-t="01:46:26">[01:46:26]</a>. The speaker plans to gather impressions on the ground during their visit <a class="yt-timestamp" data-t="01:46:34">[01:46:34]</a>, <a class="yt-timestamp" data-t="01:46:38">[01:46:38]</a>.

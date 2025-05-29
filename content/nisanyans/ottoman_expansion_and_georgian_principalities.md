@@ -1,0 +1,41 @@
+---
+title: Ottoman expansion and Georgian principalities
+videoId: cVZ6LmQM0ys
+---
+
+From: [[nisanyans]] <br/> 
+
+In the 16th century, the [[History and impact of the Ottoman Empire | Ottoman Empire]] began to expand its territory into the Caucasus region, following the defeat of the Iranian state in several wars, which led to the loss of its regional dominance <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>. This expansion brought the Ottomans into contact with not one, but two Georgian Kingdoms <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
+
+## The Jakeli Dynasty and Ottoman Policy
+One of these Georgian entities was a principality governed by the Jakeli dynasty <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. This dynasty had separated from the original Georgian kingdom in the 15th or late 14th century <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. The Jakeli rulers were devout Christians and used the Georgian language <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. After a war lasting approximately 20-22 years, fought in several successive waves, the Jakeli dynasty was defeated by the Ottomans <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>.
+
+The Ottoman policy in these marginal and distant regions was to offer local rulers the opportunity to maintain their principalities and dynasties in exchange for converting to Islam <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>. Following this policy, members of the Jakeli dynasty, specifically two brothers, traveled to Istanbul <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>. There, one adopted the name Mahmut Pasha and the other Süleyman Pasha <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. They continued their rule in the Çıldır region under the titles of Beylerbeyi and Sanjak bey <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+
+## The Çıldır Region
+The Çıldır region encompassed a significant area, including:
+*   Today's Ardahan province in its entirety <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>.
+*   The Georgian side, specifically Ahıska city and its region (Havza), and possibly Ahılkelek <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+*   The northernmost part of Kars, including a portion of Arpaçay district <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>.
+*   The Oltu and Tortum districts, northeast of Erzurum <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>.
+
+## Population and Demographics
+An Ottoman census conducted in 1595 provides detailed records of the population in this region <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. At this time, 20 years after the Ottoman conquest, all villages in Ardahan province contained Georgians, with some also having Armenians <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. The names of the people were predominantly Georgian, and there were churches in all villages, indicating a largely Christian population <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>. Only a few villages had one or two Muslim households <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>. Place names, including villages, hamlets, hills, fields, and rivers, were overwhelmingly Georgian, underscoring the region's Georgian character <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>.
+
+When the local rulers converted to Islam, some of the populace followed suit <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. This mirrored situations elsewhere, such as in Karadağ, where a local Muslim sanjak bey was appointed, but the majority of the populace remained Christian <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. By the early 1800s, some churches in the region were abandoned, but most remained intact, likely serving as pilgrimage sites or places for special prayers <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. This suggests the development of a mixed identity among the population <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a>.
+
+Despite claims in Turkist literature, there is no historical evidence of Kipchak Turks in the Ardahan region <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. While the Georgian Kingdom did import some Kipchak warriors in the 12th century for wars against Mongols and Turks, their settlement in this specific region is not historically documented <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>.
+
+Between the 1595 census and the early 18th century tax records, the population in the Ardahan region experienced a catastrophic decline <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. This was attributed not to massacres, but to bad governance and exploitation, leading to population depletion <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>. The period of [[History and impact of the Ottoman Empire | Ottoman rule]] in these regions was characterized by cruelty and poverty <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
+
+## Identity Crisis and Migration
+The Russian seizure of the Georgian Kingdom in 1801 created a dilemma for Georgians living under [[History and impact of the Ottoman Empire | Ottoman rule]], especially those who had partially converted to Islam <a class="yt-timestamp" data-t="00:11:22">[01:00:22]</a>. They faced a crisis of identity: were they subjects of the Georgian Kingdom or the Ottoman State? <a class="yt-timestamp" data-t="00:11:45">[01:00:45]</a>. Around 1828, during the Great Ottoman-Russian War, some Georgians in the region sided with the Russians and migrated, while others remained <a class="yt-timestamp" data-t="00:12:03">[01:01:03]</a>.
+
+Those who stayed began to assert a Turkish identity strongly and persistently <a class="yt-timestamp" data-t="00:12:19">[01:01:19]</a>. When the Russians captured Ardahan 50 years later and conducted population records, they identified the local populace as Turks, not Georgians <a class="yt-timestamp" data-t="00:12:33">[01:02:33]</a>. Contemporary travelers, including Europeans, Georgians, and Russians, claimed these locals were actually Georgians, noting their Georgian ancestral names and customs <a class="yt-timestamp" data-t="00:12:56">[01:02:56]</a>. However, the locals identified themselves as Turks <a class="yt-timestamp" data-t="00:13:19">[01:03:19]</a>.
+
+This shift in identity, particularly between 1801 and 1828, is seen as an ideological and psychological division <a class="yt-timestamp" data-t="00:13:38">[01:03:38]</a>. Some who remained under Ottoman rule and partially converted to Islam declared themselves Georgians and left, while others asserted "we are Turks" and stayed <a class="yt-timestamp" data-t="00:13:49">[01:03:49]</a>. Here, "Turk" was a political term, not a biological or lineage claim, signifying allegiance to the Turkish state <a class="yt-timestamp" data-t="00:14:10">[01:04:10]</a>.
+
+## "Çinçavat" and Ahıska Turks
+In addition to these "local Turks" (converted Georgians), other Muslim Turks speaking a different dialect, close to Azerbaijani, migrated from Russian territories to emptied villages in Ardahan around 1828 <a class="yt-timestamp" data-t="00:14:38">[01:04:38]</a>. These migrants, known as Karapapaks, became the dominant majority in Çıldır and Arpaçay districts <a class="yt-timestamp" data-t="00:15:07">[01:05:07]</a>. They referred to the local converted Georgians as "çinçavat" <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>, a derogatory term meaning "atheist" or "corrupted faith" derived from Armenian <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+
+The term "Ahıska Turks" was coined in the 1990s <a class="yt-timestamp" data-t="00:15:42">[01:05:42]</a>. While Ahıska is a province, defining its Turks based on an ethnic discourse is deemed problematic <a class="yt-timestamp" data-t="00:16:01">[01:06:01]</a>. This is seen as part of a broader issue where Turkey's national narrative relies on "nonsensical" and "stupid" ethnic claims <a class="yt-timestamp" data-t="01:06:32">[01:06:32]</a>.

@@ -1,0 +1,20 @@
+---
+title: Mustafa Kemals association with Vahdettin
+videoId: zskctntUh5Y
+---
+
+From: [[nisanyans]] <br/> 
+
+Mustafa Kemal's relationship with Vahdettin, particularly his appointment as Vahdettin's political caretaker, is a subject of historical inquiry <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+
+## Appointment as Political Caretaker
+
+In December 1917, Vahdettin became the new Crown Prince after the previous one's demise <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a> <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a> <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. With Sultan Reşad expected to die soon, Vahdettin was sent on an extended visit to Germany, an ally and protector during the war <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a> <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a> <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. [[mustafa_kemals_early_political_and_military_career | Mustafa Kemal]] was assigned as Vahdettin's political caretaker for this trip <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a> <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>. This was considered a very sensitive and vital task <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a> <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. Vahdettin, being over 60 years old, had never been involved in politics before and was described as a "shy, cowardly old gentleman" <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a> <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. His mission was to meet and engage with a powerful figure like the German Emperor during a life-or-death war <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a> <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
+
+## The Samsun Mission
+
+Later, Vahdettin played a role in sending [[mustafa_kemals_strategic_decisions_in_samsun_amasya_and_erzurum | Mustafa Kemal]] to Samsun with an important mission <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a> <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a> <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a> <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. The decree for this mission was signed by Damat Ferit Pasha <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. [[mustafa_kemals_strategic_decisions_in_samsun_amasya_and_erzurum | Mustafa Kemal]] was sent to Anatolia with "incredible authority" and a significant objective <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a> <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>. However, a question arises regarding [[mustafa_kemals_strategic_decisions_in_samsun_amasya_and_erzurum | Mustafa Kemal's]] subsequent actions, as he seemingly "suddenly turn[ed] against them" after arriving in Samsun, Amasya, and Erzurum <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a> <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a> <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a> <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>. This shift raises questions about a "double game" played by [[mustafa_kemals_strategic_decisions_in_samsun_amasya_and_erzurum | Mustafa Kemal]] <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a> <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
+
+## Unanswered Questions
+
+Such interactions with powerful figures like [[mustafa_kemals_early_political_and_military_career | Mustafa Kemal]] often leave questions unanswered, as leaders typically do not provide honest responses, especially when they possess a strong will and craft their own narratives <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a> <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a> <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a> <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a> <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a> <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a> <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.

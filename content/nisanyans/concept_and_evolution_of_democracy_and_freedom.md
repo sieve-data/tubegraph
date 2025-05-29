@@ -1,0 +1,53 @@
+---
+title: Concept and evolution of democracy and freedom
+videoId: 3wPtXNS7T5s
+---
+
+From: [[nisanyans]] <br/> 
+
+## The Nature of Democracy
+[[democracy_and_property_rights | Democracy]] is defined as a system of government, a method for establishing a balance between various differing views and interests within society, and a management system in general <a class="yt-timestamp" data-t="00:16:25">[00:16:25]</a>. It is argued that issues perceived as inherent to citizens might instead stem from the failure to establish an effective management system <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>.
+
+### Muslims and Democracy
+It's suggested that there is no inherent contradiction between Muslims and [[democracy_and_property_rights | democracy]] <a class="yt-timestamp" data-t="00:18:36">[00:18:36]</a>. While the theory of Islam might be rigid, Muslim individuals themselves exhibit the full spectrum of human tolerance and rigidity, from the most tolerant to the most exclusive <a class="yt-timestamp" data-t="00:17:27">[00:17:27]</a>. These traits are partly innate and partly influenced by education, social conditions, and psychological states <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>.
+
+## The Evolution of Freedom
+[[philosophical_exploration_of_political_power_and_freedom | Freedom]], as a political and social concept, is always defined as "freedom from something" <a class="yt-timestamp" data-t="00:36:50">[00:36:50]</a>. The human will and soul are inherently free, but societal freedom is restricted by authorities, laws, customs, beliefs, responsibilities, moral principles, and economic realities <a class="yt-timestamp" data-t="00:37:01">[00:37:01]</a>. The demand for freedom politically and socially is a demand to reduce or eliminate these restrictions <a class="yt-timestamp" data-t="00:37:39">[00:37:39]</a>.
+
+### Early Concepts: Freedom from Religious Authority
+The emergence of [[philosophical_exploration_of_political_power_and_freedom | freedom]] as a fundamental value in political discourse began in the late 17th century, particularly in England, the Netherlands, and Germany <a class="yt-timestamp" data-t="00:38:36">[00:38:36]</a>. Initially, this demand often came from religious sects seeking religious freedom, meaning their communities should be left alone by the state <a class="yt-timestamp" data-t="00:39:49">[00:39:49]</a>. At this time, the idea of a person living independently of religious authority had not yet been conceived <a class="yt-timestamp" data-t="00:40:53">[00:40:53]</a>.
+
+The concept of "religion" historically encompasses much more than just belief; it's a social authority system that organizes life, teaches values, determines daily rhythms, and regulates life's milestones like birth, marriage, and death <a class="yt-timestamp" data-t="00:31:41">[00:31:41]</a>. While belief in God, angels, and prophets aids the system's function, it's not mandatory for its existence <a class="yt-timestamp" data-t="00:30:40">[00:30:40]</a>.
+
+By the 18th century, especially after the French Revolution, the idea emerged that elite and educated individuals were not obligated to submit to religious authority and could live without religious customs or beliefs <a class="yt-timestamp" data-t="00:42:19">[00:42:19]</a>. This demand was initially exclusive to intellectuals and only began to extend to everyone in the early 20th century <a class="yt-timestamp" data-t="00:42:56">[00:42:56]</a>. This fundamental claim of liberalism became a defining feature of the modern age <a class="yt-timestamp" data-t="00:43:41">[00:43:41]</a>.
+
+### Second Wave: Freedom Against Societal Values
+After World War I, the ruling classes in Europe and the West suffered a collapse of reputation and authority, leading to an "incredible wind of [[philosophical_exploration_of_political_power_and_freedom | freedom]]" <a class="yt-timestamp" data-t="00:45:12">[00:45:12]</a>. This new wave of freedom was not against religion, but against the ossified values of society, the remnants of aristocracy, the wealthy, and established authorities (often white, older men) <a class="yt-timestamp" data-t="00:45:56">[00:45:56]</a>.
+
+Visible results of this wave include:
+*   **Clothing**: A revolution in women's clothing, with shortened skirts and hair, and the normalization of swimsuits <a class="yt-timestamp" data-t="00:47:37">[00:47:37]</a>.
+*   **Entertainment**: The rise of cafes and restaurants as primary social spaces where no one was superior to another <a class="yt-timestamp" data-t="00:48:17">[00:48:17]</a>.
+*   **Art**: The emergence of "modern art" which criticized and mocked societal values, marking a declaration of freedom from elite classes and their value judgments <a class="yt-timestamp" data-t="00:49:19">[00:49:19]</a>.
+
+This second wave of freedom, however, coincided with disasters like World War II <a class="yt-timestamp" data-t="00:50:32">[00:50:32]</a>.
+
+### Third Wave: Freedom from Bureaucracy
+After World War II, a new theory of freedom emerged, especially in the United States, linking [[philosophical_exploration_of_political_power_and_freedom | freedom]] with capitalism and contrasting it with the Soviet Union's control <a class="yt-timestamp" data-t="00:51:12">[00:51:12]</a>. The core of this theory was "freedom from bureaucracy" – freedom from the state, police, tax officers, and customs <a class="yt-timestamp" data-t="00:51:32">[00:51:32]</a>. This demand for relative freedom from administrative institutions became prominent in the 1940s, 50s, and 60s <a class="yt-timestamp" data-t="00:52:37">[00:52:37]</a>.
+
+### Fourth Wave: Freedom from Sexual Responsibility and Established Knowledge
+The fourth major freedom revolution occurred with university rebellions in the late 1960s, driven by an unprecedented explosion in university student numbers <a class="yt-timestamp" data-t="00:53:01">[00:53:01]</a>. This period saw two main dimensions of freedom:
+1.  **Freedom from sexual responsibility**: A declaration of independence from sexual responsibility <a class="yt-timestamp" data-t="00:54:04">[00:54:04]</a>. While this is seen as an inevitable perspective in youth, it's also recognized that sexual intercourse is a dangerous act with potentially long-term consequences and moral impasses <a class="yt-timestamp" data-t="00:54:48">[00:54:48]</a>. Historically, societies have developed institutions like marriage to control and mitigate these dangers, which the 1960s sought to push aside <a class="yt-timestamp" data-t="00:55:33">[00:55:33]</a>.
+2.  **Freedom against information/knowledge**: A rebellion against accumulated knowledge and experience, presenting "independence from information" as a great value <a class="yt-timestamp" data-t="00:56:32">[00:56:32]</a>. This was partly a reaction to knowledge being used as a propaganda tool by the authoritarian order post-WWII <a class="yt-timestamp" data-t="00:57:16">[00:57:16]</a>. However, this led to a perspective that knowledge itself is impossible, fundamentally falsifiable, and that knowing the truth is unattainable <a class="yt-timestamp" data-t="00:57:47">[00:57:47]</a>. In the short term, this destroyed ossified knowledge structures, but in the long term, it led to a "terribly uninformed generation" rising to administrative positions <a class="yt-timestamp" data-t="00:58:21">[00:58:21]</a>.
+
+## The Dynamics of Power and Obedience
+[[the_dynamics_of_power_and_dictatorship | Power]] often insists on defending absurd and empirically false claims as a test of loyalty <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>. For example, if a commander insists that "Çemişgezek" is the capital of France, a soldier who agrees out of fear demonstrates loyalty, whereas a soldier who states the truth (Paris) cannot be guaranteed to be loyal to the commander's orders <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. This dynamic ensures submission; the other person knows the lie but cannot object because this is how power is maintained <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>.
+
+This explains actions like institutions embracing the LGBT flag, even when it violates national laws (e.g., the U.S. flag code) <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. Such actions are seen as a "test of loyalty," gauging whether individuals are unconditionally loyal to authority or are "slippery" and seeking opportunities to dissent <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>. By imposing things that are impossible for a genuinely thinking person to obey, authorities identify those who will submit completely, especially for more serious issues like declaring war <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>.
+
+### The Rise of Authoritarianism
+A "1933 moment" is described, referring to the rise of the National Socialist Party in Germany <a class="yt-timestamp" data-t="00:13:55">[00:13:55]</a>. This parallel is drawn to a current situation in a country that is a pioneer in the Western world, where an openly authoritarian and dangerous ideology is gaining power step by step <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>. Many people, like those in Germany in 1933, tend to underestimate the danger, believing things will return to normal <a class="yt-timestamp" data-t="00:15:08">[00:15:08]</a>.
+
+## Knowledge, Education, and Freedom
+The concept of "rote-learning education" should be approached with suspicion, as knowledge is fundamentally acquired through memorization <a class="yt-timestamp" data-t="01:21:15">[01:21:15]</a>. Eliminating memorization destroys knowledge <a class="yt-timestamp" data-t="01:21:28">[01:21:28]</a>. The challenge lies in balancing knowledge acquisition with the [[philosophical_exploration_of_political_power_and_freedom | freedom]] of thought to question and criticize it <a class="yt-timestamp" data-t="01:21:35">[01:21:35]</a>.
+
+Furthermore, it is argued that the Western world, particularly universities, is currently suppressing [[philosophical_exploration_of_political_power_and_freedom | freedom]] of thought, with ideological control reaching terrifying dimensions <a class="yt-timestamp" data-t="01:20:48">[01:20:48]</a>. This contradicts the notion that countries like China cannot innovate due to a lack of freedom of thought, as China is now seen as technically advanced beyond imitation <a class="yt-timestamp" data-t="01:22:52">[01:22:52]</a>.

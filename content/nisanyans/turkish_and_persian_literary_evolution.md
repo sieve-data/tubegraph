@@ -1,0 +1,32 @@
+---
+title: Turkish and Persian literary evolution
+videoId: sFH8y1VEKMs
+---
+
+From: [[nisanyans]] <br/> 
+
+The historical interaction between Turkish and Persian cultures, particularly concerning language and literature, spans centuries, predating the commonly perceived fourteenth-century influence <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>. Evidence suggests a reciprocal exchange of concepts, products, and thought forms between Turkish and Iranian cultures as early as the sixth century, likely intensifying with the spread of Islam into Central Asia by the eighth century <a class="yt-timestamp" data-t="00:16:02">[00:16:02]</a>.
+
+## Seljuk and Mongol Eras
+
+A significant turning point in the relationship between the two languages occurred with the establishment of the Seljuk State in the eleventh century <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>. The Seljuks rapidly created a vast empire stretching from Bursa to the Great Wall of China and the borders of India <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>. This new political formation, despite being founded by Turks, was a continuation of the Old Persian Empire's traditions, institutions, borders, and even its religion <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>.
+
+Under the Seljuk Empire, the official language was Persian <a class="yt-timestamp" data-t="00:17:55">[00:17:55]</a>. For over 200 years, Turkish writing was almost entirely absent from official documents within the empire <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>. While the ruling class and military sovereignty belonged to the Turks, and Turkish was spoken, it was not used in administration, law, or institutional settings <a class="yt-timestamp" data-t="00:19:10">[00:19:10]</a>. Persian served as the dominant administrative and upper-class language, with Arabic also used for legal and religious texts <a class="yt-timestamp" data-t="00:19:10">[00:19:10]</a>.
+
+Following the collapse of the Seljuk State, the Mongol State emerged, covering similar territories <a class="yt-timestamp" data-t="00:19:39">[00:19:39]</a>. During the Mongol period, Persian remained the language of administration, correspondence, and daily life for most people <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a>. This meant that while Turkish was spoken, particularly by the military aristocracy and a small minority of Mongols who assimilated into the broader Turkish population, it was not the common language for interaction between different ethnic groups like Arabs, Turks, or Anatolian Greeks <a class="yt-timestamp" data-t="00:20:05">[00:20:05]</a>.
+
+## The Rise of Written Turkish (14th Century)
+
+A surprising shift occurred around 1310, following the collapse of the Ilkhanate State and the end of Mongol rule <a class="yt-timestamp" data-t="00:20:34">[00:20:34]</a>. Across a vast region encompassing Anatolian principalities (from Bursa to Karaman and Kütahya), the Volga River, Tabriz, Egypt, Samarkand, and Bukhara, Turkish began to be written almost simultaneously <a class="yt-timestamp" data-t="00:21:02">[00:21:02]</a>. This widespread adoption of written Turkish, as if by a common political decision, is still not fully explained <a class="yt-timestamp" data-t="00:21:23">[00:21:23]</a>.
+
+Early written Turkish texts were primitive and "raw," lacking the agility and richness of established written languages <a class="yt-timestamp" data-t="00:21:34">[00:21:34]</a>. They were often limited to propaganda, religious texts, practical transactions, or translations of the Quran <a class="yt-timestamp" data-t="00:21:55">[00:21:55]</a>. However, within two or three generations (by the mid-1350s to 1400), Turkish texts became extremely attractive, rich, and beautiful <a class="yt-timestamp" data-t="00:21:40">[00:21:40]</a>.
+
+As Turkish transitioned into a written language, it rapidly absorbed vocabulary and concepts from Arabic and Persian <a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>. For example, Aşıkpaşa's Masnavi, dated around 1310-1330, used a very limited vocabulary, primarily relying on Arabic and Persian loanwords <a class="yt-timestamp" data-t="00:23:12">[00:23:12]</a>. Over subsequent generations, the ratio of Arabic and Persian words in Turkish texts increased, contributing to more sophisticated and richer writing <a class="yt-timestamp" data-t="00:23:30">[00:23:30]</a>.
+
+## Efforts and Shifts in Turkish Literary Tradition
+
+From the 1300s to the late 1400s, significant efforts were made to establish Turkish as a formal written language and to create a Turkish literary tradition <a class="yt-timestamp" data-t="00:23:49">[00:23:49]</a>. This period saw the creation of original poems and widespread translation of existing works into Turkish <a class="yt-timestamp" data-t="00:24:48">[00:24:48]</a>.
+
+However, towards the end of Fatih Sultan Mehmet's reign, or shortly after, this active effort to develop Turkish writing largely ceased <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>. Instead, a new, artificial written language emerged, combining Arabic, Persian, and Turkish elements <a class="yt-timestamp" data-t="00:24:26">[00:24:26]</a>. This shift, which led to a pause in the intense translation work by the 1480s, is attributed to either encountering a "dead end" or changing socio-cultural conditions <a class="yt-timestamp" data-t="00:25:03">[00:25:03]</a>.
+
+> [!NOTE] [[historical_and_cultural_evolution_of_turkish_language | The historical and cultural evolution of Turkish language]] and [[historical_and_linguistic_reflections_on_the_turkish_language | historical and linguistic reflections on the Turkish language]] indicate that this process is complex and intertwined with broader historical developments. The shift in literary language reflects larger trends in [[continuity_and_change_in_turkish_history | Turkish history]]. Further insights into [[linguistics_and_etymology_of_turkish | linguistics and etymology of Turkish]] would explain the foreign influences. This transformation is also relevant to understanding [[publishing_and_literature_in_istanbul_during_early_20th_century | publishing and literature in Istanbul during early 20th century]] and the impact on [[notable_writers_in_turkish_literature | notable writers in Turkish literature]].

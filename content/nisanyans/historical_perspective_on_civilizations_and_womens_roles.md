@@ -1,0 +1,24 @@
+---
+title: Historical perspective on civilizations and womens roles
+videoId: Y6bqxNVd8SE
+---
+
+From: [[nisanyans]] <br/> 
+
+## Women in Modern Politics
+The current Turkish cabinet has faced criticism for including only one woman [00:24:03]. However, Turkey is set to appoint a woman to head the Eastern Central Bank for the first time in the country's history [00:24:19]. Globally, the presence of women in cabinet positions and as heads of state has become a "fashionable" trend, often presented as a benchmark for modernity, democracy, and progress [00:24:36], [00:24:53].
+
+Despite this trend, a critical view suggests that many contemporary women politicians, such as Nancy Pelosi, Germany's Foreign Minister, Finland's Prime Minister, Estonia's Prime Minister, Moldova's Prime Minister, the former Prime Minister of New Zealand, and Canada's Foreign Minister, exhibit incompetence and a lack of character [00:25:11], [00:26:24], [00:26:43]. These individuals are described as "the worst and corrupt politicians in history" [00:25:23], deeply "intertwined with evil" [00:25:37], and willing to "sell their children for personal gain" [00:25:48]. Their perceived "stupidity, incompetence and indifference" are seen as reaching a level synonymous with treason [00:26:52].
+
+The speaker questions why more intelligent and strong-charactered women, like Angela Merkel, do not rise to prominence in world politics [00:27:15], [00:27:42], [00:27:54], [00:28:00]. It is suggested that many women politicians are "mass-produced" figures [00:28:31], chosen for their image rather than their intellectual capacity or administrative skills [00:30:09]. This phenomenon is compared to the spectacle of electing figures who lack real functionality, merely serving as a public display while true governance remains hidden [00:29:46], [0:30:27], [0:30:45].
+
+## [[Cultural and historical perspectives on gender roles | Women's Roles in Primitive vs. Civilized Societies]]
+The concept of matriarchal societies has been a fashionable topic of search for a century, but no definitive evidence of a purely matriarchal society has been found at any historical stage [00:38:57], [00:39:01], [00:39:18]. While societies where property and lineage are traced through the mother exist, the division of labor between men and women has generally held similar qualities across most societies [00:39:24], [00:39:33].
+
+In primitive tribal societies, the separation between women's and men's roles is less pronounced [00:39:57], [00:40:08]. Women in these societies could take on male functions when necessary, engaging in activities like riding horses, fighting, and speaking fearlessly in assemblies [00:40:15], [00:40:24], [00:40:29]. Examples from pre-Islamic Arab societies, Greek epics like the *Iliad*, and primitive Native American tribes illustrate women's active and outspoken roles, sometimes even expressing strong opinions against men [00:40:43], [00:41:19], [00:41:41], [00:42:32], [00:42:47].
+
+The advent of civilization, however, brought about a "stricter and more comprehensive division of labor" [00:42:55], [00:43:03]. This included the professionalization of governance (state, city, army, church), the emergence of complex written cultures, and the establishment of landlord and commercial institutions [00:43:27], [00:43:35], [00:43:44]. Historically, this process consistently led to the restriction of women's visible roles outside the home [00:43:51], [00:44:05]. This trend is observed across various historical periods, including the advent of Islam, Christianity, the Roman Empire, European colonialism in America, and in civilizations like China and India [00:44:07], [00:44:13], [00:44:19], [00:44:23], [00:44:31].
+
+In primitive societies, there was often no clear boundary between public roles and private life, with communal decisions made in spaces close to homes [00:44:46], [00:44:53], [00:44:57]. With complex civilizations, the public sphere and the household sphere became distinctly separated, requiring travel to participate in state affairs [00:45:39], [00:45:43], [00:45:48], [00:46:08]. In this new structure, women were typically confined to the domestic sphere, told that their "dominance at home" was respected, but public affairs belonged to men [00:46:28], [00:46:33].
+
+This historical structure of gender roles could not be sustained into the 20th and 21st centuries, and society is now transitioning into a new era [00:46:54], [00:46:58]. However, it would be "absurd" to seek solutions for modern societal needs in the traditions of the pre-Islamic or pre-civilization eras [00:47:03], [00:47:14].

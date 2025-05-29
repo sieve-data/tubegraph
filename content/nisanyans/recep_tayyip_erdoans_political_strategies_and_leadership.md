@@ -1,0 +1,25 @@
+---
+title: Recep Tayyip Erdoans political strategies and leadership
+videoId: W_wvQ2HVbdQ
+---
+
+From: [[nisanyans]] <br/> 
+
+Questions have been raised regarding the speaker's changing stance on [[turkish_politics_and_political_figures | Recep Tayyip Erdoğan]], having previously praised him and now speaking critically <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. The speaker insists that their views on Erdoğan are consistent, based on four core themes <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
+
+## Political Acumen and Strategy
+[[challenges_and_strategies_in_political_leadership | Recep Tayyip Erdoğan]] is described as a "very smart person" and a "political genius" <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>. In crises, he acts contrary to what is expected by those considered smart, yet consistently wins and consolidates his power <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. A specific "political bend" he took during the 2013 incidents (December 7-17) is deemed a "masterpiece of political science" <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. While this move was considered "very immoral," it was also seen as something that would elicit admiration for its strategic brilliance <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. The speaker admits to misjudging Erdoğan's political longevity in 2011-2012, thinking he was leaving power <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+
+## Opposition's Inability to Counter
+The speaker suggests that the "expert, educated, intellectual, civilized" segment of society in Turkey is unable to grasp Erdoğan's political reality, possibly due to "political hatred or maybe even class hatred" <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. Erdoğan is seen to consistently outmaneuver them, leaving them in a "counterpoint" and "dancing around them" for 21 years <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>. The opposition has not only failed to learn but has become "more and more stupid" and unable to understand his strategies <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. A key to his 21-year tenure is not the "stupidity of the Turkish people" but the lack of a "credible alternative" <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+
+## Foreign Policy
+The speaker believes that [[turkish_political_transformation_and_international_relations | Recep Tayyip Erdoğan's]] foreign policy, though having made "ridiculous mistakes," is fundamentally the "right policy" given the rapidly shifting global axis <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>. Maintaining Turkey's "relative independence and distance" in an environment where the Western world is perceived to be "sinking" is crucial <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>. Doubts exist regarding the opposition's will, determination, and skill to pursue similar policies, even if they align with a state consensus <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+
+## Personal Characteristics and Criticisms
+The speaker notes a growing "antipathy" towards Erdoğan since his time as Istanbul Mayor, which became "unbearable" after the recent earthquake <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. Erdoğan's discourse is characterized by "hatred, hate and threats," with his entire communication based on "hating someone, instilling hatred and threatening" <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>. This tactic is compared to Adolf Hitler's method of choosing a target and "spewing hatred at them" to gain popularity <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>. This "hate feast" is seen as making people sick, leading to despair, and hindering constructive thought and solidarity <a class="yt-timestamp" data-t="00:12:22">[00:12:22]</a>. The speaker concludes that Erdoğan is a "sociopath" <a class="yt-timestamp" data-t="00:12:49">[01:21:18]</a>.
+
+## Political Stance and [[current_political_landscape_in_Turkey | Elections]]
+Until the earthquake, the speaker's voting tendency was "50-50" between [[challenges_and_criticism_of_opposition_leadership_in_Turkey | Kemal Kılıçdaroğlu]] and [[turkish_politics_and_political_figures | Recep Tayyip Erdoğan]], with a slight leaning towards Erdoğan (51% Erdoğan) <a class="yt-timestamp" data-t="01:00:30">[01:00:30]</a>. After the earthquake, the speaker's stance shifted due to a feeling of "enough is enough," leaning towards Kılıçdaroğlu (51% Kılıçdaroğlu) <a class="yt-timestamp" data-t="01:41:23">[01:41:23]</a>. However, the perceived inability of the opposition to offer a credible alternative after the earthquake has caused the speaker's perspective to waver again <a class="yt-timestamp" data-t="01:15:12">[01:15:12]</a>.
+
+The speaker expresses skepticism about the upcoming [[turkish_political_climate_and_elections | elections]], suggesting they may be postponed unconstitutionally. This could set a precedent for future postponements <a class="yt-timestamp" data-t="00:53:29">[00:53:29]</a>.

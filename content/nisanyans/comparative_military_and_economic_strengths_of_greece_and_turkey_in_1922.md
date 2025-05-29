@@ -1,0 +1,39 @@
+---
+title: Comparative military and economic strengths of Greece and Turkey in 1922
+videoId: 7c__HQYg6rs
+---
+
+From: [[nisanyans]] <br/> 
+
+In the period known as the War of Independence, from 1919 to 1922, the question of whether the national movement in Ankara could have been revived if the Greeks had captured Ankara and overthrown the organization was explored <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+
+Initially, the international platform promised Greece only the province of Izmir and the district of Ayvalık <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>, <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>. This was conceived as a "police operation" by Allied countries, including Greece, to maintain public order in [[election_dynamics_in_greece_and_trkiye | Türkiye]] <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>, <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. Greek troops were landed in Izmir and Ayvalık to provide a safe haven for Greek refugees who had been deported from the entire Aegean Region <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>. The British, French, Italians, and Americans did not suggest annexation at that time <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>, viewing the Greek presence in Izmir and Ayvalık as a security measure until a peace treaty <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+
+The Treaty of Sevres in 1920 was a "very strange text" and a "bargaining document" <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>, <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. It envisaged a five-year occupation of Izmir and Ayvalık, followed by a referendum, which implied these areas would eventually be given to the Greeks <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+
+## Greek Military Operations and Objectives
+
+Beyond the initial landing, the Greek army launched two major waves of operations in 1920 and 1921 <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. They expanded beyond Izmir province, invading Nazilli, Bursa, and Aydın, and in the second wave, reached the Sakarya River, aiming to capture Ankara <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>, <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>, <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+
+The aim of these operations was not to annex Western Anatolia to Greece <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. Instead, it was a "punitive operation" to force the Ankara government to surrender, bargain, or accept the Treaty of Sevres (or its amended versions), or to eliminate the Ankara government and deal directly with Istanbul <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>, <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>, <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>.
+
+If the Greek operation had been successful, and Ankara had fallen, the outcome would have been a London Conference where the Treaty of Sevres would be reformulated <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>, <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. Greece would have secured Izmir and the Aegean coast <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. Istanbul might have seen a consortium or collective management that included Greeks <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>. This scenario would have made England the sole diplomatic player in [[analysis_of_turkeys_geopolitical_strategies_and_alliances | Turkey]], widening serious rifts with France and Italy <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>, <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.
+
+## Comparative Strengths
+
+At the time, the possibility of the Greek victory over the Ankara government in 1921 or 1922 was not taken seriously by many <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>.
+
+### Population and Economy
+*   **Population**: [[election_dynamics_in_greece_and_trkiye | Türkiye]]'s population was four or five times that of Greece <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>. The political population in the Aegean Region was overwhelmingly Turkish <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>.
+*   **Economy**: [[election_dynamics_in_greece_and_trkiye | Türkiye]]'s economy was at least three times larger than Greece's <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
+
+### Military and Administrative Capacity
+*   **Army Size**: The Greek army and the re-established TBMM army (Turkish Grand National Assembly) in 1922 were "more or less at the head" in terms of soldier numbers, with a figure of around 190,000-200,000 mutually <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+*   **War Tradition**: The Turkish army possessed a centuries-old war and weapon tradition <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
+*   **Administrative Class**: [[election_dynamics_in_greece_and_trkiye | Turkey]] had an "extremely developed" administrative class, even more so than Greece, consisting of officers, Military Academy graduates, Civil Service graduates, governors, ministers, newspaper publishers, columnists, and university professors <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>.
+
+### Strategic Implications
+*   **Long-Term War**: It was understood that if a war between Greece and [[election_dynamics_in_greece_and_trkiye | Türkiye]] lasted longer than one to two years, Greece had "no chance" of winning <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>, <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>, <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>. This was known by the British, French, and the world <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>.
+*   **External Support**: Greece's only chance for victory was if England provided "strong weapons support," as well as equipment and financial support, for a swift, initial calculation to disband the unorganized Ankara government's army <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>. However, once the conflict dragged on and became a frontal, stagnant war, particularly after the Battle of Sakarya, Greece had no chance <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>.
+
+Even if defeated, the Turkish community, representing the overwhelming majority, would not remain silent. They would engage in a struggle through economic, social, political means, propaganda, and organization <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>, <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>, <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. An English management style of using Greece against [[election_dynamics_in_greece_and_trkiye | Türkiye]] would have emerged <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>. A [[election_dynamics_in_greece_and_trkiye | Turkey]] established under British rule, similar to Hungary, Bulgaria, Germany, or Austria at the time, would have joined an "avengers camp," seeking revenge for perceived mistreatment in the First World War <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>, <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>. It is believed that such a [[election_dynamics_in_greece_and_trkiye | Turkey]] would have joined Germany's side in a conflict arising around 1938-1939, potentially altering the entire history of the World Wars <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>, <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.

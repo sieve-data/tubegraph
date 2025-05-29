@@ -1,0 +1,26 @@
+---
+title: Irans geopolitical situation and potential conflicts
+videoId: 9FlnsBh6O6A
+---
+
+From: [[nisanyans]] <br/> 
+
+The topic of [[israeliran_tensions_and_global_geopolitics | Iran]]'s geopolitical situation and potential conflicts was discussed, particularly in the context of US foreign policy and military capabilities.
+
+## Potential Conflicts and US Policy
+The possibility of war with [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] was raised as a potential point of conflict that could cause disagreement within the US government, for instance, between a US President and their advisors <a class="yt-timestamp" data-t="00:22:06">[00:22:06]</a>.
+
+The idea that [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] could be easily "destroyed" in a few days is dismissed as "empty bragging" <a class="yt-timestamp" data-t="01:17:33">[01:17:33]</a>. This perspective draws a parallel with the US experience in Afghanistan, noting that the US was unable to achieve a quick victory there despite significant efforts, ultimately facing defeat <a class="yt-timestamp" data-t="01:17:22">[01:17:22]</a>.
+
+It is asserted that the alliance between the United States and Israel likely cannot defeat [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] without resorting to nuclear weapons <a class="yt-timestamp" data-t="01:18:15">[01:18:15]</a>. Even if a military defeat were possible, the speaker questions how such a victory would be defined or what would follow, suggesting that invading [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] is beyond America's current power <a class="yt-timestamp" data-t="01:18:31">[01:18:31]</a>. The notion of overthrowing the Iranian regime is also viewed as a "dream" <a class="yt-timestamp" data-t="01:18:47">[01:18:47]</a>, citing the inability of foreign powers to overthrow regimes in Russia or Syria as examples <a class="yt-timestamp" data-t="01:18:52">[01:18:52]</a>.
+
+### The Iranian Regime and Society
+While acknowledging that certain aspects of the Iranian regime, such as dress regulations and the morality police, are "intolerable" and seen as reasons for rebellion within Iranian society <a class="yt-timestamp" data-t="01:19:39">[01:19:39]</a>, it is also stated that the achievements of the Iranian regime over the 40-50 years since the Shah are significant and have "radically changed their lives for the better" for the overwhelming majority of the Iranian people <a class="yt-timestamp" data-t="01:19:59">[01:19:59]</a>.
+
+It is believed that the Iranian people have no intention of getting rid of the current regime <a class="yt-timestamp" data-t="01:20:16">[01:20:16]</a>, and those who think this can be achieved through war are considered "terribly foolish" and "in a dream" <a class="yt-timestamp" data-t="01:20:22">[01:20:22]</a>. While external forces might "destroy the society" as seen in Syria, they cannot end the war or overthrow the regime <a class="yt-timestamp" data-t="01:20:38">[01:20:38]</a>.
+
+### Prospects of an [[israeliran_tensions_and_global_geopolitics | Israel]]-[[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] War
+In the event of an [[israeliran_tensions_and_global_geopolitics | Israel]]-[[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] war, the United States would "absolutely inevitably" intervene <a class="yt-timestamp" data-t="01:21:29">[01:21:29]</a>. Despite this, the probability of [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] winning such a conflict, with US intervention, is estimated at 55-60% <a class="yt-timestamp" data-t="01:21:32">[01:21:32]</a>. It is also considered unlikely that Russia or China would allow [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] to collapse or be occupied by the US <a class="yt-timestamp" data-t="01:21:02">[01:21:02]</a>.
+
+## Historical Context
+In the 1720s and 1730s, an Avshar leader named Nadir Khan seized power in [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]], leading a significant period of power for about 20-30 years <a class="yt-timestamp" data-t="01:13:04">[01:13:04]</a>. He led a revolution that helped [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]], which had been in a state of degeneration, recover <a class="yt-timestamp" data-t="01:13:12">[01:13:12]</a>. Nadir Khan defeated both the Ottomans and the Afghans <a class="yt-timestamp" data-t="01:13:23">[01:13:23]</a>. After his death, [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] fell into chaos <a class="yt-timestamp" data-t="01:13:30">[01:13:30]</a>. Some of Nadir Khan's followers, a mixed group with a significant number of Turkish speakers, later migrated to Anatolia, particularly settling in the Kayseri region, and were referred to as Avshars <a class="yt-timestamp" data-t="01:13:36">[01:13:36]</a>. There are also villages named Avshar in the geography of Western [[the_evolving_roles_of_regional_powers_such_as_turkey_iran_and_russia | Iran]] <a class="yt-timestamp" data-t="01:14:45">[01:14:45]</a>.

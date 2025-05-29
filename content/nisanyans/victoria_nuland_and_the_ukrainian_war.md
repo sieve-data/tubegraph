@@ -1,30 +1,32 @@
 ---
-title: Victoria Nuland and the Ukrainian War
+title: Victoria Nuland and the Ukrainian war
 videoId: 8Zl7zDwdILk
 ---
 
 From: [[nisanyans]] <br/> 
 
-Victoria Nuland's resignation was noted as one of the most striking news stories worldwide <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. She held a position equivalent to an undersecretary or deputy undersecretary in the American Ministry of Foreign Affairs <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>.
+Victoria Nuland's resignation was considered one of the most striking news stories worldwide <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. She held a position as the second or third minister, or an undersecretary or deputy undersecretary, within the Ministry of Foreign Affairs of America <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. She is regarded as the main architect of the [[RussiaUkraine Conflict and NATO Involvement | Ukrainian War]] <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
 
-## Role in the [[russian_ukraine_conflict_and_its_implications | Ukrainian War]]
+## Role in the 2014 Ukrainian Coup
 
-Nuland is identified as the main architect of the [[russia_ukraine_conflict_and_geopolitical_dynamics | Ukrainian War]] <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. The speaker states that the war began with a "masterfully planned and skillfully staged coup" in Ukraine in 2014 <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>. This was described as a modern-style coup, not military, but involving the domination of bureaucratic structures, propaganda tools, street organizations, and secret organizations <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
+In 2014, a "masterfully planned and skillfully staged coup" took place in Ukraine, which Nuland organized <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>. This was described as a "modern style" coup, relying on the domination of bureaucratic structures, propaganda tools, street organizations, and secret organizations working together <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
 
-Key events of the 2014 coup:
-*   A "color revolution" movement was provoked, organized, and supported, based on partially justified reasons <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
-*   This movement was triggered by discussions over Ukraine signing a trade agreement with the European Union <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>.
-*   People gathered in the main square, demonstrating to overthrow the government <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>.
-*   Unidentified individuals opened fire on the crowd, resulting in hundreds of deaths <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
-*   Armed groups seized key locations in Odessa <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>.
-*   The Ukrainian parliament was raided, deputies were threatened, and the elected president was forced to resign and flee the country <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>.
+The coup involved:
+*   Provoking, organizing, and supporting a "color revolution" movement based on partially justified reasons <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
+*   A street movement that began when Ukraine considered signing a trade agreement with the [[Western countries and their approach to the Ukraine conflict | European Union]] <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>.
+*   People gathering in the main square, demonstrating, and forming a protest movement aimed at overthrowing the government <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>.
+*   Unidentified individuals opening fire on the crowd, resulting in hundreds of deaths <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
+*   Armed groups seizing key locations in Odessa <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>.
+*   Armed groups raiding the Ukrainian parliament, threatening deputies, and forcing the elected president to resign and flee the country <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>.
 
-Victoria Nuland was the organizer of this coup, which marked the beginning of the [[russian_ukraine_conflict_and_its_implications | Ukrainian War]] <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>.
+The [[RussiaUkraine Conflict and NATO Involvement | Ukrainian War]] is said to have begun with this coup <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>.
 
-## Connection to Past Conflicts and Political Affiliations
-Prior to her role in Ukraine, Nuland was also a leader and organizer of the Iraq War <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>, and played a significant part in "selling this war to the public" <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. She is described as a loyal member of the "neo-conservative group," which is seen as having "effectively seized power in the United States in a coup" since 2000 <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>. Nuland is considered a second-generation member of this group and a protégé of Dick Cheney, who served as Vice President under George W. Bush and was effectively the de facto president during that period <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>. She rose through the bureaucracy <a class="yt-timestamp" data-t="01:10:04">[01:10:04]</a>.
+## Previous Involvement: The Iraq War
 
-## Implications of Nuland's Resignation
-Victoria Nuland's resignation, especially in an election year, is seen as an indication that "something is going very radically wrong" <a class="yt-timestamp" data-t="01:10:10">[01:10:10]</a>. It suggests that the decision-making leadership in the [[western_involvement_in_the_ukraine_war | West]] has recognized that the [[russia_ukraine_conflict_and_geopolitical_dynamics | Ukraine War]] is lost and that its consequences will be "terrible, terrible" <a class="yt-timestamp" data-t="01:10:32">[01:10:32]</a>. This realization has led to panic and confused behavior among Western leaders, including statements by Macron about potential World War and disagreements within German military echelons <a class="yt-timestamp" data-t="01:10:46">[01:10:46]</a>.
+Before her role in Ukraine, Nuland was also a key organizer and one of the leaders of the Iraq War <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>. She played a major part in selling the war to the public <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. She was identified as a loyal member of the neo-conservative group that gained significant power in the United States since 2000 <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>. She was also a protégé and trusted associate of Dick Cheney, who was the de facto president of the United States during the younger Bush's presidency <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a>.
 
-The speaker expresses hope that Nuland and others responsible for these conflicts will be tried and sentenced for their crimes, drawing a parallel to the trials after World War I <a class="yt-timestamp" data-t="01:12:17">[01:12:17]</a>.
+## Significance of Her Resignation
+
+Victoria Nuland's forced resignation, especially in an election year, suggests that something is going "very radically wrong" regarding the [[the_ukraine_war_and_its_impact_on_nato_and_global_alliances | Ukraine War]] <a class="yt-timestamp" data-t="01:07:07">[01:07:07]</a>. It appears that decision-makers in the [[Western countries and their approach to the Ukraine conflict | West]] have realized that the [[russiaukraine_conflict_and_geopolitical_analysis | Ukraine War]] is lost and that its consequences will be severe <a class="yt-timestamp" data-t="01:07:07">[01:07:07]</a>. This realization has led to panic and confused actions from [[current_geopolitical_tensions_involving_nato_and_russia | European]] leaders like Macron, who made statements about starting a World War, and Ursula Von Der Leyen, whose remarks reflected a "groundbreaking situation" <a class="yt-timestamp" data-t="01:11:08">[01:11:08]</a>. Major disagreements have also emerged within the German military echelons <a class="yt-timestamp" data-t="01:11:39">[01:11:39]</a>.
+
+These behaviors are interpreted as responses to the likely loss of the [[russiaukraine_conflict_and_geopolitical_analysis | Ukrainian War]] in a short time and the understanding that the repercussions will be much worse than anticipated <a class="yt-timestamp" data-t="01:11:45">[01:11:45]</a>. Nuland's resignation is seen as a positive development <a class="yt-timestamp" data-t="01:12:11">[01:12:11]</a>. The hope is that individuals like her will be tried and sentenced for their crimes, similar to the trials after World War I <a class="yt-timestamp" data-t="01:12:34">[01:12:34]</a>.

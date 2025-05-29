@@ -1,0 +1,18 @@
+---
+title: Historical significance of Antakya and St Peters Cave Church
+videoId: DaYE7IxoxS8
+---
+
+From: [[nisanyans]] <br/> 
+
+Antakya holds significant historical importance, particularly in the context of Christian history <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. Following the Roman Empire's exile of Jews from Jerusalem after Jesus' crucifixion, the first Christian community, comprising Jesus' disciples, migrated and settled in Antakya <a class="yt-timestamp" data-t="00:04:45">[00:05:03]</a>. It is in Antakya that the name "Christian" was first used <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>. Furthermore, the city saw the emergence of the first congregation organization, including permanent meetings and customs like weekly gatherings <a class="yt-timestamp" data-t="00:05:20">[00:05:28]</a>. Theoretically, the first Christian church building or meeting hall would have been established in Antakya <a class="yt-timestamp" data-t="00:05:32">[00:05:46]</a>.
+
+## St. Peter's Cave Church: Claims and Historical Scrutiny
+
+The St. Peter's Cave Church in Antakya is currently a museum <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a> and is often referred to as the world's oldest church <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. However, this claim is dismissed as "empty nonsense" <a class="yt-timestamp" data-t="00:04:27">[00:04:29]</a>. Historically, there is no evidence that Christians were persecuted during the early period in Antakya; significant persecution in the Roman world primarily began in the 3rd century, with only "very suspicious events" linked to Nero's era <a class="yt-timestamp" data-t="00:05:52">[00:06:06]</a>. The speaker questions why early Christians, if not persecuted, would gather in a cave rather than accessible city locations like the market or a friend's house <a class="yt-timestamp" data-t="00:06:09">[00:06:21]</a>.
+
+The "invention" or "discovery" of the site now known as St. Peter's Church occurred after the Crusader invasion of Antakya in 1098 <a class="yt-timestamp" data-t="00:06:27">[00:06:44]</a>. Following their capture of the city under Godf Buyon, the Crusaders, who were supposed to return it to the Byzantine state, established their own "illegitimate government" <a class="yt-timestamp" data-t="00:06:49">[00:07:22]</a>. A "divine sign" was needed to legitimize their rule <a class="yt-timestamp" data-t="00:07:24">[00:07:30]</a>. A cross was "found" hidden in a cave near Antakya, attributed to early Christians, which was then presented as the church where the first Christians gathered <a class="yt-timestamp" data-t="00:07:33">[00:07:54]</a>. This became a local legend <a class="yt-timestamp" data-t="00:07:58">[00:08:02]</a>.
+
+In the 1860s, France, aiming to expand the influence of the Catholic Church in the Middle East, saw an opportunity <a class="yt-timestamp" data-t="00:08:19">[00:08:24]</a>. In 1863, with papal initiative under direct French control, the church attributed to St. Peter was repaired and ceremonially opened, and it was officially declared the "oldest and first church in the world" <a class="yt-timestamp" data-t="00:08:28">[00:08:52]</a>. This development is described as politically motivated <a class="yt-timestamp" data-t="00:08:52">[00:09:06]</a>.
+
+The celebration of Christmas mass by the Greek Orthodox community of Antakya in this old church is welcomed, especially given the "painful and very scary days" and "great persecution" faced by Christian communities in Syria <a class="yt-timestamp" data-t="00:09:09">[00:09:22]</a>. The hope is expressed that the "terrible, dangerous and bloody Chaos" in Syria will not spread to [[Turkey | Türkiye]] <a class="yt-timestamp" data-t="00:09:47">[01:00:07]</a>.

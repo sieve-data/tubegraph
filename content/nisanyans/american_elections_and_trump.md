@@ -1,0 +1,42 @@
+---
+title: American elections and Trump
+videoId: 5Nuq6F-m0TM
+---
+
+From: [[nisanyans]] <br/> 
+
+The upcoming American elections are viewed as unprecedented in their tension, with political parties seeing each other as enemies <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>. The outcome is anticipated to be complicated <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+
+## Donald Trump's Electoral Standing
+Current indications and sociological data, along with observations from independent sources, suggest that [[Political landscape and candidates in American elections | Donald Trump]] is significantly ahead <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. He appears to be leading in all crucial states <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a> and has garnered strong support in demographics that historically did not vote for him <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. His rallies are notably larger and more enthusiastic than those of [[Political landscape and candidates in American elections | Kamala Harris]] <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
+
+Twitter has recently emerged as the world's most trusted and utilized news platform, excluding China and Russia <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. The platform's owner and manager has expressed strong, even "teenager-like" enthusiasm and support for the [[Political landscape and candidates in American elections | Trump]] campaign, an endorsement expected to have considerable impact <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>.
+
+It is strongly believed that [[Political landscape and candidates in American elections | Trump]] will win the election, potentially by a wide margin <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+
+## Post-Election Environment
+Regardless of the outcome, the election result is expected to be highly contested <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. The opposing side views "crushing and ostracizing" [[Political landscape and candidates in American elections | Trump]] as a national and humanitarian imperative, even if it goes beyond legal and moral boundaries <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. This suggests that claims of a rigged election and fraud are likely to follow <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>, potentially leading to significant internal turmoil <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
+
+### Allegations of Election Fraud
+One of the primary methods for alleged fraud in the United States involves mail-in voting <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>. This method makes it challenging to verify voter identities and who truly cast a ballot <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. On election night, after polls close, lists of non-voters can be quickly identified <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. This information allows for the "manufacturing" of hundreds of thousands of votes for those who did not participate, with these ballots arriving at election centers a day or two after the election <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. This method is described as "simple, clean, legal, easy" <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>.
+
+In the 2020 elections, particularly in critical cities and districts, "unprecedented voting rates" of 190% to 195% were observed <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. Areas that previously had 50-60% turnout rates saw 190-196% turnout <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>.
+
+A second, riskier method of fraud occurs in states where postal voting closes on election night <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. In these cases, statistically identified non-voters (e.g., those who haven't voted recently, the mentally ill, the elderly, or those in hospitals) have their ballots collected and filled out in an organized manner, such as ballots sent to nursing homes <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>. These are then mailed in <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. The electoral process, referred to as the "democratic method," is thus characterized as a fraud <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>, with no immediate signs of correction <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.
+
+## Trump's Policy and Administration
+Despite the expectation of a [[Political landscape and candidates in American elections | Trump]] victory, skepticism remains regarding his ability to implement meaningful changes or fulfill his election promises <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. His core policies are not expected to deviate significantly from the existing American state <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>.
+
+The coalition forming around [[Political landscape and candidates in American elections | Trump]] is seen as noteworthy, including figures like [[Political landscape and candidates in American elections | Robert Kennedy]], [[Political landscape and candidates in American elections | Elon Musk]], and [[Political landscape and candidates in American elections | Vivek Ramaswamy]] <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>. These individuals are perceived as more "decent" and trustworthy compared to those seen in American politics over the last 25-45 years <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. The Vice Presidential candidate, [[Political landscape and candidates in American elections | J.D. Vance]], is also noted as someone who could significantly influence American politics in the next decade <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. However, it is speculated that [[Political landscape and candidates in American elections | Trump]] may attempt to "purge" these individuals if his election is confirmed <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+
+### Geopolitical Predictions
+If [[Political landscape and candidates in American elections | Trump]]'s election is validated, two major events are predicted:
+1.  The end of the Ukraine War with a Russian victory <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>.
+2.  A significant Middle East War, potentially as compensation for the Ukraine outcome, with active US involvement <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>.
+The individuals [[Political landscape and candidates in American elections | Trump]] is considering for key ministries like Foreign Affairs and Defense are expected to take aggressive stances <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>, indicating a "reckless dive" into a Middle East conflict <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>.
+
+## Comparison to Erdoğan
+[[Political landscape and candidates in American elections | Donald Trump]] and [[Turkeys political power dynamics and election analysis | Recep Tayyip Erdoğan]] are compared, noting their similarities as successful politicians, differing only in religion <a class="yt-timestamp" data-t="01:11:54">[01:11:54]</a>. Both are described as capable of "telling 10 lies" while standing on one leg and being "better politicians than their opponents" <a class="yt-timestamp" data-t="01:12:08">[01:12:08]</a>. While not explicitly liked, they are presented as the "lesser of two evils" when compared to their respective alternatives <a class="yt-timestamp" data-t="01:12:24">[01:12:24]</a>.
+
+## Global Election Fraud
+The speaker notes that there is "very obvious fraud in all elections in the world" today, including in [[Turkish political climate and elections | Türkiye]], America, and other countries <a class="yt-timestamp" data-t="01:23:40">[01:23:40]</a>. This widespread fraud stems from the bureaucracy, intelligence organizations, and security/military organizations holding too much power to allow for truly random voter preferences <a class="yt-timestamp" data-t="01:24:05">[01:24:05]</a>. Consequently, it is argued that a "serious election" is no longer possible in any country <a class="yt-timestamp" data-t="01:24:46">[01:24:46]</a>.

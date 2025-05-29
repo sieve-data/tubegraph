@@ -1,0 +1,67 @@
+---
+title: Discussion on Sociopolitical Context and the Concept of Ottoman Commonwealth
+videoId: TTvkZEs9usU
+---
+
+From: [[nisanyans]] <br/> 
+
+The speaker reflects on the sociopolitical context of Türkiye, tracing issues back to the 1930s, and discusses the concept of an [[historical_account_of_the_ottoman_empire_and_its_legacy | Ottoman Commonwealth of Nations]].
+
+## Reflections on Societal Ills and Historical Trauma
+
+The speaker identifies a profound social disease in Türkiye, with roots extending back to the 1930s <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. This disease is characterized by a lack of moral anchor, cultural depth, and personal richness among individuals who have come to occupy critical positions in society <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+
+### The Regime of Terror (1923-1938)
+From 1923 to 1938, Türkiye lived under a regime of terror <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>. During this period, people were terrified on many levels, living in a tunnel of fear without knowing what might happen to them <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. The prevailing assumption was that freedom would come once the leader died <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>.
+
+However, upon the leader's death on November 10, 1938, something "very strange" occurred: people lost their honor, burying their personalities with him, unable to overcome their fear and shame <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. This psychological damage of not being able to speak in 1938 is seen as the basic starting point of the social disease known as Kemalism or Ataturkism <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>. It involved a suppression of consciousness and fear being pushed into the subconscious <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>.
+
+### Comparison to Other Regimes
+A similar fear was observed in the Soviet Union during Stalin's era and in Germany during Hitler's time <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>. These regimes featured dictators whose wisdom was unquestionable and who were above all law, acting with impunity in all aspects of life <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>.
+
+### Differing Paths to Overcoming Trauma
+*   **Germany**: Hitler's defeat and suicide helped German society to overcome its trauma, albeit imperfectly <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>.
+*   **Soviet Union**: Stalin was buried three years after his death, and mistakes were revealed <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>. This self-criticism and process of overcoming Stalin, while done hypocritically and quietly due to fears of regime overthrow, still occurred <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.
+*   **Türkiye**: Initial attempts were made during the İnönü period to make Atatürk forgotten, including removing his photographs from money and delaying a monumental grave <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. Atatürk monuments were renovated and made less visible <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. However, with the change of government in 1950, a policy of putting the past "in a museum" was adopted <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>. An Atatürk protection law was passed, his tomb was built and transformed into a national symbol, and his image was put back on money <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>. The hope was that he would gradually be forgotten as a symbol with emptied content <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+
+Instead, a dead and buried man was "taken out of his grave" and made part of a mechanism to create division and an internal enemy within the country <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>. A mythology around Atatürk, becoming increasingly absurd, was turned into a "halo of holiness," used as a loyalty test for career advancement <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>. This was evident in the 1960s and again in the 1980s <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>. The speaker suggests that the Republic of Turkey's "great experiment" ending in a "great fiasco" within 100 years is primarily due to society's failure to confront the reality of Atatürk and his past <a class="yt-timestamp" data-t="00:13:33">[00:13:33]</a>.
+
+### The Case of Halit Ziya Uşaklıgil's "A Bitter Story"
+The speaker discusses Halit Ziya Uşaklıgil's 1945 book, "A Bitter Story," which tells the tragic tale of his son Vedat <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>.
+
+*   **Background**: Halit Ziya Uşaklıgil was a famous novelist, a representative of the [[impact_of_elite_policies_on_ottoman_society | Ottoman aristocracy]] during the Constitutional Monarchy, extremely cultured, and a large landowner <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>. His cousin, Latife Uşaklıgil, was Atatürk's wife <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>.
+*   **Vedat's Tragedy**: Vedat had stayed at the Çankaya mansion as a guest of Latife Hanım <a class="yt-timestamp" data-t="00:16:27">[00:16:27]</a>. Rumors at the time suggested that Vedat was the reason Latife and Atatürk never got along again <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>. Vedat was sent to Istanbul, later given a position in the Ministry of Foreign Affairs on Atatürk's instructions, but encountered significant difficulties, culminating in his suicide in 1937 while serving at the Albanian embassy in Tirana <a class="yt-timestamp" data-t="00:17:23">[00:17:23]</a>.
+*   **The Book's Deeper Meaning**: While ostensibly an effort to protect his son's honor <a class="yt-timestamp" data-t="00:18:19">[00:18:19]</a>, the speaker interprets it as an attempt by Halit Ziya to protect himself <a class="yt-timestamp" data-t="00:18:44">[00:18:44]</a>. The book details how Vedat was subjected to great injustices, leading to his suicide, but notably omits any information about the nature or reasons for these injustices <a class="yt-timestamp" data-t="00:19:35">[00:19:35]</a>. This silence is unsettling, especially given widespread rumors about Vedat that were not mentioned <a class="yt-timestamp" data-t="00:20:55">[00:20:55]</a>.
+*   **Unspoken Oppression**: The speaker points out that despite Atatürk's supposed orders to help Vedat, obstacles appeared, and he was eventually mistreated <a class="yt-timestamp" data-t="00:22:52">[00:22:52]</a>. The book implies the Foreign Minister Tevfik Rüştü Aras was involved, but he claimed orders came "from above" <a class="yt-timestamp" data-t="00:23:05">[00:23:05]</a>. Even Halit Ziya's attempts to secure a meeting with Atatürk were denied, forcing him to write a petition <a class="yt-timestamp" data-t="00:23:47">[00:23:47]</a>. The book highlights the tragedy of a man from the [[impact_of_elite_policies_on_ottoman_society | Ottoman ruling class]], crushed and helpless, in a new political order <a class="yt-timestamp" data-t="00:25:00">[00:25:00]</a>.
+
+## The Concept of an Ottoman Commonwealth of Nations
+
+The idea of an [[historical_account_of_the_ottoman_empire_and_its_legacy | Ottoman Commonwealth of Nations]] is presented as a concept that should play a leading role in Türkiye's long-term national existence planning <a class="yt-timestamp" data-t="00:44:03">[00:44:03]</a>.
+
+### Conditions for its Establishment
+The speaker asserts that an [[historical_account_of_the_ottoman_empire_and_its_legacy | Ottoman national community]] cannot be established on the basis of "primitive and fanatic Islamism" or on myths surrounding figures like Ertuğrul and Abdulhamid <a class="yt-timestamp" data-t="00:44:07">[00:44:07]</a>. The [[history_and_impact_of_the_ottoman_empire | Ottoman Empire]] was not such a place, and its vision does not align with "Kasabalı Imam Hatip school graduates" <a class="yt-timestamp" data-t="00:44:35">[00:44:35]</a>.
+
+Instead, it is emphasized that the [[history_and_impact_of_the_ottoman_empire | Ottoman Empire]] was the "continuation of Byzantium" <a class="yt-timestamp" data-t="00:44:38">[00:44:38]</a>. The speaker argues that attempts to achieve integration in the region with "Islamic ferocity" like in 1450 would be "stupidity and ignorance" under today's conditions <a class="yt-timestamp" data-t="00:45:04">[00:45:04]</a>. An empire based on Islamic superiority could not be maintained in the 19th century, and certainly not in the 21st <a class="yt-timestamp" data-t="00:45:34">[00:45:34]</a>.
+
+### Türkiye's Role
+Despite these limitations, Türkiye possesses other crucial conditions for a central role: land size, location at the center of trade routes, and organizational capacity <a class="yt-timestamp" data-t="00:45:46">[00:45:46]</a>. Such a project, if properly designed and practically feasible, would be successful for the benefit of everyone <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a>. The speaker suggests that this is perhaps the most interesting strategic book to be written in Türkiye today <a class="yt-timestamp" data-t="00:46:25">[00:46:25]</a>.
+
+## Historical Scenarios and Their Implications
+
+### The Armenian Question (1912-1914)
+The speaker discusses the hypothetical scenario of an Ottoman Armenia established through autonomy granted to the eastern provinces of the [[history_and_impact_of_the_ottoman_empire | Ottoman Empire]] between 1912 and 1914 <a class="yt-timestamp" data-t="00:48:57">[00:48:57]</a>.
+*   **Potential Capitals**: Its capital would likely have been Erzurum or Van <a class="yt-timestamp" data-t="00:49:08">[00:49:08]</a>.
+*   **Conflict with Russian Armenia**: A major problem would have been the existence of another Armenia within the Russian Empire, with its capital in Tbilisi <a class="yt-timestamp" data-t="00:49:16">[00:49:16]</a>. It would have been "beyond impossible" for these two to unite <a class="yt-timestamp" data-t="00:49:30">[00:49:30]</a>.
+*   **National Divisions**: The speaker uses examples like Ukraine, Czech Republic/Slovakia, and especially Macedonia/Bulgaria to illustrate how common language and history can lead to separate nations due to differing political influences <a class="yt-timestamp" data-t="00:49:36">[00:49:36]</a>. Similarly, an Ottoman Armenia and a Russian Armenia, though ethnically linked, would have developed into distinct, often adversarial, nations <a class="yt-timestamp" data-t="00:51:26">[00:51:26]</a>.
+*   **Treaty of Sèvres**: After the Treaty of Sèvres, such a possibility was moot because there were no Armenians left in the eastern provinces of the [[ottoman_empire_historical_assessment | Ottoman Empire]] <a class="yt-timestamp" data-t="00:52:12">[00:52:12]</a>.
+
+### Kurdistan and Türkiye's Prosperity
+The speaker refutes the idea that Kurdistan's lower per capita income makes it a hindrance to Türkiye's prosperity <a class="yt-timestamp" data-t="00:53:12">[00:53:12]</a>.
+*   **Exploitation**: The exploitation of the eastern provinces is deemed to have played a "very important role" in the growth and strengthening of Turkish capital <a class="yt-timestamp" data-t="00:54:15">[00:54:15]</a>. Without them, Türkiye would be a small country like Bulgaria or Syria <a class="yt-timestamp" data-t="00:54:28">[00:54:28]</a>.
+*   **State Growth**: States want to grow because a larger area of sovereignty allows for greater power synergies and organizational capacity <a class="yt-timestamp" data-t="00:54:54">[00:54:54]</a>.
+*   **Invaders' Intentions**: The notion that invaders did not want to take this region is dismissed <a class="yt-timestamp" data-t="00:55:12">[00:55:12]</a>. It was clear from the start that separate states like Turkey, Syria, and Iraq would be established <a class="yt-timestamp" data-t="00:55:20">[00:55:20]</a>.
+*   **Feasibility of Kurdistan**: The possibility of establishing a Kurdistan was considered but not taken seriously by the powers (England, France, America, Russia) <a class="yt-timestamp" data-t="00:55:33">[00:55:33]</a>. This was due to its lack of sea access, being surrounded by four enemy powers, and the absence of historical unity <a class="yt-timestamp" data-t="00:55:42">[00:55:42]</a>. A Kurdistan could not have survived, lacking a ruling class and a common political will, with tribal and princely consciousness stronger than national consciousness <a class="yt-timestamp" data-t="00:56:08">[00:56:08]</a>. Major Noel's enthusiastic advocacy for Kurdistan was dismissed by British Foreign Office officials <a class="yt-timestamp" data-t="00:57:48">[00:57:48]</a>.
+
+## Conclusion
+
+The speaker's analysis weaves together [[cultural_and_social_dynamics_in_the_late_ottoman_period | cultural and social dynamics in the late Ottoman period]] and early Republic, the [[concept and evolution of nation in Turkey | evolution of the concept of nation]], and [[historical conflicts and events in the Ottoman Empire and Greece | historical conflicts]] to provide a complex picture of Türkiye's past and potential future. The idea of an Ottoman Commonwealth is presented not as a nostalgic return to an imperial past, but as a potential pragmatic solution based on shared historical and geographical realities, emphasizing the need for a nuanced understanding of the [[history and impact of the Ottoman Empire | Ottoman legacy]] and its potential for a modern identity beyond ideological constraints.

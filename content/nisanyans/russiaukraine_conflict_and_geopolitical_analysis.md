@@ -1,0 +1,35 @@
+---
+title: RussiaUkraine conflict and geopolitical analysis
+videoId: AZGGd4gsSPo
+---
+
+From: [[nisanyans]] <br/> 
+
+The [[RussiaUkraine Conflict and NATO Involvement | Russia-Ukraine conflict]] has seen significant developments, with the Ukrainian army reportedly suffering great losses and withdrawing from several cities. It appears the entire state of Elegance has come under the control of [[russian_forces | Russian forces]] <a class="yt-timestamp" data-t="00:27:44">[00:27:44]</a>. The Ukrainian army is currently described as being in disorderly escape from the field <a class="yt-timestamp" data-t="00:28:09">[00:28:09]</a>. Crimea is also predicted to fall to [[russian_forces | Russian forces]] without much conflict <a class="yt-timestamp" data-t="00:28:18">[00:28:18]</a>. These predictions are based on careful reading of both pro-Russian and independent military analysis sources <a class="yt-timestamp" data-t="00:28:25">[00:28:25]</a>.
+
+## Predicted Outcome and Peace Treaty
+
+It is anticipated that after the verse (region/area) is fully under [[russian_control | Russian control]], there will be a pause in the war, with [[Russia]] expecting [[ukraine_surrender | Ukraine]] to surrender <a class="yt-timestamp" data-t="00:28:53">[00:28:53]</a>. A peace treaty is predicted, with the following terms <a class="yt-timestamp" data-t="00:29:00">[00:29:00]</a>:
+*   [[Ukraine]] will give up its rights over the Crimean Peninsula <a class="yt-timestamp" data-t="00:29:08">[00:29:08]</a>.
+*   [[Ukraine]] will accept the establishment of an independent, nominally Ukrainian administration in [[ukraine_currently_under_russian_control | regions currently under Russian control]] <a class="yt-timestamp" data-t="00:29:29">[00:29:29]</a>.
+*   [[Ukraine]] will agree to withdraw from all military relations with [[nato_and_the_united_states | NATO and the United States of America]] <a class="yt-timestamp" data-t="00:29:36">[00:29:36]</a>.
+*   [[Ukraine]] will abolish the racist oppression laws enacted after 2014, which aimed to make [[russians_of_russian_origin_in_ukraine | Russians of Russian origin]] second-class citizens <a class="yt-timestamp" data-t="00:29:47">[00:29:47]</a>.
+*   [[Ukraine]] would likely not object to [[Russia]] being a candidate country for the [[European Union]] <a class="yt-timestamp" data-t="03:00:07">[03:00:07]</a>.
+
+However, [[Ukraine]] is expected to reject this peace treaty because it is viewed as a country under the control and occupation of the [[United States]] and the [[European Union]] <a class="yt-timestamp" data-t="00:30:29">[00:30:29]</a>. This rejection, despite the knowledge of likely defeat, is attributed to a lack of genuine patriotic administration concerned with the well-being of the Ukrainian people <a class="yt-timestamp" data-t="00:31:07">[00:31:07]</a>. Calls for dialogue and reasonable solutions regarding the [[Russian_ethnic_population_in_Ukraine | significant Russian-origin population]] were reportedly resisted for eight years <a class="yt-timestamp" data-t="00:31:34">[00:31:34]</a>.
+
+## Second Phase of the War
+
+Given the anticipated rejection of a peace treaty, a second phase of the war is expected. [[Russia]] is predicted to launch a major operation to seize Kharkov in the north and Odessa in the south <a class="yt-timestamp" data-t="00:32:01">[00:32:01]</a>. Despite empty fuss from [[nato_and_european_countries | NATO and European countries]], they are not expected to directly intervene militarily <a class="yt-timestamp" data-t="00:32:22">[00:32:22]</a>. They are seen as provoking [[ukraine | Ukraine]] to fight until the last man, but not fulfilling their own part <a class="yt-timestamp" data-t="00:32:38">[00:32:38]</a>.
+
+The first part of the war is expected to end with a [[russian_victory | Russian victory]], and the second part is also anticipated to result in [[russian_success | Russian success]] <a class="yt-timestamp" data-t="00:32:55">[00:32:55]</a>. If Odessa falls under [[russian_control | Russian control]], [[ukraine_becomes_a_landlocked_country | Ukraine will become a small Eastern European country with no access to the sea]] <a class="yt-timestamp" data-t="00:33:05">[00:33:05]</a>. At this point, it is seen as inevitable for [[Ukraine]] to cut its military relations and adopt a neutral, unbiased position <a class="yt-timestamp" data-t="00:33:24">[00:33:24]</a>. The speaker dismisses American propaganda about [[nato_power | NATO's power]] and [[russia_as_a_torturer | Russia's weakness]] <a class="yt-timestamp" data-t="00:33:45">[00:33:45]</a>, stating that facts are slowly being faced <a class="yt-timestamp" data-t="00:33:58">[00:33:58]</a>.
+
+## Risk of World War III
+
+While the threat of war and the weakening or disintegration of [[Russia]] are discussed, a [[world_war | World War]] is not anticipated <a class="yt-timestamp" data-t="00:43:44">[00:43:44]</a>. The Western world, despite its military and nuclear capabilities, is not believed to possess the military discipline, experience, political will, or ground to sustain a serious and prolonged war <a class="yt-timestamp" data-t="00:44:26">[00:44:26]</a>. [[Russia]] and [[china | China]] are noted as having extremely powerful resources and a strong tradition of war, with [[Russia]] currently having the only army in the world with real war experience <a class="yt-timestamp" data-t="00:44:49">[00:44:49]</a>. All great wars in history are described as accidents, not intentionally started, often caused by unexpected mistakes <a class="yt-timestamp" data-t="00:45:05">[00:45:05]</a>.
+
+## NATO Expansion: Sweden and Finland
+
+The decisions of [[sweden_and_finland | Sweden and Finland]] to join [[nato_membership | NATO]] are described as "madness" and a "mad move aimed at directly increasing the risk of war" <a class="yt-timestamp" data-t="00:46:28">[00:46:28]</a>. These countries had maintained a neutrality policy for seventy years, acting as elements of stability in the region and benefiting greatly economically and culturally <a class="yt-timestamp" data-t="00:46:04">[00:46:04]</a>. The decision is attributed to inexperienced and foolish young politicians being convinced by the pressure of high-level intelligence officials, soldiers, and generals within [[nato_and_other_military_bodies | NATO]] <a class="yt-timestamp" data-t="00:47:17">[00:47:17]</a>.
+
+From a geopolitical perspective, [[nato_expansion_to_sweden_and_finland | NATO membership for Sweden and Finland]] means that [[russia_s_second_most_important_city | Russia's second most important city]], St. Petersburg, and its entire northern and western hinterland, will be squeezed by two hostile blocs: the three Baltic countries on one side and Finland on the other <a class="yt-timestamp" data-t="00:47:30">[00:47:30]</a>. This is likened to hostile tribes setting up camp directly outside one's home <a class="yt-timestamp" data-t="00:48:16">[00:48:16]</a>. This situation is deemed likely to lead to conflict in the long run, with the "Western side" expected to initiate it <a class="yt-timestamp" data-t="00:48:50">[00:48:50]</a>.

@@ -1,0 +1,44 @@
+---
+title: Historical and modern state governance
+videoId: CtGazBFlUNY
+---
+
+From: [[nisanyans]] <br/> 
+
+## Transformation of State Power and Society
+
+The balance between the state and society has undergone a radical transformation in the last 200 years <a class="yt-timestamp" data-t="00:48:43">[00:48:43]</a>. This shift began in Europe and then spread to other countries through a process termed "modernization" <a class="yt-timestamp" data-t="00:48:50">[00:48:50]</a>. A key aspect of this transformation was the establishment of a central state bureaucracy, comprised of specially trained individuals working as a team <a class="yt-timestamp" data-t="00:49:06">[00:49:06]</a>. Accompanying this growth was the establishment of a robust police organization to protect and oversee this administrative body <a class="yt-timestamp" data-t="00:50:39">[00:50:39]</a>.
+
+### Historical State Structures
+
+Historically, entities like the Ottoman Empire and European states did not possess the extensive bureaucratic or law enforcement systems seen today <a class="yt-timestamp" data-t="00:50:48">[00:50:48]</a>.
+*   **Ottoman Cadres** The professional administrative cadres of the Ottoman State were described as ridiculously small and operating on a very low budget <a class="yt-timestamp" data-t="00:49:18">[00:49:18]</a>. A significant professional bureaucracy was only established in the 1830s, 100 years before the Republic, with the creation of a new class of clerks and civil administration cadres <a class="yt-timestamp" data-t="00:49:33">[00:49:33]</a>. Schools were subsequently established to train these cadres <a class="yt-timestamp" data-t="00:49:52">[00:49:52]</a>.
+*   **Feudal Relationships** In the past, central states or kingdoms possessed limited personnel <a class="yt-timestamp" data-t="00:51:05">[00:51:05]</a>. Local administrations were often under the sovereignty of local lords or leaders <a class="yt-timestamp" data-t="00:51:22">[00:51:22]</a>, who typically lived in castles with their own soldiers <a class="yt-timestamp" data-t="00:51:36">[00:51:36]</a>. These local rulers collected tribute and governed regions through feudal relationships with local notables, rather than through a centralized state apparatus <a class="yt-timestamp" data-t="00:51:58">[00:51:58]</a>. The salaried personnel of central administrations were extremely limited <a class="yt-timestamp" data-t="00:52:18">[00:52:18]</a>.
+
+### State's Role in the Economy
+
+The state's fundamental duty is not to manage the economy <a class="yt-timestamp" data-t="00:53:02">[00:53:02]</a>. Historically, the state's relationship with the economy primarily involved collecting taxes and tribute <a class="yt-timestamp" data-t="00:53:06">[00:53:06]</a>. In exchange for this, they provided public services and security to society <a class="yt-timestamp" data-t="00:53:29">[00:53:29]</a>.
+
+However, this role evolved:
+*   **Mercantilism (17th-18th Centuries)** European countries, influenced by Mercantilism, sought to expand their economic reach beyond domestic taxation <a class="yt-timestamp" data-t="00:54:06">[00:54:06]</a>. States began to support citizens in plundering resources from other regions, providing military backing in return for a share of trade income <a class="yt-timestamp" data-t="00:54:24">[00:54:24]</a>. This marked the beginning of states considering investment as a logical means to increase tax revenues <a class="yt-timestamp" data-t="00:54:50">[00:54:50]</a>.
+*   **19th Century Industrial Investment** The 19th century saw states planning and encouraging industrial investments <a class="yt-timestamp" data-t="00:55:04">[00:55:04]</a>. They provided infrastructure like roads and railways to incentivize private capital and companies to invest, with the ultimate goal of increasing tax revenue <a class="yt-timestamp" data-t="00:55:14">[00:55:14]</a>.
+*   **20th Century Direct State Investment** The 20th century introduced the concept of the state itself undertaking industrial and commercial investments with its own capital <a class="yt-timestamp" data-t="00:55:54">[00:55:54]</a>. This is seen as a cancerous spread of state control that has destroyed societies <a class="yt-timestamp" data-t="00:56:46">[00:56:46]</a>.
+
+## Modern State Control and Challenges to Hegemony
+
+Post-1945, particularly after 1945, there was a shift away from the traditional European luxury of intellectuals finding refuge and freedom in neighboring states <a class="yt-timestamp" data-t="01:01:09">[01:01:09]</a>. The rise of [[legal_system_and_state_power | centralized states]] and colonies, particularly influenced by the United States, led to a centralized governance structure across the Western world <a class="yt-timestamp" data-t="01:01:38">[01:01:38]</a>. This centralization is considered a major factor in the decline of Western civilization and culture <a class="yt-timestamp" data-t="01:01:55">[01:01:55]</a>.
+
+### American Hegemony and its Consequences
+
+The military and intelligence institutions of the United States of America have become extraordinarily powerful, exerting control over many countries <a class="yt-timestamp" data-t="01:02:37">[01:02:37]</a>. This has resulted in a lack of freedom, as exemplified by cases like Julian Assange, where even non-citizens can be held indefinitely at America's behest <a class="yt-timestamp" data-t="01:03:01">[01:03:01]</a>. Another significant move in the 2000s was the elimination of the autonomy of national banking systems, including in the European Union, making all bank movements police-controlled by American institutions <a class="yt-timestamp" data-t="01:03:31">[01:03:31]</a>.
+
+### The Global Struggle for Hegemony
+
+The current [[historical_and_political_transformation_in_global_power_dynamics | global power dynamics]] are characterized by a "real war" for global hegemony between America and its allies versus a bloc led by [[chinas_governance_model | Russia and China]] <a class="yt-timestamp" data-t="00:30:50">[00:30:50]</a>.
+*   **Russia's Role** Russia is seen as the only power currently capable of challenging American global dominance <a class="yt-timestamp" data-t="01:27:35">[01:27:35]</a>. The ongoing conflict in Ukraine is quietly approaching its end, with the Western alliance suggesting a resolution where Ukraine accepts territorial losses and military disarmament <a class="yt-timestamp" data-t="00:31:22">[00:31:22]</a>. Russia's likely aim is the elimination of the Ukrainian state, arguing it is historically part of Russia <a class="yt-timestamp" data-t="00:33:12">[00:33:12]</a>. A more realistic outcome might be the separation of four Ukrainian provinces, cutting Ukraine's sea connection, and establishing a new, neutral regime under Russian auspices <a class="yt-timestamp" data-t="00:33:57">[00:33:57]</a>. Russia's other demand may involve the demilitarization of the Baltic Republics, requiring NATO to withdraw military units and facilities from these countries <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>.
+*   **China's Governance Model** In the fight against Islamist fanaticism, [[chinas_governance_model | China]] has shown extraordinary success <a class="yt-timestamp" data-t="00:23:38">[00:23:38]</a>. The Uyghur terrorism movement in China was dealt with by killing very few people and utilizing education, economic development, and flexibility <a class="yt-timestamp" data-t="00:23:21">[00:23:21]</a>.
+*   **NATO's Future** The North Atlantic alliance's continued existence after the Ukraine conflict is questionable <a class="yt-timestamp" data-t="00:37:38">[00:37:38]</a>. Its silence regarding the recent Israel-Palestine conflict is also noteworthy, suggesting that the current war preparations are not being managed by NATO as a whole <a class="yt-timestamp" data-t="00:38:04">[00:38:04]</a>.
+
+## Prospects for Change
+
+A revolution in the 21st century is not a dream <a class="yt-timestamp" data-t="01:04:21">[01:04:21]</a>. However, it needs to be a global phenomenon, not confined to individual countries <a class="yt-timestamp" data-t="01:04:24">[01:04:24]</a>. The current American hegemony and any potential future global hegemony must be broken, if necessary, through war <a class="yt-timestamp" data-t="01:04:39">[01:04:39]</a>. The "great revolution" has already begun in Ukraine and may continue in places like Palestine and Iran <a class="yt-timestamp" data-t="01:04:51">[01:04:51]</a>. This breaking of central control mechanisms cannot be achieved through protests or traditional political parties, but through war <a class="yt-timestamp" data-t="01:05:08">[01:05:08]</a>. The power of dictatorship must be broken <a class="yt-timestamp" data-t="01:05:40">[01:05:40]</a>.
