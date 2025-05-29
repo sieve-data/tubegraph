@@ -5,79 +5,117 @@ videoId: okEHpwG-vmU
 
 From: [[gregisenberg]] <br/> 
 
-The "Nine steps to nine figures" is a framework designed to guide founders through the process of scaling a business beyond seven figures, aiming for a $100 million valuation or exit within five years <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>, <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>. This framework emphasizes a transition from being a product-led founder to building a comprehensive company <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>, <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>.
+The "Nine Steps to Nine Figures" is a framework designed to help businesses scale beyond seven figures, with the ultimate goal of reaching a $100 million valuation or exit within approximately five years <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This framework addresses the common misunderstanding among founders about what it takes to grow a business beyond initial success <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
 
-## The Triple Triple Double Double Revenue Growth Strategy
+## Overview of the Framework
 
-To achieve a $100 million business in five years, the [[triple_triple_double_double_revenue_growth_strategy | Triple Triple Double Double]] strategy is proposed <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>, <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>. This involves:
-*   Tripling revenue three times <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>, <a class="yt-timestamp" data-t="00:44:00">[00:44:00]</a>.
-*   Then doubling revenue twice <a class="yt-timestamp" data-t="00:31:00">[00:31:00]</a>.
+The framework is divided into three distinct phases:
+1.  **Startup** <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>
+2.  **Scaleup** <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>
+3.  **Growup** (Legacy Protection) <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>
 
-For example, starting with a $3 million business:
-*   Year 1: 3x to $9 million <a class="yt-timestamp" data-t="00:35:00">[00:35:00]</a>
-*   Year 2: 3x to $27 million <a class="yt-timestamp" data-t="00:37:00">[00:37:00]</a>
-*   Year 3: 3x to $81 million (though the example states $27 million and then doubling) <a class="yt-timestamp" data-t="00:37:00">[00:37:00]</a>
-*   Year 4: 2x from $27 million to $54 million <a class="yt-timestamp" data-t="00:38:00">[00:38:00]</a>
-*   Year 5: 2x from $54 million to $108 million <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>
+Each phase requires a fundamental shift in how the company is run <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
 
-This trajectory offers significant optionality for a $100 million exit or continued growth and market domination <a class="yt-timestamp" data-t="00:47:00">[00:47:00]</a>, <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>.
+## The Triple Triple Double Double Growth Strategy
 
-## Three Phases of Business Growth
+A core component of achieving a $100 million business in five years is the [[triple_triple_double_double_business_growth_strategy | Triple Triple Double Double]] growth strategy <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. This strategy involves tripling revenue three times, then doubling it twice <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
 
-The [[nine_steps_to_nine_figures_framework | Nine steps to nine figures framework]] outlines three distinct phases:
+**Example Pathway to $108 Million:**
+*   Start with a $3 million business <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>
+*   Triple to $9 million <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>
+*   Triple again to $27 million <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>
+*   Triple a third time to $81 million (implied, the speaker adjusts to 27 to 54, and 54 to 108 based on previous statement) <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>
+*   Double to $54 million <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>
+*   Double again to $108 million <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>
 
-### 1. Startup Phase
-This phase focuses on achieving product-market fit <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>, <a class="yt-timestamp" data-t="03:20:00">[03:20:00]</a>. It involves:
-*   **Persona:** Identifying who you are selling to (the market) <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>, <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a>.
-*   **Product:** Defining what you are selling to that market <a class="yt-timestamp" data-t="03:29:00">[03:29:00]</a>.
-*   **Promotion:** Determining how to sell at scale <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>.
+This trajectory provides significant optionality for a $100 million exit or continued growth and market domination <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
 
-Product-market fit is achieved when a business has more leads than it can handle, akin to "wearing a meat suit in a dog park" <a class="yt-timestamp" data-t="03:40:00">[03:40:00]</a>, <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a>.
+## Phases of Business Growth
 
-### 2. Scale-Up Phase
-This phase centers on company creation, moving from mid-seven figures towards $100 million <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>, <a class="yt-timestamp" data-t="03:08:00">[03:08:00]</a>. It emphasizes:
-*   **Process:** Building highly optimized, automated, and software-driven systems <a class="yt-timestamp" data-t="06:05:00">[06:05:00]</a>, ideally leveraging AI <a class="yt-timestamp" data-t="06:10:00">[06:10:00]</a>.
-*   **People:** Hiring a handful of "A players" rather than focusing on a large team <a class="yt-timestamp" data-t="06:15:00">[06:15:00]</a>, <a class="yt-timestamp" data-t="06:34:00">[06:34:00]</a>. The focus is on process first, then people <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>.
-*   **Performance:** Managing outcomes by providing a "scoreboard" with clear incentives and compensation packages for the team <a class="yt-timestamp" data-t="06:46:00">[06:46:00]</a>, <a class="yt-timestamp" data-t="07:01:00">[07:01:00]</a>.
+### Phase 1: Startup (Product-Market Fit)
 
-### 3. Grow-Up Phase
-This final phase is about legacy protection, moving beyond $100 million <a class="yt-timestamp" data-t="03:12:00">[03:12:00]</a>. It represents a different way of running the company <a class="yt-timestamp" data-t="03:16:00">[03:16:00]</a>.
+The startup phase focuses on achieving product-market fit <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. This involves three key steps:
+1.  **Persona (Market)**: Deeply understanding who you are selling to <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. Every business should start with understanding its market <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>.
+2.  **Product**: Defining what you are selling to that market <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>.
+3.  **Promotion**: Determining how you will sell at scale <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
 
-## Core Principles for Scaling
+Product-market fit is achieved when a business has more leads than it knows what to do with, akin to "wearing a meat suit in a dog park" <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. This typically occurs around the mid-seven-figure revenue mark <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
 
-### Prioritizing Loyalty and Retention
-Founders often make the mistake of prioritizing growth over retention <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>. It is easier to grow a business with strong customer loyalty, which acts as "gasoline on that fire" <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>, <a class="yt-timestamp" data-t="01:13:00">[01:13:00]</a>.
+### Phase 2: Scale-Up (Company Creation)
 
-Instead of focusing on churn, the emphasis should be on loyalty, measured by Net Revenue Retention (NRR) <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>, <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>. A 3% increase in NRR can double a company's valuation <a class="yt-timestamp" data-t="01:43:00">[01:43:00]</a>, <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>. NRR means existing customers spend more over time, for example, by adding more users or features, as seen with Slack or AWS <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>, <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>. Building a strong foundation with retention and brand equity upfront is crucial before accelerating promotion <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>, <a class="yt-timestamp" data-t="01:56:00">[01:56:00]</a>, <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>.
+The scale-up phase shifts focus from being a product-led founder to building a company <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>. This phase centers on three critical elements:
+1.  **Process**: Building a highly optimized and automated business, ideally software-driven and leveraging AI <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>. This comes *before* people <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>.
+2.  **People**: Hiring a handful of A-players rather than building a large, bureaucratic team <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>. For instance, the game GoldenEye was built with only 12 people <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>.
+3.  **Performance**: Managing performance by providing teams with "scoreboards," incentives, and compensation packages, acting as a "world-class coach" drawing up the next play <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
 
-### Incentive Structures
-For executives, an ideal compensation structure is a 50/50 split between top-line revenue growth and bottom-line profitability <a class="yt-timestamp" data-t="09:34:00">[09:34:00]</a>. This aligns the executive's goals with the founder's, encouraging consideration for both growth and profitability <a class="yt-timestamp" data-t="09:42:00">[09:42:00]</a>.
+#### Incentive Structures
 
-#### Equity vs. Cash for Employees
-Harvard research suggests no significant increase in performance when employees receive equity <a class="yt-timestamp" data-t="11:16:00">[11:16:00]</a>, as many employees do not understand how to value it <a class="yt-timestamp" data-t="11:27:00">[11:27:00]</a>, <a class="yt-timestamp" data-t="11:32:00">[11:32:00]</a>.
+For executives like a COO, an ideal compensation structure is a 50/50 split of their bonus on top-line revenue and bottom-line profit <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a>. This aligns the executive with the founder's goals of both growth and profitability <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>.
 
-A suggested approach for equity is to present it as part of a total compensation package, allowing the employee to decide how much of their bonus is cash versus equity <a class="yt-timestamp" data-t="11:46:00">[11:46:00]</a>, <a class="yt-timestamp" data-t="12:04:00">[12:04:00]</a>. For example, if a VP of Revenue has a $400,000 total comp package with a $100,000 base, they decide how to allocate the remaining $300,000 between cash bonus and equity <a class="yt-timestamp" data-t="11:51:00">[11:51:00]</a>, <a class="yt-timestamp" data-t="12:01:00">[12:01:00]</a>. This approach makes the equity tangible and fosters "skin in the game" <a class="yt-timestamp" data-t="12:18:00">[12:18:00]</a>, <a class="yt-timestamp" data-t="14:14:00">[14:14:00]</a>.
+##### Equity vs. Cash Compensation
 
-### Marketing Channel Allocation (80/20 Rule)
-Marketing efforts should be treated like an investment portfolio <a class="yt-timestamp" data-t="21:20:00">[21:20:00]</a>, <a class="yt-timestamp" data-t="21:23:00">[21:23:00]</a>.
-*   **80%** of resources (money, time, energy) should be allocated to established channels that consistently produce results, acting like "index funds" <a class="yt-timestamp" data-t="21:31:00">[21:31:00]</a>, <a class="yt-timestamp" data-t="21:36:00">[21:36:00]</a>.
-*   **20%** should be dedicated to testing new channels with the potential to be a "rocket ship" or the "next Nvidia," ensuring resilience if a primary channel falters <a class="yt-timestamp" data-t="21:44:00">[21:44:00]</a>, <a class="yt-timestamp" data-t="22:02:00">[22:02:00]</a>.
+*   Harvard research suggests no significant increase in performance when employees receive equity <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+*   Many employees, especially those in their 30s and 40s who experienced venture-backed startups, prefer profit-sharing or bonus structures over equity <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
+*   If offering equity, it should be framed as part of a total compensation package, allowing the employee to decide how much of their bonus is cash versus equity <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>. This ensures they understand the value and have "skin in the game" <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>.
 
-### Strategic Decision-Making: Impact vs. Effort Matrix
-CEOs must excel at decision-making <a class="yt-timestamp" data-t="24:36:00">[24:36:00]</a>, using a "Shield versus Sword" or Impact versus Effort Matrix <a class="yt-timestamp" data-t="24:42:00">[24:42:00]</a>, <a class="yt-timestamp" data-t="24:55:00">[24:55:00]</a>. This involves:
-1.  **Effort:** How much effort an initiative will require (ranked 1-5).
-2.  **Impact:** The potential impact it will have on the business (ranked 1-5).
-The goal is to prioritize "low-hanging fruit" ideas with high impact and low effort (e.g., a 5/5 impact for a 1/5 effort) <a class="yt-timestamp" data-t="25:10:00">[25:10:00]</a>, <a class="yt-timestamp" data-t="25:26:00">[25:26:00]</a>. Founders should assess potential strategic acquisitions against their existing portfolio opportunities, as new shiny objects can be distractions <a class="yt-timestamp" data-t="25:53:00">[25:53:00]</a>, <a class="yt-timestamp" data-t="26:06:00">[26:06:00]</a>, <a class="yt-timestamp" data-t="28:13:00">[28:13:00]</a>.
+### Phase 3: Grow-Up (Legacy Protection)
 
-### Focus and Market Domination
-It takes courage to focus <a class="yt-timestamp" data-t="35:20:00">[35:20:00]</a>. Markets typically reward the "gold medalist" or the best in a specific arena <a class="yt-timestamp" data-t="36:13:00">[36:13:00]</a>, <a class="yt-timestamp" data-t="36:17:00">[36:17:00]</a>. Before entering a market or focusing, a founder should ask: "Can I be the best in this scenario?" <a class="yt-timestamp" data-t="36:18:00">[36:18:00]</a>, <a class="yt-timestamp" data-t="37:17:00">[37:17:00]</a>. This involves identifying a unique qualification or niche <a class="yt-timestamp" data-t="37:17:00">[37:17:00]</a>.
+This phase focuses on protecting the company's legacy and continuing growth after reaching significant scale (e.g., beyond $100 million) <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
 
-An example of hyper-niching and relentless focus is AppSumo's shift in 2017 <a class="yt-timestamp" data-t="38:19:00">[38:19:00]</a>. By analyzing customer data, they found that over 80% of their top customers were marketing agencies using software to reduce monthly spend <a class="yt-timestamp" data-t="38:22:00">[38:22:00]</a>, <a class="yt-timestamp" data-t="38:25:00">[38:25:00]</a>, <a class="yt-timestamp" data-t="38:43:00">[38:43:00]</a>. By increasing software deals from one per quarter to one per day, they tripled their customer lifetime value, slashed customer acquisition costs, and saw all key performance indicators (KPIs) improve <a class="yt-timestamp" data-t="39:04:00">[39:04:00]</a>, <a class="yt-timestamp" data-t="39:18:00">[39:18:00]</a>, <a class="yt-timestamp" data-t="39:56:00">[39:56:00]</a>.
+## Avoiding Common Pitfalls
 
-## Founder to CEO Transition
-Founders are artists who build, while CEOs are managers who scale <a class="yt-timestamp" data-t="32:02:00">[32:02:00]</a>, <a class="yt-timestamp" data-t="47:29:00">[47:29:00]</a>. The biggest mistake is abandoning a successful "flight" to start the next new thing <a class="yt-timestamp" data-t="32:20:00">[32:20:00]</a>. The founder's job is to discover revenue, not to hire someone to discover it <a class="yt-timestamp" data-t="41:40:00">[41:40:00]</a>, <a class="yt-timestamp" data-t="41:47:00">[41:47:00]</a>.
+### The Importance of Foundation and Retention
+
+Ignoring fundamental aspects like retention in the early stages is like "building a skyscraper on a sandy foundation" <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>. This can lead to churn issues and burnout for founders around the mid-seven-figure mark <a class="yt-timestamp" data-t="00:15:07">[00:15:07]</a>.
+
+*   **Focus on Loyalty, not Churn**: Instead of obsessing over "churn," focus on "loyalty," measured by net revenue retention <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>. A 3% increase in net revenue retention can double a company's valuation <a class="yt-timestamp" data-t="00:16:43">[00:16:43]</a>.
+*   **Net Revenue Retention**: This means a customer cohort spends more with you over time, rather than less due to churn <a class="yt-timestamp" data-t="00:17:08">[00:17:08]</a>. Examples include Slack and AWS <a class="yt-timestamp" data-t="00:17:14">[00:17:14]</a>.
+*   **Retention First**: It's crucial to focus on retention upfront, even in the zero-to-one phase, before aggressively pursuing promotion or growth <a class="yt-timestamp" data-t="00:18:04">[00:18:04]</a>. Growing a business with strong customer loyalty is significantly easier <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>.
+
+### Strategic Growth Channels
+
+When considering growth tactics, a portfolio approach for marketing investments is recommended <a class="yt-timestamp" data-t="00:21:20">[00:21:20]</a>:
+*   **80% in "Index Funds"**: Allocate 80% of money, time, and energy to proven marketing channels that deliver consistent results <a class="yt-timestamp" data-t="00:21:31">[00:21:31]</a>. This is your primary channel <a class="yt-timestamp" data-t="00:21:40">[00:21:40]</a>.
+*   **20% in "Rocket Ships"**: Allocate 20% to experimental channels with the potential for massive, rocket-ship growth <a class="yt-timestamp" data-t="00:21:47">[00:21:47]</a>. This diversification ensures resilience if a primary channel fails <a class="yt-timestamp" data-t="00:22:02">[00:22:02]</a>.
+
+### Acquisitions and Strategic Decisions
+
+For big strategic decisions like acquisitions, use an **Impact vs. Effort Matrix** <a class="yt-timestamp" data-t="00:24:55">[00:24:55]</a>.
+*   **Prioritize Low Effort, High Impact**: Look for opportunities that require minimal effort but yield massive impact <a class="yt-timestamp" data-t="00:25:10">[00:25:10]</a>.
+*   **Evaluate against existing opportunities**: Before pursuing external acquisitions, assess if there are "10 out of 10 ideas" within your existing business that offer a higher return on investment <a class="yt-timestamp" data-t="00:25:56">[00:25:56]</a>.
+*   **Realistic Assessment**: A large acquisition (e.g., $50 million company) often involves significant effort (due diligence, integration, fixing underlying issues) and may not be as simple as it seems <a class="yt-timestamp" data-t="00:28:48">[00:28:48]</a>.
+
+## Founder vs. CEO
+
+*   **Founder as Artist, CEO as Manager**: Founders are artists who build and discover, while CEOs are managers who scale <a class="yt-timestamp" data-t="00:32:00">[00:32:00]</a>. The rare individual who can successfully transition from founder to great CEO reaps significant rewards <a class="yt-timestamp" data-t="00:37:37">[00:37:37]</a>.
+*   **Handing off the Baton**: Once "flight" is discovered (product-market fit), the founder's job is to either become the right CEO for the next phase or hire a COO or president to execute the vision <a class="yt-timestamp" data-t="00:32:31">[00:32:31]</a>.
+*   **CEO's Goal**: The ultimate goal for a founder transitioning to CEO is to have nothing on their plate, thinking quarters or years ahead in the business <a class="yt-timestamp" data-t="00:46:16">[00:46:16]</a>.
 
 ### Identifying Your Zone of Genius
-Your zone of genius is where you feel excited and spontaneously tinker, even before meetings <a class="yt-timestamp" data-t="44:43:00">[44:43:00]</a>, <a class="yt-timestamp" data-t="44:51:00">[44:51:00]</a>. It's about what motivates you when your calendar is empty <a class="yt-timestamp" data-t="45:15:00">[45:15:00]</a>. This understanding helps in hiring executives that complement your strengths <a class="yt-timestamp" data-t="43:00:00">[43:00:00]</a>, <a class="yt-timestamp" data-t="43:10:00">[43:10:00]</a>.
 
-The ultimate goal for a founder transitioning to CEO is to have nothing on their plate and think quarters or years ahead <a class="yt-timestamp" data-t="46:16:00">[46:16:00]</a>, <a class="yt-timestamp" data-t="46:36:00">[46:36:00]</a>, <a class="yt-timestamp" data-t="47:56:00">[47:56:00]</a>. If a business is at seven figures, the focus should remain on hitting monthly numbers rather than long-term visions <a class="yt-timestamp" data-t="48:35:00">[48:35:00]</a>.
+To identify your zone of genius, observe:
+*   What on your calendar excites you? <a class="yt-timestamp" data-t="00:44:45">[00:44:45]</a>
+*   What do you tinker with in the morning before meetings? <a class="yt-timestamp" data-t="00:44:51">[00:44:51]</a>
+*   Where does your motivation gravitate when you have an empty calendar? <a class="yt-timestamp" data-t="00:45:15">[00:45:15]</a>
+
+When hiring executives, it's better to hire in your zone of genius first. This allows you to identify what "genius" looks like and properly train and evaluate that individual <a class="yt-timestamp" data-t="00:43:10">[00:43:10]</a>.
+
+### Focus vs. Multipreneurship
+
+*   **Building Skyscrapers, Not Strip Malls**: Focus on expanding upon a successful business (building skyscrapers) rather than constantly creating new, disconnected business units (strip malls) <a class="yt-timestamp" data-t="00:33:40">[00:33:40]</a>.
+*   **The "Gold Medalist" Mindset**: Only care about being the best in your chosen market, as the majority of value and rewards go to the market leader <a class="yt-timestamp" data-t="00:36:13">[00:36:13]</a>. Define your arena where you can be number one <a class="yt-timestamp" data-t="00:36:58">[00:36:58]</a>.
+
+### Hyper-Niching and Relentless Focus (AppSumo Example)
+
+*   **Deeply Understand Your Persona**: Analyze customer data to identify top customers and their needs <a class="yt-timestamp" data-t="00:38:08">[00:38:08]</a>. For AppSumo, their top customers were marketing agencies needing to reduce monthly software expenses <a class="yt-timestamp" data-t="00:38:25">[00:38:25]</a>.
+*   **Test Then Invest**: Conduct small experiments, and if successful, invest more <a class="yt-timestamp" data-t="00:39:07">[00:39:07]</a>. AppSumo increased software deals from quarterly to daily based on positive results <a class="yt-timestamp" data-t="00:39:59">[00:39:59]</a>. This focus tripled their business by increasing customer loyalty, referrals, and negotiating power, while slashing acquisition costs <a class="yt-timestamp" data-t="00:40:02">[00:40:02]</a>.
+*   **Founder's Role in Discovery**: The founder's job is to "dig for oil" and discover new revenue opportunities through experiments, then hire to scale those discoveries <a class="yt-timestamp" data-t="00:41:35">[00:41:35]</a>. Allocate 20% of money, time, and energy to these experiments <a class="yt-timestamp" data-t="00:40:20">[00:40:20]</a>.
+
+![[strategies_for_startup_success]]
+![[strategies_for_entrepreneurial_success]]
+![[scaling_a_business_from_startup_to_scaleup]]
+![[monetizing_leads_and_scaling_a_business]]
+![[startup_growth_playbooks_and_monetization_strategies]]
+![[building_ai_startups_frameworks_and_ideas]]
+![[steps_to_achieving_10_million_net_worth]]
+![[fourstep_process_for_validating_startup_ideas]]

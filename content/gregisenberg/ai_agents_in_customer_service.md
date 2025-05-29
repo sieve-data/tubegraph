@@ -1,34 +1,38 @@
 ---
-title: AI agents in customer service
+title: AI Agents in Customer Service
 videoId: yVqjPqPx3e8
 ---
 
 From: [[gregisenberg]] <br/> 
 
-[[introduction_to_ai_agents | AI agents]], particularly those utilizing voice-based large language models (LLMs), are poised to revolutionize customer service by handling routine tasks and significantly increasing efficiency and profitability <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+[[AI agents and platforms | AI agents]] are transforming customer service by automating various interactions and processes, leading to significant efficiency gains and cost savings for businesses <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.
 
-## Capabilities and Applications
-[[ai_receptionist_services_in_different_industries | AI agents]] can perform a variety of customer service functions, including:
-*   Taking calls with leads <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
-*   Setting up subsequent calls <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
-*   Handling rescheduling requests <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
-*   Assisting with customer support for SaaS businesses <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
-*   Setting up phone calls to move over to human sales agents <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>.
+## What are AI Agents in Customer Service?
+An [[AI agents and platforms | AI agent]] in customer service is essentially a voice Large Language Model (LLM) capable of engaging in natural conversations and performing tasks normally handled by human representatives <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>. These agents are designed to interact seamlessly with customers, even when faced with attempts to "throw them off" during a conversation <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>.
 
-One example mentioned is "retail AI," which functions as a voice LLM that can smoothly handle customer interactions, such as setting up dental appointments, even when deliberately challenged <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>. It is anticipated that these agents will eventually be able to close customers directly <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+## Capabilities and Use Cases
+[[Applications of AI agents in businesses | AI agents]] can manage a wide range of customer service tasks, including:
+*   **Initial Lead Calls** They can take the initial call with a lead <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+*   **Appointment Scheduling** [[AI agents for business automation | AI agents]] can set up subsequent calls and even dental appointments <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
+*   **Rescheduling** They are proficient in handling requests to reschedule appointments <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>.
+*   **Customer Closing** It is anticipated that [[AI agents solving everyday tasks | AI agents]] will eventually be able to close customers entirely <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+*   **Handling Difficult Interactions** If a lead expresses no interest in meeting, the agent can politely conclude the conversation <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
 
-## Impact and Benefits
-The adoption of [[creating_ai_employees_and_agents | AI agents]] has shown significant financial and operational benefits:
-*   A company called Clara reportedly projected an additional $40 million in profit due to adding 700 new [[ai_agents_in_business_automation | AI agents]] <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
-*   These agents handled 2.3 million chats and operated 80% to 90% faster than human counterparts <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
-*   [[enhancing_productivity_with_ai_agents | AI agents]] offer a path to substantial cost savings for businesses with large customer service teams <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
+## Benefits and Impact
+The adoption of [[AI agents in business automation | AI agents]] in customer service offers substantial benefits:
+*   **Scalability** Businesses can deploy these agents at scale to manage high volumes of customer interactions <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>, <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>.
+*   **Increased Profitability** Companies like Clara have reported significant financial gains. Clara anticipates adding $40 million in profit by integrating 700 new [[AI agents and platforms | AI agents]] <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+*   **Faster Service** These agents can handle customer chats much faster, with Clara's agents completing interactions 80% to 90% quicker <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>.
+*   **Cost Savings** There is a substantial opportunity for companies to save millions per month by utilizing [[AI agents for business automation | AI agents]] for their customer service teams <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>.
 
-## Business Opportunities: AI Customer Service Agencies
-There is a substantial opportunity to establish [[using_ai_to_automate_agency_operations | AI customer service agencies]] <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
+## Business Models for AI Agent Implementation
+Two primary business models are emerging for companies providing [[AI agents in business automation | AI agent]] solutions:
+1.  **Percentage of Cost Savings**
+    *   A common approach is to charge a percentage of the money saved by the client due to the [[AI agents in business automation | AI agents]] <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>, <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>. This model can be effective for initial engagement as it de-risks the investment for the client <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+    *   However, issues may arise with clients failing to pay the agreed-upon percentage, especially if they encounter financial difficulties <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>. To mitigate this risk, a base cost can be implemented upfront to ensure client commitment <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>.
 
-### Pricing Models
-*   **Pay-for-Performance:** An agency could approach companies with large customer service teams and offer to save them money, taking a percentage of the cost savings <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>. For example, saving a company $2 million per month could lead to a percentage-based payment to the agency <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>.
-*   **Value-Based Pricing:** Alternatively, instead of focusing on cost savings, agencies can charge based on the value generated, such as acquiring more customers, potentially capturing four to eight times more revenue <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. This involves charging an upfront fee <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
-*   **Hybrid Model:** To de-risk the entrepreneur, a hybrid model could involve a base cost with a percentage of cost savings, allowing for a transition to other payment structures later <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>. A base cost also ensures some "skin in the game" from the client and mitigates the risk of non-payment <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>.
+2.  **Value-Based Pricing (Upfront Charge)**
+    *   An alternative, and potentially more lucrative, model is to charge directly for the value delivered, such as a set fee for acquiring a certain number of new customers, rather than just cost savings <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. This approach can capture four to eight times more value than merely saving money <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>.
 
-The concept of "AI transformation agencies" is emerging, similar to past "digital transformation" efforts, focusing on helping companies integrate AI into their operations <a class="yt-timestamp" data-t="00:25:52">[00:25:52]</a>.
+## The Future of AI in Customer Support and Service Industries
+The increasing adoption and capabilities of [[AI agents in business automation | AI agents]] suggest a future where they play a central role in customer interactions <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. As technology advances, these agents will continue to become more sophisticated, potentially leading to fully automated customer journeys from initial contact to closing a deal <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. This represents a significant opportunity for businesses to enhance efficiency and profitability in the customer service sector <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.

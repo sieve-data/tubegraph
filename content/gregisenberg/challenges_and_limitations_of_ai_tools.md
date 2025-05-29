@@ -5,35 +5,25 @@ videoId: HVhXwBYenC8
 
 From: [[gregisenberg]] <br/> 
 
-While AI tools like Manis AI offer significant opportunities for [[impact_of_ai_and_new_tools_on_product_development | product development]] and [[building_a_business_with_ai_tools | business building]], they also come with a distinct set of [[benefits_and_challenges_of_using_ai_in_app_creation | challenges and limitations]]. Users should be aware of these aspects to manage expectations and ensure secure, effective usage.
+While AI tools like Manis AI offer significant promise for automating tasks and building businesses, the transcript highlights several [[challenges_and_expectations_with_ai_design_tools | challenges and limitations]] that users may encounter.
 
-## Current State and Performance Issues
+## Technical Hurdles
+Manis AI, being in beta, is not perfect and can experience errors [00:30:19]. Users reported experiencing issues like:
+*   **Getting Stuck**: The AI can get "stuck" on tasks, such as navigating web pages or processing certain requests. An example given was Manis getting stuck on CAPTCHAs, requiring human intervention [00:07:56]. During the demonstration, it got stuck while trying to collect [[deep_research_techniques_using_ai_tools | Greg Eisenberg's startup ideas]] [00:24:47], leading to a "critical issue" and requiring a computer reset [00:30:00].
+*   **Context Limitations**: Manis AI's performance can decline with "extremely long context" [00:44:21]. This is noted as a significant issue that the Manis AI team needs to address before a full launch, as power users tend to push the system to its limits [00:45:00]. This limitation prevented the AI from completing the full research task for startup ideas [00:56:11].
+*   **Inconsistent Deployment**: While AI tools are progressing in [[integrating_ai_tools_in_product_development | product development]], deployment remains a challenge. The DocuSign clone, for instance, encountered an issue during the public deployment process [00:35:02], prompting Manis to suggest running it locally instead [00:35:14]. This suggests that "deployment is not an easy easy one that they have solved yet" [00:48:01].
+*   **Lack of Full Autonomy**: Although advanced, agentic AI like Manis isn't fully autonomous. It may require human intervention or confirmation for certain actions [00:13:10], and doesn't always "produce everything like in one go" [00:58:33].
 
-Manis AI, despite its capabilities, is still in its beta stage and not perfect, often encountering errors <a class="yt-timestamp" data-t="00:30:17">[00:30:17]</a>.
+## Usability and Control
+*   **Abstracted Processes**: Manis AI operates as a "black box" [00:36:59], where much of the underlying process is hidden from the user. While some users might prefer this simplicity, others may desire more transparency.
+*   **Aesthetics and Refinement**: While AI can generate initial outputs, aesthetic refinement often requires further, specific instructions. For example, a generated airplane game might need more visual detail like "add a building add a tree right at lakes or something" to make it "more interesting" [00:58:43].
 
-Key performance limitations include:
-*   **Stuck Processes** Manis can get stuck on various tasks, such as CAPTCHAs during browsing <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. It may also encounter "critical issues" requiring a computer reset <a class="yt-timestamp" data-t="00:30:58">[00:30:58]</a>, though it often remembers where it left off <a class="yt-timestamp" data-t="00:31:21">[00:31:21]</a>.
-*   **Error Handling** While Manis AI aims to handle errors on its own and reflect on them <a class="yt-timestamp" data-t="00:36:17">[00:36:17]</a>, these errors can interrupt tasks, such as failing to zip files after code creation <a class="yt-timestamp" data-t="00:36:01">[00:36:01]</a>.
-*   **Frequent Errors** As more users gain access to the system, there has been a noticeable increase in frequent errors <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>.
+## Security and Privacy Concerns
+*   **Data Security**: As a Chinese company, Manis AI raises concerns about data privacy and access by the Chinese government [00:27:10]. Users are advised to be "very careful and mindful of what type of data that you give to and and give access to" [00:29:21]. It is recommended to avoid providing personal information or setting up sensitive accounts like Stripe [00:33:16] and to review generated code for local deployment [00:55:18]. Using a virtual sandbox for testing is also suggested [00:55:41].
 
-## Technical and Contextual Limitations
+## Scalability and Performance
+*   **User Load Issues**: The platform experienced performance degradation as more users gained access. Initially, errors were less frequent, but "now that more access has been given out and more people are on the system, I start to notice a lot more frequent errors" [00:50:57]. This highlights a [[challenges_and_opportunities_in_ai_business_development | scaling challenge]] that needs to be addressed before wider release.
+*   **Daily Usage Limits**: During its beta phase, Manis AI implemented a "maximum daily usage limit" [00:48:44], typically around 10 requests or sessions [00:57:17], which can restrict prolonged use for complex tasks.
 
-AI tools, including Manis, face specific technical hurdles:
-*   **Context Window Limitations** Manis AI's performance can decline with "extremely long context" and complex tasks that require processing a lot of information <a class="yt-timestamp" data-t="00:44:19">[00:44:19]</a>. This is identified as a major issue that needs addressing before wider release, as it often necessitates starting a new session <a class="yt-timestamp" data-t="00:45:02">[00:45:02]</a>.
-*   **Deployment Challenges** While Manis can generate code, deploying applications is "not as straightforward" <a class="yt-timestamp" data-t="00:47:23">[00:47:23]</a>. The tool sometimes encounters issues with the deployment process <a class="yt-timestamp" data-t="00:35:02">[00:35:02]</a> and may suggest running the application locally instead of deploying it to a public network <a class="yt-timestamp" data-t="00:35:10">[00:35:10]</a>. This indicates that the comprehensive packaging of services, including deployment, is still an unsolved challenge for Manis <a class="yt-timestamp" data-t="00:47:45">[00:47:45]</a>.
-*   **Aesthetic Refinement** For tasks like game creation, initial outputs might be basic, requiring users to provide specific instructions for aesthetics or adding more objects to the scene <a class="yt-timestamp" data-t="00:58:48">[00:58:48]</a>.
-
-## Access and Scalability
-
-*   **Limited Access** Manis AI is currently invitation-only with limited invitation codes <a class="yt-timestamp" data-t="00:49:54">[00:49:54]</a>. This limits widespread access for potential users.
-*   **Daily Usage Limits** There is a maximum daily usage limit, typically around 10 requests or sessions per day <a class="yt-timestamp" data-t="00:48:44">[00:48:44]</a>. While a workaround exists by using a different session after hitting the limit <a class="yt-timestamp" data-t="00:57:46">[00:57:46]</a>, this still highlights a scalability challenge <a class="yt-timestamp" data-t="00:49:44">[00:49:44]</a>.
-
-## [[security_and_privacy_concerns_with_ai_applications | Security and Privacy Concerns]]
-
-As Manis is a Chinese company, there are valid concerns about data security and privacy <a class="yt-timestamp" data-t="00:27:07">[00:27:07]</a>. Chinese companies may be obligated to provide government access to user data <a class="yt-timestamp" data-t="00:27:40">[00:27:40]</a>. Therefore, users are advised to:
-*   Be cautious about sharing personal information <a class="yt-timestamp" data-t="00:28:02">[00:28:02]</a>.
-*   Only provide broad, simple requests when first trying the tool <a class="yt-timestamp" data-t="00:29:33">[00:29:33]</a>.
-*   Scan through any generated code before downloading or running it locally <a class="yt-timestamp" data-t="00:55:18">[00:55:18]</a>.
-*   Consider running downloaded code in a virtual sandbox in the cloud rather than directly on a local computer <a class="yt-timestamp" data-t="00:55:46">[00:55:46]</a>.
-
-Despite these limitations, understanding a competitor's approach is crucial for a [[competitive_approach_to_ai_usage | competitive approach to AI usage]] <a class="yt-timestamp" data-t="00:28:18">[00:28:18]</a>. The existence of tools like Manis AI can inspire US companies to build similar or improved alternatives, fostering innovation and providing more options, including open-source projects <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>.
+## Overall Assessment
+Despite these [[challenges_and_potentials_of_ai_operator_services | challenges]], Manis AI is seen as "the closest thing I've seen to AGI yet" [01:01:32], providing a "super super super helpful" [01:01:54] tool for automating and building businesses due to its integrated capabilities that combine research, design, and execution. However, it still needs further development to achieve seamless, fully autonomous operation and overcome its current limitations.

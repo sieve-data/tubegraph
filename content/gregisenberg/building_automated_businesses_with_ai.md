@@ -5,44 +5,47 @@ videoId: HVhXwBYenC8
 
 From: [[gregisenberg]] <br/> 
 
-Manis AI is a Chinese AI application gaining significant attention for its ability to transform ideas and thoughts into fully automated businesses and products <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. It functions as an advanced agent AI, capable of running tasks and utilizing tools like browsers and command lines, offering a glimpse into the future of Artificial General Intelligence (AGI) <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
+Manis AI is a Chinese AI application gaining significant attention for its ability to transform ideas into fully [[using_ai_for_business_automation | automated businesses]] and products with just a few prompts <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. It promises to enable users to [[building_a_saas_business_using_ai_and_automation | build a business]] generating significant revenue, like $1,000 per day, through automation <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
 
 ## How Manis AI Works
 
-Unlike traditional AI tools that require users to jump between different platforms for ideation, design, and deployment, Manis AI consolidates these functions <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>.
-It operates by:
-*   **Creating a virtual sandbox** for executing tasks <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>.
-*   **Planning, designing, and executing** tasks autonomously <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
-*   **Conducting research** by Googling, checking websites, capturing screenshots, crawling, and scraping data <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a> <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>.
-*   **Analyzing results and replanning** or updating as needed <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
-*   **Implementing a "human-in-the-loop" feature**, allowing users to intervene, provide additional context, or confirm actions without interrupting its progress <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a> <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a>.
-*   **Automatically generating project structures** (e.g., Next.js applications, routes, and interfaces) from simple prompts <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>.
-*   **Self-reflecting on errors** and attempting to resolve them autonomously <a class="yt-timestamp" data-t="00:36:17">[00:36:17]</a>.
+Manis AI operates as an advanced [[applications_of_ai_agents_in_businesses | agent AI]], capable of running tasks and tools, including cloud computer and browser usage <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. It is considered a step closer to Artificial General Intelligence (AGI) <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>.
 
-The simplicity of interacting with Manis AI is a key advantage, as users can start with very basic requests and the system will elaborate on its own <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a> <a class="yt-timestamp" data-t="00:38:07">[00:38:07]</a>. This approach makes [[automating_business_tasks_with_ai | automating business tasks with AI]] accessible to non-technical individuals <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>.
+Instead of needing separate AI tools for different stages of development (e.g., ChatGPT for ideas, v0 for design, Cursor for building), Manis AI consolidates these functions into a single platform <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>.
 
-## Experiments with Manis AI
+It functions by:
+*   **Creating a Sandbox**: It establishes a virtual sandbox where it executes command-line operations, runs a browser, and utilizes various tools <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>.
+*   **Research and Planning**: From a simple request, Manis AI researches the topic, crawls websites, scrapes data, takes screenshots, and plans the necessary steps <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>.
+*   **Execution and Adaptation**: It executes its plan, continuously analyzes results, and can replan or update as needed <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
+*   **Human-in-the-Loop Feature**: Users can intervene during the process to provide additional context or refine instructions, allowing for real-time adjustments without stopping its work <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>.
 
-During a podcast, several experiments were conducted with Manis AI:
+## Demonstrations and Use Cases
 
-### DocuSign Clone Attempt
-The goal was to [[building_products_and_services_using_ai | build a DocuSign]] clone, specifically focusing on its e-signature functionalities, with the aim of creating a multi-billion dollar business from a few prompts <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a> <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
-Manis AI began by researching DocuSign's core features, user flows, and technical requirements <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. It then proceeded to set up a Next.js application, including routes, login/registration pages, and middleware <a class="yt-timestamp" data-t="00:54:18">[00:54:18]</a>. Although the code was generated, Manis encountered issues with direct public deployment <a class="yt-timestamp" data-t="00:34:59">[00:34:59]</a>. The system suggested a local deployment, indicating that the deployment process remains a challenge for the tool <a class="yt-timestamp" data-t="00:35:10">[00:35:10]</a> <a class="yt-timestamp" data-t="00:47:41">[00:47:41]</a>.
+Manis AI has been tested for several business applications:
 
-### Startup Ideas Research
-Manis AI was tasked with researching startup ideas shared by the host, aiming to identify those with the highest potential <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>. In doing so, Manis browsed the host's personal website, X (formerly Twitter) page, YouTube channel, LinkedIn, and Instagram, attempting to scrape data and understand the host's ideas <a class="yt-timestamp" data-t="00:20:58">[00:20:58]</a> <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>. This task, typically straightforward for research, encountered a "critical issue" and got stuck, possibly due to long context or high system load <a class="yt-timestamp" data-t="00:31:00">[00:31:00]</a> <a class="yt-timestamp" data-t="00:56:08">[00:56:08]</a>.
+### Creating a DocuSign Clone
+A prompt to "create a DocuSign clone" led Manis AI to research core features, identify key functionalities for an e-signature product, document user flows, and technical requirements <a class="yt-timestamp" data-t="00:35:10">[00:35:10]</a>. It began setting up the project structure, including a Next.js app with routes, login/register pages, passwords, and middleware <a class="yt-timestamp" data-t="00:54:18">[00:54:18]</a>. Although it faced issues with direct public deployment, it was able to generate the code for local deployment <a class="yt-timestamp" data-t="00:44:03">[00:44:03]</a>.
 
-### SEO Improvement for a Design Agency
-Manis AI was asked to analyze and improve the SEO for a design agency website (latecheckout.agency), with the specific goal of attracting executives from AI-first tech companies <a class="yt-timestamp" data-t="00:40:53">[00:40:53]</a> <a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a>. Manis understood the targeted audience and initiated an SEO analysis <a class="yt-timestamp" data-t="00:43:17">[00:43:17]</a>. However, it ran into a "context limitation" issue, indicating that complex tasks with long contexts can degrade its performance <a class="yt-timestamp" data-t="00:44:10">[00:44:10]</a>.
+### Researching Startup Ideas
+When asked to research startup ideas from Greg Eisenberg's online content (X, YouTube, website), Manis AI navigated and crawled these platforms, including clicking embedded links to find specific startup concepts <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a>. This demonstrates its ability to independently gather and process information for business intelligence.
 
-### Airplane Game Creation
-A request was made to create an airplane game similar to Peter Levels' fly.peter.com using 3JS <a class="yt-timestamp" data-t="00:57:02">[00:57:02]</a>. Initially, the session hit a maximum daily usage limit, but a loophole allowed the task to be initiated in a different session <a class="yt-timestamp" data-t="00:57:12">[00:57:12]</a>. Manis successfully created a basic flying game that was deployed and playable in a web browser, demonstrating its ability to [[building_products_and_services_using_ai | build products and services using AI]] with simple prompts <a class="yt-timestamp" data-t="00:59:31">[00:59:31]</a>. Further enhancements for visual appeal and multiplayer functionality would be needed to match more complex games <a class="yt-timestamp" data-t="01:00:06">[01:00:06]</a>.
+### Improving SEO for an Agency Website
+Manis AI was tasked with improving the SEO for a design agency's website (latecheckout.agency), with the specific goal of attracting executives from AI-first companies <a class="yt-timestamp" data-t="00:41:07">[00:41:07]</a>. This highlights its potential for [[using_ai_for_business_growth_and_marketing | business growth and marketing]] by analyzing websites for optimization <a class="yt-timestamp" data-t="00:52:51">[00:52:51]</a> and [[automating_manual_processes_with_ai | automating manual processes with AI]] such as data scraping <a class="yt-timestamp" data-t="00:52:57">[00:52:57]</a>.
 
-## Limitations and Concerns
-*   **Invitation-Only Access and Usage Limits:** Manis AI is currently invitation-only and has daily usage limits (e.g., 10 sessions), which can hinder extensive use <a class="yt-timestamp" data-t="00:48:47">[00:48:47]</a> <a class="yt-timestamp" data-t="00:50:01">[00:50:01]</a>.
-*   **Scalability Issues:** As more users gain access, the system experiences increased errors and performance degradation, indicating challenges with scaling its services <a class="yt-timestamp" data-t="00:50:48">[00:50:48]</a>.
-*   **Context Limitation:** Complex tasks requiring extensive information processing can lead to performance decline or errors, a significant area for improvement <a class="yt-timestamp" data-t="00:44:10">[00:44:10]</a>.
-*   **Deployment Challenges:** While Manis can generate code, the deployment process to public networks is not yet seamless and may require manual intervention or local testing <a class="yt-timestamp" data-t="00:47:17">[00:47:17]</a>.
-*   **Data Privacy Concerns:** As a Chinese company, there are valid concerns about data safety and privacy, as Chinese companies may be obligated to provide government access to data <a class="yt-timestamp" data-t="00:27:07">[00:27:07]</a>. Users are advised to be mindful of the type of data they share and avoid sensitive personal information <a class="yt-timestamp" data-t="00:29:21">[00:29:21]</a>.
+### Building a Casual Multiplayer Game
+Manis AI successfully created a basic airplane game from a single prompt, which was then deployed and playable on a web browser <a class="yt-timestamp" data-t="00:59:31">[00:59:31]</a>. This illustrates its capability in [[developing_aibased_business_applications | developing AI-based business applications]] and [[using_ai_to_build_software_applications | using AI to build software applications]].
 
-Despite these limitations, Manis AI is seen as a significant step towards AGI due to its integrated capabilities and ability to automate complex processes, making it a valuable tool for those interested in [[building_a_business_with_ai_tools | building a business with AI tools]] and [[how_to_automate_business_processes_with_ai | automating business processes with AI]] <a class="yt-timestamp" data-t="01:01:32">[01:01:32]</a> <a class="yt-timestamp" data-t="01:01:59">[01:01:59]</a>. It signifies a "second DeepSeek moment" for China in the AI landscape, prompting increased development of similar tools globally <a class="yt-timestamp" data-t="00:28:23">[00:28:23]</a>.
+## Limitations and Challenges
+
+Despite its capabilities, Manis AI, being in beta, faces challenges:
+*   **Performance Decline with Long Contexts**: The system can encounter issues and errors when processing extremely long or complex tasks due to context limitations <a class="yt-timestamp" data-t="00:44:06">[00:44:06]</a>.
+*   **Deployment Issues**: While capable of generating code, its public deployment process is not always seamless, sometimes requiring local execution or manual intervention <a class="yt-timestamp" data-t="00:47:41">[00:47:41]</a>.
+*   **Scalability Concerns**: Increased user access, particularly during peak times, has led to more frequent errors and a decline in performance <a class="yt-timestamp" data-t="00:50:57">[00:50:57]</a>.
+*   **Daily Usage Limits**: There is a limit of 10 requests or sessions per day, though a loophole allows starting new tasks in a "broken" session <a class="yt-timestamp" data-t="00:57:15">[00:57:15]</a>.
+
+## Data Security and Privacy Concerns
+Manis AI is a Chinese company, which raises valid concerns about data privacy, as Chinese companies may be obligated to provide data access to the government <a class="yt-timestamp" data-t="00:27:33">[00:27:33]</a>. Users are advised to be mindful of the type of data they share and avoid sensitive personal information <a class="yt-timestamp" data-t="00:29:21">[00:29:21]</a>.
+
+## Conclusion
+
+Manis AI is a significant step towards AGI, demonstrating how AI can act as an operator and developer, enabling individuals to [[automated_agency_and_service_businesses_using_ai_tools | automate agency and service businesses using AI tools]] and [[using_ai_to_build_saas_startups | build SaaS startups]] with minimal technical expertise <a class="yt-timestamp" data-t="01:01:52">[01:01:52]</a>. The ability to transform complex ideas into deployable applications and conduct extensive research within a short timeframe highlights its potential for [[using_ai_for_business_automation | business automation]] and entrepreneurial ventures <a class="yt-timestamp" data-t="01:01:04">[01:01:04]</a>.
