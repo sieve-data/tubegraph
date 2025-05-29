@@ -1,61 +1,65 @@
 ---
-title: Balancing speed and quality in product development
+title: Balancing Speed and Quality in Product Development
 videoId: nTr21kgCFF4
 ---
 
 From: [[lennyspodcast]] <br/> 
 
-Linear, a B2B SaaS product, demonstrates that there is no inherent trade-off between speed and quality in product development <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. Instead, people often misunderstand speed as rushing or being sloppy, when it should be viewed as a reflection of competence and expertise <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>, <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>. As Patrick Collison, CEO of Stripe, tweeted, the idea that "good cheap fast choose two" is "devious misinformation spread by the slow," as "slow and expensive usually go together" <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>.
+## The False Trade-off Between Speed and Quality
 
-## Speed as Competence
+Contrary to popular belief, there is not an actual trade-off between [[Importance of Speed and Stability in Software Development | speed and quality]] in product development <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. The misconception arises because people often equate speed with "rushing or being sloppy" <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. Instead, true speed in this context is about "being really competent" and acting as an expert <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
 
-At Linear, speed means that within 10% of a rough time budget for a feature, a workable solution is ready to test a key hypothesis internally <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. This rapid prototyping allows for numerous iterations, which directly contributes to a higher quality product <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>.
+At the pinnacle of their craft, professionals demonstrate high-quality output through their speed, not despite it <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. This efficiency allows for more iterations, which is a significant component of product [[Developing Taste and Quality in Product Design | quality]] <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>. As Patrick Collison of Stripe tweeted, "slow and expensive usually go together" <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>.
 
-Key components enabling this approach include:
-*   **High-quality talent** with engineers who are not blocked by every design choice and are comfortable making workable solutions even if they're not perfect <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>.
-*   **No expectation of perfection in the first version**: The initial release is considered a "best guess" in the general direction, designed to validate or invalidate major assumptions quickly <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>, <a class="yt-timestamp" data-t="00:11:34">[00:11:34]</a>.
+## Achieving Speed and Quality
 
-To move faster without sacrificing quality, the focus should be on adopting an attitude of "controlled risk" where the first version isn't expected to be perfect <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. The priority is working software that addresses the core problem and feels good to use <a class="yt-timestamp" data-t="00:13:23">[00:13:23]</a>.
+Speed in product development means having a workable solution very early in the development cycle <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>. For example, within 10% of a project's rough time budget, there should be something functional that tests a key hypothesis <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>. This allows for early validation and prevents spending 80% of the time on an incorrect assumption <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>.
 
-## Iterative Feedback and Preventing Bloat
+Key components for achieving this:
+*   **Talented Engineers** Engineers should not be blocked by every design choice; they should be willing to create something workable even if it's not perfect <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>.
+*   **No Expectation of Perfection** The first version is considered the "best guess in the general direction" <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>, not a final, polished product <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>. This reduces the pressure for perfectionism <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>.
+*   **Focus on Core Problem** The goal of early versions is to validate or invalidate major assumptions and see if the software solves the core problem for users <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>.
+*   **Gradual Release** New features are released to increasingly larger circles of users, starting with internal teams, then beta groups, and finally general availability <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>. This ensures real validation and feedback <a class="yt-timestamp" data-t="00:13:33">[00:13:33]</a>.
+*   **Avoiding Wasted Time** The sooner directional sense is gained, the faster the entire process can go, as most wasted time comes from building features nobody wants or uses <a class="yt-timestamp" data-t="00:15:19">[00:15:19]</a>.
 
-[[integrating_customer_feedback_into_product_development | Integrating customer feedback]] early and often is crucial. Linear gets new feature ideas out to people as early as possible, typically within the first 10% of the allotted time <a class="yt-timestamp" data-t="00:15:08">[00:15:08]</a>. This involves:
-1.  **Internal testing**: Features are first used by internal Linear teams who use the product daily <a class="yt-timestamp" data-t="00:14:19">[00:14:19]</a>.
-2.  **Gradual beta release**: Once a feature is "good enough" and won't corrupt data, it's released to early beta customer groups for feedback and problem-solving validation <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>. This helps avoid building features that nobody actually wants or uses <a class="yt-timestamp" data-t="00:15:19">[00:15:19]</a>.
+## Avoiding Bloated Software
 
-### Avoiding Bloat by Prioritizing Users
+A common criticism is that successful software products eventually become bloated. To counteract this, a strict policy is in place regarding feature requests <a class="yt-timestamp" data-t="00:16:13">[00:16:13]</a>. The product intentionally says no to "customization features requested by middle managers in order to make reporting a little bit easier at the cost of making IC [individual contributor] workflows worse" <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>.
 
-Linear actively combats product "bloatedness" by having a clear policy: prioritize the individual contributor (IC) and end-user experience over requests for customization or reporting features from middle managers <a class="yt-timestamp" data-t="00:16:53">[00:16:53]</a>. This is a core promise of Linear, ensuring the tool remains fast and enjoyable to use <a class="yt-timestamp" data-t="00:17:27">[00:17:27]</a>.
+This commitment prioritizes the direct user experience of the individual contributor, ensuring the product remains fast and enjoyable to use <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>. The logic is that if the IC user experience is degraded, users will disengage, leading to inaccurate data and ineffective reporting anyway <a class="yt-timestamp" data-t="00:18:19">[00:18:19]</a>.
 
-Product managers (PMs) are encouraged to avoid saying "yes" to requests that might make the IC user experience worse, as this leads to disengagement and inaccurate data <a class="yt-timestamp" data-t="00:18:16">[00:18:16]</a>. Instead, the focus is on solving the core problems for individual users significantly better than competitors <a class="yt-timestamp" data-t="00:21:21">[00:21:21]</a>.
+When considering complex feature debates, the focus is always on understanding specific, real-life use cases tied to actual people <a class="yt-timestamp" data-t="00:24:49">[00:24:49]</a>. It's crucial to ensure a solution matches "reality," even if reality is "ugly sometimes" <a class="yt-timestamp" data-t="00:25:47">[00:25:47]</a>.
 
-### Understanding User Needs and Emotions
+### Understanding User Needs through "Feeling Bad"
 
-To make informed decisions, Linear delves into specific user cases rather than general requests <a class="yt-timestamp" data-t="00:24:49">[00:24:49]</a>. This means understanding the real-life workflows of individuals and identifying the emotional pain points users experience <a class="yt-timestamp" data-t="00:25:06">[00:25:06]</a>, <a class="yt-timestamp" data-t="00:31:13">[00:31:13]</a>.
+A key strategy is to "feel bad in the same way that customers feel bad" <a class="yt-timestamp" data-t="00:31:13">[00:31:13]</a>. This means digging deep during customer calls, going beyond surface-level requests to understand the underlying emotional valence or "bad feeling" that motivates a user's need <a class="yt-timestamp" data-t="00:31:50">[00:31:50]</a>. By understanding the emotional hook, more profound solutions can be built <a class="yt-timestamp" data-t="00:35:07">[00:35:07]</a>.
 
-Nonan Yu, Head of Product at Linear, describes his goal in customer calls as wanting to "feel bad in the same way that customers feel bad" <a class="yt-timestamp" data-t="00:31:13">[00:31:13]</a>. By digging deep into the "emotional valence" motivating feature requests, Linear can develop solutions that prevent those negative feelings, such as automatic triage management to prevent issues from falling into "holes" <a class="yt-timestamp" data-t="00:37:04">[00:37:04]</a>, <a class="yt-timestamp" data-t="00:37:37">[00:37:37]</a>.
+An example is the "triage management" feature, which automated manual processes that made users feel "underwater" or "out of control" <a class="yt-timestamp" data-t="00:37:05">[00:37:05]</a>.
 
-This approach of seeking out "schlep blindness" – the mundane pains people are blind to – allows Linear to find opportunities for automation and improvement that others might miss <a class="yt-timestamp" data-t="00:35:56">[00:35:56]</a>.
+## Systematizing Creativity
 
-## Systemized Creativity and Extreme Testing
+To generate non-obvious solutions, a systemized approach to creativity is used:
+1.  **Extreme Thinking**: Ask, "How extreme can you take it?" <a class="yt-timestamp" data-t="00:45:33">[00:45:33]</a>. This involves exploring the "11-star experience" or 10x version of an idea, throwing away constraints like cost or practicality <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a>.
+2.  **Explore Possibility Space**: The goal is to see beyond defaults and hidden constraints to fully understand the range of options <a class="yt-timestamp" data-t="00:46:26">[00:46:26]</a>.
+3.  **Build Extreme Versions**: Actually build and test these extreme versions rapidly to learn about the product space <a class="yt-timestamp" data-t="00:47:40">[00:47:40]</a>. For instance, in developing a draft-saving feature, the team built a "fastest possible" version (which felt unsafe) and a "safest possible" auto-save version (which created too much clutter) <a class="yt-timestamp" data-t="00:49:03">[00:49:03]</a>. This led to the balanced, nuanced solution that was not initially obvious <a class="yt-timestamp" data-t="00:50:39">[00:50:39]</a>.
+4.  **Align with Product Promise**: The attributes explored should align with the core promise of the product or business <a class="yt-timestamp" data-t="00:52:05">[00:52:05]</a>.
 
-Linear employs a "systemized way of being creative" by exploring extreme versions of potential solutions <a class="yt-timestamp" data-t="00:44:55">[00:44:55]</a>. This involves asking: "How extreme can you take it?" <a class="yt-timestamp" data-t="00:45:31">[00:45:31]</a>. Inspired by concepts like Airbnb's "11-star experience," this process involves setting aside practical constraints like cost to fully explore the "possibility space" <a class="yt-timestamp" data-t="00:45:46">[00:45:46]</a>.
+## Strategic Backlog Management
 
-An example is the "save drafts" feature:
-1.  **Extreme Speed**: The first version prioritized being as fast as possible, with no pop-ups or confirmation for saving changes, just an "x" button to discard <a class="yt-timestamp" data-t="00:49:05">[00:49:05]</a>. This felt "super unsafe" <a class="yt-timestamp" data-t="00:49:39">[00:49:39]</a>.
-2.  **Extreme Safety**: The next iteration implemented autosave for everything <a class="yt-timestamp" data-t="00:50:00">[00:50:00]</a>. While safe, this led to a "paper trail" of unintended drafts (like "Untitled document" syndrome) <a class="yt-timestamp" data-t="00:50:10">[00:50:10]</a>.
-3.  **Balanced Solution**: The final solution balances these extremes:
-    *   A new issue creation triggers an interruption to confirm saving a draft, as it's a new object <a class="yt-timestamp" data-t="00:51:13">[00:51:13]</a>.
-    *   Once a draft exists, all subsequent modifications are automatically saved, avoiding further interruptions <a class="yt-timestamp" data-t="00:51:20">[00:51:20]</a>.
+A backlog of product opportunities is maintained, with 20-30 potential areas to explore at any given time <a class="yt-timestamp" data-t="00:41:28">[00:41:28]</a>. These are not yet ready for development due to a lack of conviction <a class="yt-timestamp" data-t="00:41:43">[00:41:43]</a>. The team continuously accumulates understanding and periodically reevaluates these opportunities <a class="yt-timestamp" data-t="00:41:47">[00:41:47]</a>. This informs a shared "mental model" of the user and their needs <a class="yt-timestamp" data-t="00:41:59">[00:41:59]</a>.
 
-This approach helps uncover optimal solutions by testing the boundaries of the product space <a class="yt-timestamp" data-t="00:53:51">[00:53:51]</a>.
+For example, "capacity planning" has been in the backlog, a problem managers struggle with, often resorting to custom spreadsheets <a class="yt-timestamp" data-t="00:43:03">[00:43:03]</a>. The goal is not to solve the entire problem, but to find a specific, elegant solution that is "right for Linear" and can be built reliably <a class="yt-timestamp" data-t="00:43:48">[00:43:48]</a>. This approach is supported by intentionally keeping the team small, which acts as a constraint against taking on too much too early <a class="yt-timestamp" data-t="00:44:14">[00:44:14]</a>.
 
-## Opinionated Software and Deadline Management
+## The Role of Product in Go-to-Market
 
-B2B software often teaches users "how to work" by embedding specific processes and best practices <a class="yt-timestamp" data-t="00:54:29">[00:54:29]</a>. Linear embraces this, being opinionated about how product teams should operate based on observed successful practices <a class="yt-timestamp" data-t="00:57:10">[00:57:10]</a>. This is why they resist extensive customization; they believe their streamlined, opinionated workflows lead to better outcomes <a class="yt-timestamp" data-t="00:56:48">[00:56:48]</a>.
+Product management is viewed as a "go-to-market discipline" alongside sales and marketing <a class="yt-timestamp" data-t="00:58:50">[00:58:50]</a>. While the traditional "Triad" of engineering, product, and [[Importance of design and functionality in product development | design]] is important, a deeper collaboration between product, sales, and marketing is crucial <a class="yt-timestamp" data-t="00:59:02">[00:59:02]</a>.
 
-Regarding deadlines:
-*   **Treat deadlines as P-zero problems**: When a deadline is set, it must be taken "so seriously that they are basically like a pzero problem," meaning everything else is secondary <a class="yt-timestamp" data-t="01:10:02">[01:10:02]</a>.
-*   **Cut scope ruthlessly**: The PM's role is to remove as much scope as needed to ensure the deadline is met with a shippable product <a class="yt-timestamp" data-t="01:10:32">[01:10:32]</a>.
-*   **Focus on external deadlines**: Deadlines are primarily for external marketing or communication events <a class="yt-timestamp" data-t="01:11:32">[01:11:32]</a>. Missing these opportunities means they are lost forever <a class="yt-timestamp" data-t="01:12:27">[01:12:27]</a>.
-*   **Minimal estimating, early shipping**: Linear does "almost no estimating" for deadlines <a class="yt-timestamp" data-t="01:13:18">[01:13:18]</a>. Instead, they ship early to have a working product, allowing the remaining time to be used for iteration or polishing to reach a shippable state <a class="yt-timestamp" data-t="01:13:25">[01:13:25]</a>. This proactive approach sets the team up to make a "yes" or "no" decision on shipping, rather than realizing it's "half broken" at the last minute <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>.
+This "double triangle" model ensures that product managers connect the "building side" with the "selling side" of the organization, integrating commercial goals into product development <a class="yt-timestamp" data-t="01:01:32">[01:01:32]</a>. Product managers, with their deep understanding of the customer's native language, should originate the messaging for the product, helping marketing teams craft effective communication that resonates with expert practitioners <a class="yt-timestamp" data-t="01:03:36">[01:03:36]</a>. Sales then validates this messaging in the field, creating a robust feedback loop <a class="yt-timestamp" data-t="01:00:54">[01:00:54]</a>.
+
+## Deadlines as a "P-Zero Problem"
+
+Deadlines are not viewed as arbitrary fabrications <a class="yt-timestamp" data-t="01:09:53">[01:09:53]</a>. Instead, they are taken "seriously that they are basically like a p-zero problem," meaning everything else becomes secondary <a class="yt-timestamp" data-t="01:10:02">[01:10:02]</a>. The philosophy is to have few deadlines, but when one is set, it becomes the absolute priority <a class="yt-timestamp" data-t="01:10:17">[01:10:17]</a>.
+
+To hit a deadline, the product manager's job is to "cut as much scope as possible" <a class="yt-timestamp" data-t="01:10:32">[01:10:32]</a>, ensuring that a product can actually be shipped on time, even if it doesn't have all desired features <a class="yt-timestamp" data-t="01:10:49">[01:10:49]</a>. This commitment signals seriousness to the team and stakeholders <a class="yt-timestamp" data-t="01:10:12">[01:10:12]</a>. Deadlines are typically set for external marketing exercises <a class="yt-timestamp" data-t="01:11:32">[01:11:32]</a>, recognizing that each launch opportunity is limited and irreplaceable <a class="yt-timestamp" data-t="01:12:25">[01:12:25]</a>.
+
+Estimating is minimized in favor of early shipping <a class="yt-timestamp" data-t="01:13:18">[01:13:18]</a>. By getting a working product out early (within 10% of the allotted time), the remaining time can be used to decide on further iterations or polishing, allowing for an informed go/no-go decision <a class="yt-timestamp" data-t="01:13:25">[01:13:25]</a>. This process of rapidly iterating and getting things out early ensures that the team is always in a position to hit commitments and deliver value <a class="yt-timestamp" data-t="01:13:58">[01:13:58]</a>.

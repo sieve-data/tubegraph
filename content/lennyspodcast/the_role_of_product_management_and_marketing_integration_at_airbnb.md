@@ -1,0 +1,65 @@
+---
+title: The role of product management and marketing integration at Airbnb
+videoId: 4ef0juAMqoE
+---
+
+From: [[lennyspodcast]] <br/> 
+
+## Background: Evolution of Product Management at Airbnb
+
+Brian Chesky, CEO and co-founder of Airbnb, began the company from his apartment with co-founders Joe and Nate, growing it into an $80 billion global business spanning 220 countries with travelers and homes alike <a class="yt-timestamp" data-t="01:03:55">[01:03:55]</a>. At its inception, Chesky himself played the closest role to a product manager, also handling marketing, design, operations, and other functions outside of engineering <a class="yt-timestamp" data-t="01:16:58">[01:16:58]</a>. However, as the company grew, he became more hands-off in the product, leading to a period where, paradoxically, the less involved he was, the more "spin" there was, resulting in less clarity, less advocacy, fewer resources, and slower progress for teams <a class="yt-timestamp" data-t="01:24:20">[01:24:20]</a>.
+
+## Challenges with the Traditional Model
+
+By 2018-2019, Chesky observed that the Airbnb app seemed stagnant, costs were rising, and a growing internal "politics" emerged where groups advocated for individual interests rather than the company's whole <a class="yt-timestamp" data-t="02:00:27">[02:00:27]</a>. This led to increased bureaucracy, dependencies, and a lack of accountability, making it difficult for people to understand who was doing what <a class="yt-timestamp" data-t="02:09:59">[02:09:59]</a>. This environment fostered a sense that individual contributions didn't matter, leading to complacency <a class="yt-timestamp" data-t="02:11:17">[02:11:17]</a>. Chesky noted that many companies, including Airbnb at the time, were experiencing issues such as:
+*   **Slightly different technical stacks** across groups, accumulating technical debt <a class="yt-timestamp" data-t="09:44:09">[09:44:09]</a>.
+*   **Lots of dependencies** leading to bottlenecks, causing teams to build their own parallel departments (e.g., marketing), creating separate divisions <a class="yt-timestamp" data-t="09:55:00">[09:55:00]</a>.
+*   **Politics and advocacy** for individual divisions, where those building the best relationships secured the most resources <a class="yt-timestamp" data-t="10:49:00">[10:49:00]</a>.
+*   **Bureaucracy**, making it hard to know who was doing what and leading to a lack of accountability <a class="yt-timestamp" data-t="11:07:00">[11:07:00]</a>.
+*   **Complacency** stemming from a feeling that individual work didn't matter, transforming a fast-growing company into a slow-moving bureaucracy <a class="yt-timestamp" data-t="11:19:00">[11:19:00]</a>.
+
+A significant disconnect also existed between engineering and marketing, which Chesky believes are crucial to an organization's health <a class="yt-timestamp" data-t="11:45:00">[11:45:00]</a>. Marketing was often seen as "waiters" and engineers as "chefs," leading to a lack of communication despite marketing's direct interaction with customers <a class="yt-timestamp" data-t="11:58:00">[11:58:00]</a>. The company also heavily relied on performance marketing (e.g., spending $1 billion on AdWords by 2019 <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>) rather than investing in brand building and educating users about new products <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>.
+
+At a Figma conference, Chesky's comment about eliminating the [[the_role_of_a_product_manager | product management]] function at Airbnb caused a stir, with 5,000 designers cheering <a class="yt-timestamp" data-t="06:07:00">[06:07:00]</a>. This reaction highlighted a frustration among designers in Silicon Valley with the product development process, often feeling like they are "design administrators" running a "design service organization" rather than being part of the core development <a class="yt-timestamp" data-t="09:02:00">[09:02:02]</a>.
+
+## The Transformation: A Shift in Approach
+
+The onset of the pandemic, which caused Airbnb to lose 80% of its business in eight weeks, served as a "near-death business experience" that provided clarity and forced radical changes <a class="yt-timestamp" data-t="02:20:00">[02:20:00]</a>. Inspired by conversations with Hiroki Asai (former Apple creative director) and Jony Ive (former Apple Chief Design Officer), Chesky decided to fundamentally change how Airbnb operated, moving away from a divisional structure to a more functional model akin to a startup <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>.
+
+The previous structure, with 10 different divisions (e.g., Flights, Homes, Experiences, China), led to everyone wanting to be a general manager, further subdividing the company and making it difficult to operate cohesively <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>. Chesky's role had become reactive, adjudicating issues between groups <a class="yt-timestamp" data-t="02:16:00">[02:16:00]</a>.
+
+## The New Integrated Model
+
+Airbnb's transformed operational model includes:
+
+*   **Integrated [[the_role_of_a_product_manager | Product Management]] and Marketing (Product Marketing):** The traditional [[the_role_of_a_product_manager | product management]] function was altered by combining inbound product development responsibilities with outbound or [[role_of_marketing_in_product_success | marketing]] responsibilities <a class="yt-timestamp" data-t="06:59:00">[06:59:00]</a>. This new role, called "product marketing," involves understanding how to talk about the product, doing demos, understanding the story, and coordinating videos and customer touchpoints <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. The core idea is that one cannot build a product without knowing how to talk about it, requiring expertise in both making and marketing the product <a class="yt-timestamp" data-t="07:42:00">[07:42:00]</a>.
+*   **Offloading Program Management:** Much of the program management duties previously handled by [[the_role_of_a_product_manager | product managers]] were offloaded to dedicated program managers, a high-status role at Airbnb <a class="yt-timestamp" data-t="07:13:00">[07:13:00]</a>.
+*   **Smaller, More Senior Teams:** The product function was made smaller and more senior, with more senior individuals primarily driving product, and a focus on fewer but more senior employees across the company <a class="yt-timestamp" data-t="07:30:00">[07:30:00]</a>.
+*   **Functional Model:** Airbnb reverted to a functional model, emphasizing core functions like design, engineering, product marketing, marketing, communications, sales, and operations, rather than divisional leaders <a class="yt-timestamp" data-t="02:52:00">[02:52:00]</a>. There is no longer a separate "guest team" and "host team," as most features involve both guests and hosts, requiring integrated efforts <a class="yt-timestamp" data-t="04:49:00">[04:49:00]</a>.
+*   **CEO as Chief Product Officer:** Chesky believes the CEO of a product or tech company should essentially be the chief product officer <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>. He became deeply involved in all product and marketing details, reviewing all work with a regular cadence (weekly, bi-weekly, etc.) to ensure accountability and identify bottlenecks <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>.
+*   **Single, Rolling [[the_significance_of_strategic_planning_and_road_mapping_at_airbnb | Road Map]]:** The company adopted a single, rolling two-year product plan that is updated every month, with product releases occurring twice a year (May and October/November) <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a>. This ensures the entire company works together, rowing in the same direction <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>. All projects must be on this roadmap, except for some infrastructure work <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>.
+*   **Managing by Influence, Not Control:** While product teams do not control or drive designing or engineering, they manage by influence within a purely functional model <a class="yt-timestamp" data-t="08:21:00">[08:21:00]</a>. The CEO's direct involvement and review process ensure collaboration and accountability without needing formal control <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>.
+*   **In-House Creative Agency & Integrated Writing:** Airbnb built its own in-house creative agency for marketing communications and product creative <a class="yt-timestamp" data-t="03:19:00">[03:19:00]</a>. UX writing was combined with marketing writing to ensure a single, consistent voice across all customer touchpoints (emails, app, ads) <a class="yt-timestamp" data-t="03:40:00">[03:40:00]</a>.
+
+## Impact and Philosophy
+
+The shift resulted in greater clarity, unified direction, reduced conflicts, and less turnover <a class="yt-timestamp" data-t="05:40:00">[05:40:00]</a>. Initially, Chesky's deep involvement meant more work, but after one to two years, the cultural shift meant teams could operate effectively even in his absence, leading to him having more time <a class="yt-timestamp" data-t="05:10:00">[05:10:00]</a>.
+
+Key leadership philosophies underlying these changes include:
+*   **Leaders in the Details:** Being in the details is crucial for leaders to know if people are doing a good job; it's distinct from micromanagement (telling people exactly what to do) <a class="yt-timestamp" data-t="00:23:00">[00:23:00]</a>.
+*   **Clarity and Shared Direction:** Founders should provide clarity and ensure everyone can "row in the same direction" quickly <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. Compromising on how a company is run leads to misery for everyone <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
+*   **Bias for Action:** To increase company speed, make faster decisions and cultivate a bias for action, resolving issues in meetings rather than postponing <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>.
+*   **10x Thinking:** Encourage teams to think "10x" bigger or better to force them to reconsider problems from first principles, leading to innovative solutions <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>.
+*   **Empowering through Involvement:** Leaders empower by being involved in the work, helping teams realize their full potential <a class="yt-timestamp" data-t="04:57:00">[04:57:00]</a>.
+*   **Product-Led Growth:** The new strategy bets that building the "best possible product" and effectively communicating about it will drive growth, reducing reliance on traditional paid growth channels <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>. While growth channels still matter, the emphasis shifts to "passes" (big leaps) over "running the ball down the field" (optimizations) <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>.
+
+## Recent Product Launches Reflecting the New Model
+
+Airbnb's winter release in 2023 exemplifies the new integrated approach <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>. Key features include:
+
+*   **Guest Favorites:** A collection of two million top-rated homes, created by analyzing 370 million reviews, millions of customer service tickets, and host cancellation data <a class="yt-timestamp" data-t="04:16:00">[04:16:00]</a>. This initiative aims to combine Airbnb's unique inventory with hotel-like reliability <a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a>. This required deep collaboration across guest, host, and marketing functions <a class="yt-timestamp" data-t="04:26:00">[04:26:00]</a>.
+*   **Overhauled Host Tab:** A complete redesign of the host interface to make it easier for hosts to manage listings, update details, and add photos <a class="yt-timestamp" data-t="04:11:00">[04:11:00]</a>. This focuses on building great tools for hosts to enable them to provide great guest experiences <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>.
+*   **[[the_role_of_ai_in_product_management | AI]]-Powered Photo Tour:** An [[the_role_of_ai_in_product_management | AI]] computer vision language, trained on 100 million photos, that scans and organizes listing photos by room <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>.
+*   **New Design Aesthetic:** A move away from "flat design" towards a more three-dimensional, colorful, and textured aesthetic, reflecting increasing screen time and a desire for interfaces to replicate natural environments <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>.
+
+<a class="yt-timestamp" data-t="04:14:00">[04:14:00]</a> None of these integrated product developments would have been possible under the old working methods, emphasizing the importance of teams working together to achieve a cohesive product vision <a class="yt-timestamp" data-t="04:16:00">[04:16:00]</a>.

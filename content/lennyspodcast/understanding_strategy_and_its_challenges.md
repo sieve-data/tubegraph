@@ -1,0 +1,61 @@
+---
+title: Understanding strategy and its challenges
+videoId: y7SN4FK8noY
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Strategy is an integrated set of choices that compels desired customer action <a class="yt-timestamp" data-t="01:17:49">[01:17:49]</a>. It defines what a company controls to influence customer behavior, such as factory building, R&D investment, advertising, and hiring <a class="yt-timestamp" data-t="01:17:58">[01:17:58]</a>. The core job of strategy is to make decisions on controllable aspects to compel customers to choose a product or service over competitors or no product at all <a class="yt-timestamp" data-t="01:18:32">[01:18:32]</a>.
+
+## Why Strategy is Hard
+
+Many people struggle with strategy for several reasons:
+*   **Intellectual Difficulty** Strategy is an integrative activity where answers to various questions must fit together and reinforce one another <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>. It's more complex than making a single choice; it requires a holistic approach, like planning a healthy diet that includes all meals and snacks <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+*   **Emotional Intimidation** Strategy involves making explicit choices to do some things and purposefully *not* do other things <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>. This can be intimidating, as individuals are held accountable for these decisions <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>.
+*   **Poor Training and Education**
+    *   **Business Schools** According to Roger Martin, what is taught in strategy in business schools "generally sucks" <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. The academic field has become overly theoretical, falling in love with the [[resource_based_view_of_the_firm | Resource-Based Theory of the Firm]] <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. This theory, which posits that strategy is about building resources ("if you build it they will come"), is deemed "silly" and rarely used in the real world because it fails to address *what* resources to invest in <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>. Business schools often require allegiance to this theory for hiring <a class="yt-timestamp" data-t="01:13:37">[01:13:37]</a>.
+    *   **Consulting Firms** Traditional "strategy consulting firms" now do very little actual strategy work, focusing more on larger businesses like post-merger integration or digital transformation <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. Consequently, people are not prepared educationally or in companies for strategy <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>.
+
+## Strategy for Everyone
+
+Roger Martin advocates that strategy is not just for top executives like the COO or founder, but applies to everyone in an organization <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. He gives the example of a [[Procter & Gamble | Head & Shoulders]] brand franchise leader, four levels down in the organization, who makes crucial strategic choices that directly impact the brand's performance <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>. He believes that individuals throughout the company must make important strategic decisions; otherwise, "bad things are going to happen" <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. He strongly dislikes the notion that only those at the top do "strategy" while others merely handle "execution" <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.
+
+## The Strategy Choice Cascade
+
+Roger Martin's framework for crafting strategy, developed over an eight-year journey at Monitor Company, is known as the "Strategy Choice Cascade" <a class="yt-timestamp" data-t="01:19:24">[01:19:24]</a>. It comprises five interconnected questions that must be answered to produce a strategy compelling desired customer action <a class="yt-timestamp" data-t="01:19:52">[01:19:52]</a>:
+
+1.  **What is Our Winning Aspiration?**
+    This question sets the overarching goal and contextualizes subsequent choices <a class="yt-timestamp" data-t="01:21:56">[01:21:56]</a>. It should be framed in terms of how customers will benefit, for example, "to satisfy core customers who love what we do but think it's too narrow" <a class="yt-timestamp" data-t="01:43:33">[01:43:33]</a>. Simply aiming for a big market share is a "terrible reason" <a class="yt-timestamp" data-t="01:42:27">[01:42:27]</a>; the focus should be on addressing a customer need or lack <a class="yt-timestamp" data-t="01:42:36">[01:42:36]</a>.
+
+2.  **Where Will We Play?**
+    This defines the specific playing field or "battlefield" an organization will operate in <a class="yt-timestamp" data-t="01:22:09">[01:22:09]</a>. It involves selecting specific customers, products (finished product or component), distribution channels, and vertical stages within the value chain <a class="yt-timestamp" data-t="01:44:07">[01:44:07]</a>. For example, [[Four Seasons | Four Seasons]] decided to exit real estate development, construction, and hotel ownership to focus solely on luxury hotel management <a class="yt-timestamp" data-t="01:46:02">[01:46:02]</a>.
+
+3.  **How Will We Win?**
+    This question focuses on how an organization will achieve a competitive advantage in its chosen playing field <a class="yt-timestamp" data-t="01:22:28">[01:22:28]</a>. There are generally two primary routes:
+    *   **Differentiation**: Being perceived as better than competitors, creating superior customer value <a class="yt-timestamp" data-t="01:22:28">[01:22:28]</a>. This means customers will strongly prefer your product, making it "not a coin flip" <a class="yt-timestamp" data-t="01:26:56">[01:26:56]</a>. Examples include [[Lego]]'s strong brand loyalty where stores without it are not considered toy stores <a class="yt-timestamp" data-t="01:25:22">[01:25:22]</a>.
+    *   **Low Cost**: Operating at a significantly lower cost than competitors <a class="yt-timestamp" data-t="01:22:31">[01:22:31]</a>. [[Vanguard]] is an example, with its massive assets under management allowing it to offer the lowest AUM (Assets Under Management) fees <a class="yt-timestamp" data-t="01:26:29">[01:26:29]</a>.
+    If a company isn't pursuing one of these paths effectively, it's merely "playing to play" rather than "playing to win" <a class="yt-timestamp" data-t="01:27:28">[01:27:28]</a>. Such companies are vulnerable to competitors who are either low-cost or differentiated, essentially being "bullied" out of the market <a class="yt-timestamp" data-t="01:27:10">[01:27:10]</a>.
+
+4.  **What Capabilities Must We Have in Place to Win?**
+    These are the unique skills and resources that enable the chosen "how to win" strategy <a class="yt-timestamp" data-t="01:22:42">[01:22:42]</a>. A capability should be hard for competitors to replicate, either because they "can't do it" or "won't do it" <a class="yt-timestamp" data-t="01:32:06">[01:32:06]</a>. For example, [[Southwest Airlines]]' ability to offer low fares stems from its unique operations, including a single aircraft type (737s) and flexible labor relations, which are costly and difficult for traditional airlines to adopt <a class="yt-timestamp" data-t="01:51:30">[01:51:30]</a>. [[Walmart]]'s reluctance to fully embrace e-commerce early on, due to its existing store infrastructure, allowed [[Amazon]] to gain a significant scale advantage <a class="yt-timestamp" data-t="01:32:20">[01:32:20]</a>.
+
+5.  **What Management Systems Are Required to Make Sure the Capabilities are in Place?**
+    These systems are the processes, structures, and metrics that build and sustain the necessary capabilities over time <a class="yt-timestamp" data-t="01:22:51">[01:22:51]</a>. They are crucial for maintaining a competitive advantage or "moat" <a class="yt-timestamp" data-t="01:57:21">[01:57:21]</a>. For example, [[Four Seasons]] maintains its high-quality service by having a unique way of recruiting, onboarding, and providing career development, resulting in a 10% staff turnover rate compared to the industry's 80% <a class="yt-timestamp" data-t="01:56:04">[01:56:04]</a>. This allows them to train staff to deliver customized service, rather than by-the-book rules <a class="yt-timestamp" data-t="01:56:40">[01:56:40]</a>.
+
+## Competitive Advantage and Moats
+
+A strong strategy creates a competitive advantage, often referred to as a "moat" by investors like Warren Buffett, who looks for "economic castles protected by unbreachable moats" <a class="yt-timestamp" data-t="01:38:13">[01:38:13]</a>. These moats make it difficult for competitors to copy success <a class="yt-timestamp" data-t="01:38:15">[01:38:15]</a>.
+
+The "how to win" (differentiation or low cost) defines the moat <a class="yt-timestamp" data-t="01:57:17">[01:57:17]</a>. Capabilities and management systems are what build and maintain this moat <a class="yt-timestamp" data-t="01:57:21">[01:57:21]</a>. Roger Martin refutes the modern idea that all competitive advantage is fleeting <a class="yt-timestamp" data-t="01:57:41">[01:57:41]</a>, citing examples like [[Four Seasons]] (45 years of leadership) and [[Tide]] (77 years as the number one detergent) <a class="yt-timestamp" data-t="01:57:52">[01:57:52]</a>. Competitive advantage becomes fleeting only when it is too simple, like having merely the largest plant, which competitors can easily surpass <a class="yt-timestamp" data-t="01:58:19">[01:58:19]</a>.
+
+A robust moat encourages competitors to choose different playing fields and winning strategies rather than directly competing and destroying market value <a class="yt-timestamp" data-t="01:59:55">[01:59:55]</a>. This aligns with [[Hamilton Helmer | Hamilton Helmer]]'s concept of "counterpositioning," where a company positions itself in a way that makes it painful for competitors to follow due to their existing business structure <a class="yt-timestamp" data-t="02:02:45">[02:02:45]</a>. An example is [[Olay]]'s repositioning at [[Procter & Gamble | P&G]]. [[Estee Lauder]]'s Clinique brand, while powerful, couldn't enter mass channels without cannibalizing its other prestige brands, effectively creating a "fault line" <a class="yt-timestamp" data-t="02:03:19">[02:03:19]</a>.
+
+The ultimate way to compete is to not be forced to compete at all <a class="yt-timestamp" data-t="02:29:29">[02:29:29]</a>. This occurs when capabilities and management systems are so nuanced and multifaceted that competitors deem them too difficult to replicate, leading them to pursue other strategies <a class="yt-timestamp" data-t="02:37:32">[02:37:32]</a>.
+
+## Betterment Over Perfection
+
+For individuals feeling overwhelmed by strategy, the advice is to focus on "betterment" rather than "perfection" <a class="yt-timestamp" data-t="02:46:16">[02:46:16]</a>. Strategy is a problem-solving tool <a class="yt-timestamp" data-t="02:46:40">[02:46:40]</a>. The starting point is to identify the single most painful "gap" – the difference between current outcomes and desired outcomes <a class="yt-timestamp" data-t="02:46:46">[02:46:46]</a>.
+
+Instead of trying to solve all problems at once, individuals should tackle this single gap by asking what different choices they could make across the strategy cascade (winning aspiration, where to play, how to win, capabilities, management systems) <a class="yt-timestamp" data-t="02:54:52">[02:54:52]</a>. By continually addressing these gaps, one by one, outcomes will improve over time <a class="yt-timestamp" data-t="02:59:19">[02:59:19]</a>. This iterative process of continuous improvement is how individuals and organizations get better at strategy <a class="yt-timestamp" data-t="03:00:59">[03:00:59]</a>.
+
+Roger Martin emphasizes that there is no "mythical beast called a great natural strategist" <a class="yt-timestamp" data-t="03:19:17">[03:19:17]</a>. Great strategists have one thing in common: they just practice <a class="yt-timestamp" data-t="03:22:26">[03:22:26]</a>. He encourages people to be encouraged, not discouraged, and to start working on strategy now, as "you'll never amount to anything" if you wait <a class="yt-timestamp" data-t="03:20:50">[03:20:50]</a>.

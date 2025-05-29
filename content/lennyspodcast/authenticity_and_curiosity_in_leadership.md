@@ -1,0 +1,49 @@
+---
+title: Authenticity and Curiosity in Leadership
+videoId: 6UHAop9fhNU
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Amy Vora, Chief Product Officer at Fair, emphasizes the importance of authenticity and curiosity as fundamental aspects of effective [[leadership principles and skills | leadership]]. Her approach highlights that success doesn't require perfection but rather a willingness to learn, adapt, and be genuinely open to differing perspectives <a class="yt-timestamp" data-t="02:15:00">[02:15:00]</a>.
+
+## Embracing Authenticity and Imperfection
+Amy Vora's core philosophy centers on the idea that successful individuals can be "messy and imperfect at times" <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a>. She contrasts this with the "super women" archetype often seen in professional environments, who appear to have everything figured out <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>. Vora acknowledges that she loves to sleep and "waste time doing absurd things," even working from her bathroom due to family needs during the pandemic <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>. Her realization is that "no one's got it fully figured out" and "most of us are winging it and learning as we're going" <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>.
+
+Instead of meticulously planning her career, Vora found success by doing "the thing that feels right," going to places that "feel like home," and working with people who feel like friends <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>. This emotional approach, putting on "the coat of the job," allows her to gauge if she feels "lucky to be there" and if she can truly be creative <a class="yt-timestamp" data-t="09:08:00">[09:08:00]</a>. A key element of this feeling "at home" is [[importance_of_trust_and_vulnerability_in_leadership | trust]] with colleagues, enabling her to take risks and perform better <a class="yt-timestamp" data-t="09:37:00">[09:37:00]</a>.
+
+## Cultivating Curiosity in Disagreement
+BOS, the CTO of Meta, described working with Amy as like "watching an alien" because she could have the "most profound disagreement in the world" and respond with "fascinating, you have to tell me more why you think that" <a class="yt-timestamp" data-t="10:24:00">[10:24:00]</a>. This genuine curiosity, even when confronted with what she considered "crazy wrong" ideas, allowed her to "tear down walls between points of view" <a class="yt-timestamp" data-t="10:41:00">[10:41:00]</a>.
+
+Vora admits this didn't come naturally, as she "really enjoy[s] being right" <a class="yt-timestamp" data-t="11:05:00">[11:05:00]</a>. However, she learned that letting her ego "overtake [her] desire to get to the best outcome" was a "silly trade-off" <a class="yt-timestamp" data-t="12:01:00">[12:01:00]</a>. The shift occurred when she realized it's more important to achieve the best outcome than to be right <a class="yt-timestamp" data-t="12:14:00">[12:14:00]</a>. By opening the door to others' information, she learns more, leading to better collective outcomes and a more interesting work environment <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>.
+
+### Practical Application of Curiosity
+*   **"Fascinating, tell me more":** This phrase is a genuine expression of curiosity about how someone can arrive at a different understanding of the same facts <a class="yt-timestamp" data-t="14:49:00">[14:49:00]</a>. It helps in understanding "how people see the world" <a class="yt-timestamp" data-t="15:26:00">[15:26:00]</a>.
+*   **Sublimating Ego:** The hardest part is "sublimating your ego a little bit and saying it's more important to get to the outcome than to be right" <a class="yt-timestamp" data-t="13:46:00">[13:46:00]</a>. This is a personal battle for growth <a class="yt-timestamp" data-t="13:53:00">[13:53:00]</a>.
+*   **Positive Feedback Loop:** Being curious leads to learning new things, better outcomes, and improved relationships, creating a positive feedback loop that outweighs the desire to be right <a class="yt-timestamp" data-t="14:12:00">[14:12:00]</a>.
+*   **Taking a Pause:** When faced with a visceral reaction to disagreement, taking a pause allows the body and mind to calm, leading to a more constructive, less primal response <a class="yt-timestamp" data-t="16:29:00">[16:29:00]</a>. It reinterprets the feeling as "a chance to learn more" <a class="yt-timestamp" data-t="16:14:00">[16:14:00]</a>.
+*   **Acknowledging Different Incentives:** It's important to acknowledge that teams and individuals will have different incentives and information, leading to natural disagreements. This is a sign of "healthy tension and knowledge" <a class="yt-timestamp" data-t="01:00:03:00">[01:00:03:00]</a>. The key is to agree on the desired outcome, then engage in rational discussion about the best path forward <a class="yt-timestamp" data-t="01:00:54:00">[01:00:54:00]</a>.
+
+## Personal Growth and [[developing_leadership_skills_and_understanding_feedback | Handling Feedback]]
+
+Vora emphasizes that [[developing_leadership_skills_and_understanding_feedback | leadership skills]] involve continuous [[developing_leadership_skills_and_understanding_feedback | personal growth]] and a nuanced approach to feedback.
+
+### Overcoming Impostor Syndrome and "Likability" Feedback
+Vora received consistent feedback throughout her career about being "strategic" and "more visionary" <a class="yt-timestamp" data-t="45:32:00">[45:32:00]</a>. A significant barrier was a self-confidence and impostor syndrome, making her question her ability to "declare a strategy" <a class="yt-timestamp" data-t="46:00:00">[46:00:00]</a>. She learned to gain confidence by:
+*   **Talking to Customers:** Building an "emulator" of a customer on her shoulder provides unique knowledge and confidence in her opinions <a class="yt-timestamp" data-t="46:32:00">[46:32:00]</a>.
+*   **Working through Product Iterations:** Visualizing future product portfolios and assessing their rationality <a class="yt-timestamp" data-t="46:55:00">[46:55:00]</a>.
+*   **Seeking Other Opinions:** Using surveys or discussions within the leadership team to gauge alignment on strategic directions and explore ramifications of different choices <a class="yt-timestamp" data-t="47:12:00">[47:12:00]</a>.
+
+A particularly challenging feedback she received was "you could be the smartest person in the room but it doesn't matter if people don't like you" <a class="yt-timestamp" data-t="48:27:00">[48:27:00]</a>. In response, she initially "shrank herself," becoming "less opinionated" and "more unobjectionable" <a class="yt-timestamp" data-t="48:57:00">[48:57:00]</a>. While this "kind of worked for a long time," it eventually hindered her ability to be a leader for her team, who needed her opinion <a class="yt-timestamp" data-t="49:08:00">[49:08:00]</a>. She emphasizes the importance of not "dampen[ing] who you are and your strengths" but instead "add[ing] more to the things that you can do, the tools that you have, the way you can express yourself" <a class="yt-timestamp" data-t="55:38:00">[55:38:00]</a>. This means expanding one's toolsets rather than shrinking oneself <a class="yt-timestamp" data-t="50:51:00">[50:51:00]</a>.
+
+### Interpreting Feedback
+For women in tech, Vora notes that feedback often relates more to "style" than to the "content of their role" <a class="yt-timestamp" data-t="53:03:00">[53:03:00]</a>. This feedback can be contradictory, urging one to be "more directive" and "less directive" simultaneously <a class="yt-timestamp" data-t="52:40:00">[52:40:00]</a>. Her key learning is that receiving feedback doesn't mean immediate action is required <a class="yt-timestamp" data-t="53:29:00">[53:29:00]</a>. There's an intermediary step to evaluate:
+1.  Is this feedback to act on immediately?
+2.  Are there themes that require a different approach?
+3.  Is this a part of who I am, and do I need to provide more context about my decisions and trade-offs, rather than changing my core operating style? <a class="yt-timestamp" data-t="53:37:00">[53:37:00]</a>
+
+## Hard Truths in Senior Leadership
+As leaders become more senior, they face increasingly complex challenges. Vora humorously states that as you get more senior, "you get worse at everything because the problems get hard" <a class="yt-timestamp" data-t="01:03:12:00">[01:03:12:00]</a>. She clarifies that senior leaders predominantly deal with "fundamentally unsolvable" problems, as simpler ones would have been resolved by others <a class="yt-timestamp" data-t="01:02:20:00">[01:02:20:00]</a>. Therefore, the role often involves choosing the "least bad" or "best possible for the time" solution among suboptimal options <a class="yt-timestamp" data-t="01:02:58:00">[01:02:58:00]</a>. Normalizing and acknowledging these hard truths is crucial for leaders to avoid feeling like they are failing <a class="yt-timestamp" data-t="01:03:44:00">[01:03:44:00]</a>.
+
+## Conclusion
+Ultimately, Amy Vora's journey highlights that genuine authenticity, a profound curiosity in the face of disagreement, and a continuous commitment to [[developing_leadership_skills_and_understanding_feedback | personal growth]]—even when it means navigating imperfection and hard truths—are vital for effective [[leadership principles and skills | leadership]]. Her advice to product professionals is to always "think about the customer" and "talk to the customer," as it's a "shortcut to everything else you need to do to be successful" <a class="yt-timestamp" data-t="01:15:31:00">[01:15:31:00]</a>. She believes that customer value and company value are rarely adversarial in the long term, and focusing on customer impact inevitably leads to business success <a class="yt-timestamp" data-t="01:16:36:00">[01:16:36:00]</a>.

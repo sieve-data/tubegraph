@@ -1,0 +1,27 @@
+---
+title: Importance of understanding systems in strategic thinking
+videoId: UyWTDmDjNy4
+---
+
+From: [[lennyspodcast]] <br/> 
+
+To be a strategic thinker, one must first be able to "see the system" <a class="yt-timestamp" data-t="00:35:07">[00:35:07]</a>. Systems are an integral part of human interaction, designed to ensure interoperability <a class="yt-timestamp" data-t="00:35:22">[00:35:22]</a>. While systems serve valuable functions, they can also become self-reinforcing, developing a "culture" or "the way things are around here" that can stifle innovation and progress <a class="yt-timestamp" data-t="00:35:49">[00:35:49]</a>.
+
+## Recognizing Systemic Influence
+Many systems are largely invisible and taken for granted <a class="yt-timestamp" data-t="00:33:28">[00:33:28]</a>. For example, the "college industrial complex" or standard hiring practices often perpetuate biases, favoring individuals who fit a familiar mold rather than prioritizing diverse talent <a class="yt-timestamp" data-t="00:35:32">[00:35:32]</a>. A common hiring pattern, for instance, might reveal that a company consistently hires individuals who were "captain of their Ivy League tennis team" <a class="yt-timestamp" data-t="00:36:36">[00:36:36]</a>. This indicates a system at play that is not necessarily helping the company attract the best talent <a class="yt-timestamp" data-t="00:36:42">[00:36:42]</a>.
+
+Strategic thinking requires the ability to identify these underlying systems and understand their impact <a class="yt-timestamp" data-t="00:35:07">[00:35:07]</a>. If something feels "scary" to attempt, it might be because the existing system intends for that feeling, as it defends the status quo <a class="yt-timestamp" data-t="00:33:53">[00:33:53]</a>.
+
+## Challenging and Changing Systems
+A great [[understanding_strategy_and_its_challenges | strategy]] often has "tension at the center of it" <a class="yt-timestamp" data-t="00:28:28">[00:28:28]</a>. This tension arises from challenging existing norms or systems. For instance, early downloadable software faced skepticism because the dominant software distribution system feared piracy <a class="yt-timestamp" data-t="00:34:19">[00:34:19]</a>. However, experimenting with new approaches, even if perceived as risky, can lead to breakthroughs <a class="yt-timestamp" data-t="00:34:37">[00:34:37]</a>. Similarly, Salesforce's "no software" approach created tension by going against the prevailing system of software distribution <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>.
+
+[[Practical application of strategic thinking in business | Strategic thinking]] also involves understanding the "wave" on which you are surfing <a class="yt-timestamp" data-t="00:37:12">[00:37:12]</a>. Success is often determined by choosing the right "wave" (market, opportunity, or system) rather than solely by individual skill <a class="yt-timestamp" data-t="00:37:14">[00:37:14]</a>. Just as a surfer waits for the right wave to perform better, organizations must choose their context carefully. This includes selecting the right company to partner with, identifying key roles, and being patient for "superstar" talent who can instigate change <a class="yt-timestamp" data-t="00:37:43">[00:37:43]</a>. Choosing to operate differently from competitors is essential to avoid being "mediocre" <a class="yt-timestamp" data-t="00:38:03">[00:38:03]</a>.
+
+## Strategic Choices within Systems
+When [[developing_a_product_strategy | developing a product strategy]], four critical choices determine the future of the product and business:
+1.  **Choosing your customers:** Defining the "smallest viable audience" dictates the product's features, language, and overall future <a class="yt-timestamp" data-t="00:24:02">[00:24:02]</a>. For example, targeting Raspberry Pi enthusiasts allows for a different product approach than aiming for Apple-quality mass-market appeal <a class="yt-timestamp" data-t="00:24:47">[00:24:47]</a>.
+2.  **Choosing your competition:** Understanding the competitive landscape sets significant boundaries on operations. Competing with a large entity like Walmart, known for low prices, means accepting a specific market dynamic <a class="yt-timestamp" data-t="00:25:18">[00:25:18]</a>.
+3.  **Choosing the source of validation:** Rather than solely pleasing a boss, validation should come from meeting the needs and tastes of the chosen customers <a class="yt-timestamp" data-t="00:25:39">[00:25:39]</a>.
+4.  **Choosing your distribution:** The distribution strategy significantly impacts the product itself. The rise of digital distribution platforms like Steam changed everything for video games, just as downloadable shareware altered the software landscape <a class="yt-timestamp" data-t="00:26:04">[00:26:04]</a>.
+
+These choices are interconnected and cannot be changed at will <a class="yt-timestamp" data-t="00:36:11">[00:36:11]</a>. Failure to make clear decisions about who a product is *for* and *not for* can lead to an ineffective strategy <a class="yt-timestamp" data-t="00:27:09">[00:27:09]</a>. This holistic understanding of the system, including its inherent culture, competition, and distribution channels, is fundamental for [[becoming_more_strategic_in_product_management | becoming more strategic]] and [[developing_longterm_strategic_approaches in product development | developing long-term strategic approaches]].

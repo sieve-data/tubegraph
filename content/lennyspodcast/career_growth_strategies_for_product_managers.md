@@ -1,89 +1,77 @@
 ---
-title: Career growth strategies for product managers
-videoId: aXGo1o_baBo
+title: Career Growth Strategies for Product Managers
+videoId: ImSvm11GR0Y
 ---
 
 From: [[lennyspodcast]] <br/> 
 
-Product management is a dynamic field, and successful [[career_development_for_product_owners_and_product_managers | career development]] requires intentionality, continuous learning, and strategic action. Claire V, a seasoned Chief Product Officer, shares her insights on how to navigate and accelerate a product management career, drawing from her extensive experience as a CPO, founder, engineer, designer, and marketer <a class="yt-timestamp" data-t="01:06:00">[01:06:00]</a>.
+VR Deman, Head of Product at Gojek, is recognized as a leading product professional in Asia for his ability to build strong product and design talent and help people [[pathways_to_break_into_product_management | transition into product management]] <a class="yt-timestamp" data-t="01:09:50">[01:09:50]</a>. He has developed a [[career_growth_and_impact_for_product_managers | career growth framework]] for product managers based on observations over a decade and a half <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. This framework, known as the "Three W's," outlines key areas where successful product managers differentiate themselves and accelerate their [[career_growth_and_impact_for_product_managers | career growth]] <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>.
 
-## Claire V's "Secret Sauce" for Product Management Career Progression
+## The Three W's [[Career Growth Framework for Product Managers]]
 
-Claire V's career path, from copywriter to CPO, highlights a few core principles for rapid advancement:
-*   **Relentless Curiosity and Eagerness to Build** <a class="yt-timestamp" data-t="05:38:00">[05:38:00]</a>: Finding joy in the "craft" makes it easier to accelerate growth <a class="yt-timestamp" data-t="05:46:00">[05:46:00]</a>.
-*   **Clarity on Career Goals** <a class="yt-timestamp" data-t="06:08:00">[06:08:00]</a>: It's crucial to know what you want from your career, be clear about it, and ask for it <a class="yt-timestamp" data-t="06:10:00">[06:10:00]</a>.
-    *   Claire explicitly communicated her desire to become a Chief Product Officer to her boss while a VP of Product <a class="yt-timestamp" data-t="07:46:00">[07:46:00]</a>.
-    *   When interviewing for her current role at LaunchDarkly, she stated her next goal was a CEO role <a class="yt-timestamp" data-t="08:02:00">[08:02:00]</a>.
-*   **Make it Easy for Your Manager to Support You** <a class="yt-timestamp" data-t="06:14:00">[06:14:00]</a>: Present solutions that benefit the company, not just your personal promotion <a class="yt-timestamp" data-t="11:02:00">[11:02:00]</a>.
-    *   **Example**: When a Head of Marketing left, Claire identified an opportunity to combine product and marketing growth, drew an org chart, and presented it to her boss with a suggested rollout plan and job description <a class="yt-timestamp" data-t="06:47:00">[06:47:00]</a>. She got the job <a class="yt-timestamp" data-t="07:21:00">[07:21:21]</a>.
-    *   **Example**: Claire expanded into leading engineering teams at Color by recognizing a need to uplevel the engineering organization and confidently presenting her skills to solve the problem quickly <a class="yt-timestamp" data-t="13:26:00">[13:26:00]</a>.
-*   **The Work Speaks for Itself**: Ultimately, producing results is what drives [[product_management_career_growth_framework | career growth]] <a class="yt-timestamp" data-t="09:11:00">[09:11:00]</a>.
-*   **Strategic Promotion Timing**: Understand your organization's talent norms and promotion cycles to have conversations at the right time with the right context <a class="yt-timestamp" data-t="10:10:00">[10:10:00]</a>.
+The framework consists of three pillars <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>:
+1.  What you produce <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>
+2.  What you bring to the table <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>
+3.  What's your operating model <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>
 
-## Finding Your Zone of Genius
+Successful product managers often excel in at least two, if not all three, of these areas <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
 
-To maintain sustainability and joy in your career, Claire advises finding and operating within your "zone of genius" <a class="yt-timestamp" data-t="17:09:00">[17:09:00]</a>.
-*   **Energy Audit**: Review your calendar for the last month/quarter and categorize activities into:
-    *   "I hated doing this"
-    *   "I didn't love doing it but it was fine"
-    *   "I love doing this"
-    *   "I love doing this and if I could spend all my time on this, I would be the happiest person in the whole world" <a class="yt-timestamp" data-t="19:41:00">[19:41:00]</a>.
-    *   Focus on how to spend more time in the top category <a class="yt-timestamp" data-t="20:09:00">[20:09:00]</a>. This points to your passion, expertise, and where you'll add significant value <a class="yt-timestamp" data-t="20:20:00">[20:20:00]</a>.
-*   **Differentiated Value**: Ask yourself: "What do I do that no one else in this organization can do?" <a class="yt-timestamp" data-t="20:32:00">[20:32:00]</a>. Lean into these unique, hard-to-replicate abilities <a class="yt-timestamp" data-t="20:50:00">[20:50:00]</a>.
-    *   **Claire's Example**: Her ability to traverse across and up/down functions (product, engineering, design, data, operations, revenue) and to switch between strategic vision and detailed execution is her zone of genius <a class="yt-timestamp" data-t="21:01:00">[21:01:00]</a>.
+### 1. What You Produce: Focus on Outputs First
 
-## Operating in Later Stage Companies
+Early in your [[career development and growth strategies | career]], the primary focus should be on *outputs* rather than immediate *impact* <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>.
+*   **Outputs** are tangible deliverables, such as launching a product, analyzing experiments, or contributing to a go-to-market strategy <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+*   The advice for early-career [[key_skills_for_product_managers | product managers]] is to focus on "just getting stuff out and done" <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a> <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. This means shipping products, being helpful, and producing something that makes the team and manager's lives simpler <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a> <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>.
+*   As you become more senior, you transition to focusing on *outcomes* (product area goals) and *leadership* <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a> <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>. However, it's crucial to continue honing your craft on outputs, even at senior levels <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. Don't forget your Individual Contributor (IC) roots <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>.
+*   Being "useful" means doing small things that make an impact and contribute to your learning, rather than only focusing on "mini-CEO" tasks <a class="yt-timestamp" data-t="00:14:31">[00:14:31]</a>.
 
-Claire is hired to remind later-stage companies that "they can operate like a startup" <a class="yt-timestamp" data-t="23:06:00">[23:06:00]</a>. She focuses on pace and quality:
+### 2. What You Bring to the Table: Impact on Impact
 
-### Accelerating Pace
-*   **Avoid Meeting-Driven Cadence**: Do not let the pace of the organization degrade to the pace of recurring meetings <a class="yt-timestamp" data-t="23:38:00">[23:38:00]</a>. Decisions and next steps should happen immediately, not wait for the "next meeting" <a class="yt-timestamp" data-t="23:53:00">[23:53:00]</a>.
-*   **"One Click Faster" Expectation**: Communicate to leaders that the expectation is to pull deadlines and actions forward. If something is planned for "this year," make it "this half"; "this half" becomes "this quarter," and so on <a class="yt-timestamp" data-t="24:19:00">[24:19:00]</a>. This changes expectations, energy, and momentum <a class="yt-timestamp" data-t="24:43:00">[24:43:00]</a>.
-*   **Personal SLA**: Leaders should avoid being a bottleneck. Be highly responsive and make decisions quickly, especially in areas of decision-making, tiebreaking, and approvals <a class="yt-timestamp" data-t="24:52:00">[24:52:00]</a>.
+This pillar focuses on your individual contribution to the product's impact <a class="yt-timestamp" data-t="00:15:49">[00:15:49]</a>. It's not enough for the product to be successful; you must demonstrate that you were a useful contributor to that success <a class="yt-timestamp" data-t="00:16:04">[00:16:04]</a>.
+*   **Quality of Artifacts**: Ensure the quality of product artifacts such as Product Requirements Documents (PRDs), product notes, product strategy documents, and design briefs <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a> <a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>. These artifacts demonstrate your [[key_skills_for_product_managers | skills]] in data and metrics, design and research, technology, and [[becoming_more_strategic_in_product_management | strategy]] <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>.
+*   **Beyond Arguments**: Instead of bringing arguments or pushbacks, channelize questions, inputs, and direction into strategic choices that shape discussions and direction <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a>.
+*   **"I got this" Aura**: Cultivate an aura where teammates feel confident that when something is put on your plate, it will be done well and not forgotten <a class="yt-timestamp" data-t="00:24:07">[00:24:07]</a>.
 
-### Upholding Quality
-*   **High Talent Bar**:
-    *   **Define and Articulate Specific Expectations**: Create a specific and measurable career ladder, especially for senior levels, with clear goals and metrics for performance <a class="yt-timestamp" data-t="27:31:00">[27:31:00]</a>.
-    *   **Normalize Feedback**: Foster a culture where open and candid feedback is normal and not conflict-avoidant <a class="yt-timestamp" data-t="28:40:00">[28:40:00]</a>. Clear feedback, even hard feedback, is "kind" because it sets people up for success <a class="yt-timestamp" data-t="31:50:00">[31:50:00]</a>.
-    *   **Act Quickly on Non-Fits**: If individuals are not a fit for the team or role, move against that quickly to maintain a healthy, effective, and performant team <a class="yt-timestamp" data-t="29:38:00">[29:38:00]</a>.
+### 3. What's Your Operating Model: How You Work with Others
 
-## Expanding Your Scope and Influence
-*   **Look Beyond Product**: For PMs, it's okay to go "a little left and a little right" of your core product role to find growth opportunities <a class="yt-timestamp" data-t="14:34:00">[14:34:00]</a>. Claire's first director role included marketing <a class="yt-timestamp" data-t="14:45:00">[14:45:00]</a>.
-*   **Bend the Universe to Your Will**: Organizations, especially in startups and growth-stage companies, are fluid. They can shift around talented and motivated individuals <a class="yt-timestamp" data-t="15:38:00">[15:38:00]</a>. Think as an "org design thinker" and propose solutions that benefit the company while creating new opportunities for yourself <a class="yt-timestamp" data-t="16:16:00">[16:16:00]</a>.
+This is considered the most important factor for progressing from mid-senior to senior levels <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>. It encompasses communication, collaboration, organizational, and community [[key_skills_for_product_managers | skills]] <a class="yt-timestamp" data-t="00:19:11">[00:19:11]</a>.
+*   **Three Tenets for Interaction with Stakeholders**:
+    1.  Raise difficult issues without being difficult to work with <a class="yt-timestamp" data-t="00:19:38">[00:19:38]</a> <a class="yt-timestamp" data-t="00:20:45">[00:20:45]</a>.
+    2.  Bring out important topics without drawing importance to yourself <a class="yt-timestamp" data-t="00:19:47">[00:19:47]</a> <a class="yt-timestamp" data-t="00:20:48">[00:20:48]</a>.
+    3.  Be in charge of getting decisions made, not making all decisions yourself <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a> <a class="yt-timestamp" data-t="00:20:56">[00:20:56]</a>.
+*   **Art of Pushback**: When pushing back on ideas, bring the conversation to a logical space rather than an emotional one <a class="yt-timestamp" data-t="00:25:53">[00:25:53]</a>. Aim to add value and advance the product's direction and execution <a class="yt-timestamp" data-t="00:24:55">[00:24:55]</a>.
+*   **Role Clarity**: As a [[role_of_product_managers_in_organizations | product manager]], you are the "community enabler" that ties everyone together towards a common mission <a class="yt-timestamp" data-t="00:52:26">[00:52:26]</a>. You are the only discipline that co-collaborates and pairs with all other disciplines (strategy, technology, design, data), giving you a unique insight <a class="yt-timestamp" data-t="00:49:52">[00:49:52]</a>.
 
-## The Rise of the Chief Product & Technology Officer (CPTO) Role
-Claire V has held the [[career_development_for_product_owners_and_product_managers | CPTO]] role, combining product, engineering, and design <a class="yt-timestamp" data-t="00:26:00">[00:26:00]</a>.
-*   **Technical Acumen is Essential**: A CPTO must be technical to understand how software is built and to drive value through a high-performing engineering team <a class="yt-timestamp" data-t="47:18:00">[47:18:00]</a>. This includes understanding architectural decisions and infrastructure <a class="yt-timestamp" data-t="47:48:00">[47:48:00]</a>.
-*   **Operational & Org Design Mindset**: The role is highly operational, requiring an understanding of organization design due to the larger size of engineering teams and different talent challenges <a class="yt-timestamp" data-t="48:11:00">[48:11:00]</a>. CPTOs are typically on pager duty for service outages <a class="yt-timestamp" data-t="48:51:00">[48:51:00]</a>.
-*   **Benefits of the Combined Role**:
-    *   **Strategic Alignment**: Optimizes for the entire "capital P product" rather than separate functions, eliminating debates over what's best for product, engineering, or design <a class="yt-timestamp" data-t="49:49:00">[49:49:00]</a>. The focus shifts to what is best for the organization, customers, and business needs <a class="yt-timestamp" data-t="50:30:00">[50:30:00]</a>.
-    *   **CEO Leverage**: Provides the CEO with a single accountable person for the significant R&D investment, ensuring alignment with business objectives <a class="yt-timestamp" data-t="50:01:00">[50:50:01]</a>.
-*   **Path to CPTO**:
-    *   **Early-Stage Startup Experience**: Working in a very small startup allows individuals to experience and develop a breadth of functional skills (product, engineering, design, marketing) that are crucial for a CPTO role <a class="yt-timestamp" data-t="52:20:00">[52:20:00]</a>.
-    *   **"No Lanes" Mindset**: PMs should avoid being siloed. A culture where "lanes are dotted, not solid" – allowing designers to write specs or engineers to pencil out designs – fosters the type of broad thinking needed for these leadership roles <a class="yt-timestamp" data-t="53:08:00">[53:08:00]</a>.
+## Pitfalls that Impede [[Career Growth]]
 
-## Adapting to AI's Impact on Product Management
-Claire believes AI will significantly change the product management role, but generally views this positively <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>.
-*   **Shift in Skills**: While AI may not eliminate PMs, the skills required will shift, and the ratios between PMs and other teams may change <a class="yt-timestamp" data-t="01:03:46">[01:03:46]</a>.
-*   **Automation of "Lowercase c" Communication**: AI is very good at synthesizing information, crafting functional communication, and coordinating information flow <a class="yt-timestamp" data-t="01:04:27">[01:04:27]</a>. This might reduce the PM's role as a "keeper of cross-functional relationships and communication" <a class="yt-timestamp" data-t="01:04:47">[01:04:47]</a>.
-*   **Enduring Human Skills ("Capital C" Communication)**: AI is unlikely to replace influential, convincing, bold leadership that moves human systems, or the charisma needed to attract and align people <a class="yt-timestamp" data-t="01:04:54">[01:04:54]</a>.
-*   **Strategy and Product Sense**: While AI can synthesize data into a strategic plan, the human elements of boldness, seeing the future in a novel way, and charisma remain essential <a class="yt-timestamp" data-t="01:06:12">[01:06:12]</a>.
-*   **Efficiency Gains**: Tools like Claire's own Chat PRD <a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a> (available at chatprd.ai <a class="yt-timestamp" data-t="00:56:51">[00:56:51]</a>) can save dozens of hours on writing documents and foundational requirements, allowing PMs to focus on details and higher-leverage activities <a class="yt-timestamp" data-t="01:00:10">[01:00:10]</a>.
-*   **Staying Ahead of the Curve**:
-    *   **Build Product Skills Around Non-Deterministic Products**: Learn how to build products with new AI technologies, which are very different from traditional software <a class="yt-timestamp" data-t="01:11:48">[01:11:48]</a>.
-    *   **Study AI Products**: Conduct "outside-in product teardowns" of existing AI tools to understand their strengths, weaknesses, and how you would have approached their design and measurement <a class="yt-timestamp" data-t="01:12:51">[01:12:51]</a>.
-    *   **Experiment with No-Code/Low-Code Tools**: Play with these tools to stitch things together, even without deep engineering knowledge <a class="yt-timestamp" data-t="01:13:23">[01:13:23]</a>.
-    *   **Find the Fun**: Explore creative AI tools (like Midjourney) and build art or other non-commercial projects to learn and experiment <a class="yt-timestamp" data-t="01:13:40">[01:13:40]</a>.
+Three mindset shifts can hinder [[career_growth_and_impact_for_product_managers | career growth]] for product managers <a class="yt-timestamp" data-t="00:27:33">[00:27:33]</a>:
 
-## Key [[traits_and_skills_for_successful_product_managers | Skills]] and [[key_skills_and_traits_for_product_managers | Traits]] for Successful Product Managers
-*   **Scrappiness**: The ability to do a lot with a little, figure out how to achieve goals despite obstacles <a class="yt-timestamp" data-t="00:45:07">[00:45:07]</a>.
-*   **Business Acumen**: Understand the underlying mechanisms of how a company makes money, unit economics, pricing models, and identify points of leverage to improve the business model <a class="yt-timestamp" data-t="01:21:32">[01:21:32]</a>.
-*   **Boldness and Charisma**: To lead and influence human teams <a class="yt-timestamp" data-t="01:04:54">[01:04:54]</a>.
-*   **Adaptability**: The product world is constantly changing, especially with new technologies like AI <a class="yt-timestamp" data-t="01:08:41">[01:08:41]</a>. PMs need to be Forward Thinking <a class="yt-timestamp" data-t="01:10:55">[01:10:55]</a>.
-*   **Pace**: Act fast and avoid unnecessary delays <a class="yt-timestamp" data-t="01:24:25">[01:24:25]</a>.
+### 1. Focusing on Things You Cannot Control
+*   Early in your career, you focus on what you *can* control (your output, your craft) <a class="yt-timestamp" data-t="00:28:11">[00:28:11]</a>.
+*   As you become mid-senior, the focus often shifts to external factors: "Why is the organization not doing this for me?" or "Why can't that stakeholder change?" <a class="yt-timestamp" data-t="00:28:52">[00:28:52]</a>.
+*   To continue [[career_growth_and_impact_for_product_managers | growing]], maintain focus on what you *can* control, such as improving your [[key_skills_for_product_managers | skills]] in data, technology, communication, and collaboration <a class="yt-timestamp" data-t="00:29:10">[00:29:10]</a> <a class="yt-timestamp" data-t="00:29:42">[00:29:42]</a>.
 
-## Final Advice
-*   **Empowerment**: Understand your value and stay in an empowered space <a class="yt-timestamp" data-t="01:36:29">[01:36:29]</a>. The universe is "bendable to your will" <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>.
-*   **Curiosity**: Remain curious about structural, cultural, and personal factors that influence your career and the industry <a class="yt-timestamp" data-t="01:35:47">[01:35:47]</a>.
-*   **Help Each Other**: In a tough tech environment, support fellow professionals <a class="yt-timestamp" data-t="01:42:40">[01:42:40]</a>.
-*   **Appreciate Your Role**: Acknowledge the privilege and joy of a product management job and "have some fun" <a class="yt-timestamp" data-t="01:42:55">[01:42:55]</a>.
+### 2. Your Relationship with Change
+*   Early on, the rate of personal [[career_development_and_growth_strategies | skill development]] and learning is high, leading to rapid [[career_growth_and_impact_for_product_managers | career growth]] <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>.
+*   At mid-senior levels, people might become hesitant to take on new challenges, fearing the impact on their [[career_growth_and_impact_for_product_managers | career]] <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>.
+*   Continuously seek ways to increase your rate of change and [[career development and growth strategies | self-improvement]] <a class="yt-timestamp" data-t="00:30:44">[00:30:44]</a>. Benchmark yourself against the best in the industry, not just within your organization, to identify areas for improvement <a class="yt-timestamp" data-t="00:31:09">[00:31:09]</a>.
+
+### 3. How You See Yourself (Self-Story)
+*   The stories you tell yourself about who you are can either enable or hinder your [[career_growth_and_impact_for_product_managers | growth]] <a class="yt-timestamp" data-t="00:32:02">[00:32:02]</a> <a class="yt-timestamp" data-t="00:33:13">[00:33:13]</a>. For example, labeling yourself as a "high agency PM" might excuse brashness or cutting corners, while "hyper-collaborative" might excuse indecisiveness <a class="yt-timestamp" data-t="00:32:39">[00:32:39]</a>.
+*   Identify and correct these self-stories by seeking feedback from trusted individuals <a class="yt-timestamp" data-t="00:33:24">[00:33:24]</a>.
+*   Embrace a "learner" mindset. Continuously interact with people smarter than you, read books, and consume content to stay grounded and identify areas for improvement <a class="yt-timestamp" data-t="00:35:28">[00:35:28]</a>.
+
+## [[Key Strategies and Practices for Effective Product Management and Team Building | Strategies for Leveling Up]]
+
+*   **Be Open to Feedback**: Actively listen to and appreciate feedback, even when it's difficult, as it is a gift that helps you improve <a class="yt-timestamp" data-t="00:39:35">[00:39:35]</a>.
+*   **Pick a Focus Area**: You cannot improve on every [[key_skills_for_product_managers | skill]] simultaneously <a class="yt-timestamp" data-t="00:39:03">[00:39:03]</a>. Identify the area that offers the maximum leverage for your [[career_growth_and_impact_for_product_managers | growth]] <a class="yt-timestamp" data-t="00:39:09">[00:39:09]</a>.
+    *   **Recommendation**: When starting, pick one [[key_skills_for_product_managers | skill]] from data or technology, and one from design and research <a class="yt-timestamp" data-t="00:41:10">[00:41:10]</a>.
+    *   If you come from a design/research background, focus on data or tech <a class="yt-timestamp" data-t="00:41:22">[00:41:22]</a>. If from data/tech, focus on design/research <a class="yt-timestamp" data-t="00:41:25">[00:41:25]</a>.
+    *   Once proficient in two of these, then focus on [[becoming_more_strategic_in_product_management | strategy]] <a class="yt-timestamp" data-t="00:41:43">[00:41:43]</a>.
+    *   "Softer" skills like communication, collaboration, and community engagement are lifelong pursuits, where you will always have room to improve <a class="yt-timestamp" data-t="00:40:38">[00:40:38]</a>.
+*   **Understand the [[Role of Product Managers in Organizations | Product Manager's Role]]**: The product manager's role is often ambiguous. Instead of obsessing over a precise definition, focus on your contribution and output <a class="yt-timestamp" data-t="00:49:21">[00:49:21]</a>. If something is blocking product progress, a product manager should work on it <a class="yt-timestamp" data-t="00:48:06">[00:48:06]</a>. Embrace the "art" and "science" of product management through practice and frameworks <a class="yt-timestamp" data-t="00:49:10">[00:49:10]</a>.
+
+## Contrarian Views on [[Career Growth]]
+
+*   **Intent is Not Enough**: While good intent is important, your actions, behavior, communication, and collaboration must also align and visibly demonstrate your capabilities <a class="yt-timestamp" data-t="00:57:34">[00:57:34]</a>.
+*   **Effort and Hours Matter**: It's crucial to put in the effort and hours to [[career_development_and_growth_strategies | grow]] and improve your [[key_skills_for_product_managers | skills]]. This is often seen as "Politically Incorrect" but is essential for personal and [[career_growth_and_impact_for_product_managers | career development]] <a class="yt-timestamp" data-t="00:58:16">[00:58:16]</a>.
+*   **It's Never Too Late**: You can pursue what you want to do and be at any stage of your life <a class="yt-timestamp" data-t="01:08:47">[01:08:47]</a>.

@@ -1,0 +1,59 @@
+---
+title: The role of data analytics in business impact
+videoId: D4PDb_C8Dww
+---
+
+From: [[lennyspodcast]] <br/> 
+
+At DoorDash, analytics is viewed as a [[influence_of_a_datadriven_approach_on_company_growth | business impact-driving function]] rather than a pure service function <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. The goal is not merely to answer "why," but to provide actionable insights by answering "what do we do now that we know this?" <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. Jessica Lax, Vice President of Analytics and Data Science at DoorDash, emphasizes that analytics teams should find opportunities and offer a point of view on decisions <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+
+## Structuring Data Teams for Impact
+
+Jessica Lax advocates for a centralized organizational model for data teams, considering it superior to embedded analytics within business units <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. While analytics teams in a centralized model report through a central organization, they are divided into "pods" that map perfectly with partner teams like product, engineering, operations, and marketing <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. This structure allows the analytics team to share the same goals as their partner teams, aligning incentives and focusing on the most important initiatives <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a>. They function as business and thought partners, bringing data-driven insights to the table <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
+
+### Benefits of a Centralized Data Organization
+A centralized model offers several advantages for driving [[influence_of_a_datadriven_approach_on_company_growth | business impact]] <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>:
+*   **Consistent and High Talent Bar**: It ensures a consistent bar for technical and soft skills during hiring, leading to higher quality talent <a class="yt-timestamp" data-t="00:11:06">[00:11:06]</a>.
+*   **Growth Opportunities**: Centralized teams provide clearer growth paths and opportunities for individuals to explore different problem areas within the company, aiding in [[retention_and_growth_challenges_in_a_datadriven_business | talent retention]] <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>.
+*   **Consistency of Methodologies and Metrics**: Prevents different teams from having varying definitions for the same metrics (e.g., "sales"), ensuring everyone uses consistent data and improving methodologies through collective input <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>. This also helps in scaling by identifying common problems across teams <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>.
+*   **Team Culture and Brand**: Fosters a strong team culture of learning and sharing, which is vital for attracting top talent and providing internal support through peer reviews and mentorship <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>.
+
+## Balancing Proactive and Reactive Work
+
+It is challenging but crucial to carve out time for exploratory work and deep dives, as there are always more questions and immediate tasks than time allows <a class="yt-timestamp" data-t="00:15:48">[00:15:48]</a>. Intentionality is key, and setting goals around finding insights through self-directed work helps hold the team accountable <a class="yt-timestamp" data-t="00:16:06">[00:16:06]</a>.
+
+DoorDash uses hackathons to dedicate time to explore interesting data <a class="yt-timestamp" data-t="00:16:50">[00:16:50]</a>. Many valuable insights, which have driven future roadmaps, have emerged from these deep dives <a class="yt-timestamp" data-t="00:17:03">[00:17:03]</a>.
+
+### Case Study: Uncovering Referral Fraud
+During one hackathon, the analytics team investigated the consumer acquisition referral channel, which appeared to have below-average engagement and a long payback period <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>. By actively trying to commit referral fraud, the team uncovered significant fraudulent behavior <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>. They found that referral engagement was a bimodal distribution: one group of excellent consumers referring other good consumers, and another group engaging in fraud to get free discounts <a class="yt-timestamp" data-t="00:18:50">[00:18:50]</a>. This led to recommendations for better fraud checks and caps on referrals, significantly improving the marketing channel's efficiency <a class="yt-timestamp" data-t="00:19:57">[00:19:57]</a>. This example highlights the importance of looking beyond averages to understand distributions and optimize for efficiency <a class="yt-timestamp" data-t="00:20:07">[00:20:07]</a>.
+
+### Managing Requests and Priorities
+To balance ad-hoc requests with strategic deep dives, it's essential to establish a culture where leadership sets clear operating models <a class="yt-timestamp" data-t="00:21:14">[00:21:14]</a>. By aligning goals with business partners, data teams can present trade-offs when new requests come in <a class="yt-timestamp" data-t="00:21:30">[00:21:30]</a>. The conversation should be about which tasks are most important for achieving shared goals, rather than simply saying no <a class="yt-timestamp" data-t="00:22:04">[00:22:04]</a>. Regularly re-evaluating prioritization with business partners ensures the team is working on the most impactful things <a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>.
+
+## Hiring for [[Practical application of strategic thinking in business | Business Impact]]
+
+Beyond technical skills, which are table stakes, Jessica Lax looks for unique characteristics in top data talent <a class="yt-timestamp" data-t="00:24:32">[00:24:32]</a>:
+*   **Curiosity**: The ability to pull on threads and proactively investigate anomalies without being told <a class="yt-timestamp" data-t="00:24:51">[00:24:51]</a>. This can be tested by presenting cases with subtle inconsistencies and observing how candidates react or if they notice them <a class="yt-timestamp" data-t="00:25:44">[00:25:44]</a>.
+*   **Problem-Solving under Ambiguity**: Candidates are assessed on their ability to break down problems, handle ambiguity, and make decisions without perfect information <a class="yt-timestamp" data-t="00:27:16">[00:27:16]</a>. Observing how they react to being told they are wrong or how they pivot with new information is a crucial signal <a class="yt-timestamp" data-t="00:27:56">[00:27:56]</a>.
+
+Jessica Lax's own non-traditional background (starting in finance, self-taught SQL and Python) influences her hiring approach <a class="yt-timestamp" data-t="00:29:03">[00:29:03]</a>. She emphasizes hiring technical experts while grounding the team in driving [[practical_application_of_strategic_thinking_in_business | business impact]] <a class="yt-timestamp" data-t="00:30:51">[00:30:51]</a>. This mix of diverse technical skills and a pragmatic, business-focused mindset has been a successful partnership <a class="yt-timestamp" data-t="00:31:16">[00:31:16]</a>.
+
+## [[Effective Metrics and Goal Setting for Data Teams | Effective Metrics and Goal Setting]]
+
+Picking the right metrics is vital for a complex business like DoorDash <a class="yt-timestamp" data-t="00:44:20">[00:44:20]</a>. Lessons learned include:
+*   **Short-term Proxy for Long-term Output**: Find a short-term metric that can be measured and quickly iterated on, which drives a long-term output <a class="yt-timestamp" data-t="00:44:51">[00:44:51]</a>. For example, "retention" is a terrible metric to goal on in the short term because it's hard to move quickly <a class="yt-timestamp" data-t="00:45:02">[00:45:02]</a>. Instead, identify inputs that drive retention and test them through experimentation <a class="yt-timestamp" data-t="00:45:17">[00:45:17]</a>.
+*   **Simplicity over Complexity**: Avoid complex, composite metrics with arbitrary coefficients that no one truly understands <a class="yt-timestamp" data-t="00:45:33">[00:45:33]</a>. A simpler, even if imperfect, metric that people can intuitively grasp and discuss across the company will drive better outcomes <a class="yt-timestamp" data-t="00:46:07">[00:46:07]</a>. For example, instead of a "Merchant Health Score," focus on measurable inputs like "Merchant photo coverage" or "active hours" <a class="yt-timestamp" data-t="00:51:50">[00:51:50]</a>.
+*   **Common Currency for Trade-offs**: Quantify the impact of different business levers (e.g., price, delivery times, selection) in terms of a common currency, such as Gross Order Value (GOV) or volume <a class="yt-timestamp" data-t="00:46:35">[00:46:35]</a>. This allows teams to make informed trade-offs across marketing, logistics, or operations investments, understanding what return they get for a dollar spent in various areas <a class="yt-timestamp" data-t="00:47:07">[00:47:07]</a>. This is particularly crucial in a multi-sided marketplace like DoorDash <a class="yt-timestamp" data-t="00:50:20">[00:50:20]</a>.
+*   **Focus on Edge Cases and Fail States**: While averages are important, it's crucial to look at edge cases and "fail states" that might be rare but cause severe negative impacts <a class="yt-timestamp" data-t="00:55:29">[00:55:29]</a>. For example, "never delivered" orders at DoorDash are rare but lead to churn and are costly <a class="yt-timestamp" data-t="00:55:51">[00:55:51]</a>. Setting concrete goals to eliminate these extreme negative experiences can have a powerful impact on brand and profitability, even if they don't appear significant in overall averages <a class="yt-timestamp" data-t="00:57:04">[00:57:04]</a>.
+
+## Culture of Extreme Ownership
+
+DoorDash fosters a culture of "extreme ownership" over outcomes <a class="yt-timestamp" data-t="00:41:20">[00:41:20]</a>. This means data scientists are expected to figure out what's happening and take action, even if it means stepping outside their traditional role, like calling customers for qualitative research <a class="yt-timestamp" data-t="00:41:40">[00:41:40]</a>. This proactive approach, where data scientists engage in activities like [[impact_in_product_management | product management]] or engineering work, is encouraged <a class="yt-timestamp" data-t="00:43:37">[00:43:37]</a>. The "We Dash" program, where all employees, including data scientists, regularly perform deliveries or customer support, builds empathy and helps identify product bugs <a class="yt-timestamp" data-t="00:38:30">[00:38:30]</a>.
+
+## [[Training and utilizing AI models in business | Training and Utilizing AI Models in Business]]
+
+Jessica Lax is excited about using AI to make the data team more productive <a class="yt-timestamp" data-t="01:03:01">[01:03:01]</a>. Specifically, tools like "Ask Data AI" are being developed to empower non-technical users to edit queries or get data insights independently, reducing the burden on the analytics team <a class="yt-timestamp" data-t="01:04:02">[01:04:02]</a>.
+
+## Building Diverse Data Teams
+
+A key aspect of building a strong data team is fostering a diverse environment <a class="yt-timestamp" data-t="01:07:06">[01:07:06]</a>. This means not only technical skills but also varied backgrounds, including those from operations, marketing, finance, consulting, and different company stages (startups to large scale) <a class="yt-timestamp" data-t="01:06:05">[01:06:05]</a>. This diversity of experience and expertise allows team members to teach each other and provides a broader perspective on problem-solving <a class="yt-timestamp" data-t="01:07:09">[01:07:09]</a>.

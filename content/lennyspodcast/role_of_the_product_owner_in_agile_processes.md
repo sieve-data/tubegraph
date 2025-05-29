@@ -1,0 +1,73 @@
+---
+title: Role of the product owner in agile processes
+videoId: wbi9chsAHp4
+---
+
+From: [[lennyspodcast]] <br/> 
+The role of a product owner primarily emerged from the Scrum framework, designed to help developers prioritize their work <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. It did not originate from [[the_role_of_a_product_manager | product management]] as it is understood today <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>, <a class="yt-timestamp" data-t="00:20:05">[00:20:05]</a>. Despite not being a traditional product management role, the product owner position was the third fastest growing role in Tech in the US <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. This growth is largely seen in large, non-tech companies such as banks, insurance, and pharmaceutical companies, which historically did not focus on building software internally <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, <a class="yt-timestamp" data-t="00:22:36">[00:22:36]</a>, <a class="yt-timestamp" data-t="00:39:46">[00:39:46]</a>.
+
+Melissa Perry, a prominent figure in the [[the_role_of_a_product_manager | product management]] community and author of *Escaping the Build Trap*, notes the increasing adoption of the product owner role, especially in large organizations seeking structured approaches to software development <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>, <a class="yt-timestamp" data-t="00:35:34">[00:35:34]</a>.
+
+## Origin and Evolution
+The Agile Manifesto, written in 2001 by software developers, aimed to improve software development processes. None of its signatories were product managers <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>, <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>. The product owner role was codified in the Scrum Guide by Ken Schwaber and Jeff Sutherland, originating from discussions on how to build better products from a development perspective <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>, <a class="yt-timestamp" data-t="00:13:50">[00:13:50]</a>, <a class="yt-timestamp" data-t="00:13:57">[00:13:57]</a>.
+
+In its first version, the Scrum Guide suggested that for commercial development, the product owner "may be the product manager," and for in-house development, it "could be the user department manager" <a class="yt-timestamp" data-t="00:16:50">[00:16:50]</a>, <a class="yt-timestamp" data-t="00:16:56">[00:16:56]</a>. However, later versions, particularly the 2013 version that most companies use for their agile transformations, removed the direct suggestion that a product manager could be a product owner <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>, <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>. This omission led to a significant [[distinctions_between_product_owners_and_product_managers | misconception]] of the role.
+
+## Core Responsibilities (as per Scrum Guide)
+The product owner's primary responsibility is to maximize the value of the work done by the development team <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>, <a class="yt-timestamp" data-t="00:20:18">[00:20:18]</a>. This includes:
+*   Defining what goes into the backlog <a class="yt-timestamp" data-t="00:14:26">[00:14:26]</a>.
+*   Writing user stories <a class="yt-timestamp" data-t="00:14:28">[00:14:28]</a>.
+*   Prioritizing work for developers <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>, <a class="yt-timestamp" data-t="00:14:36">[00:14:36]</a>.
+*   Working with the Scrum Master to optimize the value of Scrum use <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>.
+The Scrum Guide emphasizes that the development team consists of developers with all the skills to turn the product owner's requests into potentially shippable increments each Sprint <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a>, <a class="yt-timestamp" data-t="00:16:22">[00:16:22]</a>.
+
+## Misconceptions and Challenges
+### Lack of Strategic Focus
+A major [[challenges_in_product_management | challenge]] with the product owner role, especially in large organizations adopting Scrum, is the misconception that they are responsible for all aspects of product management <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>. Often, product owners are trained in short, two-day classes that focus on tactical aspects like backlog management, stand-ups, and sprint prioritization <a class="yt-timestamp" data-t="00:18:37">[00:18:37]</a>, <a class="yt-timestamp" data-t="00:19:37">[00:19:37]</a>. They are not typically taught about:
+*   Experimentation <a class="yt-timestamp" data-t="00:19:57">[00:19:57]</a>.
+*   Market research <a class="yt-timestamp" data-t="00:19:58">[00:19:58]</a>.
+*   Data analysis <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>.
+*   Developing hypotheses <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>.
+
+This leads to product owners becoming "order takers," highly tactical and focused on keeping developers busy by writing user stories for features, often without deep customer understanding or strategic alignment <a class="yt-timestamp" data-t="00:28:46">[00:28:46]</a>, <a class="yt-timestamp" data-t="00:29:19">[00:29:19]</a>, <a class="yt-timestamp" data-t="00:37:37">[00:37:37]</a>. They may even find themselves creating work to ensure teams remain productive, leading to inefficient processes <a class="yt-timestamp" data-t="00:30:05">[00:30:05]</a>.
+
+### Scaled Agile Framework (SAFe)
+SAFe, a popular scaled agile framework, further exacerbates the [[distinctions_between_product_owners_and_product_managers | distinction between product owner and product manager]]. In SAFe, the product owner is positioned as part of the agile team, working with scrum masters and developers, while the product manager sits with system architects and release train engineers, often above the product owner <a class="yt-timestamp" data-t="00:30:21">[00:30:21]</a>, <a class="yt-timestamp" data-t="00:32:00">[00:32:00]</a>. This hierarchy means product owners often report to product managers and are primarily responsible for feature breakdown and execution rather than strategic discovery <a class="yt-timestamp" data-t="00:34:26">[00:34:26]</a>, <a class="yt-timestamp" data-t="00:34:30">[00:34:30]</a>.
+
+SAFe is popular with executives in large enterprises because it provides a highly prescriptive operating model <a class="yt-timestamp" data-t="00:36:40">[00:36:40]</a>, <a class="yt-timestamp" data-t="00:37:43">[00:37:43]</a>. However, it is criticized for being overkill <a class="yt-timestamp" data-t="00:37:10">[00:37:10]</a> and for not adequately addressing strategic [[the_role_of_a_product_manager | product management]] or leadership roles <a class="yt-timestamp" data-t="00:38:01">[00:38:01]</a>, <a class="yt-timestamp" data-t="00:44:40">[00:44:40]</a>. Many companies that adopted SAFe have since abandoned it, as it often leads to teams being so caught up in process that they fail to deliver value <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>, <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>.
+
+## Agile Transformations and Product Owners
+Many large organizations, particularly those new to significant software development, adopt agile transformations using Scrum to build products faster <a class="yt-timestamp" data-t="00:19:16">[00:19:16]</a>, <a class="yt-timestamp" data-t="00:22:36">[00:22:36]</a>, <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>. These transformations often involve reassigning existing employees (e.g., business analysts, project managers, or business people) into product owner roles after minimal training <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>, <a class="yt-timestamp" data-t="00:19:52">[00:19:52]</a>, <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. This can lead to a significant disconnect between what a product owner does and what is considered good product management <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>, <a class="yt-timestamp" data-t="00:31:26">[00:31:26]</a>.
+
+## Career Path and Skill Development
+### Distinguishing Skills
+A key [[distinctions_between_product_owners_and_product_managers | distinction between product owners and product managers]] lies in their focus:
+*   **Product Owners** often describe their work from a process standpoint (e.g., prioritizing backlogs, writing user stories, checking developer work) <a class="yt-timestamp" data-t="01:04:43">[01:04:43]</a>.
+*   **Product Managers** focus on solving customer problems, understanding market needs, and driving measurable business outcomes (e.g., enhancing security, increasing metrics, launching features based on user interviews) <a class="yt-timestamp" data-t="01:05:03">[01:05:03]</a>, <a class="yt-timestamp" data-t="01:05:45">[01:05:45]</a>.
+
+Many product owners feel they lack opportunities to talk to customers or engage in strategic thinking <a class="yt-timestamp" data-t="00:57:50">[00:57:50]</a>. This limits their growth into broader [[the_role_of_a_product_manager | product management]] roles, as many organizations do not have a clear career path from product owner to product manager <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>, <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>.
+
+### Certifications
+Certifications like Certified Scrum Product Owner (CSPO) are common but generally indicate completion of a short course, not proven job competency <a class="yt-timestamp" data-t="01:07:06">[01:07:06]</a>, <a class="yt-timestamp" data-t="01:07:38">[01:07:38]</a>. While such certifications might help secure a product owner role in certain large enterprises that require them, they are generally not valued by tech companies looking for product managers <a class="yt-timestamp" data-t="01:08:40">[01:08:40]</a>, <a class="yt-timestamp" data-t="01:09:50">[01:09:50]</a>. True experience in delivering value is far more important <a class="yt-timestamp" data-t="01:09:06">[01:09:06]</a>, <a class="yt-timestamp" data-t="01:10:28">[01:10:28]</a>.
+
+## Recommendations
+### For Product Owners
+*   **Bring Awareness**: Understand that your role can be more than just working with developers <a class="yt-timestamp" data-t="01:17:16">[01:17:16]</a>.
+*   **Push for Strategic Work**: Seek opportunities to understand customer needs, engage in market research, and tie your work to business goals <a class="yt-timestamp" data-t="00:58:01">[00:58:01]</a>.
+*   **Ask "What do we hope will happen?"**: This question helps align teams to outcomes rather than just output <a class="yt-timestamp" data-t="00:59:32">[00:59:32]</a>, <a class="yt-timestamp" data-t="00:59:40">[00:59:40]</a>.
+*   **Document Value on Resumes**: Instead of listing process-oriented tasks, highlight how you delivered value to users and improved business metrics <a class="yt-timestamp" data-t="01:03:26">[01:03:26]</a>, <a class="yt-timestamp" data-t="01:05:03">[01:05:03]</a>.
+*   **Advocate for Career Paths**: Ask leaders about career paths to product management. A collective push from product owners can drive organizational change <a class="yt-timestamp" data-t="00:58:47">[00:58:47]</a>, <a class="yt-timestamp" data-t="01:00:07">[01:00:07]</a>.
+*   **Seek Mentorship**: Find experienced product leaders or product managers within or outside your organization to learn from <a class="yt-timestamp" data-t="01:02:06">[01:02:06]</a>, <a class="yt-timestamp" data-t="01:16:05">[01:16:05]</a>.
+*   **Consider Moving**: If the organization fundamentally prevents you from doing good product management, consider seeking opportunities in companies or divisions that operate differently <a class="yt-timestamp" data-t="01:01:33">[01:01:33]</a>.
+
+### For Leaders and Organizations
+*   **Develop a Holistic Operating Model**: Beyond just development processes (like Scrum or SAFe), consider the broader product operating model, including product strategy, organizational design, product operations, and incentives <a class="yt-timestamp" data-t="00:41:36">[00:41:36]</a>, <a class="yt-timestamp" data-t="00:42:00">[00:42:00]</a>.
+*   **Invest in Product Strategy**: Ensure there's a clear product strategy tied to company goals <a class="yt-timestamp" data-t="00:43:19">[00:43:19]</a>, <a class="yt-timestamp" data-t="00:43:30">[00:43:30]</a>.
+*   **Establish Proper Infrastructure**: Provide the necessary tools and processes for product managers to access data and interact with customers <a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a>.
+*   **Focus on Outcomes**: Shift away from rewarding mere shipping to rewarding measurable value delivery <a class="yt-timestamp" data-t="00:43:01">[00:43:01]</a>.
+*   **Interperse Experienced Talent**: While training existing employees is good, leaders should bring in experienced product managers and [[role_and_importance_of_chief_product_officers | Chief Product Officers]] to lead and mentor <a class="yt-timestamp" data-t="00:53:35">[00:53:35]</a>, <a class="yt-timestamp" data-t="00:54:22">[00:54:22]</a>, <a class="yt-timestamp" data-t="01:15:50">[01:15:50]</a>.
+*   **Codify the Product Manager Role**: Create clear career paths for product managers, from associate to senior roles, and move away from separate "product owner" titles to avoid confusion and limitations <a class="yt-timestamp" data-t="01:11:51">[01:11:51]</a>, <a class="yt-timestamp" data-t="01:12:44">[01:12:44]</a>.
+*   **Prioritize Learning and Adaptation**: Agile principles emphasize continuous inspection and adaptation. Organizations should not be afraid to change processes that are not serving their goals, even if they are prescribed by frameworks <a class="yt-timestamp" data-t="01:17:37">[01:17:37]</a>, <a class="yt-timestamp" data-t="01:20:04">[01:20:04]</a>.
+*   **Recognize Software as a Strategic Asset**: C-suite leadership must understand that software development is intertwined with overall company strategy, not just an IT function <a class="yt-timestamp" data-t="01:21:20">[01:21:20]</a>, <a class="yt-timestamp" data-t="01:21:40">[01:21:40]</a>.
+
+Ultimately, while the product owner role serves a function within agile processes, its efficacy and the career development of those in the role depend heavily on the broader organizational context and a true understanding of [[the_role_of_a_product_manager | product management]] beyond merely process execution <a class="yt-timestamp" data-t="01:00:01">[01:00:01]</a>, <a class="yt-timestamp" data-t="01:11:51">[01:11:51]</a>.

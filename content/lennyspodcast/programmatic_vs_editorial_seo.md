@@ -1,50 +1,104 @@
 ---
-title: Programmatic vs editorial SEO
-videoId: Z71yGshPTwk
+title: Programmatic vs Editorial SEO
+videoId: mOY159TlYXM
 ---
 
 From: [[lennyspodcast]] <br/> 
 
-Effective SEO strategies often involve a choice between programmatic and editorial approaches. Understanding the distinctions and appropriate use cases for each is crucial, especially with the [[Impact of AI on SEO | rise of AI]] answers in search results <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
+Search Engine Optimization (SEO) is a powerful yet often misunderstood growth lever for companies <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. A common misconception is that companies tend to under-resource [[SEO as a growth strategy|SEO]] while over-resourcing paid advertisements <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. For large companies like Zillow or eBay, which spend tens of millions on ads, investing in a robust [[SEO as a growth strategy|SEO]] team can yield comparable traffic <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
+
+There are two primary approaches to content-based [[SEO as a growth strategy|SEO]]: programmatic and editorial <a class="yt-timestamp" data-t="01:54:00">[01:54:00]</a>. These strategies, along with [[Tools and techniques for effective SEO|technical SEO]], form the core of a comprehensive [[SEO strategies in the age of AI|SEO strategy]] <a class="yt-timestamp" data-t="01:54:00">[01:54:00]</a>.
 
 ## Programmatic SEO
 
-Programmatic SEO involves taking various data sources and building out pages that combine this information <a class="yt-timestamp" data-t="01:10:25">[01:10:25]</a>. This approach is ideal for achieving scale and is most effective when there's a clear user use case <a class="yt-timestamp" data-t="01:14:30">[01:14:30]</a>.
-
-**Examples of Successful Programmatic SEO:**
-
-*   **[[Zapier | Zapier]]** originally had a product that no one knew they needed <a class="yt-timestamp" data-t="02:30:57">[02:30:57]</a>. They leveraged programmatic SEO by creating pages that demonstrated how different applications could work together (e.g., "Gmail and Salesforce") <a class="yt-timestamp" data-t="02:54:56">[02:54:56]</a>. This allowed users to discover the product as a solution to their existing needs, building a flywheel effect <a class="yt-timestamp" data-t="02:56:06">[02:56:06]</a>.
-*   **[[Tinder]]** focused on solving the "loneliness problem" for users in new cities <a class="yt-timestamp" data-t="02:50:50">[02:50:50]</a>. They built programmatic pages for "online dating in [city]" that provided examples of date locations and offered Tinder as a solution <a class="yt-timestamp" data-t="03:06:01">[03:06:01]</a>. This approach ensures that even with [[Impact of AI on SEO | AI overviews]], users would still click through to solve their mid-funnel problem <a class="yt-timestamp" data-t="03:11:09">[03:11:09]</a>.
-*   **TripAdvisor** combined user-generated content (UGC) with hotel and city data to create comprehensive pages for each property, dominating search results without writing individual long-form content for every hotel <a class="yt-timestamp" data-t="01:10:48">[01:10:48]</a>.
-*   **Zillow** addressed the problem of property valuation by integrating government data, comparison data from home sales, photos from realtors, and neighborhood/school information onto individual programmatic pages <a class="yt-timestamp" data-t="01:11:45">[01:11:45]</a>. For Zillow, SEO is often the *only* channel to bring traffic to these specific property pages <a class="yt-timestamp" data-t="01:12:21">[01:12:21]</a>.
-*   **Canva** and **SurveyMonkey** use programmatic approaches for templates, which directly lead to monetization through product usage <a class="yt-timestamp" data-t="00:56:08">[00:56:08]</a>.
+[[AI and programmatic SEO|Programmatic SEO]] involves automatically generating pages from a database of information <a class="yt-timestamp" data-t="00:18:48">[00:18:48]</a>.
+*   **Examples**:
+    *   eBay's product pages are generated from their product database <a class="yt-timestamp" data-t="00:18:53">[00:18:53]</a>.
+    *   Zillow's address pages are generated from property information <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>.
+    *   Sites with User-Generated Content (UGC) like Glassdoor also use programmatic generation for pages like company reviews <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>.
+*   **Page Types**: Typically includes category pages (grids or lists of items) and item pages (individual products, addresses, videos) <a class="yt-timestamp" data-t="00:19:11">[00:19:11]</a>.
+*   **Advantages**: The main benefit is that there is no individual cost per page created, as pages are generated automatically <a class="yt-timestamp" data-t="00:21:03">[00:21:03]</a>. This allows for the creation of millions of pages without direct manual effort for each <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>.
+*   **Disadvantages**: Can lead to low-quality or "thin" content if not carefully managed <a class="yt-timestamp" data-t="00:30:03">[00:30:03]</a>. Google's algorithm has evolved to prefer pages that cover multiple keywords within a topic, rather than minor variations for every single keyword <a class="yt-timestamp" data-t="00:31:01">[00:31:01]</a>.
+*   **[[Impact of AI on SEO|AI and Programmatic SEO]]**: [[AI and programmatic SEO|AI can be useful]] for programmatic SEO when there is underlying structured data to base sentences on, such as a basketball game's play-by-play or clinical trial information <a class="yt-timestamp" data-t="01:26:16">[01:26:16]</a>. However, AI-generated content without factual basis can be problematic <a class="yt-timestamp" data-t="01:25:58">[01:25:58]</a>.
 
 ## Editorial SEO
 
-Editorial SEO involves manually writing long-form content, typically blog posts or articles, around specific keywords <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. This approach was historically focused on ranking for "top of funnel" keywords <a class="yt-timestamp" data-t="01:04:50">[01:04:50]</a> and getting the first click <a class="yt-timestamp" data-t="01:00:09">[01:00:09]</a>.
+Editorial SEO involves manually written content by a person, such as articles, guides, or listicles <a class="yt-timestamp" data-t="00:19:27">[00:19:27]</a>.
+*   **Examples**:
+    *   MasterClass creates content related to their classes, such as "how to poach an egg" <a class="yt-timestamp" data-t="00:34:38">[00:34:38]</a>.
+    *   BetterUp builds content around career improvement topics like "how to give difficult feedback" or "how to create a five-year plan" <a class="yt-timestamp" data-t="00:21:42">[00:21:42]</a>.
+    *   NerdWallet offers financial guides, and HubSpot provides content on productivity <a class="yt-timestamp" data-t="00:21:57">[00:21:57]</a>.
+    *   Dotdash, a conglomerate of publishers like Allrecipes and Investopedia, consistently excels in editorial SEO <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>.
+*   **Page Types**: Articles, listicles, guides, and product marketing pages <a class="yt-timestamp" data-t="01:00:44">[01:00:44]</a>.
+*   **Advantages**: Editorial SEO is increasingly driving more traffic than programmatic SEO and offers an opportunity for almost every company with an addressable market <a class="yt-timestamp" data-t="00:19:42">[00:19:42]</a>.
+*   **Disadvantages**: Each page has a cost associated with its creation <a class="yt-timestamp" data-t="00:21:16">[00:21:16]</a>.
 
-**Critique of Editorial SEO in the AI Era:**
+## Technical SEO
 
-*   **Risk of Disruption by AI Overviews**: Generic, top-of-funnel content (e.g., "best beach vacation") is highly susceptible to [[Impact of AI on SEO | AI overviews]] <a class="yt-timestamp" data-t="01:17:10">[01:17:10]</a> <a class="yt-timestamp" data-t="01:21:57">[01:21:57]</a>. These AI-generated answers provide summarized information directly in search results, reducing the need for users to click on external links <a class="yt-timestamp" data-t="01:06:40">[01:06:40]</a>.
-*   **Irrelevance for User Intent**: Many long-form articles written by freelancers who are not subject matter experts (e.g., a non-travel expert writing about "best beach vacations") do not best serve the user <a class="yt-timestamp" data-t="01:11:12">[01:11:12]</a>.
-*   **Cost-Prohibitive at Scale**: Manually writing unique, quality content for millions of potential search queries (e.g., 500 million properties for Zillow) would be extremely expensive <a class="yt-timestamp" data-t="01:12:52">[01:12:52]</a>.
-*   **Focus on Vanity Metrics**: Editorial SEO often prioritizes rankings for broad keywords (e.g., "CRM") over actual conversions <a class="yt-timestamp" data-t="02:21:12">[02:21:12]</a>. Traffic alone, especially to content that doesn't convert, is often a "total waste of time" <a class="yt-timestamp" data-t="00:51:48">[00:51:48]</a>.
+Technical SEO focuses on the underlying infrastructure of a website <a class="yt-timestamp" data-t="00:19:54">[00:19:54]</a>. This includes elements like:
+*   Internal link architecture <a class="yt-timestamp" data-t="00:19:57">[00:19:57]</a>
+*   Tags <a class="yt-timestamp" data-t="00:19:57">[00:19:57]</a>
+*   Redirects <a class="yt-timestamp" data-t="00:19:57">[00:19:57]</a>
+*   Page speed <a class="yt-timestamp" data-t="00:20:01">[00:20:01]</a>
+It is crucial for both programmatic and editorial [[SEO as a growth strategy|SEO]] as it helps Google find and crawl all pages effectively <a class="yt-timestamp" data-t="00:32:00">[00:32:00]</a>.
 
-## Choosing Between Programmatic and Editorial SEO
+## Choosing an SEO Strategy
 
-The decision between programmatic and editorial SEO hinges on the user's intent and the purpose of the content.
+The best [[SEO strategies in the age of AI|SEO strategy]] depends on the company's category and addressable market <a class="yt-timestamp" data-t="00:20:27">[00:20:27]</a>.
+1.  **Define Addressable Market**: Assess the size of the target market <a class="yt-timestamp" data-t="01:28:46">[01:28:46]</a>. This can be done by looking at competitors' traffic using tools like Similarweb <a class="yt-timestamp" data-t="01:28:51">[01:28:51]</a>.
+2.  **Assess Authority**: Determine if the company has enough existing traction and authority <a class="yt-timestamp" data-t="01:09:07">[01:09:07]</a>. Signals include non-SEO traffic (at least 1,000 visits/day) and referring domains (at least 1,000) <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>. Google prefers credible domains over sites solely focused on SEO <a class="yt-timestamp" data-t="01:09:50">[01:09:50]</a>.
+3.  **Identify Page Type**: For desired keywords, analyze what type of pages currently rank in Google search results <a class="yt-timestamp" data-t="00:25:00">[00:25:00]</a>. For example, "how to poach an egg" queries typically yield articles with recipes, not transcripts <a class="yt-timestamp" data-t="00:25:07">[00:25:07]</a>. This helps determine whether programmatic or editorial pages are needed <a class="yt-timestamp" data-t="00:25:07">[00:25:07]</a>.
+4.  **Content Strategy**: Define subtopics and themes for the chosen page types <a class="yt-timestamp" data-t="00:24:22">[00:24:22]</a>.
+5.  **Prioritization**: Compare the potential impact and scope of [[SEO as a growth strategy|SEO]] against other growth channels (e.g., paid ads, social) and available budget <a class="yt-timestamp" data-t="00:23:02">[00:23:02]</a>.
 
-*   **User Needs**: If a user is looking for a specific data point (e.g., home value) or a direct solution (e.g., how to connect two software tools), a programmatic page that provides that immediate answer is more effective than a long-form article <a class="yt-timestamp" data-t="01:13:10">[01:13:10]</a>.
-*   **Scale**: Programmatic SEO is suitable when you need to generate a vast number of pages covering similar topics with variations (e.g., connecting different apps, city-specific information) <a class="yt-timestamp" data-t="01:14:30">[01:14:30]</a>.
-*   **Monetization Alignment**: Crucially, programmatic efforts should directly feed into what the company is attempting to monetize <a class="yt-timestamp" data-t="00:56:06">[00:56:06]</a>. Generating programmatic pages (or any content) just for the sake of having content is unproductive if it doesn't align with the product journey <a class="yt-timestamp" data-t="00:56:53">[00:56:53]</a>.
-*   **Mid-Funnel Focus**: With AI handling many top-of-funnel discovery queries <a class="yt-timestamp" data-t="01:40:07">[01:40:07]</a>, [[Productled approach to SEO | SEO needs to shift towards the mid-funnel]] and bottom-of-funnel buyer journeys where users have higher intent <a class="yt-timestamp" data-t="02:20:03">[02:20:03]</a>. Programmatic SEO often excels here by providing solutions to specific problems or comparisons.
+### Key Concepts
 
-## [[Strategies for success in SEO with AI prevalence | Strategies for Success in SEO with AI Prevalence]]
+*   **[[Understanding topical authority in SEO|Topical Authority]]**: This is crucial and often misunderstood <a class="yt-timestamp" data-t="01:09:14">[01:09:14]</a>. Google prioritizes sites that are known experts in specific, narrow areas <a class="yt-timestamp" data-t="01:10:31">[01:10:31]</a>. Authority is determined by various inputs, including:
+    *   Links from other sites <a class="yt-timestamp" data-t="01:09:52">[01:09:52]</a>.
+    *   Non-SEO traffic (direct, paid, email, social) <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>.
+    *   Social shares and activity <a class="yt-timestamp" data-t="01:10:12">[01:10:12]</a>.
+    *   Branded search queries (e.g., "MasterClass Gordon Ramsay") <a class="yt-timestamp" data-t="01:10:14">[01:10:14]</a>.
+    Google's algorithm has a semantic understanding, allowing sites with high topical authority in a niche to outrank larger domains with more general authority <a class="yt-timestamp" data-t="01:12:31">[01:12:31]</a>.
+*   **[[Understanding topical authority in SEO|Topics vs. Keywords]]**: Modern [[SEO strategies in the age of AI|SEO]] focuses on topics rather than individual keywords <a class="yt-timestamp" data-t="00:31:58">[00:31:58]</a>. A single page can rank for hundreds or thousands of related keywords <a class="yt-timestamp" data-t="00:32:50">[00:32:50]</a>. This means the addressable search volume for a topic is significantly larger than for a single keyword <a class="yt-timestamp" data-t="00:33:14">[00:33:14]</a>. Grouping keywords into topics avoids wasted effort and ensures comprehensive content that fulfills user intent across various related queries <a class="yt-timestamp" data-t="00:33:46">[00:33:46]</a>.
+*   **Internal Links**: A powerful, often underappreciated lever for [[SEO as a growth strategy|SEO]] <a class="yt-timestamp" data-t="01:14:44">[01:14:44]</a>.
+    *   Google crawls sites through links <a class="yt-timestamp" data-t="01:18:30">[01:18:30]</a>. More internal links to a page generally lead to more traffic <a class="yt-timestamp" data-t="01:17:41">[01:17:41]</a>.
+    *   Many sites (over 90%) have under-optimized internal linking, where a small percentage of pages receive the vast majority of links <a class="yt-timestamp" data-t="01:19:01">[01:19:01]</a>.
+    *   The goal is a "flat graph" where pages are few clicks away from major crawl points (like the homepage or popular pages) <a class="yt-timestamp" data-t="01:21:24">[01:21:24]</a>.
+    *   Links within the body of content or at the bottom of an article are more valuable than navigational links in the footer or header <a class="yt-timestamp" data-t="01:22:47">[01:22:47]</a>.
 
-*   **Think of SEO as a Product**: [[Productled approach to SEO | Product managers]] should be thinking about SEO as a product question, focusing on the user experience and how to position the product for self-discovery journeys <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a> <a class="yt-timestamp" data-t="02:23:26">[02:23:26]</a>.
-*   **Understand User Intent**: Before investing in SEO, a company must be able to answer: "What is it that someone's going to do a search on?" If this cannot be answered, SEO might not be the right channel <a class="yt-timestamp" data-t="00:40:39">[00:40:39]</a>.
-*   **Focus on Business Metrics**: Measure SEO success by conversion metrics (e.g., MQLs, actual dollar conversions) rather than vanity metrics like rankings or raw traffic volume <a class="yt-timestamp" data-t="00:48:39">[00:48:39]</a> <a class="yt-timestamp" data-t="00:51:50">[00:51:50]</a>.
-*   **Strategic Resource Allocation**: [[Effective SEO resource allocation | Evaluate SEO investment]] like any other product idea, considering the total cost (time, resources, direct expense) against expected returns <a class="yt-timestamp" data-t="00:39:41">[00:39:41]</a>. For B2B SaaS companies, other channels like sales motions might yield better ROI if the customer journey isn't fully online <a class="yt-timestamp" data-t="00:42:17">[00:42:17]</a>.
-*   **Integrate Brand Building**: Link building should be viewed as brand building, promoting strong relationships between content and the product being monetized <a class="yt-timestamp" data-t="01:08:34">[01:08:34]</a>. Google's ability to read content means mentions can be as valuable as traditional HTML links <a class="yt-timestamp" data-t="01:09:02">[01:09:02]</a>.
-*   **Technical SEO has its Place**: While important for very large sites (millions of pages), for smaller sites (e.g., 100-page SaaS tool), extensive investment in technical SEO to fix minor issues like page speed might not be cost-effective <a class="yt-timestamp" data-t="01:35:08">[01:35:08]</a>.
-*   **SEO is Not a Dark Art**: Google's best practices guide provides fundamental principles for building an effective SEO strategy: make a website understandable to Google, link appropriately, and create helpful content that users want to read <a class="yt-timestamp" data-t="01:28:21">[01:28:21]</a>.
+### [[Hiring strategies for SEO roles|Hiring for SEO]]
+
+The ideal [[Hiring strategies for SEO roles|SEO hiring strategy]] depends on the company's stage, budget, and the chosen SEO approach:
+
+*   **Programmatic SEO**: Requires a specialized "growth person with technical ability" who has experience building scalable systems for indexation logic and managing UGC <a class="yt-timestamp" data-t="00:47:44">[00:47:44]</a>. These individuals are hard to find <a class="yt-timestamp" data-t="00:47:50">[00:47:50]</a>. Look for candidates from lesser-known companies that have achieved disproportionately high [[SEO as a growth strategy|SEO]] growth, as they likely faced harder challenges <a class="yt-timestamp" data-t="00:48:13">[00:48:13]</a>. Their role involves analyzing competitor sites, defining product requirements for automated page generation, clustering keywords, and analyzing data <a class="yt-timestamp" data-t="00:49:42">[00:49:42]</a>.
+*   **Editorial SEO**: An [[Hiring strategies for SEO roles|SEO manager]] is needed to define topics, create outlines, and manage the publishing process <a class="yt-timestamp" data-t="00:56:05">[00:56:05]</a>. They should have a strong understanding of content strategy, even if they initially lack deep SEO expertise <a class="yt-timestamp" data-t="00:56:52">[00:56:52]</a>. A separate writer, ideally a domain expert, handles the actual content creation <a class="yt-timestamp" data-t="00:55:51">[00:55:51]</a>.
+
+An initial team could be one [[Hiring strategies for SEO roles|SEO manager]] and one writer <a class="yt-timestamp" data-t="00:59:27">[00:59:27]</a>. Companies typically start with 10-30 articles per month and scale up to 100+ once leading indicators of success are observed <a class="yt-timestamp" data-t="00:57:27">[00:57:27]</a>.
+
+## [[Tools and techniques for effective SEO|Tools for SEO]]
+
+Key [[Tools and techniques for effective SEO|tools]] for [[SEO as a growth strategy|SEO]] include:
+1.  **Google Search Console**: Free and provides real traffic data, Serp tracking, and keyword insights <a class="yt-timestamp" data-t="00:37:58">[00:37:58]</a>.
+2.  **Clearscope**: Excellent for content analysis and scoring, helping identify content gaps and ensuring comprehensive coverage of subtopics <a class="yt-timestamp" data-t="00:38:16">[00:38:16]</a>.
+3.  **Keyword Research Tools**: Ahrefs or Semrush are widely used for keyword research and competitive analysis <a class="yt-timestamp" data-t="00:38:41">[00:38:41]</a>.
+4.  **Screaming Frog**: Useful for site crawling, auditing (finding error codes, redirect loops), and analyzing internal link coverage <a class="yt-timestamp" data-t="00:39:24">[00:39:24]</a>.
+
+## Timelines and Expectations
+
+[[SEO as a growth strategy|SEO results]] typically take 6 to 9 months to materialize <a class="yt-timestamp" data-t="00:40:32">[00:40:32]</a>.
+*   The timeline is shorter for sites with higher existing authority and traction (e.g., Netflix sees changes in days; large sites like MasterClass or eBay within 1-4 weeks) <a class="yt-timestamp" data-t="00:40:41">[00:40:41]</a>.
+*   For new companies starting from scratch, it can take up to a year <a class="yt-timestamp" data-t="00:40:50">[00:40:50]</a>. This includes about 3 months for strategy, building, and launching, followed by 3-6 months for ranking to begin <a class="yt-timestamp" data-t="00:41:04">[00:41:04]</a>.
+*   **Leading Indicators**: Early signs of progress include ranking for less popular keywords (e.g., position 15-20) and then gradually climbing the search results page <a class="yt-timestamp" data-t="00:42:41">[00:42:41]</a>. This indicates that Google is testing the page's engagement and relevance <a class="yt-timestamp" data-t="00:41:16">[00:41:16]</a>. User engagement (click-through rate on Google, time spent on page) is a key ranking signal <a class="yt-timestamp" data-t="00:41:35">[00:41:35]</a>.
+*   **Avoiding False Negatives**: It's common for initial [[SEO as a growth strategy|SEO]] attempts to be incorrectly implemented, leading to a "false negative" conclusion that it doesn't work <a class="yt-timestamp" data-t="00:43:42">[00:43:42]</a>. Perseverance and strategic adjustments based on data are key <a class="yt-timestamp" data-t="00:43:55">[00:43:55]</a>.
+
+## [[SEO challenges with AI answers|Impact of AI]] Beyond Content Generation
+
+While AI for content generation has pitfalls due to a lack of "underlying wisdom" or factual accuracy <a class="yt-timestamp" data-t="01:25:38">[01:25:38]</a>, [[AI and programmatic SEO|AI is immensely useful]] in other [[SEO strategies in the age of AI|SEO]] areas:
+*   **Keyword Clustering**: AI can process thousands of keywords, cluster them into topics, and identify overlaps <a class="yt-timestamp" data-t="01:27:57">[01:27:57]</a>.
+*   **Subtopic Identification**: It can help determine the necessary subtopics and outline structures to ensure content comprehensiveness <a class="yt-timestamp" data-t="01:28:06">[01:28:06]</a>.
+*   **Topical Authority Assessment**: [[AI and programmatic SEO|AI can help assess]] a site's existing [[Understanding topical authority in SEO|topical authority]] within various themes <a class="yt-timestamp" data-t="01:28:01">[01:28:01]</a>.
+*   **Performance Analysis**: AI can analyze content performance and feed insights back into the strategy <a class="yt-timestamp" data-t="01:28:08">[01:28:08]</a>.
+
+By leveraging AI for strategic support, humans can then focus on creating high-quality, factual content based on true expertise <a class="yt-timestamp" data-t="01:28:10">[01:28:10]</a>.
+
+Getting [[SEO as a growth strategy|SEO]] initiatives launched is often the biggest challenge, due to resource constraints, the perception of [[SEO as a growth strategy|SEO]] as "mysterious," and the significant amount of work involved <a class="yt-timestamp" data-t="01:06:57">[01:06:57]</a>. Integrating [[SEO as a growth strategy|SEO]] within the product organization and securing executive buy-in can help overcome these hurdles <a class="yt-timestamp" data-t="01:07:10">[01:07:10]</a>.

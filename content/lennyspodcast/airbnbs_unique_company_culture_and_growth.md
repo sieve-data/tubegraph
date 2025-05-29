@@ -1,0 +1,26 @@
+---
+title: Airbnbs unique company culture and growth
+videoId: ZoKLofsp8u0
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Gustav Alstromer, a group partner at Y Combinator for almost six years, previously spent over four years at Airbnb, where he **started the original Airbnb growth team** <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. His experience there offers significant insights into what made the company special and how it achieved its growth.
+
+## A Special Company Culture
+Gustav Alstromer recalls that Airbnb was a profoundly special experience, with many former employees unable to find another workplace as unique, setting a high bar <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. For Gustav, it felt less like a normal job and more like "a group of friends trying to just do something together" <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>. This environment fostered a "very special bond" among alumni, resembling close social connections rather than just co-workers <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>.
+
+This unique culture was attributed to several factors:
+*   **Hiring Practices** The company brought in a special type of people with very diverse backgrounds <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. Many early hires were former founders, not career technologists from big corporations <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>. This initial group set a high standard for subsequent hires <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
+*   **Shared Excitement and Motivation** Airbnb ensured they hired people who were genuinely excited to be there and passionate about building the company <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a> <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>.
+*   **Culture Interviews** Early on, the company conducted "culture interviews" to identify individuals whose motivations aligned with [[building and maintaining company culture to enhance team collaboration | Airbnb's core values]] <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a> <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>.
+*   **Founders' Influence** The founders, Joe Gebbia, Nathan Blecharczyk, and [[brian_cheskys_leadership_style_and_organizational_changes_at_airbnb | Brian Chesky]], were instrumental in establishing this foundation <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>. They even tried to recreate the Y Combinator experience within Airbnb by setting up demo days and retros for new, isolated products, emphasizing a "do things that don't scale" approach and direct engagement with customers <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a> <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. This influence stemmed from their own experience at YC <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>.
+
+## Growth and Product-Market Fit
+Central to Airbnb's success was its "incredible business model" from early on, which made it "hard to fail" at a company level, even if individual initiatives might not succeed <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>. This robust foundation allowed for risk-taking <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+
+A key lesson for **[[growth_strategies_in_tech_companies | tech companies]]** and startups, often highlighted by Y Combinator, is the critical importance of talking to users to find product-market fit <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a> <a class="yt-timestamp" data-t="00:23:00">[00:23:00]</a>. Without it, "nothing else really matters" <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. Gustav emphasizes that many startups fail because they don't do this, often due to a fear of rejection or a mistaken belief that they already know what to build <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a> <a class="yt-timestamp" data-t="00:23:52">[00:23:52]</a> <a class="yt-timestamp" data-t="00:26:34">[00:26:34]</a>.
+
+The famous advice from Paul Graham to the Airbnb founders – to "do things that don't scale" – is a prime example of this philosophy in action <a class="yt-timestamp" data-t="00:27:37">[00:27:37]</a>. The founders' trips to New York to engage directly with users and understand their problems were pivotal for [[the role of product management and marketing integration at Airbnb | building Airbnb]] <a class="yt-timestamp" data-t="00:27:42">[00:27:42]</a>. This direct engagement helped them discover the intensity of user pain, not by asking, but by observing their daily workflows <a class="yt-timestamp" data-t="00:32:58">[00:32:58]</a> <a class="yt-timestamp" data-t="00:33:30">[00:33:30]</a>. This hands-on approach of building a product that people genuinely want, driven by direct customer insights, is crucial for success <a class="yt-timestamp" data-t="00:26:15">[00:26:15]</a>.
+
+Overall, Airbnb's success can be traced to its deeply ingrained culture of fostering strong personal connections, its deliberate and careful hiring that brought in diverse, highly motivated individuals, and a relentless, founder-led focus on direct user engagement to achieve product-market fit.

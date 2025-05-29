@@ -1,0 +1,77 @@
+---
+title: Conversational public speaking techniques
+videoId: BQM3Yq93nVc
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Many people tend to adopt a specific "public speaking voice" when addressing an audience, shifting from their normal conversational tone to a more "professional" version of themselves <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This often results in a less authentic and effective delivery <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. The goal is to speak conversationally, which is significantly more freeing, powerful, connecting, and effective <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+
+## The Power of Conversational Speaking
+Becoming a better speaker is a significant accelerant for one's professional life <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. [[improving_public_speaking_skills | Improving public speaking skills]] is considered a "meta-skill," meaning that as you get better at speaking, your life generally improves across various domains, similar to how improved fitness can enhance overall well-being <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. When breakthroughs are made in speaking, it can positively impact how one feels at work, among friends, with strangers, and even within family relationships <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>.
+
+Humans are naturally evolved to speak; babies learn without formal education, indicating an "incredible hardware" for communication <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. Over time, "bugs in the software" (bad habits or anxieties) can develop, leading to avoidance and hindered progress <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>. The key is to debug and upgrade this software to unlock one's full speaking potential <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
+
+## Common Misconceptions and Core Insights
+A major misconception about [[improving_public_speaking_skills | public speaking]] is underestimating its transformative potential <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. If you don't enjoy speaking, you might be "doing it wrong" <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. Enjoyment can serve as a barometer: if it's not enjoyable, something is likely making it unenjoyable and unhelpful <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>. When individuals feel completely like themselves, communication is highly enjoyable, serving as a means to connect and share thoughts, feeling very empowering <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>. Pressure in business settings, however, often leads people to overthink and try to control words, hindering natural, subconscious communication <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>.
+
+Speaking is fundamentally a subconscious, flow-oriented process, not a conscious one <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>. The best speaking happens when one is not thinking about speaking itself, but is completely attuned to the message being conveyed <a class="yt-timestamp" data-t="00:12:52">[00:12:52]</a>. The goal is to enter and maintain a flow state <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>. This perspective shifts focus from treating symptoms (like filler words) to addressing root causes (like discomfort with slowing down or pausing under pressure) <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>. Solving root causes leads to more natural improvements, such as reduced filler words, less racing, and increased mind space <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>.
+
+## Tactical Tips for More Conversational Speaking
+Rather than focusing solely on external tactics, effective [[strategies_for_effective_public_speaking_and_reducing_nervousness | public speaking strategies]] delve into root causes and internal shifts <a class="yt-timestamp" data-t="00:15:52">[00:15:52]</a>. Three key tactical shifts can immediately improve how one speaks:
+
+### Look Up While Thinking
+When gathering thoughts, many people tend to look down, which can appear uncertain or distracted, especially on video calls <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>. Instead, try looking up. Looking up makes you appear thoughtful and confident by default, as confident speakers are willing to pause <a class="yt-timestamp" data-t="00:16:57">[00:16:57]</a>. This reduces the likelihood of being interrupted <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>. To build this habit, write "think up" on a sticky note and place it visibly <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>.
+
+### End Strong
+People often "end weak" by trailing off or expressing doubts at the conclusion of their statements <a class="yt-timestamp" data-t="00:18:05">[00:18:05]</a>. This is similar to how freestyle rappers' brains "blow up" with self-awareness as they near the end of a flow state <a class="yt-timestamp" data-t="00:18:36">[00:18:36]</a>. Ending weak can impose a lens of uncertainty on the audience, overshadowing the quality of the content <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a>.
+
+To end strong, anticipate that self-awareness will increase towards the end of your statement <a class="yt-timestamp" data-t="00:19:51">[00:19:51]</a>. Ensure you "land the plane" by making your ending sound conclusive <a class="yt-timestamp" data-t="00:20:10">[00:20:10]</a>. Utilize "summary prompts" like "so to wrap up," "in summary," or "my point here is" to naturally guide your brain to conclude the thought <a class="yt-timestamp" data-t="00:20:25">[00:20:25]</a>.
+
+### Stay in Character
+Speakers often self-sabotage by "leaking" their insecurities, such as nervously laughing or expressing doubts like "I don't really know if that makes sense" <a class="yt-timestamp" data-t="00:21:37">[00:21:37]</a>. While speakers intensely feel their internal nervousness, audiences typically cannot perceive it unless it is extreme <a class="yt-timestamp" data-t="00:22:22">[00:22:22]</a>. Leaking insecurities forces a filter onto the audience, making them see you as uncertain <a class="yt-timestamp" data-t="00:23:07">[00:23:07]</a>.
+
+The solution is simple: do not share your insecurities and "stay in character" from beginning to end <a class="yt-timestamp" data-t="00:24:34">[00:24:34]</a>. The cue for yourself can be "stay in it," especially when feeling turbulent <a class="yt-timestamp" data-t="00:25:12">[00:25:12]</a>. When you stay in character, audiences respond to you as a confident speaker, which reinforces your own confidence in a positive cycle <a class="yt-timestamp" data-t="00:25:30">[00:25:30]</a>. Many people are nervous in meetings, but you often can't tell <a class="yt-timestamp" data-t="00:26:15">[00:26:15]</a>.
+
+## Practice Through Play: Public Speaking Games
+To [[importance_of_practicing_public_speaking | improve public speaking]], you must actively practice speaking <a class="yt-timestamp" data-t="00:29:53">[00:29:53]</a>. Reading articles or watching videos alone will only go so far <a class="yt-timestamp" data-t="00:30:31">[00:30:31]</a>. Games are an effective way to practice because they are fun, provide intrinsic rewards, and offer short, deliberate practice reps followed by immediate feedback <a class="yt-timestamp" data-t="00:31:06">[00:31:06]</a>. This rapid feedback loop allows for continuous adjustment and internalization of lessons <a class="yt-timestamp" data-t="00:33:29">[00:33:29]</a>. Games are designed to create "turbulence" to highlight areas for improvement, similar to how a flight simulator trains pilots for difficult scenarios <a class="yt-timestamp" data-t="00:42:07">[00:42:07]</a>. This builds resiliency and the ability to recover gracefully from mistakes, leading to confidence in any speaking scenario <a class="yt-timestamp" data-t="00:43:30">[00:43:30]</a>.
+
+[[techniques_for_enhancing_public_speaking_skills | Public speaking games]] expand one's comfort zone, pushing back the "sides of the box" that limit natural communication <a class="yt-timestamp" data-t="00:57:56">[00:57:56]</a>.
+
+### Conductor
+This game involves speaking on a random topic while adjusting the intensity or energy of your voice to match numbers displayed on a screen (1-10) <a class="yt-timestamp" data-t="00:35:00">[00:35:00]</a>. A "breathe" prompt requires pausing and relaxing <a class="yt-timestamp" data-t="00:36:01">[00:36:01]</a>.
+
+*   **Benefit:** Tapping into different energy levels creates different emotions, and words naturally follow <a class="yt-timestamp" data-t="00:47:24">[00:47:24]</a>. For example, raising energy can bring conviction, while slowing down allows for more introspective thoughts <a class="yt-timestamp" data-t="00:50:39">[00:50:39]</a>. It also helps identify whether you are more comfortable with high or low energy speaking <a class="yt-timestamp" data-t="00:49:12">[00:49:12]</a>.
+*   **How to Play:** A friend can call out random numbers, or you can even just use hand gestures to change your energy <a class="yt-timestamp" data-t="00:48:46">[00:48:46]</a>.
+
+### Triple Step
+This game is designed for individuals who struggle to maintain a single thought or get easily distracted <a class="yt-timestamp" data-t="00:51:12">[00:51:12]</a>. The speaker is given a random speech title and then must seamlessly integrate random words or phrases that appear during their speech <a class="yt-timestamp" data-t="00:51:48">[00:51:48]</a>. The goal is to make the words appear as if they were always part of the speech <a class="yt-timestamp" data-t="00:52:07">[00:52:07]</a>.
+
+*   **Benefit:** Builds resiliency and composure under pressure <a class="yt-timestamp" data-t="00:55:19">[00:55:19]</a>. It helps train the brain to stay focused on a clear direction while integrating unexpected elements <a class="yt-timestamp" data-t="00:54:50">[00:54:50]</a>. It also serves as an excellent warm-up to light up the brain before important meetings, interviews, or podcasts <a class="yt-timestamp" data-t="00:55:51">[00:55:51]</a>.
+
+## Preparing Talks with Conversational Flow
+Traditional talk preparation involves writing extensive notes and scripts, which are then painfully memorized <a class="yt-timestamp" data-t="01:25:01">[01:25:01]</a>. This linear memorization can lead to getting lost if one point is forgotten <a class="yt-timestamp" data-t="01:26:06">[01:26:06]</a>. A more effective approach prepares talks by speaking, not writing, to foster natural internalization <a class="yt-timestamp" data-t="01:26:29">[01:26:29]</a>.
+
+### The Accordion Method
+This method helps create extreme clarity and understand the essence of your talk by intentionally "going down the accordion" (reducing time) and then "back up the accordion" (expanding time) <a class="yt-timestamp" data-t="01:26:32">[01:26:32]</a>.
+
+*   **Process:**
+    1.  Start by getting all ideas out, either by writing them down or speaking them freely <a class="yt-timestamp" data-t="01:28:22">[01:28:22]</a>.
+    2.  Set a timer for a chosen duration (e.g., 3 minutes) and speak, adhering to the "stay in character" and "end strong" rules <a class="yt-timestamp" data-t="01:28:44">[01:28:44]</a>. The focus is on getting ideas out <a class="yt-timestamp" data-t="01:29:02">[01:29:02]</a>.
+    3.  After the first rep, reflect on what worked and didn't <a class="yt-timestamp" data-t="01:29:15">[01:29:15]</a>.
+    4.  Progressively reduce the time constraint (e.g., to 2 minutes, then 1 minute, then 30 seconds), speaking again each time <a class="yt-timestamp" data-t="01:29:19">[01:29:19]</a>. This forces you to eliminate noise and non-essential content, leaving only the core message <a class="yt-timestamp" data-t="01:29:33">[01:29:33]</a>.
+    5.  Once at the shortest duration (e.g., 30 seconds), you'll have a clear sense of your talk's essence <a class="yt-timestamp" data-t="01:29:49">[01:29:49]</a>.
+    6.  Then, "go back up the accordion" by doubling the time (e.g., from 30 seconds to 1 minute, then 2 minutes, then back to 3 minutes) <a class="yt-timestamp" data-t="01:30:06">[01:30:06]</a>. At each step, intentionally reintroduce aligned content or new elements <a class="yt-timestamp" data-t="01:30:26">[01:30:26]</a>.
+*   **Result:** By the end, the talk is not memorized but *internalized*, allowing for natural delivery and adaptability across different time frames <a class="yt-timestamp" data-t="01:31:07">[01:31:07]</a>. It provides a deep sense of the speech's core, making mistakes less impactful <a class="yt-timestamp" data-t="01:31:34">[01:31:34]</a>. This method can be used for entire talks (macro level) or specific sections where clarity is needed (micro level) <a class="yt-timestamp" data-t="01:36:11">[01:36:11]</a>.
+
+### The Bow and Arrow Technique
+This technique shifts the focus from "what we want to say" to "what we want our audience to remember" <a class="yt-timestamp" data-t="01:38:35">[01:38:35]</a>. Typically, audiences remember only one key takeaway from a talk <a class="yt-timestamp" data-t="01:39:02">[01:39:02]</a>.
+
+*   **Arrow (The One Thing):** This is your core message, a single sentence that your audience should remember above all else <a class="yt-timestamp" data-t="01:39:22">[01:39:22]</a>. This "North star" provides clarity for both the speaker and the audience <a class="yt-timestamp" data-t="01:39:42">[01:39:42]</a>.
+*   **Bow (The Support):** To give the "arrow" impact, you need to "pull the bow back" by adding weight <a class="yt-timestamp" data-t="01:39:59">[01:39:59]</a>. This involves incorporating interesting anecdotes, relevant data points, or emotional stories that support and illustrate your one thing <a class="yt-timestamp" data-t="01:40:06">[01:40:06]</a>.
+*   **Application:** The process of defining your arrow and bow is often iterative, with one informing the other <a class="yt-timestamp" data-t="01:40:33">[01:40:33]</a>. When preparing a talk, you might write a tentative arrow, then consider supporting elements, and refine both through practice <a class="yt-timestamp" data-t="01:40:46">[01:40:46]</a>. For presentations with slides, each slide should also have its "one thing" in the title, ensuring every element is intentional <a class="yt-timestamp" data-t="01:42:26">[01:42:26]</a>.
+
+## Trusting Your Natural Ability
+A common concern is that these methods encourage "bullshitting" or talking without substance <a class="yt-timestamp" data-t="01:19:54">[01:19:54]</a>. However, if the thought of being a "bullshitter" even crosses your mind, you likely have a keen skill set for discerning genuine communication and will naturally avoid it <a class="yt-timestamp" data-t="01:21:44">[01:21:44]</a>. The goal is to match high-level communication skills with strong ideas, allowing for natural, free expression while maintaining an internal compass to stay true to your message <a class="yt-timestamp" data-t="01:22:07">[01:22:07]</a>.
+
+Speaking is a high-performance skill, and embracing the journey of [[improving public speaking skills | improving]] it can be addictive and energizing <a class="yt-timestamp" data-t="01:04:43">[01:04:43]</a>. The fear often lies in thinking about doing the exercise, but once you begin, it becomes empowering <a class="yt-timestamp" data-t="01:05:26">[01:05:26]</a>. The more constrained one feels with their speaking, the more transformational the journey to conversational speaking will be <a class="yt-timestamp" data-t="01:44:13">[01:44:13]</a>.

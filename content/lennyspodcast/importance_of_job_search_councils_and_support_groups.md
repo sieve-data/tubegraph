@@ -1,0 +1,80 @@
+---
+title: Importance of job search councils and support groups
+videoId: OH3nzRdwYPA
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Job search councils are support groups typically consisting of six to eight job seekers who commit to supporting each other through the process of finding employment <a class="yt-timestamp" data-t="02:54:02">[02:54:02]</a>. They provide a structured environment to navigate the complexities and emotional challenges of the [[job_search_strategies_and_negotiation_tactics | job search]] <a class="yt-timestamp" data-t="03:09:11">[03:09:11]</a>.
+
+## Origin and Scale
+
+Phil Terry, author of "Never Search Alone," founded these councils, bringing a "product lens" to reinvent the job search <a class="yt-timestamp" data-t="01:06:06">[01:06:06]</a> <a class="yt-timestamp" data-t="02:37:37">[02:37:37]</a>. His inspiration dates back to 1960 when his mother, a newly minted elementary school teacher, formed a similar council that met for 50 years to support each other in their careers <a class="yt-timestamp" data-t="05:02:02">[05:02:02]</a> <a class="yt-timestamp" data-t="05:15:39">[05:15:39]</a>. Terry adapted this model, particularly after the dot-com bubble burst, to help hundreds of people with their job searches <a class="yt-timestamp" data-t="06:22:15">[06:22:15]</a> <a class="yt-timestamp" data-t="06:29:13">[06:29:13]</a>.
+
+As of the recording, over 2,000 such councils have been launched, entirely free of charge <a class="yt-timestamp" data-t="09:15:20">[09:15:20]</a> <a class="yt-timestamp" data-t="09:18:24">[09:18:24]</a>. They are volunteer-driven, with over 20,000 hours of volunteer work invested <a class="yt-timestamp" data-t="09:37:57">[09:37:57]</a> <a class="yt-timestamp" data-t="09:39:13">[09:39:13]</a>. Phil Terry funds these councils primarily through his book sales, dedicating more than twice the proceeds from "Never Search Alone" to run the initiative <a class="yt-timestamp" data-t="09:54:03">[09:54:03]</a> <a class="yt-timestamp" data-t="09:56:06">[09:56:06]</a> <a class="yt-timestamp" data-t="09:58:10">[09:58:10]</a> <a class="yt-timestamp" data-t="10:18:50">[10:18:50]</a>.
+
+## Benefits of Job Search Councils
+
+Job search councils provide a crucial "private safety net" for those who have been laid off or are seeking new opportunities <a class="yt-timestamp" data-t="02:22:20">[02:22:20]</a> <a class="yt-timestamp" data-t="02:24:06">[02:24:06]</a> <a class="yt-timestamp" data-t="02:28:44">[02:28:44]</a>. They are designed to address the inherent anxiety and insecurity common in the job search process, which affects nearly everyone, including senior leaders <a class="yt-timestamp" data-t="03:34:25">[03:34:25]</a> <a class="yt-timestamp" data-t="03:47:04">[03:47:04]</a> <a class="yt-timestamp" data-t="03:50:57">[03:50:57]</a>.
+
+Key benefits include:
+*   **Mitigating Anxiety and Insecurity** People often feel insecure and anxious in a job search; doing it alone magnifies these feelings <a class="yt-timestamp" data-t="03:47:04">[03:47:04]</a> <a class="yt-timestamp" data-t="03:52:05">[03:52:05]</a>. Placing anxious individuals together in an open and vulnerable environment, where they can [[the_art_of_asking_for_help_and_its_impact_on_career_growth | ask for help]], helps transform fear and anxiety into hope, motivation, accountability, and confidence <a class="yt-timestamp" data-t="04:01:05">[04:01:05]</a> <a class="yt-timestamp" data-t="04:17:28">[04:17:28]</a>.
+*   **Shared Learning and Trust Building** Members share their experiences, helping each other refine their self-understanding and [[candidate_market_fit_and_job_search_focus | candidate market fit]] <a class="yt-timestamp" data-t="02:39:51">[02:39:51]</a> <a class="yt-timestamp" data-t="02:54:02">[02:54:02]</a>. The initial "Meeting Zero" focuses on building trust through personal story-sharing <a class="yt-timestamp" data-t="12:01:21">[12:01:21]</a>.
+*   **Accountability and Motivation** Councils help members stay accountable and motivated, especially during periods of low emotional energy <a class="yt-timestamp" data-t="13:37:07">[13:37:07]</a> <a class="yt-timestamp" data-t="13:41:26">[13:41:26]</a>. When the job search is hard and humiliating, the community provides essential support <a class="yt-timestamp" data-t="14:40:02">[14:40:02]</a> <a class="yt-timestamp" data-t="14:51:19">[14:51:19]</a>.
+*   **Practical Guidance** Councils teach a specific methodology, including how to define one's [[candidate_market_fit_and_job_search_focus | candidate market fit]] and "play to win" in interviews <a class="yt-timestamp" data-t="03:15:33">[03:15:33]</a> <a class="yt-timestamp" data-t="03:22:20">[03:22:20]</a>. They provide tools, templates, guides, and live training <a class="yt-timestamp" data-t="11:34:02">[11:34:02]</a> <a class="yt-timestamp" data-t="11:42:07">[11:42:07]</a> <a class="yt-timestamp" data-t="11:49:10">[11:49:10]</a>.
+*   **Combating Isolation** In a world with increasing loneliness, these councils offer real community, going beyond mere message boards <a class="yt-timestamp" data-t="17:26:01">[17:26:01]</a> <a class="yt-timestamp" data-t="17:59:02">[17:59:02]</a>.
+*   **Navigating Market Conditions** Councils help members understand and adapt to changing market realities, such as shifts in demand or the need to consider roles at a lower level <a class="yt-timestamp" data-t="20:49:03">[20:49:03]</a> <a class="yt-timestamp" data-t="21:43:08">[21:43:08]</a>. They prevent job seekers from becoming passive or losing focus when the market is tough <a class="yt-timestamp" data-t="43:37:05">[43:37:05]</a> <a class="yt-timestamp" data-t="44:37:04">[44:37:04]</a>.
+
+## How Job Search Councils Work
+
+Job seekers apply via phil.org <a class="yt-timestamp" data-t="10:32:02">[10:32:02]</a>. Applicants are matched into groups based on whether they are "slow seekers" (currently employed) or "fast seekers" (out of work) <a class="yt-timestamp" data-t="10:48:02">[10:48:02]</a>. Fast seekers typically meet twice a week, while slow seekers meet every two weeks <a class="yt-timestamp" data-t="12:11:53">[12:11:53]</a>.
+
+Every council requires a moderator, a job seeker who volunteers for the role, receiving faster matching and additional training <a class="yt-timestamp" data-t="11:03:02">[11:03:02]</a>. After matching, members go through a live orientation program and receive a free, 100-page workbook with templates, guides, and questions <a class="yt-timestamp" data-t="11:31:02">[11:31:02]</a> <a class="yt-timestamp" data-t="11:46:02">[11:46:02]</a>. The first meeting, "Meeting Zero," focuses on vulnerability and trust-building <a class="yt-timestamp" data-t="11:59:02">[11:59:02]</a>. Council members continue to meet until they find a job <a class="yt-timestamp" data-t="12:23:02">[12:23:02]</a>.
+
+## Core Concepts Utilized in Councils
+
+### [[candidate_market_fit_and_job_search_focus | Candidate Market Fit]]
+
+This is considered the most important [[job_search_strategies_and_negotiation_tactics | job search tactic]] after joining a council <a class="yt-timestamp" data-t="02:54:02">[02:54:02]</a> <a class="yt-timestamp" data-t="30:30:02">[30:30:02]</a>. Job seekers are encouraged to approach their job search with a "spear, not a net," meaning they need a narrow, clear focus, similar to how product managers seek product-market fit <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a> <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a> <a class="yt-timestamp" data-t="32:00:02">[32:00:02]</a>.
+
+The process involves:
+1.  **Manukan Two-Pager**: Articulating what one wants and doesn't want in a job <a class="yt-timestamp" data-t="22:01:02">[22:01:02]</a>. This is a radical step most people don't take, typically "spraying and praying" when laid off <a class="yt-timestamp" data-t="22:12:02">[22:12:02]</a>. The council aids in refining this document through shared insights <a class="yt-timestamp" data-t="23:51:02">[23:51:02]</a>.
+2.  **Listening Tour**: Conducting conversations with trusted friends, colleagues, and recruiters to understand market demands and gather feedback on one's fit <a class="yt-timestamp" data-t="24:41:02">[24:41:02]</a> <a class="yt-timestamp" data-t="25:01:02">[25:01:02]</a>. A "golden question" for this tour is: "If you were in my shoes, how would you approach this?" <a class="yt-timestamp" data-t="25:16:02">[25:16:02]</a>. This also helps light up one's network, turning contacts into "listening posts" invested in one's success <a class="yt-timestamp" data-t="26:20:02">[26:20:02]</a> <a class="yt-timestamp" data-t="26:29:02">[26:29:02]</a>.
+3.  **Refining the Fit Statement**: After the listening tour, the council helps narrow down the candidate market fit into a simple, focused statement (e.g., "Director of Product role in a healthcare Series B startup in San Francisco") <a class="yt-timestamp" data-t="31:11:02">[31:11:02]</a> <a class="yt-timestamp" data-t="31:40:02">[31:40:02]</a>. This narrow focus encourages others to be "expansive" in their thinking about suitable roles for the candidate <a class="yt-timestamp" data-t="32:10:02">[32:10:02]</a>.
+
+### [[standing_out_in_interviews_and_job_candidacy | Playing to Win]] and Negotiation
+
+A major mistake job seekers make is not taking charge during interviews and negotiations <a class="yt-timestamp" data-t="49:25:02">[49:25:02]</a>. The strategy is to "play to win," not "not to lose," which means being proactive and collaborative, not ruthless <a class="yt-timestamp" data-t="49:45:02">[49:45:02]</a>.
+
+Key tactics include:
+*   **Job Mission with OKRs**: Creating a personal version of the job description for the role one is interviewing for, including Objectives and Key Results (OKRs) <a class="yt-timestamp" data-t="50:28:02">[50:28:02]</a> <a class="yt-timestamp" data-t="51:04:02">[51:04:02]</a>. This document is initially private and helps formulate insightful questions for the hiring manager <a class="yt-timestamp" data-t="51:16:02">[51:16:02]</a> <a class="yt-timestamp" data-t="51:21:02">[51:21:02]</a>. Presenting this to a hiring manager can be mind-blowing for them, demonstrating initiative and accountability, significantly increasing the chances of getting an offer <a class="yt-timestamp" data-t="51:56:02">[51:56:02]</a> <a class="yt-timestamp" data-t="52:14:02">[52:14:02]</a>.
+*   **Four Legs of Negotiation**: After receiving an offer, instead of immediately discussing money, talk about what is needed to succeed in the role, tying it back to the agreed-upon OKRs <a class="yt-timestamp" data-t="53:39:02">[53:39:02]</a> <a class="yt-timestamp" data-t="54:14:02">[54:14:02]</a>. This could include budget for tech debt, team training, or additional hires <a class="yt-timestamp" data-t="54:26:02">[54:26:02]</a> <a class="yt-timestamp" data-t="55:49:02">[55:49:02]</a>. Companies often appreciate this approach as it demonstrates commitment to success and can even lead to better compensation <a class="yt-timestamp" data-t="56:08:02">[56:08:02]</a> <a class="yt-timestamp" data-t="58:51:02">[58:51:02]</a>.
+*   **Asking for More Money**: Even in a down market, 87% of the time, asking for more money results in getting it <a class="yt-timestamp" data-t="01:00:17">[01:00:17]</a> <a class="yt-timestamp" data-t="01:00:20">[01:00:20]</a>. This should be phrased as an open question, e.g., "Are you open to X?" <a class="yt-timestamp" data-t="01:01:02">[01:01:02]</a> <a class="yt-timestamp" data-t="01:01:11">[01:01:11]</a>. It's best to have these conversations live (in person or over the phone) with the hiring manager if possible <a class="yt-timestamp" data-t="01:02:44">[01:02:44]</a>.
+
+### The [[the_art_of_asking_for_help_and_its_impact_on_career_growth | Art of Asking for Help]]
+
+Asking for help is central to the council's philosophy <a class="yt-timestamp" data-t="04:05:02">[04:05:02]</a>. It is not a sign of weakness but a sign of confidence that both requires and strengthens it <a class="yt-timestamp" data-t="01:14:57">[01:14:57]</a> <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>. When done well, it is a "giving activity" as people enjoy providing their expertise <a class="yt-timestamp" data-t="01:15:07">[01:15:07]</a> <a class="yt-timestamp" data-t="01:15:10">[01:15:10]</a>. It leads to greater independence and improves, rather than hurts, one's reputation <a class="yt-timestamp" data-t="01:16:34">[01:16:34]</a> <a class="yt-timestamp" data-t="01:16:40">[01:16:40]</a>.
+
+To [[the_art_of_asking_for_help_and_its_impact_on_career_growth | ask for help]] effectively:
+*   **Do Your Homework**: Don't ask others to do the work for you <a class="yt-timestamp" data-t="01:13:36">[01:13:36]</a>.
+*   **Be Open and Vulnerable**: Share your needs and challenges <a class="yt-timestamp" data-t="01:14:51">[01:14:51]</a>.
+*   **Target Your Audience**: Ask people with expertise in the relevant area <a class="yt-timestamp" data-t="01:15:50">[01:15:50]</a>.
+*   **Be Honest and Direct**: Clearly state what you are asking for <a class="yt-timestamp" data-t="01:27:56">[01:27:56]</a>.
+*   **Build Relationships**: Asking for help is most effective within established relationships <a class="yt-timestamp" data-t="01:26:16">[01:26:16]</a>.
+
+Examples of asking for help include:
+*   **Defining Reality**: Asking colleagues how they see things or their perspective on situations <a class="yt-timestamp" data-t="01:19:36">[01:19:36]</a>.
+*   **Reviewing Work**: Asking someone to review an important email <a class="yt-timestamp" data-t="01:19:53">[01:19:53]</a>.
+*   **Peer Coaching Calls**: Convening a call with peers who have navigated similar challenges <a class="yt-timestamp" data-t="01:20:35">[01:20:35]</a>.
+*   **First 90 Days Calls**: For new hires, asking people in similar roles for advice on starting a job or avoiding common mistakes <a class="yt-timestamp" data-t="01:20:57">[01:20:57]</a>.
+*   **[[career_development_and_growth_strategies | Career Evolution]] Calls**: Talking to individuals in desired future roles (e.g., a Director talking to VPs) for advice on how to progress <a class="yt-timestamp" data-t="01:21:31">[01:21:31]</a>.
+
+## Impact and Testimonials
+
+People who participate in job search councils report significant positive changes in their [[career_development_and_growth_strategies | careers]] <a class="yt-timestamp" data-t="01:32:31">[01:32:31]</a>. Testimonials highlight how the councils help members manage their "emotional balance sheet," turning liabilities like fear and anxiety into assets like hope and motivation <a class="yt-timestamp" data-t="01:09:02">[01:09:02]</a> <a class="yt-timestamp" data-t="01:10:02">[01:10:02]</a> <a class="yt-timestamp" data-t="01:13:02">[01:13:02]</a>. The average job search duration within a council is 3 months, at the low end of the national average of 3-6 months <a class="yt-timestamp" data-t="02:25:02">[02:25:02]</a> <a class="yt-timestamp" data-t="02:30:02">[02:30:02]</a>.
+
+## Conclusion
+
+Job search councils provide a community-based, structured, and empathetic approach to finding a job. By fostering [[the_art_of_asking_for_help_and_its_impact_on_career_growth | mutual support]] and providing practical [[career_advice_and_frameworks | frameworks]] like [[candidate_market_fit_and_job_search_focus | candidate market fit]] and strategic negotiation, they help individuals navigate the often-challenging job market with increased confidence and effectiveness. Phil Terry emphasizes that anyone struggling with a job search is "not worthless" and encourages them to invest in themselves by joining a council <a class="yt-timestamp" data-t="01:10:17">[01:10:17]</a> <a class="yt-timestamp" data-t="01:10:20">[01:10:20]</a>.
+
+For more information and to sign up for a job search council, visit phil.org <a class="yt-timestamp" data-t="01:48:22">[01:48:22]</a>. You can also find templates and resources on the phil.org/Lenny page <a class="yt-timestamp" data-t="01:48:44">[01:48:44]</a>.
