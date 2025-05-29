@@ -1,73 +1,93 @@
 ---
-title: Introduction to differential equations
+title: Introduction to Differential Equations
 videoId: -_POEWfygmU
 ---
 
 From: [[khanacademy]] <br/> 
 
-[[understanding_differential_equations_and_their_solutions | Differential equations]] are equations that involve an unknown function and its derivatives <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. They are a widely applicable area of study, appearing in various fields such as economics, physics, and engineering <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a><a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+This article serves as an [[introduction_to_differential_equations | introduction to differential equations]], setting the stage for a comprehensive playlist on the topic <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. [[applications_of_differential_equations_in_various_fields | Differential equations]] are widely applicable and appear in many different fields <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Requests for this topic have come from individuals studying economics, physics, and engineering <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
 
-## [[comparing_algebraic_and_differential_equations | Comparing Algebraic and Differential Equations]]
+## [[definition_and_basic_understanding_of_differential_equations | Definition and Basic Understanding of Differential Equations]]
 
-Unlike a regular algebraic equation, where the solution is typically a number or a set of numbers <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>, the [[functionbased_solutions_to_differential_equations | solution to a differential equation]] is a function <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. The goal when solving a differential equation is to find the function (e.g., `y(x)` or `f(x)`) that satisfies the given relationship or equation <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a><a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>.
+A [[definition_and_basic_understanding_of_differential_equations | differential equation]] is an equation that involves an unknown function and its [[understanding_derivatives_in_differential_equations | derivatives]] <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
 
-For example:
-*   **Regular Equation**: `x² + cos(x) = sqrt(x)` <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. The solution is a number for `x`.
-*   **Differential Equation**: `y' + y = x + 3` <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. Here, `y` is the unknown function. This can also be written as `dy/dx + y = x + 3` or `f'(x) + f(x) = x + 3` <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a><a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. The solution is a function `y(x)` or `f(x)`.
+For example, the following are all valid ways of writing the same [[definition_and_basic_understanding_of_differential_equations | differential equation]]:
+*   `y' + y = x + 3` <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>
+*   `dy/dx + y = x + 3` <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>
+*   `f'(x) + f(x) = x + 3` <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>
 
-A single differential equation might have more than one solution function <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. Often, the solution is a "class of functions," which are variations of the same function with differing constants <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a><a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
+In these examples, the unknown function is `y` (or `y(x)` or `f(x)`) <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
 
-## [[verification_of_solutions_for_differential_equations | Verification of Solutions]]
+### Solutions to Differential Equations
 
-To verify if a proposed function is a solution to a differential equation, you substitute the function and its derivatives back into the equation to see if it holds true <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a><a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+Unlike regular equations where the solution is a number or a set of numbers <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>, the [[solutions_to_differential_equations | solution]] to a [[definition_and_basic_understanding_of_differential_equations | differential equation]] is a *function* <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. The goal is to find the function of `x` that explicitly satisfies the given equation <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. Often, the solution may be a class of functions, typically differing by constants <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>.
 
-### Example:
-Consider the differential equation: `y'' + 2y' - 3y = 0` <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a><a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
+#### [[examples_of_differential_equation_solutions | Examples of Differential Equation Solutions]]
 
-**Proposed Solution 1:** `y₁(x) = e⁻³ˣ` <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>
-1.  Find the first derivative: `y₁'(x) = -3e⁻³ˣ` (using the chain rule from [[introduction_to_derivatives_in_calculus | Differential Calculus]]) <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a><a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
-2.  Find the second derivative: `y₁''(x) = 9e⁻³ˣ` <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a><a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
+Consider the [[definition_and_basic_understanding_of_differential_equations | differential equation]]:
+`y'' + 2y' - 3y = 0` <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>
+
+To verify if a function is a [[solutions_to_differential_equations | solution]], substitute the function and its [[understanding_derivatives_in_differential_equations | derivatives]] back into the equation.
+
+**Example 1: `y1(x) = e^(-3x)`** <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>
+1.  First derivative: `y1' = -3e^(-3x)` <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>
+2.  Second derivative: `y1'' = 9e^(-3x)` <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>
 3.  Substitute into the equation:
-    `9e⁻³ˣ + 2(-3e⁻³ˣ) - 3(e⁻³ˣ) = 0` <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>
-    `9e⁻³ˣ - 6e⁻³ˣ - 3e⁻³ˣ = 0` <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>
-    `(9 - 6 - 3)e⁻³ˣ = 0` <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>
+    `9e^(-3x) + 2(-3e^(-3x)) - 3(e^(-3x)) = 0` <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>
+    `9e^(-3x) - 6e^(-3x) - 3e^(-3x) = 0` <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>
+    `(9 - 6 - 3)e^(-3x) = 0`
     `0 = 0` <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>
-    Since the equation holds true, `y₁(x) = e⁻³ˣ` is a solution <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+    This confirms `y1(x) = e^(-3x)` is a [[solutions_to_differential_equations | solution]] <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
 
-**Proposed Solution 2:** `y₂(x) = eˣ` <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a><a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>
-1.  Find the first derivative: `y₂'(x) = eˣ` <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a><a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
-2.  Find the second derivative: `y₂''(x) = eˣ` <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a><a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>.
+**Example 2: `y2(x) = e^x`** <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>
+1.  First derivative: `y2' = e^x` <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>
+2.  Second derivative: `y2'' = e^x` <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>
 3.  Substitute into the equation:
-    `eˣ + 2(eˣ) - 3(eˣ) = 0` <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>
-    `(1 + 2 - 3)eˣ = 0` <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>
-    `0 = 0` <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>
-    Since the equation holds true, `y₂(x) = eˣ` is also a solution <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+    `e^x + 2(e^x) - 3(e^x) = 0` <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>
+    `(1 + 2 - 3)e^x = 0`
+    `0 = 0` <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>
+    This confirms `y2(x) = e^x` is also a [[solutions_to_differential_equations | solution]] <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
 
-## Terminology and Classification
+The fact that there can be multiple [[solutions_to_differential_equations | solutions]] highlights that the solution is a function, or a set/class of functions <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
 
-[[types_of_differential_equations_ordinary_vs_partial | Differential equations]] are categorized in several ways:
+## [[classification_of_differential_equations | Classification of Differential Equations]]
 
-### Ordinary vs. Partial Differential Equations
-*   An **ordinary differential equation (ODE)** involves a function of only one variable and its derivatives with respect to that variable <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a><a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>. The examples shown above are ODEs. This playlist primarily focuses on ODEs <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
-*   A **partial differential equation (PDE)** involves a function of more than one variable, where derivatives can be taken with respect to multiple independent variables (e.g., x, y, z) <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a><a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. These are more complex and are typically covered later <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>.
+[[classification_of_differential_equations | Differential equations]] are primarily classified in two ways:
+1.  **Ordinary vs. Partial** <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>
+2.  **Order** <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a> and **Linear vs. Non-linear** <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>
 
-### [[order_of_a_differential_equation | Order of a Differential Equation]]
-The [[order_of_a_differential_equation | order]] of a differential equation is determined by the highest derivative of the unknown function present in the equation <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a><a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>.
+### Ordinary and Partial Differential Equations
 
-*   **Example**: `x²(d²y/dx²) + x(dy/dx) + 2y = sin(x)` <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
-    *   The highest derivative is the second derivative (`d²y/dx²`) <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a><a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>.
-    *   Therefore, this is a [[first_order_vs_higher_order_differential_equations | second-order]] ordinary differential equation <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>.
+*   **Ordinary Differential Equation (ODE)**: An ODE involves a function of only *one* variable and its [[understanding_derivatives_in_differential_equations | derivatives]] with respect to that single variable <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>. This playlist focuses on [[introduction_to_differential_equations | ordinary differential equations]] <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
+*   **Partial Differential Equation (PDE)**: A PDE involves a function of *more than one* variable and its partial derivatives with respect to those variables (e.g., `x`, `y`, `z`) <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>. These are more complex and are typically addressed later in studies <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>.
 
-### Linear vs. Non-linear Differential Equations
-A differential equation is **linear** if all the unknown functions and their derivatives within the equation appear in a "linear" fashion <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a><a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. This means:
-*   There are no terms like `y²` or `(dy/dx)²` <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a><a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
-*   There are no products of the unknown function and its derivatives (e.g., `y * y''`) <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a><a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>.
+### Order of a Differential Equation
 
-*   **Example of a Linear Equation**: `x²(d²y/dx²) + x(dy/dx) + 2y = sin(x)` <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>.
-    *   The `y`, `y'`, and `y''` terms are not multiplied by `y` or any of its derivatives <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>. The coefficients are functions of the independent variable `x`, which is permissible <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a><a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>.
+The **order** of a [[definition_and_basic_understanding_of_differential_equations | differential equation]] is defined by the highest [[understanding_derivatives_in_differential_equations | derivative]] present in the equation <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>.
 
-*   **Examples of Non-linear Equations**:
-    *   `x²(d²y/dx²)² = sin(x)`: This is non-linear because the second derivative term is squared <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a><a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
-    *   `y(d²y/dx²) = sin(x)`: This is non-linear because the function `y` is multiplied by its second derivative <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a><a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
+**Example**:
+`x² * (d²y/dx²) + x * (dy/dx) + 2y = sin(x)` <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>
+The highest derivative in this equation is the second derivative (`d²y/dx²`) <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. Therefore, this is a **second-order** [[definition_and_basic_understanding_of_differential_equations | differential equation]] <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>.
 
-Understanding these foundational concepts is crucial before delving into methods for solving differential equations <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>.
+### [[linear_and_nonlinear_differential_equations | Linear and Nonlinear Differential Equations]]
+
+A [[definition_and_basic_understanding_of_differential_equations | differential equation]] is considered **linear** if all of its functions and their [[understanding_derivatives_in_differential_equations | derivatives]] are essentially "linear" <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>. This means:
+*   There are no terms like `y²` or `(dy/dx)²` <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+*   There are no products of the function and its derivatives, e.g., `y * (d²y/dx²)` <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>.
+
+**Examples:**
+
+*   **Linear Differential Equation**:
+    `x² * (d²y/dx²) + x * (dy/dx) + 2y = sin(x)` <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>
+    This is a linear equation because `y`, `y'`, and `y''` are not squared or multiplied by each other <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. Coefficients like `x²` or `x` (which are independent variables) multiplying the derivatives do not make it non-linear <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+
+*   **Non-linear Differential Equation**:
+    `x² * (d²y/dx²)² = sin(x)` <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>
+    This is non-linear because the second derivative term `(d²y/dx²)` is squared <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+
+*   **Another Non-linear Differential Equation**:
+    `y * (d²y/dx²) = sin(x)` <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>
+    This is non-linear because the function `y` is multiplied by its second derivative `(d²y/dx²)` <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
+
+---
+The next video will delve into actually solving straightforward [[definition_and_basic_understanding_of_differential_equations | differential equations]] <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>.

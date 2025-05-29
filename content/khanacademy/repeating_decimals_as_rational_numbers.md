@@ -5,22 +5,20 @@ videoId: cLP7INqs3JM
 
 From: [[khanacademy]] <br/> 
 
-[[recurring_decimals_representation | Repeating decimals]] are a specific type of decimal representation that are always considered [[rational_numbers_and_integer_representation | rational numbers]] <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. A [[rational_numbers_and_integer_representation | rational number]] is defined as any number that can be represented as the ratio of two integers <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+A [[definition_of_rational_numbers | rational number]] is any number that can be [[representations_of_rational_numbers | represented]] as the ratio of two integers <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. This means the number can be written as a fraction where both the numerator and the denominator are integers, and the denominator is not zero.
 
-## Characteristics of Repeating Decimals
+## Repeating Decimals Defined
+[[understanding_repeating_decimals | Repeating decimals]] are decimals that have a sequence of digits that repeats infinitely <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. This repeating pattern is often indicated by a bar placed over the repeating digits <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
 
-A [[recurring_decimals_representation | repeating decimal]] is a decimal where a sequence of digits after the decimal point repeats indefinitely <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. This is typically denoted by placing a bar over the repeating digit or sequence of digits <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
+## Repeating Decimals as Rational Numbers
+Despite their infinite nature, [[understanding_repeating_decimals | repeating decimals]] are considered [[definition_of_rational_numbers | rational numbers]] <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. This is because any [[understanding_repeating_decimals | repeating decimal]] can be [[converting_decimals_to_fractions | converted]] into a fraction (the ratio of two integers) <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
 
-### Conversion to Ratio of Two Integers
+### Examples:
+*   **0.3 repeating**: This decimal, represented as 0.333... with a bar over the 3 <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>, is equivalent to 1/3 <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+*   **0.6 repeating**: This decimal is equivalent to 2/3 <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
 
-Any [[recurring_decimals_representation | repeating decimal]] can be [[decimals_to_fractions_conversion | converted]] into a [[fractional_representation_of_noninteger_rational_numbers | fraction]] (the ratio of two integers) <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
+### General Principle:
+It is possible to [[converting_decimals_to_fractions | convert]] *any* [[understanding_repeating_decimals | repeating decimal]] into the ratio of two integers <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. This holds true regardless of whether only one digit repeats or if a million digits repeat, as long as a pattern eventually begins to repeat itself indefinitely <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>.
 
-*   **Example 1: 0.3 repeating**
-    The decimal 0.333... (or 0.3 repeating) is equivalent to 1/3 <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
-*   **Example 2: 0.6 repeating**
-    The decimal 0.666... (or 0.6 repeating) is equivalent to 2/3 <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
-
-Even if a [[recurring_decimals_representation | repeating decimal]] has a very long repeating pattern (e.g., a million digits repeating), as long as the pattern repeats itself over and over again, it can always be represented as the ratio of two integers <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. This property confirms that all [[recurring_decimals_representation | repeating decimals]] are, by definition, [[rational_numbers_and_integer_representation | rational numbers]] <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
-
-> [!NOTE]
-> The conversion process for [[recurring_decimals_representation | repeating decimals]] to fractions will be detailed in future explanations <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
+## Distinction from Irrational Numbers
+The ability to represent [[understanding_repeating_decimals | repeating decimals]] as fractions contrasts them with irrational numbers. Irrational numbers, such as Pi (π), *e*, the square root of 2, or Phi (the golden ratio), are non-terminating and non-repeating decimals <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. They cannot be expressed as a simple ratio of two integers <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.

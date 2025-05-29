@@ -1,54 +1,54 @@
 ---
-title: Law of demand
+title: law of demand
 videoId: ShzPtU7IOXs
 ---
 
 From: [[khanacademy]] <br/> 
 
-The law of demand is one of the core ideas of microeconomics <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. It is an intuitive concept <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
-
-The law of demand states that:
-*   If the price of a product increases, the [[impact_of_price_changes_on_quantity_demanded | quantity demanded]] for that product will decrease <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>, <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
-*   Conversely, if the price of a product decreases, the [[impact_of_price_changes_on_quantity_demanded | quantity demanded]] of that product will increase <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
-
-This is a general principle, though there are some exceptions <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>, <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+The **Law of Demand** is a core idea in microeconomics, stating that if the price of a product increases, the [[effects_of_price_changes_on_quantity_demanded | quantity demanded]] for that product will decrease <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. Conversely, if the price of a product decreases, the [[effects_of_price_changes_on_quantity_demanded | quantity demanded]] will increase <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. While this is a general principle, there are some exceptions <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
 
 ## Demand vs. Quantity Demanded
 
-In formal economic terms, the word "demand" does not refer to a specific quantity <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. Instead, demand describes, [[ceteris_paribus_in_economics | all else equal]], the entire relationship between price and [[impact_of_price_changes_on_quantity_demanded | quantity demanded]] <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>, <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. If referring to a specific amount, it is more precise to say "[[impact_of_price_changes_on_quantity_demanded | quantity demanded]]" <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+It is crucial in economics to distinguish between "demand" and "[[demand_vs_quantity_demanded | quantity demanded]]" <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>:
+*   **Quantity Demanded**: Refers to a specific amount of a product that people are willing to buy at a given price <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. Changes in price lead to changes in [[effects_of_price_changes_on_quantity_demanded | quantity demanded]] <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+*   **Demand**: Refers to the entire relationship between various prices and the corresponding [[effects_of_price_changes_on_quantity_demanded | quantities demanded]], assuming [[Ceteris paribus assumption | all else is equal]] (*ceteris paribus*) <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. This entire relationship can be represented by a [[demand_schedule_and_demand_curve | demand schedule]] or a [[demand_schedule_and_demand_curve | demand curve]] <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
 
-The [[difference_between_demand_and_quantity_demanded | difference between demand and quantity demanded]] is crucial <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. This video focuses on how the [[impact_of_price_changes_on_quantity_demanded | quantity demanded changes]] in relation to price <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>, while future discussions will cover how the entire relationship (demand) shifts based on other factors <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>, <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
+When only the price changes (and [[Ceteris paribus assumption | everything else is held equal]]), it causes a change in the [[effects_of_price_changes_on_quantity_demanded | quantity demanded]], which is observed as a movement *along* the existing [[demand_schedule_and_demand_curve | demand curve]] <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. If other factors besides price change, the entire "demand" (the relationship itself) changes, resulting in a shift of the [[demand_schedule_and_demand_curve | demand curve]] <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
 
-## Illustrating Demand: Demand Schedule and Demand Curve
+## Demand Schedule
 
-To make the concept concrete, consider the example of an ebook, "Space Whatever."
+A [[demand_schedule_and_demand_curve | demand schedule]] is a table that illustrates the relationship between the price of a product and its [[effects_of_price_changes_on_quantity_demanded | quantity demanded]], assuming [[Ceteris paribus assumption | all other factors are constant]] <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
 
-### Demand Schedule
+**Example: "Space Whatever" Ebook Demand Schedule** <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>
 
-A [[demand_schedule_and_demand_curve | demand schedule]] is a table that shows the relationship between the price of a product and its [[impact_of_price_changes_on_quantity_demanded | quantity demanded]], [[ceteris_paribus_in_economics | all else equal]] <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>, <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>, <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+| Scenario | Price ($) | Quantity Demanded (Units) |
+| :------- | :-------- | :------------------------ |
+| A        | 2         | 60,000                    |
+| B        | 4         | 40,000                    |
+| C        | 6         | 30,000                    |
+| D        | 8         | 25,000                    |
+| E        | 10        | 23,000                    |
 
-| Scenario | Price (USD) | Quantity Demanded (Units) |
-| :------- | :---------- | :------------------------ |
-| A        | $2          | 60,000                    |
-| B        | $4          | 40,000                    |
-| C        | $6          | 30,000                    |
-| D        | $8          | 25,000                    |
-| E        | $10         | 23,000                    |
+This table clearly demonstrates the law of demand: as the price increases, the [[effects_of_price_changes_on_quantity_demanded | quantity demanded]] decreases <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
 
-This table explicitly shows the law of demand: as the price increases, the [[impact_of_price_changes_on_quantity_demanded | quantity demanded]] decreases <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>, <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
+## Demand Curve
 
-### Demand Curve
+A [[demand_schedule_and_demand_curve | demand curve]] is a graphical representation of the [[demand_schedule_and_demand_curve | demand schedule]], showing the continuous relationship between price and [[effects_of_price_changes_on_quantity_demanded | quantity demanded]] <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. In economics, the convention is to plot price on the vertical (y) axis and [[effects_of_price_changes_on_quantity_demanded | quantity demanded]] on the horizontal (x) axis <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
 
-A [[demand_schedule_and_demand_curve | demand curve]] is a visual representation derived from the [[demand_schedule_and_demand_curve | demand schedule]] <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>, <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. It plots these price and [[impact_of_price_changes_on_quantity_demanded | quantity demanded]] points and connects them with a continuous curve, accounting for prices not explicitly listed in the schedule <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>, <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>, <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>.
+**Graphing the "Space Whatever" Ebook Demand Curve** <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>
 
-In economics, it's a convention to plot price on the vertical axis and [[impact_of_price_changes_on_quantity_demanded | quantity demanded]] on the horizontal axis <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>, <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>, <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
-
-An example of a plotted [[graphing_the_demand_curve | demand curve]]:
-*   **Scenario A:** Price $2, Quantity Demanded 60,000 <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>
-*   **Scenario B:** Price $4, Quantity Demanded 40,000 <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>
-*   **Scenario C:** Price $6, Quantity Demanded 30,000 <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>
-*   **Scenario D:** Price $8, Quantity Demanded 25,000 <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>
-*   **Scenario E:** Price $10, Quantity Demanded 23,000 <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>
-
-> [!NOTE]
-> The demand itself refers to this entire relationship (the [[demand_schedule_and_demand_curve | demand schedule]] or the [[graphing_the_demand_curve | demand curve]]) <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>, <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>, <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. When only the price changes and [[ceteris_paribus_in_economics | everything else is held equal]], it is the [[impact_of_price_changes_on_quantity_demanded | quantity demanded]] that changes, representing a movement *along* the existing demand curve, rather than a shift *of* the demand curve <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>, <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>, <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
+```
+            Price ($)
+     10 +-------------------- E (10, 23,000)
+        |           .
+      8 +----------D (.8, 25,000)
+        |           .
+      6 +---------C (.6, 30,000)
+        |           .
+      4 +-------B (.4, 40,000)
+        |           .
+      2 A(.2, 60,000)
+        +-------------------------------------
+        0  10  20  30  40  50  60  Quantity Demanded (Thousands)
+```
+The points from the demand schedule are plotted (e.g., Scenario A: $2, 60,000 units), and a continuous line is drawn to represent the demand curve, indicating that prices and quantities in between the listed scenarios are also possible <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. This downward-sloping curve visually confirms the inverse relationship between price and [[effects_of_price_changes_on_quantity_demanded | quantity demanded]] described by the law of demand <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>.

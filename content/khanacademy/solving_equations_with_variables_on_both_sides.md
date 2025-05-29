@@ -5,65 +5,59 @@ videoId: f15zA0PhSek
 
 From: [[khanacademy]] <br/> 
 
-When approaching a more complex equation, such as one with variables on both sides, the core objective remains the same: to [[isolating_a_variable_in_an_equation | isolate the variable]] <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. Once the variable (e.g., x) is isolated, the equation is solved, and the solution can be checked <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. This process involves performing a series of [[operations_on_both_sides_of_an_equation | operations on both sides of the equation]] <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. Visualizing these operations can help understand *why* certain steps are allowed and prevent confusion <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
+[[solving_algebraic_equations | Solving algebraic equations]] can involve equations where the variable appears on both sides. These might initially seem complex, but they can be solved systematically by [[isolating_variables_in_algebraic_equations | isolating the variable]] <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. The fundamental principle is to [[balanding_equations_by_performing_operations_on_both_sides | perform the same operations on both sides of the equation]] until the variable is isolated <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. Visualizing the steps can help in [[systematic_approach_to_solving_equations | understanding what operations are allowed]] <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
 
-## Example: `2x + 3 = 5x - 2`
+## Example Equation
 
-Let's [[solving_equations_with_variables | solve the equation]] `2x + 3 = 5x - 2` <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>.
+Consider the equation: `2x + 3 = 5x - 2` <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+This equation has `x` values on both the left and right sides, along with constant numbers being added and subtracted <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
 
-### Step 1: Consolidate Variables on One Side
+## Step-by-Step Solution
 
-The first goal is to gather all the variable terms (x's) onto a single side of the equation <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
+The goal is to [[isolating_variables_in_algebraic_equations | isolate the x]] <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
 
-There are multiple valid approaches:
-*   Subtract `2x` from both sides <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>. This is often preferred if it keeps the variable's coefficient positive <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.
-*   Subtract `5x` from both sides <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
+### Step 1: Get Variables on One Side
 
-Let's subtract `2x` from both sides of the equation <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>:
+To begin, consolidate the `x` terms on one side of the equation. One reasonable approach is to subtract `2x` from both sides, as this will result in a positive number of `x`'s on the right side <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
 
-```
-2x + 3 = 5x - 2
--2x      -2x
-```
+*   **Algebraic Step:**
+    ```
+    2x + 3 = 5x - 2
+    -2x        -2x
+    ----------------
+    3 = 3x - 2
+    ```
+*   **Explanation:** By subtracting `2x` from both sides, the `2x` on the left cancels out <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>. On the right, `5x - 2x` simplifies to `3x` <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+*   **Visual Representation:** If you imagine `2x` (two 'x' blocks) and `3` (three '+1' blocks) on the left, and `5x` (five 'x' blocks) and `-2` (two '-1' blocks) on the right, removing two 'x' blocks from each side maintains the balance <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
 
-On the left side, `2x - 2x` cancels out, leaving `3` <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
-On the right side, `5x - 2x` simplifies to `3x` <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+### Step 2: Get Constants on the Other Side
 
-The equation becomes: `3 = 3x - 2` <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+Now that the `x` terms are on one side, move the constant terms to the opposite side. In this case, to [[solving_linear_equations_with_addition_and_subtraction | remove the -2]] from the right side, add `2` to both sides of the equation <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
 
-### Step 2: Consolidate Constants on the Other Side
+*   **Algebraic Step:**
+    ```
+    3 = 3x - 2
+    +2       +2
+    ----------------
+    5 = 3x
+    ```
+*   **Explanation:** Adding `2` to `3` on the left results in `5` <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>. On the right, `-2 + 2` cancels out, leaving only `3x` <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+*   **Visual Representation:** Adding two '+1' blocks to both sides will cancel out the two '-1' blocks on the right, leaving only the 'x' blocks balanced against the constant blocks <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
 
-Now, with all the variable terms on one side, the next step is to move all constant terms to the opposite side <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. In our current equation, we want to eliminate the `-2` from the right side to further [[isolating_a_variable_in_an_equation | isolate the x]] <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+### Step 3: Isolate the Variable
 
-To remove `-2`, we add `2` to both sides of the equation <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>:
+The final step is to [[isolating_variables_in_algebraic_equations | isolate `x`]] by removing its coefficient. Since `x` is being multiplied by `3`, divide both sides of the equation by `3` <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
 
-```
-3 = 3x - 2
-+2       +2
-```
+*   **Algebraic Step:**
+    ```
+    5 = 3x
+    --- ---
+     3   3
+    ```
+    This results in: `5/3 = x` <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+*   **Explanation:** Dividing `3x` by `3` leaves `x` <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. The left side becomes the fraction `5/3` <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+*   **Final Answer:** `x = 5/3` or `x = 1 2/3` <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. It is perfectly acceptable for `x` to be on the right side of the equation; `5/3 = x` is equivalent to `x = 5/3` <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
 
-On the left side, `3 + 2` equals `5` <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>.
-On the right side, `-2 + 2` cancels out, leaving `3x` <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+## Conclusion
 
-The equation is now: `5 = 3x` <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>.
-
-### Step 3: Isolate the Variable by Division
-
-The final step in [[isolating_a_variable_in_an_equation | isolating the variable]] is to divide both sides by the coefficient of x <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. The coefficient is the number multiplying the variable <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. In `5 = 3x`, the coefficient of x is `3`.
-
-[[dividing_both_sides_of_an_equation | Divide both sides]] by `3` <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>:
-
-```
-5 / 3 = 3x / 3
-```
-
-On the left side, `5 / 3` remains `5/3` <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
-On the right side, `3x / 3` simplifies to `x` <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
-
-So, the solution is `5/3 = x` <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
-
-It is completely acceptable to have the variable on the right side of the equation <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. This is equivalent to `x = 5/3` <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
-
-This fractional answer can also be expressed as a mixed number: `1 2/3` <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
-
-Thus, `x = 5/3` or `x = 1 2/3` <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
+By systematically [[balanding_equations_by_performing_operations_on_both_sides | applying operations to both sides of the equation]], even complex linear equations with variables on both sides can be solved to find the value of the unknown variable <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. The key is to remember the objective of [[isolating_variables_in_algebraic_equations | isolating the variable]] <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.

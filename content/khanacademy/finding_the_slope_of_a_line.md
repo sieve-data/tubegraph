@@ -5,50 +5,50 @@ videoId: R948Tsyq4vA
 
 From: [[khanacademy]] <br/> 
 
-[[understanding_the_concept_of_slope | Slope]] indicates how [[Slope of a Straight Line | steep a line is]] <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. The fundamental way to define [[Slope of a line in algebra | slope]] is as the ratio of the "change in y" to the "change in x" <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This relationship can be written as:
+The [[understanding_slope_of_a_straight_line | slope of a line]] indicates how steep it is <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. For a straight line, its slope is always constant <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
 
-```
-Slope = Change in y / Change in x
-```
-<a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>
+## Formula for Slope
+The slope is defined as the change in y divided by the change in x <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. This can be written as:
 
-For any given line, the [[consistency in calculating slope | slope]] will always remain constant <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. The "change in" concept is often represented by the capital Greek letter delta (Δ), so the formula can also be seen as Δy / Δx <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+$ \text{Slope} = \frac{\text{Change in y}}{\text{Change in x}} $ <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>
 
-## Calculating Slope from a Graph
+### Notation
+The symbol "Δ" (Delta), which is a capital delta, means "change in" <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. Therefore, the formula for slope is often expressed as:
 
-To find the slope of a line from a graph, you can pick any two points on the line <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. It is often easiest to select points with integer coordinates <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+$ \text{Slope} = \frac{\Delta y}{\Delta x} $ <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>
 
-### Example 1: Moving Rightward
+## Steps to [[determining_slope | Determine Slope]] from a Graph
+To find the [[slope_of_a_line_in_algebra | slope of a line]] using a graph, follow these steps:
 
-Let's consider a line where we pick a starting point and a second point to the right <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+1.  **Select Two Points**: Choose any two distinct points on the line <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. It is advisable to pick points with clear integer coordinates for easier reading <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+2.  **Calculate Change in X ($\Delta x$)**: Determine the horizontal distance between the two chosen points <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+3.  **Calculate Change in Y ($\Delta y$)**: Determine the vertical distance between the two chosen points <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
+4.  **Calculate Slope**: Divide the change in y by the change in x ($ \frac{\Delta y}{\Delta x} $) <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
 
-1.  **Identify Change in X (Δx):**
-    *   Starting at an x-coordinate of -3 and moving to an x-coordinate of 0, the horizontal change (Δx) is 3 units to the right <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
-    *   Δx = 3 <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>
+## Example 1: Moving from Left to Right
+Let's consider a line passing through the points (-3, -3) and (0, -1) <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>, <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
 
-2.  **Identify Change in Y (Δy):**
-    *   From a y-coordinate of -3, moving up to a y-coordinate of -1, the vertical change (Δy) is 2 units up <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
-    *   Δy = 2 <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>
+1.  **Change in X ($\Delta x$)**: Starting at x = -3 and moving to x = 0, the change in x is 3 units to the right <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>, <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+    *   $\Delta x = 0 - (-3) = 3$ <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>
+2.  **Change in Y ($\Delta y$)**: Starting at y = -3 and moving to y = -1, the change in y is 2 units upwards <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+    *   $\Delta y = -1 - (-3) = 2$ <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>
+3.  **Slope**:
+    *   $\text{Slope} = \frac{\Delta y}{\Delta x} = \frac{2}{3}$ <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>
 
-3.  **Calculate Slope:**
-    *   Slope = Δy / Δx = 2 / 3 <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>
+## Example 2: Verifying with Different Points and Direction
+The slope of a line is constant, so you can pick any two points on the line and get the same result <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>, <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. Let's use the points (3, 1) and (-3, -3) from the same line <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>, <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
 
-### Example 2: [[using_different_points_to_determine_slope | Using Different Points and Directions]]
+1.  **Change in Y ($\Delta y$)**: Starting at y = 1 and moving to y = -3, the change in y is 4 units downwards <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+    *   $\Delta y = -3 - 1 = -4$ <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>
+2.  **Change in X ($\Delta x$)**: Starting at x = 3 and moving to x = -3, the change in x is 6 units to the left <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>, <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+    *   $\Delta x = -3 - 3 = -6$ <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>
+3.  **Slope**:
+    *   $\text{Slope} = \frac{\Delta y}{\Delta x} = \frac{-4}{-6}$ <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>
+    *   Simplifying the fraction, the negatives cancel out, and 4/6 reduces to 2/3 <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+    *   $\text{Slope} = \frac{2}{3}$
 
-The choice of points and direction of travel along the line does not change the slope, as long as consistency is maintained <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
+Both examples yield the same slope of 2/3, demonstrating that the choice of points does not affect the slope value as long as consistency is maintained in calculating changes in x and y <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
 
-Consider starting at a point further right and moving to a point further left:
-
-1.  **Identify Change in Y (Δy):**
-    *   Starting at a y-coordinate of 1 and moving down to a y-coordinate of -3, the vertical change is -4 units (down) <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
-    *   Δy = -4 <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>
-
-2.  **Identify Change in X (Δx):**
-    *   Starting at an x-coordinate of 3 and moving to an x-coordinate of -3, the horizontal change is -6 units (left) <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
-    *   Δx = -6 <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>
-
-3.  **Calculate Slope:**
-    *   Slope = Δy / Δx = -4 / -6 <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>
-    *   The negatives cancel out, resulting in 4/6, which simplifies to 2/3 <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
-
-Regardless of the points chosen or the direction of measurement, the slope of a straight line will always be the same value, provided the calculations for Δy and Δx are [[consistency in calculating slope | consistent]] <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
+---
+[[graph_interpretation_for_slope_calculation | Graph Interpretation for Slope Calculation]]
+[[properties_of_slope_in_linear_equations | Properties of Slope in Linear Equations]]

@@ -5,63 +5,67 @@ videoId: 2WS1sG9fhOk
 
 From: [[khanacademy]] <br/> 
 
-The [[relation_between_work_and_energy|concepts of work and energy]] are fundamental in physics, though their everyday meanings might differ slightly from their scientific definitions <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. While the definitions can seem circular, understanding their mathematical representations provides a more intuitive grasp <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+The concepts of work and [[definition_and_understanding_of_energy | energy]] are fundamental in physics, though they may have different meanings than in everyday life, they are not entirely unrelated <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
 
-## Definition of Work
+## Defining Work
 
-In physics, [[relation_between_work_and_energy|work]] is defined as [[definition_of_energy|energy]] transferred by a force <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. This definition, sourced from Wikipedia, offers a relatively intuitive understanding <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Conversely, [[definition_of_energy|energy]] is defined as the ability to do [[relation_between_work_and_energy|work]] <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. This establishes a [[relation_between_work_and_energy|relationship]] where the two concepts define each other <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+In common usage, "work" often refers to doing something or making a living <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. In physics, however, the definitions of work and [[definition_and_understanding_of_energy | energy]] can be somewhat circular <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
 
-### Mathematical Representation
+Work is defined as [[definition_and_understanding_of_energy | energy]] transferred by a force <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. This definition helps provide an intuitive understanding <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
 
-The [[mathematical_representation_of_work|definition of work in mechanics]] is expressed quantitatively as:
+### The Circular Definition with Energy
 
-`Work = Force × Distance` <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>
+A challenge arises when defining work and [[definition_and_understanding_of_energy | energy]] purely with words:
+*   Work is [[definition_and_understanding_of_energy | energy]] transferred by a force <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+*   [[definition_and_understanding_of_energy | Energy]] is defined as the ability to do work <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
 
-For example, if a force of 10 Newtons is applied to move a block 7 meters, the work done is:
+This makes the definitions appear somewhat circular <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>, but understanding their quantitative relationships through equations can provide a clearer intuition <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
 
-`Work = 10 Newtons × 7 meters = 70 Newton meters` <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>
+## Calculating Work
 
-### Units of Work and Energy
+In mechanics, the definition of work is quantitative:
+Work (W) = Force (F) × Distance (d) <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
 
-The unit for [[relation_between_work_and_energy|work]] is the Newton meter <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. This unit is also defined as one Joule <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. The Joule is the standard unit for both [[relation_between_work_and_energy|work]] and [[definition_of_energy|energy]], signifying their interconvertibility <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+### Units of Work
+The units for work are Newton-meters (Nm) <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>. One Newton-meter is also defined as one Joule (J) <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. The Joule is the standard unit of work and also the unit of [[definition_and_understanding_of_energy | energy]] <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
+
+### Example Calculation
+If a force of 10 Newtons (N) is applied to a block and moves it 7 meters (m) <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>, the work done on the block, or the [[definition_and_understanding_of_energy | energy]] transferred to it, is:
+W = 10 N × 7 m = 70 Newton-meters <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+Therefore, the work done is 70 Joules <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
 
 ## Work and Kinetic Energy
 
-When a force is applied to an object, it causes acceleration (since Force = mass × acceleration) <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>, leading to a change in the object's velocity <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. The work done on an object can be directly related to its change in velocity and, consequently, its [[calculating_kinetic_energy|kinetic energy]].
+When a constant force is applied to an object over a distance on a frictionless surface, it causes the object to accelerate <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. This acceleration means the object will gain velocity <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
 
-Consider a block of mass 'm' at rest, with a force 'F' applied over a [[concept_of_distance_and_displacement|distance]] 'd' <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>. The work done is `Work = F × d` <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+### Derivation of Kinetic Energy
 
-To determine the final velocity ('vf') of the block, kinematics equations can be used <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. A relevant kinematic equation is:
+Consider a block of mass 'm' starting at rest, to which a force 'F' is applied over a distance 'd' <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>. The work done is W = F × d <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
 
-`vf² = vi² + 2ad` <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>
+Using kinematics equations:
+1.  The final velocity squared ($v_f^2$) is equal to the initial velocity squared ($v_i^2$) plus 2 times acceleration (a) times distance (d) <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>:
+    $v_f^2 = v_i^2 + 2ad$
+2.  Since the block starts at rest, $v_i = 0$ <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. So, the equation simplifies to:
+    $v_f^2 = 2ad$ <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>
+3.  From Newton's second law, Force (F) = mass (m) × acceleration (a), so acceleration (a) = F/m <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
+4.  Substitute 'a' into the equation:
+    $v_f^2 = 2(F/m)d$ <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>
+5.  Rearranging the terms:
+    $v_f^2 = (2Fd)/m$ <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>
+6.  Since work (W) = F × d <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>:
+    $v_f^2 = (2W)/m$ <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>
+7.  Multiplying both sides by 'm' and rearranging to solve for Work:
+    $m v_f^2 = 2W$ <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>
+    $W = \frac{1}{2}mv^2$ <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a> (where $v$ is the final velocity)
 
-Where:
-*   `vf` is the final velocity
-*   `vi` is the initial velocity
-*   `a` is acceleration
-*   `d` is [[concept_of_distance_and_displacement|distance]]
+### [[kinetic_energy_formula | Kinetic Energy]] Definition and Formula
 
-If the block starts at rest (`vi = 0`), the equation simplifies to:
+This derived formula, $W = \frac{1}{2}mv^2$, represents the work imputed into an object to get it to a certain velocity <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. This is, by definition, [[kinetic_energy_formula | kinetic energy]] <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>.
 
-`vf² = 2ad` <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>
+[[kinetic_energy_formula | Kinetic energy]] is the [[definition_and_understanding_of_energy | energy]] an object possesses due to its motion <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>. It is also described as the work needed to accelerate an object from being stationary to its current velocity <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>.
 
-Knowing that `a = F/m` (from F=ma) <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>, we can substitute 'a':
+The formula for [[kinetic_energy_formula | kinetic energy]] (KE) is:
+$KE = \frac{1}{2}mv^2$ <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>
+The unit for [[kinetic_energy_formula | kinetic energy]] is also Joules <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
 
-`vf² = 2 * (F/m) * d` <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>
-
-Rearranging the equation to isolate the work term (`F × d`):
-
-`vf² = (2 * (F * d)) / m` <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>
-`m * vf² = 2 * (F * d)` <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>
-
-Since `Work = F × d` <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>, we can substitute 'Work' into the equation:
-
-`m * vf² = 2 * Work` <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>
-
-Finally, solving for Work:
-
-`Work = (1/2) * m * vf²` <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>
-
-This derived formula is the definition of [[calculating_kinetic_energy|kinetic energy]] <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. [[calculating_kinetic_energy|Kinetic energy]] represents the [[definition_of_energy|energy]] an object possesses due to its motion, or equivalently, the [[relation_between_work_and_energy|work]] needed to accelerate an object from rest to its current velocity <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>. It is a very common and essential formula in physics <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>.
-
-In future discussions, other forms of [[definition_of_energy|energy]] and the [[relation_between_work_and_energy|law of conservation of energy]] will be explored, highlighting how [[definition_of_energy|energy]] can be transformed from one form to another <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>.
+This understanding of work and [[definition_and_understanding_of_energy | energy]], particularly [[kinetic_energy_formula | kinetic energy]], lays the groundwork for exploring other forms of [[definition_and_understanding_of_energy | energy]] and the [[law_of_conservation_of_energy | law of conservation of energy]] <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. The [[law_of_conservation_of_energy | law of conservation of energy]] is crucial because it allows for tracking how one form of [[definition_and_understanding_of_energy | energy]] converts into another <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.

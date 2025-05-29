@@ -5,60 +5,84 @@ videoId: 9Ek61w1LxSc
 
 From: [[khanacademy]] <br/> 
 
-Solving equations systematically is crucial, especially as they become more complex and cannot be solved by simply guessing or trying numbers in your head <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. A key understanding is that an equation states that two things are equal, and any operation performed on one side must also be performed on the other to maintain this equality <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. This ensures the equation remains balanced <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. This approach is part of [[using_algebraic_steps_to_solve_equations|using algebraic steps to solve equations]] and forms the basis for [[algebraic_approach_to_balancing_equations|balancing equations]].
+Solving equations systematically is crucial, especially as they become more complex, making it difficult to solve them mentally <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>. This approach ensures that the solution is found reliably, even when direct mental calculation is not feasible <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>.
 
-## Understanding Algebraic Notation
+## Understanding Equations
 
-In algebra, when a number is written next to a variable (e.g., 7x), it signifies multiplication <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. This is a shorthand notation <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. The traditional multiplication sign (x) is generally avoided because the letter 'x' is the most common variable used in algebra, which can lead to confusion <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. Sometimes, a dot (·) is used to represent multiplication, such as 7·x <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>, but for a number and a variable, 7x is the most common and clear notation <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
+An equation like `7x = 14` means that 7 times a number (represented by `x`) is equal to 14 <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. In [[understanding_linear_equations | algebra]], when a number is written next to a variable (e.g., `7x`), it implies multiplication, serving as a shorthand notation <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>. The traditional multiplication sign (`x`) is generally avoided to prevent confusion with the variable `x`, which is commonly used <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>. Sometimes a dot (`•`) might be used, but `7x` is the most common notation <a class="yt-timestamp" data-t="02:01:00">[02:01:00]</a>.
 
-## Solving Basic Linear Equations
+Visually, `7x` represents `x` added to itself 7 times (e.g., `x + x + x + x + x + x + x`) <a class="yt-timestamp" data-t="02:34:00">[02:34:00]</a>. If `7x` is equal to 14, it means these seven instances of `x` combined are equivalent to 14 units <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a>.
 
-To solve an equation where a coefficient (the number multiplying the variable) is present, the goal is to isolate the variable <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>.
+## Solving Equations Using Division
 
-### Example: 7x = 14
+One of the fundamental [[algebraic_techniques_for_solving_equations | algebraic techniques]] for [[solving_algebraic_equations | solving equations]] is to isolate the variable. When an equation is simplified to a coefficient (a number multiplying the variable) times a variable, equal to another number, the goal is to divide both sides by the coefficient <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>.
 
-The equation 7x = 14 literally means "7 times x is equal to 14" <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. This also means x added to itself 7 times equals 14 <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+### Example: `7x = 14`
 
-To solve for x:
-1.  **Identify the coefficient:** The coefficient is 7 <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
-2.  **Divide both sides by the coefficient:** Divide both sides of the equation by 7 <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
-    *   7x / 7 = 14 / 7 <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>
-    *   The 7's on the left side cancel out <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
-    *   x = 2 <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>
+To [[solving_simple_linear_equations | solve]] `7x = 14` systematically:
+1.  **Identify the coefficient**: The coefficient of `x` is 7 <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>.
+2.  **Divide both sides by the coefficient**:
+    ```
+    7x / 7 = 14 / 7 <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>
+    ```
+3.  **Simplify**:
+    ```
+    x = 2 <a class="yt-timestamp" data-t="04:22:00">[04:22:00]</a>
+    ```
 
-Visually, if you have 7 groups of 'x' equal to 14 objects, dividing by 7 means splitting both sides into 7 equivalent groups. Each 'x' will then be equal to two objects <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+This division visually means that if seven `x`'s are equal to 14 objects, then dividing both sides by 7 means each `x` is equal to two objects <a class="yt-timestamp" data-t="05:37:00">[05:37:00]</a>. Any operation performed on one side of an equation must also be performed on the other side to maintain equality <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>.
 
-### Example: 3x = 15
+### Division vs. Multiplication by Reciprocal
 
-1.  **Divide both sides by 3:**
-    *   3x / 3 = 15 / 3 <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>
-    *   x = 5 <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>
+Dividing both sides of an equation by a number is equivalent to multiplying both sides by the reciprocal of that number <a class="yt-timestamp" data-t="08:01:00">[08:01:00]</a>.
 
-Alternatively, dividing by 3 is equivalent to multiplying both sides by 1/3 <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>:
-*   (1/3) * 3x = (1/3) * 15 <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>
-*   1x = 5 <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>
-*   x = 5 <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>
+For example, to solve `3x = 15`:
+*   **Divide by 3**:
+    ```
+    3x / 3 = 15 / 3 <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a>
+    x = 5 <a class="yt-timestamp" data-t="07:04:00">[07:04:00]</a>
+    ```
+*   **Multiply by 1/3 (the reciprocal of 3)**:
+    ```
+    (1/3) * 3x = 15 * (1/3) <a class="yt-timestamp" data-t="07:28:00">[07:28:00]</a>
+    1x = 5 <a class="yt-timestamp" data-t="07:46:00">[07:46:00]</a>
+    x = 5 <a class="yt-timestamp" data-t="07:52:00">[07:52:00]</a>
+    ```
 
-## Solving Equations with Combined Terms
+## Combining Like Terms
 
-Sometimes, an equation might have multiple terms involving the same variable. The first step is to combine these like terms.
+When an equation involves multiple terms with the same variable, these "like terms" can be combined before isolating the variable.
 
-### Example: 2y + 4y = 18
+### Example: `2y + 4y = 18`
 
-1.  **Combine like terms:** 2y means two 'y's added together (y + y), and 4y means four 'y's added together (y + y + y + y) <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. Adding these gives a total of six 'y's <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>.
-    *   2y + 4y = 6y <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>
-    *   The equation becomes: 6y = 18 <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>
-2.  **Solve for y:** Now, use the same method as above. Divide both sides by the coefficient, 6 <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>.
-    *   6y / 6 = 18 / 6 <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>
-    *   y = 3 <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>
+1.  **Visualize the terms**: `2y` means `y + y`, and `4y` means `y + y + y + y` <a class="yt-timestamp" data-t="09:04:00">[09:04:00]</a>.
+2.  **Combine like terms**: Counting all the `y`'s on the left side: `y + y + y + y + y + y = 6y` <a class="yt-timestamp" data-t="09:41:00">[09:41:00]</a>.
+    *   This is analogous to adding apples: 2 apples plus 4 apples equals 6 apples <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>.
+3.  **Rewrite the equation**:
+    ```
+    6y = 18 <a class="yt-timestamp" data-t="09:45:00">[09:45:00]</a>
+    ```
+4.  **Solve by division**: Divide both sides by the coefficient (6) <a class="yt-timestamp" data-t="10:15:00">[10:15:00]</a>.
+    ```
+    6y / 6 = 18 / 6 <a class="yt-timestamp" data-t="10:22:00">[10:22:00]</a>
+    y = 3 <a class="yt-timestamp" data-t="10:31:00">[10:31:00]</a>
+    ```
 
-## Verifying Your Solution
+### Checking the Solution
 
-One of the benefits of solving equations is that you can always check your answer by plugging the solution back into the original equation <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>.
+After [[solving_algebraic_equations | solving an equation]], it's a good practice to check the answer by substituting the calculated value back into the original equation <a class="yt-timestamp" data-t="10:40:00">[10:40:00]</a>.
 
-For 2y + 4y = 18, with y = 3:
-*   2(3) + 4(3) = 18 <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>
-*   6 + 12 = 18 <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>
-*   18 = 18 <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>
-
-Since the equality holds true, the solution is correct <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. This systematic approach applies broadly to [[solving linear equations|solving linear equations]] and provides a foundation for [[introduction_to_systems_of_equations|systems of equations]] and other more complex problems like [[word_problems_involving_systems_of_equations|word problems involving systems of equations]].
+For `2y + 4y = 18` with `y = 3`:
+1.  Substitute `y` with `3`:
+    ```
+    2(3) + 4(3) = 18 <a class="yt-timestamp" data-t="10:45:00">[10:45:00]</a>
+    ```
+2.  Perform the multiplications:
+    ```
+    6 + 12 = 18 <a class="yt-timestamp" data-t="10:52:00">[10:52:00]</a>
+    ```
+3.  Perform the addition:
+    ```
+    18 = 18 <a class="yt-timestamp" data-t="10:59:00">[10:59:00]</a>
+    ```
+Since both sides are equal, the solution is correct <a class="yt-timestamp" data-t="11:03:00">[11:03:00]</a>.

@@ -5,50 +5,46 @@ videoId: _7VHfuWV-Qg
 
 From: [[khanacademy]] <br/> 
 
-The Production Possibilities Frontier (PPF) is an economic concept that illustrates the maximum possible output combinations of two goods or services that an economy or individual can achieve when all resources are fully and [[understanding_optimal_production | optimally]] used <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. It shows the [[tradeoffs_in_resource_allocation | tradeoffs]] involved in allocating resources between different productive activities <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
+The production possibilities frontier (PPF) is an economic model that illustrates the various combinations of two goods or services that can be produced when resources are fully and [[efficiency_and_optimality_in_production | efficiently]] utilized, given a fixed amount of resources and technology <a class="yt-timestamp" data-t="06:38:00">[06:38:00]</a>. It demonstrates the concept of [[tradeoffs_and_resource_allocation | tradeoffs]] and [[scarce_resources_and_economic_decision_making | resource allocation]] in production <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
 
 ## Hunter-Gatherer Example
 
-Consider a hunter-gatherer who allocates time between hunting rabbits and gathering berries <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Assuming that rabbits are the only animal to hunt and berries are the only item to gather, various scenarios demonstrate the [[tradeoffs_in_resource_allocation | tradeoffs]] <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+To understand the PPF, consider a hunter-gatherer deciding how to allocate their time between hunting rabbits and gathering berries <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. For simplicity, it's assumed that rabbits are the only animal to hunt and berries are the only item to gather <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
 
-### Scenarios of Production
+### Ceteris Paribus
 
-To understand the PPF, different production scenarios are considered, each representing a specific allocation of the hunter-gatherer's time. In each scenario, it is assumed that all other factors (like total available time, sleep, hunting/gathering techniques, and geography) remain constant, a concept known as [[ceteris_paribus_in_economics | ceteris paribus]] <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a> <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a> <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a> <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a> <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>:
+When analyzing different scenarios, a crucial assumption made is that "everything else is equal" <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. This concept is formally known as *ceteris paribus* <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. It means that variables like sleep time, geography, tools, or technology are held constant, and only the allocation of time between hunting and gathering is changed <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
 
-*   **Scenario A:** Spending all available time hunting allows for 5 rabbits and 0 berries <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a> <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
-*   **Scenario B:** Allocating time for 4 rabbits on average results in 100 berries <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a> <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
-*   **Scenario C:** Focusing on 3 rabbits enables the gathering of 180 berries <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a> <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
-*   **Scenario D:** Reducing hunting to 2 rabbits allows for 240 berries <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a> <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
-*   **Scenario E:** Hunting only 1 rabbit yields 280 berries <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a> <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
-*   **Scenario F:** Devoting all time to gathering results in 300 berries and 0 rabbits <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a> <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
+### Production Scenarios
 
-## Graphing the Production Possibilities Frontier
+Various scenarios illustrate the different possible combinations of rabbits and berries the hunter-gatherer can achieve in a day by reallocating time <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>:
 
-These scenarios can be plotted on a graph with one good (e.g., rabbits) on the vertical axis and the other (e.g., berries) on the horizontal axis <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+*   **Scenario A:** Spending all available time hunting results in 5 rabbits and 0 berries <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+*   **Scenario B:** Allocating some time to berries yields 4 rabbits and 100 berries <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+*   **Scenario C:** Further shifting time to berries results in 3 rabbits and 180 berries <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+*   **Scenario D:** With less time on rabbits, the outcome is 2 rabbits and 240 berries <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+*   **Scenario E:** Focusing more on berries leads to 1 rabbit and 280 berries <a class="yt-timestamp" data-t="00:03:23">[00:03:23]</a>.
+*   **Scenario F:** Spending all available time gathering results in 0 rabbits and 300 berries <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>.
 
-```
-       Rabbits (Y-axis)
-         5 | A
-         4 |   B
-         3 |     C
-         2 |       D
-         1 |         E
-         0 +----------------- Berries (X-axis)
-           0   100 180 240 280 300
-                                 F
-```
-The line connecting these points represents the Production Possibilities Frontier (PPF) <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. This curve illustrates all the possible combinations of rabbits and berries that can be produced given the hunter-gatherer's resources and technology <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+### Plotting the Frontier
 
-## Interpreting the PPF
+These scenarios can be plotted on a graph with the number of rabbits on one axis and the number of berries on the other <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. Connecting these points forms the **production possibilities frontier** <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. This curve represents all the possible combinations of rabbits and berries that can be produced <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/O6grIuqQ5D4/hq720.jpg" alt="Graph showing the Production Possibilities Frontier for rabbits and berries">
+  <figcaption>The Production Possibilities Frontier (PPF) shows various combinations of two goods that can be produced.</figcaption>
+</figure>
+
+## Understanding Points on and Around the PPF
 
 ### Impossible Points
 
-Any point *outside* or to the right of the PPF represents an impossible production combination. For example, getting 5 rabbits and 200 berries is impossible because if all time is spent on rabbits, no berries can be gathered <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a> <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a> <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>.
+Any point *beyond* or *outside* the production possibilities frontier is impossible to achieve with the current resources and technology <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>. For example, simultaneously getting 5 rabbits and 200 berries is impossible, as getting 5 rabbits means spending all time on hunting, leaving no time for berries <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>.
 
 ### Possible but Inefficient Points
 
-Any point *inside* or to the left of the PPF is possible but not [[efficient_versus_inefficient_resource_use | efficient]] <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a> <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>. For instance, obtaining 1 rabbit and 200 berries is possible, but it is not [[understanding_optimal_production | optimal]] <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a> <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. This indicates that resources are not being used to their full potential, and more of one or both goods could be produced without reducing the other <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a> <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>.
+Points *inside* or *below* the production possibilities frontier are possible to achieve <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a>. For instance, getting 1 rabbit and 200 berries is possible <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. However, such points are not [[efficiency_and_optimality_in_production | efficient]] or optimal <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>. If the hunter-gatherer only obtained 1 rabbit and 200 berries, they would not be using their resources optimally, as they could get more berries for the same number of rabbits, or more rabbits for the same number of berries <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. This indicates that resources are not being utilized to their full potential <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>.
 
 ### Efficient Points
 
-All points *on* the PPF are considered [[efficient_versus_inefficient_resource_use | efficient]] <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. At these points, the hunter-gatherer is doing the most they can with their available time and resources, making the most use of their time <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a> <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>. The PPF shows all the possibilities that can be achieved when resources are used optimally <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>.
+All points directly *on* the production possibilities frontier are considered **efficient** <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. At these points, the hunter-gatherer is doing the most they can do with their available time and resources <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>. There is no judgment here about which efficient point is "better" than another; it simply means that resources are being used to their maximum capacity <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>.

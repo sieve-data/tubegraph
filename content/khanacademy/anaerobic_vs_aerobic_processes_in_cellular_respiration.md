@@ -1,0 +1,58 @@
+---
+title: Anaerobic vs aerobic processes in cellular respiration
+videoId: 2f7YwCtHcgk
+---
+
+From: [[khanacademy]] <br/> 
+
+[[overview_of_cellular_respiration | Cellular respiration]] is a fundamental biochemical reaction that allows organisms, including humans, to derive energy from food, specifically from glucose <a class="yt-timestamp" data-t="00:17:17">[00:17:17]</a> <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a>. Most carbohydrates consumed are eventually converted into glucose <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>. This process transforms glucose and oxygen into energy, carbon dioxide, and water <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a> <a class="yt-timestamp" data-t="00:50:00">[00:50:00]</a> <a class="yt-timestamp" data-t="00:58:00">[00:58:00]</a> <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a> <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>. The energy produced is primarily in the form of [[atp_production_through_cellular_respiration | ATP]], the energy currency for biological systems, which is used for various cellular functions like muscle contraction, nerve impulses, growth, and division <a class="yt-timestamp" data-t="02:38:00">[02:38:00]</a> <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a> <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a> <a class="yt-timestamp" data-t="03:33:00">[03:33:00]</a>.
+
+[[overview_of_cellular_respiration | Cellular respiration]] is broken down into several [[stages_of_cellular_respiration | constituent parts]] <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>. These stages are categorized based on their requirement for oxygen, classifying them as either anaerobic (without oxygen) or aerobic (requiring oxygen).
+
+## Anaerobic Process: Glycolysis
+
+The first stage of [[cellular_respiration | cellular respiration]] is [[glycolysis_phases_and_process | glycolysis]] <a class="yt-timestamp" data-t="04:36:00">[04:36:00]</a>.
+*   **Definition and Etymology**
+    *   The term "glycolysis" literally means "breaking up glucose" <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>. "Glyco" refers to glucose, and "lysis" means to break up <a class="yt-timestamp" data-t="04:45:00">[04:45:00]</a> <a class="yt-timestamp" data-t="04:49:00">[04:49:00]</a>. Glucose itself comes from the Greek word for "sweet" and is a sugar (indicated by the "-ose" ending) <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a> <a class="yt-timestamp" data-t="05:16:00">[05:16:00]</a>.
+*   **Process**
+    *   [[glycolysis_and_its_role_in_cellular_respiration | Glycolysis]] breaks a 6-carbon glucose molecule into two 3-carbon molecules called pyruvate <a class="yt-timestamp" data-t="05:48:00">[05:48:00]</a> <a class="yt-timestamp" data-t="06:47:00">[06:47:00]</a> <a class="yt-timestamp" data-t="07:08:00">[07:08:00]</a> <a class="yt-timestamp" data-t="07:10:00">[07:10:00]</a>.
+*   **Oxygen Requirement**
+    *   This stage is **anaerobic**, meaning it does not require oxygen to occur <a class="yt-timestamp" data-t="07:47:00">[07:47:00]</a> <a class="yt-timestamp" data-t="08:31:00">[08:31:00]</a> <a class="yt-timestamp" data-t="08:36:00">[08:36:00]</a> <a class="yt-timestamp" data-t="08:47:00">[08:47:00]</a> <a class="yt-timestamp" data-t="09:02:00">[09:02:00]</a>.
+*   **[[role_of_atp_in_cellular_respiration | ATP Production]]**
+    *   [[glycolysis_and_its_role_in_cellular_respiration | Glycolysis]] consumes two [[role_of_atp_in_cellular_respiration | ATPs]] but generates four [[role_of_atp_in_cellular_respiration | ATPs]], resulting in a net gain of two [[atp_production_through_cellular_respiration | ATPs]] <a class="yt-timestamp" data-t="07:20:00">[07:20:00]</a> <a class="yt-timestamp" data-t="07:26:00">[07:26:00]</a> <a class="yt-timestamp" data-t="07:32:00">[07:32:00]</a> <a class="yt-timestamp" data-t="07:38:00">[07:38:00]</a> <a class="yt-timestamp" data-t="09:24:00">[09:24:00]</a>.
+*   **[[role_of_nad_and_nadh_in_glycolysis | NADH Production]]**
+    *   It also produces [[role_of_nad_and_nadh_in_glycolysis | NADH]] molecules, which are crucial for later stages of aerobic respiration <a class="yt-timestamp" data-t="12:16:00">[12:16:00]</a> <a class="yt-timestamp" data-t="12:20:00">[12:20:00]</a> <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>.
+*   **Fermentation**
+    *   If oxygen is absent or limited, the byproducts of [[glycolysis_and_its_role_in_cellular_respiration | glycolysis]] (pyruvate) cannot enter the aerobic stages <a class="yt-timestamp" data-t="10:35:00">[10:35:00]</a> <a class="yt-timestamp" data-t="10:39:00">[10:39:00]</a>. Instead, they proceed to fermentation <a class="yt-timestamp" data-t="10:48:00">[10:48:00]</a>.
+    *   In humans and other mammals, this results in **lactic acid fermentation**, where lactic acid builds up in muscles during intense activity when oxygen is scarce <a class="yt-timestamp" data-t="11:12:00">[11:12:00]</a> <a class="yt-timestamp" data-t="11:13:00">[11:13:00]</a> <a class="yt-timestamp" data-t="11:17:00">[11:17:00]</a> <a class="yt-timestamp" data-t="11:35:00">[11:35:00]</a>.
+    *   Other organisms, like yeast, perform **alcohol fermentation**, producing alcohol <a class="yt-timestamp" data-t="10:55:00">[10:55:00]</a> <a class="yt-timestamp" data-t="10:58:00">[10:58:00]</a> <a class="yt-timestamp" data-t="11:00:00">[11:00:00]</a> <a class="yt-timestamp" data-t="11:04:00">[11:04:00]</a> <a class="yt-timestamp" data-t="11:23:00">[11:23:00]</a>.
+
+## Aerobic Processes: Krebs Cycle and Electron Transport Chain
+
+When oxygen is present, the pyruvates from [[glycolysis_and_its_role_in_cellular_respiration | glycolysis]] are further processed through two aerobic stages: the Krebs cycle and the electron transport chain <a class="yt-timestamp" data-t="10:45:00">[10:45:00]</a> <a class="yt-timestamp" data-t="11:46:00">[11:46:00]</a>.
+
+### Krebs Cycle (or Citric Acid Cycle)
+*   The pyruvates are re-engineered and enter the Krebs cycle <a class="yt-timestamp" data-t="07:53:00">[07:53:00]</a> <a class="yt-timestamp" data-t="07:56:00">[07:56:00]</a>.
+*   **Oxygen Requirement**
+    *   This cycle is **aerobic**, meaning it requires oxygen to operate <a class="yt-timestamp" data-t="09:38:00">[09:38:00]</a> <a class="yt-timestamp" data-t="09:43:00">[09:43:00]</a> <a class="yt-timestamp" data-t="09:44:00">[09:44:00]</a>.
+*   **[[role_of_atp_in_cellular_respiration | ATP Production]]**
+    *   The Krebs cycle directly generates another two [[atp_production_through_cellular_respiration | ATPs]] <a class="yt-timestamp" data-t="08:05:00">[08:05:00]</a> <a class="yt-timestamp" data-t="08:09:00">[08:09:00]</a> <a class="yt-timestamp" data-t="09:48:00">[09:48:00]</a> <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a> <a class="yt-timestamp" data-t="14:01:00">[14:01:00]</a>.
+*   **[[role_of_nad_and_nadh_in_glycolysis | NADH]] and FADH Production**
+    *   More significantly, it produces a large amount of [[role_of_nad_and_nadh_in_glycolysis | NADH]] and FADH (from FAD), which are vital for the final stage <a class="yt-timestamp" data-t="12:05:00">[12:05:00]</a> <a class="yt-timestamp" data-t="12:16:00">[12:16:00]</a> <a class="yt-timestamp" data-t="12:20:00">[12:20:00]</a> <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a> <a class="yt-timestamp" data-t="12:32:00">[12:32:00]</a> <a class="yt-timestamp" data-t="13:12:00">[13:12:00]</a> <a class="yt-timestamp" data-t="13:13:00">[13:13:00]</a> <a class="yt-timestamp" data-t="14:04:00">[14:04:00]</a> <a class="yt-timestamp" data-t="14:06:00">[14:06:00]</a>.
+
+### Electron Transport Chain (ETC)
+*   The electron transport chain follows the Krebs cycle <a class="yt-timestamp" data-t="09:57:00">[09:57:00]</a> <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>.
+*   **Oxygen Requirement**
+    *   This is an **aerobic** process, strictly requiring oxygen <a class="yt-timestamp" data-t="10:22:00">[10:22:00]</a> <a class="yt-timestamp" data-t="10:23:00">[10:23:00]</a>.
+*   **[[role_of_atp_in_cellular_respiration | ATP Production]]**
+    *   The ETC is responsible for producing the bulk of [[atp_production_through_cellular_respiration | ATP]] <a class="yt-timestamp" data-t="10:11:00">[10:11:00]</a> <a class="yt-timestamp" data-t="10:13:00">[10:13:00]</a>.
+    *   Textbooks often state it produces 34 [[atp_production_through_cellular_respiration | ATPs]] <a class="yt-timestamp" data-t="10:13:00">[10:13:00]</a> <a class="yt-timestamp" data-t="11:51:00">[11:51:00]</a> <a class="yt-timestamp" data-t="14:09:00">[14:09:00]</a>.
+    *   The [[role_of_nad_and_nadh_in_glycolysis | NADH]] and FADH molecules generated in [[glycolysis_and_its_role_in_cellular_respiration | glycolysis]] and the Krebs cycle drive the electron transport chain to produce this large amount of [[atp_production_through_cellular_respiration | ATP]] <a class="yt-timestamp" data-t="12:38:00">[12:38:00]</a> <a class="yt-timestamp" data-t="12:40:00">[12:40:00]</a> <a class="yt-timestamp" data-t="13:00:00">[13:00:00]</a> <a class="yt-timestamp" data-t="13:06:00">[13:06:00]</a> <a class="yt-timestamp" data-t="13:52:00">[13:52:00]</a> <a class="yt-timestamp" data-t="13:54:00">[13:54:00]</a> <a class="yt-timestamp" data-t="14:06:00">[14:06:00]</a>.
+
+## Overall [[impact_of_glycolysis_in_cellular_respiration | ATP Production]]
+
+The ideal total [[atp_production_through_cellular_respiration | ATP]] yield from one mole of glucose through [[cellular_respiration | cellular respiration]] is often cited as 38 [[atp_production_through_cellular_respiration | ATPs]] <a class="yt-timestamp" data-t="03:20:00">[03:20:00]</a> <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a> <a class="yt-timestamp" data-t="04:01:00">[04:01:00]</a> <a class="yt-timestamp" data-t="04:05:00">[04:05:00]</a> <a class="yt-timestamp" data-t="13:31:00">[13:31:00]</a> <a class="yt-timestamp" data-t="13:34:00">[13:34:00]</a>. In reality, the efficiency of a cell's [[cellular_respiration | cellular respiration]] process can lead to a yield of approximately 29 to 30 [[atp_production_through_cellular_respiration | ATPs]] <a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a> <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a> <a class="yt-timestamp" data-t="04:13:00">[04:13:00]</a> <a class="yt-timestamp" data-t="04:17:00">[04:17:00]</a> <a class="yt-timestamp" data-t="13:36:00">[13:36:00]</a>. A significant portion of the energy from [[cellular_respiration | cellular respiration]] is also released as heat, which helps maintain body temperature <a class="yt-timestamp" data-t="03:13:00">[03:13:00]</a> <a class="yt-timestamp" data-t="03:15:00">[03:15:00]</a> <a class="yt-timestamp" data-t="03:42:00">[03:42:00]</a> <a class="yt-timestamp" data-t="03:44:00">[03:44:00]</a> <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a> <a class="yt-timestamp" data-t="13:39:00">[13:39:00]</a>.
+
+<div class="callout note">
+The importance of oxygen is evident in the fact that while some energy (2 [[atp_production_through_cellular_respiration | ATPs]]) can be produced through anaerobic [[glycolysis_and_its_role_in_cellular_respiration | glycolysis]], the vast majority of [[atp_production_through_cellular_respiration | ATP]] is generated only when oxygen is available for the aerobic [[stages_of_cellular_respiration | Krebs cycle]] and [[stages_of_cellular_respiration | electron transport chain]] <a class="yt-timestamp" data-t="10:23:00">[10:23:00]</a> <a class="yt-timestamp" data-t="10:26:00">[10:26:00]</a> <a class="yt-timestamp" data-t="10:30:00">[10:30:00]</a> <a class="yt-timestamp" data-t="10:34:00">[10:34:00]</a>.
+</div>

@@ -5,62 +5,68 @@ videoId: kvGsIo1TmsM
 
 From: [[khanacademy]] <br/> 
 
-At its core, a function is a mathematical concept that takes an input, processes it, and produces a single, specific output based on that input <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This means for any given input, there can only be one possible output <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
+A function is an abstract concept that takes an input, "munches" on it, and produces a given output based on what that input is <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. A key characteristic of a function is that for any given input, it must produce *only one* possible output <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
 
-## Function Notation and Examples
+## [[function_notation_and_usage | Function Notation]] and Examples
 
-Functions are commonly expressed using [[function_notation_and_examples | function notation]], such as `f(x)`. Here, `f` typically represents the name of the function, and `x` is the variable used for the input <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+[[function_notation_and_usage | Function notation]] commonly uses `f` as the name of the function and `x` as the variable for the input <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. However, other letters can be used for both the function name and the input variable <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
 
-### Example 1: Conditional Rule
+### Example 1: Conditional Function
 
-A function can be defined with different rules based on the input. For instance, consider `f(x)` defined as:
-*   `x^2` if `x` is even <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>
-*   `x + 5` if `x` is odd <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>
+A function can be defined with conditions based on the input <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
 
-To [[understanding_inputs_and_outputs_in_functions | understand inputs and outputs in functions]], we can evaluate specific inputs:
-*   **Inputting 2**: To evaluate `f(2)`, we check if 2 is even or odd. Since 2 is even, we apply the `x^2` rule <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
-    *   `f(2) = 2^2 = 4` <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>
-*   **Inputting 3**: To evaluate `f(3)`, we check if 3 is even or odd. Since 3 is odd, we apply the `x+5` rule <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
-    *   `f(3) = 3 + 5 = 8` <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>
+```
+f(x) = x²   if x is even
+f(x) = x + 5 if x is odd
+```
+To evaluate `f(2)`:
+Since 2 is even, `f(2)` is `2²`, which equals 4 <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
 
-### Example 2: Abstract Rule
+To evaluate `f(3)`:
+Since 3 is odd, `f(3)` is `3 + 5`, which equals 8 <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
 
-Functions can be defined with very abstract rules that don't involve traditional arithmetic. For example, a function `h(a)` could be defined as "the next largest number that starts with the same letter as variable `a`" (assuming English numbers) <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
+### Example 2: Non-Mathematical Function
 
-*   **Inputting 2**: "Two" starts with a 'T'. The next largest number starting with 'T' is Three <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
-    *   `h(2) = 3` <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>
-*   **Inputting 8**: "Eight" starts with an 'E'. The next largest number starting with 'E' is Eleven <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
-    *   `h(8) = 11` <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>
+Functions can also perform operations that are not strictly mathematical, demonstrating their general applicability <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
 
-This demonstrates that functions are a very general tool for defining relationships <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
+```
+h(a) = the next largest number that starts with the same letter as variable 'a' (assuming English)
+```
+To evaluate `h(2)`:
+The number "2" starts with 'T'. The next largest number starting with 'T' is "3" <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. So, `h(2) = 3` <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
 
-### Example 3: Traditional Equations as Functions
+To evaluate `h(8)`:
+The number "8" starts with 'E'. The next largest number starting with 'E' is "11" <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. So, `h(8) = 11` <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
 
-Many traditional equations you may have encountered are indeed functions. For example, the equation `y = x + 1` can be viewed as a function where `y` is a function of `x` <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. This can be written as `f(x) = x + 1` <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.
+### Example 3: Common Linear Function
 
-When using [[understanding_inputs_and_outputs_in_functions | understanding inputs and outputs in functions]], the function notation makes it clear that an input (`x`) is processed to produce an output (`y`) <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.
+Functions often represent relationships seen in traditional equations. For instance, `y = x + 1` can be viewed as a function where `y` is a function of `x`, written as `f(x) = x + 1` <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.
 
-| x (Input) | y (Output) | Function Notation |
-| :-------- | :--------- | :---------------- |
-| 0         | 1          | `f(0) = 0 + 1 = 1` <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a> |
-| 2         | 3          | `f(2) = 2 + 1 = 3` <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a> |
+If `x` is 0, `f(0) = 0 + 1 = 1` <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
+If `x` is 2, `f(2) = 2 + 1 = 3` <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>.
+This relationship can be represented in a table:
+| x | y |
+|---|---|
+| 0 | 1 |
+| 2 | 3 |
+<a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>
 
-## What is Not a Function?
+The benefit of [[function_notation_and_usage | function notation]] is to emphasize that the function takes an input, processes it, and produces a single output <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.
 
-The critical aspect of the [[difference_between_functions_and_relations | difference between functions and relations]] is that a function must produce **only one possible output** for any given input <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. If an input can lead to multiple outputs, the relationship is not a function.
+## [[concept_of_a_nonfunction | What is Not a Function?]]
+
+A relationship is [[concept_of_a_nonfunction | not a function]] if a single input can lead to multiple possible outputs <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
 
 ### Example: A Circle
 
-Consider the equation of a circle centered at the origin with radius 2: `x^2 + y^2 = 4` <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>.
+Consider the equation of a circle centered at the origin with radius 2: `x² + y² = 4` <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>.
 
-[[visual_representation_of_functions_and_circles | Visually representing functions and circles]] on a graph, we can see this relationship is not a function <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>.
-*   If we pick an input, for example, `x = 1` <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>:
-    *   `1^2 + y^2 = 4` <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>
-    *   `1 + y^2 = 4` <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>
-    *   `y^2 = 3` <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>
-    *   `y = ±√3` <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>
+Graphically, if you pick an `x`-value (e.g., `x = 1`), there are two corresponding `y`-values on the circle <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
 
-When [[exploring_function_behavior_at_specific_points | exploring function behavior at specific points]], for the input `x = 1`, there are two possible outputs: `√3` and `-√3` <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>. Because a single input (`1`) results in two different outputs (`√3` and `-√3`), this relationship is not considered a function <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>.
+Solving for `y` when `x = 1`:
+`1² + y² = 4` <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>
+`1 + y² = 4` <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>
+`y² = 3` <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>
+`y = ±√3` <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>
 
-> [!SUMMARY] Key Takeaway
-> A function is defined by the strict rule that for every input, there is exactly one unique output <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
+Since an input of `1` yields two outputs (`√3` and `-√3`), this relationship is [[concept_of_a_nonfunction | not a function]] <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. A function can only have one output for a given input <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.

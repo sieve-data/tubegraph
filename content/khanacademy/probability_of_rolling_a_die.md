@@ -5,41 +5,41 @@ videoId: uzkc-qNVoOk
 
 From: [[khanacademy]] <br/> 
 
-Rolling a die is a common experiment used to introduce [[basic_probability_concepts | probability]] <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
-
-## Fair Die
-A fair die is one where each side has an [[equally_likely_possibilities_in_probability | equal chance]] of landing face up <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>, <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. For a standard six-sided die, there are six [[equally_likely_possibilities_in_probability | equally likely possibilities]]: 1, 2, 3, 4, 5, or 6 <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>, <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+[[understanding_probability_concepts | Probability]] offers a way to describe the chances of an event occurring, especially for outcomes that are fundamentally random <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. An "experiment" in probability refers to each instance of a random event, such as flipping a coin or rolling a die <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
 
 ## Calculating Probability
-The [[calculating_probability_of_an_event | probability]] of an event is generally calculated by dividing the number of possibilities that meet specific conditions by the total number of [[equally_likely_possibilities_in_probability | equally likely possibilities]] <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>, <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
 
-$$ P(\text{event}) = \frac{\text{Number of possibilities that meet conditions}}{\text{Total number of equally likely possibilities}} $$
+One common method for [[calculating_probability | calculating probability]], often introduced in textbooks, involves comparing the number of desired outcomes to the total number of equally likely possibilities <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>:
 
-### Examples
+$$P(\text{event}) = \frac{\text{Number of possibilities that meet conditions}}{\text{Number of equally likely possibilities}}$$
 
-#### Probability of Rolling a 1
-To find the [[calculating_probability_of_an_event | probability]] of rolling a 1 on a fair six-sided die:
-*   Total [[equally_likely_possibilities_in_probability | equally likely possibilities]]: 6 (1, 2, 3, 4, 5, 6) <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>.
-*   Number of possibilities that meet the condition (rolling a 1): 1 <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
+Another way to conceptualize [[calculating_probability | probability]] is by considering what percentage of trials would yield the desired outcome if an experiment were performed many, many times (e.g., thousands or millions of times) <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. The more times the experiment is run, the closer the observed results will trend toward the theoretical probability <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>.
 
-$$ P(\text{rolling a 1}) = \frac{1}{6} $$
+## Rolling a Fair Die
 
-#### Probability of Rolling a 1 or a 6
-To find the [[calculating_probability_of_an_event | probability]] of rolling a 1 or a 6:
-*   Total [[equally_likely_possibilities_in_probability | equally likely possibilities]]: 6 <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
-*   Number of possibilities that meet the conditions (rolling a 1 or a 6): 2 <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>, <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+A **fair die** is one where each side has an equal chance of landing face up <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>. For a standard six-sided die, there are six equally likely possibilities when rolled: 1, 2, 3, 4, 5, or 6 <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
 
-$$ P(\text{rolling a 1 or a 6}) = \frac{2}{6} = \frac{1}{3} $$
+### Examples of Probabilities when Rolling a Die
 
-#### Probability of Rolling a 2 and a 3 (on a single roll)
-This scenario asks for two outcomes to occur simultaneously on a single roll.
-*   Getting a 2 and getting a 3 are mutually exclusive events, meaning they cannot happen at the same time <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>, <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>.
-*   Therefore, the [[calculating_probability_of_an_event | probability]] of rolling both a 2 and a 3 on one roll is 0 <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>.
+Using the formula for [[calculating_probabilities_for_specific_outcomes | calculating probabilities for specific outcomes]]:
 
-#### Probability of Rolling an Even Number
-To find the [[calculating_probability_of_an_event | probability]] of rolling an even number:
-*   Total [[equally_likely_possibilities_in_probability | equally likely possibilities]]: 6 <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
-*   Numbers that meet the condition (are even): 2, 4, 6 <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>.
-*   Number of possibilities that meet the conditions: 3 <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>.
+*   **Probability of rolling a 1:**
+    *   Number of equally likely possibilities: 6 (1, 2, 3, 4, 5, 6) <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>.
+    *   Number of possibilities that meet the condition (rolling a 1): 1 <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
+    *   $$P(\text{rolling a 1}) = \frac{1}{6}$$ <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>
 
-$$ P(\text{rolling an even number}) = \frac{3}{6} = \frac{1}{2} $$
+*   **Probability of rolling a 1 or a 6:**
+    *   Number of equally likely possibilities: 6 <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
+    *   Number of possibilities that meet the condition (rolling a 1 or a 6): 2 <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>.
+    *   $$P(\text{rolling a 1 or a 6}) = \frac{2}{6} = \frac{1}{3}$$ <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>
+
+*   **Probability of rolling a 2 and a 3 (on a single roll):**
+    *   It is impossible to roll both a 2 and a 3 on a single roll of a die <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>. These are considered *mutually exclusive events* <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
+    *   Therefore, the probability is 0 <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>.
+    *   $$P(\text{rolling a 2 and a 3}) = \frac{0}{6} = 0$$
+
+*   **Probability of rolling an even number:**
+    *   Number of equally likely possibilities: 6 <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+    *   Even numbers on a die are 2, 4, and 6 <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>.
+    *   Number of possibilities that meet the condition: 3 <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>.
+    *   $$P(\text{rolling an even number}) = \frac{3}{6} = \frac{1}{2}$$ <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>

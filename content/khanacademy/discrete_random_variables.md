@@ -1,27 +1,41 @@
 ---
-title: Discrete Random Variables
+title: Discrete random variables
 videoId: dOr0NKyD31Q
 ---
 
 From: [[khanacademy]] <br/> 
 
-[[Random Variables | Random variables]] can be categorized into two main types: [[discrete_vs_continuous_random_variables | discrete]] and [[continuous_random_variables | continuous]] <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+[[Random variables]] can be categorized into two main types: [[discrete_vs_continuous_random_variables | discrete]] and [[continuous_random_variables | continuous]] <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
 
 ## Definition
-[[discrete_vs_continuous_random_variables | Discrete random variables]] are those that can take on distinct or separate values <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. The term "discrete" here refers to values that are distinct or separate, not to politeness or subtlety <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+[[Discrete random variables | Discrete random variables]] are those that can take on distinct or separate values <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. The term "discrete" in this context refers to values that are distinct or separate, not to the English language meaning of polite or subtle <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
 
-A key characteristic of a [[discrete_vs_continuous_random_variables | discrete random variable]] is that you can count the number of different values it can take on <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. Even if the number of possible values is infinite, as long as they can be literally listed as a first, second, third value (meaning they are countable), then it is a [[discrete_vs_continuous_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>, <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>, <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+### Key Characteristics
+The fundamental characteristic of a [[discrete_vs_continuous_random_variables | discrete random variable]] is that you can count the number of different values it can take on <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. This count can be either finite or infinite <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>. As long as the values are countable, meaning you can conceptually list them (even if the list is infinite), it is considered discrete <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>.
 
-## [[examples_of_discrete_variables | Examples of Discrete Variables]]
+## Examples of Discrete Random Variables
+Below are [[examples_of_random_variables | examples of random variables]] discussed, identifying them as discrete and explaining why:
 
 ### Coin Flip Outcome
-A [[random_variables | random variable]] *X* defined as 1 if a fair coin is heads and 0 if tails <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>, <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a> is a [[discrete_vs_continuous_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>. This is because *X* can only take on two distinct values: 1 or 0 <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>, which are clearly countable <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+Consider a [[random_variables | random variable]] `X` defined as:
+*   `X = 1` if a fair coin lands heads <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
+*   `X = 0` if a fair coin lands tails <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
 
-### Year of Birth
-A [[random_variables | random variable]] *Y* representing the year a random student in a class was born <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a> is a [[discrete_vs_continuous_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>. The year can be a specific, distinct value like 1992, 1985, or 2001 <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. It cannot take on any value between two years, such as between 2000 and 2001; it will be either 2000 or 2001 <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. The possible values are countable <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+This is a [[discrete_vs_continuous_random_variables | discrete random variable]] because it can only take on two distinct values: 0 or 1 <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. The possible values are countable (first value is 0, second value is 1) <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
 
-### Number of Ants Born
-A [[random_variables | random variable]] *Z* representing the number of ants born tomorrow in the universe <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a> is a [[discrete_vs_continuous_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. The number of ants can be 1, 2, 3, or any whole number up to a quadrillion, but it will always be a countable, distinct value <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>.
+### Year of Student's Birth
+If [[random_variables | random variable]] `Y` represents the year a random student in a class was born <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>.
 
-### Rounded Time
-If a [[random_variables | random variable]] *X* is defined as the winning time for the men's 100-meter dash at the 2016 Olympics *rounded to the nearest hundredth* <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>, it becomes a [[discrete_vs_continuous_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>. This is because the values are now specific and countable, such as 9.56 seconds, 9.57 seconds, or 9.58 seconds <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>. This contrasts with an *exact* winning time, which would be a [[continuous_random_variables | continuous random variable]] because it could take on any value within an interval <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>.
+This is a [[discrete_vs_continuous_random_variables | discrete random variable]]. The year can be a specific, discrete value like 1992, 1985, or 2001 <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. It cannot be any value between, for example, 2000 and 2001; it must be one specific year <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. The values are countable <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+
+### Number of Ants Born in the Universe
+Let [[random_variables | random variable]] `Z` be the number of ants born tomorrow in the universe <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+
+This is a [[discrete_vs_continuous_random_variables | discrete random variable]]. The number of ants can be counted: 1, 2, 3, 4, 5 quadrillion, 5 quadrillion and 1, and so on <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. Even though the number could be very large, the values are distinct and countable <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>. This illustrates that [[discrete_vs_continuous_random_variables | discrete random variables]] can have an infinite, but countable, number of possible values <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>.
+
+### Rounded Winning Time of a Race
+Consider a [[random_variables | random variable]] `X` as the winning time for the men's 100-meter dash at the 2016 Olympics, *rounded to the nearest hundredth* <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.
+
+This is a [[discrete_vs_continuous_random_variables | discrete random variable]]. Because the time is rounded to the nearest hundredth, the possible values are distinct and countable, such as 9.56 seconds, 9.57 seconds, or 9.58 seconds <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>. The values can be explicitly listed <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>. If it were the *exact* winning time, it would be a [[continuous_random_variables | continuous random variable]] because it could take on any value within an interval (e.g., 9.571 or 9.572359 seconds) <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>.
+
+For more information, see [[distinction_between_discrete_and_continuous_random_variables | Distinction between Discrete and Continuous Random Variables]].

@@ -1,0 +1,58 @@
+---
+title: Elon Musks ventures into electric vehicles space exploration and internet companies
+videoId: vDwzmJpI4io
+---
+
+From: [[khanacademy]] <br/> 
+
+Elon Musk has ventured into multiple industries, driven by a philosophy centered on identifying areas that could most significantly affect the future of humanity <a class="yt-timestamp" data-t="04:40:07">[04:40:07]</a>. His pursuits span internet services, sustainable energy, and space exploration <a class="yt-timestamp" data-t="04:44:07">[04:44:07]</a>.
+
+## Internet Ventures: Zip2 and PayPal
+
+While in college, Musk considered areas that would most impact humanity's future, including the internet <a class="yt-timestamp" data-t="04:44:07">[04:44:07]</a>. Instead of pursuing a PhD, he decided to participate in the internet's growth <a class="yt-timestamp" data-t="10:17:59">[10:17:59]</a>.
+
+His first internet company, Zip2, launched in 1995 <a class="yt-timestamp" data-t="10:51:52">[10:51:52]</a>. It focused on internet publishing software, maps and directions, and yellow pages <a class="yt-timestamp" data-t="10:32:00">[10:32:00]</a>. Early investors and customers included media companies like The New York Times Company and Knight Ridder <a class="yt-timestamp" data-t="10:44:00">[10:44:00]</a>. At the time, there was no advertising money on the internet, and the idea of online advertising seemed ridiculous to many <a class="yt-timestamp" data-t="11:03:00">[11:03:00]</a>.
+
+PayPal experienced rapid, unexpected growth <a class="yt-timestamp" data-t="11:30:00">[11:30:00]</a>. Within the first month, it gained 100,000 customers <a class="yt-timestamp" data-t="11:43:00">[11:43:00]</a>. To achieve this critical mass, PayPal initially offered incentives: $20 for opening an account and $20 for referrals, which later decreased to $10 and then $5 <a class="yt-timestamp" data-t="11:55:00">[11:55:00]</a>. Approximately $60 to $70 million was spent on these incentives <a class="yt-timestamp" data-t="12:21:00">[12:21:00]</a>. Musk describes the growth as being similar to bacteria in a Petri dish, where one customer generates multiple new customers very quickly <a class="yt-timestamp" data-t="13:09:00">[13:09:00]</a>.
+
+## Space Exploration: [[initial_struggles_and_successes_with_spacex_and_its_impact_on_space_industry | SpaceX]]
+
+After PayPal, Musk sought to understand why humanity hadn't sent people to Mars, as it seemed the "obvious next step" after Apollo <a class="yt-timestamp" data-t="14:37:00">[14:37:00]</a>. He found it disappointing that NASA had no plans for human missions to Mars or even back to the moon <a class="yt-timestamp" data-t="16:25:00">[16:25:00]</a>.
+
+He initially conceived the "Mars Oasis" idea in 2001: sending a small greenhouse with seeds to Mars to cultivate the first life on the planet <a class="yt-timestamp" data-t="17:02:00">[17:02:00]</a>. This project aimed to excite the public and potentially secure a larger budget for NASA, spurring human expansion beyond Earth <a class="yt-timestamp" data-t="17:34:00">[17:34:00]</a>. Musk was prepared to invest half of his PayPal earnings into this venture, with no expectation of financial return <a class="yt-timestamp" data-t="18:04:00">[18:04:00]</a>.
+
+Friends attempted to dissuade him from starting a rocket company, showing him videos of rockets blowing up and highlighting others who had failed <a class="yt-timestamp" data-t="18:37:00">[18:37:00]</a>. However, since Musk's expectation was already to lose the money, their arguments did not deter him <a class="yt-timestamp" data-t="18:55:00">[18:55:00]</a>.
+
+Musk realized that the issue wasn't a lack of public will for space exploration, but rather a perceived lack of a "way" to make it affordable and achievable <a class="yt-timestamp" data-t="21:52:00">[21:52:00]</a>. He determined that the high cost of rockets wasn't inherent in their materials (which constitute about 2% of the cost), but in the inefficient "arrangement of atoms" during manufacturing <a class="yt-timestamp" data-t="23:39:00">[23:39:00]</a>.
+
+He even flew to Russia three times to negotiate the purchase of ICBMs (Intercontinental Ballistic Missiles) in 2001 and 2002, which were priced at about $10 million each <a class="yt-timestamp" data-t="20:01:00">[20:01:00]</a>. This was in contrast to US rockets like the Boeing Delta II, which cost $65 million each <a class="yt-timestamp" data-t="20:42:00">[20:42:00]</a>. After his third trip, he started [[initial_struggles_and_successes_with_spacex_and_its_impact_on_space_industry | SpaceX]] <a class="yt-timestamp" data-t="21:50:00">[21:50:00]</a>.
+
+The first rocket built by SpaceX, the Falcon 1, cost approximately $6 million, compared to $25 million for other rockets in its class <a class="yt-timestamp" data-t="24:54:00">[24:54:00]</a>. The first three Falcon 1 launches failed <a class="yt-timestamp" data-t="14:11:00">[14:11:00]</a>. Compared to rockets from Boeing or Lockheed, a new SpaceX rocket is about a quarter of the price <a class="yt-timestamp" data-t="25:23:00">[25:23:00]</a>.
+
+The ultimate goal for [[initial_struggles_and_successes_with_spacex_and_its_impact_on_space_industry | SpaceX]] is to make rockets reusable, which could make them two orders of magnitude (100 times) cheaper <a class="yt-timestamp" data-t="25:34:00">[25:34:00]</a>. This involves rockets returning and landing at the launch site, then being refueled like an airplane <a class="yt-timestamp" data-t="26:02:00">[26:02:00]</a>. While Falcon 1 stages have not yet been recovered and often explode on reentry, Musk hopes to achieve reusability by the following year <a class="yt-timestamp" data-t="26:15:00">[26:15:00]</a>. The propellant cost for a Falcon 9 rocket is only about $200,000, similar to refueling a 747 <a class="yt-timestamp" data-t="27:53:00">[27:53:00]</a>.
+
+The company's primary objective is to earn enough money by launching commercial, mapping, government, and GPS satellites, and servicing the International Space Station <a class="yt-timestamp" data-t="28:45:00">[28:45:00]</a>. This funding will allow for continued technological improvement to achieve full reusability and eventually transport people to Mars <a class="yt-timestamp" data-t="29:29:00">[29:29:00]</a>. Musk estimates a human landing on Mars could occur in about 12 years <a class="yt-timestamp" data-t="29:51:00">[29:51:00]</a>.
+
+## Electric Vehicles: [[teslas_mission_and_impact_on_the_automotive_industry | Tesla]]
+
+Musk's college studies involved advanced capacitors for electric cars, which he initially thought was the best bet for sustainable energy <a class="yt-timestamp" data-t="06:47:00">[06:47:00]</a>. He pursued research into creating capacitors with energy density exceeding batteries, leveraging advanced chip-making equipment to build ultra-precise capacitors at the molecular level <a class="yt-timestamp" data-t="06:55:00">[06:55:00]</a>.
+
+The goal of [[teslas_mission_and_impact_on_the_automotive_industry | Tesla]] is to accelerate the advent of sustainable transport <a class="yt-timestamp" data-t="30:41:00">[30:41:00]</a>. Musk believes this would happen out of necessity, but without pricing in the environmental effects of CO2 (an "un-priced externality"), normal market forces don't function properly <a class="yt-timestamp" data-t="30:50:00">[30:50:00]</a>. [[teslas_mission_and_impact_on_the_automotive_industry | Tesla]] aims to act as a catalyst to accelerate this shift, perhaps by 10 years <a class="yt-timestamp" data-t="31:06:00">[31:06:00]</a>.
+
+In addition to making its own electric cars, [[teslas_mission_and_impact_on_the_automotive_industry | Tesla]] supplies powertrains to other car companies like Toyota and Mercedes to further accelerate their electric vehicle production <a class="yt-timestamp" data-t="31:35:00">[31:35:00]</a>. [[teslas_mission_and_impact_on_the_automotive_industry | Tesla]]'s Model S has led its segment in sales, outselling luxury competitors <a class="yt-timestamp" data-t="31:53:00">[31:53:00]</a>.
+
+The long-term goal for [[teslas_mission_and_impact_on_the_automotive_industry | Tesla]] is not simply to be a big brand or compete with mass-market cars, but to drive down the price of electric vehicles until a significant portion of all new cars made are electric, possibly half <a class="yt-timestamp" data-t="32:49:00">[32:49:00]</a>. Musk estimates this "victory condition" could be achieved in about 13 or 14 years <a class="yt-timestamp" data-t="33:54:00">[33:54:00]</a>. He notes that new technology adoption follows an S-curve, with initial under-prediction and later over-prediction <a class="yt-timestamp" data-t="34:20:00">[34:20:00]</a>. The pace of improvement in electric energy storage is moving faster than generally perceived <a class="yt-timestamp" data-t="34:51:00">[34:51:00]</a>.
+
+## [[potential_for_future_transportation_innovations_like_the_hyperloop | Potential for Future Transportation Innovations Like the Hyperloop]]
+
+Musk expressed his dismay with the California high-speed rail project, which he described as the world's most expensive and slowest per mile <a class="yt-timestamp" data-t="43:43:00">[43:43:00]</a>. This led him to consider what an ideal transportation system would look like: twice as fast, half the ticket cost, crash-proof, immune to weather, and self-powering (e.g., with solar panels) <a class="yt-timestamp" data-t="44:37:00">[44:37:00]</a>.
+
+He concluded that such a system, involving evacuated tubes (like old bank pneumatic tubes), could work and be practical <a class="yt-timestamp" data-t="45:25:00">[45:25:00]</a>. Musk stated that he would discuss the [[potential_for_future_transportation_innovations_like_the_hyperloop | Hyperloop]] more publicly after [[teslas_mission_and_impact_on_the_automotive_industry | Tesla]] becomes profitable <a class="yt-timestamp" data-t="45:45:00">[45:45:00]</a>. He believes that a new technology should be exciting enough to be a tourist attraction, even if initial economic assumptions don't fully materialize <a class="yt-timestamp" data-t="46:50:00">[46:50:00]</a>.
+
+## Philosophy and Challenges of Entrepreneurship
+
+Musk believes that when embarking on a venture, it's desirable to determine if success is at least one of the possibilities, as failure is always possible <a class="yt-timestamp" data-t="09:02:00">[09:02:00]</a>.
+
+He views starting a company as a difficult and often unpleasant experience, not "fun" <a class="yt-timestamp" data-t="40:11:00">[40:11:00]</a>. As a CEO, one faces a "distillation of all the worst problems" that others cannot solve <a class="yt-timestamp" data-t="40:23:00">[40:23:00]</a>. He likens it to "staring into the abyss and eating glass" <a class="yt-timestamp" data-t="41:01:00">[41:01:00]</a>. The "staring into the abyss" refers to the constant threat of company extermination, given that 90% to 99% of startups fail <a class="yt-timestamp" data-t="41:11:00">[41:11:00]</a>. "Eating glass" refers to having to work on the company's most "pernicious and painful" problems, rather than preferred tasks <a class="yt-timestamp" data-t="41:41:00">[41:41:00]</a>. He emphasizes the need for high pain threshold and compulsion to pursue such ventures <a class="yt-timestamp" data-t="40:51:00">[40:51:00]</a>.
+
+Despite the challenges, Musk maintains that the profit motive is generally a good one when industry rules are properly established <a class="yt-timestamp" data-t="43:33:00">[43:33:00]</a>. Profit simply means that people are paying more for a service or product than it costs to create, indicating added value <a class="yt-timestamp" data-t="42:42:00">[42:42:00]</a>.

@@ -5,75 +5,69 @@ videoId: mvOkMYCygps
 
 From: [[khanacademy]] <br/> 
 
-[[basic_multiplication_concepts | Multiplication]] is a mathematical operation that can be understood as a simplified way of performing [[commutative_property_of_addition | addition]] repeatedly <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. This concept simplifies the process of adding the same number multiple times <a class="yt-timestamp" data-t="01:43:00">[01:43:00]</a>.
+[[basics_of_multiplication | Multiplication]] is fundamentally a simplified way of performing [[understanding_multiplication_using_examples | addition]] repeatedly <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. It allows for efficient counting, especially when dealing with larger quantities <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
 
-## Understanding Multiplication
+## Understanding the Concept
 
-To grasp [[basic_multiplication_concepts | multiplication]], it's helpful to compare it with addition:
+To grasp [[visualizing_multiplication_in_equations | multiplication]], it's helpful to compare it to [[understanding_multiplication_using_examples | addition]].
 
-### Addition Review
-For example, 2 plus 3 (2 + 3) equals 5 <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>. This can be visualized as combining 2 items with 3 items to get a total of 5 items <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>. Alternatively, on a [[number_line_for_addition | number line]], starting at 2 and moving 3 spaces to the right leads to 5 <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>.
+For example, `2 + 3` equals `5` <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. This can be visualized by combining two items with three other items, resulting in a total of five items <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. On a number line, starting at `2` and moving `3` spaces to the right also leads to `5` <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
 
-### Multiplication as Repeated Addition
-Consider the expression 2 times 3 (2 x 3) <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>. This means adding the number 2 to itself three times <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>:
-```
-2 + 2 + 2 = 6
-```
-The "3" in "2 times 3" indicates how many times the number 2 should be added <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>.
+Now, consider `2 times 3` <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. This operation can be interpreted in two ways:
 
-### Commutative Property of Multiplication
-An interesting aspect of multiplication is that the order of the numbers does not change the result <a class="yt-timestamp" data-t="03:48:00">[03:48:00]</a>. This is known as one of the [[properties_of_multiplication | properties of multiplication]] <a class="yt-timestamp" data-t="03:33:00">[03:33:00]</a>. So, 2 times 3 can also be interpreted as adding the number 3 to itself two times <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>:
-```
-3 + 3 = 6
-```
-Both interpretations yield the same answer, 6 <a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a>. In some systems, this is phrased as "four 3's" (4 x 3) or "three 4's" (3 x 4), which can be more intuitive for understanding the repeated addition concept <a class="yt-timestamp" data-t="08:09:00">[08:09:00]</a>.
+1.  **Adding the first number to itself the number of times indicated by the second number**:
+    *   `2 times 3` means `2` added to itself three times <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
+    *   This is written as `2 + 2 + 2` <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+    *   Calculating this: `2 + 2 = 4`, and `4 + 2 = 6` <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
 
-## [[using_multiplication_to_simplify_counting | Using Multiplication to Simplify Counting]]
+2.  **Adding the second number to itself the number of times indicated by the first number**:
+    *   `2 times 3` can also mean `3` added to itself two times <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
+    *   This is written as `3 + 3` <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+    *   Calculating this: `3 + 3 = 6` <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
 
-[[using_multiplication_to_simplify_counting | Multiplication]] is particularly useful for efficiently counting items arranged in a grid or array <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>.
+Notice that both interpretations yield the same answer (`6`) <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. This property, where changing the order of the numbers in [[basics_of_multiplication | multiplication]] does not change the result, is similar to the [[commutative_property_of_addition | commutative property of addition]] and is a key characteristic of multiplication <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>, <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
 
-Consider an arrangement of lemons:
+## Practical Utility: Counting Lemons
+
+[[importance_and_utility_of_multiplication | Multiplication]] is useful for simplifying counting <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>.
+
+Consider a grid of lemons:
 ```
 🍋 🍋 🍋
 🍋 🍋 🍋
 🍋 🍋 🍋
 🍋 🍋 🍋
 ```
-By direct counting, there are 12 lemons <a class="yt-timestamp" data-t="05:34:00">[05:34:00]</a>.
-Using multiplication, we can count the lemons more quickly:
-*   There are 3 lemons in each row <a class="yt-timestamp" data-t="06:06:00">[06:06:00]</a>.
-*   There are 4 rows <a class="yt-timestamp" data-t="06:12:00">[06:12:00]</a>.
-Therefore, the total number of lemons is 4 times 3 (4 x 3) <a class="yt-timestamp" data-t="06:39:00">[06:39:00]</a>.
-As repeated addition:
-```
-3 + 3 + 3 + 3 = 12
-```
-Or, by applying the [[properties_of_multiplication | commutative property]], it can be 3 times 4 (3 x 4):
-```
-4 + 4 + 4 = 12
-```
-While direct counting might seem faster for small numbers, [[using_multiplication_to_simplify_counting | multiplication]] becomes invaluable for larger quantities, such as 100 lemons in 100 rows, where repeated addition would be impractical <a class="yt-timestamp" data-t="09:41:00">[09:41:00]</a>.
 
-## [[multiplication_with_1_and_0 | Special Cases of Multiplication]]
+By direct counting, there are `12` lemons <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
 
-### Multiplying by 1
-When any number is multiplied by 1, the result is that same number <a class="yt-timestamp" data-t="11:03:00">[00:59:00]</a>.
-*   3 times 1 (3 x 1) means "three 1's" <a class="yt-timestamp" data-t="10:33:00">[10:33:00]</a>:
-    ```
-    1 + 1 + 1 = 3
-    ```
-*   Alternatively, it can be seen as "3 one time" <a class="yt-timestamp" data-t="10:49:00">[10:49:00]</a>, which is simply 3.
-Examples:
-*   100 x 1 = 100 <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>
-*   1 x 39 = 39 <a class="yt-timestamp" data-t="11:16:00">[11:16:00]</a>
+Using multiplication, we can count more efficiently:
+*   There are `3` lemons in each row <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+*   There are `4` rows <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
 
-### Multiplying by 0
-Any number multiplied by 0 results in 0 <a class="yt-timestamp" data-t="12:48:00">[12:48:00]</a>.
-*   4 times 0 (4 x 0) means "four 0's" <a class="yt-timestamp" data-t="11:59:00">[11:59:00]</a>:
-    ```
-    0 + 0 + 0 + 0 = 0
-    ```
-*   Or, it can be viewed as "4 zero times" <a class="yt-timestamp" data-t="12:15:00">[12:15:00]</a>, meaning the number 4 appears zero times, resulting in nothing.
-Examples:
-*   5,493,692 x 0 = 0 <a class="yt-timestamp" data-t="12:50:00">[12:50:00]</a>
-*   0 x 17 = 0 <a class="yt-timestamp" data-t="13:07:00">[13:07:00]</a>
+Therefore, the total number of lemons can be found by `4 times 3` <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>.
+This can be expressed as:
+*   `3 + 3 + 3 + 3` (four `3`s) = `12` <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>.
+*   Or, `4 + 4 + 4` (three `4`s) = `12` <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>.
+
+While this example might seem easily counted directly, the power of [[basics_of_multiplication | multiplication]] becomes evident with larger numbers, such as `100` lemons per row and `100` rows, where direct counting would be impractical <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>.
+
+## Special Cases
+
+### Multiplying by One
+
+Multiplying any number by `1` results in the original number <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>.
+For example, `3 times 1`:
+*   Can be interpreted as three `1`s: `1 + 1 + 1 = 3` <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>.
+*   Can also be interpreted as `3` taken one time: `3` <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>.
+
+So, `3 times 1 = 3` <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>. This holds true for any number, e.g., `100 times 1 = 100` <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a> or `1 times 39 = 39` <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+
+### Multiplying by Zero
+
+Multiplying any number by `0` results in `0` <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>.
+For example, `4 times 0`:
+*   Can be interpreted as four `0`s: `0 + 0 + 0 + 0 = 0` <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>.
+*   Can also be interpreted as `4` taken zero times, meaning no `4`s at all, which is `0` <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>.
+
+Thus, a large number like `5,493,692 times 0` also equals `0` <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>.

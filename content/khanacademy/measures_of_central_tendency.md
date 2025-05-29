@@ -1,32 +1,39 @@
 ---
-title: measures of central tendency
-videoId: E4HAYd0QnRc
+title: Measures of central tendency
+videoId: k3aKKasOmIw
 ---
 
 From: [[khanacademy]] <br/> 
+[[Central Tendency | Measures of central tendency]] are single values that attempt to describe a set of data by identifying the central position within that data set <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>, <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>, <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. There is no single "best" way to represent the middle of a data set; different measures serve different purposes <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
 
-[[Central tendency | Central tendency]], or the average of a data set, describes different ways to represent the typical value of a data set <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. It helps understand where the numbers lie in a distribution <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>.
+### [[Mean median and mode | Mean]]
 
-## Arithmetic Mean
+The [[mean_median_and_mode | mean]], often referred to as the [[mean_and_central_tendency | average]] in everyday language, is calculated by summing all the numbers in a set and then dividing by the total count of numbers <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. It is sometimes specifically called the *arithmetic mean* because other methods exist for calculating a mean <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
 
-The [[arithmetic_mean | arithmetic mean]] is a common measure of [[central_tendency | central tendency]] <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>. To calculate the [[arithmetic_mean | mean]], sum all the numbers in the data set and divide by the count of the numbers <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+**Example Calculation:**
+Given the numbers: 23, 29, 20, 32, 23, 21, 33, 25 <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+1.  **Sum the numbers:** 23 + 29 + 20 + 32 + 23 + 21 + 33 + 25 = 206 <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+2.  **Count the numbers:** There are 8 numbers in the set <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+3.  **Divide the sum by the count:** 206 / 8 = 25.75 <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>, <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+    *   The mean is 25.75 <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
 
-### Examples
+### [[Understanding median | Median]]
 
-Consider two data sets:
+The [[understanding_median | median]] is the middle number in a data set <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>, <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. To find the median, the numbers must first be ordered from least to greatest <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
 
-*   **Data Set 1:** -10, 0, 10, 20, 30 <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>
-    *   Sum: -10 + 0 + 10 + 20 + 30 = 50 <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>
-    *   Number of data points: 5 <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>
-    *   [[Arithmetic mean]]: 50 / 5 = 10 <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>
+**Example Calculation:**
+Given the numbers: 23, 29, 20, 32, 23, 21, 33, 25 <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+1.  **Order the numbers from least to greatest:** 20, 21, 23, 23, 25, 29, 32, 33 <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a> to <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
+2.  **Identify the middle number(s):** Since there are 8 numbers (an even count) <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>, there will be two middle numbers <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. In this ordered list, these are 23 and 25 <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+3.  **Calculate the average of the two middle numbers:** (23 + 25) / 2 = 48 / 2 = 24 <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>, <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+    *   Even if the calculated median (e.g., 24) is not present in the original data set, it is still the correct median <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
 
-*   **Data Set 2:** 8, 9, 10, 11, 12 <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>
-    *   Sum: 8 + 9 + 10 + 11 + 12 = 50 <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>, <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>
-    *   Number of data points: 5 <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>
-    *   [[Arithmetic mean]]: 50 / 5 = 10 <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>
+### [[Mean median and mode | Mode]]
 
-Both data sets have the exact same [[arithmetic_mean | arithmetic mean]] of 10 <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>, <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>. However, they are clearly different in how spread out their values are <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. Data Set 2's numbers are very close to 10 (e.g., 12 is only two away from 10), while Data Set 1's numbers are further from 10 (e.g., 0 is 10 away, -10 is 20 away, 30 is 20 away) <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. This highlights the need for [[measures_of_dispersion | measures of dispersion]] in addition to [[central_tendency | central tendency]] <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
+The [[mean_median_and_mode | mode]] is the number that appears most frequently in a data set <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>, <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
 
-### Population vs. Sample Mean
-
-When discussing the [[arithmetic_mean | mean]] in statistics, it's important to understand the difference between a population and a sample <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. If the data set includes the entire population of data, it is referred to as the population mean <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. In situations where only a subset or "sample" of the data is available, methods are used to estimate values for the entire population <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+**Example Calculation:**
+Given the numbers: 23, 29, 20, 32, 23, 21, 33, 25 <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+*   Most numbers appear once.
+*   The number 23 appears twice <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+    *   Therefore, 23 is the mode <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.

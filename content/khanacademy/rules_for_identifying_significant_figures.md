@@ -1,67 +1,67 @@
 ---
-title: Rules for identifying significant figures
+title: rules for identifying significant figures
 videoId: eCJ76hz7jPM
 ---
 
 From: [[khanacademy]] <br/> 
 
-[[understanding_significant_figures | Significant figures]], sometimes called significant digits, are used to ensure that a computation's result does not over-represent the [[measurement_precision | precision]] of the original measurements <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. They indicate which digits truly provide information about how precise a measurement is <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+[[significant_figures | Significant figures]], sometimes called [[examples_of_significant_digits | significant digits]], are used to ensure that when performing computations, the result does not over-represent the [[precision in measurements | precision]] of the initial measurements <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. The general idea is to identify which digits provide information about the [[precision in measurements | precision]] of a measurement <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
 
-## Identifying Significant Figures through Examples
+## Identifying Significant Figures: Examples and Rules
 
-Let's explore several examples to derive the rules for identifying significant figures.
+### 1. Non-Zero Digits and Trailing Zeros After a Decimal
 
-### Example 1: 0.00700
+**Example:** 0.00700 <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>
+*   **Significant Figures:** 7, 0, 0 <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>
+*   **Count:** 3 significant figures <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>
+*   **Reasoning:**
+    *   Leading zeros (e.g., 0.00) are not significant because they define the number's magnitude but not its measurement [[precision in measurements | precision]] <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
+    *   For instance, 0.00700 kilometers is equivalent to 7.00 meters <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. In "7.00 meters," it's clear there are three significant figures <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
+    *   Trailing zeros (the ones after the '7' and after the decimal point) are significant because the person who recorded the measurement explicitly wrote them down to indicate the level of [[precision in measurements | precision]] achieved <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. If they hadn't measured to that precision, they would have omitted these zeros <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>.
 
-In the number 0.00700, the significant figures are 7, 0, and 0 <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>, resulting in three significant figures <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+### 2. Leading Zeros Before Non-Zero Digits
 
-*   **Leading Zeros (before non-zero digits) are NOT significant**: The zeros after the decimal point and before the 7 (0.00) are not counted <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. While they help define the number, they do not indicate the [[measurement_precision | precision]] <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. For instance, 0.00700 kilometers is equivalent to 7.00 meters <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. These leading zeros merely shift the decimal based on the units of measurement <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+**Example:** 0.052 <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>
+*   **Significant Figures:** 5, 2 <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>
+*   **Count:** 2 significant figures <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>
+*   **Rule:** Leading zeros (zeros before the first non-zero digit) are not significant <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+*   **Reasoning:** Similar to the first example, 0.052 kilometers is the same as 52 meters, which clearly has two significant figures <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
 
-*   **Trailing Zeros (after non-zero digits and with a decimal) ARE significant**: The trailing zeros (the two 0s after the 7) are counted <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. If the person writing the number had not measured to that level of [[measurement_precision | precision]], they would have omitted these zeros <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. Their presence indicates that the measurement was taken to that specific degree of [[measurement_precision | precision]] <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
+### 3. Presence of a Decimal Point for Trailing Zeros (Whole Numbers)
 
-### Example 2: 0.052
+**Example:** 370. <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>
+*   **Significant Figures:** 3, 7, 0 <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>
+*   **Count:** 3 significant figures <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>
+*   **Rule:** If a decimal point is explicitly written after a whole number, all trailing zeros are significant <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+*   **Reasoning:** The decimal point indicates that the measurement is exactly 370, not just rounded to the nearest tens place <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
 
-This number has two significant figures: 5 and 2 <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+**Example:** 370.0 <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>
+*   **Significant Figures:** 3, 7, 0, 0 <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>
+*   **Count:** 4 significant figures <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>
+*   **Reasoning:** The trailing zero after the decimal point indicates measurement to the nearest tenth <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>.
 
-*   **Non-zero digits are always significant**: The 5 and 2 are non-zero digits <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
-*   **Leading Zeros are NOT significant**: Similar to the previous example, the leading zero (0.0) is not included <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. 0.052 kilometers is equivalent to 52 meters, which clearly has two significant figures <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+### 4. Zeros Between Non-Zero Digits
 
-### Example 3: 370.
+**Example:** 700.007 <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>
+*   **Significant Figures:** All digits (7, 0, 0, 0, 0, 7) <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>
+*   **Count:** 6 significant figures <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>
+*   **Rule:** Zeros located between non-zero digits are always significant <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
+*   **Reasoning:** These zeros are part of the direct measurement and indicate [[precision in measurements | precision]] down to the thousandths place in this example <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>.
 
-This number has three significant figures <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>.
+### 5. Ambiguous Cases (Whole Numbers Without a Decimal Point)
 
-*   **Explicit Decimal Point Makes Trailing Zeros Significant**: The presence of a decimal point after 370 indicates that the measurement was precisely 370, implying that all three digits are significant <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>. It means the measurement was taken exactly to the ones place, not rounded <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
+**Example:** 37,000 <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>
+*   **Ambiguity:** It's unclear whether this number was measured exactly to 37,000 or only to the nearest thousand <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+*   **Default Rule (if no additional information):** Assume only the non-zero digits are significant.
+*   **Count (default):** 2 significant figures (the 3 and the 7) <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
+*   **How to remove ambiguity:** To clearly indicate that all digits are significant, a decimal point should be added at the end (e.g., 37,000.) <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. This would then indicate five significant figures <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>.
 
-### Example 4: 7.00
+---
 
-This number also has three significant figures <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
+### Summary of Rules for Identifying Significant Figures
 
-*   **Trailing Zeros after a Decimal Point are Significant**: The decimal point and the trailing zeros (00) explicitly show that the measurement was taken to the nearest tenth, making them significant <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
-
-### Example 5: 700.005
-
-This number has six significant digits <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
-
-*   **Zeros between Non-Zero Digits are Significant**: All digits, including the zeros between the 7 and 5, are significant because they are part of the measurement and fall between non-zero digits <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. The measurement extends from the hundreds place (7) down to the thousandths place (5) <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>.
-
-### Example 6: 37,000
-
-This number is ambiguous <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
-
-*   **Ambiguity without a Decimal Point**: It's unclear whether 37,000 was measured precisely to the ones place or only to the nearest thousand <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
-*   **Typical Interpretation (without more info)**: If no further information is provided, it is generally assumed to have two significant figures (the 3 and the 7) <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>.
-*   **Resolving Ambiguity**: To indicate that all five digits are significant (e.g., that it was measured exactly as 37,000), a decimal point should be added: 37,000. <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
-
-## General Rules of Thumb for Identifying Significant Figures
-
-Based on these examples, here are the general rules:
-
-*   **Non-zero digits**: All non-zero digits are significant <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
-*   **Leading zeros**: Zeros that come before the first non-zero digit are not significant <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
-*   **Captive zeros**: Zeros that are between two non-zero digits are significant <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
-*   **Trailing zeros**:
-    *   If a decimal point is present, all trailing zeros (at the end of the number) are significant <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
-    *   If no decimal point is present, trailing zeros are usually considered non-significant unless more information clarifies the measurement's [[measurement_precision | precision]] <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. To explicitly show they are significant, a decimal point should be added <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>.
-
-> [!tip] Purpose
-> The core idea behind significant figures is to accurately represent the [[measurement_precision | precision]] of a measurement, preventing overstatement of how well something was measured <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
+*   All non-zero digits are significant <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+*   Zeros between non-zero digits are significant <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
+*   Leading zeros (before the first non-zero digit) are NOT significant <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
+*   Trailing zeros are significant ONLY if the number contains a decimal point <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+*   For whole numbers ending in zeros without an explicit decimal point, the trailing zeros are generally considered non-significant unless more information is provided, making the number ambiguous <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.

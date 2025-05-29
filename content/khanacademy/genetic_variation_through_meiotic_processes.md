@@ -1,0 +1,29 @@
+---
+title: Genetic variation through meiotic processes
+videoId: ijLc52LmFQg
+---
+
+From: [[khanacademy]] <br/> 
+
+[[overview_of_meiosis | Meiosis]] is a specialized cell division process that occurs in germ cells to produce [[role_of_gametes_in_sexual_reproduction | gametes]] <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. Its primary function is to facilitate [[role_of_meiosis_in_sexual_reproduction | sexual reproduction]] <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>. One of the key outcomes of [[stages_and_process_of_meiosis | meiosis]] is the introduction of [[natural_selection_and_variation | genetic variation]] <a class="yt-timestamp" data-t="11:36:00">[11:36:00]</a>, which is crucial for the adaptability and evolution of a species <a class="yt-timestamp" data-t="14:20:00">[14:20:00]</a>.
+
+[[stages_and_process_of_meiosis | Meiosis]] proceeds through two rounds of division: [[stages_and_process_of_meiosis | Meiosis]] I and [[stages_and_process_of_meiosis | Meiosis]] II <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>. The major mechanisms for generating [[natural_selection_and_variation | genetic variation]] occur during [[stages_and_process_of_meiosis | Meiosis]] I.
+
+## Processes Introducing Variation
+
+### 1. Crossing Over (Genetic Recombination)
+This vital process occurs during Prophase I of [[stages_and_process_of_meiosis | meiosis]] <a class="yt-timestamp" data-t="06:04:00">[06:04:00]</a>.
+*   **Homologous Pairing** During Prophase I, homologous chromosomes (one inherited from each parent) pair up closely <a class="yt-timestamp" data-t="08:50:00">[08:50:00]</a>. Each chromosome at this stage has already replicated during the S phase of [[dna_replication_process | interphase]], consisting of two sister chromatids joined at a centromere <a class="yt-timestamp" data-t="04:29:00">[04:29:00]</a>. This paired structure of four chromatids is sometimes called a tetrad <a class="yt-timestamp" data-t="10:23:00">[10:23:00]</a>.
+*   **Exchange of Genetic Material** While paired, analogous points on these homologous chromosomes can cross over <a class="yt-timestamp" data-t="09:47:00">[09:47:00]</a>. This physical exchange of [[dna_structure_and_its_role_in_heredity | DNA]] segments results in genetic recombination <a class="yt-timestamp" data-t="09:41:00">[09:41:00]</a>.
+*   **Outcome of Crossing Over** The exchange generally occurs at homologous points, meaning that similar genes are exchanged, but often different versions (alleles) of those genes <a class="yt-timestamp" data-t="10:45:00">[10:45:00]</a>. This creates recombinant chromatids that are a mosaic of parental genetic material <a class="yt-timestamp" data-t="11:13:00">[11:13:00]</a>.
+*   **Significance** Crossing over is a surprisingly organized and frequent process, demonstrating its evolutionary favorability for creating [[natural_selection_and_variation | variation]] within a population's gene pool <a class="yt-timestamp" data-t="11:36:00">[11:36:00]</a>. It typically happens in a way that preserves gene integrity, avoiding the creation of "junk genes" <a class="yt-timestamp" data-t="11:49:00">[11:49:00]</a>.
+
+### 2. Independent Assortment of Homologous Chromosomes
+This mechanism for [[natural_selection_and_variation | variation]] occurs during Metaphase I <a class="yt-timestamp" data-t="12:51:00">[12:51:00]</a>.
+*   **Alignment at the Metaphase Plate** In Metaphase I, homologous chromosome pairs align at the metaphase plate (the cell's equator) <a class="yt-timestamp" data-t="15:00:00">[15:00:00]</a>.
+*   **Random Orientation** The orientation of each homologous pair at the metaphase plate is entirely random and independent of other pairs <a class="yt-timestamp" data-t="14:15:00">[14:15:00]</a>. For example, the chromosome inherited from the mother could orient to face one pole of the cell, while the homologous chromosome from the father faces the opposite pole, or vice-versa, for any given pair.
+*   **Separation in Anaphase I** During Anaphase I, the homologous chromosomes separate and move to opposite poles of the cell <a class="yt-timestamp" data-t="15:08:00">[15:08:00]</a>. Because their alignment was random, the combination of maternal and paternal chromosomes that ends up in each daughter cell is also random <a class="yt-timestamp" data-t="18:18:00">[18:18:00]</a>.
+*   **Significance** This random assortment significantly increases the number of possible chromosome combinations in the resulting [[role_of_gametes_in_sexual_reproduction | gametes]], contributing greatly to [[natural_selection_and_variation | genetic diversity]] <a class="yt-timestamp" data-t="14:17:00">[14:17:00]</a>. For humans with 23 pairs of chromosomes, there are 2^23 (over 8 million) possible combinations of chromosomes that can be found in a single [[role_of_gametes_in_sexual_reproduction | gamete]] just from independent assortment.
+
+## Outcome of Meiosis
+By the end of [[stages_and_process_of_meiosis | Meiosis]] I, the original diploid cell divides into two haploid cells <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>, each with half the number of chromosomes but still composed of two sister chromatids <a class="yt-timestamp" data-t="18:09:00">[18:09:00]</a>. [[stages_and_process_of_meiosis | Meiosis]] II then separates these sister chromatids, much like [[differences_between_mitosis_and_meiosis | mitosis]] <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>, resulting in four unique haploid [[role_of_gametes_in_sexual_reproduction | gametes]] <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>. The combination of crossing over and independent assortment ensures that each of these four [[role_of_gametes_in_sexual_reproduction | gametes]] is genetically distinct from each other and from the parent cell, fostering [[natural_selection_and_variation | genetic diversity]] in the offspring <a class="yt-timestamp" data-t="26:56:00">[26:56:00]</a>.

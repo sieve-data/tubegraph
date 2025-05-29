@@ -5,24 +5,30 @@ videoId: IQJ4DBkCnco
 
 From: [[khanacademy]] <br/> 
 
-Meiosis is a cellular process that produces gametes (sex cells) and differs significantly from [[overview_of_mitosis | mitosis]] <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. Unlike mitosis, which is a cycle where cells can continue to divide, meiosis is not a cycle <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. The cells produced by meiosis, known as gametes, are specialized for fertilization <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
+[[overview_of_meiosis | Meiosis]] is a cellular division process that ultimately results in the production of sex cells, or gametes <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. It differs significantly from [[overview_of_mitosis | mitosis]], which is responsible for the growth of most body cells <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
 
-### Starting Point
+## Comparison with Mitosis
 
-The process of meiosis begins with a cell that has a diploid number of chromosomes (2n) <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. For human beings, this means the starting cell contains 46 chromosomes <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. Similar to the preparation for mitosis, the cell undergoes interphase, during which its DNA is replicated <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+To understand [[overview_of_meiosis | meiosis]], it's helpful to first briefly recall [[overview_of_mitosis | mitosis]]:
+*   **[[overview_of_mitosis | Mitosis]]**: Starts with a cell containing a diploid number of chromosomes (2n), such as 46 chromosomes in humans <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. After the process, it yields two cells, each with the same diploid genetic information as the original cell <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. These cells can then undergo the cell cycle again <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
 
-### [[phases_of_meiosis | Meiosis One]]
+## The Process of Meiosis
 
-After DNA replication, the cell proceeds into Meiosis One <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>. In this phase, the cell divides, resulting in two cells, each with a haploid number of chromosomes (n) <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>. This means that for humans, the original 46 chromosomes are distributed such that each new cell receives 23 chromosomes <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. Meiosis One is characterized by the splitting of [[role_of_homologous_pairs_in_meiosis | homologous pairs]] of chromosomes <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>. The distribution of these chromosomes, which originated from either the mother or the father, is random <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
+[[overview_of_meiosis | Meiosis]] is a two-phase process that begins with a diploid cell <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>, which, like in [[overview_of_mitosis | mitosis]], replicates its DNA during interphase <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
 
-### [[phases_of_meiosis | Meiosis Two]]
+### Meiosis One
+The first phase, [[stages_and_process_of_meiosis | Meiosis One]], transforms a diploid cell into two haploid cells <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. For human cells starting with 46 chromosomes, these new cells will each contain 23 chromosomes <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. This reduction occurs because [[stages_and_process_of_meiosis | Meiosis One]] involves splitting the homologous pairs of chromosomes <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>. The distribution of chromosomes from the original paternal and maternal sets into the new cells is random <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
 
-Following Meiosis One, each of the two haploid cells undergoes Meiosis Two <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Meiosis Two is similar to mitosis, but it occurs in cells that already possess a haploid chromosome number <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. This division results in a total of four cells from the original parent cell, each still maintaining a haploid number of chromosomes <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. Crucially, these four resulting cells do not all necessarily contain identical genetic information due to the chromosomal rearrangements in Meiosis One <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+### Meiosis Two
+Following [[stages_and_process_of_meiosis | Meiosis One]], each of the two haploid cells undergoes [[stages_and_process_of_meiosis | Meiosis Two]] <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. This phase is quite similar to [[overview_of_mitosis | mitosis]], but it starts with cells that already have a haploid number of chromosomes <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. The result is four cells, each containing a haploid number of chromosomes <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. These four cells do not necessarily have identical genetic information <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
 
-### End Products and Purpose
+## Purpose and Location
 
-The four haploid cells produced at the end of meiosis are called gametes <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. These cells are also referred to as sex cells <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. Their primary function is in fertilization, which is essential for sexual reproduction <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. For instance, in males, these are sperm cells, and in females, they are egg cells <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. When these gametes fuse during fertilization, they form a fertilized egg (zygote), which then undergoes [[overview_of_mitosis | mitosis]] to develop into a new organism <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>.
+Unlike [[overview_of_mitosis | mitosis]], [[overview_of_meiosis | meiosis]] is not a continuous cycle <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. The four haploid cells produced are [[role_of_gametes_in_sexual_reproduction | gametes]], or sex cells <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
 
-### Location in the Body
+These [[role_of_gametes_in_sexual_reproduction | gametes]] are essential for [[role_of_meiosis_in_sexual_reproduction | sexual reproduction]]:
+*   In males, [[overview_of_meiosis | meiosis]] occurs in the testes to produce sperm cells <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+*   In females, it occurs in the ovaries to produce egg cells <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+*   These [[role_of_gametes_in_sexual_reproduction | gametes]] fuse during fertilization to form a fertilized egg <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>, which can then undergo [[overview_of_mitosis | mitosis]] to develop into a new organism <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>.
 
-Meiosis occurs specifically in germ cells <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. In males, this process takes place in the testes, producing sperm cells <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. In females, meiosis occurs in the ovaries, leading to the formation of egg cells <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. Germ cells themselves are capable of undergoing [[overview_of_mitosis | mitosis]] to produce more diploid germ cells, or they can undergo meiosis to produce haploid gametes <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+[[overview_of_meiosis | Meiosis]] takes place specifically in germ cells <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. Germ cells themselves are diploid and can undergo [[overview_of_mitosis | mitosis]] to produce more germ cells, or they can undergo [[overview_of_meiosis | meiosis]] to produce haploid gametes <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.

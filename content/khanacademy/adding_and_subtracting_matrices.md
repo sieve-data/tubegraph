@@ -5,126 +5,151 @@ videoId: xyAuNHPsq-g
 
 From: [[khanacademy]] <br/> 
 
-A matrix (plural: matrices) is fundamentally a table of numbers <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. It serves as a way of writing down and representing data <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>, such as linear equations, pixels in computer graphics, or points in coordinate space <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. Unlike some mathematical concepts, a matrix is a defined convention rather than a natural phenomenon <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
+Matrices are a fundamental concept in mathematics, often used to represent tables of numbers <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. The word "matrices" is the plural form of "matrix" <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
 
-## [[Matrix notation and terminology | Matrix Notation and Terminology]]
+## What is a Matrix?
+A matrix is simply a table of numbers <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>, such as:
+```
+5  1  2
+3  0 -5
+```
+<a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>
 
-Matrices are typically represented by a capital letter, which is sometimes bolded <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
+Matrices serve as a data representation, a way of writing down data, and can represent various phenomena <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>. In algebra classes, they are often used to represent [[solving_linear_equations_with_addition_and_subtraction | linear equations]] <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
 
-A matrix's "size" or "dimensions" are described by its number of rows and columns <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. For example, a matrix with two rows and three columns is called a "2-by-3 matrix" <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>, <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. This dimension is sometimes written below the matrix's capital letter notation <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+## [[definition_and_notation_of_matrices | Matrix Notation]] and Terminology
+*   **Variable Representation**: A matrix is typically represented by a capital letter, often bolded (e.g., **A** or A) <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+*   **Dimensions (Rows x Columns)**: The size of a matrix is conventionally described as "rows by columns" <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
+    *   For example, a matrix with two rows and three columns is a "2-by-3 matrix" <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+    *   Rows are horizontal entries <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+    *   Columns are vertical entries <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+*   **Referencing Elements**: Individual numbers within a matrix are called elements and can be referenced by their row and column position <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+    *   For a matrix **A**, the element in the second row, second column is denoted as A₂.₂ or a₂.₂ <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
+    *   For instance, in the example matrix `A = [[5, 1, 2], [3, 0, -5]]`, the element in the first row, third column (A₁₃ or a₁₃) is 2 <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
 
-Elements within a matrix can be referenced by their row and column position. For matrix `A`, the element in the second row, second column, for example, could be written as `A(2,2)` or `a(2,2)` <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>, <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+## Adding Matrices
+The addition of two matrices is a human-defined convention based on usefulness for various phenomena <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>.
 
-### Examples of Matrices and Their Dimensions:
-*   **Matrix A (2-by-3):**
-    ```
-    ┌ 5  1  2 ┐
-    └ 3  0 -5 ┘
-    ```
-    In this matrix, `A(2,2)` (second row, second column) is `0` <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
-    `A(1,3)` (first row, third column) is `2` <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
-
-*   **Matrix B (5-by-2):**
-    ```
-    ┌   0 -10 ┐
-    │  -5   3 │
-    │  10   7 │
-    │   0   2 │
-    └   0  pi ┘
-    ```
-    This matrix has five rows and two columns <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
-
-### Vectors
-When a matrix has only one row or one column, it's referred to as a vector <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>.
-*   **Row Vector:** A matrix with one row and multiple columns (e.g., `[-3 2]`) <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>.
-*   **Column Vector:** A matrix with multiple rows and one column (e.g., `[9; 7]`) <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>.
-
-## [[Adding negative numbers | Adding]] Matrices
-
-To add two matrices, you add their corresponding elements <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>. This means the element in the first row, first column of the first matrix is added to the element in the first row, first column of the second matrix, and so on <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>.
-
-### Requirement for Addition
-For matrix addition to be possible, both matrices **must have the same dimensions** (same number of rows and same number of columns) <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>, <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>. You cannot add a 1-by-2 matrix to a 2-by-1 matrix because they don't have corresponding elements <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>.
+To add two matrices, you add their corresponding elements <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
 
 ### Example of Matrix Addition
-Let's consider two matrices:
-*   Matrix A:
+Given two matrices:
+```
+A = [ 3 -1 ]
+    [ 2  0 ]
+```
+<a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>
+```
+B = [ -7  2 ]
+    [  3  5 ]
+```
+<a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>
+
+**A + B** is calculated by adding each element at the same position:
+```
+A + B = [ (3 + -7)  (-1 + 2) ]
+        [ (2 + 3)   (0 + 5)  ]
+```
+<a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>
+```
+A + B = [ -4  1 ]
+        [  5  5 ]
+```
+<a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>
+
+This definition implies that matrix addition is commutative, meaning **A + B** yields the same result as **B + A** <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>.
+
+### Requirements for Matrix Addition
+For two matrices to be added, they **must** have the same size (same number of rows and same number of columns) <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
+
+*   **Valid Addition Example**:
+    A 3x3 matrix can be added to another 3x3 matrix <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>.
     ```
-    ┌  3 -1 ┐
-    └  2  0 ┘
+    [ 1  2  3 ]   [ -10  -100  -1000 ]
+    [ 4  5  6 ] + [   1     0      0  ]
+    [ 7  8  9 ]   [   1     0      1  ]
     ```
-    <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>
+    The first element of the sum would be (1 + -10) = -9 <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>.
 
-*   Matrix B:
+*   **Invalid Addition Example**:
+    A 1x2 matrix cannot be added to a 2x1 matrix because they do not have corresponding elements to add up <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>.
     ```
-    ┌ -7  2 ┐
-    └  3  5 ┘
+    [ -3  2 ]  cannot be added to  [ 9 ]
+                                   [ 7 ]
     ```
-    <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>
+    <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>
 
-To find A + B:
-```
-A + B = ┌  3 + (-7)   -1 + 2 ┐
-        └  2 + 3       0 + 5 ┘
-```
-<a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>, <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>, <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>, <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>
+## [[scalar_multiplication_of_matrices | Scalar Multiplication]]
+When multiplying a scalar (a single number) by a matrix, you multiply that number by every single element of the matrix <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>.
 
-Performing the [[adding_and_subtracting_negative_numbers | arithmetic]]:
+### Example of Scalar Multiplication
+Given matrix B:
 ```
-A + B = ┌ -4  1 ┐
-        └  5  5 ┘
+B = [ -7  2 ]
+    [  3  5 ]
 ```
-<a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>, <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>, <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>
+<a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>
 
-It's important to note that, by this definition, matrix addition is commutative; A + B will yield the same result as B + A <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>, <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>.
-
-## [[Subtracting negative numbers | Subtracting]] Matrices
-
-Matrix subtraction is similar to addition; you subtract the corresponding elements <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>, <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
-
-### Scalar Multiplication
-Before proceeding with subtraction, it's useful to understand **scalar multiplication**. When you multiply a matrix by a scalar (a single number), you multiply every element within the matrix by that scalar <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>, <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>.
-
-For instance, if `B` is:
+Then -1 times B (**-1B**) is:
 ```
-B = ┌ -7  2 ┐
-    └  3  5 ┘
+-1 * B = [ (-1 * -7)  (-1 * 2) ]
+         [ (-1 * 3)   (-1 * 5) ]
 ```
-Then `-1 * B` would be:
+<a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>
 ```
--1 * B = ┌ -1 * (-7)   -1 * 2 ┐
-         └ -1 * 3       -1 * 5 ┘
-         = ┌  7  -2 ┐
-           └ -3  -5 ┘
+-1 * B = [  7  -2 ]
+         [ -3  -5 ]
 ```
-<a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>, <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>
+<a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>
+
+## Subtracting Matrices
+Matrix subtraction is similar to addition, defined as adding the negative of the second matrix, or simply subtracting corresponding elements <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
 
 ### Example of Matrix Subtraction
-Using Matrix A and Matrix B from the addition example, to find A - B, you can think of it as A + (-1 * B) <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>:
-
+Using the same matrices A and B from the addition example:
 ```
-A - B = A + (-1 * B)
-      = ┌  3 -1 ┐ + ┌  7 -2 ┐
-        └  2  0 ┘   └ -3 -5 ┘
+A = [ 3 -1 ]
+    [ 2  0 ]
+```
+```
+B = [ -7  2 ]
+    [  3  5 ]
+```
+
+**A - B** can be expressed as **A + (-1)B** <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>.
+Using the result of **-1B**:
+```
+A - B = [  3 -1 ] + [  7  -2 ]
+        [  2  0 ]   [ -3  -5 ]
 ```
 <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>
 
-Performing the [[adding_and_subtracting_negative_numbers | element-wise addition]]:
+Adding corresponding elements:
 ```
-A - B = ┌  3 + 7      -1 + (-2) ┐
-        └  2 + (-3)    0 + (-5) ┘
-      = ┌ 10  -3 ┐
-        └ -1  -5 ┘
+A - B = [ (3 + 7)    (-1 + -2) ]
+        [ (2 + -3)   (0 + -5)  ]
 ```
-<a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>, <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>, <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>, <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>
+<a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>
+```
+A - B = [  10  -3 ]
+        [  -1  -5 ]
+```
+<a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>
 
-Alternatively, you could directly subtract the corresponding elements:
+Alternatively, one could directly subtract corresponding elements:
 ```
-A - B = ┌  3 - (-7)   -1 - 2 ┐
-        └  2 - 3       0 - 5 ┘
-      = ┌ 10  -3 ┐
-        └ -1  -5 ┘
+A - B = [ (3 - -7)  (-1 - 2) ]
+        [ (2 - 3)   (0 - 5)  ]
 ```
-This yields the same result <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
+```
+A - B = [  10  -3 ]
+        [  -1  -5 ]
+```
+<a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>
 
-As with addition, matrices must have the same dimensions to be subtracted <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>.
+Like addition, matrices must be the same size to be subtracted <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
+
+## Vectors
+When a matrix has one of its dimensions equal to one (i.e., one row or one column), it is considered a vector <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
+*   **Row Vector**: A matrix with one row and multiple columns (e.g., `[ -3 2 ]`) <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>.
+*   **Column Vector**: A matrix with multiple rows and one column (e.g., `[ 9; 7 ]`) <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>.

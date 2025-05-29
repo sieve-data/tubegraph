@@ -1,46 +1,31 @@
 ---
 title: Random variables overview
-videoId: Fvi9A_tEmXQ
+videoId: dOr0NKyD31Q
 ---
 
 From: [[khanacademy]] <br/> 
 
-This article provides an overview of [[concept_of_random_variables | random variables]], focusing on the distinctions between discrete and [[discrete_vs_continuous_random_variables | continuous random variables]] and how [[introduction_to_probability | probability]] is calculated for each type.
+[[random_variables | Random variables]] are broadly categorized into two main types: [[discrete_random_variables | discrete random variables]] and [[continuous_random_variables | continuous random variables]] <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
 
-## What is a Random Variable?
+## [[discrete_random_variables | Discrete Random Variables]]
+[[discrete_random_variables | Discrete random variables]] are those that can take on distinct or separate values <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. This means the values can be counted or listed, even if the list is infinitely long <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. The term "discrete" in this context refers to "distinct or separate values," not to meanings like "polite" or "subtle" <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
 
-A [[concept_of_random_variables | random variable]] is a variable whose possible values are numerical outcomes of a random phenomenon <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. [[concept_of_random_variables | Random variables]] are typically represented by capital letters, such as Y <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+### [[examples_of_discrete_and_continuous_random_variables | Examples of Discrete Random Variables]]
 
-## Types of Random Variables
+*   **Coin Flip Outcome:** A [[random_variables | random variable]] *X* defined as 1 if a fair coin is heads and 0 if it's tails is a [[discrete_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. It can only take on two distinct values (0 or 1), which are countable <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+*   **Year of Birth:** The year a [[random_variables | random]] student in a class was born is a [[discrete_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>. It can be specific years like 1992, 1985, or 2001, but not values in between <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. These are countable values <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+*   **Number of Ants Born:** The number of ants born tomorrow in the universe is a [[discrete_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. While potentially very large, it represents whole, countable values (e.g., 1, 2, 3, or 5 quadrillion) <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>.
+*   **Rounded Olympic Sprint Time:** The winning time for the men's 100-meter dash at the Olympics, *rounded to the nearest hundredth* of a second, is a [[discrete_random_variables | discrete random variable]] <a class="yt-timestamp" data-t="00:10:58">[00:10:58]</a>. Although the *exact* time is [[continuous_random_variables | continuous]], rounding makes the possible values countable (e.g., 9.56, 9.57, 9.58 seconds) <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>.
 
-There are two main types of [[concept_of_random_variables | random variables]]:
+## [[continuous_random_variables | Continuous Random Variables]]
+[[continuous_random_variables | Continuous random variables]] are those that can take on any value within a given range or interval <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. This range could even be infinite <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. For [[continuous_random_variables | continuous random variables]], it is impossible to list or count all possible values, as there are an infinite number of possibilities between any two given values <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
 
-### Discrete Random Variables
-[[discrete_vs_continuous_random_variables | Discrete random variables]] take on a finite number of values <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. While they often tend to be integers, they don't always have to be <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. A [[discrete_vs_continuous_random_variables | discrete random variable]] cannot have an infinite number of values <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+### [[examples_of_discrete_and_continuous_random_variables | Examples of Continuous Random Variables]]
 
-For a [[discrete_vs_continuous_random_variables | discrete random variable]], the sum of all possible probabilities must equal 1 <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>. For [[examples_of_random_variables | example]], in a coin flip where X = 1 for heads and X = 0 for tails, if the probability of heads is 0.6, the probability of tails must be 0.4, as their sum is 1 <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. It makes no sense to have probabilities that sum to more than 100% for all possible [[events_and_outcomes_in_probability | outcomes]] <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
+*   **Exact Mass of an Animal:** The exact mass of a [[random_variables | random]] animal selected at a zoo is a [[continuous_random_variables | continuous random variable]] <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. An animal's mass can take on any value within a possible range (e.g., from near 0 kg for an ant to thousands of kilograms for an elephant), and can be measured with infinite precision, such as 123.75921 kilograms <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
+*   **Exact Olympic Sprint Time:** The exact winning time for the men's 100-meter dash at the 2016 Olympics is a [[continuous_random_variables | continuous random variable]] <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. While clocks round to the nearest hundredth, the true exact time can be any value in an interval (e.g., 9.571 or 9.572359 seconds), meaning it cannot be fully listed or counted <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>.
 
-### Continuous Random Variables
-[[discrete_vs_continuous_random_variables | Continuous random variables]] can take on an infinite number of values <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
-
-#### [[examples_of_random_variables | Example]]: Amount of Rain
-Consider a [[concept_of_random_variables | random variable]] Y representing the exact amount of rain tomorrow <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. The amount of rain could be 0 inches, 1 inch, 2 inches, 3 inches, 4 inches, or any value in between <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
-
-A probability distribution for a [[discrete_vs_continuous_random_variables | continuous random variable]] is called its **probability density function** <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. The x-axis represents the amount of rain, and the y-axis represents some height of the function <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
-
-#### Probability of an Exact Value
-For a [[discrete_vs_continuous_random_variables | continuous random variable]], the [[introduction_to_probability | probability]] of it equaling an *exact* value is essentially zero <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
-
-For [[examples_of_random_variables | example]], the [[introduction_to_probability | probability]] that exactly 2 inches of rain falls (not 2.01, not 1.99, but *exactly* 2 inches) is 0 <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>. This is because a continuous variable can take on an infinite number of values within any interval, no matter how small <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. It's like asking for the area of a single line, which has no width and therefore no area <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>.
-
-> "The odds of actually anything being exactly a certain measurement to the exact infinite decimal point is actually 0." <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>
-
-#### Probability of an Interval (Area Under the Curve)
-To find the [[introduction_to_probability | probability]] for a [[discrete_vs_continuous_random_variables | continuous random variable]], you need to consider an *interval* of values <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>. For [[examples_of_random_variables | example]], what is the [[introduction_to_probability | probability]] that the amount of rain Y is between 1.9 and 2.1 inches? <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>
-
-This [[introduction_to_probability | probability]] corresponds to the **area under the curve** of the probability density function between those two points <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. In calculus terms, this area is found by taking the **definite integral** of the probability density function over the specified interval <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>.
-
-For a function `f(x)` representing the probability density, the [[introduction_to_probability | probability]] that `Y` is between `a` and `b` is:
-`P(a <= Y <= b) = ∫[from a to b] f(x) dx` <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>.
-
-The total area under the entire probability density function (from 0 to infinity for rain) must equal 1 (or 100%) <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. This means the integral of `f(x)` from 0 to infinity must be equal to 1 <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>. This concept also applies to [[discrete_vs_continuous_random_variables | discrete probability distributions]], where the sum of all probabilities must equal 1 <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>.
+## [[differences_between_random_and_traditional_variables | Distinguishing Between Discrete and Continuous Random Variables]]
+The core [[differences_between_random_and_traditional_variables | difference]] lies in whether the possible values of the [[random_variables | random variable]] can be counted or not <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>:
+*   **[[discrete_random_variables | Discrete random variables]]**: Values are countable and can be listed <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
+*   **[[continuous_random_variables | Continuous random variables]]**: Values are uncountable; there are an infinite number of possible values within any interval <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.

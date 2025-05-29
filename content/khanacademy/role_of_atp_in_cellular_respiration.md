@@ -1,0 +1,51 @@
+---
+title: Role of ATP in cellular respiration
+videoId: 2f7YwCtHcgk
+---
+
+From: [[khanacademy]] <br/> 
+
+[[overview_of_cellular_respiration | Cellular respiration]] is considered a fundamental biochemical reaction, crucial for living organisms to derive [[atp_production_through_cellular_respiration | energy]] from consumed fuel, primarily glucose <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>, <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. Most carbohydrates consumed by organisms are ultimately converted into glucose <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. The primary goal of [[overview_of_cellular_respiration | cellular respiration]] is to transform glucose into usable [[atp_production_through_cellular_respiration | energy]], which is largely captured in the form of ATP <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>, <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>, <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+
+## ATP as the Energy Currency
+
+[[atp_production_through_cellular_respiration | ATP]] (adenosine triphosphate) is recognized as the main [[atp_production_through_cellular_respiration | energy]] currency for biological systems <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. While [[overview_of_cellular_respiration | cellular respiration]] directly produces [[atp_production_through_cellular_respiration | energy]], this [[atp_production_through_cellular_respiration | energy]] is subsequently used to synthesize ATP <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>, <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+
+The [[atp_production_through_cellular_respiration | energy]] derived from [[overview_of_cellular_respiration | cellular respiration]] and stored in [[atp_production_through_cellular_respiration | ATP]] is essential for various physiological functions, including:
+*   Performing useful work <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>
+*   Heating the body <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>
+*   Providing electrical impulses in the brain <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>
+*   Muscle contraction <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>
+*   Generating nerve impulses <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>
+*   Cell growth and division <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>
+
+### Overall ATP Yield
+
+Under ideal circumstances, [[overview_of_cellular_respiration | cellular respiration]] can theoretically produce approximately 38 molecules of [[atp_production_through_cellular_respiration | ATP]] from one mole of glucose <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>, <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>, <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. However, in reality, the efficiency of the cell means that a more typical yield is around 29 to 30 [[atp_production_through_cellular_respiration | ATP]]s due to variations <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>, <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. Heat is also generated as a byproduct during this process, which is beneficial for maintaining optimal cell temperature <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>, <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>, <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+
+## ATP Production Across Stages of Cellular Respiration
+
+[[overview_of_cellular_respiration | Cellular respiration]] is broken down into multiple [[stages_of_cellular_respiration | stages]]:
+
+### Glycolysis
+[[glycolysis_and_its_role_in_cellular_respiration | Glycolysis]], the first stage, involves the literal "breaking up" of a 6-carbon glucose molecule into two 3-carbon pyruvate molecules <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>, <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>, <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>, <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>, <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>, <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>.
+*   **[[role_of_atp_in_glycolysis | ATP Production in Glycolysis]]**: This stage requires an initial investment of two [[atp_production_through_cellular_respiration | ATP]]s <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>. It then generates four [[atp_production_through_cellular_respiration | ATP]]s, resulting in a net gain of two [[atp_production_through_cellular_respiration | ATP]]s <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>, <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>, <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>, <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+*   **Oxygen Requirement**: [[glycolysis_and_its_role_in_cellular_respiration | Glycolysis]] is an [[anaerobic_vs_aerobic_processes_in_cellular_respiration | anaerobic]] process, meaning it does not require oxygen to occur <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>, <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>, <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>, <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>, <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>.
+
+### Krebs Cycle
+After [[glycolysis_and_its_role_in_cellular_respiration | glycolysis]], the byproducts are modified and enter the Krebs cycle <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>, <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
+*   **[[atp_production_through_cellular_respiration | ATP Production]]**: The Krebs cycle directly produces another two [[atp_production_through_cellular_respiration | ATP]]s <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>, <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>, <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a>.
+*   **Oxygen Requirement**: This is an aerobic process, meaning it requires oxygen to proceed <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>, <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
+
+### Electron Transport Chain
+This stage is considered to occur after [[glycolysis_and_its_role_in_cellular_respiration | glycolysis]] and the Krebs cycle, and it heavily relies on oxygen <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>, <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>, <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>, <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+*   **[[atp_production_through_cellular_respiration | ATP Production]]**: The electron transport chain is responsible for producing the majority of [[atp_production_through_cellular_respiration | ATP]], yielding approximately 34 [[atp_production_through_cellular_respiration | ATP]]s <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>, <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>, <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>.
+*   **Oxygen Requirement**: This is an aerobic process that absolutely requires oxygen <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>, <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>.
+
+### Role of NADH and FADH in ATP Production
+While [[glycolysis_and_its_role_in_cellular_respiration | glycolysis]] and the Krebs cycle directly produce a small amount of [[atp_production_through_cellular_respiration | ATP]], their crucial role is also in generating other molecules like [[role_of_nad_and_nadh_in_glycolysis | NADH]] and FADH <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>, <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>, <a class="yt-timestamp" data-t="00:12:08">[00:12:08]</a>. These molecules then drive the electron transport chain, where the bulk of [[atp_production_through_cellular_respiration | ATP]] is produced <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>, <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>, <a class="yt-timestamp" data-t="00:14:06">[00:14:06]</a>. For example, 10 [[role_of_nad_and_nadh_in_glycolysis | NADH]] molecules are typically produced from one molecule of glucose, each ideally yielding three [[atp_production_through_cellular_respiration | ATP]]s in the electron transport chain <a class="yt-timestamp" data-t="00:12:32">[00:12:32]</a>, <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>, <a class="yt-timestamp" data-t="00:12:56">[00:12:56]</a>, <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>, <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>.
+
+### Fermentation (Anaerobic Conditions)
+If oxygen is not available, the byproducts of [[glycolysis_and_its_role_in_cellular_respiration | glycolysis]] cannot enter the Krebs cycle or electron transport chain <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>, <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>, <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>. Instead, they undergo fermentation <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>.
+*   Some organisms, like yeast, perform alcohol fermentation, producing alcohol <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>, <a class="yt-timestamp" data-t="00:10:58">[00:10:58]</a>, <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>, <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>, <a class="yt-timestamp" data-t="00:11:23">[00:11:23]</a>.
+*   Humans and other mammals perform lactic acid fermentation, leading to lactic acid buildup that can cause muscle aches <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>, <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>, <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>, <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>, <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>, <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>. While fermentation provides some [[atp_production_through_cellular_respiration | energy]], it is significantly less than what can be produced with oxygen <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>, <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a>.

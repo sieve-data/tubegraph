@@ -5,39 +5,43 @@ videoId: PEMkfgrifDw
 
 From: [[khanacademy]] <br/> 
 
-In a market, the **equilibrium price** and **equilibrium quantity** represent the point where the amount of a good or service supplied perfectly matches the amount demanded <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. This concept is fundamental to understanding [[market_dynamics_and_adjustments | market dynamics]].
+This article explores the concepts of equilibrium price and quantity within a market, using the example of apples, and demonstrates how market forces naturally lead to this equilibrium state.
 
-## Understanding Demand and Supply
+## Market Setup: The Apple Market
+In an apple market, economists analyze both [[demand vs quantity demanded | demand]] and supply for apples at different prices <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. A graph is typically used, where the vertical axis represents the price per pound, and the horizontal axis represents the quantity of apples in thousands of pounds for a set period, such as a week <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
 
-To illustrate, consider the market for apples <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Market analysis typically involves a graph where the vertical axis represents the price per pound, and the horizontal axis represents the quantity of apples in thousands of pounds for a given period, such as a week <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+## [[Supply and demand curves | Demand Curve]]
+The [[Supply and demand curves | demand curve]] illustrates the relationship between price and the quantity consumers are willing to buy <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+If the price of apples were very high (e.g., $5 a pound), consumers would not [[demand vs quantity demanded | demand]] much, resulting in a low [[demand vs quantity demanded | quantity demanded]] (e.g., 500 pounds) <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. Conversely, if the price were low (e.g., $1 a pound), the [[demand vs quantity demanded | quantity demanded]] would be higher (e.g., 4000 pounds) <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. The [[Supply and demand curves | demand curve]] shows this entire relationship <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
 
-### Demand Curve
-The demand curve illustrates the relationship between price and the [[difference_between_quantity_demanded_and_demand | quantity demanded]] <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. According to the [[law_of_demand_in_microeconomics | law of demand]], if the price of apples is very high, consumers will demand less <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. For example, at $5 a pound, the [[difference_between_quantity_demanded_and_demand | quantity demanded]] might be around 500 pounds, whereas at $1 a pound, it could be 4,000 pounds <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. This inverse relationship creates a downward-sloping demand curve <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
+## [[Supply and demand curves | Supply Curve]]
+The [[Supply and demand curves | supply curve]] shows the relationship between price and the quantity producers are willing to sell <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+Below a certain price (e.g., 50 cents), producers may not be willing to supply any apples <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. As the price increases, the quantity producers are willing to supply also increases <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. For instance, at $1 per pound, suppliers might be willing to supply 1000 pounds, and this quantity increases with price <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. This supply curve represents all suppliers in the market <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
 
-### Supply Curve
-The supply curve shows the relationship between price and the quantity suppliers are willing to produce <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. There is often a minimum price below which suppliers are unwilling to produce at all, such as 50 cents for apples <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. As the price increases, suppliers are incentivized to produce more. For instance, at $1 a pound, suppliers might offer 1,000 pounds, with the quantity supplied increasing with higher prices <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. This direct relationship results in an upward-sloping supply curve <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+## Market Scenarios and [[Price adjustments and market dynamics | Price Adjustments]]
 
-## Market Imbalances and Adjustments
+### Scenario 1: Shortage
+If suppliers set the price too low, such as $1 per pound, a [[Market shortages and surpluses | shortage]] will occur <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
+*   At $1 per pound:
+    *   [[Consumer and producer behavior in response to price changes | Quantity supplied]] is 1000 pounds <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
+    *   [[effects of price changes on quantity demanded | Quantity demanded]] is 4000 pounds <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
+*   This creates a [[Market shortages and surpluses | shortage]] of 3000 pounds of apples <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
 
-Markets naturally tend towards equilibrium through [[market_dynamics_and_adjustments | adjustments]] when there is a [[market_shortages_and_surpluses | shortage or surplus]].
+In a [[Market shortages and surpluses | shortage]] situation, consumers will bid up the price of the limited apples <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. As prices rise, producers will be incentivized to increase the [[Consumer and producer behavior in response to price changes | quantity supplied]], moving up along the [[Supply and demand curves | supply curve]] <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>.
 
-### Shortage
-A [[market_shortages_and_surpluses | shortage]] occurs when the [[difference_between_quantity_demanded_and_demand | quantity demanded]] exceeds the quantity supplied at a given price <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
+### Scenario 2: Surplus
+If suppliers set the price too high, such as $3 per pound, a [[Market shortages and surpluses | surplus]] will occur <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
+*   At $3 per pound:
+    *   [[Consumer and producer behavior in response to price changes | Quantity supplied]] is 3000 pounds <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+    *   [[effects of price changes on quantity demanded | Quantity demanded]] is much lower, around 1300 pounds <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>.
+*   This creates a [[Market shortages and surpluses | surplus]] of 1700 pounds of apples <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
 
-*   **Example:** If apple suppliers initially price their apples at $1 per pound, they might supply 1,000 pounds <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. However, at this price, the [[difference_between_quantity_demanded_and_demand | quantity demanded]] is much higher, perhaps 4,000 pounds <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. This creates a [[market_shortages_and_surpluses | shortage]] of 3,000 pounds <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
-*   **Adjustment:** In a shortage, consumers will bid up prices because there aren't enough apples <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. As prices rise, producers are encouraged to supply more, moving up the supply curve <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. Concurrently, the higher prices will cause the [[difference_between_quantity_demanded_and_demand | quantity demanded]] to decrease, moving up the demand curve <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>. This dual movement helps alleviate the shortage <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+In a [[Market shortages and surpluses | surplus]] situation, producers will reduce prices to sell off excess apples before they go bad <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. As prices fall, the [[Consumer and producer behavior in response to price changes | quantity supplied]] will decrease, moving down along the [[Supply and demand curves | supply curve]] <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>.
 
-### Surplus
-A [[market_shortages_and_surpluses | surplus]] occurs when the quantity supplied exceeds the [[difference_between_quantity_demanded_and_demand | quantity demanded]] at a given price <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+## Equilibrium: The Balancing Point
+Both [[Market shortages and surpluses | shortage]] and [[Market shortages and surpluses | surplus]] situations naturally lead the market towards a point where the [[Supply and demand curves | supply]] and [[Supply and demand curves | demand curves]] intersect <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. This intersection represents the **equilibrium price** and **equilibrium quantity**.
 
-*   **Example:** If suppliers, perhaps overestimating demand, set the price at $3 per pound, they might plan to supply 3,000 pounds <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>. At this higher price, the [[difference_between_quantity_demanded_and_demand | quantity demanded]] could be only 1,300 pounds <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. This results in a [[market_shortages_and_surpluses | surplus]] of 1,700 pounds <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
-*   **Adjustment:** With a surplus of unsold apples that may spoil, producers will start reducing prices to attract consumers <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. As prices fall, producers will also reduce the quantity they supply, moving down the supply curve <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. Simultaneously, the lower prices will increase the [[difference_between_quantity_demanded_and_demand | quantity demanded]], moving down the demand curve <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>. This process reduces the surplus <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>.
+*   **Equilibrium Price**: This is the price at which the [[Consumer and producer behavior in response to price changes | quantity supplied]] equals the [[effects of price changes on quantity demanded | quantity demanded]] <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>. In the apple market example, this was approximately $2.15 per pound <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>.
+*   **Equilibrium Quantity**: This is the quantity at which the [[Consumer and producer behavior in response to price changes | quantity supplied]] equals the [[effects of price changes on quantity demanded | quantity demanded]] <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>. For the apple market example, this was around 2200 pounds <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>.
 
-## Defining Equilibrium
-
-Both shortages and surpluses lead to market forces that push the price and quantity towards a central point where the supply and demand curves intersect <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
-
-*   **Equilibrium Price:** This is the price at which the quantity supplied equals the [[difference_between_quantity_demanded_and_demand | quantity demanded]] <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>. In the apple market example, this might be around $2.15 per pound <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>.
-*   **Equilibrium Quantity:** This is the quantity at which the market clears—all apples produced at the equilibrium price are sold, and all consumers who want apples at that price can purchase them <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>. In the example, this quantity might be approximately 2,200 pounds <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>.
-
-At the equilibrium, there are no apples left unsold, and no consumers are unable to find apples at the prevailing price <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. This represents an efficient state for both consumers and producers, assuming no other [[factors_influencing_changes_in_demand_and_quantity_demanded | factors change]] <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>.
+At equilibrium, assuming no other changes, the market is balanced: all apples produced are sold, and none go bad, making it a favorable scenario for both consumers and producers <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>.

@@ -4,59 +4,41 @@ videoId: TUuABq95BBM
 ---
 
 From: [[khanacademy]] <br/> 
+[[introduction_to_chemical_equations | Chemical equations]] describe a reaction, such as aluminum reacting with dioxygen to form aluminum oxide <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. The aluminum oxide molecule contains two aluminum atoms and three oxygen atoms <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
 
-[[balancing_chemical_equations | Balancing chemical equations]] can often seem confusing, but it can be approached methodically <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This process is essential for accurately representing [[chemical_reactions_and_equations | chemical reactions]] <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+### The Purpose of Balancing Chemical Equations
+[[Balancing chemical equations | Balancing chemical equations]] ensures that the same number of each type of atom is present on both sides of the equation <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. This concept is fundamental to the [[conservation_of_mass_in_chemical_reactions | conservation of mass in chemical reactions]], meaning atoms cannot spontaneously appear or disappear <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>, <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
 
-## What is a Chemical Equation?
+Initially, for the reaction of aluminum (Al) and dioxygen (O₂) to form aluminum oxide (Al₂O₃):
+*   On the left (reactants), there is one aluminum atom and two oxygen atoms <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>, <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
+*   On the right (product), there are two aluminum atoms and three oxygen atoms <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>, <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
 
-A [[understanding_the_concept_of_a_chemical_equation | chemical equation]] describes a [[chemical_reactions_and_equations | reaction]] <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. For instance, when an atom of aluminum reacts with a dioxygen molecule (O₂), they form aluminum oxide (Al₂O₃) <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+To balance the aluminum atoms, doubling the aluminum on the left-hand side from one to two makes the aluminum balanced <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>, <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. This results in:
+`2Al + O₂ → Al₂O₃`
 
-### The Need for Balancing
+However, the oxygen atoms remain unbalanced, with two on the left and three on the right <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.
 
-Upon inspection of an initial chemical equation, you might find that the number of atoms of each element is not the same on both sides <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. For example, in the reaction of aluminum with dioxygen to form aluminum oxide:
-*   **Aluminum (Al)**: One atom on the left, two atoms on the right <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>.
-*   **Oxygen (O)**: Two atoms (in O₂) on the left, three atoms (in Al₂O₃) on the right <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>.
+### The Whole Number Convention
+A common approach to balance the oxygen might be to multiply the dioxygen (O₂) by 1.5 to get three oxygen atoms on the left <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>, yielding:
+`2Al + 1.5O₂ → Al₂O₃` <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>
 
-Atoms cannot simply appear or disappear <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>, so the number of atoms of each element must be equal on both sides of the equation <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>. This is the purpose of [[balancing_chemical_equations | balancing the equation]] <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>.
+However, in chemistry, it is conventional not to use fractional or decimal coefficients for molecules <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. The preference is for "whole number molecules" <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
 
-## The Whole Number Convention
+To adhere to this convention, the entire equation (all coefficients) can be multiplied by a number that eliminates any fractions or decimals, similar to [[dealing_with_whole_numbers_in_fraction_calculations | algebraic manipulations]] <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. In this case, multiplying all coefficients by two will convert 1.5 into a whole number <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>, <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
 
-When [[balancing_chemical_equations | balancing chemical equations]], the goal is to use coefficients in front of each molecule to ensure the number of atoms of each element is equal on both sides <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>. However, a convention exists that prohibits the use of fractions or decimals as coefficients.
+Starting with the partially balanced equation:
+`2Al + 1.5O₂ → 1Al₂O₃` (implicitly 1 on the product side <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>)
 
-For example, when attempting to balance the aluminum-dioxygen reaction:
-$$Al + O_2 \rightarrow Al_2O_3$$
-One might initially try to balance aluminum by placing a '2' in front of Al:
-$$2Al + O_2 \rightarrow Al_2O_3$$
-Now, there are two aluminums on both sides <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>. However, there are still two oxygens on the left and three on the right <a class="yt-timestamp" data-t="02:20:00">[02:20:00]</a>. To balance the oxygens, one might multiply O₂ by 1.5:
-$$2Al + 1.5O_2 \rightarrow Al_2O_3$$
-This would result in three oxygen atoms on both sides <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>.
+Multiply all coefficients by 2:
+*   `2Al * 2 = 4Al` <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>
+*   `1.5O₂ * 2 = 3O₂` <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>
+*   `1Al₂O₃ * 2 = 2Al₂O₃` <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>
 
-### Why Fractions Are Not Used
+This yields the fully balanced chemical equation with whole number coefficients:
+`4Al + 3O₂ → 2Al₂O₃` <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>
 
-The convention in chemistry is to avoid writing "1.5 molecules" or any other non-whole number of molecules <a class="yt-timestamp" data-t="02:45:00">[02:45:00]</a>. The idea of a "half molecule" is considered a bizarre notion <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. Therefore, all coefficients in a balanced chemical equation must be whole numbers <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>.
+Verification of atoms:
+*   **Aluminum:** 4 atoms on the left, 4 atoms on the right (2 molecules * 2 atoms/molecule) <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>, <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.
+*   **Oxygen:** 6 atoms on the left (3 molecules * 2 atoms/molecule), 6 atoms on the right (2 molecules * 3 atoms/molecule) <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>, <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>, <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
 
-### Achieving Whole Number Coefficients
-
-To convert coefficients like 1.5 into whole numbers, a technique similar to algebra is used <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>. All coefficients in the equation can be multiplied by the same number to eliminate fractions or decimals <a class="yt-timestamp" data-t="03:04:00">[03:04:00]</a>.
-
-In the example above, to get rid of the 1.5, all coefficients should be multiplied by 2:
-*   Initial balanced equation with a decimal: $2Al + 1.5O_2 \rightarrow 1Al_2O_3$ (Note: implicit '1' for Al₂O₃ <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>).
-*   Multiply all coefficients by 2:
-    *   $2 \times 2 = 4$ for Al <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>
-    *   $1.5 \times 2 = 3$ for O₂ <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>
-    *   $1 \times 2 = 2$ for Al₂O₃ <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>
-
-This results in the final, correctly balanced equation with whole number coefficients:
-$$4Al + 3O_2 \rightarrow 2Al_2O_3$$
-
-### Verification
-
-After applying the whole number convention, it's crucial to verify the balance of atoms:
-*   **Aluminum (Al)**:
-    *   Left side: 4 Al atoms <a class="yt-timestamp" data-t="04:32:00">[04:32:00]</a>
-    *   Right side: 2 molecules of Al₂O₃, each with 2 Al atoms (2 x 2 = 4 Al atoms) <a class="yt-timestamp" data-t="04:37:00">[04:37:00]</a>.
-*   **Oxygen (O)**:
-    *   Left side: 3 molecules of O₂, each with 2 O atoms (3 x 2 = 6 O atoms) <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>.
-    *   Right side: 2 molecules of Al₂O₃, each with 3 O atoms (2 x 3 = 6 O atoms) <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>.
-
-Since all atoms are now balanced with whole number coefficients, the [[understanding_chemical_equations | chemical equation]] is correctly balanced <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>.
+The chemical equation is now balanced according to the whole number convention <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>.
