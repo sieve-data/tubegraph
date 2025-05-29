@@ -1,0 +1,59 @@
+---
+title: Effectiveness of LinkedIn for career growth
+videoId: RvJQCEPwyv4
+---
+
+From: [[alifeafterlayoff]] <br/> 
+
+[[impact_of_linkedin_on_job_market | LinkedIn]] is widely considered the leading platform for networking and job searching globally <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. However, questions arise regarding whether it truly provides the premier experience it's believed to be, or if it is negatively impacting careers <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. The platform generates strong, visceral reactions due to perceptions of fakery among people, jobs, and recruiters <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. Despite its acknowledged flaws and "cringy" aspects, [[impact_of_linkedin_on_job_market | LinkedIn]] holds significant influence over the job market <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. Recruiters and companies extensively utilize it, making its use almost mandatory for those seeking decent white-collar jobs <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+
+## Evolution of Job Searching and Online Platforms
+
+Before the internet's influence in the 1990s, job seekers relied on traditional methods like newspaper classifieds, walk-in applications at company headquarters, word-of-mouth referrals, mailing resumes to headhunters, or physical bulletin boards <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
+
+The shift to online job boards began with:
+*   **Online Career Center (OCC)**: Launched in 1993, it is recognized as the first online job board <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. It initially functioned as a gopher site before transitioning to the World Wide Web, offering a simple database of job listings for early tech-savvy users <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+*   **Monster.com**: Emerging in 1994, Monster.com revolutionized the sector with a more user-friendly interface and wider global reach <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>. It enabled candidates to post resumes and companies to list jobs worldwide <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
+*   **CareerBuilder**: Starting in 1995 as a digital extension of newspaper advertisements, CareerBuilder partnered with print publishers to bring job listings online <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. Newspaper ads remained a primary recruitment method through the mid-1990s and into the 2000s <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
+*   **Hot Jobs**: By the late 1990s, job boards like Hot Jobs (founded 1997) gained momentum, adding features such as resume search for employers, making the process more interactive <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. These platforms digitized job search, reducing the gap between candidates and employers <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>.
+
+## LinkedIn's Impact on Hiring
+
+[[impact_of_linkedin_on_job_market | LinkedIn]] launched in 2003, but its significant impact on hiring truly began after 2008 with the introduction of company pages and job postings <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. Unlike traditional job boards, it integrated professional [[networking_and_building_connections_on_linkedin | networking]] with job search capabilities, fostering a more dynamic environment <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
+
+By 2010, LinkedIn Recruiter became the primary tool for talent acquisition, allowing recruiters to precisely search profiles rather than just database resumes <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. This marked a shift from passive job listings to active talent sourcing <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>. While most job seekers continue to actively apply for jobs, companies predominantly rely on recruiters proactively finding candidates <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. If a candidate is not actively recruited, their chances of securing an interview are minimal <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
+
+The "Easy Apply" feature, introduced in 2011, streamlined applications to a single click, leading to an overwhelming influx of candidates <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. This results in recruiters being buried under an avalanche of applications, many from unqualified or international candidates, making it increasingly difficult for individuals to be seen <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>.
+
+Hiring now heavily emphasizes [[networking_and_building_connections_on_linkedin | networking]] and personal branding <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. [[impact_of_linkedin_on_job_market | LinkedIn]] itself states that 87% of recruiters use the platform to find talent, with the actual percentage likely higher <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. This shift, driven by direct outreach and [[networking_and_building_connections_on_linkedin | networking]], forces job seekers to adapt out of necessity <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>. Many individuals find the concept of marketing themselves to employers through [[networking_and_building_connections_on_linkedin | networking]] and branding distasteful, viewing it as "asskissing" or "corporate bootlicking" <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+
+## [[issues_facing_linkedin_including_fake_content_and_paywalls | Issues Facing LinkedIn]]
+
+[[issues_facing_linkedin_including_fake_content_and_paywalls | LinkedIn's]] algorithms prioritize viral, emotionally charged, generic inspirational stories, humble brags, or one-size-fits-all advice <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>. Thoughtful, nuanced, or critical voices often have their reach throttled, making it hard for genuine professionals to build credibility <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>. This leads to shallow content dominating the feed and many users neglecting [[networking_and_building_connections_on_linkedin | networking]] or branding efforts because they do not wish to engage in this "game" <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
+
+### Monopoly and Paywalls
+
+[[impact_of_linkedin_on_job_market | LinkedIn]] holds a near-monopoly on professional [[networking_and_building_connections_on_linkedin | networking]], making individuals virtually invisible to recruiters and employers if they are not on the platform <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. As its dominance grew, so did its paywalls <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. Features once free, such as viewing profile viewers, sending direct messages, attaching custom messages to connection requests, or unlimited search, are now behind expensive subscriptions <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>. This creates a two-tier system where those who can afford premium access have an advantage, further disadvantaging unemployed or entry-level job seekers <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
+
+### Predatory Practices and Scams
+
+[[issues_facing_linkedin_including_fake_content_and_paywalls | LinkedIn]] has seen an increase in predatory job postings and scam recruiters <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>:
+*   Companies sometimes offer unpaid opportunities disguised as internships or portfolio projects to experienced professionals <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+*   Some companies use "evergreen posts" to collect resumes with no intention of hiring, leaving job seekers feeling used and demoralized <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>.
+*   The platform is rife with fake recruiters pitching fake jobs and spam accounts that try to lure users with interview promises, asking for personal information or payment for fake training or equipment <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>. These traps can be devastating for unemployed job seekers already under pressure <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+
+### Ineffective Networking and Professional "Facebook"
+
+[[networking_and_building_connections_on_linkedin | Networking]] on [[impact_of_linkedin_on_job_market | LinkedIn]] can often feel hollow and ineffective <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>. Many users lack knowledge on how to connect with the right people and communicate effectively to generate actual job opportunities <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. This leads to awkward and frustrating interactions that don't produce tangible results, causing users to dismiss [[networking_and_building_connections_on_linkedin | networking]] and [[impact_of_linkedin_on_job_market | LinkedIn]] as a waste of time <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>. Users are also bombarded with sales pitches immediately upon accepting connection requests, which is often met with immediate disengagement <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
+
+[[issues_facing_linkedin_including_fake_content_and_paywalls | LinkedIn]] has gained a reputation for resembling a "glorified professional Facebook," littered with trolls, virtue signaling, engagement mills, and debates about politics, news, and religion <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. This "noise" distracts from its intended purpose as a professional space for career growth <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>. It can also make users hesitant to engage due to fear of backlash, especially since employers can view their posting history <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>.
+
+## Optimizing the LinkedIn Experience
+
+To combat the annoyances of the [[impact_of_linkedin_on_job_market | LinkedIn]] feed, it's advised to curate it ruthlessly <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>. Users should unfollow accounts that post irrelevant or low-quality content and instead focus on industry-specific groups or thought leaders who add value <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>. The block feature is effective for dealing with toxic trolls <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. Maintaining authentic, professional, and career-focused interactions leads to a more enjoyable feed <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
+
+## Conclusion: A Necessary Tool Despite Flaws
+
+Despite its imperfections and areas for improvement, [[impact_of_linkedin_on_job_market | LinkedIn]] remains a necessity for career-minded individuals <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>. Most major corporations extensively recruit on [[impact_of_linkedin_on_job_market | LinkedIn]], considering it the industry standard for recruiter outreach <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>. While its job board may have issues, it is still one of the best available <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>.
+
+Its true value lies in its [[networking_and_building_connections_on_linkedin | networking]] and branding components, which can be leveraged without needing a premium subscription <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>. [[impact_of_linkedin_on_job_market | LinkedIn]] is considered the best place to find a job if used correctly <a class="yt-timestamp" data-t="00:12:08">[00:12:08]</a>. Many struggle to gain the attention of high-quality companies and get recruiters to reach out <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>. Courses exist to demystify recruiter behavior, explain how to potentially bypass them, and teach effective [[networking_and_building_connections_on_linkedin | networking]] strategies <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>.

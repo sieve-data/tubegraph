@@ -5,53 +5,65 @@ videoId: LYr-VTpWBaw
 
 From: [[alifeafterlayoff]] <br/> 
 
-Everyone is bound to make [[Common interview mistakes|career mistakes]] at some point in their professional life <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This article, based on insights from a corporate recruiter and career coach, highlights six common career [[Common interview mistakes|mistakes]] that people often learn the hard way <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. The speaker himself has made several of these [[Common interview mistakes|mistakes]] and shares these lessons to help others avoid similar pitfalls <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+Everyone is likely to make a career mistake at some point <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Even with advice, people often learn these lessons the hard way <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This article outlines six common career mistakes, often observed in coaching calls, that individuals typically learn through difficult personal experience <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. The insights shared are often drawn from the speaker's own past or the experiences of people they know <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
 
-## 1. Not Realizing a Critical Mistake Until Later
-One of the biggest lessons often learned late in a career is the realization of a critical mistake made earlier, when it might be too late to easily rectify <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+## 1. Not Realizing Critical Mistakes Until It's Too Late
 
-This can manifest as:
-*   Staying in a job for too long or overstaying your welcome <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
-*   Not responding to a recruiter for an amazing job opportunity due to fear or comfort <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
-*   Accepting a job offer that wasn't the right fit <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
-*   Moving to a part of the country that wasn't ideal, or conversely, not moving for a significant career path <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
-*   Focusing too long on a specific job type or career vertical, only to realize it wasn't resonating <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+A significant lesson often learned late in one's career is that a critical mistake was made early on, but its impact wasn't recognized until years later <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
 
-With hindsight, it's easy to wish you could advise your younger self to make a career change <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. Career coaches often pinpoint these moments when individuals feel stuck or unhappy with their progression <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+### Examples of Early Mistakes
+*   **Staying in a job for too long** or overstaying one's welcome <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+*   **Not responding to a recruiter** for an amazing job opportunity due to fear or being too comfortable <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+*   **Accepting a job offer** that wasn't the right fit <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+*   **Making a poor relocation decision**, such as moving to an unsuitable area or not moving to a place that could have opened a new career path <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+*   **Focusing too long on a specific job type or career vertical** only to realize later it wasn't fulfilling, making a change much harder <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
 
-> [!TIP] Anticipate that your future self might have an epiphany and wish you had made a change today, especially if you're contemplating a career change and unsure about the timing <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+### The Benefit of Hindsight
+It's easy to look back with hindsight and wish one could advise their younger self to change careers when it was less difficult <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. These things often aren't obvious at the time <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>. In career coaching, an expert can often pinpoint where an individual's career veered off track when they express unhappiness or feeling stuck <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>. This is particularly relevant if you are considering a career change and are unsure of the timing <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
 
 ## 2. Loyalty Rarely Pays Off
-Blind loyalty to a company or leader often leads to missed opportunities and stalled career progression <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. The speaker shares an experience where he stayed in a role for five years, expecting a promotion that never materialized, while his peers moved into leadership positions <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. This loyalty led to him being left behind in terms of responsibility, level, and compensation in the job market <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
 
-> [!WARNING] Staying too long in one company or role can lead to the market moving beyond you, leaving you behind your peer group in terms of advancement and compensation <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+A tough lesson is that loyalty to a company or leader rarely leads to career advancement <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. One personal example involved staying in a role too long, waiting for a senior leader to retire as promised <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>. This wait extended from 18 months to over 5 years, with the leader showing no intention of leaving <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
 
-## 3. Hard Work Does Not Necessarily Lead to Promotions
-While effort is important, simply putting in long hours does not guarantee promotions <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>. The speaker recounts working 12+ hour days, sometimes weekends, to impress a workaholic boss, only for the company's plan to shut down, leading to a job search without a promotion <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>.
+### Consequences of Excessive Loyalty
+*   **Stagnation**: Staying loyal meant being stuck in a role while the rest of the market and peers progressed into leadership positions <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+*   **Lost Compensation**: This led to being significantly behind the market in terms of compensation <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+*   **Career Derailment**: Excessive loyalty can cause a career to go off track, letting leadership opportunities pass by <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
 
-> [!TIP] Stop working so many long hours. It's not the person who works the most hours that gets promoted, but the person who works the smartest <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+## 3. Hard Work Does Not Automatically Lead to Promotions
 
-Working smart means focusing on projects that your boss and your boss's boss care about, not just tasks you think are impressive <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
+A common misconception is that simply putting in long hours and doing hard work guarantees promotions <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. The speaker's experience showed that excessive effort often resulted in a "dangling carrot" that was continuously moved further away <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. Pressuring oneself to work long hours, especially under a workaholic boss, does not ensure recognition or promotion <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>. In one instance, working 12+ hour days and weekends didn't lead to promotion, and the plan ended up shutting down within a year and a half, necessitating a job search <a class="yt-timestamp" data-t="00:04:52">[00:05:02]</a>.
 
-## 4. Failing to Advocate for Yourself
-Promotions are earned through highly visible projects and, crucially, by letting the right people know about your contributions <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>. Many people make the mistake of not advocating for themselves <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
+### What Leads to Promotions?
+*   **Working Smart**: Promotions are earned by those who work the smartest, not necessarily the hardest <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+*   **Strategic Project Focus**: This means working on projects that your boss and your boss's boss care about <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>. If you're working on tasks they don't value, your efforts may go unnoticed <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>.
+*   **Visibility and Self-Advocacy**: Getting promoted requires working on highly visible projects and, crucially, letting the right people know about your contributions <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>.
+    *   The "right person" is often not your direct boss, but your boss's boss, who makes promotion decisions <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>.
+    *   You must be your own advocate; no one else in the organization will advocate for your promotion <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>.
+*   **Act Like the CEO of Your Career**: This involves wearing multiple hats, including being your own marketing department <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. You need to create campaigns to market your effectiveness within the company, department, and job, as well as on the open market during interviews <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
 
-> [!IMPORTANT] You must be your own advocate <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>. Your direct boss often doesn't make the final promotion decisions; it's usually their boss <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. You need to find ways to be visible to your boss's boss <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+## 4. Not Prioritizing Relevant Skills
 
-Think of yourself as the CEO of your career, which includes being your own marketing department. You need to create campaigns to market your effectiveness within your company, department, and job, as well as on the open market during interviews <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. If you want to move up, you must stop being stubborn about self-promotion <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+While being exceptionally good at a specific task can be an advantage, [[strategies_for_protecting_your_career | relevant skills]] matter more <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. Employers value certain skills until they no longer need them, which can make you irrelevant <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. Similarly, a skill valued at one company might not be valued by others in the industry <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>.
 
-## 5. Over-specializing in Irrelevant Skills
-Being excellent at a specific skill can be an advantage, but relevant skills are paramount <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. Employers value certain skills until they no longer need them <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. If your employer's needs change or you move to a new company or industry, your specialized skills might become irrelevant <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>.
+### The Danger of Irrelevant Skills
+*   You can end up with a resume full of skills that no one cares about anymore <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>.
+*   This can lead to feeling stuck, panicking, and settling for jobs below your potential <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>.
+*   One low-quality job can lead to another, causing serious [[common_resume_mistakes_to_avoid | resume issues]] <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>.
 
-> [!WARNING] You can end up with a [[Common mistakes in resume writing|resume]] full of skills nobody cares about anymore, leading to panic and settling for lower-quality jobs <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>.
+### Solution
+Focus on developing relevant skills that are highly in demand by multiple employers, not just your current one <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
 
-> [!TIP] Focus on developing highly relevant skills that are in demand by *multiple* employers, not just your current one <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
+## 5. Being Only as Good as What You've Done Last (Short-Lived Goodwill)
 
-## 6. Being Valued Only for Your Latest Contributions
-A painful lesson, especially relevant during periods of layoffs, is that "you're only as good as what you've done last" or "what have you done for me lately?" <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. While past achievements and built-up goodwill might buy you a couple of months, if employers don't see you contributing, or don't have future plans for your skills, you could find yourself on an unwanted list <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>.
+A particularly painful lesson, especially relevant during periods of layoffs, is that "you're only as good as what you've done last," or "what have you done for me lately?" <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. Even if you excelled on a major project last year and built up goodwill, this goodwill is typically very short-lived <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>.
 
-> [!WARNING] Goodwill built up is typically short-lived <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. Senior leaders are primarily concerned with what you can produce tomorrow, not just what you produced yesterday <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+### The Reality of Employer Expectations
+*   If employers don't feel you're currently contributing, or if they don't see how your skills will contribute in the future, you may find yourself on a layoff list <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+*   The concept of loyalty often clashes with this reality; people are baffled when laid off despite years of great work and built-up goodwill <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>.
+*   Senior leaders primarily care about what you can produce tomorrow, not necessarily what you've produced today <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
 
-## Taking Ownership of Your Career
+### Solution: Be Your Own Free Agent
+To protect your career, you must act like the free agent of your career, always prioritizing your own interests first <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>. It's not wrong to put yourself first and your employer second, but do it smartly by developing all necessary skills and strategies <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. This embodies the "CEO of your career" mindset <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>.
 
-To navigate these challenges, you must act like a free agent and prioritize yourself <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>. It's not selfish to put yourself first in your career and your employer second, as long as you do it smartly and develop the necessary skills and strategies <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. This is what it means to be the CEO of your career <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>.
+By keeping these lessons in mind and approaching your career with strategy and ownership, you can avoid significant pain and navigate your professional journey more effectively <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>.

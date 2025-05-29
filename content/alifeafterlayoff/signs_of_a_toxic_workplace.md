@@ -1,43 +1,42 @@
 ---
 title: Signs of a toxic workplace
-videoId: Zh6MeGROvXM
+videoId: rptv_H06RJU
 ---
 
 From: [[alifeafterlayoff]] <br/> 
 
-Recognizing the language used by a company, both during interviews and within the workplace, can serve as significant "red flags" indicating a potentially [[toxic_work_environments | toxic work environment]] <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a>. While not every company exhibiting these traits is necessarily a bad place to work, these are overarching [[toxic_workplace_indicators | things to look for in the workplace setting]] <a class="yt-timestamp" data-t="00:45:00">[00:45:00]</a>.
+Understanding and identifying a toxic work environment is crucial for job seekers to focus on high-quality opportunities and avoid "cringe-worthy" or predatory employers <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
 
-## Common Phrases Signifying a Toxic Environment
+## Key Indicators of a Poor Quality Employer
 
-### "We work hard, we play hard."
-This phrase often signals an expectation of excessively long and stressful hours, alongside potentially unattainable metrics <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>. The culture might be driven by fear and a "what have you done for me lately" mentality <a class="yt-timestamp" data-t="01:26:00">[01:26:00]</a>. Incentives, like elaborate vacations or bonuses, are frequently dangled but difficult to achieve <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>. "Play hard" celebrations are often scheduled outside of work hours or on weekends, without compensation, creating additional uncompensated work-related commitments <a class="yt-timestamp" data-t="02:01:00">[02:01:00]</a>. This type of environment can quickly become exhausting and wear thin <a class="yt-timestamp" data-t="02:23:00">[02:23:00]</a>.
+### Publicly Blaming Employees
+A significant red flag is when an employer publicly shames or "throws an employee under the bus" <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. For example, a gas station posted a sign stating it was closed "due to Alex walking out," which suggests childish behavior from leadership <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. Such actions indicate a potentially [[toxic_workplace_dynamics | toxic workplace]] where employees may not be treated or paid correctly <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. This behavior also reflects poorly on the company's reputation with customers <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
 
-### "We are family."
-Often heard in smaller, privately owned companies, and sometimes even larger ones, this statement can be an unrealistic and insulting expectation <a class="yt-timestamp" data-t="02:31:00">[02:31:00]</a>. Employees are not actual family members, and expecting them to treat the company as such is unrealistic <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>. Such "family-run" environments can sometimes feel "cult-like" and off-putting, particularly if an employee doesn't share the same level of enthusiasm <a class="yt-timestamp" data-t="03:13:00">[03:13:00]</a>.
+### Insufficient Compensation and "Loyalty Components"
+Employers who offer minimal raises that don't keep pace with inflation, even after many years of service, are often poor quality <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. An example includes a school offering a 50-cent raise after five years, with an unclear "loyalty component" in their pay scale <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. This approach shows a lack of respect for employee time and contribution <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>.
 
-### "We will promote you later, we promise."
-If a promotion is promised verbally during an interview to secure a hire, it's a significant red flag <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>. This often means the company either lacks the budget or is unwilling to pay what an employee is worth, using the promise as a "carrot" <a class="yt-timestamp" data-t="03:35:00">[03:35:00]</a>. Without a written agreement, honoring such a promise becomes challenging, especially if the hiring manager leaves the company <a class="yt-timestamp" data-t="03:43:00">[03:43:00]</a>. For current employees, if a promised promotion continually shifts its target, it's a strong indicator that it's time to update your resume and seek opportunities elsewhere <a class="yt-timestamp" data-t="03:56:00">[03:56:00]</a>. Good companies value employees properly and don't play games with promotions <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>. This points to [[challenges_with_job_promotions_in_toxic_companies | challenges with job promotions in toxic companies]].
+### Unpaid or Equity-Only Compensation for Core Roles
+Some companies, especially startups, may offer only equity instead of a salary or freelance fee, even for crucial roles like a web development manager <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. This approach is problematic because the chances of the company going public or providing substantial compensation can be "almost nil" <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. It essentially asks individuals to work for free, often with vague promises of a "generous salary" in the future <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>.
 
-### "You are replaceable."
-When a company openly verbalizes this to employees, it signifies a fundamental lack of value for them <a class="yt-timestamp" data-t="04:26:00">[04:26:00]</a>. Such environments often have strict guidelines and a constant, palpable fear of reprimand or immediate replacement <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>. Working for a company that believes they can easily replace you means giving away all your power and living in fear <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>. It's advisable to make yourself replaceable to them by finding a better job with a company that values your worth <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>.
+### Predatory Unpaid Internships
+Unpaid "virtual internships" that involve significant work without compensation, disguised as "fun" or "jump-starting your career," are often exploitative <a class="yt-timestamp" data-t="00:23:19">[00:23:19]</a>. Companies that pitch work as being "superheroes" or "adventurers" may use such analogies to mask the fact that they are not paying for services <a class="yt-timestamp" data-t="00:24:30">[00:24:30]</a>.
 
-### "We wear a lot of hats here" or "We're in startup mode."
-In a company that claims "we wear a lot of hats here," an employee might be expected to perform multiple jobs outside their primary scope, often while being paid a lower salary <a class="yt-timestamp" data-t="05:13:00">[05:13:00]</a>. While some might enter this knowingly, high-quality companies typically ensure they have the right resources for specific roles, so employees shouldn't have to constantly juggle multiple responsibilities <a class="yt-timestamp" data-t="05:26:00">[05:26:00]</a>.
+### Excessive and Unreasonable Interview Processes
+A convoluted, multi-stage interview process is a major red flag <a class="yt-timestamp" data-t="00:16:37">[00:16:37]</a>. An example includes a company requiring:
+*   An initial application review <a class="yt-timestamp" data-t="00:15:14">[00:15:14]</a>.
+*   A "written interview" (a lengthy prepared statement covering interests, priorities, and ambition) <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>.
+*   Standardized personality and aptitude tests <a class="yt-timestamp" data-t="00:15:31">[00:15:31]</a>.
+*   An introductory interview <a class="yt-timestamp" data-t="00:15:55">[00:15:55]</a>.
+*   A technical take-home test <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>.
+*   Technical interviews <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>.
+*   Leadership interviews <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>.
 
-Similarly, if an established company (five to seven years old or more) still claims to be in "startup mode," it's a significant red flag <a class="yt-timestamp" data-t="05:38:00">[05:38:00]</a>. This is often used as an excuse to continue overworking employees and underpaying them <a class="yt-timestamp" data-t="05:43:00">[05:43:00]</a>.
+Such a process can require hours of unpaid time from candidates without any guarantee of speaking to a hiring authority, indicating that the company is "not in a rush to make this appointment" <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>. Additionally, asking senior candidates about high school or university achievements is bizarre and irrelevant <a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>.
 
-### "We only hire rock stars."
-Often seen in job postings, this phrase can be a "cute" way to imply high standards <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>. However, if a company wants "the best of the best" but isn't willing to offer competitive compensation, it's a red flag <a class="yt-timestamp" data-t="06:10:00">[06:10:00]</a>. Always check third-party review sites like Glassdoor for employee experiences <a class="yt-timestamp" data-t="06:07:00">[06:07:00]</a>.
+### Recruiters Who Enjoy Rejecting Candidates
+A highly concerning sign is a recruiter who expresses "the most joy out of rejecting candidates" <a class="yt-timestamp" data-t="00:26:34">[00:26:34]</a>. This reveals a "narcissistic, psychopathic mentality" and a lack of empathy for job seekers who have invested their time and effort <a class="yt-timestamp" data-t="00:26:52">[00:26:52]</a>. Competent recruiters do not enjoy delivering bad news, but rather find satisfaction in successfully placing candidates in life-changing opportunities <a class="yt-timestamp" data-t="00:28:40">[00:28:40]</a>. This kind of attitude points to deep-seated [[toxic_workplace_dynamics | toxic workplace dynamics]] within the recruitment function itself.
 
-### "We are always hiring."
-An established company that is "always hiring" for your position likely has a high turnover rate <a class="yt-timestamp" data-t="06:19:00">[06:19:00]</a>. While rapid growth can be an exception, consistent hiring in an established company suggests a "revolving door" of employees <a class="yt-timestamp" data-t="06:25:00">[06:25:00]</a>. If interviewing with such a company, ask hard questions about turnover rates <a class="yt-timestamp" data-t="06:44:00">[06:44:00]</a>.
+### Disorganized or "Spammy" Job Postings
+Companies that post the same position across a wide geographic area, especially if their job descriptions are incomplete (e.g., displaying a template instead of actual details), often struggle to attract candidates <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. This indicates poor internal processes, lack of candidate flow, or an inability to fill openings, which can be a red flag for applicants <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>.
 
-### Promising a recall after a layoff.
-Some companies lay off employees at the first sign of trouble, often despite claiming to be a "family environment" <a class="yt-timestamp" data-t="07:01:00">[07:01:00]</a>. They might promise a recall when conditions improve <a class="yt-timestamp" data-t="07:10:00">[07:10:00]</a>. However, accepting a recall means returning to an environment where the company has clearly demonstrated a lack of commitment to its employees <a class="yt-timestamp" data-t="07:35:00">[07:35:00]</a>. Like a "bad relationship," it's important to have self-respect and avoid returning to a company that has already shown it's not committed <a class="yt-timestamp" data-t="07:17:00">[07:17:00]</a>.
-
-### Boasting about a foosball table.
-This is often a superficial attempt to appear "trendy or hip" <a class="yt-timestamp" data-t="07:47:00">[07:47:00]</a>. If a company treats employees poorly, has a [[toxic_work_environments | toxic work environment]], and offers low pay, a foosball table doesn't negate the fact that it's a low-quality employer <a class="yt-timestamp" data-t="08:05:00">[08:05:00]</a>. It's like "putting lipstick on a pig" – it's still a pig <a class="yt-timestamp" data-t="08:02:00">[08:02:00]</a>.
-
----
-
-Recognizing these [[identifying_toxic_workplaces | signs you should quit your job]] or avoid a company altogether is crucial for career and personal well-being. Keeping an ear out for these phrases during the interview process or within team meetings can help you make informed decisions about your employment <a class="yt-timestamp" data-t="09:06:00">[09:06:00]</a>. This list provides an overview of the [[toxic_workplaces_and_their_effects | impact of a toxic work environment]].
+These indicators can help job seekers avoid spending time on less desirable or even predatory opportunities <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. Focus on companies that value your time, treat you properly, and offer fair compensation <a class="yt-timestamp" data-t="00:29:30">[00:29:30]</a>.

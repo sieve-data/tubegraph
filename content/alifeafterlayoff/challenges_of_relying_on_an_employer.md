@@ -1,0 +1,37 @@
+---
+title: Challenges of relying on an employer
+videoId: VjiFWg7Lf88
+---
+
+From: [[alifeafterlayoff]] <br/> 
+
+It is a difficult but essential truth that individuals often face career dissatisfaction because they may rely too heavily on their employers without understanding the underlying realities of the workforce <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. By understanding these "brutal truths," individuals can position themselves to act as a "free agent" and use this knowledge to their advantage <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+
+## Six Brutal Truths About Your Career
+
+### The Employer Holds the Power
+The entity signing your paycheck ultimately holds the power in the employment arrangement <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. The "career power pendulum," which describes the balance of power between employer and employee, has recently swung back towards the employer, away from a brief period when it favored employees <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. This shift is evident in the significant increase in layoffs, companies putting hiring plans on hold, and reorganizations <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. Even during periods when employees had more leverage, such as when job opportunities were abundant, the good times were always destined to end <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. Remote work, for instance, is becoming increasingly rare as companies push back against it <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. Regardless of perceived power, the employer ultimately controls the employment arrangement <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+
+### Nobody Fights For Your Career But You
+There is no one looking out for your career path or income except yourself <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. Individuals must act as the "CEO of their career" and make strategic decisions to achieve their goals <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. A common mistake is lacking a career strategy, leading people to simply "wing it" <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>. Staying in a role too long, waiting for the company to recognize your efforts, means you are not acting like a free agent and risk being overlooked <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+
+### The Market Will Pass You By
+Staying in a company or role for an extended period inevitably leads to the market outpacing your compensation <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>. Due to standard two to three percent annual raises, someone who has been in an entry-level role for several years may find a new hire, fresh out of school, making the same or even more money for the same position <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>. This phenomenon is due to the law of supply and demand <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. The primary ways to increase earning potential are to get promoted into a significantly different job band or to seek opportunities at a different organization <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>.
+
+### Your Boss and Co-workers Are Not Your Friends
+In the workplace, everyone is inherently selfish, and while this can be a positive trait for an individual acting as a "free agent," it means colleagues and superiors are primarily looking out for themselves <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>. Close relationships at work can become problematic if a "buddy" becomes your boss, or if you both compete for the same promotion <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. The true nature of these relationships often becomes clear after a layoff, when former close colleagues rarely reach out <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>.
+
+### You Are Replaceable
+No matter how specialized or niche your skills may seem, a company will find a way to survive without you <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>. Companies existed before your tenure and will continue to exist after <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. The ego often attaches to one's work, leading to a denial of replaceability <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>. While it's beneficial to make yourself as irreplaceable as possible within an organization, it's more crucial to possess highly sought-after skills that are in demand across various industries <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>.
+
+### You're Just a Line Item on a Spreadsheet
+Despite dedicating energy, time, and passion to a company, an employee is ultimately a line item on a spreadsheet <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. This cold reality becomes apparent during layoffs, where decisions are often business-oriented and based on factors like productivity, busyness, and salary, rather than personal connection <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>. Human Resources personnel may make these decisions without the direct involvement of immediate bosses, leading to the perception of being merely a number <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. This highlights the importance of always acting like a free agent <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
+
+## Overcoming Challenges and Taking Control
+To mitigate the [[challenges_of_job_security_in_modern_employment | challenges of job security]] and reliance on an employer, individuals must take proactive steps <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. This includes building emergency funds, managing budgets, and preparing for potential income disruption <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+
+### Strategic Self-Advocacy
+Being the "best person on paper" does not guarantee a job <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. Interviewing is a marketing game, and you must effectively sell yourself and your skills to convince others that you are the best candidate <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>. This requires strong presentation skills and the ability to articulate your value <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>.
+
+### Professional Development
+Investing in oneself through education and career development, such as learning how to write effective resumes, is crucial <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>. This helps avoid being at the mercy of an employer and getting caught in a cycle of reactive job searching <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. Tools to navigate [[challenges_in_hiring_and_recruitment | hiring and recruitment]] and [[challenges_with_job_application_processes_and_employer_expectations | job application processes]] include understanding how recruiters and hiring managers think, and learning to negotiate job offers <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>. Leveraging platforms like LinkedIn to be found by recruiters can also provide access to the hidden job market <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a>.

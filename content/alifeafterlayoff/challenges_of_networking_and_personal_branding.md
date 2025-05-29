@@ -1,0 +1,40 @@
+---
+title: Challenges of networking and personal branding
+videoId: RvJQCEPwyv4
+---
+
+From: [[alifeafterlayoff]] <br/> 
+
+LinkedIn is widely recognized as the leading platform for [[networking_and_building_connections_on_linkedin | professional networking]] and job searching <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. However, questions arise whether it truly provides the premier experience it's believed to be, or if it's contributing to the decline of careers <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. Despite its perceived flaws—such as fake profiles, job listings, and recruiters—LinkedIn holds significant influence over the job market, making its use almost mandatory for those seeking white-collar careers <a class="yt-timestamp" data-t="01:07:07">[01:07:07]</a>.
+
+## Evolution of Job Search and LinkedIn's Impact
+
+Job boards emerged in the early 1990s as the internet reshaped communication, transitioning from traditional methods like newspaper classifieds, walk-in applications, or mailed resumes <a class="yt-timestamp" data-t="01:57:07">[01:57:07]</a>. The Online Career Center (OCC), launched in 1993, is considered the first online job board <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>. Monster.com followed in 1994, revolutionizing the space with user-friendly interfaces and broader reach, allowing global resume posting and job listings <a class="yt-timestamp" data-t="02:45:00">[02:45:00]</a>. CareerBuilder also began in 1995 as a digital extension of newspaper ads <a class="yt-timestamp" data-t="03:04:00">[03:04:00]</a>.
+
+LinkedIn, launched in 2003, significantly impacted hiring after 2008 with the introduction of company pages and job postings <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>. It uniquely combined professional networking with job search <a class="yt-timestamp" data-t="04:06:00">[04:06:00]</a>. By 2010, LinkedIn Recruiter became a primary tool for talent acquisition, enabling recruiters to search profiles precisely rather than relying solely on posted resumes <a class="yt-timestamp" data-t="04:17:00">[04:17:00]</a>. This marked a shift from passive job listings to active talent sourcing <a class="yt-timestamp" data-t="04:30:00">[04:30:00]</a>.
+
+## Challenges of Networking and Personal Branding
+
+### Shifting Job Market Demands
+The job market has shifted dramatically, with companies predominantly relying on active talent sourcing (recruiters finding candidates) rather than passive applications <a class="yt-timestamp" data-t="04:45:00">[04:45:00]</a>. This means if you're not actively recruited, your chances of an interview are significantly reduced <a class="yt-timestamp" data-t="04:55:00">[04:55:00]</a>. Features like "Easy Apply," introduced in 2011, streamlined applications but led to an avalanche of candidates, making it harder for individuals to be seen <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>. This shift necessitates [[strategies_for_career_management_and_networking | networking and personal branding]], even if job seekers are reluctant <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>. A staggering 87% of recruiters use LinkedIn to find talent <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a>.
+
+### User Aversion to Self-Promotion
+Many professionals are uncomfortable with the idea of marketing themselves to employers through networking and branding efforts <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>. This is often viewed as "ass-kissing" or "corporate bootlicking," something they feel shouldn't be necessary for a successful career or job <a class="yt-timestamp" data-t="06:11:00">[06:11:00]</a>. This aversion leads many to neglect their networking and branding, or refuse to "play the game" <a class="yt-timestamp" data-t="07:21:00">[07:21:00]</a>.
+
+### Algorithm Bias and Content Quality
+LinkedIn's algorithms often prioritize viral, emotionally charged, generic inspirational stories, humble brags, or one-size-fits-all advice <a class="yt-timestamp" data-t="06:29:00">[06:29:00]</a>. In contrast, thoughtful, nuanced, or critical voices are often suppressed, making it difficult for genuine professionals to stand out and build credibility <a class="yt-timestamp" data-t="06:42:00">[06:42:00]</a>.
+
+### Monopolistic Paywalls
+LinkedIn's near-monopoly on professional networking means that without a presence on the platform, individuals are virtually invisible to most recruiters and employers <a class="yt-timestamp" data-t="07:29:00">[07:29:00]</a>. As LinkedIn's dominance has grown, so have its paywalls <a class="yt-timestamp" data-t="07:39:00">[07:39:00]</a>. Features that were once free, such as seeing who viewed your profile, sending direct messages, attaching custom messages to connection requests, or unlimited search, are now locked behind expensive subscriptions <a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a>. This creates a two-tier system, disadvantaging those who cannot afford premium access, especially if they are unemployed or just starting their careers <a class="yt-timestamp" data-t="08:01:00">[08:01:00]</a>. This adds to the [[challenges_in_the_current_job_market | challenges in the current job market]] for job seekers <a class="yt-timestamp" data-t="08:09:00">[08:09:00]</a>.
+
+### Ineffective and Unsatisfying Interactions
+[[Networking and Building Connections on LinkedIn | Networking]] itself can feel hollow and ineffective <a class="yt-timestamp" data-t="09:13:00">[09:13:00]</a>. Many users struggle to connect with the right people or communicate effectively to generate actual job opportunities, leading to frustration and the belief that networking doesn't work <a class="yt-timestamp" data-t="09:19:00">[09:19:00]</a>. A common annoyance is being immediately bombarded with sales pitches from individuals who connect <a class="yt-timestamp" data-t="09:42:00">[09:42:00]</a>.
+
+### Platform Degradation and Professionalism Concerns
+LinkedIn has gained a reputation for feeling like a "glorified professional Facebook," overrun with trolls, virtue signaling, engagement mills, and arguments about politics, news, and religion <a class="yt-timestamp" data-t="09:59:00">[09:59:00]</a>. This "noise" distracts from its intended purpose as a professional space for career growth <a class="yt-timestamp" data-t="10:22:00">[10:22:00]</a>. The presence of such content can also make users hesitant to engage, fearing backlash, especially since employers can view their posting history <a class="yt-timestamp" data-t="10:31:00">[10:31:00]</a>.
+
+## Advice for Managing LinkedIn
+
+To combat these issues, it's advised to ruthlessly curate your LinkedIn feed <a class="yt-timestamp" data-t="10:44:00">[10:44:00]</a>. Unfollow accounts that post or repost irrelevant or low-quality content, and instead focus on industry-specific groups or thought leaders who provide genuine value <a class="yt-timestamp" data-t="10:48:00">[10:48:00]</a>. The block feature can be used for toxic users <a class="yt-timestamp" data-t="10:59:00">[10:59:00]</a>. Maintaining authentic, professional, and career-focused interactions can significantly improve your feed and overall experience <a class="yt-timestamp" data-t="11:05:00">[11:05:00]</a>.
+
+Despite its imperfections, LinkedIn remains a necessity, as nearly every major corporation extensively recruits on the platform, making it the industry standard for recruiter outreach <a class="yt-timestamp" data-t="11:32:00">[11:32:00]</a>. While its job board has flaws, it's still considered one of the best available <a class="yt-timestamp" data-t="11:47:00">[11:47:00]</a>. Its networking and branding components are particularly valuable, even without a premium subscription <a class="yt-timestamp" data-t="11:52:00">[11:52:00]</a>. The key is to utilize it correctly, which many people fail to do <a class="yt-timestamp" data-t="12:08:00">[12:08:00]</a>.

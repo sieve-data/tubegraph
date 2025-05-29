@@ -1,0 +1,46 @@
+---
+title: Risk Mitigation as a Core HR Function
+videoId: B3Kwo4HdFqU
+---
+
+From: [[alifeafterlayoff]] <br/> 
+
+The Human Resources (HR) function, often viewed with bitterness and jadedness by employees, has an "ugly truth" about its true purpose within an organization <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>, <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. While many believe HR is an [[challenges_in_hrs_employee_advocacy_role | employee advocate]] and on their side, a common [[human_resources_myths_and_reality | misconception]] needs to be dispelled <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>, <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>, <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>. HR's primary purpose is not necessarily people-centric, but rather focused on the business's interests <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>.
+
+## HR's Core Mandate: Risk Mitigation and Compliance
+
+At its core, the HR function is a business department, not originally established as a department solely for people <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>, <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. The ultimate driving mission of all HR departments is to:
+*   Mitigate risk <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>, <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>
+*   Implement risk avoidance <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>, <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>
+*   Ensure compliance <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>, <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>
+
+This involves dealing with legalese to keep the company out of legal hot water <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>, <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>, <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. When an employee speaks to HR, especially about sensitive or legal issues, HR is legally required to escalate anything that presents a risk to the company <a class="yt-timestamp" data-t="00:17:07">[00:17:07]</a>, <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>. HR personnel are constantly "listening for is there a legal risk in what you're telling me" <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>.
+
+## Strategic Alignment and Business Decisions
+
+The second guiding principle for HR is [[HR as a Strategic Business Partner | strategic alignment]] with business decisions <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>. HR acts as a [[HR as a Strategic Business Partner | strategic business partner]] to the most senior levels of leadership <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>. They work closely with CEOs and executive teams, often behind the scenes, to align talent with the overall business strategy <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>, <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>.
+
+This strategic alignment is often where people [[issues_with_hrs_role_in_layoff_meetings | experience layoffs]] or [[impact_of_hr_decisions_on_careers | adverse employment decisions]] <a class="yt-timestamp" data-t="00:09:55">[00:09:55]</a>. If an employee's skills or position are not strategically aligned with the company's future direction, they may be let go, not because they are a bad employee, but due to a business decision <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>, <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>, <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. This is where the "coldness and calculatedness" of HR's role emerges, as employees are sometimes viewed as data points on a spreadsheet rather than individuals <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>, <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>, <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>.
+
+## Employee Perspective and Taking Ownership
+
+Employees often feel frustrated, bitter, or jaded by HR, especially after an [[impact_of_hr_decisions_on_careers | adverse employment decision]] <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>, <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>, <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. This emotional investment can make it difficult for individuals to objectively analyze situations and apply learning <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
+
+It is crucial for individuals to [[corporate_loyalty_and_employee_preparedness | take ownership of their career]] <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>, [[strategies_for_job_security_and_career_resilience | manage themselves]] <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>, and position themselves to be in control <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>, <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>. This means preparing to [[strategies_for_job_security_and_career_resilience | thrive]] in an ever-changing business world <a class="yt-timestamp" data-t="00:14:35">[00:14:35]</a>. Viewing oneself as a [[strategies_for_job_security_and_career_resilience | free agent]] who [[corporate_loyalty_and_employee_preparedness | owns their career]] helps lessen the impact of adverse company decisions <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>, <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>, <a class="yt-timestamp" data-t="00:14:49">[00:14:49]</a>, <a class="yt-timestamp" data-t="00:15:22">[00:15:22]</a>.
+
+## When to Engage HR
+
+When considering engaging HR, it is important to be strategic <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
+*   **Report Legal Issues**: If experiencing legal issues, harassment, or anything potentially illegal, reporting to HR is advised to protect oneself <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>, <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>, <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+*   **Operational Issues**: For issues like paychecks, benefits, or policy interpretation, HR can certainly help <a class="yt-timestamp" data-t="00:12:31">[00:12:31]</a>, <a class="yt-timestamp" data-t="00:16:42">[00:16:42]</a>.
+*   **Personality Conflicts/Complaints**: For conflicts with a boss or co-workers, or general complaints, it is often better to try and resolve the issue independently before involving HR <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>, <a class="yt-timestamp" data-t="00:16:01">[00:16:01]</a>, <a class="yt-timestamp" data-t="00:16:06">[00:16:06]</a>, <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>. Venting to HR is generally not recommended, as they are listening for potential legal risks to the company <a class="yt-timestamp" data-t="00:17:31">[00:17:31]</a>.
+
+## HR's Historical and Corporate Role
+
+The term "Human Resources" itself is disliked by some, as it implies people are simply resources <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>. HR departments (originally "personnel departments") emerged during the industrial revolution to staff large corporations and ensure the business had the "resources" needed to produce products <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>, <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>. Their role was, and remains, to advocate for the business, not necessarily the individual employee <a class="yt-timestamp" data-t="00:18:18">[00:18:18]</a>.
+
+While many HR professionals are compassionate people who believe in doing the right thing and being an [[challenges_in_hrs_employee_advocacy_role | employee advocate]] <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>, <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>, this compassion is often more evident at the employee-facing, lower levels of HR within organizations <a class="yt-timestamp" data-t="00:12:52">[00:12:52]</a>, <a class="yt-timestamp" data-t="00:12:55">[00:12:55]</a>. As one ascends the HR hierarchy, the function becomes increasingly strategic and calculated, focusing on business objectives <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>.
+
+The third purpose of HR is to [[human_resources_and_employee_relations | attract, develop, and retain talent]] <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. This includes recruitment, establishing business practices, and benefits administration <a class="yt-timestamp" data-t="00:12:07">[00:12:07]</a>.
+
+Ultimately, HR at its highest level is aligned with senior business leaders <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>, <a class="yt-timestamp" data-t="00:15:34">[00:15:34]</a>. Trusting a company to always do the right thing for an individual can lead to disappointment, as the company will make the best business decision for itself <a class="yt-timestamp" data-t="00:14:12">[00:14:12]</a>, <a class="yt-timestamp" data-t="00:14:17">[00:14:17]</a>. Employees must [[corporate_loyalty_and_employee_preparedness | take back their careers]] and act as [[strategies_for_job_security_and_career_resilience | free agents]] <a class="yt-timestamp" data-t="00:14:26">[00:14:26]</a>, <a class="yt-timestamp" data-t="00:14:47">[00:14:47]</a>.
