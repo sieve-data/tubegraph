@@ -1,0 +1,54 @@
+---
+title: Current trends and causes of layoffs
+videoId: hCYgoIhsbTE
+---
+
+From: [[alifeafterlayoff]] <br/> 
+
+The [[tech_layoffs_and_job_market_challenges | job market]] is experiencing a definitive uptick in [[tech_layoffs_and_job_market_challenges | layoffs]], with many companies announcing significant reductions in force <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. This trend affects both the private and public sectors, including government efficiency initiatives like the Pentagon's planned reduction of its civilian workforce by 30,000-40,000 people <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+
+## Causes of Layoffs
+
+Current [[layoffs_and_economic_slowdown_indicators | economic conditions]] are a primary driver for the increase in [[tech_layoffs_and_job_market_challenges | layoffs]] <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>. Companies are actively looking for ways to [[cost_cutting_measures_and_their_effects_on_layoffs | cut costs]] <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>, <a class="yt-timestamp" data-t="03:38:00">[03:38:00]</a>.
+Other contributing factors include:
+*   **Shortsighted Employer Decisions** Employers often forecast for a certain headcount but then decide a month later that the hired person or role is no longer part of their long-term strategic plan <a class="yt-timestamp" data-t="03:38:00">[03:38:00]</a>, <a class="yt-timestamp" data-t="04:48:00">[04:48:00]</a>. This contrasts with past practices where companies planned for long-term cycles and would "weather the storm" <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>.
+*   **Focus on Stock Price** Companies make wholesale changes if their stock price is potentially disrupted <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a>.
+*   **Lack of Accountability for Executives** Executives who make decisions that destroy livelihoods often face no consequences <a class="yt-timestamp" data-t="04:05:00">[04:05:00]</a>, <a class="yt-timestamp" data-t="05:13:00">[05:13:00]</a>.
+*   **Abundant Job Market** The existence of "a thousand people waiting for every job" allows companies to easily hire back new talent, potentially even cheaper, and repeat the cycle <a class="yt-timestamp" data-t="05:15:00">[05:15:00]</a>.
+*   **Economic Indicators** Even if a company is doing fine, they may act on [[layoffs_and_economic_slowdown_indicators | economic indicators]] suggesting future instability <a class="yt-timestamp" data-t="05:27:00">[05:27:00]</a>.
+
+## Impact on Employees
+
+Many people are being caught off guard by [[impact_of_layoffs_on_employees | layoffs]] <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. Individuals may feel angry, scared, or hurt due to the sudden loss of income and the inability to pay bills <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a>, <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>.
+Key impacts include:
+*   **Financial Instability** Losing an income creates instability, making it difficult to afford necessities like rent, cars, and housing <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>, <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>. Wages have also been decreasing, making it harder for people to get ahead <a class="yt-timestamp" data-t="06:06:00">[06:06:00]</a>.
+*   **Loss of Control** Being laid off means a company has taken control out of an individual's hands, disrupting career plans and roadmaps <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>, <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a>, <a class="yt-timestamp" data-t="01:54:00">[01:54:00]</a>, <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a>, <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>, <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>, <a class="yt-timestamp" data-t="18:00:00">[18:00:00]</a>.
+*   **Emotional Toll** Individuals often experience crying, shock, anger, and frustration <a class="yt-timestamp" data-t="09:15:00">[09:15:00]</a>, <a class="yt-timestamp" data-t="10:17:00">[10:17:00]</a>, <a class="yt-timestamp" data-t="18:31:00">[18:31:00]</a>. There is a tendency to feel appreciative in the moment due to shock <a class="yt-timestamp" data-t="11:00:00">[11:00:00]</a>, but the underlying feeling is often anger <a class="yt-timestamp" data-t="03:13:00">[03:13:00]</a>, <a class="yt-timestamp" data-t="06:46:00">[06:46:00]</a>.
+*   **Difficulty Recovering** It's hard to get back on one's feet when constantly facing [[impact_of_layoffs_on_young_professionals | layoffs]] <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>, <a class="yt-timestamp" data-t="06:16:00">[06:16:00]</a>. Benefits like 401k vesting become unattainable <a class="yt-timestamp" data-t="06:10:00">[06:10:00]</a>.
+
+## Warning Signs of Layoffs
+
+Grizzled veterans of the [[tech_layoffs_and_job_market_challenges | job market]] can often spot the signs of impending [[tech_layoffs_and_job_market_challenges | layoffs]] <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+*   **Leadership Changes** If your direct boss is fired <a class="yt-timestamp" data-t="13:34:00">[13:34:00]</a>, or if a new senior leader (director-plus or C-suite) comes in, roles underneath them may be affected <a class="yt-timestamp" data-t="12:38:00">[12:38:00]</a>, <a class="yt-timestamp" data-t="12:40:00">[12:40:00]</a>.
+*   **Mystery Meetings** A sudden calendar invite from someone unfamiliar, especially from Human Resources, with multiple people receiving similar invites, is a strong indicator of a [[handling_layoffs_and_terminations_at_companies | layoff]] <a class="yt-timestamp" data-t="09:47:00">[09:47:00]</a>, <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>, <a class="yt-timestamp" data-t="09:56:00">[09:56:00]</a>. Access to company systems (laptop, email, security) is often shut down immediately upon termination <a class="yt-timestamp" data-t="11:47:00">[11:47:00]</a>.
+*   **Increased Pressure on Remote Workers** Fully remote jobs are under pressure to return to the office <a class="yt-timestamp" data-t="13:10:00">[13:10:00]</a>, and remote employees are getting laid off more frequently and finding it harder to get re-employed <a class="yt-timestamp" data-t="13:42:00">[13:42:00]</a>, <a class="yt-timestamp" data-t="13:45:00">[13:45:00]</a>.
+*   **Restrictive Policies** Taking away access to social spaces or internal tools like YouTube (if not needed for work) can be a sign <a class="yt-timestamp" data-t="13:01:00">[13:01:00]</a>, <a class="yt-timestamp" data-t="14:10:00">[14:10:00]</a>.
+*   **Reduced Communication** Department meetings being cancelled or secret meetings happening behind the scenes indicate management is assessing needs and potential restructuring <a class="yt-timestamp" data-t="14:23:00">[14:23:00]</a>, <a class="yt-timestamp" data-t="14:26:00">[14:26:00]</a>.
+*   **Non-Revenue Generating Roles** Roles that do not directly add to the company's bottom line or strategic direction (e.g., recruiters during hiring freezes) are at higher risk <a class="yt-timestamp" data-t="15:11:00">[15:11:00]</a>, <a class="yt-timestamp" data-t="15:34:00">[15:34:00]</a>.
+*   **Previous Layoff Rounds** If an organization has had previous [[tech_layoffs_and_job_market_challenges | layoffs]], employees should assume it can happen again. Past behavior is the best indicator of future behavior <a class="yt-timestamp" data-t="15:44:00">[15:44:00]</a>, <a class="yt-timestamp" data-t="16:11:00">[16:11:00]</a>.
+*   **Middle Manager Elimination** Middle managers are being eliminated in droves, especially in the tech space, making it a difficult position to be in <a class="yt-timestamp" data-t="16:56:00">[16:56:00]</a>.
+
+## Navigating the New Job Market
+
+The [[tech_layoffs_and_job_market_challenges | workplace]] as we know it is gone <a class="yt-timestamp" data-t="05:30:00">[05:30:00]</a>, and individuals must adapt to thrive in the new economy <a class="yt-timestamp" data-t="06:36:00">[06:36:00]</a>.
+*   **Proactive Career Management** Individuals must be more proactive in their careers <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>, acting like the CEO of their own career <a class="yt-timestamp" data-t="05:39:00">[05:39:00]</a>, <a class="yt-timestamp" data-t="19:55:00">[19:55:00]</a>. This means constantly assessing risk and developing action plans <a class="yt-timestamp" data-t="22:23:00">[22:23:00]</a>.
+*   **Financial Preparedness** Building an emergency fund is crucial <a class="yt-timestamp" data-t="18:28:00">[18:28:00]</a>, as is having multiple streams of income to pay bills and de-risk oneself <a class="yt-timestamp" data-t="07:29:00">[07:29:00]</a>, <a class="yt-timestamp" data-t="07:32:00">[07:32:00]</a>.
+*   **Continuous Skill Development and Networking** Continuously building skills and working on professional networks is essential, especially if working for a company with a history of [[tech_layoffs_and_job_market_challenges | layoffs]] <a class="yt-timestamp" data-t="16:02:00">[16:02:00]</a>, <a class="yt-timestamp" data-t="16:05:00">[16:05:00]</a>.
+*   **Strategic Visibility (for Remote Workers)** Remote workers should aim to be highly visible, ensure high performance, and get involved in projects with key leaders <a class="yt-timestamp" data-t="13:19:00">[13:19:00]</a>.
+*   **Emotional Processing** After a [[impact_of_layoffs_on_employees | layoff]], it's important to take time to process emotions and go through the stages of grief before jumping back into the job search <a class="yt-timestamp" data-t="21:45:00">[21:45:00]</a>, <a class="yt-timestamp" data-t="21:50:00">[21:50:00]</a>.
+*   **Long-Term Mindset** Individuals should not allow their defenses to go down or slip into apathy after finding a new job, as [[impact_of_layoffs_on_workplace_culture | corporate loyalty]] is "completely dead" <a class="yt-timestamp" data-t="00:45:00">[00:45:00]</a>, <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>, <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>.
+
+> [!INFO] Treat Yourself as a Business
+> "Protect yourselves, treat yourself as a business, and always be looking for better opportunities because companies would do the same. And they are." <a class="yt-timestamp" data-t="19:33:00">[19:33:00]</a>
+
+The constant uncertainty in the economy means careers will continue to be rocky. Individuals must shift from a "victim mentality" to becoming the CEO of their career to escape the vicious cycle <a class="yt-timestamp" data-t="20:27:00">[20:27:00]</a>, <a class="yt-timestamp" data-t="20:40:00">[20:40:00]</a>, <a class="yt-timestamp" data-t="20:42:00">[20:42:00]</a>.

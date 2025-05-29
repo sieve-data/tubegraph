@@ -1,0 +1,28 @@
+---
+title: Evaluating a companys reputation
+videoId: 4PL5YtajF8M
+---
+
+From: [[alifeafterlayoff]] <br/> 
+
+When considering a new job opportunity, it is crucial to evaluate the company's reputation, both internally and externally, before accepting an offer <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. A corporate recruiter with over 20 years of experience advises that understanding a company's standing can help you avoid opportunities that could lead to job dissatisfaction or hinder your long-term career growth <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>, <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+
+## Internal Reputation: Employee Treatment
+
+A significant aspect of a company's reputation is how it treats its employees <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. When evaluating this, consider:
+
+*   **Reasons for Open Positions** Inquire why the position is open; if the previous incumbent was promoted, it can be a positive sign <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>, <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. Companies that continually promote from within are often good employers <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>.
+*   **[[assessing_company_turnover_rates | Turnover Rates]]** Ask about [[assessing_company_turnover_rates | turnover rates]] for the position and department <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>, <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>. If the job has been posted repeatedly over short periods (e.g., every six months), it indicates that the company struggles to retain employees, potentially due to a poor reputation, inadequate treatment, or insufficient pay <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>, <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>. Excessive [[assessing_company_turnover_rates | turnover]] is often a symptom of other underlying issues within the company <a class="yt-timestamp" data-t="00:12:16">[00:12:16]</a>.
+*   **Employee Feedback (e.g., Glassdoor)** Check [[evaluating_workplace_culture_through_employee_feedback | Glassdoor reviews]] <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. While individuals tend to post reviews when upset, look for "broader picture" and "overarching trends" rather than isolated complaints <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>, <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. This can also provide insights into [[evaluating_workplace_culture_through_employee_feedback | work-life balance issues]] <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>.
+*   **Pay and Benefits** Evaluate if the compensation package and benefits are competitive for the industry <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>. A substantially lower offer than market value is a significant red flag, suggesting the company may always be under-resourced and unable to offer proper compensation, which can hurt your career and salary growth <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. Quality employers prioritize adding value through benefits to retain employees <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
+*   **[[assessing_company_culture_during_interviews | Company Culture]]** Inquire about the [[assessing_company_culture_during_interviews | morale]] within the organization, internal policies, procedures, and the hiring manager's [[assessing_leadership_and_company_culture_in_interviews | leadership style]] and expectations <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>. A "work hard but play hard" mentality might signal [[evaluating_workplace_culture_through_employee_feedback | work-life balance issues]] <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>.
+*   **Unrealistic Expectations** Be wary if the job description shifts during the interview or if the expected output is an unrealistic amount of work for one person <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>, <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. This can lead to dissatisfaction and burnout <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>.
+
+## External Reputation: Market and Industry Standing
+
+A company's external reputation can also impact your career. You should consider:
+
+*   **Local Market and Industry Standing** If a company has a poor reputation in the local market or its specific industry, this can tarnish your professional standing if you join them <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>, <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>.
+*   **Public Perception** Research press releases and maintain a general awareness of the organization and its industry to gauge its public perception and social equity <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>, <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>.
+
+By diligently performing this [[importance_of_company_research_before_an_interview | company research]] and asking probing questions during the interview process, you can identify [[tips_for_identifying_low_quality_employers | low-quality employers]] and determine whether an opportunity is the right fit for your long-term career goals <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>, <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>, <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>, <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>.

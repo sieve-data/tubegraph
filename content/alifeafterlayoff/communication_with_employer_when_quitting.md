@@ -1,0 +1,35 @@
+---
+title: Communication with employer when quitting
+videoId: wDZTi4moVkM
+---
+
+From: [[alifeafterlayoff]] <br/> 
+
+When preparing to leave a job, it is essential to handle communication with your employer gracefully and professionally. A corporate recruiter and HR professional with over 20 years of experience recommends a specific approach to ensure a smooth transition and maintain a positive professional reputation <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## Why Proper Communication Matters
+Regardless of your reason for leaving—be it a promotional opportunity, career advancement, or escaping a bad situation—the rules for departing remain the same: you want to leave with grace and dignity <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. This approach ensures you remain eligible for rehire, avoid burning bridges, and protect your professional brand <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+## What Not to Do
+It is crucial to avoid dramatic exits. Storming out, damaging property, or yelling insults are considered the [[proper_way_to_quit_a_job | wrong way to quit a job]] <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Such actions will lead to being ineligible for rehire, burning all bridges, and could even result in legal trouble <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. This kind of spectacular exit offers only fleeting personal satisfaction and can negatively impact how former colleagues view you, potentially hindering future job referrals <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
+
+Similarly, when informing your boss of your departure, avoid elaborating on negative reasons such as a bad boss or dissatisfaction with the job <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. Such discussions can escalate emotions and create an unnecessary "powder keg" situation <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. Your decision to leave should already be firm, and there is no benefit in trashing the company or individuals as you leave <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>, <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+
+## Timing Your Communication
+Discretion is key while [[job_searching_while_employed | job searching while employed]] <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. Do not inform anyone at your current job that you are looking for a new opportunity until you are absolutely ready to move on and have a confirmed job offer <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. Informing your boss too soon could lead to you being shown the door quicker than anticipated <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
+
+It is crucial to have all your [[preparation_before_quitting_a_job | ducks in a row]] before giving two weeks' notice <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. This means ensuring drug screens are done, background checks are cleared, references are checked, and you have a confirmed start date with your new employer <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>. There have been instances where an offer is rescinded due to background check issues after an employee has already given notice, leaving them without a job <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+
+Keep your job search and new opportunity details private, even from close work friends <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. Rumors can spread and bite you back if something unforeseen happens with the new offer <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+
+## Who to Inform and How
+1.  **Your Boss First:** Once you have a confirmed start date, schedule a meeting with your boss <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. This should be done face-to-face or via a video call, not by email or text <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. Your boss should be the first to know, not through the office grapevine <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+2.  **Delivering the Message:** Keep the conversation concise and professional. State that you have found another opportunity that is the best move for you and your family, thank them for their time, and give your two weeks' notice <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. Maintain emotional neutrality <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>.
+3.  **Transition Planning:** After informing your boss, ask for their opinion on when and how to share the news with your team, clients, and customers <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>. Your boss will likely work with you on a transition plan to reassign your responsibilities <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. Wait for their green light before broadly announcing your departure to ensure proper protocol is followed <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+4.  **Informing Colleagues and Clients:** When speaking to co-workers and clients, be mindful that your departure will create a void and increase their workload <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. Use grace and appreciation. Avoid trashing the company or individuals <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>. Keep your reasons general and positive, focusing on personal growth or a better opportunity for your family <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>.
+5.  **Two Weeks' Notice:** Always give two weeks' notice as a courtesy <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. While not legally required in many places, it allows you to tie up loose ends and, crucially, minimizes disruption for your co-workers who will inherit your responsibilities <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. It's a courtesy to the people around you, not just the company <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+
+## Maintaining Your Professional Brand
+Always take the high road and be professional <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>. Thank your employer for the opportunity and their time <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. Personally thank individuals who were instrumental in your career, provided guidance, or offered opportunities <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. Ask to connect with them on professional networking sites like LinkedIn to build your personal network <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>, as these networks are powerful for future [[job_search_tips_and_resources_after_quitting_a_job | job opportunities]] <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>.
+
+Leaving on good terms keeps the door cracked open for future possibilities, such as returning to the company or being recruited by former bosses for new roles <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>. How you treat people when you leave an organization will reflect on your employment brand and follow you throughout your career <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>.

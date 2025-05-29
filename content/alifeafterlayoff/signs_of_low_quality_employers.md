@@ -1,0 +1,30 @@
+---
+title: Signs of low quality employers
+videoId: IuFZhbSNFD8
+---
+
+From: [[alifeafterlayoff]] <br/> 
+
+Identifying low quality employers can help job seekers avoid "cringe-worthy opportunities" <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a> and "utter garbage" job postings <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>. These companies are considered "predatory" <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a> and can only succeed if job seekers accept their "awful" terms <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>.
+
+## Key Indicators of Low Quality Employers
+
+### Compensation and Work Environment Red Flags
+*   **Aggressively High Salary** A salary that is significantly higher than market rate for similar positions can be a warning sign <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>. Employers may offer an "extreme incentive" to compensate for an undesirable work environment <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>.
+*   **Unpaid Positions** Job postings for "temporary non-paid positions" <a class="yt-timestamp" data-t="05:00:00">[05:00:00]</a>, especially in high cost-of-living areas like New York City <a class="yt-timestamp" data-t="05:52:00">[05:52:00]</a>, are often illegal and predatory <a class="yt-timestamp" data-t="05:14:00">[05:14:00]</a>. These positions typically come with significant responsibilities despite offering no pay <a class="yt-timestamp" data-t="06:15:00">[06:15:00]</a>.
+*   **Extremely Low Wages for High Qualifications** Offering wages significantly below market rates for highly skilled positions, such as $11 an hour for a software developer with a bachelor's degree and five years of experience (when market rate is $75,000-$80,000+), is a clear sign of a poor employer <a class="yt-timestamp" data-t="07:47:00">[07:47:00]</a>.
+*   **Excessive Monitoring and Productivity Tracking** Employers who implement "tracking softwares, productivity tracking, and keyword tracking software" <a class="yt-timestamp" data-t="02:12:00">[02:12:00]</a>, monitor keystrokes, and take photos every 30 seconds to enforce productivity standards <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>. Such environments often include "productivity coaches" who call employees for "wasted time" or "wasteful activities" <a class="yt-timestamp" data-t="02:45:00">[02:45:00]</a>, even for bathroom breaks <a class="yt-timestamp" data-t="03:17:00">[03:17:00]</a>. This approach is presented as a "great work strategy" but leads to an "absolutely awful" opportunity <a class="yt-timestamp" data-t="03:01:00">[03:01:00]</a>.
+*   **Lack of Financial Stability and Low Pay** Companies openly admitting they are not financially stable and may not be able to pay market rates, while also stating "money is not all of our motivator" <a class="yt-timestamp" data-t="16:09:00">[16:09:00]</a>. They expect employees to work "insane hours" with no stability <a class="yt-timestamp" data-t="16:36:00">[16:36:00]</a>.
+*   **Unstable Job with No Mentorship** Startups that explicitly state the opportunity is "not for people who need a stable and well-paying job" <a class="yt-timestamp" data-t="15:37:00">[15:37:00]</a>, often indicating "shifting priorities" due to an "inexperienced management team" <a class="yt-timestamp" data-t="16:49:00">[16:49:00]</a>. They may also indicate they cannot provide mentorship or direction because they "probably don't know themselves" <a class="yt-timestamp" data-t="17:09:00">[17:09:00]</a>. They dangle the carrot of "building a legendary company" <a class="yt-timestamp" data-t="17:46:00">[17:46:00]</a> and an "amazing dinner" after fundraising, in exchange for 80-90 hour weeks and significantly underpaid work <a class="yt-timestamp" data-t="18:00:00">[18:00:00]</a>.
+
+### Obnoxious and Inefficient Hiring Processes
+*   **Demanding Assessments Before Interviews** Requiring three to five hours of assessments without guaranteeing an interview with a recruiter <a class="yt-timestamp" data-t="01:43:00">[01:43:00]</a>.
+*   **Overly Complex Application Steps**
+    *   Requiring resumes in specific formats (e.g., MS Word) sent to an email address, indicating a lack of an Applicant Tracking System (ATS) <a class="yt-timestamp" data-t="10:09:00">[10:09:00]</a>.
+    *   Mandating a LinkedIn connection request <a class="yt-timestamp" data-t="10:27:00">[10:27:00]</a>.
+    *   Assigning "homework" such as reading articles or watching videos before a preliminary call <a class="yt-timestamp" data-t="11:13:00">[11:13:00]</a>.
+    *   Providing overly detailed and insulting instructions for basic tasks like checking Zoom functionality and requiring text message confirmation <a class="yt-timestamp" data-t="11:36:00">[11:36:00]</a>.
+*   **Unreasonable Project Assignments for Interviews** Requesting candidates to spend "six to eight hours" creating a project for a second-round interview with only 15 minutes to present, especially for entry-level roles <a class="yt-timestamp" data-t="13:33:00">[13:33:00]</a>. This is a "huge waste of everybody's time" <a class="yt-timestamp" data-t="14:07:00">[14:07:00]</a>. "Self-respecting employers don't ask candidates to do this" <a class="yt-timestamp" data-t="14:20:00">[14:20:00]</a>, unless it's for a very senior role requiring a business idea presentation <a class="yt-timestamp" data-t="14:26:00">[14:26:00]</a>.
+*   **Insulting Cover Letter Requirements** Forcing applicants to write a multi-paragraph cover letter answering specific questions (e.g., "three most important qualities" for the role, why they applied), and then explicitly stating they must include a sentence confirming they "have read the instructions" <a class="yt-timestamp" data-t="19:57:00">[19:57:00]</a>. This implies applicants are "too stupid" to follow instructions <a class="yt-timestamp" data-t="20:25:00">[20:25:00]</a>.
+
+When encountering such [[tips_for_identifying_low_quality_employers | signs of a toxic workplace culture in job listings]], job seekers are advised to avoid applying <a class="yt-timestamp" data-t="13:56:00">[13:56:00]</a>.

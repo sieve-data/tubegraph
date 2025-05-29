@@ -1,0 +1,39 @@
+---
+title: Coasting culture versus hustle culture
+videoId: CXuhilt2af8
+---
+
+From: [[alifeafterlayoff]] <br/> 
+
+## What is Quiet Quitting?
+Quiet quitting is a concept that has gained traction in the workforce, emerging as an extension of the "Great Resignation" <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. It refers to effectively quitting your job without actually resigning <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. This means reducing one's output to the minimum acceptable standard required for the job <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. It involves doing just enough to get by, not taking on additional tasks or burdens, and relieving oneself of associated stress <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. This phenomenon is a legitimate trend, as highlighted in articles by publications like Business Insider <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+
+## The Rise of Coasting Culture
+The phenomenon of quiet quitting is often referred to as "coasting culture" <a class="yt-timestamp" data-t="01:03:05">[01:03:05]</a>. It signifies a strategic dialing back at work by professionals <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+
+### Motivations Behind Coasting
+During the pandemic, many employees came to view work as simply a job—a source of income to support themselves and their families, rather than a higher calling demanding utmost devotion <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>. The pandemic created ideal conditions for this shift, with a hot labor market ensuring job security and the rise of remote work making it harder for managers to monitor effort <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+
+Employees involved in coasting culture are making a "considered, deliberate decision" <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. They are no longer willing to let companies exploit them for "free labor" through late nights, lost weekends, and demands for loyalty <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. These professionals are effectively mounting a secret resistance against the traditional status quo <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+
+### The Contrast: Hustle Culture
+Historically, the employment market pendulum was heavily weighted towards employers <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. Employers demanded various concessions from employees, viewing them as "resources to exploit" for maximum productivity at minimum cost <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. This led to a pervasive "hustle culture," where employees felt compelled to constantly work hard, put in long hours, take on extra tasks even without bandwidth, and remain available outside of work hours, such as taking calls during weekends or family events <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+## Historical Context and Workplace Shifts
+The workplace has seen a repeating cycle where companies become bloated, experience a catastrophic event (like the 2008 subprime crisis or 9/11), cut their workforce through layoffs, become leaner, and then the cycle repeats <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. Before 2020, there was an extended growth period where companies became significantly bloated, likely looking for an excuse to "cut the fat" <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>.
+
+When the pandemic hit in 2020, it presented an opportune time for companies to make ruthless cuts <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. In many cases, these cuts were "too big, too deep," which fractured the workforce <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. This is seen as uncharted territory, with a shift towards the employee not seen since the 1930s with the passage of the Fair Labor Standards Act <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.
+
+The market subsequently shifted, backfiring on companies that had made deep cuts, as demand "came screaming back" <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. Employees who had previously engaged in hustle culture, losing years of their lives to work and missing family events, felt a deep sense of betrayal <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>. This led them to re-evaluate their relationship with work <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. This period is considered a "seismic shift in the workplace" <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
+
+### Generational Shifts
+A significant factor in this shift is the generational change in the workforce <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. As Baby Boomers exit, Gen Z is entering the workforce with a "completely different" mentality about their jobs <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. Companies are now compelled to [[company_culture_and_employee_morale | re-evaluate how they treat their employees]] <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>. The days of lifelong company loyalty are largely over; staying with one company for 20+ years is now often seen as antiquated <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+
+## Employee Re-evaluation and Empowerment
+Employees who remained after the 2020 layoffs often had to pick up the slack from departed colleagues, leading to burnout <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>. As a result, the pendulum has swung, and employees are no longer willing to be overloaded with work, sacrifice long hours, or work weekends <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>. They are now establishing clear employment boundaries in their lives, a "healthy thing" given past employer behavior <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
+
+### Shift in Perspective: [[work_to_live_versus_live_to_work | Work to Live]]
+The core takeaway from this shift is that employees now view their jobs as a means to support themselves and their families, not as a demanding higher calling <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. The mindset is shifting from "live to work" to "work to live" <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>. Employees are shedding previous expectations, no longer putting up with grueling hours they once tolerated <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>. This is a move from "leaning in" for decades to "leaning back" to avoid topping over <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>, ultimately aiming for better [[work_life_balance_and_company_culture | work-life balance]] <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>.
+
+> [!NOTE] Speaker's Stance
+> While discussing quiet quitting and coasting culture, the speaker clarifies that they are not advocating for laziness or slacking off <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. Instead, they encourage individuals to critically evaluate their work situation <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. If unhappy with treatment, compensation, or hours, the speaker suggests treating oneself as a "free agent" and strategically planning an exit <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. However, for those with built-up equity, vacation time, or 401(k) investments who feel quitting isn't the best option, dialing back work to the minimum acceptable output can be a choice <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. This is partly due to employers struggling to backfill positions, making some output better than none <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>.
