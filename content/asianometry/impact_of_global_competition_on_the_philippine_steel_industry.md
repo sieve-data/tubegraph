@@ -1,0 +1,26 @@
+---
+title: Impact of global competition on the Philippine steel industry
+videoId: xlmMRU7Svq0
+---
+
+From: [[asianometry]] <br/> 
+
+The Philippine steel industry, once a source of national pride with the [[rise_and_fall_of_national_steel_corporation_in_the_philippines | National Steel Corporation]] (NSC), faced significant challenges from global competition, contributing to its eventual decline by 1999 <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
+
+## Early Challenges and External Reliance
+Initially, the Philippines lacked suitable steel facilities, forcing the country to export its iron ore to Japan and then reimport finished steel products <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. This highlighted the need for domestic steel production to support [[importance_of_integrated_steel_mills_for_industrialization | industrialization]] and enable the local manufacturing of ships, roads, and electric power infrastructure <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+
+When Iligan Integrated Steel Mills (ISMI) was established as an attempt to create an [[importance_of_integrated_steel_mills_for_industrialization | integrated steel mill]], it struggled to turn a profit <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>. One perspective suggests that ISMI faced domestic competition and did not receive the same level of government support as steel companies in other parts of Asia <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>. For instance, Japan's government provided its steel companies with raw goods subsidies, bans on imported steel, and extensive tax incentives <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>.
+
+## NSC's Era and Rising Imports
+After NSC took over ISMI's assets in 1974 <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>, it became the Philippines' leading producer of billets, tin plates, and flat rolled steel, holding a monopoly over the country's steel industry for the next two decades <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. NSC's flat steel products were even preferred over domestic competitors in markets like China, Indonesia, and the United States <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>.
+
+Despite this initial success, the company faced increasing external pressure. In the 1980s, trade reforms lowered steel product tariffs to three percent, leading to a flood of cheap imports from Taiwan and South Korea <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. While NSC initially weathered this challenge and remained profitable in 1983 <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>, the market for its core flat steel products began to decline into the 1990s <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>. The flat steel market was increasingly consumed by these cheaper South Korean and Taiwanese imports, necessitating upgrades for incumbent companies, many of whom were moving into coils <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>. NSC recognized the need for significant investment to stay competitive but lacked the necessary funds from the government <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>.
+
+## Exacerbation of Decline
+The subsequent privatization of NSC in 1995 to a Malaysian trading firm, Wintek Holdings, proved disastrous <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>. The new management, primarily foreign steel traders rather than steel makers, lacked the necessary expertise <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>. This mismanagement, combined with continued cheap imported products flowing into the market <a class="yt-timestamp" data-t="00:13:57">[00:13:57]</a> and the devastating [[impact_of_asian_financial_crisis_on_indonesian_businesses | Asian financial crisis of 1997]] <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>, sealed NSC's fate. The crisis led to another massive devaluation of the peso, making NSC's U.S. dollar-denominated loans and raw materials extremely expensive <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>. Ultimately, NSC ceased operations in November 1999 <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>.
+
+## Broader Industrial Impact
+The collapse of NSC reverberated across Iligan City and its supporting industries, with estimated losses to businesses totaling 1.4 billion pesos annually <a class="yt-timestamp" data-t="00:15:30">[00:15:30]</a>. This phenomenon was not unique to steel; cheap imports also caused the downfall of other Philippine industries, such as cement, with Indonesian and Taiwanese cement leading to the closure of various domestic plants <a class="yt-timestamp" data-t="00:15:45">[00:15:45]</a>.
+
+While imports did contribute to the decline of NSC's core markets, the company was still profitable into 1995 <a class="yt-timestamp" data-t="00:15:58">[00:15:58]</a>. Ultimately, the company's failure was attributed more to falling into the hands of an incompetent management team before suffering an unprecedented financial crisis <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>.

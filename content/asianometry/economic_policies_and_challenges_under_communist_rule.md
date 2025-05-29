@@ -1,0 +1,77 @@
+---
+title: Economic policies and challenges under Communist rule
+videoId: IOXEj7Oiv_o
+---
+
+From: [[asianometry]] <br/> 
+
+The People's Republic of Albania was known as Europe's most isolated country <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. From the 1950s to the 1970s, this small Communist nation remarkably managed to join with and then split with three different major Communist powers <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. After its third and final split, Albania ferociously pursued [[Economic history of the Soviet Union | economic self-reliance]], which led to it becoming the third poorest country in the world <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. This article explores the economic policies and challenges faced by Communist Albania <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+## Pre-Communist Economic Background
+
+In 1912, Albania was a feudal society of about one million people <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. Despite having rich natural resources like oil, these were largely undeveloped <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. In 1927, the average national income was a mere $40 <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>, and the economy was dominated by large, absent landowners <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+
+Italian influence, which lasted for decades, contributed little to the country's economic development, beyond initiating some oil field production <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>. King Zog I, who declared himself "King of the Albanians" in 1928 <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>, was unable to improve the economy <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. Albania's economy depended mostly on natural resources like oil from the Kucova oil field, and exports included cheese, animal skins, eggs, and livestock <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. The global economic depression of the 1930s led to deeper Italian economic influence <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
+
+World War II devastated Albania's economy. Out of 2,500 towns and villages, 850 were ruined or razed <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>. Communications, ports, mines, and electric power installations were destroyed, and agriculture and livestock were plundered, wrecking the entire national economy <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>.
+
+## Economic Policies Under Enver Hoxha
+
+After consolidating power, Enver Hoxha's provisional government swiftly moved to purge opponents <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>. In December 1945, "free" elections were held, with the Communists being the only candidates, winning 90% of the vote <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>. A month later, Hoxha abolished the monarchy and declared Albania a "People's Republic" <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>.
+
+### Yugoslav Influence (1945-1948)
+
+The Communist Party of Yugoslavia helped found the Communist Party of Albania and provided military assistance, and sponsored the new government <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>. In return, Yugoslavia pushed Albania towards joining the Yugoslav Federation <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>.
+
+Close technical and economic agreements were signed, coordinating monetary systems and education <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>. Yugoslavia sent grain to alleviate food shortages <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. Joint ventures were formed to exploit Albanian natural resources, with Albania supplying raw materials to Yugoslavia, which then produced industrial goods to sell back at inflated prices <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>. Hoxha initially was helpless to stop this arrangement <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>.
+
+### Shift to Soviet Stalinist Model (1948-1961)
+
+After 1948, Albania severed ties with Yugoslavia and joined COMECON, entering the Soviet orbit <a class="yt-timestamp" data-t="00:13:05">[00:13:05]</a>. From 1949 to 1951, all of Albania's trade was with COMECON states, with the Soviet Union accounting for half <a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>. The Soviets provided significant aid, totaling about $200 million between 1948 and 1960, including food, military aid, technology transfers, and the construction of airfields and a submarine base <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>.
+
+Hoxha was fervent about a Stalinist economy <a class="yt-timestamp" data-t="00:15:05">[00:15:05]</a>. [[bolshevik_policies_on_nationalization_and_central_planning | Going Stalinist]] meant building a completely centrally-planned socialist economy, with the government deciding all aspects of economic decision-making through grand 5-year plans <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>. Policy emphasized the collectivization of agriculture and the rapid build-up of heavy industry at the cost of consumer products <a class="yt-timestamp" data-t="00:15:27">[00:15:27]</a>.
+
+*   **Collectivization of Agriculture:** This process was slower due to limited arable land <a class="yt-timestamp" data-t="00:15:33">[00:15:33]</a>. By 1956, there were 696 collective farms covering 40% of the land, though they struggled to find labor <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>. Party officials resorted to "greater force" to compel workers <a class="yt-timestamp" data-t="00:15:46">[00:15:46]</a>.
+*   **Central Planning:** In 1951, Albania's first 5-Year Plan completed the transition to a centrally planned economy, setting all prices, production levels, investment, and wages <a class="yt-timestamp" data-t="00:15:55">[00:15:55]</a>.
+*   **Consequences:** This Stalinist system created contradictions and shortages <a class="yt-timestamp" data-t="00:16:08">[00:16:08]</a>. Employment was guaranteed, but people could not choose their jobs, and failure to meet goals led to labor camps <a class="yt-timestamp" data-t="00:16:13">[00:16:13]</a>. Massive new textile factories were built, and stores were stocked with non-food items, yet there was a severe lack of food <a class="yt-timestamp" data-t="00:16:24">[00:16:24]</a>. Meat consumption was lower in 1953 than in 1949, and food rationing continued until 1957 <a class="yt-timestamp" data-t="00:16:35">[00:16:35]</a>.
+
+### Breaking with the Soviets and Alliance with China (1961-1978)
+
+Nikita Khrushchev's policies, particularly his repudiation of the Stalin cult of personality and reconciliation with Marshal Tito, grated on Hoxha <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>. Albania began moving towards the People's Republic of China, another major Communist power at odds with Khrushchev <a class="yt-timestamp" data-t="00:17:37">[00:17:37]</a>. Chinese aid to Albania increased significantly after a meeting between Hoxha and Mao Zedong in 1956, reaching 21.6% of the total trade balance by 1957 <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>.
+
+The Sino-Soviet Split widened, making Albania's dual loyalty untenable <a class="yt-timestamp" data-t="00:18:05">[00:18:05]</a>. In April 1961, the Soviets withdrew their considerable aid, which had constituted 50% of Albania's economy from 1946 to 1961 <a class="yt-timestamp" data-t="00:18:48">[00:18:48]</a>. In response, the Soviet Union and its allies expelled Albania from the Warsaw Pact and COMECON, leaving China as its only significant ally <a class="yt-timestamp" data-t="00:21:27">[00:21:27]</a>.
+
+China attempted to replace Soviet aid, sending technicians and advisors who took the same salaries as average Albanians <a class="yt-timestamp" data-t="00:21:50">[00:21:50]</a>. However, as China was itself a developing country struggling with famine <a class="yt-timestamp" data-t="00:22:39">[00:22:39]</a>, and due to geographical distance causing delays in aid delivery <a class="yt-timestamp" data-t="00:22:46">[00:22:46]</a>, Chinese assistance struggled to replace what was lost from the Soviets <a class="yt-timestamp" data-t="00:22:57">[00:22:57]</a>. The Third Five-Year Plan (1961-1965) became one of the most challenging periods for Communist Albania's economy <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a>.
+
+### Economic Self-Reliance (1978-1990)
+
+The "Chinese love affair" ended when China began overtures to the West in 1969 <a class="yt-timestamp" data-t="00:23:31">[00:23:31]</a>. Nixon's trip to China in 1971 shocked the Albanians <a class="yt-timestamp" data-t="00:23:47">[00:23:47]</a>. China also began informing Albania that aid would not continue indefinitely <a class="yt-timestamp" data-t="00:23:57">[00:23:57]</a>. Finally, in July 1978, China cut off all aid to Albania, which at that point constituted half of the country's economy <a class="yt-timestamp" data-t="00:24:41">[00:24:41]</a>.
+
+With intensifying shortages in the mid-1960s, the Party increasingly emphasized the concept of [[Economic history of the Soviet Union | self-reliance]] <a class="yt-timestamp" data-t="00:24:54">[00:24:54]</a>. This was a fundamental concept in [[Economic history of the Soviet Union | Stalinist economies]] but pushed to an extreme in Albania's unique situation <a class="yt-timestamp" data-t="00:25:03">[00:25:03]</a>. After the break with China, the Albanian government proclaimed that it was the only country still building socialism, enshrining the principle of self-reliance in the 1976 Constitution <a class="yt-timestamp" data-t="00:25:30">[00:25:30]</a>.
+
+For the next 12 years, Albania went it alone, with no foreign aid or credit, and Albanian companies forbidden from joint ventures with foreign countries <a class="yt-timestamp" data-t="00:25:44">[00:25:44]</a>. This policy had several points of emphasis:
+*   **Exports for Hard Currency:** Albania ramped up exports to acquire hard currency for needed investment goods <a class="yt-timestamp" data-t="00:26:15">[00:26:15]</a>. The economy relied largely on oil, chrome ore (chromite), copper, and electricity <a class="yt-timestamp" data-t="00:26:20">[00:26:20]</a>. Trade partners were diversified, including a semi-relaxation of relations with Yugoslavia and COMECON (excluding the Soviet Union) <a class="yt-timestamp" data-t="00:26:31">[00:26:31]</a>.
+*   **Controlled Economic Data:** Economic data was tightly controlled and released only if favorable <a class="yt-timestamp" data-t="00:26:43">[00:26:43]</a>.
+*   **Food Self-Sufficiency:** The country aimed for self-sufficiency in food production <a class="yt-timestamp" data-t="00:26:56">[00:26:56]</a>. Swamps were drained to expand arable land from 391,000 hectares in 1950 to 713,000 in 1985 <a class="yt-timestamp" data-t="00:27:01">[00:27:01]</a>. In 1976, Albania declared self-sufficiency in bread grain, potentially the policy's greatest achievement <a class="yt-timestamp" data-t="00:27:11">[00:27:11]</a>.
+
+## [[Soviet economic stagnation and need for reform | Economic Stagnation]] and Collapse (1980s)
+
+Despite Hoxha's declarations of victory in 1983 <a class="yt-timestamp" data-t="00:28:06">[00:28:06]</a>, Albania fell into deep and prolonged [[Soviet economic stagnation and need for reform | economic stagnation]] in the mid-1980s <a class="yt-timestamp" data-t="00:29:12">[00:29:12]</a>.
+
+*   **Decline in the 1980s:** Throughout the 1980s, Albania's economy grew at an average of 1.7%, zeroing out in the second half of the decade <a class="yt-timestamp" data-t="00:29:22">[00:29:22]</a>. With a 2% annual population growth, the average Albanian became poorer <a class="yt-timestamp" data-t="00:29:32">[00:29:32]</a>.
+*   **Causes of Stagnation:**
+    *   **Drought:** A five-year drought from 1983 to 1988 severely affected agricultural output and hydropower generation, which was crucial for exports and chromite mining <a class="yt-timestamp" data-t="00:29:39">[00:29:39]</a>.
+    *   **Oil Price Crash:** A global oil glut crashed petro-prices, hurting oil, another major economic pillar <a class="yt-timestamp" data-t="00:29:57">[00:29:57]</a>. Oil production fell far short of targets, with equipment from Soviet and Chinese aid becoming obsolete and broken <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>. [[Challenges in Soviet computer production | Engineers]] attempted to rebuild machinery themselves, costing more than buying new equipment abroad <a class="yt-timestamp" data-t="00:30:25">[00:30:25]</a>.
+*   **Deteriorating Living Standards:**
+    *   Families were rationed 1 kilogram of meat, 250 grams of butter, and 7 eggs per week, regardless of size <a class="yt-timestamp" data-t="00:30:38">[00:30:38]</a>.
+    *   The average monthly wage in 1984 was $15 <a class="yt-timestamp" data-t="00:30:49">[00:30:49]</a>, and people were forbidden from keeping their own livestock <a class="yt-timestamp" data-t="00:30:52">[00:30:52]</a>.
+    *   Even in Tirana, water and electricity were only available for a few hours daily <a class="yt-timestamp" data-t="00:30:57">[00:30:57]</a>.
+    *   Technology was decades behind, with a 1984 exhibition showcasing tractor technology from the 1920s <a class="yt-timestamp" data-t="00:31:31">[00:31:31]</a>.
+
+## Post-Hoxha Reforms and Transition
+
+After Hoxha's death in 1985, his successor Ramiz Alia sought to introduce gradual economic changes, slowly moving away from the [[Economic history of the Soviet Union | self-reliance]] philosophy <a class="yt-timestamp" data-t="00:32:20">[00:32:20]</a>. In 1986, he made quiet outreaches to the West, establishing diplomatic relations and relaxing travel restrictions <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>.
+
+However, these small reforms were insufficient to stem the tide <a class="yt-timestamp" data-t="00:32:46">[00:32:46]</a>. By 1989, Communist governments across Eastern Europe began to collapse <a class="yt-timestamp" data-t="00:32:56">[00:32:56]</a>. In July 1990, thousands occupied Western embassies, and massive protests erupted in Tirana <a class="yt-timestamp" data-t="00:33:01">[00:33:01]</a>. Widespread looting of schools, hospitals, and collective farms caused further damage to the economy <a class="yt-timestamp" data-t="00:33:16">[00:33:16]</a>. Industrial output in the third quarter of 1991 was 60% lower than the previous year <a class="yt-timestamp" data-t="00:33:27">[00:33:27]</a>. Alia's final attempts at reform failed, and he called for free elections <a class="yt-timestamp" data-t="00:33:34">[00:33:34]</a>.
+
+In March 1992, the Democratic Party won power <a class="yt-timestamp" data-t="00:33:52">[00:33:52]</a>. Albania underwent one of the fastest transitions to capitalism <a class="yt-timestamp" data-t="00:34:29">[00:34:29]</a>. However, even today, there remains a profound need for further [[Moldovas economic struggles postSoviet Union | economic reform]] <a class="yt-timestamp" data-t="00:34:33">[00:34:33]</a>. The pursuit of total [[Economic history of the Soviet Union | economic self-reliance]] led Albania down a path of anti-development and into madness <a class="yt-timestamp" data-t="00:34:19">[00:34:19]</a>.

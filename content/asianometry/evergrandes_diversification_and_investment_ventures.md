@@ -1,0 +1,35 @@
+---
+title: Evergrandes diversification and investment ventures
+videoId: 3GgE_Uzpofo
+---
+
+From: [[asianometry]] <br/> 
+
+[[history_and_growth_of_evergrande_group | Evergrande Group]], a sprawling company founded by [[leadership_and_management_of_evergrande | Xu Jiayin]] in 1997, initially rose to prominence as China's largest real estate conglomerate <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. While its early strategy was primarily focused on rapid real estate development through high debt, high leverage, high turnover, and low cost (known as "san gao yidi") <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>, the company increasingly pursued a strategy of diversification into various non-real estate sectors.
+
+## Early Forays Beyond Real Estate
+
+### Sports Investment
+A year after its IPO in 2009, [[history_and_growth_of_evergrande_group | Evergrande]] began its diversification efforts by investing in sports. In 2010, the company acquired the Guangzhou football (soccer) club for 100 million RMB (approximately 15 million USD) <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>. Under [[leadership_and_management_of_evergrande | Evergrande]]'s ownership, the club achieved significant success, winning seven straight Chinese Super League championships and the Asian Champions League title in 2013 <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>.
+
+### Consumer Goods - Mineral Water
+During the 2013 Asian Champions League event, [[history_and_growth_of_evergrande_group | Evergrande]] formally entered the consumer goods industry with its mineral water product, Evergrande Bincheon (Evergrande Ice Spring) <a class="yt-timestamp" data-t="00:13:45">[00:13:45]</a>. Marketed as coming from the deep mineral springs of Changbai Mountain, the product set ambitious sales targets of 10 billion RMB (1.5 billion USD) in 2014 and 30 billion RMB (4.6 billion USD) by 2016 <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>. However, the brand struggled to make a profit despite high gross margins <a class="yt-timestamp" data-t="00:15:02">[00:15:02]</a>. In 2016, [[history_and_growth_of_evergrande_group | Evergrande]] sold its shares in the mineral water business and other associated food products for 2.7 billion RMB (405 million USD), offloading 3.3 billion RMB (510 million USD) in debt in the process <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>.
+
+### Healthcare and Beauty
+In mid-2014, [[leadership_and_management_of_evergrande | Xu Jiayin]] unveiled a new strategy: "diversity + scale + brand," aiming to expand the company's operations beyond real estate <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>. Three months after this announcement, [[history_and_growth_of_evergrande_group | Evergrande]] acquired Yen-chen Plastic Surgery, a chain of clinics, placing [[leadership_and_management_of_evergrande | Xu]]'s wife, Yang Huaying, in charge <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>.
+
+## High-Tech and New Energy Vehicles (NEVs)
+
+In 2018, observing a shift in [[chinese_governments_response_and_regulations_affecting_evergrande | Chinese government]] priorities towards technological independence following U.S. sanctions on ZTE, [[leadership_and_management_of_evergrande | Xu]] announced [[history_and_growth_of_evergrande_group | Evergrande]]'s entry into the high-tech industry <a class="yt-timestamp" data-t="00:20:26">[00:20:26]</a>. This included quantum computing, AI, life sciences, and, notably, new energy vehicles (NEVs) <a class="yt-timestamp" data-t="00:20:52">[00:20:52]</a>.
+
+After an unsuccessful attempt to acquire American EV company Faraday Future, [[history_and_growth_of_evergrande_group | Evergrande]] decided to pursue EV development independently <a class="yt-timestamp" data-t="00:20:58">[00:20:58]</a>. In November 2019, the company announced a 45 billion RMB (7 billion USD) investment over three years for EV development <a class="yt-timestamp" data-t="00:21:05">[00:21:05]</a>. This venture was integrated into an existing Hong Kong-listed health company, Evergrande Health Industry Group Limited, which was subsequently renamed Evergrande Auto <a class="yt-timestamp" data-t="00:21:16">[00:21:16]</a>. This subsidiary was a "Frankenstein's monster" of previously acquired entities, including a gossip magazine publisher and plastic surgery clinics <a class="yt-timestamp" data-t="00:21:30">[00:21:30]</a>.
+
+In August 2020, Evergrande Auto unveiled six vehicles under its "Hangqi" brand <a class="yt-timestamp" data-t="00:22:02">[00:22:02]</a>. The company secured 500 million USD in investment from Tencent, Didi, Sequoia Capital, and Jack Ma's Yunfeng Capital <a class="yt-timestamp" data-t="00:22:17">[00:22:17]</a>. Key deals included a partnership with Guanghui Group, China's largest automobile dealer, for sales network establishment, and State Grid Corporation of China for nationwide charging stations <a class="yt-timestamp" data-t="00:22:31">[00:22:31]</a>.
+
+This EV euphoria led to Evergrande Auto's valuation surging to nearly 90 billion USD by April 2021, exceeding American automaker Ford Motors despite not having sold a single car <a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>. The subsidiary was losing billions of RMB annually and generated more revenue from plastic surgery than EVs <a class="yt-timestamp" data-t="00:23:15">[00:23:15]</a>. This "bubble" eventually burst, and the stock crashed by over 95% <a class="yt-timestamp" data-t="00:23:38">[00:23:38]</a>.
+
+## Wealth Management Products
+Beyond its formal diversification, [[history_and_growth_of_evergrande_group | Evergrande]] also utilized high-yielding wealth management fund products to raise capital <a class="yt-timestamp" data-t="00:29:21">[00:29:21]</a>. These products, often sold initially to employees who then resold them to friends and family, amounted to about 40 billion RMB (6.2 billion USD) <a class="yt-timestamp" data-t="00:29:27">[00:29:27]</a>. Missed repayments on these obligations in September 2021 led to protests at Evergrande's headquarters <a class="yt-timestamp" data-t="00:29:42">[00:29:42]</a>.
+
+## Conclusion
+[[history_and_growth_of_evergrande_group | Evergrande]]'s rapid diversification into sports, consumer goods, healthcare, and high-tech industries, particularly electric vehicles, was part of a strategy to build an empire and potentially reduce reliance on its core real estate business <a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>. However, these ventures often faced profitability challenges and were sometimes funded through aggressive [[financial_strategies_and_challenges_faced_by_evergrande | debt]] and off-balance sheet arrangements <a class="yt-timestamp" data-t="00:24:26">[00:24:26]</a>, ultimately contributing to the company's precarious [[financial_strategies_and_challenges_faced_by_evergrande | financial state]] and massive liabilities <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>.

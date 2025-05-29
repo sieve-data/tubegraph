@@ -1,0 +1,69 @@
+---
+title: Role of Soviet technology transfer in Chinas nuclear development
+videoId: ZpBxBuIzbV8
+---
+
+From: [[asianometry]] <br/> 
+
+On October 16, 1964, the People's Republic of China (PRC) detonated its first domestically produced atomic bomb, joining the United States, Soviet Union, and Great Britain as one of the five Atomic Powers <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. It took China less than five years to produce a working nuclear weapon <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. The [[sinosoviet_nuclear_cooperation_and_its_challenges | Sino-Soviet nuclear cooperation]] played a significant, albeit complex and ultimately contentious, role in China's atomic ambitions.
+
+## Initial Chinese Aspirations and Soviet Reluctance
+
+Mao Zedong and the Chinese Communist Party leadership feared possible American nuclear intervention during the Chinese Civil War <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. When Mao visited Stalin in December 1949, he sought the assurance of a nuclear umbrella over China <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. However, the Soviets, who had only recently broken the Western nuclear monopoly, were reluctant to explicitly grant such an umbrella <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. The Sino-Soviet Treaty of Friendship, Alliance, and Mutual Assistance vaguely stated that in the event of an invasion, the other signatory country would "render assistance," with Zhou Enlai suggesting the addition of "with all means at its disposal" <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. Nuclear weapons were never formally written into the agreement <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+
+This ambiguity was tested during the Korean War, as the Chinese worried about potential American nuclear attacks if they intervened <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. Although Mao's bet that Americans would not risk all-out nuclear warfare worked, subsequent threats of nuclear weapons from the U.S., including comments from Secretary of State John Foster Dulles and General Curtis LeMay, deeply impacted Chinese leadership, who termed it "nuclear blackmail" <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. The First Taiwan Strait Crisis (1954-1955) and the U.S.-Republic of China mutual defense treaty further underscored the urgency for China to develop its own atomic weapon <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>.
+
+Under Stalin, the Soviets never transferred any atomic technology, only offering rhetorical protection <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+
+## Khrushchev's Era of Cooperation
+
+Upon Stalin's death in 1953, Nikita Khrushchev rose to power and sought Chinese support to boost his domestic influence <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. In October 1954, Mao Zedong directly asked Khrushchev for assistance with China's nuclear weapons program <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>. Although initially surprised and advocating for economic development, Khrushchev eventually agreed to [[sinosoviet_nuclear_cooperation_and_its_challenges | cooperate on certain items for peaceful atomic energy use]] <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+
+In April 1955, the Sino-Soviet atomic cooperation treaty was signed. Under this agreement, the Soviets provided:
+*   A 6,500 to 10,000 kilowatt experimental nuclear power plant <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+*   A 12.5 to 25 Mega electron volt cyclotron <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>.
+*   A team of nuclear experts, led by the head of the Soviet Institute of Nuclear Physics, who gave lectures to 1,400 [[chinese_scientists_contributions_to_nuclear_development | Chinese scientists]] and Zhou Enlai <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>.
+*   Assistance in exploring China's uranium reserves in Xinjiang, with surplus uranium to be exported to the Soviet Union <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+
+In February 1956, Khrushchev further expanded cooperation, agreeing to send more Chinese students to the Soviet Union and help build nuclear research facilities in China <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>. During this period, [[sinosoviet_nuclear_cooperation_and_its_challenges | Sino-Soviet relations]] were strong, yet the Chinese leadership viewed it as an "alliance of convenience" <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>. China significantly increased its science research funding to leverage this cooperation <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
+
+## The Atomic Bomb Technology Transfer Agreement (1957)
+
+Up until 1957, Soviet transfers primarily aided peaceful atomic energy development <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>. While this was helpful, the Chinese already had some knowledge of accelerators and reactors from published Western literature <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. A nuclear weapon, however, required specialized techniques and extensive infrastructure, which the Soviets were reluctant to share directly <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>.
+
+However, anti-communist protests in Hungary and Poland in late 1956 weakened the Soviets, making them dependent on their primary foreign ally <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>. In 1957, against military advice, Khrushchev decided to transfer atomic bomb technology to China <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
+
+In October 1957, the Agreement on Production of New Weapons and Military Technology Equipment and Establishment of a Comprehensive Atomic Energy Industry in China was signed <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>. This agreement included provisions for:
+*   A teaching model atomic bomb, complete with designs and documentation <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
+*   Technology for casings, processing uranium and plutonium, and testing guidance <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>.
+*   Transfer of Soviet R-12 intercontinental ballistic missiles <a class="yt-timestamp" data-t="00:12:39">[00:12:39]</a>.
+
+Despite Khrushchev's later claims of transferring "deepest secrets," Soviet scientists were instructed to limit disclosures, often being "extremely passive" in their teaching <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. A Soviet lecture on July 15, 1958, covering nuclear weapon theory, structure, and assembly, was criticized by the Chinese for providing "completely wrong data" and lacking documentation, parameters, or formulas <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>. Dr. Chen San Chang, a [[chinese_scientists_contributions_to_nuclear_development | Chinese scientist]] familiar with Western nuclear concepts, stated that the information provided was similar to what could be obtained from "capitalist countries, but with a few more details" <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>.
+
+Regardless, the scale of general technology transferred was massive. The Soviets collaborated on uranium prospecting and mining, although the Chinese claimed Soviet advice on prospecting sedimentary soils was unhelpful, as their best deposits were found in granite <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>.
+
+For bomb production, China pursued a dual-track approach using both uranium-235 and plutonium <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>. The Soviets deeply influenced the production of uranium-235, which required a gaseous diffusion plant <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>. China's gaseous diffusion plant in Lanzhou City, Gansu Province, was spotted by U.S. aerial reconnaissance as early as August 1959 <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>. For plutonium, China built an integrated plutonium fuel facility in the Jiuquan prefecture, also utilizing an early Soviet design for its reactor and chemical separation plant <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>. This deep military technology cooperation lasted from 1957 to 1960 <a class="yt-timestamp" data-t="00:14:55">[00:14:55]</a>.
+
+## The [[sinosoviet_nuclear_cooperation_and_its_challenges | Sino-Soviet Split]] and Aid Withdrawal
+
+The [[sinosoviet_nuclear_cooperation_and_its_challenges | Sino-Soviet split]] emerged from underlying issues, including Khrushchev's secret speech criticizing Stalin, which infuriated Mao <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>. Mao's controversial statement at the 1957 Moscow Conference, suggesting that half of mankind could die in a nuclear war but socialism would prevail, caused dismay in the Soviet leadership <a class="yt-timestamp" data-t="00:15:26">[00:15:26]</a>.
+
+In early 1958, the Soviets reneged on the crucial "teaching bomb prototype" deliverable, citing Mao's comments and worsening relations <a class="yt-timestamp" data-t="00:16:10">[00:16:10]</a>. Despite Chinese efforts to pick it up, the bomb transfer was indefinitely postponed <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>. The Second Taiwan Strait Crisis in 1958, where Mao initiated shelling that risked nuclear war, further convinced Khrushchev he had made a mistake <a class="yt-timestamp" data-t="00:16:57">[00:16:57]</a>.
+
+In June 1959, Khrushchev sent a letter terminating military cooperation, and Soviet military advisors were recalled, with the last leaving by July 1960 <a class="yt-timestamp" data-t="00:17:23">[00:17:23]</a>. Ultimately, 40% of the promised equipment and raw materials never arrived, and only a minority of the 30 [[sinosoviet_nuclear_cooperation_and_its_challenges | Sino-Soviet nuclear industry projects]] were completed, forcing China to restart many efforts <a class="yt-timestamp" data-t="00:17:45">[00:17:45]</a>.
+
+## Chinese Self-Reliance and the "596 Project"
+
+The withdrawal of Soviet advisors was a blow, but also reinforced the Chinese belief that Soviet technical aid was untrustworthy <a class="yt-timestamp" data-t="00:18:03">[00:18:03]</a>. In January 1960, China launched the "596 project," named to commemorate the date of the Soviet aid withdrawal, symbolizing a push for self-reliance <a class="yt-timestamp" data-t="00:18:27">[00:18:27]</a>. Zhou Enlai declared that China would achieve a breakthrough in three years, master technical know-how in five, and have a stockpile of bombs in eight <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>.
+
+Amidst the economic and social pressures of the Great Leap Forward, China abandoned the plutonium bomb track and focused solely on the uranium-235 design <a class="yt-timestamp" data-t="00:18:52">[00:18:52]</a>. Chinese technicians at the Lanzhou facility worked to source materials and supplies, even amidst food shortages <a class="yt-timestamp" data-t="00:19:06">[00:19:06]</a>. By late 1961, the Lanzhou plant's machinery was successfully installed <a class="yt-timestamp" data-t="00:20:08">[00:20:08]</a>. They found substitutes for many Soviet components, including a special lubricant the Soviets had taken with them <a class="yt-timestamp" data-t="00:20:20">[00:20:20]</a>. By mid-1963, Lanzhou scientists were isolating uranium-235, achieving 90% enrichment by January 1964 <a class="yt-timestamp" data-t="00:20:33">[00:20:33]</a>.
+
+For the bomb design, China chose an implosion design, similar to the Nagasaki bomb, but using uranium-235 <a class="yt-timestamp" data-t="00:21:21">[00:21:21]</a>. By the time the Soviets left in 1960, Chinese scientists had completed theoretical work, aided by some "sloppy shredding" of critical papers by the Soviets <a class="yt-timestamp" data-t="00:22:17">[00:22:17]</a>. Using hand calculators, they mastered implosion theory by late 1962 and had a final design a year later <a class="yt-timestamp" data-t="00:22:32">[00:22:32]</a>. The uranium arrived in late 1963 and was machined into the "596 bomb" <a class="yt-timestamp" data-t="00:22:47">[00:22:47]</a>.
+
+China's successful nuclear test caught both the Americans and Soviets off guard <a class="yt-timestamp" data-t="00:23:06">[00:23:06]</a>. American intelligence had underestimated the Chinese effort, particularly their ability to create a functional weapon from the Lanzhou gaseous diffusion plant without a dedicated plutonium facility <a class="yt-timestamp" data-t="00:23:44">[00:23:44]</a>.
+
+## Conclusion
+
+China's indigenous nuclear bomb program was a monumental undertaking, involving hundreds of thousands of people and costing staggering amounts for an undeveloped nation <a class="yt-timestamp" data-t="00:24:18">[00:24:18]</a>. The 10-year program cost an estimated 10.7 billion RMB or 4.1 billion dollars in 1957 prices <a class="yt-timestamp" data-t="00:24:35">[00:24:35]</a>.
+
+Scholars debate the exact extent of benefit from Soviet technology transfer <a class="yt-timestamp" data-t="00:24:57">[00:24:57]</a>. Deng Xiaoping reportedly stated that if the Soviets hadn't broken the treaty, China wouldn't have built the bombs so fast <a class="yt-timestamp" data-t="00:25:08">[00:25:08]</a>. While the Soviets provided substantial general technological aid and infrastructure, they withheld crucial direct knowledge for nuclear weapons design. However, the "sting and shame" of the abrogated treaty ultimately spurred China's resolve to complete the task independently <a class="yt-timestamp" data-t="00:25:23">[00:25:23]</a>.

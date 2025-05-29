@@ -1,0 +1,42 @@
+---
+title: Technological advancements in solar energy
+videoId: QoCoPmtNRJo
+---
+
+From: [[asianometry]] <br/> 
+
+At the start of the 21st century, [[chinas_rise_in_the_solar_industry | China's solar cell industry]] was significantly behind those in Japan, Germany, and the United States, holding only about 3% of the market share as late as 2003 <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. However, in less than ten years, the Chinese solar industry absorbed foreign technical expertise and developed its own indigenous capacity, leading it to outcompete Western incumbents <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>. By 2013, China accounted for 60% of global solar cell production <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. These advancements contributed to solar energy becoming one of the cheapest sources of renewable energy available globally today <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+
+## Early Developments in China
+
+China began working on solar cell technology in the 1950s <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. The Chinese Academy of Sciences developed China's first solar cell, a single crystal <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. By 1971, China was using its indigenously developed solar cells on its space satellites <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. At this time, Chinese solar products were comparable to those made by the West in terms of energy efficiency <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. However, due to the Cultural Revolution and subsequent economic downturns, the industry fell behind Western competitors <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. Attempts by the Chinese government in the 1980s to update the technology, such as acquiring companies and research institutes, did not significantly boost innovation, as other energy sources were more cost-effective <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
+
+## European Efficiency and Competition
+
+The German government's promotion of a subsidy scheme for renewable energy, starting in 1991, led to a surge in demand for solar energy from European utilities <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. This system, known as a "feed-in tariff," guaranteed payments for electricity generated from solar, wind, or hydro <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+
+[[challenges_and_setbacks_of_european_solar_companies | Q-Cells]], a German company founded in 1999, became a leading European solar company. It began producing solar cells in 2001 and quickly scaled up, becoming the fourth-largest in the industry by 2004 <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. [[challenges_and_setbacks_of_european_solar_companies | Q-Cells]] distinguished itself through its investment in R&D, which resulted in highly efficient products <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. It was one of the first European industrial companies to commercially ship solar cells with over 15% efficiency, referring to the percentage of sunlight energy converted into electricity <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
+
+## Manufacturing and Material Advancements
+
+The solar industry involves various functions, including R&D, cell and panel manufacturing, silicon purification, and module assembly <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. Companies involved in manufacturing solar cells and panels historically make the least profits, while those involved in installation or specialized materials like purified silicon (polysilicon) capture more value <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
+
+The physical process of producing solar cells from wafer onwards is highly automated <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>. Western countries did not consider solar module production technology a protected category <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>. This allowed Chinese companies to easily enter the market by purchasing the most advanced solar cell manufacturing equipment, much of it from Germany <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. By replacing expensive German workers with cheaper Chinese labor, they gained a significant price advantage, sometimes as high as 20% <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
+
+### Polysilicon Production
+
+Polysilicon, the super-pure silicon used as a raw ingredient for solar cells, was controlled by a handful of firms in Germany, Japan, South Korea, and the US, with profit margins over 50% <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>. During the solar cell boom, polysilicon prices reached $300 per kg, despite costing only $35 per kg to make <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. Incumbent polysilicon producers were unwilling to share their technology with China <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>. Chinese companies, like Yingli, invested heavily in creating their own polysilicon factories, such as a joint venture with American company GTAT in Liujiu <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>. While initially successful, this became a burden when polysilicon prices crashed <a class="yt-timestamp" data-t="00:11:56">[00:11:56]</a>.
+
+### Localization of Equipment
+
+A more successful vertical integration strategy for [[chinas_rise_in_the_solar_industry | Chinese solar companies]] was the localization of solar cell manufacturing equipment <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>. Local equipment had a strong cost advantage, up to a third of the import cost, and eventually performed better than foreign counterparts <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>. Within five years, Chinese manufacturers halved their dependence on foreign technology <a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>.
+
+## Breakthroughs in Cell Efficiency
+
+[[chinas_rise_in_the_solar_industry | Chinese solar companies]] also took the lead in producing cutting-edge products <a class="yt-timestamp" data-t="00:12:38">[00:12:38]</a>. In 2009, Yingli Green Energy announced a new line of "Panda cells" that could achieve up to 19.6% solar efficiency in the lab <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>. This research was a collaboration with companies and universities in the Netherlands, highlighting the global nature of the solar industry <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>. These [[chinas_rise_in_the_solar_industry | Chinese companies']] [[technological_advancements_in_semiconductor_manufacturing | technological advancements]] and integration efforts further extended their cost advantage, significantly reducing the cost to 1 RMB per KW <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>.
+
+## Global Impact and Knowledge Transfer
+
+The rise of [[chinas_rise_in_the_solar_industry | China's solar industry]] was aided by its entry into the World Trade Organization in 2001, which turbocharged its export machine and allowed it to capitalize on loosened trade barriers <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>. Local and provincial [[the_role_of_government_policies_and_subsidies_in_the_solar_market | government policies]] in China provided cheap loans and subsidies to solar companies <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. Crucially, American capital also heavily backed these Chinese companies, with many listing on American stock exchanges <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
+
+The technical progression in solar technology from China and the rest of the world has been instrumental in making solar and other renewables part of the solution to climate change <a class="yt-timestamp" data-t="00:20:37">[00:20:37]</a>. The ability of Chinese companies to buy advanced German equipment, secure funding from American investors, and benefit from Chinese nationals bringing expertise back home were all crucial factors in the success of the [[chinas_rise_in_the_solar_industry | Chinese solar industry]] <a class="yt-timestamp" data-t="00:20:06">[00:20:06]</a>. This experience has parallels with [[technological_advancements_in_semiconductor_manufacturing | semiconductor trade issues]] today <a class="yt-timestamp" data-t="00:20:29">[00:20:29]</a>.

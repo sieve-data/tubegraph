@@ -1,0 +1,40 @@
+---
+title: Mergers and acquisitions involving Sharp
+videoId: wK7bGdUcibM
+---
+
+From: [[asianometry]] <br/> 
+
+Japan's Sharp Corporation, known for its iconic products like the mechanical pencil, calculators, and TVs, faced increasing competition starting at the turn of the century <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This led to significant financial challenges, ultimately culminating in foreign takeovers and strategic partnerships <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
+
+## Initial Growth and Product Diversification
+Founded by Takuji Hayakawa, Sharp began as a metal workshop in Tokyo in 1912 <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. Hayakawa's early inventions, like the "tokubido" belt buckle and the superior Hayakawa mechanical pencil, quickly led to business expansion <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. After a devastating earthquake in 1923, Hayakawa rebuilt his business in Osaka, venturing into crystal radios and eventually vacuum tube radios <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
+
+The company, renamed Hayakawa Electric Company in 1942, diversified into various electronics, including Japan's first commercially available television in 1953 <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. They also produced Japan's first microwave and solar-powered consumer electronics <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>. A key product that put Sharp on the global map was its line of calculators, starting with the CS-10A Comat in 1964 <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>. The company's name officially changed to Sharp Corporation in 1970 <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>.
+
+## Strategic Shift to LCDs and Missed Opportunities
+By the late 1990s, Sharp's profits were in decline, with its LCD panels and related products being the company's one bright spot, responsible for 30% of revenues <a class="yt-timestamp" data-t="00:16:22">[00:16:22]</a>. In 1998, President Katsuhiko Machida repositioned Sharp's LCD business at its core, aiming for every product to be related to LCD technology <a class="yt-timestamp" data-t="00:16:48">[00:16:48]</a>. This bold pivot involved ditching their venerable CRT television business and going all-in on LCD televisions with the Aquos brand <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>.
+
+Despite initial success, with Aquos capturing 80% global market share in the young LCD TV market by 2001 <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>, competition from South Korean giants like Samsung and LG rapidly caught up <a class="yt-timestamp" data-t="00:18:17">[00:18:17]</a>. Sharp responded by investing billions into new TFT LCD factories, such as the Kamiyama plant <a class="yt-timestamp" data-t="00:18:34">[00:18:34]</a>, a move that strained company finances <a class="yt-timestamp" data-t="00:19:32">[00:19:32]</a>.
+
+## Failed Partnership with Sony
+In 2007, Sharp announced a new set of factories in Sakai, Osaka, projected to cost 3.4 billion USD <a class="yt-timestamp" data-t="00:22:07">[00:22:07]</a>. To secure buyers for the massive output, Sharp reached out to fellow Japanese TV makers, including Sony <a class="yt-timestamp" data-t="00:22:31">[00:22:31]</a>. In February 2008, Sony, then the second-largest LCD manufacturer, announced an agreement to take a 33% ownership share in the Sakai factories, named Sharp Display Products <a class="yt-timestamp" data-t="00:22:40">[00:22:40]</a>.
+
+However, Sharp failed to properly manage relations between its TV and display panel divisions, causing its own Aquos TV sales to compete with Sony's products <a class="yt-timestamp" data-t="00:22:56">[00:22:56]</a>. This led to shortages and delays for Sony <a class="yt-timestamp" data-t="00:23:12">[00:23:12]</a>. Ultimately, Sony did not go through with its planned 33% purchase, never owned more than seven percent, and eventually sold its entire stake back to Sharp <a class="yt-timestamp" data-t="00:23:15">[00:23:15]</a>.
+
+## The Global Financial Crisis and Mounting Losses
+The global financial crisis hit Sharp hard in 2008, leading to sales collapse and increased losses <a class="yt-timestamp" data-t="00:23:34">[00:23:34]</a>. In March 2009, Sharp announced its first net loss since going public in 1956 <a class="yt-timestamp" data-t="00:23:40">[00:23:40]</a>. Despite admitting mistakes in local production investment, they continued to invest heavily in Sakai Display (formerly Sharp Display Products) <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>.
+
+By 2009, Sharp's TV market share plummeted to 6-7% <a class="yt-timestamp" data-t="00:24:07">[00:24:07]</a>, while operating utilization for the Sakai plant fell to less than 50% <a class="yt-timestamp" data-t="00:24:18">[00:24:18]</a>. The inability to balance LCD panel supply and TV businesses led to losses in both sectors <a class="yt-timestamp" data-t="00:24:24">[00:24:24]</a>. By March 2012, Sharp's sales had declined by $10 billion from 2008, and the company posted a net loss of over $5 billion, nearing bankruptcy <a class="yt-timestamp" data-t="00:24:31">[00:24:31]</a>.
+
+## Foxconn's Acquisition of Sharp
+In 2012, Foxconn, the Taiwanese electronics manufacturing giant, purchased a 9.9% stake in Sharp for approximately $854 million, along with a larger share in Sakai Display <a class="yt-timestamp" data-t="00:25:02">[00:25:02]</a>. Foxconn's interest stemmed from its "land and expand" business model, aiming to vertically integrate its supply chain by acquiring component manufacturers, with displays being the most expensive component in electronics gadgets <a class="yt-timestamp" data-t="00:25:20">[00:25:20]</a>. Foxconn had previously helped Taiwan's Innolux acquire other display companies to become a major TFT LCD panel maker <a class="yt-timestamp" data-t="00:25:51">[00:25:51]</a>.
+
+Foxconn initially sought a more substantial partnership or even an acquisition, but Sharp declined for several more years despite continued losses <a class="yt-timestamp" data-t="00:26:06">[00:26:06]</a>. In 2012, Sony, Toshiba, and Hitachi merged their LCD divisions to create Japan Display Inc. (JDI), which competed directly with Sharp, causing further pain to both <a class="yt-timestamp" data-t="00:26:40">[00:26:40]</a>. Sharp also missed critical industry transitions, such as the shift to LED backlit LCD screens and OLED technology <a class="yt-timestamp" data-t="00:26:56">[00:26:56]</a>.
+
+After a staggering $5 billion loss in March 2013, Sharp's top leadership exited <a class="yt-timestamp" data-t="00:27:09">[00:27:09]</a>. By 2013, Sharp and Fujitsu were losing their grip on the Japanese domestic smartphone market to Apple <a class="yt-timestamp" data-t="00:27:22">[00:27:22]</a>.
+
+In 2016, after three more difficult years, Sharp finally accepted Foxconn's offer to purchase a controlling 66% stake for $6.2 billion <a class="yt-timestamp" data-t="00:27:46">[00:27:46]</a>. However, Foxconn revised the offer down to $3.8 billion upon discovering new financial liabilities <a class="yt-timestamp" data-t="00:27:58">[00:27:58]</a>. Despite other proposals, Sharp's bank creditors sided with Foxconn <a class="yt-timestamp" data-t="00:28:09">[00:28:09]</a>. This acquisition marked the first foreign takeover of a leading Japanese electronics firm <a class="yt-timestamp" data-t="00:28:17">[00:28:17]</a>.
+
+## Post-Acquisition Era
+Under Taiwanese management, led by new CEO Tai Jung-woo, Sharp cut costs, closed unprofitable overseas ventures, reduced employees, and moved production out of Japan <a class="yt-timestamp" data-t="00:28:31">[00:28:31]</a>. In its first full year under Foxconn, Sharp turned a profit for the first time in four years <a class="yt-timestamp" data-t="00:28:40">[00:28:40]</a>. Tai reoriented the company back towards producing branded electronics products and Foxconn began rebuilding Sharp's semiconductor manufacturing business <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>.

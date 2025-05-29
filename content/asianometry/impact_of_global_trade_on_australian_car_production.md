@@ -1,0 +1,59 @@
+---
+title: Impact of global trade on Australian car production
+videoId: SAhBpCLsA2I
+---
+
+From: [[asianometry]] <br/> 
+
+The Australian automobile industry, which once employed 100,000 people and produced tens of thousands of vehicles for domestic and export markets, has largely vanished, with the last major factory closing in 2017 <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This decline was significantly influenced by global trade dynamics and policy responses.
+
+## Early Growth and Protectionism
+
+Emerging from World War II, the Australian government actively sought to rebuild its economy and foster manufacturing, with car manufacturing identified as a high priority <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>. To achieve this, the government offered foreign companies subsidies and tax concessions to encourage production on Australian soil <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>. Several international manufacturers, including Volkswagen, British Motors Leyland, and Ford, entered the market <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>. While many facilities primarily assembled imported parts, companies like GM Holden, an Australian subsidiary of the American automaker, engaged in more value-added activities <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>. GM Holden produced the first all-Australian car in 1948, which was uniquely suited for Australia's rural areas and dominated the market throughout the 1950s <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>.
+
+This domestic manufacturing industry initially thrived within a protected market, where high tariffs ensured demand for local employers <a class="yt-timestamp" data-t="02:48:00">[02:48:00]</a>. These tariffs made foreign goods more expensive in Australia, a protectionist stance deeply ingrained in the national psyche since Federation <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>.
+
+### Dual Nature of Foreign Ownership
+
+While the Australian car industry benefited from being part of a larger globalized network, allowing Australian-made auto components to be produced at scale and exported, a significant drawback was that Australian car-making companies were not owned by Australians <a class="yt-timestamp" data-t="03:49:00">[03:49:00]</a>. Profits flowed to Japanese or American headquarters, and foreign executives lacked emotional attachment to Australia, making core decisions based purely on the bottom line <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>. This "worst of both worlds" situation eventually became a significant problem <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>.
+
+## Decline and Increased Global Competition
+
+At the start of the 1970s, the domestic automotive manufacturing industry employed over 100,000 people <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>. However, the 1970s saw a substantial loss of competitiveness <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>. Automakers were producing too many models (five companies producing 15 models), leading to individual production runs as small as 25,000 units and a lack of economies of scale <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>. Furthermore, the industry's focus on rugged rural cars like the Holden Ute failed to adapt to the majority of Australians living in cities, creating a market gap for smaller vehicles <a class="yt-timestamp" data-t="05:24:00">[05:24:00]</a>.
+
+This gap allowed Japanese imports—high-quality, low-cost small cars—to gain a significant foothold in the market, with sales growing rapidly despite existing tariffs <a class="yt-timestamp" data-t="05:33:00">[05:33:00]</a>. The 1972 election of the Whitlam government, which did not favor foreign multinational car makers, ushered in substantial reforms <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>. Concerned about rising inflation, the government sought to reduce tariffs and other trade barriers, believing it would give the domestic industry a competitive jolt <a class="yt-timestamp" data-t="06:19:00">[06:19:00]</a>. Officials were confident the Australian economy could withstand a rapid drop in trade protections, partly because lower tariffs would expand international trade opportunities and help cement a reorientation towards Japan, and partly because Japan and other developing countries were buying vast amounts of Australian minerals <a class="yt-timestamp" data-t="06:51:00">[06:51:00]</a>.
+
+In 1973, an abrupt 25% reduction in all tariffs on imported goods was implemented <a class="yt-timestamp" data-t="07:37:00">[07:37:00]</a>. This confrontational tactic led to industry opposition, with GM Holden firing 5,000 workers <a class="yt-timestamp" data-t="07:49:00">[07:49:00]</a>. The OPEC oil embargo and the collapse of the Bretton Woods international monetary regime that same year ended post-war prosperity, causing oil prices to soar and leading to increased sales of gas-sipping, four-cylinder cars dominated by Japanese manufacturers <a class="yt-timestamp" data-t="08:08:00">[08:08:00]</a>.
+
+Even as foreign companies increasingly dominated the market, two major Japanese automakers, Toyota and Nissan, established domestic Australian assembly operations to bypass tariffs, further bloating the domestic market <a class="yt-timestamp" data-t="09:16:00">[09:16:00]</a>. The decline of the six-cylinder car market led to thousands of job losses throughout the 1970s <a class="yt-timestamp" data-t="10:01:00">[10:01:00]</a>, with British Motors Leyland closing Australian operations in 1975, cutting 2,600 jobs <a class="yt-timestamp" data-t="10:09:00">[10:09:00]</a>.
+
+The collapse of Australia's automobile exports throughout the 1970s, dwindling from 60,000 units in 1970 to a few hundred by 1979, signaled to government officials that the domestic car industry was uncompetitive <a class="yt-timestamp" data-t="11:41:00">[11:41:00]</a>. Unlike Japan's Ministry of International Trade and Industry (MITI), which orchestrated mergers to create national champions like Toyota and Nissan, the Australian government opted for a different path, influenced by faith in rationalism and the deregulated market <a class="yt-timestamp" data-t="12:13:00">[12:13:00]</a>.
+
+## Further Deregulation and Challenges
+
+The mid-1980s saw major macroeconomic policy changes, including banking sector deregulation, financial market liberalization, and floating the Australian dollar, aiming to reorient domestic manufacturing toward exports <a class="yt-timestamp" data-t="12:48:00">[12:48:00]</a>. The "new car plan" introduced in late 1983 offered manufacturers credits and temporary subsidies for Australian-made cars but also rapidly reduced import tariffs from 57.5% to 45% by 1988, with further reductions planned until 2000 <a class="yt-timestamp" data-t="13:39:00">[13:39:00]</a>. Import quotas were removed to create a leaner domestic industry <a class="yt-timestamp" data-t="14:05:00">[14:05:00]</a>.
+
+While the industry shrank, with plant closures by all domestic automakers in the 1980s and 90s, Australian-made cars became even less competitive <a class="yt-timestamp" data-t="14:12:00">[14:12:00]</a>. Foreign companies had primarily entered the Australian market to bypass trade protections, and when these protections vanished, they saw little reason to maintain expensive manufacturing operations there <a class="yt-timestamp" data-t="14:45:00">[14:45:00]</a>.
+
+### The Mining Boom and Currency Appreciation
+
+Despite annual government support through schemes like the Automotive Competitive and Investment Scheme (ACIS), which cost the government billions, the domestic makers' share of the overall market continued to shrink into the 2000s <a class="yt-timestamp" data-t="15:26:00">[15:26:00]</a>. Concurrently, a decades-long mining boom, fueled by demand from developing countries like China and India, led to a dramatic appreciation of the Australian dollar <a class="yt-timestamp" data-t="15:50:00">[15:50:00]</a>. The Australian dollar doubled in value against the American dollar between 2001 and 2011, reaching parity <a class="yt-timestamp" data-t="16:09:00">[16:09:00]</a>. This stronger currency significantly increased the cost of Australian automotive production, leading to chronic losses for the sector and 25,000 job losses between 2003 and 2010 <a class="yt-timestamp" data-t="16:32:00">[16:32:00]</a>.
+
+Mitsubishi announced the closure of its engine and assembly plants in southern Adelaide in 2004, leading to 1,167 job losses <a class="yt-timestamp" data-t="16:46:00">[16:46:00]</a>. Despite government rescue packages, the plant ultimately closed in 2006 <a class="yt-timestamp" data-t="17:18:00">[17:18:00]</a>.
+
+### Final Stages of Decline
+
+The Global Financial Crisis prompted new government interventions, including targeted subsidies like the Green Car Innovation Fund and the Automotive Transformation Scheme, which subsidized investment and research in energy efficiency and green technology <a class="yt-timestamp" data-t="18:56:00">[18:56:00]</a>. A line of credit was also provided to GM Holden <a class="yt-timestamp" data-t="19:18:00">[19:18:00]</a>.
+
+However, the conservative Abbott government, which came to power in 2013, disagreed with government interventions in the automaking industry, stating that the government's role was not to prop up private business <a class="yt-timestamp" data-t="19:45:00">[19:45:00]</a>. The Australian automotive manufacturing industry was a shadow of its former self, with production far below the modern standard of 250,000 cars per factory per year <a class="yt-timestamp" data-t="20:41:00">[20:41:00]</a>. Australian labor was also significantly more expensive than that in emerging low-cost manufacturing hubs like China and Thailand <a class="yt-timestamp" data-t="21:04:00">[21:04:00]</a>.
+
+Ultimately, despite some efforts from Australian labor unions to compromise on wages and entitlements, government support proved crucial, and the perceived lack of it from the new government, coupled with policy uncertainty, led Toyota and GM to withdraw <a class="yt-timestamp" data-t="21:54:00">[21:54:00]</a>.
+
+## Consequences of Industry Demise
+
+The loss of Australia's domestic auto industry had wide-ranging consequences:
+*   **Impact on Components Industry**: The absence of a domestic assembly industry meant that many of the 260 Australian businesses supplying the automotive sector lacked sufficient economies of scale and closed <a class="yt-timestamp" data-t="23:01:00">[23:01:00]</a>. Many components previously exported also suffered, such as 70% of Toyota Camry parts once made in Australia <a class="yt-timestamp" data-t="23:16:00">[23:16:00]</a>.
+*   **Research and Development (R&D)**: R&D spending by Australian automotive companies, which amounted to $700 million AUD in its final years (2% of the country's total R&D), effectively vanished <a class="yt-timestamp" data-t="23:29:00">[23:29:00]</a>.
+*   **Job Losses**: Approximately 14,000 people lost their jobs after the Toyota and GM Holden factories closed <a class="yt-timestamp" data-t="23:54:00">[23:54:00]</a>.
+
+While the story of the Australian automotive industry's decline is complex, involving internal challenges and global pressures, the shift in global trade dynamics played a pivotal role <a class="yt-timestamp" data-t="25:28:00">[25:28:00]</a>. Australia's remote location and higher costs of living were significant factors <a class="yt-timestamp" data-t="25:39:00">[25:39:00]</a>. However, the Australian government is now exploring new avenues, with the former Toyota Altona factory being converted into a transport hub for green hydrogen technology, signaling a shift towards new [[future_prospects_for_australian_automotive_technology | automotive technologies]] <a class="yt-timestamp" data-t="26:30:00">[26:30:00]</a>.

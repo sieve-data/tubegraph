@@ -5,104 +5,65 @@ videoId: UEmlOjKmL68
 
 From: [[asianometry]] <br/> 
 
-In the 1970s and 80s, the Soviet Union successfully landed five probes on the surface of Venus, each surviving for over 30 minutes [00:00:00]. This remarkable [[engineering_design_of_venera_landers | engineering]] achievement has not been replicated by any other nation since [00:00:04]. The Venera (Russian for Venus) space series showcased the pinnacle of Soviet space exploration [00:16:56], overcoming immense [[challenges_of_landing_on_venus | challenges]] posed by the planet's extreme environment [00:00:25].
+In the 1970s and 1980s, the Soviet Union successfully landed five probes on the surface of Venus, each surviving for over 30 minutes <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. These [[venera_mission_successes_and_impacts | Venera missions]] represent a stunning [[engineering_breakthroughs_in_venera_landers | engineering achievement]] in space exploration <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
 
 ## The Hostile Environment of Venus
 
-Venus is often referred to as Earth's "evil twin" [00:01:09]. While similar in size and proximity to Earth, its atmosphere is vastly different due to a runaway greenhouse effect [00:01:16]. Landing on Venus is considered one of the hardest challenges in the Solar System, second only to the Sun [00:01:02].
+Venus, often called Earth's evil twin, is considered one of the hardest places to land in the Solar System, second only to the Sun <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. While similar in size to Earth, its atmosphere is vastly different due to a runaway greenhouse effect <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
+The Venusian surface reaches temperatures of 864 degrees Fahrenheit (462 Celsius), hotter than Mercury's <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. The surface pressure is equivalent to being over 0.5 miles (1 kilometer) underwater <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. This thick atmosphere presents significant [[challenges_of_landing_on_venus | challenges of landing on Venus]] <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. Additionally, its clouds are composed of sulfuric acid <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>, and atmospheric entry can heat a probe to 11,000 degrees Celsius due to friction <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
 
-### Extreme Conditions:
-*   **Temperature:** The Venusian surface reaches 864 degrees Fahrenheit (462 Celsius), hotter than Mercury's surface [00:01:29].
-*   **Pressure:** The surface pressure is equivalent to being over 0.5 miles (1 kilometer) underwater [00:01:37].
-*   **Atmospheric Composition:** Its thick clouds are made of sulfuric acid, a highly corrosive substance [00:01:44].
-*   **Atmospheric Entry:** During atmospheric entry, friction can heat probes to 11,000 degrees Celsius [00:01:55].
+## Early Attempts and Learning (Venera 1-6)
 
-## Early Venera Missions (Venera 4, 5, & 6)
+By late 1967, the Soviets had experienced eleven failures in their attempts to reach Venus <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. The goal of the Venera project (Venera being Russian for Venus) was to land a probe on the Venusian surface <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. With the space race in full swing, the Soviets aimed to surpass the Americans, who were sending a flyby probe, Mariner 5, to Venus around the same time <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. After Venera 3 failed to reach the ground, the entire Venera mission was transferred to the aerospace company Lavochkin <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
 
-The Soviet Union's pursuit of Venusian exploration was driven by the [[competition_between_soviet_union_and_united_states_in_space_exploration | space race]] [00:02:31]. Prior to Venera 4, there had been eleven failed launches to Venus [00:02:21]. The initial goal was to land a probe on the surface and "pierce the Venusian veil" before the Americans' flyby probe, Mariner 5, arrived in late 1967 [00:02:37].
+### Venera 4: First Atmospheric Data
 
-The Venera program was transferred to the aerospace company Lavochkin after Venera 3 failed [00:02:54].
+Venera 4, an 11-foot (3.5-meter) tall probe, launched in autumn 1967 <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. Its lander, a pressure shell with instruments and a parachute, successfully launched upon reaching Venus in October 1967 <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>. During atmospheric entry, temperatures hit 11,000 degrees Celsius and forces reached 450G <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+The onboard instruments began sending back atmospheric data, initially recording 102 degrees Fahrenheit (39 degrees Celsius) and Earth-like pressure <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. However, both measures quickly and unexpectedly rose <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>. After 93 minutes, while still over 27 kilometers above the surface, Venera 4 was crushed, likely near its top <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. At crush point, measurements showed 22 atmospheres and 530 degrees Fahrenheit (277 degrees Celsius) <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
+By this time, the American probe Mariner 5 had also reached Venus, sending back data on the planet's atmosphere and composition <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. Comparing their data, the Soviets and Americans concluded Venus was far hotter, drier, and more hostile than anticipated <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
 
-### Venera 4 (1967)
-*   **Design:** Stood 11 feet (3.5 meters) tall, with a bottom lander comprising instruments and a battery inside a pressure shell with a parachute [00:03:05].
-*   **Entry:** Reached Venus in October 1967 [00:03:18]. The lander entered the atmosphere, enduring temperatures of 11,000 degrees Celsius and entry forces of 450G [00:03:26].
-*   **Data & Failure:** Initially, temperatures (102°F/39°C) and pressure (similar to Earth's) were as anticipated, but they rapidly rose [00:03:40]. After 93 minutes, while still 27 kilometers above the surface, the probe cracked open and was crushed at 22 atmospheres and 530 degrees Fahrenheit (277 Celsius) [00:04:01].
-*   **Combined Data:** Data from Venera 4 and the American Mariner 5 revealed that Venus was a much hotter, drier, and more hostile planet than previously thought [00:04:30].
+### Venera 5 & 6: Incremental Improvements
 
-### Venera 5 & 6 (1969)
-*   **Design Limitations:** Due to tight deadlines for the 1969 launch window, major design changes were not possible, although engineers strengthened the landing probes [00:04:50].
-*   **Outcome:** These probes were not fully prepared for the extreme conditions [00:05:06].
-    *   Venera 5 transmitted data for 53 minutes before succumbing to pressures of 27 atmospheres and temperatures of 600 degrees Fahrenheit (320 Celsius) [00:05:09].
-    *   Venera 6 lasted for 51 minutes, reaching 37.8 kilometers into the atmosphere before being crushed [00:05:24].
+Despite the new understanding of Venus's harsh conditions, Venera 5 and 6 were already finalized for their 1969 launch <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. Engineers could only make minor strengthenings, leaving radical redesigns for later missions <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>.
+Venera 5 transmitted data for 53 minutes before succumbing to pressures of 27 atmospheres and temperatures of 600 degrees Fahrenheit (320 degrees Celsius) <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>. Venera 6 lasted 51 minutes, descending 37.8 kilometers into the atmosphere before also being crushed <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
 
-## Venera 7 & 8: First Successful Landings
+## Achieving the Surface (Venera 7 & 8)
 
-Determined to reach the surface, Soviet engineers intensified their efforts for the 1970 launch window [00:05:38]. They now knew the target conditions: 840 degrees Fahrenheit (450 Celsius) and 100 atmospheres, along with burning, corrosive acid [00:05:46].
+For the 1970 launch window, program directors were determined to reach the Venusian surface, armed with knowledge of the required resilience: 840 degrees Fahrenheit (450 degrees Celsius), 100 atmospheres, and corrosive acid <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>.
+[[Engineering breakthroughs in Venera landers | Venera engineers]] consulted submarine designers for tips on surviving deep pressures and sourced new materials <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>. The parachute was modified to make the lander fall faster, with a restricting cord melting at 390 degrees Fahrenheit (200 degrees Celsius) to fully deploy the chute for a soft landing <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. The lander itself was an egg-shaped, smooth titanium structure with minimal ports, lined with shock absorbers and insulation <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>. The chamber was pre-chilled to freezing temperatures before entry <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
 
-### Engineering Innovations for Venera 7:
-*   **Pressure Shell:** Engineers consulted submarine designers and sourced new materials [00:05:59]. A hotter, stronger test chamber was used for validation [00:06:05].
-*   **Parachute System:** Modified to make the lander fall faster, with a restricting cord designed to melt at 390 degrees Fahrenheit (200 Celsius) to fully open the parachute for a soft landing [00:06:16].
-*   **Lander Body:** Built in an egg shape from titanium, with a smooth surface to minimize weak points [00:06:33]. The inside was lined with shock absorbers and an unknown insulation layer [00:06:43]. The chamber was pre-chilled to freezing temperatures before entry [00:06:47].
+### Venera 7: The First (Unexpected) Landing
 
-### Venera 7 (1970)
-*   **Journey & Entry:** Reached Venus in December 1970 [00:06:54]. Transmitted data for 35 minutes through the atmosphere [00:07:00].
-*   **Landing Mishap:** Six minutes into the second stage, the parachute melted or tore, causing the probe to drop like a rock [00:07:11]. It hit the ground unexpectedly at 35 miles per hour (60 kilometers per hour) at 4:42 AM Venus solar time [00:07:17].
-*   **Unexpected Survival:** The signal seemed to cut out after landing, leading engineers to believe it was destroyed [00:07:38]. However, months later, radio astronomers rediscovered a weak signal [00:07:42]. The probe had bounced, misaligning its antenna, but it continued transmitting data for 23 minutes at temperatures hot enough to melt zinc or lead [00:07:52].
-*   **First Surface Data:** Venera 7 provided the first data from the Venusian surface [00:08:12].
+After a four-month journey, Venera 7 reached Venus in December 1970 <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>. It descended for 35 minutes, transmitting data, but its parachute melted or tore six minutes into stage 2 <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>. Venera 7 unexpectedly hit the ground at 35 miles (60 kilometers) per hour at 4:42 AM Venus solar time <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>. The impact caused the probe to bounce, and the signal appeared to cut out a second after landing, leading Soviet engineers to believe it was crushed <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
+However, months later, radio astronomers reviewing the data re-discovered a weak signal <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. The bounce had misaligned the antenna, weakening the signal to 1-3% strength <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>. Venera 7 continued transmitting data for 23 minutes while on its side, in temperatures hot enough to melt zinc or lead, until its shell cracked and it too melted <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>. This data, along with that from Venera 8 (launched in 1972), paved the way for new Venusian probes <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
 
-### Venera 8 (1972)
-*   A similar design to Venera 7, Venera 8 also contributed data that paved the way for a new generation of probes [00:08:12].
+## Photographic Panoramas (Venera 9 & 10)
 
-## Venera 9 & 10: First Images from Venus
+It took until 1975 for the next series of [[venera_mission_successes_and_impacts | Venera missions]] <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>. By then, Soviet engineers understood what was needed, designing the probes to do more, including sending back black and white photographs – their primary goal <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>.
+New rockets developed for lunar and Martian propulsion allowed for significantly larger probes <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. Venera 9 and 10 were five times heavier than their predecessors, weighing 5 tons (5,000 kilograms) at launch <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>.
+Each mission included an orbiter and a lander component <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. The entry capsule, covered in asbestos composite, would split like a plastic Easter egg to eject the lander <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. The lander itself was a magnificently designed, hermetically sealed titanium sphere, 2.6 feet (80 centimeters) wide, holding instruments <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. The inside was lined with polyurethane foam, wrapped in 5 inches (12 centimeters) of honeycomb composite insulation, and then another layer of titanium <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>.
+A shock-absorbing ring was placed on the bottom, and a titanium disk resembling a hat on top served as an aerobrake, replacing the problematic two-stage parachute design <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>. The parachute completely detached at 30 miles (50 kilometers) above the surface, with the aerobrake handling the rest <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>.
+Two cameras with goldfish bowl lenses were placed in the middle of the lander, protected by special quartz pressure windows <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>. Image data (512x128 pixels) was sent at one line every 3.5 seconds <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>. Engineers estimated the probe would last about an hour on the surface, which was enough time to send the full panorama <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>.
 
-After a five-year gap, the Soviets launched the next series of Venera probes in 1975, designed with a deeper understanding of the Venusian environment [00:08:23]. Their primary goal was to send back the first photographic panorama of the Venusian surface [00:08:43].
+### The First Images
 
-### Advanced Design of Venera 9 & 10:
-*   **Increased Size:** New rockets developed for Moon and Mars missions allowed for significantly larger probes; Venera 9 and 10 were five times heavier than predecessors, weighing 5 tons (5,000 kilograms) at launch [00:08:50].
-*   **Components:** Each mission consisted of an orbiter and a lander [00:09:04].
-*   **Entry Capsule:** A spherical capsule covered in asbestos composite would enter the atmosphere, take the heat, and then split to eject the lander [00:09:09].
-*   **Lander Sphere:** A 6.5-foot (2-meter) tall, hermetically sealed titanium sphere, 2.6 feet (80 centimeters) wide, housed instruments [00:09:25]. It was bolted with gold wire seals, and internal shelves of beryllium with electric fans evenly dispersed heat [00:09:39].
-*   **Insulation:** Lined with polyurethane foam and wrapped in 5 inches (12 centimeters) of honeycomb composite insulation, plus another layer of titanium [00:09:52].
-*   **Shock Absorption:** A shock-absorbing ring was placed on the bottom [00:10:06].
-*   **Aerobrake:** A titanium disk on top served as an aerobrake, replacing the two-stage parachute design that troubled Venera 7 [00:10:10]. The parachute entirely detached at 30 miles (50 kilometers) above the surface, with the aerobrake handling the rest [00:10:22]. This system was tested by throwing it out of an airplane at 8.7 miles (14 kilometers) [00:10:32].
-*   **Cameras:** Two cameras with goldfish bowl lenses were placed in the middle of the lander, protected by special pressure windows made of pure quartz [00:10:39]. Image data (512x128 pixels) was sent at a rate of one line every 3.5 seconds [00:10:53].
-*   **Expected Lifespan:** Scientists estimated the probes would last about an hour on the surface, with at least half an hour needed for the full panorama [00:11:02].
+In late October 1975, Venera 9 and 10 arrived and landed as planned, with their parachutes cutting at 50 kilometers and both landers hitting the ground at about 15 miles (25 kilometers) per hour <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a>.
+Venera 9 landed first on a slight slope, possibly a hill or volcanic crater side, kicking up dust <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>. One of its two cameras successfully transmitted the first ever picture of the Venusian surface, revealing sharp rocks, soil, and a distant horizon <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>. The sun was shining brightly, though obscured by clouds, with a gentle breeze <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>.
+Venera 10 landed a few days later on a more featureless rolling plain with hardened pieces of magma, indicating older rocks chemically scorched by the acidic atmosphere <a class="yt-timestamp" data-t="00:12:19">[00:12:19]</a>. Both probes transmitted for 50-60 minutes until their orbiters went out of range <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>. Internal temperatures were about 140 degrees Fahrenheit (60 degrees Celsius) when transmissions ceased <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>. The orbiters later burned up in the atmosphere after completing their missions <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>.
+Venera 9 and 10 were stunning [[venera_mission_successes_and_impacts | successes]], representing a triumphant public relations event for the Soviet Union <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>.
 
-### Venera 9 (1975)
-*   Landed on a slight slope, possibly a hill or volcanic crater, kicking up dust [00:11:29].
-*   One of its two cameras successfully photographed and transmitted data [00:11:39].
-*   Revealed the first picture of the Venusian surface, showing sharp rocks, soil, and a distant horizon [00:11:43]. The sun was shining brightly, though obscured by clouds, with a gentle breeze [00:12:03].
+## Refinements and Final Landers (Venera 11-14)
 
-### Venera 10 (1975)
-*   Landed a few days later on a "more boring terrain" – a rolling plain with hardened pieces of magma [00:12:19]. These rocks appeared older, chemically scorched by the acidic atmosphere [00:12:24].
+Venera 11 and 12 conducted interesting science, but their trips are largely forgotten due to a mysterious electric anomaly that disabled their cameras <a class="yt-timestamp" data-t="00:13:05">[00:13:05]</a>.
+Venera 13 and 14, launched in 1982, refined the principles of Venera 9 and 10 <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>. Engineers improved cameras and scientific instruments, added new heat-resistant technologies, and guaranteed survival for at least 30 minutes <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>. They also enabled color images <a class="yt-timestamp" data-t="00:13:45">[00:13:45]</a>.
+Many sensors and instruments could now be mounted outside the spherical pressure chamber, made of platinum and covered in acid-resistant enamel, a testament to the engineers' understanding of the Venusian environment <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>.
+Venera 13 landed as planned, its lens cap popping off to take a black and white contingency photo, followed by a color one <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>. The photos showed a surface of pebbled, loose soil amidst bedrock outcroppings, resembling an ocean floor, with rolling plateaus and an orange sky in the distance <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>. The Venusian atmosphere absorbs blue light, causing most things to appear orange or yellowish <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>.
+Venera 14's images showed a more weathered plain with fine-grained rock and less loose soil, similar to a baked cake <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>. Famously, its drill landed exactly where the lens cap had fallen <a class="yt-timestamp" data-t="00:14:51">[00:14:51]</a>.
+Both probes carried microphones, recording sounds from Venus <a class="yt-timestamp" data-t="00:14:58">[00:14:58]</a>. The audio revealed the lens cap blowing off and the drill operating, followed by sounds of a gently blowing wind with faint hints of distant rumblings, presumed to be Venus-quakes <a class="yt-timestamp" data-t="00:15:08">[00:15:08]</a>.
 
-Both probes transmitted for 50-60 minutes until their orbiters went out of range [00:12:35]. Internal temperatures were about 140 degrees Fahrenheit (60 Celsius) when contact was lost, suggesting they could have lasted longer [00:12:40]. The orbiters later burned up in the atmosphere [00:12:51].
+## Legacy and Future Exploration
 
-## Later Venera Missions (Venera 11-14)
-
-The success of Venera 9 and 10 prompted further missions.
-
-### Venera 11 & 12 (1978)
-*   Designed for scientific objectives, their cameras were disabled by a mysterious electrical anomaly, leading to their trips being largely forgotten [00:13:05].
-
-### Venera 13 & 14 (1981-1982)
-*   Refined versions of Venera 9 and 10, with improved cameras, scientific instruments, and new heat-resistant technologies [00:13:29]. They were rated to last at least 30 minutes and were capable of taking color images [00:13:39].
-*   Many sensors and instruments could now be mounted outside the spherical pressure chamber, made of platinum and covered in acid-resistant enamel [00:13:51]. This demonstrated engineers' deep understanding of the Venusian environment [00:14:01].
-
-#### Venera 13 (1982)
-*   Landed as planned, capturing two photos: one black and white, and one in color [00:14:10].
-*   The photos showed a surface of pebbled, loose soil amidst bedrock outcroppings, resembling an ocean floor [00:14:22]. A rolling plateau and an orange sky were visible in the distance, due to the Venusian atmosphere absorbing blue light [00:14:30].
-
-#### Venera 14 (1982)
-*   Images showed a more weathered plain with fine-grained rock and less loose soil, described as looking like a "baked cake" [00:14:40].
-*   Famously, its drill landed exactly on top of the lens cap, preventing sample collection [00:14:51].
-
-Both probes carried microphones, recording sounds like the lens cap blowing off and the drill [00:14:58]. The general ambient sound of Venus was described as a gently blowing wind with faint hints of distant rumblings, presumed to be Venus-quakes [00:15:12].
-
-## Conclusion and [[future_potential_of_venus_exploration | Future Potential of Venus Exploration]]
-
-Venera 15 and 16 (1983) swapped out the lander component for radar, mapping the Venusian topography from orbit [00:15:26]. The last Venera landers were built in the 1980s [00:15:37]. Space programs have since shifted focus to the Moon and Mars [00:15:41].
-
-While no human is expected to set foot on Venus due to its extreme conditions [00:15:46], it is possible to send another lander [00:15:52]. The Soviets achieved these feats with decades-old technology [00:15:57]. The main challenge for future landers is economic, as an investment in a mission that survives less than a day is deemed "insane" [00:16:04]. Most current Venus exploration proposals involve high-altitude floating explorations like balloons [00:16:14]. For a lander to be economically viable, it would need to move around and last for weeks, requiring advanced cooling technologies that are "a few years away" [00:16:20].
-
-Much of the secret work behind the Venera series from the Soviet era is now lost [00:16:34]. However, developments in extreme environment technologies might make a return trip possible [00:16:39].
+The successful Venera 13 and 14 missions marked the last landers to touch the Venusian surface <a class="yt-timestamp" data-t="00:15:22">[00:15:22]</a>. Venera 15 and 16, built in the 1980s, swapped the lander component for radar, mapping Venusian topography from orbit <a class="yt-timestamp" data-t="00:15:26">[00:15:26]</a>.
+Since then, space programs have largely shifted focus to the Moon and [[soviet_mars_missions_from_1960_to_1973 | Mars]] <a class="yt-timestamp" data-t="00:15:41">[00:15:41]</a>. No human is expected to set foot on Venus <a class="yt-timestamp" data-t="00:15:46">[00:15:46]</a>. While it is possible to send another lander, the primary issue is economics and cost-benefit, given that probes survive for less than a day <a class="yt-timestamp" data-t="00:15:52">[00:15:52]</a>. Most [[future_possibilities_for_venus_exploration | Venus exploration]] proposals now involve balloons and high-altitude floating explorations <a class="yt-timestamp" data-t="00:16:14">[00:16:14]</a>. To make a lander economically viable, it would need to move around and last for weeks, requiring cooling technologies that are "a few years away" <a class="yt-timestamp" data-t="00:16:20">[00:16:20]</a>.
+Much of the secret work from the Soviet era for the Venera series is now lost <a class="yt-timestamp" data-t="00:16:34">[00:16:34]</a>.
+Regardless, the Venera series was an amazing [[engineering_breakthroughs_in_venera_landers | engineering achievement]] and, in the view of some, represented the pinnacle of the country's [[soviet_space_exploration_achievements_and_failures | Soviet space exploration]] <a class="yt-timestamp" data-t="00:16:52">[00:16:52]</a>.
