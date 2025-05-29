@@ -1,0 +1,19 @@
+---
+title: Sam BankmanFrieds current situation and reflections
+videoId: ycPKuG4gBEc
+---
+
+From: [[bankless]] <br/> 
+
+A 42-minute interview with Sam Bankman-Fried (SBF) from prison was released, initially mistaken for an AI creation due to its unexpected nature <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>, <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>, <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+
+## Reflections from Prison
+Haseeb Qureshi, who watched the entire interview, described it as "eerie" and "very sad," noting the visible toll prison has taken on SBF <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>, <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. SBF appears to be "broken down by what's happening to him in prison" <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+
+SBF frequently reflected on the world moving on without him <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. He observed the [[Crypto market trends and sentiment | crypto renaissance]] under a new administration <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a> and the explosion of AI, with large language models (LLMs) reaching incredible scales of intelligence <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. His investment in Anthropic, leading its seed round, was noted as the best investment made by the FTX estate <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>, <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>, <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. Inside prison, his activities are limited to reading books, playing chess, and participating in a "muffin"-based economy <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>, <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>, <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>, <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. He mentioned that he could be 47 or 57 years old upon release, depending on his luck <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>, <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+
+The host, having watched a portion of the interview, had a different takeaway, perceiving SBF as a "pretty cold algorithm" that would "chug forward one foot in front of the other no matter what his environment was like," showing little emotional depth <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>, <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>, <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. He noted the stark contrast between SBF leading a major exchange in the Bahamas a couple of years prior and now trading muffins in jail <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+
+The discussion acknowledged that the period since the FTX collapse two years ago has seen significant acceleration in both crypto and AI, contrasting with the "worst worst in the markets" and "worst in technology" that coincided with rising interest rates in traditional equities at the time of FTX's downfall <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>, <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>, <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+
+Qureshi expressed sadness and believed SBF's 25-year prison sentence for non-violent financial crimes was "too punitive," arguing that it destroys his life and reputation without being useful <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>, <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>, <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. The concern was raised that the world will be "insanely different" by the time he is released, with a maximum-security prison offering no exposure to these changes <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>, <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>, <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.

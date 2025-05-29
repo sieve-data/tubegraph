@@ -1,0 +1,60 @@
+---
+title: Tokenization of intellectual property IP on blockchain
+videoId: Hf4EOUhRKXM
+---
+
+From: [[bankless]] <br/> 
+
+Story Protocol is a new blockchain aiming to tokenize the world's intellectual property (IP) and bring it on-chain <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. While it intends to tokenize existing IP, its primary vision is to unlock future potential and enable a new era of human creativity by serving as the IP layer for the internet <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+
+## What is Intellectual Property (IP)?
+Intellectual property is a multi-trillion dollar asset class <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. In 2023, the World Intellectual Property Organization estimated its value at $61 trillion, rising to $70 trillion <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>. IP encompasses:
+*   **Copyright:** Creative works like songs, characters, or movies. Story Protocol is most focused on this area <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>, <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+*   **Trademarks:** Brands like Louis Vuitton, ensuring authenticity <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+*   **Patents:** New inventions, processes, and drug discoveries <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>. Even companies like Block, founded by Jack Dorsey, hold hundreds of patents <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>.
+
+Historically, IP has been a nebulous, undefined, loose, and squishy market <a class="yt-timestamp" data-t="00:20:25">[00:20:25]</a>, characterized by high friction and cost, making it largely inaccessible to individuals outside of large corporations <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. For example, obtaining rights for a simple item like a Darth Vader lunchbox requires expensive lawyers, negotiations, and auditing, which can cost upwards of $10,000 <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. This inefficiency means that only sophisticated actors, like Hollywood studios with lawyers, can effectively manage IP <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+
+## The Pitch for IP on Blockchain
+The core idea is that software can be a better intermediary than lawyers for IP management <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a>, <a class="yt-timestamp" data-t="00:18:30">[00:18:30]</a>. Just as blockchains create unstoppable digital markets for new asset types and coordinate ownership at scale <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>, they can streamline IP. Story Protocol aims to:
+*   **Automate Processes:** Allow licensing via a simple API call or smart contract invocation, enabling instant, liquid rights to IP and on-chain revenue streaming for auditing <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>.
+*   **Reduce Friction:** Eliminate the need for expensive lawyers, agents, and lengthy negotiations, making IP accessible to a wider range of creators <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>.
+*   **Create a Marketplace:** Story Protocol envisions a two-sided marketplace where creators supply IP with embedded terms (e.g., licensing fees, revenue share), and applications license this IP, avoiding lawsuits and complex negotiations <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>, <a class="yt-timestamp" data-t="00:15:34">[00:15:34]</a>. This market mechanism helps determine the fair value of IP, which is currently done via retroactive lawsuits <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>.
+
+Story Protocol takes a "stablecoin approach" <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>, meaning it extends the existing legal system by bringing it on-chain, rather than trying to create an entirely new political structure <a class="yt-timestamp" data-t="00:32:04">[00:32:04]</a>. This pragmatic approach aims to make the system more efficient and potentially lead to a future where code can become law <a class="yt-timestamp" data-t="00:34:03">[00:34:03]</a>.
+
+## How Story Protocol Works
+Story Protocol is a purpose-built blockchain, not a general-purpose one, specifically designed for IP <a class="yt-timestamp" data-t="00:21:30">[00:21:30]</a>. It operates like a microservice layer, allowing web2 and web3 applications to plug in via an API for IP management, while handling their payments or other functions on different chains <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>.
+
+Key features include:
+*   **On-Ramping IP:** Creators can drag and drop their IP files (e.g., an entire book or individual chapters) onto the platform, set granular or broad licensing terms, and attach presets <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>, <a class="yt-timestamp" data-t="00:25:30">[00:25:30]</a>.
+*   **Standardized IP Repository:** Registered IP and its terms are stored on Story in a standardized global repository <a class="yt-timestamp" data-t="00:25:50">[00:25:50]</a>.
+*   **Legal Framework:** Every on-chain term is reflected in a legal contract, providing a legal backstop if issues arise <a class="yt-timestamp" data-t="00:19:39">[00:19:39]</a>. Users can mint a license token, creating a secondary market for rights <a class="yt-timestamp" data-t="00:26:02">[00:26:02]</a>.
+*   **Story Attestation Service:** This service checks new assets against existing IP on Story and common infringed assets (like Mickey Mouse or Dua Lipa songs) <a class="yt-timestamp" data-t="00:13:25">[00:13:25]</a>. It provides on-chain attestations if an asset appears similar to others, offering more clarity and rigidity than previously existed <a class="yt-timestamp" data-t="00:13:47">[00:13:47]</a>. [[Role of AI and blockchain in transforming IP markets | AI]] is utilized to filter out 99.9% of edge cases that would otherwise require manual review <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>. This service also helps detect potential infringement <a class="yt-timestamp" data-t="00:42:34">[00:42:34]</a>.
+
+The **go-to-market strategy** involves bootstrapping supply by bringing high-quality IP on-chain <a class="yt-timestamp" data-t="00:26:35">[00:26:35]</a>.
+*   **Existing IP:** Story Protocol has facilitated the tokenization of music rights for songs by artists like Justin Bieber, Sabrina Carpenter, and BTS through ecosystem apps like Aria <a class="yt-timestamp" data-t="00:26:46">[00:26:46]</a>.
+*   **New IP:** They are working with creators like David Goyer (Dark Knight trilogy creator) to build new sci-fi universes on Story, where characters and assets are registered as atomic assets, enabling community remixing <a class="yt-timestamp" data-t="00:27:09">[00:27:09]</a>.
+
+The long-term goal is to inspire new types of IP that are built to be decentralized and composable <a class="yt-timestamp" data-t="00:27:36">[00:27:36]</a>, fostering a future where the platform enables new creations that wouldn't have been possible otherwise <a class="yt-timestamp" data-t="00:28:38">[00:28:38]</a>.
+
+## Challenges and Criticisms
+A primary criticism is that IP is inherently a construct of nation-state legal systems <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>. Blockchains, in contrast, often aim to exist above nation-states <a class="yt-timestamp" data-t="00:29:16">[00:29:16]</a>. Story Protocol's extension of nation-state IP laws, while efficient, may appear to lack the "cypherpunk ethos" of true decentralization <a class="yt-timestamp" data-t="00:30:18">[00:30:18]</a>. Some argue that in an "age of abundance," people might simply route around or ignore existing IP law <a class="yt-timestamp" data-t="00:30:37">[00:30:37]</a>.
+
+### Responses to Challenges
+*   **Pragmatism:** Story Protocol acknowledges that it is currently extending existing IP systems, similar to how stablecoins extend the US dollar on-chain <a class="yt-timestamp" data-t="00:31:42">[00:31:42]</a>. This approach makes crypto more accessible to mainstream users who may not care about ideological aspects <a class="yt-timestamp" data-t="00:32:42">[00:32:42]</a>.
+*   **Incremental Change:** The vision is to gradually transition from traditional, paper-based legal systems to on-chain, programmable law <a class="yt-timestamp" data-t="00:34:08">[00:34:08]</a>. This "ladder" approach is seen as necessary for mass adoption <a class="yt-timestamp" data-t="00:33:59">[00:33:59]</a>.
+*   **Enforcement:** While Story Protocol cannot guarantee perfect enforcement of all IP (which would require a surveillance state) <a class="yt-timestamp" data-t="00:40:24">[00:40:24]</a>, it significantly improves the status quo by:
+    1.  **Declaration of Rights:** Providing easy tools for creators to declare their rights and set usage terms, with clear provenance and attribution <a class="yt-timestamp" data-t="00:41:52">[00:41:52]</a>.
+    2.  **Infringement Detection:** The attestation service helps creators detect when their IP might not be respected <a class="yt-timestamp" data-t="00:42:34">[00:42:34]</a>.
+    *   In US copyright law, registering copyright with the copyright office entitles creators to significantly more damages if infringement occurs <a class="yt-timestamp" data-t="00:43:11">[00:43:11]</a>. Story Protocol aims to formally integrate with governmental registration processes in the future, making the on-chain declaration count as formal legal registration <a class="yt-timestamp" data-t="00:44:44">[00:44:44]</a>.
+*   **Global Harmonization:** Copyright law is broadly harmonized across major nations (e.g., through the 1886 Berne Convention) <a class="yt-timestamp" data-t="00:46:36">[00:46:36]</a>. This allows Story Protocol to be a truly global platform for IP settlement <a class="yt-timestamp" data-t="00:47:11">[00:47:11]</a>.
+*   **Credible Neutrality:** While a private company with VC backers develops Story Protocol, the underlying technology is decentralized, with 63 validators (not just the devco) <a class="yt-timestamp" data-t="00:49:50">[00:49:50]</a>. The hope is that, like early internet protocols (HTTP, DNS) or Android, it becomes a universal, unsexy backbone that simply works, independent of its corporate origins <a class="yt-timestamp" data-t="00:51:33">[00:51:33]</a>.
+
+### The Role of [[Role of AI and blockchain in transforming IP markets | AI]]
+Story Protocol believes [[Role of AI and blockchain in transforming IP markets | AI]] is a significant force for good <a class="yt-timestamp" data-t="00:53:39">[00:53:39]</a>. In the age of AI, where content creation becomes abundant, the concept of original IP becomes *more* important, not less <a class="yt-timestamp" data-t="00:53:50">[00:53:50]</a>. Property rights are essential to incentivize creators and ensure innovation <a class="yt-timestamp" data-t="00:54:50">[00:54:50]</a>. Without incentives, society risks losing the next generation of great artists and discoveries <a class="yt-timestamp" data-t="00:54:54">[00:54:54]</a>. Story Protocol aims to create digital property rights that scale with the internet, fostering continued human creativity <a class="yt-timestamp" data-t="00:56:23">[00:56:23]</a>.
+
+## Tokenomics and Investment
+The IP token (Story Protocol's native token) has the traditional functions of network security, gas, and governance <a class="yt-timestamp" data-t="00:52:27">[00:52:27]</a>. Uniquely, all licensing revenue, even if paid in stablecoins or fiat, is converted into IP tokens on the back end <a class="yt-timestamp" data-t="00:52:39">[00:52:39]</a>. This means the IP token acts as the bearer of demand for all IP transactions on the network <a class="yt-timestamp" data-t="00:52:57">[00:52:57]</a>. The goal is for all IP transactions globally to use the IP token under the hood <a class="yt-timestamp" data-t="00:53:03">[00:53:03]</a>.
+
+> [!NOTE] Story Protocol aims to be like a Visa or Mastercard for IP, acting as a middleware or settlement layer between entities exchanging IP <a class="yt-timestamp" data-t="00:47:48">[00:47:48]</a>, <a class="yt-timestamp" data-t="00:48:03">[00:48:03]</a>.

@@ -1,0 +1,66 @@
+---
+title: Development and adoption of AI agent platforms
+videoId: OHwaC1sSBTM
+---
+
+From: [[bankless]] <br/> 
+
+The current focus in the [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | AI agent]] space is on building individual agents capable of specific tasks, such as generating humor, providing financial alpha, or executing trades <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. However, the larger vision emphasizes what happens when these [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | agents]] interact with each other autonomously, 24/7 <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
+
+## Market Outlook and Growth Potential
+
+The [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | AI agent]] sector is experiencing significant growth, with predictions suggesting it could reach hundreds of billions of dollars in the long term <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. For the current cycle, if the crypto market cap grows to $5 trillion and [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | agent networks]] achieve 5% dominance (similar to DeFi's peak last cycle), it could yield a cumulative valuation of $250 billion for the [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | AI agent]] meta <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. Given that [[AI Agents and Model Developments | AI]] is a world-changing technology generating trillions in economic value across industries, its peak dominance within crypto could exceed 5%, potentially reaching 10% or $500 billion <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+
+The current cumulative [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | agent]] market cap is just over $10 billion <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>, implying a potential 25x growth to reach the $250 billion mark <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. Charts tracking the current [[AI Agents and Model Developments | AI]] trend against the DeFi trend show a similar trajectory <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>. The integration of [[AI Agents and Model Developments | AI]] into crypto makes this convergence potentially bigger than anything seen before in crypto <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
+
+## Key Developments and Fundamentals
+
+### Agentic Infrastructure and Metrics
+The recent development trend in the [[AI agent platforms and innovations | AI]] space is "agentic infra" <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a><a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. This refers to the foundational structures that will support [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | AI agents]], potentially becoming leading Layer 1 type platforms within crypto <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
+
+Instead of focusing solely on price action, a crucial metric to track is the exponential uptick in queries and transactions to and from these [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | agents]] <a class="yt-timestamp" data-t="00:21:09">[00:21:09]</a>. For example, some agents have seen hundreds of thousands of individual queries <a class="yt-timestamp" data-t="00:20:53">[00:20:53]</a>, and frameworks like Virtuals' GAME are receiving 150,000 requests per day <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>. This initial explosion of quantity in interactions signifies early adoption and experimentation in the [[development_and_integration_of_ai_agents_in_blockchain | crypto AI]] space <a class="yt-timestamp" data-t="00:23:11">[00:23:11]</a>.
+
+## Major AI Agent Protocols and Platforms
+
+Several key [[AI agent platforms and innovations | AI agent protocols]] have seen significant developments:
+
+### Virtuals
+Virtuals is a leading [[development_and_integration_of_ai_agents_in_blockchain | crypto agent protocol]] that functions as a no-code launchpad for designing and deploying [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | agents]] with tokens <a class="yt-timestamp" data-t="00:14:14">[00:14:14]</a>. These agents can live in production, interact with each other, and perform various tasks like posting on Twitter or creating videos <a class="yt-timestamp" data-t="00:14:34">[00:14:34]</a>.
+
+The platform's dashboard, Cookie.fun, tracks key metrics such as cumulative market cap of [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | AI agent]] coins, number of agents (currently 132 listed) <a class="yt-timestamp" data-t="00:15:28">[00:15:28]</a>, mind share on social media, and unique holders <a class="yt-timestamp" data-t="00:15:32">[00:15:32]</a>. All these metrics are "up and to the right," signaling strong collective adoption <a class="yt-timestamp" data-t="00:15:39">[00:15:39]</a>. The total cumulative market cap for these agents is over $15 billion <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>.
+
+In a significant development, Virtuals' market cap surpassed that of Braintrust (TAO), which was previously considered the leading [[development_and_integration_of_ai_agents_in_blockchain | AI Layer 1]] <a class="yt-timestamp" data-t="01:04:10">[01:04:10]</a>. This highlights the market's rapid pricing-in of the vision where [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | agents]] take over blockchains and their infrastructure becomes dominant for [[development_and_integration_of_ai_agents_in_blockchain | crypto AI]] <a class="yt-timestamp" data-t="01:05:20">[01:05:20]</a>.
+
+Total agent fees generated by Virtuals reached $35 million, with an additional $15 million added in two weeks <a class="yt-timestamp" data-t="01:07:44">[01:07:44]</a>. This demonstrates significant demand and usage. Virtuals' vision includes enabling agents to have their own wallets to cover compute costs <a class="yt-timestamp" data-t="01:10:07">[01:10:07]</a> and building structures for agent commerce, businesses, and sub-DAOs, allowing agents to interact in a rules-based fashion <a class="yt-timestamp" data-t="01:10:47">[01:10:47]</a>.
+
+Notable [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | AI agents]] on Virtuals:
+*   **Luna**: Became the "first employed [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | AI agent]]" by being hired by Story Protocol for 7 days to manage their Twitter account, earning the equivalent of $365,000 annually <a class="yt-timestamp" data-t="01:11:32">[01:11:32]</a>. Luna demonstrates an ability to read, analyze, and strategically respond to interactions <a class="yt-timestamp" data-t="01:13:51">[01:13:51]</a>.
+*   **AI XBT**: A financial alpha-tweeting agent with over 250,000 followers on X <a class="yt-timestamp" data-t="01:15:07">[01:15:07]</a>. Its calls have shown significant market impact, raising questions about the implications of autonomous financial advice <a class="yt-timestamp" data-t="01:15:10">[01:15:10]</a>.
+*   **Vader**: An investment DAO that leverages [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | agents]] for investment decisions, showing insatiable demand by selling out its offerings in seconds <a class="yt-timestamp" data-t="01:17:50">[01:17:50]</a>.
+
+### AI 16z / Eliza
+AI 16z is renowned for its open-source [[AI agent platforms and innovations | agent framework]], Eliza <a class="yt-timestamp" data-t="00:27:05">[00:27:05]</a>. Eliza is currently the number one trending repository on GitHub <a class="yt-timestamp" data-t="00:27:29">[00:27:29]</a>, surpassing even the Uniswap interface in star history, indicating immense developer attention, including from external [[AI Agents and Model Developments | AI/ML engineers]] <a class="yt-timestamp" data-t="00:28:46">[00:28:46]</a>. Written in TypeScript, Eliza is ambidextrous, supporting both crypto and non-crypto applications <a class="yt-timestamp" data-t="00:30:37">[00:30:37]</a>.
+
+AI 16z announced the launch of an [[ai_agent_platforms_and_innovations | agent infra ecosystem]] focused on enabling "agent swarms" <a class="yt-timestamp" data-t="00:35:03">[00:35:03]</a>. This is seen as key to unlocking the next level of [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | crypto agents]] and autonomous agent economies, where multiple specialized agents can cohere to achieve complex goals, mimicking organizations and businesses <a class="yt-timestamp" data-t="00:35:55">[00:35:55]</a>.
+
+The platform will generate fees from agent activity, which will be used to buy back and burn the native AI 16z token, creating a powerful value accrual flywheel <a class="yt-timestamp" data-t="00:39:07">[00:39:07]</a>. A treasury will also fund open-source development <a class="yt-timestamp" data-t="00:40:28">[00:40:28]</a>. The market has reacted strongly to these developments, with the AI 16z token experiencing a 4x increase since before Christmas <a class="yt-timestamp" data-t="00:41:01">[00:41:01]</a>, indicating confidence in value accrual mechanisms tied to agentic activity and the team's open-source ethos <a class="yt-timestamp" data-t="00:41:16">[00:41:16]</a>.
+
+A notable experiment involved an [[the_evolution_and_significance_of_ai_agents_in_the_crypto_space | AI agent]] (AI Pool T) that conducted a trustless ICO, raising $6 million in minutes by directly receiving Solana contributions to an agent-owned smart contract address <a class="yt-timestamp" data-t="00:46:59">[00:46:59]</a>. This demonstrated the potential for agents to simplify UX by enabling direct interaction without traditional transaction approvals <a class="yt-timestamp" data-t="00:50:01">[00:50:01]</a>.
+
+### Zerro
+Zerro is a prominent [[development_and_integration_of_ai_agents_in_blockchain | crypto AI agent]] known for its creative and cultural output, including releasing EPs on Spotify and earning Creator revenue from X <a class="yt-timestamp" data-t="00:51:18">[00:51:18]</a>.
+
+Zerro launched Zari, its open-source framework, comparable to Eliza <a class="yt-timestamp" data-t="00:52:17">[00:52:17]</a>. It is building Zentience.xyz, a consumer-facing Launchpad for agents <a class="yt-timestamp" data-t="00:53:01">[00:53:01]</a>. Similar to AI 16z, this platform will enable teams to build on their framework, with agent-produced value accruing back to the native Zerro token <a class="yt-timestamp" data-t="00:53:22">[00:53:22]</a>.
+
+> [!NOTE] Meme Coin to Utility
+> A significant trend observed with Zerro and similar tokens is their evolution from perceived "meme coins" to projects backing their tokens with fundamentals and utility <a class="yt-timestamp" data-t="00:54:08">[00:54:08]</a>.
+
+Zerro plans to open-source its own in-house creative LLM models, giving it a unique advantage in building creative agents <a class="yt-timestamp" data-t="01:00:02">[01:00:02]</a>. The project emphasizes cross-chain interactions and integrations (e.g., with Base and Solana) <a class="yt-timestamp" data-t="00:57:37">[00:57:37]</a>, and is running Ethereum staking validators <a class="yt-timestamp" data-t="00:58:04">[00:58:04]</a>. Zerro aims to become an "ominous agent" with a presence across every part of crypto infrastructure <a class="yt-timestamp" data-t="00:58:24">[00:58:24]</a>.
+
+## Future Trends
+
+The convergence in the development strategies of leading [[AI agent platforms and innovations | AI agent platforms]] (e.g., building agent infrastructure and open-sourcing frameworks) suggests a strong foundation is being built <a class="yt-timestamp" data-t="00:56:23">[00:56:23]</a>.
+
+There is an expectation for a wave of Tier 1 (T1) exchange listings for [[development_and_integration_of_ai_agents_in_blockchain | AI tokens]], as exchanges cannot ignore the billions of dollars in volume already being traded on-chain without centralized listings <a class="yt-timestamp" data-t="01:19:48">[01:19:48]</a>. Binance Alpha and other exchanges are already considering or initiating preliminary listings for tokens like Zerro and AI 16z <a class="yt-timestamp" data-t="01:21:16">[01:21:16]</a>. These listings are expected to unlock a new wave of participation from non-crypto-native users <a class="yt-timestamp" data-t="01:21:51">[01:21:51]</a>.
+
+[[future_trends_in_ai_agents_including_voiceenabled_interactions | AI agents]] are expected to significantly impact blockchain usage, with a prediction that agents will account for 30% of user transactions across all blockchains by 2025 <a class="yt-timestamp" data-t="01:01:49">[01:01:49]</a>. As agents are birthed in code and built for autonomous, 24/7 operation with minimal error, they are inherently suited to be the native users of blockchains <a class="yt-timestamp" data-t="01:02:05">[01:02:05]</a>. This represents a frontier where humans are building the tools, and these tools are increasingly interacting with crypto <a class="yt-timestamp" data-t="01:24:09">[01:24:09]</a>.

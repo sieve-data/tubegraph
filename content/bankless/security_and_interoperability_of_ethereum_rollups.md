@@ -1,0 +1,57 @@
+---
+title: Security and interoperability of Ethereum rollups
+videoId: 0TOnHHnB6Ro
+---
+
+From: [[bankless]] <br/> 
+
+Ethereum's approach to [[scaling_ethereum_layer_1_and_layer_2_solutions | scaling]] via rollups involved exporting its [[ethereums_scaling_strategy_with_native_rollups | scaling strategy]] to independent Layer 2 (L2) teams, each developing their own rollup code <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>. This led to a landscape of many different rollups, but they are not very close to Ethereum itself, possessing different codebases and varying security assumptions <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>. This heterogeneity has fostered a perception that Ethereum L2s are distinct from Ethereum, leading to several downstream problems <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>.
+
+## Security Challenges in Current Rollups
+
+The current rollup landscape faces several [[security_and_stability_in_the_ethereum_network | security]] challenges:
+
+*   **Heterogeneity and Competing Standards** Every rollup has its own code and security assumptions, leading to competing standards rather than a unified one <a class="yt-timestamp" data-t="00:53:00">[00:53:00]</a>.
+*   **Centralized Sequencers** Many current rollups operate with centralized sequencers, which can contribute to interoperability issues and centralization risks <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>.
+*   **Roll-Your-Own Proof Systems** Each rollup must develop its own state transition function and proof system to validate its state back to Layer 1 (L1) <a class="yt-timestamp" data-t="09:27:00">[09:27:00]</a>. This can introduce bugs due to the emulation process <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>. The L1, in contrast, relies on client diversity to mitigate bugs <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a>.
+*   **Security Councils** Rollups often rely on security councils (multisigs) to govern the upgrade of their proof systems <a class="yt-timestamp" data-t="09:50:00">[09:50:00]</a>. These councils represent a single point of failure and hold significant responsibility over rollup validity and upgrades <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>. This introduces trust assumptions, unlike the trustless nature of the Ethereum L1 <a class="yt-timestamp" data-t="01:53:00">[01:53:00]</a>. For example, similar processes used by security councils have been implicated in hacks like the Bybit hack <a class="yt-timestamp" data-t="47:16:00">[47:16:00]</a>.
+*   **Lack of Forward Compatibility with EVM Upgrades** The Ethereum Virtual Machine (EVM) undergoes regular hard forks, changing its state transition function <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>. Maintaining compatibility requires governance, which is antithetical to building truly trustless rollups <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>.
+
+## Native Rollups: A Solution for Enhanced Security
+
+[[Ethereums_layer_2_rollup_strategy | Native rollups]] are a design construction that directly addresses the issue of non-homogeneous rollups by embedding the security of Ethereum rollups into the Layer 1 itself <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>.
+
+*   **L1-Provided Security Service**: Instead of L2s like Optimism, Arbitrum, or Base maintaining their own fraud proofs and security councils, the idea of native rollups is that the Ethereum Layer 1 can provide this service by baking an EVM pre-compile directly into its code <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>.
+*   **State Validation via EVM Pre-compile**: The L1 would verify the validity of its native rollups. Rollups could discard their fraud proof code and security councils, utilizing the L1 pre-compile to access Ethereum-level security <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>. This eliminates the "State validation" risk slice found on L2BEAT, as the L1 provides this service <a class="yt-timestamp" data-t="31:17:00">[31:17:00]</a>.
+*   **Introspection**: A pre-compile is a complex instruction for the EVM that provides "introspection," allowing the EVM to "see within itself" <a class="yt-timestamp" data-t="28:41:00">[28:41:00]</a>. This means L2s can "peek under the hood" of the L1 and leverage its client diversity for bug mitigation <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a>.
+*   **Enhanced Property Rights**: The ultimate incentive for rollups to become native is to gain stronger property right assurances, equivalent to those offered by the Ethereum L1 <a class="yt-timestamp" data-t="48:14:00">[48:14:00]</a>. This is expected to significantly increase Total Value Locked (TVL) on rollups, as currently only 2% of all ETH is bridged to L2s due to trust assumptions <a class="yt-timestamp" data-t="23:17:00">[23:17:00]</a>.
+*   **Quantum Security**: Native rollups inherently offer post-quantum security because they don't rely on proofs on-chain that could be quantum insecure <a class="yt-timestamp" data-t="01:06:10">[01:06:10]</a>. As L1 validators upgrade their setup, native rollups automatically inherit this security <a class="yt-timestamp" data-t="01:06:47">[01:06:47]</a>.
+*   **Strict Improvement for EVM-Compatible Rollups**: For rollups aiming to be Type 1 EVM-compatible and follow Ethereum's hard forks, becoming a native rollup is considered a "strictly better" outcome, offering improved [[security_and_stability_in_the_ethereum_network | security]] properties without needing to "roll their own fault proof system" <a class="yt-timestamp" data-t="25:19:00">[25:19:00]</a>.
+
+## Interoperability Challenges and Solutions
+
+Interoperability is a major challenge in the current rollup-centric roadmap:
+
+*   **7-Day Withdrawal Windows**: Optimistic rollups like Optimism, Arbitrum, and Base impose 7-day withdrawal windows due to their fault proof systems <a class="yt-timestamp" data-t="08:11:00">[08:11:00]</a>. This makes it difficult to move assets between chains <a class="yt-timestamp" data-t="08:26:00">[08:26:00]</a>.
+*   **Fragmentation**: The existence of many different rollup standards hinders seamless interaction and communication between them <a class="yt-timestamp" data-t="09:42:00">[09:42:00]</a>.
+
+Native and Based Rollups provide solutions:
+
+*   **ZK Proofs for Faster Settlement**: Zero-Knowledge (ZK) proofs help solve interoperability by allowing rollups to settle in minutes or hours instead of waiting 7 days for optimistic fault proofs <a class="yt-timestamp" data-t="08:32:00">[08:32:00]</a>.
+*   **L1 for Sequencing**: Based rollups leverage the L1 for sequencing, addressing centralized sequencer problems and improving interoperability <a class="yt-timestamp" data-t="09:17:00">[09:17:00]</a>. This also eliminates the "sequencer failure" risk slice in L2BEAT <a class="yt-timestamp" data-t="32:20:00">[32:20:00]</a>.
+*   **Shared Execution Environment**: When all native rollups use the same enshrined EVM pre-compile, it creates a homogeneous and uniform block space, although [[coordination_and_governance_in_ethereums_rollup_roadmap | composability]] is primarily unlocked by based sequencing <a class="yt-timestamp" data-t="34:25:00">[34:25:00]</a>.
+*   **Real-time Proving and Synchronous Composability**: [[Technical_challenges_and_execution_for_native_rollups | Native rollups]] enable real-time proving more easily due to a proposed "delayed execution" feature on L1 <a class="yt-timestamp" data-t="34:58:00">[34:58:00]</a>. This allows L1 validators a full slot (12 seconds) to receive and process proofs, making it easier to generate proofs <a class="yt-timestamp" data-t="35:27:00">[35:27:00]</a>. This synergy with based rollups can achieve synchronous composability across L2s <a class="yt-timestamp" data-t="36:06:00">[36:06:00]</a>.
+*   **ZK Scaling for Pre-compile**: To make the native rollup pre-compile truly scalable, ZK technology is necessary. Without ZK, the pre-compile would be constrained by the L1 block gas limit and not effectively [[scaling_ethereum_layer_1_and_2_solutions | scale Ethereum]] <a class="yt-timestamp" data-t="38:40:00">[38:40:00]</a>. ZK proofs allow validators to verify correct execution of the pre-compile, enabling arbitrarily high gas limits and significant L1 scaling <a class="yt-timestamp" data-t="39:24:00">[39:24:00]</a>.
+*   **Proof Aggregation**: [[Coordination_and_governance_in_ethereums_rollup_roadmap | Native rollups]] could enable the aggregation of proofs across all native rollups behind the scenes by L1 validators, dramatically reducing the gas cost for L2s to settle on L1 <a class="yt-timestamp" data-t="01:07:37">[01:07:37]</a>.
+
+## Path to Adoption and [[Economic_impact_of_native_rollups_on_Ethereum | Economic Impact]]
+
+The transition to [[ethereums_scaling_strategy_with_native_rollups | native rollups]] presents [[challenges_in_ethereums_upgrade_processes | technical challenges]] for existing L2s. Their current designs often intertwine user transaction execution with system-level code (like data handling, sequencing, governance) <a class="yt-timestamp" data-t="44:04:00">[44:04:00]</a>. To become native, L2s would need to refactor their code for a clean decoupling between these layers <a class="yt-timestamp" data-t="44:16:00">[44:16:00]</a>. Rollups with completely different virtual machines (like SVM or Move) cannot become native <a class="yt-timestamp" data-t="44:56:00">[44:56:00]</a>. However, for EVM-equivalent rollups, it's considered a "no-brainer" due to the benefits <a class="yt-timestamp" data-t="45:01:00">[45:01:00]</a>.
+
+[[Ethereum_upgrades_for_2025 | Timelines]] for native rollups are tied to [[coordination_and_governance_in_ethereums_rollup_roadmap | social coordination]] and hard forks. The initial version of the execute pre-compile, backed by re-execution (without ZK), could potentially be included in a hard fork by late 2026 if there is sufficient demand and a dedicated coordinator <a class="yt-timestamp" data-t="01:11:11">[01:11:11]</a>. The more advanced version using ZK proofs for dramatically increased gas limits (10x-1000x) is projected for approximately three years out, depending on the maturity of ZK VMs and other factors <a class="yt-timestamp" data-t="01:11:39">[01:11:39]</a>.
+
+The [[economic_impact_of_native_rollups_on_ethereum | economic impact of native rollups on Ethereum]] is positive:
+
+*   **Value Creation**: Native rollups add a new, valuable feature to Ethereum, making it a more compelling "product" for rollup builders <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>.
+*   **Stronger Data Availability (DA) Lock-in**: To use the native execute pre-compile, rollups are effectively "locked in" to using Ethereum's DA layer <a class="yt-timestamp" data-t="01:03:36">[01:03:36]</a>. As DA is expected to be the largest source of value accrual for Ethereum, this strengthens ETH's position <a class="yt-timestamp" data-t="01:03:49">[01:03:49]</a>.
+*   **Increased Demand for ETH DA**: Pessimistic rollups (those using ZK proofs) will incur a small overhead (approximately 20% increase) in DA consumption as they need to specify state accesses on-chain <a class="yt-timestamp" data-t="01:05:00">[01:05:00]</a>. This contributes to increased demand for Ethereum's DA.

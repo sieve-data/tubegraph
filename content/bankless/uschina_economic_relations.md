@@ -1,0 +1,95 @@
+---
+title: USChina Economic Relations
+videoId: Gup5KP7Bmkw
+---
+
+From: [[bankless]] <br/> 
+
+The global monetary system is undergoing a significant transition to a new monetary structure, a process currently being influenced by the Trump administration, but one that would likely occur regardless of who is in power <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. This shift is anticipated to affect global trade and capital flows, with significant implications for markets.
+
+## Historical Monetary Structures
+
+Since World War II, there have been three primary monetary structures:
+
+### Bretton Woods (1944)
+Following World War II, the United States and its allies established a system to divide the world economically and in terms of trade, largely excluding Russia due to ideological differences <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. The goal was to build a system around the US economy and rebuild allies, primarily to contain Soviet Russia <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>.
+
+During the Bretton Woods discussions, there were proposals for a customs union with mechanisms to rectify imbalances between economies, such as the massive trade deficit and surplus seen between the US and China, by imposing capital controls or "user fees" on surplus countries <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. However, this plan was not adopted <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
+
+Instead, currencies were pegged to the US dollar, which in turn was pegged to gold <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>. The US government promised central banks that they could exchange dollars for gold <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. This system financed the rebuilding of Europe and Japan, allowing Germany and Japan to prosper through exports after the war <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>. The Bretton Woods system was successful for the United States, facilitating the Marshall Plan and post-war reconstruction in Japan <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+
+The system lasted until the 1970s, when the US began running large deficits due to programs like LBJ's Great Society and the Vietnam War <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>. Foreigners, particularly France, began requesting their gold back in exchange for dollars <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>. In 1971, President Nixon announced the end of the dollar's link to gold, allowing the currency to float freely, marking the end of Bretton Woods <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+
+### Petro-Dollar (1971)
+The end of Bretton Woods ushered in the petro-dollar era, which established a link between the US dollar and oil <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. The US made a deal with Saudi Arabia: if they sold their oil in dollars, the US would sell them weapons and ensure their tribal rule over the peninsula <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>. The petro-dollar arrangement also required Saudi Arabia to deposit its earned dollars in US banks, which were then used to purchase US treasuries <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>. Since Saudi Arabia was the lowest marginal cost producer of oil, a vital component of the global economy, all other countries needed dollars to buy oil, effectively backing the dollar <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. This system was enforced by the US military <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
+
+### Petro-Yuan (1994)
+This phase started in 1994 <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. China, historically one of the world's largest economies, began to re-emerge after a century of turmoil <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>. It adopted a state-sponsored, fascist-capitalist system with the goal of becoming a manufacturing powerhouse <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>.
+
+Concurrently, the importance of oil to the global economy decreased, and new discoveries in Mexico and Alaska reduced OPEC's role as a swing producer <a class="yt-timestamp" data-t="00:11:34">[00:11:34]</a>. With less reliance on OPEC oil, Western economies sought new markets for their productive capacity and cheaper labor <a class="yt-timestamp" data-t="00:12:09">[00:12:09]</a>.
+
+In the early 1990s, after a period of high inflation in China (a cause of the Tiananmen Square issue), Deng Xiaoping's administration revamped the tax system in 1994, centralizing it and enacting a "shock devaluation" of the yuan <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>. This made China's currency very undervalued relative to its productive capacity, enabling it to export its way to prosperity <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>. Other "Asian tigers" (Hong Kong, Malaysia, Thailand, Indonesia, Taiwan, South Korea) followed a similar path <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>.
+
+After the Asian financial crisis in the early 1990s, it became standard for exporting nations to undervalue their currencies and accumulate large amounts of US treasuries <a class="yt-timestamp" data-t="00:13:20">[00:13:20]</a>. This allowed them to always access dollar-denominated commodity imports, particularly oil and food <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>. China, along with other North and Southeast Asian exporting countries, became the marginal accumulators of treasuries <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>.
+
+### Impacts on the US Economy
+This system allowed Asian nations to industrialize and export cheap goods, while the US de-industrialized and financialized its economy <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>. The US became an exporter of the dollar and treasuries <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a>. To maintain its status as the global reserve currency with an open trade account, the US had to also maintain an open capital account <a class="yt-timestamp" data-t="00:18:36">[00:18:36]</a>.
+
+This led to a "virtuous cycle" where the world financed US consumers, who, being wealthy due to debt, could buy vast amounts of imported goods <a class="yt-timestamp" data-t="00:19:19">[00:19:19]</a>. Corporations, seeking cheaper labor, moved manufacturing to Asia, increasing corporate profits and enabling debt-financed stock buybacks rather than building new US factories <a class="yt-timestamp" data-t="00:19:28">[00:19:28]</a>. While stock owners became wealthy, the bottom 90% of Americans, particularly those without university degrees (65% of the population), saw high-paying manufacturing jobs replaced by gig economy roles <a class="yt-timestamp" data-t="00:19:53">[00:19:53]</a>. This discontent among the 65% largely contributed to Donald Trump's election <a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>.
+
+This system of Asian accumulation of treasuries lasted until approximately 2008-2011, marking a major shift in monetary structure <a class="yt-timestamp" data-t="00:14:35">[00:14:35]</a>.
+
+## Current Monetary Structure & US Policy Shifts
+
+The current era is characterized by financial repression and national capitalism <a class="yt-timestamp" data-t="00:20:32">[00:20:32]</a>. The "petro-yuan" system is unsustainable, both for social reasons and other factors <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>.
+
+A key characteristic of this new monetary phase is the effective end of US treasuries as the sole global reserve asset <a class="yt-timestamp" data-t="00:21:26">[00:21:26]</a>. This is a deliberate policy choice by Trump and his advisors, who believe the post-1971 situation (where US Treasury bonds were the reserve asset) led to negative social outcomes <a class="yt-timestamp" data-t="00:21:31">[00:21:31]</a>. Figures like JD Vance explicitly refer to 1971 as the start of America's decline for the demographic that elected Trump <a class="yt-timestamp" data-t="00:21:56">[00:21:56]</a>.
+
+While US politicians advocate for re-industrializing America and bringing back blue-collar jobs ([[us_foreign_trade_policies_and_tariffs_under_trump_administration | US foreign trade policies and tariffs under Trump Administration]]), and stepping back as a global police force <a class="yt-timestamp" data-t="00:22:21">[00:22:21]</a>, they are unlikely to openly declare that the US Treasury bond should no longer be the global reserve asset, even if they desire a shift towards gold or Bitcoin <a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>. The distinction is that the dollar remains the reserve currency for trade, but the *asset* in which nations hold their reserves is changing <a class="yt-timestamp" data-t="00:23:11">[00:23:11]</a>. A shift away from US treasuries would mean a real-terms default on the value of the US Treasury debt, fundamentally changing capital flows and leading to a rebalancing <a class="yt-timestamp" data-t="00:23:56">[00:23:56]</a>.
+
+### Tariffs as a Policy Tool
+The Trump administration attempted to rectify the trade deficit using tariffs <a class="yt-timestamp" data-t="00:25:00">[00:25:00]</a>. The "liberation day" on April 2nd involved a 10% tariff on goods from all countries, with 34% on China and 20% on the EU <a class="yt-timestamp" data-t="00:27:11">[00:27:11]</a>. This led to escalating [[trade_tensions_and_tariffs_involving_the_us | trade tensions and tariffs involving the US]] between the US and China, with US tariffs reaching as high as 145% <a class="yt-timestamp" data-t="00:27:23">[00:27:23]</a>.
+
+However, tariffs proved to be a politically destabilizing tool <a class="yt-timestamp" data-t="00:25:26">[00:25:26]</a>. By taxing imports, they increase consumer prices, which harms ordinary Americans who don't yet have higher-paying jobs <a class="yt-timestamp" data-t="00:25:31">[00:25:31]</a>. This leads to goods inflation, making people feel poorer and creating political backlash <a class="yt-timestamp" data-t="00:26:06">[00:26:06]</a>. The [[impacts_of_tariffs_on_markets_and_economy | impacts of tariffs on markets and economy]] became evident quickly, leading to a 90-day truce between the US and China, with both sides returning to a 10% tariff baseline <a class="yt-timestamp" data-t="00:27:30">[00:27:30]</a>. This reversal suggests that tariffs are not a politically sustainable tool for the Trump administration <a class="yt-timestamp" data-t="00:29:06">[00:29:06]</a>.
+
+### Shift to Capital Controls
+Since tariffs proved unsustainable, the administration is expected to pivot to capital controls to achieve the same goal of rectifying economic imbalances <a class="yt-timestamp" data-t="00:30:04">[00:30:04]</a>. This approach attacks the capital account surplus and foreign ownership of financial assets <a class="yt-timestamp" data-t="00:30:16">[00:30:16]</a>. This strategy would take longer to show effects but would be more politically palatable <a class="yt-timestamp" data-t="00:30:24">[00:30:24]</a>.
+
+Proposed [[rebalancing_of_the_global_economy_due_to_us_policies | Rebalancing of the global economy due to US policies]] methods include:
+*   **"User fees" or taxes on foreign ownership:** Imposing a yearly tax (e.g., 2%) on foreign-owned American assets (stocks, bonds, property) <a class="yt-timestamp" data-t="00:32:10">[00:32:10]</a>. This could generate significant revenue (e.g., $660 billion from $33 trillion in foreign assets) and allow the US to eliminate income taxes for 90% of Americans, making it a politically popular move framed as foreigners paying the cost <a class="yt-timestamp" data-t="00:37:00">[00:37:00]</a>.
+*   **Forcing allies to buy long-term bonds:** Forcing allied countries to buy less desirable long-term US bonds (e.g., 100-year bonds) with a significant devaluation, while offering face value for immediate dollar needs <a class="yt-timestamp" data-t="00:32:12">[00:32:12]</a>.
+*   **Banning foreign ownership of specific assets:** An example is the Texas legislation banning China, Iran, North Korea, and Russia from buying land in the state <a class="yt-timestamp" data-t="00:33:31">[00:33:31]</a>. This type of policy restricts foreigners from participating in US markets that were previously open <a class="yt-timestamp" data-t="00:33:50">[00:33:50]</a>. However, for the US to remain the global reserve currency issuer, it historically needed an open capital account <a class="yt-timestamp" data-t="00:34:36">[00:34:36]</a>.
+
+These [[implications_of_changing_global_trade_relationships | Implications of changing global trade relationships]] indicate a significant departure from previous policies.
+
+## Consequences of Capital Controls & Market Reactions
+
+Capital controls would inevitably lead to foreigners selling US assets to reduce the capital account surplus <a class="yt-timestamp" data-t="00:40:22">[00:40:22]</a>. Since foreign investment has underpinned the outperformance of US stock, bond, and property markets for the past 30 years, a withdrawal of this capital would cause these markets to decline <a class="yt-timestamp" data-t="00:40:29">[00:40:29]</a>.
+
+The [[us_economic_data_and_market_reactions | US economic data and market reactions]] during the "liberation day" period (April 2nd-9th) provided a preview: the dollar was down, stocks were down, treasuries were down (yields up), and gold was significantly up <a class="yt-timestamp" data-t="00:39:17">[00:39:17]</a>. Some interpreted this as US capital flight, suggesting unreliability as a partner <a class="yt-timestamp" data-t="00:39:31">[00:39:31]</a>.
+
+When markets, particularly the bond market, go down and volatility increases, the predictable response from the Treasury, Fed, and politicians is to print money <a class="yt-timestamp" data-t="00:41:01">[00:41:01]</a>. This "money printing" is intended to provide dollars to replace those leaving with foreigners <a class="yt-timestamp" data-t="00:41:16">[00:41:16]</a>. The anticipated consequence is a significant rise in the value of gold and Bitcoin <a class="yt-timestamp" data-t="00:41:23">[00:41:23]</a>. This is seen as the central "trade" based on the [[global_macroeconomic_factors_affecting_us_markets_and_economy | global macroeconomic factors affecting US markets and economy]] and the [[rebalancing_of_the_global_economy_due_to_us_policies | rebalancing of the global economy due to US policies]] <a class="yt-timestamp" data-t="00:41:29">[00:41:29]</a>.
+
+Foreign entities running carry trades (shorting their local currency, long the dollar) would unwind these positions, selling treasuries, property, and stocks to buy back their domestic currency to mitigate losses <a class="yt-timestamp" data-t="00:42:06">[00:42:06]</a>. This unwind was partially observed in early May, with the Taiwan dollar and South Korean won strengthening significantly, indicating authorities are accepting the change <a class="yt-timestamp" data-t="00:43:01">[00:43:01]</a>.
+
+The expectation is that future capital controls will lead to further market downturns (dollar down, stocks down, treasuries down) and significant increases in gold and Bitcoin prices <a class="yt-timestamp" data-t="00:43:56">[00:43:56]</a>.
+
+## The "Chai America Divorce"
+
+The US and China are heading for an economic "divorce," but the question is the speed at which it will happen <a class="yt-timestamp" data-t="00:29:18">[00:29:18]</a>. The initial rapid implementation of tariffs on April 2nd was too destabilizing, forcing a slowdown <a class="yt-timestamp" data-t="00:29:26">[00:29:26]</a>.
+
+This "divorce" does not necessarily imply a hot war <a class="yt-timestamp" data-t="01:25:47">[01:25:47]</a>. Some analysts believe Taiwan is already financially tied to China, negating the strategic benefit of a costly amphibious invasion <a class="yt-timestamp" data-t="01:26:02">[01:26:02]</a>. Furthermore, China's one-child policy means families would be reluctant to see their only son sent to war, risking regime change <a class="yt-timestamp" data-t="01:27:09">[01:27:09]</a>. Many senior Chinese government leaders also have significant financial interests in America, creating mutual benefits that disincentivize conflict <a class="yt-timestamp" data-t="01:27:56">[01:27:56]</a>.
+
+Instead, the "divorce" implies a future (e.g., in 30 years) where distinct American and Chinese manufacturing bases compete globally, without direct military conflict <a class="yt-timestamp" data-t="01:28:38">[01:28:38]</a>. If a war were to occur, it would simply accelerate the capital controls and money printing, making non-custodial assets like Bitcoin even more crucial before gates are closed <a class="yt-timestamp" data-t="01:28:54">[01:28:54]</a>.
+
+The core belief is that neither US politicians nor voters have an appetite for austerity <a class="yt-timestamp" data-t="00:58:51">[00:58:51]</a>. They will continue to print money to fund the government and preserve the empire, regardless of the Fed's public statements on inflation <a class="yt-timestamp" data-t="00:55:58">[00:55:58]</a>.
+
+## Future Implications for Assets
+
+The trend of capital controls is expected to intensify, driving further money printing and ultimately benefiting assets like gold and Bitcoin <a class="yt-timestamp" data-t="00:41:16">[00:41:16]</a>. While the S&P 500 may rise, Bitcoin is predicted to significantly outperform it in terms of fiat value <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>. For those who cannot invest in crypto, buying broad stock market indices like the NASDAQ or S&P 500 is recommended over long-term government bonds <a class="yt-timestamp" data-t="00:51:20">[00:51:20]</a>. Long-term bonds are generally viewed as unfavorable investments <a class="yt-timestamp" data-t="00:47:35">[00:47:35]</a>.
+
+A "user fee" or tax on foreign capital, making foreigners "pay for it," is seen as the most politically feasible and likely next step to address the imbalance <a class="yt-timestamp" data-t="00:38:40">[00:38:40]</a>.
+
+A potential "one-time trick" could involve revaluing the US Treasury's gold reserves (approximately 8,133 metric tons) from their current book value of $42 per ounce to the prevailing market price <a class="yt-timestamp" data-t="01:22:14">[01:22:14]</a>. This could generate trillions of dollars of "free money" for the Treasury to spend, allowing them to buy back bonds and reduce yields, serving as a political boon for elections <a class="yt-timestamp" data-t="01:23:55">[01:23:55]</a>. The fact that gold was exempted from tariffs during the "liberation day" suggests a subtle encouragement for its price to rise <a class="yt-timestamp" data-t="01:23:02">[01:23:02]</a>.
+
+Ultimately, individual investors are advised to hold gold and Bitcoin as they represent capital that can move freely between systems, offering protection against unpredictable restrictions imposed by national governments <a class="yt-timestamp" data-t="01:13:03">[01:13:03]</a>.
