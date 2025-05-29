@@ -5,23 +5,18 @@ videoId: 9zCAHYwpQNA
 
 From: [[blueprint.financial]] <br/> 
 
-Traveling offers insight into the diverse tipping cultures across the globe <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. What might be expected in one country can be unusual or even offensive in another <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>.
+Tipping customs vary significantly across the globe, offering a stark contrast to the [[current_tipping_practices_in_canada | current tipping practices in Canada]] <a class="yt-timestamp" data-t="04:57:00">[04:57:00]</a>. Observing these different norms can highlight how service quality doesn't always correlate with the expectation of a tip <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>.
 
-## Historical European Roots
-The ritual of tipping originated in the early 1900s, brought over from Europe <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. It began as a master-servant custom in England <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+## Diverse Tipping Norms
 
-## Relaxed Tipping Cultures
-Countries with cultural ties to Canada, such as Australia and the UK, often have a more relaxed approach to tipping <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>.
-*   **Australia** Tipping is not expected <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
-*   **United Kingdom** A service charge is frequently included, demonstrating that good service doesn't require a separate tip <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+While Canada's tipping culture has evolved significantly, becoming a significant expectation <a class="yt-timestamp" data-t="00:48:00">[00:48:00]</a>, many other countries maintain different approaches:
 
-## Asia's No-Tipping Norms
-Generally, Asian countries do not expect tipping at all <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
-*   **Japan** Tipping can even be viewed as rude <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>.
-*   **Vietnam** A personal experience recounted how a server in Vietnam ran out to return a left tip, confirming that tipping is not customary <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
+*   **Australia** Tipping is not expected <a class="yt-timestamp" data-t="05:13:00">[05:13:00]</a>.
+*   **United Kingdom (UK)** A service charge is often included in the bill, indicating that good service does not require the additional burden of tipping <a class="yt-timestamp" data-t="05:17:00">[05:17:00]</a>. Countries like Australia and the UK, despite sharing cultural ties with Canada, adopt a much more relaxed stance on tipping <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a>.
+*   **Asia** Generally, tipping is not expected at all <a class="yt-timestamp" data-t="05:24:00">[05:24:00]</a>. In some Asian countries, like Japan, tipping can even be considered rude <a class="yt-timestamp" data-t="05:26:00">[05:26:00]</a>. A personal anecdote from Vietnam illustrates this: a server once ran after a customer to return a tip, demonstrating that it is not customary <a class="yt-timestamp" data-t="05:29:00">[05:29:00]</a>.
 
-## Observations on Service Quality
-Service in cultures where tipping is not customary can be as good as, or even better than, service in countries like [[current_tipping_culture_and_trends_in_canada | Canada]] <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>. This often results in interactions feeling more genuine and less transactional <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>.
+In cultures where tipping is not customary or expected, service quality can be just as good, if not better, than in Canada <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>. This often results in interactions that feel more genuine and less transactional <a class="yt-timestamp" data-t="05:55:00">[05:55:00]</a>.
 
-## The Future: "Service Included" Models
-The concept of "service included" pricing, similar to what is seen in Europe, where staff are paid higher wages and costs are included in menu prices, is gaining traction <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. This provides a hassle-free experience and could be a direction for other countries <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>. The [[impact_of_technology_on_tipping_behaviors | impact of technology on tipping behaviors]], particularly digital tipping screens, may also push more people towards these no-tipping models <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
+## Impact on Service Experience
+
+The speaker notes that experiencing different tipping cultures abroad highlighted how varying these norms are <a class="yt-timestamp" data-t="04:57:00">[04:57:00]</a>. The shift in Canada from a polite gesture to a perceived "polite mugging" <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a> creates a different dynamic compared to regions where tips are not integral to service workers' income. In Canada, many workers rely on tips to make ends meet, contributing to the pressure felt by both customers and staff <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>. In contrast, "no tipping models" or "service-included pricing," similar to European styles, are gaining traction in some Canadian establishments, where staff are paid higher wages and costs are included in menu prices <a class="yt-timestamp" data-t="07:51:00">[07:51:00]</a>. This approach aims to create a more hassle-free experience for the customer <a class="yt-timestamp" data-t="07:56:00">[07:56:00]</a>.

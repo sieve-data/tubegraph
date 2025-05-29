@@ -5,14 +5,12 @@ videoId: OjAFidFJfUE
 
 From: [[blueprint.financial]] <br/> 
 
-US President Donald Trump has imposed new tariffs on imports from Canada, creating a new trade dispute <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. This development significantly impacts the Canadian economy and adds pressure on the government <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+The imposition of new tariffs by US President Donald Trump on imports from Canada has introduced significant uncertainty and pressure on the Canadian economy <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
 
-## Economic Pressure and Government Priorities
+## Economic Pressure and Investment Concerns
 
-The introduction of new tariffs places additional strain on the Canadian economy <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>. Businesses and investors are already anticipating economic fallout <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. In response, the Canadian government may need to prioritize defending Canadian industries over implementing unpopular tax increases, such as the capital gains tax hike <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+This latest trade dispute places additional strain on Canada's economy <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. The threats from US tariffs could potentially drive businesses and investments southward, further exacerbating existing high business costs in Canada <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. With businesses and investors already anticipating economic fallout, the Canadian government may need to prioritize defending Canadian industries over implementing unpopular tax increases <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
 
-## Discouraging Investment
+## Influence on Capital Gains Tax Decisions
 
-The threat of US tariffs could further incentivize businesses and investments to shift southward, away from Canada <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. This situation is particularly challenging given that Canada already faces high business costs, including significant corporate tax rates, regulations, and labor costs <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. The tariffs, combined with these existing challenges, make it more difficult for Canadian companies to grow, sell, or reinvest within the country <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>.
-
-The presence of Trump tariffs is considered a factor that makes a full reversal of the capital gains tax hike in Canada highly likely, with one estimate suggesting an 80% chance of such a reversal <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>.
+The uncertainty introduced by the Trump tariffs is a factor making the proposed [[future_scenarios_for_canada_capital_gains_tax | capital gains tax]] hike in Canada even less likely <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. The new deferral of the tax increase, combined with the US tariffs, contributes to an estimated 80% chance of a full reversal of the capital gains tax <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>.

@@ -1,604 +1,611 @@
 ---
 title: blueprint.financial
 ---
-### [The CRA is Watching TFSA Holders: Avoid These 3 Red Flags!](https://www.youtube.com/watch?v=Qr2LFVxVWBE)
-- [[understanding_cra_red_flags_for_tfsas | Understanding CRA Red Flags for TFSAs]]
-- [[consequences_of_turning_a_tfsa_into_a_business | Consequences of Turning a TFSA into a Business]]
-- [[penalties_for_overcontributing_to_a_tfsa | Penalties for Overcontributing to a TFSA]]
-- [[non_resident_contributions_to_tfsas | Non Resident Contributions to TFSAs]]
-- [[prohibited_investments_in_tfsas | Prohibited Investments in TFSAs]]
-
-### [2025 CPP, OAS, GIS Updates: Big Changes to Your Pensions!](https://www.youtube.com/watch?v=Ml9zS8bD6z0)
-- [[2025_cpp_payment_schedule_and_cost_of_living_adjustments | 2025 CPP payment schedule and cost of living adjustments]]
-- [[oas_updates_and_clawback_thresholds | OAS updates and clawback thresholds]]
-- [[gis_updates_for_lowincome_seniors | GIS updates for lowincome seniors]]
-- [[cpp_enhancement_for_higher_earners | CPP enhancement for higher earners]]
-- [[retirement_planning_strategies_to_navigate_pension_changes | Retirement planning strategies to navigate pension changes]]
-
-### [Average CPP Benefits at 60, 65, and 70: How Much Will You Get?](https://www.youtube.com/watch?v=MvoPfHvOwtI)
-- [[cpp_payment_strategies_and_optimization | CPP payment strategies and optimization]]
-- [[average_vs_maximum_cpp_benefits | Average vs maximum CPP benefits]]
-- [[factors_affecting_cpp_payouts | Factors affecting CPP payouts]]
-- [[how_to_estimate_your_cpp_benefits | How to estimate your CPP benefits]]
-- [[strategies_to_increase_cpp_payouts | Strategies to increase CPP payouts]]
-
-### [The RRSP Trap: Why Many Canadians Regret Saving in RRSPs](https://www.youtube.com/watch?v=d5iQBCUcx3s)
-- [[costly_misconceptions_about_rrsps | Costly misconceptions about RRSPs]]
-- [[inflexibility_and_tax_consequences_of_rrsp_withdrawals | Inflexibility and tax consequences of RRSP withdrawals]]
-- [[withholding_tax_surprises_for_rrsp_withdrawals | Withholding tax surprises for RRSP withdrawals]]
-- [[disappointment_with_rrsp_tax_refunds | Disappointment with RRSP tax refunds]]
-- [[lack_of_investment_strategy_in_rrsps | Lack of investment strategy in RRSPs]]
-
-### [Leaving Canada? 7 CRA Tax Traps You Must Avoid](https://www.youtube.com/watch?v=bCdCqKj3vMw)
-- [[understanding_tax_residency_status_when_leaving_canada | Understanding tax residency status when leaving Canada]]
-- [[departure_tax_and_its_implications | Departure tax and its implications]]
-- [[handling_form_nr73_and_residency_determination | Handling form nr73 and residency determination]]
-- [[effect_of_tax_treaties_and_tiebreaker_rules | Effect of tax treaties and tiebreaker rules]]
-- [[managing_canadian_income_after_becoming_a_nonresident | Managing Canadian income after becoming a nonresident]]
-
-### [Want the $2,034 Maximum CPP Benefit? Here’s the Salary You Need](https://www.youtube.com/watch?v=X1bmERAYKR8)
-- [[factors_determining_maximum_cpp_benefits | Factors determining maximum CPP benefits]]
-- [[importance_of_salary_levels_for_cpp | Importance of salary levels for CPP]]
-- [[impact_of_delaying_cpp_collection | Impact of delaying CPP collection]]
-- [[role_of_contribution_history_in_cpp_calculation | Role of contribution history in CPP calculation]]
-- [[strategies_to_maximize_cpp_benefits | Strategies to maximize CPP benefits]]
-
-### [Average Net Worth in Canada by Age (30, 40, 50, 60): How do You Compare?](https://www.youtube.com/watch?v=K7fXmR3VJhs)
-- [[average_net_worth_in_canada_by_age_group | Average net worth in Canada by age group]]
-- [[impact_of_real_estate_on_canadian_net_worth | Impact of real estate on Canadian net worth]]
-- [[wealth_disparity_between_homeowners_and_renters_in_canada | Wealth disparity between homeowners and renters in Canada]]
-- [[net_worth_differences_by_household_type_in_canada | Net worth differences by household type in Canada]]
-- [[strategies_for_increasing_personal_net_worth_using_data | Strategies for increasing personal net worth using data]]
-
-### [TFSA Banned Investments That Trigger 100% CRA Penalties](https://www.youtube.com/watch?v=qQouMAQshec)
-- [[tfsa_banned_investments_and_cra_penalties | TFSA banned investments and CRA penalties]]
-- [[the_cra_advantage_rule_and_its_implications | The CRA Advantage rule and its implications]]
-- [[nonqualified_investments_and_associated_taxes | Nonqualified investments and associated taxes]]
-- [[nonarms_length_transactions_and_cra_oversight | Nonarms length transactions and CRA oversight]]
-- [[strategies_to_avoid_tfsa_penalties | Strategies to avoid TFSA penalties]]
-
-### [5 RRSP Withdrawal Strategies to Save MASSIVE Taxes! (RRSP Meltdown)](https://www.youtube.com/watch?v=xIgUuzIlQgg)
-- [[rrsp_withdrawal_strategies | RRSP withdrawal strategies]]
-- [[tax_implications_of_rrsp_withdrawals | Tax implications of RRSP withdrawals]]
-- [[maximizing_cpp_and_oas_benefits | Maximizing CPP and OAS benefits]]
-- [[minimizing_rrsp_taxes_upon_death | Minimizing RRSP taxes upon death]]
-- [[using_tfsa_in_retirement_planning | Using TFSA in retirement planning]]
-
-### [What Net Worth Puts You in the Upper, Middle, & Lower Class in Canada?](https://www.youtube.com/watch?v=CFUM9mQzXAQ)
-- [[understanding_net_worth_classes_in_canada | Understanding Net Worth Classes in Canada]]
-- [[financial_characteristics_and_challenges_of_lower_class_in_canada | Financial Characteristics and Challenges of Lower Class in Canada]]
-- [[strategies_for_improving_financial_position_across_different_wealth_classes | Strategies for Improving Financial Position Across Different Wealth Classes]]
-- [[importance_of_net_worth_over_income_for_financial_freedom | Importance of Net Worth Over Income for Financial Freedom]]
-- [[global_perspective_on_wealth_and_income | Global Perspective on Wealth and Income]]
-
-### [Retire Richer Abroad: Low-Cost Countries to Stretch Your CPP & OAS](https://www.youtube.com/watch?v=6L-_D1SJWfc)
-- [[reasons_canadians_retire_abroad | Reasons Canadians retire abroad]]
-- [[cost_of_living_comparison_for_canadian_retirees_abroad | Cost of living comparison for Canadian retirees abroad]]
-- [[top_countries_for_canadian_retirees | Top countries for Canadian retirees]]
-- [[retirement_planning_strategies_for_canadians | Retirement planning strategies for Canadians]]
-- [[challenges_and_errors_in_retiring_abroad | Challenges and errors in retiring abroad]]
-
-### [Try This 1 RRSP to TFSA Trick to Keep More Money in Retirement](https://www.youtube.com/watch?v=uxCYVBGibbI)
-- [[rrsp_to_tfsa_strategy_for_tax_savings | RRSP to TFSA strategy for tax savings]]
-- [[maximizing_tfsa_contributions_in_retirement | Maximizing TFSA contributions in retirement]]
-- [[tax_implications_of_rrsp_withdrawals | Tax implications of RRSP withdrawals]]
-- [[financial_strategies_for_canadian_retirees | Financial strategies for Canadian retirees]]
-- [[benefits_of_taxfree_growth_in_tfsa | Benefits of taxfree growth in TFSA]]
-
-### [Leaving Canada? Your TFSA, RRSP, CPP & OAS Will Change Drastically](https://www.youtube.com/watch?v=PGICQ_9LPiE)
-- [[changes_to_tfsa_when_leaving_canada | Changes to TFSA when leaving Canada]]
-- [[impact_on_rrsp_for_nonresidents | Impact on RRSP for nonresidents]]
-- [[cpp_benefits_for_canadians_moving_abroad | CPP benefits for Canadians moving abroad]]
-- [[oas_benefits_and_tax_implications_for_nonresidents | OAS benefits and tax implications for nonresidents]]
-- [[considerations_for_selling_your_house_before_leaving_canada | Considerations for selling your house before leaving Canada]]
-
-### [8 TFSA Silent Wealth Killers YOU MUST Avoid!](https://www.youtube.com/watch?v=ssWL1T0IZHk)
-- [[avoiding_high_fees_in_tfsa_investments | Avoiding high fees in TFSA investments]]
-- [[importance_of_having_a_clear_tfsa_strategy | Importance of having a clear TFSA strategy]]
-- [[managing_emotional_investing_in_tfsas | Managing emotional investing in TFSAs]]
-- [[investing_vs_saving_in_a_tfsa | Investing vs saving in a TFSA]]
-- [[risks_of_keeping_noncanadian_dividend_stocks_in_tfsas | Risks of keeping nonCanadian dividend stocks in TFSAs]]
-
-### [$40 Million in a Single TFSA?! How 2 Canadians Made It Happen](https://www.youtube.com/watch?v=tCrrQQKdmhk)
-- [[turn_12000_tfsa_limit_into_40_million | Turn 12000 TFSA limit into 40 million]]
-- [[options_trading_strategies_in_tfsa | Options trading strategies in TFSA]]
-- [[super_lucky_stock_picks | Super lucky stock picks]]
-- [[startup_equity_and_tfsa_rules | Startup equity and TFSA rules]]
-- [[risks_and_challenges_of_unconventional_tfsa_investments | Risks and challenges of unconventional TFSA investments]]
-
-### [The Rich Don’t Use RRSPs? Here's What They Do Instead…](https://www.youtube.com/watch?v=o4wnYO4ZHN0)
-- [[alternatives_to_rrsps_used_by_wealthy_canadians | Alternatives to RRSPs used by wealthy Canadians]]
-- [[benefits_and_risks_of_private_equity_investments | Benefits and risks of private equity investments]]
-- [[individual_pension_plans_as_a_retirement_strategy | Individual pension plans as a retirement strategy]]
-- [[family_trusts_for_wealth_management_and_tax_efficiency | Family trusts for wealth management and tax efficiency]]
-- [[comparing_rrsps_with_other_wealthbuilding_strategies | Comparing RRSPs with other wealthbuilding strategies]]
-
-### [The Average Retiree Spends THIS Much in Canada? (I'm Shocked!)](https://www.youtube.com/watch?v=-2mqsZtevJo)
-- [[average_spending_for_canadian_retirees | Average spending for Canadian retirees]]
-- [[budgeting_for_retirement_in_canada | Budgeting for retirement in Canada]]
-- [[stages_of_retirement_spending | Stages of retirement spending]]
-- [[changes_in_spending_habits_as_retirees_age | Changes in spending habits as retirees age]]
-- [[importance_of_financial_planning_for_retirement | Importance of financial planning for retirement]]
+### [Don’t Fear Higher Tax Brackets](https://www.youtube.com/watch?v=GlMQMt8pgKs)
+- [[progressive_tax_system | Progressive tax system]]
+- [[federal_tax_brackets | Federal tax brackets]]
+- [[misconceptions_about_taxes | Misconceptions about taxes]]
+- [[impact_of_salary_raise_on_taxes | Impact of salary raise on taxes]]
+- [[benefits_of_higher_income | Benefits of higher income]]
 
 ### [Retiring Outside Canada: Will You Lose Your CPP, OAS & GIS?](https://www.youtube.com/watch?v=dCY7Rm2qwKQ)
-- [[impact_of_retiring_outside_canada_on_canadian_benefits | Impact of retiring outside Canada on Canadian benefits]]
-- [[portability_and_eligibility_of_gis_outside_canada | Portability and eligibility of GIS outside Canada]]
-- [[cpp_benefits_for_canadians_retiring_abroad | CPP benefits for Canadians retiring abroad]]
-- [[oas_eligibility_and_tax_considerations_for_nonresidents | OAS eligibility and tax considerations for nonresidents]]
-- [[tax_treaties_and_withholding_tax_for_canadian_retirees_abroad | Tax treaties and withholding tax for Canadian retirees abroad]]
-
-### [Do THIS to Build a $1 Million TFSA in Canada](https://www.youtube.com/watch?v=2dh-7xI95cE)
-- [[tfsa_investment_strategies_to_reach_1_million | TFSA investment strategies to reach 1 million]]
-- [[common_mistakes_to_avoid_in_tfsa_investments | Common mistakes to avoid in TFSA investments]]
-- [[different_investment_options_for_tfsa_growth | Different investment options for TFSA growth]]
-- [[managing_taxefficient_withdrawals_from_a_tfsa | Managing taxefficient withdrawals from a TFSA]]
-- [[balancing_risk_and_return_in_tfsa_investments | Balancing risk and return in TFSA investments]]
-
-### [Chinese-Canadians Retire WAY Earlier: What’s Their Secret?](https://www.youtube.com/watch?v=TMpb0b3elnA)
-- [[chinese_canadian_retirement_habits | Chinese Canadian retirement habits]]
-- [[cultural_influence_on_financial_planning | Cultural influence on financial planning]]
-- [[impact_of_home_ownership_on_retirement | Impact of home ownership on retirement]]
-- [[family_structure_and_support_in_retirement | Family structure and support in retirement]]
-- [[mindset_and_cultural_expectations_for_early_retirement | Mindset and cultural expectations for early retirement]]
-
-### [The Average Retiree Income in Canada Is Only THIS Much? (And Falling)](https://www.youtube.com/watch?v=n3x3xXmdagk)
-- [[retirement_income_challenges_in_canada | Retirement income challenges in Canada]]
-- [[impact_of_inflation_on_retiree_purchasing_power | Impact of inflation on retiree purchasing power]]
-- [[factors_contributing_to_falling_retiree_incomes | Factors contributing to falling retiree incomes]]
-- [[comparison_of_retiree_financial_situations | Comparison of retiree financial situations]]
-- [[strategies_for_extending_retirement_income | Strategies for extending retirement income]]
-
-### [How to Turn a $10,000 TFSA into $100,000](https://www.youtube.com/watch?v=JMv-A-gycOs)
-- [[transforming_a_tfsa_from_10000_to_100000 | Transforming a TFSA from 10000 to 100000]]
-- [[key_investment_strategies_and_options | Key investment strategies and options]]
-- [[impact_of_time_and_rate_of_return_on_investment_growth | Impact of time and rate of return on investment growth]]
-- [[importance_of_regular_contributions_to_tfsa | Importance of regular contributions to TFSA]]
-- [[common_investment_mistakes_and_how_to_avoid_them | Common investment mistakes and how to avoid them]]
-
-### [Average RRSP Balance By Age (40, 50, 60, 70): Are You Saving Enough?](https://www.youtube.com/watch?v=gejL4WBnh2U)
-- [[average_rrsp_balance_changes_over_the_years | Average RRSP balance changes over the years]]
-- [[impact_of_inflation_and_economic_factors_on_rrsp_savings | Impact of inflation and economic factors on RRSP savings]]
-- [[comparison_between_median_and_average_rrsp_savings | Comparison between median and average RRSP savings]]
-- [[regional_differences_in_rrsp_balances_across_canada | Regional differences in RRSP balances across Canada]]
-- [[rrsp_savings_strategies_and_household_dynamics | RRSP savings strategies and household dynamics]]
-
-### [CPP Pensioners: You’re Getting a Cost-of-Living Raise in 2025!](https://www.youtube.com/watch?v=SrozPHcl3Os)
-- [[cpp_cost_of_living_increase_for_2025 | CPP cost of living increase for 2025]]
-- [[impact_of_inflation_on_canadian_retirees | Impact of inflation on Canadian retirees]]
-- [[strategies_for_financial_security_in_retirement | Strategies for financial security in retirement]]
-- [[supplemental_income_sources_for_retirees | Supplemental income sources for retirees]]
-- [[longterm_sustainability_of_the_cpp_fund | Longterm sustainability of the CPP fund]]
-
-### [5 Dividend ETFs Canadians Love (And Why I Don’t)](https://www.youtube.com/watch?v=kyXpwp7pfXw)
-- [[top_canadian_dividend_etfs | Top Canadian dividend ETFs]]
-- [[benefits_and_drawbacks_of_canadian_dividend_etfs | Benefits and drawbacks of Canadian dividend ETFs]]
-- [[covered_call_strategy_in_etfs | Covered call strategy in ETFs]]
-- [[comparison_between_canadian_and_us_dividend_stocks | Comparison between Canadian and US dividend stocks]]
-- [[limitations_of_diversification_in_dividend_etfs | Limitations of diversification in dividend ETFs]]
-
-### [Can You Retire on ONLY CPP & OAS in Canada?](https://www.youtube.com/watch?v=Ps4K8K8B9J4)
-- [[sustainability_of_retiring_on_cpp_and_oas | Sustainability of retiring on CPP and OAS]]
-- [[maximum_cpp_and_oas_benefits_in_different_scenarios | Maximum CPP and OAS benefits in different scenarios]]
-- [[cost_breakdown_of_living_on_cpp_and_oas | Cost breakdown of living on CPP and OAS]]
-- [[strategies_to_supplement_cpp_and_oas_income | Strategies to supplement CPP and OAS income]]
-- [[impact_of_delaying_cpp_and_oas_on_benefits | Impact of delaying CPP and OAS on benefits]]
-
-### [11 RRSP to RRIF Conversion Tactics to Save BIG on Taxes!](https://www.youtube.com/watch?v=1vMybnh7weY)
-- [[rrsp_to_rrif_conversion_process | RRSP to RRIF conversion process]]
-- [[tax_minimization_strategies_for_rrif_withdrawals | Tax minimization strategies for RRIF withdrawals]]
-- [[pension_income_tax_credit_benefits_for_rrifs | Pension income tax credit benefits for RRIFs]]
-- [[avoiding_oas_clawbacks_with_rrif_withdrawals | Avoiding OAS clawbacks with RRIF withdrawals]]
-- [[advanced_strategies_for_managing_rrif_withdrawals | Advanced strategies for managing RRIF withdrawals]]
-
-### [8 TFSA Mistakes You Must AVOID at All Cost](https://www.youtube.com/watch?v=ro6nm-q96es)
-- [[naming_a_beneficiary_vs_a_successor_holder_for_tfsa | Naming a beneficiary vs a successor holder for TFSA]]
-- [[coordinating_tfsa_with_other_financial_accounts | Coordinating TFSA with other financial accounts]]
-- [[investment_risk_management_in_tfsa_accounts | Investment risk management in TFSA accounts]]
-- [[paying_off_high_interest_debt_before_investing_in_tfsa | Paying off high interest debt before investing in TFSA]]
-- [[understanding_tfsa_contribution_limits_and_avoiding_overcontribution | Understanding TFSA contribution limits and avoiding overcontribution]]
-
-### [5 Retirement Tax-Saving Strategies (Save HUGE on Taxes in Canada!)](https://www.youtube.com/watch?v=8NPag8U3YvM)
-- [[retirement_tax_credits_for_canadians | Retirement tax credits for Canadians]]
-- [[optimal_timing_for_cpp_and_oas_benefits | Optimal timing for CPP and OAS benefits]]
-- [[retirement_income_splitting_strategies | Retirement income splitting strategies]]
-- [[utilizing_tfsa_and_rrsp_for_tax_efficiency | Utilizing TFSA and RRSP for tax efficiency]]
-- [[advanced_retirement_tax_strategies_like_family_trusts_and_individual_pension_plans | Advanced retirement tax strategies like Family Trusts and Individual Pension Plans]]
-
-### [TFSA Limit 2025 UPDATE: Over $100K Contribution Room!](https://www.youtube.com/watch?v=m1oMpGB3cBc)
-- [[tfsa_2025_contribution_limits | TFSA 2025 contribution limits]]
-- [[compounding_and_investment_growth_in_a_tfsa | Compounding and investment growth in a TFSA]]
-- [[avoiding_tfsa_overcontribution_penalties | Avoiding TFSA overcontribution penalties]]
-- [[methods_to_calculate_tfsa_contribution_room | Methods to calculate TFSA contribution room]]
-- [[tfsa_eligibility_criteria_and_scenarios | TFSA eligibility criteria and scenarios]]
-
-### [Average Income in Canada by Age (30, 40, 50, 60): Are You Keeping Up?](https://www.youtube.com/watch?v=WRrFuzzyLoE)
-- [[average_and_median_income_by_age_in_canada | Average and median income by age in Canada]]
-- [[income_disparities_by_gender_in_canada | Income disparities by gender in Canada]]
-- [[impact_of_education_on_income_levels_in_canada | Impact of education on income levels in Canada]]
-- [[income_variation_by_province_in_canada | Income variation by province in Canada]]
-- [[strategies_to_increase_personal_income | Strategies to increase personal income]]
-
-### [Why Many New Canadians Miss Out on Full CPP & OAS](https://www.youtube.com/watch?v=NdyZn56l9v8)
-- [[cpp_and_oas_eligibility_and_challenges_for_immigrants | CPP and OAS eligibility and challenges for immigrants]]
-- [[impact_of_canadian_residency_on_oas_benefits | Impact of Canadian residency on OAS benefits]]
-- [[social_security_agreements_and_their_role_in_oas_qualification | Social security agreements and their role in OAS qualification]]
-- [[cpp_contributions_and_retirement_planning_for_immigrants | CPP contributions and retirement planning for immigrants]]
-- [[gis_benefits_and_the_implications_of_retiring_abroad | GIS benefits and the implications of retiring abroad]]
-
-### [Avoid This Brutal 50% RRSP Tax Trap in Retirement (Save HUGE Taxes!)](https://www.youtube.com/watch?v=VZ2M-UOYxTY)
-- [[understanding_rrsp_taxes_on_death | Understanding RRSP Taxes on Death]]
-- [[strategies_to_minimize_rrsp_taxes_for_spouses_and_dependents | Strategies to Minimize RRSP Taxes for Spouses and Dependents]]
-- [[converting_rrsp_to_rrif_for_tax_efficiency | Converting RRSP to RRIF for Tax Efficiency]]
-- [[using_life_insurance_to_offset_rrsp_taxes | Using Life Insurance to Offset RRSP Taxes]]
-- [[income_splitting_and_individual_pension_plans_for_tax_reduction | Income Splitting and Individual Pension Plans for Tax Reduction]]
-
-### [Don’t Fear Higher Tax Brackets](https://www.youtube.com/watch?v=GlMQMt8pgKs)
-- [[understanding_tax_brackets | Understanding tax brackets]]
-- [[progressive_tax_system_explained | Progressive tax system explained]]
-- [[impact_of_salary_raises_on_taxes | Impact of salary raises on taxes]]
-- [[common_tax_myths | Common tax myths]]
-- [[canadian_tax_system | Canadian tax system]]
-
-### [More CRA Audits in 2025: Will You Get Targeted?](https://www.youtube.com/watch?v=12jy9XFh2CA)
-- [[increased_audits_and_ai_usage_by_the_cra | Increased audits and AI usage by the CRA]]
-- [[risk_factors_for_cra_audits_in_2025 | Risk factors for CRA audits in 2025]]
-- [[cras_expanded_audit_powers_and_penalties | CRAs expanded audit powers and penalties]]
-- [[real_estate_and_cashbased_businesses_under_cra_scrutiny | Real estate and cashbased businesses under CRA scrutiny]]
-- [[avoiding_tax_evasion_and_aggressive_tax_strategies | Avoiding tax evasion and aggressive tax strategies]]
-
-### [Why Retiring at 65 Is Disappearing in Canada](https://www.youtube.com/watch?v=3W_Mljxivoc)
-- [[changing_retirement_age_in_canada | Changing retirement age in Canada]]
-- [[longer_life_expectancy_and_its_impact_on_retirement | Longer life expectancy and its impact on retirement]]
-- [[financial_planning_for_retirement_in_canada | Financial planning for retirement in Canada]]
-- [[rising_cost_of_living_and_its_effect_on_retirees | Rising cost of living and its effect on retirees]]
-- [[shifts_in_employment_and_retirement_views | Shifts in employment and retirement views]]
+- [[cpp_benefits_for_canadians_living_abroad | CPP benefits for Canadians living abroad]]
+- [[oas_residency_requirements_for_retirees | OAS residency requirements for retirees]]
+- [[impact_of_living_abroad_on_gis_benefits | Impact of living abroad on GIS benefits]]
+- [[tax_implications_for_canadian_benefits_abroad | Tax implications for Canadian benefits abroad]]
+- [[retirement_planning_for_canadian_expats | Retirement planning for Canadian expats]]
 
 ### [The TFSA Queen Strategy: 5 Power Moves to Maximize Wealth](https://www.youtube.com/watch?v=_WHj6nEAbnQ)
-- [[tfsa_strategy_compared_to_chess | TFSA strategy compared to chess]]
-- [[maximizing_tfsa_for_taxfree_growth | Maximizing TFSA for taxfree growth]]
-- [[importance_of_consistent_contributions_to_tfsa | Importance of consistent contributions to TFSA]]
-- [[optimal_uses_and_misuse_of_a_tfsa | Optimal uses and misuse of a TFSA]]
-- [[role_of_tfsa_in_retirement_planning | Role of TFSA in retirement planning]]
+- [[tfsa_and_chess_strategy_comparison | TFSA and Chess Strategy Comparison]]
+- [[maximizing_tfsa_benefits | Maximizing TFSA Benefits]]
+- [[common_mistakes_with_tfsa_usage | Common Mistakes with TFSA Usage]]
+- [[importance_of_strategic_tfsa_withdrawals | Importance of Strategic TFSA Withdrawals]]
+- [[role_of_tfsa_in_retirement_planning | Role of TFSA in Retirement Planning]]
 
-### [Why Mutual Funds in Canada are a MASSIVE Rip-Off](https://www.youtube.com/watch?v=j6sbeT0H9D0)
-- [[high_fees_associated_with_canadian_mutual_funds | High fees associated with Canadian mutual funds]]
-- [[underperformance_of_canadian_mutual_funds_compared_to_benchmarks | Underperformance of Canadian mutual funds compared to benchmarks]]
-- [[misleading_marketing_tactics_employed_by_banks_for_mutual_funds | Misleading marketing tactics employed by banks for mutual funds]]
-- [[tax_inefficiencies_of_holding_mutual_funds_in_canada | Tax inefficiencies of holding mutual funds in Canada]]
-- [[alternatives_to_mutual_funds_for_canadian_investors | Alternatives to mutual funds for Canadian investors]]
+### [$40 Million in a Single TFSA?! How 2 Canadians Made It Happen](https://www.youtube.com/watch?v=tCrrQQKdmhk)
+- [[turning_a_tfsa_into_40_million | Turning a TFSA into 40 million]]
+- [[strategies_for_maximizing_tfsa_growth | Strategies for maximizing TFSA growth]]
+- [[risks_of_options_trading_in_a_tfsa | Risks of options trading in a TFSA]]
+- [[the_cra_and_tax_implications_of_high_tfsa_balances | The CRA and tax implications of high TFSA balances]]
+- [[success_stories_and_challenges_with_tfsa_investments | Success stories and challenges with TFSA investments]]
 
-### [Ideal Order of Investing in Canada (TFSA, RRSP, FHSA, RESP, RDSP?)](https://www.youtube.com/watch?v=vBuRivxvWZc)
-- [[optimizing_tfsa_rrsp_and_fhsa_accounts_for_tax_benefits | Optimizing TFSA RRSP and FHSA accounts for tax benefits]]
-- [[prioritizing_investment_accounts_for_canadians | Prioritizing investment accounts for Canadians]]
-- [[benefits_and_usage_of_the_disability_savings_rdsp | Benefits and usage of the Disability Savings RDSP]]
-- [[resp_and_rrsp_employer_matching_for_education_and_retirement | RESP and RRSP Employer Matching for Education and Retirement]]
-- [[differences_between_registered_and_nonregistered_investment_accounts_in_canada | Differences between registered and nonregistered investment accounts in Canada]]
+### [What Salary Puts You in the Top 10% in Canada?](https://www.youtube.com/watch?v=hk-CFcOf-fE)
+- [[income_thresholds_for_top_earners_in_canada | Income thresholds for top earners in Canada]]
+- [[comparison_of_median_and_average_incomes | Comparison of median and average incomes]]
+- [[economic_resilience_and_income_inequality_in_canada | Economic resilience and income inequality in Canada]]
+- [[lifestyle_and_financial_habits_of_top_earners | Lifestyle and financial habits of top earners]]
+- [[impact_of_taxes_on_high_income_earners | Impact of taxes on high income earners]]
 
-### [CPP Timing: Should You Start Payments at Age 60, 65, or 70?](https://www.youtube.com/watch?v=cLbHjquYJUw)
-- [[timing_of_cpp_benefits | Timing of CPP Benefits]]
-- [[factors_influencing_cpp_start_age_decision | Factors Influencing CPP Start Age Decision]]
-- [[actuarial_studies_and_reports_on_cpp | Actuarial Studies and Reports on CPP]]
-- [[life_expectancy_and_longevity_planning_for_cpp | Life Expectancy and Longevity Planning for CPP]]
-- [[retirement_strategies_integrating_cpp | Retirement Strategies Integrating CPP]]
-
-### [5 Common Medical Expenses the CRA Lets You Claim!](https://www.youtube.com/watch?v=D88cmLS7Wqk)
-- [[medical_expense_tax_credits_in_canada | Medical expense tax credits in Canada]]
-- [[claimable_medical_expenses_for_taxes | Claimable medical expenses for taxes]]
-- [[calculating_eligible_medical_expense_claims | Calculating eligible medical expense claims]]
-- [[travel_expenses_for_medical_care | Travel expenses for medical care]]
-- [[private_health_insurance_premiums_deductions | Private health insurance premiums deductions]]
-
-### [7 Huge CPP Mistakes to AVOID in Canada!](https://www.youtube.com/watch?v=jaUjvqOPCWM)
-- [[common_cpp_mistakes_and_how_to_avoid_them | Common CPP mistakes and how to avoid them]]
-- [[tax_implications_of_cpp_benefits | Tax implications of CPP benefits]]
-- [[advantages_and_disadvantages_of_early_cpp_withdrawal | Advantages and disadvantages of early CPP withdrawal]]
-- [[cpp_pension_sharing_and_survivor_benefits | CPP pension sharing and survivor benefits]]
-- [[the_cpp_disability_benefit_and_its_importance | The CPP disability benefit and its importance]]
+### [Why Many New Canadians Miss Out on Full CPP & OAS](https://www.youtube.com/watch?v=NdyZn56l9v8)
+- [[understanding_cpp_and_oas_for_new_canadians | Understanding CPP and OAS for new Canadians]]
+- [[impact_of_residency_duration_on_oas_eligibility | Impact of residency duration on OAS eligibility]]
+- [[social_security_agreements_and_their_benefits | Social security agreements and their benefits]]
+- [[challenges_for_immigrants_in_maximizing_cpp | Challenges for immigrants in maximizing CPP]]
+- [[strategies_for_optimizing_retirement_income_for_immigrants | Strategies for optimizing retirement income for immigrants]]
 
 ### [Average Cost of Food for One Person in Canada: $200, $300… or Way More?](https://www.youtube.com/watch?v=HNs1jU6s254)
-- [[average_grocery_spending_in_canada_by_household_type | Average grocery spending in Canada by household type]]
-- [[impact_of_inflation_on_grocery_costs_in_canada | Impact of inflation on grocery costs in Canada]]
-- [[regional_differences_in_food_price_increases_across_canada | Regional differences in food price increases across Canada]]
-- [[effects_of_age_on_grocery_spending_habits | Effects of age on grocery spending habits]]
-- [[strategies_to_budget_and_save_on_groceries_in_canada | Strategies to budget and save on groceries in Canada]]
+- [[average_grocery_spending_in_canada | Average grocery spending in Canada]]
+- [[inflation_and_food_prices_in_canada | Inflation and food prices in Canada]]
+- [[grocery_costs_by_age_group_in_canada | Grocery costs by age group in Canada]]
+- [[impact_of_food_costs_on_canadians | Impact of food costs on Canadians]]
+- [[strategies_for_saving_on_groceries | Strategies for saving on groceries]]
 
-### [How Much to Retire in Canada? 4 Strategies to Find Your Number](https://www.youtube.com/watch?v=atoE6KymP_4)
-- [[strategies_to_determine_your_retirement_number_in_canada | Strategies to determine your retirement number in Canada]]
-- [[common_retirement_planning_mistakes_and_their_consequences | Common retirement planning mistakes and their consequences]]
-- [[using_rules_of_thumb_for_retirement_planning | Using rules of thumb for retirement planning]]
-- [[pros_and_cons_of_retirement_calculators | Pros and cons of retirement calculators]]
-- [[comprehensive_financial_planning_for_retirement | Comprehensive financial planning for retirement]]
+### [Chinese-Canadians Retire WAY Earlier: What’s Their Secret?](https://www.youtube.com/watch?v=TMpb0b3elnA)
+- [[financial_and_savings_habits_of_chinese_canadians | Financial and savings habits of Chinese Canadians]]
+- [[chinese_canadian_home_ownership_and_its_impact_on_retirement | Chinese Canadian home ownership and its impact on retirement]]
+- [[the_role_of_family_structure_and_intergenerational_support_in_chinese_canadian_retirement | The role of family structure and intergenerational support in Chinese Canadian retirement]]
+- [[selfemployment_and_work_patterns_among_chinese_canadians | Selfemployment and work patterns among Chinese Canadians]]
+- [[cultural_expectations_and_mindset_affecting_chinese_canadian_early_retirement | Cultural expectations and mindset affecting Chinese Canadian early retirement]]
 
-### [People Are Fleeing Canada: 5 Steps For You to Join Them](https://www.youtube.com/watch?v=rvW_9ApnMEY)
-- [[reasons_for_leaving_canada_and_rising_cost_of_living | Reasons for leaving Canada and rising cost of living]]
-- [[steps_to_consider_before_moving_abroad | Steps to consider before moving abroad]]
-- [[ways_to_make_money_while_living_overseas | Ways to make money while living overseas]]
-- [[understanding_tax_implications_and_becoming_a_nonresident | Understanding tax implications and becoming a nonresident]]
-- [[pathways_to_citizenship_in_a_new_country | Pathways to citizenship in a new country]]
-
-### [How to PAY LESS TAXES in Canada: 5 Proven Tax Strategies](https://www.youtube.com/watch?v=Oq1p-k_enyU)
-- [[tax_saving_strategies_for_investments_in_canada | Tax saving strategies for investments in Canada]]
-- [[income_splitting_strategies_for_canadian_taxpayers | Income splitting strategies for Canadian taxpayers]]
-- [[maximizing_tax_deductions_and_credits_in_canada | Maximizing tax deductions and credits in Canada]]
-- [[retirement_tax_strategies_in_canada | Retirement tax strategies in Canada]]
-- [[tax_strategies_for_selfemployed_canadians | Tax strategies for selfemployed Canadians]]
-
-### [3 Tax Cheats Jailed by the CRA: Avoid This Mistake!](https://www.youtube.com/watch?v=bNieXvbpdtc)
-- [[overview_of_tax_fraud_consequences_in_canada | Overview of tax fraud consequences in Canada]]
-- [[case_study_of_derek_quasney_and_corporate_fraud | Case study of Derek Quasney and corporate fraud]]
-- [[lessons_from_sean_nethercots_tax_evasion_case | Lessons from Sean Nethercots tax evasion case]]
-- [[analysis_of_tony_auros_construction_industry_fraud | Analysis of Tony Auros construction industry fraud]]
-- [[preventing_tax_fraud_and_legal_tax_planning_strategies | Preventing tax fraud and legal tax planning strategies]]
-
-### [Why Your Net Worth in Canada EXPLODES After $100K!](https://www.youtube.com/watch?v=o-AwK8749bM)
-- [[importance_of_reaching_a_100000_net_worth | Importance of reaching a 100000 net worth]]
-- [[impact_of_compounding_returns_on_net_worth_growth | Impact of compounding returns on net worth growth]]
-- [[role_of_income_growth_in_increasing_net_worth | Role of income growth in increasing net worth]]
-- [[influence_of_savings_rate_on_wealth_accumulation | Influence of savings rate on wealth accumulation]]
-- [[strategies_for_increasing_income_in_canada | Strategies for increasing income in Canada]]
-
-### [The Easiest Way to Invest in Canada (All-in-One ETFs)](https://www.youtube.com/watch?v=j7SyYX5PCck)
-- [[introduction_to_allinone_etfs | Introduction to AllinOne ETFs]]
-- [[benefits_of_allinone_etfs | Benefits of AllinOne ETFs]]
-- [[comparison_with_traditional_mutual_funds | Comparison with Traditional Mutual Funds]]
-- [[how_to_choose_the_right_allinone_etf | How to Choose the Right AllinOne ETF]]
-- [[common_investment_mistakes_with_etfs | Common Investment Mistakes with ETFs]]
-
-### [CPP After You Die: What Happens to Your Pension Payments?](https://www.youtube.com/watch?v=ktHL-BzB760)
-- [[cpp_survivorship_pension_eligibility_and_requirements | CPP survivorship pension eligibility and requirements]]
-- [[survivorship_pension_payment_amounts_and_factors | Survivorship pension payment amounts and factors]]
-- [[maximum_limits_and_how_personal_cpp_benefits_affect_survivorship_pension | Maximum limits and how personal CPP benefits affect survivorship pension]]
-- [[cpp_child_benefits_and_eligibility | CPP child benefits and eligibility]]
-- [[cpp_death_benefits_and_their_implications | CPP death benefits and their implications]]
-
-### [TFSA vs the World: Which Country Wins the Tax-Free Battle?](https://www.youtube.com/watch?v=pY1ldXE260c)
-- [[comparison_of_taxfree_accounts_in_different_countries | Comparison of taxfree accounts in different countries]]
-- [[canadas_tfsa_versus_uks_isa_features | Canadas TFSA versus UKs ISA features]]
-- [[japans_nissa_account_versus_usas_roth_ira_features | Japans Nissa account versus USAs Roth IRA features]]
-- [[pros_and_cons_of_tfsa_roth_ira_isa_and_nissa | Pros and cons of TFSA Roth IRA ISA and Nissa]]
-- [[financial_planning_with_taxfree_accounts_for_canadians | Financial planning with taxfree accounts for Canadians]]
-
-### [Most Canadians Waste These CRA Tax Breaks: Do THIS Instead](https://www.youtube.com/watch?v=t1jazKut5S0)
-- [[overlooked_cra_tax_deductions_and_credits | Overlooked CRA tax deductions and credits]]
-- [[canada_workers_benefit_cwb | Canada Workers Benefit CWB]]
-- [[pension_income_splitting_strategies | Pension income splitting strategies]]
-- [[spousal_rrsp_contributions | Spousal RRSP contributions]]
-- [[tax_filing_tips_and_software_recommendations | Tax filing tips and software recommendations]]
-
-### [7 Chinese Money-Saving Secrets Revealed (Save 40%!)](https://www.youtube.com/watch?v=10iwtARDNt4)
-- [[chinese_savings_habits | Chinese savings habits]]
-- [[cultural_influences_on_financial_decisions | Cultural influences on financial decisions]]
-- [[high_earning_careers_and_their_impact_on_savings | High earning careers and their impact on savings]]
-- [[scarcity_mindset_and_its_effects | Scarcity mindset and its effects]]
-- [[cultural_perspectives_on_debt_and_waste | Cultural perspectives on debt and waste]]
-
-### [11 Countries Where Canadians Can Live Large for Less](https://www.youtube.com/watch?v=1MtzTHORYnU)
-- [[top_countries_for_canadians_to_live_affordably | Top countries for Canadians to live affordably]]
-- [[factors_to_consider_when_moving_abroad | Factors to consider when moving abroad]]
-- [[visa_options_for_retiring_abroad | Visa options for retiring abroad]]
-- [[cost_of_living_comparisons | Cost of living comparisons]]
-- [[safety_and_healthcare_abroad | Safety and healthcare abroad]]
-
-### [9 Important Steps to Take BEFORE You Retire in Canada](https://www.youtube.com/watch?v=LhhEqLyxE_s)
-- [[assessing_your_current_financial_situation | Assessing your current financial situation]]
-- [[defining_retirement_goals_and_budgeting | Defining retirement goals and budgeting]]
-- [[calculating_retirement_expenses | Calculating retirement expenses]]
-- [[understanding_retirement_income_sources_and_withdrawals | Understanding retirement income sources and withdrawals]]
-- [[importance_of_stress_testing_retirement_plans | Importance of stress testing retirement plans]]
-
-### [Top 1% Income in Canada: How You Can Achieve It](https://www.youtube.com/watch?v=s_UPEA-jr7s)
-- [[top_1_percent_income_threshold_in_canada | Top 1 percent income threshold in Canada]]
-- [[strategies_for_achieving_top_1_percent_income_status | Strategies for achieving top 1 percent income status]]
-- [[high_paying_professions_in_canada | High paying professions in Canada]]
-- [[business_ownership_as_a_route_to_wealth | Business ownership as a route to wealth]]
-- [[investing_strategies_for_increasing_net_worth | Investing strategies for increasing net worth]]
-
-### [Major Tax Updates for 2025: TFSA, RRSP, CPP, FHSA, Cap Gains & More](https://www.youtube.com/watch?v=I8sGT5GUGEk)
-- [[investment_and_real_estate_tax_changes_for_2025 | Investment and real estate tax changes for 2025]]
-- [[household_tax_changes_and_federal_income_tax_bracket_adjustments | Household tax changes and federal income tax bracket adjustments]]
-- [[pension_and_retiree_tax_updates_including_cpp_and_oas | Pension and retiree tax updates including CPP and OAS]]
-- [[business_owner_tax_changes_and_capital_gains_adjustments | Business owner tax changes and capital gains adjustments]]
-- [[updates_on_tax_credits_for_2025 | Updates on tax credits for 2025]]
-
-### [How to Eliminate the $9,481 OAS Clawback](https://www.youtube.com/watch?v=Kl_71hQFh1g)
-- [[understanding_oas_clawback_and_recovery_tax | Understanding OAS clawback and recovery tax]]
-- [[strategies_to_delay_cpp_and_oas_for_higher_benefits | Strategies to delay CPP and OAS for higher benefits]]
-- [[using_tfsa_to_reduce_taxable_income_and_prevent_oas_clawback | Using TFSA to reduce taxable income and prevent OAS clawback]]
-- [[pension_income_splitting_as_a_method_to_lower_taxable_income | Pension income splitting as a method to lower taxable income]]
-- [[investment_strategies_for_minimizing_oas_clawback | Investment strategies for minimizing OAS clawback]]
+### [Why Retiring at 65 Is Disappearing in Canada](https://www.youtube.com/watch?v=3W_Mljxivoc)
+- [[reasons_for_canadians_retiring_later | Reasons for Canadians retiring later]]
+- [[impact_of_increased_life_expectancy_on_retirement | Impact of increased life expectancy on retirement]]
+- [[changes_in_pension_coverage_and_retirement_planning | Changes in pension coverage and retirement planning]]
+- [[rising_cost_of_living_and_its_effects_on_retirees | Rising cost of living and its effects on retirees]]
+- [[strategies_for_effective_retirement_planning | Strategies for effective retirement planning]]
 
 ### [How Canada Taxes ACTUALLY Work](https://www.youtube.com/watch?v=8aAwF5xGLDU)
 - [[canadian_federal_tax_brackets | Canadian federal tax brackets]]
-- [[common_tax_misconceptions_in_canada | Common tax misconceptions in Canada]]
-- [[impact_of_salary_increases_on_taxation | Impact of salary increases on taxation]]
-- [[effective_tax_rates_vs_marginal_tax_rates | Effective tax rates vs marginal tax rates]]
+- [[incremental_taxation_in_canada | Incremental taxation in Canada]]
+- [[misconceptions_about_tax_brackets | Misconceptions about tax brackets]]
+- [[effective_tax_rate | Effective tax rate]]
 - [[benefits_of_earning_more_despite_higher_taxes | Benefits of earning more despite higher taxes]]
 
-### [20 Small Business Tax Write-Offs to Save THOUSANDS in Canada!](https://www.youtube.com/watch?v=rZFZ3TXVeZk)
-- [[simple_tax_deductions_for_small_businesses_in_canada | Simple tax deductions for small businesses in Canada]]
-- [[understanding_and_applying_office_and_home_office_expenses_for_tax_deductions | Understanding and applying office and home office expenses for tax deductions]]
-- [[vehicle_expenses_and_depreciation_for_business_purposes | Vehicle expenses and depreciation for business purposes]]
-- [[intermediate_level_tax_writeoffs_including_hiring_family_members_and_equipment_depreciation | Intermediate level tax writeoffs including hiring family members and equipment depreciation]]
-- [[advanced_tax_strategies_for_small_businesses_in_canada | Advanced tax strategies for small businesses in Canada]]
+### [TFSA vs the World: Which Country Wins the Tax-Free Battle?](https://www.youtube.com/watch?v=pY1ldXE260c)
+- [[comparison_of_taxfree_accounts_worldwide | Comparison of taxfree accounts worldwide]]
+- [[features_and_benefits_of_canadas_tfsa | Features and benefits of Canadas TFSA]]
+- [[uks_isa_vs_canadas_tfsa | UKs ISA vs Canadas TFSA]]
+- [[japans_nissa_account_vs_usas_roth_ira | Japans Nissa account vs USAs Roth IRA]]
+- [[canadas_tfsa_vs_usas_roth_ira_in_the_championship | Canadas TFSA vs USAs Roth IRA in the championship]]
 
-### [3 Secrets of RRSP Millionaires](https://www.youtube.com/watch?v=HgVuVFQSrZY)
-- [[key_principles_for_building_rrsp_wealth | Key principles for building RRSP wealth]]
-- [[common_mistakes_rrsp_millionaires_make | Common mistakes RRSP millionaires make]]
-- [[stoic_investing_and_its_benefits | Stoic investing and its benefits]]
-- [[automation_strategies_for_effortless_saving | Automation strategies for effortless saving]]
-- [[rrsp_withdrawal_strategies_to_minimize_taxes | RRSP withdrawal strategies to minimize taxes]]
+### [Retire Richer Abroad: Low-Cost Countries to Stretch Your CPP & OAS](https://www.youtube.com/watch?v=6L-_D1SJWfc)
+- [[retiring_abroad_to_stretch_retirement_savings | Retiring abroad to stretch retirement savings]]
+- [[cost_of_living_comparison_in_canada_and_abroad | Cost of living comparison in Canada and abroad]]
+- [[financial_planning_for_international_retirement | Financial planning for international retirement]]
+- [[potential_tax_implications_of_retiring_overseas | Potential tax implications of retiring overseas]]
+- [[choosing_the_best_countries_for_affordable_retirement | Choosing the best countries for affordable retirement]]
 
-### [The Tipping Culture in Canada is BROKEN](https://www.youtube.com/watch?v=9zCAHYwpQNA)
-- [[history_of_tipping_in_canada | History of tipping in Canada]]
-- [[current_tipping_culture_and_trends_in_canada | Current tipping culture and trends in Canada]]
-- [[public_opinion_and_tipping_fatigue_in_canada | Public opinion and tipping fatigue in Canada]]
-- [[comparison_of_tipping_practices_around_the_world | Comparison of tipping practices around the world]]
-- [[impact_of_technology_on_tipping_behaviors | Impact of technology on tipping behaviors]]
-
-### [The SAVE vs SPEND Dilemma: The Secret Struggle for Retirees](https://www.youtube.com/watch?v=FQqxVVxUdYg)
-- [[save_or_spend_dilemma_for_retirees | Save or Spend Dilemma for Retirees]]
-- [[impact_of_healthspan_vs_lifespan_in_retirement_planning | Impact of Healthspan vs Lifespan in Retirement Planning]]
-- [[inflation_concerns_and_retirement_spending | Inflation Concerns and Retirement Spending]]
-- [[balancing_spending_and_longterm_financial_security | Balancing Spending and Longterm Financial Security]]
-- [[legacy_goals_vs_enjoying_retirement_savings | Legacy Goals vs Enjoying Retirement Savings]]
-
-### [10 Tax Filing Deadline Mistakes to Avoid Before April 30](https://www.youtube.com/watch?v=QeaSgl819TU)
-- [[common_tax_filing_mistakes_to_avoid | Common tax filing mistakes to avoid]]
-- [[using_cra_tools_to_simplify_tax_filing | Using CRA tools to simplify tax filing]]
-- [[consequences_of_late_tax_filing | Consequences of late tax filing]]
-- [[maximizing_tax_deductions_and_credits | Maximizing tax deductions and credits]]
-- [[importance_of_accurate_income_reporting | Importance of accurate income reporting]]
+### [What Net Worth Puts You in the Upper, Middle, & Lower Class in Canada?](https://www.youtube.com/watch?v=CFUM9mQzXAQ)
+- [[net_worth_benchmarks_for_canadian_social_classes | Net worth benchmarks for Canadian social classes]]
+- [[the_importance_of_net_worth_over_income | The importance of net worth over income]]
+- [[strategies_for_increasing_net_worth_across_different_social_classes | Strategies for increasing net worth across different social classes]]
+- [[impact_of_real_estate_on_wealth_accumulation_in_canada | Impact of real estate on wealth accumulation in Canada]]
+- [[global_wealth_perspective_and_financial_mindset | Global wealth perspective and financial mindset]]
 
 ### [Retiring Alone? Why You're at Much Higher Risk of Going Broke](https://www.youtube.com/watch?v=HbuDJ4txRGs)
 - [[challenges_of_retiring_alone | Challenges of retiring alone]]
-- [[financial_risks_for_single_retirees | Financial risks for single retirees]]
-- [[tax_implications_for_single_retirees | Tax implications for single retirees]]
-- [[planning_for_inflation_and_rising_costs | Planning for inflation and rising costs]]
-- [[strategies_for_sustainable_retirement_savings | Strategies for sustainable retirement savings]]
+- [[financial_planning_for_single_retirees | Financial planning for single retirees]]
+- [[managing_higher_tax_burden_in_retirement | Managing higher tax burden in retirement]]
+- [[impact_of_inflation_and_strategies_to_combat_it | Impact of inflation and strategies to combat it]]
+- [[health_and_longterm_care_costs_for_single_retirees | Health and longterm care costs for single retirees]]
+
+### [Most Canadians Waste These CRA Tax Breaks: Do THIS Instead](https://www.youtube.com/watch?v=t1jazKut5S0)
+- [[overlooked_canadian_tax_breaks | Overlooked Canadian tax breaks]]
+- [[pension_income_splitting_in_canada | Pension income splitting in Canada]]
+- [[moving_expenses_deduction_in_canada | Moving expenses deduction in Canada]]
+- [[spousal_rrsp_contributions_in_canada | Spousal RRSP contributions in Canada]]
+- [[filing_canadian_taxes_for_free | Filing Canadian taxes for free]]
+
+### [10 Tax Filing Deadline Mistakes to Avoid Before April 30](https://www.youtube.com/watch?v=QeaSgl819TU)
+- [[common_tax_filing_mistakes_to_avoid | Common tax filing mistakes to avoid]]
+- [[penalty_and_consequences_of_late_tax_filing | Penalty and consequences of late tax filing]]
+- [[importance_of_reporting_all_income_sources | Importance of reporting all income sources]]
+- [[managing_rrsp_and_tfsa_contributions | Managing RRSP and TFSA contributions]]
+- [[maximizing_tax_deductions_and_credits | Maximizing tax deductions and credits]]
+
+### [Can You Retire on ONLY CPP & OAS in Canada?](https://www.youtube.com/watch?v=Ps4K8K8B9J4)
+- [[reliability_of_cpp_and_oas_for_retirement_in_canada | Reliability of CPP and OAS for retirement in Canada]]
+- [[details_on_canada_pension_plan_benefits | Details on Canada Pension Plan benefits]]
+- [[old_age_security_pension_and_its_implications | Old Age Security pension and its implications]]
+- [[guaranteed_income_supplement_eligibility_and_benefits | Guaranteed Income Supplement eligibility and benefits]]
+- [[challenges_and_strategies_for_living_on_cpp_and_oas_alone | Challenges and strategies for living on CPP and OAS alone]]
+
+### [TFSA Banned Investments That Trigger 100% CRA Penalties](https://www.youtube.com/watch?v=qQouMAQshec)
+- [[cra_penalties_on_tfsa_investments | CRA penalties on TFSA investments]]
+- [[the_advantage_rule_and_its_impact | The Advantage rule and its impact]]
+- [[nonqualified_tfsa_investments | Nonqualified TFSA investments]]
+- [[nonarms_length_transactions_in_tfsa | Nonarms length transactions in TFSA]]
+- [[avoiding_cra_penalties_on_tfsa_investments | Avoiding CRA penalties on TFSA investments]]
+
+### [The Average Retiree Income in Canada Is Only THIS Much? (And Falling)](https://www.youtube.com/watch?v=n3x3xXmdagk)
+- [[challenges_of_retirement_income_in_canada | Challenges of retirement income in Canada]]
+- [[impact_of_inflation_on_retiree_purchasing_power | Impact of inflation on retiree purchasing power]]
+- [[factors_affecting_retiree_financial_security | Factors affecting retiree financial security]]
+- [[strategies_for_financial_planning_in_retirement | Strategies for financial planning in retirement]]
+- [[importance_of_early_financial_planning_for_retirement | Importance of early financial planning for retirement]]
+
+### [How Mutual Funds Keep You Poor](https://www.youtube.com/watch?v=qzlzqED197w)
+- [[negative_impact_of_mutual_funds_on_wealth_growth | Negative impact of mutual funds on wealth growth]]
+- [[mutual_funds_underperformance_compared_to_benchmarks | Mutual funds underperformance compared to benchmarks]]
+- [[high_fees_associated_with_mutual_funds | High fees associated with mutual funds]]
+- [[risks_and_stress_linked_to_mutual_fund_investments | Risks and stress linked to mutual fund investments]]
+- [[closet_indexing_in_mutual_funds | Closet indexing in mutual funds]]
 
 ### [Boost Your Tax Refund: Claim These CRA Benefits Before April 30](https://www.youtube.com/watch?v=MIa8pgDxfL0)
-- [[key_canadian_tax_credits_and_benefits | Key Canadian tax credits and benefits]]
-- [[strategies_for_maximizing_tax_savings | Strategies for maximizing tax savings]]
-- [[pension_income_splitting_and_age_amount_tax_credits | Pension income splitting and age amount tax credits]]
-- [[childrelated_tax_benefits_and_deductions | Childrelated tax benefits and deductions]]
-- [[combining_tax_credits_for_greater_refunds | Combining tax credits for greater refunds]]
+- [[key_canadian_tax_credits_to_claim_before_april_30th | Key Canadian tax credits to claim before April 30th]]
+- [[unique_tax_credits_for_seniors_retirees_and_caregivers | Unique tax credits for seniors retirees and caregivers]]
+- [[how_to_stack_multiple_tax_credits_for_greater_savings | How to stack multiple tax credits for greater savings]]
+- [[reducing_taxes_with_the_canada_workers_benefit_and_other_credits | Reducing taxes with the Canada Workers Benefit and other credits]]
+- [[strategies_for_family_tax_savings_and_income_splitting | Strategies for family tax savings and income splitting]]
+
+### [More CRA Audits in 2025: Will You Get Targeted?](https://www.youtube.com/watch?v=12jy9XFh2CA)
+- [[increased_cra_audits_and_harsher_penalties | Increased CRA audits and harsher penalties]]
+- [[use_of_ai_and_machine_learning_in_tax_fraud_detection | Use of AI and machine learning in tax fraud detection]]
+- [[new_cra_audit_powers_and_their_implications | New CRA audit powers and their implications]]
+- [[real_estate_transactions_and_cashbased_business_audits | Real estate transactions and cashbased business audits]]
+- [[strategies_to_avoid_cra_audit_risks_and_penalties | Strategies to avoid CRA audit risks and penalties]]
+
+### [Want the $2,034 Maximum CPP Benefit? Here’s the Salary You Need](https://www.youtube.com/watch?v=X1bmERAYKR8)
+- [[factors_affecting_maximum_cpp_benefit | Factors affecting maximum CPP benefit]]
+- [[importance_of_salary_and_contributions_for_cpp | Importance of salary and contributions for CPP]]
+- [[timing_in_cpp_collection_and_its_effects | Timing in CPP collection and its effects]]
+- [[contribution_gaps_and_their_impact_on_cpp | Contribution gaps and their impact on CPP]]
+- [[strategies_to_maximize_cpp_payout | Strategies to maximize CPP payout]]
+
+### [The Easiest Way to Invest in Canada (All-in-One ETFs)](https://www.youtube.com/watch?v=j7SyYX5PCck)
+- [[introduction_to_allinone_etfs | Introduction to allinone ETFs]]
+- [[benefits_of_using_allinone_etfs | Benefits of using allinone ETFs]]
+- [[how_to_choose_the_right_allinone_etf | How to choose the right allinone ETF]]
+- [[steps_to_invest_in_allinone_etfs | Steps to invest in allinone ETFs]]
+- [[common_mistakes_to_avoid_with_allinone_etfs | Common mistakes to avoid with allinone ETFs]]
+
+### [3 Legal Tax Loopholes the CRA Still Allows (For Now!)](https://www.youtube.com/watch?v=MDQn2ymN-gc)
+- [[income_splitting_with_prescribed_rate_loans | Income splitting with prescribed rate loans]]
+- [[extracting_taxfree_money_from_a_cda | Extracting taxfree money from a CDA]]
+- [[turning_a_mortgage_into_a_tax_deductible_loan | Turning a mortgage into a tax deductible loan]]
+- [[risks_and_considerations_of_tax_loopholes | Risks and considerations of tax loopholes]]
+- [[importance_of_professional_tax_planning | Importance of professional tax planning]]
+
+### [5 Dividend ETFs Canadians Love (And Why I Don’t)](https://www.youtube.com/watch?v=kyXpwp7pfXw)
+- [[overview_of_canadian_dividend_etfs | Overview of Canadian dividend ETFs]]
+- [[comparison_of_top_canadian_dividend_etfs | Comparison of top Canadian dividend ETFs]]
+- [[pros_and_cons_of_canadian_dividend_etfs | Pros and cons of Canadian dividend ETFs]]
+- [[alternative_investment_strategies_to_dividend_etfs | Alternative investment strategies to dividend ETFs]]
+- [[impact_of_fees_and_diversification_in_dividend_etfs | Impact of fees and diversification in dividend ETFs]]
+
+### [The Rich Don’t Use RRSPs? Here's What They Do Instead…](https://www.youtube.com/watch?v=o4wnYO4ZHN0)
+- [[private_equity_investments | Private Equity Investments]]
+- [[individual_pension_plans_ipps | Individual Pension Plans IPPs]]
+- [[family_trusts_for_wealth_management | Family Trusts for Wealth Management]]
+- [[pros_and_cons_of_rrsps | Pros and Cons of RRSPs]]
+- [[strategies_for_wealthy_canadians | Strategies for Wealthy Canadians]]
+
+### [3 Secrets of RRSP Millionaires](https://www.youtube.com/watch?v=HgVuVFQSrZY)
+- [[key_principles_of_becoming_rsp_millionaires | Key principles of becoming RSP millionaires]]
+- [[importance_of_prioritizing_rsp_contributions | Importance of prioritizing RSP contributions]]
+- [[stoic_investing_approach_for_rsp_growth | Stoic investing approach for RSP growth]]
+- [[automation_in_rsp_savings_and_investment | Automation in RSP savings and investment]]
+- [[common_mistakes_in_rsp_withdrawal_strategies | Common mistakes in RSP withdrawal strategies]]
+
+### [Try This 1 RRSP to TFSA Trick to Keep More Money in Retirement](https://www.youtube.com/watch?v=uxCYVBGibbI)
+- [[rsp_to_tfsa_conversion_strategy | RSP to TFSA conversion strategy]]
+- [[tax_reduction_for_retirees | Tax reduction for retirees]]
+- [[maximizing_tfsa_contributions | Maximizing TFSA contributions]]
+- [[impact_of_tax_brackets_on_retirement_savings | Impact of tax brackets on retirement savings]]
+- [[financial_planning_for_canadian_retirees | Financial planning for Canadian retirees]]
+
+### [The RRSP Trap: Why Many Canadians Regret Saving in RRSPs](https://www.youtube.com/watch?v=d5iQBCUcx3s)
+- [[rrsp_flexibility_and_withdrawal_challenges | RRSP flexibility and withdrawal challenges]]
+- [[withholding_tax_on_rrsp_withdrawals | Withholding tax on RRSP withdrawals]]
+- [[disappointments_in_rrsp_tax_refunds | Disappointments in RRSP tax refunds]]
+- [[the_importance_of_having_a_clear_rrsp_investment_strategy | The importance of having a clear RRSP investment strategy]]
+- [[rrsp_withdrawal_planning_in_retirement | RRSP withdrawal planning in retirement]]
+
+### [3 Tax Cheats Jailed by the CRA: Avoid This Mistake!](https://www.youtube.com/watch?v=bNieXvbpdtc)
+- [[tax_fraud_consequences_in_canada | Tax fraud consequences in Canada]]
+- [[real_cases_of_tax_evasion | Real cases of tax evasion]]
+- [[lessons_from_corporate_fraud | Lessons from corporate fraud]]
+- [[the_role_of_cra_in_uncovering_fraud | The role of CRA in uncovering fraud]]
+- [[tips_to_legally_reduce_tax_liabilities | Tips to legally reduce tax liabilities]]
+
+### [5 Common Medical Expenses the CRA Lets You Claim!](https://www.youtube.com/watch?v=D88cmLS7Wqk)
+- [[claiming_medical_expenses_on_canadian_tax_returns | Claiming medical expenses on Canadian tax returns]]
+- [[eligible_medical_expenses_for_tax_credits | Eligible medical expenses for tax credits]]
+- [[calculation_of_medical_expense_tax_credits | Calculation of medical expense tax credits]]
+- [[maximizing_medical_expense_claims_for_families | Maximizing medical expense claims for families]]
+- [[medical_travel_expenses_and_tax_deductions | Medical travel expenses and tax deductions]]
+
+### [The CRA is Watching TFSA Holders: Avoid These 3 Red Flags!](https://www.youtube.com/watch?v=Qr2LFVxVWBE)
+- [[penalties_and_taxation_of_tfsa_by_the_cra | Penalties and taxation of TFSA by the CRA]]
+- [[how_frequent_trading_in_a_tfsa_can_be_classified_as_a_business | How frequent trading in a TFSA can be classified as a business]]
+- [[overcontribution_penalties_for_tfsas | Overcontribution penalties for TFSAs]]
+- [[rules_regarding_tfsa_contributions_by_nonresidents | Rules regarding TFSA contributions by nonresidents]]
+- [[prohibited_investments_in_a_tfsa | Prohibited investments in a TFSA]]
+
+### [Big Capital Gains Tax Update: The Increase to 66.67% is now DEFERRED!](https://www.youtube.com/watch?v=OjAFidFJfUE)
+- [[canada_capital_gains_tax_hike_deferral | Canada capital gains tax hike deferral]]
+- [[political_and_legal_challenges_to_capital_gains_tax | Political and legal challenges to capital gains tax]]
+- [[impact_of_us_tariffs_on_canadian_economy | Impact of US tariffs on Canadian economy]]
+- [[future_scenarios_for_canada_capital_gains_tax | Future scenarios for Canada capital gains tax]]
+- [[strategies_for_investors_and_business_owners_amidst_tax_changes | Strategies for investors and business owners amidst tax changes]]
+
+### [8 TFSA Silent Wealth Killers YOU MUST Avoid!](https://www.youtube.com/watch?v=ssWL1T0IZHk)
+- [[high_fees_impacting_tfsa_growth | High fees impacting TFSA growth]]
+- [[lack_of_clear_tfsa_strategy | Lack of clear TFSA strategy]]
+- [[emotional_investing_pitfalls | Emotional investing pitfalls]]
+- [[underutilizing_tfsa_with_low_interest_accounts | Underutilizing TFSA with low interest accounts]]
+- [[excessive_risktaking_and_trend_chasing_in_tfsa | Excessive risktaking and trend chasing in TFSA]]
+
+### [How to PAY LESS TAXES in Canada: 5 Proven Tax Strategies](https://www.youtube.com/watch?v=Oq1p-k_enyU)
+- [[reducing_taxes_on_investments_in_canada | Reducing taxes on investments in Canada]]
+- [[income_splitting_strategies_for_canadians | Income splitting strategies for Canadians]]
+- [[maximizing_tax_deductions_and_credits | Maximizing tax deductions and credits]]
+- [[tax_planning_for_retirement_in_canada | Tax planning for retirement in Canada]]
+- [[tax_strategies_for_selfemployed_individuals | Tax strategies for selfemployed individuals]]
 
 ### [How to Start Investing in Canada: 5 Easy Steps for Beginners](https://www.youtube.com/watch?v=wuPzyYDaxJc)
-- [[savings_versus_investing | Savings versus investing]]
-- [[developing_an_investment_philosophy | Developing an investment philosophy]]
-- [[contribution_strategies_for_investments | Contribution strategies for investments]]
-- [[choosing_investments_and_managing_risk | Choosing investments and managing risk]]
-- [[selecting_the_right_investment_accounts_in_canada | Selecting the right investment accounts in Canada]]
-
-### [Canada Will Pay You $125,562 Per Child – Here's How](https://www.youtube.com/watch?v=QbsiQoTc5PQ)
-- [[canada_child_benefit_breakdown | Canada child benefit breakdown]]
-- [[cost_of_raising_a_child_in_canada | Cost of raising a child in Canada]]
-- [[impact_of_income_on_canada_child_benefit | Impact of income on Canada child benefit]]
-- [[eligibility_and_application_for_canada_child_benefit | Eligibility and application for Canada child benefit]]
-- [[effect_of_canada_child_benefit_on_child_poverty | Effect of Canada child benefit on child poverty]]
-
-### [5 Hidden Investment Fees That Quietly Rip Off Canadians](https://www.youtube.com/watch?v=OwgNrtTjSIw)
-- [[hidden_investment_taxes_in_canada | Hidden investment taxes in Canada]]
-- [[currency_conversion_fees_impacting_investments | Currency conversion fees impacting investments]]
-- [[understanding_and_avoiding_segregated_fund_fees | Understanding and avoiding segregated fund fees]]
-- [[impact_of_trading_fees_on_investment_returns | Impact of trading fees on investment returns]]
-- [[early_redemption_fees_in_mutual_funds | Early redemption fees in mutual funds]]
-
-### [CPP 2025 Enhancements: Why Your Paycheck Might Shrink](https://www.youtube.com/watch?v=gFtdszGP7Ao)
-- [[cpp_2025_enhancements_and_changes | CPP 2025 enhancements and changes]]
-- [[impact_of_cpp_enhancements_on_different_income_levels | Impact of CPP enhancements on different income levels]]
-- [[retirement_income_system_in_canada | Retirement income system in Canada]]
-- [[criticisms_and_concerns_about_cpp_enhancements | Criticisms and concerns about CPP enhancements]]
-- [[economic_implications_of_cpp_changes | Economic implications of CPP changes]]
-
-### [How to Grow $100,000 Retirement Savings to $1,000,000](https://www.youtube.com/watch?v=T7aLQOggzs4)
-- [[retirement_savings_growth_strategies | Retirement savings growth strategies]]
-- [[importance_of_time_and_compounding_in_investment | Importance of time and compounding in investment]]
-- [[impact_of_regular_contributions_on_savings_growth | Impact of regular contributions on savings growth]]
-- [[role_of_investment_rate_of_return_in_wealth_accumulation | Role of investment rate of return in wealth accumulation]]
-- [[investment_strategies_and_asset_allocation_based_on_risk_tolerance | Investment strategies and asset allocation based on risk tolerance]]
-
-### [Do These 9 Things BEFORE Dec 31 to Save Big on Taxes!](https://www.youtube.com/watch?v=DR8pKSGZ_EI)
-- [[capital_gains_and_losses_management_for_tax_savings | Capital gains and losses management for tax savings]]
-- [[taxfree_savings_account_withdrawal_strategy | Taxfree savings account withdrawal strategy]]
-- [[first_home_savings_account_contributions_and_benefits | First Home Savings Account contributions and benefits]]
-- [[income_splitting_and_spousal_retirement_savings | Income splitting and spousal retirement savings]]
-- [[maximizing_medical_expenses_and_charitable_donations_for_tax_credits | Maximizing medical expenses and charitable donations for tax credits]]
+- [[investment_strategies_for_beginners_in_canada | investment strategies for beginners in Canada]]
+- [[importance_of_setting_investment_goals | importance of setting investment goals]]
+- [[understanding_risk_tolerance_and_investment_choices | understanding risk tolerance and investment choices]]
+- [[types_of_investment_accounts_in_canada | types of investment accounts in Canada]]
+- [[monitoring_and_managing_investment_performance | monitoring and managing investment performance]]
 
 ### [Slash Your Investment Taxes up to 50% by Doing THIS](https://www.youtube.com/watch?v=RtSaZpL2k2I)
-- [[strategies_to_reduce_investment_taxes | Strategies to reduce investment taxes]]
-- [[tax_efficient_investments_in_taxable_accounts | Tax efficient investments in taxable accounts]]
-- [[prioritizing_registered_accounts_for_tax_savings | Prioritizing registered accounts for tax savings]]
-- [[asset_location_for_optimal_tax_efficiency | Asset location for optimal tax efficiency]]
-- [[advanced_strategies_like_income_splitting_and_tax_loss_harvesting | Advanced strategies like income splitting and tax loss harvesting]]
+- [[tax_efficient_investment_strategies | Tax efficient investment strategies]]
+- [[choosing_the_right_investment_accounts | Choosing the right investment accounts]]
+- [[asset_location_and_tax_efficiency | Asset location and tax efficiency]]
+- [[income_splitting_and_tax_savings_for_couples | Income splitting and tax savings for couples]]
+- [[tax_loss_harvesting_strategy | Tax loss harvesting strategy]]
 
-### [10 Reasons to DELAY Starting CPP Past 60](https://www.youtube.com/watch?v=BJTshYzYsgU)
-- [[benefits_of_delaying_cpp_past_60 | Benefits of delaying CPP past 60]]
-- [[financial_incentives_for_delaying_cpp | Financial incentives for delaying CPP]]
-- [[impact_of_health_on_cpp_timing_decisions | Impact of health on CPP timing decisions]]
-- [[inflation_considerations_regarding_cpp | Inflation considerations regarding CPP]]
-- [[cpp_management_and_trust_factors | CPP management and trust factors]]
+### [Do These 9 Things BEFORE Dec 31 to Save Big on Taxes!](https://www.youtube.com/watch?v=DR8pKSGZ_EI)
+- [[tax_loss_harvesting_and_managing_capital_gains | Tax loss harvesting and managing capital gains]]
+- [[taxfree_savings_account_tfsa_and_withdrawal_strategies | Taxfree savings account TFSA and withdrawal strategies]]
+- [[firsttime_home_savings_account_fhsa_contributions | Firsttime home savings account FHSA contributions]]
+- [[registered_education_savings_plan_resp_and_registered_disability_savings_plan_rdsp_contributions | Registered education savings plan RESP and registered disability savings plan RDSP contributions]]
+- [[medical_expenses_and_charitable_donations_for_tax_credits | Medical expenses and charitable donations for tax credits]]
 
-### [The FHSA: Choose it First Over the RRSP (In Nearly Every Situation)](https://www.youtube.com/watch?v=exzUHluZ6Os)
-- [[comparison_between_fhsa_and_rrsp | Comparison between FHSA and RRSP]]
-- [[tax_benefits_of_fhsa_versus_rrsp | Tax benefits of FHSA versus RRSP]]
-- [[investment_opportunities_in_fhsa_and_rrsp | Investment opportunities in FHSA and RRSP]]
-- [[retirement_savings_using_fhsa_and_rrsp | Retirement savings using FHSA and RRSP]]
-- [[situations_favoring_rrsp_over_fhsa | Situations favoring RRSP over FHSA]]
+### [Business Owners in Canada: 5 Big Tax Updates in 2025 You Must Know!](https://www.youtube.com/watch?v=OPCWJ7wvN2Y)
+- [[capital_gains_tax_updates_for_canadian_business_owners_in_2025 | Capital gains tax updates for Canadian business owners in 2025]]
+- [[investment_strategies_to_address_increased_capital_gains_inclusion_rate | Investment strategies to address increased capital gains inclusion rate]]
+- [[cpp_enhancements_and_contribution_updates_in_2025 | CPP enhancements and contribution updates in 2025]]
+- [[lifetime_capital_gains_exemption_increase_in_2025 | Lifetime capital gains exemption increase in 2025]]
+- [[canadian_entrepreneurs_incentive_and_electronic_filing_requirements | Canadian entrepreneurs incentive and electronic filing requirements]]
 
-### [Is Your CPP At Risk of Not Paying You in Retirement?](https://www.youtube.com/watch?v=34ganONF5tU)
-- [[canadian_pension_plan_sustainability | Canadian Pension Plan sustainability]]
-- [[investment_performance_of_cpp | Investment performance of CPP]]
-- [[trust_and_transparency_in_cpp_reporting | Trust and transparency in CPP reporting]]
-- [[future_growth_projections_of_cpp | Future growth projections of CPP]]
-- [[challenges_and_concerns_about_the_cpp | Challenges and concerns about the CPP]]
+### [2025 CPP, OAS, GIS Updates: Big Changes to Your Pensions!](https://www.youtube.com/watch?v=Ml9zS8bD6z0)
+- [[2025_pension_payment_schedule_and_receiving_methods | 2025 pension payment schedule and receiving methods]]
+- [[cost_of_living_adjustments_for_cpp_oas_and_gis_in_2025 | Cost of living adjustments for CPP OAS and GIS in 2025]]
+- [[twotier_cpp_system_and_contribution_rates | Twotier CPP system and contribution rates]]
+- [[oas_clawback_threshold_and_strategies_to_minimize_repayment | OAS clawback threshold and strategies to minimize repayment]]
+- [[gis_income_thresholds_and_benefit_updates_in_2025 | GIS income thresholds and benefit updates in 2025]]
 
-### [Track Your Net Worth Like a Pro: FREE Tool & Demo Included!](https://www.youtube.com/watch?v=xm2edCPU4hE)
-- [[importance_of_tracking_net_worth | Importance of tracking net worth]]
-- [[using_a_spreadsheet_to_track_net_worth | Using a spreadsheet to track net worth]]
-- [[comparisons_between_free_and_paid_net_worth_tracking_tools | Comparisons between free and paid net worth tracking tools]]
-- [[benefits_of_tracking_financial_trends_and_making_decisions | Benefits of tracking financial trends and making decisions]]
-- [[steps_to_update_and_maintain_a_net_worth_tracker | Steps to update and maintain a net worth tracker]]
+### [7 January Money Moves to Kickstart a Wealthy 2025](https://www.youtube.com/watch?v=1NIOGmD_KYo)
+- [[tracking_and_analyzing_your_net_worth | Tracking and analyzing your net worth]]
+- [[reviewing_and_optimizing_investments | Reviewing and optimizing investments]]
+- [[maximizing_contributions_to_taxadvantaged_accounts | Maximizing contributions to taxadvantaged accounts]]
+- [[planning_taxsaving_strategies | Planning taxsaving strategies]]
+- [[setting_and_automating_financial_goals | Setting and automating financial goals]]
+
+### [Major Tax Updates for 2025: TFSA, RRSP, CPP, FHSA, Cap Gains & More](https://www.youtube.com/watch?v=I8sGT5GUGEk)
+- [[rrsp_and_tfsa_updates_for_2025 | RRSP and TFSA updates for 2025]]
+- [[first_home_savings_account_overview | First Home Savings Account overview]]
+- [[capital_gains_tax_changes | Capital gains tax changes]]
+- [[cpp_and_oas_updates | CPP and OAS updates]]
+- [[tax_changes_affecting_business_owners | Tax changes affecting business owners]]
 
 ### [7 Income-Splitting Tax Strategies to Save Your Family HUGE Taxes!](https://www.youtube.com/watch?v=PagvRBlrV20)
 - [[income_splitting_strategies | Income splitting strategies]]
-- [[family_tax_planning | Family tax planning]]
-- [[using_fhsa_for_income_splitting | Using FHSA for income splitting]]
+- [[fhsa_for_income_splitting | FHSA for income splitting]]
 - [[pension_income_splitting | Pension income splitting]]
-- [[spousal_rsp_contributions | Spousal RSP contributions]]
+- [[spousal_rrsp_contributions | Spousal RRSP contributions]]
+- [[cpp_income_splitting | CPP income splitting]]
 
-### [Big Capital Gains Tax Update: The Increase to 66.67% is now DEFERRED!](https://www.youtube.com/watch?v=OjAFidFJfUE)
-- [[deferral_of_canadian_capital_gains_tax_increase | Deferral of Canadian capital gains tax increase]]
-- [[political_challenges_facing_the_capital_gains_tax_hike | Political challenges facing the capital gains tax hike]]
-- [[impact_of_us_tariffs_on_canadian_economy | Impact of US tariffs on Canadian economy]]
-- [[strategies_for_investors_and_business_owners_in_response_to_tax_changes | Strategies for investors and business owners in response to tax changes]]
-- [[potential_scenarios_and_outcomes_of_the_capital_gains_tax_hike | Potential scenarios and outcomes of the capital gains tax hike]]
+### [CPP 2025 Enhancements: Why Your Paycheck Might Shrink](https://www.youtube.com/watch?v=gFtdszGP7Ao)
+- [[cpp_enhancements_and_changes_since_2019 | CPP enhancements and changes since 2019]]
+- [[cpp_new_contribution_levels_and_implications | CPP new contribution levels and implications]]
+- [[how_cpp_enhancements_affect_different_income_levels | How CPP enhancements affect different income levels]]
+- [[reasons_for_cpp_enhancements_and_benefit_planning | Reasons for CPP enhancements and benefit planning]]
+- [[criticisms_and_economic_impact_of_cpp_changes | Criticisms and economic impact of CPP changes]]
 
-### [How I Earned $500,000 From my Finance Blog](https://www.youtube.com/watch?v=vpvIpE1ewNs)
-- [[building_a_successful_finance_blog | Building a successful finance blog]]
-- [[digital_nomad_lifestyle_through_blogging | Digital nomad lifestyle through blogging]]
-- [[income_streams_from_blogging_and_affiliate_marketing | Income streams from blogging and affiliate marketing]]
-- [[lessons_and_challenges_from_starting_and_selling_a_website | Lessons and challenges from starting and selling a website]]
-- [[postblogging_ventures_in_financial_planning | Postblogging ventures in financial planning]]
+### [How to Turn a $10,000 TFSA into $100,000](https://www.youtube.com/watch?v=JMv-A-gycOs)
+- [[strategies_to_grow_a_tfsa_from_10000_to_100000 | Strategies to grow a TFSA from 10000 to 100000]]
+- [[investment_options_for_growing_a_tfsa | Investment options for growing a TFSA]]
+- [[impact_of_regular_contributions_on_tfsa_growth | Impact of regular contributions on TFSA growth]]
+- [[common_mistakes_to_avoid_in_growing_a_tfsa | Common mistakes to avoid in growing a TFSA]]
+- [[understanding_investment_risks_and_returns_in_a_tfsa | Understanding investment risks and returns in a TFSA]]
 
-### [7 January Money Moves to Kickstart a Wealthy 2025](https://www.youtube.com/watch?v=1NIOGmD_KYo)
-- [[tracking_and_comparing_net_worth_annually | Tracking and comparing net worth annually]]
-- [[reviewing_and_refining_investment_strategies | Reviewing and refining investment strategies]]
-- [[prioritizing_contributions_to_taxadvantaged_accounts | Prioritizing contributions to taxadvantaged accounts]]
-- [[planning_and_implementing_taxsaving_strategies | Planning and implementing taxsaving strategies]]
-- [[setting_clear_financial_goals_and_automating_contributions | Setting clear financial goals and automating contributions]]
+### [5 Retirement Tax-Saving Strategies (Save HUGE on Taxes in Canada!)](https://www.youtube.com/watch?v=8NPag8U3YvM)
+- [[basic_tax_credits_for_retirees_in_canada | Basic Tax Credits for Retirees in Canada]]
+- [[timing_cpp_and_oas_benefits_for_tax_savings | Timing CPP and OAS Benefits for Tax Savings]]
+- [[retirement_income_splitting_strategies | Retirement Income Splitting Strategies]]
+- [[using_tfsa_and_rrsp_accounts_to_control_taxable_income | Using TFSA and RRSP Accounts to Control Taxable Income]]
+- [[advanced_retirement_tax_saving_strategies_for_high_net_worth_individuals | Advanced Retirement Tax Saving Strategies for High Net Worth Individuals]]
 
-### [15 CRA Tax Benefits to Save THOUSANDS in Canada!](https://www.youtube.com/watch?v=K4zHea7U1W0)
-- [[lesser_known_tax_deductions_in_canada | Lesser known tax deductions in Canada]]
-- [[moving_expenses_tax_deduction | Moving expenses tax deduction]]
-- [[work_from_home_tax_deduction | Work from home tax deduction]]
-- [[child_care_expenses_tax_deduction | Child care expenses tax deduction]]
-- [[first_home_savings_account_advantages | First Home Savings Account advantages]]
+### [How to Grow $100,000 Retirement Savings to $1,000,000](https://www.youtube.com/watch?v=T7aLQOggzs4)
+- [[key_ingredients_for_growing_retirement_savings | Key ingredients for growing retirement savings]]
+- [[impact_of_compounding_returns_on_investment_growth | Impact of compounding returns on investment growth]]
+- [[role_of_regular_contributions_in_accelerating_savings_growth | Role of regular contributions in accelerating savings growth]]
+- [[importance_of_investment_rate_of_return | Importance of investment rate of return]]
+- [[investment_strategies_and_account_optimization | Investment strategies and account optimization]]
+
+### [Avoid This Brutal 50% RRSP Tax Trap in Retirement (Save HUGE Taxes!)](https://www.youtube.com/watch?v=VZ2M-UOYxTY)
+- [[understanding_rrsp_taxes_upon_death | Understanding RRSP taxes upon death]]
+- [[spousal_rrsp_rollovers_and_tax_deferral | Spousal RRSP rollovers and tax deferral]]
+- [[rrsp_rollovers_for_dependent_children | RRSP rollovers for dependent children]]
+- [[converting_rrsp_to_rrif_for_structured_withdrawals | Converting RRSP to RRIF for structured withdrawals]]
+- [[rrsp_income_splitting_for_tax_efficiency | RRSP income splitting for tax efficiency]]
+
+### [Average TFSA Balance by Age (30, 40, 50, 60): Have You Saved Enough?](https://www.youtube.com/watch?v=KKfaaTu0myA)
+- [[average_tfsa_balance_by_age_group_in_canada | Average TFSA balance by age group in Canada]]
+- [[tfsa_savings_trends_by_gender | TFSA savings trends by gender]]
+- [[tfsa_savings_trends_by_income_level | TFSA savings trends by income level]]
+- [[strategies_for_maximizing_tfsa_contributions_and_growth | Strategies for maximizing TFSA contributions and growth]]
+- [[role_of_tfsa_in_retirement_planning | Role of TFSA in retirement planning]]
+
+### [CPP Pensioners: You’re Getting a Cost-of-Living Raise in 2025!](https://www.youtube.com/watch?v=SrozPHcl3Os)
+- [[cpp_cost_of_living_increase_2025 | CPP cost of living increase 2025]]
+- [[inflation_impact_on_retirement_income | Inflation impact on retirement income]]
+- [[supplemental_income_strategies_for_retirees | Supplemental income strategies for retirees]]
+- [[financial_planning_for_retirement | Financial planning for retirement]]
+- [[sustainability_of_cpp_over_the_long_term | Sustainability of CPP over the long term]]
+
+### [11 RRSP to RRIF Conversion Tactics to Save BIG on Taxes!](https://www.youtube.com/watch?v=1vMybnh7weY)
+- [[rrsp_to_rrif_conversion_process | RRSP to RRIF conversion process]]
+- [[tax_implications_of_rrsp_to_rrif_conversion | Tax implications of RRSP to RRIF conversion]]
+- [[rrif_withdrawal_strategies_to_minimize_taxes | RRIF withdrawal strategies to minimize taxes]]
+- [[pension_income_tax_credit_and_rrif_withdrawals | Pension income tax credit and RRIF withdrawals]]
+- [[rrif_estate_planning_and_charitable_giving | RRIF estate planning and charitable giving]]
+
+### [Track Your Net Worth Like a Pro: FREE Tool & Demo Included!](https://www.youtube.com/watch?v=xm2edCPU4hE)
+- [[importance_of_tracking_net_worth | Importance of tracking net worth]]
+- [[comparison_between_tracking_net_worth_and_weight_loss | Comparison between tracking net worth and weight loss]]
+- [[benefits_of_using_a_spreadsheet_to_track_net_worth | Benefits of using a spreadsheet to track net worth]]
+- [[how_to_set_up_and_use_a_net_worth_tracking_spreadsheet | How to set up and use a net worth tracking spreadsheet]]
+- [[alternative_tools_for_tracking_net_worth_in_canada | Alternative tools for tracking net worth in Canada]]
 
 ### [Unlock $200K Tax-Free for a Down Payment With THIS Strategy](https://www.youtube.com/watch?v=DM04F0kqFkQ)
-- [[first_home_savings_account_fhsa_benefits_and_strategies | First Home Savings Account FHSA benefits and strategies]]
-- [[combining_fhsa_and_rrsp_for_taxfree_home_buying | Combining FHSA and RRSP for taxfree home buying]]
-- [[strategies_for_maximizing_taxfree_savings_for_a_down_payment | Strategies for maximizing taxfree savings for a down payment]]
-- [[canadian_housing_market_challenges_and_strategies_for_firsttime_buyers | Canadian housing market challenges and strategies for firsttime buyers]]
-- [[financial_planning_and_tax_advantages_for_home_ownership_in_canada | Financial planning and tax advantages for home ownership in Canada]]
+- [[first_home_savings_account_fhsa_benefits | First Home Savings Account FHSA benefits]]
+- [[combining_fhsa_and_rrsp_for_home_purchase | Combining FHSA and RRSP for home purchase]]
+- [[the_home_buyers_plan_hbp_via_rrsp | The Home Buyers Plan HBP via RRSP]]
+- [[tax_advantages_for_firsttime_home_buyers_in_canada | Tax advantages for firsttime home buyers in Canada]]
+- [[challenges_in_the_canadian_housing_market | Challenges in the Canadian housing market]]
+
+### [Why Your Net Worth in Canada EXPLODES After $100K!](https://www.youtube.com/watch?v=o-AwK8749bM)
+- [[net_worth_growth_in_canada_after_reaching_100000 | Net worth growth in Canada after reaching 100000]]
+- [[importance_of_investing_and_compounding_returns | Importance of investing and compounding returns]]
+- [[impact_of_income_growth_on_wealth_building | Impact of income growth on wealth building]]
+- [[strategies_for_increasing_income_and_net_worth_in_canada | Strategies for increasing income and net worth in Canada]]
+- [[significance_of_a_high_savings_rate_in_wealth_accumulation | Significance of a high savings rate in wealth accumulation]]
+
+### [CPP Timing: Should You Start Payments at Age 60, 65, or 70?](https://www.youtube.com/watch?v=cLbHjquYJUw)
+- [[canadian_pension_plan_cpp_basics_and_start_age_options | Canadian Pension Plan CPP basics and start age options]]
+- [[factors_influencing_the_decision_on_when_to_start_cpp | Factors influencing the decision on when to start CPP]]
+- [[life_expectancy_and_its_impact_on_cpp_timing | Life expectancy and its impact on CPP timing]]
+- [[financial_and_actuarial_considerations_in_cpp_planning | Financial and actuarial considerations in CPP planning]]
+- [[tools_and_strategies_for_optimizing_cpp_benefits | Tools and strategies for optimizing CPP benefits]]
+
+### [The SAVE vs SPEND Dilemma: The Secret Struggle for Retirees](https://www.youtube.com/watch?v=FQqxVVxUdYg)
+- [[save_or_spend_dilemma_in_retirement | Save or spend dilemma in retirement]]
+- [[mindset_shift_in_retirement_spending | Mindset shift in retirement spending]]
+- [[impact_of_lifespan_versus_healthspan_on_spending | Impact of lifespan versus healthspan on spending]]
+- [[inflation_and_retirement_planning | Inflation and retirement planning]]
+- [[balancing_spending_and_legacy_goals_in_retirement | Balancing spending and legacy goals in retirement]]
+
+### [Is Your CPP At Risk of Not Paying You in Retirement?](https://www.youtube.com/watch?v=34ganONF5tU)
+- [[canada_pension_plan_cpp_performance_and_growth | Canada Pension Plan CPP performance and growth]]
+- [[sustainability_of_cpp_for_future_generations | Sustainability of CPP for future generations]]
+- [[trustworthiness_and_transparency_of_cpp_financial_reports | Trustworthiness and transparency of CPP financial reports]]
+- [[investment_strategies_and_management_of_cpp | Investment strategies and management of CPP]]
+- [[impact_of_global_diversification_on_cpp_stability | Impact of global diversification on CPP stability]]
+
+### [CPP After You Die: What Happens to Your Pension Payments?](https://www.youtube.com/watch?v=ktHL-BzB760)
+- [[eligibility_criteria_for_cpp_survivorship_pension | Eligibility criteria for CPP survivorship pension]]
+- [[how_to_maximize_cpp_survivorship_pension_benefits | How to maximize CPP survivorship pension benefits]]
+- [[impact_of_remarriage_on_cpp_survivorship_pension | Impact of remarriage on CPP survivorship pension]]
+- [[application_process_for_cpp_survivorship_and_child_benefits | Application process for CPP survivorship and child benefits]]
+- [[cpp_death_benefit_and_its_implications | CPP death benefit and its implications]]
+
+### [The FHSA: Choose it First Over the RRSP (In Nearly Every Situation)](https://www.youtube.com/watch?v=exzUHluZ6Os)
+- [[comparison_of_fhsa_and_rrsp | Comparison of FHSA and RRSP]]
+- [[tax_benefits_of_fhsa_vs_rrsp | Tax benefits of FHSA vs RRSP]]
+- [[investment_potential_of_fhsa_and_rrsp | Investment potential of FHSA and RRSP]]
+- [[retirement_savings_fhsa_vs_rrsp | Retirement savings FHSA vs RRSP]]
+- [[advantages_of_rrsp_for_us_stocks_and_employer_matching | Advantages of RRSP for US stocks and employer matching]]
+
+### [Canada Will Pay You $125,562 Per Child – Here's How](https://www.youtube.com/watch?v=QbsiQoTc5PQ)
+- [[cost_of_raising_a_child_in_canada | Cost of raising a child in Canada]]
+- [[canada_child_benefit_explained | Canada Child Benefit explained]]
+- [[impact_of_canada_child_benefit_on_child_poverty | Impact of Canada Child Benefit on child poverty]]
+- [[eligibility_and_calculation_of_canada_child_benefit | Eligibility and calculation of Canada Child Benefit]]
+- [[financial_planning_with_canada_child_benefit | Financial planning with Canada Child Benefit]]
+
+### [Average Net Worth in Canada by Age (30, 40, 50, 60): How do You Compare?](https://www.youtube.com/watch?v=K7fXmR3VJhs)
+- [[canadian_net_worth_trends_from_2020_to_2024 | Canadian net worth trends from 2020 to 2024]]
+- [[impact_of_real_estate_on_canadian_net_worth | Impact of real estate on Canadian net worth]]
+- [[wealth_disparity_between_homeowners_and_renters | Wealth disparity between homeowners and renters]]
+- [[average_net_worth_by_age_group_in_canada | Average net worth by age group in Canada]]
+- [[strategies_for_increasing_personal_net_worth | Strategies for increasing personal net worth]]
+
+### [8 TFSA Mistakes You Must AVOID at All Cost](https://www.youtube.com/watch?v=ro6nm-q96es)
+- [[naming_a_successor_holder_instead_of_a_beneficiary_for_tfsas | Naming a successor holder instead of a beneficiary for TFSAs]]
+- [[coordinating_your_tfsa_with_other_financial_accounts_for_tax_efficiency | Coordinating your TFSA with other financial accounts for tax efficiency]]
+- [[risks_of_highrisk_investments_in_a_tfsa | Risks of highrisk investments in a TFSA]]
+- [[paying_off_highinterest_debt_before_investing_in_a_tfsa | Paying off highinterest debt before investing in a TFSA]]
+- [[avoiding_tfsa_overcontribution_penalties_and_technical_pitfalls | Avoiding TFSA overcontribution penalties and technical pitfalls]]
+
+### [TFSA Limit 2025 UPDATE: Over $100K Contribution Room!](https://www.youtube.com/watch?v=m1oMpGB3cBc)
+- [[tfsa_contribution_limits_for_2025 | TFSA contribution limits for 2025]]
+- [[power_of_compounding_in_tfsa_investments | Power of compounding in TFSA investments]]
+- [[avoiding_tfsa_overcontribution_penalties | Avoiding TFSA overcontribution penalties]]
+- [[calculating_available_tfsa_contribution_room | Calculating available TFSA contribution room]]
+- [[tfsa_eligibility_criteria_and_accumulation_examples | TFSA eligibility criteria and accumulation examples]]
+
+### [The Tipping Culture in Canada is BROKEN](https://www.youtube.com/watch?v=9zCAHYwpQNA)
+- [[history_of_tipping_in_canada | History of tipping in Canada]]
+- [[current_tipping_practices_in_canada | Current tipping practices in Canada]]
+- [[public_opinion_on_tipping_culture | Public opinion on tipping culture]]
+- [[comparison_of_tipping_practices_around_the_world | Comparison of tipping practices around the world]]
+- [[impact_of_technology_on_tipping_culture | Impact of technology on tipping culture]]
+
+### [Average RRSP Balance By Age (40, 50, 60, 70): Are You Saving Enough?](https://www.youtube.com/watch?v=gejL4WBnh2U)
+- [[average_rrsp_balance_in_canada | Average RRSP balance in Canada]]
+- [[differences_between_median_and_average_rrsp_savings | Differences between median and average RRSP savings]]
+- [[impact_of_regional_differences_on_rrsp_balances_in_canada | Impact of regional differences on RRSP balances in Canada]]
+- [[economic_challenges_and_their_effect_on_retirement_savings | Economic challenges and their effect on retirement savings]]
+- [[household_size_and_its_impact_on_rrsp_contributions | Household size and its impact on RRSP contributions]]
+
+### [9 Important Steps to Take BEFORE You Retire in Canada](https://www.youtube.com/watch?v=LhhEqLyxE_s)
+- [[assessing_your_current_financial_situation_before_retirement | Assessing your current financial situation before retirement]]
+- [[defining_retirement_goals_and_lifestyle_planning | Defining retirement goals and lifestyle planning]]
+- [[calculating_and_planning_for_retirement_expenses | Calculating and planning for retirement expenses]]
+- [[understanding_income_sources_and_withdrawal_strategies_in_retirement | Understanding income sources and withdrawal strategies in retirement]]
+- [[importance_of_updating_estate_planning_and_prioritizing_health_before_retirement | Importance of updating estate planning and prioritizing health before retirement]]
+
+### [Ideal Order of Investing in Canada (TFSA, RRSP, FHSA, RESP, RDSP?)](https://www.youtube.com/watch?v=vBuRivxvWZc)
+- [[optimizing_tfsa_rrsp_and_fhsa_accounts | Optimizing TFSA RRSP and FHSA accounts]]
+- [[priority_order_of_canadian_investment_accounts | Priority order of Canadian investment accounts]]
+- [[benefits_of_rdsp_for_canadians_with_disabilities | Benefits of RDSP for Canadians with disabilities]]
+- [[importance_of_employer_matching_for_rrsp | Importance of employer matching for RRSP]]
+- [[nonregistered_investment_accounts_and_tax_efficiency | Nonregistered investment accounts and tax efficiency]]
+
+### [How to Eliminate the $9,481 OAS Clawback](https://www.youtube.com/watch?v=Kl_71hQFh1g)
+- [[understanding_the_oas_clawback_and_recovery_tax | Understanding the OAS clawback and recovery tax]]
+- [[strategies_to_reduce_or_eliminate_the_oas_clawback | Strategies to reduce or eliminate the OAS clawback]]
+- [[the_benefits_and_drawbacks_of_delaying_cpp_and_oas_payments | The benefits and drawbacks of delaying CPP and OAS payments]]
+- [[using_taxfree_savings_accounts_tfsa_and_pension_income_splitting_to_minimize_oas_clawback | Using taxfree savings accounts TFSA and pension income splitting to minimize OAS clawback]]
+- [[investment_strategies_and_managing_withdrawals_to_maintain_oas_benefits_in_retirement | Investment strategies and managing withdrawals to maintain OAS benefits in retirement]]
+
+### [7 Huge CPP Mistakes to AVOID in Canada!](https://www.youtube.com/watch?v=jaUjvqOPCWM)
+- [[tax_implications_of_cpp | Tax implications of CPP]]
+- [[delaying_cpp_benefits | Delaying CPP benefits]]
+- [[cpp_spousal_considerations | CPP spousal considerations]]
+- [[cpp_postretirement_benefit | CPP postretirement benefit]]
+- [[relying_too_heavily_on_cpp_for_retirement_income | Relying too heavily on CPP for retirement income]]
+
+### [Average Income in Canada by Age (30, 40, 50, 60): Are You Keeping Up?](https://www.youtube.com/watch?v=WRrFuzzyLoE)
+- [[average_income_in_canada_by_age | Average income in Canada by age]]
+- [[gender_income_gap_in_canada | Gender income gap in Canada]]
+- [[income_disparities_across_canadian_provinces | Income disparities across Canadian provinces]]
+- [[income_by_household_type_in_canada | Income by household type in Canada]]
+- [[impact_of_education_level_on_income_in_canada | Impact of education level on income in Canada]]
+
+### [11 Countries Where Canadians Can Live Large for Less](https://www.youtube.com/watch?v=1MtzTHORYnU)
+- [[affordable_countries_for_canadians_to_live_abroad | Affordable countries for Canadians to live abroad]]
+- [[factors_to_consider_when_moving_abroad | Factors to consider when moving abroad]]
+- [[living_costs_and_quality_of_life_in_different_countries | Living costs and quality of life in different countries]]
+- [[visa_and_residency_options_for_expatriates | Visa and residency options for expatriates]]
+- [[adjusting_to_life_in_a_new_country | Adjusting to life in a new country]]
+
+### [7 Chinese Money-Saving Secrets Revealed (Save 40%!)](https://www.youtube.com/watch?v=10iwtARDNt4)
+- [[chinese_savings_habits | Chinese savings habits]]
+- [[cultural_influences_on_saving | Cultural influences on saving]]
+- [[scarcity_mindset_and_saving | Scarcity mindset and saving]]
+- [[career_impact_on_financial_stability | Career impact on financial stability]]
+- [[cultural_aversion_to_debt | Cultural aversion to debt]]
+
+### [Leaving Canada? Your TFSA, RRSP, CPP & OAS Will Change Drastically](https://www.youtube.com/watch?v=PGICQ_9LPiE)
+- [[tfsa_changes_for_nonresidents | TFSA changes for nonresidents]]
+- [[rrsp_contributions_and_tax_implications_abroad | RRSP contributions and tax implications abroad]]
+- [[cpp_benefits_for_canadians_living_abroad | CPP benefits for Canadians living abroad]]
+- [[oas_eligibility_and_tax_implications_for_expatriates | OAS eligibility and tax implications for expatriates]]
+- [[tax_considerations_for_selling_a_home_before_leaving_canada | Tax considerations for selling a home before leaving Canada]]
 
 ### [Why No One Can Afford to Live in Canada in 2024](https://www.youtube.com/watch?v=-Xy5-n2oS5I)
-- [[cost_of_living_crisis_in_canada | Cost of living crisis in Canada]]
-- [[rising_food_and_housing_costs_in_canada | Rising food and housing costs in Canada]]
-- [[impact_of_inflation_on_canadians_financial_struggles | Impact of inflation on Canadians financial struggles]]
-- [[income_disparity_and_challenges_in_canada | Income disparity and challenges in Canada]]
-- [[strategies_to_manage_personal_finances_amidst_high_living_costs | Strategies to manage personal finances amidst high living costs]]
+- [[cost_of_living_crisis_in_canada | cost of living crisis in Canada]]
+- [[rising_food_and_housing_costs | rising food and housing costs]]
+- [[income_growth_versus_inflation | income growth versus inflation]]
+- [[strategies_to_manage_financial_stress | strategies to manage financial stress]]
+- [[relocation_and_migration_trends_in_canada | relocation and migration trends in Canada]]
 
-### [Business Owners in Canada: 5 Big Tax Updates in 2025 You Must Know!](https://www.youtube.com/watch?v=OPCWJ7wvN2Y)
-- [[capital_gains_tax_changes_for_corporations | Capital gains tax changes for corporations]]
-- [[strategies_for_taxefficient_investment_in_canada | Strategies for taxefficient investment in Canada]]
-- [[cpp_2025_enhancements_and_implications_for_payroll | CPP 2025 enhancements and implications for payroll]]
-- [[lifetime_capital_gains_exemption_updates | Lifetime capital gains exemption updates]]
-- [[electronic_filing_requirements_for_canadian_businesses | Electronic filing requirements for Canadian businesses]]
+### [The Average Retiree Spends THIS Much in Canada? (I'm Shocked!)](https://www.youtube.com/watch?v=-2mqsZtevJo)
+- [[average_monthly_spending_for_canadian_retirees | Average monthly spending for Canadian retirees]]
+- [[breakdown_of_household_expenditures_in_retirement | Breakdown of household expenditures in retirement]]
+- [[stages_of_retirement_and_changing_expenses | Stages of retirement and changing expenses]]
+- [[impact_of_age_on_retirement_spending_patterns | Impact of age on retirement spending patterns]]
+- [[reallife_examples_of_retirement_budgets | Reallife examples of retirement budgets]]
+
+### [Why Mutual Funds in Canada are a MASSIVE Rip-Off](https://www.youtube.com/watch?v=j6sbeT0H9D0)
+- [[the_popularity_of_mutual_funds_in_canada | The popularity of mutual funds in Canada]]
+- [[high_fees_associated_with_canadian_mutual_funds | High fees associated with Canadian mutual funds]]
+- [[underperformance_of_actively_managed_funds_versus_benchmarks | Underperformance of actively managed funds versus benchmarks]]
+- [[deceptive_marketing_tactics_in_the_mutual_fund_industry | Deceptive marketing tactics in the mutual fund industry]]
+- [[tax_inefficiency_of_mutual_funds_in_canada | Tax inefficiency of mutual funds in Canada]]
+
+### [People Are Fleeing Canada: 5 Steps For You to Join Them](https://www.youtube.com/watch?v=rvW_9ApnMEY)
+- [[reasons_for_leaving_canada | Reasons for leaving Canada]]
+- [[steps_for_moving_abroad_from_canada | Steps for moving abroad from Canada]]
+- [[making_money_while_living_overseas | Making money while living overseas]]
+- [[understanding_residency_and_tax_laws_in_a_new_country | Understanding residency and tax laws in a new country]]
+- [[pathways_to_gaining_citizenship_in_a_new_country | Pathways to gaining citizenship in a new country]]
+
+### [Average CPP Benefits at 60, 65, and 70: How Much Will You Get?](https://www.youtube.com/watch?v=MvoPfHvOwtI)
+- [[cpp_benefits_at_ages_60_65_and_70 | CPP benefits at ages 60 65 and 70]]
+- [[factors_affecting_cpp_payouts | Factors affecting CPP payouts]]
+- [[strategies_to_optimize_cpp_benefits | Strategies to optimize CPP benefits]]
+- [[estimating_your_cpp_benefits | Estimating your CPP benefits]]
+- [[contributions_and_earnings_impact_on_cpp | Contributions and earnings impact on CPP]]
 
 ### [Should You Lease, Finance, or Buy A New Car in Canada?](https://www.youtube.com/watch?v=FUZSfL7EemY)
-- [[car_purchase_options_in_canada | Car purchase options in Canada]]
-- [[pros_and_cons_of_leasing_vs_buying_vs_financing_a_car | Pros and cons of leasing vs buying vs financing a car]]
-- [[estimating_car_depreciation_and_its_impact_on_decision_making | Estimating car depreciation and its impact on decision making]]
-- [[nonfinancial_considerations_for_car_leasing_and_buying | Nonfinancial considerations for car leasing and buying]]
-- [[benefits_of_buying_used_cars | Benefits of buying used cars]]
+- [[comparison_of_buying_leasing_and_financing_a_car_in_canada | Comparison of buying leasing and financing a car in Canada]]
+- [[impact_of_car_depreciation_on_financial_decisions | Impact of car depreciation on financial decisions]]
+- [[utilizing_online_calculators_for_car_purchase_decisions | Utilizing online calculators for car purchase decisions]]
+- [[nonfinancial_factors_when_choosing_to_lease_or_buy_a_car | Nonfinancial factors when choosing to lease or buy a car]]
+- [[benefits_and_drawbacks_of_buying_used_cars | Benefits and drawbacks of buying used cars]]
+
+### [10 Reasons to DELAY Starting CPP Past 60](https://www.youtube.com/watch?v=BJTshYzYsgU)
+- [[benefits_of_delaying_cpp_past_age_60 | Benefits of delaying CPP past age 60]]
+- [[financial_stability_and_retirement_income | Financial stability and retirement income]]
+- [[impact_of_health_and_life_expectancy_on_cpp_decisions | Impact of health and life expectancy on CPP decisions]]
+- [[cpp_and_inflation_adjustments | CPP and inflation adjustments]]
+- [[cpp_management_and_sustainability | CPP management and sustainability]]
+
+### [How I Earned $500,000 From my Finance Blog](https://www.youtube.com/watch?v=vpvIpE1ewNs)
+- [[starting_a_finance_blog | Starting a finance blog]]
+- [[earning_money_through_blogging | Earning money through blogging]]
+- [[digital_nomad_lifestyle | Digital Nomad lifestyle]]
+- [[challenges_of_running_a_business | Challenges of running a business]]
+- [[selling_a_business_and_new_ventures | Selling a business and new ventures]]
+
+### [20 Small Business Tax Write-Offs to Save THOUSANDS in Canada!](https://www.youtube.com/watch?v=rZFZ3TXVeZk)
+- [[simple_tax_deductions_for_small_businesses_in_canada | Simple tax deductions for small businesses in Canada]]
+- [[intermediate_tax_writeoffs_for_small_businesses | Intermediate tax writeoffs for small businesses]]
+- [[advanced_tax_strategies_for_small_businesses_in_canada | Advanced tax strategies for small businesses in Canada]]
+- [[home_office_and_vehicle_expense_deductions | Home office and vehicle expense deductions]]
+- [[depreciation_and_capital_cost_allowance_in_canada | Depreciation and capital cost allowance in Canada]]
+
+### [Do THIS to Build a $1 Million TFSA in Canada](https://www.youtube.com/watch?v=2dh-7xI95cE)
+- [[strategies_to_build_a_million_dollar_tfsa | Strategies to build a million dollar TFSA]]
+- [[common_mistakes_in_tfsa_investing | Common mistakes in TFSA investing]]
+- [[investment_options_for_a_tfsa | Investment options for a TFSA]]
+- [[risk_management_in_investments | Risk management in investments]]
+- [[optimizing_tfsa_withdrawals_in_retirement | Optimizing TFSA withdrawals in retirement]]
+
+### [5 RRSP Withdrawal Strategies to Save MASSIVE Taxes! (RRSP Meltdown)](https://www.youtube.com/watch?v=xIgUuzIlQgg)
+- [[rrsp_withdrawal_strategies_for_retirement | RRSP withdrawal strategies for retirement]]
+- [[tax_implications_of_rrsp_withdrawals | Tax implications of RRSP withdrawals]]
+- [[timing_for_cpp_and_oas_benefits | Timing for CPP and OAS benefits]]
+- [[estate_planning_and_rrsp | Estate planning and RRSP]]
+- [[rrsp_meltdown_strategy | RRSP meltdown strategy]]
+
+### [15 CRA Tax Benefits to Save THOUSANDS in Canada!](https://www.youtube.com/watch?v=K4zHea7U1W0)
+- [[cra_tax_benefits_overview | CRA Tax Benefits Overview]]
+- [[moving_expenses_deduction | Moving Expenses Deduction]]
+- [[work_from_home_tax_deduction | Work From Home Tax Deduction]]
+- [[child_care_expenses_deduction | Child Care Expenses Deduction]]
+- [[first_home_savings_account_benefits | First Home Savings Account Benefits]]
+
+### [How Much to Retire in Canada? 4 Strategies to Find Your Number](https://www.youtube.com/watch?v=atoE6KymP_4)
+- [[retirement_planning_strategies_in_canada | Retirement planning strategies in Canada]]
+- [[consequences_of_inadequate_retirement_savings | Consequences of inadequate retirement savings]]
+- [[rules_of_thumb_for_estimating_retirement_needs | Rules of thumb for estimating retirement needs]]
+- [[online_retirement_calculators_and_their_effectiveness | Online retirement calculators and their effectiveness]]
+- [[comprehensive_financial_planning_for_retirement | Comprehensive financial planning for retirement]]

@@ -5,53 +5,46 @@ videoId: xm2edCPU4hE
 
 From: [[blueprint.financial]] <br/> 
 
-Tracking financial goals can significantly increase the likelihood of achieving them, with one study from Michigan State University suggesting a 33% greater chance of success <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. For one financial planner, tracking their net worth since 2019 has "completely transformed" their financial management and growth <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+[[tracking_and_analyzing_your_net_worth | Tracking your net worth]] is a crucial step towards achieving financial success. According to a study at Michigan State University, tracking goals makes individuals 33% more likely to achieve them <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The speaker's personal experience since 2019 shows that [[tracking_and_analyzing_your_net_worth | tracking net worth]] completely transformed their financial management and helped grow wealth <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
 
-## Why Track Net Worth?
+## Why Track Your Net Worth?
 
-Tracking net worth is comparable to tracking weight loss: small, consistent actions lead to significant results <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. Research from Yukon and the University of Pennsylvania indicated that weight loss participants who regularly tracked their diets saw notable outcomes <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. Those tracking 40% of the time lost 5% of their weight in six months, while those tracking 70% of the time lost 10% <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. The key takeaway is that tracking correlates with goal success, even if not perfectly <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+[[tracking_and_analyzing_your_net_worth | Tracking your net worth]] is often compared to [[comparison_between_tracking_net_worth_and_weight_loss | tracking weight loss]], where small, consistent actions lead to significant results <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
 
-The same principle applies to finances <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. By tracking net worth monthly or quarterly, individuals can:
+> Research published by Yukon and the University of Pennsylvania indicated that [[comparison_between_tracking_net_worth_and_weight_loss | weight loss]] participants who regularly tracked their diets saw notable outcomes <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. Those who tracked approximately 40% of the time lost 5% of their weight in six months, while participants who tracked 70% of the time lost 10% <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. The key takeaway is that tracking is correlated with success towards your goals, even if it's not perfect <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
+
+This same principle applies to finances <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. By [[tracking_and_analyzing_your_net_worth | tracking your net worth]] monthly or quarterly, you can:
 *   Spot trends <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>
 *   Make smarter decisions <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>
-*   Stay on course towards financial goals <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>
+*   Stay on course towards your financial goals <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>
 
-Consistency, not perfection, is the goal <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. Focusing on broad metrics like total savings, investments, and debt is sufficient to stay on track without overcomplicating the process <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. Tracking net worth is akin to steering a ship with a compass; without it, one might drift off course <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+Consistency, not perfection, is key, focusing on broad metrics like total savings, investments, and debt <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
 
-## How to Track Net Worth Using a Spreadsheet
+> [!NOTE]
+> [[tracking_and_analyzing_your_net_worth | Tracking your net worth]] is like steering a ship with a compass; without it, you won't know if you're drifting off course <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
 
-Tracking doesn't have to be difficult, especially with tools like a simple Google Sheet <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. The initial setup of such a sheet takes about 10 to 20 minutes <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>, with monthly updates requiring only about two minutes <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
+## How to Track Your Net Worth
 
-### Spreadsheet Setup and Maintenance
+[[tracking_and_analyzing_your_net_worth | Tracking doesn't have to be difficult]]. Using tools like a simple Google [[benefits_of_using_a_spreadsheet_to_track_net_worth | spreadsheet]] can make it easy and rewarding <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. Setting up a [[how_to_set_up_and_use_a_net_worth_tracking_spreadsheet | net worth tracking spreadsheet]] takes about 10 to 20 minutes, and monthly updates can take as little as 2 minutes <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
 
-The process involves:
-1.  **Downloading and copying the Google Sheet**: It's recommended to name the copy with the year, e.g., "2025 net worth tracker," and start a new one at the beginning of each year <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
-2.  **Setting the start month and net worth goal**: The start month should be the beginning of the current year <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. The net worth goal can be customized, and resources on average net worth in Canada and the [[importance_of_reaching_a_100000_net_worth | importance of reaching a $100,000 net worth]] can help determine a suitable goal <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
-3.  **Entering current assets**: This includes cash accounts (checking, savings, PayPal), GICs, and even cars (though they require depreciation tracking) <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>.
-4.  **Entering long-term assets**: Examples include registered accounts (TFSA, RSP, FHSA) and property <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. The spreadsheet works for both individuals and households <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
-5.  **Entering current liabilities**: This covers credit cards, revolving lines of credit, and car loans <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
-6.  **Entering long-term liabilities**: This typically includes student loans, mortgages, and home equity lines of credit <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+A well-designed [[how_to_set_up_and_use_a_net_worth_tracking_spreadsheet | net worth tracker]] can visually represent your current net worth, your goal, and the shortfall needed to reach that goal, along with summary data <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. It's recommended to start a new [[how_to_set_up_and_use_a_net_worth_tracking_spreadsheet | net worth tracker]] at the beginning of each year <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
 
-A pro tip for maintaining consistency is to set a recurring monthly reminder on the first of each month to update the tracker <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. This quick two-minute update helps stay committed to the process <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
+When inputting data:
+*   Include all current assets (e.g., checking accounts, savings accounts, GICs, cash) <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. Cars can also be included, though they depreciate over time <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+*   Include long-term assets (e.g., registered accounts like TFSAs, RRSPs, FHSAs, and property) <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>.
+*   List current liabilities (e.g., credit cards, revolving lines of credit, car loans) <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+*   Detail long-term liabilities (e.g., student loans, mortgages, home equity lines of credit) <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
 
-### Analyzing the Data
+After filling out the data, a dashboard provides insights like total net worth, assets, and liabilities, and tracks progress towards your goal <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>. This dashboard also helps identify trends and significant dips in net worth, prompting investigation into underlying causes such as market fluctuations or changes in risk tolerance <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
 
-Once data is entered, the spreadsheet's dashboard provides valuable insights:
-*   **Current Net Worth, Assets, and Liabilities**: Displays total figures and the shortfall to reach the net worth goal <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
-*   **Net Worth Trend**: Visually represents the progress of net worth throughout the year <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>. Dips in the trend should prompt investigation into what caused them (e.g., market dips affecting risky assets, requiring re-evaluation of risk tolerance) <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
-*   **Asset vs. Liabilities Breakdown**: Shows the proportion of current versus long-term assets and liabilities <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.
-*   **Monthly Progress**: Detailed progress for each month, including percentage increases and decreases <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+## Alternative Tools for Tracking Net Worth in Canada
 
-After each year, it's recommended to create a new copy of the spreadsheet, delete the old data, and fill it in for the new year (e.g., 2026, 2027) <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>. This allows for [[tracking_and_comparing_net_worth_annually | tracking and comparing net worth annually]] to see how performance measures up against previous years <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>.
+While a [[how_to_set_up_and_use_a_net_worth_tracking_spreadsheet | spreadsheet]] offers full control and customization <a class="yt-timestamp" data-t="00:13:32">[00:13:32]</a>, several [[alternative_tools_for_tracking_net_worth_in_canada | tools are available for Canadians]] to track net worth, though they often come with costs or limitations <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>:
 
-## Alternative Net Worth Tracking Tools
+*   **Wetha:** Connects to financial accounts for an automatic overview. However, advanced features require a paid subscription <a class="yt-timestamp" data-t="00:12:33">[00:12:33]</a>.
+*   **Quicken (replaced Mint):** Mint was previously free and popular in Canada but has been replaced by Quicken, which requires a paid subscription. While it offers robust tracking, its cost may outweigh free alternatives <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
+*   **PocketGuard:** A budgeting app that monitors spending and manages finances. It has a free version, but premium features incur monthly or annual fees, offering automation for a price <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>.
 
-While a custom spreadsheet is a preferred method for its free nature, full control, and high customizability <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>, several other tools are available for tracking net worth in Canada, each with its own costs or limitations:
+## Conclusion
 
-*   **Wealthica**: Connects to financial accounts for an automatic overview of net worth. However, advanced features are often behind a paid subscription <a class="yt-timestamp" data-t="00:12:33">[00:12:33]</a>.
-*   **Quicken (replacing Mint)**: Mint, formerly a popular free option in Canada, has been replaced by Quicken, which requires a paid subscription. While it offers robust financial tracking, its cost might not be justified when free alternatives exist <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
-*   **PocketGuard**: A budgeting app that monitors spending and manages finances. It has a free version, but premium features incur a monthly or annual fee. It's an option for those comfortable paying for automation <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>.
-
-Ultimately, the choice of tracking method depends on individual goals and budget <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>.
-
-As Peter Drucker, often considered the father of modern business management, stated, "What gets measured gets managed" <a class="yt-timestamp" data-t="00:13:58">[00:13:58]</a>. Tracking net worth is a simple step that can lead to significant financial wins <a class="yt-timestamp" data-t="00:14:07">[00:14:07]</a>.
+As Peter Drucker, the "father of modern business management," stated, "What gets measured gets managed" <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>. [[tracking_and_analyzing_your_net_worth | Tracking your net worth]] is a simple step that can lead to significant financial gains <a class="yt-timestamp" data-t="00:14:07">[00:14:07]</a>.
