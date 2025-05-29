@@ -1,94 +1,87 @@
 ---
 title: Strategies to maximize CPP benefits
-videoId: X1bmERAYKR8
+videoId: MvoPfHvOwtI
 ---
 
 From: [[blueprint.financial]] <br/> 
 
-Many Canadians do not receive anywhere near the maximum Canada Pension Plan (CPP) benefit of around $2,000 per month, even after decades of contributions <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. The average payment for those starting at age 60 is approximately $530 per month, a 74% drop from the maximum <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. To get as close to the maximum $2,034 per month as possible, it's crucial to understand the [[factors_determining_maximum_cpp_benefits | three biggest factors affecting your payout]] <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
+The majority of Canadians are not maximizing their Canada Pension Plan (CPP) benefits, with the average Canadian receiving 40% less than the maximum payout <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. This article will explore the factors influencing CPP payouts and provide [[strategies_for_maximizing_cpp_and_oas_benefits | strategies to help you get closer to the maximum amount]] <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
 
-## Factor 1: Earning a High Salary Doesn't Guarantee a Max CPP
+## Average vs. Maximum CPP Payouts (2024)
 
-To receive the maximum CPP payout, your salary and income must be high enough to meet the maximum contribution level <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. However, what counts as "maximum" has changed over time, particularly with the introduction of CPP2 <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+Not everyone receives the same amount of CPP, with payouts varying significantly based on the age you begin receiving your pension <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
 
-### The Second Earning Ceiling (YMPE)
+| Age to Start Pension | Maximum Monthly Amount | Average Monthly Amount | Difference |
+| :------------------- | :--------------------- | :--------------------- | :--------- |
+| 60                   | $873 <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>           | $522 <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>           | 40.21% less |
+| 65 (Standard)        | $1,364.60 <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>     | $816.52 <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>     | 40.16% less |
+| 70                   | $1,937 <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>     | $1,159 <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>      | 40.16% less |
 
-Starting in 2024, CPP introduced a second earning ceiling, meaning higher-income earners contribute more <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. In 2024, this new second ceiling, called YMPE, is $81,300 <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. This is the amount you need to earn annually to receive maximum CPP payments when you retire <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+## [[factors_affecting_cpp_payouts | Key Factors Determining Your CPP Payouts]]
 
-The maximum threshold has steadily increased, making it harder to reach maximum CPP <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. For example:
-*   In 1990, you needed to earn $28,900 <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
-*   In 2000, it was $37,600 <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
-*   In 2010, it was $47,200 <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
+The amount of CPP you receive is primarily influenced by two major factors:
 
-What qualified as a high enough salary to max out CPP in the past is insufficient today, and it will continue to rise, requiring younger Canadians to earn even higher salaries <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
+### Contributions
+Your CPP retirement pension benefits are heavily dependent on the amount and duration of your contributions throughout your working life <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>. Both employees and employers contribute based on earnings up to the Yearly Maximum Pensionable Earnings (YMPE) <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. For 2024, the YMPE is $68,500 <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
 
-> [!EXAMPLE] James's Payout
-> James earned at least the maximum YMPE every year for nearly four decades and decided to start collecting CPP at age 60 <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. Despite this, he receives around $917 per month, which is less than half of the maximum payout <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. This illustrates that even with a very high income, you might not get anywhere near the maximum CPP <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+To receive the maximum benefit, you typically need to contribute for at least 39 years and ensure your annual earnings meet or exceed the YMPE each year <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. The more you contribute and the longer your contribution period, the higher your pension will be <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
 
-## Factor 2: Delaying CPP – Why Timing Matters
+### Average Earnings
+Your average earnings over your career also directly affect the amount of CPP you receive <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. CPP payments are calculated based on your best 40 years of earnings <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>. Consistently high annual earnings at or above the YMPE will maximize your CPP benefits <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>. Conversely, years with lower or no earnings can reduce your average earnings and, consequently, your CPP benefits <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
 
-One of the biggest [[factors_determining_maximum_cpp_benefits | factors in determining your CPP payout]] is when you start collecting it <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. The longer you wait, the higher your monthly payments will be <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+#### Example: David and Sarah
+David and Sarah are both 65 and receiving CPP, but with different payouts <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>:
 
-Here's how CPP payments change based on when you start:
-*   **Age 60:** Average monthly payment is $540, with a maximum possible amount of $917 <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
-*   **Age 65:** Average jumps to $838, with a maximum of $1,433 <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
-*   **Age 70:** Delaying until age 70 boosts your pay by 42% compared to taking it at 65 <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+*   **Sarah:** Contributed to CPP for at least 39 years with a long contribution period and consistently earned at or above the YMPE throughout her career <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. She receives the maximum payout of $1,364 per month at age 65 <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
+*   **David:** Had gaps in employment, started contributing later, and had many years of much lower earnings, resulting in fewer years of contribution and reduced overall contributions <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. He receives the average amount of $816 per month at age 65 <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
 
-Conversely, starting CPP at 60 reduces your payments by around 36%, and this reduction lasts for life <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. Despite the significant financial benefits of waiting, less than 2% of Canadians actually delay CPP until 70 <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+In essence, the more you earn and contribute to CPP from your paycheck, the higher your eventual CPP benefits will be <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>.
 
-> [!NOTE] Inflation Indexing
-> CPP is indexed to inflation, meaning your payments will continue to rise over time to keep up with the cost of living <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. In recent years, CPP payouts have increased significantly due to higher inflation rates <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>.
+## Strategies to Maximize Your CPP Payments
 
-> [!PRO TIP] Delaying OAS
-> Consider [[strategies_to_delay_cpp_and_oas_for_higher_benefits | delaying Old Age Security (OAS)]] alongside CPP <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. OAS also increases by 0.6% per month after age 65, which can significantly impact your retirement income <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+Here are ways to potentially move from below-average or average CPP payments to the maximum:
 
-While delaying CPP offers benefits, it's not for everyone. Many [[optimal_timing_for_cpp_and_oas_benefits | factors]] must be considered, such as your life expectancy, financial situation, and income needs <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
+### 1. Work While Receiving CPP
+If you continue working while receiving CPP up to age 70, you can still contribute to the plan <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>. These additional contributions will earn you a Post-Retirement Benefit, increasing your monthly income <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. For example, Sarah, at 67, still works part-time and contributes, boosting her monthly CPP payouts <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>.
 
-## Factor 3: Contribution Gaps – Why Even High Earners Can Fall Short
+### 2. Utilize Drop-Out Provisions
+The CPP allows for provisions to exclude periods of low or no earnings, which can result in a higher average earnings calculation <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+*   **General Drop-Out Provision**: You can drop out up to 17% of your lowest income years from your calculation, which equals around 8 years if you contributed for 47 years (from age 18 to 65) <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
+*   **Child Rearing Drop-Out**: If you took time off work to raise children under the age of seven, you can exclude these lower earning years from your CPP calculation, which can increase your benefit <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
+*   **Disability Provisions**: Periods of disability can also adjust your lower earning years to your advantage, boosting your CPP pension <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
 
-Even if you earn a high salary and delay CPP to age 70, you still might not receive the full $2,034 per month <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. This is because CPP is based on your lifetime contributions, not just your income <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>. To get the maximum CPP payout, you need to have at least 39 years of maximum contributions <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Many people fall short due to gaps in their contribution history <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>.
+### 3. Maximize Your Earnings and Contributions
+This is a challenging but effective way to increase your CPP. Aim to ensure your annual income meets or exceeds the YMPE (e.g., $68,500 for 2024) <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. Higher contributions directly translate into higher benefits <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>.
+*   **Start a Side Hustle**: Increasing your income through a side hustle can help you meet or exceed the YMPE, boosting your CPP contributions <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. For example, Alex started a successful online business, which helped him exceed the YMPE and increase his CPP contributions <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>.
+*   **Seek Higher Paying Jobs**: Aim for promotions and higher paying positions throughout your career, as more earnings mean more contributions to CPP <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+*   **Longevity in Contributions**: Ensure you've worked and contributed to CPP for at least 39 years with consistent high earnings <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>. Your CPP is based on your best 40 years of earnings, so a longer contribution period with high earnings will result in higher benefits <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>.
 
-Common reasons for contribution gaps include:
-*   **Career Breaks:** Taking time off for education, sabbaticals, or child care can result in years with no CPP contributions <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
-*   **Self-Employment or Business Ownership:** If you were self-employed and paid lower or inconsistent CPP contributions, this can lower your lifetime average <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
-*   **Periods of Unemployment:** Missing a few years of contributions due to unemployment can drag down your average, even if you later had a very high salary <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
-*   **Early Retirement or Late Workforce Entry:** If you retire before 65 or started working late, you might not accumulate the full 39 years of contributions <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>.
+## [[estimating_cpp_benefits | Estimating Your CPP Benefits]]
 
-> [!EXAMPLE] Jerry and Elaine
-> Elaine received the full $2,034 per month at age 70 because she had 39 years of maximum contributions with no gaps <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>. Jerry, who also delayed CPP to 70, ended up with less than $1,500 because he had many contribution gaps, perhaps due to time off for starting a business, going back to school, or unemployment <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. Even though he maxed out his salary in working years, those missing years pulled his average down <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
+To determine if you're on track to hit your target CPP benefits, you can use these estimation methods:
 
-### How Contribution Gaps Affect Your Final CPP Pay
+### 1. Rule of Thumb
+The CPP has been enhanced to provide bigger payouts <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. Previously, it replaced 25% of average work earnings, but with the new enhancement, it can now replace up to one-third of your earnings up to the YMPE <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>.
 
-CPP uses your best 39 years of contributions to calculate your retirement benefit <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>. To help, CPP includes a general Dropout provision, allowing you to exclude up to 17% of your lowest earning months from the calculation <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>. Given 47 years of potential contributions from ages 18 to 65, this means you could drop about 8 years of low or zero contributions <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>. If you delay CPP to 70, your total working period extends to 52 years, but the dropout period remains roughly 8 years <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>.
+> For example, if your average annual earnings were $40,000:
+> *   **Before Enhancement**: CPP would replace 25%, providing about $10,000 annually <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
+> *   **After Enhancement**: CPP now replaces about one-third, providing $13,332 annually <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>.
+This method is best used as a ballpark estimate <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>.
 
-While this provision reduces the impact of short gaps, if you miss more than 8 years of contributions, your final payout will be lower, even with a high salary and delayed CPP <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>. This is precisely what happened to Jerry <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>.
+### 2. Online Calculators
+For a more tailored estimate, you can use online calculators:
+*   **Government of Canada Retirement Income Calculator**: This comprehensive tool provides a very detailed estimate of your future CPP payment but can take about 30 minutes to complete and may not be the most user-friendly <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>.
+*   **Ativa's Calculator**: A quicker and easier-to-use option, though its accuracy may decrease the further you are from retirement <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>.
 
-## [[strategies_to_increase_cpp_payouts | How to Maximize Your CPP Benefits]]
+### 3. Statement of Contributions
+This statement provides an estimate of your monthly CPP benefits at different retirement ages (60, 65, and 70) <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
+*   **Online**: Access it via your My Service Canada account. Sign in (e.g., through your bank), select "CPP OAS," and scroll to the contribution section <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.
+*   **By Phone**: You can call CPP directly to request your statement <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
 
-Think of CPP as a three-legged stool: your payout depends on salary, timing, and consistency <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>. To achieve the maximum CPP payout, you need to optimize all three factors <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>.
+## Important Distinction: Delaying CPP Payments
 
-### 1. Delay CPP as Late as Possible
+While delaying your CPP start age significantly increases your payout, it does *not* inherently boost you from an average payout to the maximum payout <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. The strategies mentioned earlier (contributions, earnings, drop-outs) are what bridge the gap to the maximum benefit <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>. Deciding when to start CPP is a separate financial consideration, which is covered in more detail in other discussions on [[benefits_of_delaying_cpp_payments | the benefits of delaying CPP payments]] and [[advantages_of_delaying_cpp_benefits | advantages of delaying CPP benefits]] <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>.
 
-The biggest boost comes from delaying CPP, which is the easiest way to increase your payout as it doesn't require earning more or changing your work history <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>.
-*   Delaying past age 65: Your CPP increases by 8.4% per year, up to a 42% boost at age 70 <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>.
-*   Starting before age 65: Your CPP decreases by 7.2% per year, up to a 36% reduction at age 60 <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>.
+It's a misconception that starting CPP benefits at age 60 can help avoid penalties for having no income between 60 and 65 <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>. In reality, the reduction for starting CPP early is much more significant than the impact of a few zero or low-income years <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. For most clients, it's generally better to delay your CPP as long as possible, even if you're not working at age 60 <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>.
 
-> [!IMPORTANT] Financial Planning
-> It's crucial to plan to have other income sources, such as investments, TFSAs, and RRSPs, to cover expenses while waiting <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>.
-
-### 2. Earn at Least the YMPE for as Many Years as Possible
-
-This is often the hardest factor, as increasing income requires effort <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. However, increasing your income over time directly increases your CPP payout <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>.
-*   **Negotiate higher wages and promotions:** The more you earn, the more you can contribute <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>.
-*   **Start a side hustle or business:** If self-employed, ensure you pay into CPP <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a>.
-*   **Level up your skills:** Invest in certifications, training, or new skills that can lead to a higher-paying job <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>.
-*   **Switch jobs strategically:** Changing employers can often result in faster salary growth than staying in the same position <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
-
-### 3. Avoid Contribution Gaps and Maximize Your Contribution Years
-
-Even with delayed CPP and a high salary, too many missing years will prevent you from receiving the full amount <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>.
-*   **Work for at least 39 years:** Aim for strong contributions during this period <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>.
-*   **Utilize dropout provisions:** CPP allows you to drop up to 8 years of low or no contributions <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. However, missing more than that will lower your payouts <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.
-*   **Use the child rearing provision:** Exclude low-income years if you took time off to raise children under seven <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>.
-
-[[cpp_payment_strategies_and_optimization | Maximizing your CPP]] isn't just about earning more; it's about making smart decisions regarding your contributions and timing <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>. The right [[strategies_to_supplement_cpp_and_oas_income | strategy]] can mean hundreds more per month in retirement <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>.
+If you're still wondering if you're getting the most out of your CPP, financial professionals can guide you in optimizing your payouts <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>.

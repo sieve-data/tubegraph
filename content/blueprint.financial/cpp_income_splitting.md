@@ -5,28 +5,33 @@ videoId: PagvRBlrV20
 
 From: [[blueprint.financial]] <br/> 
 
-[[income_splitting_strategies | Income splitting]] can be a complex topic, but it offers significant potential for tax savings for couples <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Some couples have even saved over six figures in taxes through careful planning <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+[[income_splitting_to_reduce_tax_burden | Income splitting]] is a strategy that can lead to significant tax savings for couples, with some even saving over six figures in taxes <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. It involves a carefully choreographed dance between partners to avoid higher taxes <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
 
-## Splitting CPP Income
+For couples receiving Canada Pension Plan (CPP) benefits, [[income_splitting_to_reduce_tax_burden | income splitting]] offers an easy way to reduce taxes <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
 
-For couples receiving Canada Pension Plan (CPP) benefits, [[tax_implications_of_cpp | income splitting]] is an easy way to reduce taxes <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+## How CPP Income Splitting Works
 
-### How it Works
+You can shift up to 50% of CPP benefits from the higher-income spouse to the lower-income spouse <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. This strategy reduces the household tax bill and can even help avoid the Old Age Security (OAS) clawback <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
 
-You can shift up to 50% of CPP benefits from the higher-income spouse to the lower-income spouse <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. This strategy reduces your household tax bill and may even help you avoid the Old Age Security (OAS) clawback <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
+It's important to note that this differs from [[employersponsored_pension_income_splitting | employer-sponsored pension income splitting]], which has its own rules <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
 
-### Example: Ted and Robin
+## Example: Ted and Robin's CPP Splitting Plan
 
-Consider Ted and Robin's CPP splitting plan <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>:
+Consider Ted and Robin:
 *   Ted receives $12,000 annually in CPP benefits and is taxed at 30% <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>.
 *   Robin receives $6,000 in CPP benefits and is taxed at 15% <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>.
 
-By splitting Ted's CPP income, they can shift $3,000 to Robin, resulting in tax savings <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+By splitting Ted's CPP income, they can shift $3,000 to Robin, leading to tax savings <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
 
-#### Results of the Strategy
-*   **Without Splitting:** Ted would pay more in taxes because his income falls into a higher tax bracket <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>.
-*   **With Splitting:** Shifting $3,000 of CPP income to Robin lowers their overall tax bill by $450 <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
+### Results of the Strategy
 
-### Combining Strategies
+Without splitting, Ted would pay more in taxes because his income falls into a higher tax bracket <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>. However, by shifting $3,000 of CPP income to Robin, their overall tax bill is lowered by $450 <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
 
-The real benefits of [[income_splitting_strategies | income splitting]] emerge when multiple strategies are combined <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>. For instance, a couple could use [[fhsa_for_income_splitting | FHSA for income splitting]] for one partner, then use [[pension_income_splitting | pension income splitting]] in retirement, and add [[rrsp_income_splitting_for_tax_efficiency | spousal RRSP contributions]] to create more tax-deferred savings <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>. These combined strategies can seamlessly lower taxes, balance income streams, and help achieve financial goals <a class="yt-timestamp" data-t="00:11:56">[00:11:56]</a>.
+### Combined Strategies
+
+The true power of [[income_splitting_to_reduce_tax_burden | income splitting]] comes when multiple strategies are combined <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>. Along with CPP splitting, a couple could also consider:
+*   Contributing to a First Home Savings Account (FHSA) for one partner to claim a tax deduction <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>.
+*   Using [[pension_income_splitting | pension income splitting]] in retirement to balance income <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>.
+*   Adding spousal RRSP contributions to create more tax-deferred savings <a class="yt-timestamp" data-t="00:11:49">[00:11:49]</a>.
+
+Together, these [[income_splitting_strategies_in_canada | strategies]] can seamlessly lower taxes, balance income streams, and help achieve financial goals like saving for a home or planning for a stress-free retirement <a class="yt-timestamp" data-t="00:11:56">[00:11:56]</a>.

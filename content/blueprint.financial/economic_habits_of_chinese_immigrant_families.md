@@ -1,0 +1,50 @@
+---
+title: Economic habits of Chinese immigrant families
+videoId: 10iwtARDNt4
+---
+
+From: [[blueprint.financial]] <br/> 
+
+The average Chinese household saves between 36% and over 40% of their income, meaning at least $36 is saved for every $100 earned <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This contrasts sharply with Canada's savings rate of 6.9% and the U.S. at 3.5%, highlighting a staggering difference in [[chinese_savings_culture | savings rates]] <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. For many Chinese Canadians, this creates a [[cultural_habits_influencing_financial_planning_and_savings | cultural clash]] between their inherent saving values and the consumer-driven North American environment <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+
+This article explores key economic habits prevalent among Chinese immigrant families, how they foster significant savings, and some potential downsides of extreme frugality <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+
+## Key Economic Habits
+
+### Turning Deals into a Hobby
+
+First-generation Asian parents in Canada and the U.S. often turn finding good deals into a competitive sport <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. Costco, for example, is seen as a source of thrill due to the money saved on every item, not just buying in bulk <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. This pursuit of deals is deeply rooted in their past experiences of financial scarcity, where every dollar saved made a significant difference <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>. For them, finding a good deal is a honed survival skill, an art form that instills pride <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>. This contrasts with second-generation individuals who may struggle with guilt over spending, navigating a world of brands and trends while their parents remain focused on value per unit <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+
+### Focus on High-Earning Careers
+
+In Chinese culture, particularly among immigrant families, money and prestige symbolize security, respect, and the opportunity to transform a family's future within a single generation <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Many immigrants start from scratch, working tirelessly to secure a better life for their children, making financial success essential <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. Becoming a doctor, for instance, is often seen as the fastest way to elevate a family from struggling immigrants to respected professionals, providing "instant credibility, instant respectability, instant money" <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+
+However, this intense focus can pressure children into careers they are not passionate about, potentially leading to stress and unfulfilled lives <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>. It highlights the challenge of balancing personal happiness with the pursuit of status and wealth <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. This also reveals differing views on money and success: North America often focuses on enjoying life now, while Chinese culture emphasizes saving for the future and maintaining financial independence <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+
+### Developing a Scarcity Mindset
+
+A [[cultural_habits_influencing_financial_planning_and_savings | scarcity mindset]] is prevalent among many Chinese people, especially immigrants, stemming from experiences of growing up with limited resources <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. This belief—that there is never enough money, opportunities, or security—often originates from witnessing financial struggles <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. Growing up in a formerly poor country like China makes individuals hyper-aware of spending, always seeking deals and planning for the worst <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. This mindset influences all aspects of life, fostering cautious financial habits, a deep appreciation for possessions, and a drive to build a better life for children <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>.
+
+The downside is that even when financially secure, the fear of not having enough can lead to a reluctance to take risks or enjoy one's earnings, causing constant stress about a "rainy day that might never come" <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. Finding a balance between caution, gratitude, growth, and optimism is crucial, recognizing when financial stability has been achieved and shifting focus to enjoying life while honoring one's roots <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>.
+
+### Strong Distaste for Debt
+
+Money is viewed very differently in North America compared to China <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>. In North America, spending is ingrained in the culture, and debt is often seen as a necessary tool for achieving a certain standard of living or building wealth <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>. In China, there is a strong aversion to debt, with borrowing often seen as risky or irresponsible <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>. From a young age, individuals are taught to spend only what they have earned and saved, a practice rooted in a history of economic uncertainty that emphasizes financial stability and self-reliance <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. Being debt-free is a source of pride, reflecting financial control and a stable future <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. This contrasts with common North American habits, such as only paying minimum credit card balances <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>.
+
+### Zero-Based Budgeting System
+
+The concept of a zero-based budgeting system aligns well with traditional Chinese values of careful financial management <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. This method involves meticulously planning every cent of income so that by the end of the month, every amount is accounted for, leaving a zero balance <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. It emphasizes intentional spending, maximizing every penny, and avoiding unnecessary expenses, fostering discipline and careful planning <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. While it can feel rigid, it is an effective way to maintain financial control <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
+
+### Hating Waste
+
+A profound dislike for waste is a common trait among Chinese people, extending to food, money, and even plastic bags <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. This isn't merely about being frugal; it's rooted in respect for the hard work that provides everything <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>. Examples include saving plastic bags, insisting on finishing all food, and reusing leftovers for subsequent meals <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. Old clothes are repurposed for household wear, and takeout containers are washed and reused <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>. This mindset teaches appreciation and resourcefulness and benefits the environment, but it can also make one feel guilty about disposing of items or buying new ones unnecessarily <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>.
+
+### Eating at Home
+
+Eating at home is central to Chinese culture, offering both cost savings and family togetherness <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>. Home-cooked meals ensure freshness, health, and personalized preparation, often at a much lower cost than dining out <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>. Meal planning and home cooking are second nature, allowing families to enjoy traditional dishes that might be expensive or hard to find elsewhere <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>. Leftovers are typically repurposed for the next day's lunch <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. While Chinese households do eat out, it is usually reserved for special occasions <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>. Eating at home connects individuals to their culture and family, providing both financial savings and the comfort of familiar meals <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>.
+
+## The Dark Side of Saving Too Much
+
+While saving is crucial, excessive saving can become a burden when driven by fear and insecurity <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. In China, many save excessively due to fear of unexpected expenses, job loss, or the pressure to keep up with others, often sacrificing present enjoyment for future security <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>. There is significant [[family_structure_and_intergenerational_support_in_chinese_culture | cultural pressure]], especially from family, to save for major expenses like weddings, homes, or caring for aging parents, creating constant stress as saving is for the entire family's future <a class="yt-timestamp" data-t="00:10:58">[00:10:58]</a>.
+
+Excessive saving can also harm the economy by reducing the amount of money in circulation, slowing business activity, and potentially leading to deflation, which can worsen economic problems <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a>. Furthermore, a lack of trust in social safety nets like pensions or healthcare drives many to save out of necessity or fear, leading to ongoing anxiety about the future <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>. Finding a balance between saving and enjoying life is crucial to avoid stress and potential economic issues <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>.

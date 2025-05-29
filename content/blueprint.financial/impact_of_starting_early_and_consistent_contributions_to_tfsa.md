@@ -1,0 +1,38 @@
+---
+title: Impact of starting early and consistent contributions to TFSA
+videoId: KKfaaTu0myA
+---
+
+From: [[blueprint.financial]] <br/> 
+
+Understanding national averages for TFSA savings can help Canadians compare their financial standing and set achievable goals <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The most significant lesson gleaned from TFSA data is that [[importance_of_regular_contributions_to_tfsa | starting early and consistently contributing]] to your TFSA can have a substantial impact over time, largely due to tax-free growth <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+
+## Starting Early: The Age Advantage
+
+The average TFSA savings balances in Canada demonstrate the benefit of starting early:
+*   **Under 20s:** The average TFSA balance is approximately $3,300, which is remarkably high given that this group primarily includes 18 and 19-year-olds with limited income <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+*   **Early 20s (20-24):** The average balance nearly doubles to about $6,500, as individuals typically secure stable income and begin making more regular contributions <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+*   **Late 20s (25-29):** Balances rise to around $11,000, reflecting increased financial stability and career progression <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
+*   **30s (30-34):** TFSA balances accelerate significantly, reaching about $14,000, and further increasing to approximately $15,600 for those aged 35-39 <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. This period often sees larger contributions due to more disposable income and a focus on major financial goals like buying property or starting a family <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+*   **40s:** Average balances for those aged 40-44 are about $17,600, jumping to $21,000 for ages 45-49 <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This is a crucial time for [[maximizing_tfsa_contributions_for_taxfree_growth | maximizing contributions]] as individuals enter their peak earning years and retirement becomes a more immediate concern <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+*   **50s:** Growth "takes off" significantly, with averages of about $26,500 for 50-54 year olds and $33,000 for 55-59 year olds, as retirement planning becomes a serious focus <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
+*   **60s and Beyond:** Canadians aged 60-64 have nearly $40,000, demonstrating decades of [[benefits_of_compounding_with_tfsa | compounding growth]] <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. By ages 65-69, the average reaches $45,000 <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. Balances continue to climb, reaching nearly $54,000 for those aged 75-79 and almost $56,600 for those 80 and over <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. This suggests that, on average, people do not draw down from their TFSAs, even in retirement, which might not be optimal for tax planning <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+
+## The Role of Consistency in Growth
+
+Consistent saving habits, regardless of income level, are key to TFSA growth:
+*   **Savings by Gender and Age:** Women tend to save more than men in TFSAs at nearly every age <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>. Under 20, women's average balance is close to $4,000, compared to men's $3,000, suggesting women may start saving earlier and develop stronger financial habits <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. This trend continues through their 40s and 50s, with women leading in average balances <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>. Despite an income gap where men earn an average of 36% more than women in 2022, women maintain higher average TFSA balances <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>. This highlights that *how* you save can often matter more than *how much* you earn <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+*   **Savings by Income Level:** Even low earners are effectively using their TFSAs <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. Canadians earning between $1 and $4,999 annually have an average TFSA balance of nearly $19,000 <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>. Those earning $5,000 to $9,999 have $16,000 on average <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>, and those earning $10,000 to $19,999 have an estimated average of $20,456 <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>. TFSA balances for middle-income earners ($20,000-$49,999) range from $28,000 to $30,000, comparable to those earning $50,000-$74,999 <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. This reveals how valuable TFSAs are for all income levels, not just high earners <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a>.
+
+### Pro-Tip for Enhanced Growth
+To maximize your TFSA's tax-free growth, consider reinvesting any dividends or interest earned directly back into the account <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>.
+
+## Leveraging TFSA Data for Financial Success
+
+Use these insights to boost your finances:
+1.  **Motivate Your Savings:** Compare your TFSA balance to national averages for your age, gender, and income. For example, if you're 30-34, the average TFSA balance is around $14,000, growing to about $40,000 by age 60 <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>. Use these benchmarks to set realistic and achievable savings goals <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>.
+2.  **[[benefits_of_compounding_with_tfsa | Start Early to Maximize Compounding]]:** The earlier you begin contributing, the greater the impact of compound growth <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>. Even a small balance in your 20s can grow substantially <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>. Make contributing a consistent habit, no matter how small, as consistency leads to significant growth by retirement <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
+3.  **Plan for Retirement with Your TFSA:** TFSAs are not just for short-term savings; they are a vital part of an overall retirement strategy, providing a valuable tax-free income source <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
+4.  **Build Wealth Regardless of Income:** A high income isn't a prerequisite for TFSA benefits. Focusing on small, consistent contributions allows even lower earners to accumulate significant savings over time by sticking to a financial plan <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>.
+5.  **Make Your TFSA Central to Your Financial Plan:** Whether you earn $25,000 or $250,000, the TFSA is a powerful tool for wealth growth <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>. High earners can shelter more money from taxes, while middle-income Canadians can consistently build their savings <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. Prioritize your TFSA as a key component of your overall [[the_tfsa_as_a_strategic_financial_tool | wealth-building strategy]] <a class="yt-timestamp" data-t="00:10:51">[00:10:51]</a>.
+6.  **Focus on Personal Progress, Not Comparison:** While comparing your savings to averages can be motivating, true success lies in your personal progress <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>. Consistent effort to build wealth, regardless of how your balance stacks up, moves you closer to your financial goals <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>.

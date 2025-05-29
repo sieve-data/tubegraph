@@ -5,43 +5,34 @@ videoId: 8NPag8U3YvM
 
 From: [[blueprint.financial]] <br/> 
 
-Optimizing tax credits is a fundamental strategy for Canadian retirees seeking to reduce their tax burden and retain more of their income for lifestyle expenses like travel and hobbies <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. These basic tax credits are straightforward to implement and can immediately help retirees lower their tax bills <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+Retirees in Canada can utilize various tax credits to reduce their overall tax burden <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. These credits, ranging from basic, automatically applied amounts to those requiring specific income types, can help keep more money for personal use <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
 
-## Key Tax Credits for Retirees
+Consider Margery, a 67-year-old Canadian earning $40,000 annually from her pensions <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. With this income, she is in a combined 20% federal and provincial tax bracket in Ontario <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. The following credits significantly impact her tax savings <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
 
-Three primary tax credits are particularly beneficial for Canadian seniors:
+## Basic Tax Credits for Retirees
 
-### 1. Basic Personal Amount (BPA)
+### Basic Personal Amount (BPA)
 
-The Basic Personal Amount allows every Canadian to earn a certain amount of income tax-free each year <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
-*   **Amount**: In 2024, the first $15,000 of income is tax-free <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
-*   **Application**: This credit is automatically applied when filing taxes <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
+Every Canadian can earn $15,000 tax-free thanks to the Basic Personal Amount <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. This credit is automatically applied when filing taxes <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. For Margery, her first $15,000 of income is tax-free <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>, resulting in a $3,000 tax saving at her 20% tax rate <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
 
-### 2. Age Amount Credit
+### Age Amount Credit
 
-Once you turn 65, you become eligible for the Age Amount Credit, which provides additional tax relief for seniors <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
-*   **Amount**: This credit can provide up to an additional $8,790 tax exemption <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
-*   **Phase-out**: The Age Amount Credit begins to phase out for higher-income earners <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. In 2024, if a retiree's income exceeds $42,355, the credit starts to reduce, phasing out entirely at approximately $113,000 <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
-*   **Application**: Like the Basic Personal Amount, this credit is automatically applied <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
+Once a Canadian turns 65, they become eligible for the Age Amount Credit, which provides additional tax relief for seniors <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. Margery, being 67, qualifies for an additional $8,790 tax exemption <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. This credit saves her an additional $1,758 at her 20% tax rate <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a> and is also automatically applied <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
 
-### 3. Pension Income Amount Credit
+It's important to note that the Age Amount Credit begins to phase out for higher income earners <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. In 2024, if a retiree's income exceeds $42,335, the credit starts to reduce <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>, phasing out entirely at around $113,000 <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. Since Margery's income is $40,000, she qualifies for the full amount <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
 
-This credit specifically targets eligible pension income, allowing a portion of it to be tax-free <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
-*   **Amount**: Retirees can claim up to $2,000 of eligible pension income tax-free <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
-*   **Eligible Income**: This includes income from a Registered Retirement Income Fund (RRIF) or an employer pension <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
-*   **Non-Eligible Income**: This credit **does not** apply to Canada Pension Plan (CPP) or Old Age Security (OAS) payments <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. Retirees need to apply it to other pension income sources, such as RRIFs or private pension plans <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
-*   **Application**: This credit can be claimed by reporting eligible pension income on line 31400 of your tax return <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>.
+### Pension Income Amount Credit
 
-## Example: Margery's Tax Savings
+The Pension Income Amount Credit allows retirees to claim up to $2,000 of eligible pension income tax-free <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. This includes income from a Registered Income Fund (RRIF) or an employer pension <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. This credit adds $400 in tax savings for Margery <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
 
-Consider Margery, a 67-year-old retiree earning $40,000 annually from her pensions <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. With this income, she falls into a combined 20% federal and provincial [[tax_brackets_in_canada | tax bracket]] in Ontario <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Here's how these tax credits can significantly reduce her tax bill:
+*   **Pro Tip**: This credit does not apply to Canada Pension Plan (CPP) or Old Age Security (OAS) payments <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. To benefit, Margery needs to apply it to other pension income, such as from a RRIF or a private pension plan <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. Retirees can claim this credit by reporting eligible pension income on line 31400 of their tax return <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
 
-| Credit                    | Tax-Free Income Amount | Tax Savings (at 20% rate) | Application            |
-| :------------------------ | :--------------------- | :------------------------ | :--------------------- |
-| Basic Personal Amount     | $15,000 <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>   | $3,000 <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>        | Automatic <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>        |
-| Age Amount Credit         | $8,790 <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>    | $1,758 <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>        | Automatic <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>        |
-| Pension Income Amount Credit | $2,000 <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>    | $400 <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>          | Claimed on tax return <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a> |
+### Total Tax Savings Example (Margery)
 
-In total, these credits provide Margery with $5,158 in tax savings annually, giving her more money to enjoy her [[retirement_income_system_in_canada | retirement]] <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+By utilizing these three basic tax credits, Margery achieves significant tax savings <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>:
 
-For more comprehensive [[retirement_tax_strategies_in_canada | retirement tax strategies]], including income splitting and optimizing TFSA and RSP usage, consult a financial advisor.
+*   **Basic Personal Amount**: $3,000 in savings <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>
+*   **Age Amount Credit**: $1,758 in savings <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>
+*   **Pension Income Amount Credit**: $400 in savings <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>
+
+In total, these credits provide Margery with $5,158 in tax savings, giving her more money to enjoy her [[retirement_income_and_financial_security_in_canada | retirement]] <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. For more information on [[tax_credits_and_benefits_available_in_canada | tax credits and benefits available in Canada]] or [[maximizing_tax_deductions_and_credits_in_canada | maximizing tax deductions and credits in Canada]], additional resources are available.

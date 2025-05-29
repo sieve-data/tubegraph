@@ -5,28 +5,25 @@ videoId: K7fXmR3VJhs
 
 From: [[blueprint.financial]] <br/> 
 
-Data reveals a significant and growing wealth gap between homeowners and renters in Canada <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>.
+A significant wealth gap exists between homeowners and renters in Canada, a disparity largely driven by [[impact_of_real_estate_on_canadian_net_worth | real estate]] appreciation <a class="yt-timestamp" data-t="02:31:32">[02:31:32]</a>.
 
-## Key Statistics (2024)
+## Current Disparity
 
-*   **Homeowner Net Worth**: In 2024, homeowners in Canada had an average [[household_net_worth_in_canada | net worth]] of $1.38 million <a class="yt-timestamp" data-t="02:04:00">[02:04:00]</a>.
-*   **Renter Net Worth**: In contrast, renters averaged $274,000 in 2024 <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>.
-*   **Magnitude of the Gap**: This means homeowners' average [[household_net_worth_in_canada | net worth]] was nearly five times higher than that of renters, a difference of over $1 million <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>, <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a>.
+In 2024, homeowners in Canada had an average net worth of $1.38 million <a class="yt-timestamp" data-t="02:04:04">[02:04:04]</a>. This figure is nearly five times higher than that of renters, who averaged $274,000 in net worth <a class="yt-timestamp" data-t="02:07:11">[02:07:11]</a>. The extent of this difference, exceeding $1 million, has been described as shocking <a class="yt-timestamp" data-t="02:13:15">[02:13:15]</a>.
 
 ## Growth Trends (2020-2024)
 
-Both groups experienced steady growth in [[household_net_worth_in_canada | net worth]] between 2020 and 2024 <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>:
-*   Homeowners saw a 33% increase <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>.
-*   Renters' [[household_net_worth_in_canada | net worth]] grew by 31% <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>.
+Both groups experienced steady growth in net worth from 2020 to 2024 <a class="yt-timestamp" data-t="02:22:22">[02:22:22]</a>:
+*   Homeowners saw a 33% increase <a class="yt-timestamp" data-t="02:25:26">[02:25:26]</a>.
+*   Renters' net worth grew by 31% <a class="yt-timestamp" data-t="02:29:29">[02:29:29]</a>.
 
-## Drivers of the Disparity
+Despite similar percentage growth rates, the substantial difference in initial wealth means the absolute wealth gap continues to widen.
 
-The primary factor driving this disparity is [[role_of_real_estate_in_canadian_household_net_worth | real estate]] appreciation, which significantly boosts the [[household_net_worth_in_canada | net worth]] of homeowners <a class="yt-timestamp" data-t="02:32:00">[02:32:00]</a>, <a class="yt-timestamp" data-t="02:34:00">[02:34:00]</a>. [[role_of_real_estate_in_canadian_household_net_worth | Real estate]] typically accounts for over 50% of [[household_net_worth_in_canada | household net worth]] in Canada, peaking at nearly 56% in 2022 <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>.
+## Driving Factors
 
-Renters, having little exposure to [[role_of_real_estate_in_canadian_household_net_worth | real estate]], primarily build wealth through financial assets <a class="yt-timestamp" data-t="02:38:00">[02:38:00]</a>.
+The primary reason for this wealth disparity is the appreciation of [[impact_of_real_estate_on_canadian_net_worth | real estate]] <a class="yt-timestamp" data-t="02:31:32">[02:31:32]</a>. [[impact_of_real_estate_on_canadian_net_worth | Real estate]] constitutes over 50% of Canadian household net worth <a class="yt-timestamp" data-t="00:52:55">[00:52:55]</a>, peaking at nearly 56% in 2022 <a class="yt-timestamp" data-t="00:57:02">[00:57:02]</a>. This highlights how much Canadians rely on property to build and store wealth <a class="yt-timestamp" data-t="01:02:04">[01:02:04]</a>.
 
-## Financial Strategy Implications
+For homeowners, [[impact_of_real_estate_on_canadian_net_worth | real estate]] ownership significantly boosts their net worth <a class="yt-timestamp" data-t="02:34:36">[02:34:36]</a>. Renters, having little exposure to [[impact_of_real_estate_on_canadian_net_worth | real estate]], primarily build wealth through financial assets <a class="yt-timestamp" data-t="02:37:38">[02:37:38]</a>. The challenges in accessing the [[cost_of_living_crisis_in_canada | Canadian housing market]] may further prevent one-person households (and by extension, many renters) from affording property <a class="yt-timestamp" data-t="05:32:34">[05:32:34]</a>.
 
-The heavy reliance on [[role_of_real_estate_in_canadian_household_net_worth | real estate]] for wealth building in Canada means that any downturn in the housing market could severely impact households' [[household_net_worth_in_canada | net worth]] <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>. Diversifying investments across various asset classes like stocks, bonds, and other assets, in addition to [[role_of_real_estate_in_canadian_household_net_worth | real estate]], is advised to mitigate risk <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>, <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>.
-
-For individuals aiming to increase their [[household_net_worth_in_canada | net worth]], leveraging [[role_of_real_estate_in_canadian_household_net_worth | real estate]] ownership, if it's a goal, is a key strategy <a class="yt-timestamp" data-t="10:45:00">[10:45:00]</a>, <a class="yt-timestamp" data-t="10:54:00">[10:54:00]</a>.
+> [!TIP] Diversify your portfolio
+> While [[impact_of_real_estate_on_canadian_net_worth | real estate]] has been a significant wealth driver, heavy reliance on it can increase financial risk in a volatile market <a class="yt-timestamp" data-t="01:19:22">[01:19:22]</a>. Diversifying investments across [[impact_of_real_estate_on_canadian_net_worth | real estate]], stocks, bonds, and other assets is recommended to protect against potential downturns <a class="yt-timestamp" data-t="01:44:46">[01:44:46]</a>.

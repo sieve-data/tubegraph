@@ -5,37 +5,35 @@ videoId: qQouMAQshec
 
 From: [[blueprint.financial]] <br/> 
 
-The Canada Revenue Agency (CRA) closely scrutinizes investments within a Tax-Free Savings Account (TFSA) that involve non-arm's length transactions <a class="yt-timestamp" data-t="06:16:55">[06:16:55]</a>. These are investments where the TFSA holder, their family members, or someone closely connected to them, has significant control or influence <a class="yt-timestamp" data-t="06:22:58">[06:22:58]</a>. Such transactions are considered red flags because they can be exploited to unfairly transfer wealth into a TFSA <a class="yt-timestamp" data-t="06:30:17">[06:30:17]</a>.
+The Canada Revenue Agency (CRA) closely monitors Tax-Free Savings Account (TFSA) investments that involve non-arm's length transactions <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. These transactions occur when an investor, their family members, or someone they are close with has significant control or influence over the investment <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>. Such dealings trigger serious penalties because they can be used to unfairly shift wealth into a TFSA <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>.
 
 ## What Triggers a Non-Arm's Length Penalty?
+Several types of transactions can trigger a non-arm's length penalty:
+*   **Investing in a private business** where the TFSA holder or a family member has control <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>.
+*   **Buying shares in a company** where the TFSA holder or a relative owns more than 10% <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>.
+*   **Structuring "friendly transactions"** designed to unfairly boost the TFSA balance <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
 
-Several scenarios can trigger a non-arm's length penalty from the CRA:
-*   Investing in a private business where the TFSA holder or a family member has control <a class="yt-timestamp" data-t="06:39:10">[06:39:10]</a>.
-*   Purchasing shares in a company where the TFSA holder or a relative owns more than 10% <a class="yt-timestamp" data-t="06:43:08">[06:43:08]</a>.
-*   Structuring "friendly transactions" designed to unfairly inflate the TFSA balance <a class="yt-timestamp" data-t="06:47:49">[06:47:49]</a>.
+## Penalties
+If a TFSA is found to have non-arm's length transactions, the CRA can impose severe penalties:
+*   A 50% penalty on the fair market value of the shares <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
+*   A 100% tax on future gains if those shares grow <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
+*   A TFSA reassessment, which effectively wipes out the tax-free advantage <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>.
 
-### Case Example: The "Bobby Axelrod" Scenario
+This enforcement mechanism is designed to shut down TFSA loopholes before they can be exploited for significant tax avoidance <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
 
-Consider an investor, Bobby Axelrod, who invests $50,000 worth of shares in a new startup belonging to his business partner, Wag, through his TFSA <a class="yt-timestamp" data-t="06:51:00">[06:51:00]</a>. Axelrod expects the company to grow significantly, yielding millions or even billions in tax-free gains <a class="yt-timestamp" data-t="07:01:06">[07:01:06]</a>. However, because Axelrod has influence over the business and the transaction is not at arm's length, the CRA will intervene <a class="yt-timestamp" data-t="07:08:06">[07:08:06]</a>.
+## Example: Bobby Axelrod
+Consider a hypothetical scenario involving "Bobby Axelrod" who invests $50,000 worth of shares in his business partner's new startup within his TFSA, expecting massive tax-free gains <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. Because Axelrod has influence over the business and the transaction is not at arm's length, the CRA could:
+1.  Impose a 50% penalty on the shares' fair market value, instantly costing him $25,000 <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>.
+2.  Levy a 100% tax on any future gains. For example, if the shares grow to $500,000, the CRA would claim all of it <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
+3.  Reassess his TFSA, eliminating its tax-free status <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>.
 
-## Penalties for Non-Arm's Length Transactions
+Even with legal counsel, such penalties are difficult to fight <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
 
-If the CRA deems a transaction to be non-arm's length, severe penalties apply:
-*   A 50% penalty on the fair market value of the shares <a class="yt-timestamp" data-t="07:14:04">[07:14:04]</a>. For Bobby Axelrod's $50,000 investment, this would mean an immediate $25,000 penalty <a class="yt-timestamp" data-t="07:20:00">[07:20:00]</a>.
-*   A 100% tax on any future gains from those shares <a class="yt-timestamp" data-t="07:23:01">[07:23:01]</a>. If the shares grew to $500,000, the CRA would take all of it <a class="yt-timestamp" data-t="07:26:08">[07:26:08]</a>.
-*   A TFSA reassessment, effectively eliminating the tax-free advantage <a class="yt-timestamp" data-t="07:30:08">[07:30:08]</a>.
+## How to Avoid Non-Arm's Length Traps
+To avoid issues with non-arm's length transactions:
+*   **Do not invest in companies** where you or your family members have ownership or control <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>.
+*   **Be cautious of structuring transactions** that could be perceived as artificial tax advantages <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+*   **If a deal appears too favorable** within your TFSA, assume the CRA is monitoring <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>.
+*   As a general rule, [[recognizing_prohibited_investments_in_a_tfsa | avoid private company shares]] if you or a family member have control <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>.
 
-These penalties are designed to prevent the use of TFSAs as loopholes for unfair tax advantages <a class="yt-timestamp" data-t="07:39:07">[07:39:07]</a>.
-
-## How to Avoid Non-Arm's Length Transaction Penalties
-
-To avoid these costly penalties, follow these guidelines:
-*   **Avoid related party investments** Do not invest in companies where you or your family members have significant ownership or control <a class="yt-timestamp" data-t="07:46:08">[07:46:08]</a>.
-*   **Be cautious with structured transactions** Be wary of structuring deals that could be interpreted as artificial tax advantages <a class="yt-timestamp" data-t="07:50:07">[07:50:07]</a>.
-*   **Adhere to conventional investing** Stick to traditional investments such as stocks, ETFs, and bonds within your TFSA, as they are considered much safer <a class="yt-timestamp" data-t="10:52:03">[10:52:03]</a>.
-*   **Watch for deals that seem "too good to be true"** If an investment opportunity within your TFSA appears suspiciously favorable, the CRA may be monitoring it <a class="yt-timestamp" data-t="07:57:04">[07:57:04]</a>.
-
-For more information on related topics, see:
-*   [[prohibited_investments_in_a_tfsa | Prohibited Investments in a TFSA]]
-*   [[nonqualified_tfsa_investments | Non-Qualified TFSA Investments]]
-*   [[avoiding_cra_penalties_on_tfsa_investments | Avoiding CRA Penalties on TFSA Investments]]
+For further information on preventing issues, consider consulting a professional if you are making significant investment decisions and are unsure of the rules <a class="yt-timestamp" data-t="00:11:23">[00:11:23]</a>.

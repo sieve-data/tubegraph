@@ -5,36 +5,34 @@ videoId: ro6nm-q96es
 
 From: [[blueprint.financial]] <br/> 
 
-One of the most impactful, yet easiest, mistakes to correct when managing a TFSA (Tax-Free Savings Account) is the designation of a beneficiary instead of a successor holder <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. For individuals who are married or in a common-law relationship, it is crucial to name your spouse as a successor holder for your TFSA, rather than just a beneficiary <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+Naming the correct individual to inherit your Tax-Free Savings Account (TFSA) upon your passing is crucial for preserving the account's tax-exempt status and avoiding significant financial losses for your loved ones <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. For married individuals or those in a common-law relationship, it is vital to name your spouse as a **successor holder** for your TFSA, rather than just a **beneficiary** <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. This is one of the easiest, yet most impactful, mistakes to correct <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
 
-## Why a Successor Holder is Crucial
+## Beneficiary Designation
 
-The distinction between a beneficiary and a successor holder has significant financial implications, particularly concerning tax-free growth and contribution room <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+When a spouse is named only as a **beneficiary** for a TFSA:
+*   The TFSA is closed upon the original holder's death <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+*   The inherited funds must be transferred to a non-registered account <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+*   Any future investment gains on those funds will be subject to tax <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
+*   The TFSA contribution room associated with the deceased's account is lost forever <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. This means future growth is no longer tax-sheltered <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
 
-### Impact of Naming a Beneficiary
+> For example, if Jack has a TFSA with $100,000 and names his spouse Jill as the beneficiary, upon Jack's death, Jill inherits the $100,000, but the TFSA is closed <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. If Jill earns a 5% return on that money annually, she could owe taxes on $5,000 of gains each year <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
 
-If a TFSA holder names their spouse as a beneficiary:
-*   When the TFSA holder passes away, the spouse inherits the funds, but the TFSA account is subsequently closed <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
-*   The inherited funds must then be transferred to a non-registered account <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
-*   Any future gains on that money will be subject to tax <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
-*   Crucially, the TFSA contribution room associated with the deceased's account is lost permanently, meaning future growth isn't tax-sheltered <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
-    *   For example, if a spouse inherits $100,000 and earns a 5% annual return, they could owe taxes on $5,000 of gains each year <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+## Successor Holder Designation
 
-### Advantages of Naming a Successor Holder
-
-When a spouse is named as a successor holder:
-*   The surviving spouse takes over the TFSA completely <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+When a spouse is named as a **successor holder** for a TFSA:
+*   The spouse takes over the TFSA completely <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
 *   The funds remain within the TFSA <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
-*   All future gains continue to be tax-free <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
-*   The surviving spouse's own TFSA contribution room remains unaffected, allowing them to continue contributing to their personal account while benefiting from the deceased's TFSA as if it were their own <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
-    *   Using the previous example, if the successor holder earns a 5% return on $100,000, they would owe zero taxes on the $5,000 annual growth <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This ensures the money continues working harder for longer <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
+*   All future gains remain tax-free <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+*   The successor holder's own TFSA contribution room remains unaffected, allowing them to continue contributing to their personal account while benefiting from the tax-free growth of the inherited TFSA as if it were their own <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
 
-## How to Correct This Mistake
+> Continuing the example, if Jack names Jill as a successor holder instead, she will take over the TFSA completely <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. The $100,000 stays in the TFSA, and any future gains remain tax-free <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. Jill's own TFSA contribution room is unaffected <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. If Jill earns the same 5% return on $100,000, she won't owe a cent in taxes on the $5,000 annual growth <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
 
-The process to fix this is straightforward:
+## How to Update Your Designation
+
+Correcting this designation is a simple process:
 1.  Contact your bank or TFSA provider <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
-2.  Request to update your account to name your partner as a successor holder <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
+2.  Request to update your account, specifically naming your partner as a successor holder <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
 
-This simple 10-minute task can prevent your loved ones from losing out on significant tax-free growth <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>.
+This quick 10-minute task can prevent your loved ones from losing out on significant tax-free growth and ensure the continuity of your investment strategy <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>.
 
-For more information on the [[optimal_uses_and_misuse_of_a_tfsa | optimal uses and misuse of a TFSA]], including [[role_of_tfsa_in_retirement_planning | retirement planning]] and [[different_investment_options_for_tfsa_growth | investment options]], it's vital to understand these foundational aspects.
+It is part of a broader financial picture, which includes coordinating your TFSA with other accounts like your [[comparison_between_tfsa_and_rrsp | RSP]] <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.

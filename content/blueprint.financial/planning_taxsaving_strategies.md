@@ -5,68 +5,59 @@ videoId: 1NIOGmD_KYo
 
 From: [[blueprint.financial]] <br/> 
 
-The start of a new year is an ideal time to get your finances in shape, and proactive tax planning is crucial to saving money and building wealth <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Taxes are often one of the biggest expenses, especially in Canada, and planning helps reduce your tax liability, allowing you to keep more of your income for your financial goals <a class="yt-timestamp" data-t="05:49:00">[05:49:00]</a>.
+The start of a new year is an ideal time to get your finances in shape and save on taxes <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Proactive planning helps reduce your tax liability, allowing you to keep more of your hard-earned money for your financial goals <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
 
-## Prioritizing Contributions to Tax-Advantaged Accounts
+## Prioritize Contributions to Tax-Advantaged Accounts
 
-[[Tax planning strategies for Canadian families and business owners | Tax-advantaged accounts]] like TFSAs, FHSAs, and RRSPs offer significant tax savings and compounding growth potential <a class="yt-timestamp" data-t="03:58:00">[03:58:00]</a>. Contributing early in the year allows investments more time to grow, aiding in wealth building, home savings, or retirement preparation <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>.
+Tax-advantaged accounts, such as the TFSA, FHSA, and RRSP, offer unmatched tax savings and compounding growth potential <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. Contributing early in the year gives your investments more time to grow <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
 
-Here's how to prioritize:
-*   **TFSA (Tax-Free Savings Account)**: Max out the annual contribution room (e.g., $7,000 for 2025) for tax-free growth, making it a powerful wealth-building tool <a class="yt-timestamp" data-t="04:15:00">[04:15:00]</a>.
-*   **FHSA (First Home Savings Account)**: Ideal for first-time home buyers, offering tax deductions similar to an [[strategies_to minimize_rrsp_tax_burden_in_retirement | RRSP]] and tax-free withdrawals for a home purchase, like a TFSA <a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>.
-*   **RRSP (Registered Retirement Savings Plan)**: Review your contribution strategy for the previous or upcoming year <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a>. This is perfect for high-income earners who anticipate a lower tax bracket in retirement <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>. Be mindful of contribution limits and deadlines (e.g., March 3rd for RRSP contributions for the previous year) <a class="yt-timestamp" data-t="04:46:00">[04:46:00]</a>.
-*   **RESP (Registered Education Savings Plan)**: For those with children, regular contributions can maximize government grants (up to $500 annually per child) and provide tax-sheltered growth for education <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>.
+*   **TFSA (Tax-Free Savings Account)**: Max out your contribution room, which is $7,000 for 2025 <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. Tax-free growth makes the TFSA a powerful wealth-building tool <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. See [[taxfree_savings_account_strategies | TaxFree Savings Account Strategies]] for more.
+*   **FHSA (First Home Savings Account)**: Ideal for first-time home buyers, this account offers tax deductions similar to an RRSP and tax-free withdrawals for a home purchase, like a TFSA <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+*   **RRSP (Registered Retirement Savings Plan)**: Review your RRSP contributions for the previous year or plan for the current year <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. This is perfect for high-income earners who expect a lower tax bracket in retirement <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. Be mindful of contribution limits and the March 3rd deadline for previous year contributions <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. See [[strategies_to_minimize_rrsp_tax_burdens | Strategies to minimize RRSP tax burdens]] for more.
+*   **RESP (Registered Education Savings Plan)**: If you have kids, contribute regularly to maximize government grants, up to $500 annually per child, and benefit from tax-sheltered growth for education <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>.
 
-> [!PRO TIP] Contribution Order
-> *   **High-income earners**: Consider prioritizing [[strategies to minimize rrsp_tax_burden_in_retirement | RRSP]] contributions for tax benefits, especially if your employer offers matching contributions <a class="yt-timestamp" data-t="05:04:00">[05:04:00]</a>.
-> *   **Moderate or low-income earners**: Focus on the [[taxfree_savings_account_tfsa_strategies | TFSA]] for its flexibility and tax-free growth <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>.
-> *   **Saving for a home**: Use the FHSA for its unique tax advantages <a class="yt-timestamp" data-t="05:17:00">[05:17:00]</a>.
+### Prioritization Rule of Thumb
 
-## General Tax-Saving Strategies
+*   **High-income earners**: Consider prioritizing RRSP contributions for tax breaks, especially if your employer offers matching contributions <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+*   **Moderate or low-income earners**: Focus on the TFSA for its flexibility and tax-free growth <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+*   **Saving for a home**: Use the FHSA for its unique tax advantages <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>.
 
-Proactive planning helps reduce your tax liability <a class="yt-timestamp" data-t="05:53:00">[05:53:00]</a>. Here are some strategies:
+## Explore Tax Saving Strategies
 
-### Income Splitting
-*   **Spousal RRSP**: Contribute to a spouse's [[strategies to minimize rrsp_tax_burden_in_retirement | RRSP]] to lower household taxes <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>.
-*   **Hiring Family Members**: If self-employed, consider hiring a family member for business work <a class="yt-timestamp" data-t="06:06:00">[06:06:00]</a>.
-*   [[income_splitting_strategies_for_tax_savings | Pension Splitting]]: Split eligible pension income with a lower-income spouse to reduce household taxes <a class="yt-timestamp" data-t="09:03:00">[09:03:00]</a>. Transferring, for example, $20,000 can lower tax brackets for both partners combined <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a>.
+Proactive tax planning is crucial for maximizing your savings <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>. See [[tax_saving_strategies_on_investments_in_canada | Tax saving strategies on investments in Canada]] for more.
 
-### Deductions
-Claim eligible expenses to reduce your taxable income:
-*   Medical expenses <a class="yt-timestamp" data-t="06:13:00">[06:13:00]</a>
-*   Charitable contributions <a class="yt-timestamp" data-t="06:14:00">[06:14:00]</a>
-*   Child care costs <a class="yt-timestamp" data-t="06:16:00">[06:16:00]</a>
-*   Moving expenses <a class="yt-timestamp" data-t="06:19:00">[06:19:00]</a>
-*   Home office expenses (for those working from home) <a class="yt-timestamp" data-t="06:22:00">[06:22:00]</a>
+*   **Income Splitting**:
+    *   Contribute to a spousal RRSP to lower household taxes <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
+    *   Hire a family member for business work if you're self-employed <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+*   **Deductions**: Look into claiming medical expenses, charitable contributions, childcare costs, moving expenses, and home office expenses if you work from home <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+*   **Tax Credits**:
+    *   Tuition and education credits <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
+    *   Canada Training Credit for eligible training costs <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+    *   Disability Tax Credit <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>.
+    *   See [[using_tax_credits_to_maximize_tax_savings_before_the_deadline | Using tax credits to maximize tax savings before the deadline]] for more.
 
-### Tax Credits
-Look into various tax credits that can reduce the amount of tax you owe:
-*   Tuition and education credits <a class="yt-timestamp" data-t="06:27:00">[06:27:00]</a>
-*   Canada Training Credit (often overlooked, claim for eligible training costs) <a class="yt-timestamp" data-t="06:29:00">[06:29:00]</a>
-*   Disability Tax Credit <a class="yt-timestamp" data-t="06:36:00">[06:36:00]</a>
-*   Age credit and pension credit (for eligible retirees) <a class="yt-timestamp" data-t="09:29:00">[09:29:00]</a>
-*   Home accessibility tax credit (for renovations improving home safety) <a class="yt-timestamp" data-t="09:33:00">[09:33:00]</a>
+> [!PRO TIP] Start early to organize receipts, statements, and expenses to maximize deductions and credits stress-free <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>.
 
-> [!PRO TIP] Start Early
-> Begin organizing receipts, statements, and expenses early to maximize deductions and credits without stress <a class="yt-timestamp" data-t="06:39:00">[06:39:00]</a>.
+## Review Retirement Income and Benefits (for Retirees)
 
-## Tax-Saving for Retirees
+Retirement planning doesn't stop after you stop working <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. Managing income sources, taxes, and benefits ensures your savings last and helps sustain your lifestyle without overpaying taxes <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>.
 
-[[Tax saving tips for Canadian retirees | Retirement planning]] involves ongoing management of income sources, taxes, and benefits to ensure savings last and maintain lifestyle without overpaying taxes <a class="yt-timestamp" data-t="08:27:00">[08:27:00]</a>.
+*   **CPP (Canada Pension Plan) and OAS (Old Age Security)**:
+    *   **Optimize timing**: Delaying CPP to age 70 can increase payments by 42% for the rest of your life <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>.
+    *   **Avoid OAS clawbacks**: If your income exceeds the OAS clawback threshold (almost $91,000 in 2024), consider deferring OAS or adjusting income sources to avoid losing benefits <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>.
+*   **Pension Splitting**: Split eligible pension income with a lower-income spouse to reduce household taxes <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. For example, transferring $20,000 can lower tax brackets for both partners combined <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.
+*   **RRIF (Registered Retirement Income Fund) Withdrawals**: Withdraw strategically to avoid higher tax brackets <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. You can transfer excess withdrawals into a TFSA to further shelter growth from taxes <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>. See [[tax_minimization_strategies_for_rrif | Tax Minimization Strategies for RRIF]] and [[taxefficient_withdrawal_strategies_for_retirement | Tax-efficient withdrawal strategies for retirement]] for more.
+*   **Government Credits and Benefits**: Claim the age credit and pension credit if eligible <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>. Utilize the home accessibility tax credit for renovations improving home safety <a class="yt-timestamp" data-t="00:09:33">[00:09:33]</a>.
+*   **Estate Planning**: Update your wills and beneficiaries to align with your wishes and minimize estate taxes <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. See [[advanced_tax_planning_strategies_including_life_insurance_and_trusts | Advanced tax planning strategies including life insurance and trusts]] for more.
 
-*   **CPP and OAS Optimization**: Consider optimizing the timing of your Canada Pension Plan (CPP) and Old Age Security (OAS) benefits <a class="yt-timestamp" data-t="08:37:00">[08:37:00]</a>. Delaying CPP to age 70 can increase payments by 42% for life, providing more stable income <a class="yt-timestamp" data-t="08:40:00">[08:40:00]</a>.
-*   **Avoiding OAS Clawbacks**: If your income exceeds the OAS clawback threshold (e.g., almost $91,000 for 2024), consider deferring OAS or adjusting income sources to avoid losing benefits <a class="yt-timestamp" data-t="08:48:00">[08:48:00]</a>.
-*   [[strategies_to_minimize_taxes_with_a_rrif | RRIF Withdrawals]]: Withdraw strategically from your Registered Retirement Income Fund (RRIF) to avoid higher tax brackets <a class="yt-timestamp" data-t="09:13:00">[09:13:00]</a>. Transferring excess withdrawals into a TFSA can further shelter growth from taxes <a class="yt-timestamp" data-t="09:18:00">[09:18:00]</a>.
+> [!PRO TIP] Stress test your plan for scenarios like market downturns or unexpected medical costs <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>. Check if your portfolio can handle a 20% drop or an extra $10,000 in annual expenses for healthcare or travel <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>.
 
-## Preparing for Tax Filing Season
+## Organize and Prepare for Tax Filing Season
 
-Starting early for tax filing season helps avoid costly mistakes, claim all deductions and credits, and maximize your refund <a class="yt-timestamp" data-t="10:15:00">[10:15:00]</a>. Being organized simplifies the process, saving time and stress <a class="yt-timestamp" data-t="10:21:00">[10:21:00]</a>.
+Starting early helps avoid costly mistakes, claim all deductions and credits, and maximize your refund <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. Staying organized simplifies the process, saving you time and stress <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>. See [[strategies_for_managing_increased_tax_liabilities | strategies for managing increased tax liabilities]] for more.
 
-*   **Gather Documents**: Collect all necessary documents, including RRSP slips, donation receipts, T4s, T5s, tuition credits, and receipts for medical, child care, and home office expenses <a class="yt-timestamp" data-t="10:28:00">[10:28:00]</a>. Keep everything in an organized digital or physical folder for easy access <a class="yt-timestamp" data-t="10:38:00">[10:38:00]</a>.
-*   **Review and Update Details**: Update wills and beneficiaries to align with your wishes and minimize estate taxes <a class="yt-timestamp" data-t="10:46:00">[10:46:00]</a>. Confirm insurance coverages (life, home, etc.) and update beneficiaries <a class="yt-timestamp" data-t="10:50:00">[10:50:00]</a>.
-*   **Seek Help**: Use tax software for simple returns, or consider hiring a professional for complex needs, such as if you have a corporation, small business, or multiple rental properties <a class="yt-timestamp" data-t="10:59:00">[10:59:00]</a>.
+*   **Gather Documents**: Collect RRSP slips, donation receipts, T4s, T5s, tuition credits, and receipts for medical, childcare, and home office expenses <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>. Keep everything in a digital or physical folder for easy access <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
+*   **Review and Update Details**: Update your will and check your insurance coverages, confirming your coverage and updating beneficiaries for life and home insurance <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>.
+*   **Get Help**: Use tax software for simple returns or consider hiring a professional for complex needs, such as if you have a corporation, small business, or multiple rental properties <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>.
 
-> [!PRO TIP] File Early
-> If you expect a refund, file early to receive your money faster <a class="yt-timestamp" data-t="11:12:00">[11:12:00]</a>. If you owe taxes, filing early provides time to plan payments and avoid late fees <a class="yt-timestamp" data-t="11:17:00">[11:17:00]</a>.
-
-Starting now puts you in control of tax season, ensuring you maximize income, minimize taxes, and maintain financial peace of mind <a class="yt-timestamp" data-t="11:21:00">[11:21:00]</a>.
+> [!PRO TIP] File early if you expect a refund to get your money back faster <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>. If you owe taxes, filing early gives you time to plan payments and avoid late fees <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
