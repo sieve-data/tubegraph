@@ -1,0 +1,51 @@
+---
+title: Role of multilateral organizations during global crises
+videoId: kbjO2ykaAKQ
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+The COVID-19 pandemic brought significant attention to national responses, but it also underscored the critical need for [[international_collaboration_in_crisis_management | national governments to work together]] to manage a truly global crisis <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>, <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>. While initial reactions often leaned towards unilateralism <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>, <a class="yt-timestamp" data-t="00:17:37">[00:17:37]</a>, the crisis has undeniably made [[international_collaboration_in_crisis_management | cooperation]] more necessary <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>, <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>, <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>.
+
+## Exacerbated Need for Cooperation
+The global nature of the COVID-19 pandemic highlighted the inefficiencies of purely national responses <a class="yt-timestamp" data-t="00:18:11">[00:18:11]</a>. The global health system, for instance, is only as effective as its weakest link, meaning domestic action to eradicate a virus cannot work if other countries have not eradicated it, due to constant travel <a class="yt-timestamp" data-t="00:18:24">[00:18:24]</a>. This crisis, like climate change and biodiversity loss, represents transboundary challenges that cannot be addressed by one country alone <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>, <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a>. It has prompted high-level calls for collaboration, leading to actual collective action <a class="yt-timestamp" data-t="00:20:08">[00:20:08]</a>.
+
+## Challenges to Optimal Cooperation
+Despite the clear need, cooperation between governments during the pandemic has been "haphazard" <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. Structural problems in global governance, many of which existed before COVID-19, prevent optimal levels of cooperation <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>, <a class="yt-timestamp" data-t="00:23:40">[00:23:40]</a>. These include:
+
+*   **Politics:** Geopolitical issues and states' reluctance to grant enforcement or inspection powers to international organizations <a class="yt-timestamp" data-t="00:24:02">[00:24:02]</a>, <a class="yt-timestamp" data-t="00:25:03">[00:25:03]</a>.
+*   **Financing:** Chronic underfunding of organizations like the WHO <a class="yt-timestamp" data-t="00:24:05">[00:24:05]</a>, <a class="yt-timestamp" data-t="00:25:14">[00:25:14]</a>.
+*   **Capacity:** Many developing countries lack the resources and capacity to implement international obligations <a class="yt-timestamp" data-t="00:24:08">[00:24:08]</a>, <a class="yt-timestamp" data-t="00:25:20">[00:25:20]</a>.
+*   **Digital Divide:** Differences in how countries gather data and a lack of interoperability between digital technologies hinder collaboration and reliance on common data sets <a class="yt-timestamp" data-t="00:24:11">[00:24:11]</a>, <a class="yt-timestamp" data-t="00:27:06">[00:27:06]</a>, <a class="yt-timestamp" data-t="00:29:10">[00:29:10]</a>.
+
+## Roles and Adaptations of Multilateral Organizations
+Multilateral organizations are foundational to the [[international_collaboration_in_crisis_management | international order]] <a class="yt-timestamp" data-t="00:27:27">[00:27:27]</a>. Their *raison d'être* is to support member states, typically governments, in developing effective policies for their populations' well-being, helping them regulate at an international level <a class="yt-timestamp" data-t="00:45:47">[00:45:47]</a>. They provide a space for governments to exchange knowledge, learn from each other, and agree on common approaches through international rules and standards <a class="yt-timestamp" data-t="00:46:11">[00:46:11]</a>.
+
+Despite criticisms of being distant bureaucracies or slow political machinery, exacerbated by the crisis <a class="yt-timestamp" data-t="00:46:41">[00:46:41]</a>, International Organizations (IOs) have made efforts to adapt:
+
+*   **World Health Organization (WHO):** Although seen as having limited powers, primarily technical guidance, data provision, and coordinating initiatives <a class="yt-timestamp" data-t="00:24:36">[00:24:36]</a>, the WHO has been a key player. There are pushes for its reform to address political and funding issues <a class="yt-timestamp" data-t="00:25:31">[00:25:31]</a>.
+*   **World Intellectual Property Organization (WIPO):** A successful technical institute of the United Nations, WIPO continued to function effectively during COVID-19, facilitating informal discussions and information sharing among national IP offices. They have also experimented with "hybrid discussions" to maintain the multilateral agenda when delegates cannot travel <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>, <a class="yt-timestamp" data-t="00:13:22">[00:13:22]</a>.
+*   **World Trade Organization (WTO):** Despite criticisms over export restrictions, the WTO's Trade Facilitation Agreement has been an "unsung hero" by removing red tape around essential goods <a class="yt-timestamp" data-t="00:27:50">[00:27:50]</a>.
+*   **Targeted Responses:** Many IOs adapted working methods to allow virtual decisions and rules to be adopted quickly under time pressures <a class="yt-timestamp" data-t="00:50:57">[00:50:57]</a>. Examples include:
+    *   OECD providing 158 policy briefs across various areas <a class="yt-timestamp" data-t="00:51:19">[00:51:19]</a>.
+    *   International Civil Aviation Organization (ICAO) developing quick reference guides for aviation continuity and passenger protection <a class="yt-timestamp" data-t="00:51:43">[00:51:43]</a>.
+    *   Interpol developing guidelines to protect law enforcement and first responders <a class="yt-timestamp" data-t="00:51:57">[00:51:57]</a>.
+
+## Evolving Forms of Collaboration
+The crisis has also revealed the emergence of new, less formal forms of collaboration and diverse actors beyond traditional intergovernmental organizations <a class="yt-timestamp" data-t="00:37:32">[00:37:32]</a>, <a class="yt-timestamp" data-t="00:48:50">[00:48:50]</a>:
+
+*   **Multi-Stakeholder Partnerships:** Initiatives like COVAX, a multilateral initiative bringing together 160+ states, the private sector, and philanthropic foundations (e.g., Gates Foundation) to ensure universal access to vaccines, are exciting developments, though still challenged by funding and participation issues <a class="yt-timestamp" data-t="00:25:53">[00:25:53]</a>, <a class="yt-timestamp" data-t="00:30:32">[00:30:32]</a>.
+*   **Private Standard-Setting Bodies:** These bodies develop market-driven standards, serving as a reference for industry to guarantee product safety and enable fluid international trade <a class="yt-timestamp" data-t="00:49:26">[00:49:26]</a>.
+*   **Transgovernmental Networks of Regulators:** These organizations bring together specialized units of national governments, regulatory agencies, non-governmental actors, and technical experts to develop specialized instruments <a class="yt-timestamp" data-t="00:49:44">[00:49:44]</a>.
+*   **IP Global AI Network:** An initiative from IP Australia, supported by the UK, European, and American offices, aims to build a platform for [[international_collaboration_in_crisis_management | international collaboration]] and co-development of practices and technology around machine learning in patent offices. This seeks to overcome the digital divide by sharing tools and expertise, functioning like an app store or marketplace for AI tools <a class="yt-timestamp" data-t="00:38:20">[00:38:20]</a>.
+
+## Lessons Learned and Future Outlook
+The crisis underscores a clear mismatch between today's global realities, which call for cooperation, and the legal and regulatory processes of the past <a class="yt-timestamp" data-t="00:19:08">[00:19:08]</a>. Going forward, there is a commitment to not return to the pre-COVID status quo, particularly from a regulatory perspective <a class="yt-timestamp" data-t="00:22:07">[00:22:07]</a>.
+
+Key lessons and future directions include:
+
+*   **Systematic Cooperation:** Governments must learn to cooperate effectively and systematically, not just in times of crisis, to be strong enough to face future global challenges <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>, <a class="yt-timestamp" data-t="00:21:13">[00:21:13]</a>.
+*   **Rethinking Multilateralism:** Multilateral organizations need to be more exemplary and effective as a whole <a class="yt-timestamp" data-t="00:52:30">[00:52:30]</a>. Efforts like the "IO partnership for Effective International Rulemaking," which comprises 50 IO partners, aim to improve the quality of rulemaking by focusing on inclusivity, effectiveness, implementation, and coherence <a class="yt-timestamp" data-t="00:52:41">[00:52:41]</a>.
+*   **Digital Transformation:** The accelerated digital transformation driven by the crisis is a positive outcome, fostering [[international_collaboration_in_crisis_management | international cooperation]] on research and development between governmental and private sectors <a class="yt-timestamp" data-t="00:36:01">[00:36:01]</a>.
+*   **Open Societies and Global Value Chains:** Maintaining open societies, [[international_collaboration_in_crisis_management | international regulatory cooperation]], and trade are crucial. The concept of "made in the global world" reflects the interconnectedness of supply chains, emphasizing the need to restore trust in them <a class="yt-timestamp" data-t="00:35:29">[00:35:29]</a>, <a class="yt-timestamp" data-t="00:58:41">[00:58:41]</a>.
+*   **State Relevance:** While other organizing models based on interests (e.g., multinational companies, NGOs, virtual groups) exist, the notion of the country is not outdated. Governments remain central, but their cooperation increasingly involves multi-stakeholder partnerships <a class="yt-timestamp" data-t="00:56:02">[00:56:02]</a>.

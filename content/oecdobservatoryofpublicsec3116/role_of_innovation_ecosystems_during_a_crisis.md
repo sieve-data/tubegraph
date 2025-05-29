@@ -1,0 +1,64 @@
+---
+title: Role of Innovation Ecosystems During a Crisis
+videoId: JkIhnK7qf-w
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+The COVID-19 pandemic has underscored the critical need for more [[public_sector_innovation_in_response_to_covid19|innovative and agile government]] responses, highlighting that innovation is not a luxury but a necessity during challenging times <a class="yt-timestamp" data-t="02:02:04">[02:02:04]</a>, <a class="yt-timestamp" data-t="02:06:01">[02:06:01]</a>. This period has revealed the potential of [[innovation_ecosystems|innovation ecosystems]] to rapidly adapt and provide solutions, serving as a catalyst for systemic change <a class="yt-timestamp" data-t="02:08:02">[02:08:02]</a>, <a class="yt-timestamp" data-t="02:26:07">[02:26:07]</a>, <a class="yt-timestamp" data-t="04:27:06">[04:27:06]</a>, <a class="yt-timestamp" data-t="04:30:01">[04:30:01]</a>.
+
+## Crisis as an Accelerator for Innovation
+
+A crisis like COVID-19 acts as a powerful driver for innovation:
+*   **Clarity and Urgency**: The necessity for change becomes overriding, making innovation clearly needed <a class="yt-timestamp" data-t="03:22:21">[03:22:21]</a>, <a class="yt-timestamp" data-t="03:25:30">[03:25:30]</a>. It solves the problem of "guardian inertia," forcing immediate action <a class="yt-timestamp" data-t="04:21:40">[04:21:40]</a>, <a class="yt-timestamp" data-t="04:22:19">[04:22:19]</a>.
+*   **Parity for New Solutions**: Existing solutions are often found inadequate, removing the bias towards them and giving new options equal footing <a class="yt-timestamp" data-t="03:32:32">[03:32:32]</a>, <a class="yt-timestamp" data-t="03:39:40">[03:39:40]</a>, <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>, <a class="yt-timestamp" data-t="11:17:09">[11:17:09]</a>.
+*   **Investment and Support**: New ways of working and thinking receive significant investment and support, often at scale and pace <a class="yt-timestamp" data-t="03:44:00">[03:44:00]</a>, <a class="yt-timestamp" data-t="03:52:54">[03:52:54]</a>.
+*   **Normalization of Novelty**: Doing something unusual becomes perfectly normal; in fact, adhering to old ways might seem strange <a class="yt-timestamp" data-t="03:53:05">[03:53:05]</a>, <a class="yt-timestamp" data-t="03:53:13">[03:53:13]</a>.
+*   **Increased Legitimacy**: The crisis has increased the legitimacy of [[public_sector_innovation_in_response_to_covid19|public sector innovation]], showing it as a necessity rather than a luxury <a class="yt-timestamp" data-t="03:08:42">[03:08:42]</a>, <a class="yt-timestamp" data-t="03:16:08">[03:16:08]</a>, <a class="yt-timestamp" data-t="03:19:00">[03:19:00]</a>, <a class="yt-timestamp" data-t="03:36:06">[03:36:06]</a>.
+
+## Challenges in Building Innovation Ecosystems during a Crisis
+
+Despite the accelerative effects, a crisis also presents [[challenges_in_building_innovation_ecosystems|challenges for innovation]]:
+*   **Centralization vs. Context**: Crisis mode often entails a centralization of decision-making, which can remove decisions from specific knowledge about frontline contexts and possibilities <a class="yt-timestamp" data-t="03:55:02">[03:55:02]</a>, <a class="yt-timestamp" data-t="03:56:07">[03:56:07]</a>.
+*   **Silofication**: Specialists may close ranks, leading to a "silofication" where different sectors do not synchronize, hindering cross-sectoral innovation <a class="yt-timestamp" data-t="04:09:00">[04:09:00]</a>, <a class="yt-timestamp" data-t="04:13:00">[04:13:00]</a>.
+*   **Back-Burnering Non-Crisis Innovation**: Innovation work not directly related to the crisis might be put on hold <a class="yt-timestamp" data-t="03:53:00">[03:53:00]</a>.
+*   **Lack of Tools**: Some individuals, while innovating out of necessity, may lack the professional tools and approaches to do so effectively <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>.
+*   **Information Overload & Misinformation**: The constant circulation of information, including misinformation, poses a challenge to clear communication <a class="yt-timestamp" data-t="04:26:07">[04:26:07]</a>, <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>.
+*   **Rushed/Atomized Initiatives**: Voluntaristic reactions can lead to rushed or fragmented initiatives that replicate efforts without dialogue or coordination <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>, <a class="yt-timestamp" data-t="04:36:00">[04:36:00]</a>.
+*   **Digital Divide**: Increased digitalization of public services can exacerbate existing inequalities for those without internet access <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>, <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>.
+
+## Examples of Innovation Ecosystems in Practice
+
+Different countries have demonstrated various ways their [[innovation_ecosystems|innovation ecosystems]] have responded:
+
+### Portugal
+Portugal's response illustrates a three-fold approach to innovation <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>:
+*   **Inside-Out (State-led)**: The "We Are On" portal serves as a single point of contact and a large hub, providing reliable, up-to-date information on legal initiatives and direct access to digital public services, including support programs for citizens and companies <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>, <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>.
+*   **Outside-In (Civil Society-led)**: The "Tech for COVID-19" platform is a community of over 5,000 professionals collaborating to provide solutions like free online consultations via video channels, apps, and platforms to help local businesses sell online <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>, <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>.
+*   **Within-State Collaboration**: The "Collaborative Work Plan for Public Administration" brought together 22 projects involving 27 public entities and civil society organizations. This fostered collaboration to produce guides for [[leadership_and_innovation_during_covid19|leadership in times of crisis]], promote innovation through tools like the Innovation Barometer, and disseminate information strategies <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>, <a class="yt-timestamp" data-t="02:16:00">[02:16:00]</a>. It accelerated the state's delivery and coordinated efforts <a class="yt-timestamp" data-t="02:19:00">[02:19:00]</a>.
+
+### Denmark
+Denmark experienced a "Quantum Leap in digital transformation" due to its already strong digital infrastructure <a class="yt-timestamp" data-t="02:25:03">[02:25:03]</a>, <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>.
+*   **Communication Innovations**: The Prime Minister held press conferences for children, and the government used influencers to reach diverse audiences <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>.
+*   **Product/Service Innovations**: Rapid implementation of technologies like video consultations with GPs and chatbots for Corona-related questions occurred <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>. Municipalities helped develop local e-commerce platforms for shops without an online presence <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>.
+*   **Organizational & Process Innovations**: Collaboration stood out, with companies and volunteers 3D printing face shields, demonstrating self-organization through movements like the makers movement <a class="yt-timestamp" data-t="02:52:00">[02:52:00]</a>, <a class="yt-timestamp" data-t="02:57:00">[02:57:00]</a>. The crisis spurred discussions about structural reforms in the health system, prompting doctors to advocate for building on current successes <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>.
+
+### South Africa
+South Africa's response was notably context-specific <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>.
+*   **[[adapting_to_crisis_with_innovative_approaches|Adapting to Crisis with Innovative Approaches]]**: Rwanda rapidly rolled out handwashing facilities at public transport hubs <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a>. Ghana repurposed its Zipline drone vaccine delivery system for test kits <a class="yt-timestamp" data-t="03:06:00">[03:06:00]</a>.
+*   **Repurposing Existing Capacity**: South Africa leveraged existing screening programs (HIV, TB, malaria, Ebola) by training and deploying community health workers for COVID-19 screening and testing <a class="yt-timestamp" data-t="03:08:00">[03:08:00]</a>. TB testing machines in rural areas were repurposed for COVID-19 testing <a class="yt-timestamp" data-t="03:13:00">[03:13:00]</a>.
+*   **Communication for Trust**: Social media campaigns like "#listentothedoctors" and daily expert videos addressed trust issues, sharing technical details behind decision-making with citizens and focusing on messages for children <a class="yt-timestamp" data-t="03:17:00">[03:17:00]</a>, <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>.
+
+## Sustaining Innovation Beyond the Crisis
+
+For innovation to endure and lead to a "new normal," several factors are crucial:
+*   **Socializing Innovation**: Good innovations need to be accessible, spread, and demonstrate their efficiency to become sustainable <a class="yt-timestamp" data-t="11:36:00">[11:36:00]</a>.
+*   **Reinvestment in [[innovation_ecosystems|Innovation Ecosystems]]**: The collaborative efforts seen during the crisis should be maintained and invested in by public administration, fostering continued bidirectional transfer of knowledge and skills <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>, <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>.
+*   **Connecting System Points**: Different parts of the system that desire learning and change need to be connected and encouraged to speak up about what needs to be questioned and changed <a class="yt-timestamp" data-t="11:07:00">[11:07:00]</a>, <a class="yt-timestamp" data-t="11:09:00">[11:09:00]</a>.
+*   **Long-term Planning**: Governments must consider short-, medium-, and long-term responses simultaneously <a class="yt-timestamp" data-t="03:15:00">[03:15:00]</a>. The crisis revealed that normal planning processes are insufficient for such events, necessitating a move towards scenario planning to build new futures and incorporate anticipatory [[government_innovation_and_collaboration_postpandemic|governance and innovation]] <a class="yt-timestamp" data-t="05:19:00">[05:19:00]</a>, <a class="yt-timestamp" data-t="05:28:00">[05:28:00]</a>.
+*   **Learning and Experimentation**: The crisis serves as a laboratory for testing new things, improving solutions, and learning from successes and failures <a class="yt-timestamp" data-t="11:15:00">[11:15:00]</a>, <a class="yt-timestamp" data-t="11:30:00">[11:30:00]</a>. This requires an experimental approach to innovation to reduce risk before widespread implementation <a class="yt-timestamp" data-t="04:55:00">[04:55:00]</a>, <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>.
+*   **Engaging Stakeholders**: Public debate and citizen engagement are crucial for building trust and ensuring that innovations are inclusive and reflect a diversity of views <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>, <a class="yt-timestamp" data-t="05:04:00">[05:04:00]</a>. This means shifting from a command-and-control approach to a more socially active way of managing outcomes <a class="yt-timestamp" data-t="11:11:00">[11:11:00]</a>.
+
+## Conclusion
+
+The COVID-19 crisis has been an intense training ground for [[skills_and_approaches_for_innovation_ecosystems|innovation in the public sector]], demonstrating the extraordinary capacity of public administration to adapt and provide solutions to unprecedented challenges <a class="yt-timestamp" data-t="11:42:00">[11:42:00]</a>, <a class="yt-timestamp" data-t="11:46:00">[11:46:00]</a>. It has confirmed that [[innovation_ecosystems|innovation ecosystems]] are real and vital for transferring knowledge and coordinating efforts <a class="yt-timestamp" data-t="04:29:00">[04:29:00]</a>. The challenge now lies in striking the right balance between returning to old normal, retaining successful new adaptations, and seizing the opportunity for fundamental, long-term systemic change <a class="yt-timestamp" data-t="12:39:00">[12:39:00]</a>, <a class="yt-timestamp" data-t="12:48:00">[12:48:00]</a>. This means less "innovation theater" and more "dirty hands" in actively practicing innovation to address future crises like climate change <a class="yt-timestamp" data-t="12:51:00">[12:51:00]</a>, <a class="yt-timestamp" data-t="12:56:00">[12:56:00]</a>.

@@ -1,0 +1,57 @@
+---
+title: International collaboration in behavioral policy
+videoId: dHcmZ-eBFIs
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+International collaboration plays a significant role in advancing the use of [[behavioral_public_policy | behavioral public policy]] globally. Organizations like the OECD actively facilitate this by convening a global network of [[collaborations_in_behavioral_science | Behavioral Science experts]], enabling governments to use [[behavioral_insights_in_public_policy | Behavioral Science]], and advising on policy challenges by generating new evidence through policy experiments <a class="yt-timestamp" data-t="03:00:59">[03:00:59]</a>. This collaborative approach allows countries to learn from each other's experiences and accelerate the integration of [[behavioral_insights_in_public_policy | behavioral science]] into governance.
+
+## Drivers of International Collaboration
+
+Many governments worldwide seek support to establish [[behavioral_science_in_policy_making | behavioral science functions in their government]] <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>. A strong desire exists among these governments to learn from other countries that have successfully embedded [[behavioral_science_in_policy_making | behavioral science into public policies and government operations]] <a class="yt-timestamp" data-t="00:35:00">[00:35:00]</a>. The UK government, for instance, established the first behavioral insights unit in 2010, providing valuable lessons on what works and what doesn't <a class="yt-timestamp" data-t="00:37:00">[00:37:00]</a>.
+
+The OECD's report, "Logic: Good Practice Principles for [[mainstreaming_behavioral_science_in_government | Mainstreaming Behavioral Public Policy]]", is a direct result of this demand, offering guidance for those beginning their journey in using [[behavioral_insights_in_public_policy | behavioral science]] and those looking to deepen their existing impact <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>. This report is based on rigorous research, combining data from governments around the world with insights from [[collaborations_in_behavioral_science | behavioral science experts]] <a class="yt-timestamp" data-t="01:26:00">[01:26:00]</a>.
+
+## Global Growth and Diversity
+
+Over 300 institutions globally are applying [[behavioral_science_in_policy_making | behavioral science to public policies]] <a class="yt-timestamp" data-t="03:34:00">[03:34:00]</a>. This growth is expanding in two directions:
+*   **Broadening:** A wider range of countries are setting up behavioral science functions <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a>.
+*   **Deepening:** Many countries now have multiple teams and functions established across various public administrations <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>.
+
+The growth has accelerated, with more than half of new teams created since 2019 <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>. This trend was likely intensified by COVID-19, which was an inherently behavioral problem, especially before vaccines <a class="yt-timestamp" data-t="04:42:00">[04:42:00]</a>.
+
+Different governance arrangements exist globally, including:
+*   Dedicated units in the center of government <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>.
+*   Specific functions in different line agencies <a class="yt-timestamp" data-t="05:03:00">[05:03:00]</a>.
+*   More dispersed expertise <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a>.
+*   Ad hoc expertise from outside government <a class="yt-timestamp" data-t="05:09:00">[05:09:00]</a>.
+
+The OECD continuously tracks this growth and diversity using a mixed-method approach, including surveys, semi-structured interviews with senior practitioners, and interactions with its network of [[collaborations_in_behavioral_science | behavioral science experts]] <a class="yt-timestamp" data-t="05:26:00">[05:26:00]</a>.
+
+## Shared Challenges and Lessons Learned
+
+Despite growth, practitioners face common challenges, primarily related to institutional factors and the relationship between [[behavioral_insights_in_public_policy | Behavioral Science]] teams and their parent organizations <a class="yt-timestamp" data-t="06:06:00">[06:06:00]</a>. Ironically, more mature teams often report more challenges, as they encounter different situations and develop strategies to address them over time <a class="yt-timestamp" data-t="06:26:00">[06:26:00]</a>.
+
+### Country Experiences and Turning Points
+
+*   **Finland:** The journey began with collaboration between governments for future initiatives in 2013, followed by a government-led experimentation culture <a class="yt-timestamp" data-t="02:39:00">[02:39:00]</a>. A key turning point was benchmarking other countries during the COVID-19 crisis in 2020, leading to a pilot for behavioral science in communications, which proved highly effective <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>. Success with RCTs (e.g., text messages to encourage voting) further demonstrated impact, leading to team growth and expansion into diverse areas <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>. Factors supporting growth include a good team, strong support from the Prime Minister's Office, and the realization that not using [[behavioral_insights_in_public_policy | behavioral science]] is no longer an option <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. The approach emphasizes ambition with humility, working *with* rather than just advising policymakers <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>.
+
+*   **United Kingdom:** The first behavioral insights team (Nudge Unit) had significant political support from the Prime Minister and Deputy Prime Minister <a class="yt-timestamp" data-t="03:09:00">[03:09:00]</a>. A key turning point for the team at HMRC (UK tax authority) was adapting when initial political support waned <a class="yt-timestamp" data-t="03:34:00">[03:34:00]</a>. Instead of fighting the mainstream, the team found success in "side streams"—areas with more autonomy, senior buy-in, and data (like debt management) <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>. The COVID-19 pandemic also served as a major turning point, allowing for thorough [[behavioral_insights_in_public_policy | behavioral input]] into policies like the Furlough scheme <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>. Key factors for this success included novelty of the scheme, the team's track record and credibility, strong [[role_of_leadership_and_governance_in_behavioral_policy | senior buying]] (e.g., from the Chancellor), and the team's opportunistic and communicative approach <a class="yt-timestamp" data-t="03:42:00">[03:42:00]</a>.
+
+*   **Brazil:** The journey began with isolated experiences, then initiatives in cities like Rio de Janeiro and São Paulo <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>. At the federal level, the National School of Public Administration played a crucial role by launching regular behavioral science courses and publications <a class="yt-timestamp" data-t="04:54:00">[04:54:00]</a>. The major turning point was the inception of Cinco in 2023, the first dedicated [[behavioral_insights_in_public_policy | Behavioral Science unit]] established within a new Ministry of Management and Innovation in Public Services <a class="yt-timestamp" data-t="04:54:00">[04:54:00]</a>. This ministry's transversal responsibilities (procurement, human resources, digital services) align well with [[behavioral_insights_in_public_policy | behavioral science's]] mission to improve public policy and citizens' lives <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>. Factors enabling this include a strong innovation movement in Brazil, advocacy by experienced practitioners, and the ability to recruit diverse civil servants for the team <a class="yt-timestamp" data-t="04:19:00">[04:19:00]</a>. The approach emphasizes co-creation with policymakers, focusing on solving complex problems (like mosquito-transmitted diseases) that traditional methods haven't resolved <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>.
+
+### Key Learnings for International Collaboration
+
+Based on these experiences, several lessons emerge for the [[mainstreaming_behavioral_science_in_government | mainstreaming]] of [[behavioral_public_policy | behavioral public policy]]:
+*   **Time and Resources:** Building [[behavioral_science_in_public_governance | Behavioral Science into government work]] takes significant time and more resources than initially expected; there are no shortcuts <a class="yt-timestamp" data-t="05:29:00">[05:29:00]</a>.
+*   **Context Matters:** While learning from other countries is valuable, each nation must adapt practices to its unique context and systems <a class="yt-timestamp" data-t="05:48:00">[05:48:00]</a>.
+*   **Internal Engagement:** Working from inside the system allows for a deeper understanding of processes and key moments for intervention <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>.
+*   **Communication and Trust:** Effective communication is crucial to raise awareness, build trust, and demonstrate the value of [[behavioral_insights_in_public_policy | behavioral science]] <a class="yt-timestamp" data-t="05:35:00">[05:35:00]</a>. Regular briefings, coffee mornings, and popularized research reports help maintain engagement <a class="yt-timestamp" data-t="05:07:00">[05:07:00]</a>.
+*   **Collaborative Approach:** Engaging civil servants in the work and developing solutions *with* policymakers rather than simply consulting, fosters a sense of belonging and transformation <a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a>.
+*   **Scalability Challenges:** Governments, designed for standardized processes, can struggle with the subtle, fine-tuned interventions often proposed by [[behavioral_insights_in_public_policy | behavioral science]]. It is a continuous challenge to maintain the nuanced insights during large-scale implementation <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>.
+*   **Learning from Experience:** Newer teams benefit greatly from learning from more experienced teams' successes and mistakes, especially regarding non-technical issues like political considerations <a class="yt-timestamp" data-t="05:40:00">[05:40:00]</a>.
+
+## Future of International Collaboration
+
+The OECD plans to leverage the "Logic" principles to conduct country reviews, analyzing the capacity of applied [[behavioral_public_policy | behavioral science]] and providing evidence-based recommendations <a class="yt-timestamp" data-t="05:39:00">[05:39:00]</a>. These reviews will offer comparisons across countries and tailored advice drawing on best practices <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>. This diagnostic tool can help countries set up new [[behavioral_science_in_policy_making | Behavioral Science functions]], transform existing ones into more effective models, or further refine established functions <a class="yt-timestamp" data-t="05:48:00">[05:48:00]</a>. By assessing maturity across dimensions like [[role_of_leadership_and_governance_in_behavioral_policy | leadership]], objectives, governance, integration, and capability, the OECD aims to advance the integration of [[behavioral_insights_in_public_policy | behavioral science in public policy]] globally <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>.

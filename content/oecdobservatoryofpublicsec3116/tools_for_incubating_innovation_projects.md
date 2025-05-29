@@ -1,0 +1,28 @@
+---
+title: Tools for incubating innovation projects
+videoId: _HySsiq_l6A
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+Public sector innovation acts as a driving force for change, although it sometimes requires additional impetus <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. To address this, the Observatory of Public Sector Innovation (OPSI), in collaboration with the European Commission, established the [[innovation_incubator_program | Innovation Incubator Program]] <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>, <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>, <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. This program assists countries in exploring more radical innovations and anticipating future societal shifts <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>, <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>, <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+
+## Innovation Incubator Program
+
+The [[innovation_incubator_program | Innovation Incubator Program]] provides participating countries with international expert advice, peer support, and co-design elements <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>, <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>, <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. Denmark, Romania, and Portugal participated in its pilot phase <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>, <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+
+### Anticipatory Innovation
+
+A core component of the incubator's focus is anticipatory innovation, which empowers governments to undertake future-oriented actions <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>, <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. This proactive stance helps them address societal challenges more effectively <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>, <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+
+Under the stewardship of the incubator, Portugal developed the [[toolkit_for_anticipatory_innovation | Anticipatory Innovation Starter Kit]] <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>, <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>, <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. This kit is designed for public service servants and managers who are new to anticipatory innovation <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>, <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>, <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. Its objective is to introduce anticipatory innovation in an accessible way that is easy to understand, assess, and use <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>, <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>, <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+
+## Collaborative Tool Development
+
+Sharing experiences among innovators is essential for mutual learning and for disseminating positive contributions to the broader community <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>, <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>, <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>, <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. OPSI has partnered with Accelerate Estonia to facilitate the dissemination of lessons learned from the [[innovation_incubator_program | Innovation Incubator Program]] experience <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>, <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>, <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+
+Accelerate Estonia focuses on societal problems and identifies public-private partnerships to transform these challenges into opportunities <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>, <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>, <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>, <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>, <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. Together, OPSI and Accelerate Estonia have developed [[innovation_tools_and_methods | tools for incubating innovation projects]] <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>, <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>, <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. These [[role_and_development_of_innovation_tools_for_government | tools]] are accessible to governments on OPSI's website, allowing them to adapt the [[methods_and_tools_in_innovation_toolkits | tools]] to their specific contexts <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>, <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+
+## OPSI's Role
+
+OPSI serves as a global forum for public sector innovation. It supports governments in understanding, testing, and embedding new initiatives to address societal challenges <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>, <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>, <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>, <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>, <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. This work ensures that better services and policies contribute to improved lives <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>, <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>, <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.

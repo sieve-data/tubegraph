@@ -1,0 +1,43 @@
+---
+title: Challenges in implementing missiondriven approaches
+videoId: 2kY82Y_uE54
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+Implementing mission-driven approaches involves navigating a complex landscape, requiring collective innovation and a long-term commitment. While offering significant opportunities for societal impact, these approaches also present several distinct challenges <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+
+## Defining and Sustaining the Mission
+
+A primary challenge lies in clearly defining and consistently pursuing the mission. It is often difficult to set truly ambitious, concrete, and measurable missions, with a risk of "mission washing" where objectives are not sufficiently bold or transformative <a class="yt-timestamp" data-t="00:44:57">[00:44:57]</a>. Furthermore, missions often remain focused on science and technology, failing to integrate broader systemic and behavioral changes required for significant societal impact <a class="yt-timestamp" data-t="00:45:16">[00:45:16]</a>. Maintaining the attention and commitment of all stakeholders and the public over a long period, such as a decade-long mission, is also a significant hurdle <a class="yt-timestamp" data-t="01:47:58">[01:47:58]</a>.
+
+## Governance and Coordination
+
+[[challenges_in_coordinating_stakeholders_in_mission_oriented_policies | Coordinating stakeholders]] across various levels and silos poses a considerable challenge <a class="yt-timestamp" data-t="00:45:39">[00:45:39]</a>. Governance structures tend to be complex, multi-level (local, regional, national, international), cross-ministerial, cross-agency, and cross-silo <a class="yt-timestamp" data-t="00:45:39">[00:45:39]</a>. This complexity can lead to heavy administrative burdens <a class="yt-timestamp" data-t="00:45:54">[00:45:54]</a>. Specific difficulties include:
+*   **Building Consensus and Alignment** It's hard to build broad consensus on selected societal challenges and translate them into clear, bold objectives <a class="yt-timestamp" data-t="00:42:27">[00:42:27]</a>. Aligning the plans of diverse stakeholders with differing interests around common goals is crucial <a class="yt-timestamp" data-t="00:42:47">[00:42:47]</a>, but individual interests can hinder this <a class="yt-timestamp" data-t="01:48:16">[01:48:16]</a>.
+*   **Stakeholder Engagement** There is often weaker engagement from non-Science, Technology, and Innovation (STI) stakeholders, including citizens <a class="yt-timestamp" data-t="00:45:58">[00:45:58]</a>. Bringing together diverse groups (e.g., medical, research, society, patients, politics, regulatory bodies, business) requires significant effort <a class="yt-timestamp" data-t="01:40:40">[01:40:40]</a>.
+*   **Conflicts of Interest** Managing conflicts of interest among experts and stakeholders, particularly in smaller communities, can be challenging when the same individuals inform research priorities and may also want to conduct the research <a class="yt-timestamp" data-t="01:23:41">[01:23:41]</a>. Diversity in advisory panels, including international members, can help mitigate this <a class="yt-timestamp" data-t="01:29:59">[01:29:59]</a>.
+*   **Shared Ownership** Ensuring common ownership of the mission is difficult, as some partners may be more involved or see more direct benefits than others <a class="yt-timestamp" data-t="01:48:40">[01:48:40]</a>.
+*   **Cultural Change** Promoting cultural change, such as strengthening patient involvement in research, requires overcoming established norms where clinicians may not be used to listening to patients' input as seriously as that of other clinicians <a class="yt-timestamp" data-t="01:49:41">[01:49:41]</a>. Language barriers can also complicate engagement in international contexts <a class="yt-timestamp" data-t="01:53:37">[01:53:37]</a>.
+
+## Implementation and Adaptation
+
+[[challenges_in_implementing_innovation | Challenges in implementing innovation]] in complex adaptive systems like healthcare are significant. Any change can ripple unpredictably through the system, often leading to unintended side effects <a class="yt-timestamp" data-t="00:09:33">[00:09:33]</a>.
+*   **Lack of Clear Methodology** There can be a lack of concrete methods or a clear theory of change for how to achieve the mission's goals, including assigning responsibilities <a class="yt-timestamp" data-t="00:49:54">[00:49:54]</a>.
+*   **Systemic Change** [[challenges_of_a_multifaceted_innovation_approach | Achieving systemic change]] requires addressing incumbent biases, disruptive established roles, and transforming infrastructure and fundamentals (e.g., data, regulation, funding) <a class="yt-timestamp" data-t="00:48:07">[00:48:07]</a>.
+*   **Short-term vs. Long-term Focus** Balancing the need for early mission delivery and short-term results with maintaining a long-term perspective can create tension <a class="yt-timestamp" data-t="02:20:50">[02:20:50]</a>. Political changes can exacerbate this challenge <a class="yt-timestamp" data-t="02:13:54">[02:13:54]</a>.
+*   **Measuring Impact** Measuring the impact of systemic interventions is different from measuring individual, fragmented measures, and appropriate methodologies and tools are often lacking <a class="yt-timestamp" data-t="00:46:24">[00:46:24]</a>. Clear metrics for performance are needed to hold initiatives accountable and demonstrate progress towards mission goals <a class="yt-timestamp" data-t="01:28:07">[01:28:07]</a>.
+*   **Scaling Up** Mission-oriented initiatives can be successful in specific subsystems, but scaling up these successes to a broader level is a common challenge <a class="yt-timestamp" data-t="00:47:00">[00:47:00]</a>.
+*   **Uncertainty and Flexibility** Working in conditions of uncertainty, where outcomes are not fully known, requires adaptation. Communicating this uncertainty to stakeholders, who may expect control and defined plans, can be difficult <a class="yt-timestamp" data-t="02:22:05">[02:22:05]</a>.
+*   **Translating Mission to Local Action** Bridging the gap between high-level strategies and local, community-level action, such as engaging ministries with local initiatives, requires building trust and overcoming differences in language and tempo <a class="yt-timestamp" data-t="02:14:00">[02:14:00]</a>.
+*   **Internal Organizational Challenges** Within organizations, there can be resistance to new approaches that introduce ambiguity. Continuous communication is needed to convince internal actors that mission-oriented approaches enable, rather than burden, their existing work <a class="yt-timestamp" data-t="02:23:07">[02:23:07]</a>.
+
+## Overcoming Challenges
+
+To address these challenges, strategies include:
+*   **Active Leadership** Strong leadership is essential to manage diverse interests and appreciate different knowledge and conditions among stakeholders <a class="yt-timestamp" data-t="00:46:00">[00:46:00]</a>, providing a focal point for action <a class="yt-timestamp" data-t="00:33:50">[00:33:50]</a>.
+*   **Building Trust and Collaboration** Creating a community of values and cultures based on cooperation and learning is vital <a class="yt-timestamp" data-t="00:33:14">[00:33:14]</a>. This involves facilitating connections between different organizational layers and encouraging a willingness to share costs, risks, and benefits <a class="yt-timestamp" data-t="01:59:34">[01:59:34]</a>.
+*   **Iterative Learning and Evaluation** Early evaluations can help refine the mission's path and ensure funded activities meet objectives <a class="yt-timestamp" data-t="01:30:31">[01:30:31]</a>. Continuous learning and adaptation are crucial, especially for long-term missions <a class="yt-timestamp" data-t="01:33:50">[01:33:50]</a>.
+*   **Bottom-up Engagement** Encouraging bottom-up initiatives and learning from community-led projects can provide insights into real-world needs <a class="yt-timestamp" data-t="02:02:00">[02:02:00]</a>.
+*   **Mindful Communication** Using inclusive language that avoids technical jargon and framing missions as encouraging and shared endeavors helps foster engagement and prevent them from sounding like just "another strategy" <a class="yt-timestamp" data-t="02:25:20">[02:25:20]</a>.
+*   **Embracing Vulnerability** Public authorities must be willing to listen, deliberate, and be open to criticism to truly improve services and make systemic changes <a class="yt-timestamp" data-t="02:23:27">[02:23:27]</a>. Strong senior leadership support that understands and tolerates uncertainty is also key <a class="yt-timestamp" data-t="02:24:46">[02:24:46]</a>.

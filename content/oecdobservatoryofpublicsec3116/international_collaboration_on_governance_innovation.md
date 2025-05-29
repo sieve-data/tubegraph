@@ -1,0 +1,85 @@
+---
+title: International Collaboration on Governance Innovation
+videoId: ePLHMLjxjxI
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+In a world facing complex global challenges such as the COVID-19 pandemic, war in Europe, energy crises, and high inflation, the future remains uncertain <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. These circumstances highlight the critical role of the public sector as a cornerstone for citizens in difficult situations <a class="yt-timestamp" data-t="00:44:00">[00:44:00]</a>. Such crises underscore the need for more resilient public sectors and a proactive approach to governance <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>. [[crossborder_collaboration_in_public_sector_innovation | Collaboration with the international arena]] is considered essential for developing know-how and governance systems <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+
+## Finland's Pioneering Role
+
+Finland is currently undergoing one of its largest public sector transformations, including the creation of welfare counties, which represents a new level of public governance <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>. Amidst numerous recent crises, Finland is committed to taking concrete steps toward proactive governance and enhancing its public sector resilience <a class="yt-timestamp" data-t="01:27:00">[01:27:00]</a>. This long-term effort is seen as a marathon, not a sprint, aiming for readiness by the end of the 2020s <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
+
+Finland has partnered with the OECD to develop a model of [[anticipatory_innovation_governance]], defining anticipation as not just creating knowledge about the future, but making decisions based on that knowledge <a class="yt-timestamp" data-t="02:48:00">[02:48:00]</a>. This involves taking action today toward future outlooks, supported by a governance system that fosters [[innovative_approaches_to_public_governance | innovation]] <a class="yt-timestamp" data-t="02:49:00">[02:49:00]</a>. The collaboration also involved extensive action research and pilot projects in areas like continuous learning, carbon neutrality, child well-being, and dialogues on the roles of politicians and administrative staff <a class="yt-timestamp" data-t="02:30:00">[02:30:00]</a>.
+
+Despite being recognized as one of the best governments globally, Finland identifies areas for further advancement, particularly in integrating strategic foresight into policy-making and fostering experimentation among civil servants <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>. Key challenges identified include organizational, individual, and procedural hurdles hindering anticipation and [[innovative_approaches_to_public_governance | innovation]] <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a>. The project also examined themes such as democratic [[innovative_approaches_to_public_governance | innovation]], integrating anticipatory knowledge into budgets, exploring alternatives, building individual and organizational capacities, and ensuring continuity of long-term reforms across policy cycles and government transitions <a class="yt-timestamp" data-t="02:49:00">[02:49:00]</a>.
+
+## European Commission's Support for [[anticipatory_innovation_governance | Anticipatory Innovation Governance]]
+
+The European Commission, through its Directorate General for Structural Reform Support, plays a crucial role in coordinating policy-making across the EU, particularly concerning the quality of public administration <a class="yt-timestamp" data-t="05:43:00">[05:43:00]</a>. Recent events have demonstrated that anticipation and foresight are essential elements for public administrations, as citizens turn to them during times of change and crisis <a class="yt-timestamp" data-t="04:23:00">[04:23:00]</a>.
+
+The Commission has supported Finland's work on improving [[anticipatory_innovation_governance]] and aims to provide financial and technical assistance to member states adopting this model <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a>. The report on [[anticipatory_innovation_governance]] launched in collaboration with Finland comprehensively demonstrates the vital role of anticipation and [[innovative_approaches_to_public_governance | innovation]] in addressing complex issues <a class="yt-timestamp" data-t="07:24:00">[07:24:00]</a>.
+
+### Supporting Member States
+
+The European Commission acknowledges that EU administrations face increasingly complex policy issues, requiring better collaboration at all government levels to manage "super wicked problems" like climate change and "black swan events" like COVID-19 <a class="yt-timestamp" data-t="06:36:00">[06:36:00]</a>.
+
+Through its technical support instruments, the Commission is committed to helping member states adopt [[anticipatory_innovation_governance]] <a class="yt-timestamp" data-t="07:36:00">[07:36:00]</a>. Examples of such support include:
+*   **Latvia Innovation Lab:** Collaboration with the OECD to build an [[innovative_approaches_to_public_governance | innovation]] lab, enhancing public administration's capacity to disrupt through analysis and better policy design <a class="yt-timestamp" data-t="08:15:00">[08:15:00]</a>.
+*   **Malta Crisis Planning:** Drawing lessons from the COVID-19 crisis to increase the state's capacity to plan for future crises <a class="yt-timestamp" data-t="08:50:00">[08:50:00]</a>.
+*   **Multi-Country Projects:**
+    *   "Building Capacity for Evidence-Informed Policy Making in [[governance_and_implementation_of_innovation_missions | Governance]] and Public Administration in a Post-Pandemic Europe" with the Joint Research Center (JRC), OECD, Greece, Belgium, Czechia, Estonia, Latvia, Lithuania, and the Netherlands <a class="yt-timestamp" data-t="09:06:00">[09:06:00]</a>.
+    *   "Strengthening the Resilience of Public Administration after the COVID-19 Crisis" using the Common Assessment Framework 2020, involving 12 member states: Belgium, Bulgaria, Austria, Croatia, Italy, Finland, Spain, Poland, Portugal, Greece, Slovenia, and Slovakia, also in partnership with the OECD <a class="yt-timestamp" data-t="09:35:00">[09:35:35]</a>.
+
+The JRC's foresight unit also actively promotes [[anticipatory_innovation_governance | foresight capacity]] across the European Union <a class="yt-timestamp" data-t="10:13:00">[10:13:00]</a>.
+
+### Future Challenges for EU Administrations
+
+The European Commission has identified key future challenges where [[anticipatory_innovation_governance | anticipatory innovation capacity]] will be crucial <a class="yt-timestamp" data-t="11:49:00">[11:49:00]</a>:
+1.  **Speed of Technological Change:** Requires adapting administrative methods, enabling human-centricity in public service delivery, and rethinking/redesigning administrations <a class="yt-timestamp" data-t="12:51:00">[12:51:00]</a>.
+2.  **Demographic Changes and Skills Shortages:** New skills are needed to address these challenges and ensure the successful implementation of reform and recovery packages <a class="yt-timestamp" data-t="13:29:00">[13:29:00]</a>.
+3.  **Increasing Complexity of Managing Policy Issues:** Encouraging a culture of [[innovative_approaches_to_public_governance | innovation]] is vital for public administration functioning at all levels of [[governance_and_implementation_of_innovation_missions | governance]] when dealing with super wicked problems <a class="yt-timestamp" data-t="13:58:00">[13:58:00]</a>.
+4.  **Impact of Green Transition:** Administrations must ensure leadership competence, sound knowledge bases, accountability, and transparency to achieve climate neutrality goals <a class="yt-timestamp" data-t="14:28:00">[14:28:00]</a>.
+5.  **Competition for Limited Public Funding:** Prioritization, leadership, [[innovative_approaches_to_public_governance | innovative thinking]], and improved financial management are key to addressing intergenerational fairness <a class="yt-timestamp" data-t="14:55:00">[14:55:00]</a>. A culture of [[innovative_approaches_to_public_governance | innovation]] is essential in public administration for understanding future challenges and opportunities <a class="yt-timestamp" data-t="15:19:00">[15:19:00]</a>.
+
+To address these, public administrations need to build resilience, which combines stable and efficient processes delivering quality services with a capacity for disruption, challenging, and improving the public administration <a class="yt-timestamp" data-t="15:52:00">[15:52:00]</a>.
+
+## Sharing Experiences Across Countries
+
+Countries like Norway, Portugal, and the Netherlands acknowledge the relevance of the [[anticipatory_innovation_governance]] model and are exploring ways to integrate its principles into their own contexts.
+
+### Norway
+Norway recognizes similarities with Finland and sees the potential to strengthen a "Nordic model" by exploring and applying [[anticipatory_innovation_governance]] <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>. They aim to break down silos and foster new [[collaborative_approaches_in_public_sector_innovation | collaborative approaches]] for complex systemic problems <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>. Examples of anticipatory activities in Norway include:
+*   **National Defense Research Establishment:** Carried out assignments on information influence on elections, presenting scenarios to strengthen resilience against unwanted influencing <a class="yt-timestamp" data-t="05:45:00">[05:45:00]</a>.
+*   **White Paper on Public Sector Innovation (2019):** Developed public sector scenarios for 2040 to ensure future-fit [[innovative_approaches_to_public_governance | innovation policies]], highlighting foresight as a crucial method <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>.
+*   **Seamless Services Program:** Uses foresight methods to develop solutions that meet future user needs, like "live events" (e.g., starting a military organization) to identify strategic blind zones and develop future personas <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>.
+
+Norway's digitalization agency adopts an iterative approach, sharing cases and examples, and inspiring the development of capabilities for anticipatory tools <a class="yt-timestamp" data-t="08:42:00">[08:42:00]</a>. Future steps include developing future literacy and related skills in targeted programs for public sector leaders, and learning from [[international_trends_in_governmental_experimentation_and_innovation | international cases]] like Finland <a class="yt-timestamp" data-t="09:23:00">[09:23:00]</a>.
+
+### Portugal
+Portugal, despite geographical and historical differences from Finland, faces similar challenges of uncertainty and mounting demands with limited resources <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a>. The country has established a new entity at the center of government, PlanAPP (Competence Center for Planning, Policy Evaluation, and Foresight), to bring foresight and [[anticipatory_innovation_governance | anticipatory innovation]] to the forefront <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>. PlanAPP aims to cut across silos and provide a more holistic response to future challenges and opportunities <a class="yt-timestamp" data-t="04:57:00">[04:57:00]</a>.
+
+Key Portuguese initiatives include:
+*   **Anticipatory Innovation Starter Kit:** Developed by the Agency for Modernization of the Public Administration in cooperation with the OECD, creating a network of innovative entities <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>.
+*   **Ministries of the Future and EU Foresight Network:** Launched during Portugal's 2021 EU Council presidency, demonstrating awareness of these topics <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>.
+*   **PlanAPP's Role:** To unlock existing capacities across the Portuguese public administration, combine them, and provide a platform for sharing information and capacities <a class="yt-timestamp" data-t="01:00:31">[01:00:31]</a>.
+*   **Capacity Building:** A critical aspect, particularly in regaining competencies and disseminating skills across the public administration <a class="yt-timestamp" data-t="01:01:30">[01:01:30]</a>.
+*   **2050 Lab:** A participatory visioning project within PlanAPP to involve civil society and citizens in imagining Portugal's future <a class="yt-timestamp" data-t="01:02:27">[01:02:27]</a>.
+
+A primary goal for Portugal is to foster a culture within public administration that promotes and integrates foresight and [[innovative_approaches_to_public_governance | innovation]] into practice, moving beyond mere legal compliance <a class="yt-timestamp" data-t="01:11:21">[01:11:21]</a>.
+
+### The Netherlands
+The Netherlands believes the [[anticipatory_innovation_governance]] model could fit well within its open and stakeholder-engagement-focused context <a class="yt-timestamp" data-t="04:49:00">[04:49:00]</a>. While similar smaller projects are ongoing, a structured approach like the AIG model is not yet in place <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>. The Ministry of Infrastructure and Water Management works on issues like artificial intelligence, well-being economics, hyperloops, flying cars, data science, and digitalization <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>.
+
+A significant challenge is translating [[innovative_approaches_to_public_governance | innovations]] into policy, as many public servants are risk-averse <a class="yt-timestamp" data-t="05:43:00">[05:43:00]</a>. Creating a culture that embraces change and allows for [[innovative_approaches_to_public_governance | innovation]] is difficult but crucial <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>. For long-term issues, particularly in infrastructure, dedicated long-term funding helps maintain policy continuity across governments <a class="yt-timestamp" data-t="01:05:00">[01:05:00]</a>. However, funding for early-stage [[innovative_approaches_to_public_governance | innovations]] remains challenging <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>.
+
+## Key Insights and Future Directions
+
+A crucial insight from the Finnish report is that [[anticipatory_innovation_governance]] should not be an extra layer, but rather functions that are integrated into existing [[government_innovation_practices | government functions]], such as strategy planning, budgetary decisions, legislation, and human resource development <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>. The report also highlights the need for new government functions like a "government transition function" to ensure continuity of complex policies across electoral cycles and prevent loss of know-how <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>.
+
+The role of citizens in the anticipatory approach is deemed core. Involving citizens throughout the policy cycle, not just in current issues but also emerging future issues, helps build trust and resilience in both government and society <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>. Citizen demands for proactive governance are growing, emphasizing the need to anticipate and respond to future needs rather than just reacting to crises <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>. Research suggests that citizens' trust in a government's ability to innovate is directly linked to their trust in government generally <a class="yt-timestamp" data-t="01:26:00">[01:26:00]</a>.
+
+Equipping civil servants with tools and methods for future-oriented [[innovative_approaches_to_public_governance | innovation]] and experimentation is vital <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>. This includes providing toolkits, fostering a culture of [[innovative_approaches_to_public_governance | innovation]], and building communities and networks for sharing information and [[collaboration_and_innovation_in_public_sector | working together]] on cross-cutting topics <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>.
+
+This pioneering work in Finland and its comprehensive blueprint for [[anticipatory_innovation_governance]] will serve as a valuable example for other countries. The OECD plans to use this experience in upcoming projects, for instance, developing competency frameworks for senior leaders in Ireland and further exploring capabilities in Italy, Lithuania, and Malta <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>. Efforts are also underway to link anticipation with risk management (Sweden) and recovery/resilience plans (Flanders and Belgium) <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>. The consensus is that [[anticipatory_innovation_governance | anticipatory innovation approaches]] are not merely "nice to have" but are critical for integrating how governments work and deliver in the future <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>.

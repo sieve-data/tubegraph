@@ -1,0 +1,92 @@
+---
+title: Challenges and opportunities in implementing missionoriented climate strategies
+videoId: L5t0Vvic514
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+Governments play a pivotal role in achieving global climate targets, yet existing governance structures are often deemed inadequate to achieve the desired outcomes of national climate targets <a class="yt-timestamp" data-t="00:44:40">[00:44:40]</a>. Despite a variety of policy instruments and commitments, it remains unclear if most Paris Agreement commitments will be met <a class="yt-timestamp" data-t="00:45:11">[00:45:11]</a>. This highlights a need for a significant change in how seriously climate action is taken <a class="yt-timestamp" data-t="00:45:28">[00:45:28]</a>. The concept of [[mission_governance_in_climate_policy | mission governance]] is presented as a powerful tool to strengthen climate action by integrating targeted, ambitious, and time-bound goals into national climate efforts <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>, <a class="yt-timestamp" data-t="00:13:39">[00:13:39]</a>, <a class="yt-timestamp" data-t="00:47:39">[00:47:39]</a>.
+
+## Current Landscape and Challenges in Climate Action
+
+While significant progress has been made, such as global investment in renewables reaching $2 trillion US in the last year—double the amount spent on fossil fuels—and 40 countries decoupling emissions from GDP growth, the momentum for climate action is at risk <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>, <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>, <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>.
+
+### Key Challenges Identified:
+
+*   **Slowing Policy Adoption**: The pace of climate policy adoption and strengthening has slowed to only 1-2% per year, down from 10% annually in previous years <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>, <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>.
+*   **Economic and Geopolitical Strains**: Slower global growth, multiple geopolitical tensions, and rising public debt are straining government budgets, challenging climate action <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
+*   **Shifting Government Priorities**: Climate change often struggles to remain a front-page headline, with government priorities shifting and reflecting changes in administration <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
+*   **Public and Political Support**: There has been pushback from some sectors, such as agriculture in Europe, risking a drop in public and political support <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>. A perception persists that climate action may reduce economic opportunities or that the net-zero transition is not investable <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. Climate change is increasingly politicized, making decarbonization harder globally <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>.
+*   **Innovation Pace and Focus**: While innovation has driven progress, the current pace is insufficient to meet carbon neutrality goals <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>. Climate-related patent filings have decreased as a share of all patenting over the past decade <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>. Efforts often focus on incremental innovation and deployment of existing technologies rather than R&D for new technologies <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
+*   **Weak Governance and Policy Alignment**: There are inadequate channels in government to ensure climate policy is informed by science and brings the public and stakeholders along <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>.
+*   **Short Government Time Horizons**: Due to short election cycles, policy "flip-flops" can occur, hindering consistent long-term climate action <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>.
+*   **[[challenges_in_implementing_missionoriented_projects | Challenges in implementing mission-oriented projects]] and [[challenges_in_implementing_missiondriven_approaches | Challenges in implementing mission-driven approaches]]**:
+    *   **Capacity Constraints**: Governments are often not equipped for the radical, interdisciplinary, and collaborative approach required for systemic change <a class="yt-timestamp" data-t="00:23:36">[00:23:36]</a>. This includes capacity constraints at local levels and narrow KPIs that hinder [[crosssectoral_and_interdisciplinary_collaboration_for_climate_policy | collaboration across departments]] <a class="yt-timestamp" data-t="00:24:42">[00:24:42]</a>.
+    *   **Siloed Approaches**: There's a perception that climate policy is solely the responsibility of "climate people" rather than a cross-cutting, whole-of-government endeavor <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>. Ministries often work in isolation <a class="yt-timestamp" data-t="00:14:12">[00:14:12]</a>.
+    *   **Underdone Public Consultation**: Public consultation and engagement are often insufficient, leading to a risk of backlash and negative impacts on vulnerable communities <a class="yt-timestamp" data-t="00:24:18">[00:24:18]</a>.
+    *   **Bureaucratic Inefficiencies**: Even with high-level support, bureaucratic processes can impede the implementation of climate policies <a class="yt-timestamp" data-t="01:15:17">[01:15:17]</a>.
+    *   **Political and Institutional Barriers**: Specific sectors like energy are highly politically contested, especially around election cycles <a class="yt-timestamp" data-t="01:16:15">[01:16:15]</a>. Geopolitics can also create barriers, as seen when the US pulled out of the Paris Agreement, leading to questions from emerging economies about their own commitments <a class="yt-timestamp" data-t="01:16:47">[01:16:47]</a>.
+    *   **"STI Trap"**: Mission-oriented policies, especially for net-zero, are often still "innovation missions" rather than true transformative missions <a class="yt-timestamp" data-t="01:34:21">[01:34:21]</a>. They tend to be led by science, technology, and innovation (STI) authorities and primarily mobilize STI instruments, leading to a mismatch between ambitious goals and the deployed policy mix <a class="yt-timestamp" data-t="01:34:55">[01:34:55]</a>.
+    *   **Lack of Systematic Mobilization**: While initiatives exist, the involvement and mobilization of communities, the private sector, and non-profits are often not systematic <a class="yt-timestamp" data-t="00:53:08">[00:53:08]</a>.
+    *   **Experimentation Gap**: Experimentation is one of the most lagging areas in climate mitigation reports <a class="yt-timestamp" data-t="00:54:29">[00:54:29]</a>.
+    *   **Ensuring Long-term Commitment**: Maintaining long-term commitment is challenging when new geopolitical issues arise <a class="yt-timestamp" data-t="00:54:48">[00:54:48]</a>. Private investment remains problematic, requiring investor confidence and trust in economic policies <a class="yt-timestamp" data-t="00:55:10">[00:55:10]</a>.
+
+## Opportunities and Advantages of Mission Governance
+
+[[mission_governance_in_climate_policy | Mission governance]] offers a framework to overcome these challenges and enhance the effectiveness, equity, and sustainability of [[climate_change_adaptation_and_mitigation | climate mitigation]] efforts <a class="yt-timestamp" data-t="01:09:11">[01:09:11]</a>, <a class="yt-timestamp" data-t="01:12:21">[01:12:21]</a>, <a class="yt-timestamp" data-t="01:13:13">[01:13:13]</a>.
+
+### Key Opportunities and Advantages:
+
+*   **Clear and Measurable Objectives**: Mission governance establishes clear, measurable, and time-bound objectives, anchoring climate commitments within government strategic planning processes <a class="yt-timestamp" data-t="00:13:41">[00:13:41]</a>, <a class="yt-timestamp" data-t="00:47:39">[00:47:39]</a>. This ensures climate objectives are prioritized at the highest institutional levels and guide resource allocation <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>.
+*   **[[crosssectoral_and_interdisciplinary_collaboration_for_climate_policy | Cross-Sectoral and Interdisciplinary Collaboration]]**: It enables stronger cross-sectoral coordination, allowing ministries and public agencies to align policies coherently around defined climate missions <a class="yt-timestamp" data-t="00:14:08">[00:14:08]</a>. This fosters a "whole-of-government" approach, breaking down silos <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>, <a class="yt-timestamp" data-t="00:23:59">[00:23:59]</a>.
+    *   **Example**: The UK embeds mission governance through a dedicated Cabinet Committee on Climate Change, chaired by the prime minister, ensuring unified direction and coordinated implementation <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>.
+    *   **Example**: France's General Secretariat for Ecological Planning and Sweden's cross-sectoral approaches aim to align actions horizontally across government bodies <a class="yt-timestamp" data-t="00:52:16">[00:52:16]</a>.
+*   **Strengthening Public Official Capabilities**: It emphasizes building and strengthening the capabilities of public officials and institutions, crucial for complex [[climate_change_adaptation_and_mitigation | climate mitigation]] and [[climate_change_adaptation_and_mitigation | adaptation strategies]] <a class="yt-timestamp" data-t="00:14:53">[00:14:53]</a>.
+    *   **Example**: Sweden's Impact Innovation Programs include an accelerator function to build public sector capacity, ensuring officials have the necessary tools, data, and skills <a class="yt-timestamp" data-t="01:15:50">[01:15:50]</a>.
+*   **Evidence-Based Decision Making**: Mission governance integrates robust data and continuous learning into the governance process, allowing governments to measure progress, understand impacts, and adapt policies effectively <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>.
+    *   **Example**: Denmark's "innomissions" explicitly integrate experimentation within mission portfolios for continuous refinement based on evidence <a class="yt-timestamp" data-t="01:17:15">[01:17:15]</a>.
+*   **Stronger Stakeholder Engagement**: It fosters transparency and equity by promoting meaningful engagement of diverse stakeholders, including business, civil society, local communities, and citizens, ensuring policy decisions reflect broad societal interests <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>.
+    *   **Example**: New Zealand's Climate Change Commission has prioritized improving stakeholder engagement to enable greater societal contributions to net-zero emissions <a class="yt-timestamp" data-t="00:18:24">[00:18:24]</a>.
+    *   **Example**: South Africa's Presidential Climate Commission engaged in in-depth consultations with youth, local government, faith-based sectors, and workers to update their Nationally Determined Contributions (NDCs) <a class="yt-timestamp" data-t="01:11:30">[01:11:30]</a>.
+*   **Driving Systemic Transformations**: Modern missions aim to drive systemic transformations across entire socio-technical systems, extending beyond new technologies to include skills, infrastructure, user behaviors, business models (e.g., circular economy), and regulations <a class="yt-timestamp" data-t="00:29:04">[00:29:04]</a>.
+*   **Combining Climate Action with Economic Growth**: Stronger climate action can provide an economic boost, with a projected net gain of 0.2% in global GDP by 2040 <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. When avoided climate damages are factored in, this could reach up to 13% of GDP growth by 2100 <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>.
+    *   **Example**: Denmark's green missions aim to both reach climate goals and increase Danish competitiveness <a class="yt-timestamp" data-t="01:27:08">[01:27:08]</a>.
+*   **Different Scenarios for Implementation**: Various approaches can be used to integrate and implement missions:
+    *   **Gradual Broadening**: Missions learn and broaden their scope by doing, slowly evolving into transition missions <a class="yt-timestamp" data-t="01:37:35">[01:37:35]</a>.
+    *   **Transfer of Leadership**: Mission leadership can be transferred from STI authorities to "challenge owners" (e.g., environment, transport ministries) <a class="yt-timestamp" data-t="01:37:55">[01:37:55]</a>.
+    *   **Dedicated Mission Agencies**: Missions can be led by dedicated agencies reporting to multiple ministries <a class="yt-timestamp" data-t="01:38:26">[01:38:26]</a>.
+    *   **Elevating Missions**: Central government bodies (e.g., Prime Minister's office) can lead missions, closely aligning with broad climate policy agendas <a class="yt-timestamp" data-t="01:39:12">[01:39:12]</a>.
+    *   **Regional/Local Missions**: Operating missions at regional or local levels (micro-missions) can alleviate governance challenges and ensure stronger stakeholder engagement <a class="yt-timestamp" data-t="01:40:28">[01:40:28]</a>.
+
+## The Role of Climate Councils
+
+[[role_of_climate_councils_in_fostering_climate_action | Climate councils]], often part of networks like the International Climate Councils Network (ICCN), are set up to advise governments and parliaments on climate policies <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>, <a class="yt-timestamp" data-t="00:24:21">[00:24:21]</a>.
+
+*   **Advising on Climate Science**: Their key role is to analyze climate science and advise government officials <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+*   **Protecting from Political Tides**: They help protect climate councils from changing political tides, ensuring they remain grounded in evidence as independent advisory bodies <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>.
+*   **Bridging Science and Policy**: Councils bridge the gap between climate science and policy implementation, particularly in harder-to-abate sectors like agriculture and food <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
+*   **Long-term Perspective**: They are crucial for ensuring policy consistency across long time horizons, staying above short election cycles to keep countries focused and politically neutral <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>.
+*   **Anchoring Missions**: Climate councils can play a coordination and anchoring role, particularly when they are high-level bodies at the center of government <a class="yt-timestamp" data-t="02:21:19">[02:21:19]</a>.
+    *   **Example**: South Africa's Presidential Climate Change Commission is chaired by the president, adopted to drive a [[mission_governance_in_climate_policy | missions approach]] <a class="yt-timestamp" data-t="01:09:50">[01:09:50]</a>.
+*   **Facilitating Societal Engagement**: Councils can play a key role in engaging the public, industry, and other stakeholders, helping to build trust in institutions <a class="yt-timestamp" data-t="00:20:15">[00:20:15]</a>.
+
+## Integrating Missions for National Climate Targets
+
+The report "Harnessing Mission Governance to Achieve National Climate Targets" explores how [[integration_of_national_climate_targets_with_missionoriented_approaches | integrating missions into national climate mitigation commitments]] can drive significant change <a class="yt-timestamp" data-t="00:45:18">[00:45:18]</a>. It suggests that [[role_of_climate_councils_in_fostering_climate_action | climate councils]] could have a stronger role in evaluating "mission readiness" and stress-testing ongoing missions against climate targets <a class="yt-timestamp" data-t="00:45:41">[00:45:41]</a>.
+
+A comprehensive [[mission_governance_in_climate_policy | mission governance]] framework should span five pillars:
+1.  **Structures**: Clear mandates, legal and institutional arrangements, and high-level bodies responsible for climate action <a class="yt-timestamp" data-t="00:49:17">[00:49:17]</a>.
+2.  **Strategic Orientation**: Defined roadmaps, sustained political action across electoral cycles, and broad societal engagement <a class="yt-timestamp" data-t="00:51:08">[00:51:08]</a>.
+3.  **Coordination**: Mechanisms for horizontal (across government) and vertical (national to subnational) alignment of targets and instruments <a class="yt-timestamp" data-t="00:52:10">[00:52:10]</a>.
+4.  **Execution**: A broad policy mix, process integration, experimentation, and strong capabilities <a class="yt-timestamp" data-t="00:53:51">[00:53:51]</a>.
+5.  **Resources**: Ensuring long-term public and private financial commitment and shaping markets towards climate goals <a class="yt-timestamp" data-t="00:54:40">[00:54:40]</a>.
+
+While many climate frameworks are good at providing anchoring, roadmaps, and access to broad policy mixes, there are still significant gaps, particularly in private investments, experimentation, mobilization, and complex coordination and process integration actions <a class="yt-timestamp" data-t="00:56:41">[00:56:41]</a>.
+
+The findings advocate for:
+*   Systematically integrating [[mission_governance_in_climate_policy | mission governance]] principles into national climate efforts <a class="yt-timestamp" data-t="00:57:06">[00:57:06]</a>.
+*   Developing targeted missions for specific sub-targets with clear commitments and timelines <a class="yt-timestamp" data-t="00:57:12">[00:57:12]</a>.
+*   Strengthening political support and societal engagement to ensure sustained action, independent of crisis-driven urgency <a class="yt-timestamp" data-t="00:57:27">[00:57:27]</a>.
+*   Enhancing and integrating innovation and experimentation into climate policy <a class="yt-timestamp" data-t="00:57:52">[00:57:52]</a>.
+
+By adopting a [[mission_governance_in_climate_policy | mission-oriented approach]], governments can pursue societal transformation, foster [[crosssectoral_and_interdisciplinary_collaboration_for_climate_policy | radical collaboration]], and ensure that climate goals are integrated across all core government ministries and aligned with national development strategies <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>, <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>, <a class="yt-timestamp" data-t="00:33:10">[00:33:10]</a>.

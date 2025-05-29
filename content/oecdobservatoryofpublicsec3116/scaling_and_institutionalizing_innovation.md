@@ -1,0 +1,57 @@
+---
+title: Scaling and institutionalizing innovation
+videoId: nGjuo-7sUXM
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+In a world experiencing continuous change and increasingly complex issues, governments are looking beyond their borders for solutions to global challenges <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. The COVID-19 crisis, for instance, accelerated digital transformation and the pace of innovation, simultaneously exposing shortcomings in preparedness at the national level <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. While public sector innovation is a key tool for addressing pressing challenges, current government innovation efforts are largely confined to national and local borders <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. This raises the critical question of how governments can improve at innovating together for the public good <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+## Challenges in Scaling Innovation
+
+Despite the clear need for cross-border collaboration and the emergence of innovative projects, significant [[challenges_in_implementing_innovation | barriers]] persist:
+*   **Cultural and Systemic Barriers** Emergent projects and methods are often blocked by cultural and other barriers, making each innovation feel like a one-off effort rather than a standardized process <a class="yt-timestamp" data-t="00:32:23">[00:32:23]</a>, <a class="yt-timestamp" data-t="00:35:00">[00:35:00]</a>. Innovation can often feel "handmade in combat" where project managers must negotiate with various departments without adequate support structures <a class="yt-timestamp" data-t="00:37:51">[00:37:51]</a>.
+*   **Undeveloped Ecosystems** A significant barrier to cross-border government innovation is the lack of developed ecosystems that facilitate collaboration <a class="yt-timestamp" data-t="00:31:54">[00:31:54]</a>, <a class="yt-timestamp" data-t="00:27:41">[00:27:41]</a>.
+*   **Lack of Institutionalization** Unlike scientific and engineering fields where collaboration is normal and discoveries are documented, published, and embedded in training, the public sector often lacks the institutions and mechanisms to consistently gather, share, and apply knowledge from successful and unsuccessful experiments <a class="yt-timestamp" data-t="00:54:46">[00:54:46]</a>. Few governments have stable roles, structures, or funding streams for innovation, let alone for cross-border collaboration <a class="yt-timestamp" data-t="00:35:23">[00:35:23]</a>.
+*   **Budgeting Issues** Pilots are often budgeted without assuming success, leading to delays in scaling up if the pilot proves effective <a class="yt-timestamp" data-t="00:40:48">[00:40:48]</a>.
+*   **Scalability Concerns** Projects often lack consideration for scalability during the design process, making it difficult to apply successful innovations to other contexts <a class="yt-timestamp" data-t="00:27:44">[00:27:44]</a>, <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a>.
+
+## Strategies for Scaling and Institutionalizing Innovation
+
+To move beyond isolated experiments and create sustainable impact, several strategies are crucial for scaling and institutionalizing innovation:
+
+### Building Foundations and Mechanisms
+*   **Legal and Policy Frameworks** Governments can actively change laws to enable and scale innovation. For example, the US had to pass new laws to scale prizes, challenges, and citizen science initiatives <a class="yt-timestamp" data-t="00:39:48">[00:39:48]</a>.
+*   **Shared Infrastructure and Common Platforms** Providing central platforms and shared infrastructure (e.g., Challenge.gov, Data.gov) reduces start-up costs for innovators and offers a one-stop shop for the public, significantly aiding scaling <a class="yt-timestamp" data-t="00:39:59">[00:39:59]</a>. This includes building common methodologies and digital foundations <a class="yt-timestamp" data-t="00:44:00">[00:44:00]</a>, <a class="yt-timestamp" data-t="01:29:07">[01:29:07]</a>.
+*   **Budgeting for Success** When piloting, budgeting should assume success to ensure immediate resources are available for scaling without delays due to budget cycles <a class="yt-timestamp" data-t="00:40:48">[00:40:48]</a>. This also involves ensuring ongoing resources for sustained efforts <a class="yt-timestamp" data-t="00:41:06">[00:41:06]</a>.
+*   **Formal Mechanisms** Developing formal mechanisms like sandboxes and testbeds allows for structured experimentation and wider adoption <a class="yt-timestamp" data-t="02:09:00">[02:09:00]</a>, <a class="yt-timestamp" data-t="02:9:00">[02:9:00]</a>.
+*   **Scalable Design** Integrating scalability into the design process from the outset is crucial for projects aiming for broader impact <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a>.
+
+### Fostering Collaborative Environments
+*   **Communities of Practice** Fostering and supporting communities interested in learning and sharing innovation methods (e.g., around prize competitions or citizen science) is vital <a class="yt-timestamp" data-t="00:40:20">[00:40:20]</a>. This includes training programs and workshops for various levels of government employees to build internal capacity <a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a>.
+*   **Ecosystem Engagement** Understanding and engaging diverse stakeholders within the innovation ecosystem (e.g., universities, businesses, civil society, public sector) is critical <a class="yt-timestamp" data-t="00:28:08">[00:28:08]</a>, <a class="yt-timestamp" data-t="01:03:55">[01:03:55]</a>. This requires active curation and investment in teams to excite and engage the ecosystem <a class="yt-timestamp" data-t="01:04:38">[01:04:38]</a>.
+*   **Cross-border Facilitators and Orchestrators** Developing capabilities for roles that build relationships and bring people together across borders is essential for fostering collaboration <a class="yt-timestamp" data-t="00:28:16">[00:28:16]</a>.
+*   **Collaborative Governance** Establishing clear roles and responsibilities in [[types_of_innovation_within_public_sector_organizations | collaborative]] endeavors is vital <a class="yt-timestamp" data-t="00:28:12">[00:28:12]</a>.
+
+### Learning and Iteration
+*   **Evaluation Mindset** Adopting a real evaluation mindset, including external assessments and impact studies, helps in understanding results (even if not always positive) and learning for future improvements <a class="yt-timestamp" data-t="00:41:27">[00:41:27]</a>.
+*   **Iteration and Learning Loops** Building in continuous learning groups allows participants to learn from themselves and each other <a class="yt-timestamp" data-t="00:27:33">[00:27:33]</a>, <a class="yt-timestamp" data-t="02:45:00">[02:45:00]</a>. This helps in understanding what works and quickly sharing those insights <a class="yt-timestamp" data-t="01:15:53">[01:15:53]</a>.
+*   **"Fail Faster" Mentality** Recognizing that quick failures offer valuable learning opportunities and enable faster progress <a class="yt-timestamp" data-t="00:15:35">[00:15:35]</a>.
+
+## Examples of Scaling and Institutionalizing Innovation
+
+*   **UAE Government Accelerators** The UAE's Government Accelerators program focuses on "accelerated implementation" through 100-day challenges <a class="yt-timestamp" data-t="01:12:04">[01:12:04]</a>. It emphasizes empowering frontline employees and fostering collaboration across entities to solve specific challenges on a pilot basis. The goal is to define a sustainability plan by the end of the 100 days to ensure the solution's longevity and scalability to similar areas <a class="yt-timestamp" data-t="01:13:09">[01:13:09]</a>. This methodology is also shared with other countries through the government exchange program <a class="yt-timestamp" data-t="01:13:48">[01:13:48]</a>.
+*   **NASA's Approach** NASA focuses on creating a support structure to reduce barriers to innovation <a class="yt-timestamp" data-t="00:38:11">[00:38:11]</a>. Their International Space Apps Challenge, celebrating its 10th anniversary, brings together 28,000 participants from 162 countries for a 48-hour hackathon, showcasing the power of open data and collaborative problem-solving globally <a class="yt-timestamp" data-t="01:05:56">[01:05:56]</a>. The Deep Space Food Challenge, a collaboration with the Canadian Space Agency, demonstrates how parallel competitions can address legal restrictions while still fostering global collaboration in marketing and outreach to solve shared problems <a class="yt-timestamp" data-t="01:10:16">[01:10:16]</a>.
+*   **London Office of Technology and Innovation (LOTI)** In London, LOTI was established to foster city-to-city and international collaboration by focusing on "fixing the plumbing" – establishing common methodologies and foundations for data innovation and engagement with the tech community <a class="yt-timestamp" data-t="00:43:38">[00:43:38]</a>. This small team has an outsized impact by organizing and curating engagement with London's 32 boroughs, focusing on those who ascribe to agile principles <a class="yt-timestamp" data-t="01:01:25">[01:01:25]</a>. This creates a cultural movement that encourages others to join <a class="yt-timestamp" data-t="01:20:19">[01:20:19]</a>.
+
+## The Future of Cross-Border Innovation
+
+[[Global trends in innovation | Global trends in innovation]] suggest that cross-border collaboration will continue to strengthen, particularly in addressing shared challenges like climate change (e.g., decarbonization, retrofitting), public health, and food/water security <a class="yt-timestamp" data-t="01:25:13">[01:25:13]</a>, <a class="yt-timestamp" data-t="01:27:19">[01:27:19]</a>. These grand challenges cannot be solved within national boundaries, necessitating new ways of working together <a class="yt-timestamp" data-t="01:25:32">[01:25:32]</a>.
+
+The future will likely see a rise in "mini-lateralism" – flexible collaborations among groups of countries or cities around specific tasks, rather than solely through large, standardized multilateral bodies <a class="yt-timestamp" data-t="00:35:41">[00:35:41]</a>, <a class="yt-timestamp" data-t="01:26:46">[01:26:46]</a>. This will require:
+*   **Institutionalization of Challenge-Based Innovation**: Moving beyond one-off projects to institutionalize and scale social innovation competitions and similar initiatives, linking them closely with policymakers and procurement <a class="yt-timestamp" data-t="01:26:17">[01:26:17]</a>.
+*   **Embracing Collective Intelligence**: Fully utilizing the internet, web, and data capabilities to organize and orchestrate collective intelligence, making it a common practice for all government business <a class="yt-timestamp" data-t="00:55:27">[00:55:27]</a>.
+*   **Prioritizing Collaboration Methodology**: Recognizing that the methodology of collaboration itself is as, if not more, transformative than individual technologies like AI or 5G <a class="yt-timestamp" data-t="01:02:42">[01:02:42]</a>.
+*   **Building Trust**: Developing strong partnerships and trust are fundamental to overcoming procedural and cultural issues in cross-border efforts <a class="yt-timestamp" data-t="01:25:47">[01:25:47]</a>.
+
+Ultimately, to scale and institutionalize innovation, governments must invest in building foundational capabilities, fostering dynamic ecosystems, embedding learning processes, and ensuring that collaboration becomes an inherent part of how public challenges are addressed.

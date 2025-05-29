@@ -1,0 +1,22 @@
+---
+title: Role of anticipatory innovation in artificial intelligence
+videoId: 30hu04ZeoOg
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+[[anticipatory_innovation | Anticipatory innovation]] focuses on [[anticipatory_innovation_and_engaging_with_the_future | engaging with the future]], even though it deals with significant uncertainty regarding what will happen <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>, <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>, <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>, <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. Governments must engage with concepts that are not yet reality because once dominant designs emerge, making changes becomes very difficult <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>, <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>, <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>, <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+
+## Why Governments Need [[anticipatory_innovation | Anticipatory Innovation]]
+
+Governments need to be proactive and analyze various possible futures to influence emerging dominant designs <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>, <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>, <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>, <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>, <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This approach allows them to shape innovations as they emerge <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. Without anticipation, societies can become locked into systems that are hard to alter, similar to how the initial decision on which side of the road cars drive influences all subsequent mobility infrastructure <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>, <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>, <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>, <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>, <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+
+## [[Role of technology in anticipatory innovation | Anticipatory Innovation]] and Artificial Intelligence
+
+Artificial intelligence (AI) is a major contemporary concern where [[anticipatory_innovation | anticipatory innovation]] is crucial <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>, <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. Governments need to determine what technological and ethical solutions are required for AI <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>, <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+
+[[anticipatory_innovation | Anticipatory innovation]] is essential for AI because it allows for the anticipation of different emerging solutions and provides the opportunity to shape these innovations <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>, <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>, <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>, <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>, <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. This includes defining ethical boundaries for artificial intelligence <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>, <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
+
+### The Urgency of Shaping AI's Future
+
+The time to influence these decisions is now, as it will be much harder to do so in ten or fifteen years when AI is widespread or a large portion of the population is using AI-related technologies <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>, <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>, <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>, <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>, <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>, <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>, <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. By anticipating future developments, governments can stay ahead and ensure the best outcomes for their citizens and countries <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>, <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>, <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>, <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.

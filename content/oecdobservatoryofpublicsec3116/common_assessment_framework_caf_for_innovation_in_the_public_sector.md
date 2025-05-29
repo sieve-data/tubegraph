@@ -1,0 +1,84 @@
+---
+title: Common Assessment Framework CAF for innovation in the public sector
+videoId: 63mNjT-dus8
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+The Common Assessment Framework (CAF) is a quality management tool used in the public sector, designed to integrate quality and [[Innovation in the public sector | innovation in the public sector]] to improve public services and better regulation issues <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. It facilitates the design of policies, regulations, and services in an inclusive, co-creative, transparent, accountable, and trustworthy manner, aiming to adjust them to the needs of customers, citizens, and businesses <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+
+## Interconnection of Quality and Innovation
+There is an ongoing discussion on whether [[Innovation in the public sector | innovation]] creates the platform for good quality or if quality practices foster an environment for [[Innovation in the public sector | innovation]] <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. Research indicates that both processes are essential and interconnected, meaning quality and [[Innovation in the public sector | innovation]] should not be treated separately <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. [[Innovation in the public sector | Innovation]] establishes a platform that helps organizations improve and be ready to innovate, fostering a mindset that embraces change and utilizes collective knowledge <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>.
+
+## CAF as a Tool for Organizational Resilience and Innovation
+CAF has proven to be a significant aid for organizations in preparing for uncertainties <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. It supports constant learning and helps organizations understand their performance through a holistic approach that changes the mindset of both the organization and its staff <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. This framework cultivates attributes necessary for public sector organizations to overcome disruptions <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+
+Organizations that used CAF during the pandemic are currently being analyzed by the OECD and the European Commission to draw lessons <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. The 2021 Global Resilience Report by Deloitte identified five characteristics of resilient and [[Innovation in the public sector | innovative]] organizations, all of which are embedded in the CAF model and its principles of excellence <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>:
+*   **Preparedness**: Organizations with clear short- and long-term priorities, strategies, and planning outperform others <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+*   **Adaptability**: Utilizing an adaptable workforce with flexible teams is crucial <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>.
+*   **Collaboration**: Breaking down silos and increasing [[Collaborative approaches in public sector innovation | collaboration]] both internally and externally <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>.
+*   **Trustworthiness**: Building trust between leaders and employees and ensuring transparency <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>.
+*   **Responsibility**: Adapting in response to crises, going beyond just the bottom line <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
+
+CAF has emerged stronger after the crisis, demonstrating its ability to make organizations more resilient when tested by adversity <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>. Organizations that embraced CAF or other quality performance tools have outperformed others <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. [[Innovation in the public sector | Innovation]] and resilience involve both thinking ahead and being well-prepared <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>.
+
+## Case Study: Vienna City Administration
+Vienna City Administration has used CAF for almost 20 years, integrating it with other quality management tools like ISO 9001 and the EFQM excellence model <a class="yt-timestamp" data-t="00:13:20">[00:13:20]</a>. This extensive experience allows them to compare models and identify which works best in different departments <a class="yt-timestamp" data-t="00:14:05">[00:14:05]</a>.
+
+CAF acts as a coach for [[Feedback and improvements in public administration using CAF | organizational development]] and culture <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>. In Vienna's view, [[Innovation in the public sector | innovation]] requires space, a solid foundation of continuous development, and systematic improvement <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a> <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>. CAF helps foster a new organizational culture where everyone contributes to continuous improvement and [[Innovation in the public sector | innovation]] <a class="yt-timestamp" data-t="00:17:10">[00:17:10]</a>. It assists in detecting maturity levels and closing the PDCA (Plan-Do-Check-Act) cycle, leading to higher maturity and cultural development <a class="yt-timestamp" data-t="00:18:15">[00:18:15]</a>.
+
+This systematic improvement leads to increased fitness, agility, and resilience within the organization <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. By working on small improvements, organizations gain significant overall progress, as [[Innovation in the public sector | innovation]] needs a solid basis grounded in the expectations of citizens and partners <a class="yt-timestamp" data-t="00:20:46">[00:20:46]</a> <a class="yt-timestamp" data-t="00:21:27">[00:21:27]</a>. CAF also serves as a doorway to mutual exchange of experience and learning, fostering [[Building effective innovation communities in public services | innovation]] through exposure to successful practices from other organizations <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>.
+
+## Case Study: Krakow City Administration
+Krakow City Office has utilized CAF since 2011, conducting four self-assessments that have consistently led to improvements <a class="yt-timestamp" data-t="00:26:56">[00:26:56]</a>. The 2017 self-assessment specifically focused on communication with clients, identifying strengths like diversified communication channels and addressing improvement areas such as the need for an integrated administrative center, better electronic services, and improved accessibility <a class="yt-timestamp" data-t="00:29:35">[00:29:35]</a>.
+
+Key projects implemented based on CAF self-assessment in Krakow include:
+*   **Taxpayer Portal (2018)**: An electronic tool with an information platform on local taxes and fees, and a personalized communication channel for citizens to check liabilities, file declarations, and pay taxes online <a class="yt-timestamp" data-t="00:31:03">[00:31:03]</a>. This reduced telephone inquiries and became a widely used electronic channel <a class="yt-timestamp" data-t="00:33:40">[00:33:40]</a>.
+*   **Simplifying Official Language (2019)**: Guidelines and training workshops were developed to help officials write and speak in a more inclusive and understandable language, improving citizen comprehension of administrative proceedings <a class="yt-timestamp" data-t="00:34:58">[00:34:58]</a>.
+*   **Parcel Lockers for City Services (2020)**: Partially inspired by the COVID-19 crisis, this initiative allows citizens to receive physical documents and items (e.g., license plates) via parcel lockers, reducing queues and offering 24/7 access <a class="yt-timestamp" data-t="00:37:36">[00:37:36]</a>. This solution is expected to remain useful post-pandemic <a class="yt-timestamp" data-t="00:39:49">[00:39:49]</a>.
+*   **Integrated City Contact Center (2021-2022)**: Designed to gather staff who can answer questions about various city services and municipal units in one place, addressing long phone queues and providing comprehensive information <a class="yt-timestamp" data-t="00:40:31">[00:40:31]</a>.
+
+CAF acted as a "trigger" that inspired these ideas and focused management and employee attention on improving communication with clients <a class="yt-timestamp" data-t="00:43:31">[00:43:31]</a>. The process of improvement is continuous, not a one-time implementation <a class="yt-timestamp" data-t="00:44:02">[00:44:02]</a>. Krakow's initial trigger for using CAF was financial, with European Union funding for new management tools, but the positive results led to continued engagement <a class="yt-timestamp" data-t="00:45:27">[00:45:27]</a>.
+
+## Collaborative Approaches and Peer Learning
+The CAF framework supports [[Collaborative approaches in public sector innovation | collaboration and innovation in public sector]] organizations, extending beyond individual institutions to national networks of CAF users <a class="yt-timestamp" data-t="00:57:08">[00:57:08]</a>.
+
+### Slovenian Ministry of Education, Science and Sports
+After their first CAF self-assessment, the Slovenian Ministry of Education, Science and Sports identified a need for an employee survey to assess satisfaction, organizational climate, and mission understanding <a class="yt-timestamp" data-t="00:49:01">[00:49:01]</a>. They initiated [[Collaborative approaches in public sector innovation | cooperation]] with other public bodies to create a uniform methodology for comparison <a class="yt-timestamp" data-t="00:49:20">[00:49:20]</a>. Seven organizations voluntarily joined, driven by professionalism and a shared desire for improvement <a class="yt-timestamp" data-t="00:49:40">[00:49:40]</a>.
+
+The "Employee Eyes" questionnaire was developed in two months, incorporating rich experiences and operating in an open, honest, and trustworthy environment <a class="yt-timestamp" data-t="00:50:05">[00:50:05]</a>. Objectives included gaining insight into organizational functioning, obtaining strategic information, developing a uniform and adaptable methodology, and identifying benefits and improvement opportunities <a class="yt-timestamp" data-t="00:50:18">[00:50:18]</a>. The questionnaire comprises modular components (organizational climate, employee satisfaction, perception of change, energy vitality, total motivation), allowing organizations to customize its use <a class="yt-timestamp" data-t="00:50:56">[00:50:56]</a>. Questions focused on actionable items that could be included in an action plan <a class="yt-timestamp" data-t="00:52:04">[00:52:04]</a>.
+
+The process emphasizes not only conducting the survey and disseminating results but most importantly, the implementation of survey results through realistic action plans and introducing changes in the work environment <a class="yt-timestamp" data-t="00:53:55">[00:53:55]</a>. This collaborative project demonstrated the added value of cooperation among CAF users in public administration <a class="yt-timestamp" data-t="00:48:26">[00:48:26]</a>.
+
+## CAF and the COVID-19 Crisis
+The COVID-19 pandemic highlighted the need for public administrations to swiftly respond to crises and strengthen their resilience for future shocks <a class="yt-timestamp" data-t="00:57:50">[00:57:50]</a> <a class="yt-timestamp" data-t="01:00:02">[01:00:02]</a>. Key responses included:
+*   Creation of new institutional structures and increased cross-ministerial coordination <a class="yt-timestamp" data-t="01:00:15">[01:00:15]</a>.
+*   Increased government spending and emergency regulations <a class="yt-timestamp" data-t="01:00:35">[01:00:35]</a>.
+*   Implementation of health and sanitary measures, maintaining productivity <a class="yt-timestamp" data-t="01:01:01">[01:01:01]</a>.
+*   Rapid digitalization of services and widespread teleworking <a class="yt-timestamp" data-t="01:01:09">[01:01:09]</a>.
+*   New communication protocols to combat disinformation <a class="yt-timestamp" data-t="01:01:31">[01:01:31]</a>.
+
+Future government priorities for recovery involve restoring growth, protecting the vulnerable, building green economies, ensuring debt sustainability, and creating employment opportunities <a class="yt-timestamp" data-t="01:01:54">[01:01:54]</a>. This requires better spending, addressing global challenges (e.g., climate change), fostering inclusiveness, and rebuilding public trust <a class="yt-timestamp" data-t="01:02:14">[01:02:14]</a>.
+
+Public organizations must be fit for the future by strengthening resilience through preparedness, agility (e.g., rapid digital adoption, remote working), cultivating skills for complex problem-solving and [[Innovation in public services | innovation]], developing foresight capacities, strengthening coordination and communication, and embedding cross-cutting challenges (environment, inclusiveness, digitalization, integrity) <a class="yt-timestamp" data-t="01:02:49">[01:02:49]</a>.
+
+The CAF model helps assess organizations' preparedness for crises and develop resilience across various dimensions, identifying which [[Adaptive innovation in public services | innovations]] will persist post-crisis <a class="yt-timestamp" data-t="01:04:01">[01:04:01]</a>. It examines leadership adaptation, strategic planning with contingency and foresight, teleworking policies, HR adaptation, strong partnerships, and improved procurement processes <a class="yt-timestamp" data-t="01:04:23">[01:04:23]</a>.
+
+An ongoing project by the OECD, funded by the EC and led by Belgium with ten other countries (including Slovenia), aims to:
+1.  Take stock of how public sector organizations managed the crisis <a class="yt-timestamp" data-t="01:05:46">[01:05:46]</a>.
+2.  Highlight and promote [[Innovation in public services | innovations]] that emerged to enhance resilience <a class="yt-timestamp" data-t="01:05:55">[01:05:55]</a>.
+3.  Support the CAF network and strengthen the model's use and development in the post-COVID-19 period <a class="yt-timestamp" data-t="01:06:03">[01:06:03]</a>.
+
+This project involves surveying CAF users to identify challenges and draw lessons, contributing to a synthesis report by the end of 2022 to facilitate peer-to-peer learning <a class="yt-timestamp" data-t="01:06:21">[01:06:21]</a>.
+
+## CAF's Explicit Inclusion of Innovation
+The CAF 2020 model explicitly includes [[Innovation in the public sector | innovation]], with the word "[[Innovation in the public sector | innovation]]" mentioned 50 times <a class="yt-timestamp" data-t="01:09:03">[01:09:03]</a>. It was already present in the 2013 version and reinforced in the 2020 revision <a class="yt-timestamp" data-t="01:09:17">[01:09:17]</a>.
+*   **Principle 6 of Excellence**: Mentions "continued learning, [[Innovation in the public sector | innovation]], and improvement" <a class="yt-timestamp" data-t="01:09:37">[01:09:37]</a>.
+*   **Criterion 2 (Strategy and Planning)**: Explicitly mentions [[Innovation in the public sector | innovation]] <a class="yt-timestamp" data-t="01:09:55">[01:09:55]</a>.
+*   **Sub-criterion 2.4**: Focuses on managing change and [[Innovation in the public sector | innovation]] in an agile way, with mechanisms to score organizational advancement towards an [[Innovation in the public sector | innovative]] state <a class="yt-timestamp" data-t="01:10:03">[01:10:03]</a>.
+
+## Impact on Human Resource Management
+A poll conducted during the session indicated that participants perceived human resource management as the area most affected by the use of CAF <a class="yt-timestamp" data-t="01:10:49">[01:10:49]</a>. This aligns with a Slovenian study on the impact of CAF implementation on human resource management and people, which found a significant impact <a class="yt-timestamp" data-t="01:11:05">[01:11:05]</a>. The COVID-19 crisis has exposed weaknesses in human resource management, highlighting the need for step-by-step improvements to adapt to new working methods, such as remote and hybrid models <a class="yt-timestamp" data-t="01:12:20">[01:12:20]</a>. For example, managing organizational knowledge has become different due to remote working <a class="yt-timestamp" data-t="01:13:36">[01:13:36]</a>.
+
+## Conclusion
+The Common Assessment Framework (CAF) serves as a vital tool for driving both quality and [[Innovation in public services | innovation in public services]]. It provides a structured approach for public sector organizations to assess their performance, foster a culture of continuous improvement, and build resilience in the face of challenges like the COVID-19 pandemic. Through its emphasis on interconnectedness, adaptability, [[Collaborative approaches in public sector innovation | collaboration]], and a focus on actionable improvements, CAF empowers organizations to better serve citizens and businesses.

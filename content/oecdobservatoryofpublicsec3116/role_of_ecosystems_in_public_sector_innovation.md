@@ -1,0 +1,45 @@
+---
+title: Role of ecosystems in public sector innovation
+videoId: W9xL8ZgZX-o
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+The concept of [[public_sector_innovation | managing innovation]] in the public sector, particularly through portfolio approaches, increasingly emphasizes the critical [[the_role_of_public_sector_in_innovation | role of ecosystems]] <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. Global crises over recent years have exposed gaps where more or different types of [[innovation_in_the_public_sector | innovation]] are needed, highlighting that innovation efforts should work more systemically <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. This points to the significant [[the_role_of_public_sector_in_innovation | roles that public sector organizations could and maybe should play in shaping those efforts, especially as part of ecosystem in ecosystems]] <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+
+The move towards ecosystem-based approaches recognizes that complex societal challenges require multi-sector engagement focused around single goals like carbon neutrality <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. For portfolios to drive [[innovation_in_public_sector | innovation]] holistically and systemically, the [[the_role_of_public_sector_in_innovation | public sector's role in an ecosystem of actors]] must be clearly defined <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+
+## Why Ecosystem Approaches are Essential
+
+Working within ecosystems is crucial because the challenges faced by public institutions demand fundamental, structural changes to societies' ways of living <a class="yt-timestamp" data-t="01:08:58">[01:08:58]</a>. This necessitates approaches and broad engagement coherent with the scale and reach of these problems <a class="yt-timestamp" data-t="01:09:03">[01:09:03]</a>.
+
+### Characteristics of Ecosystem-Oriented Public Sector Innovation
+
+A portfolio approach within an ecosystem involves:
+*   **Simultaneous, Connected Innovations** It approaches transformation by deploying many different innovations together, simultaneously, and in connected ways <a class="yt-timestamp" data-t="00:27:49">[00:27:49]</a>. This means embracing a whole range of diverse examples, addressing various intervention points like acupuncture points in a city <a class="yt-timestamp" data-t="00:28:19">[00:28:19]</a>. For example, a city's decarbonization efforts would involve innovations in water treatment, digital infrastructure for retrofit, rewilding urban environments, and participatory energy generation <a class="yt-timestamp" data-t="00:29:15">[00:29:15]</a>.
+*   **Systemic Thinking** It requires sustained and systematic work to construct a frame for systemic approaches, build a portfolio, and orchestrate relationships <a class="yt-timestamp" data-t="00:31:01">[00:31:01]</a>. This includes taking the time to understand and think in terms of systems, dependencies, and interdependencies <a class="yt-timestamp" data-t="00:32:06">[00:32:06]</a>.
+*   **Shared Intent over Objectives** Agreeing on an "intent" rather than rigid objectives is vital <a class="yt-timestamp" data-t="00:31:15">[00:31:15]</a>. This common shared commitment to transformation acknowledges that the precise destination is often unclear <a class="yt-timestamp" data-t="00:31:27">[00:31:27]</a>. It's about learning by doing and fostering experimentation and exploration of local relevance <a class="yt-timestamp" data-t="00:31:48">[00:31:48]</a>. Such shared intent is ideally codified into policy <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>.
+*   **Visual Framing** Creating a visual, contextual, and systemic frame helps actors see how different initiatives (e.g., transport, community gardens, aging population healthcare) relate within the larger whole <a class="yt-timestamp" data-t="00:32:49">[00:32:49]</a>. This deliberate work helps resist the urge to jump directly to solutions and delivers immediate results <a class="yt-timestamp" data-t="00:34:03">[00:34:03]</a>.
+*   **Budget Flexibility and Possibility** Deliberately creating spaces for flexibility helps remove the fear that a new program will compete with existing ones <a class="yt-timestamp" data-t="00:34:30">[00:34:30]</a>. Instead, it allows many programs to meet and people to integrate their own objectives <a class="yt-timestamp" data-t="00:35:10">[00:35:10]</a>. Recognizing complexity as a feature, not a bug, unleashes possibilities and engagement <a class="yt-timestamp" data-t="00:34:50">[00:34:50]</a>.
+*   **Continuous Sense-Making and Learning** A portfolio comes to life when actively connected to sense-making, extracting learning from diverse initiatives, and interrogating their relationships <a class="yt-timestamp" data-t="00:35:22">[00:35:22]</a>. This disciplined practice yields actionable intelligence and decision support, directly linking on-the-ground [[innovation_in_public_sector | innovation]] to public sector decision-making <a class="yt-timestamp" data-t="00:35:53">[00:35:53]</a>.
+
+## The Public Sector's Role in Ecosystems
+
+Governments inherently represent ecosystems, even if often structured linearly <a class="yt-timestamp" data-t="01:09:30">[01:09:30]</a>. Therefore, the focus should be on enabling public bodies to build capability and shift mindsets to embrace ecosystem roles <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>.
+
+Key roles and needs for public sector bodies in steering ecosystems include:
+*   **Challenge Ownership:** Holding a set of accountabilities across political cycles and generations <a class="yt-timestamp" data-t="01:10:08">[01:10:08]</a>.
+*   **Orchestration:** Being proficient at joining dots, bridging, convening, connecting, and facilitating <a class="yt-timestamp" data-t="01:10:15">[01:10:15]</a>.
+*   **Engagement with Activists and Advocates:** Working with diverse interests that need to be braided into systemic change <a class="yt-timestamp" data-t="01:10:26">[01:10:26]</a>.
+*   **Radical Collaboration:** Actively designing for and rewarding collaboration as an explicit requirement, both within public bodies and across local, regional, and national decision-making frames <a class="yt-timestamp" data-t="01:11:10">[01:11:10]</a>.
+*   **Leveraging Technology:** Using technologies like AI to look across relationships and facilitate radical collaboration, rather than reinforcing silos <a class="yt-timestamp" data-t="01:11:35">[01:11:35]</a>.
+
+This approach transforms the role of a "portfolio manager" from a strict project manager to more of a "gardener" or "orchestrator" <a class="yt-timestamp" data-t="00:56:25">[00:56:25]</a>. Such individuals or entities act as editors, combining and connecting ideas, and are responsible for the "editorial line" that defines the quality and impact of the work <a class="yt-timestamp" data-t="00:57:27">[00:57:27]</a>.
+
+## Challenges and Solutions for Ecosystem-Oriented Public Sector Innovation
+
+*   **Funding Mechanisms:** Traditional funding mechanisms often limit [[innovation_in_public_sector | innovation]] to individual projects and measurable deliverables, hindering the flexibility needed for portfolios <a class="yt-timestamp" data-t="00:49:04">[00:49:04]</a>. The ideal is "transformational capital" that invests in the portfolio's capacity to induce systemic effects, enabling investment in the overall process rather than isolated projects <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>.
+*   **Organizational Culture:** Many public administrations create [[public_sector_innovation | innovation]] units aiming to change others, but are reluctant to challenge their own ways of working <a class="yt-timestamp" data-t="01:03:19">[01:03:19]</a>. Overcoming this requires creating spaces for suspending the need for immediate results and fostering a culture of continuous learning and adaptation <a class="yt-timestamp" data-t="01:05:06">[01:05:06]</a>. Bridging cultural gaps, perhaps through intermediary labs that connect public administrations with citizens and other stakeholders, can be effective <a class="yt-timestamp" data-t="01:05:27">[01:05:27]</a>.
+*   **Identity Shift:** For public sector organizations, embracing ecosystem approaches means shifting identity from a "solution provider" to a "gardener" or facilitator <a class="yt-timestamp" data-t="01:01:11">[01:01:11]</a>. This involves changing decision-making patterns and investing time in creating shared mental models that hold the organization together even when unexpected events occur <a class="yt-timestamp" data-t="01:02:08">[01:02:08]</a>.
+
+This emerging practice of portfolio management in the public sector, with its emphasis on ecosystems, marks a crucial shift from merely supporting decisions to enabling continuous learning and adaptation within complex environments <a class="yt-timestamp" data-t="01:12:41">[01:12:41]</a>.

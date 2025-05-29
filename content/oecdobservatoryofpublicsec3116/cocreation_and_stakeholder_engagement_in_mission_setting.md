@@ -1,0 +1,49 @@
+---
+title: Cocreation and stakeholder engagement in mission setting
+videoId: -KQokCATILo
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+[[missionoriented_approaches_and_cocreation | Mission-oriented innovation]] is a concept designed to tackle complex societal challenges and urgent problems faced by the public sector and societies today <a class="yt-timestamp" data-t="04:02:49">[04:02:49]</a>. A fundamental aspect of successfully implementing these missions is [[cocreation_and_international_collaboration | cocreation]] and broad [[stakeholder_engagement_in_innovation | stakeholder engagement]] from the outset <a class="yt-timestamp" data-t="08:00:54">[08:00:54]</a>.
+
+## The Foundation of Mission-Oriented Innovation
+
+The Institute for Innovation and Public Purpose (IIPP) at UCL, led by Professor Mariana Mazzucato, advocates for a "market shaping" or "market co-creating" framework, moving beyond a traditional "market fixing" approach <a class="yt-timestamp" data-t="07:44:00">[07:44:00]</a> <a class="yt-timestamp" data-t="07:46:19">[07:46:19]</a> <a class="yt-timestamp" data-t="16:16:16">[16:16:16]</a>. This approach positions public and private sectors as co-creators of markets, with purpose at the core of the process <a class="yt-timestamp" data-t="16:31:00">[16:31:00]</a>. Missions are seen as practical ways to implement this idea of public and private co-creation <a class="yt-timestamp" data-t="16:25:21">[16:25:21]</a>. No mission can be achieved by a single public or private actor alone; it inherently requires working together <a class="yt-timestamp" data-t="19:29:05">[19:29:05]</a>.
+
+Key elements of this [[importance_of_cocreation_in_public_policy | cocreation-driven policy]] include:
+*   **Market Co-creation:** Shifting from fixing market failures to actively shaping and creating new markets <a class="yt-timestamp" data-t="25:29:00">[25:29:00]</a>.
+*   **Risk and Reward Sharing:** Moving away from the public sector merely "de-risking" private actors, to actively sharing risks and welcoming uncertainty, which then prompts discussions about sharing rewards <a class="yt-timestamp" data-t="21:18:31">[21:18:31]</a> <a class="yt-timestamp" data-t="21:26:00">[21:26:00]</a>.
+*   **Directionality:** Deliberately tilting the direction of growth towards specific goals, such as the Sustainable Development Goals (SDGs) <a class="yt-timestamp" data-t="26:15:00">[26:15:00]</a>.
+*   **Public Sector Capabilities:** Recognizing the need for strong internal capabilities within the public sector to lead and facilitate this co-creative process <a class="yt-timestamp" data-t="26:27:00">[26:27:00]</a>.
+
+The process of mission creation itself is described as a long and sequential one, often building from the bottom-up where projects help define targets and objectives <a class="yt-timestamp" data-t="01:04:06">[01:04:06]</a> <a class="yt-timestamp" data-t="01:05:01">[01:05:01]</a>.
+
+## Stakeholder Engagement in Practice
+
+Effective [[stakeholder_engagement_in_innovation | stakeholder engagement]] and [[cocreation_and_international_collaboration | cocreation]] are vital across different levels of mission implementation:
+
+### Multi-Level and Cross-Sectoral Engagement
+Missions require cross-disciplinary and cross-actor engagement, involving public, private, and third sectors <a class="yt-timestamp" data-t="29:53:00">[29:53:00]</a>. This means involving actors from across the entire innovation chain <a class="yt-timestamp" data-t="23:53:00">[23:53:00]</a>. This approach encourages multiple [[missionoriented_approaches_and_cocreation | bottom-up experimentation]] and solutions <a class="yt-timestamp" data-t="30:01:00">[30:01:00]</a>.
+
+The "quadruple helix" model of engagement integrates researchers, entrepreneurs, government, and crucially, citizens, throughout the entire innovation chain <a class="yt-timestamp" data-t="01:41:40">[01:41:40]</a> <a class="yt-timestamp" data-t="01:42:02">[01:42:02]</a>.
+
+### Examples of Engagement and Cocreation:
+
+*   **Sweden (Vinnova):** Missions began with an open process in pilot areas like mobility and food <a class="yt-timestamp" data-t="01:13:11">[01:13:11]</a>. Workshops involved local transport authorities, companies, social sector actors, and citizens, focusing on "experts in everyday life" <a class="yt-timestamp" data-t="01:13:35">[01:13:35]</a>. For instance, in redesigning streets, school children were engaged as urban designers <a class="yt-timestamp" data-t="01:16:27">[01:16:27]</a>. The goal is to build a very participative environment around local decisions <a class="yt-timestamp" data-t="01:18:07">[01:18:07]</a>.
+*   **Spain (ENISA):** ENISA focuses on industrial and business perspectives, emphasizing a [[missionoriented_approaches_and_cocreation | bottom-up discovery process]] coordinated through conversations with ecosystems, local governments, experts, and sectoral associations <a class="yt-timestamp" data-t="01:28:22">[01:28:22]</a>. They leverage their experience with 6,000 innovative companies and startups <a class="yt-timestamp" data-t="01:25:08">[01:25:08]</a>. The approach encourages local entrepreneurship ecosystem networks as crucial nodes for change <a class="yt-timestamp" data-t="01:28:40">[01:28:40]</a>.
+*   **Netherlands (Health Holland):** In the health and care sector, the central mission focuses on living longer in good health and decreasing health inequalities <a class="yt-timestamp" data-t="01:40:53">[01:40:53]</a>. [[collaborative_frameworks_in_health_missions | Co-creation]] is achieved by working with people where the "sense of urgency" is highest <a class="yt-timestamp" data-t="01:42:49">[01:42:49]</a>. They facilitate connections between local initiatives and national institutes <a class="yt-timestamp" data-t="01:43:03">[01:43:03]</a>. A notable example is Tom de Luise, a healthcare organization that invited the entire village to co-create solutions for people with dementia, involving bakeries, neighbors, municipalities, research institutes, and companies <a class="yt-timestamp" data-t="01:45:10">[01:45:10]</a>.
+*   **Royal Academy of Engineering (UK):** Engineering X aims to tackle global challenges by leveraging its vast global networks and engineering expertise <a class="yt-timestamp" data-t="01:49:42">[01:49:42]</a>. For its "safer end of engineered life" mission, a global workshop was convened in London, bringing together workers' rights advocates, trade unions, policymakers, regulators, oil and gas majors, and academic groups <a class="yt-timestamp" data-t="01:57:52">[01:57:52]</a>. The process focuses on building collective agreement and intelligence by leveraging "networks of networks" <a class="yt-timestamp" data-t="01:59:31">[01:59:31]</a>. They emphasize being open and exploratory, continuously asking who else should be involved <a class="yt-timestamp" data-t="01:59:49">[01:59:49]</a>.
+
+## Challenges in Co-creation and Engagement
+
+Despite the benefits, significant [[challenges_in_coordinating_stakeholders_in_mission_oriented_policies | challenges in coordinating stakeholders]] exist:
+*   **Siloed Structures:** Government structures often incentivize maintaining silos, making cross-departmental collaboration difficult <a class="yt-timestamp" data-t="01:19:10">[01:19:10]</a> <a class="yt-timestamp" data-t="01:22:15">[01:22:15]</a>.
+*   **Power Dynamics:** Strong tensions and power conflicts can arise within multi-level and cross-agency governance structures <a class="yt-timestamp" data-t="01:05:29">[01:05:29]</a>.
+*   **Balancing Top-Down and Bottom-Up:** While a clear, ambitious direction is needed, missions must also enable bottom-up experimentation and be decided upon by diverse participants <a class="yt-timestamp" data-t="08:44:00">[08:44:00]</a> <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>.
+*   **Time and Urgency:** Balancing the time needed for thorough co-creation and problem definition with the urgency to deliver solutions <a class="yt-timestamp" data-t="02:09:36">[02:09:36]</a>. Co-creation processes for a mission can take months to over a year, depending on the scope and resources <a class="yt-timestamp" data-t="02:11:40">[02:11:40]</a> <a class="yt-timestamp" data-t="02:13:15">[02:13:15]</a> <a class="yt-timestamp" data-t="02:15:51">[02:15:51]</a>.
+*   **Bureaucracy and Administrative Instruments:** Existing administrative structures and rules, including procurement processes, can be rigid and anti-collaboration <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a> <a class="yt-timestamp" data-t="01:33:33">[01:33:33]</a>.
+*   **Inclusive Voices:** Ensuring that underrepresented voices, those who don't normally have a say, are heard is crucial to mitigate unintended consequences and ensure equitable impact <a class="yt-timestamp" data-t="02:03:29">[02:03:29]</a> <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>.
+*   **Terminology and Communication:** Not all stakeholders need to grasp the entire mission concept or specific terminology from the outset. It's important to speak in their language and build the full understanding as relationships develop <a class="yt-timestamp" data-t="02:07:33">[02:07:33]</a>.
+
+Ultimately, successful [[cocreation_and_international_collaboration | cocreation]] and [[stakeholder_engagement_in_innovation | stakeholder engagement]] in mission setting require a focus on building trusted personal relationships, mutual understanding, and a shared vision, as these are often more critical than funding or intellectual property in driving impactful collaborations <a class="yt-timestamp" data-t="02:05:37">[02:05:37]</a>.

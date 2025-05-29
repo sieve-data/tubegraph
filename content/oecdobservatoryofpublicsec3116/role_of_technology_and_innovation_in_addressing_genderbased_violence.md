@@ -1,0 +1,57 @@
+---
+title: Role of technology and innovation in addressing genderbased violence
+videoId: 4XJ2WQTYXuc
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+## Introduction
+The current global crisis has presented an opportunity to transform governmental approaches for the better, building on lessons learned during the pandemic <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. Gender-based violence (GBV) is a topic of profound importance, often referred to as a "shadow pandemic" due to its widespread nature, with over one-third of women estimated to experience some form of violence at least once in their lifetimes even before the crisis <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>. The pandemic has exacerbated this crisis worldwide, leading to significantly increased rates of GBV, especially during lockdowns when many women and girls were confined with their abusers <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>. This highlights the urgent need for governments to plan more strategically and act proactively when it comes to GBV, particularly during crises <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+
+## Exacerbation of GBV During Crisis
+Even prior to the pandemic, governments struggled with addressing domestic violence and child abuse, facing a lack of resources and efficient methodologies <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>. The pandemic significantly increased pressure on governments and within families, with risk factors such as job loss, financial insecurity, and confinement with a violent partner contributing to heightened violence <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>. Initially, many governments focused on other crisis measures, neglecting the specific challenges faced by victims of domestic violence <a class="yt-timestamp" data-t="00:15:27">[00:15:27]</a>.
+
+In Chile, there was a 250% increase in calls to GBV hotlines during lockdowns <a class="yt-timestamp" data-t="00:18:52">[00:18:52]</a>. While Switzerland did not observe a general increase in police-reported domestic violence cases, there was an increase in phone calls to various centers, though not always specifically about domestic violence <a class="yt-timestamp" data-t="00:30:02">[00:30:02]</a>. Furthermore, some areas saw an increase in the severity of incidents, with more severe injuries observed in hospitals, such as broken legs or arms in children <a class="yt-timestamp" data-t="00:42:02">[00:42:02]</a>.
+
+## Role of Innovation and Technology
+The crisis has allowed countries to identify key bottlenecks in their response systems and foster [[role_of_innovation_in_public_administration | important innovations]] <a class="yt-timestamp" data-t="00:19:02">[00:19:02]</a>.
+
+### Leveraging Technology and New Tools
+A critical aspect of the response has been [[role_of_digital_advancements_in_public_sector_innovation | leveraging technology and new tools]] to create new communication channels with survivors and bring justice closer to them <a class="yt-timestamp" data-t="00:19:18">[00:19:18]</a>.
+
+*   **Online Consultations and Virtual Coordination**
+    *   The existing multi-disciplinary approach of Family Justice Centers provided a strong foundation to transition to online consultations for imminent domestic violence or child abuse situations <a class="yt-timestamp" data-t="00:36:04">[00:36:04]</a>. In Antwerp, a Family Justice Center quickly adapted its operations to a central and virtual coordination role <a class="yt-timestamp" data-t="00:35:22">[00:35:22]</a>. This shift was supported by established cooperation with various services including police, justice, and social help centers <a class="yt-timestamp" data-t="00:35:39">[00:35:39]</a>.
+    *   Online consultations with survivors can be challenging and require flexible and creative solutions from professionals <a class="yt-timestamp" data-t="00:39:13">[00:39:13]</a>. For example, "sidewalk conversations" or meetings at special public places were arranged when home visits were not possible <a class="yt-timestamp" data-t="00:40:20">[00:40:20]</a>.
+*   **New Communication Channels in Chile**
+    *   Chile developed new silent helplines, including a WhatsApp line and an online website, which were non-existent before the pandemic but will be permanently kept due to their effectiveness in providing security and privacy <a class="yt-timestamp" data-t="00:48:21">[00:48:21]</a>.
+    *   A pilot program is underway for women to send SMS messages to hotlines, specifically targeting populations without smartphones <a class="yt-timestamp" data-t="00:49:08">[00:49:08]</a>.
+    *   The public prosecutor's office developed digital platforms for filing GBV complaints and extending protection measures, as well as systems for online guidance for victims <a class="yt-timestamp" data-t="01:07:32">[01:07:32]</a>.
+*   **Widespread Information Dissemination**
+    *   In Chile, helpline information was included in daily COVID-19 sanitary reports on national TV and displayed during news coverage of GBV cases <a class="yt-timestamp" data-t="00:49:33">[00:49:33]</a>.
+    *   Switzerland launched a poster campaign in 13 languages, available for repeated use during crises, and a social media campaign that reached about 1 million people <a class="yt-timestamp" data-t="01:12:51">[01:12:51]</a>.
+    *   A national website for survivors, available in different languages, was also utilized <a class="yt-timestamp" data-t="01:13:02">[01:13:02]</a>.
+*   **Partnerships for Broader Reach**
+    *   Chile partnered with Banco Estado (the state bank) to make GBV prevention information available at their extensive network of over 30,000 local banking shops across the country <a class="yt-timestamp" data-t="01:51:28">[01:51:28]</a>.
+    *   An alliance with pharmacies was initially attempted to provide access for women without phones but was later transformed into an information point due to the extensive training required for all personnel <a class="yt-timestamp" data-t="00:48:26">[00:48:26]</a>.
+    *   Partnerships with the private sector through business associations aim to make them key actors in prevention and detection of GBV among their employees, providing guidelines, protocols, and training <a class="yt-timestamp" data-t="01:51:57">[01:51:57]</a>.
+
+### Data and Evaluation
+The pandemic has highlighted the [[importance_of_data_communication_and_media_in_combating_genderbased_violence | importance of data]] for developing evidence-based policy responses <a class="yt-timestamp" data-t="01:18:38">[01:18:38]</a>.
+*   Switzerland's task force regularly contacted the statistical office and health office to assess data and ensure actions were appropriate <a class="yt-timestamp" data-t="00:56:45">[00:56:45]</a>.
+*   The need for better data in crisis situations was emphasized to identify target groups and develop efficient measures <a class="yt-timestamp" data-t="01:13:42">[01:13:42]</a>. There is a challenge in obtaining sound, strong, and reliable short-term data for immediate action <a class="yt-timestamp" data-t="01:14:03">[01:14:03]</a>.
+*   In Chile, a project with the World Bank is identifying bottlenecks and gaps in the GBV response system to improve coordination and move towards a more survivor-centric approach, aiming to develop a single registry or platform to unify relevant information and data to avoid secondary victimization <a class="yt-timestamp" data-t="01:08:04">[01:08:04]</a>.
+
+## Whole-of-Society Approach and Survivor-Centric Services
+Governments must recognize that GBV needs to be addressed as a society-wide issue, not solely by gender departments <a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>. A [[wholeofgovernment_approaches_to_genderbased_violence | whole-of-government approach]] is crucial, requiring political will from the highest levels <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a>. This includes ensuring all GBV-related services are declared essential and that protection measures are automatically extended during crises <a class="yt-timestamp" data-t="00:47:41">[00:47:41]</a>.
+
+### Key Principles for Service Delivery
+*   **Public Communication**: Governments should publicly declare that domestic violence and child abuse will never be accepted, and that support services remain open <a class="yt-timestamp" data-t="01:10:07">[01:10:07]</a>. This includes making exceptions to lockdown rules for victims seeking help <a class="yt-timestamp" data-t="01:00:23">[01:00:23]</a>.
+*   **Listening to Survivors**: It is critical to listen to survivors and use their experiences to improve existing services <a class="yt-timestamp" data-t="01:02:26">[01:02:26]</a>. Focus groups with survivors have been invaluable in developing effective models <a class="yt-timestamp" data-t="01:02:42">[01:02:42]</a>. Professionals should ask survivors what they need to place them at the center of the response <a class="yt-timestamp" data-t="01:03:30">[01:03:30]</a>.
+*   **Adopting Proven Models**: Rather than reinventing solutions, governments should adopt and adapt effective approaches that have been proven successful elsewhere, such as the Family Justice Center model <a class="yt-timestamp" data-t="01:01:15">[01:01:15]</a>.
+*   **Promoting Hope**: Services should offer survivors hope by providing a perspective for a better future and empowering them to work towards it <a class="yt-timestamp" data-t="01:04:03">[01:04:03]</a>.
+*   **Targeted Outreach**: Policies should account for groups of women more likely to be subjected to violence, such as women with disabilities or migrant women, by making helplines and information accessible in multiple languages and formats <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>.
+*   **Engaging Men and Boys**: Chile is developing a platform with online courses on positive masculinity to engage men and boys in prevention, emphasizing their responsibility to not engage in GBV <a class="yt-timestamp" data-t="01:09:27">[01:09:27]</a>.
+*   **Public Awareness**: Chile is creating a platform called "Chile Alerta" to promote greater awareness about GBV across society through courses and information on different types of violence, reinforcing the message that everyone is an active player in detection and prevention <a class="yt-timestamp" data-t="01:09:54">[01:09:54]</a>.
+
+## Continuous Learning and Adaptation
+The pandemic has allowed for reflection on what worked and what didn't <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>. Key lessons include the importance of coordination mechanisms that can be rapidly scaled up in crisis times <a class="yt-timestamp" data-t="00:56:10">[00:56:10]</a>. Governments must also ensure links with other task forces (e.g., health, economic) to integrate the gender and domestic violence perspectives <a class="yt-timestamp" data-t="00:57:11">[00:57:11]</a>. Collecting and sharing successful local practices in a "toolkit" can provide valuable resources, recognizing that "one size fits all" solutions are not effective <a class="yt-timestamp" data-t="00:57:42">[00:57:42]</a>. Ongoing evaluation and [[role_of_innovation_ecosystems_during_a_crisis | continuous learning]] are crucial for adapting and improving responses <a class="yt-timestamp" data-t="01:39:35">[01:39:35]</a>.

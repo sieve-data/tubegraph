@@ -1,0 +1,54 @@
+---
+title: Government and technology partnerships
+videoId: HrwPuLTdHag
+---
+
+From: [[oecdobservatoryofpublicsec3116]] <br/> 
+
+Government entities globally are increasingly leveraging [[publicprivate_partnerships_for_innovation | collaboration and public sector partnerships]] with technology companies, academia, and citizens to drive innovation, modernize public services, and address complex societal challenges [00:00:19](<a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. These efforts aim to move beyond traditional bureaucratic approaches, fostering a culture of agility, efficiency, and forward-thinking in public administration [00:11:58](<a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
+
+## International Collaboration for Innovation Trends
+
+Since 2016, the OECD's Observatory of Public Sector Innovation (OPSI) and the UAE's Mohammed bin Rashid Center for Government Innovation (MBRCGI) have partnered to produce a series of reports on [[public_sector_innovation_and_collaboration | public sector innovation]] [00:01:27](<a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. This partnership has resulted in 11 reports, highlighting a shift from isolated innovation pockets to more systemic and technologically advanced approaches within governments [00:01:39](<a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>. The collaboration is vital for "generating intelligence for public good," helping policymakers understand national and global trends and their implications [00:08:23](<a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>. The 2023 Trends report is based on nearly 1,100 cases of innovation from 94 countries, collected through a global crowdsourcing exercise and OPSI's own research [00:02:12](<a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>, [00:02:22](<a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
+
+The Mohammed bin Rashid Center for Government Innovation actively stimulates and enriches a culture of innovation within the UAE government, including instituting Chief Innovation Officers in every ministry [00:06:33](<a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>, [00:07:11](<a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. The annual World Government Summit in Dubai serves as a platform to launch these reports and showcase innovations through "Edge of Government" pavilions, translating complex government innovations into interactive experiences to inspire replication globally [00:09:13](<a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>, [00:09:53](<a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>.
+
+## Examples of Government and Technology Partnerships
+
+### UK Home Office: Accelerated Capability Environment (ACE)
+
+The UK Home Office established the Accelerated Capability Environment (ACE) in 2017 to find new ways for the public sector to keep pace with contemporary science, technology, digital opportunities, and data [00:12:28](<a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. ACE operates as a "startup" sponsored by the Home Office, driven by a business-like model that requires delivering value to public sector customers to fund its operations [00:15:53](<a class="yt-timestamp" data-t="00:15:53">[00:15:53]</a>, [00:19:22](<a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>.
+
+[!NOTE] ACE is a prime example of [[publicprivate_partnerships in innovation | public-private partnerships in innovation]] and [[publicprivate_collaboration_in_technology_innovation | public-private collaboration in technology innovation]].
+
+Key aspects of the ACE model include:
+*   **Fluid Platform:** It brings together hundreds of organizations, including 340+ private sector companies (80% SMEs), academic institutions, and third-sector non-profits, to address public good outcomes [00:16:10](<a class="yt-timestamp" data-t="00:16:10">[00:16:10]</a>, [00:16:34](<a class="yt-timestamp" data-t="00:16:34">[00:16:34]</a>.
+*   **Agile and Mission-Led:** All work is driven by an agile methodology and focused on specific public service outcomes, ensuring responsiveness to user needs [00:17:31](<a class="yt-timestamp" data-t="00:17:31">[00:17:31]</a>, [00:18:01](<a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>.
+*   **Secure Technology Sharing:** Utilizes secure commodity cloud infrastructure to safely share data, technology, and intellectual property (IP) among engaged partners [00:18:13](<a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>.
+*   **Impact:** ACE has grown significantly, delivering over 80 commissions for dozens of public sector organizations annually, with three-quarters of the work coming from SMEs and academia [00:19:50](<a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a>, [00:16:47](<a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>. It has also demonstrated significant cost savings and fosters co-investment from partners [00:20:17](<a class="yt-timestamp" data-t="00:20:17">[00:20:17]</a>, [00:20:39](<a class="yt-timestamp" data-t="00:20:39">[00:20:39]</a>.
+
+Examples of ACE's work include improving the UK government's pandemic response, creating age assurance standards for online activities to protect children, and developing new technologies to assist victims of modern slavery and gender-based violence [00:20:55](<a class="yt-timestamp" data-t="00:20:55">[00:20:55]</a>, [00:21:10](<a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a>, [00:21:24](<a class="yt-timestamp" data-t="00:21:24">[00:21:24]</a>.
+
+### City of Espoo, Finland: Future Mentors Program
+
+The City of Espoo's "Future Mentors Program" is a reversed mentoring initiative where small groups of young people mentor city decision-makers [00:25:47](<a class="yt-timestamp" data-t="00:25:47">[00:25:47]</a>. The program aims to bridge the gap between youth and local decision-makers, fostering dialogue and mutual understanding regarding the sustainable future of their city [00:25:55](<a class="yt-timestamp" data-t="00:25:55">[00:25:55]</a>. Although not explicitly a "technology partnership," the program utilizes a virtual platform for networking and online sessions with sustainable development experts, demonstrating [[public_sector_innovation_and_collaboration | public sector innovation]] in engagement [00:27:19](<a class="yt-timestamp" data-t="00:27:19">[00:27:19]</a>.
+
+### Loughborough University: Digital Decarbonization
+
+Researchers from Loughborough University are exploring the carbon footprint of data, a growing concern in the digital age [00:34:39](<a class="yt-timestamp" data-t="00:34:39">[00:34:39]</a>. Data centers, which house cloud storage, account for approximately 3% of global carbon emissions, exceeding the aviation industry's footprint [00:35:46](<a class="yt-timestamp" data-t="00:35:46">[00:35:46]</a>, [00:36:03](<a class="yt-timestamp" data-t="00:36:03">[00:36:03]</a>.
+
+[!NOTE] This research highlights the critical [[role_of_technology_in_government_modernization | role of technology in government modernization]], and the need for new [[government_innovation_strategies | government innovation strategies]] to address the environmental impact of digital operations.
+
+The challenge is exacerbated by the rapid growth of data, with 65% being "dark data" (used once or never) and an additional 15% being outdated, all consuming power and energy [00:39:02](<a class="yt-timestamp" data-t="00:39:02">[00:39:02]</a>, [00:39:24](<a class="yt-timestamp" data-t="00:39:24">[00:39:24]</a>. The university is working with the National Physical Laboratory to develop a globally agreed measurement for data carbon emissions, aiming to integrate it into government policies [00:39:50](<a class="yt-timestamp" data-t="00:39:50">[00:39:50]</a>. They propose a "data carbon ladder" as a proactive approach to diagnose and address data's carbon footprint from origin to end-user [00:42:25](<a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a>.
+
+### Government of Serbia: National AI Supercomputing Platform
+
+Serbia has rapidly developed its tech ecosystem since 2017, with the ICT sector becoming the largest net exporting sector [00:45:01](<a class="yt-timestamp" data-t="00:45:01">[00:45:01]</a>, [00:45:50](<a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>. Recognizing the [[importance_of_government_involvement_in_innovation | importance of government involvement in innovation]], Serbia launched a national AI strategy in 2019, becoming the first country in Southeastern Europe to do so [00:47:57](<a class="yt-timestamp" data-t="00:47:57">[00:47:57]</a>.
+
+[!NOTE] This initiative demonstrates [[governance_and_technology_interaction | governance and technology interaction]] at a national level, with [[government_innovation_strategies | government innovation strategies]] providing infrastructure and support for technological advancement.
+
+A key pillar of this [[role_of_technology_in_government_modernization | role of technology in government modernization]] is the National AI Supercomputing Platform, housed in the state data center in Kragujevac [00:50:21](<a class="yt-timestamp" data-t="00:50:21">[00:50:21]</a>. This Nvidia-based cluster, installed in 2021, addresses the high cost and inaccessibility of computational infrastructure required for AI development [00:50:30](<a class="yt-timestamp" data-t="00:50:30">[00:50:30]</a>.
+
+The Serbian government makes this platform available free of charge to all stakeholders in its AI ecosystem, including faculties, science institutes, and, crucially, domestic startups [00:51:56](<a class="yt-timestamp" data-t="00:51:56">[00:51:56]</a>, [00:53:01](<a class="yt-timestamp" data-t="00:53:01">[00:53:01]</a>. This removes significant financial barriers for startups (potentially saving them €10,000-€20,000 per project) and boosts their development [00:52:41](<a class="yt-timestamp" data-t="00:52:41">[00:52:41]</a>, [00:53:04](<a class="yt-timestamp" data-t="00:53:04">[00:53:04]</a>. The platform supports AI Institute projects with multinational companies and fosters an environment where "many exciting projects are being cooked" [00:51:27](<a class="yt-timestamp" data-t="00:51:27">[00:51:27]</a>, [00:53:48](<a class="yt-timestamp" data-t="00:53:48">[00:53:48]</a>.
+
+Serbia is also fostering further [[collaboration_and_public_sector_partnerships | collaboration]] by becoming a member of EuroHPC and the Global Partnership on Artificial Intelligence (GPAI), and by launching a GovTech program and a dedicated grant competition for GovTech startups in cooperation with partners like GIZ and the World Bank [00:53:33](<a class="yt-timestamp" data-t="00:53:33">[00:53:33]</a>, [00:54:35](<a class="yt-timestamp" data-t="00:54:35">[00:54:35]</a>, [00:54:50](<a class="yt-timestamp" data-t="00:54:50">[00:54:50]</a>. These initiatives solidify Serbia's commitment to [[publicprivate_partnerships_for_innovation | public-private partnerships for innovation]] in technology.
