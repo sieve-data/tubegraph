@@ -4,21 +4,35 @@ videoId: euXpe5t1v5I
 ---
 
 From: [[theaccountantguy]] <br/> 
+This article explores how to [[customizing_notion_templates | customize budget templates in Notion]], specifically using a Film Production Budget Tracker as an example, to manage and track expenses.
 
-Notion provides highly [[customizing_notion_templates | customizable templates]] for various purposes, including [[creating_and_managing_budgets_in_Notion | budget management]]. One such example is the Film Production Budget Tracker, designed to help users monitor expenses related to film production <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. This template, like other [[customizing_notion_finance_templates | Notion finance templates]], allows for significant personalization to meet specific requirements <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
+## Film Production Budget Tracker Overview
+The Film Production Budget Tracker is a Notion template designed to help users keep track of all expenses related to film production <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
 
-## Template Overview and Structure
-The Film Production Budget Tracker template features a table that lists individual expenses, along with their respective categories and amounts <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. A summary section provides an [[overview_of_notion_budget_tracker_template | overview]] of financial data, including budgeted expenses, actual expenses, the difference between the two, and the percentage of actual expenses relative to the budget <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. All values within the template automatically update when changes are made <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+The template features:
+*   A table at the bottom listing all expenses individually <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
+*   Each expense includes its respective category and the amount <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+*   A summary section provides an overview of financial data <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
 
-## Customizing Categories
-A key aspect of [[customizing_the_notion_expense_tracker_template | customizing the Notion expense tracker template]] is the ability to manage expense categories:
-*   **Defining Categories** You can click on a pencil icon within the category field to define or redefine categories. These changes will update across the template <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
-*   **Adding New Categories** New categories can be added by clicking on the "new page" option within the category section <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
-*   **Editing Categories** Existing categories can be edited by clicking the pencil icon next to them <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
-*   **Deleting Categories** Categories can be deleted by clicking the three-dot icon and selecting "delete" <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+## Customization Options
+The template is highly [[customizing_notion_templates | customizable]] to meet specific requirements <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
 
-## Customizing Expense Values
-Users can directly update budgeted expense values within the template <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. Similarly, actual expense amounts can be entered, and these values will update the summary figures automatically <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+### Expense Categories
+Users can [[customizing_expense_categories_and_budgeting_in_notion | customize expense categories]] within the template <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>:
+*   **Defining Categories**: Click the pencil icon under the category section to define or change a category <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. Updates are reflected both ways <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+*   **Adding New Categories**: Click "new page" in the category section to add a new category <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+*   **Editing Existing Categories**: Use the pencil icon to edit an existing category <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
+*   **Deleting Categories**: Click the three dots and then "delete" to remove a specific category <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
 
-> [!TIP]
-> If you require further assistance or additional customization beyond the standard options for this template, you can reach out for support <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+### Budgeted Expenses
+The [[setting_and_managing_budgets_in_notion | budgeted expense value]] can be updated directly from the template <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. Once these values are changed, all related data updates automatically <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. Users can also enter the actual expense amounts, which will update accordingly <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+
+## Summary Section
+The summary section provides a concise overview of the financial status <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. It displays:
+*   The budgeted expense amount <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+*   Actual expenses incurred <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
+*   The difference between budgeted and actual expenses <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+*   The percentage of actual expenses relative to the budgeted amount <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+
+## Support
+For further [[customizing_notion_templates | customization]] or assistance with the existing template, users can contact notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.

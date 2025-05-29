@@ -1,66 +1,51 @@
 ---
 title: Setting up a database in Notion
-videoId: L97DyZ7U_VA
+videoId: WFKrfFfxyYo
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-This guide explains [[how_to_create_a_database_in_notion | how to create a database in Notion]] and perform calculations, specifically summing values in a column and calculating percentages based on that sum <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
+Adding two numbers together in Notion is a simple task that can be accomplished using the 'add' operator or basic addition formulas <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This process involves a three-step approach: creating a database, setting it up correctly, and applying the necessary formulas <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
 
-## Creating a New Database
+## What is a Database in Notion?
 
-To begin, create a new database:
-1.  Type `/database` to create a new database <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
-2.  Name the database (e.g., "Total Sales") <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
-3.  Delete any default rows or columns that are not needed <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+In Notion, a database is a collection of data that can be structured and organized in various ways <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. It is a powerful feature allowing users to [[creating_a_database_in_notion | create custom databases]] to store, manage, and track information in a structured manner <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. A Notion database comprises a collection of properties that define the different types of data it can store <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
 
-## Establishing a Relationship Between Databases
+## Step 1: [[creating_a_database_in_notion | Creating a Database in Notion]]
 
-To calculate the sum of a column from one database and display it in another, you need to establish a relationship between them <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
-1.  In the first database (e.g., "Sales People"), click the "plus" button to add a new property <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
-2.  Select "Relation" as the property type <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
-3.  Select the second database (e.g., "Total Sales") to link to <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
-4.  Define the names for the relationship columns in both databases (e.g., "Total Sales" in the first database and "Sales Details" in the second) <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
-5.  Once the relationship is created, a new column will appear in both databases <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. In the first database, fill the new "Total Sales" column by selecting the name of the second database's entry (e.g., "Total Sales") and copying it down for all relevant rows <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This links the sales people to the total sales entry <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+To [[creating_a_database_in_notion | add a database in Notion]], type `/database` to bring up a list of options <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. Selecting "database inline" allows you to quickly add a database to your Notion page <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
 
-## Aggregating Data with Rollup
+## Step 2: [[setting_up_databases_in_notion | Setting Up the Database Correctly]]
 
-Use the "Rollup" property to aggregate data from the linked database:
-1.  In the second database (e.g., "Total Sales"), click the "plus" button to add a new property <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
-2.  Select "Rollup" as the property type <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
-3.  From the "Relationship" dropdown, select the established relationship (e.g., "Sales Detail") <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>.
-4.  From the "Property" dropdown, select the column you want to sum (e.g., "Sales") <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
-5.  By default, it may show individual values; to sum them, click on the displayed values and select "Sum" from the "Calculate" options <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
-6.  Name this new rollup column (e.g., "Total Sales Rollup") <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
+When you [[creating_a_database_in_notion | create a new database]], the first column is always a default property with the type "Title," which cannot be changed <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. For finding the sum of two numbers, the database will require the following properties <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>:
 
-## Converting Rollup to Formula for Further Calculations
+*   **Test Title Property:** The default "Title" column, used for test names <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
+*   **Paper 1 Number Property:** To hold the first number <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
+*   **Paper 2 Number Property:** To hold the second number <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>.
+*   **Formula 1 Formula Property:** For the first calculation method <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
+*   **Formula 2 Formula Property:** For the second calculation method <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
 
-A rollup value cannot be directly rolled up onto another database. It first needs to be converted into a formula property <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
-1.  In the second database, create a new property and name it (e.g., "Total Sales") <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
-2.  Change its type to "Formula" <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
-3.  In the formula editor, simply link it to the "Total Sales Rollup" property <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
-4.  Optionally, change the number format to currency (e.g., dollars) <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
+### How to Add Properties in a Database
 
-Now, you can roll up this formula value back to the first database:
-1.  In the first database, add a new "Rollup" property <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
-2.  Select the "Total Sales" relationship <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
-3.  Select the new "Total Sales" formula property from the second database <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
-4.  Again, select "Sum" for the calculation <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. This will display the grand total sales in the first database <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
-5.  Name this column (e.g., "Sales Total") <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+To add properties in a Notion database, click the plus symbol (+) at the top right end of the database <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. This will present a list of options to choose the property type <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. For example, select the "Number" property and name it "Paper 1" <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
 
-## Performing Percentage Calculations
+## Step 3: Finding the Sum of Two Numbers in Notion
 
-You can calculate the percentage of each individual sale relative to the total sales:
-1.  In the first database, add a new property and name it (e.g., "Sales in Percentage") <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
-2.  Change its type to "Formula" <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
-3.  Enter the formula to divide individual sales by the total sales (e.g., `prop("Sales") / prop("Sales Total")`) <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
-4.  To round to two decimal places, wrap the formula: `round(prop("Sales") / prop("Sales Total") * 100) / 100` <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
-5.  [[Customizing databases in Notion | Customize the number format]] to "Percentage" <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+Once the database is set up, you can use formulas to find the sum of two numbers <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. Two different formulas can be used <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>:
 
-## Customizing Display
+### Formula One: Basic Addition
 
-[[Customizing databases in Notion | You can customize the display]] of the percentage column further:
-1.  Click on the percentage column's property name and select "Edit property" <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>.
-2.  Under "Show as", select "Bar" to visualize the percentage with a progress bar <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+This formula works by adding all numbers together using the plus (+) sign <a class="yt-timestamp" data-t="00:03:23">[00:03:23]</a>.
 
-Any changes made to the individual sales values in the first database will automatically update the total sales and percentage calculations across both databases <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. This demonstrates [[creating_a_database_in_notion_for_calculations | how to create a database in Notion for calculations]].
+*   **Formula:** `prop("Paper 1") + prop("Paper 2")` <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>
+
+### Formula Two: Using the `add` Function
+
+Notion also has a built-in `add` operator for finding the sum of numbers <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. The `add` function takes two parameters and provides the output <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+
+*   **Examples:**
+    *   `add(1, 3)` equals 4 <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>
+    *   `add("I love", " Notion")` equals "I love Notion" <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>
+*   **Formula for two numbers:** `add(prop("Paper 1"), prop("Paper 2"))` <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>
+
+By using either `prop("number 1") + prop("number 2")` or `add(prop("number 1"), prop("number 2"))`, you can successfully find the sum of two numbers within your Notion database <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.

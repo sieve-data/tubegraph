@@ -1,8 +1,8 @@
 ---
 title: Managing finances with Notion
-videoId: sCheBme0Ymw
+videoId: K8W_ncaDKGU
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-No factual information regarding managing finances with Notion is present in the provided transcript. <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>
+> [!NOTE] No information regarding "Managing finances with Notion" was found in the provided transcript. The transcript primarily contains music, applause, and expressions of thanks <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a> <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a> <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a> <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.

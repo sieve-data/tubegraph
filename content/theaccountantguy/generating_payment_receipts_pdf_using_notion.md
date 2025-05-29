@@ -5,51 +5,65 @@ videoId: zrr8DW4PWz0
 
 From: [[theaccountantguy]] <br/> 
 
-This article details how to [[generating_payment_receipts_pdf_in_bulk | generate payment receipt documents]] using a [[using_notion_with_pdf_output | Notion database]] and a Notion template with PDF Output.
+This guide explains how to [[payment_receipt_pdf_generation | generate payment receipt documents]] using a Notion database and a Notion template with PDF Output <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
 
-## Accessing PDF Output and Templates
+## Getting Started with PDF Output
 
-To begin, log in to PDFoutput.com <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. From the interface, click on "Templates" <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. This will open a new page listing all available templates <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. For payment receipts, you can use the search option to find "payment receipts PDF generator" <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. There are also filter and sorting options available <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
-
-Once found, click the "download link" next to the "payment receipts PDF generator" <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. This opens a new page displaying both the payment receipts database and template <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+1.  **Log In**: Navigate to PDFoutput.com and log in <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
+2.  **Access Templates**: Click on the "templates" option, which will open a new page listing all available templates <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+3.  **Select Payment Receipts Template**: Locate and click on the "payment receipts PDF generator" template <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+    *   You can use the search option to quickly find the document <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+    *   Filter and sorting options are also available <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+4.  **Download Template**: Click the "download link" next to the "payment receipts PDF generator" <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. This opens a new page displaying the payment receipts PDF generator page, which includes both the database and the template <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
 
 ## Understanding the Notion Template and Database
 
-The payment receipt template contains predefined elements for PDF output <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. Elements enclosed in curly braces, such as `{receipt number}`, `{receipt date}`, `{customer name}`, and `{amount paid}`, are placeholder text <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. These placeholders will be replaced by corresponding data from your Notion database columns <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. It's crucial that the placeholder names in the template exactly match the column names in your Notion database for proper syncing and [[pdf_document_generation_from_notion | PDF document generation]] <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
+Once the template and database are open:
+*   The database contains the raw data <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+*   The template is pre-defined with elements for the PDF output <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+*   **Placeholders**: Elements within curly braces (e.g., `{receipt number}`, `{customer name}`, `{amount paid}`) are placeholder texts <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. These placeholders will be replaced by corresponding data from the Notion database columns <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+*   **Matching Naming Convention**: It is crucial that the exact information within the curly braces in the template matches the corresponding column name in the Notion database <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. This ensures proper syncing and error-free PDF generation <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
 
-## Duplicating the Template to Notion
+## Duplicating and Adding the Template to Notion
 
-If the template isn't yet published to the Notion Gallery, you'll see a "duplicate" option <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. If it is published, click "start with this template" <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. In either case, you'll be prompted to choose a Notion workspace to duplicate the template into <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. This step is necessary to integrate it with PDF Output <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+1.  **Duplicate to Notion**: If the template is not yet published to the Notion Gallery, you'll see a "duplicate" option <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. Click this to duplicate the template to your Notion workspace <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. If published, click "start with this template" <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
+2.  **Add to Workspace**: Select your desired Notion workspace (e.g., "add to private") <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. The template will then appear in your Notion workspace <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
 
-## Connecting Notion to PDF Output
+## Configuring PDF Output Settings
 
-After duplicating the template to your Notion workspace, navigate to PDF Output and click on "Settings" <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>. Then, click "click here to add templates" <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. You'll need to select the Notion workspace where you duplicated the template <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. Select the "payment receipts PDF generator" file and click "allow access" <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. PDF Output will then read the template and database elements <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>.
+1.  **Go to Settings**: In PDF Output, navigate to the "settings" section <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
+2.  **Add Templates**: Click "click here to add templates" to add your duplicated Notion template to PDF Output <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
+3.  **Choose Notion Workspace**: Select the Notion workspace where you duplicated the template <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+4.  **Select Pages**: Click "select pages" and choose the "payment receipts PDF generator" file <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
+5.  **Allow Access**: Click "allow access" to enable PDF Output to read the template and database elements <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. Authentication should be successful <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>.
 
 ## Customizing the Template
 
-The entire template is customizable to your specific requirements <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. You can format text (e.g., make elements bold), add spacing, or make other design changes <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. The key is to ensure that any placeholder elements intended to be replaced from your database remain inside curly braces and that their names precisely match the corresponding column names in your Notion database <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. This ensures proper syncing and error-free PDF generation <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+The entire template is customizable to your specific requirements <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
+*   You can make elements bold, add spacing, or change any formatting <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>.
+*   Ensure that any placeholder elements you want to replace from your Notion database are enclosed in curly braces `{}` so they sync properly <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
+*   The naming convention of placeholders in the template must exactly match the column names in your Notion database <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>.
 
-## Mapping Database Properties to Template Elements
+## Mapping and Generating PDFs
 
-In PDF Output, select the "payment receipts database" from the dropdown, and correspondingly, select the "payment receipt template" <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. Give the export a name, such as "payment receipt", and click "next" <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>.
+1.  **Select Database and Template**: In PDF Output, refresh the page if needed <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. From the dropdowns, select the "payment receipts database" and the "payment receipt template" <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+2.  **Name the Output**: Give your output a name, e.g., "payment receipt" <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. Click "next" <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+3.  **Automatic Mapping**: PDF Output will automatically map the Notion properties (database elements) to the template elements if the names match <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>.
+    *   If any elements are mismatched, you can manually search and select the correct mapping <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>.
+    *   Filter, search, and sorting options are available in this view to help manage properties <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
+4.  **Export**: Click "export" to begin the PDF generation <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+    *   A "PDF status" column will be added to your Notion database, indicating which rows have been generated <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.
+    *   Once generated, you'll see an "export successful" message in PDF Output <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>.
+5.  **Preview and Download**:
+    *   Click "preview sample" to view a sample of the generated PDF <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>.
+    *   Click "download all" to download all the generated PDF files <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>. Each generated file corresponds to a specific row in your Notion database <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>.
 
-PDF Output will automatically map the Notion database properties (columns) to the template elements if their names match correctly <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>. If there are any mismatches, you can manually select the correct element from a search bar <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>. The interface also provides filter, search, and sorting options to help manage properties <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>.
+## Additional Features and Tips
 
-## Generating the PDFs
+*   **Connections**: In the "connection" section of PDF Output, you can view past connections <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. Clicking on a past connection will automatically load the database and template, allowing for quick regeneration without manual setup <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>.
+*   **Templates Section**: The "templates" section allows you to select multiple templates if needed <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>.
+*   **Watermark**: On the free plan, generated PDFs will include a PDF Output watermark <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>. Upgrading to a paid plan removes this watermark <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>.
+*   **Page Format**: Under "settings," you can change the page format of the output PDFs <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>. Remember to click "save" <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>.
+*   **Feedback and Help**: A feedback option is available to send messages directly to support <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>. The "help" section provides demonstration videos for setting up the process correctly <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>.
 
-Once everything is set up, click "Export" <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. PDF Output will automatically add a "PDF status" column to your Notion database <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>. As each row's PDF is generated, its corresponding "PDF status" will be ticked <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>.
-
-After successful export, you can click "Preview sample" to view a single generated PDF <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>, or "Download all" to get all generated files in a zip archive <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>. Each generated file corresponds to a row in your Notion database <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>.
-
-## Additional PDF Output Features
-
-*   **Connections**: In the "Connection" section, you can view past connections, allowing you to quickly load previously used databases and templates without manual setup <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
-*   **Multiple Templates**: You can select multiple templates if needed <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
-*   **Watermark**: On the free plan, generated PDFs will include a PDF Output watermark <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. Upgrading to a paid plan removes this watermark <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
-*   **Page Format**: Under "Settings", you can change the page format of the PDF output <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
-*   **Feedback**: A feedback option is available to send messages directly to support <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
-*   **Help**: The "Help" section contains a demonstration video to guide you through the setup process <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
-
-## Contact
-
-For any questions, you can reach out via email at notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+For any questions, contact notionformyuse@gmail.com <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>.

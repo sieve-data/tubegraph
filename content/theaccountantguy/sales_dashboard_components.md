@@ -5,69 +5,98 @@ videoId: Jpq0MAEK0B0
 
 From: [[theaccountantguy]] <br/> 
 
-This article provides an overview of the components within the Sales Performance OS, a Notion template designed for [[sales_performance_tracking | sales performance tracking]] and overview <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. The system's primary dashboard offers a comprehensive view of sales activities and performance <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
+The Sales Performance OS template provides a comprehensive [[analyzing_financial_data_using_the_dashboard_section | dashboard]] to track and analyze sales performance <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. It is designed to offer a detailed overview of business activities <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
 
-## Main Dashboard Components
+## Key Dashboard Sections
 
-The top section of the sales dashboard features three primary components, each providing monthly insights into sales performance <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>:
+The top section of the sales [[analyzing_financial_data_using_the_dashboard_section | dashboard]] features three main components, each segmented by month <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>, <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>:
 
 ### Salesperson Performance
 
-This component tracks the sales made by individual salespeople <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. For each person and month (e.g., December stats), it displays four key metrics <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>:
-*   **Sales Achieved:** The total sales made for the month <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
-*   **Targeted Sales:** The sales goal set for them <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
-*   **Percentage of Targeted Sales:** How much of the target they have achieved <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
-*   **Target Status:** Indicates "Target achieved" if sales exceed the target, or "Target not achieved" if they fall below <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+This component displays the sales achievements of individual salespeople <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. For each salesperson, it shows:
+*   Sales achieved for the month <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>
+*   Targeted sales set for them <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>
+*   Percentage of targeted sales achieved <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>
+*   Target achievement status (e.g., "Target achieved" if sales exceed target, or "Target not achieved" otherwise) <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>, <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>, <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>
 
-### Sales Channel Performance
+### Sales Channel Analysis
 
-This section represents sales made through various sources (e.g., website, Instagram, YouTube) <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>. Like salesperson data, it is bifurcated by month and displays achieved sales, targeted sales, percentage achieved, and status <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. Users can add their own custom categories <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+This section tracks sales made through various sources, such as websites, Instagram, and YouTube <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>, <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. Similar to salesperson data, it includes:
+*   Sales achieved <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>
+*   Targeted sales <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>
+*   Percentage of sales achieved <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>
+*   Status of target achievement <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>
+Users can add custom categories for sales channels <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
 
-### Sales Location Performance
+### [[sales_location_insights | Sales Location Insights]]
 
-This component details sales made to different geographical locations, showing the same performance characteristics as the salesperson and sales channel views <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+This component details where sales have been made geographically <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. It presents the same characteristics as the other two sections <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.
 
-## Sales Overview Sections
+## Overview Sections
 
-On the left side of the dashboard, dedicated overview sections provide aggregated data:
+On the left side of the [[analyzing_financial_data_using_the_dashboard_section | dashboard]], aggregated overviews provide deeper insights:
 
-*   **Salesperson Overview:** Shows total sales made by each individual, the number of sale units sold, and the average sales (sale per unit) <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
-*   **Sales Channel Overview:** Displays total sales, sale units, and average sales for each different sales channel <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
-*   **Sales Location Overview:** Presents total sales, average sales, and sale units for each location <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+### Salesperson Overview
+This view shows:
+*   Total sales made by each individual <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>
+*   Sale units (how many units they have sold) <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>
+*   Average sales (sales per unit) <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>
 
-These overview sections help track and provide a holistic view of business performance <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+### Sales Channel Overview
+Similar to the salesperson overview, this section displays:
+*   Total sales for each sales channel <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>
+*   Sale units <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>
+*   Average sales per channel <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>
 
-## Sales Transactions
+### Sales Location Overview
+This provides data for each sales location, including:
+*   Total sales <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>
+*   Average sales <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>
+*   Sale units <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>
 
-Below the main dashboard components, a section allows for the entry of sales transactions <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. This acts as the data input for the dashboard views <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+These overview sections help track and provide an overarching view of business performance <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
 
-For each transaction, users can input:
-*   **Date** <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>
-*   **Account Details:** Pertaining to the salesperson <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
-*   **Sales Detail:** Information about what is being sold <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
-*   **Month and Year** <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
-*   **Salesperson Detail:** Linked to the salesperson window <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
-*   **Client Detail:** Information about the client to whom the sale was made <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
-*   **Sales Code:** A unique code specific to each individual sale (e.g., "J. Carter_Dec23" for James Carter's December 2023 sale) <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
-*   **Sales Target:** Set at the start of the month for each person <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
-*   **Sales Amount:** The actual amount of sales made <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
-*   **Sales Unit:** The number of units sold <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
+## Sales Data Entry and Management
 
-Similar input processes exist for sales channels and locations, where targeted sales amounts can be specified at the start of the month, along with unique referral or location codes <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. Once details are entered in the salesperson window, other related information like channel and referral code will automatically update <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
+The template facilitates easy input of sales transactions <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
 
-## Quick Action Buttons
+### Sales Transactions Window
+This section allows users to enter detailed transaction information <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>, including:
+*   Date of transaction <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>
+*   Account details (salesperson details) <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>
+*   Sales details (what was sold) <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>
+*   Month and year of sale <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>
+*   Salesperson detail <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>
+*   [[client_purchase_summary_and_kpi_tracking | Client purchase summary]] (client detail to whom the sale was made) <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>
+*   Sales code (unique to each salesperson and sale, e.g., "J.Carter-December23") <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>
+*   Sales Target (set at the start of the month) <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>
+*   Sale amount and sales units <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>, <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>
 
-On the left panel, quick action buttons facilitate data management:
-*   **Sales Target:** Automatically assigns a target for a particular month <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. This applies to salespeople, channels, and locations <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
-*   **Add Transaction:** Used to directly enter new sales transactions <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+### Setting Sales Targets
+Targets can be assigned at the start of each month for:
+*   Individual salespeople <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>
+*   Each sales channel <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>
+*   Each sales location <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>
 
-## Customization and Filtering
+### Quick Action Buttons
+On the left side of the [[primary_dashboard_features_of_notion_bills_tracker | dashboard]], "quick action" buttons allow for:
+*   **Sales Target:** Automatically assigns a target for a particular month <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>, <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
+*   **Add Transaction:** Enables entering sales transactions <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
 
-The [[using_notion_for_sales_performance_overview | Notion dashboard]] is fully customizable <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>. Users can:
-*   **Edit Details:** Modify salesperson names or other details by clicking on their entries, which opens a new window for editing <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. Users can also set custom cover images for entries <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>.
-*   **Create New Months/Years:** Add new months or years for tracking <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
-*   **Enter Client Information:** Input detailed client information, including address, city, and state, via a dedicated client dashboard <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>.
-*   **Change Currency:** The currency symbol for the entire dashboard can be changed from dollar to any preferred currency <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. This is done by editing the property and changing the number format <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>.
-*   **Filter Data:** Apply filters to view data for specific years or months <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. Users can combine filters (e.g., all months of a particular year) to analyze sales performance in more detail <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
+## Customization Options
 
-This [[presentation_and_dashboard_setup_in_notion | sales dashboard in Notion]] provides a comprehensive tool for managing and tracking sales performance <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+The sales [[creating_a_training_dashboard_in_notion | dashboard]] is fully customizable <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>:
+
+### Currency
+Users can change the currency displayed throughout the [[summarizing_and_visualizing_net_worth_data_in_a_dashboard | dashboard]] to their preference by modifying the currency sign or the number format property <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>, <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>.
+
+### Data Filtering
+Filters can be applied to view specific data:
+*   **Year:** Filter data for a particular year <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>.
+*   **Month:** Filter data for specific months <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>.
+These filters can be combined, for example, to see all months relevant to a particular year <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
+
+### Editing Details
+Salesperson details, including names and cover images, can be instantly edited via the associated database <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>, <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>. New months and years can also be created for data entry <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>. Client information, including address, city, and state, can be entered and modified in a dedicated [[client_purchase_summary and KPI tracking | client dashboard]] <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>.
+
+For further [[customizing_templates_and_calculating_sales_data | customizing templates]], contact information is available at notionformy@gmail.com <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.

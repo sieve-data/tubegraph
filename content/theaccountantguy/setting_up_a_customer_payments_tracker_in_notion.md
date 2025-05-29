@@ -5,54 +5,62 @@ videoId: rHBh6IWXhVs
 
 From: [[theaccountantguy]] <br/> 
 
-This template provides a simple solution to keep track of all your customer payments in one place <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. It is entirely customizable to suit your specific requirements <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+A customer payments tracker in Notion is a simple template designed to help you keep track of all your customer payments in one place <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
 
-## Tracker Layout
+## Template Layout
 
-The tracker is divided into two main sections:
-*   A summary section on the left <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
-*   Three distinct sections on the right: Customer, Overview, and Transaction <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+The tracker is divided into two main parts:
 
-### Summary Section
+*   **Summary Section (Left Side)**: This section provides an overview of your payment status <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. It displays:
+    *   The total amount of payment that was due <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
+    *   The payment amount that was received <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
+    *   The difference between the amount due and the amount received <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
+    *   The percentage of total payments that was received <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
 
-The summary section displays key financial metrics <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>:
-*   Total amount of payment due <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
-*   Payment amount received <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
-*   The difference between due and received amounts <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>.
-*   The percentage of total payments received <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
+*   **Main Sections (Right Side)**: This area contains three primary sections: Customer, Overview, and Transaction <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
 
-### Customer Section
+## Sections of the Tracker
 
-This section allows you to set up your entire customer database <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. It is organized into three default subsections <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>:
-*   Regular <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>
-*   Seasonal <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>
-*   Occasional <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>
+### 1. Customer Section
 
-Within each subsection, individual customers are listed <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>, each displaying the total payment amount due for that customer <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+This section allows you to set up and manage your entire customer database <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
 
-#### Customizing Customers and Subsections
+*   **Subsections**: The customer section is typically divided into three subsections: Regular, Seasonal, and Occasional <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+    *   You can edit any existing section by clicking on it <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+    *   To add a new subsection, click the plus (+) icon <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+*   **Customer Entries**: Under each subsection, individual customers are listed <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
+    *   Each customer entry includes the total payment amount that is due <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+    *   To change the due amount, simply click on the existing amount and enter the new value <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+    *   Customer names can be edited by clicking the pencil icon <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+    *   New customers can be added <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+    *   Customers can be deleted by clicking the three-dot menu and selecting delete <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
 
-*   **Editing Subsections**: To edit any subsection, click on it and begin editing the details <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
-*   **Adding Subsections**: Click the plus icon to add more subsections <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
-*   **Editing Payment Amounts**: Click on the amount due for a customer to enter a new amount <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
-*   **Editing Customer Names**: Click the pencil icon next to a customer name to edit it <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
-*   **Adding New Customers**: You can add new customers <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
-*   **Deleting Customers**: Click the three-dot icon next to a customer and select "delete" <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+### 2. Overview Section
 
-### Overview Section
+Once the customer database and due amounts are set up, the overview section shows the total payment received and the payment amount that was due <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
 
-The overview section displays the total payment received and the total payment amount that was due <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. The percentage of payment received shown here is derived from the transaction section <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+### 3. Transaction Section
 
-### Transaction Section
+This section is where you record individual payment transactions, which directly impact the data shown in the overview and summary sections <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. For each transaction, you can enter:
+*   The date <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+*   A description of the transaction <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+*   The customer name (selected from a list of all customers) <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+*   The amount received <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+*   A document section to attach the specific invoice related to the customer <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
 
-This section is where you record individual payment transactions <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
-You can enter the following details for each transaction <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>:
-*   Date <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>
-*   Description of the transaction <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>
-*   Customer name (by selecting from a list of all customers) <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>
-*   Amount received <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>
+As you fill in these details, the payment amount received updates automatically across the tracker <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
 
-#### Attaching Documents
-A document section is available for attaching specific invoices related to the customer <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. This feature can be useful for [[tracking_invoice_payments_in_notion|tracking invoice payments]].
+## Customization
 
-Once these transaction details are filled, the payment received amount in the overview and summary sections automatically updates <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. For example, changing a value in the transaction section will immediately reflect in the payment received totals <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
+This template is entirely customizable to suit individual requirements <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+
+For other Notion finance tracking templates, consider:
+*   [[setting_up_a_personal_finance_tracker_in_notion | Setting up a personal finance tracker in Notion]]
+*   [[invoicing_and_payment_tracking_through_notion | Invoicing and payment tracking through Notion]]
+*   [[tracking_invoice_payments_in_notion | Tracking invoice payments in Notion]]
+*   [[creating_a_bills_tracker_in_notion | Creating a bills tracker in Notion]]
+*   [[setting_up_credit_card_overview_and_tracking_payments_in_notion | Setting up credit card overview and tracking payments in Notion]]
+*   [[debt_payment_tracking_using_notion | Debt payment tracking using Notion]]
+*   [[creating_an_income_tracker_in_notion | Creating an income tracker in Notion]]
+*   [[how_to_use_a_sales_receipts_tracker_in_notion | How to use a sales receipts tracker in Notion]]
+*   [[tracking_personal_finances_in_notion | Tracking personal finances in Notion]]

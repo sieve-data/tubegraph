@@ -1,28 +1,28 @@
 ---
-title: subtract operator in Notion
+title: Subtract operator in Notion
 videoId: Fz_fpiT29EE
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-When [[Using Notion for calculations | calculating]] the difference between two numbers in Notion, two primary methods can be employed: the `subtract` operator and the minus sign <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. This article focuses on utilizing the `subtract` operator <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
+To find the difference between two numbers in Notion, you can utilize two distinct methods involving [[using_formulas_in_notion | formulas]]: the `subtract` operator or the [[minus_sign_usage_in_notion | minus sign]] <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
 
-## Setting Up a Database
+## Setting Up Your Database
 
-To begin, you need to create a database in Notion <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. This can be done by typing a forward slash (`/`) and then `database` to select from the available options <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+First, you need to create a database in Notion <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. This can be done by typing a forward slash (`/`) and then `database` to bring up the list of options <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
 
-Within this database:
-*   The first property is typically the `Title` property, which helps in identifying the purpose of the entries <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
-*   You must assign number properties to two different columns, which will hold the numbers for which you want to find the difference <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+Within your database:
+*   The first property will typically be a title property, indicating the purpose of the entry <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+*   You will then need to assign `Number` properties to two different fields, which will contain the numbers you wish to find the difference between <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
 
 ## Using the Subtract Operator
 
-After setting up your number properties, you can add a [[Using formulas in Notion | formula]] property to calculate the difference <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. The `subtract` operator is designed to take two numbers as input and return their difference <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+To find the difference, add a new `Formula` property to your database <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. Within this [[using_formulas_in_notion | formula]] property, you can use the `subtract` operator.
 
-For example, if you have `Number One` and `Number Two` as your input properties, the `subtract` operator will take these as inputs to yield the difference <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+The `subtract` operator is designed to take two numbers as input and calculate the difference between them <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. For example, if you have two number properties named `Number 1` and `Number 2`, the formula would look like `subtract(prop("Number 1"), prop("Number 2"))` <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
 
-## Alternative: The Minus Sign
+## Using the Minus Sign
 
-While the `subtract` operator is available, the difference between two numbers can also be found using the simpler minus sign (`-`) in a [[Using formulas in Notion | Notion formula]] <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. For a detailed comparison, refer to [[difference_between_subtract_operator_and_minus_sign_in_notion | Difference between Subtract Operator and Minus Sign in Notion]].
+Alternatively, you can achieve the same result using the [[minus_sign_usage_in_notion | minus sign]] (`-`) within a [[using_formulas_in_notion | Notion formula]] <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. This method is often more concise. For instance, the formula `prop("Number 1") - prop("Number 2")` would also yield the difference between the two numbers.
 
-Both methods achieve the goal of [[using_formulas_to_subtract_in_notion | subtracting numbers in Notion]] <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
+By implementing either the `subtract` operator or the [[minus_sign_usage_in_notion | minus sign]], you can effectively find the difference between two numbers within a Notion database <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.

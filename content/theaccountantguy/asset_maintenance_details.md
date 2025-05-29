@@ -5,15 +5,13 @@ videoId: TgCfh3qLL_Q
 
 From: [[theaccountantguy]] <br/> 
 
-The Asset Planner template includes an [[operational_management_of_assets | operational management]] section, which encompasses details related to asset maintenance <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. This section specifically addresses [[operational_management_of_assets | maintenance details]] <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
+The Asset Planner template includes a dedicated section for managing asset maintenance details, which is part of the broader [[operational_management_of_assets | operational management]] section <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. This section provides a comprehensive overview of maintenance-related information for assets <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
 
-### Maintenance Section Contents
+## Key Features
 
-The maintenance section within the asset planner covers essential information, including:
+The maintenance section covers essential details including:
 *   Maintenance ID <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>
 *   Asset ID <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>
-*   "Everything related to the maintenance details" <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>
+*   All other information relevant to maintenance details <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>
 
-### Customizability
-
-The entire template, including the asset maintenance section, is fully [[customizing_asset_management_templates | customizable]] to suit specific requirements <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+The template is fully customizable to meet specific user requirements <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.

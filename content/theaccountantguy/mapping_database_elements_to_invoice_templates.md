@@ -1,59 +1,58 @@
 ---
 title: Mapping database elements to invoice templates
-videoId: n1_fpSFcf3k
+videoId: WfYK1BJd490
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-This article demonstrates how to utilize a Notion page and template to generate PDF documents, specifically invoice PDFs, using a Notion database through the PDF Output.com platform <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
+## Overview
 
-## Getting Started with PDF Output.com
+This article outlines how to generate professional invoices directly from a Notion database using the PDF Output tool <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. The process involves [[mapping_database_properties_to_template_placeholders | mapping Notion database elements to template placeholders]] within an invoice template to create professional PDF documents <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
 
-To begin, users need to log in to PDF Output.com <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. Upon logging in, users can access the "template" section <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+## Invoice Template Design
 
-### Selecting and Duplicating Templates
+An invoice template includes sections like "from" and "to" <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. Key details such as client name, client company, client address, city, state, and zip are designated as placeholder text enclosed in curly braces <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. Any element within the template placed in curly braces will be replaced by data from a connected database <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
 
-The "template" section displays a list of pre-created templates available for use with PDF Output <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. For invoice generation, the invoice template can be downloaded <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. Users can also utilize search, sort, or filter options to find specific templates <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+> All placeholder text elements in the template must be placed inside curly braces `{}` <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>.
 
-After selecting the invoice template, users click a download link which opens a new page displaying both the template and the corresponding database <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. To begin [[creating_and_using_invoice_templates_in_notion | creating and using invoice templates in Notion]], click the "start with this template" option, which prompts duplication of the template onto the user's Notion workspace <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. The template will then be added to the user's list of templates in Notion, including the invoice template and its associated database <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+This [[customizing_invoice_templates_using_placeholders | customizable invoice template]] is then used to generate PDF documents <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
 
-### Connecting Notion Template to PDF Output
+## Notion Database Setup
 
-Once the template is duplicated, navigate back to PDF Output and select "settings" <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. Here, users can add the specific template that was duplicated <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. It's crucial to select the correct Notion workspace where the template was duplicated <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>. After selecting the template (e.g., "invoice generator template"), allow access to authenticate the connection <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. The template will then be added to the PDF Output setup <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+The Notion database contains corresponding elements such as client name, amount, bank name, client address, and client company <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. For every row of information in the database, the data will populate the template and generate a PDF <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. It's crucial that the placeholder element names in the template match the column names in the database for automatic mapping <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
 
-## Understanding Template and Database Structure
+## Using PDF Output for Generation
 
-The template used for PDF generation is customizable <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
-Elements within the template, such as client name, client company address, invoice number, date, and terms, are placed inside curly braces <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. These are placeholder text elements that will be replaced with data from the connected database <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. This allows for [[customizing_invoice_elements_using_placeholders | customizing invoice elements using placeholders]].
+To begin, log into PDF Output <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. First, certain steps within the "help" section (accessible by clicking "H") must be completed to enable API keys for the setup <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
 
-The Notion database contains corresponding elements listed as columns, such as invoice number, date, client name, and client company <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. For every row in the invoice database, these elements will replace the corresponding placeholders in the template <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+### Connecting Database and Template
 
-> [!CAUTION] Matching Naming Conventions
-> All placeholder text elements in the template must be inside curly braces, and the exact same elements must be listed out in the Notion database with identical naming conventions <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a> <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. This ensures correct [[mapping_notion_database_elements_to_pdf_templates | mapping of Notion database elements to PDF templates]] and seamless output generation <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>.
+1.  Define a connection name (e.g., "Invoice Generation") <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+2.  Select the specific database, such as "professional invoice database" <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+3.  Select the corresponding template, such as "professional invoice template" <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
+4.  Click "next" <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
 
-## Generating PDF Invoices
+### Automatic Mapping and Customization
 
-After syncing the database and template elements, Notion properties (database columns) are listed on the left side of the PDF Output interface, automatically mapped to their corresponding template elements <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>. For example, "Client Name" from the database is mapped to "Client Name" in the template <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
+PDF Output loads all elements and values from both the database and the template, and [[automatically_mapping_database_properties_to_template_elements | automatically maps each database property to its corresponding template element]] <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. For example, "client address" from the database is connected to the "client address" placeholder in the template <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. Other elements like "item one," "terms," and "amount three" are also automatically mapped <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
 
-*   **Mapping Verification**: Mapped elements are indicated by a green bar <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
-*   **Manual Mapping**: If an element is not automatically mapped, users can click on it and search for the correct corresponding element to map it manually <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>.
-*   **Export**: Once mapping is confirmed, click "export" to start processing the documents <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>.
+If any mapping is not automatic (appearing in gray), you can manually click on the element and search for the correct value to establish the connection <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
 
-### Monitoring and Downloading Outputs
+### Generating and Downloading Invoices
 
-As the documents are generated, a "PDF status" column in the Notion database will automatically become checked for each processed row <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>.
-Upon successful export, a sample PDF can be previewed <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>. All generated PDF outputs can be downloaded by clicking "download all" <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>. This demonstrates [[using_a_notion_database_and_templates_to_create_pdf_invoices | using a Notion database and templates to create PDF invoices]].
+After mapping, click "export" <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. In the Notion database, a "PDF status" column will automatically tick as each PDF file is generated <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
 
-## Customization and Best Practices
+You can then:
+*   **Preview Sample:** Click "preview sample" to view the generated PDF, which shows all elements from the database accurately replaced in the template <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
+*   **Download All:** Click "download all" to download all generated PDF files <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
 
-Both the template and the database can be customized as per requirements before generating the output <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. When generating new documents, ensure that the "PDF status" row in the Notion database is unticked for the desired rows, otherwise, ticked rows will be ignored <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. This allows for [[customizing_invoice_templates_for_bulk_generation | customizing invoice templates for bulk generation]].
+The output provides clean, professional invoices, with all database information accurately populated into the template <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. This enables [[using_templates_to_generate_pdf_invoices | using templates to generate PDF invoices]] efficiently.
 
-## Additional Features and Support
+## Key Takeaways
 
-*   **Other Templates**: Users can access a list of different template elements available on the platform <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a>.
-*   **Watermark**: On the free plan, generated templates will include a PDF Output watermark; users can upgrade to a paid plan to remove it <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>.
-*   **Feedback**: A feedback option is available for sending messages or suggestions <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
-*   **Connections**: After an initial export, connections with all saved values can be viewed and reloaded, eliminating the need to remap the database and template for future generations <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
-*   **Help Section**: A help section provides a detailed demonstration on initial setup <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>.
+The PDF Output site allows users to connect their Notion database and Notion template to generate PDF documents <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. Remember to:
+*   Place all placeholder text elements inside curly braces in your template <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>.
+*   Use the same names for these elements in your database <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
+*   Follow the instructions in the "help" section of PDF Output for initial setup <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>.
 
-For any questions or feedback, users can reach out to notionforuse@gmail.com <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>. This entire process demonstrates [[using_notion_templates_for_invoice_pdfs | using Notion templates for invoice PDFs]] and [[using_databases_to_manage_invoice_details_in_notion | using databases to manage invoice details in Notion]].
+This process enables efficient [[customizing_and_mapping_database_elements_for_pdf_output | customizing and mapping database elements for PDF output]] directly from Notion.

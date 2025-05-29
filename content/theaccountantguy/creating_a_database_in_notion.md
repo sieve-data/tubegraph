@@ -1,30 +1,60 @@
 ---
-title: creating a database in Notion
-videoId: Fz_fpiT29EE
+title: Creating a database in Notion
+videoId: WFKrfFfxyYo
 ---
 
 From: [[theaccountantguy]] <br/> 
 
-This guide explains how to [[creating_a_database_in_notion | create a database in Notion]] and use formulas to find the difference between two numbers <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. Two methods are covered: using the subtract operator and using the minus sign <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+[[setting_up_a_database_in_notion | Creating a database in Notion]] is an essential first step for various data management tasks, such as performing calculations like adding two numbers together <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. This process typically involves a three-step approach: first, [[creating_and_connecting_databases_in_notion | creating the database]]; second, [[setting_up_databases_in_notion | setting up the database]] correctly; and third, applying the desired formulas <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
 
-## Setting Up Your Database
+## What is a Notion Database?
 
-To begin, you will need to [[how_to_create_a_database_in_notion | create a database]] in Notion <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+In Notion, a database serves as a collection of data that can be structured and organized in various ways <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. It's a robust feature enabling users to [[creating_a_database_in_notion_for_calculations | create custom databases]] for storing, managing, and tracking information in a structured and organized manner <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. Each Notion database consists of a collection of properties, which define the different types of data that can be stored within it <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
 
-1.  Use a forward slash (`/`) and type `database` to bring up the list of options <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
-2.  The first property in your [[creating_a_database_in_notion | database]] will be the title property, which indicates the purpose of the entry <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
-3.  Assign number properties to two different numbers within the [[creating_and_using_databases_in_notion | database]] to enable finding the difference between them <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
+## How to Create a Database in Notion
 
-## Finding the Difference Between Numbers
+To add a database to your Notion page:
+1.  Type `/database` <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+2.  A list of options for adding a database will appear <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
+3.  Select `Database - Inline` to quickly add a database to your current Notion page <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
 
-Once your [[setting_up_databases_and_relationships_in_notion | database is set up]], you can apply formulas to calculate the difference.
+## Setting Up the Database Correctly
 
-### Using the Subtract Operator
+After [[setting_up_a_database_in_notion | creating a database]], the next crucial step is [[setting_up_and_customizing_notion_database_for_invoices | setting up]] its properties <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. Every newly created database includes a default property as its first column, which is always of the "Title" type and cannot be changed <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
 
-One method to find the difference is by using the subtract operator <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>. This operator takes two numbers as input and calculates their difference <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. For example, if you provide "number one" and "number two" as inputs, the formula will return their difference <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+For finding the sum of two numbers, a database would typically require the following properties:
+*   **Test Title Property**: This is the default "Title" property (e.g., `Test name`) <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+*   **Paper 1 Number Property**: A property to hold the first number <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
+*   **Paper 2 Number Property**: A property to hold the second number <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>.
+*   **Formula 1 Formula Property**: A property for the first sum calculation <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
+*   **Formula 2 Formula Property**: A property for the second sum calculation <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
 
-### Using the Minus Sign
+### How to Add Properties
 
-Alternatively, you can use a simple minus sign to find the difference between two numbers in your [[setting_up_a_database_for_adding_numbers_in_notion | database]] <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+To add additional properties to your database:
+1.  Click on the `+` symbol located at the top right end of the database <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
+2.  A list of options will appear, allowing you to choose the property type <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
+3.  For numeric values, select the `Number` property type and name it appropriately (e.g., `Paper 1`) <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+4.  For calculations, add a `Formula` property type <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
 
-These methods demonstrate how to effectively find the difference between two numbers within a [[using_databases_in_notion_for_invoice_tracking | Notion database]] <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+## Finding the Sum of Two Numbers with Formulas
+
+Once the database is [[setting_up_a_database_in_notion_for_financial_tracking | set up]] with the necessary number and formula properties, you can then input formulas to perform calculations <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+
+### Formula One: Using the Plus Sign
+
+This basic formula directly adds numbers using the `+` sign <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+```notion
+prop("Paper 1") + prop("Paper 2")
+```
+<a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>
+
+### Formula Two: Using the `add` Function
+
+Notion also includes a built-in `add` function for summing numbers <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. The `add` function takes two parameters as input <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+```notion
+add(prop("Paper 1"), prop("Paper 2"))
+```
+<a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>
+
+These two formulas demonstrate methods for finding the sum of two numbers within a [[creating_databases_for_an_expense_tracker_in_notion | Notion database]] <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.
