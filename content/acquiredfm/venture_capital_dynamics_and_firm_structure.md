@@ -1,0 +1,127 @@
+---
+title: Venture capital dynamics and firm structure
+videoId: XyIqmNqZHnA
+---
+
+From: [[acquiredfm]] <br/> 
+
+Venture capital (VC) is widely considered to be a challenging endeavor, with the hardest aspects being the creation of massive outsized returns and then sustaining that success across different generations of partners <a class="yt-timestamp" data-t="01:08:08">[01:08:08]</a>. The firm Benchmark famously believes that [[Venture capital and investing strategies | venture capital]] does not scale <a class="yt-timestamp" data-t="01:53:53">[01:53:53]</a>. They have intentionally avoided growing fund sizes, junior partners, platform teams, and multi-stage investments, reportedly not even having a CRM <a class="yt-timestamp" data-t="01:53:53">[01:53:53]</a>. Despite this, they have been early backers of numerous important companies across multiple generations, including eBay, OpenTable, Zillow, Twitter, Instagram, Uber, WeWork, Snap, Discord, and Modern Treasury <a class="yt-timestamp" data-t="01:53:53">[01:53:53]</a>.
+
+## The 1990s Venture Capital Landscape
+
+In the early 1990s Silicon Valley, the venture capital ecosystem was dominated by Kleiner Perkins, particularly John Doerr <a class="yt-timestamp" data-t="08:50:00">[08:50:00]</a>. John Doerr was considered the "800-pound gorilla" of the VC world, embodying the entire top tier of firms like Sequoia and Andreessen Horowitz in one person <a class="yt-timestamp" data-t="09:14:00">[09:14:00]</a>. He had a deep understanding of future trends, having seen the PC wave coming and investing in companies like Compaq, Intuit, and Sun Microsystems <a class="yt-timestamp" data-t="09:47:00">[09:47:00]</a>. During the internet era, he backed Netscape, Amazon, and Google <a class="yt-timestamp" data-t="10:05:00">[10:05:00]</a>.
+
+### Kleiner Perkins' Style
+Kleiner Perkins, under John Doerr, had two distinct stylistic aspects:
+*   **Centralized Authority**: Doerr was "the guy" – the CEO and leader of the firm, akin to Michael Jordan, Phil Jackson, and the front office combined <a class="yt-timestamp" data-t="11:41:00">[11:41:00]</a>. He would aggressively pursue deals but then often try to pass off board seats to junior partners <a class="yt-timestamp" data-t="12:02:00">[12:02:00]</a>.
+*   **Modern Keiretsu Model**: The firm adopted a model where they facilitated, and sometimes forced, business development partnerships among their portfolio companies <a class="yt-timestamp" data-t="12:23:00">[12:23:25]</a>. In the proto-internet ecosystem of the 1990s, distribution and deals were critical, and true product-market fit was less organic <a class="yt-timestamp" data-t="12:51:00">[12:51:00]</a>. This model created a "cabal" where the firm would orchestrate deals for the benefit of its portfolio, theoretically benefiting all members <a class="yt-timestamp" data-t="13:54:00">[13:54:00]</a>.
+
+Other notable firms at the time included Sequoia, Greylock, Venrock (the Rockefeller family's venture arm), and institutional firms like IVP <a class="yt-timestamp" data-t="14:29:00">[14:29:00]</a>.
+
+## Economic Structure of Venture Capital Firms
+
+A venture capital firm's economics consist of multiple parts:
+*   **Fund Carry**: This is the straightforward percentage of profits a partner receives from a specific fund, typically 20% of net profits after the LPs' initial investment is returned (1X) <a class="yt-timestamp" data-t="41:10:00">[41:10:00]</a>.
+*   **Management Company**: This is typically an LLC owned by the founding partners of a firm <a class="yt-timestamp" data-t="19:55:00">[19:55:00]</a>. It serves as the umbrella parent over each fund and holds the employment relationship with all partners <a class="yt-timestamp" data-t="20:00:00">[20:00:00]</a>.
+*   **Management Fees**: These are annual fees paid to the management company for managing the LPs' money, typically 2% of the fund size <a class="yt-timestamp" data-t="20:49:00">[20:49:00]</a>. These fees fund operations and provide fixed compensation (salary) to partners <a class="yt-timestamp" data-t="21:02:00">[21:02:00]</a>.
+
+Historically, founding partners owned and controlled the management company, excluding junior partners from governance and direct contractual rights to fees, even if they received a share of the fund's carry <a class="yt-timestamp" data-t="21:21:00">[21:21:00]</a>. This often led to resentment among younger partners who felt they were doing the work while others reaped the majority of the financial rewards <a class="yt-timestamp" data-t="22:52:00">[22:52:00]</a>.
+
+## The Founding of Benchmark: An Equal Partnership
+
+The genesis of Benchmark came from two firms sharing an office building on Sand Hill Road: Technology Venture Investors (TVI) and Merrill Pickard Anderson & Eyre <a class="yt-timestamp" data-t="15:50:00">[15:50:00]</a>. TVI was notable for being the only venture investor in Microsoft, investing $1 million for 5% of the company <a class="yt-timestamp" data-t="17:40:00">[17:40:00]</a>. Merrill Pickard had also found success with investments like Palm Pilot <a class="yt-timestamp" data-t="18:21:00">[18:21:00]</a>.
+
+Conversations within these firms about ownership structure and fair compensation for junior partners became central <a class="yt-timestamp" data-t="19:02:00">[19:02:00]</a>. Dave Marquardt of TVI famously stated that the venture business "is an intensely personal relationship business and it's not an industry that scales well," and that he would "never consider adding a value-added service" because "companies should do that themselves" <a class="yt-timestamp" data-t="29:32:00">[29:32:00]</a>.
+
+### Bob Kegel's Vision
+Bob Kegel, a partner at TVI, felt an "almost religious fervor" that anything other than an equal partnership was "morally wrong" for a venture capital firm <a class="yt-timestamp" data-t="25:30:00">[25:30:00]</a>. Coming from a working-class background in Flint, Michigan, and being the first in his family to attend college, he believed deeply in fairness and proper rewards for proper work <a class="yt-timestamp" data-t="23:36:00">[23:36:00]</a>.
+
+When discussions at TVI failed to reach a resolution, the senior partners declared "victory" and decided to dissolve the firm, having made significant money from Microsoft <a class="yt-timestamp" data-t="27:32:00">[27:32:00]</a>.
+
+### Formation and Early Struggles
+In early 1994, Bob Kegel approached Bruce Dunleavy, a younger partner at Merrill Pickard, proposing they leave their firms and start a new one based on an equal partnership model <a class="yt-timestamp" data-t="30:47:00">[30:47:00]</a>. Bruce, initially hesitant, later joined with fellow Merrill Pickard partner Andy Ratcliffe after their own firm resisted similar changes <a class="yt-timestamp" data-t="32:48:00">[32:48:00]</a>. They then recruited Kevin Harvey, an entrepreneur who had successfully started two companies, to bring "entrepreneurial DNA" to the firm <a class="yt-timestamp" data-t="38:15:00">[38:15:00]</a>.
+
+These four, along with a fifth founding member, Val Vaden (who specialized in software buyouts), formed Benchmark Capital at the end of 1994 <a class="yt-timestamp" data-t="39:50:00">[39:50:00]</a>. Their audacious name signaled their aspiration "to set a new Benchmark for performance in this industry" <a class="yt-timestamp" data-t="40:41:00">[40:41:00]</a>. They also proposed a premium 30% carry (vs. the industry standard 20%), positioning themselves as a premium product <a class="yt-timestamp" data-t="42:14:00">[42:14:00]</a>.
+
+This bold strategy was met with mixed reactions from LPs. Horsley Bridge, a prominent investment advisor, made a significant bet on their first $85 million fund <a class="yt-timestamp" data-t="43:29:00">[43:29:00]</a>. However, other LPs, notably Stanford University's endowment, were so angered by the premium carry and perceived instability that they actively organized against the young firm, blackballing them <a class="yt-timestamp" data-t="47:12:00">[47:12:00]</a>. To counter this, the founders, inspired by Jim Collins' "Built to Last," handed copies of the book to every LP, emphasizing their commitment to building an enduring firm <a class="yt-timestamp" data-t="48:42:00">[48:42:00]</a>.
+
+In the firm's early years (1995-1996), internal gelling was difficult, and the firm missed notable opportunities like Amazon and Yahoo <a class="yt-timestamp" data-t="50:20:00">[50:20:00]</a>. Val Vaden's investment style, coming from the buyout industry, didn't fit with Benchmark's focus on formation-stage technology and internet companies, leading to his departure in late 1996 <a class="yt-timestamp" data-t="51:30:00">[51:30:00]</a>.
+
+### The Turning Point: David Byrne and eBay
+Feeling a "letdown" and "depression," the remaining four partners decided to recruit a fifth partner to reinject "swagger" into the firm <a class="yt-timestamp" data-t="50:06:00">[50:06:00]</a>. They brought in David Byrne, then the top executive recruiter in Silicon Valley <a class="yt-timestamp" data-t="57:05:00">[57:05:00]</a>. Byrne's aggressive, "swashbuckling" style and willingness to take big risks were crucial <a class="yt-timestamp" data-t="57:27:00">[57:27:00]</a>.
+
+Byrne's first major deal was Webvan, an ambitious e-commerce grocery delivery company <a class="yt-timestamp" data-t="01:03:09">[01:03:09]</a>. While Webvan became a cautionary tale of dot-com excess, Benchmark's $3.5 million investment (split with Sequoia) led to an IPO valuation of $8 billion <a class="yt-timestamp" data-t="01:06:09">[01:06:09]</a>. This demonstrated the firm's willingness to make high-upside, high-risk bets <a class="yt-timestamp" data-t="01:02:43">[01:02:43]</a>.
+
+The pivotal moment came in 1997 with the eBay investment <a class="yt-timestamp" data-t="01:10:02">[01:10:02]</a>. Pierre Omidyar, the founder of Auction Web (later eBay), was an engineer with a side project that was generating significant cash flow, but VCs largely dismissed it <a class="yt-timestamp" data-t="01:13:54">[01:13:54]</a>. Benchmark, leveraging the combined expertise of Bob Kegel (consumer psychology), Bruce Dunleavy (prior relationship with Omidyar), and David Byrne (executive recruitment), offered a $6.7 million Series A investment at a $20 million pre-money valuation <a class="yt-timestamp" data-t="01:16:48">[01:16:48]</a>. They were the only VC firm willing to structure a deal that included equity-backed loans (effectively a secondary transaction) to Omidyar and Jeff Skoll, giving them financial security to resist a $50 million acquisition offer from Knight Ridder <a class="yt-timestamp" data-t="01:19:49">[01:19:49]</a>.
+
+Within 18 months, by September 1998, with Meg Whitman recruited as CEO, Benchmark's $6.7 million stake in eBay was worth $400 million <a class="yt-timestamp" data-t="01:23:14">[01:23:14]</a>. By the time their lockup expired in spring 1999, it was worth over $4 billion, turning an $85 million fund into billions in returns <a class="yt-timestamp" data-t="01:23:25">[01:23:25]</a>. This singular investment alone provided a 47x return on their fund <a class="yt-timestamp" data-t="01:23:45">[01:23:45]</a>. The success of eBay was attributed to the market recognizing the internet's power, coupled with Benchmark's willingness to invest in a company that "was already working" despite its unconventional appearance <a class="yt-timestamp" data-t="01:29:34">[01:29:34]</a>.
+
+## The Benchmark Partnership Model
+
+The equal partnership model, with its shared economics and decision-making power, had profound effects:
+*   **Unbelievable Trust and Teamwork**: When no one has an incentive to claim individual credit, it fosters a deep sense of teamwork, even among highly competitive individuals <a class="yt-timestamp" data-t="01:40:03">[01:40:03]</a>. All partners benefit equally from any success, encouraging collective effort <a class="yt-timestamp" data-t="01:41:03">[01:41:03]</a>.
+*   **No Conflicting Incentives**: Unlike hierarchical firms where junior partners might prioritize their own portfolio companies or track record, Benchmark's equal structure eliminates secondary incentives that could create misalignment <a class="yt-timestamp" data-t="01:42:06">[01:42:06]</a>. This allows partners to focus 100% on the success of the portfolio without internal conflicts <a class="yt-timestamp" data-t="01:43:52">[01:43:52]</a>.
+*   **Focus on the "Game on the Field"**: The firm's structure minimizes administrative duties and career management concerns, allowing partners to dedicate 90-95% of their time to making investment decisions and supporting portfolio companies <a class="yt-timestamp" data-t="02:20:12">[02:20:12]</a>.
+*   **Cooperation as a "Secret Sauce"**: Rich Barton, a venture partner at Benchmark, noted that this culture of cooperation and trust among partners often spills over, serving as a model for entrepreneurs within their portfolio companies <a class="yt-timestamp" data-t="01:50:43">[01:50:43]</a>.
+
+However, the model also presents unique [[Challenges and adaptations in venture capital | challenges and adaptations in venture capital]]:
+*   **Need for All-Stars**: The model requires every active general partner to contribute equally in terms of effort and output <a class="yt-timestamp" data-t="01:45:49">[01:45:49]</a>. If partners are not equally valuable, it can lead to mediocrity or internal resentment <a class="yt-timestamp" data-t="01:45:15">[01:45:16]</a>.
+*   **Delicate Equilibrium**: Maintaining this "knife point" equilibrium is hard, especially during dry spells, as partners must support each other without introducing self-doubt <a class="yt-timestamp" data-t="01:49:17">[01:49:17]</a>.
+*   **Difficulty in Scaling**: The model is "designed not to scale" <a class="yt-timestamp" data-t="01:39:52">[01:39:52]</a>. Any deviation, like adding junior partners, would fundamentally alter the dynamics. This makes it challenging to expand or pursue multiple strategies simultaneously <a class="yt-timestamp" data-t="02:00:16">[02:00:16]</a>.
+
+## The Imperial Era and Course Correction (1999-2005)
+
+After the massive success of Fund I and eBay, Benchmark found itself overwhelmed with opportunities <a class="yt-timestamp" data-t="01:54:46">[01:54:46]</a>. They contemplated turning into a family office or raising larger funds <a class="yt-timestamp" data-t="01:54:51">[01:54:51]</a>. Despite their core belief in not scaling, they pursued a period of expansion:
+*   **Fund Size Increase**: They raised a $1 billion fourth fund <a class="yt-timestamp" data-t="02:17:59">[02:17:59]</a>, a significant jump from previous funds which were around $85-175 million <a class="yt-timestamp" data-t="02:18:04">[02:18:04]</a>.
+*   **International Expansion**: They expanded to Europe and Israel, raising separate funds ($750 million for Europe, $220 million for Israel) with new, separate partnerships, effectively licensing the Benchmark brand <a class="yt-timestamp" data-t="02:18:30">[02:18:30]</a>.
+*   **Corporate Partnerships**: They explored joint ventures and corporate networks with established companies like Goldman Sachs, GM, Nordstrom, and Toys R Us, aiming to leverage their brand for strategic partnerships with portfolio companies <a class="yt-timestamp" data-t="01:56:06">[01:56:06]</a>.
+
+During this period, Benchmark missed some generational defining companies:
+*   **Google (early 2000s)**: Bill Gurley, who joined in 1999 as the firm's sixth equal partner <a class="yt-timestamp" data-t="02:01:46">[02:01:46]</a>, publicly stated his regret that Benchmark "failed to pursue Google" with their typical hyper-competitiveness <a class="yt-timestamp" data-t="02:22:40">[02:22:40]</a>.
+*   **Skype (early 2000s)**: The international expansion led to confusion over which fund or partner should lead the investment, resulting in them losing the deal for the promising European company <a class="yt-timestamp" data-t="02:24:27">[02:24:27]</a>.
+*   **Facebook (2004-2005)**: Benchmark missed Facebook due to a conflict of interest, having invested in Friendster <a class="yt-timestamp" data-t="02:26:13">[02:26:13]</a>.
+
+These misses and the complexities of managing a larger, international, and diversified firm led to a period of underperformance and internal debate. Around 2004-2005, the partners decided to return to their core principles, spinning off the European and Israeli operations (which became Balderton and Accel-backed Olde) and refocusing on their original model in Silicon Valley <a class="yt-timestamp" data-t="02:30:28">[02:30:28]</a>.
+
+### Generational Transfer
+The period of 2005-2006 saw the first wave of original partners, including David Byrne and Andy Ratcliffe, step back and transition out of active GP roles <a class="yt-timestamp" data-t="02:31:02">[02:31:02]</a>. Critically, they adhered to the founding principles: they exited the management company and did not take carry in future funds, becoming LPs with their personal money <a class="yt-timestamp" data-t="02:31:56">[02:31:56]</a>. This "clean break" demonstrated the firm's commitment to its equal partnership ethos and allowed the next generation to take full ownership <a class="yt-timestamp" data-t="02:32:00">[02:32:00]</a>.
+
+## The "Fab Four" Era (2006-2015)
+
+With Bruce Dunleavy, Bob Kegel, Kevin Harvey, and Bill Gurley as the remaining active partners, Benchmark began recruiting new talent to inject "giddy up" back into the firm <a class="yt-timestamp" data-t="02:34:20">[02:34:20]</a>. They sought individuals who were already successful VCs, young, hungry, and fierce competitors but also capable teammates <a class="yt-timestamp" data-t="02:35:59">[02:35:59]</a>.
+
+This led to the formation of the "Fab Four" era, a highly successful lineup:
+*   **Peter Fenton (joined from Accel, 2006)**: Known for his ability to identify promising companies early, often one step ahead of other VCs <a class="yt-timestamp" data-t="02:37:26">[02:37:26]</a>. Peter made significant investments in Twitter, Docker, New Relic, and Elastic <a class="yt-timestamp" data-t="02:50:51">[02:50:51]</a>.
+*   **Mitch Laskey (joined 2007)**: An entrepreneur and CEO from the games industry, Mitch was an "unsung" part of the Fab Four <a class="yt-timestamp" data-t="02:39:09">[02:39:09]</a>. He made major investments in Snap and Discord <a class="yt-timestamp" data-t="02:40:37">[02:40:37]</a>.
+*   **Matt Kohler (joined from Facebook, 2008)**: Employee number five at Facebook and an early employee at LinkedIn, Matt had a "fundamental unfair advantage" in understanding consumer social products and the future of mobile advertising <a class="yt-timestamp" data-t="02:41:11">[02:41:11]</a>. He led early investments in Instagram and Asana <a class="yt-timestamp" data-t="02:44:50">[02:44:50]</a>.
+*   **Bill Gurley**: A master of marketplaces and a highly analytical investor, Bill brought a unique financial acumen to the firm <a class="yt-timestamp" data-t="02:14:10">[02:14:10]</a>. He made key investments in OpenTable, Zillow, GrubHub, and Uber <a class="yt-timestamp" data-t="02:14:31">[02:14:31]</a>.
+
+This group's success was amplified by their recognition of a [[Challenges and insights in the venture capital landscape | mispricing]] in Series A investments post-AWS and the rise of mobile <a class="yt-timestamp" data-t="02:15:02">[02:15:02]</a>. They shifted from "seed and startup" (pre-business plan/customer traction) to Series A, focusing on companies with early data and product-market fit <a class="yt-timestamp" data-t="02:10:42">[02:10:42]</a>.
+
+Benchmark Fund 7 (2011), a $550 million fund, is considered one of the best-performing funds of its size in history, with a 25x return before fees <a class="yt-timestamp" data-t="02:50:03">[02:50:03]</a>. Its portfolio included Uber, Snap, Discord, Stitch Fix, Duo Security, Docker, Elastic, Nextdoor, and WeWork <a class="yt-timestamp" data-t="02:51:13">[02:51:13]</a>.
+
+### The Uber Controversy
+Benchmark's investment in Uber, led by Bill Gurley in 2011 <a class="yt-timestamp" data-t="02:56:03">[02:56:03]</a>, became highly profitable, with their stake worth $8 billion by 2018 <a class="yt-timestamp" data-t="02:54:08">[02:54:08]</a>. However, Uber faced numerous controversies, from "delete Uber" campaigns to allegations of workplace misconduct <a class="yt-timestamp" data-t="03:00:51">[03:00:51]</a>. These issues created immense pressure on the company, its board, and investors, given Uber's unprecedented private market valuation (reportedly $70-80 billion) <a class="yt-timestamp" data-t="03:04:01">[03:04:01]</a>.
+
+The situation culminated in Benchmark suing co-founder and then-CEO Travis Kalanick <a class="yt-timestamp" data-t="03:00:13">[03:00:13]</a>. This unprecedented move, while controversial, was arguably seen by Benchmark as necessary to protect the immense value created for thousands of stakeholders up the stack <a class="yt-timestamp" data-t="03:05:11">[03:05:11]</a>. While some questioned its impact on Benchmark's reputation, it didn't meaningfully impact the firm directly and might have contributed to the end of the "Fab Four" era, as partners stepped back <a class="yt-timestamp" data-t="03:09:29">[03:09:29]</a>.
+
+## Current State and Future Dynamics
+
+The firm continued its generational transfer. In 2017-2018, Mitch Laskey and Matt Kohler stepped back, and Bill Gurley followed after Fund 9, leaving Peter Fenton as the only active GP from the "Fab Four" era <a class="yt-timestamp" data-t="03:10:11">[03:10:11]</a>.
+
+The firm has continued to recruit new non-traditional partners who often come from operating backgrounds or have demonstrated strong independent track records:
+*   **Eric Vishria (joined 2014)**: Former VP of Marketing at Loudcloud and Opsware, Eric has led investments in successful enterprise companies like Confluent, Amplitude, and Benchling <a class="yt-timestamp" data-t="03:10:40">[03:10:40]</a>.
+*   **Sarah Tavel (joined 2017)**: The first woman GP at Benchmark, Sarah came from Bessemer Venture Partners where she scouted Pinterest, and then worked at Pinterest herself before joining Greylock <a class="yt-timestamp" data-t="03:13:08">[03:13:08]</a>. She combines analytical rigor with a focus on consumer and marketplace investing, making a notable non-consensus investment in Chainalysis during the crypto winter <a class="yt-timestamp" data-t="03:15:02">[03:15:02]</a>.
+*   **Chetan Puttagunta (joined 2018)**: From NEA, Chetan had already achieved success with investments like Elastic, MuleSoft, and MongoDB <a class="yt-timestamp" data-t="03:17:49">[03:17:49]</a>.
+*   **Miles Grimshaw (joined 2021)**: Formerly of Thrive Capital, Miles had early involvement with successful companies like Dinner Table and Benchling <a class="yt-timestamp" data-t="03:18:43">[03:18:43]</a>.
+
+This current lineup consists of Peter Fenton, Eric Vishria, Sarah Tavel, Chetan Puttagunta, and Miles Grimshaw <a class="yt-timestamp" data-t="03:19:33">[03:19:33]</a>.
+
+### Playbook Insights
+*   **Not Thesis-Driven**: Benchmark is not a thesis-driven firm <a class="yt-timestamp" data-t="03:09:03">[03:09:03]</a>. Instead, its partners are "learning machines" who screen for talent and adapt to market shifts <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>. They famously host dinners where they invite CEOs of companies they missed to understand their failures and adapt <a class="yt-timestamp" data-t="03:59:58">[03:59:58]</a>.
+*   **Experimental Nature**: Despite their consistent core principles, Benchmark has historically been experimental, trying corporate partnerships, international funds, and even growth investing when it made sense <a class="yt-timestamp" data-t="04:04:45">[04:04:45]</a>.
+*   **"All-Stars Team" Dynamic**: Benchmark is characterized as an "All-Star team" rather than a hierarchical "Yankees" model, where every partner is expected to be an "All-Star" and contribute at the highest level <a class="yt-timestamp" data-t="03:20:00">[03:20:00]</a>.
+*   **Value Investors**: They are skilled at understanding the intrinsic value of companies, knowing when to sell (like with WeWork) and when to hold (like OpenTable when it was undervalued publicly) <a class="yt-timestamp" data-t="04:14:42">[04:14:42]</a>. This involves being "non-consensus and right," but not staying non-consensus for too long <a class="yt-timestamp" data-t="04:15:40">[04:15:40]</a>.
+*   **Strategic Advantages**: Benchmark's brand allows them to invest at lower valuations, and their reputation ensures that their portfolio companies are "almost guaranteed" their next round of funding, a significant de-risking for entrepreneurs <a class="yt-timestamp" data-t="03:33:51">[03:33:51]</a>. Board meetings with Benchmark partners are more like working sessions than pitches, as they are not the source of the next funding round <a class="yt-timestamp" data-t="03:36:37">[03:36:37]</a>.
+
+The future of Benchmark's investing, particularly in consumer versus B2B/SaaS, remains an open question <a class="yt-timestamp" data-t="04:42:43">[04:42:43]</a>. While their biggest past wins have been in consumer (eBay, Uber, Snap, Discord), the current partnership is well-suited for high-performing SaaS B2B enterprise investments <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>. The firm's next partner recruitment will be telling in this regard <a class="yt-timestamp" data-t="04:43:39">[04:43:39]</a>.

@@ -1,338 +1,437 @@
 ---
 title: acquiredfm
 ---
+### [Charlie Munger (Audio)](https://www.youtube.com/watch?v=w6qRb171cog)
+- [[charlie_mungers_investment_philosophy | Charlie Mungers investment philosophy]]
+- [[history_of_costco_and_its_business_model | History of Costco and its business model]]
+- [[global_securities_markets_and_investment_opportunities | Global securities markets and investment opportunities]]
+- [[partnership_dynamics_in_business_and_investing | Partnership dynamics in business and investing]]
+- [[challenges_and_insights_in_the_venture_capital_landscape | Challenges and insights in the venture capital landscape]]
+
 ### [The Mark Zuckerberg Interview](https://www.youtube.com/watch?v=QciJ9ubeLQk)
-- [[mark_zuckerbergs_reflections_on_the_early_days_of_facebook | Mark Zuckerbergs reflections on the early days of Facebook]]
-- [[metas_approach_to_product_development_and_innovation | Metas approach to product development and innovation]]
-- [[the_strategic_importance_of_owning_platforms_at_meta | The strategic importance of owning platforms at Meta]]
-- [[the_impact_of_political_challenges_on_meta | The impact of political challenges on Meta]]
-- [[mark_zuckerbergs_vision_for_the_future_of_meta | Mark Zuckerbergs vision for the future of Meta]]
+- [[mark_zuckerbergs_leadership_and_vision | Mark Zuckerbergs leadership and vision]]
+- [[metas_open_source_strategy | Metas open source strategy]]
+- [[technological_innovation_and_challenges_at_meta | Technological innovation and challenges at Meta]]
+- [[impact_of_political_challenges_on_tech_companies | Impact of political challenges on tech companies]]
+- [[metas_approach_to_ai_and_ar_development | Metas approach to AI and AR development]]
 
 ### [NVIDIA CEO Jensen Huang](https://www.youtube.com/watch?v=y6NfxiemvHg)
-- [[nvidias_strategic_positioning_and_dominance_in_ai | NVIDIAs strategic positioning and dominance in AI]]
-- [[history_and_evolution_of_nvidias_graphics_technology | History and evolution of NVIDIAs graphics technology]]
-- [[role_of_ai_and_machine_learning_in_modern_computing | Role of AI and machine learning in modern computing]]
-- [[nvidias_risktaking_and_decisionmaking_in_technology_development | NVIDIAs risktaking and decisionmaking in technology development]]
-- [[jensen_huangs_leadership_and_vision_for_future_technology_trends | Jensen Huangs leadership and vision for future technology trends]]
-
-### [TSMC founder Morris Chang](https://www.youtube.com/watch?v=FZItbr4ZJnc)
-- [[tsmcs_relationship_with_nvidia | TSMCs relationship with Nvidia]]
-- [[tsmcs_business_strategy_and_learning_curve_pricing | TSMCs business strategy and learning curve pricing]]
-- [[morris_changs_leadership_and_decisions_at_tsmc | Morris Changs leadership and decisions at TSMC]]
-- [[tsmcs_collaboration_with_apple_and_semiconductor_manufacturing_challenges | TSMCs collaboration with Apple and semiconductor manufacturing challenges]]
-- [[global_semiconductor_industry_evolution_and_tsmcs_role | Global semiconductor industry evolution and TSMCs role]]
+- [[nvidias_strategic_evolution_and_ai_dominance | NVIDIAs strategic evolution and AI dominance]]
+- [[the_development_and_impact_of_the_reva_128_graphics_chip | The development and impact of the Reva 128 graphics chip]]
+- [[the_role_of_ai_and_machine_learning_in_nvidias_growth | The role of AI and machine learning in NVIDIAs growth]]
+- [[insights_on_nvidias_management_and_organizational_structure | Insights on NVIDIAs management and organizational structure]]
+- [[the_significance_of_the_mellanox_acquisition_for_nvidias_data_center_strategy | The significance of the Mellanox acquisition for NVIDIAs data center strategy]]
 
 ### [Sessions: David Senra (Founders Podcast)](https://www.youtube.com/watch?v=PI6QcwnfNe8)
-- [[david_senras_passion_for_business_history | David Senras passion for business history]]
-- [[david_senras_dinner_with_charlie_munger | David Senras dinner with Charlie Munger]]
-- [[founder_stories_and_historical_business_lessons | Founder stories and historical business lessons]]
-- [[effect_of_past_entrepreneurs_on_modern_business | Effect of past entrepreneurs on modern business]]
-- [[behaviors_and_traits_of_successful_entrepreneurs | Behaviors and traits of successful entrepreneurs]]
+- [[david_senra_and_founders_podcast | David Senra and Founders Podcast]]
+- [[biographies_and_business_history | Biographies and business history]]
+- [[lessons_from_successful_entrepreneurs | Lessons from successful entrepreneurs]]
 
-### [Costco (Audio)](https://www.youtube.com/watch?v=9PxxtJVWRrg)
-- [[costcos_business_model_and_success | Costcos Business Model and Success]]
-- [[history_of_costco_and_price_club | History of Costco and Price Club]]
-- [[costcos_membership_and_pricing_strategy | Costcos Membership and Pricing Strategy]]
-- [[international_expansion_of_costco | International Expansion of Costco]]
-- [[costcos_supplier_relations_and_vertical_integration | Costcos Supplier Relations and Vertical Integration]]
-
-### [Renaissance Technologies (Audio)](https://www.youtube.com/watch?v=2KjW4BqNFy0)
-- [[renaissance_technologies_history_and_background | Renaissance Technologies history and background]]
-- [[jim_simons_and_key_figures_of_renaissance_technologies | Jim Simons and key figures of Renaissance Technologies]]
-- [[investment_strategies_and_performance_of_the_medallion_fund | Investment strategies and performance of the Medallion Fund]]
-- [[renaissance_technologies_role_in_machine_learning_and_quantitative_finance | Renaissance Technologies role in machine learning and quantitative finance]]
-- [[cultural_and_operational_practices_at_renaissance_technologies | Cultural and operational practices at Renaissance Technologies]]
-
-### [Porsche (with Doug DeMuro)](https://www.youtube.com/watch?v=V_fYfdXpkx4)
-- [[the_correct_pronunciation_of_porsche | The correct pronunciation of Porsche]]
-- [[the_history_of_porsche_as_a_luxury_car_manufacturer | The history of Porsche as a luxury car manufacturer]]
-- [[porsches_involvement_with_nazis_and_postwar_evolution | Porsches involvement with Nazis and postwar evolution]]
-- [[family_dynamics_and_the_corporate_structure_of_porsche | Family dynamics and the corporate structure of Porsche]]
-- [[porsches_product_strategy_including_suv_and_supercar_markets | Porsches product strategy including SUV and supercar markets]]
+### [TSMC founder Morris Chang](https://www.youtube.com/watch?v=FZItbr4ZJnc)
+- [[tsmcs_founding_and_morris_changs_vision | TSMCs founding and Morris Changs vision]]
+- [[the_evolution_of_the_semiconductor_industry_and_the_rise_of_the_fabless_model | The evolution of the semiconductor industry and the rise of the fabless model]]
+- [[tsmcs_partnerships_and_business_strategies | TSMCs partnerships and business strategies]]
+- [[the_impact_of_technological_advancements_on_tsmcs_growth | The impact of technological advancements on TSMCs growth]]
+- [[tsmcs_relationship_with_major_clients_like_nvidia_and_apple | TSMCs relationship with major clients like Nvidia and Apple]]
 
 ### [Starbucks (with Howard Schultz)](https://www.youtube.com/watch?v=A0fvX-wV70Y)
-- [[history_of_starbucks_and_howard_schultzs_journey | History of Starbucks and Howard Schultzs journey]]
-- [[starbucks_business_model_and_growth_strategy | Starbucks business model and growth strategy]]
-- [[challenges_and_transformations_in_starbucks_operations | Challenges and transformations in Starbucks operations]]
-- [[impact_of_global_expansion_and_customizations_at_starbucks | Impact of global expansion and customizations at Starbucks]]
-- [[leadership_and_cultural_legacy_at_starbucks | Leadership and cultural legacy at Starbucks]]
+- [[history_and_expansion_of_starbucks | History and Expansion of Starbucks]]
+- [[howard_schultzs_role_and_leadership_at_starbucks | Howard Schultzs Role and Leadership at Starbucks]]
+- [[starbucks_business_model_and_financial_strategies | Starbucks Business Model and Financial Strategies]]
+- [[international_growth_and_challenges_in_markets_like_china_and_italy | International Growth and Challenges in Markets like China and Italy]]
+- [[starbucks_approach_to_branding_culture_and_innovation | Starbucks Approach to Branding Culture and Innovation]]
 
-### [Benchmark Part I](https://www.youtube.com/watch?v=XyIqmNqZHnA)
-- [[benchmark_capital_history_and_evolution | Benchmark Capital history and evolution]]
-- [[venture_capital_strategies_and_firm_architecture | Venture capital strategies and firm architecture]]
-- [[silicon_valley_successes_and_failures | Silicon Valley successes and failures]]
-- [[notable_technology_investments_and_their_impact | Notable technology investments and their impact]]
-- [[the_culture_and_dynamics_of_venture_capital_partnerships | The culture and dynamics of venture capital partnerships]]
-
-### [Charlie Munger (Audio)](https://www.youtube.com/watch?v=w6qRb171cog)
-- [[charlie_mungers_insights_on_investing_and_partnerships | Charlie Mungers insights on investing and partnerships]]
-- [[the_costco_business_model_and_its_success | The Costco business model and its success]]
-- [[the_role_of_venture_capital_and_its_challenges | The role of venture capital and its challenges]]
-- [[investment_in_berkshire_hathaway_and_tinys_business_model | Investment in Berkshire Hathaway and Tinys business model]]
-- [[the_future_prospects_of_the_global_economy_and_investing_opportunities | The future prospects of the global economy and investing opportunities]]
-
-### [Lockheed Martin (Audio)](https://www.youtube.com/watch?v=atMrnp_EVcI)
-- [[lockheed_martin_history | Lockheed Martin history]]
-- [[skunk_works_and_its_impact | Skunk Works and its impact]]
-- [[u2_spy_plane_and_aerial_reconnaissance | U2 spy plane and aerial reconnaissance]]
-- [[militaryindustrial_complex | Militaryindustrial complex]]
-- [[technological_advancements_in_aerospace | Technological advancements in aerospace]]
+### [Costco (Audio)](https://www.youtube.com/watch?v=9PxxtJVWRrg)
+- [[costcos_business_model_and_evolution | Costcos business model and evolution]]
+- [[comparison_with_other_retail_giants_like_walmart_and_sams_club | Comparison with other retail giants like Walmart and Sams Club]]
+- [[costcos_operational_efficiencies_and_strategic_decisions | Costcos operational efficiencies and strategic decisions]]
+- [[costcos_membership_model_and_its_benefits | Costcos membership model and its benefits]]
+- [[history_and_impact_of_key_figures_in_costcos_development | History and impact of key figures in Costcos development]]
 
 ### [Novo Nordisk (Ozempic)](https://www.youtube.com/watch?v=EixhVBV2yzo)
-- [[history_and_evolution_of_novo_nordisk | History and evolution of Novo Nordisk]]
 - [[development_and_impact_of_glp1_drugs | Development and impact of GLP1 drugs]]
-- [[the_pharmaceutical_industrys_structure_and_economics | The pharmaceutical industrys structure and economics]]
-- [[challenges_and_complexities_of_the_us_healthcare_system | Challenges and complexities of the US healthcare system]]
-- [[insulin_market_and_pricing_dynamics | Insulin market and pricing dynamics]]
+- [[challenges_in_the_pharmaceutical_industry_and_healthcare_market | Challenges in the pharmaceutical industry and healthcare market]]
+- [[the_impact_and_future_of_obesity_treatments_like_ozempic | The impact and future of obesity treatments like Ozempic]]
+
+### [Porsche (with Doug DeMuro)](https://www.youtube.com/watch?v=V_fYfdXpkx4)
+- [[pronunciation_and_cultural_significance_of_porsche | Pronunciation and Cultural Significance of Porsche]]
+- [[history_and_founding_of_porsche | History and Founding of Porsche]]
+- [[porsche_and_nazi_connections | Porsche and Nazi Connections]]
+- [[volkswagen_and_porsche_relationship | Volkswagen and Porsche Relationship]]
+- [[legacy_and_brand_power_of_porsche | Legacy and Brand Power of Porsche]]
+
+### [Benchmark Part I](https://www.youtube.com/watch?v=XyIqmNqZHnA)
+- [[history_and_strategy_of_benchmark_capital | History and strategy of Benchmark Capital]]
+- [[venture_capital_dynamics_and_firm_structure | Venture capital dynamics and firm structure]]
+- [[impact_of_benchmarks_equal_partnership_model | Impact of Benchmarks equal partnership model]]
+- [[challenges_and_adaptations_in_venture_capital | Challenges and adaptations in venture capital]]
 
 ### [Enron](https://www.youtube.com/watch?v=GnK9tw5mkpk)
-- [[enron_business_practices | Enron business practices]]
-- [[enron_collapse_and_bankruptcy | Enron collapse and bankruptcy]]
-- [[ken_lay_and_jeff_skilling | Ken Lay and Jeff Skilling]]
-- [[financial_innovations_and_fraud | Financial innovations and fraud]]
-- [[sarbanesoxley_and_its_impact | SarbanesOxley and its impact]]
+- [[enrons_rise_and_fall | Enrons rise and fall]]
+- [[enron_and_business_ethics | Enron and business ethics]]
+- [[mark_to_market_accounting | Mark to market accounting]]
+- [[impact_of_enron_on_financial_regulations | Impact of Enron on financial regulations]]
 
-### [Hermès (Audio)](https://www.youtube.com/watch?v=hMSiaUCJkmc)
-- [[herms_history_and_legacy | Herms history and legacy]]
-- [[craftsmanship_and_artisanal_production | Craftsmanship and artisanal production]]
-- [[luxury_market_dynamics | Luxury market dynamics]]
-- [[branding_and_marketing_strategies | Branding and marketing strategies]]
-- [[family_business_continuity_and_resilience | Family business continuity and resilience]]
-
-### [Nvidia: The Machine Learning Company (2006-2022)](https://www.youtube.com/watch?v=xU_rLZqlca4)
-- [[nvidias_transition_from_gaming_to_enterprise_and_scientific_computing | Nvidias transition from gaming to enterprise and scientific computing]]
-- [[the_development_and_impact_of_nvidias_cuda_architecture | The development and impact of Nvidias CUDA architecture]]
-- [[nvidias_role_in_the_growth_of_artificial_intelligence_and_deep_learning | Nvidias role in the growth of artificial intelligence and deep learning]]
-- [[the_financial_journey_and_market_value_of_nvidia | The financial journey and market value of Nvidia]]
-- [[potential_future_challenges_and_opportunities_for_nvidia | Potential future challenges and opportunities for Nvidia]]
+### [Lockheed Martin (Audio)](https://www.youtube.com/watch?v=atMrnp_EVcI)
+- [[lockheed_martin_and_its_role_in_american_defense | Lockheed Martin and its role in American defense]]
+- [[the_role_and_impact_of_skunk_works_in_aviation_history | The role and impact of Skunk Works in aviation history]]
+- [[the_development_and_implications_of_surveillance_technology_like_the_u2_spy_plane_and_satellites | The development and implications of surveillance technology like the U2 spy plane and satellites]]
+- [[mergers_and_consolidations_in_the_defense_industry_postcold_war | Mergers and consolidations in the defense industry postCold War]]
+- [[the_dynamics_of_the_militaryindustrial_complex_in_the_united_states | The dynamics of the militaryindustrial complex in the United States]]
 
 ### [Walmart](https://www.youtube.com/watch?v=NSEdnld6i9A)
-- [[history_of_walmart_and_sam_walton | History of Walmart and Sam Walton]]
-- [[discount_retail_evolution_and_walmarts_role | Discount retail evolution and Walmarts role]]
-- [[walmarts_operational_strategies_and_innovations | Walmarts operational strategies and innovations]]
-- [[walmarts_impact_on_communities_and_global_market | Walmarts impact on communities and global market]]
-- [[walmarts_challenges_with_ecommerce_and_competition | Walmarts challenges with ecommerce and competition]]
+- [[history_and_development_of_walmart | History and development of Walmart]]
+- [[role_of_sam_walton_in_walmarts_success | Role of Sam Walton in Walmarts success]]
+- [[walmarts_logistics_and_operational_strategies | Walmarts logistics and operational strategies]]
+- [[walmarts_impact_on_retail_and_communities | Walmarts impact on retail and communities]]
+- [[challenges_and_adaptations_by_walmart_in_the_ecommerce_age | Challenges and adaptations by Walmart in the ecommerce age]]
 
-### [Trailer: What is Acquired?](https://www.youtube.com/watch?v=TW-uf9EvEB0)
-- [[history_of_technology_companies | history of technology companies]]
-- [[technology_strategy_and_storytelling | technology strategy and storytelling]]
-- [[company_profiles_like_nvidia_amazon_and_sony | company profiles like Nvidia Amazon and Sony]]
-- [[interviews_with_notable_figures | interviews with notable figures]]
-- [[audio_podcast_and_youtube_channel_content | audio podcast and YouTube channel content]]
+### [Holiday Special 2023 (Audio)](https://www.youtube.com/watch?v=UVetwUitW78)
+- [[impact_of_current_events_on_content_creation | Impact of current events on content creation]]
+
+### [Chase Center + Summer Update (Audio)](https://www.youtube.com/watch?v=1444rkhQwVc)
+- [[impact_of_wall_street_journal_article_on_podcast_growth | Impact of Wall Street Journal article on podcast growth]]
+- [[behind_the_scenes_of_acquired_podcast | Behind the scenes of Acquired podcast]]
+- [[personal_and_family_recommendations_from_podcast_hosts | Personal and family recommendations from podcast hosts]]
+
+### [Amazon Web Services](https://www.youtube.com/watch?v=APvj15_YCqk)
+- [[amazon_web_services_aws_history_and_origin_stories | Amazon Web Services AWS history and origin stories]]
+- [[growth_and_impact_of_aws_on_amazons_business | Growth and impact of AWS on Amazons business]]
+- [[awss_approach_to_cloud_computing_and_technology_strategy | AWSs approach to cloud computing and technology strategy]]
+- [[competitive_landscape_of_cloud_services_aws_vs_microsoft_azure_vs_google_cloud | Competitive landscape of cloud services AWS vs Microsoft Azure vs Google Cloud]]
+- [[awss_business_model_and_financial_impact | AWSs business model and financial impact]]
+
+### [The Origin Story of Qualcomm](https://www.youtube.com/watch?v=oYgNnJDSEqw)
+- [[qualcomms_origin_and_founding | Qualcomms origin and founding]]
+- [[pay_tv_video_scrambling_systems | Pay TV video scrambling systems]]
+- [[linkabits_acquisition_and_growth | Linkabits acquisition and growth]]
+- [[early_cellular_technology_and_development | Early cellular technology and development]]
+- [[code_division_multiple_access_cdma_innovation_and_patent | Code division multiple access CDMA innovation and patent]]
 
 ### [Amazon.com](https://www.youtube.com/watch?v=u3qIWN-ZIPk)
-- [[amazons_early_history_and_growth | Amazons Early History and Growth]]
-- [[impact_of_jeff_bezos_and_key_figures_on_amazon | Impact of Jeff Bezos and Key Figures on Amazon]]
-- [[amazons_competitive_strategies_and_market_position | Amazons Competitive Strategies and Market Position]]
-- [[technology_and_innovation_at_amazon | Technology and Innovation at Amazon]]
-- [[amazons_financial_strategies_and_business_model | Amazons Financial Strategies and Business Model]]
+- [[amazons_early_history_and_founding | Amazons early history and founding]]
+- [[impact_of_ecommerce_on_retail | Impact of ecommerce on retail]]
+- [[amazons_initial_public_offering_and_investor_relations | Amazons initial public offering and investor relations]]
+- [[competitive_dynamics_with_ebay_and_barnes__noble | Competitive dynamics with eBay and Barnes  Noble]]
+- [[amazons_business_strategies_and_innovations | Amazons business strategies and innovations]]
 
-### [Visa (Audio)](https://www.youtube.com/watch?v=akO8qAx4xjY)
-- [[history_and_evolution_of_visa | History and evolution of Visa]]
-- [[visas_business_model_and_economic_impact | Visas business model and economic impact]]
-- [[technological_innovations_in_payment_processing | Technological innovations in payment processing]]
-- [[challenges_and_competition_in_the_payment_industry | Challenges and competition in the payment industry]]
-- [[visas_global_marketing_and_brand_strategy | Visas global marketing and brand strategy]]
-
-### [Qualcomm](https://www.youtube.com/watch?v=Ng7LIRDhwwg)
-- [[qualcomms_history_and_founding_story | Qualcomms history and founding story]]
-- [[cdma_technology_and_its_impact_on_the_telecommunications_industry | CDMA technology and its impact on the telecommunications industry]]
-- [[qualcomms_business_model_and_patent_strategy | Qualcomms business model and patent strategy]]
-- [[qualcomms_role_in_the_development_of_wireless_technology_standards | Qualcomms role in the development of wireless technology standards]]
-- [[challenges_and_legal_disputes_faced_by_qualcomm | Challenges and legal disputes faced by Qualcomm]]
-
-### [Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg)](https://www.youtube.com/watch?v=KVc7EVfWq3M)
-- [[facebooks_early_challenges_and_strategy | Facebooks early challenges and strategy]]
-- [[metas_approach_to_technology_and_innovation | Metas approach to technology and innovation]]
-- [[mark_zuckerbergs_personal_and_leadership_philosophies | Mark Zuckerbergs personal and leadership philosophies]]
-- [[understanding_and_navigating_political_and_societal_impacts | Understanding and navigating political and societal impacts]]
-- [[the_future_of_technology_platforms_and_open_source | The future of technology platforms and open source]]
-
-### [Microsoft Volume I: The Complete History and Strategy of founding through Windows 95 (Audio)](https://www.youtube.com/watch?v=ycI_xXjpElY)
-- [[history_of_microsoft_from_founding_through_windows_95 | History of Microsoft from founding through Windows 95]]
-- [[microsofts_partnership_and_eventual_competition_with_ibm | Microsofts partnership and eventual competition with IBM]]
-- [[development_and_impact_of_the_microsoft_windows_operating_system | Development and impact of the Microsoft Windows operating system]]
-- [[microsofts_early_business_strategies_and_market_dominance | Microsofts early business strategies and market dominance]]
-- [[bill_gates_leadership_and_strategic_decisions_in_microsofts_growth | Bill Gates leadership and strategic decisions in Microsofts growth]]
+### [FTX with Sam Bankman-Fried & Mario Gabriele (Extended Cut)](https://www.youtube.com/watch?v=J2V4tg0QkBk)
+- [[strategy_behind_ftxs_rapid_growth | Strategy behind FTXs rapid growth]]
+- [[challenges_and_strategies_in_the_crypto_exchange_market | Challenges and strategies in the crypto exchange market]]
+- [[role_of_social_media_and_brand_building_in_modern_finance | Role of social media and brand building in modern finance]]
 
 ### [The NFL (Audio)](https://www.youtube.com/watch?v=odcLrGiAKVI)
-- [[history_and_evolution_of_the_nfl | History and Evolution of the NFL]]
-- [[impact_of_television_on_the_nfl | Impact of Television on the NFL]]
-- [[nfl_merger_with_the_afl | NFL Merger with the AFL]]
-- [[controversies_around_player_safety_and_cte | Controversies Around Player Safety and CTE]]
-- [[nfls_influence_and_business_strategy | NFLs Influence and Business Strategy]]
+- [[history_of_professional_football_leagues_in_america | History of Professional Football Leagues in America]]
+- [[economic_and_cultural_impact_of_the_nfl | Economic and Cultural Impact of the NFL]]
+- [[legal_and_ethical_challenges_faced_by_the_nfl | Legal and Ethical Challenges Faced by the NFL]]
+- [[televisions_influence_on_the_growth_of_the_nfl | Televisions Influence on the Growth of the NFL]]
+- [[shifts_in_nfls_business_model_and_revenue_streams | Shifts in NFLs Business Model and Revenue Streams]]
 
-### [Mars Inc. - The Chocolate Story (Audio)](https://www.youtube.com/watch?v=GyWJeY55x-8)
-- [[varieties_of_mms | Varieties of MMs]]
-- [[history_of_mars_incorporated | History of Mars Incorporated]]
-- [[chocolate_production_process | Chocolate Production Process]]
-- [[role_of_mars_in_pet_care_industry | Role of Mars in Pet Care Industry]]
-- [[influence_of_advertising_and_marketing_in_candy_industry | Influence of Advertising and Marketing in Candy Industry]]
+### [Benchmark’s Mitch Lasky and Blake Robbins on The Art of Business in Gaming](https://www.youtube.com/watch?v=kYTEzmY1ORY)
+- [[the_role_of_business_models_in_the_gaming_industry | The role of business models in the gaming industry]]
+- [[web3_and_blockchain_integration_in_games | Web3 and blockchain integration in games]]
 
-### [Uber CEO Dara Khosrowshahi](https://www.youtube.com/watch?v=HIzlvDHem0A)
-- [[ubers_financial_transformation_since_ipo | Ubers financial transformation since IPO]]
-- [[challenges_and_strategies_in_ridesharing_and_food_delivery | Challenges and strategies in ridesharing and food delivery]]
-- [[dara_khosrowshahis_career_and_leadership_insights | Dara Khosrowshahis career and leadership insights]]
-- [[ubers_approach_to_handling_competition_and_market_dynamics | Ubers approach to handling competition and market dynamics]]
-- [[challenges_and_future_of_selfdriving_technologies | Challenges and future of selfdriving technologies]]
+### [Peloton - the entire history and strategy behind America's trendiest workout](https://www.youtube.com/watch?v=j7kTpTrET98)
+- [[history_of_peloton | History of Peloton]]
+- [[pelotons_business_model_and_competitive_strategy | Pelotons business model and competitive strategy]]
+- [[challenges_faced_by_peloton | Challenges faced by Peloton]]
+- [[impact_of_the_pandemic_on_peloton | Impact of the pandemic on Peloton]]
+- [[barry_mccarthys_role_as_peloton_ceo | Barry McCarthys role as Peloton CEO]]
 
-### [Nvidia Part III: The Dawn of the AI Era (2022-2023) (Audio)](https://www.youtube.com/watch?v=nFB-AILkamw)
-- [[nvidias_dominance_in_ai | Nvidias dominance in AI]]
-- [[generative_ai_and_its_implications | Generative AI and its implications]]
-- [[nvidias_role_in_data_centers | Nvidias role in data centers]]
-- [[cuda_and_developer_ecosystem | Cuda and developer ecosystem]]
-- [[nvidias_business_strategy_and_growth | Nvidias business strategy and growth]]
+### [Is This The End For Amazon, TSMC and META?](https://www.youtube.com/watch?v=sAdCSFPArQc)
+- [[challenges_and_strategies_for_amazon_tsmc_and_meta | Challenges and strategies for Amazon TSMC and Meta]]
+- [[amazons_transition_from_growth_to_profitability | Amazons transition from growth to profitability]]
+- [[metas_approach_to_the_metaverse_and_its_implications | Metas approach to the metaverse and its implications]]
+- [[tsmcs_geopolitical_and_technological_challenges | TSMCs geopolitical and technological challenges]]
+- [[awss_growth_strategy_and_market_competition | AWSs growth strategy and market competition]]
 
-### [SONY (75 years of electronics history in 3 hours)](https://www.youtube.com/watch?v=_eqMKstqfa4)
-- [[history_of_sony_corporation | History of Sony Corporation]]
-- [[steve_jobs_and_sony_influence | Steve Jobs and Sony Influence]]
-- [[sonys_major_technological_innovations | Sonys Major Technological Innovations]]
-- [[sonys_business_and_market_strategy | Sonys Business and Market Strategy]]
-- [[challenging_times_and_turnaround_of_sony | Challenging Times and Turnaround of Sony]]
+### [Platforms and Power (with Hamilton Helmer and Chenyi Shi)](https://www.youtube.com/watch?v=JO-YH4byKr0)
+- [[seven_powers_framework | Seven Powers Framework]]
+- [[platform_power_and_competitive_advantage | Platform Power and Competitive Advantage]]
 
-### [Nvidia: The GPU Company (1993-2006)](https://www.youtube.com/watch?v=wYUTMgGxZzc)
-- [[nvidias_early_history_and_founding | Nvidias early history and founding]]
-- [[the_evolution_and_challenges_of_the_gpu_market | The evolution and challenges of the GPU market]]
-- [[jensen_huangs_leadership_and_strategic_decisions | Jensen Huangs leadership and strategic decisions]]
-- [[nvidias_innovation_and_adaptation_strategies | Nvidias innovation and adaptation strategies]]
-- [[nvidias_relationship_with_microsoft_and_the_video_game_industry | Nvidias relationship with Microsoft and the video game industry]]
+### [Visa (Audio)](https://www.youtube.com/watch?v=akO8qAx4xjY)
+- [[history_and_development_of_visa | History and development of Visa]]
+- [[visas_business_model_and_structure | Visas business model and structure]]
+- [[visas_technological_innovations | Visas technological innovations]]
+- [[impact_of_visa_on_global_commerce | Impact of Visa on global commerce]]
+- [[challenges_and_competition_in_the_payment_industry | Challenges and competition in the payment industry]]
 
-### [ACQ2: The Art of Selling Enterprise Software (with ServiceNow CEO Bill McDermott)](https://www.youtube.com/watch?v=Jkl033U2-OA)
-- [[enterprise_software_sales_strategies | Enterprise Software Sales Strategies]]
-- [[bill_mcdermotts_career_journey | Bill McDermotts Career Journey]]
-- [[the_role_of_brand_building_in_b2b_companies | The Role of Brand Building in B2B Companies]]
-- [[servicenows_approach_to_ai_and_automation | ServiceNows Approach to AI and Automation]]
-- [[the_evolution_and_challenges_of_enterprise_software_systems | The Evolution and Challenges of Enterprise Software Systems]]
+### [The Aggregation Theory:  What’s the Internet’s future?](https://www.youtube.com/watch?v=IqB6keOlxNo)
+- [[aggregation_theory_and_its_implications | Aggregation Theory and its implications]]
+- [[the_evolution_and_centralization_of_the_internet | The evolution and centralization of the internet]]
+- [[comparison_between_writing_a_book_and_internet_publishing | Comparison between writing a book and internet publishing]]
+- [[the_role_of_content_in_breaking_from_aggregators | The role of content in breaking from aggregators]]
+- [[the_concept_and_potential_missteps_of_platforms_like_twitter | The concept and potential missteps of platforms like Twitter]]
 
-### [IKEA (Audio)](https://www.youtube.com/watch?v=B1RafoZ1MzM)
-- [[history_and_business_model_of_ikea | History and business model of IKEA]]
-- [[ingvar_kamprads_early_life_and_influence_on_ikea | Ingvar Kamprads early life and influence on IKEA]]
-- [[ikeas_unique_corporate_structure_and_foundations | IKEAs unique corporate structure and foundations]]
-- [[development_and_impact_of_the_flat_pack_furniture_model | Development and impact of the flat pack furniture model]]
-- [[ikeas_global_expansion_and_adaptation_strategies | IKEAs global expansion and adaptation strategies]]
+### [Capital-Efficient Growth (with Zoom CEO Eric Yuan & Veeva CEO Peter Gassner)](https://www.youtube.com/watch?v=Ltq0mk0Hwj0)
+- [[capitalefficient_growth_strategies_in_technology_companies | Capitalefficient growth strategies in technology companies]]
+- [[challenges_and_strategies_in_fundraising_for_startups | Challenges and strategies in fundraising for startups]]
+- [[product_excellence_and_innovation_as_growth_drivers | Product excellence and innovation as growth drivers]]
+- [[hiring_strategies_for_capitalefficient_growth | Hiring strategies for capitalefficient growth]]
+- [[marketing_and_pricing_strategies_in_saas_businesses | Marketing and pricing strategies in SaaS businesses]]
 
-### [Rolex (Audio)](https://www.youtube.com/watch?v=nUKLhaa0Pus)
-- [[history_and_heritage_of_rolex | History and Heritage of Rolex]]
-- [[rolexs_marketing_and_branding_strategies | Rolexs Marketing and Branding Strategies]]
-- [[development_of_the_swiss_watch_industry | Development of the Swiss Watch Industry]]
-- [[rolexs_challenges_and_innovations | Rolexs Challenges and Innovations]]
-- [[the_quartz_crisis_impact_on_rolex | The Quartz Crisis Impact on Rolex]]
+### [The Browser (with Brendan Eich, Chief Architect of Netscape + Mozilla and CEO of Brave)](https://www.youtube.com/watch?v=qRsvSz7u_d4)
+- [[brave_browser_and_its_features | Brave browser and its features]]
+- [[history_and_evolution_of_web_browsers | History and evolution of web browsers]]
+- [[privacy_in_the_digital_age | Privacy in the digital age]]
+- [[economic_implications_of_tracking_and_advertising | Economic implications of tracking and advertising]]
+- [[development_and_impact_of_blockchain_technology | Development and impact of blockchain technology]]
 
-### [The Playbook: Lessons from 200+ Company Stories](https://www.youtube.com/watch?v=Wq16lyNpmYs)
-- [[lessons_from_successful_company_strategies | Lessons from successful company strategies]]
-- [[importance_of_optimism_in_business | Importance of optimism in business]]
-- [[understanding_moores_law_and_its_impact | Understanding Moores Law and its impact]]
-- [[letting_business_winners_ride | Letting business winners ride]]
-- [[building_and_maintaining_business_resilience | Building and maintaining business resilience]]
+### [Jeff Bezos’ Early Work at a Secretive Hedge Fund](https://www.youtube.com/watch?v=S6n7KaT6mlI)
+- [[jeff_bezos_early_career_at_a_startup | Jeff Bezos early career at a startup]]
+- [[early_network_technology_for_highspeed_trading | Early network technology for highspeed trading]]
+- [[transition_to_finance_and_quantitative_trading | Transition to finance and quantitative trading]]
+- [[influences_and_inspirations_from_d_e_shaw | Influences and inspirations from D E Shaw]]
+- [[bezos_and_the_foundation_of_amazon | Bezos and the foundation of Amazon]]
 
-### [Spotify CEO Daniel Ek](https://www.youtube.com/watch?v=5iLbbuEecJU)
-- [[spotifys_transformation_from_a_music_to_an_audio_company | Spotifys transformation from a music to an audio company]]
-- [[daniel_eks_insights_on_podcasting_and_audiobooks | Daniel Eks insights on podcasting and audiobooks]]
-- [[the_evolution_and_monetization_of_spotifys_podcasting_business | The evolution and monetization of Spotifys podcasting business]]
-- [[the_impact_of_cultural_and_global_music_trends_on_spotify | The impact of cultural and global music trends on Spotify]]
-- [[the_role_of_ai_and_new_technologies_in_music_creation_and_consumption | The role of AI and new technologies in music creation and consumption]]
+### [Microsoft Volume I: The Complete History and Strategy of founding through Windows 95 (Audio)](https://www.youtube.com/watch?v=ycI_xXjpElY)
+- [[microsofts_founding_and_early_history | Microsofts founding and early history]]
+- [[development_of_msdos_and_the_ibm_partnership | Development of MSDOS and the IBM partnership]]
+- [[windows_operating_system_evolution | Windows operating system evolution]]
+- [[microsofts_transition_to_graphical_user_interface | Microsofts transition to graphical user interface]]
+- [[market_strategy_and_business_growth_through_windows_95 | Market strategy and business growth through Windows 95]]
 
-### [TSMC (Remastered)](https://www.youtube.com/watch?v=tuB3_fJyC5Q)
-- [[tsmcs_founding_and_evolution | TSMCs Founding and Evolution]]
-- [[role_of_tsmc_in_the_global_semiconductor_industry | Role of TSMC in the Global Semiconductor Industry]]
-- [[challenges_and_advantages_in_semiconductor_manufacturing | Challenges and Advantages in Semiconductor Manufacturing]]
-- [[impact_of_geopolitics_on_tsmc | Impact of Geopolitics on TSMC]]
-- [[comparison_of_tsmcs_business_model_to_competitors | Comparison of TSMCs Business Model to Competitors]]
+### [Complexity Investing & Semiconductors with NZS Capital (Extended Cut)](https://www.youtube.com/watch?v=mKlUwJQT7Pk)
+- [[semiconductor_industry_dynamics | Semiconductor industry dynamics]]
+- [[complexity_investing_principles | Complexity investing principles]]
+- [[resilience_and_optionality_in_investing | Resilience and optionality in investing]]
+- [[tsmc_and_its_importance_in_global_supply_chains | TSMC and its importance in global supply chains]]
+- [[geopolitical_risks_in_the_semiconductor_market | Geopolitical risks in the semiconductor market]]
 
-### [Meta (Audio)](https://www.youtube.com/watch?v=CS2Lqdwja8o)
-- [[history_of_meta_and_facebook | History of Meta and Facebook]]
-- [[facebooks_growth_and_challenges | Facebooks growth and challenges]]
-- [[impact_of_mobile_on_facebook | Impact of mobile on Facebook]]
-- [[facebooks_introduction_of_newsfeed_and_platform | Facebooks introduction of Newsfeed and platform]]
-- [[significance_of_facebooks_initial_public_offering_ipo | Significance of Facebooks initial public offering IPO]]
+### [ACQ2: Why Duolingo Worked (with Luis von Ahn, CEO)](https://www.youtube.com/watch?v=vx2uIgL1QVw)
+- [[duolingos_success_strategy | Duolingos success strategy]]
+- [[gamification_in_education_apps | Gamification in education apps]]
+- [[ai_and_machine_learning_in_language_learning | AI and machine learning in language learning]]
+- [[challenges_and_opportunities_in_educational_technology | Challenges and opportunities in educational technology]]
+- [[market_expansion_and_monetization_of_duolingo | Market expansion and monetization of Duolingo]]
 
-### [Benchmark Part II: The Dinner](https://www.youtube.com/watch?v=ugTUtpkhBDw)
-- [[social_dynamics_of_european_dinners | Social dynamics of European dinners]]
-- [[benchmark_venture_capital_firms_structure_and_strategy | Benchmark Venture Capital firms structure and strategy]]
-- [[venture_capital_investment_strategies | Venture capital investment strategies]]
-- [[role_of_vulnerability_and_openness_in_effective_partnerships | Role of vulnerability and openness in effective partnerships]]
-- [[maintaining_focus_in_venture_capital_amidst_growth_opportunities | Maintaining focus in venture capital amidst growth opportunities]]
+### [ACQ2: Building Web Apps with Just English and AI (with Vercel CEO Guillermo Rauch)](https://www.youtube.com/watch?v=4VG9B05xD7M)
+- [[vercels_platform_for_web_app_development | Vercels platform for web app development]]
+- [[impact_of_ai_on_software_development | Impact of AI on software development]]
+- [[the_evolution_of_web_technologies_like_nextjs_and_vercel | The evolution of web technologies like Nextjs and Vercel]]
+- [[open_source_business_models_and_strategies | Open source business models and strategies]]
+- [[leadership_insights_in_tech_companies | Leadership insights in tech companies]]
 
-### [ACQ Sessions: Jason Calacanis](https://www.youtube.com/watch?v=kbKGlAJsPIE)
-- [[jason_calacanis_and_early_career_experiences | Jason Calacanis and early career experiences]]
-- [[acquired_sessions_podcast_and_format | Acquired Sessions podcast and format]]
-- [[vanta_and_security_compliance | Vanta and security compliance]]
-- [[all_in_podcast_with_chamath_palihapitiya | All In podcast with Chamath Palihapitiya]]
-- [[silicon_valley_and_vc_industry_trends | Silicon Valley and VC industry trends]]
+### [The Story of Kenneth Lay - CEO and Founder of Enron](https://www.youtube.com/watch?v=6SOx_yFXRkE)
+- [[early_life_and_education_of_kenneth_lay | Early life and education of Kenneth Lay]]
+- [[kenneth_lays_career_milestones_and_achievements | Kenneth Lays career milestones and achievements]]
+- [[the_formation_and_impact_of_enron | The formation and impact of Enron]]
+- [[deregulation_and_its_effect_on_the_energy_industry | Deregulation and its effect on the energy industry]]
+- [[role_of_jeff_skilling_and_mckinsey_in_enrons_strategy | Role of Jeff Skilling and McKinsey in Enrons strategy]]
 
-### [Microsoft Volume II: The Complete History and Strategy of the Ballmer Years (Audio)](https://www.youtube.com/watch?v=6oER1bdQa_s)
-- [[microsoft_volume_ii__the_ballmer_years | Microsoft Volume II  The Ballmer Years]]
-- [[microsofts_enterprise_transformation | Microsofts Enterprise Transformation]]
-- [[antitrust_and_its_impact_on_microsoft | Antitrust and its Impact on Microsoft]]
-- [[microsofts_consumer_product_challenges | Microsofts Consumer Product Challenges]]
-- [[the_emergence_of_microsoft_azure | The Emergence of Microsoft Azure]]
+### [The Path to Exceptionality with Billionaire Investor Howard Marks](https://www.youtube.com/watch?v=UX-TdHm4E8s)
+- [[investment_strategy_and_personal_suitability | Investment Strategy and Personal Suitability]]
+- [[career_advice_and_personal_fulfillment | Career Advice and Personal Fulfillment]]
+- [[learning_evolution_and_openmindedness_in_investing | Learning Evolution and Openmindedness in Investing]]
+- [[qualitative_judgment_and_human_insight_in_investing | Qualitative Judgment and Human Insight in Investing]]
+- [[recruiting_founders_and_the_key_to_startup_success | Recruiting Founders and the Key to Startup Success]]
 
-### [Altimeter (with Brad Gerstner)](https://www.youtube.com/watch?v=npBC3R-dOr0)
-- [[crossover_investing | Crossover investing]]
-- [[venture_capital_and_hedge_funds | Venture capital and hedge funds]]
-- [[altimeter_capitals_investment_strategy | Altimeter Capitals investment strategy]]
-- [[public_market_innovations_and_ipos | Public market innovations and IPOs]]
-- [[invest_america_initiative | Invest America initiative]]
+### [Holiday Special 2022](https://www.youtube.com/watch?v=u0b7OnSrICs)
+- [[2022_technology_recap_and_upcoming_2023_trends | 2022 technology recap and upcoming 2023 trends]]
+- [[the_impact_of_cybersecurity_and_compliance_in_startups | The impact of cybersecurity and compliance in startups]]
+- [[the_rise_and_challenges_of_major_tech_companies_and_ipos | The rise and challenges of major tech companies and IPOs]]
+- [[business_insights_from_leading_technology_companies_like_sony_and_nvidia | Business insights from leading technology companies like Sony and Nvidia]]
+- [[cultural_and_societal_impact_on_tech_consumption_and_growth | Cultural and societal impact on tech consumption and growth]]
 
-### [Taylor Swift (Acquired’s Version)](https://www.youtube.com/watch?v=ssljH1mQyfk)
-- [[taylor_swifts_impact_on_the_music_industry | Taylor Swifts impact on the music industry]]
-- [[taylor_swifts_business_and_brand_strategies | Taylor Swifts business and brand strategies]]
-- [[the_dynamics_and_economics_of_music_streaming | The dynamics and economics of music streaming]]
-- [[the_role_of_record_labels_and_artist_deals | The role of record labels and artist deals]]
-- [[comparison_between_traditional_and_modern_music_industry_economics | Comparison between traditional and modern music industry economics]]
+### [Congressman Anthony Gonzalez Was Watching /r/wallstreetbets Live During the Meme Stock Hearings](https://www.youtube.com/watch?v=yM6iLE5YV2s)
+- [[congressional_focus_on_financial_institutions_and_china | Congressional focus on financial institutions and China]]
+- [[the_gamestop_meme_stock_craze_and_wallstreetbets | The GameStop meme stock craze and WallStreetBets]]
+- [[disappointment_in_legislative_outcomes_from_meme_stock_hearings | Disappointment in legislative outcomes from meme stock hearings]]
+- [[political_challenges_in_passing_financial_legislation_in_congress | Political challenges in passing financial legislation in Congress]]
+- [[congressman_anthony_gonzalezs_experience_with_online_forums_during_hearings | Congressman Anthony Gonzalezs experience with online forums during hearings]]
 
-### [CAA (with Michael Ovitz)](https://www.youtube.com/watch?v=-b8BFJFjN1s)
-- [[impact_of_creative_artists_agency_on_hollywood | Impact of Creative Artists Agency on Hollywood]]
-- [[role_of_michael_ovitz_in_film_packaging_and_agency_dynamics | Role of Michael Ovitz in film packaging and agency dynamics]]
-- [[caas_venture_into_investment_banking_and_corporate_deals | CAAs venture into investment banking and corporate deals]]
-- [[transition_from_agency_to_media_executive_roles | Transition from agency to media executive roles]]
-- [[caas_culture_and_teamwork_approach | CAAs culture and teamwork approach]]
+### [American Dynamism (with Katherine Boyle)](https://www.youtube.com/watch?v=F7e38dtfvJI)
+- [[american_dynamism_thesis | American Dynamism thesis]]
+- [[venture_capital_and_government_interaction | Venture Capital and government interaction]]
+- [[technological_innovation_in_traditional_industries | Technological innovation in traditional industries]]
+- [[decentralization_of_silicon_valley | Decentralization of Silicon Valley]]
+- [[role_of_public_and_private_sectors_in_defense_and_infrastructure | Role of public and private sectors in defense and infrastructure]]
 
-### [Howard Marks & Andrew Marks: Something of Value](https://www.youtube.com/watch?v=k9xXpsoRG18)
-- [[value_investing_vs_growth_investing | Value Investing vs Growth Investing]]
-- [[the_evolution_of_investment_strategies | The Evolution of Investment Strategies]]
-- [[the_role_of_technology_in_investing | The Role of Technology in Investing]]
-- [[judgment_and_decisionmaking_in_investments | Judgment and DecisionMaking in Investments]]
-- [[building_and_managing_investment_firms | Building and Managing Investment Firms]]
+### [The Origins of the Benchmark Dinner](https://www.youtube.com/watch?v=horrlH7n8Mw)
+- [[origins_of_the_benchmark_dinner | Origins of the Benchmark Dinner]]
+- [[influences_from_benjamin_franklins_dinners | Influences from Benjamin Franklins Dinners]]
+- [[role_of_curiosity_and_habits_in_venture_firms | Role of Curiosity and Habits in Venture Firms]]
+- [[design_and_impact_of_the_unique_table | Design and Impact of the Unique Table]]
+- [[guest_selection_and_significance_at_benchmark_dinners | Guest Selection and Significance at Benchmark Dinners]]
 
-### [The Legend Michael Mauboussin on Acquired!](https://www.youtube.com/watch?v=E4B6bNbdQoc)
-- [[michael_mauboussins_insights_on_skill_and_luck_in_investing | Michael Mauboussins insights on skill and luck in investing]]
-- [[the_significance_of_expectations_investing_and_valuation | The significance of expectations investing and valuation]]
-- [[softbanks_impact_on_the_latin_american_startup_ecosystem | SoftBanks impact on the Latin American startup ecosystem]]
-- [[the_evolution_and_challenges_in_the_housing_and_real_estate_sector | The evolution and challenges in the housing and real estate sector]]
-- [[the_influence_of_intangible_assets_on_modern_investment_strategies | The influence of intangible assets on modern investment strategies]]
+### [Not Boring (with Packy McCormick) - Extended Cut](https://www.youtube.com/watch?v=n_x4XCz2674)
+- [[growth_and_strategy_of_not_boring | Growth and strategy of Not Boring]]
+- [[transitioning_from_media_to_investment | Transitioning from media to investment]]
+- [[building_a_solo_corporation | Building a solo corporation]]
+- [[sponsorships_and_revenue_models_in_media | Sponsorships and revenue models in media]]
+- [[not_boring_capital_and_venture_investing | Not Boring Capital and venture investing]]
 
-### [Standard Oil Part 1](https://www.youtube.com/watch?v=h_jVQZgiP1A)
-- [[history_of_standard_oil | History of Standard Oil]]
-- [[john_d_rockefeller_and_his_business_strategies | John D Rockefeller and his business strategies]]
-- [[impact_of_standard_oils_monopolistic_practices | Impact of Standard Oils monopolistic practices]]
-- [[legal_and_regulatory_challenges_faced_by_standard_oil | Legal and regulatory challenges faced by Standard Oil]]
-- [[legacy_and_breakup_of_standard_oil | Legacy and breakup of Standard Oil]]
+### [How Music Licensing Works](https://www.youtube.com/watch?v=p5Wm7HAfzHE)
+- [[music_licensing_overview | Music licensing overview]]
+- [[sound_recording_and_musical_composition_copyrights | Sound recording and musical composition copyrights]]
+- [[role_of_record_labels_and_music_publishers | Role of record labels and music publishers]]
+- [[economic_splits_and_recoupment_in_music_deals | Economic splits and recoupment in music deals]]
+- [[comparison_to_venture_capital_industry | Comparison to venture capital industry]]
 
-### [Stratechery (with Ben Thompson)](https://www.youtube.com/watch?v=0renk9Zy2Wk)
-- [[business_strategy_and_impact_of_technology | Business strategy and impact of technology]]
-- [[evolution_and_future_of_online_media_and_subscription_models | Evolution and future of online media and subscription models]]
-- [[metaverse_and_its_implications_for_companies_like_meta | Metaverse and its implications for companies like Meta]]
-- [[importance_of_company_culture_and_decisionmaking_in_tech_companies | Importance of company culture and decisionmaking in tech companies]]
-- [[role_of_publishing_and_marketing_in_techfocused_businesses | Role of publishing and marketing in techfocused businesses]]
+### [ACQ2: The Software Behind Silicon (with Synopsys Founder Aart de Geus and CEO Sassine Ghazi)](https://www.youtube.com/watch?v=uSchEDY6y20)
+- [[the_role_of_electronic_design_automation_in_chip_design | The role of electronic design automation in chip design]]
+- [[the_history_and_evolution_of_synopsys | The history and evolution of Synopsys]]
+- [[challenges_in_semiconductor_manufacturing_and_technology_optimization | Challenges in semiconductor manufacturing and technology optimization]]
+- [[impact_of_ai_in_electronic_design_automation | Impact of AI in electronic design automation]]
+- [[the_future_of_semiconductor_design_and_simulation | The future of semiconductor design and simulation]]
 
-### [Epic Systems (MyChart)](https://www.youtube.com/watch?v=FNRU9ZNqcls)
-- [[epic_systems_overview | Epic systems overview]]
-- [[judith_faulkner_and_epics_founding | Judith Faulkner and Epics founding]]
-- [[epics_competitive_edge_and_business_model | Epics competitive edge and business model]]
-- [[healthcare_industry_challenges_and_epics_role | Healthcare industry challenges and Epics role]]
-- [[future_prospects_and_criticisms_of_epic | Future prospects and criticisms of Epic]]
+### [ACQ2: Building the Open Source AI Revolution (with Hugging Face CEO, Clem Delangue)](https://www.youtube.com/watch?v=hzc1covUhYM)
+- [[open_source_ai | Open Source AI]]
+- [[hugging_face_platform | Hugging Face platform]]
+- [[ai_builders_and_technology | AI Builders and technology]]
+- [[evolution_of_ai_development | Evolution of AI development]]
+- [[investment_and_business_models_in_ai | Investment and business models in AI]]
 
-### [Nike (Audio)](https://www.youtube.com/watch?v=eg1jF6YE8L8)
-- [[nikes_business_and_marketing_strategy | Nikes business and marketing strategy]]
-- [[origin_and_evolution_of_nike | Origin and evolution of Nike]]
-- [[impact_of_athlete_endorsements_and_sponsorships | Impact of athlete endorsements and sponsorships]]
-- [[nikes_financials_and_market_presence | Nikes financials and market presence]]
-- [[challenges_and_controversies_faced_by_nike | Challenges and controversies faced by Nike]]
+### [Slack + Salesforce Emergency Pod with Packy McCormick of Not Boring](https://www.youtube.com/watch?v=kOEVszzMimc)
+- [[slack_and_salesforce_acquisition_details | Slack and Salesforce acquisition details]]
+- [[microsoft_teams_vs_slack | Microsoft Teams vs Slack]]
+- [[salesforce_strategic_acquisitions | Salesforce strategic acquisitions]]
+- [[slack_connect_and_its_strategic_importance | Slack Connect and its strategic importance]]
+- [[future_of_workplace_communication_tools | Future of workplace communication tools]]
 
-### [Standard Oil Part II (Extended Cut)](https://www.youtube.com/watch?v=tPNBVGPWSfc)
-- [[the_breakup_of_standard_oil | The breakup of Standard Oil]]
-- [[john_d_rockefellers_legacy_and_philanthropy | John D Rockefellers legacy and philanthropy]]
-- [[the_role_of_investigative_journalism_in_standard_oils_history | The role of investigative journalism in Standard Oils history]]
-- [[economic_impact_of_standard_oils_dissolution | Economic impact of Standard Oils dissolution]]
-- [[modern_implications_for_big_tech_and_antitrust | Modern implications for Big Tech and antitrust]]
+### [The LEGENDARY Founding Story of Benchmark](https://www.youtube.com/watch?v=DoOha6bK-8E)
+- [[silicon_valley_venture_capital_history | Silicon Valley Venture Capital history]]
+- [[equality_and_partnership_in_venture_capital | Equality and partnership in venture capital]]
+- [[founding_story_of_benchmark_capital | Founding story of Benchmark Capital]]
+- [[key_figures_in_early_benchmark_capital | Key figures in early Benchmark Capital]]
+- [[challenges_and_strategy_in_venture_capital_formation | Challenges and strategy in venture capital formation]]
+
+### [ACQ2: Building a Disruptive Payments Company (with Klarna CEO Sebastian Siemiatkowski) (Audio)](https://www.youtube.com/watch?v=rUtQ6PAsBV4)
+- [[klarnas_business_model_and_origin | Klarnas Business Model and Origin]]
+- [[challenges_and_strategies_in_the_global_payments_industry | Challenges and Strategies in the Global Payments Industry]]
+- [[buy_now_pay_later_trend | Buy Now Pay Later Trend]]
+- [[ai_and_automation_in_customer_service | AI and Automation in Customer Service]]
+- [[expansion_and_competition_in_the_payments_market | Expansion and Competition in the Payments Market]]
+
+### [Amazon's Colossal Investment to Dominate Machine Learning](https://www.youtube.com/watch?v=ifA0ZRiOmx0)
+- [[amazons_machine_learning_strategy | Amazons machine learning strategy]]
+- [[sagemaker_and_custom_ml_offerings | SageMaker and custom ML offerings]]
+- [[amazons_cloudhosted_ml_services | Amazons cloudhosted ML services]]
+- [[integration_with_existing_data_storage_solutions | Integration with existing data storage solutions]]
+- [[comparison_of_amazons_ml_capabilities_with_googles | Comparison of Amazons ML capabilities with Googles]]
+
+### [Arena Show Part II: Brooks Running (with CEO Jim Weber)](https://www.youtube.com/watch?v=Egu_N8lMPjc)
+- [[brooks_running_company_history_and_transformation | Brooks Running company history and transformation]]
+- [[leadership_and_business_strategies_in_turnaround_situations | Leadership and business strategies in turnaround situations]]
+- [[the_impact_of_the_pandemic_on_the_running_industry | The impact of the pandemic on the running industry]]
+- [[entrepreneurial_lessons_from_warren_buffett_and_berkshire_hathaway | Entrepreneurial lessons from Warren Buffett and Berkshire Hathaway]]
+- [[brand_positioning_and_marketing_strategies_in_the_sports_industry | Brand positioning and marketing strategies in the sports industry]]
+
+### [HARSH Realities of Starting a Paid Online Business](https://www.youtube.com/watch?v=rlo0OZ2yz6M)
+- [[challenges_of_launching_a_subscriptionbased_online_business | Challenges of launching a subscriptionbased online business]]
+- [[importance_of_product_market_fit_and_user_experience | Importance of product market fit and user experience]]
+- [[adapting_business_models_in_initial_stages | Adapting business models in initial stages]]
+- [[scaling_and_feedback_mechanisms_in_subscription_businesses | Scaling and feedback mechanisms in subscription businesses]]
+- [[balancing_customer_feedback_with_personal_business_vision | Balancing customer feedback with personal business vision]]
+
+### [Behind The Scenes: Acquired Live at Chase Center, Presented by J.P. Morgan Payments (2024)](https://www.youtube.com/watch?v=BhkeMziNI0M)
+- [[collaboration_with_jp_morgan_payments_and_acquired_podcast | Collaboration with JP Morgan Payments and Acquired podcast]]
+- [[live_event_organization_at_chase_center | Live event organization at Chase Center]]
+- [[growth_and_success_of_acquired_podcast | Growth and success of Acquired podcast]]
+- [[art_and_design_for_largescale_events | Art and design for largescale events]]
+- [[interview_highlights_with_mark_and_candid_discussions | Interview highlights with Mark and candid discussions]]
+
+### [Why Venture Capital is a Probabilistic Game](https://www.youtube.com/watch?v=HDFRcn79dCU)
+- [[advantages_of_private_market_investing | Advantages of private market investing]]
+- [[venture_capital_as_a_probabilistic_endeavor | Venture capital as a probabilistic endeavor]]
+- [[qualitative_judgments_in_venture_capital | Qualitative judgments in venture capital]]
+- [[traditional_investing_principles_in_venture_capital | Traditional investing principles in venture capital]]
+- [[skill_set_alignment_in_investment_strategies | Skill set alignment in investment strategies]]
+
+### [Qualcomm Stock Was Tesla Before Tesla! Crazy Dot-com Run-up.](https://www.youtube.com/watch?v=p7CSSaypUZc)
+- [[qualcomms_financial_history_and_stock_performance | Qualcomms financial history and stock performance]]
+- [[transition_from_manufacturing_to_semiconductor_and_licensing_business | Transition from manufacturing to semiconductor and licensing business]]
+- [[adoption_and_impact_of_cdma_technology | Adoption and impact of CDMA technology]]
+- [[qualcomms_strategic_decisions_and_acquisitions | Qualcomms strategic decisions and acquisitions]]
+- [[impact_and_evolution_of_qualcomms_snapdragon_technology | Impact and evolution of Qualcomms Snapdragon technology]]
+
+### [TSMC Doesn’t Charge as Much as They Could: Hamilton Helmer Describes the Unusual Reason](https://www.youtube.com/watch?v=wcSCiUpnJZU)
+- [[tsmc_pricing_strategy | TSMC pricing strategy]]
+- [[customer_loyalty_and_retention | Customer loyalty and retention]]
+- [[scale_economies_in_semiconductor_industry | Scale economies in semiconductor industry]]
+- [[unusual_industry_characteristics | Unusual industry characteristics]]
+- [[technology_choices_and_advances_in_semiconductors | Technology choices and advances in semiconductors]]
+
+### [Arena Show Part I: Idea Dinner + YC Continuity](https://www.youtube.com/watch?v=tMstSL31b4g)
+- [[yc_continuity_and_latestage_growth_investments | YC continuity and latestage growth investments]]
+- [[founders_insights_and_mentorship_at_y_combinator | Founders insights and mentorship at Y Combinator]]
+- [[challenges_and_opportunities_in_the_insurance_industry_with_vouch | Challenges and opportunities in the insurance industry with Vouch]]
+- [[community_and_network_effects_at_y_combinator | Community and network effects at Y Combinator]]
+- [[the_global_reach_and_growth_of_y_combinators_accelerator_program | The global reach and growth of Y Combinators accelerator program]]
+
+### [Super Pumped (with Brian Koppelman and Joseph Gordon-Levitt)](https://www.youtube.com/watch?v=paselmUuyjw)
+- [[ubers_cultural_impact_and_rise | Ubers cultural impact and rise]]
+- [[super_pumped_series_development | Super Pumped series development]]
+- [[art_and_business_in_technology_storytelling | Art and business in technology storytelling]]
+- [[joseph_gordonlevitts_approach_to_acting | Joseph GordonLevitts approach to acting]]
+- [[the_role_of_storytelling_in_understanding_complex_issues | The role of storytelling in understanding complex issues]]
+
+### [How Did Altimeter Form Their Thesis to Make a Huge Investment Early in Snowflake?](https://www.youtube.com/watch?v=2UsJIQVZ4tY)
+- [[investment_thesis_of_altimeter | Investment thesis of Altimeter]]
+- [[evolution_of_the_software_industry | Evolution of the software industry]]
+- [[growth_and_significance_of_data_storage | Growth and significance of data storage]]
+- [[bill_gates_on_datadriven_decision_making | Bill Gates on datadriven decision making]]
+- [[cloud_transformation_of_the_database_market | Cloud transformation of the database market]]
+
+### [How Benchmark Turned $7 Million Into $4 Billion Thanks to eBay](https://www.youtube.com/watch?v=tr2bxgjoPPc)
+- [[benchmarks_investment_in_ebay | Benchmarks investment in eBay]]
+- [[pierre_omidyars_background_and_ebay_founding | Pierre Omidyars background and eBay founding]]
+- [[ebays_early_growth_and_monetization_strategy | eBays early growth and monetization strategy]]
+- [[the_role_of_benchmark_and_its_partners_in_ebays_success | The role of Benchmark and its partners in eBays success]]
+- [[venture_capital_structure_and_secondary_transactions | Venture capital structure and secondary transactions]]
+
+### [Using Cash Flows and Moats to Evaluate Investments](https://www.youtube.com/watch?v=dasecR1MPUQ)
+- [[evaluating_investments_using_cash_flows | Evaluating investments using cash flows]]
+- [[the_role_of_future_potential_in_investment_valuation | The role of future potential in investment valuation]]
+- [[the_concept_of_economic_moats_in_business | The concept of economic moats in business]]
+- [[impact_of_technological_change_on_business_durability | Impact of technological change on business durability]]
+- [[factors_influencing_company_valuation_amidst_uncertainty | Factors influencing company valuation amidst uncertainty]]
+
+### [Roelof Botha of Sequoia Capital on using this time to "lean in" to product development and community](https://www.youtube.com/watch?v=rrqvqg6dKXk)
+- [[challenges_and_opportunities_in_a_crisis | Challenges and opportunities in a crisis]]
+- [[product_development_during_challenging_times | Product development during challenging times]]
+- [[impact_of_remote_work_on_businesses | Impact of remote work on businesses]]
+- [[importance_of_community_and_support_networks | Importance of community and support networks]]
+- [[adapting_marketing_and_sales_strategies_in_a_crisis | Adapting marketing and sales strategies in a crisis]]
+
+### [The Myth of How AWS Started... It Wasn't Just Excess Server Capacity #aws #acquired](https://www.youtube.com/watch?v=E1cxZuHrwZc)
+- [[aws_origin_stories | AWS origin stories]]
+- [[amazons_seasonal_traffic_and_it_capacity | Amazons seasonal traffic and IT capacity]]
+- [[the_excess_capacity_myth_about_aws | The excess capacity myth about AWS]]
+- [[amazons_transition_to_a_technology_company | Amazons transition to a technology company]]
+- [[the_role_of_linux_in_amazons_infrastructure_evolution | The role of Linux in Amazons infrastructure evolution]]
+
+### [The Founder of Qualcomm Was a Hotel Manager??](https://www.youtube.com/watch?v=_DKIY6D7iOU)
+- [[erwin_mark_jacobs_early_life_and_education | Erwin Mark Jacobs early life and education]]
+- [[cornell_school_of_hotel_management_and_its_impact_on_erwin_jacobs | Cornell School of Hotel Management and its impact on Erwin Jacobs]]
+- [[transition_from_academia_to_entrepreneurship_in_telecommunications | Transition from academia to entrepreneurship in telecommunications]]
+- [[founding_of_qualcomm_and_contributions_to_the_wireless_industry | Founding of Qualcomm and contributions to the wireless industry]]
+- [[influence_of_claude_shannon_and_digital_communications_theories | Influence of Claude Shannon and digital communications theories]]
+
+### [Jeff Bezos Became Rich Because of Google?](https://www.youtube.com/watch?v=WTgHvy6H_bw)
+- [[jeff_bezos_early_investment_in_google | Jeff Bezos early investment in Google]]
+- [[acquisition_of_junglee_by_amazon | Acquisition of Junglee by Amazon]]
+- [[impact_of_stanford_connections_in_tech | Impact of Stanford connections in tech]]
+- [[early_financing_and_board_involvement_in_google | Early financing and board involvement in Google]]
+- [[jeff_bezos_wealth_from_google_investment | Jeff Bezos wealth from Google investment]]
+
+### [ACQ2: From Almost Sold to Market Leader | Plaid & Zach Perret](https://www.youtube.com/watch?v=IIsP8xFGqKk)
+- [[plaids_growth_and_evolution | Plaids Growth and Evolution]]
+- [[failed_visa_acquisition_and_antitrust_issues | Failed Visa Acquisition and Antitrust Issues]]
+- [[market_impact_on_plaid_and_financial_services | Market Impact on Plaid and Financial Services]]
+- [[product_development_and_strategy_at_plaid | Product Development and Strategy at Plaid]]
+- [[plaids_competitive_advantage_and_brand_building | Plaids Competitive Advantage and Brand Building]]
+
+### [How to Buy Junk Bonds](https://www.youtube.com/watch?v=yJRSQM3jKxE)
+- [[introduction_to_junk_bonds | Introduction to Junk Bonds]]
+- [[history_and_evolution_of_high_yield_bonds | History and Evolution of High Yield Bonds]]
+- [[investment_strategies_for_high_yield_bonds | Investment Strategies for High Yield Bonds]]
+- [[risks_and_rewards_of_junk_bond_investing | Risks and Rewards of Junk Bond Investing]]
+- [[comparing_investment_approaches_high_yield_bonds_vs_blue_chip_stocks | Comparing Investment Approaches High Yield Bonds vs Blue Chip Stocks]]
+
+### [From NFL to Startup COO to Congressman Regulating Crypto (with Rep. Anthony Gonzalez)](https://www.youtube.com/watch?v=UW69tdONbU0)
+- [[anthony_gonzalezs_journey_from_nfl_to_congress | Anthony Gonzalezs journey from NFL to Congress]]
+- [[regulating_cryptocurrencies_and_web3 | Regulating cryptocurrencies and web3]]
+- [[the_economic_challenges_in_northeast_ohio_and_deindustrialization | The economic challenges in Northeast Ohio and deindustrialization]]
+- [[name_image_and_likeness_rights_in_collegiate_sports | Name Image and Likeness rights in collegiate sports]]
+- [[balancing_consumer_protection_and_innovation_in_us_technology_policy | Balancing consumer protection and innovation in US technology policy]]

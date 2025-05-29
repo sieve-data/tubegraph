@@ -1,0 +1,32 @@
+---
+title: Transition from academia to entrepreneurship in telecommunications
+videoId: _DKIY6D7iOU
+---
+
+From: [[acquiredfm]] <br/> 
+
+Irwin Mark Jacobs, born in 1933 in New Bedford, Massachusetts, is an American pioneer in the wireless and communications industry <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. His journey from a gifted math and science student to a leading entrepreneur in telecommunications exemplifies a significant shift from academic pursuits to commercial innovation.
+
+## Early Life and Academic Foundations
+
+Jacobs grew up in a middle-class family, with his father running a local restaurant <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. Displaying exceptional talent in math and sciences from a young age <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>, he initially pursued hotel management at Cornell University due to his high school guidance counselor's advice that "there's no future for Math and Science in New Bedford" <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. However, after a year and a half, he discovered electrical engineering, realizing he could "make money with math and science" <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>. Jacobs credited this initial foray into hotel management with providing him with valuable business acumen, including accounting and real-world applications, which would later prove crucial for starting his first company and Qualcomm <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>.
+
+After transferring to electrical engineering, Jacobs proved to be a genius <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. He graduated from Cornell and went on to complete his PhD at MIT in just three years, finishing in 1959 <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. His doctoral studies were under the tutelage of Claude Shannon, the "father of information theory" <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. This mentorship was pivotal, as it's considered "extremely unlikely that Irwin Jacobs becomes the Irwin Jacobs he went on to be" without studying under Shannon <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
+
+## Transition to Academic Leadership and Consulting
+
+Upon completing his PhD, Jacobs was immediately asked to stay on as a professor at MIT, a testament to his talent <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. During his five years at MIT, he taught the world's first course on digital communications, applying Shannon's theories to train practical engineers <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. He also co-authored the first textbook on digital communications, which remains a foundational text ("the Bible of digital communication Theory") to this day <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
+
+In 1964, Jacobs took a sabbatical to work at Jet Propulsion Laboratory (JPL) in California, focusing on the U.S. Space Program and satellite communications <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. There, he met Andrew Viterbi, another MIT electrical engineering PhD graduate, and they quickly became close friends <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. Jacobs later moved to San Diego to start the electrical engineering department at the new UC San Diego, bringing Viterbi with him <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. While teaching, Jacobs continued his contracting work with defense contractors and JPL <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>.
+
+## Founding Linkabit: From Consulting to Commercial Ventures
+
+Recognizing the challenges of balancing academic work with their consulting projects, Jacobs, Viterbi, and a third professor (Len Kleinrock, who later became a core founding father of the internet <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>) decided to form a "shell company" called Linkabit in the early 1970s <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>. Initially, Linkabit was intended merely to manage their consulting work for NASA and Navy defense projects, primarily focusing on efficient satellite communications given the narrow bandwidth available <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. Their work often involved applying "spread spectrum technology" invented during World War II by Hedy Lamarr and George Antheil <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>.
+
+By 1971, Linkabit had grown significantly, accumulating an "Army of the greatest information Theory and wireless signal Minds in the country" dedicated to defense contracting <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>. Irwin Jacobs decided to take a sabbatical from UCSD to organize the company, and he never returned to academia <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>. This marked a crucial shift in his career and Linkabit's business model.
+
+> "Those guys are making all the money, we're doing all the differentiated like engineering work here. What if we started bidding on some contracts ourselves? We would probably make a lot more money as like a kind of product like, you know, contract focused Services Company ourselves rather than just as a subconsultant on these projects" <a class="yt-timestamp" data-t="00:12:16">[00:12:16]</a>
+
+This realization led Linkabit to transition from being a sub-consultant to actively bidding for prime contracts <a class="yt-timestamp" data-t="00:12:31">[00:12:31]</a>. To achieve this, they needed to expand into the commercial sector <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>. Linkabit's first major commercial project was developing the satellite communication system for Walmart, enabling the retailer to beam daily messages from headquarters to its stores <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a>. This early project for Walmart, a leading innovator in retail at the time, demonstrates Linkabit's [[adapting_business_models_in_initial_stages | adaptation of its business model]] from purely academic consulting to a product and service-focused commercial enterprise <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>.
+
+This transition from academia to full-time entrepreneurship, leveraging deep scientific knowledge in digital communications and initial business exposure, laid the groundwork for Jacobs' future endeavors, including the founding of Qualcomm.

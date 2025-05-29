@@ -3,26 +3,45 @@ title: Super Pumped series development
 videoId: paselmUuyjw
 ---
 
-From: [[acquiredFM]] <br/> 
-## Overview
-"Super Pumped: The Battle for Uber" is a dramatic series that delves into the turbulent rise and fall of one of Silicon Valley's icons, Uber. Developed into a show by renowned executive producers, writers, and showrunners Brian Koppelman and David Levien, alongside showrunner Beth Schacter, the series premiered on Showtime. The series adaptation is based on Mike Isaac's riveting book, “Super Pumped,” which documented the dramatic events surrounding Uber's journey [[ubers_transformation_since_ipo | and its transformation since its IPO]] [<a class="yt-timestamp" data-t="00:01:01">00:01:01</a>].
+From: [[acquiredfm]] <br/> 
 
-## Early Stages and Conceptualization
-The initial spark for the series began before Isaac's book was officially published. Brian Koppelman started reading an early version of the book and immediately saw its potential as a serialized TV drama. Recognizing its powerful narrative and dramatic flair, Koppelman pitched the idea to his partner David Levien, and both quickly agreed that it should be their next project [[challenges_and_advice_for_company_founders | drawing parallels from company founder narratives]] [<a class="yt-timestamp" data-t="00:38:00">00:38:00</a>].
+The television series *Super Pumped*, based on Mike Isaac's book about Uber, premiered on February 27, [00:01:20] showcasing the dramatic story of the company and its co-founder Travis Kalanick. The show delves into the world of venture capital and startups becoming part of pop culture and entertainment [00:01:28].
 
-## Securing the Rights and Collaboration with Mike Isaac
-Koppelman and Levien pursued the rights to adapt Isaac’s book into a series before its release, forging a bond of trust with the author. This camaraderie facilitated Mike Isaac's significant involvement in the project; he joined the writers' room and contributed as a co-executive producer throughout the development of the series, offering central insights and firsthand accounts [[role_of_agents_and_casting_in_television_production | and the importance of collaboration in media production]] [<a class="yt-timestamp" data-t="00:39:00">00:39:00</a>].
+## Genesis and Production Timeline
 
-## Casting and Creative Decisions
-For the series to achieve its objective, selecting the right cast was crucial. Joseph Gordon-Levitt was the top choice to portray the complex character of Travis Kalanick, Uber's co-founder. His ability to embody intelligence and intensity while fearlessly representing morally ambiguous actions was pivotal. Joe accepted the role after being impressed by the script’s rich dialogue and the opportunity to play a character with layered traits [[challenges_of_portraying_reallife_figures_in_media | which posed challenges in portraying real-life figures]] [<a class="yt-timestamp" data-t="00:11:00">00:11:00</a>].
+The development of *Super Pumped* began even before Mike Isaac's book was released [00:37:54]. Mike Isaac directly messaged Brian Koppelman on Twitter, asking him to read his book five months before its publication [00:37:59]. Brian Koppelman, along with his creative partner David Levien, read the first 25-50 pages, immediately recognized its potential, and committed to developing the story into a show [00:38:14]. Despite widespread interest from Hollywood, Isaac remained loyal to Koppelman and Levien due to their early commitment and direct approach [00:38:27].
 
-Koppelman highlighted the importance of getting their first choices for major roles, including Uma Thurman, Kyle Chandler, and Kerry Bishé. Their involvement further enhanced the series' credibility and appeal [[the_art_of_storytelling_in_the_gaming_industry | demonstrating the importance of storytelling in media]] [<a class="yt-timestamp" data-t="00:11:49">00:11:49</a>].
+Mike Isaac was deeply involved in the production, serving as a co-executive producer and being present in the writers' room for approximately 94 out of 100 days [00:38:48]. He provided notes on every script and would often share insights and even bring sources into the Zoom writers' room to discuss events off the record [00:39:00].
 
-## Adapting the Book to Screen
-The adaptation process presented challenges as the source material was a non-fiction narrative. Writers needed to creatively dramatize events while maintaining factual integrity. They utilized inventive storytelling techniques, such as playing with the viewer's perception of events to explore the difference between various narratives, a feat that was crucial to adapt the book’s factual and intricate storyline to an engaging and visually compelling series [[the_importance_of_storytelling_and_repetition_in_learning | showcasing the power of storytelling]] [<a class="yt-timestamp" data-t="00:33:01">00:33:01</a>].
+## Key Players and Casting
 
-## Production
-Although the narrative is set primarily in San Francisco, the series was mostly filmed in Los Angeles, with limited exterior shots in San Francisco. This choice was made to accommodate production logistics on the Paramount lot while maintaining authenticity through clever set design and shooting techniques [[the_impact_of_platforms_in_modern_business | similar to strategic business decisions in tech production]] [<a class="yt-timestamp" data-t="00:39:26">00:39:26</a>].
+The series was brought to life by co-creators, executive producers, and showrunners Brian Koppelman, David Levien, and Beth Schachter [00:01:58].
 
-## Conclusion
-"Super Pumped" stands out as a thought-provoking series that blends real-world tech industry drama with engaging storytelling. By capturing the essence and complexities of Uber’s journey, the series offers profound reflections on ambition, leadership, and the consequences of the relentless pursuit of growth in Silicon Valley [[dara_khosrowshahis_career_and_leadership_at_uber | as exemplified by Uber's leadership transitions]]. This intricately developed series is a testament to collaborative creativity and insightful adaptation of captivating real-life stories.
+### Casting Travis Kalanick
+Joseph Gordon-Levitt stars as Travis Kalanick [00:02:22]. His involvement came about through a serendipitous connection facilitated by his agent, Warren Zavala, who also represents Brian Koppelman [00:08:34]. After Koppelman and Levien wrote the pilot and identified Gordon-Levitt as their top choice, Zavala sent the script to Gordon-Levitt while he was in New Zealand [00:08:52]. Gordon-Levitt read it over a weekend, leading to a virtual handshake agreement to partner on the show [00:09:04]. Such a seamless casting process is described as "incredibly rare" in the industry [00:09:16].
+
+Koppelman expressed that it was challenging to find an actor who could project the intelligence and complexity required for Kalanick, as well as one who would not shy away from portraying morally questionable actions [00:10:33]. Gordon-Levitt's thorough research and willingness to play characters with "unsavory or wrong" aspects were key factors [00:10:44].
+
+### Other Cast Members
+The production managed to secure their first-choice actors for several key roles, including Kyle Chandler, Uma Thurman, and Kerry Bishé, with Gordon-Levitt's early commitment helping to attract other talent [00:11:49]. David Crumholtz, playing Sergey Brin, was also an inspired casting choice [00:41:35].
+
+## Creative Vision and Storytelling
+The series is described as a podcast about great technology companies and the stories and playbooks behind them [00:34:34]. The creators aimed to explore the broader implications of companies prioritizing "profits above all" and "growth growth growth," a trend not exclusive to Silicon Valley but highly acute there [00:14:01].
+
+### Themes Explored
+*   **Disruption and its Cost**: The series questions the price of disruption and whether the convenience of new utilities is worth what's lost on the other side of the ledger [00:15:17].
+*   **Revolutionaries Becoming Fascists**: It explores whether revolutionaries can avoid becoming like the fascists they unseat, referencing Hannah Arendt's ideas on "lost treasure in the revolution" [00:15:42].
+*   **Human Nature**: The show examines the "beast or animal" within human nature that desires to take what it wants at all costs, and the consequences of indulging that urge [01:01:02].
+*   **Moral Dilemmas**: It highlights the complex moral questions faced by figures like Travis Kalanick, Arianna Huffington, and especially Bill Gurley, who had to weigh protecting his reputation against potentially imperiling the entire Uber endeavor [00:17:36].
+
+### Narrative Techniques
+The show employs innovative storytelling techniques, such as portraying events from Travis's apocryphal memory before revealing "how it really happened" [00:32:11]. This playfulness with form allows the series to disrupt storytelling conventions, mirroring the theme of disruption in the tech world it depicts [00:33:06]. The dialogue is described as "fireworks" and "well-written profanity," reflecting the high-drama environment [00:12:29].
+
+### Character Portrayal
+Joseph Gordon-Levitt sought to portray Travis Kalanick as a "whole human," not just a sum of negative headlines [00:20:56]. Through conversations with people who worked closely with Kalanick, he learned about his inspiring, compelling, and energetic qualities, aiming to balance the character's positive traits with his questionable decisions and unethical behavior [00:20:02]. The goal was to make the audience initially "love this guy" before being confronted with his "terrible things," creating a gripping complexity [00:21:22].
+
+### Production Logistics
+While the show's action is primarily set in San Francisco, only a few days of exteriors were filmed on location [00:39:27]. The majority of the series was shot in Los Angeles, largely on sound stages at the Paramount lot [00:39:40]. Actors often work 12-15 hour days, adhering to a "12-hour turnaround" rule between shifts, which can lead to late-night shoots and unconventional "lunch" breaks [00:45:50].
+
+## Artistic Philosophy and Reception
+The creators emphasize that an artist's job is to "make people feel something and ask questions," rather than providing definitive answers [00:27:36]. Brian Koppelman stated that if he knows a project is bad during production, it's "bad" [00:47:40]. However, both Koppelman and Gordon-Levitt acknowledge that external reception (like box office bombs or show cancellations) doesn't always reflect the quality of the work, and the true measure of success lies in the commitment and rigor applied by the collaborators [00:50:08]. They believe that if artists deeply explore their unique voice and express it truthfully, it will resonate with others [00:53:49].

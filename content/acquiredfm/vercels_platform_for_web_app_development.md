@@ -1,0 +1,59 @@
+---
+title: Vercels platform for web app development
+videoId: 4VG9B05xD7M
+---
+
+From: [[acquiredfm]] <br/> 
+
+Vercel is an infrastructure platform designed to build and deploy modern web applications <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. Founded by Guillermo Rauch, its core mission is obsessed with developer experience, performance, and design <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>. The company aims to make it easy to deploy the best possible web applications, ensuring a fast and delightful experience for the average internet visitor <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+
+As of May 2024, Vercel was valued at over $3 billion <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>, reported $100 million in annualized revenue (growing 80% year-over-year) <a class="yt-timestamp" data-t="00:47:25">[00:47:25]</a>, and had more than doubled its number of developers over the past year <a class="yt-timestamp" data-t="00:47:32">[00:47:32]</a>. The company currently has approximately 550 employees <a class="yt-timestamp" data-t="00:47:17">[00:47:17]</a>.
+
+## Core Offerings and Philosophy
+
+Vercel's offering centers on simplifying the complex process of web development, especially for dynamic, high-performance applications <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. The initial idea for Vercel arose from the difficulty of building high-quality web applications that matched the standards of tech giants like Meta, Google, or Amazon <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. At the time, web development was often static, and cloud infrastructure was exceedingly difficult to use <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+
+Vercel sought to bridge the gap between the availability of [[open_source_technologys_role_at_Meta|open source technology]], like Google's Kubernetes and [[metas_open_source_strategy|Meta's]] React <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>, and the ability for developers to quickly publish delightful experiences <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. This means automating the configuration and assembly of these tools into a cohesive platform <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+
+Vercel's unique approach involved vertical integration, building both developer tools and highly optimized cloud infrastructure <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. While Vercel builds on top of AWS, it abstracts away the complexities, allowing companies to focus on product innovation rather than managing infrastructure <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>.
+
+### Next.js
+
+A cornerstone of Vercel's strategy is [[the_evolution_of_web_technologies_like_nextjs_and_vercel|Next.js]], an open-source framework for front-end development <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. With 1.3 million monthly active developers <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>, [[the_evolution_of_web_technologies_like_nextjs_and_vercel|Next.js]] builds on React <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a> and provides tools and guardrails for building "awesome front experiences" <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>. It has become a gold standard for front-end development, powering many modern [[AI Builders and technology|AI]] tools like ChatGPT, OpenAI, Claude, Sora, and Midjourney <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+
+The development of [[the_evolution_of_web_technologies_like_nextjs_and_vercel|Next.js]] stemmed from the founder's frustration with the complexity of deploying sophisticated web applications despite the availability of powerful [[open_source_technologys_role_at_Meta|open-source technologies]] like React <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. While React provided the "engine" for user interfaces, developers needed a "car" or "space shuttle to the cloud" <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>. Vercel and [[the_evolution_of_web_technologies_like_nextjs_and_vercel|Next.js]] became that solution, prioritizing dynamic rendering in the cloud over static, fat-client approaches <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>. This approach offloads the burden of experiencing a website from the device to the cloud, ensuring faster mobile experiences <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+
+### Key Features
+
+*   **Automatic Git Branch Previews:** Vercel automatically deploys every Git branch as a preview, providing a URL for real-time testing and collaboration across the organization <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>. This eliminates the need for developers to manage staging machines or screen share <a class="yt-timestamp" data-t="00:15:11">[00:15:11]</a>, and ensures ephemeral and secure test environments <a class="yt-timestamp" data-t="00:15:48">[00:15:48]</a>.
+*   **Serverless Functions:** Vercel partners deeply with AWS's serverless infrastructure team to create serverless functions under the hood for deployment previews, optimizing costs and infrastructure <a class="yt-timestamp" data-t="00:30:11">[00:30:11]</a>.
+*   **Security:** Vercel integrates CDN and WAF capabilities <a class="yt-timestamp" data-t="00:42:45">[00:42:45]</a>, ensuring zero-configuration security by default <a class="yt-timestamp" data-t="00:42:32">[00:42:32]</a>. Its exposure to the crypto space, which attracted "worst darkest actors" <a class="yt-timestamp" data-t="00:41:46">[00:41:46]</a>, forced Vercel to significantly enhance its security, achieving industry-leading DDOS mitigation response times (within seconds) <a class="yt-timestamp" data-t="00:43:56">[00:43:56]</a>.
+
+## v0: AI Assistant for Web Development
+
+A significant recent development for Vercel is v0 (pronounced "v-zero"), an [[AI Builders and technology|AI]] assistant for web development <a class="yt-timestamp" data-t="00:17:57">[00:17:57]</a>. Launched as a research preview in September 2023 <a class="yt-timestamp" data-t="00:18:50">[00:18:50]</a>, v0 transforms English prompts into working applications and user interfaces <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>. This represents a "code last" disruption, allowing anyone with an idea to create software without extensive coding knowledge <a class="yt-timestamp" data-t="00:18:38">[00:18:38]</a>.
+
+The growth of v0 has been astonishing:
+*   10 months to reach $1 million in ARR <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>.
+*   14 days to reach $2 million <a class="yt-timestamp" data-t="00:19:06">[00:19:06]</a>.
+*   20 more days to reach $4 million <a class="yt-timestamp" data-t="00:19:08">[00:19:08]</a>.
+
+v0 runs the [[the_evolution_of_web_technologies_like_nextjs_and_vercel|Next.js]] and Vercel rendering environment inside a web browser, combining this with state-of-the-art foundation models <a class="yt-timestamp" data-t="00:25:01">[00:25:01]</a>. It is steered to be an expert in web development, producing designs with "good taste" and strong accessibility features <a class="yt-timestamp" data-t="00:25:14">[00:25:14]</a>. The [[AI Builders and technology|AI]] is imbued with Vercel employees' preferences and best practices for building software <a class="yt-timestamp" data-t="00:27:09">[00:27:09]</a>.
+
+v0 is revolutionizing how software is built and sold. It can generate high-performance versions of existing websites from a screenshot, drastically shortening sales cycles and enhancing customer trust <a class="yt-timestamp" data-t="00:28:06">[00:28:06]</a>. Vercel has also open-sourced the underlying framework for v0, called AI SDK, inspiring other companies to build their own "v0s" for different industries like CAD and medicine <a class="yt-timestamp" data-t="00:29:03">[00:29:03]</a>. This strategy fosters a community around Vercel's brand, and as more people build with AI SDK, they are likely to deploy on Vercel <a class="yt-timestamp" data-t="00:35:54">[00:35:54]</a>.
+
+## Business Model and Strategy
+
+Vercel's [[platform_business_models|business model]] is based on charging for usage of its infrastructure, similar to companies like Snowflake, Databricks, and Datadog <a class="yt-timestamp" data-t="00:37:01">[00:37:01]</a>. This means customers pay more if their application scales significantly, making it a fair deal for developers <a class="yt-timestamp" data-t="00:37:12">[00:37:12]</a>.
+
+The company's strategy involves open-sourcing its frameworks (like [[the_evolution_of_web_technologies_like_nextjs_and_vercel|Next.js]] and AI SDK) <a class="yt-timestamp" data-t="00:34:48">[00:34:48]</a>, while keeping its core infrastructure proprietary <a class="yt-timestamp" data-t="00:38:08">[00:38:08]</a>. The belief is that operational complexities of global infrastructure with hundreds of microservices make open-sourcing the infrastructure itself less valuable <a class="yt-timestamp" data-t="00:38:01">[00:38:01]</a>. Open source shines in providing programming models and declaring applications <a class="yt-timestamp" data-t="00:38:34">[00:38:34]</a>.
+
+Vercel initially focused on dominating a niche: making the fastest websites and front-ends <a class="yt-timestamp" data-t="00:32:08">[00:32:08]</a>. This focus allowed Vercel to become the best product in its category for front-end development <a class="yt-timestamp" data-t="00:32:30">[00:32:30]</a>. From this strong foundation, Vercel is now expanding to provide more services, transitioning from a "frontend cloud" to a "developer cloud" <a class="yt-timestamp" data-t="00:32:44">[00:32:44]</a>, including backend services and databases <a class="yt-timestamp" data-t="00:33:09">[00:33:09]</a>.
+
+## Impact and Future
+
+Vercel's platform has garnered a diverse customer base, from news outlets like the Washington Post <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a> and e-commerce giants like Bose and Fanatics <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>, to cutting-edge [[AI Builders and technology|AI]] startups <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a> and large banks <a class="yt-timestamp" data-t="00:16:10">[00:16:10]</a>. Its ability to simplify deployment and harden infrastructure through rigorous exposure to challenging traffic (like from the crypto world) <a class="yt-timestamp" data-t="00:41:45">[00:41:45]</a> has made it a trusted platform for large enterprises undergoing digital transformation <a class="yt-timestamp" data-t="00:43:11">[00:43:11]</a>.
+
+The rise of AI-generated code and abstracted infrastructure means that teams can be much smaller, leading to more products reaching more people <a class="yt-timestamp" data-t="00:53:11">[00:53:11]</a>. Vercel's own v0 team is less than 10 people, demonstrating the platform's ability to enable lean operations for rapidly growing products <a class="yt-timestamp" data-t="00:51:47">[00:51:47]</a>. The platform ensures there is no "graduation risk," meaning companies won't outgrow Vercel's capabilities as they scale <a class="yt-timestamp" data-t="00:52:20">[00:52:20]</a>. This allows for incredibly fast product creation; for example, OpenAI's "Operator" was launched within 24 hours using Vercel and v0 <a class="yt-timestamp" data-t="00:53:57">[00:53:57]</a>.
+
+Vercel aims to be in the middle of every transaction, facilitating development for both traditional developers and new "citizen developers" empowered by [[AI Builders and technology|AI]] <a class="yt-timestamp" data-t="00:55:09">[00:55:09]</a>. The company operates with high internal transparency and insists on its technical leaders staying deeply involved with the product and customer reality, ensuring rapid product velocity <a class="yt-timestamp" data-t="00:48:41">[00:48:41]</a>.

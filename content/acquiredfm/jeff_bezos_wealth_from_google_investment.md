@@ -1,0 +1,36 @@
+---
+title: Jeff Bezos wealth from Google investment
+videoId: WTgHvy6H_bw
+---
+
+From: [[acquiredfm]] <br/> 
+
+One of the most remarkable stories of [[jeff_bezos_early_investment_in_google | Jeff Bezos]]'s wealth accumulation stems from an unlikely connection forged through a failed Amazon acquisition: Junglee. This early investment in Google significantly contributed to [[jeff_bezos_early_investment_in_google | Bezos]]'s personal fortune, providing him with substantial capital for future ventures.
+
+## The Junglee Connection and Ram Shriram's Role
+Amazon acquired a comparison shopping site called Junglee for approximately $150 to $175 million <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. Junglee was founded by three Stanford Computer Science PhDs and a business partner from Netscape named Ram Shriram <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>, <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+
+After the acquisition, Amazon mandated that the Junglee team relocate to Seattle to avoid creating a tax nexus in California <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>, <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. However, the acquisition proved "ill-conceived," and the team disliked Seattle, leading them to quit within a few months and return to Palo Alto <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>, <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. (Interestingly, this same group would later start a company acquired by Walmart, which became Walmart Labs <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.)
+
+Back in Palo Alto, Ram Shriram connected with two other Stanford computer science PhDs, Larry Page and Sergey Brin <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>, <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. Ram was impressed by their "BackRub" (later PageRank) concept <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>. He made the first investment in Google, contributing $250,000 <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>, and subsequently joined Google's board <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
+
+## [[jeff_bezos_early_investment_in_google | Jeff Bezos]]'s Personal Investment
+About six months after Ram's initial investment, [[jeff_bezos_early_investment_in_google | Jeff Bezos]] (who maintained a friendly relationship with Ram despite the failed Junglee acquisition) heard about Google <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>, <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. [[jeff_bezos_early_investment_in_google | Bezos]] and MacKenzie flew to Silicon Valley and met with Ram, Larry, and Sergey at Ram's house <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>, <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+
+After the breakfast, [[jeff_bezos_early_investment_in_google | Bezos]] expressed his desire to invest, despite Ram's indication that the seed round had closed months prior and that major venture capital firms like Kleiner Perkins and Sequoia Capital were already circling for a Series A <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>, <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. [[jeff_bezos_early_investment_in_google | Bezos]] insisted on investing on the same terms as Ram's seed investment <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+
+Ram advocated for [[jeff_bezos_early_investment_in_google | Bezos]], and Larry and Sergey agreed to accept an additional $250,000 from [[jeff_bezos_early_investment_in_google | Jeff Bezos]] and MacKenzie's personal funds at the seed price <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>, <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+
+## Valuation and IPO Impact
+The Series A round for Google, split between John Doerr of Kleiner Perkins and Mike Moritz of Sequoia, famously closed at a $100 million post-money valuation <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>, <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>, <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. Mike Moritz reportedly commented at the time, "We've never paid so much for so little" <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>, <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>.
+
+Estimates suggest that the seed round (where Ram and [[jeff_bezos_early_investment_in_google | Bezos]] invested) might have been at a valuation as low as $10 million, or potentially up to $20-25 million post-money <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>, <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. This implies Ram could have seen a 10x to 20x return by the Series A <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
+
+It is estimated that [[jeff_bezos_early_investment_in_google | Jeff Bezos]] and MacKenzie owned at least one percent of Google personally, even after dilution from the Series A <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>, <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. Notably, Google went public solely on that Series A funding round, making it one of the most "immediately cash generative businesses of all time" <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>, <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>, <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>.
+
+## Astronomical Returns
+In 2004, Google's IPO valued the company at a $23 billion market cap <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>, <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. At this valuation, [[jeff_bezos_early_investment_in_google | Jeff Bezos]]'s shares (assuming at least 1%) would have been worth approximately $230 million, or a quarter-billion dollars, at the IPO <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>, <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>, <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+
+While [[jeff_bezos_early_investment_in_google | Jeff Bezos]] has never publicly commented on whether he and MacKenzie sold their Google shares <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>, they held them at least until the IPO <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Since the IPO, Google's value has increased by 65x over the next 18 years <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>, <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
+
+This massive windfall provided [[jeff_bezos_early_investment_in_google | Bezos]] with significant personal capital, allowing him to invest in other ventures such as rocket companies and venture funds <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>, <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>, <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. It is safe to say that this Google investment played a crucial role in [[jeff_bezos_early_investment_in_google | Jeff Bezos]] and MacKenzie's early wealth accumulation <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
