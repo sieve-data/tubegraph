@@ -1,0 +1,59 @@
+---
+title: Perspectives on criminal justice reform
+videoId: XDcriyyUxug
+---
+
+From: [[inteligencialtda]] <br/> 
+
+The speaker, a former military police officer and current federal deputy, offers strong perspectives on [[the_criminal_justice_system_and_its_challenges | criminal justice]] and proposed reforms, shaped by extensive experience in law enforcement, particularly on highways and in high-risk environments <a class="yt-timestamp" data-t="01:00:02">[01:00:02]</a>.
+
+## Personal Philosophy and Law Enforcement Experience
+
+The speaker's time in the military police, starting in 1983 during the end of the dictatorship, provided a "military training" that forged his "character" and "personality," shaping his view on life as "without too much Nutella" <a class="yt-timestamp" data-t="01:14:56">[01:14:56]</a> <a class="yt-timestamp" data-t="01:15:02">[01:15:02]</a> <a class="yt-timestamp" data-t="01:15:06">[01:15:06]</a> <a class="yt-timestamp" data-t="01:15:15">[01:15:15]</a>. This upbringing fostered a proactive approach to policing, where he actively sought out criminals rather than just following a schedule <a class="yt-timestamp" data-t="01:38:40">[01:38:40]</a>. He believes that "human evil" is real and that criminals, particularly those who commit heinous acts, have "no scruples" and are a "relief to society" when apprehended or eliminated <a class="yt-timestamp" data-t="02:22:46">[02:22:46]</a> <a class="yt-timestamp" data-t="02:22:50">[02:22:50]</a> <a class="yt-timestamp" data-t="02:22:58">[02:22:58]</a>.
+
+## Views on Punishments and Sentencing
+
+The speaker advocates for more drastic and radical measures within the [[the_criminal_justice_system_and_its_challenges | criminal justice system]]:
+
+*   **Life Imprisonment**: As a federal deputy, he is co-authoring a legislative decree project to propose a plebiscite on life imprisonment in Brazil <a class="yt-timestamp" data-t="02:27:53">[02:27:53]</a> <a class="yt-timestamp" data-t="02:28:03">[02:28:03]</a> <a class="yt-timestamp" data-t="02:29:26">[02:29:26]</a>. He notes the current system's maximum sentence of 30 years, where convicts often serve less time <a class="yt-timestamp" data-t="02:29:33">[02:29:33]</a> <a class="yt-timestamp" data-t="02:29:42">[02:29:42]</a>.
+*   **Death Penalty**: Personally, he is "in favor of the penalty of death for criminals" involved in severe cases like the rape and murder of children, citing examples of horrific crimes that demonstrate "certain evil" <a class="yt-timestamp" data-t="02:28:27">[02:28:27]</a> <a class="yt-timestamp" data-t="02:28:30">[02:28:30]</a> <a class="yt-timestamp" data-t="02:29:50">[02:29:50]</a>. However, he acknowledges the difficulty of passing such a measure in the current political climate, particularly under a "left-wing government" <a class="yt-timestamp" data-t="02:28:40">[02:28:40]</a> <a class="yt-timestamp" data-t="02:28:53">[02:28:53]</a>.
+*   **Organ Donation from Deceased Criminals**: He proposed a project where organs of bandits killed in confrontations with the police would be "compulsorily needed" and "donated to those in the queue" for transplants <a class="yt-timestamp" data-t="02:53:14">[02:53:14]</a> <a class="yt-timestamp" data-t="02:53:20">[02:53:20]</a> <a class="yt-timestamp" data-t="02:53:24">[02:53:24]</a>. This proposal was rejected by the board of directors for being "against human dignity," a view he disputes by highlighting the suffering of those awaiting transplants <a class="yt-timestamp" data-t="02:53:36">[02:53:36]</a> <a class="yt-timestamp" data-t="02:53:42">[02:53:42]</a>.
+
+## Combating [[Organized crime and criminal organizations | Organized Crime]]
+
+The speaker emphasizes a multi-pronged approach to combating [[Organized crime and criminal organizations | criminal factions]]:
+*   **Financial Suffocation**: This involves "blocking of orange accounts" and networks to destabilize their financial power <a class="yt-timestamp" data-t="03:35:02">[03:35:02]</a> <a class="yt-timestamp" data-t="03:35:06">[03:35:06]</a>.
+*   **Eliminating Members**: He states that "killing is one of the great things" to face criminal factions, particularly those who engage in confrontation <a class="yt-timestamp" data-t="03:34:46">[03:34:46]</a> <a class="yt-timestamp" data-t="03:35:10">[03:35:10]</a>.
+*   **Increased Penalties for Common Crimes**: Recognizing that ordinary citizens are more concerned with immediate threats, he is working on a project to increase penalties for cell phone theft and robbery, as these crimes significantly impact daily life <a class="yt-timestamp" data-t="03:37:08">[03:37:08]</a> <a class="yt-timestamp" data-t="03:37:12">[03:37:12]</a>.
+
+## Gun Laws and Self-Defense
+
+The speaker is a strong proponent of the right of citizens to own and carry weapons for self-defense <a class="yt-timestamp" data-t="03:27:01">[03:27:01]</a>. He cites an incident in Maringá where a head of a family used a firearm to protect his family from bandits, killing one instantly <a class="yt-timestamp" data-t="03:26:19">[03:26:19]</a> <a class="yt-timestamp" data-t="03:26:38">[03:26:38]</a> <a class="yt-timestamp" data-t="03:26:40">[03:26:40]</a>.
+*   **Opposition to Restrictions**: He expresses concern over new decrees that will be "highly restrictive" on gun possession and the opening of shooting clubs, including a proposed annual tax of around 20% on firearms <a class="yt-timestamp" data-t="03:24:13">[03:24:13]</a> <a class="yt-timestamp" data-t="03:24:20">[03:24:20]</a> <a class="yt-timestamp" data-t="03:25:16">[03:25:16]</a>.
+*   **Support for Responsible Use**: He supports stricter laws for those who misuse weapons, such as fighting with neighbors or in traffic, advocating for their rights to be "hunted forever" <a class="yt-timestamp" data-t="03:27:28">[03:27:28]</a> <a class="yt-timestamp" data-t="03:27:37">[03:27:37]</a>.
+
+## Legislative and Systemic Challenges
+
+The speaker, now a federal deputy, highlights the difficulties of implementing meaningful reforms:
+*   **Political Environment**: He notes that being under a "left-wing government" makes it more challenging to increase sentences and push for certain reforms <a class="yt-timestamp" data-t="02:28:53">[02:28:53]</a> <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>.
+*   **Judicial Overreach**: He criticizes what he perceives as judicial "intrusion of power," citing instances where the Supreme Federal Court (STF) acts on matters that should be handled by the legislative branch, such as ruling on homophobia or issuing orders to platforms like Telegram <a class="yt-timestamp" data-t="03:06:09">[03:06:09]</a> <a class="yt-timestamp" data-t="03:06:42">[03:06:42]</a> <a class="yt-timestamp" data-t="03:07:06">[03:07:06]</a> <a class="yt-timestamp" data-t="03:07:22">[03:07:22]</a>.
+*   **Bureaucracy and Loopholes**: He recounts instances where criminals, despite being caught with large quantities of drugs or stolen goods, are released due to "benevolent justice" or "fragile laws" <a class="yt-timestamp" data-t="00:43:54">[00:43:54]</a> <a class="yt-timestamp" data-t="00:43:58">[00:43:58]</a>. He also notes how complex schemes like fake documents, hidden compartments, and "beaters" (scouts for police presence) are used to circumvent law enforcement efforts <a class="yt-timestamp" data-t="00:56:06">[00:56:06]</a> <a class="yt-timestamp" data-t="00:57:30">[00:57:30]</a> <a class="yt-timestamp" data-t="01:10:48">[01:10:48]</a>.
+*   **Police Valorization**: A core part of his legislative agenda is the appreciation of [[The criminal justice system and its challenges | Public Security]] operators through "decent wages, decent working hours," and "first world vehicles, weapons, and equipment" <a class="yt-timestamp" data-t="02:49:03">[02:49:03]</a> <a class="yt-timestamp" data-t="02:49:06">[02:49:06]</a> <a class="yt-timestamp" data-t="02:49:08">[02:49:08]</a> <a class="yt-timestamp" data-t="02:49:23">[02:49:23]</a> <a class="yt-timestamp" data-t="02:49:32">[02:49:32]</a>. He believes this leads to a better service for society <a class="yt-timestamp" data-t="02:50:17">[02:50:17]</a>.
+
+## [[The psychological analysis and behaviors of criminals | Criminal Behavior]] and Tactics
+
+The speaker shares observations on various criminal tactics and mindsets encountered during his career:
+*   **Drug Mules**: Young people, sometimes minors, are used to transport drugs, often in seemingly innocuous ways like backpacks or hidden vehicle compartments <a class="yt-timestamp" data-t="03:33:06">[03:33:06]</a> <a class="yt-timestamp" data-t="00:46:06">[00:46:06]</a>. These individuals are often seen as expendable by larger criminal organizations <a class="yt-timestamp" data-t="03:33:06">[03:33:06]</a>.
+*   **Smuggling**: Beyond drugs, a vast array of contraband, from pirated games and cell phone parts to sex toys and counterfeit auto parts, crosses borders, often employing mules or modified vehicles <a class="yt-timestamp" data-t="03:40:08">[03:40:08]</a> <a class="yt-timestamp" data-t="03:40:48">[03:40:48]</a> <a class="yt-timestamp" data-t="03:42:04">[03:42:04]</a>.
+*   **Organized Smuggling**: Large-scale smuggling operations often involve fleets of vehicles, "beaters" to scout for police, and modifications to vehicles to carry larger quantities <a class="yt-timestamp" data-t="01:06:54">[01:06:54]</a> <a class="yt-timestamp" data-t="01:07:49">[01:07:49]</a> <a class="yt-timestamp" data-t="01:10:48">[01:10:48]</a>. Some even involve human trafficking, with people illegally entering the country <a class="yt-timestamp" data-t="01:39:18">[01:39:18]</a> <a class="yt-timestamp" data-t="01:40:39">[01:40:39]</a>.
+*   **Weapons Smuggling**: Significant amounts of weapons, including rifles and ammunition, are smuggled, often hidden within commercial loads like mattresses, intended for gangs or for use against police <a class="yt-timestamp" data-t="02:17:11">[02:17:11]</a> <a class="yt-timestamp" data-t="02:17:28">[02:17:28]</a>.
+*   **Criminal Mindset**: The speaker describes criminals as often demonstrating a lack of remorse or a warped sense of reality, sometimes even showing a perverse pride in their acts or attempting to bribe officers <a class="yt-timestamp" data-t="03:09:12">[03:09:12]</a> <a class="yt-timestamp" data-t="03:10:06">[03:10:06]</a>.
+
+## Impact on Society and Law Enforcement
+
+The speaker's experiences highlight the brutal reality of crime and its impact:
+*   **Tragic Accidents**: Working on highways, he witnessed numerous horrific accidents, often caused by drunk driving or reckless behavior, leading to severe injuries and deaths <a class="yt-timestamp" data-t="01:41:40">[01:41:40]</a> <a class="yt-timestamp" data-t="01:42:56">[01:42:56]</a>.
+*   **Personal Toll**: His work led to him suffering five heart attacks, three of which occurred during active duty, reflecting the extreme stress and emotional toll of the job <a class="yt-timestamp" data-t="02:36:52">[02:36:52]</a> <a class="yt-timestamp" data-t="02:37:30">[02:37:30]</a>.
+*   **Public Perception**: He acknowledges that the public often has limited understanding of police work, sometimes "belittling the work of the police" due to a lack of knowledge or by spreading misinformation <a class="yt-timestamp" data-t="01:44:52">[01:44:52]</a> <a class="yt-timestamp" data-t="01:45:14">[01:45:14]</a>.
+
+Ultimately, the speaker's perspective is one of unwavering commitment to a tough-on-crime approach, informed by decades of direct engagement with criminals and the consequences of their actions, and translated into legislative efforts aimed at increasing penalties and empowering law enforcement.

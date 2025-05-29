@@ -1,0 +1,47 @@
+---
+title: Challenges and misconceptions in faith practice
+videoId: YGlnFTrs5lY
+---
+
+From: [[inteligencialtda]] <br/> 
+## Challenges and Misconceptions in Faith Practice
+
+Modern religious practice, particularly within the [[Catholic beliefs and practices | Catholic Church]], often faces various [[challenges_and_controversies_in_modern_religious_practice | challenges and misconceptions]]. These range from fundamental misunderstandings of doctrine to struggles with personal commitment and the influence of [[modern_societal_challenges_and_religious_perspectives | societal norms]].
+
+### Understanding Religious Roles and Terms
+
+There is a common difficulty in differentiating between roles such as Friar, Priest, Nun, and Bishop within the [[Catholic beliefs and practices | Catholic Church]] <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>.
+A **secular priest** is typically a man who enters a seminary, studies for six years, and is ordained to care for a parish, living with a degree of autonomy while obeying his bishop <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>.
+A **religious priest** (like a Friar) enters a religious community and adheres to a specific rule of life inspired by a saint, such as the Carmelites inspired by Saint Therese of the Child Jesus <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>. This communal life involves common schedules and vows of chastity, poverty, and obedience <a class="yt-timestamp" data-t="00:14:08">[00:14:08]</a>. The vow of poverty, for instance, means religious figures do not hold personal accounts or money; all earnings go to the community <a class="yt-timestamp" data-t="00:15:20">[00:15:20]</a>.
+Bishops oversee dioceses, which are territories encompassing several churches, and can transfer priests <a class="yt-timestamp" data-t="00:16:05">[00:16:05]</a>. Religious superiors also have a say in the transfers of friars, with the bishop's acceptance <a class="yt-timestamp" data-t="00:16:56">[00:16:56]</a>. Missionaries, whether from Brazil or other countries, contribute to spreading the faith globally <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>.
+The Catholic Church recognizes three main hierarchies: deacon, priest, and bishop. The Pope is the Bishop of Rome, holding the highest order of the priesthood <a class="yt-timestamp" data-t="00:18:48">[00:18:48]</a>.
+
+### Personal Faith Journey and Conversion
+
+Many individuals may identify as "Catholic" without actively practicing their [[influence_of_spirituality_and_faith | faith]], merely in name <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a>. The personal [[personal_conversion_and_faith_journey | conversion]] to true Catholicism often begins with external influences, such as parents encouraging participation in catechism and mass <a class="yt-timestamp" data-t="00:23:01">[00:23:01]</a>. However, genuine [[personal_conversion_and_faith_journey | spiritual awakening]] often requires internal commitment, realizing one "couldn't sing what I didn't live" <a class="yt-timestamp" data-t="00:25:42">[00:25:42]</a>. For many, a "gap" or emptiness in life, despite outward normalcy, signals a deeper need for [[faith_spirituality_and_the_existence_of_God | God]] <a class="yt-timestamp" data-t="00:27:24">[00:27:24]</a>.
+
+Prayer, beyond simple recitations, involves active dialogue and intimacy with [[faith_spirituality_and_the_existence_of_God | God]] <a class="yt-timestamp" data-t="02:46:43">[02:46:43]</a>. The "silence of God" in prayer can be a test of [[role_of_faith_in_overcoming_spiritual_struggles | faith]], a sign that God is speaking in ways not yet ready to be heard, or a call to deeper preparation <a class="yt-timestamp" data-t="02:48:31">[02:48:31]</a>.
+
+### The Role of Scripture and Truth
+
+The Bible is considered the main rule and source of truth for Christians. It is believed to be "written with the finger of God," not by men <a class="yt-timestamp" data-t="00:33:04">[00:33:04]</a>, and its purpose is to ensure humanity never forgets God's word <a class="yt-timestamp" data-t="00:34:05">[00:34:05]</a>.
+A significant [[modern_societal_challenges_and_religious_perspectives | challenge]] in modern society is the rejection of absolute truth, where "evil they call good and good evil" <a class="yt-timestamp" data-t="01:28:30">[01:28:30]</a>. This moral and spiritual calamity is seen as a sign of a decadent society that tends to self-destruct <a class="yt-timestamp" data-t="01:30:08">[01:30:08]</a>. The Church defends scientific truths, such as the life within a mother's womb, against ideologies that deny observable reality <a class="yt-timestamp" data-t="01:33:50">[01:33:50]</a>.
+The "truth is a person," and that person is Jesus Christ <a class="yt-timestamp" data-t="01:39:09">[01:39:09]</a>. Denying this truth leads to living a lie <a class="yt-timestamp" data-t="01:37:33">[01:37:33]</a>.
+
+### Sin, Salvation, and Free Will
+
+God, being omniscient, knows all things, including human choices, but does not determine them <a class="yt-timestamp" data-t="00:30:55">[00:30:55]</a>. Humanity was created with free will, capable of choosing whether or not to love and obey God <a class="yt-timestamp" data-t="00:51:50">[00:51:50]</a>. This freedom is an act of love from God <a class="yt-timestamp" data-t="00:52:22">[00:52:22]</a>.
+God sent his son "that whoever believes in him shall not perish but have eternal life" <a class="yt-timestamp" data-t="01:06:16">[01:06:16]</a>. Belief, in this context, is not just a feeling or acknowledgement of God's existence, but a commitment of one's life to Jesus Christ and adherence to his teachings <a class="yt-timestamp" data-t="01:07:41">[01:07:41]</a>.
+The Catechism defines sin as "a fault against reason, truth, the straight conscience" <a class="yt-timestamp" data-t="01:11:52">[01:11:52]</a>. It is an affront to God and humanity that can lead away from salvation <a class="yt-timestamp" data-t="01:14:01">[01:14:01]</a>. The Bible lists "works of the flesh" such as fornication, impurity, idolatry, enmities, and drunkenness, stating that "those who practice do not will inherit the kingdom of God" <a class="yt-timestamp" data-t="01:17:07">[01:17:07]</a>. However, these are warnings, not condemnations, as God desires everyone's salvation <a class="yt-timestamp" data-t="01:21:43">[01:21:43]</a>.
+The "sin against the Holy Spirit" is the only unforgivable sin, which occurs when a person, in their freedom, knowingly and definitively closes themselves off to God's grace and forgiveness <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>.
+Holiness, which is the ultimate purpose of human creation, is defined as imitating Jesus Christ and becoming "another Christ" <a class="yt-timestamp" data-t="01:48:10">[01:48:10]</a>. This involves renouncing the "old man" of sin and embracing Christ's virtues like joy, peace, unity, kindness, love, and humility <a class="yt-timestamp" data-t="01:49:27">[01:49:27]</a>. A life of sin provides only "fleeting joy" and "passenger pleasure," ultimately leaving one empty <a class="yt-timestamp" data-t="02:02:27">[02:02:27]</a>.
+
+### Societal and Theological Debates
+
+The [[Catholic beliefs and practices | Catholic Church]]'s stance on homosexuality is rooted in sacred scripture and tradition, which classify homosexual acts as "intrinsically disorderly" <a class="yt-timestamp" data-t="01:53:34">[01:53:34]</a>. However, the Church emphasizes accepting individuals with homosexual tendencies "with respect, compassion and delicacy," condemning the sinful act but not the sinner <a class="yt-timestamp" data-t="01:57:53">[01:57:53]</a>. These individuals are called to chastity and supported through virtues of self-control, friendship, prayer, and sacraments <a class="yt-timestamp" data-t="01:58:55">[01:58:55]</a>.
+
+Idolatry, in the broadest sense, is putting anything in God's place, including money, social media, or even images when revered as deities <a class="yt-timestamp" data-t="01:59:58">[01:59:58]</a>. The [[Catholic beliefs and practices | Catholic Church]] condemns worshipping images; instead, images serve as reminders of virtues or sacred figures, not as objects of worship themselves <a class="yt-timestamp" data-t="02:23:55">[02:23:55]</a>. True worship is reserved for the Father, Son, and Holy Spirit, and the consecrated Eucharist, which is believed to be the material body of Jesus <a class="yt-timestamp" data-t="02:27:08">[02:27:08]</a>.
+
+There is a growing concern about [[technology_and_its_impact_on_faith | external interference]] with religious freedom of speech, where discussing biblical truths (like sin) is deemed "offensive" <a class="yt-timestamp" data-t="01:49:17">[01:49:17]</a>. This attempts to silence religious voices and promote a "single voice" narrative <a class="yt-timestamp" data-t="01:51:16">[01:51:16]</a>. However, evangelization requires that someone preaches the word, and Christians are called to do so with respect, proposing the "good news" of Christ, but never imposing it <a class="yt-timestamp" data-t="01:47:34">[01:47:34]</a>.
+
+Ultimately, God has predestined humanity for salvation and desires everyone to choose heaven <a class="yt-timestamp" data-t="02:16:08">[02:16:08]</a>. The spiritual journey, with its [[the_role_of_faith_and_grace_in_overcoming_personal_challenges | challenges]] and moments of doubt, is a continuous process of seeking God and embracing the truth found in Christ.

@@ -1,0 +1,63 @@
+---
+title: The role of astrology and mysticism in military strategies
+videoId: RrmzgOyD-Ng
+---
+
+From: [[inteligencialtda]] <br/> 
+
+Historically, military powers have explored the potential of astrology and mysticism to influence and gain advantage in warfare. This exploration often delves into esoteric beliefs, spiritual warfare, and attempts to develop paranormal capabilities in soldiers, with many such endeavors being documented and influencing modern popular culture.
+
+## Nazi Occultism and the Quest for Power
+
+During World War II, the Nazi regime, particularly under figures like Heinrich Himmler, extensively invested in supernatural and spiritual pursuits to justify their ideology and enhance military capabilities <a class="yt-timestamp" data-t="02:55:01">[02:55:01]</a>.
+
+Their mystical conception was rooted in a revised history that intertwined with theosophy, drawing from Helena Blavatsky's ideas and the legend of Atlantis <a class="yt-timestamp" data-t="02:09:09">[02:09:09]</a>. The Nazis believed that Aryans were descendants of Atlantean civilizations, children of Nordic gods like Odin and Thor, possessing "divine DNA" and exceptional skills <a class="yt-timestamp" data-t="02:06:07">[02:06:07]</a>. This belief fueled their pursuit of developing these skills in soldiers <a class="yt-timestamp" data-t="02:06:46">[02:06:46]</a>.
+
+A central concept was "Vril," an energy believed to be mobilizable to make Germans invincible, especially if they accessed certain sacred relics <a class="yt-timestamp" data-t="02:56:51">[02:56:51]</a>. Prominent among these was the Spear of Longinus, believed to have pierced Christ's side, which Hitler seized immediately upon invading Austria <a class="yt-timestamp" data-t="02:07:03">[02:07:03]</a>. They also sought the Ark of the Covenant and the Holy Grail, believing these items would unleash a power of God or serve as weapons of mass destruction <a class="yt-timestamp" data-t="02:00:05">[02:00:05]</a>, granting them invincibility and enabling the Third Reich to establish a thousand-year kingdom <a class="yt-timestamp" data-t="02:07:45">[02:07:45]</a>.
+
+This pursuit of relics and occult power is well-documented in books like *The Holy Relics of Hitler* by Sydney Kirk Patrick <a class="yt-timestamp" data-t="02:53:07">[02:53:07]</a>. The belief in a "Divine genealogy" and the right to rule the world was a core part of their "religion" derived from these Atlantean and Norse myths <a class="yt-timestamp" data-t="03:41:30">[03:41:30]</a>. This worldview directly influenced the justification for racial superiority ideologies, as they saw themselves as descendants of gods, inherently superior to others <a class="yt-timestamp" data-t="02:40:26">[02:40:26]</a>.
+
+The Nazis' interest in [[nazi_occult_beliefs_and_their_impact_on_world_war_ii | Nazi occult beliefs and their impact on World War II]] extended to manipulating symbols, like taking the Indian Swastika and tilting it 45 degrees to the left to signify constant change and drawing power from a "dark hand" or "darkness" <a class="yt-timestamp" data-t="02:43:50">[02:43:50]</a>.
+
+## Allied Counter-Mysticism and Spiritual Warfare
+
+In response to the German occult efforts, the British also engaged in [[spiritual_warfare_and_protective_practices | spiritual warfare and protective practices]]. In 1939, British mystic Dion Fortune, associated with the Golden Dawn society, assembled a team of magicians <a class="yt-timestamp" data-t="03:17:10">[03:17:10]</a>. Her goal was to defeat the Germans through magic, rather than traditional combat <a class="yt-timestamp" data-t="03:37:41">[03:37:41]</a>.
+
+Fortune's group, the "Brotherhood of the White Light," conducted remote spiritual exercises, visualizing a "mountain of wisdom" and meeting "spiritually" in a cave to receive guidance from masters <a class="yt-timestamp" data-t="01:52:01">[01:52:01]</a>. Despite German bombings that affected her temple, they continued their [[magical_and_occult_practices_in_high_magic | magical and occult practices in high magic]] remotely through letters and synchronized meditations <a class="yt-timestamp" data-t="03:51:57">[03:51:57]</a>.
+
+Unlike the Germans, Fortune chose not to curse her enemies, believing negative energy would rebound <a class="yt-timestamp" data-t="03:53:37">[03:53:37]</a>. Instead, they focused on rituals to boost the morale of British troops and, crucially, to conjure clouds and fog to impede German air forces <a class="yt-timestamp" data-t="03:53:45">[03:53:45]</a>. Reports from the time suggest that such fogs, seemingly out of place, indeed occurred and prevented British defeats <a class="yt-timestamp" data-t="03:54:04">[03:54:04]</a>. This "Mystical Battle of England" highlights an esoteric resistance against Nazi occultism, a fight between "good wizards and evil wizards" <a class="yt-timestamp" data-t="03:35:05">[03:35:05]</a>.
+
+Fortune also conducted "psychic espionage" on Hitler's astrologers to anticipate German strategies, demonstrating the direct influence of [[astrological_and_biblical_prophecy_interpretations | astrological and biblical prophecy interpretations]] in military planning <a class="yt-timestamp" data-t="02:36:53">[02:36:53]</a>. She ceased her rituals in 1943, confident of an Allied victory, and even accurately predicted the emergence of the United Nations <a class="yt-timestamp" data-t="02:37:31">[02:37:31]</a>.
+
+## US Military and Paranormal Research
+
+Post-World War II, the United States also delved into paranormal research, partly due to suspicions that the Russians had "paranormal spies" <a class="yt-timestamp" data-t="01:06:03">[01:06:03]</a>.
+
+### Project Stargate and Remote Viewing
+The most notable US initiative was Project Stargate, based at Fort Meade, aimed at creating army psychics <a class="yt-timestamp" data-t="01:05:42">[01:05:42]</a>. This project, detailed in the book *The Men Who Stared at Goats*, sought to develop "remote viewing," an extrasensory perception ability to gather information from a distance <a class="yt-timestamp" data-t="01:12:50">[01:12:50]</a>.
+
+Figures like Ingo Swann and Uri Geller participated in early research at the Stanford Research Institute. Scientists studied Swann's brain waves, realizing that a nervous tic correlated with accurate remote viewing, allowing them to create a protocol that increased accuracy from 20% to 70% <a class="yt-timestamp" data-t="01:19:03">[01:19:03]</a>. Uri Geller, known for bending spoons, was also involved, having previously served in the Israeli army and demonstrated precognitive abilities, such as predicting the 1972 Munich Olympics attack <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>.
+
+The ultimate goal of Project Stargate was to develop skills beyond remote viewing, such as killing an animal by staring at it, or even passing through walls <a class="yt-timestamp" data-t="02:06:01">[02:06:01]</a>. While direct evidence of such extreme abilities in soldiers is debated, documented accounts exist of phenomena like knocking out a mouse by staring <a class="yt-timestamp" data-t="02:22:30">[02:22:30]</a>.
+
+When the project gained media attention, intelligence agencies employed a "Limited Hangout" tactic, selectively revealing partial information to hide the true extent and continuation of the program under new names and locations <a class="yt-timestamp" data-t="02:44:01">[02:44:01]</a>. It is believed that this project was reactivated after 9/11 and continues today, training "paranormal soldiers" in highly classified, restricted groups <a class="yt-timestamp" data-t="02:42:24">[02:42:24]</a>.
+
+### MK Ultra and Super Soldiers
+The US military's interest in mind control, partly influenced by German scientists brought over during "Operation Paperclip," led to the infamous MK Ultra project <a class="yt-timestamp" data-t="03:48:47">[03:48:47]</a>. This project, which aimed to manipulate individuals to commit atrocities or endure interrogation, was stumbled upon by the Church Commission in 1974 while investigating illegal CIA killings <a class="yt-timestamp" data-t="03:54:50">[03:54:50]</a>. The "K" in "MK Ultra" is believed to derive from "Kontrol," the German word for control, hinting at its German origins <a class="yt-timestamp" data-t="03:59:17">[03:59:17]</a>.
+
+The concept of "super soldiers" developed through "trauma-based mind control" is a recurring theme <a class="yt-timestamp" data-t="03:39:10">[03:39:10]</a>. This alleged method involves inducing severe childhood trauma to fragment a child's personality, creating an alter ego that can be trained as an assassin while the main personality remains unaware <a class="yt-timestamp" data-t="03:51:00">[03:51:00]</a>. These "sleepers" or "sleeper assassins" can be activated by specific "triggers" or codes <a class="yt-timestamp" data-t="03:56:09">[03:56:09]</a>.
+
+One prominent, unverified testimony comes from Robert Duncan O'Fin, who claims he was a guinea pig in a super soldier project called Project Talent, part of MK Ultra <a class="yt-timestamp" data-t="04:59:53">[04:59:53]</a>. He recounts having false memories, unusual physical resilience despite severe injuries, and unexpected combat skills <a class="yt-timestamp" data-t="05:39:35">[05:39:35]</a>. He attributes these to being a "receiver" soldier, mentally controlled by a "sender" psychic, and claims his memories were unblocked after an MRI scan "fried" a brain implant <a class="yt-timestamp" data-t="05:50:50">[05:50:50]</a>. The existence of his implants has been documented via magnetic resonances <a class="yt-timestamp" data-t="01:59:01">[01:59:01]</a>.
+
+### Montauk Project and Pop Culture Influence
+The Montauk Project, a supposed US government experiment in Montauk, Long Island, involved using a giant antenna to enhance psychic abilities for espionage, allegedly leading to unintended behavioral influences on the local population <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>. This project is widely believed to be the inspiration for the popular series *Stranger Things*, with the show's "Demogorgon" mirroring the alleged "Montauk Monster" encountered during astral projections <a class="yt-timestamp" data-t="01:47:56">[01:47:56]</a>.
+
+## Mysticism and Modern Geopolitics
+
+The concept of a "New World Order" itself has ancient roots, dating back to the Sibyl of Cumae's prophecies of a "new era with a new order of the centuries of the world" <a class="yt-timestamp" data-t="08:57:07">[08:57:07]</a>. This [[astrological_and_biblical_prophecy_interpretations | astrological and biblical prophecy interpretations]] perspective is sometimes linked to current events, such as the alignment of Pluto with Capricorn, which some interpret as a sign of major societal convulsions and revolutions <a class="yt-timestamp" data-t="09:54:00">[09:54:00]</a>.
+
+Elon Musk's apparent belief in cyclical "geophysical events" causing mass extinctions every 10,000 years drives his ambition to colonize Mars, viewing it as humanity's only safeguard against such events or a potential World War III <a class="yt-timestamp" data-t="01:13:08">[01:13:08]</a>. This aligns with theories from the *Cryptos Conundrum* book, which suggests that global military spending and the development of advanced weapons are actually preparations for an impending war against evil aliens, not human adversaries <a class="yt-timestamp" data-t="02:22:20">[02:22:20]</a>.
+
+Contemporary theories also link figures like Donald Trump and his son-in-law, Jared Kushner, to biblical prophecies of the Antichrist. Kushner's role in the "Abraham Accords," a peace agreement between Israel and Arab nations, is seen by some as fulfilling prophecies of a "false peace" that precedes the Antichrist's rise, potentially involving the reconstruction of the Temple of Jerusalem <a class="yt-timestamp" data-t="02:33:09">[02:33:09]</a>.
+
+Overall, the fusion of military strategy with occult and astrological beliefs, while often dismissed as [[influence_of_illuminati_and_conspiracy_theories | influence of Illuminati and conspiracy theories]], has a long and complex history, influencing not only covert operations but also permeating [[influence_of_esoteric_concepts_in_pop_culture | influence of esoteric concepts in pop culture]] across various forms of media <a class="yt-timestamp" data-t="01:17:11">[01:17:11]</a>. From comic books drawing inspiration from World War II occultism to modern discussions of alien threats and prophetic figures, these themes reflect a persistent human interest in the unseen forces influencing our world.

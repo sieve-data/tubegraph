@@ -1,0 +1,50 @@
+---
+title: Challenges and experiences in standup comedy
+videoId: G05bvThpBqs
+---
+
+From: [[inteligencialtda]] <br/> 
+
+Stand-up comedy, particularly in Brazil, presents unique [[challenges_of_being_a_comedian | challenges]] and experiences for aspiring and established comedians, as shared by Emerson Ceará <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. His journey highlights the personal sacrifices, industry dynamics, and evolution of the art form over time.
+
+## Early Exposure to Comedy and Theater
+Emerson Ceará's first exposure to performance was through theater in school, where he wrote and performed small plays <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>. He did this secretly from his father, who opposed his involvement in theater <a class="yt-timestamp" data-t="00:18:21">[00:18:21]</a>. He even auditioned for a film called *Into the Clouds*, or *Path of the Girls*, passing multiple tests before ultimately being unable to participate due to his father's refusal to give permission <a class="yt-timestamp" data-t="01:51:57">[01:51:57]</a>. This early experience with art left him "pissed off" and he thought he would never engage with the stage again <a class="yt-timestamp" data-t="02:18:49">[02:18:49]</a>.
+
+## Entry into Stand-Up Comedy
+Emerson Ceará began his stand-up comedy journey in 2010 <a class="yt-timestamp" data-t="01:41:40">[01:41:40]</a>, initially as a waiter at a newly inaugurated comedy bar in Curitiba <a class="yt-timestamp" data-t="03:51:50">[03:51:50]</a>. His dream was to be a waiter, viewing it as a "decent job" <a class="yt-timestamp" data-t="03:20:11">[03:20:11]</a> after previous manual labor <a class="yt-timestamp" data-t="03:10:14">[03:10:14]</a>. He exaggerated his experience to get the job <a class="yt-timestamp" data-t="03:50:52">[03:50:52]</a>, and was later hired as a bartender, despite having no prior experience and having to quickly learn classic drinks via Google <a class="yt-timestamp" data-t="03:70:04">[03:70:04]</a>.
+
+The idea of doing stand-up came from observing the comedians at the bar <a class="yt-timestamp" data-t="04:70:07">[04:70:07]</a>. The owner, Joca, encouraged him despite him having no material <a class="yt-timestamp" data-t="04:70:32">[04:70:32]</a>. His first performance for 15 people was "horrible," telling a joke about a cat that had nothing to do with him <a class="yt-timestamp" data-t="04:80:00">[04:80:00]</a>. He was encouraged to write about his own life and stories, as recommended by comedian Eduardo Jericó <a class="yt-timestamp" data-t="05:30:17">[05:30:17]</a>. This shift marked a turning point in his approach to comedy <a class="yt-timestamp" data-t="05:20:00">[05:20:00]</a>.
+
+## Challenges in the Comedy Scene
+The [[challenges_of_being_a_comedian | challenges]] in stand-up comedy are varied and personal:
+*   **Lack of Collaboration:** Emerson recounts building his jokes and career largely alone, without much help or invitations from other comedians <a class="yt-timestamp" data-t="05:70:33">[05:70:33]</a>. He noted a general unwillingness of established comedians to help newcomers, contrasting it with a "pan" (clique) mentality <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>.
+*   **Ego and Competition:** He observed instances of ego and competition among comedians, where some would try to "veto" or exclude others who were performing well <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>. He experienced this directly when his own performance as a waiter-comedian was sometimes funnier than the main act, leading to discomfort <a class="yt-timestamp" data-t="05:80:09">[05:80:09]</a>.
+*   **Financial Struggles:** Early in his career, he and other aspiring comedians faced severe financial difficulties, often going hungry and relying on cheap food like popcorn and tea <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>. They would attend other shows just to eat leftovers <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
+*   **Audience Perception and Language:** There was a period where his use of profanity in jokes was criticized <a class="yt-timestamp" data-t="05:80:16">[05:80:16]</a>, with people advising him to stop swearing to avoid being seen as "nonsense" <a class="yt-timestamp" data-t="05:80:28">[05:80:28]</a>. He also learned that while some audiences respond well to direct jokes, others prefer a conversational approach before getting to the punchline <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>.
+*   **Industry Gatekeepers:** Access to venues and larger shows was often controlled by "producers" who had established networks and schedules, making it difficult for independent comedians to book shows <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>. Emerson felt that many established figures focused on their own success rather than growing the comedy scene <a class="yt-timestamp" data-t="01:05:00">[01:05:00]</a>.
+*   **Regional Bias:** There was a perception that to achieve success, comedians needed to move to São Paulo <a class="yt-timestamp" data-t="01:09:34">[01:09:34]</a>. Emerson, however, built a consistent career from Curitiba, proving that success could be achieved outside the traditional "axis" <a class="yt-timestamp" data-t="01:09:43">[01:09:43]</a>.
+
+## Evolution and Breakthrough
+Emerson's career saw a significant shift due to the rise of the internet <a class="yt-timestamp" data-t="01:10:02">[01:10:02]</a>. He started producing videos on Facebook and YouTube, investing his own money in boosting content <a class="yt-timestamp" data-t="01:43:00">[01:43:00]</a>. This strategy, though initially risky, led to his videos going viral and gaining widespread recognition <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>. This success allowed him to pay off debts and further his career <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>.
+
+His appearance on the Faustão TV show was a major milestone <a class="yt-timestamp" data-t="01:13:00">[01:13:00]</a>, although he notes it was the internet that truly propelled his career <a class="yt-timestamp" data-t="01:10:04">[01:10:04]</a>.
+
+## Comedians and Collaborations
+Emerson mentions several other comedians who influenced him or with whom he interacted:
+*   **[[danilo_gentilis_standup_comedy_career_and_challenges | Danilo Gentili]] and Marco Zenni:** Were present at the inauguration of the Curitiba comedy bar where Emerson worked <a class="yt-timestamp" data-t="03:80:34">[03:80:34]</a>.
+*   **Luiz França and Léo Lins:** Were among the more established comedians he looked up to <a class="yt-timestamp" data-t="01:50:33">[01:50:33]</a>.
+*   **Afonso Padilha:** Emerson recounts a story where Afonso Padilha's material unintentionally reflected similar experiences, causing a slight "ego" moment but also showing the common ground among comedians <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>.
+*   **Diogo Almeida:** A friend and fellow comedian with whom Emerson shared various experiences, including traveling and dealing with difficult situations <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>. Their interactions highlight aspects of [[collaborating_with_other_comedians | collaborating with other comedians]] and the shared journey of their careers.
+*   **Eduardo Jericó:** Gave Emerson critical advice to stop relying on current events for jokes and instead focus on his personal stories, which proved to be a turning point <a class="yt-timestamp" data-t="05:30:17">[05:30:17]</a>.
+
+## Personal Style and Content
+Emerson Ceará's comedy evolved from generic jokes to personal storytelling, drawing from his unique life experiences, such as growing up in the Northeast, moving to Curitiba, and working odd jobs <a class="yt-timestamp" data-t="05:30:00">[05:30:00]</a>. He weaves humor into everyday situations, even embarrassing ones, making his stories relatable and funny <a class="yt-timestamp" data-t="01:40:25">[01:40:25]</a>. He emphasizes that while embellishment might occur, the core of his stories is true <a class="yt-timestamp" data-t="01:40:35">[01:40:35]</a>. This focus on personal narrative is a key aspect of the [[evolution_of_comedy_through_personal_stories | evolution of comedy through personal stories]].
+
+## Reflections on the Industry
+Emerson reflects on the changes in the comedy industry:
+*   **Shift to Internet Fame:** The internet has democratized comedy, allowing people to gain fame without needing to be in major cities like São Paulo <a class="yt-timestamp" data-t="01:09:50">[01:09:50]</a>. He cites [[Whindersson Nunes]] as an example of someone who achieved massive success from outside the traditional centers <a class="yt-timestamp" data-t="01:09:55">[01:09:55]</a>.
+*   **Devaluation of the Art Form:** He feels that the accessibility of stand-up can sometimes lead to it being devalued, as some perceive it as easy to do <a class="yt-timestamp" data-t="05:70:49">[05:70:49]</a>.
+*   **Cliques and Exclusivity:** While acknowledging that things have become more open with the internet, he still feels there are "cliques" or groups that can make it difficult for newcomers to gain access or opportunities <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>.
+*   **Audience Expectations:** Today, audiences are often drawn to celebrity names, rather than the pure comedic talent, sometimes leading to a focus on broad appeal over comedic depth <a class="yt-timestamp" data-t="01:26:11">[01:26:11]</a>.
+
+Despite the difficulties, Emerson views his journey as a "leap of faith," trusting in his path and relying on himself <a class="yt-timestamp" data-t="01:17:53">[01:17:53]</a>. He maintains a strong network of friends and collaborators who support each other in the industry <a class="yt-timestamp" data-t="01:19:40">[01:19:40]</a>. His experience highlights the resilience required to navigate the [[challenges_in_the_entertainment_industry | challenges in the entertainment industry]].

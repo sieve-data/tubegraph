@@ -1,0 +1,49 @@
+---
+title: Jesus and His Role in Salvation
+videoId: yrwLa7547eI
+---
+
+From: [[inteligencialtda]] <br/> 
+
+Jesus is understood as the central figure of Christianity, embodying God's love and serving as the means for humanity's salvation. He is presented as both eternal God and incarnate man, playing a pivotal role in creation, redemption, and future judgment.
+
+## The Nature of Jesus
+Jesus is identified as God the Son, eternally existing with God the Father and the Holy Spirit as one divine being, the Trinity <a class="yt-timestamp" data-t="08:19:19">[08:19:19]</a>. While they are distinct persons, they share the same thought, feelings, and complete synergy <a class="yt-timestamp" data-t="01:51:17">[01:51:17]</a>.
+
+Before his birth, Jesus was already eternal God <a class="yt-timestamp" data-t="08:42:15">[08:42:15]</a>. He is referred to as the Word (Logos), the very essence and action of God, through whom all things were created <a class="yt-timestamp" data-t="09:07:07">[09:07:07]</a>. The Bible states that "In the beginning was the Word, and the Word was with God, and the Word was God" <a class="yt-timestamp" data-t="08:48:05">[08:48:05]</a>. This means Jesus was never created; he is the Creator <a class="yt-timestamp" data-t="01:10:04">[01:10:04]</a>.
+
+In the Old Testament, Jesus is often seen manifesting as the "angel of the Lord" or "messenger of Yahweh," accepting adoration in ways created angels do not <a class="yt-timestamp" data-t="11:09:09">[11:09:09]</a>. Examples include his appearance to Moses in the burning bush and to Joshua as the captain of the armies of the Most High <a class="yt-timestamp" data-t="11:59:00">[11:59:00]</a>. He is the "exact expression of God's being" <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>. When asked to show the Father, Jesus stated, "Whoever sees me sees the Father" <a class="yt-timestamp" data-t="01:10:04">[01:10:04]</a>.
+
+Jesus used various metaphors to explain himself, such as the bread of life, water of life, light of the world, and the door, symbolizing his role in providing sustenance, guidance, and access to God <a class="yt-timestamp" data-t="16:12:35">[16:12:35]</a>.
+
+## The First Coming of Christ (Incarnation)
+Jesus' incarnation was a pre-ordained plan of God from eternity, not merely a reaction to humanity's fall into sin <a class="yt-timestamp" data-t="17:24:19">[17:24:19]</a>. The Bible describes Jesus as "the lamb that was slain since the foundation of the Cosmos" <a class="yt-timestamp" data-t="01:19:36">[01:19:36]</a>, indicating his sacrificial death was foreseen and purposed by God's unconditional love <a class="yt-timestamp" data-t="02:00:11">[02:00:11]</a>.
+
+[[role_and_interpretation_of_biblical_prophecies | Biblical prophecies]] foresaw Jesus' birth and role:
+*   He was born in Bethlehem, fulfilling the prophecy in Micah 5:2 <a class="yt-timestamp" data-t="03:57:56">[03:57:56]</a>. This specific location was orchestrated by God, even through a Roman census decreed by Caesar Augustus <a class="yt-timestamp" data-t="04:19:19">[04:19:19]</a>.
+*   He was born of a virgin, as prophesied in Isaiah 7:14, which stated, "Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel (God with us)" <a class="yt-timestamp" data-t="02:05:18">[02:05:18]</a>. This virgin birth was crucial because the transmission of sin is understood to be through man, not woman, thus ensuring Jesus was without sin <a class="yt-timestamp" data-t="02:06:51">[02:06:51]</a>.
+*   Old Testament narratives, such as Abraham's willingness to sacrifice Isaac, are seen as "types" pointing to Christ <a class="yt-timestamp" data-t="02:37:37">[02:37:37]</a>. Isaac is a type of Christ, and God's provision of a ram symbolizes Jesus as "the Lamb of God who takes away the sin of the world" <a class="yt-timestamp" data-t="02:46:17">[02:46:17]</a>.
+
+## Jesus' Ministry and Teachings
+Jesus' ministry began after his baptism, when he was led into the desert to be tempted by the devil for 40 days and nights <a class="yt-timestamp" data-t="04:8:04">[04:8:04]</a>. He resisted the devil's temptations, demonstrating his sinless nature and qualifying him to be the Savior <a class="yt-timestamp" data-t="04:10:04">[04:10:04]</a>.
+
+His teachings revolutionized the understanding of the law and human interaction:
+*   He loved and accepted people, even those shunned by society. For instance, he touched lepers, defying the prevailing law that required separation due to the contagious nature of leprosy <a class="yt-timestamp" data-t="03:07:07">[03:07:07]</a>. He healed them, demonstrating his power and compassion <a class="yt-timestamp" data-t="03:12:00">[03:12:00]</a>.
+*   His "Sermon on the Mount" established the "laws of the kingdom," emphasizing inner transformation rather than mere adherence to external rules <a class="yt-timestamp" data-t="05:55:16">[05:55:16]</a>. He taught paradoxical blessings, such as "Blessed are those who mourn" and "Blessed are the meek, for they will inherit the earth," contrasting with worldly strength and conquest <a class="yt-timestamp" data-t="05:55:42">[05:55:42]</a>.
+
+## Jesus' Role in [[concepts_of_sin_and_salvation_in_christianity | Salvation]]
+Jesus' primary purpose in his first coming was to save humanity from sin <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>.
+*   **Atonement for Sin**: Sin is defined as the transgression of God's law, attacking and confronting God <a class="yt-timestamp" data-t="04:43:08">[04:43:08]</a>. The entry of sin into the world through Adam brought spiritual death and separation from God <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>. Jesus' death was a perfect sacrifice, "one life for another, the righteous for the unrighteous" <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>.
+*   **The Paschal Lamb**: Jesus died during the Passover festival as the "Paschal Lamb," fulfilling the Old Testament sacrificial system <a class="yt-timestamp" data-t="01:05:47">[01:05:47]</a>. This was precisely planned, including the timing of his crucifixion (9 AM, the time of morning sacrifice) and death (3 PM, the time of beheading) <a class="yt-timestamp" data-t="01:06:02">[01:06:02]</a>.
+*   **Voluntary Sacrifice**: Jesus willingly surrendered his life; it was not taken from him by force or political weakness <a class="yt-timestamp" data-t="01:10:03">[01:10:03]</a>. His cry "It is finished" on the cross, translated as "it is paid" (tetelestai), signifies the complete atonement for sins <a class="yt-timestamp" data-t="01:28:39">[01:28:39]</a>. This means no further sacrifice is needed <a class="yt-timestamp" data-t="01:18:53">[01:18:53]</a>.
+*   **Grace and Forgiveness**: The blood of animals in the Old Testament merely "covered" sins (Yom Kippur) <a class="yt-timestamp" data-t="01:14:51">[01:14:51]</a>, but Jesus' blood "destroys sins" and makes believers "whiter than snow" <a class="yt-timestamp" data-t="01:18:10">[01:18:10]</a>. This is part of God's grace, which provides not only forgiveness but also the power to overcome temptation <a class="yt-timestamp" data-t="02:09:21">[02:09:21]</a>.
+
+## The Second Coming of Christ
+Jesus' story does not end with his death and resurrection; he promised to return <a class="yt-timestamp" data-t="01:01:55">[01:01:55]</a>. This [[role_of_the_apocalypse_in_christian_theology | future event]] is a significant part of [[role_and_interpretation_of_biblical_prophecies | biblical prophecy]], making up 40% of the Bible <a class="yt-timestamp" data-t="01:30:36">[01:30:36]</a>.
+*   **Signs of His Return**: Jesus spoke of various signs, including natural disasters (fires, earthquakes, floods), geopolitical conflicts, and spiritual apostasy <a class="yt-timestamp" data-t="01:35:01">[01:35:01]</a>. The fulfillment of ancient prophecies, such as the Dead Sea becoming fresh water and Israel's return to their land after exile, are cited as signs of the end times <a class="yt-timestamp" data-t="01:36:52">[01:36:52]</a>.
+*   **The Rapture and Tribulation**: The next major event is the "rapture of the church," where believers will meet Jesus in the air <a class="yt-timestamp" data-t="01:48:05">[01:48:05]</a>. This will precede the "great tribulation," a seven-year period of global rule by the Antichrist, supported by a false prophet <a class="yt-timestamp" data-t="01:48:50">[01:48:50]</a>.
+*   **Second Coming and Millennium**: After the tribulation, Jesus will visibly descend to Earth, establishing himself as judge <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>. He will defeat the armies of the Antichrist at the Battle of Armageddon <a class="yt-timestamp" data-t="02:03:10">[02:03:10]</a>. This will usher in a 1,000-year period known as the Millennium, a "Golden Age" where Christ is present, Satan is imprisoned, and there is peace, prosperity, and reduced sin <a class="yt-timestamp" data-t="02:16:30">[02:16:30]</a>.
+*   **Final Judgment and Eternity**: At the end of the Millennium, Satan will be released, leading to a final conflict, after which Christ will execute final judgment <a class="yt-timestamp" data-t="02:19:16">[02:19:16]</a>. Those who accepted Jesus will enter eternal life in his presence, while others will face eternal separation <a class="yt-timestamp" data-t="02:05:06">[02:05:06]</a>.
+
+## Jesus as the Center
+Jesus is presented as the "center" of the gospel, emphasizing a Christocentric view over humanism <a class="yt-timestamp" data-t="02:29:02">[02:29:02]</a>. He is both the origin and destiny, the Lord and Savior, and the only way to God, representing the truth and life <a class="yt-timestamp" data-t="02:32:09">[02:32:09]</a>. Christians are encouraged to love Jesus, surrender their lives to him, and seek his presence, finding joy and peace that transcends worldly circumstances <a class="yt-timestamp" data-t="02:30:07">[02:30:07]</a>.

@@ -1,0 +1,36 @@
+---
+title: Technological advancements in forensic science
+videoId: u6iCbtzIGM4
+---
+
+From: [[inteligencialtda]] <br/> 
+
+Forensic science plays a crucial role in criminal investigations, providing objective evidence that can lead to convictions or acquittals <a class="yt-timestamp" data-t="01:44:04">[01:44:04]</a>, <a class="yt-timestamp" data-t="01:44:08">[01:44:08]</a>. While popular media like "CSI" often portray an idealized version of [[Forensic Science and Crime Scene Investigation | forensic science]] with high-tech equipment and rapid results <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>, the reality in places like São Paulo involves significant challenges, particularly concerning human resources and the volume of cases <a class="yt-timestamp" data-t="01:16:12">[01:16:12]</a>. Despite these [[challenges_and_realities_of_forensic_experts | challenges]], there has been a notable [[technological_advances_in_timerelated_research | technological jump]] in the field over the last decade <a class="yt-timestamp" data-t="01:59:56">[01:59:56]</a>.
+
+## Evolution of Forensic Tools and Techniques
+Historically, forensic work relied on more rudimentary methods, contrasting sharply with modern [[advancements_in_technology_and_potential_impacts | advancements in technology]].
+
+### Photography
+Traditional photography involved film that required weeks for development, making it difficult to assess image quality on-site <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. Errors in light measurement could result in unusable photos <a class="yt-timestamp" data-t="01:15:17">[01:15:17]</a>. Today, digital cameras and semi-professional digital cameras are standard <a class="yt-timestamp" data-t="02:51:20">[02:51:20]</a>, allowing for immediate feedback and better control over image quality <a class="yt-timestamp" data-t="01:17:17">[01:17:17]</a>. Forensic photographers aim to create images that transport a judge or prosecutor to the scene, illustrating the expert's narrative <a class="yt-timestamp" data-t="03:00:58">[03:00:58]</a>. Drones are also used for aerial images in specific cases, though less frequently <a class="yt-timestamp" data-t="03:04:09">[03:04:09]</a>.
+
+### Chemical and Biological Analysis
+*   **Luminol:** This chemical substance reacts with red blood cells, producing a bluish luminescence that reveals bloodstains even after cleaning <a class="yt-timestamp" data-t="04:46:00">[04:46:00]</a>. While not definitive confirmation of blood, it provides a strong indication for further analysis <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>.
+*   **DNA Testing:** [[Forensic investigation techniques | DNA analysis]] is crucial for identifying individuals from biological samples like hair (if it contains a bubo) <a class="yt-timestamp" data-t="03:06:01">[03:06:01]</a>, skin, or blood <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a>. DNA results are objective and do not depend on confessions or witness statements, which can change <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>. However, laboratories often face backlogs, leading to delays of months for results <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>.
+
+### Fingerprint Collection
+Fingerprints are collected using various techniques depending on the surface <a class="yt-timestamp" data-t="02:43:30">[02:43:30]</a>. This includes using powders (black for white surfaces, white for dark surfaces) applied with specific brushes, or gentian violet for adhesive paper <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. Magnetic brushes and specialized powders are also used to reveal prints from natural body fats <a class="yt-timestamp" data-t="03:04:00">[03:04:00]</a>. Once revealed, prints are "lifted" using adhesive tape and transferred to a transparent blade for transport and analysis <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. Unlike the U.S., Brazil has a comprehensive fingerprint database for a large portion of its population <a class="yt-timestamp" data-t="01:49:00">[01:49:00]</a>.
+
+### Digital and Connectivity Tools
+*   **Mobile Phone Data:** Cell phone antennas can be used to track movements, revealing if a person left a certain region or if their phone was active at specific times <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>.
+*   **Security Camera Footage:** The increasing prevalence of security cameras in homes, businesses, and public spaces, along with widespread cell phone usage, provides valuable third-party footage for investigations <a class="yt-timestamp" data-t="02:56:00">[02:56:00]</a>. While resolution can be an issue, especially at night, these videos often circulate quickly among police groups, providing rapid intelligence <a class="yt-timestamp" data-t="02:56:00">[02:56:00]</a>.
+*   **Electron Microscope (MEV):** For microscopic analysis, such as identifying glass fragments on a shoe, an electron microscope can be used to determine the material's composition <a class="yt-timestamp" data-t="02:26:56">[02:26:56]</a>. This allows for precise identification of fractured glass characteristics <a class="yt-timestamp" data-t="02:36:34">[02:36:34]</a>.
+
+## Impact and Challenges
+[[Technological advancements and societal impact | Technological advancements]] significantly enhance [[forensic_investigation_techniques | forensic investigation techniques]], making it harder for perpetrators to evade detection. The Locard principle, which states that every contact leaves a trace, underpins much of this work <a class="yt-timestamp" data-t="03:21:04">[03:21:04]</a>. Even seemingly insignificant traces, like glass fragments or blood on a shoe, can provide crucial [[the_role_of_forensic_evidence_in_criminal_justice | forensic evidence]] <a class="yt-timestamp" data-t="03:23:00">[03:23:00]</a>.
+
+However, challenges remain:
+*   **Human Resources:** Despite advanced tools, a shortage of [[role_of_forensic_experts_in_criminal_investigations | forensic experts]] and laboratory staff leads to significant backlogs in processing evidence <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>.
+*   **Information Discrepancies:** The media can sometimes misrepresent or sensationalize cases, creating public narratives that deviate from forensic facts <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>.
+*   **Contamination and Preservation:** Crime scenes require careful preservation to avoid contamination of evidence, a task made more difficult by the urgency of collecting perishable traces <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>.
+
+The Brazilian forensic system, particularly in São Paulo, operates effectively despite these constraints. Experts note that Brazil's "casuistry" (volume and variety of cases) provides unique practical experience that surpasses that of many countries with more resources <a class="yt-timestamp" data-t="03:15:00">[03:15:00]</a>. This practical knowledge allows experts to adapt and find solutions even in challenging situations, demonstrating a high level of competence in [[forensic_investigation_techniques | forensic science]].

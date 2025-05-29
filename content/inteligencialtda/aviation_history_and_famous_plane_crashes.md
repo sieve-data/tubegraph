@@ -1,0 +1,85 @@
+---
+title: Aviation history and famous plane crashes
+videoId: Z3Rz2Ky6Xfg
+---
+
+From: [[inteligencialtda]] <br/> 
+
+This article delves into the fascinating world of aviation, covering its history, significant incidents, and the continuous evolution of safety. The insights are primarily drawn from a discussion with Lito Sousa, creator of the popular "Airplanes and Music" channel <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+
+## A Journey Through Aviation
+
+### Early Planes and Technological Advancements
+Older aircraft, such as a 1927 plane, still fly, primarily for tourist flights, though they are classified as experimental and require passengers to sign a waiver <a class="yt-timestamp" data-t="03:30:31">[03:30:31]</a>. The Rio-São Paulo air bridge once used four-propeller engine planes <a class="yt-timestamp" data-t="01:44:06">[01:44:06]</a>. Lito Sousa's book, "Where Planes Die," recounts the story of Varig's four-propeller engine planes being sold to Zaire (now the Democratic Republic of Congo) in Africa, and his experience working there as part of a technology transfer <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a>.
+
+Aviation technology has seen significant evolution.
+*   **Concorde**: This supersonic passenger jet could fly at Mach 2 (twice the speed of sound) <a class="yt-timestamp" data-t="02:38:00">[02:38:00]</a>. Despite its speed, allowing passengers to experience multiple sunsets <a class="yt-timestamp" data-t="02:02:18">[02:02:18]</a>, it was very expensive to operate and lacked the comfort of larger planes like the 747 <a class="yt-timestamp" data-t="02:08:06">[02:08:06]</a>. Its windows were notably small, and seating was tight <a class="yt-timestamp" data-t="02:42:04">[02:42:04]</a>. When a plane breaks the sound barrier, those outside hear a "pop" as air molecules separate and then come back together <a class="yt-timestamp" data-t="02:03:19">[02:03:19]</a>.
+*   **SR-71 Blackbird**: This spy plane, flying at Mach 3.2 <a class="yt-timestamp" data-t="02:46:26">[02:46:26]</a>, was made of titanium to withstand extreme temperatures from air friction <a class="yt-timestamp" data-t="02:44:40">[02:44:40]</a>. Its navigation system relied on stars due to its high speed <a class="yt-timestamp" data-t="02:05:04">[02:05:04]</a>.
+*   **XB-70 Valkyrie**: Developed in the 1960s, this bomber, the size of a Concorde, flew at Mach 3.2 and was already in a museum by 1969 <a class="yt-timestamp" data-t="01:48:06">[01:48:06]</a>. Such advanced, secret projects underscore the technological capabilities governments may possess <a class="yt-timestamp" data-t="01:48:10">[01:48:10]</a>.
+
+### Aviation Safety and Regulations
+Aviation is considered one of the safest modes of transport, with statistics showing a significantly lower accident rate compared to other forms of travel. Brazil, for instance, had no fatalities on large scheduled commercial flights between 2007 and 2020 <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>.
+
+Safety relies on rigorous maintenance, pilot training, and constant vigilance.
+*   **Maintenance**: Aircraft undergo extensive inspections. After landing, a mechanic performs a "post-flight inspection" looking for damage to crucial components like pitot tubes (for speed indication), radome (nose), tires, landing gear shock absorbers, and static ports (for altitude) <a class="yt-timestamp" data-t="02:20:50">[02:20:50]</a>. The pilot also conducts a similar check <a class="yt-timestamp" data-t="02:26:56">[02:26:56]</a>. Any problems are logged for repair <a class="yt-timestamp" data-t="02:39:58">[02:39:58]</a>.
+*   **Pilot Training & CRM**: Pilot training is continuous, especially for handling emergencies without automation <a class="yt-timestamp" data-t="03:31:51">[03:31:51]</a>. The "Cockpit Resources Management" (CRM) system emphasizes open communication and idea exchange between pilots, reducing reliance on strict hierarchy to prevent errors <a class="yt-timestamp" data-t="04:14:46">[04:14:46]</a>. This ensures that even co-pilots can voice concerns without fear of reprimand <a class="yt-timestamp" data-t="04:37:00">[04:37:00]</a>.
+*   **Automation vs. Pilot Skill**: While automation enhances safety, concerns have been raised about pilots potentially losing proficiency in manual flying <a class="yt-timestamp" data-t="03:31:51">[03:31:51]</a>. Training now includes scenarios to maintain manual control skills <a class="yt-timestamp" data-t="03:32:47">[03:32:47]</a>.
+*   **Low-Cost Airlines**: These airlines reduce costs by charging for amenities like food, paper tickets, and checked luggage, focusing savings on non-essential services rather than critical maintenance <a class="yt-timestamp" data-t="03:41:40">[03:41:40]</a>.
+
+## Famous Plane Crashes and Their Impact
+Plane crashes, though rare, often lead to significant changes in aviation safety protocols.
+
+### Varig Flight 254 (1989)
+This crash, which occurred on September 3, 1989, resulted from a misinterpretation of the flight plan, causing the plane to run out of fuel and crash in the Amazon rainforest <a class="yt-timestamp" data-t="05:09:09">[05:09:09]</a>. The co-pilot, who survived, later wrote a book about his experience, detailing the events in the cockpit <a class="yt-timestamp" data-t="05:37:00">[05:37:00]</a>. The accident highlighted the need for clearer communication and pilot understanding of navigation.
+
+### Hudson River Landing ("Sully") (2009)
+US Airways Flight 1549, piloted by Captain Chesley Sullenberger, lost both engines after striking a flock of Canadian geese shortly after takeoff from New York City <a class="yt-timestamp" data-t="02:38:00">[02:38:00]</a>. Sullenberger successfully glided the plane to an emergency landing on the Hudson River, saving all 155 people on board <a class="yt-timestamp" data-t="02:02:06">[02:02:06]</a>. This incident demonstrated the critical role of human decision-making and swift action, especially when automation might default to less optimal outcomes <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>. Sullenberger's decision to activate an auxiliary power system immediately after engine loss was crucial, as it kept the flight computers and hydraulic controls powered <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>.
+
+### Gol Flight 1907 / Legacy Mid-air Collision (2006)
+This collision involved a commercial Gol Boeing 737 and an executive Legacy jet over the Amazon <a class="yt-timestamp" data-t="03:40:00">[03:40:00]</a>. It was a sequence of errors, including a miscommunicated flight plan and the Legacy's transponder being off, making it invisible to air traffic control <a class="yt-timestamp" data-t="05:09:09">[05:09:09]</a>. The accident highlighted issues in air traffic control, particularly during shift changes <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>.
+
+### TAM Flight 3054 (Congonhas, 2007)
+The TAM A320 overran the runway at Congonhas Airport during a heavy rainstorm <a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>. One of the engine's thrust reversers was inoperative, and due to a lever being in the wrong position, one engine braked while the other accelerated <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>. This, combined with a wet runway, led to the plane overrunning and hitting a gas station <a class="yt-timestamp" data-t="04:40:43">[04:40:43]</a>. The accident led to grooving (grooves on the runway surface for better drainage) at Congonhas <a class="yt-timestamp" data-t="04:15:00">[04:15:00]</a> and a reduction in runway length to improve braking performance <a class="yt-timestamp" data-t="04:37:00">[04:37:00]</a>.
+
+### Air France Flight 447 (2009)
+This modern aircraft, with an experienced crew, crashed into the Atlantic Ocean after its pitot tubes froze, leading to incorrect airspeed readings <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. The crew's incorrect responses to the stall, despite warnings, resulted in the crash <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>. This accident emphasized the need for pilots to maintain manual flying skills and understand automation limitations <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>. The plane passed through an Intertropical Convergence Zone (ITCZ), an area known for severe weather <a class="yt-timestamp" data-t="01:00:45">[01:00:45]</a>.
+
+### Lake Constance Mid-air Collision (2002)
+This collision involved a Russian passenger plane and a DHL cargo plane over Germany. It resulted from miscommunication and conflicting instructions from air traffic control <a class="yt-timestamp" data-t="02:40:30">[02:40:30]</a>. The aircraft's anti-collision systems (TCAS) gave conflicting commands (one telling a pilot to ascend, the other to descend), while the air traffic controller gave opposite instructions. The pilots followed the controller's orders, leading to the collision <a class="yt-timestamp" data-t="02:41:51">[02:41:51]</a>. This incident led to clearer rules: TCAS commands must be followed immediately, regardless of air traffic control instructions <a class="yt-timestamp" data-t="02:42:53">[02:42:53]</a>.
+
+### Chapecoense Plane Crash (2016)
+The LAMIA Flight 2933 carrying the Chapecoense football team crashed due to fuel exhaustion <a class="yt-timestamp" data-t="02:40:03">[02:40:03]</a>. The discussion indicates this was a case of negligence rather than an unavoidable accident, as the flight plan did not account for sufficient fuel for the journey, and the crew continued despite the risk <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>.
+
+### Other Crashes and Incidents
+*   **Fokker 100 Crash**: A Fokker 100 accident is described as "very hard to tell" because the pilots had no chance to save the flight given the conditions and lack of time <a class="yt-timestamp" data-t="02:39:25">[02:39:25]</a>.
+*   **Electra Aircraft (1958-59)**: These planes, used on the air bridge, had oscillation problems in their motors that caused harmonic vibrations in the wings, leading to structural failures until corrected <a class="yt-timestamp" data-t="03:09:00">[03:09:00]</a>.
+*   **Military Plane Crashes**: One anecdote mentions a soldier falling alive from a B-17 Flying Fortress during World War II without a parachute <a class="yt-timestamp" data-t="03:13:58">[03:13:58]</a>. Another involves a girl who survived an explosion mid-flight in the Amazon rainforest after being hit by lightning, finding refuge due to her biologist parents' knowledge of the jungle <a class="yt-timestamp" data-t="03:43:00">[03:43:00]</a>.
+*   **Private Aviation Accidents**: Accidents are significantly more frequent in private and general aviation compared to commercial flights, with statistics showing an 18,000% higher accident rate for non-regular aviation <a class="yt-timestamp" data-t="01:09:58">[01:09:58]</a>. This is attributed to less vigorous inspections and potentially less rigorous pilot training compared to commercial operations <a class="yt-timestamp" data-t="01:05:53">[01:05:53]</a>.
+
+## Understanding Aviation and Overcoming Fear
+For many, understanding how planes work can help overcome the [[fear_of_flying_and_overcoming_it | fear of flying]] <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>. Knowing the safety measures and the rarity of accidents can provide peace of mind <a class="yt-timestamp" data-t="03:58:00">[03:58:00]</a>. The industry continuously learns from past incidents to improve safety <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>.
+
+### Pilot vs. Artificial Intelligence Decisions
+The debate exists whether Artificial Intelligence could make better decisions than human pilots in emergencies. While AI could process thousands of calculations per second <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>, a human pilot's quick reaction time, even if seconds longer, can be crucial for an optimal outcome, as seen in the Hudson River landing <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>. AI prioritizes aircraft integrity, while humans prioritize saving lives <a class="yt-timestamp" data-t="02:15:00">[02:15:00]</a>.
+
+### Challenges and Incidents in Detail
+*   **Bird Strikes**: While common, bird strikes rarely bring down large commercial planes unless they involve very large birds like vultures during critical phases of flight <a class="yt-timestamp" data-t="03:15:00">[03:15:00]</a>. Airports employ measures like falconry (using trained hawks to scare away birds) <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>.
+*   **Drones**: Drones near airports pose a collision risk, but their small mass generally means less severe damage to large aircraft compared to other foreign objects <a class="yt-timestamp" data-t="01:41:18">[01:41:18]</a>.
+*   **Balloons**: Uncontrolled hot air balloons pose a significant threat to aircraft, especially around airports. They can be large and get entangled in engines or other parts of the plane, causing damage <a class="yt-timestamp" data-t="01:42:51">[01:42:51]</a>.
+*   **Lightning Strikes**: Planes are designed to withstand lightning strikes almost daily due to their Faraday cage construction, which channels electrical current around the cabin <a class="yt-timestamp" data-t="02:7:00">[02:7:00]</a>.
+*   **Turbulence**: Turbulence is normal and does not cause planes to crash <a class="yt-timestamp" data-t="05:30:00">[05:30:00]</a>. Planes are built to withstand multi-level turbulence, and wing damage is extremely rare <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>. Propeller planes tend to experience more turbulence because they fly at lower altitudes, closer to cloud layers <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>.
+*   **Engine Failure**: If one engine fails on a twin-engine plane, the rudder (shark fin at the tail) compensates for the asymmetrical thrust, allowing the plane to continue flying straight <a class="yt-timestamp" data-t="01:18:44">[01:18:44]</a>. Commercial aircraft are certified to climb even with a single engine at maximum takeoff weight <a class="yt-timestamp" data-t="01:15:26">[01:15:26]</a>.
+*   **Unidentified Flying Objects (UFOs)**: Recent releases of military footage showing [[historical_ufo_cases | unidentified flying objects]] (UFOs) demonstrate that technologically advanced objects exist that current human understanding cannot explain <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>. These objects perform maneuvers and achieve speeds beyond current known aircraft capabilities <a class="yt-timestamp" data-t="01:48:27">[01:48:27]</a>.
+*   **Bermuda Triangle**: This legendary area where planes and ships supposedly disappear is attributed to being an [[maritime_disasters_and_incidents | Intertropical Convergence Zone]] (ITCZ), a region near the equator known for extreme calm (causing sailing ships to get stuck) or violent storms <a class="yt-timestamp" data-t="01:49:12">[01:49:12]</a>.
+*   **Zero-Gravity Flights**: These flights, often called "vomit comets," involve parabolic maneuvers that simulate different levels of gravity (like Mars or the Moon) and even zero gravity for short periods, providing a unique floating sensation <a class="yt-timestamp" data-t="01:52:09">[01:52:09]</a>.
+
+## Personal Anecdotes and Insights
+Lito Sousa recounts various [[unique_aviation_stories_and_pilot_experiences | aviation anecdotes and experiences]]:
+*   His experience in Zaire involved being detained by federal police at 5 AM due to a large quantity of goods being transported with the planes <a class="yt-timestamp" data-t="06:36:00">[06:36:00]</a>. This situation was resolved when the company owner arrived with a suitcase, implying a bribe <a class="yt-timestamp" data-t="07:16:00">[07:16:00]</a>.
+*   Crossing the Atlantic in an old four-propeller engine plane led to fuel leaks from dried-out tank sealant when filled to capacity for the long flight <a class="yt-timestamp" data-t="08:52:00">[08:52:00]</a>.
+*   A personal fear of flying developed after his son was born, lasting several months <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. Watching [[plane_mechanics_and_safety_procedures | accident programs]] sometimes increased his anxiety due to their dramatization <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>.
+*   Pilots can view auroras and the Southern Cross from above, offering unique astronomical perspectives <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>.
+*   He also shared a childhood memory of "Jet Blast surfing" behind planes at Manaus airport, where teenagers would jump when engines powered up for takeoff <a class="yt-timestamp" data-t="03:09:00">[03:09:00]</a>.
+
+## Conclusion
+Aviation is a complex field that continually evolves, driven by both technological innovation and lessons learned from past incidents. The rigorous safety protocols and continuous training contribute to its status as a remarkably safe mode of transport.

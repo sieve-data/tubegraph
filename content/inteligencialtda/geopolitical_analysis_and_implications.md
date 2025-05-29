@@ -1,0 +1,82 @@
+---
+title: Geopolitical analysis and implications
+videoId: QnZU76VQYr4
+---
+
+From: [[inteligencialtda]] <br/> 
+
+The "Limited Intelligence" program, hosted by Rogério Vil, frequently features discussions on [[geopolitics_and_its_relation_to_geography | geopolitics]], international news, and current global events, often interpreting them through the lens of biblical prophecy and end-times scenarios <a class="yt-timestamp" data-t="06:58:24">[06:58:24]</a>.
+
+## Current Geopolitical Landscape
+Daniel Lopes, a journalist with a YouTube channel, focuses on international news and [[geopolitics_and_its_relation_to_geography | geopolitics]] from Monday to Friday, providing analysis on these topics <a class="yt-timestamp" data-t="13:37:37">[13:37:37]</a>.
+
+Daniel Mastral, a writer and lecturer, discusses historical and prophetic elements influencing current events, often touching upon themes of global control and secret societies <a class="yt-timestamp" data-t="12:44:00">[12:44:00]</a>.
+
+### Biblical and Prophetic Interpretations of Geopolitical Events
+The discussion frequently references biblical prophecies to understand contemporary [[geopolitics_and_its_relation_to_geography | geopolitical]] events, suggesting that many happenings are signs of the end times <a class="yt-timestamp" data-t="18:44:00">[18:44:00]</a>.
+
+Key elements observed as signs include:
+*   **Wars and Rumors of Wars** Jesus' prophecies in Matthew 24 mention wars and rumors of wars, which are seen as occurring in the current [[current_geopolitical_tensions_involving_russia_and_ukraine | historical moment]] <a class="yt-timestamp" data-t="24:19:00">[24:19:00]</a>.
+*   **Cooling of Love and Second Rebellion** Prophecies describe love cooling down and people mistreating each other, likened to a "second rebellion on earth," signifying brothers fighting brothers <a class="yt-timestamp" data-t="23:14:00">[23:14:00]</a>.
+*   **Earthquakes and Health Crises** Prophecies of earthquakes and health crises are linked to recent events, including strong earthquakes in New York, the strongest in 140 years, and one in Maranhão, Brazil <a class="yt-timestamp" data-t="23:26:00">[23:26:00]</a>.
+*   **Fig Tree Prophecy** The "fig tree" is an allusion to Israel, with its blossoming signaling the closeness of prophetic events <a class="yt-timestamp" data-t="25:19:00">[25:19:10]</a>. Israel was founded on May 14, 1948, and completed 70 years on May 14, 2018, which is considered a biblical generation <a class="yt-timestamp" data-t="25:40:00">[25:40:00]</a>.
+*   **Astrological Signs** The Bible encourages looking at the sky for astrological signs <a class="yt-timestamp" data-t="30:32:00">[30:32:00]</a>. Rare phenomena like four Blood Moons in a row in 2014-2015 coincided with important Jewish festivals, further supporting prophetic interpretations <a class="yt-timestamp" data-t="01:00:43">[01:00:43]</a>.
+
+### Key Political Figures and Their Roles
+*   **Donald Trump** As the 45th U.S. President, his actions are seen through a prophetic lens <a class="yt-timestamp" data-t="27:03:00">[27:03:00]</a>. His decision to transfer the American Embassy to Jerusalem had a significant impact on the spiritual world <a class="yt-timestamp" data-t="30:05:00">[30:05:00]</a>. He is also referred to as the "White Knight" or the "first Horseman of the Apocalypse," believed to bring a "false peace" through diplomacy <a class="yt-timestamp" data-t="37:17:00">[37:17:00]</a>. Trump also claimed he is the only one who can prevent a Third World War <a class="yt-timestamp" data-t="55:41:00">[55:41:00]</a>.
+*   **Joe Biden** His perceived senility and tendency to "greet ghosts" suggest that he is being controlled by others <a class="yt-timestamp" data-t="32:15:00">[32:15:00]</a>. Biden's release of $6 billion to Iran (in exchange for prisoners) was seen by Trump as financing extremist groups <a class="yt-timestamp" data-t="33:18:00">[33:18:00]</a>.
+*   **Vladimir Putin** His attack on Ukraine was allegedly pretexted by claims of Ukraine kidnapping Russian children to extract "adrenochrome" and the existence of laboratories for chemical and biological weapons <a class="yt-timestamp" data-t="38:44:00">[38:44:00]</a>.
+
+### Escalation of [[the_role_of_geopolitical_alliances_and_tensions_in_the_middle_east | Middle East Tensions]]
+*   **October 7th Attack on Israel** This event is seen as pre-planned and justified by the attackers as a response to the "desecration of the Holy site" <a class="yt-timestamp" data-t="50:14:00">[50:14:00]</a>. The attack was allegedly predicted by *The Economist* magazine's cover in 2012 <a class="yt-timestamp" data-t="50:39:00">[50:39:00]</a>. Israel's response is also seen as a justification for rebuilding the Third Temple <a class="yt-timestamp" data-t="50:50:00">[50:50:00]</a>.
+*   **GPS and Internet Blackouts** Recent GPS blackouts in the Jerusalem and Tel Aviv regions, meant to prevent missiles from finding targets, and internet blackouts in Iran and São Paulo, highlight global vulnerabilities to such disruptions <a class="yt-timestamp" data-t="34:26:00">[34:26:00]</a>.
+*   **Threat of Simultaneous Attacks** The Islamic State is threatening simultaneous attacks, possibly after Ramadan ends on April 10th <a class="yt-timestamp" data-t="51:33:00">[51:33:00]</a>.
+*   **Alliances Against Israel** Iran, Iraq, Syria, Türkiye, and Yemen are mentioned as forming a synergistic attack against Israel <a class="yt-timestamp" data-t="53:52:00">[53:52:00]</a>. Approximately 20% of the world's 1.8 billion Muslims are considered extremists, accounting for over 350 million people <a class="yt-timestamp" data-t="54:32:00">[54:32:00]</a>.
+
+### The Role of Technology in Changing Political Landscapes
+*   **Digital Currency and Control** Plans to gradually remove paper money from circulation in favor of digital currency (Drex) are seen as part of the World Economic Forum's agenda to control the population <a class="yt-timestamp" data-t="36:09:00">[36:09:00]</a>.
+*   **GPS Dependency** Society's reliance on GPS is highlighted, with its sudden disappearance predicted to cause total chaos and death <a class="yt-timestamp" data-t="35:26:00">[35:26:00]</a>.
+*   **New Weapons** The discussion touches on advanced weaponry, including hypersonic missiles (like "Satan" missile) that travel nine times the speed of sound and have a range of 18,000 km, creating a plasma cloud that evades radar <a class="yt-timestamp" data-t="57:12:00">[57:12:00]</a>.
+*   **[[space_exploration_and_geopolitics | Space Exploration and Geopolitics]]** The Space Force and other developments in space are mentioned as having significant implications <a class="yt-timestamp" data-t="56:03:00">[56:03:00]</a>.
+*   **Electromagnetic Pulse (EMP)** An EMP is described as a potential weapon of mass destruction that could cause a general blackout by exploding an atomic bomb in space, leading to widespread chaos and self-destruction among humans <a class="yt-timestamp" data-t="01:38:40">[01:38:40]</a>. This scenario is depicted in the movie *Leave the World Behind* <a class="yt-timestamp" data-t="01:39:22">[01:39:22]</a>.
+*   **Artificial Intelligence (AI)** AI is seen as a tool for control, potentially replacing human workers and enforcing rules through facial biometrics <a class="yt-timestamp" data-t="01:37:47">[01:37:47]</a>. Elon Musk's prediction of a billion robots by 2040 for war is noted as a worrying development <a class="yt-timestamp" data-t="01:37:47">[01:37:47]</a>. The ability of AI to rewrite the Bible to be "politically more correct" is also discussed <a class="yt-timestamp" data-t="01:28:25">[01:28:25]</a>.
+*   **Fake Apocalypse** There is enough technology to create a "fake apocalypse" using holograms or controlled events to manipulate public perception <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>.
+
+### Global Agendas and Organizations
+*   **New World Order** The note on a U.S. dollar bill ("new orders" in Latin, meaning "new world order") is cited as a purpose of the "Global Elite" <a class="yt-timestamp" data-t="25:55:00">[25:55:00]</a>.
+*   **Global Elite and Secret Societies** Groups like the Bilderberg Club and others are believed to meet monthly to discuss and decide the future, with political leaders acting as "pawns" <a class="yt-timestamp" data-t="26:02:00">[26:02:00]</a>. These groups are considered to have a "preference" for the number nine, linked to esoteric and biblical interpretations <a class="yt-timestamp" data-t="29:49:00">[29:49:00]</a>.
+*   **Agenda 2030 and The Great Reset** These initiatives, promoted by the World Economic Forum, are presented as plans to control agricultural production, limit meat consumption, and implement universal basic income tied to a "score" or "mark" to enforce compliance with the new system <a class="yt-timestamp" data-t="01:42:37">[01:42:37]</a>.
+*   **Censorship and Control of Information** Efforts to "homogenize and regulate the internet" are seen as a move toward refined censorship, restricting information that might empower people <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>.
+
+## Prophetic Timelines and Events
+*   **Tribulation Period** A 7-year tribulation period, divided into two 3.5-year parts, is discussed <a class="yt-timestamp" data-t="19:21:00">[19:21:00]</a>.
+*   **Start of Tribulation** The tribulation is believed to begin with a peace agreement, which Trump is expected to bring <a class="yt-timestamp" data-t="01:16:49">[01:16:49]</a>.
+*   **Messiah Series** The Netflix series *Messiah* is mentioned for its script, which indicated the antichrist taking power in 2027, leading to its cancellation by producers who "didn't like this script" <a class="yt-timestamp" data-t="00:59:27">[00:59:27]</a>.
+*   **April 8th Eclipse** The solar eclipse on April 8th is highlighted, alongside the reactivation of the particle accelerator from Switzerland on the same day, exploring dark matter <a class="yt-timestamp" data-t="02:17:35">[02:17:35]</a>. NASA's "Apep" project (named after the Egyptian god of darkness and chaos) launched three rockets during the eclipse to study the ionosphere's reaction to sudden sunlight disappearance and its effect on communications <a class="yt-timestamp" data-t="02:28:40">[02:28:40]</a>. The eclipse also made the "devil's comet" (with a horn-like tail) more visible <a class="yt-timestamp" data-t="02:13:11">[02:13:11]</a>.
+*   **End of Ramadan and Possible Attack** The end of Ramadan on April 10th is identified as a key date for a potential attack against Israel, as an Islamic State leader warned that attacks would occur after this sacred month <a class="yt-timestamp" data-t="02:11:06">[02:11:06]</a>.
+*   **April 15th** Some theological lines suggest that something significant could happen around April 15th, based on Easter plus 15 days <a class="yt-timestamp" data-t="02:27:46">[02:27:46]</a>.
+
+## Global Preparations and Warnings
+*   **Bunkers** Wealthy individuals like Mark Zuckerberg are building billion-dollar bunkers, indicating knowledge of an impending "event" <a class="yt-timestamp" data-t="01:03:19">[01:03:19]</a>. Switzerland is noted as the only place where every citizen is required to have a bunker <a class="yt-timestamp" data-t="02:29:13">[02:29:13]</a>.
+*   **Strategic Relocation** The book "Strategic Relocation" is mentioned as a guide for finding safe places, emphasizing mountains over islands or peninsulas due to geographical barriers, water sources, and community preparedness (e.g., Mormons in Utah stocking food) <a class="yt-timestamp" data-t="01:09:01">[01:09:01]</a>.
+*   **Survivalism** Biblical figures like Joseph, who prepared for seven years of famine, are cited as early survivalists <a class="yt-timestamp" data-t="01:43:22">[01:43:22]</a>. Advice includes storing food, having smaller denomination cash, and relying on traditional methods like clay water filters <a class="yt-timestamp" data-t="02:06:42">[02:06:42]</a>.
+*   **The Mark of the Beast** The biblical prophecy of not being able to buy or sell without a "mark" is interpreted as a future biochip implant on the forehead, rather than the hand, as the forehead provides better data reading for scientific purposes <a class="yt-timestamp" data-t="02:08:13">[02:08:13]</a>. The image of the beast that "will speak" is linked to Artificial Intelligence <a class="yt-timestamp" data-t="01:43:36">[01:43:36]</a>.
+*   **Propaganda and Distraction** Media and entertainment (like football stadiums) are seen as tools to distract people from significant global events and to "anesthetize" the public to true information <a class="yt-timestamp" data-t="01:51:34">[01:51:34]</a>. Subliminal messages and predictive programming in movies and cartoons (e.g., Disney, *The Terminator*, *The Matrix*) are used to prepare the population for future events or to desensitize them <a class="yt-timestamp" data-t="02:47:08">[02:47:08]</a>.
+
+## Specific Phenomenon
+*   **"4D Ghost Particle"** Recent experiments at particle accelerators have shown particles disappearing or being diverted, leading scientists to hypothesize a "4D ghost particle" influencing from a fourth dimension, with significant implications for understanding reality <a class="yt-timestamp" data-t="02:29:43">[02:29:43]</a>.
+*   **Zombie Apocalypse Contingency** The Pentagon's "CONOP 8888" contingency plan for a zombie apocalypse is mentioned, linked to bacteria being thawed from ice that could lodge in the human brain <a class="yt-timestamp" data-t="01:06:53">[01:06:53]</a>.
+*   **Humanized Rats** China is reported to have developed a virus that kills humanized rats (rats with human cells and enzymes) in eight days, destroying their brains with a 100% mortality rate <a class="yt-timestamp" data-t="01:46:30">[01:46:30]</a>.
+
+### [[the_relationship_between_geopolitics_and_religion | The Relationship Between Geopolitics and Religion]]
+*   **Vatican's Role** The Vatican is discussed in relation to the "eighth king" prophecy, believed to be the next Pope who will support the antichrist as a "false prophet" <a class="yt-timestamp" data-t="01:49:00">[01:49:00]</a>. The 1929 Lateran Treaty made the Vatican an independent state <a class="yt-timestamp" data-t="01:55:28">[01:55:28]</a>.
+*   **Occult Infiltrations** Claims of Masonic infiltration within the Vatican and Satanic rituals, such as the consecration of the Vatican to Lucifer, are brought up, referencing former Jesuit priest Malachi Martin's works <a class="yt-timestamp" data-t="01:56:07">[01:56:07]</a>.
+*   **Bohemian Grove** The Bohemian Grove club, known for its owl symbolism and ceremonies, is connected to the elite <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>.
+*   **CERN and Occult Rituals** The Large Hadron Collider (CERN) in Switzerland is noted for having a Shiva (destroyer god) statue and alleged rituals performed there, including one by people in Ku Klux Klan-like robes <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>.
+*   **Biblical Parables** The concept of the "faithful remnant" is emphasized, as well as the teachings of Jesus on love, humility, and seeking God's will amidst tribulation <a class="yt-timestamp" data-t="02:06:06">[02:06:06]</a>.
+*   **The 144,000** These are described as 144,000 Jews who will not receive the mark of the beast and will preach during the end times <a class="yt-timestamp" data-t="02:42:16">[02:42:16]</a>.
+*   **666** The number 666 is interpreted as the "desecration of the Trinity," representing man's attempt to become God, mirroring the serpent's promise to Eve <a class="yt-timestamp" data-t="02:44:20">[02:44:20]</a>.
+*   **Transhumanism** The idea of man mixing with machines to become "transhuman" or "immortal" is discussed, linking it to the concept of the antichrist being a "godless person" who wants to be deified <a class="yt-timestamp" data-t="02:47:51">[02:47:51]</a>.
+
+## Conclusion
+The speakers convey a sense of urgency, urging listeners to reflect and prepare spiritually and practically for upcoming events <a class="yt-timestamp" data-t="02:16:43">[02:16:43]</a>. Despite the ominous predictions, the message is one of hope and divine control, emphasizing that God is still in charge and that faith and love are paramount <a class="yt-timestamp" data-t="02:41:41">[02:41:41]</a>.
