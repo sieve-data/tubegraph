@@ -1,0 +1,43 @@
+---
+title: Legal and regulatory aspects of autonomous vehicles
+videoId: 2WmczROXzco
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The evolution of autonomous vehicle technology brings with it complex [[Regulation and Impact of AI on Society | legal and regulatory questions]], particularly concerning liability and safety standards <a class="yt-timestamp" data-t="00:42:07">[00:42:07]</a>. The prevailing framework for self-driving automation defines different levels, which, according to George Hotz, CEO of [[opensource_selfdriving_car_technology | comma.ai]], say more about liability than actual capability <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>.
+
+## Levels of Driving Automation and Liability
+
+The six levels of self-driving automation (Level 0 through Level 5) primarily allocate responsibility between the human driver and the automated system <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>, <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>:
+
+*   **Level Two**: The human driver remains fully liable for decisions made by the car <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>. This level involves supervision of the car <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+*   **Level Three**: The human is liable only in specific scenarios <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>.
+*   **Level Four**: The human is not liable within defined operational domains, such as specific cities or areas <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>.
+*   **Level Five**: The human is never liable, implying full automation where a driver could, hypothetically, sleep in the backseat <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>, <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. Google's early prototypes, built without a steering wheel, were aiming for this level of automation <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
+
+### The Challenge of Predicting Human Behavior
+Despite the perception that humans are poor drivers, statistical data suggests otherwise. Most civilized countries report approximately one fatality per 100 million driven miles <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>. This benchmark is considerably higher than the miles logged by autonomous vehicle companies like Waymo and Cruise, implying humans are "absurdly good drivers" <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>, <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. Early claims in 2018-2019 that AI could "certainly exceed human capacity" were considered "total hubris" <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>, <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>.
+
+## Regulatory Environment
+
+In the United States, the automotive industry operates on a system where manufacturers self-certify compliance with regulatory standards <a class="yt-timestamp" data-t="00:42:41">[00:42:41]</a>, <a class="yt-timestamp" data-t="00:42:43">[00:42:43]</a>. [[opensource_selfdriving_car_technology | comma.ai]], for instance, self-certifies its products in accordance with standards like ISO 26262 <a class="yt-timestamp" data-t="00:42:53">[00:42:53]</a>. Regulations, especially those from the EU, focus on parameters like maximum torque on the wheel, braking force, and acceleration, which [[opensource_selfdriving_car_technology | comma.ai]] ensures its system complies with <a class="yt-timestamp" data-t="00:42:57">[00:42:57]</a>, <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>, <a class="yt-timestamp" data-t="00:43:11">[00:43:11]</a>.
+
+### Driver Responsibility and System Limitations
+For Level 2 systems like [[opensource_selfdriving_car_technology | comma.ai]]'s Openpilot, the explicit understanding is that the human remains in control of the vehicle at all times <a class="yt-timestamp" data-t="00:43:17">[00:43:17]</a>. The system guarantees that the car will never become uncontrollable; the driver can always use the brake pedal, which will work, or overpower any torque applied to the steering wheel <a class="yt-timestamp" data-t="00:43:21">[00:43:21]</a>, <a class="yt-timestamp" data-t="00:43:26">[00:43:26]</a>, <a class="yt-timestamp" data-t="00:43:30">[00:43:30]</a>.
+
+> "The only thing the comma can guarantee you, the only thing we promise you, is that the car will never become uncontrollable. You can always reach out, hit the brake pedal, and the brakes will work. You can always massively overpower any torque we're putting on the steering wheel." <a class="yt-timestamp" data-t="00:43:21">[00:43:21]</a>
+
+While users might choose to drive hands-off, the company emphasizes that eyes must remain on the road at all times <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>. [[opensource_selfdriving_car_technology | comma.ai]] employs a camera to monitor driver attention <a class="yt-timestamp" data-t="00:44:03">[00:44:03]</a>. The system is designed to provide alerts only when genuinely necessary to avoid "alert fatigue" and ensure drivers respect the system <a class="yt-timestamp" data-t="00:44:56">[00:44:56]</a>. This driver monitoring is local to the device unless the user opts in to share data <a class="yt-timestamp" data-t="00:45:26">[00:45:26]</a>.
+
+### Liability in Accidents
+If a car crashes while using a Level 2 system, liability rests with the human driver <a class="yt-timestamp" data-t="00:43:36">[00:43:36]</a>, <a class="yt-timestamp" data-t="00:43:38">[00:43:38]</a>. The philosophy is that "the human is in control of the car at all times" <a class="yt-timestamp" data-t="00:50:21">[00:50:21]</a>. This aligns with the understanding that a computer cannot be held accountable for decisions <a class="yt-timestamp" data-t="00:50:16">[00:50:16]</a>. However, if a mechanical failure or product malfunction is directly caused by the system (e.g., brakes stop working due to system interference), the manufacturer might be liable <a class="yt-timestamp" data-t="00:53:08">[00:53:08]</a>, <a class="yt-timestamp" data-t="00:53:24">[00:53:24]</a>.
+
+## Business Models and Future Trajectories
+Companies like Waymo and Cruise, operating with Level 4 systems in defined regions and relying on extensive high-resolution mapping, face significant economic [[challenges_and_advancements_in_autonomous_driving | challenges]]. Their "trackless monorail" approach, where cars may cost upwards of $500,000, leads to "hilariously negative unit economics" <a class="yt-timestamp" data-t="00:27:16">[00:27:16]</a>, <a class="yt-timestamp" data-t="00:27:20">[00:27:20]</a>, <a class="yt-timestamp" data-t="00:27:51">[00:27:51]</a>, <a class="yt-timestamp" data-t="00:32:09">[00:32:09]</a>. These systems are often characterized by remote human intervention and reliance on cell phone networks, making them fragile and centralized <a class="yt-timestamp" data-t="00:29:32">[00:29:32]</a>, <a class="yt-timestamp" data-t="00:30:11">[00:30:11]</a>, <a class="yt-timestamp" data-t="00:30:18">[00:30:18]</a>.
+
+In contrast, companies like Tesla and [[opensource_selfdriving_car_technology | comma.ai]] pursue positive unit economics by selling products to consumers profitably <a class="yt-timestamp" data-t="00:33:27">[00:33:27]</a>, <a class="yt-timestamp" data-t="00:33:43">[00:33:43]</a>. Their systems process data locally on the device, making them less dependent on external infrastructure and more robust <a class="yt-timestamp" data-t="00:39:08">[00:39:08]</a>, <a class="yt-timestamp" data-t="00:40:59">[00:40:59]</a>. This approach is seen as a stepping stone to general-purpose robotics, rather than an endpoint <a class="yt-timestamp" data-t="00:47:28">[00:47:28]</a>.
+
+> "The level five cars will come too quickly after the level four cars for you to ever recapture the amount of value that you burned creating that thing." <a class="yt-timestamp" data-t="00:49:30">[00:49:30]</a>
+
+The belief is that Level 4 (geo-fenced) systems are not a viable business model because Level 5 (anywhere) systems will arrive too quickly to recoup the investment in limited Level 4 deployments <a class="yt-timestamp" data-t="00:49:18">[00:49:18]</a>, <a class="yt-timestamp" data-t="00:49:30">[00:49:30]</a>. Therefore, [[opensource_selfdriving_car_technology | comma.ai]] has no interest in pursuing liability beyond Level 2, preferring to build software that is a "better driver than a human" and allow others to provide higher-level liability services on top of their open-source platform <a class="yt-timestamp" data-t="00:48:39">[00:48:39]</a>, <a class="yt-timestamp" data-t="00:48:42">[00:48:42]</a>, <a class="yt-timestamp" data-t="00:48:50">[00:48:50]</a>.

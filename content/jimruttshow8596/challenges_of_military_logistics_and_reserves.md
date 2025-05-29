@@ -1,0 +1,41 @@
+---
+title: Challenges of military logistics and reserves
+videoId: IYaDWBFkjP8
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The [[RussiaUkraine conflict and military strategy | Russia-Ukraine War]] has provided significant lessons regarding military logistics and the importance of reserves, particularly in a peer-to-peer conflict. Many pre-war assumptions about military readiness and supply proved incorrect, highlighting vulnerabilities for various nations.
+
+## Obsolete Stockpiles and High Attrition Rates
+One major lesson is that military stockpiles, especially of older equipment, are far less useful than previously assumed [0:03:35]. The rate of attrition in modern, drone-intensified warfare is extremely high for various equipment, including tanks, trucks, and artillery shells [0:02:51]. This demands huge quantities of consumables, making it "impossible to stockpile for the next War" as the technological landscape transforms rapidly [0:03:14]. For example, the rapid evolution of drone technology, with Ukraine producing 80,000 suicide drones a month, demonstrates the obsolescence of fixed stockpiles [0:03:37].
+
+Decision-makers are perceived as downplaying this transformation, possibly to avoid admitting that existing product lines from major military contractors are obsolete [0:04:00]. This rapid technological change makes it nearly impossible to predict future needs even two years out [0:04:46].
+
+## Russian Logistical Failures and Corruption
+The war revealed significant miscalculations on the Russian side, particularly concerning their logistical capabilities and internal corruption [0:19:00].
+*   **Overestimation of Mobile Warfare**: The Russians, like many others, greatly overestimated the effectiveness of mobile warfare with tanks on the plains of Ukraine, a terrain that historically saw massive tank battles [0:09:16]. However, the advent of inexpensive anti-tank weapons and [[Impact of advanced weaponry like drones and precisionguided munitions | drones]] has rendered this strategy less effective, leading to a return to positional warfare [0:10:46], [1:06:56].
+*   **Corruption Impact**: The assumed low level of corruption in the Russian military was a grave error [0:19:10]. Reforms initiated in the early 2000s failed to address deep-seated rot, leading to widespread supply shortages [0:19:30]. For instance, corrupt supply sergeants reportedly sold off good Russian-made tires for military vehicles, replacing them with cheap Chinese knockoffs, leading to major issues like flat tires on armored personnel carriers and fuel trucks [0:20:41], [0:21:22].
+*   **Supply Line Exhaustion**: The Russian offensive quickly extended beyond its supply lines after a modest incursion into Ukraine, which is Europe's second-largest country [0:20:03]. This logistical failure, rather than a Ukrainian counter-offensive, largely halted their initial advance [0:19:58].
+
+## The Critical Role of Reserves and Mobilization
+The [[Military strategies and warfare in Ukraine | Ukraine-Russia War]] also underscored the vital importance of having substantial military reserves and the capability for rapid mobilization.
+*   **Ukrainian Mobilization Success**: While Russia initially attacked with a relatively small force of 200,000 against a similarly sized Ukrainian active military, Ukraine rapidly expanded its fighting force from 200,000 to 700,000 by July 2022 due to its massive reserve force [0:21:40], [0:21:47], [0:22:13]. This numerical advantage on the ground significantly contributed to stalling the Russian advance [0:22:15].
+*   **US Reserve Concerns**: In contrast, the US Army Reserve is about 180,000, the Marine Corps Reserve 100,000, and the Air Force Reserve 70,000, totaling a smaller absolute number than Ukraine's reserve force, despite the US having a population seven to eight times larger [0:22:51], [0:23:03]. This suggests the US might be "well under reserved" for future peer-to-peer conflicts [0:23:19].
+*   **Conscription's Return**: The notion that professionalized militaries made conscription obsolete has been challenged [0:25:27]. Ukraine's defense could not have been sustained without its ability to institute a wide draft [0:25:43]. This has led to discussions globally, especially in Europe and Asia, about bringing back or extending mandatory military service [0:26:28], [0:26:51].
+*   **Long-Term Warfare**: Most post-World War II conflicts have been relatively short [0:24:25]. However, peer-to-peer wars could extend for years, making deep stacks of ready and inactive reserves indispensable [0:24:55], [0:25:11].
+
+## The Age of Combatants and Demographic Decline
+A unique aspect of the [[Military strategies and warfare in Ukraine | Ukraine-Russia War]] is the relatively high average age of combatants [0:28:13]. Both Ukraine (average age 40.5) and Russia (average age 40.7) are demographically older countries in decline [0:28:48]. This is possibly the first war where more 40-year-olds are dying than 18-year-olds, with 50-year-olds also serving in roles like driving supply trucks [0:29:12], [0:29:19]. This demographic reality raises questions about the optimal age for different combat roles, suggesting that younger individuals might be better suited for roles requiring fast response times, like drone piloting [0:37:15], [0:37:47].
+
+## Production as a Decisive Factor
+The [[Military strategies and warfare in Ukraine | Ukraine-Russia War]] is fundamentally a war of production, where the quantity of [[Impact of advanced weaponry like drones and precisionguided munitions | artillery shells]], artillery pieces, and [[Impact of advanced weaponry like drones and precisionguided munitions | drones]] built is decisive [1:10:42].
+*   **Artillery Shortages**: Russia, relying on its stockpiles, quickly ran out of artillery shells and had to purchase them from North Korea [1:05:27], [1:05:33]. Similarly, Ukraine's reliance on Soviet-caliber artillery led to shortages, necessitating supplies from allies like South Korea and NATO countries, rapidly draining their own stockpiles [1:08:00], [1:08:42].
+*   **Industrial Base Concerns**: The US's decreased industrial base, particularly in areas like shipbuilding, raises concerns about its ability to sustain a prolonged peer-to-peer conflict [1:11:40], [1:11:47]. China, in contrast, has a massive shipbuilding capacity that can be converted to military production during wartime [1:12:03].
+
+## Lessons for Potential Conflicts (e.g., [[potential_conflicts_and_military_strategies_in_the_straits_of_taiwan | Straits of Taiwan]])
+The lessons from Ukraine apply directly to other potential flashpoints like the [[potential_conflicts_and_military_strategies_in_the_straits_of_taiwan | Straits of Taiwan]]:
+*   **Sanctions Efficacy**: Countries now know that sanctions only matter if *both* China and the US impose them [1:13:11]. If a country is sanctioned only by the US and its allies, but not China, its economy can survive [1:13:21].
+*   **Untested Military Concerns**: An untested military cannot be relied upon [1:13:55]. China's military, despite its hardware, has not undergone significant stress tests or large-scale combat since the Korean War, raising questions about its bureaucratic functionality and logistical capabilities [1:14:49], [1:15:37].
+*   **Autocratic Regime Stability**: Theories that an aggressive war would lead to internal overthrow of autocratic regimes (e.g., Putin's Russia) have been disproven [1:16:35]. Public opinion in Russia hardened over time, suggesting similar trends could occur in China [1:16:59].
+*   **Amphibious Operations Risks**: The war's favorability towards the defensive makes an amphibious invasion, like a Chinese assault on Taiwan, even more difficult and risky [1:22:08], [1:22:15]. Ukraine's success in driving the Russian Navy out of the eastern Black Sea using inexpensive [[Impact of advanced weaponry like drones and precisionguided munitions | anti-ship missiles]] demonstrates how vulnerable surface fleets are to asymmetric attacks [1:22:50]. This suggests Taiwan could build a powerful counter-force at a fraction of the cost, making traditional naval interdiction highly dangerous for an aggressor [1:23:36], [1:25:04].

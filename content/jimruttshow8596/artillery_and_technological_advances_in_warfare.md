@@ -1,0 +1,31 @@
+---
+title: Artillery and technological advances in warfare
+videoId: IYaDWBFkjP8
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The ongoing Ukraine-Russia War has provided crucial [[military_strategies_and_warfare_in_ukraine | lessons learned]] regarding the role of artillery and the [[technological_evolution_and_its_impact | impact of technological advances]] on contemporary warfare <a class="yt-timestamp" data-t="01:32:00">[01:32:00]</a>.
+
+## Re-emergence of Artillery's Dominance
+Military stockpiles, particularly those of tanks and trucks, have proven "much less useful than previously assumed" due to the high rate of attrition in drone-intensified warfare <a class="yt-timestamp" data-t="02:35:00">[02:35:00]</a>. Artillery, however, has made a significant return to a positional warfare role, demanding immense quantities of shells <a class="yt-timestamp" data-t="03:02:00">[03:02:00]</a>. This requires production at levels that were not anticipated by many nations, including Russia, which has had to acquire shells from North Korea, and Ukraine, which receives them from South Korea <a class="yt-timestamp" data-t="01:05:16">[01:05:16]</a>. This reliance on artillery shells is partly because they function as "dumb drones" that are difficult to counter with electronic countermeasures (ECM) once airborne <a class="yt-timestamp" data-t="01:06:13">[01:06:13]</a>.
+
+The war has demonstrated that mobile warfare has been greatly overestimated in current conflicts <a class="yt-timestamp" data-t="09:16:00">[09:16:00]</a>. The effectiveness of inexpensive anti-tank weapons and drones has made traditional tank assaults highly vulnerable <a class="yt-timestamp" data-t="01:25:26">[01:25:26]</a>. This shift from offensive to defensive dominance, a recurring wave in [[technological_evolution_and_its_impact | military history]], has been driven by [[role_of_technology_and_science | technological innovations]] <a class="yt-timestamp" data-t="01:17:19">[01:17:19]</a>. When maneuver warfare is neutralized, the advantage of artillery returns, leading to a resurgence of static, trench-like warfare <a class="yt-timestamp" data-t="01:06:54">[01:06:54]</a>.
+
+## Synergy with Drones
+A significant development is the direct synergy between surveillance drones and artillery <a class="yt-timestamp" data-t="01:07:31">[01:07:31]</a>. Surveillance drones can provide real-time targeting updates for artillery pieces, a pairing widely used by both Russian and Ukrainian forces <a class="yt-timestamp" data-t="01:07:33">[01:07:33]</a>. This capability significantly enhances artillery's precision and effectiveness.
+
+## Lessons on Military Preparedness and Industrial Base
+The war has exposed critical shortcomings in military preparedness and industrial capacity globally:
+*   **Obsolete Stockpiles** Having large stockpiles of older equipment, like tanks, proved to be a disadvantage, as the nature of warfare rapidly evolved with new technologies like drones <a class="yt-timestamp" data-t="03:29:00">[03:29:00]</a>.
+*   **Rapid Production Needs** The demand for massive quantities of drones and artillery shells has highlighted the necessity for rapid scaling up of production, a capability no one would have thought possible a few years ago <a class="yt-timestamp" data-t="03:45:00">[03:45:00]</a>.
+*   **Industrial Transformation** The conflict is becoming a "war of production," forcing countries to build their own drones rather than relying on allies <a class="yt-timestamp" data-t="01:07:50">[01:07:50]</a>. This may lead to an [[deep_craft_in_technological_development | industrialization]] of drone manufacturing, with countries like an independent Ukraine potentially becoming top global civilian drone producers <a class="yt-timestamp" data-t="01:11:06">[01:11:06]</a>.
+*   **Industrial Base Decline** The United States, despite being a global naval power, has very few dry docks capable of building modern ships, ranking around 23rd in ship tonnage building, with China being number one <a class="yt-timestamp" data-t="01:11:47">[01:11:47]</a>. This raises concerns about the ability to sustain a prolonged, peer-to-peer conflict.
+
+## Implications for Future Warfare
+The [[impact_of_advanced_weaponry_like_drones_and_precisionguided_munitions | impact of advanced weaponry like drones and precision-guided munitions]] and the re-emphasis on artillery suggest:
+*   **Shift from Manned Aircraft** The relevance of manned air forces has been muted due to the effectiveness of drones for reconnaissance and munition delivery, potentially rendering older manned aircraft concepts obsolete <a class="yt-timestamp" data-t="01:42:01">[01:42:01]</a>.
+*   **Cost Ratios** The economic exchange ratio of inexpensive drones (e.g., $1,000) against expensive equipment like tanks (e.g., $2 million) makes drone warfare highly cost-effective and potentially decisive in long wars <a class="yt-timestamp" data-t="01:46:01">[01:46:01]</a>. This also applies to expensive naval assets like aircraft carriers, which are becoming "sunk costs waiting to sink" in a peer-level conflict <a class="yt-timestamp" data-t="01:47:51">[01:47:51]</a>.
+*   **Autonomous Systems** While truly autonomous drones may take longer to develop fully due to the complexity of battlefield scenarios and limited data sets for training, the forcing function of electronic countermeasures (ECM) could accelerate their deployment <a class="yt-timestamp" data-t="01:53:51">[01:53:51]</a>. The tolerance for "friendly fire" and civilian casualties in warfare might also lower the bar for autonomous system reliability compared to civilian applications like self-driving cars <a class="yt-timestamp" data-t="01:55:08">[01:55:08]</a>. The [[the_development_and_influence_of_technology_and_ai_on_society | development and influence of technology and AI on society]] will greatly shape the future of these systems.
+
+These observations from the Ukraine-Russia War indicate a profound [[technological_evolution_and_its_impact | technological evolution and its impact]] on warfare, reshaping military strategies and challenging long-held assumptions about force structure and readiness.

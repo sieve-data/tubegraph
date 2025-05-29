@@ -1,0 +1,82 @@
+---
+title: Life without free will
+videoId: 1_SMhItMI1g
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Robert Sapolsky, an American neuroendocrinology researcher and author, proposes that there is no [[The nature of choice and decisionmaking | free will]] whatsoever, a position he details in his book "Determined: A Science of Life Without Free Will" <a class="yt-timestamp" data-t="01:54:30">[01:54:30]</a>. This stance places him within a "lunatic fringe" of thought, as most people believe there is at least some [[The nature of choice and decisionmaking | free will]], or that society needs to rethink its understanding of it <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
+
+## Sapolsky's Core Argument
+
+Sapolsky's argument against [[The nature of choice and decisionmaking | free will]] is based on the idea that every event is a consequence of prior events, extending indefinitely, much like the "Turtles All the Way Down" anecdote <a class="yt-timestamp" data-t="03:19:00">[03:19:00]</a>. He asserts that assuming something can happen without any prior cause, which he likens to a "turtle that can just float in the air," is scientifically incorrect and requires invoking magic <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>.
+
+He emphasizes that understanding why someone does something requires looking at a continuous arc of influences, from what is happening in their brain "just now," to their current physical and emotional state, their hormone levels, past traumas or positive experiences, adolescence, childhood, fetal life, genes, and even the culture and ecosystems of their ancestors <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>. This unbroken chain of causes leaves no room for a form of [[The nature of choice and decisionmaking | free will]] that implies uncaused actions <a class="yt-timestamp" data-t="07:07:00">[07:07:07]</a>.
+
+## Multi-Disciplinary Influences on Behavior
+
+Sapolsky argues that myriad factors, often unknown to the individual, profoundly influence behavior:
+*   **Immediate Environment** If a person fills out a questionnaire in a room smelling of "stinking garbage," they tend to become more politically and socially conservative <a class="yt-timestamp" data-t="09:27:00">[09:27:00]</a>. Conversely, a room smelling of freshly baked chocolate chip cookies can make people more generous in competitive games <a class="yt-timestamp" data-t="10:17:00">[10:17:00]</a>. These effects occur in the seconds before a decision, without conscious awareness <a class="yt-timestamp" data-t="10:29:00">[10:29:00]</a>.
+*   **Fetal Environment** Chronic stress in a pregnant mother can lead to elevated stress hormones in the fetus, affecting brain development. For example, it can result in a larger amygdala, making an individual more prone to anxiety and perceiving neutral faces as threatening <a class="yt-timestamp" data-t="10:34:00">[10:34:00]</a>.
+*   **Ancestral and Cultural History** The prevalence of infectious diseases in one's ancestors' culture 400 years ago correlates with present-day xenophobia and hostility towards immigrants <a class="yt-timestamp" data-t="12:14:00">[12:14:00]</a>. This is because early life experiences are shaped by these deep-seated cultural patterns <a class="yt-timestamp" data-t="13:10:00">[13:10:00]</a>.
+
+Sapolsky contends that these influences are not just small impacts but form a continuous arc, making it impossible to isolate any act that is free from prior causes <a class="yt-timestamp" data-t="16:09:00">[16:09:00]</a>. He challenges proponents of [[The nature of choice and decisionmaking | free will]] to show that specific neuronal actions would occur regardless of an individual's stress, sleep deprivation, hormone levels, past experiences, genetics, or culture <a class="yt-timestamp" data-t="16:16:00">[16:16:16]</a>.
+
+## Philosophical Perspectives on Free Will
+
+Sapolsky outlines common philosophical positions regarding the [[determinism_vs_free_will_debate | determinism vs free will debate]]:
+*   **Undetermined World (Libertarians)** Believing in a completely undetermined world where individuals are entirely free in their actions. Sapolsky dismisses this view, noting that most philosophers don't pay attention to it <a class="yt-timestamp" data-t="18:22:00">[18:22:00]</a>.
+*   **Compatibilists** The majority (90-95%) of philosophers, who believe that [[The nature of choice and decisionmaking | free will]] and responsibility can be reconciled with a deterministic world <a class="yt-timestamp" data-t="19:41:00">[19:41:00]</a>.
+*   **Incompatibilists** Sapolsky's position, shared by a "small majority" of brain scientists, which asserts that [[The nature of choice and decisionmaking | free will]] and determinism are fundamentally incompatible <a class="yt-timestamp" data-t="20:55:00">[20:55:00]</a>. He argues that if humans are "biological machines" governed by physical laws, there is no room for a magical, uncaused [[The nature of choice and decisionmaking | free will]] <a class="yt-timestamp" data-t="20:06:00">[20:06:00]</a>.
+
+## Challenging Common Intuitions
+
+### Agency vs. Free Will
+Sapolsky distinguishes between "agency" in a purely physical sense (e.g., a person tripping and bumping into someone) and the intuitive notion of agency, which he sees as synonymous with [[The nature of choice and decisionmaking | free will]]. He argues that humans are "the end product" of countless influences, not "the captain of your ship" <a class="yt-timestamp" data-t="26:56:00">[26:56:00]</a>. Even seemingly deliberate decisions, like fighting off a robber rather than fleeing, are ultimately rooted in prior experiences, genetic predispositions, cultural upbringing, and even blood glucose levels <a class="yt-timestamp" data-t="32:51:00">[32:51:00]</a>.
+
+### The Phineas Gage Case
+The case of Phineas Gage, a railroad foreman in the 1840s who survived a tamping iron shooting through his skull, is central to Sapolsky's argument <a class="yt-timestamp" data-t="34:45:00">[34:45:00]</a>. The injury destroyed his prefrontal cortex, the part of the brain responsible for impulse control, gratification postponement, and inhibiting "animal urges" <a class="yt-timestamp" data-t="36:02:00">[36:02:00]</a>. After the accident, Gage became an "abusive alcoholic bully" and was "no longer Gage" <a class="yt-timestamp" data-t="37:47:00">[37:47:47]</a>.
+
+This case demonstrated that damage to a specific brain region could fundamentally alter a person's moral system and self-discipline, illustrating how our behavior is a direct product of our brain's physical state <a class="yt-timestamp" data-t="38:39:00">[38:39:00]</a>. Sapolsky extends this to more subtle influences: fetal stress, childhood poverty, or a violent upbringing can all lead to a less active or less connected prefrontal cortex, impacting an individual's ability to "do the right thing" <a class="yt-timestamp" data-t="39:01:00">[39:01:00]</a>. People often confabulate reasons for their actions, unaware of the underlying biological or environmental influences <a class="yt-timestamp" data-t="42:32:00">[42:32:00]</a>.
+
+### The Libet Experiment and "Free Won't"
+[[Libets experiment on decisionmaking and the role of the unconscious mind | Benjamin Libet's experiment]] showed that brain activity (a "readiness potential") precedes a conscious decision to act by hundreds of milliseconds, implying the brain decides before the individual is aware of their intent <a class="yt-timestamp" data-t="48:19:00">[48:19:00]</a>. Later studies have extended this predictive window to several seconds <a class="yt-timestamp" data-t="48:50:00">[48:50:00]</a>.
+
+Sapolsky considers the ensuing debate about whether this disproves [[The nature of choice and decisionmaking | free will]] to be "boring" <a class="yt-timestamp" data-t="47:25:00">[47:25:00]</a>. He argues that focusing on the milliseconds before intent misses the crucial question: "Where did that intent come from in the first place?" <a class="yt-timestamp" data-t="50:27:00">[50:27:00]</a>. Similarly, the concept of "free won't"—the ability to veto a decision at the last moment—is subject to the same deterministic explanations <a class="yt-timestamp" data-t="55:56:00">[55:56:00]</a>. The neural activity that inhibits an action is just as much a product of prior influences as the neural activity that initiates an action <a class="yt-timestamp" data-t="56:50:00">[56:50:00]</a>.
+
+### The Myth of "Grit" and Self-Discipline
+Sapolsky contends that concepts like "grit," tenacity, and [[Role of Choice in Subjective Experience | self-discipline]], often seen as manifestations of [[The nature of choice and decisionmaking | free will]], are as biologically determined as physical attributes <a class="yt-timestamp" data-t="00:59:12">[00:59:12]</a>. We tend to admire people who overcome odds (e.g., a short basketball player in the NBA) but not those with natural advantages (e.g., a tall player) <a class="yt-timestamp" data-t="01:00:09">[01:00:09]</a>. This creates a false dichotomy: what we are "handed" is biological, but what we "do with it" is seen as magical [[The nature of choice and decisionmaking | free will]] <a class="yt-timestamp" data-t="01:01:31">[01:01:31]</a>. Sapolsky argues that our capacity for [[Role of Choice in Subjective Experience | self-discipline]] is also rooted in the prefrontal cortex and shaped by the same long chain of influences <a class="yt-timestamp" data-t="01:02:30">[01:02:30]</a>.
+
+The **marshmallow test**, where children choose immediate gratification or wait for a larger reward, demonstrates that a child's ability to delay gratification at age five correlates with their health, earnings, and educational attainment decades later <a class="yt-timestamp" data-t="01:06:15">[01:06:15]</a>. This ability is linked to differences in prefrontal cortex activity, which is itself shaped by a multitude of prior factors, not "volition" <a class="yt-timestamp" data-t="01:06:04">[01:06:04]</a>.
+
+## Addressing Scientific "Escape Valves"
+
+Sapolsky rejects several scientific concepts often invoked to allow for [[The nature of choice and decisionmaking | free will]]:
+
+### Deterministic Chaos
+[[role_of_free_will_and_emergence_in_modern_scientific_course | Deterministic chaos]] describes systems where tiny changes in initial conditions lead to vastly different outcomes, making long-term prediction impossible (e.g., weather forecasting) <a class="yt-timestamp" data-t="01:13:13">[01:13:13]</a>. However, Sapolsky notes that this still operates within deterministic laws and does not introduce [[The nature of choice and decisionmaking | free will]] <a class="yt-timestamp" data-t="01:14:01">[01:14:01]</a>.
+
+### Quantum Indeterminacy
+Despite some interpretations of quantum mechanics suggesting fundamental unpredictability, Sapolsky argues that even if quantum indeterminism exists, it cannot account for [[The nature of choice and decisionmaking | free will]] <a class="yt-timestamp" data-t="01:15:39">[01:15:39]</a>.
+1.  **Scale** Quantum events occur at a subatomic level and are too small to influence macroscopic biological systems like the brain without astronomical amplification <a class="yt-timestamp" data-t="01:16:18">[01:16:18]</a>.
+2.  **Randomness** Even if quantum events influenced the brain, they would produce randomness, not the stable, intentional behavior associated with [[The nature of choice and decisionmaking | free will]] <a class="yt-timestamp" data-t="01:17:01">[01:17:01]</a>.
+3.  **Harnessing Implausibility** The idea that a conscious "you" could "harness" quantum indeterminacy at the subatomic level to guide actions is nonsensical <a class="yt-timestamp" data-t="01:17:35">[01:17:35]</a>. The brain is too "moist and warm and messy" for such delicate quantum effects to propagate to a functional level <a class="yt-timestamp" data-t="01:20:08">[01:20:08]</a>. This point is often debated in the [[neuroscience_and_free_will | neuroscience and free will]] context.
+
+### Emergent Complexity and Downward Causality
+Sapolsky celebrates **emergence** as a phenomenon where quantity creates quality (e.g., many ants creating a complex colony, or many neurons creating a brain capable of abstract thought) <a class="yt-timestamp" data-t="01:21:31">[01:21:31]</a>. Just as one water molecule cannot feel wetness, consciousness and complex behaviors are emergent properties of many neurons working together <a class="yt-timestamp" data-t="01:23:24">[01:23:24]</a>.
+
+However, he refutes the idea that [[The nature of choice and decisionmaking | free will]] is an emergent property <a class="yt-timestamp" data-t="01:29:29">[01:29:29]</a>. For [[The nature of choice and decisionmaking | free will]] to emerge, he argues, the individual "building blocks" (like neurons) would have to fundamentally change their nature or rules of operation when part of a larger system, which is not what happens in emergent phenomena <a class="yt-timestamp" data-t="01:24:47">[01:24:47]</a>. Neurons still operate under their basic rules, regardless of the complexity of the system they form <a class="yt-timestamp" data-t="01:25:39">[01:25:39]</a>.
+
+While acknowledging **downward causality**—where higher-level phenomena (like a decision to roll a stone) affect lower-level components (like electrons within the stone) <a class="yt-timestamp" data-t="01:28:36">[01:28:36]</a>—Sapolsky insists this does not imply [[The nature of choice and decisionmaking | free will]]. High-level decisions, influenced by abstract concepts like honor, do cause physical actions. However, these actions still adhere to the laws of physics; they don't cause molecules to act in ways they physically couldn't <a class="yt-timestamp" data-t="01:30:29">[01:30:29]</a>. The core issue remains: where did the *intent* to make that decision come from? <a class="yt-timestamp" data-t="01:36:12">[01:36:12]</a>
+
+## Societal Implications of No Free Will
+
+Sapolsky addresses the common concern that rejecting [[The nature of choice and decisionmaking | free will]] would lead to societal collapse, arguing that the opposite is true <a class="yt-timestamp" data-t="01:39:10">[01:39:10]</a>. While short-term priming experiments might show increased cheating when people believe in less [[The nature of choice and decisionmaking | free will]], long-term studies indicate that individuals who deeply consider the nature of morality (whether believing in [[The nature of choice and decisionmaking | free will]] or not, or in God or not) are just as ethical as the general population <a class="yt-timestamp" data-t="01:40:17">[01:40:17]</a>.
+
+Rejecting [[The nature of choice and decisionmaking | free will]] means recognizing that people are "changed by the circumstances that put you in that place and by the circumstances that made you respond to that place the way you did" <a class="yt-timestamp" data-t="01:41:53">[01:41:53]</a>. It changes our understanding of responsibility, not eliminates the need for societal protection <a class="yt-timestamp" data-t="01:42:01">[01:42:01]</a>. Just as a car with bad brakes is contained without moral judgment, dangerous individuals can be contained without assigning blame or "bad souls" <a class="yt-timestamp" data-t="01:42:21">[01:42:21]</a>.
+
+Sapolsky argues that discarding the notion of [[The nature of choice and decisionmaking | free will]] would make society more humane <a class="yt-timestamp" data-t="01:46:06">[01:46:06]</a>. Instead of judging individuals for perceived "lack of willpower" (e.g., in cases of morbid obesity linked to genetics), it promotes compassion and understanding that many struggles are beyond personal control <a class="yt-timestamp" data-t="01:44:52">[01:44:52]</a>.
+
+> "Throwing out [[The nature of choice and decisionmaking | free will]] is going to be fabulous. It's going to be a much more Humane Planet." <a class="yt-timestamp" data-t="01:46:35">[01:46:35]</a>
+
+This perspective encourages a shift from punishment and unearned praise to instrumental actions that protect society and foster competence, without attaching moral judgment or belief in "better souls" <a class="yt-timestamp" data-t="01:48:50">[01:48:50]</a>. The [[the_impact_of_beliefs_about_free_will_on_society | impact of beliefs about free will on society]] is therefore profound.

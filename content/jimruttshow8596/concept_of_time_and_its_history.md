@@ -1,0 +1,32 @@
+---
+title: Concept of time and its history
+videoId: EcZX-xNN6C8
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The concept of time has been a subject of deep inquiry throughout human history, evolving with cultural perspectives and technological advancements <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a>. Historically, early methods of tracking time relied on natural phenomena like sand flowing, wind patterns, and shadows <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>. The invention of mechanical clocks led to Isaac Newton's "clockwork universe" concept, where time was seen as an ultimate, universal clock through which the universe continuously moves <a class="yt-timestamp" data-t="04:01:00">[04:01:00]</a>.
+
+Later, Albert Einstein's theory of relativity introduced the concept of relative time, which gave rise to the idea of a "block universe" <a class="yt-timestamp" data-t="04:16:00">[04:16:00]</a>. In this view, all moments in time exist simultaneously, and our perception of "passing through time" is merely an illusion <a class="yt-timestamp" data-t="08:34:00">[08:34:00]</a>. Physicist Sarah Walker describes Einstein's universe as a "dead universe" because it doesn't account for the inherent directionality observed in phenomena like life <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>.
+
+## The Arrow of Time
+
+The apparent irreversibility of time in our everyday experience is often referred to as the "arrow of time." Several theories attempt to explain this phenomenon:
+
+*   **Thermodynamic Arrow** The most common explanation, exemplified by a dropped egg splattering irreversibly, suggests that time has a direction because disorder (entropy) always increases <a class="yt-timestamp" data-t="11:04:00">[11:04:00]</a>.
+*   **Cosmological Arrow** This perspective ties the arrow of time to the universe's expansion from the Big Bang singularity, moving from a very small, ordered state to an ever-expanding, less ordered state <a class="yt-timestamp" data-t="11:19:00">[11:19:00]</a>.
+*   **Causal Arrow** The principle of causality dictates a sequence of events—one thing happening "after another"—which implies a directionality in time <a class="yt-timestamp" data-t="11:42:00">[11:42:00]</a>. For irreversibility to occur in complex systems, a mechanism for causation in one direction is required <a class="yt-timestamp" data-t="13:03:00">[13:03:00]</a>. In physics, reversibility is often assumed because processes don't require memory <a class="yt-timestamp" data-t="13:47:00">[13:47:00]</a>. However, in biological systems, which are products of [[evolution_of_technology_through_invention | evolution]], reversing a process would necessitate the evolution of a specific mechanism to do so, indicating an emergent irreversibility tied to [[Consciousness and its origins | memory]] <a class="yt-timestamp" data-t="13:51:00">[13:51:00]</a>.
+*   **Particle Physics Explanation** The decay of certain subatomic particles, like the kaon, exhibits a rare, irreversible decay that breaks CP symmetry, offering a fundamental, albeit narrow, basis for the arrow of time <a class="yt-timestamp" data-t="12:08:00">[12:08:00]</a>.
+*   **Quantum Decoherence** The collapse of quantum states into classical states is also suggested as a driver for the arrow of time, implying a continuous, irreversible transition from probabilistic quantum realities to definite classical ones <a class="yt-timestamp" data-t="12:31:00">[12:31:00]</a>.
+
+## Assembly Theory's Reinterpretation of Time
+
+Assembly Theory, proposed by Sarah Walker and Lee Cronin, offers a new perspective on time, positing it as an intrinsic, material property of objects rather than an external fluid or an illusion <a class="yt-timestamp" data-t="04:30:00">[04:30:00]</a>.
+
+Lee Cronin describes time as a "fabric" that represents the increasing capacity for things to happen, distinct from merely measuring the passage of events <a class="yt-timestamp" data-t="05:17:00">[05:17:00]</a>. This concept suggests that there are more options available in the future than in the past <a class="yt-timestamp" data-t="01:04:03">[01:04:03]</a>. This increasing capacity directly provides a mechanism for the Second Law of Thermodynamics <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>. A key implication of this view is that time travel is fundamentally not possible <a class="yt-timestamp" data-t="06:29:00">[06:29:00]</a>.
+
+Assembly Theory fundamentally challenges Einstein's block universe concept <a class="yt-timestamp" data-t="01:02:01">[01:02:01]</a>. In the block universe, novelty doesn't truly exist, and everything is predetermined <a class="yt-timestamp" data-t="01:03:01">[01:03:01]</a>. Assembly Theory, however, implies that the universe is intrinsically asymmetric <a class="yt-timestamp" data-t="01:17:17">[01:17:17]</a>, a property hinted at by CP violation in particle physics <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>.
+
+In Assembly Theory, an object's minimal path, representing the sequence of steps required to construct it, is considered a physical attribute of the object itself <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>. This means the object is "extended in time" and inherently encodes its own [[Consciousness and its origins | memory]] of its formation <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>. Thus, complex objects possess a "depth" in time <a class="yt-timestamp" data-t="01:05:43">[01:05:43]</a>, reflecting their [[history_and_evolution_of_cultural_values | historical philosophical influences | causal history]]. The theory aims to make the abstract concept of information material, embedding it within the temporal dimension of objects <a class="yt-timestamp" data-t="00:59:51">[00:59:51]</a>. Just as mass is a measurable physical property described by physics, Assembly Theory proposes a measurable "assembly index" as a physical property that reflects the time and selection embedded in an object's existence <a class="yt-timestamp" data-t="01:01:17">[01:01:17]</a>.
+
+This perspective suggests that time is not merely a background for events but an active component that shapes the emergence and persistence of complex structures in the universe <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>.

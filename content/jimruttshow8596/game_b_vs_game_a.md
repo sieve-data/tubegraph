@@ -1,0 +1,67 @@
+---
+title: Game B vs Game A
+videoId: a2mZqs3g5ks
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The concepts of [[Game A and Game B economic systems | Game A]] and [[potential_solutions_with_game_b | Game B]] describe the current state of civilization and a potential alternative path forward. [[Game A and Game B economic systems | Game A]] represents the prevailing way humanity has organized itself, characterized by competition and power dynamics. [[potential_solutions_with_game_b | Game B]] is an emergent, collaborative alternative aiming to navigate global challenges and create a more desirable future <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a> <a class="yt-timestamp" data-t="01:10:09">[01:10:09]</a>.
+
+## [[Game A and its collapse | Game A]]
+[[Game A and Game B economic systems | Game A]] describes the enduring patterns of human civilization, largely driven by an increase in technological capability within a context of competition <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a> <a class="yt-timestamp" data-t="00:46:00">[00:46:00]</a>. This system, while leading to advancements, is inherently unstable and prone to collapse due to accelerating destructive capacities and systemic fragilities <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>.
+
+### Existential Risks and Fragilities
+*   **Catastrophic Conflict** The first time humanity faced truly catastrophic outcomes from conflict was after World War II with nuclear weapons <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>. The modern era extends this risk to biological warfare (e.g., through technologies like CRISPR) and cyber warfare, where smaller entities or individuals can wield destructive power previously limited to nation-states <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>.
+*   **Systemic Fragility** A highly technological civilization introduces significant fragility, making essential systems like the power grid vulnerable to disruption through various vectors, including EMP, drone swarms, or cyberattacks <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+*   **Game Theoretical Traps** Competition within [[Game A and Game B economic systems | Game A]] creates [[rivalry_dynamics_and_existential_risks | game theoretical traps]], where actors are compelled to make reckless choices to avoid falling behind, as seen in the arms race in [[Generative AI vs AGI | AI]] research <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. This leads to a heedless drive forward, even when the risks are known <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>.
+*   **Ecosystem Limits** The current model of civilization is approaching or has exceeded the long-term carrying capacity of the ecosystem, with increasing populations and rising average lifestyles producing more externalities that disrupt homeostatic equilibrium <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+
+### The "War on Sense-Making"
+A critical aspect of [[Game A and its collapse | Game A]]'s decline is the "war on sense-making," where advanced cognitive neuroscience and [[Generative AI vs AGI | AI]]-enhanced marketing are used to manipulate human choice-making <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. This disrupts individuals' capacity to understand the world and make effective choices <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>. This phenomenon can be likened to an "autoimmune disease" of sense-making, where the very tools meant for understanding become agents of distortion <a class="yt-timestamp" data-t="00:14:09">[00:14:09]</a>.
+
+### The Sense of "Wrongness"
+Historical critiques of [[Game A and Game B economic systems | Game A]], such as Marx's concept of alienation and the 1960s' focus on inauthenticity, highlight a deep-seated "wrongness" or fragmentation within the system <a class="yt-timestamp" data-t="01:03:51">[01:03:51]</a> <a class="yt-timestamp" data-t="01:04:33">[01:04:33]</a>. Despite its ability to deliver material goods, [[Game A and Game B economic systems | Game A]] often alienates individuals from a holistic life and work, and from their authentic selves <a class="yt-timestamp" data-t="01:04:01">[01:04:01]</a>.
+
+## [[potential_solutions_with_game_b | Game B]]
+[[potential_solutions_with_game_b | Game B]] is envisioned as a "meta protocol for hyper collaboration" <a class="yt-timestamp" data-t="01:17:16">[01:17:16]</a>, designed to navigate complexity without relying on complicated systems, and aiming for a "truly amazing future" <a class="yt-timestamp" data-t="00:16:13">[00:16:13]</a> <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. It emphasizes significant upgrades in individual and collective capacity for thought and action <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
+
+### Core Attributes
+The core architectural attributes of [[potential_solutions_with_game_b | Game B]] include being:
+*   **Non-hierarchical** <a class="yt-timestamp" data-t="00:24:40">[00:24:40]</a>
+*   **Network-oriented** <a class="yt-timestamp" data-t="00:24:40">[00:24:40]</a>
+*   **Long-term metastable** <a class="yt-timestamp" data-t="00:24:43">[00:24:43]</a>
+
+### Optimism for [[potential_solutions_with_game_b | Game B]]'s Emergence
+Despite [[Game A and Game B economic systems | Game A]]'s current dominance, there is optimism for [[potential_solutions_with_game_b | Game B]]'s eventual emergence because it is designed to have a "higher exponent" of growth than [[Game A and Game B economic systems | Game A]] <a class="yt-timestamp" data-t="00:43:04">[00:43:04]</a>. This is based on the concept of the "adjacent possible," where the number of possibilities for combining components expands faster than exponential <a class="yt-timestamp" data-t="00:27:02">[00:27:02]</a>. While [[Game A and Game B economic systems | Game A]] has a high *state* of power, [[potential_solutions_with_game_b | Game B]] focuses on a higher *rate* of change in its capacity for innovation <a class="yt-timestamp" data-t="00:43:33">[00:43:33]</a>.
+
+The primary innovation capacity of [[potential_solutions_with_game_b | Game B]] must be oriented first and foremost towards cultivating individual and collective wisdom and maturity (sovereignty), symmetric with or superior to the power it generates <a class="yt-timestamp" data-t="00:48:55">[00:48:55]</a>. This is critical because simply accelerating technological progress without wisdom would lead to faster destruction <a class="yt-timestamp" data-t="00:48:15">[00:48:15]</a>.
+
+### Tangible Aspects of [[potential_solutions_with_game_b | Game B]]'s Emergence
+
+#### Pre-B World and Individual Changes
+The "pre-B world" involves individuals and groups preparing for the shift. This includes:
+*   **Finding the Others**: Connecting with like-minded individuals through online platforms (e.g., Game B Facebook group, #GameB on Twitter) and real-world meetups <a class="yt-timestamp" data-t="00:50:29">[00:50:29]</a>.
+*   **Personal Transformation**: Cultivating qualities like courage, optimism, integrity, and honesty <a class="yt-timestamp" data-t="00:51:06">[00:51:06]</a>. This also involves developing a "transparent agentic mind" to be aware of one's own axiomatic assumptions and shift paradigms as context changes <a class="yt-timestamp" data-t="00:52:05">[00:52:05]</a>.
+*   **Escaping the Matrix**: Disengaging from status-oriented consumerism and the manipulation of mass media <a class="yt-timestamp" data-t="00:51:13">[00:51:13]</a>. This frees up economic dependence and allows for choices based on genuine meaningfulness rather than external ideologies <a class="yt-timestamp" data-t="00:56:12">[00:56:12]</a>.
+    *   **Meaningfulness**: Defined as the "wholeness of your entire mode of being in the world" <a class="yt-timestamp" data-t="00:58:20">[00:58:20]</a>, where responses to the world enhance one's capacity to continue responding well. It's about figuring out how to live life well, not just for the present but ongoingly <a class="yt-timestamp" data-t="01:00:44">[01:00:44]</a>.
+*   **Making a Living (Vocation)**: Orienting one's work towards their "ikigai" (that which one is uniquely capable of doing with care and capacity, and is drawn towards), which is their calling <a class="yt-timestamp" data-t="01:13:31">[01:13:31]</a>. This allows individuals to play their unique role in hyper-collaboration <a class="yt-timestamp" data-t="01:13:58">[01:13:58]</a>.
+
+#### Experimenting with Piece Parts (Transition)
+[[potential_solutions_with_game_b | Game B]]'s emergence is not about a sudden, complete transformation but a phased transition involving experimentation and learning <a class="yt-timestamp" data-t="01:08:57">[01:08:57]</a>.
+
+*   **Parenting**: A [[potential_solutions_with_game_b | Game B]] approach to parenting views the child as an equal, fully realized soul, with the parent supporting the child's capacity building rather than imposing knowledge <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>. It's a reciprocal relationship where both teach each other about meaningfulness and [[liminal_space | liminality]] <a class="yt-timestamp" data-t="01:12:21">[01:12:21]</a>.
+*   **Conviviality**: Literally meaning "living together," conviviality is the conscious design of culture (including rituals, tools, techniques, and gatherings) to support personal and relational growth <a class="yt-timestamp" data-t="01:15:07">[01:15:07]</a>. It emphasizes face-to-face interaction and taking relationships as sacred, realized in the ordinary <a class="yt-timestamp" data-t="01:16:54">[01:16:54]</a>. Conviviality is considered a "secret weapon" for [[potential_solutions_with_game_b | Game B]], fostering fulfillment over material consumption <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>.
+*   **Sense-making to Action-taking**: Moving beyond passive sense-making, [[potential_solutions_with_game_b | Game B]] emphasizes taking a curious approach to problems, standing in discomfort to gain deeper understanding, and allowing for growth and resolution <a class="yt-timestamp" data-t="01:25:53">[01:25:53]</a>. It's about discerning reality and making choices based on what is truly happening, rather than relying on rigid ideologies or non-judgmentalism <a class="yt-timestamp" data-t="01:34:26">[01:34:26]</a>.
+*   **Policing and Justice**: In [[potential_solutions_with_game_b | Game B]], injustice is viewed as a signal to slow down, listen deeply, and enter a [[liminal_space | liminal space]] to understand the root causes <a class="yt-timestamp" data-t="01:28:56">[01:28:56]</a>. The approach prioritizes healing and restoring right relationships based on love and conviviality, setting boundaries from a place of maturity and care (being "the mountain") <a class="yt-timestamp" data-t="01:31:11">[01:31:11]</a>. This aims to build anti-fragile systems that become stronger through addressing conflict <a class="yt-timestamp" data-t="01:32:00">[01:32:00]</a>.
+*   **Coherence**: Coherence in [[potential_solutions_with_game_b | Game B]] refers to the synergistic relationship between distinct parts that creates an emergent whole, where the whole simultaneously *enhances the autonomy* of the parts <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>. This "coherent pluralism" allows for massive specialization and division of labor while maintaining the integrity of the group <a class="yt-timestamp" data-t="01:40:53">[01:40:53]</a>.
+
+#### Massively Exceeding the Dunbar Number
+A major challenge for [[potential_solutions_with_game_b | Game B]] is to scale these principles beyond the Dunbar number (approximately 150 individuals, the cognitive limit for stable social relationships in face-to-face communities) <a class="yt-timestamp" data-t="01:42:04">[01:42:04]</a>. This requires developing "meta-learning" – the ability to experiment extremely effectively and improve the experimental protocol itself, accelerating the rate of learning <a class="yt-timestamp" data-t="01:48:01">[01:48:01]</a>.
+
+#### Proto-B Communities
+The emergence of [[potential_solutions_with_game_b | Game B]] will likely involve "proto-B" communities that are integrated ways of life, initially dependent on and "parasitizing" [[Game A and Game B economic systems | Game A]] for resources like computer chips, hospitals, or schools <a class="yt-timestamp" data-t="01:50:04">[01:50:04]</a>. These early proto-B communities will focus on generating highly disruptive economic innovations (like those from the creative class or blockchain) that can compete in [[Game A and Game B economic systems | Game A]] and funnel resources back into [[potential_solutions_with_game_b | Game B]] <a class="yt-timestamp" data-t="01:53:50">[01:53:50]</a>.
+
+Proto-B communities are expected to be:
+*   **Geographically anchored**: Emphasizing embodied, face-to-face relationships, though episodic physical meetups can maintain virtual collaboration <a class="yt-timestamp" data-t="01:56:08">[01:56:08]</a>.
+*   **Inter-group collaboration**: Different proto-B groups can collaborate virtually, leveraging their local conviviality for broader synergy <a class="yt-timestamp" data-t="01:57:47">[01:57:47]</a>.
+*   **Adaptive and Evolutionary**: Multiple proto-B communities will likely emerge, each with different approaches, and failures are expected and necessary for learning and building collective wisdom ("honorable failure") <a class="yt-timestamp" data-t="01:59:29">[01:59:29]</a>.

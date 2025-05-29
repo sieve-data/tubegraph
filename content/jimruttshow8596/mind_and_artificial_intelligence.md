@@ -1,0 +1,74 @@
+---
+title: Mind and Artificial Intelligence
+videoId: hhxxQc2vldE
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+## Defining Mind
+Joshua Bach, Vice President of Research at the AI Foundation, defines the mind as the "software that runs on the brain" <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>. He clarifies that software isn't a physical thing with an identity, but rather a "very specific physical law" <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a> that describes what happens when components are arranged in a particular way, leading to observable macro states with a causal structure <a class="yt-timestamp" data-t="02:09:00">[02:09:00]</a>.
+
+### Can Mind Arise from an Artificial Brain?
+Bach asserts that mind can indeed arise from an artificial brain <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>. If the brain is Turing-complete, then minds can be built on different substrates, provided the same class of principles are implemented <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>.
+
+### Embodiment and the Mind
+While some argue that the human mind, and [[Consciousness and Sentience in AI | consciousness]], is deeply embedded in its bodily substrate <a class="yt-timestamp" data-t="03:45:00">[03:45:00]</a>, Bach suggests that embodiment can be entirely virtual <a class="yt-timestamp" data-t="05:27:00">[05:27:00]</a>. He posits that changing sensory interfaces (e.g., being connected to city sensors, like a "city" <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>) or limiting affordances (e.g., during dreams or playing Minecraft in VR) <a class="yt-timestamp" data-t="04:45:00">[04:45:00]</a> does not mean a loss of consciousness <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>. The implementation needs a realization on the physical substrate layer, but not necessarily a human-like body <a class="yt-timestamp" data-t="05:31:00">[05:31:00]</a>.
+
+### Emotions and Feelings
+Feelings are a way for the analytical "monkey" part of our mind to access the emotions and motivational impulses of the older, "elephant" part <a class="yt-timestamp" data-t="07:27:00">[07:27:00]</a>. These feelings are often projected into the body map for communication between brain subsystems <a class="yt-timestamp" data-t="08:15:00">[08:15:00]</a>. This projection, such as feeling love in the heart or anxiety in the solar plexus, is a mapping into existing brain regions <a class="yt-timestamp" data-t="08:45:00">[08:45:00]</a>. Even paraplegics still experience emotions in their body, suggesting it's a projection rather than direct involvement of physical organs <a class="yt-timestamp" data-t="09:02:00">[09:02:00]</a>.
+
+Experiences like walking across a dangerous bridge can influence risk-taking behavior, potentially by leading to a higher sense of competence or by rescaling the perception of what is important <a class="yt-timestamp" data-t="10:04:00">[10:04:00]</a>, [11:17:00]. This adaptation of emotional range to the agent's situation results in a normalization of risk perception <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>, [12:52:00].
+
+## Theories of Mind
+
+### Brain Oscillations
+The theory that [[Consciousness and Sentience in AI | consciousness]] is a specific brain frequency lacks functional sense, as it doesn't explain how such a frequency is necessary and sufficient to produce the phenomenon <a class="yt-timestamp" data-t="14:14:00">[14:14:00]</a>. Brain oscillations are likely a *result* of synchronization, necessary for neurons to fire in sync and for waves of activation to pass through the brain <a class="yt-timestamp" data-t="15:11:00">[15:11:00]</a>. This is a viable model for how the brain solves signal transmission and synchrony over distances, possibly using something akin to FM encoding for neurons to tune into different computations <a class="yt-timestamp" data-t="16:00:00">[16:00:00]</a>. However, this biological mechanism might not be the most efficient engineering principle for digital computers that use random access and high-throughput buses <a class="yt-timestamp" data-t="16:30:00">[16:30:00]</a>.
+
+### Global Workspace Theory
+Bernard Baars's Global Workspace Theory, which suggests that the "sensorium" of consciousness is broadcast to wide areas of the brain for processing, is acknowledged for its insights derived from introspection <a class="yt-timestamp" data-t="17:30:00">[17:30:00]</a>, [00:18:01]. However, Bach argues that it is the *localization* of previously distributed information into a common, accessible protocol that is the core feature of consciousness, enabling memory of what was attended to <a class="yt-timestamp" data-t="18:43:00">[18:43:00]</a>. This contrasts with attention mechanisms in machine learning that often work by pulling from different regions <a class="yt-timestamp" data-t="19:07:00">[19:07:00]</a>.
+
+### Integrated Information Theory (IIT)
+Bach views IIT as a theory largely "opposed to [[functionalism | functionalism]]" <a class="yt-timestamp" data-t="36:20:00">[36:20:00]</a> and believes its popularity within the physics community might be partly political <a class="yt-timestamp" data-t="36:32:00">[36:32:00]</a>. He suggests that the core of Tononi's theory is not the quantifiable measure of phi, but rather an attempt to reintroduce panpsychism, likely because Tononi doesn't see how [[functionalism | functionalism]] can solve the problem of [[Consciousness and Sentience in AI | consciousness]] <a class="yt-timestamp" data-t="38:14:00">[38:14:00]</a>. Bach finds it ironic that IIT uses information theory (strongly intertwined with [[functionalism | functionalism]]) to propose an anti-functionalist theory <a class="yt-timestamp" data-t="38:55:00">[38:55:00]</a>.
+
+#### Functionalism Explained
+[[Functionalism | Functionalism]] treats a phenomenon as the result of its implementation <a class="yt-timestamp" data-t="39:11:00">[39:11:00]</a>. For example, a bank is defined by its functions (accounts, storing/retrieving money, legal compliance) rather than an inherent "bankness" <a class="yt-timestamp" data-t="39:21:00">[39:21:00]</a>. This perspective leads to the rejection of concepts like philosophical zombies (systems identical in all features except phenomenal experience), arguing there's no "hidden essence" without observable causal properties <a class="yt-timestamp" data-t="40:10:00">[40:10:00]</a>, [40:39:00]. All causal properties, from a functionalist view, are ultimately functions that are computable and realizable in a physical system <a class="yt-timestamp" data-t="40:50:00">[40:50:00]</a>, [40:54:00].
+
+## Artificial Intelligence and Learning
+
+### Human vs. AI Learning
+Humans are remarkably efficient learners, often using [[Comparison of human and AI understanding | transfer learning]] from analogous experiences, requiring a tiny number of examples compared to current [[Artificial General Intelligence AGI vs Narrow AI | Artificial Intelligence]] <a class="yt-timestamp" data-t="20:51:00">[20:51:00]</a>, [21:11:00]. Even advanced systems like AlphaZero require hundreds of thousands to millions of plays to learn stereotyped games like chess or Go <a class="yt-timestamp" data-t="21:31:00">[21:31:00]</a>. This suggests human learning mechanisms are fundamentally different from gradient descent and similar methods <a class="yt-timestamp" data-t="20:21:00">[20:21:00]</a>. The ability to "pay attention in the right way" is key to rapid human learning <a class="yt-timestamp" data-t="22:18:00">[22:18:00]</a>.
+
+### GPT-3: Capabilities and Limitations
+GPT-3, based on the transformer algorithm, made a significant leap by processing statistics over all parts of a working memory to find relationships, a problem that was difficult to solve previously <a class="yt-timestamp" data-t="26:01:00">[26:01:00]</a>.
+
+While GPT-3 is "both remarkable and frustrating" <a class="yt-timestamp" data-t="27:10:00">[27:10:00]</a>, capable of style emulation and plausible text completions within short frames <a class="yt-timestamp" data-t="27:17:00">[27:17:00]</a>, it has significant limitations:
+*   **No Global Understanding:** It lacks a "global model of the universe" or a "global sense of meaning" <a class="yt-timestamp" data-t="28:56:00">[28:56:00]</a>. Its symbols are grounded in language, not reality <a class="yt-timestamp" data-t="30:54:00">[30:54:00]</a>.
+*   **Limited Arithmetic:** While it can do two-digit arithmetic reliably, it fails at three digits because its training data (human texts) doesn't heavily feature complex arithmetic <a class="yt-timestamp" data-t="31:46:00">[31:46:00]</a>. It doesn't understand the underlying algorithms <a class="yt-timestamp" data-t="32:06:00">[32:06:00]</a>.
+*   **Fixed Working Memory Window:** GPT-3 is limited to 2048 adjacent tokens in its working memory, unable to actively change or construct working memory contexts like the human mind <a class="yt-timestamp" data-t="18:49:00">[18:49:00]</a>, [1:17:47:00].
+*   **Offline Learning:** It is an "industrial production system" that does not continuously learn, having stopped learning in October 2019, meaning it has no knowledge of events like COVID-19 or George Floyd <a class="yt-timestamp" data-t="1:19:14:00">[1:19:14:00]</a>.
+*   **Lack of Relevance:** GPT-3 doesn't intrinsically care about relevance. Its apparent understanding of relevance stems from being trained on texts that humans found relevant enough to write <a class="yt-timestamp" data-t="1:20:05:00">[1:20:05:00]</a>. For systems interacting with the world, a motivational system is needed to focus on promising parts of the model <a class="yt-timestamp" data-t="1:20:50:00">[1:20:50:00]</a>.
+
+### Future Directions for AI
+For the next step in explaining mind emerging from matter and advancing [[Artificial General Intelligence AGI | AGI]], attention-based models are crucial <a class="yt-timestamp" data-t="1:13:30:00">[1:13:30:00]</a>. Future improvements include:
+1.  **Larger Attentional Window:** Extending attention to allow active construction and changes in working memory context <a class="yt-timestamp" data-t="1:17:47:00">[1:17:47:00]</a>.
+2.  **Online Learning:** Building agents that can continuously learn and track reality in real-time <a class="yt-timestamp" data-t="1:19:40:00">[1:19:40:00]</a>.
+3.  **Relevance/Motivational System:** Implementing a motivational system that assigns relevance to learning and meta-learning, which current AI systems lack <a class="yt-timestamp" data-t="1:20:50:00">[1:20:50:00]</a>.
+4.  **Multi-Modal Representation:** Moving from language-only representation to a multi-modal representation that is agnostic to what it represents <a class="yt-timestamp" data-t="1:18:00:00">[1:18:00:00]</a>.
+5.  **Agent Integration:** Integrating components like vision-to-text and text-to-motor action modules to create a fixed context for the AI, allowing it to interpret camera images and tell stories about its interactions with the world <a class="yt-timestamp" data-t="1:15:53:00">[1:15:53:00]</a>.
+
+### The Symbol Grounding Problem
+GPT-3's understanding is primarily "grounded in language" <a class="yt-timestamp" data-t="30:54:00">[30:54:00]</a>, creating a self-referential loop within language rather than grounding in physical reality. This points to the famous [[symbol_grounding_problem | symbol grounding problem]] <a class="yt-timestamp" data-t="30:49:00">[30:49:00]</a>.
+
+### Affective Part in AI
+The "Psi theory" (Bach's own work) posits that an agent can be described using homeostasis as a guiding principle <a class="yt-timestamp" data-t="1:21:42:00">[1:21:42:00]</a>. Needs, when frustrated, produce pain signals and when satisfied, pleasure signals <a class="yt-timestamp" data-t="1:22:07:00">[1:22:07:00]</a>. Acting on these needs creates a hierarchy of purposes that strives for coherence, forming the "structure of our soul" <a class="yt-timestamp" data-t="1:22:26:00">[1:22:26:00]</a>. Adding this "affective part" involves incorporating these motivational systems into AI development.
+
+## [[Debate on AI understanding and consciousness | Debate on AI understanding and consciousness]]
+
+### Panpsychism and Roger Penrose
+The discussion touches on panpsychism and Roger Penrose's theory that [[Consciousness and Sentience in AI | consciousness]] arises from quantum gravity effects in microtubules <a class="yt-timestamp" data-t="57:07:00">[57:07:00]</a>, [1:01:29:00]. This perspective suggests that computation alone cannot explain consciousness, linking it to the uncomputable parts of mathematics as interpreted from Gödel's proof <a class="yt-timestamp" data-t="59:22:00">[59:22:00]</a>. Bach counters that Gödel's proof implies that only "constructive mathematics" (computable) is real, while classical mathematics with infinities cannot be implemented in physical causal structures <a class="yt-timestamp" data-t="1:00:11:00">[1:00:11:00]</a>.
+
+### The "Dream" Hypothesis and Psi Phenomena
+The conversation explores the idea that if phenomena like telepathy or clairvoyance (Psi phenomena) were real, it would imply that the universe operates not purely mechanically, but like a "dream" with symbolic, non-physical interactions <a class="yt-timestamp" data-t="1:02:42:00">[1:02:42:00]</a>, [1:03:30:00]. Such phenomena would be incompatible with known physics and statistics of the universe <a class="yt-timestamp" data-t="1:02:22:00">[1:02:22:00]</a>. Bach proposes that the ability to experience Psi phenomena within our internal model is because we are already living in a "dream" generated by our minds, which are physically grounded elsewhere <a class="yt-timestamp" data-t="1:04:08:00">[1:04:08:00]</a>, [1:04:48:00].
+
+### The Nature of Reality and Perception
+Our perception of reality is a representation, a "simulacrum," not an isomorphic experience of the physical world <a class="yt-timestamp" data-t="1:05:06:00">[1:05:06:00]</a>. "Realness" itself is a model property that the mind attaches to its perceptual dimensions, indicating predictability of future sensory patterns <a class="yt-timestamp" data-t="1:09:12:00">[1:09:12:00]</a>. While our everyday human perceptions are "gross" compared to what scientific instruments can probe <a class="yt-timestamp" data-t="1:10:13:00">[1:10:13:00]</a>, the observed lawfulness across many orders of magnitude strengthens the case for an objective universe <a class="yt-timestamp" data-t="1:10:48:00">[1:10:48:00]</a>. To have an enlightened relationship with reality, one must realize that perception and even self-perception are representations, and cultivate awareness of how the attentional system constructs this reality <a class="yt-timestamp" data-t="1:11:42:00">[1:11:42:00]</a>.

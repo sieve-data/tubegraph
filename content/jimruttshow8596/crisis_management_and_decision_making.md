@@ -1,0 +1,80 @@
+---
+title: Crisis management and decision making
+videoId: mvSPUUOTrCM
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Dave Snowden, creator of the Cynefin framework and originator of SenseMaker, a distributed ethnography tool, focuses his international work on complex issues related to strategy and organizational decision-making for government and industry <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. He pioneered a science-based approach to organizations, drawing on anthropology, neuroscience, and complex adaptive systems theory <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. Today's discussion centers around a document co-authored by Snowden titled "Managing Complexity and Chaos in Times of Crisis: A Field Guide for Decision Makers" <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
+
+## The Cynefin Framework and Complexity
+
+The Cynefin framework originated from work in knowledge management at IBM, later mutating into a complexity and form framework <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. It operates on the principle that there are three types of systems: ordered, complex, and chaotic <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. These systems experience phase shifts, analogous to solid, liquid, and gas <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. The "triple point" where something is equiprobable of becoming solid, liquid, or gas is called the "aporetic domain" in Cynefin <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. "Aporetic" refers to a question that can only be answered by thinking differently about the problem <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>.
+
+Cynefin divides "order" into two sub-categories: clear and complicated <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
+
+### Complex vs. Complicated Systems
+
+A key distinction in applied complexity science is between complex and complicated systems:
+*   **Complicated:** Derived from Latin, meaning "to unfold" <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Something that can be unfolded and folded back, remaining the same <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. These systems can typically be taken apart and reassembled, as their logic is implicit in the static design <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>. Examples include a lawnmower motor or a Boeing 777 <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>.
+*   **Complex:** Derived from Greek, meaning "entangled" <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. Something that is constantly shifting and changing <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. In a complex system, information is heavily embedded in its dynamics, meaning it cannot be taken apart and put back together again to work the same way <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. Examples include a human cell or an economy <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>. A useful metaphor is "bramble bushes in a thicket," where everything is entangled, and unintended consequences are certain <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
+
+A critical principle of [[chaos_and_decisionmaking_in_crisis_situations | complex adaptive systems]] is the absence of linear material causality <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. Instead, complex systems exhibit dispositionality and are modulated <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>. The properties of the whole are always different from the properties of the part, a phenomenon known as emergence <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
+
+### The Importance of Constraints
+
+Constraints are crucial in complex systems thinking <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. There's a distinction between enabling constraints and governing constraints <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. An ordered system is generally governed and contained, while a complex system is connected <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>. Unlike systems thinking, which defines systems by boundaries, complexity thinking emphasizes connectivity, where boundaries may not exist within the system <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
+
+Constraints can be mapped and changed <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. It's impossible to control the output of a complex system; instead, one must describe the current state and identify immediate next steps <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>. This concept aligns with the "adjacent possible," meaning you map where you are and where you can go next <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>. Journeys begin with a sense of direction rather than fixed goals <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. Knowing which constraints are in play allows for better management and influence over emergence <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>.
+
+## Managing Crisis in Complex Systems
+
+The "Managing Complexity and Chaos in Times of Crisis" field guide originated during the COVID-19 pandemic <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. The pandemic highlighted the need to build systems capable of handling "unknowable unknowns" – things that cannot be known until they happen <a class="yt-timestamp" data-t="00:21:32">[00:21:32]</a>. Human attitudes are highly volatile but serve as crucial lead indicators in uncertain situations <a class="yt-timestamp" data-t="00:23:50">[00:23:50]</a>.
+
+### Three Fundamental Crisis Actions
+
+In a crisis, three fundamental things should be done immediately:
+
+1.  **Build Informal Networks:** Human beings primarily use informal networks for decision-making in a crisis, not formal systems <a class="yt-timestamp" data-t="00:28:51">[00:28:51]</a>. These dense networks across social classes and government departments are vital for rapid knowledge deployment <a class="yt-timestamp" data-t="00:29:05">[00:29:05]</a>. Expanding these networks, for instance, through "entangled trios" (groups of three people from different silos), is key <a class="yt-timestamp" data-t="00:29:31">[00:29:31]</a>.
+2.  **Map Knowledge at the Right Granularity:** This principle of anthro-complexity states that complexity scales by decomposition and recombination, not by aggregation or imitation <a class="yt-timestamp" data-t="00:30:01">[00:30:01]</a>. Knowledge stored at the correct level of granularity can be quickly repurposed for novel situations, a concept known as "acceptation" in evolutionary biology <a class="yt-timestamp" data-t="00:30:10">[00:30:10]</a>. The "right level of granularity" is achieved by breaking down information until agreement is reached on its placement <a class="yt-timestamp" data-t="00:32:08">[00:32:08]</a>.
+3.  **Set Draconian Constraints:** In a crisis, leaders must act decisively and quickly to stabilize the situation, not necessarily to solve the problem directly <a class="yt-timestamp" data-t="00:34:28">[00:34:28]</a>. The goal is to make "option-increasing decisions" that provide more choices for others to solve problems later <a class="yt-timestamp" data-t="00:34:41">[00:34:41]</a>. For example, New Zealand's Prime Minister locked down the country early during COVID-19, which provided more options compared to countries that delayed <a class="yt-timestamp" data-t="00:34:48">[00:34:48]</a>. This relates to "anticipatory thinking"—doing small things now to create more future options <a class="yt-timestamp" data-t="00:35:58">[00:35:58]</a>.
+
+### Comprehensive Journaling (Gamba)
+
+A critical tool in crisis management is comprehensive journaling, referred to as "Gamba," drawing from a Japanese manufacturing concept <a class="yt-timestamp" data-t="00:39:50">[00:39:50]</a>. This involves continuously keeping field notes updated, which provides better, real-time data from multiple agents and can replace traditional, time-consuming reporting <a class="yt-timestamp" data-t="00:40:14">[00:40:14]</a>. Journaling builds a network that can be queried in real-time, allowing for the detection of "weak signals" and anticipation of issues <a class="yt-timestamp" data-t="00:40:46">[00:40:46]</a>. It enables "lessons learning" (continuous, real-time learning) rather than "lessons learned" (post-event analysis) <a class="yt-timestamp" data-t="00:44:08">[00:44:08]</a>. Modern tools like large language models can assist with automated aggregation, summarization, and clustering of journaling data <a class="yt-timestamp" data-t="00:44:40">[00:44:40]</a>.
+
+### Specialized Crews
+
+In a crisis, creating specialized crews based on roles and role interaction is recommended <a class="yt-timestamp" data-t="00:49:15">[00:49:15]</a>. Examples include:
+*   **Continuity crew:** Manages business as usual, allowing senior executives to focus on the crisis <a class="yt-timestamp" data-t="00:49:53">[00:49:53]</a>.
+*   **Journaling crew:** Composed of individuals (e.g., junior staff or students) who can capture granular data from experienced people, providing knowledge at the right level of abstraction <a class="yt-timestamp" data-t="00:54:47">[00:54:47]</a>.
+*   **Devil's advocate type crew:** Provides critical perspectives <a class="yt-timestamp" data-t="00:49:10">[00:49:10]</a>.
+
+Crews operating with 3-5 active decision-makers are particularly effective due to the human tendency to compromise in smaller groups <a class="yt-timestamp" data-t="00:52:00">[00:52:00]</a>. Groups of three, in particular, allow for alternate communication routes and reduce stress in interactions <a class="yt-timestamp" data-t="00:53:18">[00:53:18]</a>. The military's evolved sizes for units like fire teams, squads, and platoons reflect these natural group dynamics <a class="yt-timestamp" data-t="00:53:48">[00:53:48]</a>.
+
+### Aporetic Moments
+
+An "aporetic moment" is a critical point in a crisis where individuals realize that "business as usual ain't gonna cut it" <a class="yt-timestamp" data-t="00:56:47">[00:56:47]</a>. It's a situation where people are forced to think differently because their existing ways of seeing things are insufficient <a class="yt-timestamp" data-t="00:57:21">[00:57:21]</a>. This concept is distinct from simply telling people to think differently, as it involves creating physical, linguistic, or aesthetic conditions that make it impossible to cling to old ways of thinking <a class="yt-timestamp" data-t="00:56:25">[00:56:25]</a>. Using unfamiliar language, like "Cynefin," can itself induce an aporetic moment by forcing people to engage with new meanings rather than making assumptions <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>.
+
+## Post-Crisis: Maintaining Cadence and Control
+
+As an organization emerges from crisis, maintaining "cadence" is crucial <a class="yt-timestamp" data-t="01:05:11">[01:05:11]</a>. Cadence refers to rhythm, allowing for paced, intermittent work, adjusting "gears" to respond to challenges <a class="yt-timestamp" data-t="01:05:26">[01:05:26]</a>. This means continuing to use sensor networks, informal networks, and distributed knowledge, focusing on "lessons learning" to avoid reverting to old ways of working <a class="yt-timestamp" data-t="01:05:59">[01:05:59]</a>. Leadership plays a key role in building expectations around this continuous, adaptive pace <a class="yt-timestamp" data-t="01:06:21">[01:06:21]</a>.
+
+### Designing Strategic Interventions with Narrative
+
+A key approach to strategic interventions involves mapping the present rather than attempting to predict a distant future <a class="yt-timestamp" data-t="01:10:06">[01:10:06]</a>. By using the entire workforce to gather micro-scenarios and responses, organizations can map their current state and understand what actions are immediately possible <a class="yt-timestamp" data-t="01:10:17">[01:10:17]</a>. This creates "narrative topographies," analogous to fitness landscapes, which can be used for cultural, safety, or attitude mapping <a class="yt-timestamp" data-t="01:11:09">[01:11:09]</a>.
+
+The strategy then becomes about determining what can be done tomorrow to create "more stories like these and fewer stories like those" <a class="yt-timestamp" data-t="01:12:38">[01:12:38]</a>. This approach allows for fractal representations, meaning the same source data can be aggregated and presented differently based on the level of competence to act (e.g., a national president vs. a school principal) <a class="yt-timestamp" data-t="01:12:47">[01:12:47]</a>. This fosters local action aligned with overall system alignment, moving away from average interventions <a class="yt-timestamp" data-t="01:13:33">[01:13:33]</a>. By focusing on many small, parallel actions, organizations can afford more failure, leading to more learning, and effectively "steer the ship" through complexity <a class="yt-timestamp" data-t="01:14:43">[01:14:43]</a>.
+
+## Future Direction: Constructor Theory in Social Systems
+
+Snowden's work is exploring the application of Constructor Theory, a physics theory by David Deutsch, to social systems <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>. This theory focuses on enumerating what is impossible rather than the rules of what is doable <a class="yt-timestamp" data-t="01:17:14">[01:17:14]</a>.
+
+In social systems, this translates to "Esterline mapping," where constraints are mapped onto a grid based on the "energy cost of change" versus the "time to change" <a class="yt-timestamp" data-t="01:18:11">[01:18:11]</a>.
+*   A **counterfactual line** in the top right indicates things that are impossible to change due to high energy cost or time <a class="yt-timestamp" data-t="01:18:41">[01:18:41]</a>.
+*   A **liminal line** behind it identifies things that cannot be changed by the current actors but could be by others <a class="yt-timestamp" data-t="01:18:55">[01:18:55]</a>.
+*   The **bottom left** represents high variability or vulnerability <a class="yt-timestamp" data-t="01:19:11">[01:19:11]</a>.
+
+By identifying and clustering these constraints, organizations can stop worrying about things that cannot change and focus on micro-actions to influence the dispositionality of the system <a class="yt-timestamp" data-t="01:19:17">[01:19:17]</a>. The aim is to make desirable outcomes more probable by shifting the energy cost or time associated with various actions <a class="yt-timestamp" data-t="01:20:06">[01:20:06]</a>. This approach fosters a non-controversial mapping of the operational space before engaging in political discussions <a class="yt-timestamp" data-t="01:24:43">[01:24:43]</a>. It offers a [[the_nature_of_choice_and_decisionmaking | complexity]] alternative to traditional strategic frameworks by focusing on dispositional management rather than outcome management <a class="yt-timestamp" data-t="01:21:20">[01:21:20]</a>.
+
+A "Constructor" in this context is something that produces a transformation when things pass through or contact it <a class="yt-timestamp" data-t="01:21:56">[01:21:56]</a>. In human systems, a Constructor can change during the act of construction, and counterfactuals relate to how people feel about a subject, not just physical reality <a class="yt-timestamp" data-t="01:22:09">[01:22:09]</a>. The fundamental principle is to establish what cannot change, knowing that whatever has the lowest energy gradient will prevail <a class="yt-timestamp" data-t="01:22:59">[01:22:59]</a>. This aligns with the concept of catalysis, which involves reducing the activation energy for desirable outcomes <a class="yt-timestamp" data-t="01:23:31">[01:23:31]</a>. "Energy" in this context is shorthand for both resource and attention <a class="yt-timestamp" data-t="01:26:01">[01:26:01]</a>. This framework combines grand strategy and tactics into a single, non-linear system <a class="yt-timestamp" data-t="01:26:48">[01:26:48]</a>.

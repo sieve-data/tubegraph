@@ -1,0 +1,51 @@
+---
+title: Symbols and Sacredness in Human Cognition and Society
+videoId: OicptQbgvcU
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Human society and cognition are deeply intertwined with symbols and the concept of sacredness, serving as fundamental mechanisms for meaning-making and societal cohesion <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>. This relationship extends from the most abstract philosophical concepts to the very mechanisms of thought and perception, evolving throughout [[human_development_and_societal_evolution | human development]] and societal change <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+
+## The Meaning Crisis and the Decline of Traditional Sacredness
+The idea that "God is dead," as famously articulated by Nietzsche, does not simply signify atheism, but rather the collapse of humanity's collective ability to make intelligible and viable the worldview provided by the Axial Age and its experience of [[philosophical_concepts_of_sacredness_and_spirituality | sacredness]] and directedness <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>. This marked a profound "meaning crisis," indicating a loss of the functional mythology and [[role_of_mythos_and_beliefs_in_society | beliefs]] that previously structured reality <a class="yt-timestamp" data-t="05:07:00">[05:07:00]</a>.
+
+Attempts to fill this void have often led to pseudo-religious movements, such as Marxism and Nazism <a class="yt-timestamp" data-t="01:06:00">[01:06:00]</a>. These movements exemplified the complete politicization of the quest for meaning, asserting that politics itself was the path to ultimate meaning in life and history <a class="yt-timestamp" data-t="08:31:07">[08:31:07]</a>. This approach reduced complex [[human_nature_and_societal_challenges | transformative practices]], rituals, and cultural attunements to mere ideological propositions, leading to catastrophic societal consequences <a class="yt-timestamp" data-t="09:13:00">[09:13:00]</a>.
+
+Despite the criticisms and decline of traditional religious frameworks, the need for meaning persists <a class="yt-timestamp" data-t="01:13:57">[01:13:57]</a>. Society today sees a return to mutually incompatible politicized worldviews, underscoring the ongoing search for an integrated sense of meaning and belonging <a class="yt-timestamp" data-t="01:37:31">[01:37:31]</a>.
+
+## The Augustinian Orders and Meaning Cultivation
+Historically, frameworks like Augustinian Christianity provided an extraordinarily rich sense of stability through "three N's" <a class="yt-timestamp" data-t="01:15:02">[01:15:02]</a>:
+*   **Narrative Order:** The integration of personal stories within a larger, authoritative narrative, providing a sense of purpose <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>.
+*   **Normative Order:** An account of how [[philosophical_concepts_of_sacredness_and_spirituality | self-transcendence]] is understood and afforded, enabling improvement and the cultivation of wisdom <a class="yt-timestamp" data-t="01:00:44">[01:00:44]</a>. This contributes to a sense of depth or significance <a class="yt-timestamp" data-t="01:16:28">[01:16:28]</a>.
+*   **Nomological Order:** A meta-meaning system that makes the world intelligible and coherent, defining the relationship between agents and their environment <a class="yt-timestamp" data-t="01:17:09">[01:17:09]</a>.
+
+These three orders, when integrated with rituals of transformation and wisdom cultivation, fostered a deep sense of "mattering" – connection to oneself, the world, and other people <a class="yt-timestamp" data-t="01:17:37">[01:17:37]</a>.
+
+Moving forward, the challenge is not to return to past systems, but to engage in "meaning cultivation" <a class="yt-timestamp" data-t="01:18:41">[01:18:41]</a>. This approach transcends both empiricism (meaning is written on us) and romanticism (meaning is expressed by us) <a class="yt-timestamp" data-t="01:19:54">[01:19:54]</a>. Instead, it uses a cultivation metaphor, where individuals actively work with processes outside themselves to foster meaning, much like cultivating a plant to grow <a class="yt-timestamp" data-t="01:19:11">[01:19:11]</a>.
+
+## Relevance Realization and Religio
+At the heart of meaning cultivation and human cognition is **relevance realization (RR)** <a class="yt-timestamp" data-t="01:49:50">[01:49:50]</a>. RR is the underlying engine that supports general intelligence <a class="yt-timestamp" data-t="00:47:25">[00:47:25]</a>. It is a pre-conceptual, pre-propositional process, prior to beliefs, and is always embedded in a context of caring, affect, and salience <a class="yt-timestamp" data-t="01:51:17">[01:51:17]</a>. This means that every act of relevance realization is "affectively laden," not a cold calculation, reflecting humanity's fundamental drive to take care of itself as an autopoietic (self-making) system <a class="yt-timestamp" data-t="01:53:02">[01:53:02]</a>.
+
+The term "religio" is used to describe the fundamental, living way in which humans are bound to themselves, their bodies, and the world <a class="yt-timestamp" data-t="01:00:51">[01:00:51]</a>. It emphasizes the *functionality* of religious experience, rather than specific metaphysical claims or credos <a class="yt-timestamp" data-t="01:04:06">[01:04:06]</a>. This distinguishes it from "religion" as a set of doctrines, focusing instead on the underlying cognitive and existential processes <a class="yt-timestamp" data-t="01:05:20">[01:05:20]</a>.
+
+Religio is characterized by:
+*   **Primordiality:** It's deeper than conceptual thought or normative experience <a class="yt-timestamp" data-t="01:00:02">[01:00:02]</a>.
+*   **[[Mystical experiences and rationality | Mystery]]**: It is phenomenologically mysterious; individuals cannot get outside of their own relevance realization to observe it objectively <a class="yt-timestamp" data-t="01:00:12">[01:00:12]</a>.
+*   **Transjectivity:** Meaning is not purely subjective or objective, but rather that which relates the two, making both possible <a class="yt-timestamp" data-t="01:16:00">[01:16:00]</a>.
+*   **Flow State:** Religio is a "transjective trajectory flow state" where individuals celebrate their participation in ongoing "transframing"—a transformative process that alters one's way of framing problems and relating to the world <a class="yt-timestamp" data-t="01:18:14">[01:18:14]</a>. This can lead from "wonder" to "awe," a sense of profound connection and transformation <a class="yt-timestamp" data-t="01:19:01">[01:19:01]</a>.
+
+Psychotechnologies (like literacy, or potentially [[mystical_experiences_and_rationality | mystical experiences]] and psychedelics) can profoundly impact this flow state by fundamentally resetting the parameters of relevance realization <a class="yt-timestamp" data-t="01:19:56">[01:19:56]</a>.
+
+## Symbols and Sacredness
+Within this framework, **sacredness** refers to the psycho-existential aspect of experience—what is happening, what is being experienced, and how meaning is being made through sense-making and [[philosophical_concepts_of_sacredness_and_spirituality | transcendence]] <a class="yt-timestamp" data-t="01:22:12">[01:22:12]</a>. This is distinct from **the sacred**, which is the metaphysical proposal or cause of such experiences <a class="yt-timestamp" data-t="01:22:29">[01:22:29]</a>. The focus is on understanding the phenomenology and functionality of sacredness first, then exploring potential new proposals for what "the sacred" might be <a class="yt-timestamp" data-t="01:23:43">[01:23:43]</a>.
+
+[[the_role_of_religion_and_sacredness | Religion]], in this view, functions as a "meta-meaning system," which coordinates the agent-arena relationship to make specific meaning systems (legal, moral, aesthetic, economic) possible <a class="yt-timestamp" data-t="01:26:39">[01:26:39]</a>. It molds the world and individuals to fit together, protecting against absurdity and alienation, and instilling a feeling of being "homed in the world" <a class="yt-timestamp" data-t="01:28:15">[01:28:15]</a>.
+
+**Symbols** are crucial to sacredness and meaning-making. In an anthropological/religious studies sense, a symbol is more than a mere sign <a class="yt-timestamp" data-t="01:32:21">[01:32:21]</a>. At its core, a symbol is a metaphor that provokes insight, allowing individuals to hold complex concepts in mind that cannot otherwise be grasped, and which then trigger relevant cognitive machinery <a class="yt-timestamp" data-t="01:33:17">[01:33:17]</a>.
+
+For example, the symbol of Justice as a blind woman with scales and a sword is a metaphor <a class="yt-timestamp" data-t="01:34:58">[01:34:58]</a>. The scales, representing balance, re-engage the brain's machinery for dynamically balancing and coordinating variables, which is useful when trying to be just <a class="yt-timestamp" data-t="01:35:50">[01:35:50]</a>.
+
+However, symbols, while powerful, are also inherently dangerous <a class="yt-timestamp" data-t="01:37:02">[01:37:02]</a>. Paul Tillich's work highlights the ever-present risk of **idolatry** <a class="yt-timestamp" data-t="01:37:56">[01:37:56]</a>. A symbol becomes an idol when its symbolic nature is forgotten, and it is reacted to automatically, rather than being seen as an icon pointing to a deeper reality <a class="yt-timestamp" data-t="01:38:48">[01:38:48]</a>. History shows how symbols like the cross or national flags have been abused to justify immense horrors, underscoring the need for careful engagement with and understanding of their power <a class="yt-timestamp" data-t="01:37:05">[01:37:05]</a>.
+
+Understanding the deep functionality of "religio" and how it is activated and educated through psychotechnologies and practices is crucial for navigating the current "meta-crisis" <a class="yt-timestamp" data-t="01:30:04">[01:30:04]</a>. This "Enlightenment 2.0" acknowledges that beyond scientific and technological progress, there's a vital need to address the human capacity for meaning, connection, and wisdom, which traditional enlightenment thought overlooked <a class="yt-timestamp" data-t="01:30:46">[01:30:46]</a>.

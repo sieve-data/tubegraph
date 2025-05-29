@@ -1,0 +1,38 @@
+---
+title: Biblical Interpretation and Literalism
+videoId: QYtEkH3k2zQ
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The discussion explores the nature of biblical interpretation, particularly challenging the concept of biblical literalism and proposing an alternative understanding rooted in lived experience and deep relationship with reality.
+
+## The Problem with Biblical Literalism
+Biblical literalism is understood as a relatively recent historical movement that emerged in the 19th century as a reaction to European higher criticism in American theological seminaries <a class="yt-timestamp" data-t="01:57:52">[01:57:52]</a>. Its problematic nature stems from its presupposition that scripture should be understood in the same way as journalism or science <a class="yt-timestamp" data-t="01:58:49">[01:58:49]</a>. This leads biblical literalists to argue that the Bible is "good journalism about the past" or historically accurate <a class="yt-timestamp" data-t="01:59:03">[01:59:03]</a>. However, it is argued that scripture is substantially deeper than journalism or history, and even deeper than science <a class="yt-timestamp" data-t="01:59:12">[01:59:12]</a>.
+
+### Journalism as a Reference Point
+Journalism is often not about telling the truth, but is instead "mostly either just a straightforward projection of the relatively addled mind of a journalist or reasonably sophisticated propaganda" <a class="yt-timestamp" data-t="02:01:20">[02:01:20]</a>. Experience with being the subject of journalism reveals that it often inaccurately represents what actually happened, sometimes getting only 10% correct factually and interpretively <a class="yt-timestamp" data-t="02:01:46">[02:01:46]</a>.
+
+## Scripture as "Good Literature"
+Instead of journalism, scripture is posited as akin to "good fiction" or "great literature" <a class="yt-timestamp" data-t="01:59:35">[01:59:35]</a>. Good literature, like *Madame Bovary* or *Lord of the Rings*, while not literally true in the sense of a real person or event one could physically touch, conveys something "vastly more true" than any piece of journalism <a class="yt-timestamp" data-t="02:01:56">[02:01:56]</a>. It provides a "high-dimensional" view into reality that goes beyond analytical frames, revealing deeper patterns that our minds cannot grasp analytically <a class="yt-timestamp" data-t="02:00:22">[02:00:22]</a>.
+
+Scripture, when understood as great literature, becomes more "true" because it is "more capable of facilitating relationship with the reality over a broader scope" <a class="yt-timestamp" data-t="02:02:47">[02:02:47]</a>. It possesses a universality, being able to "take all the various context of human cultures" and tell a story perceived as true enough for people to order their lives based on it <a class="yt-timestamp" data-t="02:03:04">[02:03:04]</a>.
+
+## Critiquing Academic Biblical Criticism
+Academic biblical criticism is generally viewed as having "not much" quality, being "mediocre literature" and subject to the same "characteristics of fashion, academic hierarchical pecking orders and achieving positions of authority and positions of power" as other academic disciplines <a class="yt-timestamp" data-t="02:04:25">[02:04:25]</a>. It is suggested that academics, by claiming they no longer take certain biblical elements seriously, make it a "subject of your academic discipline" rather than engaging with its deeper truths <a class="yt-timestamp" data-t="02:05:25">[02:05:25]</a>. In the sciences, "reality is the checksum on our opinions," which is not true in the humanities <a class="yt-timestamp" data-t="02:05:51">[02:05:51]</a>.
+
+## Faith as Existential Commitment (Pistis)
+The concept of "belief" is re-evaluated, distinguishing between "nominal belief" (a fixation on a particular set of words, like doctrine or ideology) and "existential commitment" <a class="yt-timestamp" data-t="02:26:11">[02:26:11]</a>. The Greek word *pistis*, often translated as "faith," is central to this distinction <a class="yt-timestamp" data-t="02:27:28">[02:27:28]</a>.
+
+In Plato's work, *pistis* is distinguished from *doxa* (opinion/ideology, akin to "nonsensical things that kind of work a little bit but are mostly children's stories") and *episteme* (epistemology, perceiving underlying principles or Platonic forms) <a class="yt-timestamp" data-t="02:35:52">[02:35:52]</a>.
+
+*Pistis* refers to mastery: a "deeply intimate relationship with the domain because of experience, engaged experience" <a class="yt-timestamp" data-t="02:37:39">[02:37:39]</a>. It's the unarticulated "music" of understanding, which is distinct from the "words" that describe it <a class="yt-timestamp" data-t="02:38:21">[02:38:21]</a>. When one has *pistis*, they recognize that words only point towards the direction of the music, but one must "get in the mix and live it" to cultivate a well-honed, harmonious, rich, nuanced, subtle, and intimate relationship with reality <a class="yt-timestamp" data-t="02:38:30">[02:38:30]</a>.
+
+Therefore, "faith" is not a maximally delusional belief, but rather its inverse: an [[philosophical_and_religious_insights | existential commitment]] and "livingness" <a class="yt-timestamp" data-t="02:28:13">[02:28:13]</a>. It is the "embodied cultivation of a capacity for relationship with reality and an ongoing expansion of that noticing reality" <a class="yt-timestamp" data-t="03:07:54">[03:07:54]</a>.
+
+## Christianity and Faith
+It is argued that what has often been labeled "religion" (from *religio*, meaning "binding together") in the West is an attempt to cope with separation from the "wholeness of life" by constructing artificial structures or institutions <a class="yt-timestamp" data-t="01:03:01">[01:03:01]</a>, <a class="yt-timestamp" data-t="01:40:41">[01:40:41]</a>. This is distinct from Christianity's core endeavor, which is to "enter into full, rich, nuance, complete faith relationship with embodied relationship with the actual whole of reality as it comes to meet us" <a class="yt-timestamp" data-t="01:44:47">[01:44:47]</a>.
+
+This aligns with [[philosophy_and_theology_intersections | John Vervaeke's "religion that's not a religion"]], which seeks to address the "atomization of humans" and build practices and community to be more fully human <a class="yt-timestamp" data-t="01:42:01">[01:42:01]</a>. However, the speaker posits that John Vervaeke's "religion that's not a religion is in fact the thing that's often called Christianity" <a class="yt-timestamp" data-t="01:42:08">[01:42:08]</a>. The main difference lies in Vervaeke's explicit rejection of the supernatural and revealed religion <a class="yt-timestamp" data-t="01:48:24">[01:48:24]</a>.
+
+Christianity, properly understood, is not an ideology but a deeply personal relationship with reality in its wholeness, which is mysterious and intrinsically beyond intellectual comprehension <a class="yt-timestamp" data-t="01:50:21">[01:50:21]</a>. The invitation of the Trinity is to cultivate a "particular quality relationship" of "faith, hope, love, and most of all love" <a class="yt-timestamp" data-t="01:52:01">[01:52:01]</a>. This "personal relationship with reality" (or with God) involves the "whole of you with the whole of her" <a class="yt-timestamp" data-t="01:55:51">[01:55:51]</a>. Modern science, it is suggested, sits on the substrate of Christianity because it invites direct engagement with reality without pretense <a class="yt-timestamp" data-t="01:44:57">[01:44:57]</a>.

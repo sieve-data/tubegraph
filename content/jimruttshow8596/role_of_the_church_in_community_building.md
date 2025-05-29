@@ -1,0 +1,41 @@
+---
+title: Role of the Church in community building
+videoId: UVio_NNJUEA
+---
+
+From: [[jimruttshow8596]] <br/> 
+The role of the church, understood broadly as the "body of the soul of a community," is essential for [[community_building_and_localism | community building]] by providing the fundamental organizing principles and practices that enable a group of people to come together and possess a collective "soul" <a class="yt-timestamp" data-t="10:12:00">[10:12:00]</a>.
+
+## Defining the "Church" in Community Context
+The term "church" (from Greek *Ecclesia*) refers to a group of people who come together and enter into "communion" <a class="yt-timestamp" data-t="09:43:00">[09:43:00]</a>. This communion is the process through which a soul is brought into a group, enabling them to become a community <a class="yt-timestamp" data-t="09:52:00">[09:52:00]</a>. In this sense, the church is the "generator that is oriented around the insolent of a community" <a class="yt-timestamp" data-t="10:05:00">[10:05:00]</a>, providing the cultural and spiritual practices that ground the community <a class="yt-timestamp" data-t="10:46:00">[10:46:00]</a>.
+
+This definition extends beyond Abrahamic religions, encompassing any group that engages in practices that allow it to have a soul. For example, the ancient Athenians, through their cultural and spiritual practices bound under the spirit of Athena, functioned as a "church" that organized them as Athenians <a class="yt-timestamp" data-t="11:42:00">[11:42:00]</a>.
+
+## Church, Commons, and Society
+The concept of the "commons" is seen as a "rump" or "leftover" of the church that has evaporated over a long time <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>. Historically, the natural world itself was considered a commons, managed by humans at the forager stage <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>. However, as civilization advanced and private property became dominant, the commons shrank, becoming remnants of a previous state of being <a class="yt-timestamp" data-t="05:10:00">[05:10:00]</a>.
+
+A critical distinction is made between "community" and "society" <a class="yt-timestamp" data-t="08:27:00">[08:27:00]</a>:
+*   **Community**: A group of human beings who have come together in a fashion that has a soul <a class="yt-timestamp" data-t="08:31:00">[08:31:00]</a>. This is the domain of the "church."
+*   **Society**: A group of human beings that have come together in a fashion that doesn't have a soul <a class="yt-timestamp" data-t="08:35:00">[08:35:00]</a>. Society is described as parasitic on community, largely because the community has lost its soul <a class="yt-timestamp" data-t="08:44:00">[08:44:46]</a>.
+
+The "church" provides the "supervenient, non-physical but real constraints that are the governing principles" <a class="yt-timestamp" data-t="20:45:00">[20:45:00]</a> that convert a society into a community that has a soul <a class="yt-timestamp" data-t="20:59:00">[20:59:00]</a>. Without such a unifying structure, groups tend to collapse or operate by inertia <a class="yt-timestamp" data-t="17:15:00">[17:15:00]</a>.
+
+## Historical Inversion and Modernity
+A "huge inversion" has taken place historically, moving from community to society <a class="yt-timestamp" data-t="13:30:00">[13:30:00]</a>. In the past, entities like the Greek *polis* were recognized as belonging to their respective deities (e.g., Athens to Athena), signifying their connection to the city's soul <a class="yt-timestamp" data-t="13:38:00">[13:38:00]</a>. With the loss of this soul, modern thought has often assumed that particulars don't matter, which is a significant mistake <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>. Modernity has been characterized by the conscious evaporation of the "sacred" or the "church" as the third member of the team, leaving only the false dichotomy of state and market <a class="yt-timestamp" data-t="31:47:00">[31:47:00]</a>.
+
+## [[The Role of Religion in Meaning and Society | The Role of Religion]] and Sacredness in Community
+The "church" or the sacred dimension represents a level of seriousness and commitment that is often absent in modern market or state-driven interactions <a class="yt-timestamp" data-t="57:50:00">[57:50:00]</a>. It involves deep, serious commitment to cultural and spiritual practices, often orienting towards humility and ordered by a vertical set of values from the most humble to the highest <a class="yt-timestamp" data-t="58:22:00">[58:22:00]</a>. This involves questions of life and death, and shared values that bind individuals together in a way that transcends individual self-interest <a class="yt-timestamp" data-t="58:06:00">[58:06:00]</a>.
+
+## Implications for AI Governance
+The current approach to governing advanced AI, primarily through the market and state, is seen as operating within a "false dichotomy" <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>. The "commons" (or the church) is asserted to be the "proper location" for endeavoring to figure out how to govern AI and humanity's relationship with it, as it is more fundamental than either the state or the market <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>.
+
+The problem of AI "alignment" cannot be solved by aligning AI with "humanity" as an abstraction, because "humanity" itself has no soul <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>. However, AI can be aligned with individual humans, who do have souls <a class="yt-timestamp" data-t="03:35:00">[03:35:00]</a>. This points towards the need for personal or highly decentralized AI <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>.
+
+The effort to align AI with society by means of societal techniques is a "category error" and will fail, as society itself is not aligned with itself <a class="yt-timestamp" data-t="33:38:00">[33:38:00]</a>. True alignment, akin to community, requires an integral wholeness, which is the domain of the church.
+
+## [[The Role of Religion in Societal Stability | Recovering the Soul]] for Human-AI Alignment
+To align an intimate, personal AI, the individual human must first be aligned with themselves; they must "recover their soul" <a class="yt-timestamp" data-t="01:04:49">[01:04:49]</a>. This practically means achieving clarity on personal values and value hierarchies, and living in accordance with them <a class="yt-timestamp" data-t="01:05:02">[01:05:02]</a>. An intimate AI's primary function would necessarily be to act as a "wisdom coach" <a class="yt-timestamp" data-t="01:05:16">[01:05:16]</a>, supporting the individual in achieving and maintaining this state of coherence and integrity <a class="yt-timestamp" data-t="01:06:02">[01:06:02]</a>. This is how the AI can ultimately be governed by the individual's soul <a class="yt-timestamp" data-t="01:06:09">[01:06:09]</a>.
+
+Furthermore, these personal AIs could form a reinforcing network, similar to a "civitas," where individual info agents align with others based on shared values and trust <a class="yt-timestamp" data-t="01:07:36">[01:07:36]</a>. This ethical connection naturally leads to collaboration in service to mutually beneficial behaviors, a characteristic of ethical people operating in reality <a class="yt-timestamp" data-t="01:08:31">[01:08:31]</a>.
+
+The ability for this positive trajectory to materialize quickly depends on a "spiritual question": whether people choose based on what is good, true, and beautiful, and slow down enough to notice if their choices align with their highest values, or if they choose based on expediency, strategy, power, and fear <a class="yt-timestamp" data-t="01:10:41">[01:10:41]</a>. The transition from a "bad priestly class" (those prioritizing Mammon and Moloch) to a "proper priestly class" (those who genuinely aspire to build something good) is critical <a class="yt-timestamp" data-t="01:12:05">[01:12:05]</a>. This involves a willingness to commit time and orient towards the highest values, allowing for mutual self-correction within a community <a class="yt-timestamp" data-t="01:13:57">[01:13:57]</a>.

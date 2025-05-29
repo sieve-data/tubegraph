@@ -1,0 +1,34 @@
+---
+title: Impact of societal values on political choices
+videoId: BqxzuHzBoTA
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+The influence of deeply held societal values, cultural traditions, and fundamental beliefs plays a significant role in shaping political choices and party affiliations, often leading to fundamental realignments within the electorate. This dynamic is evident in the current political landscape, where perceived threats to core values drive partisan divides and individual voting decisions <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>.
+
+## Perceived Threats to Democratic Values
+One of the most potent drivers of political choice is the belief that fundamental democratic principles or the functioning of the state are at risk. Brett Weinstein argues that if control of the "ship of State" is not regained in the present election, there may not be another meaningful election, pushing individuals to vote differently than their usual "off-label" choices <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a>. He further asserts that the "blue team" (Democrats) is willing to "break the values and rules surrounding consent of the Govern" to retain power, citing instances of "illegitimate stagecraft" <a class="yt-timestamp" data-t="03:47:00">[03:47:00]</a>. Such perceptions of a threat to the nation's capacity to govern or the principles of democracy become a primary motivation for political decisions <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>.
+
+## Evolution of Gender Roles and Political Alignment
+Changes in societal values regarding gender roles, particularly the evolution of feminism, are seen as having a profound [[impact_of_generational_beliefs_on_society | impact on political alignment]]. While early feminism (first and second wave) aimed for equal opportunity and was considered noble, the modern "radical feminist" approach, which synonymizes masculinity with "toxic masculinity," is viewed as a mistake <a class="yt-timestamp" data-t="19:50:00">[19:50:00]</a>. This perspective suggests that the Democratic party has become an "incoherently feminine quadrant of the electorate" <a class="yt-timestamp" data-t="20:26:00">[20:26:00]</a>. Some argue that men voting for the blue team are "falling down on their obligation as men" by conforming to ideas perceived as "flat out wrong," leading to "defections" from the Democratic party among men who have "had enough" <a class="yt-timestamp" data-t="21:17:00">[21:17:00]</a>. This highlights how shifts in [[role_of_culture_and_identity_in_societal_success | cultural]] and gender values directly affect political choices.
+
+## Cultural Disparagement and Class Realignment
+A significant aspect of societal values influencing political choices is the cultural disparagement often perceived by different segments of the population. Jim Rut observes a "cultural disparagement of rural people and working-class people by the blue Coast to Elites" <a class="yt-timestamp" data-t="35:22:00">[35:22:00]</a>. This contributes to a sense of anger and alienation among these groups, who feel their country is "under attack" from within the political structure <a class="yt-timestamp" data-t="34:27:00">[34:27:00]</a>.
+
+Donald Trump's political success is attributed, in part, to his ability to appeal to "working-class people who are politically homeless," effectively "decapitating" the Republican party and bringing in a new demographic <a class="yt-timestamp" data-t="32:51:00">[32:51:00]</a>. This reflects a major [[impact_of_generational_beliefs_on_society | political realignment]] based on class and cultural grievances, rather than traditional party lines <a class="yt-timestamp" data-t="30:30:00">[30:30:00]</a>.
+
+## Influence of Religion and Ethics
+The [[influence_of_religion_on_politics | role of religion]] and its associated values also strongly impact political choices. Jim Rut identifies a "relentless and growing" attempt by the Republican party to impose religion on the public, citing examples like putting the Ten Commandments in schools and the growth of Christian nationalism <a class="yt-timestamp" data-t="27:01:00">[27:01:00]</a>. This is seen by some as a "repudiation of the Enlightenment" and the separation of church and state <a class="yt-timestamp" data-t="27:18:00">[27:18:00]</a>.
+
+Conversely, it is noted that individuals with a religious worldview often exhibit a "bias in courage" and the "features of character" necessary to "confront a great evil," particularly in movements like the medical freedom movement <a class="yt-timestamp" data-t="35:42:00">[35:42:00]</a>. Despite materialist perspectives, there is an acknowledgment that religion has served as an "adaptation and a key to human flourishing," providing a framework for "fidelity to Virtue, group coherence, decency, wholesomeness" <a class="yt-timestamp" data-t="37:17:00">[37:17:00]</a>. This suggests that the presence or absence of a religious framework can influence individuals' approach to confronting perceived societal challenges and thus their political alignment.
+
+## Political Polarization and Party Ideologies
+The [[impact_of_political_polarization_on_society | political polarization]] means that both major parties are seen as having "detestable" aspects <a class="yt-timestamp" data-t="24:16:00">[24:16:00]</a>.
+
+*   **Democrats**: Criticized for "oikophobia" (hatred of one's own culture), rising anti-Semitism, "wokeness and neotribal racism," unrealistic climate policies, excessive government spending, and anti-Second Amendment stances <a class="yt-timestamp" data-t="24:32:00">[24:32:00]</a>. The party is described as having "driven all the likable, decent people out" <a class="yt-timestamp" data-t="15:45:00">[15:45:00]</a>.
+*   **Republicans**: Criticized for attempts to impose religion, "cultural control of individual behavior" (e.g., stances on abortion, right to die, drug wars), anti-free speech tendencies, climate change denial, and "irresponsible" spending habits <a class="yt-timestamp" data-t="27:01:00">[27:01:00]</a>.
+
+These critiques highlight how differing societal values—from cultural identity and religious freedom to economic policy and [[role_of_ethics_in_societal_and_technological_evolution | ethical considerations]]—contribute to the complex political choices faced by voters. The concern that the "regime" or "blue church" is trying to "overturn the cultural traditions that most Americans have live by and treasure" <a class="yt-timestamp" data-t="31:10:00">[31:10:00]</a> reinforces how fundamental values shape opposition to a particular political entity.
+
+Ultimately, political choices are deeply intertwined with individuals' and groups' fundamental societal values, perceptions of threats to those values, and their interpretation of the evolving cultural and social landscape <a class="yt-timestamp" data-t="31:55:00">[31:55:00]</a>.

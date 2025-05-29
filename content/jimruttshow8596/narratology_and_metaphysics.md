@@ -1,0 +1,70 @@
+---
+title: Narratology and metaphysics
+videoId: bOgkpp8woQQ
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Alexander Bard, an author, lecturer, artist, songwriter, music producer, TV personality, and religious and political activist, is one of the founders of a synthe religious movement <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. This article discusses concepts from his book *Process and Event*, co-authored with Jan Söderqvist <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>, which explores [[Metaphysics and its relation to scientific concepts | metaphysics]] and [[Protopian narratology and its implications | narratology]] in depth <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+
+## Bard's Metaphysics: Meta-Storytelling
+Alexander Bard defines [[Metaphysics and its relation to scientific concepts | metaphysics]] as the "ultimate form of storytelling about storytelling," or "meta-storytelling" <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. This perspective, described as [[Protopian narratology and its implications | narratological]], explores the different types of stories human beings tell about themselves and each other, and their purposes <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
+
+Inspired by Hegel, this model suggests that human beings constantly encounter dialectical deadlocks because language inherently contains contradictions <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. These narrative approaches are categorized into three types: Logos, Mythos, and Pathos <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.
+
+### The Narratological Triad: Logos, Mythos, Pathos
+This triad directly correlates with the human brain's structure, which Bard describes as three distinct brains: the rational, emotional, and mimetic brains <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a> <a class="yt-timestamp" data-t="01:04:18">[01:04:18]</a>.
+*   **Logos**: Represents the rational brain, focused on factual truth and making sense of the world through calculations <a class="yt-timestamp" data-t="01:04:24">[01:04:24]</a>.
+*   **Pathos**: Corresponds to the emotional brain, dealing with feelings, desires, and the raw, unfiltered experience of reality <a class="yt-timestamp" data-t="01:04:36">[01:04:36]</a>.
+*   **Mythos**: Connects to the mimetic or social brain, serving as the unifying narrative that brings Logos and Pathos together <a class="yt-timestamp" data-t="01:04:56">[01:04:56]</a>. It's the "social glue" for society <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>. The mimetic brain is particularly crucial for social animals like humans, driving social relations and likely driving the evolution of the large human brain <a class="yt-timestamp" data-t="01:05:40">[01:05:40]</a> <a class="yt-timestamp" data-t="01:05:51">[01:05:51]</a>.
+
+#### The Problem with Mythos
+Bard emphasizes the danger when people *believe* their Mythos as literal truth rather than recognizing it as a unifying narrative <a class="yt-timestamp" data-t="01:10:11">[01:10:11]</a>. This can lead to conflicts and dogmatism <a class="yt-timestamp" data-t="01:10:27">[01:10:27]</a>. Historically, religion served as an initial Mythos, providing a temporary solution to societal bloodshed by offering a shared narrative, even if it wasn't historically factual <a class="yt-timestamp" data-t="01:13:49">[01:13:49]</a>. However, when this myth becomes dogma, problems arise <a class="yt-timestamp" data-t="01:14:19">[01:14:19]</a>. Bard advocates for recognizing Mythos as a form of fiction that can be pragmatically useful without being literally believed <a class="yt-timestamp" data-t="01:14:27">[01:14:27]</a>.
+
+## Transcendental Emergentism: Bard's Metaphysics
+Bard's metaphysics is termed [[Immanent Metaphysics and its Concepts | transcendental emergentism]] <a class="yt-timestamp" data-t="01:21:19">[01:21:19]</a>. It seeks to overcome the trap of reductionism in traditional [[Metaphysics and its relation to scientific concepts | metaphysics]], which often tries to reduce everything to a single explanation like fundamental atoms (atomism) or consciousness (panpsychism) <a class="yt-timestamp" data-t="01:42:30">[01:42:30]</a>. It also rejects the "Creator God syndrome" or a "prime mover" that pre-conditions existence <a class="yt-timestamp" data-t="01:43:52">[01:43:52]</a> <a class="yt-timestamp" data-t="01:49:33">[01:49:33]</a>.
+
+Instead, [[Immanent Metaphysics and its Concepts | transcendental emergentism]] starts from the premise that "happening" is the fundamental aspect of philosophy <a class="yt-timestamp" data-t="01:45:17">[01:45:17]</a>. It recognizes that the world consists of processes and events in a dialectical relationship, where both are correct and allow for human choice and creativity <a class="yt-timestamp" data-t="01:44:37">[01:44:37]</a>.
+
+### Emergence Vectors
+Within this framework, "emergence" refers to the birth of something novel that never happened before in history <a class="yt-timestamp" data-t="01:48:21">[01:48:21]</a>. Once something emerges, it tends to behave in predictable patterns, forming "habits" or "laws" <a class="yt-timestamp" data-t="01:48:31">[01:48:31]</a>. An "emergence vector" describes a distinct domain of study that operates on its own terms, even if composed of elements from lower-level emergence vectors <a class="yt-timestamp" data-t="01:51:57">[01:51:57]</a>. For example, biology is an emergence vector because life operates differently from physics, even though it consists of physical and chemical compounds <a class="yt-timestamp" data-t="01:52:34">[01:52:34]</a>.
+
+The "transcendental" aspect means that a new emergence can be so dramatic that it might require a complete shift in the model for understanding emergence vectors, ensuring no pre-conditioned "Creator God" is snuck in <a class="yt-timestamp" data-t="01:49:50">[01:49:50]</a>.
+
+## Time: Four Faces of a God
+The book *Process and Event* dedicates its first chapter to dissecting time, proposing that "Time is a god with four faces" <a class="yt-timestamp" data-t="02:26:29">[02:26:29]</a>. This stems from Hegel's shift in Western philosophy from space to time as the primary category <a class="yt-timestamp" data-t="02:28:28">[02:28:28]</a>. The four categories of time are:
+
+1.  **Hyper Time**: Pure time, separate from space, which can exist before or after the Big Bang <a class="yt-timestamp" data-t="02:44:45">[02:44:45]</a> <a class="yt-timestamp" data-t="03:27:27">[03:27:27]</a>.
+2.  **Space Time**: Time as understood in physics, tied to mass and space, and characterized by a linear direction (e.g., the expansion of the universe) <a class="yt-timestamp" data-t="02:57:07">[02:57:07]</a> <a class="yt-timestamp" data-t="03:32:57">[03:32:57]</a>.
+3.  **Circular Time (Nomadology)**: A subjective interpretation where everything returns to the same point, characteristic of nomadic societies experiencing recurring seasons and life cycles <a class="yt-timestamp" data-t="02:22:15">[02:22:15]</a> <a class="yt-timestamp" data-t="02:26:29">[02:26:29]</a>. This is contrasted with [[Anthropic principle and theories of reality | Nietzsche's Eternal Recurrence]], which is a Western discovery of Eastern process philosophy <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>.
+4.  **Linear Time (Phallic Linear Time / Eventology)**: A subjective interpretation where progress and change are possible, associated with the concept of the "event" <a class="yt-timestamp" data-t="02:26:29">[02:26:29]</a>. The term "phallic" is used to represent the outward, goal-oriented direction of life, distinct from the "matrix" (mother/birth/death) which represents the cyclical <a class="yt-timestamp" data-t="03:51:17">[03:51:17]</a>. This is embodied in narratives like the Exodus, where a goal is set in the future and pulled towards <a class="yt-timestamp" data-t="04:08:42">[04:08:42]</a>.
+
+The book *Process and Event* argues that a complete [[Metaphysics and its relation to scientific concepts | metaphysics]] must contain both process and event, acknowledging that the world consists of both repetitions and differences <a class="yt-timestamp" data-t="02:33:53">[02:33:53]</a> <a class="yt-timestamp" data-t="02:36:31">[02:36:31]</a>. Historically, the East became stuck with the dominance of nomadology (process), while the West became stuck with the event without process, leading to dogmatism and stagnation <a class="yt-timestamp" data-t="02:42:58">[02:42:58]</a>.
+
+## The Socium and Human Organization
+
+### The Socium and Dividuality
+A core concept in Bard's philosophy is the "socium," an archetypal form of human organization that appears in any human population <a class="yt-timestamp" data-t="01:01:17">[01:01:17]</a>. It exists on two levels: the clan (around 150 individuals, akin to Dunbar's number) and the tribe (1200-1500 individuals) <a class="yt-timestamp" data-t="01:02:18">[01:02:18]</a>. Within these sizes, social loyalty is so strong that external police forces are not needed <a class="yt-timestamp" data-t="01:05:07">[01:05:07]</a> <a class="yt-timestamp" data-t="01:09:50">[01:09:50]</a>.
+
+This concept leads to the rejection of the traditional "individual" (as a fixed, isolated entity) in favor of the "dividual" <a class="yt-timestamp" data-t="01:15:39">[01:15:39]</a>. Borrowed from Deleuze and Guattari, "dividual" recognizes that humans are "many people in one body," plural, and constantly changing, interacting successfully in various social spheres <a class="yt-timestamp" data-t="01:16:11">[01:16:11]</a> <a class="yt-timestamp" data-t="01:38:39">[01:38:39]</a>. The focus shifts from the dichotomy of individual vs. collective to understanding humans as fundamentally "sotic" within the socium <a class="yt-timestamp" data-t="01:18:09">[01:18:09]</a>.
+
+### Tribopoiesis
+To better describe self-organization in social systems, Bard introduces "tribopoiesis" <a class="yt-timestamp" data-t="01:27:55">[01:27:55]</a>. This term is preferred over "autopoiesis" (self-organization) because "auto" implies a magical or inherent self-organizing property <a class="yt-timestamp" data-t="01:28:40">[01:28:40]</a>. Tribopoiesis emphasizes that the collective or "tribe" is what organizes itself, highlighting the social and emergent nature of these processes <a class="yt-timestamp" data-t="01:29:01">[01:29:01]</a>. It provides a useful ethical principle: whatever serves the socium's expansion and well-being is tribopoetic <a class="yt-timestamp" data-t="01:31:05">[01:31:05]</a>.
+
+### Membranics
+A crucial element for understanding how systems, particularly social ones, interact with their environment is "membranics" <a class="yt-timestamp" data-t="01:36:09">[01:36:09]</a>. This philosophical discipline focuses on the "membrane" of a system, which intelligently separates itself from the outside <a class="yt-timestamp" data-t="01:36:11">[01:36:11]</a>. Membranes are semi-permeable, allowing certain things in and out based on their "lawfulness" <a class="yt-timestamp" data-t="01:36:51">[01:36:51]</a>.
+
+Membranics applies across various domains:
+*   **Biology**: Cell walls regulate what enters and exits cells <a class="yt-timestamp" data-t="01:36:57">[01:36:57]</a>.
+*   **Economics**: Nation-states with their borders and tariffs <a class="yt-timestamp" data-t="01:37:24">[01:37:24]</a>.
+*   **Social Systems**: Communities, including [[protopian_narratology_and_its_implications | Game B]] communities, establish rules and boundaries for their internal cohesion and external interaction <a class="yt-timestamp" data-t="01:31:33">[01:31:33]</a> <a class="yt-timestamp" data-t="01:41:09">[01:41:09]</a>.
+
+The "code inside the membrane" can dynamically change its permeability based on experience, demonstrating a dialectical process that optimizes for the system's self-interest <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>. Membranes enable "coherent pluralism," allowing diverse and "radically strong sauce" communities to exist side-by-side, each with its own internal rules, as long as they adhere to shared protocols <a class="yt-timestamp" data-t="01:43:21">[01:43:21]</a>.
+
+### The Barred Absolute
+The "barred absolute" (from Lacan's "barred subject") refers to aspects that are fundamentally inaccessible or not ready to be understood <a class="yt-timestamp" data-t="01:59:59">[01:59:59]</a>. It is one's own blind spot, meaning self-understanding can only be fully achieved through interactions with others <a class="yt-timestamp" data-t="02:20:10">[02:20:10]</a>.
+
+This concept implies that certain truths or realities might be "barred" from individuals until they are prepared for them, or even permanently <a class="yt-timestamp" data-t="02:22:30">[02:22:30]</a>. It's distinct from a "noble lie" or manipulation by an elite <a class="yt-timestamp" data-t="02:23:44">[02:23:44]</a> <a class="yt-timestamp" data-t="02:26:12">[02:26:12]</a>. Instead, it justifies setting boundaries (like preventing children from accessing harmful content) <a class="yt-timestamp" data-t="02:32:55">[02:32:55]</a>. It also provides a philosophical basis for asserting that certain arguments are flawed or based on a lack of fundamental understanding <a class="yt-timestamp" data-t="02:37:19">[02:37:19]</a>.
+
+## Conclusion
+Bard's [[Forrest Landrys Immanent Metaphysics | immanent metaphysics]], centered on [[Protopian narratology and its implications | narratology]], provides a comprehensive framework for understanding human existence. It integrates concepts of time, social organization, and the nature of reality through the lens of [[Immanent Metaphysics and its Concepts | emergentism]], ultimately advocating for decentralization and the empowerment of diverse, self-organizing communities in the digital age <a class="yt-timestamp" data-t="01:50:08">[01:50:08]</a>.

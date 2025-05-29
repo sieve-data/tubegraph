@@ -1,0 +1,53 @@
+---
+title: Constraints and change in complex systems
+videoId: mvSPUUOTrCM
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+## Introduction
+The management of [[normal_accidents_and_complex_systems | complex systems]], particularly in times of crisis, requires a distinct approach compared to traditional management methodologies. Drawing on [[complexity_science_and_societal_systems | complexity science]], this field emphasizes understanding system dynamics, emergent properties, and the strategic management of constraints rather than direct control of outcomes [00:01:06]. Dave Snowden, creator of the Cynefin framework and SenseMaker, focuses on practical, applied [[complexity_theory_and_systems_thinking | complexity thinking]] for organizational decision-making [00:01:57].
+
+## Understanding Complex Systems
+A foundational concept is the distinction between complicated and complex systems, which is central to the Cynefin framework [00:02:44].
+*   **Complicated Systems**: Derived from the Latin "to unfold" (complicare), these systems can be taken apart and put back together again because their logic is inherent in their static design [00:03:53]. An example is a lawnmower motor or a Boeing 777 airplane [00:05:34]. Such systems have predictable, linear material causality [00:06:09].
+*   **Complex Systems**: Originating from the Greek "entangled," these systems are constantly shifting and changing [00:03:55]. They cannot be reliably taken apart and reassembled, as much of their information resides in their dynamics [00:05:08]. A human cell or an economy are examples where halting and restarting does not restore the original state [00:05:20]. [[understanding_attractor_points_in_complex_systems | Complex systems]] lack linear material causality, exhibiting dispositionality and modulation instead of direct cause-and-effect [00:06:09]. Their properties as a whole are different from the properties of their parts; for instance, superconductivity emerges from a clump of electrons, which cannot be predicted from individual electron behavior [00:06:47].
+
+[[Emergence of Life and Complex Systems | Emergence]] is a key aspect of [[normal_accidents_and_complex_systems | complex systems]], where new properties arise from interactions that cannot be reduced to individual components [00:07:10]. [[normal_accidents_and_complex_systems | Complex systems]] are also typically open, or at least semi-permeable, allowing for continuous exchange of energy and material with their environment [00:11:19]. Unlike closed systems which are subject to the second law of [[complex_systems_and_thermodynamics | Thermodynamics]], open complex systems at their own level are not [00:12:04].
+
+## The Role of Constraints
+Constraints are crucial in [[complexity_theory_and_systems_thinking | complexity thinking]], differing from traditional systems thinking's focus on boundaries [00:08:04].
+*   **Types of Constraints**: A key distinction is made between "enabling constraints" and "governing constraints" [00:07:53].
+    *   **Ordered Systems**: Generally governed and contained by boundaries [00:07:57].
+    *   **Complex Systems**: Defined by connectivity rather than boundaries, they are primarily influenced by enabling constraints [00:08:01].
+*   **Managing Constraints**: The output of a complex system cannot be directly controlled. Instead, change is managed by identifying and influencing constraints [00:08:35]. The core principle is to understand the current state ("where you are") and then identify the "adjacent possible"—what can be done next [00:09:18]. This is likened to the "next right thing" philosophy [00:09:14].
+*   **Modulators**: Constraints and "Constructors" (entities that produce transformations) are the two main types of modulators in play [00:10:40]. Mapping these modulators and their control points is essential for influencing emergence [00:09:34]. This strategy shifts from setting goals to establishing a sense of direction [00:09:28].
+
+## Strategic Interventions in Crisis and Change
+A field guide titled "Managing Complexity and Chaos in Times of Crisis" evolved from a crisis-specific document (during COVID-19) into a generic guide for managing [[normal_accidents_and_complex_systems | complex adaptive systems]] [00:02:07]. It emphasizes that in a world where the future is unpredictable ("unknowable unknowns"), systems must be built to handle unanticipated events [00:21:26].
+
+### Practical Management Principles
+1.  **Build Informal [[complexity_in_systems_like_networks_and_fractals | Networks]]**: In a crisis, human beings rely on informal networks for decision-making more than formal systems [00:28:53]. Rapidly building dense informal networks across silos (e.g., using "entangled trios") is vital for rapid knowledge flow [00:29:25].
+2.  **Map Knowledge at the Right Granularity**: Knowledge should be stored and mapped at a fine-grain level to allow for rapid repurposing and "acceptation" (exaptation in evolutionary biology) [00:29:57]. The "right level of granularity" is achieved when there's agreement on its placement within a framework (e.g., energy cost vs. time to change) [00:32:00]. This approach yields "lots and lots of small things from lots and lots of different perspectives continuously coming into the system" [00:43:14].
+3.  **Set Draconian Constraints**: In a crisis, leaders must act decisively and quickly to stabilize the situation, prioritizing "option-increasing decisions" over immediately decisive ones [00:34:28]. This means creating constraints that preserve or expand future choices, rather than limiting them [00:35:07]. This is akin to "anticipatory thinking" where small actions now create more options later [00:35:58].
+4.  **Implement Comprehensive Journaling (Gamba)**: This involves continuous, real-time capture of observations and experiences at the lowest level of granularity [00:39:40]. It reduces traditional reporting burdens while providing rich, real-time data from multiple agents [00:40:03]. Journaling generates "lessons learning" (continuous, real-time insights) rather than "lessons learned" (lagging, retrospective analysis) [01:06:07]. Leveraging large language models (LLMs) and embedded vector spaces can automate aggregation, summarization, and clustering of this data, providing automated insights and alerts [00:44:42].
+5.  **Create Specialized Crews**: Form highly focused, collective teams for specific functions in a crisis, such as a "continuity crew," "journaling crew," or "devil's advocate crew" [00:48:43]. These crews, based on roles and role interaction, can exhibit emergent intelligence greater than their individual members [00:49:20]. Optimal crew sizes, often mirroring natural group sizes (e.g., 3-5 people for active decision-making, or up to 50 for self-sustaining units like extended families or military platoons), facilitate compromise and effective action [00:51:14].
+6.  **Maintain Cadence**: Post-crisis, it's vital to maintain a rhythmic pace of activity (cadence) rather than just velocity [01:05:26]. This involves continuous use of sensor networks, informal networks, and distributed knowledge to adjust to changing circumstances [01:05:50].
+
+### Apparetic Moments and Acceptation
+*   **Apparetic (Aporia)**: An "apparetic moment" is a situation where one cannot answer a question or solve a problem using existing modes of thought, forcing a different perspective [00:03:13]. This concept, derived from Greek philosophy, highlights the need for a shift in perspective, not just more information [00:56:06]. In a crisis, people need to be "booed into aporia" to break from "business as usual" thinking [00:56:42].
+*   **Acceptation**: This refers to the repurposing of existing knowledge, technologies, or capabilities for novel uses [00:30:15]. It's a key driver of innovation and evolution, where components originally designed for one purpose are "exapted" to serve new functions (e.g., a radar Magnetron leading to microwave ovens) [01:00:00]. This process is fostered by abstracting knowledge and then re-associating it at a higher level, which shortens the "gradient" or "ridge" between different ideas or basins of attraction [01:02:58].
+
+## Advanced Strategic Approaches
+### Esterline Mapping (Applied Constructor Theory)
+This emerging method, inspired by Constructor Theory in physics, provides a "[[complexity_theory_and_its_critiques | complexity]] alternative to Porter's five forces" for strategic planning [01:17:45].
+*   **Core Principle**: Instead of predicting outcomes, it focuses on identifying what is impossible to change and managing the "dispositionality" of the system to make desired outcomes more probable [01:17:14].
+*   **Process**:
+    1.  **Constraint Mapping**: Constraints are mapped onto a grid based on their "energy cost of change" (resource and attention required) and "time to change" [01:18:29].
+    2.  **Counterfactual Line**: A line is drawn to delineate things that are too costly or time-consuming to change, establishing what "cannot change" [01:18:41]. A "liminal line" identifies constraints that *could* be changed by others outside the direct sphere of influence [01:19:00].
+    3.  **Vulnerability/Variability**: The bottom-left quadrant identifies areas of high variability or vulnerability [01:19:11].
+    4.  **Micro-actions**: The process generates numerous "micro-actions" (50-60) designed to increase or lower the energy cost and time to change specific constraints [01:19:30]. This shifts the system's disposition, making desired outcomes more probable [01:19:37].
+*   **Benefits**: This approach creates a non-controversial mapping of operational space, allowing different parts of an organization (or even different levels of government) to align their actions towards a shared direction without requiring top-down outcome goals [01:21:00]. It combines grand strategy and tactics into a single framework [01:26:48].
+
+### Narrative Topographies
+Using SenseMaker, organizations can gather "micro-scenarios" from their workforce to create "narrative topographies" [01:10:18]. These "fitness landscapes with narrative" [01:10:55] indicate where an organization *can* go next, rather than where it wishes to be [01:11:16]. By presenting this data in a "fractal" manner, it allows for alignment across different levels of an organization or society, from national leaders to local school principals, each making changes relevant to their competence to act [01:12:47]. This process focuses on creating "more stories like these and fewer stories like those," fostering continuous, parallel small changes and learning [01:13:36].

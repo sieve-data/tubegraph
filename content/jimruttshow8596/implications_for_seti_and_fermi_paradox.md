@@ -1,0 +1,28 @@
+---
+title: Implications for SETI and Fermi Paradox
+videoId: EcZX-xNN6C8
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Assembly Theory offers a new perspective on the search for [[the_fermi_paradox_and_extraterrestrial_life | extraterrestrial intelligence]] (SETI) and provides potential resolutions to the [[the_fermi_paradox_and_extraterrestrial_life | Fermi Paradox]]. This theory, developed by astrobiologist Sarah Walker and chemist Lee Cronin, proposes that the complexity of objects can be quantified, revealing fundamental insights into the nature of life and technology.
+
+## Assembly Theory Fundamentals
+Assembly Theory quantifies the complexity of an object based on two main components: the number of parts an object has and the number of identical copies of that object that exist [01:14:48]. The "assembly index" or "steps" refer to the shortest route one can take to reform a molecule or object by reusing components [01:25:31]. A larger number of steps indicates a higher improbability that the object formed by chance [01:34:37]. The presence of high copy numbers in conjunction with a high assembly index suggests that significant "selection" has occurred [01:34:51], building memory into the system [01:30:30].
+
+A "sharp phase transition" has been observed in chemistry: molecules with an assembly index of 13 or 14 are typically non-biotic, while those with 15 steps or above are indicative of biotic processes [01:40:56]. This threshold suggests that specific physical mechanisms are required to produce highly assembled objects [01:43:57]. This is distinct from random processes, as random objects are hard to make in Assembly Theory [02:08:08]. Life acts as a "selection amplifier," enabling the production of much more complex objects [01:39:43].
+
+## The "Great Perceptual Filter" and the Fermi Paradox
+Sarah Walker suggests that the [[the_fermi_paradox_and_extraterrestrial_life | Fermi Paradox]] might be explained by "the great perceptual filter" [01:07:35], a play on the "great filter" concept [01:07:37]. This idea posits that our current inability to detect alien life isn't necessarily due to their extinction or rarity, but rather our lack of developed "technology of perception" [01:08:27] to understand life's fundamental physics [01:08:59].
+
+Technology, like biological sensory perceptions, evolves [01:07:47]. Just as early cells had simple photon receptors that evolved into complex eyes and later human-built telescopes, our scientific understanding of life itself may be too primitive to recognize alien life [01:08:02]. Walker draws an analogy to gravitational waves, which permeated the planet for billions of years but remained undetectable until Einstein's [[big_bang_theory_and_universe_expansion | theory of relativity]] predicted their existence and humanity developed interferometers to detect them [01:09:04]. Similarly, the first "contact" with alien life might occur in a laboratory setting by synthesizing life from scratch [01:09:36], which would provide the necessary theoretical framework to understand and detect it elsewhere in the universe [01:09:55].
+
+## Detecting Techno-signatures
+Assembly Theory offers a framework for searching for [[the_fermi_paradox_and_extraterrestrial_life | techno-signatures]] in the universe [01:06:40]. Instead of just looking for simple biosignature gases like oxygen or methane, the theory suggests searching for complex molecules in exoplanetary atmospheres [01:10:07]. This would involve modeling a planet's evolution in terms of Assembly Theory principles to detect "how much memory a planet has in it of past states" [01:14:17] or the "structure of evolving complexity on a planet" [01:14:36] remotely.
+
+Lee Cronin adds that the universe's increasing capability over time, due to expansion and the formation of heavier elements necessary for complex chemistry, means that intelligence may have only become possible relatively recently, with Earth perhaps being among the first instances [01:10:30]. Furthermore, because each origin of life is a unique event, alien life forms might operate on different timescales and have different underlying "mathematics" or "languages" that are currently beyond our comprehension [01:12:00]. Assembly Theory could potentially serve as a "Rosetta Stone" for understanding such complex, highly assembled phenomena [01:12:08].
+
+## Probability of Life Evolving
+Assembly Theory suggests that predicting the probability of life evolving on an otherwise suitable planet is complex and requires further understanding of the physics involved [01:19:11]. The entire causal chain of life on Earth, spanning billions of years, is an incredibly improbable event, and isolating specific "rare events" within this chain may be a flawed approach [01:18:21].
+
+The theory aims to "force a system to cross" the biotic threshold in laboratory experiments to understand the physics of this transition [01:19:40]. Until this problem is solved, bounding the probability of aliens remains speculative [01:20:14]. Lee Cronin argues that selection, as described by Assembly Theory, "predates biology" and is occurring everywhere in the universe [01:21:19]. He suggests that the focus should shift to "how much selection is required to get things... to get start making that transition" [01:21:28]. He concludes that selection is as fundamental for the emergence of biology as gravity is for the emergence of stars [01:22:43].

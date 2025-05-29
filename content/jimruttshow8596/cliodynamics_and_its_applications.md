@@ -1,0 +1,63 @@
+---
+title: Cliodynamics and its applications
+videoId: -UKSm39YJGw
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Cliodynamics is a scientific discipline focused on the study of history <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. Its motivation stems from the need to rigorously apply the scientific method to historical dynamics, which was previously an underdeveloped area in scientific inquiry <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. This approach aims to understand why large-scale societies, organized as states, frequently encounter "end times" periods of social dysfunction and political disintegration, sometimes leading to outright collapse <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. The goal is to develop a "science of social health" to ensure societal well-being <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+
+## Core Principles and Methodology
+
+Unlike traditional historical theories such as the Great Man Theory, Social Forces/Structuralism, or Environmental Determinism, Cliodynamics seeks to integrate multiple factors <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. It considers economic, political, and even climatological mechanisms, along with the influence of individuals, to understand the dynamics of societies <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. The key is to include only processes that are empirically determined to matter for understanding and prediction <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
+
+While direct experimentation with history is impossible, similar to sciences like astrophysics, geology, cosmology, or [[evolutionary_biology_and_its_application_to_modern_challenges | evolutionary biology]], Cliodynamics relies on systematic data analysis to test theories <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>.
+
+### Data Collection and Proxies
+A crucial aspect of Cliodynamics is the development of standardized, accessible historical databases <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a>. Peter Turchin, a [[complexity_theory_and_evolution_of_life | complexity scientist]] <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>, initially focused on designing mathematical models for human societies as [[complex_systems_and_thermodynamics | complex systems]] with interacting parts and non-linear feedbacks <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>. His work then shifted to testing these models against data <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>.
+
+Major data initiatives include:
+*   **Seshat: Global History Databank** <a class="yt-timestamp" data-t="00:15:51">[00:15:51]</a>: A project collecting data on societies over the past 10,000 years, currently encompassing 500-600 societies <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a>.
+*   **CrisisDB**: A supplement to Seshat, specifically tracking societies entering, experiencing, and emerging from crises <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a>.
+
+Proxies are vital for historical data <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>. For example, average human stature serves as a reliable proxy for biological well-being and economic conditions <a class="yt-timestamp" data-t="00:11:54">[00:11:54]</a>. Data from millions of skeletons in European museums provides a record of average height changes over millennia, showing declines in pre-crisis periods <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>. In the United States, average height has declined for all racial and gender groups over the past 20-30 years, indicating widespread negative economic impact <a class="yt-timestamp" data-t="00:14:06">[00:14:06]</a>.
+
+## Key Drivers of Societal Instability
+
+Based on [[historical_dynamics_of_societies_and_collapse | historical Dynamics]] data, Cliodynamics identifies two primary drivers for societal instability:
+
+### 1. Popular Immiseration
+This refers to the declining economic well-being of the general population <a class="yt-timestamp" data-t="00:14:45">[00:14:45]</a>.
+*   **Relative Wage**: Cliodynamics uses "relative wage" (nominal wage divided by nominal GDP per capita) as a key indicator <a class="yt-timestamp" data-t="00:20:53">[00:20:53]</a>. In the U.S., the relative wage has nearly halved since around 1850 <a class="yt-timestamp" data-t="00:19:34">[00:19:34]</a>.
+*   **The Wealth Pump**: From the late 1970s, a gap emerged between worker productivity (or GDP per capita) and compensation, which stagnated or declined <a class="yt-timestamp" data-t="00:22:26">[00:22:26]</a>. This "wealth pump" diverts wealth from the general population to the economic elites <a class="yt-timestamp" data-t="00:22:41">[00:22:41]</a>. Historically, this occurred through mechanisms like population growth depressing wages in the Middle Ages <a class="yt-timestamp" data-t="00:23:22">[00:23:22]</a>, or, more recently, through elites reconfiguring the economy for their own benefit <a class="yt-timestamp" data-t="00:24:19">[00:24:19]</a>.
+*   **Relative Deprivation**: People's well-being is measured relatively, both against other segments of the population and, more importantly, against previous generations <a class="yt-timestamp" data-t="00:26:28">[00:26:28]</a>. The inability of newer generations to achieve a better standard of living than their parents, as seen in rising costs for housing and education, fuels discontent <a class="yt-timestamp" data-t="00:27:11">[00:27:11]</a>. For example, a median worker now needs to work 40% more to afford a house compared to 40 years ago, and paying for a college degree requires nearly four times as much work for a working-class family compared to the 1970s <a class="yt-timestamp" data-t="00:28:04">[00:28:04]</a>.
+
+### 2. Elite Overproduction
+This phenomenon occurs when the number of individuals aspiring to elite positions vastly exceeds the available positions of power <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>.
+*   **"Musical Chairs"**: Society can be seen as a game of musical chairs where positions of power are chairs and elite aspirants are players <a class="yt-timestamp" data-t="00:17:14">[00:17:14]</a>. When the number of aspirants (e.g., wealthy individuals entering politics, or those seeking advanced degrees to escape precarity) far outstrips the positions, competition intensifies, undermining social norms and leading to political instability or even civil war <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>.
+*   **Impact of the Wealth Pump**: The wealth pump also leads to an overproduction of wealthy people. For example, the number of deca-millionaires in the U.S. has increased tenfold in the past 40 years, leading to a surge in those seeking political influence <a class="yt-timestamp" data-t="00:42:51">[00:42:51]</a>.
+*   **Frustrated Elite Aspirants (Counter-Elites)**: The drive to escape precarity pushes many to seek credentials like college or advanced degrees (e.g., PhDs, MDs, JDs) <a class="yt-timestamp" data-t="00:45:16">[00:45:16]</a>. However, the market for these credentials has led to overproduction; for instance, three times as many lawyers are trained as there are positions for them <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a>. This creates a large pool of intelligent, ambitious, well-educated, and well-connected individuals who are unable to achieve suitable positions <a class="yt-timestamp" data-t="00:47:09">[00:47:09]</a>. These "frustrated elite aspirants" often become "counter-elites" – the primary source of potential revolutionaries and radicals who seek to overthrow the established regime <a class="yt-timestamp" data-t="00:47:27">[00:47:27]</a>. Historical examples include Lenin, Castro, and Robespierre, all of whom were lawyers <a class="yt-timestamp" data-t="00:47:32">[00:47:32]</a>.
+*   **Synergy**: Popular immiseration provides the "fuel" (mass mobilization potential) <a class="yt-timestamp" data-t="00:49:00">[00:49:00]</a>, while counter-elites provide the "spark" and organization necessary to ignite and lead revolutionary movements <a class="yt-timestamp" data-t="00:48:55">[00:48:55]</a>.
+
+### Historical Examples
+*   **Medieval Europe (14th Century)**: The wealth pump had already created a top-heavy social pyramid <a class="yt-timestamp" data-t="00:34:53">[00:34:53]</a>. The Black Death, which disproportionately killed the poor (the base of the pyramid), led to widespread collapse and prolonged civil wars like the Hundred Years' War in France and the Wars of the Roses in England, where elites exterminated each other <a class="yt-timestamp" data-t="00:35:01">[00:35:01]</a>.
+*   **Rise of Plutocracy**: The U.S. is increasingly a plutocracy, where economic elites dominate political and administrative elites <a class="yt-timestamp" data-t="00:38:28">[00:38:28]</a>. The ratio of CEO pay to factory worker pay, and entertainment/sports star earnings to median family income, has drastically increased, indicating a much steeper "pyramid" <a class="yt-timestamp" data-t="00:30:01">[00:30:01]</a>. This further intensifies the desire to climb the social ladder and the competition at all levels <a class="yt-timestamp" data-t="00:31:19">[00:31:19]</a>.
+
+## Societal Prediction and Mitigation
+
+Cliodynamics differentiates between predictable structural trends and unpredictable triggers <a class="yt-timestamp" data-t="00:58:19">[00:58:19]</a>. The underlying forces of popular immiseration and elite overproduction build up slowly over years or decades and are fairly predictable <a class="yt-timestamp" data-t="00:57:51">[00:57:51]</a>. However, the specific event that sets off a crisis (e.g., an assassination, a geo-economic shock like high food prices, or a political election) is often unpredictable <a class="yt-timestamp" data-t="00:58:26">[00:58:26]</a>.
+
+> "Human Social systems are to a degree predictable But ultimately unpredictable" <a class="yt-timestamp" data-t="00:57:36">[00:57:36]</a>
+
+### Mitigating Risks
+1.  **Short-term Mitigation**: The immediate focus should be on reducing the "fire risk" by addressing accumulated fuel. This includes increasing the minimum wage, which evidence suggests does not hurt employment <a class="yt-timestamp" data-t="01:07:11">[01:07:11]</a>. Investing in public employment (e.g., for historians to collect more data) could also reduce desperation among aspirant elites <a class="yt-timestamp" data-t="01:07:49">[01:07:49]</a>.
+2.  **Long-term Solutions**: The primary long-term goal is to "shut down the wealth pump" and rebalance the economy <a class="yt-timestamp" data-t="01:06:39">[01:06:39]</a>. This would flatten the social pyramid over time <a class="yt-timestamp" data-t="01:06:50">[01:06:50]</a>.
+    *   **Historical Precedent (Chartist Period, UK)**: Britain avoided the 1848 revolutions by implementing short-term measures like shipping surplus workers and elites to its empire, which bought time <a class="yt-timestamp" data-t="01:04:25">[01:04:25]</a>. Long-term solutions included expanding suffrage, giving workers formal bargaining power, and abolishing the Corn Laws (a "mini wealth pump" that kept food prices artificially high) <a class="yt-timestamp" data-t="01:05:10">[01:05:10]</a>.
+    *   **U.S. Tax Policy**: The post-FDR consensus (until the 1970s) saw very high top marginal tax rates (e.g., over 90% until 1964) which effectively limited the wealth pump <a class="yt-timestamp" data-t="01:08:36">[01:08:36]</a>.
+
+### Avoiding Violent Revolution
+Peter Turchin strongly argues against violent revolution, emphasizing the immense human misery it causes and its tendency to merely replace one oppressive regime with another <a class="yt-timestamp" data-t="01:10:16">[01:10:16]</a>.
+
+> "Many violent revolutions don't really make situation better because they just exchange one team of Scoundrels with another" <a class="yt-timestamp" data-t="01:10:54">[01:10:54]</a>
+
+While some revolutions have been relatively low-cost or even "peaceful" (e.g., England's Glorious Revolution of 1688, or the reforms during the U.S. Progressive Era and New Deal) <a class="yt-timestamp" data-t="01:12:17">[01:12:17]</a>, these often occurred when societal memory of recent civil conflict pushed elites to take steps to avoid worse outcomes <a class="yt-timestamp" data-t="01:12:33">[01:12:33]</a>. The absence of such direct memory today makes the current trajectory of escalating rhetoric and potential violence particularly dangerous <a class="yt-timestamp" data-t="01:13:13">[01:13:13]</a>.

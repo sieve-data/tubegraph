@@ -1,0 +1,30 @@
+---
+title: Meta Occam and its relevance in complex systems
+videoId: QsRG91HUTyE
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+## Introduction to Occam's Razor
+Occam's razor is a principle originating from a 13th-century British Scholastic. It posits that "one should not Advocate or generate a plurality without necessity," meaning one should always choose the simpler explanation for a phenomenon over a more complex one if it offers no additional insight <a class="yt-timestamp" data-t="01:09:36">[01:09:36]</a>. This principle, also known as model selection or regularization, has been a foundational assumption in mathematical and physical sciences, leading to "beautiful simple things" like the Dirac theory of relativistic quantum mechanics <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>.
+
+## The Challenge for Complex Systems
+While Occam's razor applies well to the physical sciences, it faces challenges in the [[complexity_theory_and_systems_thinking | complex world]]. [[complexity_theory_and_systems_thinking | Complex systems]] are characterized by "horrible High Dimensions" which often seem irreducible, making the direct application of Occam's razor difficult <a class="yt-timestamp" data-t="01:10:41">[01:10:41]</a>.
+
+## Defining Meta Occam
+The concept of Meta Occam addresses this challenge by shifting the focus of parsimony. Instead of the parsimony being in the *final object* or outcome, it is found in the *process* that generates the object <a class="yt-timestamp" data-t="01:11:19">[01:11:19]</a>.
+
+Key characteristics of Meta Occam:
+*   **Parsimony in Process, Not Object** The physical sciences produce parsimonious theories of minimal objects (e.g., the atom). In contrast, domains governed by Meta Occam have parsimonious theories or processes for generating complicated objects <a class="yt-timestamp" data-t="01:11:30">[01:11:30]</a>.
+*   **Arbitrary Complexity from Simple Principles** This concept applies to sciences where simple processes can elaborate over time to produce arbitrarily complex objects <a class="yt-timestamp" data-t="01:13:47">[01:13:47]</a>. For example, the theory of evolution by natural selection can be expressed in a few sentences, yet it explains objects as diverse and complex as a worm or an elephant without becoming a more complicated theory itself <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>.
+*   **Examples of Processes** Reinforcement learning and evolution by natural selection are mathematically equivalent processes that exemplify Meta Occam, as they generate complex outcomes from simple, selective feedback mechanisms <a class="yt-timestamp" data-t="01:11:39">[01:11:39]</a>.
+*   **Contrast with Physics** Physical theory often has "infinite models for minimal objects" (e.g., multiverses to explain fine-tuned constants), whereas Meta Occam approaches utilize parsimonious processes to create non-parsimonious, complex objects <a class="yt-timestamp" data-t="01:13:54">[01:13:54]</a>, <a class="yt-timestamp" data-t="01:14:50">[01:14:50]</a>.
+
+## Relevance to Complex Systems and Machine Learning
+[[complexity_theory_and_systems_thinking | Complexity science]] can be understood as "the search for Meta Occam processes" <a class="yt-timestamp" data-t="01:15:08">[01:15:08]</a>. It seeks relatively simple rule systems that possess open-ended properties, much like alphabets are simple but open-ended in their composability and evolution <a class="yt-timestamp" data-t="01:15:18">[01:15:18]</a>.
+
+This concept is particularly relevant in the context of machine learning and large language models:
+*   **Generating Theories**: Training a deep neural network, while generating a massive, highly dimensional model (e.g., GPT-4 with 1.3 trillion parameters), is seen as creating a "theory" of the phenomenon it models <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>, <a class="yt-timestamp" data-t="00:50:27">[00:50:27]</a>. These models are essentially "rule systems" or "complex systems" themselves <a class="yt-timestamp" data-t="00:50:33">[00:50:33]</a>.
+*   **Extracting Parsimony**: Scientists are exploring methods to use these massive, data-driven models as "pre-processors for parsimonious science." This involves training a neural network as a "surrogate for reality," then sparsifying it (removing connections, quantizing data) and applying symbolic regression (a genetic algorithm-based process) to infer algebraic formulas that encode the underlying regularities <a class="yt-timestamp" data-t="02:50">[02:50]</a>, <a class="yt-timestamp" data-t="02:52">[02:52]</a>, <a class="yt-timestamp" data-t="02:53">[02:53]</a>. This approach allows for a "new way of doing science" by having a large engine for prediction and a smaller, more specified model for understanding <a class="yt-timestamp" data-t="03:06">[03:06]</a>.
+*   **High Dimensionality and Optimization**: The effectiveness of gradient descent in modern deep learning models, despite their non-differentiable elements, is attributed to the "miracle of ultra high dimensionality." In such vast spaces, there is almost always a dimension pointing "down" for optimization, ameliorating the local minima problem that previously hindered adaptive computation <a class="yt-timestamp" data-t="01:03:03">[01:03:03]</a>.
+*   **The Future of Science**: If large language models are the "steam engines of the 21st century," then Meta Occam suggests seeking the "statistical mechanics" that emerge from their study <a class="yt-timestamp" data-t="01:46:16">[01:46:16]</a>. This could lead to new principles for explaining adaptive reality and effective laws for the [[complexity_science_and_societal_systems | complex systems]] we study, such as a truly working economic theory <a class="yt-timestamp" data-t="01:47:07">[01:47:07]</a>. This new paradigm of science seeks to derive new principles from complex phenomena that were previously intractable due to data processing limitations <a class="yt-timestamp" data-t="01:47:09">[01:47:09]</a>, <a class="yt-timestamp" data-t="01:53:55">[01:53:55]</a>.

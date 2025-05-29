@@ -1,0 +1,61 @@
+---
+title: Bret Weinsteins views on US politics
+videoId: BqxzuHzBoTA
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+Bret Weinstein is an evolutionary theorist, a professor in exile, and co-host of the Darkhorse podcast. He is also a co-founder of the Rescue the Republic rally and a member of the startup crew of the Game B movement <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+## General Political Stance
+
+Weinstein generally avoids "team red, team blue politics" <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. Historically, he has voted against both major party candidates in almost every election of his adult life, with the exception of Barack Obama's first election <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>. His general principle is to "vote in the future election" by doing something "off-label" if the candidate one believes in is not running <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. For example, in the last election, he wrote in Tulsi Gabbard <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+
+## The [[2024_us_election_and_voter_perspectives | 2024 US Election]]
+
+Weinstein believes the [[2024_us_election_and_voter_perspectives | 2024 US election]] is different and that the usual "off-label" voting principle cannot apply <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. He states that if "we do not regain control of the ship of State in this election, it's not clear to me that we will have another meaningful election" <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
+
+### Critique of the "Blue Team" (Democratic Party)
+
+Weinstein expresses significant [[concerns_about_political_candidates_and_parties | concerns about the Democratic Party]]:
+*   **Election Integrity** He claims there is "rampant cheating across the board by one side" and "election interference" <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>. He highlights the "degree of illegitimate stagecraft around Kamla Harris" as being "through the roof," indicating the "willingness of the blue team to break the values and rules surrounding consent of the Govern in order to retain power" <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+*   **Kamala Harris's Candidacy** He believes another four years of the "blue team" is "likely to be fatal to our capacity to steer the ship at all" <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+    *   He cites Seymour Hersh's claim that Kamala Harris used the 25th Amendment as a threat to remove Joe Biden from the presidential race <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
+    *   He argues that the nation is "taking Global risks without a commander-in-chief who is someone we can call onto the carpet and hold responsible" <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
+    *   He finds Harris "unqualified" and that she "disqualified herself by wielding the 25th Amendment as a threat... and then not exercising it on behalf of the American people" <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>.
+    *   He suggests the early June debate for Joe Biden was a "setup" orchestrated by "the people who managed Joe Biden" because they knew he couldn't handle a contentious debate <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. The failure was meant to "wake them up" to his "decrepitness" <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>.
+    *   He notes that the Democratic Party is a "racket" and the idea of "letting the Democratic Rank and file choose their nominee is preposterous" <a class="yt-timestamp" data-t="00:15:23">[00:15:23]</a>.
+    *   He asserts that the Democratic Party has "driven all the likable decent people out of the party" <a class="yt-timestamp" data-t="00:15:45">[00:15:45]</a>.
+    *   He describes Kamala Harris as a "terrible standin" and a "lightweight" <a class="yt-timestamp" data-t="00:14:44">[00:14:44]</a>, stating that "nobody likes her" and she gives off a "vibe that gives many of us the Willies" <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>. He attributes her perceived advantages to being "phenotypically attracted female and some version of not white," which he finds "frightening to say the least" as criteria for electing a leader <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>.
+*   **Cultural and Social Issues:**
+    *   He notes a trend in the Democratic Party that suggests "desperation," such as Kamala Harris appearing on the Howard Stern Show, and Barack Obama's increased public presence <a class="yt-timestamp" data-t="00:13:58">[00:13:58]</a>.
+    *   He sees a long trajectory involving feminism affecting the Democratic Party, leading to an "overthrow of masculinity" <a class="yt-timestamp" data-t="00:18:42">[00:18:42]</a>. He calls the synonymizing of masculinity with "toxic masculinity" a "mistake" that resulted in an "incoherently feminine quadrant of the electorate which lives in the Democratic part party" <a class="yt-timestamp" data-t="00:20:03">[00:20:03]</a>.
+    *   He believes men voting for the "blue team" are "falling down on their obligations as men" to be "protectors" and "tell you what you need to know" <a class="yt-timestamp" data-t="00:21:22">[00:21:22]</a>. He suggests that the Democratic Party is seeing "defections from men who have had enough" <a class="yt-timestamp" data-t="00:22:30">[00:22:30]</a>.
+    *   He views the "regime" or "blue church" (referencing Jim Rut's term) as "so fundamentally anti-American both in terms of culture and in terms of its antipathy for the structure of checks and balances" that "every patriotic American is obligated to vote against The Blue Team" <a class="yt-timestamp" data-t="00:31:39">[00:31:39]</a>.
+*   **Energy Policy:** He argues that Democratic energy policy is "fiscally irresponsible" due to demands for an "impossible" energy transition that will be "profoundly negative" for the economy <a class="yt-timestamp" data-t="00:46:16">[00:46:16]</a>.
+*   **COVID-19 Response:** He states that the "blue banner" will not allow for getting to the bottom of what took place during COVID-19, which he sees as crucial for understanding "the failure of the governmental institutions the non-governmental organizations the academy the scientific journals journalism and the censorship industrial complex" <a class="yt-timestamp" data-t="00:41:14">[00:41:14]</a>.
+*   **Ukraine:** He blames "nuclear belligerence towards Russia and the debacle in Ukraine" squarely on the "blue team's doorstep" <a class="yt-timestamp" data-t="00:43:36">[00:43:36]</a>.
+*   **Carrington Event Preparedness:** He criticizes the "blue team" for acting "in the most insane way possible" by sending the US stockpile of spare electrical transformers to Ukraine, which are critical for defending against a Carrington event <a class="yt-timestamp" data-t="00:54:34">[00:54:34]</a>.
+
+### Perspective on the "Red Team" (Republican Party) and Donald Trump
+
+Weinstein argues that the "unity movement that is currently Gathering under the red banner is not the Republican party" <a class="yt-timestamp" data-t="00:29:24">[00:29:24]</a>.
+*   **Trump's Impact on the GOP:** He states that Donald Trump "defeated the duopoly" and "singlehandedly decapitated the Republican party and took it over" <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>, leading to a "wholesale turnover in the constituency of the GOP" <a class="yt-timestamp" data-t="00:32:30">[00:32:30]</a>. This includes a "massive influx of rank and file working class people" who were "politically homeless" after being "Cut Loose by the Democrats" <a class="yt-timestamp" data-t="00:32:45">[00:32:45]</a>.
+*   **Trump's Personality:** When Jim Rut criticizes Trump's narcissism, Weinstein offers a counter-argument:
+    *   A narcissist who desires "adulation" and lives in "perilous times" could "get that adulation by serving the interests of the American people" and "might be a good Steward" <a class="yt-timestamp" data-t="00:59:11">[00:59:11]</a>.
+    *   He believes Trump is "interested in how history will record him" and wants to be "remembered as a great president" <a class="yt-timestamp" data-t="01:00:54">[01:00:54]</a>.
+    *   He argues that Trump's willingness to share the stage with Bobby Kennedy (a "charismatic articulate highly intelligent famous liberal") suggests "either Trump has grown in ways that you and I might not expect or that he has characteristics that we don't see because we're Downstream of a propaganda campaign that has obscured them" <a class="yt-timestamp" data-t="01:03:51">[01:03:51]</a>.
+    *   He proposes that if Trump "brings in all of the highly competent courageous patriotic people seats them in these positions and delights in the reflected Glory of him being a great leader," this would be a desirable outcome <a class="yt-timestamp" data-t="01:05:08">[01:05:08]</a>.
+*   **Policy Positions:**
+    *   He believes Trump is "essentially certain to once again remove us from the World Health Organization," which he considers a "slam dunk sufficient argument to vote red and not blue" <a class="yt-timestamp" data-t="00:40:31">[00:40:31]</a>.
+    *   He points to Trump's "partnering with Bobby Kennedy on make America healthy again" as suggesting the possibility of "getting to the bottom of what took place during Co," which is crucial for understanding systemic failures <a class="yt-timestamp" data-t="00:41:05">[00:41:05]</a>.
+    *   He believes there is a "strong likelihood that the fervor for cutting off the genitals and drugging healthy young people would radically be reduced under a trump Administration" <a class="yt-timestamp" data-t="01:04:11">[01:04:11]</a>.
+
+### Broader Societal and Existential Concerns
+
+*   **Religion and Values:** Weinstein acknowledges that while he is a materialist and evolutionary biologist, he has observed that there is a "bias in courage towards those who have a religious worldview" <a class="yt-timestamp" data-t="00:35:31">[00:35:31]</a>. He notes that "religious people" have, on average, "resisted the temptations best" under the "assault of crass decadent late stage financialized capitalism" <a class="yt-timestamp" data-t="00:36:33">[00:36:33]</a>. He finds it significant that materialists are now observing the "religious capacity to organize a community to face down evil" <a class="yt-timestamp" data-t="00:37:35">[00:37:35]</a>.
+*   **Existential Threats:**
+    *   **Climate Change:** He states that concerns about global warming are "overblown in one Regard" because the academic discipline is structured such that "anybody who finds that things are less serious than we thought is not going to survive" <a class="yt-timestamp" data-t="00:49:01">[00:49:01]</a>. He also highlights that both sides ignore "solar forcing," which he argues "dwarfs the capacity of humans to influence climate Dynamics" <a class="yt-timestamp" data-t="00:49:41">[00:49:41]</a>.
+    *   **Geomagnetic Excursion/Carrington Event:** He emphasizes the "rapidly weakening magnetic field on the earth," which paints a "very dire picture that in my opinion dwarfs any threat from global warming" <a class="yt-timestamp" data-t="00:50:19">[00:50:19]</a>. He notes that the risk of a Carrington event is "going up spectacularly" due to the sun's active mode and the Earth's decreasing magnetic field <a class="yt-timestamp" data-t="00:51:17">[00:51:17]</a>. He is deeply frustrated that "very basic steps necessary to immunize the grids of the world" against such an event are not being taken <a class="yt-timestamp" data-t="00:53:21">[00:53:21]</a>.
+
+Weinstein concludes that, given the various [[concerns_about_political_candidates_and_parties | concerns about political candidates and parties]] and existential threats, he doesn't understand how any informed person could contemplate supporting the "blue team," which he sees as a "threat to the fairest safest most productive system the world has ever known" <a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a>. He believes that "something new is gathering under the red banner and it is not even defined yet but it has major advantages over anything that might happen under the blue teams Banner" <a class="yt-timestamp" data-t="00:40:14">[00:40:14]</a>.

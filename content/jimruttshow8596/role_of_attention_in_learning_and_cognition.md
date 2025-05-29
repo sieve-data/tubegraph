@@ -1,0 +1,33 @@
+---
+title: Role of Attention in Learning and Cognition
+videoId: hhxxQc2vldE
+---
+
+From: [[jimruttshow8596]] <br/> 
+
+## Mind, Consciousness, and Attention
+Attention plays a crucial role in the emergence of mind and consciousness. The core feature of consciousness is the ability to remember what was paid attention to <a class="yt-timestamp" data-t="00:18:33">[00:18:33]</a>. If an individual does not remember paying attention to something, they are not conscious of it in hindsight <a class="yt-timestamp" data-t="00:18:36">[00:18:36]</a>. This implies that conscious information needs to be integrated into a common protocol for later access, suggesting a localized integration of previously distributed information in the brain <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>.
+
+The concept of attention is gaining prominence in [[role_of_cognitive_science_in_education | machine learning]] paradigms <a class="yt-timestamp" data-t="00:19:05">[00:19:05]</a>. While not identical, the "attention" mechanisms in new neural network architectures are analogous to human mental attentional learning <a class="yt-timestamp" data-t="00:19:21">[00:19:21]</a>.
+
+## Attention and Learning Efficiency
+Human and animal learning differs significantly from current artificial neural networks, particularly in efficiency. Humans can learn remarkably fast if they can pay attention <a class="yt-timestamp" data-t="00:22:15">[00:22:15]</a>. The challenge lies in learning *how* to pay attention in the right way <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>. An example is a tennis coach who can teach someone to play decently within half an hour by precisely directing the subject's attention to the critical aspects of their behavior, leading to quick updates in performance <a class="yt-timestamp" data-t="00:22:24">[00:22:24]</a>. Without knowing what to pay attention to, a system must "brute force" the problem, which is a very wasteful approach <a class="yt-timestamp" data-t="00:22:53">[00:22:53]</a>.
+
+From a [[the_concept_of_relevance_realization_in_cognitive_science | data compression]] perspective, human minds identify structure over entire sentences, unlike simpler statistical models that might lose predictive power due to intervening words <a class="yt-timestamp" data-t="00:24:42">[00:24:42]</a>. Human learning, akin to curriculum learning, starts with short, simple sentences for children to maintain focus <a class="yt-timestamp" data-t="00:25:01">[00:25:01]</a>.
+
+The human attentional algorithm is described as a "hack" to overcome the combinatorial explosion of options in high-dimensional problems that organisms face <a class="yt-timestamp" data-t="00:34:28">[00:34:28]</a>.
+
+## Attention in GPT-3 and Future Systems
+GPT-3, based on the transformer algorithm, made significant strides in addressing challenges in language processing by making statistics over all parts in a working memory window and finding relationships <a class="yt-timestamp" data-t="00:26:10">[00:26:10]</a>. However, it still has limitations:
+*   **Fixed Working Memory Window:** GPT-3 has a fixed working memory window of 2048 adjacent tokens, meaning it cannot comprehend large images, video, or relate early parts of a book to later parts; it can only keep about two pages in memory at a time <a class="yt-timestamp" data-t="00:26:21">[00:26:21]</a>. Humans, by contrast, can construct their working memory contents with far more degrees of freedom, even if their working memory might be smaller in raw capacity <a class="yt-timestamp" data-t="01:19:01">[01:19:01]</a>. This limitation leads to "massive retrograde amnesia" for the model <a class="yt-timestamp" data-t="01:16:39">[01:16:39]</a>.
+*   **Online Learning:** GPT-3 is an offline learning system, meaning it stops learning after its training phase (e.g., October 2019 data) <a class="yt-timestamp" data-t="01:19:14">[01:19:14]</a>. A truly human-like agent needs to constantly learn and track reality in real-time <a class="yt-timestamp" data-t="01:19:39">[01:19:39]</a>.
+*   **Relevance Realization:** GPT-3 does not inherently care about [[relevance_realization_and_cognitive_science | relevance]] <a class="yt-timestamp" data-t="01:20:05">[01:20:05]</a>. Its "relevance sensation" is derived from the fact that humans only write down things that are relevant to them <a class="yt-timestamp" data-t="01:20:08">[01:20:08]</a>. For a system interacting with the world and processing rich sensory data, a motivational system is needed to focus on the most promising parts of the model <a class="yt-timestamp" data-t="01:20:46">[01:20:46]</a>. This ability to assign [[role_of_emotions_and_longterm_memory_in_ai_and_human_cognition | relevance]] to learning and meta-learning is crucial <a class="yt-timestamp" data-t="01:21:01">[01:21:01]</a>.
+
+Future advancements in artificial intelligence and cognitive science will likely focus on:
+1.  **Larger and Dynamic Attentional Windows:** Extending attention to actively change and construct working memory contexts, allowing for dynamic contextualization and rewriting of information <a class="yt-timestamp" data-t="01:17:40">[01:17:40]</a> <a class="yt-timestamp" data-t="01:17:47">[01:17:47]</a>.
+2.  **Multi-modal Representation:** Moving from language-centric models to multi-modal representations that are agnostic to the type of information they represent <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>.
+
+## Attention and Perception
+[[role_of_memory_and_perception_in_cognition | Perception]] is more akin to deep learning systems than to linguistic or symbolic systems <a class="yt-timestamp" data-t="01:08:08">[01:08:08]</a>. The "realness" of reality, an experience of a conscious agent, is a model property—a label the mind attaches to parameter dimensions <a class="yt-timestamp" data-t="01:09:12">[01:09:12]</a>. This label signifies that the experienced patterns are predictive of future sensory input <a class="yt-timestamp" data-t="01:09:40">[01:09:40]</a>.
+
+To have an enlightened relationship with reality, it's necessary to realize that perception, including the perception of self and the relationship to the universe, is a representation <a class="yt-timestamp" data-t="01:11:42">[01:11:42]</a>. Individuals need to pay attention to this representation and to attention itself, understanding how their attentional system constructs reality <a class="yt-timestamp" data-t="01:12:02">[01:12:02]</a>. Most people don't do this unless their attention processes stop working well, or they face an existential crisis <a class="yt-timestamp" data-t="01:12:23">[01:12:23]</a>.
