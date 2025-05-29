@@ -210,6 +210,7 @@ async function setupCreateGraphButton() {
     }
 
     try {
+      createButton.disabled = true
       await createTubegraphPages(username, minVidDuration, sortBy)
 
       // Success feedback
