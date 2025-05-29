@@ -1,0 +1,31 @@
+---
+title: Technical Challenges in Live Streaming
+videoId: Q-VFY8lvTYk
+---
+
+From: [[rakazonegaming]] <br/> 
+
+Live streaming presents a variety of [[technical issues during streaming | technical issues]], ranging from equipment malfunctions to internet connectivity problems. During a watch-along event, participants encountered several such [[challenges and experiences in live streaming | challenges]], impacting the smooth delivery of their content.
+
+## Display and Projector Issues
+The primary display, a projector, caused recurring problems. Participants struggled to get the projector's settings right, with light levels being a consistent concern <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. There were attempts to adjust main lights and kitchen lights to improve visibility on screen <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>, <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>. The projector also caused a "technical difficulty" related to light <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>, needing constant adjustment and turning on/off <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. Specific projector parts caused trouble, as one participant noted, "Here, this one is giving me trouble" <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+
+The projector eventually stopped working entirely, requiring a restart <a class="yt-timestamp" data-t="01:34:35">[01:34:35]</a>, <a class="yt-timestamp" data-t="01:36:49">[01:36:49]</a>, <a class="yt-timestamp" data-t="01:37:35">[01:37:35]</a>. This problem recurred due to overheating <a class="yt-timestamp" data-t="01:44:09">[01:44:09]</a>, <a class="yt-timestamp" data-t="02:18:47">[02:18:47]</a>, necessitating a new plan to prevent it from going into standby <a class="yt-timestamp" data-t="02:19:53">[02:19:53]</a>. The display also suffered from "screen tearing" <a class="yt-timestamp" data-t="02:54:40">[02:54:40]</a>.
+
+## Audio Challenges
+Several audio-related [[technical issues during streaming | technical issues]] arose. The projector's sound interfered with the main audio, leading to a discussion on how to increase the commentator's voice <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>, <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>. There were instances of double audio <a class="yt-timestamp" data-t="02:08:06">[02:08:06]</a>, <a class="yt-timestamp" data-t="02:08:29">[02:08:29]</a>, and the overall sound quality from the projector was considered "very precious" <a class="yt-timestamp" data-t="01:31:17">[01:31:17]</a>. Participants had to adjust volume frequently and sometimes mute the commentary to prevent issues <a class="yt-timestamp" data-t="02:44:17">[02:44:17]</a>.
+
+## Stream Delay and Connectivity
+A persistent challenge was the stream's delay. Viewers noted being "one ball behind" <a class="yt-timestamp" data-t="01:48:46">[01:48:46]</a>, and at one point, the delay was estimated at "about 10 seconds per second" <a class="yt-timestamp" data-t="02:13:17">[02:13:17]</a>, a significant lag. Attempts to refresh the stream by going back and re-entering did not resolve the problem <a class="yt-timestamp" data-t="02:20:03">[02:20:03]</a>, <a class="yt-timestamp" data-t="02:20:09">[02:20:09]</a>. Viewers indicated the stream was "three balls behind" <a class="yt-timestamp" data-t="02:27:27">[02:27:27]</a>.
+
+Connectivity issues, particularly with WiFi, contributed to the delay. A Hotstar connection via Firestick had resolution problems and was described as "dirty" <a class="yt-timestamp" data-t="03:38:44">[03:38:44]</a>, <a class="yt-timestamp" data-t="03:38:50">[03:38:50]</a>. The team attempted to use a website for live scores to bypass the delay, but it required a VPN <a class="yt-timestamp" data-t="02:23:49">[02:23:49]</a>, <a class="yt-timestamp" data-t="02:27:23">[02:27:23]</a>, which also posed difficulties. Casting from a laptop was suggested to reduce delay and internet costs <a class="yt-timestamp" data-t="02:57:52">[02:57:52]</a>, but Hotstar detected and blocked screencasting <a class="yt-timestamp" data-t="03:08:40">[03:08:40]</a>, <a class="yt-timestamp" data-t="03:08:48">[03:08:48]</a>. The WiFi itself was noted as "not working" <a class="yt-timestamp" data-t="03:59:42">[03:59:42]</a>.
+
+## Camera and Lighting Adjustments
+The camera's focus and overall lighting required constant manual intervention. Adjustments were needed to prevent the camera from being "completely closed up" <a class="yt-timestamp" data-t="01:42:19">[01:42:19]</a>. During the stream, participants had to adjust the camera focus manually, often needing to physically move or hold the camera <a class="yt-timestamp" data-t="01:46:39">[01:46:39]</a>, <a class="yt-timestamp" data-t="01:46:42">[01:46:42]</a>, <a class="yt-timestamp" data-t="02:26:20">[02:26:20]</a>. This highlighted a need for an automated focus <a class="yt-timestamp" data-t="02:44:41">[02:44:41]</a>.
+
+## Other Technical Problems
+*   **Remote control issues**: Remotes for various devices, including the projector, stopped working <a class="yt-timestamp" data-t="03:38:15">[03:38:15]</a>, <a class="yt-timestamp" data-t="03:43:32">[03:43:32]</a>, leading to frustration and physical attempts to fix them <a class="yt-timestamp" data-t="02:07:05">[02:07:05]</a>.
+*   **Device overheating**: Besides the projector, other devices also showed signs of overheating, contributing to functionality issues <a class="yt-timestamp" data-t="03:10:41">[03:10:41]</a>.
+*   **Scoreboard updates**: The score on the stream was not updating regularly, causing confusion among viewers and requiring manual checks <a class="yt-timestamp" data-t="02:45:46">[02:45:46]</a>, <a class="yt-timestamp" data-t="03:03:09">[03:03:09]</a>.
+
+Overall, the session was fraught with various [[technical and game play challenges in live streaming | technical challenges]], from managing projector display and audio to battling persistent stream delays and unreliable internet connections, underscoring the complexities involved in live streaming.

@@ -1,0 +1,31 @@
+---
+title: Gaming Community Interactions
+videoId: RuW-hyLTP5M
+---
+
+From: [[rakazonegaming]] <br/> 
+
+Live streams serve as a platform for direct [[Gaming community interactions and conversations | community interaction]] <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. Streamers frequently welcome viewers, acknowledging them by name as they join the broadcast <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>, <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
+
+## Engagement and Support
+*   **Viewer Greetings**: Streamers greet individual viewers by name, such as "Herona," "Viraj," "Ajit," "Raj," "Harry," "Arpit," "Arpan," "Girish," "CJ Button," and "Manny" <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>, <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>, <a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>.
+*   **Donations and Gifting**: The community engages through gifting, as evidenced by "20 Gifted Brothers" at the start of a stream <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. Viewers may also "spam" the chat to contribute monetary gifts <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>. This form of [[Online Gaming Community Engagement | community engagement]] is a direct way for viewers to support the streamer.
+*   **Chat Interaction**: The chat feature is an active part of [[social_interactions_in_gaming | social interactions in gaming]], with comments ranging from requests for game-related information to general conversations <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>, <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>, <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>. Viewers ask questions like "What is the score brother?" <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a> and discuss game-related issues such as "why is the server not working" <a class="yt-timestamp" data-t="00:20:11">[00:20:11]</a>.
+
+## Gaming Community Structures
+*   **Role-Playing (RP) Servers**: The transcript mentions specific RP servers like "Galaxy Town," "Business Town Role Play," "SV RP," and "Modern Town Role Play" <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>, <a class="yt-timestamp" data-t="00:15:05">[00:15:05]</a>, <a class="yt-timestamp" data-t="00:15:11">[00:15:11]</a>, <a class="yt-timestamp" data-t="00:15:14">[00:15:14]</a>. These servers are distinct [[gaming_communities_and_interactions | gaming communities]] with their own rules, roles (e.g., manager), and established histories, some existing for five years or more <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>, <a class="yt-timestamp" data-t="00:15:15">[00:15:15]</a>.
+*   **Teams and Alliances**: Within these servers, players form "RP teams" <a class="yt-timestamp" data-t="00:14:46">[00:14:46]</a> and "gangs" <a class="yt-timestamp" data-t="01:53:35">[01:53:35]</a>. There are also discussions about "big groups of people" in the context of the game <a class="yt-timestamp" data-t="01:39:11">[01:39:11]</a>.
+*   **In-Game Roles**: Beyond general players, there are specialized roles such as "gun dealer" in the server <a class="yt-timestamp" data-t="02:26:16">[02:26:16]</a> and positions like "manager" within an RP server <a class="yt-timestamp" data-t="01:43:54">[01:43:54]</a>.
+
+## Collaboration and Conflict
+*   **Negotiation**: Players engage in complex negotiations within the game, particularly during scenarios like hostage-taking, discussing terms for police vehicle delivery and officer release <a class="yt-timestamp" data-t="03:12:23">[03:12:23]</a>, <a class="yt-timestamp" data-t="03:12:39">[03:12:39]</a>, <a class="yt-timestamp" data-t="03:13:31">[03:13:31]</a>, <a class="yt-timestamp" data-t="03:13:47">[03:13:47]</a>, <a class="yt-timestamp" data-t="03:13:51">[03:13:51]</a>.
+*   **Cooperation**: Players coordinate actions, such as one player starting a car while another fills fuel <a class="yt-timestamp" data-t="02:26:02">[02:26:02]</a>.
+*   **Support and Rescue**: Players help each other in game, offering to "help you escape" <a class="yt-timestamp" data-t="02:08:53">[02:08:53]</a> and even attempting to "save him" from jail <a class="yt-timestamp" data-t="01:12:07">[01:12:07]</a>, <a class="yt-timestamp" data-t="01:12:11">[01:12:11]</a>.
+*   **In-game Criminality**: The gaming environment allows for activities like "stealing alcohol" <a class="yt-timestamp" data-t="02:05:33">[02:05:33]</a>, "robbing Liqueur Store" <a class="yt-timestamp" data-t="00:56:49">[00:56:49]</a>, and "chain looting" <a class="yt-timestamp" data-t="02:35:12">[02:35:12]</a>, <a class="yt-timestamp" data-t="02:35:16">[02:35:16]</a>. These actions often lead to conflict with other players or in-game police.
+*   **Rule Breaking and Bans**: Actions like getting "banned from FM" (presumably a game platform or server) are mentioned, highlighting the existence of rules and consequences within the [[gaming_culture_and_community_engagement | gaming community]] <a class="yt-timestamp" data-t="02:32:17">[02:32:17]</a>, <a class="yt-timestamp" data-t="02:32:20">[02:32:20]</a>.
+*   **Prison and Bans**: Players can be "caught" and sent to "jail" in the game <a class="yt-timestamp" data-t="03:31:02">[03:31:02]</a>, <a class="yt-timestamp" data-t="03:31:08">[03:31:08]</a>, and "banned" for various infractions <a class="yt-timestamp" data-t="03:52:35">[03:52:35]</a>.
+*   **Hierarchies**: There's a clear understanding of status, with some players being described as "senior" and others as "lowest rank" <a class="yt-timestamp" data-t="03:36:40">[03:36:40]</a>.
+
+## Communication
+*   **In-game Communication**: Players use in-game phones to call each other <a class="yt-timestamp" data-t="00:49:54">[00:49:54]</a>, <a class="yt-timestamp" data-t="03:32:21">[03:32:21]</a>, and there are mentions of "radio" for communication <a class="yt-timestamp" data-t="03:02:21">[03:02:21]</a>.
+*   **Negotiation Tactics**: During in-game scenarios, players try to "negotiate terms" <a class="yt-timestamp" data-t="03:19:18">[03:19:18]</a>. They also use threats like "I'll shoot you" to influence outcomes <a class="yt-timestamp" data-t="03:40:41">[03:40:41]</a>.
