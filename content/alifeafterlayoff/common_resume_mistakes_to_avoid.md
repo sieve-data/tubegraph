@@ -5,60 +5,74 @@ videoId: omoHx8hDl-g
 
 From: [[alifeafterlayoff]] <br/> 
 
-A resume serves as the crucial first impression on recruiters and hiring teams, particularly in a tight labor market <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. To stand out from the crowd, it's essential to have a clean, concise, and well-crafted resume <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. As a corporate recruiter, certain [[common_mistakes_in_resume_design_and_content | common mistakes]] are frequently observed on resumes that can be easily avoided <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+When writing a resume, it's crucial to know what to include and what to leave off to stand out in a tight labor market <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. A resume serves as the first impression made on recruiters and hiring teams, so it needs to be clean, concise, and well-crafted <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Recruiters frequently observe [[common_mistakes_in_resume_writing | consistent errors]] on resumes that can be easily avoided <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
 
-## Design and Visual Elements
+## Graphics and Colors
 
-*   **Bright Graphics or Colors**
-    Avoid using bright graphics or excessive colors <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. While some color for a job title is acceptable (e.g., as taught in "Resume Rocket Fuel"), stick to blues, blacks, or possibly magenta to keep it simple <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. The goal is to keep the resume clean and concise, without distracting the interviewer from assessing your background <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
-*   **Graphs, Charts, or Clip Art**
-    Your resume is a professional document, and including graphs, charts, or clip art can lead to judgment, even if you think it's "cute" or shows personality <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
-    *   **Exception**: If you are in a creative field, such as an art director or graphic designer, these elements might be expected to demonstrate your creativity <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. For most other careers, keep it simple and safe <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
-*   **Infographics for Skill Proficiency**
-    Do not use "cute infographics" (e.g., skill bars) to demonstrate proficiency <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. Indicating a low proficiency level (e.g., 3 out of 10) can make you appear weak in a potentially important skill and might eliminate you from consideration <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. It's better to allow skill assessment during the interview process <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. However, never lie or misrepresent skills you don't possess <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
-*   **Columns**
-    Avoid using multiple columns in your resume <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. Applicant Tracking Systems (ATS) typically parse left to right, and while many are sophisticated, they can struggle with columns <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. This can lead to some skills being invisible to the system, making you undiscoverable in searches <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
+Avoid including bright graphics or colors in your resume <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. While some color for a job title is acceptable (e.g., blues, blacks, or possibly magenta), the goal is to keep the resume clean and concise to avoid distracting the interviewer from assessing your background <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+
+### Graphs, Charts, and Clip Art
+Your resume is a professional document, and including too many colorful elements like graphs, charts, or clip art can lead to negative judgments, even if you think they show personality <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. The only exception is if you are in a creative field, such as an art director or graphic designer, where demonstrating creativity is expected <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. For most other career types, keep it simple and safe <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>.
+
+### Infographics for Skill Proficiency
+Using infographics to demonstrate skill proficiency, such as progress bars, can be detrimental <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. If an infographic indicates you are only 3 out of 10 on a skill, it signals to recruiters and hiring managers that you are weak in an area that might be important <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. It's better to let employers assess your skills during the [[common_job_interview_mistakes | interview process]] <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. While aiming to be vague in this regard, never lie or misrepresent skills you don't possess <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
+
+## Formatting Issues
+
+### Columns
+Avoid using multiple columns on your resume <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. Applicant Tracking Systems (ATS) typically parse text from left to right, and while many are sophisticated, they can struggle with columns <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. An ATS might only read the first column, making other listed skills invisible <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. This can prevent you from being discovered if a recruiter searches for keywords in the ATS later <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. Always aim to be as discoverable as possible <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
 
 ## Personal Information
 
-*   **Photographs**
-    In the U.S. and North America, avoid including a photograph of yourself <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Recruiters often assume a resume with a photo is not from the U.S. <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>. If you are applying from a country where photos are customary, follow local tradition <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
-*   **Personal Identifiers**
-    Do not include personal identifiers such as gender, race, creed, color, or marital status <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. This includes details like being "married with two kids" <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. The goal is to eliminate any non-work-related decisions being made about you and prevent unscrupulous employers from discriminating against you <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>. This advice is primarily U.S. specific; if your country's traditions differ, follow those, but generally avoid unnecessary personal details <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
-*   **Unprofessional Email Addresses**
-    Ensure your email address is professional <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. If you have an old, "colorful" email from college (e.g., "partyboy28@yahoo.com"), create a new, neutral Gmail account with your full name <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>. Avoid nicknames or anything that could lead to judgment <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
-*   **Full Addresses**
-    Full street addresses are no longer needed on a resume <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>. Only the city and state are required <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>. Providing a full address can lead to discrimination based on commute distance <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. For remote work, city and state are still important for time zones and company taxation issues <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+### Photographs
+In the U.S. and North America, avoid including photographs of yourself on your resume <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Recruiters often assume a resume with a photo is not from the U.S. <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>. The primary reason is to prevent potential judgment <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. However, if you are applying in a country where photographs are customary, follow local traditions <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
 
-## Work History and Education
+### Personal Identifiers
+Do not include personal identifiers such as gender, race, creed, color, or marital status <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. For instance, stating you are "married with two kids" can be used against you by unscrupulous employers <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. Omit anything that pertains to a protected class to avoid discrimination <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>. This tip is primarily U.S. specific; if your country's customs differ, follow them, but generally, avoid more detail than necessary regarding non-work-related information <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
 
-*   **Irrelevant or Old Work History**
-    Avoid including work history that is not relevant or is older than 10 years <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. Employers generally focus on the last 10 years, and often more recently (last five years) <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. Older skills may no longer be relevant <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>, unless the job specifically requires extensive experience (e.g., 20+ years for a senior executive role) <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>.
-*   **Industry-Specific Jargon or Acronyms**
-    Do not use industry-specific jargon, job titles, or acronyms that are not universally understood outside of your company <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. This can hinder discoverability and make it harder for hiring managers to understand your experience <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
-*   **Excessive Education Details**
-    Provide too much detail about your degrees or courses <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>. Simply list the university and degree type; you don't need to specify the exact school within a university (e.g., "Penn State," not "Schmiel Business School") <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>. Minor degrees are good keywords but don't require extensive detail about courses studied <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
-*   **Grade Point Average (GPA)**
-    If you are more than three years out of college, do not include your GPA <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>. Employers generally don't care about it at this stage of your career <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. If you're entry-level or have less than three years of experience, keep it, but plan to remove it later <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>.
-*   **Internships (After 3+ Years)**
-    If you've been in the workforce for more than three years, remove internships from your resume <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>. They are not typically counted as total years of experience <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
+### Unprofessional Email Addresses
+Steer clear of unprofessional email addresses like "iusuallyparty@yahoo.com" or "partyboy28@yahoo.com" <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. Create a professional Gmail account using your full name or a neutral moniker to avoid giving hiring managers any reason to judge or make assumptions about you <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>.
 
-## Other Unnecessary Information
+### Full Addresses
+Full street addresses are no longer needed on a resume; only your city and state are necessary <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>. Employers don't need to know your exact residence or send you mail <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. Providing a full address can lead to discrimination based on commute distance <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. For remote work, recruiters still need to know your city and state for time zone considerations and taxation issues, especially if applying from another country <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
 
-*   **References or "References Available Upon Request"**
-    Do not list actual references or state "references available upon request" <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>. Recruiters will ask for references if needed <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>, and many employers are moving away from routinely checking references <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>.
-*   **Salary History or Expected Compensation**
-    Never include previous salary history or expected compensation on your resume <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>. Disclosing this information can lock you into a lower salary or open you up to a lowball offer, even if the employer has a healthier pay range <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>. This will be discussed in the first-round interview <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>.
+## Content and Experience
 
-## Skills and Generic Phrases
+### Irrelevant or Old Work History
+Avoid including work history that is not relevant or is over 10 years old <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. Employers generally focus on your last 10 years of experience, and more recently, the last five years <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. Skills from jobs older than 10 years are often no longer relevant due to market changes <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>. Unless a job specifically requires 20 years of experience (rare, except for senior executive roles), a long, elaborate work history is unnecessary <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>.
 
-*   **Universal or Generic Skills**
-    Avoid listing universal or generic skills like Microsoft Word, Excel, or PowerPoint <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>. These are generally assumed for professional roles <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>. Instead, allow the recruiter to ask about these if necessary <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>. Leadership and organization skills should be demonstrated through bullet points in your experience section, rather than listed as standalone skills <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>.
-*   **Generic or Cliche Jargon**
-    Do not use generic or cliche jargon such as "team player" or "fast learner" <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>. These phrases add no value as nobody would admit to not being a team player or quick learner <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>. Save resume space for more impactful content <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>.
+### Industry-Specific Jargon and Acronyms
+Do not include industry-specific jargon, job titles unique to your company, or acronyms that would not be understood outside your organization <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. Such specific language is not helpful for discoverability and forces hiring managers to work harder to understand your background <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
 
-## Improving Your Resume
+### Excessive Education Detail
+Limit the detail about your degrees <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. You don't need to specify the exact college or school within a university (e.g., "Penn State's business school" can just be "Penn State") <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. Employers don't heavily weight minor degrees, so don't waste resume space detailing all minor courses, unless you are entry-level and need those keywords <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
 
-If you are applying for jobs but not getting responses, especially if you are reasonably qualified, it is often a resume issue <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>. Your resume needs to be well-optimized for recruitment teams <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>. Resources like "Resume Rocket Fuel" can teach you how to write a resume that stands out to recruiters and secures a first-round interview <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
+### Grade Point Average (GPA)
+If you are more than three years out of college, remove your GPA from your resume <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. Employers generally do not care about it or ask about it <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. If you are entry-level or have less than three years of total work experience, keep your GPA, but plan to remove it later <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>.
 
-For broader career development, consider courses like "The Ultimate Job Seeker Bootcamp" for interview preparation <a class="yt-timestamp" data-t="00:12:59">[00:12:59]</a> and "Unlocking LinkedIn" for leveraging LinkedIn to network and attract recruiters <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>. Private one-on-one coaching sessions are also available for personalized assistance <a class="yt-timestamp" data-t="00:13:59">[00:13:59]</a>.
+### Internships (After 3 Years)
+If you've been in the workforce for longer than three years, remove internships from your resume <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>. They are not typically counted as total years of experience and become "vanity stats" <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
+
+### References
+Do not list actual references or state "references available upon request" <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>. Recruiters will ask for references if needed, and checking them is becoming less common <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
+
+### Salary History or Expectations
+Never include previous salary history or expected compensation on your resume <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>. Disclosing this information can lock you into a lower salary and open you up to lowball offers if the employer has a healthier range <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. Salary discussions will occur during the first-round interview <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>.
+
+## Skills and Language
+
+### Universal or Generic Skills
+Avoid wasting valuable resume space on universal or generic skills like Microsoft Word, Excel, or PowerPoint <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>. These are industry standard and assumed for most professional jobs <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. Similarly, do not list "leadership" or "organization skills"; instead, demonstrate these competencies through bullet points in your experience section <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>.
+
+### Cliche Jargon
+Eliminate generic, fluffy, or cliche jargon like "I'm a team player" or "I'm a fast learner" <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>. Such phrases add no value to your resume, as no one would admit to not possessing these qualities <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>. Save your resume real estate for more substantive information <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>.
+
+## Further Resources
+
+If you are applying for jobs but not getting responses, and you are reasonably qualified, it is often a resume issue <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>. Ensuring your resume is optimized for recruitment teams is essential <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>.
+
+For more career-related content from a corporate recruiter:
+*   **Resume Rocket Fuel**: A course teaching step-by-step resume writing for recruiters <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>.
+*   **The Ultimate Job Seeker Bootcamp**: Guides through the [[common_interview_mistakes_to_avoid | interview process]] with tips, tools, and techniques for landing job offers and salary negotiation <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>.
+*   **Unlocking [[common_linkedin_profile_mistakes | LinkedIn]]**: Teaches how to set up your [[common_linkedin_profile_mistakes | LinkedIn]] profile and use the tool for networking to find the best positions <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>.
+*   **Private One-on-One Coaching**: Available for personalized help <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>.

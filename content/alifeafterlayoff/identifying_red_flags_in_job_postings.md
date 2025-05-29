@@ -1,69 +1,53 @@
 ---
 title: Identifying red flags in job postings
-videoId: rptv_H06RJU
+videoId: IuFZhbSNFD8
 ---
 
 From: [[alifeafterlayoff]] <br/> 
 
-When searching for new opportunities, it's crucial to know how to [[how_to_identify_low_quality_job_postings | spot a poor quality employer]] or [[common_red_flags_in_job_advertisements | red flags]] in [[how_to_identify_low_quality_job_postings | job postings]]. Identifying these [[common_red_flags_in_job_advertisements | red flags]] helps job seekers focus on the best quality opportunities available and avoid potentially predatory or undesirable situations <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
+Browsing job postings can sometimes lead down a "Reddit rabbit hole" of "cringe-worthy opportunities" offered by "poor quality employers" <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. These opportunities, often described as predatory, exploit job seekers unless candidates refuse to accept their terms <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Arming oneself with the tools to effectively sell skills in an interview can help avoid settling for such "utter garbage" <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
 
-## Cringeworthy Job Postings and Employer Behavior
+[[Red flags in job advertisements | Red flags in job advertisements]] are clear indicators that a job or company might be problematic. Employers often offer "extreme incentives" like inflated salaries to compensate for a poor work environment <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. Accepting these "garbage opportunities" only enables employers to continue offering them <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>.
 
-Several examples highlight common pitfalls in job advertisements and employer conduct:
+## Common Red Flags in Job Postings
 
-### Public Blaming and Toxic Culture
-A sign posted at a gas station, informing customers that it was "closed due to Alex walking out," illustrates a highly toxic workplace environment <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. This public shaming of an employee suggests that the leadership team, not Alex, was likely the problem, indicative of a [[common_red_flags_in_job_advertisements | red flag]] employer <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
+### Unpaid or Underpaid Positions
 
-### Unrealistic Pay Structures and Lack of Recognition
-A note from an educational establishment detailed a pay scale for instructional aides that included a "loyalty component" <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
-*   **Minimal Raises**: Starting at $12/hour, employees would only receive a 50-cent raise after five years, and a total of a $3/hour raise after 30 years <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
-*   **Below Inflation**: A 50-cent raise over five years falls significantly short of keeping pace with inflation, which could lead to a decrease in purchasing power <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
-*   **Master's Degree Discretion**: A higher rate for master's degrees is considered at the superintendent's discretion, suggesting even advanced education may not guarantee adequate compensation <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>.
+Many [[red_flags_in_job_advertisements | red flags]] are related to compensation:
 
-This pay structure demonstrates a lack of respect for employee time and dedication, failing to retain talent <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>.
+*   **Temporary Non-Paid Positions**: Some postings, like for a "Live Show Programming Assistant" in New York City, explicitly state they are "temporary non-paid positions," asking applicants not to apply if they "cannot work without pay" <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. This is often illegal, as the Department of Labor has regulations for internships that dictate when a company can avoid paying, usually requiring the work to be related to coursework <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+*   **High Requirements for Low Pay**: Another [[identifying_low_quality_job_postings | low quality job posting]] may demand a Bachelor's degree in Computer Science, five years of development experience, and five total years of IT experience for a wage as low as $11 an hour <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. This translates to roughly $22,880 annually, which is significantly less than the $75,000-$80,000 minimum expected for an entry-level software developer <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>. This is considered "absolute garbage" <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>.
+*   **Unstable Compensation**: Some startups openly admit they are "not for people who need a stable and well-paying job" and confess to being in the "same situation" financially <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>. They may state that "salaries will be slightly below market rates" in the beginning, promising an "amazing dinner" after their first fundraising round instead of fair compensation <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>. This suggests working "80-90 hour weeks" for significantly less than market value <a class="yt-timestamp" data-t="00:18:04">[00:18:04]</a>.
 
-### Expecting Free Labor (Equity Only)
-A startup named Salty Llama sought a Shopify Web Development Manager for seven hours a week in exchange for equity, with no salary or freelancer fee <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
-*   **No Immediate Compensation**: The company planned to use money for marketing and scaling, not salaries <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>.
-*   **Vague Future Promises**: It dangled a "carrot" of a potential full-time position and "generous salary" in the future, which is an "empty promise" <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
-*   **Low Equity & High Risk**: The offer of up to 0.25% equity in a pre-IPO startup with an uncertain future means the chances of actual compensation are almost nil <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
+### Absurd and Excessive Application Processes
 
-Such postings effectively ask individuals to work for free, which is often illegal <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>.
+Companies sometimes expect candidates to "jump through" an obnoxious amount of "hoops" <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>:
 
-### Poor Recruitment Practices
+*   **Multi-Hour Assessments without Interview Guarantee**: One personal experience involved a company aggressively pursuing a candidate with a high salary offer (a [[red_flags_in_job_opportunities | warning sign]] in itself) but requiring three to five hours of assessments with no guarantee of even a preliminary phone interview with a recruiter <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+*   **Overly Complex Pre-Interview Tasks**: An "Agile Coach" position required numerous steps before a first call <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>:
+    *   Sending a resume in MS Word format via email <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
+    *   Sending a LinkedIn connection request to the company <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>.
+    *   Reading a specific LinkedIn article about their market differentiator <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>.
+    *   Watching a particular video <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>.
+    *   Ensuring Zoom video functionality <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>.
+    *   Matching availability with the recruiting director <a class="yt-timestamp" data-t="00:11:49">[00:11:49]</a>.
+    *   Sending a text message to the recruiting director's personal phone number confirming Zoom functionality <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
+    *   Reviewing an entire list of interview tips <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>. This entire process is deemed a "clown show" and completely contradictory to the "agile" methodology <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>.
+*   **Unpaid Projects for Interviews**: For a rotational management program, candidates were asked to create a project, which takes an average of "six to eight hours," with only 15 minutes for presentation and 15 minutes for Q&A <a class="yt-timestamp" data-t="00:13:33">[00:13:33]</a>. This is an "entire work day" of unpaid effort with no guarantee of advancing, making it a "huge waste of everybody's time" for those not selected <a class="yt-timestamp" data-t="00:14:03">[00:14:03]</a>. [[Red flags in job interviews | Self-respecting employers]] generally do not ask for this, except possibly for very senior roles where presenting a business idea is critical <a class="yt-timestamp" data-t="00:14:20">[00:14:20]</a>.
 
-#### Geographic Spamming and Generic Postings
-The software company Canon A Call posted the same "Talent Selection Lead" position across multiple geographic locations (e.g., San Diego, Charlotte) <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>.
-*   **Reasons for Spamming**: This usually indicates poor candidate flow or an inability to fill an opening, suggesting underlying issues with the company or the role itself <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
-*   **Unusual Title**: The title "Talent Selection Lead" itself is an unusual vernacular for a recruiter or talent acquisition role, raising suspicion about the company's legitimacy <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>.
+### Toxic Work Environment and Lack of Stability
 
-Furthermore, clicking into one of their [[how_to_identify_low_quality_job_postings | job postings]] revealed a template with placeholders like "Job Summary," "Title must appear," and "Five to ten bullet points key responsibilities" <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. This demonstrates extreme laziness or an error in their Applicant Tracking System (ATS), leading to zero applicant flow on platforms like LinkedIn <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>.
+Job postings can reveal [[toxic_workplace_signs_in_job_postings | toxic workplace signs]]:
 
-#### Excessively Rigorous and Irrelevant [[red_flags_during_job_interviews | Interview Process]]
-Canon A Call's [[red_flags_during_job_interviews | interview process]] for a Senior Linux Support Engineer was incredibly thorough to the point of being "ridiculous" <a class="yt-timestamp" data-t="00:17:08">[00:17:08]</a>:
-1.  **Initial Application Review** (completed) <a class="yt-timestamp" data-t="00:15:14">[00:15:14]</a>
-2.  **Written Interview**: A prepared statement covering interests, experience, and ambition <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>, acting as a self-screening tool for the recruiter <a class="yt-timestamp" data-t="00:18:14">[00:18:14]</a>.
-3.  **Standardized Personality and Aptitude Tests** (more than one) <a class="yt-timestamp" data-t="00:15:31">[00:15:31]</a>.
-4.  **Introductory Interview** <a class="yt-timestamp" data-t="00:15:55">[00:15:55]</a>.
-5.  **Technical Take-Home Test** <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>.
-6.  **Technical Interview** <a class="yt-timestamp" data-t="00:16:42">[00:16:42]</a>.
-7.  **Leadership Interviews** <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>.
+*   **Excessive Surveillance and Productivity Tracking**: A remote position included "tracking software," "productivity tracking," and "keyword tracking software" that monitored keystrokes and took camera pictures every 30 seconds <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>. Failure to maintain productivity or walking away from the computer could result in a call from a "productivity coach" to review "wasted time" <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. This environment was pitched as a "great opportunity" for productivity and happiness, but it eliminates basic human needs like bathroom breaks <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
+*   **Disclaimers about Instability and Lack of Support**: Some startups explicitly state the opportunity "is not for people who need a stable and well-paying job" <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a> and warn that "early stage startups have shifting priorities" <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>. They may even imply they cannot provide mentorship or direction, as management "probably don't know themselves" <a class="yt-timestamp" data-t="00:17:07">[00:17:07]</a>.
 
-This multi-stage [[identifying_red_flags_in_job_interviews | interview process]] disrespects a candidate's time, potentially requiring hours of uncompensated effort without a guarantee of speaking to a hiring manager <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>. The written interview's questions were particularly bizarre for a senior role, focusing on high school and university interests and achievements instead of professional experience <a class="yt-timestamp" data-t="00:19:19">[00:19:19]</a>.
+### Insulting Application Requirements
 
-### Unpaid Internships with Unprofessional Language
-Turf Envy, a small company, posted an unpaid Human Resources Specialist virtual internship on LinkedIn <a class="yt-timestamp" data-t="00:22:40">[00:22:40]</a>.
-*   **"Invest in Your Future"**: The posting framed working for free as an investment in one's future, which is exploitative <a class="yt-timestamp" data-t="00:23:08">[00:23:08]</a>.
-*   **Unprofessional Tone**: It used cringe-worthy analogies like "superheroes," "ninja unicorn," and "zany team" <a class="yt-timestamp" data-t="00:24:30">[00:24:30]</a>, suggesting a lack of seriousness and professionalism in their approach.
-*   **No Career Advancement**: An unpaid internship for "grunt work" at a tiny company is unlikely to significantly advance a career <a class="yt-timestamp" data-t="00:23:31">[00:23:31]</a>. Job seekers should have self-respect and get paid for their services <a class="yt-timestamp" data-t="00:25:47">[00:25:47]</a>.
+Some [[absurd_job_requirements_and_red_flags | absurd job requirements]] are simply insulting:
 
-### Recruiters Who Enjoy Rejecting Candidates
-A recruiter's social media post stating that she gets "the most joy out of rejecting candidates" is a significant [[common_red_flags_in_job_advertisements | red flag]] <a class="yt-timestamp" data-t="00:26:34">[00:26:34]</a>. This displays a "narcissistic, psychopathic mentality" <a class="yt-timestamp" data-t="00:26:56">[00:26:56]</a>. A professional recruiter's goal is to place the right people in the right roles, and delivering bad news is simply "part of the job," not a source of enjoyment <a class="yt-timestamp" data-t="00:28:05">[00:28:05]</a>.
+*   **Detailed Essays for Low-Level Jobs**: A part-time, contract legal administrative assistant position paying $15-18 an hour required a cover letter of no more than two paragraphs <a class="yt-timestamp" data-t="00:19:34">[00:19:34]</a>. The first paragraph needed to explain the three most important qualities for the role and why, and the second why the candidate applied <a class="yt-timestamp" data-t="00:19:43">[00:19:43]</a>. The closing sentence had to be: "I have read the instructions contained in the job posting and have followed the instructions" <a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>, implying the applicant is "too stupid" to follow instructions <a class="yt-timestamp" data-t="00:20:25">[00:20:25]</a>.
 
-## Conclusion
-Identifying these [[common_red_flags_in_job_advertisements | red flags in job opportunities]] is essential for a productive job search <a class="yt-timestamp" data-t="00:29:17">[00:29:17]</a>. Always prioritize companies that:
-*   Value and respect your time <a class="yt-timestamp" data-t="00:29:33">[00:29:33]</a>.
-*   Treat you properly <a class="yt-timestamp" data-t="00:29:30">[00:29:30]</a>.
-*   Pay you properly <a class="yt-timestamp" data-t="00:29:35">[00:29:35]</a>.
+## Strategies to Avoid Fake or Low-Quality Postings
 
-By avoiding [[how_to_identify_low_quality_job_postings | low-quality employers]], job seekers can focus their efforts on opportunities that lead to competitive compensation and career growth <a class="yt-timestamp" data-t="00:29:56">[00:29:56]</a>.
+If you encounter these [[strategies_to_identify_and_avoid_fake_job_postings | red flags]], it's crucial to exercise "self-respect" and avoid applying <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. Accepting such offers only enables bad employers <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>. For further guidance on how to avoid settling for such jobs, resources like lifeafterlayoff.com are available <a class="yt-timestamp" data-t="00:40:40">[00:40:40]</a>.

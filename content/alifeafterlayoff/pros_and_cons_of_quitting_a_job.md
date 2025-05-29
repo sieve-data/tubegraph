@@ -5,38 +5,39 @@ videoId: bMxzIPwmT7I
 
 From: [[alifeafterlayoff]] <br/> 
 
-Quitting your job means leaving on your own terms, which is often seen as the ultimate act of a "free agent" in your career <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. This proactive step allows you to take ownership of your career trajectory <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
+Quitting your job is a proactive way to leave an organization on your own terms <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. It signifies taking ownership of your career and acting as a "free agent" <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>. This approach allows you to recognize your career trajectory and proactively make a move that will better yourself, especially if you've been with a company for a long time and the market has passed you by <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
 
 ## Advantages of Quitting
 
-*   **Control and Proactivity**
-    *   You are leaving on your own terms, choosing carefully when to exit <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
-    *   Making a proactive move can lead to bettering yourself, especially if you've been with a company for a long time and the market has passed you by <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
-*   **Financial & Career Growth**
-    *   Quitting often allows you to secure a new job beforehand, ensuring you are fully prepared for the transition <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
-    *   You are likely to see bigger pay increases by testing the open market outside your current employer <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
-*   **Job Search & Interview Benefits**
-    *   It is much easier to secure another job when you are currently employed, as there is less pressure to take the first offer <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
-    *   Being employed during interviews leads to less stress, allowing you to relax, sell yourself more easily, and have greater negotiating power <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
-    *   You have the initiative to spin the reason for your departure positively in an interview, as you likely have a strong reason for quitting <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>. Quitting generally provides the best strength in an interview setting <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>.
+*   **On Your Own Terms**
+    Quitting allows you to pick and choose when to exit the business <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. You likely already have a job lined up and are fully prepared for the transition <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. This proactive approach is a significant advantage, particularly when compared to [[advantages_and_disadvantages_of_being_laid_off | being laid off]] <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+*   **Career Advancement & Compensation**
+    By testing the open market, you are likely to see bigger pay increases than by staying with your current employer <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+*   **Job Search Advantage**
+    It is generally easier to get another job when you are currently employed <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. There's less pressure, allowing you to relax, sell yourself more easily, and have greater negotiating power since you don't "need" the job <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+*   **Interview Narrative Control**
+    When you quit, you have the initiative to [[discussing_reasons_for_leaving_current_job | spin the reason why you left]] in an interview <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>. Employers generally prefer candidates who quit for good reasons rather than those who left due to being upset or in a tough situation <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>.
 *   **Potential for Rehire**
-    *   If you [[proper_way_to_quit_a_job | properly quit your job]] without burning bridges, you may be eligible for rehire, which can serve as a valuable safety net if a new job doesn't work out or the economy worsens <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
+    If you follow the [[steps_to_quitting_a_job_properly | proper steps to quitting]], you may be eligible for rehire, which can be a valuable safety net if things don't work out with a new employer or during an economic downturn <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
 
 ## Disadvantages of Quitting
 
-*   **Burning Bridges**
-    *   If you fail to [[proper_way_to_quit_a_job | properly quit your job]] and burn bridges, you may not be eligible for rehire at your old company <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
-    *   You will also likely not receive positive references <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>.
-*   **Financial Implications**
-    *   You will not receive any severance package <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
-    *   Voluntarily leaving your job generally makes you ineligible for unemployment benefits <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>. However, there might be exceptions if you left due to a toxic work environment <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
-*   **Uncertainty of New Employment**
-    *   There's a risk that the "grass isn't greener," meaning the new employer might be similar to the old one <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
-    *   Your previous job might be filled, making a return impossible if the new situation doesn't work out <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+*   **Loss of Benefits & Income**
+    When you voluntarily leave your job, you will not receive a severance package <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>. Additionally, you are generally not eligible to collect unemployment benefits, unless it was due to a toxic work environment and it was your only option <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+*   **Uncertainty**
+    There's a risk that the "grass isn't actually greener" at the new employer, or that market conditions change and your previous job is already filled <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+*   **Rehire Ineligibility (if not done properly)**
+    If you "burn bridges" when quitting, you may not be eligible for rehire at your former company <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+*   **Missed Opportunities**
+    If you quit just before a company announces a major layoff, you might miss out on a significant severance package you would have been eligible for <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>.
 
-### Scenarios Where Quitting Might Not Be Ideal
+## When Quitting Might Not Be the Best Option
 
-*   **Facing Performance Issues:** If you are being documented for poor performance, are on a performance improvement plan (PIP), and the issues are strictly performance-related (e.g., not a good fit for the job), it might be better to be terminated. Being fired for performance reasons can still make you eligible for unemployment and potentially a continuation of benefits, without a real advantage to quitting <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>.
-*   **Anticipating Layoffs:** If you know your industry or the broader market is softening and your company hasn't announced layoffs yet, it may be beneficial to wait before quitting. Quitting just before a major layoff could mean missing out on a potentially hefty severance package you would have received if laid off <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>.
+In specific scenarios, quitting might not be the most advantageous choice:
 
-Ultimately, while quitting offers control and a stronger position in future job searches, employers still expect good reasons for your departure <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>.
+*   **Poor Performance Leading to Termination**
+    If you have a track record of poor performance and are on a Performance Improvement Plan (PIP) or being documented by HR, it might be better to let your employment be terminated (fired for performance) <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>. In such cases, you could still collect unemployment benefits and possibly have a continuation of benefits, whereas quitting would make you ineligible for these <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. You wouldn't get a positive reference either way, and wouldn't be eligible for rehire by quitting in this situation <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>.
+*   **Anticipated Layoffs**
+    If you anticipate a layoff in your industry or at your company, it may be beneficial to wait before quitting. Quitting just weeks before a mass layoff could mean missing out on a severance package <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
+
+Overall, [[comparing_options_for_leaving_a_job | quitting your job]] is generally the most preferable option when you are ready to make a proactive career move and have a new opportunity lined up <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>.

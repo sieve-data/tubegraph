@@ -1,22 +1,27 @@
 ---
 title: Significance of asking questions in an interview
-videoId: yj1RO_EO_B8
+videoId: 5GOJ-H6qmYY
 ---
 
 From: [[alifeafterlayoff]] <br/> 
 
-During a job interview, it is crucial to ask questions when given the opportunity. This action, or lack thereof, can significantly impact the interviewer's perception of a candidate <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+Candidates who fail to ask questions during an interview are often seen as disengaged, which is a common mistake that can hinder a job offer <a class="yt-timestamp" data-t="08:04:00">[08:04:00]</a>. This is especially true if a candidate has gone through multiple rounds and met various key stakeholders without asking about the role's contribution to the department or specific objectives <a class="yt-timestamp" data-t="08:08:00">[08:08:00]</a>.
 
-## Interviewer Expectations
+## Why Asking Questions is Crucial
 
-At the conclusion of an interview, recruiters and hiring managers anticipate that candidates will have a list of well-thought-out, intelligent questions prepared <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. These questions should pertain to the company culture and how the candidate might integrate into the organization <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>. This expectation aligns with the broader [[role_of_interview_skills_in_getting_hired | interview skills]] needed to secure a position <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+*   **Demonstrates Engagement**: Asking questions shows that the candidate is engaged in the process <a class="yt-timestamp" data-t="08:24:00">[08:24:00]</a>.
+*   **Two-Way Street**: Interviews are a two-way street; candidates should be interviewing the company as much as the company is interviewing them <a class="yt-timestamp" data-t="08:27:00">[08:27:00]</a>.
+*   **Shows Passion and Selectivity**: If a candidate is passionate about their career, they should be selective about the roles they accept <a class="yt-timestamp" data-t="08:31:00">[08:31:00]</a>.
+*   **Impresses Hiring Teams**: Asking good questions impresses the hiring teams, who will perceive the candidate as a potentially very engaged employee <a class="yt-timestamp" data-t="08:50:00">[08:50:00]</a>.
 
-## Consequences of Not Asking Questions
+## What Kinds of Questions to Ask
 
-Not asking any questions at the end of an interview can lead to several negative perceptions:
-*   **Lack of Interest** Not engaging by asking questions can convey a general disinterest in the role or the company <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>.
-*   **Lack of Awareness** It may also suggest that the candidate lacks awareness about whether they would be a suitable fit for the organization <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>.
+Candidates should arrive at the interview prepared with good questions <a class="yt-timestamp" data-t="08:40:00">[08:40:00]</a>.
+It is advisable to ask:
+*   Questions about how the role contributes to the success of the department <a class="yt-timestamp" data-t="08:17:00">[08:17:00]</a>.
+*   Specifics regarding the objectives to be worked on <a class="yt-timestamp" data-t="08:20:00">[08:20:00]</a>.
+*   Questions about the company culture to ensure it's the right fit at all levels <a class="yt-timestamp" data-t="08:47:00">[08:47:00]</a>.
 
-## Preparation is Key
+## Corrective Action
 
-To make a favorable impression, candidates should [[preparing_questions_for_interviewers | come prepared with a list of questions]] <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>. This demonstrates engagement in the hiring process <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a> and highlights the candidate's proactive approach. Candidates should focus on [[formulating_questions_to_ask_interviewers | intelligent questions]] that explore the company's operations, products, divisions, competitors, and new technologies <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. They should also seek to understand the company's core values to ensure cultural alignment <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
+If you've made the mistake of not asking questions in the past, reflect on it and develop ways to change going forward <a class="yt-timestamp" data-t="08:57:00">[08:57:00]</a>. This tweak, combined with strategy and planning, can help in [[improving_job_interview_performance | landing your dream job]] <a class="yt-timestamp" data-t="09:07:00">[09:07:00]</a>.

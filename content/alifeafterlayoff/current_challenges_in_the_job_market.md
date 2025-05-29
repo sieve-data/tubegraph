@@ -1,50 +1,35 @@
 ---
 title: Current challenges in the job market
-videoId: of-ml8nddRw
+videoId: 0CntjMtvuco
 ---
 
 From: [[alifeafterlayoff]] <br/> 
 
-The [[current_job_market_challenges | current job market]] reflects a significant shift from the peak conditions observed in 2021-2022, with economic data suggesting an end to the "good times" for job seekers <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. This shift has led to new [[challenges_in_the_modern_workplace | challenges]] for individuals relying on strategies like job hopping <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+The [[current_job_market_challenges | current job market]] presents significant [[challenges_in_the_current_job_market | challenges]] for job seekers, leading to widespread frustration as many apply repeatedly without securing interviews or job offers <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
 
-## Defining Job Hopping
+## Key Challenges
 
-Job hopping involves moving from job to job in a relatively short period, typically at the same career level without definitive progression <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. Employers often view job hopping negatively, as it can indicate an employee may not stay long <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. Historically, employees have used it successfully to advance through salary bands, particularly early in their careers <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. However, there's a point of diminishing returns where salary growth slows considerably after entry-level positions, making past job hopping potentially problematic <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
+### Economic Downturn and Layoffs
+The job market in 2023 feels similar to the difficult period of 2020, marked by numerous layoffs, especially in the tech sector <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. This has resulted in a substantial increase in the supply of job seekers, but a low demand for new hires <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. Organizations are "leaning out their workforces" <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>, reducing open positions, and implementing hiring freezes <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
 
-## The Job Market Peak (2021-2022)
+### Unfilled or Deceptive Job Postings
+Job seekers often encounter postings that are misleading or have no real intention of being filled:
+*   **Stale Postings** – Some hiring managers post roles and then neglect them, letting them "collect dust" with no activity, despite receiving applications <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+*   **Pipelining Requisitions** – These postings are designed solely to "collect applications for the future" and build a candidate database, without any immediate intention of hiring for the role <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>. Recruiters view these as deceptive as they raise job seekers' hopes unnecessarily, especially in a difficult market <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. While relatively rare, they do contribute to the difficulty in finding a job <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>.
+*   **Internal Hires** – Many jobs are posted externally due to company policy but are ultimately filled by an internal applicant, often without the external candidates being aware <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
 
-The strategy of job hopping gained significant popularity among employees entering the workforce in the last four to five years, especially during the height of the job market for job seekers around 2021-2022 <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. After massive layoffs in 2020, the job market rebounded strongly <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+### Quirky or Impossible Requirements
+Hiring managers can be overly selective or have very specific, sometimes unusual, requirements for a role. They might insist on experience from a particular industry or even a specific company, significantly narrowing the candidate pool <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. Job descriptions might also list "impossible requirements" <a class="yt-timestamp" data-t="00:08:19">[00:08:19]</a>, such as highly niche skill sets or obscure software proficiency, making it difficult for many qualified individuals to apply <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>.
 
-*   **Tech Sector Impact** During this period, particularly in the tech market, roles like software developers became extremely in-demand <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. Companies like Apple, Meta, Amazon, and Google drove the market with bidding wars, leading to substantial salary increases <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>. It was common for individuals to secure 10-20% salary bumps without staying long in roles <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. This trend, initially confined to tech, began to spread to other industries <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
-*   **The Great Resignation** The hot job market contributed to phenomena like the "Great Resignation," where people felt confident leaving careers for something different, knowing they could find another job quickly, often at a higher rate of pay <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
+### Stiff Competition
+The influx of laid-off workers, particularly from large tech companies (nearly 90,000 big tech workers laid off since January 1st as of early February 2023) <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>, has drastically increased competition for open positions <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. Job postings can receive hundreds or even thousands of applications within a day <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. For highly desirable roles (remote, high-paying, reputable companies), standing out is crucial <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
 
-## Deterioration of the Job Market (2023-2024)
+### Misleading Job Growth Numbers
+While the US economy might report significant job additions (e.g., over 500,000 in January) <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>, these numbers can be misleading. Many of these jobs are undesirable, and the average job seeker, especially those recently laid off, may not feel the impact of this reported growth <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>.
 
-The favorable market conditions began to decline in 2023, continuing into 2024 <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>. Currently, job seekers find it particularly difficult to secure well-paying jobs <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
-
-*   **Employer Tightening** Since 2023, employers have actively worked to bring wages down <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>. This has resulted in a market with more lowball offers and overall downward movement in wages <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>.
-*   **Layoffs and Restructuring** The effort by companies to "reset the market" often leads to layoffs and restructuring <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>. This has led to a significant increase in job applications, creating a challenging environment <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
-*   **Supply and Demand** With a surplus of applicants, companies have more options, allowing them to be more selective and offer lower pay, adhering to the law of supply and demand <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
-
-### Wage Growth Data
-
-Data from the Federal Reserve Bank of Atlanta, reported by the Wall Street Journal, illustrates the changing trends in wage growth for job stayers versus job switchers <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
-
-*   **Pre-2020 Trends** Wage growth saw a steady increase over time, following a dip in the mid-2000s <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
-*   **Peak of Job Switching Advantage (Late 2022)** In January 2022, job switchers saw an average wage increase of 4.7% compared to 3.7% for those who stayed in their roles <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>. Even with these increases, inflation (6-8% at the time) meant that even job switchers were falling behind <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. The peak incentive for job switching was around October-November 2022, where job switchers saw an average increase of 7.7%, over 2% higher than those who stayed <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. Companies were struggling to compete with open market offers <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>.
-*   **Current Trend (2023-2024)** By May 2023, the wage market began to shift, with decreases for job switchers and subsequently for internal retention <a class="yt-timestamp" data-t="00:08:59">[00:08:59]</a>. As of January 2025 (projected), the incentive for leaving jobs is minimal: 4.8% to switch versus 4.6% to stay <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>.
-
-## Employer Strategies in the Current Market
-
-The current mantra for companies is to retain desired staff, become more efficient (potentially through AI utilization), and undergo "right-sizing," which often means downsizing <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>.
-
-## [[strategies_for_job_seekers_in_a_challenging_market | Strategies for Job Seekers in a Challenging Market]]
-
-Job hopping is no longer as lucrative or viable a strategy as it was previously <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. To move through salary bands with more authority without relying on job hopping, individuals should focus on:
-*   **Establishing a long-term career strategy** <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>
-*   **Taking calculated steps in their career** <a class="yt-timestamp" data-t="00:12:16">[00:12:16]</a>
-*   **Building in-demand skills** <a class="yt-timestamp" data-t="00:12:19">[00:12:19]</a>
-*   **Effectively marketing skills** through resumes, interviewing, and networking <a class="yt-timestamp" data-t="00:12:25">[00:12:25]</a>
-*   **Establishing a clear personal brand** <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>
-
-These actions help propel a career forward beyond small incremental steps or staying at the same level through job hops <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
+## Navigating the Challenges
+To navigate these [[strategies_for_navigating_a_difficult_job_market | challenges]], job seekers should:
+*   **Optimize their resume** to ensure it stands out and passes initial screening by Applicant Tracking Systems (ATS), increasing the chance of a first-round interview <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>.
+*   **Excel in interviews** as opportunities are limited <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>.
+*   **Prioritize discoverability by recruiters** by building strong networks on platforms like LinkedIn and making their profiles easily searchable <a class="yt-timestamp" data-t="00:12:10">[00:12:10]</a>. This allows recruiters to find and reach out to them directly, which is often easier than competing against thousands of applicants for a single job <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>.
+*   Explore the "hidden job market" through networking <a class="yt-timestamp" data-t="00:12:44">[00:12:44]</a>.

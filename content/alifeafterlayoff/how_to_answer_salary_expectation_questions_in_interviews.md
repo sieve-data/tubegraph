@@ -5,69 +5,80 @@ videoId: 7Jv-DQasAAE
 
 From: [[alifeafterlayoff]] <br/> 
 
-When a recruiter asks about your [[salary_expectations_and_negotiation_in_interviews | salary expectation]] in an interview, the way you respond is crucial <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. An incorrect answer can lead to rejection, as can avoiding the question entirely <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This guide provides insight into [[strategies_for_handling_salary_discussions_during_job_interviews | how to answer the salary expectation question]] effectively <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+The question "What's your salary expectation?" is a common and often dreaded part of the interview process <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Answering incorrectly can lead to rejection, as can avoiding the question altogether <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This article provides guidance on how to best approach and [[navigating_salary_expectations_in_interviews | navigate salary expectation questions]] in an interview <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
 
 ## Why Recruiters Ask About Salary Expectations
 
-Recruiters typically ask about [[salary_expectations_and_negotiation_in_interviews | salary expectations]] towards the end of an interview, especially for candidates they are interested in moving to the next round <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. The primary reason is to determine if your expectations align with the company's established salary band for the role <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. This information is usually included in the initial submission to the hiring manager <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+Recruiters typically ask about your salary expectations towards the end of an initial interview, especially if they are interested in moving you to the next round <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. The primary reasons include:
 
-It's generally not a trick question; recruiters genuinely want to know your [[salary_expectations and negotiation in interviews | salary expectation]] <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. The goal is to ensure that if an offer is extended, you will not only accept it but also be excited and feel satisfied with the compensation <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. Offering a salary below your expectation can lead to dissatisfaction, causing you to seek other opportunities, and employers want to avoid refilling positions shortly after hiring <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. The salary question is important for both the candidate and the employer <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+*   **Fit within Salary Band** Recruiters need to determine if your expectations fit within the established salary band for the role <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. This data is included in the initial submission to the hiring manager <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+*   **Ensuring Satisfaction** The question is not a trick <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. Recruiters genuinely want to know your expectations to ensure that if an offer is extended, you will not only accept but also be excited about the position and feel you received a good deal <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. Accepting a salary below your expectations often leads to dissatisfaction and looking for other opportunities, which means the company may have to refill the position quickly <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+*   **Mutual Benefit** The [[salary_negotiations_and_expectations | salary question]] is important for both the candidate and the employer <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. While some low-quality employers might try to lowball an offer <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>, reputable employers typically want to find a mutually agreeable compensation <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. If your realistic [[salary_negotiations_and_expectations | salary expectations]] scare them away, it's likely not an employer you'd want to work for anyway <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
 
-## Scenarios When Discussing Salary Expectations
+## Scenarios for Salary Expectations
 
 ### Your Salary Expectation is Higher Than the Range
 
-If your [[salary_expectations_and_negotiation_in_interviews | salary expectation]] is too high for the role, you risk being removed from consideration <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. However, if the difference is minor (e.g., $10,000), there might be room for [[negotiating_salary_expectations_with_employers | negotiation]] even before further interviews <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. Recruiters might propose hypothetical scenarios or different compensation packages to gauge your flexibility <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
+If your expected salary is too high for the role, you might be moved to the "no" pile <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
 
-For a significant difference (e.g., $25,000), a recruiter will likely inform you that the expectations don't align for the role <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. They might ask to keep you in mind for more enriched future roles <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+*   **Small Gap (e.g., $10,000 difference)**: There might be some negotiation even before the full interview process <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. A recruiter might offer hypothetical scenarios to gauge your flexibility or suggest a different offer structure that could still meet your needs <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
+*   **Large Gap (e.g., $25,000 difference)**: Realistically, an offer might not be feasible <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. The recruiter might indicate that expectations don't align and ask to keep you in mind for a future, more enriched role <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
+*   **Superstar Candidate**: If you are highly talented and a perfect fit, a recruiter might still send your resume to the hiring manager with your higher expectations <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>. In some cases, the hiring manager might enrich the role (e.g., make it a level 2 or 3 position) to open up wider salary ranges and accommodate a higher compensation <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. However, this is an exception, not the norm <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
 
-In rare cases, if you are a "superstar candidate," a recruiter might still submit your resume with your higher [[salary_expectations_and_negotiation_in_interviews | salary expectations]] to the hiring manager <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. The hiring manager might then consider enriching the role to a higher level (e.g., Level 2 or 3) to open up wider salary ranges and accommodate your expectations <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. This is the exception, not the norm <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. Always be honest with your expectations; attempting a "bait and switch" tactic will not work well <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+<mark style="background: #FFF3A3">**Warning:** Be honest with your expectations; trying a "bait and switch" tactic will not work well <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.</mark>
 
 ### Your Salary Expectation is Lower Than the Range
 
-When your [[salary_expectations_and_negotiation_in_interviews | salary expectation]] is lower than the company's salary band for the role, it's generally a favorable situation <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. Major corporations have defined salary bands (minimum, midpoint, max) based on local market wage surveys and internal equity <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. Internal equity ensures that individuals in similar roles within the organization are compensated relatively the same <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>.
+This is a favorable situation for both parties <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. If your compensation expectation is below the company's lowest point of the range, you will automatically be raised to that minimum <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
 
-If your compensation expectation is below the lowest point of the company's range, you will automatically be raised to that minimum point <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. This often occurs when candidates come from smaller or less reputable companies that may not pay market value, or when stepping into a next-level role with a significant salary gap <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>.
+*   **Corporate Salary Bands**: Major corporations use salary bands, which define minimum, midpoint, and maximum compensation for a role, typically based on local market wage surveys <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
+*   **Internal Equity**: Companies also consider internal equity, ensuring that individuals in similar roles within the organization are compensated relatively the same <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>. This prevents a new entry-level person from earning significantly more than experienced employees in similar roles <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>.
+*   **Common Scenarios**: This situation often occurs when a candidate comes from a less reputable or smaller company that doesn't have comparable salary bands, or when stepping into a next-level role where there's a gap from their previous salary <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>.
 
 ### Refusing to Answer the Question
 
-Ambiguity or refusing to provide a clear answer to the [[salary_expectations_and_negotiation_in_interviews | salary expectation]] question will almost always lead to rejection <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>. Recruiters will not put you through the interview process with their team if they don't know if a deal can be finalized <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>. Such evasiveness can also make recruiters suspect you are hiding something, casting doubt on your candidacy <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+Ambiguity or refusing to provide a salary expectation will almost always lead to rejection <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>. Recruiters will not put you through a full interview process without confidence that a deal can be made <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>. It can also make recruiters think you are hiding something <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
 
-## How to Prepare Your Answer
+## [[preparing_for_salary_expectation_questions | Preparing for Salary Expectation Questions]]
 
-To effectively answer the [[salary_expectations_and_negotiation_in_interviews | salary expectation]] question, you need to know three key things:
+To effectively [[negotiating_salary_expectations_with_recruiters | negotiate salary expectations]] and answer the question, you need to know three key things <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>:
 
-1.  **Average Salary Range for the Role in the Open Market** <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>: Conduct research using tools like Google, Glassdoor, or Salary.com <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>. Look at recently posted similar roles and ensure you compare salaries in your local area, as regional differences can be significant (e.g., Alabama vs. Bay Area) <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>.
-2.  **What the Company is Expecting to Pay** <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>: While not always explicitly stated, recruiters may provide hints or ranges.
-3.  **Your Absolute Bottom Line Salary Expectation** <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>: This is the minimum you are willing to accept, the point at which you would walk away from an opportunity <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>. While you don't necessarily share this number with the recruiter, you need to know it yourself <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+1.  **Average Salary Range in the Open Market**:
+    *   Research tools like Google, Glassdoor, or Salary.com <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+    *   Look at similar roles posted recently <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+    *   Be realistic and compare jobs in your local area, as salaries vary significantly by region (e.g., Alabama vs. Bay Area) <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>.
+2.  **What the Company Expects to Pay**: This is often harder to pinpoint but can be inferred from your research and direct questions.
+3.  **Your Bottom Line Salary Expectation**:
+    *   This is the absolute minimum you would accept to walk away from other opportunities <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>.
+    *   You don't necessarily share this number with the recruiter, but you must know it for yourself <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>.
 
-## [[Strategies for answering salary expectation questions | Strategies for Answering]]
+## [[strategies_for_salary_negotiation | Strategies for Salary Negotiation]]
 
-Here are a few [[strategies_for_answering_salary_expectation_questions | ways to answer]] the [[salary_expectations_and_negotiation_in_interviews | salary expectation]] question:
+Once you have your research complete, here are ways to answer [[commonly_asked_interview_questions | commonly asked interview questions]] regarding salary:
 
-### 1. Give Your Expectation Directly
+### 1. Directly State Your Expectation
 
-If you know your worth and are confident that the company's range is in the same ballpark, feel free to state your actual number <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>. Remember that this number will be used throughout the hiring process, so ensure it's reasonable and something you can live with <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>.
+If you know your worth and are confident the company is in a similar salary ballpark, you can simply state your desired number <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. Ensure this number is reasonable and something you can commit to throughout the process <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>.
 
-### 2. Frame Your Answer Based on Market Research
+### 2. Frame it with Market Research
 
-If you are concerned the company might lowball you or your expectations are significantly higher, frame your answer like this:
+If you suspect the company might offer a lowball salary, or you're worried about being significantly above their expectations, frame your answer based on market research <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>:
 
-> "From the research that I've done in the local market, similar types of roles are paying between 90 to 110 thousand. Does that align with your target?" <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>
+> "From the research that I've done in the local market, similar types of roles are paying between [lower end] to [higher end]. Does that align with your target?" <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>
 
-This approach puts the onus on the company to disclose if they are paying below market value, allowing you to decide if you still want to work for them <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>.
+This puts the onus on the company to disclose if they are paying below market value <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>, allowing you to decide if you want to proceed.
 
-### 3. Turn the Question Back to the Recruiter
+### 3. Put the Question Back on the Recruiter
 
-If you are interested in the opportunity and potentially willing to take a lower salary but want to avoid pricing yourself out, try asking the recruiter first:
+If you're concerned about pricing yourself out of an opportunity you're genuinely interested in, and might be willing to take a lower salary for, try this approach <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>:
 
-> "While I've been compensated very fairly in the past, an offer is more than just the cash compensation. I understand that companies have salary bands that they need to keep within and I respect that. Can you give me a ballpark of where the typical candidate that you're talking to is coming in, and I can tell you if that fits?" <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>
+> "While I've been compensated very fairly in the past, an offer is more than just the cash compensation. I understand that companies have salary bands that they need to keep within and I respect that. Can you give me a ballpark of where the typical candidate that you're talking to is coming in, and I can tell you if that fits?" <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>
 
-Recruiters will often share what other candidates are being compensated at <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>. If they push back and insist you answer first, still have a prepared answer, but avoid completely dodging the question <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>.
+A recruiter might respond with the compensation range they're looking at <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>. If they push back and insist you answer first, still have an answer prepared <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>.
 
-### Important Considerations
+## Key Considerations
 
-*   **Avoid Ambiguity**: Do not go through the interview process with ambiguous salary expectations, hoping to [[negotiating_salary_expectations_with_employers | negotiate]] at the offer stage <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. This often annoys hiring managers who have invested time, especially if they cannot meet your higher expectations <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>.
-*   **Don't Frustrate the Recruiter**: If you sense a recruiter is becoming frustrated with your evasiveness, simply provide an answer <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. Pushing it too far can lead to rejection <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+*   **Avoid Ambiguity**: Never try to be ambiguous or vague with your salary expectations, hoping to negotiate only at the offer stage <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. This often annoys hiring managers who have invested time in the process <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>.
+*   **Don't Push Too Hard**: If a recruiter becomes frustrated with your hedging, just provide an answer <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. Pushing too hard on this point can lead to rejection <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
 
-Landing an interview means you are already doing something right <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>. Knowing [[how_to_prepare_for_salary_discussions_in_interviews | how to prepare for salary discussions in interviews]] and how to handle the compensation question is key to securing your dream job and [[negotiating_salary_expectations_with_employers | negotiating the perfect salary]] <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.
+<mark style="background: #BBF3D6">**Tip:** Getting to the interview stage means you're doing something right <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>. Continue to refine your approach to all interview questions, including [[interview_questions_to_ask_a_hiring_manager | salary expectations]], to successfully land your dream job and negotiate a good salary <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.</mark>
