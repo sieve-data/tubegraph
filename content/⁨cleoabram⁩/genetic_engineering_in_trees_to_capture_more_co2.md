@@ -1,0 +1,46 @@
+---
+title: Genetic engineering in trees to capture more CO2
+videoId: 6OknnFuDQE8
+---
+
+From: [[⁨cleoabram⁩]] <br/> 
+
+Genetically engineered trees are being developed by researchers to capture more carbon dioxide (CO2) from the atmosphere, aiming to help slow climate change <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. These "supertrees" could strengthen one of our best allies in combating climate change <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>, <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. The broader vision behind this work is the idea that humanity may soon need to deliberately and continuously regulate the Earth's atmosphere on behalf of all living things <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>, which raises questions about how much other species should be altered to achieve this <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+
+## How "Supertrees" are Engineered
+
+Living Carbon is a company focused on [[the_potential_role_of_genetically_modified_trees_in_combating_climate_change | engineering trees]] for enhanced carbon capture <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. Their process involves incorporating new genes, often from other plants, into tree cells <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. Plant cells that successfully incorporate these new genes are grown on "selection media" to develop shoots and roots <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>, <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+
+The primary target for enhancement is the process of photosynthesis <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>. Trees naturally take in CO2, sunlight, and water to produce oxygen and sugars <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. To make a tree capture more carbon, this process needs to be more efficient <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>.
+
+A key enzyme in photosynthesis, "rubisco," sometimes picks up oxygen instead of CO2, leading to a wasteful process called "photorespiration" which releases carbon dioxide <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>, <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. By altering the expression of genes that control this process, scientists can improve photosynthetic efficiency <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+
+### The "Gene Gun"
+
+One method used to introduce new genes is a device known as a "gene gun" <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. This device coats gold particles with DNA fragments and then shoots these particles into plant cells <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. The genes can then be incorporated into the plant cell's genome <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. This method is popular from a regulatory standpoint because it does not introduce any non-plant pest genes, avoiding the use of bacteria <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>, <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+
+Early results show that some genetically engineered seedlings exhibit [[the_impact_of_photosynthesisenhanced_trees_on_carbon_cycles | enhanced photosynthesis]] and a higher rate of carbon assimilation <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>, <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
+
+## Addressing Challenges and Considerations
+
+### Why Genetically Engineer Instead of Just Planting More Trees?
+
+One common question is why genetic engineering is necessary when simply planting more trees could be an option <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. Patrick, a co-founder of Living Carbon, explains that to account for human carbon emissions, an estimated trillion trees would need to be planted <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. By increasing the carbon-drawing ability of trees, this number could potentially be reduced to over 500 billion, significantly lessening the planting effort required <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>, <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. A seemingly small genetic change in an individual organism can magnify to a much larger impact when spread across a vast number of organisms <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>, <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.
+
+### Carbon Cycles and Long-Term Storage
+
+The effectiveness of tree planting is limited by the "fast" carbon cycle <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>. When trees photosynthesize, they take in CO2, but when their leaves fall or they decompose, much of that carbon is released back into the atmosphere within a few years <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. This contrasts with the "slow" carbon cycle, where fossil fuels release CO2 trapped underground for centuries <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>, <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. For tree planting to be effective, it needs to contribute more significantly to long-term carbon sequestration <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. [[the_impact_of_photosynthesisenhanced_trees_on_carbon_cycles | Trees that trap more carbon]] could help if that carbon is then trapped themselves after decay <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>.
+
+### [[challenges_and_considerations_of_planting_genetically_altered_trees | Invasive Species Concerns]]
+
+A significant concern with releasing genetically engineered plants into the wild is the potential for them to become invasive species <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. Living Carbon's approach to [[ethical_and_ecological_implications_of_using_genetically_modified_organisms_for_climate_intervention | photosynthesis enhancement]] focuses on native species, such as loblolly pine and longleaf pine in Southeastern Georgia <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>, <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. Planting non-native trees, even if fast-growing, can negatively impact local ecosystems by altering the balance of existing plants, microbes, and soil <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>.
+
+The company's goal is not to plant their specific genetically engineered trees everywhere, but to provide an example of how scientists can [[potential_genetic_enhancements_and_their_implications | enhance photosynthesis]] in plants native to their respective environments <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>, <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. They have publicly shared their research on photosynthetic efficiency to inspire other groups globally to improve tree growth rates and carbon capture <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>, <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>.
+
+## Current Progress and Future Vision
+
+While early results show genetically engineered seedlings grow larger more quickly compared to un-altered counterparts of the same age <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>, <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>, there is currently no evidence that the final adult size of the trees will be different <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>, <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a>. The enhancement means they accumulate biomass more quickly, reaching their mature size faster <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>.
+
+Living Carbon is on the cusp of becoming a commercial tree-planting operation <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>, <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>. By the end of 2023, they plan to expand their capacity from 2.6 million trees to over 10 million <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>, <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. This represents the first commercial planting of a photosynthesis-enhanced organism at scale in history <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>, <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. This effort is viewed not as a sole solution to climate change, but as a crucial beginning <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>, <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a>.
+
+The broader vision for this work involves humanity taking on the responsibility of regulating the atmosphere for the biosphere <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>, <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. While humans are not the first species to destabilize the atmosphere (e.g., algae producing oxygen caused a mass extinction) <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>, <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>, the hope is that humanity could be the last to do so <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>.

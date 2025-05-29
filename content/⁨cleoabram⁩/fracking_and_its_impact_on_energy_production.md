@@ -1,0 +1,53 @@
+---
+title: Fracking and its impact on energy production
+videoId: cCE1i2tJQQY
+---
+
+From: [[⁨cleoabram⁩]] <br/> 
+
+"Fracking" is a method energy companies use to extract oil and natural gas from the ground when it is trapped inside rock <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. The process involves drilling into rock and pumping in fluid at high pressure to crack it open, allowing the trapped oil and natural gas to escape into pipes <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>. The industry term for fracking is "hydraulic fracturing" <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
+
+## The Drive for Energy Independence
+In the mid-2000s, American politicians were focused on ending the nation's [[energy_independence_and_reduced_reliance_on_foreign_oil | dependence on foreign oil]] <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>, <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. At the time, most fossil fuels like oil and natural gas were extracted from deposits about a mile underground <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. However, deeper reserves were trapped within harder rock <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>. This deeper rock represented an opportunity for American companies to achieve [[energy_independence_and_reduced_reliance_on_foreign_oil | energy independence]] <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
+
+## Impact on Fossil Fuel Production
+The development and widespread adoption of fracking technology led to a significant increase in oil and natural gas production in the United States <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. Since the mid-2000s, American [[energy_independence_and_reduced_reliance_on_foreign_oil | dependence on foreign oil]] has decreased annually <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>, and the US became the top producer of crude oil <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. Fracking enabled the extraction and burning of much more oil and natural gas <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+
+## [[environmental_concerns_associated_with_fracking | Concerns Associated with Fracking]]
+Despite its success in increasing fossil fuel production, fracking has raised significant [[environmental_concerns_associated_with_fracking | environmental concerns]] and has a considerable cost <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+
+### Climate Change
+The increased extraction and burning of fossil fuels through fracking contribute to climate change, leading to issues like fire, weather extremes, and drought <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. The continued reliance on fossil fuels makes the planet harder to live on <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+
+### Groundwater Pollution
+One major concern is the [[environmental_concerns_associated_with_fracking | pollution of groundwater]] <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. The fluid used to crack rock contains chemicals that are effective for extraction but harmful to people <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>. Reports indicate that surface accidents, particularly those involving leftover fluids that return after fracking, can pollute drinking water <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. While cracks in pipes could pose a problem, reports suggest this is not an issue if operations are correct <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+
+### Seismic Activity (Earthquakes)
+Another concern is that fracking may cause an increase in earthquakes <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. However, the primary cause of fracking-related earthquakes, particularly in the US, is often not the hydraulic fracturing itself but rather the injection of wastewater into basement rock for disposal <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>, <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>. While injecting wastewater underground is considered the best alternative to keeping it on the surface due to greater [[environmental_concerns_associated_with_fracking | environmental problems]] <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>, it still carries the risk of seismic activity.
+
+## A Hopeful Twist: [[enhanced_geothermal_technology_using_fracking_techniques | Fracking's Potential for Clean Energy]]
+Despite its problematic past, the same technology perfected for fossil fuel extraction might be the key to unlocking a vast clean energy source: [[enhanced_geothermal_technology_using_fracking_techniques | geothermal energy]] <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>, <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
+
+### Introduction to Geothermal Energy
+Geothermal energy is an almost limitless renewable source derived from the Earth's internal heat <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>. It's estimated that just 0.1% of the Earth's heat content could supply humanity's total energy needs for two million years <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>. Traditionally, geothermal energy has been harnessed by tapping into natural reservoirs of hot water and steam, which can spin turbines to generate electricity or be used directly for heat <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>, <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. However, this limits its use to specific geographically concentrated areas <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>, <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+
+### [[enhanced_geothermal_technology_using_fracking_techniques | Enhanced Geothermal Systems (EGS)]]
+[[enhanced_geothermal_technology_using_fracking_techniques | Enhanced Geothermal Systems]] (EGS) aim to overcome this limitation by creating reservoirs where they don't naturally exist <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. This process involves drilling down, injecting water, and then fracturing the hot rock to allow the water to circulate and be heated before being collected to spin a turbine <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>. Conceptually, this "cracking the hot rock to let the water pass through" is what fracking is <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>, <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>.
+
+Professor Mukul Sharma, known as the "Frack King" for his work in improving hydraulic fracturing for oil and gas companies <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>, <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>, is now applying his expertise to make [[enhanced_geothermal_technology_using_fracking_techniques | geothermal energy]] more commercial <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>, <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+
+### Addressing Concerns in Geothermal Fracking
+The primary [[environmental_concerns_associated_with_fracking | environmental objection to fracking]] for fossil fuels stems from the composition of the injected fluids <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>. However, in [[enhanced_geothermal_technology_using_fracking_techniques | enhanced geothermal systems]], the injected fluid is typically just water or something close to it, making it environmentally benign <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. Therefore, the main source of objection to fracking does not apply to geothermal applications <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
+
+While the earthquake concern still applies, the risk is considered very tiny with current scientific advancements <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>, <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>. Experts believe it can be done safely with careful prevention measures <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
+
+### The Future Role of Enhanced Geothermal
+Currently, geothermal contributes very little to global electricity production <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>. As the world moves away from fossil fuels, there will be increased reliance on variable renewable sources like wind and solar <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>. Geothermal could be a crucial, extremely reliable, always-on option for a [[transitioning_from_fossil_fuels_to_clean_energy | clean energy future]] to ensure energy availability when wind and solar are not producing <a class="yt-timestamp" data-t="00:08:19">[00:08:19]</a>, <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>.
+
+While alternative systems like "closed-loop" geothermal exist where fluids never leave the pipes <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>, they limit the energy extraction rate significantly because the fluid has less contact with the hot rock compared to a fractured system <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. Therefore, [[enhanced_geothermal_technology_using_fracking_techniques | enhanced geothermal]] using fracturing techniques might yield significantly more energy if it can be done safely <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>.
+
+> [!INFO]
+> Some argue that due to the potential harm caused by fracking for fossil fuels, focus should only be on closed-loop systems or other renewables like wind and solar <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>, <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>. However, the scale of global energy needs suggests that "we're gonna need everything we've got" <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>.
+
+## Conclusion
+The story of fracking illustrates that [[the_role_of_innovation_and_technology_in_clean_energy | technology]] is not inherently good or bad; its impact depends on how it is used <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>, <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. There is an opportunity for a "redemption story" where a technology that contributed to climate change could be repurposed to help solve it <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>, <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>. This potential shift highlights the dynamic nature of [[the_role_of_innovation_and_technology_in_clean_energy | innovation]] in addressing [[challenges_and_solutions_in_increasing_clean_energy_production | energy challenges]].

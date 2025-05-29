@@ -1,0 +1,65 @@
+---
+title: Discoveries in Dinosaur Paleontology
+videoId: RDoVLHaYfgM
+---
+
+From: [[⁨cleoabram⁩]] <br/> 
+
+The current era is considered a "Golden Age" of dinosaur discovery, with scientists uncovering almost one new dinosaur species per week on average <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. These frequent discoveries are challenging long-held beliefs about these ancient animals <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
+
+## [[the_process_of_excavating_and_analyzing_dinosaur_fossils | The Process of Excavating and Analyzing Dinosaur Fossils]]
+
+Scientists are currently discovering more dinosaurs than at any other time in history <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. An active dinosaur dig site in Alberta, Canada, known as the "Pachyrhinosaurus omelet," contains hundreds, potentially thousands, of *Pachyrhinosaurus* bones jumbled together <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>, <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>, <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>. This site is one of the densest dinosaur bone beds in North America, estimated to contain between 6,000 and 10,000 animals <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
+
+Dr. Emily Bamforth, a paleontologist, explains that assembling a dinosaur skeleton is like doing a jigsaw puzzle where you don't know the picture, are missing half the pieces, have pieces from other puzzles, and some pieces are ripped or torn <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>, <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+
+To hunt for dinosaurs, two rules are crucial: always work horizontally to the bone layer to avoid damaging bones, and always keep the site clean <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>, <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. Once found, bones are covered in a paste that dries to protect them for transport to the lab <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>, <a class="yt-timestamp" data-t="00:11:40">[00:11:40]</a>. In the lab, bones are cleaned, revealing their shiny chocolate-brown fossilized surface <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>, <a class="yt-timestamp" data-t="00:16:55">[00:16:55]</a>.
+
+### The Nature of Fossils
+All dinosaur "bones" are fossilized, meaning they are now made of rock <a class="yt-timestamp" data-t="00:17:03">[00:17:03]</a>, <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>. The original bone material is replaced by minerals over millions of years, creating an exact stone copy of the bone <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>, <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>, <a class="yt-timestamp" data-t="00:17:23">[00:17:23]</a>.
+
+### Challenges in Paleontology
+Almost half of all dinosaur species are known from only a single, often incomplete, specimen <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>, <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>. This makes it difficult to distinguish new species from variations of existing ones <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>, <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>. Paleontologists believe we are "nowhere near having all the dinosaurs that ever lived" <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+
+## [[misconceptions_about_dinosaur_appearances_and_behaviors | Misconceptions about Dinosaur Appearances and Behaviors]]
+
+### Dinosaur Size
+Dinosaur sizes varied immensely <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. The *Anchiornis* was slightly larger than a basketball <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. The *Compsognathus* was the size of a small chicken <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. *Velociraptors*, contrary to popular depictions, were about the size of a German Shepherd <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>, <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>. The *Nyasasaurus* was also about the size of a German Shepherd <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. The *Pachyrhinosaurus* was considered medium-sized <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. *Triceratops* were about the height of an Asian elephant but much longer <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. The *Stegosaurus* and *T-Rex* were larger still <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. Some of the largest known dinosaurs, like the *Argentinosaurus*, were as long and heavy as a commercial airplane <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>, <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
+
+### Physical Appearance
+*   **Feathers**: Newer research indicates that *Velociraptors* had feathers <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. A 1998 discovery in China significantly changed the understanding of some dinosaur appearances, and subsequent discoveries have confirmed that more dinosaurs had feathers than previously thought <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>, <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+*   **Color and Skin**: While there is ongoing debate about the exact color and external appearance of dinosaurs <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>, fossilized feathers sometimes preserve pigment, indicating some feathered dinosaurs were black and white with shiny feathers, or had rust/deep red colors <a class="yt-timestamp" data-t="00:15:10">[00:15:10]</a>, <a class="yt-timestamp" data-t="00:15:20">[00:15:20]</a>. Dinosaur skin, which feels like rock, does not preserve color but can show shading, suggesting some dinosaurs had stripes <a class="yt-timestamp" data-t="00:14:35">[00:14:35]</a>, <a class="yt-timestamp" data-t="00:15:25">[00:15:25]</a>, <a class="yt-timestamp" data-t="00:15:31">[00:15:31]</a>.
+*   **Posture and Body Mass**: Early depictions of the *T-Rex* showed it as a lean predator standing upright like a kangaroo, with its tail dragging <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a>, <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>, <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a>. However, comparisons of hip and thigh bones to modern upright animals and new computer models revealed that standing upright would put too much weight on its hips <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>, <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>. Leaning forward was much more stable, making them "more like teeter totters" <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>, <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
+*   **"Shrink-Wrapping"**: Many early scientific illustrations "shrink-wrapped" skin around skeletons, ignoring muscle and fat, which is now known to be inaccurate <a class="yt-timestamp" data-t="00:15:55">[00:15:55]</a>, <a class="yt-timestamp" data-t="00:15:59">[00:15:59]</a>, <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a>. Most dinosaurs were much chunkier than commonly depicted, requiring significant muscle mass to move <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>, <a class="yt-timestamp" data-t="00:16:22">[00:16:22]</a>. Modern artists and scientists are correcting this by adding more loose skin, muscles, and fatty tissues <a class="yt-timestamp" data-t="00:16:28">[00:16:28]</a>.
+
+### Dinosaur Lifespan and Coexistence
+A common [[misconceptions_about_dinosaur_appearances_and_behaviors | misconception]] is that all dinosaurs lived at the same time <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. Dinosaurs ruled the Earth for 180 million years <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. Some dinosaurs thought to be contemporaries were actually separated by millions of years <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>, <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. For instance, more time separates the *Stegosaurus* from the *T-Rex* than separates the *T-Rex* from humans <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>.
+
+## Defining "Dinosaur" and [[the_connection_between_birds_and_dinosaurs | The Connection between Birds and Dinosaurs]]
+
+Scientifically, a dinosaur is defined phylogenetically, encompassing all descendants from a specific branch of ancient lizard-like creatures called amniotes <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>, <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>, <a class="yt-timestamp" data-t="00:12:17">[00:12:17]</a>. This means that some animals often called dinosaurs are not, such as *Pterosaurs*, *Mosasaurs*, *Plesiosaurs*, and *Ichthyosaurs*, which belong to different groups of reptiles <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>, <a class="yt-timestamp" data-t="00:12:29">[00:12:29]</a>, <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>. Crocodiles, though alive at the same time, also branched off earlier and are not dinosaurs <a class="yt-timestamp" data-t="00:12:38">[00:12:38]</a>.
+
+Crucially, under this scientific definition, birds are dinosaurs <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>, <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>. This means that dinosaurs are still alive today, and they are "all around you" <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>.
+
+## Insights from Dinosaur Fossils
+
+Fossilized remains offer incredible insights into dinosaur lives:
+*   A *Tyrannosaur* tooth shows serrated edges for cutting flesh <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>, <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>.
+*   Healed breaks on bones indicate injuries sustained during their lives <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a>, <a class="yt-timestamp" data-t="00:13:47">[00:13:47]</a>.
+*   Abnormal bone growths suggest dinosaurs could suffer from conditions like osteoarthritis or bone cancer <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>, <a class="yt-timestamp" data-t="00:14:18">[00:14:18]</a>.
+*   Actual preserved dinosaur skin can be touched, revealing different kinds of scales <a class="yt-timestamp" data-t="00:14:31">[00:14:31]</a>, <a class="yt-timestamp" data-t="00:14:35">[00:14:35]</a>, <a class="yt-timestamp" data-t="00:14:45">[00:14:45]</a>.
+
+## [[the_extinction_of_dinosaurs_and_its_impact_on_earths_history | The Extinction of Dinosaurs and Its Impact on Earth's History]]
+
+The non-avian dinosaurs, which had reigned for 180 million years <a class="yt-timestamp" data-t="00:18:54">[00:18:54]</a>, faced a catastrophic event 66.04 million years ago <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>. A massive rock, wider than Mount Everest is tall and traveling at 20 to 30 kilometers per second, struck Earth <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>. The impact instantly vaporized the space rock and catapulted Earth chunks beyond the atmosphere <a class="yt-timestamp" data-t="00:17:56">[00:17:56]</a>, <a class="yt-timestamp" data-t="00:18:02">[00:18:02]</a>.
+
+On the surface, the impact created an apocalypse <a class="yt-timestamp" data-t="00:18:08">[00:18:08]</a>.
+*   A "thermal pulse" of heat swept across the planet <a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>.
+*   Mega tsunamis rippled across the globe <a class="yt-timestamp" data-t="00:18:17">[00:18:17]</a>.
+*   Ejecta from the impact blocked out the sun, plunging the entire planet into darkness <a class="yt-timestamp" data-t="00:18:29">[00:18:29]</a>.
+*   With less light, plants died, leading to the collapse of the food chain <a class="yt-timestamp" data-t="00:18:34">[00:18:34]</a>.
+
+The creatures that survived were typically small, German Shepherd-sized or smaller, and had refugia like water or underground shelters <a class="yt-timestamp" data-t="00:18:37">[00:18:37]</a>, <a class="yt-timestamp" data-t="00:18:44">[00:18:44]</a>. This extinction event, though a "bad day on planet Earth for the dinosaurs," was a "really great day for mammals," as it allowed them to flourish, ultimately leading to the rise of humans <a class="yt-timestamp" data-t="00:19:02">[00:19:02]</a>, <a class="yt-timestamp" data-t="00:19:09">[00:19:09]</a>.
+
+## The Future of Paleontology
+The study of dinosaurs helps us understand Earth's geologic history, revealing where life has been, where it is, and where it is going <a class="yt-timestamp" data-t="00:19:40">[00:19:40]</a>, <a class="yt-timestamp" data-t="00:19:44">[00:19:44]</a>, <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a>. This "Golden Age of paleontology" continues, with many mysteries yet to be unlocked through ongoing scientific and technological advancements <a class="yt-timestamp" data-t="00:19:55">[00:19:55]</a>, <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>.
