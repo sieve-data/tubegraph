@@ -2,658 +2,652 @@
 title: wisecrackedu
 ---
 ### [Hidden Meaning in Disney's Frozen - Earthling Cinema](https://www.youtube.com/watch?v=WpmKW10d_TU)
-- [[hidden_meanings_in_disneys_frozen | Hidden meanings in Disneys Frozen]]
-- [[symbolism_of_ice_and_fire_in_frozen | Symbolism of ice and fire in Frozen]]
-- [[themes_of_love_and_independence_in_frozen | Themes of love and independence in Frozen]]
+- [[themes_and_symbolism_in_disneys_frozen | Themes and symbolism in Disneys Frozen]]
 - [[character_analysis_of_elsa_and_anna | Character analysis of Elsa and Anna]]
-- [[exploration_of_disneys_messaging_in_frozen | Exploration of Disneys messaging in Frozen]]
-
-### [Gaze Into the Abyss - Nihilism in Rick and Morty & BoJack Horseman – Wisecrack Edition](https://www.youtube.com/watch?v=PsotfzGpby8)
-- [[comparison_of_nihilism_in_rick_and_morty_vs_bojack_horseman | Comparison of nihilism in Rick and Morty vs BoJack Horseman]]
-- [[existential_nihilism_through_bojack_horseman | Existential nihilism through BoJack Horseman]]
-- [[cosmic_nihilism_and_its_depiction_in_rick_and_morty | Cosmic nihilism and its depiction in Rick and Morty]]
-- [[philosophical_roots_and_history_of_nihilism | Philosophical roots and history of nihilism]]
-- [[philosophers_influencing_existential_and_cosmic_nihilism | Philosophers influencing existential and cosmic nihilism]]
-
-### [The Philosophy of THE PURGE (with Rick & Morty!) – Wisecrack Edition](https://www.youtube.com/watch?v=QMOpB5tSPVY)
-- [[the_purge_as_social_commentary | The Purge as social commentary]]
-- [[neoliberalism_and_economic_inequality | Neoliberalism and economic inequality]]
-- [[the_politics_of_disposability_and_class_struggle | The politics of disposability and class struggle]]
-- [[ritualistic_festivals_and_societal_norms | Ritualistic festivals and societal norms]]
-- [[social_critique_using_popular_media | Social critique using popular media]]
-
-### [Rick and Morty: The Philosophy of Szechuan Sauce – Wisecrack Edition](https://www.youtube.com/watch?v=LXsj_7n4aWY)
-- [[philosophy_of_szechuan_sauce_in_rick_and_morty | Philosophy of Szechuan Sauce in Rick and Morty]]
-- [[absurdism_and_existentialism_in_the_series | Absurdism and Existentialism in the series]]
-- [[rick_sanchez_as_an_absurd_hero | Rick Sanchez as an Absurd Hero]]
-- [[the_concept_of_meaninglessness_in_rick_and_morty | The concept of meaninglessness in Rick and Morty]]
-- [[rick_and_mortys_critique_of_conventional_morality | Rick and Mortys critique of conventional morality]]
-
-### [Star Wars: The Last Jedi - What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=dLYUc5t6wag)
-- [[fan_reaction_to_the_last_jedi | Fan reaction to The Last Jedi]]
-- [[rian_johnsons_approach_to_revolutionizing_star_wars | Rian Johnsons approach to revolutionizing Star Wars]]
-- [[metaphors_and_thematic_subversion_in_the_last_jedi | Metaphors and thematic subversion in The Last Jedi]]
-- [[good_versus_evil_in_star_wars_mythology | Good versus evil in Star Wars mythology]]
-- [[jungian_psychology_and_the_last_jedi | Jungian psychology and The Last Jedi]]
-
-### [The Philosophy of The Joker – Wisecrack Edition](https://www.youtube.com/watch?v=YPvI2rLCIFc)
-- [[the_jokers_origin_story | The Jokers origin story]]
-- [[the_philosophy_of_nihilism_and_existentialism | The philosophy of nihilism and existentialism]]
-- [[the_jokers_relationship_with_batman | The Jokers relationship with Batman]]
-- [[jean_baudrillards_and_john_marmyszs_philosophical_concepts | Jean Baudrillards and John Marmyszs philosophical concepts]]
-
-### [South Park on RELIGION – Wisecrack Edition](https://www.youtube.com/watch?v=z9OcG5A788Q)
-- [[south_parks_treatment_of_religion | South Parks treatment of religion]]
-- [[irreverence_and_sacredness_in_south_park | Irreverence and sacredness in South Park]]
-- [[religious_themes_and_criticism_in_south_park_episodes | Religious themes and criticism in South Park episodes]]
-- [[distinction_between_sacred_and_profane_in_western_religion | Distinction between sacred and profane in Western religion]]
-- [[south_parks_commentary_on_human_nature_and_belief_systems | South Parks commentary on human nature and belief systems]]
-
-### [The Philosophy of Rick and Morty – Wisecrack Edition](https://www.youtube.com/watch?v=hWFDHynfl1E)
-- [[philosophy_and_existentialism_in_rick_and_morty | Philosophy and existentialism in Rick and Morty]]
-- [[cosmic_horror_influences_on_rick_and_morty | Cosmic horror influences on Rick and Morty]]
-- [[science_and_rationalism_in_rick_and_morty | Science and rationalism in Rick and Morty]]
-- [[nihilism_and_cosmic_pessimism_in_rick_and_morty | Nihilism and cosmic pessimism in Rick and Morty]]
-- [[significance_of_science_fiction_and_horror_references_in_rick_and_morty | Significance of science fiction and horror references in Rick and Morty]]
-
-### [Django Unchained: How to DESTROY An Ideology – Wisecrack Edition](https://www.youtube.com/watch?v=H5yvhP-9mik)
-- [[quentin_tarantinos_filmography_and_style | Quentin Tarantinos filmography and style]]
-- [[django_unchaineds_commentary_on_slavery_and_racism | Django Unchaineds commentary on slavery and racism]]
-- [[the_role_of_language_and_culture_in_django_unchained | The role of language and culture in Django Unchained]]
-- [[symbolic_subversion_and_cultural_appropriation_in_django_unchained | Symbolic subversion and cultural appropriation in Django Unchained]]
-- [[agency_and_acting_as_forms_of_resistance_in_django_unchained | Agency and acting as forms of resistance in Django Unchained]]
-
-### [The Philosophy of House of Cards – Wisecrack Edition](https://www.youtube.com/watch?v=2de3LhPxpZU)
-- [[the_concept_of_aesthetics_and_theater_in_house_of_cards | The concept of aesthetics and theater in House of Cards]]
-- [[house_of_cards_critique_of_american_politics | House of Cards critique of American politics]]
-- [[the_role_of_appearances_in_politics_based_on_house_of_cards | The role of appearances in politics based on House of Cards]]
-- [[character_analysis_of_frank_and_claire_underwood | Character analysis of Frank and Claire Underwood]]
-- [[philosophical_influences_and_references_in_house_of_cards | Philosophical influences and references in House of Cards]]
-
-### [The Philosophy of BOJACK HORSEMAN – Wisecrack Edition](https://www.youtube.com/watch?v=rORIDYHOFTQ)
-- [[existential_nihilism_in_bojack_horseman | Existential Nihilism in BoJack Horseman]]
-- [[bojack_horsemans_portrayal_of_hollywood_and_disillusionment | BoJack Horsemans portrayal of Hollywood and disillusionment]]
-- [[distraction_as_a_coping_mechanism_in_a_meaningless_world_in_bojack_horseman | Distraction as a coping mechanism in a meaningless world in BoJack Horseman]]
-- [[jeanpaul_sartres_radical_freedom_as_depicted_in_bojack_horseman | JeanPaul Sartres Radical Freedom as depicted in BoJack Horseman]]
-- [[albert_camus_absurdism_and_its_reflections_in_bojack_horseman | Albert Camus Absurdism and its reflections in BoJack Horseman]]
-
-### [The Philosophy of South Park – Wisecrack Edition](https://www.youtube.com/watch?v=MG7y8J0DXhU)
-- [[neoliberalism_in_south_park_season_19 | Neoliberalism in South Park Season 19]]
-- [[political_correctness_and_its_critique_in_south_park | Political Correctness and its Critique in South Park]]
-- [[metacommentary_on_change_and_gentrification | Metacommentary on Change and Gentrification]]
-- [[the_role_of_advertising_in_modern_society | The Role of Advertising in Modern Society]]
-- [[cultural_and_social_critiques_in_south_park | Cultural and Social Critiques in South Park]]
+- [[critique_of_disneys_portrayal_of_relationships | Critique of Disneys portrayal of relationships]]
+- [[symbolism_of_doors_in_frozen | Symbolism of doors in Frozen]]
+- [[societal_and_cultural_messages_in_frozen | Societal and cultural messages in Frozen]]
 
 ### [How Do We Escape the System?  – Rick and Morty Season 3 Episode 7 Breakdown – Wisecrack Quick Take](https://www.youtube.com/watch?v=pjDnuc0y1Gc)
-- [[political_themes_in_the_ricklantis_mixup | Political themes in The Ricklantis Mixup]]
-- [[allegory_of_class_struggle_and_modern_society | Allegory of class struggle and modern society]]
-- [[concept_of_alienation_and_the_simple_life | Concept of alienation and the simple life]]
-- [[evil_mortys_rise_to_power_and_political_manipulation | Evil Mortys rise to power and political manipulation]]
-- [[commodification_of_rebellion_and_freedom | Commodification of rebellion and freedom]]
+- [[themes_of_political_allegory_in_the_ricklantis_mixup | Themes of political allegory in The Ricklantis Mixup]]
+- [[depiction_of_class_struggle_in_rick_and_morty | Depiction of class struggle in Rick and Morty]]
+- [[evil_mortys_rise_to_power_and_its_implications | Evil Mortys rise to power and its implications]]
+- [[alienation_and_societal_critique_in_rick_and_morty | Alienation and societal critique in Rick and Morty]]
+- [[philosophical_exploration_of_escapism_and_rebellion | Philosophical exploration of escapism and rebellion]]
+
+### [The Philosophy of THE PURGE (with Rick & Morty!) – Wisecrack Edition](https://www.youtube.com/watch?v=QMOpB5tSPVY)
+- [[philosophy_and_socioeconomic_commentary_in_the_purge | Philosophy and Socioeconomic Commentary in The Purge]]
+- [[ritualistic_and_cultural_comparisons_of_the_purge | Ritualistic and Cultural Comparisons of The Purge]]
+- [[neoliberalism_and_economic_critique_in_the_purge | Neoliberalism and Economic Critique in The Purge]]
+- [[class_struggles_and_economic_disparities_highlighted_by_the_purge | Class Struggles and Economic Disparities Highlighted by The Purge]]
+- [[dehumanization_and_disposability_as_presented_in_the_purge | Dehumanization and Disposability as Presented in The Purge]]
+
+### [Rick and Morty: The Philosophy of Szechuan Sauce – Wisecrack Edition](https://www.youtube.com/watch?v=LXsj_7n4aWY)
+- [[philosophy_and_absurdism_in_rick_and_morty | Philosophy and Absurdism in Rick and Morty]]
+- [[rick_and_morty_and_existentialism | Rick and Morty and Existentialism]]
+- [[the_role_of_szechuan_sauce_in_rick_and_morty | The Role of Szechuan Sauce in Rick and Morty]]
+- [[the_concept_of_meaninglessness_in_rick_and_mortys_universe | The Concept of Meaninglessness in Rick and Mortys Universe]]
+- [[character_analysis_of_rick_sanchez_and_his_motivations | Character Analysis of Rick Sanchez and His Motivations]]
+
+### [Star Wars: The Last Jedi - What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=dLYUc5t6wag)
+- [[critique_of_the_last_jedis_approach_to_star_wars_tropes | Critique of The Last Jedis approach to Star Wars tropes]]
+- [[rian_johnsons_attempt_to_revolutionize_the_star_wars_franchise | Rian Johnsons attempt to revolutionize the Star Wars franchise]]
+- [[comparison_between_old_and_new_star_wars_films | Comparison between old and new Star Wars films]]
+- [[morality_and_archetypes_in_the_last_jedi | Morality and archetypes in The Last Jedi]]
+- [[impact_of_the_last_jedi_on_star_wars_mythology | Impact of The Last Jedi on Star Wars mythology]]
+
+### [Django Unchained: How to DESTROY An Ideology – Wisecrack Edition](https://www.youtube.com/watch?v=H5yvhP-9mik)
+- [[criticism_of_slavery_in_django_unchained | Criticism of slavery in Django Unchained]]
+- [[subversion_of_racial_ideology_and_stereotypes | Subversion of racial ideology and stereotypes]]
+- [[themes_of_agency_and_acting_in_the_context_of_slavery | Themes of agency and acting in the context of slavery]]
+- [[use_of_symbolism_and_culture_in_django_unchained | Use of symbolism and culture in Django Unchained]]
+- [[influence_of_music_and_media_on_the_films_narrative | Influence of music and media on the films narrative]]
+
+### [The Philosophy of South Park – Wisecrack Edition](https://www.youtube.com/watch?v=MG7y8J0DXhU)
+- [[south_park_season_19_and_serialized_storytelling | South Park Season 19 and serialized storytelling]]
+- [[neoliberalism_in_south_park_season_19 | Neoliberalism in South Park Season 19]]
+- [[political_correctness_and_its_critique_in_south_park | Political correctness and its critique in South Park]]
+- [[consumerism_and_social_commentary_in_south_park | Consumerism and social commentary in South Park]]
+- [[meta_commentary_on_political_satire_in_south_park | Meta commentary on political satire in South Park]]
+
+### [The Philosophy of The Joker – Wisecrack Edition](https://www.youtube.com/watch?v=YPvI2rLCIFc)
+- [[the_jokers_origin_and_evolution_in_comics_and_film | The Jokers origin and evolution in comics and film]]
+- [[the_jokers_philosophy_of_nihilism_and_chaos | The Jokers philosophy of nihilism and chaos]]
+- [[comparison_of_batman_and_the_jokers_responses_to_trauma_and_meaninglessness | Comparison of Batman and the Jokers responses to trauma and meaninglessness]]
+- [[the_jokers_role_in_exploring_moral_dilemmas_and_challenging_conventional_morality | The Jokers role in exploring moral dilemmas and challenging conventional morality]]
+- [[the_influence_of_existential_and_philosophical_ideas_on_the_jokers_character | The influence of existential and philosophical ideas on the Jokers character]]
+
+### [South Park on RELIGION – Wisecrack Edition](https://www.youtube.com/watch?v=z9OcG5A788Q)
+- [[south_parks_portrayal_of_religion | South Parks portrayal of religion]]
+- [[comparison_of_sacred_and_profane_in_south_park | Comparison of sacred and profane in South Park]]
+- [[impact_of_satirical_humor_on_religious_discourse | Impact of satirical humor on religious discourse]]
+- [[role_of_irreverence_in_south_parks_narrative | Role of irreverence in South Parks narrative]]
+- [[critique_of_religious_manipulation_in_south_park | Critique of religious manipulation in South Park]]
+
+### [The Philosophy of Rick and Morty – Wisecrack Edition](https://www.youtube.com/watch?v=hWFDHynfl1E)
+- [[philosophy_and_cosmic_horror_in_rick_and_morty | Philosophy and Cosmic Horror in Rick and Morty]]
+- [[existentialism_and_nihilism_in_rick_and_morty | Existentialism and Nihilism in Rick and Morty]]
+- [[rick_and_mortys_approach_to_scifi_and_science | Rick and Mortys Approach to SciFi and Science]]
+- [[satire_and_social_commentary_in_rick_and_morty | Satire and Social Commentary in Rick and Morty]]
+- [[rick_and_mortys_view_on_religion_and_atheism | Rick and Mortys View on Religion and Atheism]]
+
+### [The Philosophy of BOJACK HORSEMAN – Wisecrack Edition](https://www.youtube.com/watch?v=rORIDYHOFTQ)
+- [[existential_nihilism_and_bojack_horseman | Existential Nihilism and BoJack Horseman]]
+- [[distraction_as_a_coping_mechanism_in_bojack_horseman | Distraction as a coping mechanism in BoJack Horseman]]
+- [[existentialism_and_radical_freedom_in_bojack_horseman | Existentialism and Radical Freedom in BoJack Horseman]]
+- [[albert_camus_and_absurdism_in_bojack_horseman | Albert Camus and Absurdism in BoJack Horseman]]
+- [[the_concept_of_family_in_bojack_horseman | The concept of family in BoJack Horseman]]
+
+### [The Philosophy of House of Cards – Wisecrack Edition](https://www.youtube.com/watch?v=2de3LhPxpZU)
+- [[the_political_philosophy_in_house_of_cards | The political philosophy in House of Cards]]
+- [[the_use_of_aesthetics_and_theater_in_house_of_cards | The use of aesthetics and theater in House of Cards]]
+- [[the_concept_of_legacy_in_house_of_cards | The concept of legacy in House of Cards]]
+- [[politics_as_spectacle_in_house_of_cards | Politics as spectacle in House of Cards]]
+- [[the_role_of_appearance_and_reality_in_house_of_cards | The role of appearance and reality in House of Cards]]
 
 ### [Hidden Meaning in SAUSAGE PARTY – Earthling Cinema](https://www.youtube.com/watch?v=PmJ8wQKY_V8)
-- [[animated_films_with_adult_themes | Animated films with adult themes]]
-- [[religious_satire_in_sausage_party | Religious satire in Sausage Party]]
-- [[exploration_of_hedonism_and_disillusionment | Exploration of hedonism and disillusionment]]
-- [[metaphors_and_humor_in_sausage_party | Metaphors and humor in Sausage Party]]
-- [[platos_noble_lie_concept_in_modern_media | Platos noble lie concept in modern media]]
+- [[sausage_party_movie_analysis | Sausage Party movie analysis]]
+- [[religious_themes_in_sausage_party | Religious themes in Sausage Party]]
+- [[character_symbolism_in_sausage_party | Character symbolism in Sausage Party]]
+- [[platos_noble_lie_concept_in_sausage_party | Platos noble lie concept in Sausage Party]]
+- [[hedonism_as_a_theme_in_sausage_party | Hedonism as a theme in Sausage Party]]
 
 ### [The Philosophy of ONE PUNCH MAN – Wisecrack Edition](https://www.youtube.com/watch?v=EQB6ctBXNzs)
-- [[parody_and_satirical_elements_in_one_punch_man | Parody and satirical elements in One Punch Man]]
-- [[the_role_of_conflict_in_storytelling_and_human_experience | The role of conflict in storytelling and human experience]]
-- [[character_development_and_narrative_structure_in_one_punch_man | Character development and narrative structure in One Punch Man]]
-- [[themes_of_existential_boredom_and_ennui_in_one_punch_man | Themes of existential boredom and ennui in One Punch Man]]
-- [[the_philosophical_implications_of_a_life_without_struggle_or_conflict | The philosophical implications of a life without struggle or conflict]]
-
-### [What's The Point of Rick's Game? – Rick and Morty Season 3 Episode 4 Breakdown](https://www.youtube.com/watch?v=87404S8oOAs)
-- [[rick_and_morty_episode_analysis | Rick and Morty episode analysis]]
-- [[satire_of_superhero_films | Satire of superhero films]]
-- [[concept_of_good_and_evil_in_pop_culture | Concept of good and evil in pop culture]]
-- [[philosophical_influences_in_media | Philosophical influences in media]]
-- [[moral_ambiguity_in_storytelling | Moral ambiguity in storytelling]]
+- [[parody_of_anime_tropes_in_one_punch_man | Parody of anime tropes in One Punch Man]]
+- [[lack_of_conflict_and_drama_in_one_punch_man | Lack of conflict and drama in One Punch Man]]
+- [[character_study_of_saitama_and_his_motivations | Character study of Saitama and his motivations]]
+- [[role_of_supporting_characters_and_narrative_structure | Role of supporting characters and narrative structure]]
+- [[exploration_of_conflict_catharsis_and_human_experience_in_storytelling | Exploration of conflict catharsis and human experience in storytelling]]
 
 ### [To Kill a Mockingbird - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=IntI62LWSJA)
-- [[plot_summary_of_to_kill_a_mockingbird | Plot summary of To Kill a Mockingbird]]
-- [[characters_in_to_kill_a_mockingbird | Characters in To Kill a Mockingbird]]
-- [[racism_and_justice_themes | Racism and justice themes]]
-- [[symbolism_in_to_kill_a_mockingbird | Symbolism in To Kill a Mockingbird]]
-- [[societal_critique_of_the_american_south_during_the_depression | Societal critique of the American South during The Depression]]
+- [[summary_of_to_kill_a_mockingbird | Summary of To Kill a Mockingbird]]
+- [[character_analysis_of_scout_jem_and_dill | Character analysis of Scout Jem and Dill]]
+- [[themes_of_racism_and_injustice | Themes of racism and injustice]]
+- [[the_significance_of_the_title_to_kill_a_mockingbird | The significance of the title To Kill a Mockingbird]]
+- [[criticism_of_southern_society_during_the_depression | Criticism of Southern society during The Depression]]
 
 ### [RICK & MORTY's Must-Know References! – Wisecrack Edition](https://www.youtube.com/watch?v=7L0XYy700WQ)
-- [[rick_and_morty_references_and_parodies | Rick and Morty references and parodies]]
-- [[scifi_horror_and_fantasy_themes_in_rick_and_morty | Scifi horror and fantasy themes in Rick and Morty]]
+- [[rick_and_morty_references_to_scifi_and_horror | Rick and Morty references to scifi and horror]]
 - [[inversion_of_common_cliches_and_tropes_in_rick_and_morty | Inversion of common cliches and tropes in Rick and Morty]]
-- [[the_role_of_science_and_atheism_in_rick_and_morty | The role of science and atheism in Rick and Morty]]
-- [[critiques_of_individualism_and_conformity_in_rick_and_morty | Critiques of individualism and conformity in Rick and Morty]]
+- [[science_vs_mysticism_in_rick_and_morty | Science vs mysticism in Rick and Morty]]
+- [[conformity_and_individualism_in_rick_and_morty | Conformity and individualism in Rick and Morty]]
+- [[atheism_themes_in_rick_and_morty | Atheism themes in Rick and Morty]]
+
+### [What's The Point of Rick's Game? – Rick and Morty Season 3 Episode 4 Breakdown](https://www.youtube.com/watch?v=87404S8oOAs)
+- [[analysis_of_the_vindicators_3_episode_in_rick_and_morty | Analysis of The Vindicators 3 episode in Rick and Morty]]
+- [[satire_of_superhero_movies_in_rick_and_morty | Satire of superhero movies in Rick and Morty]]
+- [[the_theme_of_good_versus_evil_in_rick_and_morty | The theme of good versus evil in Rick and Morty]]
+- [[moral_philosophy_explored_in_the_vindicators_3_episode | Moral philosophy explored in The Vindicators 3 episode]]
+- [[influence_of_jigsaw_and_the_joker_on_ricks_character | Influence of Jigsaw and The Joker on Ricks character]]
 
 ### [The Philosophy of Deadpool – Wisecrack Edition](https://www.youtube.com/watch?v=ZgQlwscDyus)
-- [[deadpools_success_and_popularity | Deadpools success and popularity]]
-- [[fourthwall_breaking_and_selfawareness_in_media | Fourthwall breaking and selfawareness in media]]
-- [[postmodernism_in_deadpool_and_its_relation_to_don_quixote | Postmodernism in Deadpool and its relation to Don Quixote]]
-- [[ironic_distance_and_cynicism_in_contemporary_culture | Ironic distance and cynicism in contemporary culture]]
-- [[cultural_implications_of_selfreferential_and_meta_narratives | Cultural implications of selfreferential and meta narratives]]
-
-### [The Big Bang Theory: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=DxFPmF1puW4)
-- [[critique_of_the_big_bang_theory | Critique of The Big Bang Theory]]
-- [[representation_of_geek_culture_in_media | Representation of geek culture in media]]
-- [[referentiality_and_humor_in_television | Referentiality and humor in television]]
-- [[philosophical_analysis_of_humor | Philosophical analysis of humor]]
-- [[simulacra_and_representation_in_popular_culture | Simulacra and representation in popular culture]]
-
-### [The Hidden Meaning of GTA – Wisecrack Edition](https://www.youtube.com/watch?v=E85feLp-gx8)
-- [[the_distinctions_between_satire_social_commentary_and_parody_in_grand_theft_auto_v | The distinctions between satire social commentary and parody in Grand Theft Auto V]]
-- [[grand_theft_auto_v_as_a_reflection_of_player_behavior_and_societal_norms | Grand Theft Auto V as a reflection of player behavior and societal norms]]
-- [[the_use_of_metagaming_in_grand_theft_auto_v_and_its_implications | The use of metagaming in Grand Theft Auto V and its implications]]
-- [[representation_and_parody_of_american_culture_and_lifestyle_in_grand_theft_auto_v | Representation and parody of American culture and lifestyle in Grand Theft Auto V]]
-- [[race_cultural_appropriation_and_social_critique_in_grand_theft_auto_v | Race cultural appropriation and social critique in Grand Theft Auto V]]
+- [[deadpools_popularity_and_success | Deadpools Popularity and Success]]
+- [[postmodernism_and_self_awareness_in_deadpool | Postmodernism and Self Awareness in Deadpool]]
+- [[media_trend_of_cynicism_and_ironic_distance | Media Trend of Cynicism and Ironic Distance]]
+- [[comparison_to_don_quixote_and_historical_contexts | Comparison to Don Quixote and Historical Contexts]]
+- [[cultural_implications_of_deadpools_philosophy | Cultural Implications of Deadpools Philosophy]]
 
 ### [The Philosophy of Death Note – What Is Justice? – Wisecrack Edition](https://www.youtube.com/watch?v=9Y5QZ77-WYw)
-- [[philosophical_exploration_of_justice_in_death_note | Philosophical exploration of justice in Death Note]]
-- [[character_analysis_light_yagami_and_his_moral_transformation | Character analysis Light Yagami and his moral transformation]]
-- [[the_influence_of_the_ring_of_gyges_and_philosophical_texts_on_death_note | The influence of the Ring of Gyges and philosophical texts on Death Note]]
-- [[comparative_analysis_of_justice_theories_rawls_plato_and_death_note | Comparative analysis of justice theories Rawls Plato and Death Note]]
-- [[role_of_anonymity_and_identity_in_understanding_justice_in_death_note | Role of anonymity and identity in understanding justice in Death Note]]
-
-### [The Loneliest Anime – The Philosophy of Neon Genesis Evangelion – Wisecrack Edition](https://www.youtube.com/watch?v=USKzAj1dOq4)
-- [[philosophical_themes_in_neon_genesis_evangelion | Philosophical themes in Neon Genesis Evangelion]]
-- [[religious_symbolism_in_neon_genesis_evangelion | Religious symbolism in Neon Genesis Evangelion]]
-- [[psychological_analysis_of_characters_in_evangelion | Psychological analysis of characters in Evangelion]]
-- [[the_concept_of_the_hedgehogs_dilemma | The concept of the Hedgehogs Dilemma]]
-- [[freudian_psychoanalysis_and_neon_genesis_evangelion | Freudian psychoanalysis and Neon Genesis Evangelion]]
+- [[philosophy_of_justice_in_death_note | Philosophy of justice in Death Note]]
+- [[moral_dilemmas_and_character_evolution_in_death_note | Moral dilemmas and character evolution in Death Note]]
+- [[comparative_analysis_of_death_note_and_greek_philosophy | Comparative analysis of Death Note and Greek philosophy]]
+- [[role_of_anonymity_in_shaping_justice_in_death_note | Role of anonymity in shaping justice in Death Note]]
+- [[different_theories_of_justice_presented_in_death_note | Different theories of justice presented in Death Note]]
 
 ### [The Philosophy of Fallout – Wisecrack Edition](https://www.youtube.com/watch?v=C-5tEt2CUro)
-- [[alternate_history_and_cold_war_fallout_lore | Alternate History and Cold War Fallout Lore]]
-- [[philosophical_critiques_of_society_and_government_in_fallout | Philosophical Critiques of Society and Government in Fallout]]
-- [[impact_of_technology_and_cognitive_dissonance_in_fallout | Impact of Technology and Cognitive Dissonance in Fallout]]
-- [[factions_and_politics_in_fallout | Factions and Politics in Fallout]]
-- [[moral_dilemmas_and_security_logic_in_apocalyptic_worlds | Moral Dilemmas and Security Logic in Apocalyptic Worlds]]
+- [[alternate_history_and_societal_commentary_in_the_fallout_series | Alternate history and societal commentary in the Fallout series]]
+- [[philosophical_themes_in_postapocalyptic_fiction | Philosophical themes in postapocalyptic fiction]]
+- [[technology_and_its_moral_dilemmas_in_fallout | Technology and its moral dilemmas in Fallout]]
+- [[social_and_political_structures_in_the_fallout_universe | Social and political structures in the Fallout universe]]
+- [[critique_of_government_and_propaganda_in_a_dystopian_setting | Critique of government and propaganda in a dystopian setting]]
+
+### [The Big Bang Theory: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=DxFPmF1puW4)
+- [[critique_of_the_big_bang_theorys_portrayal_of_geek_culture | Critique of the Big Bang Theorys portrayal of geek culture]]
+- [[use_of_references_in_the_big_bang_theory | Use of references in the Big Bang Theory]]
+- [[philosophical_analysis_of_humor_in_the_big_bang_theory | Philosophical analysis of humor in the Big Bang Theory]]
+- [[comparison_between_big_bang_theory_and_futurama | Comparison between Big Bang Theory and Futurama]]
+- [[impact_of_representation_on_nerd_culture | Impact of representation on nerd culture]]
 
 ### [The Philosophy of Fullmetal Alchemist: Brotherhood – Wisecrack Edition](https://www.youtube.com/watch?v=Y8uh9eIBGmE)
-- [[science_vs_faith_in_fullmetal_alchemist_brotherhood | Science vs Faith in Fullmetal Alchemist Brotherhood]]
-- [[the_role_of_alchemy_as_a_scientific_method | The role of Alchemy as a scientific method]]
-- [[philosophical_critiques_of_scientism | Philosophical critiques of scientism]]
-- [[moral_implications_of_equivalent_exchange_in_alchemy | Moral implications of equivalent exchange in alchemy]]
-- [[narrative_parallels_between_fullmetal_alchemist_brotherhood_and_realworld_history | Narrative parallels between Fullmetal Alchemist Brotherhood and realworld history]]
+- [[the_philosophical_themes_in_fullmetal_alchemist_brotherhood | The philosophical themes in Fullmetal Alchemist Brotherhood]]
+- [[alchemy_as_science_and_its_moral_implications | Alchemy as science and its moral implications]]
+- [[the_conflict_between_science_and_faith | The conflict between science and faith]]
+- [[critiques_of_scientism_through_anime | Critiques of scientism through anime]]
+- [[character_development_and_ideological_growth_in_fullmetal_alchemist_brotherhood | Character development and ideological growth in Fullmetal Alchemist Brotherhood]]
 
-### [Why Our Villains Are Different Now (Thanos, The Joker, Killmonger) – Wisecrack Edition](https://www.youtube.com/watch?v=WROjphkh3NA)
-- [[evolution_of_film_villains | Evolution of film villains]]
-- [[impact_of_historical_events_on_villain_portrayal | Impact of historical events on villain portrayal]]
-- [[complexity_of_modern_villains | Complexity of modern villains]]
-- [[villains_as_social_critics | Villains as social critics]]
-- [[moral_ambiguity_in_cinema | Moral ambiguity in cinema]]
+### [The Hidden Meaning of GTA – Wisecrack Edition](https://www.youtube.com/watch?v=E85feLp-gx8)
+- [[satire_social_commentary_and_parody_in_grand_theft_auto_v | Satire social commentary and parody in Grand Theft Auto V]]
+- [[freudian_psychology_and_character_analysis_of_gta_v_protagonists | Freudian psychology and character analysis of GTA V protagonists]]
+- [[critique_of_violence_and_player_behavior_in_sandbox_games | Critique of violence and player behavior in sandbox games]]
+- [[parody_of_california_lifestyle_and_media_in_gta_v | Parody of California lifestyle and media in GTA V]]
+- [[appropriation_and_commodification_of_black_culture_in_gaming | Appropriation and commodification of black culture in gaming]]
 
 ### [Suicide Squad: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=be3lX63pGHo)
-- [[analysis_of_suicide_squad_movie | Analysis of Suicide Squad movie]]
-- [[theme_of_control_in_suicide_squad | Theme of control in Suicide Squad]]
-- [[thematic_discussions_in_dc_universe_films | Thematic discussions in DC Universe films]]
-- [[criticisms_of_suicide_squads_execution | Criticisms of Suicide Squads execution]]
-- [[role_of_the_joker_in_suicide_squad | Role of the Joker in Suicide Squad]]
+- [[thematic_analysis_of_suicide_squad | Thematic analysis of Suicide Squad]]
+- [[impact_of_studio_interference_on_film_quality | Impact of studio interference on film quality]]
+- [[criticism_of_character_development_in_suicide_squad | Criticism of character development in Suicide Squad]]
+- [[exploration_of_control_and_power_dynamics_in_media | Exploration of control and power dynamics in media]]
+- [[marketing_versus_film_execution_in_2016_films | Marketing versus film execution in 2016 films]]
 
-### [The Scene That Changes the Entire Meaning of The Wolf of Wall Street – The Film Tourist](https://www.youtube.com/watch?v=6UcQxHYda54)
-- [[the_significance_of_film_details | The significance of film details]]
-- [[the_impact_of_the_final_shot_in_the_wolf_of_wall_street | The impact of the final shot in The Wolf of Wall Street]]
-- [[critique_of_cultural_complicity_in_financial_wrongdoing | Critique of cultural complicity in financial wrongdoing]]
-- [[scorseses_exploration_of_faith_versus_materialism | Scorseses exploration of faith versus materialism]]
-- [[analysis_of_audiences_complicity_and_enjoyment_in_excess | Analysis of audiences complicity and enjoyment in excess]]
+### [The Loneliest Anime – The Philosophy of Neon Genesis Evangelion – Wisecrack Edition](https://www.youtube.com/watch?v=USKzAj1dOq4)
+- [[philosophy_of_neon_genesis_evangelion | Philosophy of Neon Genesis Evangelion]]
+- [[religious_symbolism_in_evangelion | Religious symbolism in Evangelion]]
+- [[the_hedgehogs_dilemma_and_its_role_in_evangelion | The Hedgehogs Dilemma and its role in Evangelion]]
+- [[freudian_psychoanalysis_in_evangelion | Freudian psychoanalysis in Evangelion]]
+- [[the_concept_of_individuality_and_isolation_in_evangelion | The concept of individuality and isolation in Evangelion]]
+
+### [Why Our Villains Are Different Now (Thanos, The Joker, Killmonger) – Wisecrack Edition](https://www.youtube.com/watch?v=WROjphkh3NA)
+- [[evolution_of_villains_in_cinema | Evolution of Villains in Cinema]]
+- [[comparative_analysis_of_villains_1950s_to_present | Comparative Analysis of Villains 1950s to Present]]
+- [[relatable_villains_and_social_critiques | Relatable Villains and Social Critiques]]
+- [[impact_of_historical_events_on_villain_archetypes | Impact of Historical Events on Villain Archetypes]]
+- [[contemporary_villains_and_their_philosophies | Contemporary Villains and Their Philosophies]]
 
 ### [What South Park Teaches Us About Economics – Wisecrack Edition](https://www.youtube.com/watch?v=ybXr6c9j-2Y)
-- [[economic_lessons_from_south_park | Economic lessons from South Park]]
-- [[capitalism_and_small_businesses_in_south_park | Capitalism and small businesses in South Park]]
-- [[perception_of_value_in_economics | Perception of value in economics]]
-- [[impact_of_branding_and_social_media_on_business | Impact of branding and social media on business]]
-- [[social_relationships_and_digital_identity | Social relationships and digital identity]]
+- [[south_park_and_capitalism | South Park and capitalism]]
+- [[economic_principles_in_south_park_episodes_gnomes_and_cash_for_gold | Economic principles in South Park episodes Gnomes and Cash for Gold]]
+- [[value_theory_and_its_implications | Value theory and its implications]]
+- [[brand_identity_and_modern_economics | Brand identity and modern economics]]
+- [[social_media_and_its_economic_impact_on_personal_relationships | Social media and its economic impact on personal relationships]]
 
 ### [Inside Out: Is Joy the VILLAIN? – Wisecrack Edition](https://www.youtube.com/watch?v=SH0yN2DS1pI)
 - [[psychological_insights_in_inside_out | Psychological insights in Inside Out]]
 - [[role_of_emotions_in_rational_thinking | Role of emotions in rational thinking]]
-- [[critique_of_compulsory_happiness_in_modern_society | Critique of compulsory happiness in modern society]]
-- [[character_analysis_of_joy_in_inside_out | Character analysis of Joy in Inside Out]]
-- [[comparison_of_modern_happiness_and_philosophical_concepts_of_eudaimonia | Comparison of modern happiness and philosophical concepts of Eudaimonia]]
+- [[joy_as_a_potential_villain_in_inside_out | Joy as a potential villain in Inside Out]]
+- [[cultural_perceptions_of_happiness_and_emotions | Cultural perceptions of happiness and emotions]]
+- [[critique_of_compulsory_happiness_in_society | Critique of compulsory happiness in society]]
 
-### [The Philosophy of Get Schwifty (Rick and Morty) – Wisecrack Edition](https://www.youtube.com/watch?v=BxwZWXBwxFU)
-- [[philosophy_in_rick_and_morty_episode_get_schwifty | Philosophy in Rick and Morty episode Get Schwifty]]
-- [[critique_of_organized_religion_in_get_schwifty | Critique of organized religion in Get Schwifty]]
-- [[logical_fallacies_explored_in_rick_and_morty | Logical fallacies explored in Rick and Morty]]
-- [[confirmation_bias_and_its_implications_in_beliefs | Confirmation bias and its implications in beliefs]]
-- [[role_of_rationalization_and_belief_systems_in_get_schwifty | Role of rationalization and belief systems in Get Schwifty]]
+### [The Scene That Changes the Entire Meaning of The Wolf of Wall Street – The Film Tourist](https://www.youtube.com/watch?v=6UcQxHYda54)
+- [[film_analysis_and_symbolism | Film analysis and symbolism]]
+- [[cultural_critique_in_cinema | Cultural critique in cinema]]
+- [[themes_of_excess_and_greed | Themes of excess and greed]]
+- [[moral_ambiguity_in_the_wolf_of_wall_street | Moral ambiguity in The Wolf of Wall Street]]
+- [[audience_complicity_in_media_narratives | Audience complicity in media narratives]]
 
 ### [The Dark Knight Rises: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=Y8Wp3dafaMQ)
-- [[comparison_between_the_dark_knight_and_the_dark_knight_rises | Comparison between The Dark Knight and The Dark Knight Rises]]
-- [[influence_of_charles_dickens_a_tale_of_two_cities_on_the_dark_knight_rises | Influence of Charles Dickens A Tale of Two Cities on The Dark Knight Rises]]
-- [[themes_of_resurrection_truth_versus_lies_and_doubling_in_the_dark_knight_rises | Themes of resurrection truth versus lies and doubling in The Dark Knight Rises]]
-- [[social_inequality_and_its_depiction_in_the_dark_knight_rises | Social inequality and its depiction in The Dark Knight Rises]]
-- [[critique_of_narrative_and_execution_in_the_dark_knight_rises | Critique of narrative and execution in The Dark Knight Rises]]
-
-### [The Matrix Reloaded: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=TROA_0RxZmM)
-- [[philosophical_themes_in_the_matrix_reloaded | Philosophical themes in The Matrix Reloaded]]
-- [[determinism_and_free_will | Determinism and free will]]
-- [[the_heros_journey_and_narrative_structure | The heros journey and narrative structure]]
-- [[criticisms_of_action_scenes_and_plot_progression | Criticisms of action scenes and plot progression]]
-- [[symbolism_and_references_in_the_matrix_reloaded | Symbolism and references in The Matrix Reloaded]]
-
-### [The Philosophy of GET OUT – Wisecrack Edition](https://www.youtube.com/watch?v=9gQP4ffowCY)
-- [[criticism_of_white_liberalism_in_get_out | Criticism of white liberalism in Get Out]]
-- [[negrophilia_and_fascination_with_black_culture | Negrophilia and fascination with black culture]]
-- [[symbolism_and_metaphors_in_get_out | Symbolism and metaphors in Get Out]]
-- [[exploration_of_double_consciousness_and_identity | Exploration of double consciousness and identity]]
-- [[the_impact_of_systemic_racism_and_societal_norms | The impact of systemic racism and societal norms]]
-
-### [Hidden Meaning in Batman: The Dark Knight– Earthling Cinema](https://www.youtube.com/watch?v=Qcqr2CQHeJs)
-- [[duality_in_batman_the_dark_knight | Duality in Batman The Dark Knight]]
-- [[chaos_versus_order_in_the_dark_knight | Chaos versus Order in The Dark Knight]]
-- [[character_analysis_of_the_joker | Character Analysis of the Joker]]
-- [[symbolism_of_harvey_dent_in_the_dark_knight | Symbolism of Harvey Dent in The Dark Knight]]
-- [[the_concept_of_justice_and_morality_in_the_dark_knight | The Concept of Justice and Morality in The Dark Knight]]
-
-### [The Philosophy of Fight Club – Wisecrack Edition](https://www.youtube.com/watch?v=7cGrg2Gh4gg)
-- [[critique_of_consumer_capitalism_in_fight_club | Critique of consumer capitalism in Fight Club]]
-- [[philosophical_influences_on_fight_club | Philosophical influences on Fight Club]]
-- [[masculinity_and_identity_in_fight_club | Masculinity and identity in Fight Club]]
-- [[rationalization_and_dehumanization | Rationalization and dehumanization]]
-- [[fight_clubs_commentary_on_fascism_vs_capitalism | Fight Clubs commentary on fascism vs capitalism]]
+- [[thematic_influence_of_a_tale_of_two_cities_in_the_dark_knight_rises | Thematic influence of A Tale of Two Cities in The Dark Knight Rises]]
+- [[comparison_of_social_inequality_themes_in_the_movie | Comparison of social inequality themes in the movie]]
+- [[the_concept_of_the_noble_lie_in_the_dark_knight_rises | The concept of the noble lie in The Dark Knight Rises]]
+- [[the_treatment_of_pain_and_revolution_themes | The treatment of pain and revolution themes]]
+- [[critiques_of_worldbuilding_and_political_symbolism_in_the_dark_knight_rises | Critiques of worldbuilding and political symbolism in The Dark Knight Rises]]
 
 ### [It's Always Sunny: The Perfect Anti-Sitcom? – Wisecrack Edition](https://www.youtube.com/watch?v=tZ8ZF8VsfU0)
-- [[subversion_of_traditional_sitcom_tropes | Subversion of traditional sitcom tropes]]
-- [[character_analysis_of_the_gang_members | Character analysis of the gang members]]
-- [[lack_of_character_development | Lack of character development]]
-- [[exploration_of_moral_themes_in_the_show | Exploration of moral themes in the show]]
-- [[romantic_dysfunctions_and_relationships | Romantic dysfunctions and relationships]]
+- [[comparison_between_its_always_sunny_and_traditional_sitcoms | Comparison between Its Always Sunny and traditional sitcoms]]
+- [[character_analysis_of_the_gang_in_its_always_sunny | Character analysis of the gang in Its Always Sunny]]
+- [[lack_of_character_development_in_its_always_sunny | Lack of character development in Its Always Sunny]]
+- [[exploration_of_moral_themes_in_its_always_sunny | Exploration of moral themes in Its Always Sunny]]
+- [[romantic_relationships_in_its_always_sunny | Romantic relationships in Its Always Sunny]]
+
+### [The Philosophy of GET OUT – Wisecrack Edition](https://www.youtube.com/watch?v=9gQP4ffowCY)
+- [[white_liberal_racism_in_get_out | White liberal racism in Get Out]]
+- [[negrophilia_and_black_identity | Negrophilia and black identity]]
+- [[jordan_peeles_commentary_on_postracial_america | Jordan Peeles commentary on postracial America]]
+- [[the_sunken_place_as_a_metaphor | The Sunken Place as a metaphor]]
+- [[double_consciousness_and_structural_racism | Double consciousness and structural racism]]
+
+### [The Matrix Reloaded: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=TROA_0RxZmM)
+- [[dramatic_structure_of_the_matrix_reloaded | Dramatic structure of The Matrix Reloaded]]
+- [[philosophical_themes_in_the_matrix_reloaded | Philosophical themes in The Matrix Reloaded]]
+- [[critique_of_character_agency_in_the_film | Critique of character agency in the film]]
+- [[impact_of_action_sequences_on_storytelling | Impact of action sequences on storytelling]]
+- [[determinism_in_the_matrix_reloaded | Determinism in The Matrix Reloaded]]
+
+### [Hidden Meaning in Batman: The Dark Knight– Earthling Cinema](https://www.youtube.com/watch?v=Qcqr2CQHeJs)
+- [[duality_in_the_dark_knight | Duality in The Dark Knight]]
+- [[jokers_philosophy_of_chaos_and_nihilism | Jokers philosophy of chaos and nihilism]]
+- [[harvey_dents_transformation_and_symbolism | Harvey Dents transformation and symbolism]]
+- [[batman_as_a_force_of_order_versus_morality | Batman as a force of order versus morality]]
+- [[moral_dilemmas_and_justice_in_the_dark_knight | Moral dilemmas and justice in The Dark Knight]]
 
 ### [Macbeth (Shakespeare) - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=T-PKotyoxys)
-- [[macbeths_ambition_and_downfall | Macbeths Ambition and Downfall]]
-- [[role_of_the_witches_in_macbeth | Role of the Witches in Macbeth]]
-- [[lady_macbeths_influence | Lady Macbeths Influence]]
-- [[themes_of_fate_and_free_will | Themes of Fate and Free Will]]
-- [[tragic_consequences_of_power_lust | Tragic Consequences of Power Lust]]
+- [[summary_of_macbeth | Summary of Macbeth]]
+- [[character_analysis_of_macbeth_and_lady_macbeth | Character analysis of Macbeth and Lady Macbeth]]
+- [[role_of_the_witches_in_macbeth | Role of the witches in Macbeth]]
+- [[themes_of_ambition_and_power_in_macbeth | Themes of ambition and power in Macbeth]]
+- [[fate_and_free_will_in_macbeth | Fate and free will in Macbeth]]
+
+### [The Philosophy of Get Schwifty (Rick and Morty) – Wisecrack Edition](https://www.youtube.com/watch?v=BxwZWXBwxFU)
+- [[philosophy_of_rick_and_mortys_get_schwifty_episode | Philosophy of Rick and Mortys Get Schwifty episode]]
+- [[critique_of_religion_and_belief_systems_in_rick_and_morty | Critique of religion and belief systems in Rick and Morty]]
+- [[logical_fallacies_explored_in_get_schwifty | Logical fallacies explored in Get Schwifty]]
+- [[confirmation_bias_and_belief_rationalization | Confirmation bias and belief rationalization]]
+- [[structure_of_human_belief_and_cognition_in_rick_and_morty | Structure of human belief and cognition in Rick and Morty]]
+
+### [The Philosophy of Fight Club – Wisecrack Edition](https://www.youtube.com/watch?v=7cGrg2Gh4gg)
+- [[consumerism_and_rationalization_in_fight_club | Consumerism and Rationalization in Fight Club]]
+- [[masculinity_and_gender_roles_in_fight_club | Masculinity and Gender Roles in Fight Club]]
+- [[capitalism_versus_fascism_in_fight_club | Capitalism versus Fascism in Fight Club]]
+- [[psychology_and_identity_in_fight_club | Psychology and Identity in Fight Club]]
+- [[philosophical_influences_in_fight_club | Philosophical Influences in Fight Club]]
+
+### [Darth Vader's Biggest Fears – Star Wars Explained: Wisecrack Edition](https://www.youtube.com/watch?v=KJBbzmlSaxU)
+- [[darth_vaders_fear_of_death | Darth Vaders fear of death]]
+- [[philosophical_responses_to_death_in_star_wars | Philosophical responses to death in Star Wars]]
+- [[anakin_skywalkers_transformation_into_darth_vader | Anakin Skywalkers transformation into Darth Vader]]
+- [[jedi_training_and_the_concept_of_death_denial | Jedi training and the concept of death denial]]
+- [[contrast_between_jedi_and_sith_attitudes_towards_death | Contrast between Jedi and Sith attitudes towards death]]
+
+### [Lord of the Flies - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=bJp1ptX4F3M)
+- [[plot_summary_of_lord_of_the_flies | Plot summary of Lord of the Flies]]
+- [[character_analysis_in_lord_of_the_flies | Character analysis in Lord of the Flies]]
+- [[symbolism_of_the_conch_and_piggys_glasses | Symbolism of the conch and Piggys glasses]]
+- [[allegorical_themes_in_lord_of_the_flies | Allegorical themes in Lord of the Flies]]
+- [[freudian_analysis_of_themes_and_symbols | Freudian analysis of themes and symbols]]
+
+### [1984 (Nineteen Eighty-Four) - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=zeMlOQsu2zM)
+- [[1984_summary_and_themes | 1984 summary and themes]]
+- [[character_analysis_of_winston_smith | Character analysis of Winston Smith]]
+- [[the_concept_and_impact_of_big_brother | The concept and impact of Big Brother]]
+- [[the_role_of_doublethink_and_reality_manipulation | The role of doublethink and reality manipulation]]
+- [[critique_of_totalitarian_regimes_in_1984 | Critique of totalitarian regimes in 1984]]
+
+### [The Philosophy of Archer – Wisecrack Edition](https://www.youtube.com/watch?v=Mvm8RTdJgq0)
+- [[archer_as_a_parody_of_james_bond | Archer as a parody of James Bond]]
+- [[crisis_of_masculinity_in_spy_narratives | Crisis of masculinity in spy narratives]]
+- [[use_of_language_and_sound_gags_in_archer | Use of language and sound gags in Archer]]
+- [[relationship_dynamics_and_power_struggles_in_archer | Relationship dynamics and power struggles in Archer]]
+- [[masculine_stereotypes_and_humor_in_archer | Masculine stereotypes and humor in Archer]]
 
 ### [How RICK & MORTY Tells A Story (The Ricks Must Be Crazy) – Wisecrack Edition](https://www.youtube.com/watch?v=l_c2hqmFBdM)
 - [[rick_and_morty_story_structure | Rick and Morty story structure]]
-- [[dan_harmons_story_circle_theory | Dan Harmons story circle theory]]
-- [[differences_between_tv_and_movie_storytelling | Differences between TV and movie storytelling]]
-- [[narrative_techniques_in_animation | Narrative techniques in animation]]
-- [[character_development_in_rick_and_morty | Character development in Rick and Morty]]
-
-### [Darth Vader's Biggest Fears – Star Wars Explained: Wisecrack Edition](https://www.youtube.com/watch?v=KJBbzmlSaxU)
-- [[darth_vader_and_the_fear_of_death | Darth Vader and the fear of death]]
-- [[philosophical_responses_to_death_in_star_wars | Philosophical responses to death in Star Wars]]
-- [[anakin_skywalkers_transformation_and_death_denial | Anakin Skywalkers transformation and death denial]]
-- [[sith_versus_jedi_approach_to_mortality | Sith versus Jedi approach to mortality]]
-- [[the_role_of_fear_in_anakins_path_to_the_dark_side | The role of fear in Anakins path to the Dark Side]]
-
-### [The Philosophy of Archer – Wisecrack Edition](https://www.youtube.com/watch?v=Mvm8RTdJgq0)
-- [[parody_of_the_spy_genre_in_archer | Parody of the spy genre in Archer]]
-- [[archers_use_of_humor_and_character_psychology | Archers use of humor and character psychology]]
-- [[complexities_of_masculinity_in_archer | Complexities of masculinity in Archer]]
-- [[language_and_communication_in_archer | Language and communication in Archer]]
-- [[cultural_references_and_their_role_in_archer | Cultural references and their role in Archer]]
+- [[dan_harmons_story_embryo | Dan Harmons story embryo]]
+- [[tv_storytelling_versus_film_storytelling | TV storytelling versus film storytelling]]
+- [[episode_breakdown_of_the_ricks_must_be_crazy | Episode breakdown of The Ricks Must Be Crazy]]
+- [[theme_of_futility_of_change_in_rick_and_morty | Theme of futility of change in Rick and Morty]]
 
 ### [Hidden Meaning in The Incredibles – Earthling Cinema](https://www.youtube.com/watch?v=366wq306duA)
-- [[analysis_of_the_incredibles_movie | Analysis of The Incredibles movie]]
-- [[themes_of_greatness_and_mediocrity_in_society | Themes of greatness and mediocrity in society]]
-- [[character_development_of_the_incredibles_family | Character development of the Incredibles family]]
-- [[syndromes_character_and_villainy | Syndromes character and villainy]]
-- [[philosophical_themes_and_societal_critiques_in_the_incredibles | Philosophical themes and societal critiques in The Incredibles]]
-
-### [1984 (Nineteen Eighty-Four) - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=zeMlOQsu2zM)
-- [[overview_of_1984_by_george_orwell | Overview of 1984 by George Orwell]]
-- [[characters_and_plot_summary_of_1984 | Characters and Plot Summary of 1984]]
-- [[themes_of_totalitarianism_and_control | Themes of Totalitarianism and Control]]
-- [[concept_of_doublethink | Concept of Doublethink]]
-- [[comparison_to_historical_figures_like_stalin_and_hitler | Comparison to Historical Figures like Stalin and Hitler]]
-
-### [Lord of the Flies - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=bJp1ptX4F3M)
-- [[summary_of_lord_of_the_flies | Summary of Lord of the Flies]]
-- [[character_analysis_ralph_piggy_jack_simon | Character analysis Ralph Piggy Jack Simon]]
-- [[symbolism_the_conch_and_the_lord_of_the_flies | Symbolism The conch and The Lord of the Flies]]
-- [[themes_allegory_of_society_and_human_nature | Themes Allegory of society and human nature]]
-- [[violence_savagery_and_loss_of_innocence | Violence savagery and loss of innocence]]
+- [[the_incredibles_plot_summary | The Incredibles plot summary]]
+- [[themes_of_greatness_and_mediocrity_in_the_incredibles | Themes of greatness and mediocrity in The Incredibles]]
+- [[syndromes_character_and_motivations | Syndromes character and motivations]]
+- [[philosophical_references_in_the_incredibles | Philosophical references in The Incredibles]]
+- [[family_dynamics_in_the_incredibles | Family dynamics in The Incredibles]]
 
 ### [The Great Gatsby - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=2VEQRPm_HyA)
 - [[summary_of_the_great_gatsby | Summary of The Great Gatsby]]
-- [[characters_and_relationships_in_the_great_gatsby | Characters and relationships in The Great Gatsby]]
-- [[the_american_dream_in_the_great_gatsby | The American Dream in The Great Gatsby]]
-- [[motifs_in_the_great_gatsby | Motifs in The Great Gatsby]]
-- [[symbolism_of_the_green_light_in_the_great_gatsby | Symbolism of the green light in The Great Gatsby]]
-
-### [Why Did Rick Really Turn Himself Into A Pickle? – Rick and Morty Season 3 Episode 3 Breakdown](https://www.youtube.com/watch?v=PvfRqMgVpz8)
-- [[ricks_transformation_into_pickle_rick | Ricks transformation into Pickle Rick]]
-- [[ricks_avoidance_of_family_therapy | Ricks avoidance of family therapy]]
-- [[themes_of_freedom_and_choice_in_rick_and_morty | Themes of freedom and choice in Rick and Morty]]
-- [[existentialism_and_jean_paul_sartres_philosophy | Existentialism and Jean Paul Sartres philosophy]]
-- [[role_of_dr_wong_and_her_perspective_on_choice | Role of Dr Wong and her perspective on choice]]
+- [[character_analysis_of_jay_gatsby_and_daisy_buchanan | Character analysis of Jay Gatsby and Daisy Buchanan]]
+- [[symbolism_in_the_great_gatsby | Symbolism in The Great Gatsby]]
+- [[critique_of_the_american_dream_in_the_great_gatsby | Critique of the American Dream in The Great Gatsby]]
+- [[motifs_of_dreams_versus_reality_in_the_great_gatsby | Motifs of dreams versus reality in The Great Gatsby]]
 
 ### [How Monty Python Shaped Modern Comedy (feat. Rick and Morty & Deadpool) – Wisecrack Edition](https://www.youtube.com/watch?v=vFANgWN2Ul0)
-- [[influence_of_monty_python_on_modern_comedy | Influence of Monty Python on modern comedy]]
-- [[postmodernism_in_comedy | Postmodernism in comedy]]
-- [[comedy_of_the_absurd_and_existentialist_themes | Comedy of the absurd and existentialist themes]]
-- [[monty_pythons_satirical_take_on_political_and_social_issues | Monty Pythons satirical take on political and social issues]]
-- [[monty_pythons_deconstruction_of_classical_narratives | Monty Pythons deconstruction of classical narratives]]
-
-### [Flat Earth: What Makes REAL Science? – Wisecrack Edition](https://www.youtube.com/watch?v=umo6pMCkcXs)
-- [[flat_earth_theories_and_misconceptions | Flat Earth theories and misconceptions]]
-- [[philosophy_of_science_and_verificationism_vs_falsificationism | Philosophy of science and verificationism vs falsificationism]]
-- [[scientific_inquiry_and_the_nature_of_evidence | Scientific inquiry and the nature of evidence]]
-- [[challenges_in_public_understanding_of_science | Challenges in public understanding of science]]
-- [[conspiracy_theories_and_societal_trust_in_experts | Conspiracy theories and societal trust in experts]]
-
-### [The Office: How Nonsense Conquered the Workplace – Wisecrack Edition](https://www.youtube.com/watch?v=_Lngf3J8vN4)
-- [[the_popularity_of_the_office_and_its_cultural_impact | The popularity of The Office and its cultural impact]]
-- [[the_concept_of_nonsense_and_bs_jobs_within_the_office_and_real_life | The concept of nonsense and BS jobs within The Office and real life]]
-- [[anthropologist_david_graebers_theory_on_bs_jobs | Anthropologist David Graebers theory on BS jobs]]
-- [[workplace_dynamics_and_character_archetypes_in_the_office | Workplace dynamics and character archetypes in The Office]]
-- [[the_rise_of_the_service_economy_and_its_implications_on_job_satisfaction | The rise of the service economy and its implications on job satisfaction]]
-
-### [Hidden Meaning in Pulp Fiction – Earthling Cinema](https://www.youtube.com/watch?v=Ulbvs-DMriM)
-- [[interconnected_stories_and_characters_in_pulp_fiction | Interconnected stories and characters in Pulp Fiction]]
-- [[trivialization_of_violence_and_traditional_gangster_tropes | Trivialization of violence and traditional gangster tropes]]
-- [[significance_and_symbolism_of_the_briefcase | Significance and symbolism of the briefcase]]
-- [[use_of_time_and_pacing_to_contrast_high_stakes_with_mundane_activities | Use of time and pacing to contrast high stakes with mundane activities]]
-- [[role_of_chance_and_coincidence_in_the_film | Role of chance and coincidence in the film]]
-
-### [The Philosophy of BioShock – Wisecrack Edition](https://www.youtube.com/watch?v=yKf4MtZ4RQA)
-- [[integration_of_philosophical_concepts_in_bioshock | Integration of philosophical concepts in Bioshock]]
-- [[ayn_rands_objectivism_and_its_influence_on_bioshock | Ayn Rands Objectivism and its influence on Bioshock]]
-- [[american_exceptionalism_and_its_critique_in_bioshock_infinite | American Exceptionalism and its critique in Bioshock Infinite]]
-- [[the_illusion_of_choice_and_free_will_in_the_bioshock_series | The illusion of choice and free will in the Bioshock series]]
-- [[comparison_between_rapture_and_columbia_as_philosophical_constructs | Comparison between Rapture and Columbia as philosophical constructs]]
-
-### [South Park – Season 20: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=b8KUTZUqyzk)
-- [[serialization_in_south_park | Serialization in South Park]]
-- [[narrative_structure_and_the_golden_rule_in_storytelling | Narrative structure and the golden rule in storytelling]]
-- [[impact_of_political_events_on_south_parks_plot_development | Impact of political events on South Parks plot development]]
-- [[challenges_faced_by_south_park_creators_in_season_20 | Challenges faced by South Park creators in Season 20]]
-- [[analysis_of_south_parks_approach_to_satire_and_internet_culture | Analysis of South Parks approach to satire and internet culture]]
+- [[influence_of_monty_python_on_modern_comedy | Influence of Monty Python on Modern Comedy]]
+- [[postmodernism_in_monty_pythons_work | Postmodernism in Monty Pythons Work]]
+- [[absurdist_humor_in_monty_python_and_the_life_of_brian | Absurdist Humor in Monty Python and The Life of Brian]]
+- [[social_and_political_satire_in_monty_pythons_the_meaning_of_life | Social and Political Satire in Monty Pythons The Meaning of Life]]
+- [[monty_pythons_impact_on_shows_like_south_park_and_rick_and_morty | Monty Pythons Impact on Shows like South Park and Rick and Morty]]
 
 ### [The Hidden Meaning in The Lion King – Earthling Cinema](https://www.youtube.com/watch?v=nvklsOQiwOc)
-- [[analysis_of_the_lion_king_plot_and_characters | Analysis of The Lion King plot and characters]]
-- [[comparison_between_the_lion_king_and_hamlet | Comparison between The Lion King and Hamlet]]
-- [[themes_of_social_order_and_hierarchy_in_the_lion_king | Themes of social order and hierarchy in The Lion King]]
-- [[symbolism_and_hidden_messages_in_the_lion_king | Symbolism and hidden messages in The Lion King]]
-- [[scars_role_and_political_undertones_in_the_lion_king | Scars role and political undertones in The Lion King]]
+- [[comparison_of_the_lion_king_and_hamlet | Comparison of The Lion King and Hamlet]]
+- [[themes_of_the_circle_of_life_and_social_order_in_the_lion_king | Themes of the circle of life and social order in The Lion King]]
+- [[character_analysis_of_scar_and_his_politics | Character analysis of Scar and his politics]]
+- [[symbolism_and_cultural_references_in_the_lion_king | Symbolism and cultural references in The Lion King]]
+- [[discussion_on_the_influence_of_cultural_stories_and_myths_in_the_lion_kings_narrative | Discussion on the influence of cultural stories and myths in The Lion Kings narrative]]
+
+### [SOUTH PARK's Must-Know References! – Wisecrack Edition](https://www.youtube.com/watch?v=PLjT1mBClVI)
+- [[satirical_social_commentary_in_south_park | Satirical social commentary in South Park]]
+- [[celebrity_culture_and_media_critique | Celebrity culture and media critique]]
+- [[artificial_intelligence_and_advertising_in_south_park | Artificial intelligence and advertising in South Park]]
+- [[critique_of_charity_and_moralism_in_modern_society | Critique of charity and moralism in modern society]]
+- [[parody_of_disaster_films_and_media_sensationalism | Parody of disaster films and media sensationalism]]
+
+### [Why Did Rick Really Turn Himself Into A Pickle? – Rick and Morty Season 3 Episode 3 Breakdown](https://www.youtube.com/watch?v=PvfRqMgVpz8)
+- [[ricks_transformation_into_a_pickle | Ricks transformation into a pickle]]
+- [[avoidance_of_family_therapy | Avoidance of family therapy]]
+- [[themes_of_existential_freedom_and_choice | Themes of existential freedom and choice]]
+- [[parallels_between_rick_and_beth | Parallels between Rick and Beth]]
+- [[ricks_views_on_control_and_multiverse | Ricks views on control and multiverse]]
+
+### [Flat Earth: What Makes REAL Science? – Wisecrack Edition](https://www.youtube.com/watch?v=umo6pMCkcXs)
+- [[flat_earth_movement_and_beliefs | Flat Earth movement and beliefs]]
+- [[philosophy_of_science_and_verificationism | Philosophy of science and verificationism]]
+- [[falsification_and_scientific_method | Falsification and scientific method]]
+- [[trust_in_scientific_consensus_and_expertise | Trust in scientific consensus and expertise]]
+- [[impact_of_conspiracy_theories_on_society | Impact of conspiracy theories on society]]
+
+### [The Philosophy of BioShock – Wisecrack Edition](https://www.youtube.com/watch?v=yKf4MtZ4RQA)
+- [[integration_of_philosophical_concepts_in_bioshock_games | Integration of philosophical concepts in Bioshock games]]
+- [[ayn_rands_objectivism_and_its_influence_on_bioshock | Ayn Rands Objectivism and its influence on Bioshock]]
+- [[the_role_of_free_market_and_deregulation_in_bioshocks_narrative | The role of free market and deregulation in Bioshocks narrative]]
+- [[american_exceptionalism_and_its_critique_in_bioshock_infinite | American Exceptionalism and its critique in Bioshock Infinite]]
+- [[the_illusion_of_free_will_and_player_choice_in_bioshock | The illusion of free will and player choice in Bioshock]]
 
 ### [How South Park Gets Trump Right – Wisecrack Quick Take](https://www.youtube.com/watch?v=i-fNKErt1PU)
-- [[social_satire_in_south_park | Social satire in South Park]]
-- [[south_parks_portrayal_of_trump | South Parks portrayal of Trump]]
-- [[parallels_between_abusive_relationships_and_trump_support | Parallels between abusive relationships and Trump support]]
-- [[south_parks_critique_of_liberal_media | South Parks critique of liberal media]]
-- [[role_of_antisemitism_in_south_park | Role of antiSemitism in South Park]]
+- [[south_parks_approach_to_social_satire | South Parks approach to social satire]]
+- [[the_challenges_of_creating_satire_in_the_trump_era | The challenges of creating satire in the Trump era]]
+- [[analysis_of_south_parks_episode_on_trump_and_parallels_with_abusive_relationships | Analysis of South Parks episode on Trump and parallels with abusive relationships]]
+- [[critique_of_liberal_medias_portrayal_of_trump_voters | Critique of liberal medias portrayal of Trump voters]]
+- [[south_parks_treatment_of_antisemitism_and_cultural_bigotry | South Parks treatment of antiSemitism and cultural bigotry]]
 
-### [Why Does Rick Need Toxic Rick? – Rick and Morty Season 3 Episode 6 Breakdown – Wisecrack Quick Take](https://www.youtube.com/watch?v=IPAqPA5WF8w)
-- [[rick_and_morty_season_3_episode_6_breakdown | Rick and Morty Season 3 Episode 6 breakdown]]
-- [[character_development_and_anticharacter_development_in_rick_and_morty | Character development and anticharacter development in Rick and Morty]]
-- [[themes_of_mental_health_in_rick_and_morty | Themes of mental health in Rick and Morty]]
-- [[critique_of_selfhelp_culture_in_rick_and_morty | Critique of selfhelp culture in Rick and Morty]]
-- [[the_role_of_toxic_traits_in_personal_identity | The role of toxic traits in personal identity]]
+### [South Park – Season 20: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=b8KUTZUqyzk)
+- [[south_park_serialized_storylines | South Park serialized storylines]]
+- [[season_20_narrative_challenges | Season 20 narrative challenges]]
+- [[impact_of_2016_presidential_election_on_south_park | Impact of 2016 presidential election on South Park]]
+- [[south_parks_writing_rules_and_plot_structure | South Parks writing rules and plot structure]]
+- [[trolling_and_internet_culture_in_south_park | Trolling and internet culture in South Park]]
 
-### [IDIOCRACY: Is It Deep or Dumb? – Wisecrack Edition](https://www.youtube.com/watch?v=522T2axRBcU)
-- [[cultural_commentary_in_idiocracy | Cultural Commentary in Idiocracy]]
-- [[political_satire_and_antiintellectualism_in_idiocracy | Political Satire and Antiintellectualism in Idiocracy]]
-- [[pseudoscience_and_the_theme_of_too_many_babies_in_idiocracy | Pseudoscience and the Theme of Too Many Babies in Idiocracy]]
-- [[corporate_influence_and_spectacle_in_modern_society | Corporate Influence and Spectacle in Modern Society]]
-- [[cultural_prescience_and_criticism_in_idiocracy | Cultural Prescience and Criticism in Idiocracy]]
+### [Hidden Meaning in Pulp Fiction – Earthling Cinema](https://www.youtube.com/watch?v=Ulbvs-DMriM)
+- [[hidden_meanings_and_analysis_of_pulp_fiction | Hidden meanings and analysis of Pulp Fiction]]
+- [[quentin_tarantinos_storytelling_techniques | Quentin Tarantinos storytelling techniques]]
+- [[the_use_of_humor_and_violence_in_pulp_fiction | The use of humor and violence in Pulp Fiction]]
+- [[themes_of_fate_and_coincidence_in_pulp_fiction | Themes of fate and coincidence in Pulp Fiction]]
+- [[character_dynamics_and_arcs_in_pulp_fiction | Character dynamics and arcs in Pulp Fiction]]
 
-### [Animal Farm - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=ITKfr1qOZ0w)
-- [[summary_of_animal_farm_by_george_orwell | Summary of Animal Farm by George Orwell]]
-- [[animalism_and_rebellion_in_animal_farm | Animalism and Rebellion in Animal Farm]]
-- [[character_analysis_of_napoleon_and_snowball | Character analysis of Napoleon and Snowball]]
-- [[allegory_of_the_soviet_union_in_animal_farm | Allegory of the Soviet Union in Animal Farm]]
-- [[themes_of_corruption_and_power_in_animal_farm | Themes of corruption and power in Animal Farm]]
-
-### [What is Real? (Plato's Allegory of the Cave) - 8-Bit Philosophy](https://www.youtube.com/watch?v=lVDaSgyi3xE)
-- [[platos_allegory_of_the_cave | Platos Allegory of the Cave]]
-- [[perception_of_reality | Perception of reality]]
-- [[forms_and_objects | Forms and objects]]
-- [[philosophical_exploration_of_truth | Philosophical exploration of truth]]
-- [[human_understanding_of_reality | Human understanding of reality]]
-
-### [Hidden Meaning in Spirited Away (Miyazaki) – Earthling Cinema](https://www.youtube.com/watch?v=zcFyXaLeXko)
-- [[themes_of_spirited_away | Themes of Spirited Away]]
-- [[symbolism_in_spirited_away | Symbolism in Spirited Away]]
-- [[cultural_references_in_spirited_away | Cultural references in Spirited Away]]
-- [[character_analysis_of_spirited_away | Character analysis of Spirited Away]]
-- [[hayao_miyazaki_and_studio_ghibli | Hayao Miyazaki and Studio Ghibli]]
-
-### [Why Beth Chose Jerry – Rick and Morty Season 3 Episode 10 Breakdown – Wisecrack Quick Take](https://www.youtube.com/watch?v=M7-qnvEKMaU)
-- [[nihilism_and_existential_themes_in_rick_and_morty | Nihilism and existential themes in Rick and Morty]]
-- [[character_development_of_beth_in_season_3_finale | Character development of Beth in Season 3 Finale]]
-- [[philosophical_themes_of_amor_fati_and_eternal_recurrence | Philosophical themes of Amor Fati and Eternal Recurrence]]
-- [[analysis_of_beth_and_jerrys_relationship_dynamics | Analysis of Beth and Jerrys relationship dynamics]]
-- [[nietzschean_philosophy_and_its_application_in_rick_and_morty | Nietzschean philosophy and its application in Rick and Morty]]
+### [The Office: How Nonsense Conquered the Workplace – Wisecrack Edition](https://www.youtube.com/watch?v=_Lngf3J8vN4)
+- [[the_popularity_and_cultural_impact_of_the_office | The popularity and cultural impact of The Office]]
+- [[bs_jobs_and_the_modern_workplace | BS jobs and the modern workplace]]
+- [[the_role_of_nonsense_in_professional_life_as_depicted_in_the_office | The role of nonsense in professional life as depicted in The Office]]
+- [[david_graebers_theory_on_the_proliferation_of_pointless_jobs | David Graebers theory on the proliferation of pointless jobs]]
+- [[the_psychology_and_sociology_of_work_as_explored_in_the_office | The psychology and sociology of work as explored in The Office]]
 
 ### [The Philosophy of Westworld – Wisecrack Edition](https://www.youtube.com/watch?v=1j2Q8yXx7vY)
 - [[philosophical_themes_in_westworld | Philosophical themes in Westworld]]
-- [[free_will_and_predestination_in_westworld | Free will and predestination in Westworld]]
-- [[biblical_references_in_westworld | Biblical references in Westworld]]
-- [[ethics_and_consciousness_in_westworld | Ethics and consciousness in Westworld]]
-- [[meaning_and_suffering_in_human_and_artificial_lives | Meaning and suffering in human and artificial lives]]
+- [[free_will_and_consciousness_in_westworld | Free will and consciousness in Westworld]]
+- [[religious_imagery_and_the_story_of_genesis_in_westworld | Religious imagery and the story of Genesis in Westworld]]
+- [[predestination_vs_free_will | Predestination vs free will]]
+- [[ethics_and_the_role_of_suffering_in_westworld | Ethics and the role of suffering in Westworld]]
+
+### [Why Does Rick Need Toxic Rick? – Rick and Morty Season 3 Episode 6 Breakdown – Wisecrack Quick Take](https://www.youtube.com/watch?v=IPAqPA5WF8w)
+- [[character_development_in_rick_and_morty | Character development in Rick and Morty]]
+- [[mental_health_themes_in_rest_and_ricklaxation | Mental health themes in Rest and Ricklaxation]]
+- [[critique_of_selfhelp_culture_in_rick_and_morty | Critique of selfhelp culture in Rick and Morty]]
+- [[toxic_selves_as_a_narrative_device | Toxic selves as a narrative device]]
+- [[concept_of_compulsory_happiness_in_modern_society | Concept of compulsory happiness in modern society]]
+
+### [IDIOCRACY: Is It Deep or Dumb? – Wisecrack Edition](https://www.youtube.com/watch?v=522T2axRBcU)
+- [[cultural_and_political_commentary_in_idiocracy | Cultural and political commentary in Idiocracy]]
+- [[antiintellectualism_vs_pseudointellectualism_in_society | Antiintellectualism vs pseudointellectualism in society]]
+- [[eugenics_and_the_concept_of_social_deterioration | Eugenics and the concept of social deterioration]]
+- [[corporate_influence_and_consumer_culture | Corporate influence and consumer culture]]
+- [[spectacle_and_mediadriven_politics | Spectacle and mediadriven politics]]
+
+### [Animal Farm - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=ITKfr1qOZ0w)
+- [[plot_summary_of_animal_farm | Plot summary of Animal Farm]]
+- [[animalism_and_its_commandments | Animalism and its commandments]]
+- [[character_analysis_of_napoleon_snowball_squealer_and_old_major | Character analysis of Napoleon Snowball Squealer and Old Major]]
+- [[allegory_for_the_soviet_union_and_its_leaders | Allegory for the Soviet Union and its leaders]]
+- [[themes_of_power_and_corruption_in_animal_farm | Themes of power and corruption in Animal Farm]]
+
+### [Hidden Meaning in Spirited Away (Miyazaki) – Earthling Cinema](https://www.youtube.com/watch?v=zcFyXaLeXko)
+- [[symbolism_in_spirited_away | Symbolism in Spirited Away]]
+- [[themes_of_overconsumption_and_capitalism_in_spirited_away | Themes of overconsumption and capitalism in Spirited Away]]
+- [[comparison_of_spirited_away_to_other_coming_of_age_stories | Comparison of Spirited Away to other coming of age stories]]
+- [[cultural_influences_and_historical_context_in_spirited_away | Cultural influences and historical context in Spirited Away]]
+- [[miyazakis_artistic_techniques_and_legacy_through_spirited_away | Miyazakis artistic techniques and legacy through Spirited Away]]
+
+### [What is Real? (Plato's Allegory of the Cave) - 8-Bit Philosophy](https://www.youtube.com/watch?v=lVDaSgyi3xE)
+- [[platos_allegory_of_the_cave | Platos Allegory of the Cave]]
+- [[perception_of_reality | Perception of Reality]]
+- [[concept_of_real_vs_fake | Concept of Real vs Fake]]
+- [[platos_theory_of_forms | Platos Theory of Forms]]
+- [[exploration_of_human_beliefs_and_perception | Exploration of Human Beliefs and Perception]]
+
+### [Why Beth Chose Jerry – Rick and Morty Season 3 Episode 10 Breakdown – Wisecrack Quick Take](https://www.youtube.com/watch?v=M7-qnvEKMaU)
+- [[rick_and_morty_season_3_finale_breakdown | Rick and Morty Season 3 finale breakdown]]
+- [[philosophical_themes_in_rick_and_morty | Philosophical themes in Rick and Morty]]
+- [[beths_character_development_and_choice | Beths character development and choice]]
+- [[amor_fati_and_its_application_in_the_episode | Amor Fati and its application in the episode]]
+- [[nietzschean_philosophy_in_rick_and_morty | Nietzschean philosophy in Rick and Morty]]
 
 ### [The Philosophy of Attack on Titan – Wisecrack Edition](https://www.youtube.com/watch?v=1XJhZVmORlM)
-- [[exploration_of_death_in_attack_on_titan | Exploration of Death in Attack on Titan]]
-- [[nazi_ideology_and_carl_schmitts_influence_on_attack_on_titan | Nazi Ideology and Carl Schmitts Influence on Attack on Titan]]
-- [[friend_enemy_distinction_in_politics_and_attack_on_titan | Friend Enemy Distinction in Politics and Attack on Titan]]
-- [[role_of_sovereignty_and_state_of_emergency_in_attack_on_titan | Role of Sovereignty and State of Emergency in Attack on Titan]]
-- [[social_inequality_and_class_structure_in_attack_on_titan | Social Inequality and Class Structure in Attack on Titan]]
+- [[philosophy_of_attack_on_titan | Philosophy of Attack on Titan]]
+- [[personification_of_death_in_titans | Personification of Death in Titans]]
+- [[societal_themes_and_political_ideology_in_attack_on_titan | Societal Themes and Political Ideology in Attack on Titan]]
+- [[carl_schmitts_influence_and_theory_in_attack_on_titan | Carl Schmitts Influence and Theory in Attack on Titan]]
+- [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | FriendEnemy Distinction and Sovereignty in Attack on Titan]]
 
 ### [Hamlet (Shakespeare) - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=A98tf9krihg)
 - [[summary_of_hamlet_by_shakespeare | Summary of Hamlet by Shakespeare]]
-- [[character_analysis_of_hamlet_and_claudius | Character analysis of Hamlet and Claudius]]
-- [[themes_of_corruption_and_treachery_in_hamlet | Themes of corruption and treachery in Hamlet]]
-- [[hamlets_procrastination_and_internal_conflict | Hamlets procrastination and internal conflict]]
-- [[interpretations_of_the_ghost_and_hamlets_madness | Interpretations of the ghost and Hamlets madness]]
+- [[character_analysis_of_hamlet | Character Analysis of Hamlet]]
+- [[themes_of_deception_and_corruption | Themes of Deception and Corruption]]
+- [[hamlets_procrastination_and_motivations | Hamlets Procrastination and Motivations]]
+- [[existentialism_and_uncertainty_in_hamlet | Existentialism and Uncertainty in Hamlet]]
 
 ### [Goblin Slayer: Why ONLY Goblins Matter — Wisecrack Edition](https://www.youtube.com/watch?v=8SXLtltYE8w)
-- [[analysis_of_goblin_slayers_focus_on_goblin_killing | Analysis of Goblin Slayers focus on goblin killing]]
-- [[subversion_of_fantasy_genre_tropes_in_goblin_slayer | Subversion of fantasy genre tropes in Goblin Slayer]]
-- [[understanding_peace_theory_in_the_context_of_goblin_slayer | Understanding peace theory in the context of Goblin Slayer]]
-- [[impact_of_small_threats_in_fantasy_narratives | Impact of small threats in fantasy narratives]]
-- [[critique_of_heroism_and_societal_roles_in_goblin_slayer | Critique of heroism and societal roles in Goblin Slayer]]
-
-### [MIDSOMMAR: Is It Deep or Dumb?](https://www.youtube.com/watch?v=7t_-uSrPmrA)
-- [[ari_asters_portrayal_of_rituals_in_midsommar | Ari Asters portrayal of rituals in Midsommar]]
-- [[symbolism_and_themes_in_the_film_midsommar | Symbolism and themes in the film Midsommar]]
-- [[character_analysis_of_dany_and_her_arc | Character analysis of Dany and her arc]]
-- [[influence_of_swedish_culture_and_mythology_in_midsommar | Influence of Swedish culture and mythology in Midsommar]]
-- [[comparative_perspectives_on_community_and_belonging_in_midsommar | Comparative perspectives on community and belonging in Midsommar]]
+- [[the_philosophical_themes_of_goblin_slayer | The philosophical themes of Goblin Slayer]]
+- [[analysis_of_fantasy_genre_tropes_in_goblin_slayer | Analysis of fantasy genre tropes in Goblin Slayer]]
+- [[positive_and_negative_peace_theory_in_context_of_goblin_slayer | Positive and negative peace theory in context of Goblin Slayer]]
+- [[goblin_slayers_unconventional_heros_journey | Goblin Slayers unconventional heros journey]]
+- [[cultural_impact_of_goblin_slayer_on_anime_and_fantasy_genres | Cultural impact of Goblin Slayer on anime and fantasy genres]]
 
 ### [The Philosophy of Cowboy Bebop – Wisecrack Edition](https://www.youtube.com/watch?v=8YR4ZrA0xeM)
-- [[analysis_of_cowboy_bebops_unique_genre_blend | Analysis of Cowboy Bebops unique genre blend]]
+- [[genre_blending_in_cowboy_bebop | Genre blending in Cowboy Bebop]]
 - [[philosophical_themes_in_cowboy_bebop | Philosophical themes in Cowboy Bebop]]
-- [[cowboy_bebops_portrayal_of_science_fiction | Cowboy Bebops portrayal of science fiction]]
-- [[character_studies_within_cowboy_bebop | Character studies within Cowboy Bebop]]
-- [[western_and_noir_influences_in_cowboy_bebop | Western and Noir influences in Cowboy Bebop]]
+- [[character_analysis_in_cowboy_bebop | Character analysis in Cowboy Bebop]]
+- [[cowboy_bebop_and_its_take_on_scifi | Cowboy Bebop and its take on scifi]]
+- [[western_and_noir_elements_in_cowboy_bebop | Western and noir elements in Cowboy Bebop]]
+
+### [MIDSOMMAR: Is It Deep or Dumb?](https://www.youtube.com/watch?v=7t_-uSrPmrA)
+- [[analysis_of_ari_asters_midsommar | Analysis of Ari Asters Midsommar]]
+- [[social_commentary_in_horror_films | Social commentary in horror films]]
+- [[themes_of_community_and_belonging_in_midsommar | Themes of community and belonging in Midsommar]]
+- [[comparison_of_midsommars_depiction_of_rituals_to_real_swedish_traditions | Comparison of Midsommars depiction of rituals to real Swedish traditions]]
+- [[modern_secular_perspectives_versus_traditional_rituals_in_midsommar | Modern secular perspectives versus traditional rituals in Midsommar]]
 
 ### [Watchmen vs. One Punch Man: How To Destroy A Hero (Satire vs. Parody) – Wisecrack Edition](https://www.youtube.com/watch?v=9mXDz2rYeh4)
-- [[difference_between_satire_and_parody | Difference between satire and parody]]
-- [[analysis_of_watchmen_as_satire | Analysis of Watchmen as satire]]
-- [[analysis_of_one_punch_man_as_parody | Analysis of One Punch Man as parody]]
-- [[role_of_selfaware_humor_in_media | Role of selfaware humor in media]]
-- [[criticism_of_superhero_archetypes | Criticism of superhero archetypes]]
-
-### [The Philosophy of The Walking Dead – Wisecrack Edition](https://www.youtube.com/watch?v=Lt-paZAUKeQ)
-- [[social_commentary_in_the_walking_dead | Social commentary in The Walking Dead]]
-- [[philosophical_boundaries_in_life_and_death | Philosophical boundaries in life and death]]
-- [[the_exploration_of_humanity_in_postapocalyptic_settings | The exploration of humanity in postapocalyptic settings]]
-- [[the_role_of_dictatorship_and_sovereignty_in_the_walking_dead | The role of dictatorship and sovereignty in The Walking Dead]]
-- [[moral_lines_and_human_nature_in_a_dystopian_world | Moral lines and human nature in a dystopian world]]
-
-### [How Disney Ruined Culture](https://www.youtube.com/watch?v=_jed8B4L4-4)
-- [[disneys_impact_on_popular_culture | Disneys impact on popular culture]]
-- [[disneys_adaptation_and_alteration_of_classic_stories | Disneys adaptation and alteration of classic stories]]
-- [[critiques_of_disneys_storytelling_methods | Critiques of Disneys storytelling methods]]
-- [[disneys_influence_on_childrens_perceptions_and_morals | Disneys influence on childrens perceptions and morals]]
-- [[the_commercialization_and_cultural_implications_of_disneys_brand | The commercialization and cultural implications of Disneys brand]]
+- [[distinction_between_satire_and_parody | Distinction between Satire and Parody]]
+- [[watchmen_as_a_satirical_work | Watchmen as a Satirical Work]]
+- [[one_punch_man_as_a_parodic_work | One Punch Man as a Parodic Work]]
+- [[critique_of_superhero_tropes | Critique of Superhero Tropes]]
+- [[influence_of_omnipotent_characters_on_storytelling | Influence of Omnipotent Characters on Storytelling]]
 
 ### [The Philosophy of Saw – Wisecrack Edition](https://www.youtube.com/watch?v=NnXRQ_j_xB4)
-- [[philosophical_themes_in_the_saw_franchise | Philosophical Themes in the Saw Franchise]]
-- [[jigsaws_morality_and_motivations | Jigsaws Morality and Motivations]]
-- [[early_christian_philosophy_and_suffering_in_saw | Early Christian Philosophy and Suffering in Saw]]
-- [[kierkegaards_influence_on_jigsaws_philosophy | Kierkegaards Influence on Jigsaws Philosophy]]
-- [[flaws_in_jigsaws_moral_code_and_legacy | Flaws in Jigsaws Moral Code and Legacy]]
+- [[jigsaws_motivation_and_philosophy | Jigsaws motivation and philosophy]]
+- [[saw_franchise_and_christian_morality | Saw franchise and Christian morality]]
+- [[kierkegaard_and_personal_responsibility | Kierkegaard and personal responsibility]]
+- [[flaws_in_jigsaws_moral_code | Flaws in Jigsaws moral code]]
+- [[suffering_and_ethical_selfunderstanding | Suffering and ethical selfunderstanding]]
+
+### [The Philosophy of The Walking Dead – Wisecrack Edition](https://www.youtube.com/watch?v=Lt-paZAUKeQ)
+- [[philosophical_themes_in_the_walking_dead | Philosophical themes in The Walking Dead]]
+- [[zombies_as_societal_metaphors | Zombies as societal metaphors]]
+- [[concepts_of_life_and_humanity_in_the_walking_dead | Concepts of life and humanity in The Walking Dead]]
+- [[moral_boundaries_and_survival_ethics | Moral boundaries and survival ethics]]
+- [[dictatorship_and_politics_in_postapocalyptic_settings | Dictatorship and politics in postapocalyptic settings]]
 
 ### [Understanding Disney's Star Wars Crisis – Wisecrack Edition](https://www.youtube.com/watch?v=pLPhi9gXe20)
-- [[star_wars_fan_backlash_and_criticism | Star Wars fan backlash and criticism]]
-- [[impact_of_rian_johnsons_creative_decisions | Impact of Rian Johnsons creative decisions]]
-- [[disneys_acquisition_and_changes_to_star_wars_canon | Disneys acquisition and changes to Star Wars canon]]
-- [[philosophical_insights_into_the_star_wars_legitimation_crisis | Philosophical insights into the Star Wars legitimation crisis]]
-- [[impact_of_prosumerism_on_star_wars_fandom | Impact of prosumerism on Star Wars fandom]]
+- [[star_wars_fandom_backlash_and_disney_acquisition | Star Wars fandom backlash and Disney acquisition]]
+- [[rian_johnsons_approach_to_star_wars_canon | Rian Johnsons approach to Star Wars canon]]
+- [[jurgen_habermas_and_legitimation_crisis | Jurgen Habermas and legitimation crisis]]
+- [[the_role_of_prosumers_in_modern_media | The role of prosumers in modern media]]
+- [[comparison_to_historical_legitimation_crises | Comparison to historical legitimation crises]]
 
 ### [Hidden Meaning in THE PURGE – Earthling Cinema](https://www.youtube.com/watch?v=lUbLZiFd9V8)
-- [[analysis_of_the_purge_movie_themes | Analysis of The Purge movie themes]]
-- [[social_stratification_in_the_purge | Social stratification in The Purge]]
-- [[violence_and_desensitization_in_media | Violence and desensitization in media]]
-- [[symbolism_and_hidden_meanings_in_the_purge | Symbolism and hidden meanings in The Purge]]
-- [[critique_of_societal_systems_in_the_purge | Critique of societal systems in The Purge]]
+- [[hidden_meanings_and_themes_in_the_purge | Hidden meanings and themes in The Purge]]
+- [[social_commentary_on_violence_and_societal_structure | Social commentary on violence and societal structure]]
+- [[references_to_historical_and_cultural_events_in_the_purge | References to historical and cultural events in The Purge]]
+- [[critique_of_the_purge_as_a_violent_entertainment | Critique of The Purge as a violent entertainment]]
+- [[the_role_of_wealth_and_power_dynamics_in_the_purge | The role of wealth and power dynamics in The Purge]]
 
 ### [American Psycho: Is It Deep or Dumb? – Wisecrack Edition](https://www.youtube.com/watch?v=R_C4-xaLEig)
-- [[controversies_surrounding_american_psycho | Controversies surrounding American Psycho]]
-- [[critique_on_consumerism_and_80s_yuppie_culture | Critique on consumerism and 80s yuppie culture]]
-- [[perception_of_patrick_bateman_as_an_antihero | Perception of Patrick Bateman as an antihero]]
-- [[interpretations_of_violence_and_misogyny_in_american_psycho | Interpretations of violence and misogyny in American Psycho]]
-- [[parody_and_satire_in_american_psycho | Parody and satire in American Psycho]]
-
-### [The Philosophy of Dark Souls – Wisecrack Edition](https://www.youtube.com/watch?v=LueVmefY_Kg)
-- [[dark_souls_and_psychoanalysis | Dark Souls and psychoanalysis]]
-- [[significance_of_birth_and_rebirth_imagery_in_dark_souls | Significance of birth and rebirth imagery in Dark Souls]]
-- [[freudian_elements_in_dark_souls | Freudian elements in Dark Souls]]
-- [[visual_storytelling_in_dark_souls | Visual storytelling in Dark Souls]]
-- [[influence_of_philosophers_and_filmmakers_on_dark_souls_narrative | Influence of philosophers and filmmakers on Dark Souls narrative]]
-
-### [Starship Troopers: How to Make Fascism SEXY – Wisecrack Edition](https://www.youtube.com/watch?v=U_sZdX3tFFU)
-- [[fascism_in_starship_troopers | Fascism in Starship Troopers]]
-- [[propaganda_techniques_in_cinema | Propaganda techniques in cinema]]
-- [[satire_and_military_themes_in_film | Satire and military themes in film]]
-- [[symbolism_and_imagery_of_fascism | Symbolism and imagery of fascism]]
-- [[paul_verhoevens_filmmaking_approach | Paul Verhoevens filmmaking approach]]
+- [[controversy_surrounding_american_psycho | Controversy surrounding American Psycho]]
+- [[american_psycho_as_a_critique_on_consumerism | American Psycho as a critique on consumerism]]
+- [[perception_of_masculinity_and_sexism_in_american_psycho | Perception of masculinity and sexism in American Psycho]]
+- [[cultural_fascination_with_patrick_bateman | Cultural fascination with Patrick Bateman]]
+- [[interpretation_and_impact_of_american_psychos_satirical_elements | Interpretation and impact of American Psychos satirical elements]]
 
 ### [The Brilliant Deception of Inception – Wisecrack Edition](https://www.youtube.com/watch?v=p162TQ6NTc0)
-- [[interpretation_of_inceptions_ending | Interpretation of Inceptions ending]]
-- [[film_techniques_and_dreamlike_narrative_structures | Film techniques and dreamlike narrative structures]]
-- [[critiques_of_inceptions_exposition_and_narrative_style | Critiques of Inceptions exposition and narrative style]]
-- [[inception_as_a_commentary_on_cinema | Inception as a commentary on cinema]]
-- [[parallels_between_dreaming_and_filmwatching | Parallels between dreaming and filmwatching]]
+- [[inceptions_ambiguous_ending | Inceptions ambiguous ending]]
+- [[exposition_in_inception | Exposition in Inception]]
+- [[comparison_of_films_and_dreams | Comparison of films and dreams]]
+- [[christopher_nolans_filmmaking_techniques | Christopher Nolans filmmaking techniques]]
+- [[inception_as_an_homage_to_cinema | Inception as an homage to cinema]]
 
-### [The Hidden Meaning in Zootopia – Earthling Cinema](https://www.youtube.com/watch?v=p8LxDmtCQ0g)
-- [[hidden_themes_in_zootopia | Hidden themes in Zootopia]]
-- [[nature_versus_nurture_debate | Nature versus nurture debate]]
-- [[social_and_political_parallels_in_zootopia | Social and political parallels in Zootopia]]
-- [[character_stereotypes_and_their_inversion | Character stereotypes and their inversion]]
-- [[affirmative_action_and_diversity_initiatives | Affirmative action and diversity initiatives]]
+### [How Disney Ruined Culture](https://www.youtube.com/watch?v=_jed8B4L4-4)
+- [[disneys_impact_on_cultural_storytelling | Disneys impact on cultural storytelling]]
+- [[the_commercialization_of_fairy_tales_by_disney | The commercialization of fairy tales by Disney]]
+- [[disneys_acquisition_strategy_and_market_dominance | Disneys acquisition strategy and market dominance]]
+- [[the_psychological_effects_of_cuteness_in_media | The psychological effects of cuteness in media]]
+- [[criticism_of_disneys_adaptations_of_iconic_stories | Criticism of Disneys adaptations of iconic stories]]
 
-### [Would You Rather Be a RICK or a JERRY? – The Psychology of Rick and Morty – Wisecrack Edition](https://www.youtube.com/watch?v=fZR2sdimrng)
-- [[psychological_analysis_of_rick_and_jerry_in_rick_and_morty | Psychological analysis of Rick and Jerry in Rick and Morty]]
-- [[intelligence_and_its_correlation_with_happiness_and_misery | Intelligence and its correlation with happiness and misery]]
-- [[the_stereotype_of_the_tortured_genius_and_its_cultural_implications | The stereotype of the tortured genius and its cultural implications]]
-- [[existential_depression_among_highly_intelligent_individuals | Existential depression among highly intelligent individuals]]
-- [[comparison_of_life_satisfaction_between_characters_like_rick_and_jerry | Comparison of life satisfaction between characters like Rick and Jerry]]
-
-### [The Hidden Meaning in The Matrix – Earthling Cinema](https://www.youtube.com/watch?v=ETlQqHAaY_k)
-- [[analysis_of_character_names_and_their_meanings_in_the_matrix | Analysis of character names and their meanings in The Matrix]]
-- [[religious_symbolism_and_christian_imagery_in_the_matrix | Religious symbolism and Christian imagery in The Matrix]]
-- [[literary_allusions_and_references_in_the_matrix | Literary allusions and references in The Matrix]]
-- [[philosophical_themes_and_allegories_in_the_matrix | Philosophical themes and allegories in The Matrix]]
-- [[exploration_of_reality_and_illusion_in_the_matrix | Exploration of reality and illusion in The Matrix]]
-
-### [The Hidden Meaning in The Truman Show – Earthling Cinema](https://www.youtube.com/watch?v=oNSCz9O5LvU)
-- [[analysis_of_the_truman_show | Analysis of The Truman Show]]
-- [[themes_of_determinism_and_free_will | Themes of determinism and free will]]
-- [[medias_influence_on_personal_freedom | Medias influence on personal freedom]]
-- [[symbolism_in_the_truman_show | Symbolism in The Truman Show]]
-- [[the_allegory_of_the_cave_and_its_comparison_to_the_truman_show | The Allegory of the Cave and its comparison to The Truman Show]]
+### [The Philosophy of Dark Souls – Wisecrack Edition](https://www.youtube.com/watch?v=LueVmefY_Kg)
+- [[philosophical_themes_in_dark_souls | Philosophical themes in Dark Souls]]
+- [[freudian_analysis_of_video_games | Freudian analysis of video games]]
+- [[visual_symbolism_in_dark_souls | Visual symbolism in Dark Souls]]
+- [[identity_and_desire_in_dark_souls | Identity and desire in Dark Souls]]
+- [[comparison_of_dark_souls_and_avantgarde_films | Comparison of Dark Souls and avantgarde films]]
 
 ### [NICOLAS CAGE's Acting: Is It Deep or Dumb? – Wisecrack Edition](https://www.youtube.com/watch?v=s8IfDNHsCLE)
 - [[nicolas_cages_unique_acting_style | Nicolas Cages unique acting style]]
-- [[the_debate_over_realism_in_film_acting | The debate over realism in film acting]]
-- [[influences_on_nicolas_cages_performance_approach | Influences on Nicolas Cages performance approach]]
-- [[role_of_method_acting_in_cinema | Role of method acting in cinema]]
-- [[historical_context_of_film_performance_techniques | Historical context of film performance techniques]]
+- [[comparison_between_realism_and_theatricality_in_film_acting | Comparison between realism and theatricality in film acting]]
+- [[the_influence_of_historical_acting_styles_on_modern_cinema | The influence of historical acting styles on modern cinema]]
+- [[nicolas_cages_career_controversies_and_public_perception | Nicolas Cages career controversies and public perception]]
+- [[the_impact_of_method_acting_and_other_techniques_on_cages_performances | The impact of method acting and other techniques on Cages performances]]
 
-### [Rick and Morty: Is Modern Life Soul-Crushing? – Season 3 Episode 2 Breakdown – Wisecrack Quick Take](https://www.youtube.com/watch?v=-zw_E4qwuNs)
-- [[rick_and_morty_season_3_episode_2_breakdown | Rick and Morty season 3 episode 2 breakdown]]
-- [[modern_life_and_alienation_in_rick_and_morty | Modern life and alienation in Rick and Morty]]
-- [[character_analysis_of_jerry_in_rick_and_morty | Character analysis of Jerry in Rick and Morty]]
-- [[postapocalyptic_themes_in_rick_and_morty | Postapocalyptic themes in Rick and Morty]]
-- [[the_concept_of_powerlessness_in_modern_society | The concept of powerlessness in modern society]]
+### [Avengers Endgame: How History Defines The Avengers – Wisecrack Edition](https://www.youtube.com/watch?v=8H_9ZwJg2_M)
+- [[character_arcs_of_thor_iron_man_and_captain_america_in_avengers_endgame | Character arcs of Thor Iron Man and Captain America in Avengers Endgame]]
+- [[philosophical_influences_on_marvel_characters | Philosophical influences on Marvel characters]]
+- [[analysis_of_cyclical_storytelling_in_thors_character | Analysis of cyclical storytelling in Thors character]]
+- [[captain_americas_timeless_moral_integrity | Captain Americas timeless moral integrity]]
+- [[iron_mans_progression_and_political_philosophy | Iron Mans progression and political philosophy]]
+
+### [The Hidden Meaning in Zootopia – Earthling Cinema](https://www.youtube.com/watch?v=p8LxDmtCQ0g)
+- [[themes_and_analysis_of_zootopia | Themes and analysis of Zootopia]]
+- [[nature_versus_nurture_debate_in_zootopia | Nature versus nurture debate in Zootopia]]
+- [[use_of_stereotypes_and_prejudice_in_zootopia | Use of stereotypes and prejudice in Zootopia]]
+- [[social_and_political_allegories_in_zootopia | Social and political allegories in Zootopia]]
+- [[commercial_advertisement_for_square_space | Commercial advertisement for Square Space]]
+
+### [The Hidden Meaning in The Matrix – Earthling Cinema](https://www.youtube.com/watch?v=ETlQqHAaY_k)
+- [[the_matrix_movie_plot_summary | The Matrix movie plot summary]]
+- [[character_names_and_symbolism | Character names and symbolism]]
+- [[christian_imagery_in_the_matrix | Christian imagery in The Matrix]]
+- [[literary_allusions_in_the_matrix | Literary allusions in The Matrix]]
+- [[philosophical_themes_in_the_matrix | Philosophical themes in The Matrix]]
+
+### [Would You Rather Be a RICK or a JERRY? – The Psychology of Rick and Morty – Wisecrack Edition](https://www.youtube.com/watch?v=fZR2sdimrng)
+- [[psychology_of_intelligence_and_happiness | Psychology of intelligence and happiness]]
+- [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Character analysis of Rick and Jerry from Rick and Morty]]
+- [[existential_depression_and_intelligence | Existential depression and intelligence]]
+- [[impact_of_intelligence_on_mental_health | Impact of intelligence on mental health]]
+- [[the_correlation_between_iq_wealth_and_happiness | The correlation between IQ wealth and happiness]]
+
+### [The Hidden Meaning in The Truman Show – Earthling Cinema](https://www.youtube.com/watch?v=oNSCz9O5LvU)
+- [[the_truman_show_plot_summary | The Truman Show plot summary]]
+- [[themes_of_control_and_determinism_in_the_truman_show | Themes of control and determinism in The Truman Show]]
+- [[media_influence_on_personal_choices_in_the_truman_show | Media influence on personal choices in The Truman Show]]
+- [[philosophical_comparisons_in_the_truman_show | Philosophical comparisons in The Truman Show]]
+- [[symbolism_and_references_in_the_truman_show | Symbolism and references in The Truman Show]]
+
+### [Starship Troopers: How to Make Fascism SEXY – Wisecrack Edition](https://www.youtube.com/watch?v=U_sZdX3tFFU)
+- [[starship_troopers_and_its_depiction_of_fascism | Starship Troopers and its depiction of fascism]]
+- [[the_films_satire_on_militarism_and_audience_perception | The films satire on militarism and audience perception]]
+- [[association_of_fascist_ideology_with_specific_visual_and_narrative_elements_in_starship_troopers | Association of fascist ideology with specific visual and narrative elements in Starship Troopers]]
+- [[comparison_of_starship_troopers_with_historical_and_literary_fascism | Comparison of Starship Troopers with historical and literary fascism]]
+- [[use_of_cinematic_techniques_to_influence_audience_emotions_and_perceptions | Use of cinematic techniques to influence audience emotions and perceptions]]
 
 ### [Batman v Superman: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=467ehoaGDaE)
-- [[batman_v_superman_ideological_failings | Batman v Superman ideological failings]]
-- [[supermans_characterization_in_batman_v_superman | Supermans characterization in Batman v Superman]]
-- [[influence_of_frank_millers_the_dark_knight_returns | Influence of Frank Millers The Dark Knight Returns]]
-- [[ayn_rands_philosophy_in_superhero_narratives | Ayn Rands philosophy in superhero narratives]]
-- [[ideological_conflict_between_batman_and_superman | Ideological conflict between Batman and Superman]]
-
-### [The Problem With Game Theory – The Philosophy of Billions](https://www.youtube.com/watch?v=THNQE7fTMWM)
-- [[showtime_series_billions_overview | Showtime series Billions overview]]
-- [[game_theory_in_billions | Game theory in Billions]]
-- [[prisoners_dilemma_explained | Prisoners dilemma explained]]
-- [[ethical_implications_of_game_theory | Ethical implications of game theory]]
-- [[character_dynamics_and_strategies_in_billions | Character dynamics and strategies in Billions]]
-
-### [Fahrenheit 451 - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=O-IcPx9uD0U)
-- [[summary_of_fahrenheit_451 | Summary of Fahrenheit 451]]
-- [[censorship_and_book_burning | Censorship and book burning]]
-- [[technology_and_societal_disconnect | Technology and societal disconnect]]
-- [[symbolism_in_fahrenheit_451 | Symbolism in Fahrenheit 451]]
-- [[themes_of_hope_and_rebirth | Themes of hope and rebirth]]
-
-### [SOUTH PARK: The Philosophy of Margaritaville! – Wisecrack Edition](https://www.youtube.com/watch?v=7OevEml84BI)
-- [[south_parks_satire_on_religion_and_consumerism | South Parks satire on religion and consumerism]]
-- [[religious_allegory_and_the_economy_in_margaritaville | Religious allegory and the economy in Margaritaville]]
-- [[randy_marshs_characterization_and_protestant_ethics | Randy Marshs characterization and Protestant ethics]]
-- [[kyles_christlike_sacrifice_and_economic_philosophy | Kyles Christlike sacrifice and economic philosophy]]
-- [[the_complexity_and_power_dynamics_of_economics | The complexity and power dynamics of economics]]
-
-### [Breaking Bad's Hidden Meaning – Season 1 – Earthling Cinema](https://www.youtube.com/watch?v=YSCbcKNqEyI)
-- [[walter_whites_transformation | Walter Whites transformation]]
-- [[symbolism_and_themes_in_breaking_bad | Symbolism and themes in Breaking Bad]]
-- [[critique_of_american_healthcare_and_economic_systems | Critique of American healthcare and economic systems]]
-- [[the_american_dream_and_its_failures | The American Dream and its failures]]
-- [[character_dynamics_of_walter_white_and_jesse_pinkman | Character dynamics of Walter White and Jesse Pinkman]]
-
-### [The LEGO Movie's Hidden Meaning – Earthling Cinema](https://www.youtube.com/watch?v=AUhtpkv6mjE)
-- [[the_lego_movies_satire_of_politics_and_corporations | The Lego Movies satire of politics and corporations]]
-- [[symbolism_and_literary_references_in_the_lego_movie | Symbolism and literary references in The Lego Movie]]
-- [[existential_themes_in_the_lego_movie | Existential themes in The Lego Movie]]
-- [[creativity_and_individualism_versus_conformity_in_the_lego_movie | Creativity and individualism versus conformity in The Lego Movie]]
-- [[the_role_of_emmet_brickowski_as_a_hero_and_symbolic_figure | The role of Emmet Brickowski as a hero and symbolic figure]]
+- [[batman_v_superman_ideological_conflicts | Batman v Superman ideological conflicts]]
+- [[superman_character_development_in_dceu | Superman character development in DCEU]]
+- [[influence_of_frank_millers_graphic_novel_the_dark_knight_returns | Influence of Frank Millers graphic novel The Dark Knight Returns]]
+- [[ayn_rands_philosophy_in_batman_v_superman | Ayn Rands philosophy in Batman v Superman]]
+- [[comparison_of_batman_and_supermans_ideologies | Comparison of Batman and Supermans ideologies]]
 
 ### [The Philosophy of Mob Psycho 100 – Wisecrack Edition](https://www.youtube.com/watch?v=X6-trQYG2XA)
 - [[philosophy_of_mob_psycho_100 | Philosophy of Mob Psycho 100]]
-- [[overpowered_protagonists_and_their_struggles | Overpowered protagonists and their struggles]]
-- [[lessons_from_edmund_burkes_concept_of_the_sublime | Lessons from Edmund Burkes concept of the sublime]]
-- [[selfimposed_limitations_and_struggles_for_personal_growth | Selfimposed limitations and struggles for personal growth]]
+- [[the_meaning_of_a_fulfilling_life_in_mob_psycho_100 | The meaning of a fulfilling life in Mob Psycho 100]]
+- [[overpowered_protagonists_and_selfidentity | Overpowered protagonists and selfidentity]]
+- [[experiencing_the_sublime_and_personal_growth | Experiencing the sublime and personal growth]]
 - [[comparison_between_mob_psycho_100_and_one_punch_man | Comparison between Mob Psycho 100 and One Punch Man]]
 
 ### [The Catcher in the Rye - Thug Notes Summary and Analysis](https://www.youtube.com/watch?v=z_UIdPx4-uU)
-- [[holden_caulfields_journey_and_mental_health | Holden Caulfields journey and mental health]]
+- [[holden_caulfields_struggles_with_society | Holden Caulfields struggles with society]]
 - [[symbolism_in_the_catcher_in_the_rye | Symbolism in The Catcher in the Rye]]
-- [[holdens_struggle_with_adulthood_and_society | Holdens struggle with adulthood and society]]
-- [[the_role_of_phoebe_and_holdens_connection_with_children | The role of Phoebe and Holdens connection with children]]
-- [[the_theme_of_isolation_and_seeking_authenticity | The theme of isolation and seeking authenticity]]
+- [[holdens_relationships_with_other_characters | Holdens relationships with other characters]]
+- [[themes_of_innocence_and_adulthood | Themes of innocence and adulthood]]
+- [[holdens_search_for_authenticity_and_human_connection | Holdens search for authenticity and human connection]]
 
-### [The Matrix Revolutions: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=27rhHfBugnc)
-- [[narrative_issues_in_the_matrix_revolutions | Narrative issues in The Matrix Revolutions]]
-- [[philosophical_themes_in_the_matrix_trilogy | Philosophical themes in The Matrix Trilogy]]
-- [[jean_baudrillards_influence_on_the_matrix | Jean Baudrillards influence on The Matrix]]
-- [[choice_and_determinism_in_the_matrix | Choice and determinism in The Matrix]]
-- [[religious_and_symbolic_imagery_in_the_matrix | Religious and symbolic imagery in The Matrix]]
+### [Breaking Bad's Hidden Meaning – Season 1 – Earthling Cinema](https://www.youtube.com/watch?v=YSCbcKNqEyI)
+- [[themes_and_symbols_in_breaking_bad_season_1 | Themes and symbols in Breaking Bad Season 1]]
+- [[walter_whites_character_development | Walter Whites character development]]
+- [[critique_of_american_healthcare_and_economic_systems_in_breaking_bad | Critique of American healthcare and economic systems in Breaking Bad]]
+- [[use_of_color_symbolism_in_breaking_bad | Use of color symbolism in Breaking Bad]]
+- [[american_dream_and_moral_decline_in_breaking_bad | American Dream and moral decline in Breaking Bad]]
+
+### [Rick and Morty: Is Modern Life Soul-Crushing? – Season 3 Episode 2 Breakdown – Wisecrack Quick Take](https://www.youtube.com/watch?v=-zw_E4qwuNs)
+- [[modern_alienation_in_rick_and_morty | Modern alienation in Rick and Morty]]
+- [[societys_impact_on_personal_agency | Societys impact on personal agency]]
+- [[comparisons_of_postapocalyptic_and_modern_life_in_rick_and_morty | Comparisons of postapocalyptic and modern life in Rick and Morty]]
+- [[character_analysis_of_jerry_in_rick_and_morty | Character analysis of Jerry in Rick and Morty]]
+- [[rick_and_morty_as_commentary_on_modern_life | Rick and Morty as commentary on modern life]]
+
+### [The Problem With Game Theory – The Philosophy of Billions](https://www.youtube.com/watch?v=THNQE7fTMWM)
+- [[billions_television_show_and_its_portrayal_of_morality | Billions television show and its portrayal of morality]]
+- [[game_theory_in_personal_and_professional_conflicts | Game theory in personal and professional conflicts]]
+- [[prisoners_dilemma_and_its_application_in_the_show_billions | Prisoners dilemma and its application in the show Billions]]
+- [[character_analysis_of_chuck_rhoades_and_bobby_axelrod | Character analysis of Chuck Rhoades and Bobby Axelrod]]
+- [[the_role_of_loyalty_and_principles_in_competitive_environments | The role of loyalty and principles in competitive environments]]
+
+### [The LEGO Movie's Hidden Meaning – Earthling Cinema](https://www.youtube.com/watch?v=AUhtpkv6mjE)
+- [[the_satirical_elements_of_the_lego_movie | The satirical elements of The Lego Movie]]
+- [[the_role_of_corporate_and_political_power_in_the_lego_movie | The role of corporate and political power in The Lego Movie]]
+- [[existential_themes_in_the_lego_movie | Existential themes in The Lego Movie]]
+- [[literary_allusions_within_the_lego_movie | Literary allusions within The Lego Movie]]
+- [[creativity_and_individualism_in_the_lego_movie | Creativity and individualism in The Lego Movie]]
 
 ### [Hidden Meaning in SHREK – Earthling Cinema](https://www.youtube.com/watch?v=FaclXqpBpr0)
 - [[hidden_meanings_in_shrek | Hidden meanings in Shrek]]
-- [[critique_of_traditional_fairy_tales | Critique of traditional fairy tales]]
-- [[antidisney_themes_in_shrek | AntiDisney themes in Shrek]]
-- [[jeffrey_katzenberg_and_michael_eisner_feud | Jeffrey Katzenberg and Michael Eisner feud]]
-- [[squarespace_sponsorship_promotion | Squarespace sponsorship promotion]]
+- [[critique_of_disney_in_shrek | Critique of Disney in Shrek]]
+- [[comparison_of_shrek_and_traditional_fairy_tales | Comparison of Shrek and traditional fairy tales]]
+- [[backstory_of_jeffrey_katzenberg_and_disney_feud | Backstory of Jeffrey Katzenberg and Disney feud]]
+- [[themes_of_beauty_and_societal_expectations_in_shrek | Themes of beauty and societal expectations in Shrek]]
+
+### [The Matrix Revolutions: What Went Wrong? – Wisecrack Edition](https://www.youtube.com/watch?v=27rhHfBugnc)
+- [[narrative_and_plot_complications_in_the_matrix_revolutions | Narrative and plot complications in The Matrix Revolutions]]
+- [[philosophical_influences_on_the_matrix_trilogy | Philosophical influences on The Matrix trilogy]]
+- [[discussion_of_free_will_versus_determinism_in_the_matrix | Discussion of free will versus determinism in The Matrix]]
+- [[religious_imagery_and_allegories_in_the_matrix_revolutions | Religious imagery and allegories in The Matrix Revolutions]]
+- [[interpretation_of_yin_and_yang_in_the_context_of_the_matrix | Interpretation of yin and yang in the context of The Matrix]]
 
 ### [Inglourious Basterds: What Tarantino Got Wrong – Wisecrack Edition](https://www.youtube.com/watch?v=uUmTmPK733s)
-- [[tarantinos_love_for_cinema_and_film_homages | Tarantinos love for cinema and film homages]]
+- [[quentin_tarantinos_love_for_cinema | Quentin Tarantinos love for cinema]]
 - [[the_role_of_film_in_inglourious_basterds | The role of film in Inglourious Basterds]]
-- [[cinema_as_a_tool_for_propaganda_and_cultural_influence | Cinema as a tool for propaganda and cultural influence]]
-- [[the_concept_of_monoculture_and_its_decline | The concept of monoculture and its decline]]
-- [[marshall_mcluhans_theories_on_media_and_culture | Marshall McLuhans theories on media and culture]]
+- [[nazi_propaganda_and_cinema | Nazi propaganda and cinema]]
+- [[the_decline_of_cinemas_cultural_influence | The decline of cinemas cultural influence]]
+- [[the_impact_of_the_internet_on_shared_culture | The impact of the internet on shared culture]]
 
 ### [The Author Who Tried to END The World (Watchmen / Alan Moore) – Wisecrack Edition](https://www.youtube.com/watch?v=163Cb1bAW7U)
-- [[alan_moore_and_his_philosophy_on_magic_and_hermeticism | Alan Moore and his philosophy on magic and Hermeticism]]
-- [[the_intersection_of_art_language_and_consciousness_in_moores_works | The intersection of art language and consciousness in Moores works]]
-- [[the_concept_of_reality_and_perception_in_promethea_and_watchmen | The concept of reality and perception in Promethea and Watchmen]]
-- [[the_impact_of_storytelling_and_imagination_on_human_culture_and_consciousness | The impact of storytelling and imagination on human culture and consciousness]]
-- [[alan_moores_influence_on_comics_and_the_significance_of_his_works_like_jerusalem | Alan Moores influence on comics and the significance of his works like Jerusalem]]
+- [[philosophy_and_magic_of_alan_moore | Philosophy and Magic of Alan Moore]]
+- [[hermeticism_alchemy_astrology_and_theurgy | Hermeticism Alchemy Astrology and Theurgy]]
+- [[alan_moores_influence_on_comics_and_culture | Alan Moores Influence on Comics and Culture]]
+- [[concept_of_reality_material_vs_immaterial | Concept of Reality Material vs Immaterial]]
+- [[role_of_imagination_and_storytelling_in_perceiving_reality | Role of Imagination and Storytelling in Perceiving Reality]]

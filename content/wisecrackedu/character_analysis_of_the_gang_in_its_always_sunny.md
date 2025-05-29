@@ -1,0 +1,52 @@
+---
+title: Character analysis of the gang in Its Always Sunny
+videoId: tZ8ZF8VsfU0
+---
+
+From: [[wisecrackedu]] <br/> 
+
+*It's Always Sunny in Philadelphia* distinguishes itself from [[comparison_between_its_always_sunny_and_traditional_sitcoms | traditional sitcoms]] by presenting a group of narcissistic sociopaths whose insane ideas are bankrolled by a millionaire <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. Unlike classic sitcoms that offer satisfying and sentimental narratives, *It's Always Sunny* actively subverts customary tropes, positioning itself as the "perfect anti-sitcom" <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. The show follows 'the gang', five individuals who maintain a steadily collapsing ecosystem at Paddy's Pub <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+
+## The Gang's Anti-Development
+A key characteristic of *It's Always Sunny* is its [[lack_of_character_development_in_its_always_sunny | lack of normal character development]] <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. While most sitcoms show "broken, shitty people" evolving into "loveable grown-ups" <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>—like Barney Stinson in *How I Met Your Mother* or Joey and Rachel in *Friends* <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>—the gang in *It's Always Sunny* believes "personal development is for quitters" <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. Their personalities are shaped by "functional alcoholism, narcissistic personality disorder, and the occasional crack binge" <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+
+Over twelve seasons, the gang does not develop; instead, they "play a game of chicken with all attempts at purpose and growth" <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>. Even events that typically trigger growth in other shows, such as Dee's fake pregnancy, fail to change them <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. The show deliberately avoids the trope where a baby magically changes people, ensuring the gang remains unchanged <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>.
+
+The show explicitly confronts this [[lack_of_character_development_in_its_always_sunny | lack of development]] in the season ten episode "The Gang Misses the Boat," where they reflect on missed opportunities <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+
+### Impact on Others
+The gang's failures aren't limited to themselves; their friends and associates often face the worst consequences of their antics <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>.
+*   **Rickety Cricket**: Initially a handsome young priest, he becomes homeless, takes the fall for the gang's misadventures, gets hunted, has half his face burned off, and becomes a Paddy's bathroom regular due to the gang's manipulation <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+*   **Bill Ponderosa**: His affair with Dee leads him into a downward spiral, eventually asking Frank to let him drink himself to death <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. His son becomes a goth cocaine dealer <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>.
+*   **The Lawyer**: Even a character who typically outsmarts the gang eventually has his right eyeball devoured by a bird, showing that no one can associate with the gang without being irrevocably changed for the worse <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>.
+
+## Individual Character Analysis
+
+### Charlie
+Charlie is Paddy's janitor, a "walking combination of bleach fumes, illiteracy, cat food, romantic obsession, and surprisingly impressive musical abilities" <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. His primary [[romantic_relationships_in_its_always_sunny | romantic obsession]] is a waitress against whom he has multiple restraining orders <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>. While traditional sitcoms might romanticize this obsession, *It's Always Sunny* depicts the "darkside of rom-com love," portraying Charlie's stalking as a full-time job <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>. Even when he briefly achieves his romantic goal, he quickly becomes annoyed with the waitress and accuses her of stalking him, subverting typical sitcom romantic consummation <a class="yt-timestamp" data-t="00:13:52">[00:13:52]</a>.
+
+### Mac
+Mac is the official security of Paddy's, balancing his "thinly veiled homosexuality with an aggressively dogmatic catholic moralism" <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. His journey in sexual identity includes a relationship with a transitioning woman and a non-sexual PCP-fueled fling <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. Mac finally admits to being gay in a recent season, but it's not a cathartic moment; it's for the sake of a $10,000 scratch-off ticket <a class="yt-timestamp" data-t="00:12:09">[00:12:09]</a>. In season seven, when avoiding emotional growth, Mac focuses on "physical growth," eating his way to disease and satirizing sitcom characters who inexplicably remain ageless <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+
+### Dennis
+Dennis, Paddy's lead bartender, is described as the "Patrick Bateman of South Philadelphia"—"equal parts sociopath, narcissist, and sex addict" <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>. He is the only member of the gang to experience "romantic success," though it's measured by "his own horrifying system of seduction" <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>. His "slightly less pathetic, if a significantly more criminal, romantic life" is attributed to his "absence of emotion and inability to love" <a class="yt-timestamp" data-t="00:13:05">[00:13:05]</a>. Dennis often appears to be on the verge of growth, such as when contemplating fatherhood or searching for meaning, only to revert to his "moral nihilism and lack of emotion" <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>.
+
+### Dee
+Dee is a failed character actress and Dennis's twin sister, serving as "the target of the collective rage and hatred of the rest of the gang" <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. Her [[romantic_relationships_in_its_always_sunny | romantic exploits]] are "the most pathetic of the gang," largely consisting of hook-ups that end with her being mocked <a class="yt-timestamp" data-t="00:12:25">[00:12:25]</a>. Her one "flirtation with sitcom romance" was a hook-up with Charlie, which was quickly acknowledged as a "huge mistake" <a class="yt-timestamp" data-t="00:12:44">[00:12:44]</a>.
+
+### Frank
+Frank is personified as "the spirit of nihilistic greed" in the form of a "four foot eleven bald man who spent his weekends having sex in a dumpster behind a Wendy's" <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. When he first encountered the gang, he was a recent divorcee attempting to reconnect with his children and donate wealth to charity <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. However, within hours, he began pretending to be a wheelchair-bound quadriplegic for attention from strippers, spiraling "further... into the depths of depravity" <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Frank indulges in pay-for-play romance with prostitutes and strippers <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a> and has a recurring relationship with Artemis, who shares his "proclivities towards ‘getting weird’" <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
+
+## Subversion of Moral Themes and Romance
+*It's Always Sunny* takes a unique approach to [[exploration_of_moral_themes_in_its_always_sunny | moral themes]], presenting a group whose collective moral code is "somewhere between Bernie Madoff’s financial principles and Lil Wayne’s views towards substance abuse" <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>. Whenever morality arises, it's typically "a means to their own nefarious ends" <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. Examples include:
+*   Mac protesting Planned Parenthood primarily to get laid <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
+*   Dennis giving a bogus eulogy at Dee's fake baby funeral <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>.
+*   Rescuing a dumpster baby only to take it to a tanning bed <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
+*   Exploiting welfare by becoming crack addicts <a class="yt-timestamp" data-t="00:09:33">[00:09:33]</a>.
+*   Taking a life insurance policy out on Bill Ponderosa during his suicide attempt <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>.
+*   The gang's behavior on a "gay-friendly" Christian cruise, culminating in attempts at sexual entrapment, collective suicide, and defending themselves from insurance adjusters (mistaken for God's reckoning) <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>.
+
+The show also pushes [[romantic_relationships_in_its_always_sunny | romantic relationships]] to the "limits of dysfunction" <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>, subverting the "will they or won't they" trope common in shows like *Scrubs* or *Friends* <a class="yt-timestamp" data-t="00:10:51">[00:10:51]</a>. For the gang, any romantic achievement serves as "just a reminder of their fundamental lack of ability to ever be truly happy" <a class="yt-timestamp" data-t="00:14:26">[00:14:26]</a>.
+
+## Conclusion
+Despite hints of potential growth, particularly with Dennis's contemplation of a family life <a class="yt-timestamp" data-t="00:13:14">[00:13:14]</a>, the logic of Paddy's universe indicates a "low possibility of actual growth" for the gang <a class="yt-timestamp" data-t="00:15:31">[00:15:31]</a>. The show successfully critiques the outside world while allowing its core characters to remain static, offering "hilarious critiques of moralistic musicals and our recent obsession with true crime shows" <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>, and even creating a meta-sitcom of Mac and Charlie's moms to jab at canned laughter <a class="yt-timestamp" data-t="00:15:10">[00:15:10]</a>. *It's Always Sunny* firmly maintains its anti-sitcom stance, ensuring the gang remains unchanged, serving as a constant reminder that "there is no happily ever after" at Paddy's <a class="yt-timestamp" data-t="00:14:23">[00:14:23]</a>.

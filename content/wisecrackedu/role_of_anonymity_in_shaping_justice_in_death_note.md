@@ -1,0 +1,36 @@
+---
+title: Role of anonymity in shaping justice in Death Note
+videoId: 9Y5QZ77-WYw
+---
+
+From: [[wisecrackedu]] <br/> 
+
+*Death Note* delves into a wide range of philosophical topics, with one of the most prominent being [[philosophy_of_justice_in_death_note | Justice]]—what it is and how it should be applied <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. The anime distinguishes itself not by *what* it says about justice, but by *how* it explores the concept <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. A key element of this exploration is the pervasive theme of anonymity, which critically shapes the characters' perceptions and actions regarding justice.
+
+## Anonymity and the Birth of Kira
+
+When Light Yagami discovers the Death Note, a supernatural notebook that allows him to kill anyone by writing their name and picturing their face <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>, he embarks on a mission to create a world devoid of crime <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. Adopting the public persona of "Kira," the "God of the new world," Light begins to anonymously kill vast numbers of criminals <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. This anonymity is crucial; it allows Light to operate outside conventional legal systems and personal scrutiny, enabling his "ends-justify-the-means" philosophy <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
+
+### The Ring of Gyges and Light's Transformation
+
+The show's exploration of anonymity's effect on morality echoes the ancient Greek story of The Ring of Gyges, discussed in Plato’s *Republic* <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. In this fable, a man finds a ring that grants him invisibility, which he immediately uses to commit heinous acts <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. Plato's character Glaucon argues that justice is merely a social contract upheld by appearances <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>, suggesting that people only value justice when their actions are scrutinized <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
+
+Light Yagami's dual personality — the "model student" versus the ruthless Kira — perfectly illustrates this concept <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. When Light renounces ownership of the Death Note, he loses his memories of being Kira, and his personality and sense of justice noticeably shift, becoming more considerate <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. This change is starkly visible in his refusal to exploit Misa's feelings, a significant departure from his Kira persona <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. However, once he regains his memories and powers, his Kira persona returns, and he resumes his manipulative and ruthless actions <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>.
+
+Light himself acknowledges the human tendency to "maintain appearances when they're in public," while anonymity reveals true feelings and allows actions that would otherwise be suppressed <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. He believes that with anonymity, his interest in traditional justice vanishes <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>, and he finds happiness in his newfound power and ability to act without consequence <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>.
+
+## Anonymity in Opposition: L, M, and N
+
+The concept of anonymity extends to Light's adversaries: the mysterious detective L and his successors, M and N <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. Their namelessness and hidden identities parallel Light's pseudonymity as Kira <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>. This allows them to engage in a "game of wits" <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a> against Kira, where their focus is often on winning the intellectual battle rather than on articulating a clear, positive definition of justice <a class="yt-timestamp" data-t="00:13:55">[00:13:55]</a>. L, in particular, acts as an inquisitor, much like Socrates, using hypothetical scenarios to challenge what constitutes justice <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. His anonymity provides the necessary distance to poke holes and raise questions, without needing to establish a concrete ideal of justice himself <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>.
+
+## The Anonymity of the Public and Justice
+
+The influence of anonymity also extends to the general public. As support for Kira grows on the internet, where individuals can remain anonymous, it highlights Glaucon's assertion that people might deny Kira's existence publicly but support him privately due to the lack of scrutiny <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. This demonstrates how anonymity can enable the silent endorsement of controversial actions, further complicating the public's understanding and application of [[different_theories_of_justice_presented_in_death_note | Justice]].
+
+## Philosophical Implications of Anonymity
+
+The central question raised by *Death Note* concerning anonymity is: "What does Justice mean when nobody's looking?" <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a> This theme is woven throughout the show through the pseudonymity of Kira, the namelessness of L, N, and M, and the anonymity of Kira's online supporters <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
+
+The show functions as a modern [[comparative_analysis_of_death_note_and_greek_philosophy | Socratic Dialogue]], using multiple characters and their varying beliefs to explore the universal question of "What is Justice?" <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. Anonymity allows for this constant challenge and evolution of [[different_theories_of_justice_presented_in_death_note | theories of justice]] without immediate, explicit societal judgment. Light's "ideal theory" of justice, which involves eliminating criminals to create a "perfect world," is enabled by his anonymous actions <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>. Conversely, L's "injustice theory" — focusing on correcting injustices as they appear without a pre-existing ideal of justice — also operates within a realm where anonymity allows for flexible responses to Kira's hidden actions <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>.
+
+Ultimately, *Death Note* leaves the viewer with ambiguity, demonstrating that anonymity makes the concept of justice highly contingent. As Light himself states, "If Kira gets caught then that makes him evil. But if he wins and rules the world then I guess he's justice" <a class="yt-timestamp" data-t="00:17:01">[00:17:01]</a>. This suggests that the "war of competing moral codes" is less about truth-seeking and more about a "logic game" where the victor's definition of justice prevails <a class="yt-timestamp" data-t="00:17:26">[00:17:26]</a>. By opening more doors than it closes regarding the meaning and implications of justice, *Death Note* uses anonymity as a fundamental tool for philosophical inquiry, rather than merely borrowing philosophical concepts <a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>.

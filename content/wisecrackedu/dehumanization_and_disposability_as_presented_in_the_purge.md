@@ -1,0 +1,38 @@
+---
+title: Dehumanization and Disposability as Presented in The Purge
+videoId: QMOpB5tSPVY
+---
+
+From: [[wisecrackedu]] <br/> 
+
+The film series *The Purge* initially appears to be a typical horror movie, featuring a concept where "any and all crime will be legal for 12 continuous hours," questionable acting, and violent carnage <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. However, beyond the creepy masks and violence, *The Purge*'s most frightening aspect is its highlighting of the dehumanizing policies present in society <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. It serves as a commentary on our [[philosophy_and_socioeconomic_commentary_in_the_purge | sociopolitical existence]], functioning as a thinly veiled allegory for corrupt politics, rigged economic systems, and a culture of violence in America <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+
+## The Politics of Disposability
+
+The societal order depicted in *The Purge* is fundamentally rooted in [[neoliberalism_and_economic_critique_in_the_purge | Neoliberalism]], which advocates for minimal government intervention in the market and policies that prioritize the free flow of goods and corporate interests <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>, <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>. This economic philosophy breeds a "politics of disposability," a concept explained by thinkers Henry Giroux and Brad Evans <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>, <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a>.
+
+Under this system, certain groups of people are viewed as superfluous and disposable <a class="yt-timestamp" data-t="05:10:00">[05:10:00]</a>. For instance, in the original film, a homeless man is referred to as "swine" and "filth" by a "polite stranger," demonstrating how dehumanizing language facilitates his treatment as an object rather than a human <a class="yt-timestamp" data-t="05:15:00">[05:15:00]</a>. James Sandin, a protagonist, initially justifies incapacitating and torturing this house guest as a means to save his own family, only recognizing him as fully human when the stranger volunteers to sacrifice himself <a class="yt-timestamp" data-t="05:23:00">[05:23:00]</a>, <a class="yt-timestamp" data-t="05:30:00">[05:30:00]</a>.
+
+### Economic Class and Disposability
+
+Each *Purge* film highlights how different economic classes are impacted and treated as disposable:
+
+*   **Upper Middle Class:** In the first film, the Sandin family, living in an upper middle-class suburban home, expects to be shielded from violence. Their perception is that "things like this are not suppose to happen in our neighborhood," indicating a belief that their wealth should insulate them from the consequences affecting the poor <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>.
+*   **Working Class:** *The Purge: Anarchy* focuses on the working-class family of Eva Sanchez, who struggles to afford medicine for her father <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>. Due to the unchecked price of medication, her father is forced to "sell" his life to the rich to ease his family's economic hardship <a class="yt-timestamp" data-t="05:38:00">[05:38:00]</a>, <a class="yt-timestamp" data-t="05:41:00">[05:41:00]</a>. His life is more valuable to his family as a disposable commodity than as an actual person <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. This practice of the wealthy buying and killing poor and sick people is explicitly shown as "how the wealthy Purge" <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>.
+*   **Small Business Owners:** *The Purge: Election Year* shows Joe, a small business owner, facing an inexplicable rise in his Purge insurance premiums, leaving him vulnerable as there are no government checks to prevent such exploitative practices <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>, <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>. He is forced to protect his store with inadequate defenses and ultimately loses his life <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>, <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>.
+
+The disproportionate impact of The Purge on the working class, particularly in inner cities, is metaphorically linked to "white flight" – the abandonment of cities by upper-class white individuals for sheltered suburbs, leaving those in the inner city exposed to higher rates of crime, homelessness, and poverty, or in the films' case, Purging <a class="yt-timestamp" data-t="03:12:00">[03:12:00]</a>.
+
+### Government Policy and Population Control
+
+The New Founding Fathers of America (NFFA), the leaders sanctioning The Purge, are not challenged by the chaos; rather, the chaos makes people long for law and order the next day, reaffirming social structures <a class="yt-timestamp" data-t="01:25:00">[01:25:00]</a>. The NFFA's underlying goal is to decrease the poor population through legalized murder, thereby reducing government spending on welfare, healthcare, and housing <a class="yt-timestamp" data-t="06:34:00">[06:34:00]</a>. This is justified under the banner of economic growth, where the elderly, infirm, poor, and "non-contributors" are sacrificed so the economy can grow unhindered <a class="yt-timestamp" data-t="06:55:00">[06:55:00]</a>, <a class="yt-timestamp" data-t="07:02:00">[07:02:00]</a>.
+
+This concept of population elimination is not new. It echoes the 1798 theories of Reverend Thomas Robert Malthus, who argued that population growth would outpace production, leading to food shortages. His proposed solution included laws to keep birth rates low and death rates high through famine, disease, and wars <a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a>, <a class="yt-timestamp" data-t="07:50:00">[07:50:00]</a>. This is explicitly stated by Caleb Warrens, head of the NFFA, who claims, "Some cannot have. NOT enough to go around" <a class="yt-timestamp" data-t="08:12:00">[08:12:00]</a>.
+
+However, this logic is critiqued by Friedrich Engels, who argued that the issue is not population size but an economic system that devalues workers <a class="yt-timestamp" data-t="08:27:00">[08:27:00]</a>, <a class="yt-timestamp" data-t="08:33:00">[08:33:00]</a>. Engels viewed Malthus's model as an excuse to exploit poor people <a class="yt-timestamp" data-t="08:40:00">[08:40:00]</a>. The NFFA's "over the top Purge ceremonies" demonstrate an extreme application of this dehumanizing logic <a class="yt-timestamp" data-t="08:46:00">[08:46:00]</a>.
+
+## Visceral Exposure of Dehumanization
+
+The brilliance of *The Purge* lies in its use of "murder night" to viscerally expose how the [[neoliberalism_and_economic_critique_in_the_purge | neoliberal economy]] generates profit in a predatory manner <a class="yt-timestamp" data-t="09:04:00">[09:04:00]</a>. While the privileged profit from weapon sales, insurance, private bodyguards, and home security systems, the poor are forced to fight for survival <a class="yt-timestamp" data-t="09:18:00">[09:18:00]</a>.
+
+Ultimately, *The Purge* films offer a glimpse into a potential dystopia where the politics of disposability are fully realized. The movies show that while the rich and powerful benefit, those already struggling under [[neoliberalism_and_economic_critique_in_the_purge | neoliberalism]] are further exploited and dehumanized <a class="yt-timestamp" data-t="04:20:00">[04:20:00]</a>.

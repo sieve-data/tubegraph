@@ -1,0 +1,59 @@
+---
+title: Critique of Superhero Tropes
+videoId: 9mXDz2rYeh4
+---
+
+From: [[wisecrackedu]] <br/> 
+
+Self-aware humor, seen in works like *Deadpool*, *Cabin in the Woods*, and *Galaxy Quest*, has become a popular trend in media that makes fun of its own genres <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This phenomenon highlights a complex nature of self-criticism, which can be understood through the distinction between satire and parody <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Both approaches aim to criticize the world <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>, but they do so with different intents and effects. *Watchmen* and *One Punch Man* serve as prime examples to explore these nuances <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+
+## Twisting Archetypes and Realism
+
+Both *Watchmen* and *One Punch Man* demonstrate a clear willingness to take the established archetypes of their respective genres and twist them <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
+
+[[parody_of_anime_tropes_in_one_punch_man | One Punch Man]] distorts common anime tropes <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>:
+*   "Magical girl" archetypes (like Sailor Moon) are re-imagined as a "swole ex-convict" <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+*   The familiar "hard-working everyman hero" becomes a "debuffed version" of a Toku Hero like Kamen Rider <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
+*   A "Goku-esque world savior" is depicted looking like a "low rent halloween costume attached to an egg" <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+
+*Watchmen*, on the other hand, features an array of superhero knock-offs <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>:
+*   Rorschach and Ozymandias are presented as "distillations of certain elements of Batman" <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. Ozymandias embodies the charismatic, rich, and hyper-intelligent Bruce Wayne <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>, while Rorschach represents the detective Batman whose "quest for Truth and Justice veers dangerously close to a horrifying obsession," resembling an "ugly version of Frank Miller’s take on the Caped Crusader" <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+*   Nite Owl is a recreation of the "nerdy, inventor version of Batman," reminiscent of Adam West <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
+
+Both narratives utilize these distorted characters to make observations about what audiences take for granted in superhero stories: the types of heroes, what they are expected to do, and their motivations <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. By altering what is familiar, the departure from original tropes becomes stark <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. This contrast explores a more "realistic version of superhero power" <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+
+### The Boredom of Omnipotence
+
+Saitama from *One Punch Man* and Dr. Manhattan from *Watchmen* — both characters with "god-like power" — confront the profound boredom that accompanies omnipotence <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. Saitama "mourns his lack of a true challenge" <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>, while Dr. Manhattan engages in "weird sex, hangs out on Mars, and contemplates the nature of time" <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
+
+Neither character functions as a traditional protagonist like Batman or Goku because they don't struggle in a conventional sense <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. While Goku undergoes intense training, Saitama "just does some push ups" <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. Batman pieces together clues, but Dr. Manhattan "literally knows everything" <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. For these characters, physical confrontations are over before they even begin <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
+
+## Satire: Watchmen's Condemnation
+
+*Watchmen* is categorized as a satire, which, according to Dustin Griffin, is a work "designed to attack vice or folly" and "seeks to persuade an audience that something or someone is reprehensible or ridiculous" <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. When satire uses another literary structure, it tends to "subvert it" or "direct its energies towards alien ends" <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+
+*Watchmen* specifically attacks the idea of anyone possessing powers akin to a nuclear weapon <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>. Dr. Manhattan's transformation in a nuclear accident and his recruitment as a weapon to win the Vietnam War, along with his name's reference to the Manhattan Project, symbolize pervasive nuclear fear <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. The graphic novel frequently references nuclear security, and the fear of nukes drives conflict, including the Vietnam War <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>. The need for a "fabricated attack on the earth" to de-escalate a nuclear standoff between the USSR and USA further exposes the extreme lengths taken due to this fear <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>.
+
+The story illustrates not only the dangers of power but also its indifference <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>. Dr. Manhattan's boredom leads to him becoming "increasingly conflicted about the nature of his own existence" <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>. This serves as a grim joke about Superman: if he were truly omnipotent, "why would he worry about humanity?" <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. While Superman's costume evokes American values, Dr. Manhattan "strips himself of ideology and gets naked" <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
+
+*Watchmen* also explicitly critiques the "corrupting influence of power" through The Comedian <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. Superhero stories ask audiences to believe that "good guys" with power deserve it, but *Watchmen* challenges this notion, portraying The Comedian—a super soldier in the mold of Captain America or Wolverine—as a "sadist and a psychopath" <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
+
+The satire uses the form and content of the superhero genre to persuade the audience that "the very idea of superheroes is a dangerous fantasy" <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. Much like Jonathan Swift's "A Modest Proposal" used the form of a political essay to expose indifference to suffering, *Watchmen* uses the superhero narrative to make superheroes "look dangerous and shitty" <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. It argues that superheroes create an "asymmetry of power that defies regulation," leading to unchecked violence and conflict when different ethical frameworks clash <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. Every aspect of *Watchmen* is dedicated to "turning the traits we love about superheroes against themselves" <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>. Ultimately, *Watchmen* "condemns superhero fiction as a genre because it promotes a dangerous fantasy" <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>.
+
+## Parody: One Punch Man's Affectionate Critique
+
+[[parody_of_anime_tropes_in_one_punch_man | One Punch Man]] is a parody, which, while exaggerating elements of its target, "ultimately affirms the literary form it inhabits" <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>. According to Robert Phiddian, parody "accepts the logic and rules of its genre and takes them seriously as tools of its criticism," operating "from inside of the texts and ideas it criticizes" <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>.
+
+The show pokes fun at both manga and Western comics <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. Villains deliver "intentionally over the top versions of classic villain monologues" <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>, and characters have dramatic backstories and fighting spirits, utilizing common anime and manga tropes <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>. Despite the ridicule, the creators clearly love the genre <a class="yt-timestamp" data-t="00:12:55">[00:12:55]</a>.
+
+[[parody_of_anime_tropes_in_one_punch_man | One Punch Man]] makes its argument by exaggerating the overpowered hero archetype <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>. Unlike Goku, who continuously gets stronger to match villains, Saitama's omnipotence renders other characters' struggles irrelevant <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>. Characters like Genos and Mumen Rider, who train hard but can never match Saitama, highlight the absurdity of constantly escalating power levels <a class="yt-timestamp" data-t="00:13:22">[00:13:22]</a>.
+
+The show introduces a "real-life" perspective, particularly through Mumen Rider <a class="yt-timestamp" data-t="00:14:16">[00:14:16]</a>. Mumen Rider, despite his heroic motivations similar to Midoriya from *My Hero Academia*, constantly gets beaten, sending a message that "Some people just don’t have what it takes to be a superhero" <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>. Saitama's boredom is also a relatable, "realistic reaction" to having nothing left to overcome <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>.
+
+Parody's crucial point is that "the body of words is always preloved and redirected" <a class="yt-timestamp" data-t="00:14:44">[00:14:44]</a>. It aims to "awaken us to the flaws in the things we love, but not to demolish a flawed genre" <a class="yt-timestamp" data-t="00:14:52">[00:14:52]</a>. [[parody_of_anime_tropes_in_one_punch_man | One Punch Man]] mocks anime to "help expand the possibilities of what it can do" <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>, calling for new types of stories beyond "bigger monster, bigger gun" <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>. The ending's criticism of the *Dragon Ball Z* model, with Boros seeking stronger opponents while Saitama is bored, showcases the pitfalls of the infinite power model <a class="yt-timestamp" data-t="00:15:44">[00:15:44]</a>.
+
+While [[parody_of_anime_tropes_in_one_punch_man | One Punch Man]] criticizes certain superhero narratives, it "doesn’t disavow the value of heroes" <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>. It wants audiences to "recognize and emulate the bravery we see from Genos and Mumen Rider," while also acknowledging "the silliness of the story we find those lessons in" <a class="yt-timestamp" data-t="00:16:15">[00:16:15]</a>.
+
+## Conclusion
+
+The critical difference between *Watchmen* and [[parody_of_anime_tropes_in_one_punch_man | One Punch Man]] lies in their intent <a class="yt-timestamp" data-t="00:16:24">[00:16:24]</a>. *Watchmen* condemns the superhero genre itself and broader social systems, while [[parody_of_anime_tropes_in_one_punch_man | One Punch Man]] seeks to refresh storytelling without completely abandoning the genre <a class="yt-timestamp" data-t="00:16:28">[00:16:28]</a>. Examples of satire include *Team America*, *Dr. Strangelove*, and *Heathers* <a class="yt-timestamp" data-t="00:16:48">[00:16:48]</a>, while *Deadpool*, *Galaxy Quest*, and *Blazing Saddles* are parodies <a class="yt-timestamp" data-t="00:16:53">[00:16:53]</a>.

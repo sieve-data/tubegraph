@@ -1,43 +1,41 @@
 ---
 title: Character development in Rick and Morty
-videoId: l_c2hqmFBdM
+videoId: IPAqPA5WF8w
 ---
 
 From: [[wisecrackedu]] <br/> 
 
-While many stories, particularly films, focus on [[rick_and_morty_story_structure | character development]] and transformation, television series often aim to preserve the status quo to encourage continued viewership <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>. Showrunners Dan Harmon and Justin Roiland masterfully employ this television-specific [[rick_and_morty_story_structure | story structure]] in *Rick and Morty* <a class="yt-timestamp" data-t="00:28:00">[00:28:00]</a>.
+The animated series *Rick and Morty* frequently explores themes of [[philosophical_themes_in_rick_and_morty | philosophical themes]] and [[rick_and_morty_story_structure | story structure]], often deconstructing traditional narrative tropes. One notable example of its unique approach to character development is seen in Season 3, Episode 6, "Rest and Ricklaxation" <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. This episode addresses character development in a way that is both satisfying and the opposite of what is typically seen in regular television <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
 
-## Dan Harmon's Story Circle and Television
-Dan Harmon's "story embryo" for narratives, applicable from *The Odyssey* to a simple joke, outlines an 8-step journey for a character <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>:
-1.  A character is in a zone of comfort <a class="yt-timestamp" data-t="01:54:00">[01:54:00]</a>.
-2.  They want something <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>.
-3.  They enter an unfamiliar situation <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>.
-4.  Adapt to it <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>.
-5.  Get what they wanted <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a>.
-6.  Pay a heavy price for it <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>.
-7.  Then return to their familiar situation <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>.
-8.  Having changed <a class="yt-timestamp" data-t="02:14:00">[02:14:00]</a>.
+## Anti-Character Development
 
-However, this structure adapts for television <a class="yt-timestamp" data-t="02:19:00">[02:19:00]</a>. While a movie aims to provide a temporary high, television seeks to keep viewers watching indefinitely <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>. This means television shows prioritize preserving the status quo over significant [[character_development_and_anticharacter_development_in_rick_and_morty | change]] <a class="yt-timestamp" data-t="02:35:00">[02:35:00]</a>. Harmon notes that television "swaps out any meaningful and therefore potentially television-subverting truth with the basic, eternal 'truth' that [[character_development_and_anticharacter_development_in_rick_and_morty | change]] is unnecessary" <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>.
+A clever aspect of "Rest and Ricklaxation" is its use of "anti-character development" <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. Series co-creator Dan Harmon adheres strictly to his version of Joseph Campbell's "The Hero's Journey" <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. A relevant part of this structure is when protagonists confront their "shadow"—a dark reflection of themselves they must overcome, similar to Dr. Jekyll and Mr. Hyde <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. Traditionally, overcoming this shadow leads to the hero gaining new insight, such as Logan sacrificing himself to overcome selfishness <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a> or Luke Skywalker sparing Darth Vader to overcome temptation towards the Dark Side <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
 
-The adjusted 8-step structure for a TV episode reflects this:
-1.  "I (the protagonist)" <a class="yt-timestamp" data-t="03:09:00">[03:09:00]</a>
-2.  "Notice a small problem" <a class="yt-timestamp" data-t="03:12:00">[03:12:00]</a>.
-3.  "And make a major decision" <a class="yt-timestamp" data-t="03:14:00">[03:14:00]</a>.
-4.  "This changes things" <a class="yt-timestamp" data-t="03:16:00">[03:16:00]</a>.
-5.  "To some satisfaction, but" <a class="yt-timestamp" data-t="03:19:00">[03:19:00]</a>.
-6.  "There are consequences" <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>.
-7.  "That must be undone" <a class="yt-timestamp" data-t="03:24:00">[03:24:00]</a>.
-8.  "And I must admit the futility of [[character_development_and_anticharacter_development_in_rick_and_morty | change]]" <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>.
+"Rest and Ricklaxation" employs this structure, with Toxic Morty and Toxic Rick serving as literal "shadow" versions of their healthy selves <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>. However, instead of overcoming their toxic personality traits, the episode is a journey for Rick and Morty to reunite with their worst selves <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
 
-## Futility of Change in *Rick and Morty*
-Every [[rick_and_morty_episode_analysis | episode of Rick and Morty]] adheres to this format <a class="yt-timestamp" data-t="03:34:00">[03:34:00]</a>. This means that while characters may face new situations, their internal state often remains unchanged.
+*   **Healthy Morty** is portrayed as a smooth operator with many friends who ultimately needs to rediscover his self-loathing <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
+*   **Healthy Rick** appears as a thoughtful super-genius who needs to rediscover his narcissism and irrational care for Morty <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
 
-### Rick Sanchez and the Status Quo
-*Rick and Morty* exemplifies the principle of preserving the status quo, particularly through the character of Rick Sanchez:
-*   **Adaptation vs. Internal Change** In the traditional story circle, Step 4 ("Adapt to it") involves characters confronting their neuroses and psychological baggage <a class="yt-timestamp" data-t="06:27:00">[06:27:00]</a>. However, in television, this stage is "much less about internal change and more about external change" <a class="yt-timestamp" data-t="06:45:00">[06:45:00]</a>. Rick rarely experiences true internal transformation.
-*   **Lack of Self-Correction** In "The Ricks Must Be Crazy" (Season 2, Episode 6), Rick encounters Zeep Xanflorp, a scientist who is essentially a "carbon copy" of Rick himself <a class="yt-timestamp" data-t="06:58:00">[06:58:00]</a>. Zeep's actions mirror Rick's hypocrisy, leading to a situation where a "normal character" would "own up to their own hypocrisy and begin to change" <a class="yt-timestamp" data-t="07:16:00">[07:16:00]</a>. Yet, Rick does not <a class="yt-timestamp" data-t="07:23:00">[07:23:00]</a>. Instead, he shamelessly parrots the same objections Morty had made to him earlier <a class="yt-timestamp" data-t="07:24:00">[07:24:00]</a>.
-*   **Awareness Without Desire for Change** The "beauty" of *Rick and Morty* lies in Rick's complete awareness of his shortcomings coupled with his "no desire to fix them" <a class="yt-timestamp" data-t="12:10:00">[12:10:00]</a>. The episode "The Ricks Must Be Crazy" draws parallels between Rick and Zeep, making them equally problematic <a class="yt-timestamp" data-t="12:17:00">[12:17:00]</a>. The final confrontation is not Rick battling his "demons in attempt to change" but "just Rick fighting Rick" <a class="yt-timestamp" data-t="12:36:00">[12:36:00]</a>.
-*   **The Futility of Fulfillment** Step 8 ("Change or the futility of it") typically sees the hero reaching fulfillment and integrating new skills <a class="yt-timestamp" data-t="12:59:00">[12:59:00]</a>. However, for television, "The hero can never be fulfilled" <a class="yt-timestamp" data-t="13:16:00">[13:16:00]</a> to ensure continued desire for adventure and story <a class="yt-timestamp" data-t="13:18:00">[13:18:00]</a>. The episode concludes with Rick re-enslaving an entire planet for his car battery, all to get ice cream, fully embracing the "futility of [[character_development_and_anticharacter_development_in_rick_and_morty | change]]" <a class="yt-timestamp" data-t="13:40:00">[13:40:00]</a>. Morty and Summer are left "shellshocked by the normalcy of the situation after all they’ve been through" <a class="yt-timestamp" data-t="13:44:00">[13:44:00]</a>.
+This "anti-character development" suggests that the "regular" kind of character development can be "pretty creepy" <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
 
-While *Rick and Morty* parodies pop culture and plays with audience expectations, its core [[rick_and_morty_story_structure | structure]] aligns with other TV shows <a class="yt-timestamp" data-t="13:51:00">[13:51:00]</a>. However, it uses this circular structure to highlight the "depressing, crippling futility of [[character_development_and_anticharacter_development_in_rick_and_morty | change]]" <a class="yt-timestamp" data-t="14:13:00">[14:13:00]</a>.
+## Commentary on Mental Health
+
+The "anti-character development" in the episode serves as a commentary on mental health in society <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>. "Rest and Ricklaxation" questions what it truly means to be mentally healthy <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. The episode parodies certain "healthy" attitudes promoted by self-help gurus and popular media, particularly the idea of eliminating all unpleasant or painful thoughts <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+
+Many "Insta-llectuals" advocate for uncritically loving oneself, saying yes to everything, and believing in oneself without question <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. *Rick and Morty* demonstrates that fully embodying these ideals can make an individual seem like a "coked-out weirdo" <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
+
+### Compulsory Happiness and Self-Help
+
+The show touches on sociologist William Davies' concept of "compulsory happiness," as discussed in his book *The Happiness Industry* <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>. Davies suggests that in the modern world, there's an alliance between corporations, managers, and advertisers promoting a definition of mental health that serves capitalist society <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. This type of happiness involves cheerfully accepting the status quo <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a> and requires constant self-improvement to be a "better consumer" <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
+
+Healthy Morty exemplifies this, spouting platitudes seemingly from a self-help book and demanding others adopt his new lifestyle <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>. When confronted with real problems, his response is to dismiss them as "unhealthy" <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
+
+The problem with this self-help philosophy, according to the episode, is that many things it aims to erase, like self-doubt and sadness, are important <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>. For Morty, self-doubt prevents him from becoming a "full-on sociopath" <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>. Healthy Morty indeed becomes a sociopathic stockbroker, akin to a "Wall Street fat cat with too much self-esteem" <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
+
+## The Return to Authenticity
+
+Rick realizes that some "less desirable" parts of ourselves, despite causing pain, are essential to being truly healthy <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. Jessica's reaction upon Morty's return, "Good to have you back," suggests that Morty's authentic, self-hating self is, in fact, his better self <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+
+### Perceived Inconsistency
+
+Despite the powerful message, a minor complaint noted about the episode is a perceived inconsistency <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. While the "toxic" parts are purged based on subjective definitions of toxicity, Healthy Rick states he's proud to be Morty's grandpa, yet later claims his attachment to Morty is irrational and toxic, allowing him to be nonchalant about Morty's potential demise <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. This raises a question about whether Rick's love for Morty is toxic or healthy <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>. This complex [[character_analysis_of_rick_and_jerry_from_rick_and_morty | character analysis of Rick and Jerry from Rick and Morty]] is a recurring theme.

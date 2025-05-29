@@ -1,0 +1,26 @@
+---
+title: Ricks views on control and multiverse
+videoId: PvfRqMgVpz8
+---
+
+From: [[wisecrackedu]] <br/> 
+
+Rick's transformation into a pickle in the episode "Pickle Rick" serves as a central point for exploring his complex relationship with control and the multiverse <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. While partly an arbitrary writer's room idea <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a> and a direct way to avoid family therapy <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>, this bizarre choice reveals much about his concept of freedom and responsibility <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## Avoidance of Control and Responsibility
+
+Rick's decision to become a pickle is a literal attempt to escape reality and avoid dealing with family issues <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>, particularly his daughter's divorce <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This behavior mirrors Beth's own stonewalling of her therapist, as both avoid baring emotions or vulnerability <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. Dr. Wong, the family therapist, suggests that Rick's "unquestionable intelligence" is paradoxically used to "justify sickness" within his family <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>.
+
+Dr. Wong highlights a core issue for Rick: "The only truly unapproachable concept for you is that it's your mind within your control" <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Rick's choice to become a pickle is an attempt to avoid making choices, or at least the appearance of having to choose <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>. By transforming into a "helpless, armless pickle," he can feign lack of fault for missing therapy <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>. This deliberate disregard for his choices aligns with philosopher Jean-Paul Sartre's concept of "acting in bad faith" <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>, which involves pretending not to have a choice <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>.
+
+Rick openly dismisses therapy, stating, "I don't respect therapy because I'm a scientist. Because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it!" <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a> This statement underscores his belief that his scientific prowess and ability to manipulate reality negate the need for introspection or addressing personal issues.
+
+## The Multiverse and Infinitude vs. Finitude
+
+Rick's [[Rick and Mortys View on Religion and Atheism | atheism]] <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>, combined with his access to an infinite multiverse, creates a unique philosophical dilemma. For Jean-Paul Sartre, godlessness implies radical freedom and the responsibility to define one's own existence <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Sartre's philosophy emphasizes "finitude," meaning a fixed number of choices in life, where each choice prevents others <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. Acting in bad faith involves denying the importance of these finite choices <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
+
+However, Rick faces the exact opposite of finitude: "infinitude" <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. His "access to infinite timelines precludes a necessity of attachment" <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. With an "infinite number of realities" <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>, Rick believes he doesn't need to take responsibility for his choices because he has "already made them all in the infinite versions of himself" <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. He has "transcended that human condition with science" <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+
+Despite his god-like intelligence and mastery of the universe, Rick paradoxically struggles to come to terms with his own choices <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>. Even with infinite versions of himself, his choices remain uniquely his own <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. Rick's coping mechanism for infinite choice, as revealed in Season 1, is simply "don't think about it!" <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a> Yet, therapy forces one to think about these things, leading him to transform into a pickle to avoid that very introspection <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.
+
+The series continues to explore themes of [[Conformity and individualism in Rick and Morty | agency]] <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>, particularly through the contrast between Jerry's powerlessness, Morty's resentment, and Rick's all-powerful nature <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.

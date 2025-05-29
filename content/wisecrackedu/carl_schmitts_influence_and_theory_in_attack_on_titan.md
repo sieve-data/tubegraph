@@ -1,0 +1,56 @@
+---
+title: Carl Schmitts Influence and Theory in Attack on Titan
+videoId: 1XJhZVmORlM
+---
+
+From: [[wisecrackedu]] <br/> 
+
+The colossal series [[philosophy_of_attack_on_titan | Attack on Titan]] explores the visceral reality of death, with Titans serving as a physical personification of mortality and an existential confrontation with demise <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. However, the darkest element of the series is not the Titans themselves, but the construction of the society behind the walls <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. This anachronistic, quasi-Germanic society, complete with German architecture, war cries, and names, bears striking similarities to German history <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. Upon closer inspection, the [[societal_themes_and_political_ideology_in_attack_on_titan | political ideology]] of this society aligns with the beliefs of Carl Schmitt, a notorious Nazi philosopher <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+
+It is important to note that the video does not endorse Schmitt's ideas, nor does it claim [[philosophy_of_attack_on_titan | Attack on Titan]] advocates for them <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Instead, the show can be understood as an exploration of his philosophy <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. [[philosophy_of_attack_on_titan | Attack on Titan]] is provocative because it presents a society, faced with a horrific enemy, that maintains stability while reflecting Nazi ideology <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. It dares to ask if, in this dystopian society, a controversial philosophy might be the only thing preventing societal collapse <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+
+## Carl Schmitt's Philosophy and "The Political"
+
+Central to Schmitt's philosophy and the civilization depicted in [[philosophy_of_attack_on_titan | Attack on Titan]] is the concept of "the political" <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. For Schmitt, three core concepts establish "the political" and create a stable society:
+1.  Conflict and inequality <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>
+2.  Clear distinctions between [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | friends and enemies]] <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>
+3.  [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | Sovereignty]] <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>
+
+### Conflict and Inequality
+
+Schmitt posits that conflict, division, and inequality among human beings are inevitable <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. He believes humanity's most basic nature is savage and hellish, where people are inherently "shitty" and life is unfair <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. This view is echoed by characters like Mikasa, Armin, and Eren <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>. The show constantly reinforces the idea that it's a "dog eat dog world" where one must fight to survive <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. This "constant war against all" aligns with Thomas Hobbes's view of human nature, where social structures are necessary to keep humanity's monstrous core at bay <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+
+Schmitt extends this, arguing that hostility is unavoidable and inequality is inevitable; politics should not attempt to fix these issues <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. Instead, a strong [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | sovereign]] should focus on maintaining order and control of the population, as eliminating antagonism or inequality is impossible <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
+
+[[societal_themes_and_political_ideology_in_attack_on_titan | Attack on Titan]] demonstrates this stratification:
+*   Classes are separated by literal walls, with each section forming its own caste system <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
+*   People in Wall Maria are less safe than those in Wall Rose and Sina <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
+*   While outer districts face Titan attacks, inner-city inhabitants "chillin in castles, playing chess and shit" <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>.
+*   The Scouts risk their lives beyond the wall, while inner-wall Military Police "get drunk all day" <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+
+In the show, severe inequality is not presented as something to be repaired <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. For Schmitt, alleviating inequality is a distraction from the true purpose of "the political": nationalism and survival <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. This focus on nationalistic duty is evident in the Season 1 theme song, which resembles "Triumph of the Will" level propaganda, with lyrics about fighting past defeat and trampling corpses <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
+
+### Friend-Enemy Distinction
+
+Schmitt's second element of "the political" is a clear distinction between [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | friend and enemy]] <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. He argues that good governments need an enemy to struggle against, but not completely dominate <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. The Titans serve as this check, preventing total conquest beyond the wall <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. Without a clear enemy, human nature would lead to an unending civil war, full of atrocities <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>. The existence of a clear enemy impedes infighting <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>.
+
+Both Erwin and Pyxis recognize the necessity of the Titans as an enemy <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. Pyxis explicitly states:
+> "If we ever did manage to wipe the Titans out, it's a sure bet we'd be at each other's throats within a few years. It's the simple truth, the only thing that unites us is our common enemy" <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
+
+Pyxis and Erwin Smith worry that humanity itself is the real threat, and the Titans merely keep people in line by providing a common goal <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. The Titans could be an allegory for the perfect scapegoat, mobilizing the population and empowering those in control <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>.
+
+The show's theme of freedom also reflects this [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | friend-enemy distinction]] <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. For Schmitt, freedom and community are defined by denying cowardice in the face of impending death <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. Joining the Scouts is a form of liberation from the fear of waiting to die inside the walls <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>. This desire for freedom cements Eren's class as a political community, finding purpose on the battlefield <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. A political community, for Schmitt, is defined by the ability to kill enemies for friends' sake or die at enemies' hands for friends' sake <a class="yt-timestamp" data-t="00:08:59">[00:08:59]</a>. This camaraderie is what binds humanity together, preventing internal strife <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
+
+However, the [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | friend-enemy distinction]] blurs as the show progresses, particularly with Eren and Annie being Titans <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. Eren's partial transformation scene, where he saves Mikasa and Armin, highlights the danger of unclear divisions between human and Titan, making the task of securing the population nearly impossible <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
+
+### Sovereignty
+
+The final element of Schmitt's "the political" is the power of the [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | sovereign]] <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a>. A [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | sovereign]] entity can declare states of emergency that justify sacrificing populations for the greater good, such as sending a battalion to reclaim Wall Maria <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. This ability is crucial for long-term societal stability, preventing political bickering from hindering immediate threats <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>. The [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | sovereign]] can also make exceptions to the law, like granting special citizen status to those living inside Wall Sina <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>.
+
+In [[philosophy_of_attack_on_titan | Attack on Titan]], the leadership structure appears to be based on martial law and military rule <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. Leaders send millions to their deaths to ensure the safety of others <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>. Pyxis explains that the retaking of Wall Maria was a thinly disguised purge to ease stress from the massive influx of refugees, effectively killing off part of the population for the "greater good" <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>. For Schmitt, the [[friendenemy_distinction_and_sovereignty_in_attack_on_titan | sovereign]] must maintain this capacity to perform even horrendous acts to preserve order <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
+
+## Implications and Future Directions
+
+The show prompts viewers to consider what would happen if all the Titans disappeared <a class="yt-timestamp" data-t="00:12:07">[00:12:07]</a>. Would society descend into anarchy or civil war, or would it lead to liberation and greater peace <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>? For Schmitt, eradicating an enemy is not an option, as the drive for warfare means another enemy will always emerge, potentially leading to internal conflict <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>.
+
+While Schmitt's theories are controversial due to his Nazi affiliations, they remain debated in academia for understanding international conflict, executive power, and contemporary issues like the war on terror <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>. [[philosophy_of_attack_on_titan | Attack on Titan]] has the potential to become a scathing criticism of Schmitt-style politics or to simply complicate them <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>. The full implications await future seasons.

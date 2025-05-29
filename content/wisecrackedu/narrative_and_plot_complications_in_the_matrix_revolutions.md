@@ -1,0 +1,74 @@
+---
+title: Narrative and plot complications in The Matrix Revolutions
+videoId: 27rhHfBugnc
+---
+
+From: [[wisecrackedu]] <br/> 
+
+*The Matrix Revolutions*, the final installment of [[the_matrix_movie_plot_summary | The Matrix trilogy]], presents significant narrative complications that leave viewers with "colossal narrative gaps" and a sense that the film "doesn't make much sense" <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. Beyond issues of "flat characters, unclear motivations, and structural cluster books," the core problem lies in its confusing plot <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
+
+Key questions that arise from the film's narrative include:
+*   How does Neo possess powers outside the Matrix? <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>
+*   Does Neo genuinely make his own choices, or is he merely a pawn of larger forces? <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>
+*   What is the significance of Neo's Christ-like portrayal, and how does [[religious_imagery_and_allegories_in_the_matrix_revolutions | this religious imagery fit into the story]]? <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>
+
+## Neo's Unexplained Powers in the Real World
+
+A primary narrative gap in *Revolutions* is Neo's ability to exert power outside the simulated reality of the Matrix <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. The film offers only vague explanations, such as the Oracle's statement that "the power of the One extends beyond this world" and "reaches from here all the way back to where it came from… the Source" <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>. This is further hinted at in a video game tie-in, stating he "touched the Source" and "separated his mind from his body" <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>, but these provide "basically non-explanations" <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
+
+Fan theories, such as a "matrix within a matrix" or Neo being "wirelessly connected to the Source," lack textual support <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. Instead, these mysterious powers may be linked to the philosophical ideas of Jean Baudrillard, particularly his concept of hyperreality <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
+
+### Baudrillard's Influence and Misinterpretation
+The Wachowskis frequently reference Baudrillard, even directly quoting him with "Welcome to the desert of the real" <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. Baudrillard's critique of the postmodern era describes a reality replaced by simulacra (signs without relation to the real) and simulations, leading to a virtual world that replaces reality <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. This hyperreality, where technologies control meaning, is depicted literally in the films as humans enslaved by machines in a physical desert <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+
+Baudrillard himself criticized the Wachowskis for taking his "hypothesis of the virtual for an irrefutable fact" and transforming it into a "visible phantasm" <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>. For Baudrillard, there are no "red pills and blue pills" or external reference points to distinguish the real from the fake <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>. He suggested that "what would be interesting is to show what happens when these two worlds collide" <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>.
+
+### Merging the Real and Virtual
+The sequels attempt to merge the real and virtual by granting Neo powers in the "real world" <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. The implication in *Revolutions* is that Neo doesn't just plug into the virtual; he "can't unplug from it" because "the virtual is inside of him" <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>. This suggests a more complex idea of the virtual as a "layer of the real" that is "interwoven and confused with it," which Neo can access <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>. This perspective might also explain how Agent Smith could enter the real world by cloning himself onto Bane, blurring the "distinction between mind and body" <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
+
+Neo's blindness in the real world, which allows him to "see the world as energy pulses," aligns with the archetype of the blind seer who understands more by "seeing less" <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>. His blindness helps him "literally see a fundamental truth about the relationship between the real and the virtual," namely that they are not as separate as he initially believed <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
+
+The train station, a "weird limbo space between the real and the virtual," further exemplifies this blurred distinction <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>. Here, programs seek refuge from the "real world" (where they are forced to carry out their programming) in the Matrix, which for them is a "liberatory space" to be their "true selves" <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. This raises the question of whether, for a digital entity, the virtual world *is* the real world <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. The Oracle's ambiguous plea to the Architect ("What about the others?") suggests that "getting out might mean getting in" for machines, and vice versa for humans <a class="yt-timestamp" data-t="00:06:50">[00:07:05]</a>.
+
+## [[discussion_of_free_will_versus_determinism_in_the_matrix | Choice Versus Determinism]]
+
+The [[philosophical_themes_in_the_matrix_reloaded | conflict between choice and determinism]], a central theme since [[philosophical_themes_in_the_matrix | The Matrix]] and [[determinism_in_the_matrix_reloaded | Matrix Reloaded]], becomes even more complicated in *Revolutions* <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. Despite characters asserting "Everything begins with choice" <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>, Neo's final word is "Inevitable" <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>.
+
+### The Illusion of Choice
+Most people experience themselves as making choices, driven by reason and the ability to "act otherwise" <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>. However, *The Matrix* challenges this. The Architect reveals that earlier, "perfect human world[s]" failed because humans were "being forced choice" <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. The current Matrix succeeds only because it accounts for the human need to choose, albeit a "paradoxical choice to give up their freedom" <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>. This aligns with Baudrillard's idea that humans willingly surrender control of meaning to the virtual <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
+
+### Neo's "Choice" Questioned
+Neo's decision to save Trinity instead of reloading the Matrix, often seen as a victory for free will <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>, is undermined. The Architect views Neo's love for Trinity as a "chemical reaction" designed to "overwhelm logic and reason," suggesting it's not a true choice but an "evolutionary programming" <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>.
+
+From a mechanistic view, espoused by philosophers like Colonel Sanders and Carnot, everything operates on "physical, logical, and mathematical laws of causation" <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>. Ancient philosophers like Democritus and Leucippus also noted the physical world was governed by "strict causal laws" <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>. Determinists argue that the "appearance of choice is just part of the system" <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>. The function of "the One" is to control the "narrative of choice and resistance" to suit the machines, perpetuating a cycle where Zion rises, the One appears, makes a "choice," dies, and the Matrix reloads <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>.
+
+### Fatalism and the Oracle's Role
+Beyond determinism, fatalism suggests events are "destined to occur" due to "gods, the fates, or even our own character and compulsions" <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>. The Oracle, responsible for the prophecy, is portrayed as manipulating Neo and his allies' decisions, even pretending they are choices, all to guide "the anomaly" to the Source <a class="yt-timestamp" data-t="00:13:45">[00:13:45]</a>. This framing makes the entire series seem like a chess game between the Oracle and the Architect <a class="yt-timestamp" data-t="00:14:06">[00:14:06]</a>.
+
+The Oracle herself claims to make choices, such as saving Sati, but also states, "I made these choices to fulfill her purpose" and "this had to happen" <a class="yt-timestamp" data-t="00:14:26">[00:14:26]</a>. This blurs whether she truly exercises free will or is also a product of fate.
+
+### Agent Smith's Agency
+Agent Smith is presented as potentially the "only real being with agency" <a class="yt-timestamp" data-t="00:15:03">[00:15:03]</a>. After being "killed" by Neo, he "refuses to return to the source to be destroyed," a choice similar to Neo's <a class="yt-timestamp" data-t="00:15:07">[00:15:07]</a>. However, Smith is a "die-hard fatalist," believing his actions are "part of a grander plan" and asserting, "We're not here because we're here, because we are not free" <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>. He sees freedom, truth, peace, and love as "illusions" and "artificial as the Matrix itself," with only "programming and fate" being real <a class="yt-timestamp" data-t="00:15:47">[00:15:47]</a>.
+
+### The Value of Freedom and Connection
+Despite the strong arguments for determinism and fatalism, the film eventually reminds viewers that "will for freedom, peace, and love" is meaningful for both humans and programs <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a>. The interaction with Sati highlights that "love is not just an illusion or some chemical BS" but a "powerful and meaningful connection" <a class="yt-timestamp" data-t="00:16:43">[00:16:43]</a>. The idea that Sati, a program without a predetermined purpose, still deserves to live freely challenges the deterministic view that purpose is essential for existence <a class="yt-timestamp" data-t="00:16:55">[00:17:04]</a>. Neo realizes that "just as humans can't exercise their free will, some programs can't either," implying that genuine choice should be available to everyone <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>. However, even this "revelation" is guided by the Oracle, who sent Sati to Neo for this exact purpose <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>, again suggesting that "it's not clear that Neo or anyone else for that matter actually makes one" <a class="yt-timestamp" data-t="00:17:47">[00:17:47]</a>.
+
+## [[religious_imagery_and_allegories_in_the_matrix_revolutions | Religious Imagery and Allegories]]
+
+*Revolutions* concludes with "confusing religious imagery" <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>. Neo is consistently presented as a "quasi-religious figure" akin to a savior from the Gnostic Gospels <a class="yt-timestamp" data-t="00:18:14">[00:18:14]</a>, guiding humans from ignorance and enslavement ("darkness, sleep, night, and blindness") to "waking knowledge" and "light" <a class="yt-timestamp" data-t="00:18:27">[00:18:27]</a>. His sacrifice enables "true knowledge of reality and peace between machines and humans" <a class="yt-timestamp" data-t="00:18:41">[00:18:41]</a>.
+
+However, it is not [[determinism_in_the_matrix_reloaded | determinism]] that leads him to this point, but "faith" – faith in his purpose and the "possibility of peace" even when he is unsure of his path <a class="yt-timestamp" data-t="00:18:52">[00:18:52]</a>. The film suggests that perhaps "some things exist beyond reason, clarity, or calculations," and that the human capacity for "faith in peace, in goodness, and something beyond ourselves" is what truly matters <a class="yt-timestamp" data-t="00:19:25">[00:19:25]</a>.
+
+## Yin and Yang: A Search for Balance
+
+The Oracle's earrings, featuring a yin and yang symbol, hint at a deeper philosophical theme of balance, cycles, and dichotomies present throughout the film <a class="yt-timestamp" data-t="00:19:44">[00:19:44]</a>. In Taoism and Confucianism, yin (dark, condensing, associated with metal, fire, material) and yang (light, expanding, associated with water, earth, energy, life) are "opposite but connected forces" <a class="yt-timestamp" data-t="00:20:09">[00:20:09]</a>.
+
+This concept can explain:
+*   **The nature of reality:** The "real world" is dark, machine-filled, and "on fire" (yin), while the virtual world is light and "of the mind" (yang) <a class="yt-timestamp" data-t="00:20:25">[00:20:25]</a>. Rather than confusing the real and virtual, yin and yang suggest they are "two sides of the same coin" <a class="yt-timestamp" data-t="00:21:07">[00:21:07]</a>.
+*   **Neo and Agent Smith:** Their unexplained powers and mutual obsession are because "they are yin and yang, light and dark sides of the same anomaly" <a class="yt-timestamp" data-t="00:20:41">[00:20:41]</a>. Smith is "your opposite, your negative, to be showed at the equation trying to balance" <a class="yt-timestamp" data-t="00:20:58">[00:20:58]</a>.
+*   **Choice and Fate:** The film leaves ambiguity regarding whether Neo makes choices or is determined by larger forces <a class="yt-timestamp" data-t="00:21:12">[00:21:12]</a>. However, through a yin and yang lens, "choice and fate are a bit yin and yang, equally important aspects of the human experience" <a class="yt-timestamp" data-t="00:21:23">[00:21:23]</a>.
+*   **Faith and Fate:** Similarly, whether the Matrix is a religious allegory or a game between the Oracle and Architect is left open <a class="yt-timestamp" data-t="00:21:33">[00:21:33]</a>. Both "faith and fate are important aspects of making meaning for programs and humans" <a class="yt-timestamp" data-t="00:21:41">[00:21:41]</a>.
+
+## Conclusion
+
+Ultimately, the narrative and plot complications in *The Matrix Revolutions* may be deliberate. The film's commitment to being "beyond sense" or flawlessly implementing every [[philosophical_influences_on_the_matrix_trilogy | philosophy]] might undermine its own point that "some things are beyond reasoning, calculation," and "that's okay" <a class="yt-timestamp" data-t="00:22:04">[00:22:04]</a>. Despite its flaws and narrative ambiguities, the film encourages a deeper engagement with its philosophical themes rather than seeking simple explanations.

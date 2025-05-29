@@ -1,0 +1,77 @@
+---
+title: Analysis of Ari Asters Midsommar
+videoId: 7t_-uSrPmrA
+---
+
+From: [[wisecrackedu]] <br/> 
+
+Director Ari Aster's 2019 film *Midsommar* "stunned and delighted" horror fans, following his 2018 film *Hereditary* <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. Contemporary horror filmmaker Jordan Peele lauded *Midsommar* as "the most idyllic horror film of all time" <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. The film prompts the question of whether there's "something meaningful going on" in its "gnarly vision of the Swedish countryside" <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+
+## Plot Summary
+
+*Midsommar* introduces Dany, a young woman, and Christian, her boyfriend <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. After Dany's sister kills herself and their parents, Christian, motivated by guilt, reluctantly invites Dany to join him and his anthropology graduate school friends on a trip to Sweden <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. They are attending a special "once every 96 years mid-summer festival" <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+
+Upon arriving at an "idyllic Swedish commune," events quickly turn strange <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. Two elderly individuals commit ritualistic suicide by jumping off a cliff <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>, a woman places a pubic hair in Christian's pie <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>, and commune members engage in dancing and moaning while under the influence of psychedelics <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. Two British visitors, understandably disturbed, attempt to leave and subsequently disappear <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+
+As the creepiness escalates, Christian's grad school friends are systematically killed in "creatively horrifying fashion" <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. Meanwhile, Dany's experience takes a different turn: she wins an "all-girls stone dance competition," is crowned May Queen, and is celebrated by the community <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. Christian becomes entangled in a "weird sex ritual" witnessed by Dany <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. Ultimately, Dany is chosen to select the ninth person for a human sacrifice by burning <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. She chooses Christian, and the film concludes with her smiling as he and others burn <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
+
+## Filmmaker's Approach to Swedish Traditions
+
+Ari Aster's depiction of the Midsummer festival is not primarily concerned with "total anthropological fidelity" <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
+
+### Dispelling Myths about Real Swedish Midsummer
+
+According to Poe Tidholm, author of *Celebrating the Swedish Way*, the actual Midsummer holiday is not a "bloodbath where grandpas jump off cliffs or hapless foreigners are put in funny hats and burn to a crisp" <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>. Instead, it is a "light and happy tradition" celebrating summer, involving eating herring, drinking aquavit, staying up late, dancing around maypoles, decorating with ferns and plants, and visiting holy springs <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. Tidholm clarifies that there have "never been any sacrifices on Midsummer," even in ancient times <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. The film's "weird sex stuff" was entirely Aster's invention <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>, although baby-making is a significant part of the real Midsummer, leading to a peak in Swedish births nine months after the summer solstice <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. Real Swedes celebrating are also "far more likely to get boozy than they are to trip balls" <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
+
+### Elements True to Swedish Culture and Folklore
+
+Despite liberties taken, Aster conducted extensive research, drawing from "Swedish traditions and folklore" as well as Norse mythology <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. Hårga is a genuine rural village, and much of the film's imagery, including the maypole, aligns with "real Swedish Midsummer celebrations" <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. The "somewhat creepy paintings on the barn walls" are also true to "real agrarian Swedish societies" <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. People in Sweden genuinely eat herring and wear flower wreaths <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. Aster also incorporated other religious traditions, like the blessing of crops, from James George Fraser's 19th-century anthropological study <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
+
+### Use of Runes and Norse Mythology
+
+Aster learned the Scandinavian runic alphabet, used in Germanic languages before Latin <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. He stated that every item of Hårga clothing features "specifically chosen runic symbols" and an invented "hieroglyphic language" <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
+
+*   **Christian's Robe**: When Christian dons a white robe for the fertility ceremony, it's decorated with the "upwards arrow Tiwas symbol" <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. This symbol is linked to the Norse god Tyr, representing bravery, masculine energy, and virility <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. Tyr sacrifices his hand to save the world, which is fitting for Christian who is "about to be... well sacrificed" <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>.
+*   **Dany's Dress**: Dany's dress features two runes: an R-shaped "rivo," symbolizing journey, and an hourglass-shaped "thawgaus" rune, which can mean "new beginning or loss of hope" <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. Both are relevant to her character's transformation <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+
+For the death rituals, Aster was likely inspired by "long debated Viking mythology and folklore" <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. Some prehistoric Viking accounts depict sacrifices of horses, dogs, birds, and humans, supposedly occurring every nine years <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. While disputed, scholars generally agree that if human sacrifices happened, they occurred before 1050 A.D. <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>.
+
+Other elements with Norse mythological ties include:
+*   **Bear Carcass**: Christian is placed inside a bear carcass before being burned <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. Bears are significant in Norse mythology, with Viking men donning bear skins before battle, believing the skins protected them from fire <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>.
+*   **Blood Eagle**: The gruesome sight of Simon, splayed open with his lungs still breathing, is a reenactment of the "blood eagle," a Viking torture ritual first documented in 865 <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. Its possibility is debated by scholars <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+
+### Love Rituals and Folklore
+
+Some Hårga "love rituals" bear resemblance to reality <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>. For instance, Hårga women pick different types of flowers; in real life, Swedes pick seven different kinds to place under their pillow to dream of their future mate <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. Maya, Christian's seducer, places a carved love rune under his bed <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. Aster insists that Christian finding a pubic hair in his pie and consuming a drink with menstrual blood are "love spell[s]" from "actual Swedish folklore" <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+
+Aster's creation is a combination of "truth and fiction, old and new mythology and history" to build a "creepy haven" where "ritualized human sacrifice is as normal as sourdough bread" <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>.
+
+## Thematic Analysis: Responses to Rituals
+
+The film explores how outsider characters react to the Hårga rituals, highlighting a deeper point about [[modern_secular_perspectives_versus_traditional_rituals_in_midsommar | modern secular aversion to mystical traditions]] <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+
+### Dany's Journey: Seeking Community and Empathy
+
+Dany begins the film "firmly ensconced in a cold, alienating secular society" <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. The muted colors and "icy lonely city streets" suggest an unhappy world <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. After losing her family, she receives little comfort, and Christian stays with her out of obligation <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>. Her world lacks [[themes_of_community_and_belonging_in_midsommar | community and emotional support]] <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>. She is often shown alone, communicating via phone calls, implying a lack of full presence from others <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. Conversations in mirrors suggest people are not truly connecting, only seeing "each other's superficial public face" <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. Christian's attempts to distance himself, forgetting her birthday, and pressuring her to take hallucinogens despite her panic attacks further illustrate her isolation <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>.
+
+Pelle, a Swedish friend, tells Dany that despite being an orphan, he always felt "held by a family... a real family which everyone deserves. You deserve" <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. This highlights Dany's core need: "love, empathy, and community" <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>.
+
+Dany finds this when she encounters the Hårga people <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>. Initially wary, she is "seduced by the warmth of their community" <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. The Hårga move "in tandem," like "different parts of the same organism," embodying shared catharsis <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. When an old man survives a cliff leap, the tribe moans in unison, "experiencing a collective pain" <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. This collective feeling is also seen during Christian's sex ritual, where women moan in unison with Maya, "sharing her pleasure" <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. Aster describes their language as "empathy" <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
+
+Dany's immersion into the Hårga culture is reflected in her costume change, from dark "real world clothing" to an apron, then a full dress and flower wreath before the maypole dance <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>. During this ritual, she takes hallucinogens and, despite being "slightly off rhythm," is led into the dance <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>. This "dizzying experience is the first time we see her truly smile" <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>, as she becomes "part of the singular Hårga organism" <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>.
+
+The most pivotal moment occurs after Dany sees Christian with another woman. She cries uncontrollably, "except this time she's surrounded by a group of Hårga women who cry in tandem with her," sharing her emotional load and empathizing with her pain <a class="yt-timestamp" data-t="00:11:08">[00:11:08]</a>. Dany's increasing integration into the cult is mirrored by her "increased immersion into nature," with her hands and feet hallucinating grass, and her becoming covered in flowers as May Queen <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>. By the end, she "has almost entirely disappeared into a gown and crown of bright blossoms," symbolizing her "surrender to nature and this agrarian society" <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>. Her new loyalty to the Hårga is confirmed when she chooses Christian, rather than a Hårga member, for the ninth sacrifice <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>. As she watches the burning, she experiences both pain and joy, smiling as the "vestiges of her former life crumble" and she is "free to start anew in a community where she can belong and be seen" <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>.
+
+### Christian and the Dude Bros: Detachment and Condescension
+
+In contrast to Dany, Christian and his friends approach the Hårga with "condescending distance" <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>. They act like "anthropology students working on a thesis," sneaking into temples for photos or "watching the rituals as if surveilling animals at a zoo" <a class="yt-timestamp" data-t="00:12:32">[00:12:32]</a>. Mark, one of the friends, is more interested in "banging Swedish chicks" and disregards Hårga beliefs, evidenced when he "pees on a sacred tree" <a class="yt-timestamp" data-t="00:12:44">[00:12:44]</a>. Their overall approach is characterized by "detached shock and intrigue," similar to an audience alienated from the value of ancient rituals <a class="yt-timestamp" data-t="00:12:56">[00:12:56]</a>.
+
+## Deeper Meaning: The Value of Ritual
+
+The film "constantly playing into and subverting our [[modern_secular_perspectives_versus_traditional_rituals_in_midsommar | modern secular aversion to mystical traditions]]" <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>. According to theologian David Bentley Hart, modern society's "religion is one of very comfortable nihilism," leading to a tendency to view ritual acts as "primitive and potentially barbaric" <a class="yt-timestamp" data-t="00:13:23">[00:13:23]</a>. The Hårga, as the film's "boogeyman," take the form of "very religious Swedes" rather than a "sadistic serial killer or a shape-shifting clown," which "speaks volumes about our society's fear and aversion to ritual" <a class="yt-timestamp" data-t="00:13:32">[00:13:32]</a>.
+
+However, Aster also portrays the Hårga clan as the "precise answer to everything wrong with Dany's life," offering her "complete acceptance, genuine reciprocity, and total empathy" <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a>. Thus, *Midsommar* is a "shocking reassertion of the value of ritual" <a class="yt-timestamp" data-t="00:13:55">[00:13:55]</a>.
+
+> "No matter how irrational these acts may seem, they have a very rational purpose: to build community and a sense of belonging." <a class="yt-timestamp" data-t="00:13:59">[00:13:59]</a>
+
+This makes the film "Wisecrack certified deep" <a class="yt-timestamp" data-t="00:14:07">[00:14:07]</a>.

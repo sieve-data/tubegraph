@@ -1,0 +1,71 @@
+---
+title: Prisoners dilemma and its application in the show Billions
+videoId: THNQE7fTMWM
+---
+
+From: [[wisecrackedu]] <br/> 
+
+*Billions*, returning for its fourth season on March 17th, chronicles the rivalry between a ruthless billionaire and an equally ruthless US Attorney <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. Beyond this surface narrative, the show explores how games structure lives and how the gamification of goals can have a corrosive effect on one's sense of [[billions_television_show_and_its_portrayal_of_morality | morality]] <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. *Billions* frames this erosion of [[billions_television_show_and_its_portrayal_of_morality | morals]] through the lens of [[game_theory_in_personal_and_professional_conflicts | game theory]] <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
+
+## An Overview of *Billions*
+
+The show centers on Chuck Rhoades, the US Attorney for the Southern District of New York, and his billionaire nemesis, Bobby Axelrod <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. Rhoades is an ambitious prosecutor targeting white-collar criminals but displays a "cold calculus bordering on sociopathy," betraying friends and family for his goals <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. He aims for higher public office, engaging in backroom deals and forging alliances <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. His wife, Wendy, works as a performance coach for Axelrod, the man Chuck is trying to imprison <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+
+Bobby Axelrod, a mega-rich hedge fund manager, rose from humble beginnings <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. His staff, including right-hand man Mike Wagner (Wags), is fiercely [[billions_television_show_and_its_portrayal_of_morality | loyal]] <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. However, Axelrod's drive is marred by morally and legally questionable actions, such as insider trading and profiting from 9/11 victims <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. His pride often leads him to flaunt his wealth, which contributes to escalating conflicts with law enforcement and strains his relationships with his wife Lara and protégé Taylor <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. The show ultimately explores how the pursuit of power is paved with corruption, lies, and eroding [[billions_television_show_and_its_portrayal_of_morality | morals]], with [[game_theory_in_personal_and_professional_conflicts | game theory]] highlighting this process <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
+
+## Understanding Game Theory in *Billions*
+
+[[game_theory_in_personal_and_professional_conflicts | Game theory]] is broadly defined as the study of how people make strategic decisions <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>. This methodical approach can be applied to various situations, from salary negotiations and online dating to selecting a jury and playing the stock market <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+
+In *Billions*, [[game_theory_in_personal_and_professional_conflicts | game theory]] is explicitly mentioned <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. At Axe Capital, it's employed to maximize profits through hedging bets, leveraging positions, and strategic short-term losses for long-term gains <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. Traders mislead competitors <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a> and carefully manage information flow <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. For Chuck Rhoades's office, [[game_theory_in_personal_and_professional_conflicts | game theory]] shapes plea deals, political maneuvering, and investigative tactics <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
+
+## The Prisoner's Dilemma Explained
+
+A core principle highlighted in *Billions* is the Prisoner's Dilemma <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. Originating as a thought experiment in the 1950s, it involves two individuals who commit a crime and are apprehended but only have enough evidence for a lesser charge <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>. Separated and unable to communicate, they are offered a deal:
+*   If both remain silent, they each receive 1 year in jail <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+*   If one rats on the other, the snitch walks free, and the other gets 10 years <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>.
+*   If both rat on each other, they each get 8 years <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>.
+
+The "rational" choice for an individual is to betray, hoping to walk free. However, if both choose this "rational" path, they end up worse off than if they had cooperated and remained silent <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
+
+## Prisoner's Dilemma in *Billions*' Plot and Society
+
+Chuck's office attempts to use a variation of the Prisoner's Dilemma when trying to get Pete Decker to testify about Axelrod's insider trading <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. Rhoades fabricates a second snitch to pressure Decker into cooperating, though Decker doesn't fall for the bluff <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>.
+
+The Prisoner's Dilemma extends beyond legal scenarios to any situation where there's an incentive to betray, leading to a worse outcome for everyone if everyone defects <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>. An example is people waiting in line: if one person cuts, they benefit; if everyone cuts, the line devolves into anarchy, and everyone waits longer <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>. This multi-person version is known as the "free riders dilemma" <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. Chuck demonstrates his understanding of this principle when confronting a man about not cleaning up after his dog, explaining that if one person lets it slide, the entire area would become unsanitary <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>.
+
+Author William Poundstone posits that the Prisoner's Dilemma serves as a metaphor for how society functions <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>. If everyone cooperates, everyone wins. If some cheat, they benefit, but society generally holds up. If everyone cheats, it leads to anarchy and universal loss <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>. Cooperation is paramount for civilization <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
+
+### The Importance of Loyalty at Axe Capital
+
+The Prisoner's Dilemma also elucidates why [[billions_television_show_and_its_portrayal_of_morality | loyalty]] is so critical at Axe Capital <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>. In an environment where employees could be caught by federal authorities and jeopardize Axe's empire, Axe demands unflinching [[billions_television_show_and_its_portrayal_of_morality | loyalty]] <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. Wags explicitly states that an employee's dis[[billions_television_show_and_its_portrayal_of_morality | loyalty]] is worse than poor performance <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>. The game at Axe Capital is about cooperating with Axe, not defecting to the feds <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. While individually "rational" for an isolated Prisoner's Dilemma, defecting repeatedly within a firm would lead to ruin. Axe's strict demand for [[billions_television_show_and_its_portrayal_of_morality | loyalty]] removes this doubt, ensuring collective benefit through "honor among thieves" <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>.
+
+## Iterated Prisoner's Dilemma and "Tit for Tat"
+
+The game becomes more complex when played iteratively, or repeatedly <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. The relationship between Axe and Chuck can be framed as an iterated Prisoner's Dilemma, where both parties escalate their actions to hurt each other <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>. Their rivalry evolves from psychological warfare—Chuck goading Axe into buying a scrutinized beach house <a class="yt-timestamp" data-t="00:09:29">[00:09:29]</a>, Axe sitting on a board to spite Chuck's father's mistress <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>—to deep personal attacks, such as Chuck snooping into Wendy's therapy notes, Axe threatening Wendy, and Axe buying Chuck's rare book collection <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>.
+
+One of the most effective strategies for the iterated Prisoner's Dilemma is "tit for tat" <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>. Pioneered in a 1980 computer tournament hosted by Robert Axelrod (a noteworthy coincidence given the show's character, Bobby Axelrod), this strategy is simple: cooperate, and only defect *after* your opponent has <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. If they return to cooperating, you do too <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>. This strategy mirrors basic human [[billions_television_show_and_its_portrayal_of_morality | morality]]: play nice unless wronged, then seek justice <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>. While "tit for tat" is highly effective, if both parties adhere to it, it can lead to a spiral of revenge, precisely what happens between Axe and Chuck <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>.
+
+Their dynamic can be illustrated with a payoff matrix:
+*   **Both Cooperate**: Both are relatively happy, but neither fully achieves their goals (e.g., 50 points each) <a class="yt-timestamp" data-t="00:11:54">[00:11:54]</a>.
+*   **Chuck Defects, Axe Cooperates**: Chuck wins, Axe loses significantly (e.g., Chuck 100, Axe -500) <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>.
+*   **Axe Defects, Chuck Cooperates**: Axe wins, Chuck loses significantly (e.g., Axe 100, Chuck -500) <a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>.
+*   **Both Defect**: Both get occasional satisfaction from revenge but are generally unhappy and suffer consequences (e.g., -100 points each) <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>.
+
+Chuck and Axe consistently choose to "defect" against each other, leading to a downward spiral: Wendy leaves Chuck after he spies on her, Axe's legal troubles contribute to Lara leaving him, and both face severe professional and personal consequences <a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a>.
+
+## Escaping the Game: The Ice Juice Scandal
+
+The only resolution to their conflict comes through the Ice Juice scandal, which forces an impasse <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>. Chuck orchestrates a situation where he leaks investment information to draw Axe into manipulating stock prices <a class="yt-timestamp" data-t="00:13:14">[00:13:14]</a>. Axe fakes a listeria outbreak to tank the stock, fulfilling Chuck's plan to incriminate Axe <a class="yt-timestamp" data-t="00:13:25">[00:13:25]</a>. However, Wendy, Chuck's wife, had shorted the Ice Juice stock, making it appear that she and Chuck benefited from the manipulation <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>. This entanglement means that if either pursues revenge, both will go to jail <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>. With Wendy's mediation, they reach a "cooperative conclusion" that, while not ideal, is far better than their protracted war, as it allows them to avoid jail time by giving up their egos <a class="yt-timestamp" data-t="00:13:52">[00:13:52]</a>.
+
+## The Corrosive Effect on Morality
+
+*Billions* illustrates the pitfalls of living life as a hyper-rational game <a class="yt-timestamp" data-t="00:14:06">[00:14:06]</a>. As Sacker’s father notes, principle doesn't vanish suddenly but through "a creeping erosion" <a class="yt-timestamp" data-t="00:14:17">[00:14:17]</a>. For those who view life as a series of strategic decisions to optimize outcomes, [[billions_television_show_and_its_portrayal_of_morality | morality]] can slowly decay <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>.
+
+Taylor, an intern who quickly becomes Axe's protégé, exemplifies this erosion <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>. Despite their acute understanding of [[game_theory_in_personal_and_professional_conflicts | game theory]] and initial empathy, Taylor eventually realizes their love of winning and empathy are incompatible <a class="yt-timestamp" data-t="00:14:49">[00:14:49]</a>. Once an Occupy Wall Street activist <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>, Taylor transforms into someone as cruel and manipulative as Axe <a class="yt-timestamp" data-t="00:15:32">[00:15:32]</a>. Taylor eventually betrays Axe because [[billions_television_show_and_its_portrayal_of_morality | loyalty]] no longer aligned with their long-term calculations <a class="yt-timestamp" data-t="00:15:51">[00:15:51]</a>.
+
+## Breaking the Game
+
+To escape "the game," one must "go meta" <a class="yt-timestamp" data-t="00:15:57">[00:15:57]</a>. Wendy Rhoades faces a "classic double bind" where any choice leads to disaster <a class="yt-timestamp" data-t="00:16:04">[00:16:04]</a>. Her solution, inspired by a Zen koan, is to "break that fucking stick" if the situation is untenable <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>. Wendy reframes the conflict not as a zero-sum game between two rivals but as a cooperative game where she acts as mediator <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>.
+
+*Billions* prompts viewers to consider whether [[game_theory_in_personal_and_professional_conflicts | game theory]] is merely a tool for personal gain or if caution is warranted regarding how games can fundamentally change individuals <a class="yt-timestamp" data-t="00:17:07">[00:17:07]</a>.

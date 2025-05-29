@@ -1,0 +1,41 @@
+---
+title: Critique of The Last Jedis approach to Star Wars tropes
+videoId: dLYUc5t6wag
+---
+
+From: [[wisecrackedu]] <br/> 
+
+*The Last Jedi* generated significant fan controversy due to its perceived departures from established *Star Wars* norms <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. Common criticisms include the portrayal of Luke Skywalker as a "green milk-chugging coward," Snoke's abrupt demise, plot issues like Holdo's plan and the Canto Bight section, Rey's parents being a "red herring," and the prevalence of "Marvel humor" <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. The film's approach has been characterized as an attempt by [[Rian Johnsons attempt to revolutionize the Star Wars franchise | Rian Johnson]] to revolutionize *Star Wars* that ultimately fell short <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+
+## Subverting the Old, Embracing the New
+
+[[Rian Johnsons attempt to revolutionize the Star Wars franchise | Rian Johnson]]'s *The Last Jedi* sought to break away from recycling elements of old *Star Wars*, aiming for progress within the franchise and its galaxy <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. This approach is overtly telegraphed through Kylo Ren's destruction of his mask, a symbolic rejection of Darth Vader's legacy, and Luke Skywalker's literal discarding of his lightsaber <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. The film suggests that for the new *Star Wars* to flourish, the old must perish, echoing Kylo Ren's sentiment to "Let the past die. Kill it if you have to" <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
+
+To achieve this, [[Rian Johnsons approach to Star Wars canon | Johnson]] "abrasively undermines" established tropes and traditions of previous films <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>:
+*   **Heroic Lineage:** Unlike Luke Skywalker, who was of "noble blood," Rey's parents are revealed to be "filthy junk traders" <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. Heroes are presented as "janitors and mechanics" instead of "politicians and princesses" <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+*   **Archetypal Heroes:** Luke Skywalker is no longer the "idealistic hero" but a "failed nephew murder/Slovenian philosopher" <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>. Yoda transforms from a symbol of "Jedi piety" to a "would-be book burner" <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
+*   **Jedi Order's Legacy:** The film critiques the Jedi Order, arguing that their legacy is one of "failure. Hypocrisy. Hubris," having allowed Darth Sidious to rise and Darth Vader to be created <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+
+The film posits that the previous films' events did not lead to true progress, as a nearly identical fascist order rose after the Empire's collapse <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. This cyclical re-emergence of evil is attributed to an "inadequate conception of good and evil" <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
+
+## Reimagining Morality and Archetypes
+
+*The Last Jedi* challenges the "stark divisions between good and evil" that form the foundation of *Star Wars* mythology <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. Drawing on Joseph Campbell's "the monomyth" and Carl Jung's concept of "archetypes," particularly the "shadow," the film attempts to redefine the relationship to the dark side <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
+
+*   **The Shadow Archetype:** While old *Star Wars* depicts the "shadow" (e.g., Darth Vader) as something to be conquered to avoid succumbing to fear <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>, *The Last Jedi* proposes an alternative <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>.
+*   **Balance of the Force:** Traditionally, balance was something achieved for the galaxy's good <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. However, *The Last Jedi* suggests the Force inherently promotes balance, with light rising to meet darkness <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>. This implies that a powerful Jedi order could be met by an equally powerful dark side, making the Jedi partly responsible for the cyclical rise and fall of fascist empires <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>. Luke's criticism of the Jedi Order hints at this, stating that "The force does not belong to the jedi. To say that if the jedi die, the light dies, is vanity" <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>.
+*   **Reconciling the Dark Side:** Inspired by Jungian analyst Robert A. Johnson, the film suggests the "dark side" should not be merely conquered, as repression causes an "ego split" and leads to scapegoating and perpetual conflict <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. *The Last Jedi* attempts to complicate the traditional good/bad distinction within characters and the plot <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>.
+*   **Moral Ambiguity:** The character DJ embodies this shift, exploring how even "good guys" can be involved with "darker elements" of the universe <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. He views "Good guys? Bad guys? Made up words," revealing that arms dealers supply both sides of the conflict <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. This presents the most morally ambiguous moment in any *Star Wars* film, challenging the perception of the Rebellion as infallibly good <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. The film becomes the first *Star Wars* installment to explicitly [[Critique of Superhero Tropes | critique]] the galaxy's military economy, exploitation, and animal rights violations <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>.
+
+## Backpedaling on Revolution
+
+Despite its efforts to "kill the past" and subvert *Star Wars* structures and moral lenses <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>, *The Last Jedi* ultimately backpedals on its radical proposals <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>:
+*   **Rey's Choice:** Rey rejects Kylo Ren's offer to "Let it all die" (Snoke, Skywalker, Sith, Jedi, Rebels) and join him, choosing to uphold the old dogmatism <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
+*   **Luke Skywalker's Legend:** After tearing down heroic archetypes, the film reaffirms the "legend of Luke Skywalker," inspiring the galaxy through a lie <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>.
+*   **Jedi Survival:** Despite the declaration "It's time for the Jedi to die," Luke later proclaims, "And I will not be the last Jedi," contradicting the earlier premise <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>.
+*   **Narrative Structure:** The film reverts to the established narrative structure of the original trilogy, including the trope of striking down a foe leading to greater power <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>.
+*   **Preserving the Past:** The Jedi books are saved, reaffirming the importance of the Jedi past <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
+
+This reversal is seen as perplexing, as the film establishes a psychologically sophisticated case for Rey to team up with Kylo Ren, given that "the old way doesn't work" and the galaxy is stuck in a "galactic game of Nazi Whack-a-Mole" <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>. Kylo Ren offers a "radical change" and appears closer to achieving a Jungian balance by acknowledging both his good and bad sides <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>. However, Rey ultimately represents the "old moral code of Star Wars," choosing to be a "morally-pure, infallible hero" and rejecting the reconciliation of ego and shadow <a class="yt-timestamp" data-t="00:14:25">[00:14:25]</a>.
+
+The critique concludes that spending significant time "abrasively subverting everything we love and know about Star Wars just to shrug and revert back to where we started" is problematic <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>.

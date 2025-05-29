@@ -1,0 +1,42 @@
+---
+title: Different theories of justice presented in Death Note
+videoId: 9Y5QZ77-WYw
+---
+
+From: [[wisecrackedu]] <br/> 
+
+The anime phenomenon, [[philosophy_of_justice_in_death_note | Death Note]], explores various philosophical topics, with justice being one of the most compelling: what it is and how it should be applied <a class="yt-timestamp" data-t="00:17:00">[00:17:00]</a>. Unlike much of pop culture that offers a straightforward concept of justice, [[philosophy_of_justice_in_death_note | Death Note]] uniquely demonstrates its meaning through constant challenges to its various definitions <a class="yt-timestamp" data-t="00:32:00">[00:32:00]</a>. The series functions as a modern Socratic Dialogue, using multiple participants to explore the universal question, "What is Justice?" <a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a>
+
+## Light Yagami's (Kira's) Brand of Justice
+
+Light Yagami, a model student, discovers the Death Note, a notebook that allows him to kill anyone by writing their name and picturing their face <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>. His goal is to use this power to create a world devoid of crime <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. He adopts the public persona of "Kira," aiming to become the God of this new world <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>.
+
+Light's approach to justice is characterized by an "ends-justify-the-means" philosophy <a class="yt-timestamp" data-t="02:18:00">[02:18:00]</a>. He believes that the end goal of eliminating crime justifies any action, including manipulating others and killing non-criminals who obstruct his path <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>. This perspective aligns with a quasi-utilitarian theory, where the greatest good for the greatest number of people (peace and happiness in a crime-free world) justifies his self-sacrifice and transformation into Kira <a class="yt-timestamp" data-t="09:27:00">[09:27:00]</a>.
+
+The show uses biblical imagery, such as references to "The Creation of Adam" and L washing Light's feet, to emphasize Kira's Old Testament-style justice, which involves punishing sinners and treating blasphemy as the ultimate sin <a class="yt-timestamp" data-t="10:13:00">[10:13:00]</a>. Kira's ideal vision of justice is a world without criminals, achieved by any necessary means <a class="yt-timestamp" data-t="10:41:00">[10:41:00]</a>.
+
+### The Ring of Gyges and Anonymity
+
+The concept of Light's dual personality and the influence of the Death Note are reminiscent of "[[comparative_analysis_of_death_note_and_greek_philosophy | The Ring of Gyges]]," an ancient Greek story from Plato's *Republic* <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>. This fable describes a ring that grants its wearer invisibility, leading them to act without moral constraint <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>.
+
+Glaucon, Plato's brother, uses this story to argue that justice is merely a social contract, and people value it only for its ability to maintain appearances <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>. He suggests that if the risk of damaging one's reputation is removed, interest in justice disappears, leading individuals to act selfishly <a class="yt-timestamp" data-t="05:28:00">[05:28:00]</a>. This directly relates to [[role_of_anonymity_in_shaping_justice_in_death_note | Kira's pseudonymity]] and the anonymity of his supporters, who grow online where they can remain hidden <a class="yt-timestamp" data-t="05:10:00">[05:10:00]</a>. The central question posed by [[philosophy_of_justice_in_death_note | Death Note]] in this context is: "What does Justice mean when nobody's looking?" <a class="yt-timestamp" data-t="06:22:00">[06:22:00]</a>
+
+Light's transformation from a morally conflicted student to a ruthless "Kira" after regaining his memories of the Death Note further illustrates this point <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>. Without the notebook, he displays a more conventional moral compass, even refusing to exploit Misa's feelings <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>. However, upon touching the Death Note again, his Kira persona returns, and treating people well is secondary to his "Justice with a capital J" <a class="yt-timestamp" data-t="03:40:00">[03:40:00]</a>.
+
+## L, M, and N's Reactive Justice
+
+Light's anonymous killings bring him into conflict with law enforcement and a mysterious detective named L, and later his successors M and N <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>. Unlike Kira's grand ideal of justice, L (and later M and N) primarily define justice as a reaction to injustice <a class="yt-timestamp" data-t="11:35:00">[11:35:00]</a>. L highlights the contradiction in Kira's reasoning: if a just world is without criminality, then Kira's criminal acts of killing are also an injustice <a class="yt-timestamp" data-t="10:52:00">[10:52:00]</a>. For L, catching Kira is itself an act of justice <a class="yt-timestamp" data-t="11:14:00">[11:14:00]</a>.
+
+This perspective aligns with philosopher Naomi Zack's "injustice theory," which prioritizes identifying injustices where they occur rather than relying on a preconceived ideal of a perfect just society <a class="yt-timestamp" data-t="11:35:00">[11:35:00]</a>. L, M, and N's hunt for Kira is driven by the recognition that Kira's "new world" is unjust, rather than a fixed definition of "justice" <a class="yt-timestamp" data-t="12:42:00">[12:42:00]</a>. Their pursuit is often portrayed as a "game of wits," where the win itself can symbolize a prevailing morality <a class="yt-timestamp" data-t="13:41:00">[13:41:00]</a>. L frequently acts as an inquisitor, similar to Socrates in *The Republic*, poking holes and raising questions to get closer to the truth <a class="yt-timestamp" data-t="14:02:00">[14:02:00]</a>.
+
+## Matsuda's Philosophical Inquiry
+
+Matsuda serves as both an audience surrogate and a philosophical foil to the other characters <a class="yt-timestamp" data-t="15:24:00">[15:24:00]</a>. He frequently raises sincere questions about the moral judgments of Light, Kira, L, and others <a class="yt-timestamp" data-t="14:08:00">[14:08:00]</a>. Early on, he points out the decrease in violent crime since Kira began killing, even while not condoning the murders <a class="yt-timestamp" data-t="14:21:00">[14:21:00]</a>. Later, he openly questions whether Kira is "completely evil" <a class="yt-timestamp" data-t="15:00:00">[15:00:00]</a>.
+
+Matsuda's self-doubt and willingness to question presented "facts" make him crucial in revealing the ignorance of those around him, much like a modern Socrates <a class="yt-timestamp" data-t="16:06:00">[16:06:00]</a>. By constantly forcing the viewers and other characters to consider their own opinions of justice, he helps organize the jumble of competing ideas into an intelligible conversation <a class="yt-timestamp" data-t="16:25:00">[16:25:00]</a>.
+
+## Conclusion: An Ambiguous Answer
+
+[[philosophy_of_justice_in_death_note | Death Note]] never provides a definitive answer to who best represented justice or whether Light's "New World" justified the means <a class="yt-timestamp" data-t="16:38:00">[16:38:00]</a>. The ambiguity makes the show poignant, as it continuously explores the question of what makes a just world without offering a clear answer <a class="yt-timestamp" data-t="16:47:00">[16:47:00]</a>.
+
+Light himself summarizes this ambiguity by stating, "If Kira gets caught then that makes him evil. But if he wins and rules the world then I guess he's justice" <a class="yt-timestamp" data-t="17:01:00">[17:01:00]</a>. Although Kira is defeated by the end, leaving N's brand of justice to prevail, the show suggests that the "war of competing moral codes" was more a logic game than a search for truth <a class="yt-timestamp" data-t="17:21:00">[17:21:00]</a>. [[philosophy_of_justice_in_death_note | Death Note]] opens more doors than it closes regarding the meaning and implications of justice <a class="yt-timestamp" data-t="17:44:00">[17:44:00]</a>. Its true connection to philosophical inquiry lies not in defining justice, but in its method of exploring it, distinguishing it as a show that *does* philosophy rather than just borrowing it <a class="yt-timestamp" data-t="18:06:00">[18:06:00]</a>.

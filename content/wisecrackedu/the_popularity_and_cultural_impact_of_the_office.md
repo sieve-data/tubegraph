@@ -1,0 +1,66 @@
+---
+title: The popularity and cultural impact of The Office
+videoId: _Lngf3J8vN4
+---
+
+From: [[wisecrackedu]] <br/> 
+
+*The Office* has maintained significant popularity, remaining the most streamed show on Netflix for over six years after its conclusion <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, although it is expected to move to NBC's own streaming platform <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. The show's enduring appeal is considered baffling by some, as few other shows are watched consistently for over a decade <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. Beyond its lovable characters and great jokes, *The Office* distinguishes itself by reflecting on the prevalence of "BS" or [[the_role_of_nonsense_in_professional_life_as_depicted_in_the_office | nonsense]] in professional lives and the economy <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+
+## Premise and Initial Appeal
+*The Office* is a mockumentary-style series following the Scranton, Pennsylvania branch of a struggling paper company, Dunder Mifflin <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. The branch is led by Michael Scott, whose antics frequently distract his employees from their work <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. After Steve Carell's departure, equally incompetent managers continue the tradition of distraction <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+
+On the surface, *The Office* depicts people dealing with unsatisfying jobs and uncomfortable bosses <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>. It also satirizes common office archetypes, such as the uptight accountant, the chatterbox, the attractive receptionist, the employee waiting for retirement, the unlovable HR representative, the lovable dunce, and the Cornell alumnus <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. The show also addresses anxieties about the changing American economy, specifically the effects of digitization, e-commerce, and consolidation of retailers in the 2000s, echoing the impact of factory closures on earlier generations <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
+
+## The "Bullshit Job" Theory
+The show's resonance is deeply tied to the concept of "bullshit jobs," a term and argument proposed by anthropologist David Graeber <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. Graeber defines a "bullshit job" as "a form of paid employment that is so completely pointless, unnecessary, or pernicious that even the employee cannot justify its existence even though as part of the conditions of employment the employee feels obliged to pretend that this is not the case" <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
+
+> [!NOTE] Distinction
+> Graeber distinguishes between a "bullshit job" and a job that merely "sucks" (e.g., getting paid minimum wage to clean toilets at Taco Bell), which is still necessary <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. While some real work happens at Dunder Mifflin (e.g., competent accountants Oscar and Angela, sales staff <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>), the show aligns with many of Graeber's criteria for a "bullshit job" <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+
+### Dunder Mifflin as a Case Study
+Life at Dunder Mifflin is characterized by useless meetings, making acronyms in an obsolete job, following random directives, and desperately trying to find meaning <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. Many employees are aware of the general pointlessness of their work <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>, as Dunder Mifflin struggles to compete with modern chains and management is unwilling to adapt <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>. The company could close at any moment, and clients would easily switch to larger, more cost-effective chains <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. Despite the threat of downsizing, much of the workday is dedicated to [[the_role_of_nonsense_in_professional_life_as_depicted_in_the_office | nonsense]] like meetings about streamer colors, "flonkerton," and office romance <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>.
+
+With few exceptions, employees dislike their jobs <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>:
+*   **Jim** fills his time with pranks on Dwight, often praised for being smart despite scheming most of the day <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. He even invents a way to move his desk an inch at a time to pass the day <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>.
+*   **Pam** spends work time planning her wedding and conspiring with Jim <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>, eventually inventing a job title ("office administrator") to avoid being fired <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>.
+*   **Kevin** is an accountant who struggles with basic math <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>, yet remains employed for years because firing him would be uncomfortable <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+*   **Dwight** thrives on bureaucracy, obsessing over rules and inventing pointless bureaucratic structures <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>.
+*   **Gabe** holds a "director" title but has no real power and cannot fire anyone <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+*   **Andy** spends months away from the office on a boat, and his absence goes unnoticed, with the office even excelling without him <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
+
+The show explicitly addresses Dunder Mifflin's parasitic nature on the economy when Michael explains his job to children <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>. He admits Dunder Mifflin sells pre-cut paper for more than they paid for it, leading children to correctly identify the business as superfluous and immoral <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>, similar to an Office Depot, which is pushing them out of business <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+
+Graeber notes that a free market should theoretically eliminate such waste <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>. While Dunder Mifflin faces market pressures, leading to layoffs, mergers, and sales <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>, the Scranton branch paradoxically succeeds despite rampant inefficiency, including incompetent managers, accountants, and an HR representative who is prevented from doing his job <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>.
+
+## Characters' Responses to Pointless Work
+Graeber argues that pointless jobs are incredibly harmful to the psyche, leading to depression, anxiety, and guilt, even for well-paid private sector employees <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>. People derive pleasure from "being the cause," having an effect on the world, which pointless jobs deny <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>. Dostoevsky theorized that the worst torture would be forcing someone to endlessly perform an obviously pointless task <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>.
+
+Many Dunder Mifflin employees are thwarted from "being the cause" <a class="yt-timestamp" data-t="00:12:10">[00:12:10]</a>:
+*   **Jim** openly states he would "throw myself in front of a train" if paper became his career <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>. He finds agency and pleasure in "being the cause" of Dwight's suffering through pranks <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>.
+*   **Pam** copes with distraction and eventually finds solace in love and family, admitting that being a receptionist was not her dream <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>.
+*   **Stanley** endures his job with the hope of retirement and the simple pleasure of "pretzel day" <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>.
+*   **Oscar** eventually runs for state senate, a role where he could theoretically effect change <a class="yt-timestamp" data-t="00:13:22">[00:13:22]</a>.
+*   **Kevin** finds happiness and competence running a bar after leaving Dunder Mifflin <a class="yt-timestamp" data-t="00:13:29">[00:13:29]</a>.
+
+**Michael** denies the superfluous nature of his job by convincing himself of its paramount importance <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>. His extreme dislike for Toby seems to stem from Toby infringing on Michael's ability to "be the cause" in his own office <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a>. Michael's non-stop narcissism and demands for attention, explained by a lonesome childhood, lead him to seek love and respect by framing his job in grandiose terms <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>. He emulates what he deems important, invoking [[corporate_influence_and_consumer_culture | corporate]] slogans like Nike's "Just Do It," directing films, dispensing wisdom, and likening himself to other [[celebrity_culture_and_media_critique | celebrities]] <a class="yt-timestamp" data-t="00:14:36">[00:14:36]</a>. The mockumentary style further emphasizes Michael's posturing for the cameras to appear as an admired leader <a class="yt-timestamp" data-t="00:15:02">[00:15:02]</a>.
+
+**Dwight**, conversely, embraces bureaucracy and clings to pomp and circumstance <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>. Despite having a successful beet farm, he fixates on bureaucratic titles and the appearance of authority, reveling in absurd office politics <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>. His ultimate goal appears to be becoming a "petty dictator" with ultimate say in his life <a class="yt-timestamp" data-t="00:15:53">[00:15:53]</a>.
+
+## Societal Resonance and Broader Implications
+The prevalence of "bullshit jobs" contributes significantly to *The Office*'s success <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>. In 2013, the year *The Office* ended its run, a Harvard Business Review survey found that half of 12,000 professionals felt their job lacked meaning, and another poll indicated that 37% of British workers believed their jobs were utterly useless <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>.
+
+Graeber posits that these jobs persist because their existence seems antithetical to capitalism, which is expected to optimize away waste <a class="yt-timestamp" data-t="00:16:28">[00:16:28]</a>. He suggests that, similar to the Soviet Union inventing jobs for full employment, market economies have inadvertently done something similar <a class="yt-timestamp" data-t="00:16:42">[00:16:42]</a>.
+
+Another reason for the spread of "bullshit jobs," according to Graeber, is the rise of the service economy <a class="yt-timestamp" data-t="00:16:50">[00:16:50]</a>. While traditional service roles remained steady, the "rest of the service economy"—administrators, consultants, clerical and accounting staff, IT professionals—boomed <a class="yt-timestamp" data-t="00:17:04">[00:17:04]</a>. While not all these jobs are "bullshit," the sector is fertile ground for their proliferation <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>.
+
+Graeber categorizes "bullshit jobs" into several types <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>:
+*   **Flunkies:** Employees who exist solely to justify a manager's position or inflate their prestige <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>.
+*   **Goons:** Those who exist only because other companies have similar roles (e.g., legal or marketing departments) <a class="yt-timestamp" data-t="00:17:27">[00:17:27]</a>.
+*   **Duct Tapers:** Employees who clean up the mess of inefficient systems <a class="yt-timestamp" data-t="00:17:32">[00:17:32]</a>.
+*   **Box Takers:** Those who exist to verify work that isn't actually being done <a class="yt-timestamp" data-t="00:17:42">[00:17:42]</a>.
+*   **Taskmasters:** Individuals who create "bullshit" work for other "bullshit" employees <a class="yt-timestamp" data-t="00:17:49">[00:17:49]</a>.
+
+Dunder Mifflin, a company that doesn't actually manufacture paper, fits squarely within this service economy, justifying its higher prices through customer service <a class="yt-timestamp" data-t="00:17:53">[00:17:53]</a>. Michael's stated goal of hiring and inspiring people isn't necessarily for business growth, but because his personal need for love is met by creating a pseudo-family at the office <a class="yt-timestamp" data-t="00:18:03">[00:18:03]</a>.
+
+*The Office* offers an escapist fantasy where people don't get fired for working minimally <a class="yt-timestamp" data-t="00:18:22">[00:18:22]</a>. By the finale, characters have endured the "bullshit" by finding love or simply leaving <a class="yt-timestamp" data-t="00:18:35">[00:18:35]</a>, suggesting that coping mechanisms or finding happiness in one's domestic life might be the best one can hope for <a class="yt-timestamp" data-t="00:18:42">[00:18:42]</a>.

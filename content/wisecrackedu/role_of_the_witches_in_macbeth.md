@@ -1,34 +1,38 @@
 ---
-title: Role of the Witches in Macbeth
+title: Role of the witches in Macbeth
 videoId: T-PKotyoxys
 ---
 
 From: [[wisecrackedu]] <br/> 
 
-In William Shakespeare's *Macbeth*, three witches play a pivotal role in setting the course of the play's tragic events by delivering prophecies that fuel [[macbeths_ambition_and_downfall | Macbeth's ambition]] and seal his fate <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
+The three witches play a pivotal role in the tragic downfall of [[summary_of_macbeth | Macbeth]] by initiating a chain of events through their prophetic declarations <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
 
 ## Initial Prophecies
 
-After returning from battle, [[macbeths_ambition_and_downfall | Macbeth]] and Banquo encounter three witches who provide them with significant prophecies <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>:
-*   The witches foretell that [[macbeths_ambition_and_downfall | Macbeth]] will become king <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
-*   They also predict that Banquo's descendants will eventually become kings <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+After [[summary_of_macbeth | Macbeth]] and Banquo defeat their enemies, they encounter three witches who deliver potent prophecies <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>, <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+They foretell that [[summary_of_macbeth | Macbeth]] will one day become king <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. Additionally, they prophesy that while Banquo will not be king, his descendants will occupy the throne <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. These predictions immediately excite [[summary_of_macbeth | Macbeth]] <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
 
-These initial prophecies excite [[macbeths_ambition_and_downfall | Macbeth]] <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a> and contribute to [[macbeths_ambition_and_downfall | his decision]] to murder King Duncan to seize the crown <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. The prophecy concerning Banquo's lineage later causes [[macbeths_ambition_and_downfall | Macbeth]] to plot Banquo's assassination <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>.
+## Influence on Macbeth's Actions
 
-## Further Prophecies
+The witches' prophecies directly influence [[summary_of_macbeth | Macbeth]]'s actions. Driven by the vision of kingship and spurred on by [[character_analysis_of_macbeth_and_lady_macbeth | Lady Macbeth]], he murders King Duncan <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, eventually taking the crown <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. Later, remembering the witches' prophecy about Banquo's lineage, [[summary_of_macbeth | Macbeth]] becomes paranoid and arranges for Banquo's murder, though Banquo's son Fleance escapes <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>, <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>, <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
 
-Later in the play, [[macbeths_ambition_and_downfall | Macbeth]] seeks out the three witches again for more insights into his future <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>. They deliver a new set of prophecies:
-*   An armored head warns him to beware Macduff <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>.
-*   A bloody child states that no one "born of a woman" can harm him <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>.
-*   A crowned child holding a tree proclaims that [[macbeths_ambition_and_downfall | Macbeth]] will remain safe until Great Birnam Wood comes to his castle <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>.
+## Second Set of Prophecies
 
-These ambiguous prophecies give [[macbeths_ambition_and_downfall | Macbeth]] a false sense of security, leading him to commit further atrocities, such as ordering the slaughter of Macduff's family <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>. However, these prophecies eventually contribute to [[macbeths_ambition_and_downfall | his downfall]] when Birnam Wood appears to move as Malcolm's army uses tree branches as camouflage <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>, and Macduff, who was "from his mother's womb / Untimely ripped" (i.e., born by C-section), ultimately confronts and beheads [[macbeths_ambition_and_downfall | Macbeth]] <a class="yt-timestamp" data-t="02:24:00">[02:24:00]</a>.
+Later in the play, [[summary_of_macbeth | Macbeth]] seeks out the three witches again for more insights <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. They deliver a new set of ominous prophecies:
+*   An armored head warns him to beware of Macduff <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+*   A bloody child tells him that no one "born of a woman" can harm him <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+*   A crowned child holding a tree assures him that he is safe until Great Birnam Wood comes to his castle <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
 
-## Interpretations of their Influence
+Believing himself invincible due to these predictions, [[summary_of_macbeth | Macbeth]] becomes even more ruthless, ordering the killing of Macduff's entire family when he learns Macduff has fled to England <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
 
-The witches' role is central to the tragedy. They can be seen as:
-*   **Catalysts for Ambition** The witches are directly blamed for "feedin his ambition and givin him a big ol head" <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>. Their words ignite the spark of ambition within [[macbeths_ambition_and_downfall | Macbeth]], pushing him towards regicide.
-*   **Agents of Fate** Some interpretations suggest that the witches are not merely instigators but rather agents of fate, "slingin him around like a puppet" <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a>. If [[macbeths_ambition_and_downfall | Macbeth]] has "no choice" in his actions due to destiny, then his suffering could be seen as predetermined <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a>.
-*   **Reflectors of Society** The witches' prophecies, combined with the prevailing societal values that rewarded power gained through violence ("you ain’t got a pair unless you grab all the power you can, no matter who you gotta kill for it") <a class="yt-timestamp" data-t="03:08:00">[03:08:00]</a>, contribute to [[macbeths_ambition_and_downfall | Macbeth's downfall]] <a class="yt-timestamp" data-t="03:04:00">[03:04:00]</a>.
+## Fulfillment of Prophecies
 
-The witches' prophecies, whether seen as causes or symptoms of [[macbeths_ambition_and_downfall | Macbeth's character]], ultimately lead to [[macbeths_ambition_and_downfall | his tragic end]] and the restoration of order in Scotland <a class="yt-timestamp" data-t="02:33:00">[02:33:00]</a>.
+The witches' prophecies ultimately come to fruition, leading to [[summary_of_macbeth | Macbeth]]'s downfall:
+*   When Malcolm's army approaches the castle, [[summary_of_macbeth | Macbeth]] initially dismisses the threat until he realizes the soldiers are using shields made from the wood of Birnam <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>, <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
+*   On the battlefield, [[summary_of_macbeth | Macbeth]] confronts Macduff, confident that no one born of a woman can harm him <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>, <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. However, Macduff reveals he was born via C-section, effectively not "born of a woman" in the traditional sense, and subsequently beheads [[summary_of_macbeth | Macbeth]] <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>, <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+
+## Role in Macbeth's Fate
+
+The witches are seen as significant contributors to [[summary_of_macbeth | Macbeth]]'s "boot-leg [[fate_and_free_will_in_macbeth | fate]]" <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. They "feed his [[themes_of_ambition_and_power_in_macbeth | ambition]] and giv[e] him a big ol head," putting "more pressure on him than he can handle" <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>, <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+
+Some interpretations suggest that [[summary_of_macbeth | Macbeth]] is not entirely to blame for his actions, as [[fate_and_free_will_in_macbeth | fate]] may have been "slingin him around like a puppet, making him act like a serious fool" <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>, <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. If [[summary_of_macbeth | Macbeth]] truly had no choice, then his actions, influenced by the witches and [[fate_and_free_will_in_macbeth | fate]], become "straight meaningless" <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>, <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.

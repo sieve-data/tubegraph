@@ -5,12 +5,13 @@ videoId: l_c2hqmFBdM
 
 From: [[wisecrackedu]] <br/> 
 
-[[rick_and_morty_episode_analysis | Rick and Morty]] is praised for its mastery of story structure by showrunners Dan Harmon and Justin Roiland <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. This article explores the storytelling principles applied in the show, particularly through the lens of Dan Harmon's "story embryo" and its adaptation for television <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+Wisecrack expresses a strong affinity for *[[rick_and_morty_season_3_finale_breakdown | Rick & Morty]]* <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. Beyond its philosophical themes, a significant element contributing to the show's greatness is the mastery of story structure by showrunners Dan Harmon and Justin Roiland <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
 
 ## Dan Harmon's Story Embryo
 
-Dan Harmon posits that every story, regardless of its scale, adheres to eight fundamental steps <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. This structure, which Harmon terms "the story embryo," unfolds as follows <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>:
+Dan Harmon posits that every story, from the Odyssey to a simple fart joke, adheres to an 8-step structure he terms "the story embryo" <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
 
+The 8 steps are:
 1.  A character is in a zone of comfort <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
 2.  But they want something <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
 3.  They enter an unfamiliar situation <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
@@ -20,47 +21,100 @@ Dan Harmon posits that every story, regardless of its scale, adheres to eight fu
 7.  Then return to their familiar situation <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
 8.  Having changed <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
 
-## Story Structure in Television
+## Television Story Structure
 
-While the story embryo is a universal template, its application can vary based on genre and medium, especially for television <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. Unlike movies, which aim for a conclusive high, television's primary goal is to maintain viewer engagement indefinitely, often by preserving the status quo <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. Harmon notes that television shows are less about meaningful internal change and more about preserving the existing state <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
+The "story embryo" can vary based on genre and medium, particularly for television <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. While a movie aims to provide a 90-minute high, television seeks to retain viewers indefinitely <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. Harmon suggests this is to induce a "vegetative state" in the viewer's brain for commercials <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. Consequently, television shows prioritize preserving the status quo rather than driving significant [[character_development_in_rick_and_morty | change]] <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. For example, Batman in *The Dark Knight Rises* saves Gotham and moves on, while in *Batman: The Animated Series*, each episode begins and ends with Batman fighting a different villain in the same Gotham <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
 
-The structure of a typical TV episode often looks like this <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>:
+Harmon states that television "swaps out any meaningful and therefore potentially television-subverting truth with the basic, eternal 'truth' that change is unnecessary" <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
 
-1.  "I (the protagonist)" <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>
-2.  "Notice a small problem" <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>
-3.  "And make a major decision" <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>
-4.  "This changes things" <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>
-5.  "To some satisfaction, but" <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>
-6.  "There are consequences" <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>
-7.  "That must be undone" <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>
-8.  "And I must admit the futility of change" <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>
+The adapted 8-step structure for a typical TV episode often looks like this:
+1.  "I (the protagonist) <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>
+2.  Notice a small problem <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
+3.  And make a major decision <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+4.  This changes things <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>
+5.  To some satisfaction, but <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>
+6.  There are consequences <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>
+7.  That must be undone <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>
+8.  And I must admit the futility of change" <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
 
-## Application in [[rick_and_morty_episode_analysis | Rick and Morty]]
+Justin Roiland and Dan Harmon adhere strictly to this format in *Rick & Morty* <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>.
 
-[[rick_and_morty_episode_analysis | Rick and Morty]] consistently follows this adapted television format <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. A prime example is [[rick_and_morty_season_3_episode_6_breakdown | Season 2, Episode 6: "The Ricks Must Be Crazy"]] <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+### "The Ricks Must Be Crazy" (Season 2, Episode 6) Application
 
-### Step 1: Establish a Protagonist in a Zone of Comfort
-The episode quickly establishes the protagonists, Summer, Rick, and Morty, coming out of a movie <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. This opening efficiently introduces the characters and their world within 20 seconds <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
+This 8-step TV structure can be observed in *[[rick_and_mortys_approach_to_scifi_and_science | Rick and Morty]]* Season 2, Episode 6, "The Ricks Must Be Crazy" <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
 
-### Step 2: Introduce a Small Problem and Establish a Need
-Life isn't perfect, and for the Sanchez family, this is evident when Rick's ship refuses to start <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. Rick identifies the central problem: the Microverse Battery is dead, requiring them to go inside to fix it <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. Morty's reluctance ("Um, go inside what?") is a narrative device that helps the audience identify with him and become more invested <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
+#### Step 1: Establish Protagonist in Comfort Zone
+Harmon advises immediately fading onto characters doing something relatable <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. The episode opens with Summer, [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Rick]], and [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Morty]] exiting the movie "Ball Fondlers" <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. Within 20 seconds, the episode establishes the protagonists and their world <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
 
-### Step 3: The Protagonist Makes a Major Decision and Enters an Unfamiliar Situation
-This step marks the descent into the unknown <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>. Rick and Morty literally shrink down to enter a world within Rick's car battery, posing as aliens <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>. The contrast between their comfort zone and this new, completely foreign world—populated by Martian-like people who venerate Rick for giving them electricity via "Gooble Boxes"—is significant <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>. Unbeknownst to them, the Gooble Boxes redirect most of their generated power to Rick's ship <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+#### Step 2: Introduce Small Problem and Establish Need
+This step reveals that life isn't perfect for the protagonist <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. For the Sanchez family, it's when Rick's ship fails to start due to a problem with the Microverse Battery, necessitating they "go inside" <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. Morty's reluctance ("Um, go inside what?") is a narrative trick to help the audience identify with him and become more invested <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
 
-### Step 4: Characters Adapt to the New Situation and Things Must Change
-This stage focuses on external change rather than internal [[character_development_in_rick_and_morty | character development]], aligning with television's goal of preserving the status quo <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. Upon entering the Microverse, Rick and Morty identify the immediate problem: Zeep Xanflorp <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. Zeep, a carbon copy of Rick, has created his own Microverse, rendering Rick's Gooble Boxes obsolete and making his car battery unusable <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>. Rick, despite the clear hypocrisy, shamelessly parrots Morty's earlier objections to him <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>. The new conflict introduced is Rick's need to find a scientist in Zeep's Microverse who is also working on their own Microverse, which would threaten Zeep's system <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+#### Step 3: Protagonist Makes Major Decision and Enters Unfamiliar Situation
+This marks the literal and figurative descent into the unknown <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. Rick and Morty leave their comfort zone for a dangerous, uncertain situation, physically shrinking to enter a world inside Rick's car battery, posing as aliens <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. Harmon emphasizes the importance of a noticeable contrast between the two worlds, which this episode achieves by introducing a completely foreign world populated by Martian-like people who venerate Rick for giving them electricity <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>. Unbeknownst to them, their "Gooble Boxes" (Stair Master-like devices) redirect most of their power to Rick's ship, and Rick has manipulated their civilization <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
 
-### Step 5: The Character Gets What They Wanted
-This is the story's major turning point <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>. Rick achieves his goal by finding Kyle, a scientist within Zeep's Microverse who is creating his own <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. This leads to an "Inception-like moment" of a Microverse within a Microverse within another Microverse <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. Rick observes as Zeep repeats the "slavery with extra steps" rant to Kyle, a comedic callback <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>. However, Zeep soon realizes his own universe is a Microverse brought into being by Rick, leading to an existential rage and a physical fight between Rick and Zeep <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. Simultaneously, Kyle suffers an existential collapse <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>.
+#### Step 4: Characters Adapt to New Situation and Things Must Change
+This step focuses on characters learning their place in the new world, but in TV, it's more about external than internal [[character_development_in_rick_and_morty | change]] to preserve the status quo <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>.# Rick and Morty Story Structure
 
-### Step 6: Paying a Heavy Price and Suffering the Consequences
-Rick's triumph is short-lived <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. While he gets his desired Microverse, demonstrating Zeep's hypocrisy causes Kyle's suicidal meltdown, trapping them all in the Tinyverse <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>. Rick and Zeep, unable to overcome their egos, blame each other and declare war instead of cooperating to escape <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>. Observing their futile conflict, Morty decides to live with the Tree People <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>.
+Wisecrack expresses a strong affinity for *[[rick_and_morty_season_3_finale_breakdown | Rick & Morty]]* <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. Beyond its philosophical themes, a significant element contributing to the show's greatness is the mastery of story structure by showrunners Dan Harmon and Justin Roiland <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
 
-### Step 7: Undoing the Damage and Returning the Familiar World
-Morty, with his primitive tribe, forces Rick and Zeep to forge an alliance and engineer an escape from Kyle's Tinyverse <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>. Once outside, Zeep attempts to trap Rick in the surrounding Microverse to protect his own, acting as a "shadow" figure to Rick <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. [[character_development_and_anticharacter_development_in_rick_and_morty | Zeep is a dark reflection of Rick's undesirable traits and neuroses]] <a class="yt-timestamp" data-t="00:11:40">[00:11:40]</a>. The fight between Rick and Zeep at the episode's conclusion highlights [[inversion_of_common_cliches_and_tropes_in_rick_and_morty | Rick's lack of desire to change]], effectively being "Rick fighting Rick" <a class="yt-timestamp" data-t="00:12:10">[00:12:10]</a>.
+## Dan Harmon's Story Embryo
 
-### Step 8: Change or the Futility of It
-For television, this step emphasizes the futility of change, as the hero cannot be fulfilled to ensure future adventures <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>. Rick and Morty return to their "Ball Fondlers" reality <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>. Rick reveals that Zeep had to choose between returning to Gooble Box technology or having Rick discard a broken battery, ultimately opting for the former <a class="yt-timestamp" data-t="00:13:27">[00:13:27]</a>. The episode concludes with Rick, Morty, and Summer getting ice cream, with Morty and Summer shell-shocked by the return to normalcy after their ordeal <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>.
+Dan Harmon posits that every story, from the Odyssey to a simple fart joke, adheres to an 8-step structure he terms "the story embryo" <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
 
-[[rick_and_morty_episode_analysis | Rick and Morty]] masterfully employs this circular structure to make its audience "confront the depressing, crippling futility of change" <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>. Rick successfully re-enslaves a planet for his car battery, all for a seemingly trivial reward like ice cream, reinforcing the show's underlying message about the lack of lasting transformation <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>.
+The 8 steps are:
+1.  A character is in a zone of comfort <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+2.  But they want something <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+3.  They enter an unfamiliar situation <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+4.  Adapt to it <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
+5.  Get what they wanted <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
+6.  Pay a heavy price for it <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
+7.  Then return to their familiar situation <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+8.  Having changed <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
+
+## Television Story Structure
+
+The "story embryo" can vary based on genre and medium, particularly for television <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. While a movie aims to provide a 90-minute high, television seeks to retain viewers indefinitely <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. Harmon suggests this is to induce a "vegetative state" in the viewer's brain for commercials <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. Consequently, television shows prioritize preserving the status quo rather than driving significant [[character_development_in_rick_and_morty | change]] <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. For example, Batman in *The Dark Knight Rises* saves Gotham and moves on, while in *Batman: The Animated Series*, each episode begins and ends with Batman fighting a different villain in the same Gotham <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+
+Harmon states that television "swaps out any meaningful and therefore potentially television-subverting truth with the basic, eternal 'truth' that change is unnecessary" <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
+
+The adapted 8-step structure for a typical TV episode often looks like this:
+1.  "I (the protagonist) <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>
+2.  Notice a small problem <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
+3.  And make a major decision <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+4.  This changes things <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>
+5.  To some satisfaction, but <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>
+6.  There are consequences <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>
+7.  That must be undone <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>
+8.  And I must admit the futility of change" <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+
+Justin Roiland and Dan Harmon adhere strictly to this format in *Rick & Morty* <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>.
+
+### "The Ricks Must Be Crazy" (Season 2, Episode 6) Application
+
+This 8-step TV structure can be observed in *[[rick_and_mortys_approach_to_scifi_and_science | Rick and Morty]]* Season 2, Episode 6, "The Ricks Must Be Crazy" <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
+
+#### Step 1: Establish Protagonist in Comfort Zone
+Harmon advises immediately fading onto characters doing something relatable <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. The episode opens with Summer, [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Rick]], and [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Morty]] exiting the movie "Ball Fondlers" <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. Within 20 seconds, the episode establishes the protagonists and their world <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
+
+#### Step 2: Introduce Small Problem and Establish Need
+This step reveals that life isn't perfect for the protagonist <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. For the Sanchez family, it's when Rick's ship fails to start due to a problem with the Microverse Battery, necessitating they "go inside" <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Morty]]'s reluctance ("Um, go inside what?") is a narrative trick to help the audience identify with him and become more invested <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
+
+#### Step 3: Protagonist Makes Major Decision and Enters Unfamiliar Situation
+This marks the literal and figurative descent into the unknown <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Rick]] and [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Morty]] leave their comfort zone for a dangerous, uncertain situation, physically shrinking to enter a world inside Rick's car battery, posing as aliens <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. Harmon emphasizes the importance of a noticeable contrast between the two worlds, which this episode achieves by introducing a completely foreign world populated by Martian-like people who venerate Rick for giving them electricity <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>. Unbeknownst to them, their "Gooble Boxes" (Stair Master-like devices) redirect most of their power to Rick's ship, and Rick has manipulated their civilization <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+
+#### Step 4: Characters Adapt to New Situation and Things Must Change
+This step focuses on characters learning their place in the new world, but in TV, it's more about external than internal [[character_development_in_rick_and_morty | change]] to preserve the status quo <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>. Upon entering the Microverse, [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Rick]] and [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Morty]] identify the problem: Zeep Xanflorp <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. Zeep is a "carbon copy" of Rick who has created his own Microverse, rendering Rick's Gooble Boxes obsolete <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>. Despite facing a mirror image of himself, [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Rick]] shamelessly parrots the same objections [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Morty]] made earlier about the Gooble Boxes ("That just sounds like slavery with extra steps!") <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>. When [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Morty]] calls out Rick's hypocrisy, Rick seizes it as a chance to stop Zeep, introducing a new conflict: Rick must find a scientist in Zeep's Microverse who is also creating their own Microverse <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
+
+#### Step 5: The Character Gets What They Wanted
+This step is at the bottom of the circular diagram, where the hero has hit rock-bottom but found what they were looking for, initiating a shift in motivations <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>. [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Rick]] reaches this point when he finds Kyle, a scientist in Zeep's Microverse creating his own Microverse, leading to an *Inception*-like journey into a Microverse within a Microverse within another Microverse <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. Rick smugly watches as Zeep repeats the "slavery with extra steps" rant to Kyle, but then Zeep realizes his own universe is a Microverse created by Rick, leading to an [[rick_and_morty_and_existentialism | existential]] rage and a fight between Zeep and Rick <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. Meanwhile, Kyle has an [[rick_and_morty_and_existentialism | existential]] meltdown from the realization <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>.
+
+#### Step 6: Paying a Hefty Price and Suffering the Consequences
+Symmetrical to Step 2, this step prepares the hero for their return by testing their will against the world <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>. [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Rick]] gets his desired Microverse, but his actions cause Kyle's [[rick_and_morty_and_existentialism | existential]] self-destruction, trapping them all in the Tinyverse <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>. Rick and Zeep's egos prevent them from cooperating, leading to an all-out war between them instead of an escape <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>. [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Morty]], realizing the futility, goes to live with Tree People <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>.
+
+#### Step 7: Undoing the Damage and Returning to the Familiar World
+This step is the final stage before resurfacing from the unfamiliar situation, often involving denizens of the "lower world" giving chase <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>. [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Morty]] uses his control over the Tree People to force [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Rick]] and Zeep to set aside their egos and engineer an escape from Kyle's Tinyverse <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>. Once outside, Zeep attempts to trap Rick to protect his own Microverse, acting as a "shadow" figure – a dark reflection of Rick's undesirable traits and a final obstacle <a class="yt-timestamp" data-t="00:11:23">[00:11:23]</a>. *[[inversion_of_common_cliches_and_tropes_in_rick_and_morty | Rick & Morty]]*'s uniqueness lies in Rick's self-awareness and lack of desire to fix his shortcomings; the episode's parallels between Rick and Zeep make them equally flawed <a class="yt-timestamp" data-t="00:12:10">[00:12:10]</a>. The final confrontation isn't Rick battling his demons for [[character_development_in_rick_and_morty | change]], but "just Rick fighting Rick" <a class="yt-timestamp" data-t="00:12:36">[00:12:36]</a>. With Zeep handled, Rick and Morty finally exit the Microverse back into their "Ball Fondlers" reality <a class="yt-timestamp" data-t="00:12:49">[00:12:49]</a>.
+
+#### Step 8: Change or the Futility of It
+Normally, this step signifies the hero's fulfillment and integration of new skills <a class="yt-timestamp" data-t="00:12:55">[00:12:55]</a>. However, for TV, the hero can never be truly fulfilled to ensure future adventures <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>. Upon their return, Rick's ship starts, and he explains that Zeep had to choose between reverting to Gooble Box technology or having a broken battery <a class="yt-timestamp" data-t="00:13:23">[00:13:23]</a>. The episode concludes with Rick, Morty, and Summer calmly eating ice cream, with Morty and Summer shell-shocked by the normalcy after their ordeal, fully embracing the futility of [[character_development_in_rick_and_morty | change]] <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>.
+
+*[[rick_and_mortys_approach_to_scifi_and_science | Rick & Morty]]* is both familiar and radically different from other television <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>. While it engages in [[satire_and_social_commentary_in_rick_and_morty | satire]] and subverts audience expectations, its core structure mirrors other TV shows <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>. The show uniquely uses this circular structure to confront the "depressing, crippling futility of [[character_development_in_rick_and_morty | change]]" <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>, exemplified by Rick re-enslaving an entire planet just for ice cream <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>. Despite [[character_analysis_of_rick_and_jerry_from_rick_and_morty | Rick Sanchez]]'s beliefs, the creative team clearly trusts in the power of story structure <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>.
