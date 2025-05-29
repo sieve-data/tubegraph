@@ -3,45 +3,42 @@ title: Survival challenge in a grocery store
 videoId: tnTPaLOaHz8
 ---
 
-From: [[@mrbeast]] <br/> 
-Here is the updated article with backlinks:
+From: [[mrbeast]] <br/> 
 
-In a recent video by Jimmy Donaldson, better known as [[mrbeast_challenge_concepts | MrBeast]], an intriguing survival challenge was set up within the confines of a grocery store. This unique experiment tested not only survival skills but also strategic planning and perseverance. The challenge revolved around a contestant, Alex, who was given the opportunity to [[earning_money_through_a_unique_competition | earn substantial money]] by staying inside the store under specific conditions. Here, we delve into the intricacies of the challenge and the strategies Alex employed.
+A unique [[survival_challenge_for_money | survival challenge for money]] involved an individual, Alex, being trapped inside an entire grocery store purchased by the host [00:00:00]. The store contained enough food to feed an entire city [00:00:03]. For every day Alex lived inside the grocery store, he would receive $10,000 [00:00:10]. The challenge had the potential to make Alex a multimillionaire if he stayed for years [00:00:18].
 
-## The Concept
+## Challenge Rules and Setup
+The primary rule of the challenge was that Alex could not cross a red line painted around the entire perimeter of the grocery store [00:00:31]. Crossing this line would immediately end the [[game_mechanics_and_challenges_in_survival_scenarios | challenge]], and he would walk away with his current winnings [00:00:36]. Countless cameras covered every square inch of the store to ensure compliance [00:00:41].
 
-At the heart of this challenge was a simple proposition: for every day Alex remained inside the grocery store, he would receive $10,000. However, there was a catch. To earn the money, Alex had to sell $10,000 worth of products back to Jimmy every day. This meant Alex had to be strategic about what products he chose to [[utilizing_store_products_strategically | sell to maximize his time within the challenge]]. Importantly, all the items sold were donated to charity, ensuring nothing went to waste <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+## Daily Life and Initial Twist
+Alex quickly established a "home base" in a corner of the grocery store [00:00:48]. On day one, he received his first $10,000 [00:00:58]. However, a twist was introduced: to receive the daily $10,000, Alex needed to provide $10,000 worth of product from the store in return [00:01:11]. This required him to strategize what items to get rid of to stay as long as possible [00:01:16].
 
-## The Set-Up
+Initially, Alex focused on non-essential, expensive items like electronics [00:01:23]. All items Alex sold for payment were donated to charity [00:02:37].
 
-Upon entering the grocery store, a red line delineated Alex's boundary. Crossing it would signify the end of the challenge, and he would leave with his current earnings <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. To maintain the integrity of the challenge, numerous cameras were installed to capture every angle and ensure Alex remained within the boundaries <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+## Adaptations and Innovations
+As days progressed, Alex became efficient at selecting items, selling produce on day five and diapers on day six, along with $30,000 worth of products between days seven and nine [00:02:42]. He discovered the backroom of the store [00:02:57] and, after 10 days without showering, built his own makeshift shower and laundry system [00:02:59].
 
-## Survival Tactics and Strategies
+By day 13, Alex upgraded his shower using shelves for reinforcement and plastic liner for waterproofing [00:04:48]. He also constructed walls for his shelter using all the water bottles in the store [00:05:35] and created a comfortable bed from toilet paper [00:05:41].
 
-### Resource Management
+The host helped Alex acquire a forklift from the back of the store, significantly increasing his efficiency in moving and selling items [00:06:13]. This allowed him to upgrade his bed further [00:07:07].
 
-During the initial days, Alex wisely chose to part with high-value, non-essential items such as electronics, focusing on optimizing his inventory to sustain his tenure. The strategy evolved as he tackled perishable goods and bulky items, like pet food, produce, and diapers <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>, <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
+## External Events and Motivation
+During the challenge, the host traveled to film other videos, including one where he stranded himself on an [[survival_challenges_on_a_deserted_island | island]] [00:04:03] and another where he built 100 wells in Africa [00:12:01]. During these times, a "Money Man" or other crew members would deliver Alex's daily earnings [00:04:11].
 
-### Ingenious Adaptations
+Around day 30, Alex received a surprise visit from his wife and two sons [00:09:07]. This emotional reunion made him realize the toll the challenge was taking on his family life [00:10:07]. He initially aimed for $1 million [00:07:17] but adjusted his goal to $500,000 to avoid missing his sons' birthdays [00:07:37].
 
-Faced with mundane challenges of daily life, Alex [[adapting_living_conditions_for_a_prolonged_stay | innovated his living area using store items]]. He constructed a makeshift shower using shelves and plastic liners, turning his corner into a home <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>. Later, he used water bottles to build walls for his personal space, also constructing a bed from toilet paper <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.
+## Increasing Difficulties
+A significant [[challenges_of_extreme_survival_scenarios | challenge]] arose when the electricity bill for the grocery store was intentionally left unpaid, leading to a complete power outage [00:08:55]. This meant freezers, lights, and most other systems ceased to function, except for cameras and cash registers which were on a generator [00:10:49]. This forced Alex to prioritize selling perishable frozen foods quickly [00:11:01].
 
-## Psychological and Physical Challenges
+The lack of power and constant darkness greatly affected Alex's morale [00:12:21]. He found an old lantern to provide some light [00:14:18], and the crew later brought in lights for filming [00:14:47].
 
-As days turned into weeks, Alex faced increasing isolation within the grocery store. This setup could be referred to as an [[isolation_experiment_dynamics | isolation experiment]], causing the routine to weigh on him despite the financial incentive. The absence of his family became a source of emotional strain, prompting introspection about the value of time versus money <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+The host's crew, in a prank, used the forklift to demolish shelves, creating a large mess for Alex to clean [00:15:04]. Alex then found and set up a swimming pool in the newly cleared space [00:15:19].
 
-### External Factors
+## Climax and Conclusion
+Alex's mental state deteriorated due to loneliness and boredom [00:16:17]. During a routine operation, he accidentally crashed the forklift, bursting the pool and soaking his accumulated money and products [00:16:20]. This incident served as a breaking point, making him desire to leave [00:16:58].
 
-Midway through the challenge, MrBeast introduced a new layer of difficulty by cutting electricity, effectively disabling lights and refrigeration, thus forcing Alex to expedite the sale of perishable goods <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>. This development required quick adaptation to ensure food items were processed in time.
+On day 44, Alex noted the loneliness and difficulty of the challenge, especially with the power out [00:18:16]. On day 45, a robot delivered his daily money, further emphasizing his isolation [00:18:40].
 
-## The Conclusion
+With $450,000 earned, Alex's wife returned to help him make the final decision [00:20:10]. After weighing his options, Alex decided to end the [[challenge_to_survive_in_a_circle_for_cash_prize | challenge]] [00:20:45]. He stepped across the red line, officially completing his 45-day [[survival_challenges | survival challenge]] in the grocery store with $450,000 [00:21:10].
 
-After 45 days, Alex decided the experience and the partial prize money were sufficient, particularly given the growing desire to reunite with his family for upcoming birthdays <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>. This decision was a poignant reminder of the emotional journey one faces when [[family_responsibilities_vs_financial_gain | balancing opportunity costs in personal challenges like these]].
-
-Ultimately, Alex emerged from the challenge with $450,000, having navigated both the mental and logistical hurdles presented by this [[survival_challenge_in_a_confined_space | extraordinary test of endurance]] <a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a>.
-
-> [!info] The Charitable Impact
-> 
-> Every product sold by Alex was donated to local charities, amplifying the challenge's positive impact and ensuring that none of the store's inventory went to waste.
-
-This grocery store survival challenge not only underscored [[creative_problemsolving_and_resource_management_in_extreme_conditions | resourcefulness]] but also provided a profound look at personal endurance and the price of perseverance under unconventional circumstances.
+The grocery store challenge was supported by Albertsons, who helped fill the shelves [00:21:20], and Shopify, who helped pay for the store [00:11:13].

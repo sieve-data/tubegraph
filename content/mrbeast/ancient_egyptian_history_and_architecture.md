@@ -1,0 +1,37 @@
+---
+title: Ancient Egyptian History and Architecture
+videoId: NDsO1LT_0lw
+---
+
+From: [[mrbeast]] <br/> 
+
+[[Exploration of the Pyramids | The Great Pyramids of Egypt]] are ancient structures that offer unrestricted access for exploration, including areas normally illegal to enter due to danger <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. These pyramids date back approximately 4,500 to 4,600 years <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+While some [[Myths and Theories About the Pyramids | theories attribute their construction to a pre-Egyptian civilization or even aliens]] due to their technological advancement <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>, Egyptologists are certain they were built by the first Egyptians <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a> as tombs for their kings <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. Experts adamantly reject the alien theory, highlighting the existence of 124 pyramids across Egypt and asserting that Egyptians were the builders <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>. This claim is further supported by archaeological findings <a class="yt-timestamp" data-t="00:21:07">[00:21:07]</a>.
+
+## Exploration of Key Pyramids
+
+### The Great Pyramid of Khufu (Giza)
+The passageway within this pyramid is believed by Egyptologists to lead to [[Ancient Pharaohs and Their Tombs | King Khufu's tomb]], the pharaoh thought to have ordered the pyramids' construction <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. Inside, visitors encounter the Grand Gallery <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>, followed by the King's Chamber, considered the king's final resting spot and the location where his mummified body may have once been <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>. Despite this belief, some theories suggest an unfound chamber within the pyramid might contain the king's body <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+
+Exploration of Khufu's pyramid extended from hundreds of feet below to its highest point <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>, a feat achieved by less than 50 people in modern history <a class="yt-timestamp" data-t="00:16:13">[00:16:13]</a>. The lowest point, over 300 feet deep, revealed a massive, empty decoy chamber, prompting questions about the authenticity of the "real" chamber and the potential for Khufu's body to still be hidden elsewhere <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>. The ascent to the highest point passes through chambers three, four, and five <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a>. At the highest point, graffiti depicting a "team" or "gang of Khufu" dating back 4,600 years was found, providing significant evidence that [[Ancient Egyptians built these pyramids as tombs for their pharaohs | ancient Egyptians were indeed the builders]] <a class="yt-timestamp" data-t="00:20:42">[00:20:42]</a>.
+
+### The Pyramid of Khafre
+This pyramid serves as a key example for understanding how the casing of each pyramid once looked <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. Explorers ventured nearly 100 feet below its surface, a place rarely visited in the modern world <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. The primary burial chamber, thought to have held King Khafre's body <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>, includes graffiti by Giovanni Battista Belzoni, who claimed its discovery in 1818 <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. Visitors are warned of a potential curse if they disrespect the tomb <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
+
+### The Pyramid of Menkaure
+Remnants of granite from 4,600 years ago are still visible at the base of this pyramid <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. Historically, permission has been granted to illegally climb this pyramid's exterior <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>. The descent leads to the first chamber in ancient Egyptian history to feature decorative carvings, dating back 4,600 years <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. Further down, an antechamber and a final descending shaft lead to the burial chamber, which boasts a vaulted ceiling designed to relieve weight, showcasing advanced architectural knowledge for its time <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. Adjacent to Menkaure's pyramid are three smaller pyramids, identified as the tombs of his three queens <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>.
+
+## Other Significant Sites and Discoveries
+
+### The Sphinx
+The Sphinx, a massive sculpture with a half-human, half-lion form <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>, has been the subject of internet conspiracy theories regarding a buried temple filled with gold beneath it <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>. While the Sphinx has an internal entrance <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>, investigations confirm there is no hidden gold within it <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>.
+
+### Tomb of Osiris (Underworld Portal)
+Deep beneath the pyramids lies the Tomb of Osiris, the god of the underworld <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>. This location, accessible via a deep ladder and treacherous conditions with thin air <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>, is a place where very few humans have ever been <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. A 3,000-year-old human skull was found within the tomb <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. At the center of the room is the sarcophagus of Osiris, which is allegedly the portal to the underworld <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
+
+### Tomb of Iymery (High Priest)
+This tomb, normally illegal to enter, belonged to Iymery, the high priest (equivalent to a Pope) of his time <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>. The tomb is notable for its incredibly well-preserved, vibrant colors and drawings, which have survived for 4,600 years <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>. These drawings depict the daily life of ancient Egyptians, including the process of winemaking <a class="yt-timestamp" data-t="00:13:22">[00:13:22]</a> and various offerings made to the high priest <a class="yt-timestamp" data-t="00:13:45">[00:13:45]</a>.
+
+### The Workman's Tomb
+The Workman's Tomb contains the [[Egyptian Burial Sites and Practices | burial sites of the pyramid builders]] themselves <a class="yt-timestamp" data-t="00:14:51">[00:14:51]</a>. These tombs, dating back over 4,600 years, lack the elaborate paintings found in other tombs, indicating the builders' lower socioeconomic status <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a>. Skeletal remains found here exhibit stress on the backs of both men and women, directly attributed to moving two-ton blocks, providing concrete evidence that ancient Egyptians, not aliens, built the pyramids through manual labor <a class="yt-timestamp" data-t="00:15:23">[00:15:23]</a>.

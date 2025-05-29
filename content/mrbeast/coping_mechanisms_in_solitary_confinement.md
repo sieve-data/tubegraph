@@ -1,0 +1,43 @@
+---
+title: Coping Mechanisms in Solitary Confinement
+videoId: K_CbgLpvH9E
+---
+
+From: [[mrbeast]] <br/> 
+
+Spending time in [[challenges_of_isolation_and_confinement | solitary confinement]], particularly in an environment with zero human contact and zero stimulation, can be psychologically dangerous and lead to permanent psychological damage, including psychosis <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>, <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>, <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. For an individual attempting to survive seven days in such a setting, the brain, deprived of external information, begins to generate its own "craziness," including hallucinations and paranoia <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>, <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+
+To combat the [[psychological_effects_of_longterm_confinement | challenges of isolation and confinement]], the individual resorted to various [[strategies_for_coping_with_isolation | coping mechanisms]]:
+
+## Cognitive Distraction & Sensory Stimulation
+With no external stimulation, the individual attempted to occupy his mind by focusing on simple tasks:
+*   **Counting Tiles** Early in the challenge, the participant counted the tiles on the walls, determining there were 1900 on the walls and 2860 including the roof and floor <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>, <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>, <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+*   **Playing with Objects** A simple metal plate became a source of entertainment, described as being "as fun as an iPhone" due to the extreme lack of stimuli <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>, <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>, <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. He also used a McDonald's wrapper and a cup to play basketball, and then an indestructible plate for throwing <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>, <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>, <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
+*   **Counting Food Items** During a meal, he counted 447 grains of rice on his tray <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>, <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>.
+*   **Attempting Physical Feats** The participant tried to do a handstand, wishing he had learned the basics before entering <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>, <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. He also attempted to throw a camera through the conveyor belt opening, treating it like bowling <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>, <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>.
+
+## Attempts to Regain Sense of Time
+One of the major [[impact_of_solitary_confinement_on_perception_of_time | psychological effects of isolation]] was the loss of his sense of time <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>, <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>, <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>, <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>. This led to other issues like insomnia <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>. To try and determine the time, he used several methods:
+*   **Sleep Cycles** He estimated the time by the number of times he slept <a class="yt-timestamp" data-t="00:12:39">[00:12:39]</a>, <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>.
+*   **Bodily Functions** He used bowel movements as a marker for days passed <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>, <a class="yt-timestamp" data-t="00:12:44">[00:12:44]</a>.
+*   **Hair Growth** He observed the growth of hair on his neck, which usually takes about a week, as an indicator <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>, <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>.
+
+## Escapism and Mental Visualization
+As the [[psychological_effects_of_isolation | psychological effects of isolation]] worsened, the participant resorted to internal coping mechanisms:
+*   **Imagining Scenarios** He began to invent concepts and scenarios in his mind, such as envisioning himself walking in a park with green grass and birds <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>, <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.
+*   **Sleeping** He found that sleeping helped pass the time and brought temporary happiness through dreams of the outside world, making him prefer sleep to being awake and miserable <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>, <a class="yt-timestamp" data-t="00:15:40">[00:15:40]</a>, <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>. To facilitate sleep, he even slept in the bathroom where the lights were not as bright <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>, <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
+*   **Repetitive Physical Movement** To maintain sanity, he resorted to walking in circles, even attempting 1,000 laps around the room <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>, <a class="yt-timestamp" data-t="00:13:18">[00:13:18]</a>, <a class="yt-timestamp" data-t="00:13:20">[00:13:20]</a>.
+
+## Dealing with Dehumanization
+The experience was described as "very dehumanizing" <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a> and led to feelings of losing all rights as a human, reaching "literal rock bottom" mentally <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>, <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>.
+*   **Requesting Release** The participant directly asked his team not to let him out early, no matter how much he begged, screamed, or pleaded, showing an attempt to resist primal urges for freedom <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. This suggests a prior awareness of the [[solitary_confinement_challenges | challenges of solitary confinement]].
+*   **Cleaning** As the confinement neared its end, the participant cleaned the room, acknowledging it was an excuse born of boredom <a class="yt-timestamp" data-t="00:17:07">[00:17:07]</a>, <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>.
+
+## Psychological Deterioration and Loss of Function
+Despite attempts to cope, the [[effects_of_solitary_confinement_on_mental_health | effects of solitary confinement]] led to significant mental deterioration:
+*   **Boredom and Anxiety** The participant experienced severe boredom <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>, <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a> and anxiety, particularly a "severe FOMO" (fear of missing out) on events in the outside world <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
+*   **Paranoia** By day two, the participant exhibited signs of paranoia <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>, which worsened as he felt constantly watched by cameras <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>, <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>.
+*   **Memory and Cognitive Decline** He started forgetting common words, like the name of a "roll" <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>, <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>, and noted his "mind is slowly deforming into stupidity" <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+*   **Emotional Instability** He experienced waves of depression after meals <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>, became tearful <a class="yt-timestamp" data-t="00:11:54">[00:11:54]</a>, and was described as "napping on the floor, throwing things, having tantrums, getting happy when he gets snacks," behaving "like a child" <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>, <a class="yt-timestamp" data-t="00:16:33">[00:16:33]</a>. He expressed feelings of being "sad" and wanting to leave <a class="yt-timestamp" data-t="00:18:35">[00:18:35]</a>, <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>, <a class="yt-timestamp" data-t="00:18:44">[00:18:44]</a>.
+*   **Physical Manifestations** He developed a "ginormous headache" from the constant bright lights <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>, and felt "lightheaded" upon exiting the room <a class="yt-timestamp" data-t="00:19:44">[00:19:44]</a>.
+*   **Social Disconnect** Upon release, he noted he "kind of forgot how to interact with humans" <a class="yt-timestamp" data-t="00:19:47">[00:19:47]</a>.

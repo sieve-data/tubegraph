@@ -1,0 +1,37 @@
+---
+title: Physical and mental effects of prolonged immobility
+videoId: 7dYTw-jAYkY
+---
+
+From: [[mrbeast]] <br/> 
+
+The experience of being buried alive for seven days highlighted significant [[mental_and_physical_strain_in_extreme_conditions|mental and physical strain]] associated with prolonged immobility and isolation <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This challenge, considered "most people's worst fear," was severely underestimated in its difficulty <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>, <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
+
+## Initial Fears and Underestimation
+The individual described the experience as the "scariest thing I have ever done" <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>, feeling terrified by the prospect of 20,000 pounds of dirt above <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. There was an immediate feeling of discomfort upon being trapped <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a> and a realization that the challenge was "extremely dangerous" <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. Initial fears included the coffin breaking <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a> and suffocating <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+
+## Physical Challenges
+Prolonged immobility led to several physical ailments:
+*   **Numbness and Weakness** A foot went numb early in the challenge <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. After seven days, legs were weak <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>, and there was a "rush of blood to my head" upon standing <a class="yt-timestamp" data-t="00:18:05">[00:18:05]</a>.
+*   **Blood Clots** A significant concern was the risk of blood clots from lying down for seven straight days <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>, <a class="yt-timestamp" data-t="00:16:14">[00:16:14]</a>. The individual moved daily to avoid this <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>, but the possibility of dying from blood clots upon standing remained a serious worry until the end <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>, <a class="yt-timestamp" data-t="00:17:49">[00:17:49]</a>.
+*   **Back Pain** Concerns about severe back pain were expressed as a potential reason to quit the challenge <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>, <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+*   **Hygiene and Discomfort** The lack of proper bathroom facilities led to discomfort <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a> and disgusting situations, such as accidentally getting urine on shorts <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a>. The individual also noted smelling bad <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>.
+*   **External Physical Threats**
+    *   **Weight of Dirt:** The 20,000 pounds of dirt caused the coffin roof to shake during burial <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. Rain increased concerns about the dirt's weight <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>, <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+    *   **Vibrations:** Loud music and antics from friends caused the coffin to shake, leading to head pain from vibrations <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>, <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>, <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>.
+
+## Mental and Emotional Challenges
+The [[psychological_effects_of_longterm_confinement|psychological effects of longterm confinement]] were pronounced:
+*   **Boredom and Lack of Stimulation** The participant became "desperate for entertainment" <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>, even punching the coffin walls until knuckles hurt, then putting a sock on their hand to continue <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>, <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+*   **Sleep Difficulties** While sleep was initially seen as key to not thinking about being trapped <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>, achieving it became difficult later, with the individual feeling tired but unable to sleep <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>.
+*   **Emotional Distress**
+    *   **Crying Spells:** The individual experienced multiple episodes of unexplained crying <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>, <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>, <a class="yt-timestamp" data-t="00:15:58">[00:15:58]</a>, <a class="yt-timestamp" data-t="00:17:27">[00:17:27]</a>.
+    *   **Depression and Low Motivation:** By day five, the individual admitted trying to act like they weren't depressed <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>. They felt "mental agony" <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>, had "no motivation to do anything" <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>, and "zero desire to speak" <a class="yt-timestamp" data-t="00:14:05">[00:14:05]</a>.
+    *   **Irritation and Sense of Being Watched:** Constant camera surveillance became irritating, leading to a "weird feeling someone's always staring at me" <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>, <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>.
+    *   **Desire to Escape:** The challenge became a "nightmare" <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a>, with a strong desire to "get out of here" <a class="yt-timestamp" data-t="00:14:08">[00:14:08]</a>. The individual stated, "I don't think humans are meant to lay down for five days straight" <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
+*   **Impact of External Interactions** While friends tried to cheer him up <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>, their pranks, like drawing on his face <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a> and playing loud music <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>, contributed to his misery <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a> and irritation <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>. The constant awareness of people feasting and grilling above <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a> while he ate MREs <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a> also added to the hardship.
+
+By the final days, the individual was "going downhill quickly" <a class="yt-timestamp" data-t="00:13:42">[00:13:42]</a>, transitioning from being "terrified" to a "sad boy" <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>. The thought of seeing sunlight and getting out became the sole focus <a class="yt-timestamp" data-t="00:16:05">[00:16:05]</a>.
+
+## Conclusion
+Upon release, the individual described the experience of seeing the sun after seven days as indescribable <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>. Despite the intense physical and mental strain, the participant was able to stand <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>, marking the successful completion of the challenge.

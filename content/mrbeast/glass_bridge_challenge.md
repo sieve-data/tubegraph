@@ -1,33 +1,24 @@
 ---
 title: Glass Bridge challenge
-videoId: 0e3GPea1Tyg
+videoId: LnlKwzc_TNA
 ---
 
-From: [[@mrbeast]] <br/> 
-## The Glass Bridge Challenge in Mr. Beast's Real-Life Squid Game
+From: [[mrbeast]] <br/> 
 
-The Glass Bridge challenge was one of the most anticipated stages in Mr. Beast's recreation of Squid Game in real life. This challenge tested the nerves and strategy of the participants as they attempted to cross a precarious path to secure a spot in the final round. Here’s a detailed look at how it unfolded.
+The Glass Bridge is a returning challenge where participants must cross a bridge made of platforms, guessing which ones are safe to step on <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. The objective is to make it to the other side <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
 
-### Overview of the Glass Bridge Set
+## Rules and Objective
+The challenge involves guessing a platform, either left or right <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. If a participant picks the wrong platform, they fall <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. There are 15 platforms in total to cross <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. The prize for successfully reaching the other side is 456 grand <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
 
-The Glass Bridge game is one of the most iconic parts of the original *Squid Game* series, and Mr. Beast's rendition didn't disappoint. The set was elaborate, with two platforms and several panels between them, some of which would break under pressure, while others were stable. Contestants were required to cross this bridge without knowing which panels were safe, a faithful recreation of the high stakes seen in the series. The design was both impressive and intimidating, amplifying the tension among participants.
+## Participants and Attempts
 
-> [!info] Construction Marvel
-> 
-> The bridge set was described as "insane" by the host himself, underscoring the effort put into replicating this thrilling part of the original series <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>.
+### First Attempt (456)
+A participant identified as "456" (also referred to as John) from a previous "Squid Game" challenge was brought back for the Glass Bridge <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a> <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. The host initially gave a hint for the first step, advising to pick "right" <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. Recognizing the extremely low probability of success, the host then provided the entire sequence of correct platforms: "right, then it's left, left, left, right, right, left, left, left, right, left, right, right, right left" <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a> <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
 
-### Contestants’ Strategy and Gameplay
+Despite receiving the answers, John failed to remember the sequence and chose "left" on the second platform, which was incorrect as it should have been "three lefts in a row" <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a> <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
 
-The contestants were assigned numbers which determined the order in which they would cross the bridge. In a strategic twist, these numbers were initially assigned randomly, and participants had to quickly decide the most favorable order to attempt the crossing. 
+### Second Attempt (067)
+Another participant, identified as "067," also from the "Squid Game" challenge, was brought in for a second attempt <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. The correct first answer was "right" <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. The host again recited the full sequence of correct platforms: "Right, left, left, left, right, right, left, left, left, right, left, right, right, right left" <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a> <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. When asked if the sequence could be repeated, the host declined <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. The participant made a mistake and fell early in the challenge <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a> <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
 
-Once the challenge began, it became apparent that strategy and bravery would dictate success. The first contestant showed significant courage by successfully navigating the first jump <a class="yt-timestamp" data-t="00:16:58">[00:16:58]</a>, setting a tone of cautious optimism for the other players. As the jumps progressed, some contestants hesitated, waiting for others to test paths first. This strategy of letting earlier numbers take more risks was popular, but also came with the risk of time running out.
-
-### Key Highlights and Turning Points
-
-High emotions marked the challenge, with some contestants showing reluctance to move due to the fear of an uncertain landing. A notable moment was when contestant number three, after a streak of successful guesses, decided to risk another jump but unfortunately was eliminated <a class="yt-timestamp" data-t="00:18:19">[00:18:19]</a>. This highlighted the unpredictability and danger of the challenge, reinforcing the idea that even a lucky streak could abruptly end.
-
-As time ran low, tension mounted. With only a few minutes left and several jumps to go, the pressure intensified, forcing players to make hasty decisions. This culminated in a dramatic rush as the timer neared zero <a class="yt-timestamp" data-t="00:20:31">[00:20:31]</a>, pushing participants to move more swiftly to complete the crossing.
-
-### Conclusion
-
-The Glass Bridge challenge was a critical element in Mr. Beast's *Squid Game* adaptation because it encapsulated both the physical and psychological stresses of the game. Those who managed to cross successfully secured a place in the final round, while the others faced elimination. The careful balance of strategy, bravery, and timing made it a standout part of the competition, and a faithful homage to the original show's suspenseful nature. In particular, it highlighted the [[psychology_and_group_dynamics_in_competitions | psychology and group dynamics]] faced by the contestants, as well as their skills in [[decision_making_under_pressure | decision making under pressure]].
+### Third Attempt (Chris)
+Chris, who had heard the correct sequences given to the previous two participants, was then asked to attempt the bridge <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a> <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. Despite hearing the answers twice, Chris struggled with memory and eventually fell after making a wrong choice <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a> <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.

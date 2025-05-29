@@ -1,0 +1,45 @@
+---
+title: Challenges and survival strategies
+videoId: tWYsfOSY9vY
+---
+
+From: [[mrbeast]] <br/> 
+
+The primary goal of this [[survival challenges | survival challenge]] was for participants to spend seven days in an abandoned city, which was once a beautiful place bombed and abandoned due to war <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>, <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. The participants were dropped off and stranded with their only way out leaving <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
+
+## Initial Challenges
+
+Upon arrival, the immediate [[challenges of extreme survival scenarios | challenges of extreme survival scenarios]] included:
+*   **Finding shelter** The first objective was to explore the city and find a safe place to call home for seven days <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>, <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. A potential shelter was found on a high floor of a building with a roof to protect from rain and a view of the city <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>, <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+*   **Setting up camp** After finding a location, the next step was to open a supply crate left by the helicopter <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>, <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. This crate contained all the [[survival tactics | survival gear]] needed <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+*   **Sleeping arrangements** Initial sleeping arrangements were difficult. One participant found a sketchy mattress <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>, while others slept on wooden doors <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. Discomfort was immediate, with one participant's back already hurting <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+*   **Exposure to elements** The first shelter proved to be too windy for comfortable sleep <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>, <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>, and it was expected to be freezing at night <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
+
+## Developing [[survival strategies and making a routine | Survival Strategies]]
+
+### Relocating and Fortifying Shelter
+Due to the windy conditions of the first camp, participants sought a new shelter <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>, <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. After exploring the massive city <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>, <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>, they found a more fortified location <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. This new location was designed to be warmer and less windy, with plans for a fire pit and tarps for insulation <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>, <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>.
+
+### Resource Management
+Initially, participants had their supplies delivered via helicopter <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>, <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. However, relocating camp meant they couldn't bring all resources before sundown <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>, <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. They were left with limited supplies: one water bag, cans of chili, and a couple of old mattresses <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>, <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+
+A critical challenge arose on day four when they ran low on water <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>, <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. An attempt to retrieve more water from the initial drop-off point resulted in half their remaining water being lost due to a broken rope <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>, <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>, <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. To ensure survival for the remaining days, two participants (Kris and Chandler) volunteered to leave the city, leaving the others with just enough resources <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>, <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>, <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>, <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>.
+
+### Improving Living Conditions
+With fewer people, the remaining participants focused on renovating their shelter. This included:
+*   **Windproofing and heating:** Putting up tarps and building a fireplace to heat the room <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>, <a class="yt-timestamp" data-t="00:11:34">[00:11:34]</a>. They even devised a "redneck engineering" fireplace system to vent smoke while keeping heat in <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>, <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>. This greatly improved the temperature inside the shelter, making it at least ten degrees warmer <a class="yt-timestamp" data-t="00:16:06">[00:16:06]</a>, <a class="yt-timestamp" data-t="00:16:08">[00:16:08]</a>.
+*   **Furnishing:** Finding shelves, tables, a carpet, chairs, and even a "fake TV" (an iPad in a TV frame) to make the space feel more like a home <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>, <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>, <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>, <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>, <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>, <a class="yt-timestamp" data-t="00:14:29">[00:14:29]</a>.
+*   **Organizing supplies:** Using the new shelf to store food, separating "chili row" from "non-chili row" and a "Feastables row" <a class="yt-timestamp" data-t="00:13:25">[00:13:25]</a>, <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>.
+
+## [[Psychological and physical challenges | Psychological Challenges]]
+
+*   **Fear of the unknown:** From the first night, participants heard sounds of breaking glass, leading them to question if they were truly alone <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>, <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>, <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. This fear was heightened when a mysterious person was spotted via drone <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>, <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. Exploring potentially dangerous areas, like a dark hotel, increased anxiety about possible attacks <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>, <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>.
+*   **Loneliness:** After two participants left, the remaining two felt lonely, marking their first day without friends <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>, <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>.
+*   **Pranks and trust:** The mysterious breaking glass sounds were later revealed to be a prank by one of the participants, using a remote-controlled device <a class="yt-timestamp" data-t="00:15:19">[00:15:19]</a>, <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>.
+
+## [[Motivational strategies to endure challenges | Strategies to Endure and Maintain Morale]]
+
+*   **Positive outlook:** Despite challenges, participants maintained a positive attitude, trying to "make the best of the situation" <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>, <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>. They aimed to go from "surviving" to "thriving" <a class="yt-timestamp" data-t="00:13:33">[00:13:33]</a>.
+*   **Maintaining hygiene:** Using a Cirkul water bottle to make the "trash" tasting water palatable <a class="yt-timestamp" data-t="00:12:41">[00:12:41]</a>, <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>, <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
+*   **Play and recreation:** On their last full day, participants engaged in recreational activities like kayaking in a pool, playing baseball and soccer, skipping rocks, and screaming across the city <a class="yt-timestamp" data-t="00:16:12">[00:16:12]</a>, <a class="yt-timestamp" data-t="00:16:20">[00:16:20]</a>, <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>, <a class="yt-timestamp" data-t="00:16:27">[00:16:27]</a>, <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>. These activities helped take their minds off the loneliness <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>, <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>.
+*   **Shared meals:** Having a final feast with all participants before two left <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>, <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>.

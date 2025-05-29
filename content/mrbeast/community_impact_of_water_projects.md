@@ -1,0 +1,34 @@
+---
+title: Community impact of water projects
+videoId: mwKJfNYwvm8
+---
+
+From: [[mrbeast]] <br/> 
+
+The project aimed to construct 100 wells across Africa, with the goal of providing approximately half a million people with fresh drinking water <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. This initiative directly addresses the critical need for [[improving_access_to_clean_water | clean water]] in various communities.
+
+## Addressing Critical Needs
+Many villages in Africa, such as a small village in Kenya, previously lacked access to safe drinking water <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. Students in places like Nairiri were forced to obtain water from an extremely unsafe river, leading to health issues such as diarrhea and typhoid infections <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>, <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. These [[challenges_faced_by_villages_without_clean_water | challenges faced by villages without clean water]] often limit children's lives and can even cut them short due to unsafe water consumption <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+
+## Water Project Solutions
+The primary solution involves [[building_wells_in_africa | building wells in Africa]] that dig hundreds of feet into the ground, bypassing polluted sources to reach enormous aquifers of pure, drinkable water <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. After extraction, the water is fed into large barrels that become part of water towers, providing not only clean drinking water but also a pressurized water source to neighboring villages <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. This eliminates the need for activities like doing laundry in unsafe water <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
+
+One well, for example, can supply 3600 gallons of water per day, sufficient for 400 school children and the entire surrounding neighborhood and village <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. These wells are designed to pump non-stop for up to 30 years <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>. Solar-powered wells are also implemented, capable of pumping 5,000 liters every hour without electricity, providing unlimited water for entire farming villages, even during dry seasons <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>.
+
+## Broader Community Development and [[supporting_education_and_infrastructure_in_african_communities | Infrastructure]]
+Beyond water, the initiative also focuses on [[supporting_education_and_infrastructure_in_african_communities | supporting education and infrastructure in African communities]]. In Nairiri, a school received new computers, furniture, shelves filled with books, soccer balls for every student, and modern whiteboards and projectors <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>, <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>, <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>, <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. This update improved the learning environment by eliminating chalk dust <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
+
+### Overcoming Geographic Barriers
+One community faced the perilous task of hiking a treacherous, mile-long mountain path through the jungle multiple times a day to fetch water, which was still unsafe <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>, <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. Filled jugs could weigh up to 40 pounds, an insane burden for children to carry <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. The new well in this village is located only ten feet from the school, significantly reducing the burden and time spent on water collection <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
+
+Another village was divided by a dangerous river, which could sweep away people, students, and animals during the rainy season, having caused the loss of three lives recently <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>, <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>. A new bridge was constructed to provide safe passage, ensuring families can stay connected and access essential services like hospitals and schools <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>, <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>.
+
+### Healthcare and Transportation
+A hospital in Zimbabwe, delivering around 600 babies annually, also desperately needed clean water <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>, <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. Pregnant mothers had to walk over a mile to fetch and carry heavy buckets of water <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>. A new modern well was constructed for them, bringing immediate access to clean water <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>, <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
+
+To address transportation challenges, many students in one village received new bicycles <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>.
+
+## Long-term [[impact_on_subscribers_and_community | Impact on Communities]]
+The projects span multiple countries including Kenya, Zimbabwe, Uganda, Somalia, and Cameroon <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>, <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>, <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. Providing clean water supports farms, helps feed the hungry, ensures clean conditions for hospitals, and, most importantly, helps the next generation of children live long, healthy lives, thus building the future for these communities <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>. This work highlights the [[importance_of_community_and_giving_back | importance of community and giving back]] through [[charitable_initiatives_for_global_health | charitable initiatives for global health]].
+
+The creators emphasize that such significant impact does not require government-level funding, asserting that solving this problem is possible if humanity collectively puts in the effort <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. They urge viewers to donate to beastphilanthropy.org/wells, stating that 100% of the money raised goes towards building more wells globally, as they do not profit from the video <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>. The initiative aims to continue changing lives in communities where wells are built <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>.

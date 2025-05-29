@@ -1,0 +1,28 @@
+---
+title: Emotional effects of longterm challenges
+videoId: tnTPaLOaHz8
+---
+
+From: [[mrbeast]] <br/> 
+
+Long-term challenges, particularly those involving isolation and repetitive tasks, can significantly impact an individual's emotional and psychological well-being. The experience of Alex, a participant in a challenge to live indefinitely inside a grocery store for $10,000 a day, provides insights into these effects.
+
+## Initial Optimism and Strategic Thinking
+
+Initially, Alex expressed immense excitement and optimism about the challenge, believing he could stay for "years" and potentially become a multimillionaire <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. His early days were marked by strategic planning, as he quickly adapted to the twist of having to sell $10,000 worth of store products daily <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. This focus on practical tasks and earning money initially overshadowed any potential [[the_psychological_and_emotional_challenges_of_isolation | challenges of isolation]]. He even built a makeshift shower and laundry system, demonstrating his commitment to adapting to the environment <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. After ten days, he confidently predicted he could last "100 days for sure" <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+
+## Coping with Isolation and Shifting Goals
+
+As the days progressed, Alex developed [[strategies_to_sustain_morale_during_challenges | strategies to sustain morale]], including building a "cheeseball wall" for entertainment <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a> and upgrading his living space <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. However, the emotional toll of [[psychological_effects_of_longterm_confinement | long-term confinement]] began to surface, particularly his missing his family. He acknowledged that while a million dollars was "nice in theory," he was "still missing out time with my boys" <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a> and had "never missed a birthday yet" <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>. This personal [[emotional_aspects_of_competition | emotional aspect]] led him to revise his financial goal down to $500,000 <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>, indicating a shift in [[motivational_strategies_to_endure_challenges | motivation]] from pure financial gain to rejoining his family.
+
+## Impact of Adversity and Decline in Morale
+
+The challenge became significantly harder when the grocery store's power was cut off, plunging Alex into darkness and disrupting his routine <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. This unforeseen adversity greatly affected him, leading to visible signs of distress <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>. The store started "turning into a wasteland" <a class="yt-timestamp" data-t="00:12:49">[00:12:49]</a>, contributing to his sense of despair. He sought solace by opening a dock door to "breathe in some fresh air" <a class="yt-timestamp" data-t="00:12:54">[00:12:54]</a>, describing himself as a "sad, old miserable boy back here" <a class="yt-timestamp" data-t="00:13:33">[00:13:33]</a> and calling his living situation "sadder than anything" <a class="yt-timestamp" data-t="00:13:42">[00:13:42]</a>.
+
+His [[the_psychological_and_emotional_challenges_of_isolation | isolation]] intensified, leading to extreme boredom <a class="yt-timestamp" data-t="00:13:52">[00:13:52]</a> and a constant temptation to cross the red line and end the challenge <a class="yt-timestamp" data-t="00:14:05">[00:14:05]</a>. Finding lanterns provided a temporary boost <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>, but his overall morale continued to decline. The emotional strain became apparent after an accident with a forklift, which flooded his living space and ruined some of his money, leading him to declare, "I'm done, man. I just want to leave" <a class="yt-timestamp" data-t="00:16:58">[00:16:58]</a>. He appeared "defeated" <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a> and admitted he was taking it "day by day" <a class="yt-timestamp" data-t="00:17:32">[00:17:32]</a>, suggesting a significant shift in his [[psychological_resilience_in_prolonged_contests | psychological resilience]].
+
+## Reaffirming Motivation and Conclusion
+
+A robot delivering his daily payment and the absence of human interaction highlighted his profound loneliness <a class="yt-timestamp" data-t="00:18:55">[00:18:55]</a>. By day 45, he was visibly bored and sad, tapping a bat on the ground <a class="yt-timestamp" data-t="00:19:33">[00:19:33]</a> and expressing how much he missed his family <a class="yt-timestamp" data-t="00:19:28">[00:19:28]</a>.
+
+The challenge organizers, noting his low spirits, arranged for his wife to visit again. This reunion had a powerful [[emotional_aspects_of_competition | emotional impact]], bringing Alex to tears <a class="yt-timestamp" data-t="00:20:16">[00:20:16]</a>. Seeing his wife and reflecting on his family and the money he had already earned, Alex realized that staying longer was "not worth it" <a class="yt-timestamp" data-t="00:20:45">[00:20:45]</a>. This decisive moment marked the culmination of his [[the_psychology_of_overcoming_extreme_challenges | psychological journey]] during the challenge, prioritizing personal connection over further financial gain. He chose to end the challenge on day 45, walking away with $450,000 <a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a>.

@@ -1,41 +1,47 @@
 ---
-title: Effects of solitary confinement on mental health
+title: Effects of Solitary Confinement on Mental Health
 videoId: K_CbgLpvH9E
 ---
 
-From: [[@mrbeast]] <br/> 
-Here is the article with the backlinks embedded:
+From: [[mrbeast]] <br/> 
 
-Solitary confinement is a distressing practice where an individual is isolated in a small, confined space with limited interaction with others and minimal environmental stimuli. This extreme form of isolation has been shown to have profound effects on mental health, as explored in a YouTube video where MrBeast, a popular content creator, challenged himself to spend seven days in solitary confinement [[solitary_confinement_challenges|solitary confinement challenges]].
+The effects of [[solitary_confinement_challenges | solitary confinement]] on [[the_impact_of_isolation_on_mental_health | mental health]] were extensively documented during a seven-day challenge undertaken in a soundproof, white room with zero human contact and zero stimulation <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This environment was noted as "psychologically dangerous" <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
 
-## Psychological Consequences
+## Expert Warnings
 
-### Psychosis and Hallucinations
+A doctor with 23 years of experience in psychiatric hospitals stated that the challenge was "much worse than anything I've ever seen" <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. According to the doctor, anything beyond 50 hours in such a room can lead to permanent [[psychological_effects_of_longterm_confinement | psychological damage]] <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. The participant aimed to complete 168 hours <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. There was a stated risk of the participant losing their mind and entering psychosis, which could cause permanent damage, necessitating their removal <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. The doctor emphasized that without social contact and incoming information, the brain generates "craziness," including hallucinations and paranoia <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
 
-The lack of social contact and sensory input in solitary confinement leads to the brain generating its own stimulus, which often manifests as hallucinations, paranoia, and other mental health disturbances [[psychological_effects_of_isolation|psychological effects of isolation]]. The doctor in the video warns about the risks associated with extended periods of isolation, mentioning there's a real chance of slipping into psychosis after about 50 hours, which can lead to permanent damage <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>.
+## [[psychological_impact_of_isolation | Psychological Impact of Isolation]]
 
-### Insomnia and Anxiety
+The [[psychological effects of isolation | psychological effects of isolation]] and sensory deprivation became evident early in the challenge:
 
-The challenge highlighted how the constant, harsh conditions of solitude affect sleep patterns. MrBeast reported severe insomnia, attributing it to the disruptive environment, including bright lights which distorted his sleep-wake cycle [[challenges_of_prolonged_isolation|challenges of prolonged isolation]]. This lack of sleep led to increased anxiety, as seen in his growing fear of missing out on life outside <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
+*   **Loss of Time Perception**
+    The participant began misjudging time significantly, being off by two hours around the 14-hour mark <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. By approximately 40 hours into the challenge, he was six hours off <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. This [[impact_of_solitary_confinement_on_perception_of_time | loss of time perception]] led to other problems <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. Even halfway through the 168-hour challenge (84 hours), he was off by a full day in his estimation <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. Nearing the end, he was desperate to know the time <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>, and was convinced he had only hours left when in reality, 24 hours remained <a class="yt-timestamp" data-t="00:17:00">[00:17:00]</a>.
 
-### Loss of Time Perception
+*   **Sensory Deprivation and Psychological Distress**
+    The lack of stimulation led to immediate challenges. The participant found it difficult to entertain himself, even resorting to counting tiles on the walls (1900 on walls, 2860 including roof and floor) just nine hours in <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. The constant bright lights severely affected his brain, causing insomnia <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a> and ginormous headaches <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. The doctor noted the participant's agitation by way of boredom and described the experience as "very dehumanizing" <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
 
-One significant outcome of the experiment was the loss of time perception [[understanding_time_perception_in_isolation|understanding time perception in isolation]]. Deprived of normal temporal cues, MrBeast quickly lost track of how much time had passed, resulting in confusion and further exacerbating stress levels <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+*   **Emotional and Behavioral Changes**
+    As the challenge progressed, several [[psychological_effects_of_isolation | psychological effects of isolation]] manifested:
+    *   **Boredom and Agitation:** Extreme boredom set in, becoming mentally very hard <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
+    *   **Paranoia:** The participant began to exhibit signs of paranoia, questioning the intentions of those outside <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a> and feeling watched by numerous cameras <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>.
+    *   **Regression:** The participant's behavior regressed, described as "climbing the wall" due to a natural human urge for freedom, akin to regressing to primal instinct <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. Later, he was observed "napping on the floor, throwing things, having tantrums, getting happy when he gets snacks," like a child <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>.
+    *   **[[the_impact_of_isolation_on_mental_health | Mental Deterioration]]:** He expressed that his mind was "slowly deforming into stupidity" <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a> and later forgot the names of common objects like a "roll" <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>. The participant himself stated he would "borderline go insane" <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>, confirming the doctor's prediction that he would run out of things to do <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>.
+    *   **Depression, Sadness, and Loneliness:** A significant wave of depression followed moments of brief happiness from meals <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>. He reached "literal rock bottom" mentally <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>, describing himself as "depressed and lonely and to be honest, miserable" <a class="yt-timestamp" data-t="00:15:42">[00:15:42]</a>. He cried, stated it was "torture" <a class="yt-timestamp" data-t="00:16:25">[00:16:25]</a>, and repeatedly expressed an intense desire to leave the room <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>.
+    *   **Perpetual Hunger:** Despite receiving enough calories, the participant felt constantly hungry due to being understimulated <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
+    *   **Dreams:** His dreams began to reflect his confinement, with some dreams being about him being in the room <a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>. He preferred sleeping because his dreams allowed him to be in the outside world, making him happier than being awake <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>.
+    *   **Loss of Human Rights:** He expressed feeling like an animal and having lost all his rights as a human <a class="yt-timestamp" data-t="00:11:56">[00:11:56]</a>.
+    *   **Fear of Missing Out (FOMO):** The participant experienced a "severe FOMO" from missing external events <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>.
 
-> [!info] Fun Fact
-> 
-> MrBeast was so disoriented by the end of the challenge that he could not accurately estimate how many hours he had left, leading to paranoia and frustration <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>.
+## [[coping_mechanisms_in_solitary_confinement | Coping Mechanisms in Solitary Confinement]]
 
-### Feelings of Loneliness and Depression
-
-The absence of human interaction induced profound loneliness and depression in MrBeast. He expressed feelings akin to being stripped of his basic human rights, emphasizing the emotional toll of isolation [[emotional_impacts_of_prolonged_separation|emotional impacts of prolonged separation]]. His mental state declined significantly, notably when he began dreaming of normal life outside, only to awaken back to reality in the solitary room <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>.
-
-## Coping Mechanisms
-
-In an effort to distract himself and cope with the mental strain, MrBeast engaged in various activities such as counting tiles, inventing scenarios, and attempting physical exercises like handstands. However, these were often short-term solutions that were unable to fully mitigate the effects of the prolonged isolation [[coping_mechanisms_under_isolation|coping mechanisms under isolation]] <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
+Faced with extreme boredom and a lack of stimulation, the participant attempted various [[coping_mechanisms_in_solitary_confinement | coping mechanisms]]:
+*   **Counting:** He counted tiles <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>, counted as high as he could <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>, and later counted individual grains of rice (447 grains on one tray) <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
+*   **Mental Diversions:** He tried to envision being in a park, with green grass and people fishing, to distract himself from the reality of the room <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>. The doctor noted he had to "invent concepts that only exist in his mind" to avoid intense depression <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>.
+*   **Physical Activity:** He tried to perform handstands <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a> and decided to do a thousand laps around the room, which quickly made him dizzy <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>. He also resorted to bouncing objects like a metal plate <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>, a burger wrapper, and a cup, playing self-invented games of basketball and baseball <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>.
+*   **Sleep:** His primary strategy was to sleep through most of the challenge to pass the time <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>, even sleeping for 12 hours in the bathroom where it was darker <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>.
+*   **Cleaning:** Towards the very end, he cleaned the room as an excuse to alleviate boredom <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>.
 
 ## Conclusion
 
-Solitary confinement, even for a short period, can have deleterious effects on mental health, contributing to various disorders and emotional disturbances. The challenge undertaken by MrBeast vividly illustrates the psychological risks associated with isolation [[psychological_impact_of_confinement|psychological impact of confinement]], underscoring the necessity of addressing and mitigating these issues in contexts where confinement is used.
-
-This experiment’s insights reveal the profound necessity for human interaction and stimuli in maintaining mental wellness and highlight the urgent need for reform where solitary confinement is practiced [[isolation_experiment_dynamics|isolation experiment dynamics]].
+The challenge demonstrated the severe [[challenges_of_isolation_and_confinement | challenges of isolation and confinement]]. Upon release, the participant felt lightheaded <a class="yt-timestamp" data-t="00:19:44">[00:19:44]</a> and admitted he had "kind of forgot how to interact with humans" <a class="yt-timestamp" data-t="00:19:47">[00:19:47]</a>. He found simple things like the ceiling outside "awesome" <a class="yt-timestamp" data-t="00:19:55">[00:19:55]</a> and was overjoyed to see the night sky <a class="yt-timestamp" data-t="00:20:08">[00:20:08]</a>. The experience did not bring mental clarity or self-discovery, but rather a newfound skill of throwing items through a conveyor belt door <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>. He stated that if he had known how hard it would be, he never would have done it <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>.

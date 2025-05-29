@@ -1,39 +1,35 @@
 ---
-title: Worlds largest pizza slice
+title: worlds largest pizza slice
 videoId: Rj_vssRaZlQ
 ---
 
-From: [[@mrbeast]] <br/> 
-In an extraordinary culinary challenge, the world's largest slice of pizza was the centerpiece of an epic eating contest featuring YouTube sensation Mr. Beast and world-renowned competitive eater Joey Chestnut. This pizza extravaganza not only pushed the limits of [[challenges_of_eating_large_quantities_of_food | gastronomic endurance]] but also set a stage for an unprecedented pizza-eating showdown.
+From: [[mrbeast]] <br/> 
 
-## The Pizza Slice Challenge
+The world's largest slice of pizza was featured in a competitive eating challenge, measuring six feet long and weighing nine pounds <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a><a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a><a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>. The slice was so large it was described as "taller than Carl" <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
 
-The towering slice of pizza showcased in the video measured an astounding six feet in length. Visually impressive, it dwarfed one of the participants, Carl, creating a jaw-dropping spectacle for both competitors and viewers alike. The sheer size of this pizza slice wasn't just for show—it posed a monumental challenge in terms of consumption, making the competition even more thrilling to observe.
+## The Challenge
 
-> [!info] Size Matters
-> 
-> The pizza slice was taller than one of the participants, Carl, highlighting its enormous size. <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>
+The challenge involved renowned competitive eater Joey Chestnut attempting to finish his nine-pound slice of the world's largest pizza faster than Mr. Beast, Chris, and Chandler could collectively eat their identical slice <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a><a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
 
-## Competing with a Legend
+### Participants
+*   **Joey Chestnut:** Known as the fastest competitive eater in the world, holding numerous world records, including for hot dogs eaten and for holding the most world records <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a><a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a><a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. He was described as a "freak of nature" and "the best eater in the entire world" <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a><a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. At the start of the challenge, Joey weighed 229 pounds <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>.
+*   **Mr. Beast and Friends:** Initially, the team consisted of Mr. Beast, Chris, and Chandler. Their combined weight before the challenge was 537 pounds <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. They were confident they could "easily be able to out-eat Joey" <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. As the challenge progressed, additional helpers were brought in:
+    *   A fourth person <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>
+    *   Tyler <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>
+    *   Jackson, Tyler's friend <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>
+    *   Dustin <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>
+    This brought the total number of people competing against Joey to seven <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>.
 
-Taking on this herculean task alongside Mr. Beast and his team was Joey Chestnut, an individual revered in the world of competitive eating for his numerous [[joey_chestnuts_eating_records | world records]]. Joey's participation brought a formidable aura to the challenge, as he is known not just for his capacity to consume large amounts of food, but also for his strategic approach, such as folding slices for more efficient eating <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
+### Progress of the Challenge
+From the start, Joey Chestnut adopted a folding technique to eat the pizza <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. He quickly outpaced the team of Mr. Beast and friends, who struggled with the sheer volume and texture of the pizza <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a><a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a><a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. Despite multiple attempts to slow Joey down, including offering him $10,000 to stop for five minutes, he remained focused <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a><a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>. The team found the challenge extremely difficult, with some members expressing pain, feeling full, and even gagging <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a><a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a><a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a><a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
 
-The video detailed a collective effort by Mr. Beast's team, who, despite weighing a combined 537 pounds as a group, were outmatched by Joey's singular prowess <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. 
+Mr. Beast offered his team $100,000 if they managed to beat Joey <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>.
 
-## The Strategy and Endurance Test
+## Outcome
+Joey Chestnut successfully finished the entire six-foot, nine-pound pizza slice <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. He maintained a rhythm by using water to help swallow the food <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a><a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. His win was encouraged by the increasing number of competitors <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a><a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
 
-The contest involved two identical giant slices of pizza, with the objective of determining if Joey could outpace Mr. Beast and his crew of assistants. Despite the collective effort, Joey Chestnut's disciplined pace and experience became evident as he swiftly navigated through his slice <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+After the challenge, Joey Chestnut's weight increased from 229 pounds to 250 pounds, a gain of 21 pounds of pizza <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a><a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a><a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>. He described feeling "bloated, tired," and "exhausted," anticipating a need for recovery time <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a><a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
 
-> [!info] Making Quick Work
->
-> Joey showed his competitive edge by finding a rhythm and consuming the pizza at a stupendous rate, reinforcing why he holds numerous records <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
+In contrast, Mr. Beast and his friends, despite having started at a combined 537 pounds, only increased to 547 pounds, gaining a collective 10 pounds, and still lost the challenge <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a><a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a><a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>.
 
-## A Record-Breaking Feat
-
-Joey Chestnut managed to finish his entire slice, which weighed nine pounds, demonstrating not just his eating skills but also exceptional endurance and determination. At the conclusion of this gastronomic challenge, Joey gained 21 pounds, showcasing the physical demands of [[competitive_eating | competitive eating]] <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
-
-In celebration of his victory, Joey received a unique pizza trophy from Mr. Beast, recognizing the immense challenge he successfully overcame <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
-
-## Conclusion
-
-The world’s largest slice of pizza was not just a display of sheer size, but a testament to the incredible feats of human endurance showcased by Joey Chestnut. This event highlighted not only the marvels of modern culinary creation but also human tenacity and spirit in the competitive space of [[competitions_for_prize_money | major eating contests]]. This slice of pizza, in all its gigantic glory, stood as a record-breaking symbol in the world of food challenges.
+To commemorate Joey's victory, he was awarded a pizza-themed trophy, which he stated was "one of the hardest trophies" he had ever had to get, despite his extensive collection of belts and trophies <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a><a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a><a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.

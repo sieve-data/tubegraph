@@ -1,33 +1,25 @@
 ---
-title: Train vs Giant Pit experiment
+title: Train vs giant pit experiment
 videoId: fuhE6PYnRMc
 ---
 
-From: [[@mrbeast]] <br/> 
-In a dramatic and thrilling display of destructive science, the latest video provided viewers an opportunity to witness an extraordinary experiment, entitled "Train vs Giant Pit," executed with the massive power and scale of a full-speed train heading inevitably towards disaster. This section of the video showcased an awe-inspiring array of physics, engineering feats, and pure spectacle.
+From: [[mrbeast]] <br/> 
 
-## The Setup
+The "Train vs. Giant Pit" experiment involved purchasing a train and directing it at full speed into a massive pit <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This spectacle was presented as one of the "most insane experiments of all time" <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a> - <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, promised later in the video after other large-scale destructions <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a> - <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
 
-The stage was set with a train intentionally on a collision course with a giant pit, a setup designed to answer some fascinating "what-ifs" about large-scale impacts [[train_vs_brick_wall_and_semi_trucks | similar to the train vs brick wall experiments]]. This audacious experiment aimed to explore the dynamics of such a collision and visually uncover the power packed within a moving train <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>.
+## Setup
 
-## Hypothetical Safety Zones
+The experiment required a train and a very large pit. The train was set to travel at full speed down its tracks directly into the pit <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a> - <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>.
 
-Before the climax of the train impact, the team invited participants and viewers alike to ponder which part of the train would potentially be the safest spot during such a catastrophic event. This question was raised as mannequins, symbolizing passengers, were strategically placed throughout the train, exploiting strategies and dynamics similar to [[psychological_and_physical_challenges_of_endurance_competitions | psychological and group dynamics in competitions]]. Some were positioned in the cabin, which, statistically, was suggested as the safest spot, while others were placed at the very front to directly confront the forces at play <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>.
+To observe the impact, mannequins were placed in various locations on the train:
+*   One mannequin was positioned in the train's cabin, believed to be "statistically the safest place to be" <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a> - <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>.
+*   Another mannequin was placed "right on the front" of the train <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a> - <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>.
+*   A Feastables chocolate bar was also given a "front row seat" <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a> - <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
 
-## The Collision
+The command to send the train was given by Nolan <a class="yt-timestamp" data-t="00:09:33">[00:09:33]</a>.
 
-With the go-ahead signal initiated, viewers were treated to a heart-racing scene: a train, full-speed and unstoppable, headed directly for the waiting abyss. The sequences were a pulse-quickening crescendo of sound and sight as the inevitable occurred <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>.
+## Outcome
 
-## The Aftermath
+The train successfully went off the tracks and plunged into the pit <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a> - <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>. The visual result was described as "the coolest thing I've ever seen" <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a> - <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>.
 
-The aftermath of the collision was as spectacular as the event itself, underscoring the immense forces involved. Upon collision, it was apparent that the pit emerged victorious over the train, showcasing nature's unyielding strength against man-made machinery [[destructive_experiments_with_roller_coasters | akin to roller coaster destruction experiments]]. The visual examination of the aftermath revealed total obliteration, with none of the placed mannequins surviving the impact, highlighting themes from [[challenges_of_island_wildlife_interaction | challenges with nature's forces]] <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>.
-
-> [!info] An Epic Confrontation
->
-> "Train versus pit, the pit won" was the succinct conclusion drawn by the host, effectively capturing the grandeur and excitement of this massive experiment. It posed not only as an entertainment spectacle but also as a narrative on the sheer effect of [[high_stakes_cash_prize_challenges | high stakes situations]] of gravitational and collision forces <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>.
-
-## Conclusion
-
-This daring experiment presented an enthralling intersection of science and spectacle, leaving viewers in awe of the sheer magnitude and power of such an event. In the end, the lesson learned was clear: despite mankind's technological prowess, natural forces retain a formidable presence, often reminding us of [[survival_strategies_on_a_deserted_island | nature’s grandeur]].
-
-For those captivated by dramatic engineering experiments and the spectacular visualization of force, "Train vs Giant Pit" remains a landmark demonstration, offering insights into both prospective railway safety discussions and the intriguing world of [[psychology_and_group_dynamics_in_competitions | visual physics experiments]].
+Ultimately, none of the mannequins survived the impact <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a> - <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>. The pit was declared the victor in this [[train_versus_obstacles | train versus obstacles]] challenge <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>.

@@ -1,0 +1,38 @@
+---
+title: Team dynamics and alliances in competitions
+videoId: 4SNThp0YiU4
+---
+
+From: [[mrbeast]] <br/> 
+
+This article explores the evolving nature of [[teamwork_and_alliances_in_competitions | team dynamics and alliances]] within a high-stakes competition where 50 prominent YouTubers compete for a $1 million prize for their subscribers <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Initially, the atmosphere suggests individual survival, with participants stating that "people are not going to be friends in this box" <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. However, as the competition progresses through various challenges, the structure forces different forms of [[group_dynamics_and_alliances_in_a_competitive_setting | group dynamics and alliances]], revealing how strategies, trust, and even [[friendship_and_competition_dynamics | friendship]] influence outcomes.
+
+## Initial Individualism
+
+At the outset, the competitive nature is evident. One YouTuber quickly declares, "I feel like I'm just a target" <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>, while another asserts that "people are not going to be friends in this box" <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a> because "this is our money, bro" <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. The prevailing strategy is to "conserve energy" and focus on the million-dollar pot <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>. When asked if they would eliminate someone else to stay in, one participant readily agrees, "For my subscribers, of course" <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>, highlighting the self-interested motivation.
+
+## Challenge 2: Forced Teamwork and Risky Choices
+
+For the second challenge, contestants are required to split into groups of five and elect a team captain <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. Team captains are granted immunity <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. The challenge then reveals itself as a "Squid Games"-inspired cookie-cutting task <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. Each captain must decide which non-immune team member will cut each cookie, with breaking it resulting in elimination <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+
+This challenge highlights how [[team dynamics and strategies | team dynamics and strategies]] can lead to difficult decisions. Captains, though immune, indirectly "punished" their team by putting them in peril <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. The "umbrella" shape cookie is recognized as the most difficult <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>, and captains are seen deliberating or even reluctantly assigning it to teammates <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>. The outcome of the cookie challenge results in 11 eliminations, significantly thinning the group <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>.
+
+## Challenge 3: Partnered Competition and Sacrifice
+
+The third challenge requires participants to pair up into groups of two and duct tape their hands together <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>. Many choose their closest friends, with one participant stating, "I was best man at his wedding. So, we're riding together" <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>. This initial pairing implies [[teamwork_and_alliances_during_competitive_events | teamwork and alliances]], but the twist is that partners are then cut loose and go "head-to-head in giant Jenga" <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. This sudden shift from perceived collaboration to direct competition puts [[friendship_and_competition_dynamics | friendships]] to the test.
+
+A notable instance occurs when JJ loses a Jenga game and, in a fit of rage, carries his partner KSI out of the cube with him <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>. This controversial act leads to a group vote on whether it was fair <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>, highlighting the moral and [[interpersonal_dynamics_and_reactions_during_contests | interpersonal dynamics and reactions during contests]] within the group.
+
+Despite the competitive setup, some players demonstrate remarkable [[team dynamics and friendships | team dynamics and friendships]]. Several creators, such as Ludwig, are "even willing to sacrifice themselves for their friends" <a class="yt-timestamp" data-t="00:14:29">[00:14:29]</a> to let them stay in the competition, showcasing altruism over personal gain <a class="yt-timestamp" data-t="00:14:35">[00:14:35]</a>.
+
+## Challenge 5: Collaborative Cooking Challenge
+
+After the "Deal or No Deal" challenge (Challenge 4), the fifth challenge once again involves pairs working together <a class="yt-timestamp" data-t="00:24:43">[00:24:43]</a>. This time, it's a team cooking challenge, with teams judged on taste, creativity, and presentation by a panel of judges including Joey Chestnut, Miranda Cosgrove, and IShowSpeed <a class="yt-timestamp" data-t="00:26:00">[00:26:00]</a>. This is a direct test of [[teamwork_and_alliances_in_competitions | teamwork]] under pressure, requiring coordinated effort and skill. Teams discuss their dishes, with some combining culinary traditions <a class="yt-timestamp" data-t="00:27:16">[00:27:16]</a> and others making comfort food <a class="yt-timestamp" data-t="00:28:30">[00:28:30]</a>. The success or failure of a team depends entirely on their collaborative execution.
+
+## Final Challenge: Bluffing and Shifting Alliances
+
+The final challenge with five remaining contestants is a game of "bluffing" and reading each other <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>. Contestants are blindfolded while briefcases containing either $0 or $1 million are shuffled <a class="yt-timestamp" data-t="00:34:07">[00:34:07]</a>. Each player secretly looks into their chosen briefcase. Then, everyone votes to eliminate one player <a class="yt-timestamp" data-t="00:34:31">[00:34:31]</a>. If the voted player's case is empty, they are eliminated. If the voted player has the money, they win the entire game <a class="yt-timestamp" data-t="00:34:38">[00:34:38]</a>.
+
+This challenge forces players to form implicit [[group_dynamics_and_alliances_in_a_competitive_setting | alliances]] and counter-alliances based on their interpretations of body language and honesty <a class="yt-timestamp" data-t="00:34:50">[00:34:50]</a>. Discussions about voting "as alliances" and using "information" become central to the strategy <a class="yt-timestamp" data-t="00:35:59">[00:35:59]</a>. Participants bluff about having the money to avoid being voted out, while others try to call bluffs <a class="yt-timestamp" data-t="00:35:29">[00:35:29]</a>. The tension culminates in a tie-breaker vote, where players must make their case directly to those deciding their fate <a class="yt-timestamp" data-t="00:37:21">[00:37:21]</a>.
+
+Ultimately, the competition demonstrates a fascinating evolution of [[competition_dynamics_and_teamwork | competition dynamics and teamwork]], shifting from pure individualistic survival to structured challenges that force, test, and even break various forms of [[teamwork_and_alliances_during_competitive_events | teamwork and alliances]], often with unpredictable and dramatic results.
