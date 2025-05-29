@@ -1,0 +1,43 @@
+---
+title: History and evolution of NVIDIAs graphics technology
+videoId: y6NfxiemvHg
+---
+
+From: [[acquiredfm]] <br/> 
+
+NVIDIA, founded in 1993, initially aimed to transform the PC into an accelerated computing platform for consumer 3D graphics <a class="yt-timestamp" data-t="04:45:30">[04:45:30]</a>. This marked a significant shift as NVIDIA was the first company specifically created for consumer 3D graphics <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>.
+
+## Early Architectural Challenges and the Rebirth with Reva 128
+
+NVIDIA's initial graphics architectures, MV1 and MV2, were based on forward texture mapping using curves rather than triangles, and they avoided Z-buffers <a class="yt-timestamp" data-t="04:18:00">[04:18:00]</a>. This approach proved to be "completely the wrong answer" <a class="yt-timestamp" data-t="04:37:00">[04:37:00]</a>, especially after Microsoft rolled out DirectX, which was fundamentally incompatible with NVIDIA's existing architecture <a class="yt-timestamp" data-t="05:05:00">[05:05:00]</a>. By 1997, NVIDIA was facing a critical juncture with only months of cash left and about 30 competitors in the market <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>.
+
+The **[[nvidias_risktaking_and_decisionmaking_in_technology_development | Reva 128]]** chip represented a complete reset for the company <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>. Despite supporting only 8 of 32 DirectX blend modes, it was the world's first fully hardware-accelerated pipeline for 3D rendering, implementing every element from transform to projection <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>. To save time and money, NVIDIA made the audacious decision to test the chip entirely in simulation and commission the production run sight unseen <a class="yt-timestamp" data-t="03:20:00">[03:20:00]</a>. This was a bet-the-company move based on the conviction that a "perfect chip" could be produced by front-loading all testing and software development using an emulator <a class="yt-timestamp" data-t="09:07:00">[09:07:00]</a>. Jensen Huang emphasizes that this strategy, pulling all risky future elements into advance simulation, remains a core principle of [[nvidias_innovation_and_adaptation_strategies | NVIDIA's innovation and adaptation strategies]] <a class="yt-timestamp" data-t="11:40:00">[11:40:00]</a>.
+
+## Focus on Enthusiasts and the "Never Good Enough" Technology
+
+NVIDIA observed a significant "enthusiast market" within the PC industry, consumers who would buy the best and fastest technology available <a class="yt-timestamp" data-t="07:27:00">[07:27:00]</a>. 3D graphics was identified as a "sustainable technology opportunity" because it is "never good enough," meaning there's always room for performance improvements <a class="yt-timestamp" data-t="07:48:00">[07:48:00]</a>. This allowed NVIDIA to build the largest, fastest chips using the fastest memories and command a higher price point <a class="yt-timestamp" data-t="06:24:00">[06:24:00]</a>.
+
+## The Birth of a Platform: UDA and CUDA
+
+Even from its **[[nvidias_early_history_and_founding | Nvidias early history and founding]]**, NVIDIA conceived itself as a platform company, designing its architecture for accelerators of all kinds, not just graphics <a class="yt-timestamp" data-t="51:01">[51:01]</a>. The foundational architecture was called UDA (compute unified device architecture), which predated **[[the_development_and_impact_of_nvidias_cuda_architecture | CUDA]]** <a class="yt-timestamp" data-t="51:06">[51:06]</a>. This was driven by an early strategy to be a "game console inside the PC," requiring developers to program for their proprietary "Direct Nvidia" architecture <a class="yt-timestamp" data-t="51:35">[51:35]</a>. When Microsoft introduced DirectX, NVIDIA adapted, but the commitment to a developer-oriented platform remained <a class="yt-timestamp" data-t="52:27">[52:27]</a>.
+
+**[[the_development_and_impact_of_nvidias_cuda_architecture | CUDA]]** emerged as an extension to existing graphics APIs like OpenGL and DirectX, allowing NVIDIA to leverage its existing installed base of GPUs for general-purpose computing <a class="yt-timestamp" data-t="53:16">[53:16]</a>. A non-negotiable rule within the company was that every NVIDIA accelerator must be architecturally compatible, ensuring a stable platform for developers <a class="yt-timestamp" data-t="53:45">[53:45]</a>. Today, there are hundreds of millions of active [[the_development_and_impact_of_nvidias_cuda_architecture | CUDA]]-enabled GPUs, all architecturally compatible <a class="yt-timestamp" data-t="53:59">[53:59]</a>.
+
+## Pivoting to the Data Center and AI
+
+Approximately 17 years ago, Jensen Huang identified a fundamental limitation: NVIDIA's technology being "plugged into a computer" that "has to sit next to you" <a class="yt-timestamp" data-t="35:03">[35:03]</a>. This insight led to the idea of separating computing from the viewing device, realizing that if this could be achieved, the market opportunity would explode <a class="yt-timestamp" data-t="35:30">[35:30]</a>.
+
+This led to NVIDIA's [[nvidias_transition_from_gaming_to_enterprise_and_scientific_computing | transition from gaming to enterprise and scientific computing]] by entering the data center market:
+*   **GeForce Now (GFN):** NVIDIA's first cloud product, which aimed at cloud gaming by streaming encoded frame buffers to client devices <a class="yt-timestamp" data-t="35:59">[35:59]</a>.
+*   **Remote Graphics:** Placing GPUs in enterprise data centers <a class="yt-timestamp" data-t="36:26">[36:26]</a>.
+*   **GPU + CUDA Supercomputers:** Combining [[the_development_and_impact_of_nvidias_cuda_architecture | CUDA]] with GPUs to create supercomputers <a class="yt-timestamp" data-t="36:33">[36:33]</a>.
+
+This groundwork positioned NVIDIA for the massive growth in AI and deep learning. When AlexNet demonstrated the effectiveness of deep learning in computer vision, NVIDIA quickly realized its potential as a "universal function approximator" <a class="yt-timestamp" data-t="13:59:00">[13:59:00]</a>. Recognizing that deep learning models could scale by increasing layers, data sets, and model sizes, NVIDIA heavily invested in building systems and software stacks for AI researchers <a class="yt-timestamp" data-t="20:04:00">[20:04:00]</a>. This close collaboration with researchers, including pioneers like Yann LeCun, Andrew Ng, and Geoff Hinton, was crucial for **[[nvidias_role_in_the_growth_of_artificial_intelligence_and_deep_learning | Nvidias role in the growth of artificial intelligence and deep learning]]** <a class="yt-timestamp" data-t="19:17:00">[19:17:00]</a>.
+
+The acquisition of Mellanox was a strategic move to become a data center company, recognizing that networking is the defining characteristic of a data center, not just the processing chips <a class="yt-timestamp" data-t="40:03:00">[40:03:00]</a>. This was critical for the distributed computing needs of large AI training jobs, which differ from hyperscale cloud computing <a class="yt-timestamp" data-t="41:10:00">[41:10:00]</a>. Jensen saw that high-performance networking like InfiniBand was essential for scaling large language models, a realization that was "disconnected from the work that we normally do" and surprised many <a class="yt-timestamp" data-t="41:39:00">[41:39:00]</a>.
+
+## Strategic Approach to Market and Competition
+
+NVIDIA's **[[nvidias_business_strategy_and_growth | business strategy and growth]]** has often involved positioning itself in "zero billion dollar markets" – serving needs that haven't fully emerged yet, such as PC gaming, design workstations, supercomputing, and autonomous vehicles <a class="yt-timestamp" data-t="46:40:00">[46:40:00]</a>. This allows NVIDIA to gain a significant lead (often a decade) before a market fully materializes and competitors emerge <a class="yt-timestamp" data-t="48:24:00">[48:24:00]</a>. By building products that enable an entire ecosystem and creating a "network of networks" around its technology, NVIDIA establishes strong competitive advantages, or "moats" <a class="yt-timestamp" data-t="49:10:00">[49:10:00]</a>.
+
+Jensen Huang believes the **[[the_evolution_and_challenges_of_the_gpu_market | market opportunity]]** for NVIDIA has vastly expanded by moving beyond a "chip company" to an "AI company," where the focus is on the manufacturing of intelligence and work <a class="yt-timestamp" data-t="01:25:56">[01:25:56]</a>. This shift suggests a market size measured in trillions, greatly increasing NVIDIA's potential <a class="yt-timestamp" data-t="01:26:10">[01:26:10]</a>.

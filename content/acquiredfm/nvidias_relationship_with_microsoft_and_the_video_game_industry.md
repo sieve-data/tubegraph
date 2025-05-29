@@ -1,0 +1,56 @@
+---
+title: Nvidias relationship with Microsoft and the video game industry
+videoId: wYUTMgGxZzc
+---
+
+From: [[acquiredfm]] <br/> 
+
+Nvidia, founded in 1993, began by creating computer graphics chips in a highly competitive and low-margin market, initially facing over 90 undifferentiated competitors <a class="yt-timestamp" data-t="01:37:37">[01:37:37]</a>. Despite these challenges, the company would deeply intertwine its fate with the evolving video game industry and strategic partnerships, notably with Microsoft.
+
+## The Dawn of 3D Graphics and PC Gaming
+
+In the early 1990s, 3D graphics were emerging as a significant technological demand. Companies like Silicon Graphics (SGI) were providing super custom, high-end, and expensive solutions for professional use, such as in movies like *Jurassic Park* <a class="yt-timestamp" data-t="02:15:00">[02:15:00]</a>. Concurrently, PC gaming was experiencing a boom with titles like *Wolfenstein 3D* and *Doom* (released in 1993) demonstrating the consumer appetite for 3D experiences on personal computers <a class="yt-timestamp" data-t="02:22:56">[02:22:56]</a>. These games achieved their 3D effects through "incredible feats of engineering" by individuals like John Carmack <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>.
+
+Nvidia's co-founders, Chris Malachowsky and Curtis Priem, along with Jensen Huang, identified an opportunity to create a dedicated graphics card to accelerate 3D graphics on consumer PCs, believing it would "help the entire industry take off" <a class="yt-timestamp" data-t="02:36:00">[02:36:00]</a>. Their vision was to enable 3D graphics as a new medium for storytelling, one that could be dynamic, networked, and social <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>. This vision aimed to democratize access to advanced graphics beyond the capabilities of individual engineering geniuses like John Carmack <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>.
+
+### Early Strategy and the Sega Partnership
+
+Nvidia's initial strategy involved creating their own Application Programming Interfaces (APIs) and Software Development Kits (SDKs) to support their hardware, aiming to define industry standards <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>. Early on, Nvidia secured a significant deal with Sega to power their arcade and next-generation home consoles, which would become the Sega Saturn <a class="yt-timestamp" data-t="03:11:00">[03:11:00]</a>. A key design decision made in collaboration with Sega was to use quadrilaterals as the primitive for 3D polygons, a choice that would later prove problematic as the industry standardized on triangles <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>.
+
+## Microsoft's Influence: Direct3D and DirectX
+
+As the PC gaming market grew, Microsoft observed the proliferation of graphics card companies and sought to standardize development. They introduced Direct3D (which evolved into DirectX), a set of APIs baked directly into Windows to make 3D graphics development easier for a broad range of developers <a class="yt-timestamp" data-t="03:18:00">[03:18:00]</a>. Crucially, DirectX adopted triangles as the standard polygon primitive, directly contradicting Nvidia's quadrilateral-based design <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>.
+
+This move by Microsoft put Nvidia in a difficult position. Their existing product designs and the Sega partnership were now out of sync with the emerging industry standard. In 1996, Sega decided against using Nvidia's upcoming chip (NV2) for the Dreamcast, opting out of the quadrilateral approach <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a>.
+
+> "Microsoft is like, 'Oh, that's interesting. We like selling PCs. And gosh, there are all these graphics cards companies out there now that are doing this. And you know, what do we do as Microsoft? We really want to encourage this in the ecosystem. Well, we create standards. We would love it if Windows developers could be able to easily develop for all these new machines shipping with all these advanced graphics capabilities. Let's make that as easy as possible for those developers.' ... 'Why don't we just bake these APIs right into Windows directly for 3D Graphics. We'll call it Direct3D.'" <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>
+
+## Nvidia's Strategic Shift and Reva 128
+
+Facing near-bankruptcy and with only nine months of runway, Nvidia made a pivotal decision: they would abandon their proprietary approach and "standardize on the same Microsoft Direct3D as everyone else" <a class="yt-timestamp" data-t="04:22:00">[04:22:00]</a>. This required them to "throw it all out" and compete solely on performance and efficiency, relying on "raw engineering ability" <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>.
+
+To achieve this rapid turnaround, Nvidia laid off 70% of its staff <a class="yt-timestamp" data-t="04:18:00">[04:18:00]</a>. They then leveraged new software emulation technology to design and ship their new chip, the Reva 128, within nine months, a process that typically took two years <a class="yt-timestamp" data-t="04:49:00">[04:49:00]</a>. This daring move, which involved debugging at a rate of one frame every 30 seconds <a class="yt-timestamp" data-t="04:26:00">[04:26:00]</a>, was successful. The Reva 128 was a "freaking beast" in terms of performance, even if it "barely works" with all Direct3D features <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>.
+
+This period taught Nvidia a crucial lesson: "the only thing that matters is performance" to consumers <a class="yt-timestamp" data-t="05:40:00">[05:40:00]</a>. Game developers, seeing the performance advantage, were willing to make compromises and adapt their games to Nvidia's hardware, even if it meant using only a subset of Direct3D features <a class="yt-timestamp" data-t="05:41:00">[05:41:00]</a>. Nvidia sold one million units of the Reva 128 within four months in 1997 <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>.
+
+This success also allowed Nvidia to forge a critical partnership with TSMC, a foundry that had previously ignored Jensen Huang's calls <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. This collaboration enabled Nvidia to double their hardware performance every six months, significantly outpacing Moore's Law <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>.
+
+## The Birth of the GPU and the Xbox Deal
+
+In 1999, Nvidia rebranded their products under the "GeForce" line, launching the GeForce 256. This chip was marketed as the "first GPU" (Graphical Processing Unit), a term Nvidia coined to differentiate their products from generic graphics cards <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>. This move was a direct challenge to Intel's strategy of integrating peripherals into motherboards, which had previously commoditized industries like sound cards and networking cards <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>.
+
+A major milestone for Nvidia's relationship with Microsoft came with the Xbox. Microsoft approached Nvidia to be the key supplier of the Graphics Processing Unit for their secret console project <a class="yt-timestamp" data-t="01:08:00">[01:08:00]</a>. Nvidia secured a massive $500 million per year deal, including a $200 million advance, to supply a modified version of their upcoming GeForce 3 chip for the original Xbox <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>.
+
+The GeForce 3 was revolutionary, introducing "programmable shaders and lighting on the GPU" for the first time <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>. This meant that dynamic lighting and shading could be calculated directly on the GPU, allowing game developers unprecedented artistic control and creating "a wave of new consumer experiences" <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>. Nvidia also developed CG, an extension of the C programming language with graphics libraries, allowing direct programming of the GPU <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. This fulfilled Nvidia's original, quixotic vision of creating a programmable, intelligent graphical processing unit, distinguishing it from a mere "sound card" <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>.
+
+## Post-Xbox and Console Strategy
+
+Following the Xbox deal and the success of the GeForce line, Nvidia experienced meteoric revenue growth, becoming the fastest semiconductor company to reach $1 billion in revenue by 2001 <a class="yt-timestamp" data-t="01:23:00">[01:23:00]</a>.
+
+Despite its success with the Xbox, Nvidia has largely refrained from deep console partnerships beyond the original Xbox, the PlayStation 3, and the Nintendo Switch <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>. Jensen Huang has indicated that such deals, while offering large revenue, typically involve "crap margins" and are not strategic for Nvidia's long-term goal of enabling unique and world-changing technology <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>. This reflects Nvidia's preference to allocate resources to areas with higher potential for innovation and strategic advantage, rather than low-margin, high-volume console chip manufacturing <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>.
+
+## [[history_and_evolution_of_nvidias_graphics_technology | Nvidia's Innovation]] and the Future of Computing
+
+Nvidia's journey demonstrates its continuous [[nvidias_innovation_and_adaptation_strategies | innovation and adaptation strategies]]. The early struggles forced the company to embrace simulation for chip design, a practice that would later become a core strength and a major theme in their future ventures, such as the Omniverse <a class="yt-timestamp" data-t="01:39:00">[01:39:00]</a>. This experience also highlighted the power of democratizing tools for developers, allowing artists and storytellers to create without needing the "genius" of early pioneers like John Carmack <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>.
+
+Nvidia's initial focus on video games, while incredibly successful, inadvertently positioned them for an even larger market: parallel computing beyond graphics. An anecdotal story recounts a quantum chemistry researcher who, advised by his gamer son, used Nvidia GeForce cards to perform computations in hours that supercomputers took weeks to complete <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>. This foreshadowed Nvidia's monumental [[Nvidias transition from gaming to enterprise and scientific computing | transition from gaming to enterprise and scientific computing]] and their eventual [[Nvidias role in the growth of artificial intelligence and deep learning | dominance in AI]], driven by the parallel processing capabilities of their GPUs. While the [[nvidias_dominance_in_ai | machine learning]] market was not yet visible, the groundwork for it was being laid by Nvidia's relentless pursuit of graphical performance and programmability.

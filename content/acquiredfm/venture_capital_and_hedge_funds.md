@@ -1,0 +1,55 @@
+---
+title: Venture capital and hedge funds
+videoId: npBC3R-dOr0
+---
+
+From: [[acquiredfm]] <br/> 
+
+The financial landscape of venture capital has undergone significant transformation in recent years, with a notable trend being "crossover investing" – a dual approach that combines operating both a hedge fund and a venture capital firm simultaneously <a class="yt-timestamp" data-t="01:25:00">[01:25:00]</a>. This strategy involves hedge funds like Tiger Global and Coatue moving into seed investing, while traditionally early-stage [[Venture capital investment strategies | venture capital]] firms like Sequoia reinvent their structures to retain stakes in successful companies longer, even after they go public <a class="yt-timestamp" data-t="01:06:06">[01:06:06]</a>, <a class="yt-timestamp" data-t="01:08:56">[01:08:56]</a>. Altimeter Capital is highlighted as a pioneer of this integrated approach <a class="yt-timestamp" data-t="01:24:21">[01:24:21]</a>.
+
+## The Genesis of Altimeter Capital
+
+Brad Gerstner, founder of Altimeter Capital, envisioned a firm that combined public and private investing from its inception <a class="yt-timestamp" data-t="01:25:25">[01:25:25]</a>. His background as a five-time entrepreneur and his experiences shaped his unique mentality compared to a classic hedge fund manager <a class="yt-timestamp" data-t="02:05:08">[02:05:08]</a>.
+
+### Influences on Investment Philosophy
+Gerstner's early life in a small rural town in Indiana, marked by his father's failed entrepreneurial venture, profoundly influenced his understanding of risk. His father's auto parts manufacturing company faced significant headwinds (double-digit interest rates, inflation, competition) and failed, leading to personal and financial devastation <a class="yt-timestamp" data-t="07:08:00">[07:08:00]</a>. This contrasts sharply with the [[The role of venture capital and its challenges | Silicon Valley]] culture where failure is often seen as a "badge of courage" for founders, with the financial risk largely borne by [[The role of venture capital and its challenges | venture capitalists]] through their diversified portfolios <a class="yt-timestamp" data-t="09:08:00">[09:08:00]</a>.
+
+> "The risk is... mortgage your house, mortgage your car, double-digit interest rates and inflation, the business goes under, my dad loses his health, he loses his house, he loses his marriage. Right? That's risk." <a class="yt-timestamp" data-t="10:02:00">[10:02:00]</a>
+
+This experience fostered an aversion to asking for money, which initially made political fundraising unappealing <a class="yt-timestamp" data-t="12:57:00">[12:57:00]</a>. However, he found fundraising for Altimeter different: he saw himself as a fiduciary for LPs, aiming to generate significant returns for university endowments, foundations, and family offices, enabling them to support causes like free education and environmental initiatives <a class="yt-timestamp" data-t="16:51:00">[16:51:00]</a>.
+
+Gerstner also gained early insights into investing by day trading in the 90s, recognizing that the "dark secret" of investing is "there is no secret" <a class="yt-timestamp" data-t="19:10:00">[19:10:00]</a>. A pivotal moment was Rich Barton's advice: while entrepreneurs "will things into existence" and suspend disbelief, investors think about "distribution of probabilities" <a class="yt-timestamp" data-t="31:36:00">[31:36:00]</a>. This led him to believe his analytical, lawyer-like thinking was better suited for investing <a class="yt-timestamp" data-t="32:04:00">[32:04:00]</a>.
+
+### Launching in a Crisis
+Altimeter Capital officially launched on November 1, 2008, amidst the financial crisis <a class="yt-timestamp" data-t="43:46:00">[43:46:00]</a>. Despite initial commitments drying up due to widespread fear that "the financial world might be over forever," Gerstner launched with minimal capital, supported by a few day-one investors, including his brother <a class="yt-timestamp" data-t="39:56:00">[39:56:00]</a>. This period, though challenging, proved to be a "gift" in hindsight for those who could navigate it <a class="yt-timestamp" data-t="28:27:00">[28:27:00]</a>.
+
+## Altimeter's Investment Philosophy
+
+Altimeter's core strategy is built on [[Venture capital investment strategies | lifecycle investing]], operating both a public pool of capital (long-short technology with a focus on travel-related investments) and a dedicated longer-duration pool for venture and growth opportunities <a class="yt-timestamp" data-t="47:28:00">[47:28:00]</a>.
+
+### The "Industrialization of Venture"
+Gerstner believes the [[The role of venture capital and its challenges | venture market is maturing]] and becoming more efficient, with increased competition benefiting founders through better pricing and less dilution <a class="yt-timestamp" data-t="01:13:01">[01:13:01]</a>. He distinguishes Altimeter from traditional early-stage firms by not competing in the very first institutional rounds, acknowledging the specialized "craft building" support provided by firms like Benchmark and Andreessen Horowitz in the initial two to three years of a startup <a class="yt-timestamp" data-t="01:15:20">[01:15:20]</a>.
+
+### Core Investment Themes
+Altimeter's strategy involves identifying fundamental market changes and human behaviors that create opportunities for new entrants <a class="yt-timestamp" data-t="00:57:10">[00:57:10]</a>.
+1.  **Internet Commerce and Search (Early 2000s):** Recognizing the internet as "chaotic" but enabling, the firm focused on companies that could "organize it" through horizontal (Google, Baidu) and vertical search (Booking.com, Kayak, Zillow) <a class="yt-timestamp" data-t="00:57:47">[00:57:47]</a>. Beneficiaries were e-commerce businesses that could leverage these discovery engines <a class="yt-timestamp" data-t="00:58:07">[00:58:07]</a>.
+2.  **Shift to Mobile (Post-2010):** As desktop search declined with the rise of mobile devices, Altimeter identified the need to invest in companies that could become "icons on the front of this iPhone" <a class="yt-timestamp" data-t="00:58:44">[00:58:44]</a>. Facebook, for example, became a significant investment due to its monetization potential on mobile <a class="yt-timestamp" data-t="00:59:15">[00:59:15]</a>.
+3.  **Cloud Infrastructure and Databases (Mid-2000s onwards):** A major theme has been the belief that the entire database market would be remade in the cloud, purpose-built for cloud environments <a class="yt-timestamp" data-t="00:54:44">[00:54:44]</a>. Investments like Snowflake (a series C lead, still a massive stake) and MongoDB reflect this thesis <a class="yt-timestamp" data-t="02:15:00">[02:15:00]</a>. This conviction was against the prevailing pessimism about cloud computing and security concerns <a class="yt-timestamp" data-t="00:53:22">[00:53:22]</a>.
+
+### Founder-Centric Approach
+Altimeter emphasizes a "founder's mentality," combining the empathy of an early-stage venture capitalist with the scalability of capital <a class="yt-timestamp" data-t="01:17:19">[01:17:19]</a>. They aim to be "side by side" with founders on critical issues like recruiting, board building, and raising capital <a class="yt-timestamp" data-t="01:17:51">[01:17:51]</a>. The firm's concentrated portfolio allows for deep engagement and brand power that accrues to portfolio companies, aiding them in communicating their stability and backing to customers <a class="yt-timestamp" data-t="01:18:03">[01:18:03]</a>.
+
+## Capital Markets Business
+Altimeter has developed a significant capital markets business, assisting private companies in their transition to public markets <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>. With extensive experience in over 100 IPOs, they provide founders with insights into traditional IPOs, direct listings (e.g., Roblox), and SPACs (e.g., Grab), offering unbiased guidance as they have no economic incentive tied to a particular method <a class="yt-timestamp" data-t="01:21:11">[01:21:11]</a>. This service aims to demystify the public transition for CEOs and boards, who typically only navigate it once <a class="yt-timestamp" data-t="01:23:07">[01:23:07]</a>.
+
+## Market Trends and Future Outlook
+
+Gerstner advocates for a return to earlier IPOs, believing it fosters discipline in companies and provides retail investors access to the high-growth opportunities that often precede public offerings <a class="yt-timestamp" data-t="01:06:51">[01:06:51]</a>. He critiques the current system where companies stay private longer due to deep pools of private capital, leading to billions in value creation happening before public market access <a class="yt-timestamp" data-t="01:07:04">[01:07:04]</a>.
+
+> "If you look at the crypto market... you want to know the appetite of the investing public to invest in speculative assets... We used to allow retail investors and others like myself to put myself through business school investing in CMGI... but we've largely deprived the public markets of that today." <a class="yt-timestamp" data-t="01:08:01">[01:08:01]</a>
+
+### The "Invest America" Initiative
+Gerstner proposes "Invest America" as a means to democratize wealth creation and address the wealth divide <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>. His idea is to give every child born in the U.S. an "Invest America account" (similar to a Robinhood account on a parent's phone), funded based on means (e.g., $5,000 for low-income families, $100 for high-income families) <a class="yt-timestamp" data-t="01:39:46">[01:39:46]</a>. This account would compound over decades and instill financial literacy and a sense of ownership, making everyone "part of the game" <a class="yt-timestamp" data-t="01:40:46">[01:40:46]</a>. He sees the [[The intersection of venture capital and media | accredited investor laws]] as problematic barriers that restrict access to the best investment opportunities to only wealthy individuals <a class="yt-timestamp" data-t="01:38:42">[01:38:42]</a>.
+
+## [[The culture and dynamics of venture capital partnerships | Future of Venture Capital]]
+Gerstner is optimistic about the future of venture capital, anticipating continued vibrancy, more capital, and greater access to ideas <a class="yt-timestamp" data-t="01:17:15">[01:17:15]</a>. He believes the "secular curve around creative destruction and innovation has never been steeper," with future ideas dwarfing those of the past decade <a class="yt-timestamp" data-t="01:47:19">[01:47:19]</a>. He emphasizes that the increasing integration of retail investors into alternative asset classes, including private markets, is "inevitable" <a class="yt-timestamp" data-t="01:50:48">[01:50:48]</a>. The shift of global sovereign wealth from fossil fuels to technology dollars is further accelerating this trend <a class="yt-timestamp" data-t="01:50:22">[01:50:22]</a>.

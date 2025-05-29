@@ -1,0 +1,45 @@
+---
+title: The evolution and monetization of Spotifys podcasting business
+videoId: 5iLbbuEecJU
+---
+
+From: [[acquiredfm]] <br/> 
+
+Spotify has undergone a significant [[spotifys_transformation_from_a_music_to_an_audio_company | transformation from a music to an audio company]], embracing podcasting in a substantial way that has reshaped both the consumer experience and Spotify's business future <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. This strategic shift has led to remarkable [[growth_journeys_and_challenges_in_podcasting | growth for podcasts on the platform]], with a notable example being the [[history_and_growth_of_the_acquired_podcast | Acquired podcast]], which saw its Spotify listenership skyrocket from under 1,000 listeners in January 2019 to now representing the majority of its audience <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. Currently, over 60% of Acquired's audience is on Spotify, a drastic increase from nearly zero four years prior <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
+
+## Spotify's Shift to Audio
+
+The decision to pivot into audio beyond music was not born from a single "genius insight" but was largely serendipitous <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. A key realization came from observing user behavior: music labels in Germany began uploading audiobooks to Spotify because they owned the rights and saw an opportunity for new revenue as the platform grew <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. This demonstrated that users simply enjoyed consuming content on the platform, regardless of its format <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>.
+
+Internally, Spotify employees, who were themselves avid podcast listeners, experienced frustrations with the existing podcasting landscape <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. They disliked having to switch between apps for music and podcasts, struggled with poor recommendations, and found device integration lacking <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. It became clear that podcasters faced similar challenges to music creators, and Spotify's decade-long investment in solving issues like discoverability, ubiquity (playing on any device), and its freemium model for music could directly apply to podcasts <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
+
+The most contrarian decision at the time was to integrate podcasts into the same app as music, defying the prevailing "constellation of apps" wisdom <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. However, this approach was rooted in first-principles thinking: the consumer experience for audio was fundamentally similar, involving playing, discovery, ubiquity, and search, all leveraging shared infrastructure <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. Just like in the radio days, where talk radio, music, and sports coexisted on one device, Spotify believed audio content could thrive together <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>.
+
+## Monetization and Business Model Dynamics
+
+Podcasting presents a different [[the_dynamics_and_economics_of_music_streaming | business model]] landscape compared to music streaming <a class="yt-timestamp" data-t="00:17:55">[00:17:55]</a>. While music streaming typically involves a 30% platform cut and 70% shared with labels, podcasting offers the potential for greater operating leverage, especially with owned content, to build a robust ad network <a class="yt-timestamp" data-t="00:18:04">[00:18:04]</a>.
+
+However, this comes with its own challenges:
+*   **Moderation:** User-generated content requires significant investment in content moderation, which can be a substantial variable cost, unlike licensed music <a class="yt-timestamp" data-t="00:20:03">[00:20:03]</a>.
+*   **Ad Network:** Building a scalable ad network for podcasts is complex <a class="yt-timestamp" data-t="00:20:06">[00:20:06]</a>.
+*   **Cost vs. Scale:** While gross margins can be high at scale, costs for elements like moderation can also increase, challenging the "ideal social media business model" <a class="yt-timestamp" data-t="00:20:52">[00:20:52]</a>.
+
+Spotify, with its large existing ad-supported music tier, had a significant advantage in scaling an advertising business for podcasts <a class="yt-timestamp" data-t="00:23:43">[00:23:43]</a>. The goal is to offer monetization opportunities to a wide range of podcasters, especially those who are "sub-scale" and wouldn't be able to attract major advertisers on their own <a class="yt-timestamp" data-t="00:24:17">[00:24:17]</a>.
+
+The distinction between audiobooks and podcasts, from Spotify's perspective, is primarily a business model one: podcasts are largely ad-supported audio, while audiobooks are paid audio <a class="yt-timestamp" data-t="00:12:22">[00:12:22]</a>. Spotify believes audiobooks have the potential to reach hundreds of millions of listeners, far beyond the current tens of millions, by addressing pricing and discovery challenges reminiscent of the music industry in 2008 <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>. The company anticipates a future where creators can explore both ad-supported and subscription models, reflecting the broader trend towards a unified content business model where freemium is key <a class="yt-timestamp" data-t="00:15:05">[00:15:05]</a>.
+
+## Impact on the Podcasting Ecosystem and Creator Economy
+
+Spotify's entry into podcasting has brought a mass audience to the medium, enabling "mass audience for niche products" <a class="yt-timestamp" data-t="00:12:41">[00:12:41]</a>. This has opened up new monetization possibilities for creators, such as the Acquired podcast, who can now monetize through ads at a scale that traditional book publishing might not offer for their specific audience type <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>.
+
+The current media landscape sees both extreme short-form content (like TikTok) and extreme long-form content (like podcasts) thriving simultaneously <a class="yt-timestamp" data-t="00:30:20">[00:30:20]</a>. However, a major challenge for creators remains attribution – understanding which platforms and efforts genuinely drive new subscribers or engagement <a class="yt-timestamp" data-t="00:31:36">[00:31:36]</a>. Spotify aims to solve this by evolving its home feed to better merchandise content, recognizing that the commitment for a song (3 minutes) is vastly different from a podcast (potentially hours) <a class="yt-timestamp" data-t="00:33:08">[00:33:08]</a>.
+
+Spotify's role is to be the "best partner" for creators, offering low-friction ways to work and potential to customize their business <a class="yt-timestamp" data-t="01:15:04">[01:15:04]</a>. This includes facilitating monetization for creators who lack the scale to directly engage large advertisers <a class="yt-timestamp" data-t="01:15:16">[01:15:16]</a>. The company sees an [[evolution_and_future_of_online_media_and_subscription_models | evolution of online media and subscription models]], with platforms moving from simple binary models (on/off, ad-supported/paid) to offering more diverse and customized options for creators <a class="yt-timestamp" data-t="01:17:34">[01:17:34]</a>.
+
+## Strategic Growth and Culture
+
+Spotify's growth to over 500 million users has been driven by intentionally stacking multiple "s-curves" of growth strategies, rather than simply riding a single macro tailwind <a class="yt-timestamp" data-t="01:26:51">[01:26:51]</a>. This involves continually adapting business activities while maintaining platform cohesiveness <a class="yt-timestamp" data-t="01:26:31">[01:26:31]</a>.
+
+A crucial element has been being intentional about the company culture <a class="yt-timestamp" data-t="01:27:40">[01:27:40]</a>. Spotify has learned not to be a "Frankenstein monster" by blindly copying other successful tech companies' cultural expressions (e.g., Google's 20% projects, Facebook's "move fast and break things," Amazon's long-term focus) <a class="yt-timestamp" data-t="01:28:08">[01:28:08]</a>. Instead, it has focused on identifying and refining its own unique culture, even if it means happily releasing products that are "not great" initially (like audiobooks) but with the intent to iterate and improve <a class="yt-timestamp" data-t="01:30:26">[01:30:26]</a>. Conversely, for highly scrutinized areas like AI, the company ensures a high-quality launch, as seen with their AI DJ feature <a class="yt-timestamp" data-t="01:30:55">[01:30:55]</a>.
+
+Being outside Silicon Valley for its initial years allowed Spotify to figure out its own path from first principles, rather than relying on osmosis <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>. This slower start in an "empty ecosystem" ultimately enabled faster, more distinct growth later on, contributing significantly to Spotify's unique journey <a class="yt-timestamp" data-t="01:34:33">[01:34:33]</a>.
