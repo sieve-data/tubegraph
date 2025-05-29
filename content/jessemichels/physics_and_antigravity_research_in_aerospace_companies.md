@@ -1,0 +1,78 @@
+---
+title: Physics and antigravity research in aerospace companies
+videoId: iQOibpIDx-4
+---
+
+From: [[jessemichels]] <br/> 
+
+The conversation explores the possibility of undisclosed advancements in [[physics_and_exotic_propulsion_technologies | physics]], particularly concerning [[antigravity_research_and_technology | anti-gravity]], held within private industry or government programs, and its implications for modern understanding of reality and UAP phenomena <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+
+## Undisclosed Physics Updates
+
+A central question is whether updates in [[physics_and_exotic_propulsion_technologies | physics]] from the mid-20th century were withheld from the public <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This concept suggests two possibilities for the quieting down of certain research areas: either no progress was made, or significant advancements occurred and the projects "went black" <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. The concern arises from the potential "Pandora's box" that new physical insights could open, especially after the development of fusion devices <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. The speakers note that due to a perceived stagnation in [[physics_and_exotic_propulsion_technologies | physics]] for 50 years, there's a diminished habit of considering the inherent dangers of profound physical discoveries <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
+
+## Aerospace Companies as Holders of Scientific Knowledge
+
+There is a puzzle regarding the role of [[government_and_private_industry_involvement_in_unconventional_physics_research | aerospace companies]] as potential holders of basic scientific knowledge not shared with the academic world <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. While this idea may seem "very wrong," it is believed to be true <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. It is known that aerospace corporations possess "materials knowledge" that involves topological [[physics_and_exotic_propulsion_technologies | physics]] <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. Specifically, knowledge in the [[UFO_Physics_and_Advanced_Technologies | UAP area]] is sequestered from public disclosure requests (FOIA) due to proprietary appreciables, a system intentionally set up this way <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+
+However, the notion that *fundamental physical knowledge* (as opposed to condensed matter or materials science) would be housed in an aerospace company and withheld from the broader [[physics_and_exotic_propulsion_technologies | physics]] community is described as "crazy egregious" and currently lacks direct evidence <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. Such a scenario, if proven, would drastically alter the understanding of the scientific landscape since the advent of fusion devices <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>. It is posited that if [[antigravity_research_and_technology | anti-gravity]] had been mastered and built by aerospace corporations, new [[physics_and_exotic_propulsion_technologies | physics]] would necessarily be involved <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>.
+
+### The Golden Age of General Relativity and Antigravity Research
+
+The "golden age of general relativity" saw a "bizarre surge of activity" in the field from the 1950s onward, following a period of less development after Einstein <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
+
+A famous series of newspaper articles in the 1950s by Talbert revealed that several [[government_and_private_industry_involvement_in_unconventional_physics_research | aerospace engineering companies]] became suddenly interested in [[antigravity_research_and_technology | anti-gravity]] <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. Top physicists, including Bryce DeWitt, began receiving grants to study [[antigravity_research_and_technology | anti-gravity]], often tied to initiatives like the Gravity Research Foundation <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>. This flurry of activity eventually quieted down, leading to the same two implications: either it led nowhere, or it achieved something significant and "went black" <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.
+
+Two key centers of this activity are identified:
+*   **The Gravity Research Foundation** in New Boston, New Hampshire, founded by Roger Babson, supposedly motivated by a personal vendetta against gravity after his sister drowned <a class="yt-timestamp" data-t="00:11:06">[00:11:06]</a>. Babson contacted Lewis Witten (father of Edward Witten) <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>.
+*   **An institute at the University of North Carolina Chapel Hill**, founded by Bryce DeWitt, specifically focused on gravity and physical fields, supported by a similarly named individual named Bainson <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>. DeWitt's participation, including his response to a Gravity Research Foundation essay contest, helped destigmatize the field <a class="yt-timestamp" data-t="00:12:04">[00:12:04]</a>. A significant gravity conference at UNC Chapel Hill further propelled this activity <a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>.
+
+The Glenn L. Martin Company (which later became Lockheed Martin) was employing Lewis Witten to conduct [[antigravity_research_and_technology | anti-gravity research]], seemingly tied to Wright-Patterson Air Force Base in Ohio and Johns Hopkins University <a class="yt-timestamp" data-t="00:12:39">[00:12:39]</a>. This indicates a potent connection between aerospace companies, government, and universities in the post-Manhattan Project era regarding unconventional [[physics_and_exotic_propulsion_technologies | physics]] <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>.
+
+The recruitment of topologists like Solomon Lefschetz to work on non-linear mathematics with Lewis Witten, with programs later spun off into academia at Brown University, further highlights the unusual nature of this period <a class="yt-timestamp" data-t="00:13:18">[00:13:18]</a>. Many contemporary physicists are reportedly unaware of these historical connections <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>.
+
+## String Theory and Stagnation
+
+The question is raised whether string theory, which Edward Witten worked on, was "intentionally a bridge to nowhere" <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a>. It is suggested that string theory allowed [[physics_and_exotic_propulsion_technologies | physics]] to appear to be progressing while making no new ground in the physical world, potentially serving to stagnate the field <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>.
+
+## General Relativity and UAP Phenomena
+
+Not sharing knowledge that could allow for interstellar travel by rendering Einstein's theory as an "effective theory" would be considered "gross academic and intellectual malpractice" <a class="yt-timestamp" data-t="00:14:48">[00:14:48]</a>.
+
+In the context of [[UFO Propulsion and Exotic Physics | UAP propulsion]], the AATIP program, which Hal Puthoff advised, explored treating Einstein's general relativity equations like Maxwell's equations for electromagnetism <a class="yt-timestamp" data-t="00:15:19">[00:15:19]</a>. The idea is that if variables in Einstein's equations could be manipulated like those in Maxwell's, it might explain claimed [[UFO Propulsion and Exotic Physics | UAP phenomena]] <a class="yt-timestamp" data-t="00:15:52">[00:15:52]</a>. The challenge is finding the "missing key" to manipulate these variables without requiring extreme conditions like a black hole <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>.
+
+One approach discussed is promoting constants like the gravitational constant into field variables <a class="yt-timestamp" data-t="00:16:25">[00:16:25]</a>. This means something thought to be a fixed number could, in a larger space of possibilities, be variable, similar to how temperature varies across a room instead of being a single constant value <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>. If the gravitational constant were a quantum mechanical function, it would need to be treated quantum mechanically <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>.
+
+The immense weakness of gravity is highlighted as a great mystery <a class="yt-timestamp" data-t="00:18:57">[00:18:57]</a>. If Einstein's general relativity is accepted, then to explain [[UFO Propulsion and Exotic Physics | UAP maneuvers]], either humanity is "prisoners" of current understanding, or something fundamental about general relativity is "missing" <a class="yt-timestamp" data-t="00:19:41">[00:19:41]</a>.
+
+### The Aharonov-Bohm Effect and Potential Fields
+
+An analogy is drawn to electromagnetism, specifically the Aharonov-Bohm effect <a class="yt-timestamp" data-t="00:20:06">[00:20:06]</a>. This effect demonstrates that electron beams can experience a phase shift when circling a perfectly insulated solenoid, even in the absence of external electric (E) and magnetic (B) fields <a class="yt-timestamp" data-t="00:20:12">[00:20:12]</a>. This indicated that the electromagnetic four-potential, rather than just the E and B fields, was the primary actor in the electromagnetic story <a class="yt-timestamp" data-t="00:21:44">[00:21:44]</a>.
+
+This concept leads to an engineering approach involving only vector and scalar potentials, for which Hal Puthoff holds two patents and has started a new company <a class="yt-timestamp" data-t="00:23:26">[00:23:26]</a>. This involves postulating a dielectric vacuum whose permittivity (epsilon) and permeability (mu) can be manipulated <a class="yt-timestamp" data-t="00:23:58">[00:23:58]</a>. Manipulating these values changes the speed of light (c), which in turn can replicate all known tests of general relativity <a class="yt-timestamp" data-t="00:24:14">[00:24:14]</a>. The idea is that if vacuum fluctuations control epsilon and mu in electromagnetism, similar principles might control the underlying metric coefficients in general relativity <a class="yt-timestamp" data-t="00:24:44">[00:24:44]</a>.
+
+This approach suggests a more fundamental theory than general relativity, where hard-coded constants are in fact vacuum expectation values <a class="yt-timestamp" data-t="00:25:25">[00:25:25]</a>.
+
+## Geometric Unity and Multiple Temporal Dimensions
+
+Eric Weinstein's proposed "Geometric Unity" theory explores the existence of extra dimensions <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a>. Two strong versions are discussed:
+1.  **Split signature metric**: Adding six extra time dimensions (1+6=7 temporal) and four extra spatial dimensions (4+3=7 spatial), resulting in a 7x7 spacetime <a class="yt-timestamp" data-t="00:26:31">[00:26:31]</a>.
+2.  **Flipped dimensions**: Four extra time dimensions (5 total temporal) and six new spatial dimensions (9 total spatial) <a class="yt-timestamp" data-t="00:26:55">[00:26:55]</a>.
+
+Both versions involve multiple temporal dimensions, which is a rare topic in [[physics_and_exotic_propulsion_technologies | physics]] because it breaks the paradigm of Hamiltonian dynamics and a single arrow of time <a class="yt-timestamp" data-t="00:27:09">[00:27:09]</a>. Multiple time dimensions would lead to "more than one future" and a "whirlpool of time," with time orientation becoming a "right-hand rule of time" <a class="yt-timestamp" data-t="00:27:34">[00:27:34]</a>. Crucially, it would allow for reaching an earlier event in an "extra extra time dimension" without retracing time steps <a class="yt-timestamp" data-t="00:27:53">[00:27:53]</a>. This leads to "ultra-hyperbolic equations," which are poorly understood <a class="yt-timestamp" data-t="00:28:19">[00:28:19]</a>.
+
+A major concern is the potential for "hacking extra temporal dimensions" if Geometric Unity proves true <a class="yt-timestamp" data-t="00:28:31">[00:28:31]</a>. This could explain phenomena that appear to be faster-than-light travel, but are actually "temporal dimension hacking" <a class="yt-timestamp" data-t="00:28:50">[00:28:50]</a>. It could also account for [[UFO Propulsion and Exotic Physics | UAPs]] appearing to materialize and dematerialize <a class="yt-timestamp" data-t="00:29:07">[00:29:07]</a>. The ability to access "dark chemistry," "dark light," and multiple spatial and temporal dimensions beyond current knowledge raises the fear that non-human entities might already possess this understanding <a class="yt-timestamp" data-t="00:29:19">[00:29:19]</a>.
+
+## 1952 H-Bomb Detonation as a Signal
+
+The Washington D.C. [[UFO Physics and Advanced Technologies | UFO sightings]] in July 1952, shortly after the first H-bomb detonation in the Pacific, are discussed as a potential turning point <a class="yt-timestamp" data-t="00:37:33">[00:37:33]</a>. It is hypothesized that the H-bomb detonation in 1952 might have sent a signal into the cosmos, indicating that humanity was on the verge of possessing "root level knowledge" in [[physics_and_exotic_propulsion_technologies | physics]] <a class="yt-timestamp" data-t="00:37:51">[00:37:51]</a>. This could be interpreted as humanity becoming "root" (gaining full control of the system), which would be "terrifying" to any existing "system administrator" (e.g., an advanced non-human civilization) <a class="yt-timestamp" data-t="00:38:17">[00:38:17]</a>. If "someone there" heard this signal, they might have interpreted it as humanity being "on the verge of being able to come visit" them <a class="yt-timestamp" data-t="00:38:49">[00:38:49]</a>.
+
+## Roswell Material Analysis
+
+Analysis of a bismuth-magnesium piece, purportedly from the Roswell incident, found unusual properties. The magnesium ratios were "way off" natural levels <a class="yt-timestamp" data-t="00:56:01">[00:56:01]</a>. More significantly, it showed "miniaturization of waveguide channels well below wavelength," which is described as "quite an accomplishment" once the material properties are understood <a class="yt-timestamp" data-t="00:56:13">[00:56:13]</a>. While the origin story of the material is not verifiable, the physical properties themselves are considered interesting data <a class="yt-timestamp" data-t="00:56:23">[00:56:23]</a>.
+
+## Conclusion on UAP and Physics
+
+It is acknowledged that the UAP phenomenon is either "the most interesting, effective, and weird government psyop of all time," or top scientists are "missing something fundamental about the nature of reality" <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. The lack of clear video evidence of UAPs, despite pervasive cameras, remains a puzzle <a class="yt-timestamp" data-t="00:41:31">[00:41:31]</a>. It is suggested that if a craft is manipulating the space-time metric, light would bend around it, resulting in "fuzzy outlines" and "lousy pictures," even if the craft is physically present <a class="yt-timestamp" data-t="00:43:21">[00:43:21]</a>.
+
+Ultimately, to explain the UAP phenomenon, one must either postulate new [[physics_and_exotic_propulsion_technologies | physics]], identify new effects within existing [[physics_and_exotic_propulsion_technologies | physics]] (like Aharonov-Bohm), or conclude that the phenomena are "not material" and involve elements like "angels and demons and spirits" <a class="yt-timestamp" data-t="00:50:48">[00:50:48]</a>. The overall conclusion is that "there is something there" <a class="yt-timestamp" data-t="00:51:24">[00:51:24]</a>.

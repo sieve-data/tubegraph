@@ -1,0 +1,49 @@
+---
+title: Interconnection of Science and Religion
+videoId: tS_64sTN5AU
+---
+
+From: [[jessemichels]] <br/> 
+
+Diana Pasulka, a religious studies professor at the University of North Carolina Wilmington, explores the deep [[ufos_and_religious_connection | connections between UFO phenomena and religious experiences]], suggesting that what are now understood as UFO encounters bear striking resemblances to historical accounts of divine or angelic contact <a class="yt-timestamp" data-t="01:21:15">[01:21:15]</a>. Her work, particularly *American Cosmic* and *Encounters*, has significantly influenced the understanding of [[the_merging_of_science_and_spirituality_through_ufo_phenomena | the merging of science and spirituality through UFO phenomena]] <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>.
+
+## Reinterpreting Historical "Divine" Encounters
+
+Pasulka's research involved direct translations of dozens of historical cases of nuns, priests, brothers, and saints who reported direct divine or angelic contact <a class="yt-timestamp" data-t="01:17:22">[01:17:22]</a>. Her translations often differed from official Church versions, revealing commonalities with modern-day alien contact experiences <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>.
+
+For instance, the popular narrative of St. Francis of Assisi's 12th-century encounter on Mount La Verna describes him seeing Christ as a seraph <a class="yt-timestamp" data-t="01:47:00">[01:47:00]</a>. However, original translations by Thomas of Celano depict Francis encountering a "sound and fury," "atmospheric sparks," and a "flaming torch," with telepathic communication and wounds from "rays of light" <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>. These wounds were later interpreted as Christ's stigmata <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>. Pasulka highlights the similarity of these descriptions to modern accounts of radiation damage from UFO experiences <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>.
+
+Similarly, a 19th-century Catholic nun, Sister Maria, reported a shining, flame-like object emerging from her cell wall, which was interpreted as a soul from purgatory <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>. This mirrors a 20th-century account by Melissa, who saw a ball of light move through her apartment, described in John Mack's 1994 book *Abduction* as a UFO encounter <a class="yt-timestamp" data-t="02:34:00">[02:34:00]</a>. These examples suggest that modern grey aliens or flying saucers might be contemporary interpretations of past angels, demons, flaming chariots, or wheels of antiquity <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>.
+
+### The Problem of Interpretation
+Pasulka notes that the "contemporary mythology" defines how such experiences are discussed, aligning with French philosopher Henri Bergson's idea that "the eyes can only see what the mind is prepared to comprehend" <a class="yt-timestamp" data-t="03:40:00">[03:40:00]</a>. The "Tic Tac" UFO of today might be the "Flying butane tank" of the 1950s, implying that people attach the closest "meme" from their mental library to the "higher platonic thing" happening <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>. This suggests that modern UFOs may be a "smoke screen" or veil, while the underlying phenomenon transcends space and time <a class="yt-timestamp" data-t="19:32:00">[19:32:00]</a>.
+
+## Consciousness and "Protocols" in Science and Space Programs
+
+Pasulka's work delves into the role of consciousness in [[the_intersection_of_science_and_esoterica_in_space_programs | space programs]], particularly through her interactions with a pseudonymous NASA mission controller named Tyler. Tyler claimed to use "protocols" to mentally download information for biomedical innovations and successful companies <a class="yt-timestamp" data-t="06:07:00">[06:07:00]</a>. These "protocols" reminded Pasulka of religious practices like prayer or meditation, emphasizing hydration and sleep for biophysical connection to receive information <a class="yt-timestamp" data-t="08:08:00">[08:08:00]</a>.
+
+This intersects with Jacques Vallée's concept of UFOs as "control systems" that use intermittent reinforcement to influence societies <a class="yt-timestamp" data-t="09:38:00">[09:38:00]</a>. Vallée's interest in fallen angels and demons further blurs the lines between modern ufology and religious concepts, suggesting a deeper, less sensationalist view of these entities <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>.
+
+The idea that the sun, as a "nuclear fusion reactor," influences evolution and human consciousness is also explored, connecting ancient mystical views of the sun (e.g., Copernicus's mystical relationship with the sun) to modern science and the electromagnetic field of the Earth <a class="yt-timestamp" data-t="52:50:00">[52:50:00]</a>.
+
+## The "Forcing Function" of Anomalous Experiences
+
+Pasulka suggests that anomalous experiences, like UFO sightings, act as a "forcing function" that shatters individuals' defense mechanisms, pushing them toward self-reflection and a more "straight and narrow" life <a class="yt-timestamp" data-t="25:25:00">[25:25:00]</a>. This transformation can be profound, as seen in St. Francis of Assisi, whose painful encounter led him to become a better person <a class="yt-timestamp" data-t="27:43:00">[27:43:43]</a>. Similarly, Tyler's visit to the Vatican Observatory, witnessing a priest's dedication to the ill, led to a conversion experience where he wanted to help people, connecting his space program work with his Catholic faith <a class="yt-timestamp" data-t="48:44:00">[48:44:00]</a>.
+
+These experiences often involve "extra-cognitive events" or synchronicities, which provide dopamine and motivate individuals to continue their creative or productive endeavors, breaking them out of their conventional "program" <a class="yt-timestamp" data-t="43:39:00">[43:39:00]</a>.
+
+## Esoteric Roots of Space Programs
+
+The history of space programs, both Russian and American, reveals an unexpected [[the_intersection_of_science_and_esoterica_in_space_programs | intersection of science and esoterica in space programs]] <a class="yt-timestamp" data-t="55:01:00">[55:01:00]</a>. Early rocket scientists like Konstantin Tsiolkovsky (father of Russian rocketry) constructed their own "Cosmic religion" believing in human colonization of the Milky Way and immortality through space <a class="yt-timestamp" data-t="55:36:00">[55:36:00]</a>. His American counterpart, Jack Parsons, a pioneer in rocketry, was involved in occult practices and sex magic rituals, even claiming contact with entities <a class="yt-timestamp" data-t="56:02:00">[56:02:00]</a>.
+
+Pasulka also found that NASA mission launches contained iconography of Greek goddesses and utilized first/second-century Latin, suggesting a "parallel type of religion" within the space program <a class="yt-timestamp" data-t="59:41:00">[59:41:00]</a>. This highlights how complex technology often relies on unquantifiable elements like "mind-matter interaction" or the internal state of practitioners, echoing the idea that "science is a form of magic, not vice versa" <a class="yt-timestamp" data-t="01:01:00">[01:01:00]</a>.
+
+## The Limitations of "Disclosure" and a New Paradigm
+
+Pasulka critiques the concept of "disclosure" as a "very Colonial concept" because it assumes that only the US government possesses the information about UFOs, neglecting the ancient knowledge and initiation ceremonies of indigenous cultures (e.g., Native American tribes, Aboriginal Australians) who have long experienced such phenomena <a class="yt-timestamp" data-t="01:11:56">[01:11:56]</a>. This perspective highlights the Western tendency to prioritize "observables" and written scientific formats over human accounts and stories <a class="yt-timestamp" data-t="01:12:07">[01:12:07]</a>.
+
+The rise of UFO phenomena, alongside psychic spy programs becoming public, suggests a shift away from a sole "nuts and bolts" focus toward [[role_of_technology_and_science_in_understanding_reality | parapsychological and consciousness-based understandings]] <a class="yt-timestamp" data-t="01:02:08">[01:02:08]</a>. Pasulka posits a "fourth tradition" in UFO research, where scholars like herself, studying historical phenomena, collaborate with figures from classified space programs like Tyler, creating an "emergent" and transparent understanding of these complex realities <a class="yt-timestamp" data-t="01:08:38">[01:08:38]</a>.
+
+This period may signify an epistemological paradigm shift, a "re-enchantment of the world," where the long-cleaved fields of science and spirituality are coming together <a class="yt-timestamp" data-t="01:21:19">[01:21:19]</a>. Science, with its "founding myth" (Big Bang), "teleology" (evolution), and "rituals," functions as a pervasive modern religion <a class="yt-timestamp" data-t="01:21:50">[01:21:50]</a>. However, scientific breakthroughs often culminate in "spontaneous revelation," which is "inexplicable and irreducible," much like "divine inspiration" <a class="yt-timestamp" data-t="01:21:59">[01:21:59]</a>.
+
+Ultimately, the goal is not to prove the existence of specific entities (like Grays or reptilians) but to understand the profound sociological and personal impact of belief itself <a class="yt-timestamp" data-t="01:25:48">[01:25:48]</a>. The UFO phenomenon, by transgressing the boundaries between the spiritual and physical worlds, holds the power to "shatter the belief structure of a Western mind," forcing self-examination and a recognition of the reality of both human and "supernatural evil" <a class="yt-timestamp" data-t="01:27:51">[01:27:51]</a>.

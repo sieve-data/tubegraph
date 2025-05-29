@@ -1,0 +1,40 @@
+---
+title: Psychedelics and mental health treatment
+videoId: bRm6TEkM1Jw
+---
+
+From: [[jessemichels]] <br/> 
+
+[[christian_angermeiers_contributions_to_psychedelic_research | Christian Angermeier]], an entrepreneur, investor, and head of Atai Life Sciences, is actively working to demarginalize [[the_role_of_psychedelics_in_historical_and_modern_contexts | psychedelics]] and integrate them into mainstream medicine. His goal is to achieve FDA approval for their use in treating ailments such as addiction, depression, and PTSD <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## Personal Revelation and the Path to Medicalization
+Prior to the age of 34, Angermeier's only "drug" was coffee; he had never consumed alcohol, smoked cigarettes, or used marijuana <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. A series of events led him to try magic mushrooms, which he describes as the single most meaningful experience of his life <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
+
+Before his first trip, Angermeier met a neuroscientist from the University of Mannheim, who had completed his PhD with Albert Hofmann, the discoverer of LSD <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. This introduction provided him with the scientific confidence to explore the topic <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. His personal experience solidified his belief that if [[the_role_of_psychedelics_in_historical_and_modern_contexts | psychedelics]] could bring such positivity to a happy person, they could significantly aid those suffering from depression, anxiety, and addiction <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. This led to his conviction that these substances should be medically available again <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. However, he does not believe they should be broadly or recreationally distributed <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
+
+## Key Companies in Psychedelic Research
+### Compass Pathways
+Compass Pathways primarily focuses on psilocybin, the active ingredient in magic mushrooms <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. Its main focus is treatment-resistant depression <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. Regulators, politicians, and the establishment have shown surprising openness to this research due to legitimate scientific findings and the severe global mental health crisis <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>.
+
+### Atai Life Sciences
+Angermeier recognized the vastness of the [[the_role_of_psychedelics_in_historical_and_modern_contexts | psychedelic]] landscape, including substances like ketamine, LSD, MDMA, and DMT, some natural and some artificial <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>. To capture and develop all commercially viable options, he founded Atai Life Sciences <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. Atai serves as a larger platform for developing diverse [[the_role_of_psychedelics_in_historical_and_modern_contexts | psychedelics]], while Compass remains focused on psilocybin <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
+
+## The Mental Health Crisis and the Re-emergence of Psychedelics
+The openness of regulators stems from the immense scale of the mental health crisis, with hundreds of millions suffering from conditions like depression, anxiety, addiction, and PTSD <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. This creates significant pressure to find solutions <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
+
+### [[history_and_marginalization_of_psychedelics | History and Marginalization of Psychedelics]]
+The speaker suggests that the [[history_and_marginalization_of_psychedelics | marginalization of psychedelics]] was partly due to their association with the counterculture and hippie movement in the late 1960s <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. While psilocybin was once legally used as medication for depression in some countries, the problem of mental health was smaller, and diagnostic capabilities were less advanced <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>. Additionally, the scientific understanding of how [[the_role_of_psychedelics_in_historical_and_modern_contexts | psychedelics]] affect the brain was less clear <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>. This convergence of factors allowed the government to demonize the hippie movement by associating them with "crazy" drug use, particularly in the context of anti-Vietnam War sentiment <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+
+### [[influence_of_hallucinogens_in_ancient_cultures | Influence of Hallucinogens in Ancient Cultures]]
+Author Brian Muraresku's book, *The Immortality Key*, highlights the ancient use of these substances <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. Many figures considered forefathers of Western Civilization, such as Plato, Aristotle, and Alcibiades, participated in [[ritualized_psychedelic_trips_in_western_civilization | ritualized psychedelic trips in Western civilization]] at a site 13 miles northwest of Athens <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. Participants reported experiencing "noesis" or witnessing their mortal soul, which resonates with modern applications of psilocybin, where terminally ill patients fear death less <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+
+Angermeier emphasizes that taking [[the_role_of_psychedelics_in_historical_and_modern_contexts | psychedelics]] often leads to a spiritual experience <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>. He suggests that Muraresku's work provides evidence that "all the founders of religions did" such things <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>. Angermeier even humorously suggests that the biblical "burning bush" experience of Moses could be interpreted as a DMT trip <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>. This connects to [[psychedelics_and_their_potential_influence_on_religious_practices | psychedelics and their potential influence on religious practices]].
+
+## Root Causes of Modern Mental Health Issues
+Angermeier identifies three pillars contributing to the rise in loneliness and depression:
+1.  **Fear of Dying:** Humans are permanently terrified of their own death and, even more so, the death of loved ones <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. Religion and faith traditionally served as a counterbalance to this "nagging terror" <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>.
+2.  **Lack of Purpose:** People desire purpose, to feel needed, included, and to understand their daily activities within a larger concept <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. Technological innovation is eroding this sense of purpose as a majority of jobs may not exist in 10-20 years, leading to a "futurephobia" <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>.
+3.  **Erosion of Communities:** The disintegration of community structures and relationships contributes to mental health decline <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. The word "loneliness" itself emerged during Victorian England's Industrial Revolution, indicating a shift from a previous concept of "loneliness" <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>. Loneliness can lead to severe health issues, with lonely individuals in nursing homes dying significantly earlier <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>.
+
+## Future Applications
+Given the profound impact of loneliness, Angermeier believes that people in nursing homes could benefit from medically assisted [[the_role_of_psychedelics_in_historical_and_modern_contexts | psychedelic trips]] once or twice a year, though this would require further research <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>.

@@ -1,0 +1,63 @@
+---
+title: Consciousness beyond physicalism
+videoId: eQIMantuasQ
+---
+
+From: [[jessemichels]] <br/> 
+
+Consciousness, at its core, remains an enigma; its true nature is unknown, and certain functions of the mind cannot be solely attributed to brain processes <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>, <a class="yt-timestamp" data-t="00:20:37">[00:20:37]</a>. [[Exploration of Human Consciousness and Spirituality | This exploration of human consciousness]] often leads into parapsychology, a field of physics focused on "mind over matter" phenomena <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
+
+## Challenging Physicalism: The Transmission Theory of Consciousness
+
+Traditional understanding posits that consciousness is confined by our five senses and memory, a model that parapsychological phenomena like remote viewing fundamentally challenge <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+
+A prominent analogy used to explain consciousness beyond physicalism is that of a television <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. The television set itself does not generate the program being watched; rather, it receives a signal transmitted over the airwaves <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. Similarly, the brain may function as a receiver of consciousness, not its generator <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>. When components of the brain are damaged or "unplugged," the "picture" of consciousness may be distorted, but this does not prove the brain *generates* consciousness any more than a broken TV generates its own distorted program <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>, <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>.
+
+The "binding problem of consciousness," where sensory inputs like sight and sound coalesce into a unified experience, is unresolved within physicalist models <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. The ability to perceive things at a distance, known as remote viewing, provides "verifiable evidence" that the "transmission concept of consciousness" is more probable than the physicalist model, which claims consciousness is solely a product of the brain <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>, <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+
+## Evidence from Parapsychology
+
+### The Stargate Project: Psychic Spies
+
+The Stargate Project was a psychic spy program run by the CIA from 1972 to 1995 <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>, <a class="yt-timestamp" data-t="00:15:15">[00:15:15]</a>. Participants, known as remote viewers, used their minds to perceive and describe distant objects, locations, and events, such as Russian nuclear bases or lost American hostages <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>, <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>, <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>. The program was launched after physicist Hal Puthoff's experiments with psychic Ingo Swann, who accurately remote viewed the readouts of a highly shielded quark detector in 1972 <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>, <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>. The Stargate Project was declassified in 2017, with its files available online <a class="yt-timestamp" data-t="00:22:35">[00:22:35]</a>.
+
+Notable successes of the Stargate Project include:
+*   **Typhoon Submarine:** Joe McMoneagle, referred to as "Remote Viewer Number One," vividly described a novel Russian nuclear submarine (the Typhoon) in 1979, eight months before it was publicly revealed <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>, <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>, <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. His description included specific details, such as the ballistic missile tubes being located in front of the sail, which was unprecedented at the time <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
+*   **Downed Spy Plane:** Rosemary Smith, tasked by Stargate lead Dale Graf, identified the crash site of a downed TU-22 spy plane in Zaire within a three-square-mile area on the entire continent of Africa <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>, <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. President Jimmy Carter was reportedly "shocked" by the accuracy <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
+*   **USS Stark Incident:** Paul Smith, another Stargate remote viewer, described the USS Stark incident in 1987, including an aircraft dropping two cylinders with stubby wings (Exocet missiles) that made roaring sounds, leading to smoke, flames, and the vessel listing to one side, days before the attack occurred <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>, <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+
+#### Training in Remote Viewing
+Remote viewing can be learned by organizing one's conscious perceptual experiences to access distant information <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. Key elements of training include:
+*   **Recognizing the Signal:** The signal is subtle and often initially unrecognized <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>.
+*   **Recognizing Mental Noise:** The left brain tends to interpret abstract impressions as familiar objects, leading to false conclusions (e.g., mistaking crisscrossing metal girders for a bridge instead of the Eiffel Tower) <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>.
+*   **Zen Component:** Success in remote viewing requires detachment from the outcome, focusing instead on the process and discipline involved <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>. This "Zen component" can also apply to real-world problems caused by preconceptions and judgments <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>.
+
+### Random Event Generators (REGs)
+
+Herb Metz, a parapsychologist from Princeton University who spent over a decade at the Princeton Engineering Anomalies Research (PEAR) Lab, focused on experiments with Random Event Generators (REGs) <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>, <a class="yt-timestamp" data-t="00:14:43">[00:14:43]</a>. The PEAR Lab was founded in 1979 by plasma physicist Bob Jahn after a student demonstrated anomalous mind-over-matter effects with an REG <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>.
+
+REGs utilize a quantum process, such as radioactive isotope decay, to produce provably random binary outputs (ones and zeros) <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>, <a class="yt-timestamp" data-t="00:14:26">[00:14:26]</a>. Over long periods, the output should show an equal distribution of ones and zeros, similar to a coin toss <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. However, experiments have demonstrated that an observer's intention can cause a statistically significant skewing effect on the output <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. When subjects intended to produce more ones, the chart of the output would trend upwards; when they intended more zeros, it would trend downwards; and when they aimed for an even distribution, it remained centered <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a>. This "beautiful graph" from the PEAR data "pretty definitively" shows subjects could influence the REGs <a class="yt-timestamp" data-t="00:15:17">[00:15:17]</a>.
+
+#### The Experimenter Effect and Epistemological Shift
+A challenge in validating REG experiments in the mainstream is the "experimenter effect" <a class="yt-timestamp" data-t="00:16:14">[00:16:14]</a>. A skeptical observer, like James Randi or Michael Shermer, might inadvertently affect the results due to their intention to disprove the phenomenon <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a>. This suggests that a priori skepticism can influence the outcome, leading to an "impossible loop" and potentially disrupting traditional scientific epistemology <a class="yt-timestamp" data-t="00:16:28">[00:16:28]</a>, <a class="yt-timestamp" data-t="00:16:37">[00:16:37]</a>.
+
+Gertrude Schmeidler's parapsychology studies in the 1950s-70s found that "sheep" (believers in psychic phenomena) consistently achieved better effects than "goats" (non-believers), indicating that the experimenter's or subject's belief system can influence the study's results <a class="yt-timestamp" data-t="00:16:49">[00:16:49]</a>.
+
+### The Mind Lamp
+Herb Metz developed variations of REGs, such as the "Mind Lamp," which has an REG built into its base that affects the lamp's coloring <a class="yt-timestamp" data-t="00:20:53">[00:20:53]</a>. Psychologists used these lamps in their offices, noting their influence <a class="yt-timestamp" data-t="00:21:04">[00:21:04]</a>. An example of influencing the Mind Lamp demonstrated a 2% chance of achieving a specific color on the first try within 30 seconds <a class="yt-timestamp" data-t="00:21:42">[00:21:42]</a>.
+
+## Scientific Paradigm Shift
+
+The current scientific paradigm often suppresses competing worldviews <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>. Just as the geocentric model was replaced by the heliocentric model, physicalism, the current "received view," is challenged when phenomena occur independently of known physical forces <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>, <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>.
+
+While conventional physics has progressed significantly, it has stagnated since the early 1970s, with much talent and spending directed towards abstract string theory, which has not produced useful technology <a class="yt-timestamp" data-t="00:23:07">[00:23:07]</a>. In contrast, [[Quantum biology and consciousness | quantum physics]] has been responsible for an estimated one-third of the GDP <a class="yt-timestamp" data-t="00:23:26">[00:23:26]</a>.
+
+Parapsychology, despite having "hard-headed experiments" and government programs spanning decades, has received minimal funding—less than $30 million globally in the last 100 years, significantly less than a single particle accelerator <a class="yt-timestamp" data-t="00:23:31">[00:23:31]</a>, <a class="yt-timestamp" data-t="00:23:41">[00:23:41]</a>, <a class="yt-timestamp" data-t="00:23:46">[00:23:46]</a>.
+
+While there are challenges with repeatability and instrumentalizing parapsychology into predictable technology, the dramatic implications for science and the way we live warrant further investigation and resources <a class="yt-timestamp" data-t="00:23:50">[00:23:50]</a>, <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>.
+
+### The Future of [[Consciousness and advanced technology | Consciousness and Technology]]
+
+[[Consciousness and advanced technology | Advanced technology]] is developing tools to separate mind functions from brain functions and then recombine them to understand their interaction <a class="yt-timestamp" data-t="00:19:32">[00:19:32]</a>, <a class="yt-timestamp" data-t="00:19:43">[00:19:43]</a>. Techniques like transcranial magnetic stimulation may allow for interventions that enhance individuals' ability to affect devices like REGs <a class="yt-timestamp" data-t="00:19:57">[00:19:57]</a>. This suggests the possibility of "zapping the part that inhibits you from getting a better effect," implying a self-regulation process that limits our current abilities <a class="yt-timestamp" data-t="00:20:11">[00:20:11]</a>.
+
+There is an optimistic outlook for [[Consciousness and advanced technology | consciousness research]] <a class="yt-timestamp" data-t="00:20:24">[00:20:24]</a>. Despite neuroscience's current focus on the brain, it is "inevitable" that functions of the mind will be discovered that cannot be purely described by brain processes, indicating a causal activity not predictable from prior brain states <a class="yt-timestamp" data-t="00:20:29">[00:20:29]</a>, <a class="yt-timestamp" data-t="00:20:47">[00:20:47]</a>. The current "mechanical" scientific paradigm, focused on physical survival and external conveniences, is becoming too narrow <a class="yt-timestamp" data-t="00:18:17">[00:18:17]</a>. A shift towards more internal understanding, seeking meaningful life beyond material science, reflects a growing awareness that the current worldview excludes much of what is possible <a class="yt-timestamp" data-t="00:18:42">[00:18:42]</a>.

@@ -1,0 +1,48 @@
+---
+title: Dr Avi Loebs theories on extraterrestrial life
+videoId: _bM9eAtCOGw
+---
+
+From: [[jessemichels]] <br/> 
+
+Dr. Avi Loeb, a Harvard astronomer, is a prominent voice in the scientific community advocating for the serious study of [[Speculations on extraterrestrial life and UFOs | extraterrestrial life]] and unidentified aerial phenomena (UAPs) <a class="yt-timestamp" data-t="02:08:26">[02:08:26]</a>. He believes it is "the epitome of human hubris to claim that we are alone and at the center of the universe" <a class="yt-timestamp" data-t="02:41:09">[02:41:09]</a>.
+
+## The Fermi Paradox and Human Hubris
+
+Loeb addresses Enrico Fermi's paradox, "Where is everybody?" <a class="yt-timestamp" data-t="13:07:34">[13:07:34]</a>, by suggesting that looking for [[Speculations on extraterrestrial life and UFOs | extraterrestrials]] requires active observation, much like using a fishing net to find fish in the ocean <a class="yt-timestamp" data-t="13:28:47">[13:28:47]</a>. He argues that humanity's current level of intelligence might be perceived as insufficient by an "interstellar committee" due to how humans treat each other, behave carelessly, and disregard the environment <a class="yt-timestamp" data-t="22:01:06">[22:01:06]</a>. He finds the practice of sending "burnt up DNA" (ashes) into space, such as Clyde Tombaugh's on the New Horizons probe, to be "very embarrassing" as it represents a destruction of information about the person being commemorated <a class="yt-timestamp" data-t="22:28:02">[22:28:02]</a>.
+
+Loeb also suggests that advanced civilizations might retreat into virtual realities, explaining why they haven't made contact <a class="yt-timestamp" data-t="16:49:15">[16:49:15]</a>. He believes such civilizations would still produce "trash" that could be found in space through "archaeology in space," similar to how reporters examine celebrity trash cans <a class="yt-timestamp" data-t="17:01:46">[17:01:46]</a>.
+
+## The Oumuamua Anomaly
+
+Dr. Loeb's interest in the subject was significantly "triggered" by the appearance of Oumuamua in 2017 <a class="yt-timestamp" data-t="06:48:42">[06:48:42]</a>. Discovered by the Pan-STARRS telescope in Hawaii, Oumuamua, meaning "a scout, a messenger from far away" in Hawaiian, was a fast-traveling interstellar object about the size of a football field <a class="yt-timestamp" data-t="06:53:33">[06:53:33]</a>. It baffled scientists because it didn't fit known criteria for asteroids or comets <a class="yt-timestamp" data-t="07:11:03">[07:11:03]</a>. Notably, it lacked a cometary tail and exhibited erratic changes in speed <a class="yt-timestamp" data-t="07:14:14">[07:14:14]</a>.
+
+Loeb observed that all proposed explanations for Oumuamua's anomalies "invoked a rock of a type that we've never seen before" <a class="yt-timestamp" data-t="07:22:56">[07:22:56]</a>. He used the analogy of a caveman finding a cell phone and concluding it was "a rock of a type that we've never seen before" <a class="yt-timestamp" data-t="07:36:26">[07:36:26]</a>. Given that nature doesn't typically produce thin, solid objects with a length-to-width ratio above three, Loeb speculated that Oumuamua might be "intelligently designed," possibly a light sail <a class="yt-timestamp" data-t="08:20:47">[08:20:47]</a>. His book, *Extraterrestrial*, details this theory, which faced backlash from peers <a class="yt-timestamp" data-t="08:34:42">[08:34:42]</a>.
+
+A potential vindication for Loeb's theory came in September 2020 when Pan-STARRS found another baffling object, similarly traveling away from the sun without a cometary tail or visible propulsion <a class="yt-timestamp" data-t="08:57:02">[08:57:02]</a>. This object was later identified as a forgotten rocket booster from a 1966 NASA mission, which used sunlight for propulsion <a class="yt-timestamp" data-t="09:08:44">[09:08:44]</a>. Loeb argues that if humans can build light sails, so can [[Speculations on extraterrestrial life and UFOs | extraterrestrials]] <a class="yt-timestamp" data-t="09:24:25">[09:24:25]</a>.
+
+## The Galileo Project
+
+In response to the limitations of government data on UAPs <a class="yt-timestamp" data-t="01:57:34">[01:57:34]</a>, Dr. Loeb launched the Galileo Project <a class="yt-timestamp" data-t="02:23:18">[02:23:18]</a>. The project aims to "build our own observatories" designed to determine the nature of unusual objects identified by the military <a class="yt-timestamp" data-t="02:16:32">[02:16:32]</a>. It will deploy a multi-sensory system, combining optical, radar, magnetic, infrared, and audio sensors on top of the Harvard College Observatory <a class="yt-timestamp" data-t="02:26:08">[02:26:08]</a> <a class="yt-timestamp" data-t="11:51:24">[11:51:24]</a>.
+
+A key aspect of the Galileo Project is its commitment to open data and transparent analysis, using artificial intelligence (AI) algorithms to classify objects as birds, drones, or "something else" <a class="yt-timestamp" data-t="11:41:09">[11:41:09]</a> <a class="yt-timestamp" data-t="12:00:15">[12:00:15]</a>. Loeb emphasizes that "science is done... using instruments that you have full control over" <a class="yt-timestamp" data-t="11:03:36">[11:03:36]</a>, dismissing eyewitness testimonies and military-grade equipment as insufficient for scientific papers <a class="yt-timestamp" data-t="10:57:06">[10:57:06]</a> <a class="yt-timestamp" data-t="11:10:04">[11:10:04]</a>. This approach contrasts with past government programs like Project Blue Book, which eventually downplayed the UAP phenomenon <a class="yt-timestamp" data-t="05:43:24">[05:43:24]</a>.
+
+## Searching for Signs of Life
+
+Loeb hypothesizes that if a technologically advanced civilization exists on a planet like Proxima b (which has a permanent dayside and nightside), they might put photovoltaic cells on the dayside to illuminate the nightside <a class="yt-timestamp" data-t="20:29:05">[20:29:05]</a>. He and a student published a paper suggesting the James Webb Space Telescope could search for "city lights" on the night side of Proxima b <a class="yt-timestamp" data-t="20:52:43">[20:52:43]</a>.
+
+Loeb also believes that initial contact with [[Speculations on extraterrestrial life and UFOs | extraterrestrial life]] is "much more likely" to be with their "equipment" (like AI-driven probes) rather than living creatures, as living beings cannot survive space exposure to cosmic rays <a class="yt-timestamp" data-t="17:54:49">[17:54:49]</a>. This perspective aligns with his view that humanity's "technological kids" – AI systems – will be humanity's future in space <a class="yt-timestamp" data-t="04:19:20">[04:19:20]</a>.
+
+## Government Secrecy and Historical Context
+
+The US government has a history of investigating UAPs, with the Air Force establishing "Operation Blue Book" from 1947 to 1952 <a class="yt-timestamp" data-t="04:54:19">[04:54:19]</a>. Events like the 1952 "invasion of Washington" sightings prompted the CIA to label the phenomenon a "matter of national security" that could cause "mass hysteria and panic" <a class="yt-timestamp" data-t="05:17:34">[05:17:34]</a>. A commission then suggested downplaying the phenomenon through media <a class="yt-timestamp" data-t="05:39:03">[05:39:03]</a>.
+
+Despite this, the Pentagon released a report on June 25, 2021, acknowledging "unidentified aerial phenomena" <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>. Loeb suggests that while the government "owns all the data, all the footage, all the materials" <a class="yt-timestamp" data-t="02:00:20">[02:00:20]</a>, it may have classified high-quality data to prevent adversaries from knowing the quality of its instruments <a class="yt-timestamp" data-t="11:27:06">[11:27:06]</a>. He argues that astronomers don't typically see UAPs because they focus on distant, stationary sources, ignoring nearby objects <a class="yt-timestamp" data-t="12:44:48">[12:44:48]</a>.
+
+## Personal Stance and Motivation
+
+Loeb describes himself as a "farm boy that is curious" <a class="yt-timestamp" data-t="06:45:21">[06:45:21]</a>. He maintains that while "the universe is accelerating its expansion" due to "anti-gravity" <a class="yt-timestamp" data-t="24:09:44">[24:09:44]</a>, whether humans can "harvest that negative gravity... on a local level" for technologies like anti-gravity is unknown <a class="yt-timestamp" data-t="24:55:04">[24:55:04]</a>.
+
+He acknowledges that [[the_intersection_of_ancient_myths_and_modern_beliefs_about_extraterrestrial_life | ancient myths]] and historical anomalies, such as megalithic architecture or Sumerian astronomy showing a "heliocentric universe" <a class="yt-timestamp" data-t="19:01:03">[19:01:03]</a>, are "pretty interesting" and could mean "we definitely could learn something new about our history by finding our neighbors or welcoming guests" <a class="yt-timestamp" data-t="19:37:34">[19:37:34]</a>.
+
+Despite potential "wounds" from interaction with "conservative colleagues," Loeb feels it's his duty to "put his body on the barbed wire" to advance this important subject for humanity <a class="yt-timestamp" data-t="26:11:51">[26:11:51]</a>. He echoes Blaise Pascal's wager, stating that while we don't know if [[Speculations on extraterrestrial life and UFOs | extraterrestrial life]] exists, the implications if it does are "huge," and thus, "we should not dismiss it up front" <a class="yt-timestamp" data-t="25:31:02">[25:31:02]</a>.

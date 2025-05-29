@@ -1,0 +1,47 @@
+---
+title: Mind Control and Remote Viewing Programs
+videoId: 2SQXAPCdmPE
+---
+
+From: [[jessemichels]] <br/> 
+
+Daniel P. Sheehan, an attorney involved in numerous 20th-century American conspiracies, has deep knowledge of [[remote_viewing_and_psychic_espionage | psychic spying]] and [[mk_ultra_mind_control_program | mind control programs]] due to his unique access to classified documents and personal involvement in related cases <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
+
+## Remote Viewing
+
+Sheehan states that [[remote_viewing_and_psychic_espionage | remote viewing]] capabilities are a real and highly sophisticated area of study within government programs <a class="yt-timestamp" data-t="03:28:46">[03:28:46]</a> <a class="yt-timestamp" data-t="03:29:51">[03:29:51]</a>. This field has been of significant interest to aerospace and [[remote_viewing_and_parapsychology | parapsychology]] for a long time, despite being largely hidden <a class="yt-timestamp" data-t="01:08:19">[01:08:19]</a> <a class="yt-timestamp" data-t="01:08:23">[01:08:23]</a>. According to Sheehan, entities like Skunk Works, Lockheed Martin's secretive division, are interested in [[remote_viewing_and_parapsychology | parapsychology]] because anything that procures an advantage is studied <a class="yt-timestamp" data-t="01:09:18">[01:09:18]</a> <a class="yt-timestamp" data-t="01:09:23">[01:09:23]</a>.
+
+### Key Figures and Programs
+
+- **Hal Puthoff and Russell Targ:** Key figures in [[remote_viewing_and_its_successes | remote viewing]] research <a class="yt-timestamp" data-t="03:22:38">[03:22:38]</a> <a class="yt-timestamp" data-t="03:24:06">[03:24:06]</a>.
+- **Pat Price:** Described as an exceptionally accomplished [[remote_viewing_and_its_successes | remote viewer]] <a class="yt-timestamp" data-t="03:33:04">[03:33:04]</a> <a class="yt-timestamp" data-t="03:40:36">[03:40:36]</a>.
+  - Price was capable of remotely viewing highly secure U.S. facilities and describing their internal layouts, including documents in file cabinets <a class="yt-timestamp" data-t="03:52:14">[03:52:14]</a> <a class="yt-timestamp" data-t="03:59:55">[03:59:55]</a> <a class="yt-timestamp" data-t="04:08:08">[04:08:08]</a>.
+  - He could pinpoint the exact longitude and latitude of a submerged Russian nuclear submarine simply by seeing its photograph <a class="yt-timestamp" data-t="04:08:46">[04:08:46]</a> <a class="yt-timestamp" data-t="04:10:03">[04:10:03]</a>.
+  - Price was also involved in an experiment where his telepathic message, projected via a helmet and large communication dishes to Michigan's northern peninsula, resulted in 85% of people filing their taxes at a specific West Virginia post office <a class="yt-timestamp" data-t="04:12:09">[04:12:09]</a> <a class="yt-timestamp" data-t="04:24:45">[04:24:45]</a>.
+- **Ingo Swann:** Also a high-level clear of the Church of Scientology, he filed reports to the Church's Guardian Office about the internal operations of the Office of Naval Intelligence's [[stargate_program_and_psychic_spying | remote viewing program]] <a class="yt-timestamp" data-t="03:34:07">[03:34:07]</a> <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a> <a class="yt-timestamp" data-t="03:57:04">[03:57:04]</a> <a class="yt-timestamp" data-t="03:59:12">[03:59:12]</a>.
+- **Office of Naval Intelligence (ONI):** According to Sheehan, ONI ran a [[military_and_intelligence_applications_of_remote_viewing | remote viewing program]] that predated the well-known [[stargate_program_and_psychic_spying | Stargate Program]] <a class="yt-timestamp" data-t="03:35:00">[03:35:00]</a> <a class="yt-timestamp" data-t="03:38:35">[03:38:35]</a>.
+- **China:** The Chinese Academy of Social Sciences has a faculty in Beijing with 300 top professors exploring psychic abilities through experiments, demonstrating a real and ongoing interest in this area <a class="yt-timestamp" data-t="01:07:16">[01:07:16]</a> <a class="yt-timestamp" data-t="01:07:54">[01:07:54]</a> <a class="yt-timestamp" data-t="01:08:00">[01:08:00]</a>.
+
+### Remote Viewing and Consciousness
+
+Sheehan believes the UFO phenomenon is deeply connected to consciousness, with non-human intelligences monitoring humanity's state of consciousness because it is crucial to them <a class="yt-timestamp" data-t="03:20:03">[03:20:03]</a> <a class="yt-timestamp" data-t="03:22:25">[03:22:25]</a>. They use consciousness to drive and navigate their craft telepathically <a class="yt-timestamp" data-t="03:22:25">[03:22:25]</a> <a class="yt-timestamp" data-t="03:24:06">[03:24:06]</a>. This connection between psychic faculties and UFOs is considered a very real transition period into a new paradigm for humanity <a class="yt-timestamp" data-t="01:03:03">[01:03:03]</a> <a class="yt-timestamp" data-t="01:04:07">[01:04:07]</a> <a class="yt-timestamp" data-t="01:08:04">[01:08:04]</a> <a class="yt-timestamp" data-t="01:10:41">[01:10:41]</a>.
+
+## Mind Control
+
+Sheehan personally handled the only successful legal case against the [[mk_ultra_mind_control_program | MK Ultra mind control program]] <a class="yt-timestamp" data-t="02:09:01">[02:09:01]</a>. This case involved a man who was unknowingly given massive doses of LSD during counseling sessions at a New York City hospital <a class="yt-timestamp" data-t="02:10:06">[02:10:06]</a> <a class="yt-timestamp" data-t="02:10:12">[02:10:12]</a> <a class="yt-timestamp" data-t="02:10:18">[02:10:18]</a>. He died of a heart attack after a second dose <a class="yt-timestamp" data-t="02:10:39">[02:10:39]</a>.
+
+### CIA Involvement
+
+The case revealed that lawyers from the Army and intelligence community, including future U.S. Senator Jacob Javits and future Chief Justice Warren Burger, covered up the incident <a class="yt-timestamp" data-t="02:10:44">[02:10:44]</a> <a class="yt-timestamp" data-t="02:10:52">[02:10:52]</a> <a class="yt-timestamp" data-t="02:11:11">[02:11:11]</a> <a class="yt-timestamp" data-t="02:11:18">[02:11:18]</a> <a class="yt-timestamp" data-t="02:11:23">[02:11:23]</a>. The judge in the case ordered a settlement when this information was discovered during discovery <a class="yt-timestamp" data-t="02:11:42">[02:11:42]</a> <a class="yt-timestamp" data-t="02:11:48">[02:11:48]</a>.
+
+The initial purpose of [[mk_ultra_and_cia_mind_control_techniques | MK Ultra mind control techniques]] was to use LSD as an interrogation device to dissolve conceptual boundaries and extract information from individuals <a class="yt-timestamp" data-t="02:12:08">[02:12:08]</a> <a class="yt-timestamp" data-t="02:12:31">[02:12:31]</a>.
+
+### Potential Broader Implications
+
+Sheehan discusses the possibility that there might have been a broader agenda to [[mk_ultra_and_cia_mind_control_techniques | construct killers]] or use local violence for mass pacification, citing the example of Charles Manson <a class="yt-timestamp" data-t="02:13:35">[02:13:35]</a> <a class="yt-timestamp" data-t="02:13:42">[02:13:42]</a>. However, he emphasizes that while conceivable, such theories require rigorous corroboration <a class="yt-timestamp" data-t="02:13:48">[02:13:48]</a>.
+
+## Intersections and Connections
+
+The discussion often returns to the intertwined nature of UFOs, [[remote_viewing_and_parapsychology | psychic capacities]], and [[mk_ultra_mind_control_program | mind control]] research within government and intelligence circles <a class="yt-timestamp" data-t="02:14:13">[02:14:13]</a> <a class="yt-timestamp" data-t="02:14:19">[02:14:19]</a>. The phenomenon of individuals attracting UFOs or esoteric information, such as Chris Bledsoe or Steven Greer with his C5 protocols, suggests that some government strata are interested in people as conduits for information <a class="yt-timestamp" data-t="01:02:53">[01:02:53]</a> <a class="yt-timestamp" data-t="01:03:09">[01:03:09]</a> <a class="yt-timestamp" data-t="01:03:14">[01:03:14]</a> <a class="yt-timestamp" data-t="01:03:25">[01:03:25]</a> <a class="yt-timestamp" data-t="01:03:31">[01:03:31]</a> <a class="yt-timestamp" data-t="01:03:37">[01:03:37]</a> <a class="yt-timestamp" data-t="01:03:42">[01:03:42]</a> <a class="yt-timestamp" data-t="01:03:48">[01:03:48]</a>. This highlights a possible interest in the evolving psychic capacities of the human family <a class="yt-timestamp" data-t="00:57:39">[00:57:39]</a> <a class="yt-timestamp" data-t="00:57:45">[00:57:45]</a>.
+
+Sheehan emphasizes the need to collect all information and then categorize it based on consistency, rather than dismissing it a priori <a class="yt-timestamp" data-t="00:49:21">[00:49:21]</a> <a class="yt-timestamp" data-t="00:49:27">[00:49:27]</a> <a class="yt-timestamp" data-t="00:49:31">[00:49:31]</a> <a class="yt-timestamp" data-t="00:49:37">[00:49:37]</a> <a class="yt-timestamp" data-t="00:49:40">[00:49:40]</a> <a class="yt-timestamp" data-t="02:55:50">[02:55:50]</a>. He highlights that academic institutions often fail to advance human knowledge significantly in these areas due to institutionalized biases against subjects like [[remote_viewing_and_parapsychology | parapsychology]] <a class="yt-timestamp" data-t="02:50:02">[02:50:02]</a> <a class="yt-timestamp" data-t="02:50:07">[02:50:07]</a> <a class="yt-timestamp" data-t="02:50:14">[02:50:14]</a> <a class="yt-timestamp" data-t="02:50:41">[02:50:41]</a> <a class="yt-timestamp" data-t="02:50:57">[02:50:57]</a>.

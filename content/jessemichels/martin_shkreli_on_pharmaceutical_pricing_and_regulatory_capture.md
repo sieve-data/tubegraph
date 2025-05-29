@@ -1,0 +1,29 @@
+---
+title: Martin Shkreli on pharmaceutical pricing and regulatory capture
+videoId: 2Mb6NPPjCyg
+---
+
+From: [[jessemichels]] <br/> 
+
+Martin Shkreli, infamously known as the "pharma bro," became a polarizing figure in 2015 when his company acquired the drug Daraprim and drastically increased its price <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. While not endorsing all of Shkreli's past actions <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, this article explores his perspectives on pharmaceutical pricing, regulatory capture, and the broader healthcare system.
+
+## The Daraprim Controversy
+In 2015, Shkreli's company purchased Daraprim, a drug used to treat AIDS-induced toxoplasmosis, and raised its price from $13.50 to over $700 per pill <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. While the initial price of $13.50 might have been economically inefficient <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>, critics argue that making money through "pure rent seeking and regulatory capture is still whack" <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. This price gouging, according to the interviewer, did not drive real medical research and development and did not reflect Daraprim's remarkably cheap production cost <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
+
+Shkreli maintains that he made the drug accessible to those who couldn't afford the higher price <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. He notes that 60% of what he sold went for about a dollar <a class="yt-timestamp" data-t="01:00:03">[01:00:03]</a>, and no one needing Daraprim went without it <a class="yt-timestamp" data-t="01:00:16">[01:00:16]</a>. He also points out that Daraprim is not the only drug for toxoplasmosis; Bactrim, a common antibiotic, works just as well and is much cheaper <a class="yt-timestamp" data-t="01:00:27">[01:00:27]</a>. Despite this, he anticipated that doctors would not be "smart enough" to realize Bactrim was an equally effective alternative <a class="yt-timestamp" data-t="01:01:03">[01:01:03]</a>.
+
+Shkreli's legal troubles, however, stemmed from securities fraud, not the Daraprim price hike, which was entirely legal <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. He believes this was used as a cover by the establishment to "take him out" <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>.
+
+## Systemic Issues in Pharmaceutical Pricing
+Shkreli argues that his actions with Daraprim are not unique and that such behavior is "rampant in big pharma and American corporations," often going unnoticed <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>. He suggests that what sets him apart is his "troll and provocateur" nature, which brought attention to common, yet problematic, industry practices <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. He views himself as merely a "symptom of a systemically [messed] up healthcare apparatus in the U.S." <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>.
+
+He likens drug pricing to a burger chain selling burgers for 10 cents while competitors charge $5 <a class="yt-timestamp" data-t="01:56:00">[01:56:00]</a>. In his view, raising the price to match market value is rational, and Daraprim was still much cheaper than average cancer or Hep C drugs <a class="yt-timestamp" data-t="01:59:00">[01:59:00]</a>. He states he made similar price adjustments seven times before without media attention <a class="yt-timestamp" data-t="01:59:00">[01:59:00]</a>.
+
+A key example he cites is Abbott (now AbbVie), which significantly raised the price of Norvir, an HIV drug, overnight <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>. Shkreli claims that large pharmaceutical companies often have old drugs on their books that they don't actively manage or market due to low revenue, leading to stock shortages. Divesting these drugs to smaller companies like his allows for price correction and renewed investment in education, access, and research for those drugs <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>.
+
+## [[controversial_healthcare_practices_and_the_influence_of_pharma_on_medical_treatment | Controversial healthcare practices and the influence of pharma on medical medical treatment]] and [[challenges_and_criticism_of_the_modern_healthcare_system | Challenges and Criticism of the Modern Healthcare System]]
+Shkreli critically assesses the broader healthcare system, arguing that the entire system is "so [messed] up" <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>. He references the 1908 Flexner Report, which he claims shifted medicine away from osteopaths and homeopaths towards molecular biology and pills, making it scalable into a big business <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>.
+
+He believes a significant portion of healthcare costs stems from the physician side <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. Doctors, he argues, are incentivized to provide more treatments <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. He also points out that the American Medical Association (AMA) restricts the supply of doctors by carefully gating who can become a doctor and limiting medical school class sizes, thereby increasing prices due to limited supply <a class="yt-timestamp" data-t="02:57:00">[02:57:00]</a>. He notes that the average American doctor makes $350,000 a year <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>.
+
+Shkreli emphasizes that demand for healthcare is "insatiable" <a class="yt-timestamp" data-t="03:15:00">[03:15:00]</a>; people will never say no to better healthcare, unlike other goods with diminishing marginal utility <a class="yt-timestamp" data-t="03:17:00">[03:17:00]</a>. He posits that the problem lies in the system's structure, which functions as "sick care" rather than healthcare <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>.

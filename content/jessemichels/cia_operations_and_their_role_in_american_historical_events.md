@@ -1,0 +1,65 @@
+---
+title: CIA operations and their role in American historical events
+videoId: 75Je_0hZovQ
+---
+
+From: [[jessemichels]] <br/> 
+
+The [[CIA involvement in UFO research | Central Intelligence Agency (CIA)]] has been implicated in various covert operations and experiments that have influenced American historical events, particularly from the post-World War II era through the 1970s <a class="yt-timestamp" data-t="02:14:27">[02:14:27]</a>. These operations often involved mind control research and efforts to neutralize social movements.
+
+## [[CIAs Stargate Project and its psychic spy program | Project MKUltra]]: Mind Control and Human Experimentation
+
+[[CIAs Stargate Project and its psychic spy program | MKUltra]] was a top-secret brainwashing program developed by the CIA from the late 1940s into the early 1950s <a class="yt-timestamp" data-t="02:11:41">[02:11:41]</a>.
+
+### Origins and Goals
+Initially, [[CIAs Stargate Project and its psychic spy program | MKUltra]] was conceived as a defensive program after U.S. intelligence learned that the Soviet Union, Chinese, and North Koreans had developed techniques to brainwash individuals into making false confessions using drugs and sensory deprivation <a class="yt-timestamp" data-t="02:20:00">[02:20:00]</a>. However, it quickly evolved into an offensive program due to its perceived effectiveness <a class="yt-timestamp" data-t="02:51:19">[02:51:19]</a>.
+
+The ultimate goal of [[CIAs Stargate Project and its psychic spy program | MKUltra]] was to create a programmed assassin—individuals who could be hypnotized to kill without motive or recollection of being programmed <a class="yt-timestamp" data-t="02:58:39">[02:58:39]</a>. The program also aimed to:
+*   Control groups of thousands of people through "mass conversion" using media and other technologies <a class="yt-timestamp" data-t="03:13:16">[03:13:16]</a>.
+*   Implant information into service people's minds for courier missions across enemy lines <a class="yt-timestamp" data-t="03:23:23">[03:23:23]</a>.
+*   Control, implant false, and remove true memories using drugs like sodium pentothal, LSD, and other undisclosed substances <a class="yt-timestamp" data-t="03:35:46">[03:35:46]</a>.
+
+### Methods and Exposure
+[[CIAs Stargate Project and its psychic spy program | MKUltra]] conducted human experiments without the knowledge or consent of subjects, initially in prisons and jails, then on service people <a class="yt-timestamp" data-t="04:11:00">[04:11:00]</a>. The CIA even established "safe houses" in San Francisco and New York City, where prostitutes would administer LSD to "Johns" who were then observed through two-way mirrors <a class="yt-timestamp" data-t="04:24:50">[04:24:50]</a>.
+
+The program was exposed around 1975 by a whistleblower, leading to sensational revelations <a class="yt-timestamp" data-t="05:54:55">[05:54:55]</a>. Although the CIA acknowledged its existence, the Director of Central Intelligence, Richard Helms, ordered all [[Historical figures and UFO programs | program files destroyed]] in 1973-1974 as Watergate threatened to expose government secrets <a class="yt-timestamp" data-t="04:46:11">[04:46:11]</a>. Knowledge of the program largely survived because a State Department official, John Marks, found financial files in 1974 that led to Congressional investigations, including the Church Hearings <a class="yt-timestamp" data-t="05:06:46">[05:06:46]</a>. During these hearings, the CIA falsely claimed that their experiments were ineffective <a class="yt-timestamp" data-t="05:46:00">[05:46:00]</a>.
+
+### Notable Figures and Cases
+*   **Dr. Louis Jolyon "Jolly" West**: A psychiatrist who reported to the CIA in 1955 that he had developed technology to permanently implant false memories and remove true ones using drugs and hypnosis without the subject's knowledge <a class="yt-timestamp" data-t="00:50:49">[00:50:49]</a>, <a class="yt-timestamp" data-t="03:21:40">[03:21:40]</a>, <a class="yt-timestamp" data-t="30:22:21">[30:22:21]</a>. This critical report was later censored from documents provided to Congress <a class="yt-timestamp" data-t="30:50:48">[30:50:48]</a>. West was the head of UCLA Psychiatry and started the first Neuroscience Center, beginning his experiments on prisoners at Lackland Air Force Base in the 1950s <a class="yt-timestamp" data-t="15:36:20">[15:36:20]</a>.
+*   **Jack Ruby**: Jolly West became the psychiatrist for Jack Ruby, who killed Lee Harvey Oswald <a class="yt-timestamp" data-t="16:13:00">[16:13:00]</a>. After spending an hour alone with Ruby in jail, West declared that Ruby had suffered a psychotic break from which he would never recover, displaying auditory and visual hallucinations <a class="yt-timestamp" data-t="16:51:30">[16:51:30]</a>. Ruby subsequently could not string three coherent sentences together for the remaining three years of his life <a class="yt-timestamp" data-t="17:21:00">[17:21:00]</a>. West's specialty was inducing insanity without the person's knowledge, a conflict of interest never disclosed to the Warren Commission <a class="yt-timestamp" data-t="17:29:45">[17:29:45]</a>.
+*   **Ted Kaczynski (The Unabomber)**: Kaczynski voluntarily participated in an [[CIAs Stargate Project and its psychic spy program | MKUltra]] experiment at Harvard University <a class="yt-timestamp" data-t="07:13:58">[07:13:58]</a>.
+*   **Whitey Bulger**: The criminal Whitey Bulger discovered late in his life that he had volunteered for medical experiments in prison in the 1950s that were actually [[CIAs Stargate Project and its psychic spy program | MKUltra]] brainwashing experiments <a class="yt-timestamp" data-t="06:58:37">[06:58:37]</a>.
+
+## [[CIA and potential involvement in the Manson case | The Manson Murders]] and Alleged CIA Involvement
+
+The Manson Family murders, specifically the Tate-LaBianca murders in August 1969, involved a cult led by [[Historical figures and their involvement in UFO secrecy | Charles Manson]] <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>, <a class="yt-timestamp" data-t="08:49:57">[08:49:57]</a>.
+
+### The Crime and Official Narrative
+On August 8, 1969, Sharon Tate, eight months pregnant, and several house guests were brutally murdered in a home invasion <a class="yt-timestamp" data-t="07:56:00">[07:56:00]</a>. Four victims were stabbed more than 200 times, and blood writing was left on the walls <a class="yt-timestamp" data-t="00:28:00">[00:28:00]</a>, <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>, <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>. The official narrative, presented by prosecutor Vince Bugliosi, stated that Manson believed in an impending race war, "Helter Skelter," and ordered the murders to shock the world and implicate the Black Panthers <a class="yt-timestamp" data-t="09:30:00">[09:30:00]</a>. The murders were committed to trigger this race war, which Manson prophesized from Beatles lyrics and the Book of Revelation <a class="yt-timestamp" data-t="09:40:00">[09:40:00]</a>.
+
+The shocking aspect of the case was how Manson compelled young women to commit savage murders of strangers without remorse, even laughing about it <a class="yt-timestamp" data-t="00:35:00">[00:35:00]</a>, <a class="yt-timestamp" data-t="11:34:00">[11:34:00]</a>. This unprecedented behavior raised questions about Manson's methods.
+
+### Connecting Manson to MKUltra
+Research suggests a potential connection between [[Historical figures and their involvement in UFO secrecy | Charles Manson]] and [[CIAs Stargate Project and its psychic spy program | MKUltra]]:
+*   **Jolly West's Presence**: Jolly West was conducting LSD research on hippies at the Haight Ashbury Free Medical Clinic in 1967, where Manson started his cult <a class="yt-timestamp" data-t="12:44:00">[12:44:00]</a>. West, working under an alias for [[CIA and Assassination Teams | CIA]] program head Sydney Gottlieb, documented his experiments, which paralleled Manson's arrival and transformation into a figure resembling the CIA's programmed assassin goal <a class="yt-timestamp" data-t="13:31:00">[13:31:00]</a>.
+*   **Manson's Parole Officer**: Manson's parole officer, Roger Smith, was also a criminology student at Berkeley and a drug researcher specializing in adolescent kids joining violent gangs while using drugs, particularly amphetamines and LSD <a class="yt-timestamp" data-t="14:38:00">[14:38:00]</a>. David Smith ran the Haight Ashbury Free Medical Clinic where [[CIAs Stargate Project and its psychic spy program | Operation Midnight Climax]] (part of [[CIAs Stargate Project and its psychic spy program | MKUltra]]) was known to "dose up" individuals like Manson <a class="yt-timestamp" data-t="15:05:00">[15:05:00]</a>.
+*   ***Stranger in a Strange Land***: Manson's life appeared to be modeled after Robert Heinlein's 1961 sci-fi novel *Stranger in a Strange Land*, a bestseller among hippies <a class="yt-timestamp" data-t="18:39:00">[18:39:00]</a>. The novel features a leader born on Mars dispatched to Earth to start a new society, with communal wives and a protector in the legal system named Jubal (Manson's nickname for Roger Smith) <a class="yt-timestamp" data-t="19:22:00">[19:22:00]</a>. Despite Manson allegedly being illiterate, this parallel suggests he may have been dosed with LSD and influenced by the book's narrative, which included themes of a race war <a class="yt-timestamp" data-t="19:07:00">[19:07:00]</a>.
+
+### Undercover Operations and Foreshadowing
+Evidence suggests Manson was being tracked by authorities before the Tate murders <a class="yt-timestamp" data-t="01:06:00">[01:06:00]</a>. Spahn Ranch, where the Manson family lived, was raided and bugged, allowing authorities to hear Manson plotting <a class="yt-timestamp" data-t="20:41:00">[20:41:00]</a>.
+
+*   **Reeve Whitson**: A mysterious figure who told close associates he worked for the government, eventually revealing he was working undercover for a government agency and had infiltrated the Manson family <a class="yt-timestamp" data-t="20:50:00">[20:50:00]</a>. Whitson's dying regret was not preventing the murders; he claimed to have been at the crime scene after the murders occurred and left before the police arrived <a class="yt-timestamp" data-t="21:26:00">[21:26:00]</a>.
+
+These connections raise questions about whether Manson was a "construct" or an unwitting participant in a larger experiment <a class="yt-timestamp" data-t="22:08:00">[22:08:00]</a>.
+
+## [[The role of intelligence operations in postwwii america | Operations CHAOS and COINTELPRO]]: Neutralizing Domestic Dissent
+
+The [[CIA involvement in UFO research | CIA]] operated [[the_role_of_intelligence_operations_in_postwwii_america | Operation CHAOS]] (beginning in San Francisco in 1967) and the FBI had its own program, COINTELPRO, both designed to neutralize the left-wing and black militant movements in the United States <a class="yt-timestamp" data-t="22:25:00">[22:25:00]</a>.
+
+### Objectives and Methods
+These operations aimed to counter perceived internal threats posed by the youth, whom FBI head J. Edgar Hoover believed sought to overthrow the country <a class="yt-timestamp" data-t="23:09:00">[23:09:00]</a>. Agents infiltrated groups to:
+*   Provoke them into committing crimes that could lead to their deaths by waiting agents <a class="yt-timestamp" data-t="23:27:00">[23:27:00]</a>.
+*   Inciting internal conflicts, particularly among splintering Black Panther groups and other black militant organizations <a class="yt-timestamp" data-t="23:48:00">[23:48:00]</a>. For example, two black US Slaves members were killed at UCLA in 1968, a year before the Tate murders, in an incident the FBI later admitted was orchestrated by its agents <a class="yt-timestamp" data-t="24:03:00">[24:03:00]</a>.
+
+### Impact on Movements
+The Tate murders, which saw five white people slaughtered in a house embodying the left-wing Hollywood establishment, significantly impacted public perception <a class="yt-timestamp" data-t="25:34:00">[25:34:00]</a>. J. Edgar Hoover had explicitly stated in November 1968 that the goal was to make white supporters of the Black Panthers fear being "slaughtered with the rest of the white population" during a revolution <a class="yt-timestamp" data-t="25:11:00">[25:11:00]</a>. The horrific nature of the Manson Family crimes, committed by individuals who outwardly resembled hippies, led to widespread fear of hippies and marginalized the counterculture movement, effectively achieving the objectives of [[the_role_of_intelligence_operations_in_postwwii_america | CHAOS and COINTELPRO]] <a class="yt-timestamp" data-t="27:09:00">[27:09:00]</a>. Many, like Abby Hoffman, noted how the Laurel Canyon "flower children" with guns and drugs marginalized the otherwise peaceful hippie protest movement <a class="yt-timestamp" data-t="27:03:00">[27:03:00]</a>.

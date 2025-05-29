@@ -1,0 +1,51 @@
+---
+title: Research on UFO materials and isotopes
+videoId: dzTZbSNsKV8
+---
+
+From: [[jessemichels]] <br/> 
+
+Dr. Gary Nolan, a distinguished microbiologist and geneticist at Stanford, holds a deep [[historical_and_ongoing_research_into_ufo_phenomena_and_advanced_technologies | interest in UFOs]], or Unidentified Aerial Phenomena (UAPs) <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. Nolan claims to possess what may be [[encounters_with_alleged_ufo_materials | UFO parts]] <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>, kept in a locked bank account <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. He believes that humanity is potentially "wasting their time on exhaust" while others might possess the "engine" <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+
+## Government Interest and Funding Challenges
+
+Despite interest from the "upper echelon of society," including the CIA <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>, research into UAPs suffers from a significant lack of resources <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. For example, the Advanced Aerospace Threat Identification Program (AATIP) of the Department of Defense (DoD) had a budget of $22 million over 15 years <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>, a stark contrast to fighter jet budgets which can exceed $100 billion <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. This means [[ufo_physics_and_advanced_technologies | discovering extraterrestrial life]] and advanced propulsion receives less than one percent of the F-35 budget <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+
+### CIA Involvement and Neurological Differences
+The CIA approached Dr. Nolan's office for help in determining if individuals claiming [[encounters_with_alleged_ufo_materials | UFO contact]] had neurological and physiological differences <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. Nolan was shown MRIs of DoD and intelligence personnel who had interacted with UFOs, whom he considered "reasonably credible individuals" <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
+
+Nolan observed that an area of the brain between the head of the caudate and the putamen appeared "disturbed or different" in many of these individuals, exhibiting increased neural density and being larger <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. This area is associated with intuition and the ability to make snap decisions <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. Notably, this structural difference was also found in their family members, suggesting a genetic component <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.
+
+Nolan posits that this neurological difference might allow individuals to "widen the doors of our normal limited scope of perception" <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>, enabling them to recognize UFOs that others cannot <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. He emphasizes that human senses act as a filter, reducing the overwhelming reality around us <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>. Research into chess masters showed that the caudate and putamen lit up during intuitive, brilliant moves <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. Nolan is also exploring this brain region in relation to autism and schizophrenia, noting that schizophrenics "hear things and see things that nobody else sees" <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>.
+
+## Analysis of Alleged UFO Materials
+
+### Jacques Vallee's Collection
+Dr. Jacques Vallee, known for developing a computerized map of Mars for NASA and an early version of the internet (ARPANET) <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>, has collected [[encounters_with_alleged_ufo_materials | UFO materials]] from around the world <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>. Vallee, who proposed the multi-dimensional hypothesis that aliens could co-exist unseen <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>, makes his address public to receive parts from UAP crashes <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>. However, he lacks the tools for material analysis, necessitating collaboration with scientists like Nolan <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>.
+
+### Ubatuba Magnesium Sample
+One of the most compelling samples Nolan mentions is from Ubatuba, Brazil, where a fisherman witnessed an exploding orb and collected parts <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>. Analysis revealed it was magnesium with an "extremely high level of purity," which is peculiar because magnesium burns easily <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.
+
+Using a highly sensitive NanoSIMS instrument in the engineering department, Nolan performed mass spectrometry analysis <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>. This allowed him to determine elements and their isotopes by mass <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>.
+The results for the magnesium were "anomalous" <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>:
+*   The magnesium isotope ratios were "way off," "not even close to being natural" <a class="yt-timestamp" data-t="00:11:33">[00:11:33]</a>.
+*   Such ratios would "never be found in nature" <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a> and would require a centrifuge or similar expensive technology to create <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>.
+*   The motivation for creating such specific ratios or whether it's a byproduct of an unknown effect remains a mystery <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>.
+*   Interestingly, another piece supposedly from the same event had correct, natural isotope ratios <a class="yt-timestamp" data-t="00:20:32">[00:20:32]</a>, suggesting inhomogeneous or partially mixed material <a class="yt-timestamp" data-t="00:20:45">[00:20:45]</a>, with no known reason for such a mixture <a class="yt-timestamp" data-t="00:20:58">[00:20:58]</a>.
+
+### Roswell Bismuth Sample
+Another sample discussed consisted of pieces of bismuth <a class="yt-timestamp" data-t="00:21:19">[00:21:19]</a>. Its procurement story was recounted by Dr. Hal Puthoff, a laser physicist who started the government's psychic spy program <a class="yt-timestamp" data-t="00:21:30">[00:21:30]</a>.
+*   The bismuth was sent anonymously by an army officer who found it in his grandfather's archives, with a diary entry claiming it was a piece from Roswell <a class="yt-timestamp" data-t="00:21:53">[00:21:53]</a>.
+*   These "thin layers of bismuth magnesium" are very difficult to reproduce <a class="yt-timestamp" data-t="00:22:13">[00:22:13]</a>.
+*   Hal Puthoff claims they have properties suitable for micro-sizing waveguides for terahertz frequencies, reducing the required size to about 1/30th of the wavelength <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>. This allows for significantly more information packing for faster and farther communication, making terahertz the "next thing" for communication <a class="yt-timestamp" data-t="00:22:49">[00:22:49]</a>.
+
+## Implications and Future Research
+
+The unique isotope ratios of the materials might be connected to the [[observable_properties_of_ufos_and_new_physics | observable properties of UFOs and new physics]], such as trans-medium travel or the ability to instantaneously stop <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>. Nolan suggests that some of these "objects" might not even be technological, but rather a "living thing" <a class="yt-timestamp" data-t="00:13:14">[00:13:14]</a>, as Commander David Fravor noted about the Nimitz sighting <a class="yt-timestamp" data-t="00:13:20">[00:13:20]</a>.
+
+Nolan advocates for a "standardized process" and a flowchart for testing these materials <a class="yt-timestamp" data-t="00:24:25">[00:24:25]</a>. This would involve subjecting them to extreme conditions (high velocity, super cold/hot environments), testing their resistance to rust underwater (given UAP trans-medium capabilities) <a class="yt-timestamp" data-t="00:23:12">[00:23:12]</a>, and checking their electrical properties like conductivity or insulation <a class="yt-timestamp" data-t="00:24:44">[00:24:44]</a>. Such a process would allow skeptics and "true believers" to debate with data rather than hearsay <a class="yt-timestamp" data-t="00:24:38">[00:24:38]</a>.
+
+### Alien Intent and Humanity's Development
+Nolan ponders whether these materials are deliberately left behind as "breadcrumbs" for humanity to figure out <a class="yt-timestamp" data-t="00:25:13">[00:25:13]</a>. The idea that aliens might be interested in humanity's development, particularly in relation to the [[connection_between_ufos_and_nuclear_technology | splitting of the atom]] (Atomic Age) and genetic building blocks, is also considered <a class="yt-timestamp" data-t="00:25:33">[00:25:33]</a>. The theory is that advanced civilizations might keep "tabs" on humanity, much like one would on an aggressive neighbor <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a>. This aligns with the idea that the 1947 Roswell crash marked a dividing line in the [[history_and_impact_of_ufo_sightings_and_materials | history and impact of UFO sightings and materials]], where sightings shifted from mythological beings to aliens in the popular zeitgeist <a class="yt-timestamp" data-t="00:16:13">[00:16:13]</a>.
+
+Ultimately, Dr. Nolan stresses the importance of an open mind in science. He notes that almost every major discovery stems from someone examining anomalous data and constructing a new theory of reality <a class="yt-timestamp" data-t="00:15:05">[00:15:05]</a>. Debasing those interested in new ideas is "heretical" to scientific progress <a class="yt-timestamp" data-t="00:18:15">[00:18:15]</a>. The Department of Defense's admission that UAP data is real validates the need for continued, rigorous scientific investigation into these phenomena <a class="yt-timestamp" data-t="00:15:57">[00:15:57]</a>.

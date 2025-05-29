@@ -1,0 +1,37 @@
+---
+title: The intersection of advanced aerospace research and parapsychology
+videoId: G7Ns4Aq1tVc
+---
+
+From: [[jessemichels]] <br/> 
+
+Nick Cook, formerly the aviation editor for Jane's Defence Weekly, embarked on a comprehensive investigation into the aerospace industry's profound, yet largely undisclosed, inquiries into anti-gravity and other advanced phenomena. His journey, chronicled in *The Hunt for Zero Point*, reveals a world where cutting-edge technology intertwines with seemingly "heretical science," including the realm of parapsychology <a class="yt-timestamp" data-t="02:01:00">[02:01:00]</a>.
+
+## A Journalist's Unlikely Journey
+Cook, described as far from a "woo-woo UFO nut," spent decades as a correspondent and editor for the prestigious British military publication Jane's Defence Weekly <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>. His career allowed him unprecedented access, traveling globally and interviewing executives at major aerospace companies like Lockheed, Boeing, and Raytheon <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>. His entry into the world of anti-gravity research began with a mysterious 1956 magazine article titled "The G engines are coming," which appeared on his desk in 1994 <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>. The article claimed that top aerospace companies like Lear, Convair, Bell, and Martin Corporation were confident in developing anti-gravity aircraft within years <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>.
+
+A key figure quoted was George S. Trimble, VP of Martin Corporation's Research Institute for Advanced Study, who stated that human control of gravity could be achieved "in about the time it took to build the first atom bomb" <a class="yt-timestamp" data-t="01:01:00">[01:01:00]</a>. However, by the early 1960s, the industry went silent on the subject <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>. Cook's attempt to interview Trimble years later resulted in a flat refusal, with Trimble's contact relaying that he was "scared" and did not want to speak, "not now, not ever" <a class="yt-timestamp" data-t="01:47:00">[01:47:00]</a>. This alarming reaction only intensified Cook's interest <a class="yt-timestamp" data-t="01:53:00">[01:53:00]</a>.
+
+## The Pursuit of Secret Technology
+Cook's investigation into anti-gravity quickly led him to the realm of black projects and concealed research. He recognized that if such breakthroughs occurred, they would be immediately classified and hidden from public view <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a>. His work, along with colleague Bill Sweetman, involved piecing together clues from the "black world" that hadn't been intended for public consumption <a class="yt-timestamp" data-t="03:09:00">[03:09:00]</a>.
+
+One of the most intriguing aspects uncovered was the aerospace industry's long-standing interest in [[The role of psionics and potential metaphysical aspects of UAP phenomena | Mind Over Matter effects]] or the "fringy field of parapsychology" <a class="yt-timestamp" data-t="05:05:00">[05:05:00]</a>.
+
+### John Hutchison and Psychokinetic Influence
+During his research, Cook was given pointers by Dr. Boyd Bushman, a senior scientist at Lockheed Martin, to investigate Canadian inventor John Hutchison <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>. Hutchison's anti-gravitational experiments were reportedly funded by the DOD, headed by Colonel John Alexander, known in parapsychological circles <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>.
+
+Cook witnessed Hutchison's equipment, comprising "old oscilloscopes and... bandag graph generators" <a class="yt-timestamp" data-t="05:05:00">[05:05:00]</a>. Colonel Alexander stated that while the equipment failed to replicate effects under laboratory conditions, "off camera and out of the laboratory yeah people saw stuff fly across the room" <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>. This raised the central question: "was this the equipment that was doing it or was it somehow John Hutchison doing it with his mind?" <a class="yt-timestamp" data-t="05:10:00">[05:10:00]</a> While Hutchison maintained it was the equipment, others became "relatively convinced that there was some psychokinetic kind of influence on it all" <a class="yt-timestamp" data-t="05:13:00">[05:13:00]</a>.
+
+### Ben Rich and ESP
+Ben Rich, former director of Lockheed Skunk Works, famous for developing American stealth planes, made cryptic comments towards the end of his life <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>. At a UCLA speech in the 1990s, he alluded to Skunk Works having the technology to "take ET home" and travel across star systems <a class="yt-timestamp" data-t="05:38:00">[05:38:00]</a>. When asked how, Rich responded with a question: "How does ESP work?" <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a> He then stated, "all points and space and time are connected. That's how it works" <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a>. On his deathbed, Rich reportedly reiterated to John Andrews that "we already have the means to travel among the stars, but these technologies are locked up in black projects and it would take an act of God to ever get them out to benefit humanity" <a class="yt-timestamp" data-t="05:52:00">[05:52:00]</a>.
+
+This [[The intersection of science and esoterica in space programs | enigmatic link between advanced aerospace technology]] and parapsychological concepts like ESP suggests a deeper, more unconventional approach within highly classified programs.
+
+### Aerospace's Openness to "Heretical Science"
+Cook notes that aerospace companies operate differently from mainstream science:
+> "these companies look at anything they can that can confer possible advantage... how much further the Aerospace and defense industry is prepared to go in terms of looking at what you might call heretical science than science itself is" <a class="yt-timestamp" data-t="05:21:00">[05:21:00]</a>.
+
+This willingness to explore unconventional avenues is further exemplified by the CIA's 18-year funding of "remote viewing," a psychic spying program <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>. James McDonald of McDonald Douglas also showed significant interest in parapsychology, instructing his company officials to study UFOs to "see what you can learn from them" and "transpose that knowledge into Aerospace programs" <a class="yt-timestamp" data-t="05:41:00">[05:41:00]</a>.
+
+## Conclusion
+The evidence compiled by Nick Cook suggests a hidden dimension to advanced aerospace research, where the pursuit of breakthrough technologies extends beyond conventional physics into areas traditionally considered parapsychological or "heretical." The strict secrecy surrounding these "black projects" means that any progress made remains deliberately hidden, potentially leading to a situation where critical advancements are not accessible for the benefit of humanity <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>. This secrecy also raises concerns about an "arms race" to reverse engineer UFOs, with implications for national defense and the future of technological development <a class="yt-timestamp" data-t="07:36:00">[07:36:00]</a>.

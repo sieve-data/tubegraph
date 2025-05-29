@@ -1,0 +1,21 @@
+---
+title: Harald Malmgrens role in the Cuban Missile Crisis
+videoId: 09KP8XVf5nY
+---
+
+From: [[jessemichels]] <br/> 
+
+Harald Malmgren, a 27-year-old aid to Secretary of Defense Robert McNamara, played a pivotal role in averting nuclear war during the Cuban Missile Crisis in October 1962 <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. This period was considered the heart of the [[Cold War]] <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>, with images from an American U2 spy plane revealing the Soviet Union had secretly begun building missile bases in Cuba, just 90 miles off the coast of Florida <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+
+## Diplomatic Intervention in the War Room
+Amidst the escalating tensions, Strategic Air Command (SAC) was placed in DEFCON 2, the only time in United States history this has occurred <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. Both Soviet Premier Nikita Khrushchev and President John F. Kennedy were under pressure from their top military strategists to "draw first blood" <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. General Curtis LeMay, head of SAC, was particularly aggressive, advocating for a "death blow to the Soviets" <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+
+Malmgren was appointed as the liaison between McNamara, National Security Advisor McGeorge Bundy, and President Kennedy <a class="yt-timestamp" data-t="00:36:33">[00:36:33]</a>. His directive from McNamara for the war room was crucial: "Don't tell them what you think should happen. Ask them a lot of questions. Your job is to slow them down. reduce the heat in the room and give us time to work something out" <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. Malmgren effectively "ran circles" around aggressive four-star generals <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>, succeeding in his task of slowing down the military's push for immediate, aggressive action <a class="yt-timestamp" data-t="00:37:47">[00:37:47]</a>.
+
+## Confrontation with General Curtis LeMay
+In the final hours before a potential nuclear strike, Malmgren challenged the prevailing logic of mutually assured destruction <a class="yt-timestamp" data-t="00:42:17">[00:42:17]</a>. He argued that if Moscow were hit, "there's no one to talk to" to de-escalate the conflict <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>. This direct challenge led to LeMay storming out of the room, slamming his papers down, and declaring, "I refuse to run with this" <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. LeMay's raising of the warning level to DEFCON 2 was notably unapproved by the President <a class="yt-timestamp" data-t="00:48:59">[00:48:59]</a>.
+
+Malmgren's strategic questioning and calm demeanor helped create an environment where a diplomatic resolution could be reached. This intervention prevented a nuclear catastrophe, a feat the narrator describes as the "least interesting thing" to discuss about Malmgren <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>, given his later claims about [[handling_of_ufo_materials_by_harold_malmgren | UFO materials]] and high-level briefings.
+
+## Subsequent Revelations
+Malmgren later revealed that he was informally briefed on "other world technologies" by Richard Bissell, the deputy director of plans for the CIA and chief architect of Area 51 <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. Bissell confirmed the existence of the 1933 Magenta [[david_grusch_and_the_ufo_crash_retrieval_program | UFO crash retrieval program]] in Italy, a topic recently reported on by whistleblower [[david_grusch_and_the_ufo_crash_retrieval_program | David Grusch]] <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Malmgren's own experiences, including direct encounters with anomalous material recovered from a Marshall Islands nuclear test plume <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>, highlight a broader narrative of secrecy around [[ufos_and_nuclear_weaponry_connections_during_the_cold_war | UFOs and nuclear weaponry connections during the Cold War]] <a class="yt-timestamp" data-t="01:00:53">[01:00:53]</a>, and the deep, often unseen, forces at play in global politics <a class="yt-timestamp" data-t="03:11:52">[03:11:52]</a>.
