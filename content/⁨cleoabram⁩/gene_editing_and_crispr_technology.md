@@ -1,0 +1,90 @@
+---
+title: Gene editing and CRISPR technology
+videoId: 0OXaanDHENI
+---
+
+From: [[⁨cleoabram⁩]] <br/> 
+
+Gene editing is a microscopic technology that provides the power to edit our own genes while we're alive, potentially curing or preventing diseases, boosting bodily functions, or even giving future generations new abilities. This technology effectively puts evolution into human hands <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This is not science fiction; it is already being used in medicines, plants for new crops, and animals for new species <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. The technology is called "CRISPR" or "CRISPR-Cas9," and Jennifer Doudna won the Nobel Prize for its discovery <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+Deciding how to use this new superpower represents one of humanity's greatest challenges and opportunities to reduce suffering <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. It could eliminate diseases like hemophilia, sickle cell anemia, Alzheimer's, and Huntington's, making it "almost unethical not to use it" for such purposes <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
+
+## The CRISPR Breakthrough
+
+For over a century, scientists have known that cells contain molecules carrying information in a four-part code (DNA), which serves as a blueprint for making proteins that govern human traits from appearance to disease susceptibility <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. However, for most of that time, this genetic code could only be read, not changed <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+
+Early forms of gene manipulation came from studying viruses, some of which naturally insert into human DNA (like HIV) <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. Insights from how viruses manipulate DNA led to the development of tools like Zinc-finger nucleases and TALEN proteins, which demonstrated the power of DNA manipulation <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. The challenge with these earlier tools was their "bespoke" nature; a new one had to be created for every single change, making them expensive and slow to deploy <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>.
+
+CRISPR revolutionized this by leveraging a natural system evolved by viruses and bacteria <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. It uses proteins directed by RNA molecules (chemical cousins of DNA) that interact with DNA, allowing for easy recoding <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. This makes CRISPR a programmable tool that can be directed to almost any DNA sequence for targeted, easily controllable changes <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. The shift has been from observing genes to slow, one-off changes, to quick, precise editing—like a text editor for life's instruction manual <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>.
+
+## Ethical and Societal Implications
+
+The power to manipulate DNA sequences is profound <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>. It ranges from altering crops to resist drought to changing sequences in a human embryo that affect heritable traits passed on for future generations <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>. This means humanity now has the technology to fundamentally and chemically alter who and what we are <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>. The central question is no longer *if* we can change our genes, but *how* we should <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>.
+
+### Somatic vs. Germline Editing
+A major distinction in the debate is whether to edit somatic cells (where changes end with the individual) or germline cells (where changes are passed to future generations) <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. Changing DNA in an individual has safety and [[ethical_considerations_of_genome_editing | ethical considerations]], but they are different from changing DNA in embryos in a heritable way <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. Embryos cannot make these decisions, and once a change is made, it's permanent and passed on, potentially altering the entire genetic makeup of human populations <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. This distinction touches on concepts like eugenics and the idea of "playing God" <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
+
+### Treatment vs. Enhancement
+Gene editing applications exist on a spectrum: from treating universally recognized diseases to preventing future diseases, to what some call "enhancements" that move individuals or their descendants into new possibilities for humans <a class="yt-timestamp" data-t="00:08:25">[00:08:25]</a>.
+
+> [!QUOTE] Charles Sabine, a victim of Huntington's disease, stated: "Anyone who has had to actually face the reality of one of these diseases is not going to have a remote compunction about thinking there is any moral issue at all." <a class="yt-timestamp" data-t="00:22:43">[00:22:43]</a>
+
+### The "Gene Gap" Concern
+A concern raised is the potential for a "gene gap" where access to gene editing technologies might be based on wealth or other factors, creating societal divides, similar to the movie *Gattaca* <a class="yt-timestamp" data-t="00:31:15">[00:31:15]</a>. However, historically, many expensive technologies become more accessible over time as they develop and are more widely used <a class="yt-timestamp" data-t="00:31:44">[00:31:44]</a>.
+
+## [[applications_of_crispr_in_human_health | Applications of CRISPR in Human Health]]
+
+### Curing Sickle Cell Disease
+In November and December 2023, the FDA in the US and its UK counterpart approved a CRISPR-based therapy for sickle cell disease <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>. This severe blood disease is caused by a single genetic mutation, leading to frequent blood transfusions, organ failure, and painful crises <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>. The CRISPR treatment is a "one and done" therapy that suppresses the effect of the disease-causing mutation by turning on the production of fetal hemoglobin, a protein normally made only in the womb <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. Victoria Gray, the first US patient to receive this therapy, has not had another sickle cell crisis since <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>.
+
+> [!INFO] This treatment is currently very expensive and requires hospitalization for a bone marrow transplant, limiting global access <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>. Efforts are underway to make it more accessible and deliverable in an easier format <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. CRISPR is well-suited for single-gene disorders like sickle cell, but it's much harder to treat complex diseases like schizophrenia, which may involve hundreds of mutations <a class="yt-timestamp" data-t="00:12:17">[00:12:17]</a>.
+
+### Preventing Huntington's Disease
+Huntington's disease is a neurodegenerative disorder that often runs in families, typically beginning in midlife <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>. Like sickle cell, it's caused by a single, well-defined gene <a class="yt-timestamp" data-t="00:17:07">[00:17:07]</a>. With CRISPR, it's theoretically possible to remove this disease-causing mutation from an embryo, preventing the individual from bearing the trait and passing it on to future generations <a class="yt-timestamp" data-t="00:17:37">[00:17:37]</a>. This is a future aspiration, as controlling DNA repair in embryos is still under investigation, and safety must be ensured <a class="yt-timestamp" data-t="00:18:14">[00:18:14]</a>.
+
+### Preventing HIV in Future Descendants
+In 2018, a scientist controversially edited human embryos to prevent HIV transmission, resulting in the birth of babies <a class="yt-timestamp" data-t="00:18:45">[00:18:45]</a>. Many scientists, including Jennifer Doudna, opposed this due to significant risks outweighing the benefits <a class="yt-timestamp" data-t="00:18:56">[00:18:56]</a>:
+*   The technology had not been tested in animals prior to human application <a class="yt-timestamp" data-t="00:20:29">[00:20:29]</a>.
+*   Well-known and safe treatments already existed to prevent HIV transmission from parent to child <a class="yt-timestamp" data-t="00:20:43">[00:20:43]</a>.
+*   The genome editing was not "clean," resulting in chimeric embryos with multiple different types of genetic makeups in their cells, with unknown long-term effects <a class="yt-timestamp" data-t="00:21:14">[00:21:14]</a>.
+
+### Preventative Medicine
+CRISPR holds promise for preventing future diseases. A clinical trial is already underway for individuals susceptible to high cholesterol and cardiovascular disease, using CRISPR to make edits in liver DNA to prevent cholesterol accumulation <a class="yt-timestamp" data-t="00:26:42">[00:26:42]</a>. If successful, this "one-time therapy" could eliminate the need for daily medication <a class="yt-timestamp" data-t="00:27:09">[00:27:09]</a>. The liver is a good target organ because it naturally filters molecules, making it easier to deliver CRISPR components, often using lipid nanoparticles (similar to COVID vaccines) <a class="yt-timestamp" data-t="00:28:06">[00:28:06]</a>.
+
+Other potential areas for prevention include reducing the risk of Alzheimer's (related to APOE4), heart disease (PCSK9), and cancer (BRCA) <a class="yt-timestamp" data-t="00:26:11">[00:26:11]</a>.
+
+### Delivery Challenges
+A significant challenge in gene editing is delivering CRISPR molecules safely and effectively to specific cells or tissues in the body, such as the lungs, liver, or brain <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>. The goal is to target only the affected cells without disturbing others <a class="yt-timestamp" data-t="00:14:52">[00:14:52]</a>. Cells have "zip code molecules" on their surface that mark different types, and scientists are working to understand these to enable precise delivery <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>. Viruses are an inspiration, as they are very good at specific recognition and delivery <a class="yt-timestamp" data-t="00:15:48">[00:15:48]</a>.
+
+> [!INFO] The analogy is that while we have the ability to "cut and paste DNA like a text editor," we are "still inventing the postal system" to send those edits to the correct places <a class="yt-timestamp" data-t="00:16:05">[00:16:05]</a>.
+
+### Enhancements
+Beyond treating diseases, CRISPR could enable "enhancements." Examples include genes like MSTN, associated with building larger muscles, or DEEC2, linked to needing less sleep <a class="yt-timestamp" data-t="00:29:21">[00:29:21]</a>. Another interesting area is altering pain perception, as natural genetic variations exist that confer pain tolerance <a class="yt-timestamp" data-t="00:29:53">[00:29:53]</a>. This is a "gray area" where the line between health-related modifications and enhancements becomes difficult to draw <a class="yt-timestamp" data-t="00:30:37">[00:30:37]</a>.
+
+## [[crispr_in_agriculture_and_environmental_impact | CRISPR in Agriculture and Environmental Impact]]
+
+The global impact of CRISPR will likely be seen first in plant and animal manipulations <a class="yt-timestamp" data-t="00:38:24">[00:38:24]</a>. Unlike humans, changes in plants can be conducted as experiments more easily <a class="yt-timestamp" data-t="00:38:45">[00:38:45]</a>.
+
+### Plant Breeding
+Traditional plant breeding involves introducing random DNA changes using chemicals or radiation, then selecting and breeding desirable traits over decades <a class="yt-timestamp" data-t="00:39:09">[00:39:09]</a>. This often results in unintended coupled traits (e.g., thornless roses losing their smell) <a class="yt-timestamp" data-t="00:39:43">[00:39:43]</a>. CRISPR allows for targeted, precise changes that only alter one trait without affecting others <a class="yt-timestamp" data-t="00:40:05">[00:40:05]</a>. It's also possible to change multiple genes (5, 10, or 15) at once, enabling sophisticated alterations to plant traits safely and precisely <a class="yt-timestamp" data-t="00:40:17">[00:40:17]</a>.
+
+In Japan, a CRISPR-edited tomato with higher nutritional value has been approved <a class="yt-timestamp" data-t="00:41:06">[00:41:06]</a>. In the US, non-browning mushrooms and much higher-yielding tomatoes have been created using CRISPR <a class="yt-timestamp" data-t="00:41:27">[00:41:27]</a>. The US Department of Agriculture has ruled that plant DNA changes that *could* have been done by traditional breeding but are sped up by CRISPR are *not* considered genetically modified and are not regulated <a class="yt-timestamp" data-t="00:42:02">[00:42:02]</a>, meaning these crops could appear in grocery stores in the near future <a class="yt-timestamp" data-t="00:42:32">[00:42:32]</a>.
+
+### Climate Change: Reducing Methane in Cows
+Cattle farming significantly contributes to global carbon emissions through methane, a powerful greenhouse gas produced by microbes in their guts <a class="yt-timestamp" data-t="00:43:03">[00:43:03]</a>. These microbes convert food into methane instead of milk or meat <a class="yt-timestamp" data-t="00:43:36">[00:43:36]</a>. CRISPR can be used to alter the metabolism of these methane-making bacteria in the cow's microbiome, permanently dialing down methane production and increasing nutrient generation for the animal <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>. The challenge of altering cow diet (an existing but expensive method) could be overcome by a simple, one-time CRISPR pill to edit the microbiome, making it easy to deploy globally <a class="yt-timestamp" data-t="00:44:40">[00:44:40]</a>. This involves editing the microorganisms *inside* the cow, not the cow itself <a class="yt-timestamp" data-t="00:45:07">[00:45:07]</a>.
+
+### Editing the Human Microbiome
+The human microbiome has a profound impact on health, and CRISPR could be used to edit these microorganisms to address diseases <a class="yt-timestamp" data-t="00:45:23">[00:45:23]</a>. For example, some children susceptible to asthma produce a specific molecule in their microbiome <a class="yt-timestamp" data-t="00:45:41">[00:45:41]</a>. CRISPR could potentially turn down the production of this molecule to prevent asthma <a class="yt-timestamp" data-t="00:46:08">[00:46:08]</a>. Other areas of interest include the connection between the microbiome and the brain, and the microbiome and the immune system, particularly in relation to inflammation and susceptibility to diseases like Alzheimer's <a class="yt-timestamp" data-t="00:46:39">[00:46:39]</a>. CRISPR can help dissect the genes involved in these interactions, enabling changes in the microbiome of affected individuals or for prevention <a class="yt-timestamp" data-t="00:47:23">[00:47:23]</a>.
+
+## [[future_implications_and_challenges_of_genetic_modification | Future Implications and Challenges]]
+
+### Human Reproduction
+[[technological_advancements_in_cryopreservation | In vitro fertilization (IVF)]] technology has advanced significantly, allowing for embryo selection to screen out disease-causing mutations <a class="yt-timestamp" data-t="00:33:55">[00:33:55]</a>. CRISPR could be used similarly to remove a trait and then screen embryos, or it could make changes present in *all* embryos for a specific couple, whereas PGD (preimplantation genetic diagnosis) merely selects existing embryos <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>. While IVF is a difficult and expensive process, there's ongoing research in human reproduction, particularly concerning gametes (eggs and sperm), which could change the landscape of what's possible in the coming decades <a class="yt-timestamp" data-t="00:35:30">[00:35:30]</a>.
+
+### "Super Enhancements" and Future Abilities
+The concept of "super enhancements" involves moving people beyond what is currently possible for anyone, such as faster healing, extended lifespans, or "superpowers" <a class="yt-timestamp" data-t="00:36:19">[00:36:19]</a>. Examples include creating super athletes (eight-foot-tall basketball players or those with exceptionally developed muscles) <a class="yt-timestamp" data-t="00:36:46">[00:36:46]</a>. However, these are largely unrealistic at present because the genetics are not well understood, and genes are interconnected, meaning tweaking one thing likely affects many others <a class="yt-timestamp" data-t="00:37:10">[00:37:10]</a>.
+
+### The Role of Curiosity-Driven Science
+The discovery of CRISPR highlights that science is a human endeavor, driven by curiosity <a class="yt-timestamp" data-t="00:48:36">[00:48:36]</a>. Fundamental breakthroughs in biological sciences often arise from people wondering "how something works" and then investigating it <a class="yt-timestamp" data-t="00:48:49">[00:48:49]</a>. Supporting this kind of curiosity-driven science is crucial for future generations <a class="yt-timestamp" data-t="00:49:48">[00:49:48]</a>.
+
+> [!QUOTE] "Few technologies are inherently good or bad. What matters is how we use them. And when it comes to CRISPR, the possibilities of this new technology—good and bad—are limited only by our imaginations. I firmly believe we can use it for the former and not the latter. But I'm also cognizant that this will require determination from us individually and collectively. As a species, we have never done anything like this before. But then again, we've never had the tools to do it. The power to control our species' genetic future is awesome and terrifying; deciding how to handle it may be the biggest challenge we have ever faced. I hope—I believe—that we're up to the task." <a class="yt-timestamp" data-t="00:52:35">[00:52:35]</a>

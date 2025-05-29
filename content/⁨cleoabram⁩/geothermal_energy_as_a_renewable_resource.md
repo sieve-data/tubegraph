@@ -1,0 +1,33 @@
+---
+title: Geothermal energy as a renewable resource
+videoId: cCE1i2tJQQY
+---
+
+From: [[⁨cleoabram⁩]] <br/> 
+
+Geothermal energy, an "almost limitless renewable source," has the potential to sustain all of humanity for the foreseeable future <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. The U.S. agency responsible for researching advanced energy technologies estimates that just 0.1% of Earth's heat content could supply humanity's total energy needs for two million years <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>. Despite this vast potential, geothermal energy is not widely known, though it is expected to become more prominent in the coming five years <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>.
+
+## Traditional Geothermal Systems
+
+Historically, geothermal energy has been geographically concentrated in specific areas where hot water and steam reservoirs are naturally close to the surface <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. In these locations, energy companies can drill down, find hot steam, and channel it up through a turbine to generate electricity <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>. The heat can also be used directly <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. However, this traditional method is limited by the need to find natural reservoirs, preventing the harnessing of the much larger amount of energy deeper underground <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+
+## [[enhanced_geothermal_systems_with_fracking_technology | Enhanced Geothermal Systems (EGS)]]
+
+A breakthrough approach, known as [[enhanced_geothermal_systems_with_fracking_technology | Enhanced Geothermal Systems]] (EGS), aims to overcome the limitations of traditional geothermal energy by creating reservoirs <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. Conceptually, EGS involves drilling into hot rock, injecting water at high pressure to crack the rock, allowing the water to pass through and heat up, and then collecting the heated water to spin a turbine <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>. This process of cracking rock by injecting fluid at high pressure is essentially what [[fracking_and_its_impact_on_energy_production | fracking]] is <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>.
+
+A key figure in making [[fracking_and_its_impact_on_energy_production | hydraulic fracturing]] processes better for oil and gas was Professor Mukul Sharma, also known as the "Frack King" <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. He is now working on how to "frack geothermal," believing this technology will enable geothermal to become more commercial <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>.
+
+### Addressing Concerns of EGS
+
+While [[fracking_and_its_impact_on_energy_production | fracking]] for fossil fuels has faced significant environmental objections due to the composition of injected fluids and concerns about groundwater pollution <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>, EGS largely mitigates these issues <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>:
+*   **Fluid Composition**: The fluids injected in geothermal [[fracking_and_its_impact_on_energy_production | fracking]] are typically water or close to water, making them environmentally benign <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. This addresses the main source of objection to fossil fuel [[fracking_and_its_impact_on_energy_production | fracking]] <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
+*   **Earthquakes**: While the concern about seismic activity does apply to geothermal, the risk is considered very tiny with current scientific advancements <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. Earthquakes related to oil and gas production have primarily been linked to wastewater injection into basement rock, not hydraulic fracturing itself <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>. Experts believe geothermal [[fracking_and_its_impact_on_energy_production | fracking]] can be done safely, though caution is still necessary <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
+
+### Comparison to Closed-Loop Systems
+Other systems are in development where no fluids leave the pipes at all (closed systems), thereby avoiding [[fracking_and_its_impact_on_energy_production | fracking]] <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. However, the amount of energy extracted depends on the fluid's contact with the hot surface. In a pipe, this contact is much less than in tons of small fractures created by [[fracking_and_its_impact_on_energy_production | hydraulic fracturing]] <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. While closed-loop systems are an option, they drastically limit the energy extraction rate <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>. The math suggests that [[fracking_and_its_impact_on_energy_production | fracking]] could help extract significantly more energy if done safely <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>.
+
+## Role in [[future_of_energy_independence_and_renewable_resources | Future of Energy]]
+
+Geothermal energy currently generates a small amount of global electricity <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>. In a [[future_of_energy_independence_and_renewable_resources | clean energy future]] where fossil fuels are phased out, wind and solar power are expected to increase <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>. However, these sources are intermittent. Geothermal energy offers a crucial advantage as an extremely reliable, always-on energy source that can complement variable renewables <a class="yt-timestamp" data-t="00:08:19">[00:08:19]</a>.
+
+As the world seeks to reduce its reliance on fossil fuels, which are unequivocally contributing to climate change <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>, [[enhanced_geothermal_systems_with_fracking_technology | enhanced geothermal systems]] present a significant opportunity <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>. It represents a potential "redemption story" where a technology that contributed to climate change could be repurposed to help solve it <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>. This highlights that technology itself is neither good nor bad, but its impact depends on how it is utilized <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>.

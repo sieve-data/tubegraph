@@ -1,0 +1,62 @@
+---
+title: Electric vehicles in racing
+videoId: 8foQERR0mc0
+---
+
+From: [[⁨cleoabram⁩]] <br/> 
+
+Car racing, particularly [[introduction_to_formula_1_racing | Formula 1]], has long been a showcase for cutting-edge automotive [[engineering_and_technology_in_formula_1 | tech]] <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. However, with the global shift towards electric vehicles, the sport faces an "existential moment" <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a> as the cars most people drive become fully electric, while traditional race cars do not <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. This divergence risks making the racing [[engineering_and_technology_in_formula_1 | tech]] outdated and losing the vital investment from companies advertising their car advancements <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+
+## The Tipping Point: Government Regulations and Electrification
+Governments worldwide have been discussing banning new gas car sales for years <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. California has already implemented such a ban <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>, and the entire European Union plans to follow suit <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. By 2040, owning a car with a tailpipe could become comparable to owning one with a car phone, signaling that [[engineering_and_technology_in_formula_1 | technology]] is rapidly advancing <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. This situation poses a challenge for motorsports, which are meant to advertise the [[future_of_car_racing | future of cars]] <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+
+## The Birth of Formula E
+The idea for a fully electric racing series emerged from a dinner in Paris 11 years ago <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. Key attendees included:
+*   **Alejandro Agag**: A Spanish businessman and former member of the European Parliament <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.
+*   **Antonio Tajani**: Former European Commissioner for Transport, responsible for transportation [[impact_of_government_regulations_on_motorsports | regulation]] for the European Union <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+*   **Jean Todt**: President of the FIA, the governing body overseeing [[introduction_to_formula_1_racing | Formula 1]] <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>.
+
+During this dinner, they discussed the impending shift towards electrification <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. Antonio Tajani emphasized that the European Commission would strongly advocate for electrification as the [[future_of_car_racing | future]] <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+
+### The Innovator's Dilemma
+While it might seem logical for [[introduction_to_formula_1_racing | Formula 1]] to simply become electric, it faced several hurdles:
+*   **Technical Limitations**: 11 years ago, electric car batteries could not sustain the required 305 kilometers (190 miles) in less than two hours for a typical F1 race <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. Changing the sport's format would be necessary <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+*   **Fan Resistance**: Millions of F1 fans might react negatively to significant changes <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+*   **Manufacturer Opposition**: In 2011, most of F1's marquee car companies did not produce electric cars and resisted such changes <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>. This presented a classic innovator's dilemma for the incumbent sport <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>.
+
+Instead, Jean Todt suggested creating a new, dedicated electric championship <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. This led to the creation of Formula E, launched in 2014 <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. It was envisioned as a "space program for electric cars," designed to rapidly advance [[technological_innovations_in_electric_racing | technology]] and create the [[future_of_car_racing | future]] of both car racing and road cars <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+### Exclusive License
+A crucial agreement was made: Formula E received an exclusive 25-year license to be the only fully electric championship <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. This means [[introduction_to_formula_1_racing | Formula 1]] cannot become purely electric without conflicting with this license <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>. The license, which began in 2014, expires in 2039 <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>, four years after the planned gas car bans in the EU and California take effect in 2035 <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. This sets [[formula_1_vs_formula_e | Formula One and Formula E]] on a "collision course" <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+
+## Formula E: A Real-Life Video Game
+The goal for Formula E was to create the most entertaining sport possible while advancing electric car [[technological_innovations_in_electric_racing | technology]] <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. Its creators drew inspiration from video games like Super Mario Kart <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
+
+### Race Format and Features
+Formula E retains core racing principles from [[introduction_to_formula_1_racing | Formula 1]], with teams of two drivers scoring points based on finish position, contributing to team and individual championships <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. However, it incorporates unique elements to enhance excitement:
+*   **City Center Races**: Unlike [[introduction_to_formula_1_racing | F1]], Formula E races primarily take place on street circuits in city centers, bringing the spectacle closer to people and promoting electric cars as urban mobility solutions <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. This design makes races fan-friendly and easily accessible <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
+*   **Attack Mode**: Inspired by video game boosts, drivers can temporarily gain more energy by driving off the racing line in a specific zone <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. This provides a strategic advantage for about four minutes <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+*   **Fan Boost**: Historically, the audience could vote to give a specific driver a temporary speed boost <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. While this rule was retired in 2023 <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>, it exemplifies Formula E's flexibility and willingness to introduce "fun ideas" that might be considered "gimmicks" in [[introduction_to_formula_1_racing | Formula 1]] <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>.
+
+## Technological Advancements in Formula E
+Formula E has continuously pushed the boundaries of [[technological_innovations_in_electric_racing | electric car technology]], with each generation of cars demonstrating significant improvements that reflect progress in consumer electric vehicles <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>.
+
+### Gen 1 (First Formula E Car)
+*   **Challenge**: The primary issue was limited battery range <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>, which was a common problem for electric cars in 2014, with maximum ranges around 250 miles and much lower median ranges <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. Race conditions, particularly high speeds, further depleted batteries <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>.
+*   **Solution**: Drivers used two cars per race, switching vehicles during a pit stop <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
+
+### Gen 2
+*   **Improvement**: After four years, Generation 2 cars were developed, capable of twice the distance <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>. This allowed drivers to complete an entire race with only one car <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>.
+
+### Gen 3 (Fastest and Most Powerful Electric Race Car)
+*   **Specifications**: The Gen 3 car represents the biggest step up in [[technological_innovations_in_electric_racing | technology]] for Formula E <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. It boasts a power increase from 250 kilowatts to 350 kilowatts and a weight reduction from over 900 kilograms to approximately 850 kilograms, making it faster and more powerful <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>.
+*   **Standardized Components**: Unlike [[introduction_to_formula_1_racing | Formula 1]], all Formula E teams must use the same chassis, battery, and most ancillary parts <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. Teams focus their development money on powertrain components (rear motor, inverter, gearbox, and associated software) to convert battery energy into speed <a class="yt-timestamp" data-t="00:09:55">[00:10:05]</a>. This design aims to control costs, a direct response to runaway expenses in [[introduction_to_formula_1_racing | Formula 1]] <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
+*   **Regenerative Braking (No Rear Mechanical Brakes)**: A major innovation in the Gen 3 car is the absence of rear mechanical brakes <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. The car stops using its electric motors, which convert kinetic energy back into electrical energy to recharge the batteries <a class="yt-timestamp" data-t="00:10:58">[00:11:01]</a>. This system can recuperate up to 80% of the energy back into the battery during braking <a class="yt-timestamp" data-t="00:11:55">[00:12:00]</a>. While challenging in early testing, leading to crashes <a class="yt-timestamp" data-t="00:11:06">[00:11:06]</a>, this [[technological_innovations_in_electric_racing | technology]] is a significant step forward that could benefit future electric road cars, leading to more miles, faster driving, cleaner operation, and quicker charging <a class="yt-timestamp" data-t="00:11:15">[00:11:19]</a><a class="yt-timestamp" data-t="00:12:35">[00:12:41]</a>.
+
+## Formula 1's Shift to Hybrid Technology
+Around the same time Formula E launched, [[introduction_to_formula_1_racing | Formula 1]] announced its biggest set of rule changes in a generation, going "green" with hybrid powertrains <a class="yt-timestamp" data-t="00:08:34">[00:08:37]</a>. Every [[introduction_to_formula_1_racing | F1]] car now uses a hybrid system with a turbo engine and two electric motors <a class="yt-timestamp" data-t="00:08:46">[00:08:48]</a>. This falls within Formula E's exclusive license, which covers "purely electric" racing <a class="yt-timestamp" data-t="00:08:58">[00:09:00]</a>. While [[introduction_to_formula_1_racing | Formula 1]] could go 99% electric and 1% fuel, their next generation of engines will be almost 50/50, indicating they would go full electric if not for the licensing conflict <a class="yt-timestamp" data-t="00:09:06">[00:09:12]</a>.
+
+## The Future of Car Racing
+Car racing is described as "the world's most popular group science project" <a class="yt-timestamp" data-t="00:12:45">[00:12:48]</a>. For it to remain relevant, it must drive towards the [[future_of_car_racing | future]] rather than dwelling in the past <a class="yt-timestamp" data-t="00:12:53">[00:12:57]</a>. The eventual illegality of combustion cars means that a championship not racing relevant [[technological_innovations_in_electric_racing | technology]] will become disconnected from the public <a class="yt-timestamp" data-t="00:12:58">[00:13:14]</a>.
+
+There is speculation about the [[future_of_car_racing | future]] relationship between [[formula_1_vs_formula_e | Formula 1 and Formula E]], including potential mergers <a class="yt-timestamp" data-t="00:13:19">[00:13:22]</a>. Regardless, both sports continue to work towards developing better [[technological_innovations_in_electric_racing | technology]] for everyone <a class="yt-timestamp" data-t="00:13:25">[00:13:29]</a>. Viewers are encouraged to watch a Formula E race to experience the "phenomenal" quality of racing and action <a class="yt-timestamp" data-t="00:13:36">[00:13:42]</a>.

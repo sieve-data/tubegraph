@@ -1,48 +1,40 @@
 ---
-title: challenges of online voting
+title: Challenges of online voting
 videoId: LrHaXyv8eO0
 ---
 
 From: [[⁨cleoabram⁩]] <br/> 
 
-Online voting, while offering the potential for increased voter turnout and convenience, presents a complex array of challenges that are both technical and political <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. The stakes are incredibly high, involving the security of democratic processes in well-armed countries <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. Cybersecurity experts, including Dr. Joe Kiniry and Dr. Josh Benaloh, highlight that many problems remain unsolved <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
+The year 2024 is considered an "ultimate election year," with countries representing half the world's population holding votes for their leaders. This presents a significant test of democracy, requiring millions of polling places and billions of ballots [00:00:07]. However, voting is not always easy; people may need to travel long distances, wait in long lines, or take time off work [00:00:17]. This raises the question of why online voting isn't more widely adopted [00:00:31]. The answer is controversial, complicated, and involves high stakes [00:00:39].
 
 ## Current Landscape of Online Voting
 
-While not widespread for general elections, online voting has limited applications:
-*   **Astronauts**: Since 1997, US astronauts have been able to vote from space, a tradition that continues <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
-*   **Military and Overseas Citizens**: Approximately 300,000 Americans voted online in 2020 through options provided for military and overseas citizens <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>. These methods often involve emailing or faxing ballots, which cybersecurity experts deem unsuitable for a whole country <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
-*   **Global Perspectives**: Various countries allow online voting to different degrees, though it's mostly for people with special circumstances <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
+While not widespread, online voting has surprising origins. In 1997, Texas implemented an online voting option for an astronaut to cast their ballot from the Mir Space Station [00:01:16]. This tradition continues, with American astronauts on the International Space Station (ISS) planning to vote this way [00:01:31]. Currently, several U.S. states offer [[online_voting_technologies_and_solutions | online voting options]] for military and overseas citizens, with approximately 300,000 Americans voting online in 2020 [00:01:39]. Around the world, various countries have options for online voting to differing degrees, though it's mostly available for people with special circumstances, not the general public [00:01:49].
 
-## Core Challenges
+In most parts of the world, voting still involves traditional methods. In India, people go to polling stations and use electronic machines, with election officials marking fingers with ink to prevent fraud [00:01:57]. In Gambia, voters place marbles into colored drums [00:02:09]. In the United States, voters typically mark a paper ballot which is then counted by an optical scan ballot counter, similar to a Scantron test [00:02:18]. The physical paper ballot is retained as a backup for audits or recounts [00:02:29].
 
-Experts identify four primary challenges to widespread online voting:
+## The High Stakes of Online Voting
+
+The biggest aspiration for online voting is to increase voter turnout and make participation in democracies easier [00:02:58]. However, the stakes are extremely high, as it involves critical national security. As one expert noted, "This is [[cybersecurity_concerns_in_online_voting | cybersecurity]] on a whole whole other level" [00:03:16]. Current methods used by select online voters in the U.S., such as emailing or faxing ballots, are explicitly not recommended for a whole country due to [[cybersecurity_concerns_in_online_voting | cybersecurity concerns]] [00:03:31].
+
+## Key Challenges
+
+[[cybersecurity_concerns_in_online_voting | Cybersecurity experts]] Dr. Joe Kiniry and Dr. Josh Benaloh identify four fundamental [[challenges_of_online_voting | challenges to online voting]] [00:04:05]:
 
 ### 1. Credentials
-For online voting, secure digital credentials are required to verify a voter's identity <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>.
-*   **Estonia's Model**: Estonia has addressed this by issuing electronic ID cards to all citizens, which are used for various services, including online voting since the early 2000s <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>.
-*   **US Resistance**: In the United States, there is significant historical and [[political and technical barriers to online voting | political resistance]] to the rollout of a national ID system <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. While Social Security numbers exist, their use as a foundational step towards a national ID is deemed a "no go" from a [[political and technical barriers to online voting | political standpoint]] <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>.
+Online voting necessitates some form of digital credentials [00:04:13]. [[case_studies_and_examples_of_online_voting | Estonia]] serves as a model, where every citizen possesses an electronic ID card used for various services, including online voting since the early 2000s [00:04:25]. In Europe, national ID cards are common, but in the U.S., there has been strong political resistance to implementing a national ID system [00:04:35]. While Social Security numbers exist, their expansion into a national ID system is a "no go" from a political standpoint [00:04:49].
 
 ### 2. Coercion
-Maintaining the secrecy of the ballot is crucial to prevent vote selling, buying, and manipulation <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. Online voting makes this difficult:
-*   **Lack of Polling Place Control**: Unlike a polling place where a voter casts their ballot in secret, an online voter using a phone with facial ID could easily hand the device to another person to cast their vote <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
-*   **Receipts**: Online voting could allow for a "receipt" of how one voted, which could be used to prove to someone (e.g., an employer offering money) that they voted a certain way <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
-*   **Estonia's Solution**: Estonia combats coercion by allowing voters to recast their vote multiple times online, with only the last recorded vote being counted <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. This contrasts with online banking, where transactions must be transparent and verifiable by both the user and the bank <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
+A significant challenge is preventing coercion, where a voter could be forced or bribed to vote a certain way [00:05:13]. Unlike physical polling places, an online voter could hand their device to someone else after logging in, compromising the secret ballot [00:05:18]. This could lead to vote selling and manipulation [00:05:37]. [[case_studies_and_examples_of_online_voting | Estonia]] addresses this by allowing voters to recast their vote multiple times online, with only the last recorded vote being counted, thereby mitigating the risk of forced votes [00:05:42]. This differs from online banking, where transactions are part of a public ledger and are not secret [00:05:57].
 
 ### 3. Client Malware
-A major [[security concerns in online voting | security concern]] is the vulnerability of individual voter devices to malware <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
-*   **Expanded Attack Surface**: When voting online, every voter's device becomes part of the election's infrastructure, vastly increasing the "attack surface" for hackers <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>.
-*   **Vote Flipping**: The primary concern is malware secretly flipping a vote (e.g., a vote for candidate A being recorded as a vote for candidate B) <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>.
-*   **Confirmation Difficulty**: Unlike online banking where transactions are confirmable, the secret ballot nature of voting makes confirming that a vote was properly cast very difficult <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>.
-*   **Benaloh Challenge**: Dr. Josh Benaloh invented a cryptographic method that allows voters to check if their encrypted vote was correctly generated without revealing how they voted <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>. If a small percentage of voters perform this check, it can statistically detect significant vote flipping across an election <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
-*   **New Problem**: However, if discovering a problem on a voter's device could call an election into question, it creates an incentive for malicious actors to intentionally infect their phones with malware to disrupt elections <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>.
+When voting moves online, every voter's device becomes part of the election's infrastructure, vastly increasing the "attack surface" for hackers [00:07:26]. The primary concern here is "vote flipping," where malware on a voter's phone could change a vote without their knowledge [00:07:49]. Unlike online banking or encrypted messaging, the critical difference in voting is the ability to confirm that actions have been done properly, which is difficult due to the requirement of a secret ballot [00:08:16].
+
+Dr. Josh Benaloh developed a method, the "Benaloh challenge," that allows voters to statistically verify the system's integrity [00:08:35]. Through a process of choosing to either submit an encrypted vote or check if it was correctly encrypted, voters can repeatedly test the system [00:08:52]. This process mathematically proves the system is working, and if even 1% of voters perform a check in a large election, statistical likelihood suggests that vote flipping would be caught [00:09:46]. However, if finding a problem on a voter's phone could overturn an election, it creates an incentive for malicious actors to intentionally infect their phones with malware to disrupt results [00:10:18].
 
 ### 4. Denial of Service (DoS) Attacks
-Beyond vote flipping, a critical [[security concerns in online voting | cybersecurity risk]] is a denial of service attack <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>.
-*   **Overloading Systems**: DoS attacks aim to overload a system with fake traffic, causing websites to crash, load improperly, or even creating internet outages <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>.
-*   **Impact on Turnout**: Even a slowdown for a few hours could be catastrophic, as factors like weather are known to influence voter turnout. A DoS attack could create "online weather" in specific areas to suppress votes <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>.
-*   **Adversarial Capabilities**: Nations intent on influencing elections possess "unbounded amounts of hackers, computers, networks, and cash," posing a severe threat to the integrity and accessibility of an online voting system <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>. This is a problem of [[the role of cybersecurity in voting | cybersecurity]] at a national level <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+Beyond vote flipping, a major [[cybersecurity_concerns_in_online_voting | cybersecurity risk]] is a denial of service attack, which aims to overload a system with fake traffic, causing websites to crash or leading to internet outages [00:10:49]. Even a slowdown for a few hours could be catastrophic [00:11:00]. This is akin to creating "online weather" in specific areas to influence voter turnout, as physical weather is known to affect it [00:11:04]. Adversaries are "extremely talented" and possess "unbounded amounts of hackers, computers, networks and cash" [00:11:26], making such attacks a serious threat by nations seeking to influence elections [00:11:33].
 
-## Broader Implications
+## Public Trust and the Future
 
-The challenges extend beyond technology to encompass issues of public trust, which is not solely a technological problem <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>. While progress is being made, many problems remain unsolved, and the path to a fully secure and trustworthy online voting system is arduous <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>.
+A significant non-technological challenge is maintaining public trust in voting processes [00:11:39]. While progress is being made in [[online_voting_technologies_and_solutions | online voting technologies and solutions]], many problems remain unsolved [00:12:00]. Despite the difficulties, the potential for online voting to work in the future is considered "huge if true" [00:12:13]. However, regardless of the technology, the importance of casting a human voice in democracy remains paramount [00:12:19].
