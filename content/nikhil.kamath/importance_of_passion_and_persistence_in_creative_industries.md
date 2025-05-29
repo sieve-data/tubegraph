@@ -1,0 +1,49 @@
+---
+title: Importance of Passion and Persistence in Creative Industries
+videoId: 2_yA6GoqUnY
+---
+
+From: [[nikhil.kamath]] <br/> 
+
+Making a career in unconventional fields like acting, cricket, or music requires a unique blend of passion, persistence, and a willingness to evolve. Three individuals, successful in their respective domains, share insights into their journeys, highlighting the critical role these qualities played in their rise.
+
+## The Genesis of Passion
+
+For many, the path to a creative career isn't immediately clear, but a burgeoning passion often serves as the initial spark. Kriti Sanon, an accomplished actor, admits she "didn't really know what [she] wanted to do in life" until engineering <a class="yt-timestamp" data-t="00:15:15">[00:15:15]</a>. Her mother recognized her innate dancing talent from a young age, leading her to formal Kathak training, which she initially "used to really hate" <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. However, it provided a fundamental "base training which just gives your body that Rhythm and that Grace" <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. She later discovered her passion for acting when she found she "enjoy[ed] it" and was "good at it" during a TV commercial shoot <a class="yt-timestamp" data-t="00:54:07">[00:54:07]</a>. She states that one must "love what you do" and come from a "place of passion" to truly succeed <a class="yt-timestamp" data-t="00:53:19">[00:53:19]</a>.
+
+Rahul, a cricketer, describes an early obsession with the sport, picking up a bat at two and a half or three years old <a class="yt-timestamp" data-t="00:58:50">[00:58:50]</a>. His "love for Cricket started then" <a class="yt-timestamp" data-t="00:59:03">[00:59:03]</a>. He was "lucky that [he] only had one dream" and "never had Plan B" <a class="yt-timestamp" data-t="01:35:53">[01:35:53]</a>. This singular focus, fueled by an intrinsic joy for the game, drove his early development.
+
+Aditya, known as Badshah, began his journey with a love for writing, which he used as an outlet for expression <a class="yt-timestamp" data-t="02:01:36">[02:01:36]</a>. This evolved into a passion for music, sparked by listening to rap and then actively engaging in mixing and production <a class="yt-timestamp" data-t="02:03:58">[02:03:58]</a>. His early collaborations, like working with Honey Singh, built his confidence <a class="yt-timestamp" data-t="02:09:44">[02:09:44]</a>.
+
+## The Indispensable Role of Persistence
+
+Creative industries are rife with challenges, making persistence a non-negotiable trait. Kriti recounts crying after her first ramp show and photo shoot because she "was not giving [her] best" <a class="yt-timestamp" data-t="00:41:22">[00:41:22]</a>. Her mother, being protective, advised her against entering such a demanding field <a class="yt-timestamp" data-t="00:55:52">[00:55:52]</a>. However, Kriti persisted, gaining "confidence with work" by continually "putting yourself in situations that you're scared of" <a class="yt-timestamp" data-t="00:41:47">[00:41:47]</a>. She emphasized that "even after you fall to sort of still have the courage to get up and give it another shot" is crucial <a class="yt-timestamp" data-t="00:56:16">[00:56:16]</a>.
+
+Rahul faced significant public [[Challenges of sustaining a career in content creation | trolling]] and even a suspension, which "scarred [him] massively" <a class="yt-timestamp" data-t="02:27:51">[02:27:51]</a>. Despite this, he learned to "not give other people the power" and sought "ignorance is bliss" by limiting his social media exposure <a class="yt-timestamp" data-t="01:31:18">[01:31:18]</a>. His strategy to manage pressure is to walk into the ground "not worrying about the outcome" <a class="yt-timestamp" data-t="02:24:41">[02:24:41]</a>, a mindset that has led to his best performances <a class="yt-timestamp" data-t="02:25:36">[02:25:36]</a>. He emphasizes the need to remind oneself "that where you are is good enough and be happy with that" <a class="yt-timestamp" data-t="02:24:06">[02:24:06]</a>.
+
+Badshah echoes this, stating that "the only genius thing that I did was not giving up" <a class="yt-timestamp" data-t="02:13:41">[02:13:41]</a>. He believes that if one is "truly passionate then I think it's only a matter of time" before success <a class="yt-timestamp" data-t="02:13:46">[02:13:46]</a>. The ability to "outwork someone else who your competition is" <a class="yt-timestamp" data-t="02:37:05">[02:37:05]</a>, combined with [[Role of talent versus hard work in sports and arts | patience and hard work]], is paramount.
+
+## The Necessity of Evolution and Learning
+
+In dynamic creative fields, continuous learning and adaptation are essential for longevity. Kriti highlights her "curiousness of knowing more" <a class="yt-timestamp" data-t="00:50:09">[00:50:09]</a> and her willingness to "ask questions" even if it meant appearing foolish initially <a class="yt-timestamp" data-t="00:51:12">[00:51:12]</a>. She recognizes the need to "evolve and mold yourself" as you age in the acting industry, transitioning to roles that "suits [your] age" rather than clinging to past types <a class="yt-timestamp" data-t="02:20:06">[02:20:06]</a>.
+
+Rahul's background in multiple sports contributed to his overall athletic ability, which he believes was beneficial for his cricket career <a class="yt-timestamp" data-t="00:59:37">[00:59:37]</a>. This multidisciplinary approach fostered a more well-rounded physical development <a class="yt-timestamp" data-t="01:00:37">[01:00:37]</a>.
+
+Badshah, as a musician and entrepreneur, embraces the evolution of technology, particularly AI, despite its potential to "mar[] your creativity" <a class="yt-timestamp" data-t="02:04:46">[02:04:46]</a>. He believes that "you can't fight something that's inevitable" <a class="yt-timestamp" data-t="02:05:11">[02:05:11]</a>. The ability to "change fast" and "adapt" is a key "prerequisite to success" <a class="yt-timestamp" data-t="02:23:23">[02:23:23]</a>, ensuring continued relevance in a rapidly changing landscape <a class="yt-timestamp" data-t="02:22:42">[02:22:42]</a>.
+
+## Balancing Passion with Practicality
+
+While passion is a powerful driver, successful careers also involve a realistic approach to profitability and external validation. Kriti initially sought validation through academic achievements and dance <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>. Later, in her acting career, she realized that "validation is an external thing" <a class="yt-timestamp" data-t="02:23:29">[02:23:29]</a> that can come "at the cost of Peace" <a class="yt-timestamp" data-t="00:23:35">[00:23:35]</a>. She now prioritizes doing what "excites [her]" and makes her "feel alive" on set, rather than chasing projects solely for "box office" success or external approval <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>. She believes in "happy Restless" where she is "happy with where I am" but "Restless to do the next thing" <a class="yt-timestamp" data-t="02:21:28">[02:21:28]</a>.
+
+Rahul, acknowledging the finite nature of a cricket career, began "thinking about businesses and... investing my money" to ensure [[Balancing passion and profitability in careers | financial security]] post-retirement <a class="yt-timestamp" data-t="02:18:27">[02:18:27]</a>. He received guidance from friends and used the COVID-19 pandemic to research investments, aiming for a smooth "transition from being an athlete to doing something in business" <a class="yt-timestamp" data-t="02:19:33">[02:19:33]</a>.
+
+The discussion also touched upon the nature of various industries. It was suggested that industries where "passionate people enter" are often "very difficult" to make money in, citing movie business and restaurants as examples <a class="yt-timestamp" data-t="01:48:35">[01:48:35]</a>. The advice for aspiring entrepreneurs is to "stay away from anything that is cool today" and instead "pick a sector first" that is expected to grow significantly, like "energy transition" or "health wellness" <a class="yt-timestamp" data-t="01:52:27">[01:52:27]</a>, where competition might be less driven by passion and more by profit <a class="yt-timestamp" data-t="01:52:14">[01:52:14]</a>.
+
+## Key Takeaways for Aspiring Professionals
+
+*   **Find Your Passion:** Whether inherent or discovered through experience, genuine enjoyment of your craft is a potent motivator <a class="yt-timestamp" data-t="00:53:19">[00:53:19]</a>.
+*   **Embrace Persistence:** Failures and setbacks are inevitable. The ability to "get up and give it another shot" is crucial for long-term success <a class="yt-timestamp" data-t="00:56:19">[00:56:19]</a>.
+*   **Cultivate a Growth Mindset:** Be a lifelong learner, ask questions, and be willing to adapt to changing environments and age-appropriate roles <a class="yt-timestamp" data-t="02:23:16">[02:23:16]</a>.
+*   **Manage Expectations:** While seeking validation is natural, don't let it compromise your inner peace. Understand the [[importance_of_enjoying_the_creative_process | importance of enjoying the process]] itself, not just the outcome <a class="yt-timestamp" data-t="02:22:56">[02:22:56]</a>.
+*   **Strategic Choices:** For business ventures, prioritize sectors with systemic growth potential over trendy, passion-driven fields where competition is fierce <a class="yt-timestamp" data-t="02:38:08">[02:38:08]</a>.
+*   **Patience and Self-Belief:** Success is a marathon, not a sprint. Trust in your ability and be patient, as "it's only a matter of time" if you truly put in the effort <a class="yt-timestamp" data-t="02:13:46">[02:13:46]</a>.

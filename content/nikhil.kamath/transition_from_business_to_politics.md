@@ -5,53 +5,59 @@ videoId: tlicx3KKzmQ
 
 From: [[nikhil.kamath]] <br/> 
 
-Chris, the Prime Minister of New Zealand, made a notable [[transition_from_childhood_to_career_in_a_business_family | transition from a career in business]] to one in [[politics_and_entrepreneurship | politics]]. His background includes working at Unilever and Air New Zealand before entering public service <a class="yt-timestamp" data-t="07:08:11">[07:08:11]</a>.
+Chris Hipkins, the Prime Minister of New Zealand, has a unique background as a former business leader at Unilever and Air New Zealand before entering [[political_aspirations_and_involvement | political life]] <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. This transition is seen by some as a growing trend globally <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
 
-## Reasons for the Transition
-Chris views his move into [[politics_and_entrepreneurship | political life]] as "tremendously worth it" <a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a>. His primary motivation is deeply rooted in public service, aiming to improve the livelihoods of citizens <a class="yt-timestamp" data-t="07:54:00">[07:54:00]</a>. He emphasizes that he is "not a career politician," which is unusual in New Zealand, and believes that coming from outside the system offers a beneficial "outside in perspective" on necessary changes and national improvement <a class="yt-timestamp" data-t="08:01:00">[08:01:00]</a>.
+## Motivation for the Transition
 
-He had always considered entering political life at some point <a class="yt-timestamp" data-t="08:37:00">[08:37:00]</a>, feeling it is helpful to have prior experience outside of politics to better understand the world and how to assist people <a class="yt-timestamp" data-t="08:51:00">[08:51:00]</a>.
+Hipkins describes the privilege of leading a country as "very, very special" and "incredibly challenging but... very, very rewarding" <a class="yt-timestamp" data-t="00:07:41">[00:07:41]</a>. His primary motivation is public service, aiming to improve the livelihoods of citizens <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>. As a non-career politician, he offers an "outside in perspective" on what needs to change and how the country can improve <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. He believes that having a prior career in business helps one understand the world and how to help people <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>.
 
-## Transferable Skills from Business
-While acknowledging that running a company and a country are "completely different" <a class="yt-timestamp" data-t="09:12:00">[09:12:00]</a>, Chris asserts that many [[entrepreneurship_and_business_advice | skills from business]] are highly transferable to his role as Prime Minister <a class="yt-timestamp" data-t="09:06:00">[09:06:00]</a>.
+## Transferable Skills from Business to Politics
 
-Key transferable skills and principles include:
-*   **Leadership and Team Building**: The way one leads and builds a team to deliver an agenda is "very, very similar" across both fields <a class="yt-timestamp" data-t="09:17:00">[09:17:00]</a>.
-*   **Strategic Balance**: The ability to "protect and enhance the good things" while also "provoke and stimulate change" is crucial for any leader, whether a CEO or Prime Minister <a class="yt-timestamp" data-t="09:53:00">[09:53:00]</a>.
-*   **Humility and Learning**: It's essential to "start from the beginning" and avoid assuming success in one sphere translates directly to another. Being humble and curious to learn new things is vital <a class="yt-timestamp" data-t="10:35:00">[10:35:00]</a>.
-*   **Character and Temperament**: Possessing a "good even temperament," not reacting to extreme highs or lows, is a significant trait observed in successful leaders <a class="yt-timestamp" data-t="11:28:00">[11:28:00]</a>.
-*   **Curiosity**: A keenness to continuously learn new things is deemed "really important" <a class="yt-timestamp" data-t="11:45:00">[11:45:00]</a>.
-*   **Communication Skills**: These are considered "critical" <a class="yt-timestamp" data-t="11:53:00">[11:53:00]</a>.
-*   **Conflict Management and Emotional Intelligence (EQ)**: In [[politics_and_entrepreneurship | politics]], which is a "people business," managing egos and personalities requires high EQ <a class="yt-timestamp" data-t="11:55:00">[11:55:00]</a>.
-*   **Economic Orientation**: Having a business and commercial orientation can be helpful, especially in challenging economic times <a class="yt-timestamp" data-t="17:17:00">[17:17:00]</a>.
-*   **Customer-Centricity**: Applying a "customer mentality" to public service, viewing citizens as customers, can make government delivery more efficient and effective <a class="yt-timestamp" data-t="27:50:00">[27:50:00]</a>.
+Hipkins highlights several [[leadership_skills_and_their_application_in_politics | skills]] and principles from his business career that are highly applicable to his role as Prime Minister <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>:
 
-## Challenges and Unlearning
-The transition requires being "prepared to unlearn things that may have made you successful in one job" <a class="yt-timestamp" data-t="29:05:00">[29:05:00]</a>. Politics involves "policy areas that are often very layered, very nuanced, very...complex," which cannot be approached simplistically <a class="yt-timestamp" data-t="29:20:00">[29:20:00]</a>. Chris highlights that governments often struggle with "problem definition," leading to ineffective solutions <a class="yt-timestamp" data-t="29:39:00">[29:39:00]</a>.
+*   **Protecting and Enhancing Good Elements** The principle of preserving and improving existing good things in a country or company remains the same <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>.
+*   **Stimulating Change** The ability to provoke and stimulate necessary change is crucial <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>.
+*   **Finding Balance** A leader's task is to balance protecting existing positives with stimulating change; neither constant upheaval nor pure incrementalism works <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
+*   **Curiosity and Learning** Staying curious and continuously learning new things is essential for success <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>.
+*   **Character and Temperament** Maintaining an even temperament and not catastrophizing during challenges or becoming overly celebratory during successes is vital <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>.
+*   **Communication Skills** These are deemed critical <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>.
+*   **Conflict Management and Emotional Intelligence (EQ)** In [[leadership_and_politics | politics]], which is a "people business," managing egos, personalities, and building good teams requires high EQ <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>.
+*   **Commercial and Economic Orientation** A strong understanding of economics and commercial principles is beneficial, especially during economic challenges <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>.
+*   **Team Building** Much like a sports team, Hipkins emphasizes placing the right people in the right roles with clear objectives <a class="yt-timestamp" data-t="00:13:58">[00:13:58]</a>.
+*   **Problem Definition** He notes that governments often struggle with defining problems, a skill that can be brought from business to formulate common-sense solutions <a class="yt-timestamp" data-t="00:29:32">[00:29:32]</a>.
+*   **Customer Centricity** Applying a customer mentality to public service, focusing on delivering for citizens' needs, is key to efficient government <a class="yt-timestamp" data-t="00:27:51">[00:27:51]</a>.
 
-He likens the shift from business to politics to changing sports, from playing cricket to hockey <a class="yt-timestamp" data-t="10:29:00">[10:29:00]</a>. This means starting from the bottom and mastering new skills, such as policy areas, parliamentary workings, party connections, and ultimately, delivering for people <a class="yt-timestamp" data-t="29:51:00">[29:51:00]</a>.
+## Challenges and What Needs to Be Unlearned
 
-## Identity and Perspective
-Chris's social media bio prioritizes "first a husband, then a father, then a brother, then a son" before "New Zealand prime minister" <a class="yt-timestamp" data-t="04:12:00">[04:12:00]</a>. This reflects his belief that "it's not what you do, it's actually who you are that matters much more" <a class="yt-timestamp" data-t="04:32:00">[04:32:00]</a>. He emphasizes not being defined by a job title, as it can lead to personal shattering when the title is lost <a class="yt-timestamp" data-t="04:59:00">[04:59:00]</a>.
+The transition from business to politics is not seamless, and Hipkins acknowledges that running a company is "completely different" from running a country <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>. He compares it to switching from playing cricket to playing hockey, requiring a willingness to "start from the beginning" <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>.
 
-## Dealing with Public Opinion
-Chris maintains that he is "not consumed" by social media, acknowledging the presence of critics but choosing not to let it define him <a class="yt-timestamp" data-t="12:55:00">[12:55:00]</a>. He takes advice and feedback but asserts the right to choose whose opinions to consider <a class="yt-timestamp" data-t="15:19:00">[15:19:00]</a>. This ability to not let criticism affect him is seen as a "superpower in today's world" <a class="yt-timestamp" data-t="14:13:00">[14:13:00]</a>. His focus remains on his mission and purpose, investing time in "real human to human connections and relationships" <a class="yt-timestamp" data-t="15:57:00">[15:57:00]</a>.
+> "I was really, you know, I'd gone from playing cricket to now playing hockey, you know, like it's actually you had to start from the beginning and not come in assumptive that just because you've been successful in one sphere of life that you immediately going to be successful in another sphere." <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>
 
-When asked who is harder to deal with—shareholders or voters—Chris unequivocally states "the public" <a class="yt-timestamp" data-t="19:05:00">[19:05:00]</a>. He explains that voters have "much more substantive issues" beyond dividends, holding high expectations for improved public services, economic growth, and safety <a class="yt-timestamp" data-t="19:06:00">[19:06:00]</a>.
+A critical aspect is being prepared to **unlearn** what made one successful in a previous career <a class="yt-timestamp" data-t="00:29:07">[00:29:07]</a>. Political policy areas are often layered, nuanced, and complex, not to be approached simplistically <a class="yt-timestamp" data-t="00:29:20">[00:29:20]</a>. Politicians must master policy areas and understand how parliament works <a class="yt-timestamp" data-t="00:30:04">[00:30:04]</a>.
 
-## [[the_influence_of_money_in_politics | The Role of Money in Politics]]
-Chris highlights that New Zealand has "very tight laws around campaign financing," preventing money from buying influence as observed in other democracies <a class="yt-timestamp" data-t="17:06:00">[17:06:00]</a>. Strict independent electoral commission laws limit spending per candidate significantly, ensuring that money is not a barrier for someone to run for parliament <a class="yt-timestamp" data-t="17:21:00">[17:21:00]</a>. This system promotes diversity in parliament, welcoming individuals from "all walks of life" <a class="yt-timestamp" data-t="18:44:00">[18:44:00]</a>.
+Hipkins advises that not all successful business people make great politicians, and vice-versa. The key lies in the individual's ability to transition, focusing on the principles of [[leadership_and_politics | leadership]] and building effective organizations, regardless of their prior field <a class="yt-timestamp" data-t="00:33:14">[00:33:14]</a>.
 
-## Advice for Aspiring Politicians from Business
-For individuals transitioning from the corporate world to politics, Chris advises:
-*   **Be Prepared to Unlearn**: Let go of methods that worked in business but may not apply to the complex, nuanced policy areas of politics <a class="yt-timestamp" data-t="29:05:00">[29:05:00]</a>.
-*   **Start from the Bottom**: Approach the new field with humility, not assuming immediate success based on past achievements <a class="yt-timestamp" data-t="29:51:00">[29:51:00]</a>.
-*   **Master Policy Areas**: Dedicate time to understand the intricate details of policy <a class="yt-timestamp" data-t="30:04:00">[30:04:00]</a>.
-*   **Understand Parliament**: Learn the workings of the legislative body <a class="yt-timestamp" data-t="30:06:00">[30:06:00]</a>.
-*   **Connect with Your Party**: Build strong relationships and understanding within the political party <a class="yt-timestamp" data-t="30:08:00">[30:08:00]</a>.
-*   **Focus on Delivery**: Ultimately, the goal is to "deliver for people" and improve their daily lives <a class="yt-timestamp" data-t="30:09:00">[30:09:00]</a>.
+## [[Role of money and campaign financing in politics | Role of Money in Politics]]
 
-He emphasizes that the success of a transition depends on the individual's "emotional intelligence, the skills, the experience to actually do the jobs properly" rather than their previous job title <a class="yt-timestamp" data-t="33:46:00">[33:46:00]</a>. The core principles of leadership and building great organizations are what truly matter <a class="yt-timestamp" data-t="32:29:00">[32:29:00]</a>.
+Hipkins addresses the perceived notion that money is a precondition for success in politics, especially concerning the path for business people <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>. He clarifies that in New Zealand, strict laws govern campaign financing, limiting individual spending significantly <a class="yt-timestamp" data-t="00:17:04">[00:17:04]</a>.
 
-## Optimism for the Future
-Chris expresses optimism for the future, believing that the next generation is "incredibly altruistic" and less burdened by historical prejudice <a class="yt-timestamp" data-t="39:09:00">[39:09:00]</a>. He encourages [[youth_in_politics | young people]] who are frustrated with the system to "get involved," "get into the arena," and "be the change that...you want to see" instead of disengaging <a class="yt-timestamp" data-t="39:55:00">[39:55:00]</a>.
+> "I mean we come from a political system in New Zealand where money you know we have very tight laws around campaign financing and so we don't have the challenges that I observe in other countries around the world or other democracies where money buys influence." <a class="yt-timestamp" data-t="00:17:04">[00:17:04]</a>
+
+This system ensures that money is not a barrier to running for office, fostering greater diversity in parliament, including artists, police officers, teachers, and business people <a class="yt-timestamp" data-t="00:18:34">[00:18:34]</a>.
+
+## Dealing with Stakeholders: Shareholders vs. Voters
+
+When asked who is harder to deal with, shareholders or voters, Hipkins states "without doubt the public" <a class="yt-timestamp" data-t="00:19:04">[00:19:04]</a>. He explains that voters expect leaders to deliver on substantive issues that directly impact their lives, such as improving public services, growing the economy, and maintaining law and order <a class="yt-timestamp" data-t="00:19:06">[00:19:06]</a>. These expectations lead to "huge expectations" <a class="yt-timestamp" data-t="00:19:34">[00:19:34]</a>.
+
+## Advice for Aspiring Politicians from the Business World
+
+For entrepreneurs considering a transition into politics, Hipkins offers the following advice:
+
+*   **Be Prepared to Unlearn:** Success in business does not automatically translate. Be open to letting go of old methods and acquiring new ones <a class="yt-timestamp" data-t="00:29:05">[00:29:05]</a>.
+*   **Start from the Bottom:** Approach the new field with humility, recognizing it's a completely different game <a class="yt-timestamp" data-t="00:29:51">[00:29:51]</a>.
+*   **Master Policy Areas:** Dive deep into the complex, layered, and nuanced policy issues <a class="yt-timestamp" data-t="00:30:04">[00:30:04]</a>.
+*   **Engage with the System:** For those frustrated with the system, Hipkins encourages active participation rather than disengagement.
+
+> "Get involved, you know, change the system. If you don't like the system, get into the system and actually make it a better system. You know, that's what I've tried to do. You can sit on the sidelines and you can comment and get behind your keyboard and sound off, but otherwise get into the arena and actually give it a go and actually shape it and make it change and be the change that, you know, famously said, you want to see." <a class="yt-timestamp" data-t="00:39:55">[00:39:55]</a>
+
+Ultimately, Hipkins stresses that the qualities of great leadership and building effective organizations are universal, applicable across [[politics_and_entrepreneurship | business]], politics, and non-profits <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>. The focus should be on finding individuals with emotional intelligence, skills, and experience to do the job properly <a class="yt-timestamp" data-t="00:33:46">[00:33:46]</a>.

@@ -5,10 +5,6 @@ videoId: cjKzNBoqjGM
 
 From: [[nikhil.kamath]] <br/> 
 
-## Learning from Business Models
+The conversation highlights the intention to provide [[entrepreneurship_tips_for_young_entrepreneurs | advice for young entrepreneurs]], particularly those interested in starting businesses like a coffee shop or a kombucha brand <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. The speaker expresses openness to sharing information on their operational methods <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
 
-Individuals interested in [[entrepreneurship_and_business_advice | entrepreneurship]] and starting businesses such as a coffee shop, a kombucha brand, or a service for alcoholics, are encouraged to "learn something here" <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>. The discussion is described as "very very open" <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a> regarding how the business operates.
-
-## Specific Guidance
-
-A "very important piece of advice" <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a> was intended for someone who is 25 years old and beginning their journey <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>. However, the specific advice was not fully articulated in the provided segment <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>.
+A "very important piece of [[entrepreneurial_journey_and_advice_for_young_aspiring_entrepreneurs | advice]]" is intended for someone who is 25 years old and starting their [[entrepreneurship_for_beginners | entrepreneurial journey]] <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. The specific advice, however, is not detailed within this segment.

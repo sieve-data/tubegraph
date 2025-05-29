@@ -1,381 +1,449 @@
 ---
 title: nikhil.kamath
 ---
+### [Nikhil Kamath x Ranbir Kapoor | People by WTF Ep #2](https://www.youtube.com/watch?v=fEnwMyHejtQ)
+- [[entrepreneurial_journey_and_advice_for_young_aspiring_entrepreneurs | Entrepreneurial Journey and Advice for Young Aspiring Entrepreneurs]]
+- [[role_of_detachment_and_indifference_in_personal_and_professional_life | Role of Detachment and Indifference in Personal and Professional Life]]
+- [[relationships_and_family_dynamics | Relationships and Family Dynamics]]
+- [[challenges_and_reflections_on_success_in_the_film_industry | Challenges and Reflections on Success in the Film Industry]]
+- [[cultural_identity_and_indian_market_potential | Cultural Identity and Indian Market Potential]]
+
+### [Nikhil Kamath x Kumar Birla | People by WTF Ep #5](https://www.youtube.com/watch?v=e6FqC4pWy8I)
+- [[entrepreneurship_and_business_strategies | Entrepreneurship and business strategies]]
+- [[family_influences_and_personal_experiences | Family influences and personal experiences]]
+- [[life_lessons_and_personal_development | Life lessons and personal development]]
+- [[philosophies_on_legacy_and_philanthropy | Philosophies on legacy and philanthropy]]
+- [[navigating_business_transitions_and_market_changes | Navigating business transitions and market changes]]
+
 ### [Nikhil Kamath x Bill Gates | People by WTF | Ep. #1](https://www.youtube.com/watch?v=ckNEdxQ0Tc0)
-- [[philanthropy_and_its_role_in_society | Philanthropy and its role in society]]
-- [[bill_gates_relationship_and_initiatives_in_india | Bill Gates relationship and initiatives in India]]
-- [[climate_change_and_energy_transition_opportunities | Climate change and energy transition opportunities]]
-- [[the_impact_of_artificial_intelligence_on_society | The impact of artificial intelligence on society]]
-- [[entrepreneurship_opportunities_in_india | Entrepreneurship opportunities in India]]
+- [[bill_gates_relationship_with_india_and_philanthropy | Bill Gates relationship with India and philanthropy]]
+- [[role_of_philanthropy_and_capitalism_in_society | Role of philanthropy and capitalism in society]]
+- [[career_opportunities_in_energy_transition_and_climate_innovation | Career opportunities in energy transition and climate innovation]]
+- [[artificial_intelligence_and_its_future_impact_on_society | Artificial intelligence and its future impact on society]]
+- [[opportunities_for_indian_entrepreneurs_in_ai_and_tech_advancements | Opportunities for Indian entrepreneurs in AI and tech advancements]]
+
+### [Ep #11 | WTF Goes into Building a Fashion, Beauty, or Home Brand? Nikhil w/ Kishore, Raj, and Ananth](https://www.youtube.com/watch?v=hjiZ11lKCrU)
+- [[building_a_fashion_or_beauty_brand_from_scratch | Building a fashion or beauty brand from scratch]]
+- [[influencerled_brand_strategies | Influencerled brand strategies]]
+- [[consumer_trends_in_fashion_and_ecommerce | Consumer trends in fashion and ecommerce]]
+- [[challenges_in_online_retail_and_marketing | Challenges in online retail and marketing]]
+- [[role_of_content_and_community_in_brand_building | Role of content and community in brand building]]
+
+### [Ep# 13 | WTF does it take to Build Influence Today? Nikhil w/ Nuseir, Tanmay, Prajakta & Ranveer](https://www.youtube.com/watch?v=JjDjDvNgkFo)
+- [[building_influence_as_a_content_creator | Building influence as a content creator]]
+- [[the_journey_of_content_creators_and_their_transitions | The journey of content creators and their transitions]]
+- [[challenges_of_sustaining_a_career_in_content_creation | Challenges of sustaining a career in content creation]]
+- [[the_impact_of_social_media_algorithms_on_content_creators | The impact of social media algorithms on content creators]]
+- [[the_significance_of_authenticity_and_audience_interaction_in_content_creation | The significance of authenticity and audience interaction in content creation]]
+
+### [Ep #10 | WTF is the Next Gen Thinking? Nikhil w/ Navya, Tara, Aadit & Kaivalya](https://www.youtube.com/watch?v=nGpir4oUfJI)
+- [[generation_zs_consumption_habits_and_preferences | Generation Zs consumption habits and preferences]]
+- [[challenges_and_strategies_in_building_startups | Challenges and strategies in building startups]]
+- [[cultural_impact_and_evolution_of_bollywood | Cultural impact and evolution of Bollywood]]
+- [[social_media_influence_and_gen_z_behavior | Social media influence and Gen Z behavior]]
+- [[entrepreneurship_and_economic_inequality | Entrepreneurship and economic inequality]]
+
+### [Ep. #19 | WTF is “Making it” in an Offbeat Career? Nikhil Kamath Ft. Kriti Sanon, Badshah & KL Rahul](https://www.youtube.com/watch?v=2_yA6GoqUnY)
+- [[overcoming_stage_fright_and_building_selfconfidence | Overcoming Stage Fright and Building SelfConfidence]]
+- [[the_pursuit_of_nontraditional_careers_and_making_it | The Pursuit of Nontraditional Careers and Making It]]
+- [[importance_of_passion_and_persistence_in_creative_industries | Importance of Passion and Persistence in Creative Industries]]
+- [[role_of_cultural_and_family_background_in_career_choices | Role of Cultural and Family Background in Career Choices]]
+- [[balancing_personal_life_and_profession_in_highpressure_careers | Balancing Personal Life and Profession in HighPressure Careers]]
+
+### [Ep# 14 | WTF is Happening with EV? Nikhil ft. Founders of Reva, Ather, Blusmart, and Ossus](https://www.youtube.com/watch?v=iuyy1bIgR1s)
+- [[electric_vehicle_industry_trends_and_challenges | Electric vehicle industry trends and challenges]]
+- [[charging_infrastructure_for_electric_vehicles | Charging infrastructure for electric vehicles]]
+- [[business_opportunities_in_ev_and_renewable_energy_sectors | Business opportunities in EV and renewable energy sectors]]
+- [[battery_technology_and_management | Battery technology and management]]
+- [[government_policies_and_incentives_for_evs | Government policies and incentives for EVs]]
+
+### [People with The Prime Minister Shri Narendra Modi x Nikhil Kamath | Ep 6 Trailer](https://www.youtube.com/watch?v=TDRVdWAzVy8)
+- [[parallels_between_politics_and_entrepreneurship | Parallels between politics and entrepreneurship]]
+- [[youth_involvement_in_politics | Youth involvement in politics]]
+- [[challenges_and_responsibilities_in_political_leadership | Challenges and responsibilities in political leadership]]
+- [[global_tensions_and_the_emphasis_on_peace | Global tensions and the emphasis on peace]]
+- [[public_perception_of_politics | Public perception of politics]]
+
+### [Ep. #20 | WTF are Indian Real Estate Giants Up To? Nikhil ft. Irfan, Nirupa, & Karan](https://www.youtube.com/watch?v=LqSEfz4YUFA)
+- [[challenges_and_opportunities_in_indian_real_estate | Challenges and opportunities in Indian real estate]]
+- [[the_evolution_and_transformation_of_real_estate_companies | The evolution and transformation of real estate companies]]
+- [[family_dynamics_in_real_estate_businesses | Family dynamics in real estate businesses]]
+- [[impact_of_urbanization_and_market_demands_on_real_estate | Impact of urbanization and market demands on real estate]]
+- [[strategies_for_starting_and_investing_in_real_estate | Strategies for starting and investing in real estate]]
+
+### [Do we really want to live that long? Nikhil Kamath explores Longevity | Ep #21 Teaser](https://www.youtube.com/watch?v=wZ_-eXtSPWs)
+- [[air_quality_in_india | Air quality in India]]
+- [[uninhabitable_cities_in_india | Uninhabitable cities in India]]
+- [[womens_reproductive_health_and_longevity | Womens reproductive health and longevity]]
+
+### [Ep #9 | WTF is Venture Capital? Ft. Nikhil, Nithin, Rajan A., Prashanth P. & Karthik R.](https://www.youtube.com/watch?v=zCTm1wHcfkI)
+- [[understanding_venture_capital_and_its_impact_on_startups | Understanding venture capital and its impact on startups]]
+- [[investment_trends_and_opportunities_in_india | Investment trends and opportunities in India]]
+- [[the_role_of_venture_capitalists_in_supporting_innovation | The role of venture capitalists in supporting innovation]]
+- [[challenges_faced_by_startups_in_india | Challenges faced by startups in India]]
+- [[charitable_initiatives_and_corporate_social_responsibility | Charitable initiatives and corporate social responsibility]]
+
+### [Ep# 12 | WTF is The Restaurant Game? Nikhil w/ Pooja Dhingra, Zorawar Kalra & Riyaaz Amlani](https://www.youtube.com/watch?v=M72Wu2rZE7Y)
+- [[challenges_and_success_stories_of_opening_a_restaurant | Challenges and success stories of opening a restaurant]]
+- [[role_of_passion_and_education_in_the_food_industry | Role of passion and education in the food industry]]
+- [[navigating_the_restaurant_industrys_regulatory_environment | Navigating the restaurant industrys regulatory environment]]
+- [[strategies_for_restaurant_marketing_and_customer_acquisition | Strategies for restaurant marketing and customer acquisition]]
+- [[impact_of_cultural_and_festive_seasons_on_restaurant_business | Impact of cultural and festive seasons on restaurant business]]
+
+### [Ep.2 Trailer | People by WTF : Nikhil Kamath & Ranbir Kapoor](https://www.youtube.com/watch?v=Zn1KR5MdjMk)
+- [[therapy_and_selfdiscovery | Therapy and selfdiscovery]]
+- [[rumors_and_identity_in_public_life | Rumors and identity in public life]]
+
+### [#1 WTF is Metaverse? WTF is with Nikhil Kamath ft. Tanmay Bhat, Umang Bedi & Aprameya Radhakrishna](https://www.youtube.com/watch?v=tWzalcN_Inc)
+- [[the_role_of_virtual_influencers | The Role of Virtual Influencers]]
 
 ### [People with The Prime Minister Shri Narendra Modi x Nikhil Kamath | Episode 6 | By WTF](https://www.youtube.com/watch?v=yTMYtcQLLaw)
 - [[politics_and_entrepreneurship | Politics and Entrepreneurship]]
-- [[artificial_intelligence_and_metaverse | Artificial Intelligence and Metaverse]]
-- [[entrepreneurial_journey_and_challenges | Entrepreneurial Journey and Challenges]]
-- [[social_medias_impact_on_politics | Social Medias Impact on Politics]]
-- [[leadership_and_missiondriven_governance | Leadership and Missiondriven Governance]]
-
-### [Ep. #19 | WTF is “Making it” in an Offbeat Career? Nikhil Kamath Ft. Kriti Sanon, Badshah & KL Rahul](https://www.youtube.com/watch?v=2_yA6GoqUnY)
-- [[nuances_of_succeeding_in_unconventional_careers | Nuances of succeeding in unconventional careers]]
-- [[impact_of_background_and_upbringing_on_career_choices | Impact of background and upbringing on career choices]]
-- [[role_of_passion_and_hard_work_in_achieving_success | Role of passion and hard work in achieving success]]
-- [[challenges_and_strategies_in_maintaining_relevance_and_adapting_to_change | Challenges and strategies in maintaining relevance and adapting to change]]
-- [[significance_of_personal_relationships_and_mental_health_in_professional_success | Significance of personal relationships and mental health in professional success]]
-
-### [Nikhil Kamath x Kumar Birla | People by WTF Ep #5](https://www.youtube.com/watch?v=e6FqC4pWy8I)
-- [[family_influences_on_personal_development | Family influences on personal development]]
-- [[the_impact_of_historical_socioeconomic_changes_on_business_strategies | The impact of historical socioeconomic changes on business strategies]]
-- [[transition_from_childhood_to_career_in_a_business_family | Transition from childhood to career in a business family]]
-- [[importance_of_adaptability_and_learning_in_entrepreneurship | Importance of adaptability and learning in entrepreneurship]]
-- [[challenges_and_responsibilities_in_leading_a_family_business | Challenges and responsibilities in leading a family business]]
-
-### [People with The Prime Minister Shri Narendra Modi x Nikhil Kamath | Ep 6 Trailer](https://www.youtube.com/watch?v=TDRVdWAzVy8)
-- [[prime_minister_narendra_modis_interview | Prime Minister Narendra Modis interview]]
-- [[politics_and_entrepreneurship_parallels | Politics and entrepreneurship parallels]]
-- [[youth_in_politics | Youth in politics]]
-- [[narendra_modis_perspective_on_peace_and_war | Narendra Modis perspective on peace and war]]
-- [[differences_between_first_and_second_term_of_narendra_modi | Differences between first and second term of Narendra Modi]]
-
-### [Ep. #20 | WTF are Indian Real Estate Giants Up To? Nikhil ft. Irfan, Nirupa, & Karan](https://www.youtube.com/watch?v=LqSEfz4YUFA)
-- [[starting_a_real_estate_business_in_india | Starting a real estate business in India]]
-- [[historical_evolution_and_challenges_in_indian_real_estate | Historical evolution and challenges in Indian real estate]]
-- [[roles_and_importance_of_family_dynamics_in_real_estate | Roles and importance of family dynamics in real estate]]
-- [[impact_of_culture_and_market_changes_on_commercial_real_estate | Impact of culture and market changes on commercial real estate]]
-- [[innovations_and_future_trends_in_the_real_estate_industry | Innovations and future trends in the real estate industry]]
-
-### [Ep #9 | WTF is Venture Capital? Ft. Nikhil, Nithin, Rajan A., Prashanth P. & Karthik R.](https://www.youtube.com/watch?v=zCTm1wHcfkI)
-- [[understanding_venture_capital_and_its_role_in_indias_startup_ecosystem | Understanding venture capital and its role in Indias startup ecosystem]]
-- [[challenges_and_opportunities_in_indias_entrepreneurial_landscape | Challenges and opportunities in Indias entrepreneurial landscape]]
-- [[the_impact_of_market_size_and_sector_trends_on_investment_decisions | The impact of market size and sector trends on investment decisions]]
-- [[traits_of_successful_founding_teams_and_companies | Traits of successful founding teams and companies]]
-- [[differences_between_venture_capital_private_equity_and_angel_investing | Differences between venture capital private equity and angel investing]]
-
-### [Ep# 13 | WTF does it take to Build Influence Today? Nikhil w/ Nuseir, Tanmay, Prajakta & Ranveer](https://www.youtube.com/watch?v=JjDjDvNgkFo)
-- [[building_influence_as_a_content_creator | Building Influence as a Content Creator]]
-- [[journey_and_challenges_in_content_creation | Journey and Challenges in Content Creation]]
-- [[importance_of_authenticity_in_the_digital_space | Importance of Authenticity in the Digital Space]]
-- [[monetization_strategies_for_content_creators | Monetization Strategies for Content Creators]]
-- [[collaborations_and_networking_in_the_creator_economy | Collaborations and Networking in the Creator Economy]]
-
-### [Ep #10 | WTF is the Next Gen Thinking? Nikhil w/ Navya, Tara, Aadit & Kaivalya](https://www.youtube.com/watch?v=nGpir4oUfJI)
-- [[next_gens_perception_on_entrepreneurship | Next Gens perception on entrepreneurship]]
-- [[trends_in_consumption_among_indian_youth | Trends in consumption among Indian youth]]
-- [[the_impact_of_social_media_and_influencer_culture | The impact of social media and influencer culture]]
-- [[challenges_and_mindset_of_the_modern_youth | Challenges and mindset of the modern youth]]
-- [[the_evolution_and_future_of_bollywood | The evolution and future of Bollywood]]
-
-### [Nikhil Kamath x Ranbir Kapoor | People by WTF Ep #2](https://www.youtube.com/watch?v=fEnwMyHejtQ)
-- [[entrepreneurship_and_business_advice | Entrepreneurship and Business Advice]]
-- [[detachment_and_personal_philosophy | Detachment and Personal Philosophy]]
-- [[journey_and_experiences_in_bollywood | Journey and Experiences in Bollywood]]
-- [[family_relationships_and_childhood | Family Relationships and Childhood]]
-- [[mental_health_and_therapy | Mental Health and Therapy]]
-
-### [Ep #11 | WTF Goes into Building a Fashion, Beauty, or Home Brand? Nikhil w/ Kishore, Raj, and Ananth](https://www.youtube.com/watch?v=hjiZ11lKCrU)
-- [[strategies_for_building_a_consumer_brand_in_india | Strategies for building a consumer brand in India]]
-- [[creating_a_fashion_beauty_or_home_brand | Creating a fashion beauty or home brand]]
-- [[utilizing_social_media_and_influencer_marketing_for_brand_growth | Utilizing social media and influencer marketing for brand growth]]
-- [[challenges_and_opportunities_in_online_retail_and_ecommerce | Challenges and opportunities in online retail and ecommerce]]
-- [[impact_of_cultural_trends_on_brand_development_in_india | Impact of cultural trends on brand development in India]]
-
-### [WTF Ep# 16 | What character "flaws" make the best entrepreneurs? Nikhil ft.Ritesh, Ghazal and Manish](https://www.youtube.com/watch?v=FPV5fAkqyBs)
-- [[character_traits_of_successful_entrepreneurs | Character traits of successful entrepreneurs]]
-- [[background_and_upbringing_in_shaping_entrepreneurial_outlook | Background and upbringing in shaping entrepreneurial outlook]]
-- [[handling_adversity_and_financial_challenges | Handling adversity and financial challenges]]
-- [[the_role_of_education_and_serendipity_in_entrepreneurship | The role of education and serendipity in entrepreneurship]]
-- [[the_evolution_from_startup_scaling_to_global_expansion | The evolution from startup scaling to global expansion]]
-
-### [Ep# 14 | WTF is Happening with EV? Nikhil ft. Founders of Reva, Ather, Blusmart, and Ossus](https://www.youtube.com/watch?v=iuyy1bIgR1s)
-- [[challenges_and_opportunities_in_the_electric_vehicle_industry | Challenges and opportunities in the electric vehicle industry]]
-- [[the_role_of_infrastructure_in_ev_adoption | The role of infrastructure in EV adoption]]
-- [[battery_technology_and_innovation | Battery technology and innovation]]
-- [[sustainable_energy_solutions_like_hydrogen_and_solar_power | Sustainable energy solutions like hydrogen and solar power]]
-- [[market_trends_and_future_prospects_for_evs_in_india | Market trends and future prospects for EVs in India]]
-
-### [Ep #3| WTF is E-commerce: Kishore Biyani, Udaan & Meesho Founders Reveal What Sells and What Doesn’t](https://www.youtube.com/watch?v=UKag4LVAEdU)
-- [[ecommerce_evolution_and_strategies_in_india | Ecommerce evolution and strategies in India]]
-- [[impact_of_social_media_on_consumer_behavior | Impact of social media on consumer behavior]]
-- [[challenges_and_opportunities_in_offline_and_online_retail | Challenges and opportunities in offline and online retail]]
-- [[role_of_influencers_in_modern_marketing | Role of influencers in modern marketing]]
-- [[insights_on_building_successful_consumer_brands | Insights on building successful consumer brands]]
-
-### [Ep# 12 | WTF is The Restaurant Game? Nikhil w/ Pooja Dhingra, Zorawar Kalra & Riyaaz Amlani](https://www.youtube.com/watch?v=M72Wu2rZE7Y)
-- [[starting_a_restaurant_and_challenges | Starting a restaurant and challenges]]
-- [[education_for_aspiring_restaurateurs | Education for aspiring restaurateurs]]
-- [[gender_roles_and_challenges_in_the_culinary_industry | Gender roles and challenges in the culinary industry]]
-- [[using_social_media_and_marketing_for_restaurant_success | Using social media and marketing for restaurant success]]
-
-### [Ep #21 | WTF is Longevity? | Nikhil ft. Nithin Kamath, Bryan Johnson, Prashanth, Jitendra & Seema](https://www.youtube.com/watch?v=fEUoJSTYtyc)
-- [[importance_of_air_quality_on_health | Importance of air quality on health]]
-- [[blue_zones_and_longevity | Blue zones and longevity]]
-- [[measurement_of_health_markers_and_supplements | Measurement of health markers and supplements]]
-- [[impact_of_lifestyle_and_environment_on_health | Impact of lifestyle and environment on health]]
-- [[innovative_health_business_opportunities | Innovative health business opportunities]]
-
-### [Ep #6 | WTF is Health? ft. Nikhil Kamath, Suniel Shetty, Nithin Kamath and Mukesh Bansal](https://www.youtube.com/watch?v=6HE6d0lKh4o)
-- [[significance_of_fitness_and_health | Significance of fitness and health]]
-- [[role_of_diet_and_nutrition_in_health | Role of diet and nutrition in health]]
-- [[impact_of_sleep_on_general_wellbeing | Impact of sleep on general wellbeing]]
-- [[mental_health_and_stress_management | Mental health and stress management]]
-- [[entrepreneurship_and_wellness | Entrepreneurship and wellness]]
-
-### [Ep #18 | WTF, Alcohol is a $70B Business in India? | Nikhil Kamath explores Gaps & Opportunities](https://www.youtube.com/watch?v=0JDsFpU6pGQ)
-- [[opportunities_in_the_alcohol_industry_in_india | Opportunities in the Alcohol Industry in India]]
-- [[challenges_and_strategies_in_starting_a_liquor_brand | Challenges and Strategies in Starting a Liquor Brand]]
-- [[the_rise_of_premiumization_in_the_indian_alcohol_market | The Rise of Premiumization in the Indian Alcohol Market]]
-- [[the_role_of_personality_and_story_in_alcohol_branding | The Role of Personality and Story in Alcohol Branding]]
-- [[exploring_the_future_of_alcohol_distribution_and_ecommerce_in_india | Exploring the Future of Alcohol Distribution and Ecommerce in India]]
-
-### [Ep #4 | WTF is ChatGPT: Heaven or Hell? | w/ Nikhil, Varun Mayya, Tanmay, Umang & Aprameya](https://www.youtube.com/watch?v=-HkBwSazZsM)
-- [[role_and_evolution_of_ai_assistants | Role and evolution of AI assistants]]
-- [[applications_and_impact_of_chat_gpt | Applications and impact of Chat GPT]]
-- [[speculations_on_future_job_market_disruptions_due_to_ai | Speculations on future job market disruptions due to AI]]
-- [[challenges_in_regulating_ai_development_and_usage | Challenges in regulating AI development and usage]]
-- [[impact_of_ai_on_social_and_economic_structures | Impact of AI on social and economic structures]]
-
-### [Ep. #2: Secrets of Social Media Success, Mental Health & Distribution Hacks - 3 OGs Reveal All](https://www.youtube.com/watch?v=SkU3J2vWUK8)
-- [[impact_of_social_media_on_mental_health | Impact of social media on mental health]]
-- [[influence_of_social_media_algorithms | Influence of social media algorithms]]
-- [[short_video_content_and_platforms | Short video content and platforms]]
-- [[role_of_envy_in_social_media_engagement | Role of envy in social media engagement]]
-
-### [Nikhil Kamath x Nandan Nilekani | People by WTF | Ep #3](https://www.youtube.com/watch?v=YqdJSu1DX48)
-- [[india_stack_and_digital_infrastructure | India stack and digital infrastructure]]
-- [[upi_and_digital_payment_systems | UPI and digital payment systems]]
-- [[aadhaar_and_digital_id_implementation | Aadhaar and digital ID implementation]]
-- [[cryptography_and_financial_technology | Cryptography and financial technology]]
-- [[opportunities_in_ai_and_digital_innovations_in_india | Opportunities in AI and digital innovations in India]]
-
-### [Ep.2 Trailer | People by WTF : Nikhil Kamath & Ranbir Kapoor](https://www.youtube.com/watch?v=Zn1KR5MdjMk)
-- [[bollywood_insights | Bollywood insights]]
-- [[childhood_experiences | Childhood experiences]]
-- [[therapy_and_mental_health | Therapy and mental health]]
-- [[role_models_and_idols | Role models and idols]]
-- [[personal_relationships_and_identity | Personal relationships and identity]]
-
-### [Ep #5 | EdTech What’s Broken, What’s Next? With Nikhil, Ronnie Screwvala , Gaurav Munjal & Jay Kotak](https://www.youtube.com/watch?v=01qfxLY2rhQ)
-- [[the_challenges_and_innovations_in_edtech | The challenges and innovations in EdTech]]
-- [[peertopeer_and_gamified_learning_experiences | Peertopeer and gamified learning experiences]]
-- [[the_impact_of_technological_advancements_on_education | The impact of technological advancements on education]]
-- [[the_evolution_of_global_and_indian_education_systems | The evolution of global and Indian education systems]]
-- [[entrepreneurial_insights_and_personal_growth_strategies | Entrepreneurial insights and personal growth strategies]]
-
-### [Do we really want to live that long? Nikhil Kamath explores Longevity | Ep #21 Teaser](https://www.youtube.com/watch?v=wZ_-eXtSPWs)
-- [[air_quality_in_india | air quality in India]]
-- [[real_estate_and_air_quality_in_india | real estate and air quality in India]]
-- [[future_habitability_of_indian_cities | future habitability of Indian cities]]
-- [[longevity_and_womens_reproductive_health | longevity and womens reproductive health]]
-
-### [Ep #23 | WTF are Consumer Electronics? | Nikhil ft. Carl Pei, Rahul Sharma & Amit Khatri](https://www.youtube.com/watch?v=lRjprPQHuXw)
-- [[starting_a_consumer_electronics_brand | Starting a consumer electronics brand]]
-- [[the_role_of_supply_chain_and_manufacturing_in_electronics | The role of supply chain and manufacturing in electronics]]
-- [[opportunities_in_indian_consumer_electronics_market | Opportunities in Indian consumer electronics market]]
-- [[influence_of_ai_and_technology_in_consumer_electronics | Influence of AI and technology in consumer electronics]]
-- [[strategies_for_market_entry_and_competition_in_consumer_electronics | Strategies for market entry and competition in consumer electronics]]
-
-### [#1 WTF is Metaverse? WTF is with Nikhil Kamath ft. Tanmay Bhat, Umang Bedi & Aprameya Radhakrishna](https://www.youtube.com/watch?v=tWzalcN_Inc)
-- [[understanding_the_metaverse | Understanding the Metaverse]]
-- [[digital_influencers_and_virtual_identities | Digital Influencers and Virtual Identities]]
-- [[role_of_technology_in_the_metaverse | Role of Technology in the Metaverse]]
-- [[future_of_social_media_and_entertainment_in_the_metaverse | Future of Social Media and Entertainment in the Metaverse]]
-- [[impact_of_metaverse_on_daily_life_and_industry | Impact of Metaverse on Daily Life and Industry]]
-
-### [Nikhil Kamath ft. Police Comm'r & Traffic Police Comm'r of Bengaluru | WTF is Policing? | Special Ep](https://www.youtube.com/watch?v=LcWoP6KtZKw)
-- [[improving_public_perception_of_the_police_in_bangalore | Improving public perception of the police in Bangalore]]
-- [[traffic_management_and_technology_in_bangalore | Traffic management and technology in Bangalore]]
-- [[career_opportunities_and_challenges_in_the_police_force | Career opportunities and challenges in the police force]]
-- [[use_of_technology_for_crime_detection_and_traffic_management | Use of technology for crime detection and traffic management]]
-- [[public_transport_development_and_its_impact_on_traffic_in_bangalore | Public transport development and its impact on traffic in Bangalore]]
+- [[entrepreneurship_for_beginners | Entrepreneurship for beginners]]
+- [[narendra_modis_early_life_and_education | Narendra Modis early life and education]]
+- [[leadership_and_politics | Leadership and politics]]
+- [[communication_and_public_speaking | Communication and public speaking]]
 
 ### [First Micromax Mobile Story | Rahul Sharma](https://www.youtube.com/watch?v=HC3mV3C3KWA)
-- [[inspiration_behind_the_first_micromax_phone | Inspiration behind the first Micromax phone]]
-- [[challenges_in_rural_mobile_usage | Challenges in rural mobile usage]]
-- [[innovative_solutions_for_power_and_signal_issues | Innovative solutions for power and signal issues]]
-- [[economic_impact_of_long_battery_life_in_rural_areas | Economic impact of long battery life in rural areas]]
-- [[market_differentiators_for_early_micromax_phones | Market differentiators for early Micromax phones]]
-
-### [Ep #22 | WTF are Craft Beverages? Nikhil ft. the Founders of Blue Tokai, Subko, Svami, and Mossant](https://www.youtube.com/watch?v=wHQiewz8k9g)
-- [[craft_beverage_entrepreneurship | Craft Beverage Entrepreneurship]]
-- [[specialty_coffee | Specialty Coffee]]
-- [[kombucha_production_and_market | Kombucha Production and Market]]
-- [[nonalcoholic_drink_industry | NonAlcoholic Drink Industry]]
-- [[challenges_in_beverage_distribution | Challenges in Beverage Distribution]]
-
-### [WTF is “Making it” in an Offbeat Career? | Nikhil interrogates Kriti Sanon, Badshah & KL Rahul](https://www.youtube.com/watch?v=STj_Ms55tZw)
-- [[importance_of_chemistry_in_relationships | Importance of chemistry in relationships]]
-- [[personal_journey_to_becoming_a_recognized_actor | Personal journey to becoming a recognized actor]]
-- [[psychological_analysis_and_therapy_experiences | Psychological analysis and therapy experiences]]
-- [[influence_of_talent_vs_passion_in_career_success | Influence of talent vs passion in career success]]
-- [[challenges_and_personal_insights_on_dealing_with_heartbreak | Challenges and personal insights on dealing with heartbreak]]
-
-### [Ep. 1 Trailer | People by WTF : Nikhil Kamath & Bill Gates](https://www.youtube.com/watch?v=UxU2henr9C0)
-- [[fitness_tips_from_bill_gates | Fitness tips from Bill Gates]]
-- [[advice_for_young_entrepreneurs | Advice for young entrepreneurs]]
-- [[using_ai_and_tech_platforms | Using AI and tech platforms]]
-- [[starting_a_business_in_india | Starting a business in India]]
-- [[innovative_business_strategies | Innovative business strategies]]
-
-### [Ep.3 Trailer | People by WTF: Nikhil Kamath & Nandan Nilekani](https://www.youtube.com/watch?v=BL2yPiDjTfY)
-- [[nandan_nilekanis_interview_experiences | Nandan Nilekanis interview experiences]]
-- [[india_stack_and_digital_id_creation | India Stack and digital ID creation]]
-- [[digital_technologys_impact_on_society | Digital technologys impact on society]]
-- [[perspectives_on_ai_and_its_significance | Perspectives on AI and its significance]]
-
-### [Ep.5 Trailer | People by WTF: Nikhil Kamath & Kumar Birla](https://www.youtube.com/watch?v=kBf4mjjU22A)
-- [[creative_entrepreneurship | Creative entrepreneurship]]
-- [[voluntary_life_choices | Voluntary life choices]]
-- [[generational_conformity | Generational conformity]]
-- [[professional_challenges_and_setbacks | Professional challenges and setbacks]]
-- [[historical_family_connections_with_mahatma_gandhi | Historical family connections with Mahatma Gandhi]]
-
-### [Nikhil Kamath ft. Perplexity CEO, Aravind Srinivas | WTF Online Ep 1.](https://www.youtube.com/watch?v=y5Ewu8wYgqM)
-- [[aravind_srinivas_journey_in_ai_and_machine_learning | Aravind Srinivas Journey in AI and Machine Learning]]
-- [[ai_and_general_intelligence | AI and General Intelligence]]
-- [[neural_networks_and_machine_learning | Neural Networks and Machine Learning]]
-- [[the_future_of_ai_and_its_impact_on_jobs | The Future of AI and Its Impact on Jobs]]
-- [[entrepreneurship_and_innovation_in_ai | Entrepreneurship and Innovation in AI]]
-
-### [Inside India’s Next Gen Startups | Nikhil Kamath ft. WTFund C2/24 Founders](https://www.youtube.com/watch?v=yFyIBKK361E)
-- [[the_importance_of_simplifying_communication_for_startup_acceleration | The importance of simplifying communication for startup acceleration]]
-- [[challenges_of_scaling_beverage_businesses_in_india | Challenges of scaling beverage businesses in India]]
-- [[innovations_in_ai_fraud_detection_and_its_potential_applications_in_finance | Innovations in AI fraud detection and its potential applications in finance]]
-- [[developments_and_opportunities_in_indias_automotive_safety_technology_sector | Developments and opportunities in Indias automotive safety technology sector]]
-- [[revolutionizing_healthcare_and_personal_devices_with_ai_and_wearable_technology | Revolutionizing healthcare and personal devices with AI and wearable technology]]
+- [[micromax_phone_inception | Micromax phone inception]]
+- [[long_battery_life_as_a_differentiator | Long battery life as a differentiator]]
+- [[challenges_in_rural_connectivity | Challenges in rural connectivity]]
+- [[innovative_solutions_for_power_and_signal | Innovative solutions for power and signal]]
+- [[market_need_for_extended_battery_life_phones | Market need for extended battery life phones]]
 
 ### [Ep #8 | WTF is Going on in the World of Content | w/ Nikhil, Ajay Bijli, Vijay S. & Sajith S.](https://www.youtube.com/watch?v=hNV6urpwrk8)
-- [[market_size_and_revenue_distribution_in_the_content_industry | Market size and revenue distribution in the content industry]]
-- [[trends_in_digital_media_and_ott_platforms | Trends in digital media and OTT platforms]]
-- [[challenges_and_opportunities_in_cinema_and_theater_operations | Challenges and opportunities in cinema and theater operations]]
-- [[the_role_and_impact_of_social_media_influencers | The role and impact of social media influencers]]
-- [[future_developments_and_opportunities_for_creators_and_writers_in_the_industry | Future developments and opportunities for creators and writers in the industry]]
+- [[role_and_future_prospects_of_social_media_influencers | Role and future prospects of social media influencers]]
 
-### [Ep #22 Teaser | From Beans to Bottles: Nikhil Kamath & the Masters of Craft Beverages](https://www.youtube.com/watch?v=cjKzNBoqjGM)
-- [[craft_beverages_industry_insights | Craft beverages industry insights]]
-- [[starting_a_coffee_shop | Starting a coffee shop]]
-- [[kombucha_brand_basics | Kombucha brand basics]]
-- [[indian_coffee_shop_culture | Indian coffee shop culture]]
-- [[advice_for_young_entrepreneurs | Advice for young entrepreneurs]]
+### [WTF is Bangalore's traffic solution? Nikhil uncovers with Police Commissioners | Special Ep. Teaser](https://www.youtube.com/watch?v=mrjOcWqacCE)
+- [[bangalore_traffic_issues | Bangalore traffic issues]]
+- [[role_of_police_commissioners | Role of police commissioners]]
+- [[traffic_violations_and_consequences | Traffic violations and consequences]]
+- [[politician_perspectives_on_traffic_management | Politician perspectives on traffic management]]
+- [[longterm_solutions_for_bangalore_traffic | Longterm solutions for Bangalore traffic]]
 
-### [Ep# 17 | WTF is Gaming in India? | Career, Investment, Entrepreneurship](https://www.youtube.com/watch?v=VIlfHB7Jk2s)
-- [[gaming_industry_trends_in_india | Gaming industry trends in India]]
-- [[challenges_and_opportunities_in_gaming_development | Challenges and opportunities in gaming development]]
-- [[esports_and_streaming_in_india | Esports and streaming in India]]
-- [[ai_and_its_impact_on_gaming | AI and its impact on gaming]]
-- [[career_opportunities_in_gaming | Career opportunities in gaming]]
+### [Ep #7 | Who is Kiran Mazumdar Shaw Really? And WTF is Biotech?](https://www.youtube.com/watch?v=58i057QXl1A)
+- [[challenges_faced_by_women_entrepreneurs | Challenges faced by women entrepreneurs]]
+- [[pivoting_from_enzymes_to_biopharmaceuticals | Pivoting from enzymes to biopharmaceuticals]]
+- [[philanthropy_and_its_impact | Philanthropy and its impact]]
+
+### [WTF is “Making it” in an Offbeat Career? | Nikhil interrogates Kriti Sanon, Badshah & KL Rahul](https://www.youtube.com/watch?v=STj_Ms55tZw)
+- [[defining_chemistry_in_relationships | Defining chemistry in relationships]]
+- [[attachment_styles_and_psychological_analysis | Attachment styles and psychological analysis]]
+- [[overcoming_challenges_in_offbeat_careers | Overcoming challenges in offbeat careers]]
+- [[role_of_talent_versus_hard_work_in_sports_and_arts | Role of talent versus hard work in sports and arts]]
+- [[personal_growth_and_dealing_with_heartbreak | Personal growth and dealing with heartbreak]]
+
+### [Ep.3 Trailer | People by WTF: Nikhil Kamath & Nandan Nilekani](https://www.youtube.com/watch?v=BL2yPiDjTfY)
+- [[interviews_with_nandan_nilekani | Interviews with Nandan Nilekani]]
+- [[india_stack_journey_and_digital_id | India Stack Journey and Digital ID]]
+- [[longterm_technology_projects | Longterm technology projects]]
+- [[the_impact_of_digital_technology | The impact of digital technology]]
+- [[the_role_of_ai_in_the_future | The role of AI in the future]]
+
+### [Ep. 1 Trailer | People by WTF : Nikhil Kamath & Bill Gates](https://www.youtube.com/watch?v=UxU2henr9C0)
+- [[entrepreneurship_tips_for_young_entrepreneurs | Entrepreneurship tips for young entrepreneurs]]
+- [[utilizing_ai_and_platforms_like_google_and_microsoft | Utilizing AI and platforms like Google and Microsoft]]
+- [[starting_a_business_with_a_limited_budget | Starting a business with a limited budget]]
+- [[bold_approaches_in_business_strategy | Bold approaches in business strategy]]
+- [[bill_gatess_perspective_on_innovation | Bill Gatess perspective on innovation]]
+
+### [Ep.5 Trailer | People by WTF: Nikhil Kamath & Kumar Birla](https://www.youtube.com/watch?v=kBf4mjjU22A)
+- [[creative_elements_in_business | Creative elements in business]]
+- [[generational_choices_and_conformity | Generational choices and conformity]]
+- [[personal_challenges_and_resilience_in_career | Personal challenges and resilience in career]]
+- [[historical_connection_with_mahatma_gandhi | Historical connection with Mahatma Gandhi]]
+
+### [WTF Ep# 16 | What character "flaws" make the best entrepreneurs? Nikhil ft.Ritesh, Ghazal and Manish](https://www.youtube.com/watch?v=FPV5fAkqyBs)
+- [[importance_of_character_development_in_entrepreneurship | Importance of character development in entrepreneurship]]
+- [[role_of_personal_experiences_in_shaping_entrepreneurial_success | Role of personal experiences in shaping entrepreneurial success]]
+- [[balancing_optimism_and_realism_in_business_growth | Balancing optimism and realism in business growth]]
+- [[handling_external_pressures_and_expectations_in_startups | Handling external pressures and expectations in startups]]
+- [[navigating_financial_risks_and_investments_as_a_founder | Navigating financial risks and investments as a founder]]
 
 ### [Nikhil Kamath x YouTube CEO, Neal Mohan | The World's Biggest Stage | People by WTF | Ep. 9 Teaser](https://www.youtube.com/watch?v=fPTWD5_nxFM)
 - [[defining_youtubes_role_and_identity | Defining YouTubes role and identity]]
-- [[concept_of_wearing_masks_in_social_settings | Concept of wearing masks in social settings]]
-- [[neal_mohans_experiences_in_india | Neal Mohans experiences in India]]
-- [[discussion_on_significant_financial_offers_from_google | Discussion on significant financial offers from Google]]
+- [[the_concept_of_masks_in_social_interaction | The concept of masks in social interaction]]
+- [[youtube_and_social_media_distinction | YouTube and social media distinction]]
+- [[personal_anecdotes_about_career_offers_and_choices | Personal anecdotes about career offers and choices]]
 
 ### [WTF is Longevity? | Nikhil explores w/ Nithin, Seema, Bryan, Jitendra & Prashanth | Ep #21 Trailer](https://www.youtube.com/watch?v=rN0_nOAKNjw)
-- [[longevity_and_health_data | Longevity and health data]]
-- [[mental_health_and_its_importance | Mental health and its importance]]
-- [[philosophical_framework_of_dont_die | Philosophical framework of Dont Die]]
-- [[significance_of_ai_in_healthcare | Significance of AI in healthcare]]
-- [[role_of_supplements_in_longevity | Role of supplements in longevity]]
+- [[longevity_and_health | Longevity and health]]
+- [[data_and_technology_in_healthcare | Data and technology in healthcare]]
+- [[philosophical_perspectives_on_life_and_survival | Philosophical perspectives on life and survival]]
+- [[mental_health_and_wellbeing | Mental health and wellbeing]]
+- [[supplements_and_treatments_for_longevity | Supplements and treatments for longevity]]
 
-### [Ep #7 | Who is Kiran Mazumdar Shaw Really? And WTF is Biotech?](https://www.youtube.com/watch?v=58i057QXl1A)
-- [[kiran_mazumdar_shaws_journey_and_achievements | Kiran Mazumdar Shaws journey and achievements]]
-- [[challenges_faced_by_women_entrepreneurs_in_the_biotech_industry | Challenges faced by women entrepreneurs in the biotech industry]]
-- [[biocons_business_strategy_and_evolution | Biocons business strategy and evolution]]
-- [[the_role_of_enzymes_and_biotechnology_in_health_and_industry | The role of enzymes and biotechnology in health and industry]]
-- [[impact_of_leadership_innovation_and_philanthropy_in_business_growth | Impact of leadership innovation and philanthropy in business growth]]
+### [Ep #22 Teaser | From Beans to Bottles: Nikhil Kamath & the Masters of Craft Beverages](https://www.youtube.com/watch?v=cjKzNBoqjGM)
+- [[starting_a_coffee_shop | Starting a coffee shop]]
+- [[kombucha_brand_creation | Kombucha brand creation]]
+- [[craft_beverages_industry | Craft beverages industry]]
+- [[advice_for_young_entrepreneurs | Advice for young entrepreneurs]]
+- [[favorite_coffee_shops_in_india | Favorite coffee shops in India]]
 
-### [Nikhil Kamath x YouTube CEO, Neal Mohan | People by WTF Ep. 9](https://www.youtube.com/watch?v=8uFOBdle3WY)
-- [[youtubes_influence_on_global_creative_industries | YouTubes influence on global creative industries]]
-- [[content_creation_and_monetization_strategies | Content creation and monetization strategies]]
-- [[role_of_podcasts_and_news_media_on_youtube | Role of podcasts and news media on YouTube]]
-- [[technological_advancements_and_ai_in_content_creation | Technological advancements and AI in content creation]]
-- [[the_evolving_relationship_between_technology_and_storytelling | The evolving relationship between technology and storytelling]]
+### [Ep# 17 | WTF is Gaming in India? | Career, Investment, Entrepreneurship](https://www.youtube.com/watch?v=VIlfHB7Jk2s)
+- [[the_growth_and_challenges_of_the_gaming_industry_in_india | The growth and challenges of the gaming industry in India]]
+- [[real_money_gaming_and_government_regulation_in_india | Real money gaming and government regulation in India]]
 
 ### [WTF is the Next Gen Thinking? Building for Young India | Ep #10 Trailer](https://www.youtube.com/watch?v=CYauyJB2jSM)
-- [[thinking_of_young_generation_in_india | thinking of young generation in India]]
-- [[entrepreneurship_and_innovation | entrepreneurship and innovation]]
-- [[building_youthfocused_businesses | building youthfocused businesses]]
-- [[challenges_of_a_fickle_generation | challenges of a fickle generation]]
-
-### [Nikhil Kamath x NZ PM Christopher Luxon | People by WTF Ep #7](https://www.youtube.com/watch?v=tlicx3KKzmQ)
-- [[cultural_connections_between_new_zealand_and_india | Cultural connections between New Zealand and India]]
-- [[leadership_and_governance_philosophy | Leadership and governance philosophy]]
-- [[transition_from_business_to_politics | Transition from business to politics]]
-- [[the_influence_of_money_in_politics | The influence of money in politics]]
-- [[new_zealands_approach_to_international_relations_and_economic_growth | New Zealands approach to international relations and economic growth]]
-
-### [Nikhil Kamath x PM Christopher Luxon | People by WTF | Ep.7 Trailer](https://www.youtube.com/watch?v=GYPubRu12fc)
-- [[new_zealand_politics_and_culture | New Zealand politics and culture]]
-- [[public_involvement_and_political_engagement | Public involvement and political engagement]]
-- [[generational_views_and_optimism | Generational views and optimism]]
-- [[new_zealand_and_india_relations_in_sports | New Zealand and India relations in sports]]
-- [[cricket_between_india_and_new_zealand | Cricket between India and New Zealand]]
+- [[next_generation_thinking_in_india | Next generation thinking in India]]
+- [[challenges_of_young_entrepreneurs | Challenges of young entrepreneurs]]
+- [[entrepreneurship_and_women_in_tech | Entrepreneurship and women in tech]]
+- [[youths_perspective_on_business_and_technology | Youths perspective on business and technology]]
 
 ### [WTF are Indian real estate giants up to? | ⁠⁠Nikhil decodes the property moguls' playbook](https://www.youtube.com/watch?v=TSNkq8diC3k)
-- [[challenges_in_the_real_estate_business | challenges in the real estate business]]
-- [[approaches_for_young_entrepreneurs_entering_real_estate | approaches for young entrepreneurs entering real estate]]
-- [[importance_of_starting_small_in_real_estate | importance of starting small in real estate]]
-- [[risktaking_and_decisionmaking_in_property_leasing | risktaking and decisionmaking in property leasing]]
-- [[personal_anecdotes_and_decision_factors_in_buying_property | personal anecdotes and decision factors in buying property]]
+- [[starting_a_career_in_real_estate | Starting a career in real estate]]
+- [[office_leasing_business_strategies | Office leasing business strategies]]
+- [[challenges_in_the_real_estate_industry | Challenges in the real estate industry]]
+- [[buying_a_house_and_financial_considerations | Buying a house and financial considerations]]
+- [[balancing_passion_and_profitability_in_careers | Balancing passion and profitability in careers]]
 
-### [WTF does it take to Build Influence Today? Nikhil w/ Nas, Tanmay, Prajakta & Ranveer| Ep# 13 Trailer](https://www.youtube.com/watch?v=6h2lnP4-tUQ)
-- [[hacks_for_building_influence | Hacks for building influence]]
-- [[longterm_creator_mindset | Longterm creator mindset]]
-- [[content_creation_for_money_vs_power | Content creation for money vs power]]
-- [[brands_and_their_reliability | Brands and their reliability]]
-- [[challenges_and_realities_of_influencing | Challenges and realities of influencing]]
+### [Nikhil Kamath x NZ PM Christopher Luxon | People by WTF Ep #7](https://www.youtube.com/watch?v=tlicx3KKzmQ)
+- [[relationship_between_india_and_new_zealand | Relationship between India and New Zealand]]
+- [[cultural_exchanges_and_indigenous_culture_of_new_zealand | Cultural exchanges and indigenous culture of New Zealand]]
+- [[transition_from_business_to_politics | Transition from business to politics]]
+- [[leadership_skills_and_their_application_in_politics | Leadership skills and their application in politics]]
+- [[role_of_money_and_campaign_financing_in_politics | Role of money and campaign financing in politics]]
 
 ### [WTFund: Empowering New Age Entrepreneurs | Meeting Cohort 1 (C1/24)](https://www.youtube.com/watch?v=NvRH2X2rk3o)
-- [[wtfund_concept_and_mission | WTFund concept and mission]]
-- [[nondilutive_grants_for_young_entrepreneurs | Nondilutive grants for young entrepreneurs]]
+- [[nondilutive_grant_for_young_entrepreneurs | Nondilutive grant for young entrepreneurs]]
 - [[innovative_startups_funded_by_wtfund | Innovative startups funded by WTFund]]
 - [[empowering_women_through_entrepreneurship | Empowering women through entrepreneurship]]
+- [[healthier_food_innovations | Healthier food innovations]]
 - [[advancements_in_pet_care_and_nutrition | Advancements in pet care and nutrition]]
 
-### [Bill Gates x Nikhil Kamath Part 2 | People by WTF | Ep.8](https://www.youtube.com/watch?v=YY7J1pHfSyY)
-- [[bill_gates_on_capitalism_and_ai | Bill Gates on capitalism and AI]]
-- [[bill_gates_childhood_and_family_influences | Bill Gates childhood and family influences]]
-- [[success_factors_for_entrepreneurs | Success factors for entrepreneurs]]
-- [[motivational_pluralism_and_philanthropy | Motivational pluralism and philanthropy]]
-- [[future_societal_impacts_of_ai_and_automation | Future societal impacts of AI and automation]]
-
-### [Ep #12 Teaser | Founders of Farzi Cafe, SOCIAL, Le15, Masala Library, Mocha, Louis/Boss🍔 are here!](https://www.youtube.com/watch?v=F2qB-D34ZH4)
-- [[farzi_cafe_dishes | Farzi Cafe dishes]]
-- [[favorite_dishes_from_the_menu | Favorite dishes from the menu]]
-- [[unique_food_ingredients | Unique food ingredients]]
-- [[dessert_offerings | Dessert offerings]]
-- [[food_tasting_experiences | Food tasting experiences]]
-
-### [WTF Really Makes A Successful Entrepreneur? Nikhil ft. Ritesh, Gazal and Manish | Ep#16 Trailer](https://www.youtube.com/watch?v=XsemZbJsDaY)
-- [[characteristics_of_successful_entrepreneurs | Characteristics of successful entrepreneurs]]
-- [[importance_of_being_contrarian_in_entrepreneurship | Importance of being contrarian in entrepreneurship]]
-- [[profitability_and_revenue_in_business_success | Profitability and revenue in business success]]
-- [[risktaking_in_starting_a_venture | Risktaking in starting a venture]]
-- [[inspirational_entrepreneurial_journeys | Inspirational entrepreneurial journeys]]
+### [WTF does it take to Build Influence Today? Nikhil w/ Nas, Tanmay, Prajakta & Ranveer| Ep# 13 Trailer](https://www.youtube.com/watch?v=6h2lnP4-tUQ)
+- [[building_influence_as_a_creator | building influence as a creator]]
+- [[monetizing_content_strategies | monetizing content strategies]]
+- [[the_role_of_brands_in_content_creation | the role of brands in content creation]]
+- [[importance_of_enjoying_the_creative_process | importance of enjoying the creative process]]
+- [[staying_relevant_as_a_content_creator | staying relevant as a content creator]]
 
 ### [WTF is Artificial Intelligence Really? | Yann LeCun x Nikhil Kamath  | People by WTF Ep #4](https://www.youtube.com/watch?v=JAgHUDhaTU0)
-- [[history_and_evolution_of_artificial_intelligence | History and evolution of artificial intelligence]]
-- [[understanding_and_defining_artificial_intelligence | Understanding and defining artificial intelligence]]
-- [[machine_learning_and_neural_networks | Machine learning and neural networks]]
-- [[applications_and_future_of_ai_in_various_industries | Applications and future of AI in various industries]]
-- [[challenges_and_limitations_of_ai_technology | Challenges and limitations of AI technology]]
+- [[introduction_to_artificial_intelligence | Introduction to Artificial Intelligence]]
+- [[history_and_evolution_of_ai | History and Evolution of AI]]
+- [[machine_learning_techniques | Machine Learning Techniques]]
+- [[applications_and_future_of_ai | Applications and Future of AI]]
+- [[understanding_neural_networks | Understanding Neural Networks]]
 
-### [WTF is happening with EV? Nikhil with Founders of Reva, Ather, Blusmart, and Ossus | Ep# 14 Trailer](https://www.youtube.com/watch?v=GrbrSAEzFQI)
-- [[cost_analysis_of_electric_scooters | Cost analysis of electric scooters]]
-- [[transition_to_electric_vehicles | Transition to electric vehicles]]
-- [[green_hydrogen_and_co2_emissions_from_transportation | Green hydrogen and CO2 emissions from transportation]]
-- [[importance_of_marketing_in_the_electric_vehicle_industry | Importance of marketing in the electric vehicle industry]]
-- [[comparison_of_electric_scooter_brands | Comparison of electric scooter brands]]
+### [Nikhil Kamath x YouTube CEO, Neal Mohan | People by WTF Ep. 9](https://www.youtube.com/watch?v=8uFOBdle3WY)
+- [[nikhil_kamath_and_neal_mohan_interview | Nikhil Kamath and Neal Mohan interview]]
+- [[impact_of_ai_on_creative_industries | Impact of AI on creative industries]]
+- [[role_of_content_creators_in_politics | Role of content creators in politics]]
+- [[trends_in_media_and_content_consumption | Trends in media and content consumption]]
+- [[building_influence_as_a_content_creator | Building influence as a content creator]]
+
+### [Ep #12 Teaser | Founders of Farzi Cafe, SOCIAL, Le15, Masala Library, Mocha, Louis/Boss🍔 are here!](https://www.youtube.com/watch?v=F2qB-D34ZH4)
+- [[food_tasting | Food tasting]]
+- [[restaurant_experiences | Restaurant experiences]]
+- [[favorite_dishes | Favorite dishes]]
+- [[exotic_ingredients | Exotic ingredients]]
+- [[dining_reactions | Dining reactions]]
+
+### [Inside India’s Next Gen Startups | Nikhil Kamath ft. WTFund C2/24 Founders](https://www.youtube.com/watch?v=yFyIBKK361E)
+- [[challenges_and_strategies_of_indian_startups | Challenges and Strategies of Indian Startups]]
+- [[emerging_technologies_and_innovations_in_india | Emerging Technologies and Innovations in India]]
+- [[the_evolution_and_impact_of_fraud_detection_systems | The Evolution and Impact of Fraud Detection Systems]]
+- [[challenges_and_opportunities_in_the_beverage_industry | Challenges and Opportunities in the Beverage Industry]]
+- [[ai_and_healthtech_innovations_for_mental_health | AI and Healthtech Innovations for Mental Health]]
+
+### [Nikhil Kamath x PM Christopher Luxon | People by WTF | Ep.7 Trailer](https://www.youtube.com/watch?v=GYPubRu12fc)
+- [[perceptions_of_political_engagement | Perceptions of political engagement]]
+- [[new_zealand_cultural_practices | New Zealand cultural practices]]
+- [[political_aspirations_and_involvement | Political aspirations and involvement]]
+- [[impact_of_generational_attitudes | Impact of generational attitudes]]
+- [[new_zealand_cricket | New Zealand cricket]]
+
+### [Bill Gates x Nikhil Kamath Part 2 | People by WTF | Ep.8](https://www.youtube.com/watch?v=YY7J1pHfSyY)
+- [[impact_of_ai_on_future_workforce_and_society | Impact of AI on future workforce and society]]
+- [[bill_gates_perspective_on_personal_success_and_motivation | Bill Gates perspective on personal success and motivation]]
+- [[bill_gates_insights_on_childhood_influences_and_family_impact | Bill Gates insights on childhood influences and family impact]]
+- [[concept_of_motivational_pluralism_in_philanthropy_and_business | Concept of motivational pluralism in philanthropy and business]]
+- [[evolution_of_tech_moguls_personas | Evolution of tech moguls personas]]
+
+### [WTF Really Makes A Successful Entrepreneur? Nikhil ft. Ritesh, Gazal and Manish | Ep#16 Trailer](https://www.youtube.com/watch?v=XsemZbJsDaY)
+- [[quick_wealth_and_selfperception | quick wealth and selfperception]]
+- [[entrepreneurship_and_startup_success | entrepreneurship and startup success]]
+- [[being_contrarian_as_an_entrepreneur | being contrarian as an entrepreneur]]
+- [[profitability_in_business | profitability in business]]
+- [[risktaking_in_entrepreneurship | risktaking in entrepreneurship]]
 
 ### [Ep# 15 | WTF is Climate Change? Nikhil ft. Sunita, Bhumi, Navroz and Mirik](https://www.youtube.com/watch?v=2q7-cTPwf-g)
-- [[understanding_climate_change | Understanding Climate Change]]
-- [[climate_change_and_global_governance | Climate Change and Global Governance]]
-- [[energy_transition_as_a_solution_to_climate_change | Energy Transition as a Solution to Climate Change]]
-- [[the_impact_of_industrialization_on_climate | The Impact of Industrialization on Climate]]
-- [[role_of_innovation_and_entrepreneurship_in_climate_action | Role of Innovation and Entrepreneurship in Climate Action]]
+- [[understanding_climate_change_and_its_impact | Understanding climate change and its impact]]
+- [[the_role_of_the_intergovernmental_panel_on_climate_change_ipcc | The role of the Intergovernmental Panel on Climate Change IPCC]]
+- [[influence_of_economic_systems_and_policies_on_climate_change | Influence of economic systems and policies on climate change]]
+- [[challenges_and_opportunities_in_renewable_energy_and_carbon_reduction | Challenges and opportunities in renewable energy and carbon reduction]]
+- [[perspectives_on_geoengineering_and_environmental_governance | Perspectives on geoengineering and environmental governance]]
+
+### [WTF Is Health? | Nikhil ft. Suniel Shetty, Nithin Kamath and Mukesh Bansal | Ep #6 Trailer](https://www.youtube.com/watch?v=JDNScEP6a8g)
+- [[healthy_lifestyle_and_fitness | Healthy lifestyle and fitness]]
+- [[diet_and_nutrition | Diet and nutrition]]
+- [[the_balance_between_passion_and_addiction | The balance between passion and addiction]]
+- [[the_role_of_fasting_in_health | The role of fasting in health]]
+- [[aging_and_fitness | Aging and fitness]]
+
+### [WTF is happening with EV? Nikhil with Founders of Reva, Ather, Blusmart, and Ossus | Ep# 14 Trailer](https://www.youtube.com/watch?v=GrbrSAEzFQI)
+- [[cost_breakdown_of_electric_scooters | cost breakdown of electric scooters]]
+- [[impact_of_green_hydrogen_on_transportation_co2_emissions | impact of green hydrogen on transportation CO2 emissions]]
+- [[transition_to_electric_vehicles_and_emission_reduction | transition to electric vehicles and emission reduction]]
+- [[importance_of_lithium_in_the_ev_industry | importance of lithium in the EV industry]]
+- [[marketing_strategies_for_ev_brands | marketing strategies for EV brands]]
+
+### [WTF, Alcohol is a $70B Business In India? Nikhil explores Gaps & Opportunities | Ep. 18 Trailer](https://www.youtube.com/watch?v=ZI5YNMldL3k)
+- [[alcohol_business_in_india | Alcohol business in India]]
+- [[role_of_local_breweries_and_brands_like_gua_brewing | Role of local breweries and brands like Gua Brewing]]
+- [[market_growth_and_economic_impact_of_alcohol_industry | Market growth and economic impact of alcohol industry]]
+- [[indian_brands_international_success | Indian brands international success]]
+- [[cultural_and_social_aspects_of_alcohol_consumption_in_india | Cultural and social aspects of alcohol consumption in India]]
+
+### [WTF is A.I. Really? Yann LeCun x Nikhil Kamath | People by WTF Ep. 4 Trailer](https://www.youtube.com/watch?v=87evaBkpkhQ)
+- [[definition_and_origins_of_ai | Definition and origins of AI]]
+- [[future_directions_of_ai | Future directions of AI]]
+- [[perception_of_ai_leaders | Perception of AI leaders]]
+- [[large_language_models_and_their_limitations | Large Language Models and their limitations]]
+- [[career_advice_for_aspiring_ai_professionals | Career advice for aspiring AI professionals]]
 
 ### [A Conversation on Mental Wellness: The WTF team visits The Live Love Laugh Foundation](https://www.youtube.com/watch?v=KGv-Y5UjjRw)
-- [[history_and_founding_of_the_live_love_laugh_foundation | History and founding of The Live Love Laugh Foundation]]
-- [[challenges_in_addressing_mental_health_in_rural_india | Challenges in addressing mental health in rural India]]
-- [[the_three_as_strategy_awareness_accessibility_affordability | The Three As strategy Awareness Accessibility Affordability]]
-- [[success_stories_and_impact_of_the_live_love_laugh_foundation | Success stories and impact of The Live Love Laugh Foundation]]
-- [[use_of_funds_for_scaling_rural_mental_health_programs | Use of funds for scaling rural mental health programs]]
+- [[live_love_laugh_foundation_and_its_history | Live Love Laugh Foundation and its history]]
+- [[mental_health_awareness_and_stigma_in_india | Mental health awareness and stigma in India]]
+- [[challenges_of_mental_health_outreach_in_rural_india | Challenges of mental health outreach in rural India]]
+- [[achievements_and_successes_of_the_live_love_laugh_foundation | Achievements and successes of the Live Love Laugh Foundation]]
+- [[scaling_mental_health_programs_in_india | Scaling mental health programs in India]]
+
+### [WTF is ChatGPT: Heaven or Hell? | w/ Nikhil, Varun Mayya, Tanmay, Umang & Aprameya | Ep #4 Trailer](https://www.youtube.com/watch?v=Cvk2bhZEvfM)
+- [[entrepreneurship_and_nikhil_kamath | Entrepreneurship and Nikhil Kamath]]
+- [[robotics_and_ai | Robotics and AI]]
+- [[future_of_white_collar_jobs_and_ai | Future of White Collar Jobs and AI]]
+- [[neural_integration_and_brainmachine_connections | Neural Integration and BrainMachine Connections]]
+- [[stock_trading_insights | Stock Trading Insights]]
+
+### [WTF is The Restaurant Game? Nikhil w/ Pooja Dhingra, Zorawar Kalra & Riyaaz Amlani | Ep# 12 Trailer](https://www.youtube.com/watch?v=W0jOJ3ix6dA)
+- [[challenges_of_being_a_chef | Challenges of being a chef]]
+- [[stressful_jobs_in_the_culinary_industry | Stressful jobs in the culinary industry]]
+- [[building_a_successful_restaurant_in_india | Building a successful restaurant in India]]
+- [[the_importance_of_authenticity_in_storytelling | The importance of authenticity in storytelling]]
+- [[licensing_and_regulations_in_the_food_industry | Licensing and regulations in the food industry]]
+
+### [WTF is Venture Capital? Ft. Nikhil, Nithin, Rajan A., Prashanth P. & Karthik R.| Ep #9 Trailer](https://www.youtube.com/watch?v=oBTp3auYunQ)
+- [[venture_capital | Venture Capital]]
+- [[role_of_ceo_and_cto | Role of CEO and CTO]]
+- [[vc_opinions_and_criticism | VC Opinions and Criticism]]
+- [[investment_in_manufacturing | Investment in Manufacturing]]
+- [[climate_change_solutions | Climate Change Solutions]]
+
+### [E-commerce Gurus clash: Kishore Biyani is back | WTF is E-commerce w/ Nikhil Kamath | Ep #3 Trailer](https://www.youtube.com/watch?v=f56CbqsWwpo)
+- [[investing_for_growth_in_ecommerce | Investing for growth in ecommerce]]
+- [[profitability_challenges_in_ecommerce | Profitability challenges in ecommerce]]
+- [[ecommerce_logistics_with_examples_like_flipkart | Ecommerce logistics with examples like Flipkart]]
+- [[entrepreneurial_strategy_and_decision_making | Entrepreneurial strategy and decision making]]
+- [[future_of_ecommerce_brands_like_nika | Future of ecommerce brands like Nika]]
+
+### [Bill Gates x Nikhil Kamath Part 2: Wealth, Wisdom & World Change | People by WTF | EP.8 Trailer](https://www.youtube.com/watch?v=DRYkrntVEzc)
+- [[bill_gates_and_wealth | Bill Gates and wealth]]
+- [[bill_gates_on_innovation_and_work | Bill Gates on innovation and work]]
+- [[role_of_adversity_in_success | Role of adversity in success]]
+- [[bill_gates_perspective_on_public_perception | Bill Gates perspective on public perception]]
+- [[high_achievers_and_their_motivations | High achievers and their motivations]]
+
+### [The Other Side of Paradise | Team WTF Uncovers Himalayan Environmental Crisis](https://www.youtube.com/watch?v=LhH__x9L71Y)
+- [[environmental_issues_in_the_himalayas | Environmental Issues in the Himalayas]]
+- [[waste_management_and_recycling_efforts_by_healing_himalayas | Waste Management and Recycling Efforts by Healing Himalayas]]
+- [[impact_of_tourism_on_the_himalayan_region | Impact of Tourism on the Himalayan Region]]
+- [[material_recovery_facilities_and_waste_processing | Material Recovery Facilities and Waste Processing]]
+
+### [WTF Goes into Building a Fashion, Beauty or Home Brand? w/ Kishore, Raj, and Ananth | Ep# 11 Trailer](https://www.youtube.com/watch?v=umtQ1OGe7Tk)
+- [[growth_hacking_and_performance_marketing | Growth hacking and performance marketing]]
+- [[building_brand_longevity | Building brand longevity]]
+- [[insights_from_experienced_founders | Insights from experienced founders]]
+- [[establishing_niche_markets_and_brand_identity | Establishing niche markets and brand identity]]
+- [[factors_in_brand_building_like_altruism_and_fear | Factors in brand building like altruism and fear]]
+
+### [WTF, Is Climate Change Real? | Nikhil ft. Sunita, Bhumi, Navroz and Mirik](https://www.youtube.com/watch?v=T0T6La5aVwk)
+- [[climate_change_impacts | Climate change impacts]]
+- [[energy_transition_solutions | Energy transition solutions]]
+- [[role_of_green_businesses | Role of green businesses]]
+- [[environmental_awareness_and_education | Environmental awareness and education]]
+- [[debate_on_nuclear_fusion_in_climate_change | Debate on nuclear fusion in climate change]]
+
+### [WTF Is Ed-Tech | What’s Broken, What's Next? With Nikhil, Ronnie, Gaurav and Jay | Ep #5 Trailer](https://www.youtube.com/watch?v=cux4HyZ1X98)
+- [[savvy_educational_experts_and_backgrounds | Savvy educational experts and backgrounds]]
+- [[role_of_libraries_in_rural_schools | Role of libraries in rural schools]]
+- [[education_system_and_opportunities_in_india | Education system and opportunities in India]]
+- [[challenges_of_accessing_elite_institutions | Challenges of accessing elite institutions]]
+- [[views_on_balance_and_entrepreneurship | Views on balance and entrepreneurship]]
+
+### [Bill Gates x Nikhil Kamath Part 2](https://www.youtube.com/watch?v=o6YPVr-_dXo)
+- [[bill_gates_in_india | Bill Gates in India]]
+- [[the_impact_of_ai_on_future_work | The impact of AI on future work]]
+- [[philosophical_implications_of_increased_leisure_time | Philosophical implications of increased leisure time]]
+- [[personal_motivations_for_working | Personal motivations for working]]
+- [[economic_inequality_and_societal_structure | Economic inequality and societal structure]]
+
+### [WTF is Gaming in India? | Career, Investment, Entrepreneurship](https://www.youtube.com/watch?v=-0bM5l7QwXw)
+- [[gaming_industry_in_india | Gaming industry in India]]
+- [[esports_in_india | Esports in India]]
+- [[youth_engagement_with_gaming | Youth engagement with gaming]]
+- [[parental_perception_of_gaming_careers | Parental perception of gaming careers]]
+- [[influence_of_content_creators_in_gaming | Influence of content creators in gaming]]
+
+### [WTF is Metaverse? | WTF is with Nikhil Kamath ft. Tanmay Bhat, Umang Bedi & Aprameya Radhakrishna](https://www.youtube.com/watch?v=tnATGq0PTj8)
+- [[metaverse | Metaverse]]
+- [[television_and_media | Television and media]]
+- [[camera_consciousness | Camera consciousness]]
+- [[politics_and_global_leaders | Politics and global leaders]]
+- [[technology_and_virtual_reality | Technology and virtual reality]]
+
+### [Can You define the Metaverse | WTF is ft. Nikhil, Tanmay, Umang and Aprameya](https://www.youtube.com/watch?v=7YcLB1hP3Ww)
+- [[definition_of_metaverse | Definition of metaverse]]
+- [[current_digital_universes_on_smartphones | Current digital universes on smartphones]]
+- [[origin_and_concept_of_metaverse | Origin and concept of metaverse]]
+- [[virtual_reality_and_augmented_reality | Virtual reality and augmented reality]]
+- [[devices_and_technology_in_the_metaverse | Devices and technology in the metaverse]]
+
+### [Nikhil Explores What’s Brewing in the Craft Beverage Industry with Rahul, Matt, Aneesh & Adithya](https://www.youtube.com/watch?v=25WmRh95luE)
+- [[challenges_in_engineering_and_career_paths | Challenges in engineering and career paths]]
+- [[importance_of_craft_and_authenticity_in_beverages | Importance of craft and authenticity in beverages]]
+- [[aspiration_and_significance_of_coffee_culture | Aspiration and significance of coffee culture]]
+- [[strategies_for_attracting_customers_to_coffee_shops | Strategies for attracting customers to coffee shops]]
+- [[viability_of_quick_commerce_for_new_beverage_brands | Viability of quick commerce for new beverage brands]]
+
+### [WTF is Going On In The World of Content | w/ Nikhil, Ajay Bijli, Vijay S. & Sajith S.| Ep #8 Trailer](https://www.youtube.com/watch?v=8_qD1pQSl1Y)
+- [[challenges_in_content_creation | challenges in content creation]]
+- [[networking_in_the_entertainment_industry | networking in the entertainment industry]]
+- [[storytelling_strategies | storytelling strategies]]
+- [[revenue_models_in_media | revenue models in media]]
+- [[balancing_creative_and_commercial_interests | balancing creative and commercial interests]]
+
+### [WTF is Social Media: 3 OGs Reveal the GOOD, BAD and UGLY | WTF is with Nikhil Kamath #2 Trailer](https://www.youtube.com/watch?v=FWD-swEhkYM)
+- [[impact_of_social_media_on_personal_relationships | Impact of social media on personal relationships]]
+- [[role_of_social_media_in_dopamine_addiction | Role of social media in dopamine addiction]]
+- [[privacy_and_surveillance_concerns_on_social_media | Privacy and surveillance concerns on social media]]
+- [[the_complexity_of_social_media_monetization | The complexity of social media monetization]]
+- [[parental_guidance_on_social_media_usage | Parental guidance on social media usage]]
+
+### [The WTF team visits Join The Dots Foundation | Empowering the changemakers of tomorrow](https://www.youtube.com/watch?v=TBecDRJ0ykI)
+- [[join_the_dots_foundation_overview_and_mission | Join The Dots Foundation overview and mission]]
+- [[impact_of_join_the_dots_foundations_initiatives_in_rural_areas | Impact of Join The Dots Foundations initiatives in rural areas]]
+- [[educational_programs_and_funding_at_join_the_dots_foundation | Educational programs and funding at Join The Dots Foundation]]
+- [[sports_and_cultural_development_efforts_in_join_the_dots_foundation | Sports and cultural development efforts in Join The Dots Foundation]]
+- [[special_needs_support_initiatives_at_join_the_dots_foundation | Special needs support initiatives at Join The Dots Foundation]]
+
+### [WTF is Biotech? 40 Years of Wisdom from Kiran Mazumdar Shaw | Ep #7 Trailer](https://www.youtube.com/watch?v=iFAKocGpT6s)
+- [[kiran_mazumdar_shaws_journey_into_biotechnology | Kiran Mazumdar Shaws journey into biotechnology]]
+- [[challenges_faced_by_women_in_biotech | Challenges faced by women in biotech]]
+- [[role_of_mentorship_in_kirans_career | Role of mentorship in Kirans career]]
+- [[value_creation_versus_wealth_accumulation | Value creation versus wealth accumulation]]
+- [[womens_workforce_participation_in_india | Womens workforce participation in India]]
+
+### [#WTFforCreators: Team WTF visits winners in Bangalore City](https://www.youtube.com/watch?v=YUiCeChsT9w)
+- [[contest_for_creators_in_bangalore | Contest for creators in Bangalore]]
+- [[personal_delivery_of_packages_to_contest_winners | Personal delivery of packages to contest winners]]
+- [[content_creation_and_new_creators | Content creation and new creators]]
+- [[social_media_management_and_career_transitions | Social media management and career transitions]]
+- [[experiences_and_aspirations_of_video_creators | Experiences and aspirations of video creators]]
+
+### [The Death Of Traditional Media - Indian Businessmen Discuss](https://www.youtube.com/watch?v=uerf2-TV894)
+- [[the_decline_of_traditional_media | The decline of traditional media]]
+- [[evolution_of_newspapers_in_the_digital_era | Evolution of newspapers in the digital era]]
+- [[transformation_of_tv_into_digital_content_platforms | Transformation of TV into digital content platforms]]
+- [[the_rise_of_personalized_content_and_ott_platforms | The rise of personalized content and OTT platforms]]
+- [[lower_barriers_to_entry_for_digital_content_creators | Lower barriers to entry for digital content creators]]
