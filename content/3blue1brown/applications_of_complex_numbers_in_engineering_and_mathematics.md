@@ -1,0 +1,28 @@
+---
+title: Applications of complex numbers in engineering and mathematics
+videoId: 5PcpBw5Hbwo
+---
+
+From: [[3blue1brown]] <br/> 
+
+[[Complex numbers in mathematics | Complex numbers]] are a fundamental concept in various fields, including engineering, mathematics, and quantum mechanics <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. Despite their "terrible name" <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, and the similarly mislabeled "[[complex numbers and imaginary exponents | imaginary numbers]]" <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a> that form their basis, they possess numerous applications in the real world <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>. For those in engineering or serious mathematics, [[complex numbers in mathematics | complex numbers]] are considered as integral to their work and life as [[Complex numbers in mathematics | real numbers]] <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>, <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>.
+
+## Core Utility of Complex Numbers
+
+The utility of [[introduction to complex numbers | imaginary numbers]] and [[complex numbers in mathematics | complex numbers]] lies in their ability to make other mathematical concepts more understandable and applicable <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>, <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+
+### Description of Rotation
+One of the main uses of [[complex numbers in mathematics | complex numbers]] and [[complex numbers and imaginary exponents | imaginary numbers]] is in providing an elegant description of how to rotate objects <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>, <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. Multiplying by *i* (where *i*² = -1) has the action of rotating things by 90 degrees <a class="yt-timestamp" data-t="00:21:53">[00:21:53]</a>, <a class="yt-timestamp" data-t="00:22:48">[00:22:48]</a>. This provides a computational mechanism for all other types of rotations, not just 90 degrees <a class="yt-timestamp" data-t="00:22:22">[00:22:22]</a>. This [[geometric interpretation of complex numbers | geometric interpretation of complex numbers]] is a key to their application <a class="yt-timestamp" data-t="00:19:08">[00:19:08]</a>.
+
+### Simplifying Trigonometric Identities
+[[Complex numbers in mathematics | Complex numbers]] offer a less error-prone and more intuitive way to understand and derive complex trigonometric identities, such as addition formulas (e.g., for the cosine of the sum of two angles) <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>, <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>, <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>, <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>, <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. While these trigonometric facts might seem unrelated to [[complex numbers in mathematics | complex numbers]], their derivation and understanding can be greatly simplified through their use <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>, <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+
+## Defining and Understanding Complex Numbers
+
+The starting point for [[introduction to complex numbers | complex numbers]] involves assuming the existence of a number *i* such that *i*² = -1 <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>. This concept can seem strange to many students <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. Historically, René Descartes coined the term "imaginary" for these numbers derisively, implying they weren't serious math <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>. However, this term has stuck, despite its "genuinely absurd" nature given their real-world applications <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>.
+
+### Geometric Representation
+Unlike [[Complex numbers in mathematics | real numbers]] which exist on a one-dimensional line, [[complex numbers in mathematics | complex numbers]] are proposed to be two-dimensional <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>, <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>. The number *i* lives in a different dimension, perpendicularly to the [[Complex numbers in mathematics | real number]] line <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>, <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>, <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>. This [[geometric interpretation of complex numbers | two-dimensional plane]] allows for operations like addition to work similarly to vectors <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>.
+
+### Algebraic Properties
+While operations with vectors in 2D do not typically involve multiplication to get two vectors back <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>, [[complex numbers in mathematics | complex numbers]] behave much like [[Complex numbers in mathematics | real numbers]], allowing rules from algebra to carry over <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>, <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>. The definition of *i* as a number that squares to -1 is the only special rule required beyond treating it as a normal number in products <a class="yt-timestamp" data-t="00:27:31">[00:27:31]</a>, <a class="yt-timestamp" data-t="00:27:39">[00:27:39]</a>.

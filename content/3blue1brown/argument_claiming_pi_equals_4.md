@@ -1,0 +1,21 @@
+---
+title: Argument claiming pi equals 4
+videoId: VYQVlVoWoPY
+---
+
+From: [[3blue1brown]] <br/> 
+
+The "[[pi | pi]] equals 4" argument is presented as a "fake proof" that highlights subtleties in mathematical limiting arguments <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+
+## The Proof <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>
+The argument begins with a circle, typically assumed to have a radius of 1 <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>. [[Pi | Pi]] is defined as the ratio of a circle's circumference to its diameter <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>. For a circle with radius 1, its diameter is 2, and its true circumference is 2[[pi | pi]] <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>.
+
+1.  **Initial Square Approximation**: The first step involves drawing a square whose sides are all tangent to the circle <a class="yt-timestamp" data-t="01:56:00">[01:56:00]</a>. If the circle has a radius of 1, the square's side length is 2, and its perimeter is 8 <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>.
+2.  **Sequence of Approximations**: A sequence of curves is then generated, each approximating the circle more closely than the last <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>. This is done by "folding in" each of the corners of the previous shape so they just touch the circle <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>. Crucially, the perimeter of the shape does not change with each fold <a class="yt-timestamp" data-t="02:31:00">[02:31:00]</a>. For example, instead of moving "up and then left," the new curve moves "left and then up," preserving the length <a class="yt-timestamp" data-t="02:33:00">[02:33:00]</a>. Therefore, every curve in the sequence has a perimeter of 8 <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>, <a class="yt-timestamp" data-t="04:54:00">[04:54:00]</a>.
+3.  **The Limiting Curve**: The argument claims that the limit of this sequence of approximations *is* the circle itself <a class="yt-timestamp" data-t="03:13:00">[03:13:00]</a>, <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a>. This is explained by parameterizing each curve as a function `c_n(t)` <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>. The limit of these functions, `c_infinity(t)`, is the smooth circular curve <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>, <a class="yt-timestamp" data-t="04:38:00">[04:38:00]</a>.
+4.  **The Conclusion**: Since the limit of the curves is the circle, and the limit of their lengths is 8 (because each curve's length is 8), it is concluded that the circumference of the circle is 8 <a class="yt-timestamp" data-t="04:49:00">[04:49:00]</a>. Given the circle has a diameter of 2, this implies [[pi | pi]] (circumference/diameter) equals 8/2, or 4 <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>.
+
+## The Flaw <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a>
+While it might seem obvious that the argument is wrong because the curves remain jagged <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>, the true mathematical flaw is more subtle. The key issue is that "the limit of the lengths of the curves is not the same as the length of the limits of the curves" <a class="yt-timestamp" data-t="15:29:00">[15:29:00]</a>.
+
+This example serves as a counterexample to the assumption that `lim(length(C_n))` is always equal to `length(lim(C_n))` <a class="yt-timestamp" data-t="15:33:00">[15:33:00]</a>. It emphasizes the need for caution when applying limiting arguments, especially in fields like [[calculus | calculus]], where areas under curves are approximated by rectangles <a class="yt-timestamp" data-t="15:45:00">[15:45:00]</a>, <a class="yt-timestamp" data-t="15:53:00">[15:53:00]</a>. When using such approximations rigorously, one must explicitly account for the error between the approximations and the true value, demonstrating that this error approaches zero in the limit <a class="yt-timestamp" data-t="16:20:00">[16:20:00]</a>, <a class="yt-timestamp" data-t="16:43:00">[16:43:00]</a>, <a class="yt-timestamp" data-t="16:47:00">[16:47:00]</a>.

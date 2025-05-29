@@ -1,0 +1,21 @@
+---
+title: Application of Fourier Transform in sound editing
+videoId: spUNpyF58BY
+---
+
+From: [[3blue1brown]] <br/> 
+The [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier transform]] is a significant mathematical tool, and one of its practical applications is in sound editing <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>.
+
+### Decomposing Sound Frequencies
+A central example for understanding the [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier transform]] is [[decomposing_sound_frequencies | decomposing frequencies from sound]] <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. When a microphone records sound, it captures the air pressure at different points in time, seeing only the final sum of various frequencies <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. The core question is how to take such a complex signal and decompose it into the pure frequencies that comprise it <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+
+### Application in Sound Editing
+Sound editing often involves filtering out unwanted elements from a recording, such as an annoying high pitch <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+
+The process involves:
+1.  **Signal Representation** Initially, a sound signal exists as a function of intensity over time, reflecting varying voltages delivered to a speaker <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. To perform editing based on pitch, this time-domain signal needs to be converted into terms of frequencies <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>.
+2.  **[[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier Transform]]** Applying the [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier transform]] to the signal converts it from the time domain to the frequency domain <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. In this transformed representation, an annoying high pitch manifests as a distinct spike at its corresponding high frequency <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>.
+3.  **Filtering** To remove the unwanted pitch, the spike corresponding to that high frequency can be "smushed down" in the transformed domain <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>. The result is the [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier transform]] of the sound, but without the problematic frequency <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>.
+4.  **Inverse [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier Transform]]** To convert the filtered frequency data back into an audible sound signal, an inverse [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier transform]] is used <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>. This operation determines which original signal would have produced the modified [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier transform]] <a class="yt-timestamp" data-t="00:11:24">[00:11:24]</a>. Conceptually, applying the [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier transform]] followed by its inverse can return something close to the original function <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>.
+
+While the concept of the [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier transform]] can appear complex, involving mathematical concepts like integrals of [[complex_numbers_and_fourier_transform | complex-valued functions]] <a class="yt-timestamp" data-t="00:15:25">[00:15:25]</a>, its intuitive meaning relates to analyzing the "center of mass" of a signal wound around a circle <a class="yt-timestamp" data-t="00:15:36">[00:15:36]</a>. This powerful "unmixing" machine effectively separates jumbled frequencies from their sums <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>.

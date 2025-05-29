@@ -1,0 +1,33 @@
+---
+title: Role of parameter tuning in machine learning models
+videoId: eMlx5fFNoYc
+---
+
+From: [[3blue1brown]] <br/> 
+
+In the realm of [[large_language_models_and_their_function | large language models]] (LLMs), particularly within the [[role_of_transformers_in_language_models | transformer]] architecture, the performance and behavior of the model heavily rely on the careful adjustment of its internal parameters <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. These parameters are tunable weights, which the model [[training_process_of_large_language_models | learns]] from data <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>.
+
+## Tunable Weights and Matrices
+
+At the core of a [[role_of_transformers_in_language_models | transformer]]'s operations, particularly within its attention mechanism, computations largely involve matrix-vector products <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. The matrices involved in these operations are filled with parameters that are adjusted during the [[training_process_of_large_language_models | training process]] <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>.
+
+For instance, in a single head of attention, three distinct matrices are paramount:
+*   **Query Matrix (`wq`)** <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a> – This matrix transforms the embeddings of words into "query" vectors <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>. Its entries are parameters learned from data <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. Ideally, this matrix maps noun embeddings to directions in a smaller space that look for adjectives in preceding positions <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
+*   **Key Matrix** <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a> – This matrix also multiplies by every embedding to produce "key" vectors <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. Like the query matrix, it is full of tunable parameters <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. The key matrix is designed to map adjectives to vectors closely aligned with queries produced by nouns <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>.
+*   **Value Matrix** <a class="yt-timestamp" data-t="00:13:44">[00:13:44]</a> – This matrix is multiplied by the embedding of a word to produce a "value" vector, which is then added to the embedding of another word to refine its meaning <a class="yt-timestamp" data-t="00:13:47">[00:13:47]</a>, <a class="yt-timestamp" data-t="00:13:55">[00:13:55]</a>. In practice, the value map is often factored into two smaller matrices for efficiency: a "value down" matrix and a "value up" matrix <a class="yt-timestamp" data-t="00:17:06">[00:17:06]</a>, <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>, <a class="yt-timestamp" data-t="00:17:43">[00:17:43]</a>.
+
+## Training and Parameter Adjustment
+
+The true behavior of a deep learning model, including a [[role_of_transformers_in_language_models | transformer]], emerges from "tweaking and tuning a huge number of parameters" <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. This [[weight_and_bias_adjustment_in_neural_networks | adjustment]] of parameters aims to minimize a [[cost_function_and_its_role_in_neural_networks | cost function]] <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>. During the [[training_process_of_large_language_models | training process]], the model is run on text examples, and its weights are slightly adjusted to either reward or punish its predictions based on how accurately it assigns probabilities to the true next word <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
+
+Each distinct type of contextual updating that the model learns (e.g., adjectives updating nouns, or names influencing associated titles) corresponds to different parameters in the key, query, and value matrices <a class="yt-timestamp" data-t="00:20:05">[00:20:05]</a>. In multi-headed attention, multiple sets of these matrices run in parallel, each learning different attention patterns <a class="yt-timestamp" data-t="00:20:35">[00:20:35]</a>, <a class="yt-timestamp" data-t="00:21:01">[00:21:01]</a>.
+
+The ultimate goal of this parameter tuning is to enable embeddings to "imbibe" and encode increasingly nuanced and abstract ideas from the input context <a class="yt-timestamp" data-t="00:23:50">[00:23:50]</a>. This includes capturing aspects like sentiment, tone, and relevant scientific truths <a class="yt-timestamp" data-t="00:24:07">[00:24:07]</a>.
+
+## Scale and Parallelization
+
+The [[importance_of_training_data_in_machine_learning | importance of training data in machine learning]] is amplified by the ability to scale models <a class="yt-timestamp" data-t="00:25:09">[00:25:09]</a>. The attention mechanism's success is partly due to its extreme parallelizability, allowing a huge number of computations to run efficiently on GPUs <a class="yt-timestamp" data-t="00:24:54">[00:24:54]</a>. This parallelization is crucial because scale alone has been shown to lead to significant qualitative improvements in model performance <a class="yt-timestamp" data-t="00:25:09">[00:25:09]</a>.
+
+For context, [[large_language_models_and_their_function | GPT-3]] includes 96 distinct layers, with a total of nearly 58 billion parameters devoted just to all of its attention heads <a class="yt-timestamp" data-t="00:24:16">[00:24:16]</a>, <a class="yt-timestamp" data-t="00:24:21">[00:24:21]</a>, <a class="yt-timestamp" data-t="00:24:27">[00:24:27]</a>. Even with this vast number, attention heads account for only about a third of the network's total 175 billion parameters <a class="yt-timestamp" data-t="00:24:34">[00:24:34]</a>, <a class="yt-timestamp" data-t="00:24:37">[00:24:37]</a>. The majority of parameters reside in other blocks, such as multi-layer perceptrons, which further refine the embeddings <a class="yt-timestamp" data-t="00:23:28">[00:23:28]</a>, <a class="yt-timestamp" data-t="00:24:41">[00:24:41]</a>.
+
+Understanding the true behavior of these parameter-filled matrices remains a [[challenges_in_understanding_model_predictions | challenge]], as their weights are set to whatever best achieves the model's primary goal of predicting the next token <a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>, <a class="yt-timestamp" data-t="00:20:23">[00:20:23]</a>, <a class="yt-timestamp" data-t="00:20:26">[00:20:26]</a>.

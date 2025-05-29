@@ -1,0 +1,62 @@
+---
+title: Feynmans explanation of light phenomena
+videoId: KTzGBJPuJwM
+---
+
+From: [[3blue1brown]] <br/> 
+
+Richard Feynman's lectures offer a deeper understanding of how phenomena like prisms work, moving beyond standard explanations often given in high school physics. His approach involves examining the interactions of individual wiggling charges within a material and how their collective light waves superimpose <a class="yt-timestamp" data-t="03:51:00">[03:51:00]</a>, <a class="yt-timestamp" data-t="03:58:00">[03:58:00]</a>.
+
+## Prisms: Beyond the Standard Explanation
+
+The common explanation for how a prism works states that when light enters a medium like glass, it slows down <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. The ratio between the speed of light in a vacuum (`c`) and its speed inside a medium is called the [[Light refraction and the refractive index | index of refraction]] <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>, <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>. If light enters at an angle, this slowdown causes it to bend, or refract <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>, <a class="yt-timestamp" data-t="01:32:00">[01:32:00]</a>. The amount of bending can be calculated using Snell's Law <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>, <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>.
+
+A key aspect of prisms is that the amount light slows down depends on its frequency (and thus its color) <a class="yt-timestamp" data-t="02:36:00">[02:36:00]</a>, <a class="yt-timestamp" data-t="02:39:00">[02:39:00]</a>. For example, blue light (higher frequency) slows down more than red light (lower frequency) <a class="yt-timestamp" data-t="02:43:00">[02:43:00]</a>, <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>. White light, which is a sum of many pure spectral colors <a class="yt-timestamp" data-t="02:52:00">[02:52:00]</a>, <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>, <a class="yt-timestamp" data-t="03:04:00">[03:04:00]</a>, separates into a rainbow because each component refracts differently <a class="yt-timestamp" data-t="03:08:00">[03:08:00]</a>, <a class="yt-timestamp" data-t="03:11:00">[03:11:00]</a>.
+
+However, this standard explanation doesn't clarify *why* light slows down, what "slowing down" truly means in this context, or why it depends on color <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>, <a class="yt-timestamp" data-t="03:29:00">[03:29:00]</a>, <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>. Feynman's approach aims to make these facts feel "discovered" rather than "handed down" <a class="yt-timestamp" data-t="03:42:00">[03:42:00]</a>, <a class="yt-timestamp" data-t="03:45:00">[03:45:00]</a>.
+
+## The Phase Kick and Apparent Slowdown
+
+Feynman's explanation models a material like glass as a series of distinct layers <a class="yt-timestamp" data-t="05:27:00">[05:27:00]</a>. When a light wave interacts with one of these layers, it causes a "kickback" to the phase of the wave <a class="yt-timestamp" data-t="05:39:00">[05:39:00]</a>, <a class="yt-timestamp" data-t="06:26:00">[06:26:00]</a>.
+
+In wave terminology:
+*   **Amplitude**: Affects how high a wave oscillates <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>.
+*   **Angular Frequency/Wave Number**: Affects how rapidly it oscillates <a class="yt-timestamp" data-t="06:00:00">[06:00:00]</a>, <a class="yt-timestamp" data-t="06:07:00">[06:07:00]</a>.
+*   **Phase**: A constant added inside the sine function that slides the wave left or right <a class="yt-timestamp" data-t="06:14:00">[06:14:00]</a>, <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>.
+
+When multiple layers each apply a small phase kick, the cumulative effect on the wave is indistinguishable from the wave simply traveling slower, with its wavelength "scrunched up" <a class="yt-timestamp" data-t="07:39:00">[07:39:00]</a>, <a class="yt-timestamp" data-t="07:44:00">[07:44:00]</a>. This explains why light appears to slow down in a medium <a class="yt-timestamp" data-t="08:00:00">[08:00:00]</a>.
+
+## Light-Matter Interaction and Superposition
+
+Light is an electromagnetic wave, where the electric field at each point in 3D space indicates the force on a hypothetical unit charge <a class="yt-timestamp" data-t="08:38:00">[08:38:00]</a>, <a class="yt-timestamp" data-t="08:42:00">[08:42:00]</a>. When a charged particle wiggles, it creates propagating ripples in the electric field, which travel at the speed `c`, the speed of causality <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>, <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a>, <a class="yt-timestamp" data-t="09:59:00">[09:59:00]</a>. When these ripples reach another charged particle, they cause it to wiggle, producing its own propagations <a class="yt-timestamp" data-t="09:13:00">[09:13:00]</a>.
+
+The net effect on the electric field from multiple oscillating charges is the sum of their individual effects <a class="yt-timestamp" data-t="10:36:00">[10:36:00]</a>, <a class="yt-timestamp" data-t="10:41:00">[10:41:00]</a>. A plane of charges wiggling in sync will constructively interfere perpendicular to the plane, forming a concentrated beam of light <a class="yt-timestamp" data-t="10:48:00">[10:48:00]</a>, <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>.
+
+When a light beam enters a material, it causes the charges (electrons, ions) within to wiggle in response <a class="yt-timestamp" data-t="11:52:00">[11:52:00]</a>, <a class="yt-timestamp" data-t="11:54:00">[11:54:00]</a>, <a class="yt-timestamp" data-t="11:58:00">[11:58:00]</a>. This wiggling produces a "second-order" light wave at the same frequency, propagating in both directions <a class="yt-timestamp" data-t="12:12:00">[12:12:00]</a>, <a class="yt-timestamp" data-t="12:16:00">[12:16:00]</a>. The overall electric field is the sum of the initial incoming light wave and this second-order wave <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>. While some light is reflected <a class="yt-timestamp" data-t="12:36:00">[12:36:00]</a>, the focus here is on the transmitted light.
+
+### Adding Waves (Vector Sum)
+
+To understand how these waves combine, visualize them as y-components of rotating vectors <a class="yt-timestamp" data-t="14:22:00">[14:22:00]</a>. The length of the vector represents the amplitude, and its initial rotation angle represents the phase <a class="yt-timestamp" data-t="14:28:00">[14:28:00]</a>, <a class="yt-timestamp" data-t="14:32:00">[14:32:00]</a>. If two waves have the same frequency, their sum can be found by adding their corresponding vectors tip to tail <a class="yt-timestamp" data-t="14:52:00">[14:52:00]</a>, <a class="yt-timestamp" data-t="14:55:00">[14:55:00]</a>.
+
+Crucially, if a second wave is exactly 90 degrees (a quarter cycle) behind the first wave and is very small in amplitude, their vector sum results in a new wave that is almost identical to the first, but slightly shifted back in phase <a class="yt-timestamp" data-t="15:38:00">[15:38:00]</a>, <a class="yt-timestamp" data-t="15:42:00">[15:42:00]</a>, <a class="yt-timestamp" data-t="15:46:00">[15:46:00]</a>. The size of this phase shift depends on the amplitude of the second wave <a class="yt-timestamp" data-t="16:01:00">[16:01:00]</a>. In the case of light passing through glass, the second-order oscillation from the wiggling charges is precisely a quarter cycle behind the incoming light wave <a class="yt-timestamp" data-t="16:16:00">[16:16:00]</a>, <a class="yt-timestamp" data-t="16:21:00">[16:21:00]</a>. This combination causes the observed phase kick <a class="yt-timestamp" data-t="16:26:00">[16:26:00]</a>.
+
+## The Driven Harmonic Oscillator and Color Dependence
+
+To explain why the [[Effect of frequency on light slowing in mediums | index of refraction depends on color]], it's necessary to understand how much the charges wiggle in response to the light wave <a class="yt-timestamp" data-t="17:05:00">[17:05:00]</a>, <a class="yt-timestamp" data-t="17:09:00">[17:09:00]</a>. Charges within a material are modeled as being bound to equilibrium positions by a spring-like, linear restoring force <a class="yt-timestamp" data-t="17:25:00">[17:25:00]</a>, <a class="yt-timestamp" data-t="17:29:00">[17:29:00]</a>, <a class="yt-timestamp" data-t="17:33:00">[17:33:00]</a>.
+
+In the absence of an external force, such a system undergoes simple harmonic motion with a natural or [[Polarization and superposition in quantum mechanics | resonant frequency]] (angular frequency, $\omega_r$) given by $\sqrt{k/m}$, where `k` is the spring constant and `m` is the mass of the particle <a class="yt-timestamp" data-t="19:54:00">[19:54:00]</a>.
+
+When a light wave interacts with the material, it acts as an external, oscillating driving force on these charges <a class="yt-timestamp" data-t="21:03:00">[21:03:00]</a>, <a class="yt-timestamp" data-t="21:10:00">[21:10:00]</a>. After a short startup period, the charges oscillate sinusoidally at the *same frequency as the incoming light* ($\omega_L$), not their natural resonant frequency <a class="yt-timestamp" data-t="22:37:00">[22:37:00]</a>, <a class="yt-timestamp" data-t="23:10:00">[23:10:00]</a>. The crucial point is the **amplitude** of this oscillation <a class="yt-timestamp" data-t="23:22:00">[23:22:00]</a>, <a class="yt-timestamp" data-t="23:25:00">[23:25:00]</a>.
+
+The amplitude of the charge's oscillation is proportional to the strength of the incoming light wave and the charge of the particle <a class="yt-timestamp" data-t="24:07:00">[24:07:00]</a>, <a class="yt-timestamp" data-t="24:14:00">[24:14:00]</a>. Critically, it is inversely related to the difference between the square of the resonant frequency ($\omega_r^2$) and the square of the light frequency ($\omega_L^2$) <a class="yt-timestamp" data-t="24:28:00">[24:28:00]</a>.
+
+*   If the light frequency ($\omega_L$) is very close to the resonant frequency ($\omega_r$), the oscillations will grow very large (a phenomenon known as resonance) <a class="yt-timestamp" data-t="24:36:00">[24:36:00]</a>, <a class="yt-timestamp" data-t="24:39:00">[24:39:00]</a>, <a class="yt-timestamp" data-t="24:53:00">[24:53:00]</a>.
+*   If the light frequency is much smaller than the resonant frequency, the amplitude of oscillation will be much more modest <a class="yt-timestamp" data-t="25:23:00">[25:23:00]</a>, <a class="yt-timestamp" data-t="25:27:00">[25:27:00]</a>.
+
+Therefore, the larger the difference between the light's frequency and the material's resonant frequency, the smaller the oscillation of the charges <a class="yt-timestamp" data-t="25:44:00">[25:44:00]</a>, <a class="yt-timestamp" data-t="25:49:00">[25:49:00]</a>. The more the charges wiggle, the stronger the second-order wave they produce <a class="yt-timestamp" data-t="26:26:00">[26:26:00]</a>, <a class="yt-timestamp" data-t="26:31:00">[26:31:00]</a>. A stronger second-order wave leads to a bigger phase shift in the overall light wave <a class="yt-timestamp" data-t="26:33:00">[26:33:00]</a>. Since these phase shifts cause the apparent slowdown of light <a class="yt-timestamp" data-t="26:36:00">[26:36:00]</a>, <a class="yt-timestamp" data-t="26:39:00">[26:39:00]</a>, it follows that the amount light slows down depends on its frequency (color) <a class="yt-timestamp" data-t="26:43:00">[26:43:00]</a>, <a class="yt-timestamp" data-t="26:47:00">[26:47:00]</a>.
+
+This detailed explanation, involving the driven harmonic oscillator, is the true reason why prisms separate light by color <a class="yt-timestamp" data-t="26:50:00">[26:50:00]</a>, <a class="yt-timestamp" data-t="26:52:00">[26:52:00]</a>.
+
+## Further Considerations
+
+It is important to note that this model also accounts for energy absorption in materials. A damping or drag force term, dependent on the velocity of the charge, should be included in the model to reflect that light energy can be absorbed by the material, not just transmitted or reflected <a class="yt-timestamp" data-t="27:05:00">[27:05:00]</a>, <a class="yt-timestamp" data-t="27:09:00">[27:09:00]</a>, <a class="yt-timestamp" data-t="27:13:00">[27:13:00]</a>. Without this term, the explanation would imply light always passes through every material <a class="yt-timestamp" data-t="27:25:00">[27:25:00]</a>.

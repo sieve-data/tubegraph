@@ -1,39 +1,53 @@
 ---
 title: Matrix representation of linear transformations
-videoId: XkY2DOUCWMU
+videoId: v8VSDg_WQlA
 ---
 
 From: [[3blue1brown]] <br/> 
 
-A [[linear transformations | linear transformation]] is a function where vectors are both inputs and outputs <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. Visually, [[visualizing linear transformations | linear transformations]] can be thought of as "smooshing around space" such that grid lines remain parallel and evenly spaced, and the origin stays fixed <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+[[introduction_to_linear_transformations | Linear transformations]], discussed previously, typically involve mapping vectors within the same dimension, such as 2D vectors to other 2D vectors using 2x2 matrices, or [[threedimensional_linear_transformations | 3D vectors]] to other 3D vectors using 3x3 matrices <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. However, [[matrix_representations_of_linear_transformations | non-square matrices]] also have significant geometric meaning <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
 
-### Key Property: Basis Vectors Determine Transformation
-A [[linear transformations | linear transformation]] is entirely defined by where it moves the basis vectors of the space <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. In two dimensions, these are commonly `i-hat` and `j-hat` <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. Any other vector can be expressed as a [[properties of linear transformations | linear combination]] of these basis vectors <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. For example, a vector `(x, y)` is `x` times `i-hat` plus `y` times `j-hat` <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
+## Transformations Between Dimensions
 
-Due to the [[properties of linear transformations | properties]] of [[linear transformations | linear transformations]] (grid lines remaining parallel and evenly spaced), the transformed location of a vector `(x, y)` will be `x` times the transformed `i-hat` plus `y` times the transformed `j-hat` <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+It is entirely valid to consider [[linear_transformations_in_linear_algebra | linear transformations]] that map vectors between different dimensions <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. For a transformation to be considered linear, grid lines must remain parallel and evenly spaced, and the origin must map to the origin <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
 
-### Matrix Representation
-The coordinates of where `i-hat` and `j-hat` land after a transformation are conventionally recorded as the columns of a [[matrix representation of transformations | matrix]] <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This sum of the scaled versions of these columns, scaled by `x` and `y`, defines [[linear transformations and matrices | matrix-vector multiplication]] <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. Thus, a [[matrix representation of transformations | matrix]] directly represents a specific [[linear transformations and matrices | linear transformation]], and multiplying a [[matrix representation of transformations | matrix]] by a vector computationally applies that [[linear transformations and matrices | transformation]] to the vector <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
+It's important to recognize that input vectors and output vectors exist in separate, unconnected spaces. For example, 2D vector inputs are fundamentally different from 3D vector outputs <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
 
-### Composition of Linear Transformations
-When one [[linear transformations | transformation]] is applied after another, the overall effect is also a [[linear transformations | linear transformation]] <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. This combined transformation is known as the [[composition of linear transformations | composition of the two separate transformations]] <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. Like any [[linear transformations | linear transformation]], this [[composition of linear transformations | composite transformation]] can be represented by its own [[matrix representation of transformations | matrix]] <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+### Encoding Transformations with Matrices
 
-For example, if the plane is first rotated 90 degrees counterclockwise, then a shear is applied, the ultimate landing spot for `i-hat` might be (1,1) <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>, making (1,1) the first column of the [[matrix representation of transformations | composite matrix]] <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. Similarly, if `j-hat` ends up at (-1,0), that becomes the second column <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>, <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. This new [[matrix representation of transformations | matrix]] captures the entire effect of both actions as a single operation <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+The process for encoding these transformations with a matrix is consistent with how square matrices are formed: you observe where each basis vector lands after the transformation and use their coordinates as the columns of the matrix <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
 
-Numerically, applying a rotation then a shear to a vector is equivalent to multiplying the vector by the rotation [[matrix representation of transformations | matrix]], then multiplying the result by the shear [[matrix representation of transformations | matrix]] <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. This outcome is identical to directly multiplying the vector by the [[composition of linear transformations | composite matrix]] found above <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. Therefore, this [[composition of linear transformations | new matrix]] is considered the product of the original two matrices <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>, <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
+### Examples of Non-Square Matrices
 
-When multiplying two matrices, the geometric meaning is to apply one [[linear transformations | transformation]] after another <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. It is important to note that the order of application is read from right to left: the transformation represented by the rightmost [[matrix representation of transformations | matrix]] is applied first, followed by the transformation represented by the leftmost [[matrix representation of transformations | matrix]] <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. This convention aligns with function notation, where functions are written to the left of variables <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+#### From 2D to 3D (3x2 Matrix)
 
-### Calculating Matrix Products
-To find the columns of the [[composition of linear transformations | composite matrix]], one follows the path of the basis vectors through the transformations:
-1.  **First column:** Determine where `i-hat` lands after the first transformation (which is the first column of the right matrix) <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>, <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. Then, apply the second transformation (left matrix) to this intermediate vector using [[linear transformations and matrices | matrix-vector multiplication]] <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>, <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. The resulting vector is the first column of the [[composition of linear transformations | composite matrix]] <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
-2.  **Second column:** Similarly, determine where `j-hat` lands after the first transformation (the second column of the right matrix) <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>, <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. Then, apply the second transformation (left matrix) to this intermediate vector <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. The result forms the second column of the [[composition of linear transformations | composite matrix]] <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>, <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
+Consider a transformation that maps a 2D vector input space to a 3D vector output space <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+For instance, if the basis vector i-hat maps to (2, -1, -2) and j-hat maps to (0, 1, 1), the resulting matrix would be:
+$\begin{pmatrix} 2 & 0 \\ -1 & 1 \\ -2 & 1 \end{pmatrix}$ <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>
 
-In general, the first column of the [[composition of linear transformations | composite matrix]] will always equal the left matrix multiplied by the first column of the right matrix <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>, and the second column will equal the left matrix multiplied by the second column of the right matrix <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>, <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+This matrix has three rows and two columns, making it a 3x2 matrix <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
 
-### Properties of Matrix Multiplication
-Understanding [[linear transformations and matrices | matrix multiplication]] as the [[composition of linear transformations | composition of transformations]] simplifies understanding its [[properties of linear transformations | properties]]:
-*   **Non-Commutativity:** The order of matrix multiplication matters <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. Applying a shear then a rotation results in a different final transformation than applying a rotation then a shear <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>, <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. This can be intuitively visualized <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
-*   **Associativity:** [[linear transformations and matrices | Matrix multiplication]] is associative, meaning for matrices A, B, and C, `(A * B) * C = A * (B * C)` <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>. From a [[linear transformations and matrices | transformation]] perspective, this is trivial: applying transformation C, then B, then A, is simply applying them in that sequence, regardless of how the operations are grouped <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. This geometric interpretation provides a clear proof and explanation for this property <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>, <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>.
+*   The two columns signify that the input space has two basis vectors, indicating a 2D input <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
+*   The three rows signify that the landing spots for each basis vector are described with three coordinates, indicating a 3D output <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
 
-By conceptualizing [[linear transformations and matrices | matrix multiplication]] as successive [[linear transformations | transformations]], one gains a robust framework for understanding the underlying principles and [[properties of linear transformations | properties]] of matrices <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>, <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>.
+The column space of this matrix, which represents the space where all input vectors land, is a 2D plane intersecting the origin in 3D space <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. This matrix is considered full rank because the number of dimensions in its column space (2D) is the same as the number of dimensions in the input space (2D) <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
+
+#### From 3D to 2D (2x3 Matrix)
+
+A 2x3 matrix has two rows and three columns <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+
+*   The three columns indicate a starting space with three basis vectors, meaning a 3D input <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
+*   The two rows indicate that the landing spot for each of these three basis vectors is described with only two coordinates, meaning they land in 2D space <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>.
+
+Thus, a 2x3 matrix represents a transformation from 3D space onto a 2D plane <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
+
+#### From 2D to 1D (1x2 Matrix)
+
+A transformation can also map 2D vectors to 1D vectors (numbers) <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>. One-dimensional space is essentially the number line <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. For such a transformation, the visual intuition of linearity is that a line of evenly spaced dots in 2D would remain evenly spaced when mapped onto the number line <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+
+This transformation is encoded with a 1x2 matrix <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
+
+*   The two columns represent where the 2D basis vectors land <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+*   Each column has a single entry, representing the single coordinate (number) each basis vector landed on <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+This type of transformation has significant ties to the dot product <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>. Exploring the meanings of [[composition_of_linear_transformations | matrix multiplication]] and [[linear_transformations_in_linear_algebra | linear systems of equations]] in the context of transformations between different dimensions can be beneficial <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.

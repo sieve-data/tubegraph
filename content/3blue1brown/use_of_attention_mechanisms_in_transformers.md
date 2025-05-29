@@ -1,0 +1,32 @@
+---
+title: Use of attention mechanisms in transformers
+videoId: LPZh9BOjkQs
+---
+
+From: [[3blue1brown]] <br/> 
+
+Large Language Models (LLMs) function as sophisticated mathematical functions that predict the next word for any given piece of text, assigning a probability to all possible subsequent words <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. This prediction process involves a vast amount of computation, with models trained on enormous quantities of text, often pulled from the internet <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. The behavior of a language model is determined by its parameters or weights, which can number in the hundreds of billions for [[role_of_transformers_in_language_models | large language models]] <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. These parameters are not manually set but are refined through repeated training using many example texts <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+
+## The Role of [[transformer_architecture_and_its_internal_workings | Transformers]]
+
+Prior to 2017, most language models processed text word by word <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>. However, a significant shift occurred when Google researchers introduced a new model known as the [[transformer_architecture_and_its_internal_workings | transformer]] <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. Unlike previous models, [[transformer_architecture_and_its_internal_workings | transformers]] do not read text sequentially from start to finish; instead, they "soak it all in at once," processing it in parallel <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a> <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>.
+
+## Encoding Language for [[transformer_architecture_and_its_internal_workings | Transformers]]
+
+The initial step within a [[transformer_architecture_and_its_internal_workings | transformer]] (and many other language models) involves associating each word with a long list of numbers <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>. This numerical encoding is necessary because the training process operates exclusively with continuous values <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. Each of these lists of numbers is intended to somehow encode the meaning of its corresponding word <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a> <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+
+## The [[attention_mechanism_in_transformers | Attention]] Mechanism
+
+What sets [[transformer_architecture_and_its_internal_workings | transformers]] apart is their fundamental reliance on a special operation called [[attention_mechanism_in_transformers | attention]] <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a> <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. This operation enables these numerical lists (word encodings) to interact with one another, allowing them to refine the meanings they encode based on the surrounding context <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a> <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. This entire refinement process occurs in parallel <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. For instance, the numbers encoding the word "bank" might be altered by the context to specifically represent a "riverbank" <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
+
+In addition to [[attention_mechanism_in_transformers | attention]], [[transformer_architecture_and_its_internal_workings | transformers]] also incorporate a second type of operation known as a feed-forward neural network <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. This component provides the model with extra capacity to store more language patterns learned during its training phase <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a> <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>.
+
+Data flows repeatedly through many iterations of these two core operations: [[attention_mechanism_in_transformers | attention]] and feed-forward networks <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a> <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>. The goal is that with each iteration, each list of numbers becomes richer, encoding all the necessary information to make an accurate prediction of the next word in the passage <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a> <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+
+## Training and Emergent Behavior
+
+At the end of this process, a final function is applied to the last vector in the sequence <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. This vector has been influenced by all the contextual information from the input text and everything the model learned during training <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>. It then produces a prediction for the next word, represented as a probability for every possible word <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a> <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
+
+While researchers design the framework for how each step of a [[transformer_architecture_and_its_internal_workings | transformer]] works, the model's specific behavior emerges from the tuning of its hundreds of billions of parameters during training <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a> <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>. This makes it extremely difficult to pinpoint why a model makes a particular prediction <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>. Despite this complexity, the words generated by [[role_of_transformers_in_language_models | large language models]] are remarkably fluent, compelling, and valuable when used for auto-completion <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+
+For more in-depth understanding of [[transformer_architecture_and_its_internal_workings | transformers]] and [[attention_mechanism_in_transformers | attention]], additional resources on deep learning and [[multiheaded_attention_in_transformers | attention]] visualization are available <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a> <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>.

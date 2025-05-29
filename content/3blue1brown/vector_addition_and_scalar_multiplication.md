@@ -4,32 +4,33 @@ videoId: fNk_zzaMoSs
 ---
 
 From: [[3blue1brown]] <br/> 
-The fundamental building block for linear algebra is the [[understanding_vectors_in_linear_algebra|vector]] <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. While there are different perspectives on what a vector is, in the context of linear algebra, it's often best to think of it as an arrow rooted at the origin of a coordinate system <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>. The coordinates of a vector provide instructions on how to get from its tail at the origin to its tip <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. For example, in two dimensions, a vector's coordinates tell you how far to move along the x-axis and then parallel to the y-axis <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. In three dimensions, a third coordinate specifies movement along the z-axis <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. Every pair (or triplet) of numbers uniquely defines a vector, and vice versa <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
 
-Vector addition and scalar multiplication are the two fundamental operations around which all topics in linear algebra revolve <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
+The vector is the fundamental building block of linear algebra <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. While there are different perspectives on what a vector is (physics student, computer science student, mathematician) <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>, in linear algebra, vectors are often conceptualized as arrows rooted at the origin of a coordinate system <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>. Every vector can be uniquely represented by a list of numbers, known as its coordinates <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>.
+
+Two fundamental operations in linear algebra that revolve around vectors are vector addition and scalar multiplication <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>.
 
 ## Vector Addition
 
 ### Geometric Definition
-To add two vectors, conceptually move the second vector so that its tail sits at the tip of the first one <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>. The sum is a new vector drawn from the tail of the first to the tip of the second <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. This is typically the only time in linear algebra where vectors are allowed to stray from the origin <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+To add two vectors geometrically, position the tail of the second vector at the tip of the first vector <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>. The sum is then a new vector drawn from the tail of the first vector to the tip of the second vector <a class="yt-timestamp" data-t="05:00:00">[05:00:00]</a>. This method is the only time in linear algebra that vectors are typically allowed to move away from the origin <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>.
 
-This definition is intuitive if you consider vectors as representing movements: taking a step along the first vector, then a step along the second, results in the same overall displacement as moving along their sum <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
+This definition is sensible because each vector can be thought of as a movement with a certain distance and direction in space <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>. Performing one movement followed by another results in an overall displacement that is equivalent to moving along the sum of the two vectors <a class="yt-timestamp" data-t="05:33:00">[05:33:00]</a>.
 
 ### Numerical Definition
-Numerically, vector addition is performed by adding the corresponding components of each vector <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. For example, if vector A has coordinates (1, 2) and vector B has coordinates (3, -1), their sum will have coordinates (1+3, 2-1) <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+When adding vectors numerically, you add their corresponding components. For example, if vector `v1` has coordinates `[x1, y1]` and vector `v2` has coordinates `[x2, y2]`, their sum `v1 + v2` will have coordinates `[x1 + x2, y1 + y2]` <a class="yt-timestamp" data-t="06:45:00">[06:45:00]</a>. This component-wise addition aligns with the geometric "tip-to-tail" method <a class="yt-timestamp" data-t="06:14:00">[06:14:00]</a>.
 
 ## Scalar Multiplication
 
 ### Geometric Definition
-Multiplying a vector by a number (called a scalar) scales its length <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
-*   Multiplying by a number greater than 1 stretches the vector, making it longer <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
-*   Multiplying by a number between 0 and 1 squishes it, making it shorter <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>.
-*   Multiplying by a negative number flips the vector's direction before stretching or squishing it <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+Multiplying a vector by a number, or "scalar," involves scaling the vector.
+*   **Stretching**: Multiplying a vector by a number greater than 1 (e.g., 2) stretches the vector, making it longer by that factor <a class="yt-timestamp" data-t="07:01:00">[07:01:00]</a>.
+*   **Squishing**: Multiplying by a number between 0 and 1 (e.g., 1/3) squishes the vector, making it shorter <a class="yt-timestamp" data-t="07:10:00">[07:10:00]</a>.
+*   **Reversing Direction**: Multiplying by a negative number (e.g., -1.8) first flips the vector's direction, then stretches it by the absolute value of that factor <a class="yt-timestamp" data-t="07:17:00">[07:17:00]</a>.
 
-The term "scalar" is used interchangeably with "number" in linear algebra, as scaling vectors is one of the main functions of numbers in this context <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
+The process of stretching, squishing, or reversing a vector is called **scaling** <a class="yt-timestamp" data-t="07:27:00">[07:27:00]</a>. The number used for this operation is called a [[vector_coordinates_and_scalar_implications | scalar]] <a class="yt-timestamp" data-t="07:31:00">[07:31:00]</a>. In linear algebra, the terms "scalar" and "number" are often used interchangeably <a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a>.
 
 ### Numerical Definition
-Numerically, multiplying a vector by a scalar means multiplying each of its components by that scalar <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>. For instance, multiplying a vector with coordinates (1, 2) by 2 results in a new vector with coordinates (2*1, 2*2) <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>.
+Numerically, multiplying a vector by a scalar means multiplying each of its components by that scalar <a class="yt-timestamp" data-t="07:52:00">[07:52:00]</a>. For instance, if vector `v` has coordinates `[x, y]`, then `2v` would have coordinates `[2x, 2y]` <a class="yt-timestamp" data-t="07:52:00">[07:52:00]</a>.
 
 ## Significance in Linear Algebra
-The ability to translate between the geometric (arrows in space) and numerical (lists of numbers) views of vectors, along with understanding these fundamental operations, is key to the usefulness of linear algebra <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. This translation allows data analysts to visualize patterns in data and gives programmers a numerical language to describe and manipulate space <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
+Vector addition and scalar multiplication are central to all topics in linear algebra <a class="yt-timestamp" data-t="08:10:00">[08:10:00]</a>. The power of linear algebra lies in its ability to translate between the geometric perspective (arrows in space) and the numerical perspective (lists of numbers) <a class="yt-timestamp" data-t="08:42:00">[08:42:00]</a>. This translation allows data analysts to visualize patterns in data and understand operations on lists of numbers <a class="yt-timestamp" data-t="08:50:00">[08:50:00]</a>, while enabling fields like physics and computer graphics to describe spatial manipulations numerically <a class="yt-timestamp" data-t="09:00:00">[09:00:00]</a>.

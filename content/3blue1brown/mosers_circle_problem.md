@@ -5,77 +5,74 @@ videoId: YtkIWDE36qU
 
 From: [[3blue1brown]] <br/> 
 
-Moser's circle problem is a famous cautionary tale in mathematics <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. It illustrates the danger of extrapolating patterns from small numbers without rigorous proof <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The mathematician Richard Guy called this phenomenon "the strong law of small numbers," which states that "there aren't enough small numbers to meet the many demands made of them" <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+Moser's circle problem is a famous cautionary tale in mathematics that demonstrates how initial patterns can be deceptive <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. It begins by placing points on a circle and connecting them with chords, then counting the number of regions these chords divide the circle into <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
 
 ## The Deceptive Pattern
 
-The problem begins by placing points on the circumference of a [[geometry_and_circles | circle]] and connecting them with chords <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. The goal is to count how many regions the [[geometry_and_circles | circle]] is divided into by these chords <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+When starting with a circle and adding points:
+*   **Two points** connected by a chord divide the circle into two regions <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+*   **Three points** connected by chords divide the circle into four regions <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
+*   **Four points** connected by chords result in eight regions <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+*   **Five points** connected by chords yield sixteen regions <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
 
-*   **2 points**: Connecting two points with a chord divides the [[geometry_and_circles | circle]] into 2 regions <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
-*   **3 points**: Adding a third point and connecting it to the previous two with chords divides the [[geometry_and_circles | circle]] into 4 regions <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
-*   **4 points**: A fourth point connected to the previous three results in 8 regions <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
-*   **5 points**: A fifth point connected to the previous four yields 16 regions <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+This progression (2, 4, 8, 16) strongly suggests a pattern of powers of two (2^n-1 or 2^n depending on how n is defined) <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. However, when a **sixth point** is added and connected, the number of regions is not 32 (the expected power of two), but 31 <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
 
-This sequence (2, 4, 8, 16) strongly suggests a pattern of powers of two <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. However, adding a sixth point and carefully counting the regions reveals 31, not the expected 32 <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
+This problem assumes a "generic case" where no three lines intersect at a single point <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. The problem is considered a "tease" because it looks convincingly like powers of two until it just barely breaks <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
 
-### Important Condition
-The pattern assumes the "generic case" where no three lines intersect at a single point within the [[geometry_and_circles | circle]] <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. Placing points symmetrically, for example, can cause lines to coincide and change the number of regions <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+## The Strong Law of Small Numbers
 
-## Solving the Problem: Finding the Real Pattern
+This phenomenon is an example of what mathematician Richard Guy called "the strong law of small numbers" <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. This law suggests that "there aren't enough small numbers to meet the many demands made of them" <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. Despite this, the initial pattern being powers of two and other occurrences of powers of two later on (like at the tenth iteration) are not mere coincidences <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
 
-Working out the real pattern is a good exercise in [[problemsolving_strategies_in_mathematical_puzzles | problemsolving strategies in mathematical puzzles]] <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. The initial powers of two and later reappearance of a power of two (at the tenth iteration) are not coincidences <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>.
+## Solving the Problem: A Path to Understanding
+
+To understand the true pattern, it's helpful to break down the problem into easier, related questions <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. This is a common strategy in [[problemsolving_strategies_in_math | problem solving]] <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
 
 ### Warm-up Questions
 
-To find a function describing the number of regions for `n` points, it helps to solve related, easier questions <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>:
+1.  **How many total chords are there?**
+    *   Each chord connects a unique pair of points on the circle <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+    *   This is a combination problem: "n choose 2" (or "n C 2"), which counts the number of distinct pairs that can be chosen from a set of 'n' items where order doesn't matter <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+    *   The formula is n * (n-1) / 2 <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
+    *   For example, with 7 points, there are 7 * 6 / 2 = 21 chords <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
 
-1.  **Total Number of Chords**:
-    Every chord corresponds uniquely to a pair of points on the [[geometry_and_circles | circle]] <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. The number of distinct pairs of points is given by the "n choose two" function, written as `nC2` or `(n 2)` <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
-    *   Formula: `nC2 = n * (n - 1) / 2` <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>.
-    *   Example: 7 choose 2 is `7 * 6 / 2 = 21` <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+2.  **How many intersection points are there within the circle?**
+    *   Every intersection point is uniquely associated with a quadruplet (set of four) points on the circle's exterior <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. For any four points on the circle, the two diagonal chords connecting them will intersect inside the circle <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>.
+    *   This is also a combination problem: "n choose 4" (or "n C 4") <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
+    *   The formula is n * (n-1) * (n-2) * (n-3) / (4 * 3 * 2 * 1) or n! / (4! * (n-4)!) <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+    *   For example, with 4 points, there is 1 intersection point (4 choose 4 = 1) <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. With 6 points, there are 15 intersection points (6 choose 4 = 15) <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
 
-2.  **Number of Intersection Points within the Circle**:
-    Every intersection point within the [[geometry_and_circles | circle]] is uniquely associated with a quadruplet of points on the [[geometry_and_circles | circle]]'s exterior <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. The two diagonal chords connecting these four points will intersect <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>. The number of distinct quadruplets is given by the "n choose four" function, `nC4` or `(n 4)` <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
-    *   Formula: `nC4 = n * (n - 1) * (n - 2) * (n - 3) / (4 * 3 * 2 * 1)` (or `n! / (4! * (n-4)!)`) <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
-    *   Example: 6 choose 4 is 15 <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
+### Euler's Characteristic Formula for Planar Graphs
 
-### Euler's Characteristic Formula
+The key to solving Moser's circle problem is applying Euler's characteristic formula, which states that for any planar graph (a graph that can be drawn without edges intersecting), the number of vertices (V) minus the number of edges (E) plus the number of faces/regions (F) always equals two (V - E + F = 2) <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. This formula originally described the vertices, edges, and faces of 3D polyhedra <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
 
-The key to finding the number of regions is Euler's characteristic formula for planar graphs <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. For a planar graph (diagram with nodes/vertices and lines/edges that don't intersect), the formula is:
-`Vertices (v) - Edges (e) + Faces/Regions (f) = 2` <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>.
-This formula describes the relationship between vertices, edges, and faces of a graph, and it holds true regardless of how the graph is drawn, as long as it's planar <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>.
+This formula can be rearranged to find the number of regions: F = E - V + 2 <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>. If only counting the regions *inside* the circle (excluding the infinite outer region), the formula becomes F = E - V + 1 <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
 
-To apply this to Moser's circle problem, which has intersecting lines, the intersection points themselves are treated as new vertices <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
-*   **Total Vertices (v)**: The initial `n` points on the [[geometry_and_circles | circle]]'s boundary plus the `nC4` intersection points within the [[geometry_and_circles | circle]] <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
-    `v = n + nC4` <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
-*   **Total Edges (e)**: Each intersection point effectively takes two initial chords and turns them into four smaller segments, adding two new edges <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. So, the original `nC2` chords become `nC2 + 2 * nC4` segments <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. Additionally, the `n` arcs on the outside of the [[geometry_and_circles | circle]] must be counted as edges <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a>.
-    `e = nC2 + 2 * nC4 + n` <a class="yt-timestamp" data-t="00:10:26">[00:10:26]</a>.
+Although the chords in Moser's problem intersect, the diagram can be treated as a new planar graph by considering each intersection point as a new vertex <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
 
-Rearranging Euler's formula to find the number of regions (`f`), and excluding the infinite outer region (which means `f - 1` regions within the [[geometry_and_circles | circle]]), the formula for the number of regions is `e - v + 1` <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+*   **Total Vertices (V)**: The original 'n' points on the circle plus the 'n choose 4' intersection points <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. So, V = n + (n choose 4) <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>.
+*   **Total Edges (E)**: Each intersection point essentially takes two original lines and turns them into four smaller lines, adding two new edges <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. So, the original 'n choose 2' chords are now broken into 'n choose 2 + 2 * (n choose 4)' smaller segments <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. Additionally, the 'n' arcs on the outside of the circle must be counted as edges <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a>.
+    *   Therefore, E = (n choose 2) + 2 * (n choose 4) + n <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>.
 
-Plugging in the expressions for `e` and `v`:
-`f = (nC2 + 2 * nC4 + n) - (n + nC4) + 1` <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>
-`f = nC2 + 2 * nC4 + n - n - nC4 + 1` <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>
-`f = 1 + nC2 + nC4` <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>
+Plugging these into the modified Euler's formula (F = E - V + 1):
+F = [(n choose 2) + 2 * (n choose 4) + n] - [n + (n choose 4)] + 1 <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>
+F = (n choose 2) + 2 * (n choose 4) + n - n - (n choose 4) + 1
+F = 1 + (n choose 2) + (n choose 4) <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>
 
-This formula precisely gives the number of regions for `n` points <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>.
+This formula precisely describes the number of regions for 'n' points.
 
 ## Connecting to Pascal's Triangle
 
-The reason for the initial power-of-two pattern and its subsequent break lies in Pascal's triangle <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
+The derived formula, 1 + (n choose 2) + (n choose 4), can be understood by examining Pascal's Triangle <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
 
-*   **n choose k and Pascal's Triangle**: Each term in Pascal's triangle corresponds to `n choose k` <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>. Rows are indexed by `n` (starting from 0) and terms within a row by `k` (starting from 0) <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>.
-*   **Row Sums**: The sum of the terms in any row of Pascal's triangle is a power of two <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>. This is because each number in a row donates two copies of itself to the next row, causing the total sum to double with each iteration <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>.
+*   **Pascal's Triangle Structure**: Each term in Pascal's triangle represents "n choose k" <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>. For example, the 3rd element (k=3, zero-indexed) in the 5th row (n=5, zero-indexed) is 10, which is 5 choose 3 <a class="yt-timestamp" data-t="00:12:10">[00:12:10]</a>.
+*   **Sums of Rows**: When summing the numbers in each row of Pascal's triangle, the result is always a power of two <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>. This is because each number in a row donates two copies of itself to the next row, effectively doubling the sum <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a>.
 
-The formula for the number of regions is `1 + nC2 + nC4` <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>. This can be written as `nC0 + nC2 + nC4` because `nC0` (n choose 0) is always 1 <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>. This means the formula sums the 0th, 2nd, and 4th terms in the `n`-th row of Pascal's triangle <a class="yt-timestamp" data-t="00:13:41">[00:13:41]</a>.
+The formula for Moser's circle problem (1 + n choose 2 + n choose 4) can be written as (n choose 0) + (n choose 2) + (n choose 4), since (n choose 0) is always 1 <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>. This means the number of regions is the sum of the 0th, 2nd, and 4th terms in the 'n' row of Pascal's triangle <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>.
 
-*   **Why it looks like powers of 2 (n <= 5)**: For `n` values up to 5, adding `nC0 + nC2 + nC4` is equivalent to adding all the elements up to a certain point in the *previous* row of Pascal's triangle, which for these small `n` values, effectively sums the entire previous row, resulting in a power of two <a class="yt-timestamp" data-t="00:13:55">[00:13:55]</a>. For example, for `n=5`, the formula `1 + 5C2 + 5C4 = 1 + 10 + 5 = 16` <a class="yt-timestamp" data-t="00:13:46">[00:13:46]</a>. This is the sum of the 0th, 2nd, and 4th terms of row 5, which corresponds to the sum of the entire 4th row (1+4+6+4+1 = 16).
+For n values up to 5, summing these terms actually corresponds to summing *all* the terms in the (n-1)th row of Pascal's triangle <a class="yt-timestamp" data-t="00:14:05">[00:14:05]</a>. Since the sum of any full row of Pascal's triangle is a power of two, the results for n=1 through n=5 are powers of two <a class="yt-timestamp" data-t="00:14:05">[00:14:05]</a>.
 
-*   **Why it breaks (n = 6)**: For `n=6`, the formula `1 + 6C2 + 6C4 = 1 + 15 + 15 = 31` <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
-    In Pascal's triangle, `6C0 + 6C2 + 6C4` sums terms from row 6 <a class="yt-timestamp" data-t="00:14:17">[00:14:17]</a>. When related to row 5 (the previous row), this sum `1+15+15` does not cover all terms of row 5 <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>. Specifically, it misses `6C6` (the 6th term of row 6, which is 1) and other even-indexed terms that would complete the sum to `2^5 = 32`. Because it "falls short specifically by just 1," the result is `31` instead of `32` <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>.
+The pattern breaks at n = 6 because (6 choose 0) + (6 choose 2) + (6 choose 4) does not include all the terms in the 5th row (it misses 6 choose 6, which is 1) <a class="yt-timestamp" data-t="00:14:17">[00:14:17]</a>. This is why the result is exactly one less than the expected power of two (31 instead of 32) <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>.
 
-*   **Reappearance of a Power of Two (n = 10)**: At `n=10`, the sum `10C0 + 10C2 + 10C4` corresponds to adding the first 5 elements of row 9 of Pascal's triangle <a class="yt-timestamp" data-t="00:14:38">[00:14:38]</a>. Due to the symmetry of Pascal's triangle, this sum represents exactly half of the total sum of row 9 (`2^9`), which itself is a power of two (`2^8`) <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>.
+Interestingly, when n = 10, the sum of (10 choose 0) + (10 choose 2) + (10 choose 4) is exactly half the sum of the 9th row of Pascal's Triangle (due to the triangle's symmetry), which results in another power of two <a class="yt-timestamp" data-t="00:14:38">[00:14:38]</a>. Determining if this is the last time a power of two appears as a result is an open challenge <a class="yt-timestamp" data-t="00:14:56">[00:14:56]</a>.
 
-## Conclusion
-
-Moser's circle problem serves as a powerful reminder to be cautious of patterns without proof <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>. However, it also demonstrates that what appears to be a mere coincidence can often lead to a deeper and satisfying mathematical understanding <a class="yt-timestamp" data-t="00:15:41">[00:15:41]</a>. By breaking down the problem into smaller parts and leveraging tools like combinatorics (n choose k) and Euler's formula, the true mathematical structure behind the apparent pattern is revealed and connected to fundamental concepts like Pascal's triangle <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>.
+In summary, Moser's circle problem serves as a cautionary tale against assuming patterns without proof <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>. However, it also demonstrates that even apparent coincidences can lead to satisfying mathematical understandings through methods like combinatorial counting and [[geometric_reasoning_and_sphere_surface_area | Euler's formula]] <a class="yt-timestamp" data-t="00:15:41">[00:15:41]</a>.

@@ -1,18 +1,20 @@
 ---
-title: distance measurement in the cosmos
+title: Distance measurement in the cosmos
 videoId: C8baNzpnZ7o
 ---
 
 From: [[3blue1brown]] <br/> 
 
-An animation by Paul D'Steppe illustrates the vastness of space by zooming out by a factor of 10 every three seconds <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This visualization was created as part of a series explaining how we determine the distances to various cosmic objects <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. One notable aspect of the animation is how, upon departing the solar system, it traverses numerous seemingly blank orders of magnitude before the first star becomes visible <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+An animation was created by Paul D'Step to illustrate how distances to various objects in the cosmos are known <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. This animation zooms out by a factor of 10 every three seconds <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
 
-## Challenges in Visualizing Cosmic Distances
+## Representing Cosmic Scale
 
-While effective, such "powers of 10" zoom-outs can inadvertently undersell the true [[scale of the universe | Scale of the Universe]] <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. The implied camera position moves vastly faster than the cosmic speed limit, the speed of light <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. This can make distant objects, such as other galaxies, appear deceptively accessible <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. In reality, traveling at the speed of light would still take approximately 2.5 million years to reach the nearest galaxy <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+The animation effectively demonstrates the vastness of space, showing many seemingly "blank orders of magnitude" after departing the solar system before the first star appears <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
 
-## Mapping the Distant Cosmos
+However, these kinds of [[powers_of_10_scale_in_astronomy | powers of 10]] zoom-outs can risk underselling the true scale of the Universe <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. The implied camera position moves much faster than the cosmic speed limit (the speed of light) <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. This can make distant objects, such as other [[galaxies_and_the_sloan_digital_sky_survey | galaxies]], feel more accessible than they are <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. For instance, traveling at the speed of light would still take approximately 2.5 million years to reach the nearest [[galaxies_and_the_sloan_digital_sky_survey | galaxy]] <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
 
-Creating an accurate scientific ending for the zoom-out animation proved challenging, as the goal was to avoid artist renditions of the universe <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. The solution adopted was a simple point cloud visualization <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. This point cloud represents data sourced from the [[Slone galactic survey and galaxy mapping | Slone galactic survey]], which maps the distances to various galaxies across many different directions in the sky <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+## Mapping Distances to Galaxies
 
-The ability to map these galaxies, which are millions and billions of light-years away and beyond our direct grasp, stands as a profound testament to the power of science and deduction <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. Despite the immense distances, this mapping allows for the study of patterns like the clusters and strands formed by billions of galaxies within the unfathomable reaches of space <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
+When creating the animation, the creators faced challenges in ending the zoom-out while remaining scientifically accurate and avoiding artistic renditions of the universe <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. The solution adopted was to use a simple point cloud representing data from the [[galaxies_and_the_sloan_digital_sky_survey | Sloan Galactic Survey]] <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. This survey essentially maps the distances to various [[galaxies_and_the_sloan_digital_sky_survey | galaxies]] across many different directions in the sky <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+
+The ability to map and study patterns like clusters and strands formed by billions of [[galaxies_and_the_sloan_digital_sky_survey | galaxies]], despite them being millions and billions of light-years away and beyond our grasp, is a mind-boggling testament to the powers of [[scientific_mapping_of_the_universe | science]] and deduction <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.

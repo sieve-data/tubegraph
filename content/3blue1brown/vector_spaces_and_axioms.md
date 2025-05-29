@@ -1,0 +1,50 @@
+---
+title: Vector Spaces and Axioms
+videoId: TgKwz5Ikpc8
+---
+
+From: [[3blue1brown]] <br/> 
+
+The fundamental question of "What are [[understanding_vectors | vectors]]?" serves as a starting point for understanding their true nature in linear algebra <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. Initially, one might consider a two-dimensional [[understanding_vectors | vector]] as either an arrow on a flat plane described by coordinates or fundamentally as a pair of real numbers visualized as an arrow <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+
+Defining [[understanding_vectors | vectors]] as lists of numbers offers a clear and unambiguous approach, making concepts like [[understanding_vectors | four-dimensional vectors]] or [[understanding_vectors | 100-dimensional vectors]] seem concrete <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>. However, those working with [[applications_of_linear_algebra_concepts | linear algebra]] often feel they are dealing with a space independent of the [[coordinate_systems_and_basis_vectors | coordinates]] given to it <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. [[coordinate_systems_and_basis_vectors | Coordinates]] are seen as somewhat arbitrary, depending on the chosen [[coordinate_systems_and_basis_vectors | basis vectors]] <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. Core [[applications_of_linear_algebra_concepts | linear algebra]] topics like determinants and [[eigenvectors_in_two_and_three_dimensions | eigenvectors]] are indifferent to the choice of [[coordinate_systems_and_basis_vectors | coordinate systems]] <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+
+## Functions as Vectors
+
+The concept of a "vector" extends beyond arrows or lists of numbers to include functions, which possess "vector-ish qualities" <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. Functions can be added together (e.g., `f + g`) <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>, where the output of the sum function `(f + g)(x)` is the sum of the individual function outputs `f(x) + g(x)` <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. This resembles adding [[vector_representation_and_coordinate_systems | vectors]] coordinate by coordinate, albeit with infinitely many coordinates <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. Similarly, functions can be scaled by a real number by scaling all their outputs <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+
+Given that [[understanding_vectors | vectors]] primarily support addition and scaling, the tools and techniques of [[applications_of_linear_algebra_concepts | linear algebra]] can be applied to functions <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>. This includes the notion of a [[linear_transformations_in_linear_algebra | linear transformation]] for functions, which takes one function and turns it into another <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+
+### The Derivative as a Linear Transformation
+
+A familiar example of a [[linear_transformations_in_linear_algebra | linear transformation]] (often called an operator in this context) is the derivative from calculus <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>. The derivative transforms one function into another <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>.
+
+A transformation is considered [[linear_transformations_in_linear_algebra | linear]] if it satisfies two properties: additivity and scaling <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>:
+*   **Additivity**: Applying a transformation to the sum of two [[understanding_vectors | vectors]] `v` and `w` yields the same result as adding the transformed versions of `v` and `w` (i.e., `T(v + w) = T(v) + T(w)`) <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>.
+*   **Scaling**: Scaling a [[understanding_vectors | vector]] `v` by a number, then applying the transformation, is equivalent to scaling the transformed `v` by the same amount (i.e., `T(c * v) = c * T(v)`) <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+
+These properties mean [[linear_transformations_in_linear_algebra | linear transformations]] preserve the operations of [[understanding_vectors | vector]] addition and scalar multiplication <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. A key consequence is that a [[linear_transformations_in_linear_algebra | linear transformation]] is completely described by where it takes the [[unit_vectors_and_basis_vectors | basis vectors]] <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>.
+
+Calculus students implicitly use the additivity and scaling properties of the derivative:
+*   The derivative of a sum of functions is the sum of their derivatives <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
+*   The derivative of a scaled function is the scaled derivative of the function <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+
+### Representing the Derivative with a Matrix
+
+Even for functions, the derivative can be described with a matrix, though function spaces tend to be infinite-dimensional <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>. Considering only polynomials, a [[unit_vectors_and_basis_vectors | basis]] can be chosen using powers of `x` (e.g., `1`, `x`, `x^2`, `x^3`, and so on) <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. This infinite set of [[unit_vectors_and_basis_vectors | basis functions]] means polynomials will have infinitely many [[vector_representation_and_coordinate_systems | coordinates]] <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>. For example, `x^2 + 3x + 5` would have coordinates `(5, 3, 1, 0, 0, ...)` <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>.
+
+In this [[coordinate_systems_and_basis_vectors | coordinate system]], the derivative is represented by an infinite matrix that is mostly zeros, with positive integers counting down on an offset diagonal <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>. This matrix `[[linear_transformations_in_linear_algebra | linearly]]` transforms the [[vector_representation_and_coordinate_systems | coordinates]] of a polynomial into the [[vector_representation_and_coordinate_systems | coordinates]] of its derivative <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+
+This demonstrates that matrix-[[understanding_vectors | vector]] multiplication and taking a derivative are fundamentally related as members of the same mathematical family <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. Many concepts from [[applications_of_linear_algebra_concepts | linear algebra]], such as the dot product or [[eigenvectors_in_two_and_three_dimensions | eigenvectors]], have direct analogs in the world of functions (e.g., inner product or eigenfunction) <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>.
+
+## What is a Vector Space?
+
+There are numerous "vectorish things" in mathematics <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>. As long as a set of objects allows for reasonable notions of scaling and adding, the tools of [[applications_of_linear_algebra_concepts | linear algebra]] (regarding [[understanding_vectors | vectors]], [[linear_transformations_in_linear_algebra | linear transformations]], etc.) can be applied <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>. These sets of "vectorish things" – like arrows, lists of numbers, or functions – are formally called [[vector_spaces_and_axioms | vector spaces]] <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>.
+
+### Axioms of Vector Spaces
+
+To ensure broad applicability, mathematicians establish a list of rules, called **axioms**, that [[understanding_vectors | vector]] addition and scaling must follow <a class="yt-timestamp" data-t="00:12:29">[00:12:29]</a>. In modern [[applications_of_linear_algebra_concepts | linear algebra]], there are eight such axioms that any [[vector_spaces_and_axioms | vector space]] must satisfy for the theory to apply <a class="yt-timestamp" data-t="00:12:36">[00:12:36]</a>. These axioms essentially provide a checklist to ensure that the defined operations behave as expected <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>.
+
+The axioms serve as an interface between the mathematician developing the theory and others who might apply those results to new types of [[vector_spaces_and_axioms | vector spaces]] <a class="yt-timestamp" data-t="00:12:58">[00:12:58]</a>. By proving results in terms of these axioms, mathematicians don't need to consider every conceivable [[vector_spaces_and_axioms | vector space]]; instead, anyone whose definitions satisfy the axioms can confidently apply the results <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>. This leads to abstract phrasing in textbooks, defining [[linear_transformations_in_linear_algebra | linear transformations]] in terms of additivity and scaling rather than more intuitive, but specific, geometric interpretations <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>.
+
+Ultimately, the modern mathematical view "ignores the question" of what [[understanding_vectors | vectors]] fundamentally are <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>. Their specific form (arrows, lists of numbers, functions) doesn't matter, as long as addition and scaling obey the axioms <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>. Like the number 3 being an abstraction for all possible triplets of things, [[understanding_vectors | vectors]] are an abstraction for various embodiments, unified by the single, intangible notion of a [[vector_spaces_and_axioms | vector space]] <a class="yt-timestamp" data-t="00:14:41">[00:14:41]</a>. While starting with concrete, visualizable settings like 2D space is helpful for intuition, understanding the general applicability of [[applications_of_linear_algebra_concepts | linear algebra]] tools requires grasping this abstract definition <a class="yt-timestamp" data-t="00:15:08">[00:15:08]</a>.

@@ -1,0 +1,35 @@
+---
+title: Keplers contributions to astronomy
+videoId: YdOXS_9_P4U
+---
+
+From: [[3blue1brown]] <br/> 
+
+[[johannes_kepler | Johannes Kepler]] is recognized for an idea of "pure genius" in astronomy, as described by Albert Einstein in an introduction to an astronomy book <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. His work, particularly in deducing the shape of Earth's orbit, was remarkably clever <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
+
+## Building on Previous Work
+Kepler's contributions were built upon the work of others, most notably [[copernicuss_heliocentric_model | Nicolaus Copernicus]] <a class="yt-timestamp" data-t="00:18:47">[00:18:47]</a>. Copernicus had established that planets orbit the Sun in circular paths and calculated their orbital periods <a class="yt-timestamp" data-t="00:18:55">[00:18:55]</a>. For example, Earth takes one year, and Mars takes 687 days <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>, <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>. These period calculations, derived from centuries of Babylonian observations, were crucial for Kepler's later work <a class="yt-timestamp" data-t="00:19:16">[00:19:16]</a>, <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>, <a class="yt-timestamp" data-t="00:19:25">[00:19:25]</a>.
+
+## Initial Theories and Challenges
+Kepler initially sought to confirm a "beautiful theory" of his own, linking the relative sizes of planetary orbits to the [[platonic_solids_in_astronomy | five platonic solids]] <a class="yt-timestamp" data-t="00:19:42">[00:19:42]</a>, <a class="yt-timestamp" data-t="00:20:20">[00:20:20]</a>. To test this, he required historical data on planetary positions in the sky <a class="yt-timestamp" data-t="00:20:23">[00:20:23]</a>.
+
+He obtained observational data from [[tycho_brahe_and_his_astronomical_observations | Tycho Brahe]], a wealthy Danish aristocrat who had spent decades meticulously observing planets from his observatory, Uraniborg <a class="yt-timestamp" data-t="00:20:30">[00:20:30]</a>, <a class="yt-timestamp" data-t="00:20:36">[00:20:36]</a>, <a class="yt-timestamp" data-t="00:20:43">[00:20:43]</a>. Kepler notably "stole the data" from Brahe <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>.
+
+Despite his efforts, Kepler found that neither his own theory nor [[copernicuss_heliocentric_model | Copernicus's model]] of circular orbits precisely matched Brahe's data <a class="yt-timestamp" data-t="00:21:01">[00:21:01]</a>, <a class="yt-timestamp" data-t="00:21:05">[00:21:05]</a>, <a class="yt-timestamp" data-t="00:21:07">[00:21:07]</a>. This inability to reconcile circular orbits with observations highlighted the complexity of the problem, as astronomers at the time only had angle measurements (where a planet appeared in the sky) and no direct knowledge of distances to planets in 3D space <a class="yt-timestamp" data-t="00:21:13">[00:21:13]</a>, <a class="yt-timestamp" data-t="00:21:24">[00:21:24]</a>, <a class="yt-timestamp" data-t="00:22:04">[00:22:04]</a>, <a class="yt-timestamp" data-t="00:22:05">[00:22:05]</a>, <a class="yt-timestamp" data-t="00:22:19">[00:22:19]</a>.
+
+## Kepler's "Pure Genius" Breakthrough
+Kepler's breakthrough, considered "pure genius" by Einstein <a class="yt-timestamp" data-t="00:26:55">[00:26:55]</a>, involved a clever use of Mars's orbital period:
+*   He leveraged [[copernicuss_heliocentric_model | Copernicus's calculation]] that Mars returns to the same point in its orbit every 687 days <a class="yt-timestamp" data-t="00:24:00">[00:24:00]</a>, <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>.
+*   By analyzing [[tycho_brahe_and_his_astronomical_observations | Tycho Brahe's data]] for observations spaced exactly 687 days apart, Kepler treated Mars as a fixed reference point <a class="yt-timestamp" data-t="00:24:08">[00:24:08]</a>, <a class="yt-timestamp" data-t="00:24:15">[00:24:15]</a>.
+*   On any given night, knowing the direction from Earth to Mars and the direction from Earth to the Sun (determined by the date), allowed him to triangulate Earth's position relative to the fixed Mars and Sun <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>, <a class="yt-timestamp" data-t="00:23:28">[00:23:28]</a>, <a class="yt-timestamp" data-t="00:24:29">[00:24:29]</a>.
+*   Brahe's 10 years of data provided enough observations to plot five different locations for Earth relative to a specific (fixed) position of Mars <a class="yt-timestamp" data-t="00:24:20">[00:24:20]</a>, <a class="yt-timestamp" data-t="00:24:44">[00:24:44]</a>.
+*   By repeating this process for many different fixed positions of Mars (by shifting the 687-day sequence by a day or two), Kepler created a "jigsaw puzzle" of Earth's potential positions <a class="yt-timestamp" data-t="00:25:03">[00:25:03]</a>, <a class="yt-timestamp" data-t="00:25:28">[00:25:28]</a>, <a class="yt-timestamp" data-t="00:25:31">[00:25:31]</a>.
+*   He then pieced these together to deduce the coherent shape of Earth's orbit <a class="yt-timestamp" data-t="00:25:38">[00:25:38]</a>.
+
+## Discoveries and Laws
+Through this method, Kepler made groundbreaking discoveries:
+*   He realized that Earth's orbit is an **ellipse**, not a perfect circle <a class="yt-timestamp" data-t="00:25:52">[00:25:52]</a>, <a class="yt-timestamp" data-t="00:25:55">[00:25:55]</a>.
+*   He also found that the area swept out by Earth as it orbits is constant for a given time period, regardless of its position on the ellipse <a class="yt-timestamp" data-t="00:25:59">[00:25:59]</a>, <a class="yt-timestamp" data-t="00:26:03">[00:26:03]</a>.
+*   Once Earth's orbital shape was known, it became easier to deduce the orbits of other planets, including Mars <a class="yt-timestamp" data-t="00:26:07">[00:26:07]</a>, <a class="yt-timestamp" data-t="00:26:09">[00:26:09]</a>, <a class="yt-timestamp" data-t="00:26:13">[00:26:13]</a>. This was done by reversing the process, using Earth's known orbit to triangulate Mars's position on days when Mars was at a specific point in its own orbit <a class="yt-timestamp" data-t="00:26:18">[00:26:18]</a>, <a class="yt-timestamp" data-t="00:26:25">[00:26:25]</a>, <a class="yt-timestamp" data-t="00:26:32">[00:26:32]</a>.
+
+Kepler's method provided the shapes of all planetary orbits relative to Earth's orbit <a class="yt-timestamp" data-t="00:27:19">[00:27:19]</a>, <a class="yt-timestamp" data-t="00:27:23">[00:27:23]</a>. However, it did not determine the absolute distances within the solar system, leaving the exact scale a mystery <a class="yt-timestamp" data-t="00:27:16">[00:27:16]</a>, <a class="yt-timestamp" data-t="00:27:26">[00:27:26]</a>, <a class="yt-timestamp" data-t="00:27:31">[00:27:31]</a>. His work, however, laid the fundamental groundwork for future [[history_of_measuring_cosmic_distances | measurements of cosmic distances]] <a class="yt-timestamp" data-t="00:27:36">[00:27:36]</a>, <a class="yt-timestamp" data-t="00:27:39">[00:27:39]</a>.

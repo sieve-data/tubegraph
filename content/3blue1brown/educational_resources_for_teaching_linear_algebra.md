@@ -5,33 +5,32 @@ videoId: kjBOesZCoqc
 
 From: [[3blue1brown]] <br/> 
 
-A series of videos is being developed as an [[overview_of_upcoming_series_on_linear_algebra | educational resource]] focused on [[linear_algebra_foundations | linear algebra]] <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. This subject is critical for almost any technical discipline but is often [[challenges_students_face_in_learning_linear_algebra | poorly understood by students]] initially <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. Students frequently learn the numerical operations, such as matrix multiplication, determinants, cross products, and eigenvalues, without grasping the underlying geometric intuitions <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+New educational resources are being developed to address common [[challenges_students_face_in_learning_linear_algebra | challenges students face in learning linear algebra]] <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. While [[understanding_linear_algebra | linear algebra]] is a required subject for almost any technical discipline, students often learn computations without truly understanding the underlying concepts or why operations are defined the way they are <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
 
-## Goals of the Video Series
+## The Need for Geometric Understanding
 
-The primary goal of this series is to create a short, binge-watchable collection of videos that animate the [[importance_of_geometric_understanding_in_linear_algebra | intuitions]] behind [[linear_algebra_foundations | linear algebra]] <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. The series aims to:
-*   Present foundational concepts from the basics of [[understanding_vectors_in_linear_algebra | vectors]] up through the core topics of [[linear_algebra_foundations | linear algebra]] <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>.
-*   Lay down correct [[importance_of_geometric_understanding_in_linear_algebra | intuitions]] to make future learning of the subject more productive and fruitful <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+Students frequently become proficient in the numerical operations of matrices, such as matrix multiplication, determinants, cross products, and eigenvalues, but lack a clear grasp of the [[importance_of_visual_intuition_for_learning_linear_algebra | geometric intuitions]] that underpin these operations <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. There is a fundamental distinction between understanding [[understanding_linear_algebra | linear algebra]] on a numeric level and understanding it on a [[geometric_versus_numeric_understanding_in_linear_algebra | geometric level]] <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
 
-It is important to note that the series is not intended to be a complete course capable of teaching the entire subject of [[linear_algebra_foundations | linear algebra]] <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>. Instead, it serves as a conceptual foundation.
+*   **Geometric Understanding**: This allows learners to determine which tools to use for specific problems, comprehend why they are effective, and correctly interpret results <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+*   **Numeric Understanding**: This enables the actual application of those tools <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
 
-## Target Audience and Use Cases
+Without a strong foundation in [[importance_of_visual_intuition_for_learning_linear_algebra | geometric understanding]], students may encounter difficulties later in fields such as computer science, engineering, statistics, economics, or mathematics itself <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. The application of [[applications_of_linear_algebra_concepts | linear algebra concepts]] by professors or colleagues might appear to be "computational wizardry" if the geometric context is missing <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>.
 
-This video series is designed to be a valuable resource for:
-*   **Students** learning [[linear_algebra_foundations | linear algebra]] for the first time <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
-*   **Educators** teaching courses that assume fluency with [[linear_algebra_foundations | linear algebra]] <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. They can direct students needing a quick conceptual brush-up to this resource <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+Although many professors aim to convey geometric understanding, courses often dedicate a disproportionate amount of time to the numerical aspect of [[understanding_linear_algebra | linear algebra]] <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. In modern practice, computers typically handle the numerical computations, while humans focus on the conceptual understanding <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
 
-## Content and Structure
+## A New Video Series on Linear Algebra
 
-The series will cover topics from the basics of [[understanding_vectors_in_linear_algebra | vectors]] to the core essence of [[linear_algebra_foundations | linear algebra]] <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>.
+A new educational video series aims to animate the [[importance_of_visual_intuition_for_learning_linear_algebra | intuitions]] underlying [[understanding_linear_algebra | linear algebra]] <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>.
 
-### Release Schedule
-*   Initially, one video will be released per day for five days <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
-*   Following the initial five days, new chapters will be released every one to two weeks <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
+### Content and Scope
+The series will cover topics from the basics of vectors up to the core concepts that form the essence of [[understanding_linear_algebra | linear algebra]] <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>. It will emphasize the connection between computation and visual intuitions, which is generally straightforward in [[understanding_linear_algebra | linear algebra]] <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. By understanding the relationship between geometry and numbers, the subject's details and practical applications become more comprehensible <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
 
-### Learning Advice
-Viewers are encouraged to:
-*   **Pause and ponder** the content as needed, especially if the pacing feels too quick <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>.
-*   Actively engage with the material on their own time, as this self-reflection is crucial for genuine learning in mathematics <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>.
+### Format and Schedule
+The series is designed to be short and "binge-watchable" <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. Initial videos will be released daily, followed by new chapters every one to two weeks <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
 
-> "The thinking that you do on your own time is where all the learning really happens." <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>
+### Goals
+*   **Lay foundational intuitions**: The primary goal is not to teach a full subject, but to establish the correct intuitions to make future learning productive <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.
+*   **Resource for educators**: It can serve as a quick brush-up resource for students taking courses that assume fluency with [[understanding_linear_algebra | linear algebra]] <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
+
+### Learning Approach
+Viewers are encouraged to pause and reflect as needed, as personal reflection is crucial for genuine learning in mathematics <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.

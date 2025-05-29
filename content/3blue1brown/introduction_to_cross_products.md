@@ -5,42 +5,79 @@ videoId: eu6i7WJeinw
 
 From: [[3blue1brown]] <br/> 
 
-The cross product is an operation that combines two vectors to produce a third vector <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. This article covers the standard introduction to the cross product, which is typically taught to students <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. A deeper understanding, involving linear transformations, will be explored in a separate video <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+The cross product is a fundamental operation in linear algebra, often introduced alongside the [[geometric_interpretation_of_dot_products | dot product]] <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. While the [[geometric_interpretation_of_dot_products | dot product]] relates to projections and how vectors stretch, the cross product is deeply connected to areas and volumes and how orientation changes under [[introduction_to_linear_transformations | linear transformations]] <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>, <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
 
-## 2D Cross Product
+## [[cross_product_in_two_dimensions | Cross Product in Two Dimensions]]
 
-In two dimensions, given two vectors `v` and `w`, their cross product `v x w` is related to the area of the parallelogram they span <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>. This parallelogram is formed by taking copies of `v` and `w` and moving their tails to the tip of the other vector <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+In two dimensions, the cross product of two vectors, `v` and `w`, is a scalar value <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
 
-The cross product `v x w` is the area of this parallelogram, with an important consideration for orientation <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>:
-*   If `v` is on the right of `w`, `v x w` is positive and equal to the parallelogram's area <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
-*   If `v` is on the left of `w`, `v x w` is negative, specifically the negative area of that parallelogram <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+### Geometric Interpretation
 
-This implies that order matters: swapping `v` and `w` (i.e., taking `w x v` instead of `v x w`) will result in the negative of the original cross product <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. The order of basis vectors (e.g., `i-hat` cross `j-hat` being positive) defines orientation <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. For example, if `v` is on the left of `w` and the parallelogram's area is 7, then `v x w` is -7 <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+The cross product `v × w` represents the area of the parallelogram spanned by `v` and `w` <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. This parallelogram is formed by taking a copy of `v` and moving its tail to the tip of `w`, and a copy of `w` and moving its tail to the tip of `v` <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
 
-### Calculation using Determinants
-To compute the 2D cross product `v x w`, you write the coordinates of `v` as the first column of a matrix and the coordinates of `w` as the second column, then compute the [[Determinants and 2D cross product | determinant]] of this matrix <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
+However, it's not just the area; orientation must also be considered <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>:
+*   If `v` is on the right of `w`, `v × w` is positive and equal to the parallelogram's area <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+*   If `v` is on the left of `w`, `v × w` is negative, specifically the negative area of the parallelogram <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
 
-The reason this works is connected to [[linear_transformations_and_dot_products | linear transformations]] <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. A matrix with columns representing `v` and `w` corresponds to a [[linear_transformations_and_dot_products | linear transformation]] that moves the basis vectors `i-hat` and `j-hat` to `v` and `w` <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. The [[Determinants and 2D cross product | determinant]] measures how areas change due to a transformation <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. The unit square, resting on `i-hat` and `j-hat` with an area of one, gets transformed into the parallelogram defined by `v` and `w` <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. Thus, the [[Determinants and 2D cross product | determinant]] directly gives the area of this parallelogram <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. If `v` is on the left of `w`, the orientation was flipped during the transformation, which is why the [[Determinants and 2D cross product | determinant]] is negative <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
+This implies that the order of the vectors matters: `w × v` will be the negative of `v × w` <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>, <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. The orientation is defined by the order of the basis vectors, such as `i-hat × j-hat` being positive <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
 
-For example, if `v = (-3, 1)` and `w = (2, 1)`, the [[Determinants and 2D cross product | determinant]] of the matrix with these as columns is `(-3 * 1) - (2 * 1) = -5` <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. This means the parallelogram's area is 5, and the negative sign indicates `v` is to the left of `w` <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+For example, if the parallelogram's area is 7 and `v` is on the left of `w`, then `v × w = -7` <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+
+### Computation: [[using_determinants_in_cross_products | Using Determinants]]
+
+The [[cross_product_in_two_dimensions | 2D cross product]] `v × w` can be computed using the determinant <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.
+If `v` has coordinates `(v_x, v_y)` and `w` has coordinates `(w_x, w_y)`, you form a matrix where `v`'s coordinates are the first column and `w`'s coordinates are the second column <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. The determinant of this matrix is the cross product <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>.
+
+```
+| v_x  w_x |
+| v_y  w_y |
+```
+The determinant measures how areas change due to a [[introduction_to_linear_transformations | linear transformation]] <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. When basis vectors `i-hat` and `j-hat` are transformed to `v` and `w`, the unit square they define transforms into the parallelogram spanned by `v` and `w` <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. The determinant thus gives the area of this parallelogram <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. A negative determinant indicates that orientation was flipped, aligning with `v` being on the left of `w` <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
+
+**Example**: If `v = (-3, 1)` and `w = (2, 1)` <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>:
+Determinant = `(-3 * 1) - (2 * 1) = -3 - 2 = -5` <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>.
+This means the parallelogram's area is 5, and the negative sign indicates `v` is to the left of `w` <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
 
 ### Intuitive Properties
-*   When two vectors are perpendicular, their cross product is larger than if they were pointing in similar directions, because the area of the parallelogram is maximized when the sides are closer to being perpendicular <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
-*   Scaling one of the vectors, such as multiplying `v` by 3, scales the area of the parallelogram by the same factor. Therefore, `3v x w` will be exactly 3 times the value of `v x w` <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>.
+
+*   When two vectors are perpendicular, their cross product is larger than if they were pointing in similar directions, as the parallelogram's area is maximized when sides are perpendicular <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
+*   Scaling one of the vectors scales the parallelogram's area by the same factor <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>. For example, `(3v) × w = 3 * (v × w)` <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>.
 
 ## 3D Cross Product
 
-The "true" cross product combines two 3D vectors to produce a new 3D vector <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. Like the 2D case, it still considers the parallelogram defined by the two vectors being crossed, and the area of this parallelogram plays a significant role <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+The "true" cross product combines two 3D vectors to produce a new 3D vector <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
 
-For the 3D cross product:
-*   **Length:** The length (magnitude) of the new vector is the area of the parallelogram spanned by the two input vectors <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
-*   **Direction:** The direction of the new vector is perpendicular to the plane containing the parallelogram <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>.
+### Geometric Interpretation
 
-To determine which of the two possible perpendicular directions is correct, the [[3D cross product and the right hand rule | right hand rule]] is used <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>. Point your right hand's forefinger in the direction of `v`, your middle finger in the direction of `w`, and your thumb will point in the direction of `v x w` <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
+Similar to 2D, the parallelogram defined by the two vectors still plays a big role <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+*   **Magnitude**: The length of the resulting vector is the area of the parallelogram spanned by the two input vectors <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+*   **Direction**: The direction of the resulting vector is perpendicular to the plane containing the parallelogram <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>, <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>.
 
-For example, if `v` has a length of 2 pointing in the z-direction, and `w` has a length of 2 pointing in the y-direction, they define a square with an area of 4 <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>. Using the [[3D cross product and the right hand rule | right hand rule]], their cross product will be a vector of length 4 pointing in the negative x-direction, i.e., `-4 * i-hat` <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>.
+### [[right_hand_rule_for_cross_products | Right Hand Rule]]
 
-### Calculation using 3D Determinants
-For general computations, a process involving a 3D [[Determinants and 2D cross product | determinant]] is commonly used <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. This involves writing a 3D matrix where the second and third columns contain the coordinates of `v` and `w`, and the first column contains the basis vectors `i-hat`, `j-hat`, and `k-hat` <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>. When computing the [[Determinants and 2D cross product | determinant]] by treating the basis vectors as if they were numbers, the result is a linear combination of these basis vectors <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>. This resulting vector is unique, perpendicular to `v` and `w`, has a magnitude equal to the parallelogram's area, and its direction obeys the [[3D cross product and the right hand rule | right hand rule]] <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+To determine the specific direction (which of the two perpendicular directions), the [[right_hand_rule_for_cross_products | right hand rule]] is used <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>:
+1.  Point your right hand's forefinger in the direction of the first vector (`v`) <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
+2.  Extend your middle finger in the direction of the second vector (`w`) <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>.
+3.  Your thumb will then point in the direction of the cross product (`v × w`) <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>.
 
-This method, while appearing as a "notational trick," is important because the [[Determinants and 2D cross product | determinant]] is once again central <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. A deeper understanding of this connection involves the idea of duality, which is covered in a subsequent video <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>. The main takeaway is to understand what the [[Geometric representation of cross products | cross product]] vector geometrically represents <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>.
+**Example**: If `v` is length 2 in the positive z-direction and `w` is length 2 in the positive y-direction <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>:
+*   The parallelogram is a square with area 4 <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
+*   Using the [[right_hand_rule_for_cross_products | right hand rule]], `v × w` points in the negative x-direction <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>.
+*   Thus, `v × w = -4 * i-hat` <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>.
+
+### [[3d_cross_product_computations | 3D Cross Product Computations]]
+
+For general computations, a formula can be memorized, but it's more common to use a process involving a 3D determinant <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>.
+This involves writing a 3D matrix where:
+*   The first column contains the basis vectors `i-hat`, `j-hat`, and `k-hat` <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>.
+*   The second and third columns contain the coordinates of `v` and `w` respectively <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
+
+Then, you compute the determinant of this matrix, treating `i-hat`, `j-hat`, and `k-hat` as if they were numbers <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. The result will be a linear combination of these basis vectors, which defines the cross product vector <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
+
+```
+| i-hat  v_x  w_x |
+| j-hat  v_y  w_y |
+| k-hat  v_z  w_z |
+```
+
+Although this process might seem like a notational trick <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>, the determinant's continued importance is not coincidental <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>. The reason for this connection lies in the concept of duality, which provides a deeper understanding of how this computation relates to the underlying geometry <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>, <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>.

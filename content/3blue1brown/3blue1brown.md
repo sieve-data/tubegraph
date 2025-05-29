@@ -2,691 +2,694 @@
 title: 3blue1brown
 ---
 ### [The most unexpected answer to a counting puzzle](https://www.youtube.com/watch?v=HEfHFsfGXjs)
-- [[elastic_collisions_in_physics | Elastic collisions in physics]]
-- [[relationship_between_counting_and_pi | Relationship between counting and pi]]
-- [[algorithm_for_computing_pi_using_physics | Algorithm for computing pi using physics]]
-- [[conservation_of_energy_and_hidden_circles | Conservation of energy and hidden circles]]
-- [[gregory_galperins_discovery_and_pi_puzzles | Gregory Galperins discovery and pi puzzles]]
-
-### [The essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM)
-- [[introduction_to_calculus | Introduction to calculus]]
-- [[geometry_and_circles | Geometry and circles]]
-- [[integrals_and_derivatives | Integrals and derivatives]]
-- [[fundamental_theorem_of_calculus | Fundamental theorem of calculus]]
-- [[visual_approach_to_math_concepts | Visual approach to math concepts]]
-
-### [Vectors | Chapter 1, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs)
-- [[understanding_vectors_in_linear_algebra | Understanding vectors in linear algebra]]
-- [[different_perspectives_on_vectors | Different perspectives on vectors]]
-- [[vectors_in_two_and_three_dimensions | Vectors in two and three dimensions]]
-- [[vector_addition_and_scalar_multiplication | Vector addition and scalar multiplication]]
-- [[applications_of_vectors_in_data_analysis_and_computer_graphics | Applications of vectors in data analysis and computer graphics]]
-
-### [Gradient descent, how neural networks learn | DL2](https://www.youtube.com/watch?v=IHZwWFHWa-w)
-- [[structure_of_neural_networks | Structure of neural networks]]
-- [[gradient_descent_and_cost_function | Gradient descent and cost function]]
-- [[training_neural_networks_with_mnist_data | Training neural networks with MNIST data]]
-- [[role_of_hidden_layers_in_neural_networks | Role of hidden layers in neural networks]]
-- [[introduction_to_backpropagation | Introduction to backpropagation]]
-
-### [But what is a neural network? | Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
-- [[neural_networks_and_brain_analogy | Neural networks and brain analogy]]
-- [[structure_of_neural_networks | Structure of neural networks]]
-- [[handwritten_digit_recognition | Handwritten digit recognition]]
-- [[neural_network_learning_process | Neural network learning process]]
-- [[activation_functions_in_neural_networks | Activation functions in neural networks]]
-
-### [The hardest problem on the hardest test](https://www.youtube.com/watch?v=OkmNXy7er84)
-- [[putnam_math_competition_overview | Putnam Math Competition overview]]
-- [[understanding_difficult_math_problems | Understanding difficult math problems]]
-- [[problemsolving_strategies_in_mathematics | Problemsolving strategies in mathematics]]
-- [[probability_in_geometry_and_tetrahedrons | Probability in geometry and tetrahedrons]]
-- [[challenges_of_formalizing_mathematical_insights | Challenges of formalizing mathematical insights]]
+- [[physics_of_elastic_collisions | Physics of elastic collisions]]
+- [[counting_puzzle_involving_pi | Counting puzzle involving pi]]
+- [[mathematician_gregory_galperins_discovery | Mathematician Gregory Galperins discovery]]
+- [[algorithm_for_computing_digits_of_pi | Algorithm for computing digits of pi]]
+- [[idealized_physics_in_theoretical_simulations | Idealized physics in theoretical simulations]]
 
 ### [But why is a sphere's surface area four times its shadow?](https://www.youtube.com/watch?v=GNcFjFmqEc8)
-- [[surface_area_of_a_sphere | Surface area of a sphere]]
-- [[connection_between_sphere_and_circle_area_formulas | Connection between sphere and circle area formulas]]
-- [[geometry_of_spheres_and_cylinders | Geometry of spheres and cylinders]]
-- [[projection_of_spherical_rectangles_and_area_relationships | Projection of spherical rectangles and area relationships]]
-- [[convex_shapes_and_their_surface_area_properties | Convex shapes and their surface area properties]]
+- [[surface_area_of_a_sphere_versus_its_shadow | Surface area of a sphere versus its shadow]]
+- [[geometric_reasoning_and_sphere_surface_area | Geometric reasoning and sphere surface area]]
+- [[projection_of_sphere_onto_a_cylinder | Projection of sphere onto a cylinder]]
+- [[mathematical_exercises_and_problemsolving_in_geometry | Mathematical exercises and problemsolving in geometry]]
+- [[general_principles_of_surface_area_for_convex_shapes | General principles of surface area for convex shapes]]
 
-### [Solving Wordle using information theory](https://www.youtube.com/watch?v=v68zYyaEmEA)
-- [[wordle_game_rules | Wordle game rules]]
-- [[information_theory_and_entropy | Information theory and entropy]]
-- [[algorithm_design_for_wordle | Algorithm design for Wordle]]
-- [[role_of_probability_in_word_guessing | Role of probability in word guessing]]
-- [[optimal_strategy_for_wordle | Optimal strategy for Wordle]]
+### [The hardest problem on the hardest test](https://www.youtube.com/watch?v=OkmNXy7er84)
+- [[putnam_mathematics_competition | Putnam Mathematics Competition]]
+- [[problemsolving_strategies_in_mathematics | ProblemSolving Strategies in Mathematics]]
+- [[probability_in_geometry | Probability in Geometry]]
+- [[conceptualizing_mathematical_problems | Conceptualizing Mathematical Problems]]
+- [[mathematical_insights_and_elegant_solutions | Mathematical Insights and Elegant Solutions]]
+
+### [Vectors | Chapter 1, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs)
+- [[understanding_vectors | Understanding vectors]]
+- [[vectors_in_physics_and_computer_science | Vectors in physics and computer science]]
+- [[vector_representation_and_coordinate_systems | Vector representation and coordinate systems]]
+- [[vector_addition_and_scalar_multiplication | Vector addition and scalar multiplication]]
+- [[applications_of_linear_algebra_in_data_analysis_and_computer_graphics | Applications of linear algebra in data analysis and computer graphics]]
+
+### [But what is a neural network? | Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
+- [[neural_networks_and_their_inspiration_from_the_brain | Neural networks and their inspiration from the brain]]
+- [[structure_and_function_of_a_neural_network | Structure and function of a neural network]]
+- [[digit_recognition_using_neural_networks | Digit recognition using neural networks]]
+- [[weight_and_bias_adjustment_in_neural_networks | Weight and bias adjustment in neural networks]]
+- [[introduction_to_activation_functions_like_sigmoid_and_relu | Introduction to activation functions like sigmoid and ReLU]]
 
 ### [Why is pi here?  And why is it squared?  A geometric answer to the Basel problem](https://www.youtube.com/watch?v=d-o3eB9sfls)
-- [[basel_problem_and_eulers_solution | Basel problem and Eulers solution]]
-- [[pis_relationship_to_circles_and_geometry | Pis relationship to circles and geometry]]
-- [[inverse_square_law_and_its_applications | Inverse square law and its applications]]
-- [[inverse_pythagorean_theorem | Inverse Pythagorean theorem]]
-- [[geometric_representation_through_lighthouses | Geometric representation through lighthouses]]
-
-### [But what is a Fourier series?  From heat flow to drawing with circles | DE4](https://www.youtube.com/watch?v=r6sGWTCMz2k)
-- [[complex_fourier_series_and_rotating_vectors | Complex Fourier series and rotating vectors]]
-- [[applications_of_fourier_series_in_heat_distribution | Applications of Fourier series in heat distribution]]
-- [[breaking_down_complex_functions_with_rotating_vectors | Breaking down complex functions with rotating vectors]]
-- [[mathematical_analysis_of_fourier_series | Mathematical analysis of Fourier series]]
-- [[numerical_computation_and_integration_in_fourier_series | Numerical computation and integration in Fourier series]]
+- [[the_basel_problem | The Basel Problem]]
+- [[inverse_square_law | Inverse Square Law]]
+- [[eulers_solution_to_basel_problem | Eulers Solution to Basel Problem]]
+- [[inverse_pythagorean_theorem | Inverse Pythagorean Theorem]]
+- [[geometric_intuition_of_pi | Geometric Intuition of Pi]]
 
 ### [But what is the Fourier Transform?  A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
 - [[introduction_to_fourier_transform | Introduction to Fourier Transform]]
-- [[decomposing_sound_into_frequencies | Decomposing sound into frequencies]]
-- [[visual_representation_of_signal_processing | Visual representation of signal processing]]
-- [[complex_plane_and_winding_frequency | Complex plane and winding frequency]]
-- [[applications_of_fourier_transform | Applications of Fourier Transform]]
+- [[decomposing_sound_frequencies | Decomposing sound frequencies]]
+- [[application_of_fourier_transform_in_sound_editing | Application of Fourier Transform in sound editing]]
+- [[mathematical_principles_of_fourier_transform | Mathematical principles of Fourier Transform]]
+- [[complex_numbers_and_fourier_transform | Complex numbers and Fourier Transform]]
+
+### [The essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM)
+- [[introduction_to_calculus_series | Introduction to calculus series]]
+- [[fundamental_concepts_of_calculus | Fundamental concepts of calculus]]
+- [[visualization_in_calculus | Visualization in calculus]]
+- [[derivatives_and_integrals | Derivatives and integrals]]
+- [[fundamental_theorem_of_calculus | Fundamental theorem of calculus]]
+
+### [Gradient descent, how neural networks learn | DL2](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [[introduction_to_gradient_descent | Introduction to gradient descent]]
+- [[neural_network_structure_and_layers | Neural network structure and layers]]
+- [[training_neural_networks_for_handwritten_digit_recognition | Training neural networks for handwritten digit recognition]]
+- [[cost_function_and_its_role_in_neural_networks | Cost function and its role in neural networks]]
+- [[challenges_in_neural_network_optimization_and_performance_evaluation | Challenges in neural network optimization and performance evaluation]]
+
+### [But what is a Fourier series?  From heat flow to drawing with circles | DE4](https://www.youtube.com/watch?v=r6sGWTCMz2k)
+- [[fourier_series_and_rotating_vectors | Fourier series and rotating vectors]]
+- [[complex_fourier_series_and_drawing_with_circles | Complex Fourier series and drawing with circles]]
+- [[heat_equation_and_its_connection_to_fourier_series | Heat equation and its connection to Fourier series]]
+- [[infinite_sums_and_approximations | Infinite sums and approximations]]
+- [[application_of_complex_numbers_and_exponentials_in_fourier_series | Application of complex numbers and exponentials in Fourier series]]
+
+### [Solving Wordle using information theory](https://www.youtube.com/watch?v=v68zYyaEmEA)
+- [[wordle_game_mechanics | Wordle game mechanics]]
+- [[information_theory_and_entropy_in_wordle | Information theory and entropy in Wordle]]
+- [[algorithms_for_optimal_wordle_play | Algorithms for optimal Wordle play]]
+- [[probability_and_information_measurement | Probability and information measurement]]
+- [[word_frequency_data_and_wordle_strategies | Word frequency data and Wordle strategies]]
 
 ### [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-- [[what_bitcoin_is_and_how_it_functions_as_a_digital_currency | What bitcoin is and how it functions as a digital currency]]
-- [[the_principles_of_decentralized_trustless_verification_in_cryptocurrencies | The principles of decentralized trustless verification in cryptocurrencies]]
-- [[the_role_of_ledgers_digital_signatures_and_hash_functions_in_bitcoin | The role of ledgers digital signatures and hash functions in bitcoin]]
-- [[mining_and_the_proof_of_work_concept_in_the_bitcoin_protocol | Mining and the proof of work concept in the bitcoin protocol]]
-- [[blockchain_technology_and_its_application_in_cryptocurrency_transactions | Blockchain technology and its application in cryptocurrency transactions]]
+- [[understanding_the_basics_of_bitcoin_and_cryptocurrency | Understanding the basics of Bitcoin and cryptocurrency]]
+- [[role_of_cryptography_and_digital_signatures_in_bitcoin | Role of cryptography and digital signatures in Bitcoin]]
+- [[blockchain_and_proof_of_work_in_the_bitcoin_protocol | Blockchain and proof of work in the Bitcoin protocol]]
+- [[bitcoin_mining_and_block_creation | Bitcoin mining and block creation]]
+- [[transaction_fees_and_scalability_issues_in_bitcoin | Transaction fees and scalability issues in Bitcoin]]
 
 ### [Oh, wait, actually the best Wordle opener is not “crane”…](https://www.youtube.com/watch?v=fRed0Xmc2Wg)
-- [[wordle_strategies_and_optimal_openers | Wordle strategies and optimal openers]]
-- [[information_theory_in_gamesolving | Information theory in gamesolving]]
-- [[challenges_of_coding_and_algorithm_bugs | Challenges of coding and algorithm bugs]]
-- [[overfitting_and_test_set_considerations | Overfitting and test set considerations]]
-- [[human_vs_algorithmic_gameplay_differences | Human vs algorithmic gameplay differences]]
+- [[wordle_solving_strategies_and_information_theory | Wordle solving strategies and information theory]]
+- [[bug_identification_and_its_impact_on_wordle_algorithm | Bug identification and its impact on Wordle algorithm]]
+- [[analysis_of_wordle_color_assignment_conventions | Analysis of Wordle color assignment conventions]]
+- [[optimal_wordle_opening_guesses_and_their_analysis | Optimal Wordle opening guesses and their analysis]]
+- [[human_vs_algorithmic_approaches_to_playing_wordle | Human vs algorithmic approaches to playing Wordle]]
 
 ### [Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra](https://www.youtube.com/watch?v=k7RM-ot2NWY)
-- [[linear_combinations | linear combinations]]
-- [[span_of_vectors | span of vectors]]
-- [[basis_vectors | basis vectors]]
-- [[coordinate_systems_in_linear_algebra | coordinate systems in linear algebra]]
-- [[linear_dependence_and_independence | linear dependence and independence]]
-
-### [Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M)
-- [[generative_pretrained_transformers | Generative Pretrained Transformers]]
-- [[neural_networks_and_transformers | Neural Networks and Transformers]]
-- [[word_embeddings_and_vectors | Word Embeddings and Vectors]]
-- [[attention_mechanism_in_transformers | Attention Mechanism in Transformers]]
-- [[probability_distributions_and_softmax_function | Probability Distributions and Softmax Function]]
+- [[vector_coordinates_and_scalar_implications | Vector coordinates and scalar implications]]
+- [[unit_vectors_and_basis_vectors | Unit vectors and basis vectors]]
+- [[linear_combinations_and_their_significance | Linear combinations and their significance]]
+- [[span_of_vectors_in_different_dimensions | Span of vectors in different dimensions]]
+- [[linear_dependence_and_independence | Linear dependence and independence]]
 
 ### [Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
-- [[exponential_growth | exponential growth]]
-- [[mathematical_modeling_of_epidemics | mathematical modeling of epidemics]]
-- [[logistic_growth_and_inflection_point | logistic growth and inflection point]]
-- [[covid19_pandemic_analysis | COVID19 pandemic analysis]]
-- [[impact_of_public_health_measures_on_virus_spread | impact of public health measures on virus spread]]
+- [[understanding_exponential_growth | Understanding exponential growth]]
+- [[mathematical_modeling_of_epidemics | Mathematical modeling of epidemics]]
+- [[covid19_case_trends_and_predictions | COVID19 case trends and predictions]]
+- [[logistic_curves_and_inflection_points | Logistic curves and inflection points]]
+- [[impact_of_human_behavior_on_epidemic_growth | Impact of human behavior on epidemic growth]]
 
 ### [Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations](https://www.youtube.com/watch?v=EK32jo7i5LQ)
-- [[distribution_of_prime_numbers_and_dirichlets_theorem | Distribution of prime numbers and Dirichlets theorem]]
-- [[polar_coordinates_and_spiral_patterns | Polar coordinates and spiral patterns]]
+- [[distribution_of_prime_numbers | Distribution of prime numbers]]
+- [[polar_coordinates_and_data_visualization | Polar coordinates and data visualization]]
+- [[archimedean_spiral_formation_from_prime_numbers | Archimedean spiral formation from prime numbers]]
 - [[rational_approximations_for_pi | Rational approximations for pi]]
-- [[residue_classes_in_modular_arithmetic | Residue classes in modular arithmetic]]
-- [[eulers_totient_function_and_relative_primality | Eulers totient function and relative primality]]
+- [[dirichlets_theorem_in_number_theory | Dirichlets theorem in number theory]]
 
 ### [Linear transformations and matrices | Chapter 3, Essence of linear algebra](https://www.youtube.com/watch?v=kYB8IZa5AuE)
-- [[linear_transformations | Linear transformations]]
-- [[matrix_vector_multiplication | Matrix vector multiplication]]
-- [[properties_of_linear_transformations | Properties of linear transformations]]
-- [[two_dimensional_grid_transformations | Two dimensional grid transformations]]
-- [[matrix_representation_of_transformations | Matrix representation of transformations]]
+- [[introduction_to_linear_transformations | Introduction to linear transformations]]
+- [[visualizing_transformations_with_vectors | Visualizing transformations with vectors]]
+- [[matrix_representations_of_linear_transformations | Matrix representations of linear transformations]]
+- [[matrix_vector_multiplication_explained | Matrix vector multiplication explained]]
+- [[applications_and_examples_of_linear_transformations | Applications and examples of linear transformations]]
 
-### [Backpropagation, intuitively | DL3](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
-- [[backpropagation_algorithm | Backpropagation algorithm]]
-- [[gradient_descent_in_neural_networks | Gradient descent in neural networks]]
-- [[adjusting_weights_and_biases_in_neural_networks | Adjusting weights and biases in neural networks]]
-- [[stochastic_gradient_descent | Stochastic gradient descent]]
-- [[importance_of_training_data_in_machine_learning | Importance of training data in machine learning]]
-
-### [The unexpectedly hard windmill question (2011 IMO, Q2)](https://www.youtube.com/watch?v=M64HUIJFTZM)
-- [[international_math_olympiad_overview | International Math Olympiad overview]]
-- [[2011_imo_problem_2_analysis | 2011 IMO problem 2 analysis]]
-- [[windmill_puzzle_explanation_and_solution | Windmill puzzle explanation and solution]]
-- [[mathematical_invariants_and_their_significance | Mathematical invariants and their significance]]
-- [[challenges_in_assessing_problem_difficulty | Challenges in assessing problem difficulty]]
-
-### [Bayes theorem, the geometry of changing beliefs](https://www.youtube.com/watch?v=HZGCoVF3YvM)
-- [[bayes_theorem_and_its_significance | Bayes theorem and its significance]]
-- [[bayesian_reasoning_in_treasure_hunting | Bayesian reasoning in treasure hunting]]
-- [[understanding_bayes_theorem_through_examples | Understanding Bayes theorem through examples]]
-- [[human_judgment_and_probability_misconceptions | Human judgment and probability misconceptions]]
-- [[using_geometry_for_understanding_probability | Using geometry for understanding probability]]
-
-### [Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs)
-- [[sir_model_for_epidemic_simulation | SIR model for epidemic simulation]]
-- [[impact_of_human_behavior_on_epidemic_spread | Impact of human behavior on epidemic spread]]
-- [[effectiveness_of_social_distancing | Effectiveness of social distancing]]
-- [[role_of_community_structure_in_disease_spread | Role of community structure in disease spread]]
-- [[importance_of_early_testing_and_isolation_in_controlling_an_epidemic | Importance of early testing and isolation in controlling an epidemic]]
-
-### [Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg)
-- [[quaternion_multiplication_and_fourdimensional_geometry | Quaternion multiplication and fourdimensional geometry]]
-- [[history_and_discovery_of_quaternions_by_william_rowan_hamilton | History and discovery of quaternions by William Rowan Hamilton]]
-- [[applications_of_quaternions_in_threedimensional_rotations_and_quantum_mechanics | Applications of quaternions in threedimensional rotations and quantum mechanics]]
-- [[stereographic_projection_in_visualizing_higherdimensional_numbers | Stereographic projection in visualizing higherdimensional numbers]]
-- [[complex_numbers_as_a_foundation_for_understanding_quaternions | Complex numbers as a foundation for understanding quaternions]]
+### [Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M)
+- [[generative_pretrained_transformer_architecture | Generative Pretrained Transformer architecture]]
+- [[transformation_of_input_data_into_tokens | Transformation of input data into tokens]]
+- [[embedding_matrices_and_vector_representations | Embedding matrices and vector representations]]
+- [[attention_mechanism_in_transformers | Attention mechanism in transformers]]
+- [[softmax_function_and_its_role_in_machine_learning | Softmax function and its role in machine learning]]
 
 ### [Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra](https://www.youtube.com/watch?v=PFDu9oVAE-g)
 - [[eigenvectors_and_eigenvalues | Eigenvectors and eigenvalues]]
-- [[visualizing_linear_transformations | Visualizing linear transformations]]
-- [[linear_algebra_foundations | Linear algebra foundations]]
-- [[matrices_and_their_properties | Matrices and their properties]]
-- [[diagonalization_and_eigenbasis | Diagonalization and eigenbasis]]
+- [[visual_understanding_of_linear_transformations | Visual understanding of linear transformations]]
+- [[matrix_representations_and_transformations | Matrix representations and transformations]]
+- [[eigenvectors_in_two_and_three_dimensions | Eigenvectors in two and three dimensions]]
+- [[concept_of_eigenbasis | Concept of eigenbasis]]
 
-### [But what is the Riemann zeta function? Visualizing analytic continuation](https://www.youtube.com/watch?v=sD0NjbwqlYw)
-- [[riemann_zeta_function | Riemann zeta function]]
-- [[riemann_hypothesis | Riemann hypothesis]]
-- [[analytic_continuation | Analytic continuation]]
-- [[complex_functions_and_transformations | Complex functions and transformations]]
-- [[connection_between_zeta_function_and_prime_numbers | Connection between zeta function and prime numbers]]
+### [Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs)
+- [[epidemic_simulations_and_sir_model | Epidemic simulations and SIR model]]
+- [[impact_of_social_distancing_and_hygiene_on_disease_spread | Impact of social distancing and hygiene on disease spread]]
+- [[effectiveness_of_quarantine_and_isolation | Effectiveness of quarantine and isolation]]
+- [[role_of_central_locations_in_spreading_disease | Role of central locations in spreading disease]]
+- [[importance_of_early_testing_and_contact_tracing | Importance of early testing and contact tracing]]
+
+### [The unexpectedly hard windmill question (2011 IMO, Q2)](https://www.youtube.com/watch?v=M64HUIJFTZM)
+- [[international_math_olympiad_overview | International Math Olympiad overview]]
+- [[windmill_problem_explanation | Windmill problem explanation]]
+- [[problemsolving_strategies_in_math | Problemsolving strategies in math]]
+- [[role_of_invariants_in_mathematics | Role of invariants in mathematics]]
+- [[teaching_and_understanding_mathematical_concepts | Teaching and understanding mathematical concepts]]
+
+### [Bayes theorem, the geometry of changing beliefs](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+- [[understanding_bayes_theorem | Understanding Bayes theorem]]
+- [[applications_of_bayes_theorem_in_various_fields | Applications of Bayes theorem in various fields]]
+- [[rationality_in_human_judgment | Rationality in human judgment]]
+- [[the_role_of_representative_sampling_in_understanding_probability | The role of representative sampling in understanding probability]]
+- [[bayesian_approach_to_updating_beliefs_with_new_evidence | Bayesian approach to updating beliefs with new evidence]]
+
+### [Backpropagation, intuitively | DL3](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+- [[backpropagation_algorithm_in_neural_networks | Backpropagation algorithm in neural networks]]
+- [[intuitive_explanation_of_backpropagation | Intuitive explanation of backpropagation]]
+- [[gradient_descent_and_cost_function_minimization | Gradient descent and cost function minimization]]
+- [[stochastic_gradient_descent_and_minibatch_technique | Stochastic gradient descent and minibatch technique]]
+- [[importance_of_training_data_in_machine_learning | Importance of training data in machine learning]]
 
 ### [Divergence and curl:  The language of Maxwell's equations, fluid flow, and more](https://www.youtube.com/watch?v=rB83DpBJQsE)
-- [[understanding_vector_fields | Understanding vector fields]]
 - [[divergence_in_vector_fields | Divergence in vector fields]]
-- [[curl_in_vector_fields | Curl in vector fields]]
+- [[curl_and_its_physical_representation | Curl and its physical representation]]
+- [[vector_fields_and_fluid_flow | Vector fields and fluid flow]]
 - [[maxwells_equations_and_vector_calculus | Maxwells equations and vector calculus]]
-- [[applications_of_divergence_and_curl_to_dynamic_systems | Applications of divergence and curl to dynamic systems]]
+- [[phase_space_and_population_dynamics | Phase space and population dynamics]]
 
-### [What's so special about Euler's number e? | Chapter 5, Essence of calculus](https://www.youtube.com/watch?v=m2MIpDrF7Es)
-- [[derivatives_of_exponential_functions | Derivatives of exponential functions]]
-- [[importance_of_eulers_number_e_in_calculus | Importance of Eulers number e in calculus]]
-- [[intuition_behind_the_growth_of_exponential_functions | Intuition behind the growth of exponential functions]]
-- [[proportionality_constants_in_exponential_functions | Proportionality constants in exponential functions]]
-- [[natural_phenomena_and_their_relationship_with_exponentials | Natural phenomena and their relationship with exponentials]]
+### [Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg)
+- [[quaternion_multiplication_and_fourdimensional_geometry | Quaternion multiplication and fourdimensional geometry]]
+- [[historical_discovery_and_significance_of_quaternions | Historical discovery and significance of quaternions]]
+- [[applications_of_quaternions_in_3d_rotations_and_quantum_mechanics | Applications of quaternions in 3D rotations and quantum mechanics]]
+- [[stereographic_projection_and_visualizing_quaternions | Stereographic projection and visualizing quaternions]]
+- [[mathematical_properties_and_noncommutative_nature_of_quaternions | Mathematical properties and noncommutative nature of quaternions]]
 
-### [The determinant | Chapter 6, Essence of linear algebra](https://www.youtube.com/watch?v=Ip3X9LOh2dk)
-- [[understanding_determinants_in_linear_algebra | Understanding determinants in linear algebra]]
-- [[visualizing_linear_transformations_with_matrices | Visualizing linear transformations with matrices]]
-- [[computing_determinants_for_2d_and_3d_transformations | Computing determinants for 2D and 3D transformations]]
-- [[the_significance_of_orientation_and_negative_determinants | The significance of orientation and negative determinants]]
-- [[applications_of_determinants_to_linear_systems_of_equations | Applications of determinants to linear systems of equations]]
+### [But what is the Riemann zeta function? Visualizing analytic continuation](https://www.youtube.com/watch?v=sD0NjbwqlYw)
+- [[introduction_to_the_riemann_zeta_function | Introduction to the Riemann zeta function]]
+- [[the_riemann_hypothesis_and_trivial_zeros | The Riemann hypothesis and trivial zeros]]
+- [[analytic_continuation_and_complex_analysis | Analytic continuation and complex analysis]]
+- [[visualization_of_the_riemann_zeta_function | Visualization of the Riemann zeta function]]
+- [[understanding_complex_functions_and_their_transformations | Understanding complex functions and their transformations]]
 
 ### [What does it feel like to invent math?](https://www.youtube.com/watch?v=XFDM1ip5HdU)
-- [[concept_of_infinite_sums_in_mathematics | Concept of infinite sums in mathematics]]
-- [[discovery_and_definition_of_convergent_sums | Discovery and definition of convergent sums]]
-- [[understanding_unusual_mathematical_results_like_repeating_decimals | Understanding unusual mathematical results like repeating decimals]]
-- [[alternative_distance_metrics_in_math_including_padic_metrics | Alternative distance metrics in math including padic metrics]]
-- [[exploration_of_mathematical_invention_versus_discovery | Exploration of mathematical invention versus discovery]]
+- [[concept_of_infinite_sums_and_convergence | Concept of infinite sums and convergence]]
+- [[paradoxical_and_nonintuitive_mathematical_truths | Paradoxical and nonintuitive mathematical truths]]
+- [[definition_and_exploration_of_distance_in_mathematics | Definition and exploration of distance in mathematics]]
+- [[the_discovery_and_application_of_padic_metrics | The discovery and application of padic metrics]]
+- [[the_relationship_between_mathematical_invention_and_discovery | The relationship between mathematical invention and discovery]]
 
 ### [Taylor series | Chapter 11, Essence of calculus](https://www.youtube.com/watch?v=3d6DsjIBzJ4)
-- [[importance_of_taylor_series_in_mathematics | Importance of Taylor series in mathematics]]
-- [[approximating_functions_using_taylor_series | Approximating functions using Taylor series]]
-- [[using_taylor_polynomials_for_function_approximation | Using Taylor polynomials for function approximation]]
-- [[understanding_taylor_series_convergence | Understanding Taylor series convergence]]
-- [[applications_of_taylor_series_in_physics_and_engineering | Applications of Taylor series in physics and engineering]]
+- [[importance_of_taylor_series | Importance of Taylor series]]
+- [[approximation_of_functions_using_taylor_series | Approximation of functions using Taylor series]]
+- [[constructing_taylor_polynomials | Constructing Taylor polynomials]]
+- [[convergence_and_divergence_of_taylor_series | Convergence and divergence of Taylor series]]
+- [[applications_of_taylor_polynomials_in_physics | Applications of Taylor polynomials in physics]]
+
+### [The determinant | Chapter 6, Essence of linear algebra](https://www.youtube.com/watch?v=Ip3X9LOh2dk)
+- [[determinants_and_area_scaling | Determinants and area scaling]]
+- [[determinants_and_orientation_flipping | Determinants and orientation flipping]]
+- [[determinant_computation_for_2d_and_3d_transformations | Determinant computation for 2D and 3D transformations]]
+- [[visual_intuition_of_linear_transformations | Visual intuition of linear transformations]]
+- [[determinant_properties_and_matrix_multiplication | Determinant properties and matrix multiplication]]
 
 ### [Differential equations, a tourist's guide | DE1](https://www.youtube.com/watch?v=p_di4Zn4wz4)
-- [[differential_equations_as_a_language_of_physics | Differential equations as a language of physics]]
-- [[introduction_to_ordinary_and_partial_differential_equations | Introduction to ordinary and partial differential equations]]
-- [[solving_simple_differential_equations | Solving simple differential equations]]
-- [[phase_space_and_visualization_of_differential_equations | Phase space and visualization of differential equations]]
-- [[numerical_methods_and_chaos_theory_in_differential_equations | Numerical methods and chaos theory in differential equations]]
+- [[basics_and_significance_of_differential_equations | Basics and significance of differential equations]]
+- [[ordinary_differential_equations_odes_vs_partial_differential_equations_pdes | Ordinary differential equations ODEs vs Partial differential equations PDEs]]
+- [[solving_differential_equations_with_examples | Solving differential equations with examples]]
+- [[applications_of_phase_space_in_differential_equations | Applications of phase space in differential equations]]
+- [[numerical_methods_for_solving_differential_equations | Numerical methods for solving differential equations]]
 
-### [Fractals are typically not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4)
-- [[misconceptions_about_selfsimilarity_in_fractals | Misconceptions about selfsimilarity in fractals]]
-- [[benoit_mandelbrot_and_the_pragmatic_origins_of_fractal_geometry | Benoit Mandelbrot and the pragmatic origins of fractal geometry]]
-- [[fractal_dimension_and_its_implications | Fractal dimension and its implications]]
-- [[selfsimilar_shapes_versus_nonselfsimilar_fractals | Selfsimilar shapes versus nonselfsimilar fractals]]
-- [[the_application_and_computation_of_fractal_dimensions_in_nature | The application and computation of fractal dimensions in nature]]
+### [What's so special about Euler's number e? | Chapter 5, Essence of calculus](https://www.youtube.com/watch?v=m2MIpDrF7Es)
+- [[derivatives_of_exponential_functions | Derivatives of Exponential Functions]]
+- [[properties_of_eulers_number_e | Properties of Eulers Number e]]
+- [[natural_logarithm_and_proportionality_constants | Natural Logarithm and Proportionality Constants]]
+- [[chain_rule_and_exponential_functions | Chain Rule and Exponential Functions]]
+- [[applications_of_exponential_growth_in_natural_phenomena | Applications of Exponential Growth in Natural Phenomena]]
 
 ### [Researchers thought this was a bug (Borwein integrals)](https://www.youtube.com/watch?v=851U557j6HE)
-- [[borwein_integrals_and_their_peculiar_patterns | Borwein integrals and their peculiar patterns]]
-- [[sinc_function_and_its_properties | Sinc function and its properties]]
-- [[moving_averages_and_plateau_shrinkage | Moving averages and plateau shrinkage]]
-- [[fourier_transforms_and_their_applications_in_integral_evaluation | Fourier transforms and their applications in integral evaluation]]
-- [[convolution_theorem_and_its_mathematical_significance | Convolution theorem and its mathematical significance]]
+- [[borwein_integrals_and_their_unexpected_patterns | Borwein integrals and their unexpected patterns]]
+- [[sinc_function_and_its_significance_in_mathematics_and_engineering | Sinc function and its significance in mathematics and engineering]]
+- [[evaluating_integrals_and_the_role_of_the_convergence_point | Evaluating integrals and the role of the convergence point]]
+- [[fourier_transforms_and_convolutions_in_integral_computation | Fourier transforms and convolutions in integral computation]]
+- [[analogies_between_moving_averages_and_integral_patterns | Analogies between moving averages and integral patterns]]
 
-### [The paradox of the derivative | Chapter 2, Essence of calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk)
-- [[understanding_what_a_derivative_is | Understanding what a derivative is]]
-- [[paradoxes_in_the_concept_of_derivatives | Paradoxes in the concept of derivatives]]
-- [[relationship_between_velocity_and_distance_functions | Relationship between velocity and distance functions]]
-- [[visualizing_derivatives_using_graphs | Visualizing derivatives using graphs]]
-- [[calculating_derivatives_and_their_applications | Calculating derivatives and their applications]]
+### [Fractals are typically not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4)
+- [[understanding_fractals_and_their_definitions | Understanding Fractals and Their Definitions]]
+- [[fractals_and_selfsimilarity_misconceptions_and_clarifications | Fractals and SelfSimilarity Misconceptions and Clarifications]]
+- [[fractal_dimension_and_its_application_in_nature | Fractal Dimension and Its Application in Nature]]
+- [[exploring_fractal_dimension_in_mathematical_shapes | Exploring Fractal Dimension in Mathematical Shapes]]
+- [[the_realworld_implications_of_fractal_geometry | The RealWorld Implications of Fractal Geometry]]
 
 ### [All possible pythagorean triples, visualized](https://www.youtube.com/watch?v=QJYmyhnaaek)
-- [[pythagorean_theorem_and_triples | Pythagorean theorem and triples]]
-- [[fermats_last_theorem | Fermats Last Theorem]]
-- [[visualizing_pythagorean_triples_using_complex_numbers | Visualizing Pythagorean triples using complex numbers]]
-- [[finding_integer_solutions_with_lattice_points | Finding integer solutions with lattice points]]
-- [[generating_and_understanding_rational_points_on_the_unit_circle | Generating and understanding rational points on the unit circle]]
+- [[introduction_to_pythagorean_triples | Introduction to Pythagorean triples]]
+- [[visualization_of_pythagorean_triples_using_lattice_points | Visualization of Pythagorean triples using lattice points]]
+- [[proof_and_demonstration_of_the_pythagorean_theorem | Proof and demonstration of the Pythagorean theorem]]
+- [[complex_numbers_and_generating_pythagorean_triples | Complex numbers and generating Pythagorean triples]]
+- [[unit_circle_and_rational_points_in_relation_to_pythagorean_triples | Unit circle and rational points in relation to Pythagorean triples]]
 
-### [But what is the Central Limit Theorem?](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
-- [[central_limit_theorem_basics_and_applications | Central Limit Theorem basics and applications]]
-- [[normal_distribution_and_its_characteristics | Normal distribution and its characteristics]]
-- [[galton_board_as_a_demonstration_tool | Galton board as a demonstration tool]]
-- [[simulation_of_random_processes_and_probability | Simulation of random processes and probability]]
-- [[understanding_mean_and_standard_deviation_in_probability | Understanding mean and standard deviation in probability]]
-
-### [The other way to visualize derivatives | Chapter 12, Essence of calculus](https://www.youtube.com/watch?v=CfW845LNObM)
-- [[visualizing_derivatives_beyond_graphs | Visualizing derivatives beyond graphs]]
-- [[transformational_view_of_derivatives | Transformational view of derivatives]]
-- [[understanding_stability_of_fixed_points_in_functions | Understanding stability of fixed points in functions]]
-- [[graphical_intuition_versus_transformational_understanding_in_calculus | Graphical intuition versus transformational understanding in calculus]]
-- [[applications_of_derivatives_in_solving_math_puzzles | Applications of derivatives in solving math puzzles]]
+### [The paradox of the derivative | Chapter 2, Essence of calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk)
+- [[introduction_to_derivatives_and_calculus_concepts | Introduction to derivatives and calculus concepts]]
+- [[paradoxes_and_subtleties_in_understanding_derivatives | Paradoxes and subtleties in understanding derivatives]]
+- [[graphical_representation_of_motion_distance_and_velocity | Graphical representation of motion distance and velocity]]
+- [[understanding_and_resolving_the_paradox_of_instantaneous_rate_of_change | Understanding and resolving the paradox of instantaneous rate of change]]
+- [[calculating_derivatives_and_algebraic_simplification_in_calculus | Calculating derivatives and algebraic simplification in calculus]]
 
 ### [How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)
-- [[256_bit_security_concept | 256 bit security concept]]
-- [[digital_signatures_and_cryptography | Digital signatures and cryptography]]
-- [[hash_functions_and_sha256 | Hash functions and SHA256]]
-- [[gpu_and_asics_in_cryptographic_computations | GPU and ASICs in cryptographic computations]]
-- [[bitcoin_mining_efficiency_and_technology | Bitcoin mining efficiency and technology]]
+- [[256_bit_security_and_its_implications | 256 bit security and its implications]]
+- [[digital_signatures_and_256_bit_security | Digital signatures and 256 bit security]]
+- [[cryptographic_hash_functions_with_256_bit_security | Cryptographic hash functions with 256 bit security]]
+- [[computational_limits_in_breaking_256_bit_security | Computational limits in breaking 256 bit security]]
+- [[bitcoin_mining_and_applicationspecific_integrated_circuits | Bitcoin mining and applicationspecific integrated circuits]]
+
+### [But what is the Central Limit Theorem?](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
+- [[central_limit_theorem_fundamentals | Central Limit Theorem fundamentals]]
+- [[galton_board_and_probability_distribution | Galton board and probability distribution]]
+- [[normal_distribution_and_its_properties | Normal distribution and its properties]]
+- [[simulation_examples_of_probability_distribution | Simulation examples of probability distribution]]
+- [[assumptions_and_limitations_of_the_central_limit_theorem | Assumptions and limitations of the Central Limit Theorem]]
 
 ### [Matrix multiplication as composition | Chapter 4, Essence of linear algebra](https://www.youtube.com/watch?v=XkY2DOUCWMU)
-- [[linear_transformations_and_matrices | Linear transformations and matrices]]
-- [[matrix_representation_of_linear_transformations | Matrix representation of linear transformations]]
-- [[composition_of_linear_transformations | Composition of linear transformations]]
-- [[matrix_multiplication_as_applying_transformations | Matrix multiplication as applying transformations]]
-- [[associativity_and_order_in_matrix_multiplication | Associativity and order in matrix multiplication]]
+- [[linear_transformations | linear transformations]]
+- [[matrix_representation_of_transformations | matrix representation of transformations]]
+- [[matrixvector_multiplication | matrixvector multiplication]]
+- [[composition_of_linear_transformations | composition of linear transformations]]
+- [[associative_property_of_matrix_multiplication | associative property of matrix multiplication]]
 
-### [How are holograms possible?](https://www.youtube.com/watch?v=EmKQsSDlaa4)
-- [[what_is_a_hologram | What is a hologram]]
-- [[history_of_holography_and_dennis_gabors_contributions | History of holography and Dennis Gabors contributions]]
-- [[how_holograms_are_recorded_and_reconstructed | How holograms are recorded and reconstructed]]
-- [[interference_and_diffraction_in_holography | Interference and diffraction in holography]]
-- [[applications_and_significance_of_holography | Applications and significance of holography]]
-
-### [Why “probability of 0” does not mean “impossible” | Probabilities of probabilities, part 2](https://www.youtube.com/watch?v=ZA4JkHKZM50)
-- [[probability_of_a_probability | Probability of a probability]]
-- [[continuous_probability_values_and_paradoxes | Continuous probability values and paradoxes]]
-- [[probability_density_function_pdf | Probability density function PDF]]
-- [[measure_theory_in_probability | Measure theory in probability]]
-- [[applications_of_probability_density | Applications of probability density]]
-
-### [Backpropagation calculus | DL4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
-- [[backpropagation_algorithm | backpropagation algorithm]]
-- [[calculus_in_neural_networks | calculus in neural networks]]
-- [[sensitivity_of_cost_function | sensitivity of cost function]]
-- [[chain_rule_in_backpropagation | chain rule in backpropagation]]
-- [[derivatives_in_neural_networks | derivatives in neural networks]]
+### [The other way to visualize derivatives | Chapter 12, Essence of calculus](https://www.youtube.com/watch?v=CfW845LNObM)
+- [[visual_intuition_in_calculus | Visual Intuition in Calculus]]
+- [[transformational_view_of_derivatives | Transformational View of Derivatives]]
+- [[multivariable_calculus_and_complex_analysis | Multivariable Calculus and Complex Analysis]]
+- [[the_concept_of_fixed_points_in_calculus | The Concept of Fixed Points in Calculus]]
+- [[understanding_function_behavior_beyond_graphs | Understanding Function Behavior Beyond Graphs]]
 
 ### [How to lie using visual proofs](https://www.youtube.com/watch?v=VYQVlVoWoPY)
-- [[visual_proofs_and_misconceptions_in_math | visual proofs and misconceptions in math]]
-- [[approximations_and_limits_in_geometry | approximations and limits in geometry]]
-- [[proofs_of_sphere_surface_area_and_triangle_properties | proofs of sphere surface area and triangle properties]]
-- [[role_of_visual_reasoning_in_mathematical_proofs | role of visual reasoning in mathematical proofs]]
-- [[importance_of_rigor_and_critical_thinking_in_mathematics | importance of rigor and critical thinking in mathematics]]
+- [[fake_visual_proofs_in_mathematics | Fake visual proofs in mathematics]]
+- [[surface_area_of_a_sphere_visual_proof | Surface area of a sphere visual proof]]
+- [[argument_claiming_pi_equals_4 | Argument claiming pi equals 4]]
+- [[visual_proofs_and_triangle_isosceles | Visual proofs and triangle isosceles]]
+- [[role_of_rigor_in_mathematical_proofs | Role of rigor in mathematical proofs]]
+
+### [Backpropagation calculus | DL4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+- [[backpropagation_algorithm_walkthrough | Backpropagation algorithm walkthrough]]
+- [[calculus_in_the_context_of_neural_networks | Calculus in the context of neural networks]]
+- [[chain_rule_application_in_machine_learning | Chain rule application in machine learning]]
+- [[cost_function_sensitivity_analysis | Cost function sensitivity analysis]]
+- [[understanding_gradients_in_backpropagation | Understanding gradients in backpropagation]]
 
 ### [Why this puzzle is impossible](https://www.youtube.com/watch?v=VvCytJvd4H0)
-- [[introduction_to_the_3_utilities_problem | Introduction to the 3 utilities problem]]
-- [[understanding_planar_graphs_and_the_k33_graph | Understanding planar graphs and the K33 graph]]
-- [[eulers_characteristic_formula_and_its_application_to_planar_graphs | Eulers characteristic formula and its application to planar graphs]]
-- [[topological_differences_between_a_mug_torus_and_a_plane | Topological differences between a mug torus and a plane]]
-- [[problemsolving_strategies_in_mathematical_puzzles | Problemsolving strategies in mathematical puzzles]]
-
-### [Derivative formulas through geometry | Chapter 3, Essence of calculus](https://www.youtube.com/watch?v=S0_qX4VJhMQ)
-- [[computing_derivatives_of_functions | Computing derivatives of functions]]
-- [[applications_of_derivatives_in_realworld_phenomena | Applications of derivatives in realworld phenomena]]
-- [[geometric_interpretation_of_derivatives | Geometric interpretation of derivatives]]
-- [[power_rule_for_derivatives | Power rule for derivatives]]
-- [[derivatives_of_trigonometric_functions | Derivatives of trigonometric functions]]
+- [[the_three_utilities_and_three_houses_puzzle | The three utilities and three houses puzzle]]
+- [[planar_graphs_and_graph_theory | Planar graphs and graph theory]]
+- [[eulers_formula_and_mathematical_proofs | Eulers formula and mathematical proofs]]
+- [[topological_surfaces_and_their_properties | Topological surfaces and their properties]]
+- [[brilliantorg_problemsolving_puzzles | Brilliantorg problemsolving puzzles]]
 
 ### [Group theory, abstraction, and the 196,883-dimensional monster](https://www.youtube.com/watch?v=mH0oCDa74tE)
-- [[group_theory_and_symmetries | Group theory and symmetries]]
-- [[infinite_and_finite_simple_groups | Infinite and finite simple groups]]
-- [[permutation_groups_and_polynomial_equations | Permutation groups and polynomial equations]]
-- [[the_classification_of_finite_simple_groups_and_sporadic_groups | The classification of finite simple groups and sporadic groups]]
-- [[the_monster_group_and_its_significance_in_mathematics | The monster group and its significance in mathematics]]
+- [[group_theory_and_the_idea_of_symmetry | Group theory and the idea of symmetry]]
+- [[the_concept_of_simple_groups_and_permutation_groups | The concept of simple groups and permutation groups]]
+- [[the_classification_of_finite_simple_groups | The classification of finite simple groups]]
+- [[the_monstrous_moonshine_conjecture_and_its_implications | The monstrous moonshine conjecture and its implications]]
+- [[the_sporadic_groups_and_the_monster_group | The sporadic groups and the monster group]]
+
+### [How are holograms possible?](https://www.youtube.com/watch?v=EmKQsSDlaa4)
+- [[basic_concept_of_holograms_and_its_magical_appearance | basic concept of holograms and its magical appearance]]
+- [[scientific_principles_behind_holography_including_light_waves_and_interference | scientific principles behind holography including light waves and interference]]
+- [[historical_background_and_development_of_holography | historical background and development of holography]]
+- [[detailed_explanation_of_transmission_and_reflection_holograms | detailed explanation of transmission and reflection holograms]]
+- [[practical_applications_and_significance_of_holograms_in_various_fields | practical applications and significance of holograms in various fields]]
 
 ### [e^(iπ) in 3.14 minutes, using dynamics | DE5](https://www.youtube.com/watch?v=v0YEaeIClKY)
-- [[properties_of_the_exponential_function | Properties of the exponential function]]
-- [[derivatives_of_exponential_functions | Derivatives of exponential functions]]
-- [[exponential_growth_and_decay | Exponential growth and decay]]
-- [[complex_plane_and_exponential_functions | Complex plane and exponential functions]]
-- [[eulers_formula_and_unit_circle | Eulers formula and unit circle]]
+- [[e_function_and_its_properties | e function and its properties]]
+- [[derivative_and_velocity_relationship | derivative and velocity relationship]]
+- [[exponential_growth_and_decay | exponential growth and decay]]
+- [[complex_numbers_and_imaginary_exponents | complex numbers and imaginary exponents]]
+- [[unit_circle_and_complex_plane | unit circle and complex plane]]
+
+### [Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra](https://www.youtube.com/watch?v=uQhTuRlWMxw)
+- [[inverse_matrices | inverse matrices]]
+- [[column_space | column space]]
+- [[null_space | null space]]
+- [[rank_of_a_matrix | rank of a matrix]]
+- [[geometric_interpretation_of_linear_systems | geometric interpretation of linear systems]]
+
+### [Why “probability of 0” does not mean “impossible” | Probabilities of probabilities, part 2](https://www.youtube.com/watch?v=ZA4JkHKZM50)
+- [[understanding_probability_of_probabilities | Understanding probability of probabilities]]
+- [[continuous_values_and_probability_paradox | Continuous values and probability paradox]]
+- [[probability_density_and_distribution | Probability density and distribution]]
+- [[measure_theory_in_probability | Measure theory in probability]]
+- [[applications_of_probability_density_function | Applications of probability density function]]
+
+### [Derivative formulas through geometry | Chapter 3, Essence of calculus](https://www.youtube.com/watch?v=S0_qX4VJhMQ)
+- [[understanding_the_meaning_and_computation_of_derivatives | Understanding the meaning and computation of derivatives]]
+- [[geometric_interpretation_of_derivatives | Geometric interpretation of derivatives]]
+- [[derivative_of_polynomial_functions_using_geometric_visualization | Derivative of polynomial functions using geometric visualization]]
+- [[derivative_of_trigonometric_functions_with_unit_circle_analysis | Derivative of trigonometric functions with unit circle analysis]]
+- [[power_rule_in_calculus_and_its_geometric_significance | Power rule in calculus and its geometric significance]]
 
 ### [Who cares about topology?   (Old version)](https://www.youtube.com/watch?v=AmgkSdhK4K8)
 - [[introduction_to_topology | Introduction to topology]]
-- [[inscribed_square_problem | Inscribed square problem]]
-- [[role_of_topology_in_solving_mathematical_problems | Role of topology in solving mathematical problems]]
-- [[concept_of_mbius_strip_and_its_mathematical_significance | Concept of Mbius strip and its mathematical significance]]
-- [[continuous_mapping_and_its_application_in_topology | Continuous mapping and its application in topology]]
-
-### [A tale of two problem solvers | Average cube shadow area](https://www.youtube.com/watch?v=ltLUadnCyi0)
-- [[different_problemsolving_styles | Different problemsolving styles]]
-- [[average_cube_shadow_area | Average cube shadow area]]
-- [[linear_transformations_and_matrices | Linear transformations and matrices]]
-- [[convexity_in_mathematical_geometry | Convexity in mathematical geometry]]
-- [[the_importance_of_calculations_in_mathematics | The importance of calculations in mathematics]]
+- [[inscribed_square_and_rectangle_problem | Inscribed square and rectangle problem]]
+- [[role_of_mbius_strip_in_topology | Role of Mbius strip in topology]]
+- [[mathematical_functions_and_graphs | Mathematical functions and graphs]]
+- [[historical_and_practical_significance_of_topology | Historical and practical significance of topology]]
 
 ### [How (and why) to raise e to the power of a matrix | DE6](https://www.youtube.com/watch?v=O85OWBJ2ayo)
 - [[matrix_exponentiation | Matrix exponentiation]]
-- [[differential_equations_and_their_applications | Differential equations and their applications]]
-- [[schrodingers_equation_and_quantum_mechanics | Schrodingers equation and quantum mechanics]]
-- [[matrix_multiplication_and_transformations | Matrix multiplication and transformations]]
-- [[visualizing_mathematical_operations_using_vector_fields | Visualizing mathematical operations using vector fields]]
+- [[differential_equations_in_physics | Differential equations in physics]]
+- [[solving_systems_of_differential_equations_using_matrices | Solving systems of differential equations using matrices]]
+- [[visualizing_matrix_exponents | Visualizing matrix exponents]]
+- [[applications_of_matrix_exponentiation_in_quantum_mechanics | Applications of matrix exponentiation in quantum mechanics]]
 
-### [Thinking outside the 10-dimensional box](https://www.youtube.com/watch?v=zwAD6dRSVyI)
-- [[geometry_in_higher_dimensions | Geometry in higher dimensions]]
-- [[analytic_vs_geometric_reasoning | Analytic vs geometric reasoning]]
-- [[highdimensional_spheres | Highdimensional spheres]]
-- [[spatial_intuition_in_math | Spatial intuition in math]]
-- [[visualizing_mathematical_concepts | Visualizing mathematical concepts]]
+### [A tale of two problem solvers | Average cube shadow area](https://www.youtube.com/watch?v=ltLUadnCyi0)
+- [[problemsolving_styles_using_the_cube_shadow_puzzle | Problemsolving styles using the cube shadow puzzle]]
+- [[calculative_vs_general_approach_in_problemsolving | Calculative vs general approach in problemsolving]]
+- [[mathematical_concepts_of_shadows_and_projections | Mathematical concepts of shadows and projections]]
+- [[average_shadow_area_of_geometric_figures | Average shadow area of geometric figures]]
+- [[role_of_linear_algebra_and_calculus_in_geometry | Role of linear algebra and calculus in geometry]]
 
 ### [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)
-- [[large_language_models_and_prediction | Large language models and prediction]]
-- [[training_process_of_language_models | Training process of language models]]
-- [[transformers_and_attention_in_language_models | Transformers and attention in language models]]
-- [[reinforcement_learning_with_human_feedback | Reinforcement learning with human feedback]]
-- [[computation_and_infrastructure_for_training_language_models | Computation and infrastructure for training language models]]
+- [[large_language_models_and_their_function | Large language models and their function]]
+- [[training_process_of_large_language_models | Training process of large language models]]
+- [[role_of_transformers_in_language_models | Role of transformers in language models]]
+- [[use_of_attention_mechanisms_in_transformers | Use of attention mechanisms in transformers]]
+- [[challenges_in_understanding_model_predictions | Challenges in understanding model predictions]]
+
+### [Thinking outside the 10-dimensional box](https://www.youtube.com/watch?v=zwAD6dRSVyI)
+- [[geometric_reasoning_in_higher_dimensions | Geometric reasoning in higher dimensions]]
+- [[analogy_between_2d_3d_and_higher_dimensions | Analogy between 2D 3D and higher dimensions]]
+- [[converting_analytic_reasoning_to_geometric_intuition | Converting analytic reasoning to geometric intuition]]
+- [[understanding_higher_dimensional_spheres_and_shapes | Understanding higher dimensional spheres and shapes]]
+- [[real_estate_metaphor_in_the_context_of_coordinate_systems | Real estate metaphor in the context of coordinate systems]]
+
+### [But what is a partial differential equation?  | DE2](https://www.youtube.com/watch?v=ly4S0oi3Yz8)
+- [[introduction_to_partial_differential_equations | Introduction to partial differential equations]]
+- [[the_heat_equation_and_its_applications | The heat equation and its applications]]
+- [[role_of_derivatives_in_the_heat_equation | Role of derivatives in the heat equation]]
+- [[connection_between_fourier_series_and_differential_equations | Connection between Fourier series and differential equations]]
+- [[laplacian_and_multivariable_calculus_in_pdes | Laplacian and multivariable calculus in PDEs]]
 
 ### [e to the pi i, a nontraditional take (old version)](https://www.youtube.com/watch?v=F_0yfvm0UoU)
 - [[understanding_e_to_the_pi_i_equals_negative_1 | Understanding e to the pi i equals negative 1]]
 - [[reframing_numbers_as_actions | Reframing numbers as actions]]
-- [[transformation_of_adders_into_multipliers | Transformation of adders into multipliers]]
-- [[complex_numbers_and_2d_plane_transformations | Complex numbers and 2D plane transformations]]
-- [[relationship_between_e_to_the_x_and_complex_numbers | Relationship between e to the x and complex numbers]]
+- [[the_significance_of_eulers_formula | The significance of Eulers formula]]
+- [[conceptualizing_complex_numbers | Conceptualizing complex numbers]]
+- [[exponential_functions_and_their_properties | Exponential functions and their properties]]
 
 ### [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA)
-- [[understanding_convolution | Understanding Convolution]]
-- [[applications_of_convolution_in_probability_and_image_processing | Applications of Convolution in Probability and Image Processing]]
-- [[discrete_convolution_algorithm | Discrete Convolution Algorithm]]
-- [[use_of_convolution_in_polynomial_multiplication | Use of Convolution in Polynomial Multiplication]]
-- [[fast_fourier_transform_and_its_role_in_efficient_convolution | Fast Fourier Transform and its Role in Efficient Convolution]]
-
-### [There's more to those colliding blocks that compute pi](https://www.youtube.com/watch?v=6dTyOl1fmDo)
-- [[colliding_blocks_and_pi_computation | Colliding blocks and pi computation]]
-- [[connection_to_quantum_computing_and_grovers_algorithm | Connection to quantum computing and Grovers Algorithm]]
-- [[elastic_collisions_and_their_assumptions | Elastic collisions and their assumptions]]
-- [[conservation_laws_in_classical_physics | Conservation laws in classical physics]]
-- [[geometric_problem_solving_and_state_space_analysis | Geometric problem solving and state space analysis]]
-
-### [Newton’s fractal (which Newton knew nothing about)](https://www.youtube.com/watch?v=-RdOwhmqP5s)
-- [[newtons_fractal_and_its_relation_to_polynomials | Newtons fractal and its relation to polynomials]]
-- [[understanding_newtons_method_and_its_applications | Understanding Newtons method and its applications]]
-- [[the_complexity_and_unpredictability_of_root_finding_algorithms | The complexity and unpredictability of root finding algorithms]]
-- [[visualization_and_characteristics_of_fractal_patterns | Visualization and characteristics of fractal patterns]]
-- [[mathematical_concepts_related_to_newtons_fractal | Mathematical concepts related to Newtons fractal]]
+- [[introduction_to_convolutions | Introduction to Convolutions]]
+- [[applications_of_convolutions_in_probability | Applications of Convolutions in Probability]]
+- [[image_processing_and_convolutions | Image Processing and Convolutions]]
+- [[fast_fourier_transform_and_convolution | Fast Fourier Transform and Convolution]]
+- [[polynomial_multiplication_and_convolution | Polynomial Multiplication and Convolution]]
 
 ### [Dot products and duality | Chapter 9, Essence of linear algebra](https://www.youtube.com/watch?v=LyGKycYT2v0)
-- [[introduction_to_dot_products | Introduction to dot products]]
+- [[dot_products_and_vectors | Dot products and vectors]]
 - [[geometric_interpretation_of_dot_products | Geometric interpretation of dot products]]
-- [[symmetry_in_dot_products | Symmetry in dot products]]
-- [[linear_transformations_and_dot_products | Linear transformations and dot products]]
-- [[concept_of_duality_in_math | Concept of duality in math]]
+- [[symmetry_and_scaling_in_dot_products | Symmetry and scaling in dot products]]
+- [[linear_transformations_in_linear_algebra | Linear transformations in linear algebra]]
+- [[duality_in_mathematical_transformations | Duality in mathematical transformations]]
 
-### [But what is a partial differential equation?  | DE2](https://www.youtube.com/watch?v=ly4S0oi3Yz8)
-- [[introduction_to_partial_differential_equations_and_the_heat_equation | Introduction to partial differential equations and the heat equation]]
-- [[modeling_heat_distribution_and_change_over_time | Modeling heat distribution and change over time]]
-- [[ordinary_derivatives_versus_partial_derivatives | Ordinary derivatives versus partial derivatives]]
-- [[fourier_series_and_their_relation_to_the_heat_equation | Fourier series and their relation to the heat equation]]
-- [[spatial_derivatives_and_the_laplacian_operator | Spatial derivatives and the Laplacian operator]]
+### [There's more to those colliding blocks that compute pi](https://www.youtube.com/watch?v=6dTyOl1fmDo)
+- [[colliding_blocks_computing_pi | Colliding blocks computing pi]]
+- [[connection_to_quantum_computing | Connection to quantum computing]]
+- [[grovers_algorithm_and_quantum_search | Grovers algorithm and quantum search]]
+- [[unsolved_problem_in_physics_and_math | Unsolved problem in physics and math]]
+- [[state_space_and_conservation_laws_in_classical_physics | State space and conservation laws in classical physics]]
+
+### [Newton’s fractal (which Newton knew nothing about)](https://www.youtube.com/watch?v=-RdOwhmqP5s)
+- [[introduction_to_newtons_fractals_and_its_infinite_complexity | Introduction to Newtons fractals and its infinite complexity]]
+- [[newtons_method_for_solving_polynomials | Newtons Method for solving polynomials]]
+- [[applications_of_polynomial_rootfinding_in_computer_graphics | Applications of polynomial rootfinding in computer graphics]]
+- [[newtons_fractals_in_the_complex_plane_and_resulting_patterns | Newtons fractals in the complex plane and resulting patterns]]
+- [[history_and_implications_of_unsolvability_in_higher_order_polynomials | History and implications of unsolvability in higher order polynomials]]
 
 ### [Zooming out by powers of 10](https://www.youtube.com/watch?v=C8baNzpnZ7o)
-- [[powers_of_10_zoom_out | powers of 10 zoom out]]
-- [[distance_measurement_in_the_cosmos | distance measurement in the cosmos]]
-- [[scale_of_the_universe | scale of the universe]]
-- [[limitations_of_cosmic_perspective | limitations of cosmic perspective]]
-- [[slone_galactic_survey_and_galaxy_mapping | Slone galactic survey and galaxy mapping]]
+- [[powers_of_10_scale_in_astronomy | Powers of 10 scale in astronomy]]
+- [[distance_measurement_in_the_cosmos | Distance measurement in the cosmos]]
+- [[limitations_of_cosmic_zoom_animations | Limitations of cosmic zoom animations]]
+- [[galaxies_and_the_sloan_digital_sky_survey | Galaxies and the Sloan Digital Sky Survey]]
+- [[scientific_mapping_of_the_universe | Scientific mapping of the universe]]
+
+### [Essence of linear algebra preview](https://www.youtube.com/watch?v=kjBOesZCoqc)
+- [[understanding_linear_algebra | Understanding linear algebra]]
+- [[geometric_versus_numeric_understanding_in_linear_algebra | Geometric versus numeric understanding in linear algebra]]
+- [[importance_of_visual_intuition_for_learning_linear_algebra | Importance of visual intuition for learning linear algebra]]
+- [[challenges_students_face_in_learning_linear_algebra | Challenges students face in learning linear algebra]]
+- [[educational_resources_for_teaching_linear_algebra | Educational resources for teaching linear algebra]]
 
 ### [Pi hiding in prime regularities](https://www.youtube.com/watch?v=NaL_Cb42WyY)
 - [[prime_numbers_and_their_regularities | Prime numbers and their regularities]]
-- [[complex_numbers_and_gaussian_integers | Complex numbers and Gaussian integers]]
-- [[pi_and_its_formulas_involving_primes | Pi and its formulas involving primes]]
-- [[distribution_of_lattice_points_and_prime_factorization | Distribution of lattice points and prime factorization]]
-- [[chi_function_and_its_role_in_number_theory | Chi function and its role in number theory]]
+- [[relation_between_pi_and_prime_numbers | Relation between pi and prime numbers]]
+- [[factorization_in_gaussian_integers | Factorization in Gaussian integers]]
+- [[complex_numbers_in_mathematics | Complex numbers in mathematics]]
+- [[multiplicative_functions_in_number_theory | Multiplicative functions in number theory]]
 
 ### [Attention in transformers, step-by-step | DL6](https://www.youtube.com/watch?v=eMlx5fFNoYc)
-- [[transformers_and_attention_mechanism | Transformers and attention mechanism]]
-- [[token_embeddings_and_highdimensional_vectors | Token embeddings and highdimensional vectors]]
-- [[the_process_of_updating_embeddings_using_attention | The process of updating embeddings using attention]]
+- [[transformer_architecture_and_its_internal_workings | Transformer architecture and its internal workings]]
+- [[attention_mechanism_in_transformers | Attention mechanism in transformers]]
+- [[highdimensional_vector_embeddings | Highdimensional vector embeddings]]
 - [[multiheaded_attention_in_transformers | Multiheaded attention in transformers]]
-- [[parameters_and_architecture_of_models_like_gpt3 | Parameters and architecture of models like GPT3]]
-
-### [Essence of linear algebra preview](https://www.youtube.com/watch?v=kjBOesZCoqc)
-- [[importance_of_geometric_understanding_in_linear_algebra | Importance of geometric understanding in linear algebra]]
-- [[connection_between_numerical_and_geometric_understandings | Connection between numerical and geometric understandings]]
-- [[challenges_students_face_in_learning_linear_algebra | Challenges students face in learning linear algebra]]
-- [[educational_resources_for_teaching_linear_algebra | Educational resources for teaching linear algebra]]
-- [[overview_of_upcoming_series_on_linear_algebra | Overview of upcoming series on linear algebra]]
-
-### [When being beautifully wrong leads to discovery](https://www.youtube.com/watch?v=TZAC0WFemvE)
-- [[keplers_geometric_theory_of_planetary_orbits | Keplers geometric theory of planetary orbits]]
-- [[platonic_solids_and_their_significance | Platonic solids and their significance]]
-- [[historical_astronomical_theories | Historical astronomical theories]]
-- [[keplers_discovery_of_planetary_motion | Keplers discovery of planetary motion]]
-- [[development_of_keplers_laws_of_motion | Development of Keplers laws of motion]]
-
-### [Euler's formula with introductory group theory](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
-- [[eulers_formula_and_its_significance | Eulers formula and its significance]]
-- [[introduction_to_group_theory | Introduction to group theory]]
-- [[symmetries_and_dihedral_groups | Symmetries and dihedral groups]]
-- [[group_actions_in_mathematical_objects | Group actions in mathematical objects]]
-- [[exponential_functions_and_group_theory | Exponential functions and group theory]]
+- [[role_of_parameter_tuning_in_machine_learning_models | Role of parameter tuning in machine learning models]]
 
 ### [Integration and the fundamental theorem of calculus | Chapter 8, Essence of calculus](https://www.youtube.com/watch?v=rfG8ce4nNh0)
-- [[integration_as_finding_the_area_under_a_curve | Integration as finding the area under a curve]]
-- [[antiderivatives_and_their_role_in_integration | Antiderivatives and their role in integration]]
-- [[the_fundamental_theorem_of_calculus | The fundamental theorem of calculus]]
-- [[visualizing_integration_and_approximations | Visualizing integration and approximations]]
-- [[signed_area_and_negative_integrals | Signed area and negative integrals]]
+- [[integration_and_antiderivatives | Integration and antiderivatives]]
+- [[area_under_a_curve_in_calculus | Area under a curve in calculus]]
+- [[fundamental_theorem_of_calculus | Fundamental theorem of calculus]]
+- [[velocity_and_distance_relationship | Velocity and distance relationship]]
+- [[approximating_solutions_using_calculus | Approximating solutions using calculus]]
 
-### [But what are Hamming codes? The origin of error correction](https://www.youtube.com/watch?v=X8jsijhllIA)
-- [[error_correction_in_digital_data_storage | Error correction in digital data storage]]
-- [[history_and_significance_of_hamming_codes | History and significance of Hamming codes]]
-- [[understanding_parity_checks | Understanding parity checks]]
-- [[basics_of_error_correction_schemes | Basics of error correction schemes]]
-- [[practical_implementation_of_error_correction_algorithms | Practical implementation of error correction algorithms]]
+### [Euler's formula with introductory group theory](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
+- [[eulers_formula | Eulers formula]]
+- [[introduction_to_group_theory | Introduction to group theory]]
+- [[symmetries_and_group_actions | Symmetries and group actions]]
+- [[exponentiation_in_group_theory | Exponentiation in group theory]]
+- [[complex_numbers_and_transformations | Complex numbers and transformations]]
 
-### [Binomial distributions | Probabilities of probabilities, part 1](https://www.youtube.com/watch?v=8idr1WZ1A7Q)
-- [[online_seller_ratings_and_decisionmaking | Online seller ratings and decisionmaking]]
-- [[laplaces_rule_of_succession | Laplaces rule of succession]]
-- [[binomial_distribution_concept_and_calculation | Binomial distribution concept and calculation]]
-- [[modeling_probabilities_based_on_limited_data | Modeling probabilities based on limited data]]
-- [[introduction_to_bayesian_statistics | Introduction to Bayesian statistics]]
-
-### [Measuring the speed of light using Jupiter's moons](https://www.youtube.com/watch?v=M6LUPYsjods)
-- [[observing_the_moons_of_jupiter | Observing the moons of Jupiter]]
-- [[significance_of_ios_orbital_observations | Significance of Ios orbital observations]]
-- [[historical_speed_of_light_measurements | Historical speed of light measurements]]
-- [[huygens_and_the_speed_of_light | Huygens and the speed of light]]
-- [[astronomical_observations_and_their_impact_on_physics | Astronomical observations and their impact on physics]]
+### [When being beautifully wrong leads to discovery](https://www.youtube.com/watch?v=TZAC0WFemvE)
+- [[keplers_model_of_the_solar_system | Keplers model of the solar system]]
+- [[platonic_solids_in_astronomy | Platonic solids in astronomy]]
+- [[historical_orbital_data_analysis | Historical orbital data analysis]]
+- [[development_of_keplers_laws_of_planetary_motion | Development of Keplers laws of planetary motion]]
+- [[scientific_discovery_through_error | Scientific discovery through error]]
 
 ### [This pattern breaks, but for a good reason | Moser's circle problem](https://www.youtube.com/watch?v=YtkIWDE36qU)
 - [[mosers_circle_problem | Mosers circle problem]]
-- [[strong_law_of_small_numbers | Strong law of small numbers]]
 - [[eulers_characteristic_formula | Eulers characteristic formula]]
-- [[pascals_triangle_and_the_powers_of_two | Pascals triangle and the powers of two]]
-- [[problem_solving_strategies_in_mathematics | Problem solving strategies in mathematics]]
+- [[pascals_triangle | Pascals triangle]]
+- [[counting_intersections_in_planar_graphs | Counting intersections in planar graphs]]
+- [[patterns_and_powers_of_two_in_mathematics | Patterns and powers of two in mathematics]]
 
 ### [Three-dimensional linear transformations | Chapter 5, Essence of linear algebra](https://www.youtube.com/watch?v=rHLEWRxRGiM)
 - [[threedimensional_linear_transformations | Threedimensional linear transformations]]
-- [[basis_vectors_in_threedimensional_space | Basis vectors in threedimensional space]]
-- [[visualizing_transformations_in_three_dimensions | Visualizing transformations in three dimensions]]
-- [[matrix_representation_of_3d_transformations | Matrix representation of 3D transformations]]
-- [[applications_of_3d_transformations_in_computer_graphics_and_robotics | Applications of 3D transformations in computer graphics and robotics]]
+- [[mathematical_representation_with_3x3_matrices | Mathematical representation with 3x3 matrices]]
+- [[visualization_of_3d_vector_transformations | Visualization of 3D vector transformations]]
+- [[basis_vectors_in_three_dimensions | Basis vectors in three dimensions]]
+- [[applications_in_computer_graphics_and_robotics | Applications in computer graphics and robotics]]
+
+### [Measuring the speed of light using Jupiter's moons](https://www.youtube.com/watch?v=M6LUPYsjods)
+- [[observing_jupiters_moons | Observing Jupiters moons]]
+- [[ios_orbit_and_light_speed_discovery | Ios orbit and light speed discovery]]
+- [[huygens_calculations_on_light_speed | Huygens calculations on light speed]]
+- [[impact_of_astronomical_units_on_light_speed | Impact of astronomical units on light speed]]
+- [[historical_estimations_of_light_speed | Historical estimations of light speed]]
+
+### [But what are Hamming codes? The origin of error correction](https://www.youtube.com/watch?v=X8jsijhllIA)
+- [[introduction_to_hamming_codes | Introduction to Hamming Codes]]
+- [[error_correction_and_data_redundancy | Error Correction and Data Redundancy]]
+- [[historical_background_of_hamming_codes | Historical Background of Hamming Codes]]
+- [[parity_checks_and_error_detection | Parity Checks and Error Detection]]
+- [[extending_hamming_codes_for_improved_error_detection | Extending Hamming Codes for Improved Error Detection]]
+
+### [Binomial distributions | Probabilities of probabilities, part 1](https://www.youtube.com/watch?v=8idr1WZ1A7Q)
+- [[binomial_distribution_and_its_application | Binomial distribution and its application]]
+- [[laplaces_rule_of_succession_in_probability | Laplaces rule of succession in probability]]
+- [[modeling_probabilities_for_online_seller_ratings | Modeling probabilities for online seller ratings]]
+- [[understanding_success_rates_and_probability_of_positive_experiences | Understanding success rates and probability of positive experiences]]
+- [[bayesian_probability_concepts_and_bayes_rule | Bayesian probability concepts and Bayes rule]]
 
 ### [Limits, L'Hôpital's rule, and epsilon delta definitions | Chapter 7, Essence of calculus](https://www.youtube.com/watch?v=kfF40MiS7zA)
-- [[limits_in_calculus | Limits in calculus]]
-- [[derivative_definitions_and_their_relation_to_limits | Derivative definitions and their relation to limits]]
+- [[introduction_to_limits_in_calculus | Introduction to limits in calculus]]
+- [[formal_definition_of_derivatives_using_limits | Formal definition of derivatives using limits]]
 - [[epsilondelta_definition_of_limits | Epsilondelta definition of limits]]
-- [[lhopitals_rule_for_computing_limits | LHopitals Rule for computing limits]]
-- [[application_of_limits_in_integral_calculus | Application of limits in integral calculus]]
-
-### [Hilbert's Curve: Is infinite math useful?](https://www.youtube.com/watch?v=3s7h2MHQtxc)
-- [[spacefilling_curves | Spacefilling curves]]
-- [[hilbert_curve_and_its_applications | Hilbert curve and its applications]]
-- [[infinite_math_utility_in_finite_contexts | Infinite math utility in finite contexts]]
-- [[soundtosight_software | Soundtosight software]]
-- [[continuity_and_function_limits_in_mathematical_curves | Continuity and function limits in mathematical curves]]
-
-### [Fractal charm: Space filling curves](https://www.youtube.com/watch?v=RU0wScIj36o)
-- [[fractal_geometry | fractal geometry]]
-- [[mathematics_in_nature | mathematics in nature]]
-
-### [Change of basis | Chapter 13, Essence of linear algebra](https://www.youtube.com/watch?v=P2LTAUO1TdA)
-- [[representation_of_vectors_using_basis_vectors | Representation of vectors using basis vectors]]
-- [[coordinate_systems_and_basis_vectors | Coordinate systems and basis vectors]]
-- [[change_of_basis_and_its_implications | Change of basis and its implications]]
-- [[matrix_vector_multiplication_and_transformations | Matrix vector multiplication and transformations]]
-- [[importance_of_understanding_alternate_coordinate_systems | Importance of understanding alternate coordinate systems]]
+- [[lhpitals_rule_for_computing_limits | LHpitals rule for computing limits]]
+- [[applications_and_interpretations_of_limits_in_calculus | Applications and interpretations of limits in calculus]]
 
 ### [Terence Tao on how we measure the cosmos | The Distance Ladder Part 1](https://www.youtube.com/watch?v=YdOXS_9_P4U)
-- [[measuring_cosmic_distances_using_the_distance_ladder | Measuring cosmic distances using the distance ladder]]
-- [[eratosthenes_calculation_of_earths_circumference | Eratosthenes calculation of Earths circumference]]
-- [[using_lunar_eclipses_to_measure_the_earthmoon_distance | Using lunar eclipses to measure the EarthMoon distance]]
-- [[keplers_calculations_of_planetary_orbits | Keplers calculations of planetary orbits]]
-- [[historical_development_of_heliocentric_models | Historical development of heliocentric models]]
+- [[history_of_measuring_cosmic_distances | History of measuring cosmic distances]]
+- [[keplers_contributions_to_astronomy | Keplers contributions to astronomy]]
+- [[eratosthenes_and_the_measurement_of_earths_circumference | Eratosthenes and the measurement of Earths circumference]]
+- [[ancient_greek_astronomy_and_lunar_eclipses | Ancient Greek astronomy and lunar eclipses]]
+- [[heliocentric_model_and_aristarchus_theories | Heliocentric model and Aristarchus theories]]
+
+### [Hilbert's Curve: Is infinite math useful?](https://www.youtube.com/watch?v=3s7h2MHQtxc)
+- [[spacefilling_curves_and_their_applications | spacefilling curves and their applications]]
+- [[hilberts_curves_and_infinite_math | Hilberts curves and infinite math]]
+- [[translating_image_data_to_sound_using_hilbert_curves | translating image data to sound using Hilbert curves]]
+- [[continuity_and_mathematical_functions | continuity and mathematical functions]]
+- [[finite_and_infinite_mathematical_constructs | finite and infinite mathematical constructs]]
+
+### [Change of basis | Chapter 13, Essence of linear algebra](https://www.youtube.com/watch?v=P2LTAUO1TdA)
+- [[coordinate_systems_and_basis_vectors | Coordinate systems and basis vectors]]
+- [[change_of_basis_concept | Change of basis concept]]
+- [[matrixvector_multiplication | Matrixvector multiplication]]
+- [[linear_transformations_and_change_of_basis | Linear transformations and change of basis]]
+- [[inverse_matrix_and_translating_between_coordinate_systems | Inverse matrix and translating between coordinate systems]]
+
+### [Why slicing a cone gives an ellipse (beautiful proof)](https://www.youtube.com/watch?v=pQa_tWZmlGs)
+- [[geometric_definitions_of_an_ellipse | geometric definitions of an ellipse]]
+- [[proof_of_slicing_a_cone_to_form_an_ellipse | proof of slicing a cone to form an ellipse]]
+- [[feynmans_lost_lecture_on_elliptical_orbits | Feynmans Lost Lecture on elliptical orbits]]
+- [[dandelin_spheres_in_mathematical_proofs | Dandelin spheres in mathematical proofs]]
+- [[eccentricity_and_geometric_properties_of_ellipses | eccentricity and geometric properties of ellipses]]
 
 ### [The more general uncertainty principle, regarding Fourier transforms](https://www.youtube.com/watch?v=MBnnXbOM5S4)
-- [[heisenberg_uncertainty_principle_in_quantum_mechanics | Heisenberg uncertainty principle in quantum mechanics]]
-- [[general_uncertainty_trade_off_and_its_applications_to_sound_waves | General uncertainty trade off and its applications to sound waves]]
-- [[fourier_transforms_and_their_role_in_frequency_analysis | Fourier transforms and their role in frequency analysis]]
-- [[doppler_radar_and_frequency_ambiguity | Doppler radar and frequency ambiguity]]
-- [[waveparticle_duality_and_de_broglie_hypothesis | Waveparticle duality and de Broglie hypothesis]]
+- [[heisenberg_uncertainty_principle_and_its_relation_to_frequency_and_duration | Heisenberg uncertainty principle and its relation to frequency and duration]]
+- [[general_uncertainty_principle_in_nonquantum_contexts_like_sound_waves_and_doppler_radar | General uncertainty principle in nonquantum contexts like sound waves and Doppler radar]]
+- [[fourier_transform_as_a_tool_for_analyzing_frequency_content_of_signals | Fourier transform as a tool for analyzing frequency content of signals]]
+- [[doppler_effect_and_its_application_in_radar_technology | Doppler effect and its application in radar technology]]
+- [[wave_nature_of_particles_and_de_broglies_hypothesis | Wave nature of particles and de Broglies hypothesis]]
 
 ### [Cross products | Chapter 10, Essence of linear algebra](https://www.youtube.com/watch?v=eu6i7WJeinw)
 - [[introduction_to_cross_products | Introduction to cross products]]
-- [[cross_product_and_parallelogram_area | Cross product and parallelogram area]]
-- [[determinants_and_2d_cross_product | Determinants and 2D cross product]]
-- [[3d_cross_product_and_the_right_hand_rule | 3D cross product and the right hand rule]]
-- [[geometric_representation_of_cross_products | Geometric representation of cross products]]
+- [[cross_product_in_two_dimensions | Cross product in two dimensions]]
+- [[using_determinants_in_cross_products | Using determinants in cross products]]
+- [[right_hand_rule_for_cross_products | Right hand rule for cross products]]
+- [[3d_cross_product_computations | 3D cross product computations]]
 
-### [Why slicing a cone gives an ellipse (beautiful proof)](https://www.youtube.com/watch?v=pQa_tWZmlGs)
-- [[geometry_of_ellipses | Geometry of ellipses]]
-- [[ellipses_and_conic_sections | Ellipses and conic sections]]
-- [[eccentricity_and_its_role_in_defining_ellipses | Eccentricity and its role in defining ellipses]]
-- [[dandelin_spheres_and_their_use_in_proving_mathematical_properties | Dandelin spheres and their use in proving mathematical properties]]
-- [[creative_approaches_in_mathematical_proofs | Creative approaches in mathematical proofs]]
+### [The impossible chessboard puzzle](https://www.youtube.com/watch?v=wTJI_WuZSwE)
+- [[the_impossible_chessboard_puzzle | The impossible chessboard puzzle]]
+- [[prisoner_puzzle_and_strategy_development | Prisoner puzzle and strategy development]]
+- [[geometric_visualization_in_puzzlesolving | Geometric visualization in puzzlesolving]]
+- [[relation_between_the_puzzle_and_error_correction | Relation between the puzzle and error correction]]
+- [[higherdimensional_cubes_and_coloring_problems | Higherdimensional cubes and coloring problems]]
+
+### [Visualizing the chain rule and product rule | Chapter 4, Essence of calculus](https://www.youtube.com/watch?v=YG15m2VwSjA)
+- [[derivatives_of_simple_functions_and_their_intuition | Derivatives of simple functions and their intuition]]
+- [[taking_derivatives_of_complex_combinations_of_functions | Taking derivatives of complex combinations of functions]]
+- [[understanding_the_sum_rule_for_derivatives | Understanding the Sum Rule for derivatives]]
+- [[applying_the_product_rule_in_derivatives | Applying the Product Rule in derivatives]]
+- [[understanding_the_chain_rule_for_function_composition_in_derivatives | Understanding the Chain Rule for function composition in derivatives]]
 
 ### [Implicit differentiation, what's going on here? | Chapter 6, Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4)
 - [[implicit_differentiation | Implicit differentiation]]
-- [[tangent_lines_and_their_slopes_on_curves | Tangent lines and their slopes on curves]]
+- [[tangent_lines_and_slopes | Tangent lines and slopes]]
 - [[related_rates_problems | Related rates problems]]
-- [[chain_rule_in_differentiation | Chain rule in differentiation]]
-- [[derivative_of_logarithmic_functions | Derivative of logarithmic functions]]
-
-### [Visualizing the chain rule and product rule | Chapter 4, Essence of calculus](https://www.youtube.com/watch?v=YG15m2VwSjA)
-- [[understanding_derivatives_of_combined_functions | Understanding derivatives of combined functions]]
-- [[sum_rule_for_derivatives | Sum rule for derivatives]]
-- [[product_rule_in_calculus | Product rule in calculus]]
-- [[chain_rule_for_function_compositions | Chain rule for function compositions]]
-- [[intuition_behind_calculus_rules | Intuition behind calculus rules]]
-
-### [The impossible chessboard puzzle](https://www.youtube.com/watch?v=wTJI_WuZSwE)
-- [[the_impossible_chessboard_prisoner_puzzle | The impossible chessboard prisoner puzzle]]
-- [[error_correction_and_hamming_codes | Error correction and Hamming codes]]
-- [[highdimensional_geometry_and_cube_coloring | Highdimensional geometry and cube coloring]]
-- [[combinatorial_puzzles_and_strategy_development | Combinatorial puzzles and strategy development]]
-- [[concepts_in_information_theory_and_coding_theory | Concepts in information theory and coding theory]]
-
-### [But why would light "slow down"? | Visualizing Feynman's lecture on the refractive index](https://www.youtube.com/watch?v=KTzGBJPuJwM)
-- [[how_prisms_work | How prisms work]]
-- [[index_of_refraction | Index of refraction]]
-- [[snells_law_and_light_refraction | Snells law and light refraction]]
-- [[physical_explanation_of_light_slowing_down | Physical explanation of light slowing down]]
-- [[feynmans_explanation_of_electromagnetic_waves | Feynmans explanation of electromagnetic waves]]
+- [[pythagorean_theorem_in_calculus | Pythagorean theorem in calculus]]
+- [[derivatives_of_trigonometric_and_exponential_functions | Derivatives of trigonometric and exponential functions]]
 
 ### [Olympiad level counting  (Generating functions)](https://www.youtube.com/watch?v=bOXCLR3Wric)
 - [[complex_numbers_in_discrete_math | Complex numbers in discrete math]]
-- [[prime_numbers_and_generating_functions | Prime numbers and generating functions]]
-- [[techniques_for_olympiad_level_counting_problems | Techniques for Olympiad level counting problems]]
-- [[generating_functions_and_subsets | Generating functions and subsets]]
-- [[cycling_behaviors_using_roots_of_unity | Cycling behaviors using roots of unity]]
+- [[generating_functions_and_polynomials | Generating functions and polynomials]]
+- [[roots_of_unity | Roots of unity]]
+- [[counting_subsets_with_conditions | Counting subsets with conditions]]
+- [[riemann_hypothesis_and_prime_numbers | Riemann hypothesis and prime numbers]]
 
-### [Complex number fundamentals | Ep. 3 Lockdown live math](https://www.youtube.com/watch?v=5PcpBw5Hbwo)
-- [[complex_numbers_introduction | Complex numbers introduction]]
-- [[imaginary_numbers_and_their_reality | Imaginary numbers and their reality]]
-- [[uses_of_complex_numbers_in_mathematics_and_engineering | Uses of complex numbers in mathematics and engineering]]
-- [[trigonometry_and_complex_numbers | Trigonometry and complex numbers]]
-- [[geometric_representation_of_complex_numbers | Geometric representation of complex numbers]]
+### [How I animate 3Blue1Brown | A Manim demo with Ben Sparks](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
+- [[manim_animation_library | Manim animation library]]
+- [[python_for_animation | Python for animation]]
+- [[creating_mathematical_animations | Creating mathematical animations]]
+- [[behind_the_scenes_of_3blue1brown_animations | Behind the scenes of 3Blue1Brown animations]]
+- [[lorenz_attractor_and_chaos_theory | Lorenz Attractor and chaos theory]]
 
-### [Nonsquare matrices as transformations between dimensions | Chapter 8, Essence of linear algebra](https://www.youtube.com/watch?v=v8VSDg_WQlA)
-- [[linear_transformations_with_nonsquare_matrices | Linear transformations with nonsquare matrices]]
-- [[representing_transformations_between_dimensions_using_matrices | Representing transformations between dimensions using matrices]]
-- [[matrix_dimensions_and_their_geometric_interpretations | Matrix dimensions and their geometric interpretations]]
-- [[concept_of_column_space_in_transformations | Concept of column space in transformations]]
-- [[meaningful_transformations_and_their_ties_to_the_dot_product | Meaningful transformations and their ties to the dot product]]
-
-### [How pi was almost 6.283185...](https://www.youtube.com/watch?v=bcPTiiiYDs8)
-- [[pi_vs_tau_debate | Pi vs Tau debate]]
-- [[leonhard_eulers_role_in_mathematical_constants | Leonhard Eulers role in mathematical constants]]
-- [[development_of_circle_constants | Development of circle constants]]
-- [[mathematical_problemsolving_and_flexibility | Mathematical problemsolving and flexibility]]
-- [[historical_mathematics_notation_and_conventions | Historical mathematics notation and conventions]]
+### [But why would light "slow down"? | Visualizing Feynman's lecture on the refractive index](https://www.youtube.com/watch?v=KTzGBJPuJwM)
+- [[light_refraction_and_the_refractive_index | Light refraction and the refractive index]]
+- [[effect_of_frequency_on_light_slowing_in_mediums | Effect of frequency on light slowing in mediums]]
+- [[wave_behavior_in_materials_and_phase_shift | Wave behavior in materials and phase shift]]
+- [[electromagnetic_waves_and_charged_particles | Electromagnetic waves and charged particles]]
+- [[feynmans_explanation_of_light_phenomena | Feynmans explanation of light phenomena]]
 
 ### [Some light quantum mechanics (with minutephysics)](https://www.youtube.com/watch?v=MzRCDLre1b4)
 - [[bells_inequalities_in_quantum_mechanics | Bells inequalities in quantum mechanics]]
-- [[understanding_light_as_electromagnetic_waves | Understanding light as electromagnetic waves]]
-- [[the_classical_and_quantum_description_of_light | The classical and quantum description of light]]
+- [[relationship_between_classical_and_quantum_waves | Relationship between classical and quantum waves]]
+- [[maxwells_equations_and_electromagnetic_waves | Maxwells equations and electromagnetic waves]]
 - [[polarization_and_superposition_in_quantum_mechanics | Polarization and superposition in quantum mechanics]]
-- [[quantum_mechanics_basics_for_beginners | Quantum mechanics basics for beginners]]
+- [[discrete_energy_levels_and_photons | Discrete energy levels and photons]]
 
-### [How I animate 3Blue1Brown | A Manim demo with Ben Sparks](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
-- [[introduction_to_manim_for_animations | Introduction to Manim for animations]]
-- [[differences_between_manim_versions | Differences between Manim versions]]
-- [[animating_mathematical_functions | Animating mathematical functions]]
-- [[using_python_for_animation_and_interactivity | Using Python for animation and interactivity]]
-- [[workflow_and_tools_for_3d_animations | Workflow and tools for 3D animations]]
+### [Nonsquare matrices as transformations between dimensions | Chapter 8, Essence of linear algebra](https://www.youtube.com/watch?v=v8VSDg_WQlA)
+- [[nonsquare_matrices_and_their_geometric_interpretation | Nonsquare matrices and their geometric interpretation]]
+- [[transformations_between_different_dimensions | Transformations between different dimensions]]
+- [[matrix_representation_of_linear_transformations | Matrix representation of linear transformations]]
+- [[understanding_fullrank_matrices | Understanding fullrank matrices]]
+- [[transformations_involving_dot_product | Transformations involving dot product]]
+
+### [Complex number fundamentals | Ep. 3 Lockdown live math](https://www.youtube.com/watch?v=5PcpBw5Hbwo)
+- [[introduction_to_complex_numbers | Introduction to complex numbers]]
+- [[the_concept_of_imaginary_numbers | The concept of imaginary numbers]]
+- [[applications_of_complex_numbers_in_engineering_and_mathematics | Applications of complex numbers in engineering and mathematics]]
+- [[geometric_interpretation_of_complex_numbers | Geometric interpretation of complex numbers]]
+- [[complex_numbers_multiplication_and_rotation | Complex numbers multiplication and rotation]]
+
+### [How pi was almost 6.283185...](https://www.youtube.com/watch?v=bcPTiiiYDs8)
+- [[pi_vs_tau_debate | Pi vs Tau debate]]
+- [[leonhard_eulers_contribution_to_mathematics | Leonhard Eulers contribution to mathematics]]
+- [[history_of_circle_constants | History of circle constants]]
+- [[mathematical_notation_and_conventions | Mathematical notation and conventions]]
+- [[approaches_to_mathematical_problem_solving | Approaches to mathematical problem solving]]
 
 ### [Why π is in the normal distribution (beyond integral tricks)](https://www.youtube.com/watch?v=cy8r7WSuT1I)
-- [[unreasonable_effectiveness_of_mathematics_in_natural_sciences | Unreasonable effectiveness of mathematics in natural sciences]]
-- [[gaussian_distribution_and_the_role_of_pi | Gaussian distribution and the role of pi]]
-- [[integrals_and_probability_distributions | Integrals and probability distributions]]
-- [[herschels_derivation_of_the_gaussian_distribution | Herschels derivation of the Gaussian distribution]]
-- [[connections_between_gaussian_distribution_and_the_central_limit_theorem | Connections between Gaussian distribution and the central limit theorem]]
+- [[the_unreasonable_effectiveness_of_mathematics_in_the_natural_sciences | The unreasonable effectiveness of mathematics in the natural sciences]]
+- [[explaining_pi_in_the_normal_distribution_formula | Explaining pi in the normal distribution formula]]
+- [[connection_between_gaussian_distribution_and_probability | Connection between Gaussian distribution and probability]]
+- [[role_of_circular_symmetry_in_statistical_distributions | Role of circular symmetry in statistical distributions]]
+- [[herschel_maxwells_derivation_and_its_impact_on_understanding_gaussian_distribution | Herschel Maxwells derivation and its impact on understanding Gaussian distribution]]
 
 ### [Trigonometry fundamentals | Ep. 2 Lockdown live math](https://www.youtube.com/watch?v=yBw67Fb31Cs)
-- [[connection_between_trigonometry_and_complex_numbers | Connection between trigonometry and complex numbers]]
-- [[introduction_to_trigonometric_functions | Introduction to trigonometric functions]]
-- [[graphical_analysis_using_a_graphing_calculator | Graphical analysis using a graphing calculator]]
-- [[understanding_sine_and_cosine_using_unit_circles | Understanding sine and cosine using unit circles]]
-- [[trigonometry_in_relation_to_angles_and_triangles | Trigonometry in relation to angles and triangles]]
+- [[trigonometry_and_complex_numbers_connection | Trigonometry and complex numbers connection]]
+- [[understanding_basic_trigonometric_functions_and_waves | Understanding basic trigonometric functions and waves]]
+- [[graphing_trigonometric_functions_and_making_predictions | Graphing trigonometric functions and making predictions]]
+- [[sine_and_cosine_on_the_unit_circle_and_angles | Sine and cosine on the unit circle and angles]]
+- [[trigonometric_identities_and_proofs | Trigonometric identities and proofs]]
+
+### [Music And Measure Theory](https://www.youtube.com/watch?v=cyW5z-M2yzw)
+- [[musical_harmony_and_frequency_ratios | Musical harmony and frequency ratios]]
+- [[rational_versus_irrational_numbers_in_music | Rational versus irrational numbers in music]]
+- [[the_concept_of_measure_theory | The concept of measure theory]]
+- [[covering_sets_with_open_intervals | Covering sets with open intervals]]
+- [[harmonious_versus_cacophonous_sounds_in_music | Harmonious versus cacophonous sounds in music]]
 
 ### [Sphere surface area proof sketch](https://www.youtube.com/watch?v=EPDZTLavmcg)
 - [[surface_area_of_a_sphere | Surface area of a sphere]]
-- [[archimedes_proof_of_spheres_surface_area | Archimedes proof of spheres surface area]]
-- [[comparing_sphere_surface_area_with_cylinder_surface_area | Comparing sphere surface area with cylinder surface area]]
-- [[geometric_analysis_of_sphere_and_cylinder | Geometric analysis of sphere and cylinder]]
-- [[unwrapping_a_cylinder_into_a_rectangle | Unwrapping a cylinder into a rectangle]]
-
-### [Music And Measure Theory](https://www.youtube.com/watch?v=cyW5z-M2yzw)
-- [[harmonious_and_cacophonous_sound_in_music | Harmonious and cacophonous sound in music]]
-- [[rational_and_irrational_numbers_in_music | Rational and irrational numbers in music]]
-- [[measure_theory_and_open_intervals | Measure theory and open intervals]]
-- [[covering_rational_numbers_with_open_intervals | Covering rational numbers with open intervals]]
-- [[mathematical_intuition_and_counterintuitive_results | Mathematical intuition and counterintuitive results]]
-
-### [Abstract vector spaces | Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)
-- [[nature_of_vectors | Nature of vectors]]
-- [[abstract_vector_spaces | Abstract vector spaces]]
-- [[functions_as_vectors | Functions as vectors]]
-- [[linear_transformations | Linear transformations]]
-- [[vector_space_axioms | Vector space axioms]]
+- [[archimedes_proof_of_sphere_surface_area | Archimedes proof of sphere surface area]]
+- [[comparing_sphere_surface_area_to_enclosing_cylinder | Comparing sphere surface area to enclosing cylinder]]
+- [[geometric_analysis_of_light_projection | Geometric analysis of light projection]]
+- [[unwrapping_cylinder_into_a_rectangle | Unwrapping cylinder into a rectangle]]
 
 ### [Beyond the Mandelbrot set, an intro to holomorphic dynamics](https://www.youtube.com/watch?v=LqbZpur38nw)
-- [[holomorphic_dynamics_and_complex_functions | Holomorphic dynamics and complex functions]]
-- [[the_mandelbrot_set_and_its_mathematical_significance | The Mandelbrot set and its mathematical significance]]
-- [[newtons_fractal_and_roots_of_polynomial_equations | Newtons fractal and roots of polynomial equations]]
-- [[rational_functions_and_iterations | Rational functions and iterations]]
-- [[attracing_and_repelling_cycles_in_dynamical_systems | Attracing and repelling cycles in dynamical systems]]
+- [[introduction_to_holomorphic_dynamics | Introduction to Holomorphic Dynamics]]
+- [[mandelbrot_set_and_its_significance | Mandelbrot Set and Its Significance]]
+- [[newtons_fractal_and_rational_functions | Newtons Fractal and Rational Functions]]
+- [[julia_sets_and_fatou_sets | Julia Sets and Fatou Sets]]
+- [[attracting_and_repelling_cycles_in_functions | Attracting and Repelling Cycles in Functions]]
 
-### [This open problem taught me what topology is](https://www.youtube.com/watch?v=IQqtsm-bBRU)
-- [[the_inscribed_square_problem | The inscribed square problem]]
-- [[the_concept_of_topology | The concept of topology]]
-- [[properties_and_implications_of_a_mbius_strip | Properties and implications of a Mbius strip]]
-- [[mathematical_proofs_involving_inscribed_rectangles | Mathematical proofs involving inscribed rectangles]]
-- [[understanding_and_visualizing_mathematical_concepts_in_topology | Understanding and visualizing mathematical concepts in topology]]
+### [Abstract vector spaces | Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)
+- [[definition_and_nature_of_vectors | Definition and Nature of Vectors]]
+- [[vector_spaces_and_axioms | Vector Spaces and Axioms]]
+- [[functions_as_vectors | Functions as Vectors]]
+- [[linear_transformations_and_linearity | Linear Transformations and Linearity]]
+- [[applications_of_linear_algebra_concepts | Applications of Linear Algebra Concepts]]
 
 ### [What makes the natural log "natural"? | Ep. 7 Lockdown live math](https://www.youtube.com/watch?v=4PDoT7jtxmw)
-- [[prime_numbers_and_density | Prime numbers and density]]
-- [[natural_logarithms_and_exponential_growth | Natural logarithms and exponential growth]]
-- [[infinite_series_and_sum_computations | Infinite series and sum computations]]
-- [[relationship_between_natural_logs_and_prime_numbers | Relationship between natural logs and prime numbers]]
-- [[calculus_and_exponential_functions | Calculus and exponential functions]]
+- [[natural_logarithm_and_its_significance | Natural logarithm and its significance]]
+- [[density_of_prime_numbers_and_natural_log | Density of prime numbers and natural log]]
+- [[prime_numbers_distribution_and_computational_methods | Prime numbers distribution and computational methods]]
+- [[series_and_sums_in_relation_to_natural_log | Series and sums in relation to natural log]]
+- [[why_the_number_e_is_special_in_calculus | Why the number e is special in calculus]]
 
-### [What does area have to do with slope? | Chapter 9, Essence of calculus](https://www.youtube.com/watch?v=FnJqaIESC2s)
-- [[integration_and_averaging_continuous_variables | Integration and averaging continuous variables]]
-- [[relationship_between_integrals_and_derivatives | Relationship between integrals and derivatives]]
-- [[application_of_sine_waves_in_modeling | Application of sine waves in modeling]]
-- [[concept_of_sample_approximation_in_integration | Concept of sample approximation in integration]]
-- [[understanding_antiderivatives_in_calculus | Understanding antiderivatives in calculus]]
+### [This open problem taught me what topology is](https://www.youtube.com/watch?v=IQqtsm-bBRU)
+- [[inscribed_square_problem | Inscribed square problem]]
+- [[topology_and_its_significance | Topology and its significance]]
+- [[understanding_mbius_strips_and_klein_bottles | Understanding Mbius strips and Klein bottles]]
+- [[mathematical_proofs_and_logical_deduction | Mathematical proofs and logical deduction]]
+- [[challenges_in_solving_geometric_problems | Challenges in solving geometric problems]]
 
 ### [Solving the heat equation | DE3](https://www.youtube.com/watch?v=ToIXSwZ1pJU)
-- [[heat_equation_in_onedimensional_case | Heat equation in onedimensional case]]
-- [[solving_partial_differential_equations | Solving partial differential equations]]
-- [[boundary_conditions_in_pdes | Boundary conditions in PDEs]]
-- [[fourier_series_and_sine_waves | Fourier series and sine waves]]
-- [[mathematical_modeling_of_heat_flow | Mathematical modeling of heat flow]]
+- [[heat_equation_in_onedimensional_rod | Heat equation in onedimensional rod]]
+- [[partial_differential_equations_and_boundary_conditions | Partial differential equations and boundary conditions]]
+- [[fourier_series_in_solving_heat_equations | Fourier series in solving heat equations]]
+- [[role_of_sine_and_cosine_waves_in_heat_equation_solutions | Role of sine and cosine waves in heat equation solutions]]
+- [[boundary_conditions_in_heat_flow_modeling | Boundary conditions in heat flow modeling]]
 
 ### [Five puzzles for thinking outside the box](https://www.youtube.com/watch?v=piJkuavhV50)
-- [[higher_dimensions_and_their_relevance | Higher dimensions and their relevance]]
-- [[geometry_puzzles_involving_tiling_and_shapes | Geometry puzzles involving tiling and shapes]]
-- [[tarski_planck_problem_and_circle_coverings | Tarski Planck problem and circle coverings]]
-- [[finding_intersections_of_tangents | Finding intersections of tangents]]
-- [[exploring_fourdimensional_geometry_and_its_implications | Exploring fourdimensional geometry and its implications]]
+- [[puzzles_and_geometric_problemsolving | Puzzles and geometric problemsolving]]
+- [[tiling_in_higher_dimensions | Tiling in higher dimensions]]
+- [[tarskiplanck_problem_solving | TarskiPlanck problem solving]]
+- [[mathematical_intuition_versus_analysis | Mathematical intuition versus analysis]]
+- [[threedimensional_puzzles_and_fourdimensional_insights | Threedimensional puzzles and fourdimensional insights]]
+
+### [What does area have to do with slope? | Chapter 9, Essence of calculus](https://www.youtube.com/watch?v=FnJqaIESC2s)
+- [[relationship_between_integrals_and_derivatives | Relationship between integrals and derivatives]]
+- [[calculating_the_average_value_of_a_continuous_function | Calculating the average value of a continuous function]]
+- [[antiderivatives_and_solving_integrals | Antiderivatives and solving integrals]]
+- [[application_of_integrals_in_real_world_problems | Application of integrals in real world problems]]
+- [[intuition_behind_the_average_value_and_area_under_a_curve | Intuition behind the average value and area under a curve]]

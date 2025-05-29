@@ -5,46 +5,55 @@ videoId: qb40J4N1fa4
 
 From: [[3blue1brown]] <br/> 
 
-Related rates problems involve situations where several quantities are changing over time, and the goal is to determine the rate of change of one quantity based on the known rates of change of others <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. The key insight is that the quantities are related by some equation, and by taking the derivative of this equation with respect to time, the relationships between their rates of change can be found <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>.
+Related rates problems involve scenarios where multiple quantities are interdependent and change over time, and the goal is to determine the rate of change of one quantity given the rates of change of others <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>. The relationship between these quantities is often expressed through an equation that holds true at all points in time <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
 
-## The Ladder Problem Example
+## Example: The Ladder Problem
 
-Consider a classic related rates scenario:
-A 5-meter long ladder is leaning against a wall <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
-Initially, the top of the ladder is 4 meters above the ground, meaning the bottom is 3 meters away from the wall, as determined by the Pythagorean theorem <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. If the top of the ladder is dropping at a rate of 1 meter per second, the problem asks for the rate at which the bottom of the ladder is moving away from the wall at that initial moment <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+Consider a 5-meter long ladder leaning against a wall <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+*   Initially, the top of the ladder is 4 meters above the ground, meaning the bottom is 3 meters from the wall (by the Pythagorean theorem) <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
+*   Suppose the top of the ladder is slipping down at a rate of 1 meter per second <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+*   The question is: What is the rate at which the bottom of the ladder is moving away from the wall at that initial moment? <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>
 
-### Setting Up the Problem
-1.  **Define Variables**: Let `y(t)` be the distance from the top of the ladder to the ground (a function of time), and `x(t)` be the distance between the bottom of the ladder and the wall (also a function of time) <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
-2.  **Establish the Relationship**: The key equation connecting these variables is the Pythagorean theorem, which holds true at all points in time: `x(t)² + y(t)² = 5²` <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.
-3.  **Knowns and Unknowns (at t=0)**:
-    *   `y(0) = 4` meters <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>
-    *   `x(0) = 3` meters <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>
-    *   `dy/dt = -1` meter per second (negative because the height is decreasing) <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>
-    *   `dx/dt = ?` (the unknown rate) <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>
+### Setting up the Problem
 
-### Solving with Derivatives
-One approach is to isolate one variable and then take its derivative <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. However, a more direct method involves taking the derivative of the entire equation `x(t)² + y(t)² = 5²` with respect to time (`t`) <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
+1.  **Name the Quantities**:
+    *   Let `y(t)` be the distance from the top of the ladder to the ground (a function of time) <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
+    *   Let `x(t)` be the distance between the bottom of the ladder and the wall (also a function of time) <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>.
+    *   The ladder's length is constant at 5 meters <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
 
-Since the right side (5²) is a constant, its derivative with respect to time is 0 <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>. For the left side, apply the [[calculating_derivatives_and_their_applications | chain rule]]:
-*   The derivative of `x(t)²` with respect to `t` is `2 * x(t) * (dx/dt)` <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
-*   The derivative of `y(t)²` with respect to `t` is `2 * y(t) * (dy/dt)` <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+2.  **Relate the Quantities**: The key equation is derived from the Pythagorean theorem: `x(t)² + y(t)² = 5²` <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. This equation is true at all moments in time <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
 
-So, the differentiated equation becomes:
-`2x(t) (dx/dt) + 2y(t) (dy/dt) = 0` <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>
+### Solving the Problem
 
-Now, substitute the known values at `t=0`:
-`2(3) (dx/dt) + 2(4) (-1) = 0` <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>
-`6 (dx/dt) - 8 = 0`
-`6 (dx/dt) = 8`
-`dx/dt = 8/6 = 4/3` meters per second <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>.
+One approach to solving a related rates problem is to differentiate the relating equation with respect to time. Since `x(t)` and `y(t)` are functions of time, taking the [[calculating_derivatives_and_algebraic_simplification_in_calculus|derivative]] of both sides means considering how much each side changes as time changes <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
 
-This means the bottom of the ladder is moving away from the wall at 4/3 meters per second at that instant <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>.
+*   The right side of the equation (`5²`) is a constant, so its [[calculating_derivatives_and_algebraic_simplification_in_calculus|derivative]] with respect to time is 0 <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
+*   For the left side, `x(t)² + y(t)²`, we apply the [[calculating_derivatives_and_algebraic_simplification_in_calculus|chain rule]]:
+    *   The [[calculating_derivatives_and_algebraic_simplification_in_calculus|derivative]] of `x(t)²` with respect to time is `2 * x(t) * (dx/dt)` <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>. This represents the rate of change of `x²` caused by the rate of change of `x` <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
+    *   Similarly, the [[calculating_derivatives_and_algebraic_simplification_in_calculus|derivative]] of `y(t)²` with respect to time is `2 * y(t) * (dy/dt)` <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+
+Setting the [[calculating_derivatives_and_algebraic_simplification_in_calculus|derivative]] of both sides equal:
+`2x(t) * (dx/dt) + 2y(t) * (dy/dt) = 0` <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>.
+This equation signifies that the overall expression `x² + y²` does not change as the ladder moves <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>.
+
+### Plugging in Values
+
+At the initial moment (t=0):
+*   `y(t)` = 4 meters <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>
+*   `x(t)` = 3 meters <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>
+*   `dy/dt` = -1 meters/second (negative because the height is decreasing) <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>
+
+Substitute these values into the differentiated equation:
+`2(3) * (dx/dt) + 2(4) * (-1) = 0`
+`6 * (dx/dt) - 8 = 0`
+`6 * (dx/dt) = 8`
+`dx/dt = 8/6 = 4/3` meters/second <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+
+So, the bottom of the ladder is moving away from the wall at a rate of 4/3 meters per second.
 
 ## Connection to Implicit Differentiation
 
-Related rates problems share a conceptual similarity with [[calculating_derivatives_and_their_applications | implicit differentiation]] <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>. In both cases, derivatives are taken on both sides of an equation that relates multiple variables <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+The process used to solve related rates problems is closely related to [[calculating_derivatives_and_algebraic_simplification_in_calculus|implicit differentiation]] <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>.
+In related rates, the variables (e.g., `x` and `y`) are explicitly treated as functions of a common variable (time, `t`), and the [[calculating_derivatives_and_algebraic_simplification_in_calculus|derivative]] is taken with respect to that common variable <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>. This gives a clear meaning to the resulting rates (e.g., `dx/dt`, `dy/dt`).
 
-*   **Related Rates**: The variables (like `x` and `y`) are explicitly treated as [[relationship_between_velocity_and_distance_functions | functions]] of a common variable, typically time (`t`). Taking the derivative means finding how the expressions change as time passes <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>.
-*   **Implicit Differentiation**: While not explicitly tied to an external variable like time, it asks how a tiny nudge `dx` to `x` and `dy` to `y` impacts an expression, often used to find `dy/dx` <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. The core idea is that if an equation holds true, then tiny changes to its left side must equal tiny changes to its right side to maintain equality <a class="yt-timestamp" data-t="00:12:04">[00:12:04]</a>.
-
-Both techniques rely on understanding how "tiny nudges" in input variables affect the values of expressions containing those variables, emphasizing the interconnectedness of rates of change <a class="yt-timestamp" data-t="00:14:48">[00:14:48]</a>.
+In contrast, when finding the slope of a tangent line to an implicit curve (like a circle defined by `x² + y² = 5²`), [[calculating_derivatives_and_algebraic_simplification_in_calculus|implicit differentiation]] involves `dx` and `dy` "floating free," not tied to an external variable like time <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>. However, the underlying principle of differentiating both sides of an equation to capture tiny changes that maintain the equation's truth remains the same for both related rates and general [[calculating_derivatives_and_algebraic_simplification_in_calculus|implicit differentiation]] <a class="yt-timestamp" data-t="00:12:04">[00:12:04]</a>.
