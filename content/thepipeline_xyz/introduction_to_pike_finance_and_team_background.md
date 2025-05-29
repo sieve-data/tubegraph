@@ -1,0 +1,28 @@
+---
+title: Introduction to Pike Finance and team background
+videoId: 7KlUOAaQglQ
+---
+
+From: [[thepipeline_xyz]] <br/> 
+
+Pike Finance is a prominent project in the decentralized finance (DeFi) space, known for its focus on cross-chain interoperability and unified liquidity.
+
+## What is Pike Finance?
+
+Pike Finance is designed as a [[Pike Finances role in the DeFi ecosystem | cross-chain lending market]] <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>. Its core function allows users to deposit assets on one blockchain ("chain A") and borrow against them on another ("chain B") <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. The overarching goal of Pike Finance is to [[Pike Finances role in the DeFi ecosystem | unify liquidity]] <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a> from various ecosystems, including EVM chains like Ethereum, Optimism, Base, and soon [[Collaboration between Monad Labs and Pith | Monad]] <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>, as well as non-EVM environments such as Solana, IBC and Cosmos, and Move-based chains like Aptos and Sui, and Polkadot parachains <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. This vision is encapsulated in Pike's tagline: "A [[Pike Finances role in the DeFi ecosystem | universal liquidity protocol]]" <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>.
+
+Crucially, Pike Finance does not rely on traditional bridges to enable its [[Pike Finances role in the DeFi ecosystem | cross-chain functionality]] <a class="yt-timestamp" data-t="00:07:21">[00:07:21]</a>. Instead, it utilizes cross-chain messaging <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>, specifically leveraging Wormhole messaging <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>. This means that instead of sending assets across chains, Pike sends a message from one chain to another, confirming a user's deposit and authorizing a borrow <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. To avoid the security concerns associated with bridges, Pike Finance exclusively deals with native assets, not bridged assets <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>. This approach also aims to eliminate the complex prefixes and suffixes often attached to derivative or receipt tokens in [[Pike Finances role in the DeFi ecosystem | DeFi]] <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>, simplifying the user experience for future mass adoption <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>.
+
+## Team Backgrounds
+
+The team behind Pike Finance, particularly Sushan and Terry, shared their journeys into the crypto space and their roles at Nuts Finance, the development studio responsible for Pike.
+
+### Sushan's Background
+
+Sushan's professional journey began as a startup founder for several years, fostering an entrepreneurial spirit and a passion for building products from ideation to reality <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. He also engaged in consulting, primarily for startups <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. [[Passion for financial freedom and crypto | DeFi]] was initially a hobby for him, drawn by its community and culture <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>. He dabbled in the 2017 bull run and returned during the DeFi Summer, where he became a strong advocate for the Polkadot ecosystem's focus on [[Pike Finances role in the DeFi ecosystem | interoperability]] <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. His desire to work full-time in crypto led him to a job at a Polkadot parachain, where he met Terry <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. He joined Nuts Finance approximately 18 months prior to the discussion, motivated by his admiration for the team <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
+
+### Terry's Background
+
+Terry entered the crypto space in late 2017 and early 2018 <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>, initially through his previous startup, a margin FX trading platform <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. The increasing demand from his platform users to list crypto pairs led him to explore the nascent crypto market, which then had fewer spot exchanges <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. After successfully selling his first startup's book of business, he transitioned to full-time work in crypto <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
+
+Terry's professional background is in finance, having started his career in bond ratings across Canada, the US, and Asia <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. In early 2018, he met his co-founder, Daniel, and together they developed the vision for Nuts Finance <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. Nuts Finance is the development lab or studio behind Pike Finance <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. Since 2018, Nuts Finance has built and launched multiple [[Pike Finances role in the DeFi ecosystem | DeFi]] protocols across both EVM and non-EVM ecosystems <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. Their commitment to building in the Polkadot ecosystem stemmed from a thesis that no single chain would dominate, emphasizing the importance of [[Pike Finances role in the DeFi ecosystem | interoperability]] <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. This led them to develop the first [[Pike Finances role in the DeFi ecosystem | DeFi]] protocol on Acala <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.

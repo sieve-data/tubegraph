@@ -1,20 +1,12 @@
 ---
-title: challenges in game development
+title: Challenges in game development
 videoId: AeUspaG5KUQ
 ---
 
 From: [[thepipeline_xyz]] <br/> 
 
-Developing a game presents significant hurdles, with the primary challenge often being the creation of an engaging product rather than the integration of specific technologies like blockchain <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+Creating a game is considered more difficult than developing an on-chain game <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The primary obstacle in game development is the actual creation of a good game <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>.
 
-## Bottlenecks in Game Creation
+The speaker dislikes the approach where developers first add features like asset tracking before ensuring a good game experience <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. An example given is Roblox, which became successful before considering the addition of NFTs <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
 
-A core [[game_development_in_web3 | bottleneck]] in game development is simply "creating a good game" <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. The prevailing view is that developers should prioritize creating a "fun game first" <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>, and only then consider adding on-chain components <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. This approach is exemplified by platforms like Roblox, which established a successful game before exploring integrations such as NFTs <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. This emphasizes the [[importance_of_creating_fun_games_first | importance of creating fun games first]].
-
-## Security Challenges in Traditional Game Economies
-
-Beyond development, existing game economies face substantial [[security_issues_in_gaming_economies | security issues]] <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. Examples include:
-*   Gamers trading CS:GO skins <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
-*   The RuneScape gray market for gold, which has existed for over 15 years <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
-
-In these markets, users frequently fall victim to scams, often resorting to insecure methods like wire transfers to anonymous individuals <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. These traditional systems are considered "much less secure than crypto" <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>, leading to significant user losses <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
+> "I think the main bottleneck for gaming is like first create a [[importance_of_creating_a_fun_game | fun game]] then put like components of it on chain" <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>

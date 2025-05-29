@@ -1,0 +1,62 @@
+---
+title: Axelars Approach to CrossChain Connectivity
+videoId: RUmWyIScfsc
+---
+
+From: [[thepipeline_xyz]] <br/> 
+
+Axelar is an [[blockchain_interoperability | interoperability]] network structured as a blockchain that connects various other blockchains, currently supporting 56 chains and counting <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>, <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. Founded by Georgios and Sergey, who previously worked on the Algorand blockchain, Axelar aims to solve the challenges of [[blockchain_interoperability | cross-chain communication]] and user onboarding in the decentralized space <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>, <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>, <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
+
+## Addressing Centralized Bridge Vulnerabilities
+
+In the past, many centralized bridges like Ren Protocol and MultiChain suffered significant hacks due to their centralized nature, where a single compromised key could lead to fund loss <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>, <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>, <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. Axelar takes a different approach by not being a bridge itself, but a messaging platform upon which various [[crosschain_interoperability_and_lending | cross-chain]] applications, including bridges, can be built securely <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>, <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>, <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>, <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>.
+
+## Key Differentiators
+
+Axelar distinguishes itself from competitors like Wormhole, Chainlink CCIP, and LayerZero through two main characteristics:
+
+### Many-to-Many Connectivity
+Axelar's architecture, built as a blockchain using the Cosmos SDK, enables many-to-many connectivity <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>, <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. A single connection to the Axelar blockchain allows messages to be routed to any other connected blockchain <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>, <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. This contrasts with competitors who typically offer pairwise connectivity, making it harder to add new chains and often resulting in connections to only a subset of available chains <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>, <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>, <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>.
+
+### Decentralization and Security
+Axelar features a fully decentralized validator set of 75 validators, significantly more than competitors (e.g., Wormhole has 19) <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>, <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>, <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>. To attack the network and steal funds, a majority of these validators would need to be corrupted <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. This robust decentralization makes Axelar nearly as secure as the chains it connects to <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>.
+
+## General Message Passing (GMP)
+Axelar's General Message Passing (GMP) platform enables developers to build [[future_of_crosschain_applications_and_user_experience | cross-chain applications]] <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>, <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>. Developers can deploy the "brain" of their application on a fast EVM chain like Monad, and then allow users from other networks (e.g., Arbitrum, Solana) to interact with it directly <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>, <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. This involves deploying a small piece of code on the origin chain that connects to Axelar's endpoint, passing messages to the main application <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>, <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>. This eliminates the need for separate bridging steps, simplifying the user experience and reducing fragmentation across DApps <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>, <a class="yt-timestamp" data-t="00:12:09">[00:12:09]</a>.
+
+Developers can get started with GMP and send their first message within minutes by referring to Axelar's documentation <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>, <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>.
+
+## Interchain Token Service (ITS)
+
+Axelar's Interchain Token Service (ITS), currently in beta, provides a code-free, permissionless tokenization and bridging solution <a class="yt-timestamp" data-t="00:18:30">[00:18:30]</a>, <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>. It allows anyone to launch a token that is [[crossecosystem_nft_integration | cross-chain]] from day one, with the ability to scale to any chain Axelar supports in the future <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a>, <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>. This addresses liquidity fragmentation by enabling tokens to exist natively on multiple chains without needing to be wrapped <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>, <a class="yt-timestamp" data-t="00:20:20">[00:20:20]</a>.
+
+An example is Axelar's partnership with Frax, where Axelar helps issue Frax assets on chains not supported by Frax's native bridge, recognizing the need for projects to focus on their core business rather than extensive bridging infrastructure <a class="yt-timestamp" data-t="00:19:39">[00:19:39]</a>, <a class="yt-timestamp" data-t="00:20:01">[00:20:01]</a>.
+
+## Mitigating Risks and Enhancing [[security_measures_in_blockchain_interoperability | Security]]
+
+Axelar implements several layers of [[security_measures_in_blockchain_interoperability | security]] to mitigate risks in [[crypto_interoperability_and_crosschain_communication | cross-chain interoperability]]:
+
+*   **Decentralization**: As the first and only decentralized network able to secure assets across different chains, Axelar eliminates the most common attack vector seen in centralized bridges <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>, <a class="yt-timestamp" data-t="00:23:22">[00:23:22]</a>, <a class="yt-timestamp" data-t="00:23:30">[00:23:30]</a>.
+*   **Rate Limiting**: Axelar incorporates rate limiting, a simple code check that minimizes the impact of a hack by limiting the amount of funds that can be moved within a certain period <a class="yt-timestamp" data-t="00:23:43">[00:23:43]</a>, <a class="yt-timestamp" data-t="00:23:46">[00:23:46]</a>, <a class="yt-timestamp" data-t="00:23:51">[00:23:51]</a>. This can be customized on the Axelar blockchain, containing damage even if a connected chain breaks <a class="yt-timestamp" data-t="00:24:09">[00:24:09]</a>. Rate limits can be hourly or over longer periods, and could potentially be refreshed more frequently based on live data <a class="yt-timestamp" data-t="00:26:57">[00:26:57]</a>, <a class="yt-timestamp" data-t="00:27:08">[00:27:08]</a>.
+*   **Multi-Solution Approvals**: For applications requiring extremely high security, Axelar supports multi-solution approvals. For example, Lido's community decided to require approval from both Axelar's and Wormhole's validator sets before an asset is minted on a new chain <a class="yt-timestamp" data-t="00:24:49">[00:24:49]</a>, <a class="yt-timestamp" data-t="00:25:00">[00:25:00]</a>, <a class="yt-timestamp" data-t="00:25:03">[00:25:03]</a>. This creates three layers of security (two independent implementations plus rate limits) for maximum protection <a class="yt-timestamp" data-t="00:25:29">[00:25:29]</a>, <a class="yt-timestamp" data-t="00:25:34">[00:25:34]</a>.
+
+Regardless of whether assets are deployed as "native" or "wrapped," security ultimately depends on the underlying bridging infrastructure <a class="yt-timestamp" data-t="00:22:26">[00:22:26]</a>, <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>.
+
+## Collaboration with Monad
+
+Axelar has committed to supporting Monad from an early stage due to several factors:
+*   **Technical Prowess**: Axelar's founders recognized the legitimacy and technical depth of Monad's team, particularly their work on scalability and EVM compatibility <a class="yt-timestamp" data-t="00:28:58">[00:28:58]</a>, <a class="yt-timestamp" data-t="00:29:11">[00:29:11]</a>.
+*   **Community and Demand**: There's significant community excitement and demand from Axelar's partners to launch on Monad as soon as possible, ideally day one <a class="yt-timestamp" data-t="00:29:50">[00:29:50]</a>, <a class="yt-timestamp" data-t="00:30:03">[00:30:03]</a>.
+*   **Instant Finality**: Monad's instant finality is crucial for [[crosschain_interoperability_and_lending | cross-chain applications]], as it significantly reduces message passing times from 15-20 minutes (on Ethereum or L2s with Ethereum verification) to 60-90 seconds <a class="yt-timestamp" data-t="00:16:57">[00:16:57]</a>, <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>, <a class="yt-timestamp" data-t="00:17:28">[00:17:28]</a>. This greatly improves the user experience for [[future_of_crosschain_applications_and_user_experience | cross-chain applications]] <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>.
+
+## The Future of [[Interoperability in Blockchain Networks | Interoperability]]
+
+The industry is rapidly moving towards a [[blockchain_ecosystems_and_multichain_vision | multi-chain]] world where projects are planning to launch on multiple chains from the outset, as it's no longer clear where most liquidity or users reside <a class="yt-timestamp" data-t="00:16:01">[00:16:01]</a>, <a class="yt-timestamp" data-t="00:16:19">[00:16:19]</a>. As gas costs decrease and new chains emerge daily, cross-chain transactions are expected to grow exponentially <a class="yt-timestamp" data-t="00:14:05">[00:14:05]</a>, <a class="yt-timestamp" data-t="00:14:27">[00:14:27]</a>, <a class="yt-timestamp" data-t="00:14:33">[00:14:33]</a>.
+
+In the future, every use case seen on a single chain today will likely have a [[crosschain_interoperability_and_lending | cross-chain]] version, alongside new, unique use cases yet to be imagined <a class="yt-timestamp" data-t="00:14:54">[00:14:54]</a>, <a class="yt-timestamp" data-t="00:15:03">[00:15:03]</a>. Ultimately, [[interoperability_in_blockchain_networks | interoperability]] will become ubiquitous and invisible to the user, abstracting away the complexities of different blockchains <a class="yt-timestamp" data-t="00:31:11">[00:31:11]</a>, <a class="yt-timestamp" data-t="00:31:38">[00:31:38]</a>. Users will only need to think about assets and applications, with wallets managing the underlying [[crypto_interoperability_and_crosschain_communication | cross-chain communication]] automatically <a class="yt-timestamp" data-t="00:31:48">[00:31:48]</a>, <a class="yt-timestamp" data-t="00:31:57">[00:31:57]</a>.
+
+Axelar is already working with major players across various verticals, including real-world asset tokenization (Ondo, Centrifuge, Mountain Protocol), DeFi (Uniswap, dYdX, Frax, Lido), and gaming (Immutable, Decentraland), demonstrating the widespread need for its interoperability stack <a class="yt-timestamp" data-t="00:32:17">[00:32:17]</a>, <a class="yt-timestamp" data-t="00:32:27">[00:32:27]</a>, <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>.
+
+## Final Alpha
+
+For those in crypto for the long run, it's advised to "ignore the noise" and focus on projects with strong underlying technology and a robust community <a class="yt-timestamp" data-t="00:34:48">[00:34:48]</a>, <a class="yt-timestamp" data-t="00:34:52">[00:34:52]</a>. Conviction in what is being built, both from founders and individuals, is critical for success and for staying focused amidst market hype <a class="yt-timestamp" data-t="00:35:59">[00:35:59]</a>, <a class="yt-timestamp" data-t="00:36:10">[00:36:10]</a>.

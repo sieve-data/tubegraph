@@ -5,10 +5,13 @@ videoId: vEggpjUFlGo
 
 From: [[thepipeline_xyz]] <br/> 
 
-[[Monad Madness competition overview | Monad Madness]] was an event held in New York <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. The event was anticipated as "Madness week" and a "big big event" <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+[[monad_madness_pitch_competition | Monad Madness]] is a significant event held in New York [00:00:00]. It is described as a "big big event" [00:00:26] that spans an entire week [00:00:16].
 
-### Overview
-The event spanned for "this week" <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a> and was planned to continue "all week," with the "madness" not stopping "anytime soon" <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. Participants expressed excitement and nervousness leading up to it, expecting it to be "Mayhem," "Madness," and "hectic" <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+## Atmosphere and Anticipation
+The atmosphere leading up to and during [[monad_events_and_community | Monad Madness]] is charged with excitement and anticipation. Attendees express a mix of eagerness and nervousness [00:00:39], predicting it will be "Mayhem" [00:00:41], "Madness" [00:00:43], and "hectic" [00:00:45].
 
-### Participants and Objectives
-The event drew "tons of people coming into the office" <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. Key objectives included meeting "a lot of competitive projects" <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a> and "all the amazing Builders" <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Teams were actively arriving for the event <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
+Participants and organizers share their expectations for the week:
+*   Meeting "a lot of competitive projects" [00:00:31].
+*   Connecting with "all the amazing Builders" [00:00:47].
+
+As the event kicked off, it was officially welcomed as [[monad_madness_pitch_competition | Monad Madness]] [00:01:13], being presented "in front of all of you wonderful people" [00:01:17]. The event is live from New York [00:01:23] and is expected to continue for the entire week, with "the madness" not stopping "anytime soon" [00:01:28].

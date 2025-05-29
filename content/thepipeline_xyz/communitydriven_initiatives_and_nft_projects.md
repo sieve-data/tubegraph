@@ -1,0 +1,34 @@
+---
+title: Communitydriven initiatives and NFT projects
+videoId: 7KlUOAaQglQ
+---
+
+From: [[thepipeline_xyz]] <br/> 
+
+The integration of NFTs (Non-Fungible Tokens) has profoundly influenced [[community_building_in_crypto | community building in crypto]] and Web3 environments, often serving as a catalyst for [[community_building_in_crypto | community engagement]] and identity. Pike Finance, a cross-chain lending market, has experienced this firsthand through its community-driven NFT project, the Pikan collection <a class="yt-timestamp" data-t="00:19:41">[00:19:41]</a>.
+
+## The Pikan Collection: A Grassroots Movement
+The Pikan NFT project was entirely [[community_building_in_crypto | community-driven]] from its inception, with the Pike Finance team having no direct involvement in its creation <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>. The idea emerged organically from a community member asking about a "Pike NFT collection" in the general chat <a class="yt-timestamp" data-t="00:21:04">[00:21:04]</a>. This sparked interest among others who were already creating memes, stickers, and emojis related to Pike <a class="yt-timestamp" data-t="00:21:21">[00:21:21]</a>.
+
+A community member named Mojo took the initiative to start the project, despite having no prior experience in launching an NFT collection <a class="yt-timestamp" data-t="00:21:40">[00:21:40]</a>. He shared sketches and ideas in the general chat, inviting feedback from the community, who actively participated in discussions about designs and traits <a class="yt-timestamp" data-t="00:21:51">[00:21:51]</a>. The Pikans "came to life just within the community itself" <a class="yt-timestamp" data-t="00:22:12">[00:22:12]</a>.
+
+### Impact and Significance
+The Pikan collection has had several significant impacts:
+*   **Identity and Belonging** <a class="yt-timestamp" data-t="00:20:02">[00:20:02]</a>: The NFTs serve as a [[community_building_in_crypto | universal identity layer]] for community members, fostering a sense of belonging and excitement <a class="yt-timestamp" data-t="00:20:02">[00:20:02]</a><a class="yt-timestamp" data-t="00:23:31">[00:23:31]</a>. Displaying a Pikan as a profile picture (PFP) instantly signifies a connection to the Pike Finance community <a class="yt-timestamp" data-t="00:24:17">[00:24:17]</a>.
+*   **Organic Content Generation** <a class="yt-timestamp" data-t="00:32:08">[00:32:08]</a>: A strong [[community_building_in_crypto | community]] like Pike's produces a vast amount of organic content, including memes, art, songs, and even nail art featuring the Pike logo <a class="yt-timestamp" data-t="00:23:11">[00:23:11]</a><a class="yt-timestamp" data-t="00:32:19">[00:32:19]</a>. This content, created by individual members rather than the official team, keeps Pike at the forefront of people's minds without appearing as "spam" <a class="yt-timestamp" data-t="00:32:37">[00:32:37]</a>.
+*   **Reinforcing Culture** <a class="yt-timestamp" data-t="00:36:44">[00:36:44]</a>: The community shapes the culture of the project from the bottom up <a class="yt-timestamp" data-t="00:36:45">[00:36:45]</a>. Teams should adopt and encourage community-generated lore and symbolism, reflecting what their excited users genuinely appreciate <a class="yt-timestamp" data-t="00:36:39">[00:36:39]</a><a class="yt-timestamp" data-t="00:37:09">[00:37:09]</a>.
+
+The Pike team actively supports and amplifies these community initiatives, even rocking Pikan PFPs themselves to show solidarity and unity <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a><a class="yt-timestamp" data-t="00:24:28">[00:24:28]</a>. This approach highlights that the team and community are "one entity" striving for the same goals <a class="yt-timestamp" data-t="00:25:05">[00:25:05]</a>.
+
+## Philosophy on Community Building
+Pike Finance's [[community_building_in_crypto | community building in crypto]] strategy prioritizes quality and meaningful interactions over vanity metrics <a class="yt-timestamp" data-t="00:35:11">[00:35:11]</a>. Inspired by Monad's approach, which built a "rabid [[community_building_in_crypto | community]] with no token and no community" initially, Pike focuses on:
+*   **Quality Conversations**: Early on, the team focused on fostering "meaningful conversations" in their Discord to entice genuine engagement, even when the community was small <a class="yt-timestamp" data-t="00:29:11">[00:29:11]</a><a class="yt-timestamp" data-t="00:29:15">[00:29:15]</a>. This prevents the chat from being diluted by "GM" spammers or bots <a class="yt-timestamp" data-t="00:28:36">[00:28:36]</a><a class="yt-timestamp" data-t="00:30:04">[00:30:04]</a>.
+*   **Value-Driven Participation**: Members are encouraged to "provide value" to the community <a class="yt-timestamp" data-t="00:29:50">[00:29:50]</a>. This ensures that discussions remain high-quality and free from superficial interactions <a class="yt-timestamp" data-t="00:30:01">[00:30:01]</a>.
+*   **Long-Term Focus**: Prioritizing community safety and fostering genuine relationships takes time, but it leads to sustainable growth and a loyal user base <a class="yt-timestamp" data-t="00:35:05">[00:35:05]</a><a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>. This contrasts with projects that optimize for short-term vanity metrics like high follower counts through easily botted quests <a class="yt-timestamp" data-t="00:35:09">[00:35:09]</a><a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a>.
+
+This [[community_building_in_crypto | community-first]] mindset helps attract builders and users who align with the project's long-term vision, rather than those solely focused on speculative gains <a class="yt-timestamp" data-t="00:41:53">[00:41:53]</a>. Pike and Monad share this alignment, which benefits user acquisition and ecosystem growth by creating passionate and excited communities <a class="yt-timestamp" data-t="00:41:34">[00:41:34]</a><a class="yt-timestamp" data-t="00:42:06">[00:42:06]</a>.
+
+## The Future of Community-Driven Growth
+As the crypto space evolves and bot engagement becomes more prevalent, the quality of [[community_building_in_crypto | community]] and organic, derivative content created by real people will increasingly stand out <a class="yt-timestamp" data-t="00:39:13">[00:39:13]</a><a class="yt-timestamp" data-t="00:39:18">[00:39:18]</a>. Projects willing to invest "man-hours" into making [[community_building_in_crypto | community events]] special and fostering genuine relationships will be recognized for their dedication <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a><a class="yt-timestamp" data-t="00:38:21">[00:38:21]</a>.
+
+Pike Finance continues to support and elevate its community members, whether they are moderators, artists, or contributors, to maintain this momentum indefinitely <a class="yt-timestamp" data-t="00:33:39">[00:33:39]</a><a class="yt-timestamp" data-t="00:33:45">[00:33:45]</a>.
