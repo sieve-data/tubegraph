@@ -5,9 +5,9 @@
 
 ---
 
-## 🔗 Web (Next.js) App
+## 🔗 Web (Quartz) App
 
-To run the TLDR Tube web application locally:
+To run the Tubegraph web application locally:
 
 ### 1. Install dependencies
 
