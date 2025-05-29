@@ -5,22 +5,23 @@ videoId: GlMQMt8pgKs
 
 From: [[blueprint.financial]] <br/> 
 
-It is a common misconception that receiving a raise might lead to taking home less money due to being "bumped into a higher tax bracket" <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. This perspective is incorrect, especially within the [[canadian_tax_system | Canadian tax system]] <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+A common [[misconceptions_about_tax_rates | misconception]] regarding income and [[tax_brackets_in_canada | tax brackets]] often leads individuals to believe that a raise could result in taking home less money due to being "bumped into a higher tax bracket" <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This perspective is based on a misunderstanding of how the [[Canadian tax structure | Canadian tax system]] operates <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
 
-## The Myth Debunked
+## A Common Misconception
 
-An employee earning $56,000 believed that a raise to $60,000 would result in less take-home pay because their current [[canadian_federal_tax_brackets | federal tax bracket]] was 15%, but crossing $57,375 would move them into a 20.5% tax bracket <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. This misunderstanding implies that all income would then be taxed at the higher rate.
+An example of this [[myths_about_higher_tax_brackets | myth]] is an individual currently earning $56,000, who believes that accepting a raise to $60,000 would decrease their net income <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. Their reasoning is that their current [[tax_brackets_in_canada | federal tax bracket]] is 15%, but crossing the $57,375 income threshold would place them into the 20.5% [[tax_brackets_in_canada | tax bracket]], thereby reducing their take-home pay <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. This is a [[myths_about_higher_tax_brackets | classic myth]] about [[tax_brackets_in_canada | tax brackets]] <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
 
-## How the Progressive Tax System Works
+## The Reality of the [[Canadian tax structure | Canadian Tax System]]
 
-Canada operates on a [[progressive_tax_system_explained | progressive tax system]] <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. This means that different portions of your income are taxed at different rates according to their respective tax brackets.
+The [[Canadian tax structure | Canadian tax system]] is a [[canadian_tax_structure | progressive tax system]] <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. This means that different portions of your income are taxed at different rates.
 
-For example:
-*   Income up to a certain threshold (e.g., $57,375) is taxed at the lower rate (e.g., 15%) <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
-*   Only the income *above* that threshold is taxed at the higher rate (e.g., 20.5%) <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+### How Progressive Taxation Works
 
-Therefore, when an individual receives a raise that pushes them into a new [[canadian_federal_tax_brackets | federal tax bracket]], only the portion of income that falls within the new bracket is taxed at the higher rate <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. The income earned below that threshold remains taxed at the lower rates <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+*   **Higher Rate Application**: The higher tax rate (e.g., 20.5%) only applies to the income earned *above* the specific threshold (e.g., $57,375) <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+*   **Lower Rate Retention**: Any income earned *below* that threshold is still taxed at the lower, original rate (e.g., 15%) <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
 
-## Conclusion
+For instance, if an individual's income crosses from the 15% bracket to the 20.5% bracket at $57,375:
+*   The first $57,375 of their income will continue to be taxed at the 15% rate <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+*   Only the portion of their income *above* $57,375 will be taxed at the 20.5% rate <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
 
-It is always financially beneficial to receive a raise because of how the [[progressive_tax_system_explained | progressive tax system]] applies [[canadian_federal_tax_brackets | tax brackets]] incrementally <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+This structure ensures that an increase in gross income will always result in an increase in net (take-home) income. Therefore, it is always [[financial_benefits_of_higher_income_despite_higher_tax_bracket | better to get a raise]] <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.

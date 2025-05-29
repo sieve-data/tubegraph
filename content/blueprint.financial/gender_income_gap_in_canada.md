@@ -1,35 +1,34 @@
 ---
-title: Gender income gap in Canada
+title: Gender Income Gap in Canada
 videoId: WRrFuzzyLoE
 ---
 
 From: [[blueprint.financial]] <br/> 
 
-In Canada, there is a notable disparity in income between men and women <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. Understanding this gap involves examining income statistics, identifying contributing factors, and considering potential strategies to address it <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+The gender income gap in Canada highlights a significant disparity in earnings between men and women. This gap represents the difference in average and median incomes, revealing systemic factors that influence financial outcomes for individuals based on gender <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
 
-## Income by Gender (2022)
+## Income Statistics by Gender (2022)
 
-In 2022, a significant income gap was observed between men and women in Canada <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>:
-*   **Men** earned an average of $66,000, with a median income of $49,800 <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>.
-*   **Women** earned an average of $48,500, with a median income of $37,700 <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
+In 2022, a noticeable income gap existed between men and women in Canada <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>:
 
-This means that men had a 36% higher average income and a 32% higher median income compared to women <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+*   **Men:**
+    *   Average Income: $66,000 <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>
+    *   Median Income: $49,800 <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>
+*   **Women:**
+    *   Average Income: $48,500 <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>
+    *   Median Income: $37,700 <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>
+
+This data indicates that men earned, on average, 36% more and had a 32% higher median income compared to women <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. This contributes to the broader [[income_distribution_and_inequality_trends_in_canada | income distribution and inequality trends in Canada]] observed in the country.
 
 ## Factors Contributing to the Gender Income Gap
 
 Several factors contribute to the persistent gender income gap in Canada <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>:
-*   **Occupational Segregation**
-    *   Men frequently work in higher-paying sectors such as finance and engineering <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
-    *   Women are more commonly found in lower-paying industries like education <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
-*   **Working Hours and Career Interruptions**
-    *   Men tend to work more full-time hours <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
-    *   Men also experience fewer career interruptions, which helps boost their overall earnings <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
-*   **Systemic Barriers**
-    *   Biases in hiring and promotion processes make it harder for women to advance in their careers and increase their earnings <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>.
-*   **Negotiation and Transparency**
-    *   Men are more likely to negotiate for higher pay <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>.
-    *   A lack of transparency regarding salaries can help maintain the existing gap <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
 
-## Addressing the Gender Pay Gap
+*   **Occupational Segregation:** Men frequently work in higher-paying sectors such as finance and engineering, while women are more often employed in lower-paying fields like education <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+*   **Work Patterns:** Men tend to work more full-time hours and experience fewer career interruptions, which positively impacts their overall earnings <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+*   **Systemic Barriers:** Biases in hiring and promotion processes can hinder women's career advancement and earning potential <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>.
+*   **Negotiation and Transparency:** Men are generally more inclined to negotiate for higher pay. Additionally, a lack of transparency regarding salaries can perpetuate the gap <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
 
-While there is no simple solution, women might consider negotiating pay more aggressively or targeting industries that are actively working to close this gap <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>.
+## Addressing the Gap
+
+To address the gender pay gap, women might consider strategies such as negotiating pay more aggressively or targeting industries that are actively working to close this disparity <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>.

@@ -5,20 +5,26 @@ videoId: jaUjvqOPCWM
 
 From: [[blueprint.financial]] <br/> 
 
-When planning your [[pension_income_splitting_strategies | Canada Pension Plan (CPP)]] strategy, it is crucial to consider how your decisions will affect your spouse or common-law partner, particularly regarding pension sharing and survivor benefits <a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a>.
+When planning your [[Tax implications of CPP payments | Canada Pension Plan (CPP)]] strategy, it is crucial to consider not only your own benefits but also how your decisions will impact your spouse or common-law partner <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
 
 ## CPP Pension Sharing
 
-[[pension_income_splitting | Pension sharing]] involves you and your spouse splitting your CPP income, which can significantly reduce your combined tax burden <a class="yt-timestamp" data-t="04:16:00">[04:16:00]</a>. For example, if one spouse receives $1,200 per month in CPP and the other receives very little, you can potentially share the CPP so that each spouse reports approximately $600 in income <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>. This strategy can lead to substantial tax savings and make your overall retirement income more efficient <a class="yt-timestamp" data-t="04:36:00">[04:36:00]</a>. Ignoring this option could result in missed [[tax_implications_of_cpp_benefits | tax savings]] that could enhance your retirement comfort <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>. Financial advisors often focus on the impact of [[pension_income_splitting_strategies | spousal CPP pension sharing]] to help partners maximize their benefits <a class="yt-timestamp" data-t="05:39:00">[05:39:00]</a>.
+[[Pension income splitting and its benefits | Pension sharing]] allows you and your spouse or common-law partner to split your [[Pension income splitting and its benefits | CPP income]] <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>. This strategy can significantly help with taxes and make your overall retirement income more efficient <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>.
+
+For instance, if one partner receives $1,200 per month in [[Pension income splitting and its benefits | CPP]] and the other receives very little, you can potentially share the [[Pension income splitting and its benefits | CPP]] so that each reports approximately $600 in income <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. This can result in substantial tax savings for both individuals <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>.
 
 ## CPP Survivor Benefit
 
-The [[cpp_death_benefits_and_their_implications | CPP Survivor benefit]] provides ongoing income to your spouse if you pass away <a class="yt-timestamp" data-t="04:44:00">[04:44:00]</a>. The amount your spouse receives is heavily influenced by when you begin receiving your CPP benefits <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>.
+The [[cpp_survivorship_pension_eligibility_and_application | CPP Survivor Benefit]] provides ongoing income to your spouse or common-law partner should something happen to you <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. The amount received by the survivor largely depends on when the deceased partner began receiving their [[Tax implications of CPP payments | CPP]] payments <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
 
-Consider the following impact of early CPP withdrawal on survivor benefits:
-*   Starting your CPP at age 60 results in a 36% reduction in your monthly benefits <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>.
-*   If your monthly benefit at age 65 would have been $1,000, starting at age 60 reduces it to $640 <a class="yt-timestamp" data-t="05:04:00">[05:04:00]</a>.
-*   Should you pass away, your spouse might receive 60% of this reduced amount, which is approximately $384 per month <a class="yt-timestamp" data-t="05:10:00">[05:10:00]</a>.
-*   This is significantly less than the $600 they could have received if you had waited until age 65 to start your CPP <a class="yt-timestamp" data-t="05:19:00">[05:19:00]</a>.
+### Impact of Early CPP on Survivor Benefits
 
-Ignoring these factors can mean your spouse has less financial support if you are no longer able to provide for them <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>.
+Starting your [[Tax implications of CPP payments | CPP]] early, for example at age 60, results in a 36% reduction in your monthly benefits <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>.
+
+Consider this example:
+*   If your [[Tax implications of CPP payments | CPP]] benefits at age 65 would have been $1,000 a month <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+*   By starting at age 60, this amount drops to $640 <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+*   If you pass away, your spouse might receive 60% of that reduced amount, which is approximately $384 per month <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>.
+*   This is a significant difference compared to the $600 per month they could have received if you had waited until age 65 <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+
+Failing to consider these factors can lead to your spouse receiving less financial support in the event of your passing or missing out on potential tax savings that could enhance your retirement comfort <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
