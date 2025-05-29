@@ -5,12 +5,12 @@ videoId: RJVf7vR5fG0
 
 From: [[rakazonegaming]] <br/> 
 
-During an "interesting high trending match" between the [[Mumbai Indians vs Chennai Super Kings | Mumbai Indians]] and [[Mumbai Indians vs Chennai Super Kings | Chennai Super Kings]], [[mahendra_singh_dhonis_role_in_the_match | Mahendra Singh Dhoni]] served as captain for the [[Mumbai Indians vs Chennai Super Kings | Chennai Super Kings]] <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
+[[mahendra_singh_dhonis_role_in_chennai_super_kings | Mahendra Singh Dhoni]], playing for Chennai Super Kings (CSK), won the toss in a match against Mumbai Indians and decided to bat first <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. His captaincy was noted during the match <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>.
 
-## Key Decisions
+During the game, it was suggested that if Dhoni were to bat, he would score significantly <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>, a sentiment reiterated later <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>.
 
-As captain, [[mahendra_singh_dhonis_role_in_the_match | Mahendra Singh Dhoni]] won the toss and elected for [[batting_and_bowling_strategies_of_the_teams | Chennai]] to bat first <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+## Match Highlights
 
-## Overview
-
-The commentary explicitly notes the presence and significance of [[mahendra_singh_dhonis_captaincy | Mahendra Singh Dhoni's captaincy]] during the game <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>.
+*   CSK won the toss and elected to bat <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+*   [[suresh_rainas_role_in_chennai_super_kings | Suresh Raina]] was mentioned in the context of the match <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
+*   [[lasith_malingas_performance_in_ipl | Lasith Malinga]] was also discussed during the game's commentary <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.

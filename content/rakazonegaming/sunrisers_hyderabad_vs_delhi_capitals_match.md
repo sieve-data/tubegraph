@@ -5,14 +5,18 @@ videoId: 6PLhp7rtzkc
 
 From: [[rakazonegaming]] <br/> 
 
-The match between Sunrisers Hyderabad and Delhi Capitals was a notable fixture <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
+The match between Sunrisers Hyderabad and [[delhi_daredevils_team_and_performance | Delhi Capitals]] was a notable fixture <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
 
-## Player Performances
+## Match Highlights
 
-[[Performance of players like Shikhar Dhawan and David Warner | Shikhar Dhawan]] was particularly praised for his play, including single rotations and consistent hitting <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. In contrast, [[Performance of players like Shikhar Dhawan and David Warner | David Warner]] was described as "scared from under his feet of fear" by Rabri <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+[[delhi_daredevils_team_and_performance | Shikhar Dhawan]] was praised for his single rotation and consistent hitting during the match <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. There was commentary on the overall team's fielding performance, noting that the whole team was involved in "appointment on the wounds" <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. A "first ball" was described as going for a significant sum, indicating a powerful shot or a crucial moment <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. One point was completed <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
 
-Mentions of players like Chris Morris and Tewatia also occurred within the commentary, with Barkat Nagar reportedly "sitting on Chris Morris seat in the lower dream" <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>, and Tewatia's unexpected presence being highlighted <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. Ishant Sharma was also mentioned as a key player for Delhi <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>.
+It was noted that [[delhi_daredevils_team_and_performance | David Warner]] appeared scared <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>. [[delhi_daredevils_team_and_performance | Ishant Sharma]] was also mentioned <a class="yt-timestamp" data-t="00:12:07">[00:12:07]</a>.
 
-## Match Outcome and Standings
+## Outcome
 
-Under the leadership of wicket digest, Delhi won their second match <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. Following this match, Delhi Capitals were positioned at the top of the standings <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>. Other teams in the standings included [[Chennai Super Kings vs Sunrisers Hyderabad match highlights | Chennai Super Kings]], [[Highlights of KXI Punjab vs Rajasthan IPL 2020 match | Kings XI Punjab]], [[Mumbai Indians vs Chennai Super Kings match | Mumbai Indians]], [[Kolkata Knight Riders vs Mumbai Indians IPL 2020 Match | Knight Riders]], and Hyderabad <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>. Rajasthan Royals and Bangalore were at the bottom after two matches <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>.
+Under the leadership of the "wicket digest," [[delhi_daredevils_team_and_performance | Delhi]] secured their second victory <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>.
+
+## League Standings
+
+Following the match, [[delhi_daredevils_team_and_performance | Delhi Capitals]] were positioned at the top of the league standings <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>. Other teams mentioned in the standings included [[chennai_super_kings_vs_sunrisers_hyderabad_match_overview | Chennai Super Kings]], [[kings_xi_punjab_vs_sunrisers_hyderabad_match | XI Punjab]], [[mumbai_industries_vs_chennai_super_kings_rivalry | Mumbai Indians]], Knight Riders Hyderabad, Rajasthan Royals, and Bangalore, with the latter two being at the bottom after two matches <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>.
