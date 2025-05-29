@@ -1,0 +1,63 @@
+---
+title: Impact of COVID19 on younger populations and long COVID
+videoId: HR_irr2zyaQ
+---
+
+From: [[foundmyfitness]] <br/> 
+
+Since the beginning of the pandemic, observations and data have evolved regarding the impact of [[Covid19 effects on children and infants | COVID-19]] on different age groups and the prevalence of long-term symptoms <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Initially, there was a perception that [[covid19_vaccines_and_efficacy | COVID-19 vaccines]] might not be necessary for young, healthy individuals <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. However, as the pandemic progressed, particularly with the emergence of the Delta variant, this understanding significantly shifted <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
+
+## Acute Impact on Younger Populations
+
+Clinical observations from critical care intensivists like Dr. Seheult highlight a concerning trend:
+*   **Increased Hospitalizations**: In the latter half of 2021, a significant increase in hospitalizations was observed among patients in their 20s and 30s, many with few comorbidities beyond being slightly overweight, who were ending up on ventilators <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. This contrasts with earlier waves where severe cases were predominantly older individuals <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+*   **Shift in Demographics**: Data from Virginia showed a marked change from January to August 2021. While elderly populations initially had very high hospitalization rates that decreased steeply for the young, by August, younger populations were being hospitalized at rates approaching half that of the elderly <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. This shift is partly attributed to higher vaccination rates in the elderly and lower rates in the young <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>.
+*   **Pediatric Cases**: Cases among children under 12, who were unable to be vaccinated, were also seen to be skyrocketing <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>.
+*   **Comparative Risk**: The hospitalization rate for pre-Delta [[Covid19 effects on children and infants | COVID-19]] in young people was approximately 0.2%, which is about 20 times higher than the flu virus's hospitalization rate of 0.01% in young people <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>.
+*   **Healthcare System Strain**: The notion of a "99% survival rate" can be misleading. Even 1% mortality in a large population like the U.S. (331 million) would mean 3.3 million deaths <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. Beyond deaths, a significant number of sick and hospitalized individuals can quickly overwhelm healthcare systems, as seen in states like Idaho, which implemented rationed care standards <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>. This leads to cancellation of elective surgeries and difficulties in handling traumas or deliveries <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+*   **Unvaccinated Status**: Critically, patients in their 30s and 40s who were hospitalized with severe COVID-19 were consistently unvaccinated <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>.
+
+## Long COVID (Post-Acute COVID Syndrome)
+
+Beyond acute illness, there is a significant concern for post-acute [[factors_affecting_immunity_duration_and_reinfection_risk_with_sarscov2 | COVID-19]] syndrome, commonly known as long COVID <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>.
+*   **Symptoms**: Long COVID symptoms range from brain fog, racing heart problems, and lethargy <a class="yt-timestamp" data-t="00:11:08">[00:11:08]</a>.
+*   **Affected Population**: Surprisingly, long COVID predominantly affects younger individuals, including those under 50, teenagers, and people in their 20s, even if their initial symptoms were mild and did not require hospitalization <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>.
+*   **Brain Atrophy**:
+    *   A pre-print study from the U.K. Biobank looked at MRI brain scans of nearly 800 individuals before and after [[Covid19 effects on children and infants | COVID-19]] infection <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>.
+    *   Preliminary findings indicated major differences and gray matter atrophy in several brain regions, most prominently in the olfactory region (consistent with loss of smell/taste), but also in areas involved in memory and learning <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>.
+    *   While severe cases showed worse atrophy, even individuals with mild cases who were not hospitalized experienced brain atrophy <a class="yt-timestamp" data-t="00:13:33">[00:13:33]</a>. This suggests long-term, not fully understood complications <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>.
+*   **Blood Clots and Strokes**:
+    *   Clinically, patients are observed to develop persistent shortness of breath and leg swelling after surviving [[Covid19 effects on children and infants | COVID-19]], leading to diagnoses of blood clots <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>. This means significant health problems can occur even if death is avoided <a class="yt-timestamp" data-t="00:15:05">[00:15:05]</a>.
+    *   Multiple studies from Israel and the United States reported young people under 50 presenting to emergency rooms with strokes <a class="yt-timestamp" data-t="00:15:11">[00:15:11]</a>. A high percentage of these young stroke patients had [[Covid19 effects on children and infants | COVID-19]], sometimes asymptomatically, without even knowing they were infected <a class="yt-timestamp" data-t="00:15:22">[00:15:22]</a>.
+    *   [[Covid19 effects on children and infants | COVID-19]] can affect the body in various ways, including causing inflammation in the lungs, blood clots in the lungs, and strokes in the brain <a class="yt-timestamp" data-t="00:15:49">[00:15:49]</a>.
+
+## Understanding Death Certificates in COVID-19
+
+There has been a misunderstanding regarding death certificates, where some interpret the CDC's statement that "For over 5% of these deaths, [[Covid19 effects on children and infants | COVID-19]] was the only cause mentioned on the death certificate" to mean that only 5% of deaths were solely caused by [[Covid19 effects on children and infants | COVID-19]] <a class="yt-timestamp" data-t="00:18:05">[00:18:05]</a>.
+
+*   **Proper Protocol**: A death certificate should list the most proximal cause of death first, followed by the underlying conditions that set it in motion <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>. For [[Covid19 effects on children and infants | COVID-19]], this means listing the direct physiological cause, such as "acute respiratory distress syndrome," with "[[Covid19 effects on children and infants | COVID-19]]" listed as the reason for that syndrome <a class="yt-timestamp" data-t="00:17:42">[00:17:42]</a>.
+*   **"Comorbidities" are Manifestations**: Many of the "comorbidities" listed, such as pneumonia, respiratory failure, or adult respiratory distress syndrome, are in fact direct manifestations or complications *caused* by [[Covid19 effects on children and infants | COVID-19]] itself, not independent conditions <a class="yt-timestamp" data-t="00:18:57">[00:18:57]</a>.
+*   **Misinterpretation**: Therefore, using this 5% figure to suggest that [[Covid19 effects on children and infants | COVID-19]] only kills people with multiple comorbidities is inaccurate <a class="yt-timestamp" data-t="00:19:42">[00:19:42]</a>.
+
+## The Spike Protein and Vaccine Safety Misconceptions
+
+The SARS-CoV-2 spike protein has become a widely known term due to its role as the virus's entry point into cells <a class="yt-timestamp" data-t="00:20:32">[00:20:32]</a>. There are concerns that because the spike protein from the virus can be dangerous, the [[Covid19 vaccines  Efficacy and safety | COVID-19 vaccines]] which prompt the body to produce spike protein are equally dangerous <a class="yt-timestamp" data-t="00:20:02">[00:20:02]</a>.
+
+*   **Structural Difference**: The key distinction is that the spike protein produced by [[Covid19 vaccines  Efficacy and safety | vaccines]] (e.g., Pfizer-BioNTech, Moderna, Johnson & Johnson, Novavax) is structurally different from the one on the actual SARS-CoV-2 virus <a class="yt-timestamp" data-t="00:23:41">[00:23:41]</a>.
+    *   Vaccines incorporate two proline amino acid insertions to lock the spike protein into a "pre-fusion" conformation <a class="yt-timestamp" data-t="00:24:00">[00:24:00]</a>. This prevents it from undergoing the conformational change (elongation and twisting) that allows the actual viral spike protein to fuse with and enter human cells <a class="yt-timestamp" data-t="00:23:50">[00:23:50]</a>.
+    *   This critical design, pioneered by Dr. Jason McLellan, ensures the [[Covid19 vaccines  Efficacy and safety | vaccine]]-produced spike protein cannot cause the same cellular damage or entry as the viral spike protein <a class="yt-timestamp" data-t="00:22:55">[00:22:55]</a>.
+*   **Viral Spike Protein Dangers**: Studies showing the viral spike protein's danger (e.g., cytotoxicity in cell cultures, lung and vascular damage in animals) cannot be directly applied to the vaccine-produced spike protein due to this structural difference <a class="yt-timestamp" data-t="00:25:08">[00:25:08]</a>.
+*   **Location and Amount**:
+    *   The SARS-CoV-2 virus, with its 26 spike proteins per viral particle, replicates in thousands of copies within infected cells and has been detected in multiple human organs including the heart, brain, cerebrospinal fluid, kidneys, GI tract, testes, and plasma <a class="yt-timestamp" data-t="00:27:06">[00:27:06]</a>.
+    *   In contrast, [[Covid19 vaccines  Efficacy and safety | mRNA vaccines]] are injected into muscle tissue. The [[Covid19 vaccines  Efficacy and safety | mRNA]] and lipid nanoparticle have short half-lives (hours to days), and the produced spike protein remains anchored to the cell surface by a transmembrane domain, preventing it from freely floating throughout circulation <a class="yt-timestamp" data-t="00:29:41">[00:29:41]</a>.
+*   **Animal Studies on Vaccine Distribution**: Concerns about [[Covid19 vaccines  Efficacy and safety | mRNA vaccines]] traveling to other organs stem partly from Pfizer safety studies in rodents <a class="yt-timestamp" data-t="00:28:45">[00:28:45]</a>. However:
+    *   Rats were given doses 10 times higher than human doses (50 micrograms vs. 30 micrograms for humans, equivalent to 4.86 micrograms for a rat) <a class="yt-timestamp" data-t="00:30:51">[00:30:51]</a>.
+    *   Even then, the radio-labeled lipid nanoparticle (not the spike protein itself) was found in other organs to a very small degree <a class="yt-timestamp" data-t="00:31:42">[00:31:42]</a>.
+    *   When mice were given a more equivalent dose (2 micrograms), the radio-labeled tag was only found in the liver and was completely gone after 48 hours <a class="yt-timestamp" data-t="00:32:09">[00:32:09]</a>. Any spillover is likely remnants being processed by the lymphatic system <a class="yt-timestamp" data-t="00:32:47">[00:32:47]</a>.
+*   **Human Studies on Spike Protein Detection**: A small human study reported S1 subunit of spike protein in plasma, but the assay had a 25% false positivity rate, rendering conclusions unreliable <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>.
+
+## Conclusion on Impact
+
+The data consistently shows that the risks associated with acute [[Covid19 effects on children and infants | COVID-19]] infection and long COVID, particularly with the Delta variant, are significant for younger populations <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>. These risks include severe illness requiring hospitalization, and a range of debilitating long-term effects like brain atrophy and blood clots, even in mild cases <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>.
+
+Ultimately, while [[Covid19 vaccines  Efficacy and safety | vaccines]] are not without *some* rare adverse effects (like myocarditis), the risk of severe outcomes, hospitalization, and death from [[Covid19 effects on children and infants | COVID-19]] infection is consistently and significantly higher across all age groups compared to the risks from [[Covid19 vaccines  Efficacy and safety | vaccination]] <a class="yt-timestamp" data-t="00:52:25">[00:52:25]</a>.

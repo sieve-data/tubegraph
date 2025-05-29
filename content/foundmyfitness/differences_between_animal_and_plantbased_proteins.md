@@ -1,0 +1,30 @@
+---
+title: Differences between animal and plantbased proteins
+videoId: r8DSpOd0NZc
+---
+
+From: [[foundmyfitness]] <br/> 
+
+Historically, [[differences_between_animal_and_plant_proteins | animal-derived proteins]] have been considered of higher quality compared to [[differences_between_animal_and_plant_proteins | plant proteins]] <a class="yt-timestamp" data-t="00:41:04">[00:41:04]</a>. [[differences_between_animal_and_plant_proteins | Animal meat]] is notably higher in essential amino acids than [[plantbased_and_animalbased_protein_sources | plant protein]] <a class="yt-timestamp" data-t="00:40:32">[00:40:32]</a>.
+
+## Historical View and Challenges of Plant Proteins
+Twenty years ago, a "fundamental truism" in the field was that [[differences_between_animal_and_plant_proteins | animal-derived proteins]] were of higher quality than [[plantbased_and_animalbased_protein_sources | plant-derived proteins]] <a class="yt-timestamp" data-t="00:41:10">[00:41:10]</a>. [[plantbased_and_animalbased_protein_sources | Plant-derived proteins]] contain anti-nutritional factors like fiber and phytates, which can inhibit protein breakdown enzymes and reduce the absorption of essential amino acids <a class="yt-timestamp" data-t="00:41:14">[00:41:14]</a>, <a class="yt-timestamp" data-t="00:41:26">[00:41:26]</a>.
+
+## Evolving Understanding of Plant Protein Quality
+Over the past two decades, this understanding has evolved <a class="yt-timestamp" data-t="00:41:04">[00:41:04]</a>. Advances in processing methods can now lower or change the fiber content in [[plantbased_and_animalbased_protein_sources | plant-based protein sources]], or isolate [[plantbased_and_animalbased_protein_sources | plant proteins]], thereby removing many anti-nutritional factors <a class="yt-timestamp" data-t="00:41:32">[00:41:32]</a>, <a class="yt-timestamp" data-t="00:41:41">[00:41:41]</a>, <a class="yt-timestamp" data-t="00:41:45">[00:41:45]</a>. While the essential amino acid content in [[differences_between_animal_and_plant_proteins | plant proteins]] is generally lower than in [[plantbased_and_animalbased_protein_sources | animal protein]], some [[plantbased_and_animalbased_protein_sources | plant-derived protein]]s, such as soy, are at the top of the plant kingdom for protein quality <a class="yt-timestamp" data-t="00:41:48">[00:41:48]</a>, <a class="yt-timestamp" data-t="00:41:57">[00:41:57]</a>.
+
+Manufactured [[plantbased_and_animalbased_protein_sources | plant-based protein sources]] are now available that are considered very high-quality proteins, alleviating concerns about consuming an "inferior source of protein" <a class="yt-timestamp" data-t="00:42:10">[00:42:10]</a>.
+
+### Compensating for Differences
+To achieve sufficient essential amino acid intake from [[plantbased_and_animalbased_protein_sources | plant proteins]], individuals can:
+*   Consume a slightly higher overall amount of [[plantbased_and_animalbased_protein_sources | plant protein]] <a class="yt-timestamp" data-t="00:43:38">[00:43:38]</a>.
+*   Utilize protein supplements or foods where anti-nutritional factors have been removed <a class="yt-timestamp" data-t="00:42:38">[00:42:38]</a>.
+*   Employ food preparation methods like sprouting, cooking, and fermentation, which liberate proteins and enhance their bioavailability, reducing anti-nutritional effects <a class="yt-timestamp" data-t="00:42:49">[00:42:49]</a>, <a class="yt-timestamp" data-t="00:44:55">[00:44:55]</a>. For example, cooking beans or peas makes them more digestible <a class="yt-timestamp" data-t="00:44:59">[00:44:59]</a>.
+
+The presence of fiber within a plant can inhibit protein absorption, but this is less of a concern when mixing animal protein like steak with fiber-rich foods like spinach <a class="yt-timestamp" data-t="00:43:57">[00:43:57]</a>, <a class="yt-timestamp" data-t="00:44:09">[00:44:09]</a>, <a class="yt-timestamp" data-t="00:44:14">[00:44:14]</a>.
+
+## Impact on [[impact_of_protein_intake_on_muscle_protein_synthesis | Muscle Protein Synthesis]]
+Recent evidence indicates that [[plantbased_and_animalbased_protein_sources | plant proteins]] can be surprisingly effective in stimulating [[impact_of_protein_intake_on_muscle_protein_synthesis | muscle protein synthesis]] <a class="yt-timestamp" data-t="00:43:45">[00:43:45]</a>. Therefore, the concern about [[differences_between_animal_and_plant_proteins | protein quality]] in terms of plant vs. animal sources is less significant than previously thought <a class="yt-timestamp" data-t="00:43:24">[00:43:24]</a>.
+
+## Broader Dietary Considerations
+While [[health_benefits_and_challenges_of_a_vegan_diet | vegan]] or [[health_benefits_and_challenges_of_a_vegan_diet | vegetarian diets]] are not necessary for good health, a judiciously planned [[impact_of_dietary_components_on_health_and_performance | omnivorous diet]] can make a significant difference <a class="yt-timestamp" data-t="01:09:02">[01:09:02]</a>. For instance, reducing [[differences_between_animal_and_plant_proteins | red meat]] intake and consuming more fish are positive dietary changes <a class="yt-timestamp" data-t="01:08:03">[01:08:03]</a>. Observational studies on protein intake and mortality, including [[impact_of_protein_on_aging_cancer_and_longevity | cancer]]-related mortality, show conflicting data <a class="yt-timestamp" data-t="01:06:02">[01:06:02]</a>. However, the largest studies suggest that individuals with no unhealthy lifestyle factors (e.g., not obese, sedentary, smoking, or excessively drinking alcohol) show similar all-cause mortality regardless of whether they consume [[plantbased_and_animalbased_protein_sources | plant protein]] or [[plantbased_and_animalbased_protein_sources | animal protein]] <a class="yt-timestamp" data-t="01:06:37">[01:06:37]</a>, <a class="yt-timestamp" data-t="01:06:58">[01:06:58]</a>. This highlights the primary importance of overall healthy lifestyle factors over specific protein sources <a class="yt-timestamp" data-t="01:07:01">[01:07:01]</a>.

@@ -1,0 +1,53 @@
+---
+title: Importance of Omega3 fatty acids for longevity
+videoId: bhkxidN2M9Q
+---
+
+From: [[foundmyfitness]] <br/> 
+
+Optimizing micronutrient status is crucial for [[macronutrients_and_longevity | longevity]] and reducing the risk of age-related diseases, including all-cause mortality, chronic infection, cardiovascular disease, and cancer <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>. Among these essential micronutrients are [[omega3_fatty_acids_and_their_health_benefits | fatty acids]] <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
+
+## Types of Omega-3 Fatty Acids <a class="yt-timestamp" data-t="00:20:30">[00:20:30]</a>
+There are three main types of [[omega3_fatty_acids_and_their_health_benefits | omega-3 fatty acids]] <a class="yt-timestamp" data-t="00:20:30">[00:20:30]</a>:
+*   **Alpha Linoleic Acid (ALA)**: Found in plant sources like flax seeds and walnuts <a class="yt-timestamp" data-t="00:20:38">[00:20:38]</a>, <a class="yt-timestamp" data-t="00:22:36">[00:22:36]</a>. ALA is considered an essential [[omega3_fatty_acids_and_their_health_benefits | fatty acid]] because the body can convert it into EPA and DHA <a class="yt-timestamp" data-t="00:22:43">[00:22:43]</a>.
+*   **Eicosapentaenoic Acid (EPA)**: A marine source found in fish and microalgae <a class="yt-timestamp" data-t="00:20:41">[00:20:41]</a>, <a class="yt-timestamp" data-t="00:20:47">[00:20:47]</a>.
+*   **Docahexanoic Acid (DHA)**: A marine source found in fish and microalgae <a class="yt-timestamp" data-t="00:20:45">[00:20:45]</a>, <a class="yt-timestamp" data-t="00:20:47">[00:20:47]</a>.
+
+## Widespread Deficiency and Health Impact
+A 2009 Harvard study identified marine sources of [[omega3_fatty_acids_and_their_health_benefits | omega-3]] as one of the top six preventable causes of death, indicating that many people do not consume enough seafood and fish <a class="yt-timestamp" data-t="00:20:54">[00:20:54]</a>. It was estimated that around 84,000 deaths per year were attributed to inadequate EPA and DHA intake, a figure comparable to deaths caused by trans fats (82,000 deaths/year) <a class="yt-timestamp" data-t="00:21:13">[00:21:13]</a>, <a class="yt-timestamp" data-t="00:21:47">[00:21:47]</a>. Globally, about 80% of people do not get enough EPA and DHA, and in the U.S., this figure is even higher at 95% <a class="yt-timestamp" data-t="00:35:08">[00:35:08]</a>.
+
+### Inefficient Conversion and Genetic Differences
+While ALA can be converted to EPA and DHA, this conversion is often very inefficient <a class="yt-timestamp" data-t="00:23:06">[00:23:06]</a>. Genetic differences play a significant role, with many individuals having a version of the desaturase gene that makes them less efficient at this conversion <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>. High intake of [[omega3_fatty_acids_and_inflammation | omega-6 fatty acids]] (common in vegetable oils and processed foods) can further hinder this conversion by competing with the necessary enzyme <a class="yt-timestamp" data-t="00:24:14">[00:24:14]</a>. However, estrogen can dramatically increase this conversion efficiency, by up to 20%, which is particularly important for brain development during pregnancy when estrogen levels skyrocket <a class="yt-timestamp" data-t="00:24:38">[00:24:38]</a>.
+
+## Measuring Omega-3 Status: The [[omega3_index_and_cardiovascular_health | Omega-3 Index]]
+To assess long-term [[omega3_fatty_acids_and_their_health_benefits | omega-3]] status, it's best to measure the [[omega3_index_and_cardiovascular_health | omega-3 index]], which reflects EPA and DHA levels in red blood cell membranes <a class="yt-timestamp" data-t="00:25:34">[00:25:34]</a>. Red blood cells turn over every 120 days, providing a longer-term snapshot compared to plasma phospholipid measurements which only reflect recent dietary intake <a class="yt-timestamp" data-t="00:26:00">[00:26:00]</a>.
+
+Research by Bill Harris, co-inventor of the [[omega3_index_and_cardiovascular_health | omega-3 fatty acid]] test, shows that most people in the U.S. have an [[omega3_index_and_cardiovascular_health | omega-3 index]] below 5% <a class="yt-timestamp" data-t="00:27:07">[00:27:07]</a>, <a class="yt-timestamp" data-t="00:27:13">[00:27:13]</a>. People with an [[omega3_index_and_cardiovascular_health | omega-3 index]] of 8% have a five-year increased life expectancy compared to those with an index of 4% <a class="yt-timestamp" data-t="00:27:23">[00:27:23]</a>. A striking finding is that smokers with a high [[omega3_index_and_cardiovascular_health | omega-3 index]] (8%) had the same life expectancy as non-smokers with a low [[omega3_index_and_cardiovascular_health | omega-3 index]] <a class="yt-timestamp" data-t="00:28:01">[00:28:01]</a>. This suggests that low [[omega3_fatty_acids_and_their_health_benefits | omega-3]] status can be as detrimental as smoking <a class="yt-timestamp" data-t="00:28:19">[00:28:19]</a>.
+
+## [[benefits_of_omega3_fatty_acids_for_human_health | Benefits of Omega-3 Fatty Acids]]
+
+### Anti-inflammatory Effects
+[[omega3_fatty_acids_and_inflammation | Omega-3 fatty acids]] accumulate in cell membranes and influence the function of transporters and receptors <a class="yt-timestamp" data-t="00:28:37">[00:28:37]</a>. Their metabolites, such as mericins, protectins, and resolvins (Specialized Pro-resolving Mediators or SPMs), play a vital [[role_of_omega3_fatty_acids_in_longevity | role of Omega-3]] in efficiently resolving [[omega3_fatty_acids_and_inflammation | inflammation]] <a class="yt-timestamp" data-t="00:29:07">[00:29:07]</a>. Chronic, low-level [[omega3_fatty_acids_and_inflammation | inflammation]] is a driver of the aging process itself, increasing the risk of cardiovascular disease, dementia, and cancer <a class="yt-timestamp" data-t="00:29:21">[00:29:21]</a>. [[omega3_fatty_acids_and_inflammation | Inflammation]] is considered the most important factor accelerating aging in both the brain (neuroinflammation) and the body <a class="yt-timestamp" data-t="00:30:24">[00:30:24]</a>.
+
+### [[benefits_of_omega3_for_brain_health | Brain Health]]
+When DHA is deficient, glucose transporters at the blood-brain barrier are altered, leading to less glucose entering the brain, which can cause numerous problems <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>. [[omega3_fatty_acids_and_their_health_benefits | Omega-3 fatty acids]] are important for [[benefits_of_omega3_for_brain_health | brain health]] throughout the lifespan, from infancy to old age <a class="yt-timestamp" data-t="00:35:23">[00:35:23]</a>. Studies show that mothers eating fish during pregnancy, correlating with higher [[omega3_fatty_acids_and_their_health_benefits | omega-3]] intake (and thus higher mercury levels, used as a biomarker for fish intake), had children with improved neurodevelopmental outcomes and intelligence <a class="yt-timestamp" data-t="00:32:27">[00:32:27]</a>, <a class="yt-timestamp" data-t="00:33:04">[00:33:04]</a>. The [[omega3_fatty_acids_and_their_health_benefits | omega-3 fatty acids]] protected against any neurotoxicity from contaminants <a class="yt-timestamp" data-t="00:32:44">[00:32:44]</a>.
+
+### Muscle Mass and [[role_of_omega3_in_sarcopenia | Sarcopenia]]
+New research suggests a [[anabolic_potential_of_omega3_fatty_acids | new role of Omega-3]] in muscle mass and sensitizing skeletal muscle to amino acids <a class="yt-timestamp" data-t="00:30:51">[00:30:51]</a>. Studies by Chris McGlory indicate that [[omega3_fatty_acids_and_their_health_benefits | omega-3]] plays an [[anabolic_potential_of_omega3_fatty_acids | anabolic]] role in reducing disuse atrophy, independent of its anti-inflammatory effects <a class="yt-timestamp" data-t="00:31:10">[00:31:10]</a>. This implies a mechanism that affects muscle protein synthesis <a class="yt-timestamp" data-t="00:31:26">[00:31:26]</a>. Maintaining muscle mass is an important factor in aging <a class="yt-timestamp" data-t="00:31:40">[00:31:40]</a>.
+
+## Dietary Sources and Supplementation
+
+### Food Sources
+The best way to get EPA and DHA is through fatty fish like salmon, mackerel, and sardines, which are good sources of [[omega3_fatty_acids_and_their_health_benefits | omega-3]] and are also low in contaminants like mercury and PCBs <a class="yt-timestamp" data-t="00:31:47">[00:31:47]</a>, <a class="yt-timestamp" data-t="00:34:04">[00:34:04]</a>. Even with contaminants present in fish, the [[omega3_fatty_acids_and_their_health_benefits | omega-3 fatty acids]] protect against their potential negative effects <a class="yt-timestamp" data-t="00:32:02">[00:32:02]</a>, <a class="yt-timestamp" data-t="00:38:21">[00:38:21]</a>.
+
+### Supplementation
+Supplementation is an important option <a class="yt-timestamp" data-t="00:34:09">[00:34:09]</a>. Taking 1.5 to 2 grams of supplemental [[omega3_fatty_acids_and_their_health_benefits | omega-3]] per day can typically increase an [[omega3_index_and_cardiovascular_health | omega-3 index]] from 4% to 8% <a class="yt-timestamp" data-t="00:34:18">[00:34:18]</a>. Doses as high as 4 grams per day of purified EPA (like Levesa or Vasepa) are prescribed and considered very safe <a class="yt-timestamp" data-t="00:34:31">[00:34:31]</a>.
+
+#### Choosing an Omega-3 Supplement
+When selecting a supplement, consider the following <a class="yt-timestamp" data-t="00:36:21">[00:36:21]</a>:
+*   **Triglyceride Form**: This form is more bioavailable and is better incorporated into cell membranes compared to ethyl ester forms <a class="yt-timestamp" data-t="00:36:29">[00:36:29]</a>.
+*   **Oxidation Status**: [[omega3_fatty_acids_and_their_health_benefits | Fish oil]] is prone to oxidation, so look for products that minimize this through isolation protocols like processing under liquid nitrogen <a class="yt-timestamp" data-t="00:37:05">[00:37:05]</a>.
+*   **Third-Party Testing**: Websites like the International Fish Oil Standards (IFOS) <a class="yt-timestamp" data-t="00:37:28">[00:37:28]</a> or Labdor <a class="yt-timestamp" data-t="00:39:24">[00:39:24]</a> provide raw data on oxidation status, mercury, and PCBs for various brands <a class="yt-timestamp" data-t="00:37:20">[00:37:20]</a>.
+*   **Concentration**: Prioritize supplements with a high concentration of EPA and DHA <a class="yt-timestamp" data-t="00:37:57">[00:37:57]</a>.
+
+While supplements may contain trace amounts of toxins, the benefits of [[omega3_fatty_acids_and_their_health_benefits | omega-3 fatty acids]] in lowering [[omega3_fatty_acids_and_inflammation | inflammation]] and promoting overall health far outweigh the potential risks <a class="yt-timestamp" data-t="00:38:21">[00:38:21]</a>.
