@@ -1,0 +1,64 @@
+---
+title: Challenges of implementing causality in research and industry
+videoId: UQ8j-DEkB98
+---
+
+From: [[causalpython]] <br/> 
+
+Dr. Naftali Weinberger, a philosopher of science, highlights the importance of understanding causality, especially its application across various time scales and in complex systems. He challenges the historical dismissal of causality, arguing for its undeniable utility in modern science and industry <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>.
+
+## Causality's Enduring Relevance
+Over 100 years ago, philosopher Bertrand Russell famously suggested that causality was a "relic of a bygone age" <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. However, Weinberger firmly disagrees, asserting that causality is not obsolete <a class="yt-timestamp" data-t="02:14:00">[02:14:00]</a>. Its scientific legitimacy should not be questioned, given its pervasive and crucial role in fields like epidemiology, sociology, and industry <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>.
+
+While Russell's stance might hold some vindication regarding its role in fundamental physics (e.g., gravitational astronomy vs. quantum mechanics) <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>, this does not negate its importance in higher-level sciences where different behaviors emerge at different scales <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
+
+## [[Challenges in implementing causal analysis in practice | Challenges in Implementing Causal Analysis in Practice]]
+
+### The Significance of Time Scale
+A central theme in Weinberger's work is the importance of considering causation at different time scales <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a>. Just as in physics (quantum vs. Newtonian) or biology (cell vs. systems biology), causal relationships can differ depending on the spatio-temporal scale at which a system is observed <a class="yt-timestamp" data-t="02:52:00">[02:52:00]</a>. This concept has not been systematically addressed in the causal context <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>.
+
+For example, flossing might cause gums to bleed initially, but daily flossing prevents bleeding over time <a class="yt-timestamp" data-t="04:00:00">[04:00:00]</a>. Similarly, rainfall is typically considered exogenous to crop growth over short periods, but over centuries, agricultural practices can influence climate and rainfall, creating a feedback loop <a class="yt-timestamp" data-t="11:47:00">[11:47:00]</a>. The issue arises when one extrapolates causal models across different time scales <a class="yt-timestamp" data-t="13:12:00">[13:12:00]</a>.
+
+### Hidden Confounders and Background Factors
+A major concern in industry, especially for those new to causality, is the presence of hidden confounders <a class="yt-timestamp" data-t="05:05:00">[05:05:00]</a>. Weinberger argues that assuming no hidden confounders is a very strong implicit assumption <a class="yt-timestamp" data-t="06:31:00">[06:31:00]</a>. Experiments can help remove the influence of confounders by design <a class="yt-timestamp" data-t="06:39:00">[06:39:00]</a>.
+
+Long-term, constant factors are not necessarily confounders; they can be treated as background context or pre-conditions for a model's application, akin to an intercept in a statistical model <a class="yt-timestamp" data-t="08:18:00">[08:18:00]</a>. However, these background variables can become problematic if they are assumed constant on a shorter time scale but exhibit dynamics over a longer period, making them exogenous in one context but part of a feedback loop in another <a class="yt-timestamp" data-t="10:04:00">[10:04:00]</a>.
+
+## Causality in Complex Systems and Emergence
+When discussing complex systems and emerging phenomena, the concept of scale is crucial <a class="yt-timestamp" data-t="15:45:00">[15:45:00]</a>. Weinberger suggests that much of what is called "emergence" can be understood by recognizing that causal relationships are relative to a time scale <a class="yt-timestamp" data-t="16:37:00">[16:37:00]</a>. Patterns of regularity can emerge at a higher level of description, even if the lower level appears chaotic <a class="yt-timestamp" data-t="16:55:00">[16:55:00]</a>. The "puzzles" of emergence often dissolve when systems are viewed not as different "levels" of the same object, but as different "objects" resulting from zooming in and out (e.g., a thermostat-regulated room, where turning on an oven has a short-term but not a long-term effect on temperature) <a class="yt-timestamp" data-t="18:45:00">[18:45:00]</a>.
+
+### Defining Causality: An Interventionist Approach
+As a philosopher, Weinberger approaches causality methodologically, aligning with scholars like Nancy Cartwright and Jim Woodward, who emphasize "causal laws and effective strategies" <a class="yt-timestamp" data-t="21:07:00">[21:07:00]</a>. The core idea is that causal knowledge is essential for understanding the difference between mere prediction and the ability to intervene on a system to achieve desired outcomes <a class="yt-timestamp" data-t="21:15:00">[21:15:15]</a>. This interventionist view, often linked to the "do-operator," forms the foundation for many algorithms in causal discovery <a class="yt-timestamp" data-t="21:53:00">[21:53:00]</a>.
+
+The effectiveness of causal methods is presumed to derive from real-world features, allowing us to learn about the nature of causation and the world by studying these methods <a class="yt-timestamp" data-t="22:29:00">[22:29:00]</a>.
+
+### The Problem of Making Assumptions
+A common [[Challenges in implementing causal analysis in practice | challenge]] and fear for those starting with causality is the possibility of building a "wrong" causal graph (DAG) <a class="yt-timestamp" data-t="35:47:00">[35:47:00]</a>. However, if one aims to make causal claims or model interventions, causal assumptions are necessary, whether explicitly stated or implicitly made <a class="yt-timestamp" data-t="36:30:00">[36:30:00]</a>. Explicitly building a model, even if wrong, provides a valuable learning opportunity to modify and improve it <a class="yt-timestamp" data-t="38:30:00">[38:30:00]</a>.
+
+In causal models, the absence of an arrow between two variables, or the absence of a common cause, represents a very strong assumption <a class="yt-timestamp" data-t="34:43:00">[34:43:00]</a>. As Cartwright stated, "no causes in, no causes out" <a class="yt-timestamp" data-t="35:17:00">[35:17:00]</a> – causal conclusions require causal assumptions. The value of causal models lies in their ability to make these assumptions systematic and explicit, simplifying the complex world into a manageable, tractable form <a class="yt-timestamp" data-t="35:31:00">[35:31:00]</a>.
+
+## Interventions in Dynamical Systems
+In his 2018 paper "Intervening and Letting Go," Weinberger, along with Clark Glymour and Dan Hyman, explored how different types of interventions in dynamical systems lead to different outcomes <a class="yt-timestamp" data-t="40:42:00">[40:42:00]</a>. Using the ideal gas system example (sealed container vs. movable piston), he illustrates that equilibrium models, which describe system states, can be qualitatively different <a class="yt-timestamp" data-t="45:29:00">[45:29:00]</a>.
+
+The standard "do-operator" formalizes an intervention as holding a variable fixed indefinitely ("clamp intervention") <a class="yt-timestamp" data-t="46:18:00">[46:18:00]</a>. This differs from "shock interventions" that influence a variable for only one time step <a class="yt-timestamp" data-t="50:06:00">[50:06:00]</a>. When a clamp intervention is applied to a system with internal feedback loops (like a movable piston gas), it can destroy the system's ability to reach certain equilibrium states <a class="yt-timestamp" data-t="46:38:00">[46:38:00]</a>. This reveals a "blind spot" in the structural causal model formalism regarding the dynamic nature of interventions <a class="yt-timestamp" data-t="47:42:00">[47:42:00]</a>.
+
+Ultimately, understanding how interventions and expected effects are linked to durations and time scales is crucial for real-world [[Practical applications of causal methods | applications]], such as chemotherapy, where the goal is to change the system's stability properties and influence feedback loops to bring it to a new equilibrium <a class="yt-timestamp" data-t="51:14:00">[51:14:00]</a>.
+
+## Bridging Perspectives and Moving Forward
+
+### Integrating Dynamic and Causal Models
+Significant work is being done to bridge the gap between differential equations (used in dynamic models) and the Pearl framework of interventions. Researchers like those at the UR Mo lab at the University of Amsterdam are making strides in understanding the relationship between causal representations at equilibrium and away from equilibrium <a class="yt-timestamp" data-t="53:02:00">[53:02:00]</a>. This connection allows for a causal interpretation of dynamic systems, especially when differential equations can be written in a canonical way, generalizing the standard causal framework <a class="yt-timestamp" data-t="54:55:00">[54:55:00]</a>.
+
+### Beyond Big Data: The Human Element
+The "Big Data Revolution" fostered an idea that collecting enough data could solve any problem through prediction <a class="yt-timestamp" data-t="56:11:00">[56:11:00]</a>. Weinberger expresses suspicion of this "throw lots of data in something and see what comes out" approach, as causality is about making assumptions to manage the world's complexity in a localized way <a class="yt-timestamp" data-t="57:08:00">[57:08:00]</a>. While empirical evidence is needed to determine the best approach for complex tasks like large language models, causal reasoning offers a different, arguably more human-like, way of understanding and interacting with the world <a class="yt-timestamp" data-t="58:52:00">[58:52:00]</a>.
+
+### Overcoming [[Communication challenges in causal inference | Challenges in Communication]]
+The field of causality faces [[Challenges and solutions for adopting causal ML in different fields | challenges in adoption]] and communication. Different "clans" (e.g., potential outcomes vs. causal graphs, epidemiology vs. econometrics vs. computer science) often discuss the same concepts using slightly different terminology, necessitating a "dictionary" to translate ideas <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>. Opening these discussions is crucial for advancing the field and promoting the [[Application of causal methods in industry | application of causal methods in industry]] <a class="yt-timestamp" data-t="11:53:00">[11:53:00]</a>. Many problems already solved in one niche remain unknown in another <a class="yt-timestamp" data-t="12:02:00">[12:02:00]</a>.
+
+### Advice for Aspiring Causal Practitioners
+For those starting in causality, Weinberger advises finding an aspect that genuinely interests them and relates to their existing passions <a class="yt-timestamp" data-t="01:05:28">[01:05:28]</a>. Resources like *The Book of Why* or specialized articles on topics like d-separation and causal inference algorithms can provide entry points <a class="yt-timestamp" data-t="01:06:07">[01:06:07]</a>. The field is vast, with many avenues to explore, and it's important not to "overthink where you start" <a class="yt-timestamp" data-t="01:07:06">[01:07:06]</a>.
+
+## The Future of Causality
+Weinberger believes that the discussion around [[Causality and its role in industrial and manufacturing processes | causality]] has "just gotten started" <a class="yt-timestamp" data-t="01:09:47">[01:09:47]</a>. There are still many questions not being asked, especially regarding the conditions under which causal models apply, such as the relativity of exogeneity to time scale <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>. He encourages researchers not to view model limitations as criticisms, but as opportunities to understand where models break down and how to fix them <a class="yt-timestamp" data-t="01:20:17">[01:20:17]</a>.
+
+While it is difficult to predict whether causality is a fleeting trend or a lasting paradigm in industry, Weinberger asserts its inherent value <a class="yt-timestamp" data-t="01:21:06">[01:21:06]</a>. People in industry often care about intervening and understanding invariant correlations, which traditional statistics and correlations alone cannot provide <a class="yt-timestamp" data-t="01:21:35">[01:21:35]</a>. The core [[Challenges in Evaluating Causal Models | challenge]] lies not in demonstrating causality's usefulness, but in its [[Challenges in implementing causal analysis in practice | implementation]] and integration into existing workflows and incentives <a class="yt-timestamp" data-t="01:22:25">[01:22:25]</a>.

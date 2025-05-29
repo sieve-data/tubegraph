@@ -1,0 +1,32 @@
+---
+title: Logical reasoning in large language models
+videoId: zFeAtV7AN0A
+---
+
+From: [[causalpython]] <br/> 
+
+The topic of [[large_language_models_and_causation | large language models]]' (LLMs) capacity for logical reasoning was a key discussion point at the Workshop on [[workshop_on_large_language_models_and_causality_at_aaai_2024 | Large Language Models and Causality at AAAI 2024]].
+
+## Henrik Bengtsson's Insights
+Henrik Bengtsson from UCLA delivered a talk titled "Symbolic Reasoning for [[large_language_models_and_causality | Large Language Models]]" <a class="yt-timestamp" data-t="00:17:02">[00:17:02]</a>. His presentation addressed fundamental questions regarding LLMs' ability to perform logical reasoning <a class="yt-timestamp" data-t="00:17:20">[00:17:20]</a>.
+
+Key points from his talk include:
+*   **Logical Reasoning Ability** LLMs can perform logical reasoning, such as understanding transitivity (if A causes B and B causes C, then A should cause C) <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>, <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>.
+*   **Adherence to Logical Deduction Rules** While LLMs can perform well on simple logic benchmarks, their performance significantly declines when the benchmark is slightly modified <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>, <a class="yt-timestamp" data-t="00:17:59">[00:17:59]</a>. On unmodified benchmarks, they might achieve nearly 100% accuracy <a class="yt-timestamp" data-t="00:18:05">[00:18:05]</a>.
+*   **The "Mind Blown" Theorem** A significant theorem presented states that Transformer parameters *can* be set to compute the ground truth reasoning function, meaning they can accurately mirror the data generating process <a class="yt-timestamp" data-t="00:18:18">[00:18:18]</a>, <a class="yt-timestamp" data-t="00:18:44">[00:18:44]</a>, <a class="yt-timestamp" data-t="00:18:52">[00:18:52]</a>.
+*   **The Shortcut Learning Problem** Despite this theoretical capability, if LLMs start with these "exact solution" weights and are then fine-tuned on empirical data using regular [[training_paradigms_for_large_language_models | training paradigms]], they tend to "unlearn" the correct solution and instead learn a "shortcut" <a class="yt-timestamp" data-t="00:19:05">[00:19:05]</a>, <a class="yt-timestamp" data-t="00:19:13">[00:19:13]</a>. This is considered a very powerful result <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a> and is relevant to the broader discussion on shortcut learning in machine learning <a class="yt-timestamp" data-t="00:19:27">[00:19:27]</a>. This idea could potentially be adopted for finding adequate causal graphs <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>.
+
+## Abstraction and Reasoning Tasks
+Alessandro Palmarini's talk focused on comparing humans, GPT-4, and GPT-4V on abstraction and reasoning tasks <a class="yt-timestamp" data-t="00:20:14">[00:20:14]</a>. The work, co-authored by Melanie Mitchell, revealed that GPT-4 performed poorly on the ARC Benchmark, achieving only about 25% accuracy <a class="yt-timestamp" data-t="00:20:37">[00:20:37]</a>, <a class="yt-timestamp" data-t="00:20:46">[00:20:46]</a>. While humans aren't perfect, they still outperformed GPT-4 and GPT-4V on these tasks <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>, <a class="yt-timestamp" data-t="00:20:53">[00:20:53]</a>. Attempts to improve GPT-4/GPT-4V's performance through prompting did not significantly increase their results <a class="yt-timestamp" data-t="00:21:03">[00:21:03]</a>. This type of benchmark could potentially be modified to serve as a [[causality_and_large_language_models | causal benchmark]] <a class="yt-timestamp" data-t="00:21:14">[00:21:14]</a>.
+
+## Participant Skepticism and Survey Results
+During the Open Stage session, participants shared diverse views. Some suggested it might be too early to definitively conclude whether LLMs can reason causally, proposing that current probing methods might be insufficient <a class="yt-timestamp" data-t="00:26:26">[00:26:26]</a>. Others expressed skepticism, noting that LLMs are fundamentally designed to predict the next word, raising questions about their ability to build a causal model of the world <a class="yt-timestamp" data-t="00:26:46">[00:26:46]</a>.
+
+A survey conducted before and after the workshop revealed a shift in participant beliefs:
+*   **"Do you believe that LLMs can reason causally?"** Before the workshop, opinions were nearly split 50/50. After the workshop, this shifted to approximately 2/3 believing they can, and 1/3 believing they cannot <a class="yt-timestamp" data-t="00:27:11">[00:27:11]</a>, <a class="yt-timestamp" data-t="00:27:21">[00:27:21]</a>.
+*   **"Are implicit causal World models part of what LLMs have learned?"** Initially, about 75-76% said yes <a class="yt-timestamp" data-t="00:27:46">[00:27:46]</a>. After the workshop, this decreased to 63% saying yes, with 36% saying no (up from 23% before) <a class="yt-timestamp" data-t="00:27:51">[00:27:51]</a>, <a class="yt-timestamp" data-t="00:28:01">[00:28:01]</a>.
+
+This suggests that the workshop made participants more skeptical about the capabilities of LLMs regarding implicit causal models <a class="yt-timestamp" data-t="00:28:08">[00:28:08]</a>. This increased skepticism is seen as positive, as it can drive further research and inquiry into these questions <a class="yt-timestamp" data-t="00:28:18">[00:28:18]</a>. The apparent paradox—that many believe LLMs learn implicit causal models yet are skeptical about their ability to *reason* causally—highlights the distinction, as explored in the "causal parrot" concept, that [[large_language_models_llms_learning_limitations | LLMs may talk causality but are not causal]] <a class="yt-timestamp" data-t="00:29:07">[00:29:07]</a>, <a class="yt-timestamp" data-t="00:29:11">[00:29:11]</a>.
+
+## Future Directions
+The discussion regarding logical reasoning in LLMs highlights open questions, such as exploring alternative architectures like Mamba for [[application_of_large_language_models_llms_in_causal_discovery | causal inference]] <a class="yt-timestamp" data-t="00:30:12">[00:30:12]</a>, <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>. The internal structure of such models could lead to different learning behaviors regarding causality <a class="yt-timestamp" data-t="00:30:33">[00:30:33]</a>.

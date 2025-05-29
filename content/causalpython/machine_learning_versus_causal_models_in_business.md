@@ -1,0 +1,73 @@
+---
+title: Machine learning versus causal models in business
+videoId: y59_XLOnmgI
+---
+
+From: [[causalpython]] <br/> 
+
+Matheus Fauri, an author and staff data scientist at one of Brazil's largest banks, asserts that while [[machine_learning_and_causality | machine learning]] predictive models are valuable, businesses ultimately seek to make better decisions rather than merely obtaining predictions <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. This shift from prediction to decision-making highlights the crucial role of [[causal_ai_in_business_applications | causal AI in business applications]] <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+
+## The Shift from Prediction to Decision-Making
+
+Fauri's realization about the value of [[causal_inference_and_machine_learning | causal inference]] came from working with traditional predictive models <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. While a predictive model might output an interesting number, it doesn't inherently guide subsequent actions <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. Companies typically want to transform that number into a decision <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+
+He illustrates this with a debt collection scenario: a predictive model could accurately forecast the probability of someone paying their debts <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. However, it didn't clarify *who* to target – those highly likely to pay, or those unlikely <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. A predictive [[machine_learning_and_causal_inference_methodologies | machine learning approach]] does not fully answer how to transform a probability into an optimized decision for the company <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>. This problem extends beyond debt collection to many industrial applications <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>.
+
+## Why Invest in Causal Models?
+
+When asked why companies should invest in causal models if they already use [[machine_learning_and_causality | machine learning]], Fauri emphasizes that businesses are not primarily interested in pure prediction <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. They care about decisions that increase customers, conversions, profitability, or cut costs <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. In such optimization contexts, a predictive model is only a small component <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+
+Instead of overtly mentioning "[[causal_inference_and_machine_learning | causal inference]]", Fauri suggests framing the value proposition as enabling better decision-making on top of existing predictions <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. A very effective way to sell this is through "personalization," which directly translates to "treatment effect heterogeneity" in causal inference <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>. While predictive models suffice for tasks like fraud detection, where the output (fraudulent transaction) directly leads to an action <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>, situations requiring decision execution—like setting prices, targeting ads, or making calls—naturally call for [[causal_inference_and_machine_learning | causal inference]] <a class="yt-timestamp" data-t="00:08:25">[00:08:25]</a>.
+
+## Matheus's Path to Causal Inference
+
+Fauri, coming from an economics background, initially worked with traditional data science and predictive modeling <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>. He learned the value of [[causal_inference_and_machine_learning | causal inference]] the "hard way" when predictive models, despite improving in metrics like AUC or R-squared, failed to deliver tangible business improvements like increased revenue or profitability <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. They realized they were misclassifying the problem as purely predictive when it was a decision-making process requiring a causal framework <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
+
+A significant hurdle was the "language barrier" between econometrics (his background) and data science <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>. It took him about two years to articulate [[causal_inference_and_machine_learning | causal inference]] problems in a way that data scientists could understand <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. While he gravitates towards the potential outcomes framework from econometrics, he uses graphical models (like Judea Pearl's approach) primarily for formalizing problems and communicating assumptions to technical teams <a class="yt-timestamp" data-t="00:12:09">[00:12:09]</a>.
+
+## Challenges in Causal Machine Learning in Industry
+
+Matheus Fauri highlights several [[challenges_in_causal_machine_learning_compared_to_traditional_methods | challenges in causal machine learning compared to traditional methods]] encountered in his work:
+
+*   **Confounding**: For Fauri, confounding is often not the primary issue because he works in settings where companies can actively intervene and randomize treatments (e.g., sending an email, changing a price) <a class="yt-timestamp" data-t="00:16:06">[00:16:06]</a>. This allows for natural experiments that isolate the impact of variables <a class="yt-timestamp" data-t="00:17:37">[00:17:37]</a>.
+*   **Effect Heterogeneity (Personalization)**: The main challenge is understanding *who* will benefit most from a specific action <a class="yt-timestamp" data-t="00:17:58">[00:17:58]</a>. For example, in debt collection, determining which customer type should be called first to maximize payment probability, or in cross-selling, identifying who is most likely to convert to a prime credit card <a class="yt-timestamp" data-t="00:18:08">[00:18:08]</a>. This moves beyond average effects to personalized interventions <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>.
+*   **Non-linearity**: Dealing with non-linear relationships is difficult <a class="yt-timestamp" data-t="00:19:34">[00:19:34]</a>. For instance, the impact of credit lines on default probability is not linear; it increases but then saturates <a class="yt-timestamp" data-t="00:19:51">[00:19:51]</a>.
+*   **Evaluation Metrics**: One of the toughest [[evaluating_and_explaining_causal_models_in_industry | challenges in evaluating causal models in industry]] is developing reliable metrics for causal models <a class="yt-timestamp" data-t="00:20:13">[00:20:13]</a>. Causal quantities are unobservable, making it hard to apply traditional [[machine_learning_and_causal_inference_methodologies | machine learning]] cross-validation or feature selection easily <a class="yt-timestamp" data-t="00:20:35">[00:20:35]</a>. Fauri aims to adapt the "meat grinder" framework (trying many models and picking the best based on performance) for causal inference, but this requires robust causal evaluation metrics <a class="yt-timestamp" data-t="00:20:57">[00:20:57]</a>.
+    *   **Trusting Data for Evaluation**: The key lesson in [[evaluating_and_explaining_causal_models_in_industry | evaluating causal models]] is the necessity of randomized data for trustworthy evaluation <a class="yt-timestamp" data-t="00:22:04">[00:22:04]</a>. Even if the training data is imperfect, a clean, unbiased validation set (e.g., from an A/B test) is crucial to confidently assess a causal model's performance <a class="yt-timestamp" data-t="00:22:52">[00:22:52]</a>.
+*   **Selection Bias (Collider Bias)**: This is a less intuitive challenge. Fauri gives the example of estimating the impact of interest rates on loan size <a class="yt-timestamp" data-t="00:34:54">[00:34:54]</a>. If most customers don't take a loan (zero loan amount), directly estimating the effect on all customers dilutes it <a class="yt-timestamp" data-t="00:35:52">[00:35:52]</a>. Filtering only for customers who *converted* (took a loan) introduces selection bias because conversion is a collider <a class="yt-timestamp" data-t="00:36:28">[00:36:28]</a>. However, surprisingly, by multiplying the effect of price on conversion and the (biased) effect of price on loan amount given conversion, the bias can disappear <a class="yt-timestamp" data-t="00:37:10">[00:37:10]</a>. This non-intuitive mathematical truth allows breaking down complex problems into manageable parts <a class="yt-timestamp" data-t="00:37:42">[00:37:42]</a>.
+
+## Causal Inference and Reinforcement Learning
+
+Fauri believes that [[causal_inference_and_machine_learning | reinforcement learning]] is a "flavor of [[causal_inference_and_machine_learning | causal inference]]" or vice versa <a class="yt-timestamp" data-t="00:24:07">[00:24:07]</a>. Both involve optimizing an action (treatment) to maximize an outcome, given environmental information (covariates) <a class="yt-timestamp" data-t="00:24:28">[00:24:28]</a>. This commonality allows leveraging techniques like "offline policy evaluation" from reinforcement learning <a class="yt-timestamp" data-t="00:25:25">[00:25:25]</a>. This technique allows evaluating a new policy (set of decisions) based on past data, even if that policy was never deployed <a class="yt-timestamp" data-t="00:25:29">[00:25:29]</a>.
+
+However, reinforcement learning agents can be susceptible to confounding <a class="yt-timestamp" data-t="00:32:00">[00:32:00]</a>. If an agent learns from its own past, potentially biased, decisions, it might learn correlations instead of causation <a class="yt-timestamp" data-t="00:28:01">[00:28:01]</a>. Fauri advocates for a "human in the loop" to debias data before retraining the model, for example, by making actions probabilistic rather than deterministic and using propensity scores to correct biases <a class="yt-timestamp" data-t="00:29:07">[00:29:07]</a>.
+
+## Deploying Causal Models at Scale (CausalOps)
+
+For deploying [[application_of_causal_models_in_biology_and_AI | causal models in business applications]], Fauri advises treating them as much as possible like standard [[machine_learning_and_causal_inference_methodologies | machine learning]] models <a class="yt-timestamp" data-t="00:31:13">[00:31:13]</a>. Most traditional MLOps recommendations apply <a class="yt-timestamp" data-t="00:31:17">[00:31:17]</a>. The primary goal in these cases is to predict the *impact* a treatment will have for each person (causal treatment effect heterogeneity), which is still a predictive task, albeit for an unobservable quantity <a class="yt-timestamp" data-t="00:30:43">[00:30:43]</a>.
+
+A significant practical challenge is the efficiency of current causal inference libraries <a class="yt-timestamp" data-t="00:31:39">[00:31:39]</a>. Many causal models are implemented in pure Python, making them too slow for large-scale production deployment compared to [[machine_learning_and_causal_inference_methodologies | machine learning]] models with C++ backends <a class="yt-timestamp" data-t="00:32:08">[00:32:08]</a>. For example, causal trees, despite being fascinating, are often too slow for practical use <a class="yt-timestamp" data-t="00:31:58">[00:31:58]</a>.
+
+## The Future of Causal AI is Now
+
+Fauri argues that [[causal_inference_and_machine_learning | causal inference]] is becoming essential because companies have amassed data science capabilities and predictive models that only partially solve business problems <a class="yt-timestamp" data-t="00:48:27">[00:48:27]</a>. The core goal is not just good models or predictions, but effective decision-making <a class="yt-timestamp" data-t="00:48:18">[00:48:18]</a>. [[Causal_AI_in_business_applications | Causal AI]] provides a natural and seamless framework to integrate decision-making with [[machine_learning_and_causality | machine learning]], allowing companies to "supercharge" their data science to output optimized decisions <a class="yt-timestamp" data-t="00:48:52">[00:48:52]</a>.
+
+## Advice for Beginners
+
+For data scientists starting with [[causal_inference_and_machine_learning | causal inference]], Fauri advises focusing on the "bigger system" <a class="yt-timestamp" data-t="00:44:24">[00:44:24]</a>. While prediction is fascinating, it's only one piece of the puzzle <a class="yt-timestamp" data-t="00:44:57">[00:44:57]</a>. The motivation should come from the thrill of making better decisions, not just better predictions <a class="yt-timestamp" data-t="00:45:36">[00:45:36]</a>.
+
+Recommended resources include:
+*   Books that summarize [[causal_inference_and_machine_learning | causal inference]] (like Fauri's or Alex's) <a class="yt-timestamp" data-t="00:46:00">[00:46:00]</a>.
+*   The American Economics Association webcasts on econometrics, particularly the one by Joshua Angrist and Alberto Abadie from 2020, which provides fundamental theoretical understanding of treatment effects, counterfactuals, and problem framing <a class="yt-timestamp" data-t="00:46:42">[00:46:42]</a>.
+
+## Non-Technical Skills
+
+Fauri highlights writing as a crucial non-technical skill <a class="yt-timestamp" data-t="01:08:11">[01:08:11]</a>. Being able to structure thoughts clearly in written or spoken form, and effectively communicate complex technical challenges without "dumbing it down" to diverse stakeholders (managers, engineers, product teams), is invaluable <a class="yt-timestamp" data-t="01:08:15">[01:08:15]</a>.
+
+## Thanking the Community
+
+Fauri expresses gratitude to the academic causal community, particularly Joshua Angrist, for his exceptional teaching <a class="yt-timestamp" data-t="01:09:31">[01:09:31]</a>. He also thanks Pedro and Carlos Cava, Nick, and Shan, along with other researchers like Casper and Peter H, for their kindness, openness, and accessibility in providing feedback and guidance <a class="yt-timestamp" data-t="01:09:56">[01:09:56]</a>.
+
+## Causal Python Community
+
+The [[causal_inference_and_machine_learning | causal Python community]] is in a strong position due to Python's practicality for application and deployment <a class="yt-timestamp" data-t="01:04:47">[01:04:47]</a>. Libraries like ECHL and DoWhy are maturing as standard models, and the existing [[machine_learning_and_causal_inference_methodologies | machine learning]] environment in Python further supports applied causal analysis, especially in the tech industry <a class="yt-timestamp" data-t="01:04:14">[01:04:14]</a>.

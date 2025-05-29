@@ -1,0 +1,41 @@
+---
+title: Role of radiologists versus AI in medical imaging
+videoId: ofAtKK6O2dE
+---
+
+From: [[causalpython]] <br/> 
+
+The integration of artificial intelligence (AI) in medical imaging has sparked considerable debate regarding the future role of human radiologists. While some, like Jeffrey Hinton, predicted as early as 2016 that deep learning would outperform radiologists within five years, many in the medical imaging community and radiologists themselves respectfully disagree, noting that eight years later, AI has not replaced them <a class="yt-timestamp" data-t="02:02:00">[02:02:00]</a>, <a class="yt-timestamp" data-t="02:16:17">[02:16:17]</a>, <a class="yt-timestamp" data-t="02:20:00">[02:20:00]</a>.
+
+## Human Expertise: Beyond Image Analysis
+
+The job of a radiologist extends far beyond merely identifying lesions or measuring anatomical features, such as the circumference of a baby's head in an ultrasound <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>, <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. Key aspects that humans excel at include:
+*   **Decision-making and Evaluation**: Radiologists are responsible for evaluating findings and making complex decisions, often involving life-and-death situations <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a>, <a class="yt-timestamp" data-t="03:40:00">[03:40:00]</a>, <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>.
+*   **Associative Reasoning**: The human brain, with years of experience gained through medical school and training (10+ years), is adept at finding subtle and seemingly irrelevant associations between different elements in an image that are crucial for an accurate diagnosis <a class="yt-timestamp" data-t="03:08:00">[03:08:00]</a>, <a class="yt-timestamp" data-t="03:20:00">[03:20:00]</a>.
+*   **Trust and Robustness**: Current machine learning systems are not yet capable of making such critical decisions robustly or in a trustworthy manner <a class="yt-timestamp" data-t="03:47:00">[03:47:00]</a>, <a class="yt-timestamp" data-t="03:56:00">[03:56:00]</a>.
+
+## Challenges for AI in Medical Imaging
+
+The vision of AI replacing radiologists faces significant technical, legal, and ethical hurdles <a class="yt-timestamp" data-t="04:11:00">[04:11:00]</a>, <a class="yt-timestamp" data-t="04:16:00">[04:16:00]</a>.
+
+### Data Quality and Bias
+A primary challenge is the quality and representativeness of data <a class="yt-timestamp" data-t="06:00:00">[06:00:00]</a>, <a class="yt-timestamp" data-t="06:06:00">[06:06:00]</a>. For instance, early in the COVID-19 pandemic, some AI tools built to detect the virus were inadvertently classifying X-rays based on their origin (China vs. US) rather than actual COVID-19 presence, due to dataset biases <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>, <a class="yt-timestamp" data-t="06:50:00">[06:50:00]</a>. Furthermore, variations exist in medical images even from the same machine across different hospitals, introducing unobserved confounding elements that affect diagnosis <a class="yt-timestamp" data-t="07:18:00">[07:18:00]</a>, <a class="yt-timestamp" data-t="07:43:00">[07:43:00]</a>.
+
+### Legal and Ethical Considerations
+Medical diagnoses are life-affecting decisions <a class="yt-timestamp" data-t="04:23:00">[04:23:00]</a>, <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>. If an AI makes a wrong diagnosis, the question of accountability (model, company, or doctor?) remains unresolved in society <a class="yt-timestamp" data-t="04:30:00">[04:30:00]</a>, <a class="yt-timestamp" data-t="04:44:00">[04:44:00]</a>. This means a complete replacement of radiologists by AI systems is not yet feasible.
+
+### [[Causality in AI | Causality]] in System Building
+[[Causality in AI]] is crucial and must be considered throughout the entire system development process, not just in the modeling phase <a class="yt-timestamp" data-t="08:00:00">[08:00:00]</a>, <a class="yt-timestamp" data-t="08:08:00">[08:08:00]</a>. This includes data collection, parameter selection, data modeling, and ensuring the final system is robust when served to the end-customer <a class="yt-timestamp" data-t="08:10:00">[08:10:00]</a>, <a class="yt-timestamp" data-t="08:20:00">[08:20:00]</a>.
+
+### Assumptions in Models
+All AI models, including deep learning, are built on assumptions. While deep learning may relax some assumptions, others are often forgotten, leading to problems <a class="yt-timestamp" data-t="15:54:00">[15:54:00]</a>, <a class="yt-timestamp" data-t="16:01:00">[16:01:00]</a>, <a class="yt-timestamp" data-t="16:31:00">[16:31:00]</a>. [[Causal AI and machine learning intersection | Causal inference]], however, makes its assumptions explicit, allowing them to be tested and discussed <a class="yt-timestamp" data-t="16:37:00">[16:37:00]</a>, <a class="yt-timestamp" data-t="16:50:00">[16:50:00]</a>, <a class="yt-timestamp" data-t="16:57:00">[16:57:00]</a>. A notable example is the often-untrue assumption of Euclidean latent spaces in models like Variational Autoencoders (VAEs), which led to the development of hyperbolic machine learning models <a class="yt-timestamp" data-t="17:16:00">[17:16:00]</a>, <a class="yt-timestamp" data-t="18:32:00">[18:32:00]</a>.
+
+## Technology Readiness Levels (TRLs) in Medical AI
+
+Technology Readiness Levels (TRLs), originally from the US military and adopted by entities like NASA, provide a framework for developing and evaluating technology readiness <a class="yt-timestamp" data-t="10:57:00">[10:57:00]</a>, <a class="yt-timestamp" data-t="11:13:00">[11:13:00]</a>, <a class="yt-timestamp" data-t="11:29:00">[11:29:00]</a>. Applying TRLs to machine learning algorithms, particularly in medical imaging, highlights a crucial issue: many systems skip critical developmental stages <a class="yt-timestamp" data-t="12:02:00">[12:02:00]</a>, <a class="yt-timestamp" data-t="12:52:00">[12:52:00]</a>. This can lead to significant problems, as steady progression through TRLs ensures checks, balances, and accountability, which are vital for mission-critical applications like medical diagnostics or aeronautics <a class="yt-timestamp" data-t="13:00:00">[13:00:00]</a>, <a class="yt-timestamp" data-t="13:20:00">[13:20:00]</a>, <a class="yt-timestamp" data-t="13:40:00">[13:40:00]</a>, <a class="yt-timestamp" data-t="13:44:00">[13:44:00]</a>. Integrating [[Causality in AI | causality]] throughout these levels can help ensure robustness, for example, by preventing models from relying on spurious correlations <a class="yt-timestamp" data-t="13:57:00">[13:57:00]</a>, <a class="yt-timestamp" data-t="14:24:00">[14:24:00]</a>, <a class="yt-timestamp" data-t="14:27:00">[14:27:00]</a>.
+
+## The Future: AI as a Tool, Not a Replacement
+
+The consensus among the medical imaging community is that AI's role should be to provide better tools that enable radiologists to perform their jobs more efficiently and accurately, rather than replacing them entirely <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>, <a class="yt-timestamp" data-t="05:07:00">[05:07:00]</a>, <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>. Human expertise and deep knowledge are considered irreplaceable and necessary even for developing more advanced AI models <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>, <a class="yt-timestamp" data-t="05:15:00">[05:15:00]</a>. While the number of radiologists might eventually decrease, their presence will remain essential <a class="yt-timestamp" data-t="05:20:00">[05:20:00]</a>.
+
+Ultimately, medical AI models, whether causal or not, are built on assumptions. The key is to make these assumptions explicit, testable, and to understand when and how to apply these tools appropriately, recognizing that no single solution is a panacea <a class="yt-timestamp" data-t="27:43:00">[27:43:00]</a>, <a class="yt-timestamp" data-t="27:50:00">[27:50:00]</a>, <a class="yt-timestamp" data-t="28:34:00">[28:34:00]</a>, <a class="yt-timestamp" data-t="28:37:00">[28:37:00]</a>.
