@@ -280,7 +280,7 @@ async function createTubegraphPages(
   // Show loading state on button
   const addChannelDiv = document.querySelector(".add-channel") as HTMLElement
   if (addChannelDiv) {
-    addChannelDiv.innerHTML = `Creating Graph... (this will take a couple minutes), feel free to close and come back later.`
+    addChannelDiv.innerHTML = `Creating Graph... this may take 1-2 hours, feel free to close and come back later.`
   }
 
   if (!response.ok) {
