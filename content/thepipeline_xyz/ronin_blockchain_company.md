@@ -5,20 +5,20 @@ videoId: pWRC6kNvlY0
 
 From: [[thepipeline_xyz]] <br/> 
 
-Ronin is a blockchain company that developed the popular game "Axi" <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. Its parent company is [[Sky Mavis | Sky Mavis]] <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
+Ronin is a [[Monad blockchain development|blockchain]] company known for its popular game, Axi <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Sky Mavis served as Ronin's parent company <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
 
-## Ronin Network Hack Incident
+## The Ronin Bridge Hack
 
-The Ronin blockchain network was subjected to a significant hack, potentially the largest in history <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>, <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. The incident resulted in the exploitation of approximately half a billion dollars <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+The Ronin blockchain experienced what might be the largest hack in history, resulting in approximately half a billion dollars in damages <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
 
-The attack originated from a social engineering scheme where a DevOps Engineer from [[Sky Mavis | Sky Mavis]] was phished with a job offer <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>, <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. The engineer reportedly clicked on an executable file <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+### Initial Compromise
 
-### Exploitation Details
+The incident originated when a devops engineer from Sky Mavis was "fished" with a job offer <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. It is believed that the engineer clicked on an executable file sent as part of this phishing attempt <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
 
-*   **Initial Access:** The engineer's compromised device gained access to four keys required for a multi-signature (multi-sig) wallet <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>, <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
-*   **Multi-Sig Definition:**
-    > "Multi-sig is basically just a door with like many keys to unlock it" <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
-    In this case, five out of nine keys were needed to unlock the wallet <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
-*   **Lateral Movement:** After obtaining four keys through social engineering, the attackers performed lateral movement within the network, moving from the engineer's compromised device to another to acquire an additional key <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
-*   **Total Access:** This allowed the attackers to accumulate all five necessary keys <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
-*   **Impact:** The exploit, triggered by what started as an office email, led to massive financial damage <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>, <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+### Vulnerability and Multi-Signature Keys
+
+A critical point of failure was that the compromised device of this single individual gained access to four keys for a multi-signature wallet <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. A multi-signature (multisig) wallet is designed like a door requiring multiple keys to unlock it <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. In this specific case, the multisig required five keys out of nine possible keyholes to be unlocked <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+
+### Key Acquisition and Exploit
+
+Through social engineering tactics targeting the engineer, the attackers initially acquired four of the necessary keys <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. They then performed "lateral movement" — moving from the compromised device to another — to obtain an additional key <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. This allowed them to accumulate all five required keys <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>, granting them full access to exploit the system. The entire compromise, leading to significant financial loss, originated from what appeared to be an office email <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.

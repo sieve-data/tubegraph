@@ -5,18 +5,22 @@ videoId: G9jvTJ08h7A
 
 From: [[thepipeline_xyz]] <br/> 
 
-Excuses often prevent individuals from pursuing their goals. Common excuses include lacking time or feeling a sense of discomfort <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. These objections are described as "100% an excuse" <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
+Often, the primary barriers to action are the excuses we create <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. These excuses, such as not having enough time, are consistently described as 100% excuses <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
 
-## Common Excuses
+## The Nature of Excuses
 
-Many people express discomfort, such as when speaking to a camera <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. The speaker acknowledges this feeling, noting that they "still do often" and "get hung up all the time" <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+When someone thinks, "I feel really uncomfortable talking to a camera," this is a common sentiment, even experienced by the speaker who still often feels uncomfortable <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. The speaker admits to getting hung up all the time <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
 
-Excuses are often rooted in fear, uncertainty about where to begin, or the anticipation of discomfort <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. Addressing these concerns is crucial for [[handling_discomfort | handling discomfort]].
+Reasons for excuses often stem from fear or simply not knowing where to start <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
 
 ## Just Start
 
-The primary solution to overcoming excuses is simply to "start doing it" <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. Initial attempts might be "terrible" <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, but consistent effort leads to [[improving_over_time | getting better]] <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+The key to overcoming these hesitations is simply to "just start" <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. It's emphasized that every objection in one's head, like "I'm not going to do this" or "I don't have the time," is 100% an excuse <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
 
-## Embracing Discomfort and Finding Your Way
+## Embrace Discomfort and Improvement
 
-Even with practice, some challenges may persist <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. However, through repeated action, individuals can develop their own methods and processes that lead to comfort and success <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>. While one person's process may not work for another, finding one's own method is achieved "by getting out and doing it" <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+Initially, your efforts might be "terrible" – for example, looking at old videos reveals they were not good <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. However, through continuous practice, you begin to [[improving_over_time|get better]] <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. This process also allows you to develop a feel for how to deliver content, such as to a camera, and discover your own comfortable methods <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+
+The speaker has found their method for feeling comfortable and achieving good results by doing it enough times <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>. While one person's process might not work for another, you will find your own <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. The only way to discover this process is by "getting out and doing it" <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+
+>[!NOTE] Overcoming excuses will inevitably make you uncomfortable, but this discomfort is simply a part of life <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.

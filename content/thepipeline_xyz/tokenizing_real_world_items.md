@@ -1,12 +1,8 @@
 ---
-title: Tokenizing real world items
+title: tokenizing real world items
 videoId: 0IdwuXJlvkM
 ---
 
 From: [[thepipeline_xyz]] <br/> 
 
-The concept of [[realworld_applications_of_blockchain_technology_and_nf_ts | tokenizing real-world items]] involves representing physical or tangible assets as digital tokens on a blockchain <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
-
-## Potential Real-World Items to Tokenize
-
-When asked what one real-world item they would tokenize, the response was "pets" <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
+When asked to identify one real-world item that could be tokenized, "pets" were suggested as a possibility <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>, illustrating a potential example of [[dream_applications_involving_tokenization | dream applications involving tokenization]].

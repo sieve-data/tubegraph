@@ -1,25 +1,20 @@
 ---
-title: Introduction to MultiFactor Authentication
+title: Introduction to Multifactor Authentication
 videoId: jD6P--7rUy8
 ---
 
 From: [[thepipeline_xyz]] <br/> 
 
-[[importance_of_multifactor_authentication_mfa | MultiFactor Authentication]] ([[importance_of_multifactor_authentication_mfa | MFA]]) is a security measure designed to verify a user's identity beyond a simple password <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. It involves using a second method to confirm that you are who you claim to be when accessing an account, such as a Gmail or bank account <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+[[Understanding MultiFactor Authentication and Its Risks | Multifactor Authentication]] (MFA) is a security measure that adds a second method of verification beyond a password to confirm a user's identity <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. It ensures that the person attempting to access an account is genuinely who they claim to be <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. For instance, in addition to a password for an account like Gmail, a second verification step is required <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
 
-## Types of MultiFactor Authentication
+## [[Common Methods of Multifactor Authentication | Common Methods of Multifactor Authentication]]
 
-Various methods can be employed for [[importance_of_multifactor_authentication_mfa | MFA]]:
+MFA can be implemented using various methods, including:
+*   **[[Biometric Methods for Authentication | Biometric]]** methods, such as Face ID, which is a very common form of MFA <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+*   **Hardware** tokens, like a physical key, that identify the user <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
+*   **Authenticator applications** that generate a code to be provided after entering a password <a class="yt="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. Ideally, this authenticated software should reside on a secondary device, separate from the phone being actively used <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
+*   **Text message (SMS) codes**, where a code is sent to a user's phone after they sign in to an account, such as a bank <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. This method is often perceived as easy and simple, allowing for quick logins <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
 
-*   **[[Biometric Methods for MFA | Biometric]] Authentication**
-    *   This includes features like Face ID, which has become a very common means of [[importance_of_multifactor_authentication_mfa | MFA]] <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
-*   **[[Hardware Keys in MultiFactor Authentication | Hardware Keys]]**
-    *   Physical keys can be used to confirm identity <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
-*   **[[Authenticator Apps and Best Practices | Authenticator Apps]]**
-    *   These apps provide a code that users supply after entering their password <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. Ideally, the authenticator software should be on a secondary device to prevent compromise if the primary device is accessed <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
-*   **Text Message Codes**
-    *   While widely used and seemingly convenient, this method involves receiving a code via text message, for example, when signing into a bank account <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+### [[Risks of Using Text Codes for Authentication | Risks of Using Text Codes for Authentication]]
 
-### Risks of Using Text Message Codes for Authentication
-
-Using text message codes for authentication is considered a very dangerous method <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. The vectors for compromise increase exponentially if someone gains consistent access to these codes, possibly through a SIM swap or direct access to your phone <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. Not taking the extra step to avoid text message codes can lead to significant financial or personal data loss <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+While convenient, using text message codes for authentication is considered a very dangerous method <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. The vectors for compromise increase exponentially if an attacker gains consistent access to these codes, potentially through methods like a SIM swap or direct access to the user's phone <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. Neglecting to take the extra step to avoid SMS-based codes can lead to significant financial or personal loss <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.

@@ -1,0 +1,44 @@
+---
+title: Pudgy Penguins NFT journey
+videoId: 156_i8Mmuo4
+---
+
+From: [[thepipeline_xyz]] <br/> 
+
+Pudgy Penguins emerged as a significant non-fungible token (NFT) project during the "NFT summer" of 2021, alongside projects like CryptoPunks and Bored Ape Yacht Club, helping to kick off the metaverse trend in a meaningful way <a class="yt-timestamp" data-t="01:00:06">[01:00:06]</a>.
+
+## Early Challenges and Acquisition
+Initially, Pudgy Penguins faced challenges due to its leadership team, who were 18 and 19-year-olds in college dorms, lacking the business acumen to manage such a project <a class="yt-timestamp" data-t="01:11:47">[01:11:47]</a>. While other projects continued to thrive, Pudgy Penguins "fell to the wayside" <a class="yt-timestamp" data-t="01:25:35">[01:25:35]</a>.
+
+[[luca_netzs_acquisition_and_leadership_of_pudgy_penguins | Luca Netz]], a significant holder with a strong affinity for the IP and its [[importance_of_community_in the_nft_space | community]], made a public bid to acquire the project <a class="yt-timestamp" data-t="01:28:34">[01:28:34]</a><a class="yt-timestamp" data-t="01:40:40">[01:40:40]</a>. The acquisition, finalized about two and a half years prior to the discussion, cost approximately $2.5 million (750 ETH at the time) <a class="yt-timestamp" data-t="01:43:08">[01:43:08]</a><a class="yt-timestamp" data-t="01:46:12">[01:46:12]</a>. Netz, having previously been a CMO and partner of a fast-growing toy company, Jail Blaster, felt a lack of fulfillment and saw an opportunity to apply his consumer product and marketing experience to the NFT space <a class="yt-timestamp" data-t="04:39:10">[04:39:10]</a><a class="yt-timestamp" data-t="05:04:12">[05:04:12]</a>. He perceived that anything in the NFT space could be done as well, if not better, than others <a class="yt-timestamp" data-t="01:54:19">[01:54:19]</a>.
+
+The purchase occurred at the beginning of a bear market, with no money in the bank, requiring the team to "grind" through challenging times and multiple "Black Swan events" <a class="yt-timestamp" data-t="02:01:28">[02:01:28]</a><a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>. Despite these obstacles, Pudgy Penguins has since become the highest-performing NFT project of the last two and a half years, building a strong community, culture, and brand <a class="yt-timestamp" data-t="02:18:28">[02:18:28]</a>.
+
+## Key Successes and Strategies
+
+### Community Engagement and Airdrops
+The Pudgy Penguins community is considered one of the strongest in the NFT space, with a unique "sticky" quality <a class="yt-timestamp" data-t="01:33:04">[01:33:04]</a><a class="yt-timestamp" data-t="03:22:20">[03:22:20]</a>. A significant benefit for holders has been receiving median airdrops totaling around $25,000 over the past year, highlighting the project's value and the power of its community <a class="yt-timestamp" data-t="09:18:41">[09:18:41]</a><a class="yt-timestamp" data-t="10:30:00">[10:30:00]</a>. This strategy acknowledges that a strong community is a competitive advantage in Web3 <a class="yt-timestamp" data-t="10:54:15">[10:54:15]</a>.
+
+Netz emphasizes open and constant communication with the community, encouraging feedback and addressing issues early <a class="yt-timestamp" data-t="03:12:47">[03:12:47]</a><a class="yt-timestamp" data-t="03:52:05">[03:52:05]</a>. His personal financial commitment to the project—investing $2.5 million of his own money and holding many penguins—builds trust and confidence among holders <a class="yt-timestamp" data-t="03:56:06">[03:56:06]</a><a class="yt-timestamp" data-t="03:59:02">[03:59:02]</a>.
+
+### [[pudgy_penguins_involvement_in_the_toy_industry | Real-World Toys and Consumer Adoption]]
+A major differentiator for Pudgy Penguins is its successful venture into the physical toy market <a class="yt-timestamp" data-t="08:39:07">[08:39:07]</a>. The toy business was seen as a "low-hanging fruit" and a sustainable revenue stream that wouldn't dilute holders <a class="yt-timestamp" data-t="12:28:16">[12:28:16]</a><a class="yt-timestamp" data-t="12:37:37">[12:37:37]</a>. This initiative was crucial, especially when royalties went to zero and the market declined <a class="yt-timestamp" data-t="13:56:29">[13:56:29]</a>.
+
+The toy line, available at major retailers like Walmart, Target, and Hot Topic, and across Asia and Europe, serves as a marketing business <a class="yt-timestamp" data-t="14:10:00">[14:10:00]</a><a class="yt-timestamp" data-t="15:13:02">[15:13:02]</a>. The goal is to create omnipresence and touchpoints in people's everyday lives beyond digital screens <a class="yt-timestamp" data-t="14:22:04">[14:22:04]</a>.
+
+Crucially, each toy includes a QR code that onboards non-crypto users onto the blockchain <a class="yt-timestamp" data-t="15:28:12">[15:28:12]</a><a class="yt-timestamp" data-t="15:30:46">[15:30:46]</a>. Scanning the code leads to "Pudgy World," where users input an email and password to receive a custodial wallet and redeem digital traits for a "Soulbound Pudgy Penguin," all with a gas-free experience via a paymaster <a class="yt-timestamp" data-t="15:38:08">[15:38:08]</a><a class="yt-timestamp" data-t="15:58:24">[15:58:24]</a>. This approach aims for [[consumer_adoption_and_marketing_strategies_for_nfts | consumer adoption]] of blockchain technology not for financial gain, but for digital ownership, interoperability, and the free market it provides <a class="yt-timestamp" data-t="16:24:28">[16:24:28]</a>.
+
+## The Power of the Penguin IP and Future Vision
+The Pudgy Penguins IP is seen as uniquely strong, with the character having the potential to become a multi-billion dollar company and the face of penguins globally <a class="yt-timestamp" data-t="25:20:00">[25:20:00]</a><a class="yt-timestamp" data-t="25:31:07">[25:31:07]</a>. Unlike other animals, there isn't a dominant "penguin brand" in Web2, creating a market gap <a class="yt-timestamp" data-t="26:12:00">[26:12:00]</a>. The characters are naturally "memetic animals" that resonate well with people <a class="yt-timestamp" data-t="27:06:00">[27:06:00]</a><a class="yt-timestamp" data-t="30:42:00">[30:42:00]</a>.
+
+Netz's core mission is "penguin proliferation"—making the penguin the most powerful and known penguin globally, and ultimately the face of Web3 and crypto <a class="yt-timestamp" data-t="27:14:00">[27:14:00]</a><a class="yt-timestamp" data-t="27:47:00">[27:47:00]</a>. This includes being in the "icon business" rather than just toys or gaming <a class="yt-timestamp" data-t="28:14:00">[28:14:00]</a>. He draws inspiration from Doge, imagining its potential if it had a dedicated team to amplify its reach across various media <a class="yt-timestamp" data-t="28:38:00">[28:38:00]</a>.
+
+## Abstract Chain for Consumer Crypto
+Pudgy Penguins is building "Abstract Chain," a new blockchain specifically designed for consumer experiences <a class="yt-timestamp" data-t="39:10:00">[39:10:00]</a><a class="yt-timestamp" data-t="39:21:00">[39:21:00]</a>. Netz identifies fragmentation in existing blockchains (e.g., ZK Sync for account abstraction, Base for cheap fees, Arbitrum for physical-to-digital tooling) and aims to combine these features for mass consumer adoption <a class="yt-timestamp" data-t="39:53:00">[39:53:00]</a><a class="yt-timestamp" data-t="40:09:00">[40:09:00]</a>.
+
+The goal is to solve the [[consumer_adoption_and_marketing_strategies_for_nfts | distribution problem]] for builders, recognizing that many blockchain teams lack consumer-building expertise <a class="yt-timestamp" data-t="40:31:00">[40:31:00]</a><a class="yt-timestamp" data-t="40:40:00">[40:40:00]</a>. Abstract Chain will focus on UX/UI innovation and provide support for product market fit in the real world <a class="yt-timestamp" data-t="42:41:00">[42:41:00]</a><a class="yt-timestamp" data-t="43:03:00">[43:03:00]</a>. All existing Pudgy Penguin products, outside of NFTs, will be migrated to this new chain <a class="yt-timestamp" data-t="43:43:00">[43:43:00]</a>.
+
+## Broader Industry Perspective
+Netz believes the crypto industry suffers from a significant branding and marketing problem, with an imbalance favoring technical innovation over marketing talent <a class="yt-timestamp" data-t="45:04:00">[45:04:00]</a><a class="yt-timestamp" data-t="45:18:00">[45:18:00]</a>. He argues for more marketers, branders, and narrative builders to achieve true mass adoption, as current technology is sufficient but lacks effective distribution and user onboarding <a class="yt-timestamp" data-t="46:09:00">[46:09:00]</a><a class="yt-timestamp" data-t="46:59:00">[46:59:00]</a>.
+
+His "final alpha" emphasizes that marketing is the most important department in any business; without users or product market fit, even the best-built products are pointless <a class="yt-timestamp" data-t="56:30:00">[56:30:00]</a><a class="yt-timestamp" data-t="56:44:00">[56:44:00]</a>.
