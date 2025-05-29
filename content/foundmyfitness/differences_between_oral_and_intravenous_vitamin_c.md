@@ -1,0 +1,59 @@
+---
+title: Differences between oral and intravenous vitamin C
+videoId: zfJQTyOklnE
+---
+
+From: [[foundmyfitness]] <br/> 
+
+Vitamin C, also known as ascorbic acid, is an essential nutrient known for its potent immunity-boosting qualities and antioxidant properties <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>, <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>, <a class="yt-timestamp" data-t="01:14:01">[01:14:01]</a>. While most animals can synthesize their own vitamin C, humans must obtain it from their diet or supplements <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>, <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>. The method of vitamin C administration—oral versus intravenous (IV)—results in significant differences in bioavailability and therapeutic potential <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>, <a class="yt-timestamp" data-t="01:15:03">[01:15:03]</a>.
+
+## Historical Context: Linus Pauling
+
+Dr. Linus Pauling, a Nobel Prize-winning chemist, was a prominent figure in the vitamin C world, known for his enthusiastic advocacy <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>, <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>, <a class="yt-timestamp" data-t="00:55:38">[00:55:38]</a>. He found clinical evidence suggesting that high-dose intravenous administration of vitamin C could be useful as a supportive [[vitamin_c_and_its_effects_on_cancer_treatment | treatment for cancer]] and a method for mitigating the side effects of chemotherapy <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>, <a class="yt-timestamp" data-t="00:55:46">[00:55:46]</a>. Critiques of Pauling's work often arose from an "apples to oranges" comparison, as his claims frequently involved intravenous dosing, while much contemporary research focused on oral dosing <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
+
+## Plasma Concentration and Bioavailability
+
+The key difference between oral and intravenous vitamin C lies in the plasma concentrations they can achieve and their bioavailability <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
+
+*   **Oral Vitamin C**
+    *   From a diet rich in vitamin C (5-9 servings of fruits and vegetables), steady-state plasma concentrations are around 80 micromoles per liter or less <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>, <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+    *   Peak plasma concentrations from oral intake generally do not exceed 220 micromoles per liter, even with a maximum oral dose of three grams taken six times daily <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>, <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>, <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>, <a class="yt-timestamp" data-t="00:18:02">[00:18:02]</a>.
+    *   Bioavailability of oral vitamin C is dose-dependent and subject to transporter saturation <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>, <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>. It maxes out around 200 milligrams per day for a single dose <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>. While higher oral doses (up to 3 grams) can transiently increase plasma levels, they return to baseline within 24 hours <a class="yt-timestamp" data-t="00:17:57">[00:17:57]</a>, <a class="yt-timestamp" data-t="00:18:16">[00:18:16]</a>.
+    *   **Liposomal Vitamin C**: Some studies suggest that oral bioavailability can be increased with liposomal forms, but primarily in doses higher than 5 grams. A 20-gram liposomal dose increased peak plasma levels to approximately 320 micromoles per liter, and a 36-gram dose to 400 micromoles per liter <a class="yt-timestamp" data-t="01:19:03">[01:19:03]</a>. Liposomal forms may also take longer to reach maximum concentration and have a longer half-life <a class="yt-timestamp" data-t="01:19:43">[01:19:43]</a>, <a class="yt-timestamp" data-t="02:00:01">[02:00:01]</a>.
+
+*   **Intravenous (IV) Vitamin C**
+    *   IV vitamin C can produce plasma concentrations as high as 15,000 micromoles per liter <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>, <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>. This is 68 times higher than the maximum achievable through oral consumption <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>.
+    *   IV administration bypasses intestinal absorption and its saturable transport mechanisms, leading to significantly higher bioavailability, potentially 30 to 70 times greater than oral intake <a class="yt-timestamp" data-t="02:00:10">[02:00:10]</a>, <a class="yt-timestamp" data-t="02:00:20">[02:00:20]</a>, <a class="yt-timestamp" data-t="02:00:26">[02:00:26]</a>. For example, a 1.25 gram IV dose reached 885 micromoles/liter, compared to 135 micromoles/liter orally <a class="yt-timestamp" data-t="02:00:34">[02:00:34]</a>.
+
+## Therapeutic Applications
+
+The vast differences in plasma levels between oral and intravenous administration lead to distinct therapeutic applications.
+
+### Viral Defense and Infections
+
+While oral vitamin C is extensively studied for its effects on the common cold, with higher doses (2g/day) showing greater benefits, especially in children <a class="yt-timestamp" data-t="02:28:28">[02:28:28]</a>, <a class="yt-timestamp" data-t="02:33:36">[02:33:36]</a>, <a class="yt-timestamp" data-t="02:39:55">[02:39:55]</a>, intravenous vitamin C is being explored for more severe viral infections <a class="yt-timestamp" data-t="01:15:16">[01:15:16]</a>, <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>, <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+
+*   **Sepsis**: Patients with sepsis often have low vitamin C levels, which might predict increased risk for organ failure <a class="yt-timestamp" data-t="00:53:29">[00:53:29]</a>. Intravenous vitamin C has shown promise in experimental studies to lessen the pro-inflammatory state and preserve organ function <a class="yt-timestamp" data-t="00:53:41">[00:53:41]</a>, and in clinical studies, it reduced hospital deaths and improved ventilator-free days among sepsis patients <a class="yt-timestamp" data-t="00:53:50">[00:53:50]</a>, <a class="yt-timestamp" data-t="00:54:30">[00:54:30]</a>.
+
+*   **Mechanical Ventilation**: A meta-analysis showed that IV vitamin C given to patients on mechanical ventilation for more than 24 hours led to an 18% reduction in time spent on the ventilator <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>, <a class="yt-timestamp" data-t="00:30:58">[00:30:58]</a>.
+
+*   **Myocarditis**: A large meta-analysis found that intravenous vitamin C combined with conventional therapy was better than conventional therapy alone for treating viral myocarditis in children <a class="yt-timestamp" data-t="00:52:26">[00:52:26]</a>.
+
+### Cancer Treatment
+
+As alluded to by Linus Pauling, intravenous vitamin C shows promise as an adjunctive [[vitamin_c_and_its_effects_on_cancer_treatment | treatment for cancer]] <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>, <a class="yt-timestamp" data-t="00:55:38">[00:55:38]</a>. While oral vitamin C might offer general protection against lung cancer with increased intake <a class="yt-timestamp" data-t="00:34:56">[00:34:56]</a>, high-dose intravenous vitamin C, in conjunction with standard therapies, has shown a trend in overall survival rates and improvements in cancer patients' quality of life <a class="yt-timestamp" data-t="00:56:06">[00:56:06]</a>, <a class="yt-timestamp" data-t="00:56:37">[00:56:37]</a>. This is largely due to IV vitamin C's ability to generate hydrogen peroxide at pharmacological doses, which can damage cancer cells, especially those with high iron levels and lower detoxification enzymes <a class="yt-timestamp" data-t="01:05:56">[01:05:56]</a>, <a class="yt-timestamp" data-t="01:06:10">[01:06:10]</a>, <a class="yt-timestamp" data-t="01:06:20">[01:06:20]</a>, <a class="yt-timestamp" data-t="01:06:25">[01:06:25]</a>.
+
+## Safety and Side Effects
+
+The [[safety_and_potential_side_effects_of_high_doses_of_vitamin_c | safety and potential side effects of high doses of vitamin C]] differ between oral and intravenous administration.
+
+*   **Oral Vitamin C**: The tolerable upper intake limit is 2,000 milligrams per day due to potential gastrointestinal issues like diarrhea <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>, <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>, <a class="yt-timestamp" data-t="01:08:40">[01:08:40]</a>. However, doses up to 10 grams per day are not scientifically proven to be toxic or detrimental to health <a class="yt-timestamp" data-t="00:11:04">[00:11:04]</a>. People with hemochromatosis should be cautious due to vitamin C's ability to improve dietary iron absorption <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>.
+    *   **Kidney Stones**: While some studies statistically suggest an increased risk of kidney stones from high vitamin C intake due to oxalate formation, the actual incidence rate in reality often does not show a significant increase in healthy individuals <a class="yt-timestamp" data-t="01:10:22">[01:10:22]</a>, <a class="yt-timestamp" data-t="01:11:10">[01:11:10]</a>, <a class="yt-timestamp" data-t="01:11:25">[01:11:25]</a>. The body may have compensatory mechanisms to prevent stone formation <a class="yt-timestamp" data-t="01:12:34">[01:12:34]</a>.
+
+*   **Intravenous Vitamin C**: Generally well-tolerated with low toxicity. Common side effects include mild to moderate nausea, headache, and dry mouth <a class="yt-timestamp" data-t="01:09:17">[01:09:17]</a>. More serious side effects can occur with high doses (40g or higher) in cancer patients <a class="yt-timestamp" data-t="01:09:33">[01:09:33]</a>, <a class="yt-timestamp" data-t="01:09:55">[01:09:55]</a>. Individuals with glucose-6-phosphate dehydrogenase deficiency are at risk of hemolysis (red blood cell rupturing) with high IV doses <a class="yt-timestamp" data-t="01:09:41">[01:09:41]</a>. However, lower IV doses (1-10 grams) may actually reduce hemolysis <a class="yt-timestamp" data-t="01:10:02">[01:10:02]</a>.
+
+## Methodological Implications for Research
+
+Understanding the differences between oral and intravenous vitamin C is crucial for [[methodological_issues_in_vitamin_research_studies | vitamin research studies]] <a class="yt-timestamp" data-t="01:15:38">[01:15:38]</a>. Inconsistent findings in vitamin C research, particularly concerning the common cold, can often be attributed to study design flaws, especially low or infrequent dosing schedules and the failure to establish rigorous, frequent dosing that maintains elevated plasma levels <a class="yt-timestamp" data-t="02:28:00">[02:28:00]</a>, <a class="yt-timestamp" data-t="02:31:31">[02:31:31]</a>, <a class="yt-timestamp" data-t="02:53:12">[02:53:12]</a>. Future studies should assess blood kinetics based on dosing every few hours after symptom onset and utilize larger doses (up to 3 grams) to achieve measurable effects <a class="yt-timestamp" data-t="02:59:57">[02:59:57]</a>, <a class="yt-timestamp" data-t="03:07:07">[03:07:07]</a>.
+
+In conclusion, while both oral and intravenous vitamin C offer health benefits, their distinct pharmacokinetic profiles mean they are not interchangeable <a class="yt-timestamp" data-t="01:15:03">[01:15:03]</a>. The higher concentrations achieved through intravenous administration enable different therapeutic strategies, particularly for severe conditions and in [[vitamin_c_and_its_effects_on_cancer_treatment | cancer treatment]] <a class="yt-timestamp" data-t="01:15:16">[01:15:16]</a>. Continued research with appropriate [[methodological_issues_in_vitamin_research_studies | study designs]] is needed to fully understand vitamin C's potential <a class="yt-timestamp" data-t="01:15:49">[01:15:49]</a>.

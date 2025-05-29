@@ -1,0 +1,46 @@
+---
+title: The role of resistance exercise in building muscle mass and strength
+videoId: r8DSpOd0NZc
+---
+
+From: [[foundmyfitness]] <br/> 
+
+Dr. Stuart Phillips, Director of the Physical Activity Center of Excellence at McMaster University, highlights the critical [[benefits_and_importance_of_resistance_training | importance of muscle mass and strength]] for overall health and longevity. While often overlooked in favor of body fat percentages or BMI, muscle mass is a vital component of body composition and directly correlates with mortality rates <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>, <a class="yt-timestamp" data-t="02:46:46">[02:46:46]</a>. It is essential for mobility, strength, and performing daily activities as we age <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>.
+
+## Muscle Mass and Aging
+Humans typically begin to lose muscle mass around their 30s or 40s, with a population-level decline of about 1% per year and a 1% to 3% drop in strength or power <a class="yt-timestamp" data-t="05:24:00">[05:24:00]</a>. This age-related muscle loss is known as sarcopenia <a class="yt-timestamp" data-t="03:43:00">[03:43:00]</a>. Maintaining and even building muscle reserves at a younger age is beneficial, akin to building bone mass before menopause, as it provides a higher "plateau" from which to decline <a class="yt-timestamp" data-t="07:48:00">[07:48:00]</a>. However, it's possible to gain muscle and significantly increase strength even into one's 70s, and nonagenarians can still get stronger through resistance training <a class="yt-timestamp" data-t="07:27:00">[07:27:00]</a>. Even if significant muscle mass gain isn't possible in very old age, gaining strength remains crucial for functional independence <a class="yt-timestamp" data-t="08:11:00">[08:11:00]</a>, <a class="yt-timestamp" data-t="08:23:00">[08:23:00]</a>.
+
+## Resistance Exercise: The Primary Driver
+Resistance exercise is highlighted as the single biggest driver of muscle growth and strength gains <a class="yt-timestamp" data-t="01:15:12">[01:15:12]</a>.
+Dr. Phillips emphasizes:
+> "It's really the lifting of the weights that is the big driver of all of the benefits and all of the gains." <a class="yt-timestamp" data-t="00:32:41">[00:32:41]</a>
+
+### Recommendations for Resistance Training
+Current guidelines recommend two days a week of strengthening activities <a class="yt-timestamp" data-t="00:53:26">[00:53:26]</a>. For those doing nothing, starting with even one or two sessions per week leads to a significant benefit <a class="yt-timestamp" data-t="00:23:00">[00:23:00]</a>, <a class="yt-timestamp" data-t="00:53:47">[00:53:47]</a>. Increasing to three times a week brings even greater change, with diminishing returns for more frequent sessions <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>.
+
+A session duration of 30 to 45 minutes is suggested <a class="yt-timestamp" data-t="00:55:37">[00:55:37]</a>. The focus should be on performing workouts with "pretty high levels of effort," lifting until fatigue <a class="yt-timestamp" data-t="00:56:45">[00:56:45]</a>. Bodyweight exercises like air squats or push-ups are effective and do not require a gym <a class="yt-timestamp" data-t="00:55:17">[00:55:17]</a>. Fundamental exercises include bench press (push), shoulder press (overhead push), and squats or leg press <a class="yt-timestamp" data-t="01:00:16">[01:00:16]</a>.
+
+### Mechanisms of Action
+Resistance exercise causes muscle protein breakdown, but more importantly, it stimulates muscle protein synthesis, leading to adaptation and growth <a class="yt-timestamp" data-t="00:57:17">[00:57:17]</a>. This process of damage and repair ultimately leads to improved strength and muscle quality over time <a class="yt-timestamp" data-t="00:57:48">[00:57:48]</a>. The mechanical stress from exercise activates a specific complex of mTOR (mTORC2), distinct from the nutrient-sensitive mTORC1 <a class="yt-timestamp" data-t="01:03:34">[01:03:34]</a>, <a class="yt-timestamp" data-t="01:05:14">[01:05:14]</a>. This distinction helps explain why exercise consistently offers [[effects_of_exercise_on_protein_metabolism_and_muscle_adaptation | beneficial effects on protein metabolism and muscle adaptation]], even in contexts where nutrient intake might be limited <a class="yt-timestamp" data-t="01:05:52">[01:05:52]</a>.
+
+## Interaction with Other Factors
+While resistance exercise is paramount, other factors play supportive roles in [[effects_of_resistance_training_on_muscle_mass_hypertrophy and_body_composition | muscle mass hypertrophy and body composition]].
+
+### Protein Intake
+Protein intake is crucial for muscle protein synthesis, providing the "bricks" (amino acids) for muscle repair and growth <a class="yt-timestamp" data-t="01:11:54">[01:11:54]</a>. The Recommended Dietary Allowance (RDA) of 0.8 grams per kilogram of body weight is considered a "minimal dietary intake" to prevent deficiency, not an optimal one <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>.
+
+For general adults, a minimum of 1.2 grams of protein per kilogram of body weight per day is suggested, with athletes and older individuals potentially benefiting from up to 1.6 grams per kilogram <a class="yt-timestamp" data-t="01:31:16">[01:31:16]</a>. A meta-analysis showed that 1.6 grams per kilogram per day is the optimal intake for young individuals engaged in resistance training to achieve modest gains in lean body mass <a class="yt-timestamp" data-t="01:31:56">[01:31:56]</a>. The effect of protein is a "thin layer on top" of the larger benefit provided by resistance training <a class="yt-timestamp" data-t="01:32:14">[01:32:14]</a>.
+
+For older adults, protein intake often decreases when it's needed most to support muscle mass and [[resistance_training_and_muscle_preservation | muscle preservation]] <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. Even distribution of protein throughout the day, particularly increasing intake at breakfast, can be beneficial for older individuals <a class="yt-timestamp" data-t="01:36:34">[01:36:34]</a>.
+
+Leucine, an essential branched-chain amino acid, acts like a "dimmer switch" for initiating muscle protein synthesis <a class="yt-timestamp" data-t="00:38:59">[00:38:59]</a>. Older individuals may need more leucine or protein to trigger this process efficiently due to reduced sensitivity <a class="yt-timestamp" data-t="00:39:50">[00:39:50]</a>.
+
+### Hormones
+While transient increases in hormones like testosterone and growth hormone occur after exercise, studies have not shown them to be significant drivers of muscle protein synthesis in healthy adults within normal physiological ranges <a class="yt-timestamp" data-t="01:11:56">[01:11:56]</a>. Women gain the same relative amount of muscle as men from resistance training, despite having lower testosterone levels <a class="yt-timestamp" data-t="01:12:42">[01:12:42]</a>. Exogenous administration of high-dose steroids or growth hormone can cause muscle growth, but these are supra-physiological levels and carry significant health risks <a class="yt-timestamp" data-t="01:13:04">[01:13:04]</a>, <a class="yt-timestamp" data-t="01:20:58">[01:20:58]</a>. Resistance training does increase androgen receptor content, which may play a role in mediating testosterone's action <a class="yt-timestamp" data-t="01:39:41">[01:39:41]</a>.
+
+### Supplements
+*   **Creatine Monohydrate**: Considered a safe and effective supplement for muscle growth, particularly for [[role_of_protein_and_supplements_in_muscle_gain | muscle gain]], and also shows growing evidence for brain and cognitive health <a class="yt-timestamp" data-t="01:44:03">[01:44:03]</a>. It can provide a boost in strength and function, even for individuals with compromised muscle function or those who are not physically active <a class="yt-timestamp" data-t="01:45:50">[01:45:50]</a>, <a class="yt-timestamp" data-t="01:47:05">[01:47:05]</a>.
+*   **Omega-3 Fatty Acids**: Research indicates omega-3 supplementation can mitigate disuse atrophy and aid in recovery, especially in older individuals <a class="yt-timestamp" data-t="01:38:18">[01:38:18]</a>. This "anti-catabolic" effect helps preserve lean muscle mass and combats chronic low-grade inflammation (inflammaging) <a class="yt-timestamp" data-t="01:40:47">[01:40:47]</a>.
+
+## Overarching Benefits
+The [[role_of_exercise_and_muscle_mass_in_overall_health | role of exercise and muscle mass in overall health]] extends beyond just physical capacity. Physical activity, including resistance exercise, is profoundly beneficial for mental health, improving mood, reducing depressive symptoms, and potentially influencing brain structure like the hippocampus <a class="yt-timestamp" data-t="01:53:00">[01:53:00]</a>. It also lowers the risk of many types of cancer <a class="yt-timestamp" data-t="01:25:10">[01:25:10]</a>. Dr. Phillips concludes that if the benefits of exercise were available in a pill, "everybody would be on it" <a class="yt-timestamp" data-t="01:26:07">[01:26:07]</a>.

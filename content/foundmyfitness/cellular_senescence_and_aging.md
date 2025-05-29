@@ -1,0 +1,78 @@
+---
+title: Cellular senescence and aging
+videoId: adg3vUez3EU
+---
+
+From: [[foundmyfitness]] <br/> 
+
+Dr. Judith Campisi, a professor of gerontology at the Buck Institute for Research on Aging, has made significant contributions to the field of aging, particularly through her research on [[cellular_senescence_and_aging | cellular senescence]] <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. Aging is not merely the passage of time but involves a multitude of molecular changes <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. Most researchers in the field believe that a few fundamental molecular and cellular processes drive aging across multiple tissues <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. These processes contribute to the exponential rise of age-related diseases after 50 to 60 years of age <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+
+## Theories and Drivers of Aging
+Key theories and processes believed to contribute to aging include:
+*   The free radical theory <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>
+*   Loss of [[mitochondrial_dysfunction_and_its_role_in_cellular_aging | mitochondrial function]] <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>
+*   The accumulation of senescent cells <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>
+
+While these fundamental processes almost certainly drive tissue health, what truly drives lifespan is less understood <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. For instance, the vast difference in lifespan between a mouse (3 years) and a human (over 100 years) despite genetic similarities remains a mystery <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
+
+## Inflammaging
+A significant characteristic of aging tissues is "inflammaging," a term coined by Claudio Franceschi <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. This refers to low-level, sterile, chronic inflammation found in almost all aging tissues <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. Unlike acute inflammation, which is a rapid, protective response to injury or infection <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>, chronic inflammation is a persistent, low-level infiltration of immune cells without evidence of a pathogen <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>.
+
+Chronic inflammation involves the constant increase of innate immune cells that infiltrate tissues, leading to tissue degradation, loss of structure, and impaired function over time <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>. This can create a feedback loop where damaging agents (like oxidants) lead to [[accumulation_and_repair_of_damage_in_aging | DNA damage]], and the cell's response to this damage can exacerbate the problem <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>.
+
+Potential causes of inflammaging include:
+*   Breakdown of the gut barrier, allowing bacterial products to leak into the bloodstream <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+*   Damage cells, primarily senescent cells, producing cytokines that attract the immune system <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>.
+
+## Cellular Senescence Explained
+Cellular senescence is best understood as a stress response <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. The result of this stress response is twofold:
+1.  **Irreversible loss of cell division**: Senescent cells lose their ability to divide <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>. These cells tend not to die easily and accumulate with age, albeit at low numbers <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>.
+2.  **Secretion of bioactive molecules**: Senescent cells activate a program to secrete 50-70 different bioactive molecules <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>. These molecules include:
+    *   Cytokines and chemokines that attract the immune system <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
+    *   Growth factors that alert neighboring cells to proliferate <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>.
+    *   Proteases that remodel tissue, aiding regeneration and repair <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>.
+    *   Bioactive lipids like prostaglandins and leukotrienes, important for modulating inflammation and fibrosis <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>.
+
+### The Double-Edged Sword of Senescence
+Senescence is a "double-edged sword" <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>:
+*   **Beneficial aspects**: The arrest of cell proliferation is crucial for preventing [[cancer_development_and_its_relationship_with_cellular_senescence | cancer]] <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>. Stressed cells that are in danger of becoming cancerous are shut down <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. Secreted factors can also be beneficial for tissue repair and wound healing <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>.
+*   **Harmful aspects**: As senescent cells accumulate with age, they drive chronic inflammation <a class="yt-timestamp" data-t="00:11:56">[00:11:56]</a>. This inflammation attracts immune cells that can cause tissue destruction and degeneration <a class="yt-timestamp" data-t="00:12:09">[00:12:09]</a>. The cytokines produced can also impair the function of neighboring cells, leading to processes like epithelial to mesenchymal transition, where epithelial cells lose their ability to communicate, causing tissue dysfunction <a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>. The presence of senescent cells can also drive late-life [[cancer_development_and_its_relationship_with_cellular_senescence | cancer]], particularly pre-malignant ones, by stimulating proliferation and mutation accumulation <a class="yt-timestamp" data-t="00:15:27">[00:15:27]</a>.
+
+Senescent cells are few in young individuals (below 50-60 years of age) but become detectable and accumulate around the midpoint of human lifespan, contributing to age-related pathologies <a class="yt-timestamp" data-t="00:13:50">[00:13:50]</a>.
+
+## Mechanisms Leading to Cellular Senescence
+Senescence is a response to specific stresses:
+*   **DNA damage**: Any severe or persistent damage to the genome will drive cells into senescence, as this prevents the propagation of potentially cancerous mutations <a class="yt-timestamp" data-t="00:25:41">[00:25:41]</a>. Short [[role_of_telomeres_in_cellular_aging_and_disease | telomeres]] are a subset of DNA damage, as they disrupt the protective cap structure on chromosome ends, making the cell perceive them as broken DNA <a class="yt-timestamp" data-t="00:43:42">[00:43:42]</a>.
+*   **[[Mitochondrial dysfunction and its role in cellular aging | Mitochondrial dysfunction]] (MiDAS)**: Having compromised mitochondria can also induce senescence, even without direct DNA damage <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>. Cells senesce in response to mitochondria failing to produce enough energy and producing more free radicals <a class="yt-timestamp" data-t="00:26:17">[00:26:17]</a>. The secretory profile of MiDAS-induced senescent cells is distinct from those caused by DNA damage; for example, they do not activate the pathway that increases pro-inflammatory cytokines like IL-6 and IL-8 <a class="yt-timestamp" data-t="00:27:11">[00:27:11]</a>. The evolutionary purpose of MiDAS is likely to prevent the propagation of cells with bad mitochondria, which can lead to degenerative diseases in muscles and nerves <a class="yt-timestamp" data-t="00:40:00">[00:40:00]</a>. This is often linked to an altered NAD/NADH ratio, which activates AMP kinase, a regulator of p53, affecting both senescence and apoptosis <a class="yt-timestamp" data-t="00:36:38">[00:36:38]</a>.
+
+## Senescent Cells in the Brain
+Studies have identified senescent cells in the brain, predominantly astrocytes <a class="yt-timestamp" data-t="00:22:53">[00:22:53]</a>. Astrocytes are more numerous than neurons and are the origin of brain [[cancer_development_and_its_relationship_with_cellular_senescence | cancer]] <a class="yt-timestamp" data-t="00:23:04">[00:23:04]</a>. Senescent astrocytes exhibit a classic senescence response, producing pro-inflammatory cytokines, growth factors, and proteases <a class="yt-timestamp" data-t="00:23:32">[00:23:32]</a>. They also become less effective at protecting neurons from toxicity <a class="yt-timestamp" data-t="00:23:53">[00:23:53]</a>. Eliminating senescent astrocytes could be beneficial for preserving brain function, though reversing existing brain [[epigenetic_aging_and_diseases | degeneration]] is much harder than preventing it <a class="yt-timestamp" data-t="00:24:07">[00:24:07]</a>. Brain inflammation also increases with age, and senescent astrocytes are a contributing factor <a class="yt-timestamp" data-t="00:24:39">[00:24:39]</a>. Cytokines from peripheral senescent cells can also cross the blood-brain barrier and contribute to neurodegeneration <a class="yt-timestamp" data-t="00:24:53">[00:24:53]</a>.
+
+## Clearance of Senescent Cells
+The immune system plays a role in clearing senescent cells <a class="yt-timestamp" data-t="00:28:00">[00:28:00]</a>. Senescent cells express surface molecules that target them for clearance by the immune system, particularly natural killer cells <a class="yt-timestamp" data-t="00:28:27">[00:28:27]</a>. However, senescent cells still accumulate with age <a class="yt-timestamp" data-t="00:28:37">[00:28:37]</a>. This could be due to:
+*   A higher rate of senescent cell production than the immune system can clear <a class="yt-timestamp" data-t="00:29:45">[00:29:45]</a>.
+*   Changes in the innate immune system's efficiency at clearing senescent cells with age <a class="yt-timestamp" data-t="00:29:50">[00:29:50]</a>. While the adaptive immune system declines with age, the innate immune system's activity may increase or change, potentially becoming less efficient <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>.
+*   Senescent cells developing mechanisms to protect themselves from immune clearance <a class="yt-timestamp" data-t="00:30:09">[00:30:09]</a>.
+
+## Interventions Targeting Senescence
+### Senolytics
+One promising strategy is to selectively cause senescent cells to die. In mice, this has resulted in significant health benefits, including an extension of health span (increase in median lifespan) <a class="yt-timestamp" data-t="00:16:42">[00:16:42]</a>. Prototype "senolytic" drugs are being developed to achieve this in humans <a class="yt-timestamp" data-t="00:17:16">[00:17:16]</a>. These drugs might not need to be taken daily; in mice, every few months was effective, suggesting a potential regimen of every few years for humans <a class="yt-timestamp" data-t="00:18:25">[00:18:25]</a>. However, caution is needed; for example, avoiding these drugs before surgery, as senescent cells aid wound healing <a class="yt-timestamp" data-t="00:17:55">[00:17:55]</a>.
+
+### mTOR Dampening
+Dampening mTOR activity, a nutrient and growth factor-sensing kinase, has been shown to extend lifespan in various organisms <a class="yt-timestamp" data-t="00:33:23">[00:33:23]</a>. Drugs like rapamycin target the mTOR pathway <a class="yt-timestamp" data-t="00:33:26">[00:33:26]</a>. Research shows that dampening mTOR suppresses the inflammatory arm of the secretory phenotype of senescent cells, rather than killing them <a class="yt-timestamp" data-t="00:34:47">[00:34:47]</a>. This breaks a feedback loop, and the effects can last even after drug withdrawal <a class="yt-timestamp" data-t="00:35:13">[00:35:13]</a>.
+
+### Fasting
+Prolonged fasting (e.g., 48 hours in mice, ~4 days in humans) has been shown to clear away damaged cells and stimulate stem cell proliferation, potentially replenishing cell populations <a class="yt-timestamp" data-t="00:30:44">[00:30:44]</a>. In aged mice, fasting normalized the balance between the innate and adaptive immune systems, which typically declines with age <a class="yt-timestamp" data-t="00:31:15">[00:31:15]</a>. Fasting may eliminate senescent cells or dampen mTOR activity <a class="yt-timestamp" data-t="00:32:54">[00:32:54]</a>, thereby suppressing the secretory phenotype of senescent cells <a class="yt-timestamp" data-t="00:33:01">[00:33:01]</a>. This could also release stem cells from suppression by senescent cell secretions, allowing them to regenerate tissue <a class="yt-timestamp" data-t="00:37:33">[00:37:33]</a>. Fasting also increases NAD levels, which is relevant to [[mitochondrial_dysfunction_and_its_role_in_cellular_aging | mitochondrial dysfunction-induced senescence]] <a class="yt-timestamp" data-t="00:36:13">[00:36:13]</a>.
+
+## Lifestyle Factors
+Lifestyle choices can significantly impact aging processes.
+*   **Exercise**: Considered perhaps the single most important intervention, exercise cuts across multiple diseases <a class="yt-timestamp" data-t="00:46:06">[00:46:06]</a>. It has been shown to improve longevity even in obese individuals <a class="yt-timestamp" data-t="00:45:34">[00:45:34]</a> and is the only effective intervention for sarcopenia (muscle loss with age) <a class="yt-timestamp" data-t="00:46:16">[00:46:16]</a>. Exercise can affect senescent cells *in vivo*, possibly through hormetic stress, priming stress responses <a class="yt-timestamp" data-t="00:46:41">[00:46:41]</a>. It's also correlated with [[accumulation_and_repair_of_damage_in_aging | DNA damage]] and [[role_of_telomeres_in_cellular_aging and disease | telomere length]] <a class="yt-timestamp" data-t="00:42:54">[00:42:54]</a>.
+*   **Diet**: Factors like omega-3 fatty acids, vitamin D, and sugar intake are associated with [[role_of_telomeres_in_cellular_aging_and_disease | telomere length]] <a class="yt-timestamp" data-t="00:43:01">[00:43:01]</a>. While some "fasting mimetics" like resveratrol have been explored for clearing senescent cells, their direct effect on senescence is not always evident <a class="yt-timestamp" data-t="00:56:11">[00:56:11]</a>. NAD precursors like nicotinamide riboside have been shown to increase NAD levels and improve health span in animal studies, potentially by affecting [[mitochondrial_dysfunction_and_its_role_in_cellular_aging | mitochondria-induced senescence]] <a class="yt-timestamp" data-t="00:55:02">[00:55:02]</a>.
+
+## Measuring Aging and Senescence
+Clinical assays can assess [[accumulation_and_repair_of_damage_in_aging | DNA damage]] (e.g., using phosphorylated H2AX) and the load of senescent cells, often using peripheral blood or buccal swabs <a class="yt-timestamp" data-t="00:49:03">[00:49:03]</a>. However, accurately measuring senescent cells in specific tissues like the brain remains a challenge <a class="yt-timestamp" data-t="00:49:39">[00:49:39]</a>. There is a correlation between senescence markers in peripheral blood and other tissues <a class="yt-timestamp" data-t="00:50:23">[00:50:23]</a>, but significant variation exists in human data, reflecting both genetic differences and stochastic (random) variation in aging processes <a class="yt-timestamp" data-t="00:50:38">[00:50:38]</a>.
+
+## Personal Practices
+Dr. Campisi incorporates moderate exercise, a good diet (eating vegetables, avoiding smoking), and acknowledges the significant role of genetics ("choose your grandparents very wisely") in her own lifestyle <a class="yt-timestamp" data-t="01:00:59">[01:00:59]</a>.
+
+For more information about Dr. Campisi's research, visit the Buck Institute website <a class="yt-timestamp" data-t="01:01:46">[01:01:46]</a>.

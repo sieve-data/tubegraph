@@ -1,0 +1,30 @@
+---
+title: Sauna use and its effects on growth hormone and insulin sensitivity
+videoId: aHOlM-wlNjM
+---
+
+From: [[foundmyfitness]] <br/> 
+
+Heat acclimation, also referred to as "hypothermic conditioning," can provide many positive effects associated with IGF-1 (Insulin-like Growth Factor 1) without the risks linked to high levels of growth hormone (GH) or supra-physiological levels of GH often seen with growth hormone therapy <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. This method can induce physiological adaptations that aid in the acquisition of muscle mass <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+
+## Impact on Growth Hormone (GH)
+
+Growth hormone is known for its anabolic effects, playing a crucial role in muscle hypertrophy by increasing protein synthesis and decreasing protein oxidation and degradation <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>, <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>, <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. IGF-1, a downstream mediator of growth hormone, contributes to positive effects like decreased fat, increased lean muscle mass, improved verbal memory, and enhanced neurogenesis (growth of new brain cells), as well as promoting muscle repair <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. However, high levels of GH or IGF-1 have been associated with substantially shortened lifespans in genetically engineered mice, worms, and flies, highlighting a performance-longevity trade-off <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>, <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+
+Sauna use significantly influences [[effects_of_sauna_use_on_growth_hormone_and_prolactin | growth hormone]] levels, with effects varying based on temperature, time spent, and frequency of use <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>, <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
+*   **Acute Effects:** Two 20-minute sauna sessions a day at 80°C (176°F) can lead to a two-fold increase in [[effects_of_sauna_use_on_growth_hormone_and_prolactin | growth hormone]] levels over baseline <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>, <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
+*   **Chronic Adaptation:** More profoundly, two 1-hour daily sauna sessions at 80°C for seven consecutive days have resulted in a 16-fold increase in [[effects_of_sauna_use_on_growth_hormone_and_prolactin | growth hormone]] levels over baseline in men <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>, <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>, <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>. This highlights the significant physiological adaptations achieved through hypothermic conditioning <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>.
+
+## Impact on Insulin Sensitivity
+
+Improving insulin sensitivity is a third way heat acclimation promotes muscle growth <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>, <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>. Insulin is an anabolic hormone that decreases protein degradation <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>, <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
+*   Whole-body hypothermia has been shown to reduce insulin resistance and improve insulin sensitivity in an obese diabetic mouse model <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>, <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
+*   Interestingly, heat stress, which boosts [[effects_of_sauna_use_on_growth_hormone_and_prolactin | growth hormone]] levels in humans, has been observed to cause about a 15% increase in [[impact_of_sauna_use_on_longevity and allcause mortality | lifespan]] in flies and worms <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>, <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>, <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. This appears counter-intuitive to the performance-[[impact_of_sauna_use_on_longevity and allcause mortality | longevity]] trade-off often discussed, but it is attributed to hormesis <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>, <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. Hormesis induces the expression of genes and proteins, such as heat shock proteins, which are known to improve [[effects_of_sauna_bathing_on_longevity | longevity]] <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>, <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>, <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>.
+
+## Summary of Effects
+In summary, heat acclimation through sauna use, or hypothermic conditioning, improves muscle hypertrophy by preventing protein degradation and increasing net protein synthesis through several mechanisms <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>, <a class="yt-timestamp" data-t="00:11:49">[00:11:49]</a>. These include:
+*   Inducing heat shock proteins, which also contribute to a hormetic response shown to improve [[effects_of_sauna_bathing_on_longevity | longevity]] in lower organisms <a class="yt-timestamp" data-t="00:11:55">[00:11:55]</a>, <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>.
+*   Increasing the release of [[effects_of_sauna_use_on_growth_hormone_and_prolactin | growth hormone]] <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>, <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>.
+*   Improving insulin sensitivity <a class="yt-timestamp" data-t="00:12:08">[00:12:08]</a>.
+
+While hypothermic conditioning offers significant [[health_benefits_of_sauna_use | health benefits of sauna use]] for athletes and general well-being, it's important to use it with [[potential_risks_and_benefits_of_sauna_use | caution]] and common sense, particularly considering individual body chemistry, as it works by inducing stress to build stress tolerance <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>, <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a>, <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>.

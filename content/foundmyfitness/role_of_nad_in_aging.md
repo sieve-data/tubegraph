@@ -5,93 +5,127 @@ videoId: hggLOXhFRxc
 
 From: [[foundmyfitness]] <br/> 
 
-Nicotinamide adenine dinucleotide (NAD) is a crucial molecule for life, so essential that without it, life would cease to exist <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. In recent years, NAD and its precursor molecules, such as nicotinamide riboside (NR) and nicotinamide mononucleotide (NMN), have become highly relevant to the field of aging <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. These precursors are often referred to as NAD boosters and are available as consumer supplements <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
+Nicotinamide Adenine Dinucleotide (NAD) is a crucial molecule in the field of aging, with its related precursor molecules, nicotinamide riboside (NR) and nicotinamide mononucleotide (NMN), often referred to as NAD boosters [00:00:06]. NAD is considered one of the most important molecules, as life would cease to exist without it [00:00:25].
 
 ## NAD Levels and Aging
 
-One of the primary reasons for the interest in NAD is that its levels decrease with age <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>. This decline across multiple tissue types is associated with many [[nad_levels_aging_and_sirtuin_activity | hallmarks of aging]] <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. These hallmarks include:
-*   Loss of proteostasis <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>
-*   [[Mitochondrial dysfunction and aging | Mitochondrial dysfunction]] <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>
-*   Glucose intolerance <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>
-*   Insulin insensitivity <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>
-*   [[Cellular senescence and its role in aging | Cellular senescence]] <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>
-*   [[Role of epigenetics in aging | Altered epigenetics]] <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>
+[[nad_levels_and_their_impact_on_aging_and_metabolism | NAD levels decrease with age]] [00:01:14]. This decline across various tissues is associated with many hallmarks of aging, including:
+*   Loss of proteostasis [00:01:25]
+*   [[mitochondrial_dysfunction_and_its_role_in_cellular_aging | Mitochondrial dysfunction]] [00:01:27]
+*   Glucose intolerance [00:01:29]
+*   Insulin insensitivity [00:01:32]
+*   Cellular senescence [00:01:32]
+*   Altered epigenetics [00:01:34]
 
-When NAD levels decline, tissues like the brain, immune cells, and muscle tissue, which require NAD for energy, may not function properly <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+### Why NAD Decreases with Age
+The complete reason for NAD decline with age is still an open question, but known factors include:
+*   Chronic [[role_of_inflammation_in_aging | inflammation]] and immune activation, which consume NAD, tend to increase with age [00:02:20].
+*   An increased need for DNA repair [00:02:28] places an immense demand on the NAD pool [00:02:30].
+*   The body's ability to produce and recycle NAD decreases with age [00:02:33].
 
-### Why NAD Levels Decrease with Age
+## [[nads_involvement_in_energy_metabolism_and_dna_repair | NAD's Involvement in Energy Metabolism and DNA Repair]]
 
-The exact reason why NAD levels decrease with age is still an open question <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. However, some contributing factors are known:
-*   **Increased Consumption**: Chronic inflammation and immune activation, which consume NAD, tend to increase with age <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. The increased need for [[role_of_dna_damage_and_repair_in_aging | DNA repair]] due to age also places immense demand on the NAD pool <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
-*   **Decreased Production/Recycling**: The body's ability to produce and recycle NAD also declines with age <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>.
+NAD plays a critical role in energy metabolism, as it is essential for producing energy [00:03:38]. It participates in redox reactions crucial for the metabolism of glucose and fatty acids, and the formation of ATP [00:03:45]. Both oxidized (NAD) and reduced (NADH) forms are vital, requiring cells to maintain massive concentrations of both [00:04:05].
 
-## Multifaceted Roles of NAD
+NAD also acts as a cofactor for many enzymes, meaning it binds to and activates them to perform their functions [00:04:23]. Several NAD-required enzymes are found inside the mitochondria, contributing to energy generation [00:04:38]. NAD also acts as a cofactor for enzymes involved in energy production from glucose outside the mitochondria, a process known as glycolysis [00:04:49]. For instance, red blood cells, which lack mitochondria, rely solely on glycolysis for energy, with NAD playing a key role [00:05:01].
 
-NAD plays multiple critical roles in cellular function and health:
+### DNA Damage Mitigation
+NAD is essential for repairing DNA damage [00:05:14] as it is a cofactor for PARP1, one of the most important enzymes in DNA repair [00:05:19]. Excessive DNA damage and subsequent PARP1 activation can significantly decrease NAD levels to 20-30% of normal [00:05:27].
 
-### Energy Metabolism
-NAD is central to [[nad_and_its_role_in_energy_metabolism and_dna_repair | energy metabolism]] <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. It participates in redox reactions, alternating between its oxidized (NAD+) and reduced (NADH) forms, which are crucial for the metabolism of glucose and fatty acids and the formation of ATP <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>. Cells need to maintain massive concentrations of both NAD+ and NADH for these linked reactions <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. NAD also acts as a cofactor for enzymes involved in energy production inside and outside the mitochondria, such as in glycolysis, which is the primary energy source for cells like red blood cells <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>.
-
-### DNA Repair
-NAD is vital for mitigating [[role_of_dna_damage_and_repair_in_aging | DNA damage]] <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>. It is a cofactor for PARP1, a crucial enzyme involved in repairing DNA damage <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>. Excessive DNA damage and subsequent PARP1 activation can significantly decrease NAD levels <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. The ability to repair DNA damage is important for longevity; centenarians have higher PARP1 activity than younger individuals <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. Higher PARP1 activity has been correlated with maximum lifespan in mammals <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
+The ability to repair DNA damage is critical for longevity [00:05:38]. Centenarians have significantly higher PARP1 activity than younger individuals [00:05:43]. PARP1 activity has also been correlated with maximum lifespan in mammals, with higher activity linked to longer lifespans [00:05:55]. This suggests that genomic stability, which relies on NAD and PARP1, is very important for longevity [00:06:18].
 
 ### Sirtuin Activation
-NAD is required to activate sirtuins, a family of enzymes involved in longevity <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. Sirtuins are highly conserved and play roles in healthspan and longevity in various organisms <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. They regulate metabolic processes, stress response, and modulate lifespan through [[role_of_epigenetics_in_aging | epigenetic regulation]] <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>. Sirtuins use NAD to remove acetyl groups from cellular proteins, controlling the activation of genes involved in [[nad_and_its_role_in_energy_metabolism and_dna_repair | energy metabolism]], [[role_of_autophagy in_aging_and_disease | autophagy]], circadian rhythm, and cell survival <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. When cellular energy levels are low (e.g., during exercise, fasting, or caloric restriction), NAD levels rise, signaling sirtuin activation <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+NAD is required to activate sirtuins, a family of highly conserved enzymes involved in health span and longevity across multiple organisms [00:06:27]. Sirtuins regulate various metabolic processes, including stress response and lifespan modulation, primarily through epigenetic regulation [00:06:36]. They use NAD to remove acetyl groups from cellular proteins, controlling gene activation related to:
+*   Energy metabolism [00:06:55]
+*   [[role_of_autophagy_in_aging_and_agerelated_diseases | Autophagy]] [00:06:57]
+*   Circadian rhythm [00:06:58]
+*   DNA repair [00:07:00]
+*   Cell survival [00:07:00]
 
-## Consequences of NAD Depletion
+When cellular energy levels are low (e.g., during exercise, fasting, or caloric restriction), NAD levels and the NAD to NADH ratio rise, activating sirtuin expression and activity [00:07:04]. Resveratrol, a compound found in red grapes, is a potent sirtuin-activating compound thought to contribute to its beneficial effects on health span [00:07:23].
 
-NAD depletion is associated with multiple [[nad_levels_aging_and_sirtuin_activity | hallmarks of aging]], including decreased [[role_of_autophagy in_aging_and_disease | autophagy]], increased [[role_of_dna_damage_and_repair_in_aging | DNA damage]], [[Mitochondrial dysfunction and aging | mitochondrial dysfunction]], and dysregulated metabolism <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. This depletion may predispose organisms to various [[effects_of_nad_levels_on_agerelated_diseases | age-related diseases]], such as:
-*   Neurodegenerative diseases (e.g., Alzheimer's, Parkinson's) <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>
-*   Cardiovascular disease <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>
-*   Muscle atrophy <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>
-*   Increased susceptibility to infections <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>
+## [[effects_of_nad_decline_with_age | Effects of NAD Decline with Age]]
+
+As NAD becomes depleted across various tissues like the brain, skeletal muscle, and heart—which have high metabolic demands—these tissues may not function properly [00:07:40]. [[effects_of_nad_decline_with_age | NAD depletion has been associated with hallmarks of aging]], such as:
+*   Decreased [[role_of_autophagy_in_aging_and_agerelated_diseases | autophagy]] [00:08:03]
+*   Increased DNA damage [00:08:08]
+*   Increased [[mitochondrial_dysfunction_and_its_role_in_cellular_aging | mitochondrial dysfunction]] [00:08:10]
+*   Dysregulated metabolism [00:08:11]
+
+NAD depletion may predispose organisms to a variety of age-related diseases, including:
+*   Neurodegenerative diseases (e.g., Alzheimer's, Parkinson's) [00:08:18]
+*   Cardiovascular disease [00:08:22]
+*   Muscle atrophy [00:08:24]
+*   Increased susceptibility to infections due to the immune system's high NAD requirement [00:08:27]
 
 ## Boosting NAD Levels
 
-NAD levels can be influenced by lifestyle factors and supplementation.
+NAD levels naturally increase under conditions that promote health span, such as exercise, fasting, and lifelong caloric restriction [00:08:34]. NAD restoration through various methods has been shown to increase lifespan in lower-level organisms (yeast, worms) and rodents [00:08:50].
 
-### Lifestyle and Diet
-NAD levels naturally increase under conditions that promote healthspan, such as exercise, fasting, and caloric restriction <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>. NAD can be synthesized in the body from dietary sources like the amino acid tryptophan (found in salmon, spinach, nuts) and three forms of niacin (vitamin B3), including nicotinamide, nicotinic acid, and nicotinamide riboside (found in lean meats, legumes, veggies) <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+### Dietary Sources and Recycling
+NAD can be synthesized in the body from dietary sources like:
+*   The amino acid tryptophan (found in salmon, spinach, nuts) [00:02:51]
+*   Three forms of niacin (vitamin B3), including nicotinamide (niacinamide), nicotinic acid, and nicotinamide riboside (found in lean meats, legumes, veggies) [00:02:59]
 
-### The NAD Salvage Pathway
-Dietary sources are not the major source of NAD <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. The body requires such large quantities of NAD that it would be impossible to consume enough from the diet <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>. The primary source of NAD is through a recycling mechanism called the NAD salvage pathway <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>. This pathway converts nicotinamide (a byproduct of NAD consumption) back into nicotinamide mononucleotide and then into NAD <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>.
+However, dietary sources are not the major source of NAD, as the body's demand far exceeds what can be consumed [00:03:17]. The primary source of NAD is a recycling mechanism called the NAD salvage pathway [00:03:22]. This pathway converts nicotinamide (a byproduct of NAD consumption) into nicotinamide mononucleotide and then into NAD [00:10:07].
 
-However, there are important considerations for the salvage pathway:
-*   Nicotinamide has been shown to inhibit sirtuin activity, which is undesirable for longevity <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>.
-*   The enzyme that converts nicotinamide into nicotinamide mononucleotide is subject to feedback inhibition by NAD levels <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. This means that at a certain concentration of NAD, nicotinamide will no longer be converted to NAD, potentially leading to an accumulation of nicotinamide that inhibits sirtuins <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.
+There are two important considerations for the salvage pathway:
+1.  Nicotinamide has been shown to inhibit sirtuin activity, which is not beneficial for longevity [00:10:33].
+2.  The enzyme that converts nicotinamide into nicotinamide mononucleotide is subject to feedback inhibition by NAD levels [00:10:46]. This means that above a certain NAD concentration, nicotinamide will not be further converted to NAD, remaining as nicotinamide, which can inhibit sirtuins [00:10:52].
 
-### [[potential_risks_and_benefits_of_nad_boosting_supplements | NAD Boosting Supplements]]
+### NAD Boosters: Nicotinamide Riboside (NR) and Nicotinamide Mononucleotide (NMN)
+NR and NMN are found in low concentrations in many foods and are also available as supplements [00:11:29]. These are called [[effects_of_nad_boosters_and_their_impact_on_aging | NAD boosters]] because, in supplement form, they have been shown to be well tolerated at high doses and can effectively raise NAD levels, ameliorating age-associated diseases in rodents [00:11:38].
 
-Nicotinamide riboside (NR) and nicotinamide mononucleotide (NMN) are popular as NAD boosters because they can be converted into NAD <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>. They are found in low concentrations in foods but are also available as supplements <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>.
+#### Animal Studies
+*   **Nicotinamide Riboside (NR)**:
+    *   Oral administration at high doses can counteract an obesogenic diet by improving insulin sensitivity [00:12:01].
+    *   It can improve endurance and strength [00:12:09].
+    *   High doses can reverse [[mitochondrial_dysfunction_and_its_role_in_cellular_aging | mitochondrial damage]], increase mitochondrial biogenesis, and reverse muscular atrophy [00:12:12].
+    *   Positive effects on the brain include increased neurogenesis, decreased cognitive deterioration, reduced amyloid beta production, and increased synaptic plasticity [00:12:24].
+*   **Nicotinamide Mononucleotide (NMN)**:
+    *   High-dose injection can counteract an obesogenic diet and improve metabolic health markers [00:12:48].
+    *   High-dose injection can improve heart function and cognition/memory in animals with neurodegenerative disease [00:12:59].
+    *   Long-term dietary administration of NMN mitigated age-associated physiological decline in mice, showing improved skeletal muscle function, [[mitochondrial_dysfunction_and_its_role_in_cellular_aging | mitochondrial function]], increased energy expenditure, increased bone density, and decreased insulin resistance [00:13:10]. These benefits were dose-dependent [00:13:41].
 
-#### Animal Studies on NAD Boosters
-*   **NR and NMN**: At very high doses, these precursors have been shown in animal studies to improve the aging of multiple tissues and cell types, including the heart, skeletal muscle, brain, and stem cells <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
-*   **Nicotinamide Riboside (NR)**: Studies show NR can counteract obesogenic diets by improving insulin sensitivity, improve endurance and strength, reverse [[Mitochondrial dysfunction and aging | mitochondrial damage]], increase mitochondrial biogenesis, and reverse muscular atrophy <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. In the brain, NR has increased neurogenesis, decreased cognitive deterioration, reduced amyloid-beta production, and increased synaptic plasticity <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>.
-*   **Nicotinamide Mononucleotide (NMN)**: Injections of high-dose NMN have countered obesogenic diets, improved metabolic health markers, improved heart function, and enhanced cognition and memory <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>. Long-term dietary administration of NMN mitigated age-associated physiological decline in mice, improving skeletal muscle and [[Mitochondrial dysfunction and aging | mitochondrial function]], increasing energy expenditure and bone density, and decreasing insulin resistance in a dose-dependent manner <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a>.
+#### [[potential_health_benefits_and_risks_of_nad_supplementation | Potential Risks: Cancer]]
+A recent study showed that NMN could accelerate cancer growth in mice with a specific type of pancreatic cancer where pro-inflammatory senescent cells drive tumor growth [00:14:03]. Injected NMN significantly increased precancerous and cancerous lesions [00:14:15]. This effect is linked to senescent cells, which secrete pro-inflammatory molecules and promote growth signaling, with NAD potentially making these senescent cells more tumorigenic [00:14:31]. While this study focused on NMN and a specific cancer type, it is possible NR could show similar results [00:15:24]. Long-term animal studies are needed to confirm these findings [00:15:52].
 
-#### Potential Concerns: Cancer and Senescence
-A recent study showed that NMN accelerated cancer growth in mice with a specific type of pancreatic cancer where pro-inflammatory [[cellular_senescence and_its_role_in_aging | senescent cells]] drive tumor growth <a class="yt-timestamp" data-t="00:14:03">[00:14:03]</a>. This effect was dependent on senescent cells, which can disrupt normal tissue functions and contribute to cancer progression <a class="yt-timestamp" data-t="00:14:31">[00:14:31]</a>. NAD appears to increase the tumorigenic quality of these senescent cells, likely due to its role in energy metabolism <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>. While this doesn't mean NR or NMN supplementation causes cancer generally, it highlights the need for long-term animal studies to confirm safety in diverse contexts <a class="yt-timestamp" data-t="00:15:40">[00:15:40]</a>.
+#### Dosage Translation and Bioavailability
+Translating animal study doses to humans is complex.
+*   **NR**: Many rodent studies used very high oral doses (400 mg/kg body weight), which translates to a human equivalent of approximately 2.6 grams per day for a 180-pound person [00:16:17]. This is higher than doses clinically tested in humans [00:16:48].
+*   **NMN**: Most animal studies used high injected doses (around 500 mg/kg body weight), which is hard to translate [00:16:54]. Oral doses used in long-term aging studies (100-300 mg/kg body weight) translate to 653 mg to 2 grams per day for a 180-pound person, with higher benefits at the higher dose [00:17:10].
 
-#### Dose Translation and Bioavailability
-Translating animal study doses to humans presents challenges. Many rodent studies used very high oral doses of NR (e.g., 400 mg/kg body weight), which translates to approximately 2.6 grams per day for a 180-pound person <a class="yt-timestamp" data-t="00:16:17">[00:16:17]</a>. NMN animal studies often used even higher doses (500 mg/kg body weight), typically injected, making direct translation difficult <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>.
+A key concern is whether NR or NMN can reach other tissues intact and directly form NAD without going through the salvage pathway, which is subject to feedback inhibition [00:18:01].
+*   Isotope tracer studies in animals showed that at low oral doses (50 mg/kg body weight), NR and NMN produced very low levels of directly made NAD only in the liver, with negligible levels in kidneys, muscles, or the brain [00:19:11].
+*   Higher oral doses of NR (200 mg/kg) showed no difference in direct NAD formation outside the liver but increased salvage pathway-derived NAD in kidneys, muscle, and brain [00:20:08].
+*   Intravenously administered NR or NMN produced directly formed NAD in the liver, kidney, and muscle in a dose-dependent manner [00:20:51]. However, only salvage-derived NAD was detected in the brain, suggesting neither NR nor NMN directly cross the blood-brain barrier [00:21:09].
 
-Bioavailability is another concern. Oral NR or NMN may not directly reach other tissues intact to form NAD, appearing to be mostly transported to the liver at lower doses <a class="yt-timestamp" data-t="00:19:11">[00:19:11]</a>. Instead, they may be converted into nicotinamide, which is then transported to other tissues and subsequently converted into NAD via the salvage pathway <a class="yt-timestamp" data-t="00:22:01">[00:22:01]</a>. This is significant because NAD produced from the salvage pathway is subject to feedback inhibition, limiting how high NAD levels can be raised in tissues <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>. Intravenous administration of NR or NMN has shown more direct NAD production in liver, kidney, and muscle in a dose-dependent manner, but not in the brain <a class="yt-timestamp" data-t="00:20:54">[00:20:54]</a>.
+This data suggests that even at high oral doses, NR and NMN might primarily be converted to nicotinamide, which is then transported to other tissues and forms NAD via the salvage pathway [00:21:42]. However, very high oral doses might still be beneficial due to sufficient NAD levels from the salvage pathway [00:22:50]. Intravenous administration seems to allow direct NAD formation in multiple tissues, bypassing feedback inhibition and leading to higher NAD concentrations [00:23:00].
 
 ### Direct NAD Administration
-Taking or injecting NAD directly is also challenging due to its poor oral bioavailability; it is primarily digested into precursors like nicotinamide before absorption <a class="yt-timestamp" data-t="00:24:06">[00:24:06]</a>. While intravenous NAD infusion may bypass digestion, no mammalian NAD transporter has been identified, and extracellular NAD is not consistently taken up into tissues except possibly the brain and heart <a class="yt-timestamp" data-t="00:24:31">[00:24:31]</a>. High-dose injected NAD has shown increased NAD levels in some brain regions and the heart, offering protection against cardiac hypertrophy <a class="yt-timestamp" data-t="00:24:44">[00:24:44]</a>.
+NAD itself has poor oral bioavailability, primarily being digested into nicotinamide and its precursors before absorption [00:24:06]. While intravenous NAD infusion may bypass digestion, no mammalian NAD transporter has been identified, and extracellular NAD is not widely taken up by tissues [00:24:34]. However, injected NAD has been shown to raise NAD levels in some brain regions and the heart, offering protection against cardiac hypertrophy [00:24:44].
 
 ## Human Clinical Data
 
-As of the transcript's date, there is no published evidence of oral NMN supplementation in humans <a class="yt-timestamp" data-t="00:25:47">[00:25:47]</a>. However, two randomized, placebo-controlled trials have shown that oral nicotinamide riboside can increase NAD levels in white blood cells in a dose-dependent manner <a class="yt-timestamp" data-t="00:25:54">[00:25:54]</a>.
+There is currently no published evidence of oral NMN supplementation in humans [00:25:50]. However, two randomized placebo-controlled trials have shown that oral NR can increase NAD levels in white blood cells in a dose-dependent manner [00:25:54].
 
-*   One 8-week study involving 120 healthy adults (60-80 years old) showed that 250 mg daily of NR and pterostilbene (a sirtuin activator) increased whole blood NAD levels by 40% in 4 weeks, and 500 mg increased it by 90% <a class="yt-timestamp" data-t="00:26:04">[00:26:04]</a>. The lower dose also showed reduced diastolic blood pressure and lower liver enzyme levels, though it's unclear if this was due to NR, pterostilbene, or both <a class="yt-timestamp" data-t="00:26:40">[00:26:40]</a>.
-*   Another trial with 60 middle-aged and older adults (55-79 years old) demonstrated that 1 gram of NR per day (500 mg twice daily) for six weeks was well-tolerated and increased NAD levels in white blood cells by 60% <a class="yt-timestamp" data-t="00:27:03">[00:27:03]</a>. This study saw non-statistically significant improvements in blood pressure and aortic stiffness, but no effects on metabolic function, motor function, or exercise capacity <a class="yt-timestamp" data-t="00:27:26">[00:27:26]</a>.
+*   **Study 1**: An 8-week study with 120 healthy adults (60-80 years old) [00:26:04].
+    *   A 250 mg daily dose of NR combined with pterostilbene (a sirtuin activator) increased whole blood NAD levels by 40% after 4 weeks [00:26:16].
+    *   A 500 mg double dose increased NAD levels by 90% [00:26:35].
+    *   The lower dose group showed reduced diastolic blood pressure and lower levels of liver enzyme alanine aminotransferase (a marker of liver damage) [00:26:41]. It's difficult to determine if NR, pterostilbene, or both were responsible for these effects [00:26:51].
+*   **Study 2**: A 6-week study with 60 middle-aged and older adults (55-79 years old) [00:27:03].
+    *   A 500 mg dose of NR twice daily (1 gram total) was well tolerated and increased NAD levels in white blood cells by 60% [00:27:13].
+    *   Participants experienced non-statistically significant improvements in blood pressure and aortic stiffness, possibly due to dose size or small sample size [00:27:26].
+    *   NR had no effects on metabolic function, motor function, or exercise capacity [00:27:39].
 
-The highest dose tested in humans thus far is 1 gram per day, which is significantly lower than the human equivalent doses (around 2.6 grams/day) that showed benefits in animal studies <a class="yt-timestamp" data-t="00:28:04">[00:28:04]</a>. While short-term clinical studies indicate oral NR is safe, no long-term human studies have been conducted <a class="yt-timestamp" data-t="00:28:20">[00:28:20]</a>.
+These human studies indicate that oral NR can raise NAD levels in whole blood and white blood cells, but the highest dose tested (1 gram per day) is still significantly lower than the human equivalent doses that showed benefits in animal studies [00:27:51]. Long-term safety studies in humans are still needed [00:28:23].
 
-> [!caution] Storage of Supplements
-> NR and NMN can break down into nicotinamide over time, especially in high humidity or heat <a class="yt-timestamp" data-t="00:28:27">[00:28:27]</a>. This is problematic because supplemental nicotinamide may reduce sirtuin activation <a class="yt-timestamp" data-t="00:28:38">[00:28:38]</a>. It's recommended to keep these supplements cold and ensure they come from a reputable manufacturer <a class="yt-timestamp" data-t="00:28:51">[00:28:51]</a>.
+## Supplement Stability
+
+NR and NMN can break down into nicotinamide over time, especially in high humidity or heat [00:28:27]. This is a concern because supplemental nicotinamide may reduce sirtuin activation [00:28:36]. Keeping these supplements cold helps maintain stability, and ensuring they come from a reputable manufacturer can minimize degradation [00:28:42].
 
 ## Conclusion
 
-NAD is indispensable for survival, playing critical roles in [[nad_and_its_role_in_energy_metabolism and_dna_repair | energy metabolism]], [[role_of_dna_damage_and_repair_in_aging | DNA repair]], and [[nad_levels_aging_and_sirtuin_activity | sirtuin activation]] <a class="yt-timestamp" data-t="00:29:01">[00:29:01]</a>. Its decline with age contributes to metabolic and [[Mitochondrial dysfunction and aging | mitochondrial dysfunction]], increased DNA damage, and other problems associated with aging <a class="yt-timestamp" data-t="00:29:10">[00:29:10]</a>. While lifestyle factors like exercise and fasting can increase NAD, [[potential_risks_and_benefits_of_nad_boosting_supplements | NAD boosters]] like NR and NMN show promise, predominantly in animal studies <a class="yt-timestamp" data-t="00:29:23">[00:29:23]</a>. The long-term efficacy and safety of these supplements in humans remain open questions, necessitating further research <a class="yt-timestamp" data-t="00:29:37">[00:29:37]</a>.
+NAD is vital for survival, primarily obtained through recycling [00:29:01]. Normal aging and daily living can cause [[nad_levels_and_their_impact_on_aging_and_metabolism | NAD levels to decline]], leading to metabolic and [[mitochondrial_dysfunction_and_its_role_in_cellular_aging | mitochondrial dysfunction]], increased DNA damage, and other age-related problems [00:29:10]. [[nad_levels_and_their_impact_on_aging_and_metabolism | NAD levels can be increased]] through lifestyle factors like exercise or fasting, and by NAD boosters such as NR and NMN [00:29:22].
+
+While animal studies on [[effects_of_nad_boosters_and_their_impact_on_aging | NAD boosters]] show promising health benefits, including mitigating age-related decline, [[potential_health_benefits_and_risks_of_nad_supplementation | concerns remain]], particularly regarding potential acceleration of cancer growth in specific contexts [00:29:31]. The data from human studies is limited, primarily showing NR's ability to raise NAD levels in white blood cells [00:29:35]. Much more research is needed to determine the long-term efficacy and safety of NAD boosters in humans [00:29:39].
