@@ -1,0 +1,87 @@
+---
+title: Growth and Profit Optimization
+videoId: 7z-TD1KY08U
+---
+
+From: [[gregisenberg]] <br/> 
+
+Traditional marketing funnels are an "entirely wrong way to think about modern marketing" as they are deceptive and do not reflect how people actually buy products <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a> <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. Instead of a linear path, customers interact with a brand, disengage, get "sucked back in," and may make multiple "rotations" before purchasing <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a> <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. This non-linear journey means a purchase decision could happen years after initial interaction, especially for high-value items like industrial components <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a> <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>.
+
+Instead of campaigns with a start and stop, modern marketing should be a continuous process <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a> <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>. This continuous approach involves constantly making things that add "mass" to the company or brand, shifting the mindset of how companies are marketed <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a> <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>.
+
+## Digital Gravity
+
+[[digital_gravity_and_growth_strategies | Digital gravity]] is a concept that describes how brands and companies are built by accumulating "digital mass" on the internet <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a> <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. The more mass a brand has, the greater its influence within its niche <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. This mass is built primarily through content and omnipresent marketing where customers spend time online <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a> <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.
+
+As a company builds more mass, more people get "sucked into that orbit," leading to more "touchdowns" that translate into revenue <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a> <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. This creates a [[longterm_business_growth_and_scaling_strategies | growth flywheel]], where generated revenue is reinvested into the company's growth, further increasing its digital mass <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a> <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>.
+
+### Resource Allocation
+The approach to building digital mass varies based on a company's resources:
+*   **Funded Startups**: With abundant money, time, and resources, these companies should aim to market "everywhere" their customers are <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a> <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+*   **Bootstrapped Startups**: These typically have a lot of time and mental energy but little money, requiring a different strategic focus <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>.
+
+## B2B Growth Strategy
+
+For B2B companies, the strategy involves a multi-layered approach to reach a smaller, targeted audience (often around 50,000 people) <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a> <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
+
+### Tactical Implementation
+1.  **Email Scraping & Ad Targeting**:
+    *   Scrape target audience emails using tools like Apollo.io or even LinkedIn <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a> <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>.
+    *   Import these emails into Google Ads, Facebook Ads, LinkedIn Ads, or other platforms for custom match lists <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a> <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>. Facebook Ads typically match 30-40% of emails <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>.
+    *   Run indefinite user-generated content (UGC) or [[growth_tactics_for_ai_startups | AI Avatar ads]] addressing audience pain points <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a> <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>. Tools like HeyGen (for Avatar) and Eleven Labs (for voice) are recommended <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a> <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>.
+    *   Create 100 variations of ads with different hooks, settings, backgrounds, and pain points <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a> <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. Allocate 80% of the budget to the best-performing ads (lowest CPC) and 20% for continuous testing to find new optimal variants <a class="yt-timestamp" data-t="00:12:04">[00:12:04]</a> <a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>.
+    *   Founders are encouraged to create digital clones for ads to become famous within their target audience, as "people buy from people not brands" <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a> <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a> <a class="yt-timestamp" data-t="00:13:48">[00:13:48]</a>.
+2.  **Cold Email Strategy**:
+    *   Simultaneously cold email the scraped list using tools like Mail Reef (for bulk sending) and Smartlead.ai or Instantly.AI (for managing campaigns) <a class="yt-timestamp" data-t="00:14:29">[00:14:29]</a> <a class="yt-timestamp" data-t="00:14:33">[00:14:33]</a>.
+    *   **Domain Isolation**: Use separate domains for transactional emails (core app domain), newsletter emails (separate domain), and cold emails (multiple variations of new domains) <a class="yt-timestamp" data-t="00:15:42">[00:15:42]</a> <a class="yt-timestamp" data-t="00:15:52">[00:15:52]</a>. This prevents transactional emails from going to spam if cold email domains are flagged <a class="yt-timestamp" data-t="00:15:59">[00:15:59]</a> <a class="yt-timestamp" data-t="00:16:10">[00:16:10]</a>.
+    *   Cold emails should mirror the ad messaging, focusing on problem-solution orientation <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a> <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>.
+    *   Cold email still works, especially when messaging is highly specific and provides clear value to a niche audience <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a> <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>.
+    *   The goal is to land as many emails as possible in inboxes to create more surface area and connect with leads from different angles <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>.
+3.  **Media Company Approach**:
+    *   Turn customer conversations into a podcast by recording feedback and pain points <a class="yt-timestamp" data-t="00:21:45">[00:21:45]</a> <a class="yt-timestamp" data-t="00:21:50">[00:21:50]</a> <a class="yt-timestamp" data-t="00:22:04">[00:22:04]</a>.
+    *   Send out weekly podcast newsletters to the scraped email list using services like MailerLite or Beehiiv <a class="yt-timestamp" data-t="00:22:08">[00:22:08]</a> <a class="yt-timestamp" data-t="00:22:14">[00:22:14]</a> <a class="yt-timestamp" data-t="00:22:35">[00:22:35]</a>.
+    *   This content-driven approach provides educational value, making it more approachable than transactional cold emails <a class="yt-timestamp" data-t="00:22:57">[00:22:57]</a> <a class="yt-timestamp" data-t="00:23:01">[00:23:01]</a>.
+    *   Building a media arm creates a leverage point within the industry, allowing for negotiations for better deals (e.g., using podcast ad placements to reduce fees with partners) <a class="yt-timestamp" data-t="00:23:11">[00:23:11]</a> <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a> <a class="yt-timestamp" data-t="00:23:45">[00:23:45]</a>.
+    *   It can transform a cost center into a profit center by selling ad placements on the podcast and in the newsletter, potentially subsidizing the entire growth team <a class="yt-timestamp" data-t="00:24:09">[00:24:09]</a> <a class="yt-timestamp" data-t="00:24:15">[00:24:15]</a> <a class="yt-timestamp" data-t="00:24:34">[00:24:34]</a>. This is effectively a "negative CAC" strategy <a class="yt-timestamp" data-t="00:24:52">[00:24:52]</a>.
+    *   Examples of companies acting as media companies include Aero Electronics, Red Bull, and Y Combinator <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a> <a class="yt-timestamp" data-t="00:26:47">[00:26:47]</a> <a class="yt-timestamp" data-t="00:26:51">[00:26:51]</a>.
+4.  **Content Repurposing & Distribution**:
+    *   Transform long-form podcast content into short-form videos, transcripts, blog posts, and whitepapers using AI tools like Swell AI <a class="yt-timestamp" data-t="00:27:52">[00:27:52]</a> <a class="yt-timestamp" data-t="00:28:10">[00:28:10]</a> <a class="yt-timestamp" data-t="00:28:14">[00:28:14]</a>.
+    *   Schedule content across all platforms where customers spend time (LinkedIn, Instagram, etc.) <a class="yt-timestamp" data-t="00:28:35">[00:28:35]</a> <a class="yt-timestamp" data-t="00:28:40">[00:28:40]</a>.
+    *   [[organic_growth_and_marketing_for_apps | Short-form content]] from TikTok or Instagram Reels can go viral on LinkedIn <a class="yt-timestamp" data-t="00:29:02">[00:29:02]</a>.
+    *   Run Instagram-only ads with a call-to-action to follow the account for more content, aiming for Impressions to gain free organic reach <a class="yt-timestamp" data-t="00:29:22">[00:29:22]</a> <a class="yt-timestamp" data-t="00:29:32">[00:29:32]</a> <a class="yt-timestamp" data-t="00:30:18">[00:30:18]</a>. The closer an ad feels to organic content, the cheaper it will be <a class="yt-timestamp" data-t="00:30:46">[00:30:46]</a>.
+
+This integrated approach, combining paid ads, cold email, media creation, and content distribution, allows a company to grow from non-existent to an industry presence within 12 months, generating significant inbound leads and building trust <a class="yt-timestamp" data-t="00:31:10">[00:31:10]</a> <a class="yt-timestamp" data-t="00:31:52">[00:31:52]</a> <a class="yt-timestamp" data-t="00:35:11">[00:35:11]</a>.
+
+## Consumer Growth Strategy
+
+Consumer markets are highly competitive and require "unbelievable marketing" to succeed <a class="yt-timestamp" data-t="00:39:13">[00:39:13]</a>.
+
+### Tactical Implementation
+1.  **Massive Total Addressable Market (TAM)**:
+    *   A huge TAM is crucial for consumer apps to create content broad enough for a large population subset <a class="yt-timestamp" data-t="00:39:57">[00:39:57]</a> <a class="yt-timestamp" data-t="00:40:02">[00:40:02]</a>.
+    *   Develop an application that people genuinely want and that addresses a widespread problem <a class="yt-timestamp" data-t="00:41:07">[00:41:07]</a> <a class="yt-timestamp" data-t="00:41:13">[00:41:13]</a>. [[growth_hacking_with_ai_applications | AI applications]] are changing what's possible in this space <a class="yt-timestamp" data-t="00:41:17">[00:41:17]</a>.
+2.  **Monetization & Ads**:
+    *   Consider charging $7.99/week (translates to ~$29/month) for impulse purchases, leading to three months of revenue per customer <a class="yt-timestamp" data-t="00:41:34">[00:41:34]</a> <a class="yt-timestamp" data-t="00:41:41">[00:41:41]</a>.
+    *   Run Facebook Ads and TikTok Ads with conversion events for app installs and in-app actions (e.g., signup, paid action) <a class="yt-timestamp" data-t="00:42:04">[00:42:04]</a> <a class="yt-timestamp" data-t="00:42:09">[00:42:09]</a>.
+    *   Test many ad variations to find what is most effective <a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a> <a class="yt-timestamp" data-t="00:42:30">[00:42:30]</a>.
+3.  **Influencer & UGC Strategy**:
+    *   Hire 5-10 UGC creators for about $1,000/month per creator for daily cross-posted videos <a class="yt-timestamp" data-t="00:42:36">[00:42:36]</a> <a class="yt-timestamp" data-t="00:42:44">[00:42:44]</a> <a class="yt-timestamp" data-t="00:42:49">[00:42:49]</a>. This acts as a test bed for viral content <a class="yt-timestamp" data-t="00:42:55">[00:42:55]</a>.
+    *   Content should follow a hook-pain point-product-as-hero format, aiming to be entertaining and educational rather than overtly promotional <a class="yt-timestamp" data-t="00:43:05">[00:43:05]</a> <a class="yt-timestamp" data-t="00:43:15">[00:43:15]</a> <a class="yt-timestamp" data-t="00:43:26">[00:43:26]</a>.
+    *   Spin up multiple (e.g., 10) TikTok accounts and remix best-performing UGC content using AI tools (ChatGPT for scripts, HeyGen for video, Eleven Labs for audio, CapCut for editing) <a class="yt-timestamp" data-t="00:43:42">[00:43:42]</a> <a class="yt-timestamp" data-t="00:43:49">[00:43:49]</a> <a class="yt-timestamp" data-t="00:43:55">[00:43:55]</a>.
+4.  **Website & Pixel Strategy**:
+    *   Choose a unique product name to avoid competition on Google search results <a class="yt-timestamp" data-t="00:44:29">[00:44:29]</a>.
+    *   Pixel anyone who touches the website (using Facebook, TikTok, Google pixels) to run indefinite remarketing ads <a class="yt-timestamp" data-t="00:44:39">[00:44:39]</a> <a class="yt-timestamp" data-t="00:44:43">[00:44:43]</a>. This builds a "larger mass" for greater influence <a class="yt-timestamp" data-t="00:45:27">[00:45:27]</a> <a class="yt-timestamp" data-t="00:45:32">[00:45:32]</a>.
+    *   Include clear sign-up or installation calls-to-action on the website, and capture emails for a nurture sequence <a class="yt-timestamp" data-t="00:45:41">[00:45:41]</a> <a class="yt-timestamp" data-t="00:45:47">[00:45:47]</a> <a class="yt-timestamp" data-t="00:45:52">[00:45:52]</a>.
+5.  **Affiliate & Influencer Outreach**:
+    *   Scrape emails of YouTube creators or Instagram accounts in relevant categories using tools like IGleads.io <a class="yt-timestamp" data-t="00:46:15">[00:46:15]</a> <a class="yt-timestamp" data-t="00:46:20">[00:46:20]</a> <a class="yt-timestamp" data-t="00:46:28">[00:46:28]</a> <a class="yt-timestamp" data-t="00:46:35">[00:46:35]</a>.
+    *   Cold email them to inquire about pricing, then analyze average views vs. cost to find arbitrage opportunities in an imperfect market <a class="yt-timestamp" data-t="00:46:59">[00:46:59]</a> <a class="yt-timestamp" data-t="00:47:14">[00:47:14]</a> <a class="yt-timestamp" data-t="00:47:20">[00:47:20]</a>.
+    *   Typical deal structure: Buy a three-video package (e.g., $1,500) and offer an affiliate commission (e.g., 30% recurring) <a class="yt-timestamp" data-t="00:47:38">[00:47:38]</a> <a class="yt-timestamp" data-t="00:47:43">[00:47:43]</a> <a class="yt-timestamp" data-t="00:47:52">[00:47:52]</a>. This creates "stickiness" and a moat against competitors <a class="yt-timestamp" data-t="00:48:11">[00:48:11]</a> <a class="yt-timestamp" data-t="00:48:16">[00:48:16]</a> <a class="yt-timestamp" data-t="00:48:39">[00:48:39]</a>.
+    *   This allows brands to acquire eyeballs for cheaper than traditional ad channels (e.g., $5 CPM vs. $10 average TikTok CPM) <a class="yt-timestamp" data-t="00:49:33">[00:49:33]</a> <a class="yt-timestamp" data-t="00:49:47">[00:49:47]</a>.
+6.  **Programmatic SEO**:
+    *   For consumer products, leverage programmatic SEO by targeting thousands of long-tail, low-difficulty keywords related to the product category <a class="yt-timestamp" data-t="00:50:11">[00:50:11]</a> <a class="yt-timestamp" data-t="00:50:17">[00:50:17]</a> <a class="yt-timestamp" data-t="00:50:24">[00:50:24]</a>.
+    *   Once the app gains domain authority (e.g., 40+ DA from backlinks), it can rank for these keywords <a class="yt-timestamp" data-t="00:50:30">[00:50:30]</a> <a class="yt-timestamp" data-t="00:50:34">[00:50:34]</a>.
+    *   **Process**: Scrape top-ranking content for a target keyword, use AI to create a blog post outline, and write the post section by section <a class="yt-timestamp" data-t="00:51:29">[00:51:29]</a> <a class="yt-timestamp" data-t="00:51:33">[00:51:33]</a> <a class="yt-timestamp" data-t="00:51:38">[00:51:38]</a> <a class="yt-timestamp" data-t="00:51:44">[00:51:44]</a>.
+    *   Publish large volumes of articles (e.g., 10,000) that pass AI humanizer checks <a class="yt-timestamp" data-t="00:52:20">[00:52:20]</a> <a class="yt-timestamp" data-t="00:52:25">[00:52:25]</a>. Once a page receives traffic, a human editor refines it to ensure it resonates with both Google and human readers <a class="yt-timestamp" data-t="00:52:48">[00:52:48]</a> <a class="yt-timestamp" data-t="00:53:04">[00:53:04]</a>.
+    *   Include prominent calls to action throughout the page (after the first paragraph, within every scroll frame, and as a pop-up at 25-50% scroll rate) <a class="yt-timestamp" data-t="00:53:24">[00:53:24]</a> <a class="yt-timestamp" data-t="00:53:30">[00:53:30]</a> <a class="yt-timestamp" data-t="00:53:43">[00:53:43]</a>. This also pixels visitors, adding them to the remarketing funnel <a class="yt-timestamp" data-t="00:54:01">[00:54:01]</a>.
+
+This blend of [[organic_growth_and_marketing_for_apps | organic growth]] through content, targeted paid advertising, and strategic partnerships enables significant growth and profit optimization in the competitive consumer market.

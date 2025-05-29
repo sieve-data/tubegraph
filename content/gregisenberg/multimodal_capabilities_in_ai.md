@@ -1,0 +1,38 @@
+---
+title: Multimodal Capabilities in AI
+videoId: 6h9y1rLem4c
+---
+
+From: [[gregisenberg]] <br/> 
+
+Multimodal capabilities in AI refer to the ability of AI models to process and understand information from multiple modalities, such as text, images, audio, and video, simultaneously. Google's AI Studio and its underlying Gemini models are designed to showcase and enable these advanced features for developers and businesses <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>.
+
+## Google AI Studio and Gemini Models
+
+[[manis_ai_overview_and_capabilities | Google's AI Studio]] is a platform designed to demonstrate the full capabilities of its AI models, primarily the Gemini series <a class="yt-timestamp" data-t="01:09:00">[01:09:00]</a>. It's free to use and provides access to various models, including Gemini 2.0 Flash, Flashlight, Pro (experimental), and Reasoning models <a class="yt-timestamp" data-t="02:45:00">[02:45:00]</a>, <a class="yt-timestamp" data-t="07:12:00">[07:12:00]</a>. The platform aims to remove economic barriers for developers and startups by offering free API keys and substantial token allowances for prototyping <a class="yt-timestamp" data-t="02:45:00">[02:45:00]</a>, <a class="yt-timestamp" data-t="08:04:00">[08:04:00]</a>, <a class="yt-timestamp" data-t="28:42:00">[28:42:00]</a>.
+
+### Key Multimodal Features:
+
+*   **Long Context Processing:** Gemini models excel at processing long inputs, such as 30-minute videos. An example demonstrated the ability to analyze a video tour of the Natural History Museum and extract a list of all museum exhibits mentioned, processing over 531,000 tokens <a class="yt-timestamp" data-t="03:42:00">[03:42:00]</a>, <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>, <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>. This capability allows for the extraction of valuable data from media, which can be used to build directories or other data-rich applications <a class="yt-timestamp" data-t="05:11:00">[05:11:00]</a>, <a class="yt-timestamp" data-t="05:30:00">[05:30:00]</a>.
+*   **Image Understanding and Spatial Analysis:**
+    *   The models can perform OCR (Optical Character Recognition) by looking at an image (e.g., a hurricane) and pulling out context <a class="yt-timestamp" data-t="03:23:00">[03:23:00]</a>, <a class="yt-timestamp" data-t="03:34:00">[03:34:00]</a>.
+    *   Spatial understanding is a baked-in capability, allowing the model to deeply understand objects and their visual representation <a class="yt-timestamp" data-t="13:50:00">[13:50:00]</a>.
+    *   It can generate 2D bounding boxes, dynamically overlaying them on images to identify the positions and coordinates of objects <a class="yt-timestamp" data-t="14:09:00">[14:09:00]</a>, <a class="yt-timestamp" data-t="14:59:00">[14:59:00]</a>.
+    *   Potential [[examples_and_use_cases_of_ai_agents | use cases]] include:
+        *   [[using_ai_for_design_and_branding | Furniture shopping]] websites identifying items in room photos and assisting with image cropping for reverse image search <a class="yt-timestamp" data-t="14:34:00">[14:34:00]</a>, <a class="yt-timestamp" data-t="15:31:00">[15:31:00]</a>.
+        *   Inventory management by snapping pictures or using real-time video feeds to track utilization <a class="yt-timestamp" data-t="15:56:00">[15:56:00]</a>.
+        *   Real-time monitoring of parking garage utilization <a class="yt-timestamp" data-t="16:16:00">[16:16:00]</a>.
+        *   Satellite analysis to explicitly bound different areas based on criteria <a class="yt-timestamp" data-t="16:21:00">[16:21:00]</a>.
+*   **Reasoning Models for Complex Tasks:** These models can "think" about different things before generating a final output <a class="yt-timestamp" data-t="08:32:00">[08:32:00]</a>, <a class="yt-timestamp" data-t="10:16:00">[10:16:00]</a>. An example showed the model planning out the steps to build a fully-fledged website, landing page, and SaaS app from a Python code snippet, detailing desired outcomes, technology stack, and MVP functionality <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>, <a class="yt-timestamp" data-t="10:48:00">[10:48:00]</a>. This thinking process is visible in the UI via a "thoughts" category <a class="yt-timestamp" data-t="10:23:00">[10:23:00]</a>.
+*   **Real-time Streaming and Co-presence (Multimodal Live API):**
+    *   The Multimodal Live API enables real-time interaction where the AI can "see" what the user sees and "hear" what they say <a class="yt-timestamp" data-t="20:11:00">[20:11:00]</a>, <a class="yt-timestamp" data-t="20:22:00">[20:22:00]</a>.
+    *   A demonstration showed the AI listening to speech, observing a code editor, and providing real-time assistance for debugging, such as identifying file path errors or missing API keys <a class="yt-timestamp" data-t="20:35:00">[20:35:00]</a>, <a class="yt-timestamp" data-t="21:13:00">[21:13:00]</a>.
+    *   This capability envisions a future of [[enhancing_media_with_ai_and_voice_interaction | AI co-presence]] where an AI can act as a "senior developer" pair programming with a user, seeing their entire screen and understanding context in real-time <a class="yt-timestamp" data-t="23:20:00">[23:20:00]</a>, <a class="yt-timestamp" data-t="23:35:00">[23:35:00]</a>.
+    *   It also allows for native tool integrations, including code execution in a virtual environment and internet browsing (grounding) to fetch relevant information <a class="yt-timestamp" data-t="25:26:00">[25:26:00]</a>.
+*   **Function Calling and Product Integration:** AI Studio demonstrates [[integrating_ai_with_existing_frameworks | native function calling capabilities]], exemplified by connecting Gemini to the Google Maps API to create a "geoguesser" experience <a class="yt-timestamp" data-t="18:18:00">[18:18:00]</a>. This highlights the potential for a "combinatorial explosion" of new businesses by bringing multiple existing products together with AI at the center <a class="yt-timestamp" data-t="19:04:00">[19:04:00]</a>, <a class="yt-timestamp" data-t="19:15:00">[19:15:00]</a>.
+
+## Business Opportunities
+
+The power of these multimodal AI tools opens up a "huge opportunity" for individuals to build businesses <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a>, <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>. Many service-based businesses that traditionally rely on [[human_versus_ai_services | human labor]] for painful tasks can now be automated using AI <a class="yt-timestamp" data-t="16:52:00">[16:52:00]</a>, <a class="yt-timestamp" data-t="17:08:00">[17:08:00]</a>. The low amount of work required compared to historical SaaS solutions makes these ventures more accessible <a class="yt-timestamp" data-t="19:25:00">[19:25:00]</a>, <a class="yt-timestamp" data-t="19:31:00">[19:31:00]</a>.
+
+The ability of AI to be "co-present" and provide real-time assistance in various tasks, such as coding or video editing, can democratize access to learning and expertise, helping individuals with varying technology familiarity <a class="yt-timestamp" data-t="23:20:00">[23:20:00]</a>, <a class="yt-timestamp" data-t="24:03:00">[24:03:00]</a>, <a class="yt-timestamp" data-t="27:33:00">[27:33:00]</a>. Even with current [[challenges_and_limitations_of_ai_tools | limitations]] or imperfections in the AI's interaction style, the core capabilities ignite new ideas and use cases <a class="yt-timestamp" data-t="26:33:00">[26:33:00]</a>, <a class="yt-timestamp" data-t="26:58:00">[26:58:00]</a>.
