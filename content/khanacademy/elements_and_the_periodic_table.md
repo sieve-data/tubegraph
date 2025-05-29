@@ -1,0 +1,43 @@
+---
+title: Elements and the periodic table
+videoId: IFKnq9QM6_A
+---
+
+From: [[khanacademy]] <br/> 
+
+For thousands of years, humans have observed that different substances in their environment possess distinct [[properties_of_substances|properties]] and react with each other under specific conditions <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. These [[properties_of_substances|properties]] can include how light is reflected, color, and state of matter (solid, liquid, or gas) at various temperatures <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+
+Examples of these substances include carbon (in its graphite form), lead, and gold, often found in solid states <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. Air also consists of different particles like carbon, oxygen, and nitrogen, each with unique [[properties_of_substances|properties]] <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Substances can change their state; for instance, gold or lead can become liquid if heated sufficiently, and carbon can turn into a gas if burned <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>.
+
+## Defining Elements
+
+A fundamental question, once philosophical but now answerable, concerns the smallest unit of a substance that still retains its original [[properties_of_substances|properties]] <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. The answer is that such a smallest unit exists <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. These pure substances, characterized by specific [[properties_of_substances|properties]] at certain temperatures and distinct reactions, are defined as [[elements|elements]] <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
+
+Examples of [[elements|elements]] include carbon, lead, and gold <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>. Historically, water was sometimes considered an [[elements|element]], but it is now known to be composed of more basic [[elements|elements]]: oxygen and hydrogen <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. All known [[elements|elements]] are systematically organized in the [[periodic_table_of_elements|Periodic Table of Elements]] <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. Notable [[elements|elements]] on the table include Carbon (C), Oxygen (O), Nitrogen (N), Silicon (Si), Gold (Au), and Lead (Pb) <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+
+## The Atom: The Basic Unit of Elements
+
+The most fundamental unit of any [[elements|element]] is the [[atoms_as_the_smallest_unit_of_elements|atom]] <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. If a substance like carbon is continuously broken down into smaller chunks, the smallest unit that still possesses the [[properties_of_substances|properties]] of carbon is a carbon [[atoms_as_the_smallest_unit_of_elements|atom]] <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Further breakdown beyond this [[atoms_as_the_smallest_unit_of_elements|atom]] would result in the loss of the original element's [[properties_of_substances|properties]] <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+
+[[atoms_as_the_smallest_unit_of_elements|Atoms]] are incredibly small, almost unimaginably so <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. For context, the width of an average human hair (which is mostly made of carbon) is approximately one million carbon [[atoms_as_the_smallest_unit_of_elements|atoms]] wide <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
+
+## Fundamental Particles of Atoms
+
+While [[atoms_as_the_smallest_unit_of_elements|atoms]] are the basic building blocks of [[elements|elements]], they are themselves composed of even more [[fundamental_particles_of_atoms|fundamental particles]] <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. The arrangement and number of these [[fundamental_particles_of_atoms|fundamental particles]] define the element and its [[properties_of_substances|properties]] <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+
+The three primary [[fundamental_particles_of_atoms|fundamental particles]] that make up an [[atoms_as_the_smallest_unit_of_elements|atom]] are:
+*   **Protons**: These particles define the element <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>. The number of protons in an [[atoms_as_the_smallest_unit_of_elements|atom]]'s nucleus is called the atomic number, which is how [[elements|elements]] are ordered on the [[periodic_table_of_elements|Periodic Table of Elements]] <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>. For example, hydrogen has one proton, helium has two, and carbon has six <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>. Changing the number of protons changes the element itself (e.g., carbon with seven protons becomes nitrogen) <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. Protons carry a positive charge <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>.
+*   **Neutrons**: These particles reside in the nucleus along with protons <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. The number of neutrons can vary within the same element, leading to different versions called isotopes (e.g., Carbon-12 has six neutrons, while Carbon-14 has eight) <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>. The sum of protons and neutrons in the nucleus gives the atomic mass number <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>. Neutrons are electrically neutral <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>.
+*   **Electrons**: These particles are significantly smaller than protons and neutrons and "buzz around" the nucleus <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. While not precisely orbiting like planets, they are bound to the nucleus <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. Electrons carry a negative charge <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>. Due to the electromagnetic force, opposite charges attract, so electrons are attracted to the positively charged protons in the nucleus <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>. In a neutral [[atoms_as_the_smallest_unit_of_elements|atom]], the number of electrons equals the number of protons <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>.
+
+### Electron Behavior and Chemical Reactions
+
+The behavior and configuration of [[electron_behavior_and_chemical_reactions|electrons]] play a crucial role in [[the_role_of_chemistry_in_understanding_reality|chemistry]] and how [[elements|elements]] [[interaction_of_atoms_and_molecules|interact]] <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>.
+
+```ad-note
+**Predicting Interactions**: By understanding the number and configuration of [[electron_behavior_and_chemical_reactions|electrons]] in different [[elements|elements]], scientists can predict how [[atoms_as_the_smallest_unit_of_elements|atoms]] of one [[elements|element]] will react, bond, or repel [[interaction_of_atoms_and_molecules|other atoms]] of the same or different [[elements|elements]] <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
+```
+
+[[electron_behavior_and_chemical_reactions|Electrons]] can be exchanged or "swiped away" between [[atoms_as_the_smallest_unit_of_elements|atoms]] <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. If an [[atoms_as_the_smallest_unit_of_elements|atom]] loses an [[electron_behavior_and_chemical_reactions|electron]], it will have fewer [[electron_behavior_and_chemical_reactions|electrons]] than protons, resulting in a net positive charge <a class="yt-timestamp" data-t="00:12:19">[00:12:19]</a>. This change in charge can significantly alter how the [[atoms_as_the_smallest_unit_of_elements|atom]] [[interaction_of_atoms_and_molecules|interacts]] with others. This concept is fundamental to [[the_role_of_various_chemical_components_in_equations|chemical reactions]] and is a core aspect of [[introduction_to_chemistry|chemistry]] <a class="yt-timestamp" data-t="00:12:39">[00:12:39]</a>.
+
+The ability to manipulate these [[fundamental_particles_of_atoms|fundamental particles]] allows for the change of an [[atoms_as_the_smallest_unit_of_elements|atom]]'s [[properties_of_substances|properties]] or even its transformation into an [[atoms_as_the_smallest_unit_of_elements|atom]] of a different [[elements|element]] <a class="yt-timestamp" data-t="00:12:58">[00:12:58]</a>.

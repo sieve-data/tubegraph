@@ -1,0 +1,34 @@
+---
+title: Role of civilization in the evolution of algebra
+videoId: _LDR1_Prveo
+---
+
+From: [[khanacademy]] <br/> 
+
+The [[origins_of_algebra | origins of algebra]] <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>, and the word itself, are deeply intertwined with the contributions of various ancient civilizations. While the term "algebra" has a specific origin, the underlying ideas have a much longer [[historical_development_of_algebra | history]] <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>, spanning millennia and continents.
+
+## Al-Khwarizmi and the Etymology of Algebra
+
+The word [[introduction_to_algebra | algebra]] <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a> comes from the Arabic word "al-gabr," which means restoration or completion <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>, <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. This term is found in the title of a significant book written by the Persian mathematician [[al_khwarizmi_and_the_etymology_of_algebra | Al-Khwarizmi]] <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>, who lived in Baghdad around 820 AD <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>, <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+
+The English translation of his book's title is "The Compendious Book on Calculation by Completion and Balancing" <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>, <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. The term "al-gabr" within the title specifically refers to "completion" or "restoration," while "wa'l-muqabala" means "balancing" <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>, <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. [[al_khwarizmi_and_the_etymology_of_algebra | Al-Khwarizmi]] <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a> associated "completion" with the operation of moving terms from one side of an equation to another <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>, <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>, <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>.
+
+Many consider [[al_khwarizmi_and_the_etymology_of_algebra | Al-Khwarizmi]]'s <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a> book to be foundational, as it was the first time [[introduction_to_algebra | algebra]] <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a> began to embody many of its modern ideas, particularly the concepts of [[using_algebraic_steps_to_solve_equations | balancing an equation]] <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a> and approaching problems in an [[application_of_abstraction_in_algebra | abstract sense]] <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>, rather than as specific, isolated instances <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>, <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. He is often recognized as one of the fathers of [[introduction_to_algebra | algebra]] <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>.
+
+## [[significant_contributions_to_algebra_by_various_cultures | Early Contributions to Algebra by Various Cultures]]
+
+While [[al_khwarizmi_and_the_etymology_of_algebra | Al-Khwarizmi]] <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a> made significant contributions, he was not the first to explore algebraic ideas. The [[historical_development_of_algebra | history of algebra]] <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a> reveals a progression of ideas across different civilizations:
+
+### Ancient Babylon
+
+The earliest known records of people exploring ideas foundational to [[introduction_to_algebra | algebra]] <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a> come from ancient Babylon, around 2000 BCE <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>, <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>. Stone tablets from this period indicate that people were working on fundamental algebraic concepts, even if they used different symbols and methods of representation <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>, <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>, <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>, <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>, <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. Babylon was part of Mesopotamia, a region vital to the early [[origins_of_algebra | development of algebra]] <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>, <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
+
+### Greek Contributions: Diophantus
+
+Around 200 to 300 AD, a Greek mathematician named Diophantus, who lived in Alexandria <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>, <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>, <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>, made [[significant_contributions_to_algebra_by_various_cultures | significant contributions]] <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a> to [[introduction_to_algebra | algebra]] <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. Diophantus is sometimes referred to as the "father of [[introduction_to_algebra | algebra]]" <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>, <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>, particularly by Western historians <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>, <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>. While the Babylonians preceded him, and [[al_khwarizmi_and_the_etymology_of_algebra | Al-Khwarizmi]] <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a> contributed to its modern abstraction, Diophantus focused more on solving particular problems <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>.
+
+### Indian Contributions: Brahmagupta
+
+Another pivotal figure in the [[historical_development_of_algebra | history of algebra]] <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a> is Brahmagupta, an Indian mathematician who lived around 600 AD <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>, <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. He also made [[significant_contributions_to_algebra_by_various_cultures | significant contributions]] <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a> that furthered the development of the field.
+
+These [[significant_contributions_to_algebra_by_various_cultures | major contributions to algebra]] <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a> from diverse cultures — Babylonian, Greek, Indian, and Islamic — demonstrate the global and incremental evolution of algebraic thought. Each civilization built upon previous ideas, making unique contributions that shaped what we recognize as [[introduction_to_algebra_and_its_importance | algebra]] <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a> today.

@@ -1,0 +1,28 @@
+---
+title: Role of ATP and NADPH in photosynthesis
+videoId: -rsYk4eCKnA
+---
+
+From: [[khanacademy]] <br/> 
+
+Photosynthesis is a crucial biological process that enables plants, bacteria, and algae to convert light energy into chemical energy in the form of sugars or carbohydrates <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>, <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>, <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. This process takes carbon dioxide, water, and sunlight to produce carbohydrates and oxygen <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>, <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. For animals, these carbohydrates serve as fuel, which can be broken down through [[cellular_respiration | cellular respiration]] to generate ATP <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>, <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. The oxygen produced is also essential for life, particularly for organisms that perform [[cellular_respiration | cellular respiration]] <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>, <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+
+## Overview of Photosynthesis Stages
+
+Photosynthesis is generally divided into two main stages <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>:
+
+1.  **[[lightdependent_and_lightindependent_reactions | Light-Dependent Reactions]]**: These reactions require sunlight (photons) to occur <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>, <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+2.  **[[lightdependent_and_lightindependent_reactions | Light-Independent Reactions]] (Dark Reactions/Calvin Cycle)**: Although they can occur in the light, these reactions do not directly require photons <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>, <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>, <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+
+## Production of ATP and NADPH
+
+The [[lightdependent_and_lightindependent_reactions | light-dependent reactions]] are responsible for producing ATP and NADPH <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>. In these reactions, photons excite electrons in chlorophyll, leading to a high-energy state <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>, <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. As these electrons move to a lower energy state, the energy released is harnessed to produce ATP (adenosine triphosphate) and NADPH (nicotinamide adenine dinucleotide phosphate) <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>, <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>. Water is consumed in this process, and oxygen is released as a byproduct <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>, <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>.
+
+*   **ATP**: This molecule serves as the primary cellular or biological currency of energy <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. Its energy is used to power various cellular processes, including the synthesis of carbohydrates.
+*   **NADPH**: NADPH is chemically similar to [[reduction_of_nad_to_nadh_in_glycolysis | NADH]] found in [[cellular_respiration | cellular respiration]], differing only by a phosphate group <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>, <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>. It functions as a reducing agent, meaning it can donate a hydrogen atom and its associated electron to other molecules <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. When NADPH gives away its electron, the receiving molecule is reduced <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>, <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>. The energy released as the electron moves to a lower energy state is crucial for subsequent reactions <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>.
+
+## Role of ATP and NADPH in Carbohydrate Synthesis
+
+The ATP and NADPH produced during the [[lightdependent_and_lightindependent_reactions | light-dependent reactions]] are then utilized in the [[lightdependent_and_lightindependent_reactions | light-independent reactions]], commonly known as the [[lightdependent_and_lightindependent_reactions | Calvin Cycle]] <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>, <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>. The [[lightdependent_and_lightindependent_reactions | Calvin Cycle]] takes in carbon dioxide along with ATP and NADPH <a class="yt-timestamp" data-t="00:10:43">[00:10:43]</a>, <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>. It uses the chemical energy from ATP and the reducing power from NADPH to convert carbon dioxide into phosphoglyceraldehyde (PGAL or G3P), which is a three-carbon molecule <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>, <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>, <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>.
+
+This PGAL molecule serves as a fundamental building block for synthesizing larger carbohydrates, including glucose <a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>. For example, two molecules of PGAL can be combined to produce one molecule of glucose <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>, <a class="yt-timestamp" data-t="00:11:54">[00:11:54]</a>. Thus, ATP provides the energy, and NADPH provides the electrons needed to fix carbon dioxide and build the sugar molecules that are essential for life.
