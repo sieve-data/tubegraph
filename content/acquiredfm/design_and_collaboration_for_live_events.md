@@ -1,0 +1,34 @@
+---
+title: Design and collaboration for live events
+videoId: BhkeMziNI0M
+---
+
+From: [[acquiredfm]] <br/> 
+
+The execution of a large-scale live event, such as the [[acquired_live_event_at_chase_center | Acquired Live event at Chase Center]], emphasizes the critical role of strong partnerships and meticulous design.
+
+## Event Conception and Partnership
+The concept for the [[chase_center_live_show_event | Chase Center live show event]] originated from a call with the [[contribution_of_jp_morgan_and_event_planning | JP Morgan]] team. Initially, [[contribution_of_jp_morgan_and_event_planning | JP Morgan]] suggested a small event within a corner of the [[chase_center_live_show_event | Chase Center]] <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. This idea quickly evolved into a dedicated proposal for an [[acquired_live_event_at_chase_center | Acquired Live event at Chase Center]], driven by the [[contribution_of_jp_morgan_and_event_planning | JP Morgan Payments]] team <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+
+The ability to host such an event is entirely dependent on effective partnering <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. [[contribution_of_jp_morgan_and_event_planning | JP Morgan]] was chosen as a partner due to their deep understanding of the show, as they were listeners <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. This synergy ensures that collaborative ideas fit "like a glove" <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. A key definition of a great partnership is achieving something together that neither party could accomplish alone, with the "Glass Night" event serving as a prime example <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. The presentation of the partnership with [[contribution_of_jp_morgan_and_event_planning | JP Morgan Payments]] was noted for its astounding taste, with [[contribution_of_jp_morgan_and_event_planning | JP Morgan Payments]] aiming to support the "Acquired" brand <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. The role of payments as a centerpiece in building a business naturally aligns with the [[contribution_of_jp_morgan_and_event_planning | JP Morgan Payments]] narrative <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>.
+
+## Event Preparation and Audience Experience
+With 30 days remaining, the preparation involved a "mad dash" to create an exceptional experience for thousands of attendees <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
+Elements of preparation included:
+*   **Content Strategy**: Discussions around the opening, such as a Jensen video, aimed to start the show "hot" <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
+*   **Guest Coordination**: Key individuals like Emily Chang, Daniel X, and Mike Taylor from [[contribution_of_jp_morgan_and_event_planning | JP Morgan Payments]] were confirmed <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. Mike Taylor, a major recording artist with hundreds of millions of listens on Spotify, performed the theme song live, an idea that had been considered on previous occasions <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>.
+*   **Audience Engagement**:
+    *   A pre-event run allowed for interaction with over 100 listeners, helping to alleviate nerves and create a shared tradition <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
+    *   A "lean back" to "lean forward" mode was adopted on stage, signaling a transition from relaxed discussion to a more engaged, historic conversation <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
+    *   The live research meta-episode, involving asking Mark Zuckerberg questions about criticisms of Facebook/Meta on stage, aimed for audience participation in the research process <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. Mark Zuckerberg's candid admission of a "20-year mistake" regarding political miscalculation created a moment of profound impact <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
+*   **Ticket Presale and Audience Coordination**: [[ticket_presale_and_audience_coordination | Ticket sales]] were monitored closely, with rows disappearing quickly <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
+
+## Design and Visual Spectacle
+The event focused on creating a full sensory experience:
+*   **Visual Art**: The approach to design for Acquired transformed after seeing Don's artwork <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. The collaboration with [[contribution_of_jp_morgan_and_event_planning | JP Morgan Payments]] involved seeing elements like posters and stage art at a grand scale <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>. The experience of seeing the entire stadium lit up with personally designed art, including hundreds of album packaging and concert posters, was described as "very cool" <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+*   **Brand Instantiation**: The event provided an opportunity to "live inside the Acquired brand," representing its ultimate physical instantiation, which was previously thought impossible <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+*   **Artistic Vision**: Initial design ideas included a silhouette of the hosts with imagery emanating from them, aiming for a grand, bright, and cohesive visual that made sense for themes coming together in San Francisco <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
+*   **Fashion**: An [[challenges_faced_by_hermes_with_modern_collaborations_and_market_expansion | Hermes]] jacket was specifically sent for the walk-out, highlighting a curated aesthetic for the event <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
+*   **Spectacle**: The extensive planning ensured that the event would be a "spectacle," regardless of specific dialogue, distinguishing it from typical podcasts or other guests' approaches <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. This aligns with the philosophy of great companies that "don't follow the rules" <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.
+
+The partnership with [[contribution_of_jp_morgan_and_event_planning | JP Morgan Payments]] was deemed essential for making the event happen, with no other global partner capable of achieving the same outcome <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>. Looking ahead, the hosts express a mix of "let's go big" and "never again" mindsets, acknowledging the demands of young families, but hints at a potential 2025 event <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>.

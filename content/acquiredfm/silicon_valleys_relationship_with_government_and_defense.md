@@ -1,0 +1,39 @@
+---
+title: Silicon Valleys relationship with government and defense
+videoId: F7e38dtfvJI
+---
+
+From: [[acquiredfm]] <br/> 
+
+The history of Silicon Valley's engagement with the United States government and defense sector is complex, characterized by periods of deep collaboration, deliberate separation, and a modern resurgence of interest. Traditionally, venture capital focused on consumer and enterprise technology, but a new thesis, "American Dynamism," seeks to bridge this gap, recognizing the critical role of technology in national interest and foundational sectors like defense, education, and infrastructure <a class="yt-timestamp" data-t="08:10:10">[08:10:10]</a>.
+
+## Historical Context and Shifting Dynamics
+
+Historically, [[the_creation_and_evolution_of_silicon_valleys_tech_industry|Silicon Valley]] was built on defense investment <a class="yt-timestamp" data-t="15:09:00">[15:09:00]</a>. Early venture capitalists, like Don Valentine, were selling to the Department of Defense <a class="yt-timestamp" data-t="15:00:00">[15:00:00]</a>. However, for a significant period, the modern wisdom from [[Venture Capital Dynamics|venture capital firms]] was to avoid engagement with government and the Department of Defense (DoD), viewing it as "just too hard" due to procurement complexities and regulatory burdens <a class="yt-timestamp" data-t="15:22:00">[15:22:00]</a>. This "do not engage" stance was partly a consequence of Silicon Valley's emergence far from Washington D.C.'s establishment <a class="yt-timestamp" data-t="15:40:00">[15:40:00]</a>.
+
+Despite this narrative of separation, many Silicon Valley companies were already doing the work of government without explicitly acknowledging it <a class="yt-timestamp" data-t="16:37:00">[16:37:00]</a>. Examples include Palantir aiding intelligence agencies and NASA, and ride-sharing companies like Lyft and Uber transforming public transportation <a class="yt-timestamp" data-t="16:44:00">[16:44:00]</a>. The shift in perspective accelerated during the COVID-19 pandemic, highlighting the need for technological innovation in critical physical spaces and societal functions <a class="yt-timestamp" data-t="08:41:00">[08:41:00]</a> <a class="yt-timestamp" data-t="14:11:00">[14:11:00]</a>.
+
+## The American Dynamism Thesis
+
+Andreessen Horowitz's "American Dynamism" practice, led by Katherine Boyle, defines its investment focus as companies that support the national interest <a class="yt-timestamp" data-t="08:10:10">[08:10:10]</a>. This includes:
+*   Companies that sell directly to government, such as aerospace and defense <a class="yt-timestamp" data-t="08:16:00">[08:16:00]</a>.
+*   Companies addressing core civic needs like education, housing, transportation, and infrastructure <a class="yt-timestamp" data-t="08:30:00">[08:30:00]</a>.
+
+These sectors, though massive parts of the American economy, have largely been untouched by software innovation over the past 30 years <a class="yt-timestamp" data-t="08:41:00">[08:41:00]</a>. The thesis posits that these are "harder to build" companies, often requiring more upfront capital and longer periods to mature, unlike pure software plays <a class="yt-timestamp" data-t="11:53:00">[11:53:00]</a>. However, they become "holding companies" relatively quickly, attracting talent and facing less competition than consumer or enterprise tech firms <a class="yt-timestamp" data-t="13:10:00">[13:10:00]</a>.
+
+### Why Now?
+The timing for this thesis is considered unique due to several factors:
+*   **Post-COVID Realization**: The pandemic exposed systemic fragilities and the urgent need for modern solutions in education, healthcare, and infrastructure <a class="yt-timestamp" data-t="09:55:00">[09:55:00]</a> <a class="yt-timestamp" data-t="22:54:00">[22:54:00]</a>.
+*   **Changing Talent Pool**: A new generation of founders, often not traditional engineers, is motivated to solve "real problems" and use off-the-shelf technology to build companies, rather than seeking careers in traditional government or large institutions <a class="yt-timestamp" data-t="23:17:00">[23:17:17]</a> <a class="yt-timestamp" data-t="24:00:00">[24:00:00]</a>.
+*   **Government's Growing Need**: The government is increasingly forced to work with the private sector because the best software talent is not joining government to build internally <a class="yt-timestamp" data-t="18:47:00">[18:47:00]</a> <a class="yt-timestamp" data-t="19:21:00">[19:21:00]</a>. This contrasts with a past where government built most internal tools <a class="yt-timestamp" data-t="19:55:00">[19:55:00]</a>.
+*   **Decentralization of Tech Talent**: The rise of remote work means founders no longer need to be in Silicon Valley to build large companies, leading to a "democratization of tech" across the country <a class="yt-timestamp" data-t="52:39:00">[52:39:00]</a> <a class="yt-timestamp" data-t="56:06:00">[56:06:00]</a>.
+
+### Case Studies
+
+*   **Flock Safety**: An Atlanta-based company building small camera license plate readers to help solve crime <a class="yt-timestamp" data-t="53:53:00">[53:53:00]</a>. Started by selling to homeowners' associations and now used by police chiefs across 30 states <a class="yt-timestamp" data-t="54:33:00">[54:33:00]</a> <a class="yt-timestamp" data-t="55:03:00">[55:03:00]</a>. This exemplifies a company solving civic needs without initially targeting government sales <a class="yt-timestamp" data-t="55:17:00">[55:17:00]</a>.
+*   **Hadrian**: An Los Angeles-based company building automated machine shops for [[Innovations in satellite communications and defense contracting|aerospace and defense manufacturing]] <a class="yt-timestamp" data-t="59:03:00">[59:03:00]</a>. The founder, Chris Power, recognized that existing machine shops were outdated and difficult to modernize, leading him to build new facilities from scratch <a class="yt-timestamp" data-t="01:00:26">[01:00:26]</a>. This company aims to upskill American workers into technically competent machinists, reflecting a return to the collaborative innovation seen between Silicon Valley and the DoD in the 1940s and 1950s <a class="yt-timestamp" data-t="01:03:17">[01:03:17]</a> <a class="yt-timestamp" data-t="01:00:38">[01:00:38]</a>. The company's success is rooted in addressing a critical national need for [[the_evolution_and_potential_of_defense_technology|modern defense contractors]] capable of delivering parts without delay <a class="yt-timestamp" data-t="01:02:50">[01:02:50]</a>.
+*   **Anduril**: This company, focused on [[Innovations in satellite communications and defense contracting|modern defense technology]], was initially considered a "contrarian" and "unpopular" investment in Silicon Valley <a class="yt-timestamp" data-t="01:12:11">[01:12:11]</a>. However, global events like the war in Ukraine have demonstrated the clear need for strong, modern defense capabilities, validating such investments <a class="yt-timestamp" data-t="01:12:41">[01:12:41]</a>.
+
+## A New Era of Collaboration
+
+The American Dynamism thesis suggests that investing in these areas is not "impact investing" or ESG, but rather a source of significant American innovation and a lucrative opportunity for top [[Venture Capital Dynamics|venture firms]] <a class="yt-timestamp" data-t="01:17:18">[01:17:18]</a>. This movement represents a shift where "nothing is not a tech business anymore" <a class="yt-timestamp" data-t="01:06:52">[01:06:52]</a>, and the focus is on creating new companies that address fundamental societal challenges. The goal is for American Dynamism to become a standard category of investment, akin to enterprise software, driving the country's growth for decades to come <a class="yt-timestamp" data-t="01:18:23">[01:18:23]</a>.

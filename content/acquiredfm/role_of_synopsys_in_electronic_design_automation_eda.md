@@ -1,0 +1,56 @@
+---
+title: Role of Synopsys in electronic design automation EDA
+videoId: uSchEDY6y20
+---
+
+From: [[acquiredfm]] <br/> 
+
+Synopsys is an $80 billion company that develops the software essential for chip designers to perform their work <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. It stands as one of the two major players in the field known as Electronic Design Automation (EDA), alongside Cadence Design Systems <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. Often likened to the "Microsoft Excel or Figma for that profession," EDA software manages the immense complexity of chip design, making entirely new types of chips possible <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. Synopsys is considered essential infrastructure behind the AI era and the current wave of semiconductor innovation <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Without EDA and the optimizations its software performs, no AI applications would be possible <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+
+## Origins and the Birth of Synthesis
+
+Synopsys's roots trace back to the mid-1980s when its founding CEO, Art de Geus, was designing chips at General Electric (GE) <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. GE was involved in semiconductors, investing in the "factory of the future" <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. During a severe downturn in the [[challenges_and_strategic_decisions_in_the_semiconductor_industry | semiconductor industry]] in 1985, GE decided to exit the field <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+
+De Geus and a small team of seven, mostly former summer students, had developed innovative design tools, including one called "Socrates," which pioneered the concept of "synthesis" <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a> <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>. Synthesis allowed for the automatic design of circuits, which was a radical idea at the time <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. This technology, though initially developed for specific applications like "gate arrays," yielded astoundingly good results compared to manual design, making circuits 30% smaller and 30% faster <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a> <a class="yt-timestamp" data-t="00:14:47">[00:14:47]</a>.
+
+In a rare successful corporate spin-out, the team, with GE's support, founded Synopsys in 1986 <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a> <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. Synopsys was founded just three months before [[role_of_tsmc_in_the_technology_ecosystem | TSMC]], marking a simultaneous shift in the industry towards fabless design and specialized foundries <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>.
+
+## From Computer-Aided Design to Electronic Design Automation
+
+Before synthesis, chip design was largely manual, often done on paper or with schematic entry tools <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>. The field was known as Computer-Aided Design (CAD), where computers merely "aided" human designers <a class="yt-timestamp" data-t="00:16:48">[00:16:48]</a>. The introduction of synthesis by Synopsys transformed CAD into Electronic Design Automation (EDA) because it could actually *create* and change circuits automatically <a class="yt-timestamp" data-t="00:16:55">[00:16:55]</a> <a class="yt-timestamp" data-t="00:16:58">[00:16:58]</a>.
+
+This concept, dubbed "license to kill" by Synopsys, was initially met with resistance because designers traditionally did not trust tools to alter their work, fearing the introduction of bugs <a class="yt-timestamp" data-t="00:17:10">[00:17:10]</a> <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>. However, the dramatic improvements in circuit size and speed provided by synthesis quickly earned trust <a class="yt-timestamp" data-t="00:14:56">[00:14:56]</a> <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>. This collaboration with early customers, who provided crucial feedback, was vital to the tool's rapid improvement and widespread adoption <a class="yt-timestamp" data-t="00:15:39">[00:15:39]</a> <a class="yt-timestamp" data-t="00:15:53">[00:15:53]</a>.
+
+## Enabling Moore's Law and Addressing Complexity
+
+Synopsys's technology has been critical in sustaining [[the_role_of_technology_choices_and_moores_law_in_semiconductor_advancement | Moore's Law]], contributing to an estimated "10 million x in productivity" <a class="yt-timestamp" data-t="00:30:42">[00:30:42]</a>. The company operates on the principle that to stay on this exponential curve, continuous, relentless innovation is required, often driven by demanding customers <a class="yt-timestamp" data-t="00:31:10">[00:31:10]</a> <a class="yt-timestamp" data-t="00:31:16">[00:31:16]</a>.
+
+Today, Synopsys faces "systemic complexity" where all components, from the lowest level of physics to the highest level of software, must work together <a class="yt-timestamp" data-t="00:37:54">[00:37:54]</a> <a class="yt-timestamp" data-t="00:38:06">[00:38:06]</a>. This includes dealing with advanced manufacturing challenges, such as thermal management and mechanical stress in chips containing billions of transistors <a class="yt-timestamp" data-t="00:38:47">[00:38:47]</a> <a class="yt-timestamp" data-t="00:39:56">[00:39:56]</a>.
+
+### AI in EDA: Optimization and Trust
+
+Synopsys has pioneered the use of AI and machine learning (ML) algorithms for massive optimization problems in EDA <a class="yt-timestamp" data-t="00:19:48">[00:19:48]</a> <a class="yt-timestamp" data-t="00:20:24">[00:20:24]</a>. Starting in 2017, their AI for EDA solutions are now widely used in production by dozens of customers <a class="yt-timestamp" data-t="00:20:54">[00:20:54]</a>.
+
+Initially, [[trust_and_verification_in_aidriven_eda_tools | trust and verification in AI-driven EDA tools]] was a significant hurdle <a class="yt-timestamp" data-t="00:18:05">[00:18:05]</a>. Users wanted to understand every change the AI made, even if the results were consistently better <a class="yt-timestamp" data-t="00:17:52">[00:17:52]</a>. However, given the need for "absolute correctness in functionality" and the enormous cost of manufacturing a faulty chip, rigorous verification steps are still essential even with AI-generated designs <a class="yt-timestamp" data-t="00:22:01">[00:22:01]</a> <a class="yt-timestamp" data-t="00:20:49">[00:20:49]</a>.
+
+## Collaborative Innovation in the Semiconductor Ecosystem
+
+Synopsys plays a "mission critical" role for its customers, such as Nvidia, by enabling them to build the next generation of products <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a> <a class="yt-timestamp" data-t="00:27:05">[00:27:05]</a>. This involves deep [[collaborative_innovation_in_the_semiconductor_industry | collaborative innovation in the semiconductor industry]] with chip customers and foundries like [[role_of_tsmc_in_the_technology_ecosystem | TSMC]] <a class="yt-timestamp" data-t="00:27:32">[00:27:32]</a> <a class="yt-timestamp" data-t="00:27:54">[00:27:54]</a>.
+
+Historically, Synopsys would "enable" designs by taking foundry input and adapting its products <a class="yt-timestamp" data-t="00:36:31">[00:36:31]</a>. In the last 5-6 years, this has evolved into active co-invention, with hundreds of Synopsys engineers working directly with foundries (TSMC, Samsung, Intel, GF) during process technology development <a class="yt-timestamp" data-t="00:37:03">[00:37:03]</a> <a class="yt-timestamp" data-t="00:37:06">[00:37:06]</a>. This ensures that the design tools and manufacturing processes are co-optimized (DTCO - Design Technology Co-Optimization), making it possible to push the boundaries of physics in chip design <a class="yt-timestamp" data-t="00:35:55">[00:35:55]</a> <a class="yt-timestamp" data-t="00:37:23">[00:37:23]</a>.
+
+The company's position is likened to a "lynchpin" in the [[semiconductor_industry_and_tsmc | semiconductor industry]], facilitating the entire value chain from design to manufacturing <a class="yt-timestamp" data-t="00:13:39">[00:13:39]</a> <a class="yt-timestamp" data-t="00:36:08">[00:36:08]</a>.
+
+## Strategic Expansion: From Silicon to System
+
+The future of chip design involves "systemic complexity" (termed "Symore" by Synopsys), moving beyond simple density increases to optimizing entire systems, such as advanced packaging with multiple dies (chiplets) <a class="yt-timestamp" data-t="00:44:57">[00:44:57]</a> <a class="yt-timestamp" data-t="00:49:59">[00:49:59]</a>. This requires advancements in connectivity between components and dealing with complex physical phenomena like thermal issues <a class="yt-timestamp" data-t="00:43:37">[00:43:37]</a> <a class="yt-timestamp" data-t="00:42:59">[00:42:59]</a>.
+
+To further expand its role "from Silicon to System," Synopsys announced the [[synopsys_strategic_acquisition_of_ansys | strategic acquisition of Ansys]] <a class="yt-timestamp" data-t="01:04:11">[01:04:11]</a>. Ansys is a leader in multi-physics simulation and analysis <a class="yt-timestamp" data-t="01:04:54">[01:04:54]</a>. This acquisition addresses two key areas:
+1.  **Deep Core Business**: Integrating Ansys's expertise helps overcome challenges related to electronics and deep physics (thermal, structural) in advanced chip manufacturing <a class="yt-timestamp" data-t="01:04:02">[01:04:02]</a>.
+2.  **System Companies**: It allows Synopsys to cater to system-level companies (e.g., automotive OEMs) who need to design and simulate entire electronic systems, effectively creating a "digital twin" of a car or other complex products <a class="yt-timestamp" data-t="01:04:31">[01:04:31]</a> <a class="yt-timestamp" data-t="01:05:06">[01:05:06]</a>.
+
+This expansion reflects a growing trend where companies beyond traditional [[semiconductor_industry_and_tsmc | semiconductor industry]] players, including eight of the top 10 market cap companies, are designing their own chips <a class="yt-timestamp" data-t="01:01:18">[01:01:18]</a> <a class="yt-timestamp" data-t="01:01:20">[01:01:20]</a>. Fifteen years ago, nearly 100% of Synopsys's revenue came from semiconductor companies; today, 45% comes from system companies <a class="yt-timestamp" data-t="01:01:55">[01:01:55]</a> <a class="yt-timestamp" data-t="01:02:12">[01:02:12]</a>. This shift is driven by an "end market pull," where specialized hardware is needed to meet the demands of advanced applications like AI <a class="yt-timestamp" data-t="01:00:08">[01:00:08]</a>.
+
+## Enduring Passion and Future Directions
+
+Synopsys maintains a core passion for innovation, consistently working on what seems "almost impossible" <a class="yt-timestamp" data-t="01:11:02">[01:11:02]</a>. The company operates within a highly collaborative environment, recognizing that its success is intertwined with that of its customers and partners <a class="yt-timestamp" data-t="00:56:58">[00:56:58]</a>. This collaborative spirit, coupled with a relentless pursuit of improvement, positions Synopsys as a crucial player in the ongoing advancement of the digital world.

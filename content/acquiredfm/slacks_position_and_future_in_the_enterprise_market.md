@@ -1,0 +1,50 @@
+---
+title: Slacks position and future in the enterprise market
+videoId: kOEVszzMimc
+---
+
+From: [[acquiredfm]] <br/> 
+
+Slack, a prominent messaging platform, was acquired by [[Salesforce acquisition of Slack | Salesforce]] for $27.7 billion in cash and stock, announced two hours after [[Salesforce acquisition of Slack | Salesforce]]'s earnings on December 1, 2020 <a class="yt-timestamp" data-t="06:01:06">[06:01:06]</a>. This acquisition is considered the largest software deal since IBM bought Red Hat in 2018 <a class="yt-timestamp" data-t="07:27:56">[07:27:56]</a>.
+
+## Slack's Market Position Before Acquisition
+Prior to its acquisition, Slack was recognized as one of the best SaaS companies across various metrics <a class="yt-timestamp" data-t="04:42:07">[04:42:07]</a>. It ranked as the fifth-fastest growing company with the second-best net dollar retention among its peers <a class="yt-timestamp" data-t="04:56:56">[04:56:56]</a>. Many fast-growing startups utilized Slack, leading to its growth alongside them <a class="yt-timestamp" data-t="05:08:04">[05:08:04]</a>.
+
+Despite its strong performance, Slack was often perceived as undervalued in the market <a class="yt-timestamp" data-t="10:09:07">[10:09:07]</a>. This undervaluation was largely attributed to the intense competition and narratives surrounding Microsoft Teams <a class="yt-timestamp" data-t="10:46:16">[10:46:16]</a>.
+
+### The Microsoft Teams Challenge
+Microsoft Teams was seen as Slack's primary competitor, and Microsoft aggressively targeted Slack by name in its marketing and user reports <a class="yt-timestamp" data-t="10:49:09">[10:49:09]</a>. While Microsoft Teams reported user counts ten times higher than Slack (around 100 million vs. 12 million) <a class="yt-timestamp" data-t="13:21:40">[13:21:40]</a>, critics argued that comparing their user bases was an "apples and oranges" situation <a class="yt-timestamp" data-t="20:25:21">[20:25:21]</a>.
+
+> [!info] Microsoft's Strategy
+> Microsoft's strategy with Teams was to position it as a hub for all things Microsoft within an organization, leveraging its immense distribution power through Windows and Office 365 <a class="yt-timestamp" data-t="14:17:15">[14:17:17]</a> <a class="yt-timestamp" data-t="17:51:32">[17:51:32]</a>. Slack CEO Stewart Butterfield suggested that Microsoft saw Slack as a direct threat to email and its entire Office suite <a class="yt-timestamp" data-t="11:00:30">[11:00:30]</a>. Unlike Zoom, which is primarily a video product, Slack's ambition to be a central platform for integrated, best-in-class software made it a more significant threat to Microsoft's core business <a class="yt-timestamp" data-t="16:00:46">[16:00:46]</a> <a class="yt-timestamp" data-t="16:36:20">[16:36:20]</a>.
+
+### Financial Performance (Pre-Acquisition)
+Slack's quarterly revenue stood at $235 million <a class="yt-timestamp" data-t="39:39:18">[39:39:18]</a>, with annual growth rates of 49% (previous quarter) and 39% (current quarter) <a class="yt-timestamp" data-t="39:51:00">[39:51:00]</a>. It boasted 86% gross margins <a class="yt-timestamp" data-t="38:24:26">[38:24:26]</a> and had recently become free cash flow positive, showing a significant improvement in cash flow from $10 million to $36 million in a single quarter <a class="yt-timestamp" data-t="38:29:43">[38:29:43]</a>.
+
+Despite these strong financial indicators, Slack's stock price often remained flat or traded below its Direct Public Offering (DPO) price <a class="yt-timestamp" data-t="06:57:46">[06:57:46]</a> <a class="yt-timestamp" data-t="17:27:06">[17:27:06]</a>. This performance led to a C- grade for its tenure as a public company, largely due to its inability to control the market narrative against Microsoft Teams <a class="yt-timestamp" data-t="11:15:35">[11:15:35]</a> <a class="yt-timestamp" data-t="11:47:04">[11:47:04]</a> <a class="yt-timestamp" data-t="11:47:04">[11:47:04]</a>.
+
+## Slack Connect: A Strategic Advantage
+[[Slack Connect and external collaboration features | Slack Connect]], which facilitates communication between companies, was identified as a key strategic asset <a class="yt-timestamp" data-t="29:11:59">[29:11:59]</a>. Its endpoint count grew rapidly, from 380,000 to 520,000 in just one quarter <a class="yt-timestamp" data-t="29:47:02">[29:47:02]</a>. [[Slack Connect and external collaboration features | Slack Connect]] offers a "try before you buy" mechanism, allowing external partners to experience Slack's product quality, potentially leading to broader adoption within their organizations <a class="yt-timestamp" data-t="31:12:35">[31:12:35]</a>. It aligns with Slack's ambition to be an external communication tool, similar to how [[The Enterprise software market and ServiceNows role | Salesforce]] manages external communications through its CRM <a class="yt-timestamp" data-t="32:46:58">[32:46:58]</a>.
+
+## Reasons for the Acquisition by Salesforce
+The acquisition by [[Salesforce acquisition of Slack | Salesforce]] provided Slack with a massive professional sales force, addressing its challenge in gaining a foothold in larger organizations <a class="yt-timestamp" data-t="28:16:03">[28:16:03]</a> <a class="yt-timestamp" data-t="01:01:00">[01:01:00]</a>. For [[Salesforce acquisition of Slack | Salesforce]], the acquisition was primarily a distribution deal aimed at significantly growing its enterprise revenue <a class="yt-timestamp" data-t="01:04:49">[01:04:49]</a>.
+
+> [!quote] The "Operating System for the New Way to Work"
+> The official press release stated that "combining Slack with [[Salesforce acquisition of Slack | Salesforce]] Customer 360 will be transformative for customers and the industry. The combination will create the operating system for the new way to work, uniquely enabling companies to grow and succeed in an all digital world" <a class="yt-timestamp" data-t="24:43:03">[24:43:03]</a>. Slack was envisioned to become the "new interface for [[Salesforce acquisition of Slack | Salesforce]] Customer 360" <a class="yt-timestamp" data-t="25:01:21">[25:01:21]</a>.
+
+The deal also offered Slack a 55% premium over its trading price before the news leaked, making it a compelling offer despite its recent achievement of cash flow positivity <a class="yt-timestamp" data-t="41:48:47">[41:48:47]</a>. Stewart Butterfield, Slack's CEO, is expected to remain with the company <a class="yt-timestamp" data-t="07:10:48">[07:10:48]</a>, allowing him to continue focusing on product development rather than the complexities of enterprise sales and competition with Microsoft <a class="yt-timestamp" data-t="44:54:19">[44:54:19]</a>.
+
+## The Future of Slack within Salesforce
+The future of Slack under the [[Salesforce acquisition of Slack | Salesforce]] umbrella could unfold in several ways:
+
+### A-Plus Scenario
+In an ideal scenario, [[Salesforce acquisition of Slack | Salesforce]] successfully leverages its distribution channel to massively increase Slack's revenue growth <a class="yt-timestamp" data-t="01:24:02">[01:24:02]</a>. Slack becomes a trustworthy vendor for large companies, gaining a "Microsoft-like" level of authorization for widespread adoption <a class="yt-timestamp" data-t="01:24:20">[01:24:20]</a>. Furthermore, this acquisition could catalyze an "anti-Microsoft alliance" of best-of-breed SaaS companies, with [[Salesforce acquisition of Slack | Salesforce]] as the viable central distribution channel, opening new markets for innovative products like Superhuman and Coda <a class="yt-timestamp" data-t="01:25:01">[01:25:01]</a>. [[Slack Connect and external collaboration features | Slack Connect]] could humanize the sales process and build strong network effects between companies <a class="yt-timestamp" data-t="01:25:49">[01:25:49]</a>.
+
+### F-Scenario
+The worst-case scenario involves a failure to effectively integrate Slack and [[Salesforce acquisition of Slack | Salesforce]] products <a class="yt-timestamp" data-t="01:21:21">[01:21:21]</a>. Slack might become "more [[Salesforce acquisition of Slack | Salesforce]]" in its user experience and sales approach, turning off startups and high-growth companies that are hesitant to become part of a larger enterprise ecosystem <a class="yt-timestamp" data-t="01:20:33">[01:20:33]</a>. This could lead to product atrophy and a loss of innovation, allowing a new generation of collaboration tools (like Discord) to capture the market of younger companies <a class="yt-timestamp" data-t="01:23:22">[01:23:22]</a>.
+
+### C-Scenario
+An average outcome would see Slack remain relatively flat in its market position within [[Salesforce acquisition of Slack | Salesforce]]. While its product execution may continue to be strong beneath the surface <a class="yt-timestamp" data-t="01:19:01">[01:19:01]</a>, it might underperform the broader market, failing to fully leverage [[Salesforce acquisition of Slack | Salesforce]]'s distribution while also not suffering significant product or user base decline <a class="yt-timestamp" data-t="01:17:28">[01:17:28]</a>. This is partly attributed to the challenge of communicating its value proposition effectively in a market dominated by aggressive competitors <a class="yt-timestamp" data-t="01:16:38">[01:16:38]</a>.
+
+> [!info] The Rebündling of Enterprise Software
+> The acquisition of Slack by Salesforce hints at a potential "rebundling" in the [[Enterprise software market and ServiceNows role | enterprise software market]] <a class="yt-timestamp" data-t="01:15:15">[01:15:15]</a>. After years of "bring your own device" and credit-card-driven SaaS adoption leading to "subscription fatigue," larger platforms like [[Salesforce acquisition of Slack | Salesforce]] might aim to consolidate [[Enterprise software market and ServiceNows role | best-of-breed applications]] to alleviate procurement pain <a class="yt-timestamp" data-t="01:22:10">[01:22:10]</a>. However, this rebundling might not occur through traditional software bundling, but rather at the financial or management level, such as corporate card solutions that track and manage spend <a class="yt-timestamp" data-t="01:40:53">[01:40:53]</a>.

@@ -1,0 +1,50 @@
+---
+title: The beginnings of Enron and Kenneth Lays role as CEO
+videoId: 6SOx_yFXRkE
+---
+
+From: [[acquiredfm]] <br/> 
+
+Kenneth Lay, the central figure in the [[enron_financial_scandal | Enron]] story, emerged from humble beginnings to become a powerful force in the energy industry. His journey laid the groundwork for the company that would eventually become [[enron_financial_scandal | Enron]].
+
+## [[early_life_and_education_of_kenneth_lay | Early Life and Education]]
+
+Born in rural Missouri in 1942, Lay grew up in poverty, his father being a Baptist preacher who also ran a failing general store <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. Despite financial struggles, his family prioritized education. When his older sister graduated high school, the family relocated to Columbia, Missouri, so she could live at home while attending the University of Missouri <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. Lay followed in her footsteps, also attending the University of Missouri, where he developed a lifelong passion for economics <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. He was a star student in the economics department <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+
+## [[kenneth_lays_career_in_the_energy_industry | Early Career and Government Service]]
+
+After graduating, Lay entered the oil industry <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. While working, he completed a PhD in economics by studying on nights and weekends <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. In the mid-1970s, his former professor from Missouri, who had been nominated to the Federal Power Commission, recruited Lay to join him in Washington D.C. as deregulation began to take hold <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. Lay served as the Deputy Under Secretary of Energy in the Department of the Interior during a period of oil shocks and increasing discussion about deregulation <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+
+After a few years in government, Lay returned to the energy industry, becoming president and the number two operator at Florida Gas, a pipeline company <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. By all accounts, he appeared to be a promising, well-rounded professional with a PhD in economics, civil service experience, and operational experience <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. He also served in the Navy during Vietnam as a naval intelligence officer <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+
+## [[kenneth_lays_career_in_the_energy_industry | Houston and the Natural Gas Innovation]]
+
+In 1982, Lay's former boss, who had moved to Transco Energy in Houston, Texas, a major hub for the oil and gas sector, brought Lay over to join him <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. Upon his arrival in Houston, two significant events were unfolding: the energy industry was undergoing deregulation, and surprisingly, energy prices fell for the first time in a decade <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+
+Transco faced a crisis, having contracted to buy oil and gas assets at ever-increasing prices, while market prices had plummeted <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>. Leveraging his economics background, Lay devised a groundbreaking solution: create a trading market for natural gas <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. Instead of the pipeline company directly buying gas from producers, Transco would operate the pipelines in the middle and facilitate a spot market where end consumers (like factories and utilities) could trade directly with producers <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+
+This innovation was a massive success, making Lay an industry legend <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>. Prior to Lay's work at Transco, the concept of trading or financialization of energy barely existed due to government regulation <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>. Lay's model established a real-time, appropriate price for energy, shifting from long-term contracts to a dynamic spot market <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>. His combination of industry experience, economics training, and government exposure made him the perfect person to pioneer this "opening of the floodgates" for energy markets <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
+
+## [[kenneth_lays_leadership_at_houston_natural_gas_and_the_merger_with_internorth | Leadership at Houston Natural Gas and the Formation of Enron]]
+
+In June 1984, Lay, then number two at Transco, was poached by Houston Natural Gas (HNG) to become its CEO <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>. HNG was a significant publicly traded energy company, and this was a major promotion for Lay <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
+
+The following year, in 1985, Lay received a call from the CEO of InterNorth, the largest pipeline company in America, based in Omaha, Nebraska <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>. InterNorth, a more conservative and old-school company, was being pursued by corporate raider Irwin Jacobs <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. To ward off Jacobs, InterNorth's CEO proposed a merger with HNG as a "poison pill," aiming to create a combined company too large to be pursued <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>.
+
+InterNorth acquired HNG for $2.3 billion, a 40% premium to its stock price <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>. While InterNorth was the larger entity, it quickly became clear that Lay and the HNG team would be running the combined operation <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. This strategic maneuver led to Lay effectively taking control, with HNG executives gaining significant influence and board seats <a class="yt-timestamp" data-t="00:11:09">[00:11:09]</a>.
+
+A major cultural clash immediately arose concerning the headquarters location for the new company. InterNorth management and board members wanted to keep the company in Omaha, emphasizing its political connections and local job preservation <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>. Lay, a consummate politician and a "Texas Oil Man" by this point, had no interest in moving to Omaha, preferring to stay in Houston <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>. InterNorth's primary asset was a valuable 20,000-mile pipeline system, including "Northern Natural," a major north-south line <a class="yt-timestamp" data-t="00:12:07">[00:12:07]</a>.
+
+### Enter Jeffrey Skilling
+
+To resolve the headquarters dispute, the combined company hired McKinsey & Company <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. The assignment landed on the desk of Jeffrey Skilling, a "hot shot superstar Junior partner" in McKinsey's Houston office <a class="yt-timestamp" data-t="00:13:19">[00:13:19]</a>. Skilling, a Baker Scholar (top 5% of his class) from Harvard Business School, was known for his blunt self-confidence, famously telling the dean of HBS during his interview, "I'm effing smart" <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>.
+
+Skilling's findings, presented to the board in Omaha, concluded that the company should logically be based in Houston <a class="yt-timestamp" data-t="00:14:19">[00:14:19]</a>. This board meeting, held in 1985 or 1986, was also where Lay executed a "coup" <a class="yt-timestamp" data-t="00:17:19">[00:17:19]</a>. The prior CEO was fired, and Lay became the CEO of the newly merged company <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>. Though the board initially resisted the headquarters move to Omaha, Lay, ever the politician, didn't press the issue, having just secured the CEO position <a class="yt-timestamp" data-t="00:17:33">[00:17:33]</a>. The headquarters move did happen shortly after <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>.
+
+This meeting marked the first encounter between Lay and Skilling <a class="yt-timestamp" data-t="00:18:04">[00:18:04]</a>. Lay, in his diplomatic style, apologized to Skilling for the drama and praised his work on the study <a class="yt-timestamp" data-t="00:18:13">[00:18:13]</a>. Lay then offered Skilling the role of McKinsey partner to lead strategic initiatives for the combined company in Houston <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a>. "And so it begins" <a class="yt-timestamp" data-t="00:18:34">[00:18:34]</a>. The new company was named [[enron_financial_scandal | Enron]].
+
+### The Appeal of Natural Gas
+
+During this period, natural gas was perceived as a "good guy" in the energy sector, in contrast to the growing "American ire toward the dirty big oil and coal" <a class="yt-timestamp" data-t="00:14:35">[00:14:35]</a>. Previously considered a useless byproduct of crude oil extraction, scientific discoveries had expanded its use cases, particularly for heating homes <a class="yt-timestamp" data-t="00:14:55">[00:14:55]</a>. It was seen as the "next great Frontier of pseudo clean energy," akin to the "Tesla of the 1980s" <a class="yt-timestamp" data-t="00:15:15">[00:15:15]</a>.
+
+Natural gas offered several advantages: it was cleaner than oil, it was the first segment of the energy industry to be sufficiently deregulated for innovative market activities, and it was viewed as a domestic alternative to foreign oil, a sentiment that resonated strongly with American politicians since the 1970s oil embargoes <a class="yt-timestamp" data-t="00:15:32">[00:15:32]</a>. Its natural properties also made it highly useful for consumers and ideal for a free-market enterprise, with efficient pipelining and easy, dense storage <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>.

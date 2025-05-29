@@ -1,0 +1,42 @@
+---
+title: Digital transformation in traditional sectors like manufacturing and education
+videoId: F7e38dtfvJI
+---
+
+From: [[acquiredfm]] <br/> 
+
+Digital transformation is increasingly impacting traditional sectors such as manufacturing and education, which have historically been less touched by technological innovation compared to consumer or enterprise software <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. Andreessen Horowitz, through its "American Dynamism" practice, is specifically focusing on investing in companies that support national interests, including those in these large categories <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
+
+## Key Sectors and Challenges
+
+The "American Dynamism" thesis encompasses sectors like education, housing, transportation, infrastructure, and aerospace and defense <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. These are vital areas that affect every citizen <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. However, they are considered "hard sectors" due to several factors:
+*   **Not pure software** <a class="yt-timestamp" data-t="00:11:06">[00:11:06]</a>.
+*   **Long-standing with regulatory capture** <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+*   **Entrenched interests and large existing players** <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>.
+
+Companies in these areas are often harder to build, requiring more upfront capital, longer private periods, and taking longer to show returns (going "deeper down the j-curve") <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>.
+
+### Education
+The education sector, in particular, is noted for still operating on a 19th-century model <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>. The COVID-19 pandemic highlighted the lack of effective solutions for educating children for the vast majority of Americans <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. Post-COVID, there is a significant founder appetite for innovating towards a 21st-century education model <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+
+### Manufacturing and Defense
+In manufacturing, particularly aerospace and defense, many machine shops are owned by baby boomers nearing retirement, and their children often lack the capacity or desire to take over <a class="yt-timestamp" data-t="01:00:01">[01:00:01]</a>. Integrating software into these existing shops is nearly impossible, necessitating the creation of new, automated facilities <a class="yt-timestamp" data-t="01:00:19">[01:00:19]</a>. This sector requires upskilling American workers to become technically competent machinists, moving away from the idea that manual labor is embarrassing <a class="yt-timestamp" data-t="01:00:38">[01:00:38]</a>.
+
+The U.S. government, while historically preferring to build internal tools, has not fully adapted to the modern trend of buying software and outsourcing services <a class="yt-timestamp" data-t="01:19:10">[01:19:10]</a> <a class="yt-timestamp" data-t="01:19:17">[01:19:17]</a>. This resistance to leveraging technology has contributed to the bloat and expense of civic goods like defense, education, and healthcare, whose costs have not decreased like other consumer goods <a class="yt-timestamp" data-t="01:21:20">[01:21:20]</a> <a class="yt-timestamp" data-t="01:21:25">[01:21:25]</a>.
+
+## The "Why Now?" for Transformation
+The current moment is ripe for digital transformation in these sectors due to several factors:
+*   **COVID-19's impact:** The pandemic fundamentally changed the world, prompting a realization of the need for innovation in essential services <a class="yt-timestamp" data-t="01:14:17">[01:14:17]</a> <a class="yt-timestamp" data-t="01:14:26">[01:14:26]</a>.
+*   **Shifting talent pool:** Silicon Valley's talent is now more diverse, with founders from non-engineering backgrounds like former teachers or Department of Defense procurement officers <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>. These individuals are motivated to solve "real problems" and can build companies without needing to create their own infrastructure from scratch <a class="yt-timestamp" data-t="01:23:20">[01:23:20]</a> <a class="yt-timestamp" data-t="01:23:50">[01:23:50]</a>.
+*   **Increased access to capital:** The tech industry has seen a "glut of capital" that enables more founders to start companies <a class="yt-timestamp" data-t="01:23:35">[01:23:35]</a>.
+*   **Geographic decentralization:** COVID-19 accelerated the trend of founders building companies from anywhere, including their hometowns in "second and third cities" across America, democratizing tech <a class="yt-timestamp" data-t="01:52:38">[01:52:38]</a> <a class="yt-timestamp" data-t="01:56:04">[01:56:04]</a>. This reverses the previous "brain drain" to major tech hubs <a class="yt-timestamp" data-t="01:53:09">[01:53:09]</a>.
+
+### Examples of Transformation
+*   **Flock Safety:** An Atlanta-based company that builds camera license plate readers to help solve crime <a class="yt-timestamp" data-t="01:53:53">[01:53:53]</a>. It started by selling to homeowners' associations and, due to its effectiveness in solving dangerous crimes, now sells to police chiefs across 30 states <a class="yt-timestamp" data-t="01:54:33">[01:54:33]</a> <a class="yt-timestamp" data-t="01:55:01">[01:55:01]</a>. This company exemplifies solving civic needs without initially targeting government <a class="yt-timestamp" data-t="01:55:17">[01:55:17]</a>.
+*   **Hadrian:** An Los Angeles-based company that is building automated machine shops for aerospace and defense [[manufacturing_distribution_and_scalability | manufacturing]] <a class="yt-timestamp" data-t="00:59:08">[00:59:08]</a>. The founder recognized the impending crisis from aging machine shop owners and the difficulty of modernizing existing facilities <a class="yt-timestamp" data-t="01:00:14">[01:00:14]</a>. Hadrian is creating new, automated factories and upskilling American workers to meet the needs of the aerospace and defense industries <a class="yt-timestamp" data-t="01:00:33">[01:00:33]</a>.
+*   **Anduril:** A company that was initially unpopular due to its focus on defense, but its mission has become clear in the context of global events like the war in Ukraine <a class="yt-timestamp" data-t="01:12:11">[01:12:11]</a> <a class="yt-timestamp" data-t="01:12:36">[01:12:36]</a>. Anduril demonstrates the need for modern defense contractors built with modern technology <a class="yt-timestamp" data-t="01:13:07">[01:13:07]</a>.
+
+## A New Era for Innovation
+The current environment signifies a "young people's revolution" where ambitious individuals seek to solve real-world problems and have an impact, rather than pursuing traditional careers in government or large institutions <a class="yt-timestamp" data-t="01:26:27">[01:26:27]</a> <a class="yt-timestamp" data-t="01:26:00">[01:26:00]</a>. This is further supported by the rise of [[impact_of_artificial_intelligence_and_open_source_on_modern_businesses | small businesses]] and the [[shift_in_retail_with_technology_and_ecommerce | creator economy]] on the internet, where individuals and small teams can leverage tools like Shopify or Substack to build thriving businesses <a class="yt-timestamp" data-t="01:04:55">[01:04:55]</a>.
+
+The venture capital ecosystem is evolving to support these new categories of innovation <a class="yt-timestamp" data-t="01:18:09">[01:18:09]</a>. What was once considered "unconsensus" or niche, like investing in space, is becoming mainstream as the value and necessity of these transformations become evident <a class="yt-timestamp" data-t="01:17:45">[01:17:45]</a> <a class="yt-timestamp" data-t="01:17:51">[01:17:51]</a>. The long-term goal is for every venture capital firm to have a practice similar to "American Dynamism," recognizing it as a primary source of American innovation and a category that will drive the country for decades to come <a class="yt-timestamp" data-t="01:16:59">[01:16:59]</a> <a class="yt-timestamp" data-t="01:18:28">[01:18:28]</a>. As technology permeates every sector, the potential for building "really big businesses by attacking these broad swaths of the American economy" becomes increasingly clear <a class="yt-timestamp" data-t="01:18:42">[01:18:42]</a> <a class="yt-timestamp" data-t="01:18:45">[01:18:45]</a>.

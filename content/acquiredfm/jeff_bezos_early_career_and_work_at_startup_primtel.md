@@ -1,0 +1,38 @@
+---
+title: Jeff Bezos early career and work at startup Primtel
+videoId: S6n7KaT6mlI
+---
+
+From: [[acquiredfm]] <br/> 
+
+Before founding [[amazons_founding_and_early_years | Amazon]], Jeff Bezos embarked on a career path that provided crucial foundational experience in technology and finance, laying the groundwork for his future ventures.
+
+## Early Career: Phytel
+After graduating from college in 1986, Bezos did not immediately enter finance. Instead, he joined a startup called Phytel, which had been founded by Columbia computer science professors <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. Phytel was focused on developing very early network technology for high-speed trading applications, serving as a precursor to today's co-located data centers for financial exchanges <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+
+Bezos worked at Phytel for two years <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>. This experience exposed him to early networked computing, providing him with not just a basic understanding of how it worked, but also practical insights into data flow, packet counts, hardware capabilities, and bandwidth implications <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. This exposure helped him "feel the types of applications" that could be built using the infrastructure of the day <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+
+By 1988, Bezos recognized that the customers of Phytel, engaged in quantitative trading and finance, were making significantly more money <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. This realization prompted his decision to transition into the financial sector.
+
+## Transition to Investment Banking and Entrepreneurial Spirit
+In 1988, [[jeff_bezos_transition_to_investment_banking | Jeff Bezos transitioned from Phytel to investment banking]] <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. As a computer science graduate and technical professional who had worked in network operations for early-stage quant finance, it is presumed he continued in quantitative trading and finance <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. He joined Bankers Trust, which later became part of Deutsche Bank through mergers <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
+
+Even during his time in finance, Bezos maintained an entrepreneurial drive <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>. He befriended Halsey Minor, and together they almost started a financial newsletter startup <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>. Although their joint venture didn't materialize, Halsey Minor went on to found CNET around the same time <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. Bezos often chuckled at the irony that while CNET distributed written content directly over the web, [[amazons_founding_and_early_years | Amazon]] initially distributed books, printing words on paper first and then shipping them <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
+
+## Joining D. E. Shaw & Co.
+In 1990, a headhunter convinced Bezos to interview at a relatively new financial firm called D. E. Shaw & Co., founded just a couple of years prior <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. Unexpectedly, Bezos "completely falls in love" with the firm <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+
+### The Vision of D. E. Shaw
+David E. Shaw, the founder, held a Stanford computer science PhD from the 1980s and was a computer science professor at Columbia University <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. His step-father was a finance professor, sparking his interest in finance <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. Shaw left Columbia in 1986 to join Morgan Stanley and started D. E. Shaw in 1988 <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+
+Shaw's inspiration was Jim Simons, who founded Renaissance Technologies (RenTec) in 1982 <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. RenTec's core Medallion Fund, private capital of employees, famously averaged a 66.1% annual return from 1988 to 2018 <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>. While D. E. Shaw was a quant hedge fund like RenTec, they resisted being solely defined by this. They saw themselves as "creative artisans" who invested in and started businesses, approaching the world with different perspectives <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>.
+
+### Bezos's Rise and Influence
+[[Influence of DE Shaw on Jeff Bezos | The environment at D. E. Shaw deeply influenced Jeff Bezos]]. He quickly rose through the ranks, becoming the fourth senior vice president at the firm, the highest level below David Shaw <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>. Being in his mid-to-late 20s, he was seen as the firm's rising star <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. Bezos and David Shaw became very close, with Shaw likely serving as a mentor <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>.
+
+Bezos was heavily involved in recruiting, seeking out the smartest people from all disciplines, even if they had no business or finance background <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>. Many individuals he recruited at D. E. Shaw later became key early [[amazons_founding_and_early_years | Amazon employees]], including Jeff Holden and Nicholas Lovejoy <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. Notably, MacKenzie Scott Tuttle, a Princeton grad who joined the firm, also became an employee there <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>. [[jeff_bezos_relationship_with_stanford_founders | Jeff Bezos and MacKenzie Scott]] later married <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>, and she was considered the first employee of [[amazons_founding_and_early_years | Amazon]], setting up operations and handling accounting and legal work before the first engineer was hired <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>.
+
+### Exploring Internet Opportunities
+Within D. E. Shaw's entrepreneurial culture, David Shaw assigned Bezos to lead various projects, including building a "third market business" <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>. This initiative aimed to create a separate market from exchanges where retail investors could trade without high commissions, serving as a predecessor to modern dark pools and payment for order flow <a class="yt-timestamp" data-t="00:11:06">[00:11:06]</a>.
+
+As the internet began to emerge in the early 1990s (Mosaic, Netscape days), David Shaw and Bezos, given their computer science backgrounds and connections to internet pioneers, became very excited about its potential <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>. Bezos himself had used the internet in college when it was purely command-prompt based without a graphical user interface <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>. Shaw re-assigned Bezos to work with him directly on developing [[jeff_bezos_and_early_internet_business_exploration | business plans for internet opportunities]] within D. E. Shaw <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. Their first project was an online retail brokerage for financial trading, similar to E-Trade, potentially evolving from Bezos's earlier "third market business" <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>.

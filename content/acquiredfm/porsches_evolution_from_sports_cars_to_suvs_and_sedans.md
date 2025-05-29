@@ -1,0 +1,66 @@
+---
+title: Porsches evolution from sports cars to SUVs and sedans
+videoId: V_fYfdXpkx4
+---
+
+From: [[acquiredfm]] <br/> 
+
+Porsche, a brand renowned for balancing the creation of "the world's finest supercars" with vehicles suitable for "daily driver" use, has undergone a significant product evolution throughout its history <a class="yt-timestamp" data-t="01:17:18">[01:17:18]</a> <a class="yt-timestamp" data-t="01:21:18">[01:21:18]</a>. While the average Porsche today costs around $110,000, and the company produces 350,000 units annually, its journey began with a much different focus and faced numerous challenges and strategic shifts <a class="yt-timestamp" data-t="01:30:32">[01:30:32]</a> <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>.
+
+## Early Vision and the 356
+
+The foundation of Porsche's product philosophy can be traced back to Ferdinand Porsche's vision of a "small affordable car that can really become the first German and European mass market automobile" <a class="yt-timestamp" data-t="08:24:43">[08:24:43]</a> <a class="yt-timestamp" data-t="08:27:07">[08:27:07]</a>. This concept, initially rejected by Daimler, led to the creation of the Volkswagen Beetle under Adolf Hitler <a class="yt-timestamp" data-t="08:29:10">[08:29:10]</a> <a class="yt-timestamp" data-t="08:41:40">[08:41:40]</a> <a class="yt-timestamp" data-t="08:42:07">[08:42:07]</a>.
+
+After World War II, Ferdinand Porsche's son, Ferry Porsche, continued the vision, but with a crucial modification: he wanted a small car that was also "fun to drive" <a class="yt-timestamp" data-t="08:50:52">[08:50:52]</a> <a class="yt-timestamp" data-t="08:55:04">[08:55:04]</a>. This led to the development of the legendary Porsche 356 in 1948, built using many parts and the basic architecture of the Beetle, including its rear-mounted, air-cooled engine <a class="yt-timestamp" data-t="09:12:00">[09:12:00]</a> <a class="yt-timestamp" data-t="09:14:06">[09:14:06]</a>. The 356 was a sports car, a unique concept at a time when most high-performance vehicles were unwieldy and geared towards racing <a class="yt-timestamp" data-t="09:20:01">[09:20:01]</a> <a class="yt-timestamp" data-t="09:23:44">[09:23:44]</a>. While expensive for war-torn Europe at about $42,000 in today's money, it found a market <a class="yt-timestamp" data-t="09:32:00">[09:32:00]</a> <a class="yt-timestamp" data-t="09:35:00">[09:35:00]</a>.
+
+> "I saw that if you had enough power in a small car it is nicer to drive than if you have a big car which is also overpowered and it is more fun. On this basic idea we started the first Porsche prototype to make the car lighter and to have an engine with more horsepower." <a class="yt-timestamp" data-t="09:23:51">[09:23:51]</a>
+> – Ferry Porsche
+
+The 356's success in racing, particularly winning its class at Le Mans in 1951 and 1952, solidified Porsche's reputation for creating road cars that could also be competitively raced <a class="yt-timestamp" data-t="09:16:30">[09:16:30]</a> <a class="yt-timestamp" data-t="09:17:15">[09:17:15]</a>. This established a core principle:
+> "We have the only car that can go from an East African safari to Le Mans, then to the theater, and then to the of New York." <a class="yt-timestamp" data-t="09:49:00">[09:49:00]</a>
+> – Ferry Porsche
+
+## The Iconic 911
+
+By the early 1960s, with new competitors like the Ford Mustang and Jaguar E-Type emerging, Porsche recognized the need to replace the 356 <a class="yt-timestamp" data-t="09:51:22">[09:51:22]</a> <a class="yt-timestamp" data-t="09:55:00">[09:55:00]</a>. This led to the birth of the Porsche 901, later renamed the 911 due to Peugeot's trademark on "x0x" model names in France <a class="yt-timestamp" data-t="09:58:00">[09:58:00]</a> <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a> <a class="yt-timestamp" data-t="10:02:00">[10:02:00]</a>.
+
+The 911 featured a revolutionary six-cylinder boxer engine, designed by Ferdinand Piëch (Ferry's nephew), and a distinctive design by Ferry's son, "Butzi" Porsche <a class="yt-timestamp" data-t="10:08:00">[10:08:00]</a> <a class="yt-timestamp" data-t="10:13:00">[10:13:00]</a>. The 911 maintained the "light, simple, and stripped down" ethos of the 356 while offering more power, making it a "more elevated" driving experience <a class="yt-timestamp" data-t="10:49:00">[10:49:00]</a> <a class="yt-timestamp" data-t="10:54:00">[10:54:00]</a> <a class="yt-timestamp" data-t="11:06:00">[11:06:00]</a>. Its enduring shape, largely unchanged since 1962, has made it one of the most iconic car designs globally <a class="yt-timestamp" data-t="11:13:00">[11:13:00]</a>.
+
+To manage the price gap after introducing the more expensive 911, Porsche released the 912, a 911 body with the old 356's four-cylinder engine <a class="yt-timestamp" data-t="11:39:00">[11:39:00]</a> <a class="yt-timestamp" data-t="11:43:00">[11:43:00]</a>. This was a temporary solution while they planned a new entry-level model.
+
+## Diversification and Crisis
+
+In 1967, Porsche partnered with [[the_economic_and_strategic_maneuevers_of_porsche_and_vw | Volkswagen]] to develop the 914, a mid-engined Roadster that became a huge success as an entry-level Porsche, selling 100,000 units in eight years <a class="yt-timestamp" data-t="11:46:00">[11:46:00]</a> <a class="yt-timestamp" data-t="11:47:00">[11:47:00]</a> <a class="yt-timestamp" data-t="11:51:00">[11:51:00]</a>.
+
+However, the 1970s oil crisis significantly impacted sports car sales, turning the 914 into a "money loser" <a class="yt-timestamp" data-t="12:03:00">[12:03:00]</a> <a class="yt-timestamp" data-t="12:06:00">[12:06:00]</a>. Despite this, 911 sales remained resilient, demonstrating the strength of the luxury segment during economic downturns <a class="yt-timestamp" data-t="12:09:00">[12:09:00]</a>.
+
+In the mid-1970s, under new non-family CEO Ernst Fuhrmann, Porsche introduced the 924 and the 928, the latter intended to replace the 911 <a class="yt-timestamp" data-t="12:31:00">[12:31:00]</a> <a class="yt-timestamp" data-t="12:32:00">[12:32:00]</a>. The 928 was a radical departure: a front-engine, V8-powered grand tourer, aimed at those who "can't afford a 911 or are not necessarily looking for the performance of a 911" <a class="yt-timestamp" data-t="12:47:00">[12:47:00]</a> <a class="yt-timestamp" data-t="12:50:00">[12:50:00]</a> <a class="yt-timestamp" data-t="12:56:00">[12:56:00]</a>. This shift, combined with the economic downturn of the late 1980s and increased competition from Japanese sports cars like the Nissan 300ZX and Toyota Supra, pushed Porsche to the brink of bankruptcy <a class="yt-timestamp" data-t="12:58:00">[12:58:00]</a> <a class="yt-timestamp" data-t="13:30:00">[13:30:00]</a> <a class="yt-timestamp" data-t="13:51:00">[13:51:00]</a> <a class="yt-timestamp" data-t="13:55:00">[13:55:00]</a>. US sales plummeted to 4,100 units in 1992, worse than 1965 figures <a class="yt-timestamp" data-t="14:04:00">[14:04:00]</a>.
+
+> "The 924 is aimed at new clients who either can't afford a 911 or are not necessarily looking for the performance of a 911." <a class="yt-timestamp" data-t="12:58:00">[12:58:00]</a>
+> – Ernst Fuhrmann
+
+## The Turnaround and Strategic Expansion
+
+The crisis led to the appointment of Wendelin Wiedeking as CEO in 1993 <a class="yt-timestamp" data-t="15:25:00">[15:25:00]</a>. Wiedeking made the bold decision to cut all product lines except the 911, stating, "Porsche's strategy for an entry-level Porsche is a used Porsche" <a class="yt-timestamp" data-t="15:53:00">[15:53:00]</a> <a class="yt-timestamp" data-t="15:55:00">[15:55:00]</a>. This strategic focus, combined with implementing the Toyota Production System, brought Porsche back from the brink <a class="yt-timestamp" data-t="15:54:00">[15:54:00]</a>.
+
+Wiedeking's next move was to introduce the Boxster in 1997, an entry-level, mid-engined Roadster that shared many components and design elements with the 911 <a class="yt-timestamp" data-t="15:53:00">[15:53:00]</a> <a class="yt-timestamp" data-t="15:56:00">[15:56:00]</a> <a class="yt-timestamp" data-t="16:01:00">[16:01:00]</a>. This was a brilliant move, as it offered a true Porsche experience at a lower price point without diluting the brand, unlike the previous 924 and 928 <a class="yt-timestamp" data-t="16:08:00">[16:08:00]</a> <a class="yt-timestamp" data-t="16:15:00">[16:15:00]</a>.
+
+> "We didn't want to flee from the competition into higher prices... We don't want to be Germany's Ferrari; we don't want to be a big fish in a pond that's shrinking, but rather a growing fish with more room to move in a larger lake." <a class="yt-timestamp" data-t="16:28:00">[16:28:00]</a>
+> – Wendelin Wiedeking
+
+## The SUV and Sedan Era
+
+Under Wiedeking, Porsche made its most controversial and ultimately most successful product expansion: the Cayenne SUV in 2003 and the Panamera sedan in 2009 <a class="yt-timestamp" data-t="16:50:00">[16:50:00]</a> <a class="yt-timestamp" data-t="17:03:00">[17:03:00]</a>. These vehicles were initially met with skepticism by enthusiasts but proved to be massive commercial successes, particularly in the growing China market, where customers favored four-door luxury vehicles <a class="yt-timestamp" data-t="17:11:00">[17:11:00]</a> <a class="yt-timestamp" data-t="17:34:00">[17:34:00]</a> <a class="yt-timestamp" data-t="17:53:00">[17:53:00]</a>.
+
+The Cayenne, developed jointly with the Volkswagen Touareg, utilized Porsche's [[the_influence_of_porsches_brand_and_german_engineering | engineering prowess]] to offer impressive on-road and off-road capabilities <a class="yt-timestamp" data-t="17:56:00">[17:56:00]</a> <a class="yt-timestamp" data-t="17:58:00">[17:58:00]</a>. While their early designs were considered "ugly," the SUVs generated significant revenue and margins, allowing Porsche to continue investing in its sports car lineup, such as the Carrera GT supercar, produced in the same new facility in Leipzig <a class="yt-timestamp" data-t="17:59:00">[17:59:00]</a> <a class="yt-timestamp" data-t="18:02:00">[18:02:00]</a> <a class="yt-timestamp" data-t="18:07:00">[18:07:00]</a>. This strategy, similar to [[luxury_goods_market_dynamics | luxury brands]] like Louis Vuitton offering more accessible products alongside high-end ones, reinforced the brand's breadth and depth <a class="yt-timestamp" data-t="18:10:00">[18:10:00]</a> <a class="yt-timestamp" data-t="18:12:00">[18:12:00]</a>.
+
+## Electrification and the Future
+
+Porsche continued to innovate, introducing the Macan, a compact SUV, and making a significant push into electric vehicles with the Taycan (derived from the "Mission E" concept) in 2019 <a class="yt-timestamp" data-t="18:35:00">[18:35:00]</a> <a class="yt-timestamp" data-t="18:41:00">[18:41:00]</a>. The Taycan, an all-electric sedan, demonstrated Porsche's ability to maintain its driving dynamics in an electric format, even as the industry moves towards electrification <a class="yt-timestamp" data-t="18:43:00">[18:43:00]</a> <a class="yt-timestamp" data-t="18:46:00">[18:46:00]</a> <a class="yt-timestamp" data-t="18:50:00">[18:50:00]</a>. While a relatively early mover in luxury EVs, Porsche strategically introduced hybrid technology in supercars like the 918 Spyder to showcase performance capabilities before trickling it down to other models <a class="yt-timestamp" data-t="19:15:00">[19:15:00]</a> <a class="yt-timestamp" data-t="19:20:00">[19:20:00]</a>.
+
+Today, Porsche's product line includes the iconic 911, the Boxster/Cayman sports cars, the Cayenne and Macan SUVs, and the Panamera sedan, alongside the electric Taycan <a class="yt-timestamp" data-t="21:28:00">[21:28:00]</a> <a class="yt-timestamp" data-t="21:30:00">[21:30:00]</a>. Two-thirds of its revenue comes from SUVs <a class="yt-timestamp" data-t="21:29:00">[21:29:00]</a>. Despite its increased scale (350,000 cars delivered annually), Porsche maintains its prestigious brand image and significant pricing power, often charging substantial amounts for customization options, demonstrating its continued strength in the luxury market <a class="yt-timestamp" data-t="21:32:00">[21:32:00]</a> <a class="yt-timestamp" data-t="21:35:00">[21:35:00]</a> <a class="yt-timestamp" data-t="21:56:00">[21:56:00]</a>. The brand's deep heritage and consistent design language allow it to retain enthusiast loyalty while expanding its market reach, similar to a [[history_and_evolution_of_rolex | Rolex]] <a class="yt-timestamp" data-t="22:11:00">[22:11:00]</a> <a class="yt-timestamp" data-t="22:14:00">[22:14:00]</a> <a class="yt-timestamp" data-t="22:47:00">[22:47:00]</a>.
+
+> "People are like, oh, are you a Ferrari person or a Porsche person? Like, the fact that Porsche gets to be in that conversation... They were able to both produce an SUV that gets from 350,000 units annually, but also mention the same breath is Ferrari in terms of like enthusiasts." <a class="yt-timestamp" data-t="22:24:00">[22:24:00]</a>
+> – Doug DeMuro
+
+Porsche's evolution from a niche sports car manufacturer to a diversified luxury automotive brand with a broad product portfolio reflects a successful adaptation to [[the_impact_of_market_evolution_on_investing | market evolution]] and changing consumer demands.
