@@ -1,9 +1,0 @@
----
-title: Benefits of listening to calming sounds
-videoId: T1slUJG8Byw
----
-
-From: [[dreamylapse]] <br/> 
-
-> [!INFO]
-> The provided transcript consists solely of non-verbal audio cues, including various musical segments <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>, <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>, <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>, <a class="yt-timestamp" data-t="00:12:52">[00:12:52]</a>, <a class="yt-timestamp" data-t="00:21:39">[00:21:39]</a>, <a class="yt-timestamp" data-t="00:26:12">[00:26:12]</a>, <a class="yt-timestamp" data-t="00:29:39">[00:29:39]</a>, <a class="yt-timestamp" data-t="00:32:04">[00:32:04]</a>, <a class="yt-timestamp" data-t="00:34:57">[00:34:57]</a>, laughter <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>, <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>, <a class="yt-timestamp" data-t="00:12:52">[00:12:52]</a>, <a class="yt-timestamp" data-t="00:21:40">[00:21:40]</a>, <a class="yt-timestamp" data-t="00:26:14">[00:26:14]</a>, <a class="yt-timestamp" data-t="00:32:04">[00:32:04]</a>, <a class="yt-timestamp" data-t="00:34:57">[00:34:57]</a>, and applause <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>, <a class="yt-timestamp" data-t="00:12:52">[00:12:52]</a>, <a class="yt-timestamp" data-t="00:21:40">[00:21:40]</a>, <a class="yt-timestamp" data-t="00:26:14">[00:26:14]</a>, <a class="yt-timestamp" data-t="00:32:04">[00:32:04]</a>, <a class="yt-timestamp" data-t="00:34:57">[00:34:57]</a>. It does not contain any spoken information or descriptions about the benefits of listening to calming sounds. Therefore, no content can be extracted for this article based on the supplied transcript.

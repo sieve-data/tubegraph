@@ -1,7 +1,0 @@
----
-title: Meditation with native rhythms
-videoId: Zbpe8iT_WW8
----
-
-From: [[dreamylapse]] <br/> 
-The provided transcript primarily contains audio cues such as "[Music]", "thank you", "foreign" language, "applause", and "laughs". It does not offer specific details or descriptions regarding "Meditation with native rhythms" or any characteristics of the music played throughout the recording <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. The transcript indicates the presence of music <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>, <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>, <a class="yt-timestamp" data-t="00:20:03">[00:20:03]</a>, <a class="yt-timestamp" data-t="00:35:45">[00:35:45]</a>, <a class="yt-timestamp" data-t="00:49:55">[00:49:55]</a>, <a class="yt-timestamp" data-t="00:54:48">[00:54:48]</a>, <a class="yt-timestamp" data-t="00:59:14">[00:59:14]</a>. Participants are also heard expressing gratitude <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>, <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>, <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>, <a class="yt-timestamp" data-t="00:20:03">[00:20:03]</a>, <a class="yt-timestamp" data-t="00:35:45">[00:35:45]</a>, <a class="yt-timestamp" data-t="00:49:55">[00:49:55]</a>, <a class="yt-timestamp" data-t="00:54:48">[00:54:48]</a>, <a class="yt-timestamp" data-t="00:59:14">[00:59:14]</a>.
