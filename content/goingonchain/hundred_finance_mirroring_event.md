@@ -5,36 +5,48 @@ videoId: C3vjrcSjHQw
 
 From: [[goingonchain]] <br/> 
 
-Hundred Finance recently completed its first mirroring event, a new development that allows users to transfer their locked veHND (vote-escrowed HND) across different blockchain networks <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. This means a user's veHND locked on one chain, such as Fantom (FTM), can be mirrored over to another chain like Polygon <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>.
+[[Hundred Finance]] has recently completed its first mirroring event, a new development designed to enhance the multichain experience for its users <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
 
-## What is Hundred Finance?
+## What is the Mirroring Event?
 
-Hundred Finance is a multichain lending and borrowing protocol <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. It is available on eight different chains, with Polygon being the latest addition <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+The mirroring event allows users to take their locked veHND (vote-escrowed HND) tokens from one chain, such as Fantom (FTM), and mirror them over to another chain where Hundred Finance operates, like Polygon <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This feature enables users to utilize their veHND across different chains without needing to lock up separate amounts of tokens on each chain <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
 
-On Hundred Finance, users can engage in several activities:
-*   [[earning_yield_on_hundred_finance | Staking assets]] to [[earning_yield_on_hundred_finance | earn yield]] <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. For example, staking $500 could yield 26% APR <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
-*   [[staking_and_borrowing_strategies_on_hundred_finance | Supplying assets]] to use as collateral for [[staking_and_borrowing_strategies_on_hundred_finance | borrowing other assets]] <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
-*   Participating in backstop provision, which involves supplying assets for liquidation and also [[earning_yield_on_hundred_finance | earning yield]] <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+## Hundred Finance Overview
 
-Yield is earned in HND tokens <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. These HND tokens can then be locked up to become mveHND (or veHND), which can be used to vote for specific pools to [[staking_and_yield_earning_on_hundred_finance | boost the Annual Percentage Rate (APR)]] <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. Locking more HND for a longer period yields a higher boost, up to a maximum of 2.5x <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. For instance, locking 1000 HND for four years could achieve the maximum 2.5x boost <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+[[Hundred Finance overview | Hundred Finance]] is a multichain lending and borrowing protocol <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. It is currently available on 8 different chains, with Polygon being the latest addition <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
 
-## Benefits of Mirroring veHND
+On Hundred Finance, users can:
+*   [[earning_yield_on_hundred_finance | Stake assets to earn yield]] (e.g., staking $500 can earn 26% yield) <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+*   Supply assets to use as collateral for borrowing <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+*   Participate in backstop provision, supplying assets for liquidation and earning yield <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
 
-The mirroring event addresses a key challenge for users operating on multiple chains within the Hundred Finance ecosystem <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. Previously, to [[staking_and_yield_earning_on_hundred_finance | boost APR]] on a new chain, users would have to perform a separate HND lockup on that chain, leading to "double locking" <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
+Yields are earned in HND tokens <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. These HND tokens can then be locked to obtain mveHND, which can be used to vote for specific pools to boost their APR (Annual Percentage Rate) <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. For example, locking 300 HND for 4 years can provide a 1.5x boost, while 1000 HND can achieve the maximum boost of 2.5x <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a>.
 
-With mirroring, users can now simply transfer their existing locked veHND from one chain to another <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. This allows them to use their veHND to vote and [[staking_and_yield_earning_on_hundred_finance | boost their APR]] on the target chain, such as Polygon, without needing to lock additional tokens <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. For example, mirrored mveHND can be used to achieve a 1.07x boost on a USDC pool on Polygon <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+## Benefits of Mirroring
 
-This feature provides immediate utility and incentive for users to engage with Hundred Finance on various chains, as they can seamlessly transfer their boosting power <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+The mirroring feature provides significant [[benefits of mirroring veHND across chains | advantages for veHND holders]]:
+*   **Avoids Double Locking**: Without mirroring, users would need to perform separate lockups on each chain where they use Hundred Finance, which is a disadvantage <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. Mirroring eliminates this need <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+*   **Cross-Chain APR Boosting**: Users can mirror their locked veHND from one chain (e.g., Fantom) to another (e.g., Polygon) and use it to vote and boost their APR on the new chain <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. For instance, mirrored mveHND can provide a 1.07x boost to a USDC pool on Polygon <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>.
+*   **Increased User Incentive**: This capability provides a strong incentive for users to engage with Hundred Finance across multiple chains, as they can immediately leverage their existing veHND to earn more yield <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
 
-## How Mirroring Works
+## Technical Implementation and Supported Chains
 
-Hundred Finance utilizes the LayerZero service to facilitate this cross-chain mirroring <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. Currently, mveHND mirroring is supported across Arbitrum, Fantom, Optimism, and Polygon <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>. While not all mirroring directions are fully ready, the Fantom to Polygon direction has been confirmed to work <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>.
+Hundred Finance utilizes LayerZero service to facilitate this mirroring functionality <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
 
-To mirror veHND:
-1.  Navigate to the vote page on the source chain (e.g., Fantom) <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>.
-2.  Select the "Mirror lock to a target chain" option <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
-3.  Choose the desired destination chain <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
-4.  Click "Mirror" and approve the transaction <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+Currently, mveHND mirroring is supported on:
+*   Arbitrum <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>
+*   Fantom <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>
+*   Optimism <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>
+*   Polygon <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>
 
----
-If you are interested in learning more about Hundred Finance, you can visit their Twitter or Discord channels <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>.
+While not all mirroring directions are ready yet, the functionality from Fantom to Polygon is confirmed to be working <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>.
+
+## How to Mirror veHND
+
+To mirror veHND, users can follow these steps from the vote page on their source chain (e.g., Fantom chain):
+1.  Locate the "Mirror" option <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>.
+2.  Choose the desired destination chain (e.g., Polygon) <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
+3.  Click "Mirror" <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+4.  Approve the transaction <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+
+Once completed, the mveHND will be mirrored to the target chain, ready for use <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.

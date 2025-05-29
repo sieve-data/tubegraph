@@ -5,51 +5,55 @@ videoId: EVOIfKtCcBw
 
 From: [[goingonchain]] <br/> 
 
-When considering [[buying_and_selling_cryptocurrency_on_binance | buying crypto]] in Singapore, two primary Binance platforms are available: Binance SG and Binance Global (Binance.com) <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. While they are both part of Binance, they operate differently in terms of regulation, supported currencies, fees, and transaction methods <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+When looking to [[cryptocurrency_trading_in_singapore | buy crypto in Singapore]], it's important to understand the distinctions between Binance SG and Binance Global (Binance.com) <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. While they are both Binance platforms, they operate differently <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+
+## Overview
+
+Binance SG is a subsidiary of Binance, specifically designed for users in Singapore <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a> <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. Binance Global (Binance.com) is the international platform <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
 
 ## Regulation
 
-*   **Binance SG** is a subsidiary of Binance and is regulated by the Monetary Authority of Singapore (MAS) <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
-*   **Binance Global (Binance.com)** is not regulated by MAS <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+*   **Binance SG** is [[regulation_of_binance_platforms | regulated by the Monetary Authority of Singapore (MAS)]] <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+*   **Binance Global** (Binance.com) is [[regulation_of_binance_platforms | not regulated by MAS]] <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
 
-## Transaction Currency
+## Key Differences
 
-*   **Binance SG** conducts all transactions via SGD (Singapore Dollars) <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
-*   **Binance Global** conducts all transactions via USD (United States Dollars) <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
-
-## Trading Fees and Cryptocurrency Options
-
-*   **Binance SG** has a trading fee of 0.6% <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a> and supports only eight cryptocurrencies for trading <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
-*   **Binance Global** has much lower transaction fees, with an additional discount if trades are made using Binance Coin (BNB) <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. It supports a significantly larger number of [[cryptocurrency_options_on_binance_sg_vs_binance_global | cryptocurrencies]] <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>, including Dogecoin <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
-
-<div class="callout is-info">
-<div class="callout-title">
-Important Note
-</div>
-
-These differences highlight the contrast in [[regulation_and_fees_on_binance_sg_vs_binance_global | regulation and fees]] between the two platforms.
-</div>
-
-## Deposits and Withdrawals for Singapore Residents
+Here's a comparison of the two platforms:
 
 ### Binance SG
-*   To deposit money into Binance SG, a third-party payment provider called XanPool is required <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
-*   There are no fees for [[deposits_and_withdrawals_on_binance_for_singapore_residents | deposit and withdrawal]] on Binance SG <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
 
-### Binance Global
-When [[buying_and_selling_cryptocurrency_on_binance | buying crypto]] on Binance Global, there are three main [[transaction_methods_for_buying_and_selling_on_binance_platforms | ways]]:
-1.  Using a credit card <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
-2.  Through Peer-to-Peer (P2P) transactions, where users exchange SGD for crypto directly with another person <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
-3.  Buying Binance Coin (BNB) on Binance SG and then sending it to Binance Global to purchase desired cryptocurrencies <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+*   **Transactions**: All transactions are via [[using_sgd_to_buy_cryptocurrency_on_binance | SGD]] <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+*   **Trading Fees**: The trading fee is 0.6% <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+*   **Cryptocurrencies**: Only eight cryptocurrencies are available for trading <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+*   **Deposits & Withdrawals**:
+    *   Depositing money requires a third-party payment provider, Xfers <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a> <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a> <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+    *   There are no fees for deposits and withdrawals <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>.
 
-For selling crypto on Binance Global, the opposite methods apply:
-1.  Using P2P to sell crypto and receive SGD <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
-2.  Converting crypto back into Binance Coin (BNB), sending it to Binance SG, and then converting it back into SGD <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
+### Binance Global (Binance.com)
 
-## Wallet Linkage
+*   **Transactions**: All transactions are via USD <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+*   **Trading Fees**: Transaction fees are significantly lower <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>. Users can receive a discount on trading fees if they pay with Binance Coin (BNB) <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a> <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+*   **Cryptocurrencies**: A much wider selection of supported cryptocurrencies is available, including Dogecoin <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a> <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a> <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
 
-It is crucial to note that the wallets on Binance SG and Binance Global are not linked; they are two separate wallets <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. This means that crypto bought on Binance SG cannot be directly sold on Binance Global <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+## [[buying_and_selling_cryptocurrency_on_binance | Buying and Selling Cryptocurrency]]
 
-> <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a> "One very important thing to note is that you cannot buy in Binance Singapore and sell in Finance Global. What I'm saying is that the wallet are not linked. They are two separate wallets."
+### [[buying_and_selling_cryptocurrency_on_binance | Buying Crypto]] on Binance Global
 
-A [[demo_on_buying_and_selling_crypto_with_binance_sg_and_binance_global | demonstration on buying and selling crypto]] on both Binance SG and Binance.com is available <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+There are three ways to [[buying_and_selling_cryptocurrency_on_binance | buy crypto]] on Binance Global <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>:
+
+1.  **Credit Card**: Use a credit card for direct purchases <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+2.  **Peer-to-Peer (P2P)**: This method involves buying crypto directly from another individual <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. You can give someone SGD, and they will transfer the crypto to you <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a> <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a> <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+3.  **Transfer from Binance SG**: [[buying_and_selling_cryptocurrency_on_binance | Buy Binance Coin]] (BNB) on Binance SG, then transfer it to Binance Global to purchase other cryptocurrencies <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a> <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a> <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+
+### [[buying_and_selling_cryptocurrency_on_binance | Selling Crypto]] on Binance Global
+
+The reverse process applies for [[buying_and_selling_cryptocurrency_on_binance | selling crypto]] on Binance Global <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>:
+
+1.  **P2P**: [[buying_and_selling_cryptocurrency_on_binance | Sell your crypto]] via P2P, where someone will give you SGD in exchange <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a> <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+2.  **Transfer to Binance SG**: Convert your crypto back into Binance Coin (BNB), send it to Binance SG, and then convert it back into SGD <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a> <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a> <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
+
+### Important Note on Wallets
+
+It is crucial to understand that the wallets for Binance SG and Binance Global are not linked <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. You cannot [[buying_and_selling_cryptocurrency_on_binance | buy crypto]] on Binance SG and then [[buying_and_selling_cryptocurrency_on_binance | sell]] it directly on Binance Global <a class="yt-timestamp" data-t="00:01:32">[00:01:32]</a> <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a> <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. They are two separate wallets <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
+
+*(Further demonstrations on [[buying_and_selling_cryptocurrency_on_binance | buying and selling on Binance SG and Binance.com]] will be covered in subsequent lessons <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a> <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a> <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a> <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>).*

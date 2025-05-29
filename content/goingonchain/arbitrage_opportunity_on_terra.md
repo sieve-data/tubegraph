@@ -1,35 +1,28 @@
 ---
-title: arbitrage opportunity on Terra
+title: Arbitrage opportunity on Terra
 videoId: AUP9cmENocQ
 ---
 
 From: [[goingonchain]] <br/> 
 
-An [[arbitrage_opportunities_in_nfts | arbitrage opportunity]] currently exists on the Terra blockchain, specifically involving the Nexus Protocol and its liquid Pylon Pool <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This opportunity arises from a de-peg in the value of a specific receipt token.
+An [[arbitrage_opportunities_in_cryptocurrency | arbitrage opportunity]] exists on Terra, specifically within the Nexus Protocol's liquid pylon pool <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>.
 
-## Understanding the Liquid Pylon Pool
+## Overview of the Liquid Pylon Pool
 
-The Nexus Protocol's liquid Pylon Pool requires users to deposit UST for a 24-month lock-up period <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. During this period, participants earn Nexus tokens as rewards, with a current Annual Percentage Rate (APR) of approximately 15.73% <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+The Nexus Protocol's liquid pylon pool is a 24-month investment where users deposit UST, which becomes locked for the duration <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. As a reward for participation, users receive Nexus tokens, with the current annual percentage rate (APR) around 15.73% <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
 
-The key distinction of the liquid Pylon Pool compared to a regular Pylon Pool is the issuance of a receipt token called bPsiDP <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. This bPsiDP token represents the locked UST deposit and can be swapped for UST on [[Comparisons between Astroport and other AMMs like Terraswap and Uniswap | Terraswap]] if a user wishes to exit their position early <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+A key distinction of this liquid pylon pool compared to a regular pylon pool is the issuance of a receipt token called bPsiDP <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. This bPsiDP token can be traded on Terraswap for UST <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
 
-## The De-Peg Phenomenon
+## The De-Peg Opportunity
 
-Currently, the bPsiDP token is experiencing a de-peg, meaning its value is lower than the UST it represents <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. For instance, an investment of $100 UST has been observed to yield $128 in bPsiDP tokens, indicating a de-peg of about 28-30% <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. This suggests that for every $100 UST paid, the user receives bPsiDP representing $128.973 UST deposited <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+Currently, there is a de-peg where the bPsiDP token trades at a discount to the UST deposited into the pool <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. This means a user might spend $100 to acquire bPsiDP tokens that represent $128 worth of deposited UST <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. The de-peg is significant, fluctuating around 28% to 30% <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
 
-## Leveraging the Arbitrage
+## How to Leverage the Opportunity
 
-To take advantage of this situation, participants generally need to be bullish on the Nexus token <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. Two primary strategies can be employed:
+To take advantage of this situation, one must be bullish on the Nexus token <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. There are two primary strategies:
 
-1.  **Waiting for De-Peg Resolution**:
-    One approach is to acquire bPsiDP at the de-pegged price and wait for the de-peg to resolve <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. If the bPsiDP token recovers its peg closer to its underlying value, the holder can then swap it back for UST at a profit <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
+1.  **Wait for De-peg Correction**: If you acquire bPsiDP at a discount (e.g., $100 for $128 worth), you can wait for the de-peg to correct, allowing you to sell the bPsiDP for a value closer to its underlying UST equivalent on Terraswap <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
+2.  **Worst-Case Scenario (24-Month Wait)**: Should the de-peg not correct, the bPsiDP tokens can still be redeemed for their full UST value at the end of the 24-month lock-up period from the pylon pool <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. During this 24-month waiting period, users continue to earn Nexus token rewards <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
 
-2.  **Holding for 24 Months**:
-    In the worst-case scenario where the de-peg does not resolve, the holder can opt to wait for the full 24-month lock-up period <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>. After 24 months, the initial deposited UST amount (e.g., $128 from an original $100 investment) will be redeemable <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. During this waiting period, Nexus tokens are continuously earned as rewards, further compounding the potential returns <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>.
-
-> [!WARNING]
-> While this presents an [[arbitrage_opportunities_in_nfts | arbitrage opportunity]], a 24-month waiting period is considered a very long duration in the volatile cryptocurrency market <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>.
-
-## Speculated Causes of De-Peg
-
-The de-peg is speculated to be a result of bearish market conditions, leading some users to sell their bPsiDP tokens and create the observed discrepancy <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
+> [!CAUTION]
+> While this presents an [[arbitrage_opportunities_in_cryptocurrency | arbitrage opportunity]], a 24-month wait is considered "very, very, very long" in the crypto space <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. The de-peg might be a result of bearish market conditions causing people to sell off <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.

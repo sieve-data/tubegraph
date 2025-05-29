@@ -1,50 +1,63 @@
 ---
-title: Introduction to cryptocurrency lending platforms
+title: Introduction to Cryptocurrency Lending Platforms
 videoId: sLoHiyOcYzk
 ---
 
 From: [[goingonchain]] <br/> 
 
-Cryptocurrency lending platforms are online services that facilitate the lending and borrowing of [[introduction_to_cryptocurrency | crypto]] assets <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. They can be thought of as similar to [[peer_to_peer_lending_and_borrowing | P2P lending]] platforms like Funding Societies or MoolahSense <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+Cryptocurrency lending platforms function similarly to peer-to-peer (P2P) lending services, such as Funding Society or MoolahSense <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. These platforms allow users to either lend out their digital assets or borrow against them <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
 
-## How They Work
+## How Crypto Lending Platforms Work
 
-These platforms support two main roles:
-
-*   **Lender**: As a lender, you deposit [[introduction_to_cryptocurrency | crypto]] assets onto the platform <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. In return, you earn funds and [[interest_rates_and_potential_earnings_from_crypto_lending | interest]] on your lent assets <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
-*   **Borrower**: As a borrower, you can deposit [[introduction_to_cryptocurrency | crypto]] as collateral to receive a [[borrowing_against_crypto_assets | loan]] <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. Once the [[interest_rates_and_potential_earnings_from_crypto_lending | interest]] and principal are paid back, your deposited [[introduction_to_cryptocurrency | crypto]] is returned to you <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+*   **As a Lender**: You can lend your cryptocurrency to the platform and, in return, earn interest on your deposited funds <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+*   **As a Borrower**: You can deposit crypto as collateral to obtain a loan <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. Once the loan, along with its interest, is repaid, your deposited crypto is returned to you <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
 
 ## Featured Platforms
 
-Several platforms offer [[introduction_to_cryptocurrency | crypto]] lending services. Three notable examples include:
+Three prominent platforms often discussed in the crypto lending space are BlockFi, Celsius Network, and Holdnaut <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
 
 ### BlockFi
-BlockFi is a well-known platform regulated in the U.S. <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
-*   **Interest Payouts**: [[interest_rates_and_potential_earnings_from_crypto_lending | Interest]] is paid out monthly <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
-*   **Flexibility**: There is no lock-in period and no minimum deposit sum required <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
-*   **[[features_and_fees_of_crypto_lending_platforms | Withdrawal Fees]]**: They offer one free [[introduction_to_cryptocurrency | crypto]] withdrawal and one free stablecoin withdrawal per calendar month; additional withdrawals incur a fee <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>.
-*   **Example Earnings**: Lending 10,000 USDC (a stablecoin tied to the US Dollar) could earn approximately 860 in [[interest_rates_and_potential_earnings_from_crypto_lending | interest]] in one year <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. This rate is significantly higher than what traditional banks might offer <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+
+BlockFi is a well-known platform that is regulated in the U.S. <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>.
+*   **Interest Payout**: Interest is paid out monthly <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+*   **Flexibility**: There is no lock-in period for funds and no minimum sum required for deposits <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+*   **Fees**: BlockFi charges withdrawal fees, though it offers one free crypto withdrawal and one free stablecoin withdrawal per calendar month <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+*   **Earning Potential**: For example, depositing 10,000 USDC (a stablecoin pegged to the US dollar) could yield an annual interest of 860 <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
 
 ### Celsius Network
-Celsius Network is based in London <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
-*   **Coin Selection**: It offers a wider selection of [[introduction_to_cryptocurrency | coins]] for lending and borrowing compared to BlockFi <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
-*   **Interest Rates**: Rates are generally more attractive than BlockFi <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
-*   **Flexibility**: There is no lock-in, no minimum sum, and no [[features_and_fees_of_crypto_lending_platforms | withdrawal fees]] <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
-*   **Payouts**: [[interest_rates_and_potential_earnings_from_crypto_lending | Interest]] is paid out weekly <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
-*   **Promotions**: They offer a bonus of 50 worth of Bitcoin (BTC) for new sign-ups who transfer 400 or more into the platform and hold it for 30 days <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
 
-### Hodlnaut
-Hodlnaut has headquarters in Singapore and Hong Kong <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
-*   **Interest Payouts**: [[interest_rates_and_potential_earnings_from_crypto_lending | Interest]] is paid out weekly <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
+Headquartered in London, Celsius Network offers a wider selection of coins for lending and borrowing compared to some competitors <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+*   **Interest Rates**: Their rates are generally more attractive than BlockFi's <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
+*   **Flexibility**: Celsius Network boasts no lock-in periods, no minimum sum requirements, and no withdrawal fees <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+*   **Payout Period**: Interest is paid out weekly <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
+*   **Sign-up Bonus**: New users can receive 50 worth of Bitcoin (BTC) upon signing up, provided they transfer 400 or more into the platform and hold it for 30 days <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+### Holdnaut
+
+Holdnaut's headquarters are in Singapore and Hong Kong <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+*   **Interest Payout**: Interest is paid out weekly <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
 *   **Flexibility**: There is no lock-in period <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
-*   **[[features_and_fees_of_crypto_lending_platforms | Withdrawal Fees]]**: They do have [[features_and_fees_of_crypto_lending_platforms | withdrawal fees]] <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>.
-*   **Interest Rates**: Hodlnaut offers some of the highest [[interest_rates_and_potential_earnings_from_crypto_lending | interest]] rates among the three platforms, reaching up to 10.5% <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>.
+*   **Fees**: Holdnaut does charge withdrawal fees <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+*   **Interest Rates**: As of June 20, 2021, Holdnaut offered the highest stablecoin interest rates among the three platforms, at 10.5% <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
 
-## Key Comparisons
-All three platforms generally have no deposit fees, no lock-in periods, and no minimum investment amounts <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. Celsius Network stands out with no [[features_and_fees_of_crypto_lending_platforms | withdrawal fees]] and a broader selection of [[introduction_to_cryptocurrency | coins]] <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. Hodlnaut typically offers the highest rates for stablecoins <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
+## Comparative Overview
 
-## Important Considerations
-*   **[[considerations_and_risks_in_using_crypto_lending_platforms | Risks]]**: It is crucial to consider the [[considerations_and_risks_in_using_crypto_lending_platforms | risks]] involved, as platforms can fail, leading to potential loss of funds <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
-*   **Stablecoins**: For those without existing [[introduction_to_cryptocurrency | crypto]] assets, purchasing stablecoins like USDT or USDC is an option <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. Stablecoins are [[introduction_to_cryptocurrency | cryptocurrencies]] backed by the US Dollar, effectively acting like digital US dollars, but they offer significantly higher [[interest_rates_and_potential_earnings_from_crypto_lending | interest]] rates compared to traditional bank offerings <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
+| Feature           | BlockFi                 | Celsius Network         | Holdnaut                |
+| :---------------- | :---------------------- | :---------------------- | :---------------------- |
+| Deposit Fees      | None                    | None                    | None                    |
+| Withdrawal Fees   | Yes (1 free per month)  | None                    | Yes                     |
+| Available Coins   | Fewer                   | More                    | Varied                  |
+| Lock-in Period    | No                      | No                      | No                      |
+| Minimum Investment| No                      | No                      | No                      |
+| Payout Period     | Monthly                 | Weekly                  | Weekly                  |
 
-*Note: All rates mentioned are correct as of June 20, 2021 <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.*
+## Risk Considerations
+
+As with any investment, there are risks involved. If a platform were to experience significant issues, users could potentially lose their deposited funds <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
+
+## When to Consider Crypto Lending
+
+If you hold cryptocurrencies, lending them out could be a way to earn passive income <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. Even if you don't own crypto, you might consider buying [[introduction_to_cryptocurrencies | stablecoins]] like USDT or USDC, which are cryptocurrencies backed by the US dollar <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. The interest rates offered by these platforms are significantly more attractive than those typically offered by traditional banks <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
+
+> [!NOTE]
+> The interest rates and platform details discussed are correct as of June 20, 2021 <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. This information is not financial advice; users should make their own investment decisions <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.

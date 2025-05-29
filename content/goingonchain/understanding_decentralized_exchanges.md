@@ -5,37 +5,37 @@ videoId: QRi8v3WczWQ
 
 From: [[goingonchain]] <br/> 
 
-A Decentralized Exchange (DEX) is a platform that enables the trading of tokens without a central intermediary <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. Popular examples include PancakeSwap and SushiSwap <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. On a DEX, users can trade various tokens or become a [[Role of traders and protocols in DEX | liquidity provider]] to earn a portion of the trading fees <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+A decentralized exchange (DEX) is a platform that allows users to trade tokens without a central intermediary <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. Examples include PancakeSwap and SushiSwap <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. Beyond trading, users can also become a liquidity provider (LP) to earn a portion of the trading fees <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>.
 
 ## DEX Token Utilities
 
-The tokens associated with decentralized exchanges typically offer several utilities:
-*   **Governance Power** Users holding DEX tokens can participate in the platform's governance <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
-*   **Yield Staking** Tokens can be staked to earn additional yield <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
-*   **Launchpad Participation** Holding and staking DEX tokens can grant access to initial farm offerings (IFOs) or other launchpad events <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>, <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+Typical utilities for a DEX token include:
+*   **Governance Power:** Allowing holders to participate in the decision-making process of the exchange <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
+*   **Staking for Yield:** Staking tokens to earn more yield <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+*   **Launchpad Participation:** Staking tokens to take part in new project launchpads (Initial Farm Offerings or IFOs) <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
 
-## Stakeholders in a DEX
+## [[stakeholders_in_decentralized_exchanges | Stakeholders in Decentralized Exchanges]]
 
-Several key participants interact within a decentralized exchange ecosystem:
+Several parties interact within a DEX ecosystem:
 
 ### Traders
-Traders use DEXs to exchange a variety of [[Role of traders and protocols in DEX | protocol tokens]] <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. They prioritize low slippage and good [[Role of traders and protocols in DEX | liquidity]] to ensure efficient trades <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. The DEX earns a cut of the trading fees from these transactions <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+Traders seek to trade a variety of protocol tokens <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. They look for low slippage and good liquidity when executing trades <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. The DEX earns a cut of the trading fees from these transactions <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
 
 ### Protocols
-Protocols seek DEXs with high [[Role of traders and protocols in DEX | liquidity]] to establish their token pools <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. This is analogous to a company choosing to list on a stock exchange with higher liquidity <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>. [[Role of traders and protocols in DEX | Liquidity providers]] are crucial in achieving this high liquidity <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+Protocols aim to set up their liquidity pools in places with high liquidity, similar to how companies list on exchanges with more trading activity <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. High liquidity is crucial for protocols <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
 
 ### Liquidity Providers (LPs)
-LPs contribute their tokens to liquidity pools, enabling trades to occur <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. They can provide liquidity for specific token pairs (e.g., FITE and BUSD) to earn higher yields <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. This participation is beneficial for the protocol, which often requires users to buy its token, and for the DEX, as it enhances overall liquidity <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. In return for their contribution, LPs earn a portion of the trading fees and may receive additional incentives <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
+LPs help to provide the necessary liquidity for the DEX <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. By providing liquidity, LPs earn a cut of the fees and can receive additional incentives <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. For example, providing liquidity for a specific token pair might require purchasing the token to participate in a liquidity pool, benefiting both the protocol and the DEX by improving liquidity <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
 
 ### Stakers
-Stakers acquire DEX tokens, either by purchasing them from the open market or by farming them, and then stake these tokens to earn more yield <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. For example, users can stake Cake tokens to participate in IFOs or to earn more yield <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Stakers are often able to earn more DEX tokens through this process <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+Stakers either acquire DEX tokens from the open market or farm them <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. They then stake these tokens to earn more yield or participate in IFOs <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. Stakers can earn more DEX tokens through this process <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
 
-## Incentive Alignment and Token Volatility
+## Challenges of DEX Token Investment
 
-A significant concern with DEX tokens arises from the incentives for liquidity providers and stakers. Both parties are often rewarded in the native DEX tokens, especially if they haven't purchased them directly from the open market <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. This can lead to a situation where, during market downturns or periods of fear, these participants are inclined to "dump" their farmed DEX tokens first <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. This behavior can contribute to significant price drops, as observed with tokens like Cake and Sushi during periods of market weakness <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
+The speaker notes that many participants, including LPs and stakers, are "farming" DEX tokens through incentives rather than buying them from the open market <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. This creates misaligned incentives <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
 
-For this reason, some individuals choose to farm DEX tokens rather than buying them directly, as the incentives for holding them may not always be aligned with long-term price stability <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+When the market enters a period of fear, these participants are likely to "dump" their farmed DEX tokens first <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. This behavior is evident in the price charts of tokens like Cake (PancakeSwap) and Sushi (SushiSwap) during market downturns <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. For this reason, the speaker avoids buying DEX tokens, preferring to farm them instead <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
 
-## Future Outlook
+## Emerging Changes
 
-Despite these challenges, the landscape for DEX tokens is evolving. There's a growing trend of more people being willing to hold DEX tokens, partly due to new mechanisms such as [[Impact of crypto bribes on decentralized exchange DEX tokens | crypto bribes]] <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
+However, the dynamics for DEX tokens are evolving, with more people becoming willing to hold them due to a development known as [[crypto_bribes_in_decentralized_exchanges | crypto bribes]] <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. This concept will be explored further in a subsequent discussion <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.

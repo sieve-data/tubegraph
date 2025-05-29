@@ -5,57 +5,50 @@ videoId: Iulawbmbv6s
 
 From: [[goingonchain]] <br/> 
 
-Vader Protocol is a DeFi all-in-one protocol that combines concepts from ThorChain and Luna to create an Automated Market Maker (AMM) <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. It functions similarly to ThorSwap, SushiSwap, and UniSwap, but distinguishes itself through its [[AMM and Vaders Unique Components | unique components]] <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+Vader is presented as a DeFi all-in-one protocol that integrates concepts from Thorchain and Luna <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
 
-## Understanding Automated Market Makers (AMMs)
+## What is Vader?
 
-An AMM, like PancakeSwap, allows users to swap tokens and become liquidity providers (LPs) <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. LPs provide liquidity for token swaps <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
-A common issue with traditional AMMs is that LPs often provide liquidity to earn tokens, then "farm and dump" them, which negatively impacts the project <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+Vader functions as an Automated Market Maker (AMM) <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, akin to ThorSwap, SushiSwap, and UniSwap <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. Its uniqueness stems from the specific components it uses to build its AMM <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
 
-## Vader Protocol's Unique Components
+Traditional AMMs often face an issue where liquidity providers (LPs) farm tokens, then dump them and move to other projects <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. To counter this and ensure LPs stay, Vader incorporates three key components <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>:
+1.  **Bond sales** <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>
+2.  **USDB stablecoin** <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>
+3.  **Continuous Liquidity Pools (CLP)** for its AMM <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>
 
-Vader Protocol utilizes three distinct components to ensure liquidity providers remain engaged and to maintain project stability <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>:
+### USDB Stablecoin
 
-### 1. Bond Sales
+USDB is Vader's stablecoin and serves as the base asset for its liquidity pools <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. Its mechanism is similar to how Luna and UST operated <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>, where the supply of Vader is tied to the supply of USDB <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
 
-Vader employs a system similar to Olympus Pro, where users can mint Vader tokens at a discount subject to a vesting period <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. This mechanism helps the Vader Protocol buy back its own liquidity <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+*   **Pegging:** One USDB aims to equal one USD <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
+*   **If USDB price > $1:** Vader supply is burned to mint more USDB. This increases the supply of USDB, bringing its value back to $1. Simultaneously, the reduced supply of Vader causes its price to increase <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
+*   **If USDB price < $1:** USDB supply is burned to mint Vader. This lowers the supply of USDB, helping to restore the peg. However, it also increases the supply of Vader, which can cause the Vader price to drop <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
 
-### 2. USDV Stablecoin
+In essence, higher demand for USDB generally translates to a better price for Vader <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
 
-USDV is Vader's stablecoin and serves as the base asset for its liquidity pools <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. Its mechanism is comparable to how Luna and UST operate, where the supply of Vader is directly linked to the supply of USDV <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+### Automated Market Maker (AMM)
 
-*   **Pegging Mechanism:** One USDV is pegged to one USD <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
-    *   If USDV exceeds one dollar, Vader supply is burned to mint more USDV, increasing USDV supply and bringing its value back to the peg <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>. This also reduces Vader supply, causing its price to rise <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
-    *   If USDV falls below one dollar, USDV supply is burned to mint Vader, decreasing USDV supply and restoring the peg <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. This increases Vader supply, leading to a drop in its price <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
-*   **Impact on Vader Price:** Higher demand for USDV generally leads to a better price for Vader <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+Vader's AMM is an EVM (Ethereum Virtual Machine) version of the Thorchain AMM <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>. It facilitates Continuous Liquidity Pools (CLP) and offers higher fees for liquidity providers, especially those who are "first-class citizens" <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
 
-### 3. Continuous Liquidity Pools (CLP) AMM
+Similar to Thorchain where LPs provide an asset with its native token (RUNE) <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>, Vader requires LPs to provide an asset along with USDB <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>. This structure drives demand for USDB as it is the base asset in all liquidity pools <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
 
-The Vader AMM is an EVM (Ethereum Virtual Machine) version of the ThorChain AMM <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. It facilitates CLPs, which are designed to maximize the yield for liquidity pool providers <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. It offers higher fees, especially for LPs who hold USDV <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. To provide liquidity on Vader, users must provide an asset paired with USDV, similar to how ThorChain requires its native RUNE token <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. This requirement drives demand for USDV <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+### Bond Sales
 
-## Protecting Liquidity through Bond Sales
+To prevent liquidity from leaving the project, Vader utilizes bond sales <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. This mechanism allows Vader to buy liquidity from LPs, similar to Olympus Pro <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. LPs can mint Vader at a discount, subject to a vesting period <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
 
-Vader's [[Vader Tokenomics and Bond Sales | bond sales]] aim to prevent liquidity from leaving the protocol <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>. Unlike older methods where projects incentivize LPs with tokens that are often dumped, Vader directly buys liquidity from LPs via these sales <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. LPs sell their liquidity pool tokens to Vader in exchange for discounted Vader tokens <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. This allows the protocol to own the liquidity pool tokens, ensuring that liquidity remains within the project <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. The Vader tokens sold through bond sales come from the community liquidity incentive allocation <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. These sales occur at fixed times and are not perpetual; Vader's first bond sale sold out in 30 minutes <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>.
+In this process, users sell their liquidity pool tokens to the protocol in exchange for discounted Vader tokens <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. This ensures that the protocol owns the liquidity pool tokens, preventing liquidity from exiting the project <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. The Vader tokens sold through bond sales come from the community liquidity incentive allocation <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. These bond sales occur at fixed times and are not necessarily perpetual <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>; for example, Vader's first bond sale sold out in 30 minutes <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
 
-## Overall Benefits
+The combination of these three components creates an AMM that offers deep liquidity, provides impermanent loss protection for 100 days for LPs, and features a stablecoin with pre-populated demand <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
 
-By integrating these three components, Vader Protocol forms an AMM that offers:
-*   Deep liquidity <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>
-*   Impermanent loss protection for 100 days for liquidity providers <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>
-*   A stablecoin (USDV) with pre-populated demand <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>
+## Team and [[vader_tokenomics_and_community_aspects | Vader Tokenomics]]
 
-## Team and Tokenomics
+The Vader team remains anonymous <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>, with the community lead identified as "Dogs Mervin" <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>.
 
-The Vader Protocol team is anonymous, with Dogs Mervin serving as the community lead on Twitter <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
-
-### Vader Tokenomics
-The [[Vader Tokenomics and Bond Sales | Vader tokenomics]] model includes:
-*   **vE Holders:** Considered early investors, vE holders converted their ETH into vE tokens and can exchange vE for Vader tokens <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>. They receive 50% upfront and 50% vested over one year <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>.
-*   **Team Allocation:** The team receives a 10% allocation with a two-year linear vesting period <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>.
-*   **Ecosystem and Liquidity Incentive:** The remaining tokens are allocated for ecosystem development and liquidity incentives, from which the bond sales are sourced <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+Regarding [[vader_tokenomics_and_community_aspects | Vader Tokenomics]]:
+*   **VE Holders:** Early investors ("ve holders") took their ETH and minted it into VE, then used VE to exchange for Vader tokens <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>. They received 50% upfront, with 50% vesting over one year <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>.
+*   **Team Allocation:** The team's allocation is 10%, with a two-year linear vesting schedule <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+*   **Ecosystem and Liquidity Incentive:** The remaining tokens are allocated for ecosystem development and liquidity incentives <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. The bond sales, for instance, draw from this Vader liquidity incentive <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
 
 ## Closing Thoughts
 
-Vader Protocol presents an interesting approach by integrating the best aspects of different DeFi products <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. However, a significant [[Challenges and Considerations for Vader Protocol | challenge]] lies in its execution <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>, particularly with the anonymous team and what some might view as a relatively short vesting period <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
-
-*Disclaimer: This is not financial advice. Always conduct your own research before making investment decisions <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>.*
+The concept of integrating these three distinct elements is considered very interesting, taking the best aspects from each product <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. However, potential challenges include the anonymous nature of the team <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a> and a vesting period that may be considered somewhat short <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>.

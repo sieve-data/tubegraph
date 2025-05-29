@@ -4,5 +4,4 @@ videoId: ytmgcbI5EBE
 ---
 
 From: [[goingonchain]] <br/> 
-
-No specific information regarding Metamask scams was found in the provided transcript. The transcript contains mentions of "Metaverse" <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
+Unfortunately, the provided transcript does not contain information about Metamask scams or related cryptocurrency security topics. The content appears to be largely unrelated to the main topic. Therefore, an article cannot be generated from this transcript.
