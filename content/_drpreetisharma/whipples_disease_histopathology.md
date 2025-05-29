@@ -5,22 +5,19 @@ videoId: 4vGtQ5AQUS0
 
 From: [[_drpreetisharma]] <br/> 
 
-Whipple's disease is a condition primarily characterized by specific [[Histological and cytological appearances in pathology | histological appearances]] <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a> and is caused by the gram-positive bacterium *Tropheryma whipplei* <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>.
+Whipple's disease is a condition caused by the gram-positive bacterium *Tropheryma whipplei* <a class="yt-timestamp" data-t="09:20:49">[09:20:49]</a>. This infection primarily leads to malabsorption, affecting the intestine's ability to absorb nutrients <a class="yt-timestamp" data-t="09:32:51">[09:32:51]</a>.
 
-## Clinical Presentation
-The disease typically leads to malabsorption, where the intestine's ability to absorb nutrients is significantly impaired <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>.
+## Characteristic Histopathology
 
-## Histopathological Findings
-The characteristic [[Histological and cytological appearances in pathology | histopathology]] for Whipple's disease is the presence of PAS-positive macrophages in the lamina propria <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.
+The classical histopathological finding for Whipple's disease is the presence of PAS (Periodic Acid-Schiff) positive macrophages within the lamina propria of the intestine <a class="yt-timestamp" data-t="09:37:57">[09:37:57]</a>.
 
 ### Microscopic Appearance
-Upon [[Histological and cytological appearances in pathology | histological examination]] <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>:
-*   **Intestinal Villi:** Intestinal villi are visible <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>.
-*   **Goblet Cells:** The presence of goblet cells confirms the tissue is from the intestine <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>.
-*   **Foam Cells:** In the lamina propria (below the goblet cells), whitish cells are observed <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>. These are known as "foam cells" <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. These foam cells are macrophages that have engulfed *Tropheryma whipplei* bacteria <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a>.
 
-### Special Staining
-To confirm the nature of the foam cells, a Periodic Acid-Schiff (PAS) stain is utilized <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>. The whitish foam cells will stain pinkish with the PAS stain <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>, confirming them as PAS-positive macrophages in the lamina propria <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>.
+*   **Intestinal Villi:** On microscopic examination, the image will show intestinal villi and goblet cells, indicating intestinal tissue <a class="yt-timestamp" data-t="09:47:38">[09:47:38]</a>.
+*   **Foam Cells:** Within the lamina propria, located beneath the goblet cells, whitish-appearing cells known as "foam cells" are observed <a class="yt-timestamp" data-t="10:07:05">[10:07:05]</a>.
+*   **Nature of Foam Cells:** These foam cells are, in fact, macrophages that have engulfed *Tropheryma whipplei* bacteria, making them appear foamy <a class="yt-timestamp" data-t="10:12:12">[10:12:12]</a>.
+*   **PAS Stain:** To confirm the presence of *Tropheryma whipplei* within these macrophages, a PAS stain is applied. This stain turns the whitish foam cells pinkish, demonstrating their PAS positivity <a class="yt-timestamp" data-t="10:28:43">[10:28:43]</a>. The presence of PAS-positive macrophages in the lamina propria is diagnostic for Whipple's disease <a class="yt-timestamp" data-t="10:45:34">[10:45:34]</a>.
 
 ## Differential Diagnosis
-When foam cells are observed on [[Histological and cytological appearances in pathology | histopathology]], the differential diagnosis includes Whipple's disease and Tuberculosis (TB) <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>. Macrophages in TB also engulf the causative bacteria <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>. To differentiate, TB will be positive for an acid-fast stain <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>.
+
+When foam cells are identified on histopathology, Whipple's disease is a primary differential diagnosis <a class="yt-timestamp" data-t="10:56:56">[10:56:56]</a>. Another important consideration is tuberculosis (TB), as macrophages will also engulf TB bacteria <a class="yt-timestamp" data-t="11:01:46">[11:01:46]</a>. To differentiate between the two, TB would be positive for an acid-fast stain <a class="yt-timestamp" data-t="11:10:02">[11:10:02]</a>.

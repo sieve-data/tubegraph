@@ -5,152 +5,186 @@ videoId: Q2x6k1KNVXQ
 
 From: [[_drpreetisharma]] <br/> 
 
-Bacteriology is the study of bacteria. This article summarizes key concepts and important bacteria discussed in a microbiology crash course for upcoming exams such as NEET and FMG <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. Previous sessions covered general microbiology and [[Introduction to Mycology | mycology]] <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
+This article provides an overview of key bacterial groups, their characteristics, and diagnostic methods, as covered in a microbiology crash course. <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>
 
-## General Bacterial Classification
+## General Rules for Bacterial Classification
 
-Bacteria can be broadly categorized by their shape and Gram stain reaction <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>:
+Bacteria are generally categorized based on their shape and Gram stain reaction:
+*   **Cocci**: Typically round or spherical. <a class="yt-timestamp" data-t="01:17:19">[01:17:19]</a>
+    *   All cocci are generally Gram-positive, except for *Neisseria*, *Moraxella*, and *Veillonella*. <a class="yt-timestamp" data-t="01:25:25">[01:25:25]</a>
+*   **Bacilli**: Rod-shaped. <a class="yt-timestamp" data-t="01:10:55">[01:10:55]</a>
+    *   All bacilli are generally Gram-negative, except for *Mycobacterium*, *Clostridium*, *Corynebacterium*, *Nocardia*, *Actinomyces*, and *Listeria*. <a class="yt-timestamp" data-t="01:11:04">[01:11:04]</a>
 
-*   **Cocci:** Generally spherical or oval-shaped bacteria <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>.
-    *   **General Rule:** All cocci are Gram-positive <a class="yt-timestamp" data-t="01:25:00">[01:25:00]</a>.
-    *   **Exceptions:** Neisseria, Moraxella, and Veillonella are Gram-negative cocci <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>.
-*   **Bacilli:** Rod-shaped bacteria <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>.
-    *   **General Rule:** All bacilli are Gram-negative <a class="yt-timestamp" data-t="01:32:00">[01:32:00]</a>.
-    *   **Exceptions:** Mcdonald's mnemonic represents Gram-positive bacilli: **M**ycobacterium, **C**lostridium, **D**iphtheria (Corynebacterium diphtheriae), **N**ocardia, **A**ctinomyces, **L**isteria <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>.
+## Staphylococcus
 
-## Specific Bacterial Genera
+Staphylococcus are Gram-positive cocci that arrange in grape-like clusters. <a class="yt-timestamp" data-t="02:00:54">[02:00:54]</a>
 
-### Staphylococcus
+### Staphylococcus aureus
 
-Staphylococcus are Gram-positive cocci that arrange in grape-like clusters ("staphylo" means bunch of grapes) <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>, <a class="yt-timestamp" data-t="20:54:00">[20:54:00]</a>.
+*   **Characteristics**:
+    *   Gram-positive cocci arranged in "bunch of grapes" clusters. <a class="yt-timestamp" data-t="02:00:54">[02:00:54]</a>
+    *   The term "aureus" refers to the golden pigment produced on nutrient agar, named staphyloxanthine. <a class="yt-timestamp" data-t="02:01:16">[02:01:16]</a>
+*   **Virulence Factors & Toxins**:
+    *   **Protein A**: Present in the cell wall, it has anti-phagocytic and anti-complementary properties. <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a> It is also used in the co-agglutination test. <a class="yt-timestamp" data-t="03:32:00">[03:32:00]</a>
+    *   **Hemolysins**: Alpha, beta, gamma, and delta hemolysins break down blood. <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>
+    *   **PV Toxin (Pantene Valentine Toxin)** and **Gamma Hemolysin**: These two work synergistically and are known as the synergy hymenotropic toxin. <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>
+    *   **Exfoliative (Epidermolytic) Toxin**: Causes skin exfoliation, leading to conditions like Staphylococcal Scalded Skin Syndrome (SSSS) and Toxic Epidermolytic Necrosis (TEN). <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>
+    *   **Enterotoxin**: Causes food poisoning. <a class="yt-timestamp" data-t="05:46:00">[05:46:00]</a>
+        *   Incubation period is typically less than 6 hours (1-6 hours). <a class="yt-timestamp" data-t="06:06:00">[06:06:00]</a>
+        *   Commonly associated with dairy and poultry consumption. <a class="yt-timestamp" data-t="06:41:00">[06:41:00]</a>
+        *   If no food item is mentioned and the incubation period is less than 6 hours, *Staphylococcus aureus* is the commonest cause. <a class="yt-timestamp" data-t="07:27:00">[07:27:07]</a>
+        *   **Enterotoxin F**: Unique among enterotoxins, it does not cause food poisoning. <a class="yt-timestamp" data-t="07:50:00">[07:50:00]</a> Instead, it is a superantigen causing Toxic Shock Syndrome (TSS). <a class="yt-timestamp" data-t="08:19:00">[08:19:00]</a>
+*   **Diseases (SOFT BEANS Mnemonic)**: <a class="yt-timestamp" data-t="01:10:35">[01:10:35]</a>
+    *   **S**oft tissue and skin infections <a class="yt-timestamp" data-t="01:10:44">[01:10:44]</a>
+    *   **O**steomyelitis (most common cause) <a class="yt-timestamp" data-t="01:10:52">[01:10:52]</a>
+    *   **F**ood poisoning <a class="yt-timestamp" data-t="01:10:55">[01:10:55]</a>
+    *   **T**EN (Toxic Epidermolytic Necrosis) and **T**SS (Toxic Shock Syndrome) <a class="yt-timestamp" data-t="01:10:58">[01:10:58]</a>
+    *   **P**neumonia and Pneumatocele (most common cause) <a class="yt-timestamp" data-t="01:11:03">[01:11:03]</a>
+    *   **A**cute endocarditis <a class="yt-timestamp" data-t="01:11:33">[01:11:33]</a>
+    *   **I**nfective arthritis (most common cause) <a class="yt-timestamp" data-t="01:11:36">[01:11:36]</a>
+    *   **N**ecrotizing fasciitis <a class="yt-timestamp" data-t="01:11:36">[01:11:36]</a>
+    *   **S**epsis <a class="yt-timestamp" data-t="01:11:45">[01:11:45]</a>
+    *   *Staphylococcus aureus* does not cause granulomatous inflammation. <a class="yt-timestamp" data-t="01:31:37">[01:31:37]</a>
+*   **Enzymes & Tests (STAPHYLOCOCCUS Mnemonic)**: <a class="yt-timestamp" data-t="01:12:28">[01:12:28]</a>
+    *   **T**hermonuclease (DNase) <a class="yt-timestamp" data-t="01:12:31">[01:12:31]</a>
+    *   **Ph**osphatase <a class="yt-timestamp" data-t="01:12:57">[01:12:57]</a>
+    *   **C**atalase: *Staphylococcus aureus* is catalase positive, producing bubbles when hydrogen peroxide (H2O2) is added due to the breakdown of H2O2 into water and oxygen. <a class="yt-timestamp" data-t="01:12:45">[01:12:45]</a>
+    *   **C**oagulase: *Staphylococcus aureus* is coagulase positive. <a class="yt-timestamp" data-t="01:12:45">[01:12:45]</a>
+        *   **Slide (Bound) Coagulase Test**: Tests for bound coagulase. <a class="yt-timestamp" data-t="01:14:50">[01:14:50]</a>
+        *   **Tube (Free) Coagulase Test**: Tests for free coagulase. <a class="yt-timestamp" data-t="01:14:55">[01:14:55]</a>
+        *   *Staphylococcus aureus*, *Staphylococcus intermedius*, and *Staphylococcus hyicus* are positive for both tests. <a class="yt-timestamp" data-t="01:15:28">[01:15:28]</a>
+*   **Culture Characteristics**: [[overview_of_bacterial_culture_media | Overview of Bacterial Culture Media]] and [[characteristics_of_specific_bacterial_cultures | Characteristics of Specific Bacterial Cultures]]
+    *   **Nutrient Agar**: Produces a golden-yellow pigment (staphyloxanthine). <a class="yt-timestamp" data-t="02:21:31">[02:21:31]</a>
+    *   **Blood Agar**: Shows a narrow zone of hemolysis. <a class="yt-timestamp" data-t="02:22:07">[02:22:07]</a>
+    *   **Mannitol Salt Agar (MSA)**: A selective and differential medium. <a class="yt-timestamp" data-t="02:23:00">[02:23:00]</a> Salt makes it selective (only salt-tolerant bacteria like Staphylococcus grow). <a class="yt-timestamp" data-t="02:23:15">[02:23:15]</a> Mannitol makes it differential, with mannitol fermentation producing a yellow color, indicating *Staphylococcus aureus*. <a class="yt-timestamp" data-t="02:23:47">[02:23:47]</a>
+*   **Antibiotic Resistance**:
+    *   **Penicillin/Beta-lactam Resistance**: Due to the production of beta-lactamase enzyme from the *bla* gene. <a class="yt-timestamp" data-t="02:41:00">[02:41:00]</a>
+    *   **Methicillin Resistance (MRSA)**: Due to the presence of the *mecA* gene. <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a> This leads to treatment with Vancomycin. <a class="yt-timestamp" data-t="02:47:30">[02:47:30]</a>
 
-#### Staphylococcus Aureus
+### Coagulase-Negative Staphylococcus (CONS)
 
-*   **Name Origin:** "Aureus" means golden, referring to the golden pigment produced on a nutrient agar due to staphyloxanthin <a class="yt-timestamp" data-t="21:16:00">[21:16:00]</a>, <a class="yt-timestamp" data-t="21:46:00">[21:46:00]</a>.
-*   **Virulence Factors and Toxins:**
-    *   **Protein A:** Found in the cell wall; exhibits anti-phagocytic and anti-complementary properties, and is used in the co-agglutination test <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>.
-    *   **Hemolysins:** Alpha, Beta, Gamma, and Delta hemolysins break down blood cells <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>.
-    *   **Panton-Valentine (PV) Toxin & Gamma Hemolysin:** Together, they form the synergy hymenotropic toxin <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>.
-    *   **Exfoliative Toxin (Epidermolytic Toxin):** Causes skin exfoliation, leading to conditions like Staphylococcal Scalded Skin Syndrome (SSSS) and Toxic Epidermolytic Necrosis (TEN) <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>.
-    *   **Enterotoxin:** Causes food poisoning, typically with an incubation period of less than six hours (1-6 hours) <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>. Often associated with dairy and poultry consumption <a class="yt-timestamp" data-t="06:41:00">[06:41:00]</a>. All enterotoxins cause food poisoning *except* Enterotoxin F <a class="yt-timestamp" data-t="07:50:00">[07:50:00]</a>.
-    *   **Enterotoxin F (Toxic Shock Syndrome Toxin - TSST):** A superantigen that causes Toxic Shock Syndrome (TSS) <a class="yt-timestamp" data-t="08:08:00">[08:08:00]</a>.
-*   **Diseases (SOFT BEAMS mnemonic):**
-    *   **S**kin and **S**oft tissue infections <a class="yt-timestamp" data-t="10:42:00">[10:42:00]</a>
-    *   **O**steomyelitis (most common cause) <a class="yt-timestamp" data-t="10:52:00">[10:52:00]</a>
-    *   **F**ood poisoning <a class="yt-timestamp" data-t="10:55:00">[10:55:00]</a>
-    *   **T**EN and **T**SS <a class="yt-timestamp" data-t="10:58:00">[10:58:00]</a>
-    *   **P**neumonia and **P**neumatocele (most common cause) <a class="yt-timestamp" data-t="11:01:00">[11:01:00]</a>
-    *   **E**ndocarditis (Acute) <a class="yt-timestamp" data-t="11:29:00">[11:29:00]</a>
-    *   **A**rthritis (Infective, most common cause) <a class="yt-timestamp" data-t="11:33:00">[11:33:00]</a>
-    *   **M**ultiple "itis" conditions like Necrotizing Fasciitis <a class="yt-timestamp" data-t="11:36:00">[11:36:00]</a>
-    *   **S**epsis <a class="yt-timestamp" data-t="11:45:00">[11:45:00]</a>
-*   **Enzymes (Staphylococcus mnemonic):**
-    *   **T**hermonuclease (DNase) <a class="yt-timestamp" data-t="12:31:00">[12:31:00]</a>
-    *   **Ph**osphatase <a class="yt-timestamp" data-t="12:53:00">[12:53:00]</a>
-    *   **C**atalase: [[Basic Pathology and Microbiology Concepts | Catalase]]-positive <a class="yt-timestamp" data-t="12:45:00">[12:45:00]</a>. This enzyme breaks H₂O₂ into water and oxygen, producing bubbles <a class="yt-timestamp" data-t="13:40:00">[13:40:00]</a>. Organisms like Staphylococcus, Pseudomonas, Aspergillus, Candida, Enterobacter, and Mycobacterium are catalase-positive <a class="yt-timestamp" data-t="16:43:00">[16:43:00]</a>.
-    *   **C**oagulase: [[Basic Pathology and Microbiology Concepts | Coagulase]]-positive <a class="yt-timestamp" data-t="12:45:00">[12:45:00]</a>.
-        *   **Slide Coagulase Test (Bound Coagulase):** Performed on a slide.
-        *   **Test Tube Coagulase Test (Free Coagulase):** Performed in a test tube.
-        *   *Staphylococcus aureus*, *Staphylococcus intermedius*, and *Staphylococcus hyicus* are positive for both tests <a class="yt-timestamp" data-t="15:26:00">[15:26:00]</a>.
-        *   *Staphylococcus lugdunensis* is positive for the bound coagulase test only <a class="yt-timestamp" data-t="15:41:00">[15:41:00]</a>.
-        *   *Staphylococcus schleiferi* is positive for the free coagulase test only <a class="yt-timestamp" data-t="15:54:00">[15:54:00]</a>.
-*   **Culture Characteristics:**
-    *   **Nutrient Agar:** Produces a golden yellow pigment (staphyloxanthin) <a class="yt-timestamp" data-t="21:41:00">[21:41:00]</a>.
-    *   **Blood Agar:** Shows a narrow zone of hemolysis <a class="yt-timestamp" data-t="22:10:00">[22:10:00]</a>.
-    *   **Mannitol Salt Agar (MSA):** A selective (due to salt) and differential (due to mannitol) medium <a class="yt-timestamp" data-t="22:55:00">[22:55:00]</a>. *S. aureus* ferments mannitol, producing a yellow color <a class="yt-timestamp" data-t="24:06:00">[24:06:00]</a>.
-*   **Antibiotic Resistance:**
-    *   **Penicillin/Beta-lactam Resistance:** Occurs due to the production of beta-lactamase, encoded by the *bla* gene <a class="yt-timestamp" data-t="26:41:00">[26:41:00]</a>.
-    *   **Methicillin Resistance (MRSA):** Develops due to the *mecA* gene <a class="yt-timestamp" data-t="27:16:00">[27:16:00]</a>. MRSA is treated with vancomycin, though vancomycin-resistant strains exist <a class="yt-timestamp" data-t="27:39:00">[27:39:00]</a>.
+These are *Staphylococcus* species that test negative for coagulase. <a class="yt-timestamp" data-t="02:59:02">[02:59:02]</a>
+*   **Staphylococcus epidermidis**:
+    *   Forms biofilms, especially on IV cannulas, making them resistant to antibiotics. <a class="yt-timestamp" data-t="02:59:47">[02:59:47]</a>
+    *   Commonly involved in prosthetic valve endocarditis. <a class="yt-timestamp" data-t="03:00:20">[03:00:20]</a>
+*   **Staphylococcus saprophyticus**:
+    *   Commonly associated with urinary tract infections (UTIs). <a class="yt-timestamp" data-t="03:02:25">[03:02:25]</a>
 
-#### Coagulase-Negative Staphylococcus (CoNS)
+## Streptococcus
 
-*   CoNS are coagulase-negative <a class="yt-timestamp" data-t="29:22:00">[29:22:00]</a>.
-*   ***Staphylococcus epidermidis:*** Forms biofilms, commonly on IV cannulas, making them antibiotic resistant <a class="yt-timestamp" data-t="29:45:00">[29:45:00]</a>. Also associated with prosthetic valve endocarditis <a class="yt-timestamp" data-t="30:17:00">[30:17:00]</a>.
-*   ***Staphylococcus saprophyticus:*** Commonly associated with urinary tract infections (UTI) <a class="yt-timestamp" data-t="30:24:00">[30:24:00]</a>.
+Streptococci are Gram-positive cocci seen in chains. <a class="yt-timestamp" data-t="04:07:00">[04:07:00]</a> Classification is based on hemolysis type on blood agar. <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>
 
-### Streptococcus
+### Classification by Hemolysis
 
-Streptococcus are Gram-positive cocci that arrange in chains <a class="yt-timestamp" data-t="39:59:00">[39:59:00]</a>. They are catalase-negative <a class="yt-timestamp" data-t="41:27:00">[41:27:00]</a>.
+*   **Alpha-hemolysis**: Partial hemolysis, producing a green color. <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>
+    *   Includes *Streptococcus viridans* and *Streptococcus pneumoniae*. <a class="yt-timestamp" data-t="03:56:00">[03:56:00]</a>
+*   **Beta-hemolysis**: Complete hemolysis, producing a yellow color. <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>
+    *   Further classified by Lancefield grouping. <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>
+*   **Gamma-hemolysis**: No hemolysis, blood remains red. <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>
+    *   Includes *Enterococcus*. <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>
 
-*   **Classification by Hemolysis (on Blood Agar):**
-    *   **Alpha-Hemolysis (Partial Hemolysis):** Causes a green discoloration around colonies <a class="yt-timestamp" data-t="35:29:00">[35:29:00]</a>.
-        *   *Streptococcus viridans* (viridans group) <a class="yt-timestamp" data-t="36:17:00">[36:17:00]</a>.
-        *   *Streptococcus pneumoniae* (pneumococcus) <a class="yt-timestamp" data-t="36:23:00">[36:23:00]</a>.
-    *   **Beta-Hemolysis (Complete Hemolysis):** Causes a clear, yellowish zone around colonies <a class="yt-timestamp" data-t="35:25:00">[35:25:00]</a>.
-        *   Further classified by **Lancefield Classification**, based on C-carbohydrate antigen in the cell wall <a class="yt-timestamp" data-t="37:09:00">[37:09:00]</a>.
-            *   **Group A Beta-Hemolytic Streptococcus (GABHS) / *Streptococcus pyogenes***:
-                *   Causes infections like sore throat (pharyngitis) <a class="yt-timestamp" data-t="42:32:00">[42:32:00]</a>.
-                *   Sequelae include Rheumatic Fever and Rheumatic Heart Disease <a class="yt-timestamp" data-t="43:59:00">[43:59:00]</a>.
-                *   **Pikes Media:** Transport medium for *S. pyogenes* <a class="yt-timestamp" data-t="40:12:00">[40:12:00]</a>.
-                *   **Pinpoint Colonies:** Seen on blood agar <a class="yt-timestamp" data-t="40:21:00">[40:21:00]</a>.
-                *   **Wide Zone of Hemolysis:** Classical characteristic <a class="yt-timestamp" data-t="40:30:00">[40:30:00]</a>.
-                *   **Bacitracin Sensitive:** Used for differentiation <a class="yt-timestamp" data-t="41:36:00">[41:36:00]</a>.
-                *   **PYR Test Positive** <a class="yt-timestamp" data-t="41:45:00">[41:45:00]</a>.
-            *   **Group B Beta-Hemolytic Streptococcus (GBS) / *Streptococcus agalactiae***:
-                *   Can affect neonates (causing meningitis and pneumonia) and older children <a class="yt-timestamp" data-t="46:08:00">[46:08:00]</a>.
-                *   **CAMP Test Positive:** Characterized by an arrowhead-shaped zone of hemolysis at the junction of *S. agalactiae* and *Staphylococcus aureus* streaks on blood agar <a class="yt-timestamp" data-t="47:01:00">[47:01:00]</a>.
-                *   **Hippurate Hydrolysis Positive** <a class="yt-timestamp" data-t="46:27:00">[46:27:00]</a>.
-    *   **Gamma-Hemolysis (No Hemolysis):** No color change around colonies <a class="yt-timestamp" data-t="35:13:00">[35:13:00]</a>.
-        *   **Enterococcus:**
-            *   **Spectacle Gram-Positive Cocci:** Characteristic shape <a class="yt-timestamp" data-t="49:53:00">[49:53:00]</a>.
-            *   **Non-motile, Non-hemolytic** <a class="yt-timestamp" data-t="50:07:00">[50:07:00]</a>.
-            *   **NaCl 6.5% tolerant:** Can grow in high salt concentrations <a class="yt-timestamp" data-t="50:10:00">[50:10:00]</a>.
-            *   **Heat Tolerant** <a class="yt-timestamp" data-t="50:23:00">[50:23:00]</a>.
-            *   **Bile Tolerant (40% bile):** Grows on Bile Esculin Azide (BEA) medium, producing a black color <a class="yt-timestamp" data-t="50:32:00">[50:32:00]</a>.
-            *   **PYR Test Positive** <a class="yt-timestamp" data-t="51:24:00">[51:24:00]</a>.
-*   **Differentiation of Alpha-Hemolytic Streptococci:**
-    *   ***Streptococcus viridans:*** **R**esistant to optochin, **I**nsoluble in bile <a class="yt-timestamp" data-t="52:51:00">[52:51:00]</a>. Often causes endocarditis <a class="yt-timestamp" data-t="53:56:00">[53:56:00]</a>.
-    *   ***Streptococcus pneumoniae:*** **S**ensitive to optochin, **S**oluble in bile <a class="yt-timestamp" data-t="53:17:00">[53:17:00]</a>.
-        *   Causes pneumonia <a class="yt-timestamp" data-t="53:48:00">[53:48:00]</a>.
-        *   **Morphology:** Lancet-shaped diplococci with a capsule <a class="yt-timestamp" data-t="54:09:00">[54:09:00]</a>.
-        *   **Colony Appearance:** Drotzman colony or Carom coin colony (elevated periphery, depressed center) <a class="yt-timestamp" data-t="54:35:00">[54:35:00]</a>.
-        *   **Capsule:** Composed of capsular polysaccharide, which allows for typing (over 90 subtypes) <a class="yt-timestamp" data-t="55:21:00">[55:21:00]</a>.
-        *   **Quellung Reaction:** Positive for encapsulated organisms like *S. pneumoniae*, where adding anti-capsular antibody causes the capsule to swell <a class="yt-timestamp" data-t="55:48:00">[55:48:00]</a>.
-        *   **Splenectomy:** Individuals who have undergone splenectomy are more susceptible to infections by encapsulated organisms like *S. pneumoniae*, *H. influenzae*, and *Neisseria meningitidis* because the spleen helps fight them <a class="yt-timestamp" data-t="58:51:00">[58:51:00]</a>.
+### Lancefield Classification
 
-### Neisseria
+Used for Beta-hemolytic streptococci, it categorizes them into groups (A, B, C, D, etc.) based on the carbohydrate antigen in their cell wall. <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>
 
-Neisseria are Gram-negative diplococci (cocci in pairs) <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>.
+### Streptococcus pyogenes (Group A Beta-Hemolytic Streptococcus - GABHS)
 
-*   **Natural Habitat:**
-    *   *Neisseria meningitidis:* Nasopharynx <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>, <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>.
-    *   *Neisseria gonorrhoeae:* Genital region <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>, <a class="yt-timestamp" data-t="01:23:00">[01:23:00]</a>.
-*   **Differentiation by Fermentation:**
-    *   *Neisseria meningitidis:* Ferments both **M**altose and **G**lucose <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>.
-    *   *Neisseria gonorrhoeae:* Ferments only **G**lucose <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a>.
-*   **Appearance:**
-    *   *Neisseria meningitidis:* Lancet-shaped with a capsule <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>.
-    *   *Neisseria gonorrhoeae:* Kidney-shaped or bean-shaped <a class="yt-timestamp" data-t="01:59:00">[01:59:00]</a>.
-*   **Diseases:**
-    *   *Neisseria meningitidis:* Causes meningitis <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a> and Waterhouse-Friderichsen Syndrome (bilateral adrenal hemorrhage) <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>.
-    *   *Neisseria gonorrhoeae:* Causes sexually transmitted infections (STDs) <a class="yt-timestamp" data-t="01:27:00">[01:27:00]</a>, Ophthalmia Neonatorum in newborns (acquired during passage through birth canal) <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>, and Fitz-Hugh-Curtis Syndrome (perihepatitis) <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>.
-*   **Culture Media:**
-    *   **Thayer-Martin Medium:** Charcoal-based medium used for both Neisseria species <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>.
-    *   **Modified New York Agar:** Also used for *N. gonorrhoeae* <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>.
-*   **Transport Media:** Stewart's or Amie's media <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>.
-*   **Vaccine:** The meningococcal vaccine covers serotypes A, C, Y, and W135, but not B <a class="yt-timestamp" data-t="01:47:00">[01:47:00]</a>.
+*   **Characteristics**:
+    *   Forms chains. <a class="yt-timestamp" data-t="04:04:00">[04:04:00]</a>
+    *   Transport medium: Pike's media. <a class="yt-timestamp" data-t="04:15:00">[04:15:00]</a>
+    *   On blood agar, produces pinpoint colonies with a wide zone of hemolysis. <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>
+    *   Catalase negative. <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>
+    *   Bacitracin sensitive. <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>
+    *   PYR (Pyrrolidonyl Arylamidase) test positive. <a class="yt-timestamp" data-t="04:15:00">[04:15:00]</a>
+*   **Diseases**: Commonly causes sore throat and rash, and is known to cause Rheumatic Heart Disease. <a class="yt-timestamp" data-t="04:51:00">[04:51:00]</a>
 
-### Corynebacterium Diphtheriae
+### Streptococcus agalactiae (Group B Beta-Hemolytic Streptococcus - GBS)
 
-*   **Classification:** Gram-positive bacillus (rod-shaped) <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>.
-*   **Characteristics:** Non-motile, non-spore forming, non-capsulated <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>.
-*   **Synonym:** Loffler's bacillus <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>.
-*   **Non-Diphtheroids (Other Corynebacterium Species):**
-    *   *Corynebacterium ulcerans:* Causes skin ulcers and lung involvement <a class="yt-timestamp" data-t="01:13:00">[01:13:00]</a>.
-    *   *Corynebacterium pseudotuberculosis:* Also known as the Presnocard bacillus, causes infections in animals (e.g., sheep) <a class="yt-timestamp" data-t="01:13:00">[01:13:00]</a>.
-    *   *Corynebacterium minutissimum:* Causes erythrasma (a red, coral-red rash on the skin) <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>.
-*   **Diphtheria Disease:**
-    *   **Pseudo-membrane Formation:** Classically forms a pseudo-membrane in the tonsillar and faucial areas (most common site) <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>.
-    *   **Laryngeal Diphtheria:** Most dangerous form, as it can cause respiratory obstruction <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>.
-    *   **Bull's Neck:** Swelling and edema of the neck due to lymph node involvement <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>.
-    *   **Diphtheria Toxin:** Not all *C. diphtheriae* strains are toxigenic <a class="yt-timestamp" data-t="01:16:00">[01:16:00]</a>. Toxin production is mediated by the *tox* gene, which is transferred via bacteriophage (a process called transduction) <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>. The toxin inhibits protein synthesis <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>.
-*   **Diagnosis:**
-    *   **Microscopy:** Gram-positive rods with a characteristic Chinese letter or cuneiform appearance <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>.
-    *   **Granules:** Contains volutin, bipolar, Babe-Ernst, or metachromatic granules at the poles, which are energy sources (poly-metaphosphate) <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>. These can be stained with Ponder's, Albert's, or Neisser's stains <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>. Albert's stain uses Toluidine Blue (stains granules purple), Iodine, and Malachite Green (stains bacteria green) <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>.
-    *   **Culture Media:**
-        *   **Enriched Medium:** Loffler Serum Slope (LSS), which facilitates faster growth (6-8 hours) <a class="yt-timestamp" data-t="01:26:00">[01:26:00]</a>.
-        *   **Selective Medium:** Potassium Tellurite Agar (PTA), which produces black colonies and takes longer (48 hours) <a class="yt-timestamp" data-t="01:27:00">[01:27:00]</a>.
-    *   **Toxigenicity Testing:**
-        *   **Elek Gel Precipitation Test:** Detects toxin production by observing precipitation lines formed by toxin-antitoxin reaction on an agar plate <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>.
-    *   **Susceptibility Testing:**
-        *   **Schick Test:** A type III hypersensitivity reaction performed on humans to determine susceptibility or immunity to diphtheria <a class="yt-timestamp" data-t="01:28:00">[01:28:00]</a>. A positive test indicates susceptibility <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>.
+*   **Diseases**: Can cause meningitis and pneumonia in neonates and older children. <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>
+*   **Tests**:
+    *   **CAMP Test (Christie-Atkins-Munch-Peterson)**: Positive result shows an arrowhead-shaped zone of enhanced hemolysis at the junction of *S. agalactiae* and *Staphylococcus aureus* streaks on blood agar. <a class="yt-timestamp" data-t="04:00:00">[04:00:00]</a>
+    *   Hippurate hydrolysis positive. <a class="yt-timestamp" data-t="04:23:00">[04:23:00]</a>
+
+### Enterococcus (Gamma-Hemolytic Streptococcus)
+
+*   **Characteristics (ENTEROCOCCUS Mnemonic)**: <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>
+    *   **E**: Spectacle-shaped Gram-positive cocci. <a class="yt-timestamp" data-t="04:46:00">[04:46:00]</a>
+    *   **N**: Non-motile, non-hemolytic, can grow in 6.5% NaCl. <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>
+    *   **T**: Tolerant to heat. <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>
+    *   **E** (again, like a 'b'): Grows in 40% bile. <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>
+    *   **R**: Pyrrolidonyl Arylamidase (PYR) test positive. <a class="yt-timestamp" data-t="04:46:00">[04:46:00]</a>
+*   **Culture**: Grows on Bile Esculin Azide (BEA) agar, producing a black color. <a class="yt-timestamp" data-t="04:46:00">[04:46:00]</a>
+
+### Streptococcus pneumoniae (Pneumococcus)
+
+*   **Characteristics**:
+    *   Alpha-hemolytic. <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>
+    *   Lanceolate (lens-shaped) with a capsule. <a class="yt-timestamp" data-t="05:10:00">[05:10:00]</a>
+    *   Optochin sensitive. <a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a>
+    *   Bile soluble. <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>
+*   **Culture**: On blood agar, produces Drotzman or carom coin colonies (elevated periphery, depressed center). <a class="yt-timestamp" data-t="05:41:00">[05:41:00]</a>
+*   **Capsule**: Made of capsular polysaccharide, allowing for over 90 subtypes. <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>
+    *   **Quellung Reaction**: Capsular swelling observed upon adding anti-capsular antibody, used for typing. <a class="yt-timestamp" data-t="05:48:00">[05:48:00]</a>
+*   **Diseases**: Primarily causes pneumonia. <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>
+*   **Susceptibility**: Individuals who have undergone splenectomy are more susceptible to infections by capsulated organisms like *Streptococcus pneumoniae*, *Haemophilus influenzae*, and *Neisseria meningitidis*. <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>
+
+### Streptococcus viridans
+
+*   **Characteristics**:
+    *   Alpha-hemolytic. <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>
+    *   Optochin resistant. <a class="yt-timestamp" data-t="05:27:00">[05:27:00]</a>
+    *   Bile insoluble. <a class="yt-timestamp" data-t="05:29:00">[05:29:00]</a>
+*   **Diseases**: Famous for causing endocarditis. <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>
+
+## Neisseria
+
+Gram-negative diplococci. <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>
+
+### Neisseria meningitidis
+
+*   **Natural Habitat**: Nasopharynx. <a class="yt-timestamp" data-t="01:02:17">[01:02:17]</a>
+*   **Fermentation**: Ferments both maltose and glucose. <a class="yt-timestamp" data-t="01:02:43">[01:02:43]</a>
+*   **Appearance**: Lanceolate or lens-shaped with a capsule. <a class="yt-timestamp" data-t="01:03:36">[01:03:36]</a>
+*   **Diseases**: Causes meningitis and Waterhouse-Friderichsen Syndrome (bilateral adrenal hemorrhage). <a class="yt-timestamp" data-t="01:04:22">[01:04:22]</a>
+*   **Vaccine**: Meningococcal vaccine contains serotypes A, C, Y, and W135, but not B. <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>
+
+### Neisseria gonorrhoeae
+
+*   **Natural Habitat**: Genital region. <a class="yt-timestamp" data-t="01:02:21">[01:02:21]</a>
+*   **Fermentation**: Ferments only glucose, not maltose. <a class="yt-timestamp" data-t="01:02:56">[01:02:56]</a>
+*   **Appearance**: Bean-shaped or kidney-shaped, without a capsule. <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>
+*   **Diseases**: Causes sexually transmitted infections (STIs), ophthalmia neonatorum (in neonates passing through the birth canal), and Fitz-Hugh-Curtis Syndrome (perihepatitis). <a class="yt-timestamp" data-t="01:05:07">[01:05:07]</a>
+*   **Culture Media for Both Neisseria**:
+    *   **Growth Medium**: Thayer-Martin medium. <a class="yt-timestamp" data-t="01:06:22">[01:06:22]</a> (Gonorrhea can also grow on modified New York agar). <a class="yt-timestamp" data-t="01:06:36">[01:06:36]</a>
+    *   **Transport Media**: Stuart's or Amies media. <a class="yt-timestamp" data-t="01:06:45">[01:06:45]</a>
+
+## Corynebacterium diphtheriae
+
+*   **Characteristics**:
+    *   Gram-positive bacillus (rod-shaped). <a class="yt-timestamp" data-t="01:11:51">[01:11:51]</a> It is an exception to the rule that all bacilli are Gram-negative. <a class="yt-timestamp" data-t="01:11:51">[01:11:51]</a>
+    *   Non-motile, non-spore-forming, and non-capsulated. <a class="yt-timestamp" data-t="01:12:02">[01:12:02]</a>
+    *   Also known as Löffler's bacillus. <a class="yt-timestamp" data-t="01:12:54">[01:12:54]</a>
+    *   Microscopic appearance: Chinese letter or cuneiform arrangement. <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>
+    *   Contains Volutin granules (also called bipolar, Babe's-Ernst, or metachromatic granules) at the poles. <a class="yt-timestamp" data-t="01:21:33">[01:21:33]</a> These granules are polyphosphate energy sources. <a class="yt-timestamp" data-t="01:24:59">[01:24:59]</a>
+        *   Stains for Volutin granules: Ponder's stain, Albert stain, Neisser stain. <a class="yt-timestamp" data-t="01:22:01">[01:22:01]</a>
+        *   Albert stain (Tim-Tim stain): Toluene blue makes granules purple, Malachite green stains bacteria green. <a class="yt-timestamp" data-t="01:22:27">[01:22:27]</a>
+        *   Volutin granules are also seen in *Yeast*, *Mycobacterium tuberculosis*, *Gardnerella*, and *Spirillum*. <a class="yt-timestamp" data-t="01:23:58">[01:23:58]</a>
+*   **Toxin**:
+    *   Not all *Corynebacterium diphtheriae* strains are toxigenic; only those carrying the *tox* gene produce toxin. <a class="yt-timestamp" data-t="01:16:16">[01:16:16]</a>
+    *   The *tox* gene can be transferred via bacteriophage through transduction. <a class="yt-timestamp" data-t="01:17:09">[01:17:09]</a>
+    *   The diphtheria toxin inhibits protein synthesis. <a class="yt-timestamp" data-t="01:30:16">[01:30:16]</a>
+*   **Diseases**:
+    *   Causes Diphtheria, most commonly affecting the tonsillar area. <a class="yt-timestamp" data-t="01:15:10">[01:15:10]</a>
+    *   Laryngeal diphtheria is the most dangerous form due to respiratory obstruction. <a class="yt-timestamp" data-t="01:15:58">[01:15:58]</a>
+    *   Can cause "bull's neck" due to swollen and edematous lymph nodes. <a class="yt-timestamp" data-t="01:16:46">[01:16:46]</a>
+    *   Deep invasion is not seen; it remains superficial. <a class="yt-timestamp" data-t="01:32:51">[01:32:51]</a>
+*   **Other Corynebacterium Species**:
+    *   *Corynebacterium ulcerans*: Causes ulcerations and lung involvement. <a class="yt-timestamp" data-t="01:13:18">[01:13:18]</a>
+    *   *Corynebacterium pseudotuberculosis*: Also known as Preisz-Nocard bacillus, causes infection in sheep. <a class="yt-timestamp" data-t="01:13:34">[01:13:34]</a>
+    *   *Corynebacterium minutissimum*: Causes erythrasma (a red, coral red rash on the skin). <a class="yt-timestamp" data-t="01:14:01">[01:14:01]</a>
+*   **Diagnostic Tests**: [[diagnosis_and_identification_of_bacterial_infections | Diagnosis and Identification of Bacterial Infections]] and [[clinical_applications_of_bacterial_culture_identification | Clinical Applications of Bacterial Culture Identification]]
+    *   **Elek's Gel Precipitation Test**: Detects toxigenicity by observing precipitation lines in an agar gel containing antitoxin. <a class="yt-timestamp" data-t="01:18:07">[01:18:07]</a>
+    *   **Culture Media**: [[overview_of_bacterial_culture_media | Overview of Bacterial Culture Media]]
+        *   **Enriched Media**: Löffler's Serum Slope. Provides rich nutrients for rapid growth (6-8 hours). <a class="yt-timestamp" data-t="01:26:32">[01:26:32]</a>
+        *   **Selective Media**: Potassium Tellurite Agar (PTA). Inhibits other bacteria, allowing *C. diphtheriae* to grow and produce black colonies (takes 48 hours). <a class="yt-timestamp" data-t="01:27:32">[01:27:32]</a>
+    *   **Schick Test**: A skin test done on humans to determine susceptibility or immunity to diphtheria. A positive test indicates susceptibility. <a class="yt-timestamp" data-t="01:28:28">[01:28:28]</a>

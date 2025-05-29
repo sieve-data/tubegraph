@@ -1,85 +1,62 @@
 ---
 title: FMGE exam preparation tips
-videoId: ROoykcU7cHw
+videoId: vrq1aLYm-Nw
 ---
 
 From: [[_drpreetisharma]] <br/> 
 
-This article provides essential tips and strategies for the [[FMGE exam preparation strategies | FMGE exam]], focusing on last-minute preparations, exam day logistics, and maintaining a positive mindset.
+The final 10 days before the [[FMGE January 2024 Exam Strategy | FMGE January 2024 Exam]] are crucial and can "make or break" a student's performance <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>. This period requires a focused approach on specific "Dos and Don'ts" <a class="yt-timestamp" data-t="02:02:00">[02:02:00]</a>.
 
-## Last-Minute Study and Mindset
-The final hours before the exam are not for academic teaching but for mental preparation and ensuring readiness <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. Panic, increased heart rate, and palpitations are normal at this point <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+## Do's
 
-### Evening Before the Exam
-*   **Wrap-up Study:** Continue revising what you are currently studying <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
-*   **Stop Early:** Aim to wrap up your studies by 7:00 or 7:30 PM <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
-*   **Relax and Sleep:** Settle yourself down, ease your mind, and get a good night's sleep <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+### Subject Management & Study Strategy
+*   **Cover all subjects:** Do not leave any of the 19 subjects untouched <a class="yt-timestamp" data-t="03:01:00">[03:01:00]</a>, <a class="yt-timestamp" data-t="03:32:00">[03:32:00]</a>, <a class="yt-timestamp" data-t="03:35:00">[03:35:00]</a>, <a class="yt-timestamp" data-t="31:05:00">[31:05:00]</a>. Aim to know "little by little" about every subject, enough to answer at least 50% of questions from it <a class="yt-timestamp" data-t="03:27:00">[03:27:00]</a>.
+*   **Address leftover subjects:** For subjects you haven't studied, watch 3-hour LRR (Last Minute Revision) sessions or crash courses from any platform, focusing on being able to solve about 50% of questions <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>.
+*   **Focus on previous year topics and LRR:**
+    *   For short subjects (Psychiatry, Radiology, Orthopedics, Anesthesia, Forensic Medicine, Dermatology, ENT, Ophthalmology), dedicate about two and a half days to LRR sessions and all previous year questions (PYQs) <a class="yt-timestamp" data-t="10:57:00">[10:57:00]</a>, <a class="yt-timestamp" data-t="11:43:00">[11:43:00]</a>.
+    *   For "giant" volatile subjects (Anatomy, Biochemistry, Microbiology, Pharmacology, PSM), focus on LRR videos and previous year topics <a class="yt-timestamp" data-t="12:07:00">[12:07:00]</a>, <a class="yt-timestamp" data-t="12:59:00">[12:59:00]</a>.
+    *   For clinical subjects (Medicine, Pathology, Physiology), use PYQs and LRR videos <a class="yt-timestamp" data-t="13:17:00">[13:17:00]</a>.
+*   **"Scanning machine" approach:** Review everything you've already read by quickly scanning through it <a class="yt-timestamp" data-t="14:25:00">[14:25:00]</a>.
+*   **Pharma/Micro strategy:** These subjects are volatile <a class="yt-timestamp" data-t="28:22:00">[28:22:00]</a>. Approach them with the mindset that you only need to manage and pass them for now, focusing on LRR and PYQs, without expecting to memorize everything <a class="yt-timestamp" data-t="28:22:00">[28:22:00]</a>, <a class="yt-timestamp" data-t="29:55:00">[29:55:00]</a>.
+*   **Prioritize PYQs:** Complete FMG's last five years' PYQs <a class="yt-timestamp" data-t="26:18:00">[26:18:00]</a>. If time permits, review three years of NEET PG recall sessions (2020, 2021, 2022) <a class="yt-timestamp" data-t="26:31:00">[26:31:00]</a>. If even more time, review the recent IAI CET exam paper <a class="yt-timestamp" data-t="27:17:00">[27:17:00]</a>. If you can't solve them yourself, listen to YouTube recall sessions at 1.5x or 2x speed <a class="yt-timestamp" data-t="27:51:00">[27:51:00]</a>.
+*   **Focus on previous year *topics*:** Don't just memorize PYQ answers; understand the underlying topics. For example, if "Apoptosis" is a previous year topic, solve all related MCQs from your Q bank <a class="yt-timestamp" data-t="22:29:00">[22:29:00]</a>.
 
-### Last-Minute Study Content (if studying until 7:30-8 PM)
-If you are still studying, consider these options:
-*   **Volatile List:** Read your own personal list of volatile topics <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
-*   **Image Scanning:** If you don't have a list, scan through images from subjects like Pathology, Microbiology, Orthopedics, and Radiology, as they often feature classical spotter images <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>. These can be particularly helpful in the exam <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
-*   **Avoid New Topics:** Do not attempt to study new or extensive subjects like Medicine hours before the exam, as they cannot be finished <a class="yt-timestamp" data-t="00:20:55">[00:20:55]</a>.
+### Time Management & Daily Routine
+*   **Normalize sleep cycle:** Since the exam is during the day, adjust your sleep to be alert in the morning hours <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>. Get a minimum of 6 hours of sleep <a class="yt-timestamp" data-t="19:14:00">[19:14:00]</a>.
+*   **Daily schedule division:** Divide your day into four slots <a class="yt-timestamp" data-t="14:44:00">[14:44:00]</a>:
+    1.  **Study (Theory & MCQs):** This takes up most of your day <a class="yt-timestamp" data-t="16:42:00">[16:42:00]</a>. Aim for minimum 12-14 hours of productive study <a class="yt-timestamp" data-t="18:31:00">[18:31:00]</a>. Allocate 60% of study time to MCQs and 40% to theory (from LRR PDFs) <a class="yt-timestamp" data-t="20:10:00">[20:10:00]</a>.
+    2.  **Images:** Dedicate one hour daily to images. Quickly scan images from subjects you studied that day before sleeping <a class="yt-timestamp" data-t="16:03:00">[16:03:00]</a>.
+    3.  **Sanity break:** Allocate 30 minutes for an outdoor activity, a light walk, or anything away from books (even social media, but be disciplined) to avoid mental exhaustion <a class="yt-timestamp" data-t="15:07:00">[15:07:00]</a>.
+*   **MCQ Quantity:** Aim to solve a minimum of 150+ MCQs daily <a class="yt-timestamp" data-t="21:12:00">[21:12:00]</a>, ideally trying to cross 200 <a class="yt-timestamp" data-t="34:44:00">[34:44:00]</a>. If you're doing 100 today, aim for 120 tomorrow, gradually increasing by 10-15 questions daily <a class="yt-timestamp" data-t="34:55:00">[34:55:00]</a>.
 
-## Exam Day Logistics
-Ensure all necessary preparations are made to avoid stress on the day of the exam.
+### Grand Tests & MCQs
+*   **Grand Test (GT) Purpose:** If giving a GT, focus on [[Time management and study techniques for FMGE | time management]] (can you finish 300 questions in the given time?) and identifying silly mistakes <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>, <a class="yt-timestamp" data-t="06:25:00">[06:25:00]</a>. Do *not* focus on the score <a class="yt-timestamp" data-t="05:21:00">[05:21:00]</a>, <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>, <a class="yt-timestamp" data-t="08:36:00">[08:36:00]</a>.
+*   **Reviewing MCQs:**
+    *   If an MCQ is correct, do not read the explanation <a class="yt-timestamp" data-t="07:16:00">[07:16:00]</a>.
+    *   If an MCQ is wrong, superficially read the explanation to understand if it was a silly mistake or a knowledge gap. If a knowledge gap, quickly read 5-10 lines on that topic <a class="yt-timestamp" data-t="07:29:00">[07:29:00]</a>.
+*   **Analyze GT performance:** If scores are low (e.g., 130-150), quickly analyze if mistakes are due to silly errors (practice more MCQs) or knowledge problems (re-read LRR notes) <a class="yt-timestamp" data-t="42:53:00">[42:53:00]</a>.
+*   **Practice sustained focus:** Train yourself to sit for 3 to 3.5 hours straight without breaks or distractions, mimicking exam conditions. This helps with alertness and attention span <a class="yt-timestamp" data-t="53:05:00">[53:05:00]</a>.
 
-### Pre-Exam Checklist
-*   **Admit Card:** Ensure your admit card is ready <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
-*   **Valid ID Proof:** Have a valid ID proof where the name matches the name on your admit card without any spelling mistakes <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
-*   **Photograph:** Be aware that you do not need to paste a photograph on the admit card, as per email instructions <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
-*   **Accessibility:** Keep your ID and admit card in a well-accessible place to prevent them from getting lost in the morning <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
-*   **Exam Centre Location:** Know the exact location of your exam centre <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+### Mental State & Anxiety Management
+*   **Positivity:** Surround yourself with positive people (parents, siblings, good friends, teachers) who give positive vibes. Avoid those who boast about scores or spread illogical rumors about exam difficulty/pattern changes <a class="yt-timestamp" data-t="09:14:00">[09:14:00]</a>.
+*   **Avoid negative thoughts:** One negative thought can lead to one incorrect MCQ <a class="yt-timestamp" data-t="24:39:00">[24:39:00]</a>. Block unnecessary thoughts about exam day logistics (alarm, reaching center, computer issues) <a class="yt-timestamp" data-t="24:53:00">[24:53:00]</a>.
+*   **Combat forgetting:** It's normal to forget; no one can memorize all 19 subjects <a class="yt-timestamp" data-t="23:38:00">[23:38:00]</a>. If you forget something, quickly pick it up and revise it <a class="yt-timestamp" data-t="24:07:00">[24:07:00]</a>.
+*   **Mindset is key:** Competitive exams are a mixture of knowledge and mindset. How you approach the exam, your mental stability in the last 10 days, and avoiding negativity are crucial <a class="yt-timestamp" data-t="24:14:00">[24:14:00]</a>.
+*   **"Survival mode":** Do not think about whether you enjoy studying a subject. The goal is to survive and pass the exam <a class="yt-timestamp" data-t="30:29:00">[30:29:00]</a>.
+*   **Daily targets:** Focus on completing daily targets. If you finish in 8 hours instead of 12, that's an advantage, not a reason for FOMO <a class="yt-timestamp" data-t="32:02:00">[32:02:00]</a>.
 
-### Reaching the Exam Centre
-*   **Timely Arrival:** Entry for Paper 1 starts at 7:00 AM and closes at 8:30 AM <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. Arrive well in advance to allow time for your heart rate to normalize <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
-*   **Paper 2 Entry:** You will already be at the centre for Paper 2, so being late is not a concern <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+## Don'ts
 
-## During the Exam Strategy
-Effective strategies during the exam can significantly impact performance.
+*   **Don't start anything new:** Avoid studying entirely new topics in subjects you have already covered <a class="yt-timestamp" data-t="03:04:00">[03:04:00]</a>, <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>.
+*   **Don't take Grand Tests if it causes panic:** If a low score will cause severe anxiety and hinder studying, it might be better not to take GTs in the last 9 days <a class="yt-timestamp" data-t="05:21:00">[05:21:00]</a>.
+*   **Don't get fixated on new GT questions:** Every GT will have 20-30 "bouncer" questions you haven't seen. Don't let these dictate your preparation or confidence; your pass/fail depends on known topics and avoiding silly mistakes <a class="yt-timestamp" data-t="08:01:00">[08:01:00]</a>, <a class="yt-timestamp" data-t="42:08:00">[42:08:00]</a>.
+*   **Avoid self-medication:** Do not take medications to stay awake or alter your routine right before the exam, as you don't know the side effects <a class="yt-timestamp" data-t="19:37:00">[19:37:00]</a>.
+*   **Don't rely solely on memorized PYQs:** PYQs are no longer copied and pasted. Focus on understanding the previous year *topics* instead of just memorizing answers <a class="yt-timestamp" data-t="22:25:00">[22:25:00]</a>.
+*   **Avoid Pomodoro technique:** In the last days, transition from short study bursts to longer, sustained study periods (3-3.5 hours) to build stamina for the actual exam <a class="yt-timestamp" data-t="53:05:00">[53:05:00]</a>.
+*   **Don't overthink the future:** Focus only on what you need to do in the next three hours, working in "boxes" without worrying about your condition after 5 days or on exam day <a class="yt-timestamp" data-t="54:18:00">[54:18:00]</a>.
 
-### Between Papers
-*   **Avoid Discussion:** Do not chat or message anyone between Paper 1 and Paper 2 <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
-*   **No Recalls:** Absolutely avoid discussing Paper 1 questions or checking recall sessions in between papers <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. Knowing you answered something incorrectly can negatively impact your mindset for the second paper <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. Recall sessions can be done the next day <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
-*   **Nutrition:** Focus on eating or drinking something light that provides energy for Paper 2 <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>.
+## Exam Day Strategy
+*   **Expect varied paper difficulty:** One paper (Paper 1 or Paper 2) will likely be tough, and the other will be easier. Don't get demotivated by a tough Paper 1 <a class="yt-timestamp" data-t="39:48:00">[39:48:00]</a>.
+*   **Disconnect during break:** After Paper 1, do not discuss it. Forget it like a bad dream and focus entirely on Paper 2 to avoid carrying over negative thoughts <a class="yt-timestamp" data-t="40:19:00">[40:19:00]</a>. Your overall passing score of 150 will be a combination of both papers <a class="yt-timestamp" data-t="41:27:00">[41:27:00]</a>.
 
-### Managing Exam Difficulty
-*   **Balanced Papers:** Typically, one paper will be a little easier, and the other will be a little more difficult <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>. Don't be discouraged if Paper 1 feels tough; Paper 2 might be easier, allowing you to balance your score <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
-*   **"Switch On/Switch Off" Mode:** For all 300 questions, focus only on the current question. Once done, "switch off" from it and move to the next. Do not dwell on previous questions or worry about future ones <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. This "on/off" method should be applied for each question within approximately 50 seconds <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>.
-*   **No Negative Marking:** Since there's no negative marking, you should attempt all questions, whether the paper is easy or tough <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>.
-
-### Handling "Bouncer" Questions
-*   **Expect Tough Questions:** Expect 10-20 "bouncer" questions per paper <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>. These are designed to screen and might be so obscure that even experts struggle with them <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
-*   **Do Not Dwell:** Do not focus on these difficult questions. They are not meant for everyone to solve, and even toppers don't get full marks <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
-*   **Maintain Motivation:** These "bouncers" can lower your motivation <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. If you encounter a series of tough questions, take a deep breath, pick an option, and move on <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>.
-*   **Focus on the Core:** Concentrate on the other questions where you can avoid silly mistakes, as these are more important for your score <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
-
-### General [[MCQ examination tips | MCQ Examination Tips]]
-*   **Read Carefully:** Even if a question seems familiar or from a recently studied topic, spend time reading the entire question and all options (approx. 20 seconds) <a class="yt-timestamp" data-t="00:18:36">[00:18:36]</a>. Avoid the regret of missing a crucial twist in the question <a class="yt-timestamp" data-t="00:18:47">[00:18:47]</a>.
-*   **Time Management:** Some questions will be one-liners and quick, while others will be lengthy <a class="yt-timestamp" data-t="00:19:28">[00:19:28]</a>. Don't worry if a lengthy question takes more than 50 seconds; the overall paper is balanced <a class="yt-timestamp" data-t="00:19:36">[00:19:36]</a>.
-*   **Initial Lag is Normal:** It's normal to have a slight lag in speed during the first 10-15 minutes (2-4 questions less) as you settle into the exam <a class="yt-timestamp" data-t="00:19:56">[00:19:56]</a>. This pace will pick up later and be covered <a class="yt-timestamp" data-t="00:20:20">[00:20:20]</a>.
-*   **First Gut Feeling:** Your first gut feeling for an answer is often correct, especially when you are not under pressure <a class="yt-timestamp" data-t="00:10:58">[00:10:58]</a>. Do not overthink or second-guess your answers, particularly in the last minutes, as this can lead to changing correct answers <a class="yt-timestamp" data-t="00:16:53">[00:16:53]</a>.
-*   **Rule Out Options:** If you cannot directly identify the correct answer, try to rule out incorrect options to arrive at the solution <a class="yt-timestamp" data-t="00:19:17">[00:19:17]</a>.
-*   **Silly Mistakes:** Some silly mistakes are human error and unavoidable <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>. Don't let panic or anxiety amplify them <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>. Even highly confident students should avoid silly mistakes due to overconfidence <a class="yt-timestamp" data-t="00:17:28">[00:17:28]</a>.
-
-## Mental Preparation and Confidence
-A positive and sane mindset is crucial for success.
-
-### Cultivating a Positive Mindset
-*   **Avoid Negativity:** Do not entertain negative thoughts about the exam or your preparation <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
-*   **Manifest Positivity:** Repeatedly tell yourself, "Paper is going to be easy, I don't have to do my silly mistakes" <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
-*   **Count Your Blessings:** Focus on your hard work, rapid revisions, notes, LRR, images, and previous year's questions <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>.
-*   **Believe in Yourself:** Have faith in your hard work and the support of your parents and teachers <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. Go into the exam with the mindset that "tomorrow is my day" <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>.
-*   **Combat Self-Doubt:** Reject thoughts of self-doubt, poor preparation, or bad memory <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. Believe in your abilities, as demonstrated by your successful answers in previous sessions <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>.
-
-### Maintaining Sanity
-*   **Passing Score:** The bare minimum target is to cross 150 marks <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>. Sanity is the most important factor in achieving this <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>.
-*   **Promise Positivity:** Promise yourself to think only positively until the end of the exam (around 4:30-5:00 PM tomorrow) <a class="yt-timestamp" data-t="00:09:53">[00:09:53]</a>.
-*   **Confidence vs. Overconfidence:** Be super confident until you reach the exam hall <a class="yt-timestamp" data-t="00:18:54">[00:18:54]</a>. Once you sit down, maintain a sane and practical approach, reading every question and option carefully <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>.
-
-### External Perceptions
-*   **Ignore Judgment:** Do not worry about what others (friends, colleagues, strangers) might say if you don't clear the exam <a class="yt-timestamp" data-t="00:14:06">[00:14:06]</a>.
-*   **Focus on True Supporters:** Your teachers and parents know your hard work and will stand by you regardless of the outcome <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>.
-*   **Broader Perspective:** Remember that there is more to life than just one exam <a class="yt-timestamp" data-t="00:14:43">[00:14:43]</a>. This exam is a small challenge, a formality, compared to the challenges of saving lives as a doctor <a class="yt-timestamp" data-t="00:22:23">[00:22:23]</a>.
-
-This exam is just a legal process to get a final doctor's name in front of yours; it does not define your actual worth <a class="yt-timestamp" data-t="00:23:38">[00:23:38]</a>.
+Students performing well (170-190+ in GTs) should stick to their current strategies, as they are clearly working <a class="yt-timestamp" data-t="37:11:00">[37:11:00]</a>, <a class="yt-timestamp" data-t="46:54:00">[46:54:00]</a>.

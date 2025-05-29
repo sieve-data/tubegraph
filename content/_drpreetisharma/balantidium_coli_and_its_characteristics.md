@@ -1,35 +1,31 @@
 ---
-title: Balantidium Coli and Its Characteristics
+title: Balantidium coli and its characteristics
 videoId: 9JbUwFLakPM
 ---
 
 From: [[_drpreetisharma]] <br/> 
 
-[[Balantidium coli]] is a ciliated protozoan that is often considered the most likely causative organism when a ciliated protozoa is observed in stool examination from a patient presenting with bloody loose motions, fever, abdominal pain, and a history of travel <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>, <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>, <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. The name "coli" can be associated with "cili" due to its ciliated nature <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>, <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>.
+*Balantidium coli* is a parasitic protozoan that causes balantidiasis, an infection characterized by intestinal symptoms. It is often considered when a ciliated protozoa is identified in a stool examination [00:09:09].
 
 ## Key Characteristics
 
-[[Balantidium coli]] exhibits several "big" characteristics:
-*   **Size**
-    *   It is the largest protozoa known <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>, <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>.
-*   **Location of Infection**
-    *   It primarily affects the large intestine, where it causes diarrhea <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>, <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>, <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>.
-*   **Motility**
-    *   As a ciliated parasite, it exhibits rotatory motility <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>, <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>.
+*   **Classification**: *Balantidium coli* is a ciliated protozoa [00:09:09].
+*   **Size**: It is described as one of the largest protozoa [00:09:45].
+*   **Location**: It typically infects the large intestine [00:09:52].
+*   **Motility**: Being a ciliated parasite, it exhibits rotatory motility [00:10:03].
+*   **Forms**: Like many other parasites, it exists in two forms: a trophozoite and a cyst [00:10:04].
+*   **Infective Stage**: The cyst is the infective stage [00:10:07].
+*   **Nuclei**: Both the trophozoite and the cyst forms are binucleated [00:10:27], meaning they have two nuclei [00:10:32].
+    *   One nucleus is large and bean-shaped [00:10:37].
+    *   The other is small and dot-like [00:10:39].
 
-## Life Cycle Forms
+> [!INFO] Mnemonic for *Balantidium coli* characteristics:
+> "Coli" can be remembered as "celi" (for ciliated) [00:09:16]. "B" for *Balantidium* can be associated with "Big" characteristics, such as being the largest [[characteristics_and_identification_of_protozoa | protozoa]], going to the big (large) intestine, and being binucleated with a big, bean-shaped nucleus [00:09:39], [00:10:41].
 
-Like most parasites, [[Balantidium coli]] has two main forms:
-1.  **Trophozoite** <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>
-2.  **Cyst** <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>
+## Clinical Presentation
 
-### Nuclei Characteristics
-Both the trophozoite and cyst forms of [[Balantidium coli]] are binucleated <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>, <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>, <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>.
-*   **Big Nucleus**: This nucleus is characteristically bean-shaped <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>, <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
-*   **Small Nucleus**: This nucleus appears like a dot <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>.
-
-### Infective Stage
-The infective stage of [[Balantidium coli]] for humans is the cyst <a class="yt-timestamp" data-t="00:09:08">[00:09:08]</a>, <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>.
+Patients infected with *Balantidium coli* often present with bloody loose motions, fever, and abdominal pain [00:07:51]. This can lead to diarrhea [00:09:57].
 
 ## Treatment
-The drug of choice for diarrhea caused by [[Balantidium coli]] is Doxycycline <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>, <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>.
+
+The drug of choice for treating diarrhea caused by *Balantidium coli* is Doxycycline [00:10:17].
