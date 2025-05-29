@@ -1,0 +1,29 @@
+---
+title: Online cam model addiction
+videoId: 4iluOmq1DYY
+---
+
+From: [[jcs]] <br/> 
+
+In mid-2018, 29-year-old Grant, who was unemployed and living in his parents' guest house in Chuliota, Florida, began experimenting with online cam sites <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. These platforms are interactive, allowing users to solicit live performances from models in exchange for money <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+
+## Grant's Financial Ruin and Addiction
+Using his brother's credit card, Grant started browsing cam models, spending an average of 20 minutes on each <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. On June 5th, he came into contact with a performer known as Sylvie <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>. Over the next six months, Grant would spend over $200,000 of his family's money on this one model <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. This sum consumed his father's entire life savings, accumulated over 30 years as a pharmacist <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. He also spent $60,000 from his brother's credit card and took out a $65,000 loan on the house <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
+
+During his interrogation, Grant described a cam model as a "virtual girlfriend" <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>. He stated he would pay for "time online" with Sylvie, spending four hours a night <a class="yt-timestamp" data-t="00:15:36">[00:15:36]</a>, <a class="yt-timestamp" data-t="00:15:48">[00:15:48]</a>. He lied to his family, claiming the money was going towards advertising for his Twitch streaming endeavors <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>. He admitted to feeling an emotional connection to Sylvie and found it difficult to stop communicating with her "cold turkey" <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>, <a class="yt-timestamp" data-t="00:49:30">[00:49:30]</a>.
+
+## Family Intervention and Its Aftermath
+When Grant's family discovered the extent of his spending, they sent him to a [[mental_health_and_rehabilitation | behavioral rehabilitation facility]] for [[the_struggle_of_addiction | online porn addiction]] instead of calling the police <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>, <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. During his stay from December 22nd to January 4th, therapists and psychiatrists analyzed his situation, diagnosing it as an "isolated event" rather than an addiction, attributing his issues to being out of work and experiencing PTSD from a previous arrest <a class="yt-timestamp" data-t="00:17:27">[00:17:27]</a>, <a class="yt-timestamp" data-t="00:18:04">[00:18:04]</a>. The cost of this treatment, $15,000, was paid for by his brother Cody <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>, <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>.
+
+Upon his return from rehab on January 4th, Grant's father presented him with a two-page list of rules, including ceasing all communication with Sylvie <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>, <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. However, within three weeks, the family discovered he had broken the contract and re-established contact with Sylvie via Twitter <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>, <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>.
+
+On January 24th, Grant's father, Chad Amato, confronted him, leading to a heated argument that almost became physical <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. Grant was then kicked out of the house <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+
+## Consequences of Addiction
+The following morning, January 25th, police were called to the Amato residence where Chad, Margaret (his mother), and Cody were found dead with gunshot wounds to the head <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>, <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. Grant became the immediate prime suspect <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+
+Forensics later revealed that Grant had shot his mother in the back of the head while she was on the computer <a class="yt-timestamp" data-t="00:21:34">[00:21:34]</a>, <a class="yt-timestamp" data-t="00:21:38">[00:21:38]</a>. He then waited for his father to return and shot him twice in the head as he entered the kitchen <a class="yt-timestamp" data-t="00:21:39">[00:21:39]</a>. Cody received a text from his father's number asking him to come home urgently and was found with a gunshot wound to the face <a class="yt-timestamp" data-t="00:21:45">[00:21:45]</a>, <a class="yt-timestamp" data-t="00:21:54">[00:21:54]</a>.
+
+After the murders, Grant used his dead brother's credit card to make a $600 purchase on a cam site approximately 30 minutes later <a class="yt-timestamp" data-t="00:21:58">[00:21:58]</a>, <a class="yt-timestamp" data-t="00:22:00">[00:22:00]</a>. He was later found using free Wi-Fi at a Publix supermarket parking lot to access the cam site <a class="yt-timestamp" data-t="00:22:29">[00:22:29]</a>.
+
+During his trial, the prosecution emphasized Grant's "blind obsession" with Sylvie as the motive for the murders, highlighting the [[financial_consequences_of_addiction | financial cost]] and his contempt for those he held responsible for his problems <a class="yt-timestamp" data-t="00:52:28">[00:52:28]</a>. Grant Amato was sentenced to life in prison without the possibility of parole <a class="yt-timestamp" data-t="00:52:55">[00:52:55]</a>.
