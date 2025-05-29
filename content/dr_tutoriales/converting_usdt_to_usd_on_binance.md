@@ -5,65 +5,73 @@ videoId: -TscNxov28s
 
 From: [[dr_tutoriales]] <br/> 
 
-This tutorial explains how to convert USDT (Tether) into fiat currency (USD) on Binance, offering two primary methods to achieve this conversion <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+This tutorial outlines two methods for converting USDT (Tether) into USD (fiat currency), specifically addressing how to perform this operation on Binance and via an alternative platform, Kraken <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>.
 
-## Method 1: Using Binance P2P Trading
+## Binance Account Discount
 
-The P2P (Peer-to-Person) trading section on Binance allows for the [[converting_cryptocurrency_to_fiat_currency_on_binance | exchange of cryptocurrencies]] through various systems directly between users <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+Before proceeding, new users can create a Binance account using a recommended link to receive a 10% discount on commissions for operations, transactions, withdrawals, or capital deposits <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. This discount can lead to significant savings over time <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
 
-### Why P2P is Necessary for USDT to USD Conversion
-Direct exchange of USDT to USD is typically not found in the advanced trading markets on Binance <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. For example, searching for USDT/USD in the trading section will not yield results <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+## Method 1: Converting USDT to USD via Binance P2P
 
-### Steps to Convert USDT to USD via P2P
-1.  **Navigate to P2P Trading**: From the Binance interface, go to the "trading" section and select "p2p" <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
-2.  **Select 'Sell' and Currency**: Choose the "Sell" option for USDT. Then, select "USD" as the fiat currency you wish to receive <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. You can also select other cryptocurrencies like BTC, BUSD, or BNB if needed <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
-3.  **Filter and Review Offers**:
-    *   You will see available offers from advertisers <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
-    *   Note that some advertisers might offer slightly more than the 1:1 ratio for USDT to USD, implying a small fee <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
-    *   **Payment Method**: You can filter offers by desired payment method, including bank transfer, PayPal, or others <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
-    *   **Advertiser History**: Review the advertiser's history, including the number of orders placed and their completion percentage <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. A high completion percentage (e.g., above 95%) indicates reliability <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
-    *   **Limits and Availability**: Check the transaction limits (minimum/maximum dollars accepted) and the amount of USDT the advertiser has available <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
-4.  **Initiate Sale**:
-    *   Once you've chosen an advertiser, click "Sell USDT" <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>.
-    *   Specify the amount of USDT you want to sell. The system will show how much USD you will receive after commissions <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>.
-    *   Ensure your payment method is attached to your Binance account <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. You can add or verify payment methods in your profile <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>.
+Direct exchange of USDT to USD is not found in the standard markets and trading sections of Binance <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. Therefore, the Peer-to-Peer (P2P) method is utilized <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
 
-## Method 2: Using the Kraken Platform
+### Understanding P2P Trading
 
-If the Binance P2P method does not suit your needs, or if you prefer a direct exchange not offered by Binance's advanced trading, the Kraken platform provides a direct exchange for USDT to USD <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
+P2P, or person-to-person, is an exchange system for cryptocurrencies through various payment systems <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. On Binance P2P, you can [[how_to_exchange_cryptocurrencies_on_binance | exchange USDT with USD]] <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>.
 
-### Why Use Kraken?
-Kraken offers a direct USDT to USD pairing, which Binance's standard trading platform doesn't <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. Using Kraken Pro is recommended for potentially lower fees <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>.
+### Steps to Sell USDT for USD on Binance P2P
 
-### Steps to Convert USDT to USD on Kraken
-1.  **Access Kraken Pro**: Navigate to Kraken Pro (or the standard Kraken platform) <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
-2.  **Search for USDT/USD Pair**: In the exchange section, search for "USDT" and locate the USDT/USD pair <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>.
+1.  **Navigate to P2P Trading**: From the Binance interface, go to "Trading" and select "P2P" <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+2.  **Select "Sell"**: Instead of buying, you will be selling USDT <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
+3.  **Choose Cryptocurrency and Fiat Currency**: Select USDT as the cryptocurrency you wish to sell <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. Then, filter the fiat currency to USD <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. You can choose from various fiat currencies like Japanese Yuan or Chinese Yuan <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>.
+4.  **Review Advertisers**:
+    *   **Price**: Observe the USDT price offered by advertisers. While USDT typically has a 1:1 relationship with USD, some advertisers might charge a small fee per transaction <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>.
+    *   **Payment Method**: You can filter by desired payment methods, including PayPal, bank transfer, and others <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+    *   **Advertiser History**: It is highly recommended to trade with users who have a high percentage of completed orders (e.g., above 95%) and a significant number of past orders. This indicates reliability <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+    *   **Limits and Availability**: Check the advertiser's transaction limits (minimum/maximum dollar amount) and their available USDT balance <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
+5.  **Initiate Sale**:
+    *   Click "Sell USDT" for the chosen advertiser <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>.
+    *   Enter the amount of USDT you wish to sell. The system will display the corresponding USD amount you will receive, including any commissions charged by the advertiser (e.g., PayPal shipping commission) <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
+    *   Ensure your payment method is attached to your Binance account <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. You can add or verify payment methods in your account settings <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>.
+    *   Review and confirm the sale <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
+
+This method allows you to [[converting_cryptocurrency_to_fiat_currency_on_binance | convert your USDT to USD]] directly through Binance's P2P platform <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+
+## Method 2: Converting USDT to USD via Kraken
+
+Since Binance's advanced trading section doesn't offer a direct USDT to USD exchange <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>, an alternative platform like Kraken can be used <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>. There is also a tutorial available on how Kraken works <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a> and a discount link for creating a Kraken account <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>.
+
+### Steps to Convert on Kraken
+
+1.  **Access Kraken Pro**: For cheaper operations, use Kraken Pro <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>.
+2.  **Search for USDT/USD Pair**: In the exchanges section, search for "USDT" and locate the USDT/USD pair <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>.
 3.  **Place a Sell Order**:
-    *   Select "Sell" and choose a "Market Order" for real-time execution <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.
-    *   Enter the amount of USDT you wish to sell <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>.
-    *   Review the total price and confirm the sale <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
+    *   Connect to start operating <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
+    *   Select a "Sell" action <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.
+    *   Choose a "Market Order" for real-time execution <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.
+    *   Enter the amount of USDT you wish to sell <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+    *   Review and confirm the sale <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
 
 ### Transferring USDT from Binance to Kraken
-To use Kraken, you'll first need to transfer your USDT from Binance to your Kraken account.
 
-1.  **Generate USDT Deposit Address on Kraken**:
-    *   On Kraken, go to the "Funds" section and click "show all assets" to display all cryptocurrencies <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
-    *   Search for "USDT" (it's usually listed under 'U' in alphabetical order) <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
-    *   Select the "Deposit" option for USDT <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
-    *   Choose the deposit method (blockchain network), typically ERC-20 (Ethereum network) <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
-    *   Review the minimum deposit amount (e.g., 1 USDT) and acknowledge that Kraken is not responsible for funds sent to an incorrect address <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
-    *   Generate a new deposit address and copy it <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. A QR code option is also available if you're using a mobile device <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>.
+To convert USDT on Kraken, you first need to [[how_to_transfer_cryptocurrencies_on_binance | transfer your USDT from Binance to Kraken]] <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
 
-2.  **Withdraw USDT from Binance**:
-    *   On Binance, go to your "Spot Wallet" <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>.
-    *   Click "Withdraw" <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
-    *   Select "USDT" as the coin to withdraw <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>.
-    *   Paste the copied Kraken USDT deposit address into the "New Address" field <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>.
-    *   Select the correct network, which should match the one chosen on Kraken (e.g., ERC-20) <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. Be aware of network fees (e.g., 10 USDT for ERC-20) <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>.
-    *   Enter the amount to withdraw. Note that fees are fixed, so withdrawing larger amounts makes the transaction more profitable <a class="yt-timestamp" data-t="00:09:33">[00:09:33]</a>. For example, withdrawing 20 USDT with a 10 USDT fee means half your amount is lost to fees <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
-    *   **Recommendation**: For large transfers, it's advised to first send a small test amount to ensure the process works correctly before sending the full amount <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>. This prevents loss of funds due to incorrect addresses, as mistaken transfers are unrecoverable <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>.
+1.  **Obtain Kraken Deposit Address**:
+    *   On Kraken, go to the "Funds" section <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
+    *   Click "Show all assets" to view all cryptocurrencies <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
+    *   Find USDT and select the "Deposit" option <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
+    *   Choose the deposit method/blockchain network (e.g., ERC-20, which is recommended) <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>.
+    *   Note the minimum deposit amount (e.g., 1 USDT) <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
+    *   Generate a new deposit address or QR code <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. Copy this address <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>.
+    *   **Important**: Kraken is not responsible for funds sent to incorrect addresses. Always double-check the address to avoid losing your capital <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>.
+2.  **Initiate Withdrawal from Binance**:
+    *   On Binance, navigate to "Wallet" and then "Spot" <a class="yt-timestamp" data-t="00:08:53">[00:08:53]</a>.
+    *   Select "Withdraw" <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+    *   Choose USDT as the coin to withdraw <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>.
+    *   Paste the Kraken deposit address into the "New Address" field <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>.
+    *   Select the same network you chose on Kraken (e.g., ERC-20) <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>.
+    *   Be aware of network commissions (e.g., 10 USDT for ERC-20) <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. For small amounts, consider if the commission is cost-effective <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+    *   Enter the withdrawal amount. It's recommended to test with a small amount first to ensure the process works correctly before transferring larger sums <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>.
+    *   Confirm the withdrawal.
 
-### Important Considerations
-*   When creating a Binance account, consider using a recommended link to get a 10% discount on commissions for transactions, withdrawals, and deposits <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
-*   Similarly, if you decide to use Kraken, a recommended link for account creation might offer similar commission discounts <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>.
-*   Explore Binance's investment products to generate interest on your cryptocurrencies <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+This process enables [[using_kraken_for_usdt_to_usd_conversion | using Kraken for USDT to USD conversion]] if the P2P method on Binance isn't preferred or available for your specific needs <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.

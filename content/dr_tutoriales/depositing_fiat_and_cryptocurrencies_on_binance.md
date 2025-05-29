@@ -5,45 +5,33 @@ videoId: C0NSUy9gt40
 
 From: [[dr_tutoriales]] <br/> 
 
-This guide explains how to transfer or deposit cryptocurrencies and fiat currencies into your Binance account from external sources. The process involves distinguishing between internal transfers (within Binance wallets) and external transfers (to or from Binance from another platform/wallet) <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>. This article focuses on external deposits to your Binance account.
+Binance allows users to [[how_to_deposit_money_into_binance | deposit]] both fiat currency and cryptocurrencies into their accounts <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. This process is considered an "external transfer," meaning money is moved from an outside source into the Binance platform <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>.
 
-## Overview of Deposits
+It's possible to create a Binance account with a 10% discount on commissions for deposits, operations, transactions, or withdrawals <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
 
-To deposit funds into your Binance account, navigate to the 'Wallet' section and select 'Overview' <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>. Here, you will find options for 'Deposit,' 'Withdraw,' or 'Transfer' <a class="yt-timestamp" data-t="04:06:00">[04:06:00]</a>. The 'Transfer' option is for moving assets between your internal Binance wallets (e.g., from your Spot Wallet to your P2P account) <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>. For bringing funds *into* Binance from outside, you'll use the 'Deposit' function <a class="yt-timestamp" data-t="04:22:00">[04:22:00]</a>.
+## Accessing Deposit Options
 
-Binance allows you to [[understanding_deposit_methods_for_fiat_and_cryptocurrency_in_binance | deposit both fiat and cryptocurrencies]] <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>. The methods for depositing these differ based on the asset type <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>.
+To initiate a deposit, navigate to the "overview" section within the "wallet" part of the Binance platform <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>, where you will find the "deposit" option <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.
 
 ## Depositing Fiat Currency
 
-Fiat currency refers to traditional government-issued money like Euros, US Dollars, or British Pounds <a class="yt-timestamp" data-t="04:31:00">[04:31:00]</a>.
+When choosing to deposit fiat currency, such as Euros, Dollars, or Pounds Sterling <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>, various [[fiat_and_cryptocurrency_deposit_options | methods]] are available:
+*   **Bank Transfer:** This includes options like Swift transfer and Wire transfer <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>.
+*   **Card Payment:** This method is also available for fiat deposits <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>.
 
-### Methods for Fiat Deposits
-When depositing fiat currency, you will find various methods depending on the currency you choose <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a>. Common options include:
-*   **Bank Transfer**: This can include SWIFT transfers or other wire methods <a class="yt-timestamp" data-t="04:49:00">[04:49:00]</a>.
-*   **Card Payment**: Depositing funds using a bank card <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>.
+The specific [[fiat_and_cryptocurrency_deposit_options | methods]] displayed will depend on the currency being deposited <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>.
 
-### Process
-1.  Select 'Deposit' and choose 'Fiat' <a class="yt-timestamp" data-t="04:25:00">[04:25:00]</a>.
-2.  Choose the specific fiat currency you wish to deposit <a class="yt-timestamp" data-t="05:03:00">[05:03:00]</a>.
-3.  Binance will display the available deposit methods for that currency <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a>.
-4.  Follow the instructions provided for your chosen method, which usually involves providing your bank account details or card information <a class="yt-timestamp" data-t="08:37:00">[08:37:00]</a>.
-
-### Important Considerations for Fiat Deposits
-Some conventional banks, such as Santander, Sabadell, or BBVA in Spain, may block transactions to and from cryptocurrency platforms like Binance <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a>. If this occurs, the order may be canceled, and the funds could be delayed or not reach your account <a class="yt-timestamp" data-t="09:12:00">[09:12:00]</a>.
-
-It is recommended to use alternative banking services like N26 or Revolut for fiat deposits and withdrawals, as these accounts are less likely to block transactions with cryptocurrency platforms <a class="yt-timestamp" data-t="09:23:00">[09:23:00]</a>.
+It is important to note that some conventional banks (e.g., Santander, Sabadell, BBVA in Spain) may block deposits from cryptocurrency platforms <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. To avoid this, it is recommended to use accounts from banks like N26 or Revolut, which are less likely to block such transactions <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>.
 
 ## Depositing Cryptocurrencies
 
-Depositing cryptocurrencies involves transferring them from an external wallet or another exchange to your Binance account.
+[[how_to_deposit_money_into_binance | Depositing cryptocurrencies]] involves a different process compared to fiat currencies <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. When depositing crypto, you must:
 
-### Process
-1.  Select 'Deposit' and choose 'Crypto' <a class="yt-timestamp" data-t="05:21:00">[05:21:00]</a>.
-2.  **Choose the Cryptocurrency**: Select the specific cryptocurrency you want to deposit (e.g., USDT) <a class="yt-timestamp" data-t="05:25:00">[05:25:00]</a>.
-3.  **Select the Blockchain Network**: This is a critical step. You must choose the correct blockchain network (e.g., ERC-20, TRC-20) that the sending platform or wallet is using for the transfer <a class="yt-timestamp" data-t="05:34:00">[05:34:00]</a>.
-4.  **Obtain Deposit Address**: Binance will generate a unique deposit address (a code or ID) for your Binance wallet on the selected network <a class="yt-timestamp" data-t="05:41:00">[05:41:00]</a>. This address acts like a postal code and street address for your digital funds <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>.
-5.  **Share the Address**: Provide this exact deposit address to the person or platform sending you the cryptocurrency <a class="yt-timestamp" data-t="06:51:00">[06:51:00]</a>.
-6.  **Confirmation**: Once sent, the transaction typically takes around 2-3 minutes to arrive in your Binance account <a class="yt-timestamp" data-t="06:55:00">[06:55:00]</a>.
+1.  **Choose the Cryptocurrency:** Select the specific cryptocurrency you wish to deposit, for example, USDT <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
+2.  **Select the Blockchain Network:** It is crucial to choose the correct blockchain network (e.g., ERC-20, BEP-20) from which the cryptocurrency will be transferred <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. The network chosen for the deposit must match the network used by the sending platform <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
+3.  **Use the Wallet Address/Code:** Binance will provide a unique code, which acts as the "ID" or "serial number" of your wallet, similar to a postal address for a letter <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>. This address must be used by the external wallet or platform sending the cryptocurrency to ensure it reaches your Binance account <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
 
-### Crucial Warning for Cryptocurrency Deposits
-It is extremely important that the blockchain network you select on Binance precisely matches the network used by the sender <a class="yt-timestamp" data-t="06:11:00">[06:11:00]</a>. If the networks do not match (e.g., sending via ERC-20 but selecting TRC-20 on Binance), the cryptocurrency will be lost and will never reach your destination wallet <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>. Always confirm the network with the sender before initiating a deposit <a class="yt-timestamp" data-t="06:30:00">[06:30:00]</a>.
+> [!important]
+> If the deposit order is not made with the correct network (e.g., sending via ERC-20 when BEP-20 is selected on Binance), the cryptocurrency will be lost and will not reach its destination <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. The code generated is different for each network <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>.
+
+Once the sending platform initiates the transfer using the correct network and address, the cryptocurrency typically arrives at your Binance account within two to three minutes <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.

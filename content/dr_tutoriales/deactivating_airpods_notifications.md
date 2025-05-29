@@ -5,29 +5,24 @@ videoId: G3A7i2vtdEY
 
 From: [[dr_tutoriales]] <br/> 
 
-This guide explains how to manage and deactivate notifications from your mobile phone that are read aloud by your [[airpods_notification_control | AirPods notifications]] <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+This article explains how to [[managing_iphone_notification_settings_for_airpods | manage notification settings]] on your iPhone to stop Siri from announcing notifications through your AirPods <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
 
-## Accessing Notification Settings
+## How to Deactivate Siri Notification Announcements
 
-To begin, you will need to access the settings on your iPhone <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>, specifically where your AirPods are connected <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+To prevent notifications from being read aloud by Siri when you are using your AirPods, follow these steps:
 
-1.  Navigate to the [[iphone_settings_for_airpods | Settings of your iPhone]] <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
-2.  Locate and select the "Notifications" section <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
-    *   If you cannot immediately find it, use the search bar at the top of the settings menu and type "notifications" <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+1.  Open the **Settings** app on your iPhone <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+2.  Navigate to the **Notifications** section <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. If you cannot find it, you can use the search bar within Settings by typing "Notifications" <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+3.  Within the Notifications settings, locate and tap on **Announce Notifications** <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. This setting is usually found under the "Siri" sub-section <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+4.  Here, you will see an option to activate or deactivate the announcement of notifications <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
+5.  To deactivate, toggle off the option that announces notifications when you have headphones on <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. Turning this off will stop Siri from reading your notifications aloud through your AirPods <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
 
-## Managing Siri Announce Notifications
+## Customizing Notifications for Specific Apps
 
-Within the Notifications section, you will find settings related to how Siri announces notifications.
+In addition to deactivating all notification announcements via AirPods, you can also [[selecting_specific_apps_for_siri_notification_announcements | choose which specific apps Siri announces notifications for]] when your headphones are connected <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. Even if the general "Announce Notifications" setting for headphones is active, you can individually manage apps <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
 
-1.  Scroll down to find "[[managing_app_notifications_with_siri | Siri, Announce Notifications]]" <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
-2.  Tap on "Announce Notifications" <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
-3.  Here, you will see an option to either activate or deactivate the "Announce Notifications" feature <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>.
-4.  To stop notifications from being read aloud by your AirPods, toggle the setting off <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. This will prevent your iPhone from audibly reading notifications through your headphones <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
-    *   If you wish to re-enable them, simply toggle the option back on <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>.
+To stop announcements from a particular application:
+*   Within the **Announce Notifications** settings, scroll down to see a list of applications <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+*   Select the desired app and toggle its setting to prevent Siri from announcing its notifications through your AirPods <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
 
-## Customizing App Notifications
-
-You can also [[customizing_notification_preferences | choose which specific apps notify you]] via Siri when wearing your headphones <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
-
-*   Even if the general "Announce Notifications" setting is active, you can individually configure apps to prevent their notifications from being announced through your AirPods <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
-*   To stop an app from announcing notifications, adjust its specific setting within the list of applications below the main "Announce Notifications" toggle <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. This will stop the [[airpods_notification_control | AirPods notifications]] for that particular application <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
+By following these steps, you can effectively [[customizing_siri_notifications_with_airpods | customize Siri's notification announcements]] through your AirPods <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.

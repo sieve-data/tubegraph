@@ -1,50 +1,50 @@
 ---
-title: Uploading files to Mega
+title: Uploading files to MEGA
 videoId: 0ssHrdYjJgY
 ---
 
 From: [[dr_tutoriales]] <br/> 
+MEGA is a web page used to upload and download content, enabling one person to upload files for another to download <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. It is commonly used to [[using_mega_for_file_sharing | share files]] like series, movies, or documents <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
 
-Mega is a web service used for downloading and uploading content, enabling users to share files and download them <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. It is commonly used for sharing series, movies, and documents <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+## [[creating_a_mega_account | Creating a MEGA Account]]
 
-## [[how_to_create_a_mega_account | Creating a Mega Account]]
+To [[creating_a_mega_account | create a MEGA account]], you simply need to enter an email address <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. After entering your email, you will receive a confirmation email that you need to confirm to finalize the account creation <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
 
-To create a Mega account, you simply need to enter an email address <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. After providing your email, you will receive a confirmation email that you need to use to confirm your account <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>, <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+Upon [[creating_a_mega_account | account creation]], MEGA presents various plans, including a free option and paid tiers (Lite, Pro, etc.) <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. The free plan provides up to 50 gigabytes of storage <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. While this is considered relatively little, it is sufficient for storing small or relatively small files <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. This tutorial focuses on working with the default free account <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
 
-## [[understanding_mega_storage_plans | Understanding Mega Storage Plans]]
+## Optimizing Storage with [[compressing_files_with_winrar_for_mega | WinRAR]]
 
-Upon creating an account, Mega will present different usage plans <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. The free plan provides up to 50 gigabytes of storage <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>, <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. While this is relatively small, it is sufficient for storing small or relatively small files <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>, <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. There are also paid options available, such as Lite and Pro accounts, if more storage is needed <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>, <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. This guide focuses on working with the default free account <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>, <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+To optimize the 50 gigabytes of storage offered by the free MEGA account <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>, it is recommended to [[compressing_files_with_winrar_for_mega | compress files]] using [[compressing_files_with_winrar_for_mega | WinRAR]] <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. [[compressing_files_with_winrar_for_mega | WinRAR]] is a program designed to compress files <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
 
-## [[compressing_files_with_winrar_for_mega | Compressing Files for Optimized Storage]]
-
-To optimize storage on your Mega account, especially with the 50 GB free limit, it is recommended to compress files <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>, <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>, <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. This can be done using WinRAR, a program designed for file compression <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>, <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
-
-For example, a folder containing a series like "La Casa de Papel" might originally weigh 2.21 gigabytes per episode <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>, <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. If there are eight episodes, this quickly consumes nearly 20 gigabytes, almost half of the free storage <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>, <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>, <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. Compressing such a folder can significantly reduce its size, for instance, from 20 GB to 13.1 GB, saving around 8-9 gigabytes <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>, <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>, <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>, <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>.
-
-To compress a file or folder with WinRAR:
+### Steps to Compress Files with [[compressing_files_with_winrar_for_mega | WinRAR]]:
 1.  Right-click on the file or folder you wish to compress <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>.
-2.  Click "add file" (recognizable by the WinRAR books logo) <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>, <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
-3.  In the WinRAR dialogue box, ensure the file format is "rar" <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
-4.  Set the compression method to "better" for maximum compression <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>, <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
-5.  Select the option to "create a solid file" <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>, <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>.
-6.  Click "accept" to start the compression process <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
+2.  Click on "Add to archive..." (represented by the WinRAR books logo) <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>.
+3.  In the compression options, ensure the archive format is "RAR" <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+4.  Set the compression method to "Best" for maximum compression <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+5.  Check the option to "Create solid archive" <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
+6.  Click "OK" to start the compression process <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>.
 
-Once compressed, you can open the WinRAR file to verify that your original files are inside <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>, <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>, <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>, <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>.
+For example, a folder weighing 2.21 gigabytes (e.g., a series like "La Casa de Papel") can be compressed to significantly reduce its size, saving substantial storage space on your MEGA account <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. A 2.21 GB folder, when multiplied by 8 (assuming 8 files), could take up almost 20 GB of storage <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. However, once compressed, the same content could reduce to 13.1 gigabytes, effectively compressing around 8-9 gigabytes <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. After compression, you can open the `.rar` file to verify its contents <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
 
-## Uploading Files
+## Uploading Files to MEGA
 
-To upload files to Mega:
-1.  Navigate to the cloud symbol in your Mega account <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>, <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>, <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
-2.  You can choose to upload "New folder," "files," or "upload folders" <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>, <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
-3.  Select "rise file" (upload file) <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
-4.  Choose the compressed `.rar` file you wish to upload <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
-5.  Click "open" to begin the upload <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. The file will then start uploading to your Mega cloud storage <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>, <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+Once your files are ready (especially after [[compressing_files_with_winrar_for_mega | compressing]] them for efficiency), you can upload them to your MEGA account <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
 
-## [[sharing_and_managing_mega_download_links | Sharing and Managing Mega Download Links]]
+### Steps to Upload:
+1.  Navigate to the cloud symbol within your MEGA interface <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
+2.  From the upload options, you can choose to upload "New folder," "files," or "upload folders" <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
+3.  Select "upload file" <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
+4.  Browse and select the file you wish to upload (e.g., your compressed `.rar` file) <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
+5.  The upload process will begin <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>.
 
-Once your file has been uploaded to the Mega cloud <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>, <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>:
-1.  Right-click on the uploaded file in Mega <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>.
-2.  Select the option to "manage the link" <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
-3.  This will display the download link, which includes an encryption key <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>.
-4.  To share the file, simply provide this link to others <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>, <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
-5.  To provide the separate encryption key, click on "cipher key" <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>, <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>. Copy the key displayed there <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>, <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>. Users will need to enter this key to download the content <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+## [[managing_and_sharing_mega_links | Managing and Sharing MEGA Links]]
+
+After a file has been successfully uploaded to the MEGA cloud <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>, you can [[managing_and_sharing_mega_links | share]] it with others <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>.
+
+### Steps to Share Files:
+1.  Right-click on the uploaded file in your MEGA account <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>.
+2.  Select the "Manage link" option <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>.
+3.  The link displayed includes an encryption key <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>.
+4.  To obtain the separate encryption key, click on "Cipher key" <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+5.  Copy this key <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>.
+6.  To [[managing_and_sharing_mega_links | share]] the content, provide both the link and the separate encryption key. Users with both will be able to access and download the content <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.

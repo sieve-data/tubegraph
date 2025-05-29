@@ -5,60 +5,51 @@ videoId: HOj1gge6Wd4
 
 From: [[dr_tutoriales]] <br/> 
 
-This tutorial outlines the process of uploading videos to the [[youtube_platform | YouTube]] platform from a personal computer, emphasizing simplicity and ease <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>.
+This tutorial outlines the steps to [[uploading_videos_and_live_broadcasting_on_youtube | upload videos]] to the YouTube platform from a PC in a simple manner <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>.
 
 ## Prerequisites
 
-Before uploading, users must:
-*   Access the [[youtube_platform | YouTube]] platform <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
-*   Have a [[youtube_platform | YouTube]] channel created <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. If only a Gmail account is associated with [[youtube_platform | YouTube]], a channel needs to be created <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
+Before uploading, you must have an existing YouTube account associated with Gmail and a channel created <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
 
-## Steps to Upload a Video
+## Accessing YouTube Studio
 
-### Accessing YouTube Studio
+1.  Access the YouTube platform <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+2.  Once on YouTube, navigate to [[using_youtube_studio_for_video_uploads | YouTube Studio]] <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+3.  Within [[using_youtube_studio_for_video_uploads | YouTube Studio]], locate the "upload videos" icon, which looks like an arrow pointing up <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>. Alternatively, you can click "Create" to find the same upload option <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>.
+    *   Note: You can also choose to [[uploading_videos_and_live_broadcasting_on_youtube | broadcast live]] from this menu <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
 
-Once on the [[youtube_platform | YouTube]] platform and with a channel created, navigate to [[using_youtube_studio_for_video_uploads | YouTube Studio]] <a class="yt-timestamp" data-t="01:08:08">[01:08:08]</a>.
+## Uploading the Video File
 
-### Initiating the Upload
+After clicking the upload option, you will need to select a file from your computer <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. There are two primary methods for this:
 
-Within [[using_youtube_studio_for_video_uploads | YouTube Studio]], there are two main ways to start the upload process:
-*   **Upload Icon:** Look for an arrow icon, which indicates the upload function <a class="yt-timestamp" data-t="01:20:20">[01:20:20]</a>.
-*   **"Create" Button:** Click on the "Create" button, which also presents the upload option <a class="yt-timestamp" data-t="01:28:44">[01:28:44]</a>.
-    *   This section also allows for live broadcasting with subscribers <a class="yt-timestamp" data-t="01:37:04">[01:37:04]</a>.
+*   **Drag and Drop:** Drag the video file directly to the YouTube platform's upload area <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+*   **Select File:** Click "Select file" and choose the source file from your computer's directory <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
 
-### Selecting the Video File
+Once selected, the video will begin uploading <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
 
-After initiating the upload, users need to select the video file from their computer <a class="yt-timestamp" data-t="01:48:07">[01:48:07]</a>. This can be done in two ways:
-*   **Dragging and Dropping:** Drag the video file directly to the [[youtube_platform | YouTube]] platform interface <a class="yt-timestamp" data-t="02:01:24">[02:01:24]</a>.
-*   **Selecting File:** Click "select file" and choose the source file from your computer <a class="yt-timestamp" data-t="02:07:54">[02:07:54]</a>.
+## Content Editing Process
 
-Once selected, the video begins to upload <a class="yt-timestamp" data-t="02:15:59">[02:15:59]</a>.
+After the video starts uploading, you will move to the content editing process <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. This includes:
 
-### Content Editing
+*   Adding the title <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
+*   Writing the description <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+*   Selecting a thumbnail <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+*   Adding to playlists and cards <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
 
-After the video starts uploading, the process moves to content editing <a class="yt-timestamp" data-t="02:19:40">[02:19:40]</a>. This involves:
-*   Adding the video title <a class="yt-timestamp" data-t="02:24:26">[02:24:26]</a>.
-*   Writing a description <a class="yt-timestamp" data-t="02:24:26">[02:24:26]</a>.
-*   Choosing a thumbnail <a class="yt-timestamp" data-t="02:24:26">[02:24:26]</a>.
-*   Adding to playlists <a class="yt-timestamp" data-t="02:24:26">[02:24:26]</a>.
-*   Adding cards <a class="yt-timestamp" data-t="02:24:26">[02:24:26]</a>.
+Once these details are set, click "Next" <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
 
-### Finalizing and Checking Upload
+## Video Processing and Visibility
 
-After editing, click "next" <a class="yt-timestamp" data-t="02:36:37">[02:36:37]</a>. The video will then appear in your list of uploaded videos <a class="yt-timestamp" data-t="02:43:08">[02:43:08]</a>. To view uploaded videos, navigate to the "Videos" section on the left-hand side menu in [[using_youtube_studio_for_video_uploads | YouTube Studio]] <a class="yt-timestamp" data-t="02:48:09">[02:48:09]</a>.
+After uploading, YouTube processes the video to check for copyright rules violations or other requirements <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. YouTube has censorship rules and content guidelines that videos must adhere to <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
 
-## Important Considerations
+### Checking Restrictions
 
-### Video Processing and Visibility
+To ensure your video can be viewed, confirm that its visibility is public and that there are no copyright or other restrictions <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. If you wish to change visibility, you can choose between public, private, or hidden options <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
 
-After uploading, [[youtube_platform | YouTube]] processes the video <a class="yt-timestamp" data-t="03:03:09">[03:03:09]</a>. During processing, [[youtube_platform | YouTube]] checks for copyright rules violations and ensures all requirements are met <a class="yt-timestamp" data-t="03:08:04">[03:08:04]</a>.
+### Duplicate Video Warning
 
-For people to watch your videos, the visibility must be set to "public" <a class="yt-timestamp" data-t="03:38:09">[03:38:09]</a>. Visibility can also be set to "private" or "hidden" <a class="yt-timestamp" data-t="03:49:15">[03:49:15]</a>.
+You cannot upload the same video file twice <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. If you attempt to upload a duplicate, the processing will be interrupted, and you will be informed that the file is a duplicate of a video already uploaded <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
 
-### Copyright and Restrictions
+## Viewing Uploaded Videos
 
-[[youtube_platform | YouTube]] has censorship rules, and certain content may not be appropriate for the platform <a class="yt-timestamp" data-t="03:13:00">[03:13:00]</a>. It is crucial that the video has no copyright or other restrictions for public viewing <a class="yt-timestamp" data-t="03:29:56">[03:29:56]</a>.
-
-### Duplicate Files
-
-It is not possible to upload the same video twice <a class="yt-timestamp" data-t="04:21:28">[04:21:28]</a>. If a duplicate file is detected, the processing will be interrupted <a class="yt-timestamp" data-t="04:17:09">[04:17:09]</a>.
+To see all your uploaded videos, navigate to the "Videos" section on the left-hand side menu in [[using_youtube_studio_for_video_uploads | YouTube Studio]] <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>. This section will display all videos you have uploaded, including any currently processing <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.

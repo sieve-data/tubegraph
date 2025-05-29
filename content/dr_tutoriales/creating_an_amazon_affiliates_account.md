@@ -5,47 +5,49 @@ videoId: wB-M0GRsW-A
 
 From: [[dr_tutoriales]] <br/> 
 
-Creating an Amazon Affiliates account allows individuals to earn a commission by recommending products sold on Amazon [00:00:07]. Every time someone purchases a product through a recommendation, the referrer receives a commission [00:00:14]. This program offers [[benefits_of_amazon_affiliates_program | benefits]] by enabling users to make profits from purchases made by people they've referred [00:00:22]. It is a free program that can provide real financial [[generating_revenue_through_amazon_affiliate_program | benefits]] [00:04:30].
+The Amazon Affiliate program allows individuals to earn a commission by recommending products from Amazon. When people purchase products through a unique affiliate link, the recommender receives a profit from that sale <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This program offers the [[benefits_of_amazon_affiliate_marketing | benefit]] of generating income from purchases made via recommended links <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
 
-## Steps to Apply for the Amazon Affiliates Program
+## How to Join the Amazon Affiliate Program
 
-To begin the application process for the Amazon Affiliates program, follow these [[steps_to_fill_out_the_amazon_affiliates_application | steps to fill out the Amazon Affiliates application]]:
+### Accessing the Affiliate Page
+To begin, navigate to the Amazon homepage <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. Once on the main Amazon site, locate and access the "Affiliate Program" link, typically found at the bottom left of the page <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
 
-### 1. Accessing the Amazon Homepage and Affiliates Program
-First, navigate to the Amazon homepage [00:00:44]. Scroll down to the bottom left of the page to find and access the "Affiliate Program" link [00:01:07]. Once on the affiliate program page, select "Join for free" located at the top right [00:01:13].
+### Starting the Application
+Upon reaching the affiliate program page, select the "Join for free" option, usually located in the top right corner <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. You will then be prompted to log in to your existing Amazon account <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
 
-### 2. Account Login
-You will be prompted to log in to your existing Amazon account [00:01:22].
+### Application Stages
 
-### 3. Application Stages
-The application involves four main stages to complete your profile [00:01:31]:
-1.  Filling in account information [00:01:33].
-2.  Providing a list of websites or applications [00:01:35].
-3.  Modifying your profile [00:01:42].
-4.  Learning how to start [[navigating_the_amazon_affiliates_platform | using Affiliate Central]] [00:01:45].
+The application process consists of four main stages <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>:
+1.  Filling in account information <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+2.  Providing a list of websites or apps <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
+3.  Modifying your profile <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+4.  Learning how to use Affiliate Central <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
 
-#### Stage 1: Account Information
-Fill out the basic account information, starting with your address [00:01:48]. If you already have an Amazon account, some information like your address may be pre-filled [00:01:51]. You will also need to specify the primary account owner and answer a question regarding tax effects for USA residents [00:01:58].
+#### 1. Account Information
+The first step involves entering basic account details, such as your address <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. If you already have an Amazon account, much of this information might be pre-filled <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. You must also specify the main owner of the account (e.g., the beneficiary indicated in the address) <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. Additionally, you will answer a question regarding your U.S. tax status <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
 
-#### Stage 2: Website or App List
-It is essential to have a website or app for the program [00:02:18]. However, a social media profile, such as a Facebook page, can also count as a valid website [00:02:33]. Provide the link to your chosen platform [00:02:55].
+#### 2. Website/App List
+A crucial part of the application is providing a website or app where you intend to promote products <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. Even if you don't have a traditional business website, a social media profile can be used, as it counts as a web page <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. For instance, a Facebook page created for promoting products or a YouTube channel can serve this purpose <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. You will need to copy and paste the link to your chosen platform <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. This step is key for [[how_to_use_social_media_for_amazon_affiliates | using social media for Amazon Affiliates]].
 
-#### Stage 3: Profile Information
-This stage requires detailing your profile for Amazon [00:03:29]:
-*   **Describe your website**: Provide a brief description of what your website is about [00:03:48]. For instance, you could describe it as a "tutorial for everyone" [00:03:33].
-*   **Select Categories**: Choose the primary and secondary categories that best relate to your website [00:04:35]. Examples include "computer technology" [00:04:49] and "games" [00:04:54].
-*   **Desired Amazon Products**: Indicate the types of Amazon products you wish to promote on your site, such as toys, movies, music, clothing, books, or electronics [00:04:58].
-*   **Website Type**: Specify the type of your website, e.g., "blog portal" or "content web page" [00:05:13].
-*   **Traffic Generation**: Explain how you plan to [[generating_traffic_for_amazon_affiliates | generate traffic]] for your website, such as through forums, social networks, or advertisements [00:05:29].
-*   **Monetization**: Describe how you intend to [[generating_revenue_through_amazon_affiliate_program | generate revenue]] from your website, for example, by publishing affiliate ads [00:05:45].
-*   **Link Generation Method**: Indicate how you will typically generate links; "blog editors" is an option [00:06:06].
-*   **Monthly Unique Visits**: Estimate your website's monthly unique visits, for instance, between 500 and 5,000 [00:06:11].
-*   **Main Reason for Joining**: State that the primary reason for adding the Amazon program is to monetize your site [00:06:17].
-*   **How You Heard About the Program**: Specify how you learned about the program [00:06:23].
-*   **Captcha and Terms**: Enter the displayed characters (captcha) [00:06:32] and accept the terms and conditions after reviewing them [00:06:36].
+#### 3. Profile Information
+This stage involves detailing your website's purpose and content <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>:
+*   **Website Description**: Describe what your web pages are about (e.g., "tutorial for everyone" or for posting product reviews) <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+*   **Categories**: Select the primary and secondary categories that best relate to your website, such as "computer technology" and "games" <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>.
+*   **Product Types**: Indicate which Amazon products you plan to promote, like toys, movies, music, clothing, books, electronics, or office items <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>.
+*   **Website Type**: Specify the type of your website, such as a "blog portal" or a "content web page" <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.
+*   **Traffic Generation**: Explain how you will drive traffic to your website, e.g., through forums, social networks, or advertisements <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
+*   **Monetization Strategy**: Detail how you intend to generate income from your site, with [[monetization_strategies_with_amazon_affiliates | affiliate ads]] being the primary method <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>.
+*   **Link Generation**: Describe how you will create affiliate links, often through blog editors <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+*   **Monthly Visits**: Estimate your monthly unique visitors (e.g., between 500 and 5,000) <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+*   **Program Reason**: State the main reason for joining the program, which is typically to monetize your site <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
+*   **Referral Source**: Indicate how you learned about the program <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>.
 
-## Post-Application and Payments
+After filling out the profile, you will need to enter characters for verification and accept the terms and conditions <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. It is important to read these terms <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>.
 
-After submitting your application, Amazon will state that they will review your website once you have generated three assigned sales [00:06:51]. It is recommended to enter your bank details for payments after your account has been accepted and the three sales requirement is met [00:07:06]. You have the option to enter this information immediately or later [00:07:27].
+## Post-Application and Monetization
 
-Once redirected to the Amazon page, you are ready to begin [[creating_amazon_affiliate_links | creating Amazon affiliate links]] and recommending products [00:07:38].
+Once your application is submitted, you will receive a confirmation <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. Your websites will be reviewed by the Amazon team after you generate three assigned sales <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>.
+
+You have the option to enter your bank details immediately or wait until your account is approved and verified <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. It is recommended to enter bank details after the account has been accepted and your sites have been confirmed for quality <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
+
+Once complete, you will be redirected to the Amazon page and can begin [[creating_amazon_affiliate_links | recommending products]] <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. The affiliate program is free to join and can lead to significant benefits <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>.

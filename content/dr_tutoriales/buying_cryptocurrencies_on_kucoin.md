@@ -5,63 +5,56 @@ videoId: pnRo-8GpqpA
 
 From: [[dr_tutoriales]] <br/> 
 
-This guide provides a comprehensive tutorial on depositing capital and purchasing cryptocurrencies on the KuCoin platform <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. It covers depositing both fiat money and cryptocurrencies, as well as the process of executing a trade <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
+This tutorial outlines the process of depositing capital and [[buying_selling_and_transferring_cryptocurrencies_on_kucoin | buying cryptocurrencies]] within the KuCoin platform <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. It covers depositing both fiat money and crypto assets, as well as executing trades.
 
 ## Depositing Capital on KuCoin
 
-KuCoin allows users to deposit capital in two primary forms: fiat money and other cryptocurrencies <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
+To begin [[buying_selling_and_transferring_cryptocurrencies_on_kucoin | cryptocurrencies]], you first need to deposit funds into your KuCoin account <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>. The platform supports both fiat money and existing crypto assets <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>.
 
 ### Depositing Fiat Money
 
-To deposit fiat currency (such as Euros, US Dollars, or British Pounds) <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>:
-1.  Navigate to the "Buy Crypto" section in the top menu <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
-2.  Select "Credit Card/Debit" <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. Other payment methods like Apple Pay or SEPA transfers may also be available depending on your region and selected currency <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
-3.  Choose your desired currency (e.g., USD, EUR, GBP) <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
-4.  Enter the amount you wish to deposit <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. KuCoin will display minimum and maximum amounts, along with available transfer methods <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
-5.  It is recommended to convert fiat currency to a stablecoin like USDT (Tether) for a stable conversion before purchasing other cryptocurrencies <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. This avoids price fluctuations associated with direct conversion to volatile assets like Bitcoin <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+Fiat money refers to traditional currencies like euros, US dollars (USD), or pound sterling <a class="yt-timestamp" data-t="01:32:00">[01:32:00]</a>.
 
-**Commissions**:
-Commissions are charged by the payment channel (e.g., Pancea/Ivansa), which acts as an intermediary between your fiat money and the crypto asset on KuCoin <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. For example, depositing 120 Euros via Visa/Mastercard using Pancea might result in approximately 5 USDT in commissions, while a SEPA transfer could be cheaper <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
+1.  **Navigate to Buy Crypto**: From the main menu, select "Buy Crypto" <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>.
+2.  **Choose Payment Method**: Click on "Credit/Debit Card". This section also reveals other payment options such as Apple Pay and SEPA transfer <a class="yt-timestamp" data-t="01:43:00">[01:43:00]</a>.
+3.  **Select Currency**: Choose the fiat currency you intend to deposit (e.g., EUR for euros, USD for dollars, GP for pound sterling) <a class="yt-timestamp" data-t="01:54:00">[01:54:00]</a>. Available payment methods will adjust based on the selected currency <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>.
+4.  **Enter Amount and Convert**: Input the amount you wish to deposit. It's recommended to convert your fiat money into a stablecoin like USDT (Tether) for a stable conversion, rather than directly to a volatile cryptocurrency like Bitcoin <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
+5.  **Review Commissions**: The platform will show the commission fees for different payment methods. These fees are typically charged by the payment channel (e.g., Pance, acting as an intermediary between fiat money and crypto assets) <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>. It's important to understand that KuCoin does not directly hold fiat money; it converts it into a crypto asset (like USDT) upon deposit <a class="yt-timestamp" data-t="04:14:00">[04:14:00]</a>.
+6.  **Complete Transfer**: Follow the on-screen instructions to complete the transfer, which may involve filling in personal and card details on an external page <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a>. Card transfers are typically processed within minutes, while other methods like bank transfers may take business days <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>.
 
 ### Depositing Cryptocurrencies
 
-To transfer cryptocurrencies from another platform (like [[buying_and_selling_cryptocurrencies_on_binance | Binance]] or Coinbase) to KuCoin <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>:
-1.  Go to the "Assets" section and then "Deposit" <a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>.
-2.  Select the specific cryptocurrency you wish to deposit (e.g., Bitcoin, Litecoin) <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
-3.  Ensure you select the "Main Account" as the receiving account on KuCoin, as this is where deposited funds initially land <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
-4.  KuCoin will provide a unique deposit address for the chosen cryptocurrency <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>.
-5.  Copy this address and use it as the withdrawal address on the external platform from which you are sending the crypto <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
-6.  The external platform (e.g., [[how_to_transfer_cryptocurrencies_on_binance | Binance]]) will automatically detect the network (e.g., Litecoin network) <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>.
-7.  Be aware of minimum withdrawal amounts and network commissions on the sending platform <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
+You can also transfer cryptocurrencies from other platforms (e.g., [[how_to_exchange_cryptocurrencies_on_binance | Binance]], Coinbase) to KuCoin <a class="yt-timestamp" data-t="06:17:00">[06:17:00]</a>.
 
-## Understanding KuCoin Accounts
-
-KuCoin utilizes different account types to manage funds <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>:
-*   **Main Account**: Used for depositing and withdrawing funds <a class="yt-timestamp" data-t="00:11:40">[00:11:40]</a>.
-*   **Trading Account**: Where your cryptocurrencies must be held to perform trades <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>.
-*   **Margin and Futures Accounts**: Used for more advanced trading with leverage <a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>.
-
-To buy cryptocurrencies, funds must be transferred from your Main Account to your Trading Account <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>.
+1.  **Go to Assets**: From your KuCoin dashboard, navigate to the "Assets" section, then "Main Account" <a class="yt-timestamp" data-t="06:24:00">[06:24:00]</a>.
+2.  **Select Deposit**: Click on "Deposit" <a class="yt-timestamp" data-t="06:31:00">[06:31:00]</a>.
+3.  **Choose Cryptocurrency**: Select the specific cryptocurrency you wish to deposit (e.g., Bitcoin, Litecoin) <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a>.
+4.  **Copy Deposit Address**: KuCoin will provide a unique deposit address for the chosen cryptocurrency. Copy this address <a class="yt-timestamp" data-t="06:49:00">[06:49:00]</a>.
+5.  **Withdraw from External Platform**: Go to your external crypto platform (e.g., [[how_to_transfer_cryptocurrencies_on_binance | Binance]]), select the cryptocurrency you want to withdraw, and paste the KuCoin deposit address into the withdrawal field <a class="yt-timestamp" data-t="06:58:00">[06:58:00]</a>. The platform will automatically detect the network <a class="yt-timestamp" data-t="07:32:00">[07:32:00]</a>.
 
 ## Buying Cryptocurrencies on KuCoin
 
-Once capital is deposited and transferred to the Trading Account, you can proceed with buying cryptocurrencies <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+Once your capital (fiat or crypto) is deposited, you can proceed to [[buying_selling_and_transferring_cryptocurrencies_on_kucoin | buy cryptocurrencies]] within the KuCoin market <a class="yt-timestamp" data-t="07:50:00">[07:50:00]</a>. KuCoin offers a wide variety of crypto assets and projects <a class="yt-timestamp" data-t="08:34:00">[08:34:00]</a>.
 
-### Trading Commissions
+### Understanding Trading Commissions
 
-KuCoin's trading commissions are typically 0.1% <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. These commissions can decrease based on your trading volume and holdings of KuCoin Shares (KCS) <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>. Higher trading volume and KCS holdings lead to lower maker and taker fees <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+KuCoin's trading commissions are typically 0.1% for both maker and taker orders <a class="yt-timestamp" data-t="08:47:00">[08:47:00]</a>. These commissions can decrease based on your trading volume and the amount of KCS (KuCoin Shares) or Bitcoin you hold on the exchange <a class="yt-timestamp" data-t="08:55:00">[08:55:00]</a>.
 
-### Executing a Trade
+### Steps to Buy Cryptocurrency
 
-1.  Go to the "Markets" section on the KuCoin platform <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>.
-2.  Select the cryptocurrency pair you wish to trade (e.g., KCS/USDT if you deposited USDT) <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>. KuCoin offers a wide variety of crypto assets <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>.
-3.  Access the interactive trading menu for the selected pair <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>. You may need to enter a verification code for security <a class="yt-timestamp" data-t="00:09:44">[00:09:44]</a>.
-4.  Ensure "Spot" trading is selected, not margin trading <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>.
-5.  Choose your order type <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>:
-    *   **Market Order**: Buys or sells immediately at the current market price <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>. This option disables manual price input <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
-    *   **Limit Order**: Allows you to set a specific price at which you want to buy or sell.
-    *   **Stop Limit/Stop Orders**: More advanced order types for strategic trading.
-6.  Enter the quantity of the cryptocurrency you wish to buy <a class="yt-timestamp" data-t="00:11:21">[00:11:21]</a>. You can specify a percentage of your available USDT <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>.
-7.  Click "Buy" to place your order <a class="yt-timestamp" data-t="00:12:31">[00:12:31]</a>. If successful, you will receive a confirmation <a class="yt-timestamp" data-t="00:12:36">[00:12:36]</a>.
+1.  **Navigate to Markets**: Go back to the KuCoin platform and select the "Markets" section <a class="yt-timestamp" data-t="08:04:00">[08:04:00]</a>.
+2.  **Select Trading Pair**: Since you likely deposited into USDT, go to the "USDT" section to find cryptocurrencies interchangeable with USDT <a class="yt-timestamp" data-t="08:17:00">[08:17:00]</a>. Choose the cryptocurrency you wish to buy (e.g., KCS/USDT) <a class="yt-timestamp" data-t="09:28:00">[09:28:00]</a>.
+3.  **Access Trading Interface**: Open the selected trading pair. You may need to enter a verification code set up during account creation for security <a class="yt-timestamp" data-t="09:44:00">[09:44:00]</a>. The interface displays a price graph, order book, and recent operations <a class="yt-timestamp" data-t="09:58:00">[09:58:00]</a>.
+4.  **Select Order Type**: Scroll down to the buying section. Ensure "Spot" trading is selected, not "Margin" <a class="yt-timestamp" data-t="10:33:00">[10:33:00]</a>. For a quick purchase at the current price, select a "Market" order <a class="yt-timestamp" data-t="10:46:00">[10:46:00]</a>. Other [[types_of_orders_on_kucoin | types of orders]] like "Limited" and "Stop Limit" allow you to set specific buy/sell prices for future execution <a class="yt-timestamp" data-t="11:02:00">[11:02:00]</a>.
+5.  **Transfer Funds to Trading Account**: This is a crucial step. Initially, deposited funds are in your "Main Account". To perform trading, you must transfer them to your "Trading Account" <a class="yt-timestamp" data-t="11:39:00">[11:39:00]</a>.
+    *   Go to "Assets" and then "Main Account" <a class="yt-timestamp" data-t="11:39:00">[11:39:00]</a>.
+    *   Click "Transfer" <a class="yt-timestamp" data-t="11:58:00">[11:58:00]</a>.
+    *   Select "From Main Account to Trading Account" and enter the amount (e.g., 100% of your USDT) <a class="yt-timestamp" data-t="12:02:00">[12:02:00]</a>.
+    *   Confirm the transfer.
+6.  **Execute Purchase**: Once funds are in the Trading Account, return to the trading interface:
+    *   Enter the quantity of the cryptocurrency you wish to buy (e.g., 100% of your USDT balance) <a class="yt-timestamp" data-t="12:27:00">[12:27:00]</a>.
+    *   Click "Buy [Cryptocurrency Name]".
+    *   A "Placed order successfully" notification will appear, confirming your purchase <a class="yt-timestamp" data-t="12:36:00">[12:36:00]</a>.
+    *   Your purchased cryptocurrency will now be visible in your Trading Account <a class="yt-timestamp" data-t="12:45:00">[12:45:00]</a>.
 
-Your newly purchased cryptocurrencies will appear in your Trading Account <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>.
+This comprehensive guide covers [[how_to_deposit_capital_on_kucoin | depositing capital on KuCoin]] and the fundamental process of [[buying_selling_and_transferring_cryptocurrencies_on_kucoin | buying cryptocurrencies]] via a market order. Future tutorials will delve into other order types and advanced platform features <a class="yt-timestamp" data-t="13:06:00">[13:06:00]</a>.

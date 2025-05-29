@@ -5,48 +5,39 @@ videoId: GOYaq7SUNyg
 
 From: [[dr_tutoriales]] <br/> 
 
-Liquid Swap, also known as Liquid Pool, is a financial product offered by Binance that allows users to invest their cryptocurrencies and financial assets to earn profitability <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. The core concept involves providing liquidity to the market <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+[[introduction_to_liquid_swap_on_binance | Liquid Swap]], also known as Liquid Pull, is a financial product offered on Binance that allows users to invest their cryptocurrencies and financial assets to achieve profitability <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. The product is found within the "finance" section of the platform <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
 
 ## How Liquid Swap Works
+When using [[how_to_use_liquid_swap_to_invest_in_cryptocurrencies | Liquid Swap]], users act as liquidity providers <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. This means they contribute their cryptocurrencies or other assets like euros or dollars, to a pool <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. These provided coins enable other users to perform transactions such as buying, converting, exchanging, or selling <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. As a liquidity provider, you earn profitability based on the commissions generated from these transactions <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
 
-When you [[how_to_provide_liquidity_with_cryptocurrencies | provide liquidity]] to Liquid Swap, you supply your cryptocurrencies or other assets like euros or dollars <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a> <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. This supplied capital enables others to buy, convert, exchange, or sell these coins <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a> <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. Your profitability is generated from the commissions charged on these transactions <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a> <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+## Profitability
 
-The yields displayed are typically shown as weekly percentages, defined as the Annual Percentage Yield (AP) over seven days <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a> <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. These yield values are not fixed and fluctuate significantly based on the volume of transactions occurring with the specific cryptocurrencies <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a> <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a> <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. For this reason, it is recommended to use this product with cryptocurrencies that have a high trading volume, as this helps to reduce risk and minimize potential losses <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a> <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
+Profitability in [[profitability_and_risks_in_defi | Liquid Swap]] is expressed as an APY (Annual Percentage Yield) <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>. This APY indicates the profitability earned over seven days <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
+
+> [!INFO] Key Factors Affecting Profitability
+> *   **Fluctuating Rates**: The profitability values are not fixed; they change significantly and depend entirely on the volume of transactions occurring with the specific cryptocurrencies in the pool <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>.
+> *   **High-Volume Cryptocurrencies**: To maximize returns and minimize risk, it is recommended to use cryptocurrencies that have a high trading volume <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+> *   **Adding Both Currencies**: When adding liquidity, contributing both paired currencies (e.g., Bitcoin and BUSD) will not incur a commission. However, adding only one currency (e.g., Bitcoin or BUSD separately) will result in a commission charge, making it less profitable <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
+> *   **Holding Period**: For optimal profitability, it is advisable to leave your funds deposited for a relatively medium to long period, allowing more transactions to occur and generate commissions <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>.
+
+For example, some coins might offer an APY of 7.80% or 4.44% weekly <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
 
 ## Types of Liquidity
 
-Binance Liquid Swap offers two main categories of liquidity pools: [[different_liquidity_options_stable_vs_innovative | stable vs innovative]] <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>:
+There are two main categories of liquidity offered <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>:
 
-*   **Stable Liquidity:** These pools involve products where profitability tends to be more consistent and does not vary significantly <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a> <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
-*   **Innovative Liquidity:** Products in this category typically show greater variability in their profitability <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a> <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+*   **Stable Liquidity**: Products in this category typically have profitability that does not vary significantly <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>.
+*   **Liquidity of Innovation**: Products here tend to show greater variation in profitability <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
 
-## Adding and Withdrawing Liquidity
+## Risks
 
-You have the option to add or withdraw liquidity at any time <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a> <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+> [!WARNING] Impermanent Loss
+> A crucial concept to understand when using [[profitability_and_risks_in_defi | Liquid Swap]] is that profitability is not always guaranteed <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. There are instances where you may experience negative values, leading to a loss of money <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>. This occurs if the price of the cryptocurrencies you've deposited decreases faster than the commissions you earn from transactions <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. The depreciation of your contributed currencies can outweigh the income from commissions, resulting in a negative overall return <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>.
 
-*   **Adding Liquidity:** When adding both cryptocurrencies in a pair (e.g., Bitcoin and BUSD), no commission is charged <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a> <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a> <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. However, if you add only one of the currencies separately, a commission will be charged, which can reduce your overall profitability <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a> <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
-*   **Withdrawing Liquidity:** Commissions are typically charged when you withdraw your money from the pool <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a> <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+Additionally, when you withdraw your funds, commissions are charged as a percentage of your withdrawal <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.
 
-It is recommended to leave your money deposited for a relatively medium to long-term timeframe, allowing people to use your money for transactions and thus enable you to obtain consistent profitability <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a> <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a> <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
+## Managing Your Participation
 
-## Understanding the Risks of Negative Profitability
+Users can add or remove liquidity at any time <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. You can view your current participation in the pool, including the amount contributed and the total yield generated (e.g., 8.7706% total yield, 1.04% daily yield) <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>. A transaction history is also available to track when liquidity was added or withdrawn <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>.
 
-A critical concept to understand when using Liquid Swap is the risk involved, particularly the potential for negative returns <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a> <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a> <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. Profitability is not always guaranteed <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a> <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a> <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
-
-*   **Asset Depreciation:** If the price of the cryptocurrencies you've contributed to the pool decreases significantly after your transaction, the value of your assets can fall <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a> <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a> <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
-*   **Net Negative Return:** If the depreciation of your contributed currencies outweighs the commissions earned from transactions, your overall profitability can become negative <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a> <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a> <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a> <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a> <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>. This is a key risk to understand: the value of your underlying assets can drop faster than you accumulate transaction fees, leading to a loss <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
-
-When using this product, it is crucial to read the terms and conditions <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a> <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>.
-
-## Monitoring Your Participation
-
-You can track your contributions and performance by navigating to "my participation" <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a> <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>. This section displays:
-*   The total amount you have contributed to the market <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>.
-*   Your total yield percentage <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a> <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
-*   Daily profitability <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a> <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
-*   Options to add or withdraw amounts <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a> <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>.
-*   A history of your transactions, including when you've added or withdrawn liquidity <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a> <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>.
-
-## Comparison to Holding Cryptocurrencies
-
-A key consideration is whether leaving money in Liquid Swap for transaction-based profitability is more beneficial than simply holding a cryptocurrency like Bitcoin and hoping for its value to appreciate <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a> <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a> <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. While Liquid Swap provides profitability through commissions, holding a cryptocurrency that experiences significant revaluation could also lead to substantial gains <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a> <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. It's important to consider all exposures and risks <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a> <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>.
+Before using the product, it is highly recommended to read the terms and conditions <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>.
