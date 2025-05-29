@@ -1,0 +1,27 @@
+---
+title: Applying AI to Enhance Email Efficiency
+videoId: 0igjSRZyX-w
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Rahul Vora, founder and CEO of Superhuman, discusses the significant role of [[role_of_ai_in_software_development | AI]] and Large Language Models (LLMs) in enhancing and transforming software development, particularly for email efficiency <a class="yt-timestamp" data-t="02:03:01">[02:03:01]</a>. Superhuman has leveraged [[role_of_ai_in_software_development | AI]] to introduce multiple flagship features, which have dramatically increased product velocity and user engagement <a class="yt-timestamp" data-t="01:39:57">[01:39:57]</a> <a class="yt-timestamp" data-t="01:40:08">[01:40:08]</a>.
+
+## Key [[applications_of_ai_in_enhancing_productivity_for_product_managers | AI Features]] in Superhuman
+
+Superhuman's approach to [[integrating_ai_tools_and_automation_in_business | integrating AI tools and automation in business]] focuses on making email management faster, more efficient, and more personalized <a class="yt-timestamp" data-t="01:06:06">[01:06:06]</a>. The company aims for a premium experience, ensuring that [[using_ai_tools_for_product_management_and_development | AI features]] feel seamless and amazing <a class="yt-timestamp" data-t="01:10:48">[01:10:48]</a>.
+
+Notable [[building_web_products_with_ai_tools | AI-powered features]] include:
+
+*   **Write with AI** Users can jot down a few words, and the [[role_of_ai_in_software_development | AI]] will turn them into a fully written email <a class="yt-timestamp" data-t="01:10:09">[01:10:09]</a>. Uniquely, it matches the user's voice and tone from previously sent emails, making the [[role_of_ai_in_software_development | AI]]-generated email sound like the user <a class="yt-timestamp" data-t="01:10:13">[01:10:13]</a>. This feature has seen unexpected popularity, with users utilizing it an average of 37 times per week <a class="yt-timestamp" data-t="01:10:27">[01:10:27]</a> <a class="yt-timestamp" data-t="01:14:56">[01:14:56]</a>.
+*   **Auto Summarize** This feature displays a one-line summary above every email conversation <a class="yt-timestamp" data-t="01:10:35">[01:10:35]</a>. As new emails arrive, the summary updates instantly, offering a preemptively computed overview of the conversation <a class="yt-timestamp" data-t="01:10:40">[01:10:40]</a> <a class="yt-timestamp" data-t="01:10:44">[01:10:44]</a>.
+*   **Instant Reply** Superhuman can automatically draft replies for incoming emails, allowing users to simply edit and send, or sometimes send without any edits <a class="yt-timestamp" data-t="01:10:53">[01:10:53]</a>. The percentage of [[role_of_ai_in_software_development | AI]]-written and sent emails with Superhuman increased fourfold in 2024 <a class="yt-timestamp" data-t="01:11:12">[01:11:12]</a>.
+*   **Ask AI** Leveraging email as a treasure trove of information, this feature allows users to query their inbox using natural language, replacing traditional search methods <a class="yt-timestamp" data-t="01:11:25">[01:11:25]</a> <a class="yt-timestamp" data-t="01:11:35">[01:11:35]</a>. For example, users can ask "Where is the Q1 offsite?" or "What are my flight details?" to quickly retrieve information <a class="yt-timestamp" data-t="01:11:47">[01:11:47]</a>. Tasks that previously took 20-30 minutes, such as summarizing customer responses, can now be completed in less than 5 seconds <a class="yt-timestamp" data-t="01:11:56">[01:11:56]</a>.
+*   **Auto Labels** Users can create short prompts (e.g., "job applications" or "requests to review work"), and [[role_of_ai_in_software_development | AI]] will automatically label incoming emails that match these prompts <a class="yt-timestamp" data-t="01:12:22">[01:12:22]</a>.
+*   **Auto Reminders** If an email requires a response, Superhuman will automatically set a reminder, ensuring users never drop the ball <a class="yt-timestamp" data-t="01:12:37">[01:12:37]</a>.
+*   **Autodrafts** Superhuman automatically drafts follow-up emails and will soon draft replies to nearly every email requiring a response <a class="yt-timestamp" data-t="01:12:50">[01:12:50]</a>.
+*   **Workflows** This feature allows users to turn email into repeatable, automated workflows <a class="yt-timestamp" data-t="01:13:01">[01:13:01]</a>. For instance, processes like replying to job candidates and forwarding their information to the HR team can be entirely automated, even when the user is not actively in their inbox or working <a class="yt-timestamp" data-t="01:13:08">[01:13:08]</a>.
+
+## Learnings from Building with [[role_of_ai_in_software_development | AI]]
+
+A significant surprise for Rahul Vora in building with [[role_of_ai_in_software_development | AI]] has been the unpredictability of user adoption and love for certain features <a class="yt-timestamp" data-t="01:14:26">[01:14:26]</a>. While some features like "Write with AI" (which might appear to be a commodity feature) have garnered immense and unexpected usage, others that were anticipated to be highly popular did not achieve the same level of engagement <a class="yt-timestamp" data-t="01:14:31">[01:14:31]</a> <a class="yt-timestamp" data-t="01:15:11">[01:15:11]</a>. This suggests that user preferences for [[applications_of_ai_in_enhancing_productivity_for_product_managers | AI-driven productivity tools]] can be counter-intuitive.

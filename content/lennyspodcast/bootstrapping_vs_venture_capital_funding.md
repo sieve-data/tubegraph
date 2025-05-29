@@ -1,0 +1,43 @@
+---
+title: Bootstrapping vs Venture Capital funding
+videoId: dAnF0tk0di8
+---
+
+From: [[lennyspodcast]] <br/> 
+
+The path to building a successful startup often appears to be a binary choice: either raise Venture Capital (VC) funding to "go big or go home" or bootstrap your way to profitability. While the VC route is highly publicized, especially in the tech industry, it represents an extreme outlier in the business world. Many successful companies, like 37signals, demonstrate the power and fulfillment of bootstrapping, proving that there are "a lot more room to make it and to build a successful business if you throw out that outlier and look at all the other places you can land as a business" <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+
+## The Bootstrapped Path: Independence and Profitability
+
+Bootstrapping means funding your company primarily through your own resources and initial sales, without external investment. This approach offers significant benefits:
+
+*   **Focus on Profitability** The core skill for any successful business is to make money <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. Bootstrapping forces entrepreneurs to practice this fundamental skill from day one, leading to greater proficiency over time <a class="yt-timestamp" data-t="01:17:54">[01:17:54]</a>. Unlike many VC-backed companies that may never make a dollar of profit, bootstrapped businesses prioritize healthy margins <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>. 37signals, for example, has been profitable for 24 years straight, generating "double-digit million dollar profits on an annual basis" <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+*   **Independence and Control** Companies like 37signals operate without investors or a board, and have no plans to go public or sell their business <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. This independence is "the root of all the things we're able to do" <a class="yt-timestamp" data-t="01:05:25">[01:05:25]</a>. It allows founders to define their own success, work for themselves, and create a company they genuinely want to work at long-term <a class="yt-timestamp" data-t="01:04:04">[01:04:04]</a>.
+*   **Efficiency and Small Teams** Constraints, such as small teams and less cash, often lead to better outcomes <a class="yt-timestamp" data-t="01:00:01">[01:00:01]</a> and force greater efficiency <a class="yt-timestamp" data-t="01:16:51">[01:16:51]</a>. 37signals, with about 75 employees, generates significant profit with over 100,000 customers, while competitors might have thousands of employees and struggle with profitability <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>. This is achieved by focusing on fewer products, serving specific customer segments, and maintaining a lean operation without large sales teams or complex pricing tiers <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>.
+*   **Sustainable Growth** Rather than being "focused on growth" <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a> at all costs, bootstrapped companies can prioritize sustainability and long-term viability. They are "in it to stay in it" <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>, focusing on continuous improvement and adaptation rather than chasing exponential user growth or unicorn status <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. Jason Freed prefers the term "stay up" over "startup" to emphasize enduring in business <a class="yt-timestamp" data-t="00:20:55">[00:20:55]</a>.
+*   **Flexibility and Iteration** Without external pressure to meet specific targets, bootstrapped companies can be more agile. They can make decisions based on gut and instinct, and iterate quickly, focusing on what "feels right" <a class="yt-timestamp" data-t="00:16:28">[00:16:28]</a> rather than being solely data-driven <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>.
+
+## The Venture Capital Route: The Outlier Path
+
+The Venture Capital route, where startups raise money from VCs and angel investors, is often presented as the default. While necessary for some company types, it comes with inherent pressures and challenges:
+
+*   **Growth-at-All-Costs Mindset** VC funding typically comes with the expectation to "grow as fast as possible, as big as possible" <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>, with the ultimate goal of achieving unicorn status and a lucrative exit (IPO or acquisition) <a class="yt-timestamp" data-t="00:29:26">[00:29:26]</a>. This often means running at a loss for extended periods <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.
+*   **Loss of Control and Pressure** Accepting VC money means bringing in external stakeholders with their own expectations and timelines. Founders may find themselves working for someone else, having to make decisions based on investor demands rather than their own vision <a class="yt-timestamp" data-t="01:05:54">[01:05:54]</a>.
+*   **High Failure Rate** The "go big or go home" approach is an extreme outlier; "almost nobody makes it that way" <a class="yt-timestamp" data-t="00:29:33">[00:29:33]</a>. If a VC-backed company fails to meet rapid growth expectations, it can "wither on the vine and die" <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>.
+*   **"Sloppiness" and Overspending** Having "loads of money" <a class="yt-timestamp" data-t="01:17:39">[01:17:39]</a> can lead to a "degree of sloppiness" <a class="yt-timestamp" data-t="01:16:55">[01:16:55]</a>. VC funds are meant to be spent, often on aggressive marketing and rapid hiring, which can lead to inefficient operations and a lack of focus on profitability skills <a class="yt-timestamp" data-t="01:17:10">[01:17:10]</a>.
+*   **Suitable for Specific Business Types** VC funding is most applicable for businesses with high capital expenditure, like car manufacturing or opening restaurants, where physical assets are needed upfront <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. It can also be beneficial for businesses that require massive initial market penetration to establish reliability, like Airbnb or Uber, which need to be available "everywhere instantly" to gain trust <a class="yt-timestamp" data-t="00:32:07">[00:32:07]</a>.
+
+## When to Choose What
+
+For most software businesses, which have "incredibly healthy" margins and low startup costs (a couple of laptops and people) <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>, bootstrapping is often the more fulfilling and sustainable path. As Jason Freed states, "I don't think you do otherwise [need VC], and I think it actually hurts you if you go out and think that you do" <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
+
+**Key Advice for Bootstrapping:**
+
+*   **"Stay as small as you can for as long as you can"** <a class="yt-timestamp" data-t="01:12:15">[01:12:15]</a>: Control your costs meticulously, as this is the only variable you truly manage <a class="yt-timestamp" data-t="01:12:36">[01:12:36]</a>.
+*   **Do it yourself as much as possible initially** <a class="yt-timestamp" data-t="01:12:41">[01:12:41]</a>: Avoid bringing on additional people or services until absolutely necessary to keep costs low and learn every aspect of your business.
+*   **Embrace constraints and simplicity:** Hard things can still be simple; don't make them complicated <a class="yt-timestamp" data-t="01:13:55">[01:13:55]</a>.
+*   **Be at peace with failure:** Understand that "pretty much every business is a spectacular failure" <a class="yt-timestamp" data-t="00:57:54">[00:57:54]</a> and accept the worst-case scenario. This "negative visualization" allows you to move forward without fear <a class="yt-timestamp" data-t="01:14:50">[01:14:50]</a>.
+*   **Prioritize making money:** Continually practice the skill of making money, rather than just spending it <a class="yt-timestamp" data-t="01:19:01">[01:19:01]</a>.
+*   **"No one ever went broke making a profit"** <a class="yt-timestamp" data-t="01:23:03">[01:23:03]</a>: Focus on profitability as your guiding light <a class="yt-timestamp" data-t="01:23:08">[01:23:08]</a>.
+
+For those considering the VC path, it's crucial to understand that it's a specific game with specific rules. Most of the world's companies operate on the principles of bootstrapping, making it "incredibly boring and mainstream" <a class="yt-timestamp" data-t="01:16:35">[01:16:35]</a> compared to the VC world, yet offering a more sustainable and fulfilling journey for many entrepreneurs.

@@ -1,0 +1,43 @@
+---
+title: Building companies with values aligned with human flourishing
+videoId: xzebbzIntFc
+---
+
+From: [[lennyspodcast]] <br/> 
+
+People often act as if having a startup fail is the worst thing that can happen to them, but Eric Ries argues that it's "not even in the top 10" <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. Far worse is to be in a "zombie undead company that you hate but you can't leave" <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>, or to [[Building new products within larger companies | build a company]] that you sell out and "find abhorrent" <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>, which then becomes a "malign force in the world" <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. Ries wishes more founders would take this more seriously early on <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+
+## The Importance of Values and Purpose
+A significant part of Ries's current work involves advising founders and companies on [[Building and scaling a company's culture | how to build a business with values]] that are aligned with human flourishing <a class="yt-timestamp" data-t="01:47:48">[01:47:48]</a>. The core question becomes: "what does success even look like?" <a class="yt-timestamp" data-t="01:13:10">[01:13:10]</a>. While it's easy to create a method that maximizes something, it's crucial to ask if that "thing [is] good" and if it helps accomplish a worthwhile goal <a class="yt-timestamp" data-t="01:13:19">[01:13:19]</a>.
+
+Ries notes a significant mental health crisis among founders, partly stemming from creating companies that become sources of regret <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. He reflects that while his book, *The Lean Startup*, mentioned giving entrepreneurs tools to "change the world," it failed to specify "for the better" <a class="yt-timestamp" data-t="02:26:15">[02:26:15]</a>. This omission, though seemingly minor, points to a broader issue where companies may become "disappointments" <a class="yt-timestamp" data-t="01:20:24">[01:20:24]</a>.
+
+## Why Companies Need Robust Governance
+Ries emphasizes that companies building increasingly powerful and invasive technologies need to earn public trust <a class="yt-timestamp" data-t="01:32:20">[01:32:20]</a>. The rhetoric of "changing the world" must be matched with moral responsibility for outcomes <a class="yt-timestamp" data-t="01:32:30">[01:32:30]</a>.
+
+A critical challenge is that "no individual person can ever make promises on behalf of an organization" <a class="yt-timestamp" data-t="01:34:35">[01:34:35]</a>, as individuals are replaceable <a class="yt-timestamp" data-t="01:34:43">[01:34:43]</a>. Organizations are "super-organisms with their own soul and their own life" <a class="yt-timestamp" data-t="01:34:47">[01:34:47]</a> that are "birthed" not "owned" by founders <a class="yt-timestamp" data-t="01:34:54">[01:34:54]</a>. To ensure trustworthiness, promises must be "embodied in the structure of the organization itself" <a class="yt-timestamp" data-t="01:35:13">[01:35:13]</a>, so they are kept even if the founder leaves <a class="yt-timestamp" data-t="01:35:17">[01:35:17]</a>.
+
+Ries illustrates this with an analogy: Google will almost certainly file its quarterly report on time (a certainty) <a class="yt-timestamp" data-t="01:36:11">[01:36:11]</a>, but there's no such certainty that it wouldn't be "complicit in something that would make them money but at the expense of murdering somebody" <a class="yt-timestamp" data-t="01:36:27">[01:36:27]</a>. This highlights that companies are "really good at the things that they care about" <a class="yt-timestamp" data-t="01:37:20">[01:37:20]</a>, and often, what they care about most is financial reporting, not human welfare <a class="yt-timestamp" data-t="01:37:22">[01:37:22]</a>.
+
+## Redefining "For-Profit"
+Ries argues that the conventional definition of a "for-profit company" is wrong <a class="yt-timestamp" data-t="01:37:34">[01:37:34]</a>. He suggests that true profit should be about "maximizing human flourishing" <a class="yt-timestamp" data-t="01:37:40">[01:37:40]</a>. There are "exploitative, extractive ways of making money and then there's truly additive ways of making money that actually create net new value" <a class="yt-timestamp" data-t="01:38:01">[01:38:01]</a>.
+
+When companies commit to human flourishing and creating net new value, they can become "unrecognizably different" <a class="yt-timestamp" data-t="01:38:59">[01:38:59]</a>. This ethos allows for environments where people want to work on "something awesome" <a class="yt-timestamp" data-t="01:39:46">[01:39:46]</a>. It's not merely virtue signaling but a "competitive issue" <a class="yt-timestamp" data-t="01:41:18">[01:41:18]</a>. Companies with a core value of caring for customers can achieve unbelievable loyalty and retention <a class="yt-timestamp" data-t="01:41:59">[01:41:59]</a>.
+
+## Implementing Value-Aligned Governance
+Ries emphasizes that it's "always too early until it's too late" to establish proper governance <a class="yt-timestamp" data-t="01:53:52">[01:53:52]</a>. Founders often postpone these discussions, only to find it impossible to implement changes once the company is large and preparing for an IPO <a class="yt-timestamp" data-t="01:45:25">[01:45:25]</a>.
+
+Some mechanisms for embedding values into a company's structure include:
+*   **Public Benefit Corporation (PBC) or Social Purpose Corporation (SPC) designations** <a class="yt-timestamp" data-t="01:44:01">[01:44:01]</a>.
+*   **Donating a percentage of the company to a foundation** with trustees from relevant stakeholders (e.g., indigenous cultures for a technology built on their heritage) <a class="yt-timestamp" data-t="01:44:19">[01:44:19]</a>.
+*   **Board Mission Pledge**: Requiring board members to pledge to support the company's mission, not just narrow shareholder interests <a class="yt-timestamp" data-t="01:44:32">[01:44:32]</a>.
+*   **Long-Term Stock Exchange (LTSE)**-aligned financing instruments (LTSV): Requiring LPs to contractually support the company's mission <a class="yt-timestamp" data-t="01:44:50">[01:44:50]</a>.
+
+Ries highlights that the "shareholder primacy theory of corporations" is fundamentally wrong, even for maximizing returns <a class="yt-timestamp" data-t="01:53:46">[01:53:46]</a>. Companies like Toyota, family-run businesses, and [[Building a productfocused company culture | foundation-controlled companies]] (like OpenAI) <a class="yt-timestamp" data-t="01:51:57">[01:51:57]</a> often outperform traditional public companies financially because they prioritize long-term thinking and values, rather than being beholden to short-term pressures <a class="yt-timestamp" data-t="01:52:38">[01:52:38]</a>.
+
+This approach creates a "spiritual holding company" <a class="yt-timestamp" data-t="01:55:21">[01:55:21]</a>, ensuring the "soul of the overall ecosystem" of companies is responsible for its mission <a class="yt-timestamp" data-t="01:55:26">[01:55:26]</a>. It can solve seemingly "insoluble business problems," such as recruiting top talent who require assurance that their work won't be used for evil <a class="yt-timestamp" data-t="01:57:19">[01:57:19]</a>.
+
+## A New Movement
+Ries envisions a new movement where "human flourishing is the thing at the beating heart" of companies <a class="yt-timestamp" data-t="01:41:06">[01:41:06]</a>. This requires a "relentless and constant process" of [[Using operating principles to guide company culture | building a structure]] where "at every level, at every moment, every decision the company makes, somebody in the room making that decision feels like they have a fiduciary duty to do the right thing" <a class="yt-timestamp" data-t="01:49:50">[01:49:50]</a>.
+
+Companies are not separate entities of governance, management, and operations; they are "one being" <a class="yt-timestamp" data-t="01:49:21">[01:49:21]</a>. Founders and builders have immense power to set the terms by which companies operate <a class="yt-timestamp" data-t="02:13:03">[02:13:03]</a>. Ries encourages listeners to take these ideas and experiment with them <a class="yt-timestamp" data-t="02:09:40">[02:09:40]</a>, to "think for yourself" <a class="yt-timestamp" data-t="01:57:56">[01:57:56]</a>, and to contribute to a collective where [[Philosophy of product design and human potential | making the world a better place]] through organization building is a shared belief <a class="yt-timestamp" data-t="02:11:13">[02:11:13]</a>.

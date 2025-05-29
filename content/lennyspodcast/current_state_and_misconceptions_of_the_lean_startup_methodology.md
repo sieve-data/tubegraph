@@ -1,0 +1,72 @@
+---
+title: Current state and misconceptions of the Lean Startup methodology
+videoId: xzebbzIntFc
+---
+
+From: [[lennyspodcast]] <br/> 
+
+Eric Ries, widely recognized for originating the [[the_significance_of_beginners_mind_in_entrepreneurship | Lean Startup]] methodology and movement, as well as authoring the influential book *The Lean Startup* (released in 2011 <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>), has significantly shaped startup culture. He is credited with coining or popularizing numerous core concepts in technology, including Minimum Viable Product (MVP), pivot, A/B testing, customer development, continuous deployment, and vanity metrics <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. Ries currently dedicates his time to advising [[Lessons from successful Founders and startups | Founders]] and startups, and serves as the founder and executive chairman of the Long-Term Stock Exchange <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+
+## Evolution of the Lean Startup Movement
+
+The [[the_significance_of_beginners_mind_in_entrepreneurship | Lean Startup]] movement has evolved dramatically since its inception. Initially, it had the fervent energy of a "religious revival," with proponents eager to challenge established norms <a class="yt-timestamp" data-t="00:14:58">[00:14:58]</a>. However, instead of a direct confrontation, the methodology gained acceptance by default because few genuinely defended the old ways of working <a class="yt-timestamp" data-t="00:15:28">[00:15:28]</a>. Over time, it transitioned from being an "insurgent revival" to becoming the default approach for many <a class="yt-timestamp" data-t="00:16:20">[00:16:20]</a>. Many new entrepreneurs now take these concepts for granted as the standard conceptual vocabulary of entrepreneurship <a class="yt-timestamp" data-t="00:19:25">[00:19:25]</a>. This widespread adoption, where the ideas become obvious rather than controversial, is seen as a true victory <a class="yt-timestamp" data-t="00:16:48">[00:16:48]</a>.
+
+Ries emphasizes that [[the_significance_of_beginners_mind_in_entrepreneurship | Lean Startup]] is a scientific theory; what works is [[the_significance_of_beginners_mind_in_entrepreneurship | Lean Startup]], and new effective practices should be adopted rather than seen as heresies <a class="yt-timestamp" data-t="00:18:27">[00:18:27]</a>. The true measure of success lies in the personal stories of how the book was helpful to individuals, not in seeking external validation or engaging in debates <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>.
+
+## [[Common misconceptions in growth strategies | Common Misconceptions]] of Lean Startup
+
+Despite its widespread adoption, several misconceptions about the [[the_significance_of_beginners_mind_in_entrepreneurship | Lean Startup]] methodology persist <a class="yt-timestamp" data-t="00:22:42">[00:22:42]</a>:
+
+*   **"Lean means cheap"**: This is a prevalent misunderstanding, suggesting that [[the_significance_of_beginners_mind_in_earlystage_startups | Lean Startup]] implies not raising money or minimizing investment <a class="yt-timestamp" data-t="00:22:56">[00:22:56]</a>. Ries clarifies that this is not true; for instance, the MVP for the Long-Term Stock Exchange took 10 years to build <a class="yt-timestamp" data-t="00:38:06">[00:38:06]</a>.
+*   **"Lean is opposed to having a vision"**: Critics mistakenly believe that a focus on experimentation negates the need for a strong, visionary direction, or that experimentation leads only to "local maxima" <a class="yt-timestamp" data-t="00:23:09">[00:23:09]</a>. Ries explicitly addresses this in the introduction of his book <a class="yt-timestamp" data-t="00:23:32">[00:23:32]</a>.
+*   **Misunderstanding of "Pivot"**: The concept of a "pivot" is often misconstrued. Some argue against it, while others incorrectly use the term <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>. A pivot is defined as a change in strategy while maintaining fidelity to the original vision <a class="yt-timestamp" data-t="01:02:07">[01:02:07]</a>.
+*   **Misunderstanding of "MVP" (Minimum Viable Product)**: This is perhaps the most recurring misconception, with many believing it implies building a low-quality or "bare-bones stripped-down" product <a class="yt-timestamp" data-t="00:20:01">[00:20:01]</a>. Ries states that the term itself is often criticized, but he challenges detractors to offer a better alternative <a class="yt-timestamp" data-t="00:20:06">[00:20:06]</a>.
+
+Ries notes that these persistent misconceptions are often a source of frustration, as they misrepresent fundamental aspects of the methodology <a class="yt-timestamp" data-t="00:24:04">[00:24:04]</a>.
+
+### Addressing Misconceptions: The True Meaning of MVP
+
+The core idea behind MVP is not about building a shoddy product, but about finding the most efficient way to validate a hypothesis <a class="yt-timestamp" data-t="00:28:30">[00:28:30]</a>. It's about containing the liability of making a mistake <a class="yt-timestamp" data-t="00:29:45">[00:29:45]</a>. Even in high-stakes industries (like data centers or jet engines), where user expectations are high, the cost of offering something unwanted is often just a "no" <a class="yt-timestamp" data-t="00:29:08">[00:29:08]</a>.
+
+Key aspects of MVP:
+
+*   **Efficiency, Not Low Quality**: An MVP aims to test a hypothesis with minimum effort <a class="yt-timestamp" data-t="00:31:32">[00:31:32]</a>. If customer expectations for quality are high, the MVP should focus on delivering *fewer features* at that high quality, rather than many features at low quality <a class="yt-timestamp" data-t="00:31:39">[00:31:39]</a>.
+*   **Learning is the Goal**: The primary purpose of an MVP is to learn whether customers actually want what is being built. Building a "high-quality wrong value prop" is the ultimate waste <a class="yt-timestamp" data-t="00:32:25">[00:32:25]</a>.
+*   **Product vs. Marketing Launch**: An early product launch for testing can be done without a large-scale marketing launch, as no one cares if you're a small startup <a class="yt-timestamp" data-t="00:31:06">[00:31:06]</a>.
+*   **The "Teleportation" Anecdote**: In an early version of IMVU (a 3D avatar product), the team struggled with complex inverse kinematics for avatar movement. As a quick hack, Ries implemented a "teleportation" feature where avatars instantly reappeared in a new location. Despite being a rough implementation and considered "ugly" by the engineers, customers perceived it as "advanced" and even preferred it over more sophisticated movement in competing products like *The Sims* <a class="yt-timestamp" data-t="00:35:01">[00:35:01]</a>. This demonstrates that customer-defined "quality" can be surprising and that less can sometimes be more <a class="yt-timestamp" data-t="00:34:54">[00:34:54]</a>.
+*   **Practical Advice for MVPs**: To find the right "minimum," Ries suggests taking the list of necessary features, cutting it in half, and then cutting it in half again <a class="yt-timestamp" data-t="00:43:08">[00:43:08]</a>. The problem with unclear MVPs often stems from a lack of clarity on what the founder wants to learn, or an unwillingness to admit what they don't know <a class="yt-timestamp" data-t="00:44:20">[00:44:20]</a>.
+
+### Addressing Misconceptions: The Nuance of Pivoting
+
+A pivot is defined as a change in strategy *without* a change in vision <a class="yt-timestamp" data-t="01:02:07">[01:02:07]</a>. However, Ries acknowledges that a founder's vision itself often evolves through the process of building the company <a class="yt-timestamp" data-t="01:02:21">[01:02:21]</a>. Building a startup is a process of self-discovery, where founders learn what they truly believe about their vision as they face real-world trade-offs <a class="yt-timestamp" data-t="01:02:51">[01:02:51]</a>.
+
+*   **Prevalence of Pivots**: Ries observes that many [[Challenges and strategies for creating successful startups | startup]]s, even successful ones, undergo pivots, though founders might not always admit it or even psychologically remember the change <a class="yt-timestamp" data-t="01:01:15">[01:01:15]</a>. Data suggests about 20% of consumer startups and 40% of B2B companies pivot to a completely different product <a class="yt-timestamp" data-t="01:00:27">[01:00:27]</a>.
+*   **Psychological Impact**: The psychological toll of acknowledging failure and pivoting is immense <a class="yt-timestamp" data-t="00:47:50">[00:47:50]</a>. It's difficult to admit when something isn't working, but the scientific method emphasizes that if you can't fail, you can't learn <a class="yt-timestamp" data-t="00:48:15">[00:48:15]</a>.
+*   **When to Pivot**: If a founder is asking whether they should pivot, they probably already know the answer: if the business isn't working, it's not working <a class="yt-timestamp" data-t="01:14:48">[01:14:48]</a>. Ries advises giving a fixed period (e.g., six weeks) to try a decisive action on the current path. If no progress is made, or if the team collectively desires a new direction, it's time to consider a pivot <a class="yt-timestamp" data-t="01:14:34">[01:14:34]</a>. It's crucial to acknowledge when experiments are no longer productive <a class="yt-timestamp" data-t="01:15:39">[01:15:39]</a>.
+
+## [[the_significance_of_beginners_mind_in_entrepreneurship | First Principles Thinking]]
+
+Ries's approach is rooted in [[the_significance_of_beginners_mind_in_entrepreneurship | first principles thinking]], a concept he views as having two components <a class="yt-timestamp" data-t="01:09:59">[01:09:59]</a>:
+
+1.  **Descriptive**: Giving names and concepts to things that already happen (e.g., calling a startup an "experiment" or a change in strategy a "pivot") <a class="yt-timestamp" data-t="01:10:56">[01:10:56]</a>. This is about observing reality and providing a vocabulary to reason about it <a class="yt-timestamp" data-t="01:13:30">[01:13:30]</a>.
+2.  **Prescriptive**: Once phenomena are identified and principles laid out, the prescriptive parts become a matter of deductive logic, outlining what to do based on hypotheses and their implications <a class="yt-timestamp" data-t="01:12:05">[01:12:05]</a>.
+
+This approach is iterative, refined through trial and error, personal experience, and advising others, constantly seeking to understand *why* things work and under what circumstances <a class="yt-timestamp" data-t="01:12:54">[01:12:54]</a>.
+
+## Broader Implications and the Future of Startups
+
+Ries connects the [[the_significance_of_beginners_mind_in_entrepreneurship | Lean Startup]]'s principles to broader ethical and societal concerns, especially in the context of powerful new technologies like [[AIs impact on product development and startups | AI]]. He argues that while the failure of a startup is challenging, it's far worse to be stuck in a "zombie" company that is alive but going nowhere, or to build a company that becomes a "malign force in the world" <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>. This sentiment highlights a growing [[challenges_and_strategies_for_creating_successful_startups | mental health crisis among Founders]] <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>.
+
+### The Role of Craft and Ethics
+
+When discussing "craft" in product development, Ries differentiates between inherent quality that facilitates speed and options (e.g., well-written code) and craft used as an excuse to avoid feedback or adhere to personal aesthetic preferences <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>. He encourages [[Lessons from successful Founders and startups | Founders]] to build the company they truly want, even if it means risking failure, as it's better than creating something they hate <a class="yt-timestamp" data-t="00:53:40">[00:53:40]</a>.
+
+### Governance and Human Flourishing
+
+Ries now dedicates significant time to corporate governance, advocating for companies to embody their values in their structure, not just rely on the good intentions of individuals <a class="yt-timestamp" data-t="01:34:10">[01:34:10]</a>. He argues that the traditional shareholder-centric view is flawed; maximizing profit should align with "human flourishing" <a class="yt-timestamp" data-t="01:37:40">[01:37:40]</a>. This involves embedding commitments to stakeholders and mission directly into the company's legal and operational framework, even if it means challenging conventional investor expectations <a class="yt-timestamp" data-t="01:43:50">[01:43:50]</a>. These "spiritual holding companies" or mission-driven structures, though seemingly unusual, can be a source of competitive advantage, leading to greater long-term success and employee/customer loyalty <a class="yt-timestamp" data-t="01:52:50">[01:52:50]</a>.
+
+He emphasizes that founders have the power to set the terms by which their "beings" (companies) operate, insisting on structures that prioritize values and long-term impact over short-term financial gains <a class="yt-timestamp" data-t="02:13:03">[02:13:03]</a>. Ries encourages founders to actively seek out legal and structural advice early on, as delaying these decisions can make it impossible to implement them later <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a>.
+
+## Conclusion
+
+The [[the_significance_of_beginners_mind_in_entrepreneurship | Lean Startup]] methodology, initially a disruptive force, has seamlessly integrated into the lexicon of entrepreneurship, making its concepts seem obvious to a new generation <a class="yt-timestamp" data-t="01:16:48">[01:16:48]</a>. However, its core principles, particularly regarding MVP and pivot, are still subject to [[common_misconceptions_in_growth_strategies | common misconceptions]] that distort their true intent <a class="yt-timestamp" data-t="00:22:42">[00:22:42]</a>. Eric Ries's ongoing work extends beyond merely clarifying the methodology, calling for a deeper commitment from founders to build companies that inherently promote human flourishing and societal good, embedding these values into their very organizational structure <a class="yt-timestamp" data-t="01:38:08">[01:38:08]</a>. This, he argues, is not just an ethical imperative but also a strategic advantage in the long run.

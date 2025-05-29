@@ -1,0 +1,39 @@
+---
+title: The role of innovation and dissatisfaction with the status quo
+videoId: tq6vdDJQXvs
+---
+
+From: [[lennyspodcast]] <br/> 
+
+A builder's energy source can often be found in a profound dissatisfaction with the status quo <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This perspective views the present as the "dystopia of the future," necessitating continuous building towards progress <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. The prevailing aesthetic of sophistication often aligns with pessimism, while optimism is frequently perceived as naive or even "dumb" <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. However, some of the most powerful and unquantifiable forces in business are fun and delight <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
+
+## Challenging Conventional Wisdom
+A core principle derived from this dissatisfaction is the default inclination to avoid conventional approaches. If most people are doing something a certain way, it's often a sign to do it differently <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. To achieve world-class results, one cannot simply replicate what everyone else is doing <a class="yt-timestamp" data-t="00:31:43">[00:31:43]</a>. This isn't just an opinion but an axiom: to create something better, it must be done differently <a class="yt-timestamp" data-t="00:31:58">[00:31:58]</a>. Many business plans fail by simply trying to create "a good version of this thing that we already been doing" <a class="yt-timestamp" data-t="00:32:26">[00:32:26]</a>.
+
+## First Principles Thinking and Path Dependence
+A key aspect of this approach is thinking from first principles <a class="yt-timestamp" data-t="00:25:05">[00:25:05]</a>. This involves looking to the future and working backwards <a class="yt-timestamp" data-t="01:01:54">[01:01:54]</a>, asking what decisions today's future self would have wanted to make <a class="yt-timestamp" data-t="01:02:06">[01:02:06]</a>.
+
+The challenge with existing solutions and products is their high "path dependence" <a class="yt-timestamp" data-t="00:29:19">[00:29:19]</a>. They often incorporate compromises based on past realities that may no longer be true <a class="yt-timestamp" data-t="00:29:31">[00:29:31]</a>.
+
+Instead of adapting existing solutions, one must derive new products from first principles, considering all currently available building blocks and their composability <a class="yt-timestamp" data-t="00:30:10">[00:30:10]</a>. While sometimes a first-principles derivation might lead back to the status quo, the exercise of independent derivation is crucial; skipping it constitutes an abdication of product leadership <a class="yt-timestamp" data-t="00:31:10">[00:31:10]</a>.
+
+### Overfitting and Metrics
+A significant pitfall in business is "overfitting" <a class="yt-timestamp" data-t="00:14:12">[00:14:12]</a>, which, in a business context, is described by Goodhart's Law: "any metric that becomes a goal ceases to be a good metric" <a class="yt-timestamp" data-t="00:14:48">[00:14:48]</a>. Metrics alone cannot capture the complexity of a business <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>. Shopify, for instance, operates without specific Key Performance Indicators (KPIs) or Objectives and Key Results (OKRs) in the conventional sense, though it is extremely data-informed <a class="yt-timestamp" data-t="00:17:59">[00:17:59]</a>.
+
+The focus on the quantifiable often leads to competition in only a small portion of the value space. Approximately 80% of potential value might be unaddressable by those who only look at quantifiable things <a class="yt-timestamp" data-t="00:19:27">[00:19:27]</a>. Embracing "unquantifiable things" like taste, quality, passion, love, hate, fun, and delight is critical <a class="yt-timestamp" data-t="00:19:37">[00:19:37]</a>. If people are having fun, even if metrics are temporarily down, the metrics will eventually follow upwards <a class="yt-timestamp" data-t="00:21:39">[00:21:39]</a>.
+
+## Practical Application of First Principles Thinking
+The approach to decision-making is likened to a "pure function" in programming: rerunning the entire function over an updated state with higher fidelity information <a class="yt-timestamp" data-t="00:37:58">[00:37:58]</a>. This means re-deriving every valuable decision and foundational assumption, especially when core conditions change.
+
+For example, Shopify's decision to go entirely remote during the COVID-19 pandemic was a result of this re-derivation <a class="yt-timestamp" data-t="00:38:18">[00:38:18]</a>. The shift from an in-person company with highly optimized office spaces <a class="yt-timestamp" data-t="00:38:21">[00:38:21]</a> occurred because a fundamental assumption – "are people allowed to leave their house?" – flipped from yes to no <a class="yt-timestamp" data-t="00:39:04">[00:39:04]</a>. This invalidated the entire previous decision tree and led to a completely different optimal outcome <a class="yt-timestamp" data-t="00:39:17">[00:39:17]</a>. The existing hybrid model was already awkward <a class="yt-timestamp" data-t="00:42:23">[00:42:23]</a>, and the need to scale up due to increased e-commerce activity during the pandemic reinforced the decision to hire globally <a class="yt-timestamp" data-t="00:43:03">[00:43:03]</a>. While building a remote company is "way harder" <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>, it was the "better set of trade-offs for the future" <a class="yt-timestamp" data-t="00:43:54">[00:43:54]</a>.
+
+## Building and Maintaining this Approach
+To effectively apply first principles thinking:
+*   **Be in the details**: Deeply understand the atomic building blocks and the actual workings of what you are making decisions about <a class="yt-timestamp" data-t="00:50:07">[00:50:07]</a>. For a software company, this means being close to the code <a class="yt-timestamp" data-t="00:49:40">[00:49:40]</a>.
+*   **Avoid the sunk cost fallacy**: Be willing to abandon projects and inoculate the business from past investments if new information suggests a better path <a class="yt-timestamp" data-t="00:51:32">[00:51:32]</a>. Compressing time and making quick decisions is often more valuable than optimizing for politeness <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>.
+*   **Embrace disagreement**: Actively seek out and appreciate disagreement, as it requires courage and often reveals unstated, incorrect foundational assumptions <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>. Being wrong is a valuable learning opportunity, and it's "super unfair" to let people work on something that won't make it <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
+*   **Play the long game (Positional Game)**: While short-term "tactics" (like A/B testing minor changes) are necessary to stay afloat, the ultimate value comes from playing the "positional game" <a class="yt-timestamp" data-t="01:10:25">[01:10:25]</a>. This involves building trust, expanding territory, and making decisions that increase long-term influence and value <a class="yt-timestamp" data-t="01:11:36">[01:11:36]</a>.
+*   **Focus on the Mission**: A long-term vision, like a 100-year mission, allows focus on the enduring purpose of the company, transcending short-term software projects <a class="yt-timestamp" data-t="01:03:16">[01:03:16]</a>.
+*   **Cultivate Curiosity**: Following personal curiosity can lead to unexpected insights and opportunities, particularly at the intersection of various interests <a class="yt-timestamp" data-t="01:00:59">[01:00:59]</a>.
+
+Ultimately, the quality of a product is a direct reflection of how much the people who created it "gave a [care]" <a class="yt-timestamp" data-t="01:37:19">[01:37:19]</a>. Product leaders must be "exothermically infectious" in their passion for the product <a class="yt-timestamp" data-t="01:39:07">[01:39:07]</a>.
