@@ -1,57 +1,49 @@
 ---
-title: monetization strategies beyond ads
+title: Monetization Strategies Beyond Ads
 videoId: tImfZMhBb_k
 ---
 
 From: [[gregisenberg]] <br/> 
 
-Faceless YouTube channels are online content platforms where no visible creator is featured, often relying on voiceovers and visual content [00:00:00]. While many creators initially focus on [[strategies_for_monetizing_youtube_content | monetizing YouTube content]] through advertising revenue, a more impactful and sustainable approach involves leveraging the audience to create diverse income streams beyond ads [00:12:14].
+A faceless YouTube channel is a channel without a visible creator, typically featuring a voiceover over various visuals <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. These channels are essentially businesses that continuously produce content <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
 
-## The Flaw of Ad-Centric Monetization
+## The Problem with Ad-Only Monetization
+Many faceless channels primarily focus on generating as many views as possible to [[monetizing_blogging_and_newsletters | monetize]] through advertisements <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. However, relying solely on ad revenue means that a small change in a video's title or thumbnail can dramatically impact income, turning thousands of dollars into hundreds or tens <a class="yt-timestamp" data-t="00:24:06">[00:24:06]</a>. This approach often leads to low-quality, generic content designed to "hack the system" rather than provide value <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>, <a class="yt-timestamp" data-t="00:40:04">[00:40:04]</a>.
 
-A common mistake made by many faceless channel creators is focusing solely on maximizing views to generate ad revenue [00:00:23]. This approach often leads to a lack of specific niche selection, as the goal becomes simply "how do I get as much views as possible so I can monetize via ads" [00:12:32]. While ads can provide some income, they limit the channel's potential and often lead to lower-quality content [00:06:04].
+## The Strategic Approach: Audience, Community, Product (ACP) Funnel
+The recommended strategy for faceless channels goes beyond just ad revenue and focuses on building a business around a specific, high-impact niche <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>, <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>. The core of this strategy is the "Audience, Community, Product" (ACP) funnel <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>, <a class="yt-timestamp" data-t="00:24:24">[00:24:24]</a>:
 
-## Building Products and Communities
+1.  **Audience**: Build an audience by consistently creating valuable content in a chosen niche <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>.
+2.  **Community**: Convert that audience into a community <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>.
+3.  **Product**: Develop products or services specifically for that community <a class="yt-timestamp" data-t="00:17:23">[00:17:23]</a>.
 
-The most effective strategy for [[strategies_for_monetizing_youtube_content | monetizing YouTube content]] without relying solely on ads is to adopt an "Audience, Community, Product" (ACP) funnel approach [00:12:18]:
+This approach ensures a stronger, more sustainable business model, as the creator deeply understands their audience's needs <a class="yt-timestamp" data-t="00:23:41">[00:23:41]</a>.
 
-1.  **Build an Audience:** Create engaging, high-quality faceless content within a specific, high-value niche [00:12:39]. The emphasis should be on delivering value and entertaining viewers, rather than just chasing views [00:06:06].
-2.  **Convert to a Community:** Foster a strong community around the chosen niche or lifestyle [00:20:15]. When a channel becomes a go-to source for a particular community, the audience engagement deepens beyond casual viewing [00:23:29].
-3.  **Build a Product:** Once a loyal audience and community are established, create products or services specifically tailored to their needs and interests [00:12:23]. This allows for direct monetization and offers much higher revenue potential than ads alone [00:17:26].
+### Choosing a High-Value Niche
+Instead of seeking maximum views, the goal is to find a niche that has the potential for product creation <a class="yt-timestamp" data-t="00:12:29">[00:12:29]</a>, <a class="yt-timestamp" data-t="00:17:23">[00:17:23]</a>. Targeting "lifestyles" is particularly effective because they often have strong communities <a class="yt-timestamp" data-t="00:20:15">[00:20:15]</a>. Examples include:
+*   The anti-smartphone community <a class="yt-timestamp" data-t="00:20:34">[00:20:34]</a>
+*   The climbing community <a class="yt-timestamp" data-t="00:22:45">[00:22:45]</a>
+*   The keto diet community <a class="yt-timestamp" data-t="00:22:54">[00:22:54]</a>
+*   Specific video game lore (e.g., Elden Ring) <a class="yt-timestamp" data-t="00:25:07">[00:25:07]</a>
+
+Popular content within these niches can be identified using tools like Gummy Search, which helps discover popular topics on platforms like Reddit <a class="yt-timestamp" data-t="00:14:59">[00:14:59]</a>.
 
 ### Examples of Products and Services
+Beyond ad revenue, channels can [[strategies_for_monetizing_content_with_ai | monetize content with AI]] by offering:
+*   Selling a PDF guide on platforms like Gumroad <a class="yt-timestamp" data-t="00:24:24">[00:24:24]</a>, <a class="yt-timestamp" data-t="00:30:22">[00:30:22]</a>.
+*   Creating a paid community, for instance, on School <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>.
+*   Developing a simple SaaS application related to the niche <a class="yt-timestamp" data-t="00:30:33">[00:30:33]</a>.
+*   Utilizing Patreon, as seen with channels like Lemmino <a class="yt-timestamp" data-t="00:28:49">[00:28:49]</a>.
 
-Examples of products and services that can be built for a targeted audience include:
+This approach allows for a "media empire" to be built around specific interests without requiring the creator to be the public face <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>, <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
 
-*   **Digital Products:** Selling PDFs on platforms like Gumroad [00:24:28].
-*   **Paid Communities:** Creating exclusive communities on platforms like School [00:30:28].
-*   **Software as a Service (SaaS):** Developing simple SaaS applications [00:30:33].
+## Benefits of the Strategic Approach
+*   **Higher Earning Potential**: Focuses on converting views into products and services, leading to potentially much higher income than ads alone <a class="yt-timestamp" data-t="00:17:27">[00:17:27]</a>, <a class="yt-timestamp" data-t="00:29:08">[00:29:08]</a>.
+*   **Quality over Quantity**: Encourages creating valuable, entertaining content that stands out, rather than generic, AI-generated "crap" <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>, <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>.
+*   **Leveraging AI for Creation**: While scripts can be human-written or a mix of human and AI, tools like ChatGPT and Claude can assist in script generation <a class="yt-timestamp" data-t="00:14:51">[00:14:51]</a>. AI can also be used for image generation (e.g., DALL-E 2) <a class="yt-timestamp" data-t="00:15:51">[00:15:51]</a> and voiceovers (e.g., Eleven Labs) <a class="yt-timestamp" data-t="00:16:49">[00:16:49]</a>. This highlights [[ai_monetization_and_distribution_strategies | AI monetization and distribution strategies]] within content creation.
+*   **Personal Detachment**: For creators who prefer not to be public personalities, faceless channels offer a way to produce content and build an audience without dealing with personal trolling or criticism <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>, <a class="yt-timestamp" data-t="00:36:40">[00:36:40]</a>.
+*   **Skill Development**: Even if a channel doesn't achieve massive success, the process teaches valuable skills in audience building, [[media_and_content_strategies_for_business_growth | media and content strategies for business growth]], and using AI tools <a class="yt-timestamp" data-t="00:35:04">[00:35:04]</a>.
 
-Even a "simple" product like a PDF or a paid community can generate significant income, potentially hundreds of thousands of dollars annually on the side [00:01:49].
+> "The long-term winners here are going to be the people who put a lot of love into it and even though you're not in the videos and even though you're getting help, maybe with script writers and and doing the visuals, it's I I do think that people who can come up with really interesting concepts, find a really interesting niche, and then write well..." <a class="yt-timestamp" data-t="00:26:04">[00:26:04]</a>, <a class="yt-timestamp" data-t="00:40:25">[00:40:25]</a>
 
-### Importance of Niche Selection
-
-Selecting a high-value niche is crucial for this strategy [00:17:23]. Instead of broadly aiming for "as much views as possible," the focus should be on identifying a "most high impact Niche" [00:00:29]. Targeting specific "lifestyles" is often more effective, as they tend to have stronger communities and more engaged audiences [00:20:15]. For instance, rather than "video games" (a broad niche), a channel could focus on "Elden Ring lore" (a specific, deep niche) [00:25:27].
-
-## Content Creation Facilitated by AI
-
-The creation of faceless content can be significantly streamlined using AI tools:
-
-*   **Script Generation:** Tools like ChatGPT and Claude can assist in creating and optimizing scripts [00:14:52].
-*   **Idea Generation:** Platforms like Gummy Search can help identify popular topics and "mine for gold on Reddit" and other social platforms [00:14:59].
-*   **Image Generation:** Tools like Midjourney or DALL-E 2 can be used for creating compelling thumbnails and visuals [00:15:51].
-*   **Voiceovers:** AI voiceover services like ElevenLabs can generate narration from scripts [00:16:49].
-*   **Video Creation:** AI-powered video creation tools like Nid AI or Craiyo.ai can assemble content [00:16:03].
-*   **Optimization:** Tools like VidIQ or MrBeast's views.com can assist with keyword research and channel optimization [00:17:00].
-
-While AI can help generate content, it's vital to add human creativity, unique interpretations, and ensure the content isn't merely stolen or low-quality [00:06:02]. The goal is to create "great YouTube content" regardless of whether a face is shown [00:27:01].
-
-## Benefits of the Faceless Approach
-
-Beyond monetization, the faceless YouTube channel model offers several personal advantages:
-
-*   **Personal Detachment:** Creators can build a media presence without becoming internet personalities or exposing themselves to the challenges of public scrutiny and online trolling [00:06:27].
-*   **Focus on Content:** It allows creators to concentrate on the "art of making content" and the mechanical aspects of design and production, rather than performance [00:37:33].
-*   **Lower Risk of Failure:** If a channel doesn't succeed, the failure is less personal because the creator's face isn't directly attached to the content [00:38:03].
-
-This approach represents a "Gold Rush" opportunity, akin to starting an Instagram or YouTube account in the late 2000s, with significant potential for building an audience and generating substantial income [00:35:54].
+The creation process for a faceless channel can be surprisingly quick, potentially less than 72 hours from idea to a published video <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>. This relies on leveraging AI tools and potentially hiring freelancers from platforms like Fiverr for tasks such as scriptwriting or voiceovers <a class="yt-timestamp" data-t="00:19:54">[00:19:54]</a>.
