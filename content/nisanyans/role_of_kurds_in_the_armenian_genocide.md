@@ -1,0 +1,28 @@
+---
+title: Role of Kurds in the Armenian genocide
+videoId: ezfGJa3Infk
+---
+
+From: [[nisanyans]] <br/> 
+
+The [[Armenian Genocide | 1915 incident]] is described as the "golden strike" or the final blow of a century-long process of massacre, expulsion, usurpation, and collapse that impacted Armenians. <a class="yt-timestamp" data-t="01:34:27">[01:34:27]</a>, <a class="yt-timestamp" data-t="01:34:30">[01:34:30]</a>, <a class="yt-timestamp" data-t="01:34:33">[01:34:33]</a>, <a class="yt-timestamp" data-t="01:34:37">[01:34:37]</a>, <a class="yt-timestamp" data-t="01:34:40">[01:34:40]</a>. This [[historical_context_of_armenian_genocide | historical context]] highlights that prior to 1915, the primary oppressor of Armenians, the element that made them "tired of their lives" and flee their homeland, was the Kurdish element. <a class="yt-timestamp" data-t="01:34:53">[01:34:53]</a>, <a class="yt-timestamp" data-t="01:34:58">[01:34:58]</a>, <a class="yt-timestamp" data-t="01:35:02">[01:35:02]</a>, <a class="yt-timestamp" data-t="01:35:04">[01:35:04]</a>.
+
+## Kurdish Actions and Armenian Responses (Pre-1915)
+Kurds, under the control of tribal leaders and later sect sheikhs, specialized in violent acts against Armenians, including:
+*   Killing Armenians <a class="yt-timestamp" data-t="01:35:37">[01:35:37]</a>
+*   Seizing their daughters <a class="yt-timestamp" data-t="01:35:37">[01:35:37]</a>
+*   Usurping their property <a class="yt-timestamp" data-t="01:35:37">[01:35:37]</a>
+*   Burning their churches <a class="yt-timestamp" data-t="01:35:37">[01:35:37]</a>
+*   Beheading their priests <a class="yt-timestamp" data-t="01:35:37">[01:35:37]</a>
+
+For a long time, until the last quarter of the 19th century, Armenians consistently viewed the [[Ottoman state policies towards Armenians and Kurds | Ottoman state]] as their allies and protectors against Kurdish aggression. <a class="yt-timestamp" data-t="01:35:40">[01:35:40]</a>, <a class="yt-timestamp" data-t="01:35:43">[01:35:43]</a>, <a class="yt-timestamp" data-t="01:35:47">[01:35:47]</a>, <a class="yt-timestamp" data-t="01:35:49">[01:35:49]</a>. It was typical for Armenians to seek refuge with the Ottoman governor against attacks from Kurdish chieftains and to find security with their help. <a class="yt-timestamp" data-t="01:36:09">[01:36:09]</a>, <a class="yt-timestamp" data-t="01:36:13">[01:36:13]</a>.
+
+## Kurdish Role in the [[Armenian Genocide | 1915 Annihilation Project]]
+In 1915, the Turkish state, specifically the Union and Progress administration and the Ottoman state bureaucracy, undertook a conscious and cold-blooded decision to implement a "project of annihilation" against Armenians. <a class="yt-timestamp" data-t="01:36:26">[01:36:26]</a>, <a class="yt-timestamp" data-t="01:36:29">[01:36:29]</a>. This project aimed to completely resolve the "Armenian problem" that had plagued the Ottoman Empire for a century. <a class="yt-timestamp" data-t="01:36:40">[01:36:40]</a>, <a class="yt-timestamp" data-t="01:36:43">[01:36:43]</a>.
+
+The state utilized Kurdish lords, their networks, and the Kurdish populace as allies, helpers, and subcontractors in this process. <a class="yt-timestamp" data-t="01:36:50">[01:36:50]</a>, <a class="yt-timestamp" data-t="01:36:56">[01:36:56]</a>, <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>. This was facilitated by an existing tradition of massacre and extortion among Kurds. <a class="yt-timestamp" data-t="01:37:05">[01:37:05]</a>. The Turkish state's strategy was to effectively grant permission to Kurdish groups in the Eastern provinces to "do whatever you want" with the assurance that "the state is behind you" and that no one would be judged for their crimes. <a class="yt-timestamp" data-t="01:37:16">[01:37:16]</a>, <a class="yt-timestamp" data-t="01:37:18">[01:37:18]</a>, <a class="yt-timestamp" data-t="01:37:22">[01:37:22]</a>, <a class="yt-timestamp" data-t="01:37:24">[01:37:24]</a>, <a class="yt-timestamp" data-t="01:37:26">[01:37:26]</a>, <a class="yt-timestamp" data-t="01:37:29">[01:37:29]</a>.
+
+Studies indicate a significant hostility towards the Armenian Church, rather than just the Armenian nation, played a role. <a class="yt-timestamp" data-t="01:37:50">[01:37:50]</a>, <a class="yt-timestamp" data-t="01:37:55">[01:37:55]</a>. In the 1880s and 1890s, after the Armenian Church was abolished, Kurdish masses, having no more Armenian people to loot, property to usurp, or women to take, "came to their senses" and realized they were now face-to-face with the Turkish state, fearing destruction. <a class="yt-timestamp" data-t="01:38:01">[01:38:01]</a>, <a class="yt-timestamp" data-t="01:38:03">[01:38:03]</a>, <a class="yt-timestamp" data-t="01:38:13">[01:38:13]</a>, <a class="yt-timestamp" data-t="01:38:18">[01:38:18]</a>, <a class="yt-timestamp" data-t="01:38:20">[01:38:20]</a>, <a class="yt-timestamp" data-t="01:38:24">[01:38:24]</a>.
+
+## Modern Kurdish Perspective
+The attitude and approach of Kurds towards the Armenian issue has undergone a radical [[change_in_kurdish_perspective_on_armenian_issues | change]] in the last 20-30 years. <a class="yt-timestamp" data-t="01:38:50">[01:38:50]</a>, <a class="yt-timestamp" data-t="01:38:58">[01:38:58]</a>. The speaker considers this a positive development and hopes that Turks will also overcome their prejudices and ignorance, similar to the Kurds. <a class="yt-timestamp" data-t="01:39:20">[01:39:20]</a>, <a class="yt-timestamp" data-t="01:39:27">[01:39:27]</a>.

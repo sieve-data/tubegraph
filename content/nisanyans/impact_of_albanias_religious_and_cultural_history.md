@@ -1,0 +1,35 @@
+---
+title: Impact of Albanias religious and cultural history
+videoId: VW5RWDU4Cjg
+---
+
+From: [[nisanyans]] <br/> 
+Albania, a neighboring country, has been visited by the speaker three times in a year and a half, leading to an increasing appreciation for the nation <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. The initial prejudice against Tirana as a gloomy city permeated by the communist regime was found to be entirely inaccurate <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. Instead, Tirana is a large, complex, multi-dimensional, and crowded metropolis with modern neighborhoods, a vibrant bazaar, and a remarkable abundance of cafes <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>.
+
+### Religious and Sectarian Diversity
+Unlike Albanians in neighboring countries such as North Macedonia, Kosovo, and Montenegro, who are almost entirely Sunni Muslims, Albania itself presents a unique religious landscape <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. The Albanian people are described as a nation "divided into religions and sects in a way that can be called insoluble" <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>.
+
+While slightly more than half of the population is Muslim, this categorization is insufficient due to the significant internal divisions:
+*   **Sunni Muslims** predominately reside in the north <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>.
+*   **Bektashi Muslims** are prevalent in the south, regarded as "two separate religions" within the country <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>.
+*   A substantial **Orthodox population**, roughly 25%, exists in Southern Albania, shaped by Greek cultural influence <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
+
+### Unique National Identity
+A remarkable aspect of Albania's [[Cultural and Ethnic History in Turkey and the Surrounding Regions | cultural history]] is that religious distinction has largely ceased to be the primary element of identity, or perhaps it never was <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. This situation is unparalleled across the Balkan, Anatolian, Middle Eastern, and Caucasus regions, where religion typically serves as the fundamental determinant of identity <a class="yt-timestamp" data-t="00:06:10">[00:06:10]</a>. In Albania, despite religious differences, mixed marriages are extremely common, and cemeteries feature Christians and Muslims buried side by side <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. This societal integration is considered a "great success" <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>.
+
+### Influences on Identity Formation
+Several factors contributed to this unique national identity:
+*   **Enver Hoxha Regime (1944-1980s):** The [[Yugoslavias Political History and Legacy | Enver Hoxha]] regime, a police state, played the biggest role in overcoming religious divisions <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>. From the 1960s onward, it banned all religions, closed places of worship, and declared atheism as the state religion <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>.
+*   **Pre-WWII Secularism:** Even before the Enver Hoxha era, during the Kingdom period, there was a strong policy of secularism and an effort to forge a single Albanian nation <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
+*   **Century-Long Effort:** For approximately 100 years, Albania has made a serious effort to transcend religious differences and establish a common national identity, appearing successful at the familial level <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
+
+### Historical Figures and Movements
+*   **King Zog I (Ahmet Zogolli):** Ahmet Zogolli, a son of a Northern Albanian feudal lord and an extension of the Esat Pasha Toptani family (founders of Tirana), became King Zog I <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>. He studied at Galatasaray High School in Istanbul, entered Albanian politics after independence in 1912, serving as Prime Minister before declaring himself King <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. He ruled until 1939-1940 <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>.
+*   **Bektashi Lodge:** The speaker visited a Bektashi lodge in Southern Albania, near the Greek border, which is not mentioned in touristic sources due to its difficult access <a class="yt-timestamp" data-t="00:14:03">[00:14:03]</a>. The lodge's name, "Melani Tekkesi," raised questions about a connection to Melami thought <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>. Melamet is a radical moral theory that emerged in the 12th-13th centuries in Islamic history, emphasizing self-condemnation and humiliation to achieve true virtue, an idea found in various mystical traditions <a class="yt-timestamp" data-t="00:15:43">[00:15:43]</a>.
+
+### The Role of Albania in 20th Century Turkish History
+Understanding Albania's [[Albanian migration and influence in Trkiye | history]] is crucial for comprehending 20th-century events in Türkiye <a class="yt-timestamp" data-t="01:00:56">[01:00:56]</a>.
+*   **Ottoman Decline:** After 1878, it became evident that the Ottoman Empire would lose Rumelia <a class="yt-timestamp" data-t="01:10:23">[01:10:23]</a>.
+*   **"Reserve Turkey":** A significant question arose regarding the establishment of a "reserve Turkey" in the form of an Albanian state in the Western Balkan peninsula, a region with a Muslim majority <a class="yt-timestamp" data-t="01:10:53">[01:10:53]</a>. The idea was to create a large Muslim Albanian state to counter the loss of territories like Macedonia and Thessaloniki <a class="yt-timestamp" data-t="01:11:10">[01:11:10]</a>.
+*   **Balkan Wars Catalyst:** This possibility, particularly the desire for a "Greater Albania" encompassing modern-day Kosovo, half of North Macedonia, and parts of northern Greece <a class="yt-timestamp" data-t="01:11:44">[01:11:44]</a>, became serious by 1912. The Albanians' increasing unity and rebellion from 1910, aiming for a strong Albania separate from the Ottoman state, was the "real straw" that led to the Balkan War in 1912 <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>.
+*   **International Intervention:** Serbia and Greece allied, attacking from four sides, and with European support, partitioned Albania into a much smaller state <a class="yt-timestamp" data-t="01:12:29">[01:12:29]</a>. The core issue of 1912 was whether a powerful Albanian Muslim state would emerge or if Albania would be fragmented to prevent future problems <a class="yt-timestamp" data-t="01:13:34">[01:13:34]</a>. Ultimately, both Albania and Bulgaria were reduced in size, eliminating these perceived dangers <a class="yt-timestamp" data-t="01:13:45">[01:13:45]</a>.

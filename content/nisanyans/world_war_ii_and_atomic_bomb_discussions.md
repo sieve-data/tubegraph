@@ -1,0 +1,32 @@
+---
+title: World War II and Atomic Bomb Discussions
+videoId: WZLCAoDFz_o
+---
+
+From: [[nisanyans]] <br/> 
+
+The Oppenheimer film and its themes prompt a discussion on the atomic bomb, the political responsibility of scientists, and whether the atomic bomb represents the most significant discovery in political history <a class="yt-timestamp" data-t="01:30">[01:30]</a>. Questions are raised about the morality of inventing such a weapon and the consequences it entails <a class="yt-timestamp" data-t="02:15">[02:15]</a>.
+
+## The Nature of War and Moral Impasses
+
+War is fundamentally an immoral undertaking <a class="yt-timestamp" data-t="02:30">[02:30]</a>. During wartime, societal moral measures and conscience are eliminated, transforming individuals into animals <a class="yt-timestamp" data-t="02:51">[02:51]</a>. War presents basic moral impasses: if one side does not kill, the other side will <a class="yt-timestamp" data-t="03:01">[03:01]</a>. Furthermore, if massive destruction is not inflicted to shorten a conflict, the war will prolong, leading to more deaths <a class="yt-timestamp" data-t="03:23">[03:23]</a>. Recent conflicts, such as the war in Ukraine, demonstrate an escalation of savagery driven by irrational hatred <a class="yt-timestamp" data-t="03:37">[03:37]</a>.
+
+## Dropping the Atomic Bombs on Japan
+
+The decision to drop two atomic bombs on Japan during [[World War I and the Ottoman Empire | World War II]] was "terrible" <a class="yt-timestamp" data-t="03:59">[03:59]</a>. However, this decision should not be judged by the moral standards of normal peacetime <a class="yt-timestamp" data-t="04:10">[04:10]</a>. During [[World War I and the Ottoman Empire | World War II]], both sides aimed to massively impact each other without significant distinction between civilians and soldiers <a class="yt-timestamp" data-t="04:35">[04:35]</a>, making the difference between killing a thousand or a hundred thousand a "difference of degree" <a class="yt-timestamp" data-t="04:54">[04:54]</a>.
+
+### American Justification
+
+The American argument for using the atomic bomb was that Japan had no intention of surrendering despite being defeated <a class="yt-timestamp" data-t="05:06">[05:06]</a>. A conventional land invasion of the Japanese main islands would result in significant casualties for both Japanese and American soldiers <a class="yt-timestamp" data-t="05:24">[05:24]</a>. The atomic bombs were presented as the quickest way to end the war, leading to Japan's surrender within three days of detonation <a class="yt-timestamp" data-t="05:37">[05:37]</a>. From this perspective, the dropping of the atomic bomb, which ended the war, could be seen as a "peace initiative" <a class="yt-timestamp" data-t="05:43">[05:43]</a>.
+
+### Additional Motivations
+
+Beyond ending the war, two additional reasons for deploying the atomic bombs have become clearer, especially after watching the Oppenheimer film <a class="yt-timestamp" data-t="06:03">[06:03]</a>:
+
+1.  **Intimidating the Soviet Union**: The United States and the Soviet Union were allies during [[World War I and the Ottoman Empire | World War II]] <a class="yt-timestamp" data-t="06:15">[06:15]</a>. However, American strategists anticipated a future confrontation between the two powers <a class="yt-timestamp" data-t="06:33">[06:33]</a>. After Germany's defeat in April 1945, Soviet armies were redirected eastward <a class="yt-timestamp" data-t="06:57">[06:57]</a>. The US, having fought Japan for two years and broken their dominance in the Pacific, expected the Soviets to demand a share of the post-war spoils in Asia <a class="yt-timestamp" data-t="07:07">[07:07]</a>. The Soviets had already occupied the Kuril Islands, and their argument for a share was considered valid given their sacrifices against Germany <a class="yt-timestamp" data-t="07:38">[07:38]</a>. The desire for Japan to surrender quickly and specifically to the Americans aimed to prevent Soviet involvement <a class="yt-timestamp" data-t="08:47">[08:47]</a>. This dynamic later contributed to the [[Conflict and diplomacy in Eastern Europe and the role of NATO | Korean War]] <a class="yt-timestamp" data-t="08:27">[08:27]</a>.
+
+2.  **Justifying the Enormous Investment**: The development of the nuclear bomb involved an "incredible investment" by the United States <a class="yt-timestamp" data-t="09:15">[09:15]</a>. The theoretical concept emerged in 1938-39 <a class="yt-timestamp" data-t="09:18">[09:18]</a>. This included establishing a research city, mobilizing leading physicists and chemists, and recruiting talent from Germany <a class="yt-timestamp" data-t="09:32">[09:32]</a>. The bomb was completed only at the very end of the war, too late for its initial intended use against Germany <a class="yt-timestamp" data-t="09:58">[09:58]</a>. From the perspective of the developers and industrialists, this massive effort and investment would be wasted if the bomb were not used <a class="yt-timestamp" data-t="10:36">[10:36]</a>. The aim was to establish the US as the sole nuclear power for a significant period <a class="yt-timestamp" data-t="11:13">[11:13]</a>, reinforcing a "vision of dominating the world" <a class="yt-timestamp" data-t="11:32">[11:32]</a>, a significant concept in the "American Spirit and American psychology" <a class="yt-timestamp" data-t="11:42">[11:42]</a>. To prove the devastating capacity of this new weapon, it had to be demonstrated, not just explained <a class="yt-timestamp" data-t="11:57">[11:57]</a>.
+
+## J. Robert Oppenheimer's Character
+
+Oppenheimer is portrayed as a "defective person," extraordinarily intelligent but also possessing sociopathic characteristics, struggling to adapt to society <a class="yt-timestamp" data-t="12:39">[12:39]</a>. Like many German-origin intellectuals of the 1930s, he had leanings towards socialism and Marxism, and relations with the Communist Party in his youth <a class="yt-timestamp" data-t="12:54">[12:54]</a>. Despite this background, in 1945, he strongly advocated for dropping the bomb <a class="yt-timestamp" data-t="13:54">[13:54]</a>. However, after the war, he deeply regretted his stance and attempted to challenge the American state, resulting in his downfall <a class="yt-timestamp" data-t="14:01">[14:01]</a>.

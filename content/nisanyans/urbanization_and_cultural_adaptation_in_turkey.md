@@ -1,0 +1,40 @@
+---
+title: Urbanization and cultural adaptation in Turkey
+videoId: fsVHdwGb9g0
+---
+
+From: [[nisanyans]] <br/> 
+
+In [[development_and_changes_in_modern_turkey | Türkiye]], significant social and cultural shifts have accompanied urbanization, leading to debates about societal decorum and the role of education <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. While the majority of the population is not considered peasants (with the peasant population having fallen below 20%) <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>, and the people of [[cultural_and_ethnic_history_in_turkey_and_the_surrounding_regions | Turkey]] are generally seen as well-mannered by world standards <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>, challenges persist.
+
+## Challenges of Urbanization and Social Conduct
+
+One key issue arising from [[development_and_changes_in_modern_turkey | urbanization]] is the difficulty for those from village cultures to adapt to city culture in newly urbanized areas <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. This adaptation problem is exacerbated by the behavior of the "nouveau riche" middle class, who are described as "extremely uncouth" <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+
+However, the primary fault for these challenges is not attributed to those with village roots. Instead, it lies with the moral and cultural decay of the elite class, which is seen as failing in its mission to guide the country, present ideals, and serve as an example <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+
+## The Problem of Elite Education in [[social_and_cultural_dynamics_in_trkiye | Türkiye]]
+
+The fundamental problem in [[social_and_cultural_dynamics_in_trkiye | Türkiye]] is identified as the poor education of its educated classes <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. The Republic of [[cultural_and_ethnic_history_in_turkey_and_the_surrounding_regions | Turkey]] has largely failed to establish a proper elite education system, which is considered its biggest defeat in education <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+
+While the Republic succeeded in providing basic education to large masses, particularly after 1950 by opening primary schools in every village <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>, a society requires more than just minimum education for all <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>. It needs an elite group to lead and shape its intellectual landscape <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
+
+Historically, the only opportunities for elite education in [[historical_perspectives_and_cultural_heritage_of_turkey | Türkiye]] were a few select schools established during the Ottoman period, many by foreign entities (e.g., Robert College, Saint Joseph, Galatasaray High School, German High School) <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. The Republic did not foster their development; instead, their numbers and budgets dwindled, limiting their scope <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>. Consequently, the number and quality of seriously educated, world-class individuals in [[development_and_changes_in_modern_turkey | Türkiye]] have decreased <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. Currently, world-class education is mostly accessible only to a small, fortunate minority who can study abroad <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
+
+Those educated abroad often find themselves alienated and unable to easily adapt to conditions in [[cultural_and_ethnic_history_in_turkey_and_the_surrounding_regions | Türkiye]] <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>, preventing them from taking on leadership roles <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. Meanwhile, the domestic education system is described as a "stupid brainwashing program" designed to produce civil servants who "bow down" <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
+
+## The Search for Guidance and the Knowledge Gap
+
+The lack of a proper elite education system has resulted in [[cultural_transformation_in_the_middle_east_turkey_and_iran | Türkiye]] failing to create a modern elite class capable of guiding the common people <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. Despite this, the Anatolian people have a profound respect for scholars and a continuous search for wise and cultured individuals <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. They show great importance to knowledge and listen intently to those they consider teachers <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>.
+
+When the "westernized" elite cannot provide this intellectual service, the common people turn to religious figures like teachers and pilgrims (`Hacı Hacı`) for guidance <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. However, elite religious education has also been hindered in the history of the Republic of [[historical_perspectives_and_cultural_heritage_of_turkey | Turkey]], leading to a significant decline in the quality of Islamic religious experts compared to the late 19th century <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>. This decline is attributed to the education system rather than the individuals themselves <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>.
+
+### Public Thirst for Knowledge
+
+There is a profound thirst for knowledge among the public, particularly on fundamental issues like religion <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>. People are eager to listen to complex ideas, including atheism, if presented seriously and lovingly <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. They also show great curiosity about the universe, existence, and [[historical_perspectives_and_cultural_heritage_of_turkey | Turkish]] history, social structure, and controversial topics like the Armenian Genocide, the Kurdish issue, and the Syrian issue <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. This widespread hunger for knowledge in [[social_and_cultural_dynamics_in_trkiye | Türkiye]] remains largely unsatisfied <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
+
+## The "Half-Educated" Segment
+
+A significant challenge in [[social_and_cultural_dynamics_in_trkiye | Türkiye]] is the "ignorance and moral degradation of the half-educated Turks," particularly those who consider themselves "white" <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>. This segment, estimated at one to two million people, is described as a "scourge" on [[cultural_evolution_in_anatolia | Türkiye]] morally and culturally <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>. They are characterized by a lack of social responsibility, a tendency to prioritize self-gain ("always me, let me take") <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>, and are considered "dirty" <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>. Again, their shortcomings are attributed to their flawed education, as there is no system in [[modernization_efforts_in_turkish_history | Türkiye]] focused on guiding people <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+
+Above this group, there is an even smaller "real elite" of about 50,000 people <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a>. However, they are described as "terribly alien" to [[social_and_cultural_dynamics_in_trkiye | Turkish]] society, with their primary hope being to leave [[cultural_and_ethnic_history_in_turkey_and_the_surrounding_regions | Türkiye]] as soon as possible, often trying to send their children abroad <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>. This trend is considered a significant tragedy for the country <a class="yt-timestamp" data-t="00:10:53">[00:10:53]</a>.

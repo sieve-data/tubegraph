@@ -1,0 +1,59 @@
+---
+title: Cultural and linguistic history of Anatolia
+videoId: DyNslhYRQ-0
+---
+
+From: [[nisanyans]] <br/> 
+
+The cultural and linguistic landscape of Anatolia has been shaped by centuries of complex interactions, political shifts, and evolving societal norms. This region, a crossroads of civilizations, reflects a rich tapestry of identities and historical developments.
+
+## Historical Linguistic Dynamics
+
+In the 13th century, a significant portion of the Muslim population in major Anatolian urban centers used Persian as a primary language, particularly in formal contexts <a class="yt-timestamp" data-t="01:24:01">[01:24:01]</a>. However, this did not necessarily mean Persian was their mother tongue. Instead, it was a period of diglossia, where people commonly used two languages: a "home language" or "women's language" and a "market language" or "men's language" <a class="yt-timestamp" data-t="01:24:40">[01:24:40]</a>. This phenomenon, known as diglossia, is widespread globally, where individuals are proficient in multiple languages from childhood <a class="yt-timestamp" data-t="01:25:15">[01:25:15]</a>.
+
+In 13th-century Anatolia, Persian served as the state language, the language of trade, poetry, religious sects, and writing <a class="yt-timestamp" data-t="01:27:07">[01:27:07]</a>. Turkish, on the other hand, was the "lower language"—the language of the home and informal relationships <a class="yt-timestamp" data-t="01:27:44">[01:27:44]</a>.
+
+A profound shift occurred between 1305 and 1320, when Persian, the language of political sovereignty, was rapidly abandoned as a cultural language <a class="yt-timestamp" data-t="01:28:42">[01:28:42]</a>. This change was not confined to Anatolia but spanned a vast geography from Anatolia to the Kipchak regions, including Crimea, north of the Caspian Sea, Central Asia, Samarkand, Bukhara, and Tabriz <a class="yt-timestamp" data-t="01:28:51">[01:28:51]</a>. Suddenly, people began writing in Turkish, translating Persian classics, and producing numerous Turkish texts, especially on Sufism, as well as popular tales, novels, and poems <a class="yt-timestamp" data-t="01:29:15">[01:29:15]</a>. This rapid linguistic and cultural transformation was a "political revolution" linked to the collapse of the Ilkhanate (Mongol) state <a class="yt-timestamp" data-t="01:29:46">[01:29:46]</a>. This event led to Turkish emerging as a significant new cultural language across the former Persian-dominated cultural area <a class="yt-timestamp" data-t="01:30:54">[01:30:54]</a>.
+
+## Cultural and Ethnic Dynamics in Modern Turkey
+
+### Kurdish and Alevi Identities
+
+The Turkish state, particularly its governing cadres, has historically held a "genetic memory" or instinct that views Alevis and Kurds with distrust <a class="yt-timestamp" data-t="00:42:49">[00:42:49]</a> <a class="yt-timestamp" data-t="00:42:57">[00:42:57]</a>. This perception stems from historical conflicts:
+*   Alevis have faced consistent suppression and intimidation by the Ottoman Empire and its successor, the Republic of Turkey, for over 500 years <a class="yt-timestamp" data-t="00:42:02">[00:42:02]</a> <a class="yt-timestamp" data-t="00:42:14">[00:42:14]</a>.
+*   Sunni Kurds were allies of the Ottoman Empire while Armenians were present, but once Armenians were removed, conflicts between Kurds and Turks began <a class="yt-timestamp" data-t="00:42:22">[00:42:22]</a> <a class="yt-timestamp" data-t="00:42:30">[00:42:30]</a>.
+
+This perspective leads to a policy of excluding a significant portion of the population by labeling them as "enemies of the state" <a class="yt-timestamp" data-t="00:44:18">[00:44:18]</a>. This policy has led to restrictions on fundamental rights and freedoms, reliance on authoritarian rule, and even periodic coups <a class="yt-timestamp" data-t="00:44:28">[00:44:28]</a> <a class="yt-timestamp" data-t="00:44:37">[00:44:37]</a>. While framed from the state's traditional perspective, such policies are seen as outdated and detrimental to the country's overall level of civilization <a class="yt-timestamp" data-t="00:44:14">[00:44:14]</a> <a class="yt-timestamp" data-t="00:44:53">[00:44:53]</a>.
+
+The Turkish state has traditionally not allowed individuals who emphasize their Kurdish identity to hold significant public office <a class="yt-timestamp" data-t="00:40:55">[00:40:55]</a>. For example, Turgut Özal became president by downplaying his Kurdish background and consistently demonstrating loyalty to the state, Turkishness, and Islam <a class="yt-timestamp" data-t="00:39:36">[00:39:36]</a> <a class="yt-timestamp" data-t="00:39:55">[00:39:55]</a>. However, there has been a strong presence of individuals of Kurdish origin in key government positions since the first Tayyip Erdoğan administration, provided they do not highlight their collective Kurdish identity <a class="yt-timestamp" data-t="00:40:05">[00:40:05]</a> <a class="yt-timestamp" data-t="00:40:31">[00:40:31]</a>.
+
+Demographically, the Kurdish population in Turkey continues to increase rapidly, while the Turkish population is decreasing, with birth rates falling below 2 <a class="yt-timestamp" data-t="01:17:39">[01:17:39]</a> <a class="yt-timestamp" data-t="01:17:45">[01:17:45]</a>. This trend suggests that in the long term (e.g., 20-30 years), Kurds could significantly influence or even "dominate" the country, as they are strongly integrating into all areas of politics and economy <a class="yt-timestamp" data-t="01:17:12">[01:17:12]</a> <a class="yt-timestamp" data-t="01:17:33">[01:17:33]</a>.
+
+### [[Impact of historical migrations and cultural changes in Anatolia | Historical Context and Analysis of Turkish Literature and Culture]]
+
+The [[Impact of historical migrations and cultural changes in Anatolia | Anonsorix Expedition]] (1895-1897) is a notable event in [[cultural_and_ethnic_history_in_turkey_and_the_surrounding_regions | Kurdish]] and [[cultural_and_ethnic_history_in_turkey_and_the_surrounding_regions | Armenian]] history within Anatolia. In 1895, a Kurdish tribe in Van's Başkale district raided Armenian villages, seizing property and people with the "approval and support of the Turkish state" <a class="yt-timestamp" data-t="01:19:39">[01:19:39]</a> <a class="yt-timestamp" data-t="01:19:54">[01:19:54]</a>. Two years later, Dashnak Fedayi guerrillas retaliated, annihilating the entire tribe <a class="yt-timestamp" data-t="02:00:04">[02:00:04]</a> <a class="yt-timestamp" data-t="01:20:17">[01:20:17]</a>. This incident is celebrated by the Dashnak movement as their only significant military success <a class="yt-timestamp" data-t="01:20:34">[01:20:34]</a>.
+
+### Place Names and Identity
+
+Many regions in Turkey exhibit dual naming conventions, reflecting historical administrative shifts and the merging of principality names with capital city names <a class="yt-timestamp" data-t="01:13:22">[01:13:22]</a>. Examples include:
+*   **Bozok and Yozgat:** Bozok was an older administrative unit, likely referring to the region before Yozgat became its capital and later the province's name <a class="yt-timestamp" data-t="01:12:48">[01:12:48]</a>. The Çapanoğlu family, a dynasty, established an independent state in Bozok, making Yozgat their capital <a class="yt-timestamp" data-t="01:12:17">[01:12:17]</a> <a class="yt-timestamp" data-t="01:12:42">[01:12:42]</a>.
+*   **Menteşe and Muğla:** Menteşe was the name of the southwestern tip of Turkey, with Muğla as its capital; Muğla became the province name <a class="yt-timestamp" data-t="01:13:28">[01:13:28]</a>.
+*   **Saruhan and Manisa:** Saruhan referred to the area behind Izmir, with Manisa as its capital; Saruhan was replaced by Manisa as the province name <a class="yt-timestamp" data-t="01:13:41">[01:13:41]</a>.
+*   **Çapakçur and Bingöl:** Çapakçur was the city name, while Bingöl was the name of the mountain region, which became the province name <a class="yt-timestamp" data-t="01:14:52">[01:14:52]</a>.
+*   **Hakkari:** This name refers to both an administrative region and a principality <a class="yt-timestamp" data-t="01:15:06">[01:15:06]</a>.
+
+### Population Exchange
+
+The population exchange is described as "one of the biggest murders that can be done to a country and humanity" and a "shameful thing" and "crime" <a class="yt-timestamp" data-t="01:16:09">[01:16:09]</a> <a class="yt-timestamp" data-t="01:16:17">[01:16:17]</a> <a class="yt-timestamp" data-t="01:16:19">[01:16:19]</a>.
+
+## Islamic Civilization and Art in Anatolia
+
+Islamic civilization, including that in Anatolia, lagged significantly in figurative painting and sculpture <a class="yt-timestamp" data-t="01:31:50">[01:31:50]</a>. This is primarily attributed to a prohibition against worshipping images, a strict interpretation that hindered the development of these art forms <a class="yt-timestamp" data-t="01:31:50">[01:31:50]</a> <a class="yt-timestamp" data-t="01:32:03">[01:32:03]</a>. Unlike Christianity, which, despite initial bans, eventually allowed the continuation of artistic expression through icons and church decorations, Islam maintained a more absolute stance against figurative art <a class="yt-timestamp" data-t="01:33:55">[01:33:55]</a> <a class="yt-timestamp" data-t="01:34:09">[01:34:09]</a> <a class="yt-timestamp" data-t="01:34:43">[01:34:43]</a>. The Western world also saw a decline in painting until the 13th century, with a significant revival during the Renaissance in the 15th century, driven by a "Neo-paganism" that challenged religious prohibitions and embraced more realistic and idolatrous art forms <a class="yt-timestamp" data-t="01:35:11">[01:35:11]</a> <a class="yt-timestamp" data-t="01:35:57">[01:35:57]</a>. Islam, however, never experienced a similar "Neo-paganism" <a class="yt-timestamp" data-t="01:36:48">[01:36:48]</a>.
+
+## Current Geopolitical Context (Turkey)
+
+Turkey's current foreign policy, particularly its "drifting away from the Western alliance," is seen as a "rational," "correct," and "smart policy" rather than a mere deviation by its current leader <a class="yt-timestamp" data-t="00:57:44">[00:57:44]</a> <a class="yt-timestamp" data-t="00:57:54">[00:57:54]</a> <a class="yt-timestamp" data-t="00:57:58">[00:57:58]</a>. The rationale is to leave a "sinking ship" (the West) to secure its future <a class="yt-timestamp" data-t="00:58:06">[00:58:06]</a>. This is partly due to the West's financial exhaustion and Turkey's opportunities with countries like China, Saudi Arabia, Russia, and Qatar, which offer significant economic prospects <a class="yt-timestamp" data-t="00:59:04">[00:59:04]</a> <a class="yt-timestamp" data-t="00:59:17">[00:59:17]</a>.
+
+A major recent development is the Saudi-Iran rapprochement, mediated by China, which is considered a "final blow to American hegemony in the Middle East" and a "revolutionary event" <a class="yt-timestamp" data-t="01:19:56">[01:19:56]</a> <a class="yt-timestamp" data-t="01:20:52">[01:20:52]</a>. This alliance combines Saudi Arabia's financial power with Iran's population, social cohesion, and military technology <a class="yt-timestamp" data-t="01:20:07">[01:20:07]</a>. This rapprochement will provide Iran with financial resources and trade access, radically changing the balance of power <a class="yt-timestamp" data-t="01:21:58">[01:21:58]</a>.
+
+Efforts are also underway to create a major trade and transportation route that divides Asia, starting from China and reaching Europe via Iran, Pakistan, Afghanistan, Uzbekistan, and Kyrgyzstan <a class="yt-timestamp" data-t="01:22:37">[01:22:37]</a>. Turkey, given its indispensable geographical location on this potential route, faces the question of how long it can resist or if it will join this emerging alliance <a class="yt-timestamp" data-t="01:23:17">[01:23:17]</a> <a class="yt-timestamp" data-t="01:23:31">[01:23:31]</a>.

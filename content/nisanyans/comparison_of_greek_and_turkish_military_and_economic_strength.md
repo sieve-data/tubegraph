@@ -1,0 +1,33 @@
+---
+title: Comparison of Greek and Turkish military and economic strength
+videoId: 7c__HQYg6rs
+---
+
+From: [[nisanyans]] <br/> 
+
+During the period of the Turkish War of Independence (1919-1922), there were significant disparities in inherent military, economic, and demographic strengths between Greece and the re-emerging Turkish national movement, which ultimately influenced the outcome of prolonged conflict.
+
+## Initial Context of Greek Operations
+Initially, the international platform promised Greece only the province of Izmir and the district of Ayvalık <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>. Greek troops were landed in Izmir and Ayvalık primarily to provide a safe haven for Greek refugees deported by Turks from the Aegean Region, and for maintaining public order <a class="yt-timestamp" data-t="01:49:00">[01:49:00]</a><a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>. This was conceived as a police operation, not an annexation, and they did not raise their own flags in these cities <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a><a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>.
+
+The initial Greek military operations, especially the two large waves in 1920 and 1921 that extended beyond Izmir to places like Nazilli, Bursa, Aydın, and reached the Sakarya River, were not aimed at annexing these territories to Greece <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a><a class="yt-timestamp" data-t="03:58:00">[03:58:00]</a><a class="yt-timestamp" data-t="04:19:00">[04:19:00]</a>. Instead, these operations were punitive, intended to force the Ankara government to accept the [[Consequences of Treaty of Sevres on GreekTurkish relations | Treaty of Sevres]] or its renegotiated versions, or to eliminate the Ankara government entirely and deal directly with Istanbul <a class="yt-timestamp" data-t="04:22:00">[04:22:00]</a><a class="yt-timestamp" data-t="04:49:00">[04:49:00]</a><a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>. The [[Consequences of Treaty of Sevres on GreekTurkish relations | Treaty of Sevres]] itself was seen as a "stillborn treaty" and a "bargaining document" <a class="yt-timestamp" data-t="05:36:00">[05:36:00]</a><a class="yt-timestamp" data-t="05:44:00">[05:44:00]</a>.
+
+## Demographic and Economic Strength
+In terms of fundamental resources for a prolonged conflict, Turkey held a significant advantage:
+*   **Population**: Turkey's population at the time was approximately 4 to 5 times larger than Greece's <a class="yt-timestamp" data-t="09:55:00">[09:55:00]</a><a class="yt-timestamp" data-t="09:58:00">[09:58:00]</a>.
+*   **Economy**: Turkey's economy was at least three times larger than Greece's <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a><a class="yt-timestamp" data-t="10:02:00">[10:02:00]</a>.
+*   **Local Support**: The political population in the Aegean Region, where much of the conflict took place, was overwhelmingly Turkish <a class="yt-timestamp" data-t="11:22:00">[11:22:00]</a><a class="yt-timestamp" data-t="11:28:00">[11:28:00]</a>.
+
+## Military Capacity and Tradition
+While the Greek army and the re-established Turkish Grand National Assembly (TBMM) army were roughly equal in terms of soldier numbers in 1922 (around 190,000-200,000 mutually) <a class="yt-timestamp" data-t="09:32:00">[09:32:00]</a><a class="yt-timestamp" data-t="09:45:00">[09:45:00]</a><a class="yt-timestamp" data-t="09:48:00">[09:48:00]</a>, long-term sustainability favored Turkey:
+*   **War Tradition**: The Turkish army possessed a "war tradition, a weapon tradition that goes back centuries" <a class="yt-timestamp" data-t="10:41:00">[10:41:00]</a>.
+*   **Sustainability**: In a long-term war, different from a short-term conflict, the larger economic and demographic base would inevitably lead to victory. It was considered an "infallible rule" that Greece had no chance of winning a war against Turkey that lasted longer than 1-2 years <a class="yt-timestamp" data-t="10:12:00">[10:12:00]</a><a class="yt-timestamp" data-t="10:25:00">[10:25:00]</a><a class="yt-timestamp" data-t="10:33:00">[10:33:00]</a>.
+
+## Administrative and Political Organization
+Turkey also held an advantage in its administrative and political structures:
+*   **Administrative Class**: Turkey possessed an "extremely developed, even more developed, administrative class than the Greeks" <a class="yt-timestamp" data-t="07:12:00">[07:12:00]</a>. This class included officers, graduates of military and civil service academies, former governors, ministers, journalists, columnists, and university professors <a class="yt-timestamp" data-t="07:18:00">[07:18:00]</a><a class="yt-timestamp" data-t="07:23:00">[07:23:00]</a><a class="yt-timestamp" data-t="07:26:00">[07:26:00]</a>.
+*   **National Resolve**: Even if defeated militarily, the Turkish people, constituting the overwhelming majority of the country's population, would not remain passive, instead engaging in "struggle" through economic, social, political, propaganda, and organizational means <a class="yt-timestamp" data-t="06:56:00">[06:56:00]</a><a class="yt-timestamp" data-t="07:02:00">[07:02:00]</a><a class="yt-timestamp" data-t="07:37:00">[07:37:00]</a><a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a><a class="yt-timestamp" data-t="07:52:00">[07:52:00]</a>.
+*   **Greek Political Fragmentation**: In contrast, Greek politics was characterized by internal divisions, where "if two people come together, at least 3 political parties are born" <a class="yt-timestamp" data-t="10:53:00">[10:53:00]</a>.
+
+## International Awareness
+The British and French, along with the rest of the world, were aware of these underlying realities. They knew that once the conflict prolonged and became a frontal war, especially after the Battle of Sakarya, Greece had no chance of ultimate victory without sustained, strong external support (weapons, equipment, financial) from powers like England, especially if they failed to quickly disband the unorganized Ankara government in the initial phase <a class="yt-timestamp" data-t="11:11:00">[11:11:00]</a><a class="yt-timestamp" data-t="11:37:00">[11:37:00]</a><a class="yt-timestamp" data-t="11:46:00">[11:46:00]</a><a class="yt-timestamp" data-t="11:54:00">[11:54:00]</a><a class="yt-timestamp" data-t="12:03:00">[12:03:00]</a><a class="yt-timestamp" data-t="12:09:00">[12:09:00]</a><a class="yt-timestamp" data-t="12:14:00">[12:14:00]</a>.

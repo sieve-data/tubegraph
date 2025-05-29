@@ -1,0 +1,36 @@
+---
+title: Influence of Western countries on global conflicts
+videoId: CtGazBFlUNY
+---
+
+From: [[nisanyans]] <br/> 
+
+Western countries, particularly the United States and its allies, play a significant role in global conflicts through various forms of intervention and policy decisions. This influence extends from direct military and political support to economic strategies and historical precedents.
+
+## Role in the Israel-Palestine Conflict
+
+Western countries have shown strong and unwavering support for the State of Israel. It is noted that [[western_intervention_in_nonwestern_countries | Western countries]] currently support and encourage the state of Israel "by 10000%" <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. This stance has been "determined and uncompromising" since 1945 or 1917 <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>. The question arises whether this policy was adopted willingly or under certain obligations <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
+
+Despite official state support, public opinion within Western countries has shown an "unprecedented rate" of opposition to their own governments' policies regarding the conflict <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. In response, countries like England, France, and Germany have reportedly banned pro-Palestine demonstrations <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. Globally, especially on social media, pro-Palestinian messages outnumber pro-Israeli ones significantly, with TikTok showing a 15-fold difference <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
+
+The speaker expresses doubt about the long-term ability of Western states to maintain their determination in supporting Israel <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>, especially given widespread international condemnation from various regions, including the Islamic world, Africa, Latin America, Russia, and China <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. Arab states, it is observed, tend to follow America's orders despite verbal condemnations <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>.
+
+## Influence on the [[impact_of_the_ukraine_war_on_global_politics | Ukraine War]]
+
+The [[western_involvement_in_the_ukraine_war | Ukraine War]] is seen as "quietly approaching its end" <a class="yt-timestamp" data-t="00:31:22">[00:31:22]</a>, with the Western alliance managers reportedly giving ultimatums to Ukraine's leadership, indicating the war is lost <a class="yt-timestamp" data-t="00:31:30">[00:31:30]</a>. It is anticipated that Ukraine will have to accept territorial losses <a class="yt-timestamp" data-t="00:32:03">[00:32:03]</a>. The speaker suggests that Russia will likely not accept any ceasefire or peace offer <a class="yt-timestamp" data-t="00:32:27">[00:32:27]</a> and may aim to eliminate the Ukrainian state or secure significant territorial concessions and demilitarization, including a new regime under Russian auspices <a class="yt-timestamp" data-t="00:33:08">[00:33:08]</a>. Additionally, Russia may demand the demilitarization of the Baltic Republics (Estonia, Latvia, Lithuania), requiring NATO to withdraw military units and facilities from these countries <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>.
+
+The speaker questions the future of the North Atlantic Alliance (NATO) after the "fiasco in Ukraine," suggesting its continued existence would be a surprise <a class="yt-timestamp" data-t="00:37:38">[00:37:38]</a>. It is noted that NATO has been conspicuously quiet on the Israel-Palestine conflict, with America and England acting independently <a class="yt-timestamp" data-t="00:38:04">[00:38:04]</a>. This could be due to Turkey's ability to veto NATO decisions, given its contradictory stance on the conflict <a class="yt-timestamp" data-t="00:38:40">[00:38:40]</a>.
+
+## Broader Geopolitical Context
+
+The actual [[modern_geopolitical_conflicts_and_alliances | global conflict]] is identified as a "global hegemony war" waged by America and its allies against a worldwide counter-hegemony led by Russia and China <a class="yt-timestamp" data-t="00:30:50">[00:30:50]</a>. The speaker believes that the United States is currently the "biggest trouble in the world" and trusts Russia as the only power capable of challenging this dominance <a class="yt-timestamp" data-t="02:27:26">[02:27:26]</a>.
+
+Historically, the influence of Western states has evolved. In the 17th and 18th centuries, mercantilism saw states supporting citizens in plundering other regions to gain a share of trade income <a class="yt-timestamp" data-t="00:54:27">[00:54:27]</a>. The 19th century saw states encouraging industrial investments abroad to boost tax revenue <a class="yt-timestamp" data-t="00:55:04">[00:55:04]</a>. By the 20th century, the state's direct involvement in industrial and commercial investments became pervasive, described as spreading "like a cancer" <a class="yt-timestamp" data-t="00:56:43">[00:56:43]</a>.
+
+A key factor in the decline of Western civilization and culture since [[influence_of_historical_events_on_modern_politics | 1945]] is seen in the rise of centralized states and a Western civilization area governed from a single center <a class="yt-timestamp" data-t="01:01:46">[01:01:46]</a>. The increasing power of US military and intelligence institutions has led to a lack of "room to breathe" for countries considered "colonies of America," limiting freedom even in ostensibly free areas <a class="yt-timestamp" data-t="01:02:37">[01:02:37]</a>. The elimination of national banking system autonomy in the 2000s, even in countries like Switzerland, is cited as an example of this centralization <a class="yt-timestamp" data-t="01:03:31">[01:03:31]</a>.
+
+The speaker suggests that a "revolution" in the 21st century must be global, aiming to break American hegemony and any potential replacement through war if necessary <a class="yt-timestamp" data-t="01:04:21">[01:04:21]</a>. The [[impact_of_geopolitical_events_on_global_powers | Ukraine War]] is seen as the start of this "great revolution," possibly continuing in Palestine and Iran <a class="yt-timestamp" data-t="01:04:57">[01:04:57]</a>.
+
+## Historical Examples of Western Interference
+
+Historical events, such as the attack on Pearl Harbor, are analyzed for evidence of Western states creating pretexts for war. The widely accepted view is that the American administration knew about the Japanese attack on Pearl Harbor in advance but took no precautions <a class="yt-timestamp" data-t="01:14:40">[01:14:40]</a>. This was to change American public opinion, which was strongly against entering World War I, and to justify entering the war against Japan and Germany <a class="yt-timestamp" data-t="01:15:00">[01:15:00]</a>. Similarly, the Gulf of Tonkin incident, which led to the Vietnam War, later revealed that the US government ordered the sinking of its own ship to create an excuse for war <a class="yt-timestamp" data-t="01:16:13">[01:16:13]</a>. Such actions are considered "standard procedure for states" to initiate conflicts <a class="yt-timestamp" data-t="01:17:01">[01:17:01]</a>.

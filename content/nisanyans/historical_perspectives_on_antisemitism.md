@@ -1,0 +1,45 @@
+---
+title: Historical perspectives on antiSemitism
+videoId: yIB7AmCHgBg
+---
+
+From: [[nisanyans]] <br/> 
+
+Anti-Semitism is not a universal instinct <a class="yt-timestamp" data-t="00:34:49">[00:34:49]</a>. While there is currently no anti-Semitism in China <a class="yt-timestamp" data-t="00:34:53">[00:34:53]</a>, its presence and nature have varied significantly across different cultures and historical periods.
+
+## Anti-Semitism in the Islamic World
+
+Historically, there was no anti-Semitism in the Islamic world until the 20th century <a class="yt-timestamp" data-t="00:35:04">[00:35:04]</a>. Specific regions like the [[Historical Perspectives on Ottoman and Byzantine Contexts | Ottoman Empire]], Faşta, and Yemen did not record a serious "Jewish rage" <a class="yt-timestamp" data-t="00:35:47">[00:35:47]</a>.
+
+The sudden rise of anti-Semitism in the Islamic world came to prominence in the mid-20th century, particularly in the 1930s, 40s, and especially the 50s <a class="yt-timestamp" data-t="00:36:14">[00:36:14]</a>. This rise was primarily attributed to the establishment of Israel and its subsequent policies against the local Arab people in Palestine <a class="yt-timestamp" data-t="00:36:28">[00:36:28]</a>, <a class="yt-timestamp" data-t="00:36:34">[00:36:34]</a>. The conquest of an Islamic land by a people Muslims had historically disdained, especially with the support of the West, was perceived as an "intolerable humiliation" <a class="yt-timestamp" data-t="00:37:14">[00:37:14]</a>. This led to a violent and immoderate anti-Semitism gradually taking control of the Islamic world <a class="yt-timestamp" data-t="00:37:33">[00:37:33]</a>.
+
+## Anti-Semitism in Europe
+
+In contrast to the Islamic world, Europe has experienced violent anti-Semitism since the Middle Ages <a class="yt-timestamp" data-t="00:37:44">[00:37:44]</a>. This sentiment has always existed in every European country, ebbing and flowing over time <a class="yt-timestamp" data-t="00:37:50">[00:37:50]</a>, <a class="yt-timestamp" data-t="00:37:53">[00:37:53]</a>. For at least 10 to 11 centuries, the Western world has pursued a "Jewish program," attempting to destroy, crush, or erase Jewish languages and communities <a class="yt-timestamp" data-t="00:38:12">[00:38:12]</a>, <a class="yt-timestamp" data-t="00:38:14">[00:38:14]</a>.
+
+## Explaining the Historical Difference
+
+The fundamental difference in the history of anti-Semitism between the Islamic and Christian worlds can be found in the political structures of their respective religions <a class="yt-timestamp" data-t="00:38:35">[00:38:35]</a>.
+
+### Christian Political Structure
+Christianity formed within the vast [[Historical perspectives on Ottoman and Byzantine Contexts | Roman Empire]], which aimed for a common culture, civilization, language, and institutions <a class="yt-timestamp" data-t="00:38:43">[00:38:43]</a>, <a class="yt-timestamp" data-t="00:39:02">[00:39:02]</a>. After becoming the state religion, the idea that a non-Christian could live within this civilized circle was considered foreign <a class="yt-timestamp" data-t="00:39:05">[00:39:05]</a>, <a class="yt-timestamp" data-t="00:39:21">[00:39:21]</a>. Non-Christians were thought to have no place in a society defined by common laws, lifestyle, and beliefs, an idea that emerged in the 4th and 5th centuries <a class="yt-timestamp" data-t="00:39:35">[00:39:35]</a>, <a class="yt-timestamp" data-t="00:39:48">[00:39:48]</a>, <a class="yt-timestamp" data-t="00:39:53">[00:39:53]</a>.
+
+Within this drive for cultural homogeneity, Jews were almost the only element that stubbornly refused to assimilate into the common Christian platform <a class="yt-timestamp" data-t="00:40:08">[00:40:08]</a>, <a class="yt-timestamp" data-t="00:40:10">[00:40:10]</a>. For this reason, they were consistently rejected and misunderstood within Christian culture from its inception <a class="yt-timestamp" data-t="00:40:21">[00:40:21]</a>, <a class="yt-timestamp" data-t="00:40:24">[00:40:24]</a>. By the 13th century, 99.8% of Europe's population was Christian, making the remaining tiny Jewish minority an anomaly that "did not sit anywhere or it was against the rules" <a class="yt-timestamp" data-t="00:42:50">[00:42:50]</a>, <a class="yt-timestamp" data-t="00:42:55">[00:42:55]</a>, <a class="yt-timestamp" data-t="00:43:01">[00:43:01]</a>.
+
+### Islamic Political Structure
+Islam, unlike Christianity, did not arise from an existing empire aiming for homogeneity <a class="yt-timestamp" data-t="00:40:33">[00:40:33]</a>, <a class="yt-timestamp" data-t="00:40:37">[00:40:37]</a>. It began as a small minority in Arabia and expanded through conquest <a class="yt-timestamp" data-t="00:40:43">[00:40:43]</a>, <a class="yt-timestamp" data-t="00:40:47">[00:40:47]</a>. Changing people's religion is difficult, especially in the long term <a class="yt-timestamp" data-t="00:40:50">[00:40:50]</a>, <a class="yt-timestamp" data-t="00:40:53">[00:40:53]</a>.
+
+In its brightest period, such as during the Abbasid Caliphate, only a small fraction (10-20%) of the conquered lands' population was Muslim <a class="yt-timestamp" data-t="00:41:01">[00:41:01]</a>, <a class="yt-timestamp" data-t="00:41:06">[01:15:29]</a>. Therefore, from its earliest days, Islam had to develop rules and systems for governing and coexisting with diverse, non-Muslim populations <a class="yt-timestamp" data-t="00:41:42">[00:41:42]</a>, <a class="yt-timestamp" data-t="00:41:45">[00:41:45]</a>. They addressed questions about the rights of non-Muslims, their conduct, and how to resolve disputes between different religious groups <a class="yt-timestamp" data-t="00:41:53">[00:41:53]</a>, <a class="yt-timestamp" data-t="00:42:00">[00:42:00]</a>, <a class="yt-timestamp" data-t="00:42:05">[00:42:05]</a>.
+
+In essence, the Christian world aimed to erase or integrate non-Christians, whereas the Muslim world developed methods to govern them <a class="yt-timestamp" data-t="00:42:17">[00:42:17]</a>, <a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a>. This explains why anti-Semitism has historically been much more violent in the Western world <a class="yt-timestamp" data-t="00:42:35">[00:42:35]</a>. By the 13th century, the Islamic world still had a significant non-Muslim population (around 60%), comprising various Christian groups and Jews <a class="yt-timestamp" data-t="00:43:07">[00:43:07]</a>, <a class="yt-timestamp" data-t="00:43:10">[00:43:10]</a>, <a class="yt-timestamp" data-t="00:43:15">[00:43:15]</a>.
+
+## The Karaite Jews
+
+The Karaites are a distinct Jewish sect that formed a large community in the Crimean Khanate until the 20th century <a class="yt-timestamp" data-t="01:36:33">[01:36:33]</a>. They spoke Turkish, specifically a version of Crimean Tatar with some Jewish words mixed in, because Turkish was the common language of Crimea <a class="yt-timestamp" data-t="01:36:44">[01:36:44]</a>, <a class="yt-timestamp" data-t="01:36:48">[01:36:48]</a>, <a class="yt-timestamp" data-t="01:37:50">[01:37:50]</a>. Their gravestones in the Hasköy Jewish cemetery in Istanbul are often in Cyrillic or Russian script, but the language is Crimean Turkish, sometimes also in Hebrew script and Turkish <a class="yt-timestamp" data-t="01:38:44">[01:38:44]</a>, <a class="yt-timestamp" data-t="01:38:49">[01:38:49]</a>, <a class="yt-timestamp" data-t="01:38:53">[01:38:53]</a>, <a class="yt-timestamp" data-t="01:38:56">[01:38:56]</a>.
+
+After Crimea came under Russian rule, and particularly with the rise of Jewish pogroms in Russia at the end of the 19th century <a class="yt-timestamp" data-t="01:38:02">[01:38:02]</a>, <a class="yt-timestamp" data-t="01:38:05">[01:38:05]</a>, <a class="yt-timestamp" data-t="01:38:09">[01:38:09]</a>:
+*   Some Karaites dispersed and joined mainstream Jewish communities <a class="yt-timestamp" data-t="01:38:13">[01:38:13]</a>, <a class="yt-timestamp" data-t="01:38:17">[01:38:17]</a>.
+*   A metropolitan segment migrated to Istanbul, where they knew Turkish <a class="yt-timestamp" data-t="01:38:22">[01:38:22]</a>, <a class="yt-timestamp" data-t="01:38:26">[01:38:26]</a>.
+*   Others migrated to America or Israel <a class="yt-timestamp" data-t="01:39:09">[01:39:09]</a>, <a class="yt-timestamp" data-t="01:39:12">[01:39:12]</a>.
+
+The Karaite community in Istanbul largely "melted away" and joined normal Jews <a class="yt-timestamp" data-t="01:39:05">[01:39:05]</a>, <a class="yt-timestamp" data-t="01:39:06">[01:39:06]</a>, with no Karaite community remaining there today <a class="yt-timestamp" data-t="01:39:16">[01:39:16]</a>, <a class="yt-timestamp" data-t="01:39:19">[01:39:19]</a>. There is a common rumor that the Karaköy neighborhood in Istanbul derives its name from "Kara Village" (Karaite Village), but this is not definitively confirmed <a class="yt-timestamp" data-t="01:39:50">[01:39:50]</a>, <a class="yt-timestamp" data-t="01:39:54">[01:39:54]</a>, <a class="yt-timestamp" data-t="01:39:57">[01:39:57]</a>, <a class="yt-timestamp" data-t="01:39:59">[01:39:59]</a>.

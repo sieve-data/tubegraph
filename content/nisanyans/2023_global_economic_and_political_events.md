@@ -1,0 +1,100 @@
+---
+title: 2023 global economic and political events
+videoId: 1mUulmDNqMk
+---
+
+From: [[nisanyans]] <br/> 
+
+The year 2023 marked significant turning points on the global stage, encompassing economic shifts, demographic changes, and critical geopolitical developments <a class="yt-timestamp" data-t="01:33:02">[01:33:02]</a>.
+
+## Global Overview of 2023 Events
+
+### Economic Shifts: Rise of Chinese Automobiles
+One of the most important global economic events of 2023 was the remarkable success of Chinese cars in the world market <a class="yt-timestamp" data-t="01:44:07">[01:44:07]</a>. Chinese car sales have nearly doubled for two consecutive years, reaching approximately 6 million units <a class="yt-timestamp" data-t="01:53:07">[01:53:07]</a>. These cars have significantly penetrated European markets, including both Eastern and Western Europe and Russia <a class="yt-timestamp" data-t="02:04:07">[02:04:07]</a>. They are noted for being cheaper, more reliable, and more solid <a class="yt-timestamp" data-t="02:12:07">[02:12:07]</a>.
+
+This surge poses a serious challenge, especially to the European automobile industry, which, unlike the American industry that largely collapsed years ago, has dominated the global market <a class="yt-timestamp" data-t="02:23:07">[02:23:07]</a>. Germany's economic success, in particular, relies heavily on its four major automotive companies: Volkswagen, Mercedes, BMW, and Opel <a class="yt-timestamp" data-t="02:38:07">[02:38:07]</a>. The rising costs in Europe, including energy expenses, and the flood of high-quality Chinese cars into the market create a significant question mark for these companies <a class="yt-timestamp" data-t="03:05:07">[03:05:07]</a>. This development is considered an important turning point in history <a class="yt-timestamp" data-t="03:27:07">[03:27:07]</a>.
+
+### Demographic and Political Transformations
+A second significant event is the unprecedented demographic shift in the United States, where, for the first time in history, the number of people immigrating to America—mostly illegally—exceeded the number of new births <a class="yt-timestamp" data-t="03:43:07">[03:43:07]</a>. A similar situation of mass migration from poorer countries is occurring in Europe <a class="yt-timestamp" data-t="04:30:07">[04:30:07]</a>.
+
+This demographic change is expected to have rapid and far-reaching [[Political shifts and changes in global power dynamics | political consequences]] in Europe <a class="yt-timestamp" data-t="04:55:07">[04:55:07]</a>. It appears inevitable that so-called "extreme right" parties, which are essentially anti-immigrant or prioritize defending indigenous culture, will come to power across European countries <a class="yt-timestamp" data-t="05:30:07">[05:30:07]</a>. These parties and movements are also generally against the European Union project <a class="yt-timestamp" data-t="05:37:07">[05:37:07]</a>. While the European Union may not disappear or face withdrawals, its expansion projects are seen as unsustainable, and its increasing takeover of national sovereignty over the past 20 years will likely be challenged <a class="yt-timestamp" data-t="05:52:07">[05:52:07]</a>.
+
+In the United States, the political system currently does not allow for such a dramatic transformation <a class="yt-timestamp" data-t="06:14:07">[06:14:07]</a>. Regardless of the ruling party, similar policies are generally followed <a class="yt-timestamp" data-t="06:23:07">[06:23:07]</a>. However, social tensions and stress in the US have reached unbearable levels, seemingly leading to an inevitable explosion <a class="yt-timestamp" data-t="06:30:07">[06:30:07]</a>.
+
+### Geopolitical Failures and Changing Power Dynamics
+The third major event of 2023 is the "Ukraine fiasco" or "Ukraine defeat" of the Western alliance, which will be recorded as a significant turning point in history <a class="yt-timestamp" data-t="06:58:07">[06:58:07]</a>. Despite an "incredible mobilization" and "unprecedented sanctions" aimed at collapsing Russia's economy and overthrowing Putin, the Western alliance's war effort could not be sustained <a class="yt-timestamp" data-t="07:21:07">[07:21:07]</a>. NATO countries repeatedly came close to direct involvement but "did not dare to take that step" <a class="yt-timestamp" data-t="08:08:07">[08:08:07]</a>. An "absurd counter-offensive" by Ukrainians, which resulted in hundreds of thousands of deaths, led to Western withdrawal of support, citing a lack of further weapons <a class="yt-timestamp" data-t="08:24:07">[08:24:07]</a>. The [[Economic pressures and global financial systems | industrial capacity of Western countries]] proved unprepared for such a large-scale armament, unable to produce sufficient tanks, missiles, or effective aircraft <a class="yt-timestamp" data-t="08:56:07">[08:56:07]</a>.
+
+Following this, a "second and equally large fiasco" appears to be emerging with Israel's military operation in Gaza <a class="yt-timestamp" data-t="09:33:07">[09:33:07]</a>. Despite its "enormous economic superiority, military superiority, and strategic superiority," Israel seems "stuck in Gaza," unable to achieve its military goals <a class="yt-timestamp" data-t="09:44:07">[09:44:07]</a>. Doubts have arisen, particularly within Israel, about the sustainability and exit strategy for such a "bloody and scandalous war" <a class="yt-timestamp" data-t="10:24:07">[10:24:07]</a>.
+
+These events are viewed as part of a larger "change of era," marked by a series of Western defeats:
+*   Afghanistan (2022) <a class="yt-timestamp" data-t="10:50:07">[10:50:07]</a>
+*   Syria (a couple of years prior) <a class="yt-timestamp" data-t="10:59:07">[10:59:07]</a>
+*   Yemen, where the supported war ended with the Ansar government (Houthis) taking control of the entire country <a class="yt-timestamp" data-t="11:08:07">[11:08:07]</a>
+*   Iraq, ending in "disgrace" with a forced withdrawal after the country's destruction <a class="yt-timestamp" data-t="11:22:07">[11:22:07]</a>
+
+These ongoing failures signal a significant shift in [[current_global_power_dynamics_and_future_prospects | global power dynamics]] <a class="yt-timestamp" data-t="11:47:07">[11:47:07]</a>.
+
+## Turkey's Position in the New Global Context
+
+The year 2023 also saw significant [[Political developments in Turkey and global geopolitics | political developments in Turkey]], notably the "bursting" of the Republican People's Party (CHP) "balloon," which is not expected to be inflated again <a class="yt-timestamp" data-t="13:54:07">[13:54:07]</a>.
+
+Turkey is an important cornerstone of the Western alliance and a crucial country militarily <a class="yt-timestamp" data-t="14:26:07">[14:26:07]</a>. Since 1946 (and even as far back as 1933-34), Turkey's role as part of the Western alliance has been a fundamental assumption in global war preparations <a class="yt-timestamp" data-t="15:09:07">[15:09:07]</a>. However, since the Erdogan government came to power, "very serious doubts arose in the Western world about whether Turkey is still with us or not" <a class="yt-timestamp" data-t="15:36:07">[15:36:07]</a>.
+
+Western strategies to influence Turkey's alignment have evolved:
+*   **2007-2016:** Plans to remove Tayyip Erdogan through a military or mixed military-civilian coup and install loyal cadres <a class="yt-timestamp" data-t="16:03:07">[16:03:07]</a>. This failed <a class="yt-timestamp" data-t="16:38:07">[16:38:07]</a>.
+*   **2016/2017 onwards:** Projects to change the government through elections, uniting the CHP with other parties to achieve a slight majority <a class="yt-timestamp" data-t="16:45:07">[16:45:07]</a>. This "ended in a fiasco" in 2023 <a class="yt-timestamp" data-t="17:14:07">[17:14:07]</a>.
+*   **Post-2023 Election:** A new strategy to marginalize Tayyip Erdogan and limit his influence within the government <a class="yt-timestamp" data-t="17:31:07">[17:31:07]</a>.
+
+### Turkey's Role in the Middle East
+The [[Middle East geopolitical shifts | current situation in the Middle East]] suggests an impending war <a class="yt-timestamp" data-t="18:07:07">[18:07:07]</a>. The roles of two key countries, Saudi Arabia and Turkey, are unclear <a class="yt-timestamp" data-t="19:37:07">[19:37:07]</a>. Iran's, Lebanon's, and Syria's stances are considered clear, while Egypt is expected to remain neutral <a class="yt-timestamp" data-t="19:45:07">[19:45:07]</a>.
+
+Saudi Arabia, previously seen as a "servant" and "local branch" of the Western military alliance, has undergone radical changes in the past year <a class="yt-timestamp" data-t="20:11:07">[20:11:07]</a>. Facilitated by American efforts, Saudi Arabia made peace with Iran <a class="yt-timestamp" data-t="20:30:07">[20:30:07]</a>, ending its covert war in Yemen <a class="yt-timestamp" data-t="21:21:07">[21:21:07]</a>. It has also signed military cooperation and friendship agreements with Russia and agreed to sell oil to Russia and China in rubles, signaling a move away from dollar hegemony <a class="yt-timestamp" data-t="21:41:07">[21:41:07]</a>. Saudi Arabia is also set to join BRICS, a club of countries seeking to operate outside American financial hegemony <a class="yt-timestamp" data-t="22:02:07">[22:02:07]</a>.
+
+Turkey, on the other hand, continues to economically support Israel through existing infrastructure <a class="yt-timestamp" data-t="22:39:07">[22:39:07]</a>. However, the Turkish head of state has adopted "extremely provocative and extremely worrying" propaganda and attitudes <a class="yt-timestamp" data-t="23:06:07">[23:06:07]</a>. Turkey's participation alongside Arab states in a potential war against Israel is considered a "vital issue" and "matter of life and death" for Israel and Western countries <a class="yt-timestamp" data-t="23:21:07">[23:21:07]</a>.
+
+Recent football events and the periodic surge of anti-Arab hostility in Turkey are seen as potentially politically motivated <a class="yt-timestamp" data-t="23:50:07">[23:50:07]</a>. The use of Atatürk as an icon of hostility against the masses, despite his official status as a national value, is described as a "classic propaganda technique" <a class="yt-timestamp" data-t="26:50:07">[26:50:07]</a>. These events suggest a "very obvious planned, designed provocation" <a class="yt-timestamp" data-t="25:20:07">[25:20:07]</a>.
+
+## Broader Reflections on Society and History
+
+### Constitutional Crisis
+The speaker believes that the "era of constitutions is over" <a class="yt-timestamp" data-t="28:19:07">[28:19:07]</a>. A constitution's meaning relies on two conditions:
+1.  **Agreement among political and social actors:** A fundamental belief that the constitution cannot be broken, even amidst rivalry <a class="yt-timestamp" data-t="28:48:07">[28:48:07]</a>. This "has long been eliminated from the world" <a class="yt-timestamp" data-t="29:16:07">[29:16:07]</a>.
+2.  **Arbitration institution:** A final authority, above political considerations, to interpret constitutional adherence <a class="yt-timestamp" data-t="29:28:07">[29:28:07]</a>. This, too, "has also been eliminated from the world" <a class="yt-timestamp" data-t="29:46:07">[29:46:07]</a>.
+
+There is a [[Controversial political events in the US and Europe | constitutional crisis]] in "every country in the world," including Israel <a class="yt-timestamp" data-t="29:51:07">[29:51:07]</a>. The idea of countries being governed by written rules, born from 18th-century social contract theories and first systematically tried in the United States and France, dominated the 19th century <a class="yt-timestamp" data-t="30:25:07">[30:25:07]</a>. Constitutions were an ideal, but never fully real, with England serving as an exception with its unwritten constitution based on "elite consensus" <a class="yt-timestamp" data-t="32:08:07">[32:08:07]</a>. This consensus no longer exists <a class="yt-timestamp" data-t="33:27:07">[33:27:07]</a>, signaling a "different era" where governance by written constitutions is no longer effective <a class="yt-timestamp" data-t="33:33:07">[33:33:07]</a>.
+
+### Historical Alliances and Power Dynamics
+The alliance between England and France in World War I, despite centuries of enmity, was driven by the emergence of Germany as a powerful threat <a class="yt-timestamp" data-t="34:02:07">[34:02:07]</a>. Germany's unification and rise to a position to dominate Europe led England to ally with France to "cope with Germany" <a class="yt-timestamp" data-t="35:04:07">[35:04:07]</a>. The historical British (and later American) policy was to prevent any single state from dominating Europe, thus ensuring the continued dominance of Atlantic powers <a class="yt-timestamp" data-t="36:44:07">[36:44:07]</a>.
+
+### Ottoman Empire's Decline and Republic's Formation
+The Ottoman Empire ended both legally and de facto <a class="yt-timestamp" data-t="37:27:07">[37:27:07]</a>. A significant continuity existed between the Ottoman state order and the Republic of Turkey, with the overwhelming majority of state cadres (excluding top executives) continuing in their positions <a class="yt-timestamp" data-t="38:03:07">[38:03:07]</a>. The political cadres of the Republic were largely organized around the Union and Progress party since 1913 (or 1908) <a class="yt-timestamp" data-t="38:40:07">[38:40:07]</a>. Some who objected to new cadres were "cleaned up" or forced into exile <a class="yt-timestamp" data-t="39:15:07">[39:15:07]</a>.
+
+Sultan Abdulhamid II's reign (starting 1876 in a major crisis) was characterized by initial efforts to modernize the Empire through education and reforms (similar to Tayyip Erdoğan's or Mustafa Kemal Pasha's early years) <a class="yt-timestamp" data-t="01:00:10">[01:00:10]</a>. He established a middle and high school system, law schools, a university, and advanced medical and agricultural fields <a class="yt-timestamp" data-t="01:00:55">[01:00:55]</a>. However, his policy of suppressing politics to rule bureaucratically ultimately led to stagnation and decay <a class="yt-timestamp" data-t="01:02:03">[01:02:03]</a>. By 1908, the Abdulhamid regime, despite its apparent strength, "collapsed with a single telegram" from reformist officers in Thessaloniki <a class="yt-timestamp" data-t="01:04:44">[01:04:44]</a>, leading to widespread celebration and temporary optimism for the Ottoman future <a class="yt-timestamp" data-t="01:04:03">[01:04:03]</a>.
+
+### Societal Dynamics in Republican Turkey
+Several groups played significant roles in the structuring of Republican Turkey:
+*   **Circassians and other Caucasian immigrants:** Expelled from their homelands, they held a strong sense of gratitude to the Turkish state and were determined to fight against non-Muslims <a class="yt-timestamp" data-t="01:15:26">[01:15:26]</a>. They proved their loyalty despite initial wavering between the Sultan and Ankara governments <a class="yt-timestamp" data-t="01:17:49">[01:17:49]</a>.
+*   **Balkan Turks and Rumelian/Cretan Turks:** Having experienced expulsion from their homelands, they were determined to prevent a repeat of history, though their armed struggle tradition was weaker than the Circassians' <a class="yt-timestamp" data-t="01:18:04">[01:18:04]</a>.
+*   **Black Sea people:** Known for a tradition of conflict and self-protection, they migrated to western cities due to economic difficulties, forming a "Black Sea mafia" that became influential in politics and state administration <a class="yt-timestamp" data-t="01:20:41">[01:20:41]</a>.
+*   **Kurds:** Especially since the 1990s and 2000s, Kurds have gained significant influence and power in Turkey's cities <a class="yt-timestamp" data-t="01:21:42">[01:21:42]</a>. Despite state discrimination in bureaucracy, Kurds are increasingly reaching "key positions in the country" through politics <a class="yt-timestamp" data-t="01:22:16">[01:22:16]</a>.
+
+Turkey's assimilation policies in the early Republic period involved forcibly convincing groups to speak Turkish, with harassment and expulsion for non-compliance, a reality that continued until the 1960s <a class="yt-timestamp" data-t="01:25:51">[01:25:51]</a>.
+
+## Reflections on Life, Purpose, and Identity
+
+### Meaning of Life and Motivation
+The speaker argues against the idea that life is "completely random" <a class="yt-timestamp" data-t="01:43:55">[01:43:55]</a>. All animal life is purposeful, driven by goals like survival, reproduction, and feeding <a class="yt-timestamp" data-t="01:44:20">[01:44:20]</a>. However, the purposefulness of individuals does not mean the entire "game" has a purpose; it can be a "blind fight" without overall prediction or strategy <a class="yt-timestamp" data-t="01:50:07">[01:50:07]</a>.
+
+Human life is guided by "biologically determined goals" and "behavioral principles" <a class="yt-timestamp" data-t="01:53:29">[01:53:29]</a>. Certain moral values, common to all humans, have an "obvious biological evolutionary basis" <a class="yt-timestamp" data-t="01:58:07">[01:58:07]</a>. These include:
+*   **Keeping promises:** An innate feeling present in children <a class="yt-timestamp" data-t="01:04:07">[01:04:07]</a>.
+*   **Protecting human babies:** A universal instinct <a class="yt-timestamp" data-t="01:08:07">[01:08:07]</a>.
+*   **Protecting women:** A biological feeling, not cultural <a class="yt-timestamp" data-t="01:09:07">[01:09:07]</a>.
+*   **Group belonging and loyalty:** Willingness to sacrifice for the group's interests <a class="yt-timestamp" data-t="01:10:07">[01:10:07]</a>.
+
+These moral principles provide "objective meaning to human life" <a class="yt-timestamp" data-t="01:11:07">[01:11:07]</a>. The primary goals are survival, finding a mate, and adhering to one's moral code <a class="yt-timestamp" data-t="01:13:07">[01:13:07]</a>. The idea of an afterlife, a "myth" or "tale," emerged late in human evolution and has largely lost its effectiveness <a class="yt-timestamp" data-t="01:17:07">[01:17:07]</a>.
+
+### LGBT and Bisexuality
+The speaker distinguishes between innate disgust towards the opposite sex (which he believes exists but not at 20% prevalence) and bisexuality <a class="yt-timestamp" data-t="01:09:07">[01:09:07]</a>. He suggests that a bisexual tendency exists in every person and has surfaced culturally at various times, citing examples from the Ottoman Empire, ancient Athens, and late 19th/early 20th century England <a class="yt-timestamp" data-t="01:10:07">[01:10:07]</a>. The pendulum of societal acceptance for homosexual relations has swung between openness and closure across different ages and societies <a class="yt-timestamp" data-t="01:12:07">[01:12:07]</a>. However, making LGBT issues a political state issue, with propaganda and condemnation of opposing views, is deemed "not acceptable" and likely to cause a counter-reaction <a class="yt-timestamp" data-t="01:12:07">[01:12:07]</a>.
+
+### Identity and Origin
+The speaker discusses the origin of the term "Yörük" (greengrocer) in the South Marmara region (Bursa, Balıkesir, Bilecik, Sakarya, Kocaeli, Eskişehir) <a class="yt-timestamp" data-t="01:11:07">[01:11:07]</a>. It refers to local Muslims in this region, in contrast to those who migrated from Rumelia, the Caucasus, and the Black Sea <a class="yt-timestamp" data-t="01:12:07">[01:12:07]</a>. Research suggests that a large portion of Yörüks in the 14th-15th centuries were Rums (Byzantine subjects) who converted to Islam under Turkish rule, adopting a new culture <a class="yt-timestamp" data-t="01:14:07">[01:14:07]</a>. Evidence includes ancient church ruins in Yörük villages and no records of population replacement <a class="yt-timestamp" data-t="01:15:07">[01:15:07]</a>. This indicates a "strong substratum infrastructure left from a Greek origin" <a class="yt-timestamp" data-t="01:15:07">[01:15:07]</a>. However, being "Turkified" means they "became Turks," as being Turkish, French, or Japanese is something "done later" <a class="yt-timestamp" data-t="01:17:07">[01:17:07]</a>.

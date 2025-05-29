@@ -1,0 +1,34 @@
+---
+title: Minority policies and identity construction in regional countries
+videoId: s4ydAH_ilwI
+---
+
+From: [[nisanyans]] <br/> 
+
+The Republic of Türkiye was founded in 1923 with the aspiration that Turkishness would serve as a unifying element of citizenship <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. In the early years of the republic, particularly throughout the 1920s until 1932, the official stance defined Turkishness broadly: "I do not know the Turkish language, Turkish culture, Turkish, or anyone who adopts the Turkish national ideal is Turkish" <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. This inclusive definition considered non-Muslims Turkish regardless of their origin <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. Notably, during this period, the [[central_asian_theory_and_its_influence_on_turkish_identity | Central Asian theory]], which posited the Turks' origins from Central Asia, was neither read nor heard in official state publications <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+
+## Radical Shift in Ideology Post-1930
+
+After 1930, and especially from 1932-33 onwards, this approach to Turkish identity underwent a radical and sudden change <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. A new, racist theory emerged, claiming that Turks originated from Central Asia and were the founders of all world civilizations <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. This [[central_asian_theory_and_its_influence_on_turkish_identity | Central Asian theory]] became the official ideology from the First Turkish Language Congress and First Turkish History Congress <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
+
+Three primary reasons are posited for this significant shift:
+
+### 1. [[impact_of_european_political_changes_on_turkish_identity_discourse | Winds from Europe]]
+
+The political landscape in Europe, particularly the rise of Nazism, heavily influenced Türkiye <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>. When Hitler came to power in Germany in 1933, world balances shifted <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. Previously, Türkiye had considered models like the Soviet and Mussolini regimes <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. The Mussolini model emphasized a society unified under a single will and leader <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>. However, from 1933, racism gained ground in Europe, and the idea of "purity" became dominant, influencing Turkish discourse <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>.
+
+### 2. Resurgence of Old Cadres
+
+Another factor was the re-emergence of "Progress cadres" from the 1910s, particularly those associated with Turkish Hearths <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. These groups had popularized the [[central_asian_theory_and_its_influence_on_turkish_identity | Central Asian theory]] <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. This theory, alongside the Turkism of the Union and Progress, had been sidelined or "silenced" after 1922-23 during the War of Independence and the founding of the republic, with figures like Ziya Gökalp's theory being defeated <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. From 1932 onwards, these previously silenced cadres suddenly became active again, indicating a shift in internal political balances <a class="yt-timestamp" data-t="00:04:23">[00:04:23]</a>.
+
+### 3. Perceived Ideological Weakness
+
+The third reason was a perceived insufficiency of the republic's founding ideology to politically hold the country together <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>. It was considered "not convincing enough" and "not a tasty ideology" <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. This ideology only resonated with educated, intellectual, and civil servant segments, failing to gain traction among wider society <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>. By 1930-31, the regime entered turmoil, marked by incidents like Menemen and rising discontent due to the global economic crisis <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>. This led to the conclusion that a return to Turkism, specifically a statist, leader-centric, fascist, totalitarian ideology, would be beneficial <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. The racist Turkist ideology implemented in the 1930s is distinct from the republic's initial founding ideology <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>.
+
+## Assimilation Policies and Their Outcomes
+
+The state's assimilation project, particularly concerning the Kurds, aimed to absorb them within one or two generations <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>. This effort was undertaken with the hope of strong success, but "calculations at home did not suit the market" <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. The Kurds proved to be "stubborn" <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. The Turkish state and the republican regime could not sustain the "fascist dynamism" they had in the 1920s and early 1930s, ultimately loosening their resolve and failing to carry out the assimilation project <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>. As a result, the administration withdrew <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. A significant migration occurred from eastern cities to Ankara and Istanbul, with the Turkish upper class gradually disappearing from the eastern region after sending their children to schools in the major cities <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. This process inadvertently led to the "gift" of Kurdishness being left to the Kurds <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>.
+
+## Regional Comparisons in Minority Policies and Identity Construction
+
+Similar "stupidity and immorality" in minority policies and the construction of artificial histories are prevalent among countries in the region <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. It is difficult to find significant differences when comparing the minority policies of Greece, Bulgaria, Georgia, and Armenia <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. The contortions these countries undertake to invent artificial histories for themselves evoke a sense of disbelief <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>. Armenian national history and historiography, in particular, show intensive focus on these subjects <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>.

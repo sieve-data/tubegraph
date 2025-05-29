@@ -1,0 +1,26 @@
+---
+title: Historical context of Armenian genocide
+videoId: QZSBjtWFNOM
+---
+
+From: [[nisanyans]] <br/> 
+
+The "Armenian incident," commonly associated with 1915, is understood not merely as a single event but as the "final blow" or "golden shot" in a century-long process of massacre, expulsion, usurpation, and collapse targeting Armenians <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>.
+
+## [[role_of_kurds_in_armenian_genocide | Role of Kurds in the Armenian Genocide]]
+
+Before 1915, the primary persecutor of Armenians, the element that caused them to be "tired of their lives" and flee their homeland, was the [[role_of_kurds_in_armenian_genocide | Kurdish element]] <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>, <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. Kurds, particularly those under the control of Kurdish tribal leaders and later Kurdish sect sheikhs, were described as proficient in killing Armenians, seizing their daughters, robbing their properties, burning their churches, and beheading their priests <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>, <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>.
+
+Historically, until the last quarter of the 19th century, Armenians often viewed Turks and the Ottoman State as their allies and protectors against Kurdish aggression <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>, <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. It was common for Armenians to seek refuge with Ottoman governors to escape attacks by Kurdish aghas <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+
+## The 1915 Annihilation Project
+
+When 1915 arrived, the events constituted a program consciously and cold-bloodedly executed by the Union and Progress administration of the Turkish state and the Ottoman state bureaucracy <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>, <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>. This was not merely a pogrom but an "annihilation project" <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. The objective was to completely eradicate the "Armenian problem" that had persisted for the Ottomans for a century <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. The state orchestrated a significant organization to achieve this "cleanup" <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>, <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
+
+In this context, the state utilized Kurdish Bey aghas and the Kurdish populace as allies, helpers, and subcontractors <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>, <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>, <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. This was facilitated by an existing tradition of massacre and extortion among Kurds <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. The Turkish state successfully exploited this in the Eastern provinces, effectively granting permission for actions against Armenians with the assurance of state backing <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>, <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>, <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>, <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>.
+
+## [[change_in_kurdish_perspective_on_armenian_issues | Changing Kurdish Perspective]]
+
+In the late 19th century, particularly around 1880, there was a significant hostility towards the Armenian Church rather than solely the Armenian nation <a class="yt-timestamp" data-t="00:03:50">[00:03:50]</a>, <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. However, after the abolishment of "high school" (possibly referring to a system or institution allowing looting), and with no more Armenian property to usurp or women to seize in Anatolia, Kurds began to re-evaluate their position <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>, <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>, <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>, <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. They recognized their direct confrontation with the Turkish state and the potential for their own destruction <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>, <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>, <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>, <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>.
+
+This realization led to a radical [[change_in_kurdish_perspective_on_armenian_issues | shift in the Kurdish attitude and approach]] towards the Armenian issue over the last 20 to 30 years, to an appreciable extent <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>, <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>, <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. This shift is seen as a positive development, suggesting that Turks could benefit from overcoming their own prejudices and ignorance in a similar manner <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>.

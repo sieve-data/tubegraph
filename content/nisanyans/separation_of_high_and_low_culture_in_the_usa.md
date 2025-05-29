@@ -1,0 +1,23 @@
+---
+title: Separation of high and low culture in the USA
+videoId: 8Zl7zDwdILk
+---
+
+From: [[nisanyans]] <br/> 
+
+The concept of "high culture" and "low culture" is discussed in relation to different societies, with specific observations made about the United States, particularly concerning its cultural production and the performing arts <a class="yt-timestamp" data-t="00:24:06">[00:24:06]</a>.
+
+## Cultural Suicide: The Ukrainian Example
+As observed in Emmanuel Todd's book *Deet Deoksidan*, Ukrainian high culture was almost entirely built on Russian foundations until approximately 5-10 years ago <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. Key intellectual pillars, including good writers, scientists, and university education, were primarily Russian-ethnic or conducted in the Russian language <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. Ukrainian cinema and scientific literature were steeped in Russian culture <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>. The Ukrainian language itself was historically spoken mainly by the peasantry in the western part of the country <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>.
+
+The deepening and radicalization of Ukrainian culture is seen as effectively leading to the destruction of its high culture and intellectual life <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. This is considered a "conscious cultural suicide" because of the immense literature in Russian, much of which was produced by Ukrainians, in contrast to the limited contributions in the Ukrainian language beyond folk poets <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. Similar patterns are observed in other post-Soviet countries, where nationalist movements following the collapse of the Soviet Union have led to the destruction of cultural heritage <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. This highlights the [[role_of_language_in_cultural_dominance | role of language]] in shaping and preserving high culture <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
+
+## American Cultural Landscape
+The speaker expresses admiration for Americans' mastery of storytelling in cinema and theater <a class="yt-timestamp" data-t="00:21:54">[00:21:54]</a>. They commend the ability to tell complex stories clearly and cleanly, without unnecessary additions, as exemplified by films like *Manchester by the Sea* <a class="yt-timestamp" data-t="00:22:01">[00:22:01]</a>.
+
+However, a shift is noted, where traditional cultural production is becoming marginalized in American culture <a class="yt-timestamp" data-t="00:22:38">[00:22:38]</a>. This marginalization is particularly observed outside of specific regions like New England (Massachusetts, Connecticut, and New York State), which traditionally had a strong theater tradition <a class="yt-timestamp" data-t="00:22:59">[00:22:59]</a>. In these areas, every school, university, and high school historically had a theater club, and even small towns regularly staged plays <a class="yt-timestamp" data-t="00:23:12">[00:23:12]</a>. This environment produced numerous works, including occasional masterpieces from 20th-century American theater figures like Tennessee Williams, Thornton Wilder, and David Mamet <a class="yt-timestamp" data-t="00:23:34">[00:23:34]</a>.
+
+### Decline of High Cultural Production
+Despite this rich history, the number of "unique representatives of cultural production" has significantly decreased <a class="yt-timestamp" data-t="00:24:06">[00:24:06]</a>. Cinema culture has become dominant, leading to a degeneration of performing arts that has become "completely commercialized" <a class="yt-timestamp" data-t="00:24:22">[00:24:22]</a>. This suggests a shift from high cultural production to a more market-driven, lower-quality output, where the primary focus is commercial viability rather than artistic integrity <a class="yt-timestamp" data-t="01:36:18">[01:36:18]</a>.
+
+The speaker applies a similar critique to classical music, specifically commenting on Mahler's later symphonies. While acknowledging their masterful quality, the speaker feels they lack the "natural language" of earlier composers like Mozart and Haydn <a class="yt-timestamp" data-t="01:35:52">[01:35:52]</a>. Mahler, in this view, became a "showman," producing works that "smell of a designed design" and were written because "the market wanted it," rather than from intrinsic inspiration <a class="yt-timestamp" data-t="01:36:09">[01:36:09]</a>. This reflects a broader concern about the impact of commercialism on artistic authenticity.
