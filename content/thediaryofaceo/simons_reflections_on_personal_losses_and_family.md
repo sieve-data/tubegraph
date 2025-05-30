@@ -1,0 +1,39 @@
+---
+title: Simons reflections on personal losses and family
+videoId: BvsbCdCG8gE
+---
+
+From: [[thediaryofaceo]] <br/> 
+
+Simon Cowell has often reflected on the profound impact his family, particularly his parents, had on his life and career, and how personal losses and the birth of his son transformed his outlook <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+
+## Parental Influence and Early Life
+Simon describes having a happy childhood, though he was always bored at school <a class="yt-timestamp" data-t="02:39:00">[02:39:00]</a>. He was determined to pursue a life that was interesting and fun <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>. His parents instilled a strong work ethic in him from a young age, encouraging him to earn his own spending money for holidays by doing chores like washing cars or mowing lawns <a class="yt-timestamp" data-t="03:17:00">[03:17:00]</a>.
+
+His mother, Julie, was the disciplinarian and taught him the lasting lesson, "Manners maketh the man" <a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>. Both his parents were old-school, very respectful to everyone, and always there to offer advice and the "right steer" <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>.
+
+Simon's "insane work ethic" largely stemmed from his father, Eric, who worked for a large corporation and retired without financial security <a class="yt-timestamp" data-t="05:29:00">[05:29:00]</a>. This experience made Simon realize he didn't want to be in that position and that working for himself was the only way to avoid it <a class="yt-timestamp" data-t="06:28:00">[06:28:00]</a>. His father also advised him to be patient in his career, stating success wouldn't happen overnight and could take 20 or 30 years <a class="yt-timestamp" data-t="07:44:00">[07:44:00]</a>. A key piece of advice from his father, given when Simon was 12, was that "everyone in life Simon has a sign on their head and it says make me feel important" <a class="yt-timestamp" data-t="08:26:00">[08:26:00]</a>. This taught Simon the importance of recognizing every single person on a team <a class="yt-timestamp" data-t="08:56:00">[08:56:00]</a>.
+
+## Profound Loss and Bittersweet Moments
+The loss of his parents, particularly his mother, was the "most devastating thing that ever happened" in Simon's life <a class="yt-timestamp" data-t="04:09:00">[04:09:00]</a>. He described it as "as bad as things could possibly be" <a class="yt-timestamp" data-t="04:14:00">[04:14:00]</a>.
+
+His father's death was a "real bittersweet time" <a class="yt-timestamp" data-t="01:04:11">[01:04:11]</a>. It coincided with Westlife's album hitting number one in the UK charts <a class="yt-timestamp" data-t="01:03:57">[01:03:57]</a>, a success his father, who was amazing at spotting hit records and was very proud of Simon's achievements, had predicted <a class="yt-timestamp" data-t="01:04:16">[01:04:16]</a>. Simon received the news of his father's passing, a heart attack, while at a conference in Germany <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>. This revelation was particularly shocking as he genuinely believed his parents would live forever <a class="yt-timestamp" data-t="01:07:45">[01:07:45]</a>.
+
+The experience put everything into perspective, making things he once considered important, like chart positions and showcases, seem meaningless <a class="yt-timestamp" data-t="01:14:03">[01:14:03]</a>. He would have swapped everything he had achieved to keep his father around <a class="yt-timestamp" data-t="01:08:45">[01:08:45]</a>. The flight home from America after his father's death was the "longest trip home" <a class="yt-timestamp" data-t="01:09:04">[01:09:04]</a>.
+
+Simon also recounts a period of [[coping_with_personal_challenges_and_adversity | depression]] and being on a "downward spiral" after losing his mother, leading him to become a "ridiculous workaholic" and deeply unhappy <a class="yt-timestamp" data-t="01:15:38">[01:15:38]</a>. He would work until 7 or 8 AM, wake up in the afternoon, and became addicted to that intense lifestyle, using it to fill the void of his loss <a class="yt-timestamp" data-t="01:16:16">[01:16:16]</a>.
+
+## Coping and Continued Connection
+Despite the immense pain, Simon believes that with time, the grief does get better, especially if one believes in the continued presence of their loved ones <a class="yt-timestamp" data-t="01:21:24">[01:21:24]</a>. He genuinely believes his mom and dad are still with him <a class="yt-timestamp" data-t="01:36:36">[01:36:36]</a>. When faced with questions, he talks to them in his mind and knows what they would say <a class="yt-timestamp" data-t="01:08:23">[01:08:23]</a>.
+
+His son Eric, who his mother really wanted him to have, unknowingly reinforced this belief. Eric, at around two or three years old, once looked at the sky and said he was thinking about "Grandpa Eric and Julie," which deeply moved Simon and solidified his belief that they are "still somehow with us" <a class="yt-timestamp" data-t="01:12:32">[01:12:32]</a>. Simon describes his parents as his "best friends" up until their passing, with whom he could talk about anything <a class="yt-timestamp" data-t="01:13:30">[01:13:30]</a>.
+
+## Eric's Transformative Impact
+The birth of his son, Eric, drastically changed Simon's life <a class="yt-timestamp" data-t="01:14:54">[01:14:54]</a>. He calls it a "perfect" event that made him happy again, pulling him out of the downward spiral and workaholism that characterized his life after his mother's death <a class="yt-timestamp" data-t="01:17:32">[01:17:32]</a>. Eric "saved him" without question <a class="yt-timestamp" data-t="01:18:06">[01:18:06]</a>. Prior to Eric, Simon felt nothing mattered and was deeply unhappy, even struggling to perform on television <a class="yt-timestamp" data-t="01:18:12">[01:18:12]</a>.
+
+Simon's life balance underwent extreme changes post-Eric. He now prioritizes family above all else <a class="yt-timestamp" data-t="01:50:31">[01:50:31]</a>. He has set boundaries, such as not really working Fridays <a class="yt-timestamp" data-t="01:23:03">[01:23:03]</a>, not engaging in emails after 5:30 or 6 PM <a class="yt-timestamp" data-t="01:23:11">[01:23:11]</a>, and notably, not carrying a mobile phone <a class="yt-timestamp" data-t="01:23:26">[01:23:26]</a>. This deliberate disconnection from constant communication has, for him, led to greater happiness and a focus on what is truly important <a class="yt-timestamp" data-t="01:24:17">[01:24:17]</a>.
+
+## Current Priorities and Legacy
+His current number one priority is his family <a class="yt-timestamp" data-t="01:50:37">[01:50:37]</a>. Simon believes that happiness stems from achieving something, believing in something, and loving what you do <a class="yt-timestamp" data-t="01:44:48">[01:44:48]</a>. He cherishes the ability to do something he loves and is committed to being good at it, even if it takes years <a class="yt-timestamp" data-t="01:45:05">[01:45:05]</a>.
+
+For Eric and the world, Simon hopes his legacy will be that he achieved everything without a head start and treated people well <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>. He emphasizes the importance of patience, learning, and finding one's passion <a class="yt-timestamp" data-t="01:43:40">[01:43:40]</a>. He openly discusses [[personal_reflections_on_mental_health_and_sobriety | mental health]], including his own struggles with depression, and advocates for therapy as a strength, not a weakness <a class="yt-timestamp" data-t="01:59:52">[01:59:52]</a>. This change in perspective, influenced by therapy and his son, has shifted his priorities and simplified his thinking <a class="yt-timestamp" data-t="01:42:10">[01:42:10]</a>.
