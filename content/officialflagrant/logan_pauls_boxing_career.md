@@ -1,0 +1,24 @@
+---
+title: Logan Pauls boxing career
+videoId: p6f3cElLY1s
+---
+
+From: [[officialflagrant]] <br/> 
+
+[[logan_pauls_perspective_on_his_boxing_career_and_upcoming_fight_promotions | Logan Paul]] has engaged in professional boxing, most notably in a bout against Floyd Mayweather. He describes himself as "the real Maverick, the crown prick of Pokemon, and the most hated man in wrestling" <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>.
+
+## Fight Against Floyd Mayweather
+Paul fought [[controversies_involving_logan_paul_and_floyd_mayweather | Floyd Mayweather]] in an exhibition match, for which he claims Mayweather has not paid him <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. He asserts that Mayweather owes him "millions," estimating it to be "just under five" but "over two" million dollars <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>. He accuses Mayweather of knowing "how to allocate money really conveniently to make it look like it's an expense" and engaging in "under the table deals, cash deals" using Paul's "name and likeness without telling" him, leading to a lawsuit against Mayweather in New York <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>.
+
+Despite the financial dispute, Paul states the fight "never should have happened" but he "lasted eight rounds" and "pieced him up a little bit" <a class="yt-timestamp" data-t="04:09:00">[04:09:00]</a>. He claims to have landed an overhand right that hurt Mayweather <a class="yt-timestamp" data-t="04:22:00">[04:22:00]</a> and even popped his eardrum <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>. Paul highlights the significance of being able to land a solid hit on "the ghost, the greatest fighter of all time," who "can't be hit" <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>. He acknowledges that [[jake_pauls_boxing_career_and_preparation | Jake Paul]] was delusional about him winning eight rounds, but asserts he won at least three rounds <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>.
+
+Paul states that Mayweather's punches were not hard, and the biggest surprise was how slow Mayweather was, leading Paul to realize early in the fight that he wouldn't be knocked out <a class="yt-timestamp" data-t="18:55:00">[18:55:00]</a>. He attributes his ability to endure and land shots to being "much bigger" and "30 lbs heavier" than Mayweather <a class="yt-timestamp" data-t="20:05:00">[20:05:00]</a>. Mayweather himself reportedly struggled to hit Paul with a jab <a class="yt-timestamp" data-t="20:20:00">[20:20:00]</a>.
+
+Paul humorously questions if Mayweather confused him with his brother, [[jake_pauls_boxing_career_and_preparation | Jake Paul]], suggesting the fight was a form of retribution for Jake's earlier victory against Nate Robinson <a class="yt-timestamp" data-t="02:12:00">[02:12:00]</a>.
+
+## Views on Boxing and Future Fights
+Paul admits to having "not a single win in my boxing record" and being "one in one" <a class="yt-timestamp" data-t="01:38:13">[01:38:13]</a>. He believes his "only real like thing is my is my brain" and that boxing carries a risk of getting "dumber" due to sparring, having felt it himself <a class="yt-timestamp" data-t="01:49:02">[01:49:02]</a>. He explicitly states he lets his brother, [[jake_pauls_boxing_career_and_preparation | Jake Paul]], be the boxer because he doesn't "give a about his brain" <a class="yt-timestamp" data-t="01:49:13">[01:49:13]</a>. He acknowledges that boxing is dangerous and that the long-term effects of head trauma, like CTE, are a concern <a class="yt-timestamp" data-t="01:50:26">[01:50:26]</a>. He suggests that fighting offers a "cheat code" to attention and popularity, as people are inherently drawn to "chaos" and "destruction" <a class="yt-timestamp" data-t="01:50:51">[01:50:51]</a>.
+
+Regarding [[dillon_danis_vs_logan_paul_fight | Dillon Danis]], Paul states he wouldn't get into a street fight with him due to Danis's Jiu-Jitsu expertise <a class="yt-timestamp" data-t="01:17:29">[01:17:29]</a>. He would "box for sure" with Danis but would not do MMA, recognizing Danis as "one of the best Jiu-Jitsu guys in the world" <a class="yt-timestamp" data-t="01:52:57">[01:52:57]</a>.
+
+Paul states he wants to do UFC "one day" <a class="yt-timestamp" data-t="01:54:31">[01:54:31]</a>. He emphasizes that he will be around for a big fight and will give Joe Rogan a "good ass reason" to have him on his podcast <a class="yt-timestamp" data-t="01:55:55">[01:55:55]</a>. He believes his "thick skull" and high bone density allow him to "take shots" <a class="yt-timestamp" data-t="02:44:46">[02:44:46]</a>.

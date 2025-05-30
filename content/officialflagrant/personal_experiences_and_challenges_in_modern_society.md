@@ -1,0 +1,58 @@
+---
+title: Personal experiences and challenges in modern society
+videoId: 6FbR9c2n6e8
+---
+
+From: [[officialflagrant]] <br/> 
+
+Yomi Park, a North Korean defector and New York Times best-selling author, shares her profound [[life_experiences_and_storytelling | life experiences]] and observations on the [[challenges_of_modern_american_society | challenges of modern American society]] after escaping a totalitarian regime and relocating to the United States <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. Her unique journey provides a stark contrast to Western societal norms and highlights various [[personal_and_professional_identity_challenges | personal and professional identity challenges]] that arise from navigating different cultural landscapes.
+
+## Early Adjustments to American Society
+
+Upon arriving in America, Park encountered numerous cultural shocks, particularly concerning food and body image. Having lived in North Korea where food was scarce and people ate insects like grasshoppers, dragonflies, and butterflies, and even rats to survive <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>, she was advised by Americans to "watch the food label" and "don't eat rice" due to concerns about weight gain <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. This immediately led to feelings of body shaming, a concept entirely new to her <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. She notes the stark contrast between a society where worrying about food access is daily life and one where the problem is "having too much food" <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
+
+Her diet in North Korea contributed to a robust immune system, resulting in "zero allergy" in America, leading her to believe that eating a wide variety of things, including insects, contributed to resilience <a class="yt-timestamp" data-t="01:03:02">[01:03:02]</a>. However, she expresses no desire to return to consuming insects, despite modern discussions about their environmental benefits <a class="yt-timestamp" data-t="01:02:02">[01:02:02]</a>.
+
+## Navigating Relationships and Societal Norms
+
+Park's transition also involved learning about Western social customs and relationships. Having grown up in a conservative culture where physical contact like hugging or handshakes between genders was uncommon <a class="yt-timestamp" data-t="00:54:12">[00:54:12]</a>, she recounts googling the definition of "gay" after an encounter with a host <a class="yt-timestamp" data-t="00:54:27">[00:54:27]</a>. The concept of homosexuality simply did not exist in North Korean vocabulary <a class="yt-timestamp" data-t="00:54:49">[00:54:49]</a>.
+
+Her personal life also reflects [[discussion_on_societal_norms_and_personal_identity | societal expectations and relationship dynamics]]. After a divorce, she started drinking alcohol, found a new partner on Bumble, and even tried MDMA therapy which allowed her to "meet" her deceased father and find peace regarding her survivor's guilt <a class="yt-timestamp" data-t="01:10:29">[01:10:29]</a>. Park observes that modern society, particularly in cities like New York and San Francisco, features open relationships and fluid gender identities among her friends, a stark contrast to her upbringing <a class="yt-timestamp" data-t="02:44:01">[02:44:01]</a>.
+
+On the difficulties of marriage, she initially acknowledges its toughness <a class="yt-timestamp" data-t="00:57:13">[00:57:13]</a>, but then clarifies that nothing is comparable to North Korea, emphasizing the freedom to divorce as a significant liberty <a class="yt-timestamp" data-t="00:57:33">[00:57:33]</a>. She reflects on the "gender wars" in America, noting that men often feel the need to control every aspect of a relationship, even small household decisions, which contrasts with traditional North Korean roles where men make big decisions and women handle household affairs <a class="yt-timestamp" data-t="02:47:56">[02:47:56]</a>. She also notes her ex-husband's surprise at her assertive opinions, joking that he expected a "submissive North Korean woman" <a class="yt-timestamp" data-t="02:48:28">[02:48:28]</a>.
+
+## [[discussion_on_societal_norms_and_personal_identity | Identity and Discrimination in Modern Society]]
+
+Park also grapples with the concept of race and discrimination in America. Having no prior understanding of racial differences, she recalls not immediately recognizing her Black friend's race or perceiving white people as looking distinct <a class="yt-timestamp" data-t="00:50:00">[00:50:00]</a>. However, she notes that Asians can distinguish between different Asian ethnicities based on features and dress <a class="yt-timestamp" data-t="00:51:41">[00:51:41]</a>.
+
+She experienced direct discrimination in South Korea, where North Koreans are looked down upon for coming from a poor country, despite sharing the same language and genetics <a class="yt-timestamp" data-t="00:40:45">[00:40:45]</a>. South Koreans stereotype North Koreans as not working hard or being untrustworthy due to propaganda exposure <a class="yt-timestamp" data-t="00:41:05">[00:41:05]</a>. She compares American racism, which she finds comparatively mild (e.g., no signs prohibiting specific races from restaurants as seen in Japan or South Korea), to the more overt forms of discrimination she witnessed or experienced abroad <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>.
+
+## Critique of Modern Ideologies
+
+Park is critical of certain modern ideologies prevalent in America, particularly what she perceives as "wokeness" and Marxist influences. She expresses concern about the narrative in America that portrays men as "evil" or "toxic," arguing that men are equally, if not more, affected by hardships <a class="yt-timestamp" data-t="01:03:50">[01:03:50]</a>. She views the blame placed on men and specific racial groups for societal problems as a form of racism, warning about the dangers of divisive ideologies <a class="yt-timestamp" data-t="01:04:14">[01:04:14]</a>.
+
+She shares an experience where she was robbed by Black women during a BLM protest and was then accused of being racist for calling the police <a class="yt-timestamp" data-t="01:06:04">[01:06:04]</a>. This incident highlights the complexity of social justice movements and the potential for new forms of discrimination <a class="yt-timestamp" data-t="01:06:30">[01:06:30]</a>.
+
+Park also criticizes the Marxist ideology she encountered at Columbia University, where professors allegedly promoted ideas such as math being racist, and that capitalism is a problem, suggesting a "Communist Revolution" as the solution <a class="yt-timestamp" data-t="01:14:15">[01:14:15]</a>. She emphasizes that North Korea, which promised everything for free, delivered nothing but starvation and control <a class="yt-timestamp" data-t="01:46:43">[01:46:43]</a>. She argues that communism thrives on passion rather than logic, and that its proponents are often insecure and intolerant of differing views <a class="yt-timestamp" data-t="01:50:26">[01:50:26]</a>. She also suggests that some advocates for these ideologies, particularly younger individuals, may simply be "bored" or seeking attention <a class="yt-timestamp" data-t="02:31:01">[02:31:01]</a>.
+
+## [[the_challenges_and_social_dynamics_of_being_a_public_figure | Challenges of Being a Public Figure]]
+
+As a public figure, Park faces the [[impact_of_social_media_and_societal_issues | impact of social media and societal issues]], including attempts to discredit her story and co-opt her narrative for political agendas. She notes that her accounts are often challenged by those who follow Marxist-Leninist ideologies, as her story "demonizes" socialism <a class="yt-timestamp" data-t="02:12:54">[02:12:54]</a>. She also faces backlash for speaking out against China and American mainstream media <a class="yt-timestamp" data-t="02:13:27">[02:13:27]</a>.
+
+She describes how mainstream media and literary agents tried to control her narrative, advising her not to appear on platforms like Fox News <a class="yt-timestamp" data-t="01:34:44">[01:34:44]</a>. They even asked her to write a book comparing American prisons to North Korean prison camps, a comparison she refused due to its inaccuracy <a class="yt-timestamp" data-t="01:36:11">[01:36:11]</a>. She notes the difficulty in finding a narrator for her audiobook because people didn't want to be associated with what they considered a "conservative book" <a class="yt-timestamp" data-t="01:35:36">[01:35:36]</a>.
+
+Despite these challenges, Park insists on being genuine and speaking to anyone who will listen, believing that honesty can overcome skepticism <a class="yt-timestamp" data-t="01:41:35">[01:41:35]</a>. She notes that often, only Christians demonstrated genuine concern for North Korean defectors, risking their lives to help them <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>.
+
+## Parenting in the Modern World
+
+As a mother, Park expresses deep concerns for her son's future in modern society. She worries that the current economic and social structures are "designed for women than men," making it harder for boys to succeed <a class="yt-timestamp" data-t="01:02:26">[01:02:26]</a>. She observes developmental differences between boys and girls, such as communication skills and focus, and feels sympathetic to the "men's hardship in life" <a class="yt-timestamp" data-t="01:02:50">[01:02:50]</a>.
+
+She is particularly alarmed by what her son's daycare teaches, including "Equity, equality of outcomes," which she considers Marxist ideology <a class="yt-timestamp" data-t="01:53:30">[01:53:30]</a>. She notes that teaching children entitlements like "free healthcare, free education, free housing" creates unrealistic expectations, as she witnessed in North Korea where such promises led to nothing <a class="yt-timestamp" data-t="01:46:43">[01:46:43]</a>.
+
+## Reflections on Freedom and Responsibility
+
+Park reflects on the overwhelming and even "painful" nature of freedom <a class="yt-timestamp" data-t="02:35:48">[02:35:48]</a>. Having spent her early life with every decision made for her, she found it tiring to "think for myself" and faced the "responsibility" that comes with choice <a class="yt-timestamp" data-t="02:36:08">[02:36:08]</a>. She illustrates this by recounting how she initially relied on her boyfriend to choose meals for her and later learned to make choices as simple as asking for dressing on the side <a class="yt-timestamp" data-t="02:36:26">[02:36:26]</a>.
+
+She believes that progress is not automatic and requires continuous effort and fighting <a class="yt-timestamp" data-t="01:54:23">[01:54:23]</a>. She feels a responsibility to educate the next generation about the realities of totalitarian regimes to prevent society from "going backwards" <a class="yt-timestamp" data-t="01:53:28">[01:53:28]</a>. Park vehemently advocates for the right to self-defense, asserting that if North Koreans had guns, they would not have allowed the regime to persecute their families <a class="yt-timestamp" data-t="01:31:09">[01:31:09]</a>. She argues that the ability to defend oneself is essential for maintaining freedom of speech and other rights <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>.
+
+Her experiences emphasize the importance of fighting for democratic ideals and recognizing that freedom, though challenging, is a precious and hard-won concept <a class="yt-timestamp" data-t="01:48:11">[01:48:11]</a>.

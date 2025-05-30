@@ -1,0 +1,30 @@
+---
+title: Experiences with substance use and its impact on That Mexican OT
+videoId: oHaG0RwKo-M
+---
+
+From: [[officialflagrant]] <br/> 
+That Mexican OT has openly discussed his [[addiction_and_recovery|experiences with substance use]] and the profound impact it has had on his life, from his youth to his current career.
+
+## Early Exposure and Drug Use
+That Mexican OT's early life involved exposure to various substances, starting from a young age. He began using cocaine around 14, during his freshman year of high school <a class="yt-timestamp" data-t="00:19:55">[00:19:55]</a>. He recalls hitting a "20 sack" with a friend in school and even doing cocaine in class with a homegirl who would pull it out on her nail <a class="yt-timestamp" data-t="00:20:04">[00:20:04]</a>, <a class="yt-timestamp" data-t="00:20:23">[00:20:23]</a>. He also remembers fishing while high on cocaine, claiming he was "full on focused" <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a>, <a class="yt-timestamp" data-t="00:21:38">[00:21:38]</a>. His first experience with cocaine led him to believe he "punched himself" due to being "tweaked" <a class="yt-timestamp" data-t="00:19:44">[00:19:44]</a>, <a class="yt-timestamp" data-t="00:19:51">[00:19:51]</a>.
+
+He recounts an incident where he was high on cocaine at 7 or 8 AM after a night of partying and passed out after taking one more bump. He woke up on the floor, feeling like no one could help him, but seeing the cocaine "got my ass up walking home" <a class="yt-timestamp" data-t="02:26:17">[02:26:17]</a>. After this, he went to his grandpa's, smoked "some Reggie with them," and went to bed <a class="yt-timestamp" data-t="02:26:41">[02:26:41]</a>.
+
+His past [[drug_dealing_experiences|drug dealing experiences]] also involved cocaine and ecstasy. He used to party hard with his kinfolk, being on shrooms, cocaine, and ecstasy simultaneously <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>, <a class="yt-timestamp" data-t="02:50:08">[02:50:08]</a>. He specifically remembers the "blue dolphin" ecstasy pills as hitting the hardest <a class="yt-timestamp" data-t="02:51:11">[02:51:11]</a>.
+
+He noted that his mother and her man were also involved in [[drug_dealing_experiences|dealing drugs]], primarily crack cocaine, and he saw a lot of "f***ed up s***" because of it <a class="yt-timestamp" data-t="00:43:05">[00:43:05]</a>, <a class="yt-timestamp" data-t="00:44:09">[00:44:09]</a>. He was present when his mother got into fights due to her drug dealing <a class="yt-timestamp" data-t="00:43:24">[00:43:24]</a>.
+
+## Substance Preferences and Effects
+Despite his past, That Mexican OT now avoids alcohol, stating he doesn't drink because he becomes "wild" and "mean" on it <a class="yt-timestamp" data-t="02:07:07">[02:07:07]</a>, <a class="yt-timestamp" data-t="02:07:16">[02:07:16]</a>. He contrasts this with his experience on drugs, where he claims to be "happy" and "friendly," simply wanting to "give me a hug man" <a class="yt-timestamp" data-t="02:07:18">[02:07:18]</a>. On shrooms, he just wants to "smile" <a class="yt-timestamp" data-t="02:07:22">[02:07:22]</a>. He acknowledges that taking a Percocet once for a dental reason made him feel "warm and fuzzy and amazing," leading him to tell a girl he loved her <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>.
+
+He is a regular smoker, particularly of "Woods" (Backwoods), a common practice in Texas, contrasting it with New York's preference for "Dutches" <a class="yt-timestamp" data-t="00:18:26">[00:18:26]</a>, <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a>. He was surprised when he learned about spliffs (tobacco mixed with weed) but noted he doesn't like "grabba" (tobacco from resin/tar) <a class="yt-timestamp" data-t="00:18:42">[00:18:42]</a>, <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>.
+
+## Impact on Mental State and Outlook
+That Mexican OT believes his mind is "very polluted" due to his past [[drug_dealing_experiences|drug dealing experiences]] and the "f***ed up s***" he witnessed through his mother and her man's drug dealing <a class="yt-timestamp" data-t="00:42:46">[00:42:46]</a>, <a class="yt-timestamp" data-t="00:43:05">[00:43:05]</a>. He attributes a lot of his anger and "chip on my shoulder" to feeling "robbed from everything" due to his mother dying at a young age and experiencing a "grown as s***" life as a kid <a class="yt-timestamp" data-t="02:22:31">[02:22:31]</a>.
+
+While he used psychedelics like shrooms, he doesn't believe they helped him become less angry, stating he just "realized how unhealthy" his anger was <a class="yt-timestamp" data-t="02:37:12">[02:37:12]</a>, <a class="yt-timestamp" data-t="02:37:20">[02:37:20]</a>. He describes feeling physically drained and wanting to sleep after bouts of extreme anger <a class="yt-timestamp" data-t="02:37:22">[02:37:22]</a>, <a class="yt-timestamp" data-t="02:37:29">[02:37:29]</a>.
+
+He recounts a chaotic incident where he was chased by police while high, forcing him to run through land, jump fences, and swim a river in the cold. He ended up getting sick for two weeks afterward and lost the drugs he was carrying, but his friends got arrested <a class="yt-timestamp" data-t="01:54:57">[01:54:57]</a>, <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>, <a class="yt-timestamp" data-t="02:00:11">[02:00:11]</a>. He found jail unbearable due to the lack of phone and TV <a class="yt-timestamp" data-t="02:00:40">[02:00:40]</a>.
+
+His [[addiction_and_recovery|past struggles with drugs]] and his state of being broke and unemployed in 2018-2019 led him to focus on music, which he now dedicates his life to <a class="yt-timestamp" data-t="02:34:34">[02:34:34]</a>, <a class="yt-timestamp" data-t="02:37:07">[02:37:07]</a>. Despite the challenges, his music career has become his primary focus and passion <a class="yt-timestamp" data-t="04:24:25">[04:24:25]</a>.
