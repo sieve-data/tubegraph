@@ -1,0 +1,60 @@
+---
+title: Challenges to Indian democracy and opposition
+videoId: JyJd111Ym7U
+---
+
+From: [[dhruvrathee]] <br/> 
+
+The state of India's democracy and the challenges faced by its opposition parties have become a critical concern for true patriots <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>. Recent events suggest a potential shift towards [[concerns_about_dictatorship_in_india | dictatorship]] <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>, raising questions about the fairness of elections and the protection of citizens' rights <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>, <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.
+
+## Targeting of Opposition Leaders and Parties
+
+### Arrest of High-Profile Figures
+For the first time in independent India's history, a sitting Chief Minister, Delhi's Arvind Kejriwal, was arrested without any money trail or conviction <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>, <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. Other leaders from the Aam Aadmi Party (AAP), including Manish Sisodia, Satyendra Jain, and Sanjay Singh, have also been arrested and remain in jail without proven crimes <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>, <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>, <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>, <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+
+The Enforcement Directorate (ED) alleges that AAP leaders received ₹1 billion in bribes under Delhi's Excise policy <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. However, AAP politician Atishi states that despite over 500 raids and 1,000 witnesses in a two-year investigation, no evidence of wrongdoing has been found <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>.
+
+A key factor in the denial of bail for these leaders is the Prevention of Money Laundering Act (PMLA), particularly its 2018 amendment by the Modi government <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>, <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. This amendment shifted the burden of proof, making it "guilty until proven innocent" and significantly harder to obtain bail <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+
+### Connection to [[economic_disparities_and_political_propaganda_in_india | Electoral Bonds]]
+Arvind Kejriwal's arrest is reportedly linked to statements from four individuals, one of whom is Sarath Chandra Reddy, head of Aurobindo Pharma Company <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>, <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. Reddy was arrested by the ED on November 10, 2022, after initially making statements in favor of Kejriwal <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>, <a class="yt-timestamp" data-t="00:04:53">[00:04:53]</a>. Five days post-arrest, his company donated ₹50 million to BJP via electoral bonds <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>, <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. After six months in jail, Reddy changed his statement to be against Kejriwal on April 25, 2023, was granted bail by the ED in May 2023, and became an ED approver in June 2023 <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>, <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>, <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>, <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>, <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. Six months after his bail, his company made another donation of ₹250 million to BJP <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>, <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. In total, Aurobindo Pharma bought bonds worth ₹520 million, with ₹340 million going to BJP <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>. This has led Atishi to claim the money trail leads to BJP, not AAP <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
+
+### Financial and Legal Harassment
+The country's largest opposition party, Congress, claims its bank accounts have been frozen, hindering its ability to campaign <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>. The Income Tax Department cited untimely filing of returns and a 31-year-old case (1993-1994) to impose a fine of ₹17 billion on Congress <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>, <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>. The Communist Party was also fined ₹110 million for using an old PAN card <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>.
+
+Opposition candidates are reportedly receiving notices from the ED and IT departments as soon as their candidacies are declared <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. For instance, Shiv Sena's Amol Kirtikar received an ED notice an hour after being declared a candidate <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. TMC candidate Saket Gokhale received 11 IT notices in 72 hours, some relating to seven years ago <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+
+### Political Defection and Case Closures
+Leaders previously accused of corruption by the BJP, such as NCP's Praful Patel, have seen their cases closed after joining the BJP alliance <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>, <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>, <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. Similarly, Naveen Jindal, a Congress candidate accused in the Coalgate scam, received a BJP ticket after joining the party <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>.
+
+## Undermining Democratic Institutions
+
+### Election Commission's Independence
+The [[bias_and_control_of_indian_election_commission | Election Commission of India (ECI)]], responsible for [[electoral_integrity_and_challenges_in_ensuring_free_and_fair_elections | fair elections]], has seen changes raising concerns <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>. Following Election Commissioner Arun Goel's resignation, two new commissioners were appointed <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>, <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. The Modi government introduced a new law to remove the Chief Justice of India (CJI) from the selection committee, replacing him with a Union Minister <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>. This committee, comprising Prime Minister Modi, Home Minister Amit Shah, and an Opposition politician, appointed Gyanesh Kumar and Sukhbir Sandhu <a class="yt-timestamp" data-t="00:11:35">[00:11:35]</a>, both retired IAS officers who had previously worked under Amit Shah or held significant government positions <a class="yt-timestamp" data-t="00:12:22">[00:12:22]</a>, <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>. The opposition politician stated he was given a list of 212 names the night before and a shortlist of six names just before the meeting, without adequate time for review <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>.
+
+### Judiciary Concerns
+The judiciary also faces challenges. A Calcutta High Court Judge, Abhijit Gangopadhyay, resigned and formally joined the BJP, admitting he had approached the party before his resignation <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>, <a class="yt-timestamp" data-t="00:13:11">[00:13:11]</a>. Chief Justice of India D.Y. Chandrachud noted that "jail is becoming the rule" in district courts, implying judges are hesitant to grant bail due to pressure <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>, <a class="yt-timestamp" data-t="00:13:42">[00:13:42]</a>.
+
+### [[influence_on_indian_media_and_political_environment | Media Control]]
+News about the [[economic_disparities_and_political_propaganda_in_india | Electoral Bonds]] scam, the "biggest scam in history," disappeared from TV channels and newspapers <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. Congress claims they are not even allowed to have paid advertisements in newspapers <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. This suggests a significant challenge to [[challenges_of_independent_journalism_in_india | independent journalism]].
+
+## Global Perception and Democratic Decline
+The situation in India is attracting international attention. Germany, America, and the United Nations have issued statements hoping that people in India will be able to vote freely and fairly, and that everyone's rights will be protected <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>. India's global reputation has reportedly declined <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+
+The Democracy Report 2024 by Sweden's V-Dem Institute categorized India as an "Electoral Autocracy," two steps away from full dictatorship <a class="yt-timestamp" data-t="00:16:00">[00:16:00]</a>, <a class="yt-timestamp" data-t="00:16:06">[00:16:06]</a>. This means multi-party elections are held, but there is no fair playing field, and people's freedom is being crushed <a class="yt-timestamp" data-t="00:16:16">[00:16:16]</a>. The report notes the Modi government's use of laws like sedition, defamation, and counter-terrorism to suppress dissenting voices <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>.
+
+## Threats to Freedom of Expression
+The proposed Broadcasting Services Regulation Bill 2023 aims to bring in new IT rules that categorize YouTube channels, Facebook accounts, Instagram handles, and WhatsApp channels as broadcasters <a class="yt-timestamp" data-t="00:16:34">[00:16:34]</a>. These "broadcasters" would need to register with the government, and a Central Evaluation Committee would have extensive powers to approve content, with the government able to seize equipment without prior notice <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>, <a class="yt-timestamp" data-t="00:17:08">[00:17:08]</a>. This raises concerns about the suppression of voices on social media <a class="yt-timestamp" data-t="00:17:16">[00:17:16]</a>.
+
+Arrests and FIRs have been filed against individuals for sticking posters critical of the government, such as those stating, "Dethrone Modi to Save the Country" <a class="yt-timestamp" data-t="00:14:35">[00:14:35]</a>. Journalists have also faced cases for reporting on issues like poor midday meals in schools <a class="yt-timestamp" data-t="00:14:43">[00:14:43]</a>.
+
+## Call to Action for [[preservation_of_democracy_and_challenges_to_electoral_integrity_in_india | Democracy Preservation]]
+The situation in India is described as leaning towards dictatorship rather than being a full dictatorship, emphasizing a spectrum of democratic health <a class="yt-timestamp" data-t="00:15:08">[00:15:08]</a>. The responsibility for protecting Indian democracy now falls on its citizens <a class="yt-timestamp" data-t="00:20:40">[00:20:40]</a>, <a class="yt-timestamp" data-t="00:20:43">[00:20:43]</a>.
+
+To safeguard democracy, citizens are urged to:
+1.  **Raise their voice**: Spread awareness by sharing information on social media and with others <a class="yt-timestamp" data-t="00:21:24">[00:21:24]</a>.
+2.  **Vote**: Ensure they are registered and participate in elections, as "every vote matters" <a class="yt-timestamp" data-t="00:21:42">[00:21:42]</a>.
+3.  **Convince others to vote**: Encourage family, friends, and neighbors to participate in the electoral process, especially considering that 30-35% of eligible voters typically do not vote <a class="yt-timestamp" data-t="00:22:08">[00:22:08]</a>.
+4.  **Act with happiness and love**: Drown out the oppressor's ego with laughter and counter hatred with love <a class="yt-timestamp" data-t="00:23:05">[00:23:05]</a>.
+
+This collective effort is seen as crucial to combat the "undeclared emergency" and protect the freedoms fought for by past generations <a class="yt-timestamp" data-t="00:20:54">[00:20:54]</a>, <a class="yt-timestamp" data-t="00:21:09">[00:21:09]</a>.

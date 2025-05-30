@@ -1,0 +1,26 @@
+---
+title: Role of student politics in the rise of gangsters
+videoId: B2-bbNo-9bg
+---
+
+From: [[dhruvrathee]] <br/> 
+
+Student politics can sometimes serve as an unexpected springboard into a life of crime, as exemplified by the case of [[lawrence_bishnois_criminal_activities_and_gang_involvement | Lawrence Bishnoi]]. While some, like Bhagat Singh, engaged in student politics to fight injustice and foster unity, others, such as Lawrence Bishnoi, used it as an entry point into criminal activities <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>.
+
+## Lawrence Bishnoi's Entry into Crime through Student Politics
+
+Lawrence Bishnoi pursued his studies at a college in Chandigarh, where he became involved in student politics <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. Initially, this might seem beneficial, as student political engagement is often viewed positively <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. However, Bishnoi's trajectory quickly diverged from traditional political activism.
+
+His involvement started with campaigning for a candidate in a student politics election. During this period, a confrontation with an opposing party led to a friend firing a warning shot <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>. Five days later, Bishnoi and his associates allegedly set fire to a rival candidate's campaign car, leading to his arrest along with eight friends <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>. While incarcerated, he reportedly met a weapons supplier <a class="yt-timestamp" data-t="00:06:58">[00:06:58]</a>. Upon his release, his criminal activities escalated, although some early cases were quashed due to compromises between parties <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
+
+In 2010, Bishnoi contested for the Student Organisation President post at Punjab University, but when he lost, he allegedly attacked his rival candidate <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. He was released on bail in 2011, re-contested, and won the election <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>. By the time he was in college, approximately 18 cases had been filed against him <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>.
+
+After obtaining a law degree in 2012, Bishnoi did not pursue a legal career <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. Instead, he continued his criminal path, appearing in courts as an accused rather than a lawyer <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. In 2013, during a campaign for a presidential nominee he supported, he and his associates were allegedly involved in the murder of a rival nominee <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>. These early incidents highlight how his engagement in student politics quickly morphed into organized crime, leading to his establishment as a gang leader by 2015 <a class="yt-timestamp" data-t="00:08:06">[00:08:06]</a>.
+
+## Contrast with Ideal Student Politics
+
+The speaker draws a sharp contrast between Lawrence Bishnoi's actions and the ideals of student politics, citing Bhagat Singh as an example <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. Bhagat Singh, during his college days, was a political activist who raised his voice against British atrocities and sought solutions to societal problems like religious riots <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>. He believed in intellectual discourse and class-consciousness to unite people, regardless of religion or nationality, to achieve collective empowerment <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. In stark opposition, Lawrence Bishnoi's student politics was characterized by violence, intimidation, and the alleged murder of rivals, leading to a long history of [[lawrence_bishnois_criminal_activities_and_gang_involvement | criminal activities]] <a class="yt-timestamp" data-t="00:06:34">[00:06:34]</a>.
+
+## Nexus with Gangsters and the Music Industry
+
+The influence of student politics as a breeding ground for criminal connections is further evidenced in the Punjab music industry. As artists gain fame, they often face extortion threats <a class="yt-timestamp" data-t="00:19:51">[00:19:51]</a>. Managers of Punjabi singers reveal that performers are often invited to events at Punjab University colleges, where they encounter "goons" who act as a nexus between students, politicians, and gangsters <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. If a student politician is affiliated with one gang, the singer might later receive extortion calls from a rival gang <a class="yt-timestamp" data-t="00:20:10">[00:20:10]</a>. While singers may pay the extortion money or seek protection from the first gang, this dynamic inadvertently traps them in a criminal network, illustrating how seemingly legitimate student politics can feed into the broader [[impact_of_gangster_culture_in_india | gangster culture]] <a class="yt-timestamp" data-t="00:20:25">[00:20:25]</a>. This highlights the dangers when individuals with legitimate positions become patrons of "bad elements," transforming them into "Frankenstein's monsters" for the artists seeking patronage <a class="yt-timestamp" data-t="00:20:31">[00:20:31]</a>.

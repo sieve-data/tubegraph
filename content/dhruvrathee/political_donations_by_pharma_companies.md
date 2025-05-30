@@ -1,0 +1,59 @@
+---
+title: Political Donations by Pharma Companies
+videoId: iOjthKqDlFg
+---
+
+From: [[dhruvrathee]] <br/> 
+
+The Electoral Bond Scam is described as the biggest scam not only in India but in the world, a claim made by the Finance Minister Nirmala Sitharaman's husband, who is an economist <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This scam is not singular but a collection of various scams, including the theft of public funds, the awarding of government tenders to unworthy companies, allowing tax-evading companies to continue their operations, and extortion <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. Beyond financial misconduct, some aspects of this scam involve playing with the lives of citizens <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+
+## Substandard Medicines and Fatal Consequences
+
+A significant concern highlighted is the distribution of poor-quality medicines, which has led to severe health issues and deaths <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+
+### Zydus Cadila and Remdesivir Controversy
+
+During the second wave of Covid in India in May 2021, patients in Uttar Pradesh hospitals, including Chiranjeev Hospital and Lifeline Hospital, showed severe adverse reactions like shivering, high fever, and plummeting blood oxygen levels after receiving the first shot of anti-viral medication Remdesivir <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. Investigation revealed that the same batch (V100167) of Remdesivir, manufactured by Gujarat-based Zydus Cadila, was given to these patients <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>. Similar reactions were reported in other Uttar Pradesh hospitals and states like Rajasthan, Maharashtra, Gujarat, and Bihar, involving various batches (V100153, 156, 166, 167, 170, or L100148) from the same manufacturer, Cadila <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
+
+Bihar's regulators tested batch V100167 and found it contained bacterial endotoxins, compounds that can cause fever and septic shock <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. Despite Bihar informing the Gujarat FDCA (Food and Drug Control Administration) about the substandard quality, Gujarat FDCA did not conduct any testing nor recalled the medicines, violating the Drugs and Cosmetics law <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+
+Shockingly, the World Health Organization (WHO) had advised against using Remdesivir in November 2020, stating it was ineffective against Covid, yet the Indian government approved its production increase <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>.
+
+The connection to electoral bonds is revealed by data showing that Zydus Cadila donated ₹180 million to the BJP through electoral bonds <a class="yt-timestamp" data-t="00:07:29">[00:07:29]</a>. The company also donated ₹30 million to Congress and ₹80 million to BJP's ally, Sikkim Krantikari Morcha (SKM) <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>. SKM, in power in Sikkim (a pharma hub), received donations from five companies, four of which were pharma companies <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>.
+
+### Other Pharma Companies with Quality Issues and Donations
+
+*   **Glenmark Pharmaceuticals**: Received five notices for [[Pharmaceutical Quality Control Issues | substandard medicines]] between 2022 and 2023, four from Maharashtra's Food and Drugs Administration, concerning a blood pressure regulating medicine <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>. This company bought electoral bonds worth ₹97.5 million in November 2022, which were all encashed by the BJP <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>.
+*   **Torrent Pharma**: Its antiplatelet medicine Deplatt 150 failed the salicylic acid test and was declared substandard by Maharashtra FDA in 2018 <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. In October 2019, the US Food and Drug Administration warned the company due to repeated [[Pharmaceutical Quality Control Issues | quality-related failures]] <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>. Despite this, between May 2019 and January 2024, Torrent Pharma bought electoral bonds worth ₹775 million, with the majority (₹610 million) going to the BJP <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. The BJP government in Gujarat took no action <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+*   **Cipla**: Was served four show-cause notices for its medicines, including RC cough syrup (August 2018) and Remdesivir (July 2021), where the latter had insufficient active ingredient <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>. Cipla bought electoral bonds worth ₹392 million, donating ₹370 million to the BJP and ₹22 million to Congress <a class="yt-timestamp" data-t="00:09:58">[00:09:58]</a>. The timing of their donations suggests [[influence_of_political_donations_on_government_contracts | political affiliations]] with the ruling party in Maharashtra <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.
+
+### Lethal Contaminated Cough Syrups
+
+The issue extends to cough syrups, often given to children <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>.
+
+*   **Marion Biotech**: In December 2022, 18 children in Uzbekistan died from substandard cough syrup <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>. WHO linked these deaths to two contaminated cough syrups, Ambronol Syrup and Dok1-Max Syrup, containing high amounts of diethylene glycol and ethylene glycol <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. Both were manufactured by Uttar Pradesh-based Marion Biotech <a class="yt-timestamp" data-t="00:11:33">[00:11:33]</a>. Similar deaths occurred in Gambia and Cameroon, also linked to contaminated cough syrups, involving Marion Biotech and two other Indian companies: Haryana-based Maiden Pharmaceuticals and Madhya Pradesh-based Riemann Labs <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>. In total, 141 children died, with Marion Biotech's cough syrup linked to 68 deaths <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>.
+    *   Uzbekistan's government banned imports from Quramax Medical (distributor), cancelled its license, ordered destruction of medicines, and sentenced 23 people to imprisonment, including Raghvendra Pratar Singh, the Indian Executive Director of Quramax, to 20 years <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>.
+    *   In India, 22 samples of Marion Biotech's cough syrup were found to be adulterated <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>. The company bought industrial-grade propylene glycol, which is toxic for humans, from Maya Chemtech India, a company without a license to sell pharmaceutical-grade materials <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>. Marion Biotech's head of operations confessed they had never tested their propylene glycol in over 10 years of exports <a class="yt-timestamp" data-t="00:13:27">[00:13:27]</a>.
+    *   Marion Biotech's registration was suspended <a class="yt-timestamp" data-t="00:13:41">[00:13:41]</a>, and its manufacturing license was cancelled <a class="yt-timestamp" data-t="00:13:49">[00:13:49]</a>. Three employees were arrested and later released on bail <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>. Despite the deaths, in October 2023, the Uttar Pradesh government allowed the company to reopen its factory, albeit restricting production of products containing propylene glycol <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>.
+*   **Digital Vision Pharma Company**: In Udhampur, J&K, around 12 children, some as young as two months old, died after consuming a cough syrup with high amounts of diethylene glycol, manufactured by Digital Vision Pharma Company <a class="yt-timestamp" data-t="00:14:48">[00:14:48]</a>. This company also used industrial-grade ingredients <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>. Despite numerous prior warnings from drug regulators in Maharashtra and Gujarat, it took three years to file a charge sheet, and four years later, no one has been found guilty <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>.
+*   In December 2023, the Central Drug Standard Control Organisation found that 54 pharma companies had failed export quality tests for cough syrups <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>. This impacts India's reputation as the "Pharmacy of the World" <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>.
+
+## Government Actions and Political Influence
+
+Instead of tightening quality control, the government passed the Jan Vishwas Bill in August 2023, which aims to ease penalties for low-quality drugs <a class="yt-timestamp" data-t="00:16:23">[00:16:23]</a>. This bill decriminalises minor offenses committed by companies <a class="yt-timestamp" data-t="00:16:42">[00:16:42]</a>. Public health activist Dinesh Thakur criticized this move, arguing that such offenses should not be decriminalized <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>.
+
+Furthermore, the government amended Section 27D of the Drugs and Cosmetics Act <a class="yt-timestamp" data-t="00:16:53">[00:16:53]</a>. Previously, failing a lab test could lead to 1-2 years of imprisonment; now, an out-of-court compromise through payment is sufficient <a class="yt-timestamp" data-t="00:16:59">[00:16:59]</a>.
+
+### Hetero Group and Political Donations
+
+Maharashtra's FDA issued six notices to Hetero group for substandard drugs, including three for their Remdesivir medicine <a class="yt-timestamp" data-t="00:17:17">[00:17:17]</a>. Despite these violations, which should have led to the cancellation of the manufacturing license, the company quietly recalled the medicines and bought electoral bonds <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>.
+
+The Hetero group donated ₹1.2 billion to BRS (Bharat Rashtra Samithi), which was in power in Telangana at the time <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>. The founder and chairman of the company were even given Rajya Sabha seats by BRS <a class="yt-timestamp" data-t="00:17:56">[00:17:56]</a>. When the BJP came back to power in Maharashtra in 2022, they encashed bonds worth ₹150 million from this company <a class="yt-timestamp" data-t="00:18:02">[00:18:02]</a>.
+
+This pattern exemplifies [[scams_and_corruption_in_political_donations | scams and corruption in political donations]] and the [[influence_of_political_donations_on_government_contracts | influence of political donations on government contracts]].
+
+## Electoral Bonds and Transparency
+
+Prime Minister Modi claimed that electoral bonds allowed transparency in the flow of funds <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a>. However, the electoral bond system was a secret political funding method <a class="yt-timestamp" data-t="00:18:48">[00:18:48]</a>. The data revealing who paid how much to whom only became public after the Supreme Court declared it unconstitutional and struck it down <a class="yt-timestamp" data-t="00:18:51">[00:18:51]</a>. Without the Supreme Court's intervention, this scheme would have continued behind the curtains, highlighting a lack of [[transparency_and_accountability_in_political_funding | transparency and accountability in political funding]] <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>.
+
+Overall, pharma companies donated ₹9.45 billion to political parties through electoral bonds <a class="yt-timestamp" data-t="00:19:28">[00:19:28]</a>. This illustrates the deep connection between [[corporate_funding_and_political_donations | corporate funding and political donations]] and regulatory oversight.

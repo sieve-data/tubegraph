@@ -1,0 +1,114 @@
+---
+title: The Ambani brothers feud and its impact on their empire
+videoId: wen1BmMaShQ
+---
+
+From: [[dhruvrathee]] <br/> 
+
+The story of the Ambani brothers, Mukesh and Anil, is marked by a significant feud that dramatically reshaped their business empires <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>. This conflict, which started as a private family matter, eventually impacted India's political and financial systems, drawing in politicians from various parties <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>.
+
+## Dhirubhai Ambani's Legacy and Early Tensions
+
+The foundation of the Ambani empire was laid by their father, Dhirubhai Ambani, who rose from a gas station attendant to one of India's biggest businessmen by the 1980s <a class="yt-timestamp" data-t="02:28:00">[02:28:00]</a>. Following a stroke in February 1986, Dhirubhai began handing over his businesses to his sons <a class="yt-timestamp" data-t="02:37:00">[02:37:00]</a>.
+
+Mukesh Ambani, an introvert, was tasked with operations, focusing on setting up mega-projects within time and budget <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>. Anil Ambani, an extrovert, became the public face of Reliance, handling public relations, corporate affairs, lobbying, and government marketing <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. In 1991, Dhirubhai appointed Mukesh as Vice Chairman of Reliance, while Anil remained Joint Managing Director, indicating a clear preference for Mukesh to eventually take over the company <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>. Mukesh gradually assumed more control, bringing in loyalists like Anand Jain and Manoj Modi <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>.
+
+### [[influence_of_family_dynamics_on_the_ambani_brothers | Family Dynamics]] and Preference
+
+Dhirubhai's preference for Mukesh was influenced by several factors, including [[influence_of_family_dynamics_on_the_ambani_brothers | family dynamics]] <a class="yt-timestamp" data-t="03:34:00">[03:34:00]</a>. Anil Ambani's decision to marry Tina Munim, a Bollywood celebrity, faced strong opposition from the conservative Ambani family, especially Dhirubhai, who even orchestrated an ED raid on Tina <a class="yt-timestamp" data-t="03:38:00">[03:38:00]</a>. Despite this, Anil was adamant, threatening to leave the family if Tina was not accepted <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>. They married in February 1991 <a class="yt-timestamp" data-t="05:02:00">[05:02:00]</a>. In contrast, Mukesh married Neeta Dalal, chosen by his mother, and Neeta became the "real daughter-in-law," involved in important family decisions, while Tina remained an outsider <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>. Further tension arose when Sandeep Tandon, the IRS officer who had raided Tina's house, joined Reliance as a consultant with Mukesh's approval, upsetting Anil <a class="yt-timestamp" data-t="05:39:00">[05:39:00]</a>.
+
+## Sidelining Anil in the Telecom Sector
+
+The growing rift became evident when Reliance entered the telecom sector with Reliance Infocomm <a class="yt-timestamp" data-t="06:04:00">[06:04:00]</a>. Neither Anil nor his supporters were given major roles in this venture <a class="yt-timestamp" data-t="06:08:00">[06:08:00]</a>. Mukesh and Nita Ambani held a majority share (50.55%) in the holding company, Reliance Communication Infrastructure Limited, with RIL holding 45% <a class="yt-timestamp" data-t="06:20:00">[06:20:00]</a>. Mukesh, as Chairman and Managing Director of RIL, filled top positions with his loyalists <a class="yt-timestamp" data-t="06:31:00">[06:31:00]</a>. Anil perceived this as a clear attempt to sideline him and felt his contributions, particularly in managing political and media relations, were not appreciated <a class="yt-timestamp" data-t="06:42:00">[06:42:00]</a>.
+
+By 1999, even with Dhirubhai alive, the brothers had fallen out, leading to the formation of "Pro-Mukesh" and "Pro-Anil" factions within the Reliance Group <a class="yt-timestamp" data-t="07:06:00">[07:06:00]</a>.
+
+## Dhirubhai's Passing and Escalation of Conflict
+
+In March 2002, Dhirubhai attempted to prevent a business division by announcing a mega-merger of Reliance Petroleum with Reliance India Ltd., hoping to force the brothers to work together <a class="yt-timestamp" data-t="07:25:00">[07:25:00]</a>. However, this effort failed. Dhirubhai Ambani passed away on July 6, 2002 <a class="yt-timestamp" data-t="07:45:00">[07:45:00]</a>.
+
+After his father's death, Mukesh assumed control of Reliance, with Anil becoming the Second-in-Command <a class="yt-timestamp" data-t="07:52:00">[07:52:00]</a>. Tensions quickly resurfaced <a class="yt-timestamp" data-t="07:57:00">[07:57:00]</a>. Anil accused Mukesh of using RIL to fund his telecom venture and benefit himself and his associates, while also criticizing Neeta Ambani's increasing role in Reliance Infocomm's advertising and branding <a class="yt-timestamp" data-t="08:02:00">[08:02:00]</a>. In July 2004, the Reliance Board restricted Anil's financial powers and made him work under Mukesh's supervision, leading Anil to believe he was being entirely sidelined <a class="yt-timestamp" data-t="08:21:00">[08:21:00]</a>. Mukesh also refused Anil's proposal to appoint their mother, Kokilaben, as Reliance's Chairperson <a class="yt-timestamp" data-t="08:39:00">[08:39:00]</a>.
+
+## Mukesh's Concerns and [[role_of_political_connections_in_anil_ambanis_business_decisions | Anil's Political Involvement]]
+
+From Mukesh's perspective, Anil was not serious about business, evidenced by his close ties with Samajwadi Party leaders Mulayam Singh Yadav and Amar Singh <a class="yt-timestamp" data-t="08:53:00">[08:53:00]</a>. Unlike Dhirubhai, who maintained good relations with all politicians, Anil's strong affiliation with an opposition party like the Samajwadi Party was seen as detrimental to Reliance's business interests, especially given the newly elected Congress-led central government <a class="yt-timestamp" data-t="09:04:00">[09:04:00]</a>.
+
+Anil's nomination and win as an independent Rajya Sabha candidate from UP in June 2004, with the help of Amar Singh and Mulayam Singh Yadav, solidified Mukesh's discomfort <a class="yt-timestamp" data-t="09:17:00">[09:17:00]</a>. Mukesh also disliked Anil's public declaration of his and Tina's wealth during the Rajya Sabha nomination process <a class="yt-timestamp" data-t="09:53:00">[09:53:00]</a>.
+
+A third point of contention was Anil's proposed gas-based power plant in Dadri, Uttar Pradesh, which Mukesh believed Anil pushed solely to please his political allies <a class="yt-timestamp" data-t="10:06:00">[10:06:00]</a>.
+
+## Public Feud and Intervention
+
+By late 2004, the brothers' relationship reached a breaking point, becoming an open war played out in the media <a class="yt-timestamp" data-t="10:31:00">[10:31:00]</a>. The Times of India reported on a "Brothers' Feud" within a "major business group" <a class="yt-timestamp" data-t="10:35:00">[10:35:00]</a>.
+
+On November 18, 2004, at a CNBC TV18 Business Seminar, Microsoft CEO Steve Ballmer, Mukesh's Stanford classmate, revealed that Mukesh had dropped out of Stanford Business School in his first year <a class="yt-timestamp" data-t="10:50:00">[10:50:00]</a>. This shocked the audience, as Reliance's official documents stated Mukesh had completed his MBA <a class="yt-timestamp" data-t="11:19:00">[11:19:00]</a>. Upset, Mukesh left the seminar early but not before publicly announcing "ownership issues" within the Reliance Group, a statement he later retracted <a class="yt-timestamp" data-t="11:27:00">[11:27:00]</a>.
+
+Anil capitalized on the public attention, leading to a deterioration of Mukesh's public image as news of his political dealings, use of Reliance for personal benefit, and corporate governance issues were published <a class="yt-timestamp" data-t="12:03:00">[12:03:00]</a>. By December 2004, the situation was so severe that Finance Minister P. Chidambaram intervened, stating the feud was hurting the entire country <a class="yt-timestamp" data-t="12:27:00">[12:27:00]</a>. Pressure from the government, their mother Kokilaben, and family friend K.V. Kamath led Mukesh to agree to a truce <a class="yt-timestamp" data-t="12:39:00">[12:39:00]</a>.
+
+## 2005 Agreement and Temporary Peace
+
+In June 2005, an agreement was signed to resolve their differences <a class="yt-timestamp" data-t="12:58:00">[12:58:00]</a>. Mukesh received flagship companies like RIL and Indian Petrochemicals Corporation Ltd., while Anil received Reliance Infocomm, Reliance Energy, and Reliance Capital <a class="yt-timestamp" data-t="13:05:00">[13:05:00]</a>. They also signed a 10-year non-compete agreement, preventing one brother from competing in sectors where the other operated <a class="yt-timestamp" data-t="13:21:00">[13:21:00]</a>. Broadly, Mukesh received 60%-70% of Reliance Group assets, and Anil received 30%-40% <a class="yt-timestamp" data-t="13:32:00">[13:32:00]</a>. By 2007, both brothers had similar net worths ($49 billion for Mukesh, $45 billion for Anil), leading many to believe the feud had ended <a class="yt-timestamp" data-t="13:43:00">[13:43:00]</a>.
+
+## Resumption of Feud: [[mukesh_and_anil_ambanis_legal_battles_over_business_conflicts | The Gas Wars]] and Business Struggles
+
+The peace was short-lived. Mukesh remained upset about Anil acquiring Reliance Infocomm, his "dream project," and waited for an opportunity to act <a class="yt-timestamp" data-t="14:03:00">[14:03:00]</a>. This opportunity arose in January 2008 when Anil launched Reliance Power's IPO <a class="yt-timestamp" data-t="14:11:00">[14:11:00]</a>. Despite raising ₹120 billion, the shares crashed by almost 20% the day after launch <a class="yt-timestamp" data-t="14:27:00">[14:27:00]</a>. Anil blamed Mukesh's companies, alleging that Mauritius-based companies connected to Mukesh dumped shares within minutes of allotment to prevent Anil from becoming richer <a class="yt-timestamp" data-t="14:56:00">[14:56:00]</a>.
+
+Anil faced another setback during the MTN deal, where his Reliance Communications was set to merge with the South African telecom company, which would have made Anil richer than Mukesh <a class="yt-timestamp" data-t="15:18:00">[15:18:00]</a>. Mukesh cited the non-compete agreement, which included a right of first refusal for share sales, to block the deal <a class="yt-timestamp" data-t="15:33:00">[15:33:00]</a>. Although Anil tried to bypass this by directly purchasing MTN shares, MTN backed out due to the infighting <a class="yt-timestamp" data-t="15:57:00">[15:57:00]</a>.
+
+Anil also claimed Mukesh was using [[role_of_political_connections_in_anil_ambanis_business_decisions | political pressure]] to harm his businesses, such as when Anil's highest bid for the privatization of Delhi and Mumbai airports was rejected due to a perceived "conflict of interest," which Anil attributed to Mukesh <a class="yt-timestamp" data-t="16:17:00">[16:17:00]</a>. Similar issues arose with coal-based methane extraction contracts <a class="yt-timestamp" data-t="16:38:00">[16:38:00]</a>.
+
+### The Gas Wars
+
+The most significant battle was the "Gas Wars" <a class="yt-timestamp" data-t="16:53:00">[16:53:00]</a>. The 2005 settlement granted gas exploration and extraction to Mukesh and power generation to Anil <a class="yt-timestamp" data-t="16:55:00">[16:55:00]</a>. Mukesh had promised to supply gas for Anil's Dadri power plant at $2.34 per million British thermal units for 17 years <a class="yt-timestamp" data-t="17:26:00">[17:26:00]</a>. However, the Ministry of Petroleum and Natural Gas, led by Murli Deora, a close associate of Dhirubhai, refused to approve this price, asserting that the government determines natural resource prices <a class="yt-timestamp" data-t="18:03:00">[18:03:00]</a>. Anil claimed this decision favored Mukesh, as the government later approved a higher price of $4.21 <a class="yt-timestamp" data-t="18:18:00">[18:18:00]</a>.
+
+This escalated into a legal battle <a class="yt-timestamp" data-t="18:29:00">[18:29:00]</a>. In 2009, the Bombay High Court ruled in Anil's favor, ordering Mukesh to honor the family agreement <a class="yt-timestamp" data-t="18:45:00">[18:45:00]</a>. Mukesh appealed to the Supreme Court, and the government also filed a petition, arguing that natural gas is national property and its price could not be privately decided <a class="yt-timestamp" data-t="19:00:00">[19:00:00]</a>. Anil accused the UPA government and the Petroleum Ministry of favoring Mukesh, even at the cost of public companies like ONGC <a class="yt-timestamp" data-t="19:19:00">[19:19:00]</a>. His companies published front-page ads accusing the government of working to benefit Mukesh <a class="yt-timestamp" data-t="19:34:00">[19:34:00]</a>.
+
+### Assassination Attempt on Anil Ambani?
+
+During this period, a shocking incident occurred. On April 23, 2009, during maintenance of Anil Ambani's helicopter, a technician named Bharat Borge found small stones, soil, and pebbles inside the fuel tank <a class="yt-timestamp" data-t="20:08:00">[20:08:00]</a>. Experts stated the helicopter would have crashed if it had flown <a class="yt-timestamp" data-t="20:31:00">[20:31:00]</a>. Theories circulated about corporate rivals being responsible <a class="yt-timestamp" data-t="20:40:00">[20:40:00]</a>. Days later, Borge's body was found on a railway track with a suicide note claiming he was questioned by officials from Mukesh's company <a class="yt-timestamp" data-t="20:45:00">[20:45:00]</a>. Although police were not satisfied with the suicide note and arrested co-workers for sabotage and murder, supporters of both brothers continued to accuse the other <a class="yt-timestamp" data-t="20:59:00">[20:59:00]</a>.
+
+### Gas Wars Judgement and Non-Compete Agreement End
+
+Ultimately, the Supreme Court ruled that gas was government property, and only the government could decide its price <a class="yt-timestamp" data-t="21:14:00">[21:14:00]</a>. This decision benefited Mukesh significantly and caused billions of rupees in losses for Anil, leading to a crash in his company's share prices <a class="yt-timestamp" data-t="21:26:00">[21:26:00]</a>.
+
+On May 23, 2010, the brothers issued a joint press statement, agreeing to scrap their non-compete agreement, allowing them to compete in any business sector <a class="yt-timestamp" data-t="21:43:00">[21:43:00]</a>. While Mukesh won the court case, Anil's need for his gas was reduced due to the non-compete's end, although it later seemed Anil did not benefit much <a class="yt-timestamp" data-t="22:02:00">[22:02:00]</a>.
+
+## [[anil_ambanis_business_struggles_and_debts | Anil Ambani's Business Struggles and Debts]]
+
+Anil Ambani faced further challenges with his Dadri power project, which was built on land acquired under an emergency provision by the Mulayam Singh Yadav government in 2004, disregarding farmers' rights <a class="yt-timestamp" data-t="22:19:00">[22:19:00]</a>. The Allahabad High Court ruled in favor of the farmers in 2009, requiring Anil to return the land if farmers returned compensation <a class="yt-timestamp" data-t="22:37:00">[22:37:00]</a>. In 2014, Anil declared he was no longer interested in the project due to gas supply difficulties and agreed to return the land, incurring billions in losses <a class="yt-timestamp" data-t="23:05:00">[23:05:00]</a>.
+
+### Telecom Sector Downfall
+
+Anil's booming telecom business, inherited in the split, proved to be a cash-hungry venture requiring constant investment <a class="yt-timestamp" data-t="23:24:00">[23:24:00]</a>. As India shifted from 2G to 3G by 2010, Anil invested heavily, leading Reliance Communications into a debt of ₹300 billion <a class="yt-timestamp" data-t="23:40:00">[23:40:00]</a>. His attempt to merge with GTL Infratech failed <a class="yt-timestamp" data-t="24:01:00">[24:01:00]</a>.
+
+The alleged 2G spectrum scam in 2012 led to the cancellation of 122 telecom licenses, including one held by Anil Ambani's company <a class="yt-timestamp" data-t="24:12:00">[24:12:00]</a>. The CBI interrogated Anil regarding his role in promoting Swan Telecom <a class="yt-timestamp" data-t="24:22:00">[24:22:00]</a>.
+
+A critical mistake in Reliance's mobile business from 2002, initially led by Mukesh, was the choice of CDMA SIM cards over the prevalent GSM <a class="yt-timestamp" data-t="24:50:00">[24:50:00]</a>. CDMA only supported 2G and 3G, forcing Anil to undertake a costly and challenging shift to GSM for 4G compatibility <a class="yt-timestamp" data-t="25:11:00">[25:11:00]</a>. By 2012, Vodafone surpassed Reliance Communications, and by 2016, it had fallen to fourth place <a class="yt-timestamp" data-t="25:31:00">[25:31:00]</a>.
+
+Amidst Anil's mounting debts, Mukesh Ambani launched Reliance Jio, offering free 4G services, which crippled Anil's telecom business <a class="yt-timestamp" data-t="25:42:00">[25:42:00]</a>. Anil's attempts to merge with Aircel in 2017 and sell his tower and fiber business failed <a class="yt-timestamp" data-t="26:11:00">[26:11:00]</a>. Reliance Communications announced the closure of its 2G and 3G businesses in 2017, with debt rising to ₹430 billion <a class="yt-timestamp" data-t="26:27:00">[26:27:00]</a>.
+
+### Approaching Bankruptcy and Mukesh's Rescue
+
+With no other options, Anil approached Mukesh to sell Reliance Communications' wireless spectrum, towers, and other assets to Reliance Jio <a class="yt-timestamp" data-t="26:47:00">[26:47:00]</a>. However, Mukesh refused to be a guarantor for the debt, causing this deal to fall through <a class="yt-timestamp" data-t="27:00:00">[27:00:00]</a>.
+
+By 2018, Anil Ambani faced numerous court cases due to mounting debts <a class="yt-timestamp" data-t="27:05:00">[27:05:00]</a>. Ericsson accused him of default, and the Supreme Court gave him a deadline to repay ₹5.5 billion <a class="yt-timestamp" data-t="27:14:00">[27:14:00]</a>. Failure to comply by March 2019 could lead to imprisonment for contempt of court <a class="yt-timestamp" data-t="27:31:00">[27:31:00]</a>. To prevent Anil's imprisonment, their mother asked Mukesh to intervene <a class="yt-timestamp" data-t="27:39:00">[27:39:00]</a>. Mukesh paid the pending dues to Ericsson, saving his brother from jail <a class="yt-timestamp" data-t="27:53:00">[27:53:00]</a>.
+
+On September 25, 2019, the National Company Law Tribunal declared Reliance Communications insolvent, initiating the sale of assets to pay debts <a class="yt-timestamp" data-t="28:02:00">[28:02:00]</a>.
+
+## [[anil_ambanis_business_struggles_and_debts | Anil Ambani's Downfall]]
+
+By 2018, Anil Ambani's companies had accumulated a total debt of ₹1,720 billion <a class="yt-timestamp" data-t="28:20:00">[28:20:00]</a>. According to India Today, his business decisions were often driven by ambition rather than strategy, leading him to venture into capital-intensive businesses <a class="yt-timestamp" data-t="28:31:00">[28:31:00]</a>. His strategy often involved securing funding from public sector banks using [[role_of_political_connections_in_anil_ambanis_business_decisions | political connections]] <a class="yt-timestamp" data-t="28:39:00">[28:39:00]</a>. However, after the 2008 global financial crisis, public sector banks became reluctant to fund infrastructure and power sectors <a class="yt-timestamp" data-t="28:45:00">[28:45:00]</a>. His projects lost momentum due to wrong decisions and bad luck <a class="yt-timestamp" data-t="28:55:00">[28:55:00]</a>.
+
+Anil was forced to sell off assets to pay debts: Reliance Entertainment sold its multiplex chain Big Cinemas in 2014 <a class="yt-timestamp" data-t="29:02:00">[29:02:00]</a>, and in 2018, Reliance Infrastructure's Mumbai City Power Distribution business was sold to Gautam Adani for ₹188 billion <a class="yt-timestamp" data-t="29:08:00">[29:08:00]</a>. By September 2018, Anil told shareholders that 24,000 megawatts of power generation plants were stuck due to lack of gas supply, tying up investments of ₹1,200 billion <a class="yt-timestamp" data-t="29:24:00">[29:24:00]</a>.
+
+Crucially, in the asset allocation, Anil received "cash-hungry businesses" that required continuous innovation and investment, while Mukesh obtained "core businesses" like oil and gas that needed less frequent investment <a class="yt-timestamp" data-t="29:50:00">[29:50:00]</a>. Anil lacked businesses that could provide continuous cash flow to fund his other ventures <a class="yt-timestamp" data-t="30:09:00">[30:09:00]</a>. His success depended on a steady flow of funding from banks and investors, which ceased, leading to increasing debts <a class="yt-timestamp" data-t="30:17:00">[30:17:00]</a>.
+
+### International Debt and Zero Net Worth Claim
+
+Anil Ambani also took loans from Chinese banks. Three Chinese government-controlled banks filed a lawsuit in London's High Court, stating that Anil took a $925 million loan for Reliance Communications in 2012, which he personally guaranteed but failed to repay <a class="yt-timestamp" data-t="30:26:00">[30:26:00]</a>. In court, Anil claimed his net worth was zero due to eroded investments and he had nothing left to sell <a class="yt-timestamp" data-t="30:48:00">[30:48:00]</a>. The judge disbelieved him, suggesting he must have undeclared assets and that the Ambani family would not abandon him <a class="yt-timestamp" data-t="31:04:00">[31:04:00]</a>. Anil countered that Mukesh's previous help was a one-time occurrence <a class="yt-timestamp" data-t="31:12:00">[31:12:00]</a>.
+
+In February 2022, SEBI banned Anil Ambani from being a director in any listed entity due to fund diversion <a class="yt-timestamp" data-t="31:20:00">[31:20:00]</a>. He resigned from the Boards of Reliance Infrastructure and Reliance Power in March 2022 <a class="yt-timestamp" data-t="31:27:00">[31:27:00]</a>, and in August 2023, he was banned from the Indian securities market for five years for fund diversion charges <a class="yt-timestamp" data-t="31:33:00">[31:33:00]</a>.
+
+Today, Anil Ambani has largely withdrawn from public life, reportedly becoming more religious and spiritual <a class="yt-timestamp" data-t="31:42:00">[31:42:00]</a>. While he is still trying to find a way to turn things around, his current situation makes a comeback seem nearly impossible <a class="yt-timestamp" data-t="31:53:00">[31:53:00]</a>. He has been advised to declare bankruptcy but fears it would eliminate any chance of a future return <a class="yt-timestamp" data-t="32:02:00">[32:02:00]</a>.
+
+The Ambani brothers' story highlights that immense wealth cannot overcome family conflict or unchecked ego <a class="yt-timestamp" data-t="32:21:00">[32:21:00]</a>. Had they collaborated instead of fighting, their collective achievements could have been vastly different <a class="yt-timestamp" data-t="32:35:00">[32:35:00]</a>.

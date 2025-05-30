@@ -1,0 +1,51 @@
+---
+title: Scientific Possibility of Time Travel to the Future
+videoId: IYkpHNTF0dU
+---
+
+From: [[dhruvrathee]] <br/> 
+
+In March 2003, 44-year-old Andrew Carlssin was arrested by the FBI under suspicion of insider trading due to extraordinarily successful stock market investments. He had turned $800 into $350 million within two weeks <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>. Carlssin claimed he was a time traveller from 250 years in the future, using his knowledge of future stock performance <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. The FBI found no record of Carlssin before December 2002, and he disappeared before his bail hearing in April <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. This story, however, was later revealed to be a satire from *The Weekly World News* <a class="yt-timestamp" data-t="00:20:17">[00:20:17]</a>. Despite this fictional account, the concept of time travel raises the question: is it truly possible, or is it merely [[fiction_vs_scientific_truths_in_time_travel | fiction for novels and films]] <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>?
+
+This article explores the scientific possibility of [[Time Travel Concepts and Types | time travel]] to the future.
+
+## Inspirations from Fiction
+The phrase 'time machine' became popular after H.G. Wells wrote his groundbreaking novel *The Time Machine* in 1895 <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. This novel, though [[fiction_vs_scientific_truths_in_time_travel | science fiction]], inspired philosophers and physicists to conduct serious research on time travel <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>.
+
+[[Time Travel Concepts and Types | Time travel can be categorized]] in various ways, often depicted in science fiction films:
+*   [[Time Travel Concepts and Types | One-way travel to the future]]: The traveller moves to the future without the ability to return, as seen in *Interstellar* <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
+*   [[Time Travel Concepts and Types | Instantaneous Time Jumping]]: A person jumps instantly from one time point to another using a machine, featured in *Back to the Future* <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+*   [[Time Travel Concepts and Types | Traveller stands still, time moves]]: Time moves around the stationary traveller, like Hermione's use of the time turner in *Harry Potter: Prisoners of Azkaban* <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+*   [[Time Travel Concepts and Types | Slow Time Travel]]: As in *Primer* (2004), where spending a minute in a box moves the traveller back one minute in time <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>.
+*   [[Time Travel Concepts and Types | Travelling at the speed of light]]: Demonstrated in *Superman* (1979), where Superman flies faster than light to go back in time <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+
+While some of these are pure [[fiction_vs_scientific_truths_in_time_travel | fiction]], some forms of time travel to the future are scientifically possible even today <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>.
+
+## Scientific Explanations for Future Time Travel
+
+### Time Dilation
+The primary scientific basis for travelling to the future comes from [[Einsteins Theory of Relativity and Time Dilation | Albert Einstein's Theory of Special Relativity]] and the concept of [[Einsteins Theory of Relativity and Time Dilation | time dilation]] <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>. Before Einstein, Isaac Newton and others believed time was constant regardless of location or speed <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>. Einstein refuted this, proposing that time is like a river, its flow speeding up or slowing down depending on speed and gravity <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. [[Einsteins Theory of Relativity and Time Dilation | Time dilation]] describes how time can be sped up or slowed down if speed or gravitational force is altered <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+
+#### 1. Kinematic Time Dilation (Due to Speed)
+If an object moves very fast, like an aeroplane or a [[Spacecraft Technology and Discoveries | spacecraft]], time slows down for it relative to a person not moving as fast <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>. For example, if two identical clocks are synchronized, and one travels on an aeroplane around the Earth while the other stays on the ground, the clock on the aeroplane will show time nanoseconds behind the stationary one upon return <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
+
+This phenomenon, known as kinematic time dilation, was proven by the **Hafele-Keating Experiment** in 1971, which used atomic clocks on aeroplanes <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. The clock in the aeroplane indeed lagged behind the ground-based clock <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. This doesn't mean time actually slows down for the clock itself, but rather that time is relative: from an observer on the ground, time *appears* to slow down for the fast-moving object <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>.
+
+Theoretically, if a rocket could travel at the speed of light, spending 10 years on it would mean returning to an Earth 9,000 years in the future <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. Therefore, travelling into the future is scientifically possible today, though current [[Spacecraft Technology and Discoveries | aircraft technology]] cannot achieve speeds close to light <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>.
+
+Currently, Russian astronaut Gennady Padalka holds the record for most [[Time Travel Concepts and Types | time travel]] into the future, having spent 879 days in space travelling at 28,000 km/hr. As a result, he is 0.02 seconds younger compared to people on Earth <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>.
+
+#### 2. Gravitational Time Dilation (Due to Gravity)
+[[Einsteins Theory of Relativity and Time Dilation | Time dilation]] also occurs due to gravitational force: the stronger the gravity, the more time dilates <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. Einstein conceptualized this using a "fabric of space-time" where heavier objects (like planets) warp the mesh, creating a curve <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. The closer one gets to an object with a high gravitational force, the more time slows down <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>.
+
+This implies that spending time near objects with immense gravity, such as Jupiter, the Sun, or especially a black hole, would cause time to pass more slowly for the traveller <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>. This concept was depicted in the film [[Interstellar Exploration | *Interstellar*]], where one hour on a planet near a black hole equated to seven years for those not on the planet <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. This is considered a scientifically accurate depiction of how time dilation would work near a black hole <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. Black holes, believed to be the heaviest objects in the universe, are known to bend light, a phenomenon confirmed by the Event Horizon telescope's first picture of a black hole on April 10, 2019 <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>.
+
+Practical examples of both types of [[Einsteins Theory of Relativity and Time Dilation | time dilation]] can be seen in GPS satellites. These satellites revolve around Earth at high speeds and are farther from Earth's gravity than us. Scientists must constantly rectify their time calculations to account for this time dilation, otherwise, communication problems would arise due to discrepancies between satellite and Earth clocks <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>.
+
+### 3. Cryosleep
+A third potential method for [[Time Travel Concepts and Types | time travel]] into the future is cryosleep, often seen in films like *Passengers* <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>. The idea is to induce a state where humans are frozen or put into mild hypothermia to halt the ageing process for months or years <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>. NASA is reportedly working on a "Stasis Chamber" to keep astronauts in a mild hypothermic state, allowing them to sleep continuously for up to two weeks <a class="yt-timestamp" data-t="00:12:59">[00:12:59]</a>.
+
+The principle behind cryosleep is that cooling the body significantly slows down chemical reactions, conserving energy and reducing the rate of ageing <a class="yt-timestamp" data-t="00:13:15">[00:13:15]</a>. A real-world case in Japan involved an injured man surviving 24 hours without food or water when his body's temperature dropped to 22°C, effectively entering a hibernation-like state. He made a full recovery with no permanent damage to his organs or brain, suggesting the possibility of induced human hibernation <a class="yt-timestamp" data-t="00:13:25">[00:13:25]</a>. Cryosleep remains theoretical for long-term use but could be developed in the future <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>.
+
+## Conclusion
+While [[Paradoxes in Time Travel to the Past | travelling to the past]] faces significant theoretical [[Paradoxes in Time Travel to the Past | paradoxes]], [[Time Travel Concepts and Types | time travel]] to the future is scientifically possible, even today <a class="yt-timestamp" data-t="00:19:52">[00:19:52]</a>. It will become increasingly feasible with advancements in [[Spacecraft Technology and Discoveries | technology]]. Furthermore, obtaining a glimpse of the past is also currently possible due to the finite speed of light, as explored with the James Webb telescope <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>. Thus, in a sense, [[Time Travel Concepts and Types | time travel]] already exists <a class="yt-timestamp" data-t="00:20:02">[00:20:02]</a>.

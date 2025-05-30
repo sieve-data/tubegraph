@@ -1,0 +1,36 @@
+---
+title: The artistic techniques of Leonardo da Vinci used in the Mona Lisa
+videoId: AfswKw-Sb6M
+---
+
+From: [[dhruvrathee]] <br/> 
+
+The [[the_mona_lisa|Mona Lisa]], painted by Italian artist Leonardo da Vinci in 1503 <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>, is renowned globally not only for its subject but also for the innovative artistic and scientific techniques employed by its creator. Da Vinci was a polymath, excelling as an engineer, scientist, sculptor, architect, and theorist, with knowledge spanning numerous subjects including painting, anatomy, and optics <a class="yt-timestamp" data-t="01:27:00">[01:27:00]</a>.
+
+## Materials and Composition
+Unlike many contemporary paintings, the [[the_mona_lisa|Mona Lisa]] was not painted on paper, canvas, or cloth, but on poplar wood <a class="yt-timestamp" data-t="07:22:00">[07:22:00]</a>. Poplar wood was a favored material among Italian painters of that era <a class="yt-timestamp" data-t="07:30:00">[07:30:00]</a>. The painting itself is not large, measuring only 77 cm by 53 cm <a class="yt-timestamp" data-t="07:43:00">[07:43:00]</a>.
+
+A significant innovation of the [[the_mona_lisa|Mona Lisa]] for its time was its close focus on the person <a class="yt-timestamp" data-t="07:51:00">[07:51:00]</a>. It is a half-length portrait, a type of shot now common in photography but rarely used in paintings of that period <a class="yt-timestamp" data-t="07:56:00">[07:56:00]</a>.
+
+### Colour Grading and Preservation
+The overall colour grading of the painting features many brown and yellow shades, giving it a dull appearance <a class="yt-timestamp" data-t="08:03:00">[08:03:00]</a>. This appearance is due to two main reasons:
+1.  **Varnish Layer**: A layer of varnish was applied to protect the wood painting from the ill-effects of moisture and humidity <a class="yt-timestamp" data-t="08:18:00">[08:18:00]</a>.
+2.  **Bleaching Over Time**: The original painting was brighter and more colourful, but has undergone bleaching over time <a class="yt-timestamp" data-t="08:31:00">[08:31:00]</a>.
+
+## The Sfumato Technique
+Da Vinci utilized a very special painting style known as Sfumato, which is the technique of blending <a class="yt-timestamp" data-t="08:42:00">[08:42:00]</a>. In the [[the_mona_lisa|Mona Lisa]], the background landscape, identified as the Arno Valley in Italy <a class="yt-timestamp" data-t="08:52:00">[08:52:00]</a>, has no clear boundaries or outlines between it and [[the_identity_and_background_of_the_woman_in_the_mona_lisa|Mona Lisa]] <a class="yt-timestamp" data-t="08:55:00">[08:55:00]</a>. In some areas, [[the_identity_and_background_of_the_woman_in_the_mona_lisa|Mona Lisa]]'s hair is blended with the landscape <a class="yt-timestamp" data-t="09:00:00">[09:00:00]</a>. This blurring of outlines and blending of colours is characteristic of Sfumato <a class="yt-timestamp" data-t="09:03:00">[09:03:00]</a>.
+
+## The Mysterious Smile
+The Sfumato technique is also key to the [[the_mona_lisa|Mona Lisa]]'s mysterious smile <a class="yt-timestamp" data-t="09:07:00">[09:07:00]</a>. When viewed directly, the smile's central line appears flat, making it seem as if she is not smiling at all <a class="yt-timestamp" data-t="11:09:00">[11:09:00]</a>. However, when looking at other parts of the painting, like her eyes or the background, her face appears to smile more <a class="yt-timestamp" data-t="09:19:00">[09:19:00]</a>. This effect is achieved through the use of shadows created with the Sfumato technique, which reflect the smile in peripheral vision <a class="yt-timestamp" data-t="11:16:00">[11:16:00]</a>.
+
+### Anatomical Studies for the Smile
+To perfect this smile, da Vinci spent considerable time <a class="yt-timestamp" data-t="09:37:00">[09:37:00]</a>. He frequented a hospital in Florence, dissecting cadavers to study facial muscles and nerves and how they create a smile <a class="yt-timestamp" data-t="09:41:00">[09:41:00]</a>. He noted that human lips have more numerous muscles than any other animal, making their dissection difficult due to their tiny and numerous nature <a class="yt-timestamp" data-t="09:54:00">[09:54:00]</a>. His experiments extended to comparing human and horse expressions, noting muscle similarities <a class="yt-timestamp" data-t="10:08:00">[10:08:00]</a>.
+
+### Research on Optics
+Da Vinci's obsession with the smile led him to research optics <a class="yt-timestamp" data-t="10:29:00">[10:29:00]</a>. He discovered that light rays spread across the entire retina, rather than merging at a single point <a class="yt-timestamp" data-t="10:35:00">[10:35:00]</a>. He understood that the fovea, the center of the retina, perceives fine details, while the rest of the retina picks up shadows and black-and-white imagery <a class="yt-timestamp" data-t="10:41:00">[10:41:00]</a>. Using this knowledge, he focused on shadows to ensure the smile's effect was present even in peripheral vision, so that viewers would perceive the smile even when not directly focusing on it <a class="yt-timestamp" data-t="10:53:00">[10:53:00]</a>.
+
+## Theories of Multiple Versions
+A debate persists whether da Vinci painted two versions of the [[the_mona_lisa|Mona Lisa]] <a class="yt-timestamp" data-t="13:31:00">[13:31:00]</a>. Evidence for this includes a rough sketch made by artist Raphael in 1504, which depicts two columns behind [[the_identity_and_background_of_the_woman_in_the_mona_lisa|Mona Lisa]], unlike the Louvre version <a class="yt-timestamp" data-t="11:48:00">[11:48:00]</a>. The discovery of a "second [[the_mona_lisa|Mona Lisa]]" in 1914, known as the Isleworth [[the_mona_lisa|Mona Lisa]], further fueled these [[theories_and_debates_surrounding_the_mona_lisa|theories and debates surrounding the Mona Lisa]] <a class="yt-timestamp" data-t="12:40:00">[12:40:00]</a>. This version is larger, depicts a younger woman with a forward-tilted head, and has a straightforward smile with visible columns <a class="yt-timestamp" data-t="13:04:00">[13:04:00]</a>. Experts theorize that the Isleworth [[the_mona_lisa|Mona Lisa]] might be an earlier version painted by da Vinci, where he was experimenting with his style <a class="yt-timestamp" data-t="13:36:00">[13:36:00]</a>. Another theory suggests da Vinci painted the face and hands of this second version, while the background was completed by an apprentice in his workshop <a class="yt-timestamp" data-t="14:13:00">[14:13:00]</a>. However, no solid evidence has definitively proven either theory <a class="yt-timestamp" data-t="14:30:00">[14:30:00]</a>.
+
+## Impact of the Theft
+Interestingly, the [[the_theft_of_the_mona_lisa_in_1911|theft of the Mona Lisa in 1911]] significantly increased its popularity, making it the world's most famous painting <a class="yt-timestamp" data-t="16:06:00">[16:06:00]</a>. Before the theft, it was mainly known by art enthusiasts, not the general public <a class="yt-timestamp" data-t="16:15:00">[16:15:00]</a>. This highlights [[the_role_of_the_theft_in_increasing_the_fame_of_the_mona_lisa|the role of the theft in increasing the fame of the Mona Lisa]].

@@ -1,0 +1,49 @@
+---
+title: Media bias and misinformation in Indian politics
+videoId: GnBm3XNcci8
+---
+
+From: [[dhruvrathee]] <br/> 
+
+The discourse surrounding the Indian elections has been significantly shaped by media narratives and the spread of misinformation <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. Opinion polls in March 2024, such as News18, projected the BJP-led NDA to win 411 seats, while India TV's CNX poll estimated 399 seats <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. These figures aligned with Prime Minister Modi's campaign slogan of winning "more than 400 seats" <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+
+## Intent to Change the Constitution
+The slogan of winning "more than 400 seats" led to concerns about the BJP's alleged intent to change the Constitution, as statements from BJP leaders like Jyoti Mirdha, Anant Kumar Hegde, Arun Govil, and Lallu Singh hinted at this possibility <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. To make changes to the Constitution, a majority in both the Lok Sabha and Rajya Sabha is required <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. Although BJP later refuted these statements through other leaders, this happened after the election campaign had already begun <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
+
+## Personal Resistance and a Catalyst for Action
+Initially, one content creator expressed hesitation to engage in political commentary despite having a large YouTube following, fearing mockery, discreditation, and even death threats <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. However, a pivotal incident in February served as a "trigger point": the Chandigarh election fraud <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. For the first time in India's history, a presiding officer was caught committing voter fraud on CCTV footage <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. The Supreme Court condemned this as a "murder of democracy" <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>.
+
+This incident, coupled with other ongoing issues like [[Bias and control of Indian Election Commission | biased media]], the overthrowing of elected governments, and horse-trading of MLAs, compelled the creator to speak out <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. This led to the creation of a video titled "Is India becoming a dictatorship?", which garnered 25 million views, indicating shared concerns among the public <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+
+## Escalating Political Incidents and Awareness Efforts
+Following the initial video, two more significant incidents occurred: the arrest of Arvind Kejriwal and the freezing of Congress's bank accounts <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. While some argued these followed legal processes, the creator pointed out that Kejriwal's arrest was based on the allegation of a man whose companies had donated millions to BJP via electoral bonds, and Congress's accounts were frozen over a minor mistake to cripple their campaign <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+
+Despite the challenges of spreading awareness – with TV channels perceived as government puppets, Hindi newspapers "sold their souls," and a "WhatsApp mafia" infiltrating phones – the creator felt compelled to continue <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. Drawing inspiration from Bhagavad Gita and historical figures like Bhagat Singh and August Landmesser (who resisted Hitler's salute), the focus remained on doing "the right thing" by raising a voice for democracy and the Constitution <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.
+
+## Targeted Attacks and Disinformation Campaigns
+The efforts to spread awareness led to severe backlash from the "Godi ecosystem" (pro-establishment media and IT cells) <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>. The creator faced an "organised manner" of attacks, including being called derogatory names like "dog" or "cockroach," labelled "anti-national," and accused of being "Chinese-funded" or "Pakistani" <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
+
+A video from Telangana even surfaced showing BJP members planning how to counter the creator, admitting that his content was "factually correct" and "constitutionally correct" <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>. Their strategy involved spreading [[fake_news_in_indian_media | fake news]] and deepfake content, such as a fabricated audio clip imitating the creator's voice to suggest he was asking a politician for money <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>. Other false accusations included being involved in a murder or running secret WhatsApp groups for trolling <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>.
+
+## The Role of Traditional Media in Spreading Misinformation
+Even prominent newspapers like Dainik Jagran were accused of spreading [[fake_news_in_indian_media | false news]], such as claims of the creator being Chinese-funded, despite him having previously made a video to "Boycott China" <a class="yt-timestamp" data-t="00:13:15">[00:13:15]</a>. Dainik Jagran has a history of printing baseless news, including unverified claims about the Indian Army (which the army had to debunk) and farmers' rallies <a class="yt-timestamp" data-t="00:13:26">[00:13:26]</a>. The practice of printing unverified news while adding a disclaimer like "this news could not be verified" was criticized <a class="yt-timestamp" data-t="00:13:41">[00:13:41]</a>.
+
+### Reflections on Media Integrity
+The situation led to a reflection on the integrity of journalists, quoting Sahadat Hasan Manto:
+> "An escort and a sold-out journalist both belong to the same category. However, the escort deserves more respect." <a class="yt-timestamp" data-t="00:14:33">[00:14:33]</a>
+
+This sentiment highlights the perceived betrayal of conscience by those who suppress public issues and betray the country <a class="yt-timestamp" data-t="00:14:43">[00:14:43]</a>. The creator noted a disturbing cultural shift where differing political opinions lead to labelling individuals as "anti-nationals" or "foreign-funded" <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>.
+
+## Impact and Support for Independent Voices
+Despite the attacks, the creator's videos gained immense public support, reaching approximately 7% of eligible voters through YouTube alone (70 million unique viewers in 90 days) <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>. With sharing on other platforms like Twitter, Instagram, Facebook, and WhatsApp, the estimate for reach was at least 20-25% of voters <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>. Statistics showed over 80% of viewers were from India, debunking claims of bot accounts or Pakistani viewers <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
+
+Public engagement was significant, with individuals sharing videos widely, watching them in public, and mentioning the creator in ground interviews <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>. Children were observed exposing government claims and citing the creator's videos as their source of information on topics like the "weaponisation of ED" <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>. Celebrities and even Indians living abroad were motivated to vote after watching the videos <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. The movement gained international recognition, being mentioned in foreign newspapers like France 24, The Economist, Al Jazeera, and Time Magazine <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>.
+
+The "Godi ecosystem's" attacks failed against the overwhelming support, with many calling the creator the "fourth pillar of democracy" or a "revolutionary" <a class="yt-timestamp" data-t="00:16:02">[00:16:02]</a>. The movement, described as #Mission100Crore, focused on real issues such as unemployment, farmer issues, electoral bond scams, and pharma scams, countering the [[propaganda_and_misinformation_regarding_bjp | propaganda]] <a class="yt-timestamp" data-t="00:16:21">[00:16:21]</a>.
+
+## The Ongoing Struggle for Democracy and Truth
+Regardless of election outcomes, the struggle for democracy and truth is seen as ongoing <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>. The creator affirmed that he would continue to raise his voice even if the INDIA Alliance forms the government, as continuous vigilance is essential for democracy <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>. The focus remains on highlighting problems like scarcity of honest politicians, agriculture issues, unemployment, and pollution, demanding accountability from the government <a class="yt-timestamp" data-t="00:18:22">[00:18:22]</a>.
+
+The movement also highlighted the significant contributions of women journalists (Poonam Agarwal, Manisha Pandey, Nidhi Suresh, Arfa Khanum Sherwani, Faye D'Souza, Meena Kotwal, Sarvapriya Sangwan, Pragya Mishra, Fatima Khan, Meera Devi, Kumkum Binwal) and influencers (Dr. Medusa, Ranting Gola, Kabiran, Garima, Neha Singh Rathore) in exposing truth and countering misinformation <a class="yt-timestamp" data-t="00:19:10">[00:19:10]</a>. Their active participation was seen as reclaiming personal rights and constitutional freedoms <a class="yt-timestamp" data-t="00:19:59">[00:19:59]</a>.
+
+The broader call to action extends beyond politics to all professions: practicing honesty and integrity, voting in every election (despite issues like polling inefficiencies and religious hate speech violating the Model Code of Conduct <a class="yt-timestamp" data-t="00:22:07">[00:22:07]</a>), and generally contributing to a better society <a class="yt-timestamp" data-t="00:22:46">[00:22:46]</a>.

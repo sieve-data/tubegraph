@@ -1,0 +1,57 @@
+---
+title: Controversy surrounding The Kerala Story
+videoId: oEbhVyVsFj8
+---
+
+From: [[dhruvrathee]] <br/> 
+
+[[the_kerala_story_film_controversy | The Kerala Story]] video by Dhruv Rathee gained nearly 15 million views, sparking widespread discussion <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. The video claimed that no one could find a single factual mistake in its 22-minute duration because everything presented was based on facts <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+
+## Factual Claims and Supreme Court Intervention
+
+The video asserted that the film's figure of 32,000 conversions was incorrect <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. As evidence, it presented data from the Home Ministry <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>, NIA <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, American Department of State <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, Observer Researcher Foundation <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>, and numerous news articles <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>. Based on these sources, it was shown that approximately 60-65 Indians joined ISIS <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. Of these, 22 were from Kerala, and 6 were women <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. Among these women, 3 were Muslim, 2 were Christian converts, and 1 was a Hindu convert <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. All supporting reports are publicly available <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+
+On May 18, the Supreme Court of India verified these facts and confirmed that the situation depicted in [[the_kerala_story_film_controversy | the film]] was untrue <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. Consequently, the Supreme Court ordered the film's producers to issue a disclaimer before screenings stating that "There is no authentic data to back up the suggestion that the figure of conversion is 32,000 or any other figure" and that "This film represents a fictionalized version" <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>.
+
+## Rebuttal of Counter-Videos and Logical Fallacies
+
+Approximately 15-20 videos were made to counter Dhruv Rathee's initial video <a class="yt-timestamp" data-t="02:09:40">[02:09:40]</a>. This article addresses responses to the most popular counter-videos <a class="yt-timestamp" data-t="02:18:00">[02:18:00]</a>.
+
+### Elvish Yadav's Counter-Arguments
+
+The most-viewed counter-video (1.7 million views) was by YouTuber Siddharth Yadav, also known as Elvish Yadav <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>.
+
+#### Criticism of Elvish Yadav's Content
+Elvish Yadav, primarily a comedy YouTuber, is criticized for misogynistic content, objectifying women, and promoting toxic views <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>. His videos depict women as objects to be "set up" <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a>, and his fictional scenarios involve abandoning a "suspicious" wife for another woman, then leaving her for a third <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>. His channel is described as "filled with such misogynist cringe" <a class="yt-timestamp" data-t="04:15:00">[04:15:00]</a>, teaching young viewers that such behavior is "cool" <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>.
+
+Elvish Yadav is also criticized for using Hinduism in a "disgusting way" to gain views <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>. He associates Lord Shiva with smoking <a class="yt-timestamp" data-t="05:12:00">[05:12:00]</a> and depicts reciting Hanuman Chalisa as a means to "f**k" ghosts <a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a>. He promotes "filthy things" and gambling apps using religious imagery <a class="yt-timestamp" data-t="05:55:00">[05:55:00]</a>. Despite this, he makes videos claiming Bollywood is anti-Hindu and professes to protect Hindu women <a class="yt-timestamp" data-t="07:28:00">[07:28:00]</a>. Such content is seen as spreading hatred and teaching toxicity to the youth <a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a>.
+
+#### Ad Hominem Fallacy
+The criticism of Elvish Yadav's character and content is acknowledged as an Ad Hominem logical fallacy, meaning it criticizes the person rather than their arguments <a class="yt-timestamp" data-t="07:55:00">[07:55:00]</a>. This fallacy is commonly used in social media videos to discredit opponents by highlighting past mistakes rather than current arguments <a class="yt-timestamp" data-t="08:11:00">[08:11:00]</a>.
+
+#### Rebuttal of Elvish Yadav's Specific Arguments
+Elvish Yadav cited a 2012 report from Kerala's then-Chief Minister Oommen Chandy, claiming 7,713 conversions between 2006-2012, to counter the "only 3 girls" figure <a class="yt-timestamp" data-t="08:52:00">[08:52:00]</a>. This information, however, was already discussed in Dhruv Rathee's original video <a class="yt-timestamp" data-t="09:17:00">[09:17:00]</a>. Elvish Yadav also repeated false claims made by the film's director, Sudipto Sen, which the director himself was reportedly embarrassed to repeat <a class="yt-timestamp" data-t="09:31:00">[09:31:00]</a>. The Supreme Court's directive for a disclaimer explicitly counters such claims <a class="yt-timestamp" data-t="09:50:00">[09:50:00]</a>.
+
+Elvish Yadav also presented "random numbers" and articles to create a perception of thousands of conversions <a class="yt-timestamp" data-t="09:57:00">[09:57:00]</a>. This is countered by referencing the Pew Research Center survey, which interviewed 30,000 people in 17 languages across India, considered a reasonably good sample size for understanding religious conversions <a class="yt-timestamp" data-t="10:16:00">[10:16:00]</a>. Elvish Yadav's dismissal of such surveys, suggesting a local survey would yield 90% Modi supporters <a class="yt-timestamp" data-t="11:14:00">[11:14:00]</a>, indicates a lack of understanding of statistical concepts like random sampling and representative sampling <a class="yt-timestamp" data-t="11:21:00">[11:21:00]</a>.
+
+### Other Counter-Arguments and Fallacies
+
+#### Criticism of Research and Production
+One critic argued that Dhruv Rathee "just picks up data from here and there, compiles them and publishes them" <a class="yt-timestamp" data-t="15:33:00">[15:33:00]</a>. This is countered by asking what is wrong with compiling data and presenting facts, and why well-researched videos are a problem <a class="yt-timestamp" data-t="15:43:00">[15:43:00]</a>. The critic also complained about the use of green screens and good editing <a class="yt-timestamp" data-t="15:54:00">[15:54:00]</a>.
+
+#### "Cinematic Liberty" Argument
+A common argument used by critics is that the figure of 32,000 women buried in deserts does not necessarily imply they are all from Kerala, suggesting this is "cinematic liberty" <a class="yt-timestamp" data-t="16:12:00">[16:12:00]</a>. This argument is turned against the film's director, who explicitly claimed the 32,000 figure applied to Hindu and Christian women from Kerala buried by ISIS <a class="yt-timestamp" data-t="17:04:00">[17:04:00]</a>.
+
+The concept of "cinematic liberty" is accepted for fictionalization in movies like 'Border' <a class="yt-timestamp" data-t="17:39:00">[17:39:00]</a>, which is lauded for portraying patriotism and humanity <a class="yt-timestamp" data-t="18:03:00">[18:03:00]</a>. However, it is distinguished from [[the_kerala_story_film_controversy | The Kerala Story]], where the producers, director, and actress claimed in interviews and on social media that the 32,000 figure was a "true story" <a class="yt-timestamp" data-t="17:45:00">[17:45:00]</a>. This is deemed "lying," not cinematic liberty <a class="yt-timestamp" data-t="17:57:00">[17:57:00]</a>. While 'Border' evokes tears and sensitizes people to humanity <a class="yt-timestamp" data-t="19:29:00">[19:29:00]</a>, [[the_kerala_story_film_controversy | The Kerala Story]] is criticized for making people hateful and insulting all Muslims, leading to an "us versus them" narrative <a class="yt-timestamp" data-t="19:36:00">[19:36:00]</a>. Exaggerating 3 cases to 32,000 and defaming an entire state and community based on a few instances is termed "vulgar, hateful propaganda" <a class="yt-timestamp" data-t="20:21:00">[20:21:00]</a>.
+
+#### Misinterpretation of "Only"
+Critics twisted the use of the word "only" when referring to 3 women, implying a lack of care <a class="yt-timestamp" data-t="20:37:00">[20:37:00]</a>. However, the use of "only" was intended to contrast with the exaggerated figure of 32,000, emphasizing the factual number <a class="yt-timestamp" data-t="21:21:00">[21:21:00]</a>. The video clarified that even one such case is a "potential threat to the entire country" <a class="yt-timestamp" data-t="21:42:00">[21:42:00]</a> and that making a movie about these 3 women is acceptable, but lying about the numbers is not <a class="yt-timestamp" data-t="21:46:00">[21:46:00]</a>.
+
+#### Strawman Fallacy regarding PFI
+Critics claimed that Dhruv Rathee's acknowledgment of PFI facilitating conversions meant he supported Muslim extremists because he didn't extensively discuss PFI or congratulate the government for its ban <a class="yt-timestamp" data-t="22:01:00">[22:01:00]</a>. This is identified as a strawman fallacy, where an opponent's argument is intentionally misrepresented to be more easily refuted <a class="yt-timestamp" data-t="25:10:00">[25:10:00]</a>. It's clarified that PFI indeed radicalizes Muslims, which is why it was banned <a class="yt-timestamp" data-t="22:11:00">[22:11:00]</a>. Not making a congratulatory video for every government action, like banning 44 terrorist organizations or building highways, does not imply opposition <a class="yt-timestamp" data-t="22:51:00">[22:51:00]</a>. Dhruv Rathee's past videos consistently criticize extremism across all religions <a class="yt-timestamp" data-t="26:07:00">[26:07:00]</a>.
+
+#### "Absence of Evidence is not Evidence of Absence"
+Another argument used was "if there is no evidence, it doesn't mean that it is not happening" <a class="yt-timestamp" data-t="23:09:00">[23:09:00]</a>. While true, this argument is dismissed as a reason to believe every conspiracy theory <a class="yt-timestamp" data-t="23:36:00">[23:36:00]</a>. When multiple reports from NIA, Home Ministry, news articles, the US Department of State, and external NGOs all point to a specific conclusion, claiming "absence of evidence" to justify a conspiracy theory is illogical <a class="yt-timestamp" data-t="23:43:00">[23:43:00]</a>.
+
+#### Geographical Right to Comment
+A critic claimed that because Dhruv Rathee was born in Haryana (low Muslim population) and lives in Germany (low Muslim population), he has no right to comment on "the Hindu-Muslim problem in India" <a class="yt-timestamp" data-t="26:38:00">[26:38:00]</a>. This argument is refuted by questioning its logical basis, emphasizing that gathering facts from newspapers, research articles, and surveys allows informed commentary regardless of one's physical location <a class="yt-timestamp" data-t="27:03:00">[27:03:00]</a>.

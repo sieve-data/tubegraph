@@ -1,0 +1,57 @@
+---
+title: Propaganda and misinformation regarding BJP
+videoId: eFe8bJ9e_FA
+---
+
+From: [[dhruvrathee]] <br/> 
+
+Propaganda and misinformation are frequently employed in Indian political discourse, often targeting critics of the Bharatiya Janata Party (BJP) and Prime Minister Narendra Modi. This article examines specific instances and allegations of such practices, particularly as detailed by YouTuber Dhruv Rathee in response to claims made against him by another YouTuber, Elvish Yadav <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+
+## Allegations of Misinformation and Propaganda Tactics
+
+Various tactics are highlighted as being used to spread [[claims_of_spreading_hatred_and_misinformation | misinformation]] and propaganda:
+
+### Labelling Critics as "Anti-national"
+A common strategy attributed to BJP supporters is to label anyone who criticizes the party or its policies as "anti-national" <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. Elvish Yadav, for example, is accused of adopting this approach, attempting to connect various individuals and ultimately Dhruv Rathee himself to "anti-national" activities <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>.
+
+### Fabricating Connections and Conspiracy Theories
+A key method of [[fake_news_in_indian_media | fake news]] involves creating baseless links between individuals and organizations to discredit opponents:
+
+*   **George Soros and "Conspiracy Theories"**: Pro-BJP media and influencers are accused of spreading propaganda that links global philanthropist George Soros to efforts to "overthrow" the Modi government <a class="yt-timestamp" data-t="00:10:51">[00:10:51]</a>. This narrative often combines various elements like Illuminati, New World Order, Pakistan, China, Communism, JNU, and other perceived opponents <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>.
+    *   **Debunking Soros Claims**: George Soros, a Hungarian-American billionaire and investor, established the Open Society Foundation to promote democratic governance and freedom of expression <a class="yt-timestamp" data-t="00:12:10">[00:12:10]</a>. This foundation began its operations in India in 1999 under Prime Minister Atal Bihari Vajpayee, initially offering scholarships <a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>. Since 2014, it has supported local organizations working in public services, justice reform, and medicine access <a class="yt-timestamp" data-t="00:12:41">[00:12:41]</a>. The foundation's investments have also provided affordable financing to over 40,000 small businesses in India <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>. Notably, some ventures funded by Soros's foundation, like Capital Float (renamed Axio), have founders with direct links to BJP leaders, including Kapil Mishra, L.K. Advani, and Devendra Fadnavis <a class="yt-timestamp" data-t="00:13:18">[00:13:18]</a>. Furthermore, India is the fourth-highest contributor to the UN Democracy Fund, which funds 68 projects worldwide by Soros's Open Society Foundation, implying indirect funding from the Modi government itself <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>.
+    *   **Soros's Actual Stance**: Soros has openly criticized China's Xi Jinping, calling him a "dangerous opponent for open societies," and urged crackdowns on Chinese high-tech companies <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>. He also ordered the closure of the Open Society Foundation's Pakistan branch in 2017 <a class="yt-timestamp" data-t="00:14:37">[00:14:37]</a>. His criticisms of Modi relate to concerns over India's "eroding democracy" and the suspicious relationship between Gautam Adani and PM Modi, particularly regarding the Adani crisis <a class="yt-timestamp" data-t="00:15:45">[00:15:45]</a>.
+*   **False Link to Rahul Gandhi's Aunt, Fori Nehru**: Elvish Yadav falsely claimed that George Soros and Rahul Gandhi's aunt, Fori Nehru, were close acquaintances, posing a threat to the nation <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>.
+    *   **Debunking Fori Nehru Claim**: Fori Nehru passed away in 2017 at the age of 108 <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>. The "breaking news" about their alleged connection was based on a 14-year-old article from 2009 <a class="yt-timestamp" data-t="00:17:22">[00:17:22]</a>.
+*   **Misrepresentation of Manmohan Singh's Daughter, Amrit Singh**: Pro-BJP websites presented a 2013 article about former PM Manmohan Singh's daughter, Amrit Singh, receiving an award for human rights law, as "piping hot breaking news" seven years later <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>. The article mentioned her work with the Open Society Justice Initiative <a class="yt-timestamp" data-t="00:18:00">[00:18:00]</a>.
+    *   **Debunking Amrit Singh Claim**: Amrit Singh no longer works with the Open Society Foundation and is currently a law professor at Stanford University <a class="yt-timestamp" data-t="00:18:11">[00:18:11]</a>.
+*   **Linking Aadil Aman to Dhruv Rathee and Harsh Mander**: Elvish Yadav attempted to establish a link between Dhruv Rathee, Harsh Mander, and an individual named Aadil Aman <a class="yt-timestamp" data-t="00:23:01">[00:23:01]</a>. He claimed that Aadil Aman, an alleged former admin of Dhruv Rathee's Facebook group, had moved to Germany and was working with Harsh Mander's NGO <a class="yt-timestamp" data-t="00:23:01">[00:23:01]</a>.
+    *   **Debunking Aadil Aman Claim**: Dhruv Rathee clarified that the Facebook group in question was created in 2017 and deleted by 2020 <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. Admins were chosen based on activity, not personal acquaintance <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. The Aadil Aman shown by Elvish had a different spelling of his name and was a separate individual <a class="yt-timestamp" data-t="00:23:39">[00:23:39]</a>. This innocent individual, a researcher in Germany, has faced abuse and threats due to the misinformation, and has issued a legal notice against Elvish Yadav <a class="yt-timestamp" data-t="00:24:32">[00:24:32]</a>.
+*   **Misidentifying Harsh Mander**: Elvish Yadav misidentified Harsh Mander, an Indian activist, as "Harsh Mandaar" or other variations <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>. He also incorrectly cited an article about a different person, Captain Harmandar Singh, to make claims about Harsh Mander's parents <a class="yt-timestamp" data-t="00:25:51">[00:25:51]</a>.
+    *   **Clarifying Harsh Mander's Identity**: Harsh Mander is a distinguished former IAS officer, author of 24 books, and a columnist for major Indian newspapers <a class="yt-timestamp" data-t="00:18:40">[00:18:40]</a>. He took voluntary retirement in 2002 to protest the Gujarat riots <a class="yt-timestamp" data-t="00:18:52">[00:18:52]</a>. He served on the National Advisory Council of the UPA government (2010-2012) and contributed to drafting significant bills like the Right to Information and Food Security <a class="yt-timestamp" data-t="00:19:21">[00:19:21]</a>. He also campaigned against lynchings and received several human rights awards <a class="yt-timestamp" data-t="00:19:35">[00:19:35]</a>. Harsh Mander is the son of Captain Harmandar Singh, a decorated officer who played a key role in bringing the Dalai Lama to India in 1959 <a class="yt-timestamp" data-t="00:26:45">[00:26:45]</a>. Elvish Yadav's attempt to link Dhruv Rathee's videos on CAA and Manipur to Harsh Mander's tweets is dismissed as illogical, as top YouTubers would naturally cover major national news events <a class="yt-timestamp" data-t="00:21:25">[00:21:25]</a>.
+
+### Distorting Statements
+Examples of distorted statements include claims that Dhruv Rathee said "anyone who wears saffron color is a terrible person," when he clarified his criticism was directed at those who misuse saffron as a symbol while carrying weapons or insulting religious figures <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.
+
+### Deflection and Victim Card
+Accusations against Elvish Yadav include his tendency to play the victim card and cry on TV when confronted <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. He is also accused of avoiding critical socio-political issues like the NEET exam papers leak, despite claiming patriotism <a class="yt-timestamp" data-t="00:22:16">[00:22:16]</a>.
+
+### BJP's Alleged Links to Controversial Figures
+The speaker highlights various instances where BJP leaders or the party itself have been associated with controversial figures, drawing a parallel to how critics are targeted:
+*   **Online Trolls**: PM Modi reportedly followed and hosted individuals on Twitter known for abusive language and celebrating the deaths of journalists <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
+*   **Criminals/Accused**:
+    *   PM Modi has been photographed with and praised individuals like Asaram (convicted of rape) and Gurmeet Ram Rahim (guilty in murder and rape cases) <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
+    *   BJP members have been connected to individuals arrested for spying for Pakistan's ISI, including Dhruv Saxena, who wore BJP banners <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>.
+    *   Talib Hussain, a former chief of J&K BJP's Minority Morcha IT Cell, was among terrorists caught in Jammu's Reasi <a class="yt-timestamp" data-t="00:07:36">[00:07:36]</a>.
+    *   Monu Manesar, accused in killings, was photographed with high-profile BJP leaders like Anurag Thakur and Amit Shah <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>.
+    *   Former BJP MP Pragya Thakur is an accused in the 2008 Malegaon bomb blast case <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>.
+    *   Other figures mentioned include Babu Bajrangi, Yashwant Shinde, Prajwal Ravenna, Ashish Mishra, Yati Narsimhanand Saraswati, Surajpal Ammu, and Suresh Chavhanke, some of whom support gun violence, garland lynchers, or call for genocide <a class="yt-timestamp" data-t="00:08:16">[00:08:16]</a>.
+
+## Motivations Behind Misinformation
+The dissemination of [[role_of_media_and_misinformation_in_shaping_public_opinion | misinformation]] is attributed to seeking views, money, free publicity, and appeasing those in power <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. This approach is criticized as unsustainable and harmful to the youth, particularly through the promotion of gambling apps <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>.
+
+## Consequences of Misinformation
+The spread of such [[criticism_of_indian_media_and_fake_news | fake news]] and propaganda can lead to:
+*   **Defamation**: Individuals like Dhruv Rathee, Harsh Mander, and Amrit Singh have grounds for criminal defamation cases <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>.
+*   **Harassment and Threats**: Innocent individuals, like the misidentified Aadil Aman, face abuse and threats due to false claims <a class="yt-timestamp" data-t="00:24:32">[00:24:32]</a>.
+*   **Erosion of Trust**: The constant stream of baseless accusations contributes to a climate where genuine issues are obscured <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
+*   **Legal Consequences**: Those spreading misinformation face potential court cases and legal action <a class="yt-timestamp" data-t="00:25:21">[00:25:21]</a>.

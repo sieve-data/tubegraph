@@ -1,0 +1,79 @@
+---
+title: Myth versus reality in Yeti legends
+videoId: CWdsqvg0wCw
+---
+
+From: [[dhruvrathee]] <br/> 
+
+The Yeti, often described as a massive, ape-like creature inhabiting the Himalayan mountains, has been a subject of fascination and fear for centuries. While ancient legends speak of its existence, modern scientific investigations have sought to uncover the truth behind the mythical beast.
+
+## Historical and Cultural Roots
+Stories about the Yeti are thousands of years old, some even dating back to the pre-Buddhist era, passed down through generations <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. In the Himalayas, some societies and religions once worshipped this "Glacier Being" <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. Ancient legends, including an 800-year-old text, mention the Yeti <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>. The word "Yeti" itself originates from the Tibetan language, specifically from the Sherpa words "Yeh + Teh," meaning "cliff-dwelling bear" <a class="yt-timestamp" data-t="00:06:44">[00:06:44]</a>.
+
+A 12th-century Tibetan religious text, *Mani Kabum*, discusses a connection between humans and Yetis through a mythological story <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. According to this narrative, a Bodhisattva monkey married a rock-ogress, Sinmo, an incarnation of a Buddhist deity <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. Their union produced six monkey-human children, whose lineage evolved over generations to produce humans, with Yetis representing one of the earlier, less-evolved generations <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. This story suggests that Yetis and humans share common ancestors, but Yetis did not fully evolve into humans <a class="yt-timestamp" data-t="00:07:48">[00:07:48]</a>.
+
+Centuries ago, stories of the Yeti were so widespread that Alexander the Great, upon conquering parts of India in 326 BC, requested to see one <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. Locals, however, stated that Yetis could only survive in high mountains and could not be brought to lower altitudes <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>.
+
+## Modern Encounters and Expeditions
+The first modern account of a Yeti-like creature was in 1832 when British naturalist Brian Hodgson described encountering a large, non-human creature covered in black fur that fled upon discovery <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. He referred to it as an orangutan, though orangutans are not native to India <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>.
+
+In 1889, British Army Physician Major L.A. Waddell observed footprints resembling those of a hominid species (like monkeys or humans) on Himalayan glaciers <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. In 1921, climber Charles Howard-Bury and his team on Mount Everest reported seeing huge footprints, which local guides identified as *Metoh Kangmi* (Man-Bear Snow-Man) <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. A journalist mistakenly translated "Metoh" as "Filthy," leading to the widely adopted term "Abominable Snowman" <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>. By 1937, seven expeditions reported finding such footprints, and two claimed to have seen a Yeti <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>.
+
+### The 1951 Eric Shipton Photo
+The most famous Yeti story emerged in 1951 when British mountaineer Eric Shipton and surgeon Michael Ward, while searching for an alternative route to Mount Everest, discovered large footprints at Menlung glacier <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. These 13-inch long, 8-inch wide prints resembled human feet but were much larger <a class="yt-timestamp" data-t="00:04:34">[00:04:34]</a>. Shipton photographed them, placing an axe beside the print for scale, and these photos became globally popular, seen as strong evidence for Yeti's existence <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>.
+
+### The Yeti Craze and Official Regulations
+Shipton's photos sparked a race, with people from around the world flocking to the Himalayas in search of the Yeti <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. In 1953, the British newspaper Daily Mail sent a costly expedition <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>.
+
+In 1959, the US and Nepal governments jointly established regulations for Yeti hunting and research <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>:
+*   A Royalty Fee of 5000 Indian Rupees was charged for a Yeti search permit <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>.
+*   Hunting Yetis was banned, though killing in self-defense was excusable <a class="yt-timestamp" data-t="00:15:25">[00:15:25]</a>. Captured Yetis had to be surrendered to the Nepalese government <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>.
+*   All reports on Yeti existence had to be given to the Nepalese government first, and their permission was required before releasing information to the press <a class="yt-timestamp" data-t="00:15:40">[00:15:40]</a>.
+These regulations were partly due to the Nepali and American governments believing the Yeti "could be real" <a class="yt-timestamp" data-t="00:15:58">[00:15:58]</a>.
+
+American oilman Tom Slick led multiple [[expeditions_and_investigations_into_yeti_sightings]] in 1957, 1958, and 1959, finding footprints and hair strands <a class="yt-timestamp" data-t="00:12:16">[00:12:16]</a>. He used bloodhounds trained on mountain lions and bears <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>. Slick studied alleged Yeti skulls and mummified hands in monasteries, concluding there might be three types of Yetis: one supernatural and two real <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>. His research ended with his death in an airplane crash before he could present his full findings <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a>.
+
+### Descriptions of the Yeti
+Those claiming to have seen the Yeti describe it as a large, ape-like creature, bigger than humans, standing 7-8 feet tall and weighing 90-180 kg <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. It is said to have long arms, a strong chest and abdomen, and a body covered in long reddish-brown or grey-black fur, except for its face <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. Allegedly, it cannot twist its body or look back and walks upright on two legs, sometimes swinging from trees using its hands and legs <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>. Some accounts state it carries a large stone as a weapon <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>. Yetis are usually seen alone or in pairs, rarely in groups, and communicate by whistling, emitting a terrible smell, and sometimes smiling or making strange sounds <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>. They are often viewed as "harbingers of bad times and death" <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>. They are believed to inhabit high snowy areas in the Himalayan mountains, particularly in Nepal and Tibet <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
+
+### The Arunachal Pradesh Incident (2008)
+In 2008, in Arunachal Pradesh, a worker building a military camp was found dead with a broken neck and no other marks or signs of struggle <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. Doctors stated the neck injury required significant force and could not have been easily caused by a human or wild animal (due to lack of claw marks) <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. Locals claimed police found a hair strand on the corpse that belonged to neither human nor animal, and a large footprint, leading them to believe a Yeti killed the worker <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>.
+
+### Indian Army Tweet (2019)
+On April 29, 2019, the Indian Army tweeted that its mountaineering expedition team claimed to have seen Yeti footprints near Makalu Base Camp in Nepal on April 9, 2019 <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>. The prints were described as 32 inches long and 15 inches wide <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. The Army stated that photographic evidence was handed over to subject matter experts for scientific evaluation <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>.
+
+## Scientific Analysis and Debunking
+Despite persistent claims, most evidence for the Yeti has been debunked through [[scientific_analysis_of_alleged_yeti_evidence]].
+
+### Peter Byrne's Human Finger
+Irish-American explorer Peter Byrne, after 38 months in the Himalayas, obtained a "Yeti finger" from Pangboche Buddhist Monastery in exchange for a donation <a class="yt-timestamp" data-t="00:16:18">[00:16:18]</a>. Smuggled to London, Professor William Osman Hill analyzed it, concluding it was a human finger, not a Yeti's <a class="yt-timestamp" data-t="00:17:04">[00:17:04]</a>.
+
+### Reinhold Messner's Conclusion: The Himalayan Brown Bear
+Legendary Italian climber Reinhold Messner initially denied the Yeti's existence <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>. However, in 1986, he reported a close encounter with a large, dark, upright creature that ran faster than humans and jumped between trees <a class="yt-timestamp" data-t="00:17:28">[00:17:28]</a>. This experience led him to dedicate 12 years to searching for the Yeti <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>. His eventual conclusion was that Yetis do not exist as human-like "abominable snowmen" but are, in fact, Himalayan brown bears <a class="yt-timestamp" data-t="00:18:10">[00:18:10]</a>.
+
+### Daniel C. Taylor's "Tree Bear" Explanation
+American author Daniel C. Taylor, in his book *Yeti: The Ecology of a Mystery*, focused on Nepal's Barun Valley <a class="yt-timestamp" data-t="00:18:30">[00:18:30]</a>. He initially found fresh footprints that convinced him he found a Yeti <a class="yt-timestamp" data-t="00:18:58">[00:18:58]</a>. However, further research, including DNA analysis of a hair strand found in a suspected Yeti lair, revealed the prints belonged to a "Rukh Bhaalu" or Tree Bear <a class="yt-timestamp" data-t="00:19:11">[00:19:11]</a>.
+
+Taylor explained Eric Shipton's famous 1951 photo, noting that bears often place their hind legs on the footprints of their front legs while walking <a class="yt-timestamp" data-t="00:19:38">[00:19:38]</a>. This behavior creates the illusion of a bipedal creature <a class="yt-timestamp" data-t="00:19:48">[00:19:48]</a>. The front paws leave nail marks, which are then often erased by the hind feet, and the partial overlap makes the combined footprint appear larger, up to 12 inches long <a class="yt-timestamp" data-t="00:19:54">[00:19:54]</a>. Bear cubs, when climbing or squeezing their paws, can also leave a thumb-like mark, making prints appear human-like <a class="yt-timestamp" data-t="00:20:39">[00:20:39]</a>. Taylor also pointed out that a second photo taken by Shipton, clearly showing bear footprints, did not go viral <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>.
+
+### Other Debunking Accounts
+*   **Ernst Schafer (1939):** Zoologist Ernst Schafer, on a mission to Tibet, concluded that the Yeti did not exist, identifying the creature locals assumed to be a Yeti as a Tibetan bear <a class="yt-timestamp" data-t="00:21:09">[00:21:09]</a>.
+*   **Edmund Hillary:** The first person to climb Mount Everest, Edmund Hillary, after months of searching, concluded that the Yeti was merely a myth born from superstitions <a class="yt-timestamp" data-t="00:21:37">[00:21:37]</a>.
+
+### DNA Analysis
+Modern [[scientific_analysis_of_alleged_yeti_evidence]] studies have further discredited Yeti claims:
+*   **Oxford University (2014):** Geneticist Bryan Sykes tested over 30 hair samples from the Himalayas, all claimed to be from Yeti <a class="yt-timestamp" data-t="00:21:54">[00:21:54]</a>. Most were from known animals like horses or bears <a class="yt-timestamp" data-t="00:22:08">[00:22:08]</a>. Two samples initially did not match known species, suggesting an undiscovered animal <a class="yt-timestamp" data-t="00:22:13">[00:22:13]</a>. However, other scientists rechecked the data and found these two samples were from a rare sub-species of the Himalayan brown bear <a class="yt-timestamp" data-t="00:22:21">[00:22:21]</a>.
+*   **New York University (2017):** This study analyzed over nine alleged Yeti samples (hair, bones, teeth), concluding that eight were from Asian black bears, Himalayan brown bears, or Tibetan brown bears, and one was from a dog <a class="yt-timestamp" data-t="00:22:35">[00:22:35]</a>.
+
+### The Arunachal Pradesh Incident Debunked
+Journalists Andrew Benfield and Richard Horsey investigated the 2008 Arunachal Pradesh incident <a class="yt-timestamp" data-t="00:23:02">[00:23:02]</a>. They found the police FIR stated the cause of death was unknown and made no mention of a Yeti or its footprints <a class="yt-timestamp" data-t="00:23:12">[00:23:12]</a>. The doctor who allegedly tested the hair sample confirmed it was not biological hair but likely a plant part <a class="yt-timestamp" data-t="00:23:34">[00:23:34]</a>. The story was attributed to spreading rumors <a class="yt-timestamp" data-t="00:24:03">[00:24:03]</a>.
+
+## Lack of Recent Evidence and the Allure of Myth
+In the era of smartphones and ubiquitous cameras, the absence of clear Yeti photographs or videos further undermines its existence <a class="yt-timestamp" data-t="00:24:12">[00:24:12]</a>. Belief in such mythological beings is often shaped by societal and cultural influences, with stories passed down through generations and reinforced by community pressure <a class="yt-timestamp" data-t="00:24:33">[00:24:33]</a>. The mystery also represents a human fascination, an idea of escaping modern society to live freely with nature, fueling curiosity <a class="yt-timestamp" data-t="00:24:48">[00:24:48]</a>.
+
+## Real-World Discoveries and Explanations
+Instead of fabricated stories, the real world offers profound wonders. Experts estimate that only 10-20% of Earth's species have been documented, with many new species discovered annually <a class="yt-timestamp" data-t="00:25:33">[00:25:33]</a>. Examples include the Popa Langur monkey discovered in Myanmar in 2020 <a class="yt-timestamp" data-t="00:25:46">[00:25:46]</a>, legless Skinks found in Angola in 2023 <a class="yt-timestamp" data-t="00:26:06">[00:26:06]</a>, and the Glowing Mystery Mollusk discovered in the deep ocean in 2024 <a class="yt-timestamp" data-t="00:26:21">[00:26:21]</a>. This highlights [[comparisons_between_yeti_myths_and_real_animal_discoveries]] and the richness of undiscovered life.
+
+The closest known animal to the Yeti's description is **Gigantopithecus**, a 10-foot-tall ape that lived from 2 million to 200,000 years ago <a class="yt-timestamp" data-t="00:27:02">[00:27:02]</a>. Weighing 200-300 kg and covered in thick fur, it might have walked on two legs <a class="yt-timestamp" data-t="00:27:17">[00:27:17]</a>. Fossils of Gigantopithecus have been found near the Himalayan mountains <a class="yt-timestamp" data-t="00:27:26">[00:27:26]</a>. It is theorized that early humans in the region might have encountered this animal, passing down stories that evolved into the Yeti folktales in Tibet <a class="yt-timestamp" data-t="00:27:30">[00:27:30]</a>.
+
+Ultimately, the allure of chasing what we don't have can make us neglect the treasures already within our grasp, including the protection of existing, often endangered, species like the snow leopard <a class="yt-timestamp" data-t="00:28:06">[00:28:06]</a>.

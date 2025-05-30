@@ -1,0 +1,113 @@
+---
+title: Trade and political strategies of the East India Company
+videoId: 3bZoB8PiXas
+---
+
+From: [[dhruvrathee]] <br/> 
+
+The [[british_east_india_company_in_india | British East India Company]], a foreign entity, managed to establish control over the entirety of the Indian subcontinent approximately 300 years after its initial war with the Mughals in 1686 <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. At the time of this early [[conflict_between_british_east_india_company_and_mughal_empire | conflict]], the Company's army was significantly smaller and weaker compared to the powerful Mughal army under Aurangzeb, leading to an easy defeat for the Company <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. Despite this initial setback, the Company's factories in India were seized, officials arrested, and its Governor had to submit to Aurangzeb <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>.
+
+At its peak, the [[british_east_india_company_in_india | East India Company]] was described as being "much bigger and more powerful than any of these companies" like Apple, Google, or Facebook <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. It was considered a "rouge multinational corporation" that not only traded but also had the power to take land, wage war, and resolve peace <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+
+## Founding and Early Trade Operations
+
+The [[british_east_india_company_in_india | East India Company]] was founded in 1600 by a group of merchants as a Joint Stock Company, meaning its business was owned by shareholders <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Initially, there were only 125 shareholders who raised £70,000 as capital <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. Its primary objective was to trade in spices from the Spice Islands of South-East Asia <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+
+In 1601, the Company undertook its maiden voyage and established two factories in Indonesia <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>. However, they faced existing competition from Spanish and Portuguese traders, and newly arrived Dutch traders, who were more profitable and had a stronger army <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>. Realizing there was no scope to compete with the Dutch, the [[british_east_india_company_in_india | British East India Company]] decided to shift its operations and started looking towards India to avoid conflict <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
+
+## Establishing a Foothold in India
+
+In 1608, [[british_east_india_company_in_india | EIC]] merchants arrived in Surat, Gujarat, a region ruled by the Mughals <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. Aware of the powerful Mughal army of 4 million armed soldiers, the Company's officials decided to establish a friendly relationship to gain permission to trade <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. Captain William Hawkins traveled to the Mughal capital, Agra, to meet Emperor Jahangir, but his request to set up a factory in Surat was refused due to Jahangir's good relations with Portuguese traders <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>.
+
+Consequently, the [[british_east_india_company_in_india | EIC]] traders moved to other territories in India not controlled by the Mughals <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>. In 1611, they successfully set up their first factory in Machlipatnam, Andhra Pradesh, with permission from the local ruler <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+
+Over the following years, the [[british_east_india_company_in_india | East India Company]] worked to gain a stronger presence in the Indian subcontinent, often clashing with other European traders <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>.
+
+### The Battle of Swally and Diplomatic Success
+
+In 1612, the [[british_east_india_company_in_india | EIC]] returned to Surat and declared war against the Portuguese traders in the Battle of Swally, which they won <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. This victory diminished Portuguese influence, mostly restricting them to Goa, and positioned the [[british_east_india_company_in_india | East India Company]] as the leading European player in the Indian subcontinent <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>.
+
+Following this success, in 1615, the [[british_east_india_company_in_india | EIC]] requested English King James I to send a royal representative to the Mughal emperor <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. Sir Thomas Roe, a diplomat, was sent on behalf of the English Crown <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>. By presenting impressive gifts to Jahangir, Roe succeeded where Hawkins failed <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>. Jahangir issued a royal edict permitting the English to set up factories in Surat and granted the [[british_east_india_company_in_india | East India Company]] exclusive trading rights in certain territories in exchange for an annual payment <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
+
+The [[british_east_india_company_in_india | East India Company]]'s factory was finally established in Surat <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>. Over the next few decades, more factories were established in cities like Madras, Ahmedabad, Bombay, Agra, and Patna <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. The Company's business flourished through trade in cotton, indigo, silk, salt, and later opium and tea, leading to economic prosperity in cities with their factories <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>. The [[british_east_india_company_in_india | EIC]] gradually formed monopolies and began building fortified bases <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
+
+## Acquisition of Political Powers
+
+Initially, most [[british_east_india_company_in_india | EIC]] factories were on the Western and South-Eastern coasts of the Indian subcontinent, but the Company aimed to establish factories across all Mughal territories, particularly in the commercially successful region of Bengal (present-day West Bengal, Bangladesh, Bihar, and Odisha) <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. The Company's ambitions extended to acquiring political powers to facilitate trade and eliminate competitors <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>.
+
+Around 1670, English King Charles II granted the [[british_east_india_company_in_india | East India Company]] extensive rights, including the power to:
+*   Acquire territories <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>
+*   Hold political power <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>
+*   Mint money <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>
+*   Oversee civil and criminal jurisdiction in their territories <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>
+*   Maintain a private army, form alliances, and declare wars <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>
+
+These unprecedented powers allowed the [[british_east_india_company_in_india | EIC]] to act as an agent of Imperialism <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>.
+
+## Resurgence and Expansion in a Weakening Mughal Empire
+
+In 1682, the [[british_east_india_company_in_india | EIC]] attempted to negotiate with Shaista Khan, the Mughal Governor of Bengal, for easier trade and tax cuts <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>. However, Emperor Aurangzeb rejected their petition, viewing them as arrogant <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. The Governor of the [[british_east_india_company_in_india | East India Company]], Josiah Child, angered by this refusal and confident in the Company's newfound private army, declared war against the Mughals in 1686 <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. This decision proved disastrous as the [[british_east_india_company_in_india | EIC]] faced a severe defeat, forcing Josiah Child to ask for Aurangzeb's forgiveness <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>. Aurangzeb forgave them but imposed a fine of ₹150,000 (equivalent to about ₹350 million today), and their trading privileges and seized factories were eventually restored <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>.
+
+The Company patiently waited for an opportune moment to gain a stronghold in Bengal <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. This opportunity arose in 1707 with the death of Aurangzeb, which greatly weakened the Mughal Empire <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. Constant power struggles and infighting among the Mughals led to local Nawabs, kings, and landlords establishing sovereign control over their regions <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. Regional powers like the Marathas, Rajputs, Jats, and Rohillas emerged, with the Maratha Empire expanding its territory after defeating Mughal forces <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+
+The Mughal Empire also faced external threats from Persian ruler Nadir Shah (1739) and Afghan ruler Ahmad Shah Durrani (1748), leading to financial problems as regional governors stopped paying revenue to the central government <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>. This decentralization of the Indian subcontinent created a power vacuum.
+
+During this period, the [[british_east_india_company_in_india | East India Company]] focused on strengthening itself by investing in new technologies, setting up new factories, recruiting more soldiers from Great Britain for its private army, and training local Indians as Sepoys <a class="yt-timestamp" data-t="00:10:25">[00:10:25]</a>.
+
+### Gaining Control of Bengal
+
+The [[british_east_india_company_in_india | East India Company]] continued to pressure the Mughal throne for trading privileges in Bengal <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>. In 1717, Mughal Emperor Farrukhsiyar granted the Company tax-free trading rights in Bengal and the right to issue 'Dastaks', trade permits that waived custom and transit duties <a class="yt-timestamp" data-t="00:11:12">[00:11:12]</a>. This was a significant victory for the Company, as it not only allowed them to establish factories but also caused a substantial loss of revenue for the Mughal Empire <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
+
+Later in 1717, Murshid Quli Khan, the Mughal Governor of Bengal, declared Bengal sovereign and himself the Nawab <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. Understanding the [[british_east_india_company_in_india | East India Company]]'s tactics, he ordered them to pay taxes, which the [[british_east_india_company_in_india | EIC]] officials claimed was unfair <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>. The Company then decided to interfere in local politics to secure its profits <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>.
+
+## The [[role_of_european_powers_in_india_during_the_17th_and_18th_centuries | Role of European Powers in India]]
+
+During the weakening of the Mughal Empire, other [[role_of_european_powers_in_india_during_the_17th_and_18th_centuries | European powers]] like the Dutch, Danes, and particularly the French, also sought to expand their influence in India <a class="yt-timestamp" data-t="00:12:35">[00:12:35]</a>. The French rapidly gained territory, establishing colonies in Pondicherry and Chandernagore in Bengal <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a>. By the mid-1700s, the British and French emerged as the two dominant powers <a class="yt-timestamp" data-t="00:13:15">[00:13:15]</a>.
+
+Joseph François Dupleix, Governor General of French Indian territories in the early 1740s, aimed to establish a French Empire in India <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>. Existing enmity between France and Britain, demonstrated by conflicts like the War of Austrian Succession (1740-1748) and the Seven Years' War (1756), spilled over into India <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>.
+
+The Carnatic Wars, fought in Southern India between 1746 and 1763, saw England emerge victorious, leading to the French losing most of their political influence in India, retaining only Pondicherry and Chandernagore <a class="yt-timestamp" data-t="00:14:02">[00:14:02]</a>.
+
+### Exploiting Indian Internal Conflicts
+
+Indian rulers, engaged in their own power struggles, observed the superior armies and disciplined officers of the Europeans <a class="yt-timestamp" data-t="00:14:18">[00:14:18]</a>. They began forming alliances with European powers to utilize their resources in battles <a class="yt-timestamp" data-t="00:14:34">[00:14:34]</a>. However, this led to dependency and European interference in domestic politics, eroding local power <a class="yt-timestamp" data-t="00:14:39">[00:14:39]</a>. The [[british_east_india_company_in_india | European powers]] exploited this by bribing opposition leaders, supporting them with their armies, and installing puppet rulers <a class="yt-timestamp" data-t="00:14:48">[00:14:48]</a>.
+
+## The Battle of Plassey and Direct Control
+
+In 1756, Siraj-ud-Daulah became the new Nawab of Bengal <a class="yt-timestamp" data-t="00:15:04">[00:15:04]</a>. Fed up with the [[british_east_india_company_in_india | East India Company]]'s disrespect for his authority, he attacked Fort William in Murshidabad <a class="yt-timestamp" data-t="00:15:16">[00:15:16]</a>. This led to the "Black Hole Tragedy of Calcutta," where hundreds of British officers died in a cramped jail cell, infuriating the British <a class="yt-timestamp" data-t="00:15:32">[00:15:32]</a>.
+
+Determined to remove Siraj-ud-Daulah, the British, under Robert Clive, applied tactics learned from the Carnatic Wars <a class="yt-timestamp" data-t="00:15:43">[00:15:43]</a>. They allied with the Nawab's rivals, including the powerful Jagath Seth banking family and Mir Jafar, the commander of Siraj-ud-Daulah's army who aspired to be Nawab <a class="yt-timestamp" data-t="00:15:53">[00:15:53]</a>. Siraj-ud-Daulah, aware of the conspiracy, allied with the French, the British's rivals <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>.
+
+The Battle of Plassey was fought in June 1757 <a class="yt-timestamp" data-t="00:17:01">[00:17:01]</a>. Despite Siraj-ud-Daulah's army being 15 times larger, he lost the battle <a class="yt-timestamp" data-t="00:17:06">[00:17:06]</a>. The British installed Mir Jafar as the new puppet Nawab of Bengal, leading to Siraj-ud-Daulah's assassination and the end of French presence in Bengal, with Chandernagore falling under British control <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>. The Battle of Plassey marked a crucial turning point, as the British gained indirect political power <a class="yt-timestamp" data-t="00:17:31">[00:17:31]</a>.
+
+Mir Jafar, however, proved not to be as compliant as the British hoped, forming an alliance with the Dutch [[british_east_india_company_in_india | East India Company]] to expel the British from Bengal <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>. In response, the [[british_east_india_company_in_india | East India Company]] replaced him with his son-in-law, Mir Qasim, in 1761 <a class="yt-timestamp" data-t="00:18:00">[00:18:00]</a>. Mir Qasim also resisted British interference and went to war with them in 1763, but was defeated <a class="yt-timestamp" data-t="00:18:14">[00:18:14]</a>. Mir Jafar was reinstated as Nawab under the condition of being a "good puppet" <a class="yt-timestamp" data-t="00:18:35">[00:18:35]</a>.
+
+Mir Qasim then formed an alliance with the Nawab of Awadh, Shuja-ud-Daula, and the incumbent Mughal Emperor Shah Alam II, to eradicate British influence <a class="yt-timestamp" data-t="00:18:47">[00:18:47]</a>. Their combined forces fought the British in the Battle of Buxar in 1764, which the British also won <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>.
+
+### The Treaty of Allahabad and Direct Rule
+
+After the Battle of Buxar, the [[british_east_india_company_in_india | East India Company]] decided to end the system of puppet rulers and take direct control of Bengal <a class="yt-timestamp" data-t="00:19:15">[00:19:15]</a>. In 1765, the Treaty of Allahabad officially made Robert Clive the Governor and Commander-in-Chief of Bengal <a class="yt-timestamp" data-t="00:19:26">[00:19:26]</a>. A key provision of the Treaty was Emperor Shah Alam II granting "Diwani Rights" of Bengal to the [[british_east_india_company_in_india | East India Company]], meaning all tax revenue from Bengal would now go to the Company <a class="yt-timestamp" data-t="00:19:33">[00:19:33]</a>.
+
+This established the [[british_east_india_company_in_india | East India Company]] as the official ruler of Bengal, significantly increasing its revenue from both trade and taxation <a class="yt-timestamp" data-t="00:19:48">[00:19:48]</a>. This allowed them to invest in new products for trade, strengthen their military, and improve infrastructure <a class="yt-timestamp" data-t="00:20:02">[00:20:02]</a>.
+
+## Strategies for Further Expansion
+
+With newfound funds, resources, and power, the [[british_expansion_and_control_in_india_leading_to_the_british_raj | East India Company]] employed several techniques to expand its control across other areas in India <a class="yt-timestamp" data-t="00:20:24">[00:20:24]</a>.
+
+1.  **Appointment of Residents:** In regions not under direct British control, the Company appointed British officials called "Residents" to act as diplomats <a class="yt-timestamp" data-t="00:20:36">[00:20:36]</a>. These Residents formed alliances with local rulers and indirectly interfered in their politics by offering "advice" <a class="yt-timestamp" data-t="00:20:49">[00:20:49]</a>.
+2.  **Subsidiary Alliance:** The [[british_expansion_and_control_in_india_leading_to_the_british_raj | East India Company]] pressured local rulers to enter into "Subsidiary Alliances" <a class="yt-timestamp" data-t="00:21:04">[00:21:04]</a>. Under this system, rulers were forbidden from having their own armies or fighting battles <a class="yt-timestamp" data-t="00:21:15">[00:21:15]</a>. Instead, the [[british_expansion_and_control_in_india_leading_to_the_british_raj | EIC]] would form an army on their behalf, for which the local ruler had to pay <a class="yt-timestamp" data-t="00:21:21">[00:21:21]</a>. This clever move disarmed local rulers and provided revenue for the Company <a class="yt-timestamp" data-t="00:21:35">[00:21:35]</a>. If a ruler failed to pay, a portion of their territory would be confiscated, allowing the [[british_expansion_and_control_in_india_leading_to_the_british_raj | EIC]] to steadily gain more land <a class="yt-timestamp" data-t="00:21:45">[00:21:45]</a>. Although the Company promised not to interfere internally, this was an empty promise, as Residents continued to meddle in local politics <a class="yt-timestamp" data-t="00:22:00">[00:22:00]</a>. Regions that formed these alliances later became known as the Princely States of India, with Hyderabad being the first in 1798 <a class="yt-timestamp" data-t="00:22:19">[00:22:19]</a>.
+3.  **Brute Military Force:** If diplomacy and alliances failed, the [[british_expansion_and_control_in_india_leading_to_the_british_raj | East India Company]] directly used its military force to occupy new areas <a class="yt-timestamp" data-t="00:22:32">[00:22:32]</a>.
+
+By 1818, using these techniques, the [[british_expansion_and_control_in_india_leading_to_the_british_raj | East India Company]] had become the most powerful entity in the Indian subcontinent, controlling about two-thirds of the territory and ruling over 78% of the population <a class="yt-timestamp" data-t="00:22:43">[00:22:43]</a>.
+
+### The Doctrine of Lapse
+
+A fourth technique, the Doctrine of Lapse, was introduced around 1847 by [[british_expansion_and_control_in_india_leading_to_the_british_raj | EIC]] officials and enforced most significantly by Lord Dalhousie between 1848 and 1856 <a class="yt-timestamp" data-t="00:23:00">[00:23:00]</a>. This doctrine stipulated that if an Indian ruler died without a natural male heir, their kingdom would automatically "lapse" and become part of the [[british_expansion_and_control_in_india_leading_to_the_british_raj | East India Company]]'s territory <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>. Famous cities like Satara (1848), Udaipur (1852), Nagpur (1853), Jhansi (1854), and Awadh (1856) came under British control due to this doctrine <a class="yt-timestamp" data-t="00:23:28">[00:23:28]</a>.
+
+## Administrative Reforms and End of Company Rule
+
+Beyond military and political strategies, the [[british_east_india_company_in_india | East India Company]] also implemented numerous administrative reforms to effectively regulate its vast territories <a class="yt-timestamp" data-t="00:23:41">[00:23:41]</a>. For example, the Regulating Act of 1773 created the post of Governor General of Bengal, with Warren Hastings as the first to hold the position, making governance easier <a class="yt-timestamp" data-t="00:23:59">[00:23:59]</a>.
+
+By the early 1800s, the Maratha Empire and the Mysore Kingdom were the last remaining major powers in the Indian subcontinent other than the British <a class="yt-timestamp" data-t="00:24:10">[00:24:10]</a>.
+
+The [[british_departure_from_india | Revolt of 1857]], also known as the First War of Independence, though lost by Indian revolutionaries, ultimately led to the end of the [[british_east_india_company_in_india | East India Company]]'s rule <a class="yt-timestamp" data-t="00:24:25">[00:24:25]</a>. Under the Government of India Act of 1858, the British government nationalized the Company, taking over all its territories, military forces, and accumulated wealth <a class="yt-timestamp" data-t="00:24:34">[00:24:34]</a>. This marked the beginning of the [[british_expansion_and_control_in_india_leading_to_the_british_raj | British Raj]] <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>. The Company was finally dissolved in 1874 <a class="yt-timestamp" data-t="00:24:52">[00:24:52]</a>. The Mughal Empire also ended after 1857, with the last emperor Bahadur Shah Zafar exiled to Burma and his successors killed <a class="yt-timestamp" data-t="00:24:56">[00:24:56]</a>.

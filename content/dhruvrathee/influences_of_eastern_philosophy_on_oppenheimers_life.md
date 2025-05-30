@@ -1,0 +1,21 @@
+---
+title: Influences of Eastern philosophy on Oppenheimers life
+videoId: MdFh4o-VVeY
+---
+
+From: [[dhruvrathee]] <br/> 
+
+J. Robert Oppenheimer, known as the "father of the atomic bomb," had a profound connection to Eastern philosophy, particularly the Bhagavad Gita <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. This influence is notably highlighted by his famous quote following the Trinity nuclear test.
+
+## Early Exposure and Scholarship
+Oppenheimer was born in 1904 <a class="yt-timestamp" data-t="02:01:00">[02:01:00]</a> and was considered a child genius <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>. When he attended Harvard in 1922, he completed his four-year degree in three years, majoring in chemistry <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>. He possessed knowledge across many subjects, including physics, philosophy, literature, and even Eastern religion <a class="yt-timestamp" data-t="02:34:00">[02:34:00]</a>. Oppenheimer was a Sanskrit scholar who had studied the entire Bhagavad Gita in its original form <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>.
+
+## The Bhagavad Gita and the Trinity Test
+On July 16, 1945, at approximately 5:30 AM, the first nuclear bomb, codenamed Trinity, was tested in the New Mexico desert <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>, <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>, <a class="yt-timestamp" data-t="00:16:14">[00:16:14]</a>. [[j_robert_oppenheimers_role_in_the_manhattan_project | Oppenheimer]], who led the project, was shocked by the blast's power, which was 50 times greater than expected <a class="yt-timestamp" data-t="00:32:00">[00:32:00]</a>, <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>, <a class="yt-timestamp" data-t="00:45:00">[00:45:00]</a>. A steel tower at the site evaporated, and the shockwave was felt 160 km away <a class="yt-timestamp" data-t="00:47:00">[00:47:00]</a>, <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>.
+
+Upon witnessing this immense destruction, [[j_robert_oppenheimers_role_in_the_manhattan_project | Oppenheimer]] uttered a line from the Bhagavad Gita: "Now I am become death, the destroyer of worlds" <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>, <a class="yt-timestamp" data-t="00:16:39">[00:16:39]</a>, <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>. He considered the Bhagavad Gita one of the most influential books of his life <a class="yt-timestamp" data-t="00:17:00">[00:17:00]</a>.
+
+## Post-Bomb Reflections
+Less than a month after the Trinity test, the Little Boy bomb was dropped on Hiroshima on August 6, 1945 <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>. Three days later, the Fat Man plutonium bomb was dropped on Nagasaki <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>. [[j_robert_oppenheimers_role_in_the_manhattan_project | Oppenheimer]] expressed initial happiness after the Hiroshima bombing, wishing it could have been used against Nazi Germany <a class="yt-timestamp" data-t="00:17:49">[00:17:49]</a>. However, he was shocked when the bomb was dropped on Nagasaki <a class="yt-timestamp" data-t="00:18:00">[00:18:00]</a>.
+
+[[oppenheimers_philosophical_and_moral_struggles_postworld_war_ii | Oppenheimer]] later regretted his part in developing the technology <a class="yt-timestamp" data-t="00:18:14">[00:18:14]</a>. He met President Harry Truman on August 17, 1945, stating, "I have blood on my hands" <a class="yt-timestamp" data-t="00:18:47">[00:18:47]</a>, leading to President Truman's anger <a class="yt-timestamp" data-t="00:18:52">[00:18:52]</a>. He worked with the US Atomic Energy Commission to establish control over nuclear weapons and opposed the development of the hydrogen bomb in 1949 <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>, <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a>, <a class="yt-timestamp" data-t="00:19:19">[00:19:19]</a>. His resistance and left-wing ideology led to him losing his job <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a>.

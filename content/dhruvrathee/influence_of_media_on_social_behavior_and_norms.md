@@ -1,0 +1,55 @@
+---
+title: Influence of media on social behavior and norms
+videoId: C247jQ5X8pU
+---
+
+From: [[dhruvrathee]] <br/> 
+
+Early childhood experiences can profoundly shape an individual's psychological development and behavior in adulthood <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. Research indicates that a father's absence can diminish a child's self-confidence <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>, while excessively strict parenting is linked to the development of aggressive behavior <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. These factors are common and can contribute to low self-confidence, aggression <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>, and even criminal behavior <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+
+## Media's Role in Shaping Worldviews
+
+### Research on Societal Impact
+Madhumita Pandey, a Clinical Psychology Master's student, investigated the motivations behind heinous acts following the 2012 Nirbhaya case <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>. Her survey of 122 convicted rapists and 65 convicted murderers in Tihar Jail revealed a stark difference: most murderers expressed regret, while many rapists showed a complete lack of remorse <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>. This finding was consistent with the documentary 'India's Daughter' <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. Pandey's research, utilizing the Multicultural Masculinity Ideology Scale (MMIS) and an Attitude Towards Women Test, indicated that these individuals held highly regressive views about women <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+
+Similar conclusions were drawn by researchers outside India, including Susan Brownmiller in her 1975 book 'Against Our Will, Men, Women, and R*pe,' which posited that r*pe is a form of intimidation used to assert power and dominance <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. Other researchers like Richard Johnson, Danielle Cusmano, and Rebecca Whisnant agreed that motivations for r*pe include a need to display power, an outlet for anger, and sadistic cruelty, all stemming from a belief in the inferiority of women <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>.
+
+### The Pervasiveness of Influence
+A person's behavior, personality, and identity are molded by their surroundings, including parental care, interactions with relatives, school experiences, and the broader environment <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>. [[Role of media and misinformation in shaping public opinion | Mass media]] plays a significant role in this, with news, books, radio, TV ads, [[Role of social media in spreading information | social media]] content, songs, and movies profoundly influencing identity formation and behavior <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>. While individuals have conscious control over some media choices, everything consumed has a subconscious effect <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+
+## Cumulative Effect of Media Exposure
+
+### Refuting Instant Impact Arguments
+It's a common argument that watching violent films doesn't directly lead to violent behavior <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. Director Sandeep Vanga Reddy made a similar point, stating that he and his brother didn't become gangsters despite watching gangster movies <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>. However, this is akin to arguing that one unhealthy meal won't cause a heart attack <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. Just as repeated unhealthy eating can lead to health issues, repeated exposure to certain media content causes small, incremental psychological changes that accumulate over a lifetime <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>.
+
+### The "Munnu" Scenario: A Case Study of Negative Influence
+A child raised in a supportive environment with positive influences may not be significantly affected by one problematic film <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. However, consider a scenario where a boy named Munnu grows up in a household where his father beats his mother, and his sister faces restrictive rules not applicable to him <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. On YouTube, Munnu follows creators who objectify women <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. On Instagram, he follows figures like [[Celebrity influence on public perception and behavior | Andrew Tate]], a symbol of toxic masculinity and misogyny <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>. The lyrics of songs he listens to also objectify women <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>. UNICEF highlights that such objectification in [[Role of media and misinformation in shaping public opinion | mass media]] contributes to violence against women <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
+
+Furthermore, Munnu is exposed to news channels where [[Impact of political influence on media | politicians]] express views that boys are prone to mistakes, and girls should not wear 'revealing' clothes or be out late <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>. Television ads also perpetuate the objectification of women <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>. In this environment, watching films like 'Animal' where the protagonist twists his wife's arm, grabs her neck, and points a gun at her, contributes to a toxic atmosphere <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
+
+## Glorification of Harmful Ideologies
+
+### Misogyny and Violence in Films
+Films like 'Animal' and 'Kabir Singh,' directed by Sandeep Vanga Reddy, are criticized for their regressive and misogynistic content <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. Sandeep Vanga has stated that genuine love requires the liberty to hit one's partner <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>. In 'Animal,' the protagonist Rannvijay commits mass murders, yet his wife doesn't consider leaving him; instead, she encourages him to kill another woman when he has an extramarital affair <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>. Despite being a father, he mocks menstruation and asserts that it's a man's world, even demanding his lover lick his shoe to prove her love <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>. Such portrayals, without redemption or depicting the character as mentally ill, glorify misogyny and toxic masculinity <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>.
+
+### The Alpha Male Archetype
+Characters like Rannvijay and Kabir Singh, who lack self-control and resort to violence and aggression, are presented with utmost confidence, almost like an "alpha male" <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>. This term has gained popularity on [[Significance of social media in promoting communal narratives | social media]] to describe individuals who appreciate such regressive characters <a class="yt-timestamp" data-t="00:21:22">[00:21:22]</a>. Films promoting such a worldview are described as "cancerous" to society <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>.
+
+## Why Violent Films Attract an Audience
+
+### Psychological Basis of Attraction
+There's a psychological reason why some individuals enjoy watching extreme violence and bloodshed on screen <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>. Often, these individuals feel powerless and repressed in their own lives, oppressed by authority figures <a class="yt-timestamp" data-t="00:17:20">[00:17:20]</a>. In the cinema, they can envision themselves as the protagonist, finding satisfaction in the violence directed towards others <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>.
+
+### The Problem of Glamorization
+Directors like Sandeep Vanga Reddy consciously choose to heighten violence and bloodshed, aiming to push boundaries <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>. They glamorize violent scenes, presenting them stylishly, rather than realistically depicting their negative societal impact <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>. Aamir Khan noted that directors lacking creative talent often rely heavily on violence and s*x to make their films successful <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>. While realistic films like Anurag Kashyap's works offer social commentary, they often struggle at the box office because audiences find villainous violence disturbing and repulsive <a class="yt-timestamp" data-t="00:19:08">[00:19:08]</a>. However, the audience's "repressed self" craves entertainment through violence from the hero's perspective <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a>, leading producers to flood the market with violent action films <a class="yt-timestamp" data-t="00:20:01">[00:20:01]</a>.
+
+## The Societal Impact of Toxic Media
+
+### The "Cancerous" Effect
+The prevalence of films promoting toxic masculinity contributes to a pervasive toxic environment <a class="yt-timestamp" data-t="00:12:33">[00:12:33]</a>. The fact that the poster for 'Animal' features the hero promoting cancer by smoking further exemplifies its problematic nature <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>. When films like 'Kabir Singh' and 'Animal' are criticized, their "toxic fans" often react with outrage, feeling that their own personality is being criticized <a class="yt-timestamp" data-t="00:15:31">[00:15:31]</a>. This indicates that some individuals find validation in these films <a class="yt-timestamp" data-t="00:15:44">[00:15:44]</a>.
+
+### Contrast with Positive Role Models
+In contrast to 'Animal,' the film 'Sam Bahadur,' released on the same day, centers on Field Marshal Sam Manekshaw, a real-life hero who fought for the country and humanity <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>. Another example is 'Hum Sath Sath Hai,' a heartwarming family drama inspired by the Ramayana, which delivers positive messages and fosters unity <a class="yt-timestamp" data-t="00:20:19">[00:20:19]</a>. Virtues like humility and compassion, exemplified by Lord Ram, should serve as ideal models of masculinity <a class="yt-timestamp" data-t="00:20:34">[00:20:34]</a>. A human without compassion is likened to an animal <a class="yt-timestamp" data-t="00:20:51">[00:20:51]</a>.
+
+## Conclusion: Mindful Media Consumption
+Characters like Kabir Singh and Rannvijay, who lack self-control and resort to aggression, are not suitable role models <a class="yt-timestamp" data-t="00:21:02">[00:21:02]</a>. It is important to avoid such destructive ways of thinking and to stop consuming films that promote them <a class="yt-timestamp" data-t="00:21:31">[00:21:31]</a>. Our minds should be respected and not treated as "dustbins" for harmful content <a class="yt-timestamp" data-t="00:21:36">[00:21:36]</a>.
