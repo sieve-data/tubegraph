@@ -1,0 +1,47 @@
+---
+title: Understanding the graphbased mental model for AI agents
+videoId: TV8SyEuSMIA
+---
+
+From: [[colemedin]] <br/> 
+
+While [[building_fullscale_ai_agents | building AI agents]] can seem simple when connecting an LLM to a few tools, especially with no-code tools like N8N or AI coding assistants, tackling more complex problems and [[building_fullscale_ai_agents | building truly robust AI agents]] is much more challenging <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. To address this, a powerful mental model has been developed for [[building_fullscale_ai_agents | building agents]] <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. This framework helps break down any complex problem revolving around [[understanding_ai_agents | AI agents]] into bite-sized chunks, making them easier to build <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. This model, referred to as the "seven node blueprint for [[understanding_ai_agents | AI agents]]", suggests that any [[defining_ai_agents | AI agent]] can be broken down into components falling into one of seven categories <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
+
+## Core Principle: Agents as Graphs
+
+The fundamental principle guiding this blueprint is that [[understanding_ai_agents | agents]] are really just graphs under the hood <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>. A high-level diagram of [[defining_ai_agents | an AI agent]] shows an input from a user going into an LLM that can take actions with tools, eventually producing a final output <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. This structure forms a cycle: the LLM decides to use a tool, gets feedback, reasons about what happened, and can then invoke more tools <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. This cyclical, non-deterministic behavior, facilitated by graphs, distinguishes [[understanding_ai_agents | agents]] from traditional, linear, and deterministic automations and workflows <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. Thinking of [[understanding_ai_agents | agents]] as graphs allows for reasoning about how to [[understanding_ai_agent_components_and_reasoning_patterns | break the agent into smaller components]], much like assembling Lego bricks <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>.
+
+## The Seven Node Blueprint for AI Agents
+
+Any [[defining_ai_agents | AI agent]] can be broken down into components that fit into one of seven categories, simplifying the [[building_fullscale_ai_agents | building AI agents]] process <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>, <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+
+1.  **LLM Node** <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>
+    *   **Purpose:** This is the "brain" of the agent, responsible for reasoning and decision-making <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>. LLMs like GPT-4.1, Gemini 2.5 Pro, or Claude 3.7 sonnet operate within this node <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>.
+2.  **Tool Node** <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>
+    *   **Purpose:** Performs actions decided by the LLM, such as web searches, code execution, or database queries <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>.
+3.  **Control Node** <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>
+    *   **Purpose:** Adds deterministic behavior to agentic workflows, handling logic like filters, conditions, and routing <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>. This is executed using regular workflows or code, not agent reasoning <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>.
+4.  **Memory Node** <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>
+    *   **Purpose:** Manages both long-term and short-term memory <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>. Examples include vector databases for long-term memory and conversation history for short-term memory <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>. Typically, nodes are implemented at the start and end of a workflow to manage long-term memory <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>. Libraries like MemGPT (MemZero in transcript) are often used <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>.
+5.  **Guardrail Node** <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>
+    *   **Purpose:** Ensures reliability by validating inputs and outputs <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. These can be input guardrails (e.g., validating user budget) or output guardrails (e.g., ensuring itinerary length matches request) <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>, <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>. They prevent bad outputs, ensure format validation, and reduce hallucinations <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>.
+6.  **Fallback Node** <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>
+    *   **Purpose:** Gracefully handles errors in agentic workflows by defining specific actions when something goes wrong, such as retrying an action or providing a default response <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>. They often work in conjunction with control nodes <a class="yt-timestamp" data-t="00:20:56">[00:20:56]</a>.
+7.  **User Input Node** <a class="yt-timestamp" data-t="00:07:43">[00:07:43]</a>
+    *   **Purpose:** Allows for "human in the loop" interruptions during agent operation to get feedback or confirmation from the user (e.g., confirming a hotel booking or email before execution) <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>.
+
+## Putting It Together: A Complex Agent Example
+
+A complex [[understanding_ai_agents | AI agent]] can integrate all seven nodes to create a robust workflow <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>, <a class="yt-timestamp" data-t="00:22:57">[00:22:57]</a>. For instance, an agent designed to generate and manage meal dishes demonstrates this integration <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>:
+
+1.  **Memory Node (Long-Term Retrieval):** Fetches existing long-term memory (e.g., user preferences like disliking spicy mango) at the start of the process <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>, <a class="yt-timestamp" data-t="00:23:20">[00:23:20]</a>.
+2.  **LLM Node (Primary Agent):** Generates a dish based on the request and retrieved memory <a class="yt-timestamp" data-t="00:23:25">[00:23:25]</a>.
+3.  **Tool Node:** The primary agent uses a tool to check the existing menu (e.g., an AirTable table) to avoid generating duplicate dishes <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a>, <a class="yt-timestamp" data-t="00:23:30">[00:23:30]</a>.
+4.  **Guardrail Node (Output Parser):** An output parser acts as a guardrail to ensure the LLM's output has a specific format (e.g., dish name and description) <a class="yt-timestamp" data-t="00:23:50">[00:23:50]</a>. If the format is incorrect, it can trigger a retry with feedback from a critic node <a class="yt-timestamp" data-t="00:18:22">[00:18:22]</a>, <a class="yt-timestamp" data-t="00:24:00">[00:24:00]</a>. If this guardrail LLM had tools, it would constitute another agent, illustrating [[advanced_architecture_for_ai_agents | multi-agent workflows]] <a class="yt-timestamp" data-t="00:24:11">[00:24:11]</a>.
+5.  **User Input Node (Human in the Loop):** After the dish is created, a Slack message is sent for human approval before proceeding <a class="yt-timestamp" data-t="00:14:07">[00:14:07]</a>, <a class="yt-timestamp" data-t="00:24:42">[00:24:42]</a>.
+6.  **Control Node:** Based on human approval (or denial), this node deterministically routes the workflow. If approved, the dish is sent in Slack and added to AirTable <a class="yt-timestamp" data-t="00:14:46">[00:14:46]</a>, <a class="yt-timestamp" data-t="00:24:46">[00:24:46]</a>.
+7.  **Fallback Node:** If the message is declined, it triggers an error workflow, alerting internal systems (e.g., via a Slack message to oneself) about an issue with the agentic flow <a class="yt-timestamp" data-t="00:20:41">[00:20:41]</a>, <a class="yt-timestamp" data-t="00:24:49">[00:24:49]</a>.
+8.  **Memory Node (Long-Term Storage):** Another LLM extracts key memories (e.g., new user preferences) from the conversation and stores them in long-term memory <a class="yt-timestamp" data-t="00:25:09">[00:25:09]</a>.
+9.  **LLM Chain:** A final LLM chain summarizes the process and presents the completed dish <a class="yt-timestamp" data-t="00:25:30">[00:25:30]</a>.
+
+This [[understanding_ai_agent_components_and_reasoning_patterns | mental model]] allows for breaking down complex agent development into manageable questions: Does the agent need long-term memory? What guardrails are needed? What fallbacks should be implemented? This systematic approach simplifies [[building_fullscale_ai_agents | building robust AI agents]] <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>. Frameworks like [[pantic_ai_and_lang_graph_for_building_ai_agents | Pantic AI]] and [[pantic_ai_and_lang_graph_for_building_ai_agents | LangGraph]] (Langchain in transcript) are built around the abstraction of [[understanding_ai_agents | agents]] as graphs, making them powerful tools for this approach <a class="yt-timestamp" data-t="00:28:02">[00:28:02]</a>.

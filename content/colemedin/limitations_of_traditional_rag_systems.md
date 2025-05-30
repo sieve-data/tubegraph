@@ -1,0 +1,23 @@
+---
+title: limitations of traditional RAG systems
+videoId: PxcOIINgiaA
+---
+
+From: [[colemedin]] <br/> 
+
+Retrieval Augmented Generation (RAG) is a common method used in most AI agents to build a knowledge base from documents and data <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. However, RAG by itself has several significant [[limitations_of_rag_and_solutions | limitations]] without [[improving_rag_accuracy_with_additional_strategies | additional strategies]] built on top <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
+
+## Key Limitations
+
+One of the primary drawbacks of traditional RAG is its static nature <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. This means:
+*   **Responsibility for Synchronization** It is the user's responsibility to constantly keep the agent's knowledge base in sync with the data store <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. This process is often inefficient and unreliable <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+*   **Inability to Keep Up with Dynamic Data** Traditional RAG struggles to keep pace when businesses or platforms are constantly evolving and working with frequently changing data <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. Examples of such dynamic data include user preferences, internal metrics, or market conditions <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+*   **Lack of Historical Context** Traditional RAG typically just replaces facts in its knowledge base rather than maintaining a historical record of how data has changed <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. This can be problematic for agents, such as customer support agents, who need to understand past preferences in addition to current ones to provide a personalized experience <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+*   **Inferior to Knowledge Graphs in Representing Relationships** Knowledge graphs are generally more powerful than traditional RAG because they can store information and its relationships, showing how data changed over time <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a> <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. This relational understanding is crucial for AI agents to represent how knowledge is interconnected when searching <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>.
+*   **Static Document Summarization Focus (for some RAG implementations)** Some knowledge graph implementations, like Graph RAG and [[comparison_of_lightrag_versus_traditional_rag | LightRAG]], are primarily designed for static document summarization <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>. While useful for unchanging information like documentation <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>, they are less suitable for dynamic data. [[comparison_of_lightrag_versus_traditional_rag | LightRAG]] was also noted for being slow in both building the knowledge graph and querying <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
+
+## Overcoming Limitations
+
+To address these issues, solutions like Graffiti, an open-source platform for building temporal-aware knowledge graphs, are emerging <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. Graffiti acts as a layer on top of RAG, specifically designed for continuously ingesting ever-changing data while also preserving a historical record of data changes <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>. This allows agents to be aware of how the knowledge base evolves over time, making them highly effective in dynamic environments <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a> <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+
+Furthermore, traditional RAG can be combined with other [[improving_rag_accuracy_with_additional_strategies | strategies]] such as hybrid RAG and contextual RAG <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. The ideal RAG solution for most AI agents often includes a knowledge graph as one of its search capabilities <a class="yt-timestamp" data-t="00:26:19">[00:26:19]</a>. This approach, often referred to as [[agentic_rag_strategy_and_implementation | agentic RAG]], involves giving the agent the ability to explore knowledge in different ways, including searching both a knowledge graph and a vector database <a class="yt-timestamp" data-t="00:25:05">[00:25:05]</a> <a class="yt-timestamp" data-t="00:25:15">[00:25:15]</a>. This allows the agent to reason and choose the best source for information, leading to more comprehensive and accurate answers <a class="yt-timestamp" data-t="00:25:28">[00:25:28]</a>.
