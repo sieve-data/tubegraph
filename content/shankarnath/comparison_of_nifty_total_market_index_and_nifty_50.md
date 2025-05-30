@@ -1,0 +1,51 @@
+---
+title: Comparison of Nifty Total Market Index and Nifty 50
+videoId: 1ixWlVyhoIU
+---
+
+From: [[shankarnath]] <br/> 
+
+The Securities and Exchange Board of India (SEBI) has periodically issued warnings regarding market conditions, which can create confusion among investors about when to invest or exit specific segments or if there are gaps in their asset allocation strategies <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. For instance, a SEBI warning about froth in the small and midcap segments led to a 6% drop in midcaps and a nearly 10% fall in the small cap index <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. In this context, the Nifty Total Market Index offers a comprehensive approach to investing in the Indian stock market, addressing concerns about market representation and diversification <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
+
+## Understanding the Indices
+
+### Nifty 50
+The [[nifty50_data_and_investment_analysis | Nifty50]] index is widely considered a general representation of the Indian stock market <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. It represents the weighted average of India's 50 largest companies listed on the National Stock Exchange <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. While the [[nifty50_data_and_investment_analysis | Nifty50]] is 100% large caps, it only covers approximately 64% of India's total market capitalization, and when considering the Nifty Next 50 alongside the Nifty 50, it represents roughly half of the Indian stock market <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. This narrow representation is similar to the Dow Jones Industrial Average in the US, which comprises 30 prominent companies and accounts for only 29% of the total US stock market capitalization <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+
+### [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]]
+The [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] provides a more comprehensive view of the Indian stock market <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. It tracks 750 stocks, encompassing large-cap, mid-cap, small-cap, and even micro-cap segments through a single index <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>. This index represents around 96% of India's total stock market capitalization <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>.
+
+The [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] includes all stocks from the Nifty 500 and the [[features_of_nifty_smallcap_250_index | Nifty Microcap 250 index]] <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>. Like most Indian indices, it is calculated on a free-float market cap basis, meaning larger companies have the biggest impact, but even the smallest companies are included <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. The list of constituents is reviewed semi-annually <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>.
+
+A key difference lies in the sectoral split:
+*   The [[nifty50_data_and_investment_analysis | Nifty50]] is heavily concentrated in financial services and IT <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>.
+*   The [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] is more dispersed, featuring companies from 22 different sectors, many of which come from the mid, small, and micro-cap segments <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
+
+The [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] is considered the truest representation of the Indian stock market to date <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>.
+
+## [[performance_comparison_with_market_indices | Performance Comparison]] and Analysis
+The presence of mid-caps and small caps in the [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] generally contributes to higher returns <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>.
+
+*   **Returns**: In the past year, the [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] delivered 41%, significantly supported by the mid-cap and small-cap rally <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. On average, the index has shown at least a 0.5% higher return compared to the [[nifty50_data_and_investment_analysis | Nifty50]] over various timelines <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>. Over a 15-year period, this seemingly small alpha translates to a 7% increase in corpus <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+*   **SIP Performance**: A monthly SIP of ₹10,000 in the [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] since January 2009 would have accumulated nearly ₹1 crore at an annualized return of 14.4% over 15 years <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+*   **Correlation and Volatility**: The [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] moves in line with the [[nifty50_data_and_investment_analysis | Nifty50]], with a high correlation of 0.96 <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. On a volatility basis, the [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] tends to operate at a slightly lower standard deviation compared to the [[nifty50_data_and_investment_analysis | Nifty50]] <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. However, with 30-35% of stocks in mid-cap, small-cap, and micro-cap segments, investors should factor in potential long phases of underperformance and overperformance <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>.
+
+## [[investment_strategies_using_the_nifty_total_market_index | Investment Strategies]]
+
+Despite some views that the [[performance_and_benefits_of_the_nifty_total_market_index | Total Market Index]] is neither solely for return maximization nor risk optimization, its widespread adoption globally suggests a lack of perspective on its application <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>.
+
+### 1. Substitute for Nifty 50
+A simple application is to substitute the [[nifty50_data_and_investment_analysis | Nifty50]] with the [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] in an investment portfolio <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>. The reasons include its simplicity, passive management, diversification, reduced need for constant asset allocation adjustments, and slightly higher returns than the [[nifty50_data_and_investment_analysis | Nifty50]] <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. It is a strong consideration for those new to mutual fund or index investing <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>.
+
+Investors can invest in it through:
+*   A mutual fund scheme that directly tracks the [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] (e.g., by Grow Mutual Fund) <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
+*   A combination of a Nifty 500 index fund and a [[features_of_nifty_smallcap_250_index | Nifty Microcap 250 index]] scheme <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. To accurately replicate the index, the allocation would be approximately 95% to the Nifty 500 and 5% to the [[features_of_nifty_smallcap_250_index | Nifty Microcap 250]], which is more complex than a single total market index fund <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>.
+
+### 2. Combination with International Total Market Indices
+The [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] can be combined with its non-domestic counterpart, an international total market index <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>. For example, an 80/20 split between the [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] (domestic) and the Vanguard Total Stock Market Index (VTSAX, international) over a 17-year period showed similar returns but significantly reduced portfolio volatility <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. This strategy improves a portfolio's risk-adjusted return by reducing volatility for the same level of return <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>.
+
+### 3. Pivot for Long-Term Wealth Creation
+The [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] can serve as a central pivot for constructing a long-term wealth creation portfolio <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. For instance, for an investor aiming for a 60/20/20 allocation (large/mid/small cap), instead of using multiple schemes, the [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] can adequately fulfill this role while also providing exposure to micro-cap companies <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>. As more indices become available, the [[performance_and_benefits_of_the_nifty_total_market_index | Nifty Total Market Index]] is poised to become the core for many investors' portfolios <a class="yt-timestamp" data-t="00:10:33">[00:10:33]</a>.
+
+## Conclusion
+The [[performance_and_benefits_of_the_nifty_total_market_index | Total Market Index]] fund is a suitable option for investors seeking a low-cost, diversified, and simple-to-understand passively managed investment vehicle <a class="yt-timestamp" data-t="00:11:10">[00:11:10]</a>. It offers the truest representation of the Indian stock market to date <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>. However, like all equity-based indices, its [[performance_analysis_of_indian_index_funds | performance]] is directly tied to the Indian stock market's overall health <a class="yt-timestamp" data-t="00:10:58">[00:10:58]</a>.

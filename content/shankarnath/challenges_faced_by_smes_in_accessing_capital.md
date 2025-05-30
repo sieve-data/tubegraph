@@ -1,0 +1,30 @@
+---
+title: Challenges faced by SMEs in accessing capital
+videoId: PttB-OHKOio
+---
+
+From: [[shankarnath]] <br/> 
+
+Small and Medium-sized Enterprises (SMEs) are crucial to a country's economy, forming the backbone of large corporates and contributing significantly to GDP and exports <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>. For instance, in India, SMEs account for 40% of exports and about 30% of the country's GDP <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>. Despite their importance, SMEs have historically faced significant hurdles, particularly in obtaining adequate capital for growth <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>.
+
+## Limited Access to Capital and Credit
+The biggest challenge for SMEs has been, and continues to be, limited access to capital and the untimely availability of credit <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>. Small organizations traditionally rely on only three sources of revenue:
+1.  **Internal Approvals:** Reinvesting earnings from operations back into the business <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>.
+2.  **Friends and Relatives:** Borrowing money from personal networks, which is a very limited source of capital <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
+3.  **Banks:** Traditional banks have often been less efficient in underwriting these smaller, riskier businesses <a class="yt-timestamp" data-t="02:33:00">[02:33:00]</a>.
+
+## Missing Access to Capital Markets
+A major void for SMEs was the lack of access to capital markets, which deprived them of a large and stable source of revenue <a class="yt-timestamp" data-t="02:41:00">[02:41:00]</a>. This absence of stock market access also made it difficult for external investors to exit a company, with the primary alternative being an acquisition by a larger domestic or foreign entity <a class="yt-timestamp" data-t="02:49:00">[02:49:00]</a>.
+
+## Challenges with Fundraise Amount
+SMEs also faced issues with the typical amount of funds they sought to raise <a class="yt-timestamp" data-t="03:04:00">[03:04:00]</a>. While a mid or large-sized company usually aims to raise at least 500 crores in an IPO, which generates substantial fees for merchant and investment bankers, an SME might only seek 20, 30, or 50 crores <a class="yt-timestamp" data-t="03:06:00">[03:06:00]</a>. This smaller fundraise amount meant that major fundraising firms, especially the top 10 that control 90% of IPOs, were often uninterested in working with them <a class="yt-timestamp" data-t="03:20:00">[03:20:00]</a>.
+
+These capital-related problems persisted for decades until the Indian government took an active interest, leading to the formation of the [[difference_between_sme_exchanges_and_main_stock_exchanges | SME exchange]] <a class="yt-timestamp" data-t="03:30:00">[03:30:00]</a>.
+
+## Post-Listing Challenges for Investors
+Even after an [[risks_and_rewards_of_investing_in_sme_ipos | SME IPO]] occurs, certain characteristics present challenges for investors, which can indirectly affect the willingness of institutions to invest.
+*   **High Minimum Investment:** The minimum application amount for an [[risks_and_rewards_of_investing_in_sme_ipos | SME IPO]] is significantly higher, at least 1 lakh rupees, compared to 15,000-20,000 rupees for a regular mainboard IPO <a class="yt-timestamp" data-t="07:04:00">[07:04:00]</a>. Trading in [[small_cap_investing_strategy | SME]] shares also requires buying and selling in lots, rather than individual shares <a class="yt-timestamp" data-t="07:13:00">[07:13:00]</a>. For example, buying shares in BEW Engineering Limited could require spending almost 3.6 lakh rupees <a class="yt-timestamp" data-t="07:50:00">[07:50:00]</a>.
+*   **Liquidity Concerns:** A common concern surrounding [[investing_strategies_in_sme_stocks | SME investing]] is liquidity <a class="yt-timestamp" data-t="09:08:00">[09:08:00]</a>. Due to the absence of derivatives (futures and options), there are primarily two types of investors: those seeking listing day gains, and long-term investors aiming to stay invested for a minimum of three years to benefit from potential growth and migration to the main board <a class="yt-timestamp" data-t="09:16:00">[09:16:00]</a>.
+*   **Inherent Business Fragility and Information Scarcity:** SMEs are inherently fragile, and it is not uncommon for many [[risks_and_rewards_of_investing_in_sme_ipos | SME IPOs]] to trade 80-95% below their issue price <a class="yt-timestamp" data-t="10:51:00">[10:51:00]</a>. This can occur if companies fail to show significant improvement post-fundraise, due to factors like their business environment, competition, government policies, or growth strategies <a class="yt-timestamp" data-t="11:02:00">[11:02:00]</a>. There is also a lot less information available for [[basics_of_small_cap_investing | SME stocks]] compared to mainboard stocks <a class="yt-timestamp" data-t="12:20:00">[12:20:00]</a>.
+*   **Regulatory Relaxations:** While intended to ease listing, some regulatory relaxations on the [[difference_between_sme_exchanges_and_main_stock_exchanges | SME exchange]] can be considered risk factors. These include exemptions from certain profit track record conditions, prospectuses being vetted by the exchange (NSE/BSE) rather than SEBI, and financial results being submitted half-yearly instead of quarterly <a class="yt-timestamp" data-t="05:55:00">[05:55:00]</a>.
+*   **Lack of Main Board Migration:** Data from Value Research Online showed that none of the six [[risks_and_rewards_of_investing_in_sme_ipos | SME IPOs]] from FY 2012 had made it to the main board <a class="yt-timestamp" data-t="11:13:00">[11:13:00]</a>, highlighting a potential long-term risk for investors relying on this migration for increased liquidity and returns.
