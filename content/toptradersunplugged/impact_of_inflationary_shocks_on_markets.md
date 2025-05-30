@@ -1,0 +1,23 @@
+---
+title: impact of inflationary shocks on markets
+videoId: BHNaa8SGYAc
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+An [[inflations_impact_on_markets | inflationary shock]] presents a significant challenge to markets and central banks. In such a scenario, if the response is insufficient to stabilize markets, central banks may not completely lose control, but [[inflations_impact_on_markets | inflation]] could become unanchored <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+
+## Drivers of Inflationary Pressure
+The current environment is characterized by a fundamental [[factors_influencing_inflation_and_economic_forecasts | inflationary push]] driven by higher debt, which necessitates inflation to be inflated away <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. On the [[impact_of_monetary_policy_on_markets | monetary policy]] side, the scale of [[impact_of_central_bank_policies_on_markets | central bank intervention]] needs to be substantial. If an [[inflations_impact_on_markets | inflationary shock]] occurs and the intervention fails, it could lead to a de-anchoring of [[factors_influencing_inflation_and_economic_forecasts | inflation expectations]] <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. Such possibilities are consistent with a world of rising commodity and gold prices <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+
+## Central Bank Responses to Inflationary Shocks
+Historically, shocks to the global economy (e.g., 1997, 2001-2002, 2008, 2020) were largely deflationary <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>. In these cases, central banks responded by injecting liquidity through lowering [[impact_of_interest_rates_on_markets | interest rates]] or Quantitative Easing (QE), which aligned with fighting the underlying deflationary risk <a class="yt-timestamp" data-t="00:18:16">[00:18:16]</a>.
+
+However, in a world where the underlying risk is [[inflations_impact_on_markets | inflation]], responding with a liquidity injection is much riskier <a class="yt-timestamp" data-t="00:18:38">[00:18:38]</a>. Markets might question these actions if [[inflations_impact_on_markets | inflation]] is already high <a class="yt-timestamp" data-t="00:18:48">[00:18:48]</a>. The key determinant for central banks is whether they are fighting an [[inflations_impact_on_markets | inflationary crisis]] or a deflationary crisis <a class="yt-timestamp" data-t="00:19:13">[00:19:13]</a>.
+
+There is a risk that the situation could spiral if central banks inject liquidity when [[inflations_impact_on_markets | inflation]] is already elevated <a class="yt-timestamp" data-t="00:19:26">[00:19:26]</a>. If the market does not perceive a problem as a localized liquidity issue, further intervention by central banks may be required, which in turn increases the risk of [[inflations_impact_on_markets | inflation]] <a class="yt-timestamp" data-t="00:20:08">[00:20:08]</a>. Central banks are aware of the perception that injecting liquidity during high [[inflations_impact_on_markets | inflation]] might seem unusual <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a>.
+
+## Long-Term Outlook
+The end of the carry regime is expected to require [[inflations_impact_on_markets | inflation]] to effectively inflate away the accumulated debt <a class="yt-timestamp" data-t="00:41:47">[00:41:47]</a>. While central banks have seemingly been able to avert crises, the required size of each intervention has progressively increased because carry trades have grown in scale <a class="yt-timestamp" data-t="00:42:10">[00:42:10]</a>. It is conceivable that in a world with an [[inflations_impact_on_markets | inflationary shock]], the response might not be sufficient to stabilize markets, leading to unanchored inflation <a class="yt-timestamp" data-t="00:42:22">[00:42:22]</a>. This perspective aligns with a future characterized by rising commodity and gold prices <a class="yt-timestamp" data-t="00:43:04">[00:43:04]</a>.
+
+A potential long-term economic risk associated with the carry regime is a rising debt burden, [[factors_influencing_inflation_and_economic_forecasts | misallocation of capital]], and a declining long-term growth rate <a class="yt-timestamp" data-t="00:57:03">[00:57:03]</a>. The behavior of real [[impact_of_interest_rates_on_markets | interest rates]] is a crucial indicator going forward <a class="yt-timestamp" data-t="00:58:02">[00:58:02]</a>. If the carry regime undermines real economic growth, real [[impact_of_interest_rates_on_markets | interest rates]] would be expected to fall <a class="yt-timestamp" data-t="00:58:09">[00:58:09]</a>.

@@ -1,0 +1,47 @@
+---
+title: Behavioral biases and investment strategies
+videoId: HGykmw21HJ0
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+This article explores the interplay between human behavioral biases and investment strategies, particularly focusing on the role of systematic investing and managed futures in navigating market complexities. It highlights how these strategies can capitalize on the inherent slowness and biases within the broader asset management industry.
+
+## The Role of Behavioral Biases in Markets
+
+The asset management industry, designed to move slowly, often struggles to adapt to rapid market changes due to ingrained human behaviors and professional constraints <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>. This slow adaptation can be attributed to factors like the need for steady hands, long-term thinking, and the avoidance of rapid, potentially career-ending, decisions <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>.
+
+[[systematic_investment_strategies | Trend following]], a prominent systematic strategy, often takes advantage of these [[cognitive_biases_in_trading_decisions | behavioral biases]] <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>. A key component of this advantage is not just individual biases, but the structural constraints posed by people's jobs within the asset management industry <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a> <a class="yt-timestamp" data-t="00:43:54">[00:43:54]</a>.
+
+For instance, when inflation began to accelerate in 2021, a significant portion of the asset management industry resisted acknowledging it, holding onto the belief that it was "transitory" <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>. This hope that the market's initial signals were wrong is a common human response to preserve past decisions and job security <a class="yt-timestamp" data-t="00:45:17">[00:45:17]</a>. When the consensus view is optimistic, it has been consistently wrong over a 24-month period <a class="yt-timestamp" data-t="00:05:28">[00:05:28]</a>.
+
+Many investors, particularly those in traditional 60/40 portfolios, were implicitly making a "low rates bet" by the end of 2020, making it difficult for them to adapt when interest rates began to rise <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a> <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. This inertia meant that when the market shifted, it led to a "wrenching" period of adjustment <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>, often driven by panic and the "fear of missing out" (FOMO) on new trends, leading to more violent market unwinds <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a> <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>.
+
+## Systematic Investment Strategies and Adaptability
+
+In contrast, [[systematic_investing_strategies | systematic investment strategies]] like [[systematic_investment_strategies | trend following]] operate without emotion or drama <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a> <a class="yt-timestamp" data-t="00:13:27">[00:13:27]</a>. They simply "flip" positions based on objective data, adapting quickly to changing market regimes <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a> <a class="yt-timestamp" data-t="00:45:59">[00:45:59]</a>. This dispassionate, cold, and rational nature is a core strength of these strategies <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>.
+
+Systematic managers, by adhering to rules-based models, do not have to retract research reports, update clients on failed predictions, or grapple with personal biases <a class="yt-timestamp" data-t="00:13:49">[00:13:49]</a> <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>. They can move positions in a matter of weeks or months, as opposed to the 18 months or two years it might take a large institutional investor <a class="yt-timestamp" data-t="00:46:04">[00:46:04]</a> <a class="yt-timestamp" data-t="00:46:09">[00:46:09]</a>. This adaptability is particularly valuable during "regime shifts" where the world changes faster than most investors can adapt <a class="yt-timestamp" data-t="00:45:07">[00:45:07]</a> <a class="yt-timestamp" data-t="00:45:12">[00:45:12]</a>.
+
+## Challenges and Misconceptions in Investment Strategies
+
+Despite the clear benefits, there are [[challenges_and_misconceptions_in_investment_strategies | challenges and misconceptions in investment strategies]] for gaining broader adoption for managed futures.
+
+### Explaining the Strategy
+One difficulty is clearly articulating *why* the strategy works in a concise and easily digestible manner, similar to how the "illiquidity premium" explains private equity returns <a class="yt-timestamp" data-t="00:42:02">[00:42:02]</a> <a class="yt-timestamp" data-t="00:42:12">[00:42:12]</a>. While the concept of [[behavioral_finance_in_trading | behavioral finance in trading]] and [[cognitive_biases_in_trading_and_investing | cognitive biases in trading and investing]] is often used to explain trend following, a more compelling argument might focus on the systemic "constraints" and "jobs" within the asset management industry <a class="yt-timestamp" data-t="00:43:22">[00:43:22]</a> <a class="yt-timestamp" data-t="00:43:54">[00:43:54]</a>. This framing is less condescending and resonates with allocators who experience these constraints daily <a class="yt-timestamp" data-t="00:46:13">[00:46:13]</a> <a class="yt-timestamp" data-t="00:47:38">[00:47:38]</a>.
+
+### Timing and Trust
+Investors are often conditioned to try and time the market <a class="yt-timestamp" data-t="00:48:22">[00:48:22]</a>. However, with managed futures, it's crucial to disregard short-term fluctuations and trust the long-term evidence of the strategy's benefits <a class="yt-timestamp" data-t="00:48:50">[00:48:50]</a> <a class="yt-timestamp" data-t="00:51:12">[00:51:12]</a>. The historical data from indices like the SocGen CTA Index, which demonstrates consistent returns with low correlation and limited drawdowns through various market crises, serves as compelling evidence <a class="yt-timestamp" data-t="00:18:37">[00:18:37]</a> <a class="yt-timestamp" data-t="00:19:21">[00:19:21]</a>.
+
+### Market Perception and Communication
+The term "tactical alpha," while descriptive of managed futures' ability to adapt, can be perceived negatively in the investment world, associated with day trading rather than serious investing <a class="yt-timestamp" data-t="00:46:49">[00:46:49]</a> <a class="yt-timestamp" data-t="00:47:06">[00:47:06]</a>. There is a need to reframe the narrative to better align with the language and observations of people on the allocation side <a class="yt-timestamp" data-t="00:47:18">[00:47:18]</a> <a class="yt-timestamp" data-t="00:47:24">[00:47:24]</a>.
+
+Moreover, there's a deep-seated suspicion about quantitative models <a class="yt-timestamp" data-t="00:59:31">[00:59:31]</a>. Advisors often ask questions about the nitty-gritty details of models that aren't typically asked of traditional stock pickers <a class="yt-timestamp" data-t="00:58:17">[00:58:17]</a> <a class="yt-timestamp" data-t="00:59:26">[00:59:26]</a>. Instead, the focus should be on the observable outcomes and how the strategy complements other portfolio assets <a class="yt-timestamp" data-t="00:58:47">[00:58:47]</a>. Analogies, such as comparing managed futures to "hurricane insurance" or "writing market waves," can help create a more relatable understanding for clients <a class="yt-timestamp" data-t="00:56:37">[00:56:37]</a> <a class="yt-timestamp" data-t="00:56:50">[00:56:50]</a>.
+
+## Investment Strategies and Risks
+
+Managed futures, particularly [[systematic_investment_strategies | systematic investing strategies]], offer significant [[investment_strategies_and_risk_management | diversification benefits]] <a class="yt-timestamp" data-t="00:30:29">[00:30:29]</a>. Data from the SocGen CTA Index (2000-present) shows that this strategy has yielded 75% of equity returns and 120% of bond returns with zero correlation to either, and a maximum drawdown of only 14% over 22 years <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a> <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>. This low correlation is especially pertinent in a world where stocks and bonds are increasingly moving in tandem due to higher interest rates <a class="yt-timestamp" data-t="00:19:53">[00:19:53]</a> <a class="yt-timestamp" data-t="00:22:15">[00:22:15]</a>.
+
+The performance of managed futures is often best when traditional 60/40 portfolios perform worst, acting as a "beacon of green in a sea of red" <a class="yt-timestamp" data-t="00:19:13">[00:19:13]</a> <a class="yt-timestamp" data-t="00:33:38">[00:33:38]</a>. This counter-cyclical performance punches above its weight in a portfolio, providing tangible value during market downturns <a class="yt-timestamp" data-t="00:33:57">[00:33:57]</a>.
+
+The overarching goal is to compel investors to embrace managed futures as a core component of their portfolios, rather than trying to force or convince them <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a> <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>. If the evidence of diversification benefits is clear, the challenge shifts from *why* it works to *how to make people want it* <a class="yt-timestamp" data-t="00:56:06">[00:56:06]</a> <a class="yt-timestamp" data-t="00:56:16">[00:56:16]</a>.

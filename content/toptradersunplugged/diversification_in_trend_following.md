@@ -1,0 +1,34 @@
+---
+title: Diversification in trend following
+videoId: RQER5heyq2M
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+[[Trend following in investment strategies | Trend following]] is presented as a dependable and consistent, yet often overlooked, investment strategy [00:00:08]. The core idea of [[Trend following in investment strategies | trend following]] involves a rules-based approach to capture market movements [00:00:33].
+
+## Core Principle: Broad Diversification
+A crucial aspect of [[Trend following in investment strategies | trend following]] is broad [[importance_of_diversification_in_trend_following | diversification]] across many different markets [00:00:58]. This means applying a [[Trend following strategies | trend following strategy]] to a wide range of assets, including stocks, currencies, commodities, and bonds [00:10:15], rather than just one sector [00:45:23].
+
+### Misconceptions About Diversification
+*   **"Pyramiding"**: When multiple independent systems enter the same trend, it is not "pyramiding" in the sense of increasing risk based on prior profits. Instead, it involves defining risk per market and splitting it across independent systems, each with its own entry and exit rules [00:15:52]. These entries can occur on the same day or different days [00:16:43]. This approach does not increase risk beyond the initial defined unit and avoids making subsequent trades dependent on prior outcomes [00:17:03].
+*   **Market-Specific Parameters**: It is argued that there is insufficient historical data to optimize [[Trend following strategies | trend following]] parameters for individual markets (e.g., crypto, equities) [00:25:09]. Instead, a universal approach applying the exact same rules across all liquid markets is preferred due to the importance of sample size in long-term [[Trend following in investment strategies | trend following]] [00:25:00]. The notion that markets have unique "personalities" or long biases that necessitate different parameter settings is generally dismissed [00:26:33].
+    *   One suggested approach for those who want to customize is to divide a total risk budget into buckets, with the largest portion using universal parameters, and smaller portions using sector-optimized or individual market-optimized parameters, though the value of such complexity is questioned [00:28:50].
+*   **Unutilized Cash**: While a significant portion of capital (e.g., 70-80%) might appear unutilized as cash, this often translates to highly leveraged positions in assets (e.g., a $1 million investment managing $10 million or more in assets) [00:27:21]. This approach is effective for putting money to work [00:27:54].
+
+## Benefits of Broad Diversification
+[[Importance of diversification in trend following | Diversification]] is considered a "secret sauce" of [[Trend following in Various Markets | trend following]] [00:44:30].
+
+*   **Robustness**: Adding "trend" elements can improve even "bad ideas" in trading [00:46:37]. The fundamental methodology of [[Trend following in investment strategies | trend following]] is so robust that even with some changes or variations, it tends to perform well [01:17:15].
+*   **Consistency**: Counter-intuitively, *not* trying to manage the smoothness of returns (e.g., through aggressive volatility or correlation management) can lead to more consistency over longer terms [00:56:06]. This is because it allows for the full capture of outlier trends [00:57:06]. Historically, firms employing this approach have shown remarkable consistency, sometimes having no losing calendar years over long periods in backtests [00:56:54].
+*   **Capturing Outliers**: The primary benefit of adding more markets is to capture more outlier moves [01:02:24]. These large, infrequent outlier trades, though perhaps only 5% of all trades, can account for the vast majority of profits (e.g., 95% of profits in a given year) [01:11:09]. The ability to let these profits run to their full potential is crucial [01:05:01].
+*   **Improved Portfolio Performance**: A [[trend_following_in_investment_portfolios | portfolio]] diversified across different sectors (stocks, currencies, bonds, commodities) provides significant diversification benefits that a single-sector [[Trend following in Various Markets | trend following]] approach would lack [00:45:28]. While [[Trend following in Various Markets | trend following]] can work well within a single sector like stocks, it won't offer the same "magical diversification" or smooth returns as a multi-market portfolio [00:45:40].
+*   **Risk Control**: Broad [[importance_of_diversification_in_trend_following | diversification]] enhances [[Risk Management in Trend Following | risk management]], especially when different sectors are behaving dissimilarly (e.20:28). For example, having long positions in commodities and short positions in currencies and interest rates, alongside a mixed bag of stock positions, can provide better [[Risk Management in Trend Following | risk control]] than a portfolio that is predominantly long everything [00:20:17].
+
+## What Doesn't Work
+*   **Limited Markets**: Applying [[Trend following in Various Markets | trend following]] to a small number of markets is a "big no-no" [00:44:24]. It is essential to apply the strategy to many markets simultaneously to achieve optimal results [00:44:36].
+*   **Over-complication**: Over-complicating [[Trend following strategies | trend following]] with numerous rules or sophisticated management techniques generally leads to worse results. Keeping it simple is key to long-term success [00:48:03].
+*   **Predicting Markets**: Systems that attempt to predict market movements or rely on concepts like relative strength do not work [00:47:10]. Markets are unpredictable, and sticking to system rules is more effective than trying to forecast direction [00:47:38].
+*   **Limiting Shorts**: Historically, limiting short positions because they have not performed as well as long positions can be a costly mistake, as shorts offer crucial diversification benefits [00:47:43].
+*   **Aggressive Volatility Management**: While popular in the CTA industry, aggressive volatility management can reduce the size of outlier trades, which are the main profit drivers for classical [[Trend following in investment strategies | trend following]] [01:11:58]. This compromises the potential for compounding annual growth rates [01:05:04].
+*   **Misapplication of Metrics**: Metrics like the Sharp Ratio, while useful for portfolios, are not ideal for evaluating individual [[Trend following in investment strategies | trend following]] investments. The Sharp Ratio focuses on volatility over return and does not adequately account for the actual [[Risk Management in Trend Following | risk of capital loss]] [01:03:57]. The goal should be to stay in the game and preserve capital, allowing positively expected systems to play out over the long term [01:04:36].

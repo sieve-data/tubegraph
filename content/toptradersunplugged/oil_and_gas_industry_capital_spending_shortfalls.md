@@ -1,0 +1,48 @@
+---
+title: Oil and gas industry capital spending shortfalls
+videoId: gsWwzKGHNeY
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+The world is currently experiencing an energy crisis with insufficient energy supply <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This problem is exacerbated by policies that advocate moving away from oil and gas and investing more in renewables, which is seen as making the current issue worse <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. For the time being, efficient energy sources are needed to navigate the current situation <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>.
+
+## Current Energy Landscape
+The impact of the energy crisis varies globally. Europe, particularly Germany and Switzerland, feels the acute threat of energy shortages as winter approaches <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>. In contrast, the United States, while experiencing high gasoline prices, largely feels more insulated <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+
+### Causes of the Shortfall
+The current energy crisis is attributed not only to geopolitical events like the conflict in Ukraine <a class="yt-timestamp" data-t="00:04:03">[00:04:03]</a>, but also to a significant reduction in [[Investment Challenges and Opportunities | capital spending]] in the oil and gas industry over the last decade <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. This trend shows no signs of changing, as governments worldwide remain largely antagonistic towards the energy sectors <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>.
+
+It is estimated that roughly two trillion dollars have been diverted away from the upstream energy business <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. The problem is unlikely to be resolved until this investment is reinstated <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+
+### Impact on Energy Markets
+Historically, energy stocks comprise 10% to 12% of the S&P 500 on average, with major cycles reaching 20% to 30%. Currently, energy accounts for only 4% of the S&P, two standard deviations below the average <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>. This indicates that the industry has not seen the necessary investment that typically marks the end of a commodity cycle <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>.
+
+During the previous cycle, concerns about "peak oil" led to substantial spending by the industry, which resulted in the discovery of prolific shale resources <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. However, the shale industry has not responded as expected this time, partly because the best parts of the shale formations have already been drilled <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>. Rig counts, while up 45% from their lows, remain 25% to 30% below 2019 levels <a class="yt-timestamp" data-t="00:20:20">[00:20:20]</a>. Shale companies are also prioritizing shareholder returns over increased capital expenditure, partly due to persistent governmental opposition and limited high-quality drilling inventory <a class="yt-timestamp" data-t="00:21:22">[00:21:22]</a>.
+
+## Production Capabilities
+Beyond the U.S. shale industry, other non-OPEC regions have not contributed significantly to supply growth in the last 15 years, with some areas experiencing declines that offset gains elsewhere <a class="yt-timestamp" data-t="00:22:02">[00:22:02]</a>.
+
+### OPEC Capacity
+The Organization of the Petroleum Exporting Countries (OPEC) faces challenges in increasing production. Saudi Arabia, the UAE, and Iran are believed to be the only countries with significant spare capacity <a class="yt-timestamp" data-t="00:22:31">[00:22:31]</a>. Saudi Arabia's true reserve capacity has been a long-standing debate, with some major fields like Ghawar showing decline <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>. Although Saudi Arabia claims a total spare capacity of 12 million barrels a day (projected to increase to 13 million barrels a day with investments) <a class="yt-timestamp" data-t="00:27:50">[00:27:50]</a>, recent comments suggest they are nearing their productive limits <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>. Notably, every OPEC member country is currently producing below its allocated quota, which indicates potential depletion issues rather than voluntary restraint <a class="yt-timestamp" data-t="00:29:10">[00:29:10]</a>.
+
+### Venezuela's Role
+Venezuela, despite holding the world's largest oil reserves <a class="yt-timestamp" data-t="00:29:42">[00:29:42]</a>, is not in a position to quickly increase oil production due to years of underinvestment and the cannibalization of its nationalized industry <a class="yt-timestamp" data-t="00:30:31">[00:30:31]</a>. Reinvigorating Venezuela's oil industry would require significant capital and time, extending several years <a class="yt-timestamp" data-t="00:31:24">[00:31:24]</a>.
+
+### Strategic Petroleum Reserves
+The release of [[Strategic petroleum reserves and global energy security | Strategic Petroleum Reserves]] (SPR) by the U.S. and other OECD countries at an unprecedented rate (U.S. at ~1 million barrels/day, others at ~500,000 barrels/day) <a class="yt-timestamp" data-t="00:34:01">[00:34:01]</a> has absorbed much of the available supply, but it hasn't significantly suppressed prices over the long term <a class="yt-timestamp" data-t="00:34:57">[00:34:57]</a>. The U.S. SPR is estimated to be about 65% depleted from its high-water mark <a class="yt-timestamp" data-t="00:36:15">[00:36:15]</a>. This depletion raises concerns about the strategic purpose of the reserve, which was established to enable countries to weather supply cuts used as a "weapon" by oil producers <a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a>.
+
+## Natural Gas Sector
+The natural gas industry has also suffered from a lack of capital investment over the last decade <a class="yt-timestamp" data-t="00:40:51">[00:40:51]</a>. This is partly attributed to [[Impact of ESG policies on energy investment | ESG concerns]], despite natural gas being a cleaner alternative to coal, with half the CO2 emissions when used for electricity generation <a class="yt-timestamp" data-t="00:41:13">[00:41:13]</a>. Demand for natural gas has been growing strongly, even more than oil demand <a class="yt-timestamp" data-t="00:41:52">[00:41:52]</a>.
+
+### Price Disparity and Convergence
+There is a significant price disparity between North American and European natural gas, with U.S. prices being approximately 90% lower <a class="yt-timestamp" data-t="00:43:39">[00:43:39]</a>. This is due to infrastructure bottlenecks in exporting liquefied natural gas (LNG) from the U.S. to other markets <a class="yt-timestamp" data-t="00:44:53">[00:44:53]</a>. While new LNG export infrastructure is being built, it has a lead time of three to five years <a class="yt-timestamp" data-t="00:46:46">[00:46:46]</a>. However, faster approvals could accelerate this <a class="yt-timestamp" data-t="00:47:01">[00:47:01]</a>.
+
+A potential catalyst for convergence is if U.S. natural gas supply, particularly from major shale fields like Marcellus and Haynesville, stops growing or even declines, as these fields are showing signs of being "middle-aged" and succumbing to depletion <a class="yt-timestamp" data-t="00:47:30">[00:47:30]</a>. Such a scenario could lead to a rapid increase in U.S. gas prices, potentially by two, three, four, or five-fold <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a>, and could occur as early as Q4 2022 if a normal or colder winter occurs <a class="yt-timestamp" data-t="00:50:01">[00:50:01]</a>.
+
+## The Broader Energy Challenge
+The past decade benefited from a period of abundant and cheap energy, with prices of uranium, coal, oil, and gas experiencing significant declines (e.g., oil went negative, gas fell 90%) <a class="yt-timestamp" data-t="00:54:04">[00:54:04]</a>. This cheap energy inadvertently encouraged energy-intensive pursuits like wind and solar, electric vehicles, and even cryptocurrencies <a class="yt-timestamp" data-t="00:55:01">[00:55:01]</a>.
+
+The challenge lies in the energy return on energy invested (EROEI). While oil and gas have an EROEI of about 30:1, with energy primarily produced upfront <a class="yt-timestamp" data-t="00:56:05">[00:56:05]</a>, wind and solar's EROEI drops to around 10:1 over a 20-year lifespan, providing only half a unit of energy back per year for the initial unit invested <a class="yt-timestamp" data-t="00:57:15">[00:57:15]</a>. This inefficiency makes renewables unable to sustain current living standards without abundant traditional energy sources <a class="yt-timestamp" data-t="00:53:16">[00:53:16]</a>.
+
+There is a growing recognition that nuclear power offers a significant solution due to its high energy efficiency and ability to address carbon emissions <a class="yt-timestamp" data-t="00:53:01">[00:53:01]</a>. While long lead times for construction are a drawback <a class="yt-timestamp" data-t="01:01:09">[01:01:09]</a>, advancements in Fourth Generation (Gen 4) small modular reactors promise to address issues of cost, safety, and waste, potentially reducing waste by an order of magnitude or more <a class="yt-timestamp" data-t="01:03:34">[01:03:34]</a>. These developments are primarily occurring in private companies like TerraPower, financed by Bill Gates <a class="yt-timestamp" data-t="01:03:54">[01:03:54]</a>.

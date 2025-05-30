@@ -1,0 +1,112 @@
+---
+title: Challenges and benefits of longterm trading horizons
+videoId: GpXfK3bUChA
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+Long-term trading horizons, particularly in the context of systematic trading strategies like [[Longterm trading systems | trend following]], present unique challenges and benefits for both managers and investors. These horizons often conflict with inherent human biases and traditional financial industry expectations <a class="yt-timestamp" data-t="02:26:30">[02:26:30]</a>.
+
+## The Nature of Long-Term Trading
+Scott Billington, co-founder of Covenant Capital Management, describes the path of managing [[Longterm trading systems | long-term trading systems]] as "not easy" <a class="yt-timestamp" data-t="01:27:54">[01:27:54]</a>, or even "impossible" when it comes to aligning investor horizons <a class="yt-timestamp" data-t="01:40:48">[01:40:48]</a>. The fundamental challenge lies in human psychology, which is "not particularly hardwired very well for trading" <a class="yt-timestamp" data-t="02:31:07">[02:31:07]</a>.
+
+### Investor Behavior and Drawdowns
+A significant challenge is the predictable behavior of investors:
+*   A period of strong performance ("getting hot for 24 months") will attract substantial capital <a class="yt-timestamp" data-t="01:54:02">[01:54:02]</a>.
+*   Conversely, an inevitable drawdown, which is "guaranteed" to occur and last for an "x amount of period," will lead to losing a third of the assets under management <a class="yt-timestamp" data-t="02:10:48">[02:10:48]</a>.
+*   This cycle of attracting and losing money is a "fact of the matter" <a class="yt-timestamp" data-t="02:21:55">[02:21:55]</a>.
+
+### Personal Motivation and Discipline
+Despite these difficulties, individuals are drawn to the field due to its high earning potential and the intellectual fascination with mathematically based, unknown future outcomes <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a> <a class="yt-timestamp" data-t="03:25:29">[03:25:29]</a>. A key benefit and requirement for success in long-term systematic trading is discipline and self-control, enabling traders to set aside personal opinions and methodically apply their strategies <a class="yt-timestamp" data-t="03:51:24">[03:51:24]</a> <a class="yt-timestamp" data-t="04:19:28">[04:19:28]</a>.
+
+## Resilience Through Long-Term Commitment
+Covenant Capital Management demonstrated the value of long-term commitment by not changing its trading philosophy or method during a significant 20% drawdown in its second year, a period where "most people would have" folded <a class="yt-timestamp" data-t="04:39:10">[04:39:10]</a> <a class="yt-timestamp" data-t="05:15:35">[05:15:35]</a>. This adherence proved successful, allowing the firm to thrive for the ensuing 15 years <a class="yt-timestamp" data-t="05:06:51">[05:06:51]</a> <a class="yt-timestamp" data-t="05:09:05">[05:09:05]</a>. The firm was built "from a bootstrap kind of in a vacuum" in Nashville, Tennessee, without relying on traditional financial connections <a class="yt-timestamp" data-t="06:02:44">[06:02:44]</a> <a class="yt-timestamp" data-t="06:06:40">[06:06:40]</a>.
+
+## Market Perceptions and Realities of Long-Term Strategies
+There is an ongoing debate about the viability of long-term strategies like [[Longterm trends and profitability | trend following]], with critics frequently declaring it "dead" <a class="yt-timestamp" data-t="07:11:36">[07:11:36]</a> <a class="yt-timestamp" data-t="07:14:14">[07:14:14]</a>. However, Scott Billington asserts that [[Longterm trends and profitability | trend following]] is likely the "most successful method that's ever been created" in trading, with high repeatability evidenced over decades and even centuries by studies from firms like AQR <a class="yt-timestamp" data-t="07:27:07">[07:27:07]</a> <a class="yt-timestamp" data-t="07:35:10">[07:35:10]</a> <a class="yt-timestamp" data-t="14:40:02">[14:40:02]</a> <a class="yt-timestamp" data-t="14:48:47">[14:48:47]</a>.
+
+### Volatility and Drawdowns
+While it's true that certain market environments, such as compression of volatility, are not ideal for [[Longterm trends and profitability | trend following]] <a class="yt-timestamp" data-t="08:19:07">[08:19:07]</a> <a class="yt-timestamp" data-t="10:39:31">[10:39:31]</a>, it's crucial to understand the relationship between volatility and trends <a class="yt-timestamp" data-t="10:50:09">[10:50:09]</a>. Volatility typically increases as a trend progresses, making profits for trend followers. The perceived negative correlation between volatility and profit is often a correlation, not a causation <a class="yt-timestamp" data-t="11:00:23">[11:00:23]</a> <a class="yt-timestamp" data-t="11:30:22">[11:30:22]</a> <a class="yt-timestamp" data-t="11:37:37">[11:37:37]</a>. The "smoothest money" is made during the period right before a trend becomes "crazy," where prices steadily increase without much attention <a class="yt-timestamp" data-t="11:41:20">[11:41:20]</a> <a class="yt-timestamp" data-t="11:58:53">[11:58:53]</a>.
+
+A key perspective on drawdowns is that "your largest drawdown is always in front of you" <a class="yt-timestamp" data-t="12:31:07">[12:31:07]</a>. Over extended periods, larger drawdowns and larger winning periods are statistically inevitable <a class="yt-timestamp" data-t="12:48:58">[12:48:58]</a> <a class="yt-timestamp" data-t="13:04:10">[13:04:10]</a>. It is "extraordinarily irrational" to state that [[Longterm trends and profitability | trend following]] doesn't work based on recent performance, given strong empirical evidence <a class="yt-timestamp" data-t="09:47:06">[09:47:06]</a> <a class="yt-timestamp" data-t="09:54:02">[09:54:02]</a>.
+
+[[Challenges and opportunities in the managed futures space | Trend followers]] are often held to an unequal standard compared to other investment vehicles like the stock market or passive investments, which do not show daily fluctuations but experience similar underlying risks <a class="yt-timestamp" data-t="13:50:23">[13:50:23]</a> <a class="yt-timestamp" data-t="14:10:44">[14:10:44]</a> <a class="yt-timestamp" data-t="17:09:50">[17:09:50]</a> <a class="yt-timestamp" data-t="18:09:15">[18:09:15]</a>.
+
+## [[Understanding and managing trading risks | Risk Management]] in Long-Term Trading
+Effective [[Understanding and managing trading risks | risk management]] is paramount.# Challenges and Benefits of Longterm Trading Horizons
+
+Long-term trading horizons, particularly in the context of systematic trading strategies like [[Longterm trading systems | trend following]], present unique challenges and benefits for both managers and investors. These horizons often conflict with inherent human biases and traditional financial industry expectations <a class="yt-timestamp" data-t="02:26:30">[02:26:30]</a>.
+
+## The Nature of Long-Term Trading
+Scott Billington, co-founder of Covenant Capital Management, describes the path of managing [[Longterm trading systems | long-term trading systems]] as "not easy" <a class="yt-timestamp" data-t="01:27:54">[01:27:54]</a>, or even "impossible" when it comes to aligning investor horizons <a class="yt-timestamp" data-t="01:40:48">[01:40:48]</a>. The fundamental challenge lies in human psychology, which is "not particularly hardwired very well for trading" <a class="yt-timestamp" data-t="02:31:07">[02:31:07]</a>.
+
+### Investor Behavior and Drawdowns
+A significant challenge is the predictable behavior of investors:
+*   A period of strong performance ("getting hot for 24 months") will attract substantial capital <a class="yt-timestamp" data-t="01:54:02">[01:54:02]</a>.
+*   Conversely, an inevitable drawdown, which is "guaranteed" to occur and last for an "x amount of period," will lead to losing a third of the assets under management <a class="yt-timestamp" data-t="02:10:48">[02:10:48]</a>.
+*   This cycle of attracting and losing money is a "fact of the matter" <a class="yt-timestamp" data-t="02:21:55">[02:21:55]</a>.
+
+### Personal Motivation and Discipline
+Despite these difficulties, individuals are drawn to the field due to its high earning potential and the intellectual fascination with mathematically based, unknown future outcomes <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a> <a class="yt-timestamp" data-t="03:25:29">[03:25:29]</a>. A key benefit and requirement for success in long-term systematic trading is discipline and self-control, enabling traders to set aside personal opinions and methodically apply their strategies <a class="yt-timestamp" data-t="03:51:24">[03:51:24]</a> <a class="yt-timestamp" data-t="04:19:28">[04:19:28]</a>.
+
+## Resilience Through Long-Term Commitment
+Covenant Capital Management demonstrated the value of long-term commitment by not changing its trading philosophy or method during a significant 20% drawdown in its second year, a period where "most people would have" folded <a class="yt-timestamp" data-t="04:39:10">[04:39:10]</a> <a class="yt-timestamp" data-t="05:15:35">[05:15:35]</a>. This adherence proved successful, allowing the firm to thrive for the ensuing 15 years <a class="yt-timestamp" data-t="05:06:51">[05:06:51]</a> <a class="yt-timestamp" data-t="05:09:05">[05:09:05]</a>. The firm was built "from a bootstrap kind of in a vacuum" in Nashville, Tennessee, without relying on traditional financial connections <a class="yt-timestamp" data-t="06:02:44">[06:02:44]</a> <a class="yt-timestamp" data-t="06:06:40">[06:06:40]</a>.
+
+## Market Perceptions and Realities of Long-Term Strategies
+There is an ongoing debate about the viability of long-term strategies like [[Longterm trends and profitability | trend following]], with critics frequently declaring it "dead" <a class="yt-timestamp" data-t="07:11:36">[07:11:36]</a> <a class="yt-timestamp" data-t="07:14:14">[07:14:14]</a>. However, Scott Billington asserts that [[Longterm trends and profitability | trend following]] is likely the "most successful method that's ever been created" in trading, with high repeatability evidenced over decades and even centuries by studies from firms like AQR <a class="yt-timestamp" data-t="07:27:07">[07:27:07]</a> <a class="yt-timestamp" data-t="07:35:10">[07:35:10]</a> <a class="yt-timestamp" data-t="14:40:02">[14:40:02]</a> <a class="yt-timestamp" data-t="14:48:47">[14:48:47]</a>.
+
+### Volatility and Drawdowns
+While it's true that certain market environments, such as compression of volatility, are not ideal for [[Longterm trends and profitability | trend following]] <a class="yt-timestamp" data-t="08:19:07">[08:19:07]</a> <a class="yt-timestamp" data-t="10:39:31">[10:39:31]</a>, it's crucial to understand the relationship between volatility and trends <a class="yt-timestamp" data-t="10:50:09">[10:50:09]</a>. Volatility typically increases as a trend progresses, making profits for trend followers. The perceived negative correlation between volatility and profit is often a correlation, not a causation <a class="yt-timestamp" data-t="11:00:23">[11:00:23]</a> <a class="yt-timestamp" data-t="11:30:22">[11:30:22]</a> <a class="yt-timestamp" data-t="11:37:37">[11:37:37]</a>. The "smoothest money" is made during the period right before a trend becomes "crazy," where prices steadily increase without much attention <a class="yt-timestamp" data-t="11:41:20">[11:41:20]</a> <a class="yt-timestamp" data-t="11:58:53">[11:58:53]</a>.
+
+A key perspective on drawdowns is that "your largest drawdown is always in front of you" <a class="yt-timestamp" data-t="12:31:07">[12:31:07]</a>. Over extended periods, larger drawdowns and larger winning periods are statistically inevitable <a class="yt-timestamp" data-t="12:48:58">[12:48:58]</a> <a class="yt-timestamp" data-t="13:04:10">[13:04:10]</a>. It is "extraordinarily irrational" to state that [[Longterm trends and profitability | trend following]] doesn't work based on recent performance, given strong empirical evidence <a class="yt-timestamp" data-t="09:47:06">[09:47:06]</a> <a class="yt-timestamp" data-t="09:54:02">[09:54:02]</a>.
+
+[[Challenges and opportunities in the managed futures space | Trend followers]] are often held to an unequal standard compared to other investment vehicles like the stock market or passive investments, which do not show daily fluctuations but experience similar underlying risks <a class="yt-timestamp" data-t="13:50:23">[13:50:23]</a> <a class="yt-timestamp" data-t="14:10:44">[14:10:44]</a> <a class="yt-timestamp" data-t="17:09:50">[17:09:50]</a> <a class="yt-timestamp" data-t="18:09:15">[18:09:15]</a>.
+
+## [[Understanding and managing trading risks | Risk Management]] in Long-Term Trading
+Effective [[Understanding and managing trading risks | risk management]] is paramount.
+
+### Position Sizing and Capital Allocation
+Once a non-random method of entry and exit is established, the entire outcome is determined by [[Understanding and managing trading risks | position sizing]] <a class="yt-timestamp" data-t="19:30:17">[19:30:17]</a> <a class="yt-timestamp" data-t="19:33:41">[19:33:41]</a>. Improper position sizing can turn a positive expected outcome into a loser, as demonstrated by the coin flip example <a class="yt-timestamp" data-t="19:43:08">[19:43:08]</a> <a class="yt-timestamp" data-t="20:41:06">[20:41:06]</a>. This highlights the non-linear relationship between risk and return <a class="yt-timestamp" data-t="21:54:03">[21:54:03]</a>.
+
+Covenant Capital Management has always used a standard fixed fraction of the account size for risk and remains aware of optimal risk levels <a class="yt-timestamp" data-t="21:42:01">[21:42:01]</a> <a class="yt-timestamp" data-t="21:50:09">[21:50:09]</a>. They manage risk by:
+*   Setting a point at which a position is exited (stop loss) <a class="yt-timestamp" data-t="22:18:22">[22:18:22]</a>.
+*   Calculating the amount of money at risk daily for every position <a class="yt-timestamp" data-t="22:25:34">[22:25:34]</a>.
+*   Implementing maximums at both individual position and portfolio levels, reducing position size if these maximums are hit <a class="yt-timestamp" data-t="22:32:00">[22:32:00]</a> <a class="yt-timestamp" data-t="22:37:05">[22:37:05]</a>.
+*   Offering different programs with varying maximum risk levels (e.g., 25%, 30%, 95%) <a class="yt-timestamp" data-t="23:01:06">[23:01:06]</a> <a class="yt-timestamp" data-t="23:14:38">[23:14:38]</a>.
+
+### Correlation and Drawdown Control
+For [[Longterm trading systems | trend following]], markets tend to correlate higher when they are significant to the strategy, specifically when positions are in decent-sized winning trades <a class="yt-timestamp" data-t="23:50:23">[23:50:23]</a> <a class="yt-timestamp" data-t="24:34:04">[24:34:04]</a>. The firm assumes every sector is highly correlated when evaluating portfolio risk <a class="yt-timestamp" data-t="25:09:07">[25:09:07]</a> <a class="yt-timestamp" data-t="25:12:00">[25:12:00]</a>. Drawdowns are controlled by ensuring that at no time from an equity high is more than a preset level of the account's value at risk <a class="yt-timestamp" data-t="25:47:04">[25:47:04]</a> <a class="yt-timestamp" data-t="25:52:43">[25:52:43]</a>.
+
+This approach contrasts with the complex risk management often used by large financial institutions, which tends to fail during tough times <a class="yt-timestamp" data-t="26:02:18">[26:02:18]</a> <a class="yt-timestamp" data-t="26:24:28">[26:24:28]</a>. True risk management is about knowing the market position and the exit point <a class="yt-timestamp" data-t="26:36:00">[26:36:00]</a> <a class="yt-timestamp" data-t="26:44:00">[26:44:00]</a>. The "barbell strategy" is favored, with very little money at risk, but that money is invested in the most aggressive possible ways <a class="yt-timestamp" data-t="31:59:30">[31:59:30]</a> <a class="yt-timestamp" data-t="32:07:08">[32:07:08]</a>.
+
+### Managing Loss and Maximizing Wins
+In long-term trading, the focus is on the impact of large market moves <a class="yt-timestamp" data-t="37:47:33">[37:47:33]</a> <a class="yt-timestamp" data-t="37:50:40">[37:50:40]</a>. While a losing trade means losing one unit of risk, a winning trade could yield 20 or more units <a class="yt-timestamp" data-t="37:53:50">[37:53:50]</a> <a class="yt-timestamp" data-t="38:09:14">[38:09:14]</a>. The firm's win ratio is around 30% <a class="yt-timestamp" data-t="39:03:52">[39:03:52]</a>.
+
+## Investor Relations and Due Diligence
+One of the biggest [[Challenges and Successes in Managed Futures Industry | challenges]] for a [[Longterm trading systems | long-term trading]] firm is that it's "not easy" to get investors to share the same long-term horizon <a class="yt-timestamp" data-t="01:32:03">[01:32:03]</a> <a class="yt-timestamp" data-t="03:29:10">[03:29:10]</a>. Firms must understand their identity as a "boutique" and target specific investors who are attracted to that model <a class="yt-timestamp" data-t="41:12:00">[41:12:00]</a> <a class="yt-timestamp" data-t="41:51:30">[41:51:30]</a>.
+
+### Ideal Investors
+Investors who value Covenant Capital Management often appreciate their performance <a class="yt-timestamp" data-t="43:05:07">[43:05:07]</a> and the boutique nature of the firm, which allows for nimbleness while still being a credible operation <a class="yt-timestamp" data-t="43:17:35">[43:17:35]</a> <a class="yt-timestamp" data-t="43:39:10">[43:39:10]</a>. The most successful relationships are with those closest to the actual money, as they are less concerned with explaining decisions to boards and more focused on trust and logical sense <a class="yt-timestamp" data-t="44:39:00">[44:39:00]</a> <a class="yt-timestamp" data-t="45:00:23">[45:00:23]</a>.
+
+### Questions Investors Should Ask
+Investors often miss asking crucial qualitative questions during due diligence <a class="yt-timestamp" data-t="46:24:00">[46:24:00]</a>. These include:
+*   "How many parameters do you use in your method?" <a class="yt-timestamp" data-t="46:32:46">[46:32:46]</a>
+*   "If you changed your parameters by 5% what kind of effect does that have on your returns?" <a class="yt-timestamp" data-t="46:36:11">[46:36:11]</a>
+*   "Why did you pick the number that you picked?" (for specific parameters) <a class="yt-timestamp" data-t="47:00:26">[47:00:26]</a>
+These questions aim to understand the robustness and repeatability of the trading system, rather than just operational security <a class="yt-timestamp" data-t="47:28:44">[47:28:44]</a> <a class="yt-timestamp" data-t="47:48:00">[47:48:00]</a>. It is also beneficial to have individuals with actual trading experience conduct due diligence <a class="yt-timestamp" data-t="48:03:00">[48:03:00]</a>.
+
+## Building a Long-Term Trading Business
+For those aspiring to start a long-term trading firm, key advice includes:
+*   **Operational Capital**: Have enough money to operate for at least five years without income, allowing the "tree" (business) to sprout roots and grow without immediate pressure <a class="yt-timestamp" data-t="05:02:00">[05:02:00]</a> <a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a> <a class="yt-timestamp" data-t="05:39:00">[05:39:00]</a>.
+*   **Realistic Goals**: Be realistic about the desired size of the firm, as becoming a "giant" manager often requires specific connections and pedigree <a class="yt-timestamp" data-t="05:19:00">[05:19:00]</a> <a class="yt-timestamp" data-t="05:29:00">[05:29:00]</a>.
+*   **Team Composition**: Include partners with diverse skills, such as sales ability, scientific degrees, and programming expertise <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a> <a class="yt-timestamp" data-t="06:11:00">[06:11:00]</a>.
+*   **Partnership Alignment**: In a partnership, ensure philosophies and goals for the company and personal lives are aligned, and formalize agreements <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a> <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a> <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a> <a class="yt-timestamp" data-t="06:19:00">[06:19:00]</a>.
+*   **Patience and Luck**: Success often requires patience and "some good luck," as attracting significant money typically follows a couple of successful years <a class="yt-timestamp" data-t="05:40:00">[05:40:00]</a> <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a> <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>. It's often advisable to gain experience at smaller and larger firms to build contacts before spinning out <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a> <a class="yt-timestamp" data-t="06:07:00">[06:07:00]</a>.
+
+## Personal Discipline for Long-Term Success
+Long-term trading success is built on a few core principles:
+*   **Non-Random Entry/Exit**: Have a "non-random way of entering and exiting markets" <a class="yt-timestamp" data-t="05:52:00">[05:52:00]</a>.
+*   **Appropriate Risk**: "Appropriately risk" based on the "edge" or non-randomness that can be captured <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>.
+*   **Discipline to Follow the System**: Possess the discipline to adhere to the established system, or create a system that removes the need for discretionary decisions, ideally with others executing the trades to further remove emotional bias <a class="yt-timestamp" data-t="06:08:00">[06:08:00]</a> <a class="yt-timestamp" data-t="06:27:00">[06:27:00]</a>.
+*   **Health and Well-being**: Maintain good physical and mental health through proper eating and exercise, and avoid substance abuse, as trading is a stressful endeavor where working harder doesn't guarantee better results <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a> <a class="yt-timestamp" data-t="06:58:00">[06:58:00]</a>.
+*   **Probabilistic Thinking**: Cultivate an analytical mind with a strong grasp of probabilistic thinking <a class="yt-timestamp" data-t="06:48:00">[06:48:00]</a> <a class="yt-timestamp" data-t="06:50:00">[06:50:00]</a>. This includes being comfortable with admitting when you are wrong and accepting that losses are part of the process <a class="yt-timestamp" data-t="07:04:00">[07:04:00]</a> <a class="yt-timestamp" data-t="07:08:00">[07:08:00]</a>. The analogy of a coach's decision is used: a win does not automatically make the decision right, rather the probabilistic outcome of the decision over many instances defines its correctness <a class="yt-timestamp" data-t="07:20:00">[07:20:00]</a> <a class="yt-timestamp" data-t="07:46:00">[07:46:00]</a>.

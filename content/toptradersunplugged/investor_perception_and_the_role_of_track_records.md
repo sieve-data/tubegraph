@@ -1,0 +1,38 @@
+---
+title: Investor Perception and the Role of Track Records
+videoId: JMQdbgV4jeg
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+Evaluating investment managers and strategies often relies heavily on historical performance data, known as track records. However, the interpretation and utility of these records, especially in systematic trading like trend following, are often misunderstood by investors and can create [[Challenges and misconceptions in investment strategies | challenges]] for managers.
+
+## The Importance of Track Records <a class="yt-timestamp" data-t="01:04:15">[01:04:15]</a>
+
+When investors consider who to invest with, reviewing track records is deemed essential <a class="yt-timestamp" data-t="01:04:33">[01:04:33]</a>. The most critical aspects of a [[the_importance_of_track_records_and_how_to_evaluate_them | track record]] are its longevity and the overall performance displayed <a class="yt-timestamp" data-t="01:04:40">[01:04:40]</a>.
+
+However, a significant misconception is the belief that one can pinpoint the top-performing traders for the future based on past results <a class="yt-timestamp" data-t="01:05:14">[01:05:14]</a>. Research suggests that most [[Market Dynamics and Hedge Fund Performance | CTAs]] (Commodity Trading Advisors) and trend-following systems tend to yield similar returns over extended periods, such as 10 or 20 years <a class="yt-timestamp" data-t="01:05:26">[01:05:26]</a>. Different parameters might lead to varying performance at different times, but the long-term averages converge <a class="yt-timestamp" data-t="01:05:34">[01:05:34]</a>. Investors are often "totally shocked" when a manager previously considered the "best" experiences a poor year or period, failing to recognize that no one can defy typical market fluctuations <a class="yt-timestamp" data-t="01:05:54">[01:05:54]</a>.
+
+Instead of trying to select only the top five performers, a more effective approach for investors is to hire a diversified group of around 20 traders who demonstrate decent, consistent performance and have shown the ability to remain in business through various market environments <a class="yt-timestamp" data-t="01:05:02">[01:05:02]</a>.
+
+## Investor Perception of Trend Following Strategies <a class="yt-timestamp" data-t="01:06:26">[01:06:26]</a>
+
+Many investors, especially in the modern era, do not appreciate systematic trend-following strategies <a class="yt-timestamp" data-t="01:06:29">[01:06:29]</a>. A primary reason for this is their aversion to certain inherent characteristics of these systems:
+*   **Losses and Drawdowns**: Trend following involves frequent small losses and significant drawdowns <a class="yt-timestamp" data-t="00:26:25">[00:26:25]</a>. These are often seen as "bad parts" of the strategy <a class="yt-timestamp" data-t="00:48:51">[00:48:51]</a>.
+*   **"Love Your System" Philosophy**: The philosophy behind trend following dictates embracing all system characteristics, including losing trades and drawdowns <a class="yt-timestamp" data-t="00:26:07">[00:26:07]</a>. This means a trader should "love to take losses" because they are an integral part of the system's design <a class="yt-timestamp" data-t="00:27:19">[00:27:19]</a>. However, while a manager might understand and accept this, clients often do not <a class="yt-timestamp" data-t="00:27:41">[00:27:41]</a>.
+*   **Cutting Profits Short**: There is a temptation, often driven by a desire to minimize drawdowns and avoid "bad parts," to implement methods that cut profits short, such as taking profits prematurely or resizing positions based on new volatility <a class="yt-timestamp" data-t="00:47:22">[00:47:22]</a>, <a class="yt-timestamp" data-t="00:47:43">[00:47:43]</a>. While this might appear to improve back-test results, it often does not translate to better future performance and can destroy the core robustness of the system <a class="yt-timestamp" data-t="00:48:34">[00:48:34]</a>, <a class="yt-timestamp" data-t="00:54:17">[00:54:17]</a>.
+*   **Misconceptions of Risk**: Despite the inherent characteristics, trend following is considered one of the [[Investment Strategies and Market Predictions | least risky investment strategies]] due to its systematic diversification, strict risk control (cutting losses, letting winners run), and focus on long-term trends <a class="yt-timestamp" data-t="00:49:04">[00:49:04]</a>.
+
+## Challenges and Influences on Managers <a class="yt-timestamp" data-t="00:32:04">[00:32:04]</a>
+
+Managers, especially those with growing businesses and institutional clients, face significant pressure to adapt their strategies to investor preferences <a class="yt-timestamp" data-t="00:52:56">[00:52:56]</a>. This pressure can manifest in:
+*   **Leverage Decisions**: The choice of leverage is crucial. Trading too aggressively can lead to significant drawdowns (e.g., 30-40%), which can overwhelm the benefits of the system for clients <a class="yt-timestamp" data-t="00:51:58">[00:51:58]</a>. Maintaining a moderate and consistent leverage is advised <a class="yt-timestamp" data-t="00:57:19">[00:57:19]</a>.
+*   **Fees and Commissions**: High fees and commissions can also detract from the client experience, overshadowing the benefits of a robust system <a class="yt-timestamp" data-t="00:52:20">[00:52:20]</a>.
+*   **Resisting Portfolio Management Interventions**: While some [[Challenges and strategies for active investors | CTAs]] might engage in non-systematic trades or portfolio management to manage volatility (e.g., decreasing positions when volatility increases), this can undermine the core system's integrity <a class="yt-timestamp" data-t="00:53:56">[00:53:56]</a>.
+*   **Tinkering with Systems**: Periods of underperformance often tempt managers to "tinker" with their systems, hoping to improve them <a class="yt-timestamp" data-t="00:58:11">[00:58:11]</a>. However, this often leads to a "yin and yang" effect where new research might underperform just as old systems would have started to perform better again <a class="yt-timestamp" data-t="00:58:03">[00:58:03]</a>.
+
+A manager's conviction in their system is paramount. Richard Dennis, the founder of the Turtle program, emphasized that traders would be evaluated based on how well they followed the rules, not solely on performance <a class="yt-timestamp" data-t="00:55:02">[00:55:02]</a>. This suggests that adherence to a sound, systematic approach is more critical than short-term results, as "bad ideas can seem to work" for a long period of time, and vice versa <a class="yt-timestamp" data-t="00:55:30">[00:55:30]</a>. The fundamental components of a successful system, such as diversification, systematic rule-following, and a long-term perspective, should be embraced <a class="yt-timestamp" data-t="00:49:53">[00:49:53]</a>.
+
+### Optimal Loss <a class="yt-timestamp" data-t="01:02:28">[01:02:28]</a>
+
+Instead of simply stating a strategy takes "small losses," it is more precise to refer to an "optimal loss" <a class="yt-timestamp" data-t="01:02:31">[01:02:31]</a>. This refers to a stop-loss placement calculated to ensure a reasonable winning percentage (e.g., in the low 40s) while avoiding excessive whipsaws, trading costs, and slippage <a class="yt-timestamp" data-t="01:02:41">[01:02:41]</a>. An excessively small stop loss can lead to frequent whipsaws and a very low winning percentage, while one that is too large can expose the capital unnecessarily <a class="yt-timestamp" data-t="01:02:57">[01:02:57]</a>.

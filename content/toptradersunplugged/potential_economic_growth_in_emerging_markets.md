@@ -1,0 +1,30 @@
+---
+title: Potential economic growth in emerging markets
+videoId: iq6IZnNlxjE
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+The de-dollarization of the commodity trade is predicted to lead to an "Emerging Market Bloom of Epic Proportion" <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>, <a class="yt-timestamp" data-t="00:38:50">[00:38:50]</a>. Historically, the primary constraint for most [[impact_of_fiscal_and_monetary_policies_on_emerging_markets | Emerging Markets]] was access to U.S. dollars, which created reluctance to embark on significant infrastructure projects, such as building railways in India <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. However, the ability to now purchase commodities in local currencies (e.g., India buying iron ore in rupees from Russia) removes this uncertainty <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>, <a class="yt-timestamp" data-t="00:33:21">[00:33:21]</a>, <a class="yt-timestamp" data-t="00:38:03">[00:38:03]</a>.
+
+## Drivers of Growth
+
+### The Impact of De-dollarization
+The shift in commodity trade away from the U.S. dollar is a "game changer" for countries like India, Indonesia, and Brazil <a class="yt-timestamp" data-t="00:38:05">[00:38:05]</a>, <a class="yt-timestamp" data-t="00:38:38">[00:38:38]</a>. This allows them to fund massive commodity needs without struggling to earn enough U.S. dollars <a class="yt-timestamp" data-t="00:38:18">[00:38:18]</a>. Russia's willingness to accept rupees for oil is cited as a significant example <a class="yt-timestamp" data-t="00:38:30">[00:38:30]</a>. This phenomenon suggests a split among [[opportunities_and_risks_in_global_macroeconomic_environments | Emerging Markets]]: those whose currencies are accepted by key trade partners (e.g., China, India, Thailand) and those who remain dependent on dollars (e.g., Egypt, Sri Lanka, Pakistan) <a class="yt-timestamp" data-t="00:39:26">[00:39:26]</a>.
+
+### Regional Opportunities and Stability
+The bond markets are signaling that the next major bull market will be in [[opportunities_and_risks_in_global_macroeconomic_environments | Emerging Markets]] <a class="yt-timestamp" data-t="00:33:52">[00:33:52]</a>. Examples include Brazil and India, whose government bonds have significantly outperformed U.S. treasuries <a class="yt-timestamp" data-t="00:33:57">[00:33:57]</a>. This potential "triple merit scenario" involves gains in currency, bonds, and equities, driven by falling real rates, rising exchange rates, and increasing asset prices <a class="yt-timestamp" data-t="00:34:22">[00:34:22]</a>.
+
+A line drawn from Istanbul to Jakarta encompasses three to three-and-a-half billion people, where incomes are growing by five percent annually <a class="yt-timestamp" data-t="00:34:41">[00:34:41]</a>. Infrastructure spending in this region is escalating due to newfound access to commodities <a class="yt-timestamp" data-t="00:34:52">[00:34:52]</a>.
+
+A significant geopolitical development supporting this outlook is the Saudi-Iran peace deal <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>. This reconciliation among regional rivals is compared to post-WWII Franco-German cooperation, fostering stability and growth <a class="yt-timestamp" data-t="00:44:26">[00:44:26]</a>. The formation of a joint navy by Iran, Saudi Arabia, Oman, and the UAE to patrol the Persian Gulf signifies a dramatic shift towards regional cooperation and less U.S.-centric policy <a class="yt-timestamp" data-t="00:46:16">[00:46:16]</a>, <a class="yt-timestamp" data-t="00:46:50">[00:46:50]</a>. This reduces proxy wars and is expected to lead to massive infrastructure investments <a class="yt-timestamp" data-t="00:44:07">[00:44:07]</a>, <a class="yt-timestamp" data-t="00:45:07">[00:45:07]</a>.
+
+### Distinguishing from China's Model
+While China experienced an unprecedented infrastructure boom (pouring more concrete in 10 years than the U.S. in the 20th century) <a class="yt-timestamp" data-t="00:37:03">[00:37:03]</a>, this scale is unlikely to be repeated. However, the collective population of the aforementioned emerging markets is 3.6 billion, meaning even a third of China's past effort would be significant <a class="yt-timestamp" data-t="00:37:14">[00:37:14]</a>.
+
+The [[challenges_and_opportunities_in_chinas_economic_transition | Chinese economic model]] mobilized human and financial capital to overcome commodity dependency <a class="yt-timestamp" data-t="00:37:30">[00:37:30]</a>. The current geopolitical landscape, particularly the Ukraine war, is seen as providing [[opportunities_and_risks_in_global_macroeconomic_environments | Emerging Markets]] with a similar opportunity to access commodities in their own currencies <a class="yt-timestamp" data-t="00:37:51">[00:37:51]</a>.
+
+The growth in these markets is expected to be more consumer and service-led, similar to China's current transition away from a reliance on growing its workforce <a class="yt-timestamp" data-t="00:40:53">[00:40:53]</a>, <a class="yt-timestamp" data-t="00:20:59">[00:20:59]</a>. As countries urbanize and income levels rise, consumption patterns shift towards services (e.g., movies, restaurants, holidays) over goods <a class="yt-timestamp" data-t="00:41:50">[00:41:50]</a>, <a class="yt-timestamp" data-t="00:43:08">[00:43:08]</a>.
+
+### Investment Outlook
+The focus for [[global market trends and investment strategies | global market trends and investment strategies]] over the next decade is shifting away from solely the U.S. and China <a class="yt-timestamp" data-t="00:33:15">[00:33:15]</a>. The "real story" of capital spending and economic "bloom" is anticipated to occur in the broader [[opportunities and risks in global macroeconomic environments | Emerging Market]] space <a class="yt-timestamp" data-t="00:59:56">[00:59:56]</a>. Companies in Japan and Europe are seen as well-positioned to participate in this anticipated boom <a class="yt-timestamp" data-t="00:59:11">[00:59:11]</a>.

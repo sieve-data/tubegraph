@@ -1,0 +1,40 @@
+---
+title: Global monetary system changes
+videoId: rmDH6HZZNgQ
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+Historically, significant shifts in global monetary systems or regimes have acted as catalysts for major market reorderings, particularly impacting the valuation of commodities relative to financial assets <a class="yt-timestamp" data-t="00:36:06">[00:36:06]</a>. Experts firmly believe that the current period is nearing a similar point of change in the monetary systems <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+
+The presence of massive volatility events, including fluctuations in the Yen and concerns about the [[us_dollar_and_global_currency_movements | US Dollar]], coupled with central banks accumulating gold, suggests an impending reordering of things to alleviate existing imbalances in valuations <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a> <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+
+## Historical Precedents for Monetary System Shifts
+
+Three major historical cycles demonstrate the link between monetary regime changes and commodity market performance:
+
+### End of the Classical Gold Standard (1929)
+The period leading up to 1929 saw commodities become radically undervalued while the stock market boomed <a class="yt-timestamp" data-t="00:36:41">[00:36:41]</a>. Benjamin Strong, then governor of the New York Fed, experimented with early quantitative easing to devalue the [[us_dollar_and_global_currency_movements | Dollar]] and support the Pound's return to the gold standard <a class="yt-timestamp" data-t="00:36:51">[00:36:51]</a> <a class="yt-timestamp" data-t="00:37:00">[00:37:00]</a>. His death in late 1928 led to a reversal of these policies, tightening liquidity and credit, which ultimately contributed to the Great Contraction <a class="yt-timestamp" data-t="00:37:16">[00:37:16]</a> <a class="yt-timestamp" data-t="00:37:20">[00:37:20]</a> <a class="yt-timestamp" data-t="00:37:23">[00:37:23]</a>.
+
+This reversal led to the [[us_dollar_and_global_currency_movements | Dollar]] strengthening against the Pound, making it impossible for the Pound to return to gold <a class="yt-timestamp" data-t="00:37:42">[00:37:42]</a> <a class="yt-timestamp" data-t="00:37:44">[00:37:44]</a>. This shift in monetary systems acted as a catalyst for a huge stock market collapse but also for strong outperformance of natural resource equities over the subsequent decade (1929-1940) <a class="yt-timestamp" data-t="00:37:50">[00:37:50]</a> <a class="yt-timestamp" data-t="00:37:57">[00:37:57]</a>.
+
+### Breakdown of the Bretton Woods System (1968-1971)
+The commodity to equity ratio bottomed in 1968, coinciding almost to the day with President Johnson taking the [[us_dollar_and_global_currency_movements | Dollar]] off gold <a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a> <a class="yt-timestamp" data-t="00:39:03">[00:39:03]</a> <a class="yt-timestamp" data-t="00:39:06">[00:39:06]</a>. Although Nixon formally shut the gold window in 1971, the legislative requirement for the [[us_dollar_and_global_currency_movements | Dollar]] to be backed by gold ended in 1968 <a class="yt-timestamp" data-t="00:39:14">[00:39:14]</a> <a class="yt-timestamp" data-t="00:39:22">[00:39:22]</a> <a class="yt-timestamp" data-t="00:39:24">[00:39:24]</a>. This event marked the effective end of the Bretton Woods exchange standard and correlated with an explosion in commodity stocks <a class="yt-timestamp" data-t="00:39:41">[00:39:41]</a> <a class="yt-timestamp" data-t="00:39:57">[00:39:57]</a>.
+
+### Asian Currency Crisis Aftermath (1999)
+In 1999, a complete reordering of Southeast Asian and Chinese central bank policies occurred <a class="yt-timestamp" data-t="00:40:10">[00:40:10]</a> <a class="yt-timestamp" data-t="00:40:14">[00:40:14]</a>. Before the Asian currency crisis, their currencies were pegged to the [[us_dollar_and_global_currency_movements | Dollar]] <a class="yt-timestamp" data-t="00:40:19">[00:40:19]</a>. Afterward, they pegged them at a below-market rate to stimulate exports, leading to trillions of dollars worth of treasuries moving East <a class="yt-timestamp" data-t="00:40:23">[00:40:23]</a> <a class="yt-timestamp" data-t="00:40:27">[00:40:27]</a> <a class="yt-timestamp" data-t="00:40:30">[00:40:30]</a>. This, too, corresponded with commodities and commodity stocks beginning to radically outperform <a class="yt-timestamp" data-t="00:40:44">[00:40:44]</a> <a class="yt-timestamp" data-t="00:40:49">[00:40:49]</a>.
+
+## Current Indicators and Outlook
+The current environment shares characteristics with these historical periods, including very easy money, a "mania" in other parts of the market, and a decrease in commodity prices between 2010 and 2020 <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a> <a class="yt-timestamp" data-t="00:41:06">[00:41:06]</a>.
+
+Factors suggesting a current shift in the [[risks_and_potential_changes_in_global_financial_systems | global financial system]] include:
+*   China discussing settling commodity trades outside the [[us_dollar_and_global_currency_movements | Dollar]] <a class="yt-timestamp" data-t="00:41:48">[00:41:48]</a>.
+*   Central banks rushing to buy gold <a class="yt-timestamp" data-t="00:41:53">[00:41:53]</a>.
+*   Discussions about the US having "weaponized the [[us_dollar_and_global_currency_movements | Dollar]]" <a class="yt-timestamp" data-t="00:41:59">[00:41:59]</a>.
+
+These indicators, along with significant volatility events in currencies like the Yen, and concerns surrounding the [[us_dollar_and_global_currency_movements | Dollar]], suggest that a new reordering is necessary to address existing imbalances in valuations <a class="yt-timestamp" data-t="00:42:19">[00:42:19]</a> <a class="yt-timestamp" data-t="00:42:30">[00:42:30]</a> <a class="yt-timestamp" data-t="00:42:36">[00:42:36]</a>. It is suspected that a rollover in interest rates could be a trigger to bring Western investors back into the gold market <a class="yt-timestamp" data-t="00:21:38">[00:21:38]</a> <a class="yt-timestamp" data-t="00:21:55">[00:21:55]</a>.
+
+## Relationship with Commodities
+The historical pattern shows that when commodities become radically undervalued relative to financial assets, a shift in [[global_monetary_policy_and_currency_stability | global monetary policy]] or regimes acts as the trigger for a new commodity bull market and outperformance of resource stocks <a class="yt-timestamp" data-t="00:36:06">[00:36:06]</a> <a class="yt-timestamp" data-t="00:36:32">[00:36:32]</a>. The current environment, marked by easy money and a decrease in commodity prices from 2010 to 2020, along with an erosion of profits and investments, aligns with the preconditions for such a shift <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a> <a class="yt-timestamp" data-t="00:41:06">[00:41:06]</a> <a class="yt-timestamp" data-t="00:41:18">[00:41:18]</a> <a class="yt-timestamp" data-t="00:41:22">[00:41:22]</a>.
+
+Such transitions often involve significant volatility and dislocations <a class="yt-timestamp" data-t="00:43:17">[00:43:17]</a> <a class="yt-timestamp" data-t="00:43:23">[00:43:23]</a>. The idea that the entire S&P 500 has become a "giant carry trade" and that real assets (commodities) act as the short-side funding mechanism for this carry trade, suggests that an unwind of this carry trade could initiate a rethinking of [[global_monetary_policy_and_currency_stability | global monetary systems]] and lead to a bottom in real assets relative to financial assets <a class="yt-timestamp" data-t="00:53:01">[00:53:01]</a> <a class="yt-timestamp" data-t="00:53:04">[00:53:04]</a> <a class="yt-timestamp" data-t="00:53:17">[00:53:17]</a> <a class="yt-timestamp" data-t="00:53:22">[00:53:22]</a> <a class="yt-timestamp" data-t="00:53:40">[00:53:40]</a> <a class="yt-timestamp" data-t="00:53:46">[00:53:46]</a>. This aligns with the historical pattern of [[monetary_regime_change_and_its_impact_on_commodities | monetary regime change and its impact on commodities]] <a class="yt-timestamp" data-t="00:36:06">[00:36:06]</a>.

@@ -1,0 +1,44 @@
+---
+title: Portfolio Diversification and Risk Management
+videoId: 9_8VMOB-gzI
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+[[Importance of diversification in portfolios | Diversification]] is a key concept in systematic investing, though its definition and application can vary among practitioners <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>. Some argue that [[portfolio_diversification_and_construction | broad diversification]] is the "secret sauce" of trend following <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>, while others believe that profitable results can be achieved without it <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>.
+
+## Defining Diversification in Trend Following
+
+For many systematic trend followers, [[diversification_in_investment_strategies | diversification]] involves maintaining a fixed portfolio of many markets, where a signal is always calculated, even if it indicates a flat position <a class="yt-timestamp" data-t="00:18:38">[00:18:38]</a>. This approach relies on a high level of [[diversification_and_portfolio_management | diversification]] and avoids excessive optimization in market selection <a class="yt-timestamp" data-t="00:18:54">[00:18:54]</a>.
+
+Contrastingly, a more selective approach, sometimes referred to as cross-sectional momentum trading, involves choosing a limited number of top-performing markets based on recent performance and continually rotating positions <a class="yt-timestamp" data-t="00:17:27">[00:17:27]</a>. While this can be profitable, it is considered a different form of systematic trading rather than broadly diversified trend following <a class="yt-timestamp" data-t="00:17:21">[00:17:21]</a>, <a class="yt-timestamp" data-t="00:19:18">[00:19:18]</a>. Trading only a few markets (e.g., three) is seen as highly susceptible to luck <a class="yt-timestamp" data-t="00:18:26">[00:18:26]</a>.
+
+### Key Aspects of Diversification:
+
+*   **Number of Markets:** While some individual investors may find success with a small number of markets, professional trend followers typically trade a broad array of assets, often 60 or more <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>.
+*   **Avoiding Esoteric Products:** It's generally advisable to stick to exchange-listed products with sufficient liquidity to avoid increased tail risk, counterparty risk, or regulatory risk <a class="yt-timestamp" data-t="00:19:43">[00:19:43]</a>.
+*   **[[diversification_and_risk_management_in_investment_portfolios | Risk Management]] and Position Sizing:**
+    *   **Percentage Risk Per Trade:** As the number of markets traded increases, the percentage of risk allocated per trade can be reduced <a class="yt-timestamp" data-t="00:48:43">[00:48:43]</a>. The intention of [[hedging_strategies_and_portfolio_diversification | diversification]] is to reduce trade risk as low as possible for each return stream in the portfolio <a class="yt-timestamp" data-t="00:49:08">[00:49:08]</a>.
+    *   **Portfolio Heat:** Building up many markets and systems increases "portfolio heat" – the theoretical maximum adverse risk if all positions moved to their stops simultaneously <a class="yt-timestamp" data-t="00:45:21">[00:45:21]</a>. This emphasizes the need to choose [[correlation_and_diversification_in_investment_portfolios | uncorrelated]] return streams <a class="yt-timestamp" data-t="00:46:23">[00:46:23]</a>.
+    *   **Overall Portfolio Risk:** A well-diversified trend following model might aim for an open risk-to-stop (potential loss if all positions are stopped out) of around 10-20% of equity <a class="yt-timestamp" data-t="00:47:50">[00:47:50]</a>. For example, a manager with 200 markets might risk only 0.15% per market <a class="yt-timestamp" data-t="00:50:22">[00:50:22]</a>.
+    *   **Conservative Approach:** It's a marathon, not a sprint <a class="yt-timestamp" data-t="00:48:10">[00:48:10]</a>. The most important thing is to be able to "fight another day," meaning avoiding losses that take too long to recover from <a class="yt-timestamp" data-t="00:48:25">[00:48:25]</a>.
+    *   **Starting Out:** Begin with the lowest possible leverage and maximize [[importance_of_alternative_investments_and_portfolio_diversification | diversification]] before considering increasing individual trade risk percentages <a class="yt-timestamp" data-t="00:49:36">[00:49:36]</a>.
+
+## Indices and the Power of Diversification
+
+Comparing different trend following indices highlights the benefits of [[diversification_and_risk_management_in_investment_portfolios | diversification]].
+
+*   **SG Trend Index:** Composed of the 10 largest trend following CTAs that primarily trade futures, are broadly diversified, and meet specific criteria (e.g., daily reporting, open to new investment) <a class="yt-timestamp" data-t="01:06:43">[01:06:43]</a>. It's an equally weighted index, rebalanced and reconstituted annually <a class="yt-timestamp" data-t="01:07:38">[01:07:38]</a>.
+*   **B Top 50 Index:** Looks at the largest investable trading advisor programs by assets under management, with criteria like a minimum three-year operating history <a class="yt-timestamp" data-t="01:08:32">[01:08:32]</a>. Despite its name, it currently only includes around 20 constituents <a class="yt-timestamp" data-t="01:09:03">[01:09:03]</a>. Some constituents may not strictly be trend followers <a class="yt-timestamp" data-t="01:09:30">[01:09:30]</a>.
+*   **TTU Trend Following Index:** An index created to specifically represent trend followers, irrespective of size <a class="yt-timestamp" data-t="01:10:12">[01:10:12]</a>.
+    *   **Inclusion Criteria:** Programs must be geographically diversified across asset classes, fully systematic, have at least a 15-year unbroken track record, adopt trend following as their dominant strategy, be currently investable, and report monthly <a class="yt-timestamp" data-t="01:10:55">[01:10:55]</a>. Data is sourced from the Nielsen Hedge database <a class="yt-timestamp" data-t="01:11:26">[01:11:26]</a>.
+    *   **Construction:** Equally weighted and rebalanced/reconstituted monthly <a class="yt-timestamp" data-t="01:11:38">[01:11:38]</a>. As of April 2022, it included 60 programs <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>.
+    *   **Performance:** The TTU Trend Following Index has historically outperformed both the B Top 50 and SG Trend indices in terms of compound annual growth rate and drawdown <a class="yt-timestamp" data-t="01:13:00">[01:13:00]</a>. For example, since 2000, it had an 18% drawdown and an 8.57% compound annual growth rate, compared to the S&P 500's ~50% drawdown and ~6.5% CAGR over the same period <a class="yt-timestamp" data-t="01:16:00">[01:16:00]</a>.
+
+The TTU Trend Following Index demonstrates that investing equally weighted into an entire index of diversified, long-track-record trend following programs can produce optimal risk-weighted returns <a class="yt-timestamp" data-t="01:13:55">[01:13:55]</a>. This highlights the immense power of [[diversification_and_risk_management_in_investment_portfolios | diversification]] through exposure to multiple programs, each with their own systematic methodologies, leading to massive diversification of systems <a class="yt-timestamp" data-t="01:15:23">[01:15:23]</a>. A validated long-term track record is considered the ultimate measure of robustness and risk management <a class="yt-timestamp" data-t="01:14:25">[01:14:25]</a>.
+
+## Drawdowns and Robustness
+
+It's crucial to manage expectations about drawdowns <a class="yt-timestamp" data-t="00:35:57">[00:35:57]</a>. As sample sizes increase (i.e., longer track records), drawdowns tend to build <a class="yt-timestamp" data-t="00:25:43">[00:25:43]</a>. A model's performance on unseen data (data not used in backtesting) provides a more realistic expectation of future drawdowns and volatility <a class="yt-timestamp" data-t="00:27:14">[00:27:14]</a>.
+
+A "scar" (a large drawdown) can be a sign that a manager or system has survived difficult times, indicating strength and robustness, provided the overall performance remains competitive <a class="yt-timestamp" data-t="00:29:28">[00:29:28]</a>, <a class="yt-timestamp" data-t="00:29:43">[00:29:43]</a>. Over-optimizing a system to show low drawdowns in backtests can lead to unrealistic expectations for live trading <a class="yt-timestamp" data-t="00:26:40">[00:26:40]</a>, <a class="yt-timestamp" data-t="00:53:38">[00:53:38]</a>. The principle of "past performance does not necessarily reflect future results" is particularly relevant here <a class="yt-timestamp" data-t="00:31:33">[00:31:33]</a>.

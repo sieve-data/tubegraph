@@ -1,0 +1,54 @@
+---
+title: Trend following and momentum strategies
+videoId: grIHdA5pMhE
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+Trend following and momentum strategies are systematic approaches to investing that the guest, Andreas Clenow, discusses in his books and during this conversation. He emphasizes the importance of simplicity in these strategies and distinguishes between their application in futures and stock markets.
+
+## The Importance of Simplicity
+Adding complexity to a trading model is often not worth it unless it significantly increases returns, as it makes execution more difficult and the model less likely to work, often due to over-optimization <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. Using ten indicators that must work together can lead to models that only appear successful because they are perfectly fitted to recent past data <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+
+Clenow's first book, *Following the Trend*, aimed to present a very simple [[trend following trading strategies | trading model]] to describe the general approach of the [[trend following investment strategies | trend following investment strategies]] industry <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. His biggest regret was not making it even simpler <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. Surprisingly, his book became very successful, landing him in the top 5% of finance book authors <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+
+Clenow asserts that simpler systems are generally better, defining "better" as producing higher risk-adjusted returns <a class="yt-timestamp" data-t="00:22:51">[00:22:51]</a>. He believes the misconception of focusing on tiny details stems from the technical analysis school, where people try to optimize hundreds of indicators <a class="yt-timestamp" data-t="00:21:28">[00:21:28]</a>. Institutional hedge fund managers typically do not optimize ten indicators to find perfect buying signals <a class="yt-timestamp" data-t="00:21:48">[00:21:48]</a>. Instead, they identify a market phenomenon and find a good way to trade it <a class="yt-timestamp" data-t="00:22:01">[00:22:01]</a>.
+
+### An Example of Extreme Simplicity: The 12-Month Momentum Rule
+A suggestion to Clenow after writing his first book was to try a simple 12-month momentum rule: "What was the price yesterday? What was it a year ago? If yesterday's price is higher than a year ago, go long; otherwise, don't" <a class="yt-timestamp" data-t="00:24:32">[00:24:32]</a>. This rule, when applied to a diversified basket of futures, could yield even better results than the model presented in his book <a class="yt-timestamp" data-t="00:26:04">[00:26:04]</a>.
+
+Key assumptions for this simple model to work are:
+*   **Broad Universe:** It must be applied to a broad universe, such as 50 to 100 different futures markets <a class="yt-timestamp" data-t="00:26:25">[00:26:25]</a>.
+*   **Risk Allocation:** Some form of risk allocation or position sizing method (e.g., volatility parity model) is needed <a class="yt-timestamp" data-t="00:26:37">[00:26:37]</a>.
+
+A downside of this model is that it keeps positions in all markets at all times, leading to a very high level of equity utilization <a class="yt-timestamp" data-t="00:26:52">[00:26:52]</a>. While not traded by professionals, this 12-month momentum rule serves as an excellent learning and benchmark tool <a class="yt-timestamp" data-t="00:27:15">[00:27:15]</a>. If a developed strategy cannot beat this simple model, it likely has problems <a class="yt-timestamp" data-t="00:27:33">[00:27:33]</a>.
+
+## Trend Following on Futures
+[[Trendfollowing Strategies | Trend following strategies]] on futures markets are considered simple in their rules, making them easy to simulate <a class="yt-timestamp" data-t="00:29:55">[00:29:55]</a>. However, implementation in reality, especially for larger mandates or funds, involves complexities like combining multiple trading models and managing risk <a class="yt-timestamp" data-t="00:30:10">[00:30:10]</a>.
+
+The effectiveness of [[trend following as a trading strategy | trend following as a trading strategy]] on futures comes from trading many different instruments <a class="yt-timestamp" data-t="00:38:12">[00:38:12]</a>. Even if commodity futures fail for two years, profits might be generated from currency or bond futures <a class="yt-timestamp" data-t="00:38:17">[00:38:17]</a>. The rationale is that most markets will fail most of the time, but there will always be something producing enough profits to compensate for losses <a class="yt-timestamp" data-t="00:38:31">[00:38:31]</a>.
+
+### The Human Element in Trend Following
+While rules guide [[trend following strategies | trend following strategies]], blind adherence can be dangerous <a class="yt-timestamp" data-t="00:33:33">[00:33:33]</a>. Unusual market events, like the Swiss National Bank's floor removal, can cause extreme moves that models might not anticipate <a class="yt-timestamp" data-t="00:33:45">[00:33:45]</a>. Critical thinking is required; for instance, trading both Swiss and Euro futures could lead to highly correlated and risky positions <a class="yt-timestamp" data-t="00:34:30">[00:34:30]</a>. Extremely low volatility or asymmetrical risk markets (like short-term European interest rates) require human intervention, as standard volatility parity models might suggest "insane" position sizes <a class="yt-timestamp" data-t="00:35:03">[00:35:03]</a>. A minimum level of volatility should always be applied, regardless of actual market conditions <a class="yt-timestamp" data-t="00:35:44">[00:35:44]</a>.
+
+## Momentum Trading on Stocks
+Clenow makes a clear semantic distinction between [[trend following strategies | trend following]] and momentum when discussing stocks <a class="yt-timestamp" data-t="00:37:35">[00:37:35]</a>. While thousands of stocks are available, they exhibit high internal correlation, meaning they tend to gain and lose at the same time <a class="yt-timestamp" data-t="00:38:44">[00:38:44]</a>. When the market falls, even great stocks take a big beating simultaneously, rendering risk models ineffective <a class="yt-timestamp" data-t="00:39:08">[00:39:08]</a>.
+
+Key differences and approaches for stock momentum trading:
+*   **Ranking Method:** Unlike futures where all available trends can be taken, a stock bull market will generate buy signals for almost every stock <a class="yt-timestamp" data-t="00:39:32">[00:39:32]</a>. Therefore, a ranking method is essential to determine which stocks to buy <a class="yt-timestamp" data-t="00:39:37">[00:39:37]</a>.
+*   **Dynamic Exits:** Stocks that simply go sideways or slightly up waste capital while other stocks might be skyrocketing <a class="yt-timestamp" data-t="00:39:56">[00:39:56]</a>. This requires a different trading approach where positions are closed out when another stock performs better <a class="yt-timestamp" data-t="00:40:18">[00:40:18]</a>.
+*   **Overall Market Filter:** The single most important rule is not to buy stocks in a bear market <a class="yt-timestamp" data-t="00:40:26">[00:40:26]</a>. Rules should incorporate a filter that considers the overall stock market's direction, as opportunities are scarce if the general index is falling <a class="yt-timestamp" data-t="00:40:30">[00:40:30]</a>.
+*   **Avoid Shorting Stocks:** Shorting individual stocks is generally a "fool's errand" for most people <a class="yt-timestamp" data-t="00:41:06">[00:41:06]</a>. While professionals can make money, stocks in a bear market tend to behave violently with sudden large moves against short positions (e.g., takeover announcements), leading to significant losses <a class="yt-timestamp" data-t="00:41:28">[00:41:28]</a>. Shorting in general is much more difficult than buying, especially with a longer-term time horizon <a class="yt-timestamp" data-t="00:42:04">[00:42:04]</a>. However, shorting an index could make sense if one fully understands the risks and has a robust monitoring model <a class="yt-timestamp" data-t="00:43:07">[00:43:07]</a>.
+
+## Combining Strategies: Counter Trend Models
+Paradoxically, counter trend models can be beneficial in a portfolio <a class="yt-timestamp" data-t="00:58:24">[00:58:24]</a>. Clenow prefers counter trend models that trade *in the direction of a dominant trend* but enter after a certain type of pullback in that trend <a class="yt-timestamp" data-t="00:59:20">[00:59:20]</a>. This idea stems from the observation that many [[Trend following strategies | trend following models]] tend to stop out too early <a class="yt-timestamp" data-t="00:59:43">[00:59:43]</a>.
+
+An example involves measuring how many ATR (Average True Range) units a market is from its recent extreme with the trend <a class="yt-timestamp" data-t="01:00:24">[01:00:24]</a>. If a typical trend following model stops out after three ATR units from the trend's extreme, a counter trend model could buy (or short) when it reaches that point, essentially taking the opposite side of those early stops <a class="yt-timestamp" data-t="01:00:30">[01:00:30]</a>. This logic, while not a complete trading strategy on its own, can be effective <a class="yt-timestamp" data-t="01:01:07">[01:01:07]</a>.
+
+## General Advice for Investors
+For individuals considering managing their own money using systematic strategies or books, Clenow advises:
+*   **Realistic Expectations:** Be wary of materials promising "imminent success" or "triple-digit returns" as these are unrealistic and indicative of scams <a class="yt-timestamp" data-t="00:47:36">[00:47:36]</a>. A compound return of 10-15% per year is considered very good <a class="yt-timestamp" data-t="00:48:52">[00:48:52]</a>. Aiming for 50-100% returns will most likely lead to losing most of your money <a class="yt-timestamp" data-t="00:49:05">[00:49:05]</a>.
+*   **Manage Risk:** The main mistake retail traders make is taking on excessive risks that would get professionals fired <a class="yt-timestamp" data-t="00:48:19">[00:48:19]</a>.
+
+## Why Andreas Clenow Shares His "Secrets"
+Clenow writes books and shares his strategies because he enjoys it and has the freedom to do so <a class="yt-timestamp" data-t="00:44:51">[00:44:51]</a>. He believes the "wrong people" (i.e., institutional managers with quant teams) already know these concepts, so he's not revealing proprietary secrets <a class="yt-timestamp" data-t="00:45:08">[00:45:08]</a>. His goal is to explain complex ideas in a new and accessible way <a class="yt-timestamp" data-t="00:45:47">[00:45:47]</a>. Furthermore, being well-known through his books has proven beneficial for business development, attracting new investments and clients <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a>.

@@ -1,0 +1,49 @@
+---
+title: Challenges and opportunities for trend following in uncertain markets
+videoId: yh664EDEDg4
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+The market has experienced a substantial regime shift, especially at the beginning of the year, which led to a "cataclysmic confirmation of those Trends" <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This shift is seen as pivotal for the market and [[Trend following as a trading strategy | trend following]] <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+
+## Debunking Common Criticisms of Trend Following
+
+Media and market participants often blame CTAs (Commodity Trading Advisors) for magnifying negative price action, especially during periods of [[Volatility and trend following in markets | volatility]] in stocks and bonds <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. However, this blame is often misplaced:
+*   **Price Takers, Not Creators**: [[Trend following as a trading strategy | Trend following]] is "not anticipatory" and acts as a "price taker" <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a>. It deploys exposure only after things move and confirm a direction, meaning it "cannot create a downturn" <a class="yt-timestamp" data-t="00:08:25">[00:08:25]</a>.
+*   **Not Unique to Trend Following**: Mechanical actions like stop-loss rules or [[Risk Management in Trend Following | volatility]] targeting in risk parity funds also lead to selling when markets fall, which is not exclusive to [[Trend following as a trading strategy | trend following]] <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
+*   **Limited Market Impact**: Research indicates that the equity exposure of these investments represents a "very small portion" of the overall market <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>. When a market is in a down move with a [[Volatility and trend following in markets | volatility]] spike, [[Trend following as a trading strategy | trend followers]] actually reduce their gross exposure, acting as a "support to the market" rather than intensifying the down move <a class="yt-timestamp" data-t="00:11:23">[00:11:23]</a>.
+*   **Crowding Concerns**: While crowding is a concern, particularly in less liquid futures markets <a class="yt-timestamp" data-t="00:12:29">[00:12:29]</a>, analysis suggests that the [[Trend following as a trading strategy | CTA industry]] does not appear to be reaching capacity levels that would substantially consume available liquidity <a class="yt-timestamp" data-t="00:13:32">[00:13:32]</a>.
+*   **Lack of Understanding**: There is often a lack of understanding by journalists regarding how [[Trend following as a trading strategy | trend following]] operates. Managers typically enter positions long before major trends become public knowledge <a class="yt-timestamp" data-t="00:20:04">[00:20:04]</a>.
+
+## Capacity Constraints in Trend Following
+
+Concerns about capacity constraints in [[Trend following as a trading strategy | trend following]] have been a recurring topic, especially after periods of significant growth in assets under management (AUM) <a class="yt-timestamp" data-t="00:23:03">[00:23:03]</a>.
+*   **Academic Analysis**: A study that analyzed CTA database flows and returns over 20-30 years found "no statistical relationship" between flows and subsequent performance, suggesting no significant impact on capacity <a class="yt-timestamp" data-t="00:25:27">[00:25:27]</a>.
+*   **Hypothetical Model**: A hypothetical exercise assuming all AUM was invested in a single, formulaic [[Trend following as a trading strategy | trend following]] strategy across 50-60 markets revealed that it rarely crossed a significant proportion of open interest, indicating "too little to none" capacity issues <a class="yt-timestamp" data-t="00:28:12">[00:28:12]</a>. However, this model assumes equal weighting across markets, which is unrealistic as managers adapt allocations based on market liquidity <a class="yt-timestamp" data-t="00:29:11">[00:29:11]</a>.
+*   **Current AUM**: The official CTA AUM, tracked by BarclayHedge, stands at around $375 billion <a class="yt-timestamp" data-t="00:31:23">[00:31:23]</a>. Even considering broader systematic strategies, the total [[Trend following as a trading strategy | trend following]] capacity is estimated to be around $400 billion <a class="yt-timestamp" data-t="00:32:48">[00:32:48]</a>. This is a small fraction (around 10%) of the total hedge fund industry (approx. $3.4 trillion) <a class="yt-timestamp" data-t="00:32:57">[00:32:57]</a>.
+*   **No Approaching Problematic Levels**: Current analysis does not suggest that the industry is "anyway approaching any any any problematic levels" in terms of capacity <a class="yt-timestamp" data-t="00:33:28">[00:33:28]</a>. There will always be constraints in smaller markets, but larger markets provide ample liquidity <a class="yt-timestamp" data-t="00:34:55">[00:34:55]</a>.
+
+## Alternative Markets and Diversification
+
+The choice of market universe for [[Trend following in Various Markets | trend following strategies]] is a key debate among investors and managers <a class="yt-timestamp" data-t="00:38:13">[00:38:13]</a>.
+*   **Prevailing Principles**: Key considerations for including alternative markets (e.g., more exotic commodities, potentially crypto) are diversification, liquidity, and the probability of observing trends <a class="yt-timestamp" data-t="00:39:06">[00:39:06]</a>.
+*   **Trendiness and Efficiency**: More alternative markets may exhibit slower news transmission and therefore provide a stronger case for "trendiness" due to less market efficiency <a class="yt-timestamp" data-t="00:41:15">[00:41:15]</a>.
+*   **Challenges**: The main [[Challenges and strategies in trend following | challenge]] is whether the liquidity in these markets is sufficient to make their trends "meaningful for the overall portfolio" <a class="yt-timestamp" data-t="00:41:52">[00:41:52]</a>.
+*   **Practitioner's View**: While diversification is valued, there is no consistent statistical evidence that broader market universes (300-400 markets) perform better in the long run compared to classical 60-market universes <a class="yt-timestamp" data-t="00:42:11">[00:42:11]</a>. Many of these markets have short data histories, making statistically significant conclusions about trendiness difficult <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a>.
+
+## The Current Regime Shift: From Certainty to Uncertainty
+
+The period from 2010 to 2020 was challenging for [[Trend following as a trading strategy | trend following]] due to fundamental certainty provided by the "Fed put" and quantitative easing <a class="yt-timestamp" data-t="00:57:46">[00:57:46]</a>.
+*   **The "Fed Put" Era**: In this environment, central bank actions or anticipation of action would push prices back to a perceived consensus target, leading to "wiggling around" rather than sustained trends <a class="yt-timestamp" data-t="00:59:11">[00:59:11]</a>. Price deviations were more likely to revert <a class="yt-timestamp" data-t="01:03:09">[01:03:09]</a>.
+*   **Current Fundamental Uncertainty**: Today, there is a "complete shift to fundamental uncertainty" <a class="yt-timestamp" data-t="01:00:28">[01:00:28]</a>. There is no clear consensus on issues like inflation risk or economic landing scenarios <a class="yt-timestamp" data-t="01:00:37">[01:00:37]</a>. This uncertainty creates price moves that "contain information" and are more likely to be "sustained" and "prolonged" <a class="yt-timestamp" data-t="01:00:49">[01:00:49]</a>.
+*   **The "Transitory" Debate**: The prolonged debate over whether inflation was "transitory" in 2021 reflected this disagreement <a class="yt-timestamp" data-t="01:03:42">[01:03:42]</a>. Once this debate was resolved at the end of 2021, leading to a "cataclysmic confirmation of those Trends" in early 2022 <a class="yt-timestamp" data-t="01:05:20">[01:05:20]</a>, it fueled the very environment where [[Trend following as a trading strategy | trend following]] thrives <a class="yt-timestamp" data-t="01:05:35">[01:05:35]</a>.
+*   **Challenges for Traditional Portfolios**: In this new regime, traditional multi-asset diversified portfolios like the 60/40 have experienced significant losses (e.g., around 20% down this year) <a class="yt-timestamp" data-t="00:56:07">[00:56:07]</a>.
+
+## The Essential Role of Trend Following
+
+The current environment necessitates "more active more Dynamic allocation schemes" <a class="yt-timestamp" data-t="01:07:07">[01:07:07]</a>.
+*   **No Longer Optional**: [[Trend following as a trading strategy | Trend following]] is no longer an "optional" or merely "diversifying" component, but is becoming "essential" for portfolios <a class="yt-timestamp" data-t="01:09:42">[01:09:42]</a>.
+*   **Strategic Incorporation**: The focus should shift from "is it too late?" to "how we strategically incorporate it into a portfolio" <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>.
+*   **Benefits**: [[Challenges and strategies in trend following | Trend following]] provides "short-term risk management capacities and long-term capital appreciation" <a class="yt-timestamp" data-t="01:11:06">[01:11:06]</a>.
+*   **Shifting Benchmarks**: The current market period is unique, suggesting that the benchmarks for balanced allocation, traditionally centered on equities and bonds, may need to shift <a class="yt-timestamp" data-t="01:10:19">[01:10:19]</a>. Open-mindedness towards more dynamic and active allocation schemes is crucial <a class="yt-timestamp" data-t="01:11:46">[01:11:46]</a>.

@@ -1,0 +1,43 @@
+---
+title: Challenges of managing inflation through monetary policy
+videoId: ZpdODlZmO_k
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+The effectiveness of central banks, particularly the Federal Reserve, in managing [[inflation_and_economic_policies | inflation]] through monetary policy is a subject of ongoing debate and skepticism <a class="yt-timestamp" data-t="08:49:00">[08:49:00]</a>. Critics argue that traditional monetary tools have limited impact on the real economy and may contribute to unintended consequences like inequality and financial fragility <a class="yt-timestamp" data-t="17:42:00">[17:42:00]</a>.
+
+## Limitations of Monetary Policy Tools
+
+Monetary policy, primarily exercised through interest rates, quantitative easing (QE), repo trades, and FX swaps <a class="yt-timestamp" data-t="05:05:00">[05:05:00]</a>, often operates more as a supply-side policy <a class="yt-timestamp" data-t="16:33:00">[16:33:00]</a>. Lowering rates predominantly benefits corporations, allowing them to tap bond markets cheaply, but this money often goes to stock buybacks or executive pay rather than increased hiring or investment in production <a class="yt-timestamp" data-t="16:40:00">[16:40:00]</a>. This leads to asset [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] rather than broad economic growth <a class="yt-timestamp" data-t="17:08:00">[17:08:00]</a>.
+
+The most immediate and effective channel for Fed policy seems to be the "wealth effect" <a class="yt-timestamp" data-t="17:49:00">[17:49:00]</a>. By raising rates and reducing wealth through asset price declines (e.g., in fixed income and equities), the Fed aims to decrease overall demand <a class="yt-timestamp" data-t="20:05:00">[20:05:00]</a>. However, this impact is unevenly distributed because asset prices are not equally held across the economy <a class="yt-timestamp" data-t="20:11:00">[20:11:00]</a>. The traditional mechanisms by which monetary policy filters through the banking system are complex and take a long time to materialize <a class="yt-timestamp" data-t="18:05:00">[18:05:00]</a>. For instance, higher policy rates do not immediately translate to higher deposit rates for most people, nor do they instantly affect corporate borrowing, much of which is at fixed rates <a class="yt-timestamp" data-t="18:46:00">[18:46:00]</a>.
+
+Concerns exist regarding the reliability of market-based measures like TIPS for gauging [[inflation_and_economic_policies | inflation]] expectations, as they can be distorted by mechanical factors such as Fed's QE operations and passive investment flows <a class="yt-timestamp" data-t="08:53:00">[08:53:00]</a>.
+
+## External Factors and Policy Divergence
+
+Monetary policy's influence on [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] and growth is limited by other significant drivers:
+
+*   **[[role_of_fiscal_policy_in_inflation | Fiscal Policy]]**: This is seen as a bigger driver of [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] than monetary policy <a class="yt-timestamp" data-t="23:36:00">[23:36:00]</a>. When a sovereign government funds spending by printing debt (e.g., treasuries), it is essentially printing money <a class="yt-timestamp" data-t="24:18:00">[24:18:00]</a>. Unlike private actors, public sector entities like Congress are not sensitive to interest rates <a class="yt-timestamp" data-t="25:31:00">[25:31:00]</a>. This can create a "doom loop" where the [[central_banks_and_monetary_policy | Fed]] raises rates, increasing the government's borrowing costs, which in turn leads to more debt issuance and potentially more money printing <a class="yt-timestamp" data-t="29:10:00">[29:10:00]</a>.
+*   **Globalization and Deglobalization**: Decades of globalization led to synchronized economic conditions and deflationary pressures due to increased labor supply and corporate cost reduction efforts <a class="yt-timestamp" data-t="20:54:00">[20:54:00]</a>. However, a reversal of globalization is now leading to fragmentation, divergent economic conditions, and potentially higher prices as commodities and supply chains no longer flow as freely <a class="yt-timestamp" data-t="12:43:00">[12:43:00]</a>.
+*   **Demographics**: An aging global population is reducing the supply of labor, which is inherently [[inflation_and_its_drivers_in_the_current_economic_climate | inflationary]] as the price of labor increases <a class="yt-timestamp" data-t="26:30:00">[26:30:00]</a>.
+*   **Policy Divergence**: Globally, while many [[central_banks_and_monetary_policy | central banks]] are moving towards tightening, some, like the Bank of Japan, are not, leading to significant fissures in FX markets <a class="yt-timestamp" data-t="13:34:00">[13:34:00]</a>.
+
+## Critiques of Macroeconomics and Accountability
+
+There is a critique that macroeconomics as a field may not be equipped to understand complex economic phenomena like [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] <a class="yt-timestamp" data-t="33:30:00">[33:30:00]</a>. The argument suggests that applying physics-like tools to a non-physical science results in nonsensical answers, as there are no unchanging truths in economic systems <a class="yt-timestamp" data-t="33:46:00">[33:46:00]</a>.
+
+Furthermore, the bureaucratic nature of institutions like the [[role_of_central_banks_and_monetary_policy | Federal Reserve]] means there is often no accountability for policy failures <a class="yt-timestamp" data-t="34:17:00">[34:17:00]</a>. Decision-makers are insulated from consequences, which limits the incentive for real policy change even when mistakes are made <a class="yt-timestamp" data-t="38:39:00">[38:39:00]</a>. The creation of [[central_banks_and_monetary_policy | central banks]] to smooth the business cycle has, in some views, removed necessary minor crises that allow the system to self-correct, potentially leading to larger, more catastrophic problems down the line <a class="yt-timestamp" data-t="36:10:00">[36:10:00]</a>.
+
+## Financial System Vulnerabilities
+
+The financial system, designed for efficiency rather than resilience, faces significant risks from current policy actions and global fragmentation <a class="yt-timestamp" data-t="01:07:50">[01:07:50]</a>. The large losses in fixed income markets, alongside falling equity prices, highlight the unprecedented stress <a class="yt-timestamp" data-t="39:27:00">[39:27:00]</a>. While bailouts for institutions like pension funds are expected <a class="yt-timestamp" data-t="40:59:00">[40:59:00]</a>, these actions typically involve more money printing, leading to more [[inflation_and_its_drivers_in_the_current_economic_climate | inflationary pressures]] <a class="yt-timestamp" data-t="41:22:00">[41:22:00]</a>.
+
+The expropriation of Russian assets raised questions about the safety of traditionally "risk-free" assets like U.S. Treasuries, particularly for foreign sovereigns <a class="yt-timestamp" data-t="49:54:00">[49:54:00]</a>. This could lead to a decreased global demand for Treasuries and higher interest rates <a class="yt-timestamp" data-t="51:18:00">[51:18:00]</a>. While the [[central_banks_and_monetary_policy | Fed]] can counter this by buying more treasuries or intervening in FX markets, such actions inject more liquidity into the system, potentially exacerbating [[inflationary_pressures_and_macroeconomic_policy | inflationary pressures]] <a class="yt-timestamp" data-t="51:53:00">[51:53:00]</a>. The core challenge for the [[central_banks_and_monetary_policy | Fed]] might paradoxically lie in its primary mandate (managing [[inflation_and_economic_policies | inflation]]) rather than its secondary mandates like asset prices <a class="yt-timestamp" data-t="52:06:00">[52:06:00]</a>.
+
+The treasury market itself, due to historically high issuance and potentially insufficient underlying plumbing (financing and balance sheet capacity), faces risks of discontinuity <a class="yt-timestamp" data-t="01:08:51">[01:08:51]</a>.
+
+## Societal and Political Challenges
+
+Beyond economics, increasing domestic and international fragmentation, particularly in the U.S., poses a significant risk <a class="yt-timestamp" data-t="01:05:12">[01:05:12]</a>. A world where people do not agree on basic values can lead to tremendous social disorder, undermining basic functionalities taken for granted <a class="yt-timestamp" data-t="01:05:32">[01:05:32]</a>. This political disorder and the lack of effective feedback mechanisms in society can exacerbate existing fragilities <a class="yt-timestamp" data-t="01:06:21">[01:06:21]</a>.

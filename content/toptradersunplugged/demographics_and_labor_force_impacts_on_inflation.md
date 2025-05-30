@@ -1,0 +1,34 @@
+---
+title: Demographics and labor force impacts on inflation
+videoId: lOavPm9OCts
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+The discussion around [[factors_influencing_inflation_and_economic_forecasts | inflation]] involves understanding both cyclical and [[inflationary_pressures_and_macroeconomic_policy | structural themes]], with demographics and labor force dynamics playing a significant role in the long-term outlook.
+
+## Generational Shifts and Policy Views
+A potential risk exists where future decision-makers from the millennial generation might approach [[inflation_and_economic_policies | inflation]] differently than current policymakers <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. It is suggested that when millennials become the primary decision-makers, they may implement policies, such as taxing "boomers," indicating a potential shift in economic strategies <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. This highlights a generational cliff that could influence future policy, though it is believed that current political commonalities will persist for the next decade <a class="yt-timestamp" data-t="00:47:34">[00:47:34]</a>.
+
+## Demographic Projections and their Inflationary/Deflationary Impact
+### European Outlook
+Looking at [[demographic_changes_and_their_impact | demographic projections]] from the World Bank and United Nations for Europe, the outlook for labor force potential growth is described as "horrible" <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>. It is even suggested that Europe might not see labor force growth in the next 5 to 10 years <a class="yt-timestamp" data-t="00:30:45">[00:30:45]</a>. If this translates to structural growth, projections could be extremely low, possibly around zero in 15-20 years, similar to Japan's situation <a class="yt-timestamp" data-t="00:31:06">[00:31:06]</a>. In isolation, these [[demographic_changes_and_their_economic_implications | demographic trends]] in Europe and China do not suggest an inflationary breakout <a class="yt-timestamp" data-t="00:31:17">[00:31:17]</a>.
+
+### The Dependency Ratio and Savings
+The argument that "workers are deflationary and dependents are inflationary" is considered <a class="yt-timestamp" data-t="00:29:43">[00:29:43]</a>. With fewer workers, there might be a return of strong unions and higher minimum wages due to increased demand for labor <a class="yt-timestamp" data-t="00:32:11">[00:32:11]</a>. Additionally, the shift towards a larger elderly dependent population could lead to mandatory government costs for care <a class="yt-timestamp" data-t="00:32:26">[00:32:26]</a>.
+
+However, a counter-argument suggests that as the population ages, the average worker might save more to ensure financial security in old age, as the risk of government not fully caring for the elderly increases with a rising dependency ratio <a class="yt-timestamp" data-t="00:33:34">[00:33:34]</a>. Increased savings would lead to lower, not higher, interest rates <a class="yt-timestamp" data-t="00:34:03">[00:34:03]</a>.
+
+### Labor Bargaining Power and Technology
+Historically, the 1970s, characterized by strong unions and a labor-intensive industrial era, is often referenced for inflation <a class="yt-timestamp" data-t="00:35:40">[00:35:40]</a>. However, today's economy is highly technological, moving towards more robotization <a class="yt-timestamp" data-t="00:36:12">[00:36:12]</a>. A US company today needs only 10% of the employees it did in the 1970s to generate the same sales, and this trend is expected to continue <a class="yt-timestamp" data-t="00:36:31">[00:36:31]</a>. This technological shift implies that while the labor force may shrink, the demand for labor might also decrease over time, limiting the bargaining power of labor and inflationary pressures <a class="yt-timestamp" data-t="00:37:17">[00:37:17]</a>.
+
+### Productivity and Real Growth
+The structural real GDP growth is determined by the growth in labor supply and the productivity of capital and labor <a class="yt-timestamp" data-t="00:40:08">[00:40:08]</a>. With projected negative labor supply growth in Europe over the next decade, there's a clear handicap <a class="yt-timestamp" data-t="00:40:22">[00:40:22]</a>. While technological progress might lead to productivity gains, it's uncertain if they will be enough to offset the impact of a shrinking labor force <a class="yt-timestamp" data-t="00:40:54">[00:40:54]</a>. Overall, real growth is expected to remain relatively poor, potentially trending slightly negative structurally over the next 20-30 years <a class="yt-timestamp" data-t="00:41:27">[00:41:27]</a>.
+
+## Technology, Innovation, and Deflation
+The belief that technology can solve all problems and lead to a quicker pace of technological advancement is a projection <a class="yt-timestamp" data-t="00:45:17">[00:45:17]</a>. While technological advancement is secular and inherently deflationary <a class="yt-timestamp" data-t="00:45:02">[00:45:02]</a>, its speed can slow when the "lifeblood of advancement" (money, access to resources) decreases, which often happens during periods of populism <a class="yt-timestamp" data-t="00:45:56">[00:45:56]</a>. This suggests that the current assumption of continuous rapid technological advancement offsetting [[inflationary_pressures_and_macroeconomic_policy | inflationary pressures]] might be too optimistic <a class="yt-timestamp" data-t="00:46:12">[00:46:12]</a>.
+
+## Populism and Wealth Reallocation
+[[Demographic changes and their economic implications | Populism]], partly driven by massive inequality resulting from years of monetary policy, has led to fiscal policy interventions like direct transfers <a class="yt-timestamp" data-t="00:16:27">[00:16:27]</a>. This money, going directly to households, has a high velocity and contributed to the current [[inflations_impact_on_markets | inflationary impulse]] <a class="yt-timestamp" data-t="00:17:06">[00:17:06]</a>. While governments are reactive to situations, they are currently draining resources to curb inflation <a class="yt-timestamp" data-t="00:24:30">[00:24:30]</a>.
+
+However, the political climate suggests that governments will continue to be active in addressing concerns, even if it means implementing policies like gas tax holidays or education credits that may exacerbate [[inflation_trends_and_federal_reserve_policies | inflation secularly]] <a class="yt-timestamp" data-t="00:28:13">[00:28:13]</a>. The idea of taxing the "boomers" (wealth tax) to reallocate resources to younger generations or more productive outlets could enhance structural growth and revive inflationary pressures, but this is viewed as a long-term shift, likely minimum 10 years away <a class="yt-timestamp" data-t="00:51:01">[00:51:01]</a>. The younger generation's increasing political power suggests this rebalance could happen sooner <a class="yt-timestamp" data-t="00:52:47">[00:52:47]</a>.

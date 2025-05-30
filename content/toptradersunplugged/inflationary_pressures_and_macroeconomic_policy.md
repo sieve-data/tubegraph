@@ -1,0 +1,70 @@
+---
+title: Inflationary pressures and macroeconomic policy
+videoId: lOavPm9OCts
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+The current global economic landscape is characterized by [[inflation_and_its_drivers_in_the_current_economic_climate | significant inflationary pressures]] and evolving macroeconomic policies. Experts discuss the cyclical and structural factors driving [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]], the effectiveness of monetary versus fiscal interventions, and the implications of central bank divergence.
+
+## Current Macroeconomic Outlook
+
+Alfonso Picaciello identifies the current environment as one of tighter financial conditions and slower economic growth, a "very toxic combination for risk assets" <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>. This assessment stems from a "Global Credit Impulse Index" which has been on a descending path for several months, indicating that governments have ceased handing out fiscal stimulus since Q1 2021 and banks are not lending aggressively apart from mortgages <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>. As a result, the private sector's spendable money is not increasing as quickly as before, leading to expected drops in earnings, GDP growth, and consumer confidence <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a>. Central banks are also tightening monetary conditions, pushing risk-free real interest rates above equilibrium levels, which encourages a more defensive investment stance <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>.
+
+Andreas Steno Larsen believes Europe is already in a recession, with eurozone core countries likely to remain so for several more quarters, Germany being a clear example <a class="yt-timestamp" data-t="00:10:58">[00:10:58]</a>. He is "extremely puzzled" by the consensus that central banks can continue pushing their tightening rhetoric to bring [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] down, as he expects [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] to naturally decrease into the next year due to past central bank rhetoric <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a>. He suggests that long bond yields have peaked due to a slowing growth cycle and [[inflation_and_its_drivers_in_the_current_economic_climate | slowing inflation cycle]] <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>, despite German [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] reaching a six-decade high <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>.
+
+## Monetary vs. Fiscal Policy and [[inflation_and_economic_policies | Inflation]]
+
+The discussion highlights a key distinction between the inflationary impacts of monetary and [[role_of_fiscal_policy_in_inflation | fiscal policy]].
+
+### Quantitative Easing (QE) and its Deflationary Nature
+Andreas Steno Larsen and Alfonso Picaciello concur that Quantitative Easing (QE) is, to a large extent, deflationary <a class="yt-timestamp" data-t="00:18:32">[00:18:32]</a> <a class="yt-timestamp" data-t="00:18:41">[00:18:41]</a>.
+*   QE creates bank reserves, which remain largely stuck in the interbank system <a class="yt-timestamp" data-t="00:18:45">[00:18:45]</a> <a class="yt-timestamp" data-t="00:21:05">[00:21:05]</a>.
+*   While M2 (broad money supply) may increase, this primarily reflects bank deposits held by financial institutions like pension funds and asset managers, which do not directly translate into "spendable money" in the real economy <a class="yt-timestamp" data-t="00:21:16">[00:21:16]</a>.
+*   The money created via QE has "no velocity at all" <a class="yt-timestamp" data-t="00:19:02">[00:19:02]</a>, thus leading to a lack of [[inflation_and_economic_policies | inflation]] <a class="yt-timestamp" data-t="00:19:20">[00:19:20]</a>. This has been "empirically tested for more than a decade" <a class="yt-timestamp" data-t="00:19:26">[00:19:26]</a>.
+
+### Direct Fiscal Transfers and their Inflationary Impact
+In contrast, direct fiscal transfers from governments are seen as a key driver of current [[inflation_and_its_drivers_in_the_current_economic_climate | inflationary pressures]] <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>.
+*   Direct transfers, like those used by the Trump and Biden administrations in the US, directly increase the "spendable bank deposits" of individuals <a class="yt-timestamp" data-t="00:21:51">[00:21:51]</a>.
+*   When these transfers occurred during lockdowns, they inadvertently forced people to buy physical goods instead of services, exacerbating [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] due to already stressed supply chains <a class="yt-timestamp" data-t="00:12:58">[00:12:58]</a>.
+*   The "velocity of one" for this money means it goes directly into consumer pockets, leading to inflationary impulses <a class="yt-timestamp" data-t="00:17:01">[00:17:01]</a>.
+*   Alfonso notes that the US government, not the Federal Reserve, printed too much money <a class="yt-timestamp" data-t="00:23:59">[00:23:59]</a>.
+
+The discussion highlights the reactive nature of policymakers; they stepped in strongly with fiscal levers during a crisis (like COVID-19) to ensure the system stayed afloat, but are now scaling back given the pickup in [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] <a class="yt-timestamp" data-t="00:24:40">[00:24:40]</a>.
+
+## Long-Term Drivers of [[inflation_and_its_drivers_in_the_current_economic_climate | Inflation]]
+
+### Demographics
+The demographic outlook, particularly for Europe and China, shows a grim picture with declining labor force growth, potentially reaching zero in 5-10 years for Europe <a class="yt-timestamp" data-t="00:30:31">[00:30:31]</a>.
+*   **Deflationary Argument:** Andreas believes that an aging population could lead to increased savings rates as individuals prepare for a future with higher dependency ratios and potentially less government support for the elderly <a class="yt-timestamp" data-t="00:33:13">[00:33:13]</a>. Higher savings, in turn, can lead to lower interest rates <a class="yt-timestamp" data-t="00:33:56">[00:33:56]</a>. Alfonso adds that a shrinking labor force directly reduces potential GDP, all else being equal <a class="yt-timestamp" data-t="00:40:35">[00:40:35]</a>.
+*   **Inflationary Argument:** The counter-argument suggests that fewer workers could lead to stronger unions and higher wages due to increased demand for labor <a class="yt-timestamp" data-t="00:32:06">[00:32:06]</a>. Additionally, an increase in elderly dependents will necessitate mandatory government spending on care, contributing to [[inflation_and_economic_policies | inflation]] <a class="yt-timestamp" data-t="00:32:24">[00:32:24]</a>.
+
+Alfonso counters the labor-intensive 1970s comparison by noting that today's economy is highly technological, requiring significantly fewer employees to generate the same sales (one-tenth of what was needed in the 70s) <a class="yt-timestamp" data-t="00:36:26">[00:36:26]</a>. This trend of technological advancement and robotization will continue to reduce demand for labor, even if the labor force shrinks <a class="yt-timestamp" data-t="00:36:51">[00:36:51]</a>.
+
+### ESG (Environmental, Social, and Governance) Policies
+The transition to net-zero emissions, driven by ESG mandates, is inherently inflationary due to increased demand for commodities like lithium, copper, and nickel <a class="yt-timestamp" data-t="00:37:37">[00:37:37]</a>. However, Alfonso argues that projections based on current technology overestimate future commodity needs, underestimating the technological progress that will lead to more efficient use of resources <a class="yt-timestamp" data-t="00:38:13">[00:38:13]</a>.
+
+Andreas identifies energy policy, specifically the attempt to reduce reliance on Russian natural resources, as a "dark horse" for [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>. He believes it is impossible to replace these resources within 24 months, leading to "massive cost side pressure" <a class="yt-timestamp" data-t="00:34:24">[00:34:24]</a>. However, he expects public backlash when energy prices double or triple, influencing politicians to find alternative solutions <a class="yt-timestamp" data-t="00:34:47">[00:34:47]</a>.
+
+### Technological Advancement
+While acknowledging that technological advancement is secular and deflationary <a class="yt-timestamp" data-t="00:45:00">[00:45:00]</a>, Jim Kassang cautions against extrapolating an accelerated pace of technological advancement. He suggests that the speed of innovation slows when the "lifeblood of advancement," which is money and access to resources, diminishes, especially during periods of populism <a class="yt-timestamp" data-t="00:45:45">[00:45:45]</a>.
+
+## Central Bank Divergence and Global Effects
+A significant shift is observed towards greater divergence in central bank policies, a contrast to the synchronized approach of the past <a class="yt-timestamp" data-t="00:53:28">[00:53:28]</a>.
+*   **European Central Bank (ECB):** Andreas views the ECB as "trapped to a much, much, much larger extent than the Federal Reserve" in terms of monetary policy independence <a class="yt-timestamp" data-t="00:55:23">[00:55:23]</a>. He anticipates a strong move in the dollar if the ECB fails to adequately address current [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] <a class="yt-timestamp" data-t="00:55:37">[00:55:37]</a>. Alfonso notes that the ECB is reacting to 9% year-on-year [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] in Germany and 3.8% core [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] in Europe <a class="yt-timestamp" data-t="00:58:24">[00:58:24]</a>. To preserve credibility and prevent the euro from depreciating towards parity, the ECB is compelled to raise rates, even if it leads to suffering for weaker links in the Eurozone like Italy <a class="yt-timestamp" data-t="00:59:07">[00:59:07]</a>. This is described as an "ECB put" that exists as long as the euro does <a class="yt-timestamp" data-t="01:09:52">[01:09:52]</a>.
+*   **Federal Reserve (Fed):** Chris Waller of the Fed has stated support for further 50 basis point hikes until [[inflation_and_its_drivers_in_the_current_economic_climate | inflation]] approaches the 2% target <a class="yt-timestamp" data-t="00:54:05">[00:54:05]</a>. Jim suggests that the Fed is committed to increasing rates from a credibility perspective and to address one of its dual mandates, leading to continued dollar strength and significant global knock-on effects <a class="yt-timestamp" data-t="01:02:59">[01:02:59]</a>. Alfonso argues there is "no Fed put" in the current environment, as the Fed actually *wants* financial conditions to tighten to combat [[inflation_and_economic_policies | inflation]] <a class="yt-timestamp" data-t="01:09:26">[01:09:26]</a>.
+*   **Bank of Japan (BoJ):** The BoJ is on a unique path, potentially buying up all government bonds, as [[inflation_and_economic_policies | inflation expectations]] in Japan remain below 1% <a class="yt-timestamp" data-t="00:57:18">[00:57:18]</a>. They would not mind an "orderly depreciation of the yen" to import some [[inflation_and_economic_policies | inflation]] <a class="yt-timestamp" data-t="00:57:57">[00:57:57]</a>.
+
+This divergence is expected to lead to higher realized volatility in FX markets <a class="yt-timestamp" data-t="00:59:34">[00:59:34]</a>, making it a more engaging environment for macro investors <a class="yt-timestamp" data-t="01:00:10">[01:00:10]</a>.
+
+## Generational Perspectives on Policy
+There's a belief that as millennials become decision-makers, they will adopt a "very different view on how to tackle a topic like [[inflation_and_economic_policies | inflation]]" <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. This could involve taxing wealth, particularly from older generations ("tax the ship out of the boomers") <a class="yt-timestamp" data-t="00:27:27">[00:27:27]</a>, to redistribute resources to more productive outlets and address inequality <a class="yt-timestamp" data-t="00:50:56">[00:50:56]</a>. Such redistribution could enhance long-term structural growth and revive inflationary pressures <a class="yt-timestamp" data-t="00:51:01">[00:51:01]</a>. This rebalance, driven by populism and generational divide, is seen as inevitable and potentially closer than many think <a class="yt-timestamp" data-t="00:52:32">[00:52:32]</a>.
+
+## Investor Considerations
+In a volatile and uncertain environment, investors should:
+*   **Avoid being too active:** Frequent trading can lead to losses and high brokerage fees <a class="yt-timestamp" data-t="01:07:02">[01:07:02]</a>.
+*   **Size positions carefully:** Account for the underlying volatility of different asset classes (e.g., Bitcoin vs. Euro-dollar) <a class="yt-timestamp" data-t="01:05:50">[01:05:50]</a>.
+*   **Be wary of correlation regimes:** Correlations between asset classes are not constant across macro cycles and can "flip" (e.g., bond-equity correlation), making proxy hedging risky <a class="yt-timestamp" data-t="01:06:13">[01:06:13]</a>.
+*   **Include hedges:** Maintain positions that act as hedges against being wrong, such as gold or crypto, even if not fully believing in their long-term value <a class="yt-timestamp" data-t="01:07:44">[01:07:44]</a>.
+
+The overarching sentiment is that the world is heading into "uncharted territory" <a class="yt-timestamp" data-t="01:02:20">[01:02:20]</a>, moving from a "collaboration game to a cooperation game" where everyone is trying to get what's due to them <a class="yt-timestamp" data-t="01:02:32">[01:02:32]</a>. This signals an unwind of globalization and a dynamic between populism and free-market economics <a class="yt-timestamp" data-t="01:02:40">[01:02:40]</a>.

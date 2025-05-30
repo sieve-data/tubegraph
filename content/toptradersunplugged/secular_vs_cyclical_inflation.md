@@ -1,0 +1,42 @@
+---
+title: Secular vs Cyclical Inflation
+videoId: hqB3WA2uiP8
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+There is a significant difference between [[secular_versus_cyclical_market_trends | cyclical]] and [[secular_versus_cyclical_market_trends | secular]] inflation <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. For the past 40 years, these two types of inflation have largely been indistinguishable, characterized by a [[secular_and_cyclical_trends_in_global_macroeconomics | secular trend]] of disinflation that led to the dominance of monetary policy <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
+
+The bond market, in particular, tends to focus on [[secular_and_cyclical_trends_in_global_macroeconomics | cyclical effects]] <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>. Currently, while short-term yields suggest a cyclical period of disinflation over the next six months to a year, the longer-term [[secular_and_cyclical_trends_in_global_macroeconomics | secular effects]] indicate that yields are still low within a broader [[secular_and_cyclical_trends_in_global_macroeconomics | secular inflationary period]] <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>.
+
+## Distinguishing Inflationary Periods
+
+Yield curve inversion, often seen as a recession indicator, encompasses both inflationary and non-inflationary periods <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. However, inflationary periods present a different dynamic: a recession does not necessarily lead to disinflation <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. It's possible to experience a stagflationary environment where there is still significant longer-term increasing [[inflation_vs_deflation | inflation]] alongside a recession <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. Many market participants are not considering this combination <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>.
+
+## Current Economic Context
+
+The current market environment is characterized as a short-term [[secular_and_cyclical_trends_in_global_macroeconomics | cyclical]] positive period within a [[secular_and_cyclical_trends_in_global_macroeconomics | secular]] decline in markets <a class="yt-timestamp" data-t="00:20:16">[00:20:16]</a>. The Federal Reserve is in a phase of pausing rate hikes, not pivoting to cuts, and remains committed to fighting [[inflation_vs_deflation | inflation]] <a class="yt-timestamp" data-t="00:20:30">[00:20:30]</a>. This suggests a conviction that the current period is a [[secular_and_cyclical_trends_in_global_macroeconomics | secular inflationary period]], even if there is a [[role_of_structural_and_cyclical_dynamics_in_inflation_and_monetary_policy | cyclical downturn]] in [[inflation_vs_deflation | inflation]] within that context <a class="yt-timestamp" data-t="00:20:54">[00:20:54]</a>. Recent CPI numbers, while better than expected, are seen as part of this [[secular_and_cyclical_trends_in_global_macroeconomics | cyclical]] rally <a class="yt-timestamp" data-t="00:24:30">[00:24:30]</a>.
+
+## Historical Parallels: The 1970s
+
+Understanding [[Longterm Debt Cycles and Economic History | economic history]] is crucial to avoid mistaking [[secular_and_cyclical_trends_in_global_macroeconomics | cyclical]] fluctuations for [[secular_and_cyclical_trends_in_global_macroeconomics | secular trends]] <a class="yt-timestamp" data-t="00:25:13">[00:25:13]</a>. The 1970s serve as a key example:
+*   **1969-1970 Recession:** Inflation fell from 6-6.5% to 3% <a class="yt-timestamp" data-t="00:25:23">[00:25:23]</a>. The Fed funds rate, under Chairman William McChesney Martin, increased from 3.5-4% to 10% to achieve this <a class="yt-timestamp" data-t="00:25:40">[00:25:40]</a>. Despite this, it was just the beginning of a larger [[secular_and_cyclical_trends_in_global_macroeconomics | secular inflationary push]] <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a>.
+*   **1973-1975 Recession:** Inflation surged from 3% to 11% <a class="yt-timestamp" data-t="00:28:32">[00:28:32]</a>. The Fed funds rate, which had previously increased to 14%, dropped to 5% during this recession <a class="yt-timestamp" data-t="00:29:03">[00:29:03]</a>. However, the floor for interest rates continued to rise <a class="yt-timestamp" data-t="00:29:21">[00:29:21]</a>, and inflation eventually reached 20% <a class="yt-timestamp" data-t="00:29:34">[00:29:34]</a>.
+
+In both instances, periods of [[inflation_vs_deflation | disinflation]] or recession were followed by renewed inflationary pressures, indicating an underlying [[secular_and_cyclical_trends_in_global_macroeconomics | secular]] trend <a class="yt-timestamp" data-t="00:29:21">[00:29:21]</a>.
+
+## Factors Influencing Inflationary Trends
+
+Even with a strong inflationary push, certain factors can help control [[inflation_vs_deflation | inflation]]:
+*   **Strong Dollar:** A stronger U.S. dollar can export [[inflation_vs_deflation | inflation]] <a class="yt-timestamp" data-t="00:26:51">[00:26:51]</a>. This has been partially possible due to a larger economic slowdown outside the U.S., creating [[inflation_vs_deflation | cyclical disinflationary effects]] <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>, such as China's lockdowns and Europe's supply-side issues <a class="yt-timestamp" data-t="00:27:06">[00:27:06]</a>.
+*   **Weakening Dollar:** A weakening dollar, however, will import [[inflation_vs_deflation | inflation]] back to the U.S. <a class="yt-timestamp" data-t="00:27:42">[00:27:42]</a>.
+*   **China Reopening:** China's reopening is expected to drive [[monetary_vs_high_street_inflation | commodity-related inflation]] higher <a class="yt-timestamp" data-t="00:27:50">[00:27:50]</a>.
+
+## Investment Implications in Secular Inflationary Periods
+
+In a [[secular_and_cyclical_trends_in_global_macroeconomics | secular inflationary period]], certain asset classes may behave differently than in disinflationary periods:
+*   **Equities:** Despite first-order effects suggesting equities should rise with [[inflation_vs_deflation | inflation]], second-order effects related to [[Investment Strategies During Inflationary Periods | investment flows]] actually lead to less upside drift or even declines <a class="yt-timestamp" data-t="00:32:10">[00:32:10]</a>. This also paradoxically reduces long-term realized volatility because markets become significantly cheaper as they decline, supported by [[monetary_vs_high_street_inflation | demand-push economics]] that can drive higher GDP <a class="yt-timestamp" data-t="00:33:08">[00:33:08]</a>. The "reverse Tina effect" (higher bond yields) draws money away from equities <a class="yt-timestamp" data-t="00:35:01">[00:35:01]</a>.
+*   **Precious Metals (Gold):** [[Investment Strategies During Inflationary Periods | Precious metals]], particularly gold, are expected to perform well during [[Longterm Debt Cycles and Economic History | secular inflationary periods]] <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>. There may be a significant upside opportunity in long-dated calls on gold due to its volatility profile <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.
+*   **Oil and Dollar:** Both oil and the U.S. dollar historically benefit from [[Longterm Debt Cycles and Economic History | inflationary periods]] as stores of wealth and due to geopolitical strife <a class="yt-timestamp" data-t="01:04:17">[01:04:17]</a>.
+    *   **Dollar/Bonds Volatility:** As the Fed loses control due to its dual mandate in a stagflationary environment, the volatility of the dollar and bonds structurally increases <a class="yt-timestamp" data-t="01:04:57">[01:04:57]</a>.
+    *   **Oil Volatility:** Oil, unlike bonds and the dollar, has historically been less "pinned" by a single dominant force <a class="yt-timestamp" data-t="01:06:09">[01:06:09]</a>. However, in the current period of resource scarcity and competition, an "OPEC put" (or "Putin put") is developing, where OPEC aims to control oil volatility and defend prices <a class="yt-timestamp" data-t="01:06:46">[01:06:46]</a>. This could lead to compressed volatility for [[monetary_vs_high_street_inflation | commodities]], making them behave more like equities from a volatility perspective <a class="yt-timestamp" data-t="01:07:25">[01:07:25]</a>. The U.S. plan to refill the Strategic Petroleum Reserve at $72/barrel also acts as a put on oil prices <a class="yt-timestamp" data-t="01:07:31">[01:07:31]</a>.

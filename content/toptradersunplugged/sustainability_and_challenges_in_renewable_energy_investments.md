@@ -1,0 +1,76 @@
+---
+title: Sustainability and challenges in renewable energy investments
+videoId: GNW8jpaVP6E
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+## The Role of Decarbonization in Commodity Markets
+A defining characteristic of the current period, distinguishing it from past inflationary cycles (like 2008 or the 1970s), is the significant focus on decarbonization <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. This emphasis makes it challenging for the commodity sector to generate the typical supply response seen under favorable pricing conditions <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. Publicly traded commodity companies currently have economic incentives to engage in share buybacks with their cash flow rather than drilling for new oil <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>.
+
+This phenomenon extends beyond the oil sector to all commodities, as the "old economy" is responsible for 80% of global emissions <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. Investors often choose to avoid the old economy to sidestep the [[impact_of_esg_policies_on_energy_investment | decarbonization debate]] <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>. As a result, the ability to attract capital into the commodity space has been severely restricted <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. This capital disconnect is evident not just in oil equities, but also in metals and miners, and agriculture producers <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>. The core distinguishing factor of the current inflationary period is the commodity sectors' limited capacity to respond to higher prices <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>.
+
+## [[Impact of ESG policies on energy investment | ESG Policies]] and Distortions
+While a carbon price or carbon tax could be a solution to decarbonization that avoids investment distortions <a class="yt-timestamp" data-t="00:07:57">[00:07:57]</a>, current distortions in investment are leading to much higher prices than a carbon tax would <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>. These distortions essentially act as a carbon tax, but with revenues not collected by governments in major energy-consuming regions <a class="yt-timestamp" data-t="00:08:25">[00:08:25]</a>.
+
+One major criticism of [[impact_of_esg_policies_on_energy_investment | ESG]] is the irrational manner in which related problems and risks are addressed, failing to achieve results <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+
+> "Let's solve this problem but let's do it in a rational manner that actually gets results." <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>
+
+### Policy Makers and Inflation
+Policy decisions are exacerbating supply problems while simultaneously accentuating low-income group demand <a class="yt-timestamp" data-t="00:14:41">[00:14:41]</a>. For example, in Europe, windfall profit taxes are collected from energy companies and then redistributed to lower-income groups, which worsens supply issues and increases demand <a class="yt-timestamp" data-t="00:14:54">[00:14:54]</a>.
+
+Commodity bull markets and inflation are ultimately driven by low-income groups, not high-income groups <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. High-income groups control financial markets (dollars) <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>, but low-income groups control volume, which drives physical commodity markets <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>. It is numerically impossible for high-income groups to create physical goods inflation unless they hoard, which is generally not feasible for commodities like corn or oil due to volume constraints <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>. The history of commodity bull markets invariably shows them driven by low-income groups, such as China's growth in the 2000s or the War on Poverty in the 1970s <a class="yt-timestamp" data-t="00:15:10">[00:15:10]</a>. The interplay between decarbonization and income inequality is becoming increasingly critical in the commodity space <a class="yt-timestamp" data-t="00:15:39">[00:15:39]</a>.
+
+## [[Challenges of renewable energy | Challenges of Renewable Energy]]
+Despite significant [[investment_challenges_and_opportunities | investment]] in [[challenges_of_renewable_energy | renewables]], their impact on primary energy consumption has been minimal <a class="yt-timestamp" data-t="00:56:45">[00:56:45]</a>.
+
+*   **Limited Impact**: Over the last decade, approximately $3.8 trillion has been invested in [[challenges_of_renewable_energy | renewables]], yet hydrocarbon consumption only decreased from 82% to 81% of primary energy sources before the Russian conflict <a class="yt-timestamp" data-t="00:56:45">[00:56:45]</a>.
+*   **Energy Density and Waste**: Energy waste and environmental damage are directly proportional to the density of the energy source <a class="yt-timestamp" data-t="00:57:18">[00:57:18]</a>.
+    *   Traditional sources like wood have significant waste and higher CO2 emissions than coal <a class="yt-timestamp" data-t="00:57:25">[00:57:25]</a>.
+    *   Coal, oil, and gas progressively have fewer emissions and less waste <a class="yt-timestamp" data-t="00:57:32">[00:57:32]</a>.
+    *   Nuclear power plants produce virtually no carbon emissions and minimal waste <a class="yt-timestamp" data-t="00:57:41">[00:57:41]</a>.
+*   **"Going Backwards in Time"**: [[challenges_of_renewable_energy | Renewables]] represent a step backward in energy density <a class="yt-timestamp" data-t="00:58:02">[00:58:02]</a>. Large wind and solar farms cause substantial environmental destruction, even if they produce no carbon emissions <a class="yt-timestamp" data-t="00:58:16">[00:58:16]</a>.
+*   **Human Cost**: 165 people die annually from ice coming off wind turbines <a class="yt-timestamp" data-t="00:58:31">[00:58:31]</a>, while coal burning accounts for approximately 6 million deaths per year <a class="yt-timestamp" data-t="00:58:46">[00:58:46]</a>. Emissions were projected to be up by 4.3% due to increased coal burning <a class="yt-timestamp" data-t="00:59:02">[00:59:02]</a>.
+*   **Rational Solutions**: To reduce carbon emissions, immediate steps could include replacing coal with cleaner-burning gas and utilizing functional nuclear power plants <a class="yt-timestamp" data-t="00:59:21">[00:59:21]</a>. The energy required to produce windmills and other renewable infrastructure is also a significant, often overlooked, factor <a class="yt-timestamp" data-t="00:59:41">[00:59:41]</a>.
+
+## [[Investment Challenges and Opportunities | Investment Opportunities]] in the Commodity Supercycle
+The market has priced in a recession, yet there is little evidence of one globally as of early 2023 <a class="yt-timestamp" data-t="00:21:46">[00:21:46]</a>. Physical suppliers and inventories are prepared for a recession in 2023 <a class="yt-timestamp" data-t="00:22:06">[00:22:06]</a>. If a recession does not occur, significant upside potential exists <a class="yt-timestamp" data-t="00:22:09">[00:22:09]</a>.
+
+Despite a commodity supercycle, the space remains "unloved" by institutional investors <a class="yt-timestamp" data-t="00:24:09">[00:24:09]</a>.
+*   Index flows saw $60 billion in outflows in the past year <a class="yt-timestamp" data-t="00:24:14">[00:24:14]</a>.
+*   Commodity-focused hedge funds have significantly shrunk from $80 billion in the 2000s to around $12 billion currently <a class="yt-timestamp" data-t="00:24:23">[00:24:23]</a>.
+*   Energy's market cap in the S&P 500 is about 5-5.3%, but on a revenue basis, it's closer to 9-10%, indicating underinvestment <a class="yt-timestamp" data-t="00:25:04">[00:25:04]</a>.
+*   The sector's history of epic losses deters [[challenges_and_strategies_for_active_investors | investors]]; for example, E&P companies destroyed 54 cents on every dollar given to them over the last decade, and commodities generated a 60% loss over the same period <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a>.
+*   Asset allocators typically require a three-year track record of strong performance before buying into a commodity story <a class="yt-timestamp" data-t="00:26:24">[00:26:24]</a>. Given 42% returns in 2021 and 26% in 2022, another strong year in 2024 might trigger rotation <a class="yt-timestamp" data-t="00:26:34">[00:26:34]</a>.
+
+For a decade-forward perspective on profiting from the commodity supercycle, billions of dollars in capital expenditure (capex) are needed in the space <a class="yt-timestamp" data-t="01:00:01">[01:00:01]</a>.
+*   **Equities**: Owning the equities is a primary conduit for profiting <a class="yt-timestamp" data-t="01:00:21">[01:00:21]</a>.
+*   **Commodity Basket**: A basket of commodities can serve as an inflation hedge <a class="yt-timestamp" data-t="01:00:31">[01:00:31]</a>.
+*   **Specific Commodities**:
+    *   **Uranium** is an excellent example for investment <a class="yt-timestamp" data-t="01:00:35">[01:00:35]</a>.
+    *   **Metals and Miners**: Essential for enabling the "Green Revolution" through the production of "green capex metals" <a class="yt-timestamp" data-t="01:00:40">[01:00:40]</a>. The "big six" green metals are copper, aluminum, silver, nickel, lithium, and cobalt, in addition to rare earth metals <a class="yt-timestamp" data-t="01:00:51">[01:00:51]</a>.
+*   **Oil**: Considered the biggest and most strategically important commodity <a class="yt-timestamp" data-t="01:01:06">[01:01:06]</a>. Underinvestment in it, while consumption continues, will lead to greater volatility <a class="yt-timestamp" data-t="01:01:52">[01:01:52]</a>.
+*   **China**: China's abandonment of the zero-COVID policy and focus on growth makes commodities the best play to take advantage of this shift <a class="yt-timestamp" data-t="00:20:22">[00:20:22]</a>.
+*   **Middle East**: Saudi Arabia and UAE are the only two countries with reinvestment rates at or above 2019 levels, making them the primary engines of growth in the new decarbonization world <a class="yt-timestamp" data-t="00:31:54">[00:31:54]</a>. OPEC's market power has never been higher, given the inelastic supply curves of other producers <a class="yt-timestamp" data-t="00:33:03">[00:33:03]</a>.
+*   **Strategic Petroleum Reserve (SPR)**: The end of SPR sales in late 2022/early 2023, coupled with rising Chinese demand and declining Russian supply, creates a significant shift in balances that supports upside for oil <a class="yt-timestamp" data-t="00:34:07">[00:34:07]</a>. The SPR is unlikely to be used in 2023, possibly being reserved for 2024 <a class="yt-timestamp" data-t="00:34:18">[00:34:18]</a>.
+
+## Energy Crisis and Geopolitical Factors
+The current [[role_of_renewable_energy_in_the_energy_crisis | energy crisis]] in Europe, while temporarily alleviated by a mild winter and LNG imports, presents [[future_economic_challenges_and_crises | future economic challenges and crises]] <a class="yt-timestamp" data-t="00:43:43">[00:43:43]</a>.
+*   **Natural Gas**: Europe consumes about 45 BCF per day of gas, with Russia previously supplying one-third of that <a class="yt-timestamp" data-t="00:45:11">[00:45:11]</a>. Europe lost about 10 BCF per day of Russian gas, replacing some with LNG and coal-to-coal switching <a class="yt-timestamp" data-t="00:45:33">[00:45:33]</a>. The core problem has not disappeared <a class="yt-timestamp" data-t="00:46:09">[00:46:09]</a>.
+*   **Future Risks**: A rebound in Chinese demand coupled with a cold winter in late 2023 or 2024 could lead to renewed energy problems in Europe <a class="yt-timestamp" data-t="00:45:58">[00:45:58]</a>.
+*   **LNG Limitations**: LNG is considered an emergency fuel, not a sustainable solution for running a manufacturing-based economy like Germany <a class="yt-timestamp" data-t="00:47:23">[00:47:23]</a>. Companies like BMW might consider moving production to gas-producing regions like the U.S. instead of relying on complex LNG logistics <a class="yt-timestamp" data-t="00:47:09">[00:47:09]</a>.
+*   **Reshoring**: Industries like aluminum smelting and fertilizer production are already seeing shifts from Europe to the U.S. due to cheaper gas <a class="yt-timestamp" data-t="00:48:48">[00:48:48]</a>. This partial convergence may continue through indirect channels like coal and petrochemicals <a class="yt-timestamp" data-t="00:49:50">[00:49:50]</a>.
+*   **Russian Oil and Products**: While Russian oil flows have seen modest declines, the larger problem lies with refined products in February <a class="yt-timestamp" data-t="00:29:37">[00:29:37]</a>. It's not as fungible as crude oil, and logistics challenges could lead to a loss of 600,000 barrels per day <a class="yt-timestamp" data-t="00:30:33">[00:30:33]</a>. Russia will likely do everything to keep crude flowing to avoid infrastructure damage from freeze-offs <a class="yt-timestamp" data-t="00:29:49">[00:29:49]</a>. China is in a strong position to force Russia into a corner regarding oil purchases <a class="yt-timestamp" data-t="00:31:14">[00:31:14]</a>.
+
+## Metals and Agriculture
+### Metals
+Aluminum is projected to be one of the most bullish commodities over the next 5-10 years, primarily due to China rather than Russia <a class="yt-timestamp" data-t="00:40:44">[00:40:44]</a>. It's termed the "climate paradox" because aluminum production creates the most emissions, yet it's critical for solving climate change as a "green metal" <a class="yt-timestamp" data-t="00:40:55">[00:40:55]</a>. China's new export tariffs on aluminum indicate a desire to keep energy domestic for its own rebound <a class="yt-timestamp" data-t="00:41:27">[00:41:27]</a>.
+
+Small, rare earth metals like titanium, platinum, and palladium, where Russia holds significant market shares, could be used by Russia to create problems for Western economies <a class="yt-timestamp" data-t="00:43:40">[00:43:40]</a>.
+
+### Agriculture
+Agricultural commodity prices, particularly for soybeans and corn, were back to Russia-Ukraine conflict highs as of early 2023 due to weather <a class="yt-timestamp" data-t="00:51:08">[00:51:08]</a>. The agricultural market faces structural challenges known as the "three C's":
+1.  **Climate**: Changing yields due to weather shocks, potentially forcing agricultural production to move to more northern climates <a class="yt-timestamp" data-t="00:52:11">[00:52:11]</a>.
+2.  **Conflict**: Geopolitical conflicts, such as in Ukraine or parts of Africa, disrupt supply <a class="yt-timestamp" data-t="00:52:25">[00:52:25]</a>.
+3.  **Carbon**: Underinvestment in "carbon-related assets" affects the agriculture sector (food is a carbohydrate, similar to hydrocarbons) <a class="yt-timestamp" data-t="00:53:11">[00:53:11]</a>. This dynamic of underinvestment hits agriculture, oil, and metals and mining sectors alike <a class="yt-timestamp" data-t="00:53:43">[00:53:43]</a>, creating a structural bull market in agriculture <a class="yt-timestamp" data-t="00:53:53">[00:53:53]</a>.

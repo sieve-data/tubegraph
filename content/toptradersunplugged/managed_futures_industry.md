@@ -1,0 +1,56 @@
+---
+title: Managed Futures Industry
+videoId: 94nUnXsYpLY
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+The [[managed_futures_industry_and_trend_following | managed futures industry]] is a significant area within finance, focused on systematic trading and [[managed_futures_and_trend_following_strategies | trend following strategies]] <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. This industry involves hedge fund managers who utilize structured approaches to invest in various markets <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>.
+
+## The Turtle Program: A Landmark Experiment
+
+The Turtle Program is a renowned experiment in the [[managed_futures_industry_history | managed futures industry]] <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. It brought together pioneers of systemic trading and [[managed_futures_and_trend_following_strategies | trend following strategies]] who profoundly impacted the world's understanding of this investment approach <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. Richard Dennis, the creator of the Turtle Program, was the original mentor to Bryan Pluta and Jerry Parker <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
+
+### Origins of the Turtle Program
+Richard Dennis, a floor trader for 14 years, began trading off-floor four or five years before the Turtle Program started <a class="yt-timestamp" data-t="00:03:23">[00:03:23]</a>. He realized the necessity of trading more markets than the one or two accessible within a pit <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. His first introduction to [[managed_futures_and_trend_following_strategies | trend-following]] came from books by early pioneers <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>. He conducted research by hand and did not initially know other people doing the same work <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+
+The idea for the Turtle Program stemmed from Richard Dennis's realization that much of trading involved following rules, which he formalized <a class="yt-timestamp" data-t="00:15:03">[00:15:03]</a>. He estimated that two-thirds of trading was rule-based, with the remaining third being intuition <a class="yt-timestamp" data-t="00:15:33">[00:15:33]</a>. To resolve the debate about whether trading could be taught, he decided to train people with rules <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a>. The program was put into motion within a couple of months of this idea, with advertisements placed in newspapers leading to a January 1984 start <a class="yt-timestamp" data-t="00:16:39">[00:16:39]</a>. The name "Turtles" originated from Richard Dennis seeing a turtle farm in Singapore <a class="yt-timestamp" data-t="00:13:38">[00:13:38]</a>.
+
+### The Application and Training Process
+Jerry Parker joined the first class of Turtles in late 1983 <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. His background was in accounting, and he had a hobby of reading books about the stock market and following financial newsletters, which introduced him to trend-following concepts <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>. He saw an article about Richard Dennis in Business Week and later the famous ad in The Wall Street Journal <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>. The application process involved a test with true/false and discussion questions <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>. Jerry Parker reportedly answered all questions correctly, a unique achievement <a class="yt-timestamp" data-t="00:17:41">[00:17:41]</a>.
+
+Bryan Pluta started working for Richard Dennis's firm, C&D Commodities, as a runner and back-office trade checker in 1982 <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. He observed the success of the first group of Turtles <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. Richard Dennis suggested to Bryan that joining the second round of the program would be a better career path than trading on the floor <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>. Bryan, having already gained insight into the partners' trading philosophies, did not go through the formal interview process <a class="yt-timestamp" data-t="00:19:54">[00:19:54]</a>.
+
+Richard Dennis preferred applicants who had not traded on the floor, viewing it as a detriment <a class="yt-timestamp" data-t="00:20:45">[00:20:45]</a>. He sought individuals with statistical aptitude, leading to the selection of many professional blackjack players who understood odds <a class="yt-timestamp" data-t="00:21:01">[00:21:01]</a>. However, he admits they didn't do a great job of selecting people, as initial expectations about performance were often incorrect <a class="yt-timestamp" data-t="00:21:20">[00:21:20]</a>.
+
+The Turtles received comprehensive training, which lasted two or three weeks, and significant support from Richard Dennis and his partner, including opportunities for lunch and trading sessions <a class="yt-timestamp" data-t="00:22:40">[00:22:40]</a>. This support fostered an environment where focusing on doing the right thing was prioritized over immediate monetary returns <a class="yt-timestamp" data-t="00:23:41">[00:23:41]</a>. Richard Dennis believes that mediocre rules, when applied with persistence, are superior to good traders' judgment <a class="yt-timestamp" data-t="00:24:34">[00:24:34]</a>. All Turtles initially started with the same amount of capital, but allocations became asymmetric based on performance <a class="yt-timestamp" data-t="00:25:31">[00:25:31]</a>.
+
+Richard Dennis generally maintained anonymity about the program while it was ongoing <a class="yt-timestamp" data-t="00:26:13">[00:26:13]</a>.
+
+## Modern Relevance of Trend Following
+
+While market conditions, especially volatility, have changed over the years <a class="yt-timestamp" data-t="00:27:08">[00:27:08]</a>, the basic philosophy of [[managed_futures_and_trend_following_strategies | trend following]] remains relevant <a class="yt-timestamp" data-t="00:27:52">[00:27:52]</a>.
+
+### Core Principles
+Modern [[managed_futures_and_trend_following_strategies | trend following]] still involves finding robust systems with minimal parameters for trade initiation, liquidation, or staying out of trades <a class="yt-timestamp" data-t="00:28:02">[00:28:02]</a>. The aim is to capture directional price movement <a class="yt-timestamp" data-t="00:28:24">[00:28:24]</a>. [[market_dynamics_and_hedge_fund_performance | Risk management]] is paramount, achieved by managing trade size and limiting exposure in markets and sectors <a class="yt-timestamp" data-t="00:28:29">[00:28:29]</a>. Some modern approaches, like EMC Capital Advisors, use a [[market_dynamics_and_hedge_fund_performance | risk management]] concept based on marginal utility that harvests profits along the way, differing from original Turtle methods <a class="yt-timestamp" data-t="00:28:43">[00:28:43]</a>.
+
+### [[diversification_in_futures_markets | Diversification]]
+[[diversification_in_futures_markets | Diversification]] across markets is considered a key to success in [[managed_futures_and_trend_following_strategies | trend-following]] <a class="yt-timestamp" data-t="00:29:07">[00:29:07]</a>. Jerry Parker has traded as many markets as possible, typically avoiding those that don't lend themselves well to [[managed_futures_and_trend_following_strategies | trend-following]], such as the VIX index <a class="yt-timestamp" data-t="00:29:37">[00:29:37]</a>. The strategy generally benefits from liquid markets <a class="yt-timestamp" data-t="00:29:54">[00:29:54]</a>.
+
+Allocating risk among sectors and markets is important <a class="yt-timestamp" data-t="00:30:01">[00:30:01]</a>. While adding more highly correlated bond markets might not have a downside, attention should be paid to sector allocation <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>. Jerry Parker advocates for trading single stocks rather than just indices, as it can lead to smaller drawdowns and better [[diversification_in_futures_markets | diversification]] <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>. He suggests having a significant allocation to equities (both long and short) as they can be the primary source of returns in certain periods <a class="yt-timestamp" data-t="00:30:56">[00:30:56]</a>.
+
+Richard Dennis notes that liquidity largely dictates the choice of markets, leading to portfolios with a balance of commodities and financials <a class="yt-timestamp" data-t="00:32:26">[00:32:26]</a>. He doesn't see a problem with an unbalanced portfolio if liquidity shifts <a class="yt-timestamp" data-t="00:32:56">[00:32:56]</a>.
+
+## [[challenges_and_opportunities_in_the_managed_futures_space | Challenges and Investor Perception]]
+
+Despite offering access to uncorrelated markets, the ability to go long and short, and a philosophy of cutting losses and letting winners run, [[managed_futures_and_trend_following_strategies | trend following]] has only been embraced by a minority of investors as a core portfolio component <a class="yt-timestamp" data-t="00:33:50">[00:33:50]</a>.
+
+### Reasons for Limited Adoption
+*   **Return Stream Volatility**: The return stream for [[managed_futures_and_trend_following_strategies | trend following]] can be difficult for institutional investors to accept due to internal rules on volatility and drawdowns <a class="yt-timestamp" data-t="00:34:13">[00:34:13]</a>.
+*   **"Black Box" Perception**: Investors often view [[managed_futures_and_trend_following_strategies | trend following]] as a "black box" because they don't understand its methodologies <a class="yt-timestamp" data-t="00:34:47">[00:34:47]</a>. Proponents argue that systematic trading is more transparent than discretionary trading, where a manager's thought process is unknown <a class="yt-timestamp" data-t="00:35:11">[00:35:11]</a>.
+*   **Competition from Hedge Funds**: Historically, traditional hedge funds performed better and attracted a larger share of allocations <a class="yt-timestamp" data-t="00:35:41">[00:35:41]</a>. However, this trend may be reversing as hedge funds have faced harder times <a class="yt-timestamp" data-t="00:35:50">[00:35:50]</a>.
+*   **Strong Stock Market Performance**: A strong stock market, like the one that tripled in eight years, tends to draw investors' attention away from other strategies <a class="yt-timestamp" data-t="00:36:02">[00:36:02]</a>.
+*   **Fees and Expenses**: Historically, fees and expenses associated with CTAs have been a barrier <a class="yt-timestamp" data-t="00:36:32">[00:36:32]</a>.
+*   **Focus on Firm Size and Credentials**: Investors often prioritize the size of a firm and the number of PhDs on staff over actual market performance <a class="yt-timestamp" data-t="00:37:04">[00:37:04]</a>.
+
+Despite these [[challenges_and_trends_in_the_cta_and_managed_futures_industry | challenges]], there have been inflows into CTAs, suggesting a shift in investor sentiment <a class="yt-timestamp" data-t="00:36:54">[00:36:54]</a>.

@@ -1,0 +1,53 @@
+---
+title: Mean reversion trading strategy
+videoId: 32S8s9CwfOQ
+---
+
+From: [[toptradersunplugged]] <br/> 
+
+Peter Campolin, co-founder and CEO of Systematic Alpha Management, details their approach to the mean reversion trading strategy, which focuses on exploiting short-term and longer-term mean-reverting moves in financial spreads <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>. Positions are typically held within a day and a half to two days <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>, with average holding times of three to ten hours <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>.
+
+## Core Mechanics
+
+The strategy is built on the principle that financial spreads fluctuate, going up and down, and will eventually return to an expected mean or fair value <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a> <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>. The firm applies different logic and rules for playing these spreads, recognizing that the amplitude and timing of price movements can vary <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
+
+### Diversification Approaches
+To enhance returns and manage risk, Systematic Alpha Management diversifies its mean reversion strategy through several methods:
+*   **Holding Time Diversification** By diversifying holding times (e.g., three hours, ten hours, or somewhat longer), the returns generated often show low correlation to one another, even for the same spread <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. For instance, an S&P 4 British pound spread held for three hours might have nearly zero correlation to the same spread traded with a different holding time model <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. Models designed for shorter holding periods utilize very short lookback windows for estimating the mean or moving average of a spread <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>.
+*   **Intraday Seasonality** The strategy also accounts for intraday seasonality of volatility in spreads <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. There are typically three elevated volatility points within a day: early European morning (S&P mispriced), late US trading hours (European markets mispriced), and around 9:30-10:00 a.m. New York time (most price action, news releases) <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. These intraday moves are crucial for a strategy with holding periods of hours, unlike long-term [[trend_following_strategies | CTAs]] that hold positions for weeks or months <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>.
+
+### Market Selection
+The firm trades approximately 20 to 25 different markets, including major global equity indices and major currencies, with three commodities used for hedging <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. They trade about 20 to 30 different spread combinations, with each spread traded using up to 20 sub-models or ideas <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a> <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. This results in monitoring and trading about 200 individual signals <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. On average, about 20 trades occur per day <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>.
+
+### Trade Exit Triggers
+Exits from trades are triggered when a profit target is reached, or the spread returns to its expected level <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. Rather than a time-based stop, the exit mechanism uses a moving average of the spread <a class="yt-timestamp" data-t="00:05:45">[00:05:45]</a>. If the spread moves and then experiences a small reversal, it will touch a trigger point defined by this moving average, initiating the exit <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>. Time stops were tested but did not perform as effectively <a class="yt-timestamp" data-t="00:06:49">[00:06:49]</a>.
+
+## Position Sizing and [[Risk Management in Trend Following | Risk Management]]
+
+Position sizing follows a top-down approach:
+1.  **Overall Exposure**: The maximum exposure the firm is willing to have if all models trade in the same direction is defined based on overall assets under management <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
+2.  **Geographical Regions**: Risk is broken down among three geographical regions: Asia-US, Europe-US, and US-US/Canada <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. Allocation is based on historical returns, expected returns, and quality of returns, with 55-70% historically allocated to European spreads, 0-10% to Asia, and the balance to North America <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. This review occurs approximately every three months <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>.
+3.  **Country-Level Risk**: Within each geographical zone, individual risk levels are assigned to each country (e.g., UK, Switzerland, France, Germany, Euro stock in Europe) <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. This allocation depends on historical P&L, back-test results, and other tools <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>. US and UK spreads are preferred due to their stability and high correlation <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a>.
+4.  **Signal-Level Allocation**: Risk is then allocated among individual signals (spreads) within each country using a proprietary optimizer <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>. This optimizer analyzes one-minute real returns of spreads over four to five years, assigning more risk to models that not only produce the best returns but are also uncorrelated to other models within the portfolio <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. This results in non-uniform risk allocation <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
+
+### Leveraged Exposure and Drawdowns
+The average notional exposure in the firm's single-leverage share class is 60% long and 60% short <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>. This translates to an average margin-to-equity ratio of about 12%, including margin for long, short, and currency/commodity hedges <a class="yt-timestamp" data-t="00:14:28">[00:14:28]</a>. Stop-loss levels are set at approximately 2% from the entry price for a particular spread <a class="yt-timestamp" data-t="00:15:11">[00:15:11]</a>.
+
+To manage drawdowns, a de-leveraging mechanism was introduced in 2011:
+*   A 5% intra-month drawdown (peak to trough) triggers a 25% risk reduction in the markets or spreads causing the drawdown <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>.
+*   A 7.5% portfolio-level drawdown increases the de-leveraging to 50% across all spreads <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>.
+This control mechanism aims to limit the depth of drawdowns <a class="yt-timestamp" data-t="00:17:54">[00:17:54]</a>. The process of re-leveraging back to normal risk is not fully automated; it involves human judgment to identify recovering countries or spreads before gradually increasing risk <a class="yt-timestamp" data-t="00:20:09">[00:20:09]</a>.
+
+## Research and Adaptation
+
+The firm employs robust research methods to avoid over-optimizing parameters, a common criticism of quantitative strategies <a class="yt-timestamp" data-t="00:31:18">[00:31:18]</a>. They use walk-forward, out-of-sample tests and scenarios to ensure the chosen parameters are robust and based on fundamental reasons for continued effectiveness <a class="yt-timestamp" data-t="00:31:05">[00:31:05]</a>.
+
+They constantly monitor mean-reverting statistical tests for each country, observing how they change over time (e.g., 10-year, 3-year, 6-month history) <a class="yt-timestamp" data-t="00:32:12">[00:32:12]</a>. The ideal outcome is no deterioration in these tests, as mean reversion is key to their strategy <a class="yt-timestamp" data-t="00:32:30">[00:32:30]</a>. If signs of change appear, they may de-leverage their allocation to that specific country <a class="yt-timestamp" data-t="00:32:43">[00:32:43]</a>.
+
+Hedge ratios are recalculated daily to adapt to the most recent market relationships <a class="yt-timestamp" data-t="00:33:55">[00:33:55]</a>. Rapid changes in hedge ratios can indicate a breakdown in market correlation, prompting the firm to potentially move away from that market altogether <a class="yt-timestamp" data-t="00:34:02">[00:34:02]</a>. For example, they stopped trading the Nikkei-Japanese Yen S&P relationship after noticing the Nikkei's correlation to the rest of the world disappeared following new Japanese economic policies <a class="yt-timestamp" data-t="00:34:33">[00:34:33]</a>. This proactive approach aims to cut risk before losses accumulate <a class="yt-timestamp" data-t="00:35:03">[00:35:03]</a>. The firm prioritizes data over fundamental analysis; if data contradicts fundamental views, the data is believed first <a class="yt-timestamp" data-t="00:36:11">[00:36:11]</a>.
+
+## Contrast with [[trend_following_strategies | Trend Following Strategies]]
+
+When asked about questions for other [[trend_following_strategies | CTAs]], Peter Campolin highlights key differences:
+*   **Trend Development**: He questions why [[trend_following_strategies | trends]] are expected to develop again after a period of poor returns for [[trend_following_strategies | trend-following strategies]] <a class="yt-timestamp" data-t="00:44:56">[00:44:56]</a>. This implicitly contrasts the [[mean_reversion_vs_trend_following_strategies | mean reversion]] approach, which does not rely on persistent [[trend_following_strategies | trends]].
+*   **Cash Returns**: He also questions the percentage of gains made by [[trend_following_strategies | CTAs]] before 2008 that came from cash returns, estimating it could be over 50% <a class="yt-timestamp" data-t="00:46:26">[00:46:26]</a>. This is significant because a low-interest-yield environment means this "extra cash return" might not be generated in the future <a class="yt-timestamp" data-t="00:46:41">[00:46:41]</a>. This suggests that the total returns of a [[trend_following_strategies | trend-following strategy]] might be influenced by factors outside the core trading methodology, which is less relevant for a high-frequency, low-latency strategy like mean reversion.

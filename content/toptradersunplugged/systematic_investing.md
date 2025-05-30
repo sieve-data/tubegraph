@@ -1,0 +1,54 @@
+---
+title: systematic investing
+videoId: xrNozmQ53ck
+---
+
+From: [[toptradersunplugged]] <br/> 
+The **Systematic Investor Series** with Richard Brennan and Nils Castle Blossom explores [[systematic_investing_strategies | systematic investing]] and aims to provide a pulse of global markets through the lens of a rules-based investor <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. [[systematic_investing_strategies | Systematic investing]] is presented as a dependable, consistent, yet often overlooked investment strategy <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+
+The series also includes a CTA Series featuring decision-makers from large CTA firms, providing a snapshot of the industry <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. Observations from this series indicate a significant dispersion in the industry regarding the definition of 'trend' and the methods deployed to target trend and other arbitrage opportunities <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>. This diversity is considered beneficial for the industry <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. There's a tendency among more firms to broaden their strategy beyond just trend following to become more absolute return-focused, potentially in response to client demand <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>.
+
+## Core Concepts in Systematic Investing
+
+The discussion often delves into the quantitative analysis of price data to develop trading models and how to avoid issues like overfitting and underfitting <a class="yt-timestamp" data-t="00:19:37">[00:19:37]</a>. These are crucial aspects of what quantitative modelers deal with <a class="yt-timestamp" data-t="00:21:30">[00:21:30]</a>.
+
+### Signal and Noise
+
+When analyzing price data, investors typically look for patterns that positively correlate with systems designed to extract profits <a class="yt-timestamp" data-t="00:22:26">[00:22:26]</a>. This desired pattern is called a **signal** <a class="yt-timestamp" data-t="00:22:39">[00:22:39]</a>.
+
+*   **Signal**: For a trend follower, a signal represents a directionally trending or divergent price series <a class="yt-timestamp" data-t="00:22:45">[00:22:45]</a>. For a mean reversion investor, it's a repeating oscillation or convergent price series <a class="yt-timestamp" data-t="00:23:06">[00:23:06]</a>.
+*   **Noise**: This refers to all other price patterns that interfere with the primary signal <a class="yt-timestamp" data-t="00:25:46">[00:25:46]</a>. Noise can be random price patterns or even an opposing signal (e.g., a convergent pattern is noise to a trend follower) <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>.
+
+A profitable outcome occurs when a system positively correlates with the price pattern <a class="yt-timestamp" data-t="00:23:57">[00:23:57]</a>. An effective trading system must be optimally "fit" to the signal it targets to generate optimal profits <a class="yt-timestamp" data-t="00:25:20">[00:25:20]</a>. This concept of fitting models to price data is essential <a class="yt-timestamp" data-t="00:25:13">[00:25:13]</a>.
+
+A **high signal-to-noise ratio** in price data means that signals (materially trending price series) are more frequent relative to background noise, providing more opportunities for profit than loss <a class="yt-timestamp" data-t="00:28:03">[00:28:03]</a>. Conversely, a low signal-to-noise ratio leads to poor performance <a class="yt-timestamp" data-t="00:28:56">[00:28:56]</a>.
+
+The primary problem remains: how to separate genuine signals from good luck or random outcomes <a class="yt-timestamp" data-t="00:42:04">[00:42:04]</a>.
+
+### Overfitting, Underfitting, and Optimal Fitting
+
+*   **Optimally Fit Trading System**: One that preferentially responds to signals in price data and not to noise <a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a>. This provides confidence that future signals will be exploited <a class="yt-timestamp" data-t="00:42:43">[00:42:43]</a>.
+*   **Overfit Trading System**: This extracts both signal and noise from price series because it responds to any price patterns that lead to profitable outcomes, including those based purely on luck <a class="yt-timestamp" data-t="00:42:56">[00:42:56]</a>. This is a common problem in data mining processes where the system trains itself to noise and signal to meet predefined objectives (e.g., minimum CAGR, maximum drawdown) <a class="yt-timestamp" data-t="00:43:30">[00:43:30]</a>. Overfit systems tend to degrade quickly when applied to future, unseen price series because there is no enduring edge <a class="yt-timestamp" data-t="00:44:41">[00:44:41]</a>.
+*   **Underfit Trading System**: A model where the trading system fails to optimally extract the signal, leaving much of the signal unexploited <a class="yt-timestamp" data-t="00:45:01">[00:45:01]</a>. While inefficient, an underfit model is generally preferable to an overfit model when developing trend following systems, especially when targeting unique outliers <a class="yt-timestamp" data-t="00:45:28">[00:45:28]</a>. An overfit model tailored to historical trends might miss future trends if their nature changes <a class="yt-timestamp" data-t="00:46:21">[00:46:21]</a>.
+
+### Selection Bias
+
+[[Systematic investing strategies | Selection bias]] enters the trading process when choosing from competing alternatives <a class="yt-timestamp" data-t="00:48:55">[00:48:55]</a>. If, for instance, a trader selects the best-performing model from several alternatives, that model might be performing well due to chance (trading random noise) rather than exploiting a real, causative driver in the price series <a class="yt-timestamp" data-t="00:51:38">[00:51:38]</a>. This bias is unavoidable because models must be selected, but it's crucial to be aware of it <a class="yt-timestamp" data-t="00:51:03">[00:51:03]</a>.
+
+## Methods to Reduce Overfitting
+
+Unlike traditional methods (Monte Carlo, walk forward analysis) that may not be appropriate for the sporadic nature of trends, several principles can help reduce overfitting in trend following:
+
+1.  **Design-First Logic**: This involves applying "golden rules" defined by logic, not statistics, to create a system capable of exploiting the desired edge (e.g., "cut losses short, let profits run") <a class="yt-timestamp" data-t="00:55:20">[00:55:20]</a>. This approach immediately eliminates the chance of overfitting from the iteration process <a class="yt-timestamp" data-t="00:56:38">[00:56:38]</a>.
+2.  **Simple Models with Few Parameters**: Also known as "loose pants models," these are less over-optimized to historical data <a class="yt-timestamp" data-t="00:58:21">[00:58:21]</a>. They can capture opportunities from a greater variation in possible trend forms, allowing for a larger sample size of exploitable signals <a class="yt-timestamp" data-t="00:58:40">[00:58:40]</a>. More precise models with more parameters tend to be prescriptive and overfit to a particular form of signal, missing alternative patterns <a class="yt-timestamp" data-t="00:59:32">[00:59:32]</a>.
+3.  **Visual Mapping Process**: Instead of relying solely on statistical metrics (e.g., best Sharpe ratio, CAGR), visually map the trade outcomes (equity curve) against the price data time series <a class="yt-timestamp" data-t="01:01:02">[01:01:02]</a>. This allows direct observation of how the equity curve responds to trending periods versus non-trending (noisy) periods <a class="yt-timestamp" data-t="01:01:55">[01:01:55]</a>. If the equity curve rises during non-trending periods, it indicates overfitting <a class="yt-timestamp" data-t="01:02:34">[01:02:34]</a>. This method helps select models that are least overfit and correlate with the intended design logic <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>.
+4.  **Multi-Market Testing**: Apply a single [[systematic_trading_strategies | trend following model]] across all markets in a diversified portfolio, assuming universal applicability <a class="yt-timestamp" data-t="01:03:54">[01:03:54]</a>. This significantly increases the sample size for analysis, which is crucial given the low number of outlier trades in a single market's history <a class="yt-timestamp" data-t="01:04:21">[01:04:21]</a>. This approach eliminates overfitting to a single market and maximizes fitting to the characteristics of multiple markets <a class="yt-timestamp" data-t="01:05:07">[01:05:07]</a>.
+5.  **Use All Data**: Avoid separating data into in-sample and out-of-sample sets. Using all available data for backtesting is preferred <a class="yt-timestamp" data-t="01:06:11">[01:06:11]</a>. Robustness in [[systematic_investment_strategies | systematic investment strategies]] is less about sample size and more about exposing the model to a variety of different market regimes <a class="yt-timestamp" data-t="01:06:57">[01:06:57]</a>.
+
+## Challenges and Misconceptions
+
+Despite the principles of simplicity, [[systematic_investing_and_trend_following | systematic investing and trend following]] is not easy <a class="yt-timestamp" data-t="01:09:37">[01:09:37]</a>. There are many moving parts, including data handling, rule application, and parameter selections <a class="yt-timestamp" data-t="01:08:06">[01:08:06]</a>. The belief that it is simple, often seen on social media or in some publications, can be misleading and lead to underestimation of the expertise required <a class="yt-timestamp" data-t="01:09:51">[01:09:51]</a>. Successful firms in this space have employed smart and extraordinarily talented people in research and execution for decades to deliver above-average returns <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>. The data supports that it is one of the most robust investment strategies available <a class="yt-timestamp" data-t="01:13:10">[01:13:10]</a>.
+
+### Position Sizing in Systematic Investing
+
+One aspect of [[systematic_trading_systems | systematic trading systems]] is [[position_sizing_in_systematic_investing | position sizing]]. One approach involves adopting a set dollar risk per trade, for example, 0.5% of the realized equity balance <a class="yt-timestamp" data-t="01:33:51">[01:33:51]</a>. Stops are then defined using an Average True Range (ATR) with a multiple (e.g., 4-5 times a 25-day ATR) <a class="yt-timestamp" data-t="01:14:01">[01:14:01]</a>. This defines the position size, ensuring a known dollar risk at entry <a class="yt-timestamp" data-t="01:14:30">[01:14:30]</a>. A trailing stop, potentially with a looser multiple (e.g., 5 ATR), is then adopted to allow profit to run <a class="yt-timestamp" data-t="01:14:50">[01:14:50]</a>.
