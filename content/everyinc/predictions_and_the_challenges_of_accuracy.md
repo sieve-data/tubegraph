@@ -1,0 +1,40 @@
+---
+title: Predictions and the challenges of accuracy
+videoId: E-gXcRh4HVk
+---
+
+From: [[everyinc]] <br/> 
+
+Making predictions about the future is easy, but making predictions that prove true is exceptionally difficult <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>, <a class="yt-timestamp" data-t="00:46:45">[00:46:45]</a>. Over decades of observing technological waves, patterns emerge in what leads to accurate or inaccurate forecasts.
+
+## Past Misjudgments and Surprises
+
+### Virtual Reality (VR)
+Virtual Reality (VR) technology, as demonstrated by Jaron Lanier in 1987, was initially seen as the future <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:44:12">[00:44:12]</a>. Despite the early excitement, the VR available today is not fundamentally different from what existed decades ago, though the cost has dropped from multi-million dollars to $100 <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>, <a class="yt-timestamp" data-t="00:44:27">[00:44:27]</a>, <a class="yt-timestamp" data-t="00:44:46">[00:44:46]</a>. The slow adoption of VR has been surprising, with the technology still awaiting its "LLM moment" – a breakthrough similar to what [[large_language_models_for_scientific_prediction | Large Language Models]] experienced <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>, <a class="yt-timestamp" data-t="00:45:06">[00:45:06]</a>, <a class="yt-timestamp" data-t="00:49:22">[00:49:22]</a>.
+
+The slow progress in VR is attributed to its significant biological and hardware challenges, such as the weight of head-mounted devices and the need for eye focus <a class="yt-timestamp" data-t="00:47:19">[00:47:19]</a>, <a class="yt-timestamp" data-t="00:47:30">[00:47:30]</a>. These physical constraints make development inherently slower compared to purely mental or software-based advancements <a class="yt-timestamp" data-t="00:47:41">[00:47:41]</a>, <a class="yt-timestamp" data-t="00:47:48">[00:47:48]</a>.
+
+### eBay
+A similar misjudgment occurred with eBay. Initially, the platform's core appeal was perceived to be its auction feature, but many users, including those who frequently use the platform, do not engage with the auction format <a class="yt-timestamp" data-t="00:50:35">[00:50:35]</a>, <a class="yt-timestamp" data-t="00:50:41">[00:50:41]</a>, <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>, <a class="yt-timestamp" data-t="00:51:27">[00:51:27]</a>. Its success stemmed from its utility as a marketplace for obscure or out-of-stock items, moving beyond the auction-centric prediction <a class="yt-timestamp" data-t="00:51:40">[00:51:40]</a>, <a class="yt-timestamp" data-t="00:52:16">[00:52:16]</a>.
+
+### Blockchain and Bitcoin
+Early predictions for Bitcoin and blockchain technology also missed the mark <a class="yt-timestamp" data-t="00:45:39">[00:45:39]</a>. While an early observer of blockchain, Bitcoin's primary role as a store of value was not foreseen, nor was the unexpected expense of transaction processing <a class="yt-timestamp" data-t="00:45:51">[00:45:51]</a>, <a class="yt-timestamp" data-t="00:46:00">[00:46:00]</a>. The expectation that blockchain would be used for non-financial applications was also largely unmet, as it became "completely overwhelmed by the amount of money in it" <a class="yt-timestamp" data-t="00:46:22">[00:46:22]</a>, <a class="yt-timestamp" data-t="00:46:28">[00:46:28]</a>.
+
+## Lessons Learned: Physicality and Unexpected Breakthroughs
+
+One key lesson from VR's slower-than-expected progression is that technologies requiring significant biological or physical integration tend to evolve more slowly <a class="yt-timestamp" data-t="00:47:48">[00:47:48]</a>, <a class="yt-timestamp" data-t="00:48:24">[00:48:24]</a>. This principle suggests that the widespread arrival of robots, which demand efficient power and physical interaction, will take considerably longer than often anticipated <a class="yt-timestamp" data-t="00:47:52">[00:47:52]</a>, <a class="yt-timestamp" data-t="00:48:09">[00:48:09]</a>.
+
+## The Case of AI: A "50-Year Overnight Success"
+
+[[potential_future_developments_and_implications_of_ai_technologies | AI]] itself is described as a "50-year overnight success" <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>, <a class="yt-timestamp" data-t="00:50:18">[00:50:18]</a>. It experienced a period of slow development before a rapid acceleration. The breakthrough in [[large_language_models_for_scientific_prediction | Large Language Models (LLMs)]], for instance, arose unexpectedly. They were initially developed for language translation, and the emergence of reasoning capabilities within them was a surprise <a class="yt-timestamp" data-t="00:49:44">[00:49:44]</a>, <a class="yt-timestamp" data-t="00:49:52">[00:49:52]</a>. This highlights that key technological advancements may originate from unforeseen areas.
+
+## The Future of Intelligence and AI
+
+Current theories suggest that intelligence may not be a single element but a complex compound of different cognitive elements, many of which are yet to be identified <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>, <a class="yt-timestamp" data-t="00:19:55">[00:19:55]</a>. This idea, echoing Marvin Minsky's "society of mind," is supported by the "mixture of experts" approach already seen in AI, where different types of cognition are compounded <a class="yt-timestamp" data-t="00:22:33">[00:22:33]</a>, <a class="yt-timestamp" data-t="00:22:41">[00:22:41]</a>, <a class="yt-timestamp" data-t="00:22:46">[00:22:46]</a>. Humans' unique form of intelligence is likely an "edge species" in the vast possibility space of minds, and AI will create hundreds of other types of thinking, filling out this space <a class="yt-timestamp" data-t="00:20:42">[00:20:42]</a>, <a class="yt-timestamp" data-t="00:20:50">[00:20:50]</a>, <a class="yt-timestamp" data-t="00:21:16">[00:21:16]</a>.
+
+Similar to the early days of electricity, where its nature was poorly understood despite its use, humanity currently recognizes intelligence but doesn't fully "know" what it is <a class="yt-timestamp" data-t="00:16:32">[00:16:32]</a>, <a class="yt-timestamp" data-t="00:17:04">[00:17:04]</a>, <a class="yt-timestamp" data-t="00:18:36">[00:18:36]</a>, <a class="yt-timestamp" data-t="00:20:10">[00:20:10]</a>, <a class="yt-timestamp" data-t="00:22:20">[00:22:20]</a>. As AI advances, understanding how these new intelligences work may remain elusive precisely because they are different <a class="yt-timestamp" data-t="00:22:09">[00:22:09]</a>.
+
+### Emotional Bonding with AI
+A significant prediction for the future of AI is the strong emotional bonding people will form with these technologies as emotions are integrated into AI systems <a class="yt-timestamp" data-t="00:40:41">[00:40:41]</a>, <a class="yt-timestamp" data-t="00:40:49">[00:40:49]</a>. AI companions or partners could function as therapists or trusted confidants, leading to a high degree of dependence <a class="yt-timestamp" data-t="00:40:16">[00:40:16]</a>, <a class="yt-timestamp" data-t="00:40:26">[00:40:26]</a>, <a class="yt-timestamp" data-t="00:40:57">[00:40:57]</a>. Recent developments, such as OpenAI's memory system for ChatGPT that automatically accesses past chat history to "know" the user, are expected to deepen this emotional attachment <a class="yt-timestamp" data-t="00:41:14">[00:41:14]</a>, <a class="yt-timestamp" data-t="00:41:33">[00:41:33]</a>, <a class="yt-timestamp" data-t="00:42:00">[00:42:00]</a>.
+
+Overall, the history of technological waves, particularly VR, eBay, and blockchain, underscores the consistent challenge in accurately predicting the future. Breakthroughs can be slow or emerge in unexpected ways, and the core utility of a technology may differ vastly from initial perceptions.

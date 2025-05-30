@@ -1,0 +1,17 @@
+---
+title: Impact of AI on traditional filmmaking
+videoId: TEpJyjAUKTw
+---
+
+From: [[everyinc]] <br/> 
+
+The emergence of [[ai_in_filmmaking | AI tools]] has generated significant backlash within the traditional filmmaking community, raising concerns about who will be able to make films, what types of films will be produced, and issues of compensation <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. Despite these worries, some view [[ai_in_filmmaking | AI]] as a transformative opportunity for creators.
+
+## Expanding Access and Opportunities
+The decision to embrace [[ai_in_filmmaking | AI]] for some filmmakers stems from necessity and the recognition of a new avenue for creation <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. [[ai_in_filmmaking | AI]] offers [[opportunities_created_by_ai_for_diverse_filmmakers | opportunities for diverse filmmakers]] and storytellers who might not otherwise have the chance to create <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. This includes individuals from underrepresented backgrounds, such as a white kid from Arkansas without industry connections or a Black kid from the inner city <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. The argument is that everyone now has a chance to create something incredible <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+## Addressing Concerns: AI vs. CGI
+The conversation around [[ai_in_filmmaking | AI]] in film often addresses fears of actors being replaced, particularly through digital doubles <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. Discussions with organizations like SAG directly address these concerns, drawing a [[comparison_of_ai_and_cgi_in_filmmaking | comparison between AI and CGI]] <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. It is suggested that [[ai_in_filmmaking | AI]] will be utilized similarly to CGI, for tasks such as creating large stadium crowds or digital doubles, with the crucial understanding that such use will require consent and fair compensation for likeness <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>.
+
+## Reduced Barriers to Entry
+One of the most significant impacts of [[ai_in_filmmaking | AI]] is the dramatic reduction in the cost and skill level required to begin making videos <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. This parallels the way [[ai_in_filmmaking | AI]] has expanded the pool of people able to create software <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. While building a compelling film still requires skill, the financial barrier to creating a small video clip has gone down tremendously <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. For many, if [[ai_in_filmmaking | AI filmmaking]] tools had been available earlier, they might have pursued filmmaking instead of other fields, such as software development, due to the high costs and specialized skills previously needed to make even a basic animated movie <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a>. This new accessibility means that anyone can now potentially make a movie without requiring significant financial investment <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.

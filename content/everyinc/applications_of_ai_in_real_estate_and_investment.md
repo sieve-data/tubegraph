@@ -1,0 +1,50 @@
+---
+title: Applications of AI in real estate and investment
+videoId: SOxYgUIVq6g
+---
+
+From: [[everyinc]] <br/> 
+
+Sahil Lavingia, founder and CEO of Gumroad and an active investor, extensively uses AI, particularly ChatGPT, in his real estate and investment endeavors. He views ChatGPT as the most important creative tool of the decade, believing it significantly enhances research, decision-making, and the quality of output across various domains, including real estate and investment <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+## Enhanced Research and Due Diligence
+AI tools drastically reduce the time and effort traditionally required for thorough research, enabling users to investigate ideas that would normally take months or weeks <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. Sahil uses ChatGPT on the go, whether on the subway or during a walk, to queue up serial research processes <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>.
+
+Key research applications include:
+*   **Fact-checking** <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+*   **Background checks on previous property owners** <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+*   **Investigating the history of usage for certain buildings** <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>.
+*   **Understanding zoning requirements** <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>.
+*   **Accessing obscure information**: For example, asking about the construction material of a specific building like '58 Bowery' to impress real estate professionals <a class="yt-timestamp" data-t="00:08:32">[00:08:32]</a>. This kind of information might otherwise take 15 hours to find in a PDF <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>.
+*   **Historical context**: Researching the origin and development of areas, like the first roads in downtown Brooklyn, to understand underlying "network effects" that influence long-term value <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>. This allows users to access specific historical details that might otherwise require reading a 400-page book <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>.
+*   **Legal and regulatory research**: Identifying specific rules or titles, such as "Rule Title 63," related to property renovations, which would ordinarily require extensive research or consultations with expensive experts <a class="yt-timestamp" data-t="00:45:10">[00:45:10]</a>.
+
+## Visualizing Potential Investments
+AI tools like DALL-E (often integrated with ChatGPT) can help visualize the interior and potential "vibes" of a property, even before committing to a full design <a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a> <a class="yt-timestamp" data-t="00:21:25">[00:21:25]</a>. By providing an image or description, the AI can generate prompt ideas for different design concepts, allowing for a rapid first draft of various possibilities <a class="yt-timestamp" data-t="00:22:14">[00:22:14]</a> <a class="yt-timestamp" data-t="00:23:45">[00:23:45]</a>. This helps in communicating ideas to architects or artists without needing deep expertise in design or perspective <a class="yt-timestamp" data-t="00:24:02">[00:24:02]</a>.
+
+## Impact on Investment Decisions
+[[the_impact_of_ai_on_business_models_and_investment | AI significantly impacts investment decisions]] by allowing founders and investors to conduct substantial research rapidly, even in a weekend <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. This raises the bar for the quality of pitch decks and proposals, as AI can generate comprehensive and detailed presentations that were previously unimaginable <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>.
+
+> "The bar that a found like a Founder can do so much research in a weekend that like when they come to me like the like for example before now like right now for example I'm like buy I'm thinking about buying a building in New York City and that's that's a it's a thought that I have but the amount of sort of research that I can do fact checking on Lots uh background checks on previous Property Owners the history of of usage for certain buildings zoning requirements I can visualize what it looks like and it's just the like in you know the the sort of pitch deck that I would be able to create to you know to raise let's say any amount of money to do this like the bar for what that needs to be now is like it's literally like before like three years ago it would be like and I still get these by the way because you go to Loop net you can find like the pitches for these buildings right and it's just like seven photos taken with like a Canon and some text and like there like there's just no and I I I think the you won't see the impact in a lot of things but I think in the top 1% right top 1% of movies the top 1% of hotels like I built like the top 1% of all products will be so much more thought through" <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>
+
+### Strategic Filtering of Ideas
+One of the most valuable [[using_ai_for_business_and_decision_making | applications of AI in business and decision making]] is its ability to quickly filter out bad ideas <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>. Instead of keeping a long to-do list of potential projects, AI allows for rapid "zeroing in" on whether an idea is worth pursuing, reducing wasted time on unviable ventures <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>. By quickly examining an idea at a decent level, users can realize it's not good, allowing them to focus on what truly matters <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
+
+> "The reason I don't have a to-do list is because I like don't have that many good ideas but I think a lot of people like they sort of delude themselves and thinking they have like all of these things and and they're like they're on the back burner right and they just have to figure out like how to make the time and this and this and like but the truth is like if you actually examine the idea like at a pretty decent level you realize it's actually not that good so I think that is one of the most useful things about it is it focuses your research on like what actually matters" <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>
+
+This rapid evaluation process is akin to high-risk investing, where out of a thousand potential buildings, only one might be the truly valuable investment <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>. AI helps narrow down options by allowing users to explore many possibilities quickly and abandon those that don't hold up <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>.
+
+### Poking Holes in a Thesis
+AI can be used to challenge one's own ideas or hypotheses <a class="yt-timestamp" data-t="00:17:42">[00:17:42]</a>. Users can tell the AI their idea and ask it to "poke holes" in it, providing an objective critique <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>. This helps in [[using_ai_for_business and decision making | making more rational decisions]] and identifying personal biases <a class="yt-timestamp" data-t="00:33:22">[00:33:22]</a>. If an idea relies on a specific example, and the AI cannot generate diverse or compelling additional examples, it might signal that the underlying mental model is flawed and should be discarded <a class="yt-timestamp" data-t="00:33:45">[00:33:45]</a>.
+
+## Streamlining Industry Interactions
+AI helps individuals "show up to a meeting" with a much deeper understanding of a topic, such as architecture, making them appear highly knowledgeable <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>. This allows for more nuanced and advanced conversations from the first interaction with professionals like real estate developers, construction managers, or general contractors, speeding up the project development process <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
+
+## Implications for Business Structure
+[[the_impact_of_ai_on_business_models_and_investment | AI reduces the need for as many roles within a company]]. If a task that once took 40 hours a week now takes 5 hours, these roles can be bundled or handled by fewer people, often the CEO or founding team <a class="yt-timestamp" data-t="00:37:34">[00:37:34]</a>. This allows companies, like Gumroad, to achieve more with a smaller team <a class="yt-timestamp" data-t="00:37:59">[00:37:59]</a>. AI also empowers every team member to act more like a project manager (PM) by answering their own questions related to design, engineering, or even complex financial concepts like stock options, leading to better collective decision-making <a class="yt-timestamp" data-t="00:31:41">[00:31:41]</a> <a class="yt-timestamp" data-t="00:32:17">[00:32:17]</a>.
+
+### Future Outlook
+AI is expected to lead to higher quality products and services across all industries, from movies to hotels, as the top 1% of offerings will be significantly more "thought through" <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. This extends to supply chain and sourcing, where AI agents could scour the internet to find better quality suppliers for materials at cheaper prices, a capability currently largely limited to trillion-dollar companies like Apple <a class="yt-timestamp" data-t="00:27:32">[00:27:32]</a>. The overall [[the_impact_of_ai_on_business_models_and_investment | impact of AI]] may not always be directly visible, but it will improve the quality of decisions and processes that shape the world around us <a class="yt-timestamp" data-t="00:27:16">[00:27:16]</a>.
+
+> [!NOTE]
+> AI's current limitation: While excellent for generating ideas and providing information, AI cannot currently create models bound by physical reality (e.g., 3D models with precise dimensions) <a class="yt-timestamp" data-t="00:25:11">[00:25:11]</a>. It can provide a "thumbnail" of code, but the final, perfect build still requires human expertise <a class="yt-timestamp" data-t="00:25:36">[00:25:36]</a>.

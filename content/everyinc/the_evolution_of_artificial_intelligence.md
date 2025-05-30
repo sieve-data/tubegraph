@@ -1,0 +1,45 @@
+---
+title: The evolution of artificial intelligence
+videoId: E-gXcRh4HVk
+---
+
+From: [[everyinc]] <br/> 
+
+The development and understanding of [[the_evolution_of_ai_in_software_engineering | artificial intelligence]] (AI) can be likened to past technological breakthroughs, such as the discovery of electricity, and the slow, unpredictable adoption of technologies like Virtual Reality (VR) <a class="yt-timestamp" data-t="00:16:20">[00:16:20]</a>.
+
+## Historical Parallels and Predictive Challenges
+
+It is easy to make predictions about the future, but difficult to make accurate ones <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
+
+### VR as a Precedent
+Virtual Reality (VR) was first demonstrated by Jaron Lanier in 1987 <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. The VR technology available back then is not drastically different from what is available today, aside from the cost: multi-million dollars then, versus $100 now <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. Despite the technological foundation existing for decades, VR's adoption has been surprisingly slow <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>, with some suggesting it is still "waiting for its LLM moment" <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>. This contrasts with [[the_evolution_of_ai_in_software_engineering | AI]], which is described as a "50-year overnight success" <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>, accelerating rapidly after decades of slower progress <a class="yt-timestamp" data-t="00:48:49">[00:48:49]</a>.
+
+### The Electricity Analogy for Intelligence
+Currently, humanity has "no idea what intelligence is," remaining as ignorant of it as Isaac Newton was of electricity when it was first encountered <a class="yt-timestamp" data-t="00:16:32">[00:16:32]</a>. Newton, despite his genius, held incorrect "weird ideas" about electricity, such as believing it was an element like "phlogiston" or an "ether" <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>, <a class="yt-timestamp" data-t="00:17:04">[00:17:04]</a>. Early theories also suggested electricity was primarily a biological phenomenon <a class="yt-timestamp" data-t="00:18:24">[00:18:24]</a>.
+
+These historical parallels lead to the suspicion that intelligence is not an element but a "compound," made up of a complex of different cognitive elements that have not yet been identified <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>. Just as salt was discovered to be a compound rather than an element, current [[the_evolution_of_ai_in_software_engineering | AI]] might be akin to making "some kind of salt" without fully understanding its fundamental components <a class="yt-timestamp" data-t="00:19:01">[00:19:01]</a>. While humans can recognize intelligence, knowing what it fundamentally *is* remains elusive <a class="yt-timestamp" data-t="00:19:51">[00:19:51]</a>.
+
+> "Our brains are incredibly opaque to introspection... I think we humans have a very peculiar complex of things that if we map it out in the possibility space of all possible minds which is a very high-dimensional space that we're going to be our compound is way at the edge. We're an edge species. We're not at the center of anything the galaxy or the solar system or evolution. We are an edge. our kind of intelligence will be revealed to be a very peculiar mixture that's evolved for us." <a class="yt-timestamp" data-t="00:20:17">[00:20:17]</a>
+
+The [[future_of_ai_and_agi_development | development of AI]] is expected to create "hundreds of various other kinds" of intelligence, filling out the possibility space with many types of thinking <a class="yt-timestamp" data-t="00:21:19">[00:21:19]</a>. This concept aligns with Marvin Minsky's "society of mind" and the modern [[challenges_in_creating_general_purpose_ai | AI]] approach of "mixture of experts," where different kinds of cognition are combined into compounds <a class="yt-timestamp" data-t="00:22:33">[00:22:33]</a>. The "chemistry of identifying what some of the basic cognitive units are or the cognitive elements" has not yet been done, but is beginning to be explored <a class="yt-timestamp" data-t="00:23:14">[00:23:14]</a>.
+
+## The Impact of AI on Human Interaction and Creativity
+
+### [[the_future_of_ai_and_human_interaction | AI]] as a Creative Partner
+[[the_evolution_of_ai_consumer_products_and_network_effects | AI]] is transforming creative work by putting users into an "editing mode" much quicker <a class="yt-timestamp" data-t="00:32:21">[00:32:21]</a>. It helps overcome the initial hurdle of putting something on the page and assists in organizing thoughts, which is beneficial for those who are more "gardeners" than "architects" in their creative process <a class="yt-timestamp" data-t="00:32:28">[00:32:28]</a>. Current models like OpenAI are used for both initial generation and deep research <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a>, <a class="yt-timestamp" data-t="00:33:43">[00:33:43]</a>.
+
+An example of [[the_future_of_ai_and_human_interaction | AI]] as a creative partner involves using it for world-building: imagining a conversation between historical figures like Leonardo da Vinci, Martin Luther, and Christopher Columbus, then developing a collaborative project for them (e.g., founding a new city based on science and religious freedom), and subsequently generating stories, characters, and even marketing materials for it <a class="yt-timestamp" data-t="00:34:52">[00:34:52]</a>. This process of co-creation, even without an external audience, provides intrinsic enjoyment <a class="yt-timestamp" data-t="00:37:02">[00:37:02]</a>. Many [[evolution_of_ai_consumer_products_and_network_effects | AI-generated]] images and creative works are for an "audience of one," providing pleasure to the co-creator rather than serving an economic model <a class="yt-timestamp" data-t="00:37:25">[00:37:25]</a>. This could be a new form of entertainment, self-expression, or relaxation, akin to Sunday painting or keeping a journal <a class="yt-timestamp" data-t="00:38:42">[00:38:42]</a>.
+
+### Emotional Bonding and Memory
+[[the_future_of_ai_and_human_interaction | AI]] is expected to foster "emotional bonding" as emotions are integrated into [[the_evolution_of_ai_consumer_products_and_network_effects | AI]] <a class="yt-timestamp" data-t="00:40:43">[00:40:43]</a>. People may become very close to and dependent on "AI companions, AI buddies, AI partners" <a class="yt-timestamp" data-t="00:40:26">[00:40:26]</a>.
+
+OpenAI's new memory system for ChatGPT, which automatically accesses relevant past chat history, enhances this personal connection <a class="yt-timestamp" data-t="00:41:14">[00:41:14]</a>. The ability of the [[the_evolution_of_ai_consumer_products_and_network_effects | AI]] to recall information about the user fosters a feeling that "it knows me," increasing attachment <a class="yt-timestamp" data-t="00:42:00">[00:42:00]</a>.
+
+### Public Co-creation
+Tools like Midjourney, used for [[the_evolution_of_ai_consumer_products_and_network_effects | AI-generated]] images, benefit from a public aspect where users can see and learn from each other's prompts, accelerating the learning curve <a class="yt-timestamp" data-t="00:42:52">[00:42:52]</a>.
+
+## Lessons from Past Waves
+
+Reflecting on past technological waves, one learns that it's "easy to make predictions and hard to make predictions that are true" <a class="yt-timestamp" data-t="00:46:45">[00:46:45]</a>. Failures in prediction include underestimating the utility of platforms like eBay (initially focusing too much on auctions) <a class="yt-timestamp" data-t="00:45:25">[00:45:25]</a>, and misjudging the primary application of blockchain, expecting it to be used for non-financial purposes more than it has been <a class="yt-timestamp" data-t="00:45:39">[00:45:39]</a>.
+
+The slow progress of VR, despite early promise, is attributed to its reliance on "biology" and "hardware biology," which inherently slow down development <a class="yt-timestamp" data-t="00:47:19">[00:47:19]</a>. This suggests that technologies requiring significant physical or biological integration, such as robotics, will take "a lot lot lot longer" to develop than expected due to the massive power and efficiency gaps compared to biological systems <a class="yt-timestamp" data-t="00:47:48">[00:47:48]</a>. In contrast, [[the_evolution_of_ai_in_software_engineering | AI]] experienced a "sudden" breakthrough after 50 years of development, particularly around 2010 with glimmers of hope, leading to significant advancements like ChatGPT <a class="yt-timestamp" data-t="00:48:49">[00:48:49]</a>. This "LLM moment" in [[the_evolution_of_ai_in_software_engineering | AI]] came unexpectedly from breakthroughs in language translation leading to reasoning capabilities <a class="yt-timestamp" data-t="00:49:41">[00:49:41]</a>.

@@ -1,0 +1,28 @@
+---
+title: Challenges of introducing international dishes in the US
+videoId: qMFoR682bIE
+---
+
+From: [[everyinc]] <br/> 
+
+Introducing international dishes like [[introduction_to_cow_soy | Cow Soy]] to the US market presents several significant challenges, primarily related to ingredient sourcing and market demand.
+
+## Ingredient Sourcing and Quality
+One of the primary difficulties in replicating authentic international dishes is the availability and freshness of ingredients in the US <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. For instance, the quality of Pho in Vietnam is significantly better due to locally sourced, fresher ingredients like basil and spices <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>, <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. Similarly, for [[introduction_to_cow_soy | Cow Soy]], a key challenge is making the curry paste <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>, and ensuring fresh ingredients like lemongrass are available without prohibitive costs <a class="yt-timestamp" data-t="00:01:36">[00:01:36]</a>. While possible to make these dishes well in the US, it is inherently difficult due to these logistical and operational constraints <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>, <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+
+## Market Demand and Research
+Understanding the potential market for an international dish in the US involves analyzing search volume and consumer intent.
+
+### Search Volume and Intent
+When assessing a dish like [[introduction_to_cow_soy | Cow Soy]], Google searches can indicate existing interest. "[[introduction_to_cow_soy | Cow Soy]]" sees about 110,000 searches per month, with most users looking for recipes <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>, <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>, <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>. While this volume is "not low," it's not in the millions, placing it in a medium-sized market <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>, <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>, <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>. Searches for "[[introduction_to_cow_soy | Cow Soy]] near me" are lower, at 5,400 per month, but are increasing <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>, <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>.
+
+### Trend Analysis
+Looking at trends, like with Edamame, shows that it can take a long time (since 2003 for Edamame) for a new food item to gain widespread familiarity and continuous growth <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>, <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. The trending-up chart for [[introduction_to_cow_soy | Cow Soy]] suggests it could become the "next bone broth" <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>, indicating potential future demand <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>, <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>.
+
+### Competition and Market Gaps
+Investigating existing competitors, such as companies selling [[introduction_to_cow_soy | Cow Soy]] seasoning mixes or vegetarian hot cups on Amazon <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>, <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>, helps gauge the market. Some products have low monthly revenue (e.g., $1,500) and very few reviews <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>, <a class="yt-timestamp" data-t="00:12:36">[00:12:36]</a>. Websites like Takeout Kit, which specializes in "Global Pantry meal kits," show relatively low traffic (10,000 views per month) and minimal paid search activity <a class="yt-timestamp" data-t="00:13:20">[00:13:20]</a>, <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>, <a class="yt-timestamp" data-t="00:13:52">[00:13:52]</a>. This suggests that the current market might rely heavily on organic search or that paid acquisition isn't profitable <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>.
+
+### Marketing and Opportunity
+Despite current low search demand, there might be a "latent demand" for better Asian food in America <a class="yt-timestamp" data-t="00:15:19">[00:15:19]</a>, <a class="yt-timestamp" data-t="00:15:22">[00:15:22]</a>. Success could depend on strong branding and operational strategies, such as creating a direct-to-consumer (DTC) model <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>, <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>, <a class="yt-timestamp" data-t="00:04:08">[00:04:08]</a>. Since search demand is not currently high, an effective marketing strategy might focus on social media to build a differentiated product and brand <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>, <a class="yt-timestamp" data-t="00:15:41">[00:15:41]</a>, <a class="yt-timestamp" data-t="00:15:43">[00:15:43]</a>. This aligns with [[challenges_and_strategies_in_marketing_and_storytelling | challenges and strategies in marketing and storytelling]] for new products. This also reflects [[challenges_and_opportunities_in_technology_innovation | challenges and opportunities in technology innovation]] within the food industry.
+
+Ultimately, while current data might not show overwhelming demand, the "[[introduction_to_cow_soy | Cow Soy]]" trend suggests it's likely to grow over time, presenting a potential opportunity for future market entry <a class="yt-timestamp" data-t="00:16:23">[00:16:23]</a>, <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a>, <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>.

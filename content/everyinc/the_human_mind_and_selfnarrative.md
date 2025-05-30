@@ -1,0 +1,50 @@
+---
+title: The human mind and selfnarrative
+videoId: HdU1XDXN7nQ
+---
+
+From: [[everyinc]] <br/> 
+
+The nature of the [[human_identity_and_language | human sense of self]], particularly the inner voice or self-narrative, is explored, questioning its innate quality and fundamental role in what it means to be human <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. This inquiry extends to the capabilities of artificial intelligence, suggesting that if humanity's perceived uniqueness is less special than commonly believed, then the gap between human and artificial intelligence might be narrower than anticipated <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>.
+
+## Jhana Meditation and the Quieting of the Mind
+Nadia, a writer and researcher, describes her experience with Jhana meditation, a style of concentrative meditation <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. Unlike mindfulness meditation, which aims for non-reactive awareness <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>, Jhana meditation involves intense focus on a pleasant feeling or object <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. This deep concentration can lead to states of extreme euphoria, comparable to experiences reported from psychedelics <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>, and eventually to more peaceful or dissociative feelings <a class="yt-timestamp" data-t="00:13:14">[00:13:14]</a>.
+
+A key aspect of this practice is "progressively letting go"—of attachments, negative feelings, and experiences—until one reaches a state of non-consciousness <a class="yt-timestamp" data-t="00:13:27">[00:13:27]</a>. Researchers have studied "sensation events" where meditators can voluntarily "wink out their consciousness," similar to a coma or general anesthesia <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. Nadia personally experienced this cessation, finding it a "wild experience" that prompted deeper questions about the nature of reality <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+### Effects on Self-Talk
+Nadia's meditation experience resulted in the reduction or complete disappearance of inner self-talk <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>. This quieting of the constant evaluative and analytical layer of the brain demonstrated that this inner monologue is not strictly necessary for a human being to function, love, or work effectively <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. Despite the absence of this inner voice, Nadia felt "still human" and "still me," suggesting that the self is not solely defined by this internal narration <a class="yt-timestamp" data-t="00:19:32">[00:19:32]</a>. She found it easier to execute tasks without constantly second-guessing herself <a class="yt-timestamp" data-t="00:19:44">[00:19:44]</a>.
+
+This state of well-being is correlated with quieting brain regions that tend to ruminate and obsess, which are otherwise linked to cognitive disorders like ADHD, OCD, depression, and anxiety <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>.
+
+## Historical and Technological Perspectives on the Self
+The concept of self-narrative is not static; it has evolved significantly over human history, often influenced by [[the_evolution_and_influence_of_technology_on_the_human_sense_of_self | technology]] <a class="yt-timestamp" data-t="00:24:06">[00:24:06]</a>.
+
+*   **Julian Jaynes's Bicameral Mind Theory**: This theory posits that the kind of self-talk and self-narrative considered fundamental to the human experience only began a few thousand years ago <a class="yt-timestamp" data-t="00:20:18">[00:20:18]</a>. Before this, inner voices were often attributed to external entities like gods <a class="yt-timestamp" data-t="00:20:55">[00:20:55]</a>.
+*   **The Renaissance**: Marked an inflection point, with figures like Shakespeare pioneering the use of monologues and soliloquies to depict characters' inner thoughts, a relatively new concept <a class="yt-timestamp" data-t="00:21:11">[00:21:11]</a>.
+*   **The Industrial Revolution**: Saw the rise of psychoanalysis and increased interest in understanding consciousness <a class="yt-timestamp" data-t="00:21:26">[00:21:26]</a>. William James's writings on consciousness further highlighted this recognition of an internal mental world <a class="yt-timestamp" data-t="00:21:32">[00:21:32]</a>.
+*   **The Digital Revolution**: Coincided with a resurgence of interest in psychedelics and the conscious mind, suggesting an intertwined relationship between technological development and humanity's understanding of itself <a class="yt-timestamp" data-t="00:21:43">[00:21:43]</a>.
+*   **Literacy**: Living in a literate society demonstrably changes the brain, affecting how reality is processed. Literate brains are more likely to abstract figures from a scene, while non-literate brains perceive scenes more holistically, focusing on interconnections <a class="yt-timestamp" data-t="00:24:15">[00:24:15]</a>. Most scientific conclusions about humans are derived from the study of literate brains, a small percentage of all humans who have ever lived <a class="yt-timestamp" data-t="00:25:01">[00:25:01]</a>.
+
+These [[historical_perspectives_on_human_intellect | historical perspectives on human intellect]] suggest that the notion of a self-centered identity with a constantly narrating inner voice is not an inherent or unchanging aspect of being human <a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>.
+
+## The Fluidity of Self and Mental Health
+The discussion extends to mental health, noting that the effects of successful meditation practice can be similar to those of antidepressants: quieting mental chatter and enabling action without overthinking <a class="yt-timestamp" data-t="00:26:07">[00:26:07]</a>. This raises the philosophical question of the "real self"—is it the self influenced by medication or meditation, or the self prior to these interventions? <a class="yt-timestamp" data-t="00:27:44">[00:27:44]</a>.
+
+Happiness, while universally sought, appears to have a relatively consistent "feeling of being at ease" across individuals, characterized by calmness and connection <a class="yt-timestamp" data-t="00:29:20">[00:29:20]</a>. In contrast, neuroses and challenges are unique to each individual <a class="yt-timestamp" data-t="00:30:01">[00:30:01]</a>. People often form a "Stockholm syndrome" relationship with their mental challenges, as these issues can shape personality traits and daily habits <a class="yt-timestamp" data-t="00:30:15">[00:30:15]</a>. Letting go of these ingrained traits, even when they stem from unresolved issues, can be difficult because they are intertwined with one's sense of identity <a class="yt-timestamp" data-t="00:30:39">[00:30:39]</a>.
+
+The path to well-being is highly individualized; what works for one person may not work for another <a class="yt-timestamp" data-t="00:32:02">[00:32:02]</a>. There is no single "simple explanation" or solution for complex mental states like depression or OCD <a class="yt-timestamp" data-t="00:32:25">[00:32:25]</a>.
+
+## AI and the Human Mind
+The changing understanding of [[the_impact_of_technology_on_consciousness_and_selfdiscovery | human consciousness]] and identity has implications for how we view artificial intelligence. Given that the human sense of self is fluid and less inherently "special" than we might assume, the question of whether large language models (LLMs) are conscious or intelligent becomes less about proving their human-like qualities and more about re-evaluating our own <a class="yt-timestamp" data-t="00:23:21">[00:23:21]</a>. LLMs might not be so different from humans of ancient times, who perhaps lacked the modern concept of an inner monologue <a class="yt-timestamp" data-t="00:23:30">[00:23:30]</a>.
+
+### Interacting with AI
+Nadia uses AI tools like ChatGPT daily as a thought partner, particularly in the early stages of messy idea formation and the final stages of refining language <a class="yt-timestamp" data-t="00:38:36">[00:38:36]</a>. This collaboration has transformed writing from a solitary, angsty process into a more connected one <a class="yt-timestamp" data-t="00:39:27">[00:39:27]</a>. She defaults to treating ChatGPT as a person rather than merely a tool, partly because of the unknown complexity of its inner workings, and partly out of a desire to choose a "more humane or dignified option" in interaction <a class="yt-timestamp" data-t="00:41:52">[00:41:52]</a>. This approach can also lead to better results, as providing more context helps the AI succeed <a class="yt-timestamp" data-t="00:48:05">[00:48:05]</a>.
+
+While AI can assist with deep research, such as literature reviews, Nadia finds that LLMs like ChatGPT are not yet fully reliable for factual accuracy in summarizing papers or identifying studies <a class="yt-timestamp" data-t="00:48:44">[00:48:44]</a>.
+
+### The Unknowable Nature of AI and Humans
+The current era of AI highlights that we don't fully understand how these complex systems work, and we must accept this unknowability <a class="yt-timestamp" data-t="00:34:00">[00:34:00]</a>. This mirrors the human experience, where scientific understanding of ourselves is not always perfectly knowable <a class="yt-timestamp" data-t="00:34:47">[00:34:47]</a>. The "squishiness" and undefined nature of both AI and human cognition make them more interesting <a class="yt-timestamp" data-t="00:34:57">[00:34:57]</a>.
+
+## Conclusion
+The dialogue suggests that our understanding of the self is fluid and has been shaped by cultural, historical, and technological factors. The ability to quiet the inner self-narrative through practices like meditation challenges long-held beliefs about what makes us human. This evolving understanding also reframes the conversation around AI, suggesting that humanity's unique qualities may be less absolute than traditionally perceived.

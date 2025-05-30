@@ -1,0 +1,68 @@
+---
+title: Venture capital investing strategies
+videoId: IsZh-nLyfBA
+---
+
+From: [[everyinc]] <br/> 
+
+Nihal Thadani, a partner at Spark Capital, approaches [[Venture capital decisionmaking and AI | venture capital decisionmaking]] with a distinct, non-prolific investment strategy, opting to make only a couple of investments per year <a class="yt-timestamp" data-t="01:52:43">[01:52:43]</a>. This contrasts with more common industry strategies, such as "spray and pray" or managing large "mega-funds" that aim to own a proxy of the entire market <a class="yt-timestamp" data-t="04:09:47">[04:09:47]</a>.
+
+## A Non-Prolific Investment Approach
+
+Thadani's strategy is rooted in his past experience as a founder <a class="yt-timestamp" data-t="01:58:19">[01:58:19]</a>. He found that many investors were "no ops" – they did no harm and were fine board members, but weren't deeply involved enough to provide nuanced feedback <a class="yt-timestamp" data-t="02:11:13">[02:11:13]</a>. Their involvement often didn't significantly alter the company's trajectory <a class="yt-timestamp" data-t="02:37:37">[02:37:37]</a>.
+
+Spark Capital collectively believes that there are no true startup playbooks, as every entrepreneurial journey is unique, with "all the devils in the details" <a class="yt-timestamp" data-t="02:49:09">[02:49:09]</a>. Thadani likens his investment capacity to a startup CEO managing direct reports; he aims to work closely with eight to ten companies, understanding everything they're doing <a class="yt-timestamp" data-t="03:07:07">[03:07:07]</a>. This approach prioritizes working with good people on interesting projects over being forced into a specific financial or business model <a class="yt-timestamp" data-t="03:34:04">[03:34:04]</a>.
+
+> "The whole point of this thing is risk, like accept the risk and like go do the work you want to do with good people that is interesting." <a class="yt-timestamp" data-t="04:31:60">[04:31:60]</a>
+
+This philosophy represents an "anachronistic" approach, mirroring how [[Venture capital decisionmaking and AI | venture capital]] operated decades ago when firms like Sequoia were much smaller and focused <a class="yt-timestamp" data-t="09:16:11">[09:16:11]</a>.
+
+## Navigating the Modern Venture Capital Ecosystem
+
+While the current ecosystem is dominated by gigantic mega-funds that view seed investing as a loss leader for larger growth rounds <a class="yt-timestamp" data-t="09:39:27">[09:39:27]</a>, Thadani emphasizes that Spark Capital remains a good citizen within this landscape, often co-investing with other firms <a class="yt-timestamp" data-t="10:01:46">[10:01:46]</a>. He views these larger firms as offering a "different product" <a class="yt-timestamp" data-t="10:20:47">[10:20:47]</a>. His main frustration arises when founders are misled about the product being offered; a firm investing "five times a month" from a $10 billion fund cannot offer more than a random phone call every four years <a class="yt-timestamp" data-t="11:01:03">[11:01:03]</a>. He respects firms like Founders Fund for being transparent about their transactional relationships <a class="yt-timestamp" data-t="11:19:04">[11:19:04]</a>.
+
+Spark Capital's value proposition is a different offering, appealing to founders who seek a close, engaged process and a strong "kismet" connection <a class="yt-timestamp" data-t="11:28:09">[11:28:09]</a>.
+
+## Identifying Innovation: The "Japanese Toilet" of AI
+
+Thadani categorizes innovation using Rory Sutherland's three types <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a> <a class="yt-timestamp" data-t="13:44:00">[13:44:00]</a>:
+1.  **Faster Horses:** Improving existing solutions (e.g., making a car faster) <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a> <a class="yt-timestamp" data-t="13:51:00">[13:51:00]</a>.
+2.  **Teleportation:** Desired but seemingly impossible innovations (e.g., a Mars colony) <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a> <a class="yt-timestamp" data-t="13:58:00">[13:58:00]</a>.
+3.  **Japanese Toilets:** Innovations you didn't know you needed until you experienced them, then you can't live without <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a> <a class="yt-timestamp" data-t="14:15:00">[14:15:00]</a>. These are often subtle in execution but provide entirely new experiences <a class="yt-timestamp" data-t="14:29:00">[14:29:00]</a>.
+
+Thadani actively seeks the "Japanese toilets of [[Impact of AI on venture capital decisionmaking | AI]]" <a class="yt-timestamp" data-t="00:16:00">[00:16:00]</a> <a class="yt-timestamp" data-t="14:40:00">[14:40:00]</a>. These are new experiences that surprise users with their utility <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a> <a class="yt-timestamp" data-t="15:10:00">[15:10:00]</a>. Many "Faster Horses" AI solutions, particularly in B2B SaaS, are being heavily funded but may be arbitraged out of existence within a few years <a class="yt-timestamp" data-t="14:46:00">[14:46:00]</a>.
+
+### Granola Investment
+Spark Capital's investment in Granola, an AI notetaker, exemplifies the "Japanese toilet" innovation <a class="yt-timestamp" data-t="11:41:00">[11:41:00]</a> <a class="yt-timestamp" data-t="14:31:00">[14:31:00]</a>. Thadani had known Granola's founder, Chris, for over a decade, having previously invested in his company, Socratic, which was part of a "previous [[Impact of AI on venture capital decisionmaking | AI]] generation" <a class="yt-timestamp" data-t="12:09:00">[12:09:00]</a>. Granola's initial prototype was "interruptive" and didn't quite hit the mark <a class="yt-timestamp" data-t="12:31:00">[12:31:00]</a>. However, when Chris stumbled upon the current version of Granola, Thadani recognized its unique product sense, describing it as "so intuitive" despite being the "50,000th AI notetaker" <a class="yt-timestamp" data-t="13:06:00">[13:06:00]</a> <a class="yt-timestamp" data-t="15:20:00">[15:20:00]</a>. Unlike other intrusive notetakers, Granola subtly appends information to existing notes, making the user smarter <a class="yt-timestamp" data-t="15:40:00">[15:40:00]</a>.
+
+Founders who create "Japanese toilet" products like Granola often demonstrate "sensitivity" – a deep listening to user behavior and an ability to make insightful product choices <a class="yt-timestamp" data-t="19:15:00">[19:15:00]</a>. They possess a "propensity to movement" combined with continuous listening, avoiding both paralysis by analysis and blind plowing through problems <a class="yt-timestamp" data-t="20:37:00">[20:37:00]</a>.
+
+### Wordware Investment
+Another investment, Wordware, also embodies this kind of innovation <a class="yt-timestamp" data-t="20:54:00">[20:54:00]</a>. Wordware's goal is to open up the idea that "everybody is a maker" <a class="yt-timestamp" data-t="22:36:00">[22:36:00]</a>. It begins with a blank document, inviting users to "write down in plain English... what you want built" <a class="yt-timestamp" data-t="29:02:00">[29:02:00]</a>. While currently slightly technical, Wordware aims to simplify the process of calling functions and building usable products, making it accessible to those who understand basic concepts like inputs and outputs, even if they aren't seasoned coders <a class="yt-timestamp" data-t="29:40:00">[29:40:00]</a> <a class="yt-timestamp" data-t="30:08:00">[30:08:00]</a>.
+
+## AI's Impact on Company Building and Workflows
+
+[[Impact of AI on venture capital decisionmaking | AI]] has significantly altered the landscape of company building, allowing for faster and more frequent creation <a class="yt-timestamp" data-t="32:30:00">[32:30:00]</a>. Thadani notes that he can build and manage projects (like a card game with his kids or a board game library) that would have been impossible to fit into his schedule before AI <a class="yt-timestamp" data-t="32:48:00">[32:48:00]</a>. AI streamlines everything from analyzing legal drafts to coding complex demand models for a retail space <a class="yt-timestamp" data-t="33:45:00">[33:45:00]</a> <a class="yt-timestamp" data-t="34:39:00">[34:39:00]</a>.
+
+### The Agentic Spectrum
+Thadani describes an "agentic spectrum" for [[prototyping_with_ai_in_venture_capital | AI]] coding agents <a class="yt-timestamp" data-t="24:28:00">[24:28:00]</a>. This spectrum is defined by "how long are they allowed to work before they ask for feedback" <a class="yt-timestamp" data-t="24:40:00">[24:40:00]</a>. Examples range from Microsoft Co-pilot, which finishes one line of code, to Devon, which attempts to run for four hours <a class="yt-timestamp" data-t="24:48:00">[24:48:00]</a>. The optimal "leash" length depends on the problem, internal evaluation capabilities, and the desired time frame (seconds, minutes, hours, or days) <a class="yt-timestamp" data-t="25:07:00">[25:07:00]</a>.
+
+This concept extends beyond coding; it suggests a new heuristic for [[Venture capital decisionmaking and AI | product innovation]] <a class="yt-timestamp" data-t="25:36:00">[25:36:00]</a>. Companies must constantly re-evaluate how they might disrupt their own startups, given the rapid advancements in AI models <a class="yt-timestamp" data-t="31:42:00">[31:42:00]</a>.
+
+### Craft vs. Art in the AI Age
+Thadani draws a parallel between AI's impact on business and Paula Scher's distinction between "art" and "craft" in graphic design <a class="yt-timestamp" data-t="37:31:00">[37:31:00]</a>. In the past, creating an album cover involved many people focused on craft (e.g., hand-drawing lettering), with only one or two making artistic decisions <a class="yt-timestamp" data-t="38:00:00">[38:00:00]</a>. Software like Adobe Photoshop automated much of this craft, allowing for faster iteration cycles <a class="yt-timestamp" data-t="38:41:00">[38:41:00]</a>.
+
+Similarly, in modern companies, AI is increasingly automating the "craft" or execution-focused tasks. This means a smaller team of multi-dimensional generalists can achieve what previously required a much larger organization <a class="yt-timestamp" data-t="39:07:00">[39:07:00]</a>. For example, a single person can manage multiple product releases in a week with the help of AI <a class="yt-timestamp" data-t="41:28:00">[41:28:00]</a>. This fosters a "one pizza" team culture, where a small, cohesive pod can operate with high efficiency <a class="yt-timestamp" data-t="37:05:00">[37:05:00]</a>.
+
+### Preferred AI Models
+Thadani primarily uses OpenAI's O1 as his go-to model, particularly for its Pro version, which excels at "Chain of Thought" reasoning and following complex progressions <a class="yt-timestamp" data-t="42:00:00">[42:00:00]</a> <a class="yt-timestamp" data-t="42:57:00">[42:57:00]</a>. He finds it particularly effective for tasks requiring deeper logic and narrative construction <a class="yt-timestamp" data-t="43:19:00">[43:19:00]</a>. While Claude is excellent for language-focused outputs and brainstorming, O1 Pro is preferred when the output needs to be specific and reflect extended reasoning <a class="yt-timestamp" data-t="47:44:00">[47:44:00]</a> <a class="yt-timestamp" data-t="48:01:00">[48:01:00]</a>. To assess accuracy, he asks models for confidence intervals and reasons for both being right and wrong, rather than simply asking "are you sure?" which can bias the response <a class="yt-timestamp" data-t="45:59:00">[45:59:00]</a>.
+
+## Future Investment Focus: Structured Knowledge and Decision-Making
+
+Thadani is keenly interested in areas where structured knowledge and "best practices" exist, allowing [[Impact of AI on venture capital decisionmaking | AI]] models to operate at a higher altitude of reasoning <a class="yt-timestamp" data-t="51:11:00">[51:11:00]</a>.
+
+He highlights the success of coding models, which benefit from extensive literature on best practices, PRDs, and documentation <a class="yt-timestamp" data-t="51:29:00">[51:29:00]</a>. He seeks markets where a similar foundation of structured knowledge or explicit frameworks exists. For example, while [[Impact of AI on venture capital decisionmaking | AI]] therapists are emerging, he is more interested in solutions that help users figure out "what the right therapist is for me" based on different knowledge areas and approaches <a class="yt-timestamp" data-t="52:03:00">[52:03:00]</a>. This means avoiding models that jump directly to solutions and instead allow users to navigate a library of proven methods <a class="yt-timestamp" data-t="56:39:00">[56:39:00]</a>.
+
+He provides an example of a "startup advice mentor" app he built in Wordware <a class="yt-timestamp" data-t="58:12:00">[58:12:00]</a>. Instead of just giving an answer, it identifies relevant decision theories (e.g., SWOT analysis) from a corpus of HBS articles and guides the user through those steps to arrive at a decision <a class="yt-timestamp" data-t="58:50:00">[58:50:00]</a>. This approach allows users to learn from established disciplines and gain more control over the decision-making process <a class="yt-timestamp" data-t="59:11:00">[59:11:00]</a>.
+
+This contrasts with domains like game design, where a clear "ludology" for explaining "fun" on a spreadsheet does not exist <a class="yt-timestamp" data-t="53:02:00">[53:02:00]</a>. While AI can discover new knowledge that humans cannot verbalize, there are times when empowering the user with explicit methods and frameworks is crucial <a class="yt-timestamp" data-t="55:57:00">[55:57:00]</a>. The goal is to make implicit knowledge more explicit, allowing for informed exploration rather than direct, uncontextualized answers <a class="yt-timestamp" data-t="57:59:00">[57:59:00]</a>.
