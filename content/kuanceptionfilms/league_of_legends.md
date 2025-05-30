@@ -1,27 +1,20 @@
 ---
 title: League of Legends
-videoId: PS0orkAukCw
+videoId: sc7WS6J0Q58
 ---
 
 From: [[kuanceptionfilms]] <br/> 
 
-Welcome to the [[champion_spotlight_in_league_of_legends | Champion Spotlight]] for Illaoi in [[league_of_legends_gameplay | League of Legends]] <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>.
+## Champion Spotlight: Tahm Kench, the River King
 
-## Illaoi: The Kraken Priestess
+Tahm Kench, also known as the River King, is a character featured in [[League of Legends gameplay]] <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. His personality is described as toying with the helpless and desperate, feeding them before entirely devouring his enemies <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
 
-Illaoi, known as "The Slayer," identifies with a collective entity stating, "We are not one soul, we are Illaoi" <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. She originates from the Serpent Isles and frequently visits Bone Hub <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. Illaoi travels beyond her homeland to assess those she deems worthy <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+### Gameplay Role
+
+In [[League of Legends gameplay]], Tahm Kench possesses raw stats and utility that allow him to fit into either a lane or a roll <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
 
 ### Abilities
 
-Illaoi possesses the following abilities:
-
-*   **Q: Tentacle Smash** <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>
-    *   Illaoi slams tentacles in an area, damaging all enemies <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
-    *   This ability can be used to harass lane opponents from a distance <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
-    *   It can help subdue potential suckers when they move to attack a temple <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
-*   **E: Test of Spirit** <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>
-*   **Ultimate: Leap of Faith** <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>
-
-## Gameplay
-
-The video transitions to showcase [[league_of_legends_gameplay | gameplay]] <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. Illaoi is described as a strong champion <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. The narrator humorously asserts their skill level, claiming to be recently "silver" and capable of "wrecking any scrub" <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. The segment concludes with a customary large team fight <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+*   **Passive Ability:** Tahm Kench applies stacks of his passive to enemy champions when striking them with basic attacks or damaging abilities <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. Once three stacks are applied, he can perform specific actions on them <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+*   **W Ability:** Tahm Kench "devours" targets, then spits them out a few seconds later <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+*   **Movement Ability:** When activating this ability, Tahm Kench targets a potentially distant location and begins channeling <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. Reactivating it sends him underwater as he dives to his target location <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.

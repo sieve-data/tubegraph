@@ -5,40 +5,34 @@ videoId: wCfCsOlCHI0
 
 From: [[kuanceptionfilms]] <br/> 
 
-Minecraft Pocket Edition 0.8.0 is a significant update for the game, available on both iOS and Android platforms <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>. It is described as the biggest update for Minecraft Pocket Edition (MCPE) to date <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. This update is free for users who already own the application <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+The Minecraft Pocket Edition (MCPE) 0.8.0 update is available on iOS and Android, described as the biggest update for MCPE seen to date <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. The update is free for existing app owners <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
 
-## Core Gameplay Additions
+## Key Features
 
-One of the most notable changes in this update is the [[introduction_of_rails_and_minecarts | introduction of rails and minecarts]] <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. This includes powered rails, allowing for more dynamic transportation systems <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+### [[integration_of_minecarts_and_rails_in_minecraft_pe | Minecarts and Rails]]
+One of the most significant additions is the inclusion of [[integration_of_minecarts_and_rails_in_minecraft_pe | rails and mine carts]], including powered rails <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
 
-## Visual and Performance Enhancements
+### [[new_items_and_creative_mode_changes_in_minecraft_pe | Creative Mode Enhancements]]
+[[new_items_and_creative_mode_changes_in_minecraft_pe | Creative mode]] now features new item slots to accommodate the expanded item roster <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. Players can also now build with bedrock in [[new_items_and_creative_mode_changes_in_minecraft_pe | creative mode]] <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>. Additionally, TNT can finally be used in [[new_items_and_creative_mode_changes_in_minecraft_pe | creative mode]] <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
 
-The update brings notable [[graphics_and_performance_improvements | improvements to visuals and performance]]:
-*   **Increased Render Distance** The game now features a much higher render distance <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
-*   **Improved Graphics** The overall graphics have been enhanced, with the visual quality now closely resembling the PC version of Minecraft <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+### [[improved_graphics_and_render_distance_in_minecraft_pe | Graphics and Performance Improvements]]
+The update introduces a much higher [[improved_graphics_and_render_distance_in_minecraft_pe | render distance]] <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. The overall graphics have been significantly enhanced, closely resembling those of the PC version of Minecraft <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
 
-## [[enhancements_in_creative_mode | Creative Mode]] Improvements
+### New Blocks and Items
+*   **Colored Wood**: Different colored wood types have been added <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+*   **Hay Stacks**: Hay stacks are introduced, providing an efficient way to store hay in smaller spaces, allowing more hay to be kept in a chest <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+*   **Iron Bars**: Iron bars are now available <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+*   **Stone Fences**: Stone fences have been added <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
+*   **Sponges**: Sponges are included, though they don't appear to have a specific function mentioned in the update <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
+*   **Ink Sacks and Dyes**: More ink sacks and dyes have been added to the game <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
 
-[[enhancements_in_creative_mode | Creative mode]] has received several upgrades:
-*   **Expanded Item Slots** Due to the introduction of many new items, [[enhancements_in_creative_mode | creative mode]] now features additional item slots <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
-*   **Bedrock Building** Players can now build using bedrock <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
-*   **TNT Functionality** TNT can finally be used in [[enhancements_in_creative_mode | creative mode]] <a class="yt-timestamp" data-t="00:02:46">[00:02:46]</a>.
-
-## [[new_items_and_blocks_in_minecraft_pe | New Items and Blocks]]
-
-A variety of [[new_items_and_blocks_in_minecraft_pe | new items and blocks]] have been added:
-*   **Wood Varieties** Different colored wood is now available <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
-*   **Hay Stacks** Hay stacks are introduced, offering an efficient way to store hay in a small amount of space, allowing more to be kept in a chest <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
-*   **Iron Bars** Iron bars are a new building material <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
-*   **Stone Fences** Stone fences are now available <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
-*   **Sponges** Sponges have been added, though their functionality is not specified in the update <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
-*   **Ink Sacks and Dyes** More dyes and ink sacks are included <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>.
-
-## Plants and Farming
-
-The update introduces several new seeds and plants, expanding farming options:
-*   Pumpkin seeds <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>
-*   Melon seeds <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>
-*   Carrots <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>
-*   Potatoes <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>
-*   Beetroot seeds <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>
+### [[new_plant_types_and_seeds_in_minecraft_pe | New Plant Types and Seeds]]
+The update expands the variety of [[new_plant_types_and_seeds_in_minecraft_pe | seeds and plants]] available:
+*   Sugar cane (which was previously available) <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>
+*   Wheat seeds <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>
+*   New additions include:
+    *   Pumpkin seeds <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>
+    *   Melon seeds <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>
+    *   Carrots <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>
+    *   Potatoes <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>
+    *   Beetroot seeds <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>

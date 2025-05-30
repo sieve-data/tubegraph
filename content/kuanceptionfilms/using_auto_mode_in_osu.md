@@ -5,11 +5,11 @@ videoId: rS3vUw1vUcE
 
 From: [[kuanceptionfilms]] <br/> 
 
-When playing [[introduction_to_playing_osu | Osu]], players might aim to achieve impressive performances, particularly on difficult maps like "the big black" <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. While the goal is to demonstrate "amazing o skills" <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a> and "beat the song with perfect combo" <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>, the use of auto mode can help achieve this facade.
+To begin playing Osu, load the game <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. The recommended equipment includes a tablet and a keyboard, while a mouse should be disregarded <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
 
-## Purpose and Secrecy
+## Strategy for Impression
 
-Auto mode in Osu essentially plays the map for you, allowing for a perfect score and combo <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. While it's implied to be a way to impress others by seemingly beating challenging maps, it's advised to keep its usage a secret <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. This allows the player to "impress everybody with your amazing o skills" <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a> without revealing the assistance used.
+For those looking to impress, it is suggested to jump directly into difficult maps, such as "the big black" <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. Beating this map is considered impressive <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
 
-> [!CAUTION]
-> If you utilize auto mode, it is suggested to "Don't tell anybody you actually put on auto" <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>.
+> [!CAUTION] Secret Tip
+> To achieve impressive results on challenging maps, it is advised to activate auto mode without disclosing this fact to others <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. After enabling auto mode, you can then sit back and impress observers with your "amazing O skills" <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>, ultimately beating the song with a [[achieving_a_perfect_combo_in_osu | perfect combo]] <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.

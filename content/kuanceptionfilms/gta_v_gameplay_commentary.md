@@ -5,21 +5,27 @@ videoId: bVcf3mbuajI
 
 From: [[kuanceptionfilms]] <br/> 
 
-This article details a [[gameplay_commentary_and_first_impressions | gameplay commentary]] video for Grand Theft Auto V (GTA V) by Victor of Quan Inception Films <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. The video showcases various in-game interactions and observations within the city of Los Santos.
+This video presents a [[video_game_commentary | gameplay commentary]] of Grand Theft Auto V (GTA V) by Victor of Quan Inception Films <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>.
 
 ## Production Notes
-The video creator apologized for a recent absence of console [[gaming_commentary | gameplays]] on the channel, attributing the delay to a malfunctioning Elgato game capture device <a class="yt-timestamp" data-t="00:00:13">[00:00:22]</a>. The ability to produce this specific video was made possible by Seth, a co-owner of the channel, who lent his Elgato game capture <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+
+The host apologizes for a recent lack of console gameplay uploads, attributing it to a malfunctioning Elgato game capture device <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. The video was made possible by Seth, the co-owner of the channel, who lent his Elgato game capture <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>.
 
 ## Gameplay and Commentary
-The video features [[gamers_reactions_and_commentary | commentary]] over GTA V gameplay, often characterized by a humorous and conversational tone. The player interacts with NPCs and the environment in a lighthearted manner, demonstrating [[humor_and_commentary_in_gaming_videos | humor and commentary]] throughout <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
 
-Key moments and interactions include:
-*   Observations on the "beautiful day in Los Santos" and its cityscape <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
-*   Improvised rap lyrics performed over gameplay <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
-*   Attempting to ask a policeman for directions to a local library <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
-*   Playing a "peekaboo" game with an in-game character <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
-*   Repeatedly checking on NPCs with phrases like "Are you okay man?" <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
-*   General [[hilarious_moments_in_los_santos | hilarious moments in Los Santos]] through unexpected character actions and dialogue <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+The [[video_game_commentary | commentary]] begins with an appreciation for the "beautiful day" and the "cityscape" of [[los_santos_cityscape_in_gta_v | Los Santos]] <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>, <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
 
-## Channel Content
-Quan Inception Films creates a variety of entertaining videos, including content for GTA V, [[call_of_duty_console_vs_pc_gameplay | Call of Duty]], Yu-Gi-Oh, and OSU <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>.
+The style of [[video_game_commentary | commentary]] includes:
+*   **Humorous and Peculiar Phrases**
+    *   The host introduces himself as the "peekaboo man" <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, later engaging in a "peekaboo" game with an NPC <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
+    *   Unusual vocalizations and ad-libs are interspersed throughout the video <a class="yt-timestamp" data-t="00:00:58">[00:00:58]</a>.
+    *   Repeated exclamations like "whoops" occur frequently <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>.
+    *   The phrase "spinner so web, you're the Spiderman spinner so tonight" is used multiple times <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>, <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+
+*   **NPC Interactions**
+    *   The player character attempts to ask a policeman for directions to a library <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+    *   Later, the player repeatedly asks an NPC "are you okay man?" while following and interacting with them <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>, <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>, <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>, <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
+
+## Channel Information
+
+Victor concludes the video by inviting viewers to like or dislike the video, leave comments, and subscribe to Quan Inception Films <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. The channel produces "entertaining videos" including GTA V, Call of Duty, Yu-Gi-Oh, OSU, and more <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.

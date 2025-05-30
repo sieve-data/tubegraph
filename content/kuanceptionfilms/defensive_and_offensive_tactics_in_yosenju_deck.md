@@ -1,0 +1,40 @@
+---
+title: Defensive and offensive tactics in Yosenju deck
+videoId: XBP5-8-XoUM
+---
+
+From: [[kuanceptionfilms]] <br/> 
+
+The Yosenju deck, a popular budget option, employs a unique strategy centered around [[normal_summoning_tactics_in_yosenju_deck | normal summoning]] and returning monsters to the hand at the end of the turn. This allows for both aggressive plays and strong defensive setups, often against top-tier decks <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. The deck typically costs under $40, or even under $30 if the extra deck is disregarded <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+
+## Core Strategy: Normal Summon Spamming
+The primary goal of a Yosenju deck is to "spam" [[normal_summoning_tactics_in_yosenju_deck | normal summoning]] of Yosenju cards, rather than special summoning <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. This unique approach allows the deck to circumvent many common counters and utilize cards that penalize special summoning. Most Yosenju monsters return to the hand at the end of the turn <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
+
+## Offensive Tactics
+
+Offensive plays in a [[yosenju_budget_deck_strategies | Yosenju budget deck]] often involve swarming the field with [[normal_summoning_tactics_in_yosenju_deck | normal summoned]] monsters for direct attacks or setting up chain reactions to search for key cards.
+
+*   **Yosenju Kama 1**: Allows the player to return any face-up card their opponent controls back to their hand. It also facilitates additional [[normal_summoning_tactics_in_yosenju_deck | normal summons]] of Yosenju cards <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>.
+*   **Yosenju Kama 2**: Can attack an opponent directly for half damage <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. Similar to Kama 1, it allows for an additional [[normal_summoning_tactics_in_yosenju_deck | normal summon]] of another Yosenju card <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+*   **Yosenju Kama 3**: This card excels when combined with Kama 2 <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. If another Yosenju monster deals damage to the opponent, Kama 3 allows the player to search their deck for a Yosenju card and add it to their hand <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. This can lead to chaining [[normal_summoning_tactics_in_yosenju_deck | normal summons]] and setting up further plays <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+*   **Yosenju Tsujik**: A versatile card with both offensive and defensive applications. Its first effect allows it to be discarded during the damage step to give a Yosenju monster a 1000 ATK boost, similar to "Honest" <a class="yt-timestamp" data-t="00:01:55">[00:01:55]</a>. Its second effect, upon [[normal_summoning_tactics_in_yosenju_deck | normal summoning]], allows a targeted Yosenju card on the field to gain 1000 ATK <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a>.
+*   **Brotherhood of the Fire Fist - Tiger King**: While not a Yosenju monster, this extra deck card can search for "Fire Formation - Tenki" <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>, which in turn searches Yosenju monsters, thus enabling more offensive pushes.
+*   **Dark Rebellion Xyz Dragon**: An extra deck option for raw attack power when needed <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
+*   **Gagaga Cowboy**: Considered the best Rank 4 monster for the deck due to its multi-purpose utility <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. In attack position, it can gain ATK, while in defense position, it can deal 800 damage directly to the opponent, potentially securing a win <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>.
+
+## Defensive Tactics
+
+The [[yosenju_budget_deck_strategies | Yosenju deck's]] defensive strength comes from its ability to clear the board, negate effects, and utilize floodgate cards that don't hinder its own strategy. Since Yosenju monsters return to the hand at the end of the turn, the player's field is often empty on the opponent's turn <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+
+*   **Yosenju Shinchu L**: This is typically the only pendulum card in the deck and is not part of a pendulum build <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. As a pendulum card, it can protect Yosenju monsters from being destroyed by battle or card effects by destroying itself instead <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
+*   **Yosenju Secret Move**: A powerful counter trap. If a Spell/Trap Card or monster effect is activated while controlling at least one Yosenju monster (or even technically no monsters if Shinchu L is in the pendulum zone), this card can negate the activation and destroy the card <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+*   **Cardcar D**: Provides significant draw power, allowing the player to quickly get to their defensive [[trap_card_strategies_in_yugioh | trap cards]] <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. The deck's reliance on [[trap_card_strategies_in_yugioh | traps]] means it can still defend itself even with an empty monster field <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
+*   **Dimensional Fissure**: A floodgate spell card that banishes any monster sent to the graveyard instead of sending it there <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. This is highly effective as Yosenju decks do not rely on graveyard effects and are unaffected by this card's restriction <a class="yt-timestamp" data-t="00:04:13">[00:04:13]</a>. It is particularly strong against decks that heavily utilize the graveyard, such as Shaddoll and Heroes <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
+*   **Book of Moon**: A staple card for any deck, used for disrupting opponent's plays by flipping monsters face-down <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>.
+*   **Mystical Space Typhoon (MST)**: Essential for destroying opponent's Spell/Trap cards <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>.
+*   **Pot of Duality**: This card allows the player to look at the top three cards of their deck, choose one to add to their hand, but prevents them from special summoning for the rest of the turn <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>. Since Yosenju decks rarely special summon, this card's drawback is negligible, making it an excellent consistency tool <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
+*   **Upstart Goblin**: Provides additional draw power, which is crucial for a deck with a limited number of monsters <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+*   **Dark Hole**: A board-wiping spell card <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>. It is particularly effective in Yosenju decks because Yosenju monsters return to the hand at the end of the turn, leaving the player's field empty and unaffected by its destruction effect during the opponent's turn <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>.
+*   **Vanity's Emptiness**: Another powerful floodgate [[trap_card_strategies_in_yugioh | trap card]] that prevents both players from special summoning <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. Like Dimensional Fissure, this card synergizes perfectly with Yosenju's strategy of not special summoning, severely limiting the opponent's options <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>.
+*   **Bottomless Trap Hole & Compulsory Evacuation Device**: Standard essential [[trap_card_strategies_in_yugioh | trap cards]] for removal <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>.
+*   **Mirror Force**: A key defensive [[trap_card_strategies_in_yugioh | trap card]] in the Yosenju deck <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>. Since the player's monster field is typically empty on the opponent's turn, Mirror Force serves as a reliable way to clear the opponent's attacking monsters <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.

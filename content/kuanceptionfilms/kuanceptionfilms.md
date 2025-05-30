@@ -1,438 +1,438 @@
 ---
 title: kuanceptionfilms
 ---
-### [Effective Guide to Osu! | KuanCeptionFILMS](https://www.youtube.com/watch?v=rS3vUw1vUcE)
-- [[introduction_to_playing_osu | Introduction to playing Osu]]
-- [[essential_equipment_for_osu | Essential equipment for Osu]]
-- [[strategies_for_hard_maps | Strategies for hard maps]]
-- [[using_auto_mode_in_osu | Using auto mode in Osu]]
-- [[tips_for_impressive_performance_in_osu | Tips for impressive performance in Osu]]
-
-### [COD AW | Top 5 Coolest Things About COD Advanced Warfare | Gameplay Commentary | KuanCeptionFILMS](https://www.youtube.com/watch?v=D2pH_UmC8X4)
-- [[quick_reload_function | Quick reload function]]
-- [[no_sway_assault_rifles | No sway assault rifles]]
-- [[firing_range_for_testing_custom_classes | Firing range for testing custom classes]]
-- [[score_streak_customization | Score streak customization]]
-- [[classic_playlist_option_without_exo_suit_movements | Classic playlist option without Exo Suit movements]]
-
-### [A Small Child Plays and Reacts to OSU! | KuanCeptionFILMS](https://www.youtube.com/watch?v=6-p5MWwpBJA)
-- [[child_playing_osu | Child playing OSU]]
-- [[reaction_to_osu_gameplay | Reaction to OSU gameplay]]
-- [[gameplay_skill_challenges | Gameplay skill challenges]]
-- [[humor_in_gaming | Humor in gaming]]
-- [[gaming_as_entertainment | Gaming as entertainment]]
+### [Work It - Backwards!](https://www.youtube.com/watch?v=m0Q5LD5GWXg)
+- [[music_performance | music performance]]
+- [[sound_effects_in_music | sound effects in music]]
+- [[applause_in_performances | applause in performances]]
+- [[interpreting_music_without_lyrics | interpreting music without lyrics]]
+- [[rhythm_and_beat_in_music | rhythm and beat in music]]
 
 ### [OSU'S DANKEST SKIN? | osu! New Skin Gameplay](https://www.youtube.com/watch?v=CJ5MpLidVqU)
-- [[osu_game_skins | Osu game skins]]
-- [[dank_meme_culture_in_osu | Dank meme culture in osu]]
-- [[twitch_chat_integration_in_games | Twitch chat integration in games]]
-- [[pepe_the_frog_as_game_elements | Pepe the Frog as game elements]]
-- [[gameplay_dynamics_with_unconventional_skins | Gameplay dynamics with unconventional skins]]
+- [[osu_skin_features | osu skin features]]
+- [[twitch_chat_skin | twitch chat skin]]
+- [[gameplay_experience | gameplay experience]]
+- [[dank_remix_music | dank remix music]]
+- [[reaction_to_skin_design | reaction to skin design]]
 
-### [COD 4 PS4 and Xbox One HD Remaster? | KuanCeptionFILMS | Call of Duty 4 Gameplay Commentary](https://www.youtube.com/watch?v=dvOxPLmD5RY)
-- [[call_of_duty_4_remastered_for_ps4_and_xbox_one | Call of Duty 4 remastered for PS4 and Xbox One]]
-- [[condition_of_call_of_duty_4_servers | Condition of Call of Duty 4 servers]]
-- [[impact_of_hackers_on_call_of_duty_games | Impact of hackers on Call of Duty games]]
-- [[popularity_and_legacy_of_call_of_duty_4 | Popularity and legacy of Call of Duty 4]]
-- [[future_possibilities_for_call_of_duty_franchises | Future possibilities for Call of Duty franchises]]
+### [Effective Guide to Osu! | KuanCeptionFILMS](https://www.youtube.com/watch?v=rS3vUw1vUcE)
+- [[how_to_play_osu | How to play Osu]]
+- [[choosing_the_right_equipment_for_osu | Choosing the right equipment for Osu]]
+- [[starting_with_difficult_osu_maps | Starting with difficult Osu maps]]
+- [[using_auto_mode_in_osu | Using auto mode in Osu]]
+- [[achieving_a_perfect_combo_in_osu | Achieving a perfect combo in Osu]]
+
+### [COD AW | Top 5 Coolest Things About COD Advanced Warfare | Gameplay Commentary | KuanCeptionFILMS](https://www.youtube.com/watch?v=D2pH_UmC8X4)
+- [[quick_reload_function_in_call_of_duty_advanced_warfare | Quick reload function in Call of Duty Advanced Warfare]]
+- [[zero_sway_assault_rifles_in_call_of_duty_advanced_warfare | Zero sway assault rifles in Call of Duty Advanced Warfare]]
+- [[firing_range_feature_for_testing_custom_classes | Firing range feature for testing custom classes]]
+- [[customizable_score_streaks_in_call_of_duty_advanced_warfare | Customizable score streaks in Call of Duty Advanced Warfare]]
+- [[classic_playlist_without_exo_suit_movements | Classic playlist without Exo Suit movements]]
+
+### [Final Fantasy VI Remake for 3DS and PS Vita? | KuanCeptionFILMS](https://www.youtube.com/watch?v=WVWR5O-2ARE)
+- [[final_fantasy_vi_remake_ideas_for_3ds_and_ps_vita | Final Fantasy VI remake ideas for 3DS and PS Vita]]
+- [[square_enix_final_fantasy_remakes_history | Square Enix Final Fantasy remakes history]]
+- [[comparison_of_handheld_platform_remakes_for_final_fantasy | Comparison of handheld platform remakes for Final Fantasy]]
+- [[potential_for_3d_remakes_of_final_fantasy_v_and_vi | Potential for 3D remakes of Final Fantasy V and VI]]
+- [[ps_vita_and_3d_handheld_gaming_potential | PS Vita and 3D handheld gaming potential]]
 
 ### [ACCIDENTAL ADC | KuanCeptionFILMS](https://www.youtube.com/watch?v=o9ePQxhb0AI)
 - [[league_of_legends_gameplay | League of Legends gameplay]]
-- [[strategic_team_coordination | Strategic team coordination]]
-- [[character_roles_and_builds | Character roles and builds]]
-- [[gameplay_communication_and_skype_calls | Gameplay communication and Skype calls]]
-- [[player_performance_and_skill_levels | Player performance and skill levels]]
-
-### [Final Fantasy VI Remake for 3DS and PS Vita? | KuanCeptionFILMS](https://www.youtube.com/watch?v=WVWR5O-2ARE)
-- [[square_enix_final_fantasy_remakes | Square Enix Final Fantasy remakes]]
-- [[history_of_final_fantasy_games_on_handheld_platforms | History of Final Fantasy games on handheld platforms]]
-- [[potential_3d_remakes_for_final_fantasy_5_and_6 | Potential 3D remakes for Final Fantasy 5 and 6]]
-- [[comparison_of_final_fantasy_remakes_on_different_consoles | Comparison of Final Fantasy remakes on different consoles]]
-- [[final_fantasy_10_remaster_on_ps_vita | Final Fantasy 10 remaster on PS Vita]]
-
-### [Black Ops 3 PC Review | Is PC Black Ops 3 Worth It?](https://www.youtube.com/watch?v=uU-psBUF_q8)
-- [[pros_and_cons_of_playing_black_ops_3_on_pc | Pros and cons of playing Black Ops 3 on PC]]
-- [[player_base_issues_for_call_of_duty_games_on_pc | Player base issues for Call of Duty games on PC]]
-- [[performance_and_optimization_of_black_ops_3_on_pc | Performance and optimization of Black Ops 3 on PC]]
-- [[gun_balance_and_ingame_mechanics_specific_to_pc_version | Gun balance and ingame mechanics specific to PC version]]
-- [[pc_gaming_features_like_fov_customization_and_modding_in_black_ops_3 | PC gaming features like FOV customization and modding in Black Ops 3]]
-
-### [Blade and Soul CHARACTER CUSTOMIZATION TOO SEXY | Blade and Soul Tutorial Playthrough](https://www.youtube.com/watch?v=3cqBdRFFqCw)
-- [[blade_and_soul_game_overview | Blade and Soul game overview]]
-- [[character_creation_and_customization_in_blade_and_soul | Character creation and customization in Blade and Soul]]
-- [[gameplay_mechanics_and_graphics_of_blade_and_soul | Gameplay mechanics and graphics of Blade and Soul]]
-- [[humor_and_commentary_in_gaming_videos | Humor and commentary in gaming videos]]
-- [[initial_impressions_and_experiences_with_blade_and_soul_mmo | Initial impressions and experiences with Blade and Soul MMO]]
+- [[thresh_as_ad_carry | Thresh as AD Carry]]
+- [[annie_jungle_strategy | Annie jungle strategy]]
+- [[team_communication_in_games | Team communication in games]]
+- [[level_one_hooks_and_flash_mechanics | Level one hooks and flash mechanics]]
 
 ### [Yugioh Dank Pulls and Reactions Montage Episode 1](https://www.youtube.com/watch?v=28sl0dAnbks)
-- [[yugioh_card_pulls_and_reactions | Yugioh card pulls and reactions]]
-- [[dark_magician_girl_ocg_card | Dark Magician Girl OCG card]]
-- [[kaiju_and_other_spell_cards | Kaiju and other spell cards]]
-- [[elemental_and_mass_hero_cards | Elemental and mass hero cards]]
-- [[prismatic_rare_and_artifact_card_pulls | Prismatic rare and artifact card pulls]]
+- [[rare_yugioh_card_pulls | Rare Yugioh card pulls]]
+- [[yugioh_card_reactions | Yugioh card reactions]]
+- [[yugioh_secret_and_prismatic_rares | Yugioh secret and prismatic rares]]
+- [[yugioh_card_trade_value | Yugioh card trade value]]
+- [[elemental_hero_card_series | Elemental hero card series]]
 
-### [DEFINING RANK | Casual osu! #1](https://www.youtube.com/watch?v=wKufVGB8FbU)
-- [[osu_game_mechanics_and_strategies | osu game mechanics and strategies]]
-- [[ranking_and_scoring_in_osu | ranking and scoring in osu]]
-- [[understanding_and_debating_rank_changes | understanding and debating rank changes]]
-- [[one_punch_man_and_its_cultural_references | one punch man and its cultural references]]
-- [[gaming_performance_and_technical_challenges | gaming performance and technical challenges]]
+### [Blade and Soul CHARACTER CUSTOMIZATION TOO SEXY | Blade and Soul Tutorial Playthrough](https://www.youtube.com/watch?v=3cqBdRFFqCw)
+- [[blade_and_soul_gameplay_overview | Blade and Soul gameplay overview]]
+- [[character_customization_in_blade_and_soul | Character customization in Blade and Soul]]
+- [[jiggle_physics_in_blade_and_soul | Jiggle physics in Blade and Soul]]
+- [[blade_and_soul_queue_times_and_server_selection | Blade and Soul queue times and server selection]]
+- [[blade_and_soul_combat_and_skills | Blade and Soul combat and skills]]
 
-### [Custom Sleeves and Backgrounds on YGO Devpro | KuanCeptionFILMS](https://www.youtube.com/watch?v=BBJwZods71I)
-- [[tutorial_on_adding_custom_sleeves_in_ygo_devpro | Tutorial on adding custom sleeves in YGO Devpro]]
-- [[how_to_resize_images_for_custom_sleeves_and_backgrounds | How to resize images for custom sleeves and backgrounds]]
-- [[installing_custom_backgrounds_in_ygo_devpro | Installing custom backgrounds in YGO Devpro]]
-- [[previewing_and_formatting_custom_sleeves_and_backgrounds | Previewing and formatting custom sleeves and backgrounds]]
-- [[tips_for_personalizing_yugioh_gameplay_experience_with_visuals | Tips for personalizing YuGiOh gameplay experience with visuals]]
-
-### [Yugioh Traptrix  Deck Profile | December 2015 | Chicken Game, Norden, Rank 4 Spam | KuanCeptionFILMS](https://www.youtube.com/watch?v=cLIJtpE2mIc)
-- [[yugioh_traptrix_december_2015_deck_profile | YuGiOh Traptrix December 2015 deck profile]]
-- [[card_draw_and_strategy_using_chicken_game_and_upstart_goblin | Card draw and strategy using Chicken Game and Upstart Goblin]]
-- [[rank_4_xyz_spam_strategy | Rank 4 XYZ Spam strategy]]
-- [[traptrix_monster_card_effects_and_combinations | Traptrix monster card effects and combinations]]
-- [[key_spells_and_trap_cards_in_traptrix_deck | Key spells and trap cards in Traptrix deck]]
-
-### [Blue Eyes White Dragon Deck Profile | March 2015 | KuanCeptionFILMS](https://www.youtube.com/watch?v=I6OsRwBGwJc)
-- [[blue_eyes_white_dragon_deck_composition | Blue Eyes White Dragon Deck Composition]]
-- [[key_monsters_in_blue_eyes_white_dragon_deck | Key Monsters in Blue Eyes White Dragon Deck]]
-- [[spell_and_trap_cards_in_blue_eyes_white_dragon_deck | Spell and Trap Cards in Blue Eyes White Dragon Deck]]
-- [[strategies_for_summoning_and_enhancing_blue_eyes_white_dragon | Strategies for Summoning and Enhancing Blue Eyes White Dragon]]
-- [[extra_deck_recommendations_for_blue_eyes_white_dragon_deck | Extra Deck Recommendations for Blue Eyes White Dragon Deck]]
-
-### [#BecomeTheTurtle - A COD Advanced Warfare Tribute To Drift0r | Epic Montage](https://www.youtube.com/watch?v=A8_IDpaY5VM)
-- [[become_the_turtle_concept | Become the Turtle concept]]
-- [[tribute_to_drift0r | Tribute to Drift0r]]
-- [[call_of_duty_advanced_warfare_montage | Call of Duty Advanced Warfare montage]]
-- [[exo_shield_inspiration | EXO Shield inspiration]]
-- [[creating_gaming_tributes | Creating gaming tributes]]
+### [Black Ops 3 PC Review | Is PC Black Ops 3 Worth It?](https://www.youtube.com/watch?v=uU-psBUF_q8)
+- [[pros_and_cons_of_black_ops_3_on_pc | Pros and cons of Black Ops 3 on PC]]
+- [[issues_with_player_base_on_pc_black_ops_3 | Issues with player base on PC Black Ops 3]]
+- [[optimization_challenges_for_black_ops_3_on_pc | Optimization challenges for Black Ops 3 on PC]]
+- [[advantages_of_playing_black_ops_3_on_pc | Advantages of playing Black Ops 3 on PC]]
+- [[impact_of_modding_capabilities_in_black_ops_3_on_pc | Impact of modding capabilities in Black Ops 3 on PC]]
 
 ### [Minecraft PE Glitches : How to Get Infinite Diamond or Gold!](https://www.youtube.com/watch?v=uWeImh8YAPA)
-- [[cloning_glitch_in_minecraft_pe | Cloning glitch in Minecraft PE]]
-- [[infinite_diamond_and_gold_glitch | Infinite diamond and gold glitch]]
-- [[building_a_tower_with_a_door_glitch | Building a tower with a door glitch]]
-- [[creating_an_elevator_with_glitches | Creating an elevator with glitches]]
-- [[using_glitches_as_a_survival_strategy_in_minecraft_pe | Using glitches as a survival strategy in Minecraft PE]]
+- [[cloning_glitch_for_infinite_items | Cloning glitch for infinite items]]
+- [[building_a_tower_with_a_glitch | Building a tower with a glitch]]
+- [[using_glitches_for_teleportation_in_minecraft_pe | Using glitches for teleportation in Minecraft PE]]
+- [[defensive_structures_using_glitches_in_minecraft_pe | Defensive structures using glitches in Minecraft PE]]
 
-### [NOT SUPPORT | ADC Vel'koz + Illaoi Gameplay](https://www.youtube.com/watch?v=uy2XqFaQ-Fw)
-- [[league_of_legends_gameplay_strategy | League of Legends gameplay strategy]]
-- [[playing_adc_velkoz_and_illaoi_in_league_of_legends | Playing ADC Velkoz and Illaoi in League of Legends]]
-- [[champion_abilities_and_synergy | Champion abilities and synergy]]
-- [[cdr_and_its_impact_on_gameplay | CDR and its impact on gameplay]]
-- [[new_champion_discussion | New champion discussion]]
+### [#BecomeTheTurtle - A COD Advanced Warfare Tribute To Drift0r | Epic Montage](https://www.youtube.com/watch?v=A8_IDpaY5VM)
+- [[drift0r_and_his_influence | Drift0r and his influence]]
+- [[exo_shield_in_call_of_duty_advanced_warfare | EXO Shield in Call of Duty Advanced Warfare]]
+- [[montage_of_call_of_duty_advanced_warfare_gameplay | Montage of Call of Duty Advanced Warfare gameplay]]
+- [[becoming_the_turtle_strategy | Becoming the turtle strategy]]
+- [[tribute_to_drift0r | Tribute to Drift0r]]
 
-### [ONE FOR ALL FUN FOR ALL | KuanCeptionFILMS](https://www.youtube.com/watch?v=vzozcqXvK64)
-- [[team_strategy_and_coordination | team strategy and coordination]]
-- [[character_roles_and_abilities | character roles and abilities]]
-- [[ingame_events_and_actions | ingame events and actions]]
-- [[gaming_humor_and_banter | gaming humor and banter]]
+### [Yugioh Traptrix  Deck Profile | December 2015 | Chicken Game, Norden, Rank 4 Spam | KuanCeptionFILMS](https://www.youtube.com/watch?v=cLIJtpE2mIc)
+- [[yu_gi_oh_traptrix_deck_strategy | Yu Gi Oh Traptrix deck strategy]]
+- [[rank_4_and_rank_5_xyz_cards_in_traptrix_deck | Rank 4 and Rank 5 Xyz cards in Traptrix deck]]
+- [[utilizing_draw_power_engines_like_chicken_game_and_upstart | Utilizing draw power engines like Chicken Game and Upstart]]
+- [[key_monster_cards_in_traptrix_deck_2015 | Key monster cards in Traptrix deck 2015]]
+- [[building_an_effective_back_row_defense_in_traptrix_deck | Building an effective back row defense in Traptrix deck]]
+
+### [DEFINING RANK | Casual osu! #1](https://www.youtube.com/watch?v=wKufVGB8FbU)
+- [[understanding_rank_definitions_in_osu | Understanding rank definitions in osu]]
+- [[discussion_on_one_punch_mans_invincibility | Discussion on One Punch Mans invincibility]]
+- [[improving_performance_and_accuracy_in_osu | Improving performance and accuracy in osu]]
+- [[challenges_and_experiences_with_osu_gameplay | Challenges and experiences with osu gameplay]]
+- [[gameplay_terminology_and_mechanics_in_osu | Gameplay terminology and mechanics in osu]]
 
 ### [Ekko Champion Danklight | KuanCeptionFILMS](https://www.youtube.com/watch?v=wZQ_bajXl_Y)
-- [[introduction_to_ekko_as_a_league_of_legends_champion | Introduction to Ekko as a League of Legends champion]]
-- [[ekkos_abilities_and_gameplay_mechanics | Ekkos abilities and gameplay mechanics]]
-- [[strategic_tips_for_playing_ekko_effectively | Strategic tips for playing Ekko effectively]]
-- [[using_ekkos_time_travel_and_crowd_control_features | Using Ekkos time travel and crowd control features]]
-- [[gaming_terminology_and_humor_related_to_league_of_legends | Gaming terminology and humor related to League of Legends]]
+- [[introduction_to_league_of_legends | Introduction to League of Legends]]
+- [[ekko_character_overview | Ekko Character Overview]]
+- [[abilities_and_mechanics_of_ekko | Abilities and Mechanics of Ekko]]
+- [[strategies_for_playing_ekko | Strategies for Playing Ekko]]
+- [[common_mistakes_in_playing_ekko | Common Mistakes in Playing Ekko]]
 
-### [Traptrix Gravekeeper's 2015 Anti-Meta Troll Deck | Deck Profile | KuanCeptionFILMS](https://www.youtube.com/watch?v=0vDjMSZK3lc)
-- [[traptrix_gravekeepers_deck_building_strategy | Traptrix Gravekeepers Deck Building Strategy]]
-- [[antimeta_troll_deck_tactics | AntiMeta Troll Deck Tactics]]
-- [[yugioh_budget_deck_building | YuGiOh Budget Deck Building]]
-- [[competitive_gameplay_tips_for_yugioh | Competitive Gameplay Tips for YuGiOh]]
-- [[key_cards_in_traptrix_gravekeepers_deck | Key Cards in Traptrix Gravekeepers Deck]]
+### [Blue Eyes White Dragon Deck Profile | March 2015 | KuanCeptionFILMS](https://www.youtube.com/watch?v=I6OsRwBGwJc)
+- [[blue_eyes_white_dragon_deck_profile | Blue Eyes White Dragon Deck Profile]]
+- [[key_monsters_in_blue_eyes_white_dragon_deck | Key Monsters in Blue Eyes White Dragon Deck]]
+- [[synchro_and_xyz_summoning_strategies | Synchro and Xyz Summoning Strategies]]
+- [[important_spell_and_trap_cards | Important Spell and Trap Cards]]
+- [[deck_improvement_suggestions | Deck Improvement Suggestions]]
 
-### [Yosenju Budget Deck Profile October 2015 | Under $30! | KuanCeptionFILMS](https://www.youtube.com/watch?v=XBP5-8-XoUM)
-- [[yosenju_budget_deck_profile | Yosenju budget deck profile]]
-- [[key_yosenju_card_strategies | Key Yosenju card strategies]]
-- [[recommended_spells_and_traps_for_yosenju_deck | Recommended spells and traps for Yosenju deck]]
-- [[extra_deck_cards_for_yosenju | Extra deck cards for Yosenju]]
+### [NOT SUPPORT | ADC Vel'koz + Illaoi Gameplay](https://www.youtube.com/watch?v=uy2XqFaQ-Fw)
+- [[gameplay_strategies_for_velkoz_and_illaoi | Gameplay strategies for Velkoz and Illaoi]]
+- [[role_of_adc_in_league_of_legends | Role of ADC in League of Legends]]
+- [[cooldown_reduction_mechanics | Cooldown reduction mechanics]]
+- [[champion_abilities_and_combos | Champion abilities and combos]]
+- [[fun_and_motivation_in_gaming | Fun and motivation in gaming]]
 
-### [How to play LeBlanc | KuanCeptionFILMS](https://www.youtube.com/watch?v=tqFNeR0aJbU)
-- [[strategy_for_early_game_with_leblanc | Strategy for early game with LeBlanc]]
-- [[tips_for_maximizing_damage_and_control_with_leblanc | Tips for maximizing damage and control with LeBlanc]]
-- [[dealing_with_junglers_as_leblanc | Dealing with junglers as LeBlanc]]
-- [[item_build_suggestion_for_leblanc | Item build suggestion for LeBlanc]]
-- [[managing_lane_matchups_and_opponent_tricks_as_leblanc | Managing lane matchups and opponent tricks as LeBlanc]]
+### [Custom Sleeves and Backgrounds on YGO Devpro | KuanCeptionFILMS](https://www.youtube.com/watch?v=BBJwZods71I)
+- [[custom_sleeves_for_yugioh_devpro | Custom sleeves for YuGiOh Devpro]]
+- [[custom_backgrounds_for_yugioh_devpro | Custom backgrounds for YuGiOh Devpro]]
+- [[how_to_add_game_customizations_in_yugioh_devpro | How to add game customizations in YuGiOh Devpro]]
+- [[image_resizing_for_devpro_customization | Image resizing for Devpro customization]]
+- [[installing_and_previewing_custom_game_content_in_devpro | Installing and previewing custom game content in Devpro]]
 
 ### [DANK Yugioh Value Cube Opening | Slifer, Obelisk, Ra, Blue Eyes White Dragon, and More](https://www.youtube.com/watch?v=bu4CJ2B053c)
-- [[opening_a_yugioh_value_cube | Opening a Yugioh Value Cube]]
-- [[legendary_god_cards_in_yugioh | Legendary God Cards in Yugioh]]
-- [[gear_gia_structure_deck | Gear GIA Structure Deck]]
-- [[elemental_hero_cards | Elemental Hero Cards]]
-- [[value_and_rarity_of_yugioh_cards | Value and Rarity of Yugioh Cards]]
+- [[yugioh_value_cube_openings | YuGiOh value cube openings]]
+- [[elemental_hero_cards | Elemental Hero cards]]
+- [[legendary_god_cards_collection | Legendary God cards collection]]
+- [[gear_gia_structure_deck | Gear Gia structure deck]]
+- [[iconic_yugioh_monsters | Iconic YuGiOh monsters]]
 
-### [FIRE GUY | League of Legends | KuanCeptionFILMS](https://www.youtube.com/watch?v=kTbfSZ2EBe0)
-- [[account_ban_issues_in_gaming | Account Ban Issues in Gaming]]
-- [[identity_and_anonymity_in_online_gaming | Identity and Anonymity in Online Gaming]]
-- [[character_and_skin_selection_in_league_of_legends | Character and Skin Selection in League of Legends]]
-- [[brand_gameplay_strategies_in_league_of_legends | Brand Gameplay Strategies in League of Legends]]
-- [[chain_cc_mechanics_in_league_of_legends | Chain CC Mechanics in League of Legends]]
+### [ONE FOR ALL FUN FOR ALL | KuanCeptionFILMS](https://www.youtube.com/watch?v=vzozcqXvK64)
+- [[team_coordination | team coordination]]
+- [[game_strategy | game strategy]]
+- [[roleplaying_elements | roleplaying elements]]
+- [[gaming_challenges | gaming challenges]]
+- [[performance_issues_in_gaming | performance issues in gaming]]
 
-### [Goat Simulator Funny Moments | KuanCeptionFILMS](https://www.youtube.com/watch?v=lMJ8tf_-Ul8)
-- [[goat_simulator_gameplay | Goat Simulator gameplay]]
-- [[funny_moments_in_goat_simulator | Funny moments in Goat Simulator]]
-- [[exciting_stunts_and_adventures_in_goat_simulator | Exciting stunts and adventures in Goat Simulator]]
-- [[destruction_physics_in_goat_simulator | Destruction physics in Goat Simulator]]
-- [[humor_in_video_games | Humor in video games]]
+### [Yosenju Budget Deck Profile October 2015 | Under $30! | KuanCeptionFILMS](https://www.youtube.com/watch?v=XBP5-8-XoUM)
+- [[yosenju_budget_deck_strategies | Yosenju budget deck strategies]]
+- [[yosenju_deck_composition_and_cards | Yosenju deck composition and cards]]
+- [[normal_summoning_tactics_in_yosenju_deck | Normal summoning tactics in Yosenju deck]]
+- [[defensive_and_offensive_tactics_in_yosenju_deck | Defensive and offensive tactics in Yosenju deck]]
+- [[costeffective_card_options_for_yosenju_deck | Costeffective card options for Yosenju deck]]
+
+### [How to play LeBlanc | KuanCeptionFILMS](https://www.youtube.com/watch?v=tqFNeR0aJbU)
+- [[basic_strategy_for_playing_leblanc | Basic strategy for playing LeBlanc]]
+- [[importance_of_positioning_in_lane | Importance of positioning in lane]]
+- [[tricking_opponents_and_making_plays | Tricking opponents and making plays]]
+- [[understanding_leblancs_abilities | Understanding LeBlancs abilities]]
+- [[managing_resources_and_itemization_for_leblanc | Managing resources and itemization for LeBlanc]]
 
 ### [Super Smash Bros. 3DS | Unboxing and Gameplay Commentary | KuanCeptionFILMS](https://www.youtube.com/watch?v=rH3qBj_QjIE)
 - [[super_smash_bros_3ds_unboxing | Super Smash Bros 3DS unboxing]]
-- [[super_smash_bros_3ds_character_roster | Super Smash Bros 3DS character roster]]
-- [[gameplay_commentary_and_first_impressions | Gameplay commentary and first impressions]]
-- [[comparison_of_3ds_and_wii_u_versions | Comparison of 3DS and Wii U versions]]
-- [[super_smash_bros_3ds_maps_and_levels | Super Smash Bros 3DS maps and levels]]
+- [[gameplay_commentary_of_super_smash_bros_3ds | Gameplay commentary of Super Smash Bros 3DS]]
+- [[exclusive_3ds_characters_in_super_smash_bros | Exclusive 3DS characters in Super Smash Bros]]
+- [[comparison_between_3ds_and_wii_u_versions_of_super_smash_bros | Comparison between 3DS and Wii U versions of Super Smash Bros]]
+- [[character_selection_and_gameplay_strategies_in_super_smash_bros | Character selection and gameplay strategies in Super Smash Bros]]
 
-### [Luckiest 2015 Dark Rebellion Xyz Dragon Mega Tin Opening Ever! (Yugioh 2015 Mega Tin Opening)](https://www.youtube.com/watch?v=KfDc3rzkC-A)
-- [[2015_dark_rebellion_xyz_dragon_mega_tin_opening | 2015 Dark Rebellion Xyz Dragon Mega Tin opening]]
-- [[yugioh_tcg_products_of_2015 | Yugioh TCG products of 2015]]
-- [[featured_cards_in_the_2015_mega_tin | Featured cards in the 2015 Mega Tin]]
-- [[yugioh_card_reprints_and_meta_cards_of_2015 | Yugioh card reprints and meta cards of 2015]]
-- [[lucky_pulls_and_rare_cards_in_2015_mega_tin | Lucky pulls and rare cards in 2015 Mega Tin]]
+### [FIRE GUY | League of Legends | KuanCeptionFILMS](https://www.youtube.com/watch?v=kTbfSZ2EBe0)
+- [[league_of_legends_gameplay_strategies | League of Legends gameplay strategies]]
+- [[brand_character_in_league_of_legends | Brand character in League of Legends]]
+- [[challenges_with_account_bans_in_online_games | Challenges with account bans in online games]]
+- [[navigating_in_game_communication_and_identification | Navigating in game communication and identification]]
+- [[chain_crowd_control_mechanics_in_league_of_legends | Chain crowd control mechanics in League of Legends]]
 
-### [Reacting to Final Fantasy VII PS4 Remake | KuanCeptionFILMS](https://www.youtube.com/watch?v=iavPmI4fqu0)
-- [[e3_2015_gaming_event | E3 2015 gaming event]]
-- [[final_fantasy_vii_remake_announcement | Final Fantasy VII remake announcement]]
-- [[sony_playstation_4_excitement | Sony PlayStation 4 excitement]]
-- [[gaming_community_reactions | Gaming community reactions]]
+### [Traptrix Gravekeeper's 2015 Anti-Meta Troll Deck | Deck Profile | KuanCeptionFILMS](https://www.youtube.com/watch?v=0vDjMSZK3lc)
+- [[traptrix_gravekeeper_deck_profile | Traptrix Gravekeeper Deck Profile]]
+- [[antimeta_yugioh_deck_building | AntiMeta YuGiOh Deck Building]]
+- [[trap_card_strategies_in_yugioh | Trap Card Strategies in YuGiOh]]
+- [[budget_decks_in_yugioh | Budget Decks in YuGiOh]]
+- [[extra_deck_and_card_synergies | Extra Deck and Card Synergies]]
 
-### [Tahm Kench Champion Danklight | KuanCeptionFILMS](https://www.youtube.com/watch?v=sc7WS6J0Q58)
-- [[league_of_legends_gameplay | League of Legends gameplay]]
-- [[tahm_kench_character_abilities | Tahm Kench character abilities]]
-- [[tahm_kench_strategies | Tahm Kench strategies]]
-- [[champion_spotlight_in_league_of_legends | Champion Spotlight in League of Legends]]
+### [Goat Simulator Funny Moments | KuanCeptionFILMS](https://www.youtube.com/watch?v=lMJ8tf_-Ul8)
+- [[goat_simulator_gameplay | Goat Simulator gameplay]]
+- [[funny_moments_in_gaming | Funny moments in gaming]]
+- [[hilarious_pc_games | Hilarious PC games]]
+- [[video_game_commentary | Video game commentary]]
+- [[goat_simulator_stunts_and_tricks | Goat Simulator stunts and tricks]]
 
 ### [Yugioh Star Pack ARC V 24 Packs Opening | KuanCeptionFILMS](https://www.youtube.com/watch?v=W5lA_Cp51nc)
-- [[unboxing_star_pack_arc_v | Unboxing Star Pack Arc V]]
-- [[chasing_rare_yugioh_cards | Chasing rare Yugioh cards]]
-- [[featured_cards_in_star_pack_arc_v | Featured cards in Star Pack Arc V]]
-- [[review_of_pack_pulls_and_highlights | Review of pack pulls and highlights]]
-- [[yugioh_card_game_strategy_insights | Yugioh card game strategy insights]]
+- [[yugioh_star_pack_arc_v_overview | Yugioh Star Pack ARC V overview]]
+- [[notable_cards_in_star_pack_arc_v | Notable cards in Star Pack ARC V]]
+- [[dark_rebellion_xyz_dragon_pursuit | Dark Rebellion XYZ Dragon pursuit]]
+- [[constellar_pleiades_cards_in_star_pack_arc_v | Constellar Pleiades cards in Star Pack ARC V]]
+- [[opening_and_unboxing_experience | Opening and unboxing experience]]
+
+### [Reacting to Final Fantasy VII PS4 Remake | KuanCeptionFILMS](https://www.youtube.com/watch?v=iavPmI4fqu0)
+- [[e3_2015_game_releases | E3 2015 game releases]]
+- [[final_fantasy_vii_remake | Final Fantasy VII remake]]
+- [[sony_announcements | Sony announcements]]
+- [[playstation_4_excitement | PlayStation 4 excitement]]
+
+### [Luckiest 2015 Dark Rebellion Xyz Dragon Mega Tin Opening Ever! (Yugioh 2015 Mega Tin Opening)](https://www.youtube.com/watch?v=KfDc3rzkC-A)
+- [[yugioh_2015_mega_tin_features | Yugioh 2015 Mega Tin features]]
+- [[dark_rebellion_xyz_dragon | Dark Rebellion Xyz Dragon]]
+- [[yugioh_card_reprints | Yugioh card reprints]]
+- [[pulling_rare_yugioh_cards | Pulling rare Yugioh cards]]
+- [[promotional_yugioh_cards | Promotional Yugioh cards]]
+
+### [Black Ops 3 Beta PC First Impressions | Frame Drop, Wall Running, Optimization, Etc.](https://www.youtube.com/watch?v=kkg0ErHF_ao)
+- [[black_ops_3_beta_pc_performance | Black Ops 3 beta PC performance]]
+- [[frame_rate_issues_and_optimization | Frame rate issues and optimization]]
+- [[comparison_of_pc_and_console_versions | Comparison of PC and console versions]]
+- [[audio_quality_in_black_ops_3 | Audio quality in Black Ops 3]]
+- [[gameplay_challenges_and_bugs_in_black_ops_3_beta | Gameplay challenges and bugs in Black Ops 3 beta]]
 
 ### [Best of E3 2014 | White PS4, Destiny, Super Smash Bros. 4, and Much More | KuanCeptionFILMS](https://www.youtube.com/watch?v=D_QRsAAyf50)
 - [[e3_2014_highlights | E3 2014 highlights]]
-- [[white_playstation_4_destiny_bundle | White PlayStation 4 Destiny bundle]]
+- [[white_ps4_destiny_bundle | White PS4 Destiny bundle]]
 - [[battlefield_hardline | Battlefield Hardline]]
-- [[call_of_duty_advanced_warfare | Call of Duty Advanced Warfare]]
 - [[super_smash_bros_4 | Super Smash Bros 4]]
-
-### [Black Ops 3 Beta PC First Impressions | Frame Drop, Wall Running, Optimization, Etc.](https://www.youtube.com/watch?v=kkg0ErHF_ao)
-- [[black_ops_3_beta_pc_performance_issues | Black Ops 3 beta PC performance issues]]
-- [[call_of_duty_console_vs_pc_gameplay | Call of Duty console vs PC gameplay]]
-- [[optimization_problems_in_black_ops_3 | Optimization problems in Black Ops 3]]
-- [[audio_quality_in_black_ops_3 | Audio quality in Black Ops 3]]
-- [[black_ops_3_beta_lag_and_server_issues | Black Ops 3 beta lag and server issues]]
+- [[call_of_duty_advanced_warfare | Call of Duty Advanced Warfare]]
 
 ### [Illaoi Champion Danklight - League of Legends Champion Spotlight Parody](https://www.youtube.com/watch?v=PS0orkAukCw)
-- [[league_of_legends | League of Legends]]
 - [[illaoi_champion_abilities | Illaoi champion abilities]]
+- [[tentacle_smash_and_its_uses | Tentacle Smash and its uses]]
 - [[gameplay_strategies_for_illaoi | Gameplay strategies for Illaoi]]
-- [[parody_elements_in_the_spotlight | Parody elements in the spotlight]]
-- [[illaois_role_and_skills_in_team_fights | Illaois role and skills in team fights]]
+- [[parody_elements_in_champion_spotlight | Parody elements in champion spotlight]]
+- [[illaois_role_in_team_fights | Illaois role in team fights]]
 
 ### [Yugioh Synchron Extreme Japanese Structure Deck Opening | KuanCeptionFILMS](https://www.youtube.com/watch?v=KmfEHkQJYkw)
-- [[yugioh_synchron_extreme_japanese_structure_deck_overview | YuGiOh Synchron Extreme Japanese Structure Deck overview]]
-- [[stardust_warrior_and_other_featured_cards | Stardust Warrior and other featured cards]]
-- [[comparison_of_japanese_and_us_yugioh_decks | Comparison of Japanese and US YuGiOh decks]]
-- [[key_cards_and_combos_in_synchron_extreme_deck | Key cards and combos in Synchron Extreme deck]]
-- [[buying_and_importing_japanese_yugioh_decks | Buying and importing Japanese YuGiOh decks]]
+- [[yugioh_synchron_extreme_japanese_structure_deck | Yugioh Synchron Extreme Japanese Structure Deck]]
+- [[key_cards_in_synchron_extreme_deck | Key Cards in Synchron Extreme Deck]]
+- [[japanese_vs_english_yugioh_decks | Japanese vs English Yugioh Decks]]
+- [[unboxing_of_synchron_extreme_structure_deck | Unboxing of Synchron Extreme Structure Deck]]
+- [[importing_japanese_yugioh_cards | Importing Japanese Yugioh Cards]]
+
+### [Tahm Kench Champion Danklight | KuanCeptionFILMS](https://www.youtube.com/watch?v=sc7WS6J0Q58)
+- [[league_of_legends | League of Legends]]
+- [[tahm_kench_champion_gameplay | Tahm Kench champion gameplay]]
+- [[tahm_kench_abilities | Tahm Kench abilities]]
+- [[river_king_character_lore | River King character lore]]
+- [[tahm_kench_strategy | Tahm Kench strategy]]
+
+### [Yugioh 3 Emperor of Darkness Structure Decks Giveaway | Ending May 26th | KuanCeptionFILMS](https://www.youtube.com/watch?v=clWRVIdq1O4)
+- [[yugioh_emperor_of_darkness_structure_decks | Yugioh Emperor of Darkness Structure Decks]]
+- [[yugioh_deck_giveaway | Yugioh deck giveaway]]
+- [[subscriber_engagement_and_participation | Subscriber engagement and participation]]
+- [[channel_and_content_updates | Channel and content updates]]
+- [[giveaway_rules_and_timeline | Giveaway rules and timeline]]
+
+### [Hilarious Yugioh Primal Origins OCG Booster Box Opening  (Beware of Dank) | KuanCeptionFILMS](https://www.youtube.com/watch?v=Js8YmDYgeMk)
+- [[yugioh_primal_origins_booster_box_opening | Yugioh Primal Origins booster box opening]]
+- [[rare_and_prismatic_card_pulls | Rare and prismatic card pulls]]
+- [[korean_ocg_yugioh_card_types | Korean OCG Yugioh card types]]
+- [[bujin_and_galaxyeyes_photon_cards | Bujin and GalaxyEyes Photon cards]]
+- [[unboxing_experience_and_challenges | Unboxing experience and challenges]]
 
 ### [Death From Above Montage | COD AW Insane Montage | KuanCeptionFILMS](https://www.youtube.com/watch?v=UaJMmlSvk7Q)
-- [[call_of_duty_advanced_warfare_montage | Call of Duty Advanced Warfare montage]]
-- [[kuanceptionfilms_video_production | KuanCeptionFILMS video production]]
-- [[gameplay_sequences | Gameplay sequences]]
-- [[music_integration_in_gaming_videos | Music integration in gaming videos]]
-- [[video_editing_techniques | Video editing techniques]]
-
-### [Minecraft PE 0.8.0 Update iPhone, iPad, iPod Touch](https://www.youtube.com/watch?v=wCfCsOlCHI0)
-- [[minecraft_pocket_edition_080_update_features | Minecraft Pocket Edition 080 update features]]
-- [[introduction_of_rails_and_minecarts | Introduction of rails and minecarts]]
-- [[enhancements_in_creative_mode | Enhancements in creative mode]]
-- [[new_items_and_blocks_in_minecraft_pe | New items and blocks in Minecraft PE]]
-- [[graphics_and_performance_improvements | Graphics and performance improvements]]
+- [[call_of_duty_advanced_warfare | Call of Duty Advanced Warfare]]
+- [[montage_creation | Montage creation]]
+- [[music_and_gaming | Music and gaming]]
+- [[ingame_action_sequences | Ingame action sequences]]
 
 ### [Lenovo Ideapad y510p Unboxing | KuanCeptionFILMS](https://www.youtube.com/watch?v=ob256XOsG2k)
 - [[lenovo_ideapad_y510p_unboxing | Lenovo Ideapad y510p unboxing]]
-- [[lenovo_ideapad_y510p_specifications | Lenovo Ideapad y510p specifications]]
-- [[nvidia_geforce_gtx_755_ti_graphics_card | NVIDIA GeForce GTX 755 Ti graphics card]]
-- [[intel_core_i7_fourth_generation_processor | Intel Core i7 fourth generation processor]]
-- [[lenovo_ideapad_y510p_design_and_build_quality | Lenovo Ideapad y510p design and build quality]]
-
-### [Yugioh 3 Emperor of Darkness Structure Decks Giveaway | Ending May 26th | KuanCeptionFILMS](https://www.youtube.com/watch?v=clWRVIdq1O4)
-- [[emperor_of_darkness_structure_deck_giveaway | Emperor of Darkness Structure Deck giveaway]]
-- [[how_to_enter_the_yugioh_giveaway | How to enter the Yugioh giveaway]]
-- [[yugioh_channel_engagement_and_community | Yugioh channel engagement and community]]
-- [[victors_consistency_with_video_uploads | Victors consistency with video uploads]]
-- [[giveaway_schedule_and_announcements | Giveaway schedule and announcements]]
-
-### [KuanCeptionFILMS 300 Subscribers Greatest Moments Montage](https://www.youtube.com/watch?v=VsGkezQ17Vg)
-- [[commentary_on_advanced_warfare_and_black_ops_2 | commentary on advanced warfare and black ops 2]]
-- [[gaming_moments_and_highlights | gaming moments and highlights]]
-- [[parodies_and_humorous_commentary | parodies and humorous commentary]]
-- [[league_of_legends_gameplay | league of legends gameplay]]
-- [[video_gaming_and_game_preferences | video gaming and game preferences]]
+- [[ideapad_y510p_specifications | Ideapad y510p specifications]]
+- [[graphics_card_details_for_ideapad_y510p | Graphics card details for Ideapad y510p]]
+- [[design_and_build_quality_of_ideapad_y510p | Design and build quality of Ideapad y510p]]
+- [[gaming_capabilities_of_ideapad_y510p | Gaming capabilities of Ideapad y510p]]
 
 ### [Yugioh Dank Value Box Opening | KuanCeptionFILMS](https://www.youtube.com/watch?v=bKz83SYVtHo)
-- [[yugioh_value_box_opening | Yugioh value box opening]]
-- [[ferry_structure_deck_analysis | Ferry structure deck analysis]]
-- [[supply_and_demand_in_trading_cards | Supply and demand in trading cards]]
-- [[yugioh_card_pack_reviews | Yugioh card pack reviews]]
-- [[noble_knights_structure_deck_contents | Noble knights structure deck contents]]
+- [[yugioh_value_cube_contents_and_value | Yugioh value cube contents and value]]
+- [[structure_deck_and_reprints | Structure deck and reprints]]
+- [[card_packs_and_card_quality | Card packs and card quality]]
+- [[unboxing_experience_and_product_review | Unboxing experience and product review]]
+- [[recap_of_featured_cards | Recap of featured cards]]
+
+### [Minecraft PE 0.8.0 Update iPhone, iPad, iPod Touch](https://www.youtube.com/watch?v=wCfCsOlCHI0)
+- [[minecraft_pocket_edition_080_update_features | Minecraft Pocket Edition 080 update features]]
+- [[new_items_and_creative_mode_changes_in_minecraft_pe | New items and creative mode changes in Minecraft PE]]
+- [[improved_graphics_and_render_distance_in_minecraft_pe | Improved graphics and render distance in Minecraft PE]]
+- [[new_plant_types_and_seeds_in_minecraft_pe | New plant types and seeds in Minecraft PE]]
+- [[integration_of_minecarts_and_rails_in_minecraft_pe | Integration of minecarts and rails in Minecraft PE]]
 
 ### [Weeaboo Wednesday Ep. 1: Your Daily Dose Of Weeaboo Crap | KuanCeptionFILMS](https://www.youtube.com/watch?v=QN7OHEU8SSw)
-- [[weeaboo_culture | Weeaboo culture]]
-- [[pokemon_card_openings | Pokemon card openings]]
-- [[gaming_discussions | Gaming discussions]]
-- [[anime_and_light_novel_mentions | Anime and light novel mentions]]
-- [[weeaboo_wednesdays_series_format | Weeaboo Wednesdays series format]]
+- [[weeaboo_wednesdays_series_introduction | Weeaboo Wednesdays series introduction]]
+- [[compilation_of_vlog_clips | Compilation of vlog clips]]
+- [[opening_korean_ocg_pokemon_packs | Opening Korean OCG Pokemon packs]]
+- [[discussion_on_anime_and_light_novels | Discussion on anime and light novels]]
+- [[viewer_engagement_and_interaction | Viewer engagement and interaction]]
 
 ### [Luckiest 2015 Odd Eyes Pendulum Dragon Mega Tin Opening! Dank Pulls](https://www.youtube.com/watch?v=MOJtkHtD-XI)
-- [[2015_odd_eyes_pendulum_dragon_mega_tin_contents | 2015 Odd Eyes Pendulum Dragon Mega Tin contents]]
-- [[discussion_of_lucky_pulls_and_repeats | Discussion of lucky pulls and repeats]]
-- [[card_types_and_rarities_like_secret_rare_and_promo_cards | Card types and rarities like secret rare and promo cards]]
-- [[comparison_with_dark_rebellion_xyz_dragon_mega_tin | Comparison with Dark Rebellion XYZ Dragon Mega Tin]]
-- [[reactions_to_unexpected_and_rare_card_pulls | Reactions to unexpected and rare card pulls]]
+- [[odd_eyes_pendulum_dragon_mega_tin_opening | Odd Eyes Pendulum Dragon Mega Tin Opening]]
+- [[2015_mega_tin_pull_results | 2015 Mega Tin Pull Results]]
+- [[yugioh_card_collecting_strategies | YuGiOh Card Collecting Strategies]]
+- [[rare_and_promo_yugioh_cards | Rare and Promo YuGiOh Cards]]
+- [[yugioh_pack_opening_experience | YuGiOh Pack Opening Experience]]
 
 ### [Another Dank Yugioh Value Cube Opening! | KuanCeptionFILMS](https://www.youtube.com/watch?v=6R2whb_rS10)
-- [[yugioh_value_cube_opening | YuGiOh value cube opening]]
+- [[yugioh_value_cube_contents | Yugioh value cube contents]]
 - [[gravekeeper_structure_deck | Gravekeeper structure deck]]
-- [[card_packs_and_foil_cards | Card packs and foil cards]]
-- [[yugioh_card_market_value | YuGiOh card market value]]
-- [[yugioh_deck_building_tips | YuGiOh deck building tips]]
-
-### [Hilarious Yugioh Primal Origins OCG Booster Box Opening  (Beware of Dank) | KuanCeptionFILMS](https://www.youtube.com/watch?v=Js8YmDYgeMk)
-- [[yugioh_primal_origin_ocg_booster_box_opening | YuGiOh Primal Origin OCG Booster Box Opening]]
-- [[rare_and_super_rare_card_pulls | Rare and Super Rare Card Pulls]]
-- [[galaxy_eyes_photon_dragon_and_other_valuable_cards | Galaxy Eyes Photon Dragon and Other Valuable Cards]]
-- [[boosterr_box_opening_experience_and_challenges | Boosterr Box Opening Experience and Challenges]]
-- [[significance_of_various_yugioh_cards | Significance of Various YuGiOh Cards]]
-
-### [Yugioh Star Pack 2013 Booster Box Opening and Giveaway | KuanCeptionFILMS](https://www.youtube.com/watch?v=g7fScOEuIE8)
-- [[unboxing_of_yugioh_star_pack_2013_booster_box | Unboxing of Yugioh Star Pack 2013 Booster Box]]
-- [[discussion_of_card_features_and_deck_compatibility | Discussion of card features and deck compatibility]]
-- [[highlight_of_specific_foil_and_rare_cards | Highlight of specific foil and rare cards]]
-- [[commentary_on_the_rarity_and_playability_of_cards | Commentary on the rarity and playability of cards]]
-- [[channel_giveaway_and_participation_instructions | Channel giveaway and participation instructions]]
-
-### [DRAKON AND P-06 ARE OP ON PC! | Black Ops 3 Rant & Gameplay Commentary](https://www.youtube.com/watch?v=Kvmf0qtkXag)
-- [[pc_community_issues_in_black_ops_3 | PC community issues in Black Ops 3]]
-- [[weapon_balance_problems_on_pc_vs_console | Weapon balance problems on PC vs console]]
-- [[overuse_of_drakon_and_p06_in_black_ops_3_pc_community | Overuse of Drakon and P06 in Black Ops 3 PC community]]
-- [[need_for_dedicated_pc_weapon_balancing_in_black_ops_3 | Need for dedicated PC weapon balancing in Black Ops 3]]
-- [[comparison_of_weapon_optimization_between_pc_and_console | Comparison of weapon optimization between PC and console]]
+- [[foil_and_promo_cards_in_value_cube | Foil and promo cards in value cube]]
+- [[comparing_value_cube_packs | Comparing value cube packs]]
+- [[worth_of_gravekeepers_deck_on_secondary_market | Worth of Gravekeepers deck on secondary market]]
 
 ### [My Sister Plays Goat Simulator | KuanCeptionFILMS](https://www.youtube.com/watch?v=zSJCE1WNIDA)
 - [[goat_simulator_gameplay | Goat Simulator gameplay]]
-- [[player_reactions_to_goat_simulator | Player reactions to Goat Simulator]]
-- [[funny_moments_in_gaming | Funny moments in gaming]]
-- [[siblings_playing_video_games | Siblings playing video games]]
-- [[gaming_commentary | Gaming commentary]]
-
-### [LUCIMAN | League of Legends Lucian Montage + Parody](https://www.youtube.com/watch?v=dBTAGT3v6-E)
-- [[montage_and_gameplay_of_lucian_in_league_of_legends | Montage and gameplay of Lucian in League of Legends]]
-- [[parody_elements_in_the_video | Parody elements in the video]]
-- [[lucian_character_strategies_and_plays | Lucian character strategies and plays]]
-- [[humorous_narration_and_commentary | Humorous narration and commentary]]
-- [[challenges_faced_during_gameplay | Challenges faced during gameplay]]
-
-### [SUPER RARE YUGIOH PULLS | KuanCeptionFILMS](https://www.youtube.com/watch?v=v2Gl5tn-5Kg)
-- [[rare_yugioh_deck_box_unboxing | Rare YuGiOh deck box unboxing]]
-- [[collecting_ultra_rare_yugioh_cards | Collecting ultra rare YuGiOh cards]]
-- [[fermenting_yugioh_decks_for_rarity | Fermenting YuGiOh decks for rarity]]
-- [[collecting_panda_figurines | Collecting panda figurines]]
-- [[challenges_in_finding_valuable_yugioh_cards | Challenges in finding valuable YuGiOh cards]]
+- [[reaction_to_video_games | Reaction to video games]]
+- [[game_mechanics_and_controls | Game mechanics and controls]]
+- [[humor_in_video_games | Humor in video games]]
+- [[lets_play_video_format | Lets Play video format]]
 
 ### [Yet Another Dank Yugioh Blister From Target Opening | KuanCeptionFILMS](https://www.youtube.com/watch?v=7KlnvQukcCI)
-- [[yugioh_card_opening_at_target | Yugioh card opening at Target]]
-- [[booster_pack_and_promo_cards | Booster pack and promo cards]]
-- [[foil_cards_and_mystery_unveiling | Foil cards and mystery unveiling]]
-- [[yugioh_deck_building_strategies | Yugioh deck building strategies]]
-- [[redistributing_companies_and_card_rarity | Redistributing companies and card rarity]]
+- [[opening_yugioh_card_packs | Opening Yugioh Card Packs]]
+- [[target_blister_packs_unboxing | Target Blister Packs Unboxing]]
+- [[yugioh_foil_promo_cards | Yugioh Foil Promo Cards]]
+- [[building_rank_four_decks | Building Rank Four Decks]]
+- [[redistributing_companies_in_card_collecting | Redistributing Companies in Card Collecting]]
+
+### [Yugioh Star Pack 2013 Booster Box Opening and Giveaway | KuanCeptionFILMS](https://www.youtube.com/watch?v=g7fScOEuIE8)
+- [[yugioh_star_pack_2013_booster_box_overview | Yugioh Star Pack 2013 booster box overview]]
+- [[unboxing_procedure_and_card_arrangement | Unboxing procedure and card arrangement]]
+- [[notable_cards_and_their_effects | Notable cards and their effects]]
+- [[elemental_hero_deck_composition | Elemental Hero deck composition]]
+- [[channel_giveaway_details | Channel giveaway details]]
+
+### [DANK Yugioh Legendary Collection 3 Yugi's World Opening | Great Pulls! | KuanCeptionFILMS](https://www.youtube.com/watch?v=V4vFQxL2_XU)
+- [[yugioh_legendary_collection_3_yugis_world_opening | Yugioh Legendary Collection 3 Yugis World opening]]
+- [[seal_of_orichalcos_and_other_ultra_rare_cards | Seal of Orichalcos and other ultra rare cards]]
+- [[reprints_of_classic_yugioh_cards | Reprints of classic Yugioh cards]]
+- [[mega_packs_contents_and_card_pulls | Mega packs contents and card pulls]]
+- [[overview_and_recap_of_rare_cards_obtained | Overview and recap of rare cards obtained]]
+
+### [DRAKON AND P-06 ARE OP ON PC! | Black Ops 3 Rant & Gameplay Commentary](https://www.youtube.com/watch?v=Kvmf0qtkXag)
+- [[black_ops_3_weapon_balance_issues_on_pc | Black Ops 3 weapon balance issues on PC]]
+- [[impact_of_drakon_and_p06_on_gameplay | Impact of Drakon and P06 on gameplay]]
+- [[differences_between_pc_and_console_weapon_optimization | Differences between PC and console weapon optimization]]
+- [[need_for_dedicated_weapon_balancing_for_pc | Need for dedicated weapon balancing for PC]]
+- [[community_feedback_and_developer_responsiveness | Community feedback and developer responsiveness]]
+
+### [LUCIMAN | League of Legends Lucian Montage + Parody](https://www.youtube.com/watch?v=dBTAGT3v6-E)
+- [[league_of_legends_lucian_gameplay | League of Legends Lucian gameplay]]
+- [[lucian_montage | Lucian montage]]
+- [[ingame_strategies_and_tactics | Ingame strategies and tactics]]
+- [[parody_elements_in_gaming_videos | Parody elements in gaming videos]]
+- [[community_and_communication_in_gaming | Community and communication in gaming]]
 
 ### ["Whoops" GTA V w/hacks Hilarious Gameplay Commentary | KuanCeptionFILMS](https://www.youtube.com/watch?v=bVcf3mbuajI)
 - [[gta_v_gameplay_commentary | GTA V gameplay commentary]]
-- [[technical_issues_with_elgato_game_capture | Technical issues with Elgato game capture]]
-- [[hilarious_moments_in_los_santos | Hilarious moments in Los Santos]]
-- [[channel_collaborations_and_shoutouts | Channel collaborations and shoutouts]]
-- [[future_content_and_video_recommendations | Future content and video recommendations]]
+- [[elgato_game_capture_issues | Elgato game capture issues]]
+- [[los_santos_cityscape_in_gta_v | Los Santos cityscape in GTA V]]
+- [[humor_in_video_game_commentary | Humor in video game commentary]]
+- [[content_on_quanceptionfilms_channel | Content on QuanCeptionFILMS channel]]
 
-### [DANK Yugioh Legendary Collection 3 Yugi's World Opening | Great Pulls! | KuanCeptionFILMS](https://www.youtube.com/watch?v=V4vFQxL2_XU)
-- [[yugioh_legendary_collection_3_yugis_world | YuGiOh Legendary Collection 3 Yugis World]]
-- [[the_seal_of_orichalcos | The Seal of Orichalcos]]
-- [[reprints_of_classic_yugioh_cards | Reprints of Classic YuGiOh Cards]]
-- [[ultra_rare_and_secret_rare_cards | Ultra Rare and Secret Rare Cards]]
-- [[yugioh_trading_card_game_opening | YuGiOh Trading Card Game Opening]]
+### [Synchron Extreme Structure Deck Opening and GIVEAWAY! | KuanCeptionFILMS](https://www.youtube.com/watch?v=OXSddo2L5jc)
+- [[synchron_extreme_structure_deck_opening | Synchron Extreme Structure Deck opening]]
+- [[giveaway_details_and_entry_requirements | Giveaway details and entry requirements]]
+- [[discussion_of_reprints_in_the_structure_deck | Discussion of reprints in the structure deck]]
+- [[comparison_of_different_yugioh_products | Comparison of different YuGiOh products]]
+- [[description_of_specific_cards_in_the_synchron_extreme_structure_deck | Description of specific cards in the Synchron Extreme Structure Deck]]
 
-### [Old School Lunch Episode 1: Pokemon Fire Red Walkthrough part 1](https://www.youtube.com/watch?v=Z3Hmnfh0FHc)
-- [[pokemon_fire_red_gameplay | Pokemon Fire Red gameplay]]
-- [[professor_oak_and_pokemon_selection | Professor Oak and Pokemon selection]]
-- [[pokemon_training_and_battles | Pokemon training and battles]]
-- [[ingame_technology_and_items | Ingame technology and items]]
-- [[character_interactions_and_dialogue | Character interactions and dialogue]]
+### [SUPER RARE YUGIOH PULLS | KuanCeptionFILMS](https://www.youtube.com/watch?v=v2Gl5tn-5Kg)
+- [[opening_a_rare_yugioh_deck_box | Opening a rare Yugioh deck box]]
+- [[misleading_appearance_of_the_deck_box | Misleading appearance of the deck box]]
+- [[discovering_league_of_legends_codes | Discovering League of Legends codes]]
+- [[finding_ultra_rare_yugioh_cards | Finding ultra rare Yugioh cards]]
+- [[collectible_panda_figurines | Collectible panda figurines]]
 
 ### [How Lizard Squad Stole Christmas | COD AW Gameplay Commentary | KuanCeptionFILMS](https://www.youtube.com/watch?v=VWLFf3pqHq4)
-- [[lizard_squad_hacking_incident | Lizard Squad hacking incident]]
+- [[lizard_squad_hacking_incidents | Lizard Squad hacking incidents]]
 - [[impact_on_xbox_live_and_playstation_network | Impact on Xbox Live and PlayStation Network]]
-- [[lizard_squad_versus_finest_squad | Lizard Squad versus Finest Squad]]
-- [[holiday_gaming_frustration | Holiday gaming frustration]]
-- [[response_of_gaming_networks_to_hacking | Response of gaming networks to hacking]]
-
-### [What Is This Game | Paradigm Gameplay | KuanCeptionFILMS](https://www.youtube.com/watch?v=tHO4p1Duzqk)
-- [[overview_of_paradigm_gameplay | Overview of Paradigm gameplay]]
-- [[game_features_and_mechanics_of_paradigm | Game features and mechanics of Paradigm]]
-- [[plot_and_narrative_of_paradigm | Plot and narrative of Paradigm]]
-- [[characters_in_paradigm | Characters in Paradigm]]
-- [[challenges_faced_during_gameplay | Challenges faced during gameplay]]
-
-### [SOUND THE MURKY ALARM | Murky Full Game Commentary | KuanCeptionFILMS](https://www.youtube.com/watch?v=i9LeO-S-iYE)
-- [[gameplay_strategies_for_playing_as_murky_in_heroes_of_the_storm | Gameplay strategies for playing as Murky in Heroes of the Storm]]
-- [[bubble_build_technique_for_murky | Bubble build technique for Murky]]
-- [[importance_of_map_objectives_in_heroes_of_the_storm | Importance of map objectives in Heroes of the Storm]]
-- [[full_game_commentary_and_analysis_of_murky | Full game commentary and analysis of Murky]]
-- [[tips_for_improving_strategy_and_siege_damage_with_murky | Tips for improving strategy and siege damage with Murky]]
+- [[reactions_to_gaming_network_outages | Reactions to gaming network outages]]
+- [[competitions_between_hacking_groups | Competitions between hacking groups]]
 
 ### [I suck at MW3! | Hilarious MW3 Sniping Moments | KuanCeptionFILMS](https://www.youtube.com/watch?v=vGZf4a2wb7o)
 - [[modern_warfare_3_gameplay | Modern Warfare 3 gameplay]]
-- [[sniping_in_mw3 | Sniping in MW3]]
-- [[strategies_in_team_deathmatch | Strategies in team deathmatch]]
-- [[handling_ingame_challenges | Handling ingame challenges]]
-- [[gamers_reactions_and_commentary | Gamers reactions and commentary]]
-
-### [BRECCI IS OP! | COD Black Ops 3 Gameplay Commentary | My Best Brecci Moments](https://www.youtube.com/watch?v=zvDoa29fuvQ)
-- [[brecci_gameplay_in_call_of_duty_black_ops_3 | Brecci gameplay in Call of Duty Black Ops 3]]
-- [[best_brecci_moments | Best Brecci moments]]
-- [[nuketown_and_combine_maps_strategies | Nuketown and Combine maps strategies]]
-- [[advantages_of_using_semiautomatic_shotguns | Advantages of using semiautomatic shotguns]]
-- [[experiences_with_gameplay_on_pc | Experiences with gameplay on PC]]
+- [[sniping_moments_in_fps_games | Sniping moments in FPS games]]
+- [[multiplayer_strategies | Multiplayer strategies]]
+- [[game_commentary_humor | Game commentary humor]]
+- [[gaming_culture_and_community | Gaming culture and community]]
 
 ### [Yugioh 2012 Premium Collection Tin Opening | 14 Foil Cards | KuanCeptionFILMS](https://www.youtube.com/watch?v=sgLNEjIAA-Y)
-- [[yugioh_2012_premium_collection_tin_overview | YuGiOh 2012 Premium Collection Tin overview]]
-- [[unboxing_yugioh_premium_collection_tin | Unboxing YuGiOh Premium Collection Tin]]
-- [[elemental_hero_the_shining_card | Elemental Hero The Shining card]]
-- [[significance_of_mass_hero_acid_card | Significance of Mass Hero Acid card]]
-- [[collectibility_and_value_of_yugioh_cards | Collectibility and value of YuGiOh cards]]
+- [[yugioh_2012_premium_collection_tin | YuGiOh 2012 Premium Collection Tin]]
+- [[unboxing_and_rare_cards | Unboxing and rare cards]]
+- [[elemental_hero_the_shining | Elemental Hero The Shining]]
+- [[mass_hero_acid | Mass Hero Acid]]
+- [[yugioh_card_market_value | YuGiOh card market value]]
+
+### [Old School Lunch Episode 1: Pokemon Fire Red Walkthrough part 1](https://www.youtube.com/watch?v=Z3Hmnfh0FHc)
+- [[pokemon_firered_walkthrough | Pokemon FireRed walkthrough]]
+- [[starting_the_game_and_choosing_a_character | Starting the game and choosing a character]]
+- [[professor_oaks_introduction_and_pokemon_selection | Professor Oaks introduction and Pokemon selection]]
+- [[first_pokemon_battle_and_strategies | First Pokemon battle and strategies]]
+- [[gameplay_mechanics_and_item_usage | Gameplay mechanics and item usage]]
+
+### [What Is This Game | Paradigm Gameplay | KuanCeptionFILMS](https://www.youtube.com/watch?v=tHO4p1Duzqk)
+- [[paradigm_game_overview | Paradigm game overview]]
+- [[gameplay_mechanics_of_paradigm | Gameplay mechanics of Paradigm]]
+- [[adventure_and_puzzle_elements_in_paradigm | Adventure and puzzle elements in Paradigm]]
+- [[humor_and_storyline_in_paradigm | Humor and storyline in Paradigm]]
+- [[kickstarter_campaign_for_paradigm | Kickstarter campaign for Paradigm]]
+
+### [BRECCI IS OP! | COD Black Ops 3 Gameplay Commentary | My Best Brecci Moments](https://www.youtube.com/watch?v=zvDoa29fuvQ)
+- [[cod_black_ops_3_brecci_gameplay_highlights | COD Black Ops 3 Brecci gameplay highlights]]
+- [[using_the_brecci_shotgun_effectively | Using the Brecci shotgun effectively]]
+- [[strategies_for_rushing_on_nuketown_and_combine | Strategies for rushing on Nuketown and Combine]]
+- [[advantages_of_brecci_for_beginners | Advantages of Brecci for beginners]]
+- [[experiences_with_new_players_in_game_lobbies | Experiences with new players in game lobbies]]
 
 ### [Yugioh Master of Pendulum Structure Deck Giveaway | Yugioh Xmas Giveaway](https://www.youtube.com/watch?v=VbZYg61LuEU)
-- [[yugioh_master_of_pendulum_structure_deck | Yugioh Master of Pendulum Structure Deck]]
-- [[yugioh_giveaway_rules | Yugioh giveaway rules]]
-- [[subscriber_milestones | Subscriber milestones]]
-- [[content_creators_gratitude_to_subscribers | Content creators gratitude to subscribers]]
-- [[social_media_engagement_for_giveaways | Social media engagement for giveaways]]
+- [[yugioh_master_of_pendulum_structure_deck_giveaway | Yugioh Master of Pendulum Structure Deck giveaway]]
+- [[subscriber_milestone_celebration | Subscriber milestone celebration]]
+- [[giveaway_entry_instructions | Giveaway entry instructions]]
+- [[promotion_of_channel_and_facebook_page | Promotion of channel and Facebook page]]
+- [[holiday_greetings_and_well_wishes | Holiday greetings and well wishes]]
 
 ### [Black Ops 3 Gun Game PC Gameplay Commentary | FIRST BO3 VIDEO ON KUANCEPTIONFILMS!](https://www.youtube.com/watch?v=JruojjKgiM0)
-- [[call_of_duty_black_ops_3_gun_game_mode_analysis | Call of Duty Black Ops 3 Gun Game mode analysis]]
-- [[pc_gaming_optimization_issues_in_black_ops_3 | PC gaming optimization issues in Black Ops 3]]
-- [[comparison_of_black_ops_3_on_different_platforms | Comparison of Black Ops 3 on different platforms]]
-- [[challenges_and_experiences_of_transitioning_from_console_to_pc_gaming | Challenges and experiences of transitioning from console to PC gaming]]
-- [[multiplayer_strategies_and_gameplay_techniques_in_black_ops_3 | Multiplayer strategies and gameplay techniques in Black Ops 3]]
+- [[black_ops_3_gun_game_commentary | Black Ops 3 gun game commentary]]
+- [[pc_versus_console_gameplay_performance | PC versus console gameplay performance]]
+- [[challenges_of_playing_black_ops_3_on_pc | Challenges of playing Black Ops 3 on PC]]
+- [[map_strategies_and_player_tactics | Map strategies and player tactics]]
+- [[game_optimization_issues_on_different_platforms | Game optimization issues on different platforms]]
 
 ### [Yugioh Dank Premium Gold: Infinite Gold Opening! | KuanCeptionFILMS](https://www.youtube.com/watch?v=Xdfcpe2AL0I)
-- [[yugioh_premium_gold_series_overview | YuGiOh Premium Gold Series Overview]]
-- [[reprints_in_premium_gold_infinite_gold | Reprints in Premium Gold Infinite Gold]]
-- [[key_cards_in_premium_gold_infinite_gold | Key Cards in Premium Gold Infinite Gold]]
-- [[impact_of_reprints_on_yugioh_card_market | Impact of Reprints on Yugioh Card Market]]
-- [[personal_experience_with_yugioh_card_opening | Personal Experience with YuGiOh Card Opening]]
+- [[premium_gold_infinite_gold_unboxing | Premium Gold Infinite Gold unboxing]]
+- [[yugioh_card_reprints_in_premium_gold | Yugioh card reprints in Premium Gold]]
+- [[impact_of_reprints_on_market_value | Impact of reprints on market value]]
+- [[featured_cards_like_maxx_c_and_mass_change | Featured cards like Maxx C and Mass Change]]
+- [[excitement_about_new_yugioh_cards | Excitement about new Yugioh cards]]
 
-### [Synchron Extreme Structure Deck Opening and GIVEAWAY! | KuanCeptionFILMS](https://www.youtube.com/watch?v=OXSddo2L5jc)
-- [[synchron_extreme_structure_deck_review | Synchron Extreme Structure Deck review]]
-- [[yugioh_card_reprints_in_synchron_extreme_structure_deck | YuGiOh card reprints in Synchron Extreme Structure Deck]]
-- [[yugioh_structure_decks_and_starter_decks_comparison | YuGiOh structure decks and starter decks comparison]]
-- [[yugioh_synchron_extreme_structure_deck_giveaway_guidelines | YuGiOh Synchron Extreme Structure Deck giveaway guidelines]]
+### [SOUND THE MURKY ALARM | Murky Full Game Commentary | KuanCeptionFILMS](https://www.youtube.com/watch?v=i9LeO-S-iYE)
+- [[murky_gameplay_commentary | Murky gameplay commentary]]
+- [[strategies_for_playing_murky | Strategies for playing Murky]]
+- [[murkys_bubble_build | Murkys bubble build]]
+- [[battlefield_of_eternity_map_overview | Battlefield of Eternity map overview]]
+- [[heroes_of_the_storm_game_mechanics | Heroes of the Storm game mechanics]]
+
+### [Reacting to New Yugioh Banlist (July 2015) | Wow Konami | KuanCeptionFILMS](https://www.youtube.com/watch?v=y7Ego-XTqyA)
+- [[yugioh_banlist_review_and_changes | YuGiOh banlist review and changes]]
+- [[impact_of_banning_djinn_releaser_of_rituals | Impact of banning Djinn Releaser of Rituals]]
+- [[corporate_influence_on_card_bans | Corporate influence on card bans]]
+- [[unbanned_cards_and_their_potential_in_yugioh_gameplay | Unbanned cards and their potential in YuGiOh gameplay]]
+
+### [Weiβ Schwarz Nisekoi: False Love Trial Deck Opening | Being a Weeaboo w/KuanCeptionFILMS](https://www.youtube.com/watch?v=ryO6XnqkXrk)
+- [[wei_schwarz_nisekoi_trial_deck | Wei Schwarz Nisekoi Trial Deck]]
+- [[unboxing_and_review | Unboxing and Review]]
+- [[card_sleeves_and_packaging | Card Sleeves and Packaging]]
+- [[introduction_to_wei_schwarz_tcg | Introduction to Wei Schwarz TCG]]
+- [[learning_to_play_wei_schwarz | Learning to Play Wei Schwarz]]

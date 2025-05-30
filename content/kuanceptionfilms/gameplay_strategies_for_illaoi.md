@@ -5,24 +5,22 @@ videoId: PS0orkAukCw
 
 From: [[kuanceptionfilms]] <br/> 
 
-Illaoi, known as the Kraken Slayer, is a champion native to the Serpent Isles and a frequent visitor to Bilgewater <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. She travels beyond her homeland to test individuals she deems worthy <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+Illaoi is a champion in [[League of Legends gameplay | League of Legends]] known for her strong presence, particularly in [[ingame_strategies_and_tactics | lane]] and [[Illaois role in team fights | team fights]] <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. She is a native of the Serpent Isles <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
 
 ## Abilities
 
-Illaoi's kit is designed around summoning and utilizing tentacles to control areas and damage enemies.
+Illaoi's abilities are central to her [[gameplay_strategies_for_velkoz_and_illaoi | strategies]]:
 
-*   **Q: Tentacle Smash** <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>
-    *   Illaoi slams a tentacle down in a line, damaging all enemies hit <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
-    *   **[[league_of_legends_gameplay_strategy|Strategy]]:** This ability is useful for harassing your lane opponent from a distance <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. It can also be used to subdue opponents who move into range of your tentacles <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
-*   **E: Test of Spirit** <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>
-    *   Specific details of this ability's mechanics are not described in this transcript, but its name suggests a key element of Illaoi's spirit-taking [[illaoi_champion_abilities|abilities]].
-*   **Ultimate: Leap of Faith** <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>
-    *   While the specific effects are not detailed, this is Illaoi's ultimate ability.
+*   **Tentacle Smash (Q)** <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>: Illaoi slams tentacles down, damaging all enemies in their path <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>.
+*   **Test of Spirit (E)** <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>
+*   **Leap of Faith (Ultimate)** <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>
 
-## General [[league_of_legends_gameplay|Gameplay]] Considerations
+## Basic [[gameplay_strategies_for_velkoz_and_illaoi | Strategy]]
 
-Illaoi is considered a strong champion <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. Her [[league_of_legends_gameplay_strategy|gameplay strategy]] often revolves around her unique tentacle mechanics <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+Illaoi's [[Illaoi champion abilities | Tentacle Smash (Q)]] can be used to harass lane opponents from a distance <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. A key tactic involves setting up tentacles while in [[League of Legends gameplay | lane]] to trap opponents <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>. The goal is to subdue your opponent when they move to attack a tentacle <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
 
-### Team Fights
+### Tips for [[league_of_legends_gameplay_strategies | Playing Illaoi]]
 
-Illaoi excels in [[illaois_role_and_skills_in_team_fights|team fights]], where she can unleash a "big-ass" combo to wrap things up <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. This implies her ultimate and tentacle summons play a crucial role in area denial and burst damage during skirmishes.
+*   Use [[Illaoi champion abilities | Tentacle Smash]] to control the lane and poke enemies <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+*   Position tentacles strategically to zone or trap opponents <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+*   Be ready to capitalize when an enemy approaches a tentacle <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.

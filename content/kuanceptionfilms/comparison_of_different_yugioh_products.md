@@ -1,0 +1,25 @@
+---
+title: Comparison of different YuGiOh products
+videoId: OXSddo2L5jc
+---
+
+From: [[kuanceptionfilms]] <br/> 
+
+This article explores a comparison of different Yu-Gi-Oh! products, specifically focusing on Structure Decks and Starter Decks, as observed during an unboxing of the Synchron Extreme Structure Deck <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+
+## Structure Decks
+
+Structure Decks are highlighted as a currently strong product line from Konami <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. They are considered "really cool nowadays" <a class="yt-timestamp" data-t="00:02:11">[00:02:11]</a> and "so much cooler" than Starter Decks <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>.
+
+The Synchron Extreme Structure Deck, released a couple of weeks prior to the video's recording <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>, is featured. This deck is noted for containing "really cool [[yugioh_card_reprints | reprints]]" such as Effect Veiler <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>, Junk Warrior <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>, Junk Synchron <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>, Quick Draw Synchron <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>, and Solemn Warning <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>.
+
+Key cards included in the Synchron Extreme Structure Deck are:
+*   **Monsters:** Jet Synchron <a class="yt-timestamp" data-t="00:03:16">[00:03:16]</a>, Rush Warrior <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>, Synchron Carrier <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>, Junk Synchron (two copies) <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>, Quick Draw Synchron <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>, Drill Synchron <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>, Turbo Synchron <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>, Unknown Synchron <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>, Fleur Synchron <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>, Synchron Explorer <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>, Speed Warrior <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>, Sonic Warrior <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>, Nitro Warrior <a class="yt-timestamp" data-t="00:03:48">[00:03:48]</a> (reprint), Cloak and Dagger <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a>, Hedgehog <a class="yt-timestamp" data-t="00:03:49">[00:03:49]</a> (reprint), Tuning Ware <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>, Swift Scarecrow <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>, Level Eater <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>, and Effect Veiler <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
+*   **Synchro Monsters (Holo):** Stardust Warrior <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>, Jet Warrior <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>, and Accel Synchron <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+*   **Spells/Traps:** Scrap-Iron Scarecrow (quick-play spell) <a class="yt-timestamp" data-t="00:03:20">[00:03:20]</a>, Limit Overdrive <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a> (new quick-play spell), Starlight Junktion <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a> (new field spell), Tuning <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a> (reprint), Reinforce <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a> (reprint), One for One <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>, Night Beam <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>, Double Cyclone <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>, Scrap-Iron Statue <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>, Scrap-Iron Scarecrow <a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>, Limit Overload <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>, Call of the Haunted <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>, and Solemn Warning <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>.
+
+The deck also comes with a paper playmat <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a> and a beginner rule book <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. The OCG (Original Card Game) version of the Synchron Extreme deck is also mentioned, noting its Japanese appearance <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>.
+
+## Starter Decks
+
+In contrast to Structure Decks, Starter Decks are generally considered "pretty lame" <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. However, they do provide "some pretty cool essential cards" <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a> such as Mirror Force and Bottomless Trap Hole <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.

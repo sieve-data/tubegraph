@@ -1,14 +1,19 @@
 ---
-title: Elemental Hero Cards
+title: Elemental Hero cards
 videoId: bu4CJ2B053c
 ---
 
 From: [[kuanceptionfilms]] <br/> 
 
-Elemental Hero cards are a type of "Hero card" in the Yu-Gi-Oh! universe <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. They can be integrated into a "Hero deck" <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+[[elemental_hero_card_series | Elemental Hero]] cards are a classic archetype within the Yu-Gi-Oh! universe <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>. These cards are often considered "cool to pull" <a class="yt-timestamp" data-t="01:08:00">[01:08:00]</a> and can be used to construct a "hero deck" <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>.
 
-## [[elemental_hero_the_shining_card | Elemental Hero The Shining]]
+## Notable Cards
 
-[[elemental_hero_the_shining_card | Elemental Hero The Shining]] is highlighted as a specific Elemental Hero card <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. It is considered a "classic Hero card" <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>.
+### [[elemental_hero_the_shining | Elemental Hero The Shining]]
+[[elemental_hero_the_shining | Elemental Hero The Shining]] is highlighted as a specific [[iconic_yugioh_monsters | Elemental Hero]] card <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>. It is described as a "classic a hero card" <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a> and can be obtained as a promo card in certain Yu-Gi-Oh! value cubes <a class="yt-timestamp" data-t="06:12:00">[06:12:00]</a>.
 
-Despite its classic status, [[elemental_hero_the_shining_card | Elemental Hero The Shining]] is noted to "not worth too much on the market right now" <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. However, it is still considered "very cool to pull" <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. In a specific opening, [[elemental_hero_the_shining_card | Elemental Hero The Shining]] was featured as a promo card <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
+### Market Value
+Currently, [[elemental_hero_the_shining | Elemental Hero The Shining]] is "not worth too much on the market right now" <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>.
+
+## Deck Composition
+[[elemental_hero_card_series | Elemental Hero]] cards are essential for building a "hero deck" <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>, providing the core components for an [[elemental_hero_deck_composition | Elemental Hero deck composition]] <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>.

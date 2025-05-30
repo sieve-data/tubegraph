@@ -5,16 +5,12 @@ videoId: A8_IDpaY5VM
 
 From: [[kuanceptionfilms]] <br/> 
 
-This video by Conception Films serves as a tribute to the content creator Drift0r <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. The creator expresses being a "huge fan" of Drift0r, noting that all his videos are "pretty great" <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+This video by Conception Films serves as a tribute to the content creator, [[drift0r_and_his_influence | Drifter]] <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. The creator expresses being a "huge fan" of [[drift0r_and_his_influence | Drifter]], noting that "all of his videos are pretty great" <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
 
-## Inspiration and "Becoming the Turtle"
+## Inspiration: "Become the Turtle"
 
-The specific inspiration for this video came from Drift0r's EXO Shield video <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>. This particular video inspired Conception Films to "become the turtle," a concept directly implemented in their gameplay <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
+The specific inspiration for this video came from [[drift0r_and_his_influence | Drifter]]'s "EXO Shield inep video," which inspired Conception Films "to become the turtle" <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. The video features a montage of the creator's "greatest moments while being the turtle" on *Call of Duty: Advanced Warfare* <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
 
-## Video Content
+## Purpose and Call to Action
 
-The video is a [[creating_gaming_tributes | montage]] showcasing the creator's "greatest moments" while "being the turtle" in [[call_of_duty_advanced_warfare_montage | Call of Duty Advanced Warfare]] <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. These [[gaming moments and highlights | gaming moments and highlights]] highlight gameplay focused on the "turtle" strategy inspired by Drift0r <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>.
-
-## Call to Action
-
-Viewers who are also fans of Drift0r are encouraged to share the video with him <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+The video is explicitly stated as a "tribute to [[drift0r_and_his_influence | Drifter]]" <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. Viewers who are also fans of [[drift0r_and_his_influence | Drifter]] are encouraged to share the video with him <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
