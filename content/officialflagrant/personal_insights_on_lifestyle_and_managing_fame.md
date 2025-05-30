@@ -1,0 +1,30 @@
+---
+title: Personal insights on lifestyle and managing fame
+videoId: DJBCq0yu54s
+---
+
+From: [[officialflagrant]] <br/> 
+
+The topic of personal lifestyle and managing fame encompasses various aspects of an individual's life in the public eye, including mental preparation, emotional regulation, and handling interactions with fans and the media.
+
+## Mental Preparation and Manifestation
+The speaker emphasizes the importance of visualization as a key method for manifestation, particularly for fighting success <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. This practice extends to feeling the emotions associated with success, such as happiness after a win or knockout <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. This intense visualization can feel like Tourette's, constantly replaying pre-fight, fight week, and post-fight scenarios <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. Microdosing with mushroom chocolates can also help in tapping into a "primal self" or "dog in me" to enhance focus and performance <a class="yt-timestamp" data-t="02:00:13">[02:00:13]</a>, <a class="yt-timestamp" data-t="02:16:35">[02:16:35]</a>. Six weeks before a fight, one practice involves writing a definitive statement on a mirror, such as "April 8th Miami 2023 the greatest comeback in sporting history," and reciting it to affirm the outcome <a class="yt-timestamp" data-t="02:00:50">[02:00:50]</a>, <a class="yt-timestamp" data-t="02:00:50">[02:00:50]</a>.
+
+## Emotional Management and Self-Awareness
+After a significant victory, the feeling described is one of immense happiness, so much so that it transcends other forms of excitement, like a lap dance <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>, <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>. This profound happiness can be compared to other peak life moments, such as getting a beloved pet <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>. Regardless of public perception, the speaker believes that [[the_challenges_of_maintaining_personal_identity_in_the_public_eye | self-perception]] is paramount: "you're never as good as they say you are, you're never as bad as they say you are, all that matters is how you see yourself" <a class="yt-timestamp" data-t="02:22:37">[02:22:37]</a>. Love and hate from the public are taken in as fuel but not held onto <a class="yt-timestamp" data-t="02:22:45">[02:22:45]</a>.
+
+Isolation can be a part of fight preparation, cutting out anything not aligned with the fight <a class="yt-timestamp" data-t="02:23:14">[02:23:14]</a>. The ability to recognize one's emotional state, such as anger, and adjust behavior is crucial for self-awareness <a class="yt-timestamp" data-t="03:22:20">[03:22:20]</a>.
+
+## Managing Public Perception and Privacy
+Fame brings constant public interaction, which can be exhausting <a class="yt-timestamp" data-t="02:48:48">[02:48:48]</a>. The speaker has learned to protect their energy by saying "no" without explanation <a class="yt-timestamp" data-t="02:43:24">[02:43:24]</a>. This shift stemmed from a past as a "people pleaser," a coping mechanism developed after moving to a new country, which could lead to resentment and guilt when trying to please everyone <a class="yt-timestamp" data-t="02:43:57">[02:43:57]</a>, <a class="yt-timestamp" data-t="02:46:11">[02:46:11]</a>, <a class="yt-timestamp" data-t="02:46:33">[02:46:33]</a>.
+
+Experiencing both adoration after a win and being an outcast in earlier life has shaped perspective on [[challenges_and_biases_in_celebrity_culture | public perception]] <a class="yt-timestamp" data-t="02:54:19">[02:54:19]</a>, <a class="yt-timestamp" data-t="02:56:06">[02:56:06]</a>. Being around someone with no preconceived notions of a public figure is preferred, allowing for genuine connection <a class="yt-timestamp" data-t="03:00:26">[03:00:26]</a>. It's acknowledged that the public only sees a "slice" of a celebrity's personality <a class="yt-timestamp" data-t="03:08:48">[03:08:48]</a>. Documentaries, like *Stylebender*, offer a 360-degree view, including vulnerable moments which, despite personal cringe, are considered "real" <a class="yt-timestamp" data-t="03:12:00">[03:12:00]</a>, <a class="yt-timestamp" data-t="03:29:54">[03:29:54]</a>.
+
+Authenticity is advised for anyone in the public eye, as those who truly understand will stick with you <a class="yt-timestamp" data-t="03:39:56">[03:39:56]</a>. Purposely posting "random shit" on social media can help "weed out the fuckers" who don't genuinely support you <a class="yt-timestamp" data-t="03:55:04">[03:55:04]</a>.
+
+Maintaining privacy becomes difficult when fans visit homes <a class="yt-timestamp" data-t="02:55:08">[02:55:08]</a>. Boundaries are set with fans seeking multiple autographs or photos, especially those perceived as "stalking" or using children as "Trojan horses" for merchandise <a class="yt-timestamp" data-t="02:56:56">[02:56:56]</a>, <a class="yt-timestamp" data-t="03:00:15">[03:00:15]</a>. Educating fans on respectful interaction is also a practiced approach <a class="yt-timestamp" data-t="02:58:17">[02:58:17]</a>.
+
+## Work-Life Balance and Future Aspirations
+After a victory, the speaker will often "farm" social media engagement for a few days, understanding the "numbers game" for insights that attract companies <a class="yt-timestamp" data-t="03:31:05">[03:31:05]</a>. Post-fight, grounding activities include visiting teammates to thank them and spending time with a pet, as they offer an escape from fame <a class="yt-timestamp" data-t="03:43:08">[03:43:08]</a>.
+
+The speaker aims for a fighting career with less than 20 fights remaining <a class="yt-timestamp" data-t="03:33:04">[03:33:04]</a>. Beyond fighting, aspirations include pursuing acting, motion capture, voiceovers, video games, and establishing a production company <a class="yt-timestamp" data-t="05:23:59">[05:23:59]</a>, <a class="yt-timestamp" data-t="05:27:07">[05:27:07]</a>. Family is also a strong motivation, with a desire to have children one day <a class="yt-timestamp" data-t="01:49:01">[01:49:01]</a>.

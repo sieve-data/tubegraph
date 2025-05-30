@@ -1,0 +1,16 @@
+---
+title: Lebron James vs Michael Jordan debate
+videoId: lTq3IDGgISg
+---
+
+From: [[officialflagrant]] <br/> 
+
+The debate comparing [[LeBron James podcast and collaboration | LeBron James]] and [[the_legacy_of_michael_jordan_vs_lebron_james_debate | Michael Jordan]] often revolves around their individual playing styles and team impact <a class="yt-timestamp" data-t="02:23:55">[02:23:55]</a>.
+
+## Different Approaches to Winning
+Jason Williams asserts that [[LeBron James podcast and collaboration | LeBron James]] is the best player he has ever played against, primarily because he makes everyone around him significantly better <a class="yt-timestamp" data-t="02:23:55">[02:23:55]</a>. Williams believes [[LeBron James podcast and collaboration | LeBron James]] has the capability to lead the league in all five major statistical categories, including rebounds, assists, and points, if he chose to <a class="yt-timestamp" data-t="02:24:46">[02:24:46]</a>. This contrasts with [[the_legacy_of_michael_jordan_vs_lebron_james_debate | Michael Jordan]]'s approach, which Williams characterizes as a mentality of carrying the team ("get on my back and let's go") <a class="yt-timestamp" data-t="02:24:59">[02:24:59]</a>.
+
+A common argument in the debate is that Jordan "won the game," which makes his approach seem irrefutable <a class="yt-timestamp" data-t="02:11:49">[02:11:49]</a>, <a class="yt-timestamp" data-t="02:24:07">[02:24:07]</a>. However, Williams points out the difference in defensive schemes between their eras. In Jordan's time, when he caught the ball on the wing, it was often just him against the primary defender <a class="yt-timestamp" data-t="02:24:24">[02:24:24]</a>. For [[LeBron James podcast and collaboration | LeBron James]], receiving the ball in a similar situation often results in facing three defenders, making passing the more logical play <a class="yt-timestamp" data-t="02:24:31">[02:24:31]</a>.
+
+## Team Support and Legacy
+The discussion touches on the argument that when [[LeBron James podcast and collaboration | LeBron James]] departed from his teams, they failed to make the playoffs, whereas when [[the_legacy_of_michael_jordan_vs_lebron_james_debate | Michael Jordan]] briefly left the Bulls to play baseball, the team still reached the conference semi-finals <a class="yt-timestamp" data-t="02:25:05">[02:25:05]</a>. Williams counters this by highlighting the caliber of teammates Jordan had, such as Scottie Pippen, Horace Grant, Dennis Rodman, and Toni Kukoc, along with coaching from Phil Jackson <a class="yt-timestamp" data-t="02:25:16">[02:25:16]</a>. He contrasts this with some of [[LeBron James podcast and collaboration | LeBron James]]'s earlier teammates like Boobie Gibson and Andy Varejao <a class="yt-timestamp" data-t="02:25:31">[02:25:31]</a>. Williams strongly believes that [[LeBron James podcast and collaboration | LeBron James]] could join "any roster" in the NBA today and lead them to the playoffs <a class="yt-timestamp" data-t="02:25:46">[02:25:46]</a>.

@@ -1,0 +1,27 @@
+---
+title: Epstein files and allegations
+videoId: kKue3TkoFmY
+---
+
+From: [[officialflagrant]] <br/> 
+
+The much-anticipated [[Experiences and perceptions of Jeffrey Epstein | Epstein]] file, consisting of 1,000 pages, has been released <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. This release includes new names and revelations regarding [[Experiences and perceptions of Jeffrey Epstein | Jeffrey Epstein's]] activities.
+
+## Stephen Hawking Allegations
+
+[[stephen_hawking_and_epstein_island_allegations | Stephen Hawking]] was implicated in the "kid diddling debacle" <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. He reportedly visited [[Experiences and perceptions of Jeffrey Epstein | Epstein's]] Island in 2006 for an academic conference <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. During this visit, it was rumored he had an underage orgy <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a>. [[Experiences and perceptions of Jeffrey Epstein | Epstein]] allegedly attempted to pay people to discredit this rumor and "cover up Hawking's tire tracks" <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. The accusation of [[stephen_hawking_and_epstein_island_allegations | Hawking]] watching naked midgets do algebra problems on a chalkboard was a viral setup on Twitter and not real <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+Despite the disturbing nature of the true allegations, the idea of [[stephen_hawking_and_epstein_island_allegations | Hawking]] on the island was humorously imagined as him "rolling around in the sand" <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>, despite it not being wheelchair accessible <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. It was suggested he communicated his desires via computer, which could have been "hacked" by [[Experiences and perceptions of Jeffrey Epstein | Jeffrey Epstein]] <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. Arguments were made that [[stephen_hawking_and_epstein_island_allegations | Hawking]], due to his severe physical limitations and inability to give consent, should be considered a victim in these scenarios <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>.
+
+## Other Notable Individuals Mentioned
+
+Beyond [[stephen_hawking_and_epstein_island_allegations | Stephen Hawking]], several other figures were mentioned in the files:
+*   **RFK Jr.:** He was on the list <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a> and immediately blamed his ex-wife for being on [[Experiences and perceptions of Jeffrey Epstein | Epstein's]] plane and at his house <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>.
+*   **David Copperfield:** The magician was allegedly present at [[Experiences and perceptions of Jeffrey Epstein | Epstein's]] house <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. According to the transcript, he was asked if he "wanted a 26-year-old" <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>, and was observed discussing how girls were trying to get other girls <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+*   **Bill Clinton:** He was mentioned in the files, with a notable comment being that "he likes him young" <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. It was noted that despite various [[Experiences and perceptions of Jeffrey Epstein | Epstein]] connections and accusations, he remains "slipperier than Stephen Hawking's chin" <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>.
+*   **Prince Andrew:** Referred to as [[Experiences and perceptions of Jeffrey Epstein | Epstein's]] "favorite royal kid," his continued freedom was questioned <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>. The royal family's alleged claim that Prince Andrew's actions were "air conditioning" was mentioned, with a sarcastic note on spelling "air" as "heir" <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+
+## Public Reaction and Speculation
+
+The release of the files was deemed "more useless than Stephen Hawking's Fitbit" <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>, with many allegations being old <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. Despite initial accusations of sex trafficking against [[Experiences and perceptions of Jeffrey Epstein | Epstein]] in 2005 (he was convicted in 2008), many prominent individuals, including [[stephen_hawking_and_epstein_island_allegations | Stephen Hawking]] for his 2006 academic conference, continued to visit the island <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. It was noted that before the full extent of [[Experiences and perceptions of Jeffrey Epstein | Epstein's]] activities was known, the island was considered "the place to be" <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>, attracting presidents and celebrities like Michael Jackson <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>.
+
+Speculation arose about future releases, with rumors of "sex tapes" <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>. However, the immediate mention of "kids" quickly tempered any desire to view such material <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. There was also a humorous, cynical theory that the release of the Cat Williams podcast interview was a deliberate distraction paid for by entities wanting to "cover up" the [[Experiences and perceptions of Jeffrey Epstein | Epstein]] news <a class="yt-timestamp" data-t="00:37:38">[00:37:38]</a>.

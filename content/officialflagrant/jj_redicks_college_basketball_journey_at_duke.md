@@ -1,0 +1,42 @@
+---
+title: JJ Redicks college basketball journey at Duke
+videoId: 1T_QQ6A_xNc
+---
+
+From: [[officialflagrant]] <br/> 
+
+JJ Redick's college basketball career at Duke University was marked by intense scrutiny, personal growth, and athletic excellence. He became a nationally recognized figure, experiencing both extreme popularity and virulent hatred.
+
+## The Freshman Experience and Early Heckling
+Redick quickly became a target for opposing fans, and this began immediately. During warm-ups, he noticed a group of students in the front row wearing t-shirts with his picture on them. The shirts initially read, "When I grew up I want to name my kid JJ Redick," but when the students turned around, the back read, "and beat him every day" <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>, <a class="yt-timestamp" data-t="00:19:01">[00:19:01]</a>. Redick found this heckle clever and even asked for a t-shirt after the game <a class="yt-timestamp" data-t="00:20:20">[00:20:20]</a>.
+
+His first true road game was against Clemson in his freshman year, which served as his introduction to the hostile environment he would face as "the next Duke guy they're going to hate" <a class="yt-timestamp" data-t="00:20:03">[00:20:03]</a>. Despite the pressure, he performed well, scoring 22 points and grabbing 6 rebounds in that game, indicating that the heckling fired him up rather than causing him to melt <a class="yt-timestamp" data-t="00:20:15">[00:20:15]</a>.
+
+## Facing Intense Scrutiny and Personal Attacks
+Redick was arguably "the most famous non-NBA player in the world at the time" <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>. His high profile meant he became a "poster child for all the hatred" directed at Duke, a university often seen to represent "elitism" <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>. He noted that his face "matched up with it" even though he was a homeschooled kid from Virginia <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+
+The heckling was often deeply personal and offensive. Fans would call him "gay nonstop" <a class="yt-timestamp" data-t="00:07:58">[00:07:58]</a>, with one D2 player even stating Redick held his follow-through "like he's gay" <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. He also faced taunts about his "bad shoulder acne" at a UVA game, where fans wore fake Duke jerseys with red dots painted on the shoulders <a class="yt-timestamp" data-t="00:08:59">[00:08:59]</a>. Even more disturbing, at Maryland and Florida State games, fans would chant about "anally raping his 12-year-old sister" and making threats against his older sister and mother <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>.
+
+## Personal Struggles and Growth
+The constant scrutiny took a toll on Redick. During his difficult sophomore year, he "wanted to quit" and "struggled" in the second semester <a class="yt-timestamp" data-t="01:53:28">[01:53:28]</a>. He started taking antidepressants and seeing a therapist weekly for three years from his sophomore year onward <a class="yt-timestamp" data-t="02:22:53">[02:22:53]</a>, <a class="yt-timestamp" data-t="01:53:47">[01:53:47]</a>. He admitted to being a "knucklehead" who was "out living the frat life" while trying to play Duke basketball <a class="yt-timestamp" data-t="01:53:51">[01:53:51]</a>. His sisters ultimately talked him out of quitting <a class="yt-timestamp" data-t="01:53:38">[01:53:38]</a>.
+
+His perception of his character was challenged by [[influence_of_coach_k_on_jj_redicks_career | Coach K]]. After losing to UConn in the Final Four during Redick's sophomore year, [[influence_of_coach_k_on_jj_redicks_career | Coach K]] told him, "we didn't win a National Championship because you weren't worthy of being a champion" <a class="yt-timestamp" data-t="01:54:09">[01:54:09]</a>. This statement "crushed" him but also "changed his life," leading him to be "always prepared, always dedicated, 100%," and a "great teammate" <a class="yt-timestamp" data-t="01:54:17">[01:54:17]</a>.
+
+## Athleticism and "The Hot Hand"
+Redick's athleticism was often underestimated due to the context of playing against elite athletes like LeBron James and Ja Morant <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. He recalled an instance where a D2 player challenged him to a one-on-one, believing Redick couldn't "take him off the dribble," but Redick won 11-0 <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+
+In college, Redick recorded rap songs <a class="yt-timestamp" data-t="00:00:32">[00:00:32]</a>, with his "poetry" actually being rap lyrics <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. He even recorded an anti-racism song in 2003 with a black friend <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. He attributed the perception of his rap as "poetry" to racism <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>.
+
+Redick played [[jason_williams_nba_career | Jason Williams]] (Duke J Will) one-on-one in college, giving him 6 points in a game to 7 and winning <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. He noted that Williams had a "drop foot" from a motorcycle accident, which Redick "targeted" during their game <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. He also boasted that he has "never lost to an NBA player at basketball" in one-on-one <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+
+He conducted a senior project in statistics on "the hot hand" theory, which at the time was "Undisputed" to not exist. His project concluded the same, though he now believes the theory has been "debunked" in favor of the existence of a hot hand <a class="yt-timestamp" data-t="00:31:57">[00:31:57]</a>.
+
+## Influence of [[influence_of_coach_k_on_jj_redicks_career | Coach K]]
+[[influence_of_coach_k_on_jj_redicks_career | Coach K]] was a monumental figure in Redick's life, second only to his father <a class="yt-timestamp" data-t="01:51:06">[01:51:06]</a>. Redick never saw [[influence_of_coach_k_on_jj_redicks_career | Coach K]] have a "bad day," noting his full investment and dedication to every day and practice <a class="yt-timestamp" data-t="01:51:26">[01:51:26]</a>. [[influence_of_coach_k_on_jj_redicks_career | Coach K]]'s qualities of leadership, communication, and motivation were all "true and then some" <a class="yt-timestamp" data-t="01:52:13">[01:52:13]</a>.
+
+[[influence_of_coach_k_on_jj_redicks_career | Coach K]]'s coaching style was often direct and confrontational, playing into Redick's insecurities. He would use phrases like "you're being a brat," "you're a fraud," or "you're an entitled prick" to motivate him <a class="yt-timestamp" data-t="01:53:04">[01:53:04]</a>. This individualized approach, knowing what each player required, was a key aspect of [[influence_of_coach_k_on_jj_redicks_career | Coach K]]'s gift <a class="yt-timestamp" data-t="01:54:40">[01:54:40]</a>.
+
+A significant lesson from [[influence_of_coach_k_on_jj_redicks_career | Coach K]] came early in Redick's career. When Redick told [[influence_of_coach_k_on_jj_redicks_career | Coach K]] his goals for the season, [[influence_of_coach_k_on_jj_redicks_career | Coach K]] asked, "what exactly have you done this summer to accomplish that?" <a class="yt-timestamp" data-t="01:56:02">[01:56:02]</a>. This pushed Redick to realize he needed to "do extra" and "go above and beyond," rather than just expecting to improve with age <a class="yt-timestamp" data-t="01:56:55">[01:56:55]</a>. After this, Redick never wrote down another goal, choosing instead to focus on controlling his "work," "approach," and "preparation" <a class="yt-timestamp" data-t="01:57:21">[01:57:21]</a>.
+
+## Transition to the NBA
+Redick's four years at Duke, particularly the intense scrutiny and the demands of playing for [[influence_of_coach_k_on_jj_redicks_career | Coach K]], prepared him for the NBA. He felt the professional league was "easier" because he "knew how to navigate these things" and was "well equipped to navigate the pressures and the competition" <a class="yt-timestamp" data-t="02:05:58">[02:05:58]</a>, <a class="yt-timestamp" data-t="02:48:30">[02:48:30]</a>. He entered the NBA with no expectation of a long career, envisioning himself as a "role player" or even playing overseas <a class="yt-timestamp" data-t="02:49:15">[02:49:15]</a>.

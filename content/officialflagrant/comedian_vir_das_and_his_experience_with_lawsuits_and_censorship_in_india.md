@@ -1,0 +1,40 @@
+---
+title: Comedian Vir Das and his experience with lawsuits and censorship in India
+videoId: iAkuGq1CCBg
+---
+
+From: [[officialflagrant]] <br/> 
+
+International superstar comedian [[Comedian and Standup|Vir Das]] has faced significant challenges due to his comedy, including numerous lawsuits and direct censorship in India <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>.
+
+## Direct Experience with Legal Troubles
+Unlike the [[Cancel culture and its impact on comedy|cancel culture]] issues often discussed in America, where social media backlash might lead to career consequences, in India, comedians can face serious legal repercussions <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. Vir Das states that his "cancel culture" means facing jail time <a class="yt-timestamp" data-t="00:03:24">[00:03:24]</a>. At one point, he had seven lawsuits against him, including five police complaints and two direct lawsuits, all stemming from his jokes <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. These legal battles are not for serious crimes but for comedic material <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. He was even sued by lawyers for lawyer jokes two years prior, which required him to go to high court to defend them <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
+
+## The Young Indian Comedy Scene
+Vir Das contextualizes India's approach to comedy and its reception by stating that his country is "young" <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. This youth extends to stand-up, jokes, and responses to political material <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. He believes India is still "learning how to respond to this stuff" <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. Much of what he performs in India might have been common in the U.S. 20-30 years ago <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. He anticipates a future where his current controversial material is "no big deal" <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
+
+### Impact on Artistic Expression
+The looming threat of censorship directly impacts Vir Das's creative process. He typically begins by performing the jokes he wants to do, but subsequent shows might see him "tone it down" <a class="yt-timestamp" data-t="00:04:35">[00:04:35]</a>. This self-censorship is not due to a lack of bravado, but because legal and social consequences can affect not only him but also his family, who "didn't sign up for that ride" <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>. He confirms that authorities might pursue his family for jokes <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>.
+
+### The "Two Indias" Video Controversy
+A specific incident highlighting the challenges he faces was a video he performed at the Kennedy Center in the U.S. titled "Two Indias" <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>. The controversy arose because he was discussing "duality in the country" while performing abroad <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. For a week, he was the number one trend in India and was even "called a terrorist on the news" <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>.
+He acknowledges that in India, particularly among conservative older generations, there's an expectation for Indians to present their country only in a positive light <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>. Despite anticipating the backlash, he explained that the material was "new material" <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a> that he felt compelled to release <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. Ultimately, he asserts that he will not "let anybody tell me how to express my love for my country" <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>.
+
+## Privilege and Vulnerability among Indian Comics
+Vir Das recognizes his unique position, stating he has "the most privilege that you can get as a comic in India" <a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>. He identifies as an "English-speaking Hindu uppercast heterosexual man" <a class="yt-timestamp" data-t="00:20:21">[00:20:21]</a>, emphasizing that if he doesn't speak out, others who lack his privilege or cannot afford a legal team (like Muslim comic Munawar Faruqui, who was jailed for jokes he didn't even perform, alongside four other comics) <a class="yt-timestamp" data-t="00:19:53">[00:19:53]</a>, would be even more vulnerable <a class="yt-timestamp" data-t="00:20:25">[00:20:25]</a>.
+
+## Future of Comedy in India
+As someone credited with moving [[Comedy and Standup|comedy]] forward in India <a class="yt-timestamp" data-t="00:25:05">[00:25:05]</a>, Vir Das has specific hopes for its future <a class="yt-timestamp" data-t="00:56:26">[00:56:26]</a>. He envisions:
+*   Nine comedy clubs in every city, including small ones <a class="yt-timestamp" data-t="00:56:40">[00:56:40]</a>.
+*   [[Controversies and dynamics in standup comedy|Comedy without consequence]], including political and religious comedy, where it feels "like nothing unusual at all" <a class="yt-timestamp" data-t="00:56:46">[00:56:46]</a>.
+*   More female comics in India, addressing the current imbalance <a class="yt-timestamp" data-t="00:56:59">[00:56:59]</a>.
+
+He views the younger generation's activities in India as "breathtaking" <a class="yt-timestamp" data-t="01:11:31">[01:11:31]</a>, suggesting that culturally, India is poised to be a global force in 15 years <a class="yt-timestamp" data-t="01:13:12">[01:13:12]</a>. He sees a parallel with America in the 1960s, where opportunities existed without strict educational requirements <a class="yt-timestamp" data-t="01:11:34">[01:11:34]</a>.
+
+## Comparing Indian and American Censorship
+Vir Das offers a unique perspective on [[Differences between Indian and American comedy scenes|American censorship]] <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. He finds it "crazy" that American comedians self-censor based on "other people's opinion" <a class="yt-timestamp" data-t="01:30:35">[01:30:35]</a>. He believes American censorship is often tied to industry aspirations and financial gain <a class="yt-timestamp" data-t="01:30:49">[01:30:49]</a>:
+> "I think the censorship thing here is is do you want to do stuff with the industry or not if you don't want to do stuff with the industry you don't have to worry about censorship it's like do you want to make millions of dollars for a special then you have to worry about it so it's really censorship for money that's our issue" <a class="yt-timestamp" data-t="01:30:49">[01:30:49]</a>
+He notes that platforms like YouTube offer freedom for comedians, even allowing jokes to break certain standards if a small disclaimer is added <a class="yt-timestamp" data-t="01:31:07">[01:31:07]</a>.
+
+## Authenticity and Artistic Growth
+Vir Das stresses the importance of authenticity in [[Comedy industry insights and career reflections|comedy]], especially in the current era where people value it more due to the internet's disruption of "truth" <a class="yt-timestamp" data-t="00:55:17">[00:55:17]</a>. He advocates for artists to "create in a vacuum" and then release their work, allowing the audience to react <a class="yt-timestamp" data-t="01:32:51">[01:32:51]</a>. He received advice that "content can become controversy but controversy should never become your content" <a class="yt-timestamp" data-t="01:33:10">[01:33:10]</a>, emphasizing that focusing on past controversies hinders artistic growth <a class="yt-timestamp" data-t="01:33:12">[01:33:12]</a>. His current goal is to "scare the hell out of myself" by putting himself in new, challenging atmospheres to "get good" at his craft <a class="yt-timestamp" data-t="01:40:11">[01:40:11]</a>.
