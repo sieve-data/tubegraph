@@ -1,0 +1,58 @@
+---
+title: Comparison of iPhone 14 Pro with previous models
+videoId: SdLShOCvVeM
+---
+
+From: [[mkbhd]] <br/> 
+The [[iphone_14_lineup_overview | iPhone 14 Pro]] and [[iphone_14_lineup_overview | iPhone 14 Pro Max]] represent Apple's premium smartphone offerings for 2022, starting at $1000 and $1100 respectively <a class="yt-timestamp" data-t="19:43:00">[19:43:00]</a>. While sharing a similar external appearance to its predecessor, the [[design_and_build_differences_between_iphone_12_and_12_pro | iPhone 13 Pro]], the [[iphone_14_lineup_overview | iPhone 14 Pro]] introduces significant upgrades in its internals, display, and camera system <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>.
+
+## Design and Build
+The [[iphone_14_lineup_overview | iPhone 14 Pro]] looks "exactly the same" as the [[design_and_build_differences_between_iphone_12_and_12_pro | iPhone 13 Pro]], to the extent that users testing unreleased models found no one noticed they had a new device <a class="yt-timestamp" data-t="00:57:00">[00:57:00]</a>. [[design_and_build_differences_between_iphone_12_and_12_pro | iPhone 13 Pro]] cases can even fit the [[iphone_14_lineup_overview | iPhone 14 Pro]], indicating minimal external changes <a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a>.
+
+Key design notes include:
+*   **Colors** — New Space Black (a favorite) and a new purple color <a class="yt-timestamp" data-t="05:03:00">[05:03:00]</a>.
+*   **Camera Bumps** — Slightly larger and thicker than those on the [[design_and_build_differences_between_iphone_12_and_12_pro | iPhone 13 Pro]] <a class="yt-timestamp" data-t="05:15:00">[05:15:00]</a>.
+*   **Repairability** — Features a slightly improved repairability design, with the back glass now separate from the internal components <a class="yt-timestamp" data-t="21:49:00">[21:49:00]</a>.
+
+## Internals and Performance
+The [[iphone_14_lineup_overview | iPhone 14 Pro]] models receive a significant internal upgrade compared to the baseline [[iphone_14_lineup_overview | iPhone 14]] <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>.
+
+*   **Processor & RAM** — Features the new A16 Bionic chip, a 4-nanometer System on a Chip (SoC), and 6GB of RAM <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>. While Apple compared it to the A13 Bionic, benchmarks show it's only a minor bump, performing slightly above the A15 Bionic <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>. This translates to "Rock Solid performance" and fluid animations <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>.
+*   **Battery Life** — Offers "pretty reliable all-day battery life" <a class="yt-timestamp" data-t="02:09:00">[02:09:00]</a>. However, the Always-On Display feature can slightly impact battery life, leading to slightly worse performance than the [[design_and_build_differences_between_iphone_12_and_12_pro | iPhone 13 Pro]] <a class="yt-timestamp" data-t="07:57:00">[07:57:00]</a>.
+*   **Crash Detection** — New improved gyroscope and accelerometer sensors enable "Crash detection" <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a>. The system uses GPS, microphones, barometric pressure, and gyroscope data to detect a severe car crash and automatically call emergency services if the user doesn't respond <a class="yt-timestamp" data-t="03:14:00">[03:14:00]</a>.
+*   **eSIM Only (US)** — For US models, the physical SIM card tray has been removed, making the phones e-SIM only <a class="yt-timestamp" data-t="03:38:00">[03:38:00]</a>. This offers benefits like reduced water ingress points but makes international travel and quick SIM swaps less convenient <a class="yt-timestamp" data-t="03:48:00">[03:48:00]</a>. Apple is expected to expand this to all iPhones eventually <a class="yt-timestamp" data-t="04:05:00">[04:05:00]</a>.
+*   **Satellite Connectivity** — All [[iphone_14_lineup_overview | iPhone 14]] models now feature satellite connectivity for emergency services in areas without cellular service <a class="yt-timestamp" data-t="04:12:00">[04:12:00]</a>. This requires a clear view of the sky, and the UI guides the user to point the phone correctly <a class="yt-timestamp" data-t="04:36:00">[04:36:00]</a>.
+
+## Display
+The [[iphone_14_lineup_overview | iPhone 14 Pro]] and [[iphone_14_lineup_overview | iPhone 14 Pro Max]] feature updated 6.1-inch and 6.7-inch OLED displays, respectively <a class="yt-timestamp" data-t="05:37:00">[05:37:00]</a>.
+
+*   **Brightness** — Boasts an impressive peak brightness of 2000 nits, which is noticeable in bright, sunny conditions <a class="yt-timestamp" data-t="05:55:00">[05:55:00]</a>.
+*   **Bezels & Resolution** — Features slightly thinner bezels and slightly higher resolution, though these changes are unlikely to be noticed by users <a class="yt-timestamp" data-t="05:48:00">[05:48:00]</a>.
+*   **Always-On Display** — An "Always-On Display" is introduced, a feature common on other phones for years <a class="yt-timestamp" data-t="06:10:00">[06:10:00]</a>. The display drops to 1Hz, showing the lock screen, clock, and notifications with full color and wallpaper <a class="yt-timestamp" data-t="06:38:00">[06:38:00]</a>. While visually appealing with smooth animations, its brightness can make it seem like the phone is still on, and it impacts battery life slightly <a class="yt-timestamp" data-t="06:49:00">[06:49:00]</a>. The feature is a simple on/off toggle with no customization options <a class="yt-timestamp" data-t="07:46:00">[07:46:00]</a>.
+*   **Dynamic Island** — The notch has been replaced with an "eye-shaped cutout" (one circular for the selfie camera, one pill-shaped for Face ID hardware) <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>. Apple cleverly fills the gap between these cutouts with black pixels, creating a "Dynamic Island" that expands and contracts dynamically based on alerts, background activities, and ongoing interactions <a class="yt-timestamp" data-t="09:22:00">[09:22:00]</a>.
+    *   This feature is beautifully animated with fluid physics, making it "friendly and approachable" <a class="yt-timestamp" data-t="09:53:00">[09:53:00]</a>.
+    *   It integrates seamlessly with system alerts (calls, AirPods connection, Face ID) and live background activities (music, timers, navigation, voice memos, screen recording) <a class="yt-timestamp" data-t="11:01:00">[11:01:00]</a>. Third-party apps using 'Now Playing' or 'CallKit' APIs also work out of the box <a class="yt-timestamp" data-t="10:18:00">[10:18:00]</a>.
+    *   The Dynamic Island can split to show multiple background activities simultaneously, acting as a multitasking app switcher <a class="yt-timestamp" data-t="11:49:00">[11:49:00]</a>.
+    *   It is powered by a new display engine in the A16 Bionic chip, handling complex animations and touch sensitivity around the cutouts <a class="yt-timestamp" data-t="12:37:00">[12:37:00]</a>.
+    *   While not game-changing, it's considered a "nice quality of life touch" and is predicted to be one of the most copied features in smartphones within 18 months <a class="yt-timestamp" data-t="13:16:00">[13:16:00]</a>. The concept was technically invented by LG seven years prior with the top screen on the LG V10 <a class="yt-timestamp" data-t="13:23:00">[13:23:00]</a>.
+
+## Cameras
+The [[iphone_14_pro_camera_enhancements | camera system]] is the biggest change in the [[iphone_14_lineup_overview | iPhone 14 Pro]], with Apple dedicating a third of its presentation time to it <a class="yt-timestamp" data-t="13:51:00">[13:51:00]</a>.
+
+*   **Primary Camera** — A new 48-megapixel sensor, a significant leap from the 12-megapixel sensors used since the [[comparison_of_iphone_11_pro_to_previous_models | iPhone 6s]] <a class="yt-timestamp" data-t="14:09:00">[14:09:00]</a>.
+    *   It is 65% larger than the [[design_and_build_differences_between_iphone_12_and_12_pro | iPhone 12 Pro]]'s sensor <a class="yt-timestamp" data-t="14:20:00">[14:20:00]</a>.
+    *   Features second-generation Focus Shift Optical Image Stabilization, 100% Focus Pixels, and an f/1.78 lens <a class="yt-timestamp" data-t="14:26:00">[14:26:00]</a>.
+    *   The 48MP sensor pixel-bins down to 12MP for normal photos, but provides benefits like increased sharpness, more light gathering, faster shutter speeds, and improved low-light performance with shorter shutter times <a class="yt-timestamp" data-t="14:49:00">[14:49:00]</a>.
+    *   Enables a natural shallow depth of field without Portrait Mode <a class="yt-timestamp" data-t="15:10:00">[15:10:00]</a>.
+    *   Introduces a new 2x zoom button, which is an optical zoom achieved by cropping the middle 12 megapixels of the 48MP sensor, preserving quality <a class="yt-timestamp" data-t="15:53:00">[15:53:00]</a>.
+*   **Action Mode** — A new video feature that offers super aggressive stabilization for shaky footage, using a heavy crop but still able to shoot up to 2.8K <a class="yt-timestamp" data-t="16:16:00">[16:16:00]</a>.
+*   **ProRaw** — Users can shoot in ProRaw to get full 48-megapixel DNG files (50-70MB), offering significant detail and latitude for editing in software like Lightroom <a class="yt-timestamp" data-t="16:47:00">[16:47:00]</a>.
+*   **8K Video** — Despite the 48MP sensor surpassing the 30MP threshold for 8K video, the [[iphone_14_pro_camera_enhancements | iPhone 14 Pro]] does not support it <a class="yt-timestamp" data-t="17:07:00">[17:07:00]</a>. This is likely due to the large file sizes (5-6GB per minute for ProRes) and slow data transfer speeds via the Lightning port <a class="yt-timestamp" data-t="17:25:00">[17:25:00]</a>.
+*   **Selfie Camera** — Now 12-megapixels with autofocus, handling various focal lengths better and offering sharper images <a class="yt-timestamp" data-t="17:55:00">[17:55:00]</a>. However, it still tends to overexpose people with dark skin <a class="yt-timestamp" data-t="18:04:00">[18:04:00]</a>.
+*   **Cinematic Mode** — Now supports 30 frames per second (FPS) <a class="yt-timestamp" data-t="18:55:00">[18:55:00]</a>.
+*   **Overall Assessment** — The [[iphone_14_pro_camera_enhancements | iPhone 14 Pro]] is considered the "best camera system in any phone in 2022" due to its versatility, shutter speed improvements, photo quality, autofocus, color consistency across cameras, and improved image processing pipeline <a class="yt-timestamp" data-t="17:44:00">[17:44:00]</a>. It can sometimes over-bake HDR in harsh conditions <a class="yt-timestamp" data-t="17:51:00">[17:51:00]</a>. Astrophotography mode, speculated due to event invites, was not included, and the iPhone still struggles with super low-light and astrophotography compared to some competitors <a class="yt-timestamp" data-t="19:19:00">[19:19:00]</a>.
+
+## Conclusion
+The [[iphone_14_lineup_overview | iPhone 14 Pro]] is a "very refined update" <a class="yt-timestamp" data-t="20:39:00">[20:39:00]</a>. It's competitive against other $1000 phones due to its best-in-class camera, bright and responsive display, and the unique Dynamic Island <a class="yt-timestamp" data-t="20:00:00">[20:00:00]</a>. However, there's no "flashy" or "crazy design or hardware innovation" like folding screens or massive battery improvements <a class="yt-timestamp" data-t="20:23:00">[20:23:00]</a>.
+
+For users with an [[comparison_of_iphone_11_pro_to_previous_models | iPhone 11]] or later, the iOS 16 update might offer as significant an experience upgrade as a new phone <a class="yt-timestamp" data-t="20:41:00">[20:41:00]</a>. The [[iphone_14_lineup_overview | iPhone 14 Pro]] is recommended for those who desire the absolute latest and greatest smartphone camera or are simply looking to upgrade to the newest pro iPhone model <a class="yt-timestamp" data-t="21:05:00">[21:05:00]</a>.

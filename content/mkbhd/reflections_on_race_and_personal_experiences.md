@@ -1,0 +1,33 @@
+---
+title: Reflections on race and personal experiences
+videoId: o-_WXXVye3Y
+---
+
+From: [[mkbhd]] <br/> 
+
+Marques shares his personal reflections on current events, including the global pandemic, political chaos, and protests against police brutality targeting Black people in America <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. He was inspired to share his story after reading a post by [[influences_and_inspirations_from_public_figures | Neil deGrasse Tyson]] <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## Personal Background and Career
+Marques has been a tech YouTuber since he was 15 years old, starting in his parents' bedroom <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. He feels fortunate to have turned his passion into a career <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. This journey has come with new responsibilities, including hiring, management, and ethical considerations <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. He credits his parents for their support and encouragement to explore various interests <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. His initial interests, such as golf, ultimate frisbee, and tech, were simply things he was passionate about, unrelated to the color of his skin <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
+
+## [[challenges_and_privileges_in_diverse_activities | Experiences in Diverse Activities]]
+As he became more rooted in these communities and activities, the issue of race began to surface <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. He has been an avid golfer since age 10, an ultimate frisbee player at professional and club levels since before high school, and a tech YouTuber <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. These activities served as an escape, allowing him to immerse himself in work and isolate from external issues <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>.
+
+However, the reality of being Black in America would "snap you back" as soon as the activity ended, with experiences like potentially being pulled over for no reason <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>. He has personal and friends' stories of encounters with police, while also knowing police officers in his family and among acquaintances who share similar frustrations about current events <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+
+He acknowledges that his parents' ability to find diverse golf camps (like Renaissance Junior Golf) and schools with ultimate frisbee teams was a privilege not everyone shares <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>. However, at higher levels, golf, ultimate frisbee, and tech lack diversity <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. This lack of diversity brings the spotlight back to the color of his skin <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>.
+
+He recounts initially shying away from this "good spotlight" because he wanted to be recognized as simply "one of the best" rather than "the good Black frisbee player" or "one of the best Black creators" <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. This created a conflicting feeling of wanting to be proud of his identity while also wanting to be seen purely for his skill <a class="yt-timestamp" data-t="00:05:48">[00:05:48]</a>. Achieving goals, such as making a high-end team, would lead to self-doubt, questioning if his achievement was due to merit or his race/platform <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>. He recognized that this mental hurdle was something not everyone has to consider <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>.
+
+## [[using_platforms_for_advocacy_and_antiracism | Using Platforms for Advocacy and Antiracism]]
+Now as an adult with a platform, he feels it's important to speak up <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. While some advise staying in one's lane ("stick to tech"), he believes silence regarding issues plaguing his community "feels worse" <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. He maintains that his role models are admired for what they are good at (e.g., [[influences_and_inspirations_from_public_figures | Tiger Woods]] the golfer, [[influences_and_inspirations_from_public_figures | Kobe Bryant]] the competitor) <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
+
+He wants to use his platform for two main purposes <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>:
+1.  To spread the message that racism is unacceptable and must be actively worked against <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. He finds it baffling how being anti-racist can be controversial, and states he has "no problem with losing racist followers" <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>.
+2.  To be a role model for kids like his 15-year-old self, allowing them to see someone who looks like them finding success and making the right choices at a high level <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+
+### Call to Action
+He emphasizes that he is not the one who needs help; rather, organizations on the front lines supporting the cause need donations <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>. He advises against "flooding a channel with numbers" by subscribing to Black creators without engaging with their content, as this can negatively impact YouTube's algorithms and bury the channel <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>. Instead, he asks viewers to find a diverse group of creators they genuinely enjoy and engage with their content <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. He provides links to his favorite creators and encourages others to share suggestions in the comments <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>.
+
+## [[Future Prospects and Challenges | Ongoing Struggle]]
+Marques concludes by stating that there are no easy answers, as everyone has different struggles and experiences <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. He hopes his reflections are useful for understanding. He notes that while social media makes it feel like a "now thing," racism is an "ongoing thing" that "has been a thing and will continue to be a thing" <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. He stresses the importance of spreading the message, being responsible with voices, and moving the needle <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.

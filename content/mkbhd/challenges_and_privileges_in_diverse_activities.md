@@ -1,0 +1,28 @@
+---
+title: Challenges and privileges in diverse activities
+videoId: o-_WXXVye3Y
+---
+
+From: [[mkbhd]] <br/> 
+
+The speaker, a tech YouTuber, shares [[reflections_on_race_and_personal_experiences | personal reflections]] on navigating various activities and careers, touching on the unique challenges and privileges associated with being a Black individual in often homogenous environments <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
+
+## Background and Early Life
+The speaker began making tech videos at 15 years old from their parents' home, eventually turning their passion into a job <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>. This career path brought unforeseen consequences, including decisions related to hiring, management, and ethics <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. Acknowledging a significant privilege, the speaker highlights having supportive parents who encouraged experimentation and trying new things to discover interests <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. Their initial engagement with activities like golf, ultimate frisbee, and technology stemmed purely from personal interest, not related to the color of their skin <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+
+## Activities as an Escape
+The speaker has been an avid golfer since age 10, an ultimate frisbee player at professional and club levels since before high school, and a tech YouTuber <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. These activities served as an escape, allowing the speaker to immerse themselves in work and hobbies to isolate from external issues <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. However, this escape was temporary, as reality—including potential encounters with police for arbitrary reasons—would snap back once the activities concluded <a class="yt-timestamp" data-t="00:02:35">[00:02:35]</a>. The speaker shares having personal stories of police encounters, as do their friends, while also noting that police officers in their family and acquaintances are frustrated by current events <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+
+## The Spotlight of Identity
+As the speaker progressed in these activities to a high level, a lack of diversity became apparent in golf, ultimate frisbee, and tech <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. This brought the "spotlight" back to the color of their skin <a class="yt-timestamp" data-t="00:05:11">[00:05:11]</a>. While proud of their identity, it sometimes created a conflicting experience: instead of being "one of the better frisbee players," they were seen as "the good black frisbee player" <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. This led to self-doubt, questioning if achievements, such as making a high-end team, were due to skill, platform influence, or race <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>. The speaker recognizes that this "mental hurdle" is not something everyone has to consider <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>.
+
+## Using a Platform for Change
+As an adult with a significant platform, the speaker feels compelled to speak up on issues affecting their community, despite criticism to "stick to tech" <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. They believe silence on matters like racism "feels worse" <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
+
+The speaker aims to use their platform for two main purposes:
+1.  To convey that racism is unacceptable and requires active opposition <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. They express confusion as to how being anti-racist could be controversial <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+2.  To be a role model for younger individuals, particularly those like their 15-year-old self, who can see someone who looks like them achieving success and making positive choices at a high level <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+
+The speaker emphasizes that support for these causes should primarily go to organizations on the front lines <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>. They also advocate for [[supporting_and_promoting_diverse_content_creators | Supporting and promoting diverse content creators]] effectively <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. Instead of merely subscribing to increase numbers, which can actually harm a channel's algorithm if engagement is low, true support involves actively watching and enjoying their content <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>. The speaker encourages finding a diverse range of creators and genuinely engaging with their work <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>.
+
+The speaker concludes by stating that there are no easy answers, and everyone has different struggles and experiences <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>. They hope their [[reflections_on_race_and_personal_experiences | reflections on race and personal experiences]] can help others understand better <a class="yt-timestamp" data-t="00:09:45">[00:09:45]</a>. While social media might make these issues seem current, the speaker stresses that this has been, is, and will continue to be an ongoing struggle that requires spreading the message, responsible use of voices, and moving the needle <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>.
