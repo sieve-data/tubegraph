@@ -1,0 +1,36 @@
+---
+title: New features in Marrow Edition 8
+videoId: WxCaFXaBAlc
+---
+
+From: [[marrowmed]] <br/> 
+
+[[role_of_marrow_platform_in_medical_exam_preparation | Marrow]] has introduced several new features in its Edition 8, aiming to provide updated and more focused content for upcoming medical exams. These updates are designed to make study material more concise and exam-oriented <a class="yt-timestamp" data-t="01:16:59">[01:16:59]</a>.
+
+## General Updates and Focus
+Edition 8 is described as the latest version, incorporating all recent updates in a crisp manner <a class="yt-timestamp" data-t="01:16:59">[01:16:59]</a>. It specifically focuses on the [[role_of_marrow_in_exam_preparation | INI CET]], NEET PG, and FMG exams <a class="yt-timestamp" data-t="01:17:18">[01:17:18]</a>, moving away from previous content centered around the debated "NEXT PG" exam <a class="yt-timestamp" data-t="01:17:06">[01:17:06]</a>. The content is designed to be more palatable and requires fewer hours of study <a class="yt-timestamp" data-t="01:17:25">[01:17:25]</a>.
+
+## Revision Videos (Edition 8)
+The Edition 8 revision videos comprise over 200 hours of updated content <a class="yt-timestamp" data-t="01:18:39">[01:18:39]</a>. Faculties have condensed information into stipulated timeframes, including more tables and mind maps <a class="yt-timestamp" data-t="01:19:01">[01:19:01]</a>.
+
+### Subject-Specific Changes
+*   **Medicine (Dr. Rakesh):** The core content of Medicine in Edition 8 is significantly more concise than Edition 6.5, totaling only 125 hours <a class="yt-timestamp" data-t="01:18:13">[01:18:13]</a>. The narration style is simpler and more exam-oriented <a class="yt-timestamp" data-t="01:18:21">[01:18:21]</a>. The revision videos include 32 hours of chapter-by-chapter content and an additional 8 hours of integration videos <a class="yt-timestamp" data-t="02:27:17">[02:27:17]</a>. These integration videos include scenarios, picture-connection questions, and image-based questions <a class="yt-timestamp" data-t="02:27:38">[02:27:38]</a>.
+*   **OBGY (Dr. Sakshi):** Mind maps have been extensively included, with over 40-50 mind maps in OBGY revision videos, to help students condense material <a class="yt-timestamp" data-t="02:00:59">[02:00:59]</a>. Important previous year questions (PYQs) are integrated directly into the revision videos <a class="yt-timestamp" data-t="02:03:04">[02:03:04]</a>. For those watching only revision videos, it's recommended to also watch main videos for specific topics like Labor and Normal/Disorders of Sexual Development to build concepts <a class="yt-timestamp" data-t="02:22:09">[02:22:09]</a>.
+*   **Surgery (Dr. Rohan):** For students who have already completed Edition 6.5 Surgery, it is suggested to stick with it and supplement with Baily update videos and PYQ sessions from the last year and a half <a class="yt-timestamp" data-t="02:25:28">[02:25:28]</a>. Edition 8 surgery videos also include PYQ topics and questions at the beginning of each topic <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>.
+*   **New Faculties:** Dr. Ashwini handles Anatomy, and Dr. Nasir handles Microbiology in the revision videos <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>.
+    *   **Anatomy (Dr. Ashwini):** The subject matter remains constant, but the approach focuses on being aware of how examiners change question formats <a class="yt-timestamp" data-t="02:55:05">[02:55:05]</a>. Priority areas include embryology, head neck and face, and neuroanatomy <a class="yt-timestamp" data-t="02:55:20">[02:55:20]</a>. Viscera topics are suggested to be limited, as clinically oriented questions related to OBGY or Surgery are more likely <a class="yt-timestamp" data-t="02:55:50">[02:55:50]</a>.
+    *   **Microbiology (Dr. Nasir):** The revision videos simplify the subject, aiming to address most exam questions <a class="yt-timestamp" data-t="02:58:08">[02:58:08]</a>. The approach emphasizes understanding concepts rather than just factual memorization <a class="yt-timestamp" data-t="02:59:19">[02:59:19]</a>. "Dr. Nasir's Blueprints," "Dr. Nasir's Key Points," and "Dr. Nasir's Magical Boxes" are introduced as unique mnemonic-like tools to aid understanding, memory, and answering questions <a class="yt-timestamp" data-t="02:59:32">[02:59:32]</a>. The videos are arranged system-wise, but are designed to be useful for students who have studied organism-wise or system-wise <a class="yt-timestamp" data-t="03:01:09">[03:01:09]</a>.
+
+## Notes and Materials
+*   **Soft Copy Notes:** Soft copy notes for Edition 8 are already live in the [[utilizing_educational_apps_like_marrow_for_medical_studies | Marrow]] app <a class="yt-timestamp" data-t="01:19:35">[01:19:35]</a>.
+*   **PDF Notes:** PDFs of the revision notes are scheduled to be sent out to registered email IDs by the second week of December <a class="yt-timestamp" data-t="01:19:40">[01:19:40]</a>.
+
+## Utilizing Edition 8 Content Effectively
+A key recommendation for [[marrow_as_a_primary_study_resource | utilizing Marrow Edition 8]] is to assess performance using the [[effective_use_of_qbank_and_marrow_resources | QBank]]:
+*   If a student scores more than 70-75% correct answers in a [[effective_use_of_qbank_and_marrow_resources | QBank]] module after watching revision videos, it indicates sufficient understanding, and they can continue with revision videos <a class="yt-timestamp" data-t="03:39:59">[03:39:59]</a>.
+*   If performance drops below 65-60%, it suggests a need to use the main video lectures for that topic or subject to fill gaps in understanding <a class="yt-timestamp" data-t="03:42:24">[03:42:24]</a>.
+*   For factual errors, these should be added to a personal 20th notebook <a class="yt-timestamp" data-t="03:50:01">[03:50:01]</a>. For concept-based mistakes in [[effective_use_of_qbank_and_marrow_resources | MCQs]], it's crucial to revisit the main video to understand the concept <a class="yt-timestamp" data-t="03:50:01">[03:50:01]</a>.
+
+### Magic Modules and Pearls
+*   **Magic Modules:** This new feature in the [[utilizing_educational_apps_like_marrow_for_medical_studies | Marrow]] app automatically generates high-yield [[effective_use_of_qbank_and_marrow_resources | MCQs]] based on a student's past mistakes <a class="yt-timestamp" data-t="04:06:06">[04:06:06]</a>. More questions solved, and more mistakes made, will unlock more magic modules <a class="yt-timestamp" data-t="04:06:06">[04:06:06]</a>. Consistent practice is vital for this feature to be effective <a class="yt-timestamp" data-t="04:06:55">[04:06:55]</a>.
+*   **Pearls:** [[use_and_benefits_of_educational_platforms_like_marrow | Marrow Pearls]] are highly recommended for quick revision, especially during idle time <a class="yt-timestamp" data-t="04:05:43">[04:05:43]</a>. They offer concise tables and are available even to non-[[marrow_subscription_and_its_impact_on_exam_preparation | Marrow]] subscribers, with PYQs mapped to them <a class="yt-timestamp" data-t="04:06:16">[04:06:16]</a>.

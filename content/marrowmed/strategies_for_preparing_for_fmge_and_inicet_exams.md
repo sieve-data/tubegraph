@@ -1,0 +1,38 @@
+---
+title: Strategies for preparing for FMGE and INICET exams
+videoId: L0R2nIP-dv8
+---
+
+From: [[marrowmed]] <br/> 
+
+Dr. Narendra, an MBBS graduate from Nepal and a second-year Radiology resident at AIIMS, successfully cleared both the [[fmge_exam_preparation_strategies | FMGE exam]] and the [[inicet_exam_preparation_strategies | INICET exam]], achieving an impressive score of 244 in FMGE <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a> <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a> <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. His unique [[preparation_strategies_for_fmge | preparation strategy]] involved using Marrow resources starting from his final year of MBBS <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a> <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+
+## Starting the Preparation Journey
+Dr. Narendra began utilizing Marrow during his final year of MBBS, initially focusing on subjects relevant to his final examinations <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a> <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. He started with the four major subjects taught in his final year: Medicine, Surgery, Pediatrics, and Obstetrics <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. He also included Community Medicine in his initial studies <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>.
+
+## Role of Video Lectures and Notes
+Marrow's regular videos, known for their depth and clarity, were instrumental <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>. Dr. Narendra emphasized that going deeper into concepts makes understanding easier, and Marrow's in-depth content helps solidify concepts, making them memorable even if some details are forgotten <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a> <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+
+He found the video lectures beneficial for both his final year MBBS theory and practical exams <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>. For notes, he used the printed Marrow notes (Edition 6 at the time) and highly recommended them, finding them "beautifully integrated with the video" and eliminating the need to make his own notes <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a> <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>. These notes also provided ample space for adding additional information <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>.
+
+## Integrated Learning and Question Banks
+A key insight shared was the significant overlap between final year clinical subjects (Medicine, Surgery, OBG, Pediatrics) and pre- and paraclinical subjects like Pharmacology, Pathology, Physiology, Microbiology, and Anatomy <a class="yt-timestamp" data-t="00:03:47">[00:03:47]</a>. Understanding clinical subjects thoroughly helps in grasping the foundational sciences <a class="yt-timestamp" data-t="00:03:58">[00:03:58]</a>. Modern exam questions often integrate multiple subjects, making an isolated approach less effective <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
+
+Dr. Narendra's strategy for the question bank was to complete videos and then immediately attempt related questions. This approach helped fill any gaps in knowledge and highlight specific points that are frequently tested <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a> <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>. The question bank acts as a "net" to identify important areas for exam focus <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>.
+
+## Tackling Short Subjects
+For short subjects, which were taught in his fourth year of college, Dr. Narendra relied on revision videos from Marrow, especially before his [[preparation_strategy_for_inicet | INICET exam]] <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a> <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. With limited time (around 1.5 months), revision videos provided an efficient way to cover these topics <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>. He also used the corresponding revision video notes <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
+
+## The Importance of Grand Tests
+Grand tests are crucial for assessing one's level of [[preparation_strategy_for_inicet_exam | preparation]] and identifying areas needing additional effort <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. Dr. Narendra noted that his actual INICET exam score correlated very closely with his Grand Test scores (within +/- 3-4 marks) <a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>. The analytics provided by Grand Tests helped him identify his strong subjects (major subjects) and, more importantly, his weak areas (minor/short subjects), guiding his targeted [[inicet_exam_pattern_and_preparation | preparation]] <a class="yt-timestamp" data-t="00:09:12">[00:09:12]</a> <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+
+## [[advice_for_future_fmge_exam_takers | Advice for Future FMGE and INICET Exam Takers]]
+Dr. Narendra's core advice for those preparing for the [[effective_fmge_preparation_strategies | FMGE exam]] is multifaceted:
+*   **Start Early and Study Properly:** The best [[fmge_exam_preparation_strategies | preparation]] begins by studying properly during MBBS, ideally from the first day <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>.
+*   **Leverage Online Platforms:** For those in later stages of MBBS or who have completed it, platforms like Marrow offer an excellent opportunity to cover gaps in knowledge, especially for students from institutions with limited patient exposure or logistic limitations <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a> <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>. These platforms provide access to high-quality education regardless of location <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>.
+*   **Build Strong Basics:** The foundation for high scores and good ranks lies in sound basics and rock-solid fundamentals, which are built through elaborate depth and clarity, requiring patience <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a> <a class="yt-timestamp" data-t="00:12:19">[00:12:19]</a>.
+*   **Avoid Shortcuts:** Shortcut resources or courses are unlikely to provide the necessary depth for top scores and ranks <a class="yt-timestamp" data-t="00:12:31">[00:12:31]</a>.
+*   **Understand Exam Nature:** The [[preparation_strategies_for_fmge | FMGE exam]] is particularly well-designed to test knowledge as an MBBS graduate and readiness to practice, with questions being clinical and integrated across subjects <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a> <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a> <a class="yt-timestamp" data-t="00:13:26">[00:13:26]</a>.
+*   **Integrated Preparation:** In-depth [[fmge_exam_preparation_strategies | preparation for one exam]] (like INICET or NEET PG) will ultimately aid in the [[preparation_strategies_for_fmge | preparation for all other medical exams]] because the knowledge base is largely the same <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a> <a class="yt-timestamp" data-t="00:13:50">[00:13:50]</a>.
+
+In conclusion, a comprehensive and in-depth approach, starting with fundamental understanding, utilizing detailed video lectures and structured notes, reinforcing learning with question banks, and regularly assessing progress with Grand Tests, is key to success in both the FMGE and INICET exams.

@@ -1,0 +1,57 @@
+---
+title: Effective notetaking and study techniques
+videoId: oYH7h1KvUXI
+---
+
+From: [[marrowmed]] <br/> 
+
+Dr. Shloka, who achieved rank three in the INIC exam on her first attempt <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>, attributes her success to a combination of disciplined [[efficient_study_habits_and_notetaking | study habits]], strategic resource utilization, and a strong support system <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. Her parents highlight her sincerity, seriousness, and unwavering hard work, noting that studies were always her priority <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+
+## Leveraging Study Resources
+
+Dr. Shloka began using Marrow resources from her third professional year through her internship <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>.
+
+### Marrow Videos and Notes
+*   **Main Videos for Concepts** She relied heavily on main Marrow videos for concept building, even for her college professional exams, where they helped solidify understanding for theory writing <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
+*   **Revision Videos During Internship** During her internship, she transitioned to using revision videos and notes <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>. She typically used revision notes, but would watch revision videos for subjects when she was tired and needed passive learning after duties <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>. Her main focus remained on strengthening concepts with main notes before switching to revision notes in the final one or two months <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>.
+*   **Managing Edition Shifts** Dr. Shloka demonstrated a practical approach to [[revision_techniques_and_managing_study_notes | managing study notes]] across different editions of Marrow <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>. She received notes for edition five and chose not to switch to edition six or 6.5 because they were lengthier and she was already halfway through <a class="yt-timestamp" data-t="00:05:06">[00:05:06]</a>. When edition eight came out, she felt her notes might be outdated due to changes in standard textbooks <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>. Instead of ordering new notes, she added points from the online notes of edition eight to her existing edition five notes <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>. This approach avoided the stress of having two sets of notes and saved time by not reinventing the entire thing <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>. Edition eight, being a more concise version with tables and flowcharts, made this integration easier <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>.
+
+### Qbank Utilization
+Dr. Shloka incorporated the Qbank from the very beginning of her study journey, solving it alongside main videos and notes when learning subjects for the first time <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. She would reset the Qbank to solve questions again <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a>. She observed a significant improvement in her performance when revisiting the Qbank in her internship, especially after gaining a more holistic understanding from clinical subjects like medicine and surgery <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>. This highlights the importance of revisiting the Qbank for score improvement, especially when stagnating in Grand Tests <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>. She aimed to solve all Qbank modules at least once or twice <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>.
+
+### Personalized Notes and Revision
+Instead of formal notes, Dr. Shloka created a unique [[approaches_to_effective_notetaking_and_revision_techniques | notetaking strategy]] by sending volatile information, tables, or syndromes to herself via a WhatsApp chat <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. This method was quick for capturing information <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a> and served as an effective [[revision_techniques_and_managing_study_notes | revision tool]] for the last month and during postings <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>. She found this productive, leading to four to five questions in her exam answerable solely from these chats <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a>. This `WhatsApp group` strategy is a recommended [[effective_study_strategies_for_medical_exams | revision tool]] for the last 15-20 days <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>.
+
+## Test-Taking and Revision Strategies
+
+### Grand Tests (GTs)
+Dr. Shloka was regular with tests, starting with class tests to build confidence before moving to GTs <a class="yt-timestamp" data-t="00:13:22">[00:13:22]</a>. She began taking GTs at the beginning of her final year, though she retrospectively felt she should have started in her third professional year to get a feel for the exam format <a class="yt-timestamp" data-t="00:13:32">[00:13:32]</a>.
+
+*   **Importance of Early GTs** She emphasizes that syllabus completion is an unattainable goal, and starting GTs early gives an edge, especially for exams like INIC where not every question is known <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>. Early GTs help develop guessing power and the ability to connect concepts from different subjects to answer difficult questions <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>.
+*   **Frequency** Initially, she took bi-weekly GTs (every 15 days) during the start of her final year, then weekly GTs (on Sundays) towards the end of final year and beginning of internship. The frequency increased to two to three GTs per week towards the end of her internship <a class="yt-timestamp" data-t="00:14:57">[00:14:57]</a>.
+*   **GT Review Strategy** She preferred to review GTs just before they expired, or on the same day as taking them, so the questions were fresh in her mind, saving review time <a class="yt-timestamp" data-t="00:15:47">[00:15:47]</a>. If short on time, she would immediately review skipped and wrong answers, which takes about an hour or an hour and a half <a class="yt-timestamp" data-t="00:16:02">[00:16:02]</a>. Correct answers were also reviewed <a class="yt-timestamp" data-t="00:16:20">[00:16:20]</a>.
+
+### Overcoming Score Dips
+To address dips or plateaus in her GT scores, Dr. Shloka utilized a Marrow feature that ordered subjects by performance percentile <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>. Her strategy was to focus on improving her lowest-performing subjects, rather than continuously studying her strongest ones like medicine <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>. For volatile subjects like anesthesia, which she found difficult to remember, she repeatedly studied them to raise her percentiles across all subjects and ultimately improve her GT scores <a class="yt-timestamp" data-t="00:17:34">[00:17:34]</a>. This [[effective_use_of_grand_tests_and_revision_notes | sensible strategy]] helped her overall performance <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>.
+
+### Mock Test Experience
+In a mock test before the INIC exam, Dr. Shloka's rank dropped from her usual top 20 to 33rd <a class="yt-timestamp" data-t="00:18:15">[00:18:15]</a>. This was due to overthinking questions, assuming the test had to be difficult, and psyching herself into choosing wrong answers <a class="yt-timestamp" data-t="00:18:35">[00:18:35]</a>. This experience served as a crucial lesson, making her alert during the actual INIC exam to take some questions at face value and not overthink options <a class="yt-timestamp" data-t="00:18:55">[00:18:55]</a>. This "flaw" in the mock test ultimately helped her achieve her final rank <a class="yt-timestamp" data-t="00:19:06">[00:19:06]</a>.
+
+### Exam Attempt Strategy
+Despite technical difficulties during the INIC exam (her PC crashing thrice) <a class="yt-timestamp" data-t="00:19:41">[00:19:41]</a>, Dr. Shloka attempted 194 questions <a class="yt-timestamp" data-t="00:19:33">[00:19:33]</a>. She was cautious about not leaving too many questions, leaving 11 in the last three sections after being disturbed in section A <a class="yt-timestamp" data-t="00:19:56">[00:19:56]</a>.
+
+## Last-Month Revision and Marrow App Features
+
+### Final Revision Strategy
+For the last month leading up to the exam, Dr. Shloka focused solely on revision notes, PYQs, and her personalized notes <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>. She strongly advises against introducing new material just before the exam, preferring to reiterate what has already been studied and noting missed points <a class="yt-timestamp" data-t="00:24:46">[00:24:46]</a>.
+
+### Previous Year Questions (PYQs)
+While PYQs are essential, Dr. Shloka noted that INIC exam questions are not direct repetitions but rather repeated topics with in-depth options <a class="yt-timestamp" data-t="00:22:20">[00:22:20]</a>. She gained in-depth knowledge by reading the explanations <a class="yt-timestamp" data-t="00:22:47">[00:22:47]</a>. She defines a PYQ as a topic repeated multiple times, not just a single question from ten years ago <a class="yt-timestamp" data-t="00:23:10">[00:23:10]</a>. Extreme or random questions are meant to be skipped, as they are unlikely to be repeated or don't warrant in-depth study <a class="yt-timestamp" data-t="00:23:25">[00:23:25]</a>. For instance, in surgery, trauma is a frequently asked topic, and the answer is usually airway management <a class="yt-timestamp" data-t="00:23:32">[00:23:32]</a>.
+
+### Marrow App Features
+Dr. Shloka highlighted two valuable features of the Marrow app:
+*   **Search Functionality** The ability to search for any topic or even a single word and be directed to the relevant module was highly beneficial, acting like a "Google" for quick recall during last-week revisions <a class="yt-timestamp" data-t="00:20:57">[00:20:57]</a>.
+*   **Bookmark Feature** While she personally bookmarked too many items, leading to thousands of unmanageable bookmarks <a class="yt-timestamp" data-t="00:21:42">[00:21:42]</a>, she acknowledged that for those who can manage it by clearing them regularly, the [[use_of_bookmarks_and_notetaking_strategies_for_exam_preparation | bookmark feature]] is "an amazing feature" <a class="yt-timestamp" data-t="00:21:23">[00:21:23]</a>.
+
+## The Role of Support System and Mindset
+Dr. Shloka emphasizes that achieving her rank was a team effort, not an individual one <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. Her family and friends were crucial in keeping her sane during the intense preparation period, especially the last one to one and a half months, which involved many exams and mock tests <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. They provided strong support, even handling late-night panic attacks <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. This support allowed her to stay focused and dedicated, especially when she was home during her internship <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>.
