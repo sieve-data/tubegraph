@@ -1,0 +1,60 @@
+---
+title: The future potential and development of AI assistance APIs
+videoId: gwgDDkLFvd0
+---
+
+From: [[redpointai]] <br/> 
+
+The realm of AI is rapidly evolving, with a particular focus on the development and integration of AI assistance APIs, which are poised to profoundly impact how users interact with technology and how developers build applications <a class="yt-timestamp" data-t="00:53:53">[00:53:53]</a>.
+
+## Evolution from Plugins to Assistants API and GPTs
+
+OpenAI's journey into AI assistance began with plugins, which had an ambitious goal but faced limitations <a class="yt-timestamp" data-t="00:25:08">[00:25:08]</a>. Plugins were initially framed as a product release, but in hindsight, they were more of a "research preview" <a class="yt-timestamp" data-t="00:25:18">[00:25:18]</a>. The core idea involved a publicly hosted AI plugin manifest file that described a model's desired actions using an OpenAPI spec <a class="yt-timestamp" data-t="00:25:30">[00:25:30]</a>. However, resource constraints within OpenAI meant that teams had to quickly move on to other products like browsing and code interpreter, leaving plugins underdeveloped <a class="yt-timestamp" data-t="00:26:09">[00:26:09]</a>.
+
+Key challenges with plugins included security, privacy, and issues with taking consequential actions, as well as needing explicit user consent and authentication challenges <a class="yt-timestamp" data-t="00:26:32">[00:26:32]</a>. Many of these issues have since been addressed with the introduction of GPTs <a class="yt-timestamp" data-t="00:26:39">[00:26:39]</a>.
+
+The [[future_of_ai_agents_in_productivity_tools | Assistants API]] is considered a significant long-term development <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>. It removes the burden of dealing with "nitty-gritty things" for developers, although some still prefer full customization via embeddings API, LlamaIndex, or LangChain <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. The ability to integrate tools like code interpreter directly into the API is a major advantage, enabling developers to build sophisticated products <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
+
+GPTs offer a much improved interface compared to plugins <a class="yt-timestamp" data-t="00:26:55">[00:26:55]</a>. They allow combinations of features like browsing, code interpreter, and custom actions (which are essentially plugins) to work seamlessly out of the box <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>. The upcoming GPT store is expected to resolve many discoverability issues that plagued the plugin store <a class="yt-timestamp" data-t="00:27:19">[00:27:19]</a>.
+
+Currently, most use cases for GPTs revolve around sharing prompts <a class="yt-timestamp" data-t="00:27:50">[00:27:50]</a>. This highlights the continued value of prompt engineering, where well-crafted instructions can lead to significant value <a class="yt-timestamp" data-t="00:27:57">[00:27:57]</a>. However, integrating custom actions still presents friction due to the need for understanding OpenAPI specs <a class="yt-timestamp" data-t="00:28:28">[00:28:28]</a>.
+
+## Current and Future Use Cases for AI Assistants
+
+A highly anticipated development for AI assistants is a text-first experience, integrated with platforms like Twilio or email <a class="yt-timestamp" data-t="00:30:24">[00:30:24]</a>. This would allow the AI assistant experience to be brought to many surface areas where users already work, rather than requiring them to visit a dedicated website or app <a class="yt-timestamp" data-t="00:30:42">[00:30:42]</a>. The goal is for AI to assist users without requiring them to leave their existing workflows <a class="yt-timestamp" data-t="00:30:51">[00:30:51]</a>.
+
+This vision includes multiplayer experiences, such as a group chat with a human and an AI assistant, where users can ask for help directly within their familiar communication channels <a class="yt-timestamp" data-t="00:32:58">[00:32:58]</a>. The ability to pass around thread IDs between different objects further enhances this potential <a class="yt-timestamp" data-t="00:31:02">[00:31:02]</a>.
+
+There's a tension between having a centralized consumer front-end like ChatGPT (where users can do "everything") and embedding AI experiences within other applications <a class="yt-timestamp" data-t="00:33:32">[00:33:32]</a>. For OpenAI to achieve widespread success akin to Google, it needs to be present where customers and users already are, rather than solely relying on users initiating interactions on their own platform <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>. Microsoft's Copilot strategy, which integrates GPT-4 into existing Microsoft customer bases, is an example of this approach <a class="yt-timestamp" data-t="00:34:45">[00:34:45]</a>.
+
+## Impact on the Internet and AI Agents
+
+The widespread deployment of autonomous [[future_of_ai_agents_in_productivity_tools | AI agents]] on the internet raises significant concerns regarding internet infrastructure <a class="yt-timestamp" data-t="00:35:30">[00:35:30]</a>. There's a current lack of safeguards to authenticate humans versus AI agents on the web <a class="yt-timestamp" data-t="00:35:58">[00:35:58]</a>. The transition to more capable agents needs to happen gradually to allow people time to adapt <a class="yt-timestamp" data-t="00:36:20">[00:36:20]</a>.
+
+There's a risk of models being used to bypass human verification processes on sites <a class="yt-timestamp" data-t="00:36:29">[00:36:29]</a>. Developers of websites may need different access pathways for AI agents, as forcing agents to jump through the same hoops as humans is inefficient <a class="yt-timestamp" data-t="00:36:40">[00:36:40]</a>. This systemic shift will likely take years, possibly requiring a consortium of major internet companies like Apple and Google to build open standards for how AI tools interact with the web <a class="yt-timestamp" data-t="00:37:07">[00:37:07]</a>.
+
+The [[challenges_and_opportunities_in_aiagent_development | challenges and opportunities in AI agent development]] also extend to ensuring responsible use <a class="yt-timestamp" data-t="00:38:08">[00:38:08]</a>. Beyond safety, there are significant engineering and product experience challenges to overcome, as internet interactions are often unpredictable even for humans <a class="yt-timestamp" data-t="00:38:13">[00:38:13]</a>. Despite the recent hype cycle around agents (e.g., AutoGPT, Baby AGI), it has positively forced people to confront and think about these problems, potentially slowing down premature pushes that could lead to misuse <a class="yt-timestamp" data-t="00:39:01">[00:39:01]</a>.
+
+## [[future_development_areas_for_ai_and_efficiency_optimizations | Future Development Areas for AI and Efficiency Optimizations]]
+
+One area of active development is multimodal AI, especially vision use cases <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. While current vision models are good, a "GPT-4 level" leap is needed for many truly impactful applications <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. This requires models to have a very detailed understanding of positional relationships between objects in an image <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. Examples include:
+*   Perfectly understanding spatial relationships in design tools like Canva <a class="yt-timestamp" data-t="00:42:58">[00:42:58]</a>.
+*   Accurate OCR (Optical Character Recognition) for spreadsheets or receipts, which currently misses structure and gets positions wrong sometimes <a class="yt-timestamp" data-t="00:43:09">[00:43:09]</a>.
+*   Making generative image outputs (like DALL-E) easily editable, especially for text, which is currently challenging to fix without specialized skills <a class="yt-timestamp" data-t="00:43:47">[00:43:47]</a>. The TL Draw application, which converts user sketches into functional apps using vision models, exemplifies the desired application of this technology <a class="yt-timestamp" data-t="00:40:00">[00:40:00]</a>.
+
+The main objections preventing wider adoption of LLMs by enterprises and developers are robustness and reliability <a class="yt-timestamp" data-t="00:45:08">[00:45:08]</a>. Currently, developers often need to build intricate orchestration frameworks or use third-party tools like Guardrails AI to ensure production-level confidence <a class="yt-timestamp" data-t="00:45:13">[00:45:13]</a>. The hope is that platform providers will "upstream" solve these problems, although users may remain accustomed to adding extra safeguards <a class="yt-timestamp" data-t="00:45:45">[00:45:45]</a>.
+
+Another critical [[challenges_and_advancements_in_ai_technology | challenge and advancement in AI technology]] is latency <a class="yt-timestamp" data-t="00:46:11">[00:46:11]</a>. Many use cases cannot tolerate users waiting 7 seconds for a response <a class="yt-timestamp" data-t="00:46:18">[00:46:18]</a>. Reducing latency requires continued work in model development and inference <a class="yt-timestamp" data-t="00:46:25">[00:46:25]</a>. AI models, while sometimes likened to "a clone of human thought," do not yet operate at the speed of thought, which can be jarring for users <a class="yt-timestamp" data-t="00:47:03">[00:47:03]</a>. However, thoughtful UX design patterns, such as streaming responses one word at a time, can mitigate this <a class="yt-timestamp" data-t="00:47:56">[00:47:56]</a>.
+
+## Advice for Developers and AI Curious Individuals
+
+For developers, using AI tools like ChatGPT and GitHub Copilot is becoming "table stakes" <a class="yt-timestamp" data-t="00:55:08">[00:55:08]</a>. These tools amplify capabilities, allowing average developers to potentially outperform even the best unassisted developers <a class="yt-timestamp" data-t="00:55:13">[00:55:13]</a>. The technology offers the freedom to build almost anything imaginable <a class="yt-timestamp" data-t="00:55:20">[00:55:20]</a>.
+
+For those who are "AI curious" but feel overwhelmed, a good starting point is to audit daily tasks or job functions that are disliked or passions that one wishes to be better at <a class="yt-timestamp" data-t="00:54:24">[00:54:24]</a>. Identifying specific problems that AI could solve is key <a class="yt-timestamp" data-t="00:57:07">[00:57:07]</a>. Integrating AI into daily workflows as a habit is crucial for understanding its long-term impact on life and career <a class="yt-timestamp" data-t="00:56:01">[00:56:01]</a>. Companies like Apple and Google, with their vast user bases and familiar user experiences (e.g., Siri becoming more useful), are expected to play a significant role in demonstrating the possibilities of this technology to a wider consumer audience <a class="yt-timestamp" data-t="00:57:22">[00:57:22]</a>. The release of Google Gemini is also expected to show many consumers what's possible with this technology <a class="yt-timestamp" data-t="00:57:52">[00:57:52]</a>.
+
+### Key Takeaways:
+*   **Overhyped**: Prompt engineering <a class="yt-timestamp" data-t="00:48:15">[00:48:15]</a>. While useful now, its fundamental nature as communication will hopefully evolve into more seamless interactions where models handle the translation <a class="yt-timestamp" data-t="00:29:01">[00:29:01]</a>.
+*   **Underhyped**: Observability in AI development <a class="yt-timestamp" data-t="00:48:18">[00:48:18]</a>. Understanding what's happening within the models is crucial for effective use and development <a class="yt-timestamp" data-t="00:48:20">[00:48:20]</a>.
+*   **Surprising Success**: Function calling <a class="yt-timestamp" data-t="00:49:40">[00:49:40]</a>. It has proven to enable most really interesting production use cases <a class="yt-timestamp" data-t="00:49:51">[00:49:51]</a>.
+
+To learn more about OpenAI's API offerings, visit platform.openai.com <a class="yt-timestamp" data-t="00:58:13">[00:58:13]</a>.

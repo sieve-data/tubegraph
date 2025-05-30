@@ -1,0 +1,61 @@
+---
+title: Challenges in evolving AI technologies in education
+videoId: nFC3asFKlH0
+---
+
+From: [[redpointai]] <br/> 
+
+The field of education is poised for significant transformation through the integration of AI technologies, despite facing several [[challenges_and_opportunities_in_ai_applications_for_legal_and_education_sectors | challenges and opportunities in AI applications for legal and education sectors]] in its evolution <a class="yt-timestamp" data-t="00:53:57">[00:53:57]</a>. Connor Wick, CEO of Speak, an English language learning platform, shares insights from his experience building an AI-powered educational tool since 2015 <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>.
+
+## Speak: An AI-Powered Language Learning Platform
+
+Speak is an English language learning platform launched in South Korea in 2019, which has since grown to over 10 million users in more than 40 countries, and is backed by OpenAI <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. The platform focuses on developing fluency by teaching high-frequency word chunks and enabling practice through simulated, goal-oriented conversations <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>. The learning experience is highly individualized, adapting to a user's motivation, interests, and proficiency level <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>.
+
+Connor Wick's entrepreneurial journey in education technology began in high school with a flashcard app that achieved several million users <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. He conceptualized aggregating the app's hundreds of millions of knowledge pairs into a graph to generate an omniscient tutor capable of teaching anything <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>. He views Speak as a continuation of this vision, leveraging current AI capabilities <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
+
+## Evolution of AI and Speak's Strategic Approach
+
+Speak adopted a long-term strategic outlook, anticipating that AI models would continuously improve with more data and compute, eventually surpassing human capabilities in various tasks <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>. This foresight led to product decisions aligned with replacing human involvement in the learning process, evolving coherently year by year <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. Initial advancements focused on accurate speech recognition for better user experience <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>, followed by phoneme recognition and basic language understanding <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.
+
+A key [[challenges_and_opportunities_in_ai_integration | challenge and opportunity in AI integration]] is deciding whether to build around current model shortcomings or wait for inherent model improvements <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>. Speak prioritizes solving user problems and making progress on learning methodologies, even if it means swapping out underlying technology later <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>. This approach allowed them a head start in AI-based learning, focusing on engagement and motivation <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>.
+
+## [[challenges_and_strategies_in_ai_deployment | Challenges and Strategies in AI Deployment]]
+
+### Technical Moats and Investments
+Speak builds proprietary in-house models for specialized and niche tasks, such as speech recognition optimized for accents and quick, reliable error detection <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>. This allows them to capture value in the short to medium term, even as generalized foundational models improve <a class="yt-timestamp" data-t="00:12:16">[00:12:16]</a>. These investments in specialized models, while significant, are strategic for building a business and collecting more data <a class="yt-timestamp" data-t="00:13:28">[00:13:28]</a>.
+
+However, the major investment is in the "ML scaffolding" – the underlying technology that orchestrates models, handles data collection, fine-tuning, and evaluation <a class="yt-timestamp" data-t="00:15:24">[00:15:24]</a>. This complex infrastructure, often too specialized for existing tools, is considered a significant long-term technological moat for Speak <a class="yt-timestamp" data-t="00:15:57">[00:15:57]</a>.
+
+### Evaluation of AI Models
+Evaluating AI models, especially for open-ended tasks, is crucial and often underestimated <a class="yt-timestamp" data-t="00:30:57">[00:30:57]</a>. Connor emphasizes that perfecting evaluation distills the problem being optimized, making optimization straightforward <a class="yt-timestamp" data-t="00:31:11">[00:31:11]</a>. For speech recognition, evaluation goes beyond mere word error rate to include catching individual mistakes and understanding unintelligible words <a class="yt-timestamp" data-t="00:31:34">[00:31:34]</a>. Speak has a comprehensive playbook of internal tools and human-in-the-loop evaluations for dozens of tasks to assess new models, including those from OpenAI <a class="yt-timestamp" data-t="00:33:12">[00:33:12]</a>. Beyond internal evaluations, A/B testing with customers and tracking key product metrics provide rapid feedback <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>.
+
+### User Experience and Interface Design
+A significant challenge is designing intuitive user experiences for new AI paradigms, especially audio-first interactions <a class="yt-timestamp" data-t="00:18:59">[00:18:59]</a>. Users are often unfamiliar with the open-ended nature of AI interactions, such as being prompted to speak freely into a microphone button during onboarding <a class="yt-timestamp" data-t="00:19:16">[00:19:16]</a>. The goal is minimal user education, striving for designs that are intuitive and future-proof <a class="yt-timestamp" data-t="00:19:37">[00:19:37]</a>. The increasing familiarity with apps like ChatGPT is helping users adapt to these new paradigms <a class="yt-timestamp" data-t="00:30:25">[00:30:25]</a>.
+
+Future interfaces will likely be fluid and hybrid, allowing users to choose between talking, typing, or tapping <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a>. While speech is not always superior, it will be a significant shift, especially as speech-to-speech models improve <a class="yt-timestamp" data-t="00:21:25">[00:21:25]</a>. Another evolving interface is proactive AI, where the system thinks about the user in the background, observing data and performing tasks to provide tailored insights or preparations for future lessons <a class="yt-timestamp" data-t="00:22:56">[00:22:56]</a>.
+
+### Curriculum Development
+Developing AI-powered curriculum involves a balance between structured learning paths and personalization <a class="yt-timestamp" data-t="00:25:06">[00:25:06]</a>. While there's a "right sequence" for foundational language learning (e.g., high-frequency words) <a class="yt-timestamp" data-t="00:25:22">[00:25:22]</a>, the specific ordering and vocabulary can be highly individualized based on user needs and interests <a class="yt-timestamp" data-t="00:25:48">[00:25:48]</a>. Humans will continue to be essential in the loop for artistic and strategic curriculum creation, working alongside machine learning teams to understand and implement learning methodologies <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>.
+
+## [[impact_of_ai_on_education_and_unconventional_applications | Impact of AI on Education and Unconventional Applications]]
+
+### Disruptive vs. Sustaining Technology
+AI can either sustain incumbent technologies by making existing solutions better or disrupt them by automating entire processes <a class="yt-timestamp" data-t="00:35:06">[00:35:06]</a>. In language learning, Speak argues it is disruptive because it fundamentally solves a different problem than casual learning apps like Duolingo <a class="yt-timestamp" data-t="00:36:06">[00:36:06]</a>. Speak targets users seeking conversational fluency who lack access to human speakers, a problem uniquely addressed by AI <a class="yt-timestamp" data-t="00:37:34">[00:37:34]</a>.
+
+While real-time translation might reduce the casual tourist's need to learn a language, it doesn't address the fundamental human desire for connection and the inherent latency/imperfection of translation <a class="yt-timestamp" data-t="00:38:00">[00:38:00]</a>. Speak believes increased general usage of AI for language learning (e.g., with ChatGPT) will ultimately benefit specialized solutions by normalizing the idea of AI-powered learning and driving serious learners to more effective platforms <a class="yt-timestamp" data-t="00:40:35">[00:40:35]</a>.
+
+### Future Expansion Areas
+Speak sees significant opportunities for expansion beyond language learning into other educational sectors <a class="yt-timestamp" data-t="00:50:05">[00:50:05]</a>:
+1.  **Schools:** Integrating AI into traditional school environments <a class="yt-timestamp" data-t="00:50:18">[00:50:18]</a>.
+2.  **Businesses/Professional Skills:** Developing and certifying professional skills for employees, such as public speaking in English <a class="yt-timestamp" data-t="00:50:27">[00:50:27]</a>.
+3.  **Personal Learning:** This is considered a massive, often invisible, category of human activity, encompassing self-improvement through various media like books, podcasts, and articles <a class="yt-timestamp" data-t="00:50:37">[00:50:37]</a>. Personal learning will likely become highly individualized, with AI systems having long-term memory of user interests and personalities to provide relevant information proactively <a class="yt-timestamp" data-t="00:52:05">[00:52:05]</a>.
+
+## [[future_of_ai_in_education | Future of AI in Education]] and [[challenges_in_ai_research_and_potential_solutions | Challenges in AI Research and Potential Solutions]]
+
+Education is predicted to be one of the biggest areas of change and disruption due to AI <a class="yt-timestamp" data-t="00:53:57">[00:53:57]</a>. While software has digitized education (e.g., online quizzes, digital flashcards), the fundamental quality and efficacy of learning haven't changed much in decades or even centuries <a class="yt-timestamp" data-t="00:54:21">[00:54:21]</a>. AI is expected to fundamentally alter the best ways to learn <a class="yt-timestamp" data-t="00:54:57">[00:54:57]</a>.
+
+While significant changes are expected in a decade, there might be disappointments in the short term due to overhyped expectations <a class="yt-timestamp" data-t="00:55:34">[00:55:34]</a>. A concern exists that over-obsession with the Transformer architecture might create a local maximum in AI research, potentially hindering exploration of other foundational technologies <a class="yt-timestamp" data-t="00:56:00">[00:56:00]</a>.
+
+Applying AI to subjects beyond language learning presents different [[challenges_and_advancements_in_ai_technology | challenges and advancements in AI technology]] <a class="yt-timestamp" data-t="00:56:49">[00:56:49]</a>. Language learning inherently benefits more from AI because traditional classroom models (e.g., 1 teacher to 30 students) are less effective for speaking practice compared to a personalized AI <a class="yt-timestamp" data-t="00:56:56">[00:56:56]</a>. For subjects like math, while AI can provide homework help, fundamentally improving teaching methods requires a much higher bar for efficacy and user enjoyment, as existing solutions are often better than the status quo for language learning <a class="yt-timestamp" data-t="00:58:38">[00:58:38]</a>. The core [[challenges_in_ai_model_training_and_deployment | challenge in AI model training and deployment]] often lies in product design and market fit, rather than purely technological limitations <a class="yt-timestamp" data-t="00:59:17">[00:59:17]</a>.
+
+The continuous learning loop in AI development means new capabilities always seem revolutionary but turn out to be less of a panacea than initially thought <a class="yt-timestamp" data-t="01:00:39">[01:00:39]</a>, requiring consistent, gradual improvements to truly change user behavior <a class="yt-timestamp" data-t="01:00:54">[01:00:54]</a>.

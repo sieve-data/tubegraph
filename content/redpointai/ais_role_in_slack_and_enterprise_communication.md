@@ -1,0 +1,51 @@
+---
+title: AIs role in Slack and enterprise communication
+videoId: j_zQHo-M8yY
+---
+
+From: [[redpointai]] <br/> 
+
+Clara Shih, CEO of Salesforce AI, discusses the transformative impact of artificial intelligence (AI) on the workforce and enterprise communication, highlighting Salesforce's strategic approach to integrating AI across its products and platforms <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. She anticipates that in ten years, current work practices will seem "ridiculous," similar to how people today view '90s office work involving filing cabinets and dictation <a class="yt-timestamp" data-t="01:24">[01:24]</a>.
+
+## AI Integration in Salesforce Products
+
+Salesforce has launched its first set of generative AI applications under the Einstein GPT brand, including Service GPT for customer service and Sales GPT for sales cloud users <a class="yt-timestamp" data-t="01:54">[01:54]</a>. A particularly impactful feature has been service reply recommendations and case summaries, which significantly reduce time-consuming tasks for customer service representatives and wait times for customers <a class="yt-timestamp" data-t="02:10">[02:10]</a>.
+
+### Transforming Roles with AI: The Gucci Case Study
+A notable example of AI's impact is its deployment with Gucci's service team, split between Florence, Italy, and New Jersey <a class="yt-timestamp" data-t="03:09">[03:09]</a>. While initially aimed at reducing average handle time for customer issues, the AI has augmented service representatives to become salespeople and brand storytellers <a class="yt-timestamp" data-t="03:21">[03:21]</a>. For instance, after resolving a belt buckle issue, the AI might prompt the representative to suggest handbags the customer was browsing, leading to double-digit increases in conversion rates <a class="yt-timestamp" data-t="04:04">[04:04]</a>. This transformation turns the customer service "cost center" into a "revenue center" <a class="yt-timestamp" data-t="04:24">[04:24]</a>, empowering employees to perform higher-value activities <a class="yt-timestamp" data-t="04:33">[04:33]</a>.
+
+## Salesforce AI Architecture and Trust
+Salesforce recently announced the general availability (GA) of Einstein Co-pilot, a natural language conversational assistant grounded in customer data, metadata, and Salesforce flows <a class="yt-timestamp" data-t="05:19">[05:19]</a>. Alongside this, Co-pilot Studio was made GA, offering a prompt builder for creating "golden prompts" referencing specific data fields and a model builder for customers to fine-tune or integrate their own predictive models <a class="yt-timestamp" data-t="05:33">[05:33]</a>.
+
+The company's AI team structure has evolved from decentralized AI folks in each application cloud to a new shared services AI platform team responsible for foundational elements like the Einstein Trust Layer and model Gateway <a class="yt-timestamp" data-t="06:20">[06:20]</a>. Product teams now build on this shared platform, creating specific actions for Einstein Co-pilot, such as Sales actions or Service actions <a class="yt-timestamp" data-t="07:14">[07:14]</a>.
+
+A core focus for Salesforce is trust, particularly for its large enterprise customers <a class="yt-timestamp" data-t="07:28">[07:28]</a>. This is addressed at three levels:
+1.  **Technology**: The Einstein Trust Layer incorporates features like data masking, data grounding with Data Cloud to reduce hallucinations, citations, audit trails, prompt defense, and zero retention prompts <a class="yt-timestamp" data-t="07:51">[07:51]</a>. Data masking, for example, has been a feature since the predictive AI days to mitigate bias from sensitive data fields like name, gender, or zip code <a class="yt-timestamp" data-t="09:23">[09:23]</a>.
+2.  **Acceptable Use Policy**: AI bots are required to self-identify as AI to consumers <a class="yt-timestamp" data-t="08:16">[08:16]</a>.
+3.  **Stakeholder Engagement**: Salesforce has developed open-source trusted AI guiding principles centered on accuracy, honesty, and empowerment, shared with the industry and government regulators <a class="yt-timestamp" data-t="08:36">[08:36]</a>.
+
+### Overcoming [[challenges_in_enterprise_ai_deployment | Challenges in Enterprise AI deployment]]
+The biggest barriers to broad AI adoption in enterprises are trust (due to data security and privacy risks) and making a clear business case <a class="yt-timestamp" data-t="24:12">[24:12]</a>. Salesforce addresses this by providing "turn-key" AI use cases like Service GPT, which can be quickly set up to demonstrate immediate business value <a class="yt-timestamp" data-t="25:27">[25:27]</a>. Customers can then customize these tools, referencing their specific brand voice and custom data fields <a class="yt-timestamp" data-t="25:57">[25:57]</a>. The choice of the name "Co-pilot" (not "Autopilot") also signals the intent to empower, not replace, users <a class="yt-timestamp" data-t="11:51">[11:51]</a>.
+
+## Data as a Strategic Asset for AI
+Salesforce emphasizes its unique position with four types of data crucial for AI:
+1.  **CRM Data**: Structured data records, Salesforce's heritage <a class="yt-timestamp" data-t="16:38">[16:38]</a>.
+2.  **Unstructured Data**: Knowledge articles, conversation transcripts from Slack channels, contact center voice calls, chats, and emails <a class="yt-timestamp" data-t="16:47">[16:47]</a>. Their Data Cloud now includes vector search and hybrid reranking across both structured and unstructured data <a class="yt-timestamp" data-t="17:09">[17:09]</a>.
+3.  **Metadata Layer**: Originally built for multi-tenancy, this layer is crucial for providing context to AI, guiding it on which data objects, tables, or functions to use <a class="yt-timestamp" data-t="17:35">[17:35]</a>.
+4.  **Feedback Data**: Salesforce captures data on customer outcomes (e.g., sales opportunity stage, marketing campaign conversions) which acts as a reward function for AI models, enabling continuous learning <a class="yt-timestamp" data-t="17:58">[17:58]</a>.
+
+## Model Selection and Customization
+Given the rapidly evolving AI model landscape, Salesforce adopts an "open architecture approach," allowing customers to choose from models on their service, bring their own, or integrate third-party models <a class="yt-timestamp" data-t="19:12">[19:12]</a>. Different models are expected to be optimal for different tasks and use cases <a class="yt-timestamp" data-t="19:28">[19:28]</a>. Salesforce's own research models are fine-tuned for industry-specific and domain-specific use cases, such as code generation, Salesforce flow generation, or financial services sales <a class="yt-timestamp" data-t="19:34">[19:34]</a>. They also track and benchmark models based on cost, performance, and latency for specific tasks <a class="yt-timestamp" data-t="20:01">[20:01]</a>, enabling industry-specific benchmarks (e.g., Pharma industry sales benchmarks) <a class="yt-timestamp" data-t="20:19">[20:19]</a>.
+
+## [[Role of AI agents in business meetings | AI's Role in Slack and Enterprise Communication]]
+AI is poised to transform every department within a company, requiring a rethinking of job descriptions <a class="yt-timestamp" data-t="32:01">[32:01]</a>. Salesforce is already using its secure generative AI in Slack for internal processes, such as V2MOM (Vision, Values, Methods, Obstacles, and Measures) planning, to help brainstorm and summarize initiatives <a class="yt-timestamp" data-t="32:27">[32:27]</a>.
+
+The interview emphasizes Slack as a "perfect place" for AI integration in enterprise communication <a class="yt-timestamp" data-t="34:30">[34:30]</a>.
+*   **Slack AI**: Salesforce has launched Slack AI, which provides conversation and channel summaries, saving significant time <a class="yt-timestamp" data-t="34:47">[34:47]</a>.
+*   **Einstein Co-pilot in Slack**: The goal is to bring Einstein Co-pilot into Slack, allowing users to ask for service reply recommendations, summarize customer activities (open support tickets, marketing engagement) before meetings, and enable the entire account team to view these insights <a class="yt-timestamp" data-t="34:58">[34:58]</a>.
+*   **Team + AI**: The future of work will involve "team plus AI" workflows. This includes "group chatting with AI" for brainstorming, where an AI teammate can chime in with ideas, and "group coding with AI," where an LLM can be tagged for code suggestions and responses can be reviewed collectively <a class="yt-timestamp" data-t="33:57">[33:57]</a>. Similarly, in sales, AI could provide real-time suggestions during discussions to increase winning chances <a class="yt-timestamp" data-t="34:14">[34:14]</a>.
+
+Beyond question answering, AI is also valuable for workflow orchestration, allowing users to empower their co-pilot to initiate actions like returns or send shipping labels based on established Salesforce workflows <a class="yt-timestamp" data-t="36:27">[36:27]</a>. Salesforce's existing permissioning and governance layers allow administrators to selectively grant the co-pilot access to specific flows and Apex, ensuring cautious yet optimistic adoption of AI capabilities <a class="yt-timestamp" data-t="36:56">[36:56]</a>. This ensures that users see relevant information and the AI respects established access rules <a class="yt-timestamp" data-t="38:08">[38:08]</a>.
+
+## The Future of AI in the Enterprise
+Clara Shih believes we are on the precipice of the most exciting societal change ever experienced <a class="yt-timestamp" data-t="39:19">[39:19]</a>. She emphasizes the importance of shaping this future responsibly to ensure AI's tremendous benefits accrue to everyone, not just a select few <a class="yt-timestamp" data-t="39:31">[39:31]</a>. The shift from deterministic to stochastic models in AI requires a new way of operating and building, presenting daily challenges that are seen as positive <a class="yt-timestamp" data-t="10:14">[10:14]</a>. Salesforce continues to explore "Frontier AI" through short-term experiments, prototyping new capabilities that may eventually integrate into the core product stack <a class="yt-timestamp" data-t="14:46">[14:46]</a>.

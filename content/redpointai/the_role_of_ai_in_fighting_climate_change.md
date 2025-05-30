@@ -1,0 +1,43 @@
+---
+title: The role of AI in fighting climate change
+videoId: nkOB4LDNo7I
+---
+
+From: [[redpointai]] <br/> 
+
+Mike Schroepfer, former CTO at Facebook for nine years, is now the founder of Gigascale, a venture capital firm that invests in companies using technology to combat [[the_role_of_ai_in_advancing_scientific_research | climate change]] <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. He emphasizes the intersection of [[challenges_and_advancements_in_ai_technology | AI]] and energy, particularly what is required to produce energy at a scale that allows for massively democratized access to [[challenges_and_advancements_in_ai_technology | AI]] globally <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+
+## AI's Impact on Energy Demand and Solutions
+
+The rapid buildout of [[challenges_and_strategies_in_ai_deployment | AI compute]] requires a tremendous amount of energy, creating a perceived tension with environmental concerns and ESG commitments <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. However, Schroepfer views this as "the best possible news" <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. The demand [[ai_and_its_impact_on_energy_consumption | AI]] places on energy, especially from technically savvy and well-funded customers, is accelerating the deployment of new energy solutions <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
+
+Even without [[challenges_and_advancements_in_ai_technology | AI]], the United States needs to increase its grid capacity by approximately five times by 2050 to meet goals like converting all gas vehicles to electric vehicles and expanding domestic manufacturing for materials like steel and cement <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>. [[challenges_and_advancements_in_ai_technology | AI]] acts as an accelerator for these market forces <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>.
+
+The fundamental challenge for humanity is enabling eight billion people to live in comfort and safety, and the only known answer is technology, especially regarding power <a class="yt-timestamp" data-t="00:03:43">[00:03:43]</a>. Many global power issues, such as lack of air conditioning or clean water, are fundamentally energy problems <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. If energy costs can be reduced tenfold and deployed widely, it opens up the possibility of improving the standard of living for many people <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+
+Consider the energy required for a dedicated [[proactive_ai_interventions | AI agent]] to serve an individual 24/7 <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>. Multiplying this by eight billion people results in "crazy fun numbers," but these are considered "very tractable" problems if energy is consistently made more abundant and cheaper <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>.
+
+### Key Energy Solutions Accelerated by AI Demand
+
+*   **Solar Energy:** Currently, utility-grade solar accounts for 80% of new energy on the U.S. grid in 2024 because it is the cheapest way to add electrons <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>. However, solar works only about 25% of the time, posing challenges for continuous operations like data centers <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>.
+*   **Fusion Energy:** Schroepfer is highly optimistic about fusion. It's a proven reaction, incredibly power-dense, and produces no significant waste <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>. One supertanker of fuel could power the entire U.S. for a year with fusion, or a pickup truck could fuel a major power plant for a year, highlighting the immense energy output from minimal matter <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>.
+*   **Offshore Compute Platforms:** Companies like Panlasa are building offshore compute platforms that float in the ocean, generating energy from waves and using the ocean for immersive cooling <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>. This could lead to the cheapest inference platforms globally <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>.
+
+Large hyperscalers are already making purchase agreements for power from existing or new nuclear plants and are issuing RFPs for next-generation fusion plants <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. Energy is becoming a critical component alongside data, computation, and algorithms for [[impact_of_ai_advancements_on_business_models | AI]] development <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. As [[challenges_and_advancements_in_ai_technology | AI]] reasoning models evolve, the compute demand is shifting from training to inference, where a near-infinite supply of inference-time reasoning compute is needed at the right price point <a class="yt-timestamp" data-t="00:08:35">[00:08:35]</a>.
+
+## AI's Direct Applications in Climate Solutions
+
+There are several critical problems where [[the_role_of_ai_in_advancing_scientific_research | AI can]] provide significant solutions:
+
+*   **Geothermal Exploration:** Companies like Zanar use [[the_role_of_ai_in_advancing_scientific_research | AI]] to analyze data and identify optimal drilling spots for geothermal energy, which involves hot water or steam emerging from the ground <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>. This approach can also be applied to finding other resources like copper or hydrogen <a class="yt-timestamp" data-t="00:30:59">[00:30:59]</a>.
+*   **Weather Prediction and Insurance:** [[the_role_of_ai_in_advancing_scientific_research | AI]] can improve weather prediction and better assess risk for insurance purposes <a class="yt-timestamp" data-t="00:31:14">[00:31:14]</a>.
+*   **New Material Discovery:** [[the_role_of_ai_in_advancing_scientific_research | AI]] can accelerate the invention and optimization of new materials, such as those used for carbon capture or catalysts for chemical reactions <a class="yt-timestamp" data-t="00:31:24">[00:31:24]</a>. This involves searching multi-dimensional spaces for materials with specific properties, speeding up the discovery and testing process <a class="yt-timestamp" data-t="00:31:37">[00:31:37]</a>. While [[the_role_of_ai_in_advancing_scientific_research | AI]] is excellent for discovery, the challenge remains in scaling manufacturing of these new materials <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>.
+*   **Home Efficiency:** [[the_role_of_ai_in_advancing_scientific_research | AI]] can directly help consumers improve home energy efficiency. For example, a thermal camera attached to a phone can capture video of a house, and an [[proactive_ai_interventions | AI agent]] can process it to suggest specific improvements like adding insulation or replacing appliances, with calculated payback times <a class="yt-timestamp" data-t="00:34:04">[00:34:04]</a>.
+
+## Nuances and Challenges
+
+The idea that [[challenges_and_advancements  in_ai_technology | AGI]] (Artificial General Intelligence) will simply solve [[the_role_of_ai_in_advancing_scientific_research | climate change]] is dismissed as "punting the problem down the hill" <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>. While [[challenges_and_advancements_in_ai_technology | AI]] is a powerful tool, the next five years will be complex. Companies may resort to natural gas turbines for quick power generation in the short term, but long-term planning must include investments in solar, battery storage, and next-generation technologies like geothermal and fusion <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>.
+
+Mike Schroepfer stresses that effective solutions require focusing on problems where [[challenges_and_advancements_in_ai_technology | AI]] significantly impacts the overall time and cost, rather than just small parts of a complex process like material discovery, which still faces massive manufacturing scaling challenges <a class="yt-timestamp" data-t="00:33:06">[00:33:06]</a>.
+
+Ultimately, Schroepfer is optimistic about the future if energy costs can decrease consistently over the next few decades, leading to amazing advancements from [[ai_and_its_impact_on_energy_consumption | AI compute]] widely available to everyone to global comfort and manufacturing capabilities <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>. The widespread distribution of [[challenges_and_advancements_in_ai_technology | AI]] technology is contingent on solving the energy challenge <a class="yt-timestamp" data-t="00:10:42">[00:10:42]</a>.

@@ -1,0 +1,79 @@
+---
+title: Role and impact of AI in email management
+videoId: cIJ8hMLCboE
+---
+
+From: [[redpointai]] <br/> 
+
+The landscape of email management is undergoing a significant transformation driven by the integration of artificial intelligence (AI). Despite perennial claims by journalists about the "death of email," its fundamental role as an underlying piece of infrastructure, particularly for company-owned unique identifiers, ensures its persistence <a class="yt-timestamp" data-t="00:01:36"></a> <a class="yt-timestamp" data-t="00:01:40"></a> <a class="yt-timestamp" data-t="00:01:41"></a> <a class="yt-timestamp" data-t="00:01:44"></a> <a class="yt-timestamp" data-t="00:01:45"></a> <a class="yt-timestamp" data-t="00:02:38"></a>. However, the nature of email itself is rapidly evolving, with AI and collaboration identified as key future themes <a class="yt-timestamp" data-t="00:02:46"></a>.
+
+## Current AI Features in Superhuman
+
+Superhuman, an email tool that has gained significant traction, exemplifies the cutting-edge application of AI in email management <a class="yt-timestamp" data-t="00:00:23"></a> <a class="yt-timestamp" data-t="00:00:24"></a>. The company has developed three flagship AI features:
+
+1.  **Write with AI**
+    This feature allows users to jot down a few words, which are then transformed into a fully written email. It is designed to match the user's voice and tone based on previously sent emails <a class="yt-timestamp" data-t="00:04:19"></a> <a class="yt-timestamp" data-t="00:04:22"></a> <a class="yt-timestamp" data-t="00:04:27"></a>. Users can further refine the generated text by shortening, lengthening, improving writing, fixing mistakes, or changing the language <a class="yt-timestamp" data-t="00:04:32"></a> <a class="yt-timestamp" data-t="00:04:39"></a>. It was launched around June or July of the previous year <a class="yt-timestamp" data-t="00:04:39"></a>.
+
+2.  **Auto Summarize**
+    Introduced in November <a class="yt-timestamp" data-t="00:04:47"></a>, Auto Summarize provides a one-line summary above an email conversation that updates instantly as new emails arrive <a class="yt-timestamp" data-t="00:05:00"></a> <a class="yt-timestamp" data-t="00:05:08"></a>. Users can access a bullet-point summary for more detail <a class="yt-timestamp" data-t="00:05:11"></a>. This feature significantly changes workflows by allowing users to often understand the email's content from the summary alone, reducing the need to read the full message <a class="yt-timestamp" data-t="00:05:14"></a> <a class="yt-timestamp" data-t="00:05:21"></a>.
+
+3.  **Instant Reply**
+    Released a few weeks prior to the discussion <a class="yt-timestamp" data-t="00:05:30"></a>, Instant Reply generates draft replies for incoming emails. The goal is for users to simply edit and send, or in some cases, send without any edits <a class="yt-timestamp" data-t="00:05:33"></a> <a class="yt-timestamp" data-t="00:05:42"></a>. This feature provides three reply options, helping users make decisions faster <a class="yt-timestamp" data-t="00:08:49"></a> <a class="yt-timestamp" data-t="00:09:55"></a>. A critical design decision was to make these options visible before the user starts replying, providing inspiration and lowering the "activation energy" to respond <a class="yt-timestamp" data-t="00:18:12"></a> <a class="yt-timestamp" data-t="00:18:52"></a> <a class="yt-timestamp" data-t="00:19:01"></a>. The generated replies are intentionally short, typically one to two sentences, to maintain a fast, snappy workflow <a class="yt-timestamp" data-t="00:21:14"></a> <a class="yt-timestamp" data-t="00:21:26"></a>.
+
+### Impact on Productivity
+
+The impact of these AI features on productivity is notable. Users of Instant Reply write emails twice as fast, effectively cutting their response time in half <a class="yt-timestamp" data-t="00:05:57"></a> <a class="yt-timestamp" data-t="00:06:05"></a>. Qualitatively, users report being able to reply to emails they otherwise would have left unanswered due to a lack of clarity on how to respond or because the task felt "just below the threshold of doing" <a class="yt-timestamp" data-t="00:09:11"></a> <a class="yt-timestamp" data-t="00:09:28"></a>.
+
+## AI Development Strategy
+
+Superhuman's AI development has followed a phased approach:
+
+1.  **On-Demand AI Features (Phase One):** These features, like Write with AI, require the user to remember to use them. They are generally easier and cheaper to build and run, serving as a good way to test technology, assess its quality, and gauge user love <a class="yt-timestamp" data-t="00:06:26"></a> <a class="yt-timestamp" data-t="00:06:40"></a> <a class="yt-timestamp" data-t="00:06:41"></a> <a class="yt-timestamp" data-t="00:06:43"></a> <a class="yt-timestamp" data-t="00:06:48"></a>.
+2.  **Always-On AI Features (Phase Two):** Features such as Auto Summarize and Instant Reply are more ambitious, difficult, and expensive to build and run, as they are continuously working for the user at massive scale <a class="yt-timestamp" data-t="00:06:56"></a> <a class="yt-timestamp" data-t="00:07:05"></a> <a class="yt-timestamp" data-t="00:07:11"></a>. For example, Superhuman has processed 4 billion emails with these features <a class="yt-timestamp" data-t="00:07:28"></a> <a class="yt-timestamp" data-t="00:07:31"></a>.
+3.  **Agentic AI Future (Phase Three):** This phase envisions a future where AI agents operate around users' emails, acting on their behalf <a class="yt-timestamp" data-t="00:03:02"></a> <a class="yt-timestamp" data-t="00:03:08"></a> <a class="yt-timestamp" data-t="00:07:53"></a>. These agents will be mostly autonomous, able to be given goals (not just tasks), plan and break down goals into subtasks, handle ambiguity by asking questions or querying other systems (like CRMs), and even interact with other agents <a class="yt-timestamp" data-t="00:08:08"></a> <a class="yt-timestamp" data-t="00:08:26"></a>. This is expected to free humans to be more creative, strategic, and impactful <a class="yt-timestamp" data-t="00:08:32"></a> <a class="yt-timestamp" data-t="00:08:34"></a>.
+
+The transition to AI development was a "founder fiat" decision, made despite difficulties in predicting user or business value <a class="yt-timestamp" data-t="00:12:32"></a> <a class="yt-timestamp" data-t="00:12:48"></a>. The company adopted a "Theta mode" operating model for existential projects, involving an embedded executive (the CEO) doing individual contributor work to ensure rapid progress <a class="yt-timestamp" data-t="00:13:52"></a> <a class="yt-timestamp" data-t="00:14:04"></a> <a class="yt-timestamp" data-t="00:14:14"></a>.
+
+## Challenges in AI Development
+
+Developing and integrating AI features presents several challenges:
+
+*   **Prompt Engineering:** Designing effective prompts for large language models (LLMs) is complex. Minor changes in model versions can break previously effective prompts <a class="yt-timestamp" data-t="00:26:09"></a> <a class="yt-timestamp" data-t="00:26:20"></a>. Superhuman employs a robust regression testing and evaluation framework using tools like Brain Trust to manage prompt changes and model updates <a class="yt-timestamp" data-t="00:26:46"></a> <a class="yt-timestamp" data-t="00:26:51"></a>. LLMs are even used to assess themselves for criteria like topic relevance, addressing the right person, and appropriate response length <a class="yt-timestamp" data-t="00:28:20"></a> <a class="yt-timestamp" data-t="00:28:34"></a>.
+*   **Model Quality and Speed:** Choosing the right LLM is crucial. Open AI models were selected due to their perceived 6-9 month lead in model quality and demonstrated commitment to lowering costs <a class="yt-timestamp" data-t="00:29:28"></a> <a class="yt-timestamp" data-t="00:29:41"></a> <a class="yt-timestamp" data-t="00:29:51"></a>. For features like Instant Reply and Auto Summarize, peak throughput and latency are more critical than raw intelligence, requiring models like GPT-3.5 Turbo over GPT-4 due to higher tokens-per-minute limits <a class="yt-timestamp" data-t="00:31:39"></a> <a class="yt-timestamp" data-t="00:31:49"></a> <a class="yt-timestamp" data-t="00:32:28"></a>.
+*   **Cost Management:** Running "always-on" AI features can be expensive due to the sheer volume of data processed <a class="yt-timestamp" data-t="00:07:09"></a> <a class="yt-timestamp" data-t="00:30:17"></a>. Superhuman leverages its $30/month retail price point to fund these investments, reallocating past onboarding budget to AI development <a class="yt-timestamp" data-t="00:33:12"></a> <a class="yt-timestamp" data-t="00:33:44"></a> <a class="yt-timestamp" data-t="00:34:02"></a> <a class="yt-timestamp" data-t="00:34:07"></a>. The expectation is that model costs will continue to decrease, and future "Edge LLMs" running on devices will further reduce expenses <a class="yt-timestamp" data-t="00:30:03"></a> <a class="yt-timestamp" data-t="00:30:11"></a>.
+
+## Design Philosophy for AI
+
+Superhuman operates on the principle of making features "when you want it and out of the way when you don't" <a class="yt-timestamp" data-t="00:19:34"></a> <a class="yt-timestamp" data-t="00:19:36"></a>. This minimalist design approach is crucial for AI features. For instance, the transition from arrow key navigation to Tab and Enter for Instant Reply made the feature 10 times more usable and faster, by eliminating painful and time-consuming "shoulder motions" <a class="yt-timestamp" data-t="00:22:42"></a> <a class="yt-timestamp" data-t="00:22:45"></a> <a class="yt-timestamp" data-t="00:22:49"></a> <a class="yt-timestamp" data-t="00:22:56"></a>. This meticulous attention to user interface (UI) and interaction design is often more critical than the underlying prompt engineering for the effectiveness of AI features <a class="yt-timestamp" data-t="00:22:04"></a> <a class="yt-timestamp" data-t="00:22:11"></a> <a class="yt-timestamp" data-t="00:22:17"></a>.
+
+## The [[future_of_email_and_ai_integration | Future of AI Agents]] in Email
+
+The long-term vision for AI in email is an "agentic AI future" <a class="yt-timestamp" data-t="00:03:02"></a> <a class="yt-timestamp" data-t="00:07:53"></a>. This involves intelligent agents that can:
+
+*   **Triage emails**: Sort and prioritize incoming messages <a class="yt-timestamp" data-t="00:45:54"></a>.
+*   **Draft emails**: Compose messages autonomously <a class="yt-timestamp" data-t="00:45:57"></a>.
+*   **Schedule events**: Manage calendar appointments <a class="yt-timestamp" data-t="00:45:59"></a>.
+*   **Send emails**: Execute sending actions on behalf of the user <a class="yt-timestamp" data-t="00:46:00"></a>.
+*   **Interact with other agents**: Seamlessly communicate with other AI agents in the ecosystem (e.g., HR, benefits, CRM agents) <a class="yt-timestamp" data-t="00:26:26"></a> <a class="yt-timestamp" data-t="00:43:17"></a> <a class="yt-timestamp" data-t="00:43:24"></a> <a class="yt-timestamp" data-t="00:46:02"></a>. This interaction, potentially in natural language, would occur instantaneously, eliminating the need for manual communication, meetings, or phone calls <a class="yt-timestamp" data-t="00:44:07"></a> <a class="yt-timestamp" data-t="00:44:16"></a>.
+
+While the exact structure of this ecosystem is still [[future_of_email_and_ai_integration | TBD]] <a class="yt-timestamp" data-t="00:44:37"></a> <a class="yt-timestamp" data-t="00:44:40"></a>, it's envisioned that companies will build agents within their specific domains. Superhuman aims to be the "pain of glass" for this interaction, leveraging its position as a "three-hour-a-day product" that users frequently engage with <a class="yt-timestamp" data-t="00:44:49"></a> <a class="yt-timestamp" data-t="00:45:05"></a> <a class="yt-timestamp" data-t="00:45:08"></a>.
+
+## Broader Impact of AI Agents
+
+The development of AI agents extends beyond email into the broader workplace. The vision includes a "future of work agents" system where an agent understands a user's priorities across different platforms like Slack and email, and organizes tasks based on their calendar and preferences <a class="yt-timestamp" data-t="01:02:16"></a> <a class="yt-timestamp" data-t="01:02:37"></a>. This could help professionals manage the "infinite amount of work" and alleviate stress by providing clear guidance on what to do next <a class="yt-timestamp" data-t="01:03:14"></a> <a class="yt-timestamp" data-t="01:03:16"></a> <a class="yt-timestamp" data-t="01:03:20"></a>.
+
+The broader [[impact_of_ai_advancements_on_business_models | impact of AI]] is seen in its potential to take over most jobs, especially entry-level roles in customer support or sales, due to AI's ability to perform tasks at a fraction of the cost, even if only 80% as effectively <a class="yt-timestamp" data-t="00:56:04"></a> <a class="yt-timestamp" data-t="00:56:10"></a> <a class="yt-timestamp" data-t="00:56:17"></a>. This will lead to a shift in how humans work, freeing them up for more creative or strategic endeavors, much like how modern jobs might seem like "play" to people from a thousand years ago <a class="yt-timestamp" data-t="00:57:08"></a> <a class="yt-timestamp" data-t="00:57:17"></a> <a class="yt-timestamp" data-t="00:57:20"></a>.
+
+## Competing with Incumbents
+
+AI startups, like Superhuman, face the challenge of competing with large incumbents (e.g., Google, Microsoft) <a class="yt-timestamp" data-t="00:46:36"></a> <a class="yt-timestamp" data-t="00:47:48"></a>. However, incumbents are often "encumbered" by:
+
+*   **One-size-fits-all solutions:** They serve a massive user base, making it difficult to tailor products to specific, lucrative market segments <a class="yt-timestamp" data-t="00:48:17"></a> <a class="yt-timestamp" data-t="00:48:31"></a> <a class="yt-timestamp" data-t="00:48:34"></a>. Startups can target underserved, economically powerful sub-segments with a better product <a class="yt-timestamp" data-t="00:48:42"></a> <a class="yt-timestamp" data-t="00:48:46"></a> <a class="yt-timestamp" data-t="00:48:50"></a>.
+*   **Lack of speed:** Incumbents struggle with product speed due to legacy architectures (e.g., client-server applications vs. JavaScript-based web apps) <a class="yt-timestamp" data-t="00:49:15"></a> <a class="yt-timestamp" data-t="00:49:18"></a> <a class="yt-timestamp" data-t="00:49:41"></a> <a class="yt-timestamp" data-t="00:49:56"></a>. Speed was a core differentiator for Superhuman <a class="yt-timestamp" data-t="00:49:19"></a>.
+*   **Organizational design dictating product design (Conway's Law):** Large organizations' internal structures can lead to product designs that are not logical or beneficial for the user <a class="yt-timestamp" data-t="00:50:06"></a> <a class="yt-timestamp" data-t="00:50:10"></a> <a class="yt-timestamp" data-t="00:50:58"></a>.
+
+Startups can leverage these weaknesses by focusing on vertical markets, building for specific user archetypes (e.g., Founders and VCs, then leaders and managers, now any outbound professional), and articulating a clear progression of target personas <a class="yt-timestamp" data-t="00:52:02"></a> <a class="yt-timestamp" data-t="00:52:09"></a> <a class="yt-timestamp" data-t="00:52:10"></a> <a class="yt-timestamp" data-t="00:52:14"></a> <a class="yt-timestamp" data-t="00:52:18"></a> <a class="yt-timestamp" data-t="00:52:48"></a>.
+
+## Conclusion
+
+AI is fundamentally reshaping email from a static communication tool into a dynamic, intelligent system. By continuously developing and refining features like "Write with AI," "Auto Summarize," and "Instant Reply," companies like Superhuman are not just improving productivity but also paving the way for a future dominated by autonomous AI agents. This evolution promises to transform the way professionals interact with their inboxes and ultimately, how they work, moving towards a more creative and impactful professional life.
