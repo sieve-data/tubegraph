@@ -1,0 +1,41 @@
+---
+title: The development of decentralized trading networks
+videoId: HESE4_WzJrQ
+---
+
+From: [[when-shift-happens]] <br/> 
+
+## The Problem with Centralized Crypto Trading
+
+Despite Bitcoin's original vision as a decentralized peer-to-peer cash payment system, the co-founder of Yellow Network and GSR, Alexis Sirkia, observed that all Bitcoins were primarily traded centrally <a class="yt-timestamp" data-t="00:31:31">[00:31:31]</a> <a class="yt-timestamp" data-t="00:32:01">[00:32:01]</a>. This centralized trading environment persists, with over 95% of crypto trading still occurring on centralized exchanges <a class="yt-timestamp" data-t="00:43:57">[00:43:57]</a>.
+
+A significant issue in the crypto market is the fragmentation of liquidity <a class="yt-timestamp" data-t="00:36:04">[00:36:04]</a>. Unlike traditional financial markets where major trading happens on one primary venue (e.g., NASDAQ for Tesla stock), crypto trading for pairs like Bitcoin/USD is dispersed across numerous exchanges such as Binance, Kraken, Bitfinex, and Coinbase, making it highly inefficient <a class="yt-timestamp" data-t="00:37:14">[00:37:14]</a> <a class="yt-timestamp" data-t="00:37:37">[00:37:37]</a>. Traders accustomed to high-speed, efficient access to liquidity in traditional finance find this fragmentation challenging <a class="yt-timestamp" data-t="00:39:39">[00:39:39]</a>.
+
+Furthermore, early crypto market makers faced challenges such as illiquidity in tokens and difficulty withdrawing funds from banks, which were often "crypto-unfriendly" in 2014-2015 <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a> <a class="yt-timestamp" data-t="00:21:54">[00:21:54]</a>. The profit from market making was often held in volatile tokens, meaning profits were tied to the project's price <a class="yt-timestamp" data-t="00:25:42">[00:25:42]</a> <a class="yt-timestamp" data-t="00:25:51">[00:25:51]</a>.
+
+## Introducing Yellow Network: A Layer 3 Solution
+
+Yellow Network was founded to address these inefficiencies and to build a more decentralized and efficient trading infrastructure <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a> <a class="yt-timestamp" data-t="00:31:12">[00:31:12]</a>. Alexis Sirkia co-founded it after realizing that building value, rather than just making money from money, was his primary motivation <a class="yt-timestamp" data-t="00:29:40">[00:29:40]</a> <a class="yt-timestamp" data-t="00:30:15">[00:30:15]</a>. The project merges the co-founders' expertise in finance and technology, combining exchange software from Openware with market making and trading experience <a class="yt-timestamp" data-t="00:34:00">[00:34:00]</a>.
+
+### Core Principles and Benefits
+
+Yellow Network aims to bring the liquidity of all exchanges into a decentralized network of "yellow nodes" <a class="yt-timestamp" data-t="00:34:15">[00:34:15]</a> <a class="yt-timestamp" data-t="00:38:02">[00:38:02]</a>. The system is designed to provide traders with three key benefits:
+*   **Speed of connectivity:** Yellow Network connects high-speed to all exchanges, overcoming challenges faced by traders in traditional finance trying to deal with complex connectivity to various crypto exchanges <a class="yt-timestamp" data-t="00:39:32">[00:39:32]</a> <a class="yt-timestamp" data-t="00:40:15">[00:40:15]</a>.
+*   **Speed of execution (Ultra High Frequency):** Yellow Network allows traders to compile their trading models in WebAssembly and rent a slot on a "yellow node" (which acts as a matching engine) to execute locally <a class="yt-timestamp" data-t="00:40:27">[00:40:27]</a> <a class="yt-timestamp" data-t="00:40:51">[00:40:51]</a>. This reduces execution times from milliseconds to nanoseconds, a revolutionary change for trading <a class="yt-timestamp" data-t="00:40:52">[00:40:52]</a>.
+*   **Capital efficiency:** By centralizing liquidity, Yellow Network facilitates the concept of a decentralized clearing network <a class="yt-timestamp" data-t="00:41:21">[00:41:21]</a> <a class="yt-timestamp" data-t="00:41:28">[00:41:28]</a>. This allows "clearing brokers" to provide credit lines based on a trader's *net exposure* across different exchanges, rather than their *gross exposure* <a class="yt-timestamp" data-t="00:41:42">[00:41:42]</a>. This means traders can engage in larger trades without increasing risk, a feature common in [[the_concept_of_decentralized_finance_and_its_evolution | traditional finance]] but new to crypto <a class="yt-timestamp" data-t="00:42:09">[00:42:09]</a> <a class="yt-timestamp" data-t="00:42:23">[00:42:23]</a>.
+
+### Addressing Liquidity Fragmentation
+
+Yellow Network aims to [[impact_of_centralized_and_decentralized_exchanges_on_the_crypto_market | connect centralized and decentralized exchanges]] <a class="yt-timestamp" data-t="00:43:28">[00:43:28]</a>. Currently, an aggregator like 1inch only aggregates [[decentralized_exchanges_and_liquidity_protocols | decentralized exchanges on Ethereum]], not centralized exchanges or decentralized exchanges from other networks <a class="yt-timestamp" data-t="00:43:37">[00:43:37]</a>. Yellow Network's approach is broader, rewarding individuals who bring liquidity to the ecosystem and allowing exchanges themselves to contribute liquidity <a class="yt-timestamp" data-t="00:35:40">[00:35:40]</a> <a class="yt-timestamp" data-t="00:35:59">[00:35:59]</a>. Users retain the choice of which order book to trade on, respecting regulatory limitations while offering expanded options <a class="yt-timestamp" data-t="00:38:39">[00:38:39]</a> <a class="yt-timestamp" data-t="00:38:48">[00:38:48]</a>.
+
+### Technical Architecture
+
+Yellow Network is described as a Layer 3 solution because it is built on top of Layer 2 blockchain solutions <a class="yt-timestamp" data-t="00:42:43">[00:42:43]</a>. To achieve ultra-high frequency trading, it utilizes new blockchains and Layer 2s, such as state channels built on Ethereum or Polygon, which speed up transaction processing <a class="yt-timestamp" data-t="00:43:01">[00:43:01]</a> <a class="yt-timestamp" data-t="00:43:10">[00:43:10]</a> <a class="yt-timestamp" data-t="00:43:20">[00:43:20]</a>. This makes the protocol blockchain agnostic while leveraging existing [[technological_innovations_and_challenges_in_decentralized_exchanges | technological innovations]].
+
+## The Vision for Crypto Trading
+
+The banking system, though inefficient, is inherently [[decentralization_vs_centralization_in_crypto_platforms | decentralized]], with thousands of banks collaborating on payment networks like Swift and Ripple <a class="yt-timestamp" data-t="00:32:09">[00:32:09]</a> <a class="yt-timestamp" data-t="00:32:28">[00:32:28]</a>. This provides choice and allows counterparties to be on different banks. Yellow Network seeks to replicate this collaborative, decentralized model for crypto trading <a class="yt-timestamp" data-t="00:33:36">[00:33:36]</a>. The goal is to enable a customer on one exchange, like Binance, to effectively trade against a customer on another, like Bitstamp, Kraken, or Coinbase <a class="yt-timestamp" data-t="00:35:22">[00:35:22]</a>.
+
+> "We had Bitcoin to solve this problem with payments, and now we will have Yellow to solve this problem with trading." <a class="yt-timestamp" data-t="00:45:56">[00:45:56]</a>
+
+While Bitcoin's original purpose was payments, its adoption has shifted towards being a [[decentralized_finance_defi_and_its_potential | store of value]] <a class="yt-timestamp" data-t="00:49:00">[00:49:00]</a>. Trading volumes in the real world are significantly higher than payment volumes (e.g., 4 trillion in payments vs. over 100 trillion in trading volume a few years ago) <a class="yt-timestamp" data-t="00:45:07">[00:45:07]</a> <a class="yt-timestamp" data-t="00:45:26">[00:45:26]</a>. This highlights the greater market potential for a robust trading infrastructure. Yellow Network aims to fulfill this need by providing the essential infrastructure for trading, giving users the choice to trade wherever they prefer <a class="yt-timestamp" data-t="00:44:11">[00:44:11]</a> <a class="yt-timestamp" data-t="00:44:15">[00:44:15]</a>.

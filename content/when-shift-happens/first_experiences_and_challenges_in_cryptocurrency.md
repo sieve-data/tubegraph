@@ -1,0 +1,60 @@
+---
+title: First experiences and challenges in cryptocurrency
+videoId: 27C_RXUmj80
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Navigating the world of cryptocurrency presents unique challenges and learning curves for newcomers and experienced investors alike. The journey often involves high volatility, moral dilemmas, and the need for significant mental fortitude <a class="yt-timestamp" data-t="01:49:09">[01:49:09]</a>.
+
+## The Journey into Crypto
+
+Daryl V, co-founder of Tangent, a prop firm that invests in crypto, shared his personal transition into the industry <a class="yt-timestamp" data-t="01:17:50">[01:17:50]</a>. Initially an investment banker at JP Morgan, he experienced depression due to the nature of his work and desired an exponential compounding of his net worth <a class="yt-timestamp" data-t="01:39:40">[01:39:40]</a>. He discovered crypto shortly after the March 2020 crash, when Bitcoin was around $8,000 and Ethereum (ETH) was $300 <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>.
+
+His self-taught journey began with understanding Bitcoin, then gravitating towards Ethereum, and subsequently "Ethereum killers" like Cardano, which he initially believed was "the future of the space" <a class="yt-timestamp" data-t="01:41:14">[01:41:14]</a>. This early phase involved going "straight to the scams" and being "deep in the shitcoins" during DeFi Summer <a class="yt-timestamp" data-t="01:48:48">[01:48:48]</a>. Daryl describes becoming "exit liquidity" for others as his "trial by fire" in crypto, realizing that he was living for the two hours he spent trading after long workdays <a class="yt-timestamp" data-t="01:50:50">[01:50:50]</a>. This led him to find his calling in trading and eventually join Defiance as an analyst in October 2020 <a class="yt-timestamp" data-t="01:58:36">[01:58:36]</a>.
+
+## Ethical and Psychological [[Challenges and Mistakes in Crypto Investing]]
+
+The crypto space presents unique ethical and psychological challenges, largely due to its unregulated and "gray" nature <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>. Daryl emphasizes that individuals must decide "where is your line and where sort of where is the boundary" <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. For instance, whether a tweet moving a market price constitutes manipulation is considered "fair game" in crypto but not in traditional equities <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>.
+
+### Greed and FOMO
+Many people tend to "stray towards the grayer side of things" due to greed and Fear Of Missing Out (FOMO) <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. The perception that "a lot of people are making a lot of money" can create an echo chamber, leading individuals to make "wrong decision[s] that end up getting you wrecked" <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. Daryl cautions against tactics driven by greediness that deviate from one's process or moral integrity <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>.
+
+His personal moral code is to "try to do things without hurting anyone" <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>. While selling tokens on an open market indirectly affects buyers, he differentiates this from structuring a deal where one actively convinces someone to buy at the top <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>. He sums up his principles as: "don't cheat, don't lie and don't hurt someone specifically" <a class="yt-timestamp" data-t="01:11:25">[01:11:25]</a>.
+
+### The "Already Pumped" Mindset
+A common pitfall is the "already pumped" mindset, where individuals miss opportunities because they believe an asset has already peaked <a class="yt-timestamp" data-t="00:30:03">[00:30:03]</a>. Daryl confessed to initially missing out on Solana's early pump due to focusing on negative fundamentals rather than the price action <a class="yt-timestamp" data-t="00:30:55">[00:30:55]</a>. He learned that "fundamentals doesn't lead price in crypto, price leads fundamentals" <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>. His team later re-evaluated Solana, building a long-term position from $65 to $120 after observing a sentiment shift <a class="yt-timestamp" data-t="00:34:02">[00:34:02]</a>.
+
+### Speculation and Meme Coins
+The rise of meme coins reflects a "financial nihilism" in the market, with people seeking risk-on opportunities even when there's "nothing really interesting or Paradigm breaking in crypto this cycle" <a class="yt-timestamp" data-t="00:43:43">[00:43:43]</a>. These tokens are "valueless... backed by memes and Vibes" <a class="yt-timestamp" data-t="00:44:11">[00:44:11]</a>. While they get people thinking about speculation, the long-term risk is that crypto becomes primarily a "decentralized casino" if no "net new experiences" emerge <a class="yt-timestamp" data-t="00:44:55">[00:44:55]</a>.
+
+## Investment Strategies and Risk Management
+
+Daryl's experience at Defiance taught him the importance of "sizing" – matching conviction with bet size <a class="yt-timestamp" data-t="01:26:29">[01:26:29]</a>. He recalls a Sushi trade where he increased his position from 8% to 50% of his portfolio after it doubled, based on his and a mentor's conviction <a class="yt-timestamp" data-t="02:07:41">[02:07:41]</a>. This decision, unheard of in equities, led to his first million in crypto <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
+
+For smaller portfolios (e.g., $20,000-$100,000), he advises putting up to 50% into high-conviction bets <a class="yt-timestamp" data-t="02:39:59">[02:39:59]</a>. Exceeding 50% can be too painful if the thesis is wrong or an exploit occurs, requiring a 5x return to recover from an 80% loss <a class="yt-timestamp" data-t="02:40:55">[02:40:55]</a>. He also suggests "ecosystem bets," like allocating 50% across various tokens in a hot ecosystem like Base, to diversify within a single view <a class="yt-timestamp" data-t="02:51:59">[02:51:59]</a>.
+
+### Adapting to Market Regimes
+A critical lesson is knowing "what kind of Market you're in" <a class="yt-timestamp" data-t="03:51:51">[03:51:51]</a>. Doubling down on the first mover often outperforms in a full bull market, offering better risk-adjusted returns <a class="yt-timestamp" data-t="03:37:29">[03:37:29]</a>. However, this strategy can "kill you" in choppy markets <a class="yt-timestamp" data-t="03:56:00">[03:56:00]</a>. Significant events, like Solana breaking $40 in October 2023, signaled a return of "proper risk on sentiment" <a class="yt-timestamp" data-t="03:59:11">[03:59:11]</a>. Similarly, Pepe breaking out of its year-long range indicated a "full bull market mode" and a "different Paradigm change" <a class="yt-timestamp" data-t="04:17:11">[04:17:11]</a>.
+
+### Cutting Positions
+Positions should be cut when the original thesis is invalidated <a class="yt-timestamp" data-t="01:05:34">[01:05:34]</a>. For volatile assets without fundamental backing, like meme coins, a discretionary price-based cut (e.g., 25% loss) can be applied <a class="yt-timestamp" data-t="01:06:37">[01:06:37]</a>. However, this can lead to selling the bottom in a volatile market <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>. Daryl admits that when there's "no thesis" for a meme coin, relying solely on price for invalidation makes them "very very difficult to trade" <a class="yt-timestamp" data-t="01:07:47">[01:07:47]</a>.
+
+### Protecting on the Downturn
+A crucial aspect often overlooked is "how much or how well you protect yourself on the downturn" <a class="yt-timestamp" data-t="00:58:26">[00:58:26]</a>. Drawing down only 50% from the top in a bear market is infinitely better than 90% <a class="yt-timestamp" data-t="00:58:36">[00:58:36]</a>. This focuses on capital preservation, ensuring more funds to play with in the next cycle <a class="yt-timestamp" data-t="00:59:38">[00:59:38]</a>. Daryl believes it's "absolutely Bonkers" to expect to only draw down 10% from an all-time high, stating that navigating a cycle with a 30% drawdown is "fantastically well" <a class="yt-timestamp" data-t="01:18:13">[01:18:13]</a>.
+
+## Advice for Newcomers
+
+Daryl offers several pieces of advice for those new to crypto:
+
+*   **Mental Preparation:** Be "mentally prepared for insane levels of volatility" <a class="yt-timestamp" data-t="01:49:48">[01:49:48]</a>. The stress, whether euphoric or due to massive drawdowns, is unlike any other career or profession <a class="yt-timestamp" data-t="01:50:09">[01:50:09]</a>.
+*   **Avoid Fixed Financial Goals:** It's "very very dangerous" to enter crypto with specific targets like making $2 million by year-end to buy a house <a class="yt-timestamp" data-t="01:50:41">[01:50:41]</a>. This fixation can lead to desperation and poor decisions later in the cycle, resulting in losses <a class="yt-timestamp" data-t="01:51:14">[01:51:14]</a>.
+*   **Don't Chase Narratives (Unless Full-Time):** If you're not spending 30 hours a week researching crypto, you'll likely become "exit liquidity" for full-time traders <a class="yt-timestamp" data-t="00:53:47">[00:53:47]</a>. For most, buying and holding assets like Solana is a better strategy than attempting quick rotations and chasing the latest narratives <a class="yt-timestamp" data-t="00:54:05">[00:54:05]</a>.
+*   **Leverage a Team/Community:** Working alone in crypto is "very lonely" and prone to mistakes <a class="yt-timestamp" data-t="01:23:41">[01:23:41]</a>. Having a group of friends or a team allows for coverage of the vast market, sharing alpha, bouncing ideas, and checking biases <a class="yt-timestamp" data-t="01:23:00">[01:23:00]</a>. This mitigates "revenge trading" and prevents compounding bad decisions <a class="yt-timestamp" data-t="01:24:59">[01:24:59]</a>.
+*   **First Cycle for Learning:** The first cycle in crypto is often about "building the right connections" and "learning the right lessons," which may include "blowing up along the way" <a class="yt-timestamp" data-t="01:33:03">[01:33:03]</a>. It's a time to discover one's investment style and process <a class="yt-timestamp" data-t="01:33:54">[01:33:54]</a>. The second cycle is where one truly leverages their edge and makes significant money <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>.
+
+## Market Outlook
+
+Daryl notes that the current cycle is unprecedented, with "no heuristic or historical sort of path to reference" <a class="yt-timestamp" data-t="01:08:27">[01:08:27]</a>. The entry of institutional flow via ETFs is a "real game changer," potentially lengthening cycles or increasing money velocity <a class="yt-timestamp" data-t="01:11:55">[01:11:55]</a>. He anticipates Bitcoin could "breach 100,000" <a class="yt-timestamp" data-t="01:08:46">[01:08:46]</a> and possibly even $200,000-$300,000 this cycle <a class="yt-timestamp" data-t="01:14:23">[01:14:23]</a>, driven by sustained institutional interest and BlackRock's support <a class="yt-timestamp" data-t="01:13:56">[01:13:56]</a>.
+
+Despite the institutional influx, Daryl believes the market will still experience "70% draw Downs on BTC" due to human irrationality and herd mentality <a class="yt-timestamp" data-t="01:21:50">[01:21:50]</a>. He anticipates a "very brutal correction" where Bitcoin could drop from above 100K to 60K-70K, catching many off guard <a class="yt-timestamp" data-t="01:52:06">[01:52:06]</a>. These "treacherous" moves are what make trading market cycles difficult <a class="yt-timestamp" data-t="01:53:10">[01:53:10]</a>. He warns that similar "mega deleveraging events" and company blow-ups are likely to happen again, potentially at a scale of "100 maybe 200 billion dollars loss" <a class="yt-timestamp" data-t="01:27:11">[01:27:11]</a>, requiring potential federal intervention. The source of such leverage, however, is unknown <a class="yt-timestamp" data-t="01:28:14">[01:28:14]</a>.

@@ -1,0 +1,33 @@
+---
+title: Experiences and reflections on extreme fasting
+videoId: HESE4_WzJrQ
+---
+
+From: [[when-shift-happens]] <br/> 
+
+The speaker has engaged in extensive fasting, including a 21-day water-only fast, sometimes supplemented with a small vegetable broth for minerals <a class="yt-timestamp" data-t="00:01:45">[00:01:45]</a>. He initially aimed for 28 days but stopped at 21, planning to attempt a 40-day fast someday <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. His first fast was 10 days <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+
+## Reasons for Fasting
+The primary motivation for his longest fast was severe health issues, specifically kidney problems. His nephrologist diagnosed him with stage three kidney insufficiency, where stage four would require dialysis and stage five a transplant <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>. Rather than taking pills as prescribed, he researched alternatives and initiated the fast, followed by a significant dietary change <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>. This health scare served as an [[personal_growth_through_adversity | awakening call]], leading him to re-evaluate his [[personal_growth_and_recovery_experiences | priorities]] and realize that happiness wasn't solely about making money, but about building value <a class="yt-timestamp" data-t="00:29:35">[00:29:35]</a>.
+
+## The Fasting Experience
+For longer fasts, especially initially, medical supervision is recommended to monitor symptoms like potassium deficiency or cramps <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>. He frequented a fasting clinic called Binger in Marbella, in the south of Spain, which requires a minimum 10-day stay <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>. While his friends found it amusing that he paid not to eat, he emphasized the importance of proper guidance <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
+
+### Phases of Fasting
+The body undergoes distinct phases during a prolonged fast:
+*   **First three days:** Characterized by extreme tiredness as digestion ceases and the body enters ketosis <a class="yt-timestamp" data-t="00:03:34">[00:03:34]</a>.
+*   **Around the seventh day:** Senses become highly enhanced. The individual becomes very alert, perceiving colors more vividly, and experiencing heightened smell, taste, and hearing <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+*   **Around the 14th to 20th day:** The senses intensify further, with reports of seeing "auras" around people and objects, which the speaker attributes to a combination of heightened senses and potential hallucination <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. Despite not eating, energy levels are high, allowing for 3-4 hours of exercise without significant fatigue <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. This is because digestion consumes 40% of the body's energy, and ketosis provides a slow, sustained energy source, comparable to running a marathon on ketones <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Exogenous ketone shots can also accelerate entry into ketosis for athletic events <a class="yt-timestamp" data-t="00:05:17">[00:05:17]</a>.
+*   **From the 20th to 40th day:** The body enters a "power-saving mode," leading to increased relaxation and suitability for meditation, although brain function might not be as sharp without sugar <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>.
+
+It is generally believed that a human can survive four days without water and food, but 21 days without food while still consuming water is considered very dangerous <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. The speaker stopped his 21-day fast when he felt tired and his body indicated it was time to eat <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
+
+## Post-Fasting Lifestyle Changes
+The 21-day fast, undertaken around November 2019 just before COVID-19 <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>, led to significant [[importance_of_nutrition_and_lifestyle_on_mental_clarity | dietary changes]]. He adopted a largely vegetarian diet, increasing vegetable intake <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>. His nephrologist advised against completely cutting out meat due to the risk of high potassium levels and heart attack for individuals with kidney issues, so he now eats a small amount of meat, eggs, or fish about once a week <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
+
+While he no longer undertakes prolonged fasts annually, he practices intermittent fasting, typically from Sunday afternoon until Tuesday morning (36 hours) <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. He chose this schedule because restaurants in Spain often close on Mondays, making it easier to avoid temptation <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>. This aligns with [[biohacking_diets_and_optimizing_health_and_performance | biohacking diets and optimizing health and performance]] by leveraging specific times for fasting.
+
+## Fasting and Mental Health
+The intense volatility and rapid gains/losses in the crypto market severely impacted his [[personal_hardships_and_mental_health | mental health]]. He described it as akin to a gambling addiction on steroids, leading to dopamine receptor dysregulation and widespread depression among young traders <a class="yt-timestamp" data-t="00:27:16">[00:27:16]</a>. His kidney issues, partly attributed to stress, served as a critical reminder of his priorities <a class="yt-timestamp" data-t="00:27:40">[00:27:40]</a>.
+
+A crucial learning from his experience, particularly during the 2017 bull run when he slept only three hours a day for months, was the importance of healthy sleep <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>. He realized that while market downturns are difficult, the exhilaration of an upturn can be even more physically and mentally taxing due to constant adrenaline <a class="yt-timestamp" data-t="00:28:54">[00:28:54]</a>. After experiencing a mental breakdown around December 2017/January 2018, he committed to regular sleep and found himself more efficient and mentally clear <a class="yt-timestamp" data-t="00:29:11">[00:29:11]</a>. This underscored that his priorities were not just about money, but about [[personal_growth_through_adversity | building value]] and focusing on his family <a class="yt-timestamp" data-t="00:29:30">[00:29:30]</a>. This observation contributed to his decision to leave GSR and co-found Yellow Network <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>.

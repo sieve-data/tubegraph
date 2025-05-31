@@ -1,0 +1,34 @@
+---
+title: Transition from Forex to cryptocurrency
+videoId: 1VK3NAdT0mc
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Ben, the co-founder and CEO of Bybit, a leading cryptocurrency exchange, transitioned his focus from the Forex market to the cryptocurrency space, leveraging his previous experience to build a successful new venture <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>.
+
+## The Golden Age of Forex in China
+
+Ben's early career involved working for XM, a Forex company, around 2010 <a class="yt-timestamp" data-t="00:36:05">[00:36:05]</a>. This period, from 2010 to approximately 2016, was considered the "golden age" for Forex in China <a class="yt-timestamp" data-t="00:41:20">[00:41:20]</a>. China's growing middle class was actively seeking [[Investment strategies in cryptocurrency | investment options]] beyond traditional Chinese stocks, which were underperforming, and funds offering limited yields <a class="yt-timestamp" data-t="00:39:06">[00:39:06]</a>.
+
+Forex offered a solution with high leverage, sometimes up to 500 times, for trading currency pairs like Euro/Dollar or Japanese Yen/Dollar, which was very attractive due to their volatility <a class="yt-timestamp" data-t="00:40:28">[00:40:28]</a>. Retail brokers provided access to Forex without the capital outflow limits imposed by Chinese banks, making them highly appealing <a class="yt-timestamp" data-t="00:40:14">[00:40:14]</a>. This led to a proliferation of agents teaching Forex, holding seminars, and offering online courses across all tiers of Chinese cities <a class="yt-timestamp" data-t="00:40:47">[00:40:47]</a>.
+
+## Crackdown and Challenges
+
+However, starting around 2016, the Chinese government began an aggressive crackdown on Forex activities <a class="yt-timestamp" data-t="00:41:26">[00:41:26]</a>. Forex trading, especially with high leverage, was seen as a mechanism for money to leave China and was completely banned <a class="yt-timestamp" data-t="00:49:09">[00:49:09]</a>. Ben experienced significant challenges during this period, including dealing with aggressive client complaints and office disruptions <a class="yt-timestamp" data-t="00:50:14">[00:50:14]</a>. Some clients would resort to extreme measures, like threatening to jump from office windows or locking staff inside the office, to pressure for refunds <a class="yt-timestamp" data-t="00:51:14">[00:51:14]</a>. The industry became very dangerous, with many former colleagues facing imprisonment <a class="yt-timestamp" data-t="00:49:41">[00:49:41]</a>. This environment made it impossible to focus on company growth <a class="yt-timestamp" data-t="00:50:47">[00:50:47]</a>.
+
+## Embracing Cryptocurrency
+
+Around 2016-2017, Ben observed the rising cryptocurrency bull run <a class="yt-timestamp" data-t="00:52:56">[00:52:56]</a>. While he initially considered Bitcoin a scam in 2015 <a class="yt-timestamp" data-t="00:53:13">[00:53:13]</a>, his perception changed when he saw smart individuals entering the crypto space <a class="yt-timestamp" data-t="00:53:20">[00:53:20]</a>. He realized the Forex industry in China was dying and that crypto held far greater potential <a class="yt-timestamp" data-t="00:53:04">[00:53:04]</a>. This conviction led him to quit his Forex job, fully dedicating his energy to studying cryptocurrency from early morning to late at night <a class="yt-timestamp" data-t="00:54:15">[00:54:15]</a>.
+
+His [[First experiences and challenges in cryptocurrency | initial experiences]] included the ICO (Initial Coin Offering) era, where he lost a lot of money to scams, but found the overall decentralized vision inspiring <a class="yt-timestamp" data-t="00:55:13">[00:55:13]</a>. After realizing that many projects were "fake" or unsustainable, he shifted his focus to the practical applications and functional aspects of the industry <a class="yt-timestamp" data-t="00:58:02">[00:58:02]</a>.
+
+## Founding Bybit
+
+Ben identified cryptocurrency exchanges, such as BitMEX and OKX, as the "real application" of the technology <a class="yt-timestamp" data-t="00:58:07">[00:58:07]</a>. He noticed issues with existing platforms, including system overloads during market volatility and non-intuitive user interfaces <a class="yt-timestamp" data-t="00:58:51">[00:58:51]</a>. Drawing on his Forex background, he felt he could build a more advanced and user-friendly exchange <a class="yt-timestamp" data-t="00:59:17">[00:59:17]</a>.
+
+Despite initial struggles to raise money due to the bear market and skepticism from investors who doubted a new company could compete with established players like BitMEX <a class="yt-timestamp" data-t="01:02:18">[01:02:18]</a>, Ben and his team persevered. While Forex and crypto required different resources and technical expertise, the underlying philosophy of user acquisition and firm management remained similar <a class="yt-timestamp" data-t="01:01:00">[01:01:00]</a>. They recognized the transparency of early crypto exchanges, which openly published their formulas and mechanisms, as an educational opportunity to understand and improve upon existing systems <a class="yt-timestamp" data-t="01:03:32">[01:03:32]</a>.
+
+Bybit launched its first product, the BTC USD inverse contract, in late 2018 <a class="yt-timestamp" data-t="01:05:16">[01:05:16]</a>. Initially, they struggled to attract users <a class="yt-timestamp" data-t="01:07:13">[01:07:13]</a>. Ben realized the key to gaining traction was not merely adding more trading pairs but rather empowering influencers and content creators <a class="yt-timestamp" data-t="01:09:50">[01:09:50]</a>.
+
+Bybit revolutionized the industry by developing a comprehensive affiliate portal, a stark contrast to the basic referral programs offered by competitors <a class="yt-timestamp" data-t="01:10:29">[01:10:29]</a>. This portal provided affiliates with transparent data analytics, showing clicks, conversions, deposits, and commissions in real-time <a class="yt-timestamp" data-t="01:10:47">[01:10:47]</a>. This transparency, coupled with tools for campaign generation and community competitions, allowed influencers to understand and optimize their earning potential, fostering an aggressive and successful marketing approach <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>. This strategy immediately drove massive user acquisition, with early affiliates bringing in hundreds and then thousands of new traders, thereby bootstrapping liquidity for the exchange <a class="yt-timestamp" data-t="01:12:32">[01:12:32]</a>. This innovative approach contributed significantly to Bybit's rapid growth into one of the world's largest crypto exchanges <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>.

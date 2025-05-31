@@ -1,0 +1,66 @@
+---
+title: Future of Bitcoin DeFi
+videoId: Iwb9CoCZUkY
+---
+
+From: [[when-shift-happens]] <br/> 
+
+[[The concept of decentralized finance and its evolution | Decentralized finance]] (DeFi) on Bitcoin is emerging as a significant area of growth, aiming to transform Bitcoin from merely "digital gold" into a "programmable collateral" or "smart asset" that underpins a new global financial system <a class="yt-timestamp" data-t="03:00:19">[03:00:19]</a>, <a class="yt-timestamp" data-t="03:24:07">[03:24:07]</a>, <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>. This shift is driven by the need for Bitcoin to gain more utility beyond simply being a store of value <a class="yt-timestamp" data-t="13:00:02">[13:00:02]</a>.
+
+## Why Bitcoin Needs More Utility
+While Bitcoin is widely recognized as "digital gold" and the best store of value, its current model faces long-term challenges if it remains only a passive asset <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a>, <a class="yt-timestamp" data-t="03:49:00">[03:49:00]</a>, <a class="yt-timestamp" data-t="13:10:02">[13:10:02]</a>.
+*   **Miner Incentives and Security:** After successive halving events, the fees miners earn will decrease, potentially threatening Bitcoin's security model unless more transaction fees are generated <a class="yt-timestamp" data-t="13:21:00">[13:21:00]</a>, <a class="yt-timestamp" data-t="14:16:00">[14:16:00]</a>. If miners don't earn enough, the network becomes more susceptible to attacks <a class="yt-timestamp" data-t="14:20:00">[14:20:00]</a>, <a class="yt-timestamp" data-t="14:26:00">[14:26:00]</a>. This necessitates Bitcoin being used more <a class="yt-timestamp" data-t="14:34:00">[14:34:00]</a>.
+*   **Institutional Demand:** On the institutional side, there's growing demand to outperform Bitcoin because simply holding it is no longer enough <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>, <a class="yt-timestamp" data-t="38:58:00">[38:58:00]</a>.
+*   **Macro Trends:** Geopolitical shifts, trade wars, and tariffs are leading more countries to move away from the US dollar, potentially seeking a neutral asset like Bitcoin for settlement <a class="yt-timestamp" data-t="16:33:00">[16:33:00]</a>, <a class="yt-timestamp" data-t="17:31:00">[17:31:00]</a>, <a class="yt-timestamp" data-t="18:36:00">[18:36:00]</a>.
+
+## Enabling Bitcoin DeFi: Key Developments
+Recent technological advancements have paved the way for [[Decentralized finance DeFi and its potential | Bitcoin DeFi]].
+*   **Taproot Upgrade:** Taproot was a Bitcoin protocol improvement that enabled pseudo-smart contract capabilities, allowing for native time-locking of Bitcoin on the Bitcoin protocol itself for staking <a class="yt-timestamp" data-t="22:45:00">[22:45:00]</a>, <a class="yt-timestamp" data-t="23:06:00">[23:06:00]</a>. Before Taproot, Bitcoin was largely non-programmable for complex operations <a class="yt-timestamp" data-t="23:27:00">[23:27:00]</a>.
+*   **Ordinals and Inscriptions:** Post-Taproot, Ordinals demonstrated increased programmability on Bitcoin, enabling Bitcoin NFTs (non-fungible tokens) and inscriptions where art and messages are permanently stored on the Bitcoin blockchain <a class="yt-timestamp" data-t="23:58:00">[23:58:00]</a>, <a class="yt-timestamp" data-t="24:20:00">[24:24:00]</a>, <a class="yt-timestamp" data-t="25:06:00">[25:06:00]</a>. This fostered a more innovation-friendly environment within the Bitcoin space <a class="yt-timestamp" data-t="25:20:00">[25:20:00]</a>, <a class="yt-timestamp" data-t="25:27:00">[25:27:00]</a>.
+*   **Ethereum as a "Testnet":** Ethereum proved the viability and product-market fit for [[The concept of decentralized finance and its evolution | DeFi]], establishing key financial primitives that can now be brought to Bitcoin <a class="yt-timestamp" data-t="21:04:00">[21:04:00]</a>, <a class="yt-timestamp" data-t="22:08:00">[22:08:00]</a>, <a class="yt-timestamp" data-t="22:12:00">[22:12:00]</a>, <a class="yt-timestamp" data-t="22:15:00">[22:15:00]</a>.
+
+## Bitcoin DeFi: Approaches and Opportunities
+Bitcoin DeFi aims to make Bitcoin the largest and best collateral in the DeFi space, enabling borrowing, lending, and other financial activities on top of it <a class="yt-timestamp" data-t="20:28:00">[20:28:00]</a>, <a class="yt-timestamp" data-t="20:34:00">[20:34:00]</a>.
+
+There are two main approaches:
+1.  **Native Building:** Developing DeFi protocols directly on Bitcoin or on a [[Impact of Bitcoin Layer Two Development | Bitcoin Layer 2]] that settles directly on Bitcoin <a class="yt-timestamp" data-t="26:56:00">[26:56:00]</a>, <a class="yt-timestamp" data-t="27:32:00">[27:32:00]</a>. This caters to those who believe Bitcoin will accrue more value and desire immutable and secure transactions settled on the main chain <a class="yt-timestamp" data-t="28:05:00">[28:05:00]</a>, <a class="yt-timestamp" data-t="28:10:00">[28:10:00]</a>.
+2.  **Bridging Bitcoin:** Integrating Bitcoin into existing blue-chip DeFi protocols on other blockchains like Ethereum or Solana, positioning Bitcoin as the premier asset in the broader crypto ecosystem <a class="yt-timestamp" data-t="28:32:00">[28:32:00]</a>, <a class="yt-timestamp" data-t="28:44:00">[28:44:00]</a>.
+
+### Yield Generation on Bitcoin
+Bitcoin DeFi offers ways to generate yield on Bitcoin, moving beyond simple holding <a class="yt-timestamp" data-t="32:33:00">[32:33:00]</a>, <a class="yt-timestamp" data-t="32:40:00">[32:40:00]</a>. While traditional trading strategies exist, [[Decentralized finance DeFi and its potential | DeFi]] provides crypto-native methods.
+
+You can potentially earn four sets of yield on the same Bitcoin simultaneously <a class="yt-timestamp" data-t="33:50:00">[33:50:00]</a>, <a class="yt-timestamp" data-t="34:03:00">[34:03:00]</a>:
+1.  **Liquid Staking Tokens (LSTs):** Projects like Lombard or Solve stake your Bitcoin into Babylon and mint an LST token, allowing you to use your staked Bitcoin further <a class="yt-timestamp" data-t="34:19:00">[34:19:00]</a>, <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>. The yield is typically paid in the LST's token or points <a class="yt-timestamp" data-t="35:32:00">[35:32:00]</a>.
+2.  **Babylon Staking:** Babylon is a leading Bitcoin staking protocol that natively time-locks Bitcoin on the Bitcoin L1 <a class="yt-timestamp" data-t="35:58:00">[35:58:00]</a>, <a class="yt-timestamp" data-t="36:20:00">[36:20:00]</a>. The yield comes from providing Bitcoin's security to other proof-of-stake blockchains like SUI <a class="yt-timestamp" data-t="36:37:00">[36:37:00]</a>, <a class="yt-timestamp" data-t="40:38:00">[40:38:00]</a>.
+3.  **L1/L2 Incentives:** Minting the LST token on different Layer 1 or Layer 2 blockchains that incentivize users to bring Bitcoin to their ecosystems <a class="yt-timestamp" data-t="43:48:00">[43:48:00]</a>.
+4.  **SAT Layer:** Depositing your Bitcoin LSTs into protocols like SAT Layer, which use them to secure applications and infrastructure <a class="yt-timestamp" data-t="44:09:00">[44:09:00]</a>.
+
+### Risks of Yield Generation
+While attractive, engaging in Bitcoin DeFi involves risks, particularly with concepts like rehypothecation and slashing <a class="yt-timestamp" data-t="41:51:00">[41:51:00]</a>, <a class="yt-timestamp" data-t="42:05:00">[42:05:00]</a>.
+*   **Slashing:** A mechanism in staking/restaking protocols to enforce good behavior and punish bad behavior by economically penalizing attackers who try to compromise the network <a class="yt-timestamp" data-t="42:29:00">[42:29:00]</a>.
+*   **Leverage:** The use of rehypothecation can introduce leverage, increasing the risk of liquidation or loss of principal <a class="yt-timestamp" data-t="41:58:00">[41:58:00]</a>. However, the additional yield aims to offset this risk <a class="yt-timestamp" data-t="39:49:00">[39:49:00]</a>.
+
+## SAT Layer's Vision
+SAT Layer aims to build a new financial system on top of Bitcoin that is fairer, more accessible, and more transparent <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>, <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>, <a class="yt-timestamp" data-t="19:53:00">[19:53:00]</a>.
+
+*   **Core Function:** It uses deposited Bitcoin as a pristine form of collateral for various use cases <a class="yt-timestamp" data-t="45:47:00">[45:47:00]</a>, <a class="yt-timestamp" data-t="45:50:00">[45:50:00]</a>.
+*   **Insurance Use Case:** One key application is offering insurance for [[Decentralized finance DeFi and its potential | DeFi]] lending protocols or their users, covering risks like exploits, hacks, or economic attacks <a class="yt-timestamp" data-t="46:02:00">[46:02:00]</a>, <a class="yt-timestamp" data-t="46:11:00">[46:11:00]</a>, <a class="yt-timestamp" data-t="46:17:00">[46:17:00]</a>. The yield for users comes from insurance premiums paid by these protocols or users <a class="yt-timestamp" data-t="47:21:00">[47:21:00]</a>.
+*   **Unlocking Under-collateralized Loans:** This insurance mechanism is a crucial step towards unlocking under-collateralized loans, a "holy grail" for building a more full-fledged [[Transition from traditional finance to decentralized finance | financial system]] in crypto <a class="yt-timestamp" data-t="47:46:00">[47:46:00]</a>, <a class="yt-timestamp" data-t="47:50:00">[47:50:00]</a>.
+*   **Principal and Downside Protection:** By paying a portion of the yield, users can gain principal and downside protection, ensuring they never experience negative returns <a class="yt-timestamp" data-t="48:57:00">[48:57:00]</a>, <a class="yt-timestamp" data-t="49:01:00">[49:01:00]</a>.
+
+## Bitcoin's Future Role: Beyond Payments
+The future of Bitcoin might not be day-to-day payments but rather its role in economic security and high-value settlement <a class="yt-timestamp" data-t="50:47:00">[50:47:00]</a>, <a class="yt-timestamp" data-t="50:57:00">[50:57:00]</a>.
+*   **Economic Settlement:** Bitcoin is increasingly seen as the medium of exchange for settling high-value transactions, especially by nation-states seeking a neutral asset <a class="yt-timestamp" data-t="51:19:00">[51:19:00]</a>, <a class="yt-timestamp" data-t="53:40:00">[53:40:00]</a>.
+*   **Stablecoins on Bitcoin:** There are significant efforts to settle stablecoin transactions on Bitcoin and to build stablecoins backed by Bitcoin <a class="yt-timestamp" data-t="51:52:00">[51:52:00]</a>, <a class="yt-timestamp" data-t="52:07:00">[52:07:00]</a>. These stablecoins would be over-collateralized by Bitcoin to maintain their peg <a class="yt-timestamp" data-t="54:46:00">[54:46:00]</a>.
+*   **Competitive Advantage:** For large transactions, Bitcoin offers maximum security, which is paramount for nation-states and institutions <a class="yt-timestamp" data-t="53:51:00">[53:51:00]</a>.
+
+## [[Future prospects and trends in the crypto market | Predictions for Bitcoin DeFi]]
+*   **Short-term Growth (18 months):** Bitcoin finance is predicted to be one of the biggest, if not *the* biggest, growth areas in the next 18 months <a class="yt-timestamp" data-t="55:30:00">[55:30:00]</a>. This is due to Bitcoin's institutional and nation-state adoption, as these entities will seek financial use cases like borrowing or settling high-value transactions <a class="yt-timestamp" data-t="55:48:00">[55:48:00]</a>, <a class="yt-timestamp" data-t="56:06:00">[56:06:00]</a>.
+*   **Long-term Vision (2030):** For Bitcoin to become the base layer of global finance, current trends need to continue and mature <a class="yt-timestamp" data-t="56:51:00">[56:51:00]</a>. This includes navigating potential "blowups" in the crypto space <a class="yt-timestamp" data-t="56:59:00">[56:59:00]</a> and achieving quantum resistance, which would likely require a hard fork <a class="yt-timestamp" data-t="57:27:00">[57:27:00]</a>.
+
+> [!NOTE] Analogy for Complexity:
+> The complex world of Bitcoin DeFi, with terms like restaking and rehypothecation, can be understood as the "crypto-native version" of traditional structured financial products like derivatives and options <a class="yt-timestamp" data-t="50:20:00">[50:20:00]</a>, <a class="yt-timestamp" data-t="50:28:00">[50:28:00]</a>.
+
+## Key Takeaways for the Future of Bitcoin DeFi
+*   **Bitcoin Yield:** It's now possible to earn meaningful yield on Bitcoin, with mechanisms offering multiple sets of yield simultaneously <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>, <a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a>, <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>, <a class="yt-timestamp" data-t="00:45:00">[00:45:00]</a>, <a class="yt-timestamp" data-t="33:34:00">[33:34:00]</a>.
+*   **Rebuilding Finance:** Bitcoin is positioned as the foundation for rebuilding a better, more accessible, and fairer global [[The concept of money as energy and the future of decentralized finance | financial system]] <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>, <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>, <a class="yt-timestamp" data-t="49:43:00">[49:43:00]</a>.

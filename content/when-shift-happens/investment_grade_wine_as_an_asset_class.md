@@ -1,0 +1,52 @@
+---
+title: Investment grade wine as an asset class
+videoId: BfYD44z6mkQ
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Investment grade wine represents a significant asset class, valued at approximately $250 billion with an annual turnover of $10 billion <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>, <a class="yt-timestamp" data-t="00:46:07">[00:46:07]</a>, <a class="yt-timestamp" data-t="00:46:11">[00:46:11]</a>. Over the last 20 years, this asset class has demonstrated a 1,000% return, outperforming both gold and the S&P 500 with relatively low volatility <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>, <a class="yt-timestamp" data-t="01:09:52">[01:09:52]</a>, <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>, <a class="yt-timestamp" data-t="01:10:08">[01:10:08]</a>.
+
+## Defining Investment Grade Wine
+
+Investment grade wine is defined as any bottle that holds value in the secondary market <a class="yt-timestamp" data-t="01:05:32">[01:05:32]</a>, indicating its scarcity <a class="yt-timestamp" data-t="01:05:46">[01:05:46]</a>. This scarcity is often due to regulatory reasons in regions like Bordeaux, Italy, Germany, and Napa, where new vine planting requires specific approvals <a class="yt-timestamp" data-t="01:06:23">[01:06:23]</a>, <a class="yt-timestamp" data-t="01:06:47">[01:06:47]</a>. Additionally, there are physical limitations on how many vines can be grown in certain *terroirs* to achieve specific quality levels <a class="yt-timestamp" data-t="01:06:32">[01:06:32]</a>.
+
+Approximately 300 small independent wineries globally produce investment grade wine, primarily located in regions such as Burgundy, Bordeaux, Barolo, Napa, Champagne, and the Southern Rhône <a class="yt-timestamp" data-t="01:05:59">[01:05:59]</a>, <a class="yt-timestamp" data-t="01:06:04">[01:06:04]</a>.
+
+## Challenges in the Wine Industry
+
+Despite its impressive returns, the investment grade wine market faces significant challenges:
+
+*   **Lack of Access:** Investing a substantial amount, like $100,000, in investment grade wine can take over a week, unlike stocks, bonds, or gold which can be purchased in minutes <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>, <a class="yt-timestamp" data-t="00:48:39">[00:48:39]</a>, <a class="yt-timestamp" data-t="00:49:18">[00:49:18]</a>. The market is highly opaque, with gatekeepers controlling access <a class="yt-timestamp" data-t="00:49:26">[00:49:26]</a>.
+*   **Opaque Market:** There is no real price transparency or price discovery <a class="yt-timestamp" data-t="00:48:23">[00:48:23]</a>, <a class="yt-timestamp" data-t="01:10:17">[01:10:17]</a>. It is difficult to understand how many bottles of a specific vintage remain on the market <a class="yt-timestamp" data-t="01:10:31">[01:10:31]</a>.
+*   **Dominance of Older Generations:** The asset class is "completely taken over by the older generations" due to historical access <a class="yt-timestamp" data-t="00:45:09">[00:45:09]</a>, <a class="yt-timestamp" data-t="00:46:15">[00:46:15]</a>. Younger generations are often priced out or find the market uninteresting <a class="yt-timestamp" data-t="00:45:45">[00:45:45]</a>, <a class="yt-timestamp" data-t="01:11:56">[01:11:56]</a>.
+*   **Lack of Data and Feedback:** Wine makers have difficulty getting consumer feedback for product development or understanding supply chain dynamics due to the long separation between purchase and consumption (often 10 years) <a class="yt-timestamp" data-t="00:36:13">[00:36:13]</a>, <a class="yt-timestamp" data-t="00:40:50">[00:40:50]</a>. Traditional platforms like Vivino incentivize extreme reviews rather than real feedback, leading wine makers to disengage <a class="yt-timestamp" data-t="00:38:44">[00:38:44]</a>, <a class="yt-timestamp" data-t="00:39:33">[00:39:33]</a>.
+*   **Inefficient Supply Chain:** Without consumption data, wine makers struggle to efficiently distribute their limited product to different global markets <a class="yt-timestamp" data-t="00:42:00">[00:42:00]</a>.
+*   **Customer Acquisition Difficulties:** Luxury wine brands face advertising restrictions (no television, print, or social media ads), making customer acquisition and storytelling challenging <a class="yt-timestamp" data-t="00:44:08">[00:44:08]</a>.
+*   **Gatekeepers:** Entities like the *Place de Bordeaux*, an affiliation of *négociants*, act as primary gatekeepers <a class="yt-timestamp" data-t="00:50:49">[00:50:49]</a>, <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>. While they provide value in matchmaking and distribution, they often take an outsized share of revenue with relatively little risk, often buying and selling on credit <a class="yt-timestamp" data-t="00:52:20">[00:52:20]</a>, <a class="yt-timestamp" data-t="00:53:30">[00:53:30]</a>. This system disincentivizes change <a class="yt-timestamp" data-t="00:54:36">[00:54:36]</a>.
+
+## Divon's Approach to Modernizing Wine Investment
+
+Divon Labs, co-founded by David Garrett, is building an operating system for the wine industry, applying [[blockchain_technology_in_the_wine_industry | blockchain technology]] to solve these problems <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>, <a class="yt-timestamp" data-t="00:29:28">[00:29:28]</a>. Divon, short for decentralized wine, focuses on luxury and investment grade wines <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>.
+
+### Key Innovations:
+
+*   **Digital Deed of Ownership (Digital Cork):** Divon turns a wine bottle from a possession into an asset by creating a digital deed of ownership on the [[blockchain_technology_in_the_wine_industry | blockchain]] <a class="yt-timestamp" data-t="00:37:37">[00:37:37]</a>, <a class="yt-timestamp" data-t="00:46:50">[00:46:50]</a>, <a class="yt-timestamp" data-t="00:49:50">[00:49:50]</a>, <a class="yt-timestamp" data-t="00:58:36">[00:58:36]</a>. This "Digital Product Passport" includes:
+    *   Chain of ownership and custody <a class="yt-timestamp" data-t="00:47:36">[00:47:36]</a>.
+    *   Anti-fraud and anti-counterfeit protections <a class="yt-timestamp" data-t="00:47:41">[00:47:41]</a>.
+    *   Elements of provenance <a class="yt-timestamp" data-t="00:47:49">[00:47:49]</a>.
+    *   The ability to "destroy" the digital asset upon consumption, replacing it with a "tasting token" <a class="yt-timestamp" data-t="00:59:15">[00:59:15]</a>.
+*   **Vcoin:** Launching on Solana, Vcoin is a native token attached to wine bottles <a class="yt-timestamp" data-t="01:01:32">[01:01:32]</a>. When a bottle is opened, the consumer claims Vcoin in exchange for sharing consumption data with the wine maker <a class="yt-timestamp" data-t="01:02:03">[01:02:03]</a>.
+    *   **Benefits for Wine Makers:** Provides invaluable [[the_role_of_data_in_wine_production_and_distribution | consumption data]] (where/when consumed), [[challenges_and_innovations_in_wine_distribution | supply chain data]] for optimization, and customer acquisition information <a class="yt-timestamp" data-t="01:02:30">[01:02:30]</a>.
+    *   **Benefits for Consumers:** Vcoin acts as a loyalty currency, akin to air miles, redeemable for more wine, experiences (winery tastings, harvest experiences, wine maker dinners), or tradable for other luxury goods/services <a class="yt-timestamp" data-t="01:02:47">[01:02:47]</a>. Vcoin will also be tradable on exchanges <a class="yt-timestamp" data-t="01:03:50">[01:03:50]</a>.
+*   **Data-Driven Wine Making:** Early in his wine journey, David Garrett applied a tech-minded approach to collecting data on vineyard conditions (elevation, rootstock, sun angle, row/plant distance) and wine making processes (bricks level, oak type, aging duration) <a class="yt-timestamp" data-t="00:30:05">[00:30:05]</a>, <a class="yt-timestamp" data-t="00:31:02">[00:31:02]</a>. This detailed [[the_role_of_data_in_wine_production_and_distribution | data collection]] de-risked wine making and led to higher "take rates" (vine survival rates) of close to 95%, compared to the normal 70-80% <a class="yt-timestamp" data-t="00:33:16">[00:33:16]</a>, <a class="yt-timestamp" data-t="00:34:01">[00:34:01]</a>.
+
+## Impact on the Investment Landscape
+
+Divon aims to revolutionize investment grade wine by:
+
+*   **Increasing Transparency and Liquidity:** The digital deed of ownership will provide precise data on remaining bottles of any given vintage, allowing for accurate pricing <a class="yt-timestamp" data-t="01:10:36">[01:10:36]</a>. Global price transparency will bring more liquidity into the marketplace <a class="yt-timestamp" data-t="01:10:53">[01:10:53]</a>.
+*   **Expanding Access to New Investors:** By creating a more transparent and accessible market, Divon seeks to attract younger investors who are currently priced out of real estate or feel the stock market is "rigged" by big players <a class="yt-timestamp" data-t="01:11:14">[01:11:14]</a>, <a class="yt-timestamp" data-t="01:11:51">[01:11:51]</a>. This creates a "Level Playing Field" where smaller investors can gain asymmetrical information and engage with an experiential asset <a class="yt-timestamp" data-t="01:12:17">[01:12:17]</a>, <a class="yt-timestamp" data-t="01:13:11">[01:13:11]</a>.
+*   **Addressing [[cultural_and_generational_shifts_in_wine_consumption | Cultural and Generational Shifts]]:** Younger consumers expect transparency and experiences over possessions <a class="yt-timestamp" data-t="00:56:47">[00:56:47]</a>, <a class="yt-timestamp" data-t="00:57:01">[00:57:01]</a>. Divon is building the "rails" to connect wine makers and wine lovers, meeting these evolving expectations <a class="yt-timestamp" data-t="00:57:41">[00:57:41]</a>.
+
+The application of [[web3_and_the_tokenization_of_wine_industry | Web3]] is seen as the next level of adoption in crypto, abstracting complex technical details (wallets, seed phrases, NFTs) so that everyday consumers can participate in functional projects, similar to how MP3s became seamlessly integrated into music streaming services like Spotify <a class="yt-timestamp" data-t="01:14:01">[01:14:01]</a>, <a class="yt-timestamp" data-t="01:15:36">[01:15:36]</a>, <a class="yt-timestamp" data-t="01:16:36">[01:16:36]</a>. This long-term, generational approach is crucial for fundamental industry change <a class="yt-timestamp" data-t="01:18:36">[01:18:36]</a>, <a class="yt-timestamp" data-t="01:19:02">[01:19:02]</a>.

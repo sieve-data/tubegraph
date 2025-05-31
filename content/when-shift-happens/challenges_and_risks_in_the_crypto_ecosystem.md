@@ -1,0 +1,43 @@
+---
+title: Challenges and risks in the crypto ecosystem
+videoId: -KhL7xB-Gow
+---
+
+From: [[when-shift-happens]] <br/> 
+
+## Investing in Crypto: Ugly Truths and Challenges
+Making it in [[the_challenges_and_rewards_of_crypto_investing | crypto investing]] requires understanding several "ugly truths" that many prefer not to acknowledge <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>, <a class="yt-timestamp" data-t="00:40:43">[00:40:43]</a>.
+
+### Limited Proven Use Cases
+One significant challenge is the limited number of actual, compelling use cases for crypto today <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>. The primary areas where crypto has demonstrated utility are:
+*   Payments <a class="yt-timestamp" data-t="00:41:13">[00:41:13]</a>
+*   Trading <a class="yt-timestamp" data-t="00:41:15">[00:41:15]</a>
+*   Capital formation <a class="yt-timestamp" data-t="00:41:16">[00:41:16]</a>
+
+While there has been considerable excitement around other applications, data currently suggests they are "just not working" <a class="yt-timestamp" data-t="00:41:17">[00:41:17]</a>. Investors should prioritize projects with a clear thesis and demonstrable product-market fit, rather than focusing on "pie in the sky" ideas or investing based on "vibes" <a class="yt-timestamp" data-t="00:41:31">[00:41:31]</a>.
+
+### Investor Behavior and Mindset
+*   **Impatience** The hardest part of investing is "waiting for your thesis to play out" <a class="yt-timestamp" data-t="00:28:45">[00:28:45]</a>. Many investors lack the patience required for compounding returns, needing both deep conviction and patience to achieve significant outcomes <a class="yt-timestamp" data-t="00:29:06">[00:29:06]</a>, <a class="yt-timestamp" data-t="00:29:17">[00:29:17]</a>.
+*   **Fear of Missing Out (FOMO)** It is common for investors to feel the need to be "in everything that makes money" <a class="yt-timestamp" data-t="00:32:33">[00:32:33]</a>. However, focusing on areas of intellectual edge and not needing to front-run every trend is crucial <a class="yt-timestamp" data-t="00:33:39">[00:33:39]</a>. For new investors, having "one, two, or three good bets" per cycle is often sufficient, as spreading too thin can lead to missing everything <a class="yt-timestamp" data-t="00:34:00">[00:34:00]</a>.
+*   **Self-Deception** People often lie to themselves, especially in investing <a class="yt-timestamp" data-t="00:34:22">[00:34:22]</a>. Recognizing when a thesis is invalidated and being "brutally honest" with oneself is essential for avoiding prolonged waiting <a class="yt-timestamp" data-t="00:34:17">[00:34:17]</a>, <a class="yt-timestamp" data-t="00:34:28">[00:34:28]</a>.
+*   **Analysis Paralysis** While thorough analysis is important, overthinking can lead to "paralysis by analysis" <a class="yt-timestamp" data-t="00:42:15">[00:42:15]</a>. A useful tool to combat this is to "dumb it down" and seek the simplest explanation <a class="yt-timestamp" data-t="00:42:59">[00:42:59]</a>.
+
+### Systemic and Foundational Challenges
+*   **Collapsing Margins** The open-source and permissionless nature of crypto can lead to "collapsing margins" across various businesses <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>. This makes it challenging for firms to extract significant rents, which can be seen as a risk to traditional profit models <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>.
+*   **Lack of Intellectual Honesty in Project Development** A common issue in the crypto ecosystem is founders not being intellectually honest about the trade-offs and downsides of their approaches <a class="yt-timestamp" data-t="00:45:43">[00:45:43]</a>, <a class="yt-timestamp" data-t="00:46:04">[00:46:04]</a>. Projects often present themselves as universally superior without acknowledging incremental costs or reasons why existing systems function as they do <a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>. Statements like "I'm going to bring on a billion users" are often mere "platitudes" rather than realistic assessments <a class="yt-timestamp" data-t="00:47:11">[00:47:11]</a>.
+*   **Technological Breakthroughs** The rapid pace of innovation means that unforeseen technological breakthroughs, such as in zero-knowledge technology, could entirely change the landscape and derail current strategies <a class="yt-timestamp" data-t="00:51:46">[00:51:46]</a>.
+*   **Regulatory Regime** Regulatory uncertainty and unfriendly regimes pose a significant risk, especially for projects founded and based in countries like the US <a class="yt-timestamp" data-t="00:52:27">[00:52:27]</a>.
+*   **Market Volatility and Crashes** The crypto market is subject to extreme volatility <a class="yt-timestamp" data-t="00:54:53">[00:54:53]</a>. Events like the FTX collapse or the "Covid crash" in March 2020 highlight the risk of sudden and severe downturns, where market structure can break and recovery is not guaranteed <a class="yt-timestamp" data-t="00:53:52">[00:53:52]</a>, <a class="yt-timestamp" data-t="01:02:58">[01:02:58]</a>. The experience of the FTX collapse was described as "awful" and "immensely stupid" <a class="yt-timestamp" data-t="00:59:02">[00:59:02]</a>.
+*   **Psychological Toll of Volatility** Managing significant paper gains and losses, which can occur rapidly, is a continuous [[challenges_and_risks_in_the_crypto_industry | challenge]] <a class="yt-timestamp" data-t="01:05:53">[01:05:53]</a>. It's crucial to understand that things are "never as good as they seem, and they're never as bad as they seem" <a class="yt-timestamp" data-t="01:06:24">[01:06:24]</a>. Avoiding compulsive price checking, especially when not intending to trade, helps manage the psychological impact and prevent dopamine-driven behavior <a class="yt-timestamp" data-t="01:08:02">[01:08:02]</a>.
+*   **Attacks and Haters** Being in the crypto space, especially as a public figure or successful entity, attracts "haters" and FUD (Fear, Uncertainty, and Doubt) <a class="yt-timestamp" data-t="00:54:02">[00:54:02]</a>. Developing an indifference to external criticism is a common coping mechanism <a class="yt-timestamp" data-t="00:54:17">[00:54:17]</a>.
+*   **Protocol Hacks** Specific to the ecosystem, protocols can be hacked, leading to significant financial losses and emotional distress for the teams involved <a class="yt-timestamp" data-t="01:11:26">[01:11:26]</a>. Founders who can recover from such setbacks demonstrate resilience, a key trait for success in the space <a class="yt-timestamp" data-t="01:11:44">[01:11:44]</a>.
+
+## How to Navigate Challenges
+*   **Patience and Conviction:** These are necessary for delivering "outside returns" <a class="yt-timestamp" data-t="00:29:30">[00:29:30]</a>.
+*   **Learning from Mistakes:** Developing patience comes from making mistakes due to impatience and then honestly analyzing them <a class="yt-timestamp" data-t="00:29:46">[00:29:46]</a>.
+*   **Avoid Forced Trading:** It is advisable to avoid making major portfolio changes during periods of extreme volatility; "just pause" <a class="yt-timestamp" data-t="01:04:07">[01:04:07]</a>. The goal is never to be a forced buyer or seller but to "always trade on your own terms" <a class="yt-timestamp" data-t="01:04:39">[01:04:39]</a>.
+*   **Reframing Adversity:** Viewing difficult periods as necessary "adversity" in one's "hero's journey" can help in coping <a class="yt-timestamp" data-t="00:59:31">[00:59:31]</a>. The "highs only feel good if the lows feel bad," so bad experiences can lead to greater appreciation for positive ones <a class="yt-timestamp" data-t="00:59:44">[00:59:44]</a>.
+*   **Diverse Identities:** Cultivating a diversity of identities (e.g., professional, family, hobbies) can help manage stress and anxiety by providing alternative sources of fulfillment when one area faces [[cryptocurrency_and_blockchain_ecosystem_challenges | challenges]] <a class="yt-timestamp" data-t="00:37:54">[00:37:54]</a>.
+*   **Intellectual Honesty in Self-Assessment:** Being honest about one's own limitations and potential for error is crucial <a class="yt-timestamp" data-t="00:47:55">[00:47:55]</a>.
+*   **Focus on Core Strengths:** Identify where one has an "edge" and focus on that rather than trying to participate in every trend <a class="yt-timestamp" data-t="00:33:39">[00:33:39]</a>.
+*   **Transparency from Founders:** Investors should seek out founders who can articulate the trade-offs and potential downsides of their projects, demonstrating intellectual honesty <a class="yt-timestamp" data-t="00:46:04">[00:46:04]</a>.

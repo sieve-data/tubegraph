@@ -1,0 +1,32 @@
+---
+title: Innovations in digital payments and cryptocurrency
+videoId: q-VPEE1ngeg
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Nicholas Carey, the visionary behind [[blockchain_and_crypto_innovation | Blockchain.com]], a 14 billion dollar company, has been instrumental in revolutionizing digital payments and shaping the future of decentralized finance <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. A core, perhaps controversial, idea is the belief that "we can build a better form of money" <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+
+## Evolution of Cryptocurrency Infrastructure
+
+The speaker learned about [[evolution_of_cryptocurrency_infrastructure | Bitcoin]] in 2011, drawn to the intersection of money and politics and the prospect of building a better financial future <a class="yt-timestamp" data-t="00:04:36">[00:04:36]</a>. This interest was fueled by the unresolved issues of the 2008 financial crisis, particularly concerns about poorly aligned incentives and accountability <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. Satoshi's emergence at that moment provided an alternative that has since been developed by thousands globally <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>.
+
+In 2013, meaningful work began on [[blockchain_and_crypto_innovation | Blockchain.com]] <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. Early innovations included building the first block explorer, which allowed users to monitor activity on the [[evolution_of_cryptocurrency_infrastructure | Bitcoin]] network through charts, indicating early adoption of the technology <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. The company's belief was that "wallets were going to make a break to sort of [[evolution_of_cryptocurrency_infrastructure | crypto]] space" <a class="yt-timestamp" data-t="00:11:23">[00:11:23]</a>, leading them to develop an easy-to-use non-custodial and mobile wallet <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>.
+
+## Challenges and Resilience in the Crypto Space
+
+Starting a company in the nascent [[insights_on_crypto_and_technological_advances | crypto]] trend of the early 2010s was particularly complicated <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. Early challenges included Apple's initial policy of removing [[evolution_of_cryptocurrency_infrastructure | crypto]] apps from its App Store, a significant hurdle for [[blockchain_and_crypto_innovation | Blockchain.com]] and other companies needing access to grow their audience <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>. While Apple eventually reversed this decision, it was a "very frightening moment for the company" <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>.
+
+The [[evolution_of_cryptocurrency_infrastructure | crypto]] industry is characterized by significant "bull runs and then bear markets" <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>. Over ten years, the speaker has witnessed more than seven instances where [[insights_on_crypto_and_technological_advances | crypto]] prices dropped by over 80% <a class="yt-timestamp" data-t="00:14:37">[00:14:37]</a>. These periods of "contraction" happen faster in [[insights_on_crypto_and_technological_advances | crypto]] than in the broader macro economy <a class="yt-timestamp" data-t="00:23:48">[00:23:48]</a>.
+
+## The Vision for a Better Financial Future
+
+[[blockchain_and_crypto_innovation | Blockchain.com]] sees a "huge opportunity" for [[evolution_of_cryptocurrency_infrastructure | cryptocurrency]] to improve the financial system <a class="yt-timestamp" data-t="00:18:01">[00:18:01]</a>. As one of the world's first wallets, it has over 86 million users and has introduced people in over 200 countries to [[insights_on_crypto_and_technological_advances | crypto]] <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>. The mission is to increase global [[insights_on_crypto_and_technological_advances | crypto]] ownership from hundreds of millions to billions <a class="yt-timestamp" data-t="00:18:25">[00:18:25]</a>.
+
+To achieve this, [[blockchain_and_crypto_innovation | Blockchain.com]] invests in people and organizational capacity to improve products and enable users to "send, receive, secure, and trade digital forms of wealth" <a class="yt-timestamp" data-t="00:18:39">[00:18:39]</a>. The ultimate goal is to "build a more fair and equitable Financial system using software" <a class="yt-timestamp" data-t="00:18:58">[00:18:58]</a>, a vision expected to take another five to ten years <a class="yt-timestamp" data-t="00:19:04">[00:19:04]</a>.
+
+## Philosophical Underpinnings of Cryptocurrency
+
+The speaker's most controversial belief is that "we can build a better form of money" <a class="yt-timestamp" data-t="00:47:48">[00:47:48]</a>. Money, a social construct predating written language, comprises "systems of norms or technologies that we use to facilitate the trading of wealth" <a class="yt-timestamp" data-t="00:48:15">[00:48:15]</a>. The aim is to invent a form of money "fit to purpose for the era and the technology of the internet" <a class="yt-timestamp" data-t="00:48:28">[00:48:28]</a>, enabling global instant sending, receiving, securing, trading, and exchanging of wealth <a class="yt-timestamp" data-t="00:48:35">[00:48:35]</a>.
+
+[[evolution_of_cryptocurrency_infrastructure | Bitcoin]], Ethereum, and other [[evolution_of_cryptocurrency_infrastructure | crypto]] protocols are seen as challenging mainstream consensus on what money is <a class="yt-timestamp" data-t="00:49:18">[00:49:18]</a>. These offer an alternative that is more efficient, relies on sound principles, treats everyone equally regardless of birth circumstances, and possesses "humanistic traits" that make it a better way to exchange wealth <a class="yt-timestamp" data-t="00:49:31">[00:49:31]</a>. Despite growing acceptance, this idea is still controversial in academic and policy circles, especially concerning national currencies <a class="yt-timestamp" data-t="00:48:46">[00:48:46]</a>. Continued education on financial literacy and sovereignty is needed to demonstrate why traditional financial systems and currency designs "are no longer the best technology" for the future <a class="yt-timestamp" data-t="00:50:02">[00:50:02]</a>.

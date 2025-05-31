@@ -1,0 +1,40 @@
+---
+title: Role of Thorchain and decentralized finance
+videoId: xEP9JcYzx-M
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Thorchain is a [[the_development_of_decentralized_trading_networks | decentralized exchange]] founded by engineer and investor JP Thor <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. It operates as the largest liquidity protocol globally, with a market value exceeding $2 billion <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>. JP Thor began his career in the Air Force, flying fighters and bombers around the world, before engaging with Bitcoin in 2013 <a class="yt-timestamp" data-t="00:22:00">[00:22:00]</a>.
+
+## Origin and Philosophy
+
+JP Thor's journey into crypto began in 2013, when he invested in Bitcoin at around $100 <a class="yt-timestamp" data-t="00:27:07">[00:27:07]</a>. He recognized its potential as a new [[crypto_and_blockchains_role_in_global_finance | financial system]] that eliminated trust and allowed open participation <a class="yt-timestamp" data-t="00:24:42">[00:24:42]</a>. His decision to declare "war on centralized exchanges" stemmed from personal experiences with platforms like Mt. Gox and BTC.com, where he nearly lost assets due to hacks and FBI shutdowns <a class="yt-timestamp" data-t="00:29:14">[00:29:14]</a>. He believed it was illogical to use centralized databases for trading decentralized currencies <a class="yt-timestamp" data-t="00:29:26">[00:29:26]</a>.
+
+The core motivation for Thorchain was to build a solution for [[the_development_of_decentralized_trading_networks | decentralized liquidity]] that correctly addressed the existing problems <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>. Traditional methods like Atomic Swaps were deemed too complex due to their multi-step user experience <a class="yt-timestamp" data-t="00:30:50">[00:30:50]</a>. Thorchain aimed to create an on-chain liquidity pool where users could easily swap one asset for another, akin to a "fruit basket" system that operates without insolvency at any price curve <a class="yt-timestamp" data-t="00:31:23">[00:31:23]</a>.
+
+## Memes and Narrative in Crypto
+
+Thorchain's success in the 2021 crypto cycle was significantly attributed to the strategic use of memes and narratives <a class="yt-timestamp" data-t="00:32:38">[00:32:38]</a>. JP Thor built Thorchain under an anonymous identity, "Lena," to ensure the project could be truly decentralized and handed over to the community, rather than being perpetually tied to a public figure <a class="yt-timestamp" data-t="00:32:44">[00:32:44]</a>.
+
+The project consistently incorporated memes, particularly those rooted in Norse mythology, to drive its narrative <a class="yt-timestamp" data-t="00:33:52">[00:33:52]</a>. This approach leveraged concepts like "3x TVL," "liquidity black hole," and popular culture references like Marvel's Thor to create self-reinforcing, memorable taglines <a class="yt-timestamp" data-t="00:34:06">[00:34:06]</a>. The belief is that "memes drive the narrative, and the narrative drives the price" <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+
+> "Every token is a meme coin; they're just high-velocity memes that extract value from a community" <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>.
+
+This strategy helped Thorchain achieve a Total Value Locked (TVL) of approximately $8 billion, making it a top-three [[decentralized_finance_defi_and_its_potential | DeFi]] project <a class="yt-timestamp" data-t="00:34:20">[00:34:20]</a>. The brand was designed to be "bipolar" — evoking strong love or hate, but never lukewarmness, to foster a "cult" around the project <a class="yt-timestamp" data-t="00:38:32">[00:38:32]</a>.
+
+## Decentralization and Security
+
+Thorchain launched with four nodes and has since grown to a stable 100-104 nodes, demonstrating its commitment to [[the_role_of_decentralization_in_blockchain_security | decentralization]] <a class="yt-timestamp" data-t="00:42:46">[00:42:46]</a>. JP Thor states that he can no longer unilaterally control the chain, proving its decentralized nature <a class="yt-timestamp" data-t="00:43:11">[00:43:11]</a>.
+
+Addressing the challenge of self-custody, Thorchain's Multi-Party Computation (MPC) protocol <a class="yt-timestamp" data-t="01:20:11">[01:20:11]</a> splits key shares among 100 nodes. This technology, which has survived the test of time, was leveraged to build a multi-factor wallet called Voltis <a class="yt-timestamp" data-t="01:20:32">[01:20:32]</a>. Voltis aims to provide a safe, two-factor (or three-factor) authentication experience for crypto wallets, akin to Gmail or bank accounts, to protect users from hacks and key compromises <a class="yt-timestamp" data-t="01:24:19">[01:24:19]</a>. This contrasts with single-signature wallets that are vulnerable to attacks <a class="yt-timestamp" data-t="01:25:19">[01:25:19]</a>. Naval Ravikant reportedly calls Voltis the "final evolution of wallet" <a class="yt-timestamp" data-t="01:25:39">[01:25:39]</a>.
+
+## Challenges and Future of Decentralized Finance
+
+JP Thor identifies several major problems in the [[the_concept_of_decentralized_finance_and_its_evolution | decentralized finance]] industry:
+*   **Complexity and User Adoption:** DeFi is currently too complex for mainstream adoption. While Binance has 200 million users, and MetaMask has 20 million, DeFi only has about 2 million, indicating a 100x difference in user base <a class="yt-timestamp" data-t="01:19:44">[01:19:44]</a>. A large, user-friendly brand is needed to abstract DeFi and bring in 100 million users safely on-chain <a class="yt-timestamp" data-t="01:19:53">[01:19:53]</a>.
+*   **Lack of Trust in Self-Custody:** Users are hesitant about self-custody due to the risks associated with single-signature wallets <a class="yt-timestamp" data-t="01:20:05">[01:20:05]</a>. Voltis is designed to solve this by providing multi-factor security for on-chain assets <a class="yt-timestamp" data-t="01:20:32">[01:20:32]</a>.
+*   **Narrative Problem:** The current attention in crypto is often on meme coins and centralized finance (CeFi), which JP Thor "despises" <a class="yt-timestamp" data-t="01:20:58">[01:20:58]</a>. He argues that many projects promising [[decentralization_vs_centralization_in_crypto_platforms | decentralization]] are still centralized, often relying on multisig, which was a concern even in 2018 <a class="yt-timestamp" data-t="01:21:10">[01:21:10]</a>.
+*   **Lack of Charismatic Leaders:** The space needs leaders willing to "get in the arena" and challenge existing ideas to rekindle the [[decentralized_finance_defi_and_its_potential | DeFi]] flame <a class="yt-timestamp" data-t="01:22:47">[01:22:47]</a>.
+
+To address these challenges, JP Thor is launching "Project Chaos," aiming to "attack all of DeFi via vampire attacks" <a class="yt-timestamp" data-t="01:22:11">[01:22:11]</a>. This initiative seeks to commoditize vampire attacks, engage in "protocol versus protocol wars," and utilize governance and liquidity attacks to make DeFi "fun again" and bring attention back to the sector <a class="yt-timestamp" data-t="01:22:20">[01:22:20]</a>. Project Chaos is described as a high-stakes endeavor, with plans to raise $20-30 million to implement these strategies <a class="yt-timestamp" data-t="01:22:16">[01:22:16]</a>. This approach underscores the belief that generating "money games and attention" is crucial for driving the next phase of [[transition_from_traditional_finance_to_decentralized_finance | decentralized finance]] <a class="yt-timestamp" data-t="01:22:40">[01:22:40]</a>. The podcast itself was supported by [[jupiters_impact_on_decentralized_finance_and_cryptocurrency_adoption | Jupiter]], a major decentralized exchange on Solana <a class="yt-timestamp" data-t="01:48:48">[01:48:48]</a>.

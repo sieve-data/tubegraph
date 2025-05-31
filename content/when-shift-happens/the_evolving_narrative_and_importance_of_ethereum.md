@@ -1,0 +1,25 @@
+---
+title: The evolving narrative and importance of Ethereum
+videoId: E1O0H_HOfRI
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Ethereum (ETH) has recently been a challenging asset to hold, experiencing significant downturns in both USD and BTC terms in 2023 <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. This performance has led to questions about the future of assets priced in ETH, such as NFTs <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>.
+
+## ETH's Performance and Value Proposition
+Despite its recent struggles, there's a perspective that if ETH recovers, even by a multiple like 2x-5x, art (NFTs) bought at a low ETH price could yield significant returns <a class="yt-timestamp" data-t="00:00:41">[00:00:41]</a>. The recent fall in ETH's dollar terms has even prompted an increase in dollar-based NFT sales <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+
+The broader concern, however, revolves around whether [[current_and_future_valuation_of_ethereum | ETH is "cooked forever"]] <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. While some narratives suggest that [[ethereum_development_and_challenges | Ethereum's development]] and [[the_evolution_and_future_of_ethereum_layer_2_solutions | layer one and layer two solutions]] have "messed up" <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>, leading platforms like Solana to potentially take over <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>, a counter-narrative points to its resilience.
+
+## Ethereum's Institutional Stickiness
+A key argument for Ethereum's long-term viability is its established position, akin to Microsoft in the enterprise software world <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. The [[the_role_of_the_ethereum_virtual_machine_evm_in_blockchain_development | Ethereum Virtual Machine (EVM)]] is widely used by major financial institutions and corporations <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>. The nature of enterprise sales makes it incredibly difficult to remove an established system once adopted, much like banks still use COBOL because it works and changing it poses significant risk <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>.
+
+Ethereum has passed its "Lindy effect," proving its functionality, especially for [[ethereums_role_and_infrastructure_in_financial_markets | financial markets]] <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. Institutions like Goldman Sachs and JP Morgan are highly unlikely to build their core infrastructure on newer platforms like Solana <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>. Instead, they are likely to build their own [[the_evolution_and_future_of_ethereum_layer_2_solutions | layer two solutions]] on Ethereum, leveraging its high security of the layer one chain when needed <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a> <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. Major players like Goldman Sachs have been involved in the Ethereum space since 2015 <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. Furthermore, ETH offers a yield, making it an appealing product for financial markets <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>.
+
+Currently, [[ethereums_performance_challenges_and_limitations | Ethereum may have overbuilt capacity]] relative to immediate demand <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>, but this excess capacity positions it for future growth, especially if the finance system fully adopts it <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+
+## The Evolving Narrative and Future Importance
+Similar to how Bitcoin's narrative shifted from payments to "store of value" after initial attempts with Lightning Network failed <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>, Ethereum is also undergoing a narrative redefinition <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>. It needs a clearly defined and enduring narrative <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. The emerging narrative for Ethereum appears to be its return to the "world computer" concept <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>, serving as the platform for tokenization <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+
+This evolution is a common phase for major assets in [[the_evolving_landscape_of_web3_and_blockchain_technologies | the blockchain space]], where initial ideas are questioned and then a core, lasting narrative emerges <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>. The long-term outlook suggests that Ethereum will be incredibly important over the next five years, provided no fundamental errors are made <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>. It is expected to outperform Bitcoin in the near future <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. Ultimately, Ethereum is re-establishing its identity as a decentralized compute platform operating at a global scale <a class="yt-timestamp" data-t="00:05:35">[00:05:35]</a>.

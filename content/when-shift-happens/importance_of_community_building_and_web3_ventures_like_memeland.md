@@ -1,0 +1,44 @@
+---
+title: Importance of community building and Web3 ventures like Memeland
+videoId: aGJzIpdxVus
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Ray Chan, co-founder and CEO of 9GAG and Memeland, highlights the critical role of community in the success of Web3 ventures, drawing parallels from his 16 years of experience building 9GAG, the world's largest memes platform <a class="yt-timestamp" data-t="00:18:29">[00:18:29]</a>. He emphasizes that for Web3 technology to achieve mass adoption, it must be made to work for the people <a class="yt-timestamp" data-t="01:03:26">[01:03:26]</a>.
+
+## Memeland: A Community Company Bringing Web3 to the People
+Memeland is described as an NFT ecosystem that combines meme culture with the power of NFTs <a class="yt-timestamp" data-t="00:22:00">[00:22:00]</a>. Ray Chan envisions Memeland becoming the company that [[the_evolving_landscape_of_web3_and_blockchain_technologies | brings Web3 to the people]] <a class="yt-timestamp" data-t="00:51:00">[00:51:00]</a>. This vision stems from his experience with 9GAG, which focused on bringing content to users where they already were, rather than forcing them onto a new platform <a class="yt-timestamp" data-t="01:01:35">[01:01:35]</a>.
+
+Instead of "onboarding" people to Web3, which implies a steep learning curve, the goal is to integrate Web3 so seamlessly that it "works for the people" without requiring complex understanding of concepts like seed phrases or ledger use <a class="yt-timestamp" data-t="01:03:11">[01:03:11]</a>. Memeland aims to simplify Web3, making it interesting enough for people to try <a class="yt-timestamp" data-t="01:01:59">[01:01:59]</a>.
+
+## The Power of Community in Web3
+Chan defines Memeland as a "community company" where people can have fun and make money together <a class="yt-timestamp" data-t="00:58:03">[00:58:03]</a>. He believes that [[the_role_of_community_in_crypto_businesses | Web3]] offers unique incentives that can mobilize large groups of people to achieve shared goals <a class="yt-timestamp" data-t="00:58:31">[00:58:31]</a>.
+
+Key aspects of [[role_of_community_in_the_success_of_web3_projects | community building in Web3]] include:
+*   **Aligned Incentives (AI)**: Beyond Artificial Intelligence, Ray identifies "Aligned Incentive" (AI) as a crucial concept in Web3 <a class="yt-timestamp" data-t="00:59:25">[00:59:25]</a>. In Web2, users are merely data providers, but in Web3, they can be part of the project team, with their interests aligned through tokens or other mechanisms <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. This allows even small individuals to have a better chance of financial return if they work hard <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>.
+*   **Direct Access to Founders**: A significant advantage of NFTs and Web3 communities is the ability to instantly connect with founders and engage directly, which is rare in traditional companies like Amazon or Apple <a class="yt-timestamp" data-t="01:06:41">[01:06:41]</a>. This direct interaction facilitates faster learning and relationship building <a class="yt-timestamp" data-t="01:07:18">[01:07:18]</a>. Checking how often a founder talks in their Discord is a key signal of a project's health <a class="yt-timestamp" data-t="01:08:08">[01:08:08]</a>.
+*   **Shared Identity and Language**: Memes, at their core, allow people to resonate and share feelings without extensive communication, forming an "insider group" <a class="yt-timestamp" data-t="01:06:34">[01:06:34]</a>. This concept translates directly into [[building_a_successful_crypto_community_and_marketing_strategy | Web3 communities]], where shared jargon and cultural elements foster strong bonds <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>.
+
+## Strategies for Community Engagement
+Memeland leverages its understanding of community from 9GAG, where content is user-generated <a class="yt-timestamp" data-t="00:58:25">[00:58:25]</a>. Their strategy includes:
+*   **NFTs for Community Building**: NFTs are excellent for building communities <a class="yt-timestamp" data-t="01:10:42">[01:10:42]</a>. Memeland has three NFT collections that have helped build a strong community <a class="yt-timestamp" data-t="01:10:54">[01:10:54]</a>.
+*   **Tokens for Value Distribution**: Tokens are effective for distributing value within the community, as seen with their token, Memecoin <a class="yt-timestamp" data-t="01:10:44">[01:10:44]</a>.
+*   **Experiential Marketing**: Memeland organized the first International Meme Day on June 1st, involving gatherings at McDonald's across 10 cities worldwide, demonstrating how to Kickstart traditions and bring blockchain to the people through silly yet engaging real-world events <a class="yt-timestamp" data-t="01:02:17">[01:02:17]</a>.
+
+## Learning Through Doing: The "Pay to Learn" Philosophy
+Ray emphasizes the "pay to learn" philosophy in crypto, where actively participating and even making financial mistakes (getting "wrecked") leads to faster and more profound learning <a class="yt-timestamp" data-t="00:55:54">[00:55:54]</a>. Investing personal money, like his own experience buying 2,000-3,000 ETH worth of NFTs, creates a strong incentive to learn quickly <a class="yt-timestamp" data-t="00:56:10">[00:56:10]</a>. This "skin in the game" transforms a bystander into a participant, allowing them to truly learn how to "fight" in the arena <a class="yt-timestamp" data-t="00:57:14">[00:57:14]</a>.
+
+## Building and Surviving in Web3
+Ray respects projects and teams that have not "died" and whose founders are still working hard and grinding <a class="yt-timestamp" data-t="00:48:50">[00:48:50]</a>. He views projects like Pudgy Penguins, Yuga Labs, and Azuki as "Sensei" (teachers) from whom Memeland can learn different mechanisms, marketing strategies, and social media tactics <a class="yt-timestamp" data-t="01:14:10">[01:14:10]</a>. His investment in Pudgy Penguins is a direct result of his belief in Luca's community-building approach and leveraging his e-commerce background for physical products <a class="yt-timestamp" data-t="01:05:02">[01:05:02]</a>.
+
+Ray stresses the importance of "constant shipping" and focusing on fundamental elements like ensuring the website is up, content is new, and users find satisfaction <a class="yt-timestamp" data-t="00:41:10">[00:41:10]</a>. This consistent effort, accumulated over time, leads to success, debunking the myth of "overnight success" which often obscures years of "blood and tears" <a class="yt-timestamp" data-t="00:41:36">[00:41:36]</a>. He believes that hard work is a prerequisite for [[building_and_growing_a_decentralized_venture_ecosystem | building companies]] <a class="yt-timestamp" data-t="00:42:54">[00:42:54]</a>.
+
+## Navigating [[challenges_of_building_in_the_web3_space | Challenges in Web3]]
+Ray addresses common pitfalls and challenges in the Web3 space:
+*   **Information Overload**: It is impossible to keep up with hundreds or thousands of new projects launching daily, especially with family commitments <a class="yt-timestamp" data-t="01:11:50">[01:11:50]</a>. Younger teammates are better suited for staying abreast of these trends <a class="yt-timestamp" data-t="01:12:22">[01:12:22]</a>.
+*   **Mindset and Resilience**: Ray emphasizes a contrarian mindset, seeing failure as the norm and turning misfortune into fortune <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>. He advises against complaining, as it makes one feel powerless; instead, focus on fixing issues or moving on to regain control <a class="yt-timestamp" data-t="01:52:53">[01:52:53]</a>. His personal experience with the loss of his son gives him perspective, making most work challenges seem less significant because they are not "life or death" <a class="yt-timestamp" data-t="03:18:23">[03:18:23]</a>.
+*   **Personal Responsibility**: He dislikes how Web3 can become a platform for blaming others for personal investment decisions, stressing that individuals are responsible for their choices, especially in high-risk ventures <a class="yt-timestamp" data-t="01:53:06">[01:53:06]</a>.
+
+## Conclusion: The Future of Web3 Adoption
+Ray is bullish on the future adoption of Web3, not just due to financial markets but because of the inherent technological advancements that push existing industries to change <a class="yt-timestamp" data-t="02:20:00">[02:20:00]</a>. Just as Amazon forced Walmart to change, Web3 pushes banks to evolve <a class="yt-timestamp" data-t="02:21:29">[02:21:29]</a>. He believes in embracing change as the only constant and that more and more people will inevitably enter Web3 <a class="yt-timestamp" data-t="02:21:44">[02:21:44]</a>. The core message remains: [[the_importance_of_community_and_longterm_thinking_in_the_crypto_industry | building strong communities]] and making technology accessible are paramount for mass adoption.

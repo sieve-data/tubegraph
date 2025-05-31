@@ -1,0 +1,84 @@
+---
+title: The evolution of the gaming industry through blockchain
+videoId: GFyBpn88Y5U
+---
+
+From: [[when-shift-happens]] <br/> 
+
+The gaming industry, particularly traditional mobile gaming, faces significant challenges in its current Web2 model. New game studios often need to spend "seven to eight figures in marketing" just to *hope* to enter the top-grossing charts, which have remained stagnant for years without new entrants <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This lack of new participants indicates an unhealthy market <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>.
+
+## The Sandbox: A Case Study in Web3 Evolution
+
+Sebastian Borget, co-founder and CEO of The Sandbox, a "unicorn online gaming platform," details the journey of their platform from a traditional mobile game to a blockchain-powered metaverse <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>.
+
+### From 2D Mobile Game to Blockchain Pioneer
+The Sandbox began in 2011 as a mobile game on iOS and Android, allowing users to create 2D games, music, and pixel art <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a> <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. It achieved substantial success, garnering "40 million downloads and 70 million player-made creations" <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a> <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+
+Despite its popularity, The Sandbox struggled to keep creators engaged long-term because they couldn't share the revenue their content generated <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a> <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>. Traditional platforms like the App Store or Google Play allowed developers to receive payments from user purchases but offered no scalable mechanism for developers to send payments back to individual users for their contributions <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+
+### The Discovery of Blockchain and [[cryptocurrencies_and_nfts_in_gaming | NFTs]]
+In 2017, The Sandbox team discovered blockchain technology, specifically with the game CryptoKitties, which utilized [[cryptocurrencies_and_nfts_in_gaming | NFTs]] for virtual cats that could be traded outside the game on marketplaces like OpenSea using crypto for payment <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a> <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. This offered a solution to the creator monetization problem, leading The Sandbox to transition to blockchain <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>.
+
+### Web2 Gaming's Core Problems
+The traditional free-to-play model in mobile gaming is facing an "unprecedented situation" <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>:
+*   **High User Acquisition Costs (CPI vs. LTV)**: Developers typically keep the revenue from in-app purchases, but must bear significant marketing and user acquisition costs <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. They spend on advertising to drive downloads, hoping to convert a small percentage (around 3%) into paying users and retain them for years <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. The goal is for the Lifetime Value (LTV) of a user to exceed the Cost Per Install (CPI) <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
+*   **Privacy Laws and Targeting Issues**: New privacy laws prevent platforms from collecting specific user data, making it difficult to efficiently target niche demographics for games <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>.
+*   **Economic Context**: Rising acquisition costs (CPI) and decreasing user spending (LTV) due to inflation and global economic factors make profitability challenging for many studios <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. This has led to widespread layoffs in the industry <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>.
+
+## Web3: The Solution for a Struggling Industry
+[[the_evolving_landscape_of_web3_and_blockchain_technologies | Web3]] offers a "new solution" and "opportunity to reinvent the model" for the gaming industry <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>:
+*   **Fairer Value Distribution**: It enables a more equitable distribution of value among players, developers, and platforms <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>.
+*   **Community as Stakeholders**: Instead of relying on a small percentage of paying users, Web3 encourages community involvement and makes users "stakeholder[s] of the economy of the game" <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a> <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>.
+*   **New Monetization Models**: This includes distributing content for free initially to build community, selling limited scarce content, and taking small fees (royalties) on peer-to-peer transactions among users <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a> <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>.
+*   **Lower Barrier to Entry**: The Web2 gaming market has a high barrier to entry, but Web3 presents an opportunity for new studios and creators to be "more agile in experimenting" and potentially "become the new leader in the space" <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a> <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>. Established Web2 players are often reluctant to migrate due to their existing large revenue streams <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>. However, some large studios (e.g., Atari, Square Enix, Ubisoft) are establishing new, agile entities to experiment with Web3 <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>.
+
+## The Sandbox's Growth in Web3
+The Sandbox partnered with Animoca Brands in 2018, which was also exploring [[cryptocurrencies_and_nfts_in_gaming | NFTs]] at the time <a class="yt-timestamp" data-t="00:15:15">[00:15:15]</a>. This partnership led to Animoca Brands acquiring The Sandbox's game studio and then spinning out The Sandbox as its own separate company <a class="yt-timestamp" data-t="00:15:36">[00:15:36]</a>.
+
+*   **Fundraising and Asia Focus**: The Sandbox raised $4.5 million in 2019 from investors like Animoca Brands, Hashed (a leading Korean crypto investor), True Global Ventures, and Square Enix from Japan <a class="yt-timestamp" data-t="00:15:55">[00:15:55]</a>. Noting that all their investors were Asia-based, The Sandbox "decided to double down" on the region, opening a team in Korea which proved very successful in signing local partners and brands <a class="yt-timestamp" data-t="00:16:26">[00:16:26]</a> <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>.
+*   **Global Presence**: The Sandbox currently boasts 5.7 million user accounts with wallets, "over 800 Partners around the world and 400 major brands," with Asia representing 35% of players, creators, and land owners <a class="yt-timestamp" data-t="00:17:42">[00:17:42]</a>.
+*   **Product Roadmap**: The Sandbox views itself as being in an "alpha" stage of product maturity <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>.
+    *   **Creator Tools**: They've released a 3D editor (VoxEdit), a marketplace for minting and selling assets on Polygon, and a continually updated no-code game maker <a class="yt-timestamp" data-t="00:18:18">[00:18:18]</a>.
+    *   **User-Generated Content**: Any of their 27,000 unique land owners can publish experiences, with over 1,000 live experiences already created <a class="yt-timestamp" data-t="00:18:48">[00:18:48]</a>.
+    *   **Upcoming Milestones**: The Sandbox plans to enter beta this year with Season 4, announce major partnerships, expand to new markets, and launch its Decentralized Autonomous Organization (DAO) to enable governance by landowners and SAND token holders <a class="yt-timestamp" data-t="00:19:22">[00:19:22]</a>. A public 1.0 version, including a mobile launch, is expected next year <a class="yt-timestamp" data-t="00:20:10">[00:20:10]</a>.
+
+## The Central Role of [[cryptocurrencies_and_nfts_in_gaming | NFTs]] and Digital Identity
+At the heart of The Sandbox are [[cryptocurrencies_and_nfts_in_gaming | NFTs]] <a class="yt-timestamp" data-t="00:20:29">[00:20:29]</a>:
+*   **Land**: Virtual real estate [[cryptocurrencies_and_nfts_in_gaming | NFTs]] on the map <a class="yt-timestamp" data-t="00:20:34">[00:20:34]</a>.
+*   **Avatars**: The "entry point" to the metaverse, serving as a user's unique digital identity <a class="yt-timestamp" data-t="00:20:38">[00:20:38]</a>. The Sandbox supports both its own collections (e.g., Smurfs, Snoop Dogg, Paris Hilton) and external collections for interoperability <a class="yt-timestamp" data-t="00:20:59">[00:20:59]</a>.
+*   **User-Generated Content**: Creator-made assets (VoxEdit) can be minted and used within the game maker <a class="yt-timestamp" data-t="00:21:18">[00:21:18]</a>.
+*   **SAND Token**: The utility token powering the platform, used for buying land, rewarding creators, and earning rewards for engagement <a class="yt-timestamp" data-t="00:21:41">[00:21:41]</a>. SAND is also a top metaverse and gaming token, accepted by other games, applications, and even real-life events <a class="yt-timestamp" data-t="00:22:08">[00:22:08]</a>.
+
+### The Importance of Digital Identity
+The concept of digital identity is "essential" in the metaverse <a class="yt-timestamp" data-t="00:22:58">[00:22:58]</a>.
+*   **Choice and Self-Expression**: Unlike the physical world where one's identity is largely predetermined, the metaverse allows individuals to "choose who we want to be," including gender and non-human forms <a class="yt-timestamp" data-t="00:23:02">[00:23:02]</a> <a class="yt-timestamp" data-t="00:23:28">[00:23:28]</a>.
+*   **Community and Reputation**: Digital assets help define community affiliation, and online reputation can be built through actions as a creator, player, or contributor <a class="yt-timestamp" data-t="00:23:38">[00:23:38]</a>. This identity can "keep evolving" and doesn't age <a class="yt-timestamp" data-t="00:24:02">[00:24:02]</a>.
+*   **Feeling "More Themselves"**: Studies indicate that "more than 54% of people who have an avatar on Roblox, Fortnite, or Sandbox feel more themselves than in a physical world" <a class="yt-timestamp" data-t="01:01:00">[01:01:00]</a> <a class="yt-timestamp" data-t="00:24:16">[00:24:16]</a>. This is attributed to the freedom from societal pressures and judgment found in the physical world <a class="yt-timestamp" data-t="00:24:38">[00:24:38]</a>.
+*   **On-Chain Reputation**: Beyond owning [[cryptocurrencies_and_nfts_in_gaming | NFTs]], a user's reputation can be built on transparent, on-chain records of their actions and contributions, such as completing quests or time spent in games <a class="yt-timestamp" data-t="00:27:21">[00:27:21]</a>. This allows for the "grasping [of] value that was there but that couldn't be valued before" in Web2 <a class="yt-timestamp" data-t="00:29:29">[00:29:29]</a>.
+
+## The State of [[cryptocurrencies_and_nfts_in_gaming | NFTs]] and Community Building
+Despite market fluctuations, Borget believes [[cryptocurrencies_and_nfts_in_gaming | NFTs]] are "far from dead" <a class="yt-timestamp" data-t="00:30:08">[00:30:08]</a>.
+> [00:40:08] "[[cryptocurrencies_and_nfts_in_gaming | NFTs]] are like a store of culture, which if you very often you compare like cryptocurrencies of St store of value and if have store of culture is culture debt no culture keeps Reinventing Rich innovating sometimes like uh you have like collections of [[cryptocurrencies_and_nfts_in_gaming | NFTs]] like profile picture maybe that was one slice of what [[cryptocurrencies_and_nfts_in_gaming | NFTs]] are like [[cryptocurrencies_and_nfts_in_gaming | NFTs]] represent many different asset class whether it's art it's like virtual land it's Avatar it's game item it's um a profile picture as well it can be a music file sound file and so on right now like [[cryptocurrencies_and_nfts_in_gaming | NFTs]] NF commune really leave through like the actions of the holders like stakeholders of [[cryptocurrencies_and_nfts_in_gaming | NFTs]] are like the for me the Living Earth and body like that make collection more or less or dead" <a class="yt-timestamp" data-t="00:30:08">[00:30:08]</a>
+
+There is still a "large volume of [[cryptocurrencies_and_nfts_in_gaming | NFT]] being traded" <a class="yt-timestamp" data-t="00:31:09">[00:31:09]</a>. The key is "to keep educating developers and creators on how to best utilize [[cryptocurrencies_and_nfts_in_gaming | NFTs]] to attract users" <a class="yt-timestamp" data-t="00:32:46">[00:32:46]</a>.
+
+### Different Approaches to [[cryptocurrencies_and_nfts_in_gaming | NFT]] Communities
+*   **Pudgy Penguins**: Praised for its "very friendly" and inclusive community, successful in bridging to Web2 by launching physical toys sold at Walmart, attracting a more balanced male-to-female proportion of users <a class="yt-timestamp" data-t="00:33:44">[00:33:44]</a>.
+*   **CryptoPunks**: Viewed as a historical symbol with inherent value, but their inaccessibility due to high floor prices makes them a "worst example of an [[cryptocurrencies_and_nfts_in_gaming | NFT]] if you want to onboard someone into the space" <a class="yt-timestamp" data-t="00:37:47">[00:37:47]</a>.
+*   **Utility vs. No-Promise**: Borget disagrees with the notion that great [[cryptocurrencies_and_nfts_in_gaming | NFT]] projects have "no promise or no utility" <a class="yt-timestamp" data-t="00:37:07">[00:37:07]</a>, believing that "utility needs to be there" and teams must "constantly deliver" on that promise <a class="yt-timestamp" data-t="00:37:14">[00:37:14]</a>.
+
+### [[cryptocurrencies_and_nfts_in_gaming | NFT]] Projects Launching Tokens
+The trend of [[cryptocurrencies_and_nfts_in_gaming | NFT]] projects launching their own tokens is a significant development <a class="yt-timestamp" data-t="00:44:41">[00:44:41]</a>.
+*   **Reasons**:
+    *   **Diversified Economy**: Beyond relying on asset trading and royalties, tokens allow for a more "granular economy" <a class="yt-timestamp" data-t="00:44:54">[00:44:54]</a>.
+    *   **Rewards and Liquidity**: Tokens can reward [[cryptocurrencies_and_nfts_in_gaming | NFT]] holders for active participation, offering more liquidity and access to decentralized finance (DeFi) possibilities <a class="yt-timestamp" data-t="00:45:32">[00:45:32]</a>.
+    *   **Governance**: Tokens can empower communities through DAOs, allowing holders to vote on proposals for ecosystem growth <a class="yt-timestamp" data-t="00:46:14">[00:46:14]</a>.
+*   **New User Acquisition Model**: Projects now airdrop tokens to holders of established [[cryptocurrencies_and_nfts_in_gaming | NFT]] collections (e.g., Mad Lads, Pudgy Penguins) as a new user acquisition strategy <a class="yt-timestamp" data-t="00:51:31">[00:51:31]</a>. This shifts value back to users instead of advertising platforms <a class="yt-timestamp" data-t="00:53:04">[00:53:04]</a>.
+
+## Future Outlook and Predictions
+Borget remains highly optimistic about the future of [[the_evolving_landscape_of_web3_and_blockchain_technologies | Web3]] gaming and the open metaverse <a class="yt-timestamp" data-t="00:53:21">[00:53:21]</a>.
+*   **True Digital Ownership**: He believes "true digital ownership is essential" and will become obvious in hindsight <a class="yt-timestamp" data-t="00:56:13">[00:56:13]</a>. Gen Z already understands the concept of owning digital content and assets <a class="yt-timestamp" data-t="00:56:42">[00:56:42]</a>.
+*   **Creator Economy Growth**: The "creator economy will keep growing," and "there's no future of gaming without user generated content" <a class="yt-timestamp" data-t="00:57:05">[00:57:05]</a>. Players will be empowered to become creators, contributing actively and being rewarded <a class="yt-timestamp" data-t="00:57:20">[00:57:20]</a>.
+*   **Gaming as Adoption Driver**: Blockchain gaming is expected to remain "the main driver of adoption" for Web3 <a class="yt-timestamp" data-t="00:58:12">[00:58:12]</a>.
+*   **Meme Coins and Social Tokens**: Borget is exploring the potential of meme coins and social tokens (like his own "Seb token" experiment) as unexpected drivers of adoption, likening them to how pop culture originates from the streets before becoming mainstream <a class="yt-timestamp" data-t="00:58:46">[00:58:46]</a> <a class="yt-timestamp" data-t="01:01:05">[01:01:05]</a>. These personal digital currencies could allow creators to engage and reward their communities directly <a class="yt-timestamp" data-t="01:01:14">[01:01:14]</a>.
+*   **Recognition of Digital Creators**: He looks forward to a global recognition of digital creators, where income from creating content in virtual worlds is a declarable and livable activity <a class="yt-timestamp" data-t="00:57:42">[00:57:42]</a>.

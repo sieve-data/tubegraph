@@ -1,0 +1,33 @@
+---
+title: Perception and influence in the crypto world
+videoId: 61B175Ckm2o
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Hasib Kureshi, a managing partner at Dragonfly, a global crypto-focused investment fund, and co-host of The Chopping Block podcast, shares insights on navigating perception and influence within the cryptocurrency industry <a class="yt-timestamp" data-t="00:19:57">[00:19:57]</a>.
+
+## The Role of Perception in Venture Capital
+
+In venture capital, Kureshi notes that junior investors often struggle to understand businesses and technology, requiring training and studying the history of both to build mental frameworks for prediction <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>. However, understanding people is deeply ingrained in human brains, and gut feelings about trustworthiness are often accurate <a class="yt-timestamp" data-t="00:10:32">[00:10:32]</a>.
+
+Junior VCs may dismiss their instincts, being swayed by credentials, impressive presentations, and partnerships <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>. In contrast, experienced VCs learn to trust their initial perceptions of individuals <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>. This reliance on instinct is supported by social psychology's "stereotype accuracy," a robust finding that humans are well-attuned to correctly detecting common differences based on direct experience <a class="yt-timestamp" data-t="00:13:31">[00:13:31]</a>. As a VC, he advises against fighting against these initial perceptions <a class="yt-timestamp" data-t="00:15:24">[00:15:24]</a>.
+
+## [[the_impact_and_importance_of_personal_branding_in_finance_and_crypto | Building Influence and Reputation]]
+
+Kureshi emphasizes that a key principle for success in crypto is to "start writing and talking in public" <a class="yt-timestamp" data-t="01:01:47">[01:01:47]</a>. He advises against waiting until you feel you have unique ideas or sufficient knowledge <a class="yt-timestamp" data-t="01:02:06">[01:02:06]</a>. Even if your initial work is "embarrassing" or "dumb," there are always people a few steps behind you in their learning who can benefit from what you've just learned <a class="yt-timestamp" data-t="01:03:05">[01:03:05]</a>. Starting early allows for improvement without significant criticism, as "no one cares anyway" at the beginning <a class="yt-timestamp" data-t="01:04:19">[01:04:19]</a>. This process of adding value, even to a small audience, builds a name, connections, and notoriety within the internet-based crypto society <a class="yt-timestamp" data-t="01:04:53">[01:04:53]</a>.
+
+### Followers vs. Real Influence
+Kureshi discusses the "burson paradox" or "the tails come apart," where initial correlations, like followers and influence, diverge at extremes <a class="yt-timestamp" data-t="01:09:22">[01:09:22]</a>. Accounts with millions of followers are often good entertainers who produce content but lack the ability to "control anything" or make things happen in the real world <a class="yt-timestamp" data-t="01:09:57">[01:09:57]</a>. Conversely, some individuals with fewer followers hold significant influence, capable of shifting the world with their posts <a class="yt-timestamp" data-t="01:10:21">[01:10:21]</a>. This demonstrates that influence is not always "legible on social media" <a class="yt-timestamp" data-t="01:11:28">[01:11:28]</a>, mirroring how "wealth tends to speak very quietly, whereas rich people tend to be loud" <a class="yt-timestamp" data-t="01:11:44">[01:11:44]</a>. Beyond a certain point, gaining more followers has little impact on real influence <a class="yt-timestamp" data-t="01:12:38">[01:12:38]</a>. The true path to influence is not self-promotion or name-dropping, but by consistently adding value to every interaction, project, and person you meet, which builds your reputation <a class="yt-timestamp" data-t="01:14:19">[01:14:19]</a>.
+
+## [[media_influence_and_ethical_considerations_in_crypto_promotion | Managing Public Perception in Crypto]]
+
+The crypto industry experiences rapid shifts in public perception. An individual can quickly go from being perceived as a "cool hipster" to a "rockstar" and then to a "scammer" by the same people within a short period <a class="yt-timestamp" data-t="01:26:15">[01:26:15]</a>. Kureshi notes that his affiliation with effective altruism, which was "cool" during FTX's reign but became "cringiest" after its collapse, illustrates this volatility <a class="yt-timestamp" data-t="01:27:04">[01:27:04]</a>.
+
+As a VC, public perception directly impacts business <a class="yt-timestamp" data-t="01:27:33">[01:27:33]</a>. Kureshi's strategy for managing this is to "be more transparent, say what you really think, and add value" <a class="yt-timestamp" data-t="01:27:53">[01:27:53]</a>. He acknowledges that expressing strong opinions may anger some communities, but states that if you're not "poked the hornet's nest every once in a while," you're not doing enough <a class="yt-timestamp" data-t="01:28:34">[01:28:34]</a>. Despite public backlash, the crypto community often has a "very short memory," allowing individuals to move past controversies <a class="yt-timestamp" data-t="01:28:44">[01:28:44]</a>.
+
+## [[role_of_media_and_misinterpretation_in_cryptocurrency | The Perception of Crypto Itself]]
+
+Kureshi believes that crypto is inherently "subversive" and challenges state power, unlike most technologies that primarily strengthen the state <a class="yt-timestamp" data-t="01:56:18">[01:56:18]</a>. He explains that crypto exists as a response to constraints introduced by governments, such as control over monetary policy and capital flows <a class="yt-timestamp" data-t="01:56:57">[01:56:57]</a>. This contrasts with technologies like the internet or AI, which enhance state surveillance and power <a class="yt-timestamp" data-t="00:58:59">[00:58:59]</a>. Crypto, he argues, is "for people and not for states" <a class="yt-timestamp" data-t="01:59:19">[01:59:19]</a>.
+
+The collapse of FTX highlighted the distinction between centralized businesses and the core values of crypto <a class="yt-timestamp" data-t="01:27:11">[01:27:11]</a>. Kureshi maintains that FTX's fraud, being a centralized business, does not change his conviction in crypto, which is about self-custody, self-sovereignty, and programmable money—principles directly opposed to trusting third parties <a class="yt-timestamp" data-t="01:48:42">[01:48:42]</a>. He views crypto at its core as a philosophy about how money and value should be oriented, independent of specific political events or individuals <a class="yt-timestamp" data-t="01:52:59">[01:52:59]</a>.

@@ -1,0 +1,104 @@
+---
+title: Importance of Stablecoins in Cryptocurrency
+videoId: 144qHAKjZ24
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Do Kwon, founder of Terraform Labs, joined a discussion to delve into the world of [[introduction_to_terra_and_stablecoins | stablecoins]] and their significance in the cryptocurrency landscape <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. The discussion covered his journey into crypto, the definition and utility of [[the_role_of_stablecoins_in_commerce | stablecoins]], different types of [[different_types_of_stablecoins | stablecoins]], the importance of [[algorithmic_stablecoins_and_their_importance | algorithmic stablecoins]], community building, and future regulatory outlooks <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>.
+
+## Do Kwon's Journey into Crypto <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>
+
+Before entering crypto, Do Kwon worked as an NLP engineer in Seattle, where a lack of exciting work led him to tinker with side projects <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. He developed software for a Wi-Fi mesh network, allowing devices to connect via Wi-Fi Direct or Bluetooth to access free internet even without direct connection <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. This technology was then packaged into a B2B networking solution, serving amusement parks, shopping malls, and large venues <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>. His searches for "distributed mesh network" and "decentralized network" led him to discover Bitcoin and Ethereum <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>. By 2017, he fully transitioned into crypto by founding Terra <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>.
+
+## Defining Stablecoins <a class="yt-timestamp" data-t="00:03:25">[00:03:25]</a>
+
+A [[introduction_to_terra_and_stablecoins | stablecoin]] is a cryptocurrency designed to retain a stable value against another asset <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. While typically pegged to the US dollar, a [[introduction_to_terra_and_stablecoins | stablecoin]] could theoretically be stable against gold, the price of a Big Mac, a basket of fiat currencies, or even other crypto assets <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. For practical purposes, a [[introduction_to_terra_and_stablecoins | stablecoin]] maintains low price volatility relative to the US dollar <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+
+## Why Stablecoins are the "Killer App" in Crypto <a class="yt-timestamp" data-t="00:04:15">[00:04:15]</a>
+
+While Bitcoin's fixed monetary policy is a feature for investment, its price volatility makes it difficult for everyday financial applications <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. For example, using Bitcoin to pay for a cab ride or an employment contract is problematic due to price fluctuations <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>. A [[introduction_to_terra_and_stablecoins | stablecoin]] addresses this by providing price stability against fiat currencies, allowing familiar financial transactions to occur within a crypto context <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. This enables the layering of complex financial applications while retaining the permissionlessness and censorship resistance of assets like Bitcoin and Ethereum <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>.
+
+The belief that Bitcoin would become stable enough to quote all transactions is largely untrue <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>. Just as we don't denominate spending in units of electricity or gasoline, a flexible monetary policy is useful for everyday life, ensuring short-term price stability against consumer spending <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. As the crypto market has grown, [[the_role_of_stablecoins_in_everyday_transactions | stablecoins]] have proven to be the most useful product, underpinning centralized exchanges, DEXes, DeFi applications, and NFT sales <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>. In the crypto world, [[introduction_to_terra_and_stablecoins | stablecoins]] act as "super useful dollars" that can earn [[highyield_stablecoin_interest | highyield interest]] and be transacted 24/7 globally <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>.
+
+## Types of Stablecoins <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a>
+
+There are three main types of [[different_types_of_stablecoins | stablecoins]]:
+
+1.  **Fiat-backed Stablecoins:** <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>
+    *   **Description:** The dominant type, including USDT and USDC <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>. For every [[introduction_to_terra_and_stablecoins | stablecoin]] issued, a dollar's worth of assets is held in a bank account by a centralized custodian <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>. The issuer buys back [[introduction_to_terra_and_stablecoins | stablecoins]] if the price falls to maintain the peg <a class="yt-timestamp" data-t="00:10:58">[00:10:58]</a>.
+    *   **Problems:**
+        *   **Centralization Risk:** Users must trust the issuer to maintain deposits and engage in open market operations to preserve value parity <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
+        *   **Regulatory Risk:** Regulators can exert control over the issuer, potentially freezing assets in DeFi protocols built on these centralized [[introduction_to_terra_and_stablecoins | stablecoins]], undermining decentralization <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>.
+    *   **First-mover Advantage:** Centralized [[introduction_to_terra_and_stablecoins | stablecoins]] gained early adoption due to having massive backers (e.g., Coinbase for Circle, Bitfinex for Tether) with balance sheets to underwrite initial risks <a class="yt-timestamp" data-t="00:15:23">[00:15:23]</a>. However, these risks scale poorly as market caps grow, increasing regulatory and centralization threats <a class="yt-timestamp" data-t="00:16:43">[00:16:43]</a>.
+
+2.  **Crypto-Collateralized Stablecoins:** <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>
+    *   **Description:** MakerDAO (DAI) is a leader in this category <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>. To issue one dollar of [[introduction_to_terra_and_stablecoins | stablecoin]], more than a dollar's worth of volatile crypto assets (e.g., Ether) must be locked up <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. If the collateral value falls below a threshold, liquidations and arbitrages are used to buy back [[introduction_to_terra_and_stablecoins | stablecoins]] <a class="yt-timestamp" data-t="00:12:44">[00:12:44]</a>.
+    *   **Problems:**
+        *   **Scalability Issues:** Minting is driven by demand for leverage on the underlying crypto asset, not by demand for the [[introduction_to_terra_and_stablecoins | stablecoin]] itself <a class="yt-timestamp" data-t="00:13:05">[00:13:05]</a>. This can lead to the [[introduction_to_terra_and_stablecoins | stablecoin]] consistently trading above its peg during periods of high demand (e.g., Dai during DeFi Summer 2020) <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>.
+        *   **Compromised Decentralization:** To address scalability, MakerDAO added USDC as a collateral type, leading to over 50% of Dai being backed by USDC <a class="yt-timestamp" data-t="00:13:39">[00:13:39]</a>. This effectively makes Dai a USDC derivative, defeating its decentralized purpose <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>.
+
+3.  **[[algorithmic_stablecoins_and_their_importance | Algorithmic Stablecoins]]:** <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>
+    *   **Description:** These [[introduction_to_terra_and_stablecoins | stablecoins]], like Terra's UST, hold no collateral <a class="yt-timestamp" data-t="00:14:20">[00:14:20]</a>. Instead, they use game-theoretic incentives to maintain their peg <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>.
+    *   **Terra's Mechanism:** Users can mint one Terra USD (UST) by burning a dollar's worth of Luna, and vice versa <a class="yt-timestamp" data-t="00:18:17">[00:18:17]</a>.
+        *   If UST trades below peg (e.g., $0.90), users buy UST for $0.90, swap it for $1 worth of Luna, and sell Luna for a 10% arbitrage profit, shrinking UST supply and pushing its price back to $1 <a class="yt-timestamp" data-t="00:18:30">[00:18:30]</a>.
+        *   If UST trades above peg (e.g., $1.10), users burn $1 worth of Luna to mint one UST, sell it for $1.10, and capture a 10% arbitrage profit, expanding UST supply and pushing its price back to $1 <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>. This process continues until UST returns to its dollar peg <a class="yt-timestamp" data-t="00:19:01">[00:19:01]</a>.
+    *   **Addressing the "Death Spiral":** Many [[algorithmic_stablecoins_and_their_importance | algorithmic stablecoins]] have failed because their go-to-market strategy relied on recursive, high-APR schemes (e.g., Iron Finance offering 2000% APR) <a class="yt-timestamp" data-t="00:19:36">[00:19:36]</a>. When yields dropped or confidence wavered, capital exited, leading to a "death spiral" where the [[introduction_to_terra_and_stablecoins | stablecoin]]'s price crashed to zero <a class="yt-timestamp" data-t="00:20:24">[00:20:24]</a>.
+    *   **Terra's Success:** Terra's approach was to build a non-recursive, robust economy on top of its [[introduction_to_terra_and_stablecoins | stablecoins]], focusing on real usership and economic growth <a class="yt-timestamp" data-t="00:21:01">[00:21:01]</a>.
+
+### Building a Robust Economy and Organic Demand <a class="yt-timestamp" data-t="00:21:11">[00:21:11]</a>
+Terra approaches money as a product, aiming to make UST the best product for saving and spending <a class="yt-timestamp" data-t="00:21:32">[00:21:32]</a>.
+
+*   **Spending:** Terra built payment services and e-wallets in Korea (Chai), Mongolia, and Vietnam <a class="yt-timestamp" data-t="00:22:04">[00:22:04]</a>. Chai in Korea is integrated with major e-commerce merchants and offline venues (convenience stores, movie theaters), allowing users to buy almost anything with Terra [[introduction_to_terra_and_stablecoins | stablecoins]] <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>.
+*   **Saving:**
+    *   **Anchor Protocol:** Allows users to deposit Terra [[introduction_to_terra_and_stablecoins | stablecoins]] into a smart contract to earn a **20% stable yield** <a class="yt-timestamp" data-t="00:22:57">[00:22:57]</a>. This yield is powered by staking yields from Proof-of-Stake assets across multiple blockchains (Solana, Ethereum, etc.) <a class="yt-timestamp" data-t="00:23:06">[00:23:06]</a>.
+    *   **Mirror Protocol:** Enables investment in any asset class globally through synthetic price exposure, using Terra USD as the gateway <a class="yt-timestamp" data-t="00:23:41">[00:23:41]</a>. This allows users in various countries to buy synthetic Apple stock or ETFs using UST without leaving the ecosystem <a class="yt-timestamp" data-t="00:23:51">[00:23:51]</a>.
+
+This strategy created organic demand for UST through useful applications that users will use constantly, unlike other [[algorithmic_stablecoins_and_their_importance | algorithmic stablecoins]] that only offered unsustainable high APRs <a class="yt-timestamp" data-t="00:24:16">[00:24:16]</a>.
+
+### Counter-Cyclicality in Practice <a class="yt-timestamp" data-t="00:24:53">[00:24:53]</a>
+Terra aims for counter-cyclicality, meaning UST remains useful whether in a bull or bear market <a class="yt-timestamp" data-t="00:24:48">[00:24:48]</a>. During the May 2021 crypto crash, despite $400 million of UST being sold off, Terra's peg held extremely well, trading exactly at its theoretical swap spread <a class="yt-timestamp" data-t="00:26:33">[00:26:33]</a>.
+
+As more apps are built on Terra, confidence in UST's stability grows <a class="yt-timestamp" data-t="00:27:21">[00:27:21]</a>. In a crypto downturn, payment apps still allow users to buy everyday items, and the ability to earn 20% yield on [[highyield_stablecoin_interest | stablecoins]] via Anchor provides an incentive to hold UST instead of exiting the market <a class="yt-timestamp" data-t="00:27:34">[00:27:34]</a>.
+
+## Building a Passionate Community <a class="yt-timestamp" data-t="00:29:50">[00:29:50]</a>
+
+Terra has cultivated one of the most passionate communities in crypto, known as "Lunatics" <a class="yt-timestamp" data-t="00:29:04">[00:29:04]</a>. Do Kwon attributes this to a bigger vision: the premise that a decentralized economy requires decentralized money <a class="yt-timestamp" data-t="00:31:06">[00:31:06]</a>. Terra is a leading player in building better decentralized money for the entire DeFi stack <a class="yt-timestamp" data-t="00:31:20">[00:31:20]</a>.
+
+The community feels an existential threat to crypto and DeFi from centralized players and regulators tightening their grip <a class="yt-timestamp" data-t="00:31:28">[00:31:28]</a>. If the underlying monetary layer remains centralized (e.g., USDC or Tether), regulators can easily freeze assets, forcing DeFi protocols to comply with their whims <a class="yt-timestamp" data-t="00:32:02">[00:32:02]</a>. Terra USD, as a decentralized money, represents the best promise to counter this, exciting and galvanizing the community <a class="yt-timestamp" data-t="00:32:27">[00:32:27]</a>.
+
+The community's excitement grew significantly with the launch of Mirror Protocol, which offered a novel concept of synthetic assets <a class="yt-timestamp" data-t="00:33:10">[00:33:10]</a>. This matured with Anchor Protocol, where the simple value proposition of earning 20% fixed yield on [[introduction_to_terra_and_stablecoins | stablecoins]] was highly attractive <a class="yt-timestamp" data-t="00:33:28">[00:33:28]</a>. Crucially, the growth moved beyond Terraform Labs building marquee applications; now hundreds of independent builders are creating projects, including over 60 NFT projects, DEXes, and new banks <a class="yt-timestamp" data-t="00:33:50">[00:33:50]</a>.
+
+## [[the_role_of_government_in_regulating_cryptocurrency | Regulation]] and Decentralization <a class="yt-timestamp" data-t="00:34:58">[00:34:58]</a>
+
+The biggest risk to Terra is hard to define, but if Terraform Labs ceased to exist, growth would slow, though the community is robust enough for new leaders to continue <a class="yt-timestamp" data-t="00:35:47">[00:35:47]</a>. Do Kwon believes a few more years will lead to a state where Terra USD no longer needs TFL, and the community can self-organize for updates and new projects <a class="yt-timestamp" data-t="00:36:13">[00:36:13]</a>. The increasing demand for UST and the continuous building of amazing projects make the ecosystem feel like it's approaching or has passed a tipping point <a class="yt-timestamp" data-t="00:36:51">[00:36:51]</a>.
+
+### Market Cap and Dominance <a class="yt-timestamp" data-t="00:37:17">[00:37:17]</a>
+Do Kwon projects Terra USD market cap to reach or be close to $10 billion by the end of the current year <a class="yt-timestamp" data-t="00:38:18">[00:38:18]</a>. By 2022, the goal is for Terra UST to be the dominant decentralized [[introduction_to_terra_and_stablecoins | stablecoin]] in crypto, potentially flipping Dai <a class="yt-timestamp" data-t="00:38:35">[00:38:35]</a>. Ultimately, the long-term vision is for UST to be the de facto decentralized money and [[introduction_to_terra_and_stablecoins | stablecoin]] across the entire crypto ecosystem, constituting liquidity and medium of exchange for most crypto use cases <a class="yt-timestamp" data-t="00:39:03">[00:39:03]</a>. An important metric beyond Total Value Locked (TVL) is how UST is distributed by wallet numbers and exported to different chains <a class="yt-timestamp" data-t="00:45:43">[00:45:43]</a>.
+
+## Terra's Unique Position and Superior Applications <a class="yt-timestamp" data-t="00:39:37">[00:39:37]</a>
+
+Terra does not view other Layer 1 blockchains like Solana or Avalanche as competitors <a class="yt-timestamp" data-t="00:41:04">[00:41:04]</a>. The core economic model means that a dollar of UST minted burns a dollar's worth of Luna, regardless of where that UST is used (Ethereum, Avalanche, Binance Smart Chain, Solana, or Terra itself) <a class="yt-timestamp" data-t="00:40:43">[00:40:43]</a>. Terra's strategic goal is to be the standard for decentralized [[introduction_to_terra_and_stablecoins | stablecoins]] across all blockchain ecosystems, meaning its success is complementary and synergistic with other blockchains <a class="yt-timestamp" data-t="00:41:27">[00:41:27]</a>.
+
+The Anchor Protocol's smart way of generating long-term, [[highyield_stablecoin_interest | high-yield]] [[introduction_to_terra_and_stablecoins | stablecoin]] interest is being adapted by other protocols, such as Compound Finance adding staking derivatives and Abracadabra's Magic Internet Money (MIM) backed by yield-bearing assets <a class="yt-timestamp" data-t="00:46:45">[00:46:45]</a>. Terra embraces open source, knowing that once IP is released, it no longer truly owns it, and collaboration is key <a class="yt-timestamp" data-t="00:47:50">[00:47:50]</a>.
+
+A key differentiator for Terra is its superior user experience compared to other ecosystems <a class="yt-timestamp" data-t="00:48:20">[00:48:20]</a>. While not "insanely crazy," Terra's UX is comparable to what users expect from an iPhone, making it sticky for users, offering better yields and easier interaction <a class="yt-timestamp" data-t="00:49:13">[00:49:13]</a>.
+
+## Columbus 5 Upgrade <a class="yt-timestamp" data-t="00:41:54">[00:41:54]</a>
+
+The Columbus 5 upgrade brought three main changes to Terra:
+
+1.  **Scalability:** Increased the number of transactions processed by Terra blocks by 33x, providing more block space for various applications <a class="yt-timestamp" data-t="00:42:37">[00:42:37]</a>.
+2.  **Interchain Connectivity:**
+    *   **IBC (Inter-Blockchain Communication):** Natively connects Terra to the Cosmos ecosystem (Osmosis, Cosmos Hub, Crypto.com chain) <a class="yt-timestamp" data-t="00:43:11">[00:43:11]</a>.
+    *   **Axelar:** Brings native Bitcoin into the Terra ecosystem and improves connections to Binance Smart Chain and Avalanche <a class="yt-timestamp" data-t="00:43:40">[00:43:40]</a>.
+    *   **Wormhole:** Natively connects Terra to the Solana ecosystem through its bridge <a class="yt-timestamp" data-t="00:43:52">[00:43:52]</a>.
+3.  **Simplified Economics:** Previously, Luna burning for UST was complex. Now, when Luna is swapped for UST, it is permanently burned <a class="yt-timestamp" data-t="00:44:06">[00:44:06]</a>. This results in very simple, understandable economics, with swap spreads contributing to staking rewards <a class="yt-timestamp" data-t="00:44:34">[00:44:34]</a>.
+
+Shortly after the upgrade, Terra's Total Value Locked (TVL) surpassed $10 billion, exceeding Solana's TVL <a class="yt-timestamp" data-t="00:45:04">[00:45:04]</a>. This indicates significant growth, though the ecosystem is still early <a class="yt-timestamp" data-t="00:45:24">[00:45:24]</a>.
+
+## Future Growth and User Adoption <a class="yt-timestamp" data-t="00:49:42">[00:49:42]</a>
+
+While DeFi applications like Anchor contribute to user adoption, Do Kwon believes metaverses and NFTs will be more effective in bringing in mass users <a class="yt-timestamp" data-t="00:50:18">[00:50:18]</a>. DeFi's terms (stable, attractive yields) are "boring" to everyday people, whereas NFTs, especially with celebrity involvement, are "super interesting" <a class="yt-timestamp" data-t="00:50:47">[00:50:47]</a>. Future innovation will come from metaverses blending into daily existence, bringing property rights into a digital context, and creating unique assets for digital identities that are respected across various content platforms like games <a class="yt-timestamp" data-t="00:51:05">[00:51:05]</a>. This focus on NFTs and digital arts will also attract more women to the space, a significant need for growth <a class="yt-timestamp" data-t="00:51:56">[00:51:56]</a>.
+
+The most exciting aspect of Terra's future is how the community has taken the singular vision of decentralized money and is constantly reshaping its narrative through hundreds of different applications and the participation of hundreds of thousands of people <a class="yt-timestamp" data-t="00:53:10">[00:53:10]</a>. This collaborative, open-source approach, where value is given away for the community to build upon, allows the entire ecosystem to grow exponentially, leading to unimaginable proportions <a class="yt-timestamp" data-t="00:54:02">[00:54:02]</a>.

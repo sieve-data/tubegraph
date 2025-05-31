@@ -1,0 +1,52 @@
+---
+title: Usercentric design and usability in crypto applications
+videoId: Z0ltgGec-Oc
+---
+
+From: [[when-shift-happens]] <br/> 
+
+The shift from a developer-focused mindset to a user-focused mindset is crucial for the adoption of crypto applications <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This transition is essential for wider acceptance and growth within the crypto ecosystem, moving beyond niche technical users to a broader consumer base <a class="yt-timestamp" data-t="00:40:40">[00:40:40]</a>, <a class="yt-timestamp" data-t="00:41:11">[00:41:11]</a>.
+
+## Challenges in the Ethereum Ecosystem
+
+The Ethereum ecosystem, at an early stage, struggled to move beyond a purely developer-centric mindset <a class="yt-timestamp" data-t="00:32:20">[00:32:20]</a>. Many applications on Ethereum, including MetaMask, were geared towards a niche set of developers <a class="yt-timestamp" data-t="00:32:42">[00:32:42]</a>. This was evident in the expectation that users would know what an RPC URL is or manually add tokens to their wallet <a class="yt-timestamp" data-t="00:32:52">[00:32:52]</a>, <a class="yt-timestamp" data-t="01:09:57">[01:09:57]</a>. While the Ethereum ecosystem initially attracted smart people with a huge vision, it "fell in the iteration phase" due to its rigid adherence to decentralization, which at times hindered rapid iteration and responsiveness to user feedback <a class="yt-timestamp" data-t="00:37:17">[00:37:17]</a>, <a class="yt-timestamp" data-t="00:34:04">[00:34:04]</a>.
+
+A major impediment to adoption was the wallet experience <a class="yt-timestamp" data-t="00:27:22">[00:27:22]</a>. Wallets like MetaMask were seen as providing a "decelerating effect" on the ecosystem due to their poor user interface (UI) and user experience (UX), comparable to a "browser page from the '90s" <a class="yt-timestamp" data-t="00:28:19">[00:28:19]</a>, <a class="yt-timestamp" data-t="00:29:01">[00:29:01]</a>. Analysis of user funnels showed significant drop-off points (50-60%) at wallet-related stages, such as onboarding or confirming transactions, due to complexities like understanding seed phrases or adjusting gas prices <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>, <a class="yt-timestamp" data-t="00:31:00">[00:31:00]</a>.
+
+## Lessons from Web 2.0
+
+Experiences in Web 2.0 companies like Twitter highlighted how business models, particularly ad monetization, could hinder user experience <a class="yt-timestamp" data-t="01:11:40">[01:11:40]</a>, <a class="yt-timestamp" data-t="01:12:02">[01:12:02]</a>. An example shared was Twitter's inability to implement a user-desired feature (natural image aspect ratios) because it would make tweets taller, leading to less scrolling and thus less ad revenue <a class="yt-timestamp" data-t="01:16:20">[01:16:20]</a>, <a class="yt-timestamp" data-t="01:17:07">[01:17:07]</a>. This demonstrated a fundamental disconnect between user needs and the financial incentives of the platform <a class="yt-timestamp" data-t="01:19:10">[01:19:10]</a>. This observation contributed to the understanding that Web 2.0 models were "fundamentally broken" in terms of serving users and developers <a class="yt-timestamp" data-t="01:19:43">[01:19:43]</a>.
+
+## Phantom's Approach to User-Centricity
+
+Phantom, a leading crypto wallet, was founded with the mission to [[building_cryptocurrency_platforms_focused_on_user_needs | accelerate the adoption of crypto]] by making it safe and easy to use <a class="yt-timestamp" data-t="00:41:11">[00:41:11]</a>, <a class="yt-timestamp" data-t="00:42:07">[00:42:07]</a>. This is underpinned by a "very user-centric mindset" in building the entire experience <a class="yt-timestamp" data-t="00:56:30">[00:56:30]</a>.
+
+### Overall Philosophy
+Phantom views crypto as a [[human_values_and_consumerism_in_the_crypto_world | positive force in the world]] that increases access to financial systems globally <a class="yt-timestamp" data-t="00:5:04">[00:05:04]</a>, <a class="yt-timestamp" data-t="01:20:36">[01:20:36]</a>. Their role is to help users navigate this permissionless and open ecosystem safely <a class="yt-timestamp" data-t="01:21:12">[01:21:12]</a>. The focus is on the "internet native age" (Gen Z and beyond) who are already comfortable with apps like Square Cash and understand technology, rather than trying to make crypto accessible to previous generations <a class="yt-timestamp" data-t="01:01:08">[01:01:08]</a>, <a class="yt-timestamp" data-t="01:01:37">[01:01:37]</a>.
+
+### Focus on Solana and its Pragmatism
+Phantom chose to focus on Solana due to several early signals:
+*   **Stablecoin Liquidity:** Solana was the second-biggest deployment of USDC at the time, indicating strong stablecoin liquidity, which is the "lifeblood of financial activity" in these ecosystems <a class="yt-timestamp" data-t="00:46:07">[00:46:07]</a>.
+*   **Centralized Exchange Partnership:** FTX's early and strong support for Solana simplified the on-ramp for users from fiat to crypto <a class="yt-timestamp" data-t="00:46:56">[00:46:56]</a>.
+*   **Founder Ethos:** The Solana founders' "commitment to pragmatism" and engineering-first approach resonated with Phantom's own philosophy of [[importance_of_building_products_people_want_in_the_crypto_space | building products]] and iterating quickly <a class="yt-timestamp" data-t="00:55:04">[00:55:04]</a>, <a class="yt-timestamp" data-t="00:38:38">[00:38:38]</a>. This contrasted with Ethereum's more academic approach to [[decentralization_vs_centralization_in_crypto_platforms | decentralization]] <a class="yt-timestamp" data-t="00:32:05">[00:32:05]</a>.
+*   **Pole Position Strategy:** Instead of directly competing with MetaMask on Ethereum, Phantom aimed to establish a "pole position" on an up-and-coming ecosystem (Solana), believing it was more impactful to be the #1 wallet on a new chain than #2 or #3 on an established one <a class="yt-timestamp" data-t="00:43:40">[00:43:40]</a>, <a class="yt-timestamp" data-t="00:44:00">[00:44:00]</a>.
+
+### Key Features and Practices
+Phantom's success stems from a holistic user-first approach <a class="yt-timestamp" data-t="00:56:54">[00:56:54]</a>:
+*   **Seamless UI/UX:** Solana wallets, including Phantom, are designed to be "smoother and easier to use" compared to Ethereum wallets, leading to a "magic" first-time experience for users <a class="yt-timestamp" data-t="00:54:49">[00:54:49]</a>, <a class="yt-timestamp" data-t="00:55:30">[00:55:30]</a>.
+*   **Automatic Asset Display:** Unlike early MetaMask, Phantom automatically displays NFTs and tokens in the wallet, significantly improving user experience <a class="yt-timestamp" data-t="01:09:46">[01:09:46]</a>.
+*   **User Safety Features:** Phantom pioneered features like "transaction simulation" (now an industry standard) to enhance [[challenges_and_solutions_in_crypto_security | user safety]] <a class="yt-timestamp" data-t="01:09:07">[01:09:07]</a>.
+*   **Rapid Mobile App Release:** Starting with an extension-first approach, Phantom quickly released a mobile app within 4-5 months, crucial for riding the NFT wave and catering to mobile-first users <a class="yt-timestamp" data-t="01:10:57">[01:10:57]</a>.
+
+### Importance of Customer Support
+Phantom treats customer support as a "first-class operation" with defined performance metrics like time to resolve tickets and response velocity <a class="yt-timestamp" data-t="00:59:36">[00:59:36]</a>. This contrasts sharply with the common crypto practice of directing users to Discord for support <a class="yt-timestamp" data-t="00:57:48">[00:57:48]</a>, and leverages decades of proven models from Web 2.0 <a class="yt-timestamp" data-t="00:58:02">[00:58:02]</a>. Having robust support systems in place is critical to handle the "crashing waves" of user adoption common in crypto <a class="yt-timestamp" data-t="00:59:05">[00:59:05]</a>.
+
+## Impact on Crypto Adoption
+
+Phantom's user-centric design has had a "huge role" in Solana's success, setting the bar for usability and UX/UI within the ecosystem <a class="yt-timestamp" data-t="00:54:29">[00:54:29]</a>. The frictionless experience provided by Phantom helped onboard a new demographic of users to Solana, especially those who couldn't afford high gas fees on Ethereum <a class="yt-timestamp" data-t="01:15:48">[01:15:48]</a>. This new wave of users, characterized by behaviors like buying lower market cap NFTs and being mobile-first, indicated a broader adoption of crypto beyond traditional early adopters <a class="yt-timestamp" data-t="01:16:54">[01:16:54]</a>.
+
+## Future Outlook
+
+The industry is moving towards an "internet native finance system" <a class="yt-timestamp" data-t="01:33:36">[01:33:36]</a>. Each speculative wave (ICOs, DeFi Summer, NFTs, meme coins) brings in new capital and users, leading to the development of infrastructure and bringing the industry closer to realizing "true utility of crypto" <a class="yt-timestamp" data-t="01:24:08">[01:24:08]</a>. The recent "unlocking" of crypto on mobile, combined with financial infrastructure advancements like Stripe's entry into stablecoins, makes the vision of real-world payments with crypto (peer-to-peer and user-to-merchant) achievable in the next 24 months <a class="yt-timestamp" data-t="01:24:48">[01:24:48]</a>, <a class="yt-timestamp" data-t="01:44:32">[01:44:32]</a>.
+
+Phantom's goal is to "eat tradfi" by offering a better, more accessible, and faster way to perform common financial tasks like sending money or accessing investment opportunities <a class="yt-timestamp" data-t="01:41:44">[01:41:44]</a>, <a class="yt-timestamp" data-t="01:41:20">[01:41:20]</a>. This means positioning Phantom as the primary tool users reach for, over traditional finance apps, by providing earlier access to "the bleeding edge" of new financial opportunities <a class="yt-timestamp" data-t="01:36:03">[01:36:03]</a>. The growth of on-chain activity and the explosion of tokens mean that traditional centralized exchanges, with their slower listing models, will struggle to compete with the speed and breadth offered by decentralized platforms accessible through wallets like Phantom <a class="yt-timestamp" data-t="01:37:30">[01:37:30]</a>, <a class="yt-timestamp" data-t="01:38:20">[01:38:20]</a>.

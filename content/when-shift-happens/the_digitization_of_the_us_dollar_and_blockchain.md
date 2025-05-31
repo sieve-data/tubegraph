@@ -1,0 +1,12 @@
+---
+title: The Digitization of the US Dollar and Blockchain
+videoId: 0_mIQlTE-KM
+---
+
+From: [[when-shift-happens]] <br/> 
+
+In 2017, while Anthony Scaramucci was at the White House, two Federal Reserve officials published a white paper concerning the digitization of the US dollar over the [[the_evolution_of_digital_wallets_and_blockchain | blockchain]] <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, <a class="yt-timestamp" data-t="00:40:22">[00:40:22]</a>. This concept was explicitly linked to [[bitcoin_valuation_and_future_predictions | Bitcoin]] <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>, <a class="yt-timestamp" data-t="00:40:44">[00:40:44]</a>.
+
+At the time, Scaramucci, then 53, admitted he thought [[bitcoin_valuation_and_future_predictions | Bitcoin]] was "bullshit" and didn't understand it <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>, <a class="yt-timestamp" data-t="00:40:51">[00:40:51]</a>. However, hearing Federal Reserve officials discuss digitizing the US dollar on the [[the_evolution_of_digital_wallets_and_blockchain | blockchain]] made him realize he needed to "get up to speed" <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>, <a class="yt-timestamp" data-t="00:41:01">[00:41:01]</a>. He felt a responsibility to himself and his family to understand this emerging area <a class="yt-timestamp" data-t="00:41:03">[00:41:03]</a>, <a class="yt-timestamp" data-t="00:41:07">[00:41:07]</a>.
+
+Scaramucci, who previously met Hal Finney in 2012 and failed to grasp [[bitcoin_valuation_and_future_predictions | Bitcoin]] at that time <a class="yt-timestamp" data-t="00:40:01">[00:40:01]</a>, <a class="yt-timestamp" data-t="00:40:07">[00:40:07]</a>, took action. After being fired from the White House, he returned to Skybridge and bought the URL bitcoin.com <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>, <a class="yt-timestamp" data-t="00:41:11">[00:41:11]</a>. This event marked a significant turning point in his understanding and involvement with [[crypto_adoption_and_the_role_of_blockchain_in_future_investments | cryptocurrency]] <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. He then began to diligently study [[bitcoin_valuation_and_future_predictions | Bitcoin]] <a class="yt-timestamp" data-t="00:41:17">[00:41:17]</a>.

@@ -1,0 +1,43 @@
+---
+title: Impact of mental health on creativity and business
+videoId: Q45DzzlgBuw
+---
+
+From: [[when-shift-happens]] <br/> 
+
+Entrepreneurship, while often portrayed as a path to success and freedom, can present significant mental health challenges. Julian, founder and chief designer at Black Paris, shares his personal journey, highlighting how mental health struggles influenced his creative output and business development, and how he learned to navigate these challenges.
+
+## Leveraging Darkness for Creativity
+Julian's brand, Black Paris, was born during a "very dark time" in his life <a class="yt-timestamp" data-t="00:35:09">[00:35:09]</a>. He believes that "in every sadness there is like a beautiful creativity that goes out of it" <a class="yt-timestamp" data-t="00:48:00">[00:48:00]</a>. He states that many creative individuals and artists find their biggest inspiration in dark moments <a class="yt-timestamp" data-t="00:59:59">[00:59:59]</a>. Julian emphasizes that even entrepreneurs, in their worst moments, can find opportunities if they "take a step back" and "rise from that" <a class="yt-timestamp" data-t="01:04:04">[01:04:04]</a>.
+
+## Personal Mental Health Journey
+Julian reveals he was recently diagnosed with a bipolar disorder, though he always felt something was "off" <a class="yt-timestamp" data-t="09:27:00">[09:27:00]</a>, with his moods being "really extreme," everything feeling "black or white" <a class="yt-timestamp" data-t="09:37:00">[09:37:00]</a>. He notes that he was a very sensitive guy and needed to protect himself <a class="yt-timestamp" data-t="39:53:00">[39:53:00]</a>.
+
+He experienced significant anxiety for the first time around age 19-20 during a co-founder issue <a class="yt-timestamp" data-t="01:32:00">[01:32:00]</a>. His anxiety manifested as a blocked stomach, difficulty eating, a fast heart rate, and trouble sleeping due to constant overthinking <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>. This was a turning point, as he realized he needed to take control of his business and work alone to avoid such issues <a class="yt-timestamp" data-t="01:47:00">[01:47:00]</a>.
+
+Another period of depression hit around age 24, triggered by the monotony of his web design agency and a difficult breakup from a five-year relationship <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>. This low point, however, became the catalyst for building Black Paris, channeling his sadness into the creation of a "super luxury," "unreachable," "all black" brand <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>.
+
+Julian also shared the profound impact of his father's cancer diagnosis and a friend's suicide on his life <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>. These events forced him to confront the finite nature of life and deepened his empathy <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>, although he notes they did not directly impact his business approach <a class="yt-timestamp" data-t="01:39:00">[01:39:00]</a>.
+
+## Strategies for [[managing_mental_health_and_burnout_in_the_social_media_industry | Managing Mental Health]] in Business
+Julian employs several strategies to maintain his [[mental_health_and_personal_development | mental health]] amidst the pressures of entrepreneurship:
+
+*   **Utilizing Drive and Motivation**: He believes an inner "drive" and passion for what he does are crucial for pushing through dark times <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>. His fear of failure, instilled by his parents, also acts as a motivator <a class="yt-timestamp" data-t="00:55:00">[00:55:00]</a>.
+*   **"Tricking" His Brain**: When feeling down, he "tricks" his brain by lying to himself "with good arguments" to find the best in a situation or reframe a negative one <a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a>. This allows him to quickly move past difficult emotions <a class="yt-timestamp" data-t="00:39:00">[00:39:00]</a>.
+*   **Confidence and Ego**: Julian sees ego as a "big solution" that fosters self-belief and enables decision-making without external influence <a class="yt-timestamp" data-t="00:53:00">[00:53:00]</a>. He believes confidence is the most important factor in success <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>. However, he also recognizes that ego can be detrimental if it prevents trying new things or acknowledging limits <a class="yt-timestamp" data-t="00:56:00">[00:56:00]</a>.
+*   **Authenticity vs. External Validation**: While he initially engaged in social media for external validation to build his brand's credibility <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>, he later realized the negative impact of constantly seeking engagement on his personal mood <a class="yt-timestamp" data-t="02:57:00">[02:57:00]</a>. He stopped being as active on his personal Instagram, preferring to focus on his business account which is less tied to his personal identity <a class="yt-timestamp" data-t="02:57:00">[02:57:00]</a>. This shift significantly improved his [[managing_mental_health_and_burnout_in_the_social_media_industry | mental health]] <a class="yt-timestamp" data-t="02:57:00">[02:57:00]</a>.
+*   **Self-Love and Self-Awareness**: Julian openly states he loves himself "too much already" <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>, seeing it as crucial for loving others <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>. He believes solitude allows for self-discovery and self-love <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>. He also stresses the importance of being impartial with oneself, acknowledging both strengths and weaknesses <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>.
+*   **Balancing Life Pillars**: Julian views life as having three main pillars: self-relationship, romantic relationship, and work <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>. When one area struggles, like a breakup, focusing energy on work can provide a healthy balance and confidence <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>.
+
+## Impact of Co-Founder Issues on Mental Health
+Julian highlights that co-founder issues are a significant, often overlooked, reason for business failure, even more so than cash flow or product-market fit <a class="yt-timestamp" data-t="00:40:00">[00:40:00]</a>. He describes how ego and insecurity can "derail the whole thing" <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>. His first experience with anxiety was directly linked to a co-founder relationship where "too much ego from both sides" created conflict <a class="yt-timestamp" data-t="00:43:00">[00:43:00]</a>. This experience taught him the importance of being the sole founder or having a clearly defined leader with decision-making power <a class="yt-timestamp" data-t="00:45:00">[00:45:00]</a>. He advises new entrepreneurs to start alone if they have a strong vision, as this allows for better control and clarity <a class="yt-timestamp" data-t="00:47:00">[00:47:00]</a>.
+
+## Evolution of Success and Perspective
+Julian's definition of success has evolved. Initially, it was about proving himself through luxury brands <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Now, he sees luxury as a concept "invented for the poor" <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>, used by insecure people who need to "prove that I am someone" <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>. For Julian, knowing who he is means wearing a Zara t-shirt is "even more a flex" <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
+
+He acknowledges that his journey of [[mindset_and_personal_growth_in_entrepreneurship | mindset and personal growth]] to become his "most authentic version" has been a recent development <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>. He believes that continuous "trying" and learning from mistakes are key to accelerated success, stating, "the faster you try, the faster you fail, the faster you fail, the faster you learn, the faster you get to success" <a class="yt-timestamp" data-t="02:12:00">[02:12:00]</a>.
+
+> "The faster you try, the faster you fail, the faster you fail, the faster you learn, the faster you get to success." <a class="yt-timestamp" data-t="02:12:00">[02:12:00]</a>
+> — Julian
+
+Ultimately, Julian's experience highlights the profound and multifaceted [[impact_of_entrepreneurship_on_mental_health | impact of entrepreneurship on mental health]], demonstrating how personal struggles can be transformed into creative and business successes when approached with self-awareness, resilience, and a willingness to learn and adapt.
