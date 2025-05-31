@@ -1,0 +1,77 @@
+---
+title: Current global debt crisis and its impact on the economy
+videoId: kvuIbrSJ43E
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Global debt has reached unprecedented levels, particularly since the 2020 crisis, prompting warnings from investors like Warren Buffett and Ray Dalio about potential serious consequences for both the [[impacts_of_global_crises_on_the_economy | economy]] and the stock market <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. This situation is critical for anyone with investments or debts <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+
+## Alarming Levels of Global Debt
+
+Global aid has grown to alarming levels in recent years <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. According to data published by the Institute of International Finance, the total global debt—summing corporate, government, and individual debt—stands at $270 trillion <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. In contrast, the global gross domestic product (GDP) is only $80 trillion <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. This translates to every inhabitant of Earth owing more than $35,000 per person <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. The 2020 crisis exacerbated this situation, pushing debt levels to record highs <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+
+The International Monetary Fund (IMF) has noted that when a government's debt exceeds 77% of its GDP, it leads to serious consequences for future growth <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. Most developed countries, including Spain, Europe, and the USA, have already surpassed this limit <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+## The Era of Negative Interest Rates
+
+This record debt has occurred while interest rates are at minimums <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. A key concern is what will happen when interest rates inevitably rise, forcing individuals, corporations, and governments to service massive debts at a much higher cost <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+
+Over the past five years, the global economy has witnessed something unusual: negative interest rates <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>, an event that has occurred only once in the last 300 years of economic history <a class="yt-timestamp" data-t="00:02:05">[00:02:05]</a>. Central banks have consistently lowered rates to combat crises <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. However, with rates at zero, this tool is no longer available <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>, leading to a situation where people are essentially paying to lend money <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. For instance, lending money to the German government via 10-year bonds with a negative yield of 0.6% annually guarantees a loss <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>.
+
+Despite guaranteed losses upon maturity, the demand for these debt bonds (in dollars and euros) is extremely high, with trillions flowing into the market daily <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. This phenomenon is driven by speculation: if the negative yield becomes even more negative, the bond's price on the stock market rises, allowing for profit <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. This creates a high-stakes "Russian roulette" scenario in the debt market <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+
+## The Debt Market's Influence
+
+The debt market is significantly larger than the stock market <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>. In the US alone, the debt market is estimated at $40 trillion, double the size of the stock market's $20 trillion <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. Daily trading volume in debt is around $700 million, compared to $200 billion for stocks <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Therefore, developments in the debt market have a major [[impact on global financial markets | impact on stocks]] and the [[impacts_of_global_crises_on_the_economy | economy]] <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>.
+
+Debt with negative interest rates is at record levels, skyrocketing to $17 trillion globally since 2015 <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. Crises rooted in high debt levels are typically the most severe in the current economic system, as credit is essential for economic function <a class="yt-timestamp" data-t="00:04:20">[00:04:20]</a>. The 2008 financial crisis, which involved significant sub-prime mortgage debt, had severe consequences, unlike the milder 2000 tech bubble crisis which did not involve debt <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
+
+## Expert Warnings and the Credit Bubble
+
+Ray Dalio, who manages the world's largest investment fund, has warned that the world will be "very different" in the next five years <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. He emphasizes that with interest rates at 0%, asset prices can no longer be pushed higher by monetary stimulus, meaning central banks' tools will be ineffective in future crises <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. Dalio suggests that the stock market and markets will have a greater effect on the [[impacts_of_global_crises_on_the_economy | economy]] than the [[impacts_of_global_crises_on_the_economy | economy]] on the markets <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. If the debt market falls, credit flow will cease, leading to significant economic difficulties <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+
+Debt crises are often triggered by aggressive rises in interest rates <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>, as seen in 2008 <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>. Central banks have issued large amounts of new money to finance issues from the 2020 crisis <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. This new money typically causes [[inflation_and_its_impact_on_the_economy | inflation]] <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>. [[inflation_and_its_impact_on_the_economy | Inflation]] is the primary factor central banks consider when raising interest rates to balance the [[impacts_of_global_crises_on_the_economy | economy]] <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. Therefore, future [[inflation_and_its_impact_on_the_economy | inflation]], likely due to money printing, could trigger a fall in the debt market <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
+
+## Strategies for Protection and Benefit
+
+### For Individuals with Debt
+*   **Long-term debts**: Ideally, these should be at a fixed rate to lock in today's low interest rates <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. If [[inflation_and_its_impact_on_the_economy | inflation]] appears, the value of assets like homes may rise, while fixed debt costs remain stable <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.
+*   **Short-term debts**: Refinance debts with high interest rates (e.g., credit cards at 25-30% annually) to lower personal loan rates (e.g., 8-12%) <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>.
+*   **Saving**: Accumulating savings is crucial. When credit flow stops, liquidity becomes the most valuable asset, enabling investments at favorable prices <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>.
+
+### For Investors
+*   **Avoid highly indebted companies**: Rising interest rates could bankrupt companies with high debt <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. This risk is amplified for cyclical businesses like banks, construction companies, or airlines <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>. While some believe banks benefit from rising rates, increased delinquency due to loan defaults can counteract this <a class="yt-timestamp" data-t="00:08:15">[00:08:15]</a>. Warren Buffett has begun reducing investments in the banking sector <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+*   **Avoid investing using debt**: When economic cycles turn and opportunities emerge, credit will only be available to solvent investors <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. This is when strategic borrowing to seize market opportunities is beneficial <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
+*   **Accumulate liquidity**: Warren Buffett has been accumulating record levels of liquidity, reaching an impressive $140 billion in Berkshire Hathaway, nearly $100 billion accumulated in five years <a class="yt-timestamp" data-t="00:08:57">[00:09:02]</a>. This strategy positions him to take advantage of future problems <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+*   **Invest in companies with strong liquidity, attractive valuation, and growth potential**: Companies that grow through acquisitions, like Berkshire Hathaway, can benefit from crises <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>. A crisis means more acquisition targets and less competition due to tighter credit, allowing liquid companies to make prime acquisitions <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>. Buffett has consistently used this pattern during crises in 2000, 2002, and 2008 <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>.
+
+### Investing Against Bonds or Debt (High Risk)
+Investing against bonds or debt carries high risk and requires significant experience <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>. For the average investor, this is complicated due to minimum operation sizes and market opaqueness <a class="yt-timestamp" data-t="00:10:46">[00:10:46]</a>. However, inverse debt ETFs (Exchange Traded Funds) have emerged to facilitate this <a class="yt-timestamp" data-t="00:10:54">[00:10:54]</a>.
+*   **US Debt**: The Proshares LTE FE (ticker: TVEFE) invests against the 20-year American bond <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>. Its performance has generally not been good, as high maintenance costs limit benefits if the debt market does not fall within a reasonable timeframe <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>.
+*   **European Debt**: The WS LT EFE (ticker: XSV) invests against European debt <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>. Its behavior has also been unsatisfactory during recent years <a class="yt-timestamp" data-t="00:11:38">[00:11:38]</a>.
+
+## Investment Opportunity Examples
+
+### Cisco Systems
+*   **Ticker**: CSCO (US) <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>
+*   **Overview**: A leading company in technological infrastructure products, known for stable sales resistant to crises <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>. It has excellent liquidity and is debt-free <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>.
+*   **Financial Situation**: Expected to end 2021 with over $17 trillion in debt-free liquidity, useful for acquisitions, business investment, or share buybacks during crises <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. Investors can check a company's liquidity via its annual report (financial balance sheet) or websites like marketskinner.com <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
+*   **Valuation**: Expected earnings per share (EPS) of around $3 for 2021 <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>. As a mature company, its growth potential is limited, possibly reaching $4 EPS in 3-5 years <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>. Valued at 15 times earnings, this suggests a target price of $60 per share, a limited but crisis-resistant potential <a class="yt-timestamp" data-t="00:13:49">[00:13:49]</a>.
+
+### Constellation Software
+*   **Ticker**: CSU (Canada) <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>
+*   **Overview**: One of the best technology stocks, multiplying by over 80 times in 12 years with an average annual return of over 25% <a class="yt-timestamp" data-t="00:14:39">[00:14:39]</a>. TrueValió investment fund first bought shares in 2014 at $200 per share, multiplying by over 8 times since <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>.
+*   **Characteristics for Debt Crisis**: Possesses significant liquidity, grows through acquisitions (benefiting from cheaper targets in crises), and has a resilient business model <a class="yt-timestamp" data-t="00:15:02">[00:15:02]</a>.
+*   **Crisis Performance**: Revenue grew from $200 million to over $700 million between 2006 and 2011, even during the worst years of the 2008 crisis (2008, 2009, 2010) <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>. Gross profit also doubled in those years <a class="yt-timestamp" data-t="00:15:54">[00:15:54]</a>. (Data from caer.com, which offers historical data for 15-20 years <a class="yt-timestamp" data-t="00:16:04">[00:16:04]</a>).
+*   **Valuation**: Future growth rate confirmed to be lower than in the past, but still potentially 15% annually <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>. With a reasonable current valuation, shares could reach $3,000 per share from the current $1,600, yielding an average annual return of 15% <a class="yt-timestamp" data-t="00:16:36">[00:16:36]</a>. It offers additional upside if a debt crisis appears, as seen in its excellent performance during 2008 <a class="yt-timestamp" data-t="00:16:58">[00:16:58]</a>.
+
+### Oracle
+*   **Ticker**: ORCL (US) <a class="yt-timestamp" data-t="00:17:33">[00:17:33]</a>
+*   **Overview**: Another top technology company, its shares have multiplied over 100 times in the last 30 years <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>. Oracle provides important business management software, ensuring predictable income, high profit margins, and a high return on equity <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>.
+*   **Crisis Performance**: Demonstrated excellent performance during economic crises, such as in 2008 <a class="yt-timestamp" data-t="00:17:58">[00:17:58]</a>.
+*   **Liquidity**: Oracle is among American companies with the highest levels of liquidity on their balance sheets, alongside Apple, Berkshire Hathaway, and Google <a class="yt-timestamp" data-t="00:18:04">[00:18:04]</a>.
+*   **Valuation**: As a mature company, its future growth is stable <a class="yt-timestamp" data-t="00:18:30">[00:18:30]</a>. Earnings per share could rise to nearly $5 in 3-5 years <a class="yt-timestamp" data-t="00:18:33">[00:18:33]</a>. Valuing it at its historical average of approximately 20 times earnings, a target price of $100 per share is suggested, an interesting potential compared to its current $60 <a class="yt-timestamp" data-t="00:18:39">[00:18:39]</a>. Oracle is a predictable, highly liquid, and crisis-resistant company <a class="yt-timestamp" data-t="00:18:52">[00:18:52]</a>.
+
+---
+**Disclaimer**: All content presented is for educational purposes. Investing in stocks requires personal analysis and individuals are responsible for their own buying and selling decisions <a class="yt-timestamp" data-t="00:17:10">[00:17:10]</a>.

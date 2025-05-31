@@ -5,88 +5,116 @@ videoId: pqt4GDZYW7U
 
 From: [[artedeinvertir]] <br/> 
 
-Learning from the "10 best investment books of all time" can provide knowledge and abilities superior to the average market participant <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. These books, some with a hundred years of history, are written by individuals who have successfully managed investments with their own money or investors' funds <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. The cost of acquiring these ten books is estimated at around 200 euros, but the potential to transform one's performance in the stock market is tremendous <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+To gain superior knowledge and abilities in the stock market, reading and applying the lessons from key investment books is essential <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>. This curated list features ten influential books written by successful investors who have managed their own capital or that of others <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. Many of these texts offer accumulated wisdom spanning decades, some even a century <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>. The investment in these books (around 200 euros) is considered minimal compared to their potential to transform stock market performance <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>.
 
-## Recommended Investment Books
+## 1. The Intelligent Investor
 
-### 1. The Intelligent Investor
-*   **Author**: Benjamin Graham <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>
-*   **Significance**: Considered the "bible of investments" <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. Graham was the teacher and mentor of [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Warren Buffett]] <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
-*   **Content**: It covers all the basics necessary for getting started in the world of investment <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
-*   **Difficulty**: Medium, balancing basic and more advanced concepts <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
-*   **Key Concepts**:
-    *   **Market Psychology**: Introduces the figure of "Mr. Market," defining the stock market as a "manic-depressive entity" that fluctuates between euphoria and depression <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>.
-    *   **Margin of Safety**: Proposes buying a stock significantly below its estimated intrinsic value (e.g., at $10-12 instead of $20) to account for unforeseen events and uncertainty <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. This is a crucial concept for [[cautious_investment_advice_from_experts | cautious investment advice]] <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>.
-    *   **Business Valuation**: Explains basic accounting concepts for business valuation <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
-    *   **Market Beating Method**: Graham's method involved buying a portfolio of around 50 stocks trading cheaply based on book value metrics and rotating them regularly to beat the market <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
-*   **Recommendation**: Recommended as the first book to read for those starting out in [[stock_investment_advice | stock investment]] <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>.
+*   **Author:** Benjamin Graham <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>
+*   **Difficulty:** Medium <a class="yt-timestamp" data-t="01:59:00">[01:59:00]</a>
 
-### 2. One Up On Wall Street
-*   **Author**: Peter Lynch <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>
-*   **Content**: A very entertaining and accessible book, considered a staple for investors <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. It explains the difference between long-term returns on stocks and bonds, and delves into the psychological side of investing <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.
-*   **Author's Background**: Peter Lynch was a famous investment fund manager with one of the best records in the industry <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. For 13 years, he managed the Magellan Fund, generating average annual returns of around 30% and growing assets from tens of millions to nearly $15 trillion <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>.
-*   **Key Concepts**:
-    *   **Stock Classification**: Divides stocks into six groups and explains the characteristics to look for <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>.
-    *   **Business Valuation**: Introduces basic accounting concepts for business valuation in a simple yet useful way <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
-*   **Outcome**: Reading this book helps investors avoid being "losers" in the stock market and provides the knowledge to start analyzing stocks, creating valuation models, and understanding the stock market as a mechanism for generating long-term wealth <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+Often referred to as the "bible of investments," *The Intelligent Investor* is considered Benjamin Graham's masterpiece <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>. Graham was the teacher and mentor of [[investment_strategies_of_famous_investors_like_ray_dalio_and_warren_buffett | Warren Buffett]] <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>. The book covers all the fundamental concepts necessary for beginning in the world of investment <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>.
 
-### 3. Beating the Street
-*   **Author**: Peter Lynch <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>
-*   **Content**: This is the second part of *One Up On Wall Street* <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>. It includes many examples with different stocks and is written in a diary-like mode <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>. Lynch explains his discoveries and what he focused on during his 13 years of fund management <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>.
-*   **Practical Application**: The book includes a real-time experiment where Lynch selects a portfolio of stocks and monitors their performance, providing a real-life example of managing a portfolio through the eyes of a professional investor <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. He reviews the portfolio every six months, noting which stocks have risen or fallen, and discusses buying or selling decisions <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>.
+Key takeaways include:
+*   **Market Psychology:** Graham introduces the concept of "Mister Market," defining the stock market as a manic-depressive entity that fluctuates between euphoria and depression <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>.
+*   **Margin of Safety:** This vital concept suggests that if a stock is valued at $20, it should be purchased at a significantly lower price, such as $10-$12, to account for unforeseen events and uncertainty <a class="yt-timestamp" data-t="02:24:00">[02:24:00]</a>.
+*   **Business Valuation:** The book explains basic accounting principles crucial for valuing businesses <a class="yt-timestamp" data-t="02:52:00">[02:52:00]</a>.
+*   **Beating the Market:** Graham's method involved buying a portfolio of approximately 50 stocks trading cheaply based on book value metrics and rotating them regularly <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>.
 
-### 4. You Can Be a Stock Market Genius
-*   **Author**: Joel Greenblatt <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>
-*   **Difficulty**: Advanced <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
-*   **Author's Background**: Greenblatt generated an annual return of 50% during the first ten years of managing his fund, multiplying initial investors' money by 50% <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>.
-*   **Content**: The book details Greenblatt's best investments with specific numbers and dates, explaining how he found them and their performance over time <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
-*   **Key Concept**: Focuses on "special situations," which are the most inefficient and ignored areas of the market, such as companies emerging from bankruptcy, spin-offs, or highly indebted companies <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. Many famous investors have found it highly valuable <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
+This book is highly recommended as the first read for anyone starting their [[investment_strategies_and_advice | investment]] journey in the stock market <a class="yt-timestamp" data-t="03:18:00">[03:18:00]</a>.
 
-### 5. Reminiscences of a Stock Operator
-*   **Author**: Edwin Lefèvre (biography of Jesse Livermore) <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>
-*   **Significance**: A novel-like biography of Jesse Livermore, considered one of the best speculators in stock market history <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. Livermore became one of the richest people in the world, notably profiting from betting on the market's fall during the 1929 stock market crash <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>.
-*   **Content**: It follows Livermore's growth as an investor, including periods of wealth generation and multiple bankruptcies <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>.
-*   **Key Insight**: Despite being written about experiences from 100 years ago, the book highlights how little the stock market has changed in terms of psychology and mass behavior <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>.
+## 2. One Up On Wall Street
 
-### 6. Buffettology
-*   **Author**: Mary Buffett (Warren Buffett's daughter-in-law) <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>
-*   **Difficulty**: Low <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
-*   **Content**: Exposes the [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | investment style of Warren Buffett]], one of the most successful stock market investors <a class="yt-timestamp" data-t="00:08:30">[00:08:30]</a>. Buffett's success stems from combining two concepts:
-    *   **Value Investing**: Learning from Benjamin Graham, this involves understanding businesses and buying them cheaply <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>.
-    *   **Quality Investing**: Not just buying the cheapest, but focusing on quality businesses and holding them long-term <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
-*   **Recommendation**: Highly practical and recommended for beginners to [[investment_education_and_strategies | investment education and strategies]] <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>. While Buffett himself has not written a book on his investment style, his annual letters are also recommended <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>.
+*   **Author:** Peter Lynch <a class="yt-timestamp" data-t="03:33:00">[03:33:00]</a>
+*   **Difficulty:** Medium <a class="yt-timestamp" data-t="03:49:00">[03:49:00]</a>
 
-### 7. Common Stocks and Uncommon Profits
-*   **Author**: Philip A. Fisher <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>
-*   **Difficulty**: Medium to High <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>.
-*   **Influence**: Fisher greatly influenced [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Warren Buffett]], who stated he is "80% Benjamin Graham and 20% Phil Fisher" <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>.
-*   **Content**: Focuses on a quality [[investment_advice_and_strategies_from_top_investors | investment style]], where investors are willing to pay a higher price for extraordinary companies <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>. These companies typically have very high expected future growth <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>.
-*   **Key Concepts**: Teaches how to identify commonalities in such stocks and what questions to ask when evaluating them <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>. Fisher emphasized solid businesses with large potential markets and good management over mere numerical analysis <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>. The book includes a valuable checklist of questions <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>. Applying these concepts could have helped identify companies like Apple, Microsoft, and Amazon in their early days <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>.
+An entertaining and accessible book, *One Up On Wall Street* is a staple in any investor's library <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a>. Peter Lynch, a renowned investment fund manager, achieved an average annual return of about 30% for 13 years managing the Magellan Fund, growing it from tens of millions to nearly $15 trillion <a class="yt-timestamp" data-t="04:15:00">[04:15:00]</a>.
 
-### 8. The Alchemy of Finance
-*   **Author**: George Soros <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>
-*   **Difficulty**: High <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>.
-*   **Author's Background**: George Soros is considered the most successful modern speculator from the 1960s and 70s, accumulating immense wealth <a class="yt-timestamp" data-t="00:11:46">[00:11:46]</a>. His style is based more on speculation and shorter-term operations, sometimes using debt <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>.
-*   **Key Concept**: Popularized the concept of "reflexivity in the markets," explaining how the price of a stock or asset can directly influence its fundamentals and real-life behavior <a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>.
-*   **Practical Application**: The second part of the book includes a diary where Soros explains his portfolio movements and reasoning over about two years, which remains relevant today <a class="yt-timestamp" data-t="00:12:45">[00:12:45]</a>.
+The book discusses:
+*   The difference between long-term returns on stocks and bonds <a class="yt-timestamp" data-t="04:04:00">[04:04:00]</a>.
+*   The psychological aspects of investing <a class="yt-timestamp" data-t="04:08:00">[04:08:00]</a>.
+*   A classification of stocks into six distinct groups <a class="yt-timestamp" data-t="04:38:00">[04:38:00]</a>.
+*   Basic accounting concepts for business valuation presented in a simple, useful manner <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>.
 
-### 9. Value Investing: From Graham to Buffett and Beyond
-*   **Author**: Bruce C. N. Greenwald <a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>
-*   **Difficulty**: Medium <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a>.
-*   **Author's Background**: Greenwald is a university professor and a successful investor <a class="yt-timestamp" data-t="00:13:14">[00:13:14]</a>.
-*   **Content**: Differentiates itself from typical academic investment books by providing many practical, real-life examples <a class="yt-timestamp" data-t="00:13:32">[00:13:32]</a>.
-*   **Key Concepts**: Covers essential [[investment_education_and_strategies | investment education and strategies]] concepts such as:
-    *   Margin of safety <a class="yt-timestamp" data-t="00:13:50">[00:13:50]</a>
-    *   Intrinsic value <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>
-    *   Understanding competitive advantages of businesses <a class="yt-timestamp" data-t="00:13:53">[00:13:53]</a>
-    *   Identifying a "value trap" <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a>
-    *   Different ratios used in value investing (PER, book value, cost of capital) <a class="yt-timestamp" data-t="00:13:59">[00:13:59]</a>
-*   **Outcome**: Provides the necessary tools for understanding and applying the value investing style <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>.
+Reading this book can help investors avoid common pitfalls and gain the knowledge needed to analyze stocks and understand the stock market as a mechanism for long-term wealth generation <a class="yt-timestamp" data-t="04:57:00">[04:57:00]</a>.
 
-### 10. The Confusion of Confusions (Confusión de Confusiones)
-*   **Author**: Joseph de la Vega (José Penso de la Vega) <a class="yt-timestamp" data-t="00:14:25">[00:14:25]</a>
-*   **Significance**: Considered the first book ever written about the stock market, published over 300 years ago <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>. The original edition was recently auctioned for over $300,000 <a class="yt-timestamp" data-t="00:14:32">[00:14:32]</a>.
-*   **Content**: It tells anecdotes from 300 years ago that remain perfectly valid today <a class="yt-timestamp" data-t="00:14:36">[00:14:36]</a>.
-*   **Key Insight**: Highlights that the stock market has changed little in terms of psychology or mass behavior over centuries, making historical books like this special and highly interesting <a class="yt-timestamp" data-t="00:14:43">[00:14:43]</a>.
+## 3. Beating the Street
 
-By reading these books, individuals can gain significant knowledge about the stock market and [[investment_education_and_strategies | investment strategies]] <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>.
+*   **Author:** Peter Lynch <a class="yt-timestamp" data-t="05:16:00">[05:16:00]</a>
+
+This book serves as a continuation of *One Up On Wall Street*, offering numerous [[case_studies_of_successful_and_challenging_investments | examples]] with various stocks <a class="yt-timestamp" data-t="05:26:00">[05:26:00]</a>. Written in a diary-like format, it details Peter Lynch's observations and decision-making processes throughout his 13 years of fund management <a class="yt-timestamp" data-t="05:31:00">[05:31:00]</a>.
+
+The latter part of the book includes a real-time experiment where Lynch selects a portfolio of stocks and monitors their performance, providing a practical example of how a professional investor manages a portfolio over time, reviewing stocks, and deciding what to buy or sell <a class="yt-timestamp" data-t="05:45:00">[05:45:00]</a>. The practical approach from an experienced market participant makes this book highly valuable <a class="yt-timestamp" data-t="06:07:00">[06:07:00]</a>.
+
+## 4. You Can Be a Stock Market Genius
+
+*   **Author:** Joel Greenblatt <a class="yt-timestamp" data-t="06:21:00">[06:21:00]</a>
+*   **Difficulty:** Advanced <a class="yt-timestamp" data-t="06:17:00">[06:17:00]</a>
+
+This book is a favorite among advanced readers, described as having "tremendous teachings" <a class="yt-timestamp" data-t="06:20:00">[06:20:00]</a>. Joel Greenblatt achieved an astounding 50% annual return during the first ten years of managing his fund, causing initial investors to multiply their money fiftyfold <a class="yt-timestamp" data-t="06:28:00">[06:28:00]</a>.
+
+The book focuses on [[investment_strategies_and_philosophies | investment strategies]] in "special situations" – the most inefficient and ignored areas of the market <a class="yt-timestamp" data-t="07:00:00">[07:00:00]</a>. This includes companies emerging from bankruptcy, spin-offs, or those with significant debt <a class="yt-timestamp" data-t="07:05:00">[07:05:00]</a>. Greenblatt explains his best [[case_studies_of_successful_and_challenging_investments | investments]] with numerical details, dates, and how he identified and monitored them <a class="yt-timestamp" data-t="06:48:00">[06:48:00]</a>. Many [[famous_investors_and_their_principles | famous investors]] credit this book for their success <a class="yt-timestamp" data-t="07:13:00">[07:13:00]</a>.
+
+## 5. Memoirs of a Stock Market Operator
+
+*   **Author:** Edwin Lefèvre (biography of Jesse Livermore) <a class="yt-timestamp" data-t="07:21:00">[07:21:00]</a>
+*   **Difficulty:** Novel component <a class="yt-timestamp" data-t="07:23:00">[07:23:00]</a>
+
+This book is more of a novel and biography of Jesse Livermore, arguably the greatest speculator in stock market history <a class="yt-timestamp" data-t="07:27:00">[07:27:00]</a>. Livermore became one of the world's wealthiest individuals, most notably profiting from his bearish bets during the 1929 stock market crash <a class="yt-timestamp" data-t="07:35:00">[07:35:00]</a>.
+
+The narrative follows Livermore's growth as an investor, including periods of immense wealth generation alongside multiple bankruptcies <a class="yt-timestamp" data-t="07:51:00">[07:51:00]</a>. Despite being written with experiences from a century ago, the core principles of stock market psychology and mass behavior remain highly relevant today, making it a compelling historical read <a class="yt-timestamp" data-t="08:05:00">[08:05:00]</a>.
+
+## 6. Buffettology
+
+*   **Author:** Mary Buffett and David Clark <a class="yt-timestamp" data-t="08:21:00">[08:21:00]</a>
+*   **Difficulty:** Low <a class="yt-timestamp" data-t="08:27:00">[08:27:00]</a>
+
+*Buffettology* exposes the [[investment_strategies_of_famous_investors_like_ray_dalio_and_warren_buffett | investment style of Warren Buffett]], one of the most [[investment_strategies of legendary investors | successful investors]] in history <a class="yt-timestamp" data-t="08:30:00">[08:30:00]</a>. Buffett's success stems from combining two key concepts:
+*   **Value Investing:** Learning from Benjamin Graham to understand and buy businesses cheaply <a class="yt-timestamp" data-t="08:40:00">[08:40:00]</a>.
+*   **Quality Investing:** Not only buying the cheapest, but also focusing on quality businesses with enduring competitive advantages ("moats") for long-term holding <a class="yt-timestamp" data-t="08:50:00">[08:50:00]</a>.
+
+Written by Buffett's daughter-in-law, the book provides a unique, accessible insight into his numerical and qualitative investment approach <a class="yt-timestamp" data-t="09:00:00">[09:00:00]</a>. While Buffett himself has not written a book on his investment style, his annual letters from Berkshire Hathaway are also highly recommended <a class="yt-timestamp" data-t="09:15:00">[09:15:00]</a>. This practical book is an excellent starting point for new investors <a class="yt-timestamp" data-t="09:31:00">[09:31:00]</a>.
+
+## 7. Common Stocks and Uncommon Profits
+
+*   **Author:** Phil Fisher <a class="yt-timestamp" data-t="09:40:00">[09:40:00]</a>
+*   **Difficulty:** Medium to High <a class="yt-timestamp" data-t="10:02:00">[10:02:00]</a>
+
+Phil Fisher significantly influenced [[investment_strategies_of_famous_investors_like_ray_dalio_and_warren_buffett | Warren Buffett]], who famously stated he is "80% Benjamin Graham and 20% Phil Fisher" <a class="yt-timestamp" data-t="10:00:00">[10:10:00]</a>. This book outlines the [[investment_strategies_and_philosophies | investment style]] of quality investing, where one is willing to pay a higher price for extraordinary companies <a class="yt-timestamp" data-t="10:05:00">[10:05:00]</a>.
+
+These companies are characterized by high expected future growth. While they may seem expensive initially, their strong execution can lead to very interesting long-term performance <a class="yt-timestamp" data-t="10:13:00">[10:13:00]</a>. Examples include [[popular_stocks_among_prominent_investors | companies like Amazon, Google]], and even traditional businesses like Domino's Pizza that have achieved immense profitability <a class="yt-timestamp" data-t="10:28:00">[10:28:00]</a>.
+
+The book teaches how to identify common traits among these stocks and the questions to ask when evaluating them <a class="yt-timestamp" data-t="10:38:00">[10:38:00]</a>. It focuses less on numbers and more on identifying solid businesses with large potential markets and strong management <a class="yt-timestamp" data-t="10:45:00">[10:45:00]</a>. A notable feature is a checklist of questions for evaluating potential [[popular_stocks_among_prominent_investors | investment ideas]] <a class="yt-timestamp" data-t="10:57:00">[10:57:00]</a>.
+
+## 8. The Alchemy of Finance
+
+*   **Author:** George Soros <a class="yt-timestamp" data-t="11:24:00">[11:24:00]</a>
+*   **Difficulty:** High <a class="yt-timestamp" data-t="11:31:00">[11:31:00]</a>
+
+*The Alchemy of Finance* is a highly recommended but challenging read, unfortunately not translated into Spanish <a class="yt-timestamp" data-t="11:27:00">[11:27:00]</a>. [[investment_strategies of legendary investors | George Soros]] is considered the most successful modern speculator since the 1960s and 70s, accumulating vast wealth <a class="yt-timestamp" data-t="11:48:00">[11:48:00]</a>. His style leans more towards speculation and shorter-term operations, sometimes utilizing debt <a class="yt-timestamp" data-t="12:05:00">[12:05:00]</a>.
+
+Soros's vision and analytical approach to markets are incredibly insightful <a class="yt-timestamp" data-t="12:11:00">[12:11:00]</a>. In this book, he popularized the concept of "reflexivity" in markets <a class="yt-timestamp" data-t="12:18:00">[12:18:00]</a>. His premise explains how the price of a stock or asset can directly influence its fundamentals and real-life behavior <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>. The latter half of the book features a diary-like section, similar to Peter Lynch's style, where Soros details his portfolio movements and reasoning over approximately two years, which remains relevant today <a class="yt-timestamp" data-t="12:45:00">[12:45:00]</a>.
+
+## 9. Value Investing: From Graham to Buffett and Beyond
+
+*   **Author:** Bruce Greenwald <a class="yt-timestamp" data-t="13:10:00">[13:10:00]</a>
+*   **Difficulty:** Medium <a class="yt-timestamp" data-t="13:43:00">[13:43:00]</a>
+
+Bruce Greenwald, a university professor and successful investor, differentiates this academic book by providing practical examples derived from real investment experience <a class="yt-timestamp" data-t="13:14:00">[13:14:00]</a>. His lectures and explanations are also available in many online videos <a class="yt-timestamp" data-t="13:35:00">[13:35:00]</a>.
+
+The book offers numerous practical examples related to:
+*   The margin of safety <a class="yt-timestamp" data-t="13:50:00">[13:50:00]</a>.
+*   Intrinsic value <a class="yt-timestamp" data-t="13:51:00">[13:51:00]</a>.
+*   Understanding competitive advantages of businesses <a class="yt-timestamp" data-t="13:53:00">[13:53:00]</a>.
+*   Identifying a "value trap" <a class="yt-timestamp" data-t="13:55:00">[13:55:00]</a>.
+*   Different value investing ratios like P/E (PER) and book value <a class="yt-timestamp" data-t="13:56:00">[13:56:00]</a>.
+
+It provides all the necessary tools for investors to engage in conversations about [[investment_strategies_of_successful_investors | value investing]] and begin applying this [[investment_strategies_and_advice | investment style]] <a class="yt-timestamp" data-t="14:04:00">[14:04:00]</a>.
+
+## 10. The Confusion of Confusions
+
+*   **Author:** Joseph de la Vega <a class="yt-timestamp" data-t="14:16:00">[14:16:00]</a>
+*   **Difficulty:** Historical / Unique <a class="yt-timestamp" data-t="14:50:00">[14:50:00]</a>
+
+This book holds the distinction of being considered the first book ever written about the stock market, penned over 300 years ago by a Spaniard <a class="yt-timestamp" data-t="14:21:00">[14:21:00]</a>. A recent original edition was auctioned for over $300,000 <a class="yt-timestamp" data-t="14:31:00">[14:31:00]</a>.
+
+Similar to Livermore's biography, *The Confusion of Confusions* contains anecdotes from three centuries ago that remain perfectly valid today <a class="yt-timestamp" data-t="14:35:00">[14:35:00]</a>. The stock market, particularly in terms of psychology and mass behavior, has changed very little <a class="yt-timestamp" data-t="14:43:00">[14:43:00]</a>. This makes reading such a historical text uniquely interesting and valuable for understanding timeless market dynamics <a class="yt-timestamp" data-t="14:48:00">[14:48:00]</a>.

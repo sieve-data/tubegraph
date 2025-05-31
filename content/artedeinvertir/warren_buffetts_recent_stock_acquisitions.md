@@ -1,0 +1,30 @@
+---
+title: Warren Buffetts recent stock acquisitions
+videoId: uOF7jpnaoIE
+---
+
+From: [[artedeinvertir]] <br/> 
+
+[[Warren Buffetts market insights and strategies | Warren Buffett]], a renowned investor, has recently made significant stock acquisitions, articulating his belief that the next crisis is "inevitable" <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. He has also shared new tips on adapting to the current situation of inflation and other economic risks <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+
+## Strategy for an Overheated Economy
+[[Warren Buffetts investment strategies and insights | Warren Buffett]] has observed "substantial price increases with the issue of inflation," noting that the economy is "very overheated" <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>. He specifically warned that inflation is and will continue to be higher than people anticipate <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. A second wave of inflation is expected in 2023 when wages rise to account for inflation <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+
+He argues that the easiest solution to the problem will be the devaluation of the dollar or the euro <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>. This means that holding dollars or euros, or investments in liquidity, fixed income, bonds, or bank deposits, is "very bad news" <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. The trick of inflation is that while your account balance may appear the same, the purchasing power is much lower <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>.
+
+According to [[Warren Buffetts investment advice | Warren Buffett]], the only way to protect oneself in this environment is through investment <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>. He contrasts unproductive assets like gold, which generates nothing <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>, with productive assets like stocks or real estate investments, which produce income or dividends <a class="yt-timestamp" data-t="01:17:35">[01:17:35]</a>.
+
+### Recent Acquisitions
+To protect himself from this environment, and with a significant amount of liquidity, [[Warren Buffetts latest investment moves | Warren Buffett]] has made recent acquisitions:
+
+*   **HP Shares**: A large acquisition of almost $5 billion in HP shares was made recently <a class="yt-timestamp" data-t="01:11:47">[01:11:47]</a>. This followed a previous acquisition of $12 billion in a financial or insurance company <a class="yt-timestamp" data-t="01:12:25">[01:12:25]</a>.
+    *   **Reasoning for HP**: Despite being a technology company, HP fits [[Warren Buffetts investment strategies | Warren Buffett]]'s criteria because it generates significant cash flow and requires low levels of reinvestment <a class="yt-timestamp" data-t="01:14:42">[01:14:42]</a>. In 2021-2022, HP generated $6 billion in cash flow but only needed to reinvest $580 million (about 10%) <a class="yt-timestamp" data-t="02:26:11">[02:26:11]</a>. This low reinvestment makes it resilient to inflation, as increased costs for capital would have less impact <a class="yt-timestamp" data-t="02:26:59">[02:26:59]</a>.
+    *   **Share Buybacks**: [[Warren Buffetts current investment moves | Warren Buffett]] also favors HP due to its share buyback program <a class="yt-timestamp" data-t="02:27:31">[02:27:31]</a>. In the last two years, HP bought back $6 billion in shares, effectively withdrawing 15% of the company's stock <a class="yt-timestamp" data-t="02:27:52">[02:27:52]</a>. This cannibalization benefits existing shareholders by increasing their ownership of the company's profits <a class="yt-timestamp" data-t="02:28:11">[02:28:11]</a>.
+    *   **Business Segments**: While HP's printer business is in decline, its personal computers and peripherals segment is growing <a class="yt-timestamp" data-t="02:29:40">[02:29:40]</a>. The printing line, despite declining, is highly profitable with 18% margins, while the computer line has 8% margins <a class="yt-timestamp" data-t="02:59:57">[02:59:57]</a>. Over time, the declining printer segment will become a very small portion of the company's total business <a class="yt-timestamp" data-t="03:00:57">[03:00:57]</a>.
+*   **Occidental Petroleum (Oxy)**: This is the "only oil company" [[Warren Buffetts investment in the energy sector | Warren Buffett]] has recently invested in <a class="yt-timestamp" data-t="02:28:41">[02:28:41]</a>.
+    *   **Reasoning for Oxy**: Similar to HP, [[Warren Buffetts market insights and strategies | Warren Buffett]]'s interest was piqued by Oxy's commitment to share buybacks, as discussed in their conference call <a class="yt-timestamp" data-t="02:28:50">[02:28:50]</a>. The oil company was channeling its high earnings into repurchasing shares <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>.
+
+### Common Profile of [[Warren Buffetts 2021 investment portfolio | Warren Buffett]]'s Investments
+[[Warren Buffetts investment strategy and secret stock purchase | Warren Buffett]]'s current investments, including Apple, Moody's, and Bank of America, share a common profile: they are systematically buying back shares <a class="yt-timestamp" data-t="02:29:09">[02:29:09]</a>. He seeks "fabulous businesses" that generate "tons of cash flow" and "do not require capital" <a class="yt-timestamp" data-t="01:14:33">[01:14:33]</a>. He avoids capital-intensive businesses <a class="yt-timestamp" data-t="02:27:17">[02:27:17]</a>. This approach allows these companies to thrive even in inflationary environments, as they can raise prices due to strong business models and their low capital needs mean less exposure to rising investment costs <a class="yt-timestamp" data-t="02:26:55">[02:26:55]</a>.
+
+Investing in productive assets that generate income, such as well-managed companies that buy back shares, is seen as the best defense against currency devaluation and inflation <a class="yt-timestamp" data-t="01:54:02">[01:54:02]</a>.

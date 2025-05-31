@@ -1,0 +1,51 @@
+---
+title: Negative interest rates and their implications
+videoId: kvuIbrSJ43E
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Global debt has reached unprecedented levels following the 2020 crisis, a situation that could have significant consequences for both the economy and the stock market <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. Leading investors, including Warren Buffett and Ray Dalio, have issued warnings about this risk <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This article explores the current debt landscape, the unusual phenomenon of negative interest rates, and strategies to protect or even benefit from the evolving economic environment.
+
+## Alarming Global Debt Levels
+
+Global debt has surged to alarming levels in recent years <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>. According to data published by the Institute of International Finance, the total global debt—comprising corporate, government, and individual debt—stands at $270 trillion <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. In contrast, the global Gross Domestic Product (GDP) is only $80 trillion <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. This translates to every person on Earth owing more than $35,000 <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. The 2020 crisis exacerbated this situation, pushing debt levels to new records <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
+
+The International Monetary Fund (IMF) has noted that when government debt exceeds 77% of its GDP, it can have serious repercussions for future growth <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. Worryingly, most developed countries, including Spain, Europe, and the USA, have surpassed this threshold <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+## The Era of Negative Interest Rates
+
+This record debt has accumulated in an environment of historically low interest rates <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. The past five years have seen the unusual occurrence of negative interest rates, an event that has only happened once in the last 300 years of economic history <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. Central banks have consistently lowered rates to combat crises, but having reached zero, they are now on a "path of no return" with limited tools for future crises <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
+
+Negative interest rates create an "upside-down world" where people effectively pay to lend money <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. For example, lending money to the German government via 10-year bonds with a negative yield of 0.6% per year guarantees a loss <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. If €100,000 is lent, only €94,000 would be returned after ten years <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>.
+
+### Speculation in Negative Yield Bonds
+
+Despite assured losses if held to maturity, the demand for these negative-yield debt bonds (in both dollars and euros) is extremely high, with trillions flowing into the market daily <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. The reason for this demand is that these bonds are traded daily on the stock market <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. If the negative yield becomes even more negative due to market conditions or central bank actions, the bond's price will rise, allowing for speculative profit <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. This phenomenon represents "stratospheric speculation" in the debt market <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
+
+### The Scale of the Debt Market
+
+The debt market vastly overshadows the stock market <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. In the US, the total value of the debt market is estimated at $40 trillion, double the stock market's $20 trillion <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. Daily debt trading volume is about $700 million, compared to $200 billion for stocks <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Consequently, developments in the debt market will have a significant [[impact_of_interest_rate_changes_on_the_market | impact on stocks and the economy]] <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. Debt with negative interest rates globally reached a record $17 trillion in 2017 <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+
+## Debt Crises and Rising Interest Rates
+
+Crises stemming from high debt levels are typically the most severe in the current economic system, as credit acts as the "lung" of the economy <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. The 2008 financial crisis, driven by sub-prime mortgage debt, had severe consequences, unlike the milder 2000 tech bubble that did not involve significant debt <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>.
+
+Debt crises are usually triggered by an aggressive [[rising_interest_rates_and_their_influence_on_investments | rise of interest rates]] <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. Central banks have recently issued large amounts of new money to finance issues caused by the 2020 crisis <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. This new money typically causes [[inflation_and_its_implications_on_the_economy | inflation]] <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. [[inflation_and_interest_rates_impact | Inflation]] is the primary variable central banks monitor when considering [[rising_interest_rates_and_inflation | raising interest rates]] to balance the economy <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>. Therefore, the appearance of inflation in the future, likely due to the printed money, could trigger a fall in the debt market <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>. Monitoring [[macroeconomic_indicators_and_their_implications | inflation]] is critical for the future <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>.
+
+Ray Dalio, who manages the world's largest investment fund, anticipates a very different world in the next five years <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. He warns that once interest rates reach 0%, asset prices cannot receive an additional push, and traditional economic stimulus tools used by central banks will no longer be effective <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>. Dalio suggests that the markets will exert a greater [[impact_of_inflation_and_interest_rates_on_the_economy | effect on the economy]] than the economy itself on the markets <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. If the debt market begins to fall, credit flow will cease, leading to significant economic difficulties <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>.
+
+## Strategies for Protection and Benefit
+
+### For Debt Holders
+
+*   **Fixed-Rate Long-Term Debts**: For long-term debts, it is ideal to secure a fixed rate to capitalize on current low interest rates <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. If inflation rises, the value of assets like a home might increase, while a fixed-rate mortgage debt remains constant, providing a financial advantage <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.
+*   **Refinance Short-Term High-Interest Debts**: For short-term debts with high interest rates (e.g., credit cards at 25-30% annually), refinancing to lower rates (e.g., personal loans at 8-12%) can make them more manageable in a low-rate environment <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>.
+*   **Saving and Liquidity**: Saving is crucial for everyone, investors or not <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. When credit flow stops, liquidity becomes the most valuable asset, enabling investments at unprecedented prices <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
+
+### For Investors
+
+*   **Avoid Highly Indebted and Cyclical Companies**: Companies with high debt levels, especially bad or cyclical businesses like banks, construction firms, or airlines, are vulnerable to rising interest rates and increased delinquency <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. Warren Buffett has begun reducing his investment in the banking sector due to these risks <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+*   **Avoid Investing Using Debt**: When market opportunities arise during a downturn, credit will flow to solvent investors <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. Warren Buffett has been accumulating record levels of liquidity in Berkshire Hathaway ($140 billion, with almost $100 billion accumulated in five years), indicating the strategic value of cash during uncertain times <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>.
+*   **Invest in Companies with Strong Liquidity, Attractive Valuation, and High Growth Potential**: Companies that grow through acquisitions, like Berkshire Hathaway, are well-positioned for crises <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>. In a crisis, more companies become available for purchase, and competition is reduced due to tighter credit, allowing liquid companies to make advantageous acquisitions <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. Warren Buffett has historically leveraged this strategy in past crises (2000, 2008) <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>. Examples of companies that might fit these criteria include Cisco Systems, Constellation Software, and Oracle <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>, <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>, <a class="yt-timestamp" data-t="00:17:33">[00:17:33]</a>.
+*   **Investing Against Bonds (High Risk)**: For experienced investors, investing against bonds or debt is a high-risk strategy <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>. Inverse debt ETFs, such as LTE FE (ticker TVEFE) for US debt and LTE FE (ticker XSV) for European debt, facilitate such operations for the average investor, though they come with high maintenance costs if the debt market does not fall within a reasonable timeframe <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>.

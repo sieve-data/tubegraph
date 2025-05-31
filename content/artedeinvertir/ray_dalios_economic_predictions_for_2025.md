@@ -1,0 +1,61 @@
+---
+title: Ray Dalios economic predictions for 2025
+videoId: li3jIsHn3sE
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Renowned investor [[Ray Dalios economic predictions | Ray Dalio]] has identified key indicators suggesting a potential stock market bubble and a crisis in 2025 <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. He has published six key indicators that historically warned of market problems well in advance <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. [[Ray Dalios economic predictions | Dalio]], founder of Bridgewater Associates, the world's largest hedge fund manager, has a deep market knowledge and a proven capacity to predict economic cycles, having minimized losses during the dot-com bubble and 2008 financial crisis <a class="yt-timestamp" data-t="01:01:01">[01:01:01]</a>.
+
+## Six Key Indicators
+
+[[Ray Dalios market predictions | Dalio's]] study examines market bubbles, including the 1920s bubble leading to the 1929 crash and the dot-com bubble in 2000, to determine if current indicators point to a similar danger <a class="yt-timestamp" data-t="01:52:00">[01:52:00]</a>.
+
+### 1. General Bullish Sentiment
+A widespread belief that the stock market will continue to rise is a danger sign, as it indicates a lack of new capital to inject into the market <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>. Currently, optimism is extremely high <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>. Inflows to American equity funds have exceeded $150 billion in a single month, surpassing the 2021 meme stock bubble <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>. BlackRock even published an article suggesting the global economy will no longer experience boom-bust cycles, which is reminiscent of similar statements made just before the 1929 crash <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>. The percentage of investors expecting a 10% correction is low, indicating high optimism <a class="yt-timestamp" data-t="04:49:00">[04:49:00]</a>. The percentage of investors who believe the market will continue to rise is at a 40-year high <a class="yt-timestamp" data-t="11:04:00">[11:04:00]</a>. American investors have almost 60% of their portfolios allocated to stocks, an all-time high <a class="yt-timestamp" data-t="11:20:00">[11:20:00]</a>.
+
+### 2. Entry of New Buyers ("Stock Market Tourists")
+The influx of inexperienced investors ("stock market tourists") who enter the market solely due to short-term gains signals exhaustion and a lack of new capital <a class="yt-timestamp" data-t="05:04:00">[05:04:00]</a>. Conversely, "Smart Money" or insiders (company directors with high knowledge) typically do the opposite of the general public <a class="yt-timestamp" data-t="05:40:00">[05:40:00]</a>. Currently, insider sales are at record levels over the last 10 years, while the general public is pouring money into the market <a class="yt-timestamp" data-t="07:40:00">[07:40:00]</a>. This divergence suggests caution <a class="yt-timestamp" data-t="08:48:00">[08:48:00]</a>.
+
+### 3. Unrealistic Future Corporate Profit Expectations
+The market often discounts unrealistic future corporate profit growth <a class="yt-timestamp" data-t="12:13:00">[12:13:00]</a>. Current estimates for S&P 500 profit growth over the next five years are nearly at historical highs, around 18% <a class="yt-timestamp" data-t="13:47:00">[13:47:00]</a>. However, historical data shows that S&P 500 profits rarely grow faster than 11% <a class="yt-timestamp" data-t="14:59:00">[14:59:00]</a>. Corporate profits of the S&P 500 have grown by 5.5% over nearly 40 years between 1980 and 2020 <a class="yt-timestamp" data-t="15:35:00">[15:35:00]</a>. This indicates that current expectations, especially driven by hype around AI and technology, are unrealistic <a class="yt-timestamp" data-t="15:52:00">[15:52:00]</a>.
+
+### 4. High Valuations According to Traditional Metrics
+Traditional valuation metrics, which have been effective for 100 years, suggest high valuations <a class="yt-timestamp" data-t="16:06:00">[16:06:00]</a>. The S&P 500's P/E ratio of 25 translates to a 4% profitability <a class="yt-timestamp" data-t="16:24:00">[16:24:00]</a>. Historically, market corrections occur when the profitability of short-term (three-month) bills, a safer investment, is higher than the S&P 500's profitability <a class="yt-timestamp" data-t="16:39:00">[16:39:00]</a>. Currently, short-term bills offer 4-5% profitability, exceeding the S&P 500's 4% <a class="yt-timestamp" data-t="16:52:00">[16:52:00]</a>. Valuing by cash flow, studies affirm an expected annual profitability of only 2% for the market <a class="yt-timestamp" data-t="18:01:00">[18:01:00]</a>.
+
+The average valuation of the top 10 largest companies in the U.S. is 50 times earnings, compared to a historical average of 20-25 times for the most expensive companies <a class="yt-timestamp" data-t="23:05:00">[23:05:00]</a>. The S&P 500's average valuation in 2024 is 26 times earnings, higher than its historical average of 16-20 times <a class="yt-timestamp" data-t="23:09:00">[23:09:00]</a>. Meanwhile, small and medium-sized companies are valued around or below their historical average <a class="yt-timestamp" data-t="22:49:00">[22:49:00]</a>.
+
+### 5. Purchases Financed with Debt
+The current level of margin debt (using shares as collateral) is lower than in 2021, indicating that purchases are not excessively financed with debt <a class="yt-timestamp" data-t="23:58:00">[23:58:00]</a>. This indicator does not suggest problems <a class="yt-timestamp" data-t="24:19:00">[24:19:00]</a>. When debt is prevalent, corrections tend to be deeper due to liquidation effects <a class="yt-timestamp" data-t="24:30:00">[24:30:00]</a>.
+
+### 6. High Future Commitments (Derivatives/Futures)
+This indicator, measured by the "Babel Couch" for future commitments in derivatives or futures, is currently at 50% <a class="yt-timestamp" data-t="24:50:00">[24:50:00]</a>. This is the historical average for the last 10 years, unlike the 1929 or 1990s bubbles when it was near 80-100% <a class="yt-timestamp" data-t="24:56:00">[24:56:00]</a>. This indicator also does not suggest significant problems <a class="yt-timestamp" data-t="25:09:00">[25:09:00]</a>.
+
+## Conclusion and Advice
+Out of the six indicators, four of the most important ones indicate the need for caution in the current market <a class="yt-timestamp" data-t="25:15:00">[25:15:00]</a>. The other two, concerning debt and future commitments, are less relevant and do not signal future problems <a class="yt-timestamp" data-t="25:27:00">[25:27:00]</a>.
+
+In this environment, [[Ray Dalios investment advice and portfolio strategies | Dalio's advice]] and that of other major investors emphasize:
+*   **Focus on Valuations:** Even if the index is expensive, a solid portfolio can be built by identifying lesser-known companies with attractive valuations <a class="yt-timestamp" data-t="25:38:00">[25:38:00]</a>.
+*   **Avoid Debt:** Be cautious about using debt to invest, especially when the market is at its highest <a class="yt-timestamp" data-t="25:49:00">[25:49:00]</a>.
+*   **Invest in Stable Businesses:** Prioritize stable, predictable businesses with good management that offer good returns <a class="yt-timestamp" data-t="25:54:00">[25:54:00]</a>.
+*   **Seek Opportunities Outside Top Stocks:** There are many opportunities beyond the top 10 or 50 most well-known stocks <a class="yt-timestamp" data-t="26:08:00">[26:08:00]</a>.
+
+### Illustrative Examples
+The market exhibits a significant divergence, with expensive, well-known companies seeing massive inflows due to short-term hype, while fundamentally strong but less popular companies are undervalued.
+
+*   **Uber:** Despite hype around robotaxis, Uber is a platform growing at nearly 20% annually with competitive advantages and increasing profitability <a class="yt-timestamp" data-t="28:21:00">[28:21:00]</a>. Its current valuation is 19 times earnings, half of its historical average <a class="yt-timestamp" data-t="29:31:00">[29:31:00]</a>.
+*   **Capgemini:** This European IT services company has seen its stock correct due to European election instability, despite being an exporter not subject to tariffs <a class="yt-timestamp" data-t="30:01:00">[30:01:00]</a>. It shows solid earnings growth and is well-positioned for future AI implementation, which requires extensive engineering services <a class="yt-timestamp" data-t="31:00:00">[31:00:00]</a>. It trades at 13 times cash flow, well below its historical average <a class="yt-timestamp" data-t="33:21:00">[33:21:00]</a>.
+*   **Jackson Financial:** This company, providing variable annuities, has grown well despite not being related to technology <a class="yt-timestamp" data-t="42:30:00">[42:30:00]</a>. It is a recurring, predictable business with strong capital ratios but trades at only five times earnings, significantly below the financial sector average of 10-12 times <a class="yt-timestamp" data-t="48:05:00">[48:05:00]</a>.
+*   **Dollar General:** This discount retail company faced problems but is now stabilizing, with growth estimates affirming a return to 4-4.5% growth <a class="yt-timestamp" data-t="51:32:00">[51:32:00]</a>. It's trading at its lowest valuation in almost its entire history <a class="yt-timestamp" data-t="51:57:00">[51:57:00]</a>.
+*   **Teleperformance:** Despite analyst criticism, Teleperformance made a sensible acquisition that generates significant value, similar to its successful Language Line acquisition in 2016 <a class="yt-timestamp" data-t="53:08:00">[53:08:00]</a>.
+*   **Goeasy:** This Canadian financial company continues to grow at rates comparable to technology companies (20% this year, 14% next) <a class="yt-timestamp" data-t="56:31:00">[56:31:00]</a>. It benefits from weaker competitors during economic slowdowns, yet trades at a much lower valuation of eight times earnings <a class="yt-timestamp" data-t="56:55:00">[56:55:00]</a>.
+*   **Johnson & Johnson:** A "blue chip" company that grows with the global economy (3-4% annually) <a class="yt-timestamp" data-t="58:36:00">[58:36:00]</a>. It has corrected recently due to lack of interest in "boring" companies, trading in its lowest price range in the last 10 years at 13-14 times earnings, compared to its usual 18-20 times <a class="yt-timestamp" data-t="59:18:00">[59:18:00]</a>.
+*   **Google (Alphabet):** Considered one of the "magnificent seven," it's valued lower than its peers despite similar or better growth <a class="yt-timestamp" data-t="59:51:00">[59:51:00]</a>. It possesses hidden assets like Waymo, Android, and vast data essential for AI training <a class="yt-timestamp" data-t="01:00:06">[01:00:06]</a>.
+*   **Tinexta:** A small Italian company that has seen its valuation collapse to six times earnings due to temporary regional issues, despite consistent historical growth <a class="yt-timestamp" data-t="01:01:22">[01:01:22]</a>.
+*   **Salesforce:** An example of market euphoria where weak results and low growth guidance (8-9%) were met with a 10% stock price increase, simply due to mentioning a new AI product <a class="yt-timestamp" data-t="01:03:03">[01:03:03]</a>.
+*   **Volkswagen/Mercedes:** European automotive companies facing negativity and headlines about collapse, but fundamentally, their results are holding, and stock prices are at low P/E ratios (e.g., Volkswagen at PER 5) <a class="yt-timestamp" data-t="01:04:17">[01:04:17]</a>.
+
+<div class="callout callout-info">
+**Summary of Market Conditions**
+The market exhibits significant euphoria in certain segments, driving up valuations of "famous" or technology-related stocks, often disconnected from fundamental performance <a class="yt-timestamp" data-t="01:02:06">[01:02:06]</a>. Conversely, many solid, predictable businesses, especially smaller or "boring" ones, are undervalued and offer strong opportunities <a class="yt-timestamp" data-t="02:20:00">[02:20:00]</a>. Investors are advised to apply common sense and independent thought rather than following short-term hype <a class="yt-timestamp" data-t="01:06:19">[01:06:19]</a>.
+</div>

@@ -1,0 +1,38 @@
+---
+title: Challenges of economic recession
+videoId: Dw43pZCMnpQ
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Famous economist and investor Ray Dalio predicts an [[economic_recession_indicators_and_predictions|economic recession]] "without precedent" as part of a "new world order" [00:00:04]. He states that three unprecedented problems, which he considers the most important challenges of our lives, are brewing an economic war that could lead to the decline of the United States and its allies in favor of China [00:00:17], [00:00:21]. This shift is expected to drastically change the economic outlook, impacting the value of money, investments, and currencies like the dollar [00:00:30].
+
+## Ray Dalio's Authority
+Ray Dalio holds significant global influence and economic power [00:01:10]. He is a regular attendee at the Davos forum meetings and is the founder of the world's largest hedge fund, managing over $100 trillion in assets [00:01:17], [00:01:19], [00:01:21]. His opinions are highly respected due to his success in navigating major financial crises, including those in 2000 and 2008 [00:01:28], [00:01:32]. Dalio recently articulated this new scenario of serious economic changes in his book, "The New World Order" [00:01:48].
+
+## The Three Main Challenges
+In a CNBC interview, Dalio described the current three forces as the greatest he has witnessed in his lifetime [00:01:56], [00:01:59]. Historically, when these three problems have converged, they have led to [[economic_recession_indicators_and_predictions|economic recessions]] and significant changes that have brought down empires and major world currencies [00:02:03].
+
+### 1. The Social Gap and Class Struggle
+Dalio identifies a growing class struggle between "capitalism and communism" or "those who have and those who don't," with both sides determined to win [00:02:13], [00:02:19]. The social gap between classes is widening, creating future tensions [00:02:27]. Data shows that 1% of the American population increasingly owns more wealth, while the poorest 50% own less wealth and fewer assets [00:02:33], [00:02:37], [00:02:39]. Recent inflation has exacerbated this gap, as people without assets (the poorest 50%) do not own investments like stocks or real estate that offer protection against inflation, thus bearing the full brunt of the problem [00:02:43], [00:02:47], [00:02:49], [00:02:55], [00:02:58].
+
+### 2. Enormous Debt
+The second major problem is the immense debt accumulated by both the United States and Europe [00:03:16], [00:03:17]. Dalio notes a decreasing demand for United States debt, deeming American bonds a "very risky investment" [00:03:21], [00:03:25], [00:03:26]. He predicts two outcomes: either the interest rate for the debt will rise, or the state will have to print more money [00:03:28], [00:03:32], [00:03:33]. Printing more money to resolve future [[economic_recession_indicators_and_predictions|recessions]] would lead to higher inflation, further increasing the wealth disparity between classes [00:03:39], [00:03:40], [00:03:42], [00:03:44], [00:03:46], [00:03:48].
+
+### 3. The Rise of China and Decline of the United States
+Dalio warns that the rise of China signals the decline of the United States, which would significantly impact the value of the dollar and its status as a global reserve currency [00:04:35], [00:04:37], [00:04:41]. For the past 70 years, the United States has dominated the international political landscape, controlling institutions such as the United Nations and the International Monetary Fund [00:04:46], [00:04:51], [00:04:54]. However, this dominance is expected to change, with the United States entering a "decline phase" characterized by high debt, social struggles, and currency devaluation [00:04:57], [00:05:01], [00:05:05], [00:05:07], [00:05:08]. Conversely, China is observed to be in an "ascending phase" of wealth creation and debt accumulation [00:05:10], [00:05:11], [00:05:13].
+
+## Predictions and Outlook
+Dalio predicts that in five years, the world will be "totally different" due to the rise of China, the class struggle, and the current debt bubble [00:03:54], [00:03:56], [00:03:58], [00:04:00]. Technological changes, such as Artificial Intelligence, could also introduce "totally unpredictable scenarios" [00:04:02], [00:04:04], [00:04:07]. He suggests that a significant shift could occur within this five-year timeframe [00:04:11], [00:04:12], [00:04:13].
+
+## [[Investing strategies for economic downturns|Investing Strategies for Economic Downturns]]
+In response to this complex environment, Dalio offers [[managing_risks_in_economic_downturns|recommendations]] for small investors:
+
+*   **Global Investment Approach**: Investors should view their investments globally [00:05:25], [00:05:27].
+*   **Protection Against Inflation**: It is crucial to prevent money from losing value due to inflation, and the only way to do so is to invest [00:05:28], [00:05:29], [00:05:31]. The value of assets like stocks and gold has risen due to the printing of money and creation of new debt [00:05:33], [00:05:35], [00:05:37], [00:05:39]. Dalio advises against holding "safe" assets like liquidity, as their value typically declines in inflationary scenarios [00:05:42], [00:05:43], [00:05:48], [00:05:49], [00:05:52], [00:05:54], [00:05:56], [00:05:58]. Instead, real assets with consistent demand, such as stocks, real estate, and gold, are expected to perform relatively better [00:06:10], [00:06:11].
+*   **Diversification**: Given the uncertainty and risks of the future, learning to diversify without reducing performance expectations is important [00:06:21], [00:06:22], [00:06:23], [00:06:24], [00:06:26], [00:06:27]. Good diversification can reduce risk by as much as 80% [00:06:31], [00:06:32]. Dalio consistently recommends investing the majority of a portfolio in both national and international stocks [00:06:35], [00:06:37], [00:06:38]. He popularized the "four seasons" portfolio management theory, emphasizing diversification [00:06:40], [00:06:43], [00:06:44].
+
+### Ray Dalio's Current Investment Focus
+Analysis of Ray Dalio's published portfolio reveals his current preferred sector for [[impact_of_recession_on_stock_market_and_investments|investment]] is technology, with holdings in companies like Google, Facebook, Microsoft, and Visa [00:06:57], [00:06:59], [00:07:00], [00:07:02], [00:07:03]. He is selling off positions in the banking sector, including Bank of America and JP Morgan, as these are highly sensitive to the economic cycle, suggesting he is trying to avoid potential future problems [00:07:05], [00:07:07], [00:07:09], [00:07:11], [00:07:14], [00:07:15], [00:07:17], [00:07:18].
+
+While Dalio typically allocates a significant portion of his portfolio to debt or long-term bonds, his main current positions are in stocks [00:07:33], [00:07:35], [00:07:37], [00:07:40], [00:07:42]. Another favored sector for this environment is stable or defensive consumer companies, such as Procter & Gamble, Walmart, Coca-Cola, and Pepsi [00:07:45], [00:07:46], [00:07:50], [00:07:52], [00:07:53], [00:07:54]. He has also invested in the Russell 2000 small caps ETF (IWM), which aggregates the 2000 main small-cap companies in the United States [00:08:21], [00:08:22], [00:08:24], [00:08:25], [00:08:27], [00:08:28]. These small-cap stocks tend to perform better than the market average and large companies when interest rates drop and liquidity increases in the system [00:08:37], [00:08:39], [00:08:40], [00:08:41], [00:08:43], [00:08:44], [00:08:46], [00:08:47].

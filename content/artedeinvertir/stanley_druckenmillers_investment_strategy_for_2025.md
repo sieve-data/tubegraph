@@ -1,58 +1,77 @@
 ---
-title: Stanley Druckenmillers investment strategy for 2025
+title: Stanley Druckenmillers Investment Strategy for 2025
 videoId: pIFS1pJsS0w
 ---
 
 From: [[artedeinvertir]] <br/> 
 
-Stanley Druckenmiller, recognized as one of the best investors of all time, is preparing his portfolio for a new economic and stock market scenario in 2025 <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. He has achieved positive returns in 100% of the years he has operated in the stock market <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>, generating a 30% annual return for 30 years <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. His approach combines macroeconomics study with stock investments <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>.
+[[Stanley Druckenmiller's economic predictions | Stanley Druckenmiller]], known as one of the best investors of all time, consistently operates a step ahead of the market, achieving positive returns every year he has operated in the stock market <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. With a personal fortune exceeding $5 billion and a history of generating a 30% annual return for 30 years with his personal money, his latest portfolio adjustments offer significant insights into his economic and stock market outlook for 2025 <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
 
-Druckenmiller's current personal portfolio of shares is valued at over $3 billion, reflecting where he is investing his own money since he no longer manages third-party funds <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+## Economic and Market Premises for 2025
 
-## Key Premises for 2025
+[[Stanley Druckenmiller's economic predictions | Druckenmiller]] bases his strategy on five key premises for the next 12 to 24 months, looking towards 2025 <a class="yt-timestamp" data-t="01:47">[01:47]</a>:
 
-Druckenmiller operates on five key premises for the next 12 months and into 2025 <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>:
+*   **Euphoria in Certain Sectors**: He perceives excessive euphoria in specific stock market sectors, leading him to sell shares in these areas <a class="yt-timestamp" data-t="01:54">[01:54]</a>.
+*   **Weakening Economy and Fed Rate Cuts**: He anticipates the Federal Reserve will lower interest rates due to a weakening economy <a class="yt-timestamp" data-t="02:04">[02:04]</a>.
+*   **Dollar Depreciation**: The dollar is expected to decrease in value due to extensive money printing and the fiscal deficit <a class="yt-timestamp" data-t="07:30">[07:30]</a>.
+*   **Persistent High Inflation**: Inflation is projected to remain elevated <a class="yt-timestamp" data-t="07:42">[07:42]</a>.
+*   **Focus on the Future**: [[Investment techniques and market timing according to Stanley Druckenmiller | Druckenmiller]] emphasizes that the present market conditions are less important than anticipating the world in 12-24 months <a class="yt-timestamp" data-t="36:41">[36:41]</a>.
 
-1.  **Euphoria in Tech Sector**: He identifies "euphoria in certain sectors in the stock market" <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>, particularly with companies related to Artificial Intelligence <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>, where he sees danger <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>.
-2.  **Fed Rate Cuts**: He anticipates the Federal Reserve will lower interest rates as the economy weakens <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>.
-3.  **Dollar Weakness**: The dollar is expected to decrease in value due to "enormous printing of money" and fiscal deficits <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>. He states, "I can't be bullish on the dollar" <a class="yt-timestamp" data-t="00:08:19">[00:08:19]</a>, noting its recent 5-6% drop <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
-4.  **Persistent Inflation**: Inflation is expected to remain high <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>.
+## Portfolio Repositioning: The "Great Rotation"
 
-## Portfolio Repositioning: "The Great Rotation"
+[[Investment strategies of legendary investors | Druckenmiller]] is implementing a strategy he calls the "great rotation," where investors are moving away from large, technology-focused companies towards other sectors that have been overlooked and are currently undervalued <a class="yt-timestamp" data-t="04:31">[04:31]</a>.
 
-Druckenmiller is abandoning and selling shares in sectors where he foresees problems, repositioning his portfolio towards attractively valued sectors that he believes will perform better <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. This strategy is referred to as "the great rotation," where investors are shifting from large, technological companies to more undervalued, forgotten sectors <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>.
+### Exiting Overvalued Sectors
 
-### Selling Big Tech
+[[Analysis of Stanley Druckenmiller's stock market predictions | Druckenmiller]] has significantly reduced his positions in major technology stocks, reflecting his concern about "a lot of euphoria" in Artificial Intelligence-related companies, which he identifies as a market danger <a class="yt-timestamp" data-t="02:36">[02:36]</a>.
 
-*   He has reduced his position in NVIDIA by 87% <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>, despite being an early investor who multiplied his money significant times <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
-*   He has also greatly reduced his position in Microsoft by 63% <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>, selling over 700,000 shares <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
-*   He points to potential stock market bubbles characterized by a high number of frauds, where companies might "cook up the accounts" to meet expectations <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
+*   **Nvidia**: Reduced his position by 87% <a class="yt-timestamp" data-t="02:22">[02:22]</a>. He was an early investor, multiplying his money six or seven times <a class="yt-timestamp" data-t="02:27">[02:27]</a>.
+*   **Microsoft**: Reduced his position by 63% <a class="yt-timestamp" data-t="02:57">[02:57]</a>.
+*   **Caution on Bubbles**: He notes that stock market bubbles often feature a high number of frauds, with companies distorting accounts to meet expectations <a class="yt-timestamp" data-t="03:45">[03:45]</a>.
 
-### New Investments
+### New Investment Areas
 
-Druckenmiller is making significant new investments in sectors that align with his economic outlook. These investments expect to benefit from a weaker dollar, lower interest rates, and undervalued status.
+His new investments are predominantly outside the United States or in U.S. sectors that benefit from a weakening dollar and industrial recovery. These sectors include commodities and industrials <a class="yt-timestamp" data-t="08:57">[08:57]</a>. A depreciating dollar helps U.S. industrial companies that export, as repatriated profits in stronger currencies increase their overall earnings <a class="yt-timestamp" data-t="09:11">[09:11]</a>. Most commodities have a negative correlation with the dollar's value, meaning their value increases when the dollar falls <a class="yt-timestamp" data-t="09:56">[09:56]</a>.
 
-#### 1. Japan and International Markets
+Here are four key new investments, in order of increasing portfolio weight:
 
-He has been investing in Japan, believing it has high potential due to cheap stocks, changing policies, and increasing share buybacks and dividends <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>. International stocks, particularly from Europe or Japan, and emerging countries tend to perform best when the dollar is weakening <a class="yt-timestamp" data-t="00:08:36">[00:08:36]</a>, as a weaker dollar relieves debt pressure on emerging economies <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>.
+#### 1. Kinder Morgan (Oil & Gas Pipelines)
 
-#### 2. U.S. Commodities and Industrial Sectors
+[[Stanley Druckenmiller's recession prediction for 2023 and strategies for investors | Druckenmiller]] sees Kinder Morgan as attractive due to several factors <a class="yt-timestamp" data-t="10:35">[10:35]</a>:
+*   **Inflation Hedge**: Oil tends to rise with inflation <a class="yt-timestamp" data-t="10:46">[10:46]</a>.
+*   **Dollar Depreciation**: Benefits when the dollar's value falls <a class="yt-timestamp" data-t="10:49">[10:49]</a>.
+*   **Fed Rate Cuts**: Lower rates stimulate the economy, increasing oil and gas consumption <a class="yt-timestamp" data-t="10:50">[10:50]</a>.
+*   **Competitive Position**: New pipeline construction permits are limited in the U.S. due to environmental policies, giving existing companies like Kinder Morgan a strong competitive advantage <a class="yt-timestamp" data-t="12:01">[12:01]</a>.
+*   **Natural Gas Growth**: Natural gas consumption is increasing significantly, especially with cheap U.S. shale gas production <a class="yt-timestamp" data-t="12:18">[12:18]</a>. The U.S. exports large amounts of gas, requiring extensive pipeline transport <a class="yt-timestamp" data-t="13:48">[13:48]</a>.
+*   **Valuation**: The company has doubled its profits and reduced leverage, yet trades at 10 times distributable cash flow (DCF), below its historical average of 15-20 times <a class="yt-timestamp" data-t="16:56">[16:56]</a>.
 
-Within the United States, he is investing in sectors related to commodities and industrials, which tend to perform well when the dollar depreciates <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>. This depreciation benefits U.S. industrial companies that export, as repatriated profits in stronger currencies increase their earnings <a class="yt-timestamp" data-t="00:09:11">[00:09:11]</a>.
+#### 2. American Apartments (Real Estate Investment Trust)
 
-#### Specific Company Investments:
+This investment aligns with [[Stanley Druckenmiller's economic predictions | Druckenmiller's]] view that real estate benefits from lower rates, a weaker dollar, and inflation <a class="yt-timestamp" data-t="24:00">[24:00]</a>.
+*   **Interest Rate Sensitivity**: A drop in interest rates reduces interest payments, increases property values, and makes dividend-paying REITs more attractive compared to bonds <a class="yt-timestamp" data-t="25:16">[25:16]</a>.
+*   **Inflation Hedge**: Real estate is an asset that performs well and protects against inflation <a class="yt-timestamp" data-t="25:49">[25:49]</a>.
+*   **Strategic Location**: The company owns luxury apartments in high-growth, demographically favorable "Republican states" like Texas, Florida, and Atlanta, where population is increasing due to people leaving states with more complex tax situations <a class="yt-timestamp" data-t="24:22">[24:22]</a>.
+*   **Supply-Demand Imbalance**: Housing supply is limited in these markets, while demand is rising <a class="yt-timestamp" data-t="26:16">[26:16]</a>.
+*   **Financial Strength**: It has a strong dividend history, very low leverage (28% of total assets financed), and 95% of its debt is at a fixed, low rate (3.6%) <a class="yt-timestamp" data-t="27:14">[27:14]</a>.
+*   **Future Growth**: Despite a slight profit dip in 2024 due to high rates, the company expects to return to solid growth in 2025-2027 <a class="yt-timestamp" data-t="28:12">[28:12]</a>. It trades at 13 times earnings, below the sector's usual 16-20 times <a class="yt-timestamp" data-t="28:33">[28:33]</a>.
 
-*   **Kinder Morgan**: His fourth-largest investment is in this leading U.S. oil and gas pipeline company, with a $91 million investment from his personal funds <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>.
-    *   **Rationale**: Kinder Morgan is expected to benefit from inflation, a falling dollar, and lower Federal Reserve rates, which stimulate oil and gas consumption <a class="yt-timestamp" data-t="00:10:44">[00:10:44]</a>. The stock has been trading at a discount, and its 6% dividend yield becomes more attractive as rates drop <a class="yt-timestamp" data-t="00:11:31">[00:11:31]</a>. The company benefits from limited new pipeline permits and increasing natural gas production and export from the U.S. <a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>.
-*   **American Apartments (REIT)**: This real estate investment company is interesting due to a 30% drop from its peak, a high dividend payout, and its focus on luxury apartments in high-growth, lower-tax states like Texas and Florida <a class="yt-timestamp" data-t="00:24:00">[00:24:00]</a>.
-    *   **Rationale**: Lower interest rates benefit real estate companies by reducing interest payments and increasing property values <a class="yt-timestamp" data-t="00:25:16">[00:25:16]</a>. A weak dollar and inflation are also positives, as real estate assets protect against inflation <a class="yt-timestamp" data-t="00:25:44">[00:25:44]</a>. The company has low leverage (28% financed) and most debt is at a fixed, low rate (3.6%) <a class="yt-timestamp" data-t="00:27:17">[00:27:17]</a>. Profits are expected to return to growth from 2025 onwards after a slight dip in 2024 <a class="yt-timestamp" data-t="00:28:22">[00:28:22]</a>.
-*   **Woodward**: An industrial company that manufactures parts for aviation, expected to grow organically by 8-10% <a class="yt-timestamp" data-t="00:30:08">[00:30:08]</a>.
-    *   **Rationale**: Aviation is a growing sector, and the company benefits from increasing demand for more advanced components in new aircraft models <a class="yt-timestamp" data-t="00:31:46">[00:31:46]</a>. Woodward expects to double in size by 2026, with an earnings per share growth of 14-18% annually <a class="yt-timestamp" data-t="00:32:24">[00:32:24]</a>. This growth rate is even higher than anticipated for some large technology companies <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>.
-*   **Coherent**: Druckenmiller's largest position, a $260 million investment from his own pocket <a class="yt-timestamp" data-t="00:33:12">[00:33:12]</a>. The company specializes in highly specialized industrial components like measuring lasers and thermal imaging <a class="yt-timestamp" data-t="00:33:50">[00:33:50]</a>.
-    *   **Rationale**: Coherent expects very high growth in its served sectors (electronics, telecommunications, industrial), with an overall expected growth of more than 14-15% until 2028 <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>. While current earnings have dropped, Druckenmiller follows the principle that "the present is not what moves the shares on the stock market" <a class="yt-timestamp" data-t="00:34:38">[00:34:38]</a>. He believes that periods of low earnings (when companies are not expanding capacity) are the best time to buy, anticipating future profit margin increases when capacity reduces <a class="yt-timestamp" data-t="00:36:24">[00:36:24]</a>. The industrial sector, Coherent's customer base, is expected to recover and expand <a class="yt-timestamp" data-t="00:38:36">[00:38:36]</a>, benefiting from lower rates and normalization of inflation <a class="yt-timestamp" data-t="00:39:59">[00:39:59]</a>.
+#### 3. Woodward (Aviation & Industrial Parts)
 
-## Druckenmiller's Investment Philosophy
+Woodward, an industrial company, is a "super resistant" business, even in normal crises <a class="yt-timestamp" data-t="30:30">[30:30]</a>.
+*   **Growth Industry**: Manufactures highly specific parts for the growing aviation sector, which is recovering strongly post-COVID, and also has an industrial component <a class="yt-timestamp" data-t="29:26">[29:26]</a>.
+*   **Recurring Revenue**: Includes a significant maintenance component, providing recurring income <a class="yt-timestamp" data-t="29:57">[29:57]</a>.
+*   **Increased Component Value**: New airplane models (e.g., A320 Neo, 737 Max) often use three times more components from Woodward than previous generations, indicating a growing demand for its advanced systems <a class="yt-timestamp" data-t="31:43">[31:43]</a>.
+*   **Strong Growth Projections**: Expected to grow organically by high single digits (8-10%) plus acquisitions <a class="yt-timestamp" data-t="30:03">[30:03]</a>. It anticipates doubling in size from 2023 to 2026, with an earnings per share (EPS) growth of 14-18% annually <a class="yt-timestamp" data-t="32:24">[32:24]</a>. This growth rate is potentially higher than that of major tech companies like Microsoft or Google <a class="yt-timestamp" data-t="32:35">[32:35]</a>.
 
-Druckenmiller emphasizes looking 12 to 24 months into the future <a class="yt-timestamp" data-t="00:36:42">[00:36:42]</a>, rather than buying into current fads or euphoria <a class="yt-timestamp" data-t="00:37:06">[00:37:06]</a>. He advises against buying companies when their earnings are exceptionally good, as that often leads to overexpansion and future losses. Conversely, he suggests investing when companies are experiencing poor earnings, as this indicates a contraction in capacity that will lead to increased profit margins in the future <a class="yt-timestamp" data-t="00:36:06">[00:36:06]</a>. This allows for buying stocks that are currently cheap but have strong future growth potential due to underlying factors <a class="yt-timestamp" data-t="00:37:28">[00:37:28]</a>. This approach aims to achieve returns uncorrelated with overall market movements <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>.
+#### 4. Coherent (Specialized Industrial Components)
 
-This strategy showcases a clear shift from growth-at-any-price tech stocks to undervalued industrial and commodity-linked companies, anticipating a future market environment driven by changing monetary policy and macro trends.
+[[Investment techniques and market timing according to Stanley Druckenmiller | Coherent]] is [[Stanley Druckenmiller's recession prediction for 2023 and strategies for investors | Druckenmiller's]] largest investment, totaling $260 million <a class="yt-timestamp" data-t="33:12">[33:12]</a>.
+*   **Niche Market**: Produces highly specialized industrial components like measuring lasers and thermal imaging, operating in niche markets that provide high profit margins and growth <a class="yt-timestamp" data-t="34:01">[34:01]</a>.
+*   **Anticipating Future Recovery**: [[Investment strategies of successful investors | Druckenmiller]]'s philosophy is to buy companies when current earnings are depressed, as this often signals future improvement. Coherent's earnings per share dropped due to companies delaying investments in fixed assets, but this pause is temporary <a class="yt-timestamp" data-t="34:37">[34:37]</a>.
+*   **Industrial Cycle**: He likens it to chemical stocks in the 1970s; when companies are losing money, they stop building new capacity, which eventually leads to reduced capacity and increased profit margins in 3-4 years <a class="yt-timestamp" data-t="35:56">[35:56]</a>.
+*   **Industrial Sector Recovery**: The U.S. manufacturing index shows a contraction since mid-2022 due to past over-investment and rate hikes, but this cycle is expected to reverse, benefiting industrial sectors <a class="yt-timestamp" data-t="38:15">[38:15]</a>.
+*   **Projected Growth**: Coherent expects significant growth (8-20% across electronics, telecom, industrial), leading to an overall expected growth of over 14-15% until 2028 <a class="yt-timestamp" data-t="34:11">[34:11]</a>. Profits are projected to triple from their current depressed levels <a class="yt-timestamp" data-t="39:47">[39:47]</a>.
+
+## Overall Outlook
+
+[[Stanley Druckenmiller's economic predictions | Druckenmiller]] is preparing for a new economic scenario in 2025 where euphoria in certain tech sectors will dissipate, the Federal Reserve will lower rates due to economic weakening, and the dollar will decrease in value while inflation remains high <a class="yt-timestamp" data-t="00:10">[00:10]</a>, <a class="yt-timestamp" data-t="00:54">[00:54]</a>. His strategy involves abandoning overvalued sectors like big tech and repositioning towards attractively valued areas that are expected to perform better, such as commodities, real estate, and industrials, which benefit from these anticipated macro changes <a class="yt-timestamp" data-t="00:24">[00:24]</a>.

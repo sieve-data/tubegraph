@@ -1,0 +1,36 @@
+---
+title: Investing in productive assets
+videoId: uOY8XmYKMss
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Investing in productive assets is a core principle advocated by Warren Buffett to prepare for future economic or stock market crises <a class="yt-timestamp" data-t="08:14:55">[08:14:55]</a>. This strategy focuses on acquiring assets that generate an income, rather than relying solely on appreciation from market speculation <a class="yt-timestamp" data-t="08:21:00">[08:21:00]</a>.
+
+## What are Productive Assets?
+Productive assets are defined as investments that produce something, such as an income, dividends, or facilitate share buybacks <a class="yt-timestamp" data-t="08:21:00">[08:21:00]</a>. This contrasts with non-productive assets, which only increase in value if someone else is willing to pay more for them <a class="yt-timestamp" data-t="08:33:00">[08:33:00]</a>.
+
+### Examples of Productive Assets
+*   **Income-generating properties** <a class="yt-timestamp" data-t="08:43:00">[08:43:00]</a>
+*   **Stocks of companies that pay dividends** <a class="yt-timestamp" data-t="08:44:00">[08:44:00]</a> or can reinvest their profits to grow the business <a class="yt-timestamp" data-t="09:18:00">[09:18:00]</a>. These are often referred to as "quality stocks" <a class="yt-timestamp" data-t="12:51:00">[12:51:00]</a> or [[investing_in_exceptional_businesses | good businesses]] <a class="yt-timestamp" data-t="12:56:00">[12:56:00]</a>.
+    *   Examples include Coca-Cola <a class="yt-timestamp" data-t="08:44:00">[08:44:00]</a>, Moody's <a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>, Bank of America <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>, Novo Nordisk <a class="yt-timestamp" data-t="16:12:00">[16:12:00]</a>, Johnson & Johnson <a class="yt-timestamp" data-t="16:20:00">[16:20:00]</a>, Medtronic <a class="yt-timestamp" data-t="16:25:00">[16:25:00]</a>, Stryker <a class="yt-timestamp" data-t="16:31:00">[16:31:00]</a>, General Dynamics <a class="yt-timestamp" data-t="16:56:00">[16:56:00]</a>, Pepsi <a class="yt-timestamp" data-t="17:15:00">[17:15:00]</a>, Sanofi <a class="yt-timestamp" data-t="17:43:00">[17:43:00]</a>, Mastercard <a class="yt-timestamp" data-t="18:31:00">[18:31:00]</a>, Colgate <a class="yt-timestamp" data-t="19:04:00">[19:04:00]</a>, Home Depot <a class="yt-timestamp" data-t="19:13:00">[19:13:00]</a>, Union Pacific <a class="yt-timestamp" data-t="19:26:00">[19:26:00]</a>, Intel <a class="yt-timestamp" data-t="17:11:00">[17:11:00]</a>, Altria <a class="yt-timestamp" data-t="01:07:18">[01:07:18]</a>, Enbridge <a class="yt-timestamp" data-t="01:08:17">[01:08:17]</a>, Philip Morris <a class="yt-timestamp" data-t="01:09:18">[01:09:18]</a>, Good Equity Partners <a class="yt-timestamp" data-t="01:09:23">[01:09:23]</a>, and Taiwan Semiconductor Manufacturing Company (TSMC) <a class="yt-timestamp" data-t="01:24:06">[01:24:06]</a>.
+    *   A technique to identify quality stocks is by looking at "dividend aristocrats" or "dividend kings," which are companies with a long history of consistently increasing their dividends <a class="yt-timestamp" data-t="15:16:00">[15:16:00]</a>.
+
+### Avoiding Non-Productive Assets
+Warren Buffett warns against investing in "non-productive assets," especially during periods of market euphoria <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>.
+*   **Gold**: Does not produce a monthly income like real estate or a good stock that pays dividends <a class="yt-timestamp" data-t="08:39:00">[08:39:00]</a>. Its value depends on someone else paying more for it <a class="yt-timestamp" data-t="08:33:00">[08:33:00]</a>.
+*   **Speculative stocks**: Companies that don't produce profits (e.g., Nicola) are considered non-productive, even if they are stocks <a class="yt-timestamp" data-t="08:55:00">[08:55:00]</a>.
+*   **Cryptocurrencies**: Bitcoin and other cryptocurrencies are also identified as non-productive assets <a class="yt-timestamp" data-t="09:01:00">[09:01:00]</a>.
+*   In times of market complication, these non-productive assets tend to be in less demand <a class="yt-timestamp" data-t="09:06:00">[09:06:00]</a> and can result in losing investments, performing worse than the broader market <a class="yt-timestamp" data-t="01:10:06">[01:10:06]</a>.
+
+## Why Invest in Productive Assets?
+*   **Predictability**: Productive assets generate consistent income or profits, making them more predictable <a class="yt-timestamp" data-t="05:55:00">[05:55:00]</a>.
+*   **Reduced Risk**: When a company is earning a lot of money and can reinvest profits to grow, it generally performs much better, especially during market downturns <a class="yt-timestamp" data-t="09:18:00">[09:18:00]</a>. High-quality companies tend to fall less in a market crisis <a class="yt-timestamp" data-t="04:48:00">[04:48:00]</a>.
+*   **Long-term Wealth Creation**: This strategy is aligned with [[longterm_investment_strategies | long-term investment strategies]] that focus on compounding returns. Companies with consistent growth, even modest, can generate significant wealth over time <a class="yt-timestamp" data-t="01:00:50">[01:00:50]</a>.
+*   **Resilience in Crises**: Productive assets, especially those from [[predictable_businesses_in_investment | predictable businesses]] with little debt, tend to suffer less during crises and recover more quickly than the overall market <a class="yt-timestamp" data-t="02:04:00">[02:04:00]</a>, <a class="yt-timestamp" data-t="02:34:00">[02:34:00]</a>, <a class="yt-timestamp" data-t="02:48:00">[02:48:00]</a>, <a class="yt-timestamp" data-t="04:10:00">[04:10:00]</a>.
+
+## Key Takeaways
+*   **Focus on Quality**: Prioritize buying stocks of [[investing_in_exceptional_businesses | good businesses]] with a long history of stable growth and profits <a class="yt-timestamp" data-t="12:59:00">[12:59:00]</a>. Look for companies that have been listed for a long time and show a consistent upward trend <a class="yt-timestamp" data-t="13:09:00">[13:09:00]</a>.
+*   **Avoid Overpaying**: While quality is important, it's crucial not to overpay for it, especially during bull markets when valuations can become inflated (e.g., 100-300 times earnings or 20-40 times sales) <a class="yt-timestamp" data-t="13:29:00">[13:29:00]</a>, <a class="yt-timestamp" data-t="14:01:00">[14:01:00]</a>.
+*   **Patience**: [[methods_for_effective_saving_and_investment | Investing]] in productive assets requires patience <a class="yt-timestamp" data-t="01:01:01">[01:01:01]</a>. While the market may have short-term fluctuations, the underlying value of strong businesses tends to prevail in the long term <a class="yt-timestamp" data-t="01:01:01">[01:01:01]</a>.
+*   **Understand the Business**: A deep understanding of how a company operates, its competitive advantages, and its long-term prospects is essential <a class="yt-timestamp" data-t="01:42:30">[01:42:30]</a>. This contrasts with speculative investments where success is less predictable <a class="yt-timestamp" data-t="01:04:45">[01:04:45]</a>.

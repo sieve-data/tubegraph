@@ -1,0 +1,68 @@
+---
+title: Federal Reserves impact on the economy
+videoId: gRJhgmpnQWg
+---
+
+From: [[artedeinvertir]] <br/> 
+
+The latest inflation data has been described as "terrible" and "out of control" <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>, with the Federal Reserve (Fed) acknowledging the situation <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. Central bankers have warned about their limited ability to address the issue <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. This environment is seen as an [[impact_of_central_bank_policies_on_economic_conditions | ideal situation to take advantage of]] for training and knowledge in the stock market <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>, as opportunities may arise for those prepared <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
+
+## Current Economic Situation and the Fed's Actions
+
+Inflation recently exceeded 9.1%, which was worse than expected <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. Forecasts suggest the Fed might increase interest rates by up to 100 basis points at its next meeting <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>, with a 40% probability of this historic increase <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. A 75 basis point increase is already "totally discounted" by the market <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>, aiming for the Fed interest rate to be around 2.5% <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. The Bank of Canada recently raised its rates by 100 basis points, which the market did not price in, potentially influencing the Fed <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>.
+
+### Economic Indicators and Market Impact
+
+An additional problem observed is the inversion of the yield curve <a class="yt-timestamp" data-t="00:04:58">[00:04:58]</a>. Historically, this inversion has led to a [[federal_reserves_plan_and_economic_recession | recession]] <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>, which negatively impacts corporate profits and, consequently, the stock market <a class="yt-timestamp" data-t="00:05:04">[00:05:04]</a>. This inversion is typically seen during periods of rising [[impact_of_interest_rate_changes_on_the_economy | interest rates]] set by central banks <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>.
+
+A contraction in corporate operating margins for S&P 500 companies is already evident <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>. While the stock market's initial response has been a compression of multiples, the second phase could involve profit compression due to economic recession <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>. China is already experiencing this <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>, and leading indicators for the US also suggest a similar situation <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. Rising [[impact_of_inflation_and_interest_rates_on_the_economy | interest rates]] also reduce company profits by increasing debt costs <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>.
+
+A Goldman Sachs table shows significant profit contraction across most sectors, with the energy sector being the only one supporting the S&P 500, growing profits by 220% <a class="yt-timestamp" data-t="00:06:23">[00:06:23]</a>. Financial companies, utilities, and discretionary consumption sectors are reducing profits <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. Technology sector growth, while still positive at 7%, is down from previous rates of 15-20%, requiring valuation adjustments <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+
+Despite the negative outlook, stock prices have significantly dropped, with high-quality shares falling 30-60% <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>. The stock market is forward-looking, and opportunities exist when conditions are bad but expected to improve <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>.
+
+## Limitations of Monetary Policy
+
+Investor Vicens Home, known for accurately predicting macro events <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>, has warned that inflation could rise further and that the [[role_of_federal_reserve_and_central_banks_in_market_movements | Federal Reserve]] and other central banks have limited tools <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. He asserted that "the Fed is lying" <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>, comparing current [[impact_of_interest_rate_changes_on_the_economy | interest rate hikes]] to trying to clear hell's snow with a spoon <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>.
+
+The core problem, according to Home, is a supply issue, not demand <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. Companies are not producing enough due to COVID-related disruptions and problems with production capacity and personnel <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>. The Fed cannot compel oil companies to extract more oil or gas to reduce energy prices, a primary driver of high inflation <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>. This requires government action, which is currently inactive <a class="yt-timestamp" data-t="00:10:14">[01:10:14]</a>.
+
+Andrew Bailey, Governor of the Bank of England, admitted that "there isn't much we can do," stating that 80% of inflation is beyond their control <a class="yt-timestamp" data-t="01:10:08">[01:10:08]</a>. While the Fed can influence demand by raising interest rates and reducing consumption <a class="yt-timestamp" data-t="01:11:23">[01:11:23]</a>, the supply side is shrinking even faster, as higher money costs discourage companies from investing in new projects or productive capacity <a class="yt-timestamp" data-t="01:11:38">[01:11:38]</a>. This creates a vicious circle <a class="yt-timestamp" data-t="01:11:57">[01:11:57]</a>.
+
+## Expert Opinions on the Fed's Actions
+
+Vicens Home anticipates that the Fed will eventually have to reverse its course on [[impact_of_interest_rate_changes_on_the_economy | interest rate hikes]] to support the heavily indebted American treasury <a class="yt-timestamp" data-t="01:12:17">[01:12:17]</a>. Other prominent investors like Ray Dalio and Jim Rogers share this view, believing that continued rate increases will lead to a recession, forcing the Fed to lower rates again <a class="yt-timestamp" data-t="01:12:20">[01:12:20]</a>. This point is predicted to be when the market begins to rebound <a class="yt-timestamp" data-t="01:12:38">[01:12:38]</a>.
+
+If inflation remains high while [[impact_of_interest_rate_changes_on_the_economy | interest rates]] stay low, financial assets like stocks and real assets tend to perform well <a class="yt-timestamp" data-t="01:13:29">[01:13:29]</a>. In such an "inflationary bull market," gold is also expected to perform strongly, particularly if the Fed "gives up" on rate hikes and allows inflation to stabilize over several years <a class="yt-timestamp" data-t="01:13:52">[01:13:52]</a>. Gold's performance is highly correlated with real rates of return on 10-year bonds, rising when real yields turn negative <a class="yt-timestamp" data-t="01:14:34">[01:14:34]</a>.
+
+## Inflation Data Nuances
+
+Core CPI, which excludes energy and food prices, is a key metric for the Fed in setting [[impact_of_interest_rate_changes_on_the_economy | interest rates]] because it cannot control these volatile components <a class="yt-timestamp" data-t="01:17:06">[01:17:06]</a>. This core inflation is currently moderating <a class="yt-timestamp" data-t="01:17:37">[01:17:37]</a>. The primary driver of inflation is energy <a class="yt-timestamp" data-t="01:17:50">[01:17:50]</a>. While the price of crude oil has dropped by 25% in recent weeks, it is still normalizing <a class="yt-timestamp" data-t="01:19:35">[01:19:35]</a>. If oil prices remain stable for a year, future inflation figures could even see negative rates, helping to normalize the overall inflation picture <a class="yt-timestamp" data-t="01:20:09">[01:20:09]</a>.
+
+The US Department of Statistics confirms energy as the main unbalanced factor in inflation data <a class="yt-timestamp" data-t="01:19:50">[01:19:50]</a>. Beyond energy, inflation for services is increasing <a class="yt-timestamp" data-t="01:18:07">[01:18:07]</a>. During the COVID-19 pandemic, people consumed more products (computers, phones, cars) due to restrictions on services <a class="yt-timestamp" data-t="01:18:17">[01:18:17]</a>. Now, with economies reopening, demand is shifting back to services like tourism and dining, driving up those prices <a class="yt-timestamp" data-t="01:18:38">[01:18:38]</a>. This pent-up demand for services is expected to normalize over time <a class="yt-timestamp" data-t="01:18:50">[01:18:50]</a>.
+
+Over-supply is now observed in the goods and products sector <a class="yt-timestamp" data-t="01:20:31">[01:20:31]</a>. Chip companies, for instance, over-produced, leading to overcapacity and falling prices in the microchip industry <a class="yt-timestamp" data-t="01:20:51">[01:20:51]</a>. Similarly, commodity prices for energy and several key metals (like copper) have dropped significantly, returning to 2021 levels <a class="yt-timestamp" data-t="01:21:47">[01:21:47]</a>.
+
+Market estimates for inflation, based on 10-year protected TIPS bonds, suggest that average inflation over the next decade will return to its historical average <a class="yt-timestamp" data-t="01:22:18">[01:22:18]</a>, indicating the current high levels are temporary <a class="yt-timestamp" data-t="01:22:47">[01:22:47]</a>.
+
+## Investment Strategy in the Current Environment
+
+Historical data on the Wilshire 5000 index (5,000 main US stocks) shows that periods of terrible six-month stock market returns, like early 2022, are followed by strong rebounds <a class="yt-timestamp" data-t="01:22:55">[01:22:55]</a>. The average performance at five years after such periods is an 80% return <a class="yt-timestamp" data-t="01:23:44">[01:23:44]</a>, and even at three years, money has "always been made" <a class="yt-timestamp" data-t="01:23:55">[01:23:55]</a>. This is attributed to cheap valuations and low expectations <a class="yt-timestamp" data-t="01:23:59">[01:23:59]</a>.
+
+Small-cap stocks (Russell 2000) have seen even more significant drops (around 30%) <a class="yt-timestamp" data-t="01:24:51">[01:24:51]</a>, historically leading to spectacular returns at 5 or 10 years <a class="yt-timestamp" data-t="01:25:02">[01:25:02]</a>.
+
+According to a J.P. Morgan study, when the stock market is at a reasonable valuation (e.g., P/E of 15), the average expected return over the next five years is around 10% <a class="yt-timestamp" data-t="01:25:50">[01:25:50]</a>. Small companies are currently trading at a P/E of 12 times, lower than large companies <a class="yt-timestamp" data-t="01:27:18">[01:27:18]</a>. Historically, after such low valuations, small caps have yielded over 10% annual returns over a decade <a class="yt-timestamp" data-t="01:27:25">[01:27:25]</a>. This is a historic reversal, as small companies normally traded at a premium due to higher growth prospects and better management <a class="yt-timestamp" data-t="01:28:44">[01:28:44]</a>.
+
+In the 1970s, during a period of low growth with inflation and rising [[impact_of_interest_rate_changes_on_the_economy | interest rates]], small caps were the best asset class, achieving 35% annual returns <a class="yt-timestamp" data-t="01:29:42">[01:29:42]</a>. In this environment, value investing and growth companies are also favored <a class="yt-timestamp" data-t="01:30:11">[01:30:11]</a>. Commodities, which have performed well recently, are expected to normalize <a class="yt-timestamp" data-t="01:30:21">[01:30:21]</a>.
+
+For individual stock picking, investors like Warren Buffett recommend looking for companies with:
+*   Pricing power <a class="yt-timestamp" data-t="01:31:43">[01:31:43]</a>
+*   High-profit margins <a class="yt-timestamp" data-t="01:31:46">[01:31:46]</a>
+*   Low debt <a class="yt-timestamp" data-t="01:31:46">[01:31:46]</a>
+*   Ability to raise prices <a class="yt-timestamp" data-t="01:31:49">[01:31:49]</a>
+*   Objective advantages <a class="yt-timestamp" data-t="01:31:51">[01:31:51]</a>
+*   Non-cyclical nature, performing well in any economic environment <a class="yt-timestamp" data-t="01:31:53">[01:31:53]</a>
+
+Warren Buffett also suggested investing in companies that require little reinvestment, generate significant cash flow, and can raise prices in inflationary environments due to lack of supply in their sector <a class="yt-timestamp" data-t="01:44:51">[01:44:51]</a>.
+
+Cyclical companies like banks, raw materials companies, insurers, construction companies, and airlines are generally considered "rental" businesses rather than "ownership" businesses <a class="yt-timestamp" data-t="01:18:59">[01:18:59]</a>, meaning they are suitable for short-term opportunities but not long-term holding <a class="yt-timestamp" data-t="01:19:16">[01:19:16]</a>. Banks, despite the theory, tend to suffer in rising [[impact_of_interest_rate_changes_on_the_economy | interest rate]] environments due to increased loan defaults and the overall negative impact of [[federal_reserves_plan_and_economic_recession | recessions]] <a class="yt-timestamp" data-t="01:18:08">[01:18:08]</a>.

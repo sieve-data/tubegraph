@@ -1,0 +1,26 @@
+---
+title: History and background of George Soros
+videoId: v8zKkWkukCs
+---
+
+From: [[artedeinvertir]] <br/> 
+
+[[george_soros_and_the_theory_of_reflexivity | George Soros]] is a renowned investor whose approach, largely based on his [[george_soros_and_the_theory_of_reflexivity | theory of reflexivity]], has generated a significant portion of his wealth <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. Since founding his fund in 1970, Soros has achieved spectacular results, including average annual returns of 25% over 45 years <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. Notably, he has navigated major financial crises—such as those in 1987, 1990, the dot-com bubble, 2008, and 2011—without suffering significant losses, often emerging strengthened <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>. Like other [[famous_investors_and_their_principles | great investors]], Soros is known for his unconventional strategies <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
+
+## Early Life and Education
+
+Soros was born in Hungary and became a refugee during the Second World War following the Nazi invasion <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. His parents, who were of upper-middle-class standing at the time, managed to falsify papers, enabling him to move to the United Kingdom <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. With some financial means, he gained admission to the London Business School <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. The London Business School was a prestigious institution that provided strong credentials and remains highly respected today <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+
+During his studies, Soros developed a passion for philosophy, which he states was his true calling, rather than investment <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. His mentor, Karl Popper, significantly influenced his thinking <a class="yt-timestamp" data-t="00:01:49">[00:01:49]</a>. Soros's efforts to [[the_impact_of_philosophy_on_soross_investment_approach | merge philosophy with investment]] ultimately led to the development of his famous [[george_soros_and_the_theory_of_reflexivity | theory of reflexivity]] <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+
+## Entry into the Financial World
+
+Upon graduating from London Business School, Soros faced considerable difficulty finding a job due to the deeply racist and xenophobic society at the time <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. He took on jobs unrelated to his qualifications, including selling vacuum cleaners door-to-door <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. His breakthrough came when he met another Hungarian, a middle manager at a financial institution, who helped him get his start in the financial world <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>.
+
+Initially, Soros practiced [[charlie_mungers_investment_principles | value investing]], focusing on cheap stocks <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. Over time, his [[soross_investment_strategies_and_success | investment philosophy]] evolved, leading him to modify his style in pursuit of greater profit <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. He gained a strong reputation by identifying undervalued German stocks in the 1950s and 60s, a period of significant growth <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. These "relentlessly cheap" stocks often had dual structures, similar to common and preferred shares seen today in markets like Korea <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. His successful reports to clients outlining market opportunities ultimately secured the support he needed to found his own company <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+
+### The Quantum Fund
+
+Soros founded his fund with just $23 million <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. This fund, known as the Quantum Fund in later years, grew to manage assets exceeding $30 billion to $40 billion <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. The majority of this growth was organic, as the fund eventually stopped accepting external clients <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. This growth showcases the power of compound interest, with 25% annual returns over 40 years transforming $23 million into a fortune that made Soros one of the richest people in the world <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
+
+Soros's well-known book, "The Alchemy of Finance," published in 1988-1989, details his [[george_soros_and_the_theory_of_reflexivity | theory of reflexivity]] <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>. The book is considered highly complex, requiring deep financial knowledge and investment experience to fully grasp <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. His investment style evolved from focusing solely on stocks to also speculating in currencies, indices, and raw materials like gold and oil <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. He typically operates across these four or five asset classes, engaging in both long and short positions on index futures <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.

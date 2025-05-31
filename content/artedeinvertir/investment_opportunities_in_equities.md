@@ -1,0 +1,56 @@
+---
+title: Investment opportunities in equities
+videoId: iCM0tL3DKeU
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Ray Dalio, a highly successful investor and one of the largest [[investment_opportunities_in_the_stock_market | investment fund managers]] globally, is often referred to as the "Steve Jobs of the stock market" <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. He manages the world's largest [[investment_opportunities_in_the_stock_market | investment fund]], with assets exceeding $130 billion <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. This fund's size is greater than the economies of some countries, such as Ecuador, Guatemala, or the Dominican Republic, whose GDP is less than $100 billion annually <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>. Dalio's personal fortune is estimated at over $18 billion, and he has helped his investors earn more than $56 billion <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+
+## Ray Dalio's Market Vision
+
+In a recent interview, Ray Dalio suggested the stock market and equities could experience a "lost decade" characterized by low returns and high volatility <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+
+### Factors Contributing to a "Lost Decade"
+
+Dalio's vision stems from several key factors:
+
+*   **Decline of Globalization**: Globalization, a primary driver of profitability in the developed world for decades, has reached its peak <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. Due to conflicts, such as that between the U.S. and China, multinational corporations are reshoring supply chains, prioritizing security over cost optimization <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. Companies like Intel and TSMC are building new factories in the U.S., despite higher manufacturing costs <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+*   **Profit Margins**: A major concern for Dalio is the unsustainably high profit margins some companies currently enjoy, a result of past cost optimization <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. Over the last 30 years of globalization, large companies' profit margins have increased from 5% to 10% <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. The evolution of earnings per share is the main factor determining a stock's future performance <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>, and the U.S. stock market's behavior has a high correlation with companies' earnings per share <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
+*   **Corporate Debt**: Even if corporate profits recover, many companies will emerge from recent crises with lower profit margins and increased debt <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. This means future profits will be diverted to pay interest and repay debt, rather than being reinvested for growth or distributed to shareholders as dividends <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. This sentiment is echoed by Warren Buffett, who sold his investment in airlines due to their increased debt levels <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>.
+
+## Investing as a Small Investor
+
+It is important to approach such statements with caution, as large investors must consider the general behavior of the [[investment_opportunities_in_the_stock_market | stock market]] due to the large sums of money they manage <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. A significant advantage for small investors is the flexibility to select individual companies with better prospects or a more favorable risk/reward ratio, rather than having to invest in the market as a whole <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>.
+
+## Specific Investment Opportunities
+
+The speaker highlights three specific [[investment_opportunities_in_the_stock_market | investment opportunities]] that Ray Dalio has recently pursued or that demonstrate resilient business models:
+
+### McDonald's (MCD)
+
+*   **Overview**: Ray Dalio recently bought shares in McDonald's (ticker: MCD) <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>. Since going public over 40 years ago, McDonald's has been an exceptional [[investment_opportunities_in_the_stock_market | investment]], multiplying its value by over 1,000 times <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
+*   **Business Model**: McDonald's primarily operates as a real estate business rather than just a fast-food chain <a class="yt-timestamp" data-t="00:07:56">[00:07:56]</a>. The company owns the land and buildings where its restaurants are located, leasing them to franchisees <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. This provides several advantages:
+    *   Ability to periodically raise rents <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>.
+    *   Greater control over franchisees <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>.
+    *   Long-term appreciation of real estate assets <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+    *   Financing real estate purchases with low-cost debt <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+*   **Financials**: Last year, McDonald's earned over $11 billion from franchisees, with the majority ($7.5 billion) coming from real estate rents <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>.
+*   **Resilience**: McDonald's business model performs well in various economic environments; for example, it had positive results in 2008 when the broader market fell significantly <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. More than 70% of its income comes from fixed rents, making it less affected by temporary restaurant closures <a class="yt-timestamp" data-t="00:08:29">[00:08:29]</a>. Its pick-up and delivery services have helped it withstand recent crises better than other restaurant companies <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>.
+*   **Growth & Valuation**: McDonald's is a mature company, with growth primarily coming from emerging countries <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. Its earnings per share are projected to grow between 7% and 12% annually through new restaurant openings, price increases, and share buybacks <a class="yt-timestamp" data-t="00:09:28">[00:09:28]</a>. The shares rarely trade cheaply due to the business's strong characteristics, currently at a P/E of 22 times future earnings <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>. A 5-year target price is estimated between $250 and $320 per share <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>.
+
+### India Stock Market ETF (YND)
+
+*   **Overview**: Ray Dalio has invested in the LTE ETF (ticker: YND), which replicates the performance of the Indian stock market <a class="yt-timestamp" data-t="00:09:56">[00:09:56]</a>.
+*   **Macro Investment**: Dalio is a macro investor who invests in broad [[investment_opportunities_in_various_sectors_and_companies | investment themes]], such as specific countries' economies <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a>. ETFs allow him to execute this strategy, as they represent the performance of multiple stocks within a market, unlike individual stocks that represent a single company <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>.
+*   **Access to India**: India is a closed market, making it difficult for foreign investors to select individual companies <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>. Investing via an ETF provides an easier way to gain exposure to the Indian market without bureaucratic complications <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>.
+*   **Economic Prospects**: India is considered one of the countries with the best economic prospects for the next decade <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>, with attractive valuations for its listed companies <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>. It has consistently shown growth rates over 7% per year, surpassing China and the average global growth <a class="yt-timestamp" data-t="00:11:34">[00:11:34]</a>.
+*   **Growth Factors**: India possesses several ingredients to become a world power: a young population, pro-capitalist reforms, cheap labor, low national debt, and proximity to major global powers like China <a class="yt-timestamp" data-t="00:11:44">[00:11:44]</a>. Given its stronger growth and prospects compared to the U.S. market (which averages 8% annually), India's ETF could provide higher returns <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>.
+
+### Inditex (ITX)
+
+*   **Overview**: Inditex (ticker: ITX), the owner of Zara clothing stores, is considered one of the best companies listed in Spain <a class="yt-timestamp" data-t="00:12:39">[00:12:39]</a>. Its founder, Amancio Ortega, is one of the world's wealthiest individuals, thanks to the success of its "fast fashion" concept <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>.
+*   **Business Model**: Inditex has a resilient business model with strong competitive advantages in distribution, design, and business culture <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>. It has successfully adapted to the internet era, with over 20% of its sales now online <a class="yt-timestamp" data-t="00:13:18">[00:13:18]</a>.
+*   **Financial Strength**: Unlike many other retail companies, Inditex owns most of its premises, which reduces pressure to pay rents that can drive competitors to bankruptcy <a class="yt-timestamp" data-t="00:13:37">[00:13:37]</a>. Additionally, Inditex has no debt, ensuring its long-term viability <a class="yt-timestamp" data-t="00:13:47">[00:13:47]</a>.
+*   **Future Growth**: Despite being a mature company, Inditex has significant potential for future growth <a class="yt-timestamp" data-t="00:13:53">[00:13:53]</a>. For example, Germany, with twice Spain's population and greater purchasing power, has only 80 Zara stores compared to Spain's 300+ <a class="yt-timestamp" data-t="00:14:03">[00:14:03]</a>. The company projects comparable sales growth of 4% to 6% annually, further boosted by new store openings to reach almost 10% total growth per year <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>.
+*   **Valuation**: Inditex shares typically do not trade at a low valuation due to the market's awareness of its quality <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>. When stores fully reopen, earnings are estimated at over one euro per share, resulting in a demanding P/E of 24 times <a class="yt-timestamp" data-t="00:15:26">[00:15:26]</a>. Future performance will rely more on earnings per share growth than multiple expansion <a class="yt-timestamp" data-t="00:15:40">[00:15:40]</a>. With annual comparable sales growth of 4-6%, plus 3% from new stores, and a 3% annual dividend yield, a 5-year target price is estimated between 35 and 45 euros per share <a class="yt-timestamp" data-t="00:15:46">[00:15:46]</a>.

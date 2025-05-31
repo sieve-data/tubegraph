@@ -5,86 +5,84 @@ videoId: cfXTjxKB3KQ
 
 From: [[artedeinvertir]] <br/> 
 
-[[Investment advice and strategies from top investors | Cathie Wood]] has emerged as a prominent figure on Wall Street, known for achieving significant returns through a revolutionary investment approach focused on high-growth and disruptive stocks <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>.
+[[Cathie Woods stock market predictions | Cathie Wood]] has emerged as a prominent figure on Wall Street, known for achieving high returns by focusing on high-growth stocks <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. In 2020, her main investment fund saw a 170% return, and over the past five years, it has generated over 700% <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
 
-## Background and Meteoric Rise
-Until five years ago, [[Investment advice and strategies from top investors | Cathie Wood]] was an unknown, working in investment banking <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. Her rise began in 2015 when she founded her investment company, **Ark Invest** <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>. Since then, she has grown her managed assets from a small sum to over $30 billion <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>. Forbes magazine estimates her personal wealth exceeds $500 million, accumulated in a few years due to her investment success <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+## Background and Rise to Prominence
+Prior to her current success, [[Cathie Woods stock market predictions | Cathie Wood]] was relatively unknown, working in investment banking until five years ago <a class="yt-timestamp" data-t="01:03:00">[01:03:00]</a>. Her meteoric rise began in 2015 when she founded her investment company, Ark Invest <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>. Since then, she has grown Ark Invest's managed assets from a small sum to more than $30 billion <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>. Forbes magazine estimates her personal wealth exceeds $500 million, accumulated rapidly through her investment success <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>.
 
-Her main investment fund, **Ark Innovation**, achieved a 170% return in 2020 alone <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>, and over five years, it has delivered returns exceeding 700% <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a> <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>.
+Her fund, Ark Innovation, has allowed investors to multiply their money by over seven times since its inception <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>. This success is partly attributed to her "revolutionary" [[Investment strategies and philosophies | investment approach]] <a class="yt-timestamp" data-t="01:47:00">[01:47:00]</a>.
 
 ## Investment Philosophy: Innovation and Disruption
-[[Investment advice and strategies from top investors | Cathie Wood]] defines herself as an investor in innovation and disruptive technologies <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>. Her approach diverges significantly from traditional Wall Street investors who typically focus on numerical financial and accounting metrics <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+[[Cathie Woods stock market predictions | Cathie Wood]] defines herself as an investor in innovation and disruptive technologies <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a>. Unlike most traditional Wall Street investors who focus heavily on numerical financial and accounting metrics <a class="yt-timestamp" data-t="02:14:00">[02:14:00]</a>, [[Cathie Woods stock market predictions | Cathie Wood]] places financial metrics in the "back seat" <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>.
 
-For [[Investment advice and strategies from top investors | Cathie Wood]], financial metrics take a backseat <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. She uses two basic premises for stock investment <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>:
-1.  **Revolutionary Companies**: The company must be revolutionary, transforming a mature sector (like Spotify in music) or directly creating new sectors (like Teladoc in telemedicine) <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
-2.  **High Sales Growth**: The company must exhibit high sales growth, even if it doesn't currently produce economic benefits <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>. Her theory posits that many such companies will dominate their markets, reinvesting earnings for growth and market share, similar to **Amazon**'s early strategy <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+Her [[Investment strategies and philosophies | investment strategy]] is based on two core premises:
+1.  **Revolutionary Companies**: The company must be revolutionary, either transforming a mature sector (e.g., Spotify in music) or directly creating new sectors (e.g., Teladoc in telemedicine) <a class="yt-timestamp" data-t="02:52:00">[02:52:00]</a>.
+2.  **High Sales Growth**: The company must exhibit high sales growth, even if it is not currently generating economic benefits <a class="yt-timestamp" data-t="03:15:00">[03:15:00]</a>.
 
-[[Investment advice and strategies from top investors | Cathie Wood]] would not invest in a traditional, high-quality company like **Nestlé** because it operates in a mature sector with limited growth capacity <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.
+### The Amazon Analogy
+[[Cathie Woods stock market predictions | Cathie Wood]] believes many of these high-growth companies will eventually dominate their respective markets <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>. They may not produce profits now because they are reinvesting earnings back into the business to grow and gain market share <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>. She draws a parallel to Amazon, which lost money for decades due to high reinvestment for rapid growth and market share <a class="yt-timestamp" data-t="03:36:00">[03:36:00]</a>. Once Amazon became dominant, it reduced growth costs and slightly increased prices, leading to disproportionate profitability and making shareholders wealthy <a class="yt-timestamp" data-t="03:49:00">[03:49:00]</a>.
 
-## Key Investment Sectors
-Ark Invest identifies six favorite sectors for investment <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>:
-*   Artificial Intelligence <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>
-*   Autonomous Cars <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>
-*   Robotics <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>
-*   3D Printing <a class="yt-timestamp" data-t="00:04:41">[00:04:41]</a>
-*   Genetics <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>
-*   Financial Technology (Fintech) <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>
+Conversely, [[Cathie Woods stock market predictions | Cathie Wood]] would not invest in a traditional, high-quality company like Nestlé because it operates in a mature sector with limited growth capacity <a class="yt-timestamp" data-t="04:04:00">[04:04:00]</a>.
 
-## Market Warning: Bubble in Passive Management
-[[Investment advice and strategies from top investors | Cathie Wood]] has warned investors about a "major bubble" and "enormous risk" in passive or indexed management and major indices like the **S&P 500**, **Dow Jones**, or **MSCI World** <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>. She is not the first to express this, with investors like Michael Burry also warning about a bubble in these financial products <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
+## Preferred Investment Sectors
+Ark Invest's six favorite sectors for investment are <a class="yt-timestamp" data-t="04:30:00">[04:30:00]</a>:
+*   Artificial Intelligence <a class="yt-timestamp" data-t="04:37:00">[04:37:00]</a>
+*   Autonomous Cars <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>
+*   Robotics <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>
+*   3D Printing <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>
+*   Genetics <a class="yt-timestamp" data-t="04:42:00">[04:42:00]</a>
+*   Financial Technology (Fintech) <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>
 
-Her reasoning is that indices like the S&P 500 are designed for an inflationary world, which she believes is changing <a class="yt-timestamp" data-t="00:05:29">[00:05:29]</a>. She anticipates a deflationary scenario due to high technological innovation and significant cost reduction across the economy <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>. In this future, she expects the market to appreciate innovative companies that are not typically included in these indices, thus not being harmed when the index bubble bursts <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>.
+## Warning on Passive Management and Market Outlook
+[[Cathie Woods stock market predictions | Cathie Wood]] has warned investors about a significant bubble and enormous risk in passive or indexed management, specifically mentioning major indices like the S&P 500, Dow Jones, or MSCI World <a class="yt-timestamp" data-t="04:48:00">[04:48:00]</a>. She is not the first to express this concern, with Michael Burry also having warned about a bubble in these financial products <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>.
 
-She also doesn't believe there's an equity bubble until there's a rotation of bonds towards equities <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>. [[Investment advice and strategies from top investors | Cathie Wood]] notes that younger investors (millennials) prefer stocks, cryptocurrencies, and housing, which are sectors she favors for the coming year <a class="yt-timestamp" data-t="00:06:24">[00:06:24]</a>. She highlights fixed income and bonds as areas where most money has flowed recently, and where many experts see a "tremendous bubble" <a class="yt-timestamp" data-t="00:06:33">[00:06:33]</a>.
+She explains that indices like the S&P 500 are filled with "average companies" and are designed for an inflationary world, like the one experienced in recent decades <a class="yt-timestamp" data-t="05:22:00">[05:22:00]</a>. However, [[Cathie Woods stock market predictions | Cathie Wood]] believes the world is heading towards a deflationary scenario due to high technological innovation and significant cost reduction <a class="yt-timestamp" data-t="05:34:00">[05:34:00]</a>.
 
-## [[Cathie Woods portfolio and main stock holdings | Main Portfolio Holdings]]
-Here are some of the main investments in [[Cathie Woods portfolio and main stock holdings | Cathie Wood]]'s portfolio, exemplifying her strategy:
+Her future scenario suggests that when these indices perform poorly and the bubble bursts, the market will favor companies with a high innovative and technological disruption component, such as those in her funds, which are not typically included in these indices and would therefore be less harmed <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>.
+
+In a recent interview, she stated that she doesn't believe there is an equity bubble until there's a rotation from bonds to equities <a class="yt-timestamp" data-t="06:11:00">[06:11:00]</a>. She notes that while older populations are attracted to bonds, younger investors (millennials) prefer stocks, cryptocurrencies, and housing <a class="yt-timestamp" data-t="06:22:00">[06:22:00]</a>. She identifies fixed income and bonds as areas where most experts agree there is a "tremendous bubble" <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a>.
+
+## [[Key stocks in Cathie Woods portfolio | Main Investments]]
+
+Here are some of the [[Key stocks in Cathie Woods portfolio | main investments]] in her portfolio:
 
 ### Tesla (TSLA)
-*   **Weighting**: 9% of the portfolio, over $2 billion invested <a class="yt-timestamp" data-t="00:06:59">[00:06:59]</a>.
-*   **Sector**: Revolutionizing the mobility segment with electric cars and autonomous driving <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
-*   **Outlook**: [[Investment advice and strategies from top investors | Cathie Wood]]'s target price for **Tesla** was $7,000 per share before its stock split <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>.
+*   **Weighting**: 9% <a class="yt-timestamp" data-t="06:59:00">[06:59:00]</a>
+*   **Description**: Listed under the ticker TSLA <a class="yt-timestamp" data-t="07:05:00">[07:05:00]</a>, Tesla is revolutionizing the mobility segment with electric cars and autonomous driving <a class="yt-timestamp" data-t="07:11:00">[07:11:00]</a>.
+*   **Outlook**: [[Cathie Woods stock market predictions | Cathie Wood]] previously stated a target price for Tesla of $7,000 per share (before the stock split) <a class="yt-timestamp" data-t="07:23:00">[07:23:00]</a>.
 
 ### Roku (ROKU)
-*   **Weighting**: Significant holding, ticker ROKU <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>.
-*   **Sector**: Innovative company in the smart TV segment, experiencing high sales growth <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>.
-*   **Role**: Described as the "Google of smart TV," helping advertisers and consumers <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>.
-*   **Growth**: Dominant market position, expected to grow over 40% annually despite not currently producing profits <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>.
+*   **Weighting**: Significant <a class="yt-timestamp" data-t="07:37:00">[07:37:00]</a> (specific percentage not stated, but discussed immediately after Tesla).
+*   **Description**: Listed under the ticker ROKU <a class="yt-timestamp" data-t="07:44:00">[07:44:00]</a>, Roku is an innovative company in the smart TV segment, experiencing high sales growth <a class="yt-timestamp" data-t="07:54:00">[07:54:00]</a>. It functions as the "Google of smart TV," connecting advertisers and consumers <a class="yt-timestamp" data-t="08:02:00">[08:02:00]</a>.
+*   **Market Position**: Roku's systems and services hold the largest market share in smart TV, ahead of companies like Microsoft or Amazon <a class="yt-timestamp" data-t="08:22:00">[08:22:00]</a>.
+*   **Outlook**: Expected to grow over 40% annually in the coming years <a class="yt-timestamp" data-t="08:30:00">[08:30:00]</a>. Despite not currently producing profits, this is consistent with [[Cathie Woods stock market predictions | Cathie Wood]]'s [[Investment strategies and philosophies | investment philosophy]] <a class="yt-timestamp" data-t="08:35:00">[08:35:00]</a>.
 
 ### Crispr Therapeutics (CRSP)
-*   **Weighting**: 5% of the portfolio, ticker CRSP <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>.
-*   **Sector**: Operates in genetics and DNA modification, a favorite sector for [[Investment advice and strategies from top investors | Cathie Wood]] <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>.
-*   **Development**: Still in development, but its gene therapies could cure hereditary diseases like cancer <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>.
-*   **Risk**: Considered a highly speculative stock; the company has not yet generated income, and shares have multiplied by over ten times in less than two years <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+*   **Weighting**: 5% <a class="yt-timestamp" data-t="09:06:00">[09:06:00]</a>
+*   **Description**: Listed under the ticker CRSP <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a>, this company operates in the genetics and DNA modification segment <a class="yt-timestamp" data-t="09:15:00">[09:15:00]</a>, a favorite sector for [[Cathie Woods stock market predictions | Cathie Wood]] <a class="yt-timestamp" data-t="09:18:00">[09:18:00]</a>. It is in the development phase, with gene therapies that could cure hereditary diseases like cancer <a class="yt-timestamp" data-t="09:22:00">[09:22:00]</a>.
+*   **Risk**: Considered a "very speculative stock" because it has not yet generated income, and its shares have multiplied over ten times in less than two years <a class="yt-timestamp" data-t="09:35:00">[09:35:00]</a>.
 
 ### Square (SQ)
-*   **Weighting**: 47% (likely a transcript error, meant 4-7% or 4.7%), ticker SQ <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
-*   **Sector**: Financial technology (Fintech), another favorite sector, leveraging innovation in the typically less innovative financial sector <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
-*   **Services**: Offers online and physical payment systems for merchants, at lower costs and with less bureaucracy than traditional banks <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>.
-*   **Growth**: The company has multiplied by over 20 times on the stock market in less than 5 years <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>.
+*   **Weighting**: 4.7% <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>
+*   **Description**: Listed under the ticker SQ <a class="yt-timestamp" data-t="09:56:00">[09:56:00]</a>, Square operates in financial technology (fintech), another favored sector for [[Cathie Woods stock market predictions | Cathie Wood]] <a class="yt-timestamp" data-t="10:01:00">[10:01:00]</a>. The financial sector's lack of recent innovation has created opportunities for companies like Square, which offers online and physical payment systems for merchants <a class="yt-timestamp" data-t="10:08:00">[10:08:00]</a>.
+*   **Competitive Advantage**: Provides services at a lower cost and with less bureaucracy than traditional banks <a class="yt-timestamp" data-t="10:28:00">[10:28:00]</a>.
+*   **Performance**: The company has multiplied by over 20 times on the stock market in less than five years since its IPO <a class="yt-timestamp" data-t="10:36:00">[10:36:00]</a>.
 
-### Teladoc Health (TDOC)
-*   **Weighting**: 4% of the portfolio, ticker TDOC <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>.
-*   **Sector**: Revolutionized the telemedicine segment with mobile applications and videoconferencing <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>.
-*   **Growth**: Billed over $1 billion from $120 million in less than four years, equivalent to over 80% annual growth <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>. The telemedicine segment in the US alone could be worth $250 billion in a few years, indicating vast market potential <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
-*   **Profitability**: Unlike some other [[Investment advice and strategies from top investors | Cathie Wood]] investments, **Teladoc Health** has positive earnings and cash flow <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>. However, its valuation is demanding (over 100 times earnings compared to the market average of 20 times) <a class="yt-timestamp" data-t="00:12:04">[00:12:04]</a>.
+### Teladoc (TDOC)
+*   **Weighting**: 4% <a class="yt-timestamp" data-t="11:03:00">[11:03:00]</a>
+*   **Description**: Listed under the ticker TDOC <a class="yt-timestamp" data-t="11:07:00">[11:07:00]</a>, Teladoc has revolutionized the telemedicine segment with mobile applications, videoconferencing systems, and a staff of experts and doctors <a class="yt-timestamp" data-t="11:14:00">[11:14:00]</a>.
+*   **Growth**: In less than four years, the company's billing grew from $120 million to over $1 billion, an annual growth of over 80% <a class="yt-timestamp" data-t="11:26:00">[11:26:00]</a>. The telemedicine segment in the U.S. alone could be worth $250 billion in a few years <a class="yt-timestamp" data-t="11:37:00">[11:37:00]</a>.
+*   **Profitability/Risk**: Unlike some other [[Key stocks in Cathie Woods portfolio | Cathie Wood]] investments, Teladoc has positive earnings and cash flow <a class="yt-timestamp" data-t="12:00:00">[12:00:00]</a>. However, its valuation is considered demanding, trading at over 100 times earnings, leaving "little room for error and increases risk for the future" <a class="yt-timestamp" data-t="12:06:00">[12:06:00]</a>.
 
 ### Invitae Holdings (NVTA)
-*   **Weighting**: 4% of the portfolio, ticker NVTA <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>.
-*   **Sector**: Similar to Crispr Therapeutics, making advances in genetics and DNA <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
-*   **Revenue**: Unlike Crispr Therapeutics, **Invitae** already has revenue and is expected to grow more than 60% next year <a class="yt-timestamp" data-t="00:12:55">[00:12:55]</a>.
-*   **Performance**: Risen over 500% since 2018 <a class="yt-timestamp" data-t="00:13:05">[00:13:05]</a>.
+*   **Weighting**: 4% <a class="yt-timestamp" data-t="12:37:00">[12:37:00]</a>
+*   **Description**: Listed under the ticker NVTA <a class="yt-timestamp" data-t="12:41:00">[12:41:00]</a>, Invitae is similar to Crispr Therapeutics, making advances in genetics and DNA <a class="yt-timestamp" data-t="12:47:00">[12:47:00]</a>.
+*   **Growth**: Unlike Crispr, Invitae already has revenue and is expected to grow over 60% in the coming year <a class="yt-timestamp" data-t="12:53:00">[12:53:00]</a>. The company has risen over 500% since 2018 <a class="yt-timestamp" data-t="13:05:00">[13:05:00]</a>.
 
 ### Zillow (ZG)
-*   **Weighting**: 3% of the portfolio, ticker ZG <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>.
-*   **Sector**: A fully digital real estate agency, allowing users to buy, sell, rent, or finance housing through its platforms <a class="yt-timestamp" data-t="00:13:18">[00:13:18]</a>.
-*   **Growth**: Reduces costs drastically, enabling growth exceeding 30% annually <a class="yt-timestamp" data-t="00:13:33">[00:13:33]</a>.
-*   **Valuation**: While it has positive sales and profits, its current valuation is very demanding, reaching 100 times earnings, compared to a market average of 12 times <a class="yt-timestamp" data-t="00:13:38">[00:13:38]</a>.
+*   **Weighting**: 3% <a class="yt-timestamp" data-t="13:10:00">[13:10:00]</a>
+*   **Description**: Listed under the ticker ZG <a class="yt-timestamp" data-t="13:14:00">[13:14:00]</a>, Zillow is described as a fully digital real estate agency <a class="yt-timestamp" data-t="13:18:00">[13:18:00]</a>. Its platforms allow users to buy, sell, rent, or finance housing, drastically reducing costs <a class="yt-timestamp" data-t="13:21:00">[13:21:00]</a>.
+*   **Growth/Risk**: The company has grown over 30% annually <a class="yt-timestamp" data-t="13:35:00">[13:35:00]</a>. While it produces positive sales and profits, its valuation is very demanding, reaching 100 times earnings compared to the market average of 12 times <a class="yt-timestamp" data-t="13:41:00">[13:41:00]</a>.
 
-## Tracking [[Cathie Woods portfolio and main stock holdings | Cathie Wood]]'s Daily Movements
-A useful tool for those who appreciate [[Investment advice and strategies from top investors | Cathie Wood]]'s investment style is the ability to track her fund movements daily <a class="yt-timestamp" data-t="00:14:37">[00:14:37]</a>. Because part of her investment funds are organized as ETFs, regulators require daily disclosure of purchases and sales <a class="yt-timestamp" data-t="00:14:44">[00:14:44]</a>.
-
-To access this information, one can search "red doble here holdings pdf" on Google <a class="yt-timestamp" data-t="00:14:57">[00:14:57]</a>. The first link will lead to a PDF document from the **Ark Invest** website, detailing holdings, weights, and daily changes in specific actions <a class="yt-timestamp" data-t="00:15:03">[00:15:03]</a>.
-
-> [!CAUTION] Educational Content
-> All information provided is for educational purposes. Investors are responsible for their own decisions and should conduct prior analysis before making any investment <a class="yt-timestamp" data-t="00:12:23">[00:12:23]</a>. The speculative nature of some of the highlighted stocks carries a high risk <a class="yt-timestamp" data-t="00:09:32">[00:09:32]</a>.
+## How to Follow Her Movements
+For those interested in [[Investment strategies and advice | Cathie Wood]]'s [[Investment strategies and philosophies | investment style]], it's possible to track her movements daily <a class="yt-timestamp" data-t="14:38:00">[14:38:00]</a>. Because some of her investment funds are structured as ETFs, regulatory rules require them to declare daily purchases or sales <a class="yt-timestamp" data-t="14:43:00">[14:43:00]</a>. This information can be found by searching "Ark Daily Holdings PDF" on Google; the first link will typically lead to a downloadable PDF from the Ark Invest website detailing the daily holdings, weight, and changes in each stock within her portfolio <a class="yt-timestamp" data-t="14:54:00">[14:54:00]</a>.

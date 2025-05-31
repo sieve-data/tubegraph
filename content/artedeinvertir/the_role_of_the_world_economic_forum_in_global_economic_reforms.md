@@ -1,0 +1,38 @@
+---
+title: The role of the World Economic Forum in global economic reforms
+videoId: m2rA66h26U0
+---
+
+From: [[artedeinvertir]] <br/> 
+
+The World Economic Forum (WEF) is a significant organization influencing global economic reforms, particularly through its initiative known as [[the_great_economic_reset | The Great Economic Reset]] <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. Founded by Klaus Schwab, the WEF is presented as a non-profit NGO <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. It garners support from many of the world's most powerful individuals, including heads of government and prominent businessmen <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+
+## Key Figures and Membership
+The WEF's ranks include influential leaders such as the President of China Xi Jinping, Vladimir Putin, and Joe Biden <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. Noteworthy businessmen like Bill Gates and George Soros are also recognized members <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>.
+
+## The Davos World Economic Forum
+The most prominent event associated with the WEF is the annual Davos World Economic Forum, held every January in the Swiss Alps <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. Access to this exclusive event is costly, ranging from $13,000 to $500,000 <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. The Davos Forum 2021 specifically convened top world leaders to launch [[the_great_economic_reset | this new great economic reset]] <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>.
+
+## The Great Economic Reset
+[[the_great_economic_reset | The Great Economic Reset]] is presented as an economic solution arising from recent global crises <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. It proposes a total transformation of society and the economy <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. Klaus Schwab has even published a book detailing his future plans for the world within this framework <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>. While the official communication offers a vague idea of its meaning <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>, the reforms are marketed as beneficial <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+
+### Core Reform Areas
+The reforms primarily focus on three areas: social, economic, and environmental, with economic measures being central due to the capitalist system <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+
+#### 1. Tax Increases
+A key proposal is a general increase in taxes for both individuals and companies <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. This is justified by government debt from recent crises and the need to fund sectors recommended by the WEF <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. This trend is already observed in the United States, with Joe Biden, a follower of the WEF, incorporating many of its reforms into his economic plan <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. Janet Yellen, set to become Treasury Secretary, declared that the recovery plan would prioritize raising taxes on the wealthy <a class="yt-timestamp" data-t="00:03:53">[00:04:00]</a>. She even suggested imposing taxes on unrealized stock market profits, which could discourage investment <a class="yt-timestamp" data-t="00:04:14">[00:04:30]</a>. This reversal of the 2017 tax cuts could negatively impact stock markets <a class="yt-timestamp" data-t="00:05:15">[00:05:18]</a>.
+
+#### 2. Environmental Initiatives and Renewable Energy
+The second major reform area concerns the environment and carbon emissions, promoting a "zero emissions balance" <a class="yt-timestamp" data-t="00:05:51">[00:05:57]</a>. This involves significant aid to the renewable and clean energy sectors <a class="yt-timestamp" data-t="00:06:00">[00:06:01]</a>, alongside new taxes to discourage polluting energies <a class="yt-timestamp" data-t="00:06:04">[00:06:07]</a>. The Davos 2021 forum agenda extensively covered renewable energies, with guests like Bill Gates and Vladimir Putin <a class="yt-timestamp" data-t="00:06:18">[00:06:35]</a>. The Biden administration has pledged over $2 trillion in aid to the renewable energy sector <a class="yt-timestamp" data-t="00:06:35">[00:06:41]</a>. This plan also seeks to discourage investment in highly polluting energies like oil and coal <a class="yt-timestamp" data-t="00:06:47">[00:06:51]</a>.
+
+#### 3. The Fourth Industrial Revolution and Technology
+The third reform area is the "Fourth Industrial Revolution," emphasizing the promotion of new technologies <a class="yt-timestamp" data-t="00:08:00">[00:08:06]</a>. The Davos forum dedicates an entire day to this topic <a class="yt-timestamp" data-t="00:08:09">[00:08:11]</a>. The European Union's official website shows plans for over 140 billion euros in aid for innovation and technological development <a class="yt-timestamp" data-t="00:08:18">[00:08:30]</a>. This compels governments and companies to invest in new technological projects <a class="yt-timestamp" data-t="00:08:30">[00:08:35]</a>, benefiting the Nasdaq and technology stocks <a class="yt-timestamp" data-t="00:08:37">[00:08:44]</a>. Large American tech companies like Facebook, Google, and Amazon are positioned to benefit <a class="yt-timestamp" data-t="00:08:48">[00:08:54]</a>.
+
+#### 4. Socially Committed Companies (ESG Criteria)
+Another significant reform is promoting investment in socially committed companies, known as Environmental, Social, and Governance (ESG) criteria <a class="yt-timestamp" data-t="00:13:30">[00:13:39]</a>. Historically, company priority was shareholders <a class="yt-timestamp" data-t="00:13:41">[00:13:44]</a>, but this new school of thought aims to benefit all stakeholders, including social and environmental aspects <a class="yt-timestamp" data-t="00:13:46">[00:13:55]</a>. Companies meeting these WEF-set criteria have shown exceptional performance <a class="yt-timestamp" data-t="00:13:57">[00:14:04]</a>, with significant growth in recent years <a class="yt-timestamp" data-t="00:14:30">[00:14:34]</a>.
+
+## Controversies and Speculations
+The WEF and [[the_great_economic_reset | The Great Economic Reset]] have generated distrust, notably around "Event 201" in October 2019 <a class="yt-timestamp" data-t="00:14:57">[00:15:04]</a>. This simulation involved government leaders, scientists, and multinationals, coincidentally four months before a global crisis with "enormous similarities" to the simulation <a class="yt-timestamp" data-t="00:15:07">[00:15:23]</a>, leading to numerous conspiracy theories <a class="yt-timestamp" data-t="00:15:26">[00:15:31]</a>.
+
+### Inflationary Measures and Gold
+The measures proposed by [[the_great_economic_reset | The Great Economic Reset]] are considered inflationary because they require new money printing and government debt to finance large investments <a class="yt-timestamp" data-t="00:15:33">[00:15:41]</a>. In an inflationary environment, [[the_role_of_gold_in_a_new_economic_environment | gold is expected to perform well]] <a class="yt-timestamp" data-t="00:15:43">[00:15:45]</a>. [[ray_dalios_perspective_on_the_new_world_economic_order | Ray Dalio]], a regular member of the Davos forum and manager of the world's largest investment fund <a class="yt-timestamp" data-t="00:15:47">[00:15:56]</a>, has a significant portion of his portfolio invested in gold <a class="yt-timestamp" data-t="00:15:58">[00:16:03]</a>, aligning with his [[global_economic_challenges_by_ray_dalio | Global Economic Challenges by Ray Dalio]] perspective.

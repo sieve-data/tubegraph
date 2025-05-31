@@ -1,77 +1,78 @@
 ---
 title: Investment strategies during economic volatility
-videoId: N__RTUS_d44
+videoId: rAtHfHam1tA
 ---
 
 From: [[artedeinvertir]] <br/> 
 
-Economic volatility in 2022 has been significantly influenced by four major crises: transport, inflation, semiconductors, and energy, affecting both the global economy and stock markets <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. Understanding these crises and their implications is crucial for developing [[investment strategies during market volatility | investment strategies]] <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>.
+Investing during periods of [[investment_strategies_during_market_volatility | market volatility]] requires specific strategies and a disciplined approach, focusing on long-term value creation rather than short-term fluctuations <a class="yt-timestamp" data-t="01:09:55">[01:09:55]</a>. Understanding the economic environment, identifying quality businesses, and maintaining a clear investment philosophy are key to navigating challenging markets <a class="yt-timestamp" data-t="00:01:09">[00:01:09]</a>.
 
-## Causes of Economic Volatility in 2022
+## Current Economic Outlook
 
-### 1. Transport Crisis
-A global logistical collapse has led to jammed ports and soaring transport costs, with typical container shipping costs increasing from $1,500-$2,000 to over $10,000—a five-fold increase <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. This results in supply problems and higher costs for goods <a class="yt-timestamp" data-t="00:46:00">[00:46:00]</a>. The head of logistics at Uber described the situation as "Armageddon" <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>, largely due to worker shortages and a lack of qualified personnel in the transport sector, leading to increased wages and ultimately impacting product prices <a class="yt-timestamp" data-t="02:28:00">[02:28:00]</a>.
+Recent statements from prominent figures like Bill Gates and the Federal Reserve (Fed) indicate a period of economic uncertainty.
 
-**Implications:**
-*   **Inflation:** Increased transport and labor costs contribute to higher prices across all products and services <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>.
-*   **Reduced Consumption:** Higher prices lead to less disposable income for consumers, negatively affecting overall economic consumption <a class="yt-timestamp" data-t="02:53:00">[02:53:00]</a>.
-*   **Stock Market Impact:** Reduced business profits due to rising costs can lead to lower stock valuations and share prices <a class="yt-timestamp" data-t="03:08:00">[03:08:00]</a>.
+### Bill Gates's Outlook
+Bill Gates believes the world is entering the "worst of this crisis" <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. He has a history of accurately forecasting crises, having given months' notice for a previous scenario <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. His predictions have generally aligned with reality, including his warning about the first company to develop a vaccine for the "current problem" <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>.
 
-### 2. Inflation Crisis
-Inflation data in the United States reached its highest figure in 40 years <a class="yt-timestamp" data-t="03:35:00">[03:35:00]</a>. The Federal Reserve, initially minimizing the risk, has called an emergency meeting to address the situation <a class="yt-timestamp" data-t="04:04:00">[04:04:00]</a>. Central banks' decisions significantly influence the economic scenario and stock market evolution <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a>. Inflation is often likened to a "tax of the working class," as salaries typically rise less than prices, leading to a decrease in real wealth and savings <a class="yt-timestamp" data-t="06:03:00">[06:03:00]</a>.
+Based on the pattern of past pandemics, such as the Spanish Flu, where multiple waves occurred with the last being the most contagious but mildest, Gates predicts the current crisis could be over by the end of 2022 <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>, <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>, <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>. This recovery would positively impact the stock market, allowing companies harmed by the crisis to return to normalcy <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. Conversely, companies that benefited greatly from the crisis (like internet technology companies) may see their stock valuations fall as favorable conditions recede <a class="yt-timestamp" data-t="00:04:48">[00:04:48]</a>.
 
-**Implications:**
-*   **Reduced Purchasing Power:** Money held in conservative assets like bank accounts, bonds, or fixed income loses significant value (e.g., 7% currently, potentially 20-30% over 3-4 years) <a class="yt-timestamp" data-t="07:10:00">[07:10:00]</a>.
-*   **Rising Interest Rates:** The Federal Reserve is considering direct interest rate increases of up to 1%, a move not seen in decades, which could significantly impact the economy and stock market, reminiscent of the dot-com bubble burst <a class="yt-timestamp" data-t="08:10:00">[08:10:00]</a>. European central banks are also expected to follow suit <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a>.
-*   **Increased Mortgage Costs:** Rising interest rates will directly increase mortgage payments, particularly for variable-rate mortgages common in Europe, further impacting consumer disposable income <a class="yt-timestamp" data-t="10:06:00">[10:06:00]</a>.
-*   **Stock Market Valuation Adjustments:** Higher bond yields and inflation lead to a decrease in stock market valuations <a class="yt-timestamp" data-t="10:59:00">[10:59:00]</a>.
+### Federal Reserve's Stance and Inflation
+Jerome Powell, head of the Fed, has indicated a likelihood of three interest rate hikes in the current year <a class="yt-timestamp" data-t="00:05:21">[00:05:21]</a>. This is a significant shift from previous forecasts that predicted hikes would begin in 2023 <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>. This hawkish stance is contributing to market volatility <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
 
-### 3. Semiconductor Crisis
-A severe global shortage of semiconductors, described as alarming by the U.S. Department of Commerce <a class="yt-timestamp" data-t="12:53:00">[12:53:00]</a>, has emerged. This crisis stems from reduced chip production capacity during lockdowns and a shift in demand towards consumer electronics <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>. When the economy reopened, other sectors, particularly automobiles, saw a massive demand for chips, leading to insufficient supply <a class="yt-timestamp" data-t="13:26:00">[13:26:00]</a>.
+The Fed aims for monetary policy normalization, though it's expected to remain in a low interest rate environment for many years due to structural reasons like high system debt and slower population growth <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. Interest rates are not expected to return to 4-5% levels seen in the past but should normalize within a low-talent context <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>.
 
-**Implications:**
-*   **Price Increases:** The imbalance of supply and demand for chips drives up prices across various industries, notably doubling used car prices in the U.S. <a class="yt-timestamp" data-t="14:20:00">[14:20:00]</a>.
-*   **Inflationary Pressure:** Price increases due to chip shortages contribute to broader inflation <a class="yt-timestamp" data-t="13:59:00">[13:59:00]</a>.
-*   **Reduced Corporate Profits:** While some companies benefit, many businesses face reduced profit margins due to higher component costs <a class="yt-timestamp" data-t="17:05:00">[17:05:00]</a>.
-*   **Consumer Impact:** Consumers pay more for anything with electronic components, including insurance, as repair costs rise <a class="yt-timestamp" data-t="15:03:00">[15:03:00]</a>.
-*   **Financial Market Panic:** Goldman Sachs reported historical highs in trading put options, indicating investor fear and anticipation of further problems <a class="yt-timestamp" data-t="16:15:00">[16:15:00]</a>.
+A major concern is persistent inflation. If high inflation becomes "rooted" in the economy and people's minds, it could lead to a more restrictive monetary policy and potentially a recession for workers and the middle class <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. This is because people might act on the expectation of permanent inflation (e.g., buying a house immediately due to anticipated price increases), creating a self-fulfilling prophecy <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>.
 
-### 4. Energy Crisis
-The energy crisis is characterized by huge deficits in energy supply, affecting both consumers and businesses <a class="yt-timestamp" data-t="18:55:00">[18:55:00]</a>. Geopolitical tensions in the Middle East and with Russia (a major energy producer) exacerbate the problem <a class="yt-timestamp" data-t="19:11:00">[19:11:00]</a>. Oil prices reached nearly $94, a seven-year high, due to reduced oil extraction investments (due to environmental concerns) while global consumption remains stable at 100 million barrels per day <a class="yt-timestamp" data-t="19:25:00">[19:25:00]</a>. Renewable energies are not yet able to fill this deficit <a class="yt-timestamp" data-t="20:04:00">[20:04:00]</a>.
+## [[Strategies for Investing During Economic Uncertainty | Strategies for Investing During Economic Uncertainty]]
 
-**Implications:**
-*   **Soaring Costs:** Electricity costs in Europe have multiplied by four to five times <a class="yt-timestamp" data-t="20:54:00">[20:54:00]</a>.
-*   **Squeezed Profit Margins:** Companies report significant pressure on profit margins due to rising energy costs <a class="yt-timestamp" data-t="20:30:00">[20:30:00]</a>.
-*   **Inflation:** Increased energy costs directly contribute to inflation <a class="yt-timestamp" data-t="21:12:00">[21:12:00]</a>.
-*   **Reduced Disposable Income:** Consumers spend more on utilities, reducing funds available for other consumption like leisure, clothes, or cars <a class="yt-timestamp" data-t="21:14:00">[21:14:00]</a>.
+### Investing with Rising Interest Rates
+Historically, periods of negative real interest rates (where inflation is higher than interest rates) tend to be tremendously bullish for the stock market <a class="yt-timestamp" data-t="00:13:35">[00:13:35]</a>, <a class="yt-timestamp" data-t="00:15:04">[00:15:04]</a>. This phenomenon has occurred rarely in history, such as from 1900-1907, the "Roaring Twenties," and 1940-1957, leading to significant market gains <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>. When inflation is higher than bank lending rates, people borrow cheap money and invest it in real assets like properties, stocks, gold, and raw materials, driving up their prices <a class="yt-timestamp" data-t="00:16:36">[00:16:36]</a>. This leveraging creates a "torrent of money" that flows into the market, increasing asset prices due to supply and demand dynamics <a class="yt-timestamp" data-t="00:17:19">[00:17:19]</a>.
 
-## Investment Strategies During Economic Volatility
+Moreover, initial interest rate hikes have historically been bullish for the S&P 500, showing significant increases <a class="yt-timestamp" data-t="00:19:18">[00:19:18]</a>. This historical behavior contradicts the common media narrative that rising bond yields automatically depress the stock market <a class="yt-timestamp" data-t="00:19:42">[00:19:42]</a>.
 
-### General Principles
-*   **Think Long Term:** Many crises are temporary; avoid panic and bad decisions during periods of temporary losses <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>.
-*   **Protect Capital:** In an inflationary environment, the only solution is to [[investment strategies during market volatility | invest]] capital to generate profitability higher than inflation <a class="yt-timestamp" data-t="07:02:00">[07:02:00]</a>. Assets like fixed income, liquidity, or bank deposits are dangerous as they lose purchasing power <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>.
-*   **Review Debts:** Consider converting variable-rate debts, such as mortgages, to fixed rates to mitigate the impact of rising interest rates <a class="yt-timestamp" data-t="11:29:00">[11:29:00]</a>.
+### Focus on Quality Businesses
+During times of [[stock_market_volatility_and_investment_strategies | market volatility]], the speaker advises focusing on quality businesses with strong fundamentals:
+*   **Benefits per Share & Book Value per Share**: These are crucial indicators of a company's financial health and value creation <a class="yt-timestamp" data-t="02:22:07">[02:22:07]</a>.
+*   **Dividends per Share**: A sign of a stable and profitable company returning value to shareholders <a class="yt-timestamp" data-t="02:22:12">[02:22:12]</a>.
+*   **Value Creation**: The company's ability to consistently increase its intrinsic worth year after year <a class="yt-timestamp" data-t="02:22:14">[02:22:14]</a>.
+*   **Low Debt**: Companies with little or no debt are less affected by rising interest rates <a class="yt-timestamp" data-t="02:22:20">[02:22:20]</a>.
+*   **Resistance to Inflation**: Good businesses should be able to resist inflationary pressures <a class="yt-timestamp" data-t="02:22:23">[02:22:23]</a>.
+*   **Good Purchase Price**: Even the best company needs to be bought at a reasonable or cheap valuation to be a winning formula <a class="yt-timestamp" data-t="02:22:27">[02:22:27]</a>.
+*   **Strong Competitive Position & Management**: These qualitative factors are essential for long-term success <a class="yt-timestamp" data-t="02:22:36">[02:22:36]</a>.
 
-### Identifying Benefiting Sectors and Companies
-Even in the worst crises, there are always sectors or assets that benefit. It is important to analyze and study them <a class="yt-timestamp" data-t="17:41:00">[17:41:00]</a>.
+This approach aligns with Warren Buffett's philosophy of buying quality businesses with strong competitive advantages ("moats") at good prices <a class="yt-timestamp" data-t="02:33:30">[02:33:30]</a>. Such "cockroach-type investments" are resilient and can perform well in various economic environments, including high GDP growth, lower growth, high inflation, or varying interest rates <a class="yt-timestamp" data-t="02:33:57">[02:33:57]</a>.
 
-#### Transport Sector
-Companies that facilitate transport without owning assets, like C.H. Robinson (CHRW) or Periquitos International, can benefit from rising transport costs by maintaining profit margins <a class="yt-timestamp" data-t="22:20:00">[22:20:00]</a>. Rail transport companies, like Warren Buffett's investment in Union Pacific (UNP), also offer predictable costs and can perform well <a class="yt-timestamp" data-t="23:00:00">[23:00:00]</a>. Smaller, well-managed transport companies, such as Transforce International (TFII), have seen significant stock appreciation by acquiring poorly managed companies and benefiting from increasing transport rates <a class="yt-timestamp" data-t="23:30:00">[23:30:00]</a>.
+Companies with high pricing power (ability to raise prices without losing customers) are particularly advantageous in inflationary environments <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>, <a class="yt-timestamp" data-t="03:53:50">[03:53:50]</a>. Examples include luxury goods (LVMH, Hermes), software for company management (SAP), and essential consumer products (Reckitt Benckiser, Henkel) <a class="yt-timestamp" data-t="04:47:51">[04:47:51]</a>.
 
-#### Semiconductor Sector
-*   **ETFs:** Investing in Semiconductor ETFs (e.g., SOX) provides diversification across a basket of chip companies, mitigating the risk of individual company performance <a class="yt-timestamp" data-t="24:17:00">[24:17:00]</a>.
-*   **Chip Manufacturers:** Companies that are part of an oligopoly in chip manufacturing, like Micron Technology (MU) for RAM memories or Samsung (which derives 60% of profits from microchips) <a class="yt-timestamp" data-t="25:07:00">[25:07:00]</a>.
-*   **Contract Manufacturers:** Companies like TSMC (TSM), the largest microchip manufacturer globally, benefit directly as they produce chips for major tech companies like AMD and Apple <a class="yt-timestamp" data-t="26:19:00">[26:19:00]</a>.
-*   **Automobile Companies:** Paradoxically, car manufacturers like General Motors (GM) and Ford (F), despite chip shortages, have increased profit margins by significantly raising car prices, which consumers are still willing to pay <a class="yt-timestamp" data-t="27:03:00">[27:03:00]</a>.
-*   **Used Car Sellers:** Companies like CarMax (KMX) benefit as their inventory of used cars appreciates rapidly in value, having been purchased at lower prices and sold at inflated ones <a class="yt-timestamp" data-t="28:12:00">[28:12:00]</a>.
+### Avoiding Speculative Investments and Market Bubbles
+It is crucial to be cautious with:
+*   **Indebted Companies**: Especially those of poor quality or in cyclical businesses <a class="yt-timestamp" data-t="02:22:47">[02:22:47]</a>.
+*   **Expensive Short-Term Companies**: High-growth companies with extreme valuations and no clear path to profitability carry significant risk <a class="yt-timestamp" data-t="02:22:56">[02:22:56]</a>. The dot-com bubble provides a historical lesson: for every Amazon that succeeded despite high valuations, there were 30-40 companies that disappeared or performed poorly <a class="yt-timestamp" data-t="02:23:15">[02:23:15]</a>.
+*   **Companies at Historic Lows**: Often, lists of companies at 52-week lows are "garbage buckets" containing bad businesses, frauds, or poorly managed companies <a class="yt-timestamp" data-t="04:20:01">[04:20:01]</a>. While a "diamond" might occasionally be found, it's not an efficient use of effort <a class="yt-timestamp" data-t="04:22:21">[04:22:21]</a>.
 
-#### Energy Sector
-Companies in the energy sector benefit from rising oil and gas prices.
-*   **Integrated Companies:** Firms like Shell, Total, and BP, involved in extraction, refining, and distribution, benefit across the value chain <a class="yt-timestamp" data-t="31:28:00">[31:28:00]</a>.
-*   **Exploration & Production:** Companies like Canadian Natural Resources (CNQ), one of Canada's largest energy producers, have seen significant stock appreciation due to rising energy prices <a class="yt-timestamp" data-t="29:04:00">[29:04:00]</a>. They also offer attractive dividend yields and trade at low valuations <a class="yt-timestamp" data-t="30:19:00">[30:19:00]</a>.
-*   **Support Services:** Companies providing engineering, supplies, and accommodation to the energy sector (e.g., Schlumberger, National Oilwell Varco) also benefit <a class="yt-timestamp" data-t="32:01:00">[32:01:00]</a>.
-*   **Refining & Transformation:** Chemical industries that refine oil or gas into derivatives (e.g., kerosene, gasoline) see profit margins increase as selling prices rise <a class="yt-timestamp" data-t="32:42:00">[32:42:00]</a>. Cheniere Energy (LNG), a dominant player in liquefied natural gas (LNG) export, benefits from increased global demand and its established infrastructure <a class="yt-timestamp" data-t="33:12:00">[33:12:00]</a>.
-*   **Electrical Distribution:** Utility companies can also benefit by raising prices for consumers <a class="yt-timestamp" data-t="34:04:00">[34:04:00]</a>.
+[!WARNING] Avoiding a portfolio filled with risky situations (e.g., highly indebted, cyclical, or poorly managed companies) is paramount, as statistically, such a portfolio is likely to suffer <a class="yt-timestamp" data-t="01:00:49">[01:00:49]</a>.
 
-### Important Note for Investors
-All information provided is for educational and informational purposes only. Investing in the stock market carries risks, including market volatility, and past returns do not guarantee future results <a class="yt-timestamp" data-t="21:46:00">[21:46:00]</a>. It is crucial to invest with knowledge and avoid being a "tourist" in the market <a class="yt-timestamp" data-t="21:45:00">[21:45:00]</a>.
+### Long-Term Perspective and Psychology
+Investing should be viewed with a long-term horizon (3-5 years) rather than focusing on short-term or medium-term (6 months to 2 years) market movements <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a>. Statistical data suggests that after very bullish years for the S&P 500 (e.g., >25%), the following year has been positive 85% of the time, with a median gain of 13% <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>.
+
+Psychological strength is vital <a class="yt-timestamp" data-t="00:44:09">[00:44:09]</a>. When the market plunges due to external factors but a company's fundamentals remain strong (e.g., continued profit growth), it presents an opportunity to buy more at a lower price <a class="yt-timestamp" data-t="01:34:12">[01:34:12]</a>. Panicking and selling during downturns is a common mistake that leads to significant losses <a class="yt-timestamp" data-t="01:39:01">[01:39:01]</a>.
+
+[!INFO] "Money is earned by not doing anything in the stock market" <a class="yt-timestamp" data-t="03:05:05">[03:05:05]</a>. Overreacting or over-trading typically does not yield good results <a class="yt-timestamp" data-t="03:15:05">[03:15:05]</a>.
+
+## Examples of Investment Opportunities and Pitfalls
+
+### Brown-Forman (Jack Daniel's)
+This company, which owns Jack Daniel's, exemplifies a quality business: a strong brand, a product that doesn't require constant renewal, and significant pricing power <a class="yt-timestamp" data-t="01:10:50">[01:10:50]</a>. It boasts high gross margins (around 60%) and operating margins (30%), outperforming even Coca-Cola or Nike <a class="yt-timestamp" data-t="01:11:38">[01:11:38]</a>. Despite being a mature business with slower sales growth, its intrinsic value grows due to share buybacks and dividends <a class="yt-timestamp" data-t="01:12:09">[01:12:09]</a>. However, it is currently trading at a multiple of nearly 30 times earnings, which is at the higher end of its historical valuation range <a class="yt-timestamp" data-t="01:12:46">[01:12:46]</a>.
+
+### Sabre Corporation and Amadeus
+These companies operate in a global oligopoly providing software for flight booking and airline operations <a class="yt-timestamp" data-t="01:14:09">[01:14:09]</a>. While Amadeus is the leader with higher margins, Sabre is a strong second <a class="yt-timestamp" data-t="01:14:37">[01:14:37]</a>. Due to the pandemic, their revenue plummeted, but air traffic is expected to recover to 2019 levels by 2023-2024 <a class="yt-timestamp" data-t="01:16:22">[01:16:22]</a>. Sabre, in particular, suffered a significant stock drop, trading at 9 dollars after being at 30 before the crisis <a class="yt-timestamp" data-t="01:15:01">[01:15:01]</a>. This represents a potential opportunity if the market returns to its historical valuation range for Sabre (16-25 times earnings) <a class="yt-timestamp" data-t="01:15:56">[01:15:56]</a>.
+
+### Amazon
+Amazon, while a spectacular company, has experienced discreet stock performance since mid-2020 despite rising tech stocks <a class="yt-timestamp" data-t="01:20:21">[01:20:21]</a>. Its valuation, typically based on EBITDA, has returned to the lower end of its historical range (around 20-21 times EBITDA) <a class="yt-timestamp" data-t="01:21:55">[01:21:55]</a>. Amazon is projected to grow less in the future (12-15% annually) but still well above economic growth <a class="yt-timestamp" data-t="01:22:12">[01:22:12]</a>. Its expanding operating margins due to profitable segments like Amazon Web Services make it a good breeding ground for value <a class="yt-timestamp" data-t="01:22:26">[01:22:26]</a>.
+
+### Atos (Value Trap Example)
+Atos serves as an example of a "value trap" – a seemingly cheap company that performs poorly due to underlying business issues <a class="yt-timestamp" data-t="01:51:46">[01:51:46]</a>. Despite being undervalued by traditional metrics, its revenue has barely grown, and normalized profits have decreased by an average of 5% per year over several years <a class="yt-timestamp" data-t="01:51:56">[01:51:56]</a>. This demonstrates that a low valuation alone does not guarantee a good investment, especially for companies that are not sector leaders or have consistent negative news <a class="yt-timestamp" data-t="01:52:50">[01:52:50]</a>.
+
+## Conclusion
+
+Effective [[investment_strategies_during_economic_downturns | investment strategies during economic downturns]] and volatility revolve around a disciplined, long-term approach focused on identifying and holding quality businesses <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>. This involves understanding intrinsic value, exercising psychological strength, and avoiding speculative investments based on short-term trends or inflated valuations <a class="yt-timestamp" data-t="02:22:07">[02:22:07]</a>, <a class="yt-timestamp" data-t="01:39:01">[01:39:01]</a>. Learning from historical cases and continually refining one's analytical skills are crucial for success in the stock market <a class="yt-timestamp" data-t="01:37:09">[01:37:09]</a>.

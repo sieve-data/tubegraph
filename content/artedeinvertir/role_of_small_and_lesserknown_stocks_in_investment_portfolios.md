@@ -1,0 +1,67 @@
+---
+title: Role of small and lesserknown stocks in investment portfolios
+videoId: qSYRXvztpsQ
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Investing in smaller and lesser-known companies can offer significant advantages and potential for higher returns, especially for private investors <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>. This approach contrasts with that of larger, more famous investors who manage substantial capital, which often limits their ability to invest in smaller firms <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>.
+
+## Why Invest in Small Caps?
+
+When starting to invest, a valuable strategy to generate investment ideas and identify stocks with interesting potential is to observe what investors with the best historical results are buying <a class="yt-timestamp" data-t="00:49:00">[00:49:00]</a>. Stocks chosen by experienced investors have typically passed a rigorous filter <a class="yt-timestamp" data-t="00:53:00">[00:53:00]</a>. However, it is crucial for individuals to conduct their own analysis, supervise, and monitor these investments <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>.
+
+One of the main reasons to consider smaller, lesser-known companies is their potential for [[investment_opportunities_in_smallcap_stocks | better results]] <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>. Investors managing less money often achieve superior outcomes because they can focus on these agile, high-growth firms that are off the radar of larger funds <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>. This is an [[advantages_of_investing_in_small_companies | advantage that all private investors also have]] <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>. Managing a large amount of capital can be a significant handicap, as many interesting stocks may be too small for large funds to invest in, making them inaccessible <a class="yt-timestamp" data-t="02:38:00">[02:38:00]</a>.
+
+The speaker, having transitioned from a private investor to managing funds with hundreds of millions of euros, notes that the experience of [[investing_with_little_money_in_the_stock_market | managing very little money]] to large quantities has shown that the dynamics are different <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>.
+
+## Notable Investors and Their Small Cap Strategies
+
+### Adam Weeden and DW Capital
+Adam Weeden is an emerging manager who has achieved remarkable success, generating an average annual return of 28% for shareholders in his hedge fund <a class="yt-timestamp" data-t="03:06:00">[03:06:00]</a>. He has accumulated over $100 million in personal wealth in 12 years by investing in a highly concentrated portfolio of very few shares <a class="yt-timestamp" data-t="03:14:00">[03:14:00]</a>. This approach highlights the potential of a high-conviction, value-oriented investment style <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a>.
+
+One example of his early success is finding DT in 2010-2011 at $2 per share, which later rose to almost $40, multiplying the investment by 20 times <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>, <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>.
+
+### Examples of Small Cap Investments
+
+*   **PAR Technology (PAR)**: This company provides terminals for restaurants and stores information in the cloud <a class="yt-timestamp" data-t="03:09:00">[03:09:00]</a>, <a class="yt-timestamp" data-t="03:19:00">[03:19:00]</a>. It has seen significant growth, rising from $15 to $65 <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>.
+*   **Up & Group**: This SPAC (Special Purpose Acquisition Company) focuses on providing industrial services, particularly fire safety systems and recurrent maintenance services like building insulation and ventilation <a class="yt-timestamp" data-t="03:42:00">[03:42:00]</a>, <a class="yt-timestamp" data-t="04:17:00">[04:17:00]</a>, <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>. The sector is non-cyclical, ensuring stable client demand even during crises <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>. Up & Group is the number one company in the US in fire safety systems, and the sector is growing at 7% annually <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>, <a class="yt-timestamp" data-t="04:54:00">[04:54:00]</a>. The company grows organically and through acquisitions, aiming for 10% annual growth, potentially reaching 15-20% <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>, <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>. It is valued by free cash flow due to specific items depressing net profit <a class="yt-timestamp" data-t="06:03:00">[06:03:00]</a>.
+*   **Berry Global**: This company manufactures plastic packaging <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a>. Despite negative perceptions of plastic, 70% of its products are for stable categories like food and beverages, making its income very stable <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>, <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. The company is well-managed and focuses on shareholder value <a class="yt-timestamp" data-t="06:06:00">[06:06:00]</a>. Its free cash flow has grown significantly, and earnings per share have risen from $1 to $5 in seven years, a 20% growth <a class="yt-timestamp" data-t="06:24:00">[06:24:00]</a>, <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a>. The packaging sector has [[advantages_of_investing_in_small_companies | competitive advantages]], as manufacturing is localized, making it difficult for new competitors to enter established territories <a class="yt-timestamp" data-t="07:17:00">[07:17:00]</a>.
+
+## Investment Considerations for Small Caps
+
+### Valuation Approaches
+For small companies that do not generate immediate profits, valuation can be complex. Often, they are valued based on future revenue or EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) margins <a class="yt-timestamp" data-t="04:19:00">[04:19:00]</a>.# Role of Small and Lesser-Known Stocks in Investment Portfolios
+
+Investing in smaller and lesser-known companies can offer significant advantages and potential for higher returns, especially for private investors <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>. This approach contrasts with that of larger, more famous investors who manage substantial capital, which often limits their ability to invest in smaller firms <a class="yt-timestamp" data-t="01:38:00">[01:38:00]</a>.
+
+## Why Invest in Small Caps?
+
+When starting to invest, a valuable strategy to generate investment ideas and identify stocks with interesting potential is to observe what investors with the best historical results are buying <a class="yt-timestamp" data-t="00:49:00">[00:49:00]</a>. Stocks chosen by experienced investors have typically passed a rigorous filter <a class="yt-timestamp" data-t="00:53:00">[00:53:00]</a>. However, it is crucial for individuals to conduct their own analysis, supervise, and monitor these investments <a class="yt-timestamp" data-t="00:59:00">[00:59:00]</a>.
+
+One of the main reasons to consider smaller, lesser-known companies is their potential for [[investment_opportunities_in_smallcap_stocks | better results]] <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>. Investors managing less money often achieve superior outcomes because they can focus on these agile, high-growth firms that are off the radar of larger funds <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>. This is an [[advantages_of_investing_in_small_companies | advantage that all private investors also have]] <a class="yt-timestamp" data-t="01:48:00">[01:48:00]</a>. The disadvantage of managing a lot of capital is an important handicap <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>, as many interesting stocks may be too small for large funds to invest in, making them inaccessible <a class="yt-timestamp" data-t="02:38:00">[02:38:00]</a>.
+
+The speaker, having transitioned from a private investor to managing funds with hundreds of millions of euros, notes that the experience of [[investing_with_little_money_in_the_stock_market | managing very little money]] to large quantities has shown that the dynamics are different <a class="yt-timestamp" data-t="02:26:00">[02:26:00]</a>.
+
+## Notable Investors and Their Small Cap Strategies
+
+### Adam Weeden and DW Capital
+Adam Weeden is an emerging manager who has achieved remarkable success, generating an average annual return of 28% for shareholders in his hedge fund <a class="yt-timestamp" data-t="03:06:00">[03:06:00]</a>. He has accumulated over $100 million in personal wealth in 12 years by investing in a highly concentrated portfolio of very few shares <a class="yt-timestamp" data-t="03:14:00">[03:14:00]</a>. This approach highlights the potential of a high-conviction, value-oriented [[investment_strategies_in_small_caps_and_favorable_market_segments | investment style]] <a class="yt-timestamp" data-t="03:46:00">[03:46:00]</a>.
+
+One example of his early success is finding DT in 2010-2011 at $2 per share, which later rose to almost $40, multiplying the investment by 20 times <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>, <a class="yt-timestamp" data-t="02:03:00">[02:03:00]</a>.
+
+### Examples of Small Cap Investments
+
+*   **PAR Technology (PAR)**: This company provides terminals for restaurants and stores information in the cloud <a class="yt-timestamp" data-t="03:09:00">[03:09:00]</a>, <a class="yt-timestamp" data-t="03:19:00">[03:19:00]</a>. It has seen significant growth, rising from $15 to $65 <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>.
+*   **Up & Group**: This SPAC (Special Purpose Acquisition Company) focuses on providing industrial services, particularly fire safety systems and recurrent maintenance services like building insulation and ventilation <a class="yt-timestamp" data-t="03:42:00">[03:42:00]</a>, <a class="yt-timestamp" data-t="04:17:00">[04:17:00]</a>, <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>. The sector is non-cyclical, ensuring stable client demand even during crises <a class="yt-timestamp" data-t="04:40:00">[04:40:00]</a>. Up & Group is the number one company in the US in fire safety systems, and the sector is growing at 7% annually <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>, <a class="yt-timestamp" data-t="04:54:00">[04:54:00]</a>. The company grows organically and through acquisitions, aiming for 10% annual growth, potentially reaching 15-20% <a class="yt-timestamp" data-t="05:32:00">[05:32:00]</a>, <a class="yt-timestamp" data-t="05:50:00">[05:50:00]</a>. It is valued by free cash flow due to specific items depressing net profit <a class="yt-timestamp" data-t="06:03:00">[06:03:00]</a>.
+*   **Berry Global**: This company manufactures plastic packaging <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a>. Despite negative perceptions of plastic, 70% of its products are for stable categories like food and beverages, making its income very stable <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>, <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>. The company is well-managed and focuses on shareholder value <a class="yt-timestamp" data-t="06:06:00">[06:06:00]</a>. Its free cash flow has grown significantly, and earnings per share have risen from $1 to $5 in seven years, a 20% growth <a class="yt-timestamp" data-t="06:24:00">[06:24:00]</a>, <a class="yt-timestamp" data-t="06:33:00">[06:33:00]</a>. The packaging sector has [[advantages_of_investing_in_small_companies | competitive advantages]], as manufacturing is localized, making it difficult for new competitors to enter established territories <a class="yt-timestamp" data-t="07:17:00">[07:17:00]</a>.
+
+## Investment Considerations for Small Caps
+
+### Valuation Approaches
+For small companies that do not generate immediate profits, valuation can be complex. Often, they are valued based on future revenue or EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) margins <a class="yt-timestamp" data-t="04:19:00">[04:19:00]</a>. For companies like Side, analysts estimate future revenues and then apply a projected EBITDA margin. This approach can lead to a wide valuation range, making these stocks highly volatile <a class="yt-timestamp" data-t="04:44:00">[04:44:00]</a>.
+
+### Challenges and Risks
+[[challenges_and_trends_in_smallcap_investment | Challenges and trends in smallcap investment]] include their volatility due to less consensus on their worth and susceptibility to market sentiment <a class="yt-timestamp" data-t="04:44:00">[04:44:00]</a>. Companies not yet generating profits, especially in the "hyper-growth" style, carry higher risk <a class="yt-timestamp" data-t="06:41:00">[06:41:00]</a>. While they can offer substantial returns in optimistic scenarios, there's also a risk of no returns, or even losses, if growth or margins are lower than expected <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>. For example, paying more than 10-15 times sales for a company not yet profitable is generally considered risky <a class="yt-timestamp" data-t="11:12:00">[11:12:00]</a>.
+
+Despite these risks, the potential for significant upside in lesser-known companies makes them an attractive component for diversified portfolios seeking high returns.
