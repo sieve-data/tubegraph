@@ -1,0 +1,35 @@
+---
+title: Concept of antiroutine
+videoId: lRyGIzW9d9k
+---
+
+From: [[alexhormozi]] <br/> 
+The "anti-routine" is a concept proposed by Alex Hormozi, which focuses on eliminating non-essential tasks and distractions rather than adding more to a daily schedule. This approach aims to maximize productivity by stripping away everything that isn't the absolute highest priority, leading to outsized returns on effort <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+
+Hormozi credits this anti-routine with transforming his life from near bankruptcy to earning over seven figures a month in 18 months <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. He argues that many successful individuals, particularly those with nine-figure net worths, do not adhere to the "million-dollar routines" often promoted online <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>.
+
+### The Problem with Traditional Routines
+
+Most people assume that achieving success requires adopting new routines or rituals performed by successful individuals <a class="yt-timestamp" data-t="00:01:25">[00:01:25]</a>. Hormozi contends this assumption is flawed. Often, champions achieve success not because they possess something others don't, but because they *lack* something others have (e.g., an "off switch" or the tendency to stop) <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>. The key is to identify and stop performing unproductive daily activities <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>.
+
+### Mindset Shifts for the Anti-Routine
+
+The fundamental shift is moving from the belief "I need to do more things" to "I need to stop doing things I'm currently doing" <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>. This allows for clarity on what truly needs to be done and why current efforts might be ineffective <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+
+1.  **Priorities Mean Saying No**: A true priority means two things cannot be equally important <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. If equal time is spent on two tasks, neither is truly a priority <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. The core of the anti-routine is the word "no" <a class="yt-timestamp" data-t="00:03:13">[00:03:13]</a>. This concept is encapsulated in [[the_concept_of_the_season_of_no | the season of no]], a temporary period where saying no to everything not aligned with the top priority becomes the routine <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+2.  **Challenging Obligation to Reply**: Any communication (text, email, call) implicitly carries an "implied ask" or a "take," requesting a reply <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>. Most people conflate having the time to reply with an obligation to reply <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. This obligation often doesn't exist, especially at scale (e.g., 500,000 texts, which would make replying impossible) <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. During his 18-month period of extreme growth, Hormozi stopped replying to people <a class="yt-timestamp" data-t="00:05:12">[00:05:12]</a>.
+3.  **Evaluating Social Engagements**: Many events, masterminds, and coaching programs primarily serve social needs rather than solving specific problems <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. Once the necessary information or solution is acquired, continued attendance can be a distraction from execution <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>.
+
+### Tactics of the Anti-Routine
+
+The anti-routine involves specific actions aimed at [[eliminating_nonessential_tasks_for_efficiency | eliminating nonessential tasks for efficiency]] and maximizing focused work.
+
+*   **Changing Phone Number**: To reduce interruptions and implied asks, Hormozi changed his phone number, giving his old one to his assistant <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. He only initiated communication with essential contacts, rather than constantly responding to others <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>. This created significant "blank space" in his calendar <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+*   **Stopping Event Attendance**: Once the required information was obtained, Hormozi stopped attending events and masterminds for 18 months, focusing instead on execution <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>. The principle is: if you know what needs to be done, anything that isn't doing that thing is a hindrance <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>.
+*   **Implementing a [[maker_schedule_and_deep_work_importance | Deep Work]] Block**: He stopped taking meetings from 4 AM to noon daily, dedicating the first eight hours of his day to uninterrupted work on his top priority <a class="yt-timestamp" data-t="00:07:35">[00:07:35]</a>. This is crucial when leverage (e.g., a large team) is not yet established <a class="yt-timestamp" data-t="00:08:11">[00:08:11]</a>.
+*   **Consistent Sleep Schedule**: Weekends were treated the same as weekdays regarding bedtime and wake-up times to maintain consistency for the morning deep work block <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. This challenges traditional [[daily_routine_and_productivity_strategies | daily routine and productivity strategies]] that often differentiate between weekdays and weekends.
+*   **Minimalist Health Approach**: Workouts were reduced to twice a week—the "minimum effective dose" for maintenance—to avoid trying to make progress on too many fronts simultaneously <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>. Priority dictated where "growth juju" (energy/focus) was allocated <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>.
+*   **Strategic Fasting**: Fasting one or two days a week eliminated interruptions from food preparation, eating, and cleaning, freeing up more time for work <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
+*   **Deleting Social Media**: All social media apps were removed from his phone, as most posting functions could be done from a computer <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>. This eliminated hours of daily consumption, which Hormozi equates to modern-day television watching <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>. This directly supports [[avoiding_distractions_and_shiny_object_syndrome | avoiding distractions and shiny object syndrome]].
+
+The core principle of the anti-routine is that achieving significant results isn't about finding a magic routine to *add* more to, but about courageously saying "no" to the vast majority of activities that currently consume time and energy <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>.

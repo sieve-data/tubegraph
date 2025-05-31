@@ -1,0 +1,61 @@
+---
+title: The importance of high standards in partner selection
+videoId: jiCGLDhUCHY
+---
+
+From: [[alexhormozi]] <br/> 
+
+The individual you choose to spend your life with will have the most significant impact on who you become, what you achieve, and your overall happiness <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. Despite this, most people dedicate more time to deciding on a car or neighborhood than on selecting their spouse <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. Research shows a 71% correlation between subjective well-being and the strength of a relationship with a significant other <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Over time, the amount of time spent with a spouse or alone increases, while time with friends, family, and kids decreases significantly <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. Your spouse will be the person you spend the most amount of time with for the rest of your life <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+
+## Cultivating High Standards
+
+It is crucial to hold exceptionally high standards for a partner, second only to the standards you apply to yourself <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+
+### The "Big Domino" Principle
+Instead of focusing on numerous small "hacks" to optimize dating profiles, prioritize becoming a person worth being with <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a>. The "big domino" approach suggests that by solving the significant issue of self-worth, other dating challenges become irrelevant <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. If you become highly worthy, you won't need to optimize your profile or rely on superficial tactics <a class="yt-timestamp" data-t="00:03:40">[00:03:40]</a>. This principle applies to business, fitness, and relationships <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>.
+
+### Avoiding Common Pitfalls
+Many individuals either settle for "anyone with a pulse" or desire an amazing partner while failing to address their own deficiencies <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. Some dating advice focuses on deception and posturing, which may work in the short term but eventually reveals one's true nature <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. The true work lies in becoming someone desirable to be with, not just optimizing initial impressions <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+
+### Beyond Your "Type"
+Your "type" of person you typically date may not be the person you marry <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>. Consistently dating the same "type" without a long-term commitment might indicate that this type isn't suitable for marriage <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. Dating outside your usual preferences can lead to appreciating new traits and gaining valuable exposure to different cultures and psychographics <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. This exposure helps you identify important character traits you may not have previously recognized <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
+
+### The Necessity of Assessment
+[[importance_of_maintaining_high_standards_and_exclusivity_in_online_education | Being able to pick and judge people]] is a valuable and challenging skill that requires pattern recognition and experience <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. Assessing someone accurately is essential, differentiating it from labeling them as "good" or "bad" <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. Putting yourself out there and enduring challenging dates can lead to recognizing patterns and discovering new priorities in a partner <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+
+## Partner Compatibility and Shared Vision
+
+### Aligning Goals and Values
+It's essential that a partner does not hinder your goals <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>. A partner should view your pursuit of goals as a "give" to the household, not a "take" from them <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. Your partner should judge you by the same metrics you judge yourself <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>. If expectations and self-assessments are aligned, a relationship can operate in synergy towards shared accomplishments, fostering [[importance_of_respect_and_supporting_each_others_ambitions | mutual respect]] <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>.
+
+[[finding_a_partner_compatible_with_your_long_term_goals | Finding a partner compatible with your long-term goals]] means finding someone who loves what you already do, rather than trying to change who you are to match their desires <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. Being brutally honest upfront about what you want and expect from a partner makes both lives easier, as you can work towards your own goals, which coincidentally fulfill their desires <a class="yt-timestamp" data-t="00:08:59">[00:08:59]</a>. Compromise often leads to neither person getting what they truly want <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>.
+
+### The "Negative" Advertisement Approach
+There is no objective measure for relationship success externally <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>, making it difficult to assess health from the outside <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. Consider adopting a realtor's approach to advertising properties by stating the downsides <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>. In dating, this means openly stating your downsides <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>. If a potential partner is unbothered by these "negatives," it forms the basis of a very strong relationship, as they gain upside where others see faults <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>. This allows you to simply be yourself, and they will like you for who you are <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
+
+### Partner as an Asset
+Your spouse marries two people: the person you are now and the person you want to become <a class="yt-timestamp" data-t="00:17:57">[00:17:57]</a>. They should love both <a class="yt-timestamp" data-t="00:18:03">[00:18:03]</a>. A partner should support your growth, which is becoming more of who you already are, rather than demanding change, which implies becoming someone different <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>. Thinking of a partner as a "project" is a poor way to live and suggests they don't love either who you are or who you are becoming <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a>.
+
+A spouse can be either a liability or an asset <a class="yt-timestamp" data-t="00:19:11">[00:19:11]</a>. Liabilities decline in value over time, while assets increase <a class="yt-timestamp" data-t="00:19:15">[00:19:15]</a>. Choose a partner who is continually growing, working on themselves, acquiring new skills, and gaining new perspectives, rather than someone who stagnates and relies solely on initial advantages <a class="yt-timestamp" data-t="00:20:34">[00:20:34]</a>. [[the_importance_of_providing_value | The importance of providing value]] to a relationship should increase over time <a class="yt-timestamp" data-t="00:20:32">[00:20:32]</a>.
+
+### The Essence of a True Partner
+The term "partner" or "life partner" better encapsulates the commitment than "spouse" or "husband/wife" <a class="yt-timestamp" data-t="00:21:39">[00:21:39]</a>. A life partner is like a business partner: they have contrasting skills but share the same goals and values in getting there, with complementary abilities <a class="yt-timestamp" data-t="00:21:53">[00:21:53]</a>. In such a partnership, the sum of the whole is greater than its parts <a class="yt-timestamp" data-t="00:22:13">[00:22:13]</a>. A successful relationship is measured by how much better two people are together than apart <a class="yt-timestamp" data-t="00:22:30">[00:22:30]</a>.
+
+A good partner is a cheerleader who clears the way or supports from the sidelines, never asking you to abandon your goals, especially when the stakes are high <a class="yt-timestamp" data-t="00:22:48">[00:22:48]</a>. Conflict arises when a partner changes the rules or expectations mid-game <a class="yt-timestamp" data-t="00:23:12">[00:23:12]</a>. If a partner cannot clearly communicate what they want from you, it's advisable to find someone who can <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>.
+
+## Long-Term Commitment and Self-Reflection
+
+### Trading Up in Relationships
+Committing to one person involves trading novelty for loyalty <a class="yt-timestamp" data-t="00:15:32">[00:15:32]</a>. Loyalty, defined as the ability to predict future behavior, is highly valuable <a class="yt-timestamp" data-t="00:15:44">[00:15:44]</a>. You also trade exploration for trust: ceasing exploration allows you to invest time in one person, yielding dividends of trust <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a>. Furthermore, you trade the "chase" for a shared journey towards a common goal or purpose <a class="yt-timestamp" data-t="00:16:17">[00:16:17]</a>.
+
+### The Importance of Honesty and [[the_importance_of_commitment_and_setting_priorities | Commitment]]
+Be brutally honest about your intentions and long-term goals <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>. If you know you don't intend to marry or have children with someone, communicate that clearly rather than letting them wait in false hope <a class="yt-timestamp" data-t="00:17:02">[00:17:02]</a>. This saves time and is an ethical approach <a class="yt-timestamp" data-t="00:16:48">[00:16:48]</a>. If you prefer novelty, exploration, or the chase, then marriage may not be for you, and that's an acceptable personal choice <a class="yt-timestamp" data-t="00:17:38">[00:17:38]</a>.
+
+[[setting_priorities_for_success | Clarifying your priorities]] in a partner is crucial <a class="yt-timestamp" data-t="00:13:26">[00:13:26]</a>. If a partner is attracted to your core, unchanging traits like ambition, that's a strong foundation <a class="yt-timestamp" data-t="00:14:08">[00:14:08]</a>. Understand the trade-offs involved in your choices and avoid resenting the "price tag" of your desired relationship <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>. If a partner isn't willing to pay the cost of supporting your long-term goals, you will likely resent them if those goals aren't achieved <a class="yt-timestamp" data-t="00:14:59">[00:14:59]</a>. [[aligning_relationships_with_personal_goals_and_values | Aligning relationships with personal goals and values]] is vital <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a>.
+
+It is acceptable to end a relationship, even a marriage, if you find you want fundamentally different things in life <a class="yt-timestamp" data-t="00:19:44">[00:19:44]</a>. Shared goals allow efforts to be additive and stack on top of each other, leading to a more valuable relationship <a class="yt-timestamp" data-t="00:24:20">[00:24:20]</a>.
+
+### The Transformative Power of a Good Partner
+A strong partner should believe in you as much as or more than you believe in yourself <a class="yt-timestamp" data-t="00:24:37">[00:24:37]</a>. They should encourage you to be a *better* version of yourself, not a *different* one <a class="yt-timestamp" data-t="00:24:48">[00:24:48]</a>. When both partners reinforce each other's growth towards a pre-agreed shared goal, a virtuous cycle is created <a class="yt-timestamp" data-t="00:25:09">[00:25:09]</a>.
+
+Ultimately, your marriage improves by becoming a better person first, which in turn attracts better people <a class="yt-timestamp" data-t="00:26:15">[00:26:15]</a>. A supportive partner can lead to significant positive changes in various aspects of your life, including wealth, physical health, patience, kindness, and joy <a class="yt-timestamp" data-t="00:26:32">[00:26:32]</a>. If a partner consistently pulls you away from your priorities and goals, it's often easier to find someone who aligns with them <a class="yt-timestamp" data-t="00:26:58">[00:26:58]</a>.

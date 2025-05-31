@@ -1,0 +1,35 @@
+---
+title: Mindset changes for achieving financial goals
+videoId: lRyGIzW9d9k
+---
+
+From: [[alexhormozi]] <br/> 
+
+Alex Hormozi, a business investor who took home over seven figures a month in income by the time he was 28 years old, shares a concept he calls the "anti-routine" <a class="yt-timestamp" data-t="00:00:01">[00:00:01]</a>. This approach focuses on stopping unproductive activities rather than adding more to one's schedule, leading to outsized financial returns <a class="yt-timestamp" data-t="02:04:02">[02:04:02]</a>. His personal journey involved a significant [[mindset_shifts_for_financial_success | paradigm shift]] over 18 months, transitioning from contemplating bankruptcy to earning over a million dollars monthly at age 27 <a class="yt-timestamp" data-t="00:54:10">[00:54:10]</a>.
+
+## The Flaw in "Million-Dollar Routines"
+
+Many people assume that successful individuals achieve their [[achieving_financial_success_and_wealth | financial success]] by doing specific, unique things they are not doing <a class="yt-timestamp" data-t="01:25:01">[01:25:01]</a>. Hormozi contends this is incorrect, stating that most champions don't possess something others lack; rather, they *lack* something others have, such as an "off switch" <a class="yt-timestamp" data-t="01:39:13">[01:39:13]</a>. Their success is often driven by their lack of an off-switch, meaning they just keep going <a class="yt-timestamp" data-t="01:52:43">[01:52:43]</a>. Consequently, individuals looking to improve should focus on stopping things they currently do that are unproductive <a class="yt-timestamp" data-t="01:58:14">[01:58:14]</a>.
+
+## The Power of "No"
+
+The central theme of the anti-routine is the word "no" <a class="yt-timestamp" data-t="03:16:15">[03:16:15]</a>. This approach suggests that instead of seeking new things to add to a routine, one needs to cultivate a routine of saying "no" <a class="yt-timestamp" data-t="03:31:02">[03:31:02]</a>. This "season of no" is not meant to be permanent but rather a temporary period of intense focus <a class="yt-timestamp" data-t="03:27:01">[03:27:01]</a>.
+
+### [[mindset_shifts_for_financial_success | Mindset Shifts]] for the Anti-Routine
+
+1.  **Priorities are Exclusive**: The concept of "priorities" means that two things cannot be equally important <a class="yt-timestamp" data-t="02:45:15">[02:45:15]</a>. If one spends equal time on two tasks, even while claiming one is more important, they are essentially treating both as equally important, which means neither is truly prioritized <a class="yt-timestamp" data-t="03:00:23">[03:00:23]</a>. True prioritization involves saying "no" to everything else besides the chosen priority <a class="yt-timestamp" data-t="03:49:09">[03:49:09]</a>.
+2.  **Challenging the Obligation to Reply**: When people communicate via text or email, there is an implied request for a reply <a class="yt-timestamp" data-t="04:17:09">[04:17:09]</a>. However, having the time to reply does not equate to an obligation to do so <a class="yt-timestamp" data-t="04:47:04">[04:47:04]</a>. Hormozi realized that if he couldn't physically reply to, for example, 500,000 texts, the obligation to reply would vanish, demonstrating that the obligation never truly existed <a class="yt-timestamp" data-t="04:54:19">[04:54:19]</a>. During his 18-month period of growth, he stopped replying to most people <a class="yt-timestamp" data-t="05:12:09">[05:12:09]</a>.
+3.  **Purpose of Events and Masterminds**: Many events, masterminds, and coaching programs primarily serve social needs rather than solving specific problems <a class="yt-timestamp" data-t="05:32:04">[05:32:04]</a>. Hormozi attended a mastermind, extracted what he needed, and then did not return for 18 months, spending that time executing instead <a class="yt-timestamp" data-t="05:39:13">[05:39:13]</a>. He emphasizes that once you know what needs to be done, anything that prevents you from doing it is an obstacle <a class="yt-timestamp" data-t="07:27:32">[07:27:32]</a>.
+
+### [[effective_habits_and_mindset_strategies | Tactical Implementation]] of the Anti-Routine
+
+To remove distractions and enable focused work, Hormozi implemented several [[personal_finance_habits_and_strategies | tactical changes]]:
+
+*   **Changing Communication Channels**: He changed his phone number, giving his old one to his assistant <a class="yt-timestamp" data-t="06:12:35">[06:12:35]</a>. He only initiated communication with essential contacts, refusing to be responsive to every person who previously had his number <a class="yt-timestamp" data-t="06:57:07">[06:57:07]</a>. This drastically increased the "blank space" in his calendar <a class="yt-timestamp" data-t="06:41:10">[06:41:10]</a>.
+*   **Limiting External Engagements**: He stopped attending all events, focusing instead on execution once he had the necessary information <a class="yt-timestamp" data-t="07:11:03">[07:11:03]</a>.
+*   **Dedicated Work Blocks**: He stopped taking meetings from 4 AM to noon daily, dedicating the first eight hours of his day to uninterrupted work on his top priority <a class="yt-timestamp" data-t="07:34:49">[07:34:49]</a>. This was crucial, especially in the early stages of business growth, before sufficient team leverage is established <a class="yt-timestamp" data-t="07:41:09">[07:41:09]</a>.
+*   **Consistent Sleep Schedule**: He maintained the same bedtime on weekends as on weekdays, ensuring a consistent wake-up time to maximize his uninterrupted work block <a class="yt-timestamp" data-t="08:27:14">[08:27:14]</a>.
+*   **Optimized Health Practices**: He reduced his workouts to twice a week, focusing on a "minimum effective dose" for maintenance rather than progress on multiple fronts <a class="yt-timestamp" data-t="08:52:43">[08:52:43]</a>. He also incorporated fasting one or two days a week, consuming only caffeine and bone broth, to avoid interruptions from meal preparation and eating <a class="yt-timestamp" data-t="09:24:02">[09:24:02]</a>. This approach allowed him to allocate his limited "growth juju" to his highest priorities <a class="yt-timestamp" data-t="09:09:47">[09:09:47]</a>.
+*   **Eliminating Digital Distractions**: He deleted all social media applications from his phone, recognizing that most posting functions could be done from a computer, thereby reducing consumption and interaction <a class="yt-timestamp" data-t="09:42:25">[09:42:25]</a>. This freed up significant time, as many individuals spend three to five hours daily consuming social media <a class="yt-timestamp" data-t="10:08:29">[10:08:29]</a>.
+
+The effectiveness of the anti-routine lies in recognizing that [[achieving_financial_success_and_wealth | financial success]] is not about some secret routine, but about stopping unproductive activities and entering a "season of no" <a class="yt-timestamp" data-t="10:26:00">[10:26:00]</a>.

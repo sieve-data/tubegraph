@@ -1,0 +1,62 @@
+---
+title: Aligning values and goals with a partner
+videoId: jiCGLDhUCHY
+---
+
+From: [[alexhormozi]] <br/> 
+
+Choosing a life partner is one of the most impactful decisions an individual will make, significantly affecting who they become, what they achieve, and their overall happiness <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. Despite its importance, many people dedicate more time to selecting a car or a neighborhood than they do to choosing a spouse <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. Research suggests a 71% correlation between subjective well-being and the strength of one's relationship with their significant other <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Over time, the amount of time spent with a spouse or alone increases, while time with friends, family, and children decreases <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. This highlights that a spouse will be the person an individual spends the most time with throughout their life <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+
+## The Imperative of High Standards and Self-Improvement
+
+Many single individuals lament the difficulties of finding a partner, often shying away from dating apps or limiting their dating efforts to a handful of dates <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>. This low effort in finding a lifelong partner is likened to spinning a wheel only ten times and settling for whichever option "doesn't suck" <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
+
+It is crucial to maintain [[the_importance_of_high_standards_in_partner_selection | exceptionally high standards]] for a partner, second only to the standards held for oneself <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. There are typically three approaches people take:
+1.  **Camp One:** Accepting anyone with a pulse, which often leads to "the scraps of society" <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>.
+2.  **Camp Two:** Wanting an amazing partner while personally "sucking," expecting someone to see their amazing qualities "deep down" despite current deficiencies like unemployment, being overweight, lacking commitment, or being dishonest <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. This prevalent mindset contributes to struggles in finding a partner <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>.
+3.  **Camp Three:** Focusing on self-improvement to become someone "worth being with" <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>. Dating "hacks" often involve posturing and deception, which are unsustainable in the long term, as people will eventually discover who you truly are <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. The real work lies in becoming a desirable individual rather than optimizing online profiles <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. By focusing on [[setting_priorities_for_success | becoming worthy]], one can attract a partner of high caliber without resorting to superficial tactics <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>.
+
+## Challenging the "Type" and Embracing Exploration
+
+A common misconception is that one will marry their "type" <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. If an individual consistently dates the same "type" of person but remains single, it suggests that "type" may not be the right fit for marriage <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>. Marrying someone very different from past "types" can actually be a positive sign <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+
+Dating a diverse range of people helps develop the valuable, though challenging, skill of judging or assessing individuals accurately <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>. This process takes pattern recognition and learning from negative experiences <a class="yt-timestamp" data-t="00:05:41">[00:05:41]</a>. Putting oneself out there, even enduring "terrible first dates," allows for the discovery of previously unrecognized important character traits <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>. Reflecting on positive traits observed in professional relationships can also help pinpoint what is valued in a partner <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>.
+
+## [[Aligning relationships with personal goals and values | Aligning Goals and Expectations]]
+
+For a relationship to thrive, it is critical that a partner does not impede your personal [[setting_priorities_for_success | goals]] <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>. Ideally, they should view your pursuit of goals as a "give" or a fulfillment of duty to the household, rather than a "take" <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. Shared metrics for success and judgment are essential; if partners judge each other on different outcomes, conflict and resentment are inevitable <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+
+> "Making sure that the person you're with judges you by the metrics that you judge yourself on... making sure that the things that they expect of you and the things that you expect of you are the same and then they should be supporting you because they want those things from you too and then that way you can work in Synergy towards what you're trying to accomplish together" <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+
+Instead of endlessly compromising, which leaves both parties unsatisfied <a class="yt-timestamp" data-t="00:09:18">[00:09:18]</a>, it is more effective to find a partner who loves the things you already do or plan to do <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. This requires brutal honesty about expectations and what an ideal partner looks like for you <a class="yt-timestamp" data-t="00:08:59">[00:08:59]</a>.
+
+## The "Partner" Mentality
+
+Assessing the internal health of a relationship from an external perspective is challenging, as the primary objective success metric often appears to be "not divorced" <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. Many marriages, though not divorced, may not be desirable <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a>.
+
+Drawing on an analogy from Roy Sutherland about realtors, open communication of perceived "downsides" can attract stronger matches <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. If a partner's "downsides" are neutral or even positives for the other person, it forms the basis of a very strong relationship <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>. This means finding someone who appreciates you for who you are, without needing to constantly change or compromise <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
+
+Committing to one person involves trading novelty for loyalty, exploration for trust, and the "chase" for a shared journey towards a common idea, goal, or purpose <a class="yt-timestamp" data-t="00:15:32">[00:15:32]</a>. Loyalty implies a high ability to predict a partner's future behavior, while trust is built through investment of time <a class="yt-timestamp" data-t="00:15:46">[00:15:46]</a>. Being upfront about intentions, especially regarding marriage or children, is an ethical imperative to avoid leading someone on <a class="yt-timestamp" data-t="00:17:02">[00:17:02]</a>.
+
+The term "partner" or "life partner" better encapsulates the true nature of marriage than "spouse" or "husband/wife" <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>. Like a business partner, a life partner should have complementary skills and share the same fundamental goals and values <a class="yt-timestamp" data-t="00:21:53">[00:21:53]</a>. A true partnership creates a synergy where "the sum of the whole is greater than its parts" <a class="yt-timestamp" data-t="00:22:13">[00:22:13]</a>. A successful relationship is measured by how much more valuable the couple is together compared to as individuals <a class="yt-timestamp" data-t="00:22:30">[00:22:30]</a>.
+
+## Partner as an Asset for Growth
+
+A spouse should be an asset, increasing in value over time, rather than a liability that declines <a class="yt-timestamp" data-t="00:20:12">[00:20:12]</a>. This emphasizes the importance of [[importance_of_training_with_a_partner | choosing a partner who continually gets better]], works on themselves, and seeks new skills and experiences <a class="yt-timestamp" data-t="00:20:34">[00:20:34]</a>.
+
+> "Your spouse marries to two people: the person you are and the person that you want to become. Make sure that they love both" <a class="yt-timestamp" data-t="00:17:57">[00:17:57]</a>.
+
+A partner should desire your *growth* (becoming more of who you already are in your natural direction) rather than *change* (becoming someone different for a different end goal) <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>. Viewing a partner as a "project" is a "terrible way to live life," indicating a lack of love for who they are or who they will become <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a>.
+
+Many people settle in relationships simply because someone is "there at the time when they were old enough that they should get married," leading to "non-spectacular" marriages <a class="yt-timestamp" data-t="00:18:48">[00:18:48]</a>. Going on many dates helps clarify the types of people and traits one genuinely values, preventing settling for "good enough" <a class="yt-timestamp" data-t="00:18:57">[00:18:57]</a>.
+
+If a partner is aligned with your aspirations and [[balancing_life_priorities_and_financial_goals | goals]], they will be aligned with you paying the price to achieve them <a class="yt-timestamp" data-t="00:19:15">[00:19:15]</a>. If they are unwilling to "pay the cost" of your pursuit of goals, they do not support your long-term vision, which can lead to resentment <a class="yt-timestamp" data-t="00:14:55">[00:14:55]</a>.
+
+### The Cheerleader Analogy
+Inspired by Gary Vaynerchuk, a good spouse acts like a cheerleader for a quarterback, supporting and clearing the way without ever asking them to leave the game when it's on the line <a class="yt-timestamp" data-t="00:22:47">[00:22:47]</a>. Conflicts arise when a partner changes the rules mid-game, introducing new goals or undermining efforts towards agreed-upon objectives <a class="yt-timestamp" data-t="00:23:10">[00:23:10]</a>.
+
+Ultimately, both partners must be clear about what they want from each other and from life. If a partner's [[finding_a_partner_compatible_with_your_long_term_goals | life goals]] are fundamentally different, amicably parting ways is preferable to inevitable conflict and resentment <a class="yt-timestamp" data-t="00:24:02">[00:24:02]</a>. When goals are shared, efforts become additive, building upon each other <a class="yt-timestamp" data-t="00:24:27">[00:24:27]</a>.
+
+Every individual needs a partner who believes in them as much as or more than they believe in themselves <a class="yt-timestamp" data-t="00:24:37">[00:24:37]</a>. This belief should foster growth towards being *more* of who you are, not *different* <a class="yt-timestamp" data-t="00:24:48">[00:24:48]</a>. This creates a virtuous cycle of mutual reinforcement, where both individuals become better versions of themselves, aligned with pre-agreed goals <a class="yt-timestamp" data-t="00:25:09">[00:25:09]</a>.
+
+[[the_importance_of_commitment_and_setting_priorities | Obscenely high standards]] for a life partner are warranted, but these standards must be exceeded by the standards one holds for oneself <a class="yt-timestamp" data-t="00:25:18">[00:25:18]</a>. High goals combined with hard work lead to ambition, while high goals combined with laziness lead to entitlement <a class="yt-timestamp" data-t="00:25:27">[00:25:27]</a>. Many people feel entitled to an amazing spouse but lack ambition in pursuing their own self-improvement <a class="yt-timestamp" data-t="00:25:35">[00:25:35]</a>. Becoming a better person attracts better people, necessitating an honest look in the mirror to address deficiencies <a class="yt-timestamp" data-t="00:26:15">[00:26:15]</a>. If a partner pulls you away from your priorities and goals, it's often easier to find someone new than to try and change them <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>.

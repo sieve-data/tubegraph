@@ -1,0 +1,50 @@
+---
+title: Examples of individuals taking different career paths
+videoId: -wnnwCqGeNc
+---
+
+From: [[alexhormozi]] <br/> 
+
+Many 20-year-olds remain financially challenged because they prioritize earning money over acquiring knowledge and [[developing_skills_and_finding_better_job_opportunities | skills]] <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. A survey of high school seniors revealed that 52% believe they will be millionaires by age 25, a belief described as "delusion" <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. Instead of seeking a quick, low-probability path to wealth, a guaranteed decade-long learning journey is presented as a more reliable alternative <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+
+## The Earning vs. Learning Approach: Two Video Editors
+
+Consider two individuals of similar age who took divergent career paths in video editing:
+
+### Prioritizing Immediate Earnings
+One individual sought to learn basic video editing from an older colleague to secure a job interview <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. He received a $60,000 job offer from a company with a strong team and experienced creative directors from whom he could learn <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>. However, rather than accepting the offer, he demanded an additional $3,000, prioritizing immediate earnings over the learning opportunity <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. This led him to become the head of video editing at a small business lacking mentors, where he quickly became the primary resource from whom the company sought to extract value, hindering his long-term growth <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. This approach highlights a common pitfall: when you prioritize earning early, you cease learning <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+
+### Prioritizing Learning and Mentorship
+The other individual, at 17 years old with no prior skills, sought advice from a [[investing_in_personal_growth_and_mentorship | mentor]] <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. Advised that he had a "proclivity for sales," he was told to double any minimum activity quotas <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. In a sales role requiring 100 calls a day, he made 200, understanding he needed to compensate for his lack of skill with double the effort <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. His mentor also advised him to spend as much time as possible with the top performer, observing and learning from them <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>. He proved himself as the top performer on his team, earning promotions despite being the youngest <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. He became one of the top closers in his company, learning from experts because he was hungry and worked extra hours <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>. Currently, he could start a million-dollar business or choose to reinvest in his learning by taking a job at a more prestigious company for less pay, prioritizing experience over short-term income <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>.
+
+## The Dunning-Kruger Effect and Seasons of Growth
+When you are early in your career, you learn a small amount and may feel you know everything; this is known as the Dunning-Kruger effect <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. The more you learn in a specific skill, the more you realize the vastness of what you don't know <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. Socrates famously stated, "The more I know, the more I realize I know nothing" <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>.
+
+Employers view potential hires differently based on their "season":
+*   **Earning Season**: If an individual is in an earning season, an employer will seek to extract more value than they pay <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>.
+*   **Learning Season**: If an individual comes in with a "learning hat," the business owner is more likely to invest in their growth, offer [[investing_in_personal_growth_and_mentorship | mentorship]], and even pay them to learn, knowing that this investment will eventually lead to greater value creation <a class="yt-timestamp" data-t="00:05:10">[00:05:10]</a>.
+
+Comparing yourself to peers earning more in the short term often means they are "shortchanging their long-term earning for short-term earning" <a class="yt-timestamp" data-t="00:03:32">[00:03:32]</a>.
+
+## The Compounding Power of Skills
+
+Your ability to provide value compounds over time, especially when you start combining [[developing_skills_and_finding_better_job_opportunities | skill sets]] <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
+
+*   **Jay-Z's Skill Stacking**: Jay-Z began by learning to rap <a class="yt-timestamp" data-t="00:06:04">[00:06:04]</a>. He then learned how to promote, which brought significantly more income <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a>. Next, he mastered record label management and distribution, further increasing his earnings <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. Finally, he learned to recruit artists to his label, generating even more wealth <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. His early skills, though not heavily monetized initially, provided the foundation for massive monetization later <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+*   **Accountant to Rainmaker**: Knowing math is a basic skill <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. Adding bookkeeping skills increases value <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. Becoming an accountant provides more <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>. Understanding taxes and insurance can elevate one to a Chief Financial Officer (CFO) <a class="yt-timestamp" data-t="00:06:43">[00:06:43]</a>. Further, grasping mergers and acquisitions (M&A) and entity structures transforms a CFO into a "Rainmaker" who can bring in and execute deals, with an earning potential difference of tens of millions of dollars per year compared to a regular accountant <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+
+## Historical Examples of Prioritizing Learning
+
+### Kobe Bryant's Dedication
+Kobe Bryant was renowned for his commitment to learning and improvement <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. He believed that if others practiced once a day, he would practice twice, ensuring he improved faster <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. While the initial difference might not have been noticeable, after five to ten years, he became "unbeatable" <a class="yt-timestamp" data-t="00:03:35">[00:03:35]</a>. This principle applies to any field: performing two to four times the volume of core activities (e.g., making videos, sales calls) leads to faster improvement and reduces "ignorance debt" at a compounding rate <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>.
+
+### Warren Buffett's Free Apprenticeship
+Warren Buffett, a hero to many, graduated at the top of his class from Columbia Business School <a class="yt-timestamp" data-t="00:07:03">[00:07:03]</a>. Instead of taking a high-paying job, he asked Ben Graham, one of the leading investors of the time, to let him work for free at his investment firm <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>. Graham initially told Buffett he was "overpriced," understanding that even free labor would cost him more in the transfer of skills and knowledge <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. Buffett's decision to work for free demonstrated his understanding that he was in a "season of learning and not earning," and he was willing to [[investing_in_personal_growth_and_mentorship | invest]] in himself, the most valuable asset, for long-term [[challenges_of_becoming_successful | success]] <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>.
+
+## Personal Experience: Sacrificing Pay for Learning
+
+The speaker's own career path mirrors this philosophy. After graduating *magna cum laude* from Vanderbilt University in three years, he could have earned a high salary <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. Instead, he took a consulting job that paid less than his peers, specifically because it allowed him to work directly with the CEO and learn more <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>.
+
+Later, transitioning to the fitness industry, he approached 40 different gym owners, offering to work for free <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>. Despite his impressive academic and extracurricular background (Magna Cum Laude, Vice President of powerlifting team, fraternity president, consulting experience), he recognized that he would gain more from the exchange than the employer <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. He eventually started working for minimum wage, a decision that required him to "swallow [his] pride" but proved to be one of the best investments he ever made <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>. He acknowledges that comparing himself to higher-earning peers was difficult, but learning from industry leaders, even for minimal pay, is invaluable <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
+
+Prioritizing immediate earnings over learning from the best is akin to turning down a low-paying assistant role with someone like Elon Musk for a higher salary, a "stupid" decision that many 20-year-olds make daily <a class="yt-timestamp" data-t="00:09:03">[00:09:03]</a>. Choosing the long-term trade-off builds an undeniable track record of experience, earning genuine respect for what you have done, not what you merely claim <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>.
