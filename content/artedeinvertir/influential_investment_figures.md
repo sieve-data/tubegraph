@@ -1,0 +1,53 @@
+---
+title: Influential investment figures
+videoId: pqt4GDZYW7U
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Learning from the most successful figures in finance is a cornerstone for developing superior knowledge and abilities in the market [[00:00:14]](<a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a>). Their accumulated wisdom, spanning decades and even centuries, provides invaluable [[investment_advice_and_strategies_from_top_investors | investment advice and strategies]] [[00:00:30]](<a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>). This article highlights prominent [[analysis_of_prominent_stock_market_investors | stock market investors]] and their contributions, often documented in their seminal [[top_investment_books | investment books]].
+
+## Benjamin Graham
+Benjamin Graham is considered the "bible of investments" for his foundational work, *The Intelligent Investor* [[00:01:31]](<a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>). He was the teacher and mentor of Warren Buffett [[00:01:37]](<a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>). His book covers all the basics needed to begin investing and is classified as medium difficulty, containing both basic and advanced concepts [[00:01:51]](<a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>).
+
+Key concepts from Graham:
+*   **Market Psychology**: Graham introduced the figure of "Mr. Market," defining the stock market as a "manic-depressive entity" prone to euphoria and depression [[00:02:08]](<a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>).
+*   **Margin of Safety**: This crucial concept suggests that investors should buy a stock significantly below its estimated intrinsic value to protect against unforeseen events and variations in expected value [[00:02:24]](<a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>).
+*   **Business Valuation**: Graham's methods included buying a portfolio of approximately 50 stocks trading very cheaply based on book value metrics and rotating them to beat the market [[00:03:00]](<a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>).
+
+## Peter Lynch
+Peter Lynch was a highly successful investment fund manager, noted for one of the best records in the fund industry [[00:04:12]](<a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>). For 13 years, he managed the Magellan Fund, generating average annual returns of around 30% [[00:04:19]](<a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>). He started by managing tens of millions of dollars and concluded managing close to 15 trillion dollars [[00:04:29]](<a class="yt-timestamp" data-t="00:04:29">[00:04:29]</a>).
+
+His [[top_investment_books | books]], *One Up On Wall Street* and *Beating the Street*, are considered staples for any investor [[00:03:44]](<a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>) [[00:04:01]](<a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>). These books explain long-term returns, market psychology, and classify stocks into six groups, while also introducing basic, yet useful, accounting concepts for business valuation [[00:04:04]](<a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>) [[00:04:38]](<a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>) [[00:04:47]](<a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>). *Beating the Street* offers practical examples and is written in a diary format, detailing his portfolio management decisions and rationale over 13 years [[00:05:23]](<a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>).
+
+## Joel Greenblatt
+Joel Greenblatt is the author of *You Can Be a Stock Market Genius*, an advanced but highly recommended [[top_investment_books | book]] [[00:06:17]](<a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>). During the first ten years of managing his fund, he generated an astounding annual return of 50% [[00:06:29]](<a class="yt-timestamp" data-t="00:06:29">[00:06:29]</a>).
+
+Greenblatt's approach focuses on "special situations," which are the most inefficient and ignored areas of the market, such as companies emerging from bankruptcy, spin-offs, or those with high debt [[00:07:00]](<a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a>). He explains his best [[historical_examples_of_successful_investments | investments]] with detailed numbers, dates, and how he identified and monitored them over time [[00:06:48]](<a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>).
+
+## Jesse Livermore
+Jesse Livermore is considered one of the best speculators in stock market history [[00:07:31]](<a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>). His fame peaked during the 1929 stock market crash when he correctly bet on the market's decline [[00:07:42]](<a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>). His biography, *Reminiscences of a Stock Operator*, highlights his growth as an investor and his experiences with wealth generation and bankruptcies [[00:07:51]](<a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>). The book's most interesting aspect is that experiences from 100 years ago remain perfectly valid today, underscoring the timeless nature of market psychology [[00:08:05]](<a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>).
+
+## Warren Buffett
+Warren Buffett is arguably one of the most successful investors in the stock market [[00:08:34]](<a class="yt-timestamp" data-t="00:08:34">[00:08:34]</a>). His investment style is a blend of Benjamin Graham's value investing principles—understanding businesses and buying them cheaply—and "quality investing" [[00:08:38]](<a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>) [[00:08:50]](<a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>). This involves not just buying the cheapest stocks, but those with inherent quality that can be held for a long time [[00:08:52]](<a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>).
+
+*Buffettology*, written by his daughter-in-law, exposes his investment style from both numerical and qualitative perspectives [[00:08:21]](<a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>) [[00:09:00]](<a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>). While Buffett himself has not written a specific [[top_investment_books | book]] on his style, his annual letters from Berkshire Hathaway are highly recommended for learning [[00:09:15]](<a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>).
+
+## Phil Fisher
+Phil Fisher significantly influenced Warren Buffett, who stated he is "80% Benjamin Graham and 20% Phil Fisher" [[00:09:59]](<a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>). Fisher's book, *Common Stocks and Uncommon Profits*, outlines the "quality investing" style [[00:10:02]](<a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>). This approach involves paying a higher price for extraordinary companies characterized by high expected future growth [[00:10:07]](<a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>) [[00:10:13]](<a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>).
+
+Fisher's work teaches how to identify common traits among these stocks, focusing less on numbers and more on business solidity, large market potential, and sound management [[00:10:38]](<a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>) [[00:10:45]](<a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>). It includes a valuable checklist of questions for evaluating potential [[analysis_of_specific_investment_opportunities | investment opportunities]] [[00:10:57]](<a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>).
+
+## George Soros
+George Soros is considered the most successful modern speculator since the 1960s and 70s, accumulating immense wealth despite not adhering to a traditional value investing style [[00:11:48]](<a class="yt-timestamp" data-t="00:11:48">[00:11:48]</a>). His style emphasizes speculation and shorter-term operations, sometimes utilizing debt [[00:12:05]](<a class="yt-timestamp" data-t="00:12:05">[00:12:05]</a>).
+
+His [[top_investment_books | book]], *The Alchemy of Finance*, is of high difficulty but highly recommended for its insightful vision of markets [[00:11:25]](<a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>) [[00:12:11]](<a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>). Soros popularized the concept of "reflexivity," explaining how the price of an asset can directly influence its fundamentals and real-life behavior, a complex idea he articulated uniquely [[00:12:18]](<a class="yt-timestamp" data-t="00:12:18">[00:12:18]</a>). The book also includes a diary section where Soros details his portfolio movements and rationale over two years [[00:12:50]](<a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>).
+
+## Bruce Greenwald
+Bruce Greenwald, a university professor and successful investor, authored *Value Investing* [[00:13:12]](<a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>). His approach differs from typical academic texts by providing real and practical examples from his investing experience [[00:13:20]](<a class="yt-timestamp" data-t="00:13:20">[00:13:20]</a>) [[00:13:41]](<a class="yt-timestamp" data-t="00:13:41">[00:13:41]</a>). The book covers concepts like margin of safety, intrinsic value, competitive advantages, value traps, and various value investing ratios (PER, book value, cost of capital) [[00:13:50]](<a class="yt-timestamp" data-t="00:13:50">[00:13:50]</a>). It provides the necessary tools to understand and apply the value investing style [[00:14:04]](<a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>).
+
+## The Unknown Spanish Author of *The Confusion of Confusions*
+Published over 300 years ago, *The Confusion of Confusions* is considered the first book written about the stock market [[00:14:21]](<a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>). This historical [[top_investment_books | book]], written by a Spaniard, contains anecdotes that, despite their age, remain perfectly valid for understanding today's market [[00:14:28]](<a class="yt-timestamp" data-t="00:14:28">[00:14:28]</a>) [[00:14:39]](<a class="yt-timestamp" data-t="00:14:39">[00:14:39]</a>). It highlights how little the stock market has changed in terms of psychology and mass behavior over centuries [[00:14:43]](<a class="yt-timestamp" data-t="00:14:43">[00:14:43]</a>).
+
+---
+*By engaging with the works of these influential figures, investors can gain a profound understanding of [[characteristics_of_successful_investment_approaches | successful investment approaches]] and navigate the complexities of the market with greater insight.*

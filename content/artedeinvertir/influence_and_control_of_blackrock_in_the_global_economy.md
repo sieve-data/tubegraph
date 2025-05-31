@@ -1,0 +1,58 @@
+---
+title: Influence and control of BlackRock in the global economy
+videoId: NV4ZBkCfblQ
+---
+
+From: [[artedeinvertir]] <br/> 
+
+[[the_growth_and_power_dynamics_of_blackrock | BlackRock]] is commonly described as the "owner of the world" due to its tremendous power and control over global companies and economies <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>.
+
+## Scale of Power and Economic Footprint
+
+[[the_growth_and_power_dynamics_of_blackrock | BlackRock]] controls over $10 trillion in assets, making it the largest shareholder in the main listed companies worldwide <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. To put its size into context, these controlled assets represent more than 10% of the world economy <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>, exceeding the economy of all countries except China and the United States <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## Leadership and Objectives
+
+[[the_growth_and_power_dynamics_of_blackrock | BlackRock]] is led by [[influential_investment_figures | Larry Finge]], its CEO, who is considered one of the people with the greatest economic power globally, yet remains largely unknown to most <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. Like any private company, its primary objective is to generate profits from funds provided by its investors <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
+
+## Client Base and Financial Sector Control
+
+[[the_growth_and_power_dynamics_of_blackrock | BlackRock]]'s clients primarily include banks, insurers, pension plans, and sovereign funds from some of the world's richest countries <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>. Significantly, a major portion of its client base consists of small investors <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+
+[[the_growth_and_power_dynamics_of_blackrock | BlackRock]] exerts control over the financial sector, considered the "lung of the economy" <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>. With its substantial funds, it holds majority positions in leading global banks, including Wells Fargo, Bank of America, Citigroup, and Banco Santander <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. It is paradoxical that most of these banks are also [[the_growth_and_power_dynamics_of_blackrock | BlackRock]]'s main clients, providing it with increasing funds annually, which in turn enhances its controlling position over major companies worldwide <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>. Investment plans offered by banks often channel money into [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>. Even non-invested money deposited in banks may end up in [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] products <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>.
+
+[[the_growth_and_power_dynamics_of_blackrock | BlackRock]] utilizes "Issuers" as its commercial name to channel investments and acquire ownership in companies <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. For instance, the main owners of Banco Santander are all Issuers funds <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. Similarly, [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] is a major shareholder in large American banks like JP Morgan <a class="yt-timestamp" data-t="00:02:45">[00:02:45]</a>. The names [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] or Issuers are consistently found among the main shareholders of companies listed on the stock exchange <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>.
+
+## Circular Structures and Potential Conflicts of Interest
+
+A curious circular relationship exists: the company that owns a bank, like Santander, and controls its board, ends up receiving more money from the bank's clients <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. This money then allows [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] to buy more shares of that bank, increasing its ownership, power, and profits <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>.
+
+[[potential_conflicts_of_interest_in_industries_controlled_by_blackrock | BlackRock]] has a controversial division called BlackRock Solutions, which audits and controls the risks posed by major banks to the financial system <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. This provides [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] with intimate knowledge of banks' internal accounts and data <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. This creates a paradoxical situation where [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] is both a main investor in these banks and responsible for controlling their internal risk <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. While [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] claims these divisions are separate with "Chinese walls" for information control, many question the validity of this separation <a class="yt-timestamp" data-t="00:04:17">[00:04:17]</a>.
+
+This accumulation of power also generates [[potential_conflicts_of_interest_in_industries_controlled_by_blackrock | potential conflicts of interest]] at the competition level between different companies controlled by a single entity like [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] <a class="yt-timestamp" data-t="00:06:46">[00:06:46]</a>. For example, while [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] may not appear as a main shareholder in McDonald's, it is listed among the main shareholders of McDonald's competitor, Wendy's <a class="yt-timestamp" data-t="00:06:56">[00:06:56]</a>. Many sources question the freedom of competition in sectors like automotive, airline, and finance, where the same owner controls major companies <a class="yt-timestamp" data-t="00:07:20">[00:07:20]</a>.
+
+## Market Dominance and Passive Investing
+
+Only [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] ETFs, such as the iShares Core S&P 500 (IVV), are among the most traded stocks on the New York Stock Exchange, with a daily volume exceeding $2 trillion <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
+
+[[the_growth_and_power_dynamics_of_blackrock | BlackRock]]'s influence extends beyond finance. During the 2008 financial crisis, the [[role_and_impact_of_central_bank_policies_on_the_stock_market | Federal Reserve]] commissioned [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] to dismantle failed banks such as Lehman Brothers and Bear Stearns <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>. It is also a significant lender to emerging countries, further extending its power and control <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+
+Eighty percent of [[the_growth_and_power_dynamics_of_blackrock | BlackRock]]'s income comes from advising on financial products like iShares ETFs <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. These ETFs are bought and sold easily, creating a new category for the general public to invest passively in the entire market <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. It is estimated that in the United States, 60% of invested money is now passive, often in products like [[the_growth_and_power_dynamics_of_blackrock | BlackRock]]'s <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>.
+
+A major concern with this investment style is who truly controls companies, as buyers of [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] products delegate voting rights to [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. This concentrates power in very few companies that end up controlling the main listed companies worldwide <a class="yt-timestamp" data-t="00:06:19">[00:06:19]</a>.
+
+## Influence on Media and Environmental Issues
+
+[[the_growth_and_power_dynamics_of_blackrock | BlackRock]] also exercises power in the media sector, which is key to controlling public opinion <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. It is estimated that [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] and Vanguard control 95% of traditional and new generation media (like Facebook), appearing as their largest shareholders <a class="yt-timestamp" data-t="00:08:25">[00:08:25]</a>.
+
+Regarding [[blackrocks_role_in_environmental_and_social_issues | environmental and social issues]], [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] has been directly accused by many sources of causing damage to the environment, social inequality, or financial fraud due to its immense power and control over companies <a class="yt-timestamp" data-t="00:00:33">[00:00:33]</a>. In 2021, [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] used its power to pressure companies like ExxonMobil to reduce CO2 emissions, leading ExxonMobil to project net-zero emissions by 2050 <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>.
+
+## Investing in BlackRock
+
+[[the_growth_and_power_dynamics_of_blackrock | BlackRock]]'s shares (BLK) are listed on the stock market at approximately $700 per share <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. Since its listing in 2000, [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] shares have multiplied by over 50 times <a class="yt-timestamp" data-t="00:09:13">[00:09:13]</a>. The company has stated it expects to grow by 15% annually towards 2025 <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>. [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] treats its shareholders well, returning over 75% of its earnings through dividends or share buybacks <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. Its dividends have increased by 18% per year <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>.
+
+The [[impact_of_global_economic_conditions_on_markets | impact of global economic conditions on markets | inflation]] could have a neutral or even positive effect on [[the_growth_and_power_dynamics_of_blackrock | BlackRock]]'s results <a class="yt-timestamp" data-t="00:10:22">[00:10:22]</a>. Since [[the_growth_and_power_dynamics_of_blackrock | BlackRock]] charges a percentage on the value of its listed ETFs, if their value increases due to inflation, its commissions will be higher while costs remain relatively stable <a class="yt-timestamp" data-t="00:10:27">[00:10:27]</a>. The nominal value of financial assets tends to increase when [[impact_of_global_economic_conditions_on_markets | inflation]] remains high <a class="yt-timestamp" data-t="00:10:41">[00:10:41]</a>.
+
+## Risks of Passive Investing
+
+Some large investors, like Michael Burry (known for warning about the 2008 financial crisis), have warned that passive investing and ETFs represent a "huge bubble" due to the high valuations many companies are reaching, irrespective of their quality <a class="yt-timestamp" data-t="00:12:07">[00:12:07]</a>. These ETFs operate by automatically buying more shares of a stock as it rises and gains weight in an index, further inflating its valuation and attracting more passive investment capital <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>. Burry has cautioned that this investment style will face issues when capital outflows exceed inflows <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>, comparing it to a "hot chairs game" where the longer it's played, the more likely one is to lose <a class="yt-timestamp" data-t="00:13:17">[00:13:17]</a>.

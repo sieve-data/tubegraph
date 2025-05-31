@@ -1,0 +1,59 @@
+---
+title: Shifts in economic models and consumer habits
+videoId: YWQf6Oo6HpE
+---
+
+From: [[artedeinvertir]] <br/> 
+
+A new economic scenario, driven by the 2030 Agenda, is set to bring about significant economic and social reforms that will impact savings and investments globally <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. This plan, possibly the largest economic and social reform in decades, is already underway, with its initial consequences being felt <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. Supported by powerful figures like Bill Gates, Bill Clinton, and a majority of state presidents, as well as the United Nations, some of its proposed policies are believed to be contributing to the current economic crisis <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. The campaign's motto is strikingly summarized as: "You will have nothing and you will be happy" <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+
+## The 2030 Agenda: A New Economic Plan
+
+The 2030 Agenda, also known by names such as "global objectives" or "global agenda for the world," originated from the Davos Forum, a gathering of influential individuals including Bill Gates, Ray Dalio, state presidents, and powerful global businessmen <a class="yt-timestamp" data-t="01:07:07">[01:07:07]</a>. Economic policies debated here are later implemented at a local level <a class="yt-timestamp" data-t="01:29:03">[01:29:03]</a>. Designed in 2015, this agenda is now entering its most critical phase <a class="yt-timestamp" data-t="01:33:04">[01:33:04]</a>. Many experts suggest its policies are a cause of the current crisis, marked by high levels of inflation <a class="yt-timestamp" data-t="01:40:08">[01:40:08]</a>.
+
+A prominent symbol of this campaign is a pin with 17 colored sections, each representing one of the agenda's objectives, seen worn by global figures <a class="yt-timestamp" data-t="01:53:01">[01:53:01]</a>. While some objectives include collaboration between nations, reducing inequality, and alleviating poverty, the focus of this new economic model is on fundamental changes to how individuals invest and save <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>.
+
+### Key Figures and Predictions
+
+Klaus Schwab, leader of the Davos Forum (World Economic Forum), is a central figure driving these policies to modify the future economic and social landscape <a class="yt-timestamp" data-t="02:42:01">[02:42:01]</a>. Ida Auken, a Danish politician, has also been influential in promoting these economic reforms <a class="yt-timestamp" data-t="02:53:06">[02:53:06]</a>. She famously summarized the economic part of the agenda, stating:
+> Welcome to 2030, I have nothing, I have no privacy and my life has never been better. <a class="yt-timestamp" data-t="03:08:08">[03:08:08]</a>
+
+The World Economic Forum itself published a promotional video titled "Eight Predictions for the World in the Year 2030" <a class="yt-timestamp" data-t="03:18:08">[03:18:08]</a>. Among these, two predictions are particularly striking:
+
+*   **Prediction 2: Decline of US Global Power**
+    The United States is predicted to cease being the world's leading power, replaced by a small number of other countries <a class="yt-timestamp" data-t="03:46:04">[03:46:04]</a>. Ray Dalio, in his book *The New World Order*, has also warned of this risk <a class="yt-timestamp" data-t="03:56:02">[03:56:02]</a>. In this scenario, the dollar would lose its status as the most important currency due to accumulating debt and rising political populism <a class="yt-timestamp" data-t="04:02:02">[04:02:02]</a>. The dollar's market share has already fallen from 70% to 60%, being replaced by currencies like the Chinese Yuan and other Asian currencies, where growth is currently being generated <a class="yt-timestamp" data-t="04:19:00">[04:19:00]</a>. This relates to [[Market Trends and Economic Indicators]] and [[Economic indicators and their implications]].
+
+*   **Prediction 1: The End of Ownership**
+    "You will own nothing and you will be happy. You will be able to rent anything you need" <a class="yt-timestamp" data-t="04:52:03">[04:52:03]</a>. This prediction signals a major economic shift from owning to renting or long-term leasing, a change already benefiting a small number of companies <a class="yt-timestamp" data-t="04:58:04">[04:58:04]</a>. This shift encourages greater consumption, translating into increased business profits <a class="yt-timestamp" data-t="05:26:06">[05:26:06]</a>.
+
+## Shifts in Consumer Habits: From Ownership to Rental/Subscription
+
+Today, consumers are increasingly moving away from owning goods towards renting or subscribing to services:
+*   **Automobiles:** In the US, 70% of vehicles sold are financed, often through leasing or monthly payments rather than outright ownership <a class="yt-timestamp" data-t="05:33:04">[05:33:04]</a>.
+*   **Technology:** Many people rent their iPhones from Apple via a monthly fee <a class="yt-timestamp" data-t="05:47:04">[05:47:04]</a>.
+*   **Housing:** The majority do not own their homes, instead having a mortgage or paying monthly rent <a class="yt-timestamp" data-t="05:53:02">[05:53:02]</a>.
+*   **Entertainment:** Movies are accessed via monthly fees to services like Netflix, rather than being purchased individually <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>.
+
+This trend is even extending to features within owned products. For example, BMW has begun offering features like heated seats for a monthly fee of $15, artificial sports sounds for $99 a month, and adaptive headlights for $10 a month <a class="yt-timestamp" data-t="06:11:00">[06:11:00]</a>. Such initiatives, if widely adopted and encouraged by political and economic powers, could become a new standard, forcing consumers to spend more <a class="yt-timestamp" data-t="06:31:00">[06:31:00]</a>. Historically, coordinated actions like these by an industry might be deemed monopolistic, but they align with the objectives of the 2030 Agenda <a class="yt-timestamp" data-t="06:47:00">[06:47:00]</a>.
+
+## Corporations Benefiting from the New Model
+
+Several major corporations are seeing tremendous profitability from this shift in economic models:
+
+### Microsoft (MSFT)
+Microsoft, founded by Bill Gates, saw a dramatic shift in its stock price from 2013 onwards, multiplying by over ten times <a class="yt-timestamp" data-t="07:34:04">[07:34:04]</a>. This was due to its vision in transitioning from selling perpetual software licenses to charging a monthly rental fee for its products like Microsoft Office <a class="yt-timestamp" data-t="07:53:04">[07:53:04]</a>. Previously, a license for Word, Excel, and PowerPoint cost around $300 with updates included <a class="yt-timestamp" data-t="08:12:00">[08:12:00]</a>. Now, users pay an annual fee of $100, which, while initially seeming cheaper, results in significantly more revenue for the company over a client's lifetime (e.g., $3,000 to $7,000 compared to $300) <a class="yt-timestamp" data-t="08:20:00">[08:20:00]</a>. This provides exponential long-term benefits and a constant cash flow <a class="yt-timestamp" data-t="08:36:00">[08:36:00]</a>. Paradoxically, while Microsoft was fined for monopolistic practices 20 years ago, such behavior is now approved and encouraged as it aligns with the 2030 Agenda <a class="yt-timestamp" data-t="08:55:00">[08:55:00]</a>.
+
+### Adobe (ADBE)
+Adobe, listed under ticker ADBE at $400 per share, is another prime example <a class="yt-timestamp" data-t="12:28:00">[12:28:00]</a>. Since changing its economic model in 2012, its stock has multiplied by over 12 times <a class="yt-timestamp" data-t="12:36:00">[12:36:00]</a>. Adobe offers indispensable products like Adobe PDF, Photoshop, and Premiere <a class="yt-timestamp" data-t="12:46:00">[12:46:00]</a>. Previously, a license might cost around $1,000 with updates <a class="yt-timestamp" data-t="12:53:00">[12:53:00]</a>. Now, a small monthly license fee of $50 makes it much more lucrative for the company over two years, ensuring consistent cash flow for decades <a class="yt-timestamp" data-t="12:58:00">[12:58:00]</a>. This model has significantly boosted Adobe's earnings per share from $1 to $13 <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>. Its current valuation is 26 times earnings, below its historical average of 36 times <a class="yt-timestamp" data-t="13:24:00">[13:24:00]</a>.
+
+### Other Sectors
+The financial divisions of automotive companies like Volkswagen and Renault are often more profitable than their car manufacturing businesses <a class="yt-timestamp" data-t="13:35:00">[13:35:00]</a>. However, the technology sector leads in companies benefiting from the "owning nothing, renting everything" mentality, especially those with near-monopolistic positions <a class="yt-timestamp" data-t="13:50:00">[13:50:00]</a>. These companies are not being investigated for consumer abuse because their practices align with the political powers <a class="yt-timestamp" data-t="14:06:00">[14:06:00]</a>. Many of these companies have also seen their valuations drop drastically in early 2022 due to market fears, potentially offering [[Investment Strategies for a Changing Economic Environment|investment opportunities]] <a class="yt-timestamp" data-t="14:21:00">[14:21:00]</a>.
+
+## Related Economic Predictions and Impacts
+
+Predictions number 5 and 6 of the World Economic Forum's agenda are particularly concerning as they could be a cause of the current inflation crisis <a class="yt-timestamp" data-t="09:39:00">[09:39:00]</a>.
+These predictions focus on environmental protection, proposing the elimination of fossil fuels without a clear, strategic energy transition <a class="yt-timestamp" data-t="09:48:00">[09:48:00]</a>. Measures as radical as establishing price limits on gas or oil are suggested <a class="yt-timestamp" data-t="10:02:00">[10:02:00]</a>. The current inflation crisis is largely attributed to high prices of fossil fuels like oil and gas <a class="yt-timestamp" data-t="10:08:00">[10:08:00]</a>. This high and rising inflation disproportionately affects the average class and has historically led to increased poverty and social inequality <a class="yt-timestamp" data-t="10:17:00">[10:17:00]</a>. This directly impacts [[Effects of energy prices on consumer spending]].
+
+Since the 2030 Agenda's implementation, there has been a battle against fossil fuels, with an unplanned energy transition leading to high energy prices due to a lack of investment in the sector <a class="yt-timestamp" data-t="10:26:00">[10:26:00]</a>. Investment in oil exploitation and production has fallen by 60%, from $600 billion annually to less than $200 billion <a class="yt-timestamp" data-t="10:42:00">[10:42:00]</a>. Consequently, oil and gas companies have been star investments in 2022, benefiting from high price levels while much of the market collapsed <a class="yt-timestamp" data-t="10:56:00">[10:56:00]</a>. This highlights [[Stock market behavior in response to economic changes]].
+
+Warren Buffett, known for his [[Investment Strategies for a Changing Economic Environment]], began investing in this sector months before oil prices soared <a class="yt-timestamp" data-t="11:15:00">[11:15:00]</a>. He has aggressively invested over $10 billion in Occidental Oil (NYSE: X), a leading company in oil extraction and processing in lucrative areas like the Permian Basin, Gulf of Mexico, and Oman <a class="yt-timestamp" data-t="11:24:00">[11:24:00]</a>. Occidental Oil trades at six times earnings, below its historical average of ten times, and offers significant profit returns to shareholders through dividends or share buybacks <a class="yt-timestamp" data-t="11:54:00">[11:54:00]</a>.

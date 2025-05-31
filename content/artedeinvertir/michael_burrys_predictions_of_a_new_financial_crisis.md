@@ -1,0 +1,22 @@
+---
+title: Michael Burrys predictions of a new financial crisis
+videoId: tR-Ec99tEhk
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Dr. Michael Burry, an investor renowned for being among the first to predict the 2008 financial crisis, has recently issued a warning about a potential new crisis <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. His fame grew significantly after being depicted in the film "The Big Short," which highlighted his accurate [[Michael Burrys prediction of a stock market crisis | prediction of the 2008 crisis]] <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. After several years out of the public eye, Burry conveyed this warning in an interview with the *O Barnes* newspaper <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>.
+
+## Investment Approach in Light of Predictions
+In response to his outlook, Burry has concentrated his portfolio into just six stocks, representing a net worth of approximately $60 million <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>, <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. This approach aligns with his investment philosophy, which involves buying shares in "ignored companies when it seems that they are going to go bankrupt" and selling them once they show slight improvement <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>. His current portfolio strongly favors the retail and energy sectors, which are currently out of fashion <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>.
+
+### Portfolio Holdings
+As of his recent positioning, [[Michael Burrys recent stock sale and market outlook | Michael Burry's]] six-stock portfolio includes:
+*   **GameStop** (28% weighting): A leader in video game and entertainment product sales in the U.S. <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Its shares have seen a significant decline, but Burry is actively proposing management changes to benefit shareholders <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>. This is considered a high-risk, daring investment <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
+*   **Tailored Brands** (22% weighting): A men's fashion and accessories seller that has stagnated after strong growth in the 2000s <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a>, <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. Burry is betting on this retail sector company at historical lows <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
+*   **Google (Alphabet)** (16% weighting): Included as a high-quality company available at a reasonable price, fitting Burry's preference for mixing contrarian stocks with solid, stable investments <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>, <a class="yt-timestamp" data-t="00:05:32">[00:05:32]</a>.
+*   **Portman Warehouse** (14% weighting): Another retail company focused on outdoor sports items <a class="yt-timestamp" data-t="00:06:08">[00:06:08]</a>. Burry invested around $4 per share, and it now trades at $8, remaining in his portfolio due to its attractive valuation <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
+*   **Bed Bath & Beyond** (13% weighting): A retail company selling household items <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>. This is another example of a beaten-down retail stock, facing pressure from online sales, particularly Amazon <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
+*   **Canadian Natural Resources** (8% weighting): The largest oil producer in Canada <a class="yt-timestamp" data-t="00:07:28">[00:07:28]</a>. This company is a pioneer in oil sands technology, offering a strong dividend yield and trading at an attractive valuation due to negativity around the energy sector <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>, <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>.
+
+This strong preference for the retail and energy sectors, which are currently "not in fashion," and where "cheap companies abound," indicates his positioning for potential market changes, aligning with his contrarian approach in anticipation of (or during) difficult economic periods <a class="yt-timestamp" data-t="00:10:02">[00:10:02]</a>.

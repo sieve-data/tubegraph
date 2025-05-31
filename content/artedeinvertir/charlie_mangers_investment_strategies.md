@@ -1,0 +1,74 @@
+---
+title: Charlie Mangers investment strategies
+videoId: r6M_w0tDrhg
+---
+
+From: [[artedeinvertir]] <br/> 
+
+On the news of his passing, a live stream titled "The Art of Investing" paid tribute to [[charlie_mangers_life_story_and_investment_philosophy | Charlie Munger]], [[warren_buffetts_investment_strategies | Warren Buffett]]'s longtime partner and a profound influence on thousands of investors worldwide [00:00:06]. This article compiles some of the techniques and wisdom that contributed to his success as an investor.
+
+## From Adversity to Wealth
+
+[[charlie_mangers_life_story_and_investment_philosophy | Charlie Munger]]'s early life was marked by significant hardship. At 29, a divorce left him in poverty and without a home, caring for his children [00:01:32]. By 31, his only son passed away from leukemia, a terrible disease at the time with a very low success rate for treatment [00:01:45]. A partner from Berkshire Hathaway recounted how [[charlie_mangers_life_story_and_investment_philosophy | Munger]] would leave the hospital crying due to his inability to pay for his son's treatment [00:02:00]. Shortly after, he suffered a serious illness himself, enduring terrible pain and losing sight in one eye [00:02:25]. Despite these immense economic and emotional challenges, [[charlie_mangers_life_story_and_investment_philosophy | Munger]] persevered [00:02:32].
+
+He initially studied law but found it unfulfilling [00:02:46]. He decided to change professions, eventually dedicating himself to real estate and, more significantly, stock market investments [00:03:03]. He founded partnerships, which functioned like investment funds of the era [00:03:11]. During a 13-year period, he achieved an impressive 19% annualized return, significantly outperforming the Dow Jones's 5% annualized return at the time [00:05:03]. The market crisis of 1974-75 caused substantial losses, leading him to close his fund and decide to only invest his own money from that point forward [00:03:24]. By 69, after overcoming his early struggles, [[charlie_mangers_life_story_and_investment_philosophy | Munger]] became one of the 400 richest people globally [00:04:10]. He served as Vice Chairman of Berkshire Hathaway and was the partner and best friend of [[Warren Buffetts investment strategies | Warren Buffett]] [00:04:32].
+
+## Core Principles of [[charlie_mangers_investment_strategies | Munger's Investment Philosophy]]
+
+### Don't Postpone Your Dreams
+[[charlie_mangers_life_story_and_investment_philosophy | Munger]]'s advice was to "don't postpone your dreams" [00:05:23]. He emphasized that there is "never an ideal moment" to pursue aspirations, especially when one is young, healthy, and energetic [00:05:54]. He used the metaphor of wanting to catch a 100 kg tuna, an activity requiring physical strength he no longer possessed at 95, to illustrate that some things cannot be put off [00:06:16]. Applied to [[investment_advice_and_strategies from top investors | investing]], this means avoiding "paralysis by analysis" [00:06:40]. Instead of constantly waiting for perfect market conditions (e.g., no inflation, no recession), one should simply "go out there and start doing things" [00:06:35]. As [[warren_buffetts_investment_strategy | Warren Buffett]] also noted, even in 1957, considered a historic time to invest, many, including his father and mentor, advised against launching a fund due to perceived poor economic conditions [00:07:02].
+
+### Have Low Expectations
+[[charlie_mangers_life_story_and_investment_philosophy | Munger]], despite his immense success, advised having "low expectations in life" [00:20:34]. He noted that when he and [[warren_buffetts_investment_strategies | Warren Buffett]] started, they never imagined having $100 million, let alone becoming billionaires [00:08:09]. Generating excessively high expectations can lead to frustration and negative feelings [00:22:00]. Instead, it's better to approach [[investment_advice_and_strategies from top investors | investing]] and life with enthusiasm and gratitude for what one has, allowing for pleasant surprises [00:22:20]. Expecting to win every year in the stock market is unrealistic and can lead to stress, fear, and frustration when inevitable downturns occur [00:23:25].
+
+### Accept Volatility
+A crucial piece of advice from [[charlie_mangers_life_story_and_investment_philosophy | Munger]] was to "accept volatility," especially in the short term [00:24:48]. He famously stated that if one cannot react calmly to a 50% drop in their portfolio two or three times throughout their life, they "deserve to have mediocre results" and should not be a stock investor [00:24:51]. This highlights that the stock market does not move linearly [00:25:11]. Many of today's best investments, like Amazon, experienced drops of 98% before becoming exceptional [00:25:18]. Tesla also had multiple 50-70% drops before extraordinary revaluations [00:25:28]. Wanting to constantly minimize losses or avoid volatility leads to mediocre outcomes [00:25:48]. When a good investment experiences a downturn due to market sentiment rather than a fundamental change in the company, it should be seen as a buying opportunity [00:26:03]. Historically, market falls of 10-20% have been followed by significant returns in the subsequent five years [00:26:27].
+
+### No Shortcuts; Read and Learn
+[[charlie_mangers_life_story_and_investment_philosophy | Munger]] believed that [[investment_advice_and_strategies from top investors | investing]] "is not supposed to be easy," and those who view it as such are mistaken [00:30:12]. He observed that "all successful people I've met have in common that they read a lot and have a lot of knowledge" [00:30:27]. There are no shortcuts in the stock market; a simplistic approach will lead to losing money or below-average returns [00:30:38]. Investors must be curious, eager to understand how companies work, why some prosper, and others fail [00:30:57]. This love for the process led [[charlie_mangers_life_story_and_investment_philosophy | Munger]] to leave law for [[investment_advice_and_strategies from top investors | investments]] [00:31:11]. He also believed that the greatest gift one can give another human being is knowledge, fostering self-realization rather than dependence [00:31:32].
+
+### Control Envy
+[[charlie_mangers_life_story_and_investment_philosophy | Munger]] stated that the world is not driven by greed but by envy [00:33:14]. He emphasized the importance of intensely controlling feelings of envy, as they can lead to unpleasant outcomes and poor decisions [00:33:21]. Envy is a key driver of market bubbles, as people see others making quick money in fashionable stocks and abandon their sound, long-term investments to chase the trend [00:34:24]. This explains why the average holding period for a stock has decreased dramatically from years to just four months [00:34:49]. Decisions made out of envy are destined to fail and do not lead to happiness [00:35:20].
+
+## Key Investment Strategies and Characteristics
+
+[[charlie_mangers_life_story_and_investment_philosophy | Munger]]'s approach emphasizes **patience and concentration**, focusing on identifying truly great opportunities and allocating a significant portion of the portfolio to them [00:10:11]. As he put it, "the money is not in the buying or selling, it is in the waiting" [00:13:06]. This patience allows the "wonder of compound interest" to work [00:13:14].
+
+His strategy revolves around identifying "compounder" stocks, characterized by:
+*   **High Growth Potential**: Companies that can grow earnings at 20-25% annually for many years [00:13:17].
+*   **Small Starting Point**: Often starting as small or medium-sized companies [00:14:51]. This is crucial because a company with a capitalization of $100-200 billion finds it very difficult to multiply its value by 50-100 times in the future [00:16:31].
+*   **Large Potential Market**: Operating in an industry with significant room for expansion, either because the company has a small market share or the overall market is growing rapidly [00:15:21].
+*   **Sustainable Competitive Advantage (Moat)**: A key factor (also championed by [[warren_buffetts_investment_strategy | Warren Buffett]]) that allows the company to sustain high growth levels for many years [00:15:35]. This can stem from unique products, economies of scale, switching costs, or network effects [00:15:47].
+*   **Aligned Management**: A board of directors whose interests are aligned with shareholders, ensuring profits are wisely reinvested or returned [00:16:12].
+
+[[charlie_mangers_life_story_and_investment_philosophy | Munger]] famously stated that 95% of his and [[warren_buffetts_investment_strategies | Warren Buffett]]'s wealth came from just 20 good investments [00:14:35]. This illustrates the power of concentrated, long-term investment in exceptional businesses. He also practiced **contrarianism**, often investing in sectors that were out of favor but fundamentally strong [01:00:59].
+
+## Key Investments and Recommendations
+
+[[charlie_mangers_life_story_and_investment_philosophy | Munger]]'s portfolio, particularly through Daily Journal Corp., showed extreme concentration. His main holdings included:
+
+*   **Daily Journal Corporation (DJCO)**: Originally a newspaper company, [[charlie_mangers_life_story_and_investment_philosophy | Munger]] wisely reinvested its cash flow into publicly traded stocks, making it effectively his personal holding company [00:57:36]. His portfolio was ultra-concentrated, typically holding only a few stocks like Wells Fargo, Bank of America, and for a time, Alibaba (which he later admitted was a mistake) [00:57:52].
+*   **Costco (COST)**: [[charlie_mangers_life_story_and_investment_philosophy | Munger]] invested in Costco for over 25 years, buying around the late 1990s when it was $10, and it has since grown to over $600 [01:13:43]. He recommended Costco for long-term investors seeking above-average returns due to its predictability, although not expecting it to multiply by 20 times due to its large size [01:04:25].
+*   **Coca-Cola (KO)**: Often described by [[charlie_mangers_life_story_and_investment_philosophy | Munger]] and [[warren_buffetts_investment_strategies | Warren Buffett]] as the "perfect business" [00:49:32].
+    *   **Low Reinvestment Needs**: The business requires minimal capital reinvestment, allowing for high-profit margins and free cash flow [00:50:03].
+    *   **Stable Product**: The core product has remained essentially the same for over 100 years, requiring very little research and development [00:50:23]. This contrasts sharply with industries like automotive, which demand constant product renewal and massive R&D spending [00:50:52].
+    *   **Brand Power**: Coca-Cola's brand is almost impossible to compete against [00:48:48].
+    *   **Diversification**: The company intelligently diversified into other beverage categories like light/zero sugar options, energy drinks (Monster Energy association), and coffee (Costa Coffee acquisition) to maintain growth [00:48:55].
+    *   **Inflation Hedge**: Coca-Cola can raise prices during inflation and maintain demand, offering protection against rising costs [00:48:46]. Its consistent dividend payout has grown significantly over decades [00:56:13].
+
+*   **Floor & Decor (FLR)**: [[charlie_mangers_life_story_and_investment_philosophy | Munger]] identified Floor & Decor as a "new Costco" due to its similar business model but at an earlier stage [01:06:06].
+    *   **Smaller Scale**: With a capitalization of $10 billion, it's significantly smaller than Costco, offering more room for growth [01:10:10].
+    *   **"Everyday Low Prices" Philosophy**: Similar to Costco, it focuses on offering consistently low prices rather than temporary discounts [01:06:40].
+    *   **Integrated Supply Chain**: Floor & Decor streamlined the traditional flooring supply chain by dealing directly with manufacturers, bypassing agents, importers, and secondary distributors [01:07:10].
+    *   **Efficient Store Model**: Its massive 8,000 m² warehouse-style stores allow for economies of scale and an immersive customer experience for flooring and home improvement materials [01:07:44].
+    *   **Rapid Expansion**: The company has aggressively opened new stores at an 18% annual growth rate, with a quick payback period of 2.5-3.5 years per store [01:10:27]. It has significant potential for more stores in the U.S. and a relatively small market share in a large renovation market [01:12:02]. Its profits have grown at a "beastly" 37% annually [01:10:50].
+
+Other types of companies and sectors he or the speaker found interesting, illustrating [[charlie_mangers_investment_strategies | Munger]]'s principles:
+*   **Simple, Everyday Businesses**: Dorman Products (car spare parts), Chemed Corporation (plumbing services), The Toro Company (lawnmowers) – businesses that are easy to understand and analyze, proving that extraordinary returns don't always come from complex or "exciting" industries [01:17:45].
+*   **Companies with Competitive Moats**: Texas Roadhouse (restaurants), Casey's General Stores (gas stations), CF Industries (trailer manufacturing), Caz International (subcontractor to American army) [01:27:59]. These companies benefit from strong market positions or essential services.
+*   **Resilient Sectors**: Service Corp (funeral company) provides a predictable, secure business [01:20:20].
+*   **Out-of-Favor Sectors**: Financial sector (like Wells Fargo, Bank of America) is often undervalued due to perceived "boring" nature compared to tech, despite solid fundamentals and high dividends (e.g., Canadian banks like TD) [01:00:35]. Investing in these unfashionable areas when valuations are low can yield significant returns [01:39:40].
+
+## Conclusion
+
+[[charlie_mangers_life_story_and_investment_philosophy | Charlie Munger]]'s life story is a testament to resilience and the power of a disciplined [[investment_advice_and_strategies from top investors | investment philosophy]]. His advice to "don't postpone your dreams" and start taking action today, combined with his emphasis on low expectations, accepting volatility, continuous learning, and controlling envy, offers a profound guide not just for [[investment_advice_and_strategies from top investors | investing]] but for life itself [00:05:23], [00:20:34], [00:24:48], [00:30:12], [00:33:14]. For most people, achieving financial success through [[investment_advice_and_strategies from top investors | investments]] involves long-term discipline, consistent saving, reinvestment, and concentrated holdings in a few high-quality, growing businesses [00:36:43]. He demonstrated that success comes from consistently doing something slightly smarter for a longer period, rather than being a genius [00:08:55].

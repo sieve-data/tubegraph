@@ -1,0 +1,60 @@
+---
+title: Key investments and strategies by top investors like Warren Buffett and Bill Ackman
+videoId: ga9Jku6Aftc
+---
+
+From: [[artedeinvertir]] <br/> 
+
+This article explores the recent investment moves and philosophies of prominent investors, including [[Warren Buffetts investment strategies | Warren Buffett]], [[Bill Ackmans investment strategies and portfolio | Bill Ackman]], Ray Dalio, Michael Burry, Li Lu, Andrew Brenton, and Robert Vinall.
+
+## Michael Burry's Market Outlook and Divestment
+
+Just days ago, Michael Burry, known for "The Big Short," sold off nearly all of his shares, reducing his portfolio from $160 million to approximately $3 million. <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a> His sole remaining position is a testimonial stake in GEO Group, a REIT owning private prisons in the U.S. <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>
+
+Burry explained his drastic movements by stating that the market rally observed since June 1st was not due to quantitative tightening, as many believed. Instead, he argued that the Federal Reserve had been buying more mortgage debt, effectively injecting money into the system. <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a> He anticipates that the "famous QT" (withdrawal of $95 billion in stimuli per month) and potential additional interest rate hikes will truly begin in September, which will be "really complicated." <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>
+
+He cautions against confidence in the current market rebound, comparing it to bear markets in 2000-2001 where significant rallies occurred within larger 40-50% drops. <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a> Historically, asset bubbles do not end with a mere six-month bear market; they typically last years to "clean up the entire system." <a class="yt-timestamp" data-t="00:04:56">[00:04:56]</a> Burry also suggests that recent market increases are linked to short covering by panicked investors betting against the market. <a class="yt-timestamp" data-t="00:06:02">[00:06:02]</a>
+
+## Ray Dalio's Portfolio Shifts
+
+Ray Dalio has completely divested from Chinese stocks, selling all his holdings including Alibaba, AMD (Advanced Micro Devices), and JD.com. <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a> <a class="yt-timestamp" data-t="00:07:00">[00:07:00]</a> This move reflects his increasing negativity towards the macro situation and government control in China, especially in light of the worsening real estate bubble. <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>
+
+Interestingly, Dalio seems to be more positive on Europe, as he has closed a $10 trillion short bet against European stocks, although he retains short positions in Banco Santander. <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a> His top purchases for the quarter include high-quality companies such as CVS, Mastercard, and Google. <a class="yt-timestamp" data-t="00:08:13">[00:08:13]</a> <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a> These purchases align with a strategy of rotating into safer, more stable assets during potentially difficult macroeconomic environments, exemplified by CVS, a healthcare company with stable sales growth, low debt, and a low valuation of around 12 times earnings. <a class="yt-timestamp" data-t="00:10:06">[00:10:06]</a> <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>
+
+## [[Warren Buffetts investment strategy | Warren Buffett]]'s Recent Moves
+
+Berkshire Hathaway, led by [[Warren Buffetts investment strategy | Warren Buffett]], significantly added to its position in Ally Financial, an automobile financing company that has expanded into other sectors. <a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a> <a class="yt-timestamp" data-t="00:12:56">[00:12:56]</a> Ally Financial trades at a low multiple of 6-7 times earnings. <a class="yt-timestamp" data-t="00:13:05">[00:13:05]</a> Buffett often buys companies that may not be rapidly growing but are trading at exceptionally low multiples, especially if they are returning money to shareholders in an inflationary environment. <a class="yt-timestamp" data-t="00:13:07">[00:13:07]</a>
+
+Other notable additions include Occidental Petroleum (continued accumulation), Markel (a "mini-Berkshire Hathaway"), and Activision Blizzard. <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a> <a class="yt-timestamp" data-t="00:13:56">[00:13:56]</a> The investment in Activision Blizzard is considered a "special situation" due to its pending sale to Microsoft, which is expected to be approved by Q4 2022. This offers an upside of 15-20% irrespective of broader market movements. <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a> <a class="yt-timestamp" data-t="00:14:37">[00:14:37]</a>
+
+Buffett also invested in Celanese, a specialty chemical company that has historically performed well due to increasing demand and restricted new permits for chemical plants. <a class="yt-timestamp" data-t="00:18:17">[00:18:17]</a> <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a> Celanese is attractive for its shareholder-friendly approach, consistently buying back shares and increasing earnings per share, and trades at a low 6-7 times forward earnings. <a class="yt-timestamp" data-t="00:16:17">[00:16:17]</a> <a class="yt-timestamp" data-t="00:19:46">[00:19:46]</a> He also reduced holdings in Verizon and General Motors. <a class="yt-timestamp" data-t="00:15:20">[00:15:20]</a> <a class="yt-timestamp" data-t="00:15:36">[00:15:36]</a>
+
+## [[Bill Ackmans investment strategies and portfolio | Bill Ackman]]'s Portfolio and Pershing Square Holdings
+
+[[Bill Ackmans investment strategies and portfolio | Bill Ackman]]'s portfolio remains highly concentrated. His most public move was selling all of Netflix. <a class="yt-timestamp" data-t="00:40:48">[00:40:48]</a> His top holdings include Chipotle, Hilton Worldwide (through Howard Hughes, a real estate development company), and Domino's Pizza. <a class="yt-timestamp" data-t="00:41:01">[00:41:01]</a> Domino's Pizza, trading at 20 times earnings after a recent dip, is considered the best company in the pizza sector due to its management, growth, and technology. <a class="yt-timestamp" data-t="00:41:31">[00:41:31]</a>
+
+For smaller investors, Pershing Square Holdings (PSH) offers a unique way to invest with [[Bill Ackmans investment strategies and portfolio | Bill Ackman]]. Listed on the Amsterdam Stock Exchange, PSH reflects the performance of his hedge fund portfolio. <a class="yt-timestamp" data-t="00:42:03">[00:42:03]</a> Over the past five years, PSH has delivered an annualized return of 23%, significantly outperforming the S&P 500. <a class="yt-timestamp" data-t="00:42:36">[00:42:36]</a> PSH often trades at a discount to its net asset value (NAV), allowing investors to buy into the fund at a lower price than its underlying holdings. <a class="yt-timestamp" data-t="00:43:35">[00:43:35]</a> Ackman intelligently utilizes share buybacks to increase the NAV per share, generating value for shareholders. <a class="yt-timestamp" data-t="00:44:01">[00:44:01]</a> The discount reached 50% recently, trading at 25 when the NAV was 50, highlighting potential opportunities. <a class="yt-timestamp" data-t="00:45:31">[00:45:31]</a>
+
+## Other Notable Investors and Their Strategies
+
+### Li Lu (Warren Buffett's Successor)
+Li Lu, often referred to as [[Warren Buffetts Investment Strategies | Warren Buffett]]'s successor and a close associate of Charlie Munger, has significantly increased his stake in Alphabet (Google), making it 25% of his portfolio. <a class="yt-timestamp" data-t="00:47:14">[00:47:14]</a> He maintains positions in Apple and Bank of America. <a class="yt-timestamp" data-t="00:47:48">[00:47:48]</a>
+
+### Andrew Brenton (Turtle Creek Asset Management)
+Andrew Brenton, founder of Turtle Creek Asset Management, has achieved an impressive 22% annual net return for shareholders over 24 years, surpassing even [[Bill Ackmans investment strategies and portfolio | Bill Ackman]] and [[Warren Buffetts recent investment strategies and tips | Warren Buffett]] in recent periods. <a class="yt-timestamp" data-t="00:23:52">[00:23:52]</a> His [[investment_strategies_of_professional_investors_like_david_tepper_and_bill_ackman | investment strategy]] is highly replicable for small investors, focusing on a small number of well-controlled, quality stocks with good track records. <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>
+
+Recent purchases include Brunswick Corporation (recreational boats, trading at 6-7 times earnings) <a class="yt-timestamp" data-t="00:25:27">[00:25:27]</a> and TFI International (road transport, which has multiplied by 50 times on the stock market in two decades). <a class="yt-timestamp" data-t="00:28:04">[00:28:04]</a> TFI International's success is attributed to its efficient management, low debt, and a business model that generates more cash flow during crises by optimizing working capital. <a class="yt-timestamp" data-t="00:29:44">[00:29:44]</a> They also grow through acquiring poorly managed companies and integrating them into their efficient system. <a class="yt-timestamp" data-t="00:32:11">[00:32:11]</a>
+
+Brenton has reduced cyclical holdings like PRA Group (loan recovery) and Service Corporation International (funeral services). <a class="yt-timestamp" data-t="00:26:57">[00:26:57]</a>
+
+### Robert Vinall
+Robert Vinall, another favored investor, also maintains a highly concentrated portfolio of quality businesses with predictable growth. <a class="yt-timestamp" data-t="00:52:10">[00:52:10]</a> His portfolio includes Credit Acceptance (sub-prime car loans), which has multiplied by over 50 times and is counter-cyclical, increasing profits during crises. <a class="yt-timestamp" data-t="00:53:16">[00:53:16]</a> He also holds Facebook (Meta Platforms), although his fund has faced losses due to holdings in unprofitable, high-multiple technology companies like Wix, Carvana, and True Bread. <a class="yt-timestamp" data-t="00:53:40">[00:53:40]</a>
+
+## Key Takeaways from Top Investors' Strategies
+
+*   **Rotation to Stability:** Many top investors are shifting towards more stable, high-quality companies with robust business models, low debt, and reasonable valuations, especially those in defensive sectors like healthcare. <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a> <a class="yt-timestamp" data-t="00:10:47">[00:10:47]</a>
+*   **Shareholder Returns:** Companies that consistently return money to shareholders through buybacks and dividends are favored, as this can significantly boost earnings per share even with moderate revenue growth. <a class="yt-timestamp" data-t="00:16:36">[00:16:36]</a>
+*   **Special Situations:** Opportunities like mergers and acquisitions (e.g., Activision Blizzard) that offer uncorrelated returns are actively pursued. <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>
+*   **Caution on Cyclical/Speculative Assets:** There is a general trend of reducing exposure to highly cyclical businesses or speculative companies with no profits and high valuations, especially those that soared during the pandemic. <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a> <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>
+*   **Market Inefficiencies:** Experienced investors look for instances where the market misprices assets, such as funds trading at a discount to their net asset value (Pershing Square Holdings) or quality companies grouped unfairly with poor performers in a sector. <a class="yt-timestamp" data-t="00:39:50">[00:39:50]</a>
+*   **Long-Term Vision:** Despite short-term volatility or market corrections, these investors emphasize holding onto quality businesses and even adding to positions when prices are attractive. <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a> This reflects a core principle of [[investment_advice_and_strategies_from_top_investors | value investing]].

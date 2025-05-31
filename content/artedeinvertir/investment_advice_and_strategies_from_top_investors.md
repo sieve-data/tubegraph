@@ -1,0 +1,90 @@
+---
+title: Investment advice and strategies from top investors
+videoId: HDkRlORxA6I
+---
+
+From: [[artedeinvertir]] <br/> 
+
+The current crisis has intensified, leading many investors to question whether a new crisis could emerge in 2021 after a challenging 2020 <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. Notable investors like [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Warren Buffett]], [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Stanley Druckenmiller]], and [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Michael Burry]] have issued messages of [[cautious_investment_advice_from_experts | caution]] <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This article explores new risks affecting the economy and [[stock_market_investments_and_strategies | stock market]], protection strategies, and [[investment_opportunities_and_strategies | investment opportunities]] in high-growth stocks <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+
+## Warnings from Top Investors
+
+### Current Crisis and Economic Stimulus
+Recent news indicates the current problem has mutated, potentially transmitting faster, causing panic among investors about a new crisis in 2021 <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. This has led to immediate reactions like flight cancellations, border closures, and new containment measures <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. Stocks most affected are those related to the crisis, such as airlines, hotels, and catering companies <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. It is crucial to monitor the situation's evolution as the effectiveness of current remedies against the new variant is unknown, creating significant uncertainty, which is generally unfavorable for the economy and [[stock_market_investments_and_strategies | stock market]] <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+
+Further complicating the situation, new economic stimulus measures approved in the US were significantly lower than expected, at around $900 billion, while the market anticipated double that amount <a class="yt-timestamp" data-t="00:01:37">[00:01:37]</a>. The Federal Reserve and these stimulus measures were key to the 2020 recovery <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>.
+
+### Warren Buffett's Call for Action
+[[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Warren Buffett]], known for his moderate message, recently urged the American government to increase stimulus measures to avoid economic disaster <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+
+> <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a> "Congress is in the process of ruining the dreams of thousands of people. Congress needs to act now. We need another injection of money to complete the job. Congress is currently debating and I hope they extend the PP program on a large scale to allow people to see the light at the end of the tunnel."
+
+Buffett recognizes the immense importance of providing liquidity to both families and corporations during stressful times <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+
+### Stanley Druckenmiller's Concern
+[[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Stanley Druckenmiller]], highly admired for his [[investment_strategies_and_portfolio_management | investment track record]], has expressed concern about current market conditions <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>.
+
+> <a class="yt-timestamp" data-t="00:03:08">[00:03:08]</a> "Right now we are facing absolute euphoria. Everyone likes a party but after the party comes the hangover. I have no idea what the stock market is going to do in the short term, I don't know if it will go up 10% or down 10% but I would say that the next 3 or 5 years are going to be very very complicated."
+
+Druckenmiller notes that bull markets often conclude with euphoria, and current market indications suggest this phase may be approaching <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>. One significant sign of current euphoria is that the traded volume of options has surpassed that of shares <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. Options are leveraged [[stock_investment_advice | investment instruments]] that involve debt, amplifying gains during market rises but leading to much larger losses, potentially losing all value during market falls <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. In times of high greed or euphoria, they become the preferred instrument for speculators <a class="yt-timestamp" data-t="00:04:19">[00:04:19]</a>. Goldman Sachs data shows option trading volume reaching record levels, up to $400 billion, in the past two years <a class="yt-timestamp" data-t="00:04:27">[00:04:27]</a>.
+
+### Joel Greenblatt's Observation
+[[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Joel Greenblatt]], a Wall Street legend who has generated over 30% annual returns for more than 30 years and navigated various financial crises, also warns of significant market euphoria <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>. He manages over $2 billion in various [[investment_strategies_and_portfolio_management | investment funds]] and authored "The Little Book That Beats the Market" <a class="yt-timestamp" data-t="00:05:09">[00:05:09]</a>.
+
+Greenblatt highlighted a striking fact:
+> <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a> "If in 2020 you had bought every company that lost money in 2019 and that has a stock market capitalization greater than a billion dollars, you would be earning an impressive 65%."
+
+All listed companies must eventually produce profits to justify their valuation <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. However, during euphoria, basic [[investment_education_and_strategies | investment principles]] are forgotten, leading to the anomaly where companies that lost more money performed better in 2020 <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>. Historically, investing consistently in loss-making companies yields negative or below-market returns <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>, as seen when comparing such investments to the S&P 500 average <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>. While some loss-making companies like Amazon or Netflix eventually became highly profitable, careful analysis is crucial <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>.
+
+## Analyzing High-Growth Stocks with Losses
+
+This section analyzes high-growth stocks that performed exceptionally in 2020 despite currently incurring losses, and how to value them.
+
+### Three-Step Method for Valuing High-Growth Stocks with Losses
+This method applies to high-growth actions that are currently losing money <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>:
+
+1.  **Estimate Future Sales**: Project sales for three to five years, assuming a growth rate lower than current levels, as growth tends to slow with scale <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. For example, a company growing at 40% might be projected to grow at 30% <a class="yt-timestamp" data-t="00:07:52">[00:07:52]</a>.
+2.  **Determine Future Profit Margins**: Assess potential profit margins once the company reaches maturity <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>. Look at mature companies in the same sector (e.g., Toyota/Volkswagen for automotive at 6-7% margins, Microsoft/Google for tech/software at 20-25% margins) <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>. This yields future profit and, when divided by shares outstanding, earnings per share <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>.
+3.  **Apply a Profit Multiplier**: Apply an appropriate P/E ratio based on the industry and future growth prospects <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. For a good industry with continued growth (e.g., tech), 30-40 times earnings might apply <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. For more cyclical industries like automotive, even with growth, a lower multiplier of 15-20 times profits might be used <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>.
+
+### Nio (NIV)
+Nio, the "Chinese Tesla," trades at $48 per share and has multiplied by over 12 times in 2020 <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. It falls into the category of companies that had losses but exceptional performance <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>.
+
+Applying the three-step method:
+1.  **Future Sales**: Market estimates project Nio's sales at $47 billion in the next two years <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>.
+2.  **Profit Margins**: Comparing with large automotive companies like Volkswagen or Toyota, Nio could achieve net profit margins of around 6% <a class="yt-timestamp" data-t="00:09:23">[00:09:23]</a>. This would result in a net profit of $3 billion on future sales <a class="yt-timestamp" data-t="00:09:36">[00:09:36]</a>, leading to approximately $2 per share in future earnings <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a>.
+3.  **Profit Multiplier**: The automotive sector typically trades at around 10 times profits, but with higher growth, 15-20 times profits could be justified <a class="yt-timestamp" data-t="00:09:59">[00:09:59]</a>. Multiplying $2 by 15 times yields an intrinsic valuation of around $30 per share <a class="yt-timestamp" data-t="00:10:11">[00:10:11]</a>.
+
+Conclusion: Nio is currently trading above its fair value based on this analysis <a class="yt-timestamp" data-t="00:10:21">[00:10:21]</a>. However, a strong conviction that Nio could reach $100 billion in sales could lead to $4 profit per share, potentially reaching $80 with a 15-20x multiple <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a>. This highlights the wider range of results for high-growth companies compared to mature ones <a class="yt-timestamp" data-t="00:10:56">[00:10:56]</a>.
+
+### Tesla (TSLA)
+Tesla, trading at $680 per share, has seen exceptional performance in 2020, multiplying by over seven times <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>. While it had losses in 2019, it began generating profits in 2020 <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>. Its inclusion in the S&P 500 index has propelled its shares to new highs <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>.
+
+[[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Michael Burry]] ("The Big Short") has invested against Tesla due to its high valuation <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. He criticized Tesla's market capitalization of over $600 billion, which is higher than all traditional automobile manufacturers combined, despite Tesla generating only 1% of the industry's total profit <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>. Bloomberg compared electric vehicle companies' value per vehicle produced versus traditional manufacturers, showing electric vehicle companies like Nio (over $1.6 million per vehicle) and Tesla (over $1 million per vehicle) at the top, while traditional manufacturers like Volkswagen ($10,000), Toyota ($25,000), and BMW ($26,000) are much lower <a class="yt-timestamp" data-t="00:12:47">[00:12:47]</a>.
+
+Investing against a stock like Tesla is dangerous and requires sufficient experience <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>. While Tesla currently generates low profits, it has the capacity to increase them drastically <a class="yt-timestamp" data-t="00:13:44">[00:13:44]</a>. Investors must conduct detailed studies of the company's evolution rather than investing solely due to short-term price increases <a class="yt-timestamp" data-t="00:13:50">[00:13:50]</a>.
+
+### Palantir Technologies (PLTR)
+Palantir, trading at $30 per share, has more than tripled since its listing at $10 three months prior <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>. It is a high-growth technology company with unique data analysis technology <a class="yt-timestamp" data-t="00:14:20">[00:14:20]</a>. Palantir is also currently producing losses <a class="yt-timestamp" data-t="00:14:32">[00:14:32]</a>.
+
+Applying the three-step method:
+1.  **Future Sales**: Palantir is expected to invoice around $1.4 billion in 2021 <a class="yt-timestamp" data-t="00:14:44">[00:14:44]</a>. Assuming a conservative annual growth of 40% (less than its current 50%), it could generate sales of around $7.5 billion in five years <a class="yt-timestamp" data-t="00:14:51">[00:14:51]</a>.
+2.  **Profit Margins**: Mature technology companies like Microsoft, Oracle, or Google generate profit margins of 20-25% <a class="yt-timestamp" data-t="00:15:05">[00:15:05]</a>. At 25%, Palantir could have potential profits of $1.8 billion annually <a class="yt-timestamp" data-t="00:15:22">[00:15:22]</a>. Dividing by 1.75 billion shares, this yields earnings per share of $1 <a class="yt-timestamp" data-t="00:15:29">[00:15:29]</a>.
+3.  **Profit Multiplier**: For the technology sector, which is less cyclical and higher quality, a multiplier of 30 times earnings (similar to Google, Microsoft, Oracle) could be applied <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>. This results in a fair value of around $30 per share for Palantir <a class="yt-timestamp" data-t="00:15:53">[00:15:53]</a>.
+
+Conclusion: The current stock price of Palantir largely incorporates expectations of future benefits <a class="yt-timestamp" data-t="00:15:58">[00:15:58]</a>. This is a simplified valuation method, and the range of possibilities is wide <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>. If an investor strongly believes Palantir will have very high growth for 10-15 years, the intrinsic value could be higher than its current price <a class="yt-timestamp" data-t="00:16:17">[00:16:17]</a>.
+
+### Alibaba (BABA)
+Alibaba, trading at $200 per share, has faced recent challenges, including a Chinese government investigation for alleged monopolistic practices <a class="yt-timestamp" data-t="00:16:35">[00:16:35]</a>. Some media suggest this is a message to founder Jack Ma for his criticism of the Communist Party <a class="yt-timestamp" data-t="00:16:53">[00:16:53]</a>. In jurisdictions with fewer investor rights, such government actions can lead to stock market losses <a class="yt-timestamp" data-t="00:17:03">[00:17:03]</a>.
+
+From a financial perspective, Alibaba's current valuation is attractive, trading at less than 17 times earnings, and its intrinsic value could be double the current price <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>. The company is also expected to have significant future growth <a class="yt-timestamp" data-t="00:17:27">[00:17:27]</a>. However, the financial factor is irrelevant in the short to medium term for Alibaba due to political risk <a class="yt-timestamp" data-t="00:17:36">[00:17:36]</a>. It is crucial to monitor how the situation evolves; if the company cooperates with government guidelines, tensions may ease <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>.
+
+## Protecting Investments in 2021
+
+In uncertain situations, it's vital to [[stock_market_trends_and_investment_strategies | invest with common sense]] <a class="yt-timestamp" data-t="00:18:11">[00:18:11]</a>. Investing against the market or waiting 100% for opportunities is not advisable, as [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Warren Buffett]] also warns that inflation would erode capital <a class="yt-timestamp" data-t="00:18:14">[00:18:14]</a>.
+
+Here are three pieces of advice for 2021:
+
+1.  **Maintain Liquidity**: Keep 10-30% liquidity in your portfolio <a class="yt-timestamp" data-t="00:18:25">[00:18:25]</a>. Statistically, the market corrects at least 10% every year, creating opportunities to leverage this liquidity <a class="yt-timestamp" data-t="00:18:30">[00:18:30]</a>.
+2.  **Invest with Conviction**: Only [[stock_investment_advice | invest in companies]] where you have strong conviction and have conducted an in-depth analysis, ensuring it is a good investment <a class="yt-timestamp" data-t="00:18:39">[00:18:39]</a>. Even in euphoric or expensive markets, good [[investment_opportunities and strategies | investment opportunities]] can be found <a class="yt-timestamp" data-t="00:18:47">[00:18:47]</a>.
+3.  **Monitor Major Investors**: Observe how major investors position their portfolios against new risks <a class="yt-timestamp" data-t="00:18:55">[00:18:55]</a>. For example, [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Stanley Druckenmiller]]'s main [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | investments]] include Alibaba, Amazon, and Microsoft, characterized by high growth and profit margins <a class="yt-timestamp" data-t="00:19:03">[00:19:03]</a>. [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Michael Burry]]'s main [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | investments]] are focused on Google, Pfizer, and a pharmaceutical company called CWET <a class="yt-timestamp" data-t="00:19:14">[00:19:14]</a>. Information on these investors' portfolios can be found online <a class="yt-timestamp" data-t="00:19:21">[00:19:21]</a>. A detailed analysis of [[key_investments_and_strategies_by_top_investors_like_warren_buffett_and_bill_ackman | Warren Buffett]]'s 2021 portfolio is also available <a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>.

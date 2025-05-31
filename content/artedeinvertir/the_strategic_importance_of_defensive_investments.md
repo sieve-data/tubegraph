@@ -1,0 +1,41 @@
+---
+title: The strategic importance of defensive investments
+videoId: br8_9Hy4dzg
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Bill Gates, one of the world's wealthiest individuals, has recently undertaken significant changes to his investment portfolio, driven by concerns about future global threats and economic instability <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. These actions highlight the [[strategies_for_investing_in_defensive_stocks | strategic importance of defensive investments]] and [[strategies_for_protecting_investments_during_economic_downturns | protecting investments amidst economic uncertainty]] <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>.
+
+## Bill Gates' Investment Acumen
+Bill Gates has a history of prescient warnings and successful investments. In 2019, he accurately predicted a crisis similar to the one experienced, though his warnings went unheeded <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. He also demonstrated an "excellent eye for investments" by investing in early-stage companies like Novavax and BioNTech <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. He even predicted that Pfizer and BioNTech would be the first to develop a solution to the recent crisis <a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a>.
+
+Despite co-founding Microsoft, shares in the company now represent only 2% of his total assets, as he has extensively diversified his wealth <a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a>. His deep understanding of the economy and technology has led to a high success rate in investments, making his movements closely monitored by investors globally <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+## Reasons for a Defensive Shift
+Bill Gates has voiced significant concerns that underpin his current investment strategy, particularly regarding [[protecting_investments_amidst_economic_uncertainty | economic uncertainty]] and future threats <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>:
+*   **Future Pandemics:** He stated, "it is certain that we will have another pandemic in the future, only this time it will be with a different pathogen" <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>.
+*   **Distrust in Governments:** He expressed concern about "people's distrust in governments" and the need for faster action in future crises (less than 6 months instead of 2 years) <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+*   **Social Division:** He believes social networks need regulation as they "are contributing to generating division in society and in the economy" <a class="yt-timestamp" data-t="00:03:18">[00:03:18]</a>.
+*   **Bioterrorism:** He is "very concerned about terrorist attacks related to smallpox strains that could be spread massively in airports, stadiums, or shopping centers" <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>. He has urged governments to create a common fund of over $1 billion annually for monitoring this risk <a class="yt-timestamp" data-t="00:11:52">[00:11:52]</a>.
+
+## Portfolio Adjustments Towards Defense
+In response to these concerns, Bill Gates has made decisive moves to shift his portfolio towards more [[strategies_for_investing_in_defensive_stocks | defensive investments]] <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>. Public disclosures required for investors with over $100 million in the U.S. show he has been selling a large portion of his holdings <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>.
+
+### Significant Sales
+Bill Gates has sold 12 out of 18 shares in his portfolio and has not bought any new shares <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>. His sales focused on:
+*   **Cyclical Companies:** He sold shares in cyclical companies with high fixed costs, such as Caterpillar and John Deere, which are highly sensitive to economic downturns <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>.
+*   **Technology Companies:** He sold all his Google shares, one of the few technology companies he held <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>. This proved prescient as the Nasdaq technology index plummeted over 30% in the following months <a class="yt-timestamp" data-t="00:04:28">[00:04:28]</a>. He also divested from Alibaba shares just before their significant drop <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>.
+*   **Transportation Sector:** He sold shares in major transport companies like UPS, FedEx, and Canadian Pacific Railway <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>.
+*   **Tesla:** Gates has begun "betting against" Tesla shares, despite being a proponent of renewable energy <a class="yt-timestamp" data-t="00:05:43">[00:05:43]</a>. This decision was likely influenced by Tesla's high valuation (over 50 times earnings) compared to the market average <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>. He understands that a "good company" is not necessarily a "good investment" if it is overvalued, a lesson learned from Microsoft's stock performance during the 2000 tech bubble <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a>.
+*   **Walmart:** He sold shares of Walmart due to issues with the supply chain and inflation <a class="yt-timestamp" data-t="00:12:27">[00:12:27]</a>.
+
+### Core Defensive Holdings
+Despite selling many shares, Bill Gates has retained investments in "very predictable and very defensive sectors" <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>. These are companies expected to be "least affected" during an economic crisis <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. This reflects a [[how_to_protect_investments_during_economic_changes | conservative attitude]] for his investments <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>.
+
+*   **Ecolab (ECL):** This company focuses on water treatment, sanitation, and disinfection for businesses <a class="yt-timestamp" data-t="00:08:05">[00:08:05]</a>. It possesses a high competitive advantage due to its reputation and long operating history <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>. Ecolab has consistently increased its earnings per share by over 10% annually and performed well in crises like 2008 and 2020 <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>. It is expected to benefit from new environmental regulations <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>. This aligns with the [[role_of_defense_and_healthcare_sectors_in_investment | role of defense and healthcare sectors in investment]].
+*   **Waste Management (WM):** As the leading garbage collection company in the United States, Waste Management operates in a "very predictable, traditional sector and very resistant to crises" <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. The company benefits from the trend towards waste recycling and environmental respect, with the market expected to grow at 9% annually <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>. It holds a strong competitive advantage due to difficulty for new entrants in controlled regions <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>.
+*   **Coca-Cola FEMSA:** This is the national bottler of Coca-Cola for Mexico, another "very defensive and very predictable business" <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>.
+*   **Farmland:** Outside the stock market, Bill Gates has massively accumulated farmland, becoming the largest landowner in the United States <a class="yt-timestamp" data-t="00:13:01">[00:13:01]</a>. This move proved successful just before the recent rise in food prices and global inflation <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>.
+
+These [[key_investment_concepts_and_strategies | investment strategies]] emphasize capital preservation and resilience in the face of potential economic challenges and geopolitical tensions, making them critical [[investment_opportunities_and_strategies | investment strategies during economic and geopolitical tensions]] <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>.

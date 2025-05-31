@@ -1,0 +1,71 @@
+---
+title: Investment opportunities in stocks during financial uncertainties
+videoId: kvuIbrSJ43E
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Global aid reached record levels after the 2020 crisis, potentially having serious consequences for both the economy and the stock market <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. Prominent investors like Warren Buffett and Ray Dalio have warned about this risk <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This article explores how individuals can [[protecting_investments_amidst_economic_uncertainty | protect themselves]] or even benefit from this new situation, including specific examples of [[investment_opportunities_in_volatile_market_conditions | investment opportunities]] in stocks <a class="yt-timestamp" data-t="00:00:19">[00:00:19]</a>.
+
+## The Global Debt Crisis
+
+Global aid has grown rapidly to alarming levels <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. The Institute of International Finance reported that total global debt (corporate, government, and individual) reached $270 trillion <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>, while the global Gross Domestic Product (GDP) was only $80 trillion <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>. This means every person on Earth owes over $35,000 <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. The 2020 crisis exacerbated this, pushing debt levels to new records <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>.
+
+The International Monetary Fund (IMF) has stated that when government debt exceeds 77% of its GDP, it significantly impedes future growth <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. Most developed countries, including Spain, Europe, and the USA, have surpassed this limit <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+### Negative Interest Rates and Debt Market Speculation
+
+Record debt levels coincide with historically low interest rates <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. The question arises: what happens when interest rates rise, and individuals, corporations, or governments face higher debt costs <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>? Negative interest rates, an unusual phenomenon, have occurred only once in the last 300 years of economic history <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. Central banks have consistently lowered rates to combat crises, but they've reached zero, leaving limited tools for future downturns <a class="yt-timestamp" data-t="00:02:09">[00:02:09]</a>.
+
+This "world upside down" means people are paying to lend money <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>. For example, German 10-year bonds have a negative yield of 0.6% per year, guaranteeing a loss if held to maturity <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. Despite this, demand for these debt bonds in dollars and euros is extremely high <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. This demand is driven by speculation: if the negative yield becomes even more negative, the bond's price on the stock market will rise, allowing for a profit <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. This is akin to "playing Russian roulette" where one can profit in the interim without holding to maturity <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+
+The debt market is significantly larger than the stock market; in the US alone, the debt market is estimated at $40 trillion, compared to $20 trillion for the stock market <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. Daily debt trading volume is around $700 million, while stock trading averages $200 billion <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. Thus, changes in the debt market will profoundly impact stocks and the broader economy <a class="yt-timestamp" data-t="00:04:01">[00:04:01]</a>. Debt with negative interest rates globally has skyrocketed to $17 trillion since 2015 <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>.
+
+### Severity of Debt-Related Crises
+
+Crises stemming from high debt levels are typically the most severe in the current economic system <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>. Credit acts as the "lung of the economy" <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. The 2008 financial crisis, linked to sub-prime mortgages and high debt, had severe economic consequences <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>. In contrast, the 2000 dot-com bubble, which didn't involve significant debt, was milder <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>.
+
+## Expert Warnings and Triggers
+
+Ray Dalio, who manages the world's largest investment fund, anticipates significant global changes in the next five years <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. He emphasizes that with interest rates at 0%, asset prices can no longer be pushed higher, and traditional economic stimulus tools from central banks will be ineffective <a class="yt-timestamp" data-t="00:05:15">[00:05:15]</a>. Dalio suggests that a fall in the debt market could cause credit to stop flowing, initiating economic difficulties <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
+
+Debt crises are usually triggered by aggressive interest rate hikes <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. Central banks have recently issued large amounts of new money to finance the 2020 crisis <a class="yt-timestamp" data-t="00:06:07">[00:06:07]</a>. This increase in money supply typically leads to inflation, which is the primary variable central banks monitor when raising interest rates to balance the economy <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>. Therefore, future inflation could trigger a fall in the debt market, making inflation monitoring critical <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
+
+## Strategies for Financial Protection
+
+### Managing Personal Debt
+For those with long-term debts, securing a fixed interest rate is advisable to lock in current low rates <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>. If inflation occurs, assets like homes may rise in value, while fixed-rate debt costs remain stable <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>. For short-term debts with high interest rates (e.g., credit cards at 25-30% annually), refinancing with personal loans at lower rates (e.g., 8-12%) can make them more manageable <a class="yt-timestamp" data-t="00:07:09">[00:07:09]</a>.
+
+### The Importance of Saving
+Saving is crucial for everyone, investors or not <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. When credit flow halts, liquidity becomes the most valuable asset, enabling [[investment_opportunities_in_volatile_market_conditions | investments]] at unprecedented prices <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
+
+### [[investment_strategies_for_uncertain_times | Investment Strategies for Uncertain Times]]
+To [[protecting_investments_amidst_economic_uncertainty | protect investments]] or benefit from future market conditions, consider these [[investment_strategies_during_economic_volatility | investment strategies]]:
+
+*   **Avoid Highly Indebted Companies:** If interest rates rise, such companies may face bankruptcy <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. This risk is amplified for cyclical businesses like banks, construction companies, or airlines, which are highly sensitive to economic cycles <a class="yt-timestamp" data-t="00:08:02">[00:08:02]</a>. Warren Buffett has begun reducing his investment in the banking sector due to these concerns <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. To assess a company's debt, check its annual report's financial balance sheet or use financial websites like marketskinner.com <a class="yt-timestamp" data-t="00:12:34">[00:12:34]</a>.
+*   **Avoid Investing Using Debt:** When the market cycle turns and opportunities emerge, credit will only be available to solvent investors <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. It is then opportune to go into debt to capitalize on these opportunities <a class="yt-timestamp" data-t="00:08:50">[00:08:50]</a>.
+*   **Accumulate Liquidity:** Warren Buffett's Berkshire Hathaway has accumulated record levels of liquidity, reaching an impressive $140 billion <a class="yt-timestamp" data-t="00:08:57">[00:08:57]</a>. This cash reserve positions them to take advantage when problems arise in the future, as Buffett has historically done during crises <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
+*   **Invest in Companies with Liquidity, Attractive Valuation, and High Growth Potential:** Companies with strong liquidity can make acquisitions during a crisis, as competition will be reduced due to tighter credit <a class="yt-timestamp" data-t="00:09:46">[00:09:46]</a>.
+*   **Investing Against Bonds (Inverse Debt ETFs):** This is a high-risk strategy requiring significant experience <a class="yt-timestamp" data-t="00:10:35">[00:10:35]</a>. Inverse debt ETFs (e.g., Proshares' LTE FE for American debt, ticker TVEFE; WS's LTE FE for European debt, ticker XSV) facilitate this for average investors <a class="yt-timestamp" data-t="00:10:55">[00:10:55]</a>. However, their performance has been poor if the debt market does not fall within a reasonable timeframe, due to high maintenance costs <a class="yt-timestamp" data-t="00:11:14">[00:11:14]</a>.
+
+## Examples of Investment Opportunities in Stocks
+
+Here are three examples of companies that meet the criteria for [[investment_opportunities_in_volatile_market_conditions | investment opportunities]] during financial uncertainties:
+
+### 1. Cisco Systems (CSCO)
+*   **Profile:** Listed in the US under ticker CSCO, currently around $44 per share <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. It's a leading company in technological infrastructure manufacturing and distribution <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>. Its sales are stable and crisis-resistant <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>.
+*   **Financial Health:** Cisco has great liquidity and is debt-free with a very stable business <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. It is projected to end 2021 with over $17 trillion in debt-free liquidity <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>. This liquidity is valuable for acquisitions, business investment, and share buybacks during crises <a class="yt-timestamp" data-t="00:13:10">[00:13:10]</a>.
+*   **Valuation:** Expected to earn around $3 per share in 2021 <a class="yt-timestamp" data-t="00:13:21">[00:13:21]</a>. While a mature company with limited growth potential, earnings could reach $4 in three to five years <a class="yt-timestamp" data-t="00:13:40">[00:13:40]</a>. Valuing this at 15 times earnings suggests a target price of $60 per share <a class="yt-timestamp" data-t="00:13:49">[00:13:49]</a>, offering limited but stable realization potential and crisis resistance <a class="yt-timestamp" data-t="00:13:58">[00:13:58]</a>.
+
+### 2. Constellation Software (CSU)
+*   **Profile:** Listed on the Canadian market under ticker CSU, currently around $1,600 per share <a class="yt-timestamp" data-t="00:14:31">[00:14:31]</a>. It has been one of the best technology stocks, multiplying by over 80 times in the last 12 years with an average annual return of over 25% <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>.
+*   **Crisis Adaptation:** Possesses three ideal characteristics for a debt crisis:
+    1.  **Large Liquidity:** Significant cash on its balance sheet <a class="yt-timestamp" data-t="00:15:07">[00:15:07]</a>.
+    2.  **Acquisition-Based Growth:** Its growth strategy involves acquisitions, meaning more abundant and attractively priced opportunities during future crises <a class="yt-timestamp" data-t="00:15:11">[00:15:11]</a>.
+    3.  **Resilient Business Model:** Its acquired businesses perform well even during economic difficulties <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>. Income grew from $200 million to over $700 million between 2006 and 2011, even doubling gross profit during the most difficult years of 2008-2010 <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>.
+*   **Valuation:** While future growth rate is expected to be lower than in the past, it could still average 15% annually <a class="yt-timestamp" data-t="00:16:29">[00:16:29]</a>. At its current reasonable market valuation, shares could reach $3,000 per share, offering a very interesting 15% average annual return for a safe and stable company that could see additional upside during a debt crisis <a class="yt-timestamp" data-t="00:16:37">[00:16:37]</a>.
+
+### 3. Oracle (ORCL)
+*   **Profile:** Listed in the US under ticker ORCL, currently around $60 per share <a class="yt-timestamp" data-t="00:17:33">[00:17:33]</a>. It's one of the best technology companies over the last 30 years, with shares multiplying by over 100 times <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>. Oracle provides important business management software <a class="yt-timestamp" data-t="00:17:46">[00:17:46]</a>.
+*   **Characteristics:** Guarantees predictable income, high-profit margins, and a high return on equity <a class="yt-timestamp" data-t="00:17:50">[00:17:50]</a>. Its performance during economic crises, such as 2008, was excellent <a class="yt-timestamp" data-t="00:17:58">[00:17:58]</a>. Oracle is among American companies with the highest liquidity on their balance sheets, alongside Apple, Berkshire Hathaway, and Google <a class="yt-timestamp" data-t="00:18:04">[00:18:04]</a>.
+*   **Valuation:** As a mature company, its earnings per share could rise to nearly $5 in three to five years <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a>. Valuing this at its historical average of around 20 times earnings suggests a target price of $100 per share <a class="yt-timestamp" data-t="00:18:39">[00:18:39]</a>. This represents an interesting realization potential for a predictable, highly liquid, and crisis-resistant company <a class="yt-timestamp" data-t="00:18:46">[00:18:46]</a>.

@@ -1,0 +1,47 @@
+---
+title: Market Trends and Economic Indicators
+videoId: dRdiE7SoUus
+---
+
+From: [[artedeinvertir]] <br/> 
+
+The market currently exhibits a dichotomy: some parts are experiencing euphoria, while others are characterized by pessimism and cheap stocks <a class="yt-timestamp" data-t="00:43:34">[00:43:34]</a>. Generally, the market is a bit more expensive than its historical average <a class="yt-timestamp" data-t="00:44:46">[00:44:46]</a>. However, with low interest rates, the Fed injecting money, and the recovery supported by vaccines, the overall [[current_market_conditions_and_historical_analysis | outlook is considered good]] <a class="yt-timestamp" data-t="00:44:50">[00:44:50]</a>.
+
+## Market Valuation and Sentiment
+
+The speaker notes that a segment of the market shows euphoria, particularly in high-growth, revolutionary technology stocks, many of which are quite expensive <a class="yt-timestamp" data-t="00:42:58">[00:42:58]</a>. Conversely, other parts of the market are experiencing pessimism, with shares trading very cheaply <a class="yt-timestamp" data-t="00:43:40">[00:43:40]</a>. This polarization, where some assets are [[valuation_and_stock_market_trends | very expensive]] while others are undervalued, suggests a period of significant speculation <a class="yt-timestamp" data-t="00:48:47">[00:48:47]</a>. It is anticipated that there will be a rotation in the market, with expensive segments normalizing and cheap segments rising <a class="yt-timestamp" data-t="00:49:06">[00:49:06]</a>.
+
+### Indicators of Bubbles
+The speaker points out that a company like Nicola, which has zero sales and whose models were exposed as fraudulent, is valued at 9 billion dollars, exemplifying the current market's irrationality <a class="yt-timestamp" data-t="00:39:31">[00:39:31]</a>. Another example of irrationality is QuantumScape, a company with no sales yet valued at extremely high levels due to speculation and hype <a class="yt-timestamp" data-t="00:42:18">[00:42:18]</a>. This company's insiders sold shares when it reached very high valuations, indicating a lack of long-term confidence from those closest to the company <a class="yt-timestamp" data-t="00:43:15">[00:43:15]</a>.
+
+The speaker highlights [[indicators_of_economic_bubbles | historical bubbles]] like the Nikkei index in Japan, which reached 100 times earnings at its peak, leading to a situation where investors 30 years later have yet to recover their money <a class="yt-timestamp" data-t="01:21:44">[01:21:44]</a>.
+
+### JP Morgan Market Guide
+The JP Morgan Market Guide is a useful, free resource for understanding market dynamics, published quarterly <a class="yt-timestamp" data-t="01:20:55">[01:20:55]</a>. It shows that the S&P 500 is currently trading at 22 times future earnings <a class="yt-timestamp" data-t="01:21:16">[01:21:16]</a>. While this is lower than the 2000 peak (70 times earnings), it is still considered high, but justified by low interest rates <a class="yt-timestamp" data-t="01:21:19">[01:21:19]</a>.
+
+Historical data from the guide shows that the higher the P/E ratio, the lower the average annual return over the subsequent five years <a class="yt-timestamp" data-t="01:28:01">[01:28:01]</a>. With the S&P 500's current valuation, the expected return over the next five years is close to zero <a class="yt-timestamp" data-t="01:28:09">[01:28:09]</a>. Conversely, when the S&P 500 has been cheap (e.g., around 11-14 times earnings), the subsequent five-year returns have been good (e.g., 15-20%) <a class="yt-timestamp" data-t="01:28:36">[01:28:36]</a>.
+
+## Market Falls and Volatility
+It is difficult to predict [[predictions_on_interest_rates_and_economic_trends | market crises]] consistently <a class="yt-timestamp" data-t="01:19:08">[01:19:08]</a>. However, market falls are a regular occurrence:
+*   Approximately every 12 months, there is a market fall of at least 10% <a class="yt-timestamp" data-t="01:25:23">[01:25:23]</a>.
+*   Every 5 years, there is a fall greater than 20% <a class="yt-timestamp" data-t="01:28:29">[01:28:29]</a>.
+*   Every 20 to 30 years, there is a large drop of 40-50% <a class="yt-timestamp" data-t="01:28:53">[01:28:53]</a>.
+*   Historically, even in bullish years, the S&P 500 experiences intra-annual drops of at least 7-8% <a class="yt-timestamp" data-t="01:30:40">[01:30:40]</a>.
+
+In such periods, it is crucial not to overreact <a class="yt-timestamp" data-t="01:24:40">[01:24:40]</a>. Maintaining some liquidity allows investors to buy good opportunities at attractive prices when the market drops, leading to good returns upon rebound <a class="yt-timestamp" data-t="01:24:50">[01:24:50]</a>.
+
+### Influence of the Federal Reserve (Fed)
+The Fed significantly controls the market, especially through its policies on liquidity and interest rates <a class="yt-timestamp" data-t="01:23:59">[01:23:59]</a>. Historically, every time the market has fallen in recent years, the Fed has intervened by easing money, lowering interest rates, or implementing quantitative easing (printing money), leading to market rebounds <a class="yt-timestamp" data-t="01:24:23">[01:24:23]</a>. A large part of the rally since March was fueled by the Fed's injection of money into the economy, with much of it ending up in the stock market <a class="yt-timestamp" data-t="01:25:46">[01:25:46]</a>. The current record inflow of capital into the American stock market (25 billion dollars in a week) is positive in the short term, but caution is advised when the trend reverses <a class="yt-timestamp" data-t="01:26:00">[01:26:00]</a>.
+
+## Investment Approach in Current Trends
+Given the current [[stock_market_trends_and_investment_strategies | market trends]], the speaker recommends "stock picking" over passive investing <a class="yt-timestamp" data-t="01:30:12">[01:30:12]</a>. This involves identifying specific companies that are cheap and have good prospects, even if the overall market is expensive <a class="yt-timestamp" data-t="01:30:12">[01:30:12]</a>. A portfolio of 15-20-30 companies is advised to balance risk <a class="yt-timestamp" data-t="00:50:45">[00:50:45]</a>.
+
+The speaker emphasizes that investing is about understanding a business, having a clear vision of its future sales and profits, and assessing if its current valuation is reasonable <a class="yt-timestamp" data-t="01:34:18">[01:34:18]</a>. This means going beyond superficial knowledge to understand competitive advantages and future growth drivers <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>.
+
+It is important to avoid getting caught up in euphoria and speculation, as many people lose money by buying into "fashionable" stocks that have already multiplied in value <a class="yt-timestamp" data-t="01:31:31">[01:31:31]</a>. Investing should be done with common sense, without greed, with rationality, and without expecting to get rich overnight <a class="yt-timestamp" data-t="01:35:33">[01:35:33]</a>. Small, consistent victories can build confidence and encourage further learning <a class="yt-timestamp" data-t="01:36:50">[01:36:50]</a>. While the market has been easy in recent months, sustained high returns are not normal <a class="yt-timestamp" data-t="01:37:23">[01:37:23]</a>.
+
+### Examples of Current Opportunities
+*   **Lockheed Martin**: This defense company has seen its stock drop due to a "false belief" that Democratic administrations cut defense budgets <a class="yt-timestamp" data-t="00:34:15">[00:34:15]</a>. Its core products (e.g., F-35 fighter jets) are key to U.S. military supremacy and are rarely cut <a class="yt-timestamp" data-t="00:35:16">[00:35:16]</a>. China's increasing military spending also forces continued investment in defense <a class="yt-timestamp" data-t="00:36:39">[00:36:39]</a>. Valued at 20 times earnings, it is cheap compared to its historical average <a class="yt-timestamp" data-t="00:38:07">[00:38:07]</a>.
+*   **Johnson & Johnson**: A mature company, resistant to crises, with low debt, and expected to earn $10 per share in 2021-22 <a class="yt-timestamp" data-t="01:01:45">[01:01:45]</a>. Currently trading at 160, it normally trades at 20-25 times earnings, suggesting an upside to 200-250 <a class="yt-timestamp" data-t="01:02:00">[01:02:00]</a>.
+*   **Nomad Foods**: A stable frozen food company in Europe, growing slowly but through acquisitions <a class="yt-timestamp" data-t="01:10:20">[01:10:20]</a>. It generates significant free cash flow and trades at 11 times profits, which is considered cheap in its segment (historically 15-20 times) <a class="yt-timestamp" data-t="01:11:11">[01:11:11]</a>.
+*   **Enbridge / Kinder Morgan**: Companies with monopolies on gas and oil transportation in the U.S. <a class="yt-timestamp" data-t="01:38:05">[01:38:05]</a>. These are out-of-fashion sectors but are trading very cheaply (around 8 times normalized earnings for Enbridge) compared to historical averages (16 times) <a class="yt-timestamp" data-t="01:38:41">[01:38:41]</a>. They offer high, sustainable dividend yields (7.5% for Enbridge) <a class="yt-timestamp" data-t="01:38:59">[01:38:59]</a>. Despite lower stock prices, their profits and EBITDA are higher now than in 2014-15 when they traded at much higher multiples <a class="yt-timestamp" data-t="01:39:18">[01:39:18]</a>.

@@ -1,0 +1,79 @@
+---
+title: Impact of Russia Ukraine conflict on global economy
+videoId: 3kB7jt1eVjE
+---
+
+From: [[artedeinvertir]] <br/> 
+
+The ongoing [[geopolitical_tensions_and_their_economic_impact | conflict between Russia and Ukraine]] has significantly affected global stock markets and the economy <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. The Russian stock market, for instance, experienced a collapse more severe than that during the 2008 financial crisis or the COVID-19 confinement period <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. The Russian stock index has fallen 40% from its highs <a class="yt-timestamp" data-t="01:01:02">[01:01:02]</a>. Other stock markets are also down due to the escalating tensions <a class="yt-timestamp" data-t="01:01:17">[01:01:17]</a>.
+
+## Immediate Responses and Economic Consequences
+
+The [[consequences_of_ukraine_invasion_on_global_finance | first responses]] in Europe have already been observed <a class="yt-timestamp" data-t="01:30:29">[01:30:29]</a>. Germany, for example, suspended the certification of the Nord Stream gas pipeline, which was intended to bring Russian gas to Europe <a class="yt-timestamp" data-t="01:34:04">[01:34:04]</a>. This action caused gas prices in Europe to skyrocket, exacerbating an already high price environment due to supply crises and inflation <a class="yt-timestamp" data-t="01:42:19">[01:42:19]</a>. This leads to European consumers having less disposable income as energy costs rise <a class="yt-timestamp" data-t="01:53:15">[01:53:15]</a>.
+
+Oil prices also approached $100 a barrel, a significant increase from $50 a year prior <a class="yt-timestamp" data-t="02:00:13">[02:00:13]</a>. Higher energy costs mean more expensive gasoline and reduced disposable income for consumers, which is critical since consumption accounts for 70% of the economy <a class="yt-timestamp" data-t="02:08:18">[02:08:18]</a>. This aggravation of energy costs by the conflict could be severe <a class="yt-timestamp" data-t="02:23:25">[02:23:25]</a>.
+
+Another threat made by Western countries is the exclusion of Russia from the SWIFT system, which would limit its ability to make payments in euros, pounds, and especially dollars <a class="yt-timestamp" data-t="02:33:01">[02:33:01]</a>. While Russia would be the primary victim, obstacles to global trade negatively affect all participants, as many Western companies derive a significant portion of their sales from the Russian market <a class="yt-timestamp" data-t="02:55:04">[02:55:04]</a>.
+
+The situation was triggered by Russia recognizing eastern regions of Ukraine as independent, leading to the deployment of Russian troops within Ukrainian territory, increasing tension <a class="yt-timestamp" data-t="03:34:06">[03:34:06]</a>.
+
+## Impact on Key Sectors
+
+### Oil Market
+The [[impact_of_rising_oil_prices_on_the_global_economy | oil market]] is a primary concern, with prices nearing $100 <a class="yt-timestamp" data-t="04:02:00">[04:02:00]</a>. Russia is a major oil producer, accounting for 10 million barrels a day out of a global consumption of 100 million barrels daily <a class="yt-timestamp" data-t="04:13:00">[04:13:00]</a>. Even a small deficit of 2-4 million barrels can cause disproportionate price increases, as seen in 2008 when oil jumped from $100 to $150 in weeks due to inflationary pressures <a class="yt-timestamp" data-t="04:40:02">[04:40:02]</a>. Sanctions on Russia's oil trade could further exacerbate global energy costs, benefiting only oil-producing companies in the stock market <a class="yt-timestamp" data-t="05:02:00">[05:02:00]</a>.
+
+### Natural Gas
+Natural gas in Europe is similarly problematic <a class="yt-timestamp" data-t="05:28:07">[05:28:07]</a>. European gas prices are now 60-70 euros per megawatt, triple what they were a year ago <a class="yt-timestamp" data-t="05:40:00">[05:40:00]</a>. While Germany states there is a secure supply, the price is exceptionally high, posing a serious problem for consumers in the European Union <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>. Russian gas exports to Europe were already at a low level in 2021 due to prior tensions, aggravating the current situation <a class="yt-timestamp" data-t="06:31:00">[06:31:00]</a>.
+
+### Agriculture and Food
+The conflict also affects the agriculture and food industries <a class="yt-timestamp" data-t="06:53:00">[06:53:00]</a>. Food prices were already rising due to inflation, and this conflict will worsen the situation <a class="yt-timestamp" data-t="07:00:00">[07:00:00]</a>. Russia is the world's fourth-largest producer of grains/wheat <a class="yt-timestamp" data-t="07:08:00">[07:08:00]</a>. Including Ukraine, the two countries account for nearly 20% of global production <a class="yt-timestamp" data-t="07:21:00">[07:21:00]</a>. Disruptions in this market can cause disproportionate price increases (50-100%) for commodities, even for small deficits in supply <a class="yt-timestamp" data-t="07:49:00">[07:49:00]</a>. Food commodity prices have recently surged to levels of 500, compared to a historical average of 200-250 <a class="yt-timestamp" data-t="08:06:00">[08:06:00]</a>.
+
+### Fertilizer Market
+The fertilizer market is a third critical point <a class="yt-timestamp" data-t="08:33:00">[08:33:00]</a>. Russia and Ukraine are significant producers of potassium, a key component for fertilizers, which impacts food production <a class="yt-timestamp" data-t="08:36:00">[08:36:00]</a>. Russia, including Belarusian production, holds almost 20% of the market share <a class="yt-timestamp" data-t="08:49:00">[08:49:00]</a>. Fertilizer prices are already at critical, very high levels, contributing to higher food prices and inflation <a class="yt-timestamp" data-t="08:58:00">[08:58:00]</a>. Much of the recent stock market decline is attributed to this inflationary situation <a class="yt-timestamp" data-t="09:07:00">[09:07:00]</a>.
+
+## Stock Market Performance During Conflicts
+
+Historically, the stock market often behaves counter-intuitively during conflicts. A saying advises to "buy with the drums of war and sell with the melody of the violin" <a class="yt-timestamp" data-t="09:36:00">[09:36:00]</a>. Studies of past conflicts (Vietnam, Gulf, Iraq, Crimea) show that after the initial panic, stock markets tend to exhibit bullish behavior in subsequent months <a class="yt-timestamp" data-t="09:48:00">[09:48:00]</a>. This is because the market generates anxiety from uncertainty, but when negative events occur, people realize it's "not the end of the world" <a class="yt-timestamp" data-t="10:11:00">[10:11:00]</a>. While conflicts are terrible on a human and social level, and economically negative, they are not catastrophic for global markets in the long term <a class="yt-timestamp" data-t="10:34:00">[10:34:00]</a>.
+
+Even significant drops, like the 1990 Iraq invasion (requiring 180 days to recover) or the Pearl Harbor attack (recovering in less than a year), show that markets typically rebound <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>. Markets tend to fall *before* conflicts, and when the event materializes, it's often priced in <a class="yt-timestamp" data-t="11:54:00">[11:54:00]</a>.
+
+Historically, buying during conflicts has yielded greater returns, particularly for small-cap stocks, because assets become cheaper <a class="yt-timestamp" data-t="12:54:00">[12:54:00]</a>. Companies with solid businesses that produce essential goods can maintain profitability even with inflation by raising prices <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>. Paradoxically, so-called "safe" investments like bonds often give less return during conflicts, as people flock to them, making them more expensive <a class="yt-timestamp" data-t="14:23:00">[14:23:00]</a>. The time of fear and problems is when good returns are made, as shares are sold at lower prices by those lacking conviction or knowledge <a class="yt-timestamp" data-t="14:53:00">[14:53:00]</a>.
+
+## Specific Company Examples
+
+### Defense Stocks
+Defense sector companies typically see rises in their stock prices during periods of [[geopolitical_tensions_and_their_economic_impact | geopolitical tensions]] <a class="yt-timestamp" data-t="15:54:00">[15:54:00]</a>. Examples mentioned include European technology manufacturers, Lockheed Martin (known for F-22 and F-35), and Dassault Aviation (French European army aircraft) <a class="yt-timestamp" data-t="16:24:00">[16:24:00]</a>. However, long-term investors should not buy solely based on short-term price increases <a class="yt-timestamp" data-t="16:14:00">[16:14:00]</a>.
+
+### Gazprom
+Gazprom, a Russian gas and oil producer, saw significant declines in its stock price despite soaring gas and oil prices <a class="yt-timestamp" data-t="17:44:00">[17:44:00]</a>. While sanctions could harm it, a complete cessation of trade is unlikely <a class="yt-timestamp" data-t="18:10:00">[18:10:00]</a>. The company is trading at a low Price-to-Earnings (P/E) ratio of 2.5, with low debt, which would be considered extremely cheap elsewhere <a class="yt-timestamp" data-t="19:00:00">[19:00:00]</a>. However, the Russian market, on average, trades at five times earnings due to political risks like expropriation <a class="yt-timestamp" data-t="19:13:00">[19:13:00]</a>.
+
+Gazprom is a cyclical stock, meaning its valuation changes rapidly with commodity prices <a class="yt-timestamp" data-t="20:05:00">[20:05:00]</a>. The best time to buy cyclical stocks is when their P/E valuation is highest, because that's when raw material prices are lowest and results are set to improve <a class="yt-timestamp" data-t="20:56:00">[20:56:00]</a>.
+
+### Fertilizer Companies (e.g., Mosaic)
+Fertilizer companies like Mosaic can benefit if sanctions prohibit Russia from trading fertilizers, as the rest of the world would still need them and buy from international companies <a class="yt-timestamp" data-t="22:22:00">[22:22:00]</a>. Mosaic has already doubled its price in the last year due to inflation and rising food/grain prices <a class="yt-timestamp" data-t="23:06:00">[23:06:00]</a>. However, Mosaic is a cyclical stock with a history of long periods without significant value generation <a class="yt-timestamp" data-t="23:32:00">[23:32:00]</a>. These stocks are often seen as "good for renting, not for investing" for the long term <a class="yt-timestamp" data-t="24:30:00">[24:30:00]</a>.
+
+### Qiwi
+Qiwi, referred to as "Russia's PayPal," saw a pre-market fall of over 15% due to panic surrounding Russian shares <a class="yt-timestamp" data-t="26:40:00">[26:40:00]</a>. It had already fallen significantly from $21 to $7 <a class="yt-timestamp" data-t="26:56:00">[26:56:00]</a>. Despite strong fundamentals and expected profit growth, it trades at only four times earnings, suggesting its capitalization could be justified by just four years of future earnings if expropriation risk doesn't materialize <a class="yt-timestamp" data-t="27:31:00">[27:31:00]</a>. The Russian market often trades at lower multiples (5-7x earnings) due to investors factoring in political risks <a class="yt-timestamp" data-t="28:37:00">[28:37:00]</a>.
+
+### Other Companies Mentioned in Context
+*   **Adobe**: A technology company with competitive advantages in software, transitioning to a cloud subscription model <a class="yt-timestamp" data-t="32:26:00">[32:26:00]</a>. It recently saw a significant drop due to slightly below-expectation results and general market negativity towards tech stocks <a class="yt-timestamp" data-t="31:21:00">[31:21:00]</a>. Its future free cash flow is projected to be much higher than its current capitalization <a class="yt-timestamp" data-t="33:04:00">[33:04:00]</a>.
+*   **Inpost**: A quality growth stock that corrected along with others <a class="yt-timestamp" data-t="37:06:00">[37:06:00]</a>. It is trading at 16 times free cash flow and has consistent growth <a class="yt-timestamp" data-t="37:19:00">[37:19:00]</a>.
+*   **Data Group**: A technological company that is a main position in a fund <a class="yt-timestamp" data-t="50:24:00">[50:24:00]</a>. It trades at 9-10 times EBITDA, lower than comparables, and has low debt <a class="yt-timestamp" data-t="50:36:00">[50:36:00]</a>. It recently reported strong organic growth and increased EBITDA <a class="yt-timestamp" data-t="52:00:00">[52:00:00]</a>.
+*   **Green Landscaping**: Announced a share buyback as management believes its shares are cheap, trading around 15 times earnings <a class="yt-timestamp" data-t="52:50:00">[52:50:00]</a>. The company plans to expand its business model across the Nordic region <a class="yt-timestamp" data-t="53:17:00">[53:17:00]</a>.
+*   **Globant**: A digital engineering company that has seen corrections but maintains strong growth rates of 40% <a class="yt-timestamp" data-t="53:52:00">[53:52:00]</a>. Analysts project 25% growth, with the company expected to double its earnings per share in a few years <a class="yt-timestamp" data-t="54:14:00">[54:14:00]</a>. The market for digital engineering is expected to grow significantly, with listed companies capitalizing on this expansion <a class="yt-timestamp" data-t="54:40:00">[54:40:00]</a>.
+
+## Investment Philosophy During Crises
+
+During market crises and periods of high volatility, such as the current one, it is crucial to be trained to navigate difficult periods <a class="yt-timestamp" data-t="29:10:00">[29:10:00]</a>. Significant returns are often made during these times <a class="yt-timestamp" data-t="29:22:00">[29:22:00]</a>.
+
+Cryptocurrencies are considered risky assets and tend to decline during market "risk-off" periods, not serving as protection against inflation or crises <a class="yt-timestamp" data-t="30:37:00">[30:37:00]</a>. Gold, however, can be a refuge against inflation <a class="yt-timestamp" data-t="31:05:00">[31:05:00]</a>.
+
+The market behaves like a pendulum, swinging from euphoria to fear <a class="yt-timestamp" data-t="31:50:00">[31:50:00]</a>. Investors should be prepared for portfolios to fall 40-50%, which is a normal occurrence in the stock market <a class="yt-timestamp" data-t="40:47:00">[40:47:00]</a>. Drops of 5%, 10%, or even 20% are considered minor <a class="yt-timestamp" data-t="41:29:00">[41:29:00]</a>.
+
+A strategy to take advantage of downturns is "downward averaging," buying more shares as prices fall, as one doesn't know when the decline will stop <a class="yt-timestamp" data-t="34:52:00">[34:52:00]</a>. However, this strategy is only safe when investing in fundamentally strong companies, as blindly buying falling stocks can lead to total loss if the company goes bankrupt <a class="yt-timestamp" data-t="35:15:00">[35:15:00]</a>.
+
+The best time to buy good stocks is when there are macro fears but nothing is fundamentally wrong with the specific company <a class="yt-timestamp" data-t="38:22:00">[38:22:00]</a>. Poor company results, slowing growth, low margins, increased debt, or bad acquisitions are more concerning than broader market downturns <a class="yt-timestamp" data-t="38:29:00">[38:29:00]</a>.
+
+Even high-growth companies like [[Apple]] experience significant corrections (50% drops over time, many 20% drops), so investors must change their mentality and not sell simply because valuations become demanding, as it is psychologically difficult to re-enter and benefit from long-term compounding <a class="yt-timestamp" data-t="56:19:00">[56:19:00]</a>.
+
+In conclusion, market crises, though concerning, are not the end of the world <a class="yt-timestamp" data-t="57:23:00">[57:23:00]</a>. Sooner or later, these situations resolve themselves <a class="yt-timestamp" data-t="57:26:00">[57:26:00]</a>.

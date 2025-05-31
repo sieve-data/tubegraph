@@ -1,0 +1,66 @@
+---
+title: Stock market volatility and investment strategies
+videoId: hNzC1sWAz_Y
+---
+
+From: [[artedeinvertir]] <br/> 
+
+## Understanding Market Volatility
+
+### Key Indicators and Their Impact
+
+The stock market's current situation can be interpreted by analyzing several key indicators <a class="yt-timestamp" data-t="02:58:00">[02:58:00]</a>.
+A significant factor is the inflow and outflow of capital to the stock market. Accumulated global inflows reached 400 billion dollars, a countercyclical indicator suggesting caution, as strong inflows can precede corrections when capital flow reverses <a class="yt-timestamp" data-t="06:44:00">[06:44:00]</a>. Historically, periods of high capital inflows, such as in 2013 or 2017-2018 (when tax cuts stimulated markets), were followed by market adjustments <a class="yt-timestamp" data-t="07:33:00">[07:33:00]</a>. The current rebound and euphoria seen from 2003 to 2021 are unprecedented in the period covered by available graphs <a class="yt-timestamp" data-t="08:26:00">[08:26:00]</a>.
+
+Another crucial indicator is the **Equity Risk Premium**, which compares the profitability of the S&P 500 with the 10-year US bond, considered the safest asset globally <a class="yt-timestamp" data-t="11:21:50">[11:21:50]</a>. When the bond yield increases, as it did from 0.5% to 1.6% recently, other investments must offer higher profitability to compete, leading to stock market adjustments <a class="yt-timestamp" data-t="11:51:00">[11:51:00]</a>. Conversely, when bond yields fall, stock prices tend to rise rapidly <a class="yt-timestamp" data-t="12:14:00">[12:14:00]</a>. As Warren Buffett suggests, interest rates act as the "force of gravity" in stock markets, being the most important factor, even more so than political events or trade wars <a class="yt-timestamp" data-t="12:27:00">[12:27:00]</a>. An S&P 500 offering a better return than the bond indicates stocks are cheap relative to bonds <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>. For example, in March 2020, when the market was gripped by fear, stocks became very attractive compared to bonds <a class="yt-timestamp" data-t="13:37:00">[13:37:00]</a>.
+
+Inflation expectations also play a vital role. Increased money supply (M2) and high consumer savings, coupled with a desire to spend as economies reopen, are driving expectations of inflation <a class="yt-timestamp" data-t="14:46:00">[14:46:00]</a>. This is further supported by the rise in bond yields and raw material prices, which are at multi-year highs <a class="yt-timestamp" data-t="16:00:00">[16:00:00]</a>. If inflation materializes, central banks may be forced to raise interest rates, which could negatively impact "growth stocks" <a class="yt-timestamp" data-t="16:45:00">[16:45:00]</a>.
+
+### Historical Context of Interest Rate Hikes
+
+Historically, rising interest rates do not necessarily lead to a stock market downturn. Analysis of the S&P 500's performance over the last 30 years during periods of rising interest rates shows mixed results, with many instances where the stock market still had a positive yield <a class="yt-timestamp" data-t="18:32:00">[18:32:00]</a>. This is because the market is composed of different types of stocks:
+*   **Value stocks**: These are often "boring" companies that produce consistent cash flow, and they tend to perform well when interest rates and inflation rise <a class="yt-timestamp" data-t="17:02:00">[17:02:00]</a>, <a class="yt-timestamp" data-t="20:15:00">[20:15:00]</a>.
+*   **Growth stocks**: These companies promise high future cash flow but may not generate significant current profits. They are more sensitive to rising interest rates because their future earnings are discounted more heavily <a class="yt-timestamp" data-t="17:26:00">[17:26:00]</a>, <a class="yt-timestamp" data-t="20:20:00">[20:20:00]</a>.
+
+In a rising rate environment, the market often sees a rotation where value stocks gain, while growth stocks may perform poorly, leading to an overall positive or sideways movement in the broader market <a class="yt-timestamp" data-t="20:23:00">[20:23:00]</a>. Gold also behaves correlated with inflation expectations and bond yields <a class="yt-timestamp" data-t="21:11:00">[21:11:00]</a>.
+
+## [[investment_strategies_during_market_volatility | Investment Strategies During Volatility]]
+
+### Building a Resilient Portfolio
+
+The best way to face stock market falls, as advised by figures like Warren Buffett, is to always maintain some liquidity and avoid excessive leverage <a class="yt-timestamp" data-t="09:04:00">[09:04:00]</a>, <a class="yt-timestamp" data-t="09:10:00">[09:10:00]</a>. Protecting against market downturns involves investing in solid businesses that generate profits, are not excessively expensive, and have low debt <a class="yt-timestamp" data-t="09:18:00">[09:18:00]</a>. Even if such a business experiences a temporary decline, it is unlikely to go bankrupt, and market downturns typically last from months to a couple of years at most <a class="yt-timestamp" data-t="09:33:00">[09:33:00]</a>.
+
+### Capitalizing on Market Dips
+
+Market corrections create opportunities <a class="yt-timestamp" data-t="10:48:00">[10:48:00]</a>. When some shares in a portfolio fall due to market reasons or perceived higher risk, it can be opportune to sell those to buy others that represent better value <a class="yt-timestamp" data-t="09:50:00">[09:50:00]</a>. This rebalancing process, repeatedly executed, can lead to funds reaching new highs as the market rebounds <a class="yt-timestamp" data-t="10:13:00">[10:13:00]</a>. Therefore, investors should not fear market crashes but rather be grateful for the opportunities they present <a class="yt-timestamp" data-t="10:26:00">[10:26:00]</a>.
+
+### Growth vs. Value Stocks in Volatile Environments
+
+In the current environment, with inflation expectations and rising interest rates, [[investment_strategies_during_economic_volatility | value stocks]], characterized by stable companies producing significant cash flow in the current period, are expected to perform well <a class="yt-timestamp" data-t="17:02:00">[17:02:00]</a>. Conversely, high-[[Stock Market Investing Strategies | growth stocks]] that promise substantial future cash flow but are not yet profitable may face headwinds <a class="yt-timestamp" data-t="17:26:00">[17:26:00]</a>. For example, highly valued growth stocks like Tesla have been correcting, while more "boring" companies like raw material stocks (e.g., oil, copper, aluminum, uranium) are performing strongly due to inflation expectations <a class="yt-timestamp" data-t="16:31:00">[16:31:00]</a>, <a class="yt-timestamp" data-t="17:50:00">[17:50:00]</a>.
+
+> [!tip] Investment Philosophy:
+> In these scenarios, it's crucial not to panic. Investors should maintain a portfolio of stocks they believe in, understand the company's operations, ensure low debt, and avoid excessive valuations <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>. A long-term perspective is key, as short-term market movements are influenced by capital flow, news, and investor sentiment, but rationality tends to prevail over three years <a class="yt-timestamp" data-t="01:00:43">[01:00:43]</a>. Avoid overreacting to daily fluctuations or chasing trends, and instead stick to a solid, defined investment style based on fundamentals <a class="yt-timestamp" data-t="01:01:22">[01:01:22]</a>.
+
+## Specific Company Examples and Analysis
+
+*   **Berkshire Hathaway**: This holding company is considered a good investment, particularly when trading at a low price-to-book value (e.g., 1.2 times book value or less, as observed in 2016 and during the coronavirus crash) <a class="yt-timestamp" data-t="02:14:00">[02:14:00]</a>. Its book value per share has tripled over the last decade <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>.
+*   **NVIDIA**: While its valuation is demanding, the company's growth prospects are strong, with estimated growth of 52% in 2021 and 32% in the next 12 months <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>. It's expanding profit margins and competing effectively in data centers and microprocessors <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>.
+*   **Carnival Corporation**: This cruise ship company, though it had recovered from its lows, is not as cheap as when it was at $12, due to issuing new shares. Its future earnings potential is diluted <a class="yt-timestamp" data-t="03:20:00">[03:20:00]</a>.
+*   **Spirit Airlines**: This low-cost airline, the "Ryanair of the USA," has a solvent financial position and good prospects for recovery. Its stock price has fully recovered to pre-pandemic levels <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>.
+*   **ERC UP (AerCap)**: An aircraft leasing company, it recovered significantly after a major drop, especially following its merger with a main rival. Its book value is expected to double in five years <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>.
+*   **Alibaba**: Despite recent dips due to bond market shifts and Chinese government regulatory concerns, Alibaba is trading at an attractive valuation, with expected doubling of profitability and free cash flow in the next three years <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>.
+*   **Sprouts Farmers Market**: A "value stock" in the organic food sector, which is growing at 6-8% annually. Despite market fears after Amazon's acquisition of Whole Foods, Sprouts has performed well and generates significant profits for its capitalization <a class="yt-timestamp" data-t="04:17:00">[04:17:00]</a>.
+*   **Lockheed Martin / Northrop Grumman**: These defense stocks are considered [[strategies_for_investing_in_volatile_economic_environments | value plays]], often ignored by the market but with good outlooks given consistent defense budgets. They offer reasonable returns with dividends <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>.
+*   **Amazon / Google / Facebook**: These large tech companies continue to generate value and are considered reasonably priced, especially when considering future growth and free cash flow multiples <a class="yt-timestamp" data-t="09:00:00">[09:00:00]</a>, <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a>.
+*   **Tencent**: Similar to Alibaba, it has seen corrections due to tech stock downturns but remains a profitable company with competitive advantages, though operating in China adds regulatory risk <a class="yt-timestamp" data-t="01:15:25">[01:15:25]</a>.
+*   **SPACs (Special Purpose Acquisition Companies)**: Caution is advised with SPACs, as their recent popularity has led to euphoria and opportunism. While a valid mechanism for serious businesses, many are empty shells used to bypass regulation and list companies of dubious reputation <a class="yt-timestamp" data-t="01:35:47">[01:35:47]</a>.
+*   **HP / HQ**: These companies are currently cheap but are not expected to grow much, remaining calm investments unless the market decides to value them higher <a class="yt-timestamp" data-t="01:40:49">[01:40:49]</a>.
+*   **Autodesk**: This company has strong competitive advantages in design software and is transitioning to a cloud-based model. It's expected to continue growing profits and expanding margins <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>.
+*   **Humana**: A healthcare company, which has performed well and is a main position in some funds due to its strong financial position and growth prospects <a class="yt-timestamp" data-t="02:26:57">[02:26:57]</a>.
+*   **D.G. Foods (Delivery Group)**: A company in the food industry that was very cheap during the pandemic, offering significant returns due to its stable business and low valuation <a class="yt-timestamp" data-t="02:28:23">[02:28:23]</a>.
+*   **Repsol / Telefónica / Santander**: These traditional Spanish companies generally do not generate as much long-term value compared to other investment opportunities. They may offer short-term speculative gains during specific market conditions (e.g., rising oil prices for Repsol), but their long-term charts show limited growth <a class="yt-timestamp" data-t="02:11:10">[02:11:10]</a>.
+*   **Palantir / Virgin Galactic**: These companies are characterized by high future expectations priced into their shares, without current profitability. They carry significant risk if these expectations do not materialize <a class="yt-timestamp" data-t="01:51:26">[01:51:26]</a>, <a class="yt-timestamp" data-t="01:52:50">[01:52:50]</a>.
+
+## Conclusion
+
+[[Investment strategies for market volatility | Navigating stock market volatility]] requires a deep understanding of market dynamics, economic indicators, and a disciplined investment philosophy. While short-term fluctuations are inevitable, focusing on fundamentally strong companies with clear growth prospects and reasonable valuations, while maintaining a long-term perspective, can lead to positive outcomes <a class="yt-timestamp" data-t="01:11:14">[01:11:14]</a>, <a class="yt-timestamp" data-t="01:12:19">[01:12:19]</a>. The market always presents opportunities, especially during periods of fear or irrational selling <a class="yt-timestamp" data-t="01:10:07">[01:10:07]</a>.

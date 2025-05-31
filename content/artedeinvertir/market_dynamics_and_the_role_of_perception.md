@@ -1,0 +1,57 @@
+---
+title: Market dynamics and the role of perception
+videoId: v8zKkWkukCs
+---
+
+From: [[artedeinvertir]] <br/> 
+
+George Soros's theory of reflexivity is a fundamental concept that has contributed significantly to his substantial wealth <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. While many of his daily operational concepts align with investors like Buffet, Soros's unique contribution lies in his theory, which he developed by merging philosophy with [[investment_psychology_and_market_predictions | investment]] <a class="yt-timestamp" data-t="00:01:54">[00:01:54]</a>.
+
+## George Soros: A Background
+
+Born a Hungarian refugee during World War II, Soros's parents falsified papers to allow him to study in the United Kingdom <a class="yt-timestamp" data-t="00:01:12">[00:01:12]</a>. He gained access to the London Business School, a highly respected institution, where he trained <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. Soros considers philosophy his true passion, not [[investment_psychology_and_market_predictions | investment]] <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>. His mentor, Karl Popper, influenced his efforts to combine philosophy with [[investment_psychology_and_market_predictions | investment]], leading to the theory of reflexivity <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+
+Despite initial difficulties finding work in a xenophobic society <a class="yt-timestamp" data-t="00:02:08">[00:02:08]</a>, Soros eventually entered the financial world through a contact <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. He initially practiced value [[investment_psychology_and_market_predictions | investing]], focusing on cheap stocks, but his philosophy evolved over time to maximize profit <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. He gained a reputation by identifying cheap German stocks in the 1950s and 60s, particularly those with dual stock structures <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. His successful reports for clients garnered support, enabling him to found his fund with just $23 million <a class="yt-timestamp" data-t="00:03:33">[00:03:33]</a>. This fund, formerly known as the Quantum Fund, grew primarily organically, achieving average annual returns of 25% over 45 years since 1970, with minimal losses during major crises <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+
+## The Theory of Reflexivity
+
+Soros's theory of reflexivity asserts that the financial system is a human construct, and financial crises, unlike natural phenomena like weather, cannot be reliably predicted <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>. If they could be predicted, they wouldn't happen <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>. He argues that it is "extremely complex to guess what the economy is going to do" due to a multitude of factors <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+
+Instead, Soros suggests focusing on "what the perception that [[investor_psychology_and_market_behavior | investors]] are going to have of what the economy is going to do is" <a class="yt-timestamp" data-t="00:06:54">[00:06:54]</a>. This concept, akin to a "second derivative," implies that [[Market Trends and Economic Indicators | financial markets]] are a "common mentality that exists created by a series of participants" <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>.
+
+Soros draws an analogy to quantum theory, where the observer influences the observed element <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>. In the financial markets, the participants themselves, whether large or small [[investor_psychology_and_market_behavior | investors]], formulate a vision about the market, thus influencing it <a class="yt-timestamp" data-t="00:07:23">[00:07:23]</a>. For example, if an [[investor_psychology_and_market_behavior | investor]] who is also a market participant believes markets will fall, their actions contribute to that fall, creating a self-fulfilling prophecy <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>.
+
+He dismisses the theory of efficient markets as "nonsense" because participants act based on their emotions, feelings, and perceptions <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>. Markets are not stable; they are always unstable and biased either upwards or downwards <a class="yt-timestamp" data-t="00:08:25">[00:08:25]</a>.
+
+## Phases of a Reflexive Process (Boom/Bubble Pattern)
+
+Soros's theory uses a graph to illustrate how perception (red line) and asset price (blue line) interact <a class="yt-timestamp" data-t="00:09:05">[00:09:05]</a>.
+
+### Initial Period (A)
+In the initial phase, people develop a perception about a sector (e.g., housing) or a currency <a class="yt-timestamp" data-t="00:10:08">[00:10:08]</a>. The market, initially a step behind, eventually identifies this shift <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>. Once identified, prices tend to rise much faster than the underlying fundamentals would suggest <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>.
+
+### Test Period (B)
+Every series of bubbles, both upward and downward, includes a "test" period <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>. During this phase, prices might stabilize or even fall slightly <a class="yt-timestamp" data-t="00:11:30">[00:11:30]</a>. If this initial fall is not too abrupt, and people regain confidence, viewing it as a "buying opportunity," the price can experience another super rally, often exceeding its previous peak <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>. This occurs because the initial price movement reinforces the perception, leading to behavioral changes that affect the underlying reality <a class="yt-timestamp" data-t="00:12:56">[00:12:56]</a>.
+
+### New Paradigm and Disconnection
+The bubble reaches a "new paradigm" where prices become "disconnected from all reality" <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>. At this stage, even small news items or acts can trigger enormous falls <a class="yt-timestamp" data-t="00:13:42">[00:13:42]</a>. An example is the dot-com bubble in 2000, which peaked around the time Bill Gates stated that Microsoft shares were incredibly overvalued, triggering a significant fall <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>.
+
+### Irreversible Decline
+Once this point of disconnection is reached, the process becomes "irreversible" <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>. Although [[stock_market_behavior_in_response_to_economic_changes | prices]] in the financial markets start to fall, the fundamentals may still have inertia from the prior capital flow, causing them to continue to fall <a class="yt-timestamp" data-t="00:14:30">[00:14:30]</a>. This is considered one of the most dangerous moments, as "bargain hunters" relying solely on lagging fundamentals can be misled into buying, expecting a repeat of the test period <a class="yt-timestamp" data-t="00:14:42">[00:14:42]</a>. The reflective period ends when the fall begins <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>.
+
+## Real-World Examples of Reflexivity
+
+### 2008 Financial Crisis
+The 2008 crisis provides a clear example of reflexivity <a class="yt-timestamp" data-t="00:15:19">[00:15:19]</a>. Despite the S&P 500 plummeting significantly and companies reporting weak results in 2009, the market began an "incredible rally" <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>. This contradicts the traditional theory that the market anticipates events <a class="yt-timestamp" data-t="00:16:22">[00:16:22]</a>. Instead, Soros suggests that it is the perception of market participants that drives changes in reality <a class="yt-timestamp" data-t="00:11:54">[00:11:54]</a>.
+
+In 2008, a general fear led to a reluctance to lend, despite available liquidity <a class="yt-timestamp" data-t="00:17:49">[00:17:49]</a>. However, when the S&P 500 began to rise, potentially due to a selling or buying climax, people regained confidence <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>. This shift in sentiment encouraged [[investor_psychology_and_market_behavior | investors]] and corporations to make new [[current_market_conditions_and_historical_analysis | investments]] and buy back shares, and central bankers injected liquidity <a class="yt-timestamp" data-t="00:17:10">[00:17:10]</a>. These actions stimulated the economy, allowing credit to flow and everything to normalize <a class="yt-timestamp" data-t="00:17:59">[00:17:59]</a>. This illustrates how market sentiment (perception) can drive fundamental [[shifts_in_economic_models_and_consumer_habits | economic changes]] (reality) <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>.
+
+### Spanish REITs (SOCIMIs)
+A more recent example involves Spanish REITs (SOCIMIs) <a class="yt-timestamp" data-t="00:18:09">[00:18:09]</a>. About two years prior to the recording, when SOCIMIs began listing in Spain, housing prices were recovering, but the market was still skeptical <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a>.
+
+1.  **Initial Perception**: When SOCIMIs listed, they were perceived as a good [[investment_psychology_and_market_predictions | investment]], leading them to trade at a premium to book value (e.g., 1 or 2 times book value) <a class="yt-timestamp" data-t="00:19:06">[00:19:06]</a>.
+2.  **Reflexive Loop**: Trading above book value allowed SOCIMIs to issue new shares at a premium and use that capital to acquire assets in the private market at book value <a class="yt-timestamp" data-t="00:19:15">[00:19:15]</a>. This process increased their earnings per share because the growth in earnings outpaced the increase in shares issued <a class="yt-timestamp" data-t="00:19:51">[00:19:51]</a>.
+3.  **New Paradigm**: [[investor_psychology_and_market_behavior | Investors]] saw this as a "new paradigm" and "growth companies," driving prices even higher <a class="yt-timestamp" data-t="00:20:20">[00:20:20]</a>. Each announcement of a capital increase would cause share prices to rise <a class="yt-timestamp" data-t="00:20:53">[00:20:53]</a>.
+4.  **Shift in Perception**: Recently, due to broader [[current_market_conditions_and_historical_analysis | market conditions]] (e.g., fall of the Ibex, banks), confidence shifted, and SOCIMI shares fell <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a>. When these companies now attempt capital increases, they may be trading below book value (e.g., 0.8 times book value) <a class="yt-timestamp" data-t="00:21:37">[00:21:37]</a>. This has the opposite effect, decreasing earnings per share, making such situations "treasures that we must avoid" <a class="yt-timestamp" data-t="00:21:44">[00:21:44]</a>.
+
+Soros's theory is not just for speculation but also for protecting [[current_market_conditions_and_historical_analysis | investments]] <a class="yt-timestamp" data-t="00:22:17">[00:22:17]</a>. He emphasizes ensuring that company growth is financed by generated cash flow and benefits, rather than relying on increasing capital, which can create "vicious circles" when the reflexive process turns negative <a class="yt-timestamp" data-t="00:22:38">[00:22:38]</a>.

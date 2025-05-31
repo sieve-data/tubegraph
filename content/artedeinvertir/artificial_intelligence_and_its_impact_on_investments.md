@@ -1,0 +1,49 @@
+---
+title: Artificial Intelligence and its impact on investments
+videoId: TuDhHLEVRvE
+---
+
+From: [[artedeinvertir]] <br/> 
+
+Prominent investor Druke Miller recently shared his insights on the future of the market, particularly highlighting the significant role of Artificial Intelligence (AI) in investment strategies <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. Miller is known for his successful track record in predicting macroeconomic trends <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. His interview touched upon various topics, including the real estate sector, future crises, and heavy investments in [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]] <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+## AI as a Real and Transformative Force
+
+Unlike previous market bubbles, such as the euphoria of 2021 or the dot-com bubble, Miller believes that [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]] is "something real" that adds value to society <a class="yt-timestamp" data-t="00:16:27">[00:16:27]</a>. It has the potential to increase the productivity of companies and reduce costs across many sectors <a class="yt-timestamp" data-t="00:16:32">[00:16:32]</a>. Miller asserts that AI has the capacity to fundamentally change the world, similar to the impact of the internet, personal computers, or smartphones <a class="yt-timestamp" data-t="00:16:38">[00:16:38]</a>.
+
+### Investment Philosophy in an AI-Driven Market
+
+Miller's current stock portfolio is heavily weighted towards [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]] companies <a class="yt-timestamp" data-t="00:16:07">[00:16:07]</a>. While the market may be weak in the coming months, he anticipates enormous investment opportunities, what he calls "the fat pitch" or "great opportunities," appearing within the next 6 to 24 months <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>.
+
+He acknowledges that AI might involve speculative bubbles <a class="yt-timestamp" data-t="00:18:25">[00:18:25]</a>. As a "disciple of Soros," Miller is willing to "surf bubbles," believing that if people get excited about a trend, he can ride the wave <a class="yt-timestamp" data-t="00:18:38">[00:18:38]</a>. He notes that such bubbles typically last at least two years, and he is prepared to be invested for two to five years, suggesting this could be "just the beginning" of the AI bubble <a class="yt-timestamp" data-t="00:19:11">[00:19:11]</a>.
+
+Capital flows into large technology companies in the [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]] sector have "totally shot up," even exceeding the euphoria seen in 2021 <a class="yt-timestamp" data-t="00:19:55">[00:19:55]</a>.
+
+## Companies Benefiting from AI
+
+Several types of companies are positioned to benefit from the rise of [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]]:
+
+*   **Processor Manufacturers:** Companies like Nvidia, which provide processors for AI processing and training, are expected to see significant growth <a class="yt-timestamp" data-t="00:30:22">[00:30:22]</a>. Nvidia's sales are projected to increase by 70% in the next year, irrespective of broader economic strength <a class="yt-timestamp" data-t="00:17:48">[00:17:48]</a>.
+*   **Cloud Service Providers:** Amazon and Google, with their extensive cloud infrastructure, are crucial as corporations need to store and process data in the cloud to connect to AI services like GPT <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>. Microsoft, having invested in OpenAI (GPT), also benefits from this synergy <a class="yt-timestamp" data-t="00:30:40">[00:30:40]</a>.
+*   **IT Service Companies:** Many companies, including Nagarro, Cognizant, Infosys, and EPAM, specialize in helping businesses transition data to the cloud, structure information, and adapt AI services to client needs <a class="yt-timestamp" data-t="00:31:34">[00:31:34]</a>. This requires a "huge human force" of programmers and engineers <a class="yt-timestamp" data-t="00:32:09">[00:32:09]</a>. Nagarro, for example, is making acquisitions to expand its reach and client base, offering additional products and services <a class="yt-timestamp" data-t="01:03:08">[01:03:08]</a>.
+*   **Software and Creative Tools:** Adobe is poised to benefit as [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]] integration, such as in Photoshop, could make complex tools accessible to a much broader market, potentially opening up a "huge market" beyond professionals <a class="yt-timestamp" data-t="00:33:14">[00:33:14]</a>.
+*   **Data Management and Predictive Analytics:** Palantir, which specializes in data management systems to predict security threats, has seen a resurgence <a class="yt-timestamp" data-t="00:38:42">[00:38:42]</a>. Its CEO stated that demand for their AI products is unprecedented in 20 years <a class="yt-timestamp" data-t="00:39:47">[00:39:47]</a>. However, whether this translates into sustained financial results remains to be seen <a class="yt-timestamp" data-t="00:40:23">[00:40:23]</a>.
+*   **Smaller, Specialized Firms:** Companies like Andata (AEYE) focus on helping companies structure and leverage data for [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]] <a class="yt-timestamp" data-t="00:35:25">[00:35:25]</a>. Andata's stock has multiplied by four in six months, driven by potential new contracts related to AI, even though current orders are small compared to potential figures <a class="yt-timestamp" data-t="00:35:09">[00:35:09]</a>. These smaller companies, often operating with losses or flat growth historically, can experience disproportionate increases during "bubble processes" <a class="yt-timestamp" data-t="00:38:00">[00:38:00]</a>.
+*   **Business Process Outsourcing (BPO):** Companies like Teleperformance and Concentrix, which handle outsourced services (e.g., customer service, document collection), are adapting to AI. While some fear AI will replace these services, these companies are integrating automation to increase margins and efficiency, potentially leading to more profitable growth, even if sales growth moderates <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>, <a class="yt-timestamp" data-t="01:18:14">[01:18:14]</a>, <a class="yt-timestamp" data-t="01:19:29">[01:19:29]</a>.
+*   **Productivity Tools for Programmers:** Gitlab, a company providing services to boost programmer productivity, is benefiting from the AI trend as it makes technology cheaper and enables digitalization of previously non-viable processes <a class="yt-timestamp" data-t="01:20:26">[01:20:26]</a>.
+
+## Challenges and Considerations for AI Implementation
+
+Despite its potential, the speaker warns of challenges and a potentially slower adoption pace for [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]]:
+
+*   **Implementation Failures:** According to a Gartner report, 70% to 80% of [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]] projects have failed due to issues like data security, operating problems, or "hallucinations" (unpredictable and potentially problematic responses from AI) <a class="yt-timestamp" data-t="01:01:20">[01:01:20]</a>. Companies are wary of reputational risk <a class="yt-timestamp" data-t="01:01:50">[01:01:50]</a>.
+*   **Need for Supervision:** [[disruptive_and_innovative_technologies_in_stock_investment | Artificial Intelligence]] will always require human supervision <a class="yt-timestamp" data-t="01:02:03">[01:02:03]</a>.
+*   **Proof of Concept:** Many companies are currently in the "proof of concept" (POC) phase, testing AI applications to assess profitability before committing to larger investments <a class="yt-timestamp" data-t="01:17:14">[01:17:14]</a>.
+*   **Competitive Advantage:** Established companies with existing data access and security protocols are better positioned to implement AI safely <a class="yt-timestamp" data-t="01:15:29">[01:15:29]</a>. This allows larger, more solid companies to gain market share from weaker competitors who cannot keep up with new technologies <a class="yt-timestamp" data-t="01:24:50">[01:24:50]</a>.
+*   **Evolution, Not Revolution (for some):** The core technology behind GPT chat has existed for months, but its media exposure has made AI a priority for corporate boards <a class="yt-timestamp" data-t="01:16:35">[01:16:35]</a>. However, for many sectors, AI represents a continuation of automation trends rather than a sudden, complete disruption <a class="yt-timestamp" data-t="01:18:04">[01:18:04]</a>.
+
+::info
+AI's impact on business is similar to how driving aids in cars were perceived. Initially, it was thought they would drastically reduce accidents and thus harm car repair businesses. However, while frequency might decrease, the cost of repairing complex, sensor-laden cars increased, sustaining the industry <a class="yt-timestamp" data-t="01:21:50">[01:21:50]</a>. Similarly, AI may not reduce demand for services but shift their nature and potentially expand margins <a class="yt-timestamp" data-t="01:23:44">[01:23:44]</a>.
+::
+
+Investors are advised to be cautious with "narratives" and differentiate between genuine investment and speculative processes <a class="yt-timestamp" data-t="01:19:57">[01:19:57]</a>, <a class="yt-timestamp" data-t="01:25:32">[01:25:32]</a>. While there's excitement around AI, some companies may face corrections if their stated potential doesn't translate into real growth <a class="yt-timestamp" data-t="00:37:01">[00:37:01]</a>.

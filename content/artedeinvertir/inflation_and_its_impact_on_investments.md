@@ -1,0 +1,56 @@
+---
+title: Inflation and its impact on investments
+videoId: T8Gyjh6ItjQ
+---
+
+From: [[artedeinvertir]] <br/> 
+
+The rise in prices, a situation of inflation, is currently a dominant force in the market, affecting stock markets and certain shares <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. This environment is characterized by rising interest rates and inflation <a class="yt-timestamp" data-t="00:34:14">[00:34:14]</a>.
+
+## Bill Ackman's Warning and Portfolio Strategy
+Prominent investor Bill Ackman has warned about a bubble situation in the economy, particularly in stock markets and specific shares <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. He believes the current market environment, characterized by easy money from the Fed and quantitative easing, is now being countered by rising interest rates, creating conflicting forces <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
+
+Ackman has stated that a movement of rising interest rates could have a significant [[impact_of_inflation_and_interest_rates_on_investments | significant impact on investments]] <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. He is preparing his portfolio for this by buying specific types of companies and using derivatives to protect against interest rate changes <a class="yt-timestamp" data-t="00:04:51">[00:04:51]</a>. While his derivative strategy is difficult for private investors to replicate, his company selection strategy offers valuable lessons <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
+
+### Key Characteristics of Companies Favored by Bill Ackman:
+Bill Ackman's strategy focuses on owning companies that are:
+
+*   **Predictable and Resilient**: Businesses whose earnings can be understood and predicted, and that are resistant to economic crises <a class="yt-timestamp" data-t="02:00:55">[02:00:55]</a>. Examples include companies where people continue to consume products like pizzas or burritos regardless of the economic situation, such as Domino's Pizza or Chipotle Mexican Grill <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>. These businesses are typically not as affected by the economic cycle <a class="yt-timestamp" data-t="02:07:07">[02:07:07]</a>.
+*   **Protected from Interest Rate and Inflation Movements**: Companies that can raise prices for their products or services as their costs increase due to inflation, without losing customers <a class="yt-timestamp" data-t="02:22:20">[02:22:20]</a>. This is known as "pricing power" <a class="yt-timestamp" data-t="02:29:31">[02:29:31]</a>.
+    *   For example, Chipotle can raise its menu prices when food costs rise, as it remains a good value proposition <a class="yt-timestamp" data-t="02:22:47">[02:22:47]</a>. Similarly, McDonald's was able to increase its gross margins during the 2007-2008 crisis by raising rents and royalties, which are tied to revenue, while its own costs remained stable <a class="yt-timestamp" data-t="02:37:09">[02:37:09]</a>.
+
+Bill Ackman's portfolio reflects this strategy, including companies like Domino's Pizza, Chipotle Mexican Grill, Hilton hotels, and Lowe's Companies, many of which also have low or no debt <a class="yt-timestamp" data-t="00:53:57">[00:53:57]</a>.
+
+## How Inflation Affects Different Sectors
+The speaker highlights specific sectors and their performance during inflationary periods and economic crises:
+
+*   **Raw Materials and Energy**: Under-investment in mining, oil, and gas, combined with money printing and infrastructure plans, is driving demand while supply is constrained. This suggests that the current cycle for raw materials and energy could be longer than previously estimated <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>.
+*   **Speculative Assets (e.g., EVs, SPACs, Renewables, Cloud Software, Cryptocurrencies)**: These assets thrived during periods of easy money and low inflation <a class="yt-timestamp" data-t="01:29:53">[01:29:53]</a>. However, when economic conditions tighten and inflation appears, these investments tend to reverse <a class="yt-timestamp" data-t="01:36:20">[01:36:20]</a>. Many of these companies did not produce profits and were valued at "stratospheric multiples," such as 40 times sales <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>. During a market downturn, they experienced average drops of 50-70% from their highs <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a>.
+    *   The speaker warns that multiplying money by 20 times every year from such investments is unrealistic and unsustainable <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
+*   **Companies with Pricing Power (e.g., Consumer Staples, Software)**: Businesses like Nike, McDonald's, Louis Vuitton, Apple, and software companies like Adobe and Oracle are considered predictable and durable <a class="yt-timestamp" data-t="02:57:57">[02:57:57]</a>. They can raise prices by a few percentage points annually, allowing the additional revenue to flow directly to profit, expanding margins <a class="yt-timestamp" data-t="02:48:48">[02:48:48]</a>.
+    *   Adobe, for instance, increased operating profit even as sales dipped slightly during the 2008 crisis <a class="yt-timestamp" data-t="02:29:27">[02:29:27]</a>. Microsoft announced a 20% price increase on Office products in 2022, which directly expands profit margins <a class="yt-timestamp" data-t="02:20:22">[02:20:22]</a>.
+*   **Cyclical Businesses (e.g., Steel, Automakers)**: Companies like ArcelorMittal (steel) are hyper-cyclical and sensitive to the economy <a class="yt-timestamp" data-t="02:20:57">[02:20:57]</a>. When the economy turns, demand for their products plummets, sales can drop significantly (e.g., 50% for ArcelorMittal in 2009), and profit margins collapse <a class="yt-timestamp" data-t="02:21:29">[02:21:29]</a>. These businesses are often characterized by low margins and high capital intensity <a class="yt-timestamp" data-t="02:20:53">[02:20:53]</a>.
+*   **Real Estate (Howard Hughes Corporation)**: Real estate assets tend to perform well in the face of inflation, as properties appreciate in value <a class="yt-timestamp" data-t="02:08:08">[02:08:08]</a>. Companies like Howard Hughes Corporation, which hold unique, difficult-to-replicate assets, are well-positioned <a class="yt-timestamp" data-t="02:15:14">[02:15:14]</a>.
+*   **Home Improvement Retail (Lowe's Companies)**: While seemingly cyclical, most sales for companies like Lowe's are recurring, driven by home maintenance and renovation rather than new construction <a class="yt-timestamp" data-t="02:09:38">[02:09:38]</a>. Sales for Lowe's only reduced by 2% during the 2008 US housing crisis, even as new home construction plummeted by 70% <a class="yt-timestamp" data-t="02:10:24">[02:10:24]</a>. This business model is resistant to general economic downturns.
+
+## The Importance of Cash Flow in an Inflationary Environment
+With inflation at 6% annually, investments need to generate good cash flow in the current moment; otherwise, their value depreciates <a class="yt-timestamp" data-t="01:29:25">[01:29:25]</a>. Long-term business projects that were not producing short-term benefits were favored when inflation was historically low, but this changes as inflation rises <a class="yt-timestamp" data-t="01:29:40">[01:29:40]</a>.
+
+## Investment Philosophy: Long-Term and Value-Oriented
+The speaker advocates for a long-term investment approach, focusing on understanding businesses rather than speculating on short-term market movements <a class="yt-timestamp" data-t="01:25:20">[01:25:20]</a>. This involves:
+
+*   **Understanding the Business**: Knowing how a company operates, its economic factors, and how it reacts to price changes <a class="yt-timestamp" data-t="02:11:14">[02:11:14]</a>.
+*   **Analyzing Fundamentals**: Reviewing a company's financial performance during past crises (e.g., 2008) to assess its resilience and predictability <a class="yt-timestamp" data-t="02:26:07">[02:26:07]</a>.
+*   **Assessing Valuation**: Determining if a stock is cheap or expensive relative to its future earnings and its historical trading range <a class="yt-timestamp" data-t="03:36:39">[03:36:39]</a>. A key principle is not to overpay for even a good business <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>.
+*   **Diversification**: While experts like Bill Ackman might concentrate their portfolios, it is recommended for most investors to diversify across 6-20 different shares to mitigate risk, ensuring these are not all overvalued stocks <a class="yt-timestamp" data-t="01:07:05">[01:07:05]</a>.
+*   **Patience**: The stock market behaves like a pendulum, swinging between euphoria and pessimism <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>. Investors should focus on the long-term value generation of the business, as short-term market volatility is unpredictable <a class="yt-timestamp" data-t="02:57:27">[02:57:27]</a>.
+
+> "Warren Buffett says you don't have to see the bag as something that proves you right or what it is the car removal of the day worried about if you go up and down or something like that because it will come back in a totally unique experience unpleasant to invest in the stock market you have to do it the other way around" <a class="yt-timestamp" data-t="02:12:46">[02:12:46]</a>
+
+## Historical Examples of Resilient Investments
+*   **See's Candies**: Warren Buffett's investment in See's Candies in 1972 for $25 million exemplifies a "perfect" business <a class="yt-timestamp" data-t="00:41:50">[00:41:50]</a>. It is resistant to crises, easy to understand, requires no R&D, and has strong pricing power, allowing it to raise prices by 5-6% annually while inflation was lower <a class="yt-timestamp" data-t="00:43:16">[00:43:16]</a>. This investment has generated nearly $2 billion in profits for Buffett <a class="yt-timestamp" data-t="00:46:17">[00:46:17]</a>.
+*   **McDonald's**: During the 2008 crisis, McDonald's sales only dropped slightly (3%), and its gross margins expanded due to its royalty and rental income model, demonstrating resilience during inflation and economic downturns <a class="yt-timestamp" data-t="00:33:43">[00:33:43]</a>.
+*   **Chipotle Mexican Grill**: Despite coming from a high growth rate, Chipotle's growth only slowed slightly during the 2008 crisis, and its gross margins expanded significantly in an inflationary period <a class="yt-timestamp" data-t="00:59:32">[00:59:32]</a>. The company also demonstrated resilience by recovering strongly after a temporary food crisis in 2016 <a class="yt-timestamp" data-t="01:00:26">[01:00:26]</a>.
+
+## Avoiding Shortcuts and Speculation
+The speaker warns against "shortcuts" in investing, such as relying on trading alerts, robots, or promises of easy money <a class="yt-timestamp" data-t="02:22:47">[02:22:47]</a>. Genuine success in the stock market requires self-education, hard work, and developing a deep understanding of businesses <a class="yt-timestamp" data-t="02:21:13">[02:21:13]</a>. Investing with common sense and a long-term perspective is key to navigating market volatility and achieving positive results <a class="yt-timestamp" data-t="02:26:25">[02:26:25]</a>.

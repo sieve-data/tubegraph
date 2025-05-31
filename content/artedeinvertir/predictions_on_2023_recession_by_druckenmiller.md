@@ -1,0 +1,60 @@
+---
+title: Predictions on 2023 recession by Druckenmiller
+videoId: wedLA5t8F4I
+---
+
+From: [[artedeinvertir]] <br/> 
+
+## Introduction to Stanley Druckenmiller
+Stanley Druckenmiller is widely regarded as one of the best investors, admired for his ability to accurately predict market movements <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. He is known for cutting losses swiftly and his skill in analyzing market trends <a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. Over 40 years, he outperformed George Soros, who managed indices of almost 15-20 percent annually, by an average of 30 additional points, achieving returns of up to 40 percent annually <a class="yt-timestamp" data-t="00:03:52">[00:03:52]</a>. His worst portfolio period involved a loss of only 18 percent, which he considered a "catastrophe" <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>.
+
+## Recession Prediction for 2023
+[[Stanley Druckenmillers economic forecast | Druckenmiller]] has predicted a [[Recession predictions and impact | recession]] in 2023 <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. He "firmly assumes" a recession will occur in 2023, though he does not specify if it will be at the beginning or end of the year <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. He anticipates the second half of 2022 to be "quite bearish" <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
+
+## Factors Leading to the Prediction
+Druckenmiller highlights several key factors contributing to his prediction:
+*   **Unprecedented Market Conditions**
+    The current market situation, characterized by 9% inflation, a contracting or deteriorating economy, and bond rates at only 3%, is unprecedented in history <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. He believes this combination could be dangerous for the coming months <a class="yt-timestamp" data-t="00:05:19">[00:05:19]</a>.
+*   **Federal Reserve Actions**
+    Three days prior to his interview, the Federal Reserve (Fed) initiated a significant market crash by raising interest rates from 0.75% directly, with three increases at once – a move not seen since 1994 <a class="yt-timestamp" data-t="00:02:39">[00:02:39]</a>. Historically, such actions have generated crises <a class="yt-timestamp" data-t="00:02:52">[00:02:52]</a>.
+    Druckenmiller's historical study indicates that inflation, when starting from a low point and exceeding 5% (currently 9%), has historically been resolved in two ways:
+    1.  The Fed raises rates above 5% <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
+    2.  Through a [[Recession predictions and impact | recession]] <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>.
+    He notes that rising rates increase the cost of money and mortgages, leading to a contraction <a class="yt-timestamp" data-t="00:07:06">[00:07:06]</a>. With consumer confidence at a minimum, an economic [[Recession predictions and impact | recession]] means less demand, which helps stabilize inflation <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. He bets on a [[Recession predictions and impact | recession]] because the current level of government indebtedness prevents the Fed from raising rates to 5% <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>. Instead, the Fed will likely raise rates slightly and allow a (hopefully soft) [[Recession predictions and impact | recession]] to destroy demand and reset the cycle <a class="yt-timestamp" data-t="00:07:55">[00:07:55]</a>.
+    The Fed has stated it will do "whatever it takes" to combat inflation and cannot guarantee a soft landing <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>. Historically, soft landings in similar macroeconomic situations have rarely occurred (e.g., only in 1994's mini-crisis) <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>.
+*   **Stock Market Valuation and Inflation**
+    High inflation levels significantly impact investments and savings <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>. With inflation above 5%, the average market valuation drops significantly <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. The ideal valuation is with very little inflation, where the average P/E (Price-to-Earnings) ratio is 19-20. However, with 4-5% inflation, the market P/E drops to 14-14.5 <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. The S&P 500 has already seen its valuation drop from above 21-22 <a class="yt-timestamp" data-t="00:09:42">[00:09:42]</a>.
+
+## Druckenmiller's Investment Strategy
+[[Stanley Druckenmillers economic forecast | Druckenmiller]] believes the first part of the market fall has already occurred <a class="yt-timestamp" data-t="00:17:03">[00:17:03]</a>. He explains that during bear markets, he typically doesn't bet against the market because bear markets often have significant rebounds that can tempt investors to close short positions prematurely <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a>. Instead, he operates with long-term bonds (e.g., 20-year bonds), as bonds tend to rise when the market anticipates a recession <a class="yt-timestamp" data-t="00:17:39">[00:17:39]</a>. However, this current [[Recession predictions and impact | recession]] is different because both the stock market and bonds have fallen, leading him to short both <a class="yt-timestamp" data-t="00:17:55">[00:17:55]</a>. Now, he thinks bonds are in a "more reasonable area of fair value" <a class="yt-timestamp" data-t="00:18:07">[00:18:07]</a>.
+
+For long-term investments, he emphasizes buying good companies whose valuations have been significantly compressed <a class="yt-timestamp" data-t="00:18:15">[00:18:15]</a>. He points to companies like Google, whose P/E ratio has dropped from almost 30 times earnings to 15 times earnings, making it the cheapest it has been in 7-8 years <a class="yt-timestamp" data-t="00:18:27">[00:18:27]</a>. He also notes that small-cap and medium-cap stocks are rarely as cheap in terms of valuation as they are currently <a class="yt-timestamp" data-t="00:19:24">[00:19:24]</a>.
+
+He is currently invested in the energy sector, expecting an energy deficit for 5-10 years if policies are not changed <a class="yt-timestamp" data-t="01:19:54">[01:19:54]</a>.
+
+## Detecting Market Crises: Leading Indicators
+Druckenmiller identifies specific sectors that function as leading indicators of market changes, as opposed to technical analysis tools <a class="yt-timestamp" data-t="01:11:50">[01:11:50]</a>. These cyclical and sensitive sectors, when they begin to compress or deteriorate, can signal future problems <a class="yt-timestamp" data-t="01:12:01">[01:12:01]</a>. This analysis informed his short position against the Nasdaq in recent months <a class="yt-timestamp" data-t="01:12:12">[01:12:12]</a>.
+
+He highlights three main sectors to watch:
+1.  **Transportation Sector:** The Dow Jones Transportation Average, usually lateral or upward, fell sharply during the 2020 crisis, indicating the [[Recession predictions and impact | recession]] that followed <a class="yt-timestamp" data-t="01:12:49">[01:12:49]</a>.
+2.  **Construction/Housing Sector (Homebuilders Index):** The American Homebuilders Index also acts as an advance indicator <a class="yt-timestamp" data-t="01:13:44">[01:13:44]</a>. It fell significantly in 2008 and again at the beginning of 2022, signaling impending issues <a class="yt-timestamp" data-t="01:13:52">[01:13:52]</a>. The average mortgage cost in the US has doubled, making it difficult to sell houses and causing the real estate sector to drop sharply <a class="yt-timestamp" data-t="01:14:55">[01:14:55]</a>.
+3.  **Retail Sector (Retail Sales Index):** Major retailers have fallen significantly more than the S&P 500 (30-50% compared to 21-22%), indicating negative behavior <a class="yt-timestamp" data-t="01:15:33">[01:15:33]</a>.
+
+Conversely, he notes that stable consumption and healthcare sectors are lagging indicators, meaning they may only decline later, even after a [[Recession predictions and impact | recession]] has begun, as people sell safer assets to capitalize on opportunities <a class="yt-timestamp" data-t="01:17:30">[01:17:30]</a>.
+
+## Historical Context and Market Behavior
+Markets anticipate [[Recession predictions and impact | recessions]]; the stock market often begins to fall six months to a year before a [[Recession predictions and impact | recession]] starts <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>. The current market has already experienced its first bearish leg <a class="yt-timestamp" data-t="00:05:46">[00:05:46]</a>. However, even if a [[Recession predictions and impact | recession]] occurs in 2023, the market often predicts recovery, as seen in 2009 when the stock market rose strongly despite a falling US economy <a class="yt-timestamp" data-t="00:06:09">[00:06:09]</a>. Investors tend to invest when the market is cheap, anticipating eventual recovery <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>.
+
+Historically, sharp market falls (like the 12% drop observed in recent days for the S&P 500) have been followed by significant rebounds in the subsequent 12 months. For example, a 12% drop in 2011 was followed by a 28% rise, and the 2020 crisis led to a 66% rise. Even the 2008 crisis, despite its severity, saw rises of 50% in subsequent months <a class="yt-timestamp" data-t="02:26:37">[02:26:37]</a>. The deeper the fall, the greater the subsequent rally <a class="yt-timestamp" data-t="02:27:04">[02:27:04]</a>.
+
+## Druckenmiller's View on Bitcoin and Gold
+[[Stanley Druckenmillers economic forecast | Druckenmiller]] remains unpositioned in Bitcoin <a class="yt-timestamp" data-t="02:22:57">[02:22:57]</a>. He stated that if an inflationary bull market were to occur, he would want to hold Bitcoin, especially if the Fed were "irresponsible" by failing to control inflation sufficiently <a class="yt-timestamp" data-t="02:23:06">[02:23:06]</a>. In such a scenario, stock markets and Bitcoin would rise significantly to reflect inflation <a class="yt-timestamp" data-t="02:23:29">[02:23:29]</a>.
+
+However, if there is a bear market with inflation (which is the current situation), he prefers gold <a class="yt-timestamp" data-t="02:23:37">[02:23:37]</a>. He invests in gold-producing companies and also copper <a class="yt-timestamp" data-t="02:23:46">[02:23:46]</a>.
+
+## Current Market Opportunities
+The current market conditions are presenting "ridiculous valuations" for both high-quality companies (trading at 7x earnings when the average is 15x) and fundamental growth companies in stable sectors (trading at 9x earnings) <a class="yt-timestamp" data-t="02:47:49">[02:47:49]</a>. The Russell 2000, representing 2,200 main small companies in the US, is trading below 10 times earnings, compared to its historical average of 15-16 <a class="yt-timestamp" data-t="02:53:50">[02:53:50]</a>. This represents a significant opportunity, as market falls of this type typically occur every 5-8 years <a class="yt-timestamp" data-t="02:24:45">[02:24:45]</a>.
+
+Druckenmiller's approach focuses on a very asymmetric risk-reward profile, where the potential benefit is very high, and the potential risk is very low <a class="yt-timestamp" data-t="04:29:29">[04:29:29]</a>. He notes that companies with strong competitive advantages, like Microsoft and Google, continue to grow their earnings consistently, even in challenging economic times, making their current lower valuations attractive <a class="yt-timestamp" data-t="03:59:02">[03:59:02]</a>. He also highlights that in these types of markets, industries like cybersecurity and digital transformation are considered "untouchable" by technology budget directors, as they reduce costs and are critical for business resilience <a class="yt-timestamp" data-t="05:20:55">[05:20:55]</a>.
+
+The present market environment, despite its challenges, offers a fertile ground for future returns for those willing to learn and adapt <a class="yt-timestamp" data-t="02:24:19">[02:24:19]</a>.

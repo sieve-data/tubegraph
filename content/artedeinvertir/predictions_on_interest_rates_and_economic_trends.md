@@ -1,0 +1,111 @@
+---
+title: Predictions on interest rates and economic trends
+videoId: BjVmcIw70Jw
+---
+
+From: [[artedeinvertir]] <br/> 
+
+This article summarizes key insights from a recent interview with investor Bacman, renowned for his accurate macroeconomic vision over the past two or three years <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. The discussion focuses on the current economic climate, future interest rate movements, and their potential [[impact_of_interest_rates_on_market_trends | impact on various market sectors]] <a class="yt-timestamp" data-t="00:00:38">[00:00:38]</a>.
+
+## Bacman's Economic Outlook
+Bacman suggests that the economy is currently weakening and could potentially enter a [[Recession predictions and impact | recession]] <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. He anticipates that the Federal Reserve (Fed) will respond by lowering interest rates, which could stimulate the economy and be highly positive for the [[current_trends_and_future_predictions_in_stock_market_and_investments | stock market and investment markets]] <a class="yt-timestamp" data-t="00:00:29">[00:00:29]</a>. He believes the next three months will be the most challenging for the economy, but a reversal is expected around the time the Fed acts <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>.
+
+Bacman's predictions are notable given his past successes:
+*   He made 2.6 trillion in profit during the COVID-19 pandemic by accurately predicting a significant drop in interest rates and market panic <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>.
+*   He also foresaw the inflation crisis of the last two years and profited from it through swaps <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>.
+*   More recently, he has invested in the opposite theme: lower interest rates and a possible [[Recession predictions and impact | recession]] <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+
+### Signs of Economic Weakening
+Observations supporting the weakening economy include:
+*   Signs observed in companies that Bacman's funds are invested in <a class="yt-timestamp" data-t="00:01:48">[00:01:48]</a>.
+*   Communication from other investment funds indicating the same trend <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>.
+*   Similar reports from transportation, real estate, materials, and industrial companies <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
+*   Advanced [[economic_indicators_and_their_implications | economic indicators]] show a historical correlation with recessions when they cross below zero, a pattern currently observed <a class="yt-timestamp" data-t="00:02:44">[00:02:44]</a>.
+*   While Q3 growth data for the United States was strong, Europe shows signs of slowdown, with Italy on the verge of [[Recession predictions and impact | recession]], and Germany and the UK already in [[Recession predictions and impact | recession]] <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. Spain's growth is also slowing <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
+*   The Atlanta Fed's advance data for US economic growth in the current quarter is only 1.2%, significantly lower than the usual 2.5% to 3% growth, with forecasts dropping <a class="yt-timestamp" data-t="01:16:02">[01:16:02]</a>. It could even be negative <a class="yt-timestamp" data-t="01:16:25">[01:16:25]</a>.
+
+## Impact of High Interest Rates on Debt and Investment
+A key factor in the economic slowdown is the impact of high interest rates on corporate debt <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. Companies took on significant debt when interest rates were low <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. Now, as this debt matures and needs to be renewed at higher rates, it creates a cascading effect:
+*   Companies face higher costs for debt <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>.
+*   This leads to a slowdown where companies stop investing and may have to lay off employees <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>.
+*   There has been a rare contraction of credit in the economy, comparable to the 2008 crisis, making it difficult for companies to secure new credit <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>.
+*   This also causes demand for credit to slow as people anticipate cheaper rates in the future <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>.
+
+## Historical Context of Fed Actions and Economic Cycles
+[[Economic indicators and their implications | Economic crises]] typically coincide with the final [[interest_rate_hikes_and_economic_implications | interest rate increases]] by [[central_banks_and_economic_recession_forecasts | central banks]] <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. After prolonged [[interest_rate_hikes_and_economic_implications | interest rate increases]], the Fed usually pauses, realizing they may have gone too far <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>. This pause typically lasts around six months before rates are reversed and lowered <a class="yt-timestamp" data-t="00:06:05">[00:06:05]</a>.
+
+### Bullish Impact of Rate Cuts
+When rates are decisively lowered, it is considered very bullish for the stock market <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
+*   Lower financing costs encourage investment <a class="yt-timestamp" data-t="00:06:37">[00:06:37]</a>.
+*   Optimism increases as money becomes cheap <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+*   This typically initiates a new economic cycle lasting 6, 8, or 10 years on average <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>.
+*   Historically, markets perform best when [[economic_indicators_and_their_implications | economic conditions]] are positive (due to [[interest_rate_hikes_and_economic_implications | interest rate cuts]] or low rates) and when the real economy is not in hyper-growth but also not in a severe [[Recession predictions and impact | recession]] <a class="yt-timestamp" data-t="01:13:17">[01:13:17]</a>.
+
+### Political Influence on Rate Decisions
+Bacman anticipates that [[interest_rate_hikes_and_economic_implications | interest rates]] will be lowered sooner than many expect, regardless of the upcoming 2024 election year <a class="yt-timestamp" data-t="00:08:24">[00:08:24]</a>. An early rate cut would stimulate the economy, raise asset values, and potentially make voters happy, benefiting the incumbent party <a class="yt-timestamp" data-t="00:08:03">[00:08:03]</a>. Historically, the stock market has performed very well in election years <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>.
+
+### The "Vacuum Cleaner" Effect of Real Interest Rates
+Bacman emphasizes that the Fed no longer has a justification to avoid stimulating the economy, as inflation is moderating <a class="yt-timestamp" data-t="01:10:05">[01:10:05]</a>. The high "real rate" of interest (Fed rates minus inflation) currently stands at 2% or 3% <a class="yt-timestamp" data-t="01:10:21">[01:10:21]</a>. This high real rate acts like a "vacuum cleaner," drawing money away from real businesses and consumption towards [[financial_market_analysis_and_predictions | financial investments]] like Treasury bills, which offer high yields with less risk <a class="yt-timestamp" data-t="01:10:57">[01:10:57]</a>. Bacman argues that the real interest rate must be reduced to encourage investment in the real economy <a class="yt-timestamp" data-t="01:11:27">[01:11:27]</a>.
+
+## Expected Timing of Rate Cuts
+Bacman's calculations suggest that [[interest_rate_hikes_and_economic_implications | interest rate cuts]] and a "starting signal" for market euphoria could occur in the first quarter of 2024, much sooner than people anticipate <a class="yt-timestamp" data-t="01:16:31">[01:16:31]</a>. This aligns with a historical pattern where economic crises appear to coincide with the last [[interest_rate_hikes_and_economic_implications | interest rate increases]] <a class="yt-timestamp" data-t="00:05:16">[00:05:16]</a>. The market is waiting for [[central_banks_and_economic_recession_forecasts | central banks]] to signal the end of rate hikes or initiate cuts, which historically triggers significant market increases <a class="yt-timestamp" data-t="01:13:35">[01:13:35]</a>.
+
+## Sectors Anticipated to Recover
+The speaker highlights five types of investments that have been significantly penalized by high [[interest_rate_hikes_and_economic_implications | interest rates]] over the past one to two years <a class="yt-timestamp" data-t="02:30:07">[02:30:07]</a> and are expected to reverse this trend:
+
+1.  **REITs (Real Estate Investments)**: Among the most sensitive to [[interest_rate_hikes_and_economic_implications | interest rates]], they have dropped significantly <a class="yt-timestamp" data-t="02:32:21">[02:32:21]</a>.
+2.  **Small Caps (Small Capitalization Companies)**: Have been heavily impacted, but are now seen as a good opportunity given low valuations <a class="yt-timestamp" data-t="02:32:29">[02:32:29]</a>. The SP600 index, representing 600 main American small caps, has seen little positive performance since 2018, leading to attractive valuations (11-13 times earnings, compared to a normal 18 times) <a class="yt-timestamp" data-t="02:37:02">[02:37:02]</a>.
+3.  **Fixed Income and Dividend Stocks**: The value of bonds dropped, and consequently, dividend stocks suffered because their yield becomes less attractive compared to higher-yielding bonds <a class="yt-timestamp" data-t="02:40:04">[02:40:04]</a>. When interest rates fall, dividend stock prices tend to rise <a class="yt-timestamp" data-t="02:41:14">[02:41:14]</a>.
+4.  **Cyclical Stocks**: Businesses sensitive to the [[economic_indicators_and_their_implications | economic cycle]] (e.g., construction, automotive, retail, transportation, airlines) were negatively impacted <a class="yt-timestamp" data-t="02:51:13">[02:51:13]</a>. However, they are now starting to recover as bond yields drop, despite potential recession fears <a class="yt-timestamp" data-t="02:53:02">[02:53:02]</a>.
+5.  **Companies with High Debt**: While always risky for cyclical companies, stable, predictable companies with manageable debt have been disproportionately penalized by the market due to higher debt servicing costs <a class="yt-timestamp" data-t="02:54:19">[02:54:19]</a>.
+
+## Case Studies and Company Examples
+
+### Altria (MO) <a class="yt-timestamp" data-t="03:48:47">[03:48:47]</a>
+*   **Sector**: Dividend Stock (Tobacco products, e.g., Marlboro) <a class="yt-timestamp" data-t="03:49:56">[03:49:56]</a>
+*   **Impact**: Offers a very high dividend yield (9%) due to rising bond yields; its stock price has decreased to adjust <a class="yt-timestamp" data-t="03:59:01">[03:59:01]</a>.
+*   **Fundamentals**: Operating profit has grown from 8 billion to 10 billion, and profit margins are increasing <a class="yt-timestamp" data-t="03:56:29">[03:56:29]</a>. It has diversified into "Smoke-free" products, compensating for the decline in traditional tobacco sales <a class="yt-timestamp" data-t="03:56:55">[03:56:55]</a>.
+*   **Outlook**: Forecasts mid-single-digit profit growth (around 5%) and similar dividend growth through 2028 <a class="yt-timestamp" data-t="03:58:26">[03:58:26]</a>. Trading at 8 times profits, down from 20 times years ago, indicating undervaluation <a class="yt-timestamp" data-t="03:59:21">[03:59:21]</a>.
+
+### IWG (IWG.L) - Formerly Regus <a class="yt-timestamp" data-t="04:37:37">[04:37:37]</a>
+*   **Sector**: Real Estate (coworking spaces), Small Cap, UK-focused <a class="yt-timestamp" data-t="04:16:04">[04:16:04]</a>
+*   **Impact**: Stock collapsed before COVID-19 and further with [[interest_rate_hikes_and_economic_implications | interest rate hikes]], down 65% from 2021 levels despite earning and invoicing similar to pre-2020 crisis <a class="yt-timestamp" data-t="04:09:57">[04:09:57]</a>.
+*   **Challenges**: Market sentiment affected by WeWork's bankruptcy and high office vacancy rates due to remote work <a class="yt-timestamp" data-t="04:38:50">[04:38:50]</a>.
+*   **Fundamentals**: Reported highest revenue figure in 34 years in the last year, with 24% growth <a class="yt-timestamp" data-t="04:50:09">[04:50:09]</a>. Demand for flexible office spaces is increasing <a class="yt-timestamp" data-t="04:51:15">[04:51:15]</a>.
+*   **New Business Model**: IWG is shifting to a "hotel model," managing empty office spaces for companies and charging a percentage of income without significant capital investment <a class="yt-timestamp" data-t="04:50:58">[04:50:58]</a>. This "asset-light" model allows for rapid growth (adding ~800 new centers annually) <a class="yt-timestamp" data-t="04:54:19">[04:54:19]</a>.
+*   **Outlook**: Aims to triple its size to 1 trillion EV/EBITDA in the medium term (around 5 years) <a class="yt-timestamp" data-t="05:26:01">[05:26:01]</a>. Initiated a dividend payment <a class="yt-timestamp" data-t="05:21:21">[05:21:21]</a>. Considering relisting in the United States from the UK for better valuation <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>.
+
+### Berry Global (BERY) <a class="yt-timestamp" data-t="05:32:56">[05:32:56]</a>
+*   **Sector**: Packaging for consumer products, Leveraged, Medium-sized <a class="yt-timestamp" data-t="05:32:56">[05:32:56]</a>
+*   **Impact**: Stock trading at similar levels as 2018 despite doubling profits, largely due to [[central_banks_and_economic_recession_forecasts | central banks]]' decisions and inflation fears <a class="yt-timestamp" data-t="05:40:08">[05:40:08]</a>. Market perceives its debt (around 3.5 times EBITDA) as dangerous in the current environment <a class="yt-timestamp" data-t="05:43:05">[05:43:05]</a>.
+*   **Fundamentals**: Manufactures packaging for non-cyclical consumer products (80% for regularly consumed goods like food, health products) <a class="yt-timestamp" data-t="05:43:25">[05:43:25]</a>. Historical sales growth of 13% and EPS growth of 20% <a class="yt-timestamp" data-t="05:54:06">[05:54:06]</a>.
+*   **Outlook**: Plans to start paying dividends and reduce debt through buybacks <a class="yt-timestamp" data-t="05:59:17">[05:59:17]</a>. Expects a total shareholder return of 10-15% annually, with profits growing 7-12% <a class="yt-timestamp" data-t="05:57:30">[05:57:30]</a>. Currently valued at 8 times earnings, compared to historical averages of 18-20 times for similar companies <a class="yt-timestamp" data-t="05:59:55">[05:59:55]</a>.
+
+### Other Companies Mentioned in the Context of Market Trends
+
+*   **SDI Group** and **J Scientific**: Experienced profit forecast reductions, primarily due to issues like China's situation and public sector spending <a class="yt-timestamp" data-t="01:45:07">[01:45:07]</a>.
+*   **British American Tobacco (BATS)**: Similar to Altria, but seen as less well-positioned in "Smoke-free" products, leading to market risk perception <a class="yt-timestamp" data-t="01:49:57">[01:49:57]</a>.
+*   **Celsius**: An energy drink company, it has seen massive growth (from 130 million to 1.3 billion in sales in a few years) but trades at a high 60 times earnings, raising questions about its long-term growth sustainability as a "fad" vs. a "Monster Energy" type success story <a class="yt-timestamp" data-t="01:53:07">[01:53:07]</a>.
+*   **Iberdrola (IBE.MC)**: A company with high growth but also less preferred by the market due to its high valuation multiple (around 30-40 times annual profits) <a class="yt-timestamp" data-t="02:51:24">[02:51:24]</a>.
+*   **Gois**: A company with significant positions in the True Value fund, which has recovered strongly and is at 52-week highs, despite earlier fears about its debt due to rising interest rates <a class="yt-timestamp" data-t="02:52:25">[02:52:25]</a>.
+*   **GDI**: Although presenting good results, the market is "anesthetized" partly due to lack of liquidity for small caps <a class="yt-timestamp" data-t="02:53:50">[02:53:50]</a>. Trades at 8 times EV/EBITDA, much cheaper than private transactions (12-15 times) and larger comparable companies <a class="yt-timestamp" data-t="02:54:00">[02:54:00]</a>.
+*   **Transunion**: Net income doubles with amortizations from acquisitions, which are not real costs but allow for less taxes <a class="yt-timestamp" data-t="03:33:57">[03:33:57]</a>.
+*   **Nagarro / Endava (DAVA)**: Companies in the digitalization sector that experienced a slowdown due to [[interest_rate_hikes_and_economic_implications | interest rate uncertainty]] but are now seeing increased demand and recovery as clarity emerges from [[central_banks_and_economic_recession_forecasts | central banks]] <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>.
+*   **Teleperformance**: Resumed significant share buybacks, which is seen as positive <a class="yt-timestamp" data-t="04:07:07">[04:07:07]</a>. Trades at 7 times profits despite recent drops <a class="yt-timestamp" data-t="04:12:20">[04:12:20]</a>.
+*   **Chinese Companies (e.g., Alibaba, JD)**: Heavily pressured downwards due to geopolitical risks between the US and China, despite potentially low valuations and high cash reserves <a class="yt-timestamp" data-t="04:51:51">[04:51:51]</a>.
+*   **Global Dominion**: A Spanish small cap in engineering services, trading at 4 times EV/EBITDA compared to a usual 8-9 times <a class="yt-timestamp" data-t="05:18:03">[05:18:03]</a>. Has doubled its EBITDA and increased profits significantly since 2018, yet is cheaper <a class="yt-timestamp" data-t="05:18:50">[05:18:50]</a>.
+*   **Estée Lauder**: A consumer product company that saw a significant drop in EBITDA and stock price due to high multiples, lockdown profit rises, inflation, slowdown, and competition <a class="yt-timestamp" data-t="05:24:24">[05:24:24]</a>.
+*   **Catalana Occidente (COG.MC)**: A conservative Spanish insurer, considered small-medium cap <a class="yt-timestamp" data-t="05:26:07">[05:26:07]</a>. Has suffered due to the general apathy towards small-medium caps and perceived "risky assets" when [[interest_rate_hikes_and_economic_implications | interest rates]] are high <a class="yt-timestamp" data-t="05:27:00">[05:27:00]</a>. Its valuation (6.6 times earnings) is near decade lows, despite doubled earnings per share since 2018 <a class="yt-timestamp" data-t="05:32:09">[05:32:09]</a>.
+*   **Fluidra (FDR.MC)**: Another Spanish company in the pool equipment sector, which has seen profit drops due to being cyclical <a class="yt-timestamp" data-t="05:41:09">[05:41:09]</a>.
+*   **Cie Automotive (CIE.MC)**: A leading global automotive component manufacturer, which is cyclical and small cap <a class="yt-timestamp" data-t="05:44:02">[05:44:02]</a>. Has managed inflation well and trades at a significant discount (PER 8) compared to its historical average (PER 12) <a class="yt-timestamp" data-t="05:44:02">[05:44:02]</a>.
+*   **Gestamp (GEST.MC)**: Also in the automotive sector, it has been even more penalized due to lower liquidity and the impact of [[central_banks_and_economic_recession_forecasts | central banks]] withdrawing liquidity <a class="yt-timestamp" data-t="05:47:04">[05:47:04]</a>. Its valuation has compressed by 60% (from PER 16 to PER 5) since 2021 <a class="yt-timestamp" data-t="05:50:57">[05:50:57]</a>.
+*   **Enphase Energy (ENPH)**: A microinverter company whose stock was affected by high [[interest_rate_hikes_and_economic_implications | interest rates]] impacting solar panel installations, but is now recovering as rates normalize <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>.
+*   **Planet Fitness (PLNT)**: A low-cost gym franchise that typically trades at demanding multiples <a class="yt-timestamp" data-t="06:26:55">[06:26:55]</a>. Experienced a 40% fall, partly due to a slight slowdown after spectacular previous years and a CEO change <a class="yt-timestamp" data-t="06:26:55">[06:26:55]</a>.
+*   **Telus International (TIXT)**: A services company with customer concentration (Google, Facebook) <a class="yt-timestamp" data-t="06:53:05">[06:53:05]</a>. Its valuation has dropped to 7 times earnings from 30 times, as growth slowed and margins compressed due to clients' efficiency drives <a class="yt-timestamp" data-t="07:01:49">[07:01:49]</a>. Expected margin recovery in 2024-2025 <a class="yt-timestamp" data-t="07:01:49">[07:01:49]</a>.
+*   **ESU**: Similar to Gois, but with more negativity due to being in the UK and having less liquidity, though it has very low debt and an even cheaper PER (7) <a class="yt-timestamp" data-t="07:19:00">[07:19:00]</a>.
+*   **Econocom (ECONO.BR)**: Trading at PER 5 <a class="yt-timestamp" data-t="07:55:00">[07:55:00]</a>.
+*   **Meta Platforms (META)**: Had very low valuations due to changing narratives (e.g., metaverse spending), which later changed, leading to recovery <a class="yt-timestamp" data-t="07:59:00">[07:59:00]</a>.
+*   **Crocs (CROX)**: A consumer product company whose core business is doing well, but diversification into other product lines has caused market negativity, despite solid results <a class="yt-timestamp" data-t="08:00:00">[08:00:00]</a>. Trades at PER 10, down from a normal PER 20 <a class="yt-timestamp" data-t="08:12:00">[08:12:00]</a>.
+
+## Conclusion
+The overall outlook suggests a potential shift from a period of restrictive [[economic_indicators_and_their_implications | economic conditions]] to one of easing, driven by anticipated [[interest_rate_hikes_and_economic_implications | interest rate cuts]] by [[central_banks_and_economic_recession_forecasts | central banks]] <a class="yt-timestamp" data-t="04:42:00">[04:42:00]</a>. This environment is expected to boost markets, especially sectors and companies that have been disproportionately penalized by high rates and associated fears <a class="yt-timestamp" data-t="02:30:07">[02:30:07]</a>. While the short-term remains volatile, the long-term fundamentals of quality businesses are expected to be recognized by the market <a class="yt-timestamp" data-t="01:47:48">[01:47:48]</a>.

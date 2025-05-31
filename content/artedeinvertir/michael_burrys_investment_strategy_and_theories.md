@@ -1,0 +1,87 @@
+---
+title: Michael Burrys investment strategy and theories
+videoId: xUT10wRyg0Q
+---
+
+From: [[artedeinvertir]] <br/> 
+
+[[history_and_investment_style_of_michael_burry | Michael Burry]], a renowned investor famously depicted in the movie *The Big Short*, is currently making headlines for [[michael_burrys_recent_stock_sale_and_market_outlook | selling the majority of his shares]], a move that has caused some confusion in the market due
+to the high level of investment reduction in his [[michael_burrys_investment_portfolio_and_the_six_stocks_he_holds | portfolio]] <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. [[history_and_investment_style_of_michael_burry | Burry]] has provided clues on his social media, particularly Twitter, explaining his rationale <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+
+## [[history_and_investment_style_of_michael_burry | Michael Burry's]] Background and Philosophy
+
+[[history_and_investment_style_of_michael_burry | Michael Burry]] gained legendary status for accurately predicting the 2007-2008 financial crisis, generating significant returns while others faced substantial losses <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. He began as a Value Investor, a philosophy focused on identifying undervalued small-cap companies with good investment potential <a class="yt-timestamp" data-t="00:02:38">[00:02:38]</a>. He grew a small fund from $1 million to $600 million before foreseeing the subprime mortgage crisis and achieving strong results <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
+
+In recent years, [[history_and_investment_style_of_michael_burry | Burry]] returned to managing money, primarily his own assets <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. His [[michael_burrys_investment_portfolio_and_the_six_stocks_he_holds | portfolio]] has been public for the last 43 years due to regulations requiring professional investors with over $100 million in US assets to disclose their holdings <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>. This public record shows he has consistently generated annual returns of 20% even in challenging markets <a class="yt-timestamp" data-t="00:03:28">[00:03:28]</a>. Early in his career, [[history_and_investment_style_of_michael_burry | Burry]] shared extensively on forums and blogs, offering insights into his investment techniques, stock selection, and portfolio management <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>.
+
+[[history_and_investment_style_of_michael_burry | Burry]] has been vocal about potential market dangers, drawing parallels to the 2008 crisis <a class="yt-timestamp" data-t="00:04:05">[00:04:05]</a>. He has warned about overvaluations in areas like the "SEPII cloud stock market," renewable energy, and cryptocurrencies, noting a significant concentration of euphoria in certain sectors <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>.
+
+## Reasons for Selling Shares: The "Inelastic Markets" Theory
+
+One of the key reasons behind [[michael_burrys_recent_stock_sale_and_market_outlook | Burry's recent selling]] is his theory of "inelastic markets" <a class="yt-timestamp" data-t="00:04:55">[00:04:55]</a>. This theory suggests that a dollar of new money invested in the market can generate significantly more than a dollar of value, often in a ratio of 5-to-1 or even 8-to-1, with some speculating up to 10-to-1 or 20-to-1 <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>. This occurs because when the market is rising, there's limited supply of shares as few are willing to sell, driving prices up <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>.
+
+### Accelerating Factors
+*   **Passive Investment**: [[history_and_investment_style_of_michael_burry | Burry]] explains that passive investing accelerates this effect <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. Unlike active funds that sell overvalued shares, passive or indexed funds are agnostic to price, buying shares at any cost to maintain index weightings <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>. This compulsory buying in a limited supply environment pushes prices up <a class="yt-timestamp" data-t="00:14:44">[00:14:44]</a>.
+*   **Share Buybacks**: Companies aggressively buying back their own shares also benefit from this inelastic effect, reducing available supply and driving prices higher <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>.
+*   **Retail Investors and Leverage**: The influx of new retail investors, especially those using leverage, has further destabilized the market <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>. A single dollar of new money can be leveraged 3 or 4 times, then multiplied by the inelastic market effect, potentially leading to a 20x multiplier on market value <a class="yt-timestamp" data-t="00:11:07">[00:11:07]</a>.
+
+### The Reversal of the Effect
+[[history_and_investment_style_of_michael_burry | Burry]] warns that this inelastic effect works in both directions <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>. When money begins to exit the market, for every dollar withdrawn, it can destroy five or three dollars of market value <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. He points to historical market downturns (e.g., 2015, 2018, March 2020) where rapid capital outflows led to vertical declines, with heavily indexed stocks experiencing significant single-day drops <a class="yt-timestamp" data-t="00:20:01">[00:20:01]</a>. He notes that the peak of stock market entry was March 2021, and since then, many overvalued stocks have begun correcting due to capital outflow <a class="yt-timestamp" data-t="00:17:05">[00:17:05]</a>.
+
+[[history_and_investment_style_of_michael_burry | Burry]] argues that the market will experience more pronounced, "Formula 1"-like movements, with accelerated rises and equally rapid falls <a class="yt-timestamp" data-t="00:18:39">[00:18:39]</a>. This is exacerbated by increased access to information, leading to quicker market reactions based on perceived economic or corporate profit futures <a class="yt-timestamp" data-t="00:21:50">[00:21:50]</a>.
+
+## [[michael_burrys_recent_stock_sale_and_market_outlook | Michael Burry's]] Recent Portfolio Changes
+
+[[michael_burrys_recent_stock_sale_and_market_outlook | Michael Burry's actions]] reflect his concerns <a class="yt-timestamp" data-t="00:25:20">[00:25:20]</a>. His publicly reported [[michael_burrys_investment_portfolio_and_the_six_stocks_he_holds | portfolio]] value dropped to only $41 million, a small percentage of his estimated personal wealth (between $300-$600 million) <a class="yt-timestamp" data-t="00:27:02">[00:27:02]</a>. He has liquidated virtually all his previous positions <a class="yt-timestamp" data-t="00:27:58">[00:27:58]</a>:
+*   Sold all put options on Tesla <a class="yt-timestamp" data-t="00:27:18">[00:27:18]</a>.
+*   Sold bullish bets on Facebook and Google <a class="yt-timestamp" data-t="00:27:41">[00:27:41]</a>.
+*   Liquidated bearish bets against the Cathie Wood fund and Google <a class="yt-timestamp" data-t="00:28:00">[00:28:00]</a>.
+*   He has also taken direct short positions against the entire market through derivatives <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>.
+
+This indicates a strong shift towards liquidity and a bearish outlook, suggesting he is "not knowing what to do" in the current environment and preferring cash <a class="yt-timestamp" data-t="00:27:50">[00:27:50]</a>.
+
+## [[analysis_of_individual_stocks_in_michael_burrys_portfolio | Analysis of Individual Stocks]] in [[michael_burrys_investment_portfolio_and_the_six_stocks_he_holds | Michael Burry's Portfolio]]
+
+Despite his overall negative stance, [[history_and_investment_style_of_michael_burry | Burry]] has made some small, interesting purchases, seemingly taking advantage of market dips <a class="yt-timestamp" data-t="00:28:09">[00:28:09]</a>. His remaining public positions, or new buys, include:
+
+### Lockheed Martin (LMT)
+[[history_and_investment_style_of_michael_burry | Burry]] has taken a fairly large position in Lockheed Martin <a class="yt-timestamp" data-t="00:34:07">[00:34:07]</a>.
+*   **Business Model**: Lockheed Martin is a defense weapons manufacturer, producing highly sophisticated pieces like the F-22 Raptor and F-35 jets, combat transport helicopters, and missile defense systems <a class="yt-timestamp" data-t="00:34:21">[00:34:21]</a>. These products are manufactured by very few entities globally, giving the company a significant competitive advantage <a class="yt-timestamp" data-t="00:34:47">[00:34:47]</a>.
+*   **Stability**: The company is considered non-cyclical with predictable income <a class="yt-timestamp" data-t="00:35:03">[00:35:03]</a>. While defense budgets and political shifts (Democrats vs. Republicans) can affect short-term speculation, the long-term business has prospered <a class="yt-timestamp" data-t="00:35:09">[00:35:09]</a>. Even during budget cuts, Lockheed Martin's operating profits have doubled because its products are essential for military supremacy <a class="yt-timestamp" data-t="00:48:42">[00:48:42]</a>.
+*   **Share Buybacks**: The company plans to use its strong balance sheet and low debt to buy back shares <a class="yt-timestamp" data-t="00:37:08">[00:37:08]</a>.
+*   **Valuation**: Lockheed Martin is currently trading at a low historical valuation range, around 12-13 times earnings, compared to its historical valuation of 22 times earnings <a class="yt-timestamp" data-t="00:56:17">[00:56:17]</a>. This appears attractive when considering its predictable growth and essential products.
+
+### CVS Health (CVS)
+CVS Health is another defensive business that [[history_and_investment_style_of_michael_burry | Burry]] holds <a class="yt-timestamp" data-t="01:04:01">[01:04:01]</a>.
+*   **Business Model**: CVS is a large healthcare company with various business lines, including health plans and insurance <a class="yt-timestamp" data-t="01:04:14">[01:04:14]</a>. The US private healthcare sector is very lucrative and predictable, as people continue to pay for medical expenses and insurance regardless of economic conditions <a class="yt-timestamp" data-t="01:04:27">[01:04:27]</a>.
+*   **Financials**: The company has consistently grown profits, even during challenging years like 2020 <a class="yt-timestamp" data-t="01:06:01">[01:06:01]</a>. They generate strong cash flow and have used it for share buybacks <a class="yt-timestamp" data-t="01:04:56">[01:04:56]</a>. CVS increased its profit outlook for 2021 to almost $8, and analysts expect further growth <a class="yt-timestamp" data-t="01:05:10">[01:05:10]</a>.
+*   **Valuation**: Despite its stable growth, CVS traded at a very low valuation in late 2020 (around $60-$70), reflecting market irrationality <a class="yt-timestamp" data-t="01:05:33">[01:05:33]</a>. It is currently in a medium range of its historical valuation <a class="yt-timestamp" data-t="01:11:20">[01:11:20]</a>.
+
+### DistributionNOW (DNOW)
+[[history_and_investment_style_of_michael_burry | Burry]] also bought into DistributionNOW (DNOW) <a class="yt-timestamp" data-t="01:17:16">[01:17:16]</a>.
+*   **Business Model**: DNOW distributes components and consumables for the oil and gas sector (e.g., valves, tanks, compression stations) <a class="yt-timestamp" data-t="01:17:31">[01:17:31]</a>. It acts as an intermediary, connecting numerous suppliers with numerous clients (oil companies, pipelines) <a class="yt-timestamp" data-t="01:18:06">[01:18:06]</a>.
+*   **Competitive Advantage**: This intermediary model thrives in fragmented industries, creating a "network effect" where a larger distributor attracts more suppliers and clients, fostering a virtuous circle <a class="yt-timestamp" data-t="01:21:15">[01:21:15]</a>.
+*   **Cyclicality**: The main challenge for DNOW is its cyclicality, tied directly to the oil and gas sector's investment levels <a class="yt-timestamp" data-t="01:22:11">[01:22:11]</a>. When oil prices are high, demand for components increases; when prices collapse, investment halts, impacting the distributor's profits <a class="yt-timestamp" data-t="01:22:21">[01:22:21]</a>. DNOW lost money in 2020 when oil prices were low, but rebounded to profitability as prices recovered <a class="yt-timestamp" data-t="01:23:29">[01:23:29]</a>.
+*   **Possible Rationale**: [[history_and_investment_style_of_michael_burry | Burry's]] interest might be linked to his [[michael_burrys_investment_strategies_against_inflation | inflationary outlook]], where higher oil prices would necessitate more capital expenditures in the sector <a class="yt-timestamp" data-t="01:24:18">[01:24:18]</a>. Historically, when oil was at $100, DNOW earned $100 million, making its current valuation (enterprise value of $600 million) seem cheap at 6x earnings <a class="yt-timestamp" data-t="01:24:37">[01:24:37]</a>.
+
+## Broader Investment Advice and Market Dynamics
+
+### Understanding Business and Intrinsic Value
+A core tenet of [[michael_burrys_investment strategies and advice for stock market success | sound investment strategy]] is understanding a business's intrinsic value, not just its stock price <a class="yt-timestamp" data-t="00:37:31">[00:37:31]</a>. This involves analyzing business models, accounting, sector dynamics, and future growth prospects to estimate future earnings and cash flow <a class="yt-timestamp" data-t="00:38:03">[00:38:03]</a>. While stock market prices are sovereign and can do "whatever they want," investors should operate based on their understanding of a business's fundamental worth <a class="yt-timestamp" data-t="00:29:38">[00:29:38]</a>.
+
+Warren Buffett advises buying a business below its intrinsic value, ideally when panic allows for even lower prices <a class="yt-timestamp" data-t="00:39:06">[00:39:06]</a>. The intrinsic value itself evolves with earnings per share, free cash flow, and net equity growth <a class="yt-timestamp" data-t="00:39:58">[00:39:58]</a>.
+
+### Market Volatility and Psychology
+The market is characterized by significant volatility, often driven by human emotions like greed, euphoria, and fear <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
+*   **Herd Mentality**: When money rushes in, it creates upward parabolas; when losses emerge, emotional selling leads to sharp corrections <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
+*   **Accelerated Reactions**: Increased access to information means markets react faster, requiring investors to act more decisively both when identifying opportunities and managing risks <a class="yt-timestamp" data-t="00:22:12">[00:22:12]</a>.
+*   **Psychological Biases**: Investors must overcome biases, such as the belief that past performance guarantees future returns <a class="yt-timestamp" data-t="01:10:03">[01:10:03]</a>. The market does not move in a straight line, and embracing volatility is crucial for finding opportunities <a class="yt-timestamp" data-t="01:35:20">[01:35:20]</a>.
+
+### Learning from History
+History does not repeat itself exactly, but it provides valuable insights into how businesses behave in different economic environments <a class="yt-timestamp" data-t="01:51:40">[01:51:40]</a>. Studying past crises or specific industry trends can help investors understand a company's resilience and predictable earning capacity <a class="yt-timestamp" data-t="00:44:03">[00:44:03]</a>. The speaker highlights that human nature and emotions remain constant over centuries, influencing market behavior in similar patterns <a class="yt-timestamp" data-t="01:53:05">[01:53:05]</a>.
+
+### The Importance of Training and Understanding
+[[michael_burrys_investment strategies and advice for stock market success | Michael Burry's investment strategies]] underscore that success in the stock market is not about "easy money" or following external recommendations <a class="yt-timestamp" data-t="01:02:02">[01:02:02]</a>. It requires deep understanding, analytical skills, and emotional control <a class="yt-timestamp" data-t="02:28:10">[02:28:10]</a>. Investors should strive to understand the business model, why a company makes money, and how resilient its profits are against competition, economic downturns, or regulatory changes <a class="yt-timestamp" data-t="01:19:02">[01:19:02]</a>. This knowledge empowers investors, turning them from "stock market tourists" who are easily misled into "powerful people" capable of discerning true value <a class="yt-timestamp" data-t="02:44:19">[02:44:19]</a>.
+
+## Conclusion
+[[history_and_investment_style_of_michael_burry | Michael Burry's]] current strategy of significant share sales and short positions reflects his deep concern over market overvaluation and the destabilizing effects of passive investing and retail leverage. His emphasis on the "inelastic markets" theory provides a framework for understanding rapid market movements. His remaining portfolio choices, though few, highlight a consistent focus on defensive, predictable businesses with strong competitive advantages, even in uncertain times. Ultimately, [[michael_burrys_investment strategies and advice for stock market success | Burry's approach]] reinforces the importance of rigorous fundamental analysis, historical understanding, and emotional discipline for navigating complex market environments.
