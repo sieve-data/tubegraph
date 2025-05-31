@@ -1,0 +1,67 @@
+---
+title: Building custom AI models for enterprises
+videoId: sLsYzhk_4CY
+---
+
+From: [[redpointai]] <br/> 
+
+The landscape of [[enterprise_use_of_ai_and_model_specialization | enterprise AI adoption]] and usage is rapidly evolving, with various [[enterprise_ai_deployment_models | models for deployment]] emerging <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>. While some approaches lean towards direct consulting or out-of-the-box products, a middle ground is anticipated to win out in the long term, requiring a degree of support for enterprises to integrate this new, complex technology <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+
+## The Need for Custom AI Models
+
+AI agents require extensive access to enterprise data—such as emails, chat, calls, CRM, ERP, and HR software—to effectively drive automation <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. This presents unique [[challenges_and_strategies_in_enterprise_ai_deployment | challenges]]:
+
+*   **Privacy Concerns** This level of access raises significant privacy issues, which are more pronounced for AI agents than for other types of enterprise software <a class="yt-timestamp" data-t="00:02:27">[00:02:27]</a>.
+*   **Diverse Software Ecosystems** Each company utilizes a unique combination of software, necessitating custom setup to bring all relevant context together and integrate it into the AI model <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a> <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>.
+
+While general models are becoming extraordinary, there remains a fundamental need for [[role_of_custom_models_and_enterprise_ai_integration | custom models]] to address specific business or domain contexts <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a> <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>. Data not readily available on the web, such as manufacturing data, customer transactions, or detailed personal health records, necessitates custom model development to close this knowledge gap <a class="yt-timestamp" data-t="00:11:15">[00:11:15]</a> <a class="yt-timestamp" data-t="00:11:29">[00:11:29]</a>.
+
+## Coher's Approach to Custom Models
+
+Coher, for example, partners with organizations that possess this proprietary data to create custom models accessible only to them, enabling deep specialization within those domains <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a> <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>.
+
+The company recognized that customers were repeatedly building similar applications on top of their models <a class="yt-timestamp" data-t="00:18:23">[00:18:23]</a>. These applications, often built by internal AI teams rather than product teams, frequently lacked user-friendliness <a class="yt-timestamp" data-t="00:18:48">[00:18:48]</a>.
+
+This led to the development of "North," an application platform designed to solve the entire deployment problem for enterprises <a class="yt-timestamp" data-t="00:18:57">[00:18:57]</a>. North aims to provide a consumer-grade product experience that is:
+*   Intuitive and low-latency <a class="yt-timestamp" data-t="00:19:06">[00:19:06]</a>.
+*   Customizable in UI, branding, data connections, and tool access <a class="yt-timestamp" data-t="00:19:17">[00:19:17]</a>.
+*   Capable of integrating third-party models, like Llama fine-tunes, if desired <a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>.
+
+Coher's strategy involves being vertically integrated, optimizing its generative model, Command, for specific enterprise use cases, such as interacting with ERP and CRM systems <a class="yt-timestamp" data-t="00:21:00">[0:21:00]</a> <a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a>. This deep integration between model development and customer needs is considered crucial for product quality <a class="yt-timestamp" data-t="00:21:31">[00:21:31]</a>.
+
+### Data Strategies for Custom Models
+
+Human evaluation remains the gold standard for assessing model usefulness <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a> <a class="yt-timestamp" data-t="00:13:15">[00:13:15]</a>. However, generating training data, especially for specialized domains like medicine, is cost-prohibitive with human labor alone <a class="yt-timestamp" data-t="00:13:47">[00:13:47]</a>.
+
+The ability of general models to "chitchat" and converse has unlocked significant potential for synthetic data generation <a class="yt-timestamp" data-t="00:14:14">[00:14:14]</a> <a class="yt-timestamp" data-t="00:14:16">[00:14:16]</a>. This allows for training models in specific domains like medicine using a much smaller pool of human data, then expanding it through synthetic data generation <a class="yt-timestamp" data-t="00:14:24">[00:14:24]</a>.
+
+For domains with verifiable outcomes, such as code and math, it's easier to filter synthetic data by checking results <a class="yt-timestamp" data-t="00:14:49">[00:14:49]</a>. Currently, an overwhelming majority of data generated by Coher for new models is synthetic <a class="yt-timestamp" data-t="00:15:11">[00:15:11]</a> <a class="yt-timestamp" data-t="00:15:18">[00:15:18]</a>.
+
+## [[strategic_uses_of_ai_in_enterprises | Strategic Uses of AI in Enterprises]]
+
+Current [[enterprise_and_consumer_ai_trends | enterprise use cases]] for Generative AI with product-market fit can be categorized:
+
+*   **Vertical Applications**: Examples include making note-taking and form-filling easier for doctors by passively listening to doctor-patient interactions <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>.
+*   **General Categories**:
+    *   **Customer Support**: The technology and need are aligned, leading to rapid adoption across various verticals like telco, healthcare, and financial services <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a> <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+    *   **Research Augmentation**: Agents can perform months' worth of research in hours, significantly boosting productivity for knowledge workers in fields like banking wealth management <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a> <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. This capability allows models to read vastly more information than humans and provide robust, cited research for auditing <a class="yt-timestamp" data-t="00:06:42">[00:06:42]</a> <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>.
+
+Reasoning models, which can dynamically allocate computational energy based on problem complexity, represent a significant advancement <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. They have unlocked the ability for models to reflect on and understand why initial attempts failed, enabling them to find alternative paths to solutions <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>. This has transformed previously impossible tasks into solvable ones <a class="yt-timestamp" data-t="00:16:24">[00:16:24]</a> <a class="yt-timestamp" data-t="00:16:36">[00:16:36]</a>.
+
+Looking ahead, deep research-style use cases are ready for prime time and are expected to be integrated into nearly every enterprise <a class="yt-timestamp" data-t="00:23:42">[00:23:42]</a>. Additionally, mundane back-office tasks in finance, legal, and sales are expected to come online as automation infrastructure like North becomes more widespread <a class="yt-timestamp" data-t="00:24:22">[00:24:22]</a> <a class="yt-timestamp" data-t="00:24:57">[00:24:57]</a>.
+
+## Future of Model Specialization
+
+There is a debate between the path to "one model to rule them all" versus a world of specialized models <a class="yt-timestamp" data-t="00:10:19">[00:10:19]</a> <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>. While general models have become powerful, custom models are still vital for capturing domain-specific information not found on the web <a class="yt-timestamp" data-t="00:10:52">[00:10:52]</a> <a class="yt-timestamp" data-t="00:11:02">[00:11:02]</a>.
+
+It is unlikely that every single team within an organization will have its own fine-tuned model <a class="yt-timestamp" data-t="00:12:17">[00:12:17]</a>. Instead, organizations might have a handful of models <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>.
+
+Initially, enterprises may adopt a federated approach, with different teams purchasing specialized applications <a class="yt-timestamp" data-t="00:26:37">[00:26:37]</a>. However, this will likely lead to a consolidation phase, driven by the unsustainable maintenance burden of integrating disparate applications and data sources <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a> <a class="yt-timestamp" data-t="00:27:09">[00:27:09]</a>. The long-term goal is a single platform plugged into everything, capable of accomplishing diverse automation objectives <a class="yt-timestamp" data-t="00:27:10">[00:27:10]</a>.
+
+New generations of foundation models are expected to emerge for specific domains, such as biology, chemistry, and material science <a class="yt-timestamp" data-t="00:32:13">[00:32:13]</a>. These will require substantial capital investment to leverage specialized, siloed data <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a> <a class="yt-timestamp" data-t="00:34:43">[00:34:43]</a>.
+
+## Impact of Continued Model Improvement
+
+A key missing capability in current models is the ability to learn from experience and user interaction <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a> <a class="yt-timestamp" data-t="00:08:58">[00:08:58]</a>. This "learning from experience" through continuous feedback is expected to unlock significant potential <a class="yt-timestamp" data-t="00:44:46">[00:44:46]</a>. If models could retain feedback across interactions, users would be more invested, as the models would grow with them, learning preferences and becoming more personalized <a class="yt-timestamp" data-t="00:46:05">[00:46:05]</a>. This might involve storing interaction history in a queryable database, always available as context to the model <a class="yt-timestamp" data-t="00:45:48">[00:45:48]</a>.
+
+The "scale is all you need" hypothesis is breaking down, with diminishing returns on capital and compute <a class="yt-timestamp" data-t="00:09:21">[00:09:21]</a> <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a>. The future will require smarter and more creative approaches to achieve the next level of technological advancement <a class="yt-timestamp" data-t="00:09:35">[00:09:35]</a>. While test-time compute still demands significant computational resources, the increasing abundance and decreasing cost of compute, along with diverse hardware options, are positive trends for the industry <a class="yt-timestamp" data-t="00:39:06">[00:39:06]</a> <a class="yt-timestamp" data-t="00:39:23">[00:39:23]</a> <a class="yt-timestamp" data-t="00:39:53">[00:39:53]</a>.

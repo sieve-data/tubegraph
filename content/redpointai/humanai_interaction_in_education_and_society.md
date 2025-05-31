@@ -1,0 +1,27 @@
+---
+title: HumanAI interaction in education and society
+videoId: atMRWzgHEGg
+---
+
+From: [[redpointai]] <br/> 
+
+The rapid advancements in large language models (LLMs) and artificial intelligence (AI) are fundamentally changing how humans interact with technology, with significant implications for education and society at large. Experts at Google, involved in the Gemini LLM efforts, shared their insights on the current capabilities, future potential, and societal impact of these powerful AI systems <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
+
+## AI in Education
+The integration of AI, particularly models like Gemini, into education is highlighted as a transformative development. One example demonstrates how a four-year-old child, under supervision, uses Gemini to identify and learn about plants and lizards by taking pictures <a class="yt-timestamp" data-t="00:50:13">[00:50:13]</a>. This creates a highly accurate, [[personalized_learning_through_AI | personalized encyclopedia]] for the child, allowing them to absorb information and use scientific names like "western fence lizard" and "blue-tailed skink" in conversation <a class="yt-timestamp" data-t="00:50:27">[00:50:27]</a>. This kind of [[AI in education]] is seen as creating a new type of learning experience, potentially leading to future generations seeming "smarter" <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>.
+
+The ability of AI models to follow more abstract instructions is crucial for applications like education, where providing a reward signal over a qualitative piece of work requires understanding broad rubrics or even subjective criteria like "good style" or "interesting" <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>. Training models with reinforcement learning against such feedback signals is already showing promising results <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>.
+
+## User Interaction with AI Models
+The user experience with Gemini models, particularly the Gemini app, indicates that users are willing to tolerate a few seconds of latency if it means receiving a higher quality answer <a class="yt-timestamp" data-t="00:12:32">[00:12:32]</a>. The ability to inspect the model's "thoughts" or reasoning process is also appreciated by users <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>. This direct interaction and the "Mom Vibe Check" (where a user's mother successfully engages with the AI on open-ended questions like the meaning of life) are considered ultimate tests for whether AI has moved from the "Twitter sphere to the real world" <a class="yt-timestamp" data-t="00:12:55">[00:12:55]</a>.
+
+Multimodal capabilities, such as processing image input, are remarkably effective, especially when combined with "thinking" processes <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>. Users are "red teaming" models with difficult visual reasoning problems, demonstrating their practical utility beyond simple text-based interactions <a class="yt-timestamp" data-t="00:14:08">[00:14:08]</a>. The integration of multimodal understanding into agentic tasks, like web browsing agents, enables the AI to scan and understand screens, acting on various websites effectively <a class="yt-timestamp" data-t="00:14:25">[00:14:25]</a>.
+
+## Societal Implications and Responsible AI
+The conversation acknowledges that AI is becoming increasingly general-purpose, leading to a product with "billions and billions of use cases that are unanticipated" <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>. This generality suggests that developers cannot foresee all applications, and users often discover novel ways to employ the technology <a class="yt-timestamp" data-t="00:16:51">[00:16:51]</a>.
+
+Concerns about AGI (Artificial General Intelligence) risks are considered "moderately" concerning <a class="yt-timestamp" data-t="00:55:49">[00:55:49]</a>. A key concern is the difficulty in finding examples of creations that become significantly more intelligent than their creators but still act in predictable and useful ways <a class="yt-timestamp" data-t="00:56:00">[00:56:00]</a>. More pragmatic concerns include ensuring AI is constructive to the economy and prevents sharp changes in the employment landscape <a class="yt-timestamp" data-t="00:56:23">[00:56:23]</a>.
+
+To address these concerns, there is an emphasis on [[AI in education and responsible use | responsible development]] and safety, with internal groups dedicated to holistic evaluation of potential unintended consequences of model launches <a class="yt-timestamp" data-t="00:56:52">[00:56:52]</a>. The idea of AI being "smarter" than humans is likened to children being smarter than their parents, suggesting that if humans respect their parents, AI might learn to respect its creators <a class="yt-timestamp" data-t="00:57:51">[00:57:51]</a>.
+
+The role of humanity in a future with advanced AI is also contemplated. While human labor might become less "materially necessary," people will need to find new sources of meaning, possibly through spiritual pursuits or doing things that "matter materially" now <a class="yt-timestamp" data-t="00:52:14">[00:52:14]</a>. The historical analogy of television's introduction causing fears of decreased attention spans is used to suggest that some anxieties about AI might be unnecessary, but also acknowledging that AI presents both strong benefits and concrete risks <a class="yt-timestamp" data-t="00:54:11">[00:54:11]</a>.

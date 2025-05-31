@@ -1,352 +1,352 @@
 ---
 title: redpointai
 ---
-### [Noam Shazeer and Jack Rae: Scaling Test-time Compute, Reactions to Ilya & AGI](https://www.youtube.com/watch?v=atMRWzgHEGg)
-- [[scaling_testtime_compute_in_ai_models | Scaling testtime compute in AI models]]
-- [[advancements_in_ai_model_infrastructure_for_testtime_compute | Advancements in AI model infrastructure for testtime compute]]
-- [[open_source_versus_closed_source_models_in_ai | Open source versus closed source models in AI]]
-- [[the_limitations_and_potential_of_current_ai_models_towards_agi | The limitations and potential of current AI models towards AGI]]
-- [[the_impact_of_ai_on_research_coding_and_education | The impact of AI on research coding and education]]
-
-### [The AI Startup Going After Google Search](https://www.youtube.com/watch?v=A2uBXF8iPKY)
-- [[the_future_of_search_and_aidriven_search_engines | The future of search and AIdriven search engines]]
-- [[building_ai_startups_and_the_challenges_of_scaling | Building AI startups and the challenges of scaling]]
-- [[perplexity_ais_approach_to_model_development_and_integration | Perplexity AIs approach to model development and integration]]
-- [[the_role_of_generative_ai_in_preserving_memories | The role of generative AI in preserving memories]]
-- [[the_evolving_landscape_of_ai_regulation_and_safety | The evolving landscape of AI regulation and safety]]
-
-### [OpenAI's Noam Brown Unpacks the Full Release of o1 and the Path to AGI](https://www.youtube.com/watch?v=OoL8K_AFqkw)
-- [[scaling_ai_models_and_test_time_compute | Scaling AI models and test time compute]]
-- [[the_current_and_future_trajectory_of_agi_development | The current and future trajectory of AGI development]]
-- [[challenges_in_ai_research_and_potential_solutions | Challenges in AI research and potential solutions]]
-- [[the_role_of_ai_in_advancing_scientific_research | The role of AI in advancing scientific research]]
-- [[economic_and_strategic_considerations_in_ai_model_deployment | Economic and strategic considerations in AI model deployment]]
-
-### [What has PMF Today, Google is Cooking & GPT Wrappers are Winning | With Latent Space](https://www.youtube.com/watch?v=P6y0gr-W2-k)
-- [[open_source_models_and_adoption_challenges | Open source models and adoption challenges]]
-- [[ai_product_market_fit_and_emerging_applications | AI product market fit and emerging applications]]
-- [[ai_infrastructure_and_developer_tools | AI infrastructure and developer tools]]
-- [[defensibility_and_network_effects_in_ai_applications | Defensibility and network effects in AI applications]]
-- [[hardware_and_compute_scalability_challenges_in_ai | Hardware and compute scalability challenges in AI]]
+### [The 1-Year Old AI Startup That’s Rivaling OpenAI](https://www.youtube.com/watch?v=_N2KPEdh69s)
+- [[mistral_ais_open_source_llm_development | Mistral AIs open source LLM development]]
+- [[ai_policy_and_regulation | AI policy and regulation]]
+- [[enterprise_use_of_ai_and_model_specialization | Enterprise use of AI and model specialization]]
+- [[challenges_in_ai_model_training_and_scalability | Challenges in AI model training and scalability]]
+- [[the_role_of_language_and_localization_in_ai_models | The role of language and localization in AI models]]
 
 ### [SemiAnalysis Founder Dylan Patel on New AI Regulations, Chinese AI & xAI's Surge to Hyperscale](https://www.youtube.com/watch?v=7EH0VjM3dTk)
-- [[ai_regulations_and_their_impact_on_geopolitics | AI regulations and their impact on geopolitics]]
-- [[chinese_ai_development_and_restrictions | Chinese AI development and restrictions]]
-- [[ai_infrastructure_and_data_center_challenges | AI infrastructure and data center challenges]]
-- [[hyperscale_ai_development_by_companies_like_xai | Hyperscale AI development by companies like xAI]]
-- [[the_role_of_testtime_compute_in_ai_models | The role of testtime compute in AI models]]
+- [[ai_regulations_and_geopolitical_impact | AI regulations and geopolitical impact]]
+- [[chinese_ai_and_competitive_dynamics | Chinese AI and competitive dynamics]]
+- [[building_and_deploying_hyperscale_gpu_clusters | Building and deploying hyperscale GPU clusters]]
+- [[challenges_and_innovations_in_ai_hardware | Challenges and innovations in AI hardware]]
+- [[the_future_of_ai_models_and_open_source_development | The future of AI models and open source development]]
 
-### [Stanford AI Researcher on What’s Next in Research, Reaction to o1 and How AI will Change Simulation](https://www.youtube.com/watch?v=ZEi4OTuFa3I)
-- [[ai_research_at_stanford_and_percys_projects | AI research at Stanford and Percys projects]]
-- [[advancements_and_implications_of_ai_models_like_o1 | Advancements and implications of AI models like o1]]
-- [[the_role_of_simulation_and_generative_agents_in_ai | The role of simulation and generative agents in AI]]
-- [[challenges_and_future_of_ai_interpretability_and_regulation | Challenges and future of AI interpretability and regulation]]
-- [[potential_and_development_of_ai_in_music_and_other_industries | Potential and development of AI in music and other industries]]
+### [Noam Shazeer and Jack Rae: Scaling Test-time Compute, Reactions to Ilya & AGI](https://www.youtube.com/watch?v=atMRWzgHEGg)
+- [[testtime_compute_in_ai | Testtime compute in AI]]
+- [[impact_of_open_source_models_in_ai_development | Impact of open source models in AI development]]
+- [[role_of_ai_in_general_intelligence_and_application_development | Role of AI in general intelligence and application development]]
+- [[humanai_interaction_in_education_and_society | HumanAI interaction in education and society]]
+- [[infrastructure_changes_for_scaling_ai_models | Infrastructure changes for scaling AI models]]
 
-### [Ex-OpenAI Chief Research Officer: What Comes Next for AI?](https://www.youtube.com/watch?v=a0bEU83P8g8)
-- [[challenges_and_advancements_in_ai_model_development | Challenges and advancements in AI model development]]
-- [[openais_organizational_culture_and_evolution | OpenAIs organizational culture and evolution]]
-- [[future_of_ai_in_industrial_applications_and_potential_impact | Future of AI in industrial applications and potential impact]]
-- [[multimodal_ai_and_video_model_innovations | Multimodal AI and video model innovations]]
-- [[prospects_and_challenges_in_robotics_and_ai_integration | Prospects and challenges in robotics and AI integration]]
-
-### [Khan Academy Founder: Predictions About the Future of AI Education](https://www.youtube.com/watch?v=jhxNF-8NLQ4)
-- [[future_of_ai_in_education | Future of AI in education]]
-- [[ai_powered_tutoring_tools | AI powered tutoring tools]]
-- [[impact_of_ai_on_teachers_and_students | Impact of AI on teachers and students]]
-- [[proactive_ai_interventions | Proactive AI interventions]]
-- [[implementing_ai_at_the_district_level | Implementing AI at the district level]]
-
-### [The 1-Year Old AI Startup That’s Rivaling OpenAI](https://www.youtube.com/watch?v=_N2KPEdh69s)
-- [[mistral_ai_and_its_competition_with_openai | Mistral AI and its competition with OpenAI]]
-- [[open_source_vs_closed_source_large_language_models | Open source vs closed source large language models]]
-- [[ai_policy_and_regulation_implications | AI policy and regulation implications]]
-- [[future_development_areas_for_ai_and_efficiency_optimizations | Future development areas for AI and efficiency optimizations]]
-- [[enterprise_partnerships_and_ai_application_deployment | Enterprise partnerships and AI application deployment]]
-
-### [David Luan: DeepSeek’s Significance, What’s Next for Agents & Lessons from OpenAI](https://www.youtube.com/watch?v=AU9Fdgs0ZaI)
-- [[advancements_and_implications_of_ai_agents | Advancements and implications of AI agents]]
-- [[deepseeks_impact_on_ai_and_models | DeepSeeks impact on AI and models]]
-- [[lessons_and_culture_from_openais_development | Lessons and culture from OpenAIs development]]
-- [[challenges_and_future_directions_for_ai_in_various_domains | Challenges and future directions for AI in various domains]]
-- [[progress_and_bottlenecks_in_ai_and_robotics | Progress and bottlenecks in AI and robotics]]
+### [The AI Startup Going After Google Search](https://www.youtube.com/watch?v=A2uBXF8iPKY)
+- [[the_future_of_search_technology_and_visualization | The future of search technology and visualization]]
+- [[ai_models_and_the_product_development_process | AI models and the product development process]]
+- [[the_evolution_of_ai_startup_strategies | The evolution of AI startup strategies]]
+- [[challenges_and_opportunities_in_aipowered_search_engines | Challenges and opportunities in AIpowered search engines]]
+- [[using_ai_for_personalized_user_experiences | Using AI for personalized user experiences]]
 
 ### [Claude 4, Next Phase for AI Coding, and the Path to AI Coworkers](https://www.youtube.com/watch?v=W1aGV4K3A8Y)
-- [[impact_and_future_of_anthropics_claude_4_models | Impact and future of Anthropics Claude 4 models]]
-- [[ai_coding_and_software_engineering_advancements | AI coding and software engineering advancements]]
-- [[trends_in_alignment_research_and_ai_safety | Trends in alignment research and AI safety]]
-- [[challenges_and_opportunities_in_aiagent_development | Challenges and opportunities in AIagent development]]
-- [[influence_of_ai_on_economics_and_societal_transformation | Influence of AI on economics and societal transformation]]
+- [[anthropics_claude_4_models_and_their_capabilities | Anthropics Claude 4 models and their capabilities]]
+- [[ai_advancements_in_coding_and_software_engineering | AI advancements in coding and software engineering]]
+- [[future_potential_of_autonomous_ai_agents_in_various_fields | Future potential of autonomous AI agents in various fields]]
+- [[challenges_and_progress_in_ai_model_alignment_research | Challenges and progress in AI model alignment research]]
+- [[impact_of_ai_on_labor_markets_and_global_productivity | Impact of AI on labor markets and global productivity]]
+
+### [What has PMF Today, Google is Cooking & GPT Wrappers are Winning | With Latent Space](https://www.youtube.com/watch?v=P6y0gr-W2-k)
+- [[ai_infrastructure_and_tooling | AI infrastructure and tooling]]
+- [[product_market_fit_in_ai | Product market fit in AI]]
+- [[open_source_model_adoption | Open source model adoption]]
+- [[defensibility_at_the_application_layer | Defensibility at the application layer]]
+- [[enterprise_and_consumer_ai_trends | Enterprise and consumer AI trends]]
 
 ### [Expert AI Researcher Reacts to o1 and Shares What's Next in Reasoning and Post-Training](https://www.youtube.com/watch?v=NLFboNNKCME)
-- [[retrieval_augmented_generation_and_contextual_ai | Retrieval augmented generation and contextual AI]]
-- [[innovations_in_posttraining_and_model_reasoning | Innovations in posttraining and model reasoning]]
-- [[challenges_in_enterprise_ai_deployment | Challenges in Enterprise AI deployment]]
-- [[openais_o1_model_and_systemlevel_innovation | OpenAIs o1 model and systemlevel innovation]]
-- [[alignment_in_reinforcement_learning | Alignment in reinforcement learning]]
+- [[retrievalaugmented_generation_and_innovations_in_reasoning | RetrievalAugmented Generation and Innovations in Reasoning]]
+- [[posttraining_model_optimization_in_ai | PostTraining Model Optimization in AI]]
+- [[challenges_and_strategies_in_enterprise_ai_deployment | Challenges and Strategies in Enterprise AI Deployment]]
+- [[role_of_synthetic_data_and_multimodal_systems_in_ai_development | Role of Synthetic Data and Multimodal Systems in AI Development]]
+- [[evaluating_ai_systems_and_managing_humanai_collaboration | Evaluating AI Systems and Managing HumanAI Collaboration]]
 
-### [How Snowflake is Uniquely Positioned to Win in AI](https://www.youtube.com/watch?v=FhIPUFZhKzI)
-- [[snowflakes_ai_strategy_and_products | Snowflakes AI strategy and products]]
-- [[building_and_utilizing_large_language_models | Building and utilizing large language models]]
-- [[enterprise_applications_for_ai_including_business_intelligence_and_data_extraction | Enterprise applications for AI including business intelligence and data extraction]]
-- [[challenges_and_optimizations_in_ai_model_training_and_inference | Challenges and optimizations in AI model training and inference]]
-- [[ai_governance_and_data_security_within_enterprise_environments | AI governance and data security within enterprise environments]]
+### [Khan Academy Founder: Predictions About the Future of AI Education](https://www.youtube.com/watch?v=jhxNF-8NLQ4)
+- [[ai_in_education | AI in education]]
+- [[future_classroom_environments | Future classroom environments]]
+- [[ai_tutoring_systems | AI tutoring systems]]
+- [[teacher_augmentation_with_ai | Teacher augmentation with AI]]
+- [[ai_models_and_educational_engagement | AI models and educational engagement]]
 
-### [Inside OpenAI's New Agent Development Tools](https://www.youtube.com/watch?v=Awvj4yLYafo)
-- [[openai_agent_development_tools | OpenAI agent development tools]]
-- [[enterprise_adoption_of_ai_agents | Enterprise adoption of AI agents]]
-- [[trends_and_challenges_in_ai_infrastructure | Trends and challenges in AI infrastructure]]
-- [[the_role_of_reinforcement_and_finetuning_in_ai | The role of reinforcement and finetuning in AI]]
-- [[strategic_considerations_for_ai_application_developers | Strategic considerations for AI application developers]]
+### [AI 2027 Co-Authors Map Out AI’s Spread of Outcomes on Humanity](https://www.youtube.com/watch?v=yxDTbFZbmLg)
+- [[ai_safety_and_alignment | AI safety and alignment]]
+- [[development_of_super_intelligence | Development of super intelligence]]
+- [[policy_implications_of_ai_advancements | Policy implications of AI advancements]]
+- [[impact_of_ai_on_job_displacement | Impact of AI on job displacement]]
+- [[international_competition_in_ai_particularly_between_the_us_and_china | International competition in AI particularly between the US and China]]
 
-### [RFT Launch, How OpenAI Improves Its Models & the State of AI Agents Today](https://www.youtube.com/watch?v=NNGbaiN1L7Y)
-- [[improving_gpt_41_for_developers | Improving GPT 41 for developers]]
-- [[state_and_future_of_ai_agents | State and future of AI agents]]
-- [[rft_and_finetuning_techniques | RFT and finetuning techniques]]
-- [[challenges_in_ai_model_training_and_deployment | Challenges in AI model training and deployment]]
-- [[personalization_and_steerability_of_ai_models | Personalization and steerability of AI models]]
+### [Ex-OpenAI Chief Research Officer: What Comes Next for AI?](https://www.youtube.com/watch?v=a0bEU83P8g8)
+- [[future_of_ai_and_pretraining_challenges | Future of AI and pretraining challenges]]
+- [[challenges_in_deploying_ai_models_effectively | Challenges in deploying AI models effectively]]
+- [[advancements_and_potential_of_video_and_robotics_models | Advancements and potential of video and robotics models]]
+- [[cultural_and_organizational_changes_at_openai | Cultural and organizational changes at OpenAI]]
+- [[role_of_agency_and_intelligence_in_society_with_ai | Role of agency and intelligence in society with AI]]
 
-### [A Discussion about When We Will Reach AGI](https://www.youtube.com/watch?v=MvxtIIqJRUQ)
-- [[timeline_for_achieving_agi_and_superintelligence | Timeline for achieving AGI and superintelligence]]
-- [[openais_approach_to_product_development_and_platform_strategy | OpenAIs approach to product development and platform strategy]]
-- [[challenges_with_ai_models_including_hallucinations_and_bias | Challenges with AI models including hallucinations and bias]]
-- [[the_role_and_potential_of_open_source_models_in_ai | The role and potential of open source models in AI]]
-- [[concerns_and_considerations_for_ai_safety_and_regulation | Concerns and considerations for AI safety and regulation]]
+### [Stanford AI Researcher on What’s Next in Research, Reaction to o1 and How AI will Change Simulation](https://www.youtube.com/watch?v=ZEi4OTuFa3I)
+- [[ai_research_and_innovation | AI research and innovation]]
+- [[openais_new_model_release_and_its_implications | OpenAIs new model release and its implications]]
+- [[generative_agents_and_virtual_simulations | Generative agents and virtual simulations]]
+- [[ai_model_evaluation_and_benchmarking | AI model evaluation and benchmarking]]
+- [[the_role_of_academia_in_ai_development | The role of academia in AI development]]
 
-### [Unpacking AI Agent Hype vs. Reality with Arvind Narayanan](https://www.youtube.com/watch?v=NoVMk_P6fgY)
-- [[ai_agent_hype_versus_reality | AI agent hype versus reality]]
-- [[ai_models_and_their_impact_on_productivity | AI models and their impact on productivity]]
-- [[role_of_ai_in_education | Role of AI in education]]
-- [[ai_evaluations_and_benchmarking | AI evaluations and benchmarking]]
-- [[regulation_and_policy_implications_of_ai | Regulation and policy implications of AI]]
-
-### [GitHub's CEO’s Boldest Predictions about the Future of Code](https://www.youtube.com/watch?v=iaoxbVqhewo)
-- [[github_copilot_and_its_impact_on_software_development | GitHub Copilot and its impact on software development]]
-- [[the_role_of_ai_in_the_future_of_coding_and_developer_ecosystems | The role of AI in the future of coding and developer ecosystems]]
-- [[the_evolution_and_sustainability_of_open_source_projects_with_ai | The evolution and sustainability of open source projects with AI]]
-- [[challenges_and_opportunities_with_legacy_code_systems_like_cobol_in_the_age_of_ai | Challenges and opportunities with legacy code systems like COBOL in the age of AI]]
-- [[role_and_expectations_of_software_developers_in_the_context_of_ai_advancements | Role and expectations of software developers in the context of AI advancements]]
-
-### [The AI Developer Platform with an 80,000-Person Waitlist](https://www.youtube.com/watch?v=xLtZ2kyoYic)
-- [[lang_chain_as_a_framework_for_ai_development | Lang chain as a framework for AI development]]
-- [[ai_applications_in_sports_analytics | AI applications in sports analytics]]
-- [[challenges_and_strategies_in_ai_model_evaluation | Challenges and strategies in AI model evaluation]]
-- [[integration_and_orchestration_of_ai_applications | Integration and orchestration of AI applications]]
-- [[future_trends_in_ai_and_personalization | Future trends in AI and personalization]]
-
-### [Superhuman CEO on Why Email Will Never Die, the Role of AI & Everything That's Wrong With Slack](https://www.youtube.com/watch?v=cIJ8hMLCboE)
-- [[future_of_email_and_ai_integration | Future of email and AI integration]]
-- [[role_and_impact_of_ai_in_email_management | Role and impact of AI in email management]]
-- [[challenges_and_innovations_in_email_startup | Challenges and innovations in email startup]]
-- [[competing_against_tech_incumbents_like_gmail_and_outlook | Competing against tech incumbents like Gmail and Outlook]]
-- [[future_of_ai_agents_in_productivity_tools | Future of AI agents in productivity tools]]
+### [OpenAI's Noam Brown Unpacks the Full Release of o1 and the Path to AGI](https://www.youtube.com/watch?v=OoL8K_AFqkw)
+- [[scaling_challenges_in_ai_and_test_time_compute | Scaling challenges in AI and test time compute]]
+- [[path_to_artificial_general_intelligence_agi | Path to artificial general intelligence AGI]]
+- [[the_economics_and_resource_costs_of_ai_model_scaling | The economics and resource costs of AI model scaling]]
+- [[applications_and_implications_of_multimodal_ai_models | Applications and implications of multimodal AI models]]
+- [[ai_advancements_in_scientific_research_and_social_sciences | AI advancements in scientific research and social sciences]]
 
 ### [AI Will Create the Next 1 Billion Software Creators](https://www.youtube.com/watch?v=n6PazYmo_Qo)
-- [[ais_impact_on_software_development | AIs impact on software development]]
-- [[replit_and_its_approach_to_integrating_ai | Replit and its approach to integrating AI]]
-- [[the_role_of_ai_in_education_and_coding_learning | The role of AI in education and coding learning]]
-- [[the_future_of_software_engineering_with_ai | The future of software engineering with AI]]
-- [[developing_and_utilizing_ai_models_in_the_tech_industry | Developing and utilizing AI models in the tech industry]]
+- [[role_of_ai_in_expanding_software_developers | Role of AI in expanding software developers]]
+- [[benefits_and_challenges_of_ai_in_coding_education | Benefits and challenges of AI in coding education]]
+- [[pros_and_cons_of_building_proprietary_ai_models | Pros and cons of building proprietary AI models]]
+- [[open_source_ai_models_and_limitations | Open source AI models and limitations]]
+- [[future_of_ai_agents_in_software_development | Future of AI agents in software development]]
+
+### [Unpacking AI Agent Hype vs. Reality with Arvind Narayanan](https://www.youtube.com/watch?v=NoVMk_P6fgY)
+- [[ai_agent_capabilities_and_limitations | AI agent capabilities and limitations]]
+- [[ai_in_education_and_human_interaction | AI in education and human interaction]]
+- [[ai_and_the_future_of_work | AI and the future of work]]
+- [[ai_regulation_and_policy_implications | AI regulation and policy implications]]
+- [[ai_evaluation_and_benchmarking | AI evaluation and benchmarking]]
+
+### [Inside OpenAI's New Agent Development Tools](https://www.youtube.com/watch?v=Awvj4yLYafo)
+- [[openais_agent_development_tools | OpenAIs agent development tools]]
+- [[developers_approach_to_ai_models_and_agents | Developers approach to AI models and agents]]
+- [[ai_infrastructure_and_startup_opportunities | AI infrastructure and startup opportunities]]
+- [[multiagent_architecture_in_enterprise_settings | Multiagent architecture in enterprise settings]]
+- [[challenges_in_productizing_ai_capabilities | Challenges in productizing AI capabilities]]
 
 ### [Former Meta CTO: The Path to Powering the AI Revolution](https://www.youtube.com/watch?v=nkOB4LDNo7I)
-- [[ai_and_its_impact_on_energy_consumption | AI and its impact on energy consumption]]
-- [[the_role_of_ai_in_fighting_climate_change | The role of AI in fighting climate change]]
-- [[fusion_and_other_energy_technologies | Fusion and other energy technologies]]
-- [[the_evolution_of_ai_developer_tools_and_hardware | The evolution of AI developer tools and hardware]]
-- [[ais_influence_on_industry_landscapes | AIs influence on industry landscapes]]
+- [[ai_and_energy_requirements | AI and energy requirements]]
+- [[role_of_ai_in_climate_change | Role of AI in climate change]]
+- [[advancements_in_ai_developer_tools | Advancements in AI developer tools]]
+- [[future_of_ai_in_vr_and_personal_agents | Future of AI in VR and personal agents]]
+- [[ais_impact_on_job_roles_like_cto | AIs impact on job roles like CTO]]
+
+### [GitHub's CEO’s Boldest Predictions about the Future of Code](https://www.youtube.com/watch?v=iaoxbVqhewo)
+- [[githubs_role_in_the_developer_ecosystem | GitHubs role in the developer ecosystem]]
+- [[ai_in_software_development_with_github_copilot | AI in software development with GitHub Copilot]]
+- [[impact_of_ai_on_opensource_contribution | Impact of AI on opensource contribution]]
+- [[future_of_software_development_and_ai | Future of software development and AI]]
+- [[githubs_strategic_direction_and_innovations | GitHubs strategic direction and innovations]]
 
 ### [Aidan Gomez: Scaling Limits Emerging, AI Use-cases with PMF & Life After Transformers](https://www.youtube.com/watch?v=sLsYzhk_4CY)
-- [[enterprise_ai_adoption_and_deployment_models | Enterprise AI adoption and deployment models]]
-- [[data_labeling_and_the_role_of_synthetic_data_in_ai | Data labeling and the role of synthetic data in AI]]
-- [[the_future_of_ai_architectures_beyond_transformers | The future of AI architectures beyond transformers]]
-- [[ai_usecases_with_product_market_fit | AI usecases with product market fit]]
-- [[learning_from_experience_and_model_personalization | Learning from experience and model personalization]]
+- [[building_custom_ai_models_for_enterprises | Building custom AI models for enterprises]]
+- [[privacy_and_access_in_ai_applications | Privacy and access in AI applications]]
+- [[enterprise_ai_deployment_models | Enterprise AI deployment models]]
+- [[limitations_of_current_ai_models_and_future_architecture | Limitations of current AI models and future architecture]]
+- [[role_of_data_labeling_and_synthetic_data_in_ai | Role of data labeling and synthetic data in AI]]
+
+### [RFT Launch, How OpenAI Improves Its Models & the State of AI Agents Today](https://www.youtube.com/watch?v=NNGbaiN1L7Y)
+- [[development_and_improvements_of_gpt_41 | Development and improvements of GPT 41]]
+- [[evaluation_methodologies_and_user_feedback_for_ai_models | Evaluation methodologies and user feedback for AI models]]
+- [[the_future_and_current_state_of_ai_agents | The future and current state of AI agents]]
+- [[finetuning_and_reinforcement_learning_techniques_for_ai | Finetuning and reinforcement learning techniques for AI]]
+- [[challenges_and_strategies_in_deploying_ai_models_for_developers | Challenges and strategies in deploying AI models for developers]]
+
+### [A Discussion about When We Will Reach AGI](https://www.youtube.com/watch?v=MvxtIIqJRUQ)
+- [[future_of_artificial_general_intelligence_agi | Future of artificial general intelligence AGI]]
+- [[open_source_models_versus_proprietary_ai_models | Open source models versus proprietary AI models]]
+- [[challenges_and_opportunities_in_ai_development | Challenges and opportunities in AI development]]
+- [[approaches_to_ai_safety_and_alignment | Approaches to AI safety and alignment]]
+- [[enterprise_adoption_and_use_cases_for_ai | Enterprise adoption and use cases for AI]]
+
+### [Superhuman CEO on Why Email Will Never Die, the Role of AI & Everything That's Wrong With Slack](https://www.youtube.com/watch?v=cIJ8hMLCboE)
+- [[the_future_of_email_and_ai_integration | The Future of Email and AI Integration]]
+- [[the_role_of_ai_agents_in_email_management | The Role of AI Agents in Email Management]]
+- [[challenges_in_competing_with_email_incumbents | Challenges in Competing with Email Incumbents]]
+- [[superhumans_product_evolution_with_ai | Superhumans Product Evolution with AI]]
+- [[understanding_the_market_for_aipowered_solutions | Understanding the Market for AIPowered Solutions]]
 
 ### [Self-Driving Expert Unpacks the Biggest Breakthroughs and Bottlenecks](https://www.youtube.com/watch?v=Ctuf2Y0MrcA)
-- [[integration_of_ai_in_autonomous_vehicles | Integration of AI in autonomous vehicles]]
-- [[role_of_large_language_models_in_robotics_and_selfdriving_technology | Role of large language models in robotics and selfdriving technology]]
-- [[challenges_in_achieving_full_autonomy_in_selfdriving_cars | Challenges in achieving full autonomy in selfdriving cars]]
-- [[advancements_in_simulation_and_world_modeling_for_autonomous_technology | Advancements in simulation and world modeling for autonomous technology]]
-- [[impact_of_ai_on_education_and_unconventional_applications | Impact of AI on education and unconventional applications]]
-
-### [Two Startup Legends are Building the Bell Labs of AI](https://www.youtube.com/watch?v=ZtY8VXswa2o)
-- [[lean_startup_principles_in_ai | Lean Startup principles in AI]]
-- [[challenges_and_opportunities_in_ai_applications_for_legal_and_education_sectors | Challenges and opportunities in AI applications for legal and education sectors]]
-- [[the_bell_labs_approach_to_ai_research_and_development | The Bell Labs approach to AI research and development]]
-- [[regulatory_and_safety_issues_in_ai_model_development | Regulatory and safety issues in AI model development]]
-- [[cost_efficiency_and_accessibility_in_ai_technologies | Cost efficiency and accessibility in AI technologies]]
-
-### [SalesforceAI CEO on Future of Slack, How Gucci Uses AI and Working with Marc Benioff](https://www.youtube.com/watch?v=j_zQHo-M8yY)
-- [[salesforce_ai_and_its_applications | Salesforce AI and its applications]]
-- [[guccis_ai_integration_in_customer_service | Guccis AI integration in customer service]]
-- [[enterprise_ai_adoption_challenges | Enterprise AI adoption challenges]]
-- [[trust_and_data_security_in_ai | Trust and data security in AI]]
-- [[ais_role_in_slack_and_enterprise_communication | AIs role in Slack and enterprise communication]]
-
-### [Databricks AI Head: New Model Architectures are Unlikely, When to Pre-Train/Fine Tune and AI Policy](https://www.youtube.com/watch?v=7-3IxVvWoxc)
-- [[model_architectures_in_ai | Model architectures in AI]]
-- [[pretraining_and_finetuning_ai_models | Pretraining and finetuning AI models]]
-- [[ai_policy_and_ethics | AI policy and ethics]]
-- [[challenges_and_strategies_in_ai_deployment | Challenges and strategies in AI deployment]]
-- [[enterprise_ai_model_management | Enterprise AI model management]]
-
-### [DeepL CEO on Specialized vs. General Models, Beating Google and a Synchronous Translation Future](https://www.youtube.com/watch?v=JW6DiD_V9hk)
-- [[specialized_vs_general_ai_models | Specialized vs General AI Models]]
-- [[synchronous_speech_translation | Synchronous Speech Translation]]
-- [[beating_google_in_ai_translation | Beating Google in AI Translation]]
-- [[inhouse_data_labeling_and_infrastructure | Inhouse Data Labeling and Infrastructure]]
-- [[translation_in_diverse_language_markets | Translation in Diverse Language Markets]]
+- [[breakthroughs_in_autonomous_vehicle_technology | Breakthroughs in autonomous vehicle technology]]
+- [[challenges_and_bottlenecks_in_selfdriving_cars | Challenges and bottlenecks in selfdriving cars]]
+- [[role_of_ai_models_in_advancing_robotics_and_autonomous_driving | Role of AI models in advancing robotics and autonomous driving]]
+- [[world_models_and_simulation_in_ai_development | World models and simulation in AI development]]
+- [[the_future_of_ai_in_robotics_and_its_impact | The future of AI in robotics and its impact]]
 
 ### [A Masterclass in Building AI Applications From Legora's CEO](https://www.youtube.com/watch?v=GlBY-zbwaXU)
-- [[building_ai_applications_for_the_legal_industry | Building AI applications for the legal industry]]
-- [[ais_impact_on_the_legal_sector | AIs impact on the legal sector]]
-- [[challenges_and_strategies_in_ai_model_development | Challenges and strategies in AI model development]]
-- [[global_expansion_of_ai_companies | Global expansion of AI companies]]
-- [[ai_integration_and_product_development_strategies | AI integration and product development strategies]]
+- [[ai_applications_in_the_legal_industry | AI applications in the legal industry]]
+- [[product_development_and_prioritization_in_ai_startups | Product development and prioritization in AI startups]]
+- [[challenges_and_strategies_in_expanding_ai_applications_globally | Challenges and strategies in expanding AI applications globally]]
+- [[the_impact_of_ai_on_traditional_legal_practices | The impact of AI on traditional legal practices]]
+- [[building_and_maintaining_a_highgrowth_ai_startup | Building and maintaining a highgrowth AI startup]]
 
-### [The AI Startup That Sky Rocketed to $750M](https://www.youtube.com/watch?v=1gLHnRDiIms)
-- [[vector_databases_and_their_impact_on_ai_applications | Vector databases and their impact on AI applications]]
-- [[challenges_and_opportunities_in_ai_infrastructure_development | Challenges and opportunities in AI infrastructure development]]
-- [[the_evolution_and_adoption_of_serverless_architecture_in_ai_startups | The evolution and adoption of serverless architecture in AI startups]]
-- [[cost_optimization_and_economic_considerations_for_ai_model_deployment | Cost optimization and economic considerations for AI model deployment]]
-- [[the_role_of_vector_databases_in_semantic_search_and_data_management | The role of vector databases in semantic search and data management]]
+### [How Snowflake is Uniquely Positioned to Win in AI](https://www.youtube.com/watch?v=FhIPUFZhKzI)
+- [[snowflakes_ai_strategy_and_infrastructure | Snowflakes AI strategy and infrastructure]]
+- [[development_and_deployment_of_snowflakes_arctic_llm | Development and deployment of Snowflakes Arctic LLM]]
+- [[challenges_and_innovations_in_sql_generation_and_bi_applications | Challenges and innovations in SQL generation and BI applications]]
+- [[enterprise_ai_use_cases_and_data_governance_in_snowflake | Enterprise AI use cases and data governance in Snowflake]]
+- [[role_of_opensource_models_and_partnerships_in_ai_advancement | Role of opensource models and partnerships in AI advancement]]
 
-### [The Best ChatGPT Use Cases, Future of Agents and Google Gemini with Logan Kilpatrick](https://www.youtube.com/watch?v=gwgDDkLFvd0)
-- [[chatgpt_and_its_applications_in_coding | ChatGPT and its applications in coding]]
-- [[the_future_potential_and_development_of_ai_assistance_apis | The future potential and development of AI assistance APIs]]
-- [[google_geminis_role_in_the_ai_ecosystem | Google Geminis role in the AI ecosystem]]
-- [[challenges_and_opportunities_in_ai_model_finetuning | Challenges and opportunities in AI model finetuning]]
-- [[the_rise_of_multimodal_models_and_their_implications | The rise of multimodal models and their implications]]
+### [SalesforceAI CEO on Future of Slack, How Gucci Uses AI and Working with Marc Benioff](https://www.youtube.com/watch?v=j_zQHo-M8yY)
+- [[integration_of_ai_in_salesforce_products | Integration of AI in Salesforce products]]
+- [[ai_applications_in_customer_service_and_sales | AI applications in customer service and sales]]
+- [[enterprise_ai_adoption_challenges_and_solutions | Enterprise AI adoption challenges and solutions]]
+- [[role_of_ai_in_transforming_job_functions | Role of AI in transforming job functions]]
+- [[ai_model_selection_and_evaluation_for_businesses | AI model selection and evaluation for businesses]]
 
-### [The AI English Tutor Taking the World by Storm](https://www.youtube.com/watch?v=nFC3asFKlH0)
-- [[ai_language_learning_platforms | AI language learning platforms]]
-- [[the_role_of_specialized_models_in_speech_recognition | The role of specialized models in speech recognition]]
-- [[challenges_in_evolving_ai_technologies_in_education | Challenges in evolving AI technologies in education]]
-- [[integration_of_ai_in_language_fluency_and_pronunciation | Integration of AI in language fluency and pronunciation]]
-- [[impact_of_ai_on_traditional_learning_methods | Impact of AI on traditional learning methods]]
+### [Two Startup Legends are Building the Bell Labs of AI](https://www.youtube.com/watch?v=ZtY8VXswa2o)
+- [[building_the_bell_labs_of_ai | Building the Bell Labs of AI]]
+- [[lean_startup_principles_applied_to_ai | Lean Startup principles applied to AI]]
+- [[ai_applications_in_legal_and_education | AI applications in legal and education]]
+- [[ai_safety_and_regulation | AI safety and regulation]]
+- [[cost_efficiency_and_accessibility_in_ai | Cost efficiency and accessibility in AI]]
+
+### [Databricks AI Head: New Model Architectures are Unlikely, When to Pre-Train/Fine Tune and AI Policy](https://www.youtube.com/watch?v=7-3IxVvWoxc)
+- [[ai_model_pretraining_and_finetuning_decisions | AI model pretraining and finetuning decisions]]
+- [[databricks_approach_to_ai_model_evaluation_and_incentives | Databricks approach to AI model evaluation and incentives]]
+- [[transformers_versus_lstms_in_ai_model_architecture | Transformers versus LSTMs in AI model architecture]]
+- [[ai_policy_and_societal_trust | AI policy and societal trust]]
+- [[integration_of_ai_and_data_platforms_in_enterprises | Integration of AI and data platforms in enterprises]]
+
+### [DeepL CEO on Specialized vs. General Models, Beating Google and a Synchronous Translation Future](https://www.youtube.com/watch?v=JW6DiD_V9hk)
+- [[specialized_vs_general_ai_models_in_translation | Specialized vs General AI models in translation]]
+- [[synchronous_speech_translation_and_its_future_implications | Synchronous speech translation and its future implications]]
+- [[deepls_strategy_in_outperforming_google_in_ai_translation | DeepLs strategy in outperforming Google in AI translation]]
+- [[the_role_and_future_of_human_translators_in_the_ai_era | The role and future of human translators in the AI era]]
+- [[challenges_and_opportunities_in_ai_model_development_and_infrastructure | Challenges and opportunities in AI model development and infrastructure]]
+
+### [The AI Developer Platform with an 80,000-Person Waitlist](https://www.youtube.com/watch?v=xLtZ2kyoYic)
+- [[lang_chain_ai_development | Lang chain AI development]]
+- [[ai_applications_in_sports_analytics | AI applications in sports analytics]]
+- [[ai_production_and_evaluation_techniques | AI production and evaluation techniques]]
+- [[current_state_and_future_of_ai_agent_frameworks | Current state and future of AI agent frameworks]]
+- [[lang_smith_and_its_applications | Lang Smith and its applications]]
 
 ### [The Company Leading the AI Music Revolution](https://www.youtube.com/watch?v=11RVpiQzviQ)
-- [[impact_of_ai_on_the_music_industry | Impact of AI on the music industry]]
-- [[personal_anecdotes_and_experiences_related_to_ai_music_creation | Personal anecdotes and experiences related to AI music creation]]
-- [[user_experiences_and_categorization_in_ai_music_platforms | User experiences and categorization in AI music platforms]]
-- [[challenges_and_innovations_in_ai_music_tech_and_infrastructure | Challenges and innovations in AI music tech and infrastructure]]
-- [[future_possibilities_and_visions_for_ai_and_music_collaboration | Future possibilities and visions for AI and music collaboration]]
-
-### [A Peek Inside Grammarly’s AI](https://www.youtube.com/watch?v=jGlSC4t7XvU)
-- [[grammarlys_ai_development_and_application | Grammarlys AI development and application]]
-- [[the_future_of_ai_in_human_communication | The future of AI in human communication]]
-- [[use_and_evaluation_of_large_language_models_llms | Use and evaluation of large language models LLMs]]
-- [[strategy_and_competitive_landscape_in_aipowered_communication_tools | Strategy and competitive landscape in AIpowered communication tools]]
-- [[ais_role_in_education_and_academic_integrity | AIs role in education and academic integrity]]
+- [[ai_transformation_in_the_music_industry | AI transformation in the music industry]]
+- [[music_creation_with_ai_and_user_experiences | Music creation with AI and user experiences]]
+- [[challenges_in_ai_product_development_for_music | Challenges in AI product development for music]]
+- [[ai_tools_and_community_engagement | AI tools and community engagement]]
+- [[business_model_and_pricing_strategy_for_ai_music_platforms | Business model and pricing strategy for AI music platforms]]
 
 ### [CTO Unveils Lessons from Building an AI Coding Assistant](https://www.youtube.com/watch?v=XsANqI-WnjY)
-- [[the_impact_of_ai_on_software_development_and_programming_jobs | The impact of AI on software development and programming jobs]]
-- [[building_a_successful_ai_product_for_developers | Building a successful AI product for developers]]
-- [[developing_ai_coding_assistants_with_contextawareness | Developing AI coding assistants with contextawareness]]
-- [[the_current_state_and_future_potential_of_ai_in_coding | The current state and future potential of AI in coding]]
-- [[the_balance_between_human_inputs_and_ai_automation_in_software_development | The balance between human inputs and AI automation in software development]]
+- [[impact_of_ai_on_software_engineering | Impact of AI on software engineering]]
+- [[ai_coding_assistants_and_their_uses | AI coding assistants and their uses]]
+- [[challenges_in_ai_product_development | Challenges in AI product development]]
+- [[future_of_coding_and_ai_integration | Future of coding and AI integration]]
+- [[ai_coding_tools_and_market_dynamics | AI coding tools and market dynamics]]
 
-### [4 AI Investors on What Separates Enduring AI Companies from the Hype](https://www.youtube.com/watch?v=L1I4uFmy_JY)
-- [[investing_in_ai_and_its_emerging_trends | Investing in AI and its emerging trends]]
-- [[understanding_ais_impact_on_startup_versus_incumbent_dynamics | Understanding AIs impact on startup versus incumbent dynamics]]
-- [[economic_implications_of_ai_hardware_and_infrastructure_investments | Economic implications of AI hardware and infrastructure investments]]
-- [[ai_applications_and_market_potential_across_various_industries | AI applications and market potential across various industries]]
-- [[challenges_in_ai_model_development_and_commoditization | Challenges in AI model development and commoditization]]
+### [The AI Startup That Sky Rocketed to $750M](https://www.youtube.com/watch?v=1gLHnRDiIms)
+- [[ai_infrastructure_and_vector_databases | AI infrastructure and vector databases]]
+- [[challenges_in_building_aidriven_applications | Challenges in building AIdriven applications]]
+- [[market_landscape_for_vector_databases | Market landscape for vector databases]]
+- [[serverless_architecture_and_its_impact_on_costs | Serverless architecture and its impact on costs]]
+- [[future_trends_in_ai_hardware_and_software | Future trends in AI hardware and software]]
+
+### [The Best ChatGPT Use Cases, Future of Agents and Google Gemini with Logan Kilpatrick](https://www.youtube.com/watch?v=gwgDDkLFvd0)
+- [[chatgpt_use_cases_and_applications | ChatGPT use cases and applications]]
+- [[the_evolution_and_impact_of_openais_models | The evolution and impact of OpenAIs models]]
+- [[future_trends_in_ai_and_multimodal_models | Future trends in AI and multimodal models]]
+- [[role_of_custom_models_and_enterprise_ai_integration | Role of custom models and enterprise AI integration]]
+- [[implications_of_autonomous_ai_agents | Implications of autonomous AI agents]]
+
+### [A Peek Inside Grammarly’s AI](https://www.youtube.com/watch?v=jGlSC4t7XvU)
+- [[grammarlys_ai_development_and_technology_evolution | Grammarlys AI development and technology evolution]]
+- [[ais_impact_on_communication_and_productivity | AIs impact on communication and productivity]]
+- [[ai_in_education_and_responsible_use | AI in education and responsible use]]
+- [[the_competitive_landscape_in_ai_writing_tools | The competitive landscape in AI writing tools]]
+- [[strategic_uses_of_ai_in_enterprises | Strategic uses of AI in enterprises]]
 
 ### [Lessons from a $4B Company Bringing AI to Healthcare and the Path to AI Doctors](https://www.youtube.com/watch?v=VUBfFv-Un3c)
-- [[ai_advancements_in_healthcare_by_oscar_health | AI advancements in healthcare by Oscar Health]]
-- [[implementing_ai_in_healthcare_systems | Implementing AI in healthcare systems]]
-- [[challenges_in_virtual_healthcare_and_ai_doctors | Challenges in virtual healthcare and AI doctors]]
-- [[administrative_and_clinical_use_cases_of_ai_in_health_insurance | Administrative and clinical use cases of AI in health insurance]]
-- [[the_role_of_ai_in_enhancing_patientprovider_communication | The role of AI in enhancing patientprovider communication]]
+- [[ai_in_healthcare_and_insurance | AI in healthcare and insurance]]
+- [[challenges_and_opportunities_of_ai_integration_in_healthcare | Challenges and opportunities of AI integration in healthcare]]
+- [[role_of_large_language_models_in_healthcare | Role of large language models in healthcare]]
+- [[transforming_clinical_processes_with_ai | Transforming clinical processes with AI]]
+- [[exploring_use_cases_and_challenges_of_ai_in_healthcare_systems | Exploring use cases and challenges of AI in healthcare systems]]
 
-### [A Deep Dive into the Future of Voice in AI](https://www.youtube.com/watch?v=RNebPdvPB7k)
-- [[future_of_voice_ai_and_its_impact | Future of voice AI and its impact]]
-- [[applications_and_functions_of_livekit_in_voice_ai | Applications and functions of LiveKit in voice AI]]
-- [[voicedriven_humancomputer_interaction | Voicedriven humancomputer interaction]]
-- [[integration_of_voice_ai_in_various_industries | Integration of voice AI in various industries]]
-- [[challenges_and_advancements_in_ai_technology | Challenges and advancements in AI technology]]
+### [The AI English Tutor Taking the World by Storm](https://www.youtube.com/watch?v=nFC3asFKlH0)
+- [[ai_in_language_learning | AI in language learning]]
+- [[personalized_learning_through_ai | Personalized learning through AI]]
+- [[speech_recognition_and_ai | Speech recognition and AI]]
+- [[ai_and_education_technology | AI and education technology]]
+- [[ai_adoption_and_user_behavior | AI adoption and user behavior]]
+
+### [A Full Deep Dive Into Notion AI](https://www.youtube.com/watch?v=og57f_tv3zY)
+- [[notion_ai_team_structure_and_development_process | Notion AI team structure and development process]]
+- [[features_and_enhancements_in_notion_ai | Features and enhancements in Notion AI]]
+- [[challenges_in_deploying_ai_in_notion | Challenges in deploying AI in Notion]]
+- [[user_interaction_with_notion_ai | User interaction with Notion AI]]
+- [[comparisons_and_partnerships_with_ai_model_providers | Comparisons and partnerships with AI model providers]]
+
+### [4 AI Investors on What Separates Enduring AI Companies from the Hype](https://www.youtube.com/watch?v=L1I4uFmy_JY)
+- [[investment_strategies_in_the_ai_landscape | Investment strategies in the AI landscape]]
+- [[assessing_the_value_of_ai_companies_and_the_hype_cycle | Assessing the value of AI companies and the hype cycle]]
+- [[the_economic_impact_of_ai_investments_and_roi_expectations | The economic impact of AI investments and ROI expectations]]
+- [[evolution_of_ai_models_and_infrastructure | Evolution of AI models and infrastructure]]
+- [[venture_capital_perspectives_on_ai_applications_and_startups | Venture capital perspectives on AI applications and startups]]
 
 ### [Jeremy Howard (co-Founder, Answer.ai) shares his perspective on where AI agents will be effective](https://www.youtube.com/watch?v=8rJyc5l3FlM)
-- [[effectiveness_of_ai_agents | Effectiveness of AI agents]]
-- [[understanding_language_models | Understanding language models]]
-- [[capabilities_and_limitations_of_ai | Capabilities and limitations of AI]]
-- [[application_in_email_management_and_coding | Application in email management and coding]]
-- [[challenges_in_aidriven_research_and_novel_planning | Challenges in AIdriven research and novel planning]]
+- [[effectiveness_of_ai_agents_in_specific_tasks | Effectiveness of AI agents in specific tasks]]
+- [[limitations_of_ai_language_models | Limitations of AI language models]]
+- [[agents_and_novel_planning_sequences | Agents and novel planning sequences]]
+- [[applications_of_ai_in_email_management_and_debugging | Applications of AI in email management and debugging]]
+- [[challenges_in_using_ai_for_research_advancements | Challenges in using AI for research advancements]]
 
-### [Josh Xu (CEO, HeyGen) talks about HeyGen’s mission to make the camera obsolete in content creation](https://www.youtube.com/watch?v=JCKK2-5tmX0)
-- [[snapchat_and_tiktoks_focus_on_similar_markets | Snapchat and TikToks focus on similar markets]]
-- [[impact_of_mobile_cameras_on_video_creation | Impact of mobile cameras on video creation]]
-- [[heygens_mission_to_make_the_camera_obsolete | HeyGens mission to make the camera obsolete]]
-- [[aigenerated_content_versus_camerabased_content | AIgenerated content versus camerabased content]]
-- [[potential_opportunities_for_platforms_specializing_in_ai_content | Potential opportunities for platforms specializing in AI content]]
+### [A Deep Dive into the Future of Voice in AI](https://www.youtube.com/watch?v=RNebPdvPB7k)
+- [[the_future_of_voice_interfaces_in_ai | The Future of Voice Interfaces in AI]]
+- [[the_role_of_live_kit_in_voice_ai_applications | The Role of Live Kit in Voice AI Applications]]
+- [[voice_vs_traditional_input_methods | Voice vs Traditional Input Methods]]
+- [[ai_integration_in_consumer_devices_and_robotics | AI Integration in Consumer Devices and Robotics]]
+- [[latency_and_system_integration_challenges_in_aibased_voice_systems | Latency and System Integration Challenges in AIbased Voice Systems]]
 
-### [Josh Xu (CEO, HeyGen) on how Trust & Safety is handled at HeyGen](https://www.youtube.com/watch?v=bGWd03hwfDY)
-- [[trust_and_safety_in_digital_platforms | Trust and safety in digital platforms]]
-- [[video_content_consent_and_ai_verification | Video content consent and AI verification]]
-- [[enterprise_customer_service_challenges | Enterprise customer service challenges]]
-- [[platform_moderation_policy | Platform moderation policy]]
-- [[hybrid_solutions_for_content_moderation | Hybrid solutions for content moderation]]
+### [Why There Won’t be One Model, Will Hyperscalers Win Inference & AI Use-cases with PMF](https://www.youtube.com/watch?v=zG-kxc0q_cE)
+- [[ai_inference_and_compound_ai_systems | AI inference and compound AI systems]]
+- [[challenges_of_building_ai_infrastructure_companies | Challenges of building AI infrastructure companies]]
+- [[customization_and_open_source_in_ai_models | Customization and open source in AI models]]
+- [[role_of_function_calling_in_ai_systems | Role of function calling in AI systems]]
+- [[hardware_and_computation_in_ai_development | Hardware and computation in AI development]]
 
 ### [On the latest episode of Unsupervised Learning, Jonathan Frankle shares his advice](https://www.youtube.com/watch?v=czyHDP67CMw)
-- [[starting_small_and_building_benchmarks | Starting small and building benchmarks]]
-- [[evaluating_ai_through_rigorous_roi_testing | Evaluating AI through rigorous ROI testing]]
-- [[experimenting_and_testing_ai_use_cases | Experimenting and testing AI use cases]]
-- [[finetuning_ai_models_for_enterprise_data | Finetuning AI models for enterprise data]]
-- [[understanding_predictability_and_effectiveness_of_ai | Understanding predictability and effectiveness of AI]]
-
-### [The Product Playbook of a Billion-Dollar AI Company](https://www.youtube.com/watch?v=fi4-kSuaw40)
-- [[impact_of_ai_on_customer_support | Impact of AI on customer support]]
-- [[intercoms_product_launch_strategy_with_ai | Intercoms product launch strategy with AI]]
-- [[challenges_in_ai_adoption_for_startups | Challenges in AI adoption for startups]]
-- [[cost_optimization_vs_exploration_in_ai | Cost optimization vs exploration in AI]]
-- [[aidriven_product_innovation_in_the_tech_industry | AIdriven product innovation in the tech industry]]
+- [[starting_small_in_ai_projects | Starting small in AI projects]]
+- [[evaluating_ai_progress_with_roi | Evaluating AI progress with ROI]]
+- [[building_and_improving_benchmarks | Building and improving benchmarks]]
+- [[experimentation_in_ai_and_data_science | Experimentation in AI and data science]]
+- [[fine_tuning_models_for_better_outcomes | Fine tuning models for better outcomes]]
 
 ### [Adobe’s 10 Year Vision for AI-Powered Content Creation](https://www.youtube.com/watch?v=lwtU_NfFH8o)
 - [[adobes_integration_of_ai_in_content_creation | Adobes integration of AI in content creation]]
-- [[generative_ai_and_adobes_firefly_suite | Generative AI and Adobes Firefly Suite]]
-- [[aidriven_tools_in_adobes_creative_cloud | AIdriven tools in Adobes Creative Cloud]]
-- [[data_privacy_and_ethical_considerations_in_generative_ai | Data privacy and ethical considerations in generative AI]]
-- [[vision_for_the_future_of_aipowered_content_personalization | Vision for the future of AIpowered content personalization]]
+- [[generative_ai_tools_in_creative_cloud | Generative AI tools in Creative Cloud]]
+- [[customer_feedback_and_ai_model_refinement | Customer feedback and AI model refinement]]
+- [[the_future_of_ai_in_adobes_products | The future of AI in Adobes products]]
+- [[trust_and_safety_in_aigenerated_content | Trust and safety in AIgenerated content]]
+
+### [Josh Xu (CEO, HeyGen) talks about HeyGen’s mission to make the camera obsolete in content creation](https://www.youtube.com/watch?v=JCKK2-5tmX0)
+- [[heygens_mission_to_make_the_camera_obsolete_in_content_creation | HeyGens mission to make the camera obsolete in content creation]]
+- [[comparison_between_heygen_and_platforms_like_snapchat_and_tiktok | Comparison between HeyGen and platforms like Snapchat and TikTok]]
+- [[challenges_of_integrating_ai_generated_content_with_traditional_content | Challenges of integrating AI generated content with traditional content]]
+- [[the_impact_of_ai_generated_content_on_current_content_creators | The impact of AI generated content on current content creators]]
+- [[the_future_of_ai_platforms_in_content_creation | The future of AI platforms in content creation]]
+
+### [Josh Xu (CEO, HeyGen) on how Trust & Safety is handled at HeyGen](https://www.youtube.com/watch?v=bGWd03hwfDY)
+- [[trust_and_safety_mechanisms_at_heygen | Trust and safety mechanisms at HeyGen]]
+- [[enterprise_customer_service_at_heygen | Enterprise customer service at HeyGen]]
+- [[ai_and_human_moderation_at_heygen | AI and human moderation at HeyGen]]
+- [[consent_process_for_avatar_creation | Consent process for avatar creation]]
+- [[platform_moderation_policy_against_hate_speech_and_misinformation | Platform moderation policy against hate speech and misinformation]]
+
+### [The Product Playbook of a Billion-Dollar AI Company](https://www.youtube.com/watch?v=fi4-kSuaw40)
+- [[intercoms_ai_strategy_and_implementation | Intercoms AI Strategy and Implementation]]
+- [[impact_of_ai_on_customer_support | Impact of AI on Customer Support]]
+- [[challenges_in_ai_adoption_and_deployment | Challenges in AI Adoption and Deployment]]
+- [[ai_cost_optimization_vs_exploration | AI Cost Optimization vs Exploration]]
+- [[role_of_ai_in_future_business_operations | Role of AI in Future Business Operations]]
 
 ### [Adobe's Chief Product Officer on How AI Will Transform Creative Workflows](https://www.youtube.com/watch?v=YyEqtw-21Ko)
-- [[ai_in_creative_workflows | AI in creative workflows]]
-- [[adobes_ai_strategy_and_product_development | Adobes AI strategy and product development]]
-- [[challenges_and_opportunities_in_creative_ai_tools | Challenges and opportunities in creative AI tools]]
-- [[hyper_personalization_in_digital_experiences | Hyper personalization in digital experiences]]
-- [[future_of_generative_models_in_media | Future of generative models in media]]
-
-### [Fireflies.ai CEO: The Surge to 16M Users](https://www.youtube.com/watch?v=YCKVxXrcZ-0)
-- [[evolution_and_scaling_of_firefliesai | Evolution and scaling of firefliesai]]
-- [[role_of_ai_agents_in_business_meetings | Role of AI agents in business meetings]]
-- [[challenges_and_opportunities_in_ai_integration | Challenges and opportunities in AI integration]]
-- [[finetuning_approaches_and_considerations_in_ai | Finetuning approaches and considerations in AI]]
-- [[impact_of_large_language_models_on_business_operations | Impact of large language models on business operations]]
-
-### [HeyGen CEO on Navigating Voice-Cloning and the Path to Interactive Avatars](https://www.youtube.com/watch?v=FudGqDZDSx4)
-- [[ai_video_creation_tools | AI video creation tools]]
-- [[voice_cloning_security_guidelines | Voice cloning security guidelines]]
-- [[ai_avatar_technology_and_advancements | AI avatar technology and advancements]]
-- [[generative_ai_for_business_applications | Generative AI for business applications]]
-- [[future_of_interactive_avatars_and_synchronous_streaming | Future of interactive avatars and synchronous streaming]]
-
-### [Why There Won’t be One Model, Will Hyperscalers Win Inference & AI Use-cases with PMF](https://www.youtube.com/watch?v=zG-kxc0q_cE)
-- [[compound_ai_systems_and_their_development | Compound AI systems and their development]]
-- [[inference_challenges_and_strategies_in_ai_systems | Inference challenges and strategies in AI systems]]
-- [[open_source_ecosystem_and_model_specialization | Open source ecosystem and model specialization]]
-- [[building_and_scaling_ai_infrastructure_companies | Building and scaling AI infrastructure companies]]
-- [[trends_in_ai_model_training_and_deployment | Trends in AI model training and deployment]]
+- [[ai_transformation_in_creative_workflows | AI transformation in creative workflows]]
+- [[adobes_approach_to_ai_model_training_and_usage | Adobes approach to AI model training and usage]]
+- [[opportunities_for_startups_in_the_creative_tool_space | Opportunities for startups in the creative tool space]]
+- [[hyperpersonalization_in_branding | Hyperpersonalization in branding]]
+- [[future_of_generative_ai_in_media_and_creative_industries | Future of generative AI in media and creative industries]]
 
 ### [The GenAI Media Platform That Keeps Getting Better](https://www.youtube.com/watch?v=Y7uzEDEwYTU)
-- [[advancements_in_ai_for_creative_tools | Advancements in AI for Creative Tools]]
-- [[runways_role_in_ai_and_media | Runways Role in AI and Media]]
-- [[exploration_and_experimentation_in_ai | Exploration and Experimentation in AI]]
-- [[future_directions_for_video_models | Future Directions for Video Models]]
-- [[scaling_and_innovation_in_ai_infrastructures | Scaling and Innovation in AI Infrastructures]]
+- [[advancements_in_ai_for_media_production | Advancements in AI for media production]]
+- [[runway_genai_platform_and_its_applications | Runway GenAI platform and its applications]]
+- [[creative_process_and_experimentation_with_ai | Creative process and experimentation with AI]]
+- [[challenges_and_future_of_video_generation_models | Challenges and future of video generation models]]
+- [[integration_of_ai_in_artistic_and_creative_industries | Integration of AI in artistic and creative industries]]
 
-### [A Full Deep Dive Into Notion AI](https://www.youtube.com/watch?v=og57f_tv3zY)
-- [[notion_ai_development_and_team_structure | Notion AI development and team structure]]
-- [[integration_and_features_of_notion_ai | Integration and features of Notion AI]]
-- [[challenges_in_building_and_deploying_ai_features | Challenges in building and deploying AI features]]
-- [[ai_and_user_interface_customization_in_notion | AI and user interface customization in Notion]]
-- [[impact_of_ai_advancements_on_business_models | Impact of AI advancements on business models]]
+### [Fireflies.ai CEO: The Surge to 16M Users](https://www.youtube.com/watch?v=YCKVxXrcZ-0)
+- [[fireflies_ai_and_its_capabilities | Fireflies ai and its capabilities]]
+- [[developing_ai_meeting_assistants | Developing AI meeting assistants]]
+- [[challenges_in_aidriven_transcription_and_summarization | Challenges in AIdriven transcription and summarization]]
+- [[future_applications_of_ai_in_workplace_automation | Future applications of AI in workplace automation]]
+- [[competing_with_tech_giants_in_the_ai_market | Competing with tech giants in the AI market]]
+
+### [HeyGen CEO on Navigating Voice-Cloning and the Path to Interactive Avatars](https://www.youtube.com/watch?v=FudGqDZDSx4)
+- [[ai_video_tools_in_enterprises | AI video tools in enterprises]]
+- [[voice_cloning_security_guidelines | Voice cloning security guidelines]]
+- [[future_of_ai_avatars | Future of AI avatars]]
+- [[interactive_ai_avatars_and_realtime_engagement | Interactive AI avatars and realtime engagement]]
+- [[challenges_and_opportunities_in_generative_video_ai | Challenges and opportunities in generative video AI]]

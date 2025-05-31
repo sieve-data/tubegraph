@@ -1,0 +1,22 @@
+---
+title: Role of agency and intelligence in society with AI
+videoId: a0bEU83P8g8
+---
+
+From: [[redpointai]] <br/> 
+
+The advent of AI introduces a shift in what is considered a scarce factor in society. Historically, intelligence has been the critical scarcity, but in a future with ubiquitous and free AI, **agency** is likely to become the scarce factor of production <a class="yt-timestamp" data-t="00:49:16">[00:49:16]</a>. This refers to knowing the right questions to ask and which projects to pursue, problems that AI is not expected to solve easily for humans <a class="yt-timestamp" data-t="00:49:44">[00:49:44]</a>. Humans will need to develop this kind of [[role_of_ai_in_general_intelligence_and_application_development | agency]] to work effectively with AI <a class="yt-timestamp" data-t="00:50:02">[00:50:02]</a>.
+
+## AI's Impact on Productivity and Work
+Despite significant advancements, AI's impact on productivity statistics has been minimal, primarily seen in capital expenditures for data centers rather than direct productivity gains <a class="yt-timestamp" data-t="00:31:55">[00:31:55]</a>. This is because AI primarily automates tasks, whereas a job is often composed of many tasks, some of which are difficult to automate <a class="yt-timestamp" data-t="00:33:22">[00:33:22]</a>. For example, in programming, AI first optimizes "boilerplate" code, leaving the more abstract "giving direction" part as the last hurdle <a class="yt-timestamp" data-t="00:33:36">[00:33:36]</a>.
+
+### Underexplored Applications
+A promising but underexplored application for AI is in "boring" tasks that require infinite patience rather than infinite intelligence <a class="yt-timestamp" data-t="00:34:06">[00:34:06]</a>. For instance, an AI could tirelessly compare shopping prices for procurement, a task that smart humans find mundane <a class="yt-timestamp" data-t="00:34:22">[00:34:22]</a>. This concept is likened to the role of consultants, who get smart people to work on dull problems <a class="yt-timestamp" data-t="00:35:18">[00:35:18]</a>. Initial productivity studies show AI significantly benefits lower-performing individuals, enabling them to produce code or solutions when they understand the goal but lack the specific skills to execute <a class="yt-timestamp" data-t="00:35:55">[00:35:55]</a>. This is seen as a hopeful development <a class="yt-timestamp" data-t="00:36:34">[00:36:34]</a>.
+
+## Implications for Social Sciences and Policy
+AI is expected to transform social sciences research and policymaking <a class="yt-timestamp" data-t="00:54:47">[00:54:47]</a>. In business, product management often functions as an experimental social science, using methods like A/B testing to understand human reactions <a class="yt-timestamp" data-t="00:55:20">[00:55:20]</a>. AI could enable the creation of "fake users" that react like real ones, allowing A/B tests to be conducted without going to production, and even deep interviews with these simulated users <a class="yt-timestamp" data-t="00:55:40">[00:55:40]</a>. The general principle is to explore replacing any task one would ask a human to do with AI, especially tasks that could be done a hundred times by an AI but only painfully once by a human <a class="yt-timestamp" data-t="00:56:14">[00:56:14]</a>.
+
+## The Nature of AGI and Future Progress
+The concept of AGI is challenging to define, and there may not be a single "moment" of its achievement <a class="yt-timestamp" data-t="00:47:06">[00:47:06]</a>. Instead, it is seen as a fractal progression where more and more tasks become automated <a class="yt-timestamp" data-t="00:47:17">[00:47:17]</a>. It's predicted that the arrival of AGI might feel "banal," with people still experiencing mundane daily life despite self-driving cars and AI armies <a class="yt-timestamp" data-t="00:47:25">[00:47:25]</a>.
+
+Solving reasoning was considered the last fundamental challenge needed to scale to human-level intelligence, alongside pre-training and multi-modality <a class="yt-timestamp" data-t="00:47:59">[00:47:59]</a>. Now, the primary remaining challenge is scaling, which is a complex systems, hardware, optimization, and data problem <a class="yt-timestamp" data-t="00:48:17">[00:48:17]</a>. This scaling is hard, but in some ways, the progression towards a more integrated and capable AI future is seen as "predestined" <a class="yt-timestamp" data-t="00:48:47">[00:48:47]</a>.

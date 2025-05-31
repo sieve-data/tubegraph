@@ -1,0 +1,62 @@
+---
+title: RetrievalAugmented Generation and Innovations in Reasoning
+videoId: NLFboNNKCME
+---
+
+From: [[redpointai]] <br/> 
+
+Retrieval Augmented Generation (RAG) and advancements in AI reasoning are critical areas in the development and deployment of artificial intelligence systems.
+
+## What is Retrieval Augmented Generation (RAG)?
+
+RAG is a method that combines a retrieval system with a generative model, allowing the model to generate responses based on retrieved information <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The initial paper on RAG was authored by Douwe Kiela <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a> and his PhD student Ethan Perez while at Fair (Facebook AI Research) <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. The original vision for RAG was more ambitious than what was published in the paper <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>.
+
+The development of RAG was facilitated by prior work like Facebook AI Similarity Search (FAISS), which served as an archetype for vector databases <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>. A key innovation in RAG was figuring out how to backpropagate into the retrieval mechanism to train the system <a class="yt-timestamp" data-t="00:10:34">[00:10:34]</a>. While many later implementations did not backpropagate into the retriever, the core idea was to ground language models in external knowledge, such as Wikipedia <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>.
+
+In modern deployments, a RAG system involves:
+*   Extracting information from data at a large scale (tens or hundreds of thousands of documents) <a class="yt-timestamp" data-t="00:28:20">[00:28:20]</a>.
+*   Utilizing a "mixture of retrievers" approach rather than a single dense vector database <a class="yt-timestamp" data-t="00:28:31">[00:28:31]</a>.
+*   Contextualizing the language model with the retrieved information <a class="yt-timestamp" data-t="00:28:44">[00:28:44]</a>.
+*   Performing additional tasks on top of the language model <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>.
+
+Contextual AI, a company co-founded by Douwe Kiela, focuses on building customized contextual language models for enterprises, leveraging and extending the RAG concept <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>. Their approach emphasizes "systems over models," believing that a model is only 10-20% of the larger system required to solve a problem <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. They aim to end-to-end specialize all parts of the system, from retrieval and reranking to generation, post-training, alignment, and fine-tuning <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>. This integrated and specialized system is particularly beneficial for high-value, knowledge-intensive use cases <a class="yt-timestamp" data-t="00:06:27">[00:06:27]</a>.
+
+One area of active [[ai_research_and_innovation | AI research and innovation]] involves combining Mixture of Experts (MoE) models with RAG, potentially leading to powerful systems that can be deployed on edge devices like phones <a class="yt-timestamp" data-t="00:23:42">[00:23:42]</a>. This relies on innovations like Generative Representational Instruction Tuning (GRIT), which allows the same model to be used for both retriever and generator, caching compute and improving efficiency <a class="yt-timestamp" data-t="00:23:51">[00:23:51]</a>.
+
+## Innovations in Reasoning
+
+[[ai_inference_and_compound_ai_systems | AI inference and compound AI systems]] are increasingly incorporating advanced reasoning capabilities.
+
+### OpenAI's 01 Model and Reasoning
+The release of OpenAI's 01 model is seen as an exciting development, pushing towards thinking about AI in terms of systems rather than just models <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a>. This model compresses "Chain of Thought" ideas into the model using Reinforcement Learning from Human Feedback (RLHF), turning the model into a more complex system <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. While the 01 model excels in specific areas like math and law, it may not always be faster or better than older models for all tasks due to increased test-time compute and latency <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. The concept of Chain of Thought, initially considered a "cute gimmick," has proven to be very effective for reasoning <a class="yt-timestamp" data-t="00:31:17">[00:31:17]</a>.
+
+### Alignment and Reinforcement Learning
+Alignment is crucial for making AI systems maximally useful for end-users <a class="yt-timestamp" data-t="00:16:01">[00:16:01]</a>. Key developments in alignment include:
+*   **Reinforcement Learning from Human Feedback (RLHF):** This was the "secret sauce" behind ChatGPT, allowing models to capture human preferences at the full sequence level <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>. However, RLHF requires training an expensive reward model and relies on laborious preference data annotation <a class="yt-timestamp" data-t="00:16:43">[00:16:43]</a>.
+*   **Direct Preference Optimization (DPO):** DPO aims to overcome the need for a separate reward model, making the process more efficient <a class="yt-timestamp" data-t="00:17:32">[00:17:32]</a>.
+*   **KTO (Kahneman-Tversky Optimization):** This method, developed at Contextual AI, breaks the dependency on preference pairs by directly optimizing on feedback without needing data annotation <a class="yt-timestamp" data-t="00:17:56">[00:17:56]</a>. It's named after behavioral economists' utility theory and prospect theory <a class="yt-timestamp" data-t="00:18:02">[00:18:02]</a>.
+*   **CLARE (Contrastive Language-image Alignment with REvisions):** CLARE refines preference signals by focusing on revisions, where a small difference between two options (one better than the other) tightly specifies the causal structure of the improvement <a class="yt-timestamp" data-t="00:18:51">[00:18:51]</a>.
+*   **Anchored Preference Optimization (APO):** APO considers the quality of the model itself when learning from preference data, ensuring that the model learns the correct information (e.g., just the ranking, not necessarily that the "good" example is the absolute right answer) <a class="yt-timestamp" data-t="00:19:51">[00:19:51]</a>.
+
+These advancements in alignment, particularly during the post-training phase, are crucial for making pre-trained models good at specific tasks <a class="yt-timestamp" data-t="00:20:57">[00:20:57]</a>. For enterprise AI, this means aligning models around specific business use cases rather than general capabilities like writing Shakespearean sonnets <a class="yt-timestamp" data-t="00:21:10">[00:21:10]</a>. Specialization and customization through alignment help models meet production-level requirements <a class="yt-timestamp" data-t="00:21:34">[00:21:34]</a>.
+
+### Specialization vs. Generalization
+For enterprise applications, there's a strong emphasis on specialization over [[future_of_artificial_general_intelligence_agi | Artificial General Intelligence (AGI)]] <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>. While AGI is often seen as a consumer product needing generalist intelligence, enterprises often know exactly what they want and require specialized, constrained systems <a class="yt-timestamp" data-t="00:05:25">[00:05:25]</a>. For example, a bank might need an AI system that *cannot* perform performance reviews due to regulatory constraints <a class="yt-timestamp" data-t="00:05:44">[00:05:44]</a>. The right approach for enterprise AI is through specialization, focusing on helping humans make better decisions rather than outright replacing them <a class="yt-timestamp" data-t="00:15:13">[00:15:13]</a>.
+
+### The [[role_of_synthetic_data_and_multimodal_systems_in_ai_development | Role of Synthetic Data and Multimodal Systems in AI Development]]
+The idea that the AI field is "running out of tokens" for training data is misguided <a class="yt-timestamp" data-t="00:32:53">[00:32:53]</a>. Society produces vast amounts of data daily <a class="yt-timestamp" data-t="00:33:07">[00:33:07]</a>. The challenge lies in the quality of data, not quantity <a class="yt-timestamp" data-t="00:33:27">[00:33:27]</a>. High-quality data is scarce, but lower-quality data can still be learned from if there is enough quantity <a class="yt-timestamp" data-t="00:33:39">[00:33:39]</a>.
+
+[[role_of_synthetic_data_and_multimodal_systems_in_ai_development | Multimodal systems]] offer an immense, largely untapped data source <a class="yt-timestamp" data-t="00:33:52">[00:33:52]</a>. For instance, training on cat videos can help a model understand the concept of a cat much better than just text about cats <a class="yt-timestamp" data-t="00:33:58">[00:33:58]</a>. This approach can address a key shortcoming of current AI systems: their limited understanding of the physical world compared to humans <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>.
+
+[[role_of_synthetic_data_and_multimodal_systems_in_ai_development | Synthetic data]] has also proven to be surprisingly effective, especially when combined with advanced algorithms like KTO and APO <a class="yt-timestamp" data-t="00:30:45">[00:30:45]</a>, <a class="yt-timestamp" data-t="00:35:17">[00:35:17]</a>. This enables significant progress without requiring extensive manual data annotation or heavy compute <a class="yt-timestamp" data-t="00:35:25">[00:35:25]</a>.
+
+### Evaluating Reasoning and Future Directions
+AI models already possess reasoning capabilities, which have been evolving <a class="yt-timestamp" data-t="00:35:48">[00:35:48]</a>. Further improvements in reasoning can be achieved through data-driven approaches, such as training models on complex mathematical reasoning problems solved by mathematics PhD students <a class="yt-timestamp" data-t="00:36:09">[00:36:09]</a>.
+
+A fascinating area for evaluating advanced reasoning is "metalinguistic tests," which involve self-referential statements, such as asking a model to understand "there are X words in this sentence" <a class="yt-timestamp" data-t="00:36:47">[00:36:47]</a>. Successfully mastering such problems would demonstrate a sophisticated level of understanding and reasoning about language itself <a class="yt-timestamp" data-t="00:37:48">[00:37:48]</a>.
+
+The field is moving towards "multi-agent systems," where multiple AI agents work together to solve problems <a class="yt-timestamp" data-t="00:43:04">[00:43:04]</a>. This concept is closely related to the "systems over models" approach, where systems can comprise many specialized models <a class="yt-timestamp" data-t="00:43:48">[00:43:48]</a>. Understanding the topology and communication protocols among these agents can lead to emergent linguistic behaviors, similar to how human organizational structures influence culture and communication <a class="yt-timestamp" data-t="00:44:40">[00:44:40]</a>. In the long run, humans themselves may become agents within these larger multi-agent systems <a class="yt-timestamp" data-t="00:45:05">[00:45:05]</a>.
+
+While there have been significant advancements, the AI industry is still primarily in the "demo phase" for many enterprise deployments <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. Many seemingly compelling demos, built with layered, "Frankenstein" approaches, often fail when scaled to real-world data due to issues in deployment, risk, compliance, and security <a class="yt-timestamp" data-t="00:08:08">[00:08:08]</a>. Moving from prototype to production requires understanding customer needs, continuous refinement, and robust infrastructure <a class="yt-timestamp" data-t="00:27:29">[00:27:29]</a>.
+
+AI development is a [[creative_process_and_experimentation_with_ai | creative process and experimentation with AI]], where seemingly minor changes, like adding an extra sentence to a prompt, can have a massive impact <a class="yt-timestamp" data-t="00:39:25">[00:39:25]</a>. The optimal path often involves a mix of open-source and closed-source models, utilizing open-source as a base and then building specialized post-training capabilities to reach a "sweet spot" of capital efficiency and customer usefulness <a class="yt-timestamp" data-t="00:52:13">[00:52:13]</a>.
