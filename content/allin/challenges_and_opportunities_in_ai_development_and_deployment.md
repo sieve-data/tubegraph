@@ -1,0 +1,32 @@
+---
+title: Challenges and opportunities in AI development and deployment
+videoId: XzK9bx3CSPE
+---
+
+From: [[allin]] <br/> 
+
+## The Resurgence of AI
+
+Sergey Brin, co-founder of Google, has significantly re-engaged with the company's artificial intelligence efforts, dedicating nearly every day to this work <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. He describes the [[openai_and_ai_advancements | AI progress]] of the last few years as the "most exciting" he has ever seen as a computer scientist, a "mind-blowing" development <a class="yt-timestamp" data-t="02:32:00">[02:32:00]</a>. Historically, in the 1990s when Brin was in grad school, AI was merely a "footnote" in the curriculum, and approaches like neural networks were largely discarded <a class="yt-timestamp" data-t="02:47:00">[02:47:00]</a>. The recent breakthrough in AI, particularly with neural networks, is attributed to increased compute power, more data, and "a few clever algorithms" <a class="yt-timestamp" data-t="03:16:00">[03:16:00]</a>. This has led to "amazing capability" appearing almost monthly <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>.
+
+## Diverse Applications and the Future of Models
+
+[[potential_of_ai_and_machine_learning_in_the_business_landscape | AI]]'s influence extends far beyond search, touching various aspects of daily life, including programming <a class="yt-timestamp" data-t="04:12:00">[04:12:00]</a>. Writing code from scratch now feels "really hard" compared to asking an AI to do it <a class="yt-timestamp" data-t="04:21:00">[04:21:00]</a>. Brin provided an example of using an AI model to generate and score Sudoku puzzles by having it write the necessary code <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>.
+
+A key question in [[developments_in_technology_and_ai_for_2024 | AI development]] is whether the future lies with "ginormous general purpose LLMs" (sometimes called a "God model") or a multitude of smaller, application-specific models working together in agent systems <a class="yt-timestamp" data-t="05:47:00">[05:47:00]</a>. Historically, different AI techniques were used for distinct problems, such as chess-playing AI versus image generation <a class="yt-timestamp" data-t="06:28:00">[06:28:00]</a>. Google's graph neural net, for instance, has outperformed physics forecasting models <a class="yt-timestamp" data-t="06:42:00">[06:42:00]</a>. In a recent International Math Olympiad, Google's AI won a silver medal using three distinct models: a formal theorem proving model, a geometry-specific AI, and a general-purpose language model <a class="yt-timestamp" data-t="07:04:00">[07:04:00]</a>. However, Brin notes a trend towards "a more unified model," with shared architectures and eventually "even shared models" <a class="yt-timestamp" data-t="07:48:00">[07:48:00]</a>.
+
+This pursuit of larger, unified models necessitates significant computing power <a class="yt-timestamp" data-t="08:06:00">[08:06:00]</a>. Brin observes that Google is building out compute as quickly as possible due to "huge amount of demand" from cloud customers for TPUs and GPUs, often having to turn down customers <a class="yt-timestamp" data-t="09:28:00">[09:28:00]</a>.
+
+### Surprising Successes and Current Challenges
+
+In terms of [[impact_of_ai_on_different_industries_and_technical_fields | AI application]], Brin highlighted biology with AlphaFold, which is widely used by biologists <a class="yt-timestamp" data-t="10:52:00">[10:52:00]</a>. In robotics, while current advancements are impressive, they are often in a "wow stage" rather than achieving the robustness required for day-to-day usefulness <a class="yt-timestamp" data-t="11:18:00">[11:18:00]</a>. Google previously had five or six robotics businesses, including Boston Dynamics, which were spun out or sold, likely due to being "a little too early" before the advent of modern AI's multimodal capabilities (vision, image understanding, scene interpretation) <a class="yt-timestamp" data-t="11:50:00">[11:50:00]</a>.
+
+## Overcoming Conservatism and Embracing Risk
+
+A significant challenge for large companies like Google is overcoming conservatism in [[Regulating AI and its implications | AI deployment]]. Brin recounted a story where engineers were hesitant to push AI-written code into Gemini due to concerns about mistakes <a class="yt-timestamp" data-t="15:08:00">[15:08:00]</a>. Brin, as a founder, emphasized the need to push the envelope, stating that Google's conservatism "can't rule the day today" <a class="yt-timestamp" data-t="15:18:00">[15:18:00]</a>.
+
+Google invented the Transformer paper, foundational to modern language models, but was "too timid" to deploy them initially, fearing mistakes or embarrassing outputs <a class="yt-timestamp" data-t="16:06:00">[16:06:00]</a>. Despite instances where [[Future of AI in technology and society | AI]] can make "stupid mistakes," its power to help users do things they never would have accomplished (e.g., programming complicated things with simple prompts) is "magic" <a class="yt-timestamp" data-t="16:47:00">[16:47:00]</a>. Brin believes it's necessary to "be willing to have some embarrassments and take some risks" <a class="yt-timestamp" data-t="17:18:00">[17:18:00]</a>. He advocates for communicating that AI is amazing but will "periodically get stuff really wrong," encouraging widespread experimentation <a class="yt-timestamp" data-t="17:56:00">[17:56:00]</a>.
+
+### The Competitive Landscape
+
+While acknowledging the competitive nature of the AI space (with companies like OpenAI, Anthropic, and Mistral), Brin emphasizes the "tremendous value to humanity" that AI can create <a class="yt-timestamp" data-t="19:34:00">[19:34:00]</a>. He draws a parallel to the internet and web, which transformed access to information and communication, noting that [[AI as a computing platform and its potential disruption | AI]] represents another "big capability" accessible to people worldwide <a class="yt-timestamp" data-t="20:00:00">[20:00:00]</a>. Google has made significant progress in AI, particularly since the launch of ChatGPT, and actively pays attention to competitive benchmarks, having recently been number one in some language model evaluations <a class="yt-timestamp" data-t="19:21:00">[19:21:00]</a>.

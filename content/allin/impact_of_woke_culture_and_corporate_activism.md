@@ -1,0 +1,37 @@
+---
+title: Impact of woke culture and corporate activism
+videoId: mpC6c6iYji8
+---
+
+From: [[allin]] <br/> 
+
+The discussion covers the origins, manifestations, and proposed solutions to the phenomenon of "woke culture" and its influence on corporate America, politics, and society at large. Vivek Ramaswamy, a presidential candidate, provides his perspective as someone who has actively engaged with these issues, both in business and through his writings.
+
+## Defining Woke Culture and its Roots
+
+Vivek Ramaswamy identifies as "anti-woke" <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>, though he dislikes the label as he feels it misrepresents his core message. He argues that what is characterized as "wokism" — along with "climatism," "COVIDism," fentanyl usage, anxiety, depression, and loss of self-confidence — are all symptoms of a deeper void of purpose and meaning in society <a class="yt-timestamp" data-t="00:15:04">[00:15:04]</a>.
+
+This void, he suggests, stems from the decay of traditional social norms that once provided purpose, such as faith, patriotism, hard work, and family <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>. When these foundations disappear, people search for new "false idols" or "secular cults" to fill the emptiness, which can manifest as an over-identification with movements like the trans movement, the Ukraine flag, or the climate cult <a class="yt-timestamp" data-t="01:26:06">[01:26:06]</a>. He notes that the rise of "modern secular cults" dilutes traditional values and needs to be addressed by offering an alternative vision <a class="yt-timestamp" data-t="01:30:26">[01:30:26]</a>.
+
+Instead of defining himself as "anti-woke," Ramaswamy prefers the term "unapologetically nationalist," focused on embracing the ideals that founded the United States: individual, family, nation, and God <a class="yt-timestamp" data-t="01:17:16">[01:17:16]</a>. He believes America was founded on these principles, and the Republican party has fallen short by merely opposing new identities rather than offering an affirmative vision <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>.
+
+## Corporate Activism and its Impact
+
+Vivek Ramaswamy's journey into public life was significantly influenced by his experiences as a CEO:
+
+*   **Black Lives Matter Demands** In June 2020, following the death of George Floyd, Ramaswamy faced demands within his company to make a statement on behalf of Black Lives Matter <a class="yt-timestamp" data-t="00:05:27">[00:05:27]</a>. This occurred despite his prior criticisms of "stakeholder capitalism," which he had published in the Wall Street Journal in February 2020 <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>.
+*   **Freedom of Speech and Corporate Pressure** After publishing a controversial article in the Wall Street Journal following January 6th, arguing that government pressure on private actors for censorship constitutes state action, three of his company's advisors resigned within 48 hours <a class="yt-timestamp" data-t="00:07:07">[00:07:07]</a>. This forced him to choose between potentially harming his company or stepping down to speak freely. He chose to step down to advocate for his views <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>. He felt a sense of disappointment from employees who followed him on his mission to develop medicines when he didn't adopt "unrelated social agendas" <a class="yt-timestamp" data-t="01:11:42">[01:11:42]</a>.
+*   **The Role of Corporations** Ramaswamy believes companies should focus on their core mission: making products and services without apology, maximizing profit for shareholders. He argues that taking on "social missions" distracts from this purpose and are best handled by institutions outside of corporate America <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. He contrasts this with Brian Armstrong of Coinbase, who asserted the company's focus was solely on crypto, not politics <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>.
+*   **Challenging ESG** His commitment to this belief led him to found Strive, an asset management firm that directly competes with giants like BlackRock, State Street, and Vanguard <a class="yt-timestamp" data-t="01:10:11">[01:10:11]</a>. Strive aims to restore the "unapologetic pursuit of excellence" over "distracting and dilutive political, environmental, and social agendas" (ESG) <a class="yt-timestamp" data-t="01:10:38">[01:10:38]</a>. Strive's first fund launched in August 2022 and reached close to a billion dollars in assets under management in less than a year <a class="yt-timestamp" data-t="01:10:27">[01:10:27]</a>.
+
+## Broader Societal Implications
+
+Ramaswamy views the embrace of "woke" ideologies as a symptom of a deeper national illness characterized by "deep-seated psychic insecurity" <a class="yt-timestamp" data-t="00:41:03">[00:41:03]</a>. He suggests that the focus on external conflicts or issues like Ukraine is often a deflection from domestic problems, such as economic stagnation and a decline in real wage growth <a class="yt-timestamp" data-t="00:41:07">[00:41:07]</a>.
+
+He attributes the rise of "populism" not to inherently illegitimate grievances, but to a "failure of our Elites" who have done a "horrible job" running institutions like the CDC and NIH <a class="yt-timestamp" data-t="00:41:34">[00:41:34]</a>. He believes that labeling these grievances as "populism" is a way to protect those in power from accountability <a class="yt-timestamp" data-t="00:42:08">[00:42:08]</a>.
+
+### Gender Dysphoria and Societal Norms
+
+Ramaswamy draws a distinction between the gay rights movement and the trans movement, arguing that the former is predicated on the idea of being "hardwired on the day you're born," while the latter suggests gender is "completely fluid" <a class="yt-timestamp" data-t="01:19:18">[01:19:18]</a>. He views this tension as a societal issue, stating that gender dysphoria is a "mental health disorder" <a class="yt-timestamp" data-t="01:20:12">[01:20:12]</a> (excluding intersex conditions like Klinefelter and Jacob's syndromes) <a class="yt-timestamp" data-t="01:20:18">[01:20:18]</a>. He believes it is "cruel" to affirm a child's gender confusion with surgery or hormone therapy, likening it to permanent decisions like tattoos that are restricted until adulthood <a class="yt-timestamp" data-t="01:21:25">[01:21:25]</a>. He supports limiting such medical interventions until age 18, allowing adults to make their own choices while maintaining traditional understandings of language and social norms <a class="yt-timestamp" data-t="01:22:07">[01:22:07]</a>.
+
+He sees the focus on gender dysphoria and other modern phenomena as "symptoms of a deeper void," part of a larger mental health epidemic that includes anxiety, depression, fentanyl use, and suicide <a class="yt-timestamp" data-t="01:23:11">[01:23:11]</a>. He links this to a society that has lost its fixed points of truth and is "making up new pillars" like the trans flag, Ukraine flag, or climate cult <a class="yt-timestamp" data-t="01:26:06">[01:26:06]</a>. He believes both sides of the political spectrum get "too hung up... on the symptoms without getting to a deeper discussion of the deeper cancer the deeper void that we need to fill" <a class="yt-timestamp" data-t="01:26:28">[01:26:28]</a>.

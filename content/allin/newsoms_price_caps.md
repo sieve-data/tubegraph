@@ -1,0 +1,34 @@
+---
+title: Newsoms Price Caps
+videoId: WQ35G6XI8Uw
+---
+
+From: [[allin]] <br/> 
+
+California Governor Gavin Newsom has implemented executive orders aimed at preventing price gouging and aiding recovery efforts following devastating wildfires in Los Angeles. These measures have sparked debate regarding their effectiveness and adherence to free-market principles.
+
+### Context: Los Angeles Wildfires <a class="yt-timestamp" data-t="00:22:20">[00:22:20]</a>
+The recent wildfires in Los Angeles have resulted in a significant human and economic toll. The death toll reached 25, with 25,000 structures destroyed, predominantly homes <a class="yt-timestamp" data-t="00:23:24">[00:23:24]</a>. Approximately 40,000 acres, or 60 square miles (larger than San Francisco), were consumed <a class="yt-timestamp" data-t="00:23:31">[00:23:31]</a>. The Palisades and Eaton fires continued to burn as of the discussion, with 80,000 people under evacuation orders <a class="yt-timestamp" data-t="00:23:44">[00:23:44]</a>. The estimated damage ranges from $135 billion to $150 billion, making it "10 times more costly than any other wildfire in history" <a class="yt-timestamp" data-t="00:24:14">[00:24:14]</a>. This surpasses previous large fires, such as the Camp Fire near Paradise, California, which cost $12.5 billion <a class="yt-timestamp" data-t="00:24:29">[00:24:29]</a>.
+
+California's leadership, including Newsom and Los Angeles Mayor Karen Bass, has faced widespread criticism for their handling of the crisis <a class="yt-timestamp" data-t="00:24:52">[00:24:52]</a>.
+
+### Newsom's Executive Orders and Price Gouging Protections <a class="yt-timestamp" data-t="00:25:41">[00:25:41]</a>
+Governor Newsom's executive orders address two main areas:
+
+1.  **Prohibition of Unsolicited Offers for Impacted Homes** <a class="yt-timestamp" data-t="00:25:44">[00:25:44]</a>: For three months, it is illegal to make an unsolicited offer on real estate in specific affected zip codes <a class="yt-timestamp" data-t="00:25:44">[00:25:44]</a>, particularly if the offer is "less than the fair market value of the property on January 6th" (before the fires) <a class="yt-timestamp" data-t="00:33:56">[00:33:56]</a>. This measure is intended to prevent fraudulent activities and predatory practices, such as "fire chasers" or "ambulance chasers" who exploit vulnerable homeowners <a class="yt-timestamp" data-t="00:34:23">[00:34:23]</a>. It is argued that this provides a "cooling off period" for victims to make rational decisions amidst emotional turmoil <a class="yt-timestamp" data-t="00:38:59">[00:38:59]</a>.
+2.  **Extension of Price Gouging Protections** <a class="yt-timestamp" data-t="00:26:08">[00:26:08]</a>: Newsom has extended price gouging protections indefinitely in the affected region <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>. California Penal Code section 396 prohibits businesses from raising prices of essential goods and services by more than 10% above their pre-emergency price <a class="yt-timestamp" data-t="00:29:01">[00:29:01]</a>. This applies to consumer goods, emergency supplies, building materials, and housing-related services <a class="yt-timestamp" data-t="00:29:33">[00:29:33]</a>.
+    *   Mayor Bass also created a "snitch hotline" (LA 311) for reporting price gouging <a class="yt-timestamp" data-t="00:26:28">[00:26:28]</a>.
+
+Additionally, Newsom issued an executive order to temporarily eliminate the Coastal Act review of permits for affected homes along the Pacific Coast Highway (PCH) and suspend the California Environmental Quality Act (CEQA) review <a class="yt-timestamp" data-t="00:25:55">[00:25:55]</a>.
+
+### Debate on Effectiveness <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>
+The indefinite price cap on goods and services is heavily criticized for creating a "disincentive for service providers to come into the state" <a class="yt-timestamp" data-t="00:37:37">[00:37:37]</a>. It is argued that a free market would naturally attract an influx of contractors, plumbers, and building materials if they could charge market rates, eventually leading to normalization of prices <a class="yt-timestamp" data-t="00:30:08">[00:30:08]</a>. The current policy, however, may cause delays, with estimates of rebuilding homes taking "six, seven years" <a class="yt-timestamp" data-t="00:31:47">[00:31:47]</a> due to a lack of available service providers <a class="yt-timestamp" data-t="00:31:39">[00:31:39]</a>.
+
+Critics point to the Northridge Earthquake in 1994, where the I-10 freeway was rebuilt in 66 days by offering a "$200,000 per day early build bonus" <a class="yt-timestamp" data-t="01:00:59">[01:00:59]</a>, as an example of how incentives can accelerate recovery <a class="yt-timestamp" data-t="01:01:16">[01:01:16]</a>. This suggests that the issue might not be "red tape" but rather the "willpower of the people who are running the tape" <a class="yt-timestamp" data-t="00:58:21">[00:58:21]</a>.
+
+While some acknowledge the governor's intent to protect vulnerable citizens, they argue that preventing unsolicited offers and capping prices will hinder the market's ability to facilitate quick recovery and allow people to sell their lots and move on <a class="yt-timestamp" data-t="00:32:41">[00:32:41]</a>.
+
+### Broader Implications <a class="yt-timestamp" data-t="00:49:13">[00:49:13]</a>
+The situation highlights a broader trend across the United States regarding disaster risk. Data from FEMA and CoreLogic indicate significant disaster risk, particularly for wildfires, in the Western US, including California, Nevada, Arizona, parts of Texas, and Washington <a class="yt-timestamp" data-t="00:50:00">[00:50:00]</a>. California alone has "three-quarters of a trillion dollars" of value at risk across 1.26 million homes from moderate to great fire risk <a class="yt-timestamp" data-t="00:50:38">[00:50:38]</a>. This suggests a need for national-level conversations and updated building codes to incorporate fireproof materials and designs <a class="yt-timestamp" data-t="00:51:09">[00:51:09]</a>.
+
+The discussion also touches on the concept of cities needing to "reinvent" themselves with a "startup mentality" to remain competitive and desirable places to live and work, particularly in the post-pandemic era <a class="yt-timestamp" data-t="00:55:01">[00:55:01]</a>. The competence of leadership, such as Los Angeles choosing Karen Bass over Rick Caruso (who previously demonstrated proactive disaster preparedness by hiring water trucks and firefighters to protect his Pacific Palisades Village development) <a class="yt-timestamp" data-t="01:06:03">[01:06:03]</a>, is seen as a critical factor in a city's ability to respond to crises and foster a thriving environment <a class="yt-timestamp" data-t="01:05:31">[01:05:31]</a>.

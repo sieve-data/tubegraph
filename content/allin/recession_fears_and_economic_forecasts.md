@@ -1,0 +1,30 @@
+---
+title: Recession fears and economic forecasts
+videoId: rj71DPhvpiE
+---
+
+From: [[allin]] <br/> 
+
+The [[economic_outlook_and_recession_predictions | economic outlook and recession predictions]] remain a significant point of discussion, with experts weighing in on the likelihood of a downturn and the appropriate policy responses.
+
+## The Current Economic Climate
+
+There is a prevalent belief that the U.S. economy is currently in a [[recession_concerns_and_job_market_analysis | recessionary stance]] <a class="yt-timestamp" data-t="01:27:28">[01:27:28]</a>. This perspective suggests that while inflation may be diminishing, purchasing power is shrinking even faster, making it feel like prices are still rising for many individuals <a class="yt-timestamp" data-t="01:29:29">[01:29:29]</a>. While nominal terms and data like Q2 GDP (around 2% growth) do not officially indicate a recession <a class="yt-timestamp" data-t="01:36:12">[01:36:12]</a>, there are concerns that economic data has consistently been reforecast downwards <a class="yt-timestamp" data-t="01:36:31">[01:36:31]</a>. For example, Q1 GDP was initially reported at 1.8% but later restated to 1.3% <a class="yt-timestamp" data-t="01:36:51">[01:36:51]</a>.
+
+A major underlying problem is massive government spending, with the deficit running at 6% of GDP while economic growth is charitably at 2% <a class="yt-timestamp" data-t="01:37:04">[01:37:04]</a>. If the budget were balanced, GDP growth would be negative 4% <a class="yt-timestamp" data-t="01:37:20">[01:37:20]</a>, indicating that current positive growth is unsustainable and propped up by federal spending <a class="yt-timestamp" data-t="01:37:32">[01:37:32]</a>. Federal government spending, projected at $7.3 trillion next year, accounts for about 30% of GDP <a class="yt-timestamp" data-t="01:38:11">[01:38:11]</a>. Furthermore, it's estimated that close to 30% of U.S. employment is either direct or indirect government employment <a class="yt-timestamp" data-t="01:38:24">[01:38:24]</a>, with some reports suggesting that government jobs account for over 100% of job creation in the past year, implying a net loss in private market jobs <a class="yt-timestamp" data-t="01:40:41">[01:40:41]</a>. This dependency on government spending creates a fundamental issue in the economy's structure <a class="yt-timestamp" data-t="01:39:03">[01:39:03]</a>.
+
+Industries like agriculture, food, and industrial sectors are struggling with orders falling off a cliff, massive oversupply, and under-purchasing <a class="yt-timestamp" data-t="01:39:23">[01:39:23]</a>. Many businesses are pushing up prices to meet debt payments on high-interest debt, leading to a "haves and have-nots" scenario where some high-margin businesses can scale, while others are crippled by interest rate changes <a class="yt-timestamp" data-t="01:39:42">[01:39:42]</a>.
+
+## Federal Reserve Policy and Rate Cuts
+
+At a recent policy meeting, the [[federal_reserve_rate_cuts_and_their_economic_implications | Fed held interest rates steady]] <a class="yt-timestamp" data-t="01:33:19">[01:33:19]</a>. Jerome Powell indicated that a reduction in the policy rate "could be on the table in September if inflation continues to fall" <a class="yt-timestamp" data-t="01:33:22">[01:33:22]</a>. He noted that the Fed is "getting closer to the point at which it'll be appropriate to reduce our policy rate but we're not quite at that point" <a class="yt-timestamp" data-t="01:33:28">[01:33:28]</a>.
+
+The market is currently estimating an 80% probability of a 25 basis point rate cut and a 20% probability of a 50 basis point cut at the September 17th-18th meeting <a class="yt-timestamp" data-t="01:33:43">[01:33:43]</a>. While the Fed is expected to cut rates, some believe a 25 basis point cut will likely occur, with a 50 basis point cut being a possibility if they are truly getting to him <a class="yt-timestamp" data-t="01:35:25">[01:35:25]</a>. However, it's believed that such a cut alone won't solve the broader [[us_economy_and_interest_rate_impacts | economic problems]] <a class="yt-timestamp" data-t="01:35:31">[01:35:31]</a>.
+
+## Market Performance and Industry Disparities
+
+Following the Fed's rate cut indications, markets saw a slight rally <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. However, this has been characterized by "halves and have-nots" <a class="yt-timestamp" data-t="01:41:08">[01:41:08]</a>. While some companies like AMD, Microsoft, and Nvidia reported strong results due to increased AI chip sales and demand <a class="yt-timestamp" data-t="01:41:14">[01:41:14]</a>, these rallies often lead to sell-offs as investors book profits, indicating a "sell the news" dynamic and potentially the tail end of the AI hype cycle <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>.
+
+## The Role of AI in the Economy
+
+AI is described as "massively deflationary" <a class="yt-timestamp" data-t="01:44:42">[01:44:42]</a>. It allows for significant efficiency capture and cost savings with relatively little money <a class="yt-timestamp" data-t="01:44:46">[01:44:46]</a>. Startups utilizing AI can pass these savings onto customers, enabling differential pricing against incumbent solutions <a class="yt-timestamp" data-t="01:44:59">[01:44:59]</a>. While AI-enabled companies could achieve 70-80% margins in the next 15-20 years, they will likely operate in smaller markets with thousands of such companies <a class="yt-timestamp" data-t="01:44:55">[01:44:55]</a>. This could lead to overall market growth but with an even larger increase in the number of companies, making it difficult for larger entities to capture value from their investments <a class="yt-timestamp" data-t="01:45:25">[01:45:25]</a>. This suggests a potential "reset in terms of the capex" that has occurred in AI <a class="yt-timestamp" data-t="01:45:43">[01:45:43]</a>.

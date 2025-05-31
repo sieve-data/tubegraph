@@ -1,0 +1,27 @@
+---
+title: Googles AI investment and strategy
+videoId: R3q5TrwSek0
+---
+
+From: [[allin]] <br/> 
+
+Google's significant investment in Artificial Intelligence (AI) and its strategic direction have been a focal point of recent discussions, particularly concerning the company's financial performance and future outlook. Despite strong earnings, a projected surge in capital expenditure has garnered attention, signaling Google's aggressive push in the [[ai_investment_and_technology | AI space]] <a class="yt-timestamp" data-t="01:10:09">[01:10:09]</a>.
+
+## Financial Performance and AI Investment
+Google's recent financial reports show robust growth. Revenue was up 12% year-over-year, reaching $96.5 billion, with cloud revenue increasing by 30% to $12 billion and YouTube ad revenue surging by 14% to $10.5 billion <a class="yt-timestamp" data-t="01:09:14">[01:09:14]</a>. Net profit saw a 28% increase year-over-year, totaling around $26.5 billion <a class="yt-timestamp" data-t="01:09:24">[01:09:24]</a>. For the full year, Google reported $350 billion in total revenue and $100 billion in net profit <a class="yt-timestamp" data-t="01:09:33">[01:09:33]</a>.
+
+A key concern for investors, leading to a 7% stock drop, was Google's announced capital expenditure (capex) <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>. The company plans to invest $75 billion in capex in 2025, marking a 42% jump over 2024 and 29% more than analysts anticipated <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. This substantial investment is primarily allocated to data centers, servers, and the overall [[ai_investment_and_technology | AI buildout]] <a class="yt-timestamp" data-t="01:10:09">[01:10:09]</a>.
+
+## AI Models and Productization
+Google's AI models are considered among the best across a wide range of capabilities <a class="yt-timestamp" data-t="01:10:40">[01:10:40]</a>. The challenge for Google is to effectively translate these advanced models into better products <a class="yt-timestamp" data-t="01:10:53">[01:10:53]</a>. While competitors like OpenAI are noted for being faster and having better margins in deep research, these are aspects that can be improved through post-training and productization efforts <a class="yt-timestamp" data-t="01:11:03">[01:11:03]</a>.
+
+Google's significant revenue stream from ad targeting is expected to directly benefit from AI-driven optimizations <a class="yt-timestamp" data-t="01:11:27">[01:11:27]</a>. The company is encouraged to provide more detailed disclosures on how the $75 billion capex is segregated, especially how much goes towards AI-enabled models for ad optimization versus more speculative pre-training and post-training initiatives <a class="yt-timestamp" data-t="01:11:40">[01:11:40]</a>.
+
+## Strategic Outlook and Return on Invested Capital (ROIC)
+The focus on Return on Invested Capital (ROIC) is a key framework for Google's [[ai_investment_and_technology | AI investment]] <a class="yt-timestamp" data-t="01:12:50">[01:12:50]</a>. It is argued that if Google could demonstrate that a significant portion of its investment is for immediate ad optimization, which has a higher ROIC, the market would react more positively <a class="yt-timestamp" data-t="01:12:53">[01:12:53]</a>. The company's ROIC is already increasing due to the implementation of AI models into its operations <a class="yt-timestamp" data-t="01:13:01">[01:13:01]</a>.
+
+Google's historical approach to computing infrastructure investment, characterized by frugality and thoughtful management, suggests that the $75 billion capex is a positive signal <a class="yt-timestamp" data-t="01:14:14">[01:14:14]</a>. Their past strategies included using cheap, disposable racks in the 98-2005 era, focusing on energy efficiency from 2005-2010, and extending depreciation schedules from 2-3 years to 6 years by 2021 due to AI optimization on maintenance <a class="yt-timestamp" data-t="01:14:19">[01:14:19]</a>. This history implies a strong line of sight on how they will achieve full utilization and a great return on their investment <a class="yt-timestamp" data-t="01:14:43">[01:14:43]</a>.
+
+With an assumed 20% ROIC on $75 billion, Google would need to generate an incremental $15 billion in profit annually, plus the amortization, which is approximately $12 billion (75/6 years) <a class="yt-timestamp" data-t="01:15:50">[01:15:50]</a>. This means they would need an incremental $27 billion in operating profit to meet their ROIC performance, which is seen as achievable, representing less than 20% of their current annual operating profit <a class="yt-timestamp" data-t="01:16:07">[01:16:07]</a>.
+
+The confidence in this investment also stems from Google's in-house capabilities, such as their TensorFlow chips, which contribute to cost-effectiveness and efficiency <a class="yt-timestamp" data-t="01:13:50">[01:13:50]</a>. This investment is viewed as a "strong and positive indicator" that Google has confidence in its strategy to transition from traditional search to chat-based interfaces <a class="yt-timestamp" data-t="01:16:43">[01:16:43]</a>, reinforcing the idea that they know where to invest rather than underinvesting <a class="yt-timestamp" data-t="01:17:03">[01:17:03]</a>.

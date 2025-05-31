@@ -1,0 +1,74 @@
+---
+title: Jared Kushners perspective on Middle East peace efforts
+videoId: 3EFk40AbO94
+---
+
+From: [[allin]] <br/> 
+
+Jared Kushner served as a Senior Advisor to [[US political dynamics and Trump administration | President Trump]] from 2017 to 2021, where he primarily focused on the US-Mexico relationship and led [[Middle East conflicts and the IsraelPalestine issue | Middle East peace efforts]] <a class="yt-timestamp" data-t="01:53:00">[01:53:00]</a>. After leaving office, Kushner founded Affinity Partners, a private equity firm that engages in growth investing globally <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a>. The firm's mission includes bringing Gulf money into Israel and the U.S., seeking to foster closer ties between countries through investment <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>.
+
+## Personal and Political Journey
+
+Kushner described having a liberal upbringing in New York's Upper East Side <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a>. His perspective began to shift as he traveled the country and saw different realities than those experienced in New York <a class="yt-timestamp" data-t="03:28:00">[03:28:00]</a>. Initially a registered Democrat, whose father was a significant donor to figures like Chuck Schumer, Hillary Clinton, and Cory Booker <a class="yt-timestamp" data-t="05:00:00">[05:00:00]</a>, he changed his registration to independent during the Obama years as he felt the Democratic Party no longer fully represented his viewpoint <a class="yt-timestamp" data-t="05:17:00">[05:17:00]</a>.
+
+A pivotal moment occurred when he attended a [[US political dynamics and Trump administration | Trump]] rally in Springfield, Illinois. Despite media portrayals of these rallies as "KKK conventions," Kushner observed a diverse crowd of "hardworking Americans" who felt [[US political dynamics and Trump administration | Trump]] was giving them a voice <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>. He noted a disconnect between establishment views, such as support for Common Core education, and the public's opposition, which piqued his interest and led him to seek out differing viewpoints <a class="yt-timestamp" data-t="06:26:00">[06:26:00]</a>.
+
+Kushner characterizes [[US political dynamics and Trump administration | Trump's]] campaign as highly entrepreneurial, operating unconventionally due to difficulty in hiring traditional Washington staff <a class="yt-timestamp" data-t="08:22:00">[08:22:00]</a>. He credits [[US political dynamics and Trump administration | Trump's]] success to his ability to move public opinion rather than follow polls, sticking to issues like illegal immigration, which became a top concern during the campaign <a class="yt-timestamp" data-t="09:05:00">[09:05:00]</a>. He describes [[US political dynamics and Trump administration | Trump]] as constantly evolving and learning, akin to a startup finding product-market fit <a class="yt-timestamp" data-t="09:57:00">[09:57:00]</a>.
+
+Kushner explains his decision to appear on podcasts like Lex Fridman and the All-In Pod is due to the medium allowing for "real conversations" and "nuanced perspectives" not often found in traditional news media <a class="yt-timestamp" data-t="11:57:00">[11:57:00]</a>.
+
+## Addressing the Israel-Hamas Conflict
+
+Kushner believes Israel's current approach to the [[IsraelHamas conflict and potential solutions | Gaza conflict]] has been wise and methodical, taking time to prepare and garner international support <a class="yt-timestamp" data-t="14:55:00">[14:55:00]</a>. He stresses that [[Middle East conflicts and the IsraelPalestine issue | Hamas]] has been the primary cause of the difficult lives for Palestinians in Gaza, highlighting how aid materials intended for civilian use were instead diverted by [[Middle East conflicts and the IsraelPalestine issue | Hamas]] for military purposes, such as building tunnels and rockets <a class="yt-timestamp" data-t="16:59:00">[16:59:00]</a>.
+
+He acknowledges the risk of horizontal escalation and international condemnation, but states that countries are "talking their book" to their populations <a class="yt-timestamp" data-t="19:57:00">[19:57:00]</a>. He points to Israel's efforts to protect civilians by opening corridors and warning them to flee, noting that [[Middle East conflicts and the IsraelPalestine issue | Hamas]] has prevented them from leaving and used them as human shields <a class="yt-timestamp" data-t="20:35:00">[20:35:00]</a>. The immediate threat comes from Hezbollah in the north <a class="yt-timestamp" data-t="21:25:00">[21:25:00]</a>, but the U.S. moving battle carriers and issuing strong statements has helped de-escalate the situation by signaling a threat to Iran itself, rather than just its proxies <a class="yt-timestamp" data-t="21:32:00">[21:32:00]</a>.
+
+Kushner states that while Turkey's Erdogan has a "big heart for the Palestinian people" and expresses condemnation, he must acknowledge that bad governance by Palestinian leaders has contributed to their plight <a class="yt-timestamp" data-t="22:25:00">[22:25:00]</a>. The ultimate goal, he asserts, is the elimination of [[Middle East conflicts and the IsraelPalestine issue | Hamas]] and the establishment of a structure that allows Palestinians to live freely <a class="yt-timestamp" data-t="22:47:00">[22:47:00]</a>.
+
+## Historical Context of Arab-Palestinian Relations
+
+Kushner provides a brief historical overview of the Arab-Palestinian relationship:
+*   **1948 War:** Following the UN partition plan, Arab nations rejected the formation of Israel and attacked. Many Palestinians were displaced. Some who remained became Israeli citizens with equal rights <a class="yt-timestamp" data-t="23:33:00">[23:33:00]</a>.
+*   **1967 Six-Day War:** Egypt attacked Israel again, leading to Israel expanding its territory and taking control of the West Bank (previously Jordan's) and Gaza Strip (previously administered by Egypt) <a class="yt-timestamp" data-t="24:41:00">[24:41:00]</a>. Arab leaders historically used the Palestinian issue to stoke nationalism and deflect from domestic shortcomings <a class="yt-timestamp" data-t="25:21:00">[25:21:00]</a>.
+*   **Yasser Arafat and the PLO:** Arafat emerged after 1967, leading Fatah to take over the Palestine Liberation Organization (PLO) <a class="yt-timestamp" data-t="25:50:00">[25:50:00]</a>. They were expelled from Jordan in 1970 ("Black September") due to their disruptive activities, then moved to Lebanon, and later to Tunisia <a class="yt-timestamp" data-t="26:16:00">[26:16:00]</a>.
+*   **Oslo Accords:** The concept of a Palestinian state didn't gain widespread Arab League support until 1988 <a class="yt-timestamp" data-t="27:50:00">[27:50:00]</a>. The PLO's support for Saddam Hussein in 1991 weakened their position, leading to the Oslo Accords. Arafat entered these accords out of a lack of other options and a desire for legitimacy <a class="yt-timestamp" data-t="28:20:00">[28:20:20]</a>.
+*   **Emergence of Hamas:** [[Middle East conflicts and the IsraelPalestine issue | Hamas]] emerged around 1987-1988 as an offshoot of the Egyptian Muslim Brotherhood, committed to preventing any compromise with Israel through terrorism <a class="yt-timestamp" data-t="28:05:00">[28:05:00]</a>.
+
+## The New Middle East and a Path Forward
+
+Kushner describes a "New Middle East" emerging, driven by economic opportunities in countries like Saudi Arabia, UAE, and Qatar <a class="yt-timestamp" data-t="29:43:00">[29:43:00]</a>. He believes the primary divide in the [[Middle East tensions and Israels intelligence operations | Middle East]] is between leaders who seek to provide opportunity for their people and those who cling to past issues or religion to deflect from their failures <a class="yt-timestamp" data-t="30:08:00">[30:08:00]</a>. The Palestinian issue, he argues, is no longer useful for Arab states, only for Iran, which backs groups like [[Middle East conflicts and the IsraelPalestine issue | Hamas]] and Hezbollah to perpetuate instability <a class="yt-timestamp" data-t="30:47:00">[30:47:00]</a>.
+
+To address the fluid nature of groups like [[Middle East conflicts and the IsraelPalestine issue | Hamas]], Kushner emphasizes targeting leadership and "significantly degrading" their capabilities <a class="yt-timestamp" data-t="37:55:00">[37:55:00]</a>. Crucially, a framework for hope and opportunity must be created to prevent radicalization, as despair fuels extremist recruitment <a class="yt-timestamp" data-t="37:26:00">[37:26:00]</a>.
+
+Kushner recounts the [[Trumps Middle East trip and economic deals | Trump administration's]] efforts to combat extremism:
+*   **Saudi Arabia Trip (2017):** [[Trumps Middle East trip and economic deals | President Trump]] challenged [[Middle East tensions and Israels intelligence operations | Middle Eastern]] leaders to root out extremist ideology <a class="yt-timestamp" data-t="34:40:00">[34:40:00]</a>.
+*   **Counter-Terrorism Finance Center:** Established with Gulf countries to stop funding to terrorist organizations <a class="yt-timestamp" data-t="35:10:00">[35:10:00]</a>.
+*   **Counter-Extremism Center in Saudi Arabia:** Combatting online radicalization and replacing radical clerics <a class="yt-timestamp" data-t="35:22:00">[35:22:00]</a>.
+
+He notes the success of these efforts, pointing to a new generation of Saudi tech entrepreneurs as role models for the region <a class="yt-timestamp" data-t="36:47:00">[36:47:00]</a>.
+
+## The Two-State Solution and Palestinian Governance
+
+Kushner dismisses the idea of East Jerusalem as a Palestinian capital as a "cliche" that only emerged in 1988, noting that Amman was the capital when Jordan governed the West Bank <a class="yt-timestamp" data-t="48:03:00">[48:03:00]</a>. He believes a pragmatic solution is needed, learning from Gaza's experience after Israel's withdrawal in 2005-2006, which led to [[Middle East conflicts and the IsraelPalestine issue | Hamas]]'s democratic election and subsequent security risks for Israel <a class="yt-timestamp" data-t="49:09:00">[49:09:00]</a>.
+
+Kushner asserts that a two-state solution is possible, especially in the West Bank, but it must ensure no security threat to Israel and include a viable Palestinian economy <a class="yt-timestamp" data-t="01:03:12">[01:03:12]</a>. He highlights that the biggest obstacle for the Palestinians has been their "bad leadership," specifically the corrupt Palestinian Authority (PA), whose President Abbas has been in power far beyond his elected term <a class="yt-timestamp" data-t="01:01:14">[01:01:14]</a>.
+
+> [!NOTE] Bad Governance
+> Kushner argues that the Palestinian people have suffered from "bad governance" <a class="yt-timestamp" data-t="01:19:00">[01:19:00]</a>. He held a conference in Bahrain where investors were willing to help the Palestinian people, but deemed the region "not an investable place" due to a lack of fair judiciary, rule of law, and transparent institutions <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>. He cites the example of Salam Fayyad, whose effective, non-corrupt administration of the Palestinian economy in 2007 was cut short by President Abbas, who saw him as a threat <a class="yt-timestamp" data-t="01:34:00">[01:34:00]</a>.
+
+Kushner advocates for new ideas for leadership, perhaps leveraging institutions like the World Bank or regional governments like Jordan <a class="yt-timestamp" data-t="01:53:00">[01:53:00]</a>. He believes that international aid for rebuilding must be "conditions based" to ensure accountability and desired outcomes <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>.
+
+## [[Trump administrations foreign policy and economic strategies | Trump Administration's Foreign Policy]] Impact
+
+Kushner credits the [[Trump administrations foreign policy and economic strategies | Trump administration]] with significant achievements in the [[Middle East tensions and Israels intelligence operations | Middle East]], leaving behind a region in much better shape than they inherited <a class="yt-timestamp" data-t="01:37:37">[01:37:37]</a>. This included:
+*   **Abraham Accords:** Five peace deals between Israel and majority-Muslim countries <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>.
+*   **Iran Sanctions:** Iran's oil sales dropped from 2.6 million barrels/day to 100,000 barrels/day, leaving them "dead broke" <a class="yt-timestamp" data-t="01:57:47">[01:57:47]</a>.
+*   **Cutting UNRWA Funding:** A controversial decision, but justified by Kushner as redirecting money from organizations used to build "Terror tunnels and Rockets" <a class="yt-timestamp" data-t="01:58:11">[01:58:11]</a>.
+
+He argues that the [[Trump administrations foreign policy and economic strategies | Trump administration]] intentionally "shrunk" the Palestinian issue by exposing the PA's corruption and their refusal to improve their people's lives <a class="yt-timestamp" data-t="01:58:47">[01:58:47]</a>. This shift in the Arab world, coupled with the final deal between Qatar, Saudi Arabia, UAE, Egypt, and Bahrain, set the stage for a potential Saudi-Israel deal that was "on the table" when [[US political dynamics and Trump administration | Trump]] left office <a class="yt-timestamp" data-t="01:58:49">[01:58:49]</a>.
+
+Kushner suggests the current situation, marked by renewed conflict and increased Iranian financial strength, is a result of the Biden administration's reversal of these policies, funding Palestinians and UNRWA again <a class="yt-timestamp" data-t="01:59:05">[01:59:05]</a>. He believes the situation can be fixed with strong, smart, and new ideas, avoiding a return to "old ideas" that yielded "old results" <a class="yt-timestamp" data-t="01:59:16">[01:59:16]</a>.
+
+## Views on Geopolitical Strategy
+
+Kushner emphasizes that countries operate based on "interests," not "permanent allies or permanent enemies" <a class="yt-timestamp" data-t="01:30:21">[01:30:21]</a>. He states that the [[Civil and international conflict perspectives | Russia-Ukraine war]] was "easily avoidable" and that the U.S. failed to prevent or minimize it <a class="yt-timestamp" data-t="01:31:17">[01:31:17]</a>. He believes the current [[Middle East tensions and Israels intelligence operations | Middle East]] conflicts are effectively a proxy war for Russia and China, who seek to stretch and distract the U.S. <a class="yt-timestamp" data-t="01:29:50">[01:29:50]</a>. His approach to foreign policy is to look for areas of overlapping interest and seek pragmatic solutions to reduce volatility and danger <a class="yt-timestamp" data-t="01:30:41">[01:30:41]</a>.

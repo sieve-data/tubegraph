@@ -1,0 +1,47 @@
+---
+title: Real estate market and the impact of WeWork bankruptcy
+videoId: gFoHAl9MwZU
+---
+
+From: [[allin]] <br/> 
+
+The commercial real estate market, particularly in urban centers like San Francisco, is facing significant distress, with a massive amount of debt held by commercial banks. This situation is further complicated by the ongoing discussion of interest rates and the recent bankruptcy of WeWork, which highlights the precarious nature of current lease agreements.
+
+## Commercial Real Estate Distress
+There is approximately $3 trillion of commercial real estate loans currently held on commercial banks' balance sheets in the U.S. <a class="yt-timestamp" data-t="00:22:16">[00:22:16]</a>. This represents an insane amount of debt <a class="yt-timestamp" data-t="00:22:24">[00:22:24]</a>.
+
+### San Francisco Case Study
+San Francisco serves as a prime example of the challenges facing commercial real estate. A 125,000-square-foot building at 115 Sansom is expected to be fully vacant within two to three years <a class="yt-timestamp" data-t="00:22:47">[00:22:47]</a>. The equity owner is auctioning the building, with brokers estimating a sale price of $300 per square foot, or approximately $38 million <a class="yt-timestamp" data-t="00:23:06">[00:23:06]</a>. However, the building carries $53 million in debt, with Bank of America holding a $54 million note issued in 2016 <a class="yt-timestamp" data-t="00:23:14">[00:23:14]</a>. If sold at $39 million, the equity owner would receive nothing, and the bank would recover only 7 cents on the dollar, incurring a significant write-down <a class="yt-timestamp" data-t="00:23:36">[00:23:36]</a>. This highlights a trend where owners try to show banks the true, lower value of properties to force debt restructuring <a class="yt-timestamp" data-t="00:23:53">[00:23:53]</a>.
+
+Many building owners are seeking to restructure their debt with longer payment terms, lower rates, or debt forgiveness, as the current debt overhang makes it impossible for these buildings to be profitable <a class="yt-timestamp" data-t="00:24:05">[00:24:05]</a>. The alternative is to hand the keys back to the bank <a class="yt-timestamp" data-t="00:24:17">[00:24:17]</a>.
+
+A major concern is that the $3 trillion in commercial real estate debt is currently held at par by banks, not being discounted or marked as impaired <a class="yt-timestamp" data-t="00:24:33">[00:24:33]</a>. Once these assets are written down, bank balance sheets will be impaired <a class="yt-timestamp" data-t="00:24:40">[00:24:40]</a>.
+
+Commercial real estate developers describe the situation as "ugly," with many "hanging on by their fingernails" <a class="yt-timestamp" data-t="00:25:23">[00:25:23]</a>. Buildings in San Francisco are selling for $200-$300 a square foot, compared to $1,000 a couple of years ago <a class="yt-timestamp" data-t="00:25:42">[00:25:42]</a>. The replacement cost for these buildings is estimated at over $1,200 a foot due to high construction costs and complex entitlement processes <a class="yt-timestamp" data-t="00:26:01">[00:26:01]</a>. This means properties are selling for 10-20% of their replacement cost, indicating "fire sales" <a class="yt-timestamp" data-t="00:26:12">[00:26:12]</a>.
+
+It is estimated that half the debt in San Francisco's commercial real estate market might need to be written off <a class="yt-timestamp" data-t="00:33:17">[00:33:17]</a>. There is a 30% vacancy rate in San Francisco, with a large number of "zombie buildings" <a class="yt-timestamp" data-t="00:31:30">[00:31:30]</a>.
+
+### Demand Challenges
+A key challenge is the unclear demand picture for these spaces. Many companies, including those that were once in San Francisco, have gone virtual, with salaries still pegged to San Francisco but employees distributed nationally <a class="yt-timestamp" data-t="00:27:48">[00:27:48]</a>. The high operating expenses (Opex) of maintaining physical offices in San Francisco (a 15-20% increase) deter companies from returning <a class="yt-timestamp" data-t="00:30:07">[00:30:07]</a>.
+
+Commercial real estate prices in San Francisco are expected to normalize back to pre-2010 levels, when rates were around $25-35 a square foot <a class="yt-timestamp" data-t="00:30:05">[00:30:05]</a>. If a recovery occurs, it could offer 3-4X upside on money due to current low prices, close to land value <a class="yt-timestamp" data-t="00:31:48">[00:31:48]</a>. This requires a long-term outlook of five to ten years <a class="yt-timestamp" data-t="00:32:11">[00:32:11]</a>.
+
+For demand to return, fundamental changes in the city's politics are necessary, as San Francisco faces massive budget shortfalls (projected at nearly $500 million for 2024-25, reaching $1.3 billion by 2027-28) <a class="yt-timestamp" data-t="00:40:12">[00:40:12]</a>. Politicians may be forced to lay off city employees or reduce "crazy transfer taxes" and regulations to foster economic activity <a class="yt-timestamp" data-t="00:34:04">[00:34:04]</a>.
+
+## Impact of [[us_economy_and_interest_rate_impacts | Interest Rate Impacts]] and Broader Economic Outlook
+The market's recent rally, particularly in growth stocks, is partly attributed to the belief that the Federal Reserve is unlikely to increase rates further, with a higher probability of future rate decreases <a class="yt-timestamp" data-t="00:21:09">[00:21:09]</a>. This scenario is considered positive for equities and distressed real estate, as lower rates increase valuations <a class="yt-timestamp" data-t="00:21:55">[00:21:55]</a>.
+
+A perceived end to "forever wars" like the Ukraine conflict, or their recharacterization as chronic, manageable issues, could also remove significant risk from the market <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>. This shift in sentiment, along with mutual funds reinvesting cash after fiscal year-end tax loss harvesting, contributes to a "risk-on" environment <a class="yt-timestamp" data-t="00:20:04">[00:20:04]</a>. However, the commercial real estate overhang remains a significant, unaddressed risk <a class="yt-timestamp" data-t="00:22:10">[00:22:10]</a>.
+
+### Government Intervention: Office-to-Residential Conversions
+The Biden administration announced a $45 billion federal program to convert commercial buildings into condos and residential units <a class="yt-timestamp" data-t="00:36:30">[00:36:30]</a>. This program relies on a 1998 transportation and infrastructure bill authorizing low-interest loans for specific infrastructure projects <a class="yt-timestamp" data-t="00:36:43">[00:36:43]</a>.
+
+However, office-to-residential conversions are difficult in practice. Most commercial buildings do not meet structural or architectural requirements, lacking proper window coverage or utilities due to large floor plates <a class="yt-timestamp" data-t="00:37:24">[00:37:24]</a>. While the program's $45 billion might not be used efficiently, it sends a symbolic signal to blue cities and states to "loosen up their entitlements" and regulations to address commercial real estate distress <a class="yt-timestamp" data-t="00:37:57">[00:37:57]</a>. This is seen as potentially the first of several programs to support the market, framed as affordable housing initiatives but primarily designed to mitigate economic losses <a class="yt-timestamp" data-t="00:38:44">[00:38:44]</a>.
+
+## WeWork Bankruptcy and Its [[Impact on Venture Capital and Investment | Investment Impact]]
+WeWork is expected to file for Chapter 11 bankruptcy due to a significant debt burden and $10 billion in lease obligations through 2027, with an additional $15 billion due after 2028 <a class="yt-timestamp" data-t="00:42:07">[00:42:07]</a>. As of June, WeWork had 777 locations globally, including 229 in the U.S. <a class="yt-timestamp" data-t="00:42:18">[00:42:18]</a>. The company has burned $8 billion in free cash flow since Q4 2019, leading to its reputation as a "capital destruction machine" <a class="yt-timestamp" data-t="00:43:04">[00:43:04]</a>. SoftBank, primarily through its Vision Fund, invested $16.9 billion in WeWork <a class="yt-timestamp" data-t="00:45:49">[00:45:49]</a>.
+
+Despite its past failures, WeWork's bankruptcy presents a unique opportunity. A private equity firm could acquire the company out of bankruptcy and potentially "make a fortune" <a class="yt-timestamp" data-t="00:43:10">[00:43:10]</a>. The strategy would involve:
+1.  **Shedding bad locations**: Eliminating unprofitable or low-occupancy sites <a class="yt-timestamp" data-t="00:43:39">[00:43:39]</a>.
+2.  **Renegotiating leases**: Approaching landlords to convert guaranteed rents into fee- and revenue-sharing agreements, or demanding significant discounts (e.g., 60 cents on the dollar) <a class="yt-timestamp" data-t="00:44:06">[00:44:06]</a>. Landlords would likely accept these terms rather than face full vacancy <a class="yt-timestamp" data-t="00:44:12">[00:44:12]</a>.
+The key to future profitability lies in WeWork's prior massive investments in renovating spaces. The billions spent on "tenant improvement (TI) dollars" by WeWork mean that a new owner would inherit already high-quality, attractive spaces without incurring those costs <a class="yt-timestamp" data-t="00:45:15">[00:45:15]</a>. This aligns with the real estate adage that "the third owner makes all the money" <a class="yt-timestamp" data-t="00:46:21">[00:46:21]</a>.

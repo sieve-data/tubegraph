@@ -1,0 +1,31 @@
+---
+title: Bidens cognitive health and its implications for leadership
+videoId: SoTOF-plFwc
+---
+
+From: [[allin]] <br/> 
+
+## Overview of Concerns
+President Joe Biden's cognitive health has become a significant topic of discussion, particularly after his decision not to undergo a cognitive test as part of his annual physical, a first for a sitting president <a class="yt-timestamp" data-t="01:05:10">[01:05:10]</a>. This decision has fueled public and political debate regarding his fitness for office, especially given his age. Biden is 81 years old and would be 82 at the start of a potential second term, ending it at 86, making him the oldest president by far <a class="yt-timestamp" data-t="01:05:20">[01:05:20]</a>. For comparison, Ronald Reagan, previously the oldest president, was 69 at the start of his presidency and 77 at its conclusion <a class="yt-timestamp" data-t="01:05:44">[01:05:44]</a>.
+
+## Public and Expert Opinion
+A poll by ABC News indicated that 86% of Americans across both political parties believe Biden is too old to be president <a class="yt-timestamp" data-t="01:08:53">[01:08:53]</a>, with 59% thinking both Biden and [[Analysis of Trumps cabinet picks and their potential impact | Donald Trump]] (who is 77) are too old <a class="yt-timestamp" data-t="01:08:58">[01:08:58]</a>.
+
+Concerns extend beyond age to apparent cognitive decline:
+*   **Refusal of Cognitive Test**: The White House's decision to omit a cognitive test from his physical is seen by critics as a "tell" that they fear he might fail <a class="yt-timestamp" data-t="01:17:17">[01:17:17]</a>. Elon Musk commented that "a basic cognitive test should not be something that someone who controls nuclear strikes is allowed to skip" <a class="yt-timestamp" data-t="01:07:24">[01:07:24]</a>.
+*   **Avoidance of Interviews**: The Biden administration declined the traditional Super Bowl interview, considered a "softball" opportunity for any president <a class="yt-timestamp" data-t="01:09:22">[01:09:22]</a>. This is contrasted with [[Presidential Interviews and Their Impact | Donald Trump's]] willingness to engage in hostile interviews and maintain a vigorous schedule <a class="yt-timestamp" data-t="01:18:23">[01:18:23]</a>.
+*   **The Her Report**: Special counsel Robert Hur's report on classified documents declined to prosecute Biden, citing that a jury would likely view him as "an elderly man with a poor memory" and "manifestly senile," making him a sympathetic defendant <a class="yt-timestamp" data-t="01:09:41">[01:09:41]</a>.
+    *   Biden's subsequent press conference, intended to refute the report, reportedly backfired as he appeared agitated and confused Egypt with Mexico when discussing the Gaza crisis <a class="yt-timestamp" data-t="01:10:30">[01:10:30]</a>.
+    *   The Babylon Bee humorously summarized the situation: "Man deemed too senile to stand for trial still fit to run country" <a class="yt-timestamp" data-t="01:09:57">[01:09:57]</a>.
+
+One speaker, Chamath, stated that the decision not to take a cognitive test was "the straw that broke the camel's back," leading him to decide he "absolutely cannot vote for Biden anymore" <a class="yt-timestamp" data-t="01:07:59">[01:07:59]</a>. He believes a cognitive test should be mandatory for a president, given their control over matters like nuclear strikes <a class="yt-timestamp" data-t="01:08:30">[01:08:30]</a>.
+
+## Implications for Governance and Leadership
+The debate over Biden's cognitive health raises several critical implications for the presidency and the country:
+*   **Risk of an "Unelected" Leader**: The lack of transparency around cognitive health increases the risk of an individual who is not fully capable of decision-making effectively controlling the executive branch. This could lead to a situation where "somebody that was fundamentally unelected" makes crucial decisions <a class="yt-timestamp" data-t="01:07:43">[01:07:43]</a>.
+*   **"Regent" Presidency**: If Biden were to win re-election, there is speculation that his second term could see the presidency become more of an "office instead of a person," run by powerful ministers or staff <a class="yt-timestamp" data-t="01:19:04">[01:19:04]</a>. This is seen by some as a potentially favorable situation for staffers, as a weak president allows them to administer policy with greater autonomy <a class="yt-timestamp" data-t="01:31:36">[01:31:36]</a>.
+*   **Constitutional Requirements**: While there's a minimum age for the presidency (35 years), there's no constitutional provision to bar someone from office based on cognitive impairment <a class="yt-timestamp" data-t="01:11:49">[01:11:49]</a>. Any such requirement would necessitate a constitutional amendment <a class="yt-timestamp" data-t="01:12:09">[01:12:09]</a>.
+*   **Loss of Public Faith**: Critics argue that the Democratic Party's perceived efforts to "paper over or deny the visible reality of Biden's decline" <a class="yt-timestamp" data-t="01:23:59">[01:23:59]</a>, combined with the controlled nature of his public appearances, erode public faith in democratic institutions <a class="yt-timestamp" data-t="01:20:52">[01:20:52]</a>.
+*   **Party Dynamics**: The situation highlights issues within the Democratic Party, which is perceived to be "stuck with a candidate who's an obvious decline" <a class="yt-timestamp" data-t="01:17:38">[01:17:38]</a>. Despite unhappiness within the party, there is no clear mechanism to replace a candidate who has won all necessary primary votes against his will <a class="yt-timestamp" data-t="01:27:01">[01:27:01]</a>. The choice of [[kamala_harriss_presidential_campaign_and_election_strategies | Kamala Harris]] as a potential replacement is complicated by her own unpopularity, which is even higher than Biden's <a class="yt-timestamp" data-t="01:30:32">[01:30:32]</a>.
+
+Ultimately, discussions suggest that the electorate's judgment is key, and voters should have access to all relevant information to make informed decisions <a class="yt-timestamp" data-t="01:13:53">[01:13:53]</a>. The current situation, however, points to a potential "shadow government" operating behind a less capable figurehead <a class="yt-timestamp" data-t="01:24:20">[01:24:20]</a>.

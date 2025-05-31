@@ -1,0 +1,56 @@
+---
+title: Dedollarization and global economic shifts
+videoId: Zf2tYNhq5J8
+---
+
+From: [[allin]] <br/> 
+
+Recent discussions highlight a potential [[Changing world order | shift in global economic dynamics]], particularly regarding the dominance of the U.S. dollar and the rise of other economic powers <a class="yt-timestamp" data-t="01:16:56">[01:16:56]</a>.
+
+## China-Brazil Trade Agreement
+China and Brazil have struck a deal to trade in their own currencies, no longer using the U.S. dollar as an intermediary <a class="yt-timestamp" data-t="01:17:02">[01:17:02]</a>. This agreement involves a direct trade in yuan and reais <a class="yt-timestamp" data-t="01:17:16">[01:17:16]</a>. China is Brazil's top trading partner, having surpassed the U.S. in 2009 <a class="yt-timestamp" data-t="01:18:08">[01:18:08]</a>. This bilateral trade is approximately $150 billion annually <a class="yt-timestamp" data-t="01:17:41">[01:17:41]</a>.
+
+## China's Global Economic Strategy
+China has historically made significant investments in infrastructure, railways, waterways, and ports in countries like Brazil, Africa, and Australia to support their agriculture and manufacturing economies <a class="yt-timestamp" data-t="01:17:48">[01:17:48]</a>, <a class="yt-timestamp" data-t="01:18:13">[01:18:13]</a>, <a class="yt-timestamp" data-t="01:18:20">[01:18:20]</a>. This strategy allows China to participate in the economic value generated while supporting local economies <a class="yt-timestamp" data-t="01:18:36">[01:18:36]</a>. If the U.S. continues to push for deglobalization, China will likely continue to develop deep trade and investment ties with other nations, potentially increasing the strength and importance of its currency <a class="yt-timestamp" data-t="01:19:30">[01:19:30]</a>, <a class="yt-timestamp" data-t="01:20:07">[01:20:07]</a>.
+
+## The Dedollarization Debate
+The concept of "dedollarization" has gained traction, but experts offer differing views on its current significance:
+
+### Overhyped by Chamath Palihapitiya
+Chamath Palihapitiya dismisses the current talk of dedollarization as a "nothing burger" <a class="yt-timestamp" data-t="01:20:39">[01:20:39]</a>. He points out that the yuan is pegged to the U.S. dollar <a class="yt-timestamp" data-t="01:21:01">[01:21:01]</a>. Therefore, whether countries trade directly in yuan or use the U.S. dollar, they are still indexed to the dollar <a class="yt-timestamp" data-t="01:21:11">[01:21:11]</a>. China has effectively manipulated the yuan's value by artificially suppressing it since joining the WTO, which has enabled its export dominance <a class="yt-timestamp" data-t="01:22:23">[01:22:23]</a>. He argues that if the yuan were free-floating and not pegged, its value would likely skyrocket, crushing its export value <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>, making it less attractive for trade <a class="yt-timestamp" data-t="01:42:12">[01:42:12]</a>.
+
+### A Growing Risk by David Sacks
+David Sacks believes dedollarization has not happened yet but is a growing risk <a class="yt-timestamp" data-t="01:32:04">[01:32:04]</a>. He cites several reasons:
+*   **Massive Debt**: The [[US national debt and economic implications | U.S. has $32 trillion in debt]], which makes its debt less attractive as bondholders worry about potential monetization through printing money <a class="yt-timestamp" data-t="01:24:02">[01:24:02]</a>, <a class="yt-timestamp" data-t="01:24:43">[01:24:43]</a>.
+*   **Weaponization of the Dollar**: The U.S. has increasingly used the dollar as a weapon, for example, by seizing hundreds of billions of dollars of Russian reserves and excluding Russia from the SWIFT banking system <a class="yt-timestamp" data-t="01:24:07">[01:24:07]</a>, <a class="yt-timestamp" data-t="01:25:02">[01:25:02]</a>, <a class="yt-timestamp" data-t="01:25:05">[01:25:05]</a>. This makes the dollar an unreliable store of value for other countries and wealthy individuals <a class="yt-timestamp" data-t="01:24:35">[01:24:35]</a>, <a class="yt-timestamp" data-t="01:25:57">[01:25:57]</a>.
+*   **Alternatives**: China has developed its own non-dollar competitor to SWIFT called CIPS, which it is signing up countries to use for direct currency swaps <a class="yt-timestamp" data-t="01:26:24">[01:26:24]</a>, <a class="yt-timestamp" data-t="01:26:53">[01:26:53]</a>.
+
+Sacks highlights that while the U.S. dollar may still be "the most eligible bachelor in the leper colony" <a class="yt-timestamp" data-t="01:38:54">[01:38:54]</a>, the current path of deficits and unfunded liabilities "cannot go on forever" <a class="yt-timestamp" data-t="01:39:14">[01:39:14]</a>. The shift away from the dollar would not be an overnight collapse but a slow devaluation over time, similar to what happened with the pound sterling <a class="yt-timestamp" data-t="01:43:02">[01:43:02]</a>.
+
+## [[Global Macroeconomic Trends and Challenges | U.S. Economic Challenges]]
+The U.S. faces a looming [[global_fiscal_challenges_and_national_debt | government debt crisis]] <a class="yt-timestamp" data-t="01:27:50">[01:27:50]</a>. Approximately half of the [[US national debt and economic implications | U.S. government's debt]], around $16 trillion, needs to be refinanced in the next three years <a class="yt-timestamp" data-t="01:27:59">[01:27:59]</a>. This refinancing will occur at much higher interest rates than the current average of 1.7% <a class="yt-timestamp" data-t="01:28:08">[01:28:08]</a>. By 2030, interest expenses could exceed $1 trillion annually, representing more than a quarter of the total federal budget <a class="yt-timestamp" data-t="01:28:24">[01:28:24]</a>.
+
+### Unfunded Liabilities
+Beyond federal debt, the U.S. faces significant unfunded liabilities at the state and city levels, particularly related to pensions <a class="yt-timestamp" data-t="01:30:26">[01:30:26]</a>. For example, Chicago faces a $44 billion pension hole <a class="yt-timestamp" data-t="01:30:26">[01:30:26]</a>, with 80% of its property taxes going solely to pay for pensions that are only 25% funded <a class="yt-timestamp" data-t="01:33:02">[01:33:02]</a>, <a class="yt-timestamp" data-t="01:33:14">[01:33:14]</a>. These defined-benefit pensions often allow employees to get a high percentage of their final year's salary, including overtime, for life <a class="yt-timestamp" data-t="01:34:30">[01:34:30]</a>.
+
+Social Security is also projected to face bankruptcy between 2030 and 2035 <a class="yt-timestamp" data-t="01:30:59">[01:30:59]</a>. The expectation is that the U.S. government will likely have to backstop these liabilities by printing more money <a class="yt-timestamp" data-t="01:30:44">[01:30:44]</a>, <a class="yt-timestamp" data-t="01:36:47">[01:36:47]</a>.
+
+## Paths to Resolution
+Solutions to these [[Global macroeconomic trends and challenges | macroeconomic challenges]] include:
+*   **Higher Taxes**: An inevitable step to source income and fill budget holes <a class="yt-timestamp" data-t="01:32:32">[01:32:32]</a>, <a class="yt-timestamp" data-t="01:47:46">[01:47:46]</a>. Some suggest a return to 70% tax rates on the wealthiest <a class="yt-timestamp" data-t="01:47:57">[01:47:57]</a>. Historically, federal tax revenue has consistently been around 19% of GDP, regardless of the top marginal tax rate, suggesting a broader, lower tax rate is more effective for economic growth <a class="yt-timestamp" data-t="01:51:06">[01:51:06]</a>.
+*   **Austerity Measures/Spending Cuts**: This is politically challenging as politicians are generally elected to provide more, not less <a class="yt-timestamp" data-t="01:48:12">[01:48:12]</a>. Reducing spending requires extraordinary political will and public understanding <a class="yt-timestamp" data-t="01:48:30">[01:48:30]</a>.
+*   **Productivity Gains through Technology**: Innovations like AI can create leverage by enabling more output with fewer resources, potentially leading to new jobs and economic growth <a class="yt-timestamp" data-t="01:49:08">[01:49:08]</a>, <a class="yt-timestamp" data-t="01:56:27">[01:56:27]</a>.
+*   **Intelligent Immigration/Entrepreneurship**: Attracting global talent and fostering entrepreneurship can drive economic activity and job creation <a class="yt-timestamp" data-t="01:37:26">[01:37:26]</a>, <a class="yt-timestamp" data-t="01:51:58">[01:51:58]</a>.
+
+## Global Context and [[US Economy and Global Influence | US Influence]]
+The U.S. faces these issues relatively, as other major economies like the Eurozone and China also face their own challenges <a class="yt-timestamp" data-t="01:29:11">[01:29:11]</a>, <a class="yt-timestamp" data-t="01:29:22">[01:29:22]</a>. Despite its problems, the U.S. is considered well-positioned due to its freedoms, innovation, and ability to attract talent <a class="yt-timestamp" data-t="01:37:18">[01:37:18]</a>, <a class="yt-timestamp" data-t="01:54:02">[01:54:02]</a>. Some argue that the U.S. will continue to be exceptional and that its debt-to-GDP ratio will simply creep higher without a sudden crisis <a class="yt-timestamp" data-t="01:52:57">[01:52:57]</a>.
+
+### U.S. vs. China Engagement
+A key debate centers on engagement with China:
+*   **Historical Context**: The policy of constructive engagement with China, which aimed to foster democracy and friendship through economic ties, has not worked out as predicted <a class="yt-timestamp" data-t="01:02:42">[01:02:42]</a>, <a class="yt-timestamp" data-t="01:03:02">[01:03:02]</a>. Instead, China has converted its wealth into political power and seeks to dominate its region <a class="yt-timestamp" data-t="01:03:18">[01:03:18]</a>.
+*   **Geopolitics vs. Economics**: The relationship with China has shifted from primarily positive-sum economic terms to increasingly geopolitical, zero-sum terms <a class="yt-timestamp" data-t="01:04:30">[01:04:30]</a>. The U.S. wants to avoid a rival power that could win a security competition <a class="yt-timestamp" data-t="01:04:16">[01:04:16]</a>.
+*   **Investment Restrictions**: There's a call for strict rules against U.S. firms investing in China's AI sector, similar to CFIUS regulations for foreign investment in sensitive U.S. technologies <a class="yt-timestamp" data-t="01:10:10">[01:10:10]</a>, <a class="yt-timestamp" data-t="01:01:09">[01:01:09]</a>. While selling non-strategic products to China is acceptable, investing in their advanced technologies is seen as dangerous <a class="yt-timestamp" data-t="01:09:25">[01:09:25]</a>.
+*   **Ally vs. Adversary Framework**: A simple rule is proposed: if a country is a U.S. ally, business engagement is acceptable; if it's an adversary, engagement should be avoided due to potential complications <a class="yt-timestamp" data-t="01:04:58">[01:04:58]</a>, <a class="yt-timestamp" data-t="01:05:07">[01:05:07]</a>.
+
+## Outlook
+The U.S. is seen as "bending it" and potentially heading for a break in its economic trajectory if current trends continue <a class="yt-timestamp" data-t="01:16:13">[01:16:13]</a>, <a class="yt-timestamp" data-t="01:16:17">[01:16:17]</a>. The need for productivity boosts, potentially through technologies like AI, is considered crucial <a class="yt-timestamp" data-t="01:56:27">[01:56:27]</a>.

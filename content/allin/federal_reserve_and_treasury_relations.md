@@ -1,0 +1,30 @@
+---
+title: Federal Reserve and Treasury relations
+videoId: p1MAA8y4CgU
+---
+
+From: [[allin]] <br/> 
+
+The Federal Reserve recently held interest rates steady for the second consecutive meeting, following two consecutive cuts of 50 basis points in September and 25 basis points in December. This decision comes despite earlier hopes for four or five rate cuts this year, with current expectations lowered to two quarter-point cuts for the rest of 2025, bringing rates down to about 4% <a class="yt-timestamp" data-t="01:00:29">[01:00:29]</a>. [[federal_reserve_rate_cuts_and_their_economic_implications | Federal Reserve rate cuts and their economic implications]]
+
+Former President Trump has urged the Federal Reserve to cut rates to facilitate a smoother transition for his tariffs, which are set to take effect on April 2nd <a class="yt-timestamp" data-t="01:00:56">[01:00:56]</a>. [[federal_reserves_impact_on_tariffs_and_economic_sentiment | Federal Reserve's impact on tariffs and economic sentiment]]
+
+## Challenges and Disconnects
+
+Chamath Palihapitiya points out a significant challenge inherited by the current Treasury, stemming from what he views as a mistake by former Fed Chair Janet Yellen: the continued issuance of short-term money to finance deficits when rates were low <a class="yt-timestamp" data-t="01:01:23">[01:01:23]</a>. [[bond_market_and_government_spending | Bond market and government spending]] This strategy meant borrowing for the shortest possible duration, leading to a situation where a massive amount, estimated at nine to ten trillion dollars, now needs to be refinanced at much higher rates <a class="yt-timestamp" data-t="01:02:46">[01:02:46]</a>. Scott Bessent of the Treasury also confirmed this policy was to keep rates lower, even as market rates moved up towards 5% <a class="yt-timestamp" data-t="01:01:56">[01:01:56]</a>.
+
+Palihapitiya perceives a "fundamental disconnect and break" between the Federal Reserve and the rest of the Treasury and government <a class="yt-timestamp" data-t="01:03:08">[01:03:08]</a>. While Bessent maintains the Fed is an independent organization that should remain so <a class="yt-timestamp" data-t="01:03:20">[01:03:20]</a>, Palihapitiya suggests that Fed Chair Powell does not fully grasp the severity of the economic situation and is reluctant to cooperate <a class="yt-timestamp" data-t="01:03:31">[01:03:31]</a>. This stance, he argues, is a "political gambit" that is dangerous, will slow the pace of rate cuts, and could exert significant pressure on the economy <a class="yt-timestamp" data-t="01:03:43">[01:03:43]</a>. He believes Powell lacks the necessary data to make clear decisions and will only act when absolutely necessary <a class="yt-timestamp" data-t="01:03:57">[01:03:57]</a>. [[federal_reserve_interest_rate_strategies | Federal Reserve interest rate strategies]]
+
+## Unique Economic Landscape
+
+David Sacks highlights that the Fed's mandate is full employment and a 2% inflation target, an arbitrary number not derived from a specific economic necessity <a class="yt-timestamp" data-t="01:04:22">[01:04:22]</a>. [[macroeconomic_discussion_on_inflation_and_federal_reserve_policy | Macroeconomic discussion on inflation and Federal Reserve policy]] He notes that the current economic climate is unprecedented. There hasn't been a time in the last century when the federal government aimed to cut spending by a trillion dollars in 100 days, which will have a recessionary effect by reducing the flow of federal money into businesses and incomes <a class="yt-timestamp" data-t="01:04:55">[01:04:55]</a>. Additionally, a significant shift in tariff policy for goods entering the United States, also a first in 100 years, adds to the uncertainty, potentially impacting consumer spending and product costs <a class="yt-timestamp" data-t="01:05:23">[01:05:23]</a>. [[federal_reserves_impact_on_tariffs_and_economic_sentiment | Federal Reserve's impact on tariffs and economic sentiment]]
+
+Given these "confounding factors," the Fed is in a "wait and see" mode <a class="yt-timestamp" data-t="01:06:25">[01:06:25]</a>. The bond market also appears to be in a similar state, with the 10-year yield declining, signaling an expectation of deflationary or recessionary pressures and a need for rate cuts <a class="yt-timestamp" data-t="01:06:32">[01:06:32]</a>.
+
+## Strategies and Outlook
+
+Chamath further criticizes the Fed for having "lost the script," allowing the Treasury to pump out trillions in short-term paper and being complicit in Yellen's strategy <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>. He suggests that the Fed is "recalcitrant" and refuses to cooperate <a class="yt-timestamp" data-t="01:11:37">[01:11:37]</a>.
+
+As a workaround to the Fed's stance, Scott Bessent aims to deregulate and loosen bank lending standards, particularly at the community level <a class="yt-timestamp" data-t="01:11:46">[01:11:46]</a>. This approach would make money available for small businesses and local communities, helping to fight off a recession <a class="yt-timestamp" data-t="01:12:31">[01:12:31]</a>. This strategy could relegate the Fed to a less credible, more "random" organization <a class="yt-timestamp" data-t="01:12:45">[01:12:45]</a>.
+
+The hosts note the "soup of issues" facing the economy, including consumer confidence, which is not good, and immigration, particularly the potential deportation of 20 million people <a class="yt-timestamp" data-t="01:10:30">[01:10:30]</a>. This complexity makes the Fed's job extremely difficult, leading them to keep the economy "going straight" without hitting the brakes or gas <a class="yt-timestamp" data-t="01:10:32">[01:10:32]</a>. The administration's plan needs to be "crisper" to avoid appearing chaotic <a class="yt-timestamp" data-t="01:10:48">[01:10:48]</a>. [[the_current_state_of_the_us_economy_and_federal_reserve_policies | The current state of the US economy and Federal Reserve policies]]

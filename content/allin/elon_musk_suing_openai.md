@@ -1,0 +1,49 @@
+---
+title: Elon Musk suing OpenAI
+videoId: snbTCWL6rxo
+---
+
+From: [[allin]] <br/> 
+
+[[Elon Musks companies and roles | Elon Musk]] has filed a lawsuit against [[OpenAI and AI advancements | OpenAI]], its CEO Sam Altman, and President Greg Brockman, alleging breach of contract, breach of fiduciary duty, and unfair competition <a class="yt-timestamp" data-t="01:31:00">[01:31:00]</a>. The lawsuit was filed shortly after the recording of a previous podcast episode, sparking widespread discussion and "meme Wars" <a class="yt-timestamp" data-t="01:21:00">[01:21:00]</a>.
+
+## Background and Allegations
+[[OpenAI and AI advancements | OpenAI]] was initially established as an open-source, non-profit organization <a class="yt-timestamp" data-t="01:41:00">[01:41:00]</a>. [[Elon Musks companies and roles | Elon Musk]] contributed between $50 million and $75 million to the organization, with the understanding that its technology would remain open source for the benefit of all <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>. The core concern for [[Elon Musks companies and roles | Elon Musk]] was to prevent any single large tech company, initially Google and now [[Microsofts investment in OpenAI and generative AI technologies | Microsoft]], from controlling AI <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>.
+
+However, [[OpenAI and AI advancements | OpenAI]] transitioned into a closed-source, for-profit venture, forming "OpenAI Global LLC" in 2019 while retaining a non-profit entity <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>. This change allowed them to benefit from non-profit tax breaks during development before moving to a for-profit model <a class="yt-timestamp" data-t="02:02:00">[02:02:00]</a>.
+
+[[Elon Musks companies and roles | Elon Musk]] contends he was "swindled" or "cheated" as the company's fundamental purpose was altered <a class="yt-timestamp" data-t="04:00:00">[04:00:00]</a>. He argues that if this model is allowed, it could set a precedent for other companies to start as non-profits, leverage pre-tax dollars, and then convert to for-profit entities, circumventing taxes <a class="yt-timestamp" data-t="04:17:00">[04:17:00]</a>. He seeks for [[OpenAI and AI advancements | OpenAI]] to open source its models and for shareholders to receive no financial benefit <a class="yt-timestamp" data-t="02:32:00">[02:32:00]</a>.
+
+Additionally, [[Elon Musks companies and roles | Elon Musk]] claims [[OpenAI and AI advancements | OpenAI]] aggressively used his name to raise funds and that he was instrumental in recruiting early critical hires, including Ilya Sutskever, from Google <a class="yt-timestamp" data-t="06:07:00">[06:07:00]</a>.
+
+## [[OpenAI and AI advancements | OpenAI]]'s Defense and Structural Nuances
+[[OpenAI and AI advancements | OpenAI]] has responded by releasing [[Elon Musks companies and roles | Elon Musk]]'s emails, suggesting he acknowledged the necessity of a for-profit subsidiary to raise billions of dollars to compete with entities like Google DeepMind <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a> <a class="yt-timestamp" data-t="09:02:00">[09:02:00]</a>.
+
+David Friedberg suggests that a "market-based system" with for-profit incentives was needed to secure the capital required for advanced AI development, drawing a parallel to the Cystic Fibrosis Foundation's investment in Aurora Biosciences <a class="yt-timestamp" data-t="10:00:00">[10:00:00]</a>. The foundation invested $100 million in a for-profit company that developed a cystic fibrosis drug and later sold its interest for $3.3 billion, demonstrating "venture philanthropy" <a class="yt-timestamp" data-t="10:11:00">[10:11:00]</a>.
+
+The key legal questions for [[OpenAI and AI advancements | OpenAI]]'s non-profit status are whether the non-profit entity still owns a meaningful piece of the for-profit and if it continues to perform "charitable stuff" <a class="yt-timestamp" data-t="11:57:00">[11:57:00]</a>. Concerns arose when "non-profit experts" were removed from the board, potentially crossing a "tripwire" <a class="yt-timestamp" data-t="12:44:00">[12:44:00]</a>.
+
+Chamath Palihapitiya argues that while [[OpenAI and AI advancements | OpenAI]]'s legal structure allows for non-profit investment in for-profit entities, the transfer of IP and employees from the non-profit to the for-profit, coupled with significant equity grants and secondary sales to employees, is problematic <a class="yt-timestamp" data-t="13:26:00">[13:26:00]</a>. He compares it to the Mozilla Foundation, which set up separate boards and ensured all profits flowed back to the non-profit, with employees receiving only above-market salaries, not equity <a class="yt-timestamp" data-t="14:30:00">[14:30:00]</a>. The IRS investigated Mozilla for tax reasons despite these precautions <a class="yt-timestamp" data-t="15:22:00">[15:22:00]</a>.
+
+[[OpenAI and AI advancements | OpenAI]]'s structure involves a non-profit, a holding company, and the for-profit OpenAI Global LLC, with [[Microsofts investment in OpenAI and generative AI technologies | Microsoft]] reportedly owning 49% of the for-profit <a class="yt-timestamp" data-t="15:07:00">[15:07:00]</a>. The remaining 51% is held by a combination of the non-profit, employees, and investors <a class="yt-timestamp" data-t="15:32:00">[15:32:00]</a>.
+
+The **[[OpenAI and AI advancements | OpenAI]] LP agreement** states that the partnership's duty to the mission (ensuring safe AGI benefits humanity) takes precedence over generating profit <a class="yt-timestamp" data-t="34:30:00">[34:30:00]</a>. It even allows the general partner to reinvest all cash flow into R&D without obligation to limited partners, implying investors could potentially lose their money <a class="yt-timestamp" data-t="34:46:00">[34:46:00]</a>.
+
+## The Open Source vs. Closed Source Debate
+A central point of contention is [[OpenAI and AI advancements | OpenAI]]'s shift from an open-source model, which was meant to allow humanity to benefit from the code, to a closed-source model <a class="yt-timestamp" data-t="20:16:00">[20:16:00]</a>. Critics argue this change allows employees and investors to capture value that was intended for broader public benefit <a class="yt-timestamp" data-t="24:20:00">[24:20:00]</a>. Some employees have reportedly sold $2 billion in secondary shares <a class="yt-timestamp" data-t="24:39:00">[24:39:00]</a>.
+
+While [[Apples AI developments and OpenAI partnership | Apple]] and Meta are producing open-source AI software, [[OpenAI and AI advancements | OpenAI]] claims its code is "too dangerous" to be open source <a class="yt-timestamp" data-t="26:47:00">[26:47:00]</a>.
+
+## Future Outlook and Broader Implications
+The lawsuit highlights a potential loophole in the US tax system that could motivate many companies <a class="yt-timestamp" data-t="06:47:00">[06:47:00]</a>. The IRS is expected to scrutinize the case closely due to the significant money involved and the wealth transfer to employees <a class="yt-timestamp" data-t="15:10:00">[15:10:00]</a> <a class="yt-timestamp" data-t="25:16:00">[25:16:00]</a>.
+
+If [[OpenAI and AI advancements | OpenAI]] were to revert to an open-source model, [[Elon Musks companies and roles | Elon Musk]] has implied he would drop the lawsuit <a class="yt-timestamp" data-t="05:36:00">[05:36:00]</a>. However, this wouldn't resolve the broader tax and structuring issues now "cracked open" for the entire non-profit industry <a class="yt-timestamp" data-t="31:07:00">[31:07:00]</a>.
+
+There's speculation that if [[OpenAI and AI advancements | OpenAI]] had been a for-profit from the start, [[Elon Musks companies and roles | Elon Musk]]'s initial investment could have given him significant ownership, possibly 20% or more, worth billions today <a class="yt-timestamp" data-t="32:02:00">[32:02:00]</a>.
+
+Sam Altman's "OpenAI Ventures fund," which he was initially the sole owner of (though now claimed to be a clerical error), raises "corporate opportunity issues" where the economic opportunity should belong to [[OpenAI and AI advancements | OpenAI]] itself <a class="yt-timestamp" data-t="21:14:00">[21:14:00]</a>. This convoluted compensation structure, where he has "retained optionality to monetize the ecosystem" rather than direct equity, is seen as problematic <a class="yt-timestamp" data-t="32:53:00">[32:53:00]</a>. The SEC is reportedly looking into these matters <a class="yt-timestamp" data-t="34:09:00">[34:09:00]</a>.
+
+## The Pursuit of AGI
+[[OpenAI and AI advancements | OpenAI]]'s stated mission is to create Artificial General Intelligence (AGI) <a class="yt-timestamp" data-t="38:50:00">[38:50:00]</a>. The definition of AGI is debated, ranging from AI that can replace 80% of jobs to being smarter than the smartest human being <a class="yt-timestamp" data-t="39:10:00">[39:10:00]</a> <a class="yt-timestamp" data-t="41:56:00">[41:56:00]</a>. Critics express concern about the "cultish and weird" aspect of explicitly pursuing AGI, which in common parlance can mean "Skynet" or a "sentient God" <a class="yt-timestamp" data-t="41:31:00">[41:31:00]</a> <a class="yt-timestamp" data-t="41:16:00">[41:16:00]</a>.
+
+Proponents, however, view AGI as a tool that could profoundly expand humanity's capabilities, enabling individuals to accomplish tasks that would otherwise require massive collective effort, such as designing a Mars mission or curing cancer <a class="yt-timestamp" data-t="39:39:00">[39:39:00]</a>. The recent "Claude 3 Model" by Anthropic, which demonstrated the ability to solve complex quantum physics problems and complete screenplays, showcases the impressive capabilities of current AI advancements <a class="yt-timestamp" data-t="42:24:00">[42:24:00]</a>.

@@ -1,0 +1,39 @@
+---
+title: Impact of Twitter acquisition by Elon Musk
+videoId: HE5CTKqWEV0
+---
+
+From: [[allin]] <br/> 
+
+[[elon_musks_companies_and_roles | Elon Musk]]'s acquisition of Twitter in 2022 was widely considered the "biggest business surprise" of the year <a class="yt-timestamp" data-t="00:43:03">[00:43:03]</a>. The event transitioned from a "whimsical fantasy" to a "cold-hearted reality" involving a significant negotiating saga and court battles <a class="yt-timestamp" data-t="00:43:06">[00:43:06]</a>. This saga included [[elon_musks_companies_and_roles | Elon Musk]] himself getting deposed for six hours <a class="yt-timestamp" data-t="00:46:02">[00:46:02]</a>.
+
+## Reasons for the Acquisition
+The acquisition was driven by [[elon_musks_companies_and_roles | Elon Musk]]'s view that Twitter was a "digital town square" essential for democracy <a class="yt-timestamp" data-t="01:00:00">[01:00:00]</a>. He aimed to restore free speech principles and fix the platform's engineering and financial health <a class="yt-timestamp" data-t="01:09:53">[01:09:53]</a>.
+
+## Operational Changes and Impact
+Upon acquiring Twitter, [[elon_musks_companies_and_roles | Elon Musk]] implemented rapid and drastic changes, which included significant head-cutting, cost-cutting, and demands for employees to return to the office <a class="yt-timestamp" data-t="00:43:31">[00:43:31]</a>. He managed to reduce the cost structure by a factor of three or even four <a class="yt-timestamp" data-t="01:01:17">[01:01:17]</a>.
+
+The initial weeks were described as a "roller coaster" with "highs and lows," but the company quickly contained bankruptcy risks <a class="yt-timestamp" data-t="01:00:38">[01:00:38]</a>. The pace of feature releases increased, becoming faster than Twitter's history <a class="yt-timestamp" data-t="01:01:12">[01:01:12]</a>.
+
+Key changes and features include:
+*   **View Counts on Tweets** Users can now see how many views their tweets generate, which reveals the extensive reach of the platform <a class="yt-timestamp" data-t="00:48:08">[00:48:08]</a>. This feature was technically challenging to implement due to the high volume of transactions per second <a class="yt-timestamp" data-t="01:00:06">[01:00:06]</a>.
+*   **Affiliate Badges** This feature allows users to affiliate with business accounts, creating secondary badges next to their names (e.g., a "Craft Ventures" badge for [[elon_musks_companies_and_roles | David Sacks]]) <a class="yt-timestamp" data-t="00:50:17">[00:50:17]</a>. This helps verify organizational affiliations <a class="yt-timestamp" data-t="01:01:46">[01:01:46]</a>.
+*   **Revenue Streams** The verified blue checkmark is a significant new revenue stream, also serving as a means of identifying real people versus bots <a class="yt-timestamp" data-t="01:01:25">[01:01:25]</a>.
+*   **Bot Reduction** Previous internal structures at Twitter focused on "monetizable daily active users," creating an incentive to overlook fake accounts <a class="yt-timestamp" data-t="01:07:41">[01:07:41]</a>. [[elon_musks_companies_and_roles | Elon Musk]]'s team has taken steps to reduce bots and "troll situations," which are accounts operated by humans but not genuinely <a class="yt-timestamp" data-t="01:13:27">[01:13:27]</a>. The reduction of hate speech impressions by a third was also noted <a class="yt-timestamp" data-t="01:06:51">[01:06:51]</a>.
+
+The changes made by [[elon_musks_companies_and_roles | Elon Musk]] have influenced other Silicon Valley CEOs and boards, who are now looking to his behavior as a model for challenging teams in difficult environments <a class="yt-timestamp" data-t="00:43:40">[00:43:40]</a>. His approach of "bias to action" and willingness to make mistakes and iterate quickly, rather than being overly cautious, is seen as a critical leadership trait <a class="yt-timestamp" data-t="01:38:10">[01:38:10]</a>.
+
+## [[elon_musks_views_on_free_speech_and_digital_town_squares | Free Speech and Content Moderation]]
+[[elon_musks_companies_and_roles | Elon Musk]]'s general principle for content moderation is to "hue close to the law in any given country" <a class="yt-timestamp" data-t="01:11:30">[01:11:30]</a>. He has articulated a policy of "freedom of speech but not reach," meaning that while certain content (like "hate speech") may be allowed, it won't be promoted or monetized <a class="yt-timestamp" data-t="01:13:02">[01:13:02]</a>.
+
+Transparency in moderation is a key goal. [[elon_musks_companies_and_roles | Elon Musk]] committed to rolling out features by January to inform users why their accounts are suspended or subject to "visibility filtering" (also known as "Shadow Banning") <a class="yt-timestamp" data-t="01:16:08">[01:16:08]</a>. He acknowledged that the suspension of Paul Graham was a mistake and personally apologized for it <a class="yt-timestamp" data-t="01:14:45">[01:14:45]</a>. However, he defended the suspension of certain journalists who he felt engaged in "doxing" and broke rules, believing "the same rules should apply to people who call themselves journalists as to anyone else on the system" <a class="yt-timestamp" data-t="01:14:55">[01:14:55]</a>.
+
+## Twitter Files Revelations
+[[elon_musks_companies_and_roles | Elon Musk]] initiated the release of "Twitter Files" to transparently address past actions and build trust <a class="yt-timestamp" data-t="01:21:23">[01:21:23]</a>. He stated that "almost every conspiracy theory that people had about Twitter turned out to be true," often "more true than people thought" <a class="yt-timestamp" data-t="01:21:40">[01:21:40]</a>.
+
+The most shocking revelation for [[elon_musks_companies_and_roles | Elon Musk]] was the FBI's role in "psyop stuff" <a class="yt-timestamp" data-t="01:22:25">[01:22:25]</a>. This included the FBI allegedly flagging content for take down that had "nothing to do with terrorism," even flagging satire <a class="yt-timestamp" data-t="01:23:30">[01:23:30]</a>. This raised questions about government agencies bypassing warrants and potentially embedding themselves in other major tech companies like YouTube and Facebook <a class="yt-timestamp" data-t="01:24:51">[01:24:51]</a>.
+
+The Twitter Files revealed a "collusion" and "cozy relationship" between Twitter's internal sensors and bureaucrats from agencies like the FBI, DHS, and Pentagon, which was described as a "disturbing dystopian relationship" <a class="yt-timestamp" data-t="02:06:02">[02:06:02]</a>. There was a consistent effort by the FBI to communicate to Twitter executives and news media that they should expect a "hack and leak operation" related to Hunter Biden <a class="yt-timestamp" data-t="01:26:06">[01:26:06]</a>. This led to the temporary censorship and widespread discredit of the New York Post's report on the Hunter Biden laptop, which later turned out to be true <a class="yt-timestamp" data-t="01:28:18">[01:28:18]</a>.
+
+## Personal Impact on [[elon_musks_companies_and_roles | Elon Musk]]
+While his actions at Twitter are seen as principled by many, [[elon_musks_companies_and_roles | Elon Musk]]'s reputation has "gotten really hurt" <a class="yt-timestamp" data-t="02:11:15">[02:11:15]</a>. This is partly due to the controversies and the fact that he's "not making a lot of friends" <a class="yt-timestamp" data-t="02:11:22">[02:11:22]</a>. His decision to take on Twitter added an "additional burden" to his existing responsibilities at other companies like [[challenges_and_innovations_in_teslas_operations | Tesla]] and [[spacex_achievements_and_economic_implications | SpaceX Achievements and Economic Implications]] <a class="yt-timestamp" data-t="02:11:28">[02:11:28]</a>.

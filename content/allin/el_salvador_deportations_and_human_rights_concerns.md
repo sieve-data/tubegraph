@@ -1,0 +1,30 @@
+---
+title: El Salvador Deportations and Human Rights Concerns
+videoId: Iazo7g40VbQ
+---
+
+From: [[allin]] <br/> 
+
+The Trump Administration initiated deportations of alleged gang members to the notorious Cojutepeque (Cott CE coot) prison in El Salvador <a class="yt-timestamp" data-t="01:09:44">[01:09:44]</a>.
+
+## Deportation Details
+*   **Number of Individuals** 238 alleged gang members were deported <a class="yt-timestamp" data-t="01:09:44">[01:09:44]</a>.
+*   **Legal Basis** The deportations were carried out under the Alien Enemies Act of 1798 <a class="yt-timestamp" data-t="01:10:04">[01:10:04]</a>.
+    *   This act allows the president to detain and deport individuals without due process from an "enemy Nation" during an "invasion" or "predatory incursion" <a class="yt-timestamp" data-t="01:10:08">[01:10:08]</a>.
+    *   Historically, this act has only been used during actual wars, such as by Franklin D. Roosevelt to deport Germans, Italians, and Japanese during World War II <a class="yt-timestamp" data-t="01:10:17">[01:10:17]</a>.
+*   **Administration's Stance** The Trump Administration claims these gang members were intentionally sent to the US, labeling them a "hybrid criminal State" <a class="yt-timestamp" data-t="01:10:25">[01:10:25]</a>. Most of the deported individuals had criminal records in the US, as confirmed by ICE <a class="yt-timestamp" data-t="01:10:33">[01:10:33]</a>.
+
+## Human Rights Concerns and Misidentification
+Despite the administration's claims, there are significant human rights concerns, including allegations that some individuals were misidentified as gang members or terrorists <a class="yt-timestamp" data-t="01:10:40">[01:10:40]</a>:
+*   **Jersey Rees Baros** A former professional soccer player, he fled Venezuela after being tortured for protesting and is a refugee. He was reportedly mistaken for a gang member due to an arm tattoo supporting his favorite club, Real Madrid, and a social media post misconstrued as gang signs (it was actually the language for "I love you") <a class="yt-timestamp" data-t="01:10:55">[01:10:55]</a>.
+*   **Norberto Rodriguez** A shoe salesman and social media influencer, he fled Venezuela for Colombia due to starvation with his family. He was suspected because of a tattoo featuring playing cards and dice, which his family says covered a scar <a class="yt-timestamp" data-t="01:11:27">[01:11:27]</a>.
+*   **Andre Hernandez** A stylist and makeup artist, he claims no criminal history and sought asylum after fleeing Venezuela due to persecution for being gay. His arrest was also based on tattoos that his attorneys state are not gang affiliated <a class="yt-timestamp" data-t="01:11:46">[01:11:46]</a>.
+
+A US District Judge paused these deportations <a class="yt-timestamp" data-t="01:12:12">[01:12:12]</a>. However, the Administration reportedly continued deportations and even released highly produced videos threatening people with the El Salvador prison <a class="yt-timestamp" data-t="01:12:17">[01:12:17]</a>. Secretary Kristi Noem visited the prison, thanking El Salvador for partnering to "incarcerate" terrorists and stating that if people come to the US illegally, they "will be removed and prosecuted," and this facility is a "tool in our toolkit" <a class="yt-timestamp" data-t="01:25:57">[01:25:57]</a>.
+
+## Perspectives on Policy and Due Process
+*   **Arguments Against Lack of Due Process** Freeberg argued against sending people to prison or detention centers without due process, likening it to Guantanamo Bay, stating it doesn't align with American values <a class="yt-timestamp" data-t="01:14:34">[01:14:34]</a>. He suggests that if individuals are illegally present and part of criminal enterprises, they should be sent back to their country of origin for their courts to try them <a class="yt-timestamp" data-t="01:14:54">[01:14:54]</a>.
+*   **El Salvadorian Context** El Salvador saw a radical reduction in its homicide rate per capita (from 103 per 100,000 in 2015 to below 2 per 100,000 last year) by implementing an aggressive policy of rounding people up without due process <a class="yt-timestamp" data-t="01:15:05">[01:15:05]</a>. While this had a profoundly positive effect on society, it came at the cost of due process <a class="yt-timestamp" data-t="01:15:41">[01:15:41]</a>. There are documented cases of innocent people being released after spending time in these prisons <a class="yt-timestamp" data-t="01:16:00">[01:16:00]</a>.
+*   **Debate on Trade-offs** The discussion raised the philosophical question of whether the benefit of a safer society outweighs an error rate where innocent people are incarcerated without due process <a class="yt-timestamp" data-t="01:17:50">[01:17:50]</a>. It was generally agreed that due process is a core American value that should not be compromised <a class="yt-timestamp" data-t="01:18:29">[01:18:29]</a>.
+*   **Critiques of Administration's Actions** Critics stated the administration should take ownership of mistakes, rather than attacking journalists or gloating about the severity of prisons <a class="yt-timestamp" data-t="01:04:04">[01:04:04]</a>. Concerns were raised about the "sadistic nature" of the administration for producing videos from prisons known for torture <a class="yt-timestamp" data-t="01:18:51">[01:18:51]</a>. It was argued that such actions could derail the administration, as Americans deeply value human rights and proper legal process <a class="yt-timestamp" data-t="01:19:13">[01:19:13]</a>.
+*   **Administration's Strategy as Deterrent** The administration's strategy for [[immigration_and_its_implications | immigration]] and crime is to send a signal that deters people from entering the country illegally or engaging in gang activities, expecting some to naturally immigrate out or choose to go home <a class="yt-timestamp" data-t="01:24:48">[01:24:48]</a>. They believe this approach will ultimately save innocent lives in America <a class="yt-timestamp" data-t="01:25:39">[01:25:39]</a>.

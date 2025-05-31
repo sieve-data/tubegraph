@@ -1,0 +1,38 @@
+---
+title: The role of open source in innovation and regulation
+videoId: F9cO3-MLHOM
+---
+
+From: [[allin]] <br/> 
+
+Bill Gurley, a venture capitalist since 1998, initially had no interest in interacting with government, as it seemed unnecessary for his work with founders in software and technology <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. However, an issue arose that required him to understand the workings of Washington, D.C. <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. This experience, and subsequent others, led him to critically examine the relationship between industry, government, and the [[regulatory_capture_and_its_impact_on_industries | impact of regulation on innovation]].
+
+## Regulatory Capture and the Stifling of Innovation
+
+Gurley's experiences exposed him to what he describes as "regulatory capture," a concept defined by 1982 Nobel Prize winner George Stigler <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. Stigler's famous quote states: "As a rule, regulation is acquired by the industry and is designed and operated primarily for its benefit" <a class="yt-timestamp" data-t="00:08:43">[00:08:43]</a>. Gurley summarizes this by saying, "regulation is the friend of the incumbent" <a class="yt-timestamp" data-t="00:08:51">[00:08:51]</a>.
+
+Key characteristics of regulatory capture include:
+*   A special interest being prioritized over the general public interest, leading to a net loss for society <a class="yt-timestamp" data-t="00:09:27">[00:09:27]</a>.
+*   Mechanisms often used are limited market entry and price protection or increases <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>.
+*   Influence mechanisms include money (exacerbated by Citizens United), exposure, and "revolving doors" where individuals move between industry and government positions <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>.
+
+### Case Studies of Regulatory Capture
+
+Gurley presents several examples of how regulation has stifled competition and innovation:
+
+*   **Municipal Wi-Fi (Tropos Networks):** Gurley's investment in Tropos Networks aimed to provide free city-wide Wi-Fi, which excited hundreds of mayors <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. However, commercial interests like Verizon and Comcast, through extensive lobbying, successfully pushed bills through state legislatures that outlawed municipal broadband in over 22 states <a class="yt-timestamp" data-t="00:03:15">[00:03:15]</a>. David Cohen, Comcast's chief lobbyist, was described as "Philadelphia's most powerful unelected official" <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+*   **Telecommunications Act of 1996:** This act aimed to promote competition and encourage new technologies <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>. However, instead of promoting competition, the market share of the top four companies grew from 48% to 85% within five years <a class="yt-timestamp" data-t="00:07:18">[00:07:18]</a>. Venture Capital funding into telecom equipment plummeted, dropping below one percent within 10 years, effectively ending innovation in that market <a class="yt-timestamp" data-t="00:07:45">[00:07:45]</a>.
+*   **Medical EHR Software (Epic Systems):** Under the American Recovery Act in 2009, doctors received $44,000 to buy EHR software, a $38 billion initiative <a class="yt-timestamp" data-t="00:12:14">[00:12:14]</a>. Doctors also received an additional $17,000 to prove "meaningful use" of the software <a class="yt-timestamp" data-t="00:13:12">[00:13:12]</a>. The government, influenced by Epic's CEO Judith Faulkner (a major donor and council member), mandated specific feature sets that favored Epic and led to massive fines against smaller competitors for not complying <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>. This created a "brick wall" for startups that typically disrupt with simpler, more focused products <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>.
+*   **COVID Rapid Antigen Tests:** In the U.S., the FDA, led by Timothy Stenzel (who previously worked at Abbott, a major test manufacturer), approved only a few vendors, predominantly Abbott <a class="yt-timestamp" data-t="00:16:41">[00:16:41]</a>. In contrast, Germany validated 96 vendors, leading to much lower test prices (75 Euro cents per test compared to $12-$24 in the U.S.) <a class="yt-timestamp" data-t="00:15:51">[00:15:51]</a>. This is another example of a "revolving door" leading to limited market entry and inflated prices <a class="yt-timestamp" data-t="00:17:15">[00:17:15]</a>.
+
+## The Role of Open Source in AI and Future Innovation
+
+Gurley expresses concern that Washington is now eyeing Silicon Valley <a class="yt-timestamp" data-t="00:19:34">[00:19:34]</a>. He believes that incumbents in the AI space are actively spreading a negative message about [[AI open source versus closed source models | open source]], precisely because they see it as their biggest threat <a class="yt-timestamp" data-t="00:21:26">[00:21:26]</a>. He cites Meta's Llama 2 as a "super interesting" [[open_source_versus_closed_source_in_ai_development | open source]] development <a class="yt-timestamp" data-t="00:21:34">[00:21:34]</a>.
+
+The speaker highlights Sam Altman's (OpenAI) proposal for a new regulatory agency for AI, similar to the Atomic Energy Commission, with standards for AI software release <a class="yt-timestamp" data-t="00:27:47">[00:27:47]</a>. Gurley believes this poses an [[impact_of_ai_regulation_on_innovation_and_global_competitiveness | existential threat to Silicon Valley]]. He argues that if AI, which is at the cutting edge of all software development, is subjected to regulation, it would turn the software industry into something akin to "big Pharma" or the "military industrial complex," with Washington effectively running the industry <a class="yt-timestamp" data-t="00:28:24">[00:28:24]</a>. This would stifle new startups and fresh ideas <a class="yt-timestamp" data-t="00:28:50">[00:28:50]</a>.
+
+## Innovation, Prosperity, and the Potential of Open Source
+
+Gurley concludes that regulation, as currently practiced, acts as a "blocker to innovation" <a class="yt-timestamp" data-t="00:33:33">[00:33:33]</a>. He argues that if innovation is killed, prosperity will also be killed <a class="yt-timestamp" data-t="00:23:37">[00:23:37]</a>. He fears that the growing power of the U.S. federal government, as the largest consumer and distributor of capital, could lead to a decline where democracy and capitalism "kill each other over time" <a class="yt-timestamp" data-t="00:29:58">[00:29:58]</a>.
+
+While expressing skepticism about solutions given the self-interest of politicians, Gurley suggests that "massive transparency" could help expose the influence of money in politics <a class="yt-timestamp" data-t="00:25:39">[00:25:39]</a>. He also briefly touches on the potential for [[role_of_technological_innovation_in_societal_change | open source]] to disrupt regulated industries, mentioning the idea of using [[open_source_versus_closed_source_in_ai_development | open source]] around fission technology to lower the cost of building plants and potentially bypass traditional regulatory hurdles, similar to how individual solar users can become their own utilities <a class="yt-timestamp" data-t="00:33:49">[00:33:49]</a>. This implies that [[challenges_in_implementing_new_technology_and_legislation | open source]] and decentralized approaches could offer a path to innovation and reduced regulatory capture in heavily controlled sectors.

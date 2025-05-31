@@ -1,0 +1,36 @@
+---
+title: Reddit IPO analysis and business growth challenges
+videoId: -Am0vMW3fA0
+---
+
+From: [[allin]] <br/> 
+
+Reddit's S-1 filing for its Initial Public Offering (IPO) provides insights into its financial performance, user growth, and strategic challenges <a class="yt-timestamp" data-t="01:13:07">[01:13:07]</a>. The company's business model, which relies on user-generated content, allows for a high gross margin, but it faces challenges in monetizing its sophisticated user base and navigating the evolving landscape of [[AI Developments and Business Models | AI]] licensing <a class="yt-timestamp" data-t="01:13:31">[01:13:31]</a>.
+
+## Financial Performance
+
+In 2023, Reddit reported a revenue of $804 million, marking a 21% increase year-over-year <a class="yt-timestamp" data-t="01:13:11">[01:13:11]</a>. Despite revenue growth, the company continues to incur losses, with a net loss of $91 million in 2023, an improvement from $159 million in 2022 <a class="yt-timestamp" data-t="01:13:16">[01:13:16]</a>. Reddit's free cash flow is currently negative <a class="yt-timestamp" data-t="01:13:22">[01:13:22]</a>.
+
+A notable aspect of Reddit's finances is its gross margin, which stood at 86% in 2023, up 2% year-over-year <a class="yt-timestamp" data-t="01:13:39">[01:13:39]</a>. This high margin is attributed to the fact that users produce the content without direct payment from Reddit, unlike platforms that pay creators or acquire content <a class="yt-timestamp" data-t="01:13:33">[01:13:33]</a>. The company holds $1.2 billion in cash <a class="yt-timestamp" data-t="01:14:00">[01:14:00]</a>.
+
+## User Growth and Monetization Challenges
+
+Reddit reported 76 million daily active unique users in 2023, a 27% increase year-over-year <a class="yt-timestamp" data-t="01:13:44">[01:13:44]</a>. This recent growth, particularly in the last two quarters of 2023, is significant, as the platform had previously seen growth flatlining at around 5% annually <a class="yt-timestamp" data-t="01:15:33">[01:15:33]</a>. The company's average revenue per user (ARPU) is notably low at $3.42 <a class="yt-timestamp" data-t="01:13:49">[01:13:49]</a>, which is less than 10% of Facebook's ARPU <a class="yt-timestamp" data-t="01:16:30">[01:16:30]</a>. In fact, Reddit's ARPU was down 2% year-over-year <a class="yt-timestamp" data-t="01:19:33">[01:19:33]</a>.
+
+Reddit's user base consists of highly sophisticated internet users who are often anti-ads and less likely to click on them <a class="yt-timestamp" data-t="01:19:37">[01:19:37]</a>. The platform's anonymous nature also limits its ability to collect demographic data for targeted advertising, unlike Facebook <a class="yt-timestamp" data-t="01:19:48">[01:19:48]</a>. The recent increase in Daily Active Unique users may be partly due to a strategic decision to allow more "logged out" users, leveraging Reddit's strong search engine ranking authority <a class="yt-timestamp" data-t="01:18:04">[01:18:04]</a>.
+
+## Direct Share Program
+
+Reddit plans to offer a portion of its IPO shares directly to its most active moderators (mods) through a direct share program <a class="yt-timestamp" data-t="01:14:07">[01:14:07]</a>. This initiative aims to include the community in the IPO, although concerns have been raised about involving "unqualified retail buyer pools" <a class="yt-timestamp" data-t="01:14:28">[01:14:28]</a>.
+
+## AI Licensing Deals: "Tac 2.0"
+
+Reddit has ventured into [[AI Developments and Business Models | AI]] licensing, securing deals worth $200 million over the next two to three years <a class="yt-timestamp" data-t="00:40:47">[00:40:47]</a>. Notably, it has a reported $60 million per year non-exclusive deal with Google to license its data for training [[AI Developments and Business Models | Gemini]] models <a class="yt-timestamp" data-t="00:40:28">[00:40:28]</a>, <a class="yt-timestamp" data-t="00:41:41">[00:41:41]</a>. This strategy is described as "Tac 2.0," where companies like Google pay for unique data to train their [[AI Developments and Business Models | AI]] models, similar to how they previously paid for search traffic acquisition (Tac 1.0) <a class="yt-timestamp" data-t="00:43:16">[00:43:16]</a>.
+
+This new revenue stream is seen as a significant, high-margin opportunity for businesses with unique data <a class="yt-timestamp" data-t="00:43:31">[00:43:31]</a>. While large platforms like Reddit are securing substantial deals, the potential for smaller websites to license their data for [[AI Developments and Business Models | AI]] training also exists, although attributing incremental value and determining fair compensation remains a challenge <a class="yt-timestamp" data-t="00:45:12">[00:45:12]</a>. The long-term value of such content is debated, as much of it can become stale or be overshadowed by the exponential growth of new data <a class="yt-timestamp" data-t="00:47:26">[00:47:26]</a>. The non-exclusive nature of these deals allows data providers to potentially license their content to multiple [[AI Developments and Business Models | AI]] companies <a class="yt-timestamp" data-t="00:50:05">[00:50:05]</a>.
+
+## Ownership and Valuation
+
+Reddit was initially sold for approximately $10 million a year after its launch in 2005 <a class="yt-timestamp" data-t="01:20:39">[01:20:39]</a>, <a class="yt-timestamp" data-t="01:22:23">[01:22:23]</a>. There has been a "long game" conspiracy theory suggesting that former CEO Yishan Wong, along with co-founder Alexis Ohanian and Sam Altman, orchestrated a plan to regain control of Reddit from its previous owner, Condé Nast <a class="yt-timestamp" data-t="01:19:56">[01:19:56]</a>. This alleged plan involved demanding options specifically in Reddit from Condé Nast, creating a separate cap table, and bringing in outside investors like Sam Altman <a class="yt-timestamp" data-t="01:21:07">[01:21:07]</a>. Ultimately, Condé Nast spun off the company, and its parent company remains the largest shareholder in Reddit, owning 30% <a class="yt-timestamp" data-t="01:21:40">[01:21:40]</a>, <a class="yt-timestamp" data-t="01:22:08">[01:22:08]</a>.
+
+The potential valuation of Reddit in its IPO is a subject of discussion, with estimates ranging from $2 billion to $5 billion <a class="yt-timestamp" data-t="01:16:54">[01:16:54]</a>, <a class="yt-timestamp" data-t="01:17:16">[01:17:16]</a>. For investors, the key factor is whether Reddit's recent user growth will continue or revert to its historical lower rates <a class="yt-timestamp" data-t="01:16:11">[01:16:11]</a>. The company also needs a clear strategy to address its low ARPU to justify a higher valuation <a class="yt-timestamp" data-t="01:17:07">[01:17:07]</a>. The IPO timing is critical, as a delay could necessitate an updated S-1 filing with Q1 results, revealing if the recent growth is a sustainable trend or a one-time anomaly <a class="yt-timestamp" data-t="01:17:44">[01:17:44]</a>. This represents one of the major [[challenges_and_strategies_in_startup_ecosystems | challenges]] for the company.

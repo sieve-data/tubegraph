@@ -1,0 +1,40 @@
+---
+title: Discussion on JD Vance as Trumps VP selection
+videoId: 3z73JXD3pYU
+---
+
+From: [[allin]] <br/> 
+
+[[Analysis of Trumps cabinet picks and their potential impact | Donald Trump]]'s selection of [[jd_vances_vice_presidential_candidacy_and_political_views | JD Vance]] as his running mate for the Vice Presidency was a significant decision, surprising many and signaling a new direction for the Republican Party <a class="yt-timestamp" data-t="01:05:01">[01:05:01]</a>. While some media outlets attributed the choice to influential figures like David Sachs, who was jokingly called the "Puppet Master" or "Architect" <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>, Sachs clarified that Trump makes his own decisions after soliciting feedback from many people, stating he was "probably one of a thousand people or at least hundreds of people who offer my opinion" <a class="yt-timestamp" data-t="01:06:06">[01:06:06]</a>. Sachs himself was a "big fan of JD Vance" <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>.
+
+## Background and Qualities
+[[jd_vances_vice_presidential_candidacy_and_political_views | JD Vance]], at 39 years old, is noted for being half the age of Trump <a class="yt-timestamp" data-t="00:44:11">[00:44:11]</a>. He represents a unique blend of characteristics:
+*   **"Maga plus Tech"**: Vance hails from a poor region of Appalachia, aligning with the "Forgotten man" or "Maga Heartland," while also having a background in tech as a venture capitalist <a class="yt-timestamp" data-t="00:42:01">[00:42:01]</a>. He worked at Peter Thiel's Mithril Capital and Steve Case's Revolution, later starting his own firm, Narya Capital <a class="yt-timestamp" data-t="00:43:53">[00:43:53]</a>. Peter Thiel famously backed Vance with a $15 million Senate race donation <a class="yt-timestamp" data-t="00:44:21">[00:44:21]</a>.
+*   **Military Service and Foreign Policy Evolution**: Vance enlisted in the Marine Corps and served in the Iraq War in 2005 <a class="yt-timestamp" data-t="00:42:45">[00:42:45]</a>. He later realized that the Iraq War and "forever wars" were a "gigantic mistake" <a class="yt-timestamp" data-t="00:42:53">[00:42:53]</a>. This perspective makes him a proponent of avoiding unnecessary conflicts, contrasting with "neocons" and "warmongers" in the party <a class="yt-timestamp" data-t="00:43:19">[00:43:19]</a>.
+*   **Personal Journey**: His background, detailed in his book "Hillbilly Elegy," describes coming from "less than nothing" with issues like addiction in his family <a class="yt-timestamp" data-t="00:45:36">[00:45:36]</a>. He is seen as having navigated a difficult path to success and built strong relationships <a class="yt-timestamp" data-t="00:45:09">[00:45:09]</a>.
+
+## Rationale for Selection
+The selection of [[jd_vances_vice_presidential_candidacy_and_political_views | JD Vance]] was seen as a strategic "legacy pick" by Trump, aiming to cement the "America First Maga message" for years to come <a class="yt-timestamp" data-t="00:50:57">[00:50:57]</a>. His alignment with a "conservatism of the heart" that connects with everyday Americans is highlighted <a class="yt-timestamp" data-t="00:52:55">[00:52:55]</a>.
+
+### Contrasting with "Neocons"
+The choice was seen as a rejection of "neocons" who lobbied against him <a class="yt-timestamp" data-t="00:40:02">[00:40:02]</a>. Friend of the Pod Tucker Carlson reportedly advised Trump against picking a neocon, even linking it to potential assassination attempts, though this advice came before the actual attempt on Trump's life <a class="yt-timestamp" data-t="00:41:19">[00:41:19]</a>.
+
+## RNC Speech and Public Perception
+Vance's speech at the Republican National Convention was described as "truly an incredible speech" <a class="yt-timestamp" data-t="00:46:16">[00:46:16]</a>.
+*   **"Normal" Image**: Attendees found him to be "so normal," "happy," and "competent," someone you'd "hope is the manager" if you needed help at a fast-food restaurant <a class="yt-timestamp" data-t="00:46:30">[00:46:30]</a>. This perceived normalcy is expected to make him "very hard to demonize" <a class="yt-timestamp" data-t="00:47:03">[00:47:03]</a>.
+*   **Contrarian Views**: In his speech, Vance went against mainstream opinion by stating that the Ukraine conflict was a "provoked war" by the Biden Administration due to "talk of NATO expansion" <a class="yt-timestamp" data-t="00:39:33">[00:39:33]</a>. This initially caused murmurs but then applause from the audience <a class="yt-timestamp" data-t="00:40:24">[00:40:24]</a>. He attacked "forever Wars" and "warmongers," praising Trump for keeping the U.S. out of wars while demonstrating strength and negotiation skills <a class="yt-timestamp" data-t="00:40:51">[00:40:51]</a>.
+*   **Populist Message**: Vance's speech resonated with a populist message, reminiscent of Pat Buchanan's 1992 convention speech, highlighting the struggles of factory workers and communities hollowed out by job exports and the fentanyl crisis <a class="yt-timestamp" data-t="00:50:23">[00:50:23]</a>. This message has not been a traditional part of the Republican Party, except for Trump's influence <a class="yt-timestamp" data-t="00:50:44">[00:50:44]</a>.
+
+## Policy Stances
+[[jd_vances_vice_presidential_candidacy_and_political_views | JD Vance]]'s policy positions align with the new direction of the Republican Party:
+*   **Foreign Interventions**: He "trashed the Iraq War" and "promised no more foreign interventions" <a class="yt-timestamp" data-t="00:52:32">[00:52:32]</a>.
+*   **Big Tech**: He has been "relatively positive towards Lena Khan," head of the FTC, because she has been "willing to take on big Tech" monopolies <a class="yt-timestamp" data-t="01:09:54">[01:09:54]</a>. While acknowledging Khan's flaws, Vance appreciates her willingness to challenge Big Tech's market power <a class="yt-timestamp" data-t="01:11:06">[01:11:06]</a>. His main concern is the "freedom of speech issue" and censorship of conservatives on social platforms <a class="yt-timestamp" data-t="01:12:09">[01:12:09]</a>.
+*   **Trade and Manufacturing**: Vance's stance aligns with a "populist party that actually represents the people," moving away from the "Chamber of Commerce" type of Republicanism <a class="yt-timestamp" data-t="00:50:06">[00:50:06]</a>. He rails "against policies that benefit multinational corporations at the expense of workers" <a class="yt-timestamp" data-t="00:52:37">[00:52:37]</a>. While recognizing the importance of onshore manufacturing, some express concern that a nationalist and isolationist agenda could lead to inflation by limiting global trade and imposing tariffs <a class="yt-timestamp" data-t="00:56:06">[00:56:06]</a>.
+*   **Pro-Union**: Vance is also noted for being "pro-union" <a class="yt-timestamp" data-t="00:49:43">[00:49:43]</a>, reflecting a broader shift in the Republican platform.
+
+## Future Implications
+Vance's selection suggests a potential future "youthful cabinet of a lot of 30somethings and 40s" if Trump wins, as opposed to "60, 70, and 80-year-old career politicians" <a class="yt-timestamp" data-t="00:49:07">[00:49:07]</a>. Though not having prior governing experience at scale, his supporters believe he can positively impact government accountability and focus on core objectives <a class="yt-timestamp" data-t="00:55:19">[00:55:19]</a>.
+
+> "Donald Trump choosing JD Vance was so important to cement this new vision of the Republican party. It was a legacy pick because it means that this America First Maga message is going to continue into the future many years into the future." <a class="yt-timestamp" data-t="00:50:50">[00:50:50]</a>
+
+The selection of [[jd_vances_vice_presidential_candidacy_and_political_views | JD Vance]] is seen as a clear signal of the evolving nature of the Republican Party, emphasizing a "conservatism of the heart" and an "America First" agenda <a class="yt-timestamp" data-t="00:52:55">[00:52:55]</a>.

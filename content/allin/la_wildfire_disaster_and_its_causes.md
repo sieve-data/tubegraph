@@ -1,0 +1,50 @@
+---
+title: LA Wildfire Disaster and Its Causes
+videoId: is1QAZ7ShRU
+---
+
+From: [[allin]] <br/> 
+
+An unbelievable tragedy has occurred in Los Angeles, with devastating wildfires forming a ring around the city. The most destructive of these has been the Palisades fire, which has stretched into Malibu <a class="yt-timestamp" data-t="09:19:00">[09:19:00]</a>.
+
+## Scale of the Disaster
+Approximately 15,000 acres have burned, along with thousands of homes, possibly up to 2,000 <a class="yt-timestamp" data-t="09:37:00">[09:37:00]</a>. Tragically, five lives have been lost, with fears of more <a class="yt-timestamp" data-t="10:22:00">[10:22:00]</a>. The affected areas, including Pacific Palisades and Malibu, are north of Santa Monica and contain some of Los Angeles's most coveted and expensive homes, many valued at $10-50 million <a class="yt-timestamp" data-t="10:33:00">[10:33:00]</a>.
+
+## Contributing Factors
+
+### Natural Phenomena and Climate Change
+The region is susceptible to wildfires due to dry conditions in the Santa Monica Mountains <a class="yt-timestamp" data-t="10:07:00">[10:07:00]</a>. A perfect storm of thousands of homes, extreme dryness, and strong Santa Ana winds (up to 100 mph) has occurred <a class="yt-timestamp" data-t="10:13:00">[10:13:00]</a>.
+California is experiencing more frequent high-wind events, flooding events, and hot events <a class="yt-timestamp" data-t="12:52:00">[12:52:00]</a>. Southern California's rainfall for the current season has been at 0% of normal, priming the area to be very dry <a class="yt-timestamp" data-t="13:01:00">[13:01:00]</a>. Even with cleared underbrush, 100 mph winds can create a "fire hurricane" if embers are present <a class="yt-timestamp" data-t="13:35:00">[13:35:00]</a>.
+
+There is a consensus that global warming and extreme weather play a factor, as these events have recurred frequently in the region <a class="yt-timestamp" data-t="14:21:00">[14:21:01]</a>. Similar apocalyptic videos of the same part of Southern California burning down were seen in 2018 <a class="yt-timestamp" data-t="15:15:00">[15:15:00]</a>.
+
+### Governmental Incompetence and Policy Failures
+Despite knowing since 2018 that these events could happen, California's government is seen as having a level of incompetence bordering on criminal negligence <a class="yt-timestamp" data-t="15:38:00">[15:38:00]</a>.
+
+*   **Dead Trees and Regulations**: In the 1950s, California harvested about 6 billion board feet of timber annually; this shrank to 1.5 billion board feet, leaving behind nearly 163 million dead trees <a class="yt-timestamp" data-t="16:26:00">[16:26:00]</a>. The California Environmental Quality Act (CEQA) and other regulatory policies limited the ability of local governments and fire management to clear these dead trees and vegetation <a class="yt-timestamp" data-t="17:11:00">[17:11:00]</a>.
+*   **Vetoed Prevention Bills**: Multiple bills (AB 2330, AB 1951, AB 2639) that would have exempted wildfire prevention projects from CEQA and other permitting issues were rejected by the Democrat-controlled legislature or vetoed by Governor Newsom <a class="yt-timestamp" data-t="17:35:00">[17:35:00]</a>. Bills to minimize fire risk by burying power lines (e.g., SB 103) also went nowhere <a class="yt-timestamp" data-t="17:56:00">[17:56:00]</a>.
+*   **Building Standards**: The state does not build houses in a way that accounts for fires, with too many wooden roofs, and should evaluate building materials <a class="yt-timestamp" data-t="19:06:00">[19:06:00]</a>.
+*   **Lack of Proactive Measures**: Despite knowing about coming storms and winds, California is not investing in solutions like cloud seeding to increase water in a region <a class="yt-timestamp" data-t="19:28:00">[19:28:00]</a>. Proactive power shutdowns, like those in Southern California, prevent fires from downed power lines <a class="yt-timestamp" data-t="19:54:00">[19:54:00]</a>.
+*   **Underbrush Clearing**: While property owners in places like Tahoe and the Hollywood Hills clear underbrush, mountain ranges not owned by anyone are the responsibility of the city and government, and may not have been adequately cleaned <a class="yt-timestamp" data-t="20:51:00">[20:51:00]</a>.
+*   **Historical Precedent**: The 1961 Bel Air and Brentwood fires, also started by Santa Ana winds, led to stricter rules, like banning wood roofs, showing that lessons can be learned <a class="yt-timestamp" data-t="22:14:00">[22:14:00]</a>.
+*   **Prioritization of DEI**: Critics argue that public service organizations' missions should not be to meet Diversity, Equity, and Inclusion (DEI) metrics, but to serve the public by hiring the most capable individuals <a class="yt-timestamp" data-t="23:55:00">[23:55:00]</a>. Los Angeles Fire Chief Christine Crowley, despite her qualifications, faces criticism for prioritizing diversity initiatives, leading some to question if it took away from disaster preparedness <a class="yt-timestamp" data-t="25:11:00">[25:11:00]</a>. The general argument is that if institutional directives guide focus away from core functions like fighting fires and saving lives, it results in negligence <a class="yt-timestamp" data-t="27:20:00">[27:20:00]</a>.
+*   **Budgetary Misallocation**: California's government spent billions on homelessness and illegal immigrants (over $21 billion on homelessness alone) <a class="yt-timestamp" data-t="29:02:00">[29:02:00]</a>, while the fire department's budget may have been cut, hindering preparedness <a class="yt-timestamp" data-t="30:02:00">[30:02:00]</a>.
+*   **Ineffective Leadership**: Los Angeles Mayor Karen Bass was unwilling to answer questions about the disaster, seen as a sign of poor leadership <a class="yt-timestamp" data-t="47:33:00">[47:33:00]</a>. This points to a broader crisis of competence where non-executives are in operational roles <a class="yt-timestamp" data-t="33:37:00">[33:37:00]</a>. This is likened to [[san_francisco_crime_and_safety_challenges | San Francisco's]] governance issues with officials like Chesa Boudin and London Breed <a class="yt-timestamp" data-t="49:21:00">[49:21:00]</a>.
+
+## Insurance Crisis and Economic Fallout
+The Department of Insurance (DOI) plays a critical role in the economic consequences of these events <a class="yt-timestamp" data-t="23:36:00">[23:36:00]</a>.
+
+*   **Rising Risk and Underpricing**: Property in climate-sensitive zones should have higher insurance prices due to increased frequency of loss <a class="yt-timestamp" data-t="36:58:00">[36:58:00]</a>. Catastrophe models show increased probability of complete loss in regions, meaning insurance prices should go up significantly <a class="yt-timestamp" data-t="38:05:00">[38:05:00]</a>.
+*   **State Regulations**: State Insurance Commissioners control rates, often keeping them artificially low to protect consumers, while also trying to keep insurance companies solvent and ensure access to insurance <a class="yt-timestamp" data-t="38:44:00">[38:44:00]</a>.
+*   **Market Exit**: Because the DOI doesn't allow rates to reflect the true risk, many insurance carriers are pulling out of California <a class="yt-timestamp" data-t="39:57:00">[39:57:00]</a>. State Farm, for instance, canceled 1,600 fire insurance policies in Palisades six months before this disaster <a class="yt-timestamp" data-t="39:25:00">[39:25:00]</a>.
+*   **"Fair Plan" Inadequacy**: The state set up its own "fair plan" insurance program with $120 million of capital and $5 billion of reinsurance, but it faces $6 billion of exposure in Pacific Palisades alone, making it effectively bankrupt <a class="yt-timestamp" data-t="58:20:00">[58:20:00]</a>. This distorting of the market drives up real estate values, but ultimately, the taxpayer will bear the cost <a class="yt-timestamp" data-t="59:04:00">[59:04:00]</a>.
+
+## Challenges to Rebuilding
+Homeowners face significant challenges in rebuilding. Insurance caps often limit reimbursement to around $3 million, while average homes in the affected area are worth $7-8 million, meaning many will get less than half their home's value back <a class="yt-timestamp" data-t="42:01:00">[42:01:00]</a>. The cost of rebuilding a 7,000 sq ft house is likely at least $1,000 per sq ft, or $7 million in cash (post-tax), making it financially impossible for many <a class="yt-timestamp" data-t="43:10:00">[43:10:00]</a>.
+
+Permit processes are deep, expensive, and time-consuming <a class="yt-timestamp" data-t="35:14:00">[35:14:00]</a>. The California Coastal Commission, created by voters in 1976, has authority exceeding legislative action, controlling what can be built on the coast <a class="yt-timestamp" data-t="35:38:00">[35:38:00]</a>. They aim to preserve the coast for public use and restore natural habitat, potentially taking decades to approve permits, or denying them altogether, leaving many property owners unable to rebuild <a class="yt-timestamp" data-t="35:59:00">[35:59:00]</a>.
+
+## Calls for Change
+The disaster has sparked calls for a "wholesale replacement of the people who govern the state of California" <a class="yt-timestamp" data-t="50:23:00">[50:23:00]</a>, advocating for citizens to vote for competent executives who have run businesses and understand crises <a class="yt-timestamp" data-t="48:45:00">[48:45:00]</a>. It's suggested that Democrats need to reclaim their party from "woke ideology" that diverts focus from issues that matter to taxpaying citizens <a class="yt-timestamp" data-t="52:16:00">[52:16:00]</a>.
+
+There is a need for legislative action to fix policies and regulations, requiring changes in the California State Assembly, State Senate, and initiatives put before voters to rescind bad decisions <a class="yt-timestamp" data-t="53:32:00">[53:32:00]</a>. Citizens are urged to get civically engaged, recalling incompetent officials if necessary, just as happened with Chesa Boudin in [[san_francisco_crime_and_safety_challenges | San Francisco]] <a class="yt-timestamp" data-t="55:10:00">[55:10:00]</a>.

@@ -1,0 +1,25 @@
+---
+title: Travis Kalanicks views on autonomous vehicles and urban planning
+videoId: 8RkgkOqWs0s
+---
+
+From: [[allin]] <br/> 
+
+Travis Kalanick, co-founder and former CEO of [[challenges_and_innovations_in_teslas_operations | Uber]], shared his perspectives on the future of autonomous vehicles (AVs) and their potential impact on urban planning, drawing from his past experiences with Uber and observations of the technology's development <a class="yt-timestamp" data-t="01:25:06">[01:25:06]</a>.
+
+## Evolution of Autonomous Driving
+Kalanick recalled his initial experience in an early Uber autonomous vehicle in Pittsburgh around 2015-2017, which he described as anxiety-inducing, like getting off a roller coaster <a class="yt-timestamp" data-t="01:25:23">[01:25:23]</a>. In contrast, he noted that riding in a [[Advancements in autonomous robots | Waymo]] vehicle today feels completely normalized and safe, indicating a significant psychological shift and technological advancement <a class="yt-timestamp" data-t="01:26:02">[01:26:02]</a>. He emphasized that the increasing affordability of [[OpenAI and AI advancements | AI advancements]] contributes to easier and more widespread autonomy <a class="yt-timestamp" data-t="01:27:00">[01:27:00]</a>. This is evident in the rapid performance improvements seen in [[challenges_and_innovations_in_teslas_operations | Tesla's]] Full Self-Driving (FSD) models, which showed a tenfold increase in miles per human intervention over a three-month period <a class="yt-timestamp" data-t="01:27:13">[01:27:13]</a>.
+
+Kalanick contends that autonomous vehicles are "provably safer" than human-driven cars, which should help normalize public perception and reduce hysteria around accidents <a class="yt-timestamp" data-t="01:30:22">[01:30:22]</a>. He also highlighted that AVs could offer increased safety by reducing interpersonal problems, particularly during late-night rides <a class="yt-timestamp" data-t="01:30:50">[01:30:50]</a>.
+
+## Challenges and Infrastructure Needs
+Despite optimism, Kalanick identified several "long poles in the tent" for widespread AV adoption:
+*   **Hardware and Manufacturing** <a class="yt-timestamp" data-t="01:27:49">[01:27:49]</a>.
+*   **Electricity and Power Grid Capacity** <a class="yt-timestamp" data-t="01:28:07">[01:28:07]</a>. Kalanick noted that if all miles driven in California were to switch to EV ride-sharing, the state's energy capacity would need to double <a class="yt-timestamp" data-t="01:28:20">[01:28:20]</a>. He cited frequent power outages in affluent Los Angeles neighborhoods as an example of current grid deficiencies <a class="yt-timestamp" data-t="01:28:57">[01:28:57]</a>. This challenge led him to a "hot take" suggesting that **combustion engine AVs** might be necessary for rapid scalability given the state of the electric grid <a class="yt-timestamp" data-t="01:29:17">[01:29:17]</a>.
+*   **Real Estate and Fleet Management** <a class="yt-timestamp" data-t="01:32:27">[01:32:27]</a>. This includes electrifying parking lots and setting them up for robotic car cleaning and maintenance <a class="yt-timestamp" data-t="01:32:40">[01:32:40]</a>. The need for specialized power substations for robotic systems, similar to data centers, presents a significant infrastructure demand <a class="yt-timestamp" data-t="01:32:50">[01:32:50]</a>.
+*   **Supply Chain for Rare Earths** <a class="yt-timestamp" data-t="01:33:22">[01:33:22]</a>. Kalanick pointed out that actuators in robots require permanent magnets, which depend on rare earths primarily controlled by China, posing a geopolitical consideration <a class="yt-timestamp" data-t="01:33:24">[01:33:24]</a>.
+
+## Impact on Urban Planning and Real Estate
+Kalanick foresees autonomous ride-sharing leading to a drastic reduction in car ownership, potentially by tenfold <a class="yt-timestamp" data-t="01:34:25">[01:34:25]</a>. This would eliminate the need for extensive parking, freeing up 20-30% of urban land <a class="yt-timestamp" data-t="01:34:36">[01:34:36]</a>. This "fallow" land presents an opportunity to re-evaluate city planning that currently works backward from traffic and parking constraints <a class="yt-timestamp" data-t="01:35:15">[01:35:15]</a>.
+
+He suggested potential uses for this liberated land, such as urban hydroponic farms for local, healthy food <a class="yt-timestamp" data-t="01:35:58">[01:35:58]</a>. The increased land availability could also lead to a "crashing down" of land prices and, combined with less regulation, make housing more affordable in major cities, similar to what has been observed in areas like Austin, Texas <a class="yt-timestamp" data-t="01:36:10">[01:36:10]</a>. However, he cautioned that the pace of this transformation might be constrained by the rate of energy production and grid upgrades <a class="yt-timestamp" data-t="01:36:40">[01:36:40]</a>. Utility upgrades are already a "long pole in the tent" for construction development in many U.S. cities <a class="yt-timestamp" data-t="01:37:46">[01:37:46]</a>.

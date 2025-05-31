@@ -1,0 +1,20 @@
+---
+title: Bitcoins market trends and ETFs
+videoId: snbTCWL6rxo
+---
+
+From: [[allin]] <br/> 
+
+[[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] has seen significant market activity, reaching an all-time high and demonstrating strong resilience due to various factors, including the approval of Exchange Traded Funds (ETFs) and its underlying technological stability <a class="yt-timestamp" data-t="01:23:57">[01:23:57]</a>.
+
+## Recent Price Surge and Milestones
+On Tuesday, [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] hit an all-time high of $69,000 before settling around $68,000 at the time of recording <a class="yt-timestamp" data-t="01:21:10">[01:21:10]</a>. The cryptocurrency has experienced a significant rally in [[Market trends and economic forecasts for 2024 | 2024]] <a class="yt-timestamp" data-t="01:22:25">[01:22:25]</a>, increasing by 70% since January 25th <a class="yt-timestamp" data-t="01:22:27">[01:22:27]</a>. Some market analysts believe [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] is on a "death march to 100K," though the realistic timeframe for this price point remains uncertain <a class="yt-timestamp" data-t="01:22:43">[01:22:43]</a>.
+
+## Impact of [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] ETFs
+The approval of [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] ETFs by the SEC on January 10th has made it significantly easier for individual investors ("mom and pop") to buy and sell [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] <a class="yt-timestamp" data-t="01:23:02">[01:23:02]</a>. BlackRock's [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] ETF became the fastest ETF in history to reach $10 billion in assets <a class="yt-timestamp" data-t="01:22:46">[01:22:46]</a>. This influx of capital into ETFs is considered a very significant development <a class="yt-timestamp" data-t="01:23:02">[01:23:02]</a>. The success of [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] ETFs has led to speculation about the potential approval of an [[crypto_market_updates | Ethereum]] ETF, suggesting that these assets are becoming integrated into the broader financial fabric <a class="yt-timestamp" data-t="01:23:36">[01:23:36]</a>.
+
+## The Halving Event
+A "halving" event, which occurs approximately every four years, is scheduled for April <a class="yt-timestamp" data-t="01:21:55">[01:21:55]</a>. The last halving was in May [[Market trends and economic forecasts for 2024 | 2020]] <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>. This event cuts mining rewards in half, reducing the supply of new [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoins]] entering circulation and potentially causing market swings <a class="yt-timestamp" data-t="01:22:05">[01:22:05]</a>. The incentive model of [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] relies on its price remaining high to ensure miners continue to support the network <a class="yt-timestamp" data-t="01:24:31">[01:24:31]</a>.
+
+## Market Outlook and Resilience
+[[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] has demonstrated incredible resilience on a technological basis, having not experienced breakdowns, denial-of-service attacks, or significant hacks <a class="yt-timestamp" data-t="01:23:57">[01:23:57]</a>. Its stability and trustworthiness are impressive <a class="yt-timestamp" data-t="01:24:25">[01:24:25]</a>. However, [[importance_and_impact_of_bitcoin_and_gold_as_financial_assets | Bitcoin]] has not yet seen meaningful adoption for transactions or commerce <a class="yt-timestamp" data-t="01:24:51">[01:24:51]</a>. Instead, it has largely become a store of value asset <a class="yt-timestamp" data-t="01:25:03">[01:25:03]</a>. The SEC continues to take action against certain bad actors in the broader [[crypto_market_updates | crypto]] market <a class="yt-timestamp" data-t="01:23:51">[01:23:51]</a>.

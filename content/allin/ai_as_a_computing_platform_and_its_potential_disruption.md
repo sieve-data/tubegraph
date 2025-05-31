@@ -1,0 +1,43 @@
+---
+title: AI as a computing platform and its potential disruption
+videoId: qQ544sWC8ZQ
+---
+
+From: [[allin]] <br/> 
+
+[[Artificial intelligence and its economic impact|Artificial intelligence]] (AI) is rapidly emerging as a significant computing platform, showing potential to disrupt numerous industries and reshape the economy. This shift is compared to the introduction of the iPhone and iOS App Store in its significance <a class="yt-timestamp" data-t="15:15:21">[15:15:21]</a>, and possibly even the internet itself <a class="yt-timestamp" data-t="15:23:49">[15:23:49]</a>.
+
+## ChatGPT as a Platform
+OpenAI's ChatGPT has quickly become the fastest-growing application in history, reaching over 100 million users in two months <a class="yt-timestamp" data-t="16:23:05">[16:23:05]</a>. This rapid adoption suggests that OpenAI is evolving beyond merely providing an intelligence API, aiming to become a destination site itself through the integration of plugins <a class="yt-timestamp" data-t="16:41:07">[16:41:07]</a>.
+
+### Plugin Functionality and Use Cases
+The launch of ChatGPT plugins allows the AI to interact with external services, similar to how apps use APIs <a class="yt-timestamp" data-t="13:48:48">[13:48:48]</a>. This enables ChatGPT to perform tasks like:
+*   Pinging sources for data, such as finding open tables on OpenTable or items on Shopify <a class="yt-timestamp" data-t="14:5:42">[14:5:42]</a>.
+*   Accessing the internet via a browsing plugin to overcome its training data cutoff of 2021 <a class="yt-timestamp" data-t="27:50:0">[27:50:0]</a>.
+*   Using a retrieval API for developers to share proprietary knowledge bases, like a company's internal data or a personal database for writing a book <a class="yt-timestamp" data-t="28:38:0">[28:38:0]</a>.
+
+This integration allows for complex commands, such as creating a meal plan, booking reservations, sourcing ingredients, and calculating calories, all through natural language <a class="yt-timestamp" data-t="14:39:35">[14:39:35]</a>. This realizes the "promise of Siri and Alexa" by adding a natural language layer to existing APIs <a class="yt-timestamp" data-t="17:6:50">[17:6:50]</a>.
+
+## Disruption of Existing Industries
+The ability of AI to access data and services via plugins and natural language makes it highly disruptive to various sectors:
+*   **Search and Commerce:** It closes the loop between search and commerce in a way that traditional search engines currently cannot, by directly facilitating transactions <a class="yt-timestamp" data-t="18:18:27">[18:18:27]</a>. This could theoretically obviate or destroy traditional search interfaces <a class="yt-timestamp" data-t="19:14:48">[19:14:48]</a>.
+*   **Software and Services:** The ease of use offered by the chat interface opens up automation to a much broader audience, moving beyond the five percent of tinkerers who might use tools like Zapier or If This Then That <a class="yt-timestamp" data-t="20:20:20">[20:20:20]</a>.
+*   **Creative and Technical Fields:** The integration of [[Impact of AI on different industries and technical fields|AI]] into creative workflows is already showing profound [[AI and job displacement|impact on job displacement]]. A 3D artist shared how Midjourney v5 allowed tasks that previously took weeks to be completed in two to three days, reducing the need for traditional artistic skill to mere "prompting, photoshopping, and implementing good looking pictures" <a class="yt-timestamp" data-t="1:0:5:0">[1:0:5:0]</a>.
+*   **Professional Services:** Companies specializing in "coding for hire," such as TCS, Accenture (750,000 employees), and Cognizant, are expected to be among the first to leverage [[Impact of AI on different industries and technical fields|AI]] to displace human labor at scale, driving efficiency and profitability <a class="yt-timestamp" data-t="1:2:0:0">[1:2:0:0]</a>.
+
+## Competitive Landscape
+The rapid advancement of OpenAI's platform puts pressure on tech giants:
+*   **OpenAI's Lead:** OpenAI holds a substantial lead due to its massive user attention and continuous improvement through developer data sharing and internet browsing capabilities <a class="yt-timestamp" data-t="26:54:15">[26:54:15]</a>.
+*   **Google's Challenge:** [[AI and its impact on Googles business model|Google]], despite having superior talent, data, and resources, has been "caught completely flat-footed" <a class="yt-timestamp" data-t="34:44:0">[34:44:0]</a>. Their past focus on public policy concerns and protecting existing revenue streams has hindered their ability to self-disrupt <a class="yt-timestamp" data-t="39:3:0">[39:3:0]</a>. While they have powerful assets like YouTube transcripts, Gmail, and Google Docs for data, and widespread distribution through Android and Chrome, their organizational culture and middle management may pose significant barriers to swift integration and aggressive deployment of [[AI and its impact on Googles business model|AI]] <a class="yt-timestamp" data-t="48:21:0">[48:21:0]</a>.
+*   **Other Competitors:** Companies like Facebook and Apple are also incentivized to integrate [[AI and its impact on Googles business model|AI]] into their ecosystems, potentially creating "little islands of data" by blocking access to their proprietary information from external [[AI and its impact on Googles business model|AI]]s <a class="yt-timestamp" data-t="30:8:46">[30:8:46]</a>. However, the powerful incentive for applications to participate in these new platforms means they may eventually be forced to do so to remain competitive <a class="yt-timestamp" data-t="32:0:58">[32:0:58]</a>.
+
+## Societal and Ethical Implications
+The rapid progress of [[AI and job displacement|AI]] raises concerns about its broader [[Regulating AI and its implications|implications]]:
+*   **Job Displacement:** While some argue that [[Impact of AI on different industries and technical fields|AI]] will lead to increased productivity and the creation of new jobs, others fear widespread displacement of white-collar jobs, particularly those relying on human judgment <a class="yt-timestamp" data-t="1:59:59">[1:59:59]</a>. Examples include phone operators, travel agents, copy editors, illustrators, and accountants <a class="yt-timestamp" data-t="1:15:47">[1:15:47]</a>.
+*   **Ethical Concerns and Regulation:** A petition by the Future of Life Institute, signed by notable tech leaders, calls for a pause on giant [[Regulating AI and its implications|AI]] experiments, citing concerns about machines flooding information channels with propaganda, automating jobs, and the potential for non-human minds to "outnumber, outsmart, obsolete, and replace us" <a class="yt-timestamp" data-t="50:30:0">[50:30:0]</a>.
+*   **AI Judgment vs. Human Judgment:** Unlike previous technologies that replaced physical exertion, [[Impact of AI on different industries and technical fields|AI]] is now challenging human judgment <a class="yt-timestamp" data-t="1:7:19">[1:7:19]</a>. For instance, [[Impact of AI on different industries and technical fields|AI]] can achieve near-zero error rates in cancer detection, surpassing human capabilities <a class="yt-timestamp" data-t="1:11:15">[1:11:15]</a>. This raises questions about the continued existence of jobs with inherent human error rates <a class="yt-timestamp" data-t="1:15:34">[1:15:34]</a>.
+
+> "The thing that technology has never done is try to displace human judgment. It's allowed us to replace physical exertion of energy but it is always preserved humans injecting our judgment and I think this is the first time where we're being challenged with autonomous systems that has some level of judgment" <a class="yt-timestamp" data-t="1:7:19">[1:7:19]</a>
+
+## Future Outlook
+The pace of [[AI technology and market trends|AI innovation]] is expected to accelerate dramatically due to the concentration of investment and talent in Silicon Valley <a class="yt-timestamp" data-t="55:16:0">[55:16:0]</a>. While the short-term benefits of [[AI and job displacement|AI]] are seen as largely positive, increasing productivity and accelerating product roadmaps, the long-term impact on human roles and society remains uncertain <a class="yt-timestamp" data-t="1:13:17">[1:13:17]</a>. The ability to fork and develop new [[AI technology and market trends|AI models]] from existing ones, similar to how genetic editing became widely accessible, suggests that regulating or containing [[Regulating AI and its implications|AI development]] will be extremely difficult <a class="yt-timestamp" data-t="57:9:0">[57:9:0]</a>.

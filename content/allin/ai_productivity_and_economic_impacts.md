@@ -1,0 +1,30 @@
+---
+title: AI productivity and economic impacts
+videoId: R6hJh-OwoZw
+---
+
+From: [[allin]] <br/> 
+
+The rise of [[artificial_intelligence_and_its_economic_impact | artificial intelligence]] (AI) and its integration into business models is significantly impacting productivity and the economy, leading to both shifts in market valuation and concerns about resource allocation. This era is characterized by a "ripping and replacing" cycle of legacy software and a re-evaluation of investment priorities in technology, especially as broader economic indicators suggest a slowdown.
+
+## Impact on Software-as-a-Service (SaaS) Business Models
+Salesforce, a bellwether for the SaaS industry, experienced its worst market day in nearly 20 years, dropping over 20% after reporting earnings and missing Q1 revenue estimates for the first time since 2006 [<a class="yt-timestamp" data-t="01:04:26">01:04:26</a>]. While its revenue grew to $9.1 billion (11% year-over-year) and net income surged to $1.5 billion (7x year-over-year) due to cost-cutting measures, guidance for Q2 projected only 7% growth [<a class="yt-timestamp" data-t="01:04:31">01:04:31</a>]. This suggests a potential macroeconomic slowdown affecting enterprise spending or a fundamental shift in the SaaS [[ai_developments_and_business_models | business model]] [<a class="yt-timestamp" data-t="01:05:47">01:05:47</a>].
+
+Concerns arise regarding:
+*   **Pricing Model Shifts:** The premium that SaaS companies could charge per seat or per user may be challenged by the commoditization of technology due to [[ai_advancements_and_their_impact_on_productivity_and_economy | AI advancements]] [<a class="yt-timestamp" data-t="01:07:00">01:07:00</a>].
+*   **Internal Tool Development:** Enterprises might increasingly build tools internally using [[ai_advancements_and_their_impact_on_productivity_and_economy | AI]], or new competitors could emerge with significantly underpriced alternatives leveraging generative AI [<a class="yt-timestamp" data-t="01:07:11">01:07:11</a>].
+*   **Value of Generative AI:** Enterprises are waiting to see the tangible value of generative AI services, questioning whether they are worth paying for or if open-source tools will commoditize these offerings [<a class="yt-timestamp" data-t="01:07:38">01:07:38</a>].
+
+Chamath Palihapitiya suggests that generative AI enables the delivery of software functionality at much cheaper costs, potentially allowing for 80% of features at a 90% discount, leading to a "ripping and replacing" of legacy products [<a class="yt-timestamp" data-t="01:09:14">01:09:14</a>]. This cycle could unfortunately lead to layoffs in large, monolithic software companies, as smaller, more flexible capabilities become available from new ventures [<a class="yt-timestamp" data-t="01:10:28">01:10:28</a>].
+
+David Sacks notes that while Salesforce has historically adapted to new trends (cloud, social, big data, AI), the market's strong reaction to a small revenue miss (a $40 million miss leading to a $40 billion market cap loss) suggests that public market investors are internalizing deeper fears about a general slowdown [<a class="yt-timestamp" data-t="01:11:32">01:11:32</a>]. This could indicate that forecasts of sub-10% revenue growth for SaaS companies are prompting a broader market re-evaluation of technology stocks [<a class="yt-timestamp" data-t="01:14:03">01:14:03</a>].
+
+## [[AI Productivity and Economic Impacts | AI and Productivity]]
+[[ai_developments_and_economic_impact | AI developments]] are expected to significantly influence productivity across different organizational sizes:
+*   **Startups:** Startups are leveraging AI to achieve more with fewer developers, with some seeing four developers accomplish what previously required eight [<a class="yt-timestamp" data-t="01:39:46">01:39:46</a>]. They can adopt an "AI-first" approach from the outset, recruiting talent aligned with new tools and mandating their use [<a class="yt-timestamp" data-t="01:41:16">01:41:16</a>].
+*   **Large Enterprises:** For larger companies (e.g., 30,000 employees), the overall productivity gains from AI are still nominal, even if some individuals are 50-100% more productive [<a class="yt-timestamp" data-t="01:40:02">01:40:02</a>]. The challenge lies in introducing new ways of working into an existing workforce, leading to pushback and slower adoption [<a class="yt-timestamp" data-t="01:40:20">01:40:20</a>].
+
+## Economic Implications and the "AI Mini Bubble"
+The substantial [[ai_investment_and_technology | AI investment]] currently underway (e.g., $26 billion a quarter in spending) is raising questions about its immediate return on investment [<a class="yt-timestamp" data-t="01:38:38">01:38:38</a>]. Critics argue that there is "nothing to show for it" beyond capabilities like voice mimicry or simple visual tasks [<a class="yt-timestamp" data-t="01:39:29">01:39:29</a>]. The high cost of AI systems (Cogs on AI) for companies like Dell, whose stock dropped 20% after reporting earnings, indicates significant cash burn without proportionate incremental revenue potential [<a class="yt-timestamp" data-t="01:38:04">01:38:04</a>].
+
+There's a growing sentiment that the first "AI mini bubble" might be bursting, with accelerated expectations for public market technology stocks potentially facing a reckoning [<a class="yt-timestamp" data-t="01:41:50">01:41:50</a>]. This is compounded by broader economic concerns, including a [[us_job_growth_revision_and_economic_impact | US GDP growth]] slowdown to below 2% and 30-year treasury rates nearing 5%, leading to multiple compression across the market for tech stocks [<a class="yt-timestamp" data-t="01:42:10">01:42:10</a>]. This could mark the beginning of a slow contraction, where reduced spending and customer conversion will dramatically affect the market [<a class="yt-timestamp" data-t="01:42:44">01:42:44</a>].

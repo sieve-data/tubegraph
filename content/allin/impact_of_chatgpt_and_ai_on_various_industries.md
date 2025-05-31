@@ -1,0 +1,50 @@
+---
+title: Impact of ChatGPT and AI on various industries
+videoId: qQ544sWC8ZQ
+---
+
+From: [[allin]] <br/> 
+
+The rapid development and deployment of [[artificial_intelligence_and_its_economic_impact | AI]] models, particularly [[chatgpt_and_ais_impact_on_various_industries | ChatGPT]], are poised to bring about significant changes across numerous industries, affecting job markets, business models, and consumer interaction <a class="yt-timestamp" data-t="15:13:00">[15:13:00]</a>.
+
+## [[chatgpt_and_ais_impact_on_various_industries | ChatGPT]] as a Transformative Tool
+[[chatgpt_and_ais_impact_on_various_industries | ChatGPT]] is described as a writing partner, researcher, and editor that can significantly accelerate content creation <a class="yt-timestamp" data-t="10:28:00">[10:28:00]</a>. One user's experience highlights its ability to assist in drafting a blog post that would typically take a week to research and write, completing it in just one day <a class="yt-timestamp" data-t="10:16:00">[10:16:00]</a>. This demonstrates its potential for efficiency and increased output <a class="yt-timestamp" data-t="10:22:00">[10:22:00]</a>.
+
+The ability of [[chatgpt_and_ais_impact_on_various_industries | ChatGPT]] to generate content, summarize conversations, and even format data into tables quickly (e.g., converting text into a table format) showcases its utility as a powerful tool that can save significant time and effort <a class="yt-timestamp" data-t="11:42:00">[11:42:00]</a>.
+
+## [[impact_of_ai_on_software_and_services | AI]] as a Developer Platform and the Rise of Intelligent Agents
+The introduction of [[chatgpt_and_ais_impact_on_various_industries | ChatGPT]] plugins marks a pivotal moment, positioning [[chatgpt_and_ais_impact_on_various_industries | OpenAI]] as a major developer platform, potentially the most important since the iPhone and the App Store <a class="yt-timestamp" data-t="15:13:00">[15:13:00]</a>. These plugins allow [[chatgpt_and_ais_impact_on_various_industries | ChatGPT]] to interact with external services via APIs, enabling it to perform tasks like booking reservations (OpenTable), finding items to buy (Shopify), or ordering groceries (Instacart) <a class="yt-timestamp" data-t="13:34:00">[13:34:00]</a>.
+
+This functionality enables [[chatgpt_and_ais_impact_on_various_industries | AI]] to act as "intelligent agents" <a class="yt-timestamp" data-t="15:01:00">[15:01:00]</a>. Unlike rigid voice assistants like Siri or Alexa, [[chatgpt_and_ais_impact_on_various_industries | AI]] with natural language processing can understand complex requests and execute them across multiple services <a class="yt-timestamp" data-t="17:09:00">[17:09:00]</a>. This capability closes the loop between search and commerce, a space where companies like Google have not fully integrated <a class="yt-timestamp" data-t="18:21:00">[18:21:00]</a>.
+
+Key features of this platform include:
+*   **Browsing Plugin**: Allows [[chatgpt_and_ais_impact_on_various_industries | ChatGPT]] to search the internet as a human would, finding and returning answers directly from current information, overcoming its initial data cutoff <a class="yt-timestamp" data-t="28:01:00">[28:01:00]</a>.
+*   **Retrieval API**: Enables developers to share proprietary knowledge bases with [[chatgpt_and_ais_impact_on_various_industries | ChatGPT]], making it aware of specific company content while sandboxing the data for privacy <a class="yt-timestamp" data-t="28:35:00">[28:35:00]</a>.
+
+The rapid user adoption of [[chatgpt_and_ais_impact_on_various_industries | ChatGPT]], reaching over 100 million users in two months, positions it as a destination site, not just an API provider <a class="yt-timestamp" data-t="16:18:00">[16:18:00]</a>. This user attention and developer engagement are seen as substantial advantages for [[chatgpt_and_ais_impact_on_various_industries | OpenAI]] <a class="yt-timestamp" data-t="27:01:00">[27:01:00]</a>.
+
+## [[the_future_of_ai_impact_on_job_markets_and_business_models | Impact on Job Roles]] and [[implications_of_ai_on_traditional_tech_jobs_and_growth | Traditional Tech Jobs]]
+The [[the_future_of_ai_impact_on_job_markets_and_business_models | impact of AI]] on employment is a complex topic with both optimistic and pessimistic outlooks.
+
+### Job Displacement
+Some argue that [[artificial_intelligence_and_its_economic_impact | AI]] could lead to the [[the_future_of_ai_impact_on_job_markets_and_business_models | elimination of entire job categories]], particularly white-collar roles <a class="yt-timestamp" data-t="59:59:00">[59:59:00]</a>. Examples include:
+*   **3D Artists/Game Developers**: A Reddit post describes how Midjourney v5 drastically reduced the time needed to create animated characters from weeks to days, shifting the role from art creation to prompting and photoshopping <a class="yt-timestamp" data-t="01:00:15">[01:00:15]</a>.
+*   **Coding Jobs**: Companies providing "coding for hire" services, such as Accenture and TCS, are seen as early adopters of [[impact_of_ai_on_software_and_services | AI]] to drive efficiency and profitability by requiring significantly fewer people for the same output <a class="yt-timestamp" data-t="01:01:50">[01:01:50]</a>.
+*   **Medical Professionals**: [[artificial_intelligence_and_its_economic_impact | AI]] systems are being developed that can detect cancers with a near-zero error rate, surpassing human radiologists and pathologists <a class="yt-timestamp" data-t="01:11:15">[01:11:15]</a>.
+*   **Other Roles**: Historically, jobs like phone operators and travel agents were displaced by technology, and [[artificial_intelligence_and_its_economic_impact | AI]] could similarly eliminate roles such as copy editors, illustrators, logo designers, accountants, and sales development reps <a class="yt-timestamp" data-t="01:15:50">[01:15:50]</a>.
+
+The core concern is that [[artificial_intelligence_and_its_economic_impact | AI]] can supplant human judgment in a closed-loop manner, outperforming human error rates <a class="yt-timestamp" data-t="01:15:12">[01:15:12]</a>. This could lead to societal disturbance, particularly in white-collar sectors <a class="yt-timestamp" data-t="01:16:20">[01:16:20]</a>.
+
+### Job Augmentation and Creation
+Conversely, proponents argue that [[artificial_intelligence_and_its_economic_impact | AI]] will augment human productivity, leading to new opportunities and prosperity <a class="yt-timestamp" data-t="01:02:52">[01:02:52]</a>.
+*   **Increased Productivity**: Engineers using [[artificial_intelligence_and_its_economic_impact | AI]] tools can become "10x engineers," accelerating product roadmaps and enabling more projects to be completed <a class="yt-timestamp" data-t="01:04:26">[01:04:26]</a>.
+*   **Empowering Creators**: [[artificial_intelligence_and_its_economic_impact | AI]] can lower the barrier to entry for creators, allowing individuals with good ideas to develop apps or websites through natural language commands, without extensive coding or capital <a class="yt-timestamp" data-t="01:03:50">[01:03:50]</a>. This could lead to an explosion in creativity and new companies <a class="yt-timestamp" data-t="01:04:01">[01:04:01]</a>.
+*   **New Art Forms**: Similar to how digital photography and CGI led to new art forms despite initial resistance, [[artificial_intelligence_and_its_economic_impact | AI]] is expected to foster new modes of human creative expression <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>.
+*   **Unfathomable Opportunities**: The historical pattern of technological advancement shows that while old jobs disappear, new, often more fulfilling, jobs emerge (e.g., Instagram influencers, personal trainers) <a class="yt-timestamp" data-t="01:12:08">[01:12:08]</a>. The full scope of future opportunities is yet unknown <a class="yt-timestamp" data-t="01:12:42">[01:12:42]</a>.
+
+## Competition and Future Outlook
+The landscape for [[impact_of_ai_on_different_industries_and_technical_fields | AI]] models is intensely competitive. While [[chatgpt_and_ais_impact_on_various_industries | OpenAI]] has an early lead with user attention and platform features <a class="yt-timestamp" data-t="26:54:00">[26:54:00]</a>, established tech giants like Google, Facebook, Apple, and Microsoft are actively developing their own [[impact_of_ai_on_different_industries_and_technical_fields | AI]] capabilities <a class="yt-timestamp" data-t="37:41:00">[37:41:00]</a>. These incumbents possess vast resources, talented personnel, and massive user bases, which they are expected to leverage through "bundling" [[artificial_intelligence_and_its_economic_impact | AI]] into their existing products (e.g., Bard in Google Search, YouTube, Android) <a class="yt-timestamp" data-t="32:13:00">[32:13:13]</a>.
+
+The pace of [[potential_of_ai_and_machine_learning_in_the_business_landscape | AI]] innovation is expected to accelerate, driven by competitive dynamics <a class="yt-timestamp" data-t="55:14:00">[55:14:00]</a>. This rapid advancement raises concerns about the potential for [[impact_of_ai_on_different_industries_and_technical_fields | AI]] to "outsmart, obsolete, and replace us" <a class="yt-timestamp" data-t="51:02:00">[51:02:00]</a>, with some notable tech leaders advocating for a pause in giant [[impact_of_ai_on_different_industries_and_technical_fields | AI]] experiments <a class="yt-timestamp" data-t="50:30:00">[50:30:00]</a>. However, the prevailing view is that the competitive market will prevent any slowing down <a class="yt-timestamp" data-t="55:14:00">[55:14:00]</a>.
+
+The long-term [[the_future_of_ai_impact_on_job_markets_and_business_models | future of AI's impact]] remains uncertain, but the current trajectory points towards profound changes in how work is done, products are created, and services are consumed <a class="yt-timestamp" data-t="01:14:09">[01:14:09]</a>.

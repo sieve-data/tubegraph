@@ -1,0 +1,59 @@
+---
+title: Current political climate and the impact on elections
+videoId: HW3Ip9_k_zc
+---
+
+From: [[allin]] <br/> 
+
+The [[current_political_climate_and_its_impact_on_silicon_valley | current political climate]] is characterized by a significant shift in media influence, partisan divides, and controversial social issues impacting [[us_elections_and_political_dynamics | US elections and political dynamics]].
+
+## Shift in Media Landscape
+There is an urgent need for independent voices in the media landscape <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. Independent broadcasters, like Megan Kelly, operate on platforms such as podcast, Rumble, YouTube, and Twitter (under Elon Musk's ownership) <a class="yt-timestamp" data-t="00:21:00">[00:21:00]</a>. This contrasts with traditional cable news, which some believe is "fighting yesterday's War" <a class="yt-timestamp" data-t="00:29:00">[00:29:00]</a>.
+
+Megan Kelly finds herself happier and more engaged as an independent broadcaster, believing that "cancel culture" effectively separates individuals from companies where their values are not aligned <a class="yt-timestamp" data-t="01:55:54">[01:55:54]</a>. She states she could not imagine working at NBC or Fox News in the current environment and adhering to their rules on "dicey issues" <a class="yt-timestamp" data-t="02:16:00">[02:16:00]</a>. Her independent show, with six producers, has become the largest news broadcaster on YouTube, surpassing CNN and NBC in viewership <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>.
+
+The traditional news industry is described as "disgusting and toxic," stimulating outrage and pushing agendas <a class="yt-timestamp" data-t="04:18:00">[04:18:00]</a>. The shift to independent media was motivated by significant events like the pandemic, mandates, and the George Floyd protests, leading to a desire to speak truth and stand against "bullies" <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>. A core principle for independent broadcasting is free speech <a class="yt-timestamp" data-t="07:01:00">[07:01:00]</a>.
+
+## Key Political Issues
+Several issues are shaping the [[us_political_landscape_and_economic_policies | US political landscape]]:
+
+### Treatment of Law Enforcement
+There is significant concern over the portrayal of police officers in the media <a class="yt-timestamp" data-t="07:19:00">[07:19:00]</a>. While acknowledging "a few bad apples," it is argued that the majority of officers are honorable, risk their lives, and are underpaid <a class="yt-timestamp" data-t="07:29:00">[07:29:00]</a>. The media is accused of ruining officers' lives "before any due process" <a class="yt-timestamp" data-t="07:48:00">[07:48:00]</a>. This lack of due process is seen as a broader trend in media over the past five years <a class="yt-timestamp" data-t="07:52:00">[07:52:00]</a>.
+
+### Transgender Issues
+The discussion around transgender rights, especially concerning children, is a contentious political topic <a class="yt-timestamp" data-t="08:16:00">[08:16:00]</a>. Key stances include:
+*   Biological men cannot become women, and women cannot become men <a class="yt-timestamp" data-t="09:00:00">[09:00:00]</a>.
+*   Men and boys do not belong in women's spaces like bathrooms, locker rooms, or sports events <a class="yt-timestamp" data-t="09:07:00">[09:07:00]</a>.
+*   Concerns exist that allowing access to these spaces by genuinely struggling individuals can be "exploited by openly bad actors," leading to physical and emotional injury for girls <a class="yt-timestamp" data-t="09:23:00">[09:23:00]</a>.
+*   The rise in gender identity claims is attributed to a "social contagion," documented by various authors and concentrated in more "leftist States, cities, regions" where children are more exposed to it <a class="yt-timestamp" data-t="12:17:00">[12:17:00]</a>.
+*   Concerns are raised about autistic children or those on the spectrum stumbling upon such content online, leading to obsessive thoughts and behaviors <a class="yt-timestamp" data-t="13:14:00">[13:14:00]</a>.
+*   The medical community's "affirm" standard for gender identity is criticized for not exploring underlying issues like divorce, grades, or sexual assault, and for potentially leading to sterilization through puberty blockers and cross-sex hormones <a class="yt-timestamp" data-t="13:34:00">[13:34:00]</a>.
+*   Schools allegedly hide gender transitions from parents if the parents do not "affirm" the child's identity <a class="yt-timestamp" data-t="14:11:00">[14:11:00]</a>. This is likened to "grooming" <a class="yt-timestamp" data-t="14:41:00">[14:41:00]</a>.
+*   Criticism regarding this issue often comes from men "posing as women" who try to shame those standing up for women's safe spaces <a class="yt-timestamp" data-t="10:48:00">[10:48:00]</a>.
+
+## [[us_elections_and_political_dynamics | US Elections and Political Dynamics]]
+
+### 2024 Presidential Election Outlook
+Donald Trump is currently seen as better positioned to win the 2024 election than ever before <a class="yt-timestamp" data-t="16:12:00">[16:12:00]</a>. A New York Times/Sienna poll, considered the "gold standard," shows Trump up one point <a class="yt-timestamp" data-t="16:18:00">[16:18:00]</a>. This contrasts with four years prior, when Biden was up nine points against Trump <a class="yt-timestamp" data-t="16:32:00">[16:32:00]</a>. Generally, a Democrat candidate needs to be up four points or more in national polling to secure a victory, given their usual popular vote advantage in urban centers <a class="yt-timestamp" data-t="17:15:00">[17:15:00]</a>.
+
+### Comparison: Trump vs. Clinton (2016) vs. Trump vs. Harris (2024)
+*   **Donald Trump (2016):** Had a "genuine outsider status" that appealed to many new voters <a class="yt-timestamp" data-t="17:57:00">[17:57:00]</a>. He was described as vibrant, feisty, fiery, fun, provocative, and controversial <a class="yt-timestamp" data-t="18:10:00">[18:10:00]</a>.
+*   **Donald Trump (2024):** Is older and his "bits" (routine) are more familiar <a class="yt-timestamp" data-t="18:41:00">[18:41:00]</a>. He is no longer an "outsider" in the same way, but has a "record" of policies that are seen as "incredibly good for America" <a class="yt-timestamp" data-t="19:13:00">[19:13:00]</a>. His rhetoric is considered by some to be "divisive" and "toxic" <a class="yt-timestamp" data-t="19:39:00">[19:39:00]</a>.
+*   **Hillary Clinton (2016):** Described as "smart" and "incredibly competent," capable of doing the job <a class="yt-timestamp" data-t="19:53:00">[19:53:00]</a>.
+*   **Kamala Harris (2024):** Perceived as "not smart," "not a deep thinker," and "very surface level" <a class="yt-timestamp" data-t="20:26:00">[20:26:00]</a>. Her public demeanor is characterized by giggling, which is seen as a "cover" for when she doesn't know what to say <a class="yt-timestamp" data-t="20:31:00">[20:31:00]</a>.
+
+### Legal Cases Against Donald Trump
+All legal cases against Donald Trump are viewed as part of a coordinated effort to target him <a class="yt-timestamp" data-t="28:12:00">[28:12:00]</a>.
+*   **E. Jean Carroll Civil Cases:** The law was allegedly changed for her to bring a civil lawsuit <a class="yt-timestamp" data-t="28:24:00">[28:24:00]</a>. A New York jury, in a state that voted 87% for Joe Biden, heard the case <a class="yt-timestamp" data-t="28:27:00">[28:27:00]</a>.
+*   **New York Fraud Trial (Leticia James):** This case has never been brought before in New York. There were no victims, and the involved banks stated they lost no money <a class="yt-timestamp" data-t="28:35:00">[28:35:00]</a>. The prosecutor, Tish James, ran for office on the promise of "getting" Trump <a class="yt-timestamp" data-t="28:42:00">[28:42:00]</a>.
+*   **New York Hush Money Case (Alvin Bragg):** Bragg, described as a George Soros-funded prosecutor, is accused of prosecuting only Trump while not pursuing other crimes in New York City <a class="yt-timestamp" data-t="28:47:00">[28:47:00]</a>. The core of the case, concerning a bookkeeping entry that nobody saw, was framed as an attempt to steal the election <a class="yt-timestamp" data-t="24:40:00">[24:40:00]</a>. It's argued that this case sets a precedent where politicians must allow accusations to go public or risk jail, even if false <a class="yt-timestamp" data-t="25:11:00">[25:11:00]</a>. The sentencing date was moved to November 18th, two weeks after the election <a class="yt-timestamp" data-t="24:11:00">[24:11:00]</a>. It's predicted Trump will win on appeal due to "so many holes in that case" <a class="yt-timestamp" data-t="26:48:00">[26:48:00]</a> and will not serve jail time <a class="yt-timestamp" data-t="26:51:00">[26:51:00]</a>.
+*   **Georgia Election Interference Case (Fani Willis):** This case is seen as "falling apart" due to the actions of Fani Willis and Nathan Wade <a class="yt-timestamp" data-t="28:55:00">[28:55:00]</a>.
+*   **January 6th Case (Judge Chutkan):** Judge Chutkan is perceived to "loathe Trump" and has given harsher sentences to J6 defendants than others <a class="yt-timestamp" data-t="29:05:00">[29:05:00]</a>. These cases are described as "gutted" due to the Supreme Court's ruling on presidential immunity for official acts <a class="yt-timestamp" data-t="29:13:00">[29:13:00]</a>.
+*   **Documents Case (Florida):** This case is also seen as going nowhere due to issues with Jack Smith's appointment and presidential immunity <a class="yt-timestamp" data-t="29:29:00">[29:29:00]</a>. Trump is criticized for not turning over documents once subpoenaed, though this is deemed "dumb" but also self-destructive <a class="yt-timestamp" data-t="26:18:00">[26:18:00]</a>.
+
+### Political Outlook Post-2024
+The political landscape is not viewed optimistically, and it is seen as "getting worse" <a class="yt-timestamp" data-t="30:43:00">[30:43:00]</a>. This is partly attributed to the influence of social media and figures like AOC, leading to "congressional Kardashians" <a class="yt-timestamp" data-t="30:46:00">[30:46:00]</a>. Washington D.C. is seen as having lost incentives for good people, and the future leaders might come from outside the political establishment <a class="yt-timestamp" data-t="31:18:00">[31:18:00]</a>. Rand Paul is mentioned as a politician who stands up for the right issues and has integrity <a class="yt-timestamp" data-t="31:55:00">[31:55:00]</a>.
+
+The ability for politicians to reach across the aisle has diminished, as they are often driven by clicks and fame <a class="yt-timestamp" data-t="32:17:00">[32:17:00]</a>. Money in politics, exacerbated by decisions like Citizens United, has corrupted the system, leading politicians to answer only to big donors or small, hyper-partisan constituencies <a class="yt-timestamp" data-t="32:29:00">[32:29:00]</a>. This leads to a lack of compromise and an focus on reelection, resulting in legislative stagnation <a class="yt-timestamp" data-t="32:46:00">[32:46:00]</a>.
+
+A call is made to return to the country's original founding vision: a government and presidency as small as possible, doing "as little as humanly possible" <a class="yt-timestamp" data-t="33:00:00">[33:00:00]</a>. The solution to political issues is not seen as top-down constitutional amendments, but rather "bottom up," requiring a societal shift in how people live and connect <a class="yt-timestamp" data-t="33:44:00">[33:44:00]</a>. Factors contributing to societal division include technology, processed foods affecting health and behavior, and a lack of community <a class="yt-timestamp" data-t="34:12:00">[34:12:00]</a>. A recommendation is made to reconnect with nature, community, and to "love our country again," emphasizing neighborly support over government intervention <a class="yt-timestamp" data-t="35:04:00">[35:04:00]</a>.

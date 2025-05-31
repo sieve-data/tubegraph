@@ -1,0 +1,32 @@
+---
+title: Ban on mock meat and regulatory issues
+videoId: hyxBMx4w5jg
+---
+
+From: [[allin]] <br/> 
+
+A debate is unfolding across the United States regarding the legal status of cellular, or "mock," meat, with several states enacting bans on its production and sale. The discussion highlights tensions between agricultural protectionism, technological innovation, and regulatory philosophy.
+
+## State-Level Bans
+The "All-In podcast" noted the banning of mock meat in Montana <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. This trend has seen various states, including Florida, Alabama, Mississippi, and Indiana, sign laws prohibiting cellular meat <a class="yt-timestamp" data-t="01:19:02">[01:19:02]</a>, <a class="yt-timestamp" data-t="01:19:04">[01:19:04]</a>, <a class="yt-timestamp" data-t="01:19:05">[01:19:05]</a>.
+
+In Montana, Governor Greg Gianforte signed House Bill 401, which officially bans cellular meat starting October 1st <a class="yt-timestamp" data-t="01:19:22">[01:19:22]</a>, <a class="yt-timestamp" data-t="01:19:24">[01:19:24]</a>, <a class="yt-timestamp" data-t="01:19:28">[01:19:28]</a>. The stated reason for these bans is often economic protectionism, aimed at protecting existing cattle ranchers <a class="yt-timestamp" data-t="01:20:22">[01:20:22]</a>, <a class="yt-timestamp" data-t="01:20:24">[01:20:24]</a>, <a class="yt-timestamp" data-t="01:20:27">[01:20:27]</a>.
+
+## Arguments Against the Ban
+Critics argue that such bans stifle innovation and economic growth. David Friedberg raised the question, asking how the hosts would react if AI were banned in a state <a class="yt-timestamp" data-t="01:19:36">[01:19:36]</a>. He suggested that such states would go "to zero," while others would move forward <a class="yt-timestamp" data-t="01:19:44">[01:19:44]</a>.
+
+It was noted that China and Europe are actively building cellular meat systems, seeing them as economic drivers that can reduce food costs and create new industries <a class="yt-timestamp" data-t="01:19:53">[01:19:53]</a>, <a class="yt-timestamp" data-t="01:19:58">[01:19:58]</a>, <a class="yt-timestamp" data-t="01:19:59">[01:19:59]</a>.
+
+A core argument against the ban is that consumer choice should dictate market success. As long as products meet health and safety standards—which cellular meat currently does under FDA and USDA regulation—the market should decide if consumers want to buy them <a class="yt-timestamp" data-t="01:20:06">[01:20:06]</a>, <a class="yt-timestamp" data-t="01:20:08">[01:20:08]</a>, <a class="yt-timestamp" data-t="01:20:09">[01:20:09]</a>, <a class="yt-timestamp" data-t="01:20:11">[01:20:11]</a>, <a class="yt-timestamp" data-t="01:20:14">[01:20:14]</a>, <a class="yt-timestamp" data-t="01:20:16">[01:20:16]</a>. The bans are seen as [[regulatory_and_risk_management_concerns | regulatory capture]] by a small cohort of the rancher industry, stifling early-stage technology before it has a chance to develop <a class="yt-timestamp" data-t="01:21:19">[01:21:19]</a>, <a class="yt-timestamp" data-t="01:22:12">[01:22:12]</a>, <a class="yt-timestamp" data-t="01:22:14">[01:22:14]</a>, <a class="yt-timestamp" data-t="01:22:16">[01:22:16]</a>, <a class="yt-timestamp" data-t="01:22:19">[01:22:19]</a>, <a class="yt-timestamp" data-t="01:22:20">[01:22:20]</a>, <a class="yt-timestamp" data-t="01:22:22">[01:22:22]</a>.
+
+Friedberg likened the situation to banning ride-sharing services like Uber to protect taxi drivers, noting that eventually, market superiority led to Uber's widespread adoption <a class="yt-timestamp" data-t="01:20:34">[01:20:34]</a>, <a class="yt-timestamp" data-t="01:21:45">[01:21:45]</a>, <a class="yt-timestamp" data-t="01:21:47">[01:21:47]</a>, <a class="yt-timestamp" data-t="01:21:49">[01:21:49]</a>, <a class="yt-timestamp" data-t="01:21:51">[01:21:51]</a>, <a class="yt-timestamp" data-t="01:21:53">[01:21:53]</a>. He conceded that the product "sucks ass" now <a class="yt-timestamp" data-t="01:22:27">[01:22:27]</a> but emphasized the need to allow innovation to mature <a class="yt-timestamp" data-t="01:22:07">[01:22:07]</a>, <a class="yt-timestamp" data-t="01:22:09">[01:22:09]</a>.
+
+## Counterarguments and Cultural Nuances
+The concept of individual states making their own "good, bad, or neutral" decisions was brought up, implying that if states choose to make economically disadvantageous choices, they are free to do so <a class="yt-timestamp" data-t="01:20:44">[01:20:44]</a>, <a class="yt-timestamp" data-t="01:20:46">[01:20:46]</a>, <a class="yt-timestamp" data-t="01:20:48">[01:20:48]</a>, <a class="yt-timestamp" data-t="01:20:51">[01:20:51]</a>, <a class="yt-timestamp" data-t="01:20:54">[01:20:54]</a>.
+
+An interesting cultural and religious angle was introduced by Ben Shapiro, who questioned whether pork grown in a fermentation tank, not originating from an actual pig, would be considered kosher <a class="yt-timestamp" data-t="01:23:19">[01:23:19]</a>, <a class="yt-timestamp" data-t="01:23:21">[01:23:21]</a>, <a class="yt-timestamp" data-t="01:23:23">[01:23:23]</a>, <a class="yt-timestamp" data-t="01:23:30">[01:23:30]</a>, <a class="yt-timestamp" data-t="01:23:32">[01:23:32]</a>, <a class="yt-timestamp" data-t="01:23:33">[01:23:33]</a>, <a class="yt-timestamp" data-t="01:23:35">[01:23:35]</a>. This highlights the complex implications of [[innovation_and_challenges_in_the_future_of_food | food innovation]] beyond economic or safety concerns.
+
+The broader sentiment expressed by the hosts is that this is an unnecessary distraction and an example of [[regulatory_and_risk_management_concerns | regulatory challenges faced by SpaceX and other industries]] that hinder progress <a class="yt-timestamp" data-t="01:15:15">[01:15:15]</a>.
+
+### Broader Implications
+Beyond the state-level bans, a House bill has been proposed to implement similar prohibitions on cellular meat across the entire United States <a class="yt-timestamp" data-t="01:19:49">[01:19:49]</a>, highlighting the potential for this issue to become a national debate, similar to the [[TikTok Ban Debate | TikTok Ban]]. The discussion around mock meat reflects [[challenges_in_food_and_pharmaceutical_industries | broader challenges in food and pharmaceutical industries]] when innovation meets existing industries and regulatory frameworks.
