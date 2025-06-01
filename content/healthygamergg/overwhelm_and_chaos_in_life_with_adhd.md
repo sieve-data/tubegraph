@@ -1,0 +1,52 @@
+---
+title: Overwhelm and chaos in life with ADHD
+videoId: Rq6K7yxaNaM
+---
+
+From: [[healthygamergg]] <br/> 
+
+Individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] often experience overwhelm and find themselves in a constant state of chaos, despite their best efforts to organize and plan <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This persistent chaos is a significant challenge in daily life <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>.
+
+## [[the_real_curse_of_adhd_beyond_attention_and_impulsivity_issues | The Real Curse of ADHD]]
+
+The actual "curse" of [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] is not solely rooted in differences in frontal lobes, or struggles with [[understanding_adhd_as_a_disorder_of_attention | attention]] or impulsivity <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. Instead, it lies in the inability to utilize intact parts of the brain due to the way individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] adapt to their condition <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>.
+
+### Early Adaptations to Perceived Failure
+From childhood, individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] recognize that their brains function differently <a class="yt-timestamp" data-t="00:00:36">[00:00:36]</a>. Tasks that are easy for others often present significant [[challenges_of_adhd_in_academic_and_work_settings | challenges]], and despite effort, things tend to fall apart <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+
+A key development occurs when the fear of failure begins to impede [[understanding_adhd_as_a_disorder_of_attention | focus]] on the task at hand <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>. For example, fearing a painting will be ruined by distraction consumes [[impact_of_adhd_on_energy_levels | cognitive energy]] with thoughts of "don't screw up," making actual focus on the task nearly impossible <a class="yt-timestamp" data-t="00:01:02">[00:01:02]</a>. This paradox is similar to trying too hard to fall asleep, which keeps one awake <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>.
+
+As this pattern repeats, the individual begins to see "screwing up" as inevitable <a class="yt-timestamp" data-t="00:01:51">[00:01:51]</a>. This leads to a choice: either try hard and fail anyway, or "just kind of screw up" immediately to mentally free oneself from the stress <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+
+## Performance in Chaos: A "Competitive Advantage"
+Interestingly, once an individual with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] "screws up," their performance can actually improve <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. Brain studies suggest that the ability of people with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] to adapt to chaotic circumstances is superior to neurotypical individuals <a class="yt-timestamp" data-t="00:02:21">[00:02:21]</a>.
+
+This constitutes a [[the_benefits_and_challenges_of_adhd | competitive advantage]]: in a chaotic environment with many external stimuli and pressures, individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] often perform at their best <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. For instance, studying for a test a month away is difficult, but last-minute panic before a test the next day can enable them to rise to the challenge <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+
+This leads to an [[adaptive_strategies_in_chaotic_environments_for_those_with_adhd | adaptation]]: if failure is inevitable, one might as well create chaos now, as individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] are skilled at damage control but poor at damage prevention <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. They excel at piecing things together after they've fallen apart <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. An example is a child with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] cobbling together a school project during lunch after forgetting it was due <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>.
+
+## Disabling Habit Circuitry
+The unfortunate consequence of thriving in chaos and external pressures is that it disables the brain's habit circuitry, which is a primary protective mechanism against [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] challenges <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>.
+
+While the frontal lobes, impaired in [[understanding_adhd_and_its_impact_on_daily_life | ADHD]], govern sustained [[understanding_adhd_as_a_disorder_of_attention | attention]], impulse restriction, and [[understanding_adhd_as_a_disorder_of_attention | focus]] <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>, habits are controlled by a different part of the brain called the basal ganglia <a class="yt-timestamp" data-t="00:04:40">[00:04:40]</a>. Habits are automatic, do not require [[understanding_adhd_as_a_disorder_of_attention | attention]] or [[understanding_adhd_as_a_disorder_of_attention | focus]], and don't necessitate impulse restraint <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. The neurotransmitters involved are also different; stimulant medications for [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] affect norepinephrine and dopamine, while the habit system is governed by endocannabinoids <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
+
+Consistently engaging in chaotic behavior makes consistent behavior impossible <a class="yt-timestamp" data-t="00:05:22">[00:05:22]</a>. Without consistent behavior, the basal ganglia cannot form habits <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>. This is critical because when [[understanding_adhd_as_a_disorder_of_attention | attention]] wanders, habits can kick in as an "autopilot mechanism" to ensure productive actions <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. For example, habitually placing keys in the same spot prevents losing them <a class="yt-timestamp" data-t="00:06:35">[00:06:35]</a>. By creating chaos, individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] unintentionally prevent their habit circuitry from developing, thus losing a crucial tool for managing their condition <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
+
+## The Power of Cognitive Reframing
+To stop creating chaos and enable habit formation, individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] can utilize their intact capacity for cognitive reframing <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. Their analytical capability (IQ) is fully functional, allowing them to analyze situations and arrive at intellectually sound conclusions <a class="yt-timestamp" data-t="00:07:13">[00:07:13]</a>. The challenge isn't intelligence, but the ability to sustain [[understanding_adhd_as_a_disorder_of_attention | attention]] long enough to follow through <a class="yt-timestamp" data-t="00:07:26">[00:07:26]</a>. This disconnect often contributes to depression in individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]], who recognize their intelligence but struggle to leverage it <a class="yt-timestamp" data-t="00:07:37">[00:07:37]</a>.
+
+The cycle of seeking chaos typically involves:
+1.  Trying and failing <a class="yt-timestamp" data-t="00:08:12">[00:08:12]</a>.
+2.  Attempting to avoid failure, which causes stress and is ineffective <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>.
+3.  Consciously creating chaos to trigger their external motivation and stimulus-bound frontal lobes, allowing them to "level up" their chaos management and damage control skills <a class="yt-timestamp" data-t="00:08:21">[00:08:21]</a>.
+
+To break this cycle, a cognitive reframe is needed, specifically challenging the belief that failure is inevitable <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>.
+
+### The Strategy of Delaying Failure
+Instead of trying to stop failing, the goal should be to delay failure for as long as possible <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>. This strategy is exemplified by professional gamers who, upon realizing they are losing, shift their mindset from "throwing in the towel" to "losing less" <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>. By aiming to "make the enemy team bleed for every inch of ground," they prolong games and surprisingly even start winning matches they should have lost, demonstrating consistent comebacks <a class="yt-timestamp" data-t="00:10:45">[00:10:45]</a>.
+
+For individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]], delaying inevitable failure buys valuable time for the brain to form habits <a class="yt-timestamp" data-t="00:11:22">[00:11:22]</a>. When feeling stressed about screwing up, they can acknowledge the possibility of failure but commit to doing the best job possible for as long as they can <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>. This approach avoids immediate self-induced chaos and provides the necessary time for the basal ganglia to develop beneficial habits <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>.
+
+By cognitively reframing and activating the basal ganglia, individuals with [[understanding_adhd_and_its_impact_on_daily_life | ADHD]] can change their life trajectory <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>. This allows for the formation of habits that ensure productivity even when [[understanding_adhd_as_a_disorder_of_attention | attention]] wavers, and shifts the perception of failure <a class="yt-timestamp" data-t="00:12:17">[00:12:17]</a>.
+
+The true [[the_real_curse_of_adhd_beyond_attention_and_impulsivity_issues | curse of ADHD]] is not simply the neurodivergence or [[understanding_adhd_as_a_disorder_of_attention | attention]] difficulties, but rather the [[adaptive_strategies_in_chaotic_environments_for_those_with_adhd | adaptations]] that lead to choosing chaos and damage control, which inadvertently disable the most functional and helpful parts of the brain <a class="yt-timestamp" data-t="00:12:33">[00:12:33]</a>.

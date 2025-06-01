@@ -1,0 +1,85 @@
+---
+title: Factors Contributing to Burnout
+videoId: jqONINYF17M
+---
+
+From: [[healthygamergg]] <br/> 
+
+[[Understanding Burnout and Its Challenges | Burnout]] is a notoriously difficult condition to treat, primarily because it's often approached with a purely medical mindset, and individuals tend to devalue their own experiences, believing they cannot be burnt out if they have things to be grateful for <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Despite the term being overused in casual conversation, the World Health Organization and researchers like Freudenberg and Christina Maslach have affirmed that [[Understanding Burnout and Its Challenges | burnout]] is a real and increasing phenomenon <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>. A major challenge is that many people experiencing [[Understanding Burnout and Its Challenges | burnout]] don't realize it because they don't understand what it truly looks or feels like <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+
+## [[Symptoms and Signs of Burnout | Symptoms and Signs of Burnout]]
+
+People often invalidate their experiences of [[Understanding Burnout and Its Challenges | burnout]], believing their life is "objectively good" and therefore they "must not be burnt out" <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>. They might assume that unless they exhibit severe [[Symptoms and Signs of Burnout | symptoms]] like losing hair, developing ulcers, or being unable to get out of bed, their struggles are not significant <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. However, [[Understanding Burnout and Its Challenges | burnout]] often presents in more subtle ways:
+
+*   **Lack of Energy**: This is often the first experience, a general feeling of low energy despite being able to perform work tasks <a class="yt-timestamp" data-t="00:05:58">[00:05:58]</a>. Individuals may attribute this to other causes, such as needing more meditation, yoga, or supplements, influenced by the wellness industry <a class="yt-timestamp" data-t="00:06:20">[00:06:20]</a>. Life might feel "flat" without the usual excitement <a class="yt-timestamp" data-t="00:06:53">[00:06:53]</a>.
+*   **Lack of Empathy and Cynicism**: Research indicates that a lack of empathy is often the *first* phase of [[Understanding Burnout and Its Challenges | burnout]], preceding a lack of energy <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. This manifests as cynicism towards one's job or the world, leading to a fatalistic, hopeless attitude <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>. Empathy requires energy, which is depleted in [[Understanding Burnout and Its Challenges | burnout]] <a class="yt-timestamp" data-t="00:08:55">[00:08:55]</a>.
+*   **Lack of Enjoyment or Fulfillment**: Despite their performance remaining adequate, individuals lose the sense of enjoyment or fulfillment from their job, even if on paper, they like what they do <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. This often leads to self-invalidation, thinking, "I'm lucky to have this job, why am I complaining?" <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>. A short fuse is also a very common [[Symptoms and Signs of Burnout | sign of burnout]] <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>.
+
+The ability to perform work at a normal level despite internal struggles is why [[Understanding Burnout and Its Challenges | burnout]] often goes unnoticed <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>.
+
+## [[Differentiating Between Burnout and Depression | Differentiating Between Burnout and Depression]]
+
+Originally, there was debate about whether [[Understanding Burnout and Its Challenges | burnout]] was distinct from [[Differentiating Between Burnout and Depression | depression]] <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>. The World Health Organization defines [[Understanding Burnout and Its Challenges | burnout]] as specifically related to occupational contexts <a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a>.
+
+| Feature     | [[Differentiating Between Burnout and Depression | Depression]]                                                                                                        | [[Understanding Burnout and Its Challenges | Burnout]]                                                                                                                                                                                                                                                          |
+| :---------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Scope**   | Affects every dimension of life, even if triggered by external circumstances <a class="yt-timestamp" data-t="00:12:57">[00:12:57]</a>. Considered more organic/biologic, with psychological components <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. | Primarily occupational, heavily influenced by work, though it can extend to life/situational factors beyond just work <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a>.                                                                                                                        |
+| **Hormonal**| Elevated stress hormones (e.g., ACTH, cortisol) <a class="yt-timestamp" data-t="00:15:45">[00:15:45]</a>.                                                                 | Neutral or low stress hormone levels <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>. Physiologically, things are less disturbed compared to a depressed state <a class="yt-timestamp" data-t="00:16:14">[00:16:14]</a>. |
+| **Anhedonia**| A specific feature, meaning inability to enjoy or find pleasure in normally pleasurable activities <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>.                                                 | While low on energy, people with [[Understanding Burnout and Its Challenges | burnout]] can often still have fun if they take time off, but their motivation is lacking <a class="yt-timestamp" data-t="00:19:31">[00:19:31]</a>.                  |
+
+From a clinical perspective, treating [[Understanding Burnout and Its Challenges | burnout]] as a distinct entity with its own influences and causes is often more effective than assuming it's [[Differentiating Between Burnout and Depression | depression]] and prescribing antidepressants <a class="yt-timestamp" data-t="00:17:03">[00:17:03]</a>.
+
+## The Effort-Yield Gap
+
+At its core, [[Understanding Burnout and Its Challenges | burnout]] occurs when an individual puts in significant effort but receives a disproportionately low yield or return <a class="yt-timestamp" data-t="00:22:20">[00:22:20]</a>. This is particularly true for individuals who want to work and enjoy their jobs but encounter obstacles that prevent their efforts from being seen or valued <a class="yt-timestamp" data-t="00:20:21">[00:20:21]</a>. This gap between effort and yield is where [[Understanding Burnout and Its Challenges | burnout]] develops <a class="yt-timestamp" data-t="00:23:00">[00:23:00]</a>. It's not a sign of laziness; rather, it reflects a deep struggle against a system that doesn't allow one's efforts to be properly recognized or to produce desired outcomes <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>.
+
+This concept extends beyond just work. [[Burnout and self-neglect in caregiving roles | Caregiver burnout]], for instance, arises when family members diligently care for a loved one with an illness, but the nature of the illness and its impact create a large discrepancy between their immense effort and the perceived yield <a class="yt-timestamp" data-t="00:21:49">[00:21:49]</a>.
+
+## Six Factors Contributing to Burnout
+
+Christina Maslach, a central researcher in [[Understanding Burnout and Its Challenges | burnout]], identified six key factors that contribute to this condition <a class="yt-timestamp" data-t="00:23:35">[00:23:35]</a>. Understanding these factors helps in diagnosing and addressing [[Understanding Burnout and Its Challenges | burnout]], as they often involve a complex interplay between workplace environment and individual contributions:
+
+1.  **Workload** <a class="yt-timestamp" data-t="00:24:15">[00:24:15]</a>
+    *   **Workplace Contribution**: Being overworked, especially when salaried without overtime or bonuses <a class="yt-timestamp" data-t="00:25:17">[00:25:17]</a>.
+    *   **Individual Contribution**: Taking on additional projects or side hustles, or internal emotional drives (e.g., desire to be the "best worker") leading to self-imposed overwork <a class="yt-timestamp" data-t="00:26:31">[00:26:31]</a>.
+    *   **Solution**: Setting boundaries with employers <a class="yt-timestamp" data-t="00:27:51">[00:27:51]</a> and addressing individual emotional drives <a class="yt-timestamp" data-t="00:28:03">[00:28:03]</a>.
+
+2.  **Control** <a class="yt-timestamp" data-t="00:24:18">[00:24:18]</a>
+    *   **Workplace Contribution**: Micromanagement by a boss, restricting how an individual wants to perform their work <a class="yt-timestamp" data-t="00:28:43">[00:28:43]</a>.
+    *   **Individual Contribution**: An individual's own "control freak" tendencies, where everything must happen a particular way, even if company considerations make it inappropriate <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>.
+    *   **Solution**: Understanding the discrepancy in control and determining its source <a class="yt-timestamp" data-t="00:29:35">[00:29:35]</a>.
+
+3.  **Reward** <a class="yt-timestamp" data-t="00:24:21">[00:24:21]</a>
+    *   **Workplace Contribution**: Insufficient compensation, lack of bonuses, or being moved from hourly (with overtime) to salaried <a class="yt-timestamp" data-t="00:29:49">[00:29:49]</a>.
+    *   **Individual Contribution**: Personal desires like wanting to be the "best" or earning more than peers, leading to discontent even with objectively good pay <a class="yt-timestamp" data-t="00:30:20">[00:30:20]</a>. Ego, lack of contentment, or losing sight of what's truly important in terms of reward can play a role <a class="yt-timestamp" data-t="00:31:08">[00:31:08]</a>.
+    *   **Solution**: Evaluating whether the desired reward is appropriate and understanding personal motivations for compensation <a class="yt-timestamp" data-t="00:31:40">[00:31:40]</a>.
+
+4.  **Community** <a class="yt-timestamp" data-t="00:24:25">[00:24:25]</a>
+    *   **Workplace Contribution**: Lack of community or isolation at work, even if the company claims to treat employees like "family" <a class="yt-timestamp" data-t="00:33:19">[00:33:19]</a>. Human beings are tribal and require community <a class="yt-timestamp" data-t="00:34:16">[00:34:16]</a>.
+    *   **Individual Contribution**: Social anxiety, making comparisons with others, or a personal desire to isolate <a class="yt-timestamp" data-t="00:34:36">[00:34:36]</a>.
+    *   **Solution**: Participating in or initiating community activities, such as professional organizations, happy hours, or social clubs <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>.
+
+5.  **Fairness** <a class="yt-timestamp" data-t="00:24:35">[00:24:35]</a>
+    *   **Workplace Contribution**: Actual unfair treatment, politics, nepotism, or favoritism at work <a class="yt-timestamp" data-t="00:37:34">[00:37:34]</a>.
+    *   **Individual Contribution**: Perceptions of a lack of fairness, which can be influenced by an internal bias to overestimate one's own contributions and underestimate others' <a class="yt-timestamp" data-t="00:36:21">[00:36:21]</a>. This can lead to feeling taken for granted <a class="yt-timestamp" data-t="00:37:13">[00:37:13]</a>. Conversely, an individual's willingness to be a "doormat" and not advocate for themselves can propagate an unfair environment <a class="yt-timestamp" data-t="00:39:24">[00:39:24]</a>.
+    *   **Solution**: Discerning whether the perceived unfairness is internal or external <a class="yt-timestamp" data-t="00:38:42">[00:38:42]</a>, and learning to advocate for oneself where appropriate <a class="yt-timestamp" data-t="00:39:31">[00:39:31]</a>. Unfairness significantly increases [[Understanding Burnout and Its Challenges | burnout]] likelihood <a class="yt-timestamp" data-t="00:36:04">[00:36:04]</a>.
+
+6.  **Values** <a class="yt-timestamp" data-t="00:24:37">[00:24:37]</a>
+    *   **Workplace Contribution**: A discrepancy between an individual's personal values (e.g., helping patients) and the organization's values (e.g., maximizing profit) <a class="yt-timestamp" data-t="00:44:41">[00:44:41]</a>. People generally want to be challenged and valued <a class="yt-timestamp" data-t="00:43:14">[00:43:14]</a>.
+    *   **Individual Contribution**: While harder to fix internally, an individual can work on their own values or Dharma in a situation <a class="yt-timestamp" data-t="00:48:04">[00:48:04]</a>.
+    *   **Solution**: Seeking a job that aligns with personal values <a class="yt-timestamp" data-t="00:47:59">[00:47:59]</a>, advocating for change within the company, or doing internal work to understand what truly matters <a class="yt-timestamp" data-t="00:48:04">[00:48:04]</a>.
+
+## [[Strategies for Addressing Burnout | Strategies for Addressing Burnout]]
+
+[[Understanding Burnout and Its Challenges | Burnout]] is difficult to resolve because it's an intersectional problem, involving both individual and external (workplace/situational) factors <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>. Simply changing jobs doesn't always work if the individual's internal drives remain unaddressed <a class="yt-timestamp" data-t="00:28:22">[00:28:22]</a>.
+
+To effectively address [[Understanding Burnout and Its Challenges | burnout]]:
+*   **Identify Specific Contributors**: Go through the six factors (workload, control, reward, community, fairness, values) and identify which ones are problematic in your situation <a class="yt-timestamp" data-t="00:52:18">[00:52:18]</a>.
+*   **Discern Responsibility**: For each factor, determine how much of the issue is due to the environment/company and how much is due to your own individual contributions (e.g., emotional drives, inability to set boundaries, unrealistic expectations) <a class="yt-timestamp" data-t="00:53:33">[00:53:33]</a>.
+*   **Implement Targeted Solutions**:
+    *   **External**: Set boundaries with your boss <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>, advocate for fairer conditions, or seek a new job with a better alignment of values and environment <a class="yt-timestamp" data-t="00:47:59">[00:47:59]</a>. When seeking a new job, be intentional about asking questions regarding work culture, community, and reward structures to find a more conducive environment <a class="yt-timestamp" data-t="00:55:14">[00:55:14]</a>.
+    *   **Internal**: Work on personal emotional drives, learn to set limits, surrender unnecessary control, or adjust personal expectations of reward <a class="yt-timestamp" data-t="00:28:03">[00:28:03]</a>. This "crafting" of one's life requires introspection and understanding what you truly want <a class="yt-timestamp" data-t="01:00:18">[01:00:18]</a>.
+
+By understanding both the individual and external pieces of the puzzle, one can develop a scientific and clinical approach to resolving [[Understanding Burnout and Its Challenges | burnout]] <a class="yt-timestamp" data-t="00:56:09">[00:56:09]</a>. While [[Understanding Burnout and Its Challenges | burnout]] can last for a long time, it is absolutely repairable and can be overcome by addressing the underlying contributing factors <a class="yt-timestamp" data-t="00:57:22">[00:57:22]</a>. It's often the quality of the work experience, rather than just the quantity of hours, that dictates the severity of [[Understanding Burnout and Its Challenges | burnout]] <a class="yt-timestamp" data-t="00:58:45">[00:58:45]</a>.
+
+[[Understanding Burnout and Its Challenges | Burnout]] can also occur in life more broadly, beyond just work, applying to general cynicism, lack of empathy, low energy, and lack of fulfillment related to community, fairness, reward, and control in life situations <a class="yt-timestamp" data-t="00:59:22">[00:59:22]</a>. This highlights the broad impact of [[Impact of modern life on mental health | modern life on mental health]] and the necessity of intentional self-assessment and crafting of one's life purpose <a class="yt-timestamp" data-t="01:00:16">[01:00:16]</a>.

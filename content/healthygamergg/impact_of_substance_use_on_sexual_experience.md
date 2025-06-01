@@ -1,0 +1,21 @@
+---
+title: Impact of substance use on sexual experience
+videoId: ycft2j9dcz8
+---
+
+From: [[healthygamergg]] <br/> 
+
+Substance use, particularly alcohol and marijuana, can significantly alter the sexual experience by influencing the body's physiological responses and the brain's pleasure centers <a class="yt-timestamp" data-t="01:25:00">[01:25:00]</a>.
+
+## How Substances Affect Sexual Physiology
+Alcohol and marijuana function as Central Nervous System (CNS) depressants, meaning they slow down the activity of neurons in the brain <a class="yt-timestamp" data-t="01:30:00">[01:30:00]</a>, <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>, <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>. Additionally, THC (found in marijuana) activates endocannabinoid receptors, including the anandamide receptor (named from the Sanskrit word for "Bliss"), which enhances pleasure and sensation <a class="yt-timestamp" data-t="01:42:00">[01:42:00]</a>, <a class="yt-timestamp" data-t="01:43:00">[01:43:00]</a>, <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>, <a class="yt-timestamp" data-t="01:47:00">[01:47:00]</a>, <a class="yt-timestamp" data-t="01:49:00">[01:49:00]</a>, <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>, <a class="yt-timestamp" data-t="01:53:00">[01:53:00]</a>.
+
+This activation of the parasympathetic nervous system (rest and digest) due to substance use generally increases the threshold required to achieve orgasm <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>, <a class="yt-timestamp" data-t="01:57:00">[01:57:00]</a>, <a class="yt-timestamp" data-t="01:59:00">[01:59:00]</a>, <a class="yt-timestamp" data-t="02:02:00">[02:02:00]</a>. This means a higher degree of stimulation is needed for orgasm <a class="yt-timestamp" data-t="02:04:00">[02:04:00]</a>, <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>.
+
+## Prolonged Pleasure vs. Inhibited Function
+While requiring more stimulation, the increased orgasm threshold under the influence of substances can lead to a longer sexual act and, consequently, a greater total amount of sexual pleasure, described as an increased "area under the curve" of pleasure over time <a class="yt-timestamp" data-t="02:15:00">[02:15:00]</a>, <a class="yt-timestamp" data-t="02:18:00">[02:18:00]</a>, <a class="yt-timestamp" data-t="02:21:00">[02:21:00]</a>, <a class="yt-timestamp" data-t="02:23:00">[02:23:00]</a>. The median time to orgasm is often longer when using alcohol or marijuana compared to without them <a class="yt-timestamp" data-t="02:25:00">[02:25:00]</a>, <a class="yt-timestamp" data-t="02:27:00">[02:27:00]</a>, <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>, <a class="yt-timestamp" data-t="02:31:00">[02:31:00]</a>.
+
+However, if the orgasm threshold is raised too significantly by substance use, it can become impossible to achieve orgasm, leading to an inability to perform a sexual act <a class="yt-timestamp" data-t="02:34:00">[02:34:00]</a>, <a class="yt-timestamp" data-t="02:36:00">[02:36:00]</a>, <a class="yt-timestamp" data-t="02:38:00">[02:38:00]</a>, <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>, <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>, <a class="yt-timestamp" data-t="02:44:00">[02:44:00]</a>, <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>.
+
+## Broader Implications
+Generally, when biological systems are exploited by hyper-activating specific mechanisms, similar to how [[impact_of_nutrition_and_psychoactive_substances_on_mental_balance | highly processed foods]] exploit the reward system, it often does not lead to beneficial long-term outcomes <a class="yt-timestamp" data-t="01:54:00">[01:54:00]</a>, <a class="yt-timestamp" data-t="01:58:00">[01:58:00]</a>, <a class="yt-timestamp" data-t="02:00:00">[02:00:00]</a>. While an experience might be enjoyable, it doesn't automatically mean it is healthy <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>, <a class="yt-timestamp" data-t="02:08:00">[02:08:00]</a>.

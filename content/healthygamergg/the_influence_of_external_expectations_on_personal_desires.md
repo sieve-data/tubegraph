@@ -1,0 +1,39 @@
+---
+title: The influence of external expectations on personal desires
+videoId: xkd36cJ6Z78
+---
+
+From: [[healthygamergg]] <br/> 
+
+It is a common struggle to want to become disciplined but not feel ready for the change <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. This often stems from genuinely enjoying one's current life, even if it involves activities like playing video games, watching YouTube, or scrolling endlessly <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. The thought of changing can feel like losing fun and goofiness <a class="yt-timestamp" data-t="00:23:00">[00:23:00]</a>.
+
+## The "Why Bother?" Paradox
+
+A fundamental question arises: "Why should we change?" <a class="yt-timestamp" data-t="00:38:00">[00:38:00]</a>. The brain performs a cost-benefit analysis of actions <a class="yt-timestamp" data-t="03:16:18">[03:16:18]</a>. When considering efforts like working hard, getting promotions, or going to graduate school, the ultimate perceived goal is often to retire early and have fun <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>. If "having fun" means engaging in activities like playing video games or watching YouTube, which one is already doing, the brain questions the necessity of going through years of "grinding" <a class="yt-timestamp" data-t="03:03:00">[03:03:00]</a>. This calculation leads to the conclusion that one can "retire" and enjoy life immediately, making disciplined effort seem illogical <a class="yt-timestamp" data-t="01:13:00">[01:13:00]</a>.
+
+## The Role of Competing Interest in Discipline
+
+To develop discipline, human beings require a "competing interest" <a class="yt-timestamp" data-t="03:33:00">[03:33:00]</a>. This means having something genuinely desired more than the comfort of the current state or the pain associated with change <a class="yt-timestamp" data-t="06:19:00">[06:19:00]</a>. For example, individuals overcoming addictions often succeed because they have a compelling reason to quit that outweighs the pleasure of substance use <a class="yt-timestamp" data-t="06:10:13">[06:10:13]</a>. Without such a reason, individuals are not ready to pay the price required for discipline, whether it's for career advancement, education, or physical health <a class="yt-timestamp" data-t="05:54:00">[05:54:00]</a>.
+
+## External Versus Internal Desires
+
+A significant trap is that many perceived "wants" and desires for discipline originate externally rather than internally <a class="yt-timestamp" data-t="06:37:00">[06:37:00]</a>.
+*   **Societal Expectations**: Society, including advertising, personalized algorithms, and media, constantly tells individuals what they "should" want <a class="yt-timestamp" data-t="06:56:58">[06:56:58]</a>, <a class="yt-timestamp" data-t="17:00:00">[17:00:00]</a>. This creates a sense of obligation to pursue goals like promotions or higher education, driven by external validation rather than personal desire <a class="yt-timestamp" data-t="06:56:58">[06:56:58]</a>. The [[societal_pressures_and_its_impact_on_selfworth | impact of social expectations and obligations]] often overshadows genuine internal motivation.
+*   **Parental Expectations**: Parents may try to instill discipline by forcing children to study or work <a class="yt-timestamp" data-t="08:09:00">[08:09:00]</a>. However, this is external control, not true discipline, which is an internal force <a class="yt-timestamp" data-t="08:27:00">[08:27:00]</a>. Individuals who have been pressured into success may lack [[impact_of_parental_expectations_on_selfworth | internal discipline]] and struggle with self-starting <a class="yt-timestamp" data-t="08:34:00">[08:34:00]</a>.
+*   **Media and Technology**: The modern world, with its endless entertainment options and targeted advertising, constantly brainwashes individuals into wanting specific products or experiences <a class="yt-timestamp" data-t="15:46:00">[15:46:00]</a>. This [[impact_of_technology_and_external_stimuli | external focus]] makes it increasingly difficult for people to identify what they genuinely care about <a class="yt-timestamp" data-t="07:55:00">[07:55:00]</a>.
+
+True discipline is an internal force that allows one to overcome barriers <a class="yt-timestamp" data-t="08:27:00">[08:27:00]</a>. Developing discipline for someone else's expectations is unlikely to work <a class="yt-timestamp" data-t="08:03:00">[08:03:00]</a>.
+
+## Cultivating Genuine Desires and Overcoming Pitfalls
+
+To foster genuine discipline, one must first identify what they *truly* want <a class="yt-timestamp" data-t="09:11:00">[09:11:00]</a>.
+1.  **Self-Reflection**:
+    *   Start by asking: "What do I want?" <a class="yt-timestamp" data-t="09:13:00">[09:13:00]</a> If the answer is "I don't know," it suggests that external influences have clouded personal desires <a class="yt-timestamp" data-t="09:19:00">[09:19:00]</a>.
+    *   Next, ask: "Do I want to change?" <a class="yt-timestamp" data-t="09:33:00">[09:33:00]</a> If the honest answer is "No," then consider: "Do I *wish* I wanted to change?" <a class="yt-timestamp" data-t="09:51:00">[09:51:00]</a> This "wish to want to change" is a crucial internal desire not imposed by the outside world <a class="yt-timestamp" data-t="10:09:00">[10:09:00]</a>.
+2.  **Identifying Internal Wants**: Create a list of all perceived "shoulds" (e.g., exercise, save money, go to grad school) <a class="yt-timestamp" data-t="10:34:00">[10:34:00]</a>. Go through the list and determine if each item is a genuine personal desire or something transplanted from external sources like advertising, parental expectations, or [[the_impact_of_social_expectations_and_obligations | societal expectations]] <a class="yt-timestamp" data-t="10:50:00">[10:50:50]</a>. The goal is to find one single thing that is truly wanted <a class="yt-timestamp" data-t="11:10:00">[11:10:00]</a>.
+3.  **Small Steps and Pitfalls**:
+    *   Once a genuine desire is identified, take the smallest possible step towards it <a class="yt-timestamp" data-t="11:21:00">[11:21:00]</a>. For example, if the desire is physical health, start with a short walk or one push-up <a class="yt-timestamp" data-t="11:36:00">[11:36:00]</a>. This fosters a sense of accomplishment in moving towards a truly desired outcome <a class="yt-timestamp" data-t="11:50:00">[11:50:00]</a>. This also aligns with [[focusing_on_personal_well_being_rather_than_external_validation | focusing on personal well-being rather than external validation]].
+    *   **The "Not Enough" Pitfall**: The mind may try to derail progress by stating that small efforts are "not enough" or "don't make a difference" <a class="yt-timestamp" data-t="12:01:00">[12:01:00]</a>. This is a trick to convince the individual that they need to pursue *all* the external "shoulds" at 100%, knowing that this will lead to choosing "nothing" instead <a class="yt-timestamp" data-t="12:47:00">[12:47:00]</a>. This tactic ultimately aims to keep the individual stuck in their current, comfortable, dopamine-rich activities <a class="yt-timestamp" data-t="12:50:00">[12:50:00]</a>.
+    *   **The "All or Nothing" Pitfall**: As momentum builds, the mind may remind the individual of all the other "shoulds" they *could* be doing, creating an "all or nothing" mentality <a class="yt-timestamp" data-t="14:17:00">[14:17:00]</a>. This is a strategy to ensure inaction, as the mind knows that attempting everything will lead to choosing nothing, thereby preserving the current enjoyable state <a class="yt-timestamp" data-t="14:30:00">[14:30:00]</a>.
+
+By understanding the influence of external expectations and focusing on cultivating genuine, internal desires, individuals can find the true motivation for discipline and initiate change, even in the smallest ways, without falling into these common mental traps <a class="yt-timestamp" data-t="18:05:00">[18:05:00]</a>.

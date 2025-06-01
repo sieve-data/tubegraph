@@ -1,0 +1,41 @@
+---
+title: Healthy vs unhealthy relationship dynamics
+videoId: tvpDLpCf1jU
+---
+
+From: [[healthygamergg]] <br/> 
+
+A common relationship pattern involves a person who quickly forms an intense connection, becomes overly clingy or invested, and inadvertently drives the other person away <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. This can lead to questions about one's ability to engage in [[healthy_communication_in_relationships | healthy relationships]] <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+
+## Roots of Unhealthy Patterns
+
+Often, these patterns stem from traumatic childhood experiences <a class="yt-timestamp" data-t="00:02:57">[00:02:57]</a>. For example, a person might have been bullied by family, told they were an "embarrassment," had the "wrong personality," or that no one would mourn their death <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. This type of [[parentchild_dynamics_affecting_dysthymia | emotional abuse]] can lead to feeling responsible for others' feelings and their liking of you <a class="yt-timestamp" data-t="00:04:09">[00:04:09]</a>. It can also create a sense of being a "loser" in relationships and foster a tendency to become a loner <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. This history contributes to feelings of self-blame when relationships don't go as desired <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+
+### The Cycle of Clinginess and Withdrawal
+
+The progression of an unhealthy dynamic often follows a pattern:
+1.  **Initial Connection**: A new relationship begins with a strong, natural "click," where [[emotional_needs_and_relationship_dynamics | emotional needs]] are initially low and easily met <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>.
+2.  **External Pressure**: One person's life circumstances change (e.g., getting busy), causing them to become less available <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>.
+3.  **Activation of Anxiety**: This decreased availability triggers deep-seated anxiety and fear of abandonment in the other person, often rooted in past experiences of being ghosted or feeling unworthy <a class="yt-timestamp" data-t="00:06:38">[00:06:38]</a>. The person may "baselessly" suspect the other is trying to break contact, though these suspicions are often based on past trauma <a class="yt-timestamp" data-t="00:08:55">[00:09:01]</a>. This is a key aspect of [[managing_anxiety_and_emotional_needs_in_relationships | managing anxiety and emotional needs]].
+4.  **Clingy Response**: To alleviate this anxiety and "remind" the other person they still exist, the anxious individual may respond by texting excessively, sending longer messages, or otherwise seeking reassurance <a class="yt-timestamp" data-t="00:09:21">[00:09:24]</a>.
+5.  **Unaware Emotional Needs**: This behavior adds a new layer of uncommunicated [[emotional_needs_and_relationship_dynamics | emotional needs]] to the relationship. The anxious person is seeking validation and reassurance (e.g., "tell me I still exist") that the other person is unaware of <a class="yt-timestamp" data-t="00:09:35">[00:09:48]</a>.
+6.  **Withdrawal and Blockage**: As the anxious person's texts become longer and more "desperate," and the recipient's become shorter, the recipient becomes confused and eventually pulls away, potentially blocking contact altogether <a class="yt-timestamp" data-t="00:10:48">[00:10:52]</a>.
+7.  **Reinforcement of Trauma**: This outcome reinforces the anxious person's deepest fears and childhood traumas (e.g., "people don't want to be my friend," "I cease to exist in anyone's mind") <a class="yt-timestamp" data-t="00:11:59">[00:12:05]</a>. While friends may offer reassurance, it's crucial to acknowledge one's own contribution to the pattern for change to occur <a class="yt-timestamp" data-t="00:05:00">[00:05:11]</a>.
+
+## The "Stuck in Your Own Head" Metaphor
+
+An unhealthy dynamic often involves being "stuck in your own head," where your internal thoughts and fears dictate your behavior in the relationship <a class="yt-timestamp" data-t="00:13:13">[00:13:15]</a>. This is like "playing your own tune" while the other person is trying to dance to a different song <a class="yt-timestamp" data-t="00:13:22">[00:13:48]</a>. If you don't communicate your internal experience, the other person cannot understand your behavior and may withdraw <a class="yt-timestamp" data-t="00:14:04">[00:14:12]</a>.
+
+## Taking Responsibility and Fostering Healthy Dynamics
+
+While it's important not to solely blame oneself, acknowledging one's 50% contribution to a relationship dynamic is crucial for change <a class="yt-timestamp" data-t="00:05:15">[00:05:18]</a>. This responsibility grants the power to change things <a class="yt-timestamp" data-t="00:05:24">[00:05:27]</a>. This is a core part of [[understanding_and_changing_relationship_patterns | understanding and changing relationship patterns]].
+
+### Strategies for Change
+
+*   **Self-Awareness of Emotional Triggers**: Understand *when* internal "music" (anxiety, old patterns) starts playing. Identify the specific emotions (e.g., fear, abandonment) and their influence on behavior <a class="yt-timestamp" data-t="00:14:21">[00:14:22]</a>.
+*   **Process Underlying Emotions**: Work on processing the fears and unmet needs that drive clingy behaviors. Reducing the "fuel" in this emotional fire will naturally diminish the associated behaviors <a class="yt-timestamp" data-t="00:17:15">[00:17:20]</a>. Simply trying to suppress behaviors (like not texting) without addressing the underlying emotional tension is often unsustainable <a class="yt-timestamp" data-t="00:17:31">[00:17:48]</a>.
+*   **Understand and Communicate Emotional Needs**: Become aware of your [[emotional_needs_and_relationship_dynamics | emotional needs]] and how they evolve. The goal is for your needs to be understood by the other person, ideally with them willing to meet you halfway <a class="yt-timestamp" data-t="00:18:13">[00:18:33]</a>.
+*   **Learn to "Let Go"**: When someone distances themselves or leaves, it's often due to "a thousand reasons that have nothing to do with you" <a class="yt-timestamp" data-t="00:19:05">[00:19:11]</a>. Life involves people entering and leaving lives due to circumstances <a class="yt-timestamp" data-t="00:19:18">[00:19:42]</a>. A healthy relationship is one where someone *wants* to be with you and feels comfortable <a class="yt-timestamp" data-t="00:20:28">[00:20:33]</a>. This relates to building [[trust_and_relationship_dynamics | trust and healthy relationship dynamics]] and [[navigating_longterm_relationships | navigating long-term relationships]].
+*   **Shorter, Intentional Communication**: Avoid overwhelming others with long texts driven by anxiety <a class="yt-timestamp" data-t="00:21:11">[00:21:20]</a>. If you have advanced far ahead in your head with expectations for a relationship, the other person will be blindsided <a class="yt-timestamp" data-t="00:21:48">[00:22:00]</a>.
+*   **Address the "Luggage"**: The inability to make friends can lead to becoming overly attached to potential friends, dumping emotional "luggage" (past traumas, unmet needs) onto them <a class="yt-timestamp" data-t="00:22:16">[00:22:51]</a>. This overwhelms them, causing them to leave and adding more "luggage" to your burden <a class="yt-timestamp" data-t="00:22:53">[00:23:08]</a>. The solution is to "offload the luggage" by working through these issues <a class="yt-timestamp" data-t="00:23:16">[00:23:21]</a>.
+*   **Seek Support**: Therapists and coaches can help process these issues. Group coaching, in particular, can be beneficial as it provides an opportunity to practice [[healthy_communication_in_relationships | healthy communication]] and [[the_importance_of_boundaries_and_healthy_relationships_in_streaming_communities | healthy boundaries]] in a structured environment <a class="yt-timestamp" data-t="00:23:38">[00:24:02]</a>. It teaches skills like vocalizing feelings, understanding oneself and others, and stepping aside from biases <a class="yt-timestamp" data-t="00:24:15">[00:24:56]</a>.

@@ -1,0 +1,71 @@
+---
+title: Perfectionism burnout and selfesteem issues in gifted children
+videoId: QUjYy4Ksy1E
+---
+
+From: [[healthygamergg]] <br/> 
+
+Perceived as a positive trait, being a [[the_challenges_faced_by_gifted_children | gifted child]] can paradoxically lead to [[perfectionism_and_its_roots_in_childhood | perfectionist]] tendencies, [[understanding_burnout_and_its_challenges | burnout]], depression, anxiety, unfulfilled expectations, and a lack of real interests or goals in adulthood <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Society often unintentionally sets these children up for failure <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>. While "gifted" is generally seen as an advantage <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>, experience shows it can often be a burden <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a>.
+
+## Gifted Children as "Special Needs" Children
+A supervisor in psychiatry training described [[the_challenges_faced_by_gifted_children | gifted children]] as "special needs children" because their developmental needs differ from the average child <a class="yt-timestamp" data-t="00:02:04">[00:02:04]</a>. Parents who recognize and accommodate these unique needs, providing a different structure, curriculum, or upbringing, tend to raise more successful [[strategies_for_supporting_gifted_children | gifted children]] <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. Conversely, children whose gifts are not appropriately treated often struggle <a class="yt-timestamp" data-t="00:02:36">[00:02:36]</a>.
+
+## The Pathway from Gifted Child to Burnt-Out Perfectionist
+
+### Lack of Study Habits
+School is typically easy for [[the_challenges_faced_by_gifted_children | gifted children]] <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. While school teaches subject material, it also provides crucial opportunities for socialization and developing habits like studying <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. The ease of early schooling often means [[the_challenges_faced_by_gifted_children | gifted children]] get by without needing to study <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. This perceived advantage actually sets them up for failure later because they never learn the habituated study techniques required for advanced academic stages like college or professional schools <a class="yt-timestamp" data-t="00:04:22">[00:04:22]</a>.
+
+The standard education system gradually increases responsibility for students, progressively building study habits from elementary to graduate school <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>. However, [[the_challenges_faced_by_gifted_children | gifted children]] "never actually has to like grind that xp for levels like one through five of studying habits" <a class="yt-timestamp" data-t="00:05:47">[00:05:47]</a>. They achieve good grades with minimal to no studying until they hit a "wall" where their raw intellect is no longer sufficient <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>. This sudden struggle, without developed study habits, leads to [[perfectionism_and_its_roots_in_childhood | perfectionism]] and [[understanding_burnout_and_its_challenges | burnout]] <a class="yt-timestamp" data-t="00:06:50">[00:06:50]</a>. It's not their fault as young children, as they are not mature enough to foresee future academic needs <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>.
+
+### The Burden of Expectation
+A significant factor leading [[the_challenges_faced_by_gifted_children | gifted kids]] down the wrong path is the burden of expectation <a class="yt-timestamp" data-t="00:07:40">[00:07:40]</a>. From a young age, they are told they are "gifted," "smart," "special," and possess "so much potential," which constructs very lofty goals in their minds <a class="yt-timestamp" data-t="00:07:44">[00:07:44]</a>.
+
+Society often wrongly assumes that things should be easier for [[the_challenges_faced_by_gifted_children | gifted individuals]] and that they need to work less <a class="yt-timestamp" data-t="00:08:28">[00:08:28]</a>. However, living up to a [[the_challenges_faced_by_gifted_children | gifted child's]] potential actually involves *more* work, not less <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>. This is analogous to building a mansion versus a shack: a mansion has greater potential but requires significantly more effort <a class="yt-timestamp" data-t="00:08:44">[00:08:44]</a>. The gap between what people expect and the reality that achieving high potential is harder, not easier, contributes to [[the_educational_and_societal_expectations_on_gifted_kids | gifted kids]] feeling like failures <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
+
+[[the_educational_and_societal_expectations_on_gifted_kids | Gifted children]] may put in the same amount of work as their peers but expect grander results (a mansion) while only having put in shack-building effort <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>. This leads to confusion and feelings of inferiority when they compare their progress to others, especially when they've been told they are smarter <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>. Since they are conditioned to believe they are gifted, being "average" is not enough, compelling them to strive for a "mansion" <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>. This paradox makes it appear that being [[the_challenges_faced_by_gifted_children | gifted]] is harder <a class="yt-timestamp" data-t="00:11:45">[00:11:45]</a>.
+
+### The "Shame Gap" and Low Self-Esteem
+Internally, this progression leads to [[struggles_with_selfworth_and_selfesteem | shame]] and [[struggles_with_selfworth_and_selfesteem | low self-esteem]] in [[the_challenges_faced_by_gifted_children | gifted kids]] <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>. Their initial high expectations, often met in early schooling, eventually clash with their lack of developed study skills and the increased difficulty of higher education <a class="yt-timestamp" data-t="00:12:03">[00:12:03]</a>.
+
+The "shame gap" is the space between what [[impact_of_parental_expectations_on_selfworth | gifted kids]] are capable of (their perceived potential) and what they actually accomplish <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>. The wider this gap, the more it is filled with [[struggles_with_selfworth_and_selfesteem | shame]] <a class="yt-timestamp" data-t="00:12:48">[00:12:48]</a>. This [[struggles_with_selfworth_and_selfesteem | shame]] further compounds, making it difficult to find [[the_impact_of_lack_of_challenge_and_motivation_on_gifted_kids | motivation]] and leading to [[understanding_burnout_and_its_challenges | burnout]] <a class="yt-timestamp" data-t="00:12:58">[00:12:58]</a>.
+
+The ego of being a "super smart kid" also prevents them from pursuing paths perceived as "lesser," such as a community college, fearing it would contradict their core identity <a class="yt-timestamp" data-t="00:13:20">[00:13:20]</a>. This creates a cycle of avoidance and further [[struggles_with_selfworth_and_selfesteem | shame]] <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>.
+
+## Strategies for Supporting Gifted Children
+
+The widespread occurrence of [[understanding_burnout_and_its_challenges | burnt-out]] [[the_challenges_faced_by_gifted_children | gifted kids]] suggests a societal problem rather than merely individual failings <a class="yt-timestamp" data-t="00:14:37">[00:14:37]</a>. Addressing this requires specific [[strategies_for_supporting_gifted_children | strategies]]:
+
+### Stop Comparison
+The word "gifted" inherently implies comparison to others <a class="yt-timestamp" data-t="00:15:16">[00:15:16]</a>. [[the_challenges_faced_by_gifted_children | Gifted children]] constantly compare themselves, leading to expectations that are often not self-derived but are based on what parents, teachers, and society project onto them <a class="yt-timestamp" data-t="00:15:38">[00:15:38]</a>. Basing life expectations on what others are doing is a recipe for failure <a class="yt-timestamp" data-t="00:16:55">[00:16:55]</a>. The first step for a [[the_challenges_faced_by_gifted_children | gifted kid]] is to let go of all comparison <a class="yt-timestamp" data-t="00:17:18">[00:17:18]</a>.
+
+### Recognize the Long Road and Be Patient
+If a [[the_challenges_faced_by_gifted_children | gifted child]] expects a lot from themselves, they must recognize it will be a long road <a class="yt-timestamp" data-t="00:17:41">[00:17:41]</a>. Greater potential often means a longer journey to achieve it <a class="yt-timestamp" data-t="00:17:49">[00:17:49]</a>. This implies that progress may not be immediately visible, much like a mansion's foundation appears minimal compared to a complete shack <a class="yt-timestamp" data-t="00:19:50">[00:19:50]</a>. [[the_challenges_faced_by_gifted_children | Gifted kids]] often see less return on investment for equal effort compared to their peers, which shatters [[the_impact_of_lack_of_challenge_and_motivation_on_gifted_kids | motivation]] <a class="yt-timestamp" data-t="00:20:08">[00:20:08]</a>. Therefore, patience and avoiding comparison are vital <a class="yt-timestamp" data-t="00:20:24">[00:20:24]</a>.
+
+### Address Shame by Lowering Expectations and Practicing Acceptance
+[[struggles_with_selfworth_and_selfesteem | Shame]] and [[struggles_with_selfworth_and_selfesteem | low self-esteem]] in [[the_challenges_faced_by_gifted_children | gifted kids]] stem from the gap between high expectations and actual performance <a class="yt-timestamp" data-t="00:20:32">[00:20:32]</a>. To eliminate this shame, one can either:
+1.  Live up to expectations and achieve lofty goals (e.g., attending an Ivy League school or starting a successful tech company) <a class="yt-timestamp" data-t="00:20:57">[00:20:57]</a>.
+2.  Let go of unrealistic expectations and practice acceptance, bringing expectations down to reality <a class="yt-timestamp" data-t="00:21:20">[00:21:20]</a>. Accepting oneself as capable of what has actually been achieved, rather than focusing on "wasted potential," removes the shame gap and can paradoxically unleash true [[the_impact_of_lack_of_challenge_and_motivation_on_gifted_kids | motivation]] <a class="yt-timestamp" data-t="00:21:33">[00:21:33]</a>.
+
+Practicing acceptance involves intentionally placing oneself in situations free from expectations. For example, ordering food at a restaurant without specifying a dish and accepting whatever is served can help understand the relationship between expectation and enjoyment <a class="yt-timestamp" data-t="00:26:07">[00:26:07]</a>. When expectations are low or absent, any positive outcome becomes a "huge win" <a class="yt-timestamp" data-t="00:29:27">[00:29:27]</a>.
+
+### Challenge Gifted Kids (Parents/Teachers)
+For parents, teachers, or managers, supporting the special needs of [[the_challenges_faced_by_gifted_children | gifted individuals]] means providing appropriate challenge <a class="yt-timestamp" data-t="00:30:23">[00:30:23]</a>.
+
+[[the_impact_of_lack_of_challenge_and_motivation_on_gifted_kids | Gifted kids]] often gravitate towards video games because games perfectly match the pace of the child, unlike school, which moves at the pace of the slowest student <a class="yt-timestamp" data-t="00:30:44">[00:30:44]</a>. Video games continuously challenge players, escalating difficulty (e.g., level 1 to level 2) based on mastery, fostering "intent to mastery" <a class="yt-timestamp" data-t="00:32:04">[00:32:04]</a>.
+
+Therefore, if a [[the_challenges_faced_by_gifted_children | gifted child]] is struggling (e.g., addicted to video games, finding school boring), the solution is to **challenge them more, not less** <a class="yt-timestamp" data-t="00:32:51">[00:32:51]</a>. This is a terrifying but necessary paradoxical approach <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>. This means:
+*   Providing advanced curricula or internships <a class="yt-timestamp" data-t="00:33:14">[00:33:14]</a>.
+*   Asking them to do more <a class="yt-timestamp" data-t="00:35:09">[00:35:09]</a>.
+*   Putting them in positions of leadership <a class="yt-timestamp" data-t="00:35:10">[00:35:10]</a>.
+*   Having faith in their capabilities ("I have faith in you, I think you can handle it. Give it your best shot.") <a class="yt-timestamp" data-t="00:35:36">[00:35:36]</a>.
+
+### Personal Journey and Lessons
+The speaker, a [[the_challenges_faced_by_gifted_children | gifted child]] who took the "scenic route" in life <a class="yt-timestamp" data-t="00:19:18">[00:19:18]</a>, recounts his own struggles:
+*   His grades dipped in middle school, and he didn't qualify for advanced classes in high school due to lack of work ethic, despite his parents' belief in his intelligence <a class="yt-timestamp" data-t="00:18:03">[00:18:03]</a>.
+*   He took five years to graduate college with a 2.5 GPA <a class="yt-timestamp" data-t="00:19:02">[00:19:02]</a>.
+*   It took another three or four years to get into medical school <a class="yt-timestamp" data-t="00:19:07">[00:19:07]</a>.
+*   He applied to 120 medical schools before being accepted into one <a class="yt-timestamp" data-t="00:24:17">[00:24:17]</a>.
+*   His eventual success (psychiatry training at Harvard) involved "a reality check" and "some degree of humility," letting go of ego, and taking "one step at a time" <a class="yt-timestamp" data-t="00:23:53">[00:23:53]</a>. He accepted that he didn't belong at elite institutions initially <a class="yt-timestamp" data-t="00:24:01">[00:24:01]</a>.
+*   Having experienced failure, he worked hard in medical school <a class="yt-timestamp" data-t="00:24:26">[00:24:26]</a> and excelled in competitive rotations, owning his failures, and not being ashamed despite being older than some evaluators <a class="yt-timestamp" data-t="00:24:57">[00:24:57]</a>.
+
+This journey highlights the importance of letting go of ego and embracing a long, challenging path to realize potential <a class="yt-timestamp" data-t="00:35:33">[00:35:33]</a>.

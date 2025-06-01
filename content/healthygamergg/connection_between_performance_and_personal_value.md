@@ -1,0 +1,47 @@
+---
+title: Connection between performance and personal value
+videoId: pCmm-sJjZkU
+---
+
+From: [[healthygamergg]] <br/> 
+
+Felix discusses his personal experiences as a streamer and competitor, revealing a deep-seated [[sense_of_selfvalue_and_intrinsic_worth | connection between his performance and his sense of self-worth]] <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>, <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>. He describes how external factors, such as audience perception and competitive outcomes, significantly influence his [[sense_of_selfvalue_and_intrinsic_worth | intrinsic value]] <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>.
+
+## The Drive for Self-Validation Through Performance
+
+Felix reveals a pattern of [[impact_of_ego_and_selfperception_on_motivation and_actions | self-sabotage]] stemming from a need to prove his worth <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. He recounts intentionally losing rank in games or shedding viewers during streams when he felt his performance was subpar <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>, <a class="yt-timestamp" data-t="00:20:55">[00:20:55]</a>. This behavior was driven by a desire to recreate the challenge of regaining lost status, thereby making him feel he truly "deserved" his success <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>, <a class="yt-timestamp" data-t="00:21:03">[00:21:03]</a>. This constant need to prove his worth is described as "tiring" <a class="yt-timestamp" data-t="00:06:28">[00:06:28]</a>.
+
+### Imposter Syndrome and the "Broken Chain"
+
+Felix frequently experiences [[impact_of_ego_and_selfperception_on_motivation_and_actions | imposter syndrome]] <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>, feeling he doesn't "deserve his own stage" unless his performance is optimal <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>. He struggles with the idea that viewers would stay and appreciate him even when he's playing badly <a class="yt-timestamp" data-t="00:22:16">[00:22:16]</a>, <a class="yt-timestamp" data-t="00:24:28">[00:24:28]</a>. This creates a sense of discomfort because it contradicts his internal belief that his value is solely tied to his gameplay <a class="yt-timestamp" data-t="00:27:09">[00:27:09]</a>. The phenomenon is likened to performing terribly on stage but the audience not leaving, prompting him to actively push them away to make their departure "make sense" <a class="yt-timestamp" data-t="00:27:36">[00:27:36]</a>.
+
+This struggle is further illustrated by the analogy of having a "bike with a broken chain" despite performing like a "thousand dollar bike" <a class="yt-timestamp" data-t="01:15:20">[01:15:20]</a>, <a class="yt-timestamp" data-t="01:15:40">[01:15:40]</a>. He excels despite perceived internal flaws, yet internalizes the belief that he is less valuable than he truly is <a class="yt-timestamp" data-t="01:17:09">[01:17:09]</a>, <a class="yt-timestamp" data-t="01:23:04">[01:23:04]</a>.
+
+## Origins of Conditional Self-Value
+
+The origins of Felix's [[sense_of_selfvalue_and_intrinsic_worth | conditional sense of self-value]] are traced back to his childhood experiences with his father <a class="yt-timestamp" data-t="01:15:08">[01:15:08]</a>, <a class="yt-timestamp" data-t="01:23:11">[01:23:11]</a>.
+
+### Parental Influence
+Felix's father, highly competitive and intense, pushed him to compete in sports like skiing and biking, even when Felix didn't enjoy them <a class="yt-timestamp" data-t="00:46:07">[00:46:07]</a>, <a class="yt-timestamp" data-t="00:49:50">[00:49:50]</a>. His father's pride seemed contingent on Felix's wins <a class="yt-timestamp" data-t="00:47:15">[00:47:15]</a>. This created a system where Felix performed not just for himself, but also "for him [his father]" <a class="yt-timestamp" data-t="00:48:24">[00:48:24]</a>.
+
+A pivotal moment occurred when Felix excitedly told his father about achieving 212 Twitch subscribers, expressing his pride in this milestone <a class="yt-timestamp" data-t="01:11:39">[01:11:39]</a>, <a class="yt-timestamp" data-t="01:12:29">[01:12:29]</a>. His father's response, "when does that make you go back to school?" was "crushing" <a class="yt-timestamp" data-t="01:12:44">[01:12:44]</a>, <a class="yt-timestamp" data-t="01:12:48">[01:12:48]</a>. This interaction implied that his father's expectations of success were confined to specific traditional paths like schooling, devaluing Felix's achievements in other areas <a class="yt-timestamp" data-t="00:58:48">[00:58:48]</a>, <a class="yt-timestamp" data-t="01:14:35">[01:14:35]</a>. This incident cemented the idea that his [[sense_of_selfvalue_and_intrinsic_worth | intrinsic value]] was somehow diminished or unrecognized if it didn't align with his father's "model" <a class="yt-timestamp" data-t="00:58:51">[00:58:51]</a>, <a class="yt-timestamp" data-t="01:14:17">[01:14:17]</a>.
+
+In contrast, Felix's mother's love was described as "unconditional" and less intense, providing a different perspective on [[role_of_validation_in_personal_growth | validation]] <a class="yt-timestamp" data-t="01:01:17">[01:01:17]</a>, <a class="yt-timestamp" data-t="01:03:11">[01:03:11]</a>, <a class="yt-timestamp" data-t="01:03:17">[01:03:17]</a>.
+
+## Coping Mechanisms and Their Cost
+
+In response to this perceived lack of unconditional pride from his father, Felix built "systems" to gain [[role_of_validation_in_personal_growth | validation]] from other sources <a class="yt-timestamp" data-t="01:13:18">[01:13:18]</a>, <a class="yt-timestamp" data-t="01:15:56">[01:15:56]</a>. He acknowledged that these systems could be "unhealthy" <a class="yt-timestamp" data-t="01:30:07">[01:30:07]</a>, leading to "bad mental loops" and a mindset where he might "settle for less" or "be okay with trash" <a class="yt-timestamp" data-t="01:17:09">[01:17:09]</a>, <a class="yt-timestamp" data-t="01:55:06">[01:55:06]</a>.
+
+This pattern leads to a focus on external validation rather than an innate [[sense_of_selfvalue_and_intrinsic_worth | sense of self-worth]] <a class="yt-timestamp" data-t="01:14:52">[01:14:52]</a>. While Felix expresses a desire to [[focusing_on_personal_well_being_rather_than_external_validation | focus on personal growth and genuine interest in his craft]] <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>, <a class="yt-timestamp" data-t="01:06:11">[01:06:11]</a>, <a class="yt-timestamp" data-t="01:10:01">[01:10:01]</a>, <a class="yt-timestamp" data-t="01:54:02">[01:54:02]</a>, this underlying need for [[role_of_validation_in_personal_growth | validation]] often pulls him back <a class="yt-timestamp" data-t="01:15:12">[01:15:12]</a>.
+
+## Towards Unconditional Value
+
+The conversation concludes with an emphasis on recognizing that one's value does not solely depend on performance or external validation <a class="yt-timestamp" data-t="01:14:55">[01:14:55]</a>, <a class="yt-timestamp" data-t="01:23:04">[01:23:04]</a>. To overcome [[impact_of_ego_and_selfperception_on_motivation_and_actions | self-sabotage]] and [[impact_of_ego_and_selfperception_on_motivation_and_actions | imposter syndrome]], Felix is encouraged to:
+
+*   Re-evaluate his relationship with his father, exploring why his father's pride felt conditional and how those expectations influenced his self-perception <a class="yt-timestamp" data-t="01:23:57">[01:23:57]</a>, <a class="yt-timestamp" data-t="01:24:06">[01:24:06]</a>.
+*   Understand that his father's expectations might stem from his own [[impact_of_ego_and_selfperception_on_motivation_and_actions | ego]] and need for his son to embody *his* definition of success <a class="yt-timestamp" data-t="01:24:06">[01:24:06]</a>, <a class="yt-timestamp" data-t="01:25:59">[01:25:59]</a>.
+*   Recognize and accept his own intrinsic value, independent of performance <a class="yt-timestamp" data-t="01:23:04">[01:23:04]</a>. True success is seen as devotion to one's craft, not external validation <a class="yt-timestamp" data-t="00:56:02">[00:56:02]</a>, <a class="yt-timestamp" data-t="00:57:31">[00:57:31]</a>.
+*   Develop a better understanding of his own emotions, as unacknowledged hurt can manifest as anger or the need to "dismantle" others <a class="yt-timestamp" data-t="01:35:17">[01:35:17]</a>, <a class="yt-timestamp" data-t="01:37:04">[01:37:04]</a>, <a class="yt-timestamp" data-t="01:39:28">[01:39:28]</a>. This emotional awareness is crucial for [[balancing_personal_authenticity_with_public_perception | personal growth]] and healthy relationships <a class="yt-timestamp" data-t="01:40:02">[01:40:02]</a>.
+*   Practice meditation focused on exhausting the mind through rapid shifts of attention, rather than trying to force stillness, to achieve a state of inner peace and detachment <a class="yt-timestamp" data-t="01:47:59">[01:47:59]</a>, <a class="yt-timestamp" data-t="02:01:00">[02:01:00]</a>, <a class="yt-timestamp" data-t="02:02:05">[02:02:05]</a>. This contrasts with traditional views of stillness in meditation.
+
+By addressing these core issues, Felix can shift from a life driven by external validation to one where his [[sense_of_selfvalue_and_intrinsic_worth | personal value]] is rooted in his own self-acceptance and [[purpose_of_life_and_personal_fulfillment | genuine fulfillment]] <a class="yt-timestamp" data-t="01:26:21">[01:26:21]</a>, <a class="yt-timestamp" data-t="01:54:54">[01:54:54]</a>.

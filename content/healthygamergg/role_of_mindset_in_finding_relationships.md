@@ -1,0 +1,38 @@
+---
+title: Role of mindset in finding relationships
+videoId: MPnWbj70TTY
+---
+
+From: [[healthygamergg]] <br/> 
+
+The ability to form relationships is significantly influenced by an individual's internal mindset and beliefs, rather than solely external factors <a class="yt-timestamp" data-t="00:50:10">[00:50:10]</a>. A person's ingrained patterns of thought and their perception of their own capability play a crucial role in their success in dating and forging connections <a class="yt-timestamp" data-t="00:51:11">[00:51:11]</a>.
+
+## Core Problem: Hopelessness
+
+A primary barrier to finding relationships can be a deep-seated sense of hopelessness <a class="yt-timestamp" data-t="00:51:31">[00:51:31]</a>. This belief often stems from past experiences and perceived failures <a class="yt-timestamp" data-t="00:21:22">[00:21:22]</a>. For individuals like Paul, who despite being intelligent and logical <a class="yt-timestamp" data-t="00:10:18">[00:10:18]</a>, have struggled to find a romantic partner by age 35 <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>, this hopelessness can feel entirely [[the_concept_of_core_beliefs_in_relationships | evidence-based]] <a class="yt-timestamp" data-t="00:51:40">[00:51:40]</a>. This contrasts sharply with success in other areas, such as professional life, where a belief in one's ability to succeed often remains strong despite adversity <a class="yt-timestamp" data-t="01:11:15">[01:11:15]</a>.
+
+### Origins of Hopelessness
+*   **Early Life Experiences:** Moving frequently during primary school years can lead to developing a sense of detachment regarding friendships, as new connections are repeatedly formed and then lost <a class="yt-timestamp" data-t="00:13:47">[00:13:47]</a>. An early preference for working alone rather than in groups can further reinforce a solitary inclination <a class="yt-timestamp" data-t="00:14:22">[00:14:22]</a>.
+*   **Past Therapeutic Failures:** Previous negative experiences with therapists, such as being told one "can't be helped," can significantly contribute to the belief that one is hopeless <a class="yt-timestamp" data-t="00:21:19">[00:21:19]</a>. While the immediate emotional impact might be minimal at the time, these experiences serve as additional "evidence" supporting a deep-seated conviction of unhelpability <a class="yt-timestamp" data-t="00:30:06">[00:30:06]</a>, <a class="yt-timestamp" data-t="00:52:43">[00:52:43]</a>.
+*   **Failed External Attempts:** Trying various external solutions to find a partner, such as frequenting bars or clubs, or attempting speed dating, without success, reinforces the belief that nothing works <a class="yt-timestamp" data-t="00:30:28">[00:30:28]</a>. This is particularly true when these efforts are undertaken in uncomfortable environments <a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>. These [[challenges_in_dating_and_relationships | challenges in dating and relationships]] often lead to a conclusion that dating is "not for me" <a class="yt-timestamp" data-t="00:57:23">[00:57:23]</a>.
+
+## How Hopelessness Manifests
+
+This core belief in hopelessness is a [[mindset_and_mental_barriers | protective mechanism]] <a class="yt-timestamp" data-t="00:58:55">[00:58:55]</a>. Giving up on the possibility of a relationship offers comfort and releases one from the "roller coaster of hope and rejection and hurt and failure" <a class="yt-timestamp" data-t="01:02:42">[01:02:42]</a>, allowing one to live with loneliness rather than repeated pain <a class="yt-timestamp" data-t="00:59:48">[00:59:48]</a>.
+
+This [[understanding_the_perceived_barriers_to_relationships | mindset]] can lead to:
+*   **Cognitive Bias:** The mind may use interpretations to change data rather than allowing data to change interpretations <a class="yt-timestamp" data-t="00:36:34">[00:36:34]</a>. This means individuals may scan their memories for additional evidence to support their existing belief, rather than allowing new information to alter it <a class="yt-timestamp" data-t="00:37:00">[00:37:00]</a>. The smarter a person is, the more lethal this bias can be, as their capacity for logical arguments and finding supportive evidence is higher <a class="yt-timestamp" data-t="01:01:08">[01:01:08]</a>.
+*   **Perceived Burden:** People can sense when someone is burdened or unburdened <a class="yt-timestamp" data-t="01:08:00">[01:08:00]</a>. A deep-seated hopelessness can interfere with an individual's ability to be carefree and their authentic self in interactions, which is often seen as an attractive quality <a class="yt-timestamp" data-t="01:09:09">[01:09:09]</a>.
+
+## Reprogramming the Mindset
+
+The path to change begins with awareness <a class="yt-timestamp" data-t="01:02:59">[01:02:59]</a>. Just as one regains control of a numb mouth as feeling returns, gaining awareness of mental patterns allows for greater control over them <a class="yt-timestamp" data-t="01:04:02">[01:04:02]</a>.
+
+Key steps to shifting this mindset include:
+1.  **Noticing the Hopelessness:** Consciously identifying the feeling of hopelessness when it arises, particularly in relevant situations like approaching potential partners <a class="yt-timestamp" data-t="01:16:21">[01:16:21]</a>.
+2.  **Creating Distance from Thoughts:** Instead of accepting a negative thought as an absolute truth (e.g., "I will be alone for the rest of my life"), recognize it as a thought generated by the mind (e.g., "My mind believes I will be alone for the rest of my life") <a class="yt-timestamp" data-t="01:26:41">[01:26:41]</a>. This creates distance between oneself and the thought, preventing it from being fully believed <a class="yt-timestamp" data-t="01:28:56">[01:28:56]</a>.
+3.  **Laughing in the Face of Hopelessness:** A powerful technique is to actively laugh at the feeling of hopelessness when it's noticed <a class="yt-timestamp" data-t="01:16:55">[01:16:55]</a>. This isn't about ignoring it, but acknowledging it with a sense of defiance and levity <a class="yt-timestamp" data-t="01:23:09">[01:23:09]</a>. This unburdened expression can be genuinely attractive to others <a class="yt-timestamp" data-t="01:30:05">[01:30:05]</a>.
+4.  **Meditation:** Meditation is a practice that helps one step back from the mind and observe thoughts without identifying with them <a class="yt-timestamp" data-t="01:29:41">[01:29:41]</a>. While not a quick fix, it helps cultivate the distance necessary for change.
+5.  **Focusing on Action, Not Outcome:** Society often overemphasizes the outcome of actions, leading to disappointment when desired results aren't met <a class="yt-timestamp" data-t="01:35:50">[01:35:50]</a>. Instead, focus on the action itself – the process of [[the_role_of_mindset_and_focus_in_learning | working on oneself]] and letting go of hopelessness <a class="yt-timestamp" data-t="01:36:34">[01:36:34]</a>. This shift in focus means taking daily steps to improve oneself, irrespective of immediate results <a class="yt-timestamp" data-t="01:37:27">[01:37:27]</a>.
+
+By addressing the internal [[impact_of_selfesteem_and_selfworth_on_dating | belief in hopelessness]] and shifting one's mindset, individuals can unlock new possibilities in their pursuit of relationships <a class="yt-timestamp" data-t="01:15:40">[01:15:40]</a>. It is a process of small, consistent changes, not a single, instantaneous transformation <a class="yt-timestamp" data-t="01:15:19">[01:15:19]</a>.

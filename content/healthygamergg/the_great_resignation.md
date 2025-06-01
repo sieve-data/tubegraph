@@ -1,0 +1,48 @@
+---
+title: The Great Resignation
+videoId: ieStO3JqWJ0
+---
+
+From: [[healthygamergg]] <br/> 
+
+The "Great Resignation" refers to an unprecedented period during which many individuals have been quitting their jobs <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. This phenomenon is not limited to the United States and has seen significant engagement on platforms like Reddit, where the "anti-work" subreddit has become one of the fastest-growing communities <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. People are often quitting in a "spectacular and social media karma farming" manner, posting their experiences online to garner support <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+
+## Driving Factors
+
+Several factors contribute to this mass exodus from traditional employment, largely stemming from shifts in information access and worker priorities.
+
+### The Internet as an Equalizer
+
+The internet is identified as a significant equalizer, similar in impact to historical inventions like the printing press (which made information widely available) and gunpowder (which leveled the playing field in physical power) <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. Historically, individuals in small towns with "crappy job[s]" were largely unaware of better opportunities, limiting their ability to compare their situation to others <a class="yt-timestamp" data-t="00:03:39">[00:03:39]</a>.
+
+While social media can have negative aspects, such as contributing to [[fomo | FOMO]] and excessive comparison <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>, it also functions as a tool that can reveal better options <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>. This increased awareness has shown workers that their situation doesn't have to be "as crappy as [their] situation is" <a class="yt-timestamp" data-t="00:04:38">[00:04:38]</a>. This revelation has been "absolutely devastating for certain employers" <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>, who previously faced "no negative selection pressure against poor practices" <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>, essentially "preying on [the] ignorance of their employees" <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+
+### [[COVID19s Impact on Work Dynamics | COVID-19's Impact on Work Dynamics]]
+
+The COVID-19 pandemic significantly accelerated the Great Resignation by removing the "blindfold" many employees wore <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>.
+
+*   **Challenging the Office Requirement:** The pandemic demonstrated that commuting and physical office presence were often unnecessary <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>. Many employees realized they could perform their jobs effectively from home, saving significant time previously spent commuting (e.g., five minutes to two hours daily) <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>.
+*   **Breaking Geographical Restrictions:** Historically, job options were restricted by an individual's geography, particularly in "company towns" where one major employer dominated <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>. Remote work enabled by the internet and accelerated by COVID-19 means individuals are no longer geographically restricted, allowing them to apply for jobs in different regions or even countries <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>. This mirrors how corporations previously leveraged geographical flexibility by outsourcing jobs overseas <a class="yt-timestamp" data-t="00:09:48">[00:09:48]</a>. Now, employees are leveraging this flexibility to seek better opportunities <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.
+*   **Re-evaluating Priorities:** The pandemic prompted people to question the traditional "grind" mentality – working hard for decades to retire later <a class="yt-timestamp" data-t="00:10:37">[00:10:37]</a>. They reassessed the "value of money" versus "value of time" and discovered they didn't need as much money as they thought <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>. An extra $5,000-$10,000 a year was often deemed not worth an additional 15 hours of work per week <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>. This led to a re-questioning of priorities and what they were willing to sacrifice <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
+
+### Corporate Invalidation and Psychological Mistakes
+
+A major psychological mistake employers are making is "grossly invalidat[ing] the experience of their workers" <a class="yt-timestamp" data-t="00:19:40">[00:19:40]</a>. Instead of addressing genuine problems, companies often resort to public relations (PR) firms to manage perception rather than fix underlying issues <a class="yt-timestamp" data-t="00:19:49">[00:19:49]</a>. This lack of transparency and unwillingness to listen to employees leads to increased disengagement and "catastrophic problems" <a class="yt-timestamp" data-t="00:21:13">[00:21:13]</a>.
+
+When companies label workers as "lazy" or blame government handouts for a "labor shortage," they further invalidate employee experiences <a class="yt-timestamp" data-t="00:19:10">[00:19:10]</a>. This is akin to punishing a child with behavioral problems and calling them "bad," which only makes the behavior worse <a class="yt-timestamp" data-t="00:18:45">[00:18:45]</a>. The term "labor shortage" is reframed as a "wage shortage" – the labor exists, but it refuses to work for poorly compensated, "crappy job[s]" that companies have maintained without consequence <a class="yt-timestamp" data-t="00:12:51">[00:12:51]</a>.
+
+### Evolutionary Pressure on Companies
+
+From an evolutionary perspective, COVID-19 has introduced a "selection pressure" on jobs <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>. Previously, unchecked corporate practices persisted because there were no environmental consequences <a class="yt-timestamp" data-t="00:12:13">[00:12:13]</a>. Now, workers are collectively "selecting for" a particular kind of job and "select[ing] against" another <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>.
+
+This concept is likened to game theory: if one party consistently wins (companies without consequences), the other party (workers) will eventually stop playing <a class="yt-timestamp" data-t="00:13:32">[00:13:32]</a>. For too long, companies have been "racking up w's without taking l's" <a class="yt-timestamp" data-t="00:14:10">[00:14:10]</a>, leading to "bloated" and "profit-driven" systems <a class="yt-timestamp" data-t="00:13:08">[00:13:08]</a>. This "karmic seed is coming to fruition" as people refuse to tolerate it <a class="yt-timestamp" data-t="00:14:14">[00:14:14]</a>.
+
+## Impact and Future Outlook
+
+The Great Resignation affects all levels of employment, including high-paying fields like investment banking and medicine <a class="yt-timestamp" data-t="00:15:24">[00:15:24]</a>. Investment banking, once highly coveted, now sees associates wanting to leave quickly after two years <a class="yt-timestamp" data-t="00:15:06">[00:15:06]</a>. Similarly, some medical professionals choose paths like nurse practitioner over doctor due to the reduced time sacrifice, despite lower pay <a class="yt-timestamp" data-t="00:15:34">[00:15:34]</a>. People are no longer willing to "work their asses off for 20 years" just to relax later <a class="yt-timestamp" data-t="00:16:13">[00:16:13]</a>. There is an increasing "selection pressures away from money" towards more meaningful and impactful work <a class="yt-timestamp" data-t="00:16:45">[00:16:45]</a>.
+
+Some companies, like Google, have adapted by offering attractive benefits (e.g., extensive cafeterias, flexible hours, remote work options) which contribute to high employee satisfaction, even if it means slightly lower pay compared to other companies <a class="yt-timestamp" data-t="00:16:53">[00:16:53]</a>. These employers recognize that turnover is often due to dissatisfaction and that "throwing money at the problem is not actually a perfect solution" <a class="yt-timestamp" data-t="00:17:51">[00:17:51]</a>.
+
+The continuation of the Great Resignation depends on corporate responses. If companies continue to invalidate workers' experiences, blame external factors, and use PR instead of fixing problems, they risk mass resignations and eventual closure <a class="yt-timestamp" data-t="00:21:38">[00:21:38]</a>. The alternative is for employers to ask employees "What can I do to get you to stay?" and "What would make you happy here?" <a class="yt-timestamp" data-t="00:22:22">[00:22:22]</a>. While employees may always feel they could be better compensated due to human psychology <a class="yt-timestamp" data-t="00:27:36">[00:27:36]</a>, a middle ground exists where companies listen, fairly compensate, and improve the work environment <a class="yt-timestamp" data-t="00:28:08">[00:28:08]</a>.
+
+The "anti-worker movement" is propagating because people are aware they don't have to tolerate exploitation anymore <a class="yt-timestamp" data-t="00:26:41">[00:26:41]</a>. Companies that prioritize employee well-being, like Costco, are notably absent from discussions about toxic work cultures on platforms like the anti-work subreddit <a class="yt-timestamp" data-t="00:34:33">[00:34:33]</a>. Until companies face and respond to these selection pressures, the behavior of workers quitting will continue to propagate <a class="yt-timestamp" data-t="00:35:34">[00:35:34]</a>.

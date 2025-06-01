@@ -1,0 +1,55 @@
+---
+title: Challenges with advice offered to virgins
+videoId: MWMWTTE-JR0
+---
+
+From: [[healthygamergg]] <br/> 
+
+Advice given to adult virgins often misses the mark because it typically focuses on either the practical aspects of getting laid or the internal struggle of shame and insecurity, without addressing the critical interplay between the two <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Many individuals find themselves massively insecure about their virginity <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>, despite having friends and perceived attractive qualities <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>. The core issue is that society, despite claims of support, often judges and bullies virgins <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>, leading to feelings of being flawed <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+
+## Societal Pressures and Insecurity
+
+Society conditions individuals to value being able to have sex <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>, stemming from an evolutionary perspective that views procreation as a core purpose of life <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>. This perspective is often over-interpreted, leading to generalizations about a person's worth based on their sexual experience <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>.
+
+Even when people try to be supportive, there can be a subtle judgment or "double-take" when someone reveals they are a virgin <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>. This leads to questions about what might be "wrong" with the person <a class="yt-timestamp" data-t="00:04:32">[00:04:32]</a>. The [[internal_struggles_of_adult_virgins | shame associated with virginity]] can be very high, even for homosexual men, due to presumptions about sexual activity within their communities <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. This shame is also crippling for women <a class="yt-timestamp" data-t="00:05:56">[00:05:56]</a>.
+
+## Ineffective Advice Strategies
+
+Common advice offered to virgins tends to fall into two unhelpful categories:
+
+1.  **"Just Get Laid" / Practical Advice:** This advice often implies it's easy and the individual's fault if they can't <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Pickup artists, for example, focus purely on practical aspects <a class="yt-timestamp" data-t="00:08:31">[00:08:31]</a>. However, this advice fails to acknowledge the underlying [[internal_struggles_of_adult_virgins | internal struggles]] and insecurities that sabotage real-world attempts to socialize and connect <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a>, <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>.
+2.  **"Just Don't Care" / Internal Work Advice:** This type of advice suggests simply "not caring" or "working on yourself" <a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a>. While working on oneself is generally good life advice, it doesn't directly address the specific issue of virginity and can worsen insecurities by implying that the person is also at fault for *caring* <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>. Fixing [[internal_struggles_of_adult_virgins | insecurity and shame]] does not automatically lead to sexual opportunities <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Therapists, for instance, are trained to address internal issues but not to provide practical guidance on how to find a partner <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>, <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>.
+
+## The Virginity Trap: Why Advice Fails
+
+The root of the problem lies in the "virginity trap" <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>:
+*   **Missed Social Milestones:** Life presents milestones for dating and sexual experience (e.g., high school, college) <a class="yt-timestamp" data-t="00:09:47">[00:09:47]</a>. Missing these milestones leads to a feeling of being "behind" <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>.
+*   **Reinforced Insecurity:** Each missed milestone contributes to an identity of being "unlovable" or "unable to get laid" <a class="yt-timestamp" data-t="00:10:16">[00:10:16]</a>. This [[internal_struggles_of_adult_virgins | internal insecurity]] sabotages future social attempts <a class="yt-timestamp" data-t="00:10:30">[00:10:30]</a>. For example, if someone insecure goes to a party, their lack of confidence will shine through and hinder intimate connections <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>.
+*   **Lack of Social XP:** Individuals who miss milestones also lack "social XP" (experience points) in social skills <a class="yt-timestamp" data-t="00:10:59">[00:10:59]</a>. Even if they overcome their shame, they still may not know how to talk to people or flirt effectively <a class="yt-timestamp" data-t="00:11:23">[00:11:23]</a>.
+*   **Negative Feedback Loop:** Failing in social situations due to insecurity or lack of skills reinforces negative self-perceptions, trapping the individual in a cycle <a class="yt-timestamp" data-t="00:12:01">[00:12:01]</a>, <a class="yt-timestamp" data-t="00:25:47">[00:25:47]</a>.
+
+Many advice-givers (like pickup artists or even therapists) focus on only one side of this issue <a class="yt-timestamp" data-t="00:16:43">[00:16:43]</a>, resulting in unhelpful or insufficient solutions <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a>, <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>.
+
+### The Problem with Generalizations
+
+The human brain is naturally biased towards generating patterns and latching onto negative experiences for survival <a class="yt-timestamp" data-t="00:13:36">[00:13:36]</a>, <a class="yt-timestamp" data-t="00:13:53">[00:13:53]</a>. This leads to negative generalizations about society or others <a class="yt-timestamp" data-t="00:14:58">[00:14:58]</a>. Communities like the "red pill" and "black pill" can provide emotional validation but also create echo chambers that reinforce these negative generalizations <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>, <a class="yt-timestamp" data-t="00:15:33">[00:15:33]</a>. Believing these generalizations, such as "society hates me because I'm a virgin," leads to resentment that is unattractive in social situations and sabotages efforts <a class="yt-timestamp" data-t="00:15:10">[00:15:10]</a>.
+
+## A Synergistic Approach
+
+Overcoming this challenge requires a synergistic approach that tackles both [[internal_struggles_of_adult_virgins | internal shame]] and a lack of social skills simultaneously <a class="yt-timestamp" data-t="00:07:17">[00:07:17]</a>, <a class="yt-timestamp" data-t="00:16:25">[00:16:25]</a>.
+
+### Steps for a Combined Strategy:
+
+1.  **Understand Your Self-Opinion:** Write down "How do I feel about myself?" beyond reflexive answers <a class="yt-timestamp" data-t="00:17:01">[00:17:01]</a>. This deeper reflection reveals nuances and internal conflicts, showing that not all self-perceptions are entirely negative <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>.
+2.  **Understand Your Opinion of Others:** Similarly, write "How do I feel about other people?" to uncover nuances in your perception <a class="yt-timestamp" data-t="00:17:40">[00:17:40]</a>. Recognizing that "some people suck *some of the time*" <a class="yt-timestamp" data-t="00:18:25">[00:18:25]</a> is a significant step, as it offers hope unlike absolute generalizations <a class="yt-timestamp" data-t="00:23:30">[00:23:30]</a>.
+3.  **Socialize with Intention:** Instead of just "hanging out," approach social situations with a clear intention <a class="yt-timestamp" data-t="00:18:45">[00:18:45]</a>.
+    *   **Focus on Friends First:** Initially, prioritize making friends to level up social skills <a class="yt-timestamp" data-t="00:19:48">[00:19:48]</a>. Be aware of internal resistance, such as resentment or the feeling of wasted time if it doesn't immediately lead to sexual encounters <a class="yt-timestamp" data-t="00:20:00">[00:20:00]</a>. This practice helps to learn how to talk to people without being awkward <a class="yt-timestamp" data-t="00:20:54">[00:20:54]</a>.
+    *   **Practice Basic Social Skills:** Simple acts like smiling at people (without being creepy) can build comfort and confidence <a class="yt-timestamp" data-t="00:21:30">[00:21:30]</a>.
+4.  **Make Intentions Known:** At some point, you will be attracted to someone <a class="yt-timestamp" data-t="00:22:00">[00:22:00]</a>. It's crucial to make your intentions known rather than falling into the "friend zone" <a class="yt-timestamp" data-t="00:22:06">[00:22:06]</a>. This is challenging due to underlying insecurities and negative generalizations <a class="yt-timestamp" data-t="00:22:17">[00:22:17]</a>. The fear of rejection often manifests as thoughts like "I'm unlovable" or "people suck" <a class="yt-timestamp" data-t="00:22:47">[00:22:47]</a>. Awareness of these thoughts, rather than trying to eliminate them, is key to moving past them <a class="yt-timestamp" data-t="00:27:51">[00:27:51]</a>.
+5.  **Cultivate Patience:** Ask yourself: "How can I be more patient with myself?" <a class="yt-timestamp" data-t="00:24:11">[00:24:11]</a> This involves acknowledging that missing past social milestones means it will take time to catch up <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>. Giving yourself a "pass" if things don't work out immediately is crucial <a class="yt-timestamp" data-t="00:25:08">[00:25:08]</a>.
+
+## Post-Virginity Challenges
+
+It's important to understand that losing virginity does not automatically solve all underlying problems <a class="yt-timestamp" data-t="00:32:01">[00:32:01]</a>. In some cases, it can even exacerbate them if an individual expects sex to fix deep-seated [[internal_struggles_of_adult_virgins | emotional insecurity]] and shame <a class="yt-timestamp" data-t="00:32:17">[00:32:17]</a>. This can lead to a cycle of seeking more sexual engagements to assuage insecurities, potentially leading to hypersexuality, which becomes a substitute for emotional needs and work <a class="yt-timestamp" data-t="00:32:46">[00:32:46]</a>, <a class="yt-timestamp" data-t="00:34:50">[00:34:50]</a>. An orgasm will not fix years of [[internal_struggles_of_adult_virgins | emotional insecurity and shame]] <a class="yt-timestamp" data-t="00:33:50">[00:33:50]</a>.
+
+In conclusion, addressing the [[internal_struggles_of_adult_virgins | challenges of virginity]] requires a combined approach that simultaneously works on internal confidence and practical social skills. Awareness of internal thoughts and biases, coupled with intentional social practice, allows individuals to slowly level up and overcome the "virginity trap" <a class="yt-timestamp" data-t="00:29:05">[00:29:05]</a>.

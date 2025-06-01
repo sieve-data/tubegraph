@@ -1,0 +1,58 @@
+---
+title: Political discourse and empathy
+videoId: bMOF0Go6brw
+---
+
+From: [[healthygamergg]] <br/> 
+
+This article explores the dynamics of political discourse and the application of empathetic and non-judgmental approaches to understanding differing perspectives, drawing insights from a conversation with Jimmy from Philly. The discussion highlights the host's background in monk training and therapy to foster more productive dialogue in politically charged environments <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>.
+
+## The Challenge of Modern Political Discourse
+
+Current political discourse often involves "plastering the other side as backward or idiots" <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. The host suggests that skills learned from training as a monk (non-judgmental acceptance) <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a> and as a therapist (learning how to listen) <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a> can be applied to non-therapeutic or non-spiritual contexts to foster understanding <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. The goal is to understand and educate people about different perspectives <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>.
+
+## Jimmy's Introduction and Initial Reactions
+
+Jimmy, a long-time caller to David Pakman's show, frequently disagrees with Pakman <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>. David Pakman introduced Jimmy by highlighting several negative aspects of his life, including alcohol problems, not being allowed to see his daughter due to accusations of physical violence, and a recent arrest for chasing a car while intoxicated <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>. Jimmy clarified some details, noting the individuals in the car were "four black 20-somethings not teenagers" and that the incident occurred in a suburb, not Philadelphia <a class="yt-timestamp" data-t="00:05:52">[00:05:52]</a>. He was arrested for public drunkenness but "beat the case" <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
+
+Jimmy's account of the incident involved individuals stealing his Trump signs, taunting him, and his subsequent intoxicated pursuit with a knife <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>. He expressed that he doesn't "get offended easy" <a class="yt-timestamp" data-t="00:08:41">[00:08:41]</a> and finds the entire situation "funny" <a class="yt-timestamp" data-t="00:09:38">[00:09:38]</a>. He believes he took action rather than being a "soy boy" who would "sit there and watch something like that" <a class="yt-timestamp" data-t="00:09:16">[00:09:16]</a>.
+
+## Jimmy's Self-Perception and Beliefs
+
+Jimmy describes himself as someone who is "a little nuts" and is "very aware of that" <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>. He states that he likes to "have fun" and sees "everything as funny," making fun of everyone, including himself <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>. He justifies his jokes about homosexuals and transsexuals by arguing that if they "want to be accepted as normal then they better be ready to take jokes" <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>. He believes they are not "special people" <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>. He gets "pissed off" when people try to make him "accept your delusion" regarding gender identity, stating "you're not going to force me to address you as a woman when you're clearly a man" <a class="yt-timestamp" data-t="00:13:29">[00:13:29]</a>. He labels this as "insanity" <a class="yt-timestamp" data-t="00:12:52">[00:12:52]</a> and contrary to "logic, it's science, biology" <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>.
+
+Jimmy asserts that "you don't have the right not to be offended" <a class="yt-timestamp" data-t="00:14:55">[00:14:55]</a> and that people making fun of others "doesn't make them hateful people" <a class="yt-timestamp" data-t="00:14:55">[00:14:55]</a>. He views humor as a "spiritual principle" that "brings people together" <a class="yt-timestamp" data-t="00:16:44">[00:16:44]</a>.
+
+## Impact of Upbringing on Political Beliefs
+
+Jimmy believes he came to his opinions because he trusts "my ears and my eyes" <a class="yt-timestamp" data-t="00:17:09">[00:17:09]</a> and that his "brain works everything's funny" <a class="yt-timestamp" data-t="00:18:05">[00:18:05]</a>.
+
+His childhood in Philadelphia involved being a "happy-go-lucky" kid who used to skip down the street, which led to other kids making fun of him <a class="yt-timestamp" data-t="00:18:26">[00:18:26]</a>. He "didn't like it" but saw it as teaching him "how to come back with snappy witty responses to insults" <a class="yt-timestamp" data-t="00:20:52">[00:20:52]</a>. He started being a comedian to cope <a class="yt-timestamp" data-t="00:25:06">[00:25:06]</a>.
+
+He was placed in a boys' home at age 13 due to drug use and committing crimes, which his mother thought would help him <a class="yt-timestamp" data-t="00:21:43">[00:21:43]</a>. He initially felt "abandoned" and "very angry with my mother" <a class="yt-timestamp" data-t="00:22:40">[00:22:40]</a>, especially when she insisted he stay in institutions even when judges were ready to release him <a class="yt-timestamp" data-t="00:24:11">[00:24:11]</a>. He "hated her" as a child but as an "older man now I understand what my mother was doing" <a class="yt-timestamp" data-t="00:24:18">[00:24:18]</a>. He later forgave his mother, recognizing she "was manic depressive" and "did her best" <a class="yt-timestamp" data-t="00:35:17">[00:35:17]</a>.
+
+Jimmy views himself as a survivor and not a "victim of anything" <a class="yt-timestamp" data-t="00:29:25">[00:29:25]</a>, asserting that if someone wrongs him, he finds a way to "get back at them" <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a>. Not getting back at them would feel "horrible" like an "unpaid debt" <a class="yt-timestamp" data-t="00:33:20">[00:33:20]</a>.
+
+His perspective on forgiveness, informed by a rabbi's teaching, is that "you gotta atone for something before we forgive you" <a class="yt-timestamp" data-t="00:34:05">[00:34:05]</a>, in contrast to what he perceives as the Christian approach of forgiving easily <a class="yt-timestamp" data-t="00:34:10">[00:34:10]</a>.
+
+### Perceived Manipulation by Media
+Jimmy believes that "once you get someone to make an emotional judgment a nuclear bomb of truth isn't going to make that person change their opinion" <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>. He feels the media "brainwash people" by reporting "absolute lies" that people accept emotionally, making them unwilling to admit they were "duped" even when the truth emerges <a class="yt-timestamp" data-t="00:30:46">[00:30:46]</a>. He dislikes "being lied to" or "gaslighted" by media and politicians <a class="yt-timestamp" data-t="00:32:23">[00:32:23]</a>.
+
+### Substance Use and Recovery
+Jimmy attributes his anger, in part, to his past substance use and commitment to crime <a class="yt-timestamp" data-t="00:39:06">[00:39:06]</a>. He disputes the idea that addiction is a "disease," calling it a "bunch of crap" <a class="yt-timestamp" data-t="00:39:32">[00:39:32]</a>. He found AA helpful because it "shook him up" and encouraged him to "act your way into better thinking" rather than just talking about problems <a class="yt-timestamp" data-t="00:40:06">[00:40:06]</a>. Helping others as a sponsor made him less "self-centered selfish" <a class="yt-timestamp" data-t="00:41:40">[00:41:40]</a>. He credits LSD with making him "happier" and more willing to "take risks" like starting a YouTube channel <a class="yt-timestamp" data-t="01:22:17">[01:22:17]</a>.
+
+## Reflections on Jimmy's Perspective
+
+David Pakman stated that Jimmy's background "is exactly what I imagined it might be that gets him to where he is today" <a class="yt-timestamp" data-t="00:42:10">[00:42:10]</a>. He sees Jimmy as a "victim" and his boisterous behavior and need for an "opposite reaction" make "a lot of sense" given his upbringing <a class="yt-timestamp" data-t="00:42:40">[00:42:40]</a>. Pakman noted that Jimmy's adult "transphobic and homophobic language" aligns with his childhood experience of being called "gay" for skipping, suggesting he's "weaponizing the way he felt when that was used against him" <a class="yt-timestamp" data-t="00:43:40">[00:43:40]</a>.
+
+The host observed that Jimmy's experiences taught him that when people are "unusual" or "funny," the response is to "make fun of them" <a class="yt-timestamp" data-t="00:50:27">[00:50:27]</a>, a reflection of how he was treated <a class="yt-timestamp" data-t="00:50:39">[00:50:39]</a>. He also noted Jimmy's tendency to "fight back" and "put people in their place" <a class="yt-timestamp" data-t="00:54:59">[00:54:59]</a>.
+
+While acknowledging Jimmy's resilience and refusal to play the victim, the host suggested that Jimmy's "survivor" mentality might come at the cost of "toning down your compassion toning down your [[role_of_empathy_and_emotional_intelligence | empathy]] toning down even feelings of loneliness or negative emotions" <a class="yt-timestamp" data-t="01:12:54">[01:12:54]</a>, as "everything to me is funny" <a class="yt-timestamp" data-t="01:13:06">[01:13:06]</a>. The host also noted Jimmy's quick shift from anger to laughter when discussing difficult topics <a class="yt-timestamp" data-t="01:14:07">[01:14:07]</a>, suggesting a potential suppression of deeper emotions, an example of [[strategies_for_developing_emotional_awareness_and_processing | emotional processing strategies]] <a class="yt-timestamp" data-t="01:12:54">[01:12:54]</a>.
+
+## Fostering [[Empathy and Understanding in Forming Relationships|Understanding]] and Compassion
+
+The host encouraged Jimmy to "rethink" his rigid opinions and "try to be like a little bit more compassionate towards people who may be confused or struggling or see themselves as victims" <a class="yt-timestamp" data-t="01:17:55">[01:17:55]</a>. He emphasized that even if one believes their judgments are rational, others' judgments might also be emotional <a class="yt-timestamp" data-t="01:19:14">[01:19:14]</a>, and that "a kind word" or taking someone seriously can have a positive impact <a class="yt-timestamp" data-t="01:18:51">[01:18:51]</a>.
+
+The host reflected that people with very rigid political beliefs often have "incredibly hard" lives, and this can galvanize them to form rigid thinking as a survival mechanism <a class="yt-timestamp" data-t="01:34:26">[01:34:26]</a>. He stated that political beliefs often have "a lot to do with our [[impact_of_upbringing_on_political_beliefs | upbringing]]" <a class="yt-timestamp" data-t="01:35:32">[01:35:32]</a>. He highlighted that people's experiences are "100 percent real, but your conclusions and the abstractions that you draw from the world are not 100 real" <a class="yt-timestamp" data-t="01:35:54">[01:35:54]</a>.
+
+The host concluded that approaching someone with an open mind makes them "more likely to be open-minded" <a class="yt-timestamp" data-t="01:38:15">[01:38:15]</a>. Calling people "stupid" or telling them "I told you so" is not an effective [[approach_to_understanding_differing_perspectives | approach to understanding differing perspectives]] <a class="yt-timestamp" data-t="01:40:04">[01:40:04]</a>. Instead, treating people with compassion, regardless of their beliefs, is the "right move" <a class="yt-timestamp" data-t="01:40:38">[01:40:38]</a>.

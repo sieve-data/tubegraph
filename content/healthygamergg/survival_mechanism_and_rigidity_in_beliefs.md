@@ -1,0 +1,47 @@
+---
+title: Survival mechanism and rigidity in beliefs
+videoId: bMOF0Go6brw
+---
+
+From: [[healthygamergg]] <br/> 
+
+Political and personal beliefs are often shaped by an individual's life experiences, especially those that necessitate [[role_of_adaptation_and_survival_in_mental_health | adaptation and survival]]. Understanding the origins of these deeply held convictions can foster greater compassion and more productive dialogue, moving beyond labeling others as "backward or idiots" <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>.
+
+## The Genesis of Rigid Beliefs: Jimmy's Story
+
+The case of Jimmy from Philly illustrates how a challenging upbringing can lead to a highly developed survival mechanism and, consequently, rigid beliefs. Jimmy's life story reveals a series of experiences that compelled him to adopt a "fight fire with fire" mentality <a class="yt-timestamp" data-t="01:10:12">[01:10:12]</a>.
+
+### Childhood Experiences and Early Lessons
+As a child, Jimmy described himself as "happy-go-lucky" and someone who used to "skip down the streets" <a class="yt-timestamp" data-t="00:18:26">[00:18:26]</a>. However, this carefree demeanor was met with ridicule in Philadelphia, where "kids would make fun of me" <a class="yt-timestamp" data-t="00:19:49">[00:19:49]</a>, teaching him that he couldn't be "skipping down the street" <a class="yt-timestamp" data-t="00:25:29">[00:25:29]</a>. This environment taught him "how to come back with snappy witty responses to insults" <a class="yt-timestamp" data-t="00:20:55">[00:20:55]</a>, fostering a need to "top" those who wronged him <a class="yt-timestamp" data-t="00:56:10">[00:56:10]</a>.
+
+Jimmy's mother placed him in a boy's home, Saint Francis Vocational School, when he was 13, due to his involvement with drugs and crime <a class="yt-timestamp" data-t="00:21:43">[00:21:43]</a>. He initially felt "abandoned" and "very angry" with his mother <a class="yt-timestamp" data-t="00:22:40">[00:22:40]</a>, especially when she insisted on him remaining institutionalized even when a judge was ready to send him home <a class="yt-timestamp" data-t="00:26:49">[00:26:49]</a>. This experience instilled a deep aversion to feeling like a victim. He later gained perspective, understanding his mother was "manic depressive" and "tried to help" him <a class="yt-timestamp" data-t="00:35:17">[00:35:17]</a>, eventually forgiving her <a class="yt-timestamp" data-t="00:35:07">[00:35:07]</a>. This demonstrates how even deeply rooted anger can evolve with maturity and understanding.
+
+### Confronting Injustice and Asserting Control
+A particularly impactful experience for Jimmy was being falsely accused of physical violence against his baby, which led to legal troubles and the loss of access to his daughter <a class="yt-timestamp" data-t="00:31:55">[00:31:55]</a>. He felt like a "victim" in this situation, noting the lack of investigation and the system's unfairness <a class="yt-timestamp" data-t="00:57:44">[00:57:44]</a>. This further reinforced his need to "get back at them" when wronged <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a>, viewing unresolved slights as an "unpaid debt" <a class="yt-timestamp" data-t="00:33:30">[00:33:30]</a>.
+
+### Alcoholics Anonymous and Personal Growth
+Jimmy credits Alcoholics Anonymous (AA) with helping him, particularly through taking actions like making amends <a class="yt-timestamp" data-t="00:40:41">[00:40:41]</a>. He emphasized that "you can't think your way out of bad thinking, you have to act your way into better thinking" <a class="yt-timestamp" data-t="00:41:01">[00:41:01]</a>. Sponsoring others in AA also helped him shift his focus from self-centeredness <a class="yt-timestamp" data-t="00:41:40">[00:41:40]</a>. This process of active engagement and helping others can be a powerful tool for developing [[the_impact_of_beliefs_on_perceptions_and_relationships | new perspectives]] and behaviors.
+
+## The Architecture of Survival: Rigidity and Emotional Numbing
+
+Jimmy's life story illustrates that when people experience "really difficult circumstances," their need to [[role_of_adaptation_and_survival_in_mental_health | adapt and survive]] often leads to "a ton of rigidity" <a class="yt-timestamp" data-t="01:30:22">[01:30:22]</a>. This rigidity serves as a protective mechanism, akin to wearing "full plate armor" <a class="yt-timestamp" data-t="01:30:27">[01:30:27]</a>.
+
+### Emotional Numbing as a Defense
+A notable observation is Jimmy's "peculiar absence of certain emotions" <a class="yt-timestamp" data-t="01:30:58">[01:30:58]</a>. In individuals with traumatic upbringings, especially men, anger can become an "umbrella emotion," covering other feelings like pride, shame, or sadness <a class="yt-timestamp" data-t="01:31:21">[01:31:21]</a>. The brain, as a [[minds_protective_mechanisms_and_negative_possibilities | protective mechanism]], may "numb ourselves to negative emotions" <a class="yt-timestamp" data-t="01:11:46">[01:11:46]</a> to prevent dwelling in negativity, which is seen as unproductive <a class="yt-timestamp" data-t="01:11:58">[01:11:58]</a>. This can manifest as an overwhelming sense that "everything's funny" <a class="yt-timestamp" data-t="01:11:06">[01:11:06]</a>, a chosen deviation towards laughter instead of crying <a class="yt-timestamp" data-t="01:14:39">[01:14:39]</a>.
+
+### The Victim Complex and Agency
+Despite his hardships, Jimmy staunchly rejects the label of a "victim" <a class="yt-timestamp" data-t="00:29:25">[00:29:25]</a>, asserting that he is simply "a person that's shaped by their experiences" <a class="yt-timestamp" data-t="00:29:33">[00:29:33]</a>. This perspective highlights a crucial point: while individuals may experience victimizing circumstances, an exclusive focus on victimhood can strip away personal [[cognitive_biases_and_perception_of_control | control or agency]] <a class="yt-timestamp" data-t="00:56:49">[00:56:49]</a>. Acknowledging hardship while emphasizing one's ability to control aspects of their life can be empowering <a class="yt-timestamp" data-t="00:56:56">[00:56:56]</a>.
+
+### Emotional Judgments and the Perception of Truth
+Jimmy believes that "once you get someone to make an emotional judgment, a nuclear bomb of truth isn't going to make that person change their opinion" <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>, particularly because "human beings are not going to go back on the initial emotional judgment that they made" <a class="yt-timestamp" data-t="00:31:17">[00:31:17]</a>. However, it's also observed that emotions can "cloud your judgment," leading people to believe they are behaving rationally even when they are highly emotional <a class="yt-timestamp" data-t="00:31:53">[00:31:53]</a>. This insight points to the challenge of changing deeply ingrained beliefs, as they are often rooted in personal experiences and emotional conclusions, not purely logical ones.
+
+## Fostering Compassion and Open Dialogue
+
+To navigate discussions with those holding rigid beliefs, particularly in politically charged environments, compassion is essential <a class="yt-timestamp" data-t="01:32:39">[01:32:39]</a>.
+
+*   **Understanding Origins:** [[impact_of_upbringing_on_political_beliefs | Political beliefs]] are often deeply influenced by upbringing and personal circumstances <a class="yt-timestamp" data-t="01:35:32">[01:35:32]</a>. People who have faced "really really hard lives" <a class="yt-timestamp" data-t="01:34:52">[01:34:52]</a> may develop rigid thinking as a means of survival <a class="yt-timestamp" data-t="01:34:57">[01:34:57]</a>.
+*   **The Power of Approach:** Approaching someone with an open mind increases the likelihood of them being open-minded in return <a class="yt-timestamp" data-t="01:38:15">[01:38:15]</a>. Pretending to be open-minded while waiting to point out flaws is ineffective and will lead to close-mindedness <a class="yt-timestamp" data-t="01:38:40">[01:38:40]</a>.
+*   **Respecting Experience, Questioning Conclusions:** An individual's experiences are "100 percent real, but your conclusions and the abstractions that you draw from the world are not 100 percent real" <a class="yt-timestamp" data-t="01:35:50">[01:35:50]</a>. When engaging with someone whose abstractions seem illogical, it's crucial to acknowledge the reality of their underlying experiences <a class="yt-timestamp" data-t="01:36:11">[01:36:11]</a>.
+*   **Empathy Over Condemnation:** Calling people "stupid" or blaming them for their beliefs only serves to "galvanize their beliefs" and make them "dig their heels in more" <a class="yt-timestamp" data-t="01:40:04">[01:40:04]</a>. Instead, treating individuals with compassion, regardless of their views, is the "right move" <a class="yt-timestamp" data-t="01:40:38">[01:40:38]</a>.
+
+In conclusion, understanding the survival mechanisms that lead to rigid beliefs, often born from difficult life circumstances, is key to fostering [[challenges_of_forming_friendships_with_differing_beliefs | genuine connection]] and dialogue. By recognizing the very real experiences that underpin these beliefs and approaching with true openness and compassion, it may be possible to inspire a shift towards "fighting fire with water" <a class="yt-timestamp" data-t="01:19:46">[01:19:46]</a> rather than fire.

@@ -1,0 +1,120 @@
+---
+title: Open relationships and polyamory
+videoId: Lk9Y8K83tj0
+---
+
+From: [[healthygamergg]] <br/> 
+
+Open relationships and polyamory are forms of non-monogamy that allow individuals to engage in romantic and sexual relationships with multiple people at the same time <a class="yt-timestamp" data-t="06:08:12">[06:08:12]</a>. While the specific definitions can vary, an open relationship generally implies the ability to see people romantically and sexually outside of the primary partnership <a class="yt-timestamp" data-t="06:12:12">[06:12:12]</a>. Polyamory often implies the capacity to develop feelings for multiple individuals simultaneously, suggesting a deeper emotional connection beyond just sexual interactions <a class="yt-timestamp" data-t="01:11:08">[01:11:08]</a>. The speaker, who identifies as being in a non-monogamous relationship, noted that labels like "open" or "polyamorous" are "just words" <a class="yt-timestamp" data-t="01:13:28">[01:13:28]</a>, and their current relationship is considered "open" because they are not living with a third person <a class="yt-timestamp" data-t="01:13:36">[01:13:36]</a>.
+
+## Personal Experience and Motivations
+
+The individual in the discussion is engaged to their partner, Destiny, and they maintain a non-monogamous relationship <a class="yt-timestamp" data-t="05:54:15">[05:54:15]</a>. They met through a mutual friend on Twitch, and after connecting on Instagram, Destiny traveled to New Zealand to visit the speaker, who was traveling in a van at the time <a class="yt-timestamp" data-t="06:49:09">[06:49:09]</a>, <a class="yt-timestamp" data-t="09:56:07">[09:56:07]</a>. The speaker values their relationship with Destiny immensely, stating they "love him so much" and want to be with him for the rest of their life <a class="yt-timestamp" data-t="01:07:07">[01:07:07]</a>, <a class="yt-timestamp" data-t="01:10:07">[01:10:07]</a>, <a class="yt-timestamp" data-t="01:10:49">[01:10:49]</a>, <a class="yt-timestamp" data-t="01:10:50">[01:10:50]</a>.
+
+A primary motivation for their involvement in a non-monogamous relationship is the belief that it is a "beautiful thing" to allow their partner to experience love and life with multiple people, extending happiness beyond just themselves <a class="yt-timestamp" data-t="01:11:15">[01:11:15]</a>, <a class="yt-timestamp" data-t="01:17:17">[01:17:17]</a>, <a class="yt-timestamp" data-t="01:19:19">[01:19:19]</a>. They see themselves as a "giver" who likes to make people happy <a class="yt-timestamp" data-t="01:15:12">[01:15:12]</a>, <a class="yt-timestamp" data-t="01:58:29">[01:58:29]</a>.
+
+## [[challenges_and_experiences_in_nonmonogamous_relationships | Challenges and Experiences in Nonmonogamous Relationships]]
+
+Despite the positive intentions, the speaker has encountered significant [[challenges_and_experiences_in_nonmonogamous_relationships | challenges and experiences in nonmonogamous relationships]], particularly over the past year <a class="yt-timestamp" data-t="03:06:00">[03:06:00]</a>. They feel that people have been "disappointing" and have become "really mean" <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a>. This has led to a feeling of being used and a struggle to [[trust_and_relationship_dynamics | trust people]] <a class="yt-timestamp" data-t="02:30:00">[02:30:00]</a>, <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>, <a class="yt-timestamp" data-t="03:36:00">[03:36:00]</a>.
+
+### Jealousy and Sabotage
+
+A recurring issue is jealousy from others who become involved with their partner. These individuals have reportedly acted "really mean" or attempted to "sabotage" their relationship <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>, <a class="yt-timestamp" data-t="02:16:00">[02:16:00]</a>. Examples include intentionally trying to make the speaker feel bad or jealous <a class="yt-timestamp" data-t="02:33:00">[02:33:00]</a>, such as a person closing a door in their face while with Destiny, or mocking their Swedish nationality <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>, <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>, <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>. This behavior is perceived as "unfair" because the speaker feels they are giving happiness and allowing their partner to explore other connections <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>, <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>. The core boundary for their relationship is that any third party must respect their relationship and not engage in mean or hateful behavior towards either partner <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>.
+
+### Impact on [[trust_and_relationship_dynamics | Trust and Relationship Dynamics]]
+
+These negative experiences have left the speaker feeling scared of [[managing_expectations_in_new_relationships | meeting new people]] <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a> and have shifted their perception of others from positive to negative <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>. They feel a sense of "losing hope in people" <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>. The speaker also expressed sadness over drama involving a streamer who lied and cheated on people, leading to significant online hate, even though they were not directly involved <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>, <a class="yt-timestamp" data-t="04:36:00">[04:36:00]</a>. This exposure to public negativity and the judgment of the internet is described as "insane" and "crazy" <a class="yt-timestamp" data-t="04:54:00">[04:54:00]</a>.
+
+The speaker's giving nature, learned from childhood experiences with a depressed mother and a father who withdrew from negative emotions, led them to feel responsible for making others happy <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>, <a class="yt-timestamp" data-t="06:00:00">[06:00:00]</a>, <a class="yt-timestamp" data-t="07:06:00">[07:06:00]</a>. This ingrained tendency to prioritize others' happiness has made it painful when their openness is met with selfishness <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>.
+
+## Philosophical Perspectives
+
+### Monogamy vs. Non-Monogamy
+
+The speaker views monogamy as potentially involving "controlling" a partner's feelings <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>, something they find strange <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>. The interviewer, however, clarifies that healthy monogamy is not about controlling feelings, but about *choosing* to restrain actions for the sake of the relationship <a class="yt-timestamp" data-t="03:08:00">[03:08:00]</a>, <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>. Feelings, being natural, cannot be controlled, but actions can be <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>.
+
+### The "Shakti" Analogy
+
+The interviewer introduces the concept of "Shakti" from Hindu tradition, describing it as the feminine word for energy or goddess <a class="yt-timestamp" data-t="01:16:16">[01:16:16]</a>. They suggest the speaker embodies Shakti, being a very energetic and giving person whom others are drawn to, as she freely gives her energy in a world where it's not freely given <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>. This often results in relationships becoming one-sided, where others take her "radiance" or energy <a class="yt-timestamp" data-t="01:19:50">[01:19:50]</a>. The speaker is likened to a sponge, absorbing the hurt and negativity of other people <a class="yt-timestamp" data-t="01:56:10">[01:56:10]</a>.
+
+### The "Ram and Krishna" Analogy
+
+Two incarnations of the Hindu God Vishnu are presented:
+*   **Ram:** Represents the ideal human being – kind, noble, honest, and giving. Ram prioritizes others' well-being, even divorcing his faithful wife Sita for the kingdom's trust <a class="yt-timestamp" data-t="01:11:19">[01:11:19]</a>, <a class="yt-timestamp" data-t="01:12:59">[01:12:59]</a>. Ram would not do "bad things for good reasons" <a class="yt-timestamp" data-t="01:17:42">[01:17:42]</a>.
+*   **Krishna:** Represents a more pragmatic approach. He is seen as a "player" and performs "shady things" for good reasons, adhering to codes only technically <a class="yt-timestamp" data-t="01:14:02">[01:14:02]</a>. Krishna puts himself first, believing "the ends justifies the means" <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>, <a class="yt-timestamp" data-t="01:17:20">[01:17:20]</a>.
+
+The speaker is identified as more like Ram, a naturally good person who puts others ahead of themselves <a class="yt-timestamp" data-t="01:18:02">[01:18:02]</a>. The interviewer suggests that living like Ram leads to a "good life," but living like Krishna leads to a "happy life," implying the need for a balance between selflessness and self-interest <a class="yt-timestamp" data-t="01:18:07">[01:18:07]</a>.
+
+## Addressing Challenges
+
+### Setting Boundaries
+
+The interviewer advises the speaker to become "more selfish" and to learn to "set limits" to protect themselves from being drained dry by others <a class="yt-timestamp" data-t="01:19:29">[01:19:29]</a>. This involves being mindful of when to give and when not to give, bringing it under personal [[independence_and_relationship_decisions | control]] <a class="yt-timestamp" data-t="01:22:05">[01:22:05]</a>. It's suggested to view every interaction as a transaction: what are you giving, and what are you getting <a class="yt-timestamp" data-t="01:22:52">[01:22:52]</a>. In the context of an open relationship, this means being careful about who is allowed in <a class="yt-timestamp" data-t="01:23:13">[01:23:13]</a>.
+
+A crucial step is to engage in [[healthy_communication_in_relationships | healthy communication in relationships]], specifically with Destiny, about hurtful situations <a class="yt-timestamp" data-t="01:25:22">[01:25:22]</a>. The speaker's initial reluctance to discuss issues with Destiny out of concern for his happiness highlights their tendency to put him first <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>. The interviewer emphasizes that a healthy relationship means both partners prioritize each other, with each giving 60% and taking 40% <a class="yt-timestamp" data-t="01:25:52">[01:25:52]</a>. This involves sharing feelings, even if it might negatively impact the other person, with the expectation that they would reciprocate this openness <a class="yt-timestamp" data-t="01:26:27">[01:26:27]</a>.
+
+### Self-Care for Empaths
+
+For empathic individuals who absorb others' pain, it's essential to learn how to "squeeze out the water from their sponge" <a class="yt-timestamp" data-t="01:56:47">[01:56:47]</a>. This can involve:
+*   **Emotional Support:** Leaning on friends or family to process emotions <a class="yt-timestamp" data-t="01:50:35">[01:50:35]</a>. It's recommended to set a formal structure, like scheduling calls, to ensure consistent support during difficult times <a class="yt-timestamp" data-t="01:54:14">[01:54:14]</a>, <a class="yt-timestamp" data-t="01:54:20">[01:54:20]</a>.
+*   **Physical Practices:** Engaging in activities like yoga or meditation to develop the capacity to tolerate pain and manage emotions <a class="yt-timestamp" data-t="01:50:40">[01:50:40]</a>, <a class="yt-timestamp" data-t="01:53:04">[01:53:04]</a>.
+*   **Prioritizing Self:** Allocating time for personal reflection and [[navigating_selfidentity_and_relationships | self-development]], even if it feels "selfish" <a class="yt-timestamp" data-t="01:58:51">[01:58:51]</a>. This means reserving some "mana" (energy) for oneself rather than spending it all on others <a class="yt-timestamp" data-t="01:59:40">[01:59:40]</a>.
+
+It is also important to recognize that putting oneself first does not equate to neglecting others; there is a wide spectrum of support between complete self-sacrifice and neglect <a class="yt-timestamp" data-t="01:55:53">[01:55:53]</a>, <a class="yt-timestamp" data-t="01:56:22">[01:56:22]</a>.# Open Relationships and Polyamory
+
+Open relationships and polyamory are forms of non-monogamy that allow individuals to engage in romantic and sexual relationships with multiple people at the same time <a class="yt-timestamp" data-t="06:08:12">[06:08:12]</a>. While the specific definitions can vary, an open relationship generally implies the ability to see people romantically and sexually outside of the primary partnership <a class="yt-timestamp" data-t="06:12:12">[06:12:12]</a>. Polyamory often implies the capacity to develop feelings for multiple individuals simultaneously, suggesting a deeper emotional connection beyond just sexual interactions <a class="yt-timestamp" data-t="01:11:08">[01:11:08]</a>. The speaker, who identifies as being in a non-monogamous relationship, noted that labels like "open" or "polyamorous" are "just words" <a class="yt-timestamp" data-t="01:13:28">[01:13:28]</a>, and their current relationship is considered "open" because they are not living with a third person <a class="yt-timestamp" data-t="01:13:36">[01:13:36]</a>.
+
+## Personal Experience and Motivations
+
+The individual in the discussion is engaged to their partner, Destiny, and they maintain a non-monogamous relationship <a class="yt-timestamp" data-t="05:54:15">[05:54:15]</a>. They met through a mutual friend on Twitch, and after connecting on Instagram, Destiny traveled to New Zealand to visit the speaker, who was traveling in a van at the time <a class="yt-timestamp" data-t="06:49:09">[06:49:09]</a>, <a class="yt-timestamp" data-t="09:56:07">[09:56:07]</a>. The speaker values their relationship with Destiny immensely, stating they "love him so much" and want to be with him for the rest of their life <a class="yt-timestamp" data-t="01:10:07">[01:10:07]</a>, <a class="yt-timestamp" data-t="01:10:49">[01:10:49]</a>.
+
+A primary motivation for their involvement in a non-monogamous relationship is the belief that it is a "beautiful thing" to allow their partner to experience love and life with multiple people, extending happiness beyond just themselves <a class="yt-timestamp" data-t="01:11:15">[01:11:15]</a>, <a class="yt-timestamp" data-t="01:17:17">[01:17:17]</a>, <a class="yt-timestamp" data-t="01:19:19">[01:19:19]</a>. They see themselves as a "giver" who likes to make people happy <a class="yt-timestamp" data-t="01:15:12">[01:15:12]</a>, <a class="yt-timestamp" data-t="01:58:29">[01:58:29]</a>.
+
+## [[challenges_and_experiences_in_nonmonogamous_relationships | Challenges and Experiences in Nonmonogamous Relationships]]
+
+Despite the positive intentions, the speaker has encountered significant [[challenges_and_experiences_in_nonmonogamous_relationships | challenges and experiences in nonmonogamous relationships]], particularly over the past year <a class="yt-timestamp" data-t="03:06:00">[03:06:00]</a>. They feel that people have been "disappointing" and have become "really mean" <a class="yt-timestamp" data-t="02:17:00">[02:17:00]</a>. This has led to a feeling of being used and a struggle to [[trust_and_relationship_dynamics | trust people]] <a class="yt-timestamp" data-t="02:30:00">[02:30:00]</a>, <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>, <a class="yt-timestamp" data-t="03:36:00">[03:36:00]</a>.
+
+### Jealousy and Sabotage
+
+A recurring issue is jealousy from others who become involved with their partner. These individuals have reportedly acted "really mean" or attempted to "sabotage" their relationship <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>, <a class="yt-timestamp" data-t="02:16:00">[02:16:00]</a>. Examples include intentionally trying to make the speaker feel bad or jealous <a class="yt-timestamp" data-t="02:33:00">[02:33:00]</a>, such as a person closing a door in their face while with Destiny, or mocking their Swedish nationality <a class="yt-timestamp" data-t="02:22:00">[02:22:00]</a>, <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>, <a class="yt-timestamp" data-t="03:22:00">[03:22:00]</a>. This behavior is perceived as "unfair" because the speaker feels they are giving happiness and allowing their partner to explore other connections <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>, <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a>. The core boundary for their relationship is that any third party must respect their relationship and not engage in mean or hateful behavior towards either partner <a class="yt-timestamp" data-t="02:50:00">[02:50:00]</a>.
+
+### Impact on [[trust_and_relationship_dynamics | Trust and Relationship Dynamics]]
+
+These negative experiences have left the speaker feeling scared of [[managing_expectations_in_new_relationships | meeting new people]] <a class="yt-timestamp" data-t="03:25:00">[03:25:00]</a> and have shifted their perception of others from positive to negative <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>. They feel a sense of "losing hope in people" <a class="yt-timestamp" data-t="03:37:00">[03:37:00]</a>. The speaker also expressed sadness over drama involving a streamer who lied and cheated on people, leading to significant online hate, even though they were not directly involved <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>, <a class="yt-timestamp" data-t="04:36:00">[04:36:00]</a>. This exposure to public negativity and the judgment of the internet is described as "insane" and "crazy" <a class="yt-timestamp" data-t="04:54:00">[04:54:00]</a>.
+
+The speaker's giving nature, learned from childhood experiences with a depressed mother and a father who withdrew from negative emotions, led them to feel responsible for making others happy <a class="yt-timestamp" data-t="05:58:00">[05:58:00]</a>, <a class="yt-timestamp" data-t="06:00:00">[06:00:00]</a>, <a class="yt-timestamp" data-t="07:06:00">[07:06:00]</a>. This ingrained tendency to prioritize others' happiness has made it painful when their openness is met with selfishness <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>.
+
+## Philosophical Perspectives
+
+### Monogamy vs. Non-Monogamy
+
+The speaker views monogamy as potentially involving "controlling" a partner's feelings <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>, something they find strange <a class="yt-timestamp" data-t="03:26:00">[03:26:00]</a>. The interviewer, however, clarifies that healthy monogamy is not about controlling feelings, but about *choosing* to restrain actions for the sake of the relationship <a class="yt-timestamp" data-t="03:08:00">[03:08:00]</a>, <a class="yt-timestamp" data-t="03:59:00">[03:59:00]</a>. Feelings, being natural, cannot be controlled, but actions can be <a class="yt-timestamp" data-t="03:50:00">[03:50:00]</a>.
+
+### The "Shakti" Analogy
+
+The interviewer introduces the concept of "Shakti" from Hindu tradition, describing it as the feminine word for energy or goddess <a class="yt-timestamp" data-t="01:16:16">[01:16:16]</a>. They suggest the speaker embodies Shakti, being a very energetic and giving person whom others are drawn to, as she freely gives her energy in a world where it's not freely given <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>. This often results in relationships becoming one-sided, where others take her "radiance" or energy <a class="yt-timestamp" data-t="01:19:50">[01:19:50]</a>. The speaker is likened to a sponge, absorbing the hurt and negativity of other people <a class="yt-timestamp" data-t="01:56:10">[01:56:10]</a>.
+
+### The "Ram and Krishna" Analogy
+
+Two incarnations of the Hindu God Vishnu are presented:
+*   **Ram:** Represents the ideal human being – kind, noble, honest, and giving. Ram prioritizes others' well-being, even divorcing his faithful wife Sita for the kingdom's trust <a class="yt-timestamp" data-t="01:11:19">[01:11:19]</a>, <a class="yt-timestamp" data-t="01:12:59">[01:12:59]</a>. Ram would not do "bad things for good reasons" <a class="yt-timestamp" data-t="01:17:42">[01:17:42]</a>.
+*   **Krishna:** Represents a more pragmatic approach. He is seen as a "player" and performs "shady things" for good reasons, adhering to codes only technically <a class="yt-timestamp" data-t="01:14:02">[01:14:02]</a>. Krishna puts himself first, believing "the ends justifies the means" <a class="yt-timestamp" data-t="01:17:00">[01:17:00]</a>, <a class="yt-timestamp" data-t="01:17:20">[01:17:20]</a>.
+
+The speaker is identified as more like Ram, a naturally good person who puts others ahead of themselves <a class="yt-timestamp" data-t="01:18:02">[01:18:02]</a>. The interviewer suggests that living like Ram leads to a "good life," but living like Krishna leads to a "happy life," implying the need for a balance between selflessness and self-interest <a class="yt-timestamp" data-t="01:18:07">[01:18:07]</a>.
+
+## Addressing Challenges
+
+### Setting Boundaries
+
+The interviewer advises the speaker to become "more selfish" and to learn to "set limits" to protect themselves from being drained dry by others <a class="yt-timestamp" data-t="01:19:29">[01:19:29]</a>. This involves being mindful of when to give and when not to give, bringing it under personal [[independence_and_relationship_decisions | control]] <a class="yt-timestamp" data-t="01:22:05">[01:22:05]</a>. It's suggested to view every interaction as a transaction: what are you giving, and what are you getting <a class="yt-timestamp" data-t="01:22:52">[01:22:52]</a>. In the context of an open relationship, this means being careful about who is allowed in <a class="yt-timestamp" data-t="01:23:13">[01:23:13]</a>.
+
+A crucial step is to engage in [[healthy_communication_in_relationships | healthy communication in relationships]], specifically with Destiny, about hurtful situations <a class="yt-timestamp" data-t="01:25:22">[01:25:22]</a>. The speaker's initial reluctance to discuss issues with Destiny out of concern for his happiness highlights their tendency to put him first <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>. The interviewer emphasizes that a healthy relationship means both partners prioritize each other, with each giving 60% and taking 40% <a class="yt-timestamp" data-t="01:25:52">[01:25:52]</a>. This involves sharing feelings, even if it might negatively impact the other person, with the expectation that they would reciprocate this openness <a class="yt-timestamp" data-t="01:26:27">[01:26:27]</a>.
+
+### Self-Care for Empaths
+
+For empathic individuals who absorb others' pain, it's essential to learn how to "squeeze out the water from their sponge" <a class="yt-timestamp" data-t="01:56:47">[01:56:47]</a>. This can involve:
+*   **Emotional Support:** Leaning on friends or family to process emotions <a class="yt-timestamp" data-t="01:50:35">[01:50:35]</a>. It's recommended to set a formal structure, like scheduling calls, to ensure consistent support during difficult times <a class="yt-timestamp" data-t="01:54:14">[01:54:14]</a>, <a class="yt-timestamp" data-t="01:54:20">[01:54:20]</a>.
+*   **Physical Practices:** Engaging in activities like yoga or meditation to develop the capacity to tolerate pain and manage emotions <a class="yt-timestamp" data-t="01:50:40">[01:50:40]</a>, <a class="yt-timestamp" data-t="01:53:04">[01:53:04]</a>.
+*   **Prioritizing Self:** Allocating time for personal reflection and [[navigating_selfidentity_and_relationships | self-development]], even if it feels "selfish" <a class="yt-timestamp" data-t="01:58:51">[01:58:51]</a>. This means reserving some "mana" (energy) for oneself rather than spending it all on others <a class="yt-timestamp" data-t="01:59:40">[01:59:40]</a>.
+
+It is also important to recognize that putting oneself first does not equate to neglecting others; there is a wide spectrum of support between complete self-sacrifice and neglect <a class="yt-timestamp" data-t="01:55:53">[01:55:53]</a>, <a class="yt-timestamp" data-t="01:56:22">[01:56:22]</a>.

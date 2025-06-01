@@ -1,0 +1,46 @@
+---
+title: Consumer neuroscience and technology use
+videoId: zBgCRJluWTc
+---
+
+From: [[healthygamergg]] <br/> 
+
+Engagement with [[technological_advancements_influencing_human_behavior | technology]] is not solely due to laziness or lack of discipline; it's deeply connected to one's internal emotional state and fatigue levels <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. Individuals may find themselves spending extensive hours on platforms like YouTube, leading to feelings of self-hatred and worthlessness when they fail to be productive <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. This often results in a desire to be "perfect" and despair when unable to meet personal expectations <a class="yt-timestamp" data-t="00:00:35">[00:00:35]</a>. This cycle of wanting to accomplish tasks but getting sidetracked by online content, then feeling self-loathing, is a common experience <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>.
+
+## The Field of Consumer Neuroscience
+
+A field known as consumer [[neuroscience_and_applied_neuroscience | neuroscience]] studies the brain using psychometrics, functional neuroimaging, and behavioral data to understand how to influence consumer behavior, including purchasing and continued internet use <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. This field aims to optimize strategies to engage people in what is termed the "internet attention market," where one's free will becomes a commodity <a class="yt-timestamp" data-t="00:03:54">[00:03:54]</a>. Research in this area includes studying brain activity to predict video engagement and the success of merchandising elements <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
+
+## The Brain and Extended Technology Use
+
+Initial engagement with [[impact_of_technology and external_stimuli | technology]] often occurs as a distraction from undesirable tasks, like homework <a class="yt-timestamp" data-t="00:04:31">[00:04:31]</a>. However, the puzzle lies in why individuals persist for five hours or more, even when it's no longer enjoyable <a class="yt-timestamp" data-t="00:04:42">[00:04:42]</a>.
+
+A key brain region involved is the **anterior insula** <a class="yt-timestamp" data-t="00:04:54">[00:04:54]</a>. This area is crucial for insight, awareness, and consciousness, including emotional awareness and self-regulation <a class="yt-timestamp" data-t="00:05:02">[00:05:02]</a>. Consumer [[neuroscience_and_applied_neuroscience | neuroscience]] research indicates that increased online spending and internet usage are *inversely correlated* with anterior insular activity <a class="yt-timestamp" data-t="00:05:38">[00:05:38]</a>. This suggests that the more aware a person is, the less likely they are to engage in extended technology use <a class="yt-timestamp" data-t="00:05:50">[00:05:50]</a>. Technology, particularly content designed for the "internet attention market," aims to reduce our awareness <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>. Videos, for example, are engaging to the extent that they allow individuals to "forget about everything else" <a class="yt-timestamp" data-t="00:06:26">[00:06:26]</a>. When the anterior insula shuts down, individuals are more likely to spend hours on platforms like YouTube <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+
+This phenomenon highlights that individuals are "outgunned" by sophisticated strategies designed to keep them engaged <a class="yt-timestamp" data-t="00:07:24">[00:07:24]</a>. There is an entire field of consumer [[neuroscience_and_applied_neuroscience | neuroscience]], with academics publishing papers and holding conferences, dedicated to learning how to use neuroimaging to influence behavior at points of sale and online <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
+
+## The Cycle of Technology Engagement and Self-Perception
+
+The problematic [[role_of_technology_in_emotional_distraction | emotional distraction]] cycle can be broken down into three stages:
+
+### 1. Why We Start Using Technology
+The decision to engage with [[impact_of_technology and external_stimuli | technology]] is strongly linked to one's internal emotional state <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>. Individuals are more likely to be productive when they feel confident, less fatigued, and experience positive emotions <a class="yt-timestamp" data-t="00:09:09">[00:09:09]</a>. [[impact_of_technology and external_stimuli | Technology]] often serves to suppress negative emotional circuitry, meaning the worse someone feels about themselves or the more fatigued they are, the more likely they are to use [[impact_of_technology and external_stimuli | technology]] <a class="yt-timestamp" data-t="00:09:30">[00:09:30]</a>. This is evident in phenomena like 24/7 online trading, which allows people to make impulsive financial decisions when they are fatigued, drunk, or otherwise dysregulated <a class="yt-timestamp" data-t="00:10:13">[00:10:13]</a>. The brain learns to use [[impact_of_technology and external_stimuli | technology]] as a self-soothing mechanism to shut down negative emotions <a class="yt-timestamp" data-t="00:11:11">[00:11:11]</a>.
+
+### 2. Why We Persist in Using Technology
+As [[impact_of_technology and external_stimuli | technology]] becomes more engaging, it suppresses the anterior insular cortex, leading to a loss of awareness <a class="yt-timestamp" data-t="00:11:26">[00:11:26]</a>. This explains how one hour of use can seamlessly turn into five or more, as seen in "one more turn" gaming scenarios where individuals lose track of time <a class="yt-timestamp" data-t="00:11:37">[00:11:37]</a>.
+
+### 3. The Aftermath and Continued Cycle
+After extended use, individuals tend to blame themselves, leading to feelings of self-hatred, incompetence, and a desire for perfection <a class="yt-timestamp" data-t="00:12:08">[00:12:08]</a>. This surge of negative emotion fuels procrastination, as it's difficult to focus on tasks when filled with self-loathing <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>. Much of what is labeled as procrastination stems from "incorrect emotional processing and incorrect emotional awareness" <a class="yt-timestamp" data-t="00:13:02">[00:13:02]</a>. This self-blame and lack of emotional processing sets the individual up for future failures, as motivation, inspiration, and confidence are undermined <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>. The cycle repeats, with mental fatigue leading back to [[impact_of_technology and external_stimuli | technology]] as a coping mechanism <a class="yt-timestamp" data-t="00:20:30">[00:20:30]</a>. The increasing commonality of this issue is not due to people becoming lazier, but because of the sophisticated manipulation within the attention marketplace <a class="yt-timestamp" data-t="00:20:49">[00:20:49]</a>.
+
+## Strategies for Addressing Technology Overuse
+
+To break this cycle, understanding what's happening in one's mind is crucial <a class="yt-timestamp" data-t="00:21:46">[00:21:46]</a>.
+
+### 1. Recognize Black-and-White Thinking
+Statements like "I'm a complete waste of space" or "other people are perfect" indicate black-and-white thinking <a class="yt-timestamp" data-t="00:14:25">[00:14:25]</a>. This type of thinking is a sign of emotional activity in the amygdala and hippocampus, meaning one is emotionally charged and not thinking logically <a class="yt-timestamp" data-t="00:14:36">[00:14:36]</a>. The world is nuanced, and recognizing this cognitive distortion is the first step to decompressing emotion <a class="yt-timestamp" data-t="00:14:58">[00:14:58]</a>.
+
+### 2. Become Emotionally Aware
+Ask yourself, "How do I feel about doing this task?" <a class="yt-timestamp" data-t="00:15:48">[00:15:48]</a>. Often, the immediate response is to dismiss feelings ("who cares how I feel, I need to do it") <a class="yt-timestamp" data-t="00:15:58">[00:15:58]</a>. This devaluing and suppression of emotions causes them to manifest in other ways, such as procrastination or excessive [[impact_of_technology and external_stimuli | technology]] use <a class="yt-timestamp" data-t="00:16:09">[00:16:09]</a>. Negative emotions must be dealt with, or "they will deal with you" <a class="yt-timestamp" data-t="00:16:23">[00:16:23]</a>.
+
+### 3. Acknowledge and Value Your Feelings
+By acknowledging what you want or care about and giving it value, it becomes easier to engage in the task <a class="yt-timestamp" data-t="00:16:50">[00:16:50]</a>. For example, instead of dismissing a child's desire for a particular food, acknowledging their want ("I understand what you want, I'm sorry I can't give it to you") leads to a more positive outcome <a class="yt-timestamp" data-t="00:17:49">[00:17:49]</a>. Similarly, speaking to oneself with compassion – "I'm sorry that you have to do this, it really sucks, I really appreciate that you're doing it, I'm grateful" – fosters better self-motivation and reduces self-blame <a class="yt-timestamp" data-t="00:18:36">[00:18:36]</a>.

@@ -1,0 +1,66 @@
+---
+title: Effects of dopamine and adenosine on motivation
+videoId: jiIhOgpOWcA
+---
+
+From: [[healthygamergg]] <br/> 
+
+Motivation often feels elusive during the day but surges at night, leading to a phenomenon sometimes referred to as the "fatigue groove" <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>, <a class="yt-timestamp" data-t="08:22:00">[08:22:00]</a>. This article explores the neuroscience and psychology behind why motivation peaks when going to bed, but actions rarely follow when waking up <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>, <a class="yt-timestamp" data-t="00:27:00">[00:27:00]</a>.
+
+## Neuroscience of Motivation and Fatigue
+
+### The Nucleus Accumbens and Dopamine
+
+The [[neuroscience_of_motivation_and_fatigue_grooves | nucleus accumbens]] is a critical part of the brain that manages reward and behavior, forming part of the brain's [[understanding_dopamine_and_its_role_in_motivation | dopamine circuits]] <a class="yt-timestamp" data-t="01:07:00">[01:07:00]</a>, <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>. While [[understanding_dopamine_and_its_role_in_motivation | dopamine]] is often discussed in relation to [[effects_of_dopamine_on_behavior_and_addiction | addiction]] (e.g., to video games) <a class="yt-timestamp" data-t="01:24:00">[01:24:00]</a>, its function is more complex than commonly understood <a class="yt-timestamp" data-t="01:37:00">[01:37:00]</a>.
+
+An experiment involving mice demonstrated the interplay of dopamine and adenosine in this region:
+*   Mice generally preferred a high-carbohydrate, "twinkie" pellet, even if it required more effort to obtain than regular food <a class="yt-timestamp" data-t="01:54:00">[01:54:00]</a>, <a class="yt-timestamp" data-t="02:06:00">[02:06:00]</a>.
+*   When a dopamine blocker was injected into the nucleus accumbens, mice showed no preference for the high-energy pellet, effectively losing their motivation for it <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>, <a class="yt-timestamp" data-t="03:39:00">[03:39:00]</a>.
+*   However, when adenosine was also blocked in the nucleus accumbens, the mice reverted to preferring the high-energy pellet <a class="yt-timestamp" data-t="03:48:00">[03:48:00]</a>, <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>.
+
+### Adenosine: The Dopamine Counter
+
+[[understanding_dopamine_and_its_role_in_motivation | Adenosine]] is a waste product in the brain, resulting from the burning of ATP (adenosine triphosphate), the brain's fuel <a class="yt-timestamp" data-t="04:22:00">[04:22:00]</a>, <a class="yt-timestamp" data-t="04:29:00">[04:29:00]</a>. Throughout the day, adenosine levels in the brain slowly climb, leading to increased feelings of fatigue. During sleep, the brain clears adenosine <a class="yt-timestamp" data-t="04:56:00">[04:56:00]</a>, <a class="yt-timestamp" data-t="05:02:00">[05:02:00]</a>.
+
+[[understanding_dopamine_and_its_role_in_motivation | Dopamine]] levels, in contrast, tend to be higher in the morning when people feel excited to engage in activities like playing games, but they decrease as the day progresses, leading to boredom <a class="yt-timestamp" data-t="05:21:00">[05:21:00]</a>, <a class="yt-timestamp" data-t="05:35:00">[05:35:00]</a>, <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>.
+
+There are three key states relating to dopamine and adenosine throughout the day:
+1.  **High Dopamine and Low Adenosine (AM):** This state characterizes the early morning when dopamine's pull is strong, making activities like gaming or browsing highly tempting <a class="yt-timestamp" data-t="06:25:00">[06:25:00]</a>, <a class="yt-timestamp" data-t="10:31:00">[10:31:00]</a>. It's harder to focus on demanding tasks due to the ease of distraction <a class="yt-timestamp" data-t="08:08:00">[08:08:00]</a>.
+2.  **Low Dopamine and High Adenosine (PM/Fatigue Groove):** As adenosine builds up, it blunts the effect of dopamine, making dopaminergic activities less appealing <a class="yt-timestamp" data-t="06:36:00">[06:36:00]</a>, <a class="yt-timestamp" data-t="10:45:00">[10:45:00]</a>. This is the "fatigue groove," where despite being tired, it becomes easier to focus on less stimulating, productive work because the brain is less susceptible to immediate gratification <a class="yt-timestamp" data-t="08:11:00">[08:11:00]</a>, <a class="yt-timestamp" data-t="11:15:00">[11:15:00]</a>. This explains why people might start studying late in the evening after procrastinating all day <a class="yt-timestamp" data-t="07:30:00">[07:30:00]</a>, <a class="yt-timestamp" data-t="11:19:00">[11:19:00]</a>.
+3.  **Low Dopamine and Low Adenosine (Ideal Productive State):** This is the ideal state for high-quality, focused work. It's when the mind is fresh (low adenosine) and not distracted by dopaminergic urges (low dopamine) <a class="yt-timestamp" data-t="22:50:00">[22:50:00]</a>, <a class="yt-timestamp" data-t="22:53:00">[22:53:00]</a>. This state is typically experienced early in the morning before engaging with technology or other distractions <a class="yt-timestamp" data-t="21:29:00">[21:29:00]</a>, <a class="yt-timestamp" data-t="21:52:00">[21:52:00]</a>.
+
+## The Cost of Motivation: Future Discounting and Opportunity Cost
+
+At night, motivation can skyrocket without consequence because there's no immediate "cost" to act on it <a class="yt-timestamp" data-t="12:46:00">[12:46:00]</a>. Thinking about grand goals like writing a novel at night feels inspiring because the effort isn't immediately required, and there's no opportunity cost <a class="yt-timestamp" data-t="13:03:00">[13:03:00]</a>, <a class="yt-timestamp" data-t="14:51:00">[14:51:00]</a>. The brain can indulge in "free" motivation and unrealistic expectations <a class="yt-timestamp" data-t="15:07:00">[15:07:00]</a>.
+
+In the morning, however, there's an immediate opportunity cost. The brain performs a "behavioral calculation" comparing long-term, uncertain gains (like writing a novel, which takes many hours to show progress) against immediate, certain gains (like playing a video game, which provides instant [[understanding_dopamine_and_its_role_in_motivation | dopamine]] hits) <a class="yt-timestamp" data-t="13:13:00">[13:13:00]</a>, <a class="yt-timestamp" data-t="14:05:00">[14:05:00]</a>, <a class="yt-timestamp" data-t="14:34:00">[14:34:00]</a>. This tendency to choose immediate gratification over future rewards is known as [[dopamines_role_in_adhd_and_addiction | future discounting]] <a class="yt-timestamp" data-t="17:07:00">[17:07:00]</a>, <a class="yt-timestamp" data-t="17:18:00">[17:18:00]</a>. The overwhelming nature of large tasks combined with the immediate availability of dopamine-releasing activities makes it difficult to start productive work <a class="yt-timestamp" data-t="15:47:00">[15:47:00]</a>, <a class="yt-timestamp" data-t="15:53:00">[15:53:00]</a>.
+
+## Cultivating Productive States of Mind
+
+The increase in motivation at night and in low-distraction environments (like the shower) is akin to what ancient yogic traditions understood about mental states <a class="yt-timestamp" data-t="17:51:00">[17:51:00]</a>, <a class="yt-timestamp" data-t="19:49:00">[19:49:00]</a>. These "shower thoughts" or bursts of motivation in bed arise from a state of consciousness free from mental distraction and physical roteness <a class="yt-timestamp" data-t="18:05:00">[18:05:00]</a>, <a class="yt-timestamp" data-t="19:13:00">[19:13:00]</a>, <a class="yt-timestamp" data-t="19:21:00">[19:21:00]</a>.
+
+To cultivate this [[the_importance_of_dopamine_reserves_for_sustained_effort | motivation]] and high-quality thinking during the day, one should aim for a state of low dopamine and low adenosine <a class="yt-timestamp" data-t="23:57:00">[23:57:00]</a>, <a class="yt-timestamp" data-t="24:00:00">[24:00:00]</a>. This involves:
+*   **Avoiding the Dopamine Train:** Minimize engaging in dopaminergic activities like checking phones, social media, or video games, especially early in the day <a class="yt-timestamp" data-t="21:04:00">[21:04:00]</a>, <a class="yt-timestamp" data-t="21:10:00">[21:10:00]</a>, <a class="yt-timestamp" data-t="22:03:00">[22:03:00]</a>. Even 15 minutes on a phone can drastically reduce productivity <a class="yt-timestamp" data-t="21:34:00">[21:34:00]</a>.
+*   **Creating Mental Space:** Engage in activities that provide "mental space" by eliminating mental distractions and promoting a sense of "being with yourself" <a class="yt-timestamp" data-t="23:01:00">[23:01:00]</a>, <a class="yt-timestamp" data-t="24:23:00">[24:23:00]</a>, <a class="yt-timestamp" data-t="24:30:00">[24:30:00]</a>.
+*   **Physical Grounding/Routineness:** Incorporate activities with a physical grounding aspect that doesn't demand full mental attention. Examples include:
+    *   Showering <a class="yt-timestamp" data-t="18:05:00">[18:05:00]</a>
+    *   Lying in bed <a class="yt-timestamp" data-t="19:03:00">[19:03:00]</a>
+    *   Walking in nature <a class="yt-timestamp" data-t="20:22:00">[20:22:00]</a>, <a class="yt-timestamp" data-t="23:12:00">[23:12:00]</a>
+    *   Cooking, cleaning, exercising, doing yoga <a class="yt-timestamp" data-t="28:12:00">[28:12:00]</a>, <a class="yt-timestamp" data-t="46:18:00">[46:18:00]</a>
+    Activities like rock climbing that require intense mental focus won't achieve this state <a class="yt-timestamp" data-t="23:21:00">[23:21:00]</a>.
+
+## Practical Techniques for Managing Dopaminergic Impulses
+
+[[techniques_to_manage_dopaminergic_impulses | Behavioral change]] stems from understanding, not just information transmission <a class="yt-timestamp" data-t="25:27:00">[25:27:00]</a>, <a class="yt-timestamp" data-t="25:31:00">[25:31:00]</a>. To implement these changes:
+*   **Experiment and Understand:** Observe your own patterns. Do you experience the fatigue groove? What happens when you wake up? <a class="yt-timestamp" data-t="26:01:00">[26:01:00]</a>.
+*   **Avoid Technology in the Morning:** The biggest culprit for the dopamine train is the phone. Keep devices out of arm's reach or even in a different room <a class="yt-timestamp" data-t="32:23:00">[32:23:00]</a>, <a class="yt-timestamp" data-t="32:48:00">[32:48:00]</a>.
+*   **Separate Work and Dopaminergic Activities:**
+    *   If your work involves a computer, consider using a separate computer for work and gaming, or at least physically distinct "stations" or "desks" <a class="yt-timestamp" data-t="40:07:00">[40:07:00]</a>, <a class="yt-timestamp" data-t="41:37:00">[41:37:00]</a>.
+    *   Use different user logins for professional and personal activities to anchor your mind to a specific mode <a class="yt-timestamp" data-t="42:38:00">[42:38:00]</a>.
+    *   Disable distracting feeds and notifications on your devices <a class="yt-timestamp" data-t="43:03:00">[43:03:00]</a>, <a class="yt-timestamp" data-t="43:06:00">[43:06:00]</a>.
+    *   If possible, have separate devices for work and personal use to prevent the blending of activities <a class="yt-timestamp" data-t="43:09:00">[43:09:00]</a>.
+*   **Set Boundaries:** Just like rats in "Calhoun's Utopia" experiments who maintained sanity by creating walled-off spaces <a class="yt-timestamp" data-t="44:14:00">[44:14:00]</a>, <a class="yt-timestamp" data-t="44:44:00">[44:44:00]</a>, humans benefit from setting boundaries with technology and relationships <a class="yt-timestamp" data-t="45:15:00">[45:15:00]</a>, <a class="yt-timestamp" data-t="45:45:00">[45:45:00]</a>.
+*   **Focus on the "Next Best Step":** When faced with overwhelming tasks or the pull of distraction, ask yourself, "What is the next best thing I can do?" <a class="yt-timestamp" data-t="35:35:00">[35:35:00]</a>, <a class="yt-timestamp" data-t="36:06:00">[36:06:00]</a>. This meditation practice acknowledges that perfection isn't required and helps initiate tiny, manageable steps <a class="yt-timestamp" data-t="36:19:00">[36:19:00]</a>. The goal is to "board the train" of a productive activity, as the initial resistance is often the hardest part <a class="yt-timestamp" data-t="37:08:00">[37:08:00]</a>.
+*   **Resetting Sleep Cycle:** If your sleep schedule is off, it's easier to stay awake longer than to force sleep earlier <a class="yt-timestamp" data-t="30:20:00">[30:20:00]</a>. To reset, stay awake until early evening (e.g., 6-7 p.m.) and then go to bed, setting an alarm for a consistent wake-up time (e.g., 6-7 a.m.) <a class="yt-timestamp" data-t="31:17:00">[31:17:00]</a>, <a class="yt-timestamp" data-t="31:45:00">[31:45:00]</a>. This helps clear adenosine and align your circadian rhythm <a class="yt-timestamp" data-t="05:02:00">[05:02:00]</a>.
+
+By understanding the interplay of dopamine and adenosine and implementing conscious strategies to manage them, individuals can cultivate states of mind conducive to high-quality work and sustained motivation, rather than relying on the "fatigue groove" <a class="yt-timestamp" data-t="26:47:00">[26:47:00]</a>, <a class="yt-timestamp" data-t="26:51:00">[26:51:00]</a>.
