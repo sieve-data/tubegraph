@@ -1,0 +1,39 @@
+---
+title: Benthamite influence on Australian political institutions
+videoId: BB0fiijMLAI
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+Australia's electoral system and its administration are unique among English-speaking democracies <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. Unlike others, Australia employs compulsory voting, preferential voting, and was the first country to establish an independent and professional electoral administration, even inventing the "Australian ballot" in the mid-19th century <a class="yt-timestamp" data-t="00:00:15">[00:00:15]</a>. This distinctive system is deeply rooted in Australia's political culture, which has been described as "majoritarian and bureaucratic" <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>.
+
+## Australia as a Benthamite Society
+
+Historian H. C. Coombs characterized Australia as a "Benthamite society" <a class="yt-timestamp" data-t="02:00:09">[02:00:09]</a>. This perspective suggests that when Australia's political institutions were being established, the dominant philosophical influence was Jeremy Bentham's utilitarianism <a class="yt-timestamp" data-t="02:06:03">[02:06:03]</a>. This contrasts sharply with the United States, where institutions were founded under the influence of John Locke's ideas of social contract theory and natural rights <a class="yt-timestamp" data-t="02:17:49">[02:17:49]</a>.
+
+A key distinction identified by John Hirst, a political historian, was that Lockean theory posits individuals as the source of government authority, making it illogical for the government to compel voting <a class="yt-timestamp" data-t="03:54:07">[03:54:07]</a>. In a Benthamite view, however, rights are seen as being granted by the government, rather than existing prior to it <a class="yt-timestamp" data-t="06:06:01">[06:06:01]</a>. Since Australia was fundamentally established by the British government, the focus for political reformers was on making the existing governmental structures more responsive and efficient for the benefit of a greater number of people <a class="yt-timestamp" data-t="06:22:04">[06:22:04]</a>.
+
+### Direct Philosophical Influences
+
+While Bentham's "way of thinking" was generally "in the air" <a class="yt-timestamp" data-t="07:47:00">[07:47:00]</a>, direct examples of his influence on Australia's political institutions exist beyond electoral systems:
+*   **Secret Ballot**: Henry Chapman, who designed the secret ballot in Victoria, was explicitly influenced by Bentham's ideas <a class="yt-timestamp" data-t="02:42:01">[02:42:01]</a>.
+*   **Proportional Representation**: Catherine Spence's ideas on proportional representation were shaped by her reading of John Stuart Mill, another prominent utilitarian <a class="yt-timestamp" data-t="02:49:03">[02:49:03]</a>.
+
+### Broader Cultural and Historical Factors
+
+Beyond direct philosophical lineage, other factors reinforced this Benthamite character:
+
+*   **Government as a Benevolent Provider**: For the first century of Australian history, the British government largely funded the colonial governments, leading to low taxation for settlers <a class="yt-timestamp" data-t="09:00:01">[09:00:01]</a>. This fostered an attitude, as described by W.K. Hancock, that Australians viewed government as a "large public utility for the service of individual interests" <a class="yt-timestamp" data-t="09:56:07">[09:56:07]</a>. Government was seen as potentially benevolent, entrusted with building infrastructure (like railways) and assisting migration, rather than as a potentially oppressive entity <a class="yt-timestamp" data-t="10:45:00">[10:45:00]</a>. This cultural disposition weighed more heavily than philosophical influence in shaping the early political culture <a class="yt-timestamp" data-t="11:30:00">[11:30:00]</a>.
+*   **Chartism's Legacy**: The Chartism movement in Britain, a working-class political movement from the 1830s, advocated for universal manhood suffrage and the secret ballot <a class="yt-timestamp" data-t="06:40:00">[06:40:00]</a>. Many immigrants to Victoria were influenced by Chartism, which itself was partly shaped by Bentham's ideas, promoting efficiency and representation within the existing system <a class="yt-timestamp" data-t="07:33:00">[07:33:00]</a>.
+
+## Connecting Culture to Electoral Innovations
+
+Australia's [[australias_electoral_system_and_its_uniqueness | unique electoral system]] can be seen as a direct consequence of this majoritarian and bureaucratic culture.
+
+*   **Compulsory Voting**: The concept of [[the_role_of_compulsory_voting_in_australia | compulsory voting]] aligns with the majoritarian desire for governments to have the support of the majority of all voters, not just those who choose to participate <a class="yt-timestamp" data-t="19:02:00">[19:02:00]</a>. The absence of strong philosophical arguments against compulsory voting, such as concerns about liberty or individual freedom, was notable in early debates <a class="yt-timestamp" data-t="19:30:00">[19:30:00]</a>. Once compulsory registration was established in 1911, making the electoral roll permanent and comprehensive, compulsory voting became almost inevitable due to administrative efficiency and the desire for maximum participation <a class="yt-timestamp" data-t="43:48:00">[43:48:00]</a>. It is both a cause and a consequence of Australia's majoritarianism, strengthening the tendency over time <a class="yt-timestamp" data-t="18:27:00">[18:27:00]</a>.
+*   **Preferential Voting**: [[the_development_and_impact_of_preferential_voting_in_australia | Preferential voting]] also serves as an agent of this majoritarian culture <a class="yt-timestamp" data-t="23:51:00">[23:51:00]</a>. Initially championed by farmer organizations to prevent the splitting of non-Labor votes in three-cornered contests, it has allowed various identifiable interest groups to be represented within the electoral system over the years <a class="yt-timestamp" data-t="47:35:00">[47:35:00]</a>. This system, combined with proportional representation in the Senate, offers flexibility, accommodating increased social complexity and ensuring minority interests are visible and engaged within the political system rather than being marginalized <a class="yt-timestamp" data-t="49:57:00">[49:57:00]</a>.
+*   **Bureaucracy and Egalitarianism**: The [[australian_egalitarianism_and_its_historical_context | egalitarian strand]] of Australian culture, stemming from factors like early labor shortages and the gold rushes, converged with the bureaucratic state <a class="yt-timestamp" data-t="12:19:00">[12:19:00]</a>. Bureaucracies, being impersonal and meritocratic, were inherently democratic in their opposition to a status-based society where positions were distributed by birthright or personal networks <a class="yt-timestamp" data-t="13:30:00">[13:30:00]</a>. This facilitated the creation and maintenance of an egalitarian society through redistribution, which necessitated a bureaucracy <a class="yt-timestamp" data-t="13:16:00">[13:16:00]</a>. The early development of an independent and professional electoral administration, exemplified by South Australian innovator William Boothby, reflects this trust in impersonal, impartial public servants to run elections <a class="yt-timestamp" data-t="51:53:00">[51:53:00]</a>.
+
+## Enduring Legacy
+
+While [[economic_reforms_in_australia | neoliberalism]] since the 1980s has led to increased inequality and a decline in trust in political institutions, impacting the effectiveness of the majoritarian and egalitarian culture <a class="yt-timestamp" data-t="12:00:00">[12:00:00]</a>, the foundational Benthamite influence continues to shape Australia's political landscape. The system, with its emphasis on broad participation and pragmatic governance, serves as a stabilizer against the kind of political polarization seen in other democracies <a class="yt-timestamp" data-t="01:06:05">[01:06:05]</a>.

@@ -1,0 +1,74 @@
+---
+title: Australias selfreliant defense strategies
+videoId: Uq9n62A07mE
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+History is currently undergoing significant shifts. For over a century, the United States has not faced an adversary or coalition whose GDP exceeded 60% of its own GDP. This threshold was not even crossed by the combined forces of Japan and Germany during World War II, nor by the Soviet Union at its peak. However, China surpassed this 60% threshold in 2014 and, on a purchasing power parity basis, exceeded US GDP entirely in 2017, now being more than 20% larger <a class="yt-timestamp" data-t="00:00:10">[00:00:10]</a>. This economic power is inevitably being converted into military might <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+
+A key concern for Australia is whether the United States will have the resolve to fight China for dominance in Asia. It is believed that the US lacks vital interests in the region <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>, meaning that for the first time in its history, Australia may find itself without the protection of a great power <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a>. Australia has long held the belief, likely correctly, that it cannot independently defend its continent from attack by a major Asian power <a class="yt-timestamp" data-t="00:01:15">[00:01:15]</a>.
+
+## The [[the_akidna_strategy_for_australia|Akidna Strategy]]
+
+Sam Roggeveen, Director of the Lowy Institute's International Security Program and author of "The Akidna Strategy," argues that Australia can defend itself without significantly increasing defense spending as a percentage of GDP <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. He names this approach the [[the_akidna_strategy_for_australia|Akidna Strategy]], suggesting Australia should aim to become "spiky but not threatening" and exploit its geographic distance from China <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+This strategy emphasizes self-reliance regardless of whether the US fully withdraws from Asia or enters a power-sharing relationship with China <a class="yt-timestamp" data-t="00:25:22">[00:25:22]</a>. While a US presence in a power-sharing capacity would still divert Chinese resources <a class="yt-timestamp" data-t="00:26:04">[00:26:04]</a>, the core principle of Australian self-defense remains constant.
+
+### Strategic Justification and Provocation
+The [[the_akidna_strategy_for_australia|Akidna Strategy]] is based on the idea that Australia can be spiky without being provocative <a class="yt-timestamp" data-t="00:27:49">[00:27:49]</a>. Some argue that agreements like [[impact_of_aukus_on_australias_stance_towards_nuclear_power|AUKUS]] are provocative to China <a class="yt-timestamp" data-t="00:27:58">[00:27:58]</a>. For example, the proposed acquisition of eight nuclear-powered submarines would significantly augment America's seaborn deterrent, carrying 18 to 24 cruise missiles capable of hitting land targets in China <a class="yt-timestamp" data-t="00:28:36">[00:28:36]</a>. These submarines could also pose a threat to China's ballistic missile submarines (SSBNs), which are crucial for their nuclear deterrent <a class="yt-timestamp" data-t="00:29:41">[00:29:41]</a>. This capability could be seen as a serious upgrade in Australian military power <a class="yt-timestamp" data-t="00:29:57">[00:29:57]</a>.
+
+However, the strategy's goal is to exploit Australia's geographic distance <a class="yt-timestamp" data-t="00:46:20">[00:46:20]</a>, making it difficult and expensive for a major power to project military force against Australia <a class="yt-timestamp" data-t="00:35:05">[00:35:05]</a>. The core mission is to develop the capability to sink many ships and shoot down many planes <a class="yt-timestamp" data-t="00:35:18">[00:35:18]</a>, which is a straightforward and relatively inexpensive objective <a class="yt-timestamp" data-t="00:35:28">[00:35:28]</a>.
+
+### Force Structure
+Under an [[the_akidna_strategy_for_australia|Akidna Strategy]], the focus is on capabilities that perform specific defensive jobs, rather than acquiring specific platforms for their own sake <a class="yt-timestamp" data-t="00:39:35">[00:39:35]</a>. The primary jobs are sinking ships and other submarines <a class="yt-timestamp" data-t="00:39:40">[00:39:40]</a>.
+A balanced force structure would include:
+*   **Submarines**: While Australia currently has six Collins-class submarines and plans for eight nuclear-powered submarines under [[impact_of_aukus_on_australias_stance_towards_nuclear_power|AUKUS]], a self-reliant strategy would ideally require 8-12 submarines to cover main thoroughfares between Australia and Indonesia <a class="yt-timestamp" data-t="00:38:50">[00:38:50]</a>. Submarines are primarily wartime weapons, excellent at sinking ships <a class="yt-timestamp" data-t="00:39:53">[00:39:53]</a>.
+*   **Maritime patrol aircraft** <a class="yt-timestamp" data-t="00:40:51">[00:40:51]</a>
+*   **Fast jets** <a class="yt-timestamp" data-t="00:40:56">[00:40:56]</a>
+*   **Some surface ships** <a class="yt-timestamp" data-t="00:40:56">[00:40:56]</a>
+*   **Land-based anti-ship weapons**: A new area of focus for Australia <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>.
+
+The strategy also acknowledges the current era of defensive dominance in military technology, where defensive technologies are significantly cheaper than offensive ones <a class="yt-timestamp" data-t="00:33:01">[00:33:01]</a>. While drone warfare might seem to favor offense, the war in Ukraine demonstrates that large surface ships are increasingly vulnerable to anti-shipping missiles and drones, supporting the idea that projecting power via large ships is risky and expensive <a class="yt_timestamp" data-t="00:34:48">[00:34:48]</a>.
+
+## Alliance with [[australiaindonesia_strategic_relations|Indonesia]]
+
+A top priority for Australian statecraft should be an [[australiaindonesia_strategic_relations|alliance with Indonesia]], even if not in formal terms <a class="yt-timestamp" data-t="00:41:29">[00:41:29]</a>. Australia benefits from its geographic distance from China <a class="yt-timestamp" data-t="00:41:50">[00:41:50]</a>, but this advantage does not apply to [[australiaindonesia_strategic_relations|Indonesia]] <a class="yt-timestamp" data-t="00:42:00">[00:42:00]</a>. Historically, Australia has benefited from [[australiaindonesia_strategic_relations|Indonesia]] being relatively poor and primarily a land power <a class="yt-timestamp" data-t="00:42:14">[00:42:14]</a>. However, [[australiaindonesia_strategic_relations|Indonesia]] is projected to become much wealthier, potentially a great power by the middle of the century <a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a>.
+
+There is currently no resident great power in Southeast Asia <a class="yt-timestamp" data-t="00:42:56">[00:42:56]</a>, making it a natural area for Chinese ambition <a class="yt-timestamp" data-t="00:43:04">[00:43:04]</a>. It is in Australia's vital interest for [[australiaindonesia_strategic_relations|Indonesia]] to fill this role and for Australia to be aligned with it <a class="yt-timestamp" data-t="00:43:22">[00:43:22]</a>. The worst outcome for Australia would be a wealthy and hostile [[australiaindonesia_strategic_relations|Indonesia]] <a class="yt-timestamp" data-t="00:43:52">[00:43:52]</a>.
+
+An [[australiaindonesia_strategic_relations|alliance with Indonesia]] should be based on purely and narrowly defensive, solely maritime ambitions, without capabilities for power projection onto land masses <a class="yt-timestamp" data-t="00:47:06">[00:47:06]</a>. This approach aims to communicate a defensive intent <a class="yt-timestamp" data-t="00:48:37">[00:48:37]</a>.
+
+The challenges to this [[australiaindonesia_strategic_relations|alliance]] lie primarily on the Indonesian side due to its small strategic community and a historical focus northward rather than southward for security concerns <a class="yt-timestamp" data-t="00:52:48">[00:52:48]</a>. Furthermore, [[australiaindonesia_strategic_relations|Indonesia]]'s [[australias_state_capacity_and_government_efficiency|state capacity]] is still low, impacting its defense modernization <a class="yt-timestamp" data-t="00:54:51">[00:54:51]</a>. Australia's existing military and technological edge offers valuable leverage for an [[australiaindonesia_strategic_relations|alliance]] <a class="yt-timestamp" data-t="00:53:57">[00:53:57]</a>.
+
+## Australia and Nuclear Weapons
+
+There is significant [[public_opinion_on_australia_acquiring_nuclear_weapons|public opinion on nuclear weapons in Australia]], with about 36% of Australians supporting or strongly supporting their acquisition in a 2022 poll <a class="yt-timestamp" data-t="00:56:48">[00:56:48]</a>. This may be partly influenced by the lack of strong [[reactions_to_australias_potential_nuclear_developments|public reaction to nuclear power]] following the [[impact_of_aukus_on_australias_stance_towards_nuclear_power|AUKUS]] announcement <a class="yt-timestamp" data-t="00:57:05">[00:57:05]</a>.
+
+### [[prerequisites_for_australia_to_consider_acquiring_nuclear_weapons|Preconditions for Acquiring Nuclear Weapons]]
+Australia would likely only consider acquiring nuclear weapons if proliferation occurred elsewhere first <a class="yt-timestamp" data-t="00:59:35">[00:59:35]</a>. Given its relative distance from China compared to Japan, South Korea, and Taiwan, Australia has less immediate security concerns than these countries <a class="yt-timestamp" data-t="00:59:56">[00:59:56]</a>.
+The primary [[prerequisites_for_australia_to_consider_acquiring_nuclear_weapons|preconditions for Australia to consider acquiring nuclear weapons]] would be:
+1.  **Proliferation in Northeast Asia**: Japan and likely South Korea would need to acquire nuclear weapons first <a class="yt-timestamp" data-t="01:00:12">[01:00:12]</a>. Taiwan is unlikely to do so due to the difficulty of keeping such a program secret and the risk of Chinese invasion <a class="yt-timestamp" data-t="01:00:21">[01:00:21]</a>.
+2.  **Indonesian Acquiescence/Cooperation**: [[australiaindonesia_strategic_relations|Indonesia]] would need to be amenable to Australia acquiring nuclear weapons <a class="yt-timestamp" data-t="01:01:17">[01:01:17]</a>. Without Indonesian cooperation, the problems created with [[australiaindonesia_strategic_relations|Indonesia]] would outweigh any benefits gained against China <a class="yt-timestamp" data-t="01:01:40">[01:01:40]</a>.
+
+### Credibility of Extended Nuclear Deterrence
+The credibility of America's extended nuclear deterrence (the "nuclear umbrella") for allies like Australia is diminishing <a class="yt-timestamp" data-t="01:02:34">[01:02:34]</a>. With countries like North Korea acquiring intercontinental ballistic missile (ICBM) capabilities, the US would be asked to risk its own cities (e.g., Seattle or Los Angeles) to defend an ally (e.g., Seoul) <a class="yt-timestamp" data-t="01:04:07">[01:04:07]</a>. This is seen as an impossible and unreasonable request <a class="yt-timestamp" data-t="01:04:30">[01:04:30]</a>. South Korea has already drawn this conclusion and is developing more independent capabilities <a class="yt-timestamp" data-t="01:05:36">[01:05:36]</a>. Australia and Japan, however, have largely sought to tie themselves more closely to the US through agreements like [[impact_of_aukus_on_australias_stance_towards_nuclear_power|AUKUS]] <a class="yt-timestamp" data-t="01:05:50">[01:05:50]</a>.
+
+Despite concerns about the credibility of extended deterrence, Australia might still be able to "call China's bluff" on nuclear threats due to the high global taboo against nuclear use <a class="yt-timestamp" data-t="01:09:29">[01:09:29]</a>. Nuclear blackmail is only effective if the threat is believed <a class="yt-timestamp" data-t="01:12:09">[01:12:09]</a>.
+
+## Other Aspects of Self-Reliance
+
+### Economic Coercion
+Australia's response to Chinese economic coercion in recent years (2020-2023) is a good example of an [[the_akidna_strategy_for_australia|Akidna Strategy]] in action <a class="yt-timestamp" data-t="01:35:00">[01:35:00]</a>. Australia did not retaliate, nor did it give in, effectively absorbing the pressure while maintaining its core foreign policy interests <a class="yt-timestamp" data-t="01:36:08">[01:36:08]</a>.
+
+### Pacific Islands Engagement
+Australian policy in the Pacific Islands has been notably successful and bipartisan, exemplified by programs like the Pacific Step Up <a class="yt-timestamp" data-t="01:37:19">[01:37:19]</a>. Through aid efforts, geographic proximity, and cultural/political ties, Australia is aligning Pacific Island countries and making it harder for China to impose its interests in the region <a class="yt-timestamp" data-t="01:37:42">[01:37:42]</a>. The Pacific Islands matter more to Australia as a first-order priority than to China, for whom it is a third-order priority <a class="yt-timestamp" data-t="01:38:25">[01:38:25]</a>.
+
+### Cyber Warfare
+While cyber warfare is distance-agnostic and thus an exception to Australia's geographic advantage, current evidence suggests it is not militarily decisive on its own <a class="yt-timestamp" data-t="01:39:16">[01:39:16]</a>. The Ukraine war showed that despite Russian cyber capabilities, physical violence via high explosives was ultimately resorted to for infrastructure attacks <a class="yt-timestamp" data-t="01:40:06">[01:40:06]</a>.
+
+## A New Narrative for Australia
+
+Australia's defense policy, particularly the [[impact_of_aukus_on_australias_stance_towards_nuclear_power|AUKUS]] arrangement, is arguably against the historical trend of Australia's engagement with Asia <a class="yt-timestamp" data-t="01:14:02">[01:14:02]</a>. Australia has been utterly transformed by Asian immigration, its economy is Asia-focused, and its foreign policy is thoroughly Asia-focused <a class="yt-timestamp" data-t="01:14:13">[01:14:13]</a>. Defense policy remains a "hold out" that goes against this trend <a class="yt-timestamp" data-t="01:15:07">[01:15:07]</a>.
+
+A new narrative for Australia should move beyond a "fear of abandonment" and embrace ambition and independence <a class="yt-timestamp" data-t="01:30:29">[01:30:29]</a>. This means being a confident, independent nation, aligned with the US but not dependent on it <a class="yt-timestamp" data-t="01:21:23">[01:21:23]</a>. Future shocks, such as the relative decline of American power in Asia, may force Australia to become more self-reliant and free <a class="yt-timestamp" data-t="01:15:43">[01:15:43]</a>. An ambitious Australia should aim to be a beacon of post-war liberal democracy in a world increasingly moving towards illiberal forms of democracy <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>.

@@ -1,0 +1,22 @@
+---
+title: Effects of low temperatures on cells
+videoId: m_-VGnyTqw8
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+Cells inherently operate in a state of constant molecular motion, functioning as a "bag of molecules" that are continually being shaken <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Unlike human-designed objects where components are typically fixed in specific locations, a cell's operations rely on molecules bouncing about in random directions <a class="yt-timestamp" data-t="00:00:03">[00:00:03]</a><a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a><a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. This fundamental property of [[cellular_properties_and_evolution | cellular properties]] provides a unique resilience when subjected to extreme conditions, particularly low temperatures <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+
+## Cryopreservation and Molecular Randomization
+
+The ability to [[cryopreservation_techniques | cryopreserve]] and rewarm biological material is considered incredibly strange from a conventional design perspective <a class="yt-timestamp" data-t="00:00:14">[00:00:14]</a><a class="yt-timestamp" data-t="00:00:16">[00:00:16]</a>. For instance, [[cryopreservation_techniques | cryopreservation]] involves cooling resected brain tissue to temperatures as low as -130°C and below <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a><a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a><a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
+
+When very low temperatures are applied, [[cryopreservation_techniques | cryopreservation]] effectively [[molecular_randomization_in_cryopreservation | randomizes the molecular motion]] of all molecules within the tissue <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a><a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a><a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a><a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>.
+
+> "If you think about it, let's say that you took like a really complicated factory, right? And you stopped everyone in their tracks in the factory and then you spun them around and had them walk in a completely random direction and then have them like, you know, go back to their normal walking speed, but everyone was walking random directions. Like that's what cryopreservation is. It kind of just like randomizes the molecular motion of all the molecules after you go to like very low temperatures, which is super weird" <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a><a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>
+
+Most systems designed by humans are incompatible with this level of [[molecular_randomization_in_cryopreservation | randomization]] and would not function afterwards <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a><a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a>. However, cells are uniquely invariant to this kind of disorientation <a class="yt-timestamp" data-t="00:01:01">[00:01:01]</a><a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
+
+## Cellular Resilience to Thermal Noise
+
+Cells have evolved to operate efficiently even with very high amounts of [[thermal_noise_and_cellular_resilience | thermal noise]]—the constant, random movement of molecules <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a><a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. This inherent property of [[cellular_properties_and_evolution | cellular properties]] makes them remarkably resilient and invariant to the [[molecular_randomization_in_cryopreservation | randomization]] induced by [[cryopreservation_techniques | cryopreservation]] <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a><a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a><a class="yt-timestamp" data-t="00:01:27">[00:01:27]</a><a class="yt-timestamp" data-t="00:01:28">[00:01:28]</a><a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>. Understanding this "passive diffusion" mechanism within cells helps explain why [[cryopreservation_techniques | cryopreservation]] is even feasible <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a><a class="yt-timestamp" data-t="00:01:14">[00:01:14]</a><a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>.

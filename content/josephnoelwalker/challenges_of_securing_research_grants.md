@@ -1,0 +1,12 @@
+---
+title: Challenges of securing research grants
+videoId: 47SC8IpXyVw
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+Securing significant research grants, such as the basic R01 Grant in the United States, is crucial for establishing a laboratory <a class="yt-timestamp" data-t="00:00:57">[00:00:57]</a> <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. Despite not receiving these essential grants, one researcher found immense happiness and empowerment through direct engagement in their work <a class="yt-timestamp" data-t="00:01:07">[00:01:07]</a> <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+
+This individual maintained full control over their experiments, working at the bench until 58 years old <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a> <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a> <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>. They personally conducted every part of their experiments, including culturing bacteria, isolating plasmids, making RNA, culturing cells, transfecting, measuring, running gels, and analyzing data <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a> <a class="yt-timestamp" data-t="00:00:26">[00:00:26]</a>. This hands-on approach and direct involvement in problem-solving provided significant [[empowerment_and_satisfaction_in_scientific_research | empowerment and satisfaction]] <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a> <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>. The ability to read something at home, formulate a potential explanation, and then test it in the lab the next day was particularly exciting <a class="yt-timestamp" data-t="00:00:34">[00:00:34]</a> <a class="yt-timestamp" data-t="00:00:46">[00:00:46]</a>.
+
+The process of [[understanding_and_solving_technical_problems_in_research | solving technical problems]] and the "hunt" for new discoveries contributed to a sense of success and deep understanding, even in the absence of external funding validation like grants <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a> <a class="yt-timestamp" data-t="00:00:55">[00:00:55]</a> <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a> <a class="yt-timestamp" data-t="00:01:41">[00:01:41]</a>.

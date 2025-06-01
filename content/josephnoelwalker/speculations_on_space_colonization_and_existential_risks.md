@@ -1,0 +1,29 @@
+---
+title: Speculations on space colonization and existential risks
+videoId: 2MLZxJuzT5E
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+## Human Survival Beyond Earth
+
+The potential for human survival beyond Earth is a topic of significant debate. Some philosophers, like Nick Bostrom, highlight the vast number of potential "mind lives" that could exist if humanity colonizes other planets and develops conscious minds in computer operations, suggesting an enormous potential for happiness that could fill the Earth's oceans with "teardrops of joy" <a class="yt-timestamp" data-t="01:02:50">[01:02:50]</a> <a class="yt-timestamp" data-t="01:03:02">[01:03:02]</a> <a class="yt-timestamp" data-t="01:03:19">[01:03:19]</a>. This perspective underscores the importance of preventing global catastrophes, or [[potential_existential_risks_and_benefits_of_agi|existential risks]], to preserve this potential future <a class="yt-timestamp" data-t="01:03:39">[01:03:39]</a>.
+
+However, there is a contrasting, more pessimistic view regarding humanity's long-term future. Drawing parallels to primate species, it's suggested that humans would be fortunate to have another thousand years left on Earth, and that this time will likely be spent on Earth <a class="yt-timestamp" data-t="01:03:56">[01:03:56]</a> <a class="yt-timestamp" data-t="01:04:07">[01:04:07]</a> <a class="yt-timestamp" data-t="01:04:11">[01:04:11]</a>. The high probability of humanity eventually self-destructing, especially given the existence of [[nuclear_proliferation_and_its_implications|weapons of mass destruction]] and historical conflicts, makes the destruction of civilization appear likely over long timeframes <a class="yt-timestamp" data-t="01:04:15">[01:04:15]</a> <a class="yt-timestamp" data-t="01:04:29">[01:04:29]</a>.
+
+## Arguments Against Space Colonization
+
+The idea of off-world colonization, particularly of Mars, is met with skepticism when compared to terrestrial alternatives:
+*   **Earth's Untapped Potential** <a class="yt-timestamp" data-t="02:30:11">[02:30:11]</a>: Regions like Nevada, Western Australia, and Central Australia are presented as more hospitable and easier to live in than Mars <a class="yt-timestamp" data-t="02:31:31">[02:31:31]</a> <a class="yt-timestamp" data-t="02:33:14">[02:33:14]</a>. These areas offer better food, no radiation damage, and no concerns about re-entering Earth's atmosphere <a class="yt-timestamp" data-t="02:34:43">[02:34:43]</a>.
+*   **Robots for Mining** <a class="yt-timestamp" data-t="02:35:11">[02:35:11]</a>: If valuable minerals exist in space, robots are a more practical solution for extraction than human colonization <a class="yt-timestamp" data-t="02:35:11">[02:35:11]</a>.
+*   **Vulnerability** <a class="yt-timestamp" data-t="02:36:06">[02:36:06]</a>: Human colonies in hostile environments like Mars would be vulnerable and "sitting ducks" <a class="yt-timestamp" data-t="02:36:06">[02:36:06]</a>.
+*   **Lack of Diversification** <a class="yt-timestamp" data-t="02:41:12">[02:41:12]</a>: It's doubted that a Mars colony would be self-sufficient or exist on a significant scale to genuinely diversify humanity's portfolio <a class="yt-timestamp" data-t="02:42:21">[02:42:21]</a>. If something were to wipe out the solar system, Mars would still be vulnerable <a class="yt-timestamp" data-49:57">[02:49:57]</a>. Interstellar travel at speeds close to light is also considered impractical for the foreseeable future <a class="yt-timestamp" data-t="02:50:01">[02:50:01]</a>.
+*   **Governance Challenges** <a class="yt-timestamp" data-t="02:55:04">[02:55:04]</a>: Establishing governance for a Mars colony is seen as a significant challenge, potentially leading to harsh, martial-law-like conditions similar to those on spaceships or fishing vessels, with little liberty <a class="yt-timestamp" data-t="02:56:26">[02:56:26]</a> <a class="yt-timestamp" data-t="02:57:00">[02:57:00]</a>. The lack of established culture and history on Mars would make everything "up for grabs," presenting high risks <a class="yt-timestamp" data-t="02:59:51">[02:59:51]</a> <a class="yt-timestamp" data-t="02:00:26">[02:00:26]</a>.
+
+Instead of focusing on space colonization, the argument suggests making the remaining time on Earth as good as possible, as there is "less to preserve" given a shorter expected human lifespan <a class="yt-timestamp" data-t="01:05:33">[01:05:33]</a> <a class="yt-timestamp" data-t="01:05:39">[01:05:39]</a>.
+
+## The Fermi Paradox and UFOs
+
+The question of whether the Fermi Paradox is closer to being resolved by recent UFO videos is also discussed. While there is acknowledged uncertainty, the chance of these items being alien space probes or drones is estimated at only one percent <a class="yt-timestamp" data-t="02:47:18">[02:47:18]</a> <a class="yt-timestamp" data-t="02:47:32">[02:47:32]</a>.
+
+It's also considered that aliens might be visiting without being represented by these drones <a class="yt-timestamp" data-t="02:47:40">[02:47:40]</a>. Another resolution to the Fermi Paradox, **panspermia** (the idea that life on Earth originated from microorganisms or chemical precursors of life present in outer space), is considered much more likely than the UFO footage representing alien drones <a class="yt-timestamp" data-t="02:48:47">[02:48:47]</a>. The main argument for the UFOs being alien artifacts relies on a process of elimination, which is noted as a dangerous philosophical approach <a class="yt-timestamp" data-t="02:48:50">[02:48:50]</a>. Despite the low probability, the view of high-security clearance individuals like Harry Reid, who believes something is going on, gives the alien drone hypothesis at least a one percent chance <a class="yt-timestamp" data-t="02:52:00">[02:52:00]</a>.

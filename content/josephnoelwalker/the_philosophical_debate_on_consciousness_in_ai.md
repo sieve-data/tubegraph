@@ -1,0 +1,36 @@
+---
+title: The philosophical debate on consciousness in AI
+videoId: 3Ho-vJZsMgk
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+The development of Artificial General Intelligence (AGI) and its potential implications sparks a profound philosophical debate, particularly concerning the nature of consciousness and whether a machine can ever truly achieve it. Key figures like Steven Pinker and David Deutsch offer contrasting perspectives on the feasibility and moral status of such systems.
+
+## The Coherence of Artificial General Intelligence
+
+Steven Pinker views [[artificial_general_intelligence_and_its_feasibility | AGI]] as an "incoherent concept" <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>. He argues that intelligence should be understood as an "algorithm" or "gadget" designed to solve specific problems in particular environments, rather than a "magic potent substance" or a generalized capacity like that measured by IQ tests <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. For Pinker, the idea of a single, universal machine capable of performing every task, from flying an airplane to conducting brain surgery, is neither necessary nor efficient, as specialization is ubiquitous in both human biology and technology <a class="yt-timestamp" data-t="00:13:43">[00:13:43]</a>.
+
+In contrast, David Deutsch asserts that [[artificial_general_intelligence_and_its_feasibility | AGI]] is "possible because it's implied by computational universality" <a class="yt-timestamp" data-t="00:26:26">[00:26:26]</a>. He explains that universal computers, like a universal Turing machine, can perform any computation that any physical object can possibly perform <a class="yt-timestamp" data-t="00:07:46">[00:07:46]</a>. This means a program could exist that meets the criteria for being an [[artificial_general_intelligence_and_its_feasibility | AGI]] <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>. However, Deutsch clarifies that while such a machine could theoretically converse in any language, solve physics problems, or drive a car, it wouldn't come with that knowledge built-in; the critical challenge lies in "creating the knowledge to write the program" <a class="yt-timestamp" data-t="00:09:43">[00:09:43]</a>.
+
+## The Debate on Sentience and Rights
+
+A central point of contention revolves around whether an [[artificial_general_intelligence_and_its_feasibility | AGI]] would possess sentience, subjectivity, or "qualia" (subjective experiences) that would grant it moral rights.
+
+David Deutsch believes that if [[artificial_general_intelligence_and_its_feasibility | AGI]] is achieved, it is "inevitable that AGIs will be capable of having internal subjectivity and qualia" <a class="yt-timestamp" data-t="00:29:16">[00:29:16]</a>, arguing that the "G" in [[artificial_general_intelligence_and_its_feasibility | AGI]] implies these qualities <a class="yt-timestamp" data-t="00:29:26">[00:29:26]</a>. He asserts that if [[artificial_general_intelligence_and_its_feasibility | AGI]]s are achieved, "they will be people and they will have rights" <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>. Forcing them to perform computations for human benefit would constitute "slavery," potentially leading to a "slave revolt" <a class="yt-timestamp" data-t="00:12:28">[00:12:28]</a>. He suggests that to prevent an [[potential_existential_risks_and_benefits_of_agi | AGI Doom scenario]], such entities must be given the means to join human society as persons <a class="yt-timestamp" data-t="00:26:15">[00:26:15]</a>.
+
+Pinker challenges this view, questioning why a powerful computer, unless specifically programmed, would "care about whether it was a slave or not" <a class="yt-timestamp" data-t="00:17:23">[00:17:23]</a>. He differentiates between a system's computational abilities and its goals or values, suggesting that a system could be creative in solving problems without craving freedom or autonomy <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>. He raises the fundamental question of whether a silicon-based system is truly "feeling something" or merely "carrying out an algorithm" <a class="yt-timestamp" data-t="00:28:47">[00:28:47]</a>.
+
+Deutsch responds by stating that if a system were to be creative, it "can't be obedient" <a class="yt-timestamp" data-t="00:18:04">[00:18:04]</a>, as creativity requires the ability to change goals and explore unforeseen knowledge <a class="yt-timestamp" data-t="00:22:12">[00:22:12]</a>. He uses the analogy of producing electricity, where the solution (uranium) could not have been foreseen in 1900, implying that limiting an [[artificial_general_intelligence_and_its_feasibility | AGI]]'s capacity to acquire knowledge or change its values would constrain its creative problem-solving ability <a class="yt-timestamp" data-t="00:18:53">[00:18:53]</a>.
+
+### The Problem of Subjectivity
+
+The discussion delves into the "hard problem" of consciousness: how physical processes give rise to subjective experience.
+
+Steven Pinker believes it's "not a decidable problem" <a class="yt-timestamp" data-t="00:34:15">[00:34:15]</a> whether a simulation of consciousness truly possesses subjectivity. He suggests that while a silicon-based system might go through the "motions" of feeling, there might be "no one home" <a class="yt-timestamp" data-t="00:32:51">[00:32:51]</a>. He also posits that human intuition might not grant subjectivity to an intelligent system unless it's "deliberately engineered to Target our emotions with humanoid light tonal voices and facial expressions" <a class="yt-timestamp" data-t="00:30:52">[00:30:52]</a>. He notes that while some people have granted subjectivity to systems like ChatGPT, he doesn't believe pulling the plug on it constitutes murder <a class="yt-timestamp" data-t="00:35:02">[00:35:02]</a>.
+
+David Deutsch, as a "physicalist" <a class="yt-timestamp" data-t="00:33:13">[00:33:13]</a>, argues that if a universal Turing machine can simulate all the complex processes of the human brain, including chemical reactions and hormonal influences, then there's "no difference in principle" between a human brain and such a simulation <a class="yt-timestamp" data-t="00:32:15">[00:32:15]</a>. He cites the thought experiment where neurons are replaced one by one with silicon chips; if an external observer wouldn't notice, then subjectively, the consciousness should remain <a class="yt-timestamp" data-t="00:31:51">[00:31:51]</a>.
+
+## Conclusion
+
+The debate highlights a fundamental divergence in how intelligence and consciousness are conceptualized in the context of [[artificial_general_intelligence_and_its_feasibility | AI]]. While Pinker emphasizes specialization and the practical utility of AI as a tool, questioning the need for a truly "general" and sentient system, Deutsch maintains that computational universality implies the possibility of sentient [[artificial_general_intelligence_and_its_feasibility | AGI]] and that ethical considerations will inevitably arise regarding their rights and societal integration. Both agree that the immediate focus should be on building safe and useful AI systems that serve human needs <a class="yt-timestamp" data-t="00:38:09">[00:38:09]</a>.
