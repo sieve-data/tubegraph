@@ -1,0 +1,38 @@
+---
+title: The Comprehensive NuclearTestBan Treaty negotiations
+videoId: nRgCdlka498
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+The Comprehensive Nuclear Test Ban Treaty (CTBT) is a significant international agreement aimed at prohibiting all nuclear weapons test explosions for all time and in all environments <a class="yt-timestamp" data-t="02:47:44">[02:47:44]</a>. It is considered a fundamental step in [[nuclear_nonproliferation_success_factors | nuclear nonproliferation]] efforts <a class="yt-timestamp" data-t="02:48:21">[02:48:21]</a>.
+
+## Context and Purpose
+
+The need for a comprehensive test ban treaty was underscored by the [[the_role_of_the_nuclear_nonproliferation_treaty | Nuclear Non-Proliferation Treaty (NPT)]] of 1968, which included a promise that nuclear powers would work towards universal nuclear disarmament <a class="yt-timestamp" data-t="01:18:18">[01:18:18]</a>, and that non-nuclear powers would not develop nuclear weapons if they received support for peaceful nuclear energy uses <a class="yt-timestamp" data-t="01:13:08">[01:13:08]</a>. The NPT's "central bargain" was that non-nuclear weapon states would refrain from acquiring nuclear weapons if nuclear weapon states agreed to disarm <a class="yt-timestamp" data-t="01:41:40">[01:41:40]</a>. By 1995, this bargain had not been fully upheld by nuclear weapon states <a class="yt-timestamp" data-t="01:14:04">[01:14:04]</a>.
+
+A crucial aspect of banning nuclear testing is its role in [[nuclear_nonproliferation_success_factors | nonproliferation]] <a class="yt-timestamp" data-t="03:52:00">[03:52:00]</a>. For any new entry into the possession of nuclear weapons, testing is essential to confirm the weapon's functionality <a class="yt-timestamp" data-t="03:19:05">[03:19:05]</a>. Without testing, a country cannot be sure if its nuclear device works <a class="yt-timestamp" data-t="02:46:17">[02:46:17]</a>.
+
+## Negotiation and Adoption (1995-1996)
+
+Negotiations for the CTBT took place at the Conference on Disarmament in Geneva <a class="yt-timestamp" data-t="03:51:32">[03:51:32]</a>. The draft treaty faced a significant hurdle due to the Conference on Disarmament's rule of consensus, which allowed any single nation to block its progress <a class="yt-timestamp" data-t="04:02:06">[04:02:06]</a>. India, notably, withheld consensus and blocked the treaty from being sent to the UN General Assembly <a class="yt-timestamp" data-t="03:51:39">[03:51:39]</a>, <a class="yt-timestamp" data-t="04:18:00">[04:18:00]</a>. India did not actively participate in drafting the treaty but criticized it <a class="yt-timestamp" data-t="04:09:58">[04:09:58]</a>.
+
+Richard Butler, then Australia's Ambassador to the UN, devised a procedural solution to bypass this deadlock <a class="yt-timestamp" data-t="04:05:07">[04:05:07]</a>, <a class="yt-timestamp" data-t="04:12:05">[04:12:05]</a>. He decided to table the treaty directly in the UN General Assembly, in Australia's name <a class="yt-timestamp" data-t="04:26:54">[04:26:54]</a>, <a class="yt-timestamp" data-t="04:47:00">[04:47:00]</a>. He attached the identical text of the CTBT to a draft resolution, recommending its adoption by the General Assembly <a class="yt-timestamp" data-t="04:41:00">[04:41:00]</a>, <a class="yt-timestamp" data-t="04:48:00">[04:48:00]</a>. This tactic was considered novel at the time <a class="yt-timestamp" data-t="04:50:50">[04:50:50]</a>.
+
+Butler then engaged in extensive "shuttle diplomacy" by meeting with groups of permanent representatives from over 190 UN member states in New York City over approximately six weeks <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>, <a class="yt-timestamp" data-t="04:55:00">[04:55:00]</a>. He sought their support for the resolution, which was ultimately adopted overwhelmingly by the General Assembly <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>, <a class="yt-timestamp" data-t="05:03:00">[05:03:00]</a>. The treaty was then opened for signature by all states about a month later in New York <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>. President Bill Clinton personally thanked Butler for getting the treaty on the table <a class="yt-timestamp" data-t="05:15:00">[05:15:00]</a>.
+
+This effort fulfilled a key commitment made during the 1995 NPT Review and Extension Conference, where a package of supplementary documents, including a commitment to a CTBT by 1996, was proposed by Butler and adopted <a class="yt-timestamp" data-t="01:36:00">[01:36:00]</a>, <a class="yt-timestamp" data-t="01:40:00">[01:40:00]</a>, <a class="yt-timestamp" data-t="01:45:00">[01:45:00]</a>, <a class="yt-timestamp" data-t="01:50:00">[01:50:00]</a>.
+
+## Entry into Force and Current Status
+
+Unlike the NPT, which had a relatively low threshold for entry into force (ratification by the Soviet Union, US, UK, and 40 other unspecified states), the CTBT required ratification by 44 specific states that had participated in negotiations and possessed nuclear power or research reactors <a class="yt-timestamp" data-t="01:10:00">[01:10:00]</a>, <a class="yt-timestamp" data-t="01:11:00">[01:11:00]</a>. This stringent requirement meant that the treaty's entry into force became hostage to nations like India <a class="yt-timestamp" data-t="01:10:50">[01:10:50]</a>, <a class="yt-timestamp" data-t="01:11:50">[01:11:50]</a>.
+
+As a result, the CTBT has not yet legally entered into force <a class="yt-timestamp" data-t="01:19:19">[01:19:19]</a>. However, it is largely "acted upon as if it has" <a class="yt-timestamp" data-t="01:21:21">[01:21:21]</a>, with most states observing the norm against nuclear testing <a class="yt-timestamp" data-t="01:19:55">[01:19:55]</a>. This de facto adherence means that countries generally avoid testing, even if the treaty is not legally binding for all <a class="yt-timestamp" data-t="01:29:29">[01:29:29]</a>.
+
+## Verification
+
+The CTBT established an impressive International Monitoring System (IMS) <a class="yt-timestamp" data-t="03:57:59">[03:57:59]</a>, <a class="yt-timestamp" data-t="01:36:20">[01:36:20]</a>. This system primarily relies on a global network of seismic stations to detect tremors on Earth that could indicate underground explosions <a class="yt-timestamp" data-t="01:36:56">[01:36:56]</a>. There are also overhead systems, often run by member states, that look for other signs like flashes <a class="yt-timestamp" data-t="01:37:05">[01:37:05]</a>. The data collected from these systems is sent to headquarters in Vienna, analyzed, and then notices are sent to participating states about any detected events <a class="yt-timestamp" data-t="01:37:34">[01:37:34]</a>. The system can differentiate between explosions and natural phenomena like earthquakes <a class="yt-timestamp" data-t="02:47:51">[02:47:51]</a>.
+
+## Impact and Significance
+
+The CTBT is a critical component of the global [[the_role_of_the_nuclear_nonproliferation_treaty | nuclear nonproliferation]] regime. By aiming to stop all nuclear tests by explosion in all environments for all time, it reduces the ability of states to develop and improve nuclear weapons <a class="yt-timestamp" data-t="02:47:44">[02:47:44]</a>. It contributes to the core principle that no one should have nuclear weapons due to their devastating and dangerous nature <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>, <a class="yt-timestamp" data-t="02:06:50">[02:06:50]</a>. The treaty reflects the consensus that as long as nuclear weapons exist, they may one day be used, with catastrophic global consequences <a class="yt-timestamp" data-t="02:10:13">[02:10:13]</a>.

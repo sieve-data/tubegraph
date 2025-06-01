@@ -1,0 +1,60 @@
+---
+title: Cultural evolution and demographic transition
+videoId: Vamgmr_urxE
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+Peter Richerson and Robert Boyd, widely recognized as co-founders of the field of [[cultural_evolution_and_its_significance | cultural evolution]], have significantly augmented Darwinian evolution by integrating the concept of culture into evolutionary theory <a class="yt-timestamp" data-t="00:00:09">[00:00:09]</a>. Their work provides a framework for understanding how cultural processes interact with genetic evolution, particularly in shaping human societies and behaviors, including the complex phenomenon of the demographic transition.
+
+## Understanding Cultural Evolution
+
+### Defining Key Concepts
+
+*   **Cultural Evolution**: Occurs when an organism acquires useful information from other organisms through social learning <a class="yt-timestamp" data-t="00:23:59">[00:23:59]</a>. This is observed in various animal species, including chimpanzees and songbirds <a class="yt-timestamp" data-t="00:24:10">[00:24:10]</a>.
+*   **Cumulative Cultural Evolution**: A process where social learning is sufficiently faithful or accurate, allowing individuals to invent something that others can learn, change, and then transmit new variants <a class="yt-timestamp" data-t="00:24:21">[00:24:21]</a>. This leads to the accumulation of [[technological_revolutions_and_economic_growth | technology]] and knowledge that surpasses the inventive capacity of any single individual <a class="yt-timestamp" data-t="00:26:36">[00:26:36]</a>. A simple form of social learning, like stimulus enhancement, where individuals are attracted to objects associated with desired outcomes, does not lead to accumulation because the specific innovation isn't copied <a class="yt-timestamp" data-t="00:25:43">[00:25:43]</a>. For accumulation, individuals must be able to copy the precise innovation <a class="yt-timestamp" data-t="00:26:21">[00:26:21]</a>.
+*   **Gene-Culture Co-evolution**: Happens when culture (of any kind) alters the selective regime, favoring gene variants that were not previously advantageous <a class="yt-timestamp" data-t="00:27:16">[00:27:16]</a>.
+    *   **Examples**:
+        *   Japanese populations harbor gut bacteria that can degrade seaweed polysaccharides, a trait linked to their diet <a class="yt-timestamp" data-t="00:37:47">[00:37:47]</a>. This is a form of co-evolution involving human diet (culture) and the microbiome.
+        *   [[impact_of_culture_and_institutions_on_savings_and_economic_development | Human social psychology]] has been transformed over hundreds of thousands of years by cultural practices, such as punishing non-cooperators and rewarding cooperators, leading to a much lower incidence of psychopathy compared to chimpanzees <a class="yt-timestamp" data-t="00:29:56">[00:29:56]</a>.
+        *   The [[technological_revolutions_and_economic_growth | cultural evolution]] of farming and urban life created new selection environments, leading to the favored selection of genes for dealing with starches and pathogens common in village life over the last 10,000 years <a class="yt-timestamp" data-t="00:31:26">[00:31:26]</a>. Approximately two-thirds of genes under recent strong selection are plausibly related to these culturally-induced environmental changes <a class="yt-timestamp" data-t="00:31:45">[00:31:45]</a>.
+
+### Culture as an Adaptation to Environmental Variation
+
+Humans possess a "massive brain" that is metabolically costly (consuming about 16% of basal metabolic rate compared to 3% in average mammals) and fragile <a class="yt-timestamp" data-t="00:52:18">[00:52:18]</a>. This suggests that such an expensive organ must provide significant adaptive benefits <a class="yt-timestamp" data-t="00:52:51">[00:52:51]</a>.
+
+The "cultural brain hypothesis" posits that this large brain and the capacity for cumulative culture evolved as an adaptation to spatial and temporal environmental variation <a class="yt-timestamp" data-t="00:54:09">[00:54:09]</a>.
+
+*   **Pleistocene Climate Variation**: The onset of Pleistocene climate fluctuations, characterized by significant millennial and sub-millennial scale variations, created a "sweet spot" for cultural adaptation <a class="yt-timestamp" data-t="01:13:16">[01:13:16]</a>.
+    *   While longer macro-cycles (100,000, 41,000, 23,000 years) were present, the key was the erratic, high-frequency variation in temperature and rainfall, leading to chaotic and disequilibrium ecosystems <a class="yt-timestamp" data-t="00:45:02">[00:45:02]</a>.
+    *   Genes adapt too slowly to rapid environmental shifts, and individual learning is lost across generations if not culturally transmitted <a class="yt-timestamp" data-t="00:56:03">[00:56:03]</a>. Culture, however, can evolve fast enough to keep pace with these intermediate-scale variations and preserve useful knowledge over generations <a class="yt-timestamp" data-t="00:55:17">[00:55:17]</a>.
+*   **Benefits of Culture**: Cultural evolution economizes on individual learning, spreading the cost of innovation across a population <a class="yt-timestamp" data-t="00:55:28">[00:55:28]</a>. It allows for fine-tuned adaptation to local ecological variations, as seen in agricultural systems that are highly specialized compared to more generic hunting-gathering strategies <a class="yt-timestamp" data-t="01:26:01">[01:26:01]</a>.
+
+## The Demographic Transition
+
+The demographic transition, characterized by declining fertility rates in modernizing societies, is a key area where cultural and genetic evolution intersect in complex ways.
+
+### Explaining the Demographic Transition
+
+Richerson and Boyd propose that the demographic transition is largely driven by **modernization** and the concept of "careers open to talent" <a class="yt-timestamp" data-t="01:35:54">[01:35:54]</a>.
+
+*   **Prestige and Education**: In modernizing economies, economic success and prestige increasingly derive from education and credentials rather than birthright or traditional skills (e.g., farming prowess) <a class="yt-timestamp" data-t="01:35:04">[01:35:04]</a>.
+    *   Pursuing higher education often involves delayed marriage and family formation <a class="yt-timestamp" data-t="01:35:16">[01:35:16]</a>.
+    *   Individuals who prioritize these "prestige positions" (like teachers, police, government officials) invest in different types of human capital, which competes with investment in producing many children <a class="yt-timestamp" data-t="01:36:52">[01:36:52]</a>.
+*   **Changing Social Networks**: Modernization also shifts social networks away from kin-based ties towards factory mates, office colleagues, and friends <a class="yt-timestamp" data-t="01:38:44">[01:38:44]</a>. These non-kin are less interested in an individual's reproductive success and may even see large families as a "handicap" in social activities <a class="yt-timestamp" data-t="01:39:00">[01:39:00]</a>.
+*   **Role of Prestige Bias**: People tend to imitate prestigious individuals <a class="yt-timestamp" data-t="01:50:30">[01:50:30]</a>. In modern societies, prestigious individuals often have fewer children as a byproduct of their career-focused lifestyle <a class="yt-timestamp" data-t="01:51:00">[01:51:00]</a>. This imitation of successful behaviors, rather than a direct desire for fewer children, propagates lower fertility <a class="yt-timestamp" data-t="01:50:53">[01:50:53]</a>.
+*   **Conformist Bias**: Once a behavior becomes common, conformist bias (the tendency to adopt the most common behavior) can further reinforce the norm of having fewer children <a class="yt-timestamp" data-t="01:54:04">[01:54:04]</a>.
+
+### Challenges and Future Implications
+
+*   **Global Spread**: The demographic transition began in Western countries around 1870 and has not been reversed <a class="yt-timestamp" data-t="01:54:40">[01:54:40]</a>. It has spread to lower socioeconomic levels within Western countries and to almost all non-Western countries, with notable exceptions in parts of sub-Saharan Africa where it is proceeding more slowly <a class="yt-timestamp" data-t="01:55:07">[01:55:07]</a>. Some East Asian countries, like South Korea, have extremely low Total Fertility Rates (TFRs), even below 1.0 <a class="yt-timestamp" data-t="01:51:45">[01:51:45]</a>.
+*   **Maladaptive Cultural Variants**: Unlike genetic evolution which generally promotes fitness, cultural evolution can favor behaviors that diminish genetic fitness <a class="yt-timestamp" data-t="01:58:02">[01:58:02]</a>. The demographic transition is an example of a culturally-driven process leading to lower reproductive success. This is not necessarily an indication of weakened cultural group selection, but rather that cultural selection can operate independently or even counter to genetic selection <a class="yt-timestamp" data-t="01:59:03">[01:59:03]</a>.
+*   **Exceptions**: Some groups, like North American Anabaptists (e.g., Amish and Hutterites), have largely avoided the demographic transition <a class="yt-timestamp" data-t="01:41:20">[01:41:20]</a>. They achieve this by:
+    *   Sealing off their prestige hierarchy from the outside world, maintaining internal prestige based on traditional values <a class="yt-timestamp" data-t="01:45:10">[01:45:10]</a>.
+    *   Maintaining small, kin-rich communities, reinforcing social networks that encourage larger families <a class="yt-timestamp" data-t="01:45:40">[01:45:40]</a>.
+    *   The Hutterites, due to high capital investment required for modern farming, are seeing some reduction in fertility, while Amish maintain high fertility through wage labor in isolated factory settings or tourism <a class="yt-timestamp" data-t="01:46:36">[01:46:36]</a>.
+*   **[[potential_limits_to_civilization_growth | Population Growth and the Collective Brain]]**: While global [[population_growth_and_sustainable_development_in_australia | population is projected to peak]] later this century, the concern about a shrinking "collective brain" (needed to sustain [[technological_revolutions_and_economic_growth | technologically advanced civilization]]) might be overstated <a class="yt-timestamp" data-t="02:02:12">[02:02:12]</a>.
+    *   Research on fishing [[technological_revolutions_and_economic_growth | technologies]] in Oceania indicates that more populous and connected islands had more diverse and complex tools, and the [[historical_and_potential_future_population_density_and_urbanization_trends | Tasmanian Aborigines]] lost technology after being isolated <a class="yt-timestamp" data-t="02:02:40">[02:02:40]</a>.
+    *   However, modern societies have specialized institutions, like formal education and scientific research, that greatly increase the efficiency of cultural transmission and innovation <a class="yt-timestamp" data-t="02:04:10">[02:04:10]</a>. The digitization of knowledge (e.g., internet archives) further counteracts potential population-related losses <a class="yt-timestamp" data-t="02:08:39">[02:08:39]</a>.
+    *   Models of [[cultural_evolution_and_its_significance | cultural evolution]] suggest striking diminishing returns to population size for innovation, meaning that the largest gains in complexity come from small population increases, with less impact as populations grow very large <a class="yt-timestamp" data-t="02:06:06">[02:06:06]</a>. A global population of 10 billion is still considered very large in this context, mitigating concerns about declining numbers.
+*   **Predicting Future Brain Size**: Predicting future human brain size is challenging due to the complexity of selective pressures <a class="yt-timestamp" data-t="01:29:31">[01:29:31]</a>. While the birth canal currently acts as an obstetric constraint on brain size, removing it (e.g., via C-sections or artificial wombs) would not eliminate other metabolic or fragility constraints <a class="yt-timestamp" data-t="01:27:52">[01:27:52]</a>. Furthermore, current selection pressures in modern societies do not clearly favor increased cleverness in terms of reproductive success <a class="yt-timestamp" data-t="01:32:55">[01:32:55]</a>.

@@ -1,0 +1,86 @@
+---
+title: Homeowner motivations and community opposition to development
+videoId: dO2GPuhgy1k
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+The current [[historical_context_of_the_housing_crisis | housing crisis]] in Australia, characterized by unaffordable housing, is considered the defining social policy disaster of our times <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. While for most of human history, essential goods were scarce and expensive, the Industrial Revolution brought increasing abundance and falling prices for many necessities <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. However, housing has defied this pattern, with the cost of structures, or more accurately the land beneath them, continually rising <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. Australia's house price-to-income ratio has roughly tripled over the last 25 years <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. Sydney and Melbourne are ranked as the second and seventh least affordable cities globally <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+
+This unaffordability leads to various issues, including people living far from productive jobs, shouldering enormous debts, living with renting precarity, being unable to live near friends or relatives, delayed family formation, and contributing to urban sprawl <a class="yt-timestamp" data-t="00:01:20">[00:01:20]</a>.
+
+## Causes of Constricted Housing Supply
+
+The problem of constricted housing supply is not unique to Australia, being common across English-speaking countries like the US, UK, Canada, and New Zealand <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>.
+
+Possible reasons for this phenomenon include:
+*   **Higher Rates of Immigration**: English-speaking countries often have stronger pressures to supply more housing due to higher immigration rates <a class="yt-timestamp" data-t="00:03:27">[00:03:27]</a>.
+*   **Emphasis on Local Control**: The English-speaking governmental and cultural tradition places strong emphasis on local control, giving neighboring residents significant say over what can be built on private property <a class="yt-timestamp" data-t="00:03:53">[00:03:53]</a>. This often leads to problems <a class="yt-timestamp" data-t="00:04:12">[00:04:12]</a>.
+*   **Shift from Sprawl to Density**: In Australia, during the 1960s and 1970s, significant population growth was accommodated by inexpensive car-based sprawl <a class="yt-timestamp" data-t="00:04:43">[00:04:43]</a>. However, as commutes lengthened and cities like Melbourne and Sydney grew to millions, outward expansion became unfeasible, necessitating "going up" <a class="yt-timestamp" data-t="00:05:07">[00:05:07]</a>. This shift encountered much more severe and harder-to-circumvent [[zoning_regulations_and_their_impact_on_housing_supply | zoning restrictions]] <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+*   **Demand Outstripping Supply**: Over several generations, demand for housing has increased by about 3% annually, while supply has only increased by about 2% annually, leading to continually rising prices <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
+
+## Homeowner Motivations and NIMBYism
+
+When considering what motivates "NIMBYs" (Not In My Backyard), two primary hypotheses exist:
+1.  **Home Voter Hypothesis**: NIMBYs are selfishly trying to protect their home equity values <a class="yt-timestamp" data-t="00:06:48">[00:06:48]</a>.
+2.  **Neighborhood Defenders Hypothesis**: NIMBYs are acting altruistically on behalf of their neighborhoods to protect amenity and local character <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+
+> [!INFO] Statistical Evidence
+> Statistics suggest that the "Neighborhood Defenders" story is more important, as many renters also act as NIMBYs <a class="yt-timestamp" data-t="00:07:15">[00:07:15]</a>. However, the financial story (home equity) still matters significantly, especially as arguments for more affordable housing often imply a reduction in wealth for existing homeowners <a class="yt-timestamp" data-t="00:07:53">[00:07:53]</a>. This makes it difficult to convince a majority of voters <a class="yt-timestamp" data-t="00:08:18">[00:08:18]</a>.
+
+Other motivations include:
+*   **Fear of the Unknown**: People often fear that new developments will be worse than they turn out to be. Stories are common of people changing their minds once a development is built and they see its positive aspects, like new cafes or bus services <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>. This points to a "status quo bias" <a class="yt-timestamp" data-t="00:09:20">[00:09:20]</a>.
+*   **Dislike of New Residents**: Existing residents may oppose new flats due to ethnic or class reasons, especially in mixed-race societies like the US. This motivation is often cloaked in socially acceptable rhetoric about "neighborhood character" <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>.
+
+## Zoning Regulations and Proposed Reforms
+
+Not all [[zoning_regulations_and_their_impact_on_housing_supply | zoning regulations]] represent a "dead weight loss" (e.g., Houston's very light regulations leading to adult stores next to preschools) <a class="yt-timestamp" data-t="00:11:59">[00:11:59]</a>. However, some are particularly problematic:
+
+*   **Height Restrictions**: These are considered the worst because they prevent density in areas where it's most needed, such as around train stations, where demand to live within walking distance is high and character changes are minimal <a class="yt-timestamp" data-t="00:13:02">[00:13:02]</a>.
+*   **Heritage Restrictions**: While protecting unusually old or attractive buildings is desirable, current heritage laws in Australia protect vast swathes, sometimes entire suburbs, of "pretty ordinary housing" without considering costs or benefits <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>.
+
+> [!TIP] Key Reform Proposal
+> Another critical reform is to allow medium and high-density housing (like townhouses) in areas currently reserved for detached, single-family homes <a class="yt-timestamp" data-t="00:16:32">[00:16:32]</a>. New Zealand's experience in Auckland and Wellington shows that such changes can double construction, increase housing stock, and significantly reduce prices (e.g., 28% in Auckland, 21% in Lower Hutt) <a class="yt-timestamp" data-t="00:16:47">[00:16:47]</a>.
+
+## Expected Impacts of Deregulation
+
+While full liberalization of housing markets could lead to significant price falls (e.g., a 41-42% contribution of zoning to house prices in Sydney/Melbourne, and 16-41% to apartment prices) <a class="yt-timestamp" data-t="00:15:30">[00:15:30]</a>, such extreme measures are not politically realistic or immediately achievable <a class="yt-timestamp" data-t="00:18:22">[00:18:22]</a>.
+
+The current national target in Australia is 1.2 million homes over five years <a class="yt-timestamp" data-t="00:18:41">[00:18:41]</a>. This represents an additional 200,000 homes above a neutral baseline of 1 million <a class="yt-timestamp" data-t="00:20:04">[00:20:04]</a>.
+
+> [!NOTE] Expected Affordability Improvement
+> A rough rule of thumb suggests that every percentage point increase in housing stock reduces housing costs by about 2.5% <a class="yt-timestamp" data-t="00:20:30">[00:20:30]</a>. Therefore, the 2% increase in national housing stock targeted by the National Cabinet could lead to a **5% reduction in affordability** relative to a baseline of housing prices trending upwards <a class="yt-timestamp" data-t="00:20:43">[00:20:43]</a>. This means prices would still increase in nominal terms, but at a slower rate than the counterfactual <a class="yt-timestamp" data-t="00:21:22">[00:21:22]</a>.
+
+This is seen as a modest but feasible short-term objective, both economically (as it's a rate previously achieved) and politically (as the community has accepted similar rates in the past) <a class="yt-timestamp" data-t="00:19:36">[00:19:36]</a>. Solving the housing crisis, which built up over generations, will take time and require substantial increases in the construction industry's capacity <a class="yt-timestamp" data-t="00:46:51">[00:46:51]</a>.
+
+## Consequences of Inaction
+
+If housing supply remains unresponsive, cities like San Francisco, Manhattan, or London serve as warnings <a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>. In their central neighborhoods, housing is so expensive that affordability is only possible through inheritance, lottery wins, or extreme wealth <a class="yt-timestamp" data-t="00:23:17">[00:23:17]</a>. This leads to:
+*   Terrible homelessness <a class="yt-timestamp" data-t="00:23:35">[00:23:35]</a>
+*   Severe social divisions <a class="yt-timestamp" data-t="00:23:40">[00:23:40]</a>
+*   Young and entrepreneurial people leaving <a class="yt-timestamp" data-t="00:23:44">[00:23:44]</a>
+*   Poor productivity growth <a class="yt-timestamp" data-t="00:23:51">[00:23:51]</a>
+*   Increased inequality <a class="yt-timestamp" data-t="00:23:53">[00:23:53]</a>
+
+## Critiques and Challenges for the YIMBY Movement
+
+The YIMBY movement, a broad coalition that unites around the belief that more housing supply will improve [[the_economics_and_ethics_of_housing_regulation | affordability]], faces several critiques:
+
+*   **Tension between Affordability and Agglomeration Gains**: Increasing supply and densifying cities can make them more attractive, leading to higher productivity and incomes, which could then push up prices and rents <a class="yt-timestamp" data-t="00:24:41">[00:24:41]</a>. While YIMBYs argue supply effects dominate, the gains in productivity from building supply are a slow means to achieve those gains <a class="yt-timestamp" data-t="00:26:16">[00:26:16]</a>.
+*   **Aesthetics and Architecture**: YIMBYs often fight against cynical heritage concerns, but may neglect the importance of aesthetics and architecture <a class="yt-timestamp" data-t="00:27:40">[00:27:40]</a>. Public preference often favors traditional, beautiful buildings (like Parisian Haussmann apartments or Victorian terraces) over modern designs, suggesting that more beautiful mid- and high-rises could increase public acceptance <a class="yt-timestamp" data-t="00:34:11">[00:34:11]</a>. However, defining and legislating "beauty" is difficult <a class="yt-timestamp" data-t="00:30:09">[00:30:09]</a>, and the focus is often on replacing unattractive suburban housing <a class="yt-timestamp" data-t="00:36:00">[00:36:00]</a>.
+    *   **Importance of Trees**: It is noted that attractive streetscapes are primarily due to trees, not the age or appearance of buildings <a class="yt-timestamp" data-t="00:32:08">[00:32:08]</a>. Burying overhead wires during upzoning creates opportunities for planting tall trees <a class="yt-timestamp" data-t="00:32:48">[00:32:48]</a>.
+*   **Impact of Tax Concessions**: Policies like negative gearing and the capital gains tax discount for property investment are sometimes blamed for high house prices <a class="yt-timestamp" data-t="00:37:05">[00:37:05]</a>. However, large increases in house prices have occurred globally, especially in English-speaking countries, due to falling long-term interest rates <a class="yt-timestamp" data-t="00:39:07">[00:39:07]</a>. The actual impact of these Australian tax concessions on prices is estimated to be very small (1-4%) <a class="yt-timestamp" data-t="00:38:38">[00:38:38]</a>. While there are good equity and fiscal reasons to revisit these provisions, they are not the main driver of affordability issues <a class="yt-timestamp" data-t="00:40:26">[00:40:26]</a>.
+*   **Entrenched Expectations of Home Equity Growth**: The expectation that home equity values will increase substantially is deeply ingrained in Australian society, impacting wealth building and retirement plans <a class="yt-timestamp" data-t="00:48:54">[00:48:54]</a>. Residential real estate (AUD $10 trillion) is about three times the size of superannuation <a class="yt-timestamp" data-t="00:49:32">[00:49:32]</a>. Many view their homes as "nest eggs," enabled by tax concessions (no capital gains tax on primary residence, no pension assets test) and negative gearing for investors <a class="yt-timestamp" data-t="00:49:43">[00:49:43]</a>.
+    *   While this culture exists, it adjusts with market changes, and affordability problems are less severe in smaller cities and regional centers <a class="yt-timestamp" data-t="00:50:51">[00:50:51]</a>. Homeowners also care about their children's ability to afford housing and remain close to family <a class="yt-timestamp" data-t="00:52:21">[00:52:21]</a>.
+*   **Lack of Agreement and Political Will**: There hasn't been broad agreement on what needs to be done to address housing <a class="yt-timestamp" data-t="00:53:43">[00:53:43]</a>. While economists widely accept that increasing supply improves affordability, many town planners, architects, and academics remain skeptical of market forces <a class="yt-timestamp" data-t="00:55:01">[00:55:01]</a>. State governments have historically lacked the "stomach for a fight" with local councils, though this is changing <a class="yt-timestamp" data-t="01:14:32">[01:14:32]</a>. Councils may resist targets set by state governments, necessitating clear enforcement mechanisms or automatic remedies <a class="yt-timestamp" data-t="01:15:27">[01:15:27]</a>.
+*   **Supply Skepticism**: A significant obstacle is [[public_perceptions_and_political_challenges_of_housing_deregulation | public skepticism]] that increasing housing supply will lower prices. Polls show about a third of the public incorrectly believe extra supply will worsen prices <a class="yt-timestamp" data-t="01:03:40">[01:03:40]</a>. This stems from observing that new supply often appears in response to strong demand, leading to a correlation between supply and higher prices in the public's mind <a class="yt-timestamp" data-t="01:05:06">[01:05:06]</a>.
+*   **Financial System and Credit Access**: The financial system's role in housing unaffordability is complex. While expanding credit can lead to higher prices, it also addresses inefficiencies where borrowers struggle to obtain loans despite being able to service them <a class="yt-timestamp" data-t="01:31:01">[01:31:01]</a>. Policies like loosening serviceability buffers (e.g., reducing the 3% buffer) could boost credit and raise prices, but could be coupled with measures to boost supply or reduce demand-side supports like first homeowner grants for a welfare-improving, demand-neutral shift <a class="yt-timestamp" data-t="01:31:51">[01:31:51]</a>.
+*   **Interstate Migration**: If one city or state upzones and lowers housing prices, it could attract interstate migration, potentially offsetting some of the local affordability gains due to people seeking agglomeration benefits <a class="yt-timestamp" data-t="01:12:33">[01:12:33]</a>. This also ties into the [[impact_of_housing_costs_on_worker_relocation | impact of housing costs on worker relocation]], as unaffordable cities lose dynamic, entrepreneurial citizens <a class="yt-timestamp" data-t="01:13:16">[01:13:16]</a>.
+*   **Infrastructure and Developer Charges**: Integrating transport and housing decisions is crucial; high-density housing should accompany new rail lines <a class="yt-timestamp" data-t="01:25:15">[01:25:15]</a>. Federal government subsidies for transport projects should be contingent on high-density development at stations <a class="yt-timestamp" data-t="01:26:21">[01:26:21]</a>. Developer charges are seen as helpful for correctly factoring in the costs of infrastructure (water, roads) for different locations, with inner suburbs being relatively cheaper due to existing infrastructure capacity <a class="yt-timestamp" data-t="01:35:02">[01:35:02]</a>.
+*   **"Filtering Effect"**: Building housing of any type, in any location, eventually makes housing throughout the entire market more affordable through a "filtering effect" <a class="yt-timestamp" data-t="01:42:01">[01:42:01]</a>. This applies across locations, old vs. new, luxury vs. down-market, and dense vs. detached housing, due to significant substitutability <a class="yt-timestamp" data-t="01:42:15">[01:42:15]</a>.
+
+> [!WARNING] The Worst Case Scenario
+> If nothing changes, Australia risks mirroring cities like San Francisco, Manhattan, or London, where only the ultra-wealthy can afford to live, leading to severe social divisions, reduced productivity growth, and increased inequality <a class="yt-timestamp" data-t="01:30:22">[01:30:22]</a>.
+
+> [!IMPORTANT] Policy Goal
+> The goal is to make housing much more affordable, defined as the ratio of prices or rents to incomes <a class="yt-timestamp" data-t="01:41:36">[01:41:36]</a>. This could be achieved by holding prices and rents flat while incomes rise <a class="yt-timestamp" data-t="01:41:48">[01:41:48]</a>. This will require sustained effort over generations, but the "pendulum is all our way" in terms of increasing acceptance of supply-side solutions <a class="yt-timestamp" data-t="01:56:39">[01:56:39]</a>.

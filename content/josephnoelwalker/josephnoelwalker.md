@@ -1,267 +1,247 @@
 ---
 title: josephnoelwalker
 ---
-### [5 Years of The Irish Times Headlines Related to House Prices](https://www.youtube.com/watch?v=FtbMAPcZ0Q0)
-- [[real_estate_market_trends | real estate market trends]]
-- [[irish_times_headlines_on_housing | Irish Times headlines on housing]]
-- [[housing_market_analysis | housing market analysis]]
-- [[price_changes_over_five_years | price changes over five years]]
-
 ### [Why Indian Family Life Creates America's Most Successful Tech CEOs](https://www.youtube.com/watch?v=h0cORuQYkb4)
-- [[indian_education_system_and_its_impact_on_global_companies | Indian education system and its impact on global companies]]
-- [[overrepresentation_of_indians_in_top_executive_roles | Overrepresentation of Indians in top executive roles]]
-- [[cultural_adaptability_of_indians_from_large_family_experiences | Cultural adaptability of Indians from large family experiences]]
-- [[social_hierarchy_and_communication_skills_in_indian_culture | Social hierarchy and communication skills in Indian culture]]
-- [[impact_of_diaspora_on_technology_leadership | Impact of diaspora on technology leadership]]
-
-### [Nassim Taleb on war, violence, and the odds of WWIII](https://www.youtube.com/watch?v=BNgSpLfxhRE)
-- [[concept_of_shadow_mean_and_its_implications | Concept of Shadow Mean and its implications]]
-- [[fattailed_vs_thintailed_distributions_in_warfare_data | Fattailed vs thintailed distributions in warfare data]]
-- [[interarrival_time_and_its_significance_in_predicting_wars | Interarrival time and its significance in predicting wars]]
-- [[the_role_of_exaggerated_historical_death_counts_in_war_studies | The role of exaggerated historical death counts in war studies]]
-- [[statistical_perspectives_on_global_violence_trends | Statistical perspectives on global violence trends]]
-
-### [Nassim Taleb on prediction, probability, and what Mandelbrot taught him about forecasting](https://www.youtube.com/watch?v=bn1YGi9u-pM)
-- [[binary_versus_continuous_payoffs_in_forecasting | Binary versus continuous payoffs in forecasting]]
-- [[challenges_with_standard_deviation_in_forecasting | Challenges with standard deviation in forecasting]]
-- [[the_role_of_rare_events_in_probability | The role of rare events in probability]]
-- [[limitations_of_super_forecasting | Limitations of super forecasting]]
-- [[probability_as_a_kernel_not_a_product | Probability as a kernel not a product]]
-
-### [Why Australia Could Acquire Nuclear Weapons](https://www.youtube.com/watch?v=eqdU4jSZozE)
-- [[public_opinion_on_australia_acquiring_nuclear_weapons | Public opinion on Australia acquiring nuclear weapons]]
-- [[impact_of_aukus_on_australias_stance_towards_nuclear_power | Impact of AUKUS on Australias stance towards nuclear power]]
-- [[prerequisites_for_australia_to_consider_acquiring_nuclear_weapons | Prerequisites for Australia to consider acquiring nuclear weapons]]
-- [[challenges_related_to_extended_nuclear_deterrence_and_us_alliances | Challenges related to extended nuclear deterrence and US alliances]]
-- [[implications_of_nuclear_blackmail_and_deterrence_by_countries_like_china | Implications of nuclear blackmail and deterrence by countries like China]]
+- [[impact_of_indian_education_system_on_success | Impact of Indian education system on success]]
+- [[role_of_indian_family_dynamics_in_career_success | Role of Indian family dynamics in career success]]
+- [[representation_of_indian_ceos_in_top_global_firms | Representation of Indian CEOs in top global firms]]
+- [[cultural_adaptability_in_multinational_corporations | Cultural adaptability in multinational corporations]]
+- [[navigating_social_hierarchies_rooted_in_indian_culture | Navigating social hierarchies rooted in Indian culture]]
 
 ### [Why America Isn't Intellectually or Culturally Primed For a Contest With China](https://www.youtube.com/watch?v=AP5pYOZPIAA)
-- [[american_political_stance_on_chinas_rise | American political stance on Chinas rise]]
-- [[comparison_of_china_challenge_to_cold_war | Comparison of China challenge to Cold War]]
-- [[role_of_american_presidents_in_addressing_china | Role of American presidents in addressing China]]
-- [[us_intellectual_and_cultural_readiness_for_china_challenge | US intellectual and cultural readiness for China challenge]]
-- [[beltway_community_vs_popular_culture_on_china_threat | Beltway community vs popular culture on China threat]]
+- [[americas_national_mission_regarding_chinas_rise | Americas national mission regarding Chinas rise]]
+- [[comparison_of_chinas_challenge_to_historical_threats_like_cold_war_and_world_war_ii | Comparison of Chinas challenge to historical threats like Cold War and World War II]]
+- [[lack_of_intellectual_and_popular_cultural_engagement_with_chinas_challenge | Lack of intellectual and popular cultural engagement with Chinas challenge]]
+- [[assessment_of_americas_preparedness_for_a_contest_with_china | Assessment of Americas preparedness for a contest with China]]
+- [[role_of_american_intellectuals_and_media_in_addressing_the_china_challenge | Role of American intellectuals and media in addressing the China challenge]]
 
 ### [Larry Summers — AGI And The Next Industrial Revolution](https://www.youtube.com/watch?v=wvBzGK72rgU)
-- [[impact_of_ai_on_economic_growth | Impact of AI on economic growth]]
-- [[historical_context_of_technological_revolutions | Historical context of technological revolutions]]
-- [[challenges_and_opportunities_in_ai_technology | Challenges and opportunities in AI technology]]
-- [[ai_in_developing_economies_and_economic_policy | AI in developing economies and economic policy]]
-- [[geopolitical_and_governance_implications_of_ai | Geopolitical and governance implications of AI]]
+- [[economic_implications_of_ai_and_agi | Economic implications of AI and AGI]]
+- [[technological_revolutions_and_economic_growth | Technological revolutions and economic growth]]
+- [[ai_applications_in_economic_policy_making | AI applications in economic policy making]]
+- [[national_security_and_ai_governance | National security and AI governance]]
+- [[ais_role_in_developing_countries_economic_growth | AIs role in developing countries economic growth]]
 
-### [David Deutsch & Steven Pinker (First Ever Public Dialogue) — AGI, P(Doom), & The Enemies of Progress](https://www.youtube.com/watch?v=3Ho-vJZsMgk)
-- [[artificial_general_intelligence_and_its_feasibility | Artificial General Intelligence and its feasibility]]
-- [[the_philosophical_debate_on_consciousness_in_ai | The philosophical debate on consciousness in AI]]
-- [[potential_existential_risks_and_benefits_of_agi | Potential existential risks and benefits of AGI]]
-- [[the_role_of_creativity_in_human_behavior_and_development | The role of creativity in human behavior and development]]
-- [[limits_to_technological_and_scientific_progress | Limits to technological and scientific progress]]
-
-### [Nassim Taleb — Meditations on Extremistan](https://www.youtube.com/watch?v=cP5tQGWagKc)
-- [[black_swan_theory_and_extremistan | Black Swan Theory and Extremistan]]
-- [[statistical_consequences_of_fat_tails | Statistical consequences of fat tails]]
-- [[heuristics_and_biases_in_decision_making | Heuristics and biases in decision making]]
-- [[venture_capital_and_risk_management | Venture Capital and risk management]]
-- [[precautionary_principle_and_systemic_risks | Precautionary principle and systemic risks]]
-
-### [Katalin Karikó describes her breakthrough discovery that led to mRNA vaccines & her Nobel Prize](https://www.youtube.com/watch?v=DPpTOqgmjcU)
-- [[katalin_kariks_breakthrough_discovery | Katalin Kariks breakthrough discovery]]
-- [[development_of_mrna_vaccines | Development of mRNA vaccines]]
-- [[role_of_rna_and_its_immunogenicity | Role of RNA and its immunogenicity]]
-- [[nucleoside_modification_in_rna | Nucleoside modification in RNA]]
-- [[understanding_immune_response_to_rna | Understanding immune response to RNA]]
+### [Why Australia Could Acquire Nuclear Weapons](https://www.youtube.com/watch?v=eqdU4jSZozE)
+- [[australian_public_opinion_on_nuclear_weapons_acquisition | Australian public opinion on nuclear weapons acquisition]]
+- [[implications_of_the_aukus_agreement_on_nuclear_power | Implications of the AUKUS agreement on nuclear power]]
+- [[nuclear_proliferation_and_regional_security_dynamics_in_asia | Nuclear proliferation and regional security dynamics in Asia]]
+- [[credibility_of_american_extended_nuclear_deterrence | Credibility of American extended nuclear deterrence]]
+- [[nuclear_blackmail_and_its_impact_on_international_relations | Nuclear blackmail and its impact on international relations]]
 
 ### [Why cryopreservation will work — Laura Deming](https://www.youtube.com/watch?v=m_-VGnyTqw8)
 - [[cryopreservation_techniques | Cryopreservation techniques]]
-- [[effects_of_low_temperatures_on_cells | Effects of low temperatures on cells]]
-- [[molecular_randomization_in_cryopreservation | Molecular randomization in cryopreservation]]
-- [[cellular_properties_and_evolution | Cellular properties and evolution]]
-- [[thermal_noise_and_cellular_resilience | Thermal noise and cellular resilience]]
+- [[cellular_response_to_low_temperatures | Cellular response to low temperatures]]
+- [[randomization_of_molecular_motion | Randomization of molecular motion]]
+- [[thermal_noise_and_cellular_evolution | Thermal noise and cellular evolution]]
+- [[invariance_of_cells_to_environmental_changes | Invariance of cells to environmental changes]]
 
 ### [Former RBI Governor Raghuram Rajan explains why central banks all use a 2% inflation target](https://www.youtube.com/watch?v=hbCFQyR6g-g)
-- [[rationale_behind_the_2_inflation_target | Rationale behind the 2 inflation target]]
-- [[comparison_between_inflation_targets_and_capital_requirements | Comparison between inflation targets and capital requirements]]
-- [[consequences_of_higher_than_2_inflation | Consequences of higher than 2 inflation]]
-- [[challenges_in_adjusting_inflation_targets | Challenges in adjusting inflation targets]]
-- [[historical_context_of_inflation_targets_and_central_bank_policies | Historical context of inflation targets and central bank policies]]
+- [[central_banks_and_2_inflation_target | Central banks and 2 inflation target]]
+- [[comparison_with_basel_capital_requirements | Comparison with Basel Capital requirements]]
+- [[consequences_of_high_inflation | Consequences of high inflation]]
+- [[price_stability_and_inflation_anchoring | Price stability and inflation anchoring]]
+- [[challenges_of_changing_inflation_targets | Challenges of changing inflation targets]]
 
 ### [An Ode To The Uncorrelated Thinker — Eric Weinstein | #100](https://www.youtube.com/watch?v=C84cpRGGC5U)
-- [[the_role_of_uncorrelated_thinkers | The role of uncorrelated thinkers]]
-- [[impacts_of_cultural_shifts_on_society | Impacts of cultural shifts on society]]
-- [[challenges_of_modern_progressivism_and_political_ideologies | Challenges of modern progressivism and political ideologies]]
-- [[investment_and_future_of_technology | Investment and future of technology]]
-- [[the_potential_for_human_survival_beyond_earth | The potential for human survival beyond Earth]]
-
-### [Bryan Caplan — The Economics of Housing Abundance](https://www.youtube.com/watch?v=qvwICVx7qmU)
-- [[housing_deregulation | housing deregulation]]
-- [[productivity_gains_from_urbanization | productivity gains from urbanization]]
-- [[relationship_between_immigration_and_housing | relationship between immigration and housing]]
-- [[economic_impacts_of_zoning_and_land_use_regulations | economic impacts of zoning and land use regulations]]
-- [[cultural_and_economic_factors_affecting_fertility | cultural and economic factors affecting fertility]]
-
-### [Ken Henry — What Killed the Reform Era?](https://www.youtube.com/watch?v=Sl_CrRuTiHE)
-- [[economic_reforms_in_australia | Economic reforms in Australia]]
-- [[impact_of_artificial_intelligence_on_government_and_labor | Impact of artificial intelligence on government and labor]]
-- [[historical_perspective_on_technological_advancements_in_government | Historical perspective on technological advancements in government]]
-- [[challenges_of_policy_innovation_and_implementation | Challenges of policy innovation and implementation]]
-- [[australias_population_growth_and_urban_planning | Australias population growth and urban planning]]
-
-### [Behind the Scenes of My Interview Research Process — Andy Matuschak Crashes My Crib!](https://www.youtube.com/watch?v=QTI69kKeaC4)
-- [[tips_on_systematic_interview_preparation | tips on systematic interview preparation]]
-- [[unique_interview_prep_strategies | unique interview prep strategies]]
-- [[role_of_memory_prompts_in_learning | role of memory prompts in learning]]
-- [[impact_of_thorough_preparation_on_interviews | impact of thorough preparation on interviews]]
-- [[challenges_in_learning_and_comprehension | challenges in learning and comprehension]]
-
-### [Economist Shruti Rajagopalan on the $20 bills that VCs are overlooking in India](https://www.youtube.com/watch?v=bB1SWGpSSeo)
-- [[public_goods_in_the_us_versus_india | Public goods in the US versus India]]
-- [[role_of_the_private_sector_in_india | Role of the private sector in India]]
-- [[venture_capital_focus_on_software_versus_hardware | Venture Capital focus on software versus hardware]]
-- [[market_risk_versus_product_risk | Market risk versus product risk]]
-- [[indian_versus_american_venture_capital_approaches | Indian versus American venture capital approaches]]
-
-### [Nobel laureate Katalin Karikó shares the story of how the University of Pennsylvania demoted her](https://www.youtube.com/watch?v=7hhPb4POJ-Y)
-- [[katalin_karikos_early_career_at_the_university_of_pennsylvania | Katalin Karikos early career at the University of Pennsylvania]]
-- [[challenges_in_obtaining_research_funding_for_rna_work | Challenges in obtaining research funding for RNA work]]
-- [[circular_rna_research_proposals_and_rejections | Circular RNA research proposals and rejections]]
-- [[university_policies_on_faculty_promotion_and_tenure | University policies on faculty promotion and tenure]]
-- [[demotion_of_katalin_kariko_in_1995 | Demotion of Katalin Kariko in 1995]]
-
-### [Eight Things I Learned From My Aussie Policy Series](https://www.youtube.com/watch?v=GZ2-64ylEss)
-- [[decline_in_australias_educational_outcomes | Decline in Australias educational outcomes]]
-- [[uschina_relations_and_strategic_dominance_in_asia | USChina relations and strategic dominance in Asia]]
-- [[australias_state_capacity_and_government_efficiency | Australias state capacity and government efficiency]]
-- [[historical_and_cultural_roots_of_australian_egalitarianism | Historical and cultural roots of Australian egalitarianism]]
-- [[challenges_and_strategies_in_addressing_housing_affordability_in_australia | Challenges and strategies in addressing housing affordability in Australia]]
-
-### [Back To The Future — Tyler Cowen | #104](https://www.youtube.com/watch?v=2MLZxJuzT5E)
-- [[ethics_and_the_value_of_life | Ethics and the value of life]]
-- [[the_importance_of_caring_for_the_distant_future | The importance of caring for the distant future]]
-- [[economic_growth_and_the_great_stagnation | Economic growth and the great stagnation]]
-- [[role_of_philosophy_in_understanding_modern_issues | Role of philosophy in understanding modern issues]]
-- [[speculations_on_space_colonization_and_existential_risks | Speculations on space colonization and existential risks]]
+- [[eric_weinsteins_theory_of_everything_and_contrarian_thinking | Eric Weinsteins theory of everything and contrarian thinking]]
+- [[impact_of_covid19_on_social_and_political_dynamics | Impact of COVID19 on social and political dynamics]]
+- [[challenges_of_modern_society_and_governance | Challenges of modern society and governance]]
+- [[racial_and_social_justice_movements | Racial and social justice movements]]
+- [[potential_solutions_to_global_existential_risks | Potential solutions to global existential risks]]
 
 ### [Sam Roggeveen — Why the US Won’t Fight China for Dominance (and What It Means for Australia)](https://www.youtube.com/watch?v=Uq9n62A07mE)
-- [[uschina_economic_and_military_dynamics | USChina economic and military dynamics]]
-- [[australias_selfreliant_defense_strategies | Australias selfreliant defense strategies]]
-- [[the_akidna_strategy_for_australia | The Akidna Strategy for Australia]]
-- [[australiaindonesia_strategic_relations | AustraliaIndonesia strategic relations]]
-- [[nuclear_proliferation_and_its_implications | Nuclear proliferation and its implications]]
+- [[us_china_economic_and_military_power_dynamics | US China economic and military power dynamics]]
+- [[australias_defense_strategy_and_autonomy | Australias defense strategy and autonomy]]
+- [[the_akidna_strategy_for_australias_defense | The Akidna Strategy for Australias defense]]
+- [[australias_relationship_with_indonesia | Australias relationship with Indonesia]]
+- [[nuclear_proliferation_and_deterrence_in_asia | Nuclear proliferation and deterrence in Asia]]
+
+### [David Deutsch & Steven Pinker (First Ever Public Dialogue) — AGI, P(Doom), & The Enemies of Progress](https://www.youtube.com/watch?v=3Ho-vJZsMgk)
+- [[artificial_general_intelligence_agi_and_its_possibilities | Artificial General Intelligence AGI and its possibilities]]
+- [[rational_basis_for_progress | Rational basis for progress]]
+- [[challenges_and_opportunities_in_technological_development | Challenges and opportunities in technological development]]
+- [[heritability_and_human_creativity | Heritability and human creativity]]
+- [[potential_limits_to_civilization_growth | Potential limits to civilization growth]]
+
+### [Nassim Taleb on prediction, probability, and what Mandelbrot taught him about forecasting](https://www.youtube.com/watch?v=bn1YGi9u-pM)
+- [[binary_versus_continuous_payoffs_in_options_trading | Binary versus continuous payoffs in options trading]]
+- [[the_impact_of_fat_tails_on_prediction_and_option_value | The impact of fat tails on prediction and option value]]
+- [[limitations_of_traditional_forecasting_methods | Limitations of traditional forecasting methods]]
+- [[mandelbrots_influence_on_understanding_extreme_events | Mandelbrots influence on understanding extreme events]]
+- [[probability_and_prediction_in_finance_and_economics | Probability and prediction in finance and economics]]
+
+### [Bryan Caplan — The Economics of Housing Abundance](https://www.youtube.com/watch?v=qvwICVx7qmU)
+- [[the_economics_and_ethics_of_housing_regulation | The economics and ethics of housing regulation]]
+- [[the_impact_of_housing_deregulation_on_urban_development_and_city_dynamics | The impact of housing deregulation on urban development and city dynamics]]
+- [[the_relationship_between_immigration_housing_and_economic_growth | The relationship between immigration housing and economic growth]]
+- [[public_perceptions_and_political_challenges_of_housing_deregulation | Public perceptions and political challenges of housing deregulation]]
+- [[historical_and_potential_future_population_density_and_urbanization_trends | Historical and potential future population density and urbanization trends]]
+
+### [Behind the Scenes of My Interview Research Process — Andy Matuschak Crashes My Crib!](https://www.youtube.com/watch?v=QTI69kKeaC4)
+- [[interview_research_preparation | interview research preparation]]
+- [[tools_for_learning_and_memory | tools for learning and memory]]
+- [[importance_of_intensive_study | importance of intensive study]]
+- [[challenges_of_mastering_new_fields_quickly | challenges of mastering new fields quickly]]
+- [[structuring_and_prioritizing_interview_questions | structuring and prioritizing interview questions]]
+
+### [Katalin Karikó describes her breakthrough discovery that led to mRNA vaccines & her Nobel Prize](https://www.youtube.com/watch?v=DPpTOqgmjcU)
+- [[mrna_and_its_inflammatory_response | mRNA and its inflammatory response]]
+- [[differences_between_synthetic_and_cellderived_rna | Differences between synthetic and cellderived RNA]]
+- [[transfer_rna_and_immune_response | Transfer RNA and immune response]]
+- [[nucleoside_modifications_and_nonimmunogenic_rna | Nucleoside modifications and nonimmunogenic RNA]]
+- [[understanding_immune_response_to_external_rna | Understanding immune response to external RNA]]
 
 ### [Hard-Earned Lessons From A Maverick Who Made It — Mark Cuban | #119](https://www.youtube.com/watch?v=iQqYboxmJFU)
-- [[mark_cubans_upbringing_and_background | Mark Cubans upbringing and background]]
-- [[business_strategies_and_innovations | Business strategies and innovations]]
-- [[the_film_industry_and_producing_successful_movies | The film industry and producing successful movies]]
-- [[stock_market_insights_and_investment_strategies | Stock market insights and investment strategies]]
-- [[political_views_and_potential_reforms_in_the_us | Political views and potential reforms in the US]]
+- [[mark_cubans_background_and_early_life | Mark Cubans Background and Early Life]]
+- [[the_importance_of_empathy_in_business_and_sales | The Importance of Empathy in Business and Sales]]
+- [[challenges_and_insights_in_the_film_industry | Challenges and Insights in the Film Industry]]
+- [[the_role_of_innovation_and_technology_in_business | The Role of Innovation and Technology in Business]]
+- [[the_american_political_landscape_and_potential_reforms | The American Political Landscape and Potential Reforms]]
+
+### [Ken Henry — What Killed the Reform Era?](https://www.youtube.com/watch?v=Sl_CrRuTiHE)
+- [[australias_economic_reform_era | Australias Economic Reform Era]]
+- [[artificial_intelligence_and_its_impact_on_governance | Artificial Intelligence and Its Impact on Governance]]
+- [[the_role_of_the_public_service_in_economic_policy | The Role of the Public Service in Economic Policy]]
+- [[population_growth_and_sustainable_development_in_australia | Population Growth and Sustainable Development in Australia]]
+- [[challenges_of_modern_tax_and_economic_policies | Challenges of Modern Tax and Economic Policies]]
+
+### [Economist Shruti Rajagopalan on the $20 bills that VCs are overlooking in India](https://www.youtube.com/watch?v=bB1SWGpSSeo)
+- [[public_goods_and_private_sector_roles_in_the_us_and_india | Public goods and private sector roles in the US and India]]
+- [[hardware_versus_software_investment_in_india | Hardware versus software investment in India]]
+- [[venture_capitalists_risk_perception_in_product_development | Venture capitalists risk perception in product development]]
+- [[market_risk_versus_product_risk_in_india | Market risk versus product risk in India]]
+- [[angel_investors_versus_venture_capitalists_in_india | Angel investors versus venture capitalists in India]]
+
+### [Nassim Taleb — Meditations on Extremistan](https://www.youtube.com/watch?v=cP5tQGWagKc)
+- [[nassim_talebs_theories_on_extremistan | Nassim Talebs theories on Extremistan]]
+- [[understanding_fat_tails_in_probability_distributions | Understanding fat tails in probability distributions]]
+- [[black_swan_events_and_their_implications | Black Swan events and their implications]]
+- [[debates_in_behavioral_economics | Debates in behavioral economics]]
+- [[precautionary_principle_in_policy_making | Precautionary principle in policy making]]
+
+### [Nobel laureate Katalin Karikó shares the story of how the University of Pennsylvania demoted her](https://www.youtube.com/watch?v=7hhPb4POJ-Y)
+- [[katalin_karikos_early_career_at_university_of_pennsylvania | Katalin Karikos early career at University of Pennsylvania]]
+- [[challenges_in_acquiring_research_grants | Challenges in acquiring research grants]]
+- [[research_on_circular_rna_and_related_experiments | Research on circular RNA and related experiments]]
+- [[criticism_and_feedback_on_rna_research_proposals | Criticism and feedback on RNA research proposals]]
+- [[university_of_pennsylvania_faculty_tenure_policies | University of Pennsylvania faculty tenure policies]]
+
+### [Back To The Future — Tyler Cowen | #104](https://www.youtube.com/watch?v=2MLZxJuzT5E)
+- [[the_value_of_life_and_existential_risk | The value of life and existential risk]]
+- [[discount_rates_and_the_distant_future | Discount rates and the distant future]]
+- [[utilitarian_ethics_and_rule_consequentialism | Utilitarian ethics and rule consequentialism]]
+- [[the_great_stagnation_and_economic_growth | The great stagnation and economic growth]]
+- [[impact_of_culture_and_institutions_on_savings_and_economic_development | Impact of culture and institutions on savings and economic development]]
 
 ### [Why 36% of Australians want their country to acquire nuclear weapons](https://www.youtube.com/watch?v=TyTw75xP5rs)
-- [[low_institute_poll_on_nuclear_weapons_support_in_australia | Low Institute poll on nuclear weapons support in Australia]]
-- [[public_opinion_on_nuclear_weapons_in_australia | Public opinion on nuclear weapons in Australia]]
-- [[historical_perspective_on_antinuclear_sentiment_in_australia | Historical perspective on antinuclear sentiment in Australia]]
-- [[reactions_to_australias_potential_nuclear_developments | Reactions to Australias potential nuclear developments]]
-- [[polling_methods_and_interpretation_in_nuclear_weapons_surveys | Polling methods and interpretation in nuclear weapons surveys]]
+- [[nuclear_weapons_poll_in_australia | Nuclear weapons poll in Australia]]
+- [[public_opinion_on_nuclear_weapons | Public opinion on nuclear weapons]]
+- [[australias_historical_antinuclear_stance | Australias historical antinuclear stance]]
+- [[australia_and_nuclear_power | Australia and nuclear power]]
+- [[interpreting_poll_results | Interpreting poll results]]
 
-### [Abul Rizvi — Inside Immigration Policy [Aus. Policy Series]](https://www.youtube.com/watch?v=TfRwe-f7S-8)
-- [[impact_of_2001_immigration_policy_changes_in_australia | Impact of 2001 immigration policy changes in Australia]]
-- [[role_of_international_students_in_australias_immigration_system | Role of international students in Australias immigration system]]
-- [[link_between_immigration_policy_and_australias_demographic_challenges | Link between immigration policy and Australias demographic challenges]]
-- [[government_control_and_public_perception_of_immigration_in_australia | Government control and public perception of immigration in Australia]]
-- [[challenges_and_solutions_for_handling_unauthorized_migrants_in_australia | Challenges and solutions for handling unauthorized migrants in Australia]]
-
-### [Inside Humanity’s Infinite Improbability Drive — Matt Ridley | #95](https://www.youtube.com/watch?v=WOnamZVhGoQ)
-- [[selfish_gene_theory_and_evolutionary_biology | Selfish Gene Theory and Evolutionary Biology]]
-- [[innovation_and_technology_development | Innovation and Technology Development]]
-- [[economic_freedom_and_political_systems | Economic Freedom and Political Systems]]
-- [[innovation_challenges_and_the_role_of_regulation | Innovation Challenges and the Role of Regulation]]
-- [[importance_of_collaboration_and_serendipity_in_innovation | Importance of Collaboration and Serendipity in Innovation]]
+### [Eight Things I Learned From My Aussie Policy Series](https://www.youtube.com/watch?v=GZ2-64ylEss)
+- [[decline_in_australian_high_school_test_scores | Decline in Australian high school test scores]]
+- [[us_and_china_strategic_relationship | US and China strategic relationship]]
+- [[australian_state_capacity_and_government_expectations | Australian state capacity and government expectations]]
+- [[australian_immigration_policy_and_population_aging | Australian immigration policy and population aging]]
+- [[housing_affordability_crisis_in_australia | Housing affordability crisis in Australia]]
 
 ### [Rob Boyd & Pete Richerson — How Ice Age Climate Chaos Made Humans Cultural Animals](https://www.youtube.com/watch?v=Vamgmr_urxE)
 - [[cultural_evolution_and_its_significance | Cultural evolution and its significance]]
-- [[the_development_of_toolmaking_in_early_humans | The development of toolmaking in early humans]]
-- [[interplay_between_climate_change_and_human_evolution | Interplay between climate change and human evolution]]
-- [[geneculture_coevolution_in_human_history | Geneculture coevolution in human history]]
-- [[impact_of_modern_society_on_fertility_and_cultural_transmission | Impact of modern society on fertility and cultural transmission]]
+- [[tool_use_and_early_human_behavior | Tool use and early human behavior]]
+- [[impact_of_climate_variation_on_human_evolution | Impact of climate variation on human evolution]]
+- [[bipedalism_and_brain_size_evolution | Bipedalism and brain size evolution]]
+- [[cultural_evolution_and_demographic_transition | Cultural evolution and demographic transition]]
 
 ### [Escaping communist Hungary for America - Katalin Karikó](https://www.youtube.com/watch?v=_O1h6Il-kNU)
-- [[challenges_of_immigrating_from_communist_hungary | Challenges of immigrating from communist Hungary]]
-- [[restrictions_on_currency_and_movement_in_hungary | Restrictions on currency and movement in Hungary]]
-- [[selling_items_on_the_black_market_for_survival | Selling items on the black market for survival]]
-- [[smuggling_money_to_america | Smuggling money to America]]
-- [[personal_resilience_and_adaptation | Personal resilience and adaptation]]
-
-### [Peter Tulip — What Will It Actually Take to Solve the Housing Crisis? [Aus. Policy Series]](https://www.youtube.com/watch?v=dO2GPuhgy1k)
-- [[history_of_housing_affordability_issues | History of housing affordability issues]]
-- [[causes_of_the_housing_crisis_in_australia | Causes of the housing crisis in Australia]]
-- [[zoning_regulations_and_their_impact_on_housing_supply | Zoning regulations and their impact on housing supply]]
-- [[potential_solutions_for_increasing_housing_supply | Potential solutions for increasing housing supply]]
-- [[economic_and_social_consequences_of_unaffordable_housing | Economic and social consequences of unaffordable housing]]
+- [[escaping_communist_hungary | Escaping communist Hungary]]
+- [[immigration_challenges_to_america | Immigration challenges to America]]
+- [[financial_struggles_and_black_market | Financial struggles and black market]]
+- [[strategies_for_smuggling_money | Strategies for smuggling money]]
+- [[personal_reflections_on_adversity | Personal reflections on adversity]]
 
 ### [Economics Professor explains how cheaper housing will make America way more productive](https://www.youtube.com/watch?v=sL_yIenyTkc)
-- [[impact_of_housing_deregulation_on_productivity | Impact of housing deregulation on productivity]]
+- [[housing_deregulation_and_productivity | Housing deregulation and productivity]]
 - [[economic_benefits_of_immigration | Economic benefits of immigration]]
-- [[regional_productivity_disparities_in_the_us | Regional productivity disparities in the US]]
-- [[housing_costs_and_migration_patterns | Housing costs and migration patterns]]
-- [[historical_migration_trends_in_the_us | Historical migration trends in the US]]
+- [[regional_economic_mobility_in_america | Regional economic mobility in America]]
+- [[impact_of_housing_costs_on_worker_relocation | Impact of housing costs on worker relocation]]
+- [[historical_trends_in_us_internal_migration | Historical trends in US internal migration]]
 
-### [How Nobel laureate Katalin Karikó kept researching despite being demoted and not getting grants](https://www.youtube.com/watch?v=47SC8IpXyVw)
-- [[katalin_karikos_laboratory_work_and_experiments | Katalin Karikos laboratory work and experiments]]
-- [[empowerment_and_satisfaction_in_scientific_research | Empowerment and satisfaction in scientific research]]
-- [[challenges_of_securing_research_grants | Challenges of securing research grants]]
-- [[personal_happiness_and_scientific_discovery | Personal happiness and scientific discovery]]
-- [[understanding_and_solving_technical_problems_in_research | Understanding and solving technical problems in research]]
+### [Inside Humanity’s Infinite Improbability Drive — Matt Ridley | #95](https://www.youtube.com/watch?v=WOnamZVhGoQ)
+- [[selfish_gene_theory_and_its_impact_on_understanding_evolution | Selfish gene theory and its impact on understanding evolution]]
+- [[the_interplay_between_innovation_trial_and_error_and_natural_selection | The interplay between innovation trial and error and natural selection]]
+- [[role_of_collaboration_and_freedom_of_expression_in_fostering_innovation | Role of collaboration and freedom of expression in fostering innovation]]
+- [[the_relationship_between_economic_freedom_and_innovation | The relationship between economic freedom and innovation]]
+- [[challenges_and_opportunities_in_modern_technological_innovation | Challenges and opportunities in modern technological innovation]]
 
-### [Raghuram Rajan explains the deep causes of the 2008 financial crisis](https://www.youtube.com/watch?v=akVGZ8rDbvY)
-- [[housing_credit_expansion | Housing credit expansion]]
-- [[impact_of_easy_credit_on_wealth | Impact of easy credit on wealth]]
-- [[political_pressure_and_credit_availability | Political pressure and credit availability]]
-- [[home_equity_and_debt_illusion | Home equity and debt illusion]]
-- [[risks_of_a_housing_market_bubble | Risks of a housing market bubble]]
+### [Peter Tulip — What Will It Actually Take to Solve the Housing Crisis? [Aus. Policy Series]](https://www.youtube.com/watch?v=dO2GPuhgy1k)
+- [[historical_context_of_the_housing_crisis | Historical context of the housing crisis]]
+- [[economic_factors_affecting_housing_affordability_in_australia | Economic factors affecting housing affordability in Australia]]
+- [[zoning_regulations_and_their_impact_on_housing_supply | Zoning regulations and their impact on housing supply]]
+- [[homeowner_motivations_and_community_opposition_to_development | Homeowner motivations and community opposition to development]]
+- [[policy_solutions_to_address_the_housing_crisis | Policy solutions to address the housing crisis]]
 
-### [Richard Holden & Steven Hamilton — How Australia Gets It Done [Aus. Policy Series]](https://www.youtube.com/watch?v=OIAqcaeVhuY)
-- [[australias_response_to_the_covid19_pandemic | Australias response to the COVID19 pandemic]]
-- [[state_capacity_and_government_efficiency | State capacity and government efficiency]]
-- [[economic_policy_and_jobkeeper_program | Economic policy and jobkeeper program]]
-- [[vaccine_procurement_strategy | Vaccine procurement strategy]]
-- [[public_administration_and_service_delivery | Public administration and service delivery]]
+### [Abul Rizvi — Inside Immigration Policy [Aus. Policy Series]](https://www.youtube.com/watch?v=TfRwe-f7S-8)
+- [[australian_immigration_policy_changes_in_2001 | Australian immigration policy changes in 2001]]
+- [[role_of_international_students_in_australian_immigration | Role of international students in Australian immigration]]
+- [[impact_of_immigration_on_the_australian_economy_and_demography | Impact of immigration on the Australian economy and demography]]
+- [[challenges_and_strategies_in_managing_migrant_integration | Challenges and strategies in managing migrant integration]]
+- [[issues_of_migration_control_and_public_perception | Issues of migration control and public perception]]
 
 ### [The time Tyler Cowen told Shruti Rajagopalan her failure rate as a talent scout seemed too LOW](https://www.youtube.com/watch?v=vF1bNRaIaKA)
-- [[talent_scouting_in_india | Talent scouting in India]]
-- [[risk_assessment_in_talent_selection | Risk assessment in talent selection]]
-- [[rejection_analysis_in_talent_scouting | Rejection analysis in talent scouting]]
-- [[evaluating_success_and_failure_rates | Evaluating success and failure rates]]
-- [[continuous_improvement_in_decision_making | Continuous improvement in decision making]]
+- [[risk_assessment_in_talent_scouting | risk assessment in talent scouting]]
+- [[importance_of_failure_rate_in_talent_selection | importance of failure rate in talent selection]]
+- [[evaluation_of_rejected_candidates | evaluation of rejected candidates]]
+- [[importance_of_reevaluation_in_project_selection | importance of reevaluation in project selection]]
+- [[tyler_cowens_perspective_on_risktaking | Tyler Cowens perspective on risktaking]]
 
-### [What do most Western VCs get wrong when investing in Indian startups?](https://www.youtube.com/watch?v=J70z6X0HJHU)
-- [[overestimation_of_market_size_in_indian_startups | Overestimation of market size in Indian startups]]
-- [[indias_digital_revolution_contrast_with_developed_countries | Indias digital revolution contrast with developed countries]]
-- [[discrepancy_between_digital_access_and_disposable_income_in_india | Discrepancy between digital access and disposable income in India]]
-- [[impact_of_misconceptions_on_investments_in_indian_tech_sector | Impact of misconceptions on investments in Indian tech sector]]
-- [[analysis_of_the_true_addressable_market_for_western_vcs_in_india | Analysis of the true addressable market for Western VCs in India]]
+### [Richard Holden & Steven Hamilton — How Australia Gets It Done [Aus. Policy Series]](https://www.youtube.com/watch?v=OIAqcaeVhuY)
+- [[australias_state_capacity_and_pandemic_response | Australias state capacity and pandemic response]]
+- [[economic_interventions_in_crises_including_the_jobkeeper_program | Economic interventions in crises including the JobKeeper program]]
+- [[state_capability_and_policy_efficacy_in_australia | State capability and policy efficacy in Australia]]
+- [[challenges_in_vaccine_procurement_during_the_covid19_pandemic | Challenges in vaccine procurement during the COVID19 pandemic]]
+- [[reforms_and_improvements_in_public_policy_and_governance | Reforms and improvements in public policy and governance]]
+
+### [Andrew Leigh — Inequality and Egalitarianism [Aus. Policy Series]](https://www.youtube.com/watch?v=OP9UDuzofLA)
+- [[historical_egalitarianism_in_australia | Historical egalitarianism in Australia]]
+- [[economic_inequality_trends_in_australia | Economic inequality trends in Australia]]
+- [[impact_of_education_on_inequality | Impact of education on inequality]]
+- [[cultural_dimensions_of_egalitarianism | Cultural dimensions of egalitarianism]]
+- [[role_of_policy_and_taxation_in_reducing_inequality | Role of policy and taxation in reducing inequality]]
 
 ### [Richard Butler — Nuclear Diplomacy at the End of History](https://www.youtube.com/watch?v=nRgCdlka498)
-- [[nuclear_nonproliferation_and_its_historical_context | Nuclear nonproliferation and its historical context]]
-- [[the_role_of_the_nuclear_nonproliferation_treaty_in_global_arms_control | The role of the Nuclear Nonproliferation Treaty in global arms control]]
-- [[richard_butlers_diplomatic_career_and_contributions_to_nuclear_diplomacy | Richard Butlers diplomatic career and contributions to nuclear diplomacy]]
-- [[the_experiences_and_challenges_of_weapons_inspections_and_verification | The experiences and challenges of weapons inspections and verification]]
-- [[the_future_of_nuclear_disarmament_and_global_security_concerns | The future of nuclear disarmament and global security concerns]]
+- [[nuclear_nonproliferation_success_factors | Nuclear nonproliferation success factors]]
+- [[the_role_of_the_nuclear_nonproliferation_treaty | The role of the Nuclear NonProliferation Treaty]]
+- [[australias_historical_stance_on_nuclear_weapons | Australias historical stance on nuclear weapons]]
+- [[the_comprehensive_nucleartestban_treaty_negotiations | The Comprehensive NuclearTestBan Treaty negotiations]]
+- [[insights_on_diplomatic_strategies_and_multilateral_diplomacy | Insights on diplomatic strategies and multilateral diplomacy]]
+
+### [What do most Western VCs get wrong when investing in Indian startups?](https://www.youtube.com/watch?v=J70z6X0HJHU)
+- [[overestimation_of_the_indian_market_size_by_western_vcs | Overestimation of the Indian market size by Western VCs]]
+- [[indias_unique_digital_revolution_compared_to_the_developed_world | Indias unique digital revolution compared to the developed world]]
+- [[differences_in_disposable_income_and_digital_consumption_in_india | Differences in disposable income and digital consumption in India]]
+- [[misinterpretation_of_indias_total_addressable_market_by_foreign_investors | Misinterpretation of Indias total addressable market by foreign investors]]
+- [[challenges_in_replicating_western_business_models_in_india | Challenges in replicating Western business models in India]]
 
 ### [Laura Deming — On Pausing Biological Time & Preserving the Continuous Self](https://www.youtube.com/watch?v=i0oMjqNCgsc)
 - [[philosophical_implications_of_longevity | Philosophical implications of longevity]]
-- [[cryopreservation_and_its_potential_for_human_lifespan_extension | Cryopreservation and its potential for human lifespan extension]]
-- [[transhumanism_and_its_sociopolitical_impact | Transhumanism and its sociopolitical impact]]
-- [[role_of_scientific_awe_in_personal_and_professional_development | Role of scientific awe in personal and professional development]]
-- [[challenges_and_future_directions_in_longevity_science | Challenges and future directions in longevity science]]
-
-### [Andrew Leigh — Inequality and Egalitarianism [Aus. Policy Series]](https://www.youtube.com/watch?v=OP9UDuzofLA)
-- [[australian_egalitarianism_and_its_historical_context | Australian egalitarianism and its historical context]]
-- [[economic_inequality_trends_in_australia | Economic inequality trends in Australia]]
-- [[factors_contributing_to_income_inequality | Factors contributing to income inequality]]
-- [[impact_of_education_on_inequality | Impact of education on inequality]]
-- [[policy_considerations_for_addressing_inequality | Policy considerations for addressing inequality]]
+- [[cryopreservation_and_its_applications | Cryopreservation and its applications]]
+- [[emerging_technologies_in_life_extension | Emerging technologies in life extension]]
+- [[transhumanism_and_personal_identity | Transhumanism and personal identity]]
+- [[communicating_and_investing_in_longevity_science | Communicating and investing in longevity science]]
 
 ### [Judith Brett — How Benthamite Thinking Shaped Australia's Electoral System [Aus. Policy Series]](https://www.youtube.com/watch?v=BB0fiijMLAI)
-- [[australias_electoral_system_and_its_uniqueness | Australias electoral system and its uniqueness]]
-- [[benthamite_influence_on_australian_political_institutions | Benthamite influence on Australian political institutions]]
-- [[the_role_of_compulsory_voting_in_australia | The role of compulsory voting in Australia]]
-- [[the_development_and_impact_of_preferential_voting_in_australia | The development and impact of preferential voting in Australia]]
-- [[the_influence_of_historical_and_sociopolitical_contingencies_on_australian_voting | The influence of historical and sociopolitical contingencies on Australian voting]]
+- [[australias_unique_electoral_system | Australias unique electoral system]]
+- [[influence_of_benthamite_thinking_on_australian_politics | Influence of Benthamite thinking on Australian politics]]
+- [[compulsory_voting_and_its_implications | Compulsory voting and its implications]]
+- [[preferential_voting_and_political_culture_in_australia | Preferential voting and political culture in Australia]]
+- [[historical_development_of_voting_rights_in_australia | Historical development of voting rights in Australia]]
+
+### [Raghuram Rajan explains the deep causes of the 2008 financial crisis](https://www.youtube.com/watch?v=akVGZ8rDbvY)
+- [[causes_of_the_2008_financial_crisis | Causes of the 2008 financial crisis]]
+- [[impact_of_easy_credit_policies | Impact of easy credit policies]]
+- [[effects_of_housing_appreciation_on_wealth | Effects of housing appreciation on wealth]]
+- [[role_of_political_pressure_in_credit_expansion | Role of political pressure in credit expansion]]
+- [[consequences_of_borrowing_against_home_equity | Consequences of borrowing against home equity]]

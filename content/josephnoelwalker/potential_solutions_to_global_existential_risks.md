@@ -1,0 +1,44 @@
+---
+title: Potential solutions to global existential risks
+videoId: C84cpRGGC5U
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+The present era is characterized by an alarming acceleration of global threats, which are described as a "multiplicative threat" <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. These range from plagues to the looming "apocalypse" <a class="yt-timestamp" data-t="00:07:19">[00:07:19]</a>. A primary concern is the "twin nuclei problem" – the unleashing of the power of the cell and the atom, which together possess enough power to wipe out humanity <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>. This includes concerns about whether current viruses are connected to investigation, tinkering, or weaponization laboratories <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>.
+
+The interconnected, globalized nature of modern society means that [[the_value_of_life_and_existential_risk | existential risks]] can propagate rapidly through the entire system <a class="yt-timestamp" data-t="01:05:01">[01:05:01]</a>. Events like COVID-19 serve as a stark reminder that we are all operating as "one correlated experiment" <a class="yt-timestamp" data-t="01:44:03">[01:44:03]</a>. This includes the risks of industrial nuclear accidents, like Chernobyl <a class="yt-timestamp" data-t="01:47:22">[01:47:22]</a>, cyber attacks <a class="yt-timestamp" data-t="01:51:37">[01:51:37]</a>, solar storms <a class="yt-timestamp" data-t="01:51:42">[01:51:42]</a>, and runaway loops with permafrost and methane <a class="yt-timestamp" data-t="01:51:44">[01:51:44]</a>. If a virus were "three orders of magnitude worse" than COVID-19, or if a "completely catastrophic nuclear exchange" were to occur, humanity would be in severe peril <a class="yt-timestamp" data-t="01:46:27">[01:46:27]</a>.
+
+## The Need for Escape and Diversification
+
+To mitigate these global risks, a key proposed solution is to diversify humanity's "portfolio" <a class="yt-timestamp" data-t="01:05:12">[01:05:12]</a>. This means escaping Earth and establishing human settlements elsewhere:
+*   **Colonize other planets** <a class="yt-timestamp" data-t="01:05:16">[01:05:16]</a>.
+*   **Potentially even other star systems** <a class="yt-timestamp" data-t="01:05:18">[01:05:18]</a>.
+
+The current situation is likened to being "trapped" on Earth, which is metaphorically described as a "prison" <a class="yt-timestamp" data-t="01:57:08">[01:57:08]</a>. This perspective highlights the urgency of finding a way to leave, as "not all human experiments are going to work" <a class="yt-timestamp" data-t="01:44:40">[01:44:40]</a>, and running "one correlated experiment" with seven billion people is "signing our own death warrant" <a class="yt-timestamp" data-t="01:44:47">[01:44:47]</a>.
+
+## Challenges to Escape: The Einsteinian Speed Limit
+
+The major obstacle to escaping Earth is the "Einsteinian speed limit," which dictates that nothing can travel faster than the speed of light <a class="yt-timestamp" data-t="01:53:03">[01:53:03]</a>. This means distances measured in "light years" <a class="yt-timestamp" data-t="01:53:37">[01:53:37]</a> imply thousands of years of travel, which is not feasible for human exploration or colonization <a class="yt-timestamp" data-t="01:54:02">[01:54:02]</a>. Our current scientific understanding, based on Einstein's rules, indicates "there's no way out" <a class="yt-timestamp" data-t="01:54:14">[01:54:14]</a>.
+
+[!WARNING|The "Einstein-Bohr Death Sentence"]
+Physicists, through their discoveries, "consigned us to death" <a class="yt-timestamp" data-t="01:49:26">[01:49:26]</a>. They gave humanity the ability to unlock the power of fusion (atomic weapons) <a class="yt-timestamp" data-t="01:50:21">[01:50:21]</a> and were instrumental in the creation of molecular biology (the cell's power) <a class="yt-timestamp" data-t="01:55:56">[01:55:56]</a>, yet also indicated that humanity cannot escape Earth <a class="yt-timestamp" data-t="01:50:24">[01:50:24]</a>. This paradoxical situation means "physics got us both nuclei" <a class="yt-timestamp" data-t="01:56:00">[01:56:00]</a>.
+
+## Hope for a Breakthrough
+
+Despite these constraints, hope for escape lies in the very theories that currently trap us. Einstein's theory of relativity contains "singular solutions," such as the Schwarzschild and Robertson-Walker-Friedman solutions, which suggest a "flaw in Einstein's theory" <a class="yt-timestamp" data-t="01:54:59">[01:54:59]</a>. This flaw indicates that his theory is "not the last word" <a class="yt-timestamp" data-t="01:55:09">[01:55:09]</a>. The belief is that by going "beyond Einstein" <a class="yt-timestamp" data-t="01:55:32">[01:55:32]</a>, a new understanding of physics could emerge, potentially revealing methods for interstellar travel or other forms of escape <a class="yt-timestamp" data-t="01:59:08">[01:59:08]</a>. This is considered the "number one bet that we have to survive" <a class="yt-timestamp" data-t="01:55:36">[01:55:36]</a>.
+
+[!NOTE|Double Down on Physics]
+To survive, humanity must "double down on the thing that's already going to kill you" <a class="yt-timestamp" data-t="01:56:22">[01:56:22]</a> – that is, fundamental physics. This suggests that the solution to our existential challenges lies not in technology alone, but in a deeper understanding of the universe's basic laws <a class="yt-timestamp" data-t="01:59:29">[01:59:29]</a>. This approach is preferred over hoping for humanity to become "incredibly wise or lucky" <a class="yt-timestamp" data-t="01:56:45">[01:56:45]</a>.
+
+## Broader Societal Shifts Needed
+
+Beyond scientific breakthroughs, addressing global risks requires significant societal changes:
+*   **Overcoming political tribalism:** People's responses to crises, like the pandemic, often align with their "ideological priors" <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>, hindering effective solutions. A true contrarian can assess issues on their own merits, uncorrelated from the crowd <a class="yt-timestamp" data-t="00:52:56">[00:52:56]</a>.
+*   **Re-evaluating "equality" and "elitism":** Aspiring to absolute equality is seen as dangerous and requiring "a tremendous amount of violence" <a class="yt-timestamp" data-t="00:37:42">[00:37:42]</a>. There is a need to distinguish between "elite thieves" and "actual expert and technical elite" <a class="yt-timestamp" data-t="02:08:49">[02:08:49]</a>. Society should value and promote genuine expertise, particularly in critical fields like virology <a class="yt-timestamp" data-t="00:29:57">[00:29:57]</a>.
+*   **Promoting adulthood and responsibility:** The current political landscape is characterized by "child-like" conversations <a class="yt-timestamp" data-t="01:06:06">[01:06:06]</a> and a lack of leaders capable of navigating serious crises <a class="yt-timestamp" data-t="02:06:14">[02:06:14]</a>. Adulthood in this context means recognizing the complexity of problems and the resources, trade-offs, and cooperation needed to solve them <a class="yt-timestamp" data-t="01:04:34">[01:04:34]</a>.
+*   **Addressing societal stagnation and kleptocracy:** A fundamental cause of current issues is the stagnation of economic growth since the 1970s <a class="yt-timestamp" data-t="01:10:02">[01:10:02]</a>. This has shifted focus from innovation and growth to "thieving" from others, as the pie is no longer growing <a class="yt-timestamp" data-t="01:17:15">[01:17:15]</a>. This "central kleptocracy of both parties" <a class="yt-timestamp" data-t="01:18:59">[01:18:59]</a> is seen as a major impediment.
+*   **Identifying and supporting "freaks" and "weirdos":** Rather than collective action, hope lies in "remarkable individuals" <a class="yt-timestamp" data-t="02:06:43">[02:06:43]</a>—the "freaks" and "weirdos" and artists <a class="yt-timestamp" data-t="02:06:50">[02:06:50]</a>—who can break from conventional thinking and drive true progress <a class="yt-timestamp" data-t="02:06:53">[02:06:53]</a>.
+*   **Government investment in new "orchards":** Just as explorers sought new territories, governments are uniquely positioned to fund the search for "new orchards" of innovation and discovery, as they possess the vast resources needed for such endeavors <a class="yt-timestamp" data-t="02:02:53">[02:02:53]</a>. Billionaires are criticized for largely underperforming in this regard <a class="yt-timestamp" data-t="02:03:38">[02:03:38]</a>.
+
+The overarching sentiment is one of urgency, with a call to "escape" the current dangerous path and for certain nations, like Australia and New Zealand, to "lead" a new direction <a class="yt-timestamp" data-t="02:13:07">[02:13:07]</a>, away from the "completely screwed up" situation in the northern hemisphere <a class="yt-timestamp" data-t="02:12:44">[02:12:44]</a>.

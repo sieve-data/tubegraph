@@ -1,0 +1,29 @@
+---
+title: AI applications in economic policy making
+videoId: wvBzGK72rgU
+---
+
+From: [[josephnoelwalker]] <br/> 
+Larry Summers, a prominent American Economic Policy maker, has discussed the potential of [[economic_implications_of_ai_and_agi | Artificial Intelligence (AI)]] to significantly impact economic policy making and global growth <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>. Summers, also a board member at OpenAI, has been actively learning about the technology and its implications <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. He views technology as a fundamental driver of historical inflection points and human productivity <a class="yt-timestamp" data-t="00:01:35">[00:01:35]</a>.
+
+### AI's Potential for Economic Growth
+
+Larry Summers suggests that AI has the potential to initiate a new growth regime, leading to a substantial acceleration in economic progress, much like the Industrial Revolution made previously unimaginable growth possible <a class="yt-timestamp" data-t="00:20:09">[00:20:09]</a>. He highlights that AI's capacity for self-improvement differentiates it from past technologies like fire or electricity, which do not inherently generate more of themselves <a class="yt-timestamp" data-t="00:07:30">[00:07:30]</a>.
+
+However, Summers expresses caution regarding the idea of an "economic singularity" with ever-increasing growth rates <a class="yt-timestamp" data-t="00:21:44">[00:21:44]</a>. He posits that sectors experiencing rapid productivity growth often see rapidly falling prices. Unless demand for these sectors is highly elastic, they tend to become a smaller share of the total economy <a class="yt-timestamp" data-t="00:22:37">[00:22:37]</a>. This phenomenon, related to "Baumol's cost disease," means that even if a sector like agriculture or manufacturing experiences immense success and efficiency gains, its overall impact on total GDP growth can diminish as it becomes a smaller proportional part of the economy <a class="yt-timestamp" data-t="00:22:56">[00:22:56]</a>. Activities that inherently involve the passage of time and human interaction are likely to occupy an increasingly larger share of the economy by value <a class="yt-timestamp" data-t="00:24:34">[00:24:34]</a>.
+
+### AI in Developing Countries' Economic Policy
+
+AI could significantly aid [[ais_role_in_developing_countries_economic_growth | economic growth in developing countries]] by facilitating the pervasive import and application of knowledge and expertise <a class="yt-timestamp" data-t="00:26:29">[00:26:29]</a>. Summers emphasizes that what is known anywhere is likely to be known everywhere to a much greater extent with AI, enabling a more rapid transmission of knowledge essential for development <a class="yt-timestamp" data-t="00:27:07">[00:27:07]</a>. AI's ability to distill past human experience and extrapolate to new cases could contribute to wiser economic policies, including managing monetary policy and making strategic sectoral choices <a class="yt-timestamp" data-t="00:27:58">[00:27:58]</a>.
+
+### AI and US Monetary Policy
+
+For advanced economies like the US, AI is expected to improve [[probability_and_prediction_in_finance_and_economics | economic forecasting]] and, consequently, stabilization efforts <a class="yt-timestamp" data-t="00:29:58">[00:29:58]</a>. While economic forecasting differs from weather forecasting due to its self-affecting nature, Summers believes significant progress is possible in accurately predicting and stabilizing economic conditions <a class="yt-timestamp" data-t="00:29:45">[00:29:45]</a>. AI could potentially aid in predicting financial crashes and evaluating bubbles, further contributing to stabilization policy <a class="yt-timestamp" data-t="00:30:41">[00:30:41]</a>.
+
+### AI's Impact on Policy During Crises
+
+Reflecting on the 2008 financial crisis and Great Recession, Summers acknowledges that constraints of human social organization and political realities often hindered policy implementation more than a lack of intelligence <a class="yt-timestamp" data-t="00:31:51">[00:31:51]</a>. However, he suggests that better economic science provided by AI could lead to clearer epistemology and more shared understandings of causal mechanisms <a class="yt-timestamp" data-t="00:33:55">[00:33:55]</a>. This enhanced knowledge could make arguments less arbitrary, potentially garnering more political support for optimal solutions, such as a larger fiscal stimulus during that period <a class="yt-timestamp" data-t="00:34:46">[00:34:46]</a>. He draws an analogy to medicine: where scientific knowledge is clear and definitive (e.g., for broken arms), people rally behind it; where it is not (e.g., for the common cold), more [[debates_in_behavioral_economics | debate]] and volatility arise <a class="yt-timestamp" data-t="00:35:12">[00:35:12]</a>. Thus, AI could drive greater understanding, leading to better policy outcomes <a class="yt-timestamp" data-t="00:36:01">[00:36:01]</a>.
+
+### Discrepancy in Economic Potential Views
+
+Summers notes a discrepancy between the optimism of technologists and the skepticism of some academic economists regarding AI's extraordinary economic potential <a class="yt-timestamp" data-t="00:46:25">[00:46:25]</a>. He criticizes analyses that "leave out entirely" the possibility of more rapid scientific progress, social scientific progress, or better decision-making due to AI <a class="yt-timestamp" data-t="00:47:02">[00:47:02]</a>. He compares such cautious predictions to historical underestimates, like IBM's early market assessment for computers or AT&T's underestimation of cell phone demand <a class="yt-timestamp" data-t="00:47:23">[00:47:23]</a>.

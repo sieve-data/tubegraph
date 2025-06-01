@@ -1,0 +1,33 @@
+---
+title: Implications of the AUKUS agreement on nuclear power
+videoId: eqdU4jSZozE
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+The AUKUS agreement, announced in September 2021, has notably shifted perceptions regarding [[australia_and_nuclear_power | nuclear power]] within Australia, particularly concerning the acquisition of nuclear-powered submarines <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
+
+## Shift in Public Opinion on Nuclear Power
+
+Despite [[australias_historical_antinuclear_stance | historical anti-nuclear campaigns]] in Australia, notably in the 1980s involving figures like Peter Garrett and the Greens Party <a class="yt-timestamp" data-t="00:00:40">[00:00:40]</a>, the announcement of AUKUS did not trigger a renewed popular opposition to nuclear power <a class="yt-timestamp" data-t="00:01:06">[00:01:06]</a>. This lack of public reaction was observed even concerning the prospect of nuclear reactors potentially being birthed in Sydney Harbour, HMAS Stirling in Western Australia, or a new facility on the east coast <a class="yt-timestamp" data-t="00:01:13">[00:01:13]</a>. This apparent relaxation of public sentiment towards nuclear power was seen as a positive sign for the opposition, influencing their decision to announce civilian nuclear power as an election promise <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>.
+
+A [[nuclear_weapons_poll_in_Australia | Lowy Institute poll in 2022]] revealed that [[australian_public_opinion_on_nuclear_weapons_acquisition | about 36% of Australians either support or strongly support acquiring nuclear weapons]] <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. This finding was surprising, though less so in the context of AUKUS, which involves nuclear propulsion technology <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>. However, it's suggested that poll respondents might not have fully considered the implications, such as costs or trade-offs, when expressing support <a class="yt-timestamp" data-t="00:02:02">[00:02:02]</a>.
+
+## Preconditions for Australia Acquiring Nuclear Weapons
+
+For Australia to consider [[australias_historical_stance_on_nuclear_weapons | acquiring nuclear weapons]] of its own, specific preconditions would need to be met <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>:
+
+*   **Regional [[nuclear_proliferation_and_deterrence_in_asia | proliferation]]**: It is considered highly unlikely for Australia to acquire nuclear weapons before other regional powers, such as Japan and South Korea, do so <a class="yt-timestamp" data-t="00:02:55">[00:02:55]</a>. These countries face more acute security dilemmas with China due to their geographical proximity <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. Taiwan is seen as an exception due to the impossibility of keeping such a program secret from Chinese intelligence, which would trigger an invasion <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. Japan and South Korea might consider nuclearization if American withdrawal seemed imminent or if they lost faith in the extended nuclear deterrent provided by the US <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
+*   **[[australias_relationship_with_indonesia | Indonesia's]] Acquiescence**: Indonesia's approval or, preferably, cooperation would be essential <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>. Without it, the problems created with Indonesia by Australia going nuclear would likely outweigh any security benefits derived from deterring China <a class="yt-timestamp" data-t="00:04:50">[00:04:50]</a>.
+
+## Credibility of Extended Nuclear Deterrence
+
+The credibility of America's extended nuclear deterrence, the "nuclear umbrella" protecting allies like Australia, is questioned <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. The South Korean case illustrates this dilemma: once North Korea developed an intercontinental ballistic missile (ICBM) capable of striking US cities, the bargain changed <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>. The implication that the US would risk its own cities (e.g., Seattle or Los Angeles) for Seoul is deemed "not credible" <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>. This assessment is based on a "cold-blooded assessment about its vital interests," not a judgment of American moral character <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>.
+
+South Korea, recognizing this, is developing more independent capabilities <a class="yt-timestamp" data-t="00:08:56">[00:08:56]</a>. In contrast, Australia and Japan have opted to further entrench their alliances with the United States, as exemplified by AUKUS and Japan doubling its defense spending <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>. This approach is considered less credible than South Korea's <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>.
+
+### The "Taboo Argument" and [[nuclear_blackmail_and_its_impact_on_international_relations | Nuclear Blackmail]]
+
+Despite doubts about extended nuclear deterrence, Australia may still not need to acquire its own nuclear weapons due to the high "culture against nuclear use" <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>. It is argued that Australia is unlikely to be directly threatened with nuclear weapons <a class="yt-timestamp" data-t="00:12:24">[00:12:24]</a>.
+
+The concept of [[nuclear_blackmail_and_its_impact_on_international_relations | nuclear blackmail]], where a country threatens nuclear use to gain concessions, is considered <a class="yt-timestamp" data-t="00:13:48">[00:13:48]</a>. Examples include Russia's threats in the Ukraine conflict and historical US threats against China regarding Taiwan in the 1950s <a class="yt-timestamp" data-t="00:14:11">[00:14:11]</a>. However, it is argued that [[nuclear_blackmail_and_its_impact_on_international_relations | nuclear blackmail]] only works if the threat is believed <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>. Given the strong taboo against actual nuclear use, Australia might be able to "call the bluff" of a country like China, as the threat would not be credible <a class="yt-timestamp" data-t="00:15:42">[00:15:42]</a>. While there is a risk, the costs of Australia becoming a nuclear weapons power are considered immense, necessitating a weighing of these costs against the risks of relying on the nuclear taboo <a class="yt-timestamp" data-t="00:15:56">[00:15:56]</a>.

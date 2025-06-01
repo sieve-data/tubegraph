@@ -1,0 +1,86 @@
+---
+title: State capability and policy efficacy in Australia
+videoId: OIAqcaeVhuY
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+Australia is often said to possess a talent for bureaucracy <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. This talent was significantly tested during the COVID-19 pandemic, which began with the first reported case in Australia on January 25, 2020 <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. By March 30, 2020, then-Treasurer Josh Frydenberg had announced the largest economic intervention in Australian history, a stimulus amounting to a third of a trillion dollars, all within two months <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. This rapid response highlighted [[australian_state_capacity_and_government_expectations | Australia's high-functioning administrative state]] <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>.
+
+On key metrics, [[Australias state capacity and pandemic response | Australia outperformed the United States]]; for instance, the employment-to-population ratio returned to pre-crisis levels within 12 months, compared to the US taking five years <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. By the time international borders reopened and restrictions lifted in 2022, Australia had about one-fifth the number of deaths per capita as the United States <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+
+This success highlights [[australian_state_capacity_and_government_expectations | State capacity]], defined as the ability of governments at all levels to achieve policy goals <a class="yt-timestamp" data-t="00:01:34">[00:01:34]</a>. Research suggests Australia has one of the highest levels of [[australian_state_capacity_and_government_expectations | State capacity]] in the world, despite public perception <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
+
+## The Pandemic Paradox: Success and Failure
+
+The central mystery of [[Australias state capacity and pandemic response | Australia's pandemic response]] was the contrast between its economic measures and vaccine procurement <a class="yt-timestamp" data-t="00:03:07">[00:03:07]</a>.
+*   **JobKeeper**: The economic response, particularly JobKeeper, was one of the best globally, successfully keeping employees attached to their companies <a class="yt-timestamp" data-t="00:03:19">[00:03:19]</a>.
+*   **Vaccine Procurement**: Conversely, the vaccine procurement strategy was among the worst, as Australia largely committed to only two vaccines (UQ and AstraZeneca) instead of diversifying <a class="yt-timestamp" data-t="00:03:29">[00:03:29]</a>. The UQ vaccine failed, and AstraZeneca proved less efficacious, leading to Australia having the worst vaccination rate among OECD nations for several months in 2021 <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>.
+
+### Analysis of Vaccine Procurement Flaws
+
+The failure in vaccine procurement can be attributed to several factors:
+*   **Health Department's Role**: A common view is that the Health Department's involvement in procurement often leads to issues, suggesting Treasury might have done better <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>. While Treasury officials were "in the room," they may not have been "at the table" for active decision-making, perhaps due to departmental norms against intervening in others' business <a class="yt-timestamp" data-t="00:06:12">[00:06:12]</a>.
+*   **Misinterpretation of Advice**: Decision-makers, including former Prime Minister Scott Morrison and Health Minister Greg Hunt, seemed to treat public health advice as unassailable medical advice, failing to synthesize it with economic principles <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>. This was a "category error" as public health advice is subject to economic considerations <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>. Health bureaucrats often focus on individual threats rather than broader social welfare or externalities <a class="yt-timestamp" data-t="00:10:51">[01:10:51]</a>.
+*   **Tinbergen Rule Violation**: The procurement strategy attempted to serve dual objectives: securing vaccines and acting as an industry policy to support local manufacturing (CSL in Melbourne for UQ and AstraZeneca vaccines) <a class="yt-timestamp" data-t="00:13:08">[01:13:08]</a>. The "Tinbergen rule" suggests one policy instrument per goal <a class="yt-timestamp" data-t="00:12:50">[01:12:50]</a>.
+*   **Failure to Buy Insurance (Optionality)**: Australia failed to diversify its vaccine portfolio, effectively closing off options <a class="yt-timestamp" data-t="00:13:29">[01:13:29]</a>. This lack of "optionality" meant that when the chosen vaccines faced issues, Australia was left vulnerable <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>.
+*   **"Penny-Pinching" Mindset**: The Health Department, accustomed to controlling health spending, applied a "penny-pinching" mindset to vaccine procurement, failing to recognize that in a pandemic, the cost-benefit analysis shifts dramatically, where trillions are at stake, not billions <a class="yt-timestamp" data-t="00:15:46">[01:15:46]</a>. This highlighted a failure of senior leadership to adapt their framework to a crisis situation <a class="yt-timestamp" data-t="00:16:39">[01:16:39]</a>.
+
+## Lessons for Future Crisis Management
+
+To better prepare for future crises, several principles emerge:
+1.  **Honesty and Transparency**: Be honest about what is known and unknown <a class="yt-timestamp" data-t="00:26:20">[00:26:20]</a>. Lying, even with good intentions (e.g., initial mask advice to preserve supply for healthcare workers), erodes public trust <a class="yt-timestamp" data-t="00:27:01">[00:27:01]</a>.
+2.  **Flexibility and Avoiding "Fighting the Last War"**: Do not assume future crises will resemble past ones <a class="yt-timestamp" data-t="00:27:50">[00:27:50]</a>. For example, the 2008 financial crisis focused on getting cash out, but the pandemic required a different approach due to supply constraints <a class="yt-timestamp" data-t="00:28:20">[00:28:20]</a>.
+3.  **Maintain Optionality**: Keep options open and avoid premature commitments that limit future flexibility <a class="yt-timestamp" data-t="00:29:09">[00:29:09]</a>. This applies not only to vaccine procurement but also to foreign policy implications <a class="yt-timestamp" data-t="00:29:31">[00:29:31]</a>.
+4.  **Willingness to Spend ("Don't Be Penny-Wise, Pound-Foolish")**: In a crisis, the potential welfare loss (e.g., from unemployment) is massive <a class="yt-timestamp" data-t="00:30:21">[00:30:21]</a>. Governments should not hesitate to spend money, as the costs of inaction far outweigh the efficiency losses of spending <a class="yt-timestamp" data-t="00:30:57">[00:30:57]</a>.
+
+A critical concern for future pandemics is maintaining public trust and willingness to comply with non-pharmaceutical interventions <a class="yt-timestamp" data-t="00:20:49">[00:20:49]</a>. Failures in 2021, particularly the vaccine rollout, eroded the public's good faith that was evident in the "flawless" initial response in 2020 <a class="yt-timestamp" data-t="00:22:18">[00:22:18]</a>. The media landscape and increasing political polarization also pose a threat to this consensus <a class="yt-timestamp" data-t="00:23:25">[00:23:25]</a>.
+
+## Insights from Public Service Experience
+
+Working in the Australian Treasury reveals two sides of the public service:
+*   **Dedication**: Public servants are generally socially-minded and willing to go "above and beyond" in a crisis, as seen by the ATO converting a quarter of its staff to pandemic work <a class="yt-timestamp" data-t="00:33:03">[00:33:03]</a>.
+*   **Efficiency Issues**: There can be significant inefficiencies, with many people "sitting around really not doing anything" <a class="yt-timestamp" data-t="00:34:10">[00:34:10]</a>.
+
+## Centralization of Power
+
+There has been a trend of power centralization towards the Commonwealth government and its central agencies (Department of Prime Minister and Cabinet, Treasury, Finance) <a class="yt-timestamp" data-t="00:35:12">[00:35:12]</a>. These central agencies act as "gatekeepers" to weed out bad policy proposals from line agencies <a class="yt-timestamp" data-t="00:37:15">[00:37:15]</a>. This centralization within the Commonwealth is seen as beneficial for policy quality <a class="yt-timestamp" data-t="00:38:20">[00:38:20]</a>.
+
+However, the vertical relationship between the Commonwealth and the states is more complex <a class="yt-timestamp" data-t="00:39:07">[00:39:07]</a>. While some advocate for decentralization to allow for "laboratories of democracy" and local knowledge <a class="yt-timestamp" data-t="00:39:41">[00:39:41]</a>, others emphasize the need for national solutions where issues spill over state borders <a class="yt-timestamp" data-t="00:42:20">[00:42:20]</a>.
+
+Key reforms for [[australian_state_capacity_and_government_expectations | federalism]] include:
+*   **Rethinking GST Allocation**: The current system of distributing GST revenue and other grants to states creates a "status quo bias" and hinders major policy reforms <a class="yt-timestamp" data-t="00:44:34">[00:44:34]</a>.
+*   **Eliminating Grants**: A proposed reform involves broadening and raising the GST rate to double revenue, then eliminating tied grants to states, giving them untied block grants <a class="yt-timestamp" data-t="00:46:51">[00:46:51]</a>. This would align accountability with control, as the federal government currently has political accountability for services it doesn't implement (e.g., Medicare) <a class="yt-timestamp" data-t="00:47:27">[00:47:27]</a>. While the Commonwealth may lose claiming credit for funding, it would improve design of incentive schemes <a class="yt-timestamp" data-t="00:47:45">[00:47:45]</a>.
+*   **Housing Crisis**: Federal leverage, such as linking GST revenue to housing supply targets, could potentially coerce states and local councils to liberalize housing supply, overcoming local NIMBYism (Not In My Back Yard) <a class="yt-timestamp" data-t="00:49:17">[00:49:17]</a>.
+
+## Economic Plumbing and Recession Toolkit
+
+### The Unsung Hero: Single Touch Payroll
+[[Australias state capacity and pandemic response | Single Touch Payroll]] (STP), implemented fully just six months before the pandemic, was an "unsung hero" <a class="yt-timestamp" data-t="00:52:50">[00:52:50]</a>. This IT system automatically transmits real-time data on worker pay from firms to the ATO during every pay run <a class="yt-timestamp" data-t="00:53:30">[00:53:30]</a>. While initially for compliance, its existence enabled JobKeeper by greatly reducing the risk of fraud, allowing for high integrity in delivering the program <a class="yt-timestamp" data-t="00:55:53">[00:55:53]</a>.
+
+### Next Steps for "Economic Plumbing"
+*   **GST Turnover Reporting**: The most obvious next candidate for similar "plumbing" is electronic GST turnover reporting <a class="yt-timestamp" data-t="00:59:36">[00:59:36]</a>. Unlike in Australia, where GST transactions are paper-based and require audits for compliance, countries like Chile electronically report every transaction, making tax evasion "literally impossible" <a class="yt-timestamp" data-t="01:01:27">[01:01:27]</a>. This change could reduce fraud and evasion by billions of dollars <a class="yt-timestamp" data-t="01:01:52">[01:01:52]</a>.
+*   **Central Bank Digital Currency (CBDC)**: A more ambitious candidate is a central bank digital currency <a class="yt-timestamp" data-t="00:56:16">[00:56:16]</a>. This could offer advantages in international trade (rivalling the US dollar), enable new financial instruments (smart contracts, atomic swaps), and be extremely cheap to run <a class="yt-timestamp" data-t="00:56:40">[00:56:40]</a>. Australia has the will and capability to implement this within five years <a class="yt-timestamp" data-t="00:59:06">[00:59:06]</a>.
+
+### Recession-Fighting Toolkit
+An ideal recession-fighting toolkit should include:
+*   **Shovel-Ready Infrastructure Projects**: Pre-planned, ready-to-go infrastructure projects are valuable in typical Keynesian recessions with high unemployment <a class="yt-timestamp" data-t="01:02:46">[01:02:46]</a>. Unlike large, long-lag projects, these would focus on immediate job creation for valuable work like sand dune remediation or removing plastic from waterways <a class="yt-timestamp" data-t="01:05:02">[01:05:02]</a>.
+*   **Unemployment Insurance Reform**: Australia's current unemployment insurance system is "bizarre," offering a flat, indefinite payment unrelated to prior earnings, which is globally unique <a class="yt-timestamp" data-t="01:05:48">[01:05:48]</a>. The system should be redesigned to offer a proportion of formal wages for a time-limited period, dropping to a lower level later, and triggered automatically by economic circumstances <a class="yt-timestamp" data-t="01:06:56">[01:06:56]</a>. This would provide a living wage during a recession, making the system "recession ready" <a class="yt-timestamp" data-t="01:08:03">[01:08:03]</a>.
+
+## Strengths of Australia's State Capacity
+
+Australia ranks highly on international indices for [[australian_state_capacity_and_government_expectations | State capacity]], often between fourth and tenth globally, and fifth in Civil Service Effectiveness <a class="yt-timestamp" data-t="01:10:35">[01:10:35]</a>.
+*   **Digitization Triumphs**: 98% of Medicare claims are processed electronically (1.1 million/day) <a class="yt-timestamp" data-t="01:10:50">[01:10:50]</a>. 95% of individual tax lodgments are processed without human intervention <a class="yt-timestamp" data-t="01:11:11">[01:11:11]</a>.
+*   **Efficient Borders**: International arrivals can move from gate to train within 30 minutes, due to "smart gate" technology and efficient processes <a class="yt-timestamp" data-t="01:11:36">[01:11:36]</a>.
+*   **High Public Expectations**: Australians expect public services to work seamlessly, like an "Apple product" <a class="yt-timestamp" data-t="01:13:25">[01:13:25]</a>. Deviations from this expectation lead to political accountability <a class="yt-timestamp" data-t="01:14:54">[01:14:54]</a>. This creates an equilibrium with strong political incentives for good service <a class="yt-timestamp" data-t="01:15:25">[01:15:25]</a>.
+*   **Fewer Barriers to Policy Implementation**: Australia's parliamentary system, where the legislature and executive are often aligned, has fewer frictions to passing laws and funding programs compared to systems like the US <a class="yt-timestamp" data-t="01:16:42">[01:16:42]</a>.
+*   **Stakeholder Involvement**: The relatively high level of shared stake across income spectrums in public services like Medicare and public education creates broad pressure for functionality <a class="yt-timestamp" data-t="01:19:42">[01:19:42]</a>. Unlike the US, where wealthier individuals often "opt out" of public services, Australians generally rely on and thus demand quality from them <a class="yt-timestamp" data-t="01:19:19">[01:19:19]</a>.
+
+## Areas for Improvement
+
+While Australia excels in state capacity, there are areas for improvement:
+*   **Injecting Choice and Competition**: Learning from the US, Australia could benefit from injecting more choice and competition into its public services, such as through "school choice" programs <a class="yt-timestamp" data-t="01:22:28">[01:22:28]</a>. This seeks to improve quality without losing the safety net <a class="yt-timestamp" data-t="01:25:08">[01:25:08]</a>.
+*   **Combating "Grift"**: Australia has a significant amount of "grift" built into its society and economy, where individuals and businesses exploit loopholes or subsidies (e.g., NDIS services, tax-subsidized vehicle purchases) <a class="yt-timestamp" data-t="01:46:14">[01:46:14]</a>. These create political constituencies that are difficult to dismantle, contributing to many of Australia's policy problems <a class="yt-timestamp" data-t="01:46:54">[01:46:54]</a>.
+*   **Policy Quality and Tradeoffs**: There's a perceived erosion in the quality of policy-making, characterized by a refusal to discuss economic tradeoffs <a class="yt-timestamp" data-t="01:37:25">[01:37:25]</a>. Unlike the 1980s under Hawke and Keating, politicians now often avoid acknowledging that choices have consequences, promising "everything all the time" <a class="yt-timestamp" data-t="01:38:18">[01:38:18]</a>. This contrasts with the technocratic efficiency of the administrative state, indicating a political rather than administrative breakdown <a class="yt-timestamp" data-t="01:40:27">[01:40:27]</a>.
+
+For future pandemics, specific preparedness measures include building dedicated quarantine facilities (not relying on hotels) and further developing sovereign mRNA manufacturing capabilities <a class="yt-timestamp" data-t="01:49:25">[01:49:25]</a>. The JobKeeper experience also highlights the importance of being transparent about rules and enforcing them to maintain public trust, even if some initial waste is deemed acceptable in a crisis <a class="yt-timestamp" data-t="01:54:16">[01:54:16]</a>.

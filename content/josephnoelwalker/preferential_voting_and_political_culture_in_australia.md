@@ -1,0 +1,61 @@
+---
+title: Preferential voting and political culture in Australia
+videoId: BB0fiijMLAI
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+Australia's voting system stands out among English-speaking democracies. Unlike most, voting is compulsory, and it employs preferential voting rather than the first-past-the-post system common elsewhere <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. Australia was also the first country to establish an [[state_capability_and_policy_efficacy_in_australia | independent and professional electoral administration]] and has been an electoral innovator since the mid-19th century, notably inventing the "Australian ballot" <a class="yt-timestamp" data-t="00:00:30">[00:00:30]</a>. This unique system reflects and has shaped Australia's distinct political culture <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>.
+
+## Australia's Political Culture: Majoritarian and Bureaucratic
+
+Australia's political culture is described as majoritarian and bureaucratic <a class="yt-timestamp" data-t="00:01:53">[00:01:53]</a>. According to some scholars, Australia is a "Benthamite society," influenced by Jeremy Bentham's utilitarian philosophy during the setup of its political institutions <a class="yt-timestamp" data-t="00:02:00">[00:02:00]</a>. This contrasts with the United States, where John Locke's ideas of social contract and natural rights were more influential <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>.
+
+### Influence of Benthamite Thinking
+Key figures like Henry Chapman, who designed the secret ballot in Victoria, were influenced by Bentham <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. Catherine Helen Spence's ideas on proportional representation were also shaped by reading John Stuart Mill <a class="yt-timestamp" data-t="00:02:47">[00:02:47]</a>. This influence meant that the focus of political reformers was on making existing institutions operate more democratically and efficiently for the benefit of a greater number of people <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>. Unlike Lockean thought, Bentham viewed rights as granted by the government, not pre-existing <a class="yt-timestamp" data-t="00:06:06">[00:06:06]</a>.
+
+Another contributing factor to Australia's Benthamite leanings was the influence of Chartism, a working-class political movement from the 1830s <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>. Many immigrants, particularly to Victoria, were Chartists, advocating for manhood suffrage and the secret ballot <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>. Henry Parkes, a prominent Australian politician, attended early Chartist rallies <a class="yt-timestamp" data-t="00:07:50">[00:07:50]</a>.
+
+### Role of Government and Low Taxation
+For its first century, the British government largely funded Australia's governments, resulting in low taxation <a class="yt-timestamp" data-t="00:09:01">[00:09:01]</a>. This fostered an attitude where Australians viewed government as a benevolent public utility that provided services without significant direct cost <a class="yt-timestamp" data-t="00:09:51">[00:09:51]</a>. Government developed infrastructure like railways, unlike in America where private enterprise dominated <a class="yt-timestamp" data-t="00:10:40">[00:10:40]</a>. This historical context cultivated a trust in government as potentially benevolent, rather than oppressive <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+
+### Egalitarianism and Obedience to Impersonal Authority
+Two long-running strands of [[australias_unique_electoral_system | Australian political culture]] are its [[historical_egalitarianism_in_australia | egalitarianism]] and obedience to impersonal authority <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>. Egalitarianism stemmed from factors like a labor shortage in the early colony, giving workers more power, and the Gold Rush, which diluted hierarchies <a class="yt-timestamp" data-t="00:12:17">[00:12:17]</a>. While Australians are individualistic, they show obedience to impersonal institutions <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>. This convergence found expression in the bureaucratic state, where meritocratic principles and impartial rules are central, aligning with the desire for an [[historical_egalitarianism_in_australia | egalitarian society]] through redistribution <a class="yt-timestamp" data-t="00:13:09">[00:13:09]</a>.
+
+## Compulsory Voting and Preferential Voting
+
+### [[compulsory_voting_and_its_implications | Compulsory voting and its implications]]
+Australia's [[compulsory_voting_and_its_implications | compulsory voting]] system is a hallmark of its political culture. Arguments for [[compulsory_voting_and_its_implications | compulsory voting]] in the late 19th century focused on ensuring the government had the support of the majority of all voters, not just those who chose to turn up <a class="yt-timestamp" data-t="00:19:02">[00:19:02]</a>. Philosophical arguments against [[compulsory_voting_and_its_implications | compulsory voting]] based on liberty or individual conscience were rarely raised in Australian parliamentary debates <a class="yt-timestamp" data-t="00:19:30">[00:19:30]</a>.
+
+The labor party initially opposed [[compulsory_voting_and_its_implications | compulsory voting]] due to concerns about compromising the secrecy of the ballot, especially with postal voting <a class="yt-timestamp" data-t="00:42:50">[00:42:50]</a>. However, once compulsory registration was introduced in 1911—making registration permanent and easily updated (now tied to motor registration) <a class="yt-timestamp" data-t="00:43:17">[00:43:17]</a>—[[compulsory_voting_and_its_implications | compulsory voting]] became inevitable <a class="yt-timestamp" data-t="00:43:49">[00:43:49]</a>. It passed with minimal debate in 1924, supported by bureaucrats who wanted to see more benefit from their efforts in maintaining electoral rolls <a class="yt-timestamp" data-t="00:22:57">[00:22:57]</a>.
+
+[[compulsory_voting_and_its_implications | Compulsory voting]] reinforces majoritarianism by ensuring high turnout, including more moderate voters who might otherwise be apathetic <a class="yt-timestamp" data-t="01:07:22">[01:07:22]</a>. This can stabilize the political system by encouraging parties to focus on broader issues rather than solely motivating their base with emotive topics <a class="yt-timestamp" data-t="01:07:13">[01:07:13]</a>.
+
+### Preferential Voting
+Preferential voting is another key feature of the [[australias_unique_electoral_system | Australian electoral system]]. While the Barton government initially proposed preferential voting for the House of Representatives and proportional representation for the Senate in 1902, these were not fully adopted until 1918 and 1948 respectively <a class="yt-timestamp" data-t="00:24:01">[00:24:01]</a>.
+
+Initially, preferential voting was championed by farmers' organizations to prevent the splitting of the non-Labor vote in three-cornered contests <a class="yt-timestamp" data-t="00:47:35">[00:47:35]</a>. Over the years, it has allowed various interest groups, such as the Democratic Labor Party (DLP), One Nation, and independents, to gain representation and exert political pressure <a class="yt-timestamp" data-t="00:48:21">[00:48:21]</a>. Preferential voting, alongside proportional representation in the Senate, offers flexibility to the political system, especially as Australian society becomes more socially and demographically complex <a class="yt-timestamp" data-t="00:48:47">[00:48:47]</a>. It helps ensure that minority interests are represented and remain engaged within the political system <a class="yt-timestamp" data-t="00:49:25">[00:49:25]</a>.
+
+## Historical Development and Innovators
+[[historical_development_of_voting_rights_in_australia | Australia's unique electoral system]] also saw the accidental achievement of near-universal manhood suffrage by the 1850s <a class="yt-timestamp" data-t="00:28:40">[00:28:40]</a>. This was partly due to the British Parliament setting a lower property qualification than recommended by New South Wales, and the Gold Rush causing inflation that pushed more people above this threshold <a class="yt-timestamp" data-t="00:28:54">[00:28:54]</a>.
+
+South Australia emerged as a hub of electoral innovation, producing figures like:
+*   **William Boothby**: Responsible for developing the bureaucratic model of impartial, salaried public servants running elections, and practical innovations like using a pencil for voting and ballot boxes <a class="yt-timestamp" data-t="00:51:50">[00:51:50]</a>.
+*   **Catherine Helen Spence**: Known for her ideas on proportional representation, or "effective voting" <a class="yt-timestamp" data-t="00:52:30">[00:52:30]</a>.
+*   **Mary Lee**: A prominent suffragist <a class="yt-timestamp" data-t="00:52:34">[00:52:34]</a>.
+
+This disproportionate innovation in South Australia is attributed to its less populous and more open society, settled by free settlers without the complexities of a convict history <a class="yt-timestamp" data-t="00:52:57">[00:52:57]</a>. It fostered a sense of "green fields" where new institutions could be established <a class="yt-timestamp" data-t="00:55:20">[00:55:20]</a>.
+
+Aboriginal people were not disenfranchised in New South Wales, Victoria, or South Australia before Federation <a class="yt-timestamp" data-t="00:33:24">[00:33:24]</a>. However, the 1902 Franchise Act effectively disenfranchised many, particularly "non-white immigrants" and those of Aboriginal descent outside of specific states <a class="yt-timestamp" data-t="00:32:32">[00:32:32]</a>. This was not a foregone conclusion but resulted from parliamentary debates mixing racism with administrative concerns about population counts, reflecting the marginal position of Indigenous affairs in the thinking of political elites <a class="yt-timestamp" data-t="00:35:47">[00:35:47]</a>. Aboriginal people eventually regained the right to vote in 1962 <a class="yt-timestamp" data-t="00:39:21">[00:39:21]</a>.
+
+## Challenges and Future Considerations
+While Australia's electoral system has historically fostered a stable political environment, challenges remain. There's been a declining trust in political institutions, potentially linked to increased [[economic_inequality_trends_in_australia | economic inequality trends in Australia]] since the 1980s <a class="yt-timestamp" data-t="01:11:32">[01:11:32]</a>. The shift towards neoliberalism and market-led resource distribution has made parts of society more vulnerable <a class="yt-timestamp" data-t="01:13:30">[01:13:30]</a>.
+
+The rise of independents like the "Teals" and Greens indicates a shift in political representation, as traditional parties' memberships have shrunk, and they struggle to aggregate diverse interests <a class="yt-timestamp" data-t="00:58:41">[00:58:41]</a>. This dynamic, facilitated by preferential voting, brings more debate into parliament <a class="yt-timestamp" data-t="00:59:35">[00:59:35]</a>.
+
+Potential improvements to the system include:
+*   **Fixed-term parliaments**: To give governments more time for legislation and reduce speculation about election dates <a class="yt-timestamp" data-t="01:22:04">[01:22:04]</a>.
+*   **Allowing permanent residents to vote**: Following New Zealand's example, as permanent residents pay taxes and contribute to society <a class="yt-timestamp" data-t="01:20:23">[01:20:23]</a>.
+*   **Campaign funding reform**: Ensuring automatic disclosure to address concerns about funding influence <a class="yt-timestamp" data-t="01:21:23">[01:21:23]</a>.
+
+However, remote or online voting is viewed as a "terrible idea" <a class="yt-timestamp" data-t="01:19:09">[01:19:09]</a>, as voting is seen as a public act that forces citizens to acknowledge their place in a collective society <a class="yt-timestamp" data-t="01:18:41">[01:18:41]</a>. The physical act of voting, even with innovations like pre-polling, is considered important for grounding the democratic process in reality <a class="yt-timestamp" data-t="01:19:55">[01:19:55]</a>.

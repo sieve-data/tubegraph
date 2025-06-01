@@ -1,0 +1,24 @@
+---
+title: Impact of housing costs on worker relocation
+videoId: sL_yIenyTkc
+---
+
+From: [[josephnoelwalker]] <br/> 
+
+Traditionally, within a country, there have been no legal limitations on people moving from one area to another to seek better economic opportunities <a class="yt-timestamp" data-t="02:42:00">[02:42:00]</a>. This internal migration was common in the United States, with workers relocating from low-wage, "backwards" areas to more advanced, high-wage regions <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>. This mobility allowed both low and high-skilled workers to move from places like the rural South to higher-wage areas such as California, experiencing significant pay increases and improved living conditions <a class="yt-timestamp" data-t="03:16:00">[03:16:00]</a>. The economic rationale for such moves is that workers gain higher pay because their productivity is higher in more developed areas <a class="yt-timestamp" data-t="03:58:00">[03:58:00]</a>.
+
+## Modern Trends in Worker Mobility
+
+Despite continued large gaps in measured productivity between different regions in the modern U.S., overall worker mobility has significantly declined <a class="yt-timestamp" data-t="04:27:00">[04:27:00]</a>. Research by economists Ganong and Shoag revealed a peculiar trend: while high-skilled individuals still move from low-productivity to high-productivity areas, low-skilled workers are often moving in reverse <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>. These low-skilled workers are leaving high-wage cities like San Francisco for places like Texas, where wages are lower <a class="yt-timestamp" data-t="05:01:00">[05:01:00]</a>.
+
+### The Role of Housing Costs
+
+The primary reason for this counterintuitive migration pattern is the exorbitant housing prices in high-productivity areas <a class="yt-timestamp" data-t="05:14:00">[05:14:00]</a>. For low-skilled workers, the percentage wage gains achievable in these productive regions are often insufficient to offset the significantly higher housing costs <a class="yt-timestamp" data-t="05:27:00">[05:27:00]</a>. Workers prioritize their standard of living, which is largely determined by wages minus housing costs and other living expenses, with housing being the most substantial difference <a class="yt-timestamp" data-t="05:35:00">[05:35:00]</a>.
+
+Historically, in periods of lighter housing regulation, there was not a substantial difference in housing costs between high- and low-productivity areas <a class="yt-timestamp" data-t="05:55:00">[05:55:00]</a>. This suggests that if housing costs in high-productivity areas could be reduced to more reasonable levels, the traditional pattern of workers across all skill levels moving to areas with higher wages would be restored <a class="yt-timestamp" data-t="06:04:00">[06:04:00]</a>.
+
+## Parallels with Immigration and Productivity
+
+The impact of housing costs on internal worker relocation can be understood by drawing parallels with [[the_relationship_between_immigration_housing_and_economic_growth | immigration]]. The main economic benefit of [[the_relationship_between_immigration_housing_and_economic_growth | immigration]] is that it allows workers to move from countries with low productivity to those with high productivity, dramatically increasing their earnings and overall productivity <a class="yt-timestamp" data-t="01:12:00">[01:12:00]</a>. For example, a low-skilled worker from Haiti or Mexico can see their earnings skyrocket by moving to a modern, mechanized farm in the U.S. <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>. This is because their productivity is inherently much higher when operating within a more developed economic environment <a class="yt-timestamp" data-t="00:53:00">[00:53:00]</a>.
+
+Just as [[the_relationship_between_immigration_housing_and_economic_growth | immigration]] restrictions prevent workers from moving to where their productivity is highest, high housing costs within a country create an internal barrier to efficient labor allocation <a class="yt-timestamp" data-t="01:23:00">[01:23:00]</a>. The productivity differences between areas like the Bay Area and the rural South are significant enough that a substantial increase in mobility would likely occur if housing costs in high-wage areas were more affordable <a class="yt-timestamp" data-t="06:47:00">[06:47:00]</a>. Therefore, addressing housing costs, potentially through [[housing_deregulation_and_productivity | housing deregulation]], is seen as a key step to unlock significant productivity gains by facilitating efficient labor movement <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>.
