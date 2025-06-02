@@ -1,0 +1,25 @@
+---
+title: Technology and its role in society
+videoId: nZ2h_RXIaSw
+---
+
+From: [[sachinandadam]] <br/> 
+
+Technology is viewed not just as a technical field, but as a fundamental force that drives societal progress and equality <a class="yt-timestamp" data-t="08:36:00">[08:36:00]</a>. It is considered a primary vehicle for advancing the world <a class="yt-timestamp" data-t="09:08:00">[09:08:00]</a> and enables significant impact through business, particularly by fostering equality of opportunity <a class="yt-timestamp" data-t="09:24:00">[09:24:00]</a>.
+
+## Technology as an Equalizing Force and Driver of Progress
+
+Technology's impact spans various sectors, driving change and offering new solutions to long-standing problems:
+*   **Healthcare** – Biotech innovations, such as Pfizer's use of technology to create vaccines, are making diseases like COVID-19 more controllable <a class="yt-timestamp" data-t="08:51:00">[08:51:00]</a>. This highlights [[the_role_of_technology_in_healthcare_improvement | the role of technology in healthcare improvement]] and [[role_of_technology_in_healthcare_accessibility | healthcare accessibility]] <a class="yt-timestamp" data-t="09:02:00">[09:02:00]</a>.
+*   **Financial Inclusion** – In developing regions like Africa, fintech companies are addressing the capital gap by using [[role_of_data_and_technology_in_media_and_entertainment | mobile phone data]] to assess creditworthiness <a class="yt-timestamp" data-t="26:45:00">[26:45:00]</a>. This approach bypasses the need for traditional financial infrastructure, allowing countries to "leapfrog" from cash-based economies directly to digital payment systems <a class="yt-timestamp" data-t="28:01:00">[28:01:00]</a>. Examples include Azak in Uganda, which provides loans to motorcycle drivers, and companies like PaySwitch and Flutterwave that facilitate cross-border remittances <a class="yt-timestamp" data-t="25:19:00">[25:19:00]</a>. This demonstrates how [[social_impact_and_innovation_in_emerging_technologies | social impact and innovation in emerging technologies]] can address systemic poverty traps <a class="yt-timestamp" data-t="30:58:00">[30:58:00]</a>.
+*   **Education** – Online communities, particularly through platforms like Discord and Slack, are becoming dominant learning methodologies <a class="yt-timestamp" data-t="11:08:00">[11:08:00]</a>. These communities provide accountability, facilitate intense discussion, and allow individuals to stress-test their ideas by collaborating with people from diverse backgrounds, including engineers, computer scientists, and scientists <a class="yt-timestamp" data-t="37:34:00">[37:34:00]</a>. This collaborative learning model is seen as overcoming the accountability problem prevalent in traditional online education <a class="yt-timestamp" data-t="38:31:00">[38:31:00]</a>.
+
+## The Growing Tech Scene in Australia
+
+Australia's tech scene, once considered minor, is now experiencing rapid growth and gaining global recognition <a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a>.
+*   **New Initiatives** – The establishment of the Tech Council of Australia, led by Tesla chair Robyn Denholm, signifies a concerted effort to lobby the government and further develop the tech ecosystem <a class="yt-timestamp" data-t="06:28:00">[06:28:00]</a>.
+*   **Unicorns and Funding** – The acquisition of Afterpay by Square, a landmark event, is expected to have significant trickle-down effects, including increased angel and venture capital investing, further fueling the ecosystem <a class="yt-timestamp" data-t="06:43:00">[06:43:00]</a>. Venture capital in Australia is "hot," with companies raising at high valuations and a significant increase in the number of unicorns, particularly in mid-2021 <a class="yt-timestamp" data-t="07:24:00">[07:24:00]</a>. This growth indicates [[australias_role_and_culture_in_technological_innovation | Australia's role and culture in technological innovation]] is evolving.
+
+## The [[the_role_of_media_in_tech_entrepreneurship | Role of Media]] in the Tech Ecosystem
+
+The decentralization of media and the rise of platforms like Substack and Twitter are changing how people learn and share information about technology <a class="yt-timestamp" data-t="11:24:00">[11:24:00]</a>. This new media landscape allows for combining various passions, such as venture capital, entrepreneurship, and content creation, under one brand <a class="yt-timestamp" data-t="22:39:00">[22:39:00]</a>. The approach of "building in public" – sharing ongoing work, thoughts, and even mistakes – allows for external feedback and fosters broader conversations around new companies and investment ideas <a class="yt-timestamp" data-t="33:57:00">[33:57:00]</a>. This transparent approach aims to refine thinking and build expertise over time <a class="yt-timestamp" data-t="34:16:00">[34:16:00]</a>.

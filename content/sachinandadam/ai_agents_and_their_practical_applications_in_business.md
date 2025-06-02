@@ -1,0 +1,50 @@
+---
+title: AI agents and their practical applications in business
+videoId: oanG_oIYU7Q
+---
+
+From: [[sachinandadam]] <br/> 
+
+[[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]] are autonomous reasoning digital workers capable of performing actions, similar to an [[artificial_intelligence_and_workforce_transformation | AI]] employee or coworker <a class="yt-timestamp" data-t="01:54:00">[01:54:00]</a>. Unlike earlier forms of [[artificial_intelligence_and_workforce_transformation | AI]], these agents can think for themselves beyond predefined rules or guidelines <a class="yt-timestamp" data-t="02:05:00">[02:05:00]</a> and improve at tasks the more they perform them without needing rest <a class="yt-timestamp" data-t="02:10:00">[02:10:00]</a>. Many believe this technology will fundamentally change the world, leading to a future with hundreds of millions, even billions, of [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]] <a class="yt-timestamp" data-t="02:15:00">[02:15:00]</a>.
+
+## The Rise of AI Agents
+
+The concept of [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]] becoming a practical reality gained significant momentum in early 2023 <a class="yt-timestamp" data-t="02:46:00">[02:46:00]</a>, largely due to the emergence of LangChain <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>. LangChain enabled the chaining of Large Language Models (LLMs) to use tools and deliver complex features, rapidly spreading across platforms like Twitter <a class="yt-timestamp" data-t="02:49:00">[02:49:00]</a>. This breakthrough allowed [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]] to conduct deep research, order food, and string together various tasks <a class="yt-timestamp" data-t="03:02:00">[03:02:00]</a>. A key development is "text to action," where users can simply vocalize a desired software function, and the [[artificial_intelligence_and_workforce_transformation | AI]] can write and execute it 24/7, continuously learning <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>. Looking ahead, these agents will be able to collaborate, with multiple agents combining efforts to solve new problems <a class="yt-timestamp" data-t="03:28:00">[03:28:00]</a>.
+
+## Impact on the Workforce
+
+The arrival of [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]] raises questions about job security and the future of work <a class="yt-timestamp" data-t="03:48:00">[03:48:00]</a>. Initial reactions from professionals, including former venture capitalists and consultants, suggest that many roles could be augmented or even replaced by [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]] <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>. Tasks such as presentations, formatting, and Excel modeling are cited as examples of work easily performed by agents <a class="yt-timestamp" data-t="00:25:00">[00:25:00]</a>.
+
+> [!WARNING] Job Transformation
+> Jobs will "definitely change" <a class="yt-timestamp" data-t="03:54:00">[03:54:00]</a>, with white-collar jobs expected to be affected faster than blue-collar roles <a class="yt-timestamp" data-t="04:43:00">[04:43:00]</a>. Junior roles in administration, research, sales, and modeling are particularly vulnerable to replacement by agents <a class="yt-timestamp" data-t="14:27:00">[14:27:00]</a>. The shift raises concerns about job adaptation in the midterm <a class="yt-timestamp" data-t="04:04:00">[04:04:00]</a> and the overall impact on employment <a class="yt-timestamp" data-t="04:38:00">[04:38:00]</a>.
+
+However, the prevailing view is that this transformation, while disruptive, will ultimately lead to a "much more flourished world" <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a>. Rather than fewer jobs, it's anticipated that there will be greater diversity in goods and services <a class="yt-timestamp" data-t="05:46:00">[05:46:00]</a>, leading to more production, diversity, and competition, benefiting the economy and humanity <a class="yt-timestamp" data-t="05:56:00">[05:56:00]</a>. The historical example of the "social media manager" role, which didn't exist 15 years ago but is now vital, illustrates how new vocations emerge with technological shifts <a class="yt-timestamp" data-t="05:17:00">[05:17:00]</a>.
+
+## Relevance AI: A Pioneer in the AI Workforce
+
+Relevance [[leveraging_ai_tools_in_communication_strategies | AI]], a Sydney-based startup, is at the forefront of the [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agent]] revolution <a class="yt-timestamp" data-t="00:58:00">[00:58:00]</a>. The release of Chat GPT in 2022 marked a pivotal moment, causing an "existential [[artificial_intelligence_and_workforce_transformation | AI]] crisis" for many companies who then sought out Relevance [[leveraging_ai_tools_in_communication_strategies | AI]] for solutions <a class="yt-timestamp" data-t="07:15:00">[07:15:00]</a>.
+
+Facing the skepticism that [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]] were merely a fad, Relevance [[leveraging_ai_tools_in_communication_strategies | AI]] made a strategic pivot <a class="yt-timestamp" data-t="08:18:00">[08:18:00]</a>, focusing entirely on building an [[artificial_intelligence_and_workforce_transformation | AI]] workforce. They raised $15 million, driven by the conviction that enterprise productivity would increasingly rely on agents <a class="yt-timestamp" data-t="10:38:00">[10:38:00]</a>.
+
+### Practical Application: Sales Agents
+
+Relevance [[leveraging_ai_tools_in_communication_strategies | AI]] identified sales as a high-potential use case for [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]] <a class="yt-timestamp" data-t="11:58:00">[11:58:00]</a>. They developed "Bosch," an [[artificial_intelligence_and_workforce_transformation | AI]] sales agent, to automate inefficient aspects of the current sales workforce <a class="yt-timestamp" data-t="12:05:00">[12:05:00]</a>.
+
+Specifically, Bosch targets the repetitive tasks of Business Development Representatives (BDRs) or Sales Development Representatives (SDRs), such as cold calling and finding new customer meetings <a class="yt-timestamp" data-t="12:24:00">[12:24:00]</a>. Automating these tasks doesn't necessarily displace people but can allow BDRs to be promoted to more engaging Account Executive roles, where they directly interact with customers to solve problems <a class="yt-timestamp" data-t="12:45:00">[12:45:00]</a>.
+
+### Competing with Giants
+
+Relevance [[leveraging_ai_tools_in_communication_strategies | AI]] competes against trillion-dollar giants like Google, Microsoft, and OpenAI, which are investing tens of billions quarterly in [[artificial_intelligence_and_workforce_transformation | AI]] development <a class="yt-timestamp" data-t="14:52:00">[14:52:00]</a>. Despite the intense competition, including from companies like Salesforce's "Agent Force," Relevance [[leveraging_ai_tools_in_communication_strategies | AI]] has won deals head-to-head <a class="yt-timestamp" data-t="13:13:00">[13:13:00]</a>.
+
+Their strategy for success involves:
+*   **Customer Obsession and Production Focus:** Prioritizing getting agents into active use for customers <a class="yt-timestamp" data-t="15:26:00">[15:26:00]</a>.
+*   **Model Agnostic Horizontal Platform:** Building a platform that isn't tied to any single vendor's [[artificial_intelligence_and_workforce_transformation | AI]] model, offering flexibility like a human employee who can work across various software <a class="yt-timestamp" data-t="15:59:00">[15:59:00]</a>. They aim to be the "[[artificial_intelligence_and_workforce_transformation | AI]] workforce company," not just an [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agent]] company <a class="yt-timestamp" data-t="16:45:00">[16:45:00]</a>.
+*   **No-Code Agent Building:** Making it simple and accessible for anyone to build agents without coding <a class="yt-timestamp" data-t="16:04:00">[16:04:00]</a>.
+*   **Startup Velocity and Agility:** Moving and shipping products faster than larger, more bureaucratic corporations <a class="yt-timestamp" data-t="16:59:00">[16:59:00]</a>. This agility allows them to be highly responsive to the rapidly changing market <a class="yt-timestamp" data-t="18:24:00">[18:24:00]</a>.
+
+> [!INFO] Enterprise Adoption
+> 2024 is considered the "year of enterprise adoption" for [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]], with major companies rebranding to emphasize their focus on [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agent]] businesses <a class="yt-timestamp" data-t="13:23:00">[13:23:00]</a>.
+
+## The Future with AI Agents
+
+[[artificial_intelligence_and_workforce_transformation | AI agents]] are not simply "coming for your job, but they're coming to change it" <a class="yt-timestamp" data-t="20:37:00">[20:37:00]</a>. Just as the internet fundamentally restructured the workforce, [[artificial_intelligence_and_workforce_transformation | AI]] is expected to do the same <a class="yt-timestamp" data-t="20:41:00">[20:41:00]</a>. The rapid adoption of [[rise_of_ai_agents_and_their_impact_on_the_workforce | AI agents]] in enterprises is happening quicker than anticipated <a class="yt-timestamp" data-t="19:11:00">[19:11:00]</a>. There are ongoing questions about the implications of [[the_impact_of_agi_on_industries_and_the_role_of_people | AGI]] and future [[artificial_intelligence_and_workforce_transformation | AI]] releases <a class="yt-timestamp" data-t="19:37:00">[19:37:00]</a>, but the talent and innovation in the [[artificial_intelligence_and_workforce_transformation | AI]] space, particularly in places like Sydney, suggest a bright future <a class="yt-timestamp" data-t="19:47:00">[19:47:00]</a>.

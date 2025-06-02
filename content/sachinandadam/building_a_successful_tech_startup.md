@@ -1,0 +1,58 @@
+---
+title: Building a successful tech startup
+videoId: 443blfFW_eQ
+---
+
+From: [[sachinandadam]] <br/> 
+
+[[Founder experiences and strategies in tech startups | Building a successful tech startup]] involves a blend of unique backgrounds, a strategic approach to risk, and an unwavering focus on product quality and a clear vision, as demonstrated by the co-founders of Cutible, Jack White and Sam Krenberg <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
+
+## The Founders: Jack White & Sam Krenberg
+Sam Krenberg previously built and sold A Cloud Guru for $2 billion in 2021 <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>. Jack White was raised in the environment of Australia's top ad agency, learning the advertising game from a young age <a class="yt-timestamp" data-t="00:00:25">[00:00:25]</a>. Their venture, Cutible, uses AI to create ads, aiming to "bring back the golden age of advertising" <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+
+### Complementary Personalities and Skills
+Despite coming from "very different worlds" with "very different outlooks," Sam and Jack found common ground <a class="yt-timestamp" data-t="02:46:42">[02:46:42]</a> <a class="yt-timestamp" data-t="02:47:48">[02:47:48]</a>. Sam appreciates working with people who think differently and creatively, finding Jack's unique perspective interesting <a class="yt-timestamp" data-t="02:57:48">[02:57:48]</a> <a class="yt-timestamp" data-t="03:00:00">[03:00:00]</a> <a class="yt-timestamp" data-t="03:09:10">[03:09:10]</a>. Jack was struck by Sam's humility and openness, feeling he was talking to a "smarter version" of himself <a class="yt-timestamp" data-t="03:47:00">[03:47:00]</a> <a class="yt-timestamp" data-t="04:02:00">[04:02:00]</a>. Personality tests revealed they had "exactly the same personality profile" <a class="yt-timestamp" data-t="04:50:00">[04:50:00]</a>.
+
+Sam, despite his success, maintains humility, which he attributes to a volatile childhood with an entrepreneurial father whose businesses were often "up and down" <a class="yt-timestamp" data-t="07:28:00">[07:28:00]</a> <a class="yt-timestamp" data-t="07:51:00">[07:51:00]</a> <a class="yt-timestamp" data-t="07:55:00">[07:55:00]</a>. This taught him "to not sweat the big stuff," making him unfazed by [[the_balance_of_risk_and_ambition_in_building_tech_startups | starting a business]] or raising millions of dollars <a class="yt-timestamp" data-t="08:05:00">[08:05:00]</a> <a class="yt-timestamp" data-t="08:21:00">[08:21:00]</a>. Jack also grew up with an entrepreneurial father who ran ad agencies, dealerships, and nightclubs, experiencing periods of great success and financial downturns <a class="yt-timestamp" data-t="11:29:00">[11:29:00]</a> <a class="yt-timestamp" data-t="11:45:00">[11:45:00]</a> <a class="yt-timestamp" data-t="11:56:00">[11:56:00]</a>. His father's advice, "You got to go and get the ball," became a guiding principle for Jack <a class="yt-timestamp" data-t="12:48:00">[12:48:00]</a> <a class="yt-timestamp" data-t="13:06:00">[13:06:00]</a>.
+
+## Cutible's Vision and Approach
+Cutible aims to leverage AI to "bring back the golden age of advertising," where people enjoy watching ads again <a class="yt-timestamp" data-t="00:31:00">[00:31:00]</a> <a class="yt-timestamp" data-t="00:58:00">[00:58:00]</a>. Their platform allows clients to brief it, and the ads are made for them, which they then publish to media <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. Jack's father described it as "genius" that clients pay monthly to make their own ads <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a> <a class="yt-timestamp" data-t="00:17:00">[00:17:00]</a>.
+
+### Disruption in Advertising
+Jack realized disruption was coming to traditional ad agencies when digital channels like Facebook received "zero attention" and social content was merely chopped-down TV spots <a class="yt-timestamp" data-t="14:14:00">[14:14:00]</a> <a class="yt-timestamp" data-t="14:34:00">[14:34:00]</a>. This frustration led him to set up his own production company, Sunday Gravy <a class="yt-timestamp" data-t="15:12:00">[15:12:00]</a>.
+
+### AI's Role in Creativity
+The founders believe that while AI changes the tools, it doesn't mean design is dead; instead, it allows more people to create <a class="yt-timestamp" data-t="16:25:00">[16:25:00]</a> <a class="yt-timestamp" data-t="16:33:00">[16:33:00]</a>. Sam shared an anecdote about his daughter becoming an "incredible illustrator" after initially learning graphic art on an iPad using YouTube tutorials <a class="yt-timestamp" data-t="16:40:00">[16:40:00]</a> <a class="yt-timestamp" data-t="17:09:00">[17:09:00]</a>.
+
+> [!quote] Sam Krenberg
+> "I think it will become like it's easier to create but I think craft still wins, you know, like you still want something that looks nice, that has a nice tone to it. So that's that's the hard part." <a class="yt-timestamp" data-t="17:19:00">[17:19:00]</a>
+
+They argue that AI has the opportunity to fix "terrible ads" prevalent online and "lift creative people up to do more creative work" <a class="yt-timestamp" data-t="18:02:00">[18:02:00]</a> <a class="yt-timestamp" data-t="18:04:00">[18:04:00]</a>. AI can support humans to get to creative outcomes quicker and test variables faster <a class="yt-timestamp" data-t="23:58:00">[23:58:00]</a>. However, it's an open question whether AI can push the "state-of-the-art forward" or just replicate existing good work <a class="yt-timestamp" data-t="24:58:00">[24:58:00]</a>.
+
+## The Cutible Journey: Inception and Pivot
+Jack's initial idea for Cutible stemmed from clients wanting to extract more content from their expensive video shoots <a class="yt-timestamp" data-t="19:33:00">[19:33:00]</a> <a class="yt-timestamp" data-t="19:50:00">[19:50:00]</a>. He prototyped a "crappy system" for years, with editors secretly fulfilling requests behind a "loading screen" <a class="yt-timestamp" data-t="20:04:00">[20:04:00]</a> <a class="yt-timestamp" data-t="20:16:00">[20:16:00]</a> <a class="yt-timestamp" data-t="20:24:00">[20:24:00]</a>. He didn't initially think of it as a scalable business <a class="yt-timestamp" data-t="20:30:00">[20:30:00]</a>.
+
+Sam, after spending a year building an AI-generated storybook app for his kids, saw Jack's system and realized how AI could automate the human-in-the-loop content cutting process <a class="yt-timestamp" data-t="21:01:00">[21:01:00]</a> <a class="yt-timestamp" data-t="21:16:00">[21:16:00]</a>. This marked the birth of Cutible.
+
+> [!info] The Pivot
+> After raising capital and working with large brands, Cutible made a significant pivot. The initial focus on big brands led to building a "Frankenstein" product, as these companies had traditional ways of working that didn't align with scalability <a class="yt-timestamp" data-t="30:51:00">[30:51:00]</a> <a class="yt-timestamp" data-t="31:08:00">[31:08:00]</a>. They redefined their Ideal Customer Profile (ICP) based on "attitude" – seeking customers with an "experimental mindset" who think about advertising for the future <a class="yt-timestamp" data-t="31:31:00">[31:31:00]</a> <a class="yt-timestamp" data-t="31:37:00">[31:37:00]</a>. This led them to target small to medium businesses who were already building their presence on platforms like Facebook and prioritized getting more ads out to see what works <a class="yt-timestamp" data-t="31:58:00">[31:58:00]</a> <a class="yt-timestamp" data-t="32:04:00">[32:04:00]</a>.
+
+## Defining Success: Quality and Focus
+To win in the advertising space, Cutible believes the core is to "make better ads" <a class="yt-timestamp" data-t="34:02:00">[34:02:00]</a>. They argue that quality, not just quantity, is paramount, as people crave "good ideas, good creative entertainment" <a class="yt-timestamp" data-t="36:59:00">[36:59:00]</a> <a class="yt-timestamp" data-t="44:14:00">[44:14:00]</a>.
+
+> [!quote] Jack White
+> "You've got to do ads well. So I think anyone that's setting up companies at the moment saying they're doing ads at a million speed an hour, that's great. It's just crap going out. It's content. You're creating internet garbage that no one wants." <a class="yt-timestamp" data-t="36:06:00">[36:06:00]</a> <a class="yt-timestamp" data-t="36:13:00">[36:13:00]</a>
+
+Cutible's competitive advantage lies in having the best people from the advertising industry building their AI approach, modeling their methodology on how top agencies produce ads <a class="yt-timestamp" data-t="26:15:00">[26:15:00]</a> <a class="yt-timestamp" data-t="26:24:00">[26:24:00]</a>. They focus on creating "ad sets" and letting algorithms determine what resonates with a brand's audience, learning what concepts work for specific brands over time <a class="yt-timestamp" data-t="26:55:00">[26:55:00]</a> <a class="yt-timestamp" data-t="27:09:00">[27:09:00]</a>.
+
+> [!info] The Long View
+> The founders believe in taking "the long view," prioritizing product quality over rapid market share, even if it means lower initial revenue <a class="yt-timestamp" data-t="40:27:00">[40:27:00]</a> <a class="yt-timestamp" data-t="40:33:00">[40:33:00]</a>. This strategy requires investors who are aligned with this philosophy <a class="yt-timestamp" data-t="42:09:00">[42:09:00]</a>.
+
+### Talent and Team Dynamics
+Recruiting for Cutible requires "open-minded engineers" who are comfortable with uncertainty and experimentation, as the AI's behavior isn't always predictable <a class="yt-timestamp" data-t="50:17:00">[50:17:00]</a> <a class="yt-timestamp" data-t="51:06:00">[51:06:00]</a>. Creative individuals from the advertising world must adapt to a more systematized approach, documenting processes and making them repeatable <a class="yt-timestamp" data-t="51:42:00">[51:42:00]</a>. Merging these two worlds is challenging, as engineers prefer discrete parts and clear definitions, while creative people often see everything as interconnected <a class="yt-timestamp" data-t="47:57:00">[47:57:00]</a> <a class="yt-timestamp" data-t="48:06:00">[48:06:00]</a>.
+
+### Focus and Metrics
+Cutible's leadership emphasizes "focus," rallying the entire company around one key objective per quarter <a class="yt-timestamp" data-t="56:09:00">[56:09:00]</a> <a class="yt-timestamp" data-t="58:08:00">[58:08:00]</a>. They prioritize Product-Market Fit (PMF) as a key metric, aiming for customers to be "very disappointed" if Cutible ceased to exist <a class="yt-timestamp" data-t="56:47:00">[56:47:00]</a> <a class="yt-timestamp" data-t="56:33:00">[56:33:00]</a>.
+
+## Sustaining the Drive
+Both founders are driven by a passion for solving hard problems, which blurs the line between work and hobby <a class="yt-timestamp" data-t="00:59:42">[00:59:42]</a> <a class="yt-timestamp" data-t="01:00:15">[01:00:15]</a> <a class="yt-timestamp" data-t="01:00:57">[01:00:57]</a>. Jack is excited by the problem Cutible is solving and the people they work with, also seeking financial security for his family <a class="yt-timestamp" data-t="00:59:13">[00:59:13]</a> <a class="yt-timestamp" data-t="00:59:25">[00:59:25]</a>. Sam, who previously built a [[building_a_billion_dollar_company | billion-dollar company]], enjoys the "game" of [[advice_on_entrepreneurship_and_startup_success | building businesses]] and the camaraderie of a team after a period of working alone <a class="yt-timestamp" data-t="01:00:58">[01:00:58]</a> <a class="yt-timestamp" data-t="01:01:40">[01:01:40]</a> <a class="yt-timestamp" data-t="01:02:42">[01:02:42]</a>.

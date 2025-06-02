@@ -1,0 +1,25 @@
+---
+title: Authenticity in leadership
+videoId: GeR1I2MOtuY
+---
+
+From: [[sachinandadam]] <br/> 
+
+Adam as CEO of Deloitte Australia, emphasizes that his professional identity is inseparable from his personal one. He states that he strives to "bring the real Adam to work" <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>, believing that individuals are the "sum of everything that we do" <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>. He describes himself as down to earth, a straight shooter, possessing a cheeky sense of humor, intensely curious, easily bored, and fundamentally a family guy <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+
+## Challenges of Authenticity
+Adam's authentic "larrikin" and "practical joker" persona, while enabling connections with people, initially presented career challenges. He missed several promotions, including senior consultant, partner (twice), and CEO seven years prior, because his humorous and fun-loving nature led some to question if he possessed the necessary "gravitas" or "substance" for senior roles <a class="yt-timestamp" data-t="00:17:24">[00:17:24]</a>. He admits that being "truly who I was" <a class="yt-timestamp" data-t="00:18:45">[00:18:45]</a> hurt his career at times.
+
+## Balancing Authenticity with Growth
+Adam stresses that [[balancing_personal_intensity_and_maintaining_longevity_in_leadership | authenticity]] must be coupled with self-development and learning <a class="yt-timestamp" data-t="00:17:19">[00:17:19]</a>. His approach to personal and professional growth includes:
+
+*   **Strategic Authenticity**: While emphasizing that "the only thing you can be best at in life is being yourself" <a class="yt-timestamp" data-t="00:18:21">[00:18:21]</a>, he also advises being "smart and authentic" <a class="yt-timestamp" data-t="00:18:08">[00:18:08]</a>. This means understanding how one is perceived by others <a class="yt-timestamp" data-t="00:18:12">[00:18:12]</a>, elevating strengths, managing weaknesses, and surrounding oneself with people who complement one's capabilities <a class="yt-timestamp" data-t="00:18:31">[00:18:31]</a>.
+*   **The Power of Mentorship**: Adam highlights the critical role of mentors in his journey, describing them as individuals who "saw something in this rough diamond" <a class="yt-timestamp" data-t="00:06:14">[00:06:14]</a> and invested in his development. He advises having multiple mentors from different parts of life to provide diverse feedback and help test ideas <a class="yt-timestamp" data-t="00:20:44">[00:20:44]</a>.
+*   **Seeking Feedback on Perception**: A crucial question Adam learned to ask is "How am I perceived?" <a class="yt-timestamp" data-t="00:20:09">[00:20:09]</a>. He encourages asking this question to trusted individuals, including those slightly removed from immediate interactions, to gain varied perspectives <a class="yt-timestamp" data-t="00:20:31">[00:20:31]</a>. This self-awareness helped him realize his initial perception as a "joker" who lacked "substance" <a class="yt-timestamp" data-t="00:20:20">[00:20:20]</a>.
+*   **Cultural Adaptability**: His experience in global roles, particularly in Asia Pacific, required him to "moderate my style" and "learn how to communicate differently" <a class="yt-timestamp" data-t="00:21:23">[00:21:23]</a>, becoming more thoughtful and attentive to cultural differences <a class="yt-timestamp" data-t="00:21:46">[00:21:46]</a>. This exposure helped him become a better leader <a class="yt-timestamp" data-t="00:21:51">[00:21:51]</a>.
+
+## Transition to Seriousness and Role Modeling
+Adam's shift towards being perceived as a serious [[cultivating_seriousness_in_founders | leader]] was not a conscious decision, but rather a gradual realization. He identifies a "critical moment" in his career when he recognized he had become a role model <a class="yt-timestamp" data-t="00:23:08">[00:23:08]</a>. This awareness brought a "sense of responsibility" <a class="yt-timestamp" data-t="00:23:29">[00:23:29]</a>, leading him to be more thoughtful about his actions and how he carried himself <a class="yt-timestamp" data-t="00:23:47">[00:23:47]</a>. Becoming a father also significantly contributed to his maturity and understanding of being a role model <a class="yt-timestamp" data-t="00:24:31">[00:24:31]</a>.
+
+## Impact on [[leadership_insights_and_lessons | Leadership]]
+Adam's emphasis on authenticity in [[building_effective_team_dynamics_and_leadership | leadership]] is reflected in his interactions. He believes that true leaders bring people along on a journey, listen, engage, motivate, and encourage <a class="yt-timestamp" data-t="00:13:30">[00:13:30]</a>. He cautions against transactional relationships, stating that those in leadership positions can quickly discern if someone is not genuine <a class="yt-timestamp" data-t="00:27:59">[00:27:59]</a>. His ultimate advice for anyone, especially aspiring [[life_lessons_for_future_leaders | future leaders]], is to "be yourself" <a class="yt-timestamp" data-t="00:42:13">[00:42:13]</a> and "create and craft your own path" <a class="yt-timestamp" data-t="00:42:23">[00:42:23]</a>.

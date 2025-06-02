@@ -1,0 +1,95 @@
+---
+title: Maxine Minters journey as Australias first female solo GP
+videoId: fO1TL58BuQM
+---
+
+From: [[sachinandadam]] <br/> 
+
+Maxine Minter is recognized as Australia's first female solo General Partner (GP) <a class="yt-timestamp" data-t="00:00:02">[00:00:02]</a>. Described as incredibly driven, passionate, and sharp <a class="yt-timestamp" data-t="00:00:05">[00:00:05]</a>, she has established Coventures, a $10 million pre-seed fund <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>. Her announcement as Australia's first female solo GP garnered significant attention on LinkedIn, making waves in the Australian ecosystem <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>.
+
+## Driving Purpose: Accelerating People
+Minter's career journey, which includes roles as an executive coach, venture capitalist, angel investor, founder, and lawyer, is connected by a core purpose: a love for accelerating and boosting people <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>. This motivation has evolved over time; initially, it was about proving what was possible for herself <a class="yt-timestamp" data-t="03:35:00">[03:35:00]</a>. However, in the last three to four years, she has found much greater joy in accelerating others and watching them flourish <a class="yt-timestamp" data-t="03:44:00">[03:44:00]</a>. She finds immense satisfaction in seeing the "sparkle in the eye" or the "aha moment" when someone grasps a concept or develops an idea <a class="yt-timestamp" data-t="04:00:00">[04:00:00]</a>.
+
+This deep joy was first noticed during her time as a lawyer, helping junior lawyers navigate their careers <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>. It continued through her experiences in angel investing, building teams, and helping co-founders accelerate <a class="yt-timestamp" data-t="04:39:00">[04:39:00]</a>. Becoming an executive coach intensified this purpose, and building a fund has further amplified it <a class="yt-timestamp" data-t="04:53:00">[04:53:00]</a>.
+
+## [[maxines_early_background_and_experiences_in_the_early_united_states | Early Background and Intellectual Curiosity]]
+As a child, Minter was "obsessed with how stuff works" <a class="yt-timestamp" data-t="05:59:00">[05:59:00]</a>, reading books about how bricks, concrete, and building materials were made <a class="yt-timestamp" data-t="06:01:00">[06:01:00]</a>. This early curiosity marked a deep interest in understanding fundamentals <a class="yt-timestamp" data-t="08:18:00">[08:18:00]</a>. However, in her teens, she "did a hard pivot... away from anything intellectual" <a class="yt-timestamp" data-t="06:14:00">[06:14:00]</a>, spending time at the beach focused on fun and boys <a class="yt-timestamp" data-t="06:30:00">[06:30:00]</a>. She didn't enjoy school, even being in the bottom of her class for English <a class="yt-timestamp" data-t="06:38:00">[06:38:00]</a>.
+
+A catalyst in Year 10 (around age 15-16) prompted a desire to excel academically <a class="yt-timestamp" data-t="07:09:00">[07:09:09]</a>. She stopped drinking for two years to focus, falling in love with the intellectual pursuit and the feeling of mastery <a class="yt-timestamp" data-t="07:22:00">[07:22:00]</a>. This period instilled a "dopamine" rush from deep learning <a class="yt-timestamp" data-t="07:52:00">[07:52:00]</a>. This intellectual stimulation is rooted in understanding "how something works at its brass tax" <a class="yt-timestamp" data-t="08:18:00">[08:18:00]</a>, exemplified by her reading the Australian Constitution cover-to-cover before law school <a class="yt-timestamp" data-t="08:49:00">[08:49:00]</a>.
+
+Minter believes that early social experiences, even those not directly intellectual, helped her develop emotional intelligence and rounded her out, providing diverse perspectives from people from all walks of life <a class="yt-timestamp" data-t="10:06:00">[10:06:00]</a>. She particularly credits a teacher, Mrs. Hickey, with giving her "permission to... enjoy intellectual stimulation" <a class="yt-timestamp" data-t="12:23:00">[12:23:00]</a>.
+
+## Legal Career and Transition
+Maxine Minter spent almost a decade in law, starting as a paralegal at Clayton Utz during her first year of law school <a class="yt-timestamp" data-t="15:24:00">[15:24:00]</a>. She initially aimed to be a criminal barrister, influenced by *Law and Order*, but found the reality "extremely emotionally complex" <a class="yt-timestamp" data-t="16:51:00">[16:51:00]</a>.
+
+She chose law due to its structured and plannable nature, in rejection of the less structured entrepreneurial path of her mother <a class="yt-timestamp" data-t="16:39:00">[16:39:00]</a>. The term "startup" or "entrepreneur" wasn't part of her vocabulary until she went to Stanford <a class="yt-timestamp" data-t="17:10:00">[17:10:00]</a>, and she had no idea what venture capital (VC) was even when introduced to Sam Wong, then a principal at Blackbird, before leaving Australia <a class="yt-timestamp" data-t="17:50:00">[17:50:00]</a>.
+
+She loved the law for its intellectual stimulation and structure <a class="yt-timestamp" data-t="18:11:00">[18:11:00]</a>. A key mentor was Dan Friedman, an IBM deal guy, from whom she learned a great deal <a class="yt-timestamp" data-t="18:24:00">[18:24:26]</a>. Her decision to leave law came when she no longer felt the "dopamine of learning" or intellectual stretching <a class="yt-timestamp" data-t="19:30:00">[19:30:00]</a>.
+
+### The Bondi Hill Moment
+A "Bondi Hill" moment was an "unfreezing moment" <a class="yt-timestamp" data-t="19:50:00">[19:50:00]</a> where she realized she was bored and not learning <a class="yt-timestamp" data-t="20:06:00">[20:06:00]</a>. While sitting on the hill, she reflected on what brought her deep joy: getting lost for hours in a spreadsheet, planning and modeling <a class="yt-timestamp" data-t="20:51:00">[20:51:00]</a>, contrasting this with the boredom of reviewing a Master Services Agreement (MSA) <a class="yt-timestamp" data-t="21:05:00">[21:05:00]</a>. This was a realization that she could generate value doing what she loved <a class="yt-timestamp" data-t="21:17:00">[21:17:00]</a>.
+
+## Stanford and the US Tech Ecosystem
+Minter chose Stanford for its interdisciplinary work, intending to study business and computer science to understand the future of law and bring insights back to Australia <a class="yt-timestamp" data-t="22:31:00">[22:31:00]</a>. At Stanford's Graduate School of Business (GSB), she felt "so much more at home" due to the pace of new ideas and dynamism of the people <a class="yt-timestamp" data-t="23:01:00">[23:01:00]</a>. Unlike the rigid legal field where intellectual curiosity isn't always celebrated, the GSB's startup ecosystem fully embraces it <a class="yt-timestamp" data-t="23:16:00">[23:16:00]</a>.
+
+A pivotal moment was taking a course called "Entrepreneurship from Diverse Perspectives" taught by Fern Mendelbaum <a class="yt-timestamp" data-t="23:36:00">[23:36:00]</a>. This course exposed her to entrepreneurs who didn't fit the standard mold, helping her recognize her own mother's entrepreneurial spirit <a class="yt-timestamp" data-t="24:08:00">[24:08:00]</a>. This experience highlighted the contrast between Australia, which she perceived as having a "race to the middle" and a "tall poppy syndrome" where conformity is valued <a class="yt-timestamp" data-t="25:06:00">[25:06:00]</a>, and the US, which celebrates outlier behavior and individualism <a class="yt-timestamp" data-t="25:22:00">[25:22:00]</a>.
+
+## Executive Coaching Expertise
+Minter's experience as an executive coach is deeply rooted in the US mindset of striving to be "the top of your field" <a class="yt-timestamp" data-t="29:25:00">[29:25:00]</a>. In the US, executive coaches are seen as "performance adjacent," similar to how elite athletes have coaches to improve their game <a class="yt-timestamp" data-t="29:43:00">[29:43:00]</a>. When she returned to Australia in 2020, she noted that coaches were often seen as "therapy adjacent" <a class="yt-timestamp" data-t="30:12:00">[30:12:00]</a>, though this is now shifting <a class="yt-timestamp" data-t="30:22:00">[30:22:00]</a>.
+
+Key learnings from her coaching work include:
+*   **Performance Uplift**: A coach helps identify areas for improvement and applies frameworks for performance uplift <a class="yt-timestamp" data-t="30:00:00">[30:00:00]</a>.
+*   **Leadership Impact**: Leadership is measured not by intention, but by what the team hears and does with the information <a class="yt-timestamp" data-t="30:51:00">[30:51:00]</a>.
+*   **Collaboration over Competition**: Minter learned that while competition can be motivating, collaboration is a more sustainably powerful place to build motivation and generate outcomes <a class="yt-timestamp" data-t="14:25:00">[14:25:00]</a>. This concept is so central that it inspired the "Co" in "Coventures" and "Collab" <a class="yt-timestamp" data-t="14:33:00">[14:33:00]</a>.
+*   **Interpersonal Dynamics**: A significant portion of coaching focuses on soft skills and interpersonal dynamics <a class="yt-timestamp" data-t="34:41:00">[34:41:00]</a>. Executives often need to learn how to influence others to get the most out of their teams <a class="yt-timestamp" data-t="35:20:00">[35:20:00]</a>.
+*   **Self-Awareness and Personal Performance**: Coaches help executives understand their own psychology of performance, identifying their strengths and learning to lean into them <a class="yt-timestamp" data-t="35:36:00">[35:36:00]</a>.
+*   **Co-founder Dynamics**: This is a particularly challenging area where coaches provide significant support <a class="yt-timestamp" data-t="35:49:00">[35:49:00]</a>.
+*   **Strategic Focus**: Founders often need help strategizing what to focus on first among many disparate problems <a class="yt-timestamp" data-t="36:05:00">[36:05:00]</a>.
+*   **Non-Linear Human Development**: Human development is not linear or even exponential; it's a "wiggly loop" of plateaus and unlocks. Founders must invest in their personal development to keep pace with their company's growth <a class="yt-timestamp" data-t="37:10:00">[37:10:00]</a>.
+
+Minter notes that Alex, the founder of Linktree, has an "incredible ability to learn" <a class="yt-timestamp" data-t="38:05:00">[38:05:00]</a>, combining low ego with the capacity to lead a high-performance team. He demonstrates a "beginner's mindset" in high-stakes environments, absorbing information and learning rapidly <a class="yt-timestamp" data-t="38:39:00">[38:39:00]</a>.
+
+## Transition to Venture Capital
+Minter's move into angel investing and venture capital was a natural progression. Having been trained in analytical thinking through law and subjects like math <a class="yt-timestamp" data-t="42:57:00">[42:57:00]</a>, she finds rational thought comfortable. She has "trained herself to love emotional engagement" <a class="yt-timestamp" data-t="43:40:00">[43:40:00]</a>, now finding immense joy in both analytical problem-solving and connecting with people on an emotional level <a class="yt-timestamp" data-t="44:04:00">[44:04:00]</a>.
+
+### Investing Philosophy: Grit and Growth Mindset
+At the pre-seed stage, investing is a combination of analytical and emotional engagement <a class="yt-timestamp" data-t="43:50:00">[43:50:00]</a>. Minter seeks "grit and growth mindset" in founders <a class="yt-timestamp" data-t="44:53:00">[44:53:00]</a>. She assesses this through:
+*   **Narrative Inquiry**: Asking about past experiences to understand their life journey and how they've overcome hardship <a class="yt-timestamp" data-t="45:33:00">[45:33:00]</a>.
+*   **Diligence**: Speaking to people who know the founders <a class="yt-timestamp" data-t="45:44:00">[45:44:00]</a>.
+*   **Self-Reported Mindset**: Evaluating their self-perception, looking for self-awareness in their responses <a class="yt-timestamp" data-t="45:50:00">[45:50:00]</a>.
+*   **Vulnerability**: A crucial indicator is the ability to be vulnerable and admit "I don't know" <a class="yt-timestamp" data-t="47:40:00">[47:40:00]</a>, as this demonstrates a mindset conducive to fast learning <a class="yt-timestamp" data-t="47:48:00">[47:48:00]</a>.
+
+### Coventures: A Pre-Seed Opportunity
+Minter started Coventures due to a "huge opportunity" in the Australian market to specialize in the pre-seed stage, akin to what First Round Capital did for seed investing in the Bay Area <a class="yt-timestamp" data-t="48:32:00">[48:32:00]</a>. She identified a "huge commercial opportunity" coupled with a "huge impact opportunity" <a class="yt-timestamp" data-t="48:55:00">[48:55:00]</a>. If successful, Coventures will accelerate the next generation of Australian unicorns, creating career, wealth, and life opportunities <a class="yt-timestamp" data-t="49:02:00">[49:02:00]</a>.
+
+The startup ecosystem, which was not even part of her vocabulary when she left Australia in 2017 <a class="yt-timestamp" data-t="49:47:00">[49:47:00]</a>, is now the sixth-largest employer in Australia, indicating incredible growth <a class="yt-timestamp" data-t="49:52:00">[49:52:00]</a>.
+
+A conversation with a good friend, Sarah McNaught, about whether an Australian woman had ever raised a fund by herself, and the lack of reference points for solo GPs in Australia, inspired Minter to fill this gap <a class="yt-timestamp" data-t="50:31:00">[50:31:00]</a>.
+
+#### Winning Strategy and Competitive Edge
+Minter believes "good strategy wins" <a class="yt-timestamp" data-t="52:01:00">[52:01:00]</a>, which involves a differentiated customer insight supported by a superior financial model <a class="yt-timestamp" data-t="52:10:00">[52:10:00]</a>. The "Open Secret" is the difficulty of raising pre-seed in Australia <a class="yt-timestamp" data-t="52:23:00">[52:23:00]</a>, evidenced by the uncorrelated valuation changes between pre-seed and seed rounds <a class="yt-timestamp" data-t="52:37:00">[52:37:00]</a>. Australia's ecosystem is "very underfunded," with 1/17th the amount invested per GDP compared to the US <a class="yt-timestamp" data-t="53:07:00">[53:07:00]</a>.
+
+Coventures' thesis is to find companies in Australia and accelerate them to the US, leveraging a "stage Arbitrage" (focusing solely on pre-seed) and an "ecosystem Arbitrage" (bridging the Australian and US markets) <a class="yt-timestamp" data-t="53:18:00">[53:18:00]</a>. Minter notes that no one is investing in pre-seed in Australia "institutionally properly" <a class="yt-timestamp" data-t="54:51:00">[54:51:00]</a> in the same thoughtful way the US ecosystem does <a class="yt-timestamp" data-t="54:45:00">[54:45:00]</a>. This represents an opportunity that opened up as earlier-stage US funds grew and began writing larger seed checks, creating a gap for a new, earlier investment class <a class="yt-timestamp" data-t="55:06:00">[55:06:00]</a>.
+
+## Personal Management and Work-Life Harmony
+To manage her demanding life, Minter applies disciplines learned as a lawyer, like measuring her life in six-minute increments <a class="yt-timestamp" data-t="56:19:00">[56:19:00]</a>. She religiously tracks her time using tools like Sunsama, which helps plan and close out her day <a class="yt-timestamp" data-t="56:27:00">[56:27:00]</a>.
+
+Her key strategies include:
+*   **Highest Leverage Work**: Constantly asking herself if she's working on the highest leverage task <a class="yt-timestamp" data-t="56:53:00">[56:53:00]</a>.
+*   **Joy Auditing**: Daily reflection on what brought her joy and what sapped her energy, aiming to maximize joy-inducing activities to work longer and feel better <a class="yt-timestamp" data-t="56:57:00">[56:57:00]</a>.
+*   **Hard Trade-offs**: Making decisions to not do certain things, leverage others' time, or reprioritize <a class="yt-timestamp" data-t="57:20:00">[57:20:00]</a>.
+*   **Continued Coaching**: She still works with an executive coach to navigate overwhelm and strategize effectively <a class="yt-timestamp" data-t="57:44:00">[57:44:00]</a>.
+*   **Time and Energy Management**: Crucial for sustained performance <a class="yt-timestamp" data-t="59:01:00">[59:01:00]</a>.
+*   **Work-Life Harmony**: Prioritizing activities that nourish her and allow for "cross-training" <a class="yt-timestamp" data-t="59:14:00">[59:14:00]</a>, such as advisory work, sitting on the Stanford Australia Association committee, and engaging with people from diverse ages, stages, and industries <a class="yt-timestamp" data-t="59:43:00">[59:43:00]</a>. She emphasizes avoiding becoming "siled in Tech" <a class="yt-timestamp" data-t="01:00:19">[01:00:19]</a>.
+*   **Connected Time**: Deliberately scheduling time with her partner, family, and friends, recognizing that these "important but not urgent" activities are often deprioritized without conscious effort <a class="yt-timestamp" data-t="01:00:57">[01:00:57]</a>.
+
+Minter lives by the principle of "not making decisions that you don't have to make" <a class="yt-timestamp" data-t="01:11:27">[01:11:27]</a>, freeing up cognitive load for high-leverage decisions. An example is her commitment to her life partner, Marcus, whom she fell in love with in the first week and proposed to three months later <a class="yt-timestamp" data-t="01:12:47">[01:12:47]</a>. This decision was based on how she wanted to *feel* in the partnership, rather than external frameworks <a class="yt-timestamp" data-t="01:12:25">[01:12:25]</a>.
+
+## Final Reflections
+Minter emphasizes that to be the best at what you do, you cannot be stressed all the time <a class="yt-timestamp" data-t="01:03:22">[01:03:22]</a>. Making decisions in a state of "fight or flight" leads to poor outcomes <a class="yt-timestamp" data-t="01:03:02">[01:03:02]</a>. While "hustle culture" can promote constant stress, coaches help individuals pause and reflect <a class="yt-timestamp" data-t="01:03:40">[01:03:40]</a>.
+
+She advocates for understanding one's unique "work like a lion" rhythm, balancing sprints with rest <a class="yt-timestamp" data-t="01:04:36">[01:04:36]</a>, and valuing rest for increased creativity <a class="yt-timestamp" data-t="01:04:58">[01:04:58]</a>. The key is to run experiments and compound on insights to find what truly brings "joyful work" and "true work-life harmony" for the individual <a class="yt-timestamp" data-t="01:05:43">[01:05:43]</a>.
+
+What keeps her up at night are small, unfulfilled commitments <a class="yt-timestamp" data-t="01:16:14">[01:16:14]</a>. She uses breathwork to manage her energy and sometimes embraces early morning wakefulness as a time for curious thought <a class="yt-timestamp" data-t="01:16:45">[01:16:45]</a>.
+
+Minter deeply misses the Australian sky, sunsets, natural environment, and the genuine depth of connection with people that focuses on who you are, not just your career <a class="yt-timestamp" data-t="01:14:54">[01:14:54]</a>.

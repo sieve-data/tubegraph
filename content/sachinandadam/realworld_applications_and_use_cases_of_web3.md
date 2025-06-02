@@ -1,0 +1,43 @@
+---
+title: Realworld applications and use cases of Web3
+videoId: _RvkxjY6UfM
+---
+
+From: [[sachinandadam]] <br/> 
+
+[[Evolution of the Internet from Web1 to Web3 | Web3]], also known as the decentralized web, represents the next significant phase of the internet, building upon the foundations of Web1 and Web2. It emphasizes concepts like [[decentralization_and_ownership_in_web3 | decentralization]], ownership, and permissionless innovation, primarily through blockchain-based technologies <a class="yt-timestamp" data-t="06:46:00">[06:46:00]</a>.
+
+## Evolution from Web1 and Web2
+
+To understand [[Evolution of the Internet from Web1 to Web3 | Web3]], it's essential to look at its predecessors:
+*   **Web1 (Early Internet)**: Characterized by open and interoperable protocols like HTTP for websites and SMTP for email. It was useful but niche, primarily used by technical experts who had to host their own servers and content <a class="yt-timestamp" data-t="07:02:02">[07:02:02]</a>.
+*   **Web2 (Current Internet)**: Companies like Google, Facebook, Amazon, and Apple made the internet user-friendly, onboarding billions of users by creating easy-to-use interfaces over Web1's open protocols <a class="yt-timestamp" data-t="07:37:37">[07:37:37]</a>. While hugely successful and an economic driver, Web2 introduced challenges around data ownership, privacy, and centralization <a class="yt-timestamp" data-t="08:40:00">[08:40:00]</a>. Content creators, for instance, are confined to platforms where they built their following and receive little to no compensation (e.g., Instagrammers receiving nothing, YouTubers getting 50% of ad revenue) <a class="yt-timestamp" data-t="09:09:09">[09:09:09]</a>. Business innovation can also be stifled by centralized control, as seen with Epic Games' battle with Apple over app store revenues <a class="yt-timestamp" data-t="09:34:00">[09:34:00]</a>.
+
+## Core Tenets of Web3
+
+[[Evolution of the Internet from Web1 to Web3 | Web3]] addresses Web2's challenges by utilizing blockchain technology, which transforms private databases into public, open, and interoperable ones <a class="yt-timestamp" data-t="10:21:00">[10:21:00]</a>. This allows users to own their data, take it wherever they want, and build permissionlessly on top of existing protocols <a class="yt-timestamp" data-t="10:37:00">[10:37:00]</a>.
+
+A fundamental difference in [[Evolution of the Internet from Web1 to Web3 | Web3]] is the guidance by tokens, which economically align communities around a desired outcome <a class="yt-timestamp" data-t="17:11:00">[17:11:00]</a>. Early users can earn or buy tokens, incentivizing them to promote the platform and benefit from token appreciation as the product gains usage <a class="yt-timestamp" data-t="18:13:00">[18:13:00]</a>. Builders of these protocols are also incentivized by tokens <a class="yt-timestamp" data-t="18:43:00">[18:43:00]</a>, with many protocols also having revenue models tied to token holders <a class="yt-timestamp" data-t="19:36:00">[19:36:00]</a>.
+
+## Real-World Applications and Use Cases
+
+### Decentralized Finance (DeFi)
+The "DeFi Summer" in early 2020 was a turning point, demonstrating real user influx into a new financial ecosystem <a class="yt-timestamp" data-t="13:59:00">[13:59:00]</a>.
+*   **Examples**: Projects like MakerDAO enabling stablecoin issuance, Compound and Aave for lending, and Yearn Finance generating alternative yields <a class="yt-timestamp" data-t="14:04:00">[14:04:00]</a>. DeFi protocols like SushiSwap earn revenue through transaction fees, which typically go to token holders <a class="yt-timestamp" data-t="19:41:00">[19:41:00]</a>.
+*   **[[the_future_impact_of_blockchain_and_fintech_in_emerging_markets | Social Impact]]**: [[the_rise_of_cryptocurrency_and_decentralized_finance_defi | DeFi]] offers a fairer financial system, particularly for individuals in oppressed regimes who face hyperinflation or currency controls <a class="yt-timestamp" data-t="25:12:00">[25:12:00]</a>. It provides an uncensorable way to protect savings and enables more affordable remittances (e.g., reducing 8% fees for sending money internationally) <a class="yt-timestamp" data-t="26:45:00">[26:45:00]</a>. It also grants access to finance for those without institutional connections <a class="yt-timestamp" data-t="27:24:00">[27:24:00]</a>.
+
+### Non-Fungible Tokens (NFTs)
+While initially capturing public attention through art and collectibles, NFTs represent the fundamental innovation of [[web3_and_the_future_of_digital_property_rights | digital ownership]] <a class="yt-timestamp" data-t="21:37:00">[21:37:00]</a>.
+*   **Gaming**: NFTs are gaining traction in gaming. Players spend thousands of hours and dollars on in-game items (skins, daggers, swords) that become worthless when they stop playing <a class="yt-timestamp" data-t="29:34:00">[29:34:00]</a>. NFTs allow players to truly own these digital assets and potentially transfer them across different platforms <a class="yt-timestamp" data-t="30:08:00">[30:08:00]</a>. AirTree, for example, invested in Immutable, a scaling solution for gaming NFTs on Ethereum <a class="yt-timestamp" data-t="29:25:00">[29:25:00]</a>.
+*   **Membership and Participation**: NFTs can serve as "digital proof of action," recognizing contributions or membership at a specific point in time <a class="yt-timestamp" data-t="31:10:00">[31:10:00]</a>. This could incentivize charitable actions, grant access to exclusive communities, or provide future rewards <a class="yt-timestamp" data-t="31:10:00">[31:10:00]</a>. An example is an artist creating a "monster owner's club" for early NFT collectors, fostering community and offering airdrops <a class="yt-timestamp" data-t="32:43:00">[32:43:00]</a>.
+
+### Decentralized Social Networks
+Projects are emerging to build social network infrastructure layers that are decentralized. For instance, the Aave team released a new social network infrastructure layer, essentially a database and infrastructure layer for others to build social applications on top of <a class="yt-timestamp" data-t="20:21:00">[20:21:00]</a>.
+
+### [[Social impact and innovation in emerging technologies | Climate Action]]
+[[Social impact and innovation in emerging technologies | Web3]] projects are addressing climate change. ClimaDAO, for example, uses a rebasing mechanism to bridge carbon credits onto the blockchain and effectively retire them <a class="yt-timestamp" data-t="36:27:00">[36:27:00]</a>. In just eight weeks, they brought 15 million tons of carbon dioxide on-chain, which could raise the price of voluntary carbon credits globally and contribute to reducing global warming <a class="yt-timestamp" data-t="36:41:00">[36:41:00]</a>.
+
+## Hype vs. Reality
+The [[the_future_of_blockchain_and_its_potential_challenges | Web3]] space is prone to speculation and mania, leading to "bubbles and pops" <a class="yt-timestamp" data-t="15:22:00">[15:22:00]</a>. Many currently popular applications, like OpenSea (NFT marketplace) and Coinbase (crypto exchange), are still Web2 companies despite dealing with Web3 assets <a class="yt-timestamp" data-t="14:51:00">[14:51:00]</a>. However, beneath the speculation, "real things are being built and real usage is occurring" <a class="yt-timestamp" data-t="15:51:00">[15:51:00]</a>. While [[decentralization_and_ownership_in_web3 | decentralization]] is a core principle, there are limits to its application, as centralization offers significant benefits in speed, performance, and user experience that Web2 continues to excel at <a class="yt-timestamp" data-t="24:38:00">[24:38:00]</a>. Therefore, it's unlikely that "all of the internet I know and love is dead" <a class="yt-timestamp" data-t="25:00:00">[25:00:00]</a>.
+
+From an investment perspective, firms like AirTree aim to invest in the "deployment phase" of innovation curves – when real-world people start using these tools <a class="yt-timestamp" data-t="12:48:00">[12:48:00]</a>. Although personally involved in crypto since 2013, AirTree officially began investing in [[Evolution of the Internet from Web1 to Web3 | Web3]] during the DeFi summer of 2020, recognizing it as the beginning of this crucial deployment phase <a class="yt-timestamp" data-t="13:55:00">[13:55:00]</a>. This strategic focus acknowledges the potential for large, successful projects to be built on decentralized rails within the next decade <a class="yt-timestamp" data-t="23:57:00">[23:57:00]</a>.

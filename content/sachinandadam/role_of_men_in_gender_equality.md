@@ -1,0 +1,42 @@
+---
+title: Role of men in gender equality
+videoId: PHqquWLxDQU
+---
+
+From: [[sachinandadam]] <br/> 
+
+Elizabeth Broderick, a high-profile guest on the Saturn Atom podcast, discussed her extensive work on [[gender_equality_in_australia_and_globally | gender equality]], including her roles as the Sex Discrimination Commissioner in Australia and an independent special expert at the UN. She is currently working with "Male Champions of Change," an organization dedicated to fighting for greater [[gender_equality_in_australia_and_globally | gender equality]] <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>.
+
+## Introduction to Male Champions of Change
+
+The Male Champions of Change initiative was founded on the understanding that [[gender_equality_in_australia_and_globally | gender equality]] is a critical social and economic issue affecting everyone, regardless of gender <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. Historically, progress for women's rights has largely been driven by women demanding change <a class="yt-timestamp" data-t="00:02:18">[00:02:18]</a>. However, to achieve a more [[gender_equality_in_australia_and_globally | gender equal]] world, the collective action of men is also necessary, as men often hold positions of power in society <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>.
+
+[[gender_equality_in_australia_and_globally | Gender equality]] is not a "zero-sum game" where women gain and men lose; instead, it aims to create better families, organizations, communities, and economies for everyone <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. When women's status improves, the world as a whole lifts <a class="yt-timestamp" data-t="00:03:09">[00:03:09]</a>.
+
+The Male Champions of Change started small about eight years ago when Broderick, as Sex Discrimination Commissioner, realized the need for men as allies <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>. She reached out to powerful male leaders, including the heads of Qantas and major banks, asking them to use their collective voice, wisdom, and power to support change alongside women <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>. Today, there are 17 Male Champions of Change groups with over 250 members, not just in Australia but globally, including groups in Pakistan, the Philippines, and India <a class="yt-timestamp" data-t="00:03:56">[00:03:56]</a>. These men collaborate, recognizing that "no one of us will ever be as good as all of us" in shifting global systems towards greater [[gender_equality_in_australia_and_globally | gender equality]] <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
+
+## Actions and Strategies of Male Champions of Change
+
+The organization focuses on practical actions that promote [[gender_equality_in_australia_and_globally | gender equality]]:
+
+*   **Demanding Gender-Balanced Panels**: When asked to speak at events, members inquire about the number of women speakers and whether the audience will be [[gender equal]] <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>. They refuse to speak at events where women's voices are not heard <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. This simple shift, given that these men deliver around a thousand keynote addresses annually, helps open up visibility for women in their careers <a class="yt-timestamp" data-t="00:05:00">[00:05:00]</a>.
+*   **Promoting Flexible Work**: The Male Champions of Change have been instrumental in advocating for "all roles flex" policies, meaning flexibility is a given for all employees, male or female <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>. Employees then work with supervisors to determine the best type of flexibility for their role <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. This approach recognizes [[flexible_work_and_gender_equality | flexible work]] as a contemporary form of employment <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. The COVID-19 pandemic accelerated this shift, as demonstrated by Telstra moving 25,000 employees to work from home over a single weekend <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>.
+*   **Encouraging Men's Caregiving**: Flexible work particularly benefits men by providing more opportunities to spend time with their families and children and engage in caring roles, challenging traditional stereotypes <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>.
+
+## Fostering Constructive Conversations
+
+Men are seen as "half of the solution" in achieving [[gender_equality_in_australia_and_globally | gender equality]], not the enemy <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>. Broderick suggests that constructive conversations for men begin with:
+
+*   **Listening to Women's Stories**: Understanding the current reality involves talking to women and listening to their experiences, including struggles to achieve aspirations, or situations characterized by violence due to lack of income <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>.
+*   **Discussing Men's Desires**: Men should also talk about their own desires for their lives, as societal stereotypes often confine them to roles like "breadwinner" or being "strong," which can be equally imprisoning <a class="yt-timestamp" data-t="00:13:13">[00:13:13]</a>.
+*   **Shifting Power Dynamically**: Achieving [[gender_equality_in_australia_and_globally | gender equality]] is not about "ripping power off men" but about a more equal redistribution of power that benefits everyone <a class="yt-timestamp" data-t="00:13:53">[00:13:53]</a>. For example, a family where both adults are employed builds economic resilience, preventing poverty in times of crisis like COVID-19 <a class="yt-timestamp" data-t="00:14:40">[00:14:40]</a>.
+
+## Challenging Stereotypes and Promoting Flexibility
+
+Gender stereotypes are seen as a primary barrier to [[gender_equality_in_australia_and_globally | gender equality]] <a class="yt-timestamp" data-t="00:21:31">[00:21:31]</a>, as they can "imprison" both men and women <a class="yt-timestamp" data-t="00:11:01">[00:11:01]</a>. Broderick emphasizes that the goal is to live "intertwined lives which based on dignity and respect" <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>.
+
+When confronted with the argument that men and women are "customed" or "drawn" to certain types of work, Broderick argues that this is primarily due to conditioning and social norms <a class="yt-timestamp" data-t="00:27:10">[00:27:10]</a>. She points out the paradox where some countries with less overall [[gender_equality_in_australia_and_globally | gender equality]] (like Saudi Arabia) have higher numbers of women in STEM fields compared to more [[gender equal]] nations like Australia, where girls are told they can do anything <a class="yt-timestamp" data-t="00:27:18">[00:27:18]</a>. Women often enter STEM for "purpose" – to shape a better world – rather than solely for higher salaries, which can lead to attrition if the organizational culture doesn't align with this purpose <a class="yt-timestamp" data-t="00:28:17">[00:28:17]</a>.
+
+> "Pretty much every institution in Australia, and I'd suggest in most regions of the world, has been invented by men for men and it's largely run by men... if we don't intentionally and actively include women, the system will unintentionally exclude them" <a class="yt-timestamp" data-t="00:31:06">[00:31:06]</a>.
+
+Temporary special measures or [[quotas_and_representation_in_the_workplace | quotas]] are supported in areas where progress towards [[gender_equality_in_australia_and_globally | gender equality]] has been slow <a class="yt-timestamp" data-t="00:30:36">[00:30:36]</a>. These are seen as temporary tools to "reimagine what normal looks like" and actively include women until a 50% representation is achieved <a class="yt-timestamp" data-t="00:30:26">[00:30:26]</a>. However, the ultimate goal is not a forced 50/50 split if, with complete [[equality_of_opportunity | equality of opportunity]], individuals genuinely make different choices based on personal preference <a class="yt-timestamp" data-t="00:33:31">[00:33:31]</a>. The core principle remains universal human rights, dignity, respect, and individual choice <a class="yt-timestamp" data-t="00:34:04">[00:34:04]</a>.

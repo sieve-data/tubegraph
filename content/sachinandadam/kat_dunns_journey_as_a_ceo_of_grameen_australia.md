@@ -1,0 +1,40 @@
+---
+title: Kat Dunns journey as a CEO of Grameen Australia
+videoId: _J1aZby76uU
+---
+
+From: [[sachinandadam]] <br/> 
+
+Kat Dunn served as the CEO of Grameen Australia, an organization focused on bringing microfinance to Australia, building upon the principles of the Nobel Peace Prize-winning Grameen Bank model <a class="yt-timestamp" data-t="00:33:16">[00:33:16]</a>. Her tenure marked a significant shift for the organization, transitioning from an international development fund to a direct microfinance operator within Australia <a class="yt-timestamp" data-t="00:33:51">[00:33:51]</a>.
+
+## Path to Grameen Australia
+Kat Dunn's career journey, though diverse, unexpectedly led her to the CEO role at Grameen Australia <a class="yt-timestamp" data-t="00:31:09">[00:31:09]</a>. While working as a lawyer, she had an "entrepreneurial drive" and a "humanitarian drive" that didn't initially align with the traditional corporate path she was on <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>. She experienced a "dissonance" between her internal desires and external expectations <a class="yt-timestamp" data-t="00:07:54">[00:07:54]</a>.
+
+Her move to Grameen was serendipitous, facilitated by her strong professional relationships and a focus on genuine connections rather than transactional networking <a class="yt-timestamp" data-t="00:22:56">[00:22:56]</a>. A friend, Josh Ross, connected her to Lynley Edwards, an investment banker on the board of Grameen Australia, who later proposed Kat for the CEO position <a class="yt-timestamp" data-t="00:30:00">[00:30:00]</a>, <a class="yt-timestamp" data-t="00:30:41">[00:30:41]</a>. Despite her lack of prior experience as a CEO, in the not-for-profit sector, or in microfinance, she was chosen due to her perceived adaptability and underlying qualities <a class="yt-timestamp" data-t="00:30:51">[00:30:51]</a>, <a class="yt-timestamp" data-t="00:34:15">[00:34:15]</a>, <a class="yt-timestamp" data-t="00:24:00">[00:24:00]</a>.
+
+## The Grameen Microfinance Model
+Grameen Bank was founded in Bangladesh by Professor Muhammad Yunus, who won the Nobel Peace Prize in 2006 for his work in microfinance <a class="yt-timestamp" data-t="00:31:35">[00:31:35]</a>, <a class="yt-timestamp" data-t="00:31:40">[00:31:40]</a>. The core problem Grameen aimed to solve was the inability of poor individuals to start businesses due to a lack of asset collateral for traditional loans <a class="yt-timestamp" data-t="00:31:48">[00:31:48]</a>.
+
+Yunus re-engineered the lending model by introducing "social collateral" <a class="yt-timestamp" data-t="00:32:41">[00:32:41]</a>. Instead of individual loans, five borrowers would be grouped, and each would be collectively responsible for their individual loans <a class="yt-timestamp" data-t="00:32:50">[00:32:50]</a>. These groups met weekly to discuss problems and crowdsource solutions <a class="yt-timestamp" data-t="00:33:00">[00:33:00]</a>. This model resulted in nearly 100% repayment rates with interest, fostering self-sustainability <a class="yt-timestamp" data-t="00:33:07">[00:33:07]</a>, <a class="yt-timestamp" data-t="00:33:12">[00:33:12]</a>. Grameen is considered a "social business" because its interest earnings fund its own expansion, making it sustainable rather than relying solely on grants <a class="yt-timestamp" data-t="00:33:19">[00:33:19]</a>.
+
+In Bangladesh, Grameen Bank has issued over $28 billion to more than 10 million women, impacting over 44 million people, or about 25% of the country's population <a class="yt-timestamp" data-t="00:33:36">[00:33:36]</a>, <a class="yt-timestamp" data-t="00:36:49">[00:36:49]</a>, <a class="yt-timestamp" data-t="00:36:55">[00:36:55]</a>. It boasts a 97% repayment rate in Bangladesh <a class="yt-timestamp" data-t="00:33:41">[00:33:41]</a> and has been replicated in over 50 countries, including the United States, where Grameen America has issued $1.3 billion to over 130,000 women with a 99% repayment rate over the last decade <a class="yt-timestamp" data-t="00:33:47">[00:33:47]</a>, <a class="yt-timestamp" data-t="00:39:10">[00:39:10]</a>.
+
+## Kat's Leadership at Grameen Australia
+From 2018 to March 2020, Kat Dunn's primary responsibility as Australian CEO was to enable Grameen to operate within Australia <a class="yt-timestamp" data-t="00:34:06">[00:34:06]</a>, <a class="yt-timestamp" data-t="00:34:45">[00:34:45]</a>. This involved:
+*   Opening up Grameen's constitution to allow Australian operations <a class="yt-timestamp" data-t="00:34:25">[00:34:25]</a>.
+*   Demerging from Asian operations to focus exclusively on Australia <a class="yt-timestamp" data-t="00:34:29">[00:34:29]</a>.
+*   Assembling resources and developing a strategic plan <a class="yt-timestamp" data-t="00:34:34">[00:34:34]</a>.
+*   Choosing a pilot location, which was Broadmeadows in Melbourne, Victoria <a class="yt-timestamp" data-t="00:34:38">[00:34:38]</a>, <a class="yt-timestamp" data-t="00:34:49">[00:34:49]</a>.
+
+## [[challenges_and_insights_in_microfinance|Challenges and Insights in Microfinance]]
+Kat Dunn acknowledges that while microfinance has significantly reduced poverty in countries like Bangladesh <a class="yt-timestamp" data-t="00:36:30">[00:36:30]</a>, the model is hard to replicate universally <a class="yt-timestamp" data-t="00:37:10">[00:37:10]</a>. Key challenges and insights include:
+*   **Social Collateral**: This is crucial for success <a class="yt-timestamp" data-t="00:37:17">[00:37:17]</a>. Grameen's group lending philosophy, where members support each other, is different from one-to-one microfinance <a class="yt-timestamp" data-t="00:38:11">[00:38:11]</a>.
+*   **Sustainability**: Microfinance without an interest rate often makes an organization a charity, which may not be sustainable <a class="yt-timestamp" data-t="00:37:54">[00:37:54]</a>. The "social business" aspect of Grameen, which generates interest to fund expansion, is vital <a class="yt-timestamp" data-t="00:37:22">[00:37:22]</a>.
+*   **Cultural Aptitude**: A common misconception is that Australia lacks the cultural aptitude for sharing personal financial details needed for group microfinance <a class="yt-timestamp" data-t="00:38:31">[00:38:31]</a>. However, Dunn believes this is a "myth" and that people are willing to work together when motivated to improve their lives <a class="yt-timestamp" data-t="00:38:43">[00:38:43]</a>.
+*   **Positive Incentives**: Instead of punishment for missed payments, the focus should be on positive incentives and providing support structures <a class="yt-timestamp" data-t="00:39:28">[00:39:28]</a>.
+*   **Research Needs**: Dunn expresses a desire for more scientific studies in Australia to empirically measure the impact of microfinance, charity, and welfare compared to a control group <a class="yt-timestamp" data-t="00:39:54">[00:39:54]</a>.
+
+## Transition and Future
+Due to the COVID-19 pandemic preventing her from traveling to Melbourne for the pilot, Kat Dunn transitioned from her CEO role in March 2020 <a class="yt-timestamp" data-t="00:34:53">[00:34:53]</a>. Adam Mooney, who founded Good Shepherd Microfinance, took over as CEO to operationalize the Australian microfinance program <a class="yt-timestamp" data-t="00:35:01">[00:35:01]</a>. Kat Dunn subsequently joined the board of Grameen Australia <a class="yt-timestamp" data-t="00:35:17">[00:35:17]</a>.
+
+Following her time at Grameen, Kat Dunn has continued to pursue a "portfolio career," leveraging her diverse skills. She is now involved in the venture capital and accelerator space, specifically as a Commercial Director for Squadify, a team performance platform scaled by Catalyze <a class="yt-timestamp" data-t="00:43:10">[00:43:10]</a>. She sees her future path moving into impact investing and potentially civic society, while also planning for a family <a class="yt-timestamp" data-t="00:47:32">[00:47:32]</a>, <a class="yt-timestamp" data-t="00:47:38">[00:47:38]</a>. She continues executive coaching through her business, Eff (Failure Forum) <a class="yt-timestamp" data-t="00:47:46">[00:47:46]</a>.

@@ -1,0 +1,36 @@
+---
+title: The future of education and online learning
+videoId: lOLBUIwuMXY
+---
+
+From: [[sachinandadam]] <br/> 
+
+The traditional model of education is undergoing a significant transformation, with a growing emphasis on learning outside formal institutions and the emergence of online communities and virtual worlds. This shift challenges established norms, impacting how individuals acquire knowledge and connect with others.
+
+## The Shift from Traditional Education
+
+A key lesson learned recently is the vast potential for learning outside of traditional educational settings <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. Individuals are increasingly immersed in online communities, engaging in online courses, and participating in platforms like podcasts <a class="yt-timestamp" data-t="00:02:31">[00:02:31]</a>. For some, as much as 95% of their learning now comes from non-traditional sources such as coffees and the internet <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>. This has led to the realization that if one were to start university again, they might approach it very differently, focusing less on classroom time and more on seeking out diverse communities and knowledge areas that exist outside of traditional frameworks <a class="yt-timestamp" data-t="00:02:59">[00:02:59]</a>. There's even a strong desire among some to drop out and learn full-time, going deep into various topics <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+
+Despite this shift, it's important to acknowledge that traditional education still holds value, particularly for certain professions. For instance, a doctor should not be learning how to operate solely from Twitter <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. While university might teach skills like entertaining an idea in depth <a class="yt-timestamp" data-t="00:05:34">[00:05:34]</a>, many online learnings tend to be high-level, encouraging quick jumps between topics <a class="yt-timestamp" data-t="00:05:37">[00:05:37]</a>.
+
+## The Role of Online Communities and Social Platforms
+
+Online communities are becoming central to modern learning. Platforms like Twitter are considered by some to be "better than the classroom" if one follows the right people, providing amazing content and direct ideas from highly intelligent individuals <a class="yt-timestamp" data-t="00:03:26">[00:03:26]</a>. This rise in accessible, immediate information means that people can construct their personal narratives more easily than ever before, leveraging platforms like LinkedIn, Substack, and various content creation tools <a class="yt-timestamp" data-t="00:39:20">[00:39:20]</a>.
+
+This [[the_future_of_social_media_and_digital_interaction | digital interaction]] has led to a "creator economy" trend where companies are more likely to hire someone based on their portfolio and self-written content rather than just a resume <a class="yt-timestamp" data-t="00:39:47">[00:39:47]</a>. This phenomenon highlights a significant transition towards personal brand development.
+
+## The Metaverse and Digital Identity in Learning
+
+The concept of the [[future_trends_and_transformations_in_education_technology | metaverse]], broadly defined as the virtual world and one's identity within it (including VR/AR), is set to further collide with traditional notions of self-presentation <a class="yt-timestamp" data-t="00:43:07">[00:43:07]</a>. As more interactions shift online, including work and university <a class="yt-timestamp" data-t="00:43:32">[00:43:32]</a>, the importance of presenting oneself effectively in person may decrease over time <a class="yt-timestamp" data-t="00:43:30">[00:43:30]</a>. Some individuals have observed that people who appear confident and smart online can be less impressive in person, raising questions about whether online competence is becoming more crucial <a class="yt-timestamp" data-t="00:43:54">[00:43:54]</a>.
+
+NFTs (Non-Fungible Tokens) are seen as a "gateway drug to the metaverse" <a class="yt-timestamp" data-t="00:45:24">[00:45:24]</a>. They allow for anonymized or pseudonymous ownership, enabling individuals to construct entirely new identities from scratch <a class="yt-timestamp" data-t="00:45:53">[00:45:53]</a>. This means people can use "identity construction skills" to supplement any perceived lack of "people skills" <a class="yt-timestamp" data-t="00:46:09">[00:46:09]</a>. While this can reduce bias based on physical appearance <a class="yt-timestamp" data-t="00:47:30">[00:47:30]</a>, it also introduces the ability to "buy clout" through digital assets <a class="yt-timestamp" data-t="00:49:37">[00:49:37]</a>.
+
+The rise of online profiles, particularly since the widespread lockdowns of 2020-2021, has underscored the growing significance of digital identity <a class="yt-timestamp" data-t="00:48:02">[00:48:02]</a>. While close relationships still prioritize real-world identity, the increasing number of digital interactions means that digital identity is becoming "inevitably...more important" <a class="yt-timestamp" data-t="00:49:04">[00:49:04]</a>.
+
+Online communities can facilitate faster connections, allowing people with similar interests to find each other quickly <a class="yt-timestamp" data-t="00:50:37">[00:50:37]</a>. This is exemplified by online dating, where matching is often based on shared interests <a class="yt-timestamp" data-t="00:53:27">[00:53:27]</a>. Some argue that online movements like NFTs and crypto have even spurred a renewed sense of [[the_future_of_social_media_and_digital_interaction | community]], bringing together strangers who might not have met otherwise <a class="yt-timestamp" data-t="00:52:48">[00:52:48]</a>. The idea of forming cities based on shared interests, as proposed by Balaji Srinivasan, further highlights this trend <a class="yt-timestamp" data-t="00:55:48">[00:55:48]</a>.
+
+## Balancing Online Learning with Human Connection
+
+Despite the benefits of online interaction, there are concerns about its impact on mental well-being. Online interactions, even video calls, do not release the same amount of oxytocin as face-to-face interaction <a class="yt-timestamp" data-t="00:54:05">[00:54:05]</a>. This means that while people may feel connected online, it might not be truly nourishing in the long run, akin to "eating hamburgers for every meal" <a class="yt-timestamp" data-t="00:54:33">[00:54:33]</a>. With strong tailwinds for the metaverse and increased remote interactions, there's a worry about reduced in-person connections and potential negative impacts on mental health <a class="yt-timestamp" data-t="00:54:50">[00:54:50]</a>.
+
+To maintain balance, a simple mental model suggests that if one feels "less human" or unable to enjoy life's simple pleasures, they might be engaging in too much learning or trying to measure and improve every aspect of their life <a class="yt-timestamp" data-t="01:13:54">[01:13:54]</a>. It's important to be able to relax; an inability to do so might indicate an addiction to knowledge or self-improvement <a class="yt-timestamp" data-t="01:14:44">[01:14:44]</a>. Finding "moments of joy" and prioritizing consistent activities that "fill you up"—like connection, time in nature, exercise, and family time—are crucial for a balanced life <a class="yt-timestamp" data-t="01:15:42">[01:15:42]</a>.

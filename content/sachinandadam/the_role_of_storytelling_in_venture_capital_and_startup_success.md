@@ -1,0 +1,39 @@
+---
+title: The role of storytelling in venture capital and startup success
+videoId: ZoTYRluNe4I
+---
+
+From: [[sachinandadam]] <br/> 
+
+Jesse Wu, considered one of Australia's most prominent up-and-coming VCs, engaged in a wide-ranging discussion covering branding, her upbringing, and the Australian [[navigating_venture_capital_and_startup_ecosystems | Venture Capital landscape]] <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. This conversation highlighted the profound impact of storytelling, both personally and professionally, within the startup and venture capital ecosystem.
+
+## The Personal Journey to Storytelling
+Born in Shenzhen, China – often called the "Silicon Valley of China" <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a> – Jesse Wu developed a deep love for stories and fantasies as a child, which her grandpa would write down for her <a class="yt-timestamp" data-t="00:03:01">[00:03:01]</a>. After immigrating to New Zealand at age seven, her passion for words was challenged by her incomprehension of the English language <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>. This experience acutely demonstrated how words are essential for having a voice, being heard, and influencing others <a class="yt-timestamp" data-t="00:04:21">[00:04:21]</a>.
+
+This early understanding led her to study English and Philosophy at university <a class="yt-timestamp" data-t="00:04:44">[00:04:44]</a>. Jesse believes that having a voice enables one to "nudge the world in a direction that you want to see it go" and empower others by giving articulation to their thoughts and recentering marginalized voices <a class="yt-timestamp" data-t="00:04:52">[00:04:52]</a>. Her fascination extends to etymology, as she finds "words as units of existence" inherently fascinating <a class="yt-timestamp" data-t="00:06:30">[00:06:30]</a>. For example, she notes that "passion" and "passive" originate from the same root word, "patior," meaning "to endure," highlighting that passion involves a willingness to suffer <a class="yt-timestamp" data-t="00:56:16">[00:56:16]</a>.
+
+Her experience as a migrant led to feeling like an outsider, particularly due to social hierarchies <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. This awareness of power structures instilled a willingness to challenge existing hierarchies <a class="yt-timestamp" data-t="00:08:10">[00:08:10]</a>. When challenging publicly, she considers it "punching up," focusing on individuals or entities with significant power, such as founders, CEOs, VC partners, or the media <a class="yt-timestamp" data-t="00:09:06">[00:09:06]</a>. This approach aims for an "equal exchange of influencing things" <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>.
+
+## Branding and Resonance
+For both personal branding and Afterwork's branding, Jesse emphasizes the concept of "resonance" <a class="yt-timestamp" data-t="00:12:46">[00:12:46]</a>. This idea, borrowed from how piano keys vibrate at the same frequency, suggests "dialing into our frequency" and trusting that those tuned in will resonate with it <a class="yt-timestamp" data-t="00:13:00">[00:13:00]</a>. Finding one's frequency involves recognizing moments of flow in writing or speaking where thoughts pour out authentically, rather than feeling contrived or cobbled together from others' ideas <a class="yt-timestamp" data-t="00:13:45">[00:13:45]</a>. It also requires trusting the audience's intelligence and discernment, avoiding "bullshitting them" <a class="yt-timestamp" data-t="00:14:38">[00:14:38]</a>. This approach enables unique, thesis-led thinking rather than regurgitating common discourses <a class="yt-timestamp" data-t="00:14:48">[00:14:48]</a>.
+
+## The [[importance_of_storytelling_in_business | Role of Storytelling in Startups]]
+Storytelling is acknowledged as a crucial skill for a CEO, enabling key functions such as:
+*   **Fundraising:** Attracting investment <a class="yt-timestamp" data-t="00:40:14">[00:40:14]</a>.
+*   **Hiring:** Recruiting fantastic people <a class="yt-timestamp" data-t="00:39:25">[00:39:25]</a>.
+*   **Selling:** Convincing customers <a class="yt-timestamp" data-t="00:40:14">[00:40:14]</a>.
+*   **Motivation:** Inspiring teams by providing purpose and demonstrating potential personal upside <a class="yt-timestamp" data-t="00:40:18">[00:40:18]</a>. For a late-stage CEO, these functions become paramount <a class="yt-timestamp" data-t="00:40:34">[00:40:34]</a>.
+
+## [[Venture capital perspectives and founderfirst investing | Investor Perspective on Storytelling]]
+While essential, Jesse Wu cautions against over-reliance on a founder's story, particularly in early-stage VC <a class="yt-timestamp" data-t="00:40:50">[00:40:50]</a>. Over-indexing on the emotional impact of a story (what Daniel Kahneman calls "System 1 thinking") can lead to investment decisions clouded by intuition and personal biases, potentially overriding more effortful, logical "System 2 thinking" <a class="yt-timestamp" data-t="00:41:00">[00:41:00]</a>.
+
+> "Stories can funnel, it can gloss over gaping plot holes, it can misdirect, it can draw an arc that points towards an inevitability that your mind is composing without that necessarily being a certain outcome at all. And it can make you feel as an investor almost bad for asking questions like, 'okay, no, like actually let's stop here and talk about how this business really creates value'" <a class="yt-timestamp" data-t="00:41:46">[00:41:46]</a>.
+
+To counteract this, investors must ask questions that test a founder's logical coherence, such as unit economics or profitability, which cannot be answered with just a story <a class="yt-timestamp" data-t="00:42:43">[00:42:43]</a>.
+
+For Afterwork, their initial smaller checks (100k-400k) are seen as an opportunity to build a relationship and observe a founder's problem-solving skills, resourcefulness, and diligence over a 12-month period <a class="yt-timestamp" data-t="00:32:10">[00:32:10]</a>. This long-term engagement, combined with insights from their community of 120 experts, builds the high conviction necessary for larger follow-on checks (1M-1.5M) <a class="yt-timestamp" data-t="00:33:04">[00:33:04]</a>. This approach distinguishes them from funds that prioritize early ownership <a class="yt-timestamp" data-t="00:33:50">[00:33:50]</a>.
+
+### Distinguishing Story from Signals
+While a founder's ability to captivate is important for functions like hiring and fundraising <a class="yt-timestamp" data-t="00:43:50">[00:43:50]</a>, it's crucial to balance this with objective analysis. Sometimes, highly technical founders with deep insights into "boring verticals" may not be natural storytellers <a class="yt-timestamp" data-t="00:44:13">[00:44:13]</a>. In such cases, tapping into subject matter experts or target customer personas through their community helps cut through industry "noise and System 1 thinking" to determine if a genuine market need exists <a class="yt-timestamp" data-t="00:46:32">[00:46:32]</a>.
+
+Jesse Wu asserts that a good investor's value comes from their "bird's eye view" of many companies, understanding generalities, and applying frameworks (e.g., product market fit benchmarks) <a class="yt-timestamp" data-t="00:48:25">[00:48:25]</a>. They can identify common pitfalls, like the numerous "Tinder for friends" pitch decks <a class="yt-timestamp" data-t="00:49:15">[00:49:15]</a>. This perspective, rather than direct operational experience, is how investors bring value, acting as coaches or sounding boards, helping founders find solutions themselves <a class="yt-timestamp" data-t="00:51:02">[00:51:02]</a>.

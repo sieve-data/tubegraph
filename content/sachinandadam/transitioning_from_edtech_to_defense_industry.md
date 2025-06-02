@@ -1,0 +1,41 @@
+---
+title: Transitioning from edtech to defense industry
+videoId: ZF0Cgkb6sT8
+---
+
+From: [[sachinandadam]] <br/> 
+
+Dr. Vu Tran, co-founder of Goan, a multi-billion dollar [[Future trends and transformations in education technology | edtech]] company, has embarked on a new venture, founding a defense company focused on rockets and guided weapons <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>. His stated purpose is not to join the existing military-industrial complex, but to change it <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>, <a class="yt-timestamp" data-t="00:37:55">[00:37:55]</a>.
+
+## Motivation for the Shift
+
+Vu Tran's decision to transition from [[Building a Tech Communications Agency | edtech]] to defense was a deliberate, two-year process, emphasizing proper succession planning for Goan <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>, <a class="yt-timestamp" data-t="00:35:04">[00:35:04]</a>. He loves the "early stage" of building, creating something from scratch, and having a direct impact as a founder <a class="yt-timestamp" data-t="00:06:18">[00:06:18]</a>, <a class="yt-timestamp" data-t="00:07:12">[00:07:12]</a>. This contrasts with Goan's current large scale, operating in 22 countries with a valuation of $3.5 billion, where direct impact is less feasible <a class="yt-timestamp" data-t="00:06:41">[00:06:41]</a>.
+
+A core motivation is the concept of "sovereignty" and "sovereign capability" for Australia <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>, <a class="yt-timestamp" data-t="00:40:22">[00:40:22]</a>. Australia spends between $50 and $55 billion annually on defense, ranking 13th globally in raw spending and eighth per capita <a class="yt-timestamp" data-t="00:00:42">[00:00:42]</a>, <a class="yt-timestamp" data-t="00:41:02">[00:41:02]</a>. Despite this, only one Australian company (Austal) is in the top 100 defense companies globally <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>, <a class="yt-timestamp" data-t="00:41:23">[00:41:23]</a>. This dependency, primarily on the US, means Australia is often dragged into conflicts aligned with US interests <a class="yt-timestamp" data-t="00:00:56">[00:00:56]</a>, <a class="yt-timestamp" data-t="00:41:52">[00:41:52]</a>. Tran aims to build Australia's capability to make its own defense decisions and avoid being "forced" into conflicts <a class="yt-timestamp" data-t="00:42:15">[00:42:15]</a>, <a class="yt-timestamp" data-t="00:45:54">[00:45:54]</a>.
+
+Another driving factor is personal concern for future generations. With two young children, he feels compelled to act if there's "more than 0% risk" of war in the next 20 years, stating, "I'm not going to be really happy with myself" if his contribution is only to B2B SaaS <a class="yt-timestamp" data-t="00:36:05">[00:36:05]</a>, <a class="yt-timestamp" data-t="00:51:55">[00:51:55]</a>, <a class="yt-timestamp" data-t="00:52:26">[00:52:26]</a>. His parents were Vietnamese refugees who fled war with nothing, shaping his perspective on the importance of self-sufficiency <a class="yt-timestamp" data-t="00:49:10">[00:49:10]</a>.
+
+## The New Defense Venture
+
+Tran's new company focuses on solid rocket propellant and solid rocket motors, a technology that has remained largely unchanged for nearly a century <a class="yt-timestamp" data-t="01:00:05">[01:00:05]</a>. There are very few producers of these components globally, creating a significant backlog in the defense industry <a class="yt-timestamp" data-t="01:01:41">[01:01:41]</a>, <a class="yt-timestamp" data-t="01:02:19">[01:02:19]</a>. He emphasizes focusing on scalable solutions from the outset <a class="yt-timestamp" data-t="01:04:00">[01:04:00]</a>.
+
+He co-founded the business with Blake, who has a background in rocketry and aerospace, and Kyl, who has manufacturing experience outside of defense <a class="yt-timestamp" data-t="00:38:31">[00:38:31]</a>. The aim is to contribute to Australia's self-sufficiency, ensuring the country can produce essential defense goods and reduce reliance on overseas suppliers, particularly during global supply chain disruptions <a class="yt-timestamp" data-t="00:44:32">[00:44:32]</a>.
+
+### Strategic Approach
+
+Tran subscribes to the "porcupine" or "Akida strategy," which involves making a country difficult to "digest" for potential attackers <a class="yt-timestamp" data-t="01:02:32">[01:02:32]</a>. This defensive mechanism aims to deter aggression by increasing the perceived cost of an attack <a class="yt-timestamp" data-t="01:03:07">[01:03:07]</a>.
+
+The company is preparing for war "in the hope that it will never happen" <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>, <a class="yt-timestamp" data-t="01:16:24">[01:16:24]</a>. Tran likens his role to that of a fire extinguisher manufacturer who doesn't hope for fires, or a doctor who doesn't hope for sick people <a class="yt-timestamp" data-t="01:16:50">[01:16:50]</a>. He believes that by focusing on hard problems, he can contribute to change rather than merely criticizing from the sidelines <a class="yt-timestamp" data-t="00:38:25">[00:38:25]</a>, <a class="yt-timestamp" data-t="00:48:15">[00:48:15]</a>.
+
+### Funding and Innovation
+While capital is challenging in the defense sector, especially given ESG requirements for traditional financing <a class="yt-timestamp" data-t="01:04:43">[01:04:43]</a>, Tran hopes to bootstrap the company and focus on capital efficiency, aiming for a cash-flow positive business <a class="yt-timestamp" data-t="01:05:20">[01:05:20]</a>, <a class="yt-timestamp" data-t="01:05:53">[01:05:53]</a>. This approach contrasts with the typical venture capital-backed model of many tech startups <a class="yt-timestamp" data-t="01:04:19">[01:04:19]</a>.
+
+He argues that innovation in defense, as in other sectors, is more likely to come from the private sector, possibly with public sector assistance <a class="yt-timestamp" data-t="00:55:49">[00:55:49]</a>. The cost of innovation and [[Leadership lessons and company building in the tech industry | building a company]] is significantly lower today due to advancements in technology and readily available tools (e.g., Squarespace, Canva) <a class="yt-timestamp" data-t="00:59:19">[00:59:19]</a>.
+
+## Personal Philosophy and Work Ethic
+
+Beyond his entrepreneurial pursuits, Vu Tran continues to practice as a General Practitioner (GP) 1 to 1.5 times a week, often dealing with challenging cases like mental health and drug addiction <a class="yt-timestamp" data-t="00:21:20">[00:21:20]</a>, <a class="yt-timestamp" data-t="00:24:32">[00:24:32]</a>. This direct work, often in a low socioeconomic area like Logan, provides perspective and agency <a class="yt-timestamp" data-t="00:21:27">[00:21:27]</a>, <a class="yt-timestamp" data-t="00:47:56">[00:47:56]</a>. His commitment to this work reflects a desire to tackle difficult problems head-on, an approach he extends to the defense industry <a class="yt-timestamp" data-t="00:48:15">[00:48:15]</a>.
+
+He attributes his bias for action to his upbringing, as his Vietnamese refugee parents were entrepreneurs who exposed him to [[Role of entrepreneurship in addressing national defense needs | business ownership]] from a young age <a class="yt-timestamp" data-t="00:30:05">[00:30:05]</a>, <a class="yt-timestamp" data-t="00:30:34">[00:30:34]</a>. He views migrants as inherent risk-takers, highlighting a selection bias for those willing to "roll the dice for a better opportunity" <a class="yt-timestamp" data-t="00:29:33">[00:29:33]</a>.
+
+Tran emphasizes prioritizing activities by asking "how" something can be done, rather than "can" it be done <a class="yt-timestamp" data-t="01:23:59">[01:23:59]</a>. He believes that if something is truly important, one will find and make time for it <a class="yt-timestamp" data-t="01:24:46">[01:24:46]</a>. His team shares this mission-driven commitment, often working long hours because they understand the critical importance of their work in defending their way of life <a class="yt-timestamp" data-t="01:15:35">[01:15:35]</a>, <a class="yt-timestamp" data-t="01:15:56">[01:15:56]</a>.

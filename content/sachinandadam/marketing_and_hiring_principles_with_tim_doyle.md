@@ -1,0 +1,73 @@
+---
+title: Marketing and hiring principles with Tim Doyle
+videoId: st-qWswLzmI
+---
+
+From: [[sachinandadam]] <br/> 
+
+Tim Doyle is the founder of Eucalyptus and the ex-chief marketing officer at Koala <a class="yt-timestamp" data-t="00:00:07">[00:00:07]</a>. His approach to business is deeply rooted in his personal drivers: competitiveness and a contrarian nature <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>, <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>. He believes his life's work is in *how* a company is built, not necessarily *what* is built, focusing on creating environments where people can succeed <a class="yt-timestamp" data-t="00:02:32">[00:02:32]</a>, <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
+
+## Marketing Philosophy and Strategy
+
+Tim Doyle emphasizes that marketing is, at its core, strategy <a class="yt-timestamp" data-t="00:17:13">[00:17:13]</a>. It's about determining how to win, differentiate, and create a compelling offering <a class="yt-timestamp" data-t="00:17:16">[00:17:16]</a>. He believes effective marketing education should prioritize:
+1.  **Strategy**: Understanding how to craft winning strategies and capture value <a class="yt-timestamp" data-t="00:17:28">[00:17:28]</a>, <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>.
+2.  **Storytelling**: Most marketing is "dressed up storytelling" <a class="yt-timestamp" data-t="00:16:57">[00:16:57]</a>. This includes structuring narratives, hooks, and resolutions to make content memorable <a class="yt-timestamp" data-t="00:17:00">[00:17:00]</a>, <a class="yt-timestamp" data-t="00:18:45">[00:18:45]</a>, <a class="yt-timestamp" data-t="00:20:07">[00:20:07]</a>. He highlights that content needs to be low-brow and real-time to be engaging in competitive landscapes like TikTok, where it must survive on engagement alone <a class="yt-timestamp" data-t="00:18:59">[00:18:59]</a>, <a class="yt-timestamp" data-t="00:19:06">[00:19:06]</a>.
+3.  **Capital Allocation**: Effectively moving money to reach audiences <a class="yt-timestamp" data-t="00:20:25">[00:20:25]</a>, <a class="yt-timestamp" data-t="00:20:27">[00:20:27]</a>.
+
+He notes that traditional marketing education is flawed by focusing on media and advertising first, rather than strategy and storytelling <a class="yt-timestamp" data-t="00:16:40">[00:16:40]</a>, <a class="yt-timestamp" data-t="00:20:53">[00:20:53]</a>.
+
+### Key Insights in Marketing
+*   **Blurred Lines of Paid and Organic**: The distinction between paid advertising (like Facebook ads) and organic content (like SEO) is diminishing <a class="yt-timestamp" data-t="00:21:27">[00:21:27]</a>. Both involve paying for content creation and distribution <a class="yt-timestamp" data-t="00:22:08">[00:22:08]</a>, <a class="yt-timestamp" data-t="00:22:12">[00:22:12]</a>.
+*   **Low-Cost Testing**: The cost of testing in modern advertising is very low, making it sensible to quickly test content on platforms like TikTok for engagement <a class="yt-timestamp" data-t="00:22:50">[00:22:50]</a>.
+*   **Return of the Interest-Based Graph**: Due to TikTok's influence and iOS 13 ad tracking changes, there's a shift back to interest-based content discovery rather than purely social graph-based feeds <a class="yt-timestamp" data-t="00:26:36">[00:26:36]</a>, <a class="yt-timestamp" data-t="00:26:41">[00:26:41]</a>, <a class="yt-timestamp" data-t="00:26:46">[00:26:46]</a>. This means content needs to hold people's engagement for longer periods <a class="yt-timestamp" data-t="00:27:14">[00:27:14]</a>.
+*   **Leveraging Controversy**: Controversial or polarizing content can perform well and spread rapidly through interest-based graphs, as seen with viral TikToks or political ads <a class="yt-timestamp" data-t="00:27:28">[00:27:28]</a>, <a class="yt-timestamp" data-t="00:27:39">[00:27:39]</a>, <a class="yt-timestamp" data-t="00:27:45">[00:27:45]</a>.
+*   **Experience in Sports Gambling**: His background in sports gambling provided real-time insights into how narratives and perception influence markets, which is transferable to marketing <a class="yt-timestamp" data-t="00:23:45">[00:23:45]</a>, <a class="yt-timestamp" data-t="00:24:49">[00:24:49]</a>.
+
+### Capital Allocation in Business
+Tim's philosophy on capital allocation at Eucalyptus, a direct-to-consumer (D2C) business, differs from the typical Software-as-a-Service (SaaS) model <a class="yt-timestamp" data-t="00:29:02">[00:29:02]</a>. He views Eucalyptus as a "solution generation engine" rather than a product growth engine that pulls forward revenue <a class="yt-timestamp" data-t="00:30:39">[00:30:39]</a>, <a class="yt-timestamp" data-t="00:30:41">[00:30:41]</a>.
+
+His approach is to:
+*   **Fund Core Development**: Invest in engineers, new product development, and the core platform to unlock new pockets of value, especially in complex areas like healthcare <a class="yt-timestamp" data-t="00:30:44">[00:30:44]</a>, <a class="yt-timestamp" data-t="00:30:47">[00:30:47]</a>, <a class="yt-timestamp" data-t="00:31:52">[00:31:52]</a>.
+*   **Sustainable Growth**: Only fund products (like the Udi) as much as they can sustainably grow and deliver contribution margin back to the business <a class="yt-timestamp" data-t="00:30:58">[00:30:58]</a>, <a class="yt-timestamp" data-t="00:31:02">[00:31:02]</a>. If necessary, slow down growth and reallocate capital to fund new brands or ventures <a class="yt-timestamp" data-t="00:31:06">[00:31:06]</a>, <a class="yt-timestamp" data-t="00:31:11">[00:31:11]</a>.
+*   **House of Brands by Design**: It's "extremely dangerous" to triple down on one thing, as long-term growth curves are unpredictable <a class="yt-timestamp" data-t="00:32:47">[00:32:47]</a>. Maintaining a "house of brands" approach allows for continuous innovation and adaptation <a class="yt-timestamp" data-t="00:33:11">[00:33:11]</a>.
+*   **Learning from Mistakes**: Acknowledges that chasing growth and going against his principles in early 2022 led to redundancies and a painful learning experience as a capital allocator <a class="yt-timestamp" data-t="00:32:14">[00:32:14]</a>, <a class="yt-timestamp" data-t="00:32:26">[00:32:26]</a>.
+
+## [[Hiring strategies and identifying talent | Hiring Principles]]
+
+Eucalyptus is known for [[Identifying and Hiring Talent in Startups | hiring good people]] and turning them into "weapon startup operators" <a class="yt-timestamp" data-t="00:37:37">[00:37:37]</a>, <a class="yt-timestamp" data-t="00:37:39">[00:37:39]</a>.
+
+### Lessons Learned in [[The importance of team and hiring | Hiring and Cultivating Talent]]
+*   **Narrower Skill Sets**: Initially, he cast a wide net for skills, but realized the necessary skills for successful operators are "much narrower and much deeper" <a class="yt-timestamp" data-t="00:38:13">[00:38:13]</a>, <a class="yt-timestamp" data-t="00:38:22">[00:38:22]</a>.
+*   **Beyond Academic Achievement**: Filtering solely by academic achievement is insufficient <a class="yt-timestamp" data-t="00:38:32">[00:38:32]</a>. Key traits include:
+    *   Comfort with adversity <a class="yt-timestamp" data-t="00:38:39">[00:38:39]</a>
+    *   Drive to execution <a class="yt-timestamp" data-t="00:38:44">[00:38:44]</a>
+    *   Analytical rigor <a class="yt-timestamp" data-t="00:38:46">[00:38:46]</a>
+*   **Providing a Bridge**: Early on, Eucalyptus didn't adequately provide the "bridge" between incoming skills and needed startup skills, leading to some setting up for failure due to immature training programs <a class="yt-timestamp" data-t="00:39:06">[00:39:06]</a>, <a class="yt-timestamp" data-t="00:39:12">[00:39:12]</a>.
+*   **Qualities of a Good Startup Operator**:
+    *   **T-shaped skills**: Spiking deeply in one area (e.g., first principles product thinking, financial capability) while having breadth <a class="yt-timestamp" data-t="00:39:46">[00:39:46]</a>, <a class="yt-timestamp" data-t="00:39:51">[00:39:51]</a>.
+    *   **Disciplined Execution**: The most valuable, "unsexiest" skill is the ability to break down poorly defined problems and incrementally solve them along a journey <a class="yt-timestamp" data-t="00:40:26">[00:40:26]</a>, <a class="yt-timestamp" data-t="00:40:31">[00:40:31]</a>. Execution from conceptual to actual is where the "devil is in the transformation" <a class="yt-timestamp" data-t="00:40:46">[00:40:46]</a>.
+*   **First Principles Over Expertise**: Doyle has learned that strong first-principles problem-solving "will trump expertise in almost all scenarios" <a class="yt-timestamp" data-t="00:42:25">[00:42:25]</a>, particularly as every business is unique <a class="yt-timestamp" data-t="00:42:01">[00:42:01]</a>. Blindly borrowing from other businesses doesn't work <a class="yt-timestamp" data-t="00:42:05">[00:42:05]</a>.
+*   **People Thinkers**: Individuals who are good at breaking down and structuring problems in *any* field (e.g., supply chain) are often highly transferable to roles like crafting a "people function" (HR/Talent) because their principles apply across domains <a class="yt-timestamp" data-t="00:44:08">[00:44:08]</a>, <a class="yt-timestamp" data-t="00:44:10">[00:44:10]</a>. High achievers understand how to design programs for other high achievers <a class="yt-timestamp" data-t="00:43:42">[00:43:42]</a>.
+
+### On Ideas vs. Execution
+Tim Doyle strongly believes that while "bad ideas are cheap," "good ideas are rare" <a class="yt-timestamp" data-t="00:59:35">[00:59:35]</a>. The real difficulty lies in designing teams, forums, and cultures capable of consistently producing these rare, valuable, step-change ideas <a class="yt-timestamp" data-t="00:59:37">[00:59:37]</a>, <a class="yt-timestamp" data-t="01:01:16">[01:01:16]</a>. Execution is less difficult than generating these significant shifts <a class="yt-timestamp" data-t="00:59:43">[00:59:43]</a>. He highlights the value of creative brilliance, even if it's intermittent, over constant incremental improvement <a class="yt-timestamp" data-t="01:02:02">[01:02:02]</a>, <a class="yt-timestamp" data-t="01:02:51">[01:02:51]</a>.
+
+## Self-Reflection and Personal Weaknesses
+Doyle is highly self-aware and reflective about his own weaknesses <a class="yt-timestamp" data-t="00:49:41">[00:49:41]</a>, including:
+*   **Short Timeline for Product Thinking**: He has a short timeline for seeing products work, which can lead to frequent changes in direction and cause confusion <a class="yt-timestamp" data-t="00:49:56">[00:49:56]</a>, <a class="yt-timestamp" data-t="00:50:02">[00:50:02]</a>.
+*   **Low Ambition from a Technology Perspective**: He tends to focus on the "next ten dollars" or "revenue truffle hunting," which is not the best way to build a platform business <a class="yt-timestamp" data-t="00:50:14">[00:50:14]</a>, <a class="yt-timestamp" data-t="00:50:28">[00:50:28]</a>.
+*   **Communication Style**: He struggles to switch into a more empathetic, people-oriented communication style, often sticking to analytical, direct communication <a class="yt-timestamp" data-t="00:50:56">[00:50:56]</a>, <a class="yt-timestamp" data-t="00:51:01">[00:51:01]</a>.
+*   **Written Communication**: He is not a great written communicator, which he sees as a missed "superpower" in organizations <a class="yt-timestamp" data-t="00:51:34">[00:51:34]</a>, <a class="yt-timestamp" data-t="00:51:39">[00:51:39]</a>.
+*   **Malleability to Vision**: At times, he's been too malleable and lacked a strong enough long-term vision for the product and business, leading to a fragmented approach <a class="yt-timestamp" data-t="00:51:16">[00:51:16]</a>, <a class="yt-timestamp" data-t="00:51:25">[00:51:25]</a>.
+
+He attributes much of this self-awareness to "the pain of experience," particularly reflecting on mistakes where he went against his own principles, leading to negative consequences for his business and team <a class="yt-timestamp" data-t="01:07:54">[01:07:54]</a>, <a class="yt-timestamp" data-t="01:08:11">[01:08:11]</a>.
+
+## Views on the Australian Startup Ecosystem
+Doyle wants to see:
+*   **Less Founder Worship, More Operator Exposure**: While acknowledging the positive impact of founders like Cliff Obrecht and Melanie Perkins from Canva, he advocates for more exposure and learning from senior operators in the ecosystem <a class="yt-timestamp" data-t="00:45:50">[00:45:50]</a>, <a class="yt-timestamp" data-t="00:46:01">[00:46:01]</a>, <a class="yt-timestamp" data-t="00:46:27">[00:46:27]</a>. These individuals have real, hands-on experience in the "grind" of building products and growing companies <a class="yt-timestamp" data-t="00:46:18">[00:46:18]</a>.
+*   **Appreciation for Australian VCs**: Despite making jokes about them, he acknowledges that Australian VCs, especially the larger ones, have been "really ambitious," "supportive," and have had a largely positive impact on the ecosystem, unlike some counterparts abroad <a class="yt-timestamp" data-t="00:46:46">[00:46:46]</a>, <a class="yt-timestamp" data-t="00:47:00">[00:47:00]</a>, <a class="yt-timestamp" data-t="00:47:06">[00:47:06]</a>.
+*   **Better Career Paths for Young People**: He criticizes the "fundamentally broken" model for junior VCs, where they are often ill-equipped to give advice or make investment decisions, and suggests young people should prioritize building or operating within a startup to gain valuable, hands-on experience <a class="yt-timestamp" data-t="00:52:41">[00:52:41]</a>, <a class="yt-timestamp" data-t="00:53:16">[00:53:16]</a>, <a class="yt-timestamp" data-t="00:57:32">[00:57:32]</a>, <a class="yt-timestamp" data-t="00:58:01">[00:58:01]</a>. He believes direct operational experience, like moving medication around the country and understanding supply chain complexities, provides a much better foundation for assessing businesses than a typical junior VC role <a class="yt-timestamp" data-t="00:58:16">[00:58:16]</a>, <a class="yt-timestamp" data-t="00:58:34">[00:58:34]</a>.
+
+## General Philosophy
+*   **Conviction and Learning**: He values conviction in beliefs ("strong beliefs, weakly held") and sees challenges to his ideas as the primary source of learning <a class="yt-timestamp" data-t="00:09:40">[00:09:40]</a>, <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
+*   **The Downside of Most Bets is Smaller Than Imagined**: His overarching philosophical billboard message encourages taking leaps, emphasizing that people often overestimate the negative consequences of risks <a class="yt-timestamp" data-t="01:15:51">[01:15:51]</a>.
