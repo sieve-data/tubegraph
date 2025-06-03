@@ -1,0 +1,34 @@
+---
+title: Texture and Flavors of Jiggly Cake
+videoId: _vfdupZNKqo
+---
+
+From: [[aragusea]] <br/> 
+
+Jiggly cake, also known as [[ingredient_proportions_for_castella_cake | Castella cake]], is a simple egg sponge cake, particularly popular in Taiwan, renowned for its unique texture and distinctive "wubba wubba" movement when cut <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>, <a class="yt-timestamp" data-t="00:00:13">[00:00:13]</a>. Its primary appeal lies in its novelty and exceptionally [[baking_techniques_for_jiggly_cake | springy and pillowy texture]] <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>.
+
+## Characteristic Texture
+The defining characteristic of jiggly cake is its incredibly soft, airy, and "pudding-like" interior mass, which allows it to jiggle when moved or cut <a class="yt-timestamp" data-t="00:00:51">[00:00:51]</a>, <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>, <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. This texture is achieved through several specific [[baking_techniques_for_jiggly_cake | baking techniques]] and [[ingredient_proportions_for_castella_cake | ingredient choices]]:
+
+*   **High Egg Content** The cake's mass is literally half egg, and its structural matrix is built on egg, not wheat <a class="yt-timestamp" data-t="00:03:38">[00:03:38]</a>, <a class="yt-timestamp" data-t="00:07:08">[00:07:08]</a>. The large volume of whipped egg whites (meringue) is crucial for the cake's light, airy quality, as the cake is mostly air <a class="yt-timestamp" data-t="00:01:38">[00:01:38]</a>, <a class="yt-timestamp" data-t="00:10:23">[00:10:23]</a>.
+*   **Water Bath Baking** [[baking_techniques_for_jiggly_cake | Baking in a water bath]] simulates a steam injection oven, which is essential for creating a moist environment <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>, <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. This steam prevents the top from setting up hard and restricting the upward expansion of the cake <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>, <a class="yt-timestamp" data-t="00:08:39">[00:08:39]</a>. It also keeps the sides of the cake pan relatively cool, preventing them from overcooking and browning excessively, resulting in light sides <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>, <a class="yt-timestamp" data-t="00:08:54">[00:08:54]</a>, <a class="yt-timestamp" data-t="00:09:39">[00:09:39]</a>.
+*   **Ingredient Choices for Texture**
+    *   **Vegetable Oil**: While melted butter could be used for flavor, vegetable oil is preferred by professionals as it yields a softer texture <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>, <a class="yt-timestamp" data-t="00:04:49">[00:04:49]</a>.
+    *   **Cake Flour**: Using cake flour helps ensure a tender crumb, as cakes built on egg foams can sometimes be tough <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>, <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
+    *   **Cornstarch**: A small addition of [[role_of_ingredients_like_evaporated_milk_and_salt_in_texture_and_flavor | cornstarch]] makes the interior crumb finer and more pudding-like <a class="yt-timestamp" data-t="00:05:14">[00:05:14]</a>, <a class="yt-timestamp" data-t="00:05:18">[00:05:18]</a>.
+    *   **Cream of Tartar/Acid**: Adding [[the_science_of_cake_mixing_and_leavening | acids]] like cream of tartar, lemon juice, or white vinegar to the egg whites makes the [[the_science_of_cake_mixing_and_leavening | egg foams]] more elastic, allowing them to mix with other ingredients without deflating <a class="yt-timestamp" data-t="00:05:55">[00:05:55]</a>, <a class="yt-timestamp" data-t="00:05:59">[00:05:59]</a>.
+    *   **Sugar**: Gradual incorporation of sugar significantly strengthens the meringue foam, making it firmer <a class="yt-timestamp" data-t="00:06:32">[00:06:32]</a>, <a class="yt-timestamp" data-t="00:06:36">[00:06:36]</a>.
+*   **Mixing Technique**: While conventional baking wisdom might suggest gently folding in egg foam to prevent deflation, the high volume of meringue in jiggly cake allows for more vigorous mixing without compromising the pillow-like texture <a class="yt-timestamp" data-t="00:07:14">[00:07:14]</a>, <a class="yt-timestamp" data-t="00:07:31">[00:07:31]</a>.
+*   **Pan Dimensions**: Using a taller pan with rigid walls helps the cake achieve its characteristic "wubba wubba" jiggly motion when cut, as opposed to a shorter pan which would result in too much rigid surface relative to its pudding-like inner mass <a class="yt-timestamp" data-t="00:00:49">[00:00:49]</a>, <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>.
+*   **Baking Temperature**: A temperature of 325°F (160°C) without a convection fan is recommended, as the fan can cause the top of the cake to crack <a class="yt-timestamp" data-t="00:01:52">[00:01:52]</a>, <a class="yt-timestamp" data-t="00:01:58">[00:01:58]</a>. Achieving medium peaks in the meringue (peaks that flop over) can lead to a smoother, more attractive top, though stiffer peaks might result in more puffing but also more cracking <a class="yt-timestamp" data-t="00:06:39">[00:06:39]</a>, <a class="yt-timestamp" data-t="00:06:47">[00:06:47]</a>.
+
+## Flavor Profile
+The flavor of jiggly cake is unique and largely determined by its high egg content.
+
+*   **Initial Flavor (Warm)**: When eaten warm, the cake can have an off-putting taste, described as "farts" <a class="yt-timestamp" data-t="00:10:05">[00:10:05]</a>. This is attributed to the sulfur present in eggs, which off-gases or breaks down as the cake cools <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>, <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>.
+*   **Cooled Flavor**: The unpleasant sulfur taste dissipates as the cake cools, resulting in a "nice" flavor <a class="yt-timestamp" data-t="00:10:12">[00:10:12]</a>, <a class="yt-timestamp" data-t="00:10:17">[00:10:17]</a>.
+*   **Flavor Customization**: While the base cake is simple, its flavor can be enhanced or altered with additions:
+    *   **Vanilla**: A common addition for flavor <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>.
+    *   **Extracts**: Different extracts, such as orange extract, can be used to experiment with various flavors <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>, <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+    *   **[[role_of_ingredients_like_evaporated_milk_and_salt_in_texture_and_flavor | Salt]]**: A heaped teaspoon of [[role_of_ingredients_like_evaporated_milk_and_salt_in_texture_and_flavor | salt]] is added to balance the flavors <a class="yt-timestamp" data-t="00:05:33">[00:05:33]</a>.
+    *   **Add-ins**: Chunks like chocolate chips can also be incorporated for additional flavor and texture <a class="yt-timestamp" data-t="00:10:36">[00:10:36]</a>.

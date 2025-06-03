@@ -1,0 +1,49 @@
+---
+title: Public health perceptions and hysteria around MSG
+videoId: E-POAKKH5IM
+---
+
+From: [[aragusea]] <br/> 
+
+Public health concern surrounding MSG has been largely an irrational fixation, driven in part by [[msgrelated_xenophobia_and_chinese_restaurant_syndrome | anti-Asian xenophobia]] <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. While the basic [[scientific_studies_on_msgs_health_impacts_and_corporate_influence | scientific consensus]] suggests no particular reason to fear or avoid MSG more than other ubiquitous food additives, the processed food industry has spent significant money to build and popularize this consensus, which may give some pause <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+
+## What is MSG?
+MSG stands for monosodium glutamate, which is the sodium salt of glutamic acid <a class="yt-timestamp" data-t="00:01:11">[00:01:11]</a>.
+
+### Historical Context and Discovery
+Glutamic acid was first isolated in 1866 by German chemist Carl Heinrich Ritthausen, who treated gluten (wheat proteins) with sulfuric acid <a class="yt-timestamp" data-t="00:01:21">[00:01:21]</a>. Although this process doesn't sound "wholesome," glutamic acid naturally occurs in many whole foods, including meat, tomatoes, mushrooms, and seaweed/algae <a class="yt-timestamp" data-t="00:01:31">[00:01:31]</a>. Our bodies also produce glutamates from other amino acids we consume <a class="yt-timestamp" data-t="00:01:40">[00:01:40]</a>.
+
+The taste of glutamic acid alone was described as "insipid" by German scientist Herman Fisher <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>. However, Japanese chemist Kikunae Ikeda, who studied in Germany, isolated monosodium glutamate while researching Japanese seaweed broths <a class="yt-timestamp" data-t="00:02:01">[00:02:01]</a>. Ikeda called the taste "umami," which roughly translates to savory or yummy <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. By 1909, Ikeda had developed a process for mass-producing MSG, which was cheap, chemically inert, shelf-stable, heat-stable, and easily dissolved in water <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>.
+
+MSG, such as the brand-name Accent, is widely available in grocery stores and consists solely of monosodium glutamate <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>. It is less salty than salt and immediately recognizable as the taste of processed snack foods, which are often coated in MSG <a class="yt-timestamp" data-t="00:02:41">[00:02:41]</a>.
+
+### Is MSG "Natural"?
+While glutamates do occur in nature, Dr. Sarah Tracy, a historian of science and food, argues that the MSG found in a bottle is not "natural" <a class="yt-timestamp" data-t="00:03:05">[00:03:05]</a>. It is a product created in factories through industrial fermentation processes, using particular strains of bacteria to excrete glutamate into tanks, which is then harvested and stabilized with sodium molecules <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>. This industrial fermentation is also used to produce many other common products, such as vitamin C supplements and insulin <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. The question of whether MSG is harmful is distinct from whether it is "natural," as some of the deadliest substances on Earth are 100% natural <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>.
+
+## The "Chinese Restaurant Syndrome" Panic
+The inquiry into MSG's safety was significantly muddied by a peculiar 1968 letter to the editor of the *New England Journal of Medicine* <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
+
+### Origins of the Syndrome
+The letter, sent by Chinese-American physician Dr. Robert Ho Man Kwok, was headlined "[[msgrelated_xenophobia_and_chinese_restaurant_syndrome | Chinese restaurant syndrome]]" <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. After eating American Chinese food, Dr. Kwok reported symptoms like numbness in the neck radiating to the arms, general weakness, and palpitation <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>.
+
+The "correspondence pages" of the *New England Journal* were not for rigorous peer-reviewed research, but rather a forum for doctors to "talk shop" and discuss ideas that were not ready for formal publication <a class="yt-timestamp" data-t="00:06:11">[00:06:11]</a>. The journal also had a tradition of doctors sending in prank letters about "joke syndromes" <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>. It is uncertain if Dr. Kwok intended it as a hoax, and in 2018, Dr. Howard Steele claimed to have written the letter as a hoax, though this was likely untrue <a class="yt-timestamp" data-t="00:06:40">[00:06:40]</a>. Even if taken at face value, Dr. Tracy notes that Kwok was merely "spitballing" theories about potential causes <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.
+
+### Cultural Phenomenon and [[msgrelated_xenophobia_and_chinese_restaurant_syndrome | Xenophobia]]
+This letter became a cultural phenomenon, coinciding with a period in the late 1960s and early 1970s when people were critical of corporate influence and environmental degradation <a class="yt-timestamp" data-t="00:07:04">[00:07:04]</a>. It also aligned with significant stigma against immigrant populations <a class="yt-timestamp" data-t="00:07:34">[00:07:34]</a>. The idea that a "foreign science powder" was making people feel ill after consuming large portions of American Chinese food gained traction <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>.
+
+Scholars now largely regard [[msgrelated_xenophobia_and_chinese_restaurant_syndrome | Chinese restaurant syndrome]] as a [[msgrelated_xenophobia_and_chinese_restaurant_syndrome | xenophobic moral panic]] rather than a real medical condition <a class="yt-timestamp" data-t="00:07:59">[00:07:59]</a>.
+
+## Modern [[scientific_studies_on_msgs_health_impacts_and_corporate_influence | Scientific Re-evaluation]]
+While MSG's reputation has been unfairly tarnished by its association with industrial foods <a class="yt-timestamp" data-t="00:02:50">[00:02:50]</a>, there has been a significant amount of money made with MSG, and Dr. Tracy's research documents how some of that money has been used to rehabilitate MSG's image <a class="yt-timestamp" data-t="00:08:07">[00:08:07]</a>. She expresses concern about a potential "cultural overcorrection," where the argument that [[msgrelated_xenophobia_and_chinese_restaurant_syndrome | Chinese restaurant syndrome]] was racist acts as a smokescreen for questions about corporate interest and bias in [[scientific_studies_on_msgs_health_im pacts_and_corporate_influence | scientific research]] <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>.
+
+### Health Concerns
+Real [[scientific_studies_on_msgs_health_impacts_and_corporate_influence | science]] has shown some health problems associated with MSG <a class="yt-timestamp" data-t="00:08:38">[00:08:38]</a>. Early research in the 1970s and 80s explored whether MSG might be a neurotoxin, theorizing it could overstimulate neurons and cause them to die <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>. Studies using very large doses, often delivered by injection, did result in strange symptoms like lesions, but this has not persisted as a major concern for scientists because such high doses are not consumed normally <a class="yt-timestamp" data-t="00:09:00">[00:09:00]</a>.
+
+A widely cited 1990s report commissioned by the US Food and Drug Administration concluded that a small subset of the population might experience mild symptoms similar to those Dr. Kwok described, particularly individuals with asthma <a class="yt-timestamp" data-t="00:09:26">[00:09:26]</a>. However, even these experiments involved subjects consuming at least three grams of MSG on an empty stomach, which is a significant amount not typically consumed <a class="yt-timestamp" data-t="00:09:41">[00:09:41]</a>.
+
+Current research focuses on whether MSG might be a direct contributor to metabolic problems like [[role_of_msg_in_processed_foods_and_its_contribution_to_obesity | obesity and type 2 diabetes]] <a class="yt-timestamp" data-t="00:09:54">[00:09:54]</a>. Glutamates are deeply involved in processes like appetite regulation <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>. While the jury is still out on a direct causal link, Dr. Tracy argues that MSG is an indirect contributor to [[role_of_msg_in_processed_foods_and_its_contribution_to_obesity | obesity]] because it makes "terrible junk foods taste really good" <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. This creates an "irresistible" combination of enhanced flavor, crunch, aroma, and mouthfeel that encourages overeating <a class="yt-timestamp" data-t="00:10:24">[00:10:24]</a>.
+
+### MSG's Flavor Impact
+MSG does not significantly improve the taste of foods that already taste good or are savory <a class="yt-timestamp" data-t="00:11:25">[00:11:25]</a>. Its primary utility lies in giving taste to bland foods that would otherwise have little flavor, such as tilapia, cauliflower rice, or starch-based snacks like Cheetos <a class="yt-timestamp" data-t="00:11:39">[00:11:39]</a>. For example, adding MSG to plain tortilla chips can make them taste like Doritos, even without cheese powder or other seasonings <a class="yt-timestamp" data-t="00:11:53">[00:11:53]</a>. This effect is often synergistic with other flavor potentiators, such as IMP and GMP, which work with MSG to create even more appealing tastes <a class="yt-timestamp" data-t="00:12:12">[00:12:12]</a>.
+
+Ultimately, while [[scientific_studies_on_msgs_health_impacts_and_corporate_influence | science]] is remarkable, it has also enabled foods that are unhealthy to become "addictively delicious," and this may be the most significant health hazard posed by MSG <a class="yt-timestamp" data-t="00:12:25">[00:12:25]</a>.
